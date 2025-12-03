@@ -1,2678 +1,567 @@
 window.PAGE_DATA = [
   {
-    "id": 11586,
-    "IDcode": "SQTE-566",
-    "title": "この子ヤバイ！！ベテランAV監督が男優に嫉妬するレベルの可愛さ！日本の宝です。 天月あず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "蘿莉控",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "校花",
-      "後入",
-      "JK校服",
-      "性感",
-      "女學生",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "文藝女",
-      "形象俱樂部",
-      "美少女",
-      "短髮",
-      "中出",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/89ebeeaf/vod.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-566"
-  },
-  {
-    "id": 11598,
-    "IDcode": "SQTE-567",
-    "title": "噂のタダマン生活委員にSEXさせて下さい。と、土下座してみるorz 沙月恵奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "口交",
-      "絕頂高潮",
-      "後入",
-      "叛逆少女",
-      "JK校服",
-      "蠻橫嬌羞",
-      "女學生",
-      "騎乗位",
-      "泳裝",
-      "美少女電影",
-      "美腳",
-      "校園生活",
-      "學校",
-      "劇情",
-      "形象俱樂部",
-      "美少女",
-      "小隻馬",
-      "勾引・誘惑",
-      "中出",
-      "艷遇"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/2f070119/vod.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-567"
-  },
-  {
-    "id": 175258,
-    "IDcode": "SQTE-568",
-    "title": "感じすぎて声が我慢できない！黒髪美人が喘ぎ続ける密着ラブラブSEX 鈴乃ウト",
+    "id": 470787,
+    "IDcode": "GVG-976",
+    "title": "W奴隷 渚光希 君色花音",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/889f71bb/vod.jpg",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/05/677a6be42a47ebb1a85c147f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-568"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-976"
   },
   {
-    "id": 11267,
-    "IDcode": "SQTE-569",
-    "title": "セフレ以上、恋人未満。～可愛い笑顔の裏は性欲だらけ～ 月本海咲",
+    "id": 97865,
+    "IDcode": "GVG-977",
+    "title": "社長の息子のHな社会科見学 加瀬ななほ/星川凛々花/椎葉みくる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "護士",
-      "純愛・戀愛",
-      "少女",
-      "慾求不滿",
-      "劇情",
-      "女上位",
-      "中出",
-      "飯店",
-      "色白",
-      "美少女",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "護士制服",
-      "騎乗位",
-      "醫院・診所",
-      "美少女電影",
-      "後入"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/dcfefa58/vod.jpg",
-    "actress": [
-      "月本海咲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-569"
-  },
-  {
-    "id": 176980,
-    "IDcode": "SQTE-571",
-    "title": "甘えん坊彼女の性欲が無限大 幾野まち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/f394756e/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-571"
-  },
-  {
-    "id": 10879,
-    "IDcode": "SQTE-572",
-    "title": "この子ヤバイ！！最高の尻「黒髪ポニーテールをバックで犯したい。」宮城りえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "自慰",
-      "後入",
-      "巨尻",
-      "美腿",
-      "性感",
-      "約炮",
-      "蠻橫嬌羞",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "內衣",
-      "形象俱樂部",
-      "色白",
-      "美少女",
-      "脚控・戀足癖",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "明星臉",
-      "艷遇",
-      "美臀"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/bcc8e59c/vod.jpg",
-    "actress": [
-      "宮城理惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-572"
-  },
-  {
-    "id": 10532,
-    "IDcode": "SQTE-574",
-    "title": "セフレ以上、恋人未満。ずーっとムラムラ！脱いだらエロすぎるボディのむっつり美少女とハメ撮り三昧！ 柏木こなつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "蘿莉控",
-      "女上位",
-      "女僕制服",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "自慰",
-      "後入",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "劇情",
-      "形象俱樂部",
-      "美少女",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/2ec844ba/vod.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-574"
-  },
-  {
-    "id": 10538,
-    "IDcode": "SQTE-575",
-    "title": "主導権は年下の彼女 宮西ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "美乳",
-      "女上位",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "自慰",
-      "後入",
-      "美腿",
-      "性感",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "文藝女",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "色白",
-      "美少女",
-      "潮吹",
-      "眼鏡",
-      "勾引・誘惑",
-      "慾求不滿",
-      "中出",
-      "癡女",
-      "艷遇",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/f02c2cfe/vod.jpg",
-    "actress": [
-      "宮西光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-575"
-  },
-  {
-    "id": 10531,
-    "IDcode": "SQTE-576",
-    "title": "ウチの家内は隣人のデカチンが欲しくて我慢できない。 小春まり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "不倫",
-      "女上位",
-      "家庭主妇",
-      "口交",
-      "絕頂高潮",
-      "人妻",
-      "後入",
-      "美腿",
-      "淫亂",
-      "手指插入",
-      "出軌",
-      "亂交 • 群P",
-      "3P・4P",
-      "舔陰",
-      "深喉",
-      "蕩婦",
-      "騎乗位",
-      "兩男一女",
-      "黑絲",
-      "美少女電影",
-      "情趣內衣",
-      "NTR",
-      "劇情",
-      "形象俱樂部",
-      "美人妻",
-      "色白",
-      "勾引・誘惑",
-      "顏射",
-      "慾求不滿",
-      "中出",
+      "恶作剧",
       "多P",
-      "艷遇",
-      "鄰居"
+      "正太控",
+      "素人作品",
+      "连裤袜"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/29a1e914/vod.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/21d1bbffd96957b87d0c37baad93e9e9.jpg",
     "actress": [
-      "上戶真理",
-      "鲛岛"
+      "百瀬凛花",
+      "加濑七穗",
+      "椎叶みくる"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-576"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-977"
   },
   {
-    "id": 10239,
-    "IDcode": "SQTE-578",
-    "title": "休日に彼女と。何度もラブラブセックス。優梨まいな",
+    "id": 469466,
+    "IDcode": "GVG-978",
+    "title": "マンズリ大好き巨乳淫語女部長 真樹涼子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "胸控・戀乳癖",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "手指插入",
-      "性感",
-      "騎乗位",
-      "溫泉",
-      "美少女電影",
-      "純愛・戀愛",
-      "劇情",
-      "形象俱樂部",
-      "色白",
-      "美少女",
-      "潮吹",
-      "女友・妻子",
-      "慾求不滿",
-      "中出",
-      "乳交",
-      "和服・浴衣・喪服",
-      "旅行"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/a3689157/vod.jpg",
-    "actress": [
-      "優梨舞奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-578"
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67841a3ef9a2e9b1d4988516/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-978"
   },
   {
-    "id": 186079,
-    "IDcode": "SQTE-579",
-    "title": "金玉空っぽにしてあげる（ハート）ドSな彼女と朝が来るまで一晩中SEX 月野かすみ",
+    "id": 566313,
+    "IDcode": "GVG-979",
+    "title": "入院中の黒人のデカマラに疼いてしまった看护师の私…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/a3c4dc56/vod.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/20fb83dcc027ccb82b7f9c3c6b2bac8c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-579"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-979"
   },
   {
-    "id": 9813,
-    "IDcode": "SQTE-581",
-    "title": "セフレ以上、恋人未満。 頭の中はセックス100ぱーせんと。スケベ大好き娘とハメ撮り三昧！弥生みづき",
+    "id": 97621,
+    "IDcode": "GVG-980",
+    "title": "ノーブラノーパンで挑発してくるスケベ奥さんが隣に引っ越してきた！ 七瀬もな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
-      "女上位",
-      "飯店",
-      "網襪",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "自慰",
-      "後入",
-      "羞恥",
-      "性感",
-      "騎乗位",
-      "美少女電影",
-      "內衣",
-      "形象俱樂部",
-      "色白",
-      "白絲",
-      "中出"
+      "荡妇",
+      "已婚妇女",
+      "戏剧",
+      "素人作品",
+      "巨乳"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/1d6bd0b0/vod.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67841a3af9a2e9b1d4988506/cover.jpg",
     "actress": [
-      "彌生美月",
-      "弥生美月"
+      "七瀬もな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-581"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-980"
   },
   {
-    "id": 9812,
-    "IDcode": "SQTE-582",
-    "title": "’恥毛は抜いちゃダメって言ってたから’挿れて喜ぶ濡れすぎ剛毛痴態 永野鈴",
+    "id": 78771,
+    "IDcode": "GVG-981",
+    "title": "お色気P●A会長と悪ガキ生徒会 西田カリナ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "鬃毛",
-      "自慰",
-      "後入",
-      "巨尻",
-      "羞恥",
-      "美腿",
-      "手指插入",
-      "舔陰",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "美少女",
-      "舔腳",
-      "脚控・戀足癖",
-      "苗條",
-      "中出",
-      "癡女",
-      "美臀",
-      "清純"
+      "眼镜",
+      "素人作品",
+      "正太控",
+      "戏剧"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/f7f2b712/vod.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e8c2589def9b1b8ce97a1/cover.jpg",
     "actress": [
-      "永野鈴"
+      "西田卡莉娜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-582"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-981"
   },
   {
-    "id": 9345,
-    "IDcode": "SQTE-585",
-    "title": "この子ヤバイ！！おっぱいモンスターに溺れたい。羽月乃蒼",
+    "id": 78776,
+    "IDcode": "GVG-982",
+    "title": "老働者に輪●され性奴●と化す巨乳未亡人 高坂あいり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "胸控・戀乳癖",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "女優",
-      "純粹的慾望",
-      "絕頂高潮",
-      "後入",
-      "巨尻",
-      "淫亂",
-      "性感",
-      "無毛",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "色白",
-      "慾求不滿",
-      "中出",
-      "癡女",
-      "乳交"
+      "多P",
+      "寡妇",
+      "素人作品",
+      "巨乳"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/cd55d8b7/vod.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e989889def9b1b8ceab8b/cover.jpg",
     "actress": [
-      "羽月乃蒼"
+      "高坂あいり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-585"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-982"
   },
   {
-    "id": 9346,
-    "IDcode": "SQTE-586",
-    "title": "軟乳Hカップ娘の愛液が止まらない！触られる前からパンツびしょ濡れ 宮本聡美",
+    "id": 78837,
+    "IDcode": "GVG-983",
+    "title": "監禁クローゼット 有坂深雪",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "自慰",
-      "後入",
-      "美腿",
-      "少女",
-      "手指插入",
-      "舔陰",
-      "企畫",
-      "美少女電影",
-      "美腳",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "美少女",
-      "脚控・戀足癖",
-      "潮吹",
-      "小隻馬",
-      "顏射",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "癡女",
-      "美臀",
-      "清純"
+      "捆绑",
+      "监禁",
+      "魔鬼系",
+      "拘束",
+      "素人作品"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/a7fefe08/vod.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/05/677a72592a47ebb1a85c14b9/cover.jpg",
     "actress": [
-      "宮本聡美"
+      "有坂深雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-586"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-983"
   },
   {
-    "id": 9347,
-    "IDcode": "SQTE-587",
-    "title": "いびつな性癖、勃起興奮男を焦らして虐めたい。 姫川ゆうな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "女優",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "手指插入",
-      "蠻橫嬌羞",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "純愛・戀愛",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "潮吹",
-      "M男・M女",
-      "慾求不滿",
-      "中出",
-      "癡女",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/628e6af3/vod.jpg",
-    "actress": [
-      "姫川ゆうな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-587"
-  },
-  {
-    "id": 74180,
-    "IDcode": "SQTE-588",
-    "title": "セフレ以上、恋人未満。なにも考えないで今日のエッチを楽しも 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "口交",
-      "美少女电影",
-      "恋爱",
-      "第一人称摄影",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/eb207e0ff293cb3bf4d7d432d4b19d6a.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-588"
-  },
-  {
-    "id": 187916,
-    "IDcode": "SQTE-589",
-    "title": "休日に彼女と。笑顔の裏は性欲まみれ 我慢できない種付け温泉旅行 天月あず",
+    "id": 401466,
+    "IDcode": "GVG-985",
+    "title": "三世代近●相姦 羽月希 緒方泰子 市橋惠理奈 雪美千夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/abe3f1cbb67867e1e3a0d556d057daa9.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e9a4289def9b1b8ceae45/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-589"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-985"
   },
   {
-    "id": 187963,
-    "IDcode": "SQTE-590",
-    "title": "汗と匂いとSEX 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/2a218508773c82a893c8c84530359245.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-590"
-  },
-  {
-    "id": 8604,
-    "IDcode": "SQTE-591",
-    "title": "欲しがり剛毛美少女 Gカップおっぱい揺らしてヘトヘトになるまでSEX 天晴乃愛",
+    "id": 78864,
+    "IDcode": "GVG-987",
+    "title": "町医者老人の顔舐め中出し変態カルテ 紺野ひかる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "胸控・戀乳癖",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
+      "已婚妇女",
+      "恋物癖",
+      "中出",
+      "素人作品",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-12-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/db6e08af3500b1fd66c1138472219473.jpg",
+    "actress": [
+      "绀野光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-987"
+  },
+  {
+    "id": 76186,
+    "IDcode": "GVH-001",
+    "title": "禁断介護 渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "各种职业",
+      "恋物癖",
+      "素人作品",
+      "戏剧"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/ac484f4e215661343353ab1d1ff7eec6.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-001"
+  },
+  {
+    "id": 76720,
+    "IDcode": "GVH-002",
+    "title": "ボイン大好きしょう太くんのHなイタズラ 松本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恶作剧",
+      "正太控",
+      "素人作品",
       "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "鬃毛",
-      "後入",
-      "口爆",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "美少女",
-      "潮吹",
-      "女友・妻子",
-      "短髮",
-      "慾求不滿",
+      "恋乳癖",
+      "泳装"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/360f18c4518f911021776e3c4dda6170.jpg",
+    "actress": [
+      "松本菜奈実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-002"
+  },
+  {
+    "id": 76027,
+    "IDcode": "GVH-003",
+    "title": "母子姦 青木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "戏剧",
+      "乱伦",
       "中出",
-      "癡女",
-      "乳交",
-      "美臀"
+      "素人作品",
+      "母亲"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/8057a92c/vod.jpg",
-    "actress": [
-      "天晴乃愛"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-591"
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/0e6d34081f81ba42f37660cb0c97b341.jpg",
+    "actress": [
+      "青木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-003"
   },
   {
-    "id": 8605,
-    "IDcode": "SQTE-592",
-    "title": "休日に彼女と。射精してデート、デートして射精 子宮に3発種付け温泉旅行 尾崎えりか",
+    "id": 83095,
+    "IDcode": "GVH-004",
+    "title": "裏切りの卒業旅行 永瀬ゆい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "胸控・戀乳癖",
-      "精選綜合",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "口爆",
-      "手指插入",
-      "性感",
-      "舔陰",
-      "4K",
-      "美人",
-      "騎乗位",
-      "溫泉",
-      "美少女電影",
-      "接吻",
-      "純愛・戀愛",
-      "劇情",
-      "形象俱樂部",
-      "色白",
-      "潮吹",
-      "感官作品",
-      "女友・妻子",
-      "慾求不滿",
-      "中出",
-      "乳交",
-      "和服・浴衣・喪服",
-      "旅行"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/b2238c91/vod.jpg",
-    "actress": [
-      "尾崎惠梨香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-592"
-  },
-  {
-    "id": 8414,
-    "IDcode": "SQTE-593",
-    "title": "エッチ好き過ぎてAV出演 『私とエッチしてみませんか？』 那賀崎ゆきね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "自慰",
-      "口爆",
-      "淫亂",
-      "手指插入",
-      "舔陰",
-      "深喉",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "接吻",
-      "內衣",
-      "形象俱樂部",
-      "色白",
-      "舔腳",
-      "潮吹",
-      "小隻馬",
-      "真實拍攝",
-      "短髮",
-      "顏射",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "癡女",
-      "真人秀",
-      "美臀",
-      "地味"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/9aba957993d6d121fdaa276c7cf44739.jpg",
-    "actress": [
-      "那賀崎雪音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-593"
-  },
-  {
-    "id": 8231,
-    "IDcode": "SQTE-594",
-    "title": "セフレ以上、恋人未満。今日は、触れて挿れてイかせて欲しい日 宮城りえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "極品美人",
-      "手指插入",
-      "性感",
-      "舔陰",
-      "美人",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "美少女",
-      "潮吹",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "美臀"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/f511327f9fa1685edf56d6989277a3b4.jpg",
-    "actress": [
-      "宮城理惠",
-      "東雲怜弥"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-594"
-  },
-  {
-    "id": 72522,
-    "IDcode": "SQTE-595",
-    "title": "主導権は年下の彼女 天馬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "口交",
-      "美少女电影",
-      "自慰",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/6585af11f90310e6d43e00afbba90353.jpg",
-    "actress": [
-      "天馬唯",
-      "東雲怜弥"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-595"
-  },
-  {
-    "id": 189764,
-    "IDcode": "SQTE-596",
-    "title": "傷心旅行で出会った女の子が可愛すぎてエッチすぎる 末広純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/08e21f61ef8ac469e7dcdd62d5a0b71d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-596"
-  },
-  {
-    "id": 7825,
-    "IDcode": "SQTE-597",
-    "title": "この娘ヤバイ！！おっとり静河は挿れて男を感じたい。お口とマ○コでご奉仕SEX 静河",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "巨尻",
-      "口爆",
-      "美腿",
-      "淫亂",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "豐滿",
-      "接吻",
-      "內衣",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "潮吹",
-      "慾求不滿",
-      "中出",
-      "癡女",
-      "乳交",
-      "美臀"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/dab7621846421ab1865311b8104c35b1.jpg",
-    "actress": [
-      "静河"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-597"
-  },
-  {
-    "id": 7828,
-    "IDcode": "SQTE-598",
-    "title": "汗と匂いとセックス 月野かすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "運動女孩",
-      "極品美人",
-      "口爆",
-      "美腿",
-      "手指插入",
-      "流汗",
-      "性感",
-      "蠻橫嬌羞",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "溫泉",
-      "美少女電影",
-      "美腳",
-      "接吻",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "色白",
-      "脚控・戀足癖",
-      "潮吹",
-      "69",
-      "慾求不滿",
-      "中出",
-      "乳交",
-      "故事集"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/264b69fb4f3fe69bf2f02ca58a185c4c.jpg",
-    "actress": [
-      "月野香澄"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-598"
-  },
-  {
-    "id": 7457,
-    "IDcode": "SQTE-599",
-    "title": "セフレ以上、恋人未満。デート中から頭の中はSEXばかり。色白美人とハメ撮り三昧！ 中城葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "純粹的慾望",
-      "自慰",
-      "後入",
-      "美人",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "純愛・戀愛",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "美少女",
-      "女友・妻子",
-      "中出"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/ee674c2639782abd75cd77737aad1a04.jpg",
-    "actress": [
-      "中城葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-599"
-  },
-  {
-    "id": 7460,
-    "IDcode": "SQTE-600",
-    "title": "いつでも使えるオナホ後輩 美咲音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "美腿",
-      "性感",
-      "女學生",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "無毛",
-      "美少女電影",
-      "美腳",
-      "形象俱樂部",
-      "清楚系",
-      "美少女",
-      "慾求不滿",
-      "中出",
-      "艷遇",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/317a75200e99e07e26a9f4bb0f3ae6e6.jpg",
-    "actress": [
-      "美咲音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-600"
-  },
-  {
-    "id": 7497,
-    "IDcode": "SQTE-601",
-    "title": "いびつな性癖、勃起M男を虐めたい。胡桃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "美乳",
-      "女上位",
-      "口交",
-      "巨乳",
-      "濕身",
-      "純粹的慾望",
-      "絕頂高潮",
-      "後入",
-      "早漏",
-      "極品美人",
-      "美腿",
-      "主觀視角",
-      "手指插入",
-      "性感",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "內衣",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "色白",
-      "舔腳",
-      "脚控・戀足癖",
-      "潮吹",
-      "小隻馬",
-      "女友・妻子",
-      "M男・M女",
-      "慾求不滿",
-      "中出",
-      "癡女",
-      "乳交",
-      "美臀"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/626959a66d70ab67fee1a49b971265b9.jpg",
-    "actress": [
-      "胡桃櫻花",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-601"
-  },
-  {
-    "id": 7153,
-    "IDcode": "SQTE-602",
-    "title": "箱入り娘がAV出演！黑髪Mっ子のご奉仕SEX 天沢りん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "自慰",
-      "後入",
-      "極品美人",
-      "羞恥",
-      "美腿",
-      "少女",
-      "手指插入",
-      "性感",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "美少女",
-      "舔腳",
-      "脚控・戀足癖",
-      "潮吹",
-      "M男・M女",
-      "慾求不滿",
-      "中出",
-      "傲嬌",
-      "乳交",
-      "大小姐",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250712-1/7bd587cc1db54f95bc0ec7d5d09f3207.jpg",
-    "actress": [
-      "天沢りん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-602"
-  },
-  {
-    "id": 7151,
-    "IDcode": "SQTE-603",
-    "title": "やっぱりエロくて優しいギャルが好き 春陽モカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "足交",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "口爆",
-      "極品美人",
-      "美腿",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "內衣",
-      "接吻",
-      "形象俱樂部",
-      "舔腳",
-      "脚控・戀足癖",
-      "潮吹",
-      "短髮",
-      "顏射",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "癡女",
-      "乳交",
-      "明星臉",
-      "美臀",
-      "辣妹/GAL系",
-      "金髮"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250712-1/a108adc98a90bed3995ec34e7d56b66a.jpg",
-    "actress": [
-      "春陽萌花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-603"
-  },
-  {
-    "id": 7149,
-    "IDcode": "SQTE-604",
-    "title": "いびつな性癖、美女がチンチンをイジメ倒す3本番 美咲かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "足交",
-      "素股",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "極品美人",
-      "口爆",
-      "美腿",
-      "手指插入",
-      "角色扮演",
-      "性感",
-      "舔陰",
-      "深喉",
-      "美人",
-      "游戲COSPLAY",
-      "騎乗位",
-      "護士制服",
-      "黑絲",
-      "美少女電影",
-      "美腳",
-      "護士",
-      "接吻",
-      "劇情",
-      "形象俱樂部",
-      "色白",
-      "舔腳",
-      "脚控・戀足癖",
-      "潮吹",
-      "制服",
-      "白絲",
-      "慾求不滿",
-      "中出",
-      "美臀",
-      "OL"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250714-1/1c56f5ea7440c37ae2546c1bcb082e19.jpg",
-    "actress": [
-      "美咲佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-604"
-  },
-  {
-    "id": 68881,
-    "IDcode": "SQTE-605",
-    "title": "休日に彼女と。巨乳彼女に中出し温泉旅行 わか菜ほの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "浴衣",
-      "巨乳",
-      "美少女电影",
-      "第一人称摄影",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/58d2e30f0295ea560555dc4a97c8dafb.jpg",
-    "actress": [
-      "若宮穂乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-605"
-  },
-  {
-    "id": 6858,
-    "IDcode": "SQTE-606",
-    "title": "「ご飯にする？お風呂にする？それとも私？」を天月あずがやったら想像以上にエロ過ぎた。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "若妻",
-      "胸控・戀乳癖",
-      "美乳",
-      "女上位",
-      "口交",
-      "巨乳",
-      "純粹的慾望",
-      "人妻",
-      "後入",
-      "主觀視角",
-      "性感",
-      "無毛",
-      "深喉",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "豐滿",
-      "裸體圍裙",
-      "清楚系",
-      "美人妻",
-      "色白",
-      "潮吹",
-      "感官作品",
-      "女友・妻子",
-      "短髮",
-      "中出",
-      "癡女",
-      "乳交"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/edcd0e40278b6838fdcd4073a8320432.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-606"
-  },
-  {
-    "id": 6425,
-    "IDcode": "SQTE-607",
-    "title": "この子ヤバイ！！私の前戯はまず挿入。ずーっと挿れてて欲しい美少女 虹村ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "蘿莉控",
-      "高顏值",
-      "女上位",
-      "臀控",
-      "口交",
-      "後入",
-      "羞恥",
-      "少女",
-      "4K",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "內衣",
-      "劇情",
-      "形象俱樂部",
-      "美少女",
-      "小隻馬",
-      "短髮",
-      "慾求不滿",
-      "苗條",
-      "單體作品",
-      "艷遇",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/6d0578bff7af6267dcf7a621e82b71d8.jpg",
-    "actress": [
-      "虹村由美",
-      "鲛岛",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-607"
-  },
-  {
-    "id": 6427,
-    "IDcode": "SQTE-608",
-    "title": "セフレ以上、恋人未満。デートもエッチも密着してたい 肌を寄せ合うハメ撮り三昧 新井リマ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "純粹的慾望",
-      "後入",
-      "極品美人",
-      "性感",
-      "約炮",
-      "4K",
-      "蠻橫嬌羞",
-      "美人",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "劇情",
-      "形象俱樂部",
-      "美少女",
-      "脚控・戀足癖",
-      "女友・妻子",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
-      "明星臉",
-      "美臀",
-      "奇聞趣事"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/5ccc7ab151ddaf31a4f458a8b8eb4672.jpg",
-    "actress": [
-      "新井里真",
-      "東雲怜弥"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-608"
-  },
-  {
-    "id": 6417,
-    "IDcode": "SQTE-609",
-    "title": "いびつな性癖、可愛い痴女は1回発射じゃ許さない！ 椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "美腿",
-      "丁字裤",
-      "性感",
-      "4K",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "情趣內衣",
-      "美少女電影",
-      "美腳",
-      "劇情",
-      "形象俱樂部",
-      "色白",
-      "美少女",
-      "慾求不滿",
-      "中出",
-      "單體作品",
-      "癡女",
-      "乳交",
-      "美臀"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/4ef1b34b3fb64f2bb57326985a127a40.jpg",
-    "actress": [
-      "椿莉香",
-      "向理来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-609"
-  },
-  {
-    "id": 6063,
-    "IDcode": "SQTE-610",
-    "title": "導権は年下の彼女 沙月恵奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "蘿莉控",
-      "美乳",
-      "女上位",
-      "口交",
-      "巨乳",
-      "校花",
-      "純粹的慾望",
-      "蘿莉",
-      "後入",
-      "口爆",
-      "極品美人",
-      "少女",
-      "手指插入",
-      "JK校服",
-      "蠻橫嬌羞",
-      "4K",
-      "舔陰",
-      "美人",
-      "女學生",
-      "騎乗位",
-      "無毛",
-      "美少女電影",
-      "美腳",
-      "接吻",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "美少女",
-      "脚控・戀足癖",
-      "潮吹",
-      "小隻馬",
-      "女友・妻子",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
-      "傲嬌",
-      "明星臉",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/f646af957a2b192f47eb391fa45007f2.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-610"
-  },
-  {
-    "id": 6084,
-    "IDcode": "SQTE-611",
-    "title": "休日に彼女と。最高の肉感の彼女に何度も中出し温泉旅行 宮西ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "口交",
-      "濕身",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "極品美人",
-      "美腿",
-      "手指插入",
-      "舔陰",
-      "4K",
-      "無毛",
-      "美人",
-      "騎乗位",
-      "溫泉",
-      "美腳",
-      "純愛・戀愛",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "高妹",
-      "美少女",
-      "潮吹",
-      "感官作品",
-      "女友・妻子",
-      "苗條",
-      "中出",
-      "單體作品",
-      "乳交",
-      "明星臉",
-      "美臀",
-      "和服・浴衣・喪服",
-      "旅行"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/0830081550304e0ac877cb0d6d6659bd.jpg",
-    "actress": [
-      "宮西光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-611"
-  },
-  {
-    "id": 5628,
-    "IDcode": "SQTE-612",
-    "title": "この子ヤバイ！！照れ屋な彼女の身体は『バカ！』正直。敏感イキすぎ3本番。北岡果林",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "口交",
-      "女優",
-      "純粹的慾望",
-      "後入",
-      "少女",
-      "手指插入",
-      "偶像",
-      "舔陰",
-      "4K",
-      "美人",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "美少女",
-      "單體作品",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250604-1/76461e19fffb46a36fd99a7a65038008.jpg",
-    "actress": [
-      "北岡果林"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-612"
-  },
-  {
-    "id": 5580,
-    "IDcode": "SQTE-613",
-    "title": "汗と匂いとSEX 天月あず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "巨尻",
-      "美腿",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "4K",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "無毛",
-      "豐滿",
-      "美少女電影",
-      "形象俱樂部",
-      "色白",
-      "短髮",
-      "勾引・誘惑",
-      "慾求不滿",
-      "中出",
-      "單體作品",
-      "癡女",
-      "乳交",
-      "艷遇",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250604-1/64da3aab1cc812cb0f6e26b09dcae5de.jpg",
-    "actress": [
-      "天月梓",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-613"
-  },
-  {
-    "id": 63009,
-    "IDcode": "SQTE-614",
-    "title": "休日に彼女と。ずっと繋がってたい、朝から晩までSEX旅行 天馬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "浴衣",
-      "口交",
-      "乳房",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/0066a2d342a304b3f366661b9d025186.jpg",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-614"
-  },
-  {
-    "id": 5281,
-    "IDcode": "SQTE-615",
-    "title": "セフレ以上、恋人未満。1発だけじゃ終われない！エロ過ぎのセフレに何度も中出し。 静河",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "女僕制服",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "小三・情人",
-      "後入",
-      "巨尻",
-      "極品美人",
-      "美腿",
-      "少女",
-      "手指插入",
-      "約炮",
-      "4K",
-      "蠻橫嬌羞",
-      "美人",
-      "舔陰",
-      "企畫",
-      "騎乗位",
-      "無毛",
-      "阪道系",
-      "黑絲",
-      "豐滿",
-      "美少女電影",
-      "美腳",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "高妹",
-      "色白",
-      "美少女",
-      "女僕",
-      "慾求不滿",
-      "中出",
-      "單體作品",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/a6421e3120fca8138b7bc2096c8be8d9.jpg",
-    "actress": [
-      "静河"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-615"
-  },
-  {
-    "id": 63007,
-    "IDcode": "SQTE-616",
-    "title": "いびつな性癖、勃起M男を虐めたい。 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "乳交",
-      "M男",
-      "口交",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/8e1da2d388af2d24b92af711a5b56a61.jpg",
-    "actress": [
-      "鲛岛",
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-616"
-  },
-  {
-    "id": 4825,
-    "IDcode": "SQTE-617",
-    "title": "和女朋友度假她性欲旺盛比起泡温泉她更喜欢做爱-北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "御姐系",
-      "臀控",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "巨尻",
-      "極品美人",
-      "顔面騎乘",
-      "美腿",
-      "手指插入",
-      "調教",
-      "性感",
-      "蠻橫嬌羞",
-      "4K",
-      "舔陰",
-      "美人",
+      "苗条",
+      "捆绑",
+      "女大学生",
       "凌辱",
-      "企畫",
-      "騎乗位",
-      "無毛",
-      "豐滿",
-      "溫泉",
-      "美腳",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "色白",
-      "拘束・拷問",
-      "脚控・戀足癖",
-      "超爆乳",
-      "潮吹",
-      "女友・妻子",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
+      "素人作品",
+      "浴衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/c8a9253efd1dbb28b230969dc4b6f2a5.jpg",
+    "actress": [
+      "永瀬ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-004"
+  },
+  {
+    "id": 100272,
+    "IDcode": "GVH-005",
+    "title": "社長の息子のHな社会科見学2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恶作剧",
+      "多P",
+      "正太控",
+      "素人作品",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787868430833b4bf5e9291b/cover.jpg",
+    "actress": [
+      "波多野结衣",
+      "绀野光",
+      "山井すず"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-005"
+  },
+  {
+    "id": 76719,
+    "IDcode": "GVH-007",
+    "title": "マンズリ大好き巨乳淫語ヨガインストラクター 美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "荡妇",
+      "素人作品",
+      "巨乳",
+      "淫语",
+      "讲师"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/99dacd31e3c999afbf9fafa5bce6decd.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-007"
+  },
+  {
+    "id": 76028,
+    "IDcode": "GVH-008",
+    "title": "プロお母さん 水城奈緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
       "乳交",
-      "明星臉",
-      "美臀",
-      "和服・浴衣・喪服"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250816-1/fbe8990f9f11e5dec186318c6bc1bc29.jpg",
-    "actress": [
-      "北野未奈",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-617"
-  },
-  {
-    "id": 4893,
-    "IDcode": "SQTE-618",
-    "title": "和我的炮友一起去向往已久的情趣旅店约会-月野かすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "網襪",
-      "御姐系",
-      "臀控",
-      "口交",
+      "素人作品",
       "巨乳",
-      "跳蛋",
-      "純粹的慾望",
-      "絕頂高潮",
-      "小三・情人",
-      "後入",
-      "港區女子",
-      "巨尻",
-      "極品美人",
-      "美腿",
-      "丁字裤",
-      "手指插入",
-      "打手槍",
-      "約炮",
-      "4K",
-      "蠻橫嬌羞",
-      "美人",
-      "舔陰",
-      "騎乗位",
-      "性感",
-      "阪道系",
-      "劇情",
-      "形象俱樂部",
-      "色白",
-      "美少女",
-      "超爆乳",
-      "中出",
-      "單體作品",
-      "癡女",
-      "乳交",
-      "明星臉",
-      "美臀",
-      "情趣飯店"
+      "各种职业",
+      "母亲"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/a75c0ce7/vod.jpg",
-    "actress": [
-      "月野香澄"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-618"
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/8f5d36b7696f0d79e033806ba457a06b.jpg",
+    "actress": [
+      "水城奈緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-008"
   },
   {
-    "id": 4411,
-    "IDcode": "SQTE-619",
-    "title": "休日に彼女と。SEX好きの彼女と種付け温泉旅行 虹村ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "女上位",
-      "口交",
-      "濕身",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "口爆",
-      "極品美人",
-      "美腿",
-      "少女",
-      "手指插入",
-      "舔陰",
-      "4K",
-      "無毛",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "阪道系",
-      "溫泉",
-      "美少女電影",
-      "美腳",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "清楚系",
-      "美少女",
-      "小隻馬",
-      "真實拍攝",
-      "女友・妻子",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "乳交",
-      "明星臉",
-      "美臀",
-      "和服・浴衣・喪服",
-      "清純",
-      "旅行"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/91e4bce2fe685dc4462e6c8243a2122f.jpg",
-    "actress": [
-      "虹村由美",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-619"
-  },
-  {
-    "id": 4434,
-    "IDcode": "SQTE-620",
-    "title": "セフレ以上、恋人未満。恥じらい娘の中身はドエロのドM。敏感娘と一日SEX 松井日奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "女上位",
-      "飯店",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "極品美人",
-      "美腿",
-      "手指插入",
-      "蠻橫嬌羞",
-      "4K",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "無毛",
-      "美少女電影",
-      "美腳",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "小隻馬",
-      "女友・妻子",
-      "M男・M女",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
-      "乳交",
-      "清純",
-      "女主持・主播"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/9804aae5364ee5a4fa4cd17324152831.jpg",
-    "actress": [
-      "松井日奈子",
-      "東雲怜弥"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-620"
-  },
-  {
-    "id": 4387,
-    "IDcode": "SQTE-621",
-    "title": "いつでも使えるオナホ後輩 柏木こなつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "蘿莉控",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "校花",
-      "蘿莉",
-      "後入",
-      "極品美人",
-      "美腿",
-      "淫亂",
-      "少女",
-      "手指插入",
-      "JK校服",
-      "蠻橫嬌羞",
-      "4K",
-      "舔陰",
-      "美人",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "校園生活",
-      "學校",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "美少女",
-      "小隻馬",
-      "苗條",
-      "中出",
-      "單體作品",
-      "明星臉",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/4c150f2147b61ef9cfb89749d3c0deeb.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-621"
-  },
-  {
-    "id": 61248,
-    "IDcode": "SQTE-622",
-    "title": "セフレ以上、恋人未満。 ずーっとエッチしたかった！ホテルにつくと淫らな獣 天月あず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "口交",
-      "巨乳",
-      "美少女电影",
-      "第一人称摄影",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/975da7be73cb867375c3720f746add55.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-622"
-  },
-  {
-    "id": 3504,
-    "IDcode": "SQTE-623",
-    "title": "この子ヤバイ！！無邪気に迫ってくる妹系美少女が凄くエロ。逢沢みゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "臀控",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "後入",
-      "巨尻",
-      "口爆",
-      "極品美人",
-      "美腿",
-      "少女",
-      "手指插入",
-      "性感",
-      "約炮",
-      "4K",
-      "蠻橫嬌羞",
-      "美人",
-      "舔陰",
-      "企畫",
-      "騎乗位",
-      "無毛",
-      "美少女電影",
-      "美腳",
-      "接吻",
-      "形象俱樂部",
-      "清楚系",
-      "高妹",
-      "美少女",
-      "舔腳",
-      "脚控・戀足癖",
-      "潮吹",
-      "小隻馬",
-      "感官作品",
-      "比基尼",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
-      "乳交",
-      "明星臉",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/21/a09af792/vod.jpg",
-    "actress": [
-      "逢澤美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-623"
-  },
-  {
-    "id": 3291,
-    "IDcode": "SQTE-624",
-    "title": "この子ヤバイ！！抱きたい肉体No.1でOK？柔らかHカップに沼ろう！ 宍戸里帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "御姐系",
-      "臀控",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "巨尻",
-      "口爆",
-      "極品美人",
-      "美腿",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "4K",
-      "舔陰",
-      "美人",
-      "無毛",
-      "騎乗位",
-      "豐滿",
-      "劇情",
-      "清楚系",
-      "高妹",
-      "色白",
-      "美少女",
-      "小隻馬",
-      "感官作品",
-      "短髮",
-      "慾求不滿",
-      "中出",
-      "單體作品",
-      "乳交",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/7b359f54/vod.jpg",
-    "actress": [
-      "宍戸里帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-624"
-  },
-  {
-    "id": 3267,
-    "IDcode": "SQTE-625",
-    "title": "放課後はお泊りSEX。制服マゾ美少女はイラマしてすぐ入れたい！虹村ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "飯店",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "校花",
-      "後入",
-      "極品美人",
-      "少女",
-      "手指插入",
-      "JK校服",
-      "約炮",
-      "4K",
-      "蠻橫嬌羞",
-      "美人",
-      "舔陰",
-      "女學生",
-      "騎乗位",
-      "泳裝",
-      "美少女電影",
-      "美腳",
-      "接吻",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "美少女",
-      "脚控・戀足癖",
-      "潮吹",
-      "小隻馬",
-      "短髮",
-      "M男・M女",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/c03de932/vod.jpg",
-    "actress": [
-      "虹村由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-625"
-  },
-  {
-    "id": 3107,
-    "IDcode": "SQTE-626",
-    "title": "この子ヤバイ！！「気持ちくて動いちゃう」と、マ○コを締めてくる女 小那海あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "飯店",
-      "臀控",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "極品美人",
-      "羞恥",
-      "美腿",
-      "少女",
-      "手指插入",
-      "約炮",
-      "4K",
-      "蠻橫嬌羞",
-      "美人",
-      "舔陰",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "情趣內衣",
-      "美腳",
-      "接吻",
-      "形象俱樂部",
-      "清楚系",
-      "色白",
-      "美少女",
-      "脚控・戀足癖",
-      "潮吹",
-      "小隻馬",
-      "感官作品",
-      "真實拍攝",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
-      "乳交",
-      "明星臉",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/1a9cea86/vod.jpg",
-    "actress": [
-      "小那海綾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-626"
-  },
-  {
-    "id": 3111,
-    "IDcode": "SQTE-627",
-    "title": "セフレ以上、恋人未満。デートはSEXの前菜 ノーパンノーブラデートで興奮SEX 北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "飯店",
-      "御姐系",
-      "臀控",
-      "口交",
-      "巨乳",
-      "絕頂高潮",
-      "純粹的慾望",
-      "後入",
-      "極品美人",
-      "美腿",
-      "手指插入",
-      "拜金女",
-      "性感",
-      "約炮",
-      "4K",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "無毛",
-      "豐滿",
-      "綠茶婊",
-      "情趣內衣",
-      "美腳",
-      "形象俱樂部",
-      "色白",
-      "脚控・戀足癖",
-      "超爆乳",
-      "小隻馬",
-      "感官作品",
-      "慾求不滿",
-      "苗條",
-      "單體作品",
-      "明星臉",
-      "美臀",
-      "清純",
-      "女神"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/3c5c04a1/vod.jpg",
-    "actress": [
-      "北野未奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-627"
-  },
-  {
-    "id": 2705,
-    "IDcode": "SQTE-628",
-    "title": "いつでも使えるオナホ後輩 北岡果林",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "口交",
-      "絕頂高潮",
-      "後入",
-      "口爆",
-      "極品美人",
-      "美腿",
-      "少女",
-      "手指插入",
-      "舔陰",
-      "4K",
-      "女學生",
-      "美人",
-      "無毛",
-      "騎乗位",
-      "豐滿",
-      "美少女電影",
-      "形象俱樂部",
-      "清楚系",
-      "高妹",
-      "美少女",
-      "正統派",
-      "M男・M女",
-      "中出",
-      "單體作品",
-      "美臀",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/1b140e18/vod.jpg",
-    "actress": [
-      "北岡果林"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-628"
-  },
-  {
-    "id": 2703,
-    "IDcode": "SQTE-629",
-    "title": "和性感爆棚的女朋友一起泡温泉度假激情做爱也不能少-月野かすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "大奶头",
-      "臀控",
-      "口交",
-      "巨乳",
-      "濕身",
-      "純粹的慾望",
-      "絕頂高潮",
-      "後入",
-      "口爆",
-      "極品美人",
-      "美腿",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "4K",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "阪道系",
-      "豐滿",
-      "溫泉",
-      "美腳",
-      "接吻",
-      "純愛・戀愛",
-      "形象俱樂部",
-      "脚控・戀足癖",
-      "超爆乳",
-      "潮吹",
-      "女友・妻子",
-      "慾求不滿",
-      "中出",
-      "單體作品",
-      "乳交",
-      "美臀",
-      "和服・浴衣・喪服",
-      "旅行"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/09/0434ddad73e49e1ff2b47bcf064b4551.jpg",
-    "actress": [
-      "月野香澄"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-629"
-  },
-  {
-    "id": 2257,
-    "IDcode": "SQTE-630",
-    "title": "放課後はお泊りSEX。制服美少女はエッチな玩具に溺れたい 北岡果林",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "空姐制服",
-      "少女",
-      "手指插入",
-      "劇情",
-      "女上位",
-      "單體作品",
-      "清楚系",
-      "美少女",
-      "4K",
-      "口交",
-      "美人",
-      "跳蛋",
-      "舔陰",
-      "騎乗位",
-      "清純",
-      "後入",
-      "美少女電影",
-      "制服"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/a48c8adf/vod.jpg",
-    "actress": [
-      "北岡果林"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-630"
-  },
-  {
-    "id": 2259,
-    "IDcode": "SQTE-631",
-    "title": "休日に彼女と。マ〇コが欲しがる濃厚な1日。今日のデートもSEXばっかり 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "口交",
-      "巨乳",
-      "後入",
-      "極品美人",
-      "少女",
-      "手指插入",
-      "性感",
-      "約炮",
-      "4K",
-      "舔陰",
-      "美人",
-      "騎乗位",
-      "溫泉",
-      "美少女電影",
-      "美腳",
-      "劇情",
-      "高妹",
-      "美少女",
-      "苗條",
-      "單體作品",
-      "旅行"
-    ],
-    "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/3b9a412c/vod.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-631"
-  },
-  {
-    "id": 174547,
-    "IDcode": "SQTE-632",
-    "title": "休日に彼女と。みゆに夢中でハメまくる温泉旅行 逢沢みゆ",
+    "id": 523809,
+    "IDcode": "GVH-009",
+    "title": "お色気P●A会长＆悩杀女教师と悪ガキ生徒会 小早川怜子/成宫いろは",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/01/ce989731fdfe06d5a2494fe46be1031a.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-632"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-009"
   },
   {
-    "id": 174458,
-    "IDcode": "SQTE-633",
-    "title": "いつでも使えるオナホ後輩 依本しおり",
+    "id": 83603,
+    "IDcode": "GVH-010",
+    "title": "監禁クローゼット 枢木あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "监禁",
+      "魔鬼系",
+      "拘束",
+      "素人作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-01-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-010"
+  },
+  {
+    "id": 83099,
+    "IDcode": "GVH-011",
+    "title": "大物演歌歌手25周年パーティ 遺恨を持った元スタッフの逆襲ぶっかけ！ 白鳥寿美礼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "和服，丧服",
+      "凌辱",
+      "成熟的女人",
+      "素人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/c680e8676b739834eea0cbd0c3b5f557.jpg",
+    "actress": [
+      "白鸟寿美礼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-011"
+  },
+  {
+    "id": 100046,
+    "IDcode": "GVH-012",
+    "title": "乳汚し 佐知子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "戏剧",
+      "乱伦",
+      "素人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-01-16",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200521-1/e70fd5037f65ea74e3be046890542d1b.jpg",
+    "actress": [
+      "佐知子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-012"
+  },
+  {
+    "id": 547707,
+    "IDcode": "GVH-013",
+    "title": "ママシ●タ実话 赤瀬尚子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/01/7f00f913/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-633"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-013"
   },
   {
-    "id": 173265,
-    "IDcode": "SQTE-634",
-    "title": "放課後はお泊りSEX。制服脱いで屋上全裸プレイで連続絶頂 逢沢みゆ",
+    "id": 547719,
+    "IDcode": "GVH-014",
+    "title": "家庭内の至る场所で义兄にアナルを仕込まれる义妹 篠崎みお",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/5f836cc3/vod.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200528-1/6f07d7dff3aaf4d2488ea8c1aad40b99.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-634"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-014"
   },
   {
-    "id": 173219,
-    "IDcode": "SQTE-635",
-    "title": "休日に彼女と。たゆんたゆん爆乳に中出しSEX 宍戸里帆",
+    "id": 547710,
+    "IDcode": "GVH-016",
+    "title": "姑の卑猥过ぎる巨乳を狙う娘婿 八咲唯",
     "year": "",
     "country": "",
     "genre": "",
@@ -2680,270 +569,137 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "[\"S-CUTE\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/e08260c8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-635"
-  },
-  {
-    "id": 219734,
-    "IDcode": "srcn-007",
-    "title": "巨乳痴女无法对男友说出的性癖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
     ],
-    "type": "有码",
-    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/27/99504edf57fa2f8524fb28d60528dec4.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srcn-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-016"
   },
   {
-    "id": 220701,
-    "IDcode": "srcn-008",
-    "title": "天然巨乳儿童看护师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/06/56a7392ec698230600068cc34d3120ec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srcn-008"
-  },
-  {
-    "id": 218367,
-    "IDcode": "srho-010",
-    "title": "完美身材的超极品辣妹",
+    "id": 533481,
+    "IDcode": "GVH-018",
+    "title": "ボイン大好きしょう太くんのHなイタズラ 春风ひかる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/18/d5bce36e29d95cb0e12bde2540ab889c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srho-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-018"
   },
   {
-    "id": 218340,
-    "IDcode": "srho-011",
-    "title": "看上去很乖的姑娘",
+    "id": 103382,
+    "IDcode": "GVH-019",
+    "title": "奴高城光/水泽Tsugumi。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/18/18465878cda06eeff66b508e5b65f76e.jpg",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2023-07-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srho-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-019"
   },
   {
-    "id": 222350,
-    "IDcode": "SRHO-039",
-    "title": "和超淫荡的情人逛超市",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/ee1f550a8dbf72e0590c760af19c5d27.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SRHO-039"
-  },
-  {
-    "id": 89563,
-    "IDcode": "SRMC-048",
-    "title": "催眠粉味接待 若宮葉月",
+    "id": 83097,
+    "IDcode": "GVH-020",
+    "title": "ナース公開調教 妃月るい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "性转换·女体化",
-      "女生",
-      "单体作品"
+      "灌肠",
+      "荡妇",
+      "多P",
+      "护士",
+      "肛交",
+      "素人作品",
+      "二穴同时挿入"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "2022-09-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240104-1/94f58cda32799dc84316586df46abce2.jpg",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/10dfac92851795f94797e3527dad911c.jpg",
     "actress": [
-      "若宫はずき"
+      "妃月るい"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SRMC-048"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-020"
   },
   {
-    "id": 94486,
-    "IDcode": "SROB-026",
-    "title": "素人まっちんぐEX 軟派バカ一代 街行く素人ギャルを踊り喰い！の巻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "精选，综合",
-      "业余",
-      "中出",
-      "巨乳",
-      "猎艳",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2024-08-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241027-1/c454b3d45c1166cde6f60e1031aa8430.jpg",
-    "actress": [
-      "堀沢茉由"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SROB-026"
-  },
-  {
-    "id": 62920,
-    "IDcode": "SROB-036",
-    "title": "HD高画質映像 真剣にクドいたら本当にヤレた！メンエス嬢盗撮！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "礼仪小姐",
-      "4小时以上作品",
-      "业余",
-      "偷窥",
-      "中出",
-      "高清画质",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/de299b0de8458b68cfe28c5baf904afd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SROB-036"
-  },
-  {
-    "id": 183909,
-    "IDcode": "SROB-038",
-    "title": "素人まっちんぐEX 泥●した同僚 お持ち帰り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/29/17d5ff4d6f96c07432b0d27cc5b3dceb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SROB-038"
-  },
-  {
-    "id": 60014,
-    "IDcode": "SROB-039",
-    "title": "素人まっちんぐEX 働く女 Beauty ＆ Sexy Working Women",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "精选，综合",
-      "业余",
-      "中出",
-      "巨乳",
-      "猎艳",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/08bfaca6/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SROB-039"
-  },
-  {
-    "id": 175191,
-    "IDcode": "SROB-040",
-    "title": "素人まっちんぐEX 路上生活女子 LIVING ON THE STREET GIRLS",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/29/6b2aa901583594f412f0d2676cdda4f8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SROB-040"
-  },
-  {
-    "id": 218303,
-    "IDcode": "srs-002",
-    "title": "白领猎人",
+    "id": 533480,
+    "IDcode": "GVH-021",
+    "title": "お母さん风俗 黒宫えいみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/17/8cb62ea528846005f6a6065d135f20ff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srs-002"
-  },
-  {
-    "id": 166496,
-    "IDcode": "SRS-066",
-    "title": "獵素人2・45",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "中文字幕"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
     ],
-    "type": "有码",
-    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/ek30qqolvex.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SRS-066"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-021"
   },
   {
-    "id": 218563,
-    "IDcode": "srtd-0154",
-    "title": "在约炮APP上约了个白虎穴女高中生",
+    "id": 526099,
+    "IDcode": "GVH-022",
+    "title": "地味なおばさんが一番どすけべ绪方泰子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/01/8ed4b993ebc746cf30a624c2c7e37017.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0154"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-022"
   },
   {
-    "id": 218577,
-    "IDcode": "srtd-0155",
-    "title": "超级可爱的小姐姐",
+    "id": 222284,
+    "IDcode": "GVH-024",
+    "title": "拯救母亲的性生活-森沢かな",
     "year": "",
     "country": "",
     "genre": "",
@@ -2951,16 +707,52 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/01/3a574f57e9f33a456799e443ff0d7ee9.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0155"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-024"
   },
   {
-    "id": 218589,
-    "IDcode": "srtd-0156",
-    "title": "巨乳名流AV渴望刺激参加AV拍摄",
+    "id": 103381,
+    "IDcode": "GVH-025",
+    "title": "お色気P●A会長と悪ガキ生徒会 深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "眼镜",
+      "戏剧",
+      "多P",
+      "正太控",
+      "素人作品",
+      "各种职业"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-02-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-025"
+  },
+  {
+    "id": 533479,
+    "IDcode": "GVH-026",
+    "title": "老动者に轮●され性奴●と化す巨乳未亡人",
     "year": "",
     "country": "",
     "genre": "",
@@ -2968,372 +760,1641 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/01/dced5b0cd9d9db86648a2c01f0129a26.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0156"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-026"
   },
   {
-    "id": 214128,
-    "IDcode": "srtd-0244",
-    "title": "进行秘密的性交",
+    "id": 99954,
+    "IDcode": "GVH-027",
+    "title": "鉄拘束アナル拷問みひな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/29/1f2f50c93d626b2b4d81ebbf34d56c60.jpg",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0244"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-027"
   },
   {
-    "id": 214117,
-    "IDcode": "srtd-0245",
-    "title": "严肃的女孩有外遇",
+    "id": 533478,
+    "IDcode": "GVH-028",
+    "title": "ママシ●タ実话 翔田千里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/27/ae9928c0cd640a38ac730fcfdc418c4e.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0245"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-028"
   },
   {
-    "id": 214116,
-    "IDcode": "srtd-0246",
-    "title": "关于自己外遇的视频",
+    "id": 540958,
+    "IDcode": "GVH-029",
+    "title": "义父と嫁、密着中出し交尾三船かれん第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/27/5ff87a19b7598a81cb8d7a29afcbad1a.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0246"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-029"
   },
   {
-    "id": 214230,
-    "IDcode": "srtd-0247",
-    "title": "朋友的女朋友约我出去",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/02/6afcd660dc94c205a6c83ed17156c8cf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0247"
-  },
-  {
-    "id": 214216,
-    "IDcode": "srtd-0249",
-    "title": "厌倦了与男友的性生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/02/dfe07c11c95d68c6ff54ceebafe6c0c7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0249"
-  },
-  {
-    "id": 214404,
-    "IDcode": "srtd-0250",
-    "title": "醉酒后背叛男友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/13/d6892b8eb389c660a62affc3499be7a5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=srtd-0250"
-  },
-  {
-    "id": 176087,
-    "IDcode": "SRXV-411",
-    "title": "回到出道作拍摄地的混血女优Rio换上各种服饰演绎不同风格来体现成长过程",
+    "id": 82977,
+    "IDcode": "GVH-031",
+    "title": "お尻大好きしょう太くんのHなイタズラ 高坂あいり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出道作"
+      "恶作剧",
+      "巨大屁股",
+      "正太控",
+      "护士",
+      "姐姐",
+      "素人作品"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/19/4e5456624df89e493a57380bd9de88e5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SRXV-411"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-02-20",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/8a57582465d0aa6a6f49b7155b18de39.jpg",
+    "actress": [
+      "高坂あいり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-031"
   },
   {
-    "id": 218442,
-    "IDcode": "ss-022",
-    "title": "业余水手服生中出",
+    "id": 540949,
+    "IDcode": "GVH-032",
+    "title": "禁断介护広瀬结香第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/23/b5cc37f8545059db2f2b67ccaa3c5eb6.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ss-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-032"
   },
   {
-    "id": 218314,
-    "IDcode": "ss-025",
-    "title": "巨乳瑜伽教练的中出SEX课程",
+    "id": 83556,
+    "IDcode": "GVH-033",
+    "title": "ボイン大好きしょう太くんのHなイタズラ 若月みいな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "恶作剧",
+      "恋乳癖",
+      "正太控",
       "巨乳"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/17/9e5db1cd91cf9256c0b614d679d95737.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ss-025"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-05",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "若槻みづな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-033"
   },
   {
-    "id": 185900,
-    "IDcode": "SS-132",
-    "title": "My Little Plum小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/c8e96707/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SS-132"
-  },
-  {
-    "id": 179573,
-    "IDcode": "SS-133",
-    "title": "Healing Time鈴木真夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/9ef89a66/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SS-133"
-  },
-  {
-    "id": 59881,
-    "IDcode": "SS-134",
-    "title": "Clarity川上ゆう",
+    "id": 76251,
+    "IDcode": "GVH-034",
+    "title": "裏切りの卒業旅行 松本いちか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
-      "女优按摩棒",
-      "放尿",
+      "苗条",
+      "捆绑",
+      "女大学生",
+      "凌辱",
+      "浴衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/19fdce999e9605dfcbcf49fb8e0b7826.jpg",
+    "actress": [
+      "松本一香",
+      "有栖露露",
+      "インフィニティ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-034"
+  },
+  {
+    "id": 83594,
+    "IDcode": "GVH-038",
+    "title": "許嫁シ●タ 佐知子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "正太控",
       "中出",
       "巨乳",
+      "处男"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-05",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐知子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-038"
+  },
+  {
+    "id": 82968,
+    "IDcode": "GVH-039",
+    "title": "ノーブラノーパンで挑発してくるスケベ奥さんが隣に引っ越してきた！ 森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "荡妇",
+      "单体作品",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221205-1/767191d4bd91ddd9f912bd5d27790651.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-039"
+  },
+  {
+    "id": 533477,
+    "IDcode": "GVH-042",
+    "title": "ムッチリ総合病院 川原かなえ篠崎かんな桜庭ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-042"
+  },
+  {
+    "id": 74763,
+    "IDcode": "GVH-043",
+    "title": "お尻大好きしょう太くんのHなイタズラ 晶エリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "寡妇",
+      "恶作剧",
+      "巨大屁股",
+      "正太控",
+      "中出"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-19",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/85324711ac2a9bd2d9f80dad3e2a2850.jpg",
+    "actress": [
+      "新井爱丽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-043"
+  },
+  {
+    "id": 411379,
+    "IDcode": "GVH-044",
+    "title": "Wアナルビッチ6 西田卡莉娜 松雪乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c37f42a47ebb1a8683b09/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-044"
+  },
+  {
+    "id": 81542,
+    "IDcode": "GVH-045",
+    "title": "官能小説家と新卒美人編集者 河北はるな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "各种职业",
+      "中出",
+      "巨乳",
+      "戏剧"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-19",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/21/68f716a579f1ac4ec4b2c481/poster2.jpg",
+    "actress": [
+      "河北春菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-045"
+  },
+  {
+    "id": 81554,
+    "IDcode": "GVH-046",
+    "title": "姑の卑猥過ぎる巨乳を狙う娘婿 中西江梨子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "婆婆",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-19",
+    "cover_url": "https://tuaskbgnekr.com/20221127/VK1w7Y7Z/1.jpg",
+    "actress": [
+      "中西江梨子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-046"
+  },
+  {
+    "id": 81552,
+    "IDcode": "GVH-047",
+    "title": "ママのリアル性教育 彩奈リナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "巨乳",
+      "母亲",
+      "处男"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-03-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/2bb40e75fb71efce12272fd0076a8b98.jpg",
+    "actress": [
+      "彩奈莉娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-047"
+  },
+  {
+    "id": 81573,
+    "IDcode": "GVH-048",
+    "title": "禁断介護 織田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "恋物癖",
+      "乱伦",
+      "素人作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/177c24d3a8760c06198a579bcf16cf8b.jpg",
+    "actress": [
+      "織田真子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-048"
+  },
+  {
+    "id": 81550,
+    "IDcode": "GVH-049",
+    "title": "母子姦 相楽ゆり子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "中出",
+      "素人作品",
+      "母亲"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/099bd080a1895b2d2d8613edf3cade78.jpg",
+    "actress": [
+      "相楽ゆり子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-049"
+  },
+  {
+    "id": 81568,
+    "IDcode": "GVH-050",
+    "title": "ナース公開調教 みひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "灌肠",
+      "荡妇",
+      "多P",
+      "护士",
+      "肛交",
+      "素人作品",
+      "二穴同时挿入"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://tuaskbgnekr.com/20221127/Yyjgh3zV/1.jpg",
+    "actress": [
+      "佐倉陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-050"
+  },
+  {
+    "id": 81583,
+    "IDcode": "GVH-051",
+    "title": "社長の息子のHな社会科見学3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恶作剧",
+      "多P",
+      "正太控",
+      "素人作品",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://tuaskbgnekr.com/20241122/RieH7kZg/1.jpg",
+    "actress": [
+      "大浦真奈美",
+      "加藤あやの",
+      "河北春菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-051"
+  },
+  {
+    "id": 81548,
+    "IDcode": "GVH-052",
+    "title": "Ma○ko Device BondageXIV 鉄拘束マ○コ拷問 河奈亜依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "捆绑",
+      "深喉",
+      "多P",
+      "拘束",
+      "素人作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/d2416a65ec71f3b442a6547a74d46bc7.jpg",
+    "actress": [
+      "河奈亜依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-052"
+  },
+  {
+    "id": 81567,
+    "IDcode": "GVH-053",
+    "title": "家庭内の至る場所で義父にアナルを仕込まれる美人嫁 優梨まいな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "灌肠",
+      "已婚妇女",
+      "戏剧",
+      "乱伦",
+      "肛交",
+      "素人作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://tuaskbgnekr.com/20221127/Da5iQXo3/1.jpg",
+    "actress": [
+      "优梨まいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-053"
+  },
+  {
+    "id": 81577,
+    "IDcode": "GVH-054",
+    "title": "地味なおばさんが一番どすけべ 平岡里枝子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "荡妇",
+      "多P",
+      "中出",
+      "成熟的女人",
+      "素人作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "平冈里枝子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-054"
+  },
+  {
+    "id": 81565,
+    "IDcode": "GVH-055",
+    "title": "ノーブラノーパンで挑発してくるスケベ奥さんが隣に引っ越してきた！ 雪乃凛央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "荡妇",
+      "素人作品",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2020-04-02",
+    "cover_url": "https://tuaskbgnekr.com/20221127/4W8fiMa2/1.jpg",
+    "actress": [
+      "雪乃凛央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-055"
+  },
+  {
+    "id": 516061,
+    "IDcode": "GVH-056",
+    "title": "屁OO大戰家長會長 加藤椿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f87ee0dbf24d4ed3430e5d/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-056"
+  },
+  {
+    "id": 155560,
+    "IDcode": "GVH-057",
+    "title": "露出輪姦ぶっかけ願望に憑りつかれた女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6f981944bbe4ef015bffb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-057"
+  },
+  {
+    "id": 547854,
+    "IDcode": "GVH-058",
+    "title": "ママシ●タ実话 羽田希 パンティとチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200829-1/358f4454b1abe99fe0b72bae47b9cda9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-058"
+  },
+  {
+    "id": 547855,
+    "IDcode": "GVH-061",
+    "title": "三世代近亲相奸II",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200829-1/6b126be038d21f0927287743f85b08ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-061"
+  },
+  {
+    "id": 547869,
+    "IDcode": "GVH-063",
+    "title": "姑の卑猥过ぎる巨乳を狙う娘婿 篠原ちとせ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200830-1/10d4a5c23b38bacd9c609d22c62e4025.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-063"
+  },
+  {
+    "id": 547868,
+    "IDcode": "GVH-064",
+    "title": "禁断介护 清音咲良",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200830-1/60790b7d1575b6fbfd7eb0f3bcd5b578.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-064"
+  },
+  {
+    "id": 547877,
+    "IDcode": "GVH-066",
+    "title": "母子奸 并木塔子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200831-1/4bac3dbd2584a71f0ff9a7a8cf0a26d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-066"
+  },
+  {
+    "id": 539073,
+    "IDcode": "GVH-068",
+    "title": "新村あかり- Anal Device BondageXIX 鉄拘束アナル拷问",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250514/3WxvTr7T/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-068"
+  },
+  {
+    "id": 547878,
+    "IDcode": "GVH-071",
+    "title": "ママのリアル性教育 美咲かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200831-1/47044e611639733c0b12bcf4f6433bee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-071"
+  },
+  {
+    "id": 576018,
+    "IDcode": "GVH-073",
+    "title": "【日本女优】露他出轮ぶっかけ愿望に凭りつかれた女波他多野结衣2020-06-10波他多野结衣单女他优他-083",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-073"
+  },
+  {
+    "id": 105617,
+    "IDcode": "GVH-074",
+    "title": "被老头工人们轮奸内射-彩奈リナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "寡妇",
+      "恋物癖",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240318-1/5f9170f21c1f9e2c12ebea48c3dad8b5.jpg",
+    "actress": [
+      "彩奈莉娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-074"
+  },
+  {
+    "id": 178987,
+    "IDcode": "GVH-077",
+    "title": "被丈夫的哥哥在家里开发肛门调教的母乳人妻羽田希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/02/5d3f5ec4698ca23218c8aebc4c4fa4dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-077"
+  },
+  {
+    "id": 218448,
+    "IDcode": "GVH-079",
+    "title": "新卒美人編集者-宮沢ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-079"
+  },
+  {
+    "id": 175870,
+    "IDcode": "GVH-080",
+    "title": "孝顺的儿子让美女老婆大浦真奈美照顾痴呆的爸爸无论什么要求都答应",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-080"
+  },
+  {
+    "id": 176971,
+    "IDcode": "GVH-086",
+    "title": "被坏学生们威胁轮奸内射堕落的黑丝美熟女会长舞原圣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-086"
+  },
+  {
+    "id": 106772,
+    "IDcode": "GVH-087",
+    "title": "挑発し-通野未帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "荡妇",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "通野未帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-087"
+  },
+  {
+    "id": 209796,
+    "IDcode": "GVH-089",
+    "title": "義父と嫁-晶エリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-089"
+  },
+  {
+    "id": 177970,
+    "IDcode": "GVH-093",
+    "title": "为了治疗不孕丈夫只能握紧拳头在旁边看着美女妻子饭冈加奈子被猥琐医生玩弄内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-093"
+  },
+  {
+    "id": 559870,
+    "IDcode": "GVH-098",
+    "title": "色气PTA会长amp迷人女教师和坏孩子学生会通野未帆永野司",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/24/70358_cover_2025-06-24_061114.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-098"
+  },
+  {
+    "id": 84505,
+    "IDcode": "GVH-100",
+    "title": "有史以来最糟糕的耻辱-鈴木真夕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "多P",
+      "巨乳",
+      "兔女郎",
       "单体作品"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/6e6ecb8d/vod.jpg",
-    "actress": [
-      "若本あん"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SS-134"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鈴木真夕"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-100"
   },
   {
-    "id": 177328,
-    "IDcode": "SS-135",
-    "title": "Pure Beauty大槻ひびき",
+    "id": 594923,
+    "IDcode": "GVH-101",
+    "title": "在家中各个地方对家人露出屁眼的美女妻子 仓木诗织",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/3b31d92f/vod.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c7f5ef57b3a3d3a350a4b83914af919d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SS-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-101"
   },
   {
-    "id": 174491,
-    "IDcode": "SS-136",
-    "title": "Pure Beauty 真野祈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/01/8fd18a86/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SS-136"
-  },
-  {
-    "id": 17397,
-    "IDcode": "SSIS-003",
-    "title": "我和前男友出轨了-小島みなみ",
+    "id": 71205,
+    "IDcode": "GVH-103",
+    "title": "性教育 森沢かな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "淫亂",
-      "接吻",
-      "出軌",
-      "劇情",
-      "新娘",
-      "性感",
-      "人妻",
-      "薄碼"
-    ],
-    "type": "有码",
-    "company": "[\"S1\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/10/ce71275832572cec492c83b1eb84b260.jpg",
-    "actress": [
-      "小島南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-003"
-  },
-  {
-    "id": 212063,
-    "IDcode": "ssis-004",
-    "title": "童貞素人君-嵐山みちる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/06/25/dcc569ea55b769ea6b7f725196716d7a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ssis-004"
-  },
-  {
-    "id": 17394,
-    "IDcode": "SSIS-006",
-    "title": "極端敏感 爆乳和陰部 隨時可能失禁的性交 夕美紫苑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "多P",
-      "性感",
-      "巨乳",
-      "女優",
-      "企畫",
-      "潮吹",
-      "薄碼"
-    ],
-    "type": "有码",
-    "company": "[\"S1\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/06/25/b56111f65efe89a521ff5965af508058.jpg",
-    "actress": [
-      "夕美紫苑"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-006"
-  },
-  {
-    "id": 17392,
-    "IDcode": "SSIS-008",
-    "title": "本気性交-児玉れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "美乳",
-      "中出",
-      "亂交 • 群P",
-      "3P・4P",
-      "口交",
-      "絕頂高潮",
-      "兩男一女",
-      "潮吹",
-      "薄碼",
-      "美少女電影",
-      "抹油"
-    ],
-    "type": "有码",
-    "company": "[\"S1\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/06/25/3ccefc872bbcfc666086c7f3d88b18d3.jpg",
-    "actress": [
-      "児玉れな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-008"
-  },
-  {
-    "id": 220584,
-    "IDcode": "SSIS-020",
-    "title": "铂金洗浴-天音まひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"S1\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/03/57c6e97c1df7e49b5b3de3ff5809af1b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-020"
-  },
-  {
-    "id": 73012,
-    "IDcode": "SSIS-021",
-    "title": "大嫌いなセクハラ上司と温泉旅館で強●相部屋させられて…絶倫中年オヤジに無理やりイカされ続けたチェックアウトまでの12時間 潮美舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "薄马赛克",
-      "浴衣",
-      "流汗",
-      "美少女电影",
       "苗条",
-      "白天出轨"
+      "戏剧",
+      "乱伦",
+      "母亲",
+      "处男"
     ],
     "type": "有码",
-    "company": "[\"S1\"]",
-    "publish_date": "2021-03-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/85f83d2451f9955dfee275b7d4a54728.jpg",
-    "actress": [
-      "潮美舞"
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-021"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9a970777630093b0b516b4ee6c8e2bb8.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-103"
+  },
+  {
+    "id": 210464,
+    "IDcode": "GVH-104",
+    "title": "不穿内衣裤的少妇-浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-104"
+  },
+  {
+    "id": 105940,
+    "IDcode": "GVH-105",
+    "title": "禁断介護 君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "已婚妇女",
+      "恋物癖"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-105"
+  },
+  {
+    "id": 176955,
+    "IDcode": "GVH-108",
+    "title": "被妈妈发现看AV的我羞愤交加强行发生了不伦禁忌关系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-108"
+  },
+  {
+    "id": 211623,
+    "IDcode": "GVH-110",
+    "title": "喜爱大屁股的恶作剧-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-110"
+  },
+  {
+    "id": 549919,
+    "IDcode": "GVH-111",
+    "title": "三世代近亲相奸III",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231125/1597847802-13gvh111pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-111"
+  },
+  {
+    "id": 516102,
+    "IDcode": "GVH-112",
+    "title": "屁OO大戰家長會長 美原堇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed491b52c12b4e6849924f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-112"
+  },
+  {
+    "id": 210333,
+    "IDcode": "GVH-113",
+    "title": "最爱的男友-叶ユリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-113"
+  },
+  {
+    "id": 549976,
+    "IDcode": "GVH-114",
+    "title": "家庭内の至る场所で义父に初アナルを仕込まれる美人嫁 中尾芽衣子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231209/1599047761-13gvh114pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-114"
+  },
+  {
+    "id": 539074,
+    "IDcode": "GVH-115",
+    "title": "新村あかり- Wアナルビッチ7 新村あかり#みひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250514/0bvyTi5U/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-115"
+  },
+  {
+    "id": 550013,
+    "IDcode": "GVH-119",
+    "title": "姑の卑猥过ぎる巨乳を狙う娘婿 翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231209/1599047997-13gvh119pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-119"
+  },
+  {
+    "id": 550023,
+    "IDcode": "GVH-124",
+    "title": "ママのリアル性教育 岩沢香代",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231219/1600243327-13gvh124pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-124"
+  },
+  {
+    "id": 550092,
+    "IDcode": "GVH-131",
+    "title": "母子奸 片瀬仁美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240104/1601448495-13gvh131pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-131"
+  },
+  {
+    "id": 524159,
+    "IDcode": "GVH-133",
+    "title": "禁断介护 竹内夏希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/92d54a44b18c4665f28e3c30f92e69b9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-133"
+  },
+  {
+    "id": 524160,
+    "IDcode": "GVH-134",
+    "title": "Anal Device BondageXXI 鉄拘束アナル拷问新田みれい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/91d316470175706ff0f4634cbfca8d8f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-134"
+  },
+  {
+    "id": 524157,
+    "IDcode": "GVH-135",
+    "title": "No.1バニーガール史上最悪の耻辱4 夏希まろん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/e525867b5ed74f0d1a5edb0404dbac8e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-135"
+  },
+  {
+    "id": 410393,
+    "IDcode": "GVH-136",
+    "title": "姉妹どんぶり味わい尽くし 七瀨雛 宮澤千春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f3964c4e7d663df493847a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-136"
+  },
+  {
+    "id": 524158,
+    "IDcode": "GVH-137",
+    "title": "义兄のデカマラに堕ちた新婚嫁 星优香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/fb75f5c094ecd06718c5b74179d77fc7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-137"
+  },
+  {
+    "id": 177491,
+    "IDcode": "GVH-138",
+    "title": "和老公闹矛盾的美人妻饭冈加奈子被公公趁虚而入密着中出乱伦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-138"
+  },
+  {
+    "id": 210997,
+    "IDcode": "GVH-139",
+    "title": "性教育 君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-139"
+  },
+  {
+    "id": 470569,
+    "IDcode": "GVH-142",
+    "title": "Ma○ko Device BondageXVII 鉄拘束マ○コ拷問 今井夏帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/17/67d708624e7d663df4f8431b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-142"
+  },
+  {
+    "id": 572213,
+    "IDcode": "GVH-147",
+    "title": "ノーブラノーパンで挑発してくるスケベ奥さんが邻に引っ越してきた 心菜りお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://pic28.anzise.com/pic/20220604/6a1d4c8fc2f056264c059bbcbc35163d/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-147"
+  },
+  {
+    "id": 213669,
+    "IDcode": "GVH-148",
+    "title": "禁断介護-飯山香織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-148"
+  },
+  {
+    "id": 470556,
+    "IDcode": "GVH-152",
+    "title": "現役最強極限アナル 神納花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d90ba44e7d663df4ff84a4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-152"
   }
 ];

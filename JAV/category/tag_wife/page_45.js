@@ -1,756 +1,96 @@
 window.PAGE_DATA = [
   {
-    "id": 168253,
-    "IDcode": "JRZE-146",
-    "title": "初次拍摄人妻纪录-常盘一夏",
+    "id": 96482,
+    "IDcode": "HAWA-312",
+    "title": "美人妻孕活中和前男友再會瘋狂中出連連",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "淫乱，真实",
+      "人妻",
+      "荡妇",
+      "已婚妇女",
+      "中出",
+      "女生"
     ],
-    "type": "",
-    "company": "熟女人妻最強廠",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/b9ca2a6fb52f97bbbeb2e91e71124b9b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-312"
+  },
+  {
+    "id": 450172,
+    "IDcode": "HAWA-315",
+    "title": "欲求不満な素人妻にデカチンお届けします。～大阪編～浪速妻ナミさん（24歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-315"
   },
   {
-    "id": 168145,
-    "IDcode": "JRZE-147",
-    "title": "初次拍摄50歲人妻檔-後藤明",
+    "id": 545793,
+    "IDcode": "HAWA-316",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム奸では満足できず宿泊中2度もガチ中",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "人妻",
+      "素人"
     ],
-    "type": "",
-    "company": "熟女人妻最強廠",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/1a3d54234eec60c5c97a4eb0d3e8a206.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240413/RrwjeK8z/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-147"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-316"
   },
   {
-    "id": 168146,
-    "IDcode": "JRZE-148",
-    "title": "初次拍摄人妻檔案-相河沙季",
+    "id": 14925,
+    "IDcode": "HAWA-319",
+    "title": "現在我想向您介紹最性感的性朋友妻子Waka一位28歲的性朋友妻子擁有大屁股喜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/012054250f5d360462d145c0827cf108.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-148"
-  },
-  {
-    "id": 91097,
-    "IDcode": "JRZE-151",
-    "title": "初次拍摄人妻-中泽堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/8d4eba2f6d78c9f81371b77af79458b0.jpg",
-    "actress": [
-      "中沢すみれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-151"
-  },
-  {
-    "id": 91095,
-    "IDcode": "JRZE-152",
-    "title": "初次拍摄人妻-长原秋奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/09cd55d2c98fe54bb857baff90182f6d.jpg",
-    "actress": [
-      "長原あきな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-152"
-  },
-  {
-    "id": 91093,
-    "IDcode": "JRZE-153",
-    "title": "初次拍摄人妻记录-深月千种",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/641f2b099a3cb5ac99bc80a08b2ecb1d.jpg",
-    "actress": [
-      "タツ",
-      "深月ちぐさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-153"
-  },
-  {
-    "id": 91094,
-    "IDcode": "JRZE-154",
-    "title": "初次拍摄人妻-藤美夏菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/9469615de7fdf9e28d3cc37a7236b5bd.jpg",
-    "actress": [
-      "藤美なつな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-154"
-  },
-  {
-    "id": 91085,
-    "IDcode": "JRZE-156",
-    "title": "初撮り人妻ドキュメント 河波れみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/08e0e87ce1e811a918494040f58f9424.jpg",
-    "actress": [
-      "河波れみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-156"
-  },
-  {
-    "id": 91092,
-    "IDcode": "JRZE-157",
-    "title": "五十岁人妻document-吉崎清香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/95538dcf3fe2997f6c3e4f925472a380.jpg",
-    "actress": [
-      "吉崎きよか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-157"
-  },
-  {
-    "id": 91083,
-    "IDcode": "JRZE-158",
-    "title": "初次拍摄人妻-立冈杏菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/ff06f1ac20beb1eb90deccecd3ee125c.jpg",
-    "actress": [
-      "立岡杏菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-158"
-  },
-  {
-    "id": 91084,
-    "IDcode": "JRZE-159",
-    "title": "初次拍摄人妻-辰巳譽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/c0a5fc006b8d21d3b5f865508981167a.jpg",
-    "actress": [
-      "タツ",
-      "辰巳ほまれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-159"
-  },
-  {
-    "id": 91079,
-    "IDcode": "JRZE-162",
-    "title": "第一次拍摄人妻纪录片-永野玲菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/65e857a7c431a82c9d3a747bd7efc622.jpg",
-    "actress": [
-      "永野玲菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-162"
-  },
-  {
-    "id": 91078,
-    "IDcode": "JRZE-164",
-    "title": "第一次拍摄人妻纪录片-矢野淳美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/768d94639ef17ae7a6c9c0f92c788fe0.jpg",
-    "actress": [
-      "矢野淳美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-164"
-  },
-  {
-    "id": 91076,
-    "IDcode": "JRZE-165",
-    "title": "初次拍摄人妻-美山雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/0833552ee2cd030ae896ffbcfa2fba97.jpg",
-    "actress": [
-      "美山ゆき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-165"
-  },
-  {
-    "id": 91075,
-    "IDcode": "JRZE-167",
-    "title": "初次拍摄人妻-桐生珠帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/597a14348fa023f44c630440323fdc9c.jpg",
-    "actress": [
-      "桐生珠帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-167"
-  },
-  {
-    "id": 91104,
-    "IDcode": "JRZE-168",
-    "title": "初次拍摄人妻-南泽惠美奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/eecaf1dbd618a697a5938d82b5bbfffe.jpg",
-    "actress": [
-      "南澤えみな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-168"
-  },
-  {
-    "id": 91105,
-    "IDcode": "JRZE-169",
-    "title": "初次拍摄五十岁人妻-日吉美夜乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/4b08537e97895069ce0577fe08ac1df4.jpg",
-    "actress": [
-      "日吉みよの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-169"
-  },
-  {
-    "id": 91106,
-    "IDcode": "JRZE-170",
-    "title": "初次拍摄人妻-山宫一香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/5fd0cc8700355d308ca370d3ddd0844e.jpg",
-    "actress": [
-      "山宮いち香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-170"
-  },
-  {
-    "id": 106223,
-    "IDcode": "JRZE-171",
-    "title": "初次拍摄五十岁人妻-饭村真由美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/a4e3b747f6cb2b0639eacb28abc970b2.jpg",
-    "actress": [
-      "飯村まゆみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-171"
-  },
-  {
-    "id": 106076,
-    "IDcode": "JRZE-172",
-    "title": "初次拍摄人妻-宇佐美真纪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/2b4233d9a06dfb84f69b51ee9cbe1982.jpg",
-    "actress": [
-      "宇佐美まき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-172"
-  },
-  {
-    "id": 105886,
-    "IDcode": "JRZE-173",
-    "title": "初次拍摄五十岁人妻纪录-波田野香代",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/fe44368c77e126767ef4822954b3a2a6.jpg",
-    "actress": [
-      "波田野香代"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-173"
-  },
-  {
-    "id": 509760,
-    "IDcode": "JRZE-174",
-    "title": "初拍50岁人妻档案 樱美波",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/cef9ed3e4a99fc6c4c22d9bbbb8ef065.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-174"
-  },
-  {
-    "id": 208241,
-    "IDcode": "JRZE-176",
-    "title": "初次拍摄的人妻纪录片-市瀬あい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/37b7408ff124b1947e7ae2e120493326.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-176"
-  },
-  {
-    "id": 105853,
-    "IDcode": "JRZE-177",
-    "title": "初次拍摄的人妻纪录片-沢村花恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/e76bad54c8f635ce345fdfe601706ea5.jpg",
-    "actress": [
-      "沢村花恋"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-177"
-  },
-  {
-    "id": 207864,
-    "IDcode": "JRZE-179",
-    "title": "第一次拍攝人妻紀錄片-工藤里緒菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/4d004a0d8331923a569875066b97fe57.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-179"
-  },
-  {
-    "id": 105564,
-    "IDcode": "JRZE-180",
-    "title": "初次拍摄人妻document-音無法子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/2b7dfc2d140af37ba16a3153cc479e98.jpg",
-    "actress": [
-      "音無法子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-180"
-  },
-  {
-    "id": 105330,
-    "IDcode": "JRZE-183",
-    "title": "第一次拍攝人妻紀錄片-吉川純菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/753feb437134fb71032e05afa75bf539.jpg",
-    "actress": [
-      "吉川純菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-183"
-  },
-  {
-    "id": 104911,
-    "IDcode": "JRZE-185",
-    "title": "初次拍摄的人妻纪录片-筱冈菜摘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/8c465442c6a28391f5a441ef6fa20bb9.jpg",
-    "actress": [
-      "篠岡菜摘"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-185"
-  },
-  {
-    "id": 104914,
-    "IDcode": "JRZE-187",
-    "title": "第一次拍摄人妻纪录片-高梨いおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/a80a973bf1e5cb6f7e382009adaf0ff3.jpg",
-    "actress": [
-      "高梨いおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-187"
-  },
-  {
-    "id": 14912,
-    "IDcode": "JRZE-188",
-    "title": "初次拍摄人妻document-栗山彩月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
+      "3P・4P",
+      "多P",
+      "飯店",
       "苗條",
       "美腳",
       "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/0ddd3435db85e53c83c1dcd2940d49c4.jpg",
-    "actress": [
-      "栗山さつき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-188"
-  },
-  {
-    "id": 14920,
-    "IDcode": "JRZE-189",
-    "title": "初次拍摄人妻-羽田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "口爆",
-      "凌辱",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "自宅",
       "胸控・戀乳癖",
       "美乳",
       "按摩棒",
@@ -760,1740 +100,4294 @@ window.PAGE_DATA = [
       "熟女",
       "潮吹",
       "人妻",
-      "NTR",
-      "深喉",
       "淫亂",
       "內衣",
-      "出軌",
       "中出",
       "蕩婦",
       "後入",
       "企畫",
       "美臀",
-      "顏射",
       "絕頂高潮",
-      "舔陰",
+      "女優",
       "手指插入",
+      "乳交",
+      "脅迫做愛",
       "黑絲",
       "女上位",
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "熟女人妻最強廠",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/78893089b33f651a20fa2f56946f6c85.jpg",
+    "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/e8c6d2d1102a042c835733ea0abbd86d.jpg",
     "actress": [
-      "羽田真子"
+      "美園和花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-189"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-319"
   },
   {
-    "id": 96827,
-    "IDcode": "JRZE-191",
-    "title": "第一次拍摄人妻纪录片-稲葉果織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/07d65507fbe21d7b09488543d895fc3c.jpg",
-    "actress": [
-      "稲葉果織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-191"
-  },
-  {
-    "id": 104687,
-    "IDcode": "JRZE-192",
-    "title": "初次拍摄五十岁人妻-须王亚纪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/8879d1d72f36bc1b593278137534b754.jpg",
-    "actress": [
-      "須王亜紀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-192"
-  },
-  {
-    "id": 96674,
-    "IDcode": "JRZE-193",
-    "title": "初次拍摄人妻-花柳里葎子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240807-1/7237c462e82d3c43d1ceef0a7de96393.jpg",
-    "actress": [
-      "五十岚纪子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-193"
-  },
-  {
-    "id": 96670,
-    "IDcode": "JRZE-194",
-    "title": "初次拍摄五十岁人妻-浪川由加里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/fbd71b92cf2898baa850c63012efe4c7.jpg",
-    "actress": [
-      "浪川ゆかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-194"
-  },
-  {
-    "id": 96681,
-    "IDcode": "JRZE-195",
-    "title": "初次拍摄人妻-三原涼花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240807-1/9d0199ca1476f9e25e57d99aa6ddc723.jpg",
-    "actress": [
-      "三原涼花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-195"
-  },
-  {
-    "id": 509735,
-    "IDcode": "JRZE-197",
-    "title": "初拍人妻档案 玉木熏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/b2f2402744a40f07a862c14a1a27a190.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-197"
-  },
-  {
-    "id": 12855,
-    "IDcode": "JRZE-202",
-    "title": "已婚人妻的首次AV拍攝 ~ 咲原いおな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞恥",
-      "出道作品",
-      "色白",
-      "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "人妻",
-      "中出",
-      "後入",
-      "企畫",
-      "紀錄片",
-      "美腿",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "2024-08-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240808/7742aefd-9a75-415b-a6bc-cf3a3ec2c766.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-202"
-  },
-  {
-    "id": 12695,
-    "IDcode": "JRZE-203",
-    "title": "第一次拍攝的人妻紀錄片-伊織知世",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "熟女",
-      "人妻",
-      "素人",
-      "出道作品",
-      "色白",
-      "美乳",
-      "巨乳",
-      "企畫",
-      "女上位",
-      "後入",
-      "口交",
-      "騎乗位",
-      "女優"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c55ca3d6fbef4e90a92521/cover.jpg",
-    "actress": [
-      "伊織知世"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-203"
-  },
-  {
-    "id": 544727,
-    "IDcode": "JRZE-205",
-    "title": "初撮り人妻ドキュメント",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241002/YGv3Jb3E/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-205"
-  },
-  {
-    "id": 12232,
-    "IDcode": "JRZE-206",
-    "title": "第一次的人妻紀錄片-澤北杏南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "豐滿",
-      "臀控",
-      "感官作品",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "中出",
-      "後入",
-      "企畫",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/0d61ab5de6f8c9070ced8f08f0acae34.jpg",
-    "actress": [
-      "澤北杏南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-206"
-  },
-  {
-    "id": 95630,
-    "IDcode": "JRZE-207",
-    "title": "第一次的50歲人妻紀錄-麻樹由紀繪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/b196abedc9337d74d807dbe059623401.jpg",
-    "actress": [
-      "麻樹由紀絵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-207"
-  },
-  {
-    "id": 544726,
-    "IDcode": "JRZE-208",
-    "title": "初撮り人妻ドキュメント",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241002/YjkDLv9p/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-208"
-  },
-  {
-    "id": 11902,
-    "IDcode": "JRZE-209",
-    "title": "第一次拍攝的人妻紀錄片-三井菜菜夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "真實拍攝",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "接吻",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "中出",
-      "後入",
-      "企畫",
-      "美臀",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/ecccc634514d196c786296b7e84f5606.jpg",
-    "actress": [
-      "三井菜々夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-209"
-  },
-  {
-    "id": 95645,
-    "IDcode": "JRZE-211",
-    "title": "第一次拍摄人妻纪录片-紀美野友里恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/c90dd5a03a9ee4561bb6e07a614b9ba8.jpg",
-    "actress": [
-      "紀美野友里恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-211"
-  },
-  {
-    "id": 175489,
-    "IDcode": "JRZE-212",
-    "title": "初撮り人妻ドキュメント 木花久美子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/e45674da/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-212"
-  },
-  {
-    "id": 544533,
-    "IDcode": "JRZE-213",
-    "title": "初撮り人妻ドキュメント",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20241029/IWZZx5Fq/1.jpg?t=1730255401",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-213"
-  },
-  {
-    "id": 177098,
-    "IDcode": "JRZE-214",
-    "title": "初撮り人妻ドキュメント 有坂祥子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/df545180c456714e9e8a4b64751d37e5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-214"
-  },
-  {
-    "id": 176712,
-    "IDcode": "JRZE-215",
-    "title": "初撮り人妻ドキュメント 堀口小百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/a3f4e73f1cee56bc38a6e4687f62e17d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-215"
-  },
-  {
-    "id": 77786,
-    "IDcode": "JRZE-217",
-    "title": "初次拍摄人妻document-宫本小雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/0a1cc60635c6afc91198cdc27000b680.jpg",
-    "actress": [
-      "宮本小雪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-217"
-  },
-  {
-    "id": 9538,
-    "IDcode": "JRZE-218",
-    "title": "首次拍摄已婚妇女文献岸本爱香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "慾求不滿",
-      "中文字幕",
-      "真實拍攝",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "大乳暈",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "手指插入",
-      "乳交",
-      "女優面試",
-      "家庭主妇",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20241206-1/b72b4bf903ecd049687ce12fd9b5665b.jpg",
-    "actress": [
-      "岸本藍花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-218"
-  },
-  {
-    "id": 76964,
-    "IDcode": "JRZE-219",
-    "title": "初次拍摄人妻-藤森綾乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/3507e21c42fc34112b0dfde276932218.jpg",
-    "actress": [
-      "藤森綾乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-219"
-  },
-  {
-    "id": 10188,
-    "IDcode": "JRZE-222",
-    "title": "初次拍摄人妻-河合美央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "熟女",
-      "美人妻",
-      "女優訪談",
-      "人妻",
-      "素人",
-      "羞恥",
-      "內衣",
-      "出道作品",
-      "色白",
-      "真實拍攝",
-      "中出",
-      "後入",
-      "企畫",
-      "女上位",
-      "口交",
-      "騎乗位",
-      "紀念作",
-      "女優"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20241227-1/0d7fd9c35ffdae2de488fb1e44bdd10e.jpg",
-    "actress": [
-      "河合美央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-222"
-  },
-  {
-    "id": 74260,
-    "IDcode": "JRZE-223",
-    "title": "初次拍摄人妻-琴宫真美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250114-1/da7c9fc95faea9fae464ba4184c8ee30.jpg",
-    "actress": [
-      "琴宮まみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-223"
-  },
-  {
-    "id": 448801,
-    "IDcode": "JRZE-225",
-    "title": "初拍人妻档案 田中丽华 田中うるは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250205/evDsO8jR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-225"
-  },
-  {
-    "id": 9298,
-    "IDcode": "JRZE-226",
-    "title": "第一张照片已婚妇女纪录片-若菜れいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "小隻馬",
-      "巨尻",
-      "口爆",
-      "真實拍攝",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "貴婦",
-      "人妻",
-      "美人妻",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "美臀",
-      "顏射",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250209-1/0491067f7ec7560b1b416bf15fd6c1e7.jpg",
-    "actress": [
-      "若菜れいか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-226"
-  },
-  {
-    "id": 9109,
-    "IDcode": "JRZE-227",
-    "title": "初撮り人妻ドキュメント 綾香あかね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "巨尻",
-      "慾求不滿",
-      "真實拍攝",
-      "打屁股",
-      "牛仔褲",
-      "肉絲",
-      "癡女",
-      "羞恥",
-      "真人秀",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "淫亂",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-1/b87a1c3de006df29dbe65a3d2a4a6b18.jpg",
-    "actress": [
-      "綾香あかね"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-227"
-  },
-  {
-    "id": 8520,
-    "IDcode": "JRZE-231",
-    "title": "初撮り人妻ドキュメント 杉元みかさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "巨尻",
-      "真實拍攝",
-      "豐滿",
-      "羞恥",
-      "出道作品",
-      "色白",
-      "口交",
-      "熟女",
-      "人妻",
-      "中出",
-      "美人",
-      "企畫",
-      "紀錄片",
-      "後入",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-1/1c95fc143da475a870fb352bdf33ea93.jpg",
-    "actress": [
-      "杉元みかさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-231"
-  },
-  {
-    "id": 71832,
-    "IDcode": "JRZE-232",
-    "title": "初次拍攝人妻紀錄-牧野奈穗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250311-1/c545ca4d9967b11a3a0df186bdf84794.jpg",
-    "actress": [
-      "牧野奈穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-232"
-  },
-  {
-    "id": 70546,
-    "IDcode": "JRZE-233",
-    "title": "初次拍攝人妻紀錄片-東風花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250401-1/383b666b08ad53cdf72888dbde1ceaba.jpg",
-    "actress": [
-      "東ふうか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-233"
-  },
-  {
-    "id": 70545,
-    "IDcode": "JRZE-234",
-    "title": "初次拍攝人妻文件-黑木瑠奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250401-1/606c60f466189e37d5193f2ae85cc101.jpg",
-    "actress": [
-      "ロダン富士",
-      "黒木瑠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-234"
-  },
-  {
-    "id": 68548,
-    "IDcode": "JRZE-236",
-    "title": "初拍人妻纪录片-原田千花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250414-1/6e803dbb5902763520cfba177be42352.jpg",
-    "actress": [
-      "原田千花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-236"
-  },
-  {
-    "id": 66287,
-    "IDcode": "JRZE-238",
-    "title": "初次拍攝人妻紀錄-神代理沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/05/14/211e387e5bb4d1962b46142d7aa43a10.jpg",
-    "actress": [
-      "ばたけ",
-      "神代えりさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-238"
-  },
-  {
-    "id": 66307,
-    "IDcode": "JRZE-241",
-    "title": "初次拍摄人妻-小泽麻贵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/05/25/0a02f72a0b6e403f1042dea4a73358b1.jpg",
-    "actress": [
-      "小沢麻貴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-241"
-  },
-  {
-    "id": 63073,
-    "IDcode": "JRZE-244",
-    "title": "初次拍攝六十歲人妻紀錄-小澤紫乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/02/20779c9c/vod.jpg",
-    "actress": [
-      "タツ",
-      "沢口紫乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-244"
-  },
-  {
-    "id": 62529,
-    "IDcode": "JRZE-248",
-    "title": "初次拍攝人妻紀錄片-岡名葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/07/11/97858f1b12518f648ff1ac2b10266395.jpg",
-    "actress": [
-      "岡名あおい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-248"
-  },
-  {
-    "id": 62267,
-    "IDcode": "JRZE-249",
-    "title": "第一次拍摄六十岁人妻纪录片-香月すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/3b9383fb3dc167e0e1d8773b31ff86fc.jpg",
-    "actress": [
-      "香月すみれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-249"
-  },
-  {
-    "id": 62038,
-    "IDcode": "JRZE-252",
-    "title": "初次拍摄的少妇纪录片-塚原かえで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/bf1933f224b542b921bbbd457ef6f638.jpg",
-    "actress": [
-      "塚原かえで"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-252"
-  },
-  {
-    "id": 61696,
-    "IDcode": "JRZE-253",
-    "title": "初次拍摄六十路人妻纪录片-里海夕日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/feaad8176708860b60202c58ec32635e.jpg",
-    "actress": [
-      "里海ゆうひ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-253"
-  },
-  {
-    "id": 61695,
-    "IDcode": "JRZE-254",
-    "title": "初次拍摄的少妇记录-柴田良香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/255e2cac19a38cc8e94fd45f0620d15a.jpg",
-    "actress": [
-      "柴田良香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-254"
-  },
-  {
-    "id": 60634,
-    "IDcode": "JRZE-258",
-    "title": "初拍人妻档案-夏目空",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "人妻",
-      "已婚妇女",
-      "首次亮相",
-      "纪录片",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/04/215d3047/vod.jpg",
-    "actress": [
-      "夏目そら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-258"
-  },
-  {
-    "id": 59698,
-    "IDcode": "JRZE-264",
-    "title": "初撮り人妻ドキュメント 西山紗奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "巨大屁股",
-      "首次亮相",
-      "纪录片",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/f21237bb/vod.jpg",
-    "actress": [
-      "西山紗奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-264"
-  },
-  {
-    "id": 178762,
-    "IDcode": "JRZE-265",
-    "title": "初撮り人妻ドキュメント 天宮そよぎ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/05/510097872fcb27f42c5576d11e2d07f0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-265"
-  },
-  {
-    "id": 175004,
-    "IDcode": "JRZE-268",
-    "title": "初撮り人妻ドキュメント 葉月英里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/28/9da2370c070da0fcc9f63ca072838398.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-268"
-  },
-  {
-    "id": 520952,
-    "IDcode": "JSOP-044-",
-    "title": "【新作熟女】顶级人妻汤屋极致服务 芦川夕子浓厚泡泡浴 欲仙欲死体验",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "HubX",
-    "publish_date": "",
-    "cover_url": "https://la.lashayu.com/upload/vod/20251008-1/8cc411d65ec04f605abcc856111a4f3a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JSOP-044-"
-  },
-  {
-    "id": 548783,
-    "IDcode": "JUAN-017",
-    "title": "邻の変态亲子のために二穴アナル解禁するドM美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230715/EmvCLc9W/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-017"
-  },
-  {
-    "id": 308275,
-    "IDcode": "JUAN-021",
-    "title": "隣の変態親子のために二穴解放するドM美人妻 伊東紅蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/09/14c0ecb9/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-021"
-  },
-  {
-    "id": 9315,
-    "IDcode": "JUAN-022",
-    "title": "为了住在隔壁的变态母子而开放屁眼的美人妻 乃南ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "多P",
-      "慾求不滿",
-      "臀控",
-      "鄰居",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "乱伦",
-      "肛交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250108/6d965473-d165-4f93-982a-a9b6ea038b59.jpg",
-    "actress": [
-      "乃南ゆい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-022"
-  },
-  {
-    "id": 6369,
-    "IDcode": "JUAN-024",
-    "title": "隣の変態親子のために二穴解放するドM美人堕ち妻 日森玲子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "若妻",
-      "M男・M女",
-      "慾求不滿",
-      "野外露天",
-      "豐滿",
-      "網襪",
-      "放尿",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "熟女",
-      "單體作品",
-      "兩男一女",
-      "人妻",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "乳交",
-      "肛交",
-      "調教",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822ce939ed5b270bc92129c/cover.jpg",
-    "actress": [
-      "日森玲子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-024"
-  },
-  {
-    "id": 4413,
-    "IDcode": "JUAN-025",
-    "title": "隣のアナル好きのオヤジと童貞息子のために二穴解放するドM美人妻 音琴るい",
+    "id": 14516,
+    "IDcode": "HAWA-320",
+    "title": "NTR小同居日記，25歲的柊有希，住在附近的年輕受虐狂人妻不喝丈夫的精液，卻喝我的精液",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "3P・4P",
       "艷遇",
-      "小隻馬",
-      "巨尻",
-      "若妻",
-      "慾求不滿",
-      "三十路",
-      "鄰居",
-      "美少女",
+      "吞精",
+      "苗條",
+      "緊縛",
       "美腳",
-      "勾引・誘惑",
+      "拘束・拷問",
+      "眼鏡",
+      "亂交 • 群P",
+      "口交",
+      "兩男一女",
+      "人妻",
+      "NTR",
+      "短髮",
+      "淫亂",
+      "淫妻",
+      "出軌",
+      "中出",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "刺青紋身",
+      "劇情"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "2024-05-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240523/20240523015832658658.jpg",
+    "actress": [
+      "柊有希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-320"
+  },
+  {
+    "id": 13853,
+    "IDcode": "HAWA-322",
+    "title": "寢取驗證：我想保留她美麗的裸體。在與丈夫共同拍攝紀念裸照的時看到比丈夫年輕模特的雞巴後，她流了很多淫水？Vol 17",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "私房攝影",
+      "素人",
+      "女上位",
+      "乳交",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "口交",
+      "後入",
+      "性感",
+      "巨乳",
+      "騎乗位",
+      "劇情"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620014558330330.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-322"
+  },
+  {
+    "id": 545391,
+    "IDcode": "HAWA-323",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム奸では満足できず宿泊中2度もガチ中",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240608/MVTJGC8F/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-323"
+  },
+  {
+    "id": 13863,
+    "IDcode": "HAWA-324",
+    "title": "沒女友也沒有錢去風俗店，但是卻遇到了一位性欲比我還要強的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "艷遇",
+      "慾求不滿",
+      "眼鏡",
+      "自宅",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "口交",
+      "美腿",
+      "女上位",
+      "劇情"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620012727243243.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-324"
+  },
+  {
+    "id": 12850,
+    "IDcode": "HAWA-327",
+    "title": "要是被人知道了和上司妻子的關系那就全完了...和上司妻子不倫密會 ~ 都月楓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "慾求不滿",
+      "飯店",
+      "苗條",
+      "肉絲",
+      "美腳",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "深喉",
+      "淫亂",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "劇情",
+      "不倫",
+      "絕頂高潮",
+      "脚控・戀足癖",
+      "上司女友・妻子",
+      "偷竊",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "2024-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20240808/fbfee94b-3a45-4509-b060-c3aa7203c33b.jpg",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-327"
+  },
+  {
+    "id": 11005,
+    "IDcode": "HAWA-328",
+    "title": "素人妻在一名大學男生家裏住了一晚上，她不喜歡帶套，一晚上中出內射了2次 ~ 大槻響",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "慾求不滿",
+      "美腳",
+      "自宅",
+      "美乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "NTR",
+      "明星臉",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "劇情",
+      "不倫",
+      "脚控・戀足癖",
+      "美少女電影",
+      "素人",
+      "偷竊",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "2024-08-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20241030/bd5f39f1-36e3-4245-9463-c4c1cca6d2bb.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-328"
+  },
+  {
+    "id": 11006,
+    "IDcode": "HAWA-329",
+    "title": "厭倦了平淡生活的巨乳妻本能剝出的大膽中出性能 - 26歲性獸妻 ~ 田中寧寧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "慾求不滿",
+      "豐滿",
+      "網襪",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "人妻",
+      "NTR",
+      "短髮",
+      "野性",
+      "淫亂",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "不倫",
+      "絕頂高潮",
+      "乳交",
+      "金髮",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "2024-08-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20241030/5db0f3a8-6ddf-4f5e-946f-0c91b20818e7.jpg",
+    "actress": [
+      "田中寧寧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-329"
+  },
+  {
+    "id": 11719,
+    "IDcode": "HAWA-331",
+    "title": "【NTRプチ同棲日記】旦那とは絶対しないけど俺とはアナルSEXしたがる こづえ28歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "老頭子",
+      "吞精",
+      "多P",
+      "巨尻",
+      "慾求不滿",
+      "凌辱",
+      "緊縛",
+      "美腳",
+      "拘束・拷問",
       "色白",
       "美乳",
       "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "淫亂",
+      "淫妻",
+      "猥褻穿著",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "美臀",
+      "不倫",
+      "舔陰",
+      "脚控・戀足癖",
+      "二穴同入",
+      "手指插入",
+      "舔腳",
+      "肛交",
+      "調教",
+      "女上位",
+      "丁字裤",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/000d2df64d93135d836d09c2620b029a.jpg",
+    "actress": [
+      "美波梢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-331"
+  },
+  {
+    "id": 11354,
+    "IDcode": "HAWA-334",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊 一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "慾求不滿",
+      "美腳",
+      "勾引・誘惑",
+      "自宅",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "NTR",
+      "美人妻",
+      "內衣",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "紀錄片",
+      "劇情",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "素人",
+      "乳交",
+      "偷竊",
+      "家庭主妇",
+      "女上位",
+      "丁字裤",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241010/fee8ac37-17d4-4355-a89a-53105dc58c38.jpg",
+    "actress": [
+      "森日向子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-334"
+  },
+  {
+    "id": 9580,
+    "IDcode": "HAWA-339",
+    "title": "今、セフレで一番エロい推し妻、紹介します。チ〇ポ大好き誰の精子でも美味しくごっくんするイラマ好きセフレ妻 みおさん29歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "女友・妻子",
+      "吞精",
+      "若妻",
+      "口爆",
+      "慾求不滿",
+      "綠茶婊",
+      "苗條",
+      "辣妹/GAL系",
+      "美腳",
+      "癡女",
+      "美乳",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "兩男一女",
+      "人妻",
+      "NTR",
+      "美人妻",
+      "深喉",
+      "短髮",
+      "淫亂",
+      "蠻橫嬌羞",
+      "猥褻穿著",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "企畫",
+      "地雷系",
+      "顏射",
+      "絕頂高潮",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "黑絲",
+      "金髮",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241226/1058f96c-0380-4bbe-be88-90f97da569e2.jpg",
+    "actress": [
+      "一条美緒",
+      "一条美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-339"
+  },
+  {
+    "id": 76764,
+    "IDcode": "HAWA-340",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう騎乗位でイキ乱れるHカップ妻 まいさん 30歳 あやせ舞菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "素人",
+      "出轨",
+      "巨乳",
+      "女上位",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-340"
+  },
+  {
+    "id": 9583,
+    "IDcode": "HAWA-341",
+    "title": "因为生活困难而开始了自宅沙龙的单亲妈妈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "獵豔",
+      "吞精",
+      "巨尻",
+      "未亡人・寡婦",
+      "鄰居",
+      "美腳",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "業餘",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "美人妻",
+      "風俗娘",
+      "地味",
+      "蠻橫嬌羞",
+      "按摩女郎",
+      "中出",
+      "後入",
+      "美腿",
+      "劇情",
+      "抹油",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "乱伦",
+      "乳交",
+      "按摩・物理治療・美容",
+      "家庭主妇",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241226/56e636ce-c0e6-4e12-8e09-8527a7301093.jpg",
+    "actress": [
+      "夏巳百合香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-341"
+  },
+  {
+    "id": 8896,
+    "IDcode": "HAWA-343",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう騎乗位でチクオナするあざと可愛い美乳妻 まりさん 33歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "純粹的慾望",
+      "慾求不滿",
+      "真實拍攝",
+      "自宅",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "貴婦",
+      "美人妻",
+      "約炮",
+      "短髮",
+      "貧乳",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "素人",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250123/f2e0327c-f91a-4e3a-99a5-dd55ac4fabb0.jpg",
+    "actress": [
+      "上戶真理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-343"
+  },
+  {
+    "id": 5389,
+    "IDcode": "HAWA-345",
+    "title": "結婚して22年、平凡な生活を送る主婦。最近、年齢を重ねるごとに心が冷めていくのを感じる…もう一度だけ10代の頃のようにキスしただけでドキドキする燃えるようなSEXがしたい。一日限定彼氏と最初で最後の不貞中出しSEX まなみさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口爆",
+      "慾求不滿",
+      "港區女子",
+      "飯店",
+      "4K",
+      "大奶头",
+      "美乳",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "美人妻",
+      "約炮",
+      "高顏值",
+      "淫亂",
+      "四十路",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "舔腳",
+      "御姐系",
+      "黑絲",
+      "家庭主妇",
+      "足交",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090531539539_thumbnail.webp",
+    "actress": [
+      "伊東沙蘭"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-345"
+  },
+  {
+    "id": 7764,
+    "IDcode": "HAWA-348",
+    "title": "始於在家裡做男性按摩的鄰居單身媽媽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨尻",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "按摩棒",
+      "早漏",
+      "巨乳",
+      "性感",
+      "口交",
+      "業餘",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "按摩・美容店",
+      "風俗娘",
+      "蠻橫嬌羞",
+      "按摩女郎",
+      "中出",
+      "美人",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "按摩・物理治療・美容",
+      "家庭主妇",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250306/c056f394-0ffc-40bc-b31e-64c2b3e1405b.jpg",
+    "actress": [
+      "希咲愛莉絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-348"
+  },
+  {
+    "id": 7412,
+    "IDcode": "HAWA-349",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう騎乘位でイキ乱れるFカップ妻 ゆみさん32歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "AV拍攝現場",
+      "小隻馬",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "苗條",
+      "美腳",
+      "癡女",
+      "眼鏡",
+      "真人秀",
+      "美乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "內衣",
+      "蠻橫嬌羞",
+      "出軌",
+      "中出",
+      "美人",
+      "企畫",
+      "紀錄片",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "素人",
+      "御姐系",
+      "家庭主妇",
+      "足交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250320/3024782e-cb51-4986-866a-67309a7a69fc.jpg",
+    "actress": [
+      "及川海"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-349"
+  },
+  {
+    "id": 70617,
+    "IDcode": "HAWA-350",
+    "title": "料理も洗濯もまともに出来ないドジで不器用なセフレ（人妻）ですが…実はとても優秀なハイスペック肉オナホなんです。 わかさん（26歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "深喉",
+      "已婚妇女",
+      "吞精",
+      "巨大屁股",
+      "中出",
+      "口交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-350"
+  },
+  {
+    "id": 6581,
+    "IDcode": "HAWA-351",
+    "title": "子持ちのおばさんだけどおち○ぽ欲しいの リノさん（39歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "多P",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "素人作品",
+      "4K",
+      "按摩棒",
+      "清楚系",
       "亂交 • 群P",
       "口交",
       "接吻",
       "熟女",
       "形象俱樂部",
       "潮吹",
-      "單體作品",
       "兩男一女",
-      "NTR",
       "人妻",
-      "高顏值",
+      "深喉",
       "美人妻",
       "淫亂",
+      "地味",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "家庭主妇",
+      "黑絲",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426235624611611_thumbnail.webp",
+    "actress": [
+      "工藤百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-351"
+  },
+  {
+    "id": 6646,
+    "IDcode": "HAWA-352",
+    "title": "素人妻一夜情大學生家裏只給一個套套不夠用，忍不住兩次中出，騎乘位爽到噴水的敏感人妻33歲 ~ 水川潤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "巨尻",
+      "慾求不滿",
+      "真實拍攝",
+      "綠茶婊",
+      "辣妹/GAL系",
+      "臀控",
+      "4K",
+      "癡女",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "NTR",
+      "約炮",
+      "高顏值",
+      "明星臉",
       "極品美人",
-      "短髮",
       "出軌",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "不倫",
+      "脚控・戀足癖",
+      "素人",
+      "御姐系",
+      "家庭主妇",
+      "女上位",
+      "丁字裤",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424010526930930_thumbnail.webp",
+    "actress": [
+      "水川潤"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-352"
+  },
+  {
+    "id": 5943,
+    "IDcode": "HAWA-353",
+    "title": "もの凄い性欲！仕事と子育てでオナニーする暇もないシングルマザーと中出しSEX みき 28歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "若妻",
+      "口爆",
+      "慾求不滿",
+      "素人作品",
+      "苗條",
+      "4K",
+      "肉絲",
+      "美腳",
+      "主觀視角",
+      "大奶头",
+      "美乳",
+      "口交",
+      "巨乳",
+      "性感",
+      "雙馬尾",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "NTR",
+      "美人妻",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "小三・情人",
+      "出軌",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "自慰",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014248698698_thumbnail.webp",
+    "actress": [
+      "美木雛乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-353"
+  },
+  {
+    "id": 2202,
+    "IDcode": "HAWA-355",
+    "title": "結婚して22年、平凡な生活を送る主婦。最近年齢を重ねるごとに心が冷めていくのを感じる…1日限定彼氏と最初で最後の不貞中出しSEX りかさん（39歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "M男・M女",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "真實拍攝",
+      "豐滿",
+      "阪道系",
+      "流汗",
+      "4K",
+      "羞恥",
+      "真人秀",
+      "美乳",
+      "口交",
+      "鬃毛",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "潮吹",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "淫亂",
+      "地味",
+      "猥褻穿著",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "不倫",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "家庭主妇",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "雨村梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-355"
+  },
+  {
+    "id": 5232,
+    "IDcode": "HAWA-356",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう 騎乘位でデカ尻をバウンスさせる色白長身妻 さゆりさん36歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "舔陰",
+      "4K",
+      "手指插入",
+      "素人",
+      "高妹",
+      "女上位",
+      "色白",
+      "自宅",
+      "中出",
+      "美人",
+      "後入",
+      "劇情",
+      "口交",
+      "騎乗位",
+      "少妇",
+      "不倫"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055227846846_thumbnail.webp",
+    "actress": [
+      "葉山小百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-356"
+  },
+  {
+    "id": 5022,
+    "IDcode": "HAWA-358",
+    "title": "彼女のいない貧乏な自分にあるのは有り余る性欲と安アパートだけ 風俗に行く金も無いし若い子はノリが苦手…だからおとなしそうな人妻を捕まえてSEXしたら自分以上に性欲が凄かった！！ （仮名）スナオさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "巨尻",
+      "慾求不滿",
+      "三十路",
+      "豐滿",
+      "4K",
+      "眼鏡",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "NTR",
+      "短髮",
+      "約炮",
+      "高顏值",
+      "淫亂",
+      "超爆乳",
+      "文藝女",
+      "中出",
+      "蕩婦",
+      "美人",
+      "後入",
+      "劇情",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "御姐系",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250625/20250625205357674674_thumbnail.webp",
+    "actress": [
+      "九井珠奈緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-358"
+  },
+  {
+    "id": 4155,
+    "IDcode": "HAWA-359",
+    "title": "素颜超可爱的少妇被猛烈口射-静香小姐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "巨尻",
+      "若妻",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "阪道系",
+      "流汗",
+      "4K",
+      "色白",
+      "大奶头",
+      "美乳",
+      "按摩棒",
+      "清楚系",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "兩男一女",
+      "人妻",
+      "NTR",
+      "美人妻",
+      "高顏值",
+      "淫亂",
+      "出軌",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "少女",
+      "後入",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "不倫",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "高妹",
+      "無毛",
+      "御姐系",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724001900569569_39495_thumbnail.webp",
+    "actress": [
+      "静河"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-359"
+  },
+  {
+    "id": 4160,
+    "IDcode": "HAWA-360",
+    "title": "因为生活困难而在家裡开了男士按摩店和隔壁的单亲妈妈进行中出SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "口爆",
+      "豐滿",
+      "鄰居",
+      "4K",
+      "羞恥",
+      "色白",
+      "自宅",
+      "美乳",
+      "寢取",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "大乳暈",
+      "人妻",
+      "美人妻",
+      "按摩・美容店",
+      "地味",
+      "按摩女郎",
+      "中出",
+      "美人",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "素人",
+      "乱伦",
+      "乳交",
+      "按摩・物理治療・美容",
+      "御姐系",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723231857428428_31949_thumbnail.webp",
+    "actress": [
+      "藤原真帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-360"
+  },
+  {
+    "id": 3808,
+    "IDcode": "HAWA-361",
+    "title": "子持ちのおばさんだけどおち○ぽ欲しいの アヤさん(40歳)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "奇聞趣事",
+      "吞精",
+      "多P",
+      "巨尻",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "豐滿",
+      "素人作品",
+      "牛仔褲",
+      "4K",
+      "眼鏡",
+      "色白",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "接吻",
+      "潮吹",
+      "兩男一女",
+      "人妻",
+      "NTR",
+      "美人妻",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "地味",
+      "出軌",
+      "四十路",
       "中出",
       "蕩婦",
       "美人",
       "美腿",
       "後入",
-      "少女",
       "美臀",
       "劇情",
       "不倫",
-      "清純",
       "舔陰",
-      "二穴同入",
       "手指插入",
-      "高妹",
-      "無毛",
       "乳交",
-      "偷竊",
       "家庭主妇",
-      "肛交",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/c709a3f559fd55bbe196c546f12a7736.jpg",
-    "actress": [
-      "妃月るい",
-      "平井シンジ",
-      "青木りょう"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-025"
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014151136136_38385_thumbnail.webp",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-361"
   },
   {
-    "id": 409640,
-    "IDcode": "JUC-033",
-    "title": "愛する夫の目の前で… ～美人妻アナルOO～",
+    "id": 175331,
+    "IDcode": "HAWA-362",
+    "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう ひかりさん 32歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "淫妻"
+      "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5a392eb67774efbb85813/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-033"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-362"
   },
   {
-    "id": 214670,
-    "IDcode": "JUC-244",
-    "title": "人妻女教師-橘慶子",
+    "id": 3433,
+    "IDcode": "HAWA-363",
+    "title": "自堕落な僕の性処理をしてくれる母性と性欲が強い熟妻は最高に具合のイイ玩具です 熟れたおばさん肉オナホに発射し放題！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "艷遇",
+      "吞精",
+      "巨尻",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "豐滿",
+      "臀控",
+      "4K",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "色白",
+      "大奶头",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "淫亂",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "手指插入",
+      "高妹",
+      "無毛",
+      "乳交",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821012003812812_42628_thumbnail.webp",
+    "actress": [
+      "宇佐美すい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-363"
+  },
+  {
+    "id": 2963,
+    "IDcode": "HAWA-364",
+    "title": "もの凄い性欲！仕事と子育てでオナニーする暇もないシングルマザーと中出しSEX るな 30歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "小隻馬",
+      "吞精",
+      "多P",
+      "口爆",
+      "豐滿",
+      "KTV夜總會",
+      "飯店",
+      "網襪",
+      "4K",
+      "癡女",
+      "拘束・拷問",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "兩男一女",
+      "人妻",
+      "美人妻",
+      "約炮",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "超爆乳",
+      "猥褻穿著",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "自慰",
+      "乳交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045537883883_80778_thumbnail.webp",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-364"
+  },
+  {
+    "id": 2587,
+    "IDcode": "HAWA-365",
+    "title": "チ○ポケースの妻 チ○ポケース4号",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "3P・4P",
+      "白絲",
+      "獵豔",
+      "口爆",
+      "苗條",
+      "辣妹/GAL系",
+      "4K",
+      "美腳",
+      "色白",
+      "自宅",
+      "大奶头",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "接吻",
+      "形象俱樂部",
+      "兩男一女",
+      "人妻",
+      "美人妻",
+      "短髮",
+      "高顏值",
+      "風俗娘",
+      "淫亂",
+      "中出",
+      "美人",
+      "後入",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "素人",
+      "無毛",
+      "乳交",
+      "黑絲",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043113756756_27881_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-365"
+  },
+  {
+    "id": 173863,
+    "IDcode": "HAWA-369",
+    "title": "すっぴんがめちゃくちゃ可愛い人妻に大量顔射。 ふみのさん（27歳）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/27/5f9b6b90ba14d489e5cb19bbb514e078.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-244"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-369"
   },
   {
-    "id": 530183,
-    "IDcode": "JUC-371",
-    "title": "人妻奴隶市场 弐 雪见纱弥 神崎レオナ",
+    "id": 531425,
+    "IDcode": "HAZUH-002",
+    "title": "素人Hカップ人妻応募案件 和美（29歳） “セックスレスによる欲求不満が限界に达しました”",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250225/OgnOf0Ms/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZUH-002"
+  },
+  {
+    "id": 221549,
+    "IDcode": "HBAD-149",
+    "title": "因为丈夫的欠债而被肉棒插入嫩鲍的人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241121-1/3fbe41e1840d9bab6da8668e4ca6e89f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-371"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-149"
   },
   {
-    "id": 218871,
-    "IDcode": "JUC-384",
-    "title": "人妻折-牧原れい子",
+    "id": 223895,
+    "IDcode": "HBAD-172",
+    "title": "哥哥勃起的阴茎即将在我嫂子的体内爆炸",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-9/59386ca1f9dd539d112e4fa11f678cbf.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-384"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-172"
   },
   {
-    "id": 550876,
-    "IDcode": "JUC-396",
-    "title": "优木明日花人妻下海首作 公众羞耻拍摄现场 肉体沦陷的绝顶快感 人妻调教实录",
+    "id": 178976,
+    "IDcode": "HBAD-319",
+    "title": "疯狂接吻性交美女人妻神纳花和公公的秘密肉体关系",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250412-1/f58e7217307d55298bcde9f96c1107ca.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-396"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-319"
   },
   {
-    "id": 516404,
-    "IDcode": "JUC-405",
-    "title": "汽車工廠與人妻 横山美玲",
+    "id": 82402,
+    "IDcode": "HBAD-323",
+    "title": "寂寞美人妻-佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "单体作品",
+      "已婚妇女",
+      "出轨",
+      "无码破解",
+      "企画",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-323"
+  },
+  {
+    "id": 214846,
+    "IDcode": "HBAD-329",
+    "title": "因为老公欠债而献出身体的人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69094bc5e264e6282dff4a6c/poster2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-405"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-329"
   },
   {
-    "id": 536588,
-    "IDcode": "JUC-406",
-    "title": "北条麻妃の人妻レズナンパ",
+    "id": 82442,
+    "IDcode": "HBAD-336",
+    "title": "变态哥哥经常当着弟弟面干漂亮嫂子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "人妻",
+      "荡妇",
+      "乱伦",
+      "成熟的女人",
+      "企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-336"
+  },
+  {
+    "id": 574668,
+    "IDcode": "HBAD-355",
+    "title": "【神父の忏悔室】巨乳人妻の危険な诱惑！絶対NGの密室セックスが冲撃的すぎる…【 一乃あおい】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-355"
+  },
+  {
+    "id": 82616,
+    "IDcode": "HBAD-402",
+    "title": "被下了春药臣服于别人肉棒之下的人妻桐嶋莉乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "药物",
+      "企画",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桐岛莉乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-402"
+  },
+  {
+    "id": 82669,
+    "IDcode": "HBAD-406",
+    "title": "落入陷阱的新婚人妻-舞島あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "戏剧",
+      "中出",
+      "企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "舞岛あかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-406"
+  },
+  {
+    "id": 216697,
+    "IDcode": "HBAD-407",
+    "title": "因为媚药成为他人俘虏的人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231021/juc406pl.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-406"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-407"
   },
   {
-    "id": 218140,
-    "IDcode": "JUC-411",
-    "title": "人妻折-瀬戸ありさ",
+    "id": 593171,
+    "IDcode": "HBAD-433",
+    "title": "蒸し暑い夏の日、轮奸夜这いされた人妻は、夫妇生活では味わえない快楽に 躰が痹れ电撃を受けたように感じまくる。夫にも言",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/32a2db4e48c45cab399779bc85c13a45.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/082a304c477a8ac0a49f4a3aead4fb53.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-411"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-433"
   },
   {
-    "id": 536561,
-    "IDcode": "JUC-442",
-    "title": "艶堂しほりの人妻レズナンパ",
+    "id": 213966,
+    "IDcode": "HBAD-451",
+    "title": "人妻の肉体-織田真琴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231014/juc442pl.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-442"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-451"
   },
   {
-    "id": 214438,
-    "IDcode": "JUC-450",
-    "title": "人妻露出-甲斐ミハル",
+    "id": 106280,
+    "IDcode": "HBAD-465",
+    "title": "被同事们当作狗调教的人妻女社员在丈夫面前被凌辱做爱-望月りさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "OL",
+      "调教",
+      "淫妻",
+      "新娘，年轻妻子",
+      "素人作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873e335d57b64bfdd99593/cover.jpg",
+    "actress": [
+      "望月理沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-465"
+  },
+  {
+    "id": 539878,
+    "IDcode": "HBAD-605",
+    "title": "见た目クールな美人妻 中身は気の良い嫁で男家族に快楽と喜びを与えるエッチ大好き大当たり若妻で义父も喜ぶ 広瀬りおな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/13/d4ed45c9e6897d038d0e14e51a535ba8.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240309/1hbad605pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-450"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-605"
   },
   {
-    "id": 216650,
-    "IDcode": "JUC-456",
-    "title": "人妻羞恥健康診断-小出遥",
+    "id": 84641,
+    "IDcode": "HBAD-615",
+    "title": "夫が知らない妻の秘密 元人気風俗嬢だったことが親族に見つかり性奉仕させられる淫穴人妻 東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "单体作品",
+      "口交",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "2022-03-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230111-1/670f1d9ce4f27026f83e906ab7552e13.jpg",
+    "actress": [
+      "东凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-615"
+  },
+  {
+    "id": 106505,
+    "IDcode": "HBAD-669",
+    "title": "公認的愛打炮美人妻-有坂唯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "多P",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "有坂唯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-669"
+  },
+  {
+    "id": 547102,
+    "IDcode": "HBAD-671",
+    "title": "结婚してもヤリマンは治まらない巨乳デカ尻人妻は旦那のチ○ポじゃ足りなくて近所の男达のヤリ部屋で",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231223/uND233Tm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-671"
+  },
+  {
+    "id": 400977,
+    "IDcode": "HBAD-677",
+    "title": "巨乳人妻沦为儿子朋友们的性玩具 五名不良少年轮番上阵 熟女肉便器淹没在精液浪潮中",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/28/685f2e6843d697271654855f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-677"
+  },
+  {
+    "id": 95767,
+    "IDcode": "HBAD-691",
+    "title": "老闆秘書的美女人妻-湊堇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d04321eb67774efbac6800/cover.jpg",
+    "actress": [
+      "凑堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-691"
+  },
+  {
+    "id": 8523,
+    "IDcode": "HBAD-703",
+    "title": "お隣の美人で巨乳の奥さんがデカチン目当てで軟体を見せつけて誘惑してくる 潤うるる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "艷遇",
+      "巨尻",
+      "口爆",
+      "慾求不滿",
+      "網襪",
+      "鄰居",
+      "勾引・誘惑",
+      "自宅",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "NTR",
+      "深喉",
+      "高顏值",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "手指插入",
+      "舔腳",
+      "乳交",
+      "御姐系",
+      "黑絲",
+      "家庭主妇",
+      "足交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250206/ebefadb6-a2b4-4a76-aac0-ab1f1da4d7d3.jpg",
+    "actress": [
+      "潤うるる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-703"
+  },
+  {
+    "id": 5407,
+    "IDcode": "HBAD-710",
+    "title": "对美貌过人的弟媳实在忍不住想颜射的欲望-本田瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "巨尻",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "豐滿",
+      "嫂嫂",
+      "阪道系",
+      "凌辱",
+      "4K",
+      "美腳",
+      "羞恥",
+      "色白",
+      "美乳",
+      "寢取",
+      "清楚系",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "美臀",
+      "不倫",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "乱伦",
+      "乳交",
+      "無毛",
+      "御姐系",
+      "黑絲",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250611/20250611224510906906_thumbnail.webp",
+    "actress": [
+      "本田瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-710"
+  },
+  {
+    "id": 5386,
+    "IDcode": "HBAD-711",
+    "title": "被淫荡般巨乳陌生人妻欲求不满让人看见自慰诱惑-黑木玲奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "艷遇",
+      "巨尻",
+      "若妻",
+      "口爆",
+      "慾求不滿",
+      "港區女子",
+      "偷拍・盜撮",
+      "辣妹/GAL系",
+      "臀控",
+      "鄰居",
+      "4K",
+      "美腳",
+      "癡女",
+      "勾引・誘惑",
+      "自宅",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "單體作品",
+      "寫真女郎",
+      "兩男一女",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "野性",
+      "淫亂",
+      "超爆乳",
+      "猥褻穿著",
+      "寫真偶像",
+      "中出",
+      "蕩婦",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "膚黑",
+      "自慰",
+      "乳交",
+      "御姐系",
+      "家庭主妇",
+      "肌肉",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090647638638_thumbnail.webp",
+    "actress": [
+      "黑木玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-711"
+  },
+  {
+    "id": 4565,
+    "IDcode": "HBAD-713",
+    "title": "服の隙間からノーブラ巨乳をチラ見せさせて誘惑してくる涎ダラダラ舐め好きお姉さん 辻井ほのか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "3P・4P",
+      "獵豔",
+      "巨尻",
+      "純粹的慾望",
+      "慾求不滿",
+      "口爆",
+      "三十路",
+      "豐滿",
+      "苗條",
+      "臀控",
+      "阪道系",
+      "4K",
+      "色白",
+      "胸控・戀乳癖",
+      "美乳",
+      "寢取",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "寫真女郎",
+      "淫亂",
+      "極品美人",
+      "超爆乳",
+      "大姐姐",
+      "寫真偶像",
+      "中出",
+      "蕩婦",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "抹油",
+      "舔陰",
+      "手指插入",
+      "高妹",
+      "無毛",
+      "乳交",
+      "御姐系",
+      "家庭主妇",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709221101870870_86602_thumbnail.webp",
+    "actress": [
+      "辻井穗乃果"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-713"
+  },
+  {
+    "id": 3815,
+    "IDcode": "HBAD-715",
+    "title": "ムチムチ爆乳の家政婦がノーブラ軟体エロポーズで誘惑してくる 山瀬美紀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "巨尻",
+      "慾求不滿",
+      "4K",
+      "羞恥",
+      "勾引・誘惑",
+      "自宅",
+      "胸控・戀乳癖",
+      "大奶头",
+      "寢取",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
+      "人妻",
+      "美人妻",
+      "淫亂",
+      "家政婦",
+      "地味",
+      "四十路",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "裸體圍裙",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/202508070141454040_25198_thumbnail.webp",
+    "actress": [
+      "山瀬美紀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-715"
+  },
+  {
+    "id": 2843,
+    "IDcode": "HBAD-716",
+    "title": "フィットネスジムで巨乳デカ尻のエロボディを狙われた長身アパレル女子 花宮きょうこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "更衣室",
+      "M男・M女",
+      "口爆",
+      "運動",
+      "豐滿",
+      "偷拍・盜撮",
+      "阪道系",
+      "4K",
+      "美腳",
+      "羞恥",
+      "胸控・戀乳癖",
+      "色白",
+      "大奶头",
+      "寢取",
+      "變態",
+      "美乳",
+      "健身房",
+      "清楚系",
+      "性感",
+      "按摩棒",
+      "亂交 • 群P",
+      "瑜珈·健身",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "單體作品",
+      "兩男一女",
+      "人妻",
+      "深喉",
+      "美人妻",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "猥褻穿著",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "美臀",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "高妹",
+      "舔腳",
+      "乳交",
+      "運動女孩",
+      "脅迫做愛",
+      "體操服裝",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911000621588588_63692_thumbnail.webp",
+    "actress": [
+      "花宮京子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-716"
+  },
+  {
+    "id": 2839,
+    "IDcode": "HBAD-717",
+    "title": "爆乳エロボディを持て余した欲求不満妻が夫に夫婦交換をオネダリして… 塚田しおり・赤城穂波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "女友・妻子",
+      "巨尻",
+      "小隻馬",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "豐滿",
+      "兩男兩女",
+      "4K",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "夫妻交换",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "熟女",
+      "大乳暈",
+      "形象俱樂部",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "夫妻交換",
+      "野性",
+      "淫亂",
+      "超爆乳",
+      "猥褻穿著",
+      "四十路",
+      "中出",
+      "蕩婦",
+      "美人",
+      "後入",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "御姐系",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014358792792_41289_thumbnail.webp",
+    "actress": [
+      "塚田詩織",
+      "赤城穂波"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-717"
+  },
+  {
+    "id": 2147,
+    "IDcode": "HBAD-718",
+    "title": "エロボディの息子の嫁と同居することになり巨乳を四六時中見せつけられて欲望を我慢できなくなってしまい・・ 浜辺栞帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "巨尻",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "豐滿",
+      "綠茶婊",
+      "臀控",
+      "4K",
+      "癡女",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "兒媳",
+      "性感",
+      "巨乳",
+      "跳蛋",
+      "口交",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "公公",
+      "淫亂",
+      "猥褻穿著",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "不倫",
+      "抹油",
+      "舔陰",
+      "手指插入",
+      "自慰",
+      "乳交",
+      "御姐系",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HIBINO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HIBINO",
+        "works_count": 417
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "浜辺栞帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-718"
+  },
+  {
+    "id": 553696,
+    "IDcode": "HD-018",
+    "title": "JAV高清无码 人妻美乳的淫荡日常 背着丈夫偷情的刺激体验",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HD-018"
+  },
+  {
+    "id": 207946,
+    "IDcode": "HDKA-143",
+    "title": "美女巨乳人妻-君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-143"
+  },
+  {
+    "id": 13858,
+    "IDcode": "HDKA-302",
+    "title": "居住在小金井市的裸體家庭主婦加藤妃乃 (37)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "人妻",
+      "NTR",
+      "慾求不滿",
+      "出軌",
+      "家庭主妇",
+      "美乳",
+      "中出",
+      "蕩婦",
+      "口交",
+      "女上位",
+      "騎乗位",
+      "劇情"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620014032480480.jpg",
+    "actress": [
+      "加藤妃乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-302"
+  },
+  {
+    "id": 11809,
+    "IDcode": "HDKA-308",
+    "title": "这裡是全裸家政妇派遣所-都月琉衣纱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "臀控",
+      "局部特寫",
+      "美腳",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "人妻",
+      "家政婦",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "美臀",
+      "劇情",
+      "手指插入",
+      "無毛",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/347ce91aa8e7a19bf713da7549b44d10.jpg",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-308"
+  },
+  {
+    "id": 11437,
+    "IDcode": "HDKA-309",
+    "title": "住在板橋區的赤裸家庭主婦 ~ 寶田萌奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "慾求不滿",
+      "局部特寫",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "NTR",
+      "淫亂",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "不倫",
+      "乳交",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/bebb0bafb8f9e224f2e7eda65d202616.jpg",
+    "actress": [
+      "宝田萌奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-309"
+  },
+  {
+    "id": 7770,
+    "IDcode": "HDKA-318",
+    "title": "裸體主婦板橋區居住-初音實",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "慾求不滿",
+      "戀物癖",
+      "真實拍攝",
+      "局部特寫",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "貴婦",
+      "美人妻",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250305/932c0f20-4b8c-4274-8296-6b1e266c80fb.jpg",
+    "actress": [
+      "初音實"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-318"
+  },
+  {
+    "id": 4640,
+    "IDcode": "HDKA-321",
+    "title": "全裸主婦 巨臀誘惑精選VOL.02 ~ 杏美月 葉月奈穗 青木琳 西山朝日 春菜華 響琳 篠崎環奈 藤白桃羽 篠原千歲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "巨尻",
+      "精選總編集",
+      "豐滿",
+      "4小時以上作品",
+      "苗條",
+      "臀控",
+      "美腳",
+      "精選綜合",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "NTR",
+      "超爆乳",
+      "美人",
+      "後入",
+      "少女",
+      "美臀",
+      "劇情",
+      "舔陰",
+      "手指插入",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d6f555337d7f7bbc2531/cover.jpg",
+    "actress": [
+      "春菜华",
+      "篠崎環奈",
+      "藤白桃羽",
+      "杏美月",
+      "西山あさひ",
+      "響りん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-321"
+  },
+  {
+    "id": 2980,
+    "IDcode": "HDKA-323",
+    "title": "はだかの主婦 巨尻特化セレクションVOL.03",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "精選總編集",
+      "三十路",
+      "4小時以上作品",
+      "港區女子",
+      "臀控",
+      "阪道系",
+      "肉絲",
+      "美腳",
+      "癡女",
+      "精選綜合",
+      "胸控・戀乳癖",
+      "色白",
+      "大奶头",
+      "美乳",
+      "制服",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "正統派",
+      "人妻",
+      "高顏值",
+      "明星臉",
+      "野性",
+      "淫亂",
+      "地味",
+      "超爆乳",
+      "極品美人",
+      "中出",
+      "美人",
+      "美腿",
+      "企畫",
+      "少女",
+      "後入",
+      "混血",
+      "美臀",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "脚控・戀足癖",
+      "女神",
+      "手指插入",
+      "無毛",
+      "乳交",
+      "御姐系",
+      "黑絲",
+      "家庭主妇",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/ad0832de/vod.jpg",
+    "actress": [
+      "吉根柚莉爱",
+      "姫咲華",
+      "藤森里穂",
+      "推川悠里",
+      "仓多真央",
+      "永井瑪麗亞",
+      "聖妃羽里",
+      "佐々木咲和",
+      "羽田つばさ",
+      "舞原圣",
+      "新井爱丽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-323"
+  },
+  {
+    "id": 409841,
+    "IDcode": "HDPR-004",
+    "title": "人妻楽園 Pleasure Love Affair.20 [杏子×沙織]",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/49170180a22a281d1ac15c34b11de716.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc21f52ee23a639b1c525d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-456"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDPR-004"
   },
   {
-    "id": 516362,
-    "IDcode": "JUC-460",
-    "title": "派遣清潔婦人妻 真白杏",
+    "id": 515651,
+    "IDcode": "HDSGA-091",
+    "title": "性慾超强西班牙系混血人妻 杉浦杏奈 34岁 AV出道！ 51",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "少妇",
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/5785b34a1565d067b7f92d374b9c9aaf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDSGA-091"
+  },
+  {
+    "id": 466755,
+    "IDcode": "HDV-053",
+    "title": "人妻の情事6 夫以外の男に中出しさ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f5b371fcdee36fa809d16/poster2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688cdd3e98bc99dfddee6f6d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-460"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDV-053"
   },
   {
-    "id": 214424,
-    "IDcode": "JUC-471",
-    "title": "人妻苦情处理-横山美怜",
+    "id": 409651,
+    "IDcode": "HDV-101",
+    "title": "人妻の履歴書 第6章 無理やり犯された12人の人妻たち",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/13/dbd2bf275f8bc7c1ce50c5e47568ac54.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d445b1d6fbef4e90c40fd6/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-471"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDV-101"
   },
   {
-    "id": 215909,
-    "IDcode": "JUC-473",
-    "title": "不倫人妻-伊島香織",
+    "id": 555756,
+    "IDcode": "HEY-100",
+    "title": "他人妻味 - 小嶋ひより",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/c02baaece9f5b6852c4409c7003085fc.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20241212-1/149b8f86943a7b671f55bb107b1e2214.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-473"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEY-100"
   },
   {
-    "id": 214571,
-    "IDcode": "JUC-495",
-    "title": "人妻の日常-ましろ杏",
+    "id": 434277,
+    "IDcode": "HEYDOUGA 4030-PPV2346",
+    "title": "穿和服的风俗店少妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/469b4e3cc9a629572faa53ddfe508ce5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYDOUGA 4030-PPV2346"
+  },
+  {
+    "id": 508278,
+    "IDcode": "HEYDOUGA 4030-PPV2447",
+    "title": "无码巨乳人妻的表演",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "巨乳",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYDOUGA 4030-PPV2447"
+  },
+  {
+    "id": 407765,
+    "IDcode": "HEYZO-0044",
+    "title": "淫蕩人妻降臨 13 ～第 1 部分～ – 川島羅莎",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/20/e8cea5d81ec19659fb3a9779c9228aa2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec190952c12b4e6846991d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-495"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0044"
   },
   {
-    "id": 218195,
-    "IDcode": "JUC-553",
-    "title": "人妻OL避難訓練-観月由奈",
+    "id": 143,
+    "IDcode": "HEYZO-0105",
+    "title": "為了女兒升學走後門的騷氣媽媽 ~ 绫濑妃亚罗",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "港區女子",
+      "美腳",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "跳蛋",
+      "形象俱樂部",
+      "大乳暈",
+      "人妻",
+      "美人妻",
+      "短髮",
+      "高顏值",
+      "極品美人",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "自慰",
+      "高跟鞋",
+      "乳交",
+      "御姐系",
+      "女上位",
+      "騎乗位",
+      "身體換業務"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/944c99c7e7d8f3f8682bd705103a8322.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-553"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2012-08-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "绫濑妃亚罗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0105"
   },
   {
-    "id": 215069,
-    "IDcode": "JUC-560",
-    "title": "信用金庫の人妻-羽月希",
+    "id": 160,
+    "IDcode": "HEYZO-0137",
+    "title": "讓我來寵你嘛～咱倆的小秘密～ ~ 吉野艷子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "艷遇",
+      "港區女子",
+      "職場",
+      "辦公室",
+      "美腳",
+      "OL",
+      "勾引・誘惑",
+      "色白",
+      "美乳",
+      "口交",
+      "鬃毛",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "野性",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "乳交",
+      "御姐系",
+      "女秘書",
+      "女上位",
+      "騎乗位",
+      "女同事"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/15/a6986f84a39b9de684e9c9a2a1f88309.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-560"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2012-10-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "吉野艶子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0137"
   },
   {
-    "id": 215892,
-    "IDcode": "JUC-573",
-    "title": "与我的嫂子一起去公共浴室",
+    "id": 191,
+    "IDcode": "HEYZO-0180",
+    "title": "好色妻降臨10 後編 ~ 加藤ツバキ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "3P・4P",
+      "多P",
+      "口爆",
+      "真實拍攝",
+      "辣妹/GAL系",
+      "美腳",
+      "真人秀",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "鬃毛",
+      "熟女",
+      "潮吹",
+      "兩男一女",
+      "人妻",
+      "美人妻",
+      "短髮",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "美人",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "御姐系",
+      "白眼失神",
+      "金髮",
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/7ff4eef220a4a25e94dad1b765e5c51a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-573"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617082829404404_thumbnail.webp",
+    "actress": [
+      "加藤ツバキ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0180"
   },
   {
-    "id": 215063,
-    "IDcode": "JUC-582",
-    "title": "人妻個人授業-風間ゆみ",
+    "id": 222,
+    "IDcode": "HEYZO-0237",
+    "title": "極上美人若妻被逼用身體還債連環中出~今井乃愛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "3P・4P",
+      "老頭子",
+      "若妻",
+      "M男・M女",
+      "苗條",
+      "凌辱",
+      "美腳",
+      "羞恥",
+      "美乳",
+      "欠債肉償",
+      "按摩棒",
+      "清楚系",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "兩男一女",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "淫亂",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "舔腳",
+      "脅迫做愛",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/15/dbe5ca7e1f90d548b2e4ecef203114d6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-582"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2013-02-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250528/20250528041108968968_thumbnail.webp",
+    "actress": [
+      "今井乃愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0237"
   },
   {
-    "id": 211123,
-    "IDcode": "JUC-592",
-    "title": "人妻試験官 真田春香",
+    "id": 232,
+    "IDcode": "HEYZO-0256",
+    "title": "淫蕩人妻降臨20後篇 ~ 朝霧一花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "3P・4P",
+      "打手槍",
+      "性感睡衣",
+      "慾求不滿",
+      "真實拍攝",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "口交",
+      "熟女",
+      "兩男一女",
+      "人妻",
+      "美人妻",
+      "淫亂",
+      "四十路",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/05/bb371a83e6e45e0b37f9a16d06036faa.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6893093cc92318f97d880063/cover.jpg",
+    "actress": [
+      "朝霧一花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0256"
+  },
+  {
+    "id": 466,
+    "IDcode": "HEYZO-0559",
+    "title": "接受AV業界洗禮的新人熟女女優 3人3種不同的濃厚性愛 ~ 小嶋まこ 柴田ひかり 南野りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "真實拍攝",
+      "故事集",
+      "羞恥",
+      "出道作品",
+      "色白",
+      "美乳",
+      "口交",
+      "熟女",
+      "人妻",
+      "淫亂",
+      "地味",
+      "中出",
+      "蕩婦",
+      "後入",
+      "絕頂高潮",
+      "女優",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2014-04-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20250114/ec5b7838-fe1d-4981-be2c-c30b49fe6ef8.jpg",
+    "actress": [
+      "南野りか",
+      "小嶋まこ",
+      "柴田ひかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0559"
+  },
+  {
+    "id": 509,
+    "IDcode": "HEYZO-0608",
+    "title": "诬陷隔壁的美熟女人妻朝桐光买情趣玩具然后然后就可以内射她了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "3P・4P",
+      "打手槍",
+      "艷遇",
+      "巨尻",
+      "若妻",
+      "慾求不滿",
+      "辣妹/GAL系",
+      "感官作品",
+      "凌辱",
+      "鄰居",
+      "美腳",
+      "癡女",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "制服",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "明星臉",
+      "淫亂",
+      "蠻橫嬌羞",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "美臀",
+      "不倫",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cd707f4e7d663df4db88ba/cover.jpg",
+    "actress": [
+      "朝桐光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0608"
+  },
+  {
+    "id": 521,
+    "IDcode": "HEYZO-0619",
+    "title": "炮友介紹社 Vol.4 ～絕頂5P高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "多P",
+      "慾求不滿",
+      "豐滿",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "約炮",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "絕頂高潮",
+      "素人",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2014-06-16",
+    "cover_url": "https://picture.yoshiclub.xyz/20241216/a2d4cd6b-3e7c-4ead-97df-2ab3922fbccd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-592"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0619"
+  },
+  {
+    "id": 537,
+    "IDcode": "HEYZO-0636",
+    "title": "下班後的誘惑 ～ 教你如何勾引女人 ～ 一ノ瀬ルカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "慾求不滿",
+      "飯店",
+      "綠茶婊",
+      "苗條",
+      "辣妹/GAL系",
+      "美腳",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "心機婊",
+      "美人妻",
+      "人妻",
+      "蠻橫嬌羞",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "美腿",
+      "絕頂高潮",
+      "女優",
+      "脚控・戀足癖",
+      "乳交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2014-07-12",
+    "cover_url": "https://picture.yoshiclub.xyz/20241204/dd3fd674-c564-4b30-ae56-7ea5761919bb.jpg",
+    "actress": [
+      "一ノ瀬ルカ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0636"
+  },
+  {
+    "id": 704,
+    "IDcode": "HEYZO-0849",
+    "title": "完全獨佔性感苗條美熟女！ ~ 愛加あみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "熟女",
+      "人妻",
+      "形象俱樂部",
+      "美腿",
+      "貧乳",
+      "美腳",
+      "中出",
+      "蕩婦",
+      "企畫",
+      "性感",
+      "苗條",
+      "顏射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240828/51d34268-d0bc-4343-b71c-33e4b27a7976.jpg",
+    "actress": [
+      "愛加あみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0849"
+  },
+  {
+    "id": 706,
+    "IDcode": "HEYZO-0852",
+    "title": "美癡女 - 美人老板的權力濫用 ~ 京野明日香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "慾求不滿",
+      "苗條",
+      "辣妹/GAL系",
+      "淫語",
+      "辦公室",
+      "美腳",
+      "癡女",
+      "OL",
+      "勾引・誘惑",
+      "制服",
+      "口交",
+      "女上司",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "短髮",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "劇情",
+      "絕頂高潮",
+      "脚控・戀足癖",
+      "黑絲",
+      "足交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-05-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20240821/781a0d2a-5af9-477a-9007-ceabd26b16a7.jpg",
+    "actress": [
+      "京野明日香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0852"
+  },
+  {
+    "id": 708,
+    "IDcode": "HEYZO-0854",
+    "title": "奇聞趣事收藏 ~ vol.26 ~ 加護あんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "奇聞趣事",
+      "巨尻",
+      "素人作品",
+      "美少女",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "潮吹",
+      "人妻",
+      "蠻橫嬌羞",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "絕頂高潮",
+      "美少女電影",
+      "素人",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-05-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20240821/979da663-a3ff-4de8-a458-392b52a76c22.jpg",
+    "actress": [
+      "加護あんな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0854"
+  },
+  {
+    "id": 710,
+    "IDcode": "HEYZO-0857",
+    "title": "下班6點後 欲望吞食一切 ~ 山梨ゆず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "慾求不滿",
+      "苗條",
+      "OL",
+      "胸控・戀乳癖",
+      "美乳",
+      "過膝襪・小腿襪",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "人妻",
+      "猥褻穿著",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "乳交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-05-12",
+    "cover_url": "https://picture.yoshiclub.xyz/20240821/a7d1406c-3b7d-4695-a3c8-71359da52a33.jpg",
+    "actress": [
+      "山梨ゆず"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0857"
+  },
+  {
+    "id": 717,
+    "IDcode": "HEYZO-0865",
+    "title": "把你的女老板叫過來！ ！ - 堀口奈津美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "打手槍",
+      "多P",
+      "苗條",
+      "凌辱",
+      "美腳",
+      "OL",
+      "羞恥",
+      "美乳",
+      "制服",
+      "口交",
+      "熟女",
+      "潮吹",
+      "兩男一女",
+      "人妻",
+      "淫亂",
+      "中出",
+      "劇情",
+      "顏射",
+      "輪姦",
+      "脅迫做愛",
+      "黑絲",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-05-23",
+    "cover_url": "https://picture.yoshiclub.xyz/20240814/69647368-41da-4696-9109-0a30aae66916.jpg",
+    "actress": [
+      "堀口奈津美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0865"
+  },
+  {
+    "id": 720,
+    "IDcode": "HEYZO-0869",
+    "title": "清楚妻的黑歷史 ~ 水菜麗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "人妻",
+      "美少女電影",
+      "同事女友・妻子",
+      "若妻",
+      "美少女",
+      "美腳",
+      "美腿",
+      "羞恥",
+      "女上位",
+      "脅迫做愛",
+      "美乳",
+      "中出",
+      "後入",
+      "口交",
+      "性感",
+      "騎乗位",
+      "劇情"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-05-29",
+    "cover_url": "https://picture.yoshiclub.xyz/20240814/d50c7402-258d-4060-88b0-b0499c1619ea.jpg",
+    "actress": [
+      "水菜麗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0869"
+  },
+  {
+    "id": 722,
+    "IDcode": "HEYZO-0873",
+    "title": "美麗的蕩婦——展現你的激情！ ～ - 中島京子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "人妻",
+      "美腳",
+      "OL",
+      "女王",
+      "女上位",
+      "黑絲",
+      "中出",
+      "制服",
+      "口交",
+      "企畫",
+      "性感"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-06-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20240814/dac145d1-2762-4685-95a4-643375c1dfd6.jpg",
+    "actress": [
+      "中島京子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0873"
+  },
+  {
+    "id": 724,
+    "IDcode": "HEYZO-0876",
+    "title": "淫蕩人妻在電梯裏被集團癡漢猥褻。 。 。 ～ 中村奈菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "人妻",
+      "形象俱樂部",
+      "美少女電影",
+      "性騷擾",
+      "肉絲",
+      "無毛",
+      "慾求不滿",
+      "女上位",
+      "電梯",
+      "美乳",
+      "中出",
+      "蕩婦",
+      "口交",
+      "猥亵",
+      "性感",
+      "劇情",
+      "絕頂高潮"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-06-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20240814/baeb9baf-fc59-4505-9a2b-c985da09dba1.jpg",
+    "actress": [
+      "中村奈菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0876"
+  },
+  {
+    "id": 59584,
+    "IDcode": "HEYZO-0906",
+    "title": "人妻を満足させ隊-逢沢はるか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "人妻",
+      "玩具",
+      "巨乳爆乳",
+      "中出",
+      "背后插入",
+      "骑乘位",
+      "颜射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2019/08/22/QQ201908221939260a2e0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0906"
+  },
+  {
+    "id": 746,
+    "IDcode": "HEYZO-0917",
+    "title": "本想教训废物下属却被操爽的黑丝女上司",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "熟女",
+      "潮吹",
+      "人妻",
+      "美腳",
+      "淫亂",
+      "乳交",
+      "美乳",
+      "中出",
+      "按摩棒",
+      "蕩婦",
+      "口交",
+      "企畫",
+      "性感",
+      "黑絲",
+      "絕頂高潮",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240512-1/e4daf4335070046d2c37d46cd10c0f29.jpg",
+    "actress": [
+      "堀口奈津美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0917"
+  },
+  {
+    "id": 747,
+    "IDcode": "HEYZO-0919",
+    "title": "我無法滿足於正常的性生活！ ~與三個性朋友的秘密戀情～ - 吉村美咲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "慾求不滿",
+      "飯店",
+      "苗條",
+      "辣妹/GAL系",
+      "美腳",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "NTR",
+      "人妻",
+      "約炮",
+      "淫亂",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "偷竊",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/43be09f301722acd2aea747c5fe06cf2.jpg",
+    "actress": [
+      "吉村美咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0919"
+  },
+  {
+    "id": 761,
+    "IDcode": "HEYZO-0935",
+    "title": "公司來的派遣社員什麼工作都能做！猥褻業務也做嗎？ ~ 上條藍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口爆",
+      "苗條",
+      "辦公室",
+      "肉絲",
+      "美腳",
+      "OL",
+      "制服",
+      "口交",
+      "熟女",
+      "人妻",
+      "野性",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "美腿",
+      "混血",
+      "劇情",
+      "脚控・戀足癖",
+      "手指插入",
+      "69",
+      "足交",
+      "女秘書",
+      "女上位",
+      "女同事"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HEYZO",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HEYZO",
+        "works_count": 3239
+      }
+    ],
+    "publish_date": "2015-08-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20240722/58c9273d-b41a-45aa-8415-ac3b920bf74d.jpg",
+    "actress": [
+      "上条藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0935"
   }
 ];

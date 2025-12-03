@@ -1,38 +1,1050 @@
 window.PAGE_DATA = [
   {
-    "id": 173300,
-    "IDcode": "MIMK-250",
-    "title": "某SNSで大バズリ！ ふるさと納精 実写版 自治体からの返礼品として送られてきた無愛想ドスケベボディ職員をイキ堕ちるまでハメまくったラッキー制度の一部始終 吉根ゆりあ",
+    "id": 566591,
+    "IDcode": "CEMD-255",
+    "title": "おじさんの颜を唾液まみれで舐めまわして兴奋する女 3 百永さりな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "MOODYZ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/06/5a6113cdb890e533729fdfa7c2b1080b.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/40c38a24aba3d5eab360d79f027040dd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-250"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-255"
   },
   {
-    "id": 175659,
-    "IDcode": "MIMK-253",
-    "title": "入り浸りギャルにマ○コ使わせて貰う話2実写版 令和イチ売れた最強エロ同人待望の続編 斎藤あみり",
+    "id": 566590,
+    "IDcode": "CEMD-257",
+    "title": "初アナル解禁SEX 市川京子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "MOODYZ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/2dc2d7f9/vod.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e1fb54ecb3669c9f55623a21bb92c8bd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-253"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-257"
   },
   {
-    "id": 175538,
-    "IDcode": "MIMK-255",
-    "title": "あの！お母さんの詳細 実写版 はいとく先生伝説の初期作品を映像化！頼まれるがままなし崩し的にハメまくる母子相姦！ 竹内有紀",
+    "id": 566589,
+    "IDcode": "CEMD-258",
+    "title": "美波ももが身闷えイキ狂う！淫行・狂乱・卑劣すぎる4SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b1d46e9d64b7d579197bc41ca7e447ea.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-258"
+  },
+  {
+    "id": 566588,
+    "IDcode": "CEMD-259",
+    "title": "ごく普通のOLを突然さらってSEX奴隶にする！ 瑞希かりん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cad91eff55ade9c73d5bffaab1211961.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-259"
+  },
+  {
+    "id": 566587,
+    "IDcode": "CEMD-260",
+    "title": "仆を诱惑する邻のボディコンギャル奥様 斎藤あみり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ca99600657ef8dd8be61baa0dc2f536b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-260"
+  },
+  {
+    "id": 592765,
+    "IDcode": "CEMD-262",
+    "title": "絶叫闷絶ポルチオ开発子宫の奥にある奥の奥でイク女8 白花こう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://pic41.anzise.com/pic/20221213/cd624cf5536e95ae2c1fac316d39a036/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-262"
+  },
+  {
+    "id": 566586,
+    "IDcode": "CEMD-263",
+    "title": "魅惑のランジェリーナ 翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/51991b2edb05a734885b92774ff10794.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-263"
+  },
+  {
+    "id": 410763,
+    "IDcode": "CEMD-264",
+    "title": "大人極上美女蕾絲邊 2 波多野結衣×樞木葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c91593d6fbef4e90ae69b9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-264"
+  },
+  {
+    "id": 566585,
+    "IDcode": "CEMD-266",
+    "title": "キャンピングカーでエッチしようよ！ 8 星川まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cf4beaf2d69ab614b97a1014c623471a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-266"
+  },
+  {
+    "id": 550292,
+    "IDcode": "CEMD-270",
+    "title": "仆の调教済み性処理人形お譲りします！2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221213/4vbhzeOH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-270"
+  },
+  {
+    "id": 550294,
+    "IDcode": "CEMD-271",
+    "title": "横宫七海が身闷えイキ狂う！淫行·狂乱·卑劣すぎる4SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221213/R8Oi8TBC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-271"
+  },
+  {
+    "id": 410846,
+    "IDcode": "CEMD-276",
+    "title": "巨乳・淫亂・性獸們最狂蕾絲邊2 望月彩華 新村晶 唯奈美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba887d4898416418387d96/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-276"
+  },
+  {
+    "id": 455531,
+    "IDcode": "CEMD-280",
+    "title": "～溢れる性衝動に溺れるオンナ～セックス・ドンナ 望月あやか 激エロ・4SEX 望月彩花 岩澤香代 辻井穗乃果",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb42e2cf22ae3e0415a855/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-280"
+  },
+  {
+    "id": 532601,
+    "IDcode": "CEMD-283",
+    "title": "[] ～溢れる性冲动に溺れるオンナ～セックス・ドンナ 高瀬りな 激エロ・4SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230420/cemd00283pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-283"
+  },
+  {
+    "id": 549918,
+    "IDcode": "CEMD-287",
+    "title": "～溢れる性冲动に溺れるオンナ～セックス·ドンナ 激エロ·3SEX＆発情オナニー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230207/8GNb2IzG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-287"
+  },
+  {
+    "id": 66770,
+    "IDcode": "CEMD-288",
+    "title": "停止时间的肮脏荡妇-望月あやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "戏剧",
+      "护士",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/64fddee6417b34382f2a051874c1e967.jpg",
+    "actress": [
+      "望月綾香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-288"
+  },
+  {
+    "id": 91062,
+    "IDcode": "CEMD-290",
+    "title": "让我们在露营车里做爱吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "汽车性爱",
+      "肛交",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20551db8c77d79bb6957e/cover.jpg",
+    "actress": [
+      "佐倉陽菜",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-290"
+  },
+  {
+    "id": 410823,
+    "IDcode": "CEMD-292",
+    "title": "初蕾絲邊解禁！神坂朋子with新村晶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68c039e1735bb663f7769b18/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-292"
+  },
+  {
+    "id": 532846,
+    "IDcode": "CEMD-293",
+    "title": "[] 涙のノンストップ激イカせSEX23 唯奈みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231024/cemd293pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-293"
+  },
+  {
+    "id": 532845,
+    "IDcode": "CEMD-296",
+    "title": "[] ～溢れる性冲动に溺れるオンナ～セックス・ドンナ 百永さりな 激エロ・4SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231024/cemd296pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-296"
+  },
+  {
+    "id": 468271,
+    "IDcode": "CEMD-299",
+    "title": "在露營車做愛吧！肛交版3 緒川春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2066bdb8c77d79bb695bc/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-299"
+  },
+  {
+    "id": 410832,
+    "IDcode": "CEMD-301",
+    "title": "波多野心療內科 用洗腦蕾絲邊療法來解決您的煩惱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68c0263c735bb663f7765e77/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-301"
+  },
+  {
+    "id": 533046,
+    "IDcode": "CEMD-304",
+    "title": "[] ～溢れる性冲动に溺れるオンナ～セックス・ドンナ 新村あかり 激エロ・4SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240123/cemd304pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-304"
+  },
+  {
+    "id": 533045,
+    "IDcode": "CEMD-306",
+    "title": "[] キャンピングカーでエッチしようよ！アナルSEXバージョン4 望月あやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240123/cemd306pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-306"
+  },
+  {
+    "id": 466265,
+    "IDcode": "CEMD-307",
+    "title": "恥辱、OO、裝上遙控跳蛋・繁華街約會！3 三岳優奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a206f5db8c77d79bb695c9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-307"
+  },
+  {
+    "id": 468285,
+    "IDcode": "CEMD-308",
+    "title": "戴上遙控跳蛋後就這樣在繁華街強迫口交約會！ 白花香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a206f5db8c77d79bb695ca/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-308"
+  },
+  {
+    "id": 564578,
+    "IDcode": "CEMD-310",
+    "title": "セックス·ドンナ 唯奈みつき 4SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230407/RbsDv0wJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-310"
+  },
+  {
+    "id": 549475,
+    "IDcode": "CEMD-311",
+    "title": "ごく普通のOLを突然さらってSEX奴隶にする！2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230407/Z9AKyVuO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-311"
+  },
+  {
+    "id": 564580,
+    "IDcode": "CEMD-312",
+    "title": "涙のノンストップ激イカせSEX25",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230407/O2WXDKax/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-312"
+  },
+  {
+    "id": 564579,
+    "IDcode": "CEMD-313",
+    "title": "おじさんの颜を唾液まみれで舐めまわして兴奋する女4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230407/YFn3Zr4L/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-313"
+  },
+  {
+    "id": 564576,
+    "IDcode": "CEMD-314",
+    "title": "涙のノンストップ激イカせSEX26",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230408/BojtK6eW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-314"
+  },
+  {
+    "id": 564574,
+    "IDcode": "CEMD-315",
+    "title": "セックス·ドンナ 霜月るな 3SEX×オナニー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230408/8GJJU1qf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-315"
+  },
+  {
+    "id": 564573,
+    "IDcode": "CEMD-316",
+    "title": "セックス·ドンナ 日向ゆら 4SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230408/01W0ZgJZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-316"
+  },
+  {
+    "id": 466261,
+    "IDcode": "CEMD-317",
+    "title": "恥辱、OO、裝上遙控跳蛋・繁華街約會！4 ～人妻編 水端麻美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20529cf22ae3e04a81825/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-317"
+  },
+  {
+    "id": 468439,
+    "IDcode": "CEMD-318",
+    "title": "在露營車做愛吧！9 沙月芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a205b6cf22ae3e04a81887/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-318"
+  },
+  {
+    "id": 466210,
+    "IDcode": "CEMD-320",
+    "title": "恥辱、OO、裝上遙控跳蛋・繁華街約會！5 ～人妻編 白河花清",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a205b6cf22ae3e04a81888/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-320"
+  },
+  {
+    "id": 410906,
+    "IDcode": "CEMD-322",
+    "title": "性愛猛獸「望月彩華」一步步教導新人女優「花芽有朱」！無止盡蕾絲邊快樂激情親密瘋狂高潮！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acbaa931eb0592de65abd9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-322"
+  },
+  {
+    "id": 410896,
+    "IDcode": "CEMD-323",
+    "title": "互相凝視幸福蕾絲邊～性愛檔案 樞木葵×末廣純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b19389735bb663f7626229/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-323"
+  },
+  {
+    "id": 549317,
+    "IDcode": "CEMD-324",
+    "title": "“これで终わりなんて许さない”精子が出なくなるまで责めまくる手加减知らずの痴女！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230426/dhOCmZEZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-324"
+  },
+  {
+    "id": 549319,
+    "IDcode": "CEMD-325",
+    "title": "仆の调教済み性処理人形お譲りします！5～SMバージョン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230426/Z8DPnVbV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-325"
+  },
+  {
+    "id": 564498,
+    "IDcode": "CEMD-326",
+    "title": "自律神経ぶっ飞んだ！汗だく絶顶激イキSEX！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230428/PLWUtOS4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-326"
+  },
+  {
+    "id": 564496,
+    "IDcode": "CEMD-327",
+    "title": "ノンストップ激イカせ…·アナルSEXバージョン3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230428/BKlOhtrs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-327"
+  },
+  {
+    "id": 564495,
+    "IDcode": "CEMD-328",
+    "title": "‘白花こう’の素颜～中出しアヘ颜絶顶3SEX＆オナニー～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230428/z43wrbDf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-328"
+  },
+  {
+    "id": 564494,
+    "IDcode": "CEMD-329",
+    "title": "‘如月ゆの’の素颜～中出しアヘ颜絶顶4SEX～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230428/dnD3Gg6Y/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-329"
+  },
+  {
+    "id": 456247,
+    "IDcode": "CEMD-330",
+    "title": "見知らぬ男と強●交尾～レ●プ→メス堕ち→性奴● 尾崎惠梨香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5daa89def9b1b80da289/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-330"
+  },
+  {
+    "id": 564389,
+    "IDcode": "CEMD-331",
+    "title": "自律神経ぶっ飞んだ！汗だく絶顶激イキSEX！！2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230519/P4xOvMFb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-331"
+  },
+  {
+    "id": 456257,
+    "IDcode": "CEMD-332",
+    "title": "初アナル解禁SEX～両穴に巨根ぶち込まれる日々～北乃由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a5f5089def9b1b80da69b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-332"
+  },
+  {
+    "id": 549154,
+    "IDcode": "CEMD-333",
+    "title": "媚薬マッサージサロンで种付けされた私…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230519/wimzB5hw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-333"
+  },
+  {
+    "id": 203849,
+    "IDcode": "CEMD-337",
+    "title": "义理上的儿子和我之间的绝对秘密",
     "year": "",
     "country": "",
     "genre": "",
@@ -40,31 +1052,318 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "company": "MOODYZ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/515546c2/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-255"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-337"
   },
   {
-    "id": 173871,
-    "IDcode": "MIMK-259",
-    "title": "無自覚な幼馴染と興味本位でヤってみたら 1＆2実写版 シリーズ累計売上21万部越え！大ヒット作実写化！ ひなたなつ",
+    "id": 468202,
+    "IDcode": "CEMD-338",
+    "title": "戴上遙控跳蛋後就這樣在繁華街強迫口交約會！2 有岡美羽",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "MOODYZ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/04/0df21b70bcef39215e73166ff253e83b.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a203c1db8c77d79bb694f9/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-259"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-338"
   },
   {
-    "id": 173327,
-    "IDcode": "MINA-007",
-    "title": "美少女乱交 橋本りこ",
+    "id": 549006,
+    "IDcode": "CEMD-339",
+    "title": "おじさんの颜を唾液まみれで舐めまわして兴奋する女5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/0BDwTVip/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-339"
+  },
+  {
+    "id": 549002,
+    "IDcode": "CEMD-340",
+    "title": "‘三岳ゆうな’の素颜～中出しアヘ颜絶顶4SEX～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/OBaUNDQ5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-340"
+  },
+  {
+    "id": 549004,
+    "IDcode": "CEMD-341",
+    "title": "‘岬さくら’の素颜～中出しアヘ颜絶顶4SEX～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/isELm22D/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-341"
+  },
+  {
+    "id": 549009,
+    "IDcode": "CEMD-343",
+    "title": "“一般男性のみなさん！私をイカせまくって下さい！”～街头で见つけた素人男性に壊れるほどイカされ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/lRBXnQXq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-343"
+  },
+  {
+    "id": 549007,
+    "IDcode": "CEMD-344",
+    "title": "涙のノンストップ激イカせSEX27",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/xN6df8xb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-344"
+  },
+  {
+    "id": 549003,
+    "IDcode": "CEMD-345",
+    "title": "望月あやかがレズ开発＆调教！アヘ颜ヨリ目で快楽レズビアン沼に落ちた一条みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/maBqAChc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-345"
+  },
+  {
+    "id": 549005,
+    "IDcode": "CEMD-346",
+    "title": "涙のノンストップ激イカせSEX28",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/makxPamH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-346"
+  },
+  {
+    "id": 549008,
+    "IDcode": "CEMD-347",
+    "title": "涙のノンストップ激イカせSEX29",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/M7xprG3b/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-347"
+  },
+  {
+    "id": 168574,
+    "IDcode": "CEMD-348",
+    "title": "在露营车里做爱吧-竹内夏希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/4c2ed18edcb89181e9546a199f767b5d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-348"
+  },
+  {
+    "id": 564238,
+    "IDcode": "CEMD-349",
+    "title": "‘夏川あゆみ’の素颜～中出しアヘ颜絶顶5SEX～-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230622/hIUXbzWo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-349"
+  },
+  {
+    "id": 410958,
+    "IDcode": "CEMD-351",
+    "title": "肛交发情！～本能有感！美女疯狂喘气快感蕾丝边～ 小松杏×新村晶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8f4857f3b7c929073fc74/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-351"
+  },
+  {
+    "id": 548958,
+    "IDcode": "CEMD-352",
+    "title": "见知らぬ男と强制交尾～レ●プ→メス堕ち→性奴隶 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230627/R9JejEeX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-352"
+  },
+  {
+    "id": 548959,
+    "IDcode": "CEMD-353",
+    "title": "涙のノンストップ激イカせSEX30",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230627/BmTXNxHc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-353"
+  },
+  {
+    "id": 548960,
+    "IDcode": "CEMD-354",
+    "title": "カメラを止めないノンストップ！パーフェクトBODY“三岳ゆうな”を乱交SEX渍けにした120分！",
     "year": "",
     "country": "",
     "genre": "",
@@ -72,3156 +1371,772 @@ window.PAGE_DATA = [
       "乱交"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/06/175d43441c9409aaf36548e8fc4fd847.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230627/Bm2sTQK8/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MINA-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-354"
   },
   {
-    "id": 70527,
-    "IDcode": "MINA-010",
-    "title": "家事手伝いお嬢様乱交 南見つばさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交",
-      "素人作品",
-      "苗条",
-      "多P",
-      "单体作品",
-      "滥交",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/2a9967b1f1894b6dc47c76f603fbf41b.jpg",
-    "actress": [
-      "南見つばさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MINA-010"
-  },
-  {
-    "id": 96130,
-    "IDcode": "MIRD-078",
-    "title": "10周年纪念特别篇著名演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "数位马赛克",
-      "无码破解",
-      "多P",
-      "两男两女",
-      "荡妇",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/a4c71b64adc3222eb4a46014cfa35e1b.jpg",
-    "actress": [
-      "大橋未久",
-      "周防雪子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-078"
-  },
-  {
-    "id": 19540,
-    "IDcode": "MIRD-081",
-    "title": "不穿内裤的女教师-大桥未久",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女教師",
-      "女上位",
-      "數位馬賽克",
-      "舔陰",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/c90f50659b70eaa255254549e47f0afd.jpg",
-    "actress": [
-      "大橋未久"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-081"
-  },
-  {
-    "id": 67930,
-    "IDcode": "MIRD-122",
-    "title": "潜入捜査官集団",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女检察官",
-      "药物",
-      "靴子",
-      "强奸",
-      "戏剧",
-      "轮奸",
-      "凌辱"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/08/ffabeeea62b227dfe3eeedcb9fe72900.jpg",
-    "actress": [
-      "椎名由奈",
-      "佐藤遥希",
-      "松岡仁美",
-      "田渊正浩",
-      "南佳也"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-122"
-  },
-  {
-    "id": 222051,
-    "IDcode": "MIRD-125",
-    "title": "MOODYZ2013感謝祭",
+    "id": 548957,
+    "IDcode": "CEMD-355",
+    "title": "‘北乃ゆな’の素颜～中出しアヘ颜絶顶4SEX～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/45d949f1b87c91499bc3a2122f282418.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230627/kivzdozy/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-125"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-355"
   },
   {
-    "id": 19588,
-    "IDcode": "MIRD-134",
-    "title": "极品痴女共同演出梦幻的四小时",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "姐姐・妹妹",
-      "數位馬賽克",
-      "精選綜合",
-      "無碼破解",
-      "苗條",
-      "亂交 • 群P",
-      "內衣"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/abccae03df77bb0ce470114fb2bca372.jpg",
-    "actress": [
-      "大橋未久",
-      "小泉彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-134"
-  },
-  {
-    "id": 212259,
-    "IDcode": "MIRD-135",
-    "title": "色情淫荡的护士病房",
+    "id": 548956,
+    "IDcode": "CEMD-356",
+    "title": "‘穂花あいり’の素颜～中出しアヘ颜絶顶4SEX～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/15/f21aaa2897560179aab721376b52cc41.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230627/hFOGMwFZ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-356"
   },
   {
-    "id": 88063,
-    "IDcode": "MIRD-136",
-    "title": "女神大桥未久最后的粉丝感谢祭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "数位马赛克",
-      "荡妇",
-      "车掌小姐",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240418-1/6071cfa7636161278e2d55cb2ee89338.jpg",
-    "actress": [
-      "大橋未久"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-136"
-  },
-  {
-    "id": 63331,
-    "IDcode": "MIRD-140",
-    "title": "Lord of Walkure×MOODYZコラボ企画 第2弾 上原亜衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码",
-      "数位马赛克",
-      "深喉",
-      "单体作品",
-      "女战士"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/544d050ffec6d0d2d28b99cc37080501.jpg",
-    "actress": [
-      "上原亞衣",
-      "南佳也"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-140"
-  },
-  {
-    "id": 210179,
-    "IDcode": "MIRD-142",
-    "title": "舔字诀-神咲詩織",
+    "id": 564062,
+    "IDcode": "CEMD-358",
+    "title": "见知らぬ男と强制交尾～レ●プ→メス堕ち→性奴隶 3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/09/f6f8850f5dafaf5cdee8b8a787291c9a.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230710/ReRs7V0o/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-142"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-358"
   },
   {
-    "id": 77062,
-    "IDcode": "MIRD-155",
-    "title": "潮吹き大乱交4時間SPECIAL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "乱交",
-      "数位马赛克",
-      "多P",
-      "美少女",
-      "滥交",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2015-12-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/db26484cb6373c4aff0b4e49e6a8d4a3.jpg",
-    "actress": [
-      "酒井桃香",
-      "桜木优希音",
-      "凉川绚音",
-      "なつめ爱梨"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-155"
-  },
-  {
-    "id": 73582,
-    "IDcode": "MIRD-163",
-    "title": "果てしなく従順なメイド10名と暮らす王様",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "数位马赛克",
-      "主观视角",
-      "女佣",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2016-05-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/c0e3f6fb3fc6cbf781201f0d7ed0cf8c.jpg",
-    "actress": [
-      "椎名空",
-      "眞白愛梨",
-      "川村真矢",
-      "橋本怜奈",
-      "桜木优希音",
-      "神波多一花",
-      "琴羽雫",
-      "夏目优希",
-      "冲田奈々",
-      "玉城マイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
-  },
-  {
-    "id": 192608,
-    "IDcode": "MIRD-177",
-    "title": "腿交商事股份有限公司白花花的丝袜大腿痴女们快要把我榨干了",
+    "id": 564059,
+    "IDcode": "CEMD-359",
+    "title": "男の全身を舐めまわして脳イキする痴女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "/upload/vod/20250718-2/5c33dbcb568c7007211f3e5f4e1ed546.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230710/mg94PD3A/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-359"
   },
   {
-    "id": 210701,
-    "IDcode": "MIRD-178",
-    "title": "学園時間停止",
+    "id": 564060,
+    "IDcode": "CEMD-361",
+    "title": "ノンストップ激イカせ…·痴女SEXバージョン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/27/ea6a908cc43862144c93d70b278ea5da.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230710/CcKsaWEW/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-361"
   },
   {
-    "id": 77061,
-    "IDcode": "MIRD-180",
-    "title": "大学病院精液吸引採取科",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "数位马赛克",
-      "护士",
-      "深喉",
-      "荡妇",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/02/20/c42290c7c1a066e718b7a10312017eeb.jpg",
-    "actress": [
-      "蓮実クレア",
-      "安部未華子",
-      "三原穗香",
-      "鲛岛",
-      "玉木玲",
-      "浜崎真绪",
-      "枢木美栞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-180"
-  },
-  {
-    "id": 73355,
-    "IDcode": "MIRD-181",
-    "title": "私立真空口交学园",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "迷你裙",
-      "数位马赛克",
-      "口交",
-      "紧身衣",
-      "深喉"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250128-1/7afba615845469e8233eba33d9a4bb91.jpg",
-    "actress": [
-      "栄川乃亜",
-      "森春流",
-      "宫崎彩",
-      "鲛岛",
-      "七海ゆあ",
-      "星咲伶美",
-      "なつめ爱梨"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-181"
-  },
-  {
-    "id": 77063,
-    "IDcode": "MIRD-183",
-    "title": "いつでもどこでも時間停止して中出しできる学園III",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "数位马赛克",
-      "中出",
-      "校服",
-      "学校作品",
-      "美少女",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-12-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/ac81835640a29dd634709a575e37dcb0.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "迹美珠里",
-      "幸田ユマ",
-      "持田栞里",
-      "桃尻かのん",
-      "星奈爱",
-      "若宫はずき",
-      "仓木诗织",
-      "天月叶菜",
-      "水川えみる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-183"
-  },
-  {
-    "id": 193382,
-    "IDcode": "MIRD-184",
-    "title": "绝对领域学校的小恶魔学生妹们以挑逗男性为乐",
+    "id": 564061,
+    "IDcode": "CEMD-362",
+    "title": "自律神経ぶっ飞んだ！汗だく絶顶激イキSEX！！3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "/upload/vod/20250703-1/39c7ec183103b4370ee57353a123b81d.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230710/gjMm8s7k/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-184"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-362"
   },
   {
-    "id": 212749,
-    "IDcode": "MIRD-185",
-    "title": "卒業旅行中の女子大生6人組",
+    "id": 445373,
+    "IDcode": "CEMD-363",
+    "title": "我有春天MiuArioka4SEX-MiuArioka",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/11/a9554d6883ae1b8539be252ab3de4402.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/5b892f798be3caa34c4aee134469e9d6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-185"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-363"
   },
   {
-    "id": 73612,
-    "IDcode": "MIRD-188",
-    "title": "变态猥琐头教师带领全班男生停止时间把校园内的女学生干个遍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "滥交",
-      "中出",
-      "学校作品",
-      "学校泳装"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250727-1/a05f2a01e5863d7ab52587b9a0bd85b7.jpg",
-    "actress": [
-      "枢木葵",
-      "大島愛里亞",
-      "有栖露露",
-      "雪奈真冬",
-      "高杉麻里",
-      "イセドン内村",
-      "浅田结梨",
-      "椎叶みくる",
-      "咲良ゆめ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-188"
-  },
-  {
-    "id": 73771,
-    "IDcode": "MIRD-190",
-    "title": "絶対領域 挑発美少女ハーレム学園2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "足交",
-      "校服",
-      "淫语",
-      "淫乱，真实",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-21/8a1aad1f44ec41d718cd11f1982d247b.jpg",
-    "actress": [
-      "枢木葵",
-      "蘭々",
-      "麻里梨夏",
-      "高杉麻里",
-      "鲛岛",
-      "市川润"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-190"
-  },
-  {
-    "id": 70765,
-    "IDcode": "MIRD-192",
-    "title": "同棲生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "戏剧",
-      "淫乱，真实",
-      "滥交",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/30/653ee2872f604c87deb0372135138b32.jpg",
-    "actress": [
-      "深田詠美",
-      "永瀬ゆい",
-      "岬梓沙",
-      "高杉麻里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-192"
-  },
-  {
-    "id": 211190,
-    "IDcode": "MIRD-196",
-    "title": "一种勃起的药物",
+    "id": 563918,
+    "IDcode": "CEMD-366",
+    "title": "キャンピングカーでエッチしようよ！アナルSEXバージョン6",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/11/e1c0cb6ae901f80a6ab3fdb7ccfebea0.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230725/xcXYS81u/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-196"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-366"
   },
   {
-    "id": 76494,
-    "IDcode": "MIRD-197",
-    "title": "一夫多妻制实施有钱的臭老头强制买了三个大美女老婆在家里每天内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "调教",
-      "无码破解",
-      "中出",
-      "凌辱",
-      "巨乳",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/505334a030e33f214764118309443b42.jpg",
-    "actress": [
-      "AIKA",
-      "篠田优",
-      "君岛美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-197"
-  },
-  {
-    "id": 83633,
-    "IDcode": "MIRD-198",
-    "title": "潮吹き5人姉妹 両親が不在の間に汁まみれで痴女られまくったボク…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "淫语",
-      "淫乱，真实",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/c15ad6e677f4816665dd45aa93c2cfa5.jpg",
-    "actress": [
-      "有村希",
-      "葵百合香",
-      "岬梓沙",
-      "新井爱丽",
-      "豊田爱菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-198"
-  },
-  {
-    "id": 75192,
-    "IDcode": "MIRD-199",
-    "title": "绝对领域美少女学院",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "足交",
-      "淫乱，真实",
-      "高中女生",
-      "荡妇",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/e4a1507ab806139b64a1990b5a7a891f.jpg",
-    "actress": [
-      "渚光希",
-      "永瀬ゆい",
-      "葵玲奈",
-      "鲛岛",
-      "爱瀬るか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-199"
-  },
-  {
-    "id": 211507,
-    "IDcode": "MIRD-209",
-    "title": "24時間中出",
+    "id": 563916,
+    "IDcode": "CEMD-367",
+    "title": "男の全身を舐めまわして脳イキする痴女2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/01/17/4b23b881b56688d623e433acae413a87.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230725/Ax0098fH/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-209"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-367"
   },
   {
-    "id": 212089,
-    "IDcode": "MIRD-210",
-    "title": "中出大乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/06/26/926ce7e06e654940572d623e09d040cd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-210"
-  },
-  {
-    "id": 79672,
-    "IDcode": "MIRD-213",
-    "title": "兽人和精灵被肉体",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "角色扮演",
-      "中出",
-      "淫乱，真实",
-      "多P",
-      "巨乳",
-      "角色扮演者"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/1621feaf755f22f81751aeba21e7c49e.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "辻井穗乃果",
-      "佐知子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-213"
-  },
-  {
-    "id": 80016,
-    "IDcode": "MIRD-214",
-    "title": "聖水ハーレム 美少女4人におしっこビチャビチャかけられ何度も射精させられたい！ 月乃ルナ 百瀬あすか 永瀬ゆい 皆月ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "放尿",
-      "潮吹",
-      "中出",
-      "荡妇",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2021-10-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/7eaaa834c91d2a1f648b4b269a05a2a6.jpg",
-    "actress": [
-      "皆月光",
-      "月乃露娜",
-      "小栗操",
-      "永瀬ゆい",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-214"
-  },
-  {
-    "id": 81165,
-    "IDcode": "MIRD-215",
-    "title": "肉尻揺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "中出",
-      "多P",
-      "巨大屁股",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/26/725cedd363e01970475cf3a2167fde3e.jpg",
-    "actress": [
-      "松本一香",
-      "渚光希",
-      "小栗操",
-      "久留木玲",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-215"
-  },
-  {
-    "id": 88071,
-    "IDcode": "MIRD-217",
-    "title": "無碼破解版被4名小恶魔侵犯一整天的后宫中出女子会仓本堇枢木葵松元一香百瀬飞鸟",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "淫乱，真实",
-      "共演",
-      "荡妇",
-      "美少女电影",
-      "M男"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/c4c36aae6b0e10891a4cbda11d1eaf8a.jpg",
-    "actress": [
-      "松本一香",
-      "小栗操",
-      "枢木葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-217"
-  },
-  {
-    "id": 85601,
-    "IDcode": "MIRD-218",
-    "title": "【FANZA限定】トリプル全集中！≪乳首・亀頭・アナル≫男の快楽スポット3点責め中出しハーレム学園！ 白桃はな 花狩まい 倉本すみれ 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "制服",
-      "多P",
-      "荡妇",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2022-07-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/c29a84a6ace922bee33aaa97b19199c5.jpg",
-    "actress": [
-      "白桃はな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-218"
-  },
-  {
-    "id": 85549,
-    "IDcode": "MIRD-220",
-    "title": "無碼破解版我房間成為了霸凌者辣妹們的待機處被下流屁眼抵住打樁一整晚亂交乙愛麗絲百永紗里奈AIKA逢見梨花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交",
-      "女生",
-      "女上位",
-      "屁股",
-      "荡妇",
-      "巨大屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/0e46432c101fec44c33e5bf0018cd574.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "AIKA",
-      "逢見梨花",
-      "左慈半造",
-      "黑川纱里奈",
-      "百永紗里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-220"
-  },
-  {
-    "id": 85605,
-    "IDcode": "MIRD-221",
-    "title": "ママ友の溜まり場 メスイキ中出しサークル ～新米パパの僕が完全メス化させられちゃった1日～ 乙アリス 浜崎真緒 大槻ひびき 波多野結衣 （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肛交",
-      "已婚妇女",
-      "中出",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2022-09-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/3af6609b894d0ce79befd6273d0e2f8f.jpg",
-    "actress": [
-      "波多野结衣",
-      "乙愛麗絲",
-      "大槻响",
-      "浜崎真绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-221"
-  },
-  {
-    "id": 68673,
-    "IDcode": "MIRD-222",
-    "title": "生活在一个后宫邻里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "淫乱，真实",
-      "童年朋友",
-      "荡妇",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/10/4215a48358e3c7910dda7116d0bfd92a.jpg",
-    "actress": [
-      "松本一香",
-      "天然美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-222"
-  },
-  {
-    "id": 92356,
-    "IDcode": "MIRD-223",
-    "title": "我们不能放过你的阴茎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "多P",
-      "中出",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/1fd25286d1b152a1e8ed3e1530bfcada.jpg",
-    "actress": [
-      "沙月惠奈",
-      "沙月芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-223"
-  },
-  {
-    "id": 18842,
-    "IDcode": "MIRD-231",
-    "title": "SEX研究会",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "兔女郎妝扮",
-      "接吻",
-      "口交",
-      "教學"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/e746f3c6505e7af79da46db0b9f87c65.jpg",
-    "actress": [
-      "波多野结衣",
-      "乙愛麗絲",
-      "彌生美月",
-      "沙月芽衣",
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-231"
-  },
-  {
-    "id": 16250,
-    "IDcode": "MIRD-236",
-    "title": "会场里唯一的男",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "同學",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "少女",
-      "按摩棒",
-      "中出",
-      "大亂交",
-      "多P",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "內衣",
-      "潮吹",
-      "媚藥・迷藥",
-      "一男多女",
-      "性感",
-      "後入",
-      "口爆",
-      "口交",
-      "美少女電影",
-      "同學聚會",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/1f763fb7b3a28d196cec4a26ba49544f.jpg",
-    "actress": [
-      "都月楓",
-      "前田美波",
-      "天晴乃愛",
-      "小松杏",
-      "市川りく",
-      "日向ひかげ",
-      "須崎美羽",
-      "源川ゆずな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-236"
-  },
-  {
-    "id": 10947,
-    "IDcode": "MIRD-243",
-    "title": "免許合宿で痴女ギャル集団とまさかの…相部屋 令和最強黒ギャル・白ギャル・ラテギャル全員集合！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "美乳",
-      "手指插入",
-      "肌肉",
-      "女上位",
-      "接吻",
-      "情趣內衣",
-      "艷遇",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "丁字裤",
-      "雙飛",
-      "舔腳",
-      "足交",
-      "癡女",
-      "少女",
-      "形象俱樂部",
-      "中出",
-      "多P",
-      "巨尻",
-      "同住一屋・相部屋",
-      "校花",
-      "蠻橫嬌羞",
-      "苗條",
-      "美少女",
-      "金髮",
-      "顏射",
-      "內衣",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "3P・4P",
-      "潮吹",
-      "一男多女",
-      "胸控・戀乳癖",
-      "猥褻穿著",
-      "感官作品",
-      "性感",
-      "心機婊",
-      "美腳",
-      "旅行",
-      "巨乳",
-      "後入",
-      "綠茶婊",
-      "明星臉",
-      "口爆",
-      "辣妹/GAL系",
-      "叛逆少女",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "臀控",
-      "野性",
-      "美少女電影",
-      "鄉下",
-      "騎乗位",
-      "膚黑"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/18/8d377112/vod.jpg",
-    "actress": [
-      "椿莉香",
-      "春陽萌花",
-      "田中寧寧",
-      "AIKA",
-      "有村希",
-      "逢見梨花",
-      "瀬那瑠美奈",
-      "鳳可怜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-243"
-  },
-  {
-    "id": 10622,
-    "IDcode": "MIRD-244",
-    "title": "エロメイド養成学園 ご奉仕またがり学部ねっちょりベロキス騎乗位中出し学科",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "女僕制服",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "學校",
-      "少女",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "大亂交",
-      "奇異的",
-      "美少女",
-      "蠻橫嬌羞",
-      "苗條",
-      "脚控・戀足癖",
-      "女僕",
-      "絕頂高潮",
-      "女同事",
-      "潮吹",
-      "胸控・戀乳癖",
-      "感官作品",
-      "性感",
-      "COSPLAY服飾",
-      "美腳",
-      "高顏值",
-      "巨乳",
-      "企畫",
-      "後入",
-      "明星臉",
-      "校園生活",
-      "奇聞趣事",
-      "舔陰",
-      "口交",
-      "臀控",
-      "美少女電影",
-      "白絲",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/76d377b2/vod.jpg",
-    "actress": [
-      "天馬唯",
-      "沙月惠奈",
-      "胡桃櫻花",
-      "二葉惠麻",
-      "白石桃",
-      "Nia",
-      "菊池春",
-      "姫川かのん",
-      "七尾神",
-      "じゅうもんじ",
-      "タイ",
-      "二叶エマ",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-244"
-  },
-  {
-    "id": 10929,
-    "IDcode": "MIRD-245",
-    "title": "梦一样的后宫故事",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "兔女郎妝扮",
-      "女上位",
-      "情趣內衣",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "雙飛",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "色白",
-      "多P",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "顏射",
-      "內衣",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "潮吹",
-      "一男多女",
-      "紀念作",
-      "胸控・戀乳癖",
-      "感官作品",
-      "性感",
-      "COSPLAY服飾",
-      "美腳",
-      "高顏值",
-      "巨乳",
-      "企畫",
-      "後入",
-      "明星臉",
-      "舔陰",
-      "女優",
-      "口交",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241119-1/a2b0c845ae3a8e58fe4e910aeeb1d86c.jpg",
-    "actress": [
-      "八木奈々",
-      "古川穗花",
-      "未步奈奈",
-      "八木奈奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-245"
-  },
-  {
-    "id": 10307,
-    "IDcode": "MIRD-246",
-    "title": "ぴちぴち制服ヤング娘の黒タイツハーレム学園 ムチスベタイツ脚に挟撃ロックされ身動き出来ずに射精させられる僕。 Nia 姫川かのん 優梨まいな 天馬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "同學",
-      "女上位",
-      "艷遇",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "黑絲",
-      "雙飛",
-      "舔腳",
-      "足交",
-      "學校",
-      "癡女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "短髮",
-      "多P",
-      "巨尻",
-      "美少女",
-      "蠻橫嬌羞",
-      "3P・4P",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "JK校服",
-      "一男多女",
-      "抹油",
-      "感官作品",
-      "性感",
-      "高顏值",
-      "美腳",
-      "巨乳",
-      "後入",
-      "綠茶婊",
-      "明星臉",
-      "叛逆少女",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/1b474b4b/vod.jpg",
-    "actress": [
-      "天馬唯",
-      "優梨舞奈",
-      "Nia",
-      "姫川かのん",
-      "タイ",
-      "优梨まいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-246"
-  },
-  {
-    "id": 8684,
-    "IDcode": "MIRD-250",
-    "title": "女子バレー部ムチムチ超脚長ハーレム ガニ股天空杭打ち騎乗位で中出しブッコ抜かれまくる2泊3日 木下ひまり 辻井ほのか 滝ゆいな 堤セリナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "體育舘",
-      "女上位",
-      "美人",
-      "艷遇",
-      "運動",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "後宮系",
-      "淫亂",
-      "丁字裤",
-      "雙飛",
-      "癡女",
-      "少女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "清純",
-      "色白",
-      "多P",
-      "校花",
-      "蠻橫嬌羞",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "更衣室",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "一男多女",
-      "比基尼",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "運動女孩",
-      "運動服裝",
-      "後入",
-      "口交",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/f6a7a05d90f16eac3b260d95267e7525.jpg",
-    "actress": [
-      "木下日葵",
-      "辻井穗乃果",
-      "滝ゆいな",
-      "堤芹奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-250"
-  },
-  {
-    "id": 8262,
-    "IDcode": "MIRD-251",
-    "title": "白丝痴女护士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "美乳",
-      "吞精",
-      "女上位",
-      "接吻",
-      "美人",
-      "艷遇",
-      "後宮系",
-      "極品美人",
-      "亂交 • 群P",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "丁字裤",
-      "雙飛",
-      "癡女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "護士制服",
-      "小隻馬",
-      "多P",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "顏射",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "護士",
-      "一男多女",
-      "胸控・戀乳癖",
-      "感官作品",
-      "性感",
-      "高顏值",
-      "美腳",
-      "主觀視角",
-      "巨乳",
-      "看病・住院",
-      "後入",
-      "明星臉",
-      "口爆",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "深喉",
-      "醫院・診所",
-      "白絲",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250308-1/1ecd191e2abf571d2e90353ac2177312.jpg",
-    "actress": [
-      "美園和花",
-      "末広純",
-      "一条美緒",
-      "一条美绪",
-      "末广纯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-251"
-  },
-  {
-    "id": 7908,
-    "IDcode": "MIRD-252",
-    "title": "入社到性感內衣公司後",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "肉絲",
-      "美人",
-      "艷遇",
-      "劇情",
-      "淫亂",
-      "丁字裤",
-      "癡女",
-      "形象俱樂部",
-      "慾求不滿",
-      "色白",
-      "多P",
-      "巨尻",
-      "奇異的",
-      "蠻橫嬌羞",
-      "顔面騎乘",
-      "內衣",
-      "女同事",
-      "無做愛場面",
-      "性感",
-      "高顏值",
-      "美腳",
-      "辦公室",
-      "奇聞趣事",
-      "舔陰",
-      "加班",
-      "美少女電影",
-      "OL",
-      "制服",
-      "勾引・誘惑"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250401-1/df3bcff533f03cee7f3d8d147f8bf351.jpg",
-    "actress": [
-      "久和原聖羅",
-      "恵沙也香",
-      "真白みのり",
-      "福田もも",
-      "夢川りあ",
-      "斉藤月乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-252"
-  },
-  {
-    "id": 6912,
-    "IDcode": "MIRD-254",
-    "title": "MOODYZファン感謝祭 うらバコバコバスツアー2025 補欠者救済？サンバDEカーニバル！！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "感謝祭",
-      "粉絲福利",
-      "美乳",
-      "真實拍攝",
-      "女上位",
-      "美人",
-      "情趣內衣",
-      "極品美人",
-      "美腿",
-      "淫亂",
-      "癡女",
-      "公共場所",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "小隻馬",
-      "大亂交",
-      "巨尻",
-      "美少女",
-      "蠻橫嬌羞",
-      "苗條",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "紀念作",
-      "胸控・戀乳癖",
-      "猥褻穿著",
-      "粉丝",
-      "性感",
-      "高顏值",
-      "美腳",
-      "無毛",
-      "巨乳",
-      "企畫",
-      "後入",
-      "明星臉",
-      "辣妹/GAL系",
-      "女優",
-      "口交",
-      "臀控",
-      "跳舞",
-      "真人秀",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/ab40c9c11ba7f870666212ffb77d0b73.jpg",
-    "actress": [
-      "美園和花",
-      "彌生美月",
-      "椿莉香",
-      "新村朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-254"
-  },
-  {
-    "id": 60730,
-    "IDcode": "MIRD-255",
-    "title": "MOODYZファン感謝祭バコバコバスツアー2025 完全版 バコバス11時間＋うらバコ4時間＋未公開シーン収録17時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "淫乱，真实",
-      "16小时以上作品",
-      "滥交",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/5bcee999de999b4e3594f79f4c3a3546.jpg",
-    "actress": [
-      "美園和花",
-      "椿莉香",
-      "松本一香",
-      "三岳祐奈",
-      "安倍亜沙美",
-      "椎叶みくる",
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-255"
-  },
-  {
-    "id": 6127,
-    "IDcode": "MIRD-256",
-    "title": "女子校修学旅行の引率オジ教師 教え子たちに一晩中体液（唾液・おしっこ）をぶっかけられて罵倒淫語で罵られる一部始終",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "手指插入",
-      "女上位",
-      "美人",
-      "艷遇",
-      "淫語",
-      "後宮系",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "素人",
-      "淫亂",
-      "舔腳",
-      "雙飛",
-      "足交",
-      "癡女",
-      "少女",
-      "乳交",
-      "按摩棒",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "兩女一男",
-      "小隻馬",
-      "校花",
-      "美少女",
-      "苗條",
-      "蘿莉",
-      "顏射",
-      "3P・4P",
-      "脚控・戀足癖",
-      "潮吹",
-      "一男多女",
-      "高顏值",
-      "美腳",
-      "旅行",
-      "後入",
-      "口爆",
-      "辣妹/GAL系",
-      "叛逆少女",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "蘿莉控",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250619-1/b50a14ed9cbdd9994109121e8a613141.jpg",
-    "actress": [
-      "涼花くるみ",
-      "葉月ひな",
-      "水本葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-256"
-  },
-  {
-    "id": 5004,
-    "IDcode": "MIRD-257",
-    "title": "履いてない青春真っただ中の汚れなき少女たち 私立ノーパン学園",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "大奶头",
-      "美乳",
-      "體育舘",
-      "手指插入",
-      "同學",
-      "女上位",
-      "美人",
-      "極品美人",
-      "亂交 • 群P",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "清楚系",
-      "學校",
-      "癡女",
-      "少女",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "色白",
-      "小隻馬",
-      "大亂交",
-      "多P",
-      "巨尻",
-      "校花",
-      "短髮",
-      "蠻橫嬌羞",
-      "苗條",
-      "美少女",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "JK校服",
-      "潮吹",
-      "学园祭",
-      "胸控・戀乳癖",
-      "無毛",
-      "美腳",
-      "高顏值",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "校園生活",
-      "口爆",
-      "貧乳",
-      "舔陰",
-      "口交",
-      "臀控",
-      "鬃毛",
-      "美少女電影",
-      "寫真偶像",
-      "二次元",
-      "蘿莉控",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-1/4f2c55cfa42666e01d7d0a9be4a891a5.jpg",
-    "actress": [
-      "美澄玲衣",
-      "湊波流",
-      "羽月果音",
-      "若月もあ",
-      "乙葉らぶ",
-      "朝海凪咲",
-      "花芽有朱",
-      "下川紬",
-      "新垣まりん",
-      "安倍亜沙美",
-      "吉野愛衣",
-      "小野寺ゆあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
-  },
-  {
-    "id": 5341,
-    "IDcode": "MIRD-258",
-    "title": "月に一度のおじさん宅のお泊り会でお小遣い100円でおしっこ飲ませてくれるつるペタ姪っ子聖水ハーレム 由良かな 皆月ひかる 望月つぼみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女僕制服",
-      "大奶头",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "接吻",
-      "雙馬尾",
-      "美人",
-      "應召・援交",
-      "過膝襪・小腿襪",
-      "後宮系",
-      "極品美人",
-      "亂交 • 群P",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "黑絲",
-      "雙飛",
-      "舔腳",
-      "放尿",
-      "清楚系",
-      "癡女",
-      "少女",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "兩女一男",
-      "色白",
-      "小隻馬",
-      "校花",
-      "蠻橫嬌羞",
-      "苗條",
-      "美少女",
-      "蘿莉",
-      "顏射",
-      "3P・4P",
-      "絕頂高潮",
-      "網襪",
-      "女僕",
-      "一男多女",
-      "COSPLAY服飾",
-      "無毛",
-      "美腳",
-      "高顏值",
-      "後入",
-      "鬼畜片",
-      "貧乳",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "白絲",
-      "蘿莉控",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250619-1/3d7941d7aea38b2fc246485886ee1b83.jpg",
-    "actress": [
-      "皆月光",
-      "由良佳奈",
-      "望月蕾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-258"
-  },
-  {
-    "id": 62133,
-    "IDcode": "MIRD-259",
-    "title": "国王与皇后的MegatonK-Himari みなみ羽琉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "超乳",
-      "乳交",
-      "恋乳癖",
-      "姐姐",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/19/cc0e482a/vod.jpg",
-    "actress": [
-      "Himari",
-      "みなと羽琉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-259"
-  },
-  {
-    "id": 3156,
-    "IDcode": "MIRD-260",
-    "title": "天月あず 椿りか 一色さら 柏木こなつ 安堂はるの 伊織ひなの 乃木ちはる 宮ノ木しゅんか 宗像れな 岸永みりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "手指插入",
-      "女教師",
-      "人妻",
-      "同學",
-      "女上位",
-      "接吻",
-      "美人",
-      "熟女",
-      "後宮系",
-      "極品美人",
-      "中性",
-      "劇情",
-      "美腿",
-      "豐滿",
-      "黑絲",
-      "超爆乳",
-      "清楚系",
-      "學校",
-      "癡女",
-      "少女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "醫生製服",
-      "慾求不滿",
-      "清純",
-      "小隻馬",
-      "短髮",
-      "校花",
-      "蠻橫嬌羞",
-      "苗條",
-      "美少女",
-      "顏射",
-      "脚控・戀足癖",
-      "JK校服",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "高顏值",
-      "美腳",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "風俗娘",
-      "女同性戀",
-      "校園生活",
-      "口爆",
-      "奇聞趣事",
-      "貧乳",
-      "舔陰",
-      "口交",
-      "臀控",
-      "鬃毛",
-      "美少女電影",
-      "醫院・診所",
-      "蘿莉控",
-      "騎乗位",
-      "女學生",
-      "港區女子"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/11/22015878f4d602f716f803aae78d0c23.jpg",
-    "actress": [
-      "柏木小夏",
-      "椿莉香",
-      "天月梓",
-      "伊織雛乃",
-      "一色さら",
-      "安堂はるの",
-      "乃木ちはる",
-      "宮ノ木しゅんか",
-      "宗像れな",
-      "岸永みりな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-260"
-  },
-  {
-    "id": 3576,
-    "IDcode": "MIRD-261",
-    "title": "爆乳保育士がむぎゅむぎゅ圧迫お遊戯会 授乳手コキハーレム保育園 水原みその 小梅えな 羽月乃蒼 小坂ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "美人",
-      "艷遇",
-      "後宮系",
-      "劇情",
-      "大乳暈",
-      "亂交 • 群P",
-      "惡搞",
-      "美腿",
-      "淫亂",
-      "豐滿",
-      "丁字裤",
-      "超爆乳",
-      "足交",
-      "癡女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "色白",
-      "打手槍",
-      "多P",
-      "巨尻",
-      "網路紅人",
-      "蠻橫嬌羞",
-      "顔面騎乘",
-      "絕頂高潮",
-      "一男多女",
-      "比基尼",
-      "胸控・戀乳癖",
-      "性感",
-      "高顏值",
-      "主觀視角",
-      "巨乳",
-      "企畫",
-      "後入",
-      "綠茶婊",
-      "口爆",
-      "舔陰",
-      "口交",
-      "局部特寫",
-      "美少女電影",
-      "幼稚園老師",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/43f7b79c/vod.jpg",
-    "actress": [
-      "羽月乃蒼",
-      "小坂ひまり",
-      "水原みその",
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-261"
-  },
-  {
-    "id": 181120,
-    "IDcode": "MIRD-262",
-    "title": "MOODYZ創立25周年記念 MOODYZふたなり航空へようこそ！ バリキャリ美人CAが射精快楽で理性崩壊チ○ポイキしまくり発情ドスケベフライト",
+    "id": 563917,
+    "IDcode": "CEMD-368",
+    "title": "～幸せの近亲相奸～わたしは家族みんなの性処理系",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/8786c8d3/vod.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230725/DWy5eOly/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-262"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-368"
   },
   {
-    "id": 174989,
-    "IDcode": "MIRD-263",
-    "title": "MOODYZ 大ハード学園 アナル・中出し・イラマ・放尿・レズ全部乗せ大乱交 狂気6時間special",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/28/14d28369/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-263"
-  },
-  {
-    "id": 2214,
-    "IDcode": "MIRD-264",
-    "title": "アイドルハーレム超SUPER 囲まれ、挟まれ、同時に責められお宅スケベ訪問デリバリーSEX 【MOODYZ創立25周年記念】 葵いぶき 石原希望 未歩なな 古川ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "手指插入",
-      "真實拍攝",
-      "女上位",
-      "美人",
-      "情趣內衣",
-      "中囯服裝",
-      "後宮系",
-      "極品美人",
-      "美腿",
-      "豐滿",
-      "舔腳",
-      "足交",
-      "清楚系",
-      "癡女",
-      "少女",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "高妹",
-      "清純",
-      "色白",
-      "小隻馬",
-      "短髮",
-      "蠻橫嬌羞",
-      "苗條",
-      "美少女",
-      "顔面騎乘",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "女優訪談",
-      "JK校服",
-      "上門福利",
-      "一男多女",
-      "比基尼",
-      "胸控・戀乳癖",
-      "偶像",
-      "性感",
-      "無毛",
-      "美腳",
-      "COSPLAY服飾",
-      "高顏值",
-      "巨乳",
-      "企畫",
-      "後入",
-      "明星臉",
-      "口爆",
-      "貧乳",
-      "舔陰",
-      "女優",
-      "口交",
-      "臀控",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/7241af8f/vod.jpg",
-    "actress": [
-      "石原希望",
-      "葵伊吹",
-      "古川穗花",
-      "未步奈奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-264"
-  },
-  {
-    "id": 169800,
-    "IDcode": "MIRD180",
-    "title": "私立深喉大学医院精液採取科",
+    "id": 563774,
+    "IDcode": "CEMD-369",
+    "title": "见知らぬ男と强制交尾～レ●プ→メス堕ち→性奴隶 4",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241118-1/0ee70cf3867e261ce3a47d31b7612766.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230806/P3kt57LM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD180"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-369"
   },
   {
-    "id": 169928,
-    "IDcode": "MIRD197CN",
-    "title": "一夫多妻制 與討厭的中年大叔強制後宮中出！",
+    "id": 563914,
+    "IDcode": "CEMD-370",
+    "title": "ノンストップ！ノーカット！媚薬SEXでガンギマリ！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241206-1/e28718bad0b3c76582b2df839351c7e2.jpg",
-    "actress": [
-      "AIKA",
-      "篠田優",
-      "君島美緒"
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD197CN"
-  },
-  {
-    "id": 166671,
-    "IDcode": "MISM-063",
-    "title": "某教育組織役員の真面目系カワイイ若妻の正体は淫乱臭ぷんぷん漂わせ無毛パイパンマ○コに中出し繰り返す羞恥オシッコしーしーしてアヘ顔ダブルピースでキメるドマゾ奥様",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230305/mism00063pl.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230725/EflrTWG3/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-063"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-370"
   },
   {
-    "id": 104758,
-    "IDcode": "MISM-088",
-    "title": "渴望被主人调教肛门的两只小女仆姐妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "调教",
-      "无码破解",
-      "肛交",
-      "滥交",
-      "女佣",
-      "两男两女",
-      "灌肠"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240609-1/f58bec7b45abf3d9594a4c23efc94e6b.jpg",
-    "actress": [
-      "イセドン内村",
-      "篠田优",
-      "桜咲姫莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-088"
-  },
-  {
-    "id": 214982,
-    "IDcode": "MISM-112",
-    "title": "绝对服主人的命令",
+    "id": 563913,
+    "IDcode": "CEMD-371",
+    "title": "‘翔田千里’の素颜～中出しアヘ颜絶顶4SEX～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "えむっ娘ラボ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/10/0d9cf92cd0c827fe9d6d289b4c5cc950.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230725/vzVXuOhN/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-112"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-371"
   },
   {
-    "id": 213180,
-    "IDcode": "MISM-119",
-    "title": "純白美少女-高牟礼れな",
+    "id": 563768,
+    "IDcode": "CEMD-373",
+    "title": "都合のいい女KUROGAL兰华（エンドレスに感じまくるエロ黒ギャル）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "えむっ娘ラボ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/03/c62dd2392749166826b63c86e769533d.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230806/SzATUKNk/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-119"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-373"
   },
   {
-    "id": 77254,
-    "IDcode": "MISM-123",
-    "title": "素人マゾFILE 奴隷No.1みか（仮名）28歳 自ら調教志願してきた規格外の脳イキ変態鬼マゾ美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "SM",
-      "人妻",
-      "捆绑",
-      "纪录片",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2019-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/f54acf373485b2c21cdad5922bd8e64b.jpg",
-    "actress": [
-      "雨村梨花",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-123"
-  },
-  {
-    "id": 73775,
-    "IDcode": "MISM-146",
-    "title": "吐き出すまで突きまくる、地獄のコンビネーションイラマチオ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "拘束",
-      "深喉",
-      "滥交",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2019-08-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/71d6d258c48c4a2948ccc8fdf1dd2191.jpg",
-    "actress": [
-      "有村希",
-      "河合乃乃花",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-146"
-  },
-  {
-    "id": 75187,
-    "IDcode": "MISM-159",
-    "title": "優等生はやがてMになる。制服少女調教録 柊るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高中女生",
-      "戏剧",
-      "美少女电影",
-      "户外"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2019-12-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/4a296d704629c5bf1278cd6c437f7c6b.jpg",
-    "actress": [
-      "柊留衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-159"
-  },
-  {
-    "id": 83109,
-    "IDcode": "MISM-161",
-    "title": "眩しい程の美貌！溢れ出る品格！禍々しい変態オーラ！ 現役中学教師の実況型インテリ肛門マゾヒストAVデビューで覚醒！ 教え子の育ち盛りの肉棒でアナルを犯させるのを想像しながらスマイル3穴アクメ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "SM",
-      "首次亮相",
-      "女教师",
-      "深喉",
-      "肛交",
-      "二穴同时挿入"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2019-12-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221220-1/1caaf580b1384bb00f7799459ca37490.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-161"
-  },
-  {
-    "id": 81792,
-    "IDcode": "MISM-164",
-    "title": "豪穴アナルファッカーしょうこさんのファンサービス肛門訪問",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "淫乱，真实",
-      "肛交",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2020-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/40e423935dce951528daabfc73360357.jpg",
-    "actress": [
-      "松ゆきの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-164"
-  },
-  {
-    "id": 88069,
-    "IDcode": "MISM-182",
-    "title": "兵庫県出身のお嬢様大学生のイラマチオで失神絶頂したい願望 上京喉奥物語 るかちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "深喉",
-      "美少女电影",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2020-09-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230908-1/0b1a9066838ec20f157d8009f26f6782.jpg",
-    "actress": [
-      "流川帆波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-182"
-  },
-  {
-    "id": 218678,
-    "IDcode": "MISM-198",
-    "title": "肛門解禁-七瀬ひまり",
+    "id": 563776,
+    "IDcode": "CEMD-374",
+    "title": "魅惑のランジェリーナ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "えむっ娘ラボ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/07/1ddc8df25b1a492f5d2c49ae90bff158.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230806/VIJjYrEu/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-374"
   },
   {
-    "id": 85604,
-    "IDcode": "MISM-223",
-    "title": "喉凹姉妹 七宮ゆりあ 前乃菜々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "深喉",
-      "妹妹",
-      "滥交",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2021-12-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/d6071a6e4635b8779d8f52692f7626b8.jpg",
-    "actress": [
-      "前乃菜菜",
-      "七宫ゆりあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-223"
-  },
-  {
-    "id": 85577,
-    "IDcode": "MISM-232",
-    "title": "大学では教えてくれないマゾファック性育。 森川華名",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "淫乱，真实",
-      "深喉",
-      "多P",
-      "肛交",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2022-02-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/3110d7ef9a610092ca6788a126f0b98e.jpg",
-    "actress": [
-      "鲛岛",
-      "タイ",
-      "白沢比吕"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-232"
-  },
-  {
-    "id": 85530,
-    "IDcode": "MISM-243",
-    "title": "ドMでSEX大好き筋トレインフルエンサーの喉チ○コをクリトリス並の敏感性感帯に調教して喉ポルチオでイラマオーガズム",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "深喉",
-      "恋物癖",
-      "SM",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2022-06-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/d6b3d9bb73d63223bf83e3c40eccd7e7.jpg",
-    "actress": [
-      "倉與田"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-243"
-  },
-  {
-    "id": 85534,
-    "IDcode": "MISM-246",
-    "title": "応募いらまがーる。全力素人！喉奥でイッちゃった！（2）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "淫乱，真实",
-      "深喉",
-      "猎艳",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2022-07-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/7ddc08595440ee341da87d4f10deedfc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-246"
-  },
-  {
-    "id": 87019,
-    "IDcode": "MISM-247",
-    "title": "肛門喉奥膣穴-音琴るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "深喉",
-      "肛交",
-      "单体作品",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/05/456218b93b1fc96692cff108e861ba07.jpg",
-    "actress": [
-      "妃月るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-247"
-  },
-  {
-    "id": 73412,
-    "IDcode": "MISM-250",
-    "title": "私…エグイ程、精子が大好き 喉奥精飲女 みゆちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "吞精",
-      "淫乱，真实",
-      "深喉",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/63b15e66735b3e69b267e30caca53f7f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-250"
-  },
-  {
-    "id": 85602,
-    "IDcode": "MISM-254",
-    "title": "喉頭小穴陰道肛門狂亂3穴都吞下的變態被虐辣妹直播主 夏目未來",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "淫乱，真实",
-      "深喉",
-      "肛交",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2022-10-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/0d5cc5df8e458a49b700ee08ede669b3.jpg",
-    "actress": [
-      "夏目未來"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-254"
-  },
-  {
-    "id": 92354,
-    "IDcode": "MISM-255",
-    "title": "想被强奸的人-有加里ののか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "深喉",
-      "单体作品",
-      "滥交",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/fa8125466a46f67822de9687faeaf736.jpg",
-    "actress": [
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-255"
-  },
-  {
-    "id": 222348,
-    "IDcode": "MISM-257",
-    "title": "超级国宝级的肛交高手-望月あやか",
+    "id": 563775,
+    "IDcode": "CEMD-375",
+    "title": "媚薬マッサージサロンで种付けされた私…2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "えむっ娘ラボ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/930554860ea85b2eb3bd432d28882950.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230806/2hdF7T3o/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-257"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-375"
   },
   {
-    "id": 16637,
-    "IDcode": "MISM-305",
-    "title": "顺从升天后庭调教-MIHINA",
+    "id": 563770,
+    "IDcode": "CEMD-376",
+    "title": "望月あやかに“ごめんなさい”と言わせるまで责め続け、イカせ続けるノンストップレズ さつき芽衣×",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "美臀",
-      "SM",
-      "亂交 • 群P",
-      "黑絲",
-      "乳交",
-      "中出",
-      "多P",
-      "美少女",
-      "女秘書",
-      "白眼失神",
-      "女同事",
-      "潮吹",
-      "巨乳",
-      "性虐癖",
-      "口爆",
-      "口交",
-      "臀控",
-      "OL",
-      "深喉",
-      "肛交"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "えむっ娘ラボ",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "/upload/vod/20240219-1/0a7ef606657446df8c453278b0fb65cb.jpg",
-    "actress": [
-      "佐倉陽菜",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-305"
-  },
-  {
-    "id": 16640,
-    "IDcode": "MISM-306",
-    "title": "147cm的迷你身材",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑絲",
-      "美乳",
-      "SM",
-      "口爆",
-      "女上位",
-      "拘束・拷問",
-      "小隻馬",
-      "拳擊交",
-      "巨乳",
-      "肛交",
-      "美少女",
-      "後入",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240219-1/79897acda30439338270259b27299a08.jpg",
-    "actress": [
-      "生田りん",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-306"
-  },
-  {
-    "id": 15883,
-    "IDcode": "MISM-314",
-    "title": "肛交性爱-天晴乃愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "蕩婦",
-      "按摩棒",
-      "重口味",
-      "羞恥",
-      "情趣內衣",
-      "兩男兩女",
-      "多P",
-      "巨乳",
-      "跳蛋",
-      "肛交",
-      "劇情",
-      "亂交 • 群P",
-      "絕頂高潮"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240418-1/ea546eb363d98c990228b29f857c9c47.jpg",
-    "actress": [
-      "天晴乃愛",
-      "望月綾香",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-314"
-  },
-  {
-    "id": 15226,
-    "IDcode": "MISM-316",
-    "title": "生第一次的深喉貫通-乃木千春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "癡女",
-      "中出",
-      "情趣內衣",
-      "美少女電影",
-      "企畫",
-      "美少女",
-      "絕頂高潮"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240706-1/cf54ee47ce0a6860010f2d663ca0c6c0.jpg",
-    "actress": [
-      "乃木ちはる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-316"
-  },
-  {
-    "id": 15227,
-    "IDcode": "MISM-319",
-    "title": "好身材變態肛門女-天晴乃愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "導尿",
-      "情趣內衣",
-      "二穴同入",
-      "亂交 • 群P",
-      "淫亂",
-      "黑絲",
-      "重口味",
-      "中出",
-      "多P",
-      "3P・4P",
-      "絕頂高潮",
-      "猥褻穿著",
-      "巨乳",
-      "企畫",
-      "兩男一女",
-      "性虐癖",
-      "後入",
-      "蕩婦",
-      "女優",
-      "口交",
-      "肛交"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240817-1/243dfbb240382f407bffcf4639dee367.jpg",
-    "actress": [
-      "天晴乃愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-319"
-  },
-  {
-    "id": 96511,
-    "IDcode": "MISM-325",
-    "title": "未成熟的你迷路了-二叶惠麻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "SM",
-      "无码破解",
-      "淫乱，真实",
-      "深喉",
-      "多P",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240801-1/36bc089241bd88b486bef91c05bfbcab.jpg",
-    "actress": [
-      "鲛岛",
-      "イセドン内村",
-      "二叶エマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-325"
-  },
-  {
-    "id": 77854,
-    "IDcode": "MISM-338",
-    "title": "圣女的疯狂淫荡深喉咙体验-二叶惠麻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码破解",
-      "淫乱，真实",
-      "深喉",
-      "多P",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/5a4f3228230527051de2fba4b4b29d8d.jpg",
-    "actress": [
-      "鲛岛",
-      "二叶エマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-338"
-  },
-  {
-    "id": 76965,
-    "IDcode": "MISM-342",
-    "title": "在深渊肛门训练中咧著嘴笑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肛交",
-      "已婚妇女",
-      "深喉",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241203-1/bfbfeb71a4212ebe268a22e6c800dbd0.jpg",
-    "actress": [
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-342"
-  },
-  {
-    "id": 9748,
-    "IDcode": "MISM-344",
-    "title": "白衣の喉凹天使の健気スマイルが嗚咽崩壊。純情可憐ナースの最狂献身イラマチオ 八森わか菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美乳",
-      "手指插入",
-      "SM",
-      "吞精",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "濕身",
-      "淫亂",
-      "清楚系",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "護士制服",
-      "多P",
-      "美少女",
-      "3P・4P",
-      "白眼失神",
-      "顏射",
-      "絕頂高潮",
-      "護士",
-      "兩男一女",
-      "看病・住院",
-      "性虐癖",
-      "後入",
-      "唾液敷面",
-      "口爆",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "醫院・診所",
-      "深喉",
-      "白絲",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/c4669640/vod.jpg",
-    "actress": [
-      "八森若菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-344"
-  },
-  {
-    "id": 11171,
-    "IDcode": "MISM-346",
-    "title": "SUPER尻物語in拡張天国ver 神聖肛門オリンピア 月妃さら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "真實拍攝",
-      "SM",
-      "女上位",
-      "拘束・拷問",
-      "插入異物",
-      "二穴同入",
-      "亂交 • 群P",
-      "淫亂",
-      "按摩棒",
-      "重口味",
-      "中出",
-      "調教",
-      "和服・浴衣・喪服",
-      "拳擊交",
-      "美少女",
-      "3P・4P",
-      "白眼失神",
-      "金髮",
-      "絕頂高潮",
-      "網襪",
-      "比基尼",
-      "猥褻穿著",
-      "企畫",
-      "跳蛋",
-      "兩男一女",
-      "性虐癖",
-      "後入",
-      "口爆",
-      "緊縛",
-      "叛逆少女",
-      "辣妹/GAL系",
-      "蕩婦",
-      "女優",
-      "海灘",
-      "凌辱",
-      "肛交",
-      "騎乗位",
-      "膚黑"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/18/46225c14/vod.jpg",
-    "actress": [
-      "月妃さら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-346"
-  },
-  {
-    "id": 11218,
-    "IDcode": "MISM-347",
-    "title": "巨大ディルド合計300cmケツ穴全挿れ拡張アクメ 極肛門Wシンフォニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "女上位",
-      "插入異物",
-      "亂交 • 群P",
-      "淫亂",
-      "癡女",
-      "少女",
-      "按摩棒",
-      "清純",
-      "中出",
-      "調教",
-      "小隻馬",
-      "兩男兩女",
-      "泳裝",
-      "奇異的",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "口球",
-      "潮吹",
-      "JK校服",
-      "口罩",
-      "美腳",
-      "企畫",
-      "性虐癖",
-      "後入",
-      "奇聞趣事",
-      "女優",
-      "口交",
-      "美少女電影",
-      "肛交",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/f8b2f3e2b146f86b1e648ccd96cf7704.jpg",
-    "actress": [
-      "生田りん",
-      "羽田真子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-347"
-  },
-  {
-    "id": 11202,
-    "IDcode": "MISM-348",
-    "title": "純真はにかみ美少女がおねだり喉奥大・解・放！ 喉凹イラマ処女貫通式 八森わか菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美乳",
-      "SM",
-      "吞精",
-      "女上位",
-      "插入異物",
-      "亂交 • 群P",
-      "淫亂",
-      "少女",
-      "按摩棒",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "調教",
-      "短髮",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "顏射",
-      "絕頂高潮",
-      "潮吹",
-      "性感",
-      "美腳",
-      "企畫",
-      "兩男一女",
-      "後入",
-      "唾液敷面",
-      "口爆",
-      "女優",
-      "口交",
-      "美少女電影",
-      "深喉",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/18/7a894914/vod.jpg",
-    "actress": [
-      "八森若菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-348"
-  },
-  {
-    "id": 10476,
-    "IDcode": "MISM-350",
-    "title": "肛門喉奥膣穴 欲張り3ツ穴マゾファッカー 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "美乳",
-      "手指插入",
-      "SM",
-      "吞精",
-      "女上位",
-      "情趣內衣",
-      "插入異物",
-      "二穴同入",
-      "亂交 • 群P",
-      "打屁股",
-      "淫亂",
-      "少女",
-      "按摩棒",
-      "重口味",
-      "中出",
-      "調教",
-      "短髮",
-      "美少女",
-      "3P・4P",
-      "白眼失神",
-      "顏射",
-      "絕頂高潮",
-      "網襪",
-      "潮吹",
-      "猥褻穿著",
-      "變態",
-      "無毛",
-      "企畫",
-      "兩男一女",
-      "性虐癖",
-      "後入",
-      "唾液敷面",
-      "口爆",
-      "女優",
-      "口交",
-      "凌辱",
-      "深喉",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/5f3d707b/vod.jpg",
-    "actress": [
-      "千石もなか",
-      "鲛岛",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-350"
-  },
-  {
-    "id": 11154,
-    "IDcode": "MISM-351",
-    "title": "濃密発情する純正ケツ穴ジャンキー熱狂肛門交尾旅行 天晴乃愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美乳",
-      "手指插入",
-      "SM",
-      "女上位",
-      "拘束・拷問",
-      "淫亂",
-      "癡女",
-      "乳交",
-      "重口味",
-      "中出",
-      "調教",
-      "短髮",
-      "和服・浴衣・喪服",
-      "白眼失神",
-      "絕頂高潮",
-      "溫泉",
-      "潮吹",
-      "性感",
-      "旅行",
-      "巨乳",
-      "企畫",
-      "性虐癖",
-      "後入",
-      "緊縛",
-      "蕩婦",
-      "女優",
-      "口交",
-      "肛交",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/18/137c9a2b/vod.jpg",
-    "actress": [
-      "天晴乃愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-351"
-  },
-  {
-    "id": 95062,
-    "IDcode": "MISM-353",
-    "title": "最狂喉奥コンシェルジュ 小松杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "深喉",
-      "多P",
-      "单体作品",
-      "滥交",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/a7efb92f/vod.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230806/HsJbahqk/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-353"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-376"
   },
   {
-    "id": 10426,
-    "IDcode": "MISM-354",
-    "title": "肛門ズボズボ腹凹風俗タワー 天晴乃愛",
+    "id": 563769,
+    "IDcode": "CEMD-377",
+    "title": "感じすぎていっぱいおもらしごめんなさい…40",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "美乳",
-      "SM",
-      "吞精",
-      "女上位",
-      "應召・援交",
-      "插入異物",
-      "二穴同入",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "按摩棒",
-      "重口味",
-      "中出",
-      "色白",
-      "調教",
-      "短髮",
-      "多P",
-      "巨尻",
-      "拳擊交",
-      "獵豔",
-      "美少女",
-      "蠻橫嬌羞",
-      "3P・4P",
-      "潮吹",
-      "猥褻穿著",
-      "變態",
-      "性感",
-      "巨乳",
-      "兩男一女",
-      "飯店小姐・援交妹",
-      "性虐癖",
-      "後入",
-      "唾液敷面",
-      "風俗娘",
-      "口爆",
-      "緊縛",
-      "蕩婦",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "深喉",
-      "肛交",
-      "騎乗位"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/ee376d40/vod.jpg",
-    "actress": [
-      "天晴乃愛"
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-354"
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230806/k3L0h9bx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-377"
+  },
+  {
+    "id": 563777,
+    "IDcode": "CEMD-378",
+    "title": "俺を诱惑するエロ家政妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230806/N1eoR7uf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-378"
+  },
+  {
+    "id": 466304,
+    "IDcode": "CEMD-381",
+    "title": "恥辱、OO、裝上遙控跳蛋・繁華街約會！6 胡桃櫻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2034bcf22ae3e04a816ba/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-381"
+  },
+  {
+    "id": 548385,
+    "IDcode": "CEMD-382",
+    "title": "感じすぎていっぱいおもらしごめんなさい…41",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230823/NyrlhSGY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-382"
+  },
+  {
+    "id": 548381,
+    "IDcode": "CEMD-383",
+    "title": "“一切しゃべるの禁止！”どうしても漏れるアエギ声と濡れたマ○コの音响くSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230823/RpM4VDhg/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-383"
+  },
+  {
+    "id": 548380,
+    "IDcode": "CEMD-384",
+    "title": "エッチな身体を今スグお届け！‘弥生みづき’を召し上がれ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230823/4dPNGHJs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-384"
+  },
+  {
+    "id": 548382,
+    "IDcode": "CEMD-385",
+    "title": "涙のノンストップ激イカせSEX31",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230823/xdlUtBc6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-385"
+  },
+  {
+    "id": 548378,
+    "IDcode": "CEMD-386",
+    "title": "性欲がつきぬけたド淫乱熟女～すべてのシーンがSEX（4ラウンド）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230823/6UyTRZqo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-386"
+  },
+  {
+    "id": 548377,
+    "IDcode": "CEMD-387",
+    "title": "“言叶巧み”に骗されて大人たちに种付けされた私～4SEX～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230823/5DhQ3xWh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-387"
+  },
+  {
+    "id": 563454,
+    "IDcode": "CEMD-390",
+    "title": "男をいじめると感じる女子は実在する6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230910/c4S4mLsd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-390"
+  },
+  {
+    "id": 466312,
+    "IDcode": "CEMD-391",
+    "title": "恥辱、OO、裝上遙控跳蛋・繁華街約會！7 前田美波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20427cf22ae3e04a8176f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-391"
+  },
+  {
+    "id": 563456,
+    "IDcode": "CEMD-392",
+    "title": "酒饮み淫乱よっぱらいSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230910/8Itr0iPJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-392"
+  },
+  {
+    "id": 563455,
+    "IDcode": "CEMD-393",
+    "title": "何度も何度もイカされまくった！！快楽地狱SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230910/HQLd4IFo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-393"
+  },
+  {
+    "id": 563457,
+    "IDcode": "CEMD-394",
+    "title": "ノンストップ激イカせ…·アナルSEXバージョン4～初アナル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230911/l0lxwmv5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-394"
+  },
+  {
+    "id": 563453,
+    "IDcode": "CEMD-395",
+    "title": "“私、闻いてません！”全シーン即ハメ倒す！4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230911/I6sEIB94/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-395"
+  },
+  {
+    "id": 563451,
+    "IDcode": "CEMD-396",
+    "title": "男たちに押しきられて中出しSEXした私 ～4SEX～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230911/BsdfZbyb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-396"
+  },
+  {
+    "id": 563452,
+    "IDcode": "CEMD-397",
+    "title": "いつも犯される私 ～4生SEX～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230911/Dm8AqtJa/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-397"
+  },
+  {
+    "id": 548031,
+    "IDcode": "CEMD-398",
+    "title": "押しに弱くて都合よく膣内射精される私 ～4SEX～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230924/X7ftH4Gc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-398"
+  },
+  {
+    "id": 548044,
+    "IDcode": "CEMD-400",
+    "title": "仆の调教済み性処理人形お譲りします！6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230924/ho5hLbfi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-400"
   }
 ];

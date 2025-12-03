@@ -1,120 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 219643,
-    "IDcode": "MEYD-568",
-    "title": "瞒着老公说在加班的巨乳人妻-めぐり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/22/e58f80af418aece4423f7a2277014ccd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-568"
-  },
-  {
-    "id": 219987,
-    "IDcode": "MEYD-569",
-    "title": "欲求不满的人妻-中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/09/b318abce1dd8afc1025c074827312a3f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-569"
-  },
-  {
-    "id": 203634,
-    "IDcode": "MEYD-570",
-    "title": "人妻被强盗压在身下-川上奈奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/9895b953e227b1f4274b494622da9852.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-570"
-  },
-  {
-    "id": 219986,
-    "IDcode": "MEYD-571",
-    "title": "老公对不起-弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/09/fd2d63eb2f239951e8a250a17154040b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-571"
-  },
-  {
-    "id": 219985,
-    "IDcode": "MEYD-572",
-    "title": "老公出去抽烟的五分钟内-今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/09/2b5ac82823b1b373aa9065c701946e95.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-572"
-  },
-  {
-    "id": 220883,
-    "IDcode": "MEYD-573",
-    "title": "总是被哥哥埋怨的我-中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/3f759496c7be0925a10fe3e93c8bb66d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-573"
-  },
-  {
-    "id": 220890,
-    "IDcode": "MEYD-574",
-    "title": "丈夫的继子居然是巨根-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/be5e7bcf834d678f68a9be7c5dbe440d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-574"
-  },
-  {
-    "id": 220915,
-    "IDcode": "MEYD-575",
-    "title": "公公迅速内射巨乳儿媳-めぐり",
+    "id": 566700,
+    "IDcode": "BBTU-034",
+    "title": "用喉头深处和巨乳疯狂高潮",
     "year": "",
     "country": "",
     "genre": "",
@@ -122,1200 +10,2300 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/4f2aae88ca24c56e9beb4ca2680c80b1.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/MXcQlGh1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-575"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-034"
   },
   {
-    "id": 83661,
-    "IDcode": "MEYD-576",
-    "title": "喝醉回家的邻居巨乳人妻-佐山愛",
+    "id": 566699,
+    "IDcode": "BBTU-035",
+    "title": "和超大奶女经理抽插的棒球社",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/2rZNoz9s.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-035"
+  },
+  {
+    "id": 538140,
+    "IDcode": "BBTU-037",
+    "title": "[] デカパイ少女 虐め倶楽部 水原みその",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "中出",
-      "流汗",
-      "白天出轨",
-      "巨乳",
-      "荡妇"
+      "高清画质"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/6965a75698dfca54211fe7d31abaeddc.jpg",
-    "actress": [
-      "佐山爱",
-      "タツ"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-576"
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240118/bbtu037pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-037"
   },
   {
-    "id": 83345,
-    "IDcode": "MEYD-577",
-    "title": "セックスレスで15年禁欲！半導体製造ライン作業で働く巨乳おばさんがチ●ポ挿入後、みこすり半でアクメ顔晒して異常絶頂！パート終わりにホテルで密会AV出演",
+    "id": 566698,
+    "IDcode": "BBTU-038",
+    "title": "パイスプラッシュ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/50f9b31ee3eb9ab6fd279c112aea8565.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-038"
+  },
+  {
+    "id": 566697,
+    "IDcode": "BBTU-039",
+    "title": "パイコキ 爆乳嫐りで抜き地狱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "白天出轨",
-      "淫乱，真实",
-      "第一人称摄影",
       "巨乳"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "2020-03-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/2bb7296587dedf0879005be46a5d57a3.jpg",
-    "actress": [
-      "市川润",
-      "星优奈"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-577"
-  },
-  {
-    "id": 220874,
-    "IDcode": "MEYD-578",
-    "title": "不能告诉丈夫的秘密-冬愛ことね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/a5073511d8d759a658def4edcdf4fb5b.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/15405b7e53c1269a8cb3d14b9fda3ee0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-578"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-039"
   },
   {
-    "id": 220859,
-    "IDcode": "MEYD-579",
-    "title": "傲慢太太-根尾あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/b1bc4e988cc74d5ea92764bd19372697.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-579"
-  },
-  {
-    "id": 223623,
-    "IDcode": "MEYD-581",
-    "title": "第一次在人前做爱-すみれ潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/555d8f564257b99aec5873a64681397d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-581"
-  },
-  {
-    "id": 223618,
-    "IDcode": "MEYD-582",
-    "title": "淫荡人妻-川上奈々美",
+    "id": 531437,
+    "IDcode": "BBTU-040",
+    "title": "巨乳トライアスロン オマ○コ耐久 乳首开発 鉄マンレース 前半戦",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/55af5f20e5f5c02a5f9fab2dd439fbda.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250425/wq6KqQyU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-582"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-040"
   },
   {
-    "id": 223593,
-    "IDcode": "MEYD-583",
-    "title": "泡泡浴店的招牌妓女-めぐり",
+    "id": 566696,
+    "IDcode": "BBTU-042",
+    "title": "用精油、润滑液猛烈性交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/b471030044bac2fc4ecc36f7b94f2452.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/ulkyi5ed.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-583"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-042"
   },
   {
-    "id": 106989,
-    "IDcode": "MEYD-584",
-    "title": "被公公短时间内射每天10发让她怀孕",
+    "id": 103983,
+    "IDcode": "BBTU-043",
+    "title": "巨乳性器 パイま○こセックス 美波もも",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "无码破解",
-      "白天出轨",
-      "乱伦",
+      "多P",
+      "乳液",
+      "乳交",
+      "拘束",
       "巨乳",
       "单体作品"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/2022fdc619205d187c8efadbfdb13c3d.jpg",
-    "actress": [
-      "中野七绪"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-584"
-  },
-  {
-    "id": 223617,
-    "IDcode": "MEYD-585",
-    "title": "一直在被他的上司侵犯内射-久留木玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/fe277df7387623122a9b1d74126afe77.jpg",
+    "publish_date": "2022-08-16",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/5BQSCFju.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-585"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-043"
   },
   {
-    "id": 107533,
-    "IDcode": "MEYD-586",
-    "title": "勾引他的弟弟内射不伦做爱-美園和花",
+    "id": 531435,
+    "IDcode": "BBTU-044",
+    "title": "パイマゾ 巨乳絶叫ぶっかけイキ狂い",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "女上位",
-      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/16d9d392fb8564c23669762b9384e7ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-044"
+  },
+  {
+    "id": 531436,
+    "IDcode": "BBTU-045",
+    "title": "巨乳特化 デカパイファック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250425/wfCxxNYp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-045"
+  },
+  {
+    "id": 566695,
+    "IDcode": "BBTU-046",
+    "title": "メンズプッシャ～ 巨乳嫐り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d4ec8b598b42421dd888b5d728964b12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-046"
+  },
+  {
+    "id": 566694,
+    "IDcode": "BBTU-047",
+    "title": "密室デカパイ育成授业",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b21cdd2f4cbbd5256eb1c6c18ffa79d5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-047"
+  },
+  {
+    "id": 566693,
+    "IDcode": "BBTU-048",
+    "title": "巨乳ASMR 嗫きパイマ○コで脳汁イキ狂い",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b242f432b30c11b89d31157556a9e314.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-048"
+  },
+  {
+    "id": 67581,
+    "IDcode": "BBTU-049",
+    "title": "大奶轰炸机-推川ゆうり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
       "巨乳",
-      "巨大屁股"
+      "恋乳癖",
+      "淫语",
+      "泳装",
+      "单体作品"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/fc2fc254b2ef3b0ccd09b192d8b4b80c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/653a2994cf4fa23fbe816173d9451830.jpg",
     "actress": [
-      "美園和花"
+      "推川悠里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-586"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-049"
   },
   {
-    "id": 225325,
-    "IDcode": "MEYD-587",
-    "title": "不听我劝阻的老婆-中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/f5d4f8c92f4822aef931841544191e5e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-587"
-  },
-  {
-    "id": 225298,
-    "IDcode": "MEYD-588",
-    "title": "黑丝女上司-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/5abbaa0191edadd627aa0f49cf5fc0cb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-588"
-  },
-  {
-    "id": 225292,
-    "IDcode": "MEYD-589",
-    "title": "同居内射性爱生活-めぐり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/02665f36846ff9cace839be96c8ae036.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-589"
-  },
-  {
-    "id": 63392,
-    "IDcode": "MEYD-590",
-    "title": "実は夫の上司に犯-花音うらら",
+    "id": 100575,
+    "IDcode": "BBTU-050",
+    "title": "田中寧寧胸部強迫口交喉頭深處與巨乳瘋狂高潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "潮吹",
-      "已婚妇女",
-      "中出",
-      "白天出轨",
+      "深喉",
+      "4K",
+      "多P",
+      "中文字幕",
+      "拘束",
+      "巨乳",
       "单体作品"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/11/QQ2020061206475811cfb.jpg",
-    "actress": [
-      "花音うらら"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-590"
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241114-1/97ce144a972e151c75017735865bf52b.png",
+    "actress": [
+      "田中寧寧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-050"
   },
   {
-    "id": 225300,
-    "IDcode": "MEYD-591",
-    "title": "隔壁羞辱我的高傲人妻-春咲りょう",
+    "id": 66841,
+    "IDcode": "BBTU-051",
+    "title": "美巨乳-有岡みう",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "荡妇",
+      "4K",
+      "乳交",
+      "巨乳",
+      "恋乳癖",
+      "淫语",
+      "单体作品"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/9d99deff5486b705754fe348163d0ab4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-591"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-051"
   },
   {
-    "id": 209314,
-    "IDcode": "MEYD-592",
-    "title": "友人の母-佐藤りこ",
+    "id": 67753,
+    "IDcode": "BBTU-052",
+    "title": "絶叫潮吹-田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "4K",
+      "多P",
+      "巨乳",
+      "恋乳癖",
+      "单体作品",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/7ddd6c3f2b8b59fa180725e67e643f96.jpg",
+    "actress": [
+      "田中寧寧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-052"
+  },
+  {
+    "id": 67790,
+    "IDcode": "BBTU-053",
+    "title": "丰满的母亲-推川ゆうり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "乱伦",
+      "巨乳",
+      "手淫",
+      "淫语",
+      "恋乳癖",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d818d43d6972716f10bb0/cover.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-053"
+  },
+  {
+    "id": 67901,
+    "IDcode": "BBTU-054",
+    "title": "大胸脯上出现了精液-希咲アリス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "乳液",
+      "乳交",
+      "拘束",
+      "巨乳",
+      "恋乳癖",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-054"
+  },
+  {
+    "id": 533099,
+    "IDcode": "BBTU-056",
+    "title": "[] 闷絶 巨乳アクメ ローションハードファック 宝生めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240301/bbtu056pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-056"
+  },
+  {
+    "id": 549030,
+    "IDcode": "BBTU-060",
+    "title": "巨乳タマキン嫐り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230620/p4LkFaXC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-060"
+  },
+  {
+    "id": 549031,
+    "IDcode": "BBTU-061",
+    "title": "娘のデカパイに嫐られたい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/11/QQ20200612064758fd97e.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230620/Wbzbaxba/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-592"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-061"
   },
   {
-    "id": 106988,
-    "IDcode": "MEYD-593",
-    "title": "老公出去抽烟的五分钟-松本いちか",
+    "id": 548767,
+    "IDcode": "BBTU-062",
+    "title": "Mぱい オイル、ローション、マジイキファック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230716/MLjytgji/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-062"
+  },
+  {
+    "id": 548768,
+    "IDcode": "BBTU-063",
+    "title": "巨乳肉达磨 私を性処理玩具にして下さい。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "无毛",
-      "无码破解",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230716/TVweXzpt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-063"
+  },
+  {
+    "id": 563706,
+    "IDcode": "BBTU-064",
+    "title": "爆乳トリップ パイズリASMR",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230813/5RC33Tmy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-064"
+  },
+  {
+    "id": 563707,
+    "IDcode": "BBTU-065",
+    "title": "爆乳连続絶顶 パイアクメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230813/iPraSx0i/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-065"
+  },
+  {
+    "id": 548170,
+    "IDcode": "BBTU-066",
+    "title": "パイマゾ 黒ギャル絶叫！ザーメンFUCK",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230917/DeMkVZdJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-066"
+  },
+  {
+    "id": 548169,
+    "IDcode": "BBTU-067",
+    "title": "爆乳调教倶楽部 肉欲嬲り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230917/Wip5q7NT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-067"
+  },
+  {
+    "id": 547703,
+    "IDcode": "BBTU-068",
+    "title": "爆乳マゾ撃イキスプラッシュファック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231015/T8PiOX6f/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-068"
+  },
+  {
+    "id": 547705,
+    "IDcode": "BBTU-069",
+    "title": "爆乳淫パイモンスター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231015/dJv5CsKb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-069"
+  },
+  {
+    "id": 471424,
+    "IDcode": "BBTU-070",
+    "title": "突撃オンパコ 田中寧寧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa842ac813dc779d963bb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-070"
+  },
+  {
+    "id": 471417,
+    "IDcode": "BBTU-071",
+    "title": "巨乳黒ギャル喉ボコ姦 瀨那瑠美奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa6e6ac813dc779d963ae/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-071"
+  },
+  {
+    "id": 547133,
+    "IDcode": "BBTU-072",
+    "title": "愈しの爆乳パイズリママエステ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231218/YclQLwxC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-072"
+  },
+  {
+    "id": 547135,
+    "IDcode": "BBTU-073",
+    "title": "巨乳少女絶叫喉マ〇コ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231218/AXbC9Nor/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-073"
+  },
+  {
+    "id": 546825,
+    "IDcode": "BBTU-074",
+    "title": "キメパイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240115/Q6NRwj9x/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-074"
+  },
+  {
+    "id": 471315,
+    "IDcode": "BBTU-075",
+    "title": "デカパイ少女 虐め倶楽部 愛瀨悠里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5916ac813dc779d962ad/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-075"
+  },
+  {
+    "id": 561812,
+    "IDcode": "BBTU-076",
+    "title": "缚乳スレイブ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240219/VhQOP8d9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-076"
+  },
+  {
+    "id": 546030,
+    "IDcode": "BBTU-077",
+    "title": "巨乳特化パイズる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240319/DtyiekCw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-077"
+  },
+  {
+    "id": 545769,
+    "IDcode": "BBTU-078",
+    "title": "全日本パイズリ研究所",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240416/kb0KjwH7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-078"
+  },
+  {
+    "id": 14607,
+    "IDcode": "BBTU-079",
+    "title": "巨乳無恥綾瀨心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女電影",
+      "女學生",
+      "美少女",
+      "多P",
+      "淫亂",
+      "JK校服",
+      "蠻橫嬌羞",
+      "癡女",
+      "乳交",
       "中出",
-      "白天出轨",
-      "瘦小身型",
-      "单体作品"
+      "口交",
+      "巨乳",
+      "劇情",
+      "亂交 • 群P",
+      "辣妹/GAL系",
+      "絕頂高潮"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/8c45259e8acdc375396b1b49bcd6632c.jpg",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "2024-05-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20240519/46cb74f8-f865-4208-b5db-7d26a26104ef.jpg",
     "actress": [
-      "松本一香"
+      "绫濑心"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-593"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-079"
   },
   {
-    "id": 225452,
-    "IDcode": "MEYD-594",
-    "title": "欲求不满的人妻-瀬崎彩音",
+    "id": 14594,
+    "IDcode": "BBTU-080",
+    "title": "絕對服從女友巨乳No.1 ~ 神阪朋子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/9acb6115621b2868f5dac6e008958cb9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-594"
-  },
-  {
-    "id": 19517,
-    "IDcode": "MEYD-596",
-    "title": "冷凍倉庫-中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "服務生",
+      "3P・4P",
+      "女友・妻子",
+      "多P",
+      "凌辱",
+      "拘束・拷問",
+      "羞恥",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "兩男一女",
       "人妻",
+      "淫亂",
+      "猥褻穿著",
+      "蕩婦",
+      "劇情",
+      "絕頂高潮",
       "乳交",
       "女上位",
-      "中出",
-      "巨乳"
+      "情趣內衣"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/22/QQ2020062213443893de9.jpg",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "2024-05-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20240519/91ee0309-2fe6-466d-85b7-22e31ee670d4.jpg",
     "actress": [
-      "中野七緒",
-      "中野七绪"
+      "神坂朋子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-596"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-080"
   },
   {
-    "id": 209376,
-    "IDcode": "MEYD-597",
-    "title": "帰宅した隣家の人妻-川上奈々美",
+    "id": 13895,
+    "IDcode": "BBTU-081",
+    "title": "大奶子姫咲華兔女郎裝喜歡乳交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/22/QQ20200622134438aed9d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-597"
-  },
-  {
-    "id": 209377,
-    "IDcode": "MEYD-598",
-    "title": "中出し不倫 佐山愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/22/QQ202006221344389596d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-598"
-  },
-  {
-    "id": 77885,
-    "IDcode": "MEYD-599",
-    "title": "息子の友人に犯-めぐり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "兔女郎妝扮",
+      "美少女",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
       "巨乳",
-      "已婚妇女",
-      "中出",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/22/QQ202006221344389f997.jpg",
-    "actress": [
-      "藤浦惠",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-599"
-  },
-  {
-    "id": 107236,
-    "IDcode": "MEYD-600",
-    "title": "愛人とビジホ不倫 黒谷咲紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "内衣",
-      "性感的",
-      "姐姐",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/23/a5771dc7459093e66a2e49bc373f625e.jpg",
-    "actress": [
-      "黒谷咲纪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-600"
-  },
-  {
-    "id": 210378,
-    "IDcode": "MEYD-601",
-    "title": "冷漠的嫂子-深田えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/27/6718f51065b17b8cf80074801fab95a5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-601"
-  },
-  {
-    "id": 209724,
-    "IDcode": "MEYD-602",
-    "title": "上司に犯-松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/22/8fd85da06b4f4cceb5d8befbf2ea8182.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-602"
-  },
-  {
-    "id": 210379,
-    "IDcode": "MEYD-603",
-    "title": "每天被继父侵犯-冬愛ことね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/27/b04668342c5c94b7b47121e1819e045f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-603"
-  },
-  {
-    "id": 212084,
-    "IDcode": "MEYD-604",
-    "title": "男潮吹調教-根尾あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/06/26/0af15b2d9fd75d7929267d7f4976cd9b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-604"
-  },
-  {
-    "id": 19606,
-    "IDcode": "MEYD-605",
-    "title": "叔母がエロ-めぐり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出軌",
-      "人妻",
-      "熟女",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/22/7339e24ae83b9190c5dca724aa86b49c.jpg",
-    "actress": [
-      "藤浦惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-605"
-  },
-  {
-    "id": 88079,
-    "IDcode": "MEYD-606",
-    "title": "欲求不満な人妻-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "荡妇",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/22/7ea220b802f78153d7bd720977d5d6d0.jpg",
-    "actress": [
-      "川上奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-606"
-  },
-  {
-    "id": 210437,
-    "IDcode": "MEYD-607",
-    "title": "濃厚中出し不倫 今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/01/ca82f58f5dba48b32000938d80dbe337.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-607"
-  },
-  {
-    "id": 209721,
-    "IDcode": "MEYD-608",
-    "title": "女教師NTR-ジューン・ラブジョイ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/22/00c96252b77e54a12553dc52f22c15fb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-608"
-  },
-  {
-    "id": 210048,
-    "IDcode": "MEYD-612",
-    "title": "性欲高的妻子-竹内夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/20/827f2e8ef207d0b65ef55e89911d0f73.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-612"
-  },
-  {
-    "id": 69507,
-    "IDcode": "MEYD-613",
-    "title": "邻居家的高傲美人妻-辻井ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "凌辱",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/20/601e65f8fd230c2a998282944d5774ab.jpg",
-    "actress": [
-      "辻井穗乃果"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-613"
-  },
-  {
-    "id": 88055,
-    "IDcode": "MEYD-614",
-    "title": "带着情人旅行-松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
+      "性感",
       "口交",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/17/0a991777c441631fa05b20ee6bc58640.jpg",
-    "actress": [
-      "松本一香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-614"
-  },
-  {
-    "id": 68210,
-    "IDcode": "MEYD-616",
-    "title": "不道德的父亲-桐谷まつり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "接吻",
+      "跳蛋",
+      "潮吹",
+      "淫亂",
       "中出",
-      "白天出轨",
-      "乱伦",
-      "巨乳"
+      "後入",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "美少女電影",
+      "乳交",
+      "女上位"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/27/e0b1212ee007eade52ff78b6b784fcce.jpg",
-    "actress": [
-      "桐谷茉莉"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-616"
+    "publish_date": "2024-06-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20240617/8bed0d57-4b96-4761-a8b9-d25167707a20.jpg",
+    "actress": [
+      "姫咲華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-081"
   },
   {
-    "id": 69501,
-    "IDcode": "MEYD-617",
-    "title": "发现老公偷偷自慰的巨乳人妻风间由美因为怀疑自己的魅力和隔壁大叔满身是汗的内射做爱受孕",
+    "id": 13893,
+    "IDcode": "BBTU-082",
+    "title": "大奶子欺凌俱樂部 羽月乃蒼",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "流汗",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/362b32f9/vod.jpg",
-    "actress": [
-      "風間由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-617"
-  },
-  {
-    "id": 68397,
-    "IDcode": "MEYD-618",
-    "title": "妊娠危険日-久留木玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
+      "多P",
+      "性虐癖",
+      "打屁股",
+      "苗條",
       "凌辱",
-      "中出",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/01/d3f6bfe74aa7c0a61ce4b9dd0f500e29.jpg",
-    "actress": [
-      "久留木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-618"
-  },
-  {
-    "id": 210669,
-    "IDcode": "MEYD-619",
-    "title": "友人の母-竹内夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/24/72e938cfd18f590b3df6ddc02b609aad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-619"
-  },
-  {
-    "id": 69320,
-    "IDcode": "MEYD-620",
-    "title": "高慢美人妻-松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "凌辱",
-      "礼仪小姐"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/27/7e011891cef9cda408a794191bb2d139.jpg",
-    "actress": [
-      "松本一香",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-620"
-  },
-  {
-    "id": 69666,
-    "IDcode": "MEYD-621",
-    "title": "让嫂子怀孕-深田えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "出轨",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/18/2447e008bd2a801284efdeb65e1d2fd1.jpg",
-    "actress": [
-      "深田詠美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-621"
-  },
-  {
-    "id": 210435,
-    "IDcode": "MEYD-622",
-    "title": "空港職員-羽咲美亜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/01/a95a194eeb1e2f742d7eee4a4720314d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-622"
-  },
-  {
-    "id": 162850,
-    "IDcode": "MEYD-623-C",
-    "title": "被下令禁止潮吹还是忍不住大量喷溅3本番 岬樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250330-1/50c7dc816febf044033a10349458eef8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-623-C"
-  },
-  {
-    "id": 68725,
-    "IDcode": "MEYD-624",
-    "title": "高慢美人妻-桐谷まつり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "礼仪小姐",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/18/b3fca9594854cff6256b97004f059c88.jpg",
-    "actress": [
-      "桐谷茉莉",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-624"
-  },
-  {
-    "id": 210587,
-    "IDcode": "MEYD-626",
-    "title": "罪悪感勃起-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/18/143d743f821b7f128044a5dfed13360e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-626"
-  },
-  {
-    "id": 210588,
-    "IDcode": "MEYD-627",
-    "title": "毎日10発孕-久留木玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/18/397dc38a26032ca8f7c3c7d716826ea9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-627"
-  },
-  {
-    "id": 68747,
-    "IDcode": "MEYD-630",
-    "title": "女上司-桐谷まつり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "女上位",
-      "中出",
-      "白天出轨",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/22/670b431da387e8b909f014df30221ecb.jpg",
-    "actress": [
-      "桐谷茉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-630"
-  },
-  {
-    "id": 156820,
-    "IDcode": "MEYD-631",
-    "title": "爱妻交换上司後辈与他们的妻子因他人肉棒燃烧交代制中出4日间的纪录风间由美本真由梨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/719cce5a4e13ae5ee94cafd1f49f122a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-631"
-  },
-  {
-    "id": 210985,
-    "IDcode": "MEYD-632",
-    "title": "人妻女優-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/22/c6b80afbb8c5b9362021b9d3763cb9a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-632"
-  },
-  {
-    "id": 210986,
-    "IDcode": "MEYD-633",
-    "title": "出産直後-佐山愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/22/7bc48766310ce37470d9c2c83bfe0442.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-633"
-  },
-  {
-    "id": 69152,
-    "IDcode": "MEYD-634",
-    "title": "忘年会NTR-久留木玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "NTR",
-      "淫妻",
-      "戏剧",
-      "白天出轨",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/22/8231aef160468c7fc932481dc975488e.jpg",
-    "actress": [
-      "久留木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-634"
-  },
-  {
-    "id": 210988,
-    "IDcode": "MEYD-635",
-    "title": "丈夫的老板一直在强奸我-田中ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/22/f271bc1276596323195da98d8647d215.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-635"
-  },
-  {
-    "id": 69239,
-    "IDcode": "MEYD-637",
-    "title": "今日は孕むまでナカに出して… 風間ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "婆婆",
+      "美少女",
+      "緊縛",
+      "JK校服",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "亂交 • 群P",
       "巨乳",
-      "乱伦",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "2020-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250406-1/8495b4013e464c380a9acca1d3056d44.jpg",
-    "actress": [
-      "風間由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-637"
-  },
-  {
-    "id": 68208,
-    "IDcode": "MEYD-638",
-    "title": "叔母-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "白天出轨",
+      "性感",
+      "口交",
+      "潮吹",
+      "淫亂",
       "中出",
-      "苗条"
+      "蕩婦",
+      "後入",
+      "SM",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "乳交",
+      "調教",
+      "女上位",
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/28/2d809e14f1009999b9311c1b2aec4e94.jpg",
-    "actress": [
-      "川上奈奈美"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-638"
+    "publish_date": "2024-06-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20240617/20240617030117902902.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-082"
   },
   {
-    "id": 211302,
-    "IDcode": "MEYD-639",
-    "title": "高慢美人妻-JULIA",
+    "id": 13299,
+    "IDcode": "BBTU-083",
+    "title": "被巨乳淫女囚禁的雞雞 ~ 綾瀨心",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "辣妹/GAL系",
+      "胸控・戀乳癖",
+      "美乳",
+      "過膝襪・小腿襪",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "大乳暈",
+      "淫亂",
+      "猥褻穿著",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "抹油",
+      "絕頂高潮",
+      "女優",
+      "乳交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "2024-07-16",
+    "cover_url": "https://picture.yoshiclub.xyz/20240714/9075fa5b-f38a-4af9-81bc-387bc462bb3f.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-083"
+  },
+  {
+    "id": 13297,
+    "IDcode": "BBTU-084",
+    "title": "巨乳淫女森本あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "女學生",
+      "多P",
+      "美少女",
+      "癡女",
+      "JK校服",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "深喉",
+      "淫亂",
+      "中出",
+      "後入",
+      "抹油",
+      "顏射",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "手指插入",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://picture.yoshiclub.xyz/20240714/cdcd9714-2001-4e5e-80cf-e2c5995d4e1a.jpg",
+    "actress": [
+      "森本あかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-084"
+  },
+  {
+    "id": 12565,
+    "IDcode": "BBTU-085",
+    "title": "爆乳甜美性感美女施虐M男 ~ 姬咲華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "多P",
+      "M男・M女",
+      "性虐癖",
+      "凌辱",
+      "美少女",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "變態",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "兩男一女",
+      "淫亂",
+      "猥褻穿著",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "女優",
+      "美少女電影",
+      "乳交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "2024-08-20",
+    "cover_url": "https://picture.yoshiclub.xyz/20240818/87d4be65-3895-4022-a44a-71299a55db9b.jpg",
+    "actress": [
+      "姫咲華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-085"
+  },
+  {
+    "id": 525515,
+    "IDcode": "BBTU-086",
+    "title": "巨乳ビッチ ブラックアクメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/28/b508a15f77b3370bd712a38b277a2c56.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240819/SJKP6nuD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-639"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-086"
   },
   {
-    "id": 88080,
-    "IDcode": "MEYD-640",
-    "title": "忘年会NTR-松本いちか",
+    "id": 11942,
+    "IDcode": "BBTU-087",
+    "title": "巨乳M M志願の音大卒帰国子女を密室緊縛 蓮水りん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "NTR",
-      "淫妻",
-      "戏剧",
-      "白天出轨",
+      "3P・4P",
+      "女學生",
+      "吞精",
+      "巨尻",
+      "M男・M女",
+      "口爆",
+      "插入異物",
+      "唾液敷面",
+      "蠟燭",
+      "凌辱",
+      "美少女",
+      "緊縛",
+      "癡女",
+      "拘束・拷問",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "變態",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "暗黑系",
+      "形象俱樂部",
+      "導尿",
+      "潮吹",
+      "兩男一女",
+      "深喉",
+      "淫亂",
       "中出",
-      "苗条"
+      "後入",
+      "企畫",
+      "少女",
+      "SM",
+      "抹油",
+      "顏射",
+      "絕頂高潮",
+      "美少女電影",
+      "手指插入",
+      "乳交",
+      "調教",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/28/edcf4ed351f23406fbb02f059b650b0a.jpg",
-    "actress": [
-      "松本一香"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-640"
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240916/041b62e0-d3d2-4aad-9121-f0a43573eba0.jpg",
+    "actress": [
+      "蓮水鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-087"
   },
   {
-    "id": 211300,
-    "IDcode": "MEYD-641",
-    "title": "毎日10発孕-樋口みつは",
+    "id": 11919,
+    "IDcode": "BBTU-088",
+    "title": "全日本パイズリ研究所 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "多P",
+      "感官作品",
+      "凌辱",
+      "美少女",
+      "癡女",
+      "主觀視角",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "跳蛋",
+      "形象俱樂部",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "後入",
+      "企畫",
+      "抹油",
+      "女優",
+      "乳交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240917/8d2b2868-3382-4fad-b705-0848010f1dbf.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-088"
+  },
+  {
+    "id": 176436,
+    "IDcode": "BBTU-089",
+    "title": "〇りぱい パパに内緒のプチエンジェル 森本あかり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/28/c757d6060e02d21d7f752e0af500d043.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/f6011eb575f66b4102d95df23d373e50.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-641"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-089"
   },
   {
-    "id": 211299,
-    "IDcode": "MEYD-642",
-    "title": "忘年会-深田えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/28/d4abbc0d8dab20cfd8ef3beb29aae479.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-642"
-  },
-  {
-    "id": 63391,
-    "IDcode": "MEYD-645",
-    "title": "欲求不満人妻-岬さくら",
+    "id": 11263,
+    "IDcode": "BBTU-090",
+    "title": "巨乳M 日焼け黒ギャルM志願 瀬那ルミナ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
+      "吞精",
+      "巨尻",
+      "M男・M女",
+      "口爆",
+      "性虐癖",
+      "辣妹/GAL系",
+      "凌辱",
+      "緊縛",
+      "美腳",
+      "拘束・拷問",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "性感",
+      "跳蛋",
+      "形象俱樂部",
+      "潮吹",
+      "深喉",
+      "淫亂",
+      "猥褻穿著",
+      "中出",
+      "後入",
+      "美腿",
+      "SM",
+      "美臀",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "膚黑",
+      "高跟鞋",
+      "調教",
+      "金髮",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/4688af443fdc610a8d7d2f56ecce1a23.jpg",
+    "actress": [
+      "瀬那瑠美奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-090"
+  },
+  {
+    "id": 181576,
+    "IDcode": "BBTU-091",
+    "title": "巨乳特化パイズる！ 田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678882735d57b64bfd2c0a7d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-091"
+  },
+  {
+    "id": 181546,
+    "IDcode": "BBTU-092",
+    "title": "ぱいシャ！巨乳ザーメンぶっかけ 蓮水りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789287a5d57b64bfd161e8a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-092"
+  },
+  {
+    "id": 9854,
+    "IDcode": "BBTU-093",
+    "title": "縛乳 拷問交尾 南畑颯花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "吞精",
+      "多P",
+      "M男・M女",
+      "口爆",
+      "豐滿",
+      "插入異物",
+      "唾液敷面",
+      "放尿",
+      "痴漢",
+      "凌辱",
+      "緊縛",
+      "綁架",
+      "心理驚悚",
+      "胖女人",
+      "拘束・拷問",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "變態",
+      "監禁",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "暗黑系",
+      "形象俱樂部",
+      "兩男一女",
+      "深喉",
+      "淫亂",
+      "中出",
+      "後入",
+      "企畫",
+      "SM",
+      "顏射",
+      "絕頂高潮",
+      "女優",
+      "手指插入",
+      "魔鬼系",
+      "乳交",
+      "調教",
+      "白眼失神",
+      "拳擊交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241215/6c40203b-ef29-4988-bdae-ff23b648d6ba.jpg",
+    "actress": [
+      "南畑颯花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-093"
+  },
+  {
+    "id": 9853,
+    "IDcode": "BBTU-094",
+    "title": "官能淫語-浜辺栞帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "3P・4P",
+      "巨尻",
+      "慾求不滿",
+      "真實拍攝",
+      "局部特寫",
+      "淫語",
+      "主觀視角",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "按摩棒",
+      "口交",
+      "亂交 • 群P",
+      "性感",
+      "巨乳",
+      "形象俱樂部",
+      "兩男一女",
       "人妻",
+      "美人妻",
+      "淫亂",
       "中出",
-      "白天出轨",
-      "处男",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "美腿",
+      "絕頂高潮",
+      "女優",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241216/2b21decf-1588-4942-a0de-c2f75bc7e2b2.jpg",
+    "actress": [
+      "浜辺栞帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-094"
+  },
+  {
+    "id": 187155,
+    "IDcode": "BBTU-095",
+    "title": "縛乳スレイブ 田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-095"
+  },
+  {
+    "id": 74182,
+    "IDcode": "BBTU-096",
+    "title": "爆乳 肉弾FUCK 西村ニーナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "胖女人",
+      "乳液",
+      "乳交",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "西村ニーナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-096"
+  },
+  {
+    "id": 189368,
+    "IDcode": "BBTU-097",
+    "title": "巨乳アクメ 剛毛スイマーをヤる！ 浜辺栞帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-097"
+  },
+  {
+    "id": 189291,
+    "IDcode": "BBTU-098",
+    "title": "爆乳 肉弾FUCK 南畑颯花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-098"
+  },
+  {
+    "id": 7489,
+    "IDcode": "BBTU-099",
+    "title": "超弩級巨乳轟炸 用超級大奶把男人撩到射爆的全程狂歡！~ 西村ニーナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "巨尻",
+      "多P",
+      "豐滿",
+      "局部特寫",
+      "胖女人",
+      "胸控・戀乳癖",
+      "亂交 • 群P",
+      "巨乳",
+      "口交",
+      "大乳暈",
+      "兩男一女",
+      "淫亂",
+      "超爆乳",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "重口味",
+      "女優",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250316/8115ce5c-1c20-4663-9789-ef863c69dd5f.jpg",
+    "actress": [
+      "西村ニーナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-099"
+  },
+  {
+    "id": 399783,
+    "IDcode": "BBTU-100",
+    "title": "乳交反向兔女郎 葵葉月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1fe8fe4a73d4f159b4451/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-100"
+  },
+  {
+    "id": 66035,
+    "IDcode": "BBTU-101",
+    "title": "清楚なドMちゃんかと思ったらビーチク敏感などエロなお漏らし巨乳ちゃんでした。 小坂ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "胖女人",
+      "乳液",
+      "乳交",
+      "恋乳癖",
+      "巨乳",
       "单体作品",
-      "荡妇"
+      "紧身衣"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/02/82e635aef960dc6e564a5a0606c3338e.jpg",
-    "actress": [
-      "岬櫻",
-      "雪乃凛央"
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-645"
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250521-1/3b0fa5155f932ecdec129a8355d5f724.jpg",
+    "actress": [
+      "小坂ひまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-101"
   },
   {
-    "id": 69248,
-    "IDcode": "MEYD-647",
-    "title": "射到怀孕为止- 川上奈々美",
+    "id": 5253,
+    "IDcode": "BBTU-102",
+    "title": "巨乳保育園的誘惑日常 ~ 羽月乃蒼",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "3P・4P",
+      "打手槍",
+      "艷遇",
+      "巨尻",
+      "口爆",
+      "豐滿",
+      "4K",
+      "癡女",
+      "主觀視角",
+      "羞恥",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "按摩棒",
+      "口交",
+      "巨乳",
+      "性感",
+      "跳蛋",
+      "形象俱樂部",
+      "單體作品",
+      "淫亂",
+      "超爆乳",
       "中出",
-      "白天出轨",
-      "婆婆",
-      "乱伦",
-      "荡妇"
+      "美人",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "幼稚園老師",
+      "手指插入",
+      "乳交",
+      "女上位",
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/02/7a82b38581d72676ebe0caca0798c2fb.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2e7f682e2e9281a548e9/cover.jpg",
     "actress": [
-      "川上奈奈美"
+      "羽月乃蒼"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-647"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-102"
   },
   {
-    "id": 211862,
-    "IDcode": "MEYD-648",
-    "title": "濃厚中出し不倫 JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/02/106ec9ed7869c5b9279859bc4df9cebf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-648"
-  },
-  {
-    "id": 211863,
-    "IDcode": "MEYD-649",
-    "title": "付不起房租的少妇-真木今日子",
+    "id": 4417,
+    "IDcode": "BBTU-103",
+    "title": "爆乳肉弾FUCK 夕季ちとせ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "濕身",
+      "3P・4P",
+      "巨尻",
+      "口爆",
+      "真實拍攝",
+      "豐滿",
+      "4K",
+      "胖女人",
+      "拘束・拷問",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
+      "人妻",
+      "淫亂",
+      "超爆乳",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "女優",
+      "抹油",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "女上位",
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/02/868b50ac0dbff1d7ff49338a1156d4b1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-649"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024309505505_59469_thumbnail.webp",
+    "actress": [
+      "七草千歲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-103"
   },
   {
-    "id": 211864,
-    "IDcode": "MEYD-650",
-    "title": "被老公的老板强奸了-乙葉カレン",
+    "id": 3496,
+    "IDcode": "BBTU-104",
+    "title": "巨乳騷妹被精液狂射！極致潮吹噴不停 ~ 北野未奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "3P・4P",
+      "吞精",
+      "多P",
+      "巨尻",
+      "M男・M女",
+      "口爆",
+      "豐滿",
+      "苗條",
+      "臀控",
+      "阪道系",
+      "凌辱",
+      "4K",
+      "美腳",
+      "癡女",
+      "拘束・拷問",
+      "羞恥",
+      "色白",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "跳蛋",
+      "接吻",
+      "淫蕩・硬核",
+      "形象俱樂部",
+      "潮吹",
+      "單體作品",
+      "深喉",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "超爆乳",
+      "中出",
+      "美人",
+      "美腿",
+      "企畫",
+      "後入",
+      "SM",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "抹油",
+      "舔陰",
+      "脚控・戀足癖",
+      "女神",
+      "手指插入",
+      "無毛",
+      "乳交",
+      "調教",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "2025-08-15",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032239619619_38559_thumbnail.webp",
+    "actress": [
+      "北野未奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-104"
+  },
+  {
+    "id": 2693,
+    "IDcode": "BBTU-105",
+    "title": "パイマゾ ドマゾ巨乳お漏らしアヘ顔イキ狂い 小坂ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "M男・M女",
+      "口爆",
+      "豐滿",
+      "插入異物",
+      "性虐癖",
+      "唾液敷面",
+      "打屁股",
+      "鬼畜片",
+      "網路紅人",
+      "阪道系",
+      "凌辱",
+      "4K",
+      "緊縛",
+      "拘束・拷問",
+      "羞恥",
+      "色白",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "跳蛋",
+      "淫蕩・硬核",
+      "暗黑系",
+      "潮吹",
+      "大乳暈",
+      "單體作品",
+      "刑架",
+      "深喉",
+      "高顏值",
+      "淫亂",
+      "超爆乳",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "重口味",
+      "SM",
+      "顏射",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "魔鬼系",
+      "69",
+      "調教",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914045816969969_59156_thumbnail.webp",
+    "actress": [
+      "小坂ひまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-105"
+  },
+  {
+    "id": 174851,
+    "IDcode": "BBTU-106",
+    "title": "パイラマ 喉奥と巨乳でアヘ顔イキ狂い 二羽紗愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOGMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOGMA",
+        "works_count": 308
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/27/cddb3952fb7d9192cb43a39969700984.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-106"
+  },
+  {
+    "id": 592816,
+    "IDcode": "BBZA-007",
+    "title": "解禁 极太Blackイラマチオ 高嶋ゆいか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/02/50a7162cc9a03b7ce799742fab317cde.jpg",
+    "cover_url": "https://pic48.anzise.com/pic/20230322/96e846cfffcb3043f7e79931a272b64c/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-650"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBZA-007"
   },
   {
-    "id": 156642,
-    "IDcode": "MEYD-651",
-    "title": "溜池Goro15周年企划第1弹欲求不满的住宅区妻和爆汗授孕大叔浓厚中出外遇",
+    "id": 534060,
+    "IDcode": "BBZA-011",
+    "title": "鍼治疗で女がエロくなる秘孔を刺激し身体をくねらせ淫らに男根哀愿！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBZA-011"
+  },
+  {
+    "id": 71616,
+    "IDcode": "BBZA-012",
+    "title": "针灸治疗挑逗发情狂干巨乳美女梦咲う日南",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "姐姐",
+      "恶作剧",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/83cbf18963542167e77c208744fdd504.jpg",
+    "actress": [
+      "梦咲ひなみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBZA-012"
+  },
+  {
+    "id": 83530,
+    "IDcode": "BBZA-014",
+    "title": "濃厚豚汁 ラテン系肉感絶倫女拘束絶頂遊戯 黒川ゆきな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "拘束",
+      "胖女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-12-13",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/01ebfb3aa3132ed69463e2562b391e6d.jpg",
+    "actress": [
+      "黒川ゆきな",
+      "戸川夏也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBZA-014"
+  },
+  {
+    "id": 467834,
+    "IDcode": "BC-011",
+    "title": "電話BOXで電動マッサージ器攻撃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee1784e7d663df4e2a7fa/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BC-011"
+  },
+  {
+    "id": 409934,
+    "IDcode": "BC-140",
+    "title": "狙われたセレブ妻 強漢に犯され生中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8e7977f3b7c929073bdd6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BC-140"
+  },
+  {
+    "id": 469813,
+    "IDcode": "BCDP-069",
+    "title": "爆乳癡女友誘惑猛幹 三喜本望",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d70262944bbe4ef015e4d0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BCDP-069"
+  },
+  {
+    "id": 536144,
+    "IDcode": "BCDP-073",
+    "title": "_B素敌なカノジョ彩城ゆりな色白パイパン美少女の拘束レズ激イキ放尿连続",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BCDP-073"
+  },
+  {
+    "id": 539365,
+    "IDcode": "BCDP-100",
+    "title": "素敌なカノジョ 佐々波绫 敏感スレンダー美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BCDP-100"
+  },
+  {
+    "id": 166370,
+    "IDcode": "BCV-040",
+    "title": "募集ちゃんTV×PRESTIGE PREMIUM 40",
     "year": "",
     "country": "",
     "genre": "",
@@ -1323,643 +2311,499 @@ window.PAGE_DATA = [
       "中文字幕"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241008-1/47ed79c0afe864de97d65124b4c1b619.jpg",
-    "actress": [
-      "山岸逢花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-651"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BCV-040"
   },
   {
-    "id": 68568,
-    "IDcode": "MEYD-656",
-    "title": "私、実は夫の上司に犯●れ続けてます… 東希美",
+    "id": 410109,
+    "IDcode": "BD-101",
+    "title": "スーパーモデル沙雪の衝撃のデビュー",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "白天出轨"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "2021-02-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/3a8546c6a91962862a59bef3315c4ab8.jpg",
-    "actress": [
-      "东希美"
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-656"
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68886282c92318f97d01fe1e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BD-101"
   },
   {
-    "id": 69502,
-    "IDcode": "MEYD-657",
-    "title": "店長が不在の三日間バイト先の欲求不満な人妻と時短＆追撃中出ししまくった卑猥な勤怠記録 姫咲はな",
+    "id": 532271,
+    "IDcode": "BD720P",
+    "title": "尸城.2014..中字",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BD720P"
+  },
+  {
+    "id": 517560,
+    "IDcode": "BDA-007",
+    "title": "偷情妻野外露出 波多野结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/691287a372c0032a43fe6631/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-007"
+  },
+  {
+    "id": 517544,
+    "IDcode": "BDA-008",
+    "title": "不倫妻的雨天野外露出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914f48a46d2372859bc00f6/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-008"
+  },
+  {
+    "id": 517636,
+    "IDcode": "BDA-010",
+    "title": "不倫妻的巨乳野外露出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "出轨",
-      "人妻",
-      "中出",
-      "白天出轨",
       "巨乳"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "2021-02-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250402-1/3305362e001af28303cc95894c01b627.jpg",
-    "actress": [
-      "姫咲華",
-      "イセドン内村"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-657"
-  },
-  {
-    "id": 63390,
-    "IDcode": "MEYD-669",
-    "title": "バイト先NTR 欲求不満な人妻の愚痴を聞いていたら毎日中出しSEXできた 岬さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "无码",
-      "NTR",
-      "淫妻",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "单体作品",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "溜池",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/a3455bb9871ad336f06676c81dc3fe93.jpg",
-    "actress": [
-      "岬櫻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-669"
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69051bc22fdf2b287a20bc47/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-010"
   },
   {
-    "id": 68566,
-    "IDcode": "MEYD-670",
-    "title": "私、実は夫の上司に犯●れ続けてます… 朝比奈ななせ",
+    "id": 550075,
+    "IDcode": "BDA-013",
+    "title": "花と蝎 息子の奴隶になった母 吹石れな",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "白天出轨"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "2021-04-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/4120275ec523a9f5df24952bd3c778e2.jpg",
-    "actress": [
-      "朝比奈七瀨"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-670"
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231231/bda013pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-013"
   },
   {
-    "id": 79076,
-    "IDcode": "MEYD-672",
-    "title": "溜池ゴロー15周年YEARコラボ第4弾 友人の母 息子の友人に犯●れ、幾度もイカされてしまったんです… 白木優子",
+    "id": 550074,
+    "IDcode": "BDA-014",
+    "title": "花と蝎 巨乳母を紧缚ヤク渍け调教 三喜本のぞみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "白天出轨",
       "巨乳"
     ],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/53b604cca97bf18421be7f82c485b1cb.jpg",
-    "actress": [
-      "白木優子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-672"
+    "cover_url": "http://15.155250922.com/upload/vod/20231231/bda014pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-014"
   },
   {
-    "id": 68732,
-    "IDcode": "MEYD-675",
-    "title": "本番なしのマットヘルスに行って出てきたのは隣家の高慢な美人妻。弱みを握った僕は本番も中出しも強要！店外でも言いなりの性奴●にした 妃ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "礼仪小姐"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "2021-05-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250413-1/85a7b1714ca4b3e50a094f057d136a9d.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-675"
-  },
-  {
-    "id": 68567,
-    "IDcode": "MEYD-676",
-    "title": "私、実は夫の上司に犯●れ続けてます… 加藤ツバキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "2021-05-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/2b1f74587455f6659392a073d6caba1f.jpg",
-    "actress": [
-      "夏树カオル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-676"
-  },
-  {
-    "id": 79351,
-    "IDcode": "MEYD-685",
-    "title": "同居生活-夢乃あいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乳交",
-      "白天出轨",
-      "蛮横娇羞",
-      "巨乳",
-      "主观视角"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/31/8c68e226a5c554a0f64c0f962bea42c4.jpg",
-    "actress": [
-      "夢乃愛華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-685"
-  },
-  {
-    "id": 79338,
-    "IDcode": "MEYD-686",
-    "title": "神痴女-岬さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "美容院",
-      "女上位",
-      "手淫",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/31/14c017cb69f667ed1ef90b2cdf69492f.jpg",
-    "actress": [
-      "岬櫻",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-686"
-  },
-  {
-    "id": 212517,
-    "IDcode": "MEYD-687",
-    "title": "美丽的妻子-初川みなみ",
+    "id": 550073,
+    "IDcode": "BDA-015",
+    "title": "花と蝎 美しすぎる母を縄责め狱门调教 臼井さと美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/31/68ddf8c8c878dda971cd5a936a944bce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-687"
-  },
-  {
-    "id": 212524,
-    "IDcode": "MEYD-688",
-    "title": "被丈夫的老板强奸-堀北わん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/31/c0036cfeb32e1d701478d09b0d1d5655.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-688"
-  },
-  {
-    "id": 212515,
-    "IDcode": "MEYD-689",
-    "title": "欲求不満人妻-堀内未果子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "type": "有码",
-    "company": "溜池",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/31/2eab05168dbed50a3f45b685fa1c04a2.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231231/bda015pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-689"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-015"
   },
   {
-    "id": 212521,
-    "IDcode": "MEYD-690",
-    "title": "店長夫人-壇凛沙",
+    "id": 522861,
+    "IDcode": "BDA-017",
+    "title": "波多野结衣- 缚り拷问覚醒 悪魔の绊",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/31/c07e36123ac06cfde9c8fc1167a622b5.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250322/pNcd21Iy/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-690"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-017"
   },
   {
-    "id": 213178,
-    "IDcode": "MEYD-691",
-    "title": "与肥皂女郎的不寻常的性爱",
+    "id": 550116,
+    "IDcode": "BDA-019",
+    "title": "缚り拷问覚醒 地狱の生贽 篠田あゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/03/1b69b01d4c3478f974d557a0ff93a476.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240109/bda019pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-691"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-019"
   },
   {
-    "id": 106911,
-    "IDcode": "MEYD-694",
-    "title": "丈夫的下属-広瀬りおな",
+    "id": 467695,
+    "IDcode": "BDA-021",
+    "title": "緊縛野外露出 今宮菜菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d9945d4e7d663df4047c12/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-021"
+  },
+  {
+    "id": 517650,
+    "IDcode": "BDA-022",
+    "title": "野外露出變態調教 仁美圓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-022"
+  },
+  {
+    "id": 522862,
+    "IDcode": "BDA-026",
+    "title": "波多野结衣- 全身タトゥーの女 雕られてMに目覚めるモデル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250322/mrlqizUe/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-026"
+  },
+  {
+    "id": 82291,
+    "IDcode": "BDA-040",
+    "title": "被欺骗受情伤的女人-森沢かな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
       "荡妇",
-      "苗条"
+      "M男",
+      "其他恋物癖",
+      "足交",
+      "手淫"
     ],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/24/0b1ab764be647918fb77a69f2716b30e.jpg",
-    "actress": [
-      "廣瀨里緒菜",
-      "鲛岛"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-694"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-040"
   },
   {
-    "id": 104506,
-    "IDcode": "MEYD-695",
-    "title": "女上司の誘惑-北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "白天出轨",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/18/d1b0521d0ea5c7f5176f16556ffc26c5.jpg",
-    "actress": [
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-695"
-  },
-  {
-    "id": 212891,
-    "IDcode": "MEYD-697",
-    "title": "被丈夫的老板强奸了-月乃ルナ",
+    "id": 522867,
+    "IDcode": "BDA-041",
+    "title": "波多野结衣- 黒い冲撃 女スナイパー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/18/e8651e2f7d4e8ffd525f0b119e0f5014.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250322/xqTTxzSS/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-697"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-041"
   },
   {
-    "id": 79220,
-    "IDcode": "MEYD-698",
-    "title": "危险的一天-伊藤舞雪",
+    "id": 524198,
+    "IDcode": "BDA-042",
+    "title": "bda00042 クレイジーロープ 黒マラと潮吹き縄女 桜咲姫莉",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "接吻",
-      "中出",
-      "无码破解",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/25/63ed0e48c31c9a0ceb68204ea64567ff.jpg",
-    "actress": [
-      "伊藤舞雪",
-      "加山なつ子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-698"
-  },
-  {
-    "id": 79222,
-    "IDcode": "MEYD-703",
-    "title": "每天被继父浸渍10次-乃木蛍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "白天出轨",
-      "乱伦",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/27/c872db35c56a6a41e4fa1f9390468ff3.jpg",
-    "actress": [
-      "乃木蛍"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-703"
-  },
-  {
-    "id": 79231,
-    "IDcode": "MEYD-704",
-    "title": "我朋友的大胸妈妈-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫语",
-      "乱伦",
-      "巨乳",
-      "主观视角",
-      "正太控",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/27/17e88582315a03fff033dbc350227a43.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-704"
-  },
-  {
-    "id": 79230,
-    "IDcode": "MEYD-705",
-    "title": "欲求不満人妻-瀬田一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "高",
-      "人妻",
-      "戏剧",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/25/62df83e8e7e29afa6a25d721e14d137f.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240505-1/5b2340755c1a2a7932189644fbe3abd3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-705"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-042"
   },
   {
-    "id": 79346,
-    "IDcode": "MEYD-706",
-    "title": "学生时期强奸我的RAPE魔刑期-初川南",
+    "id": 218835,
+    "IDcode": "BDA-045",
+    "title": "坊主頭の女-波多野結衣",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "戏剧",
-      "无码破解",
-      "单体作品",
-      "苗条"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/1fc015be7f5b5d94c69aad4a7c94f02a.jpg",
-    "actress": [
-      "初川南"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-706"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-045"
   },
   {
-    "id": 79887,
-    "IDcode": "MEYD-707",
-    "title": "巨乳人妻-桃園怜奈",
+    "id": 522870,
+    "IDcode": "BDA-052",
+    "title": "波多野结衣- クレイジーロープ 狂気の縄に缚られた女",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "眼镜",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "巨乳",
-      "单体作品",
-      "荡妇"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/25/24ae9c41b6a54f0e6bd176c1e71b1952.jpg",
-    "actress": [
-      "桃園怜奈"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-707"
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250323/FtTA0942/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-052"
   },
   {
-    "id": 79883,
-    "IDcode": "MEYD-709",
-    "title": "如果你付不起房租-篠田ゆう",
+    "id": 522868,
+    "IDcode": "BDA-058",
+    "title": "波多野结衣- 洗脳 潜入捜查官",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "巨大屁股",
-      "戏剧",
-      "白天出轨"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/30/3a1bf82876ad6d74080fecc14b9377cf.jpg",
-    "actress": [
-      "篠田优"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-709"
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250323/p9bzx6pj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-058"
   },
   {
-    "id": 79885,
-    "IDcode": "MEYD-711",
-    "title": "中出性交-佐伯由美香",
+    "id": 223815,
+    "IDcode": "BDA-062",
+    "title": "黑人肛门生奸-徳永れい",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "吞精",
-      "接吻",
-      "戏剧",
-      "中出",
-      "巨乳"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/30/4bd9125e17baf61fb96707a1f919f2d7.jpg",
-    "actress": [
-      "佐伯由美香",
-      "蓝井优太"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-711"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-062"
   },
   {
-    "id": 79886,
-    "IDcode": "MEYD-712",
-    "title": "被我丈夫的老板强奸了-藤森里穂",
+    "id": 208740,
+    "IDcode": "BDA-067",
+    "title": "潜入捜査官 君島みお",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "白天出轨"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/30/7260b6330c9a2d40ddef49d20ee1f012.jpg",
-    "actress": [
-      "藤森里穂"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-712"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/28d2d8422468f9a92365fd2fa102998c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-067"
   },
   {
-    "id": 79911,
-    "IDcode": "MEYD-713",
-    "title": "大乱交NTR-乃木蛍",
+    "id": 591068,
+    "IDcode": "BDA-070",
+    "title": "洗脳 潜入捜查官 咲々原リン",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "NTR",
-      "乱交",
-      "淫妻",
-      "药物",
-      "戏剧",
-      "淫乱，真实",
-      "巨乳"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/30/69a6cce0f86014a64e9ae53e66b86587.jpg",
-    "actress": [
-      "乃木蛍"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-713"
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230622-1/bc25247db9ca215def4268c481f9986c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-070"
   },
   {
-    "id": 79884,
-    "IDcode": "MEYD-714",
-    "title": "隔壁家的一个漂亮妻子-山口葉瑠",
+    "id": 522872,
+    "IDcode": "BDA-071",
+    "title": "波多野结衣- 紧缚女教师 耻辱の教室",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "白天出轨",
-      "礼仪小姐",
-      "乳房"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "溜池",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/30/317323db0b51835873586f1f7443de6a.jpg",
-    "actress": [
-      "山口叶瑠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-714"
-  },
-  {
-    "id": 80066,
-    "IDcode": "MEYD-715",
-    "title": "欲求不満人妻-天海つばさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "戏剧",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "溜池",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/23/a1b966fb8cc7744db473a64381038c23.jpg",
-    "actress": [
-      "天海翼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-715"
+    "cover_url": "https://sex8sex8sex8.com/20250323/TPCmUpaK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-071"
   }
 ];

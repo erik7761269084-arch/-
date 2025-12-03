@@ -1,1833 +1,1720 @@
 window.PAGE_DATA = [
   {
-    "id": 159226,
-    "IDcode": "CARIB-091323-001",
-    "title": "ウェイトレスアンソロジー ~ 立花美涼 碧しの 優木あおい 塚本明日香 水沢舞",
+    "id": 576707,
+    "IDcode": "534POK-062",
+    "title": "颜出し【个人撮影】激レア_黒パンストの制服女子とハメ撮り_SNSで知り合った美脚娘に种付SEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/kFFLb4Xi/1.jpg",
-    "actress": [
-      "明日香",
-      "橘美铃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091323-001"
+    "cover_url": "http://15.155250922.com/upload/vod/20240401/pb_e_534pok-062.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534POK-062"
   },
   {
-    "id": 554442,
-    "IDcode": "CARIB-091324-001",
-    "title": "BOGA x BOGA ～藤野りんが仆のプレイを褒め称えてくれる",
+    "id": 518074,
+    "IDcode": "534POK-064",
+    "title": "【個人攝影】與淫蕩可愛過頭過",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240922/BuEeuCWm/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd448d944bbe4ef05bba9d/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534POK-064"
   },
   {
-    "id": 554469,
-    "IDcode": "CARIB-091424-001",
-    "title": "Gカップ爆乳の义父介护x敬老NTR",
+    "id": 518076,
+    "IDcode": "534POK-065",
+    "title": "露臉【個人攝影】與激可愛巨乳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻",
-      "巨乳",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240923/ALUTSE0H/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd45a2944bbe4ef05bbae1/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091424-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534POK-065"
   },
   {
-    "id": 159231,
-    "IDcode": "CARIB-091523-001",
-    "title": "女優魂 ～勝手に入ってきたチンコにも神対応のがんばり屋さん～",
+    "id": 101696,
+    "IDcode": "534POK-066",
+    "title": "顔出し【個人撮影】関西出身のテンションあげあげオマ○コちゃん_Hの時には急にしおらし",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/FK3RgaoQ/1.jpg",
-    "actress": [
-      "高垣楓"
+      "素人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091523-001"
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534POK-066"
   },
   {
-    "id": 554441,
-    "IDcode": "CARIB-091524-001",
-    "title": "极上泡姫物语 Vol.129",
+    "id": 101695,
+    "IDcode": "534POK-067",
+    "title": "顔出し【個人撮影】彼氏には内緒でHなことをし続ける隠れビッチちゃんをおじさんの生チ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/aQJq8zW8/1.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091524-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534POK-067"
   },
   {
-    "id": 159201,
-    "IDcode": "CARIB-091623-001",
-    "title": "怒涛の連続挿入180分 ～ゾクゾク感が堪らない！快感を欲しがる名器に連続中出し！",
+    "id": 543682,
+    "IDcode": "534SMR-001",
+    "title": "里モノ【流出】大手番组制作会社ベテランPとド新人アイドルとの枕営业を完全配信",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/TxEluKZg/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250515/xyQbLZZM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091623-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534SMR-001"
   },
   {
-    "id": 554428,
-    "IDcode": "CARIB-091624-001",
-    "title": "笑颜で责めてくるSっ気の强いアナル舐め痴女",
+    "id": 543683,
+    "IDcode": "534SMR-002",
+    "title": "里モノ【流出】タレント希望の新人ハーフモデルとの枕営业を无断配信",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240925/fV8QME0M/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250515/vBYFIAci/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091624-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534SMR-002"
   },
   {
-    "id": 159199,
-    "IDcode": "CARIB-091723-001",
-    "title": "義姉NTR ～絶対に内緒にするから一度だけ・・・～",
+    "id": 543684,
+    "IDcode": "534SMR-003",
+    "title": "颜出し【里モノ】舞台出演希望のデビュー前の新人アイドルと枕営业时の様子を完全配信",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "NTR",
-      "淫妻",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/2GDbyznD/1.jpg",
-    "actress": [
-      "上山奈々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091723-001"
+    "cover_url": "https://tuaskbgnekr.com/20250515/dbrwczFy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534SMR-003"
   },
   {
-    "id": 159203,
-    "IDcode": "CARIB-091823-001",
-    "title": "デビューから数年たった今もS級スタイル抜群の可愛い娘 ~ 涼宮のん",
+    "id": 543685,
+    "IDcode": "534SMR-004",
+    "title": "【个人撮影】有名になりたいモデルとのマル秘映像を限定公开",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/lxegJHZZ/1.jpg",
-    "actress": [
-      "涼宮のん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091823-001"
+    "cover_url": "https://tuaskbgnekr.com/20250515/z77ZU0c9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534SMR-004"
   },
   {
-    "id": 554427,
-    "IDcode": "CARIB-091824-001",
-    "title": "ギャルアンソロジー",
+    "id": 543687,
+    "IDcode": "534SMR-006",
+    "title": "【流出】里モノ映像_売れないド新人モデルとの枕営业を无断配信",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240926/W060UP8I/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250515/ZNSjKgYo/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091824-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534SMR-006"
   },
   {
-    "id": 159165,
-    "IDcode": "CARIB-091923-001",
-    "title": "マンコ図鑑 美浜ゆめか",
+    "id": 543686,
+    "IDcode": "534SMR-007",
+    "title": "【流出】里モノ映像_デビュー前のモデルとの枕営业を限定公开",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/rVktzx2Z/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091923-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534SMR-007"
   },
   {
-    "id": 143177,
-    "IDcode": "CARIB-092014-694",
-    "title": "TheRoughHouse-只准备了Ochinchin-AiriMizusawaAmiKinohanaMihoMiyazawaMeiAshikawaAimiNakanishiSatomiNagase",
+    "id": 543688,
+    "IDcode": "534SMR-008",
+    "title": "【流出】里モノ映像_デビュー前の激かわモデルとの枕営业を限定公开",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250205-1/844dcca446a7f3a2f545d2d494910e35.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240123/pb_e_534smr-008.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092014-694"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=534SMR-008"
   },
   {
-    "id": 159228,
-    "IDcode": "CARIB-092023-001",
-    "title": "三穴挿入X三穴発射",
+    "id": 519889,
+    "IDcode": "535LOG-003",
+    "title": "在家享受调情性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/CqQHpleo/1.jpg",
-    "actress": [
-      "前田沙羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092023-001"
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/3079f7d6df5b678955b0794599f48a0b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-003"
   },
   {
-    "id": 554445,
-    "IDcode": "CARIB-092024-001",
-    "title": "この女、ふしだら。 ～最上ももの场合",
+    "id": 543689,
+    "IDcode": "535LOG-014",
+    "title": "【奇迹のHカップ美爆乳彼女】ほんわか系おっとり彼女に见せかけてテントサウナで当然のようにチ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240926/4AVZnMS5/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250516/O4Gqln9V/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092024-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-014"
   },
   {
-    "id": 554443,
-    "IDcode": "CARIB-092124-001",
-    "title": "学业と精力の向上を目指してソープ部をつくってみた",
+    "id": 543691,
+    "IDcode": "535LOG-016",
+    "title": "【健気に尽くす极上美人】お天気お姊さん感全开のおっとり彼女！平日午前中からフリータイムでホ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240928/NMuIBGAA/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250516/qupbiXW3/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092124-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-016"
   },
   {
-    "id": 159229,
-    "IDcode": "CARIB-092223-001",
-    "title": "Vol.87 ～性欲が強すぎて初脱ぎ中出し解禁〜",
+    "id": 543690,
+    "IDcode": "535LOG-017",
+    "title": "【酒とSEXでとろける上品颜】巨乳丸出しのぴったりニットで大ジョッキゴクゴク！！からの赤ら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/3cnqxk4u/1.jpg",
-    "actress": [
-      "碓井沙英子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092223-001"
+    "cover_url": "https://tuaskbgnekr.com/20250516/OMfHbP8R/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-017"
   },
   {
-    "id": 554420,
-    "IDcode": "CARIB-092224-001",
-    "title": "人気デリヘル嬢にチェンジをほのめかして何でもヤラせる",
+    "id": 543693,
+    "IDcode": "535LOG-018",
+    "title": "【イキ过ぎナチュラルどMちゃん】华奢な体がビクンビクンうねる激シコ美少女を彼氏の特権ハメ撮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240929/ytrI4bAg/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250516/Cdms7zxB/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-018"
   },
   {
-    "id": 159227,
-    "IDcode": "CARIB-092323-001",
-    "title": "隣の奥さんのいやらし過ぎる肉棒責め！ ～そんなにしたらイッチャウよぉぉ！！～",
+    "id": 543692,
+    "IDcode": "535LOG-019",
+    "title": "【高岭の乳モテ美女】エロい声で甘えてくる肉食系ダンサー、揺れるGカップと迫力のデカ尻に男は",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/vtr5K5Ja/1.jpg",
-    "actress": [
-      "今田美玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092323-001"
+    "cover_url": "https://tuaskbgnekr.com/20250516/tC2ubwna/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-019"
   },
   {
-    "id": 554335,
-    "IDcode": "CARIB-092324-001",
-    "title": "自分で亀甲缚りをしてしまうご奉仕好きド変态",
+    "id": 347878,
+    "IDcode": "535LOG-024",
+    "title": "【喧哗からの仲直り中出しセックス】自分のオタクと付き合って脱退した元アイドル美少女！憧れだ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240930/9WTy37Mc/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231013/rgOFX94U/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-024"
   },
   {
-    "id": 159198,
-    "IDcode": "CARIB-092423-001",
-    "title": "浴衣を乱して揺れ踊る爆乳おっぱい秋祭り！ ~ 玲奈",
+    "id": 441356,
+    "IDcode": "535LOG-026",
+    "title": "【巨乳、酒クズ、性欲強い。】キモ客相手にストレスフルなコンカフェ嬢の発散方法はイケメン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/2WVmKJIA/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/eee39577c9afeb6ab4c471e4a195181b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092423-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=535LOG-026"
   },
   {
-    "id": 554332,
-    "IDcode": "CARIB-092424-001",
-    "title": "女优魂 ～神出鬼没のドッキリ指令に升天しちゃった！～",
+    "id": 153881,
+    "IDcode": "536-AOI-04",
+    "title": "一个天真美丽的女孩在蜂蜜Aoi的同时感受到电力",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241001/mHrXx615/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250407-1/1071fcdaa288e2f302a2485245e85d5d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092424-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536-AOI-04"
   },
   {
-    "id": 159202,
-    "IDcode": "CARIB-092623-001",
-    "title": "恍惚 ～ひとたび挿入されたら離れられない～",
+    "id": 153877,
+    "IDcode": "536-AOI-05",
+    "title": "如何连接心与身Aoi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/yRtluiQv/1.jpg",
-    "actress": [
-      "赤井美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092623-001"
+    "cover_url": "https://thjpg10.top/upload/vod/20250407-1/026e1e85531a9e8b4dde8e820603ea70.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536-AOI-05"
   },
   {
-    "id": 554333,
-    "IDcode": "CARIB-092624-001",
-    "title": "マンコ図鉴 永瀬なこ",
+    "id": 153914,
+    "IDcode": "536-AOI-10",
+    "title": "公司最可爱的小白来了葵",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241001/EOr2473s/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250407-1/715d40bd968f7c352671517f7a19e28a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092624-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536-AOI-10"
   },
   {
-    "id": 159141,
-    "IDcode": "CARIB-092723-001",
-    "title": "セクシー女優エンサイクロペディア 夏目りんか",
+    "id": 543694,
+    "IDcode": "536VOLA-002",
+    "title": "【Volare新シリーズ爆诞！！】‘薄透けパンティ越しのあったかぁ～い女の子の濡れ染みと",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/rpZUD3wM/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250516/Iol73Zmk/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092723-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536VOLA-002"
   },
   {
-    "id": 535683,
-    "IDcode": "CARIB-092822-001",
-    "title": "加勒比 THE 未公开 ～络みつく女たちの浓厚ビアン接吻～玲奈 小川桃果",
+    "id": 537513,
+    "IDcode": "536VOLA-003",
+    "title": "【薄透けパンティ越しに挟まれたい-2人目】下着モデルとして呼び出したオンナのパンティこすって超フェチSEX！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230613/092822-001-carib.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231026/pb_e_536vola-003.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092822-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536VOLA-003"
   },
   {
-    "id": 159224,
-    "IDcode": "CARIB-092923-001",
-    "title": "保健室の美人先生に調教されたい",
+    "id": 491729,
+    "IDcode": "536VOLA-004",
+    "title": "【薄透けパンティ越しに挟まれたい3人目】下着モデルとして呼び出したオンナのパンティこすっ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/1QkAroUu/1.jpg",
-    "actress": [
-      "小美川まゆ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-092923-001"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/4b8832525f50c26db128d59b8d348859.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536VOLA-004"
   },
   {
-    "id": 159230,
-    "IDcode": "CARIB-093023-001",
-    "title": "高嶺の花過ぎて男性経験が極端に少なかった美女",
+    "id": 537183,
+    "IDcode": "536VOLA-005",
+    "title": "【薄透けパンティ越しに挟まれたい-4人目】下着モデルとして呼び出したオンナのパンティこすって",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/SdihxuWi/1.jpg",
-    "actress": [
-      "瀬田まい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-093023-001"
+    "cover_url": "http://15.155250922.com/upload/vod/20230717/pb_e_536vola-005.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536VOLA-005"
   },
   {
-    "id": 554326,
-    "IDcode": "CARIB-100224-001",
-    "title": "マンコ図鉴 藤野りん",
+    "id": 543695,
+    "IDcode": "536VOLA-007",
+    "title": "【薄透けパンティ越しに挟まれたい6人目】下着モデルとして呼び出したオンナのパンティこす",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241007/qxprf5GE/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250517/mHx6U98d/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-100224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536VOLA-007"
   },
   {
-    "id": 554425,
-    "IDcode": "CARIB-100423-001",
-    "title": "早抜き 小川桃果BEST2",
+    "id": 533132,
+    "IDcode": "536VOLA-008",
+    "title": "大きな乳房と女性のパンティはしばしば私たちの自慰行为を助けます_I want to be sandwiched between panties (结城りの)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231004/apl82DKE/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240415/pb_e_536vola-008.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-100423-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536VOLA-008"
   },
   {
-    "id": 554330,
-    "IDcode": "CARIB-100424-001",
-    "title": "Debut Vol.94 ～初脱ぎに紧张しているけれど、オマンコいじりは筋金入り",
+    "id": 432032,
+    "IDcode": "536VOLA004",
+    "title": "【薄透けパンティ越しに挟まれたい3人目】下着モデルとして呼び出したオンナのパンティこすっ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241007/jSjzWNiM/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/45a0b7f90d5d3d6c4f7dfadda2419260.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-100424-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=536VOLA004"
   },
   {
-    "id": 554327,
-    "IDcode": "CARIB-100524-001",
-    "title": "极上泡姫物语 Vol.130 中田みなみ",
+    "id": 543697,
+    "IDcode": "537OCH-002",
+    "title": "电车痴汉 selection2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241008/SIgtB0gv/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250517/LJeVMr4o/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-100524-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-002"
   },
   {
-    "id": 554328,
-    "IDcode": "CARIB-100824-001",
-    "title": "かり美びあんず ～双头ディルドでニコイチ絶顶",
+    "id": 576104,
+    "IDcode": "537OCH-004",
+    "title": "电车痴汉● selection4",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241011/jYP2saGx/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230604/pb_e_537och-004.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-100824-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-004"
   },
   {
-    "id": 554423,
-    "IDcode": "CARIB-100923-001",
-    "title": "美巨乳を弄り倒す！",
+    "id": 543696,
+    "IDcode": "537OCH-005",
+    "title": "电车痴汉 selection5",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231009/2TFZ58YL/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250517/ZLDoaJzf/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-100923-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-005"
   },
   {
-    "id": 554329,
-    "IDcode": "CARIB-100924-001",
-    "title": "早抜き 世良あさかBEST",
+    "id": 543698,
+    "IDcode": "537OCH-006",
+    "title": "电车痴汉 selection6",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241012/SKSQC9SY/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250517/GZhHkWtq/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-100924-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-006"
   },
   {
-    "id": 144056,
-    "IDcode": "CARIB-101110-505",
-    "title": "CupPart4河野美由香南野梨香等",
+    "id": 543699,
+    "IDcode": "537OCH-007",
+    "title": "电车痴汉 selection7",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/72892444ae14abd8a4f3453fd0536438.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250517/pXKCEgnD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101110-505"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-007"
   },
   {
-    "id": 554322,
-    "IDcode": "CARIB-101124-001",
-    "title": "Debut Vol.95 ～S心をくすぐる华奢な未成熟ガール～",
+    "id": 576127,
+    "IDcode": "537OCH-008",
+    "title": "电车痴汉● selection8",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241013/dXAD8WY3/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230629/pb_e_537och-008.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101124-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-008"
   },
   {
-    "id": 554323,
-    "IDcode": "CARIB-101224-001",
-    "title": "オナニーで絶顶に达する瞬间に生挿入 ～无限ループで痉挛するエッチなおマンコ～",
+    "id": 543700,
+    "IDcode": "537OCH-009",
+    "title": "电车痴汉 selection9",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250406/54c6ybbh/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250517/77FZB7R8/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-009"
   },
   {
-    "id": 554325,
-    "IDcode": "CARIB-101324-001",
-    "title": "亲友の彼女が攻め痴女で夜这いされちゃった俺",
+    "id": 576147,
+    "IDcode": "537OCH-010",
+    "title": "电车痴汉● selection10",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/XYlzAcTh/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230709/pb_e_537och-010.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-010"
   },
   {
-    "id": 554324,
-    "IDcode": "CARIB-101424-001",
-    "title": "いい大人の预かり所 ～好きなだけバブらせてくれるピンクカラー熟女",
+    "id": 543701,
+    "IDcode": "537OCH-011",
+    "title": "电车痴汉 selection11",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/inZ2opME/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20221229/gEOHmQRn/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101424-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-011"
   },
   {
-    "id": 554321,
-    "IDcode": "CARIB-101524-001",
-    "title": "丽しのメイク有りと芳ばしのメイク无しSEXを今夜くらべてみました7",
+    "id": 543702,
+    "IDcode": "537OCH-012",
+    "title": "电车痴汉 selection12",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "痴汉"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241017/e0cN6bjz/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250517/5Qwnw1qq/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101524-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=537OCH-012"
   },
   {
-    "id": 554320,
-    "IDcode": "CARIB-101724-001",
-    "title": "THE 未公开 ～喉オナホ7",
+    "id": 196970,
+    "IDcode": "538MARH-004",
+    "title": "ななせさま- 七瀬いおり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241019/9FQT7gED/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101724-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=538MARH-004"
   },
   {
-    "id": 558176,
-    "IDcode": "CARIB-101819-001",
-    "title": "小森みくろ タイムファックバンデ",
+    "id": 196969,
+    "IDcode": "538MARH-005",
+    "title": "あいつきさま- 愛月セリア",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200819/101819-001-carib.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101819-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=538MARH-005"
   },
   {
-    "id": 554318,
-    "IDcode": "CARIB-101924-001",
-    "title": "タフなオメコに3连続中出し6",
+    "id": 519190,
+    "IDcode": "538MARH-006",
+    "title": "みきぽん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241022/mvjn4C6m/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-101924-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=538MARH-006"
   },
   {
-    "id": 554426,
-    "IDcode": "CARIB-102023-001",
-    "title": "洗练された大人のいやし亭 ～元芸能人が美魔女となって复活～",
+    "id": 519198,
+    "IDcode": "538MARH-007",
+    "title": "ちゃんさま",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/sNLE2Hm2/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-102023-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=538MARH-007"
   },
   {
-    "id": 554316,
-    "IDcode": "CARIB-102224-001",
-    "title": "面接セックスを世に出しちゃおう！ ～学校帰りに事务所に来ちゃった二十歳の女学生",
+    "id": 543703,
+    "IDcode": "539INSF-006",
+    "title": "【ムラムラが我慢できなかったので！个室カフェで即SEX！】巨乳Gカップのエッチ大好きお姊",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241023/DFjNdRLt/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/JlW1p8RU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-102224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=539INSF-006"
   },
   {
-    "id": 554317,
-    "IDcode": "CARIB-102324-001",
-    "title": "マンコ図鉴 最上もも",
+    "id": 543705,
+    "IDcode": "539INSF-008",
+    "title": "【いつ谁が入ってくるか分からないプールでのSEXは快感とドキドキ感が満载！】食べることが",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241024/2AvpK3PB/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/8BqayI1x/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-102324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=539INSF-008"
   },
   {
-    "id": 554424,
-    "IDcode": "CARIB-102423-001",
-    "title": "丽しのメイク有りと芳ばしのメイク无しSEXを今夜くらべてみました3 森本ひとみ",
+    "id": 543704,
+    "IDcode": "539INSF-010",
+    "title": "【SNSで知り合った巨乳女子と个撮后にナマ中出しハメ撮り性交！】ストリート即席セックス诱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/eiGdDGXC/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/AribErXc/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-102423-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=539INSF-010"
   },
   {
-    "id": 554315,
-    "IDcode": "CARIB-102524-001",
-    "title": "トリック・オア・セックス ～おっぱい丸出しの魔女が现れた～",
+    "id": 543706,
+    "IDcode": "540OEM-013",
+    "title": "同窗会、昔好きだった彼との一夜の不伦【嶋崎かすみ】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241026/xym9rQqQ/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/l1GcmVmE/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-102524-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=540OEM-013"
   },
   {
-    "id": 554313,
-    "IDcode": "CARIB-102624-001",
-    "title": "极上泡姫物语 Vol.131",
+    "id": 543709,
+    "IDcode": "540OEM-015",
+    "title": "デカチンに嵌る！ブラジル美女の物语…アリス·エルナンデス",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250408/tL1v2xP0/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/FgHCzAJT/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-102624-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=540OEM-015"
   },
   {
-    "id": 554312,
-    "IDcode": "CARIB-102924-001",
-    "title": "トリック・オア・セックス ～チンコ见せてください",
+    "id": 543707,
+    "IDcode": "540OEM-016",
+    "title": "こんなパツキン美熟女に夜●いからまさかの！中出し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250408/Adc2N9Cp/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/Wp8AvPAq/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-102924-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=540OEM-016"
   },
   {
-    "id": 554314,
-    "IDcode": "CARIB-103024-001",
-    "title": "早抜き 佐々木优奈BEST",
+    "id": 537344,
+    "IDcode": "540OEM-018",
+    "title": "海外ナンパ お酒诱って夜●いまで！ミッシー・ラブ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250408/tOLRHK87/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-103024-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=540OEM-018"
   },
   {
-    "id": 554419,
-    "IDcode": "CARIB-103123-001",
-    "title": "肉食系ギャルに言叶责めされる脳みそトロットロSEX",
+    "id": 411053,
+    "IDcode": "540OEM-021",
+    "title": "真的可愛過頭！第三性素人逆搭訕！ 姫嶋杏奈 冴月鈴 凛花アナスタシア 神咲美優 本城要",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231102/MYzUPuIs/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895f51255337d7f7ba893d8/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-103123-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=540OEM-021"
   },
   {
-    "id": 554417,
-    "IDcode": "CARIB-110123-001",
-    "title": "セクシー女优エンサイクロペディア 白杞りり",
+    "id": 543708,
+    "IDcode": "541AKYB-050",
+    "title": "ひかる(27) 【ハメ撮り】【酒●い】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231103/R0FWyjeX/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/qjAWUeJv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110123-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=541AKYB-050"
   },
   {
-    "id": 554418,
-    "IDcode": "CARIB-110223-001",
-    "title": "女热大陆 File.094 ～长めのチンコで奥まで射精して～",
+    "id": 543710,
+    "IDcode": "541AKYB-051",
+    "title": "ねる(21) 【めがね】【巨乳】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/NLj9nqsY/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250518/3kxkypNx/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110223-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=541AKYB-051"
   },
   {
-    "id": 554311,
-    "IDcode": "CARIB-110224-001",
-    "title": "呼べばいつでも駆けつけてくれる节操がない女",
+    "id": 543713,
+    "IDcode": "541AKYB-052",
+    "title": "未奈(22) 【黒髪美人】【中出し】【お扫除フェラ】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250409/20RaxN3j/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250519/PWpX0YOF/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=541AKYB-052"
   },
   {
-    "id": 554310,
-    "IDcode": "CARIB-110324-001",
-    "title": "淑やかな巨乳熟女の愈しのオッパイをぐにゅり",
+    "id": 543711,
+    "IDcode": "541AKYB-053",
+    "title": "いおり(21) 【出会い系】【超刚毛】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250409/oediGoo7/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250519/EpLXxhnK/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=541AKYB-053"
   },
   {
-    "id": 554430,
-    "IDcode": "CARIB-110423-001",
-    "title": "新入社员のお仕事 Vol.26 ～クライアントに中出しセックスのプレゼン～",
+    "id": 491659,
+    "IDcode": "541AKYB-054",
+    "title": "优香(23) 【ハメ撮り】【中出し】【お扫除フェラ】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/nF0O2OTl/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/4babe5d19198855847497f78cb736a12.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110423-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=541AKYB-054"
   },
   {
-    "id": 554309,
-    "IDcode": "CARIB-110424-001",
-    "title": "One more time, One more fuck ～撮影直后でも余裕な星野みきにもうひとハメお愿いしてみた",
+    "id": 543715,
+    "IDcode": "541AKYB-055",
+    "title": "あおい(21) 极上のセフレ降临！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241108/vfwBuvvH/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230227/ePj1W98N/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110424-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=541AKYB-055"
   },
   {
-    "id": 554421,
-    "IDcode": "CARIB-110723-001",
-    "title": "出会い系で知り合ったJDは剃りたてつるつるマンコ",
+    "id": 479362,
+    "IDcode": "541AKYB-058",
+    "title": "アオイ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231109/TNgVMoKr/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/8b186f235aed602f636b341dbe8e401d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110723-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=541AKYB-058"
   },
   {
-    "id": 554308,
-    "IDcode": "CARIB-110724-001",
-    "title": "マンコ図鉴 桥本ななみ",
+    "id": 80556,
+    "IDcode": "542MGBJ-006",
+    "title": "继续过于激烈的淫行的德卡钦",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241109/m8n0Sd04/1.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/86901a64de043de5751b5db90cbd99fa.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110724-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=542MGBJ-006"
   },
   {
-    "id": 554306,
-    "IDcode": "CARIB-110924-001",
-    "title": "交通机関がSTOP！帰宅难民！ ～妻が家で待っているのに逆NTRされた夜",
+    "id": 80557,
+    "IDcode": "542MGBJ-007",
+    "title": "决定更激烈的性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "淫妻",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241112/yEMgRN5w/1.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/db5069c542804f6812721e19d8d71f70.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110924-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=542MGBJ-007"
   },
   {
-    "id": 554307,
-    "IDcode": "CARIB-111024-001",
-    "title": "洗练された大人のいやし亭 ～御二方を同时に愈すためにアナルを采用いたしました",
+    "id": 543712,
+    "IDcode": "542MGBJ-010",
+    "title": "まい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241114/cbAQTLs5/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250519/xODGYl0m/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-111024-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=542MGBJ-010"
   },
   {
-    "id": 554302,
-    "IDcode": "CARIB-111224-001",
-    "title": "アナル舐めに目覚めた変态ねえさんのお扫除アナル2 森本ひとみ",
+    "id": 543714,
+    "IDcode": "542MGBJ-011",
+    "title": "いつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241115/A8qgs9P5/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250519/sweUYC5S/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-111224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=542MGBJ-011"
   },
   {
-    "id": 520048,
-    "IDcode": "CARIB-111321-001",
-    "title": "与我的女仆发生性关系",
+    "id": 530852,
+    "IDcode": "542MGBJ-012",
+    "title": "あやめ(望月あやか)第02集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/efddcf4936c4d51fb18b4e8eb01e642b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-111321-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=542MGBJ-012"
   },
   {
-    "id": 554300,
-    "IDcode": "CARIB-111324-001",
-    "title": "セクシー女优エンサイクロペディア 弘中れおな",
+    "id": 543716,
+    "IDcode": "542MGBJ-013",
+    "title": "カリン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241116/LjJhPwe0/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230227/eClvvsgj/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-111324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=542MGBJ-013"
   },
   {
-    "id": 554304,
-    "IDcode": "CARIB-111524-001",
-    "title": "何の连络もなく押しかけてきた嫁の姊さんに痴女られまくった话",
+    "id": 101449,
+    "IDcode": "542MGBJ-016",
+    "title": "りん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/9yWJv7tZ/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/38067f45e1adf50df12f71d540235cc6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-111524-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=542MGBJ-016"
   },
   {
-    "id": 554301,
-    "IDcode": "CARIB-111624-001",
-    "title": "极上泡姫物语 Vol.132",
+    "id": 543717,
+    "IDcode": "543TAXD-017",
+    "title": "ミキ 极悪タクシードライバーによる悪行の一部始终",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/9rAvQAKu/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250519/WdgUclw0/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-111624-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=543TAXD-017"
   },
   {
-    "id": 554303,
-    "IDcode": "CARIB-111924-001",
-    "title": "邻の奥さんはビショヌレーボー",
+    "id": 543718,
+    "IDcode": "543TAXD-019",
+    "title": "すみれ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/1CjPwGw0/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250519/WC9NmTHI/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-111924-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=543TAXD-019"
   },
   {
-    "id": 554305,
-    "IDcode": "CARIB-112024-001",
-    "title": "ナースアンソロジー",
+    "id": 577267,
+    "IDcode": "543TAXD-020",
+    "title": "ゆうか 极悪タクシードライバーによる悪行の一部始终",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/oIkLBcDP/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250520/AuRDzDSk/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-112024-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=543TAXD-020"
   },
   {
-    "id": 159195,
-    "IDcode": "CARIB-112123-001",
-    "title": "ピタパン美尻の隣人 ～身体の相性が良い2人は毎日抱き合う！～ 後編",
+    "id": 543719,
+    "IDcode": "543TAXD-023",
+    "title": "ミキ 极悪タクシードライバーによる悪行の一部始终 part.23",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/EI7F7RiE/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230227/KhFdQkbP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-112123-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=543TAXD-023"
   },
   {
-    "id": 554298,
-    "IDcode": "CARIB-112224-001",
-    "title": "女热大陆 File.101",
+    "id": 532922,
+    "IDcode": "543TAXD-024",
+    "title": "りな 极悪タクシードライバーによる悪行の一部始终 part.24 (朝日りん)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/81DbD9oI/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231126/pb_e_543taxd-024.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-112224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=543TAXD-024"
   },
   {
-    "id": 554299,
-    "IDcode": "CARIB-112324-001",
-    "title": "チンチン専门学校 最高の教师",
+    "id": 577268,
+    "IDcode": "544IDJS-093",
+    "title": "ミキ(20) 【JD】【パイパン】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241125/lUU6vpCM/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250520/sF6Po9Tb/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-112324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-093"
   },
   {
-    "id": 554297,
-    "IDcode": "CARIB-112524-001",
-    "title": "远隔ローターお散歩デートでもう我慢できない",
+    "id": 577269,
+    "IDcode": "544IDJS-094",
+    "title": "リン(23) 【セフレ】【オイルSEX】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/LrgaNvDY/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250520/AznkFB8v/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-112524-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-094"
   },
   {
-    "id": 554296,
-    "IDcode": "CARIB-112724-001",
-    "title": "THE 未公开 ～匂い立つマングリ肛门マニア2",
+    "id": 577270,
+    "IDcode": "544IDJS-095",
+    "title": "ゆい(22) 【奥が感じるフリータ】【ハメ撮り】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/qfWsRXs8/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250520/JclvL9YV/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-112724-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-095"
   },
   {
-    "id": 554484,
-    "IDcode": "CARIB-112923-001",
-    "title": "早抜き 田中绫BEST",
+    "id": 577271,
+    "IDcode": "544IDJS-096",
+    "title": "みく(33) 【経験人数100人以上】【ショートカット】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231202/JQgaDqM0/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250520/0w9Te5pO/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-112923-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-096"
   },
   {
-    "id": 556256,
-    "IDcode": "CARIB-120222-001",
-    "title": "001--极上泡姫物语 Vol.107 ~ 今田美玲",
+    "id": 577339,
+    "IDcode": "544IDJS-098",
+    "title": "しおんぬ(25)【超淫乱】【生配信】【动画クリエイター】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高清画质",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221202/TnnMvcqX/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250521/nNecL6w6/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-120222-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-098"
   },
   {
-    "id": 554295,
-    "IDcode": "CARIB-120424-001",
-    "title": "マンコ図鉴 冨㭴美绪",
+    "id": 577338,
+    "IDcode": "544IDJS-099",
+    "title": "まりな(25) 【痴女ギャル】【パイパン】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241205/Gj5Or37q/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250521/WM2SaOye/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-120424-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-099"
   },
   {
-    "id": 554294,
-    "IDcode": "CARIB-120624-001",
-    "title": "极上泡姫物语 Vol.133",
+    "id": 508090,
+    "IDcode": "544IDJS-100",
+    "title": "あやこ(25) 【ドM愿望】【イラマ大好き】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241207/Zf9pXbYe/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/3c42cc2b8bbfc2c650d9e77ebdded3a8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-120624-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-100"
   },
   {
-    "id": 554292,
-    "IDcode": "CARIB-121124-001",
-    "title": "早抜き 木内亜美菜BEST 木内亜美菜",
+    "id": 577340,
+    "IDcode": "544IDJS-101",
+    "title": "ユリア(25)【ショートカット】【パイパン】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241213/U1Xt9iJ3/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250521/zQdHP9tn/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-121124-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-101"
   },
   {
-    "id": 554293,
-    "IDcode": "CARIB-121324-001",
-    "title": "美微乳 神崎るみ",
+    "id": 577342,
+    "IDcode": "544IDJS-102",
+    "title": "田中さん(22)【Gｶｯﾌﾟ】【オイルマッサージ】【颜射】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241215/QuZISrek/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250521/oM3Vn7kJ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-121324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-102"
   },
   {
-    "id": 434311,
-    "IDcode": "CARIB-122118-815",
-    "title": "：脱光衣服的温泉服务女",
+    "id": 577344,
+    "IDcode": "544IDJS-103",
+    "title": "ゆい【レンタル彼女】【Hなお姊さん】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b02975e2bad47e3b9f731db603d13aa6.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250521/71J4oNhR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122118-815"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-103"
   },
   {
-    "id": 554289,
-    "IDcode": "CARIB-122224-001",
-    "title": "マンションのゴミ舍て场で邻人を诱惑するあざとい美人妻",
+    "id": 577346,
+    "IDcode": "544IDJS-104",
+    "title": "アサミ(29)【ショートカット美女】【デカチン大好き】【中出し】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241225/nlDWpPVc/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250521/8QfmBbdL/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122224-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-104"
   },
   {
-    "id": 554288,
-    "IDcode": "CARIB-122324-001",
-    "title": "出张先で予期せぬ相部屋 ～年下の傲慢な先辈OLとチンコだけは有能な部下",
+    "id": 532743,
+    "IDcode": "544IDJS-105",
+    "title": "はるちゃん(21) 【美容系○ーチューバー】【パイパン】【中出し】 (高瀬りな)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241226/rSNHncOT/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230825/pb_e_544idjs-105.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-105"
   },
   {
-    "id": 554287,
-    "IDcode": "CARIB-122424-001",
-    "title": "面接セックスを世に出しちゃおう！ ～紧张した笑颜が可爱い女の子～中野はるな",
+    "id": 543720,
+    "IDcode": "544IDJS-106",
+    "title": "优莉(26) 【メンエス】【乳首责め】【手コキ】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241227/SW8pyPUz/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230228/SpbKYA9g/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122424-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-106"
   },
   {
-    "id": 554286,
-    "IDcode": "CARIB-123124-001",
-    "title": "新入社员のお仕事 Vol.28",
+    "id": 531043,
+    "IDcode": "544IDJS-107",
+    "title": "さとみ(26)【ドM素人】【Fカップ】【中出し】(悠木りほ)第02集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250113/WLIwjM1N/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-123124-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-107"
   },
   {
-    "id": 532048,
-    "IDcode": "CARIB-2620-001",
-    "title": "CARIB THE 未公开 尻コキ尻コキ尻コキ",
+    "id": 543721,
+    "IDcode": "544IDJS-109",
+    "title": "エリカ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/17641eb39ff93e4aa946c1455130413e.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250522/r55wCWMM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-2620-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=544IDJS-109"
   },
   {
-    "id": 551323,
-    "IDcode": "CARIB-2820-001",
-    "title": "CARIB 极上泡姫物语 Vol.76",
+    "id": 486572,
+    "IDcode": "546ERGV-012",
+    "title": "【流出】リケジョ高学歴ギャル 休日リゾートハメ撮り 褐色バキバキボディをガクガク悶え",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/8cb836a4d8e16cc5030ec837c3ee1882.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/0314f3fd326165a2b84753be4a77930d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-2820-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546ERGV-012"
   },
   {
-    "id": 558441,
-    "IDcode": "CARIB-AV",
-    "title": "女优をあなたの自宅に宅配！10 ~ 杉浦花音",
+    "id": 577430,
+    "IDcode": "546ERGV-042",
+    "title": "秋叶原の现役メイド·も○(年齢非公开) “···入れたくなっちゃった，，，”愈し系アニ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221218/46pOqdFF/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250522/yvaMyFmA/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-AV"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546ERGV-042"
   },
   {
-    "id": 558154,
-    "IDcode": "CARIB-SEX",
-    "title": "のことで头の中がいっぱい！ド助平女子大生とは私のことよ！ 佐々木麻衣",
+    "id": 543722,
+    "IDcode": "546ERGV-053",
+    "title": "学生、リアル。友达と猥谈しまくってる一军女子校生の本気セックス流出 尻肉たぷたぷエロすぎ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230118/LRwu2tI5/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250522/SxgjvvxZ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-SEX"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546ERGV-053"
   },
   {
-    "id": 434283,
-    "IDcode": "CARIB021114-541",
-    "title": "高速马达的强烈撞击",
+    "id": 533236,
+    "IDcode": "546ERGV-054",
+    "title": "“ムラムラしてきました♪”仕事が恋人、彼氏ナシ3年のアパレル店员 欲求不満が爆発してガチ妊娠确実レベルの雄た",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ed495c8f4a04985ff42f50528b5e3a59.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB021114-541"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546ERGV-054"
   },
   {
-    "id": 575545,
-    "IDcode": "CARIB021410-297",
-    "title": "裸・家族第3话AineYuri(爱音ゆり)KusanagiJun第01集",
+    "id": 543723,
+    "IDcode": "546ERGV-062",
+    "title": "学校中退の上京娘 セルフ乳首いじりに喉マ○コフェラで男を挑発するドスケベ淫乱なZ世代を猛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-11/00/5cepynagiy200085cepynagiy245610.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250522/WkrnaNVF/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB021410-297"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546ERGV-062"
   },
   {
-    "id": 526072,
-    "IDcode": "CARIB022610-307RINA",
-    "title": "パーフェクトボディ",
+    "id": 577444,
+    "IDcode": "546EROFC-078",
+    "title": "素人女子大生【限定】ほのちゃん22歳 激カワJDセフレと冬休みに雪景色の中でお买い物＆",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-11/00/44v4bziavs5001244v4bziavs509989.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250523/iKScge8S/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB022610-307RINA"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-078"
   },
   {
-    "id": 434284,
-    "IDcode": "CARIB030619-872",
-    "title": "すみれ美香スーパーボディと最强の美貌の闷える女",
+    "id": 519175,
+    "IDcode": "546EROFC-079",
+    "title": "素人女子大生【限定】ありさちゃん20歳 外见は普通のギャル",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ee3685230f2d1c0dccdd6611b1fc9c16.jpg",
+    "cover_url": "https://pic.douimg.cc/upload/vod/20250823-1/128ac86a507d6a00ad31cbae124d8607.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB030619-872"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-079"
   },
   {
-    "id": 575593,
-    "IDcode": "CARIB032412-976",
-    "title": "つるつるパイパンに中出しで征服！AoiMiyu(葵み第01集",
+    "id": 508104,
+    "IDcode": "546EROFC-080",
+    "title": "スーツ姿のアイドル颜新任教师 昼间からほろよい脳トロ状态で连続絶顶",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-26/00/5fvkfjc100o00025fvkfjc100o1215419.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/3145e08341b5e18fab32d4f8f120bb55.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB032412-976"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-080"
   },
   {
-    "id": 99581,
-    "IDcode": "CARIB040910-343",
-    "title": "女熱大陸File",
+    "id": 577443,
+    "IDcode": "546EROFC-081",
+    "title": "【3P】规制に引っかかりそうな合法ちっぱいロリ 保母さんはエロい说検证！？休日セフレと",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8f8432e79ba064b9625d68a54af8970a.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250523/v88RLch7/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB040910-343"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-081"
   },
   {
-    "id": 437575,
-    "IDcode": "CARIB041010-344",
-    "title": "青山ゆい 着ハメキャンディ File.016",
+    "id": 577446,
+    "IDcode": "546EROFC-082",
+    "title": "もっちり爆乳GcupグラドルS(22) 社长の爱人として●教された肉感エロボディ。欲求",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5fa27f1f50127936a884a1ca805d19b7.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250523/LjrBiWl6/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB041010-344"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-082"
   },
   {
-    "id": 103190,
-    "IDcode": "CARIB061810-404",
-    "title": "美乳エロレロレディ2AizawaRen(愛沢蓮)",
+    "id": 73269,
+    "IDcode": "546EROFC-083",
+    "title": "律 速度素人素人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e3665604342b3fdc0a90a1213fa8eeb4.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/d71d18fbddda824428d47ba47066ba72.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB061810-404"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-083"
   },
   {
-    "id": 575524,
-    "IDcode": "CARIB071219-959",
-    "title": "极上泡姫物语Vol第01集",
+    "id": 577448,
+    "IDcode": "546EROFC-084",
+    "title": "ひかる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2019/11-08/03/ivndidibrkg0358ivndidibrkg318127.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250523/u7wouZgK/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB071219-959"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-084"
   },
   {
-    "id": 99538,
-    "IDcode": "CARIB072310-434",
-    "title": "僕のペットはOtoiNazuna(乙井なずな)",
+    "id": 577447,
+    "IDcode": "546EROFC-086",
+    "title": "グラドルAさん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e8b0bdf7c54a05fd747e9649f96e7b34.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250523/7n9uFT7A/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB072310-434"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-086"
   },
   {
-    "id": 575539,
-    "IDcode": "CARIB082110-460",
-    "title": "パシオン・アモローサ〜爱する情热〜LUNA第01集",
+    "id": 577445,
+    "IDcode": "546EROFC-088",
+    "title": "素人女子大生【限定】ヒメちゃん22歳 経験人数1人の超ウブ娘と初対面で即SEX！清楚系",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "无码"
+      "素人"
     ],
-    "type": "无码",
-    "company": "加勒比系",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/03-28/00/of3xtk4glot0009of3xtk4glot519464.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250523/JpG3ctYG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB082110-460"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=546EROFC-088"
   }
 ];

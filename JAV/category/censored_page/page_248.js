@@ -1,2045 +1,1849 @@
 window.PAGE_DATA = [
   {
-    "id": 83663,
-    "IDcode": "KNMD-076",
-    "title": "第二処女喪失ドキュメント シーズン6",
+    "id": 525518,
+    "IDcode": "AUKG-603",
+    "title": "絶叫オナサポレズ ～女子はみんな使ってる？通贩で买った最新アダルトグッズでイキまくり！！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240819/o73MwG8z/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-603"
+  },
+  {
+    "id": 411287,
+    "IDcode": "AUKG-604",
+    "title": "丰满熟女三人女同～邻居间互相吞噬的熟透肉体恶魔～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/17/68010da2cf22ae3e044c98ad/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-604"
+  },
+  {
+    "id": 173563,
+    "IDcode": "AUKG-605",
+    "title": "変態レズビアン ～体液マニア 唾液もマン汁も舐めつくしたい～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-605"
+  },
+  {
+    "id": 173641,
+    "IDcode": "AUKG-606",
+    "title": "熟女夜●いレズ ～ノンケの人妻を酔わせて寝取る肉食系ビアン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-606"
+  },
+  {
+    "id": 175348,
+    "IDcode": "AUKG-607",
+    "title": "人妻不倫レズ ～夫のいない3日間 愛欲不倫は夫婦のベッドで～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-607"
+  },
+  {
+    "id": 176551,
+    "IDcode": "AUKG-608",
+    "title": "姉妹レズ ～ずっと好きだった憧れのお姉ちゃんと…禁断レズ相姦～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/b9e2aa519dd6bb5c6e76cbdd828a9f98.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-608"
+  },
+  {
+    "id": 176487,
+    "IDcode": "AUKG-609",
+    "title": "汚部屋レズ ～匂います？お風呂キャンセル女子の汚部屋レズ誘惑～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/962180fb58ce541acc0571764b30c6c8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-609"
+  },
+  {
+    "id": 178292,
+    "IDcode": "AUKG-610",
+    "title": "好色 美熟女レズビアン ～触れるたび敏感に震える熟女の肉欲～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/3d5e76232a6eea6e9f70d8c33ca94e40.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-610"
+  },
+  {
+    "id": 178262,
+    "IDcode": "AUKG-611",
+    "title": "レズ録CH ～イマドキ女子の告白！！ビアンセックス密着撮影～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/04edd89f8f693f9414eb9d4017281948.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-611"
+  },
+  {
+    "id": 181559,
+    "IDcode": "AUKG-612",
+    "title": "レズ堕ち未亡人 ～遺影の前で絡み合う喪服熟女の性愛～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-612"
+  },
+  {
+    "id": 186436,
+    "IDcode": "AUKG-613",
+    "title": "夫の代わりに抱いてください ～セックスレス若妻を寝取るレズデリヘル嬢～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-613"
+  },
+  {
+    "id": 76584,
+    "IDcode": "AUKG-614",
+    "title": "義姉妹レズビアン ～ビアンの義妹が美人兄嫁と全力レズセックス～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "已婚妇女",
-      "成熟的女人",
-      "素人作品",
-      "中出",
-      "第一人称摄影",
-      "礼仪小姐",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/4cf5e95fcd775805f67c7faa60f2f006.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMD-076"
-  },
-  {
-    "id": 179070,
-    "IDcode": "KNSM-017",
-    "title": "完ナマSTYLE@J系シンママ候補生17 あざと可愛い炉利J系がバイト先の店長にドキドキ告白！誘惑SEX 純粋な気持ちを利用して生ハメ中出し！ つぼみちゃん 望月つぼみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/03/44587f70/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNSM-017"
-  },
-  {
-    "id": 222272,
-    "IDcode": "KNWF-008",
-    "title": "新婚的22岁年轻妻子-日向ひかげ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "嫩妹"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/6e1ac7ecec13d3efa3a502ae8f0f8cde.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNWF-008"
-  },
-  {
-    "id": 83040,
-    "IDcode": "KO-006",
-    "title": "盗撮 元祖・超股間真下アングル 【被害者】一般女性 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "恋物癖",
-      "内衣",
-      "偷窥"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2008-03-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221209-1/e1c8a128ca13f0d2438f3cdc4db33e70.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KO-006"
-  },
-  {
-    "id": 68811,
-    "IDcode": "KOJA-019",
-    "title": "なれてない新人美乳の花魁、好き勝手ハメまくって連続射精 海野みこと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "素人作品",
-      "第一人称摄影",
-      "单体作品",
-      "和服，丧服",
-      "乳房",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/647aec4a9956aab91ad2d5987ce99846.jpg",
-    "actress": [
-      "海野みこと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KOJA-019"
-  },
-  {
-    "id": 62701,
-    "IDcode": "KOJA-022",
-    "title": "「今からですか…」面接に来たやりたがりスレンダーJDをテストと言って即日ハメ倒しで連続イカせ中出しして沼らせる 有馬みずき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高",
-      "女大学生",
-      "素人作品",
-      "单体作品",
-      "乳房",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/251f8f1fb7f826d533b2b3b4fa1aea66.jpg",
-    "actress": [
-      "有馬美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KOJA-022"
-  },
-  {
-    "id": 192978,
-    "IDcode": "KOJA-023",
-    "title": "結婚4年目でお金と他人の肉棒に沼ったHカップ巨乳人妻痙攣痙攣でイキ狂う美人人妻NTRハメ撮りで中出し 宇佐美すい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳",
-      "NTR",
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250712-1/a20ee8b46ac5021401d96eb3a11a6817.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KOJA-023"
-  },
-  {
-    "id": 61208,
-    "IDcode": "KOJA-024",
-    "title": "面接に来たFカップの巨乳レイヤー！？テスト撮影にもノリノリで即日オフィスハメ、ノリで中出し「え…出すの…」 月野はなび",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/053e54e7a4ba64b294173d829a4784b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KOJA-024"
-  },
-  {
-    "id": 187961,
-    "IDcode": "KOJA-025",
-    "title": "透明肌の物静かな地味っ娘快楽に負けて膣奥撃イキプレイ主張マッサージ新人研修隠し撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/f06902f336fbd3b17487a27e4e6f5f72.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KOJA-025"
-  },
-  {
-    "id": 209926,
-    "IDcode": "KOZ-002",
-    "title": "高身長の兄嫁相姦 神波多一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/12/c557c105511e4bc8851327570a43dccf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KOZ-002"
-  },
-  {
-    "id": 12282,
-    "IDcode": "KPIE-004",
-    "title": "住在隔壁的爆乳女大学生-月野霞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "女上位",
-      "艷遇",
-      "劇情",
-      "少女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "色白",
-      "美少女",
-      "絕頂高潮",
-      "自宅",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "後入",
-      "口交",
-      "鄰居",
-      "美少女電影",
-      "勾引・誘惑",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241204-1/94aafac00a2556f6c12ff9e690c3787c.jpg",
-    "actress": [
-      "月野香澄"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KPIE-004"
-  },
-  {
-    "id": 76928,
-    "IDcode": "KPIE-005",
-    "title": "家事代行服务的巨乳大姐姐-天月杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "恋乳癖",
-      "中出",
-      "姐姐",
-      "恋物癖",
-      "乱伦",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241204-1/71fec37050b970d26a545a44aed43e4b.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KPIE-005"
-  },
-  {
-    "id": 10042,
-    "IDcode": "KPIE-006",
-    "title": "パーソナルトレーニングにやってきた外資系OLが巨乳すぎる！汗だくノーブラおっぱいに夢中になってご新規会員さんに禁断の中出し わか菜ほの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "女上位",
-      "艷遇",
-      "運動",
-      "劇情",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "巨尻",
-      "絕頂高潮",
-      "健身房",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "運動服裝",
-      "羞恥",
-      "後入",
-      "瑜珈·健身",
-      "舔陰",
-      "口交",
-      "OL",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/f1f06450/vod.jpg",
-    "actress": [
-      "若宮穂乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KPIE-006"
-  },
-  {
-    "id": 75189,
-    "IDcode": "KRHK-011",
-    "title": "オフ顔、盗撮。AV女優という’仮面’をとった女性達の’カメラの前では絶対に見せない’シロウトな素顔。 知花みく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "偷窥",
-      "纪录片",
-      "乳房",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/8db49bc163b9221533658590cc6447ca.jpg",
-    "actress": [
-      "彩风のん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRHK-011"
-  },
-  {
-    "id": 165996,
-    "IDcode": "KRI-064",
-    "title": "新たな刺激を求める変態夫婦たち旦那の前",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/xsyfzx4onif.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-064"
-  },
-  {
-    "id": 165997,
-    "IDcode": "KRI-067",
-    "title": "某社サービスに応募してきたワケあり夫妇2组",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/1fow2qcw10y.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-067"
-  },
-  {
-    "id": 166007,
-    "IDcode": "KRI-072",
-    "title": "夫の知らぬ间！！応募シロウト人妻※胜手にAV発売！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221106/h_286kri00072pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-072"
-  },
-  {
-    "id": 192633,
-    "IDcode": "KRI-074",
-    "title": "被变态宅男欺骗在他那全是淫秽用品的房间被内射调教到堕落的可怜女孩们",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250718-1/59f91e9d23ff13ce84e7d784b4c9759c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-074"
-  },
-  {
-    "id": 165998,
-    "IDcode": "KRI-075",
-    "title": "夫の知らぬ間！！応募シロウト人妻※勝手にAV発売！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221106/h_286kri00075pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-075"
-  },
-  {
-    "id": 77742,
-    "IDcode": "KRI-085",
-    "title": "欲求不満ドMシロウト人妻美人妻たちの欲望愿望5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "潮吹",
-      "已婚妇女",
-      "SM",
-      "人妻",
-      "拘束",
-      "中出",
-      "玩具"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221106/h_286kri00085pl.jpg",
-    "actress": [
-      "沢井亮"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-085"
-  },
-  {
-    "id": 165697,
-    "IDcode": "KRI-088",
-    "title": "泥酔オンナ狩り！！vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20220930/h_286kri088pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-088"
-  },
-  {
-    "id": 95016,
-    "IDcode": "KRI-091",
-    "title": "泥酔ハンター vol.01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "素人作品",
-      "中出",
-      "玩具",
-      "第一人称摄影",
-      "烂醉如泥的"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240823-1/ac5bdd02d175ebcf78220e5f459f3958.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-091"
-  },
-  {
-    "id": 95020,
-    "IDcode": "KRI-092",
-    "title": "訳アリ人妻夫の目の前でNTR撮影vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "潮吹",
-      "已婚妇女",
-      "NTR",
-      "淫妻",
-      "素人作品",
-      "人妻",
-      "中出",
+      "戏剧",
       "白天出轨",
-      "玩具"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221106/h_286kri00092pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-092"
-  },
-  {
-    "id": 166002,
-    "IDcode": "KRI-093",
-    "title": "訳アリ人妻夫に秘密の不倫SEXvol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221106/h_286kri093pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-093"
-  },
-  {
-    "id": 214094,
-    "IDcode": "KRND-013",
-    "title": "巴士痴汉-上原亚衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/24/c7f4f412f08bb80e8d5166a74908e77d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRND-013"
-  },
-  {
-    "id": 214077,
-    "IDcode": "KRND-018",
-    "title": "女教師中出-水城奈緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/24/5189ae4ca045ac6da0a195e37a312239.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRND-018"
-  },
-  {
-    "id": 213936,
-    "IDcode": "KRND-022",
-    "title": "在一个危险的日子里-西野あこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/16/6d8c54f27c632ea7c54165c689ced225.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRND-022"
-  },
-  {
-    "id": 214311,
-    "IDcode": "KRND-030",
-    "title": "强制中出粉丝感谢祭-上原亚衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/06/e368727c7bbdddb7aaf26336c1a3709e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRND-030"
-  },
-  {
-    "id": 212359,
-    "IDcode": "KRND-033",
-    "title": "美尻人妻-神ユキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/23/73e131360a23ba2ea96a596534994d35.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRND-033"
-  },
-  {
-    "id": 166003,
-    "IDcode": "KRU-059",
-    "title": "取引先の美人OLを酔わせて自宅にお持ち帰り盗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221106/kru00059pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-059"
-  },
-  {
-    "id": 166005,
-    "IDcode": "KRU-072",
-    "title": "情圣是怎么炼成的每天约不同的人妻来家里内射隐藏摄像头全记录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/c85ce233/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-072"
-  },
-  {
-    "id": 95013,
-    "IDcode": "KRU-072CN",
-    "title": "KRU072CN 素人NTR投稿 親友の彼女を寝取っちゃったヤツ！盗撮して投稿して下さい！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/0b9d569ad7b3a9975d3086e7bf2172d4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-072CN"
-  },
-  {
-    "id": 75429,
-    "IDcode": "KRU-073",
-    "title": "非現実的妄想劇場 アナタの願望叶えます！もしも…狙った女の子を意のままに操ることのできる「呪いの人形」があったら？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "妄想",
-      "护士",
-      "OL",
-      "高中女生",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/4a391548f4f78170a2f2913de8de0c88.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-073"
-  },
-  {
-    "id": 75432,
-    "IDcode": "KRU-075",
-    "title": "憧れの女上司を酔わせて好き放題中出し 昏●無抵抗レ●プ動画",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "OL",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/0fa76029f898706c21e7341934ad1883.jpg",
-    "actress": [
-      "后藤里香",
-      "瀬乃ひなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-075"
-  },
-  {
-    "id": 166006,
-    "IDcode": "KRU-078",
-    "title": "閲覧注意！入院中の僕の所にお見舞いに来て",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221106/kru00078pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-078"
-  },
-  {
-    "id": 75168,
-    "IDcode": "KSAT-004",
-    "title": "同じ会社のむっちり人妻が俺宅にお泊り。ノーメイクになった彼女があまりにも可愛すぎて中出し性交！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "出轨",
-      "人妻",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2020-02-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/1e6334650da898125d2d310389fb8ce9.jpg",
-    "actress": [
-      "川原かなえ",
-      "牧村柚希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSAT-004"
-  },
-  {
-    "id": 62372,
-    "IDcode": "KSAT-096",
-    "title": "美人妻ナンパ中出しSpecial！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "猎艳",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/05675539e9e51c35e2ea29956c8ef4ea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSAT-096"
-  },
-  {
-    "id": 184037,
-    "IDcode": "KSAT-097",
-    "title": "Wおま○こぱっくり 初めての女の子同士見せ合いオナニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/57e6f312/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSAT-097"
-  },
-  {
-    "id": 60317,
-    "IDcode": "KSAT-098",
-    "title": "妊活妻 性感産道エステ超絶フィスト 手首ずっぽり激イキ絶叫レズ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "美容院",
-      "拳交",
-      "4小时以上作品",
+      "无毛",
       "女同性恋"
     ],
     "type": "有码",
-    "company": "TMA",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/870fff10158c65d447cc33a657c3e728.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSAT-098"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-614"
   },
   {
-    "id": 173988,
-    "IDcode": "KSAT-099",
-    "title": "淫乱妻30人 性欲剥き出しオナニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/05/d621a543/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSAT-099"
-  },
-  {
-    "id": 210031,
-    "IDcode": "KSBJ-022",
-    "title": "裸露的妻子-二宮和香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/18/1b3cdf87134d363bd259ad4b16ce2ee6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-022"
-  },
-  {
-    "id": 107205,
-    "IDcode": "KSBJ-052",
-    "title": "美乳美尻全裸人妻-卯水咲流",
+    "id": 75259,
+    "IDcode": "AUKG-615",
+    "title": "人妻レズ覚醒 ～仲良し夫婦のスワッピングから始まる人妻同士のレズSEX！！～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
       "人妻",
-      "中出",
-      "恋物癖",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/2eba2777a76be44105cedfa3a23ab519.jpg",
-    "actress": [
-      "卯水咲流"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-052"
-  },
-  {
-    "id": 78176,
-    "IDcode": "KSBJ-059",
-    "title": "未亡人の義母-柏木舞子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "中出",
-      "寡妇",
-      "巨乳",
-      "胖女人",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/25/57003ae6d8ea21cbfe79fd968ed5efc9.jpg",
-    "actress": [
-      "柏木舞子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-059"
-  },
-  {
-    "id": 77884,
-    "IDcode": "KSBJ-060",
-    "title": "爆乳すぎる新しいお義母さん時田こずえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
       "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/10/51djjxftmbg.jpg",
-    "actress": [
-      "时田こずえ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-060"
-  },
-  {
-    "id": 77652,
-    "IDcode": "KSBJ-061",
-    "title": "マンションの住人に狙われた潮吹きマゾ妻加瀬ななほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "潮吹",
-      "已婚妇女",
-      "中出",
-      "多P",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/10/oj4mpvdplay.jpg",
-    "actress": [
-      "加濑七穗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-061"
-  },
-  {
-    "id": 77176,
-    "IDcode": "KSBJ-063",
-    "title": "被我儿子的妻子勾引-鈴木真夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "巨乳",
-      "乱伦",
-      "自慰",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/15/c2159d133e46f494f4024cfaa4f3ea81.jpg",
-    "actress": [
-      "鈴木真夕"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-063"
-  },
-  {
-    "id": 78274,
-    "IDcode": "KSBJ-064",
-    "title": "はだかの奥様風間ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/a03aeh225fr.jpg",
-    "actress": [
-      "風間由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-064"
-  },
-  {
-    "id": 78427,
-    "IDcode": "KSBJ-065",
-    "title": "被性欲旺盛的弟媳誘惑&amp;hellip;。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "乱伦",
-      "荡妇",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240825-1/79dfdde804858ca0691a70b5aceb9be9.jpg",
-    "actress": [
-      "汐河佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-065"
-  },
-  {
-    "id": 77763,
-    "IDcode": "KSBJ-066",
-    "title": "全裸太太 高槻鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "中出",
-      "巨乳",
-      "荡妇",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240825-1/9f0f31271ffc7977f9ace711510275f6.jpg",
-    "actress": [
-      "高槻れい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-066"
-  },
-  {
-    "id": 78406,
-    "IDcode": "KSBJ-067",
-    "title": "因為老公欠錢被逼用肉體還債、被侵犯的巨乳妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "巨乳",
-      "胖女人"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240825-1/707b329bbfaa4740158f675deece3ab1.jpg",
-    "actress": [
-      "牧村彩香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-067"
-  },
-  {
-    "id": 166014,
-    "IDcode": "KSBJ-072",
-    "title": "息子の嫁はデカ尻川原かなえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/0bxqnydqusp.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-072"
-  },
-  {
-    "id": 166015,
-    "IDcode": "KSBJ-074",
-    "title": "夫がEDに…欲求不満の解消は夫の弟で…吉澤ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/gpmddgg00ro.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-074"
-  },
-  {
-    "id": 166016,
-    "IDcode": "KSBJ-075",
-    "title": "夫の借金の為に肉体返済を迫られた美尻妻かなで自由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/n0snm5ol3rj.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-075"
-  },
-  {
-    "id": 166017,
-    "IDcode": "KSBJ-076",
-    "title": "エスカレートする義理の息子の嫌がらせ遥あやね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/hnqrabcfxcq.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-076"
-  },
-  {
-    "id": 209317,
-    "IDcode": "KSBJ-084",
-    "title": "性教育-澤村レイコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/11/QQ2020061206475896183.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-084"
-  },
-  {
-    "id": 209611,
-    "IDcode": "KSBJ-087",
-    "title": "再会…君島みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/13/e41199720f7fc901d522ebff54f372bb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-087"
-  },
-  {
-    "id": 209818,
-    "IDcode": "KSBJ-090",
-    "title": "息子の嫁の誘惑 AIKA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/04/227bca864d290d49140f5aa86d030aa6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-090"
-  },
-  {
-    "id": 210528,
-    "IDcode": "KSBJ-093",
-    "title": "窈窕淑女君子好逑-武藤あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/13/ea6349a012bc52376908f5dadc7d1aa7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-093"
-  },
-  {
-    "id": 210749,
-    "IDcode": "KSBJ-102",
-    "title": "自宅不倫 如月夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/31/93c97d6da7db43c02b04c22be84153ad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-102"
-  },
-  {
-    "id": 85132,
-    "IDcode": "KSBJ-112",
-    "title": "儿子的妻子-蒼井れいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "玩具",
-      "巨乳",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/04/ca6b31e8c6d8214723d01160b720c7a5.jpg",
-    "actress": [
-      "栗原良",
-      "苍井れいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-112"
-  },
-  {
-    "id": 225563,
-    "IDcode": "KSBJ-120",
-    "title": "儿媳的诱惑-钟梨星奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/8f004996d5e18cc7a3ce036998caec27.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-120"
-  },
-  {
-    "id": 88076,
-    "IDcode": "KSBJ-123",
-    "title": "息子の嫁を妄想NTR 中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "NTR",
-      "淫妻",
-      "中出",
       "白天出轨",
-      "口交"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "2021-03-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230907-1/7295b050d6e00342a56d0bf7428e8779.jpg",
-    "actress": [
-      "中野七绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-123"
-  },
-  {
-    "id": 225581,
-    "IDcode": "KSBJ-124",
-    "title": "重逢-樱美雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/4a7df626a6ac6a23366828879452fd90.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-124"
-  },
-  {
-    "id": 212741,
-    "IDcode": "KSBJ-135",
-    "title": "允许自己被中出-大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/11/7823c766bc42e168642bea49833526b2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-135"
-  },
-  {
-    "id": 212158,
-    "IDcode": "KSBJ-140",
-    "title": "性欲旺盛-純岡美乃理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/03/559e55cf70d7a68f7d6cb6935f19bafb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-140"
-  },
-  {
-    "id": 203568,
-    "IDcode": "KSBJ-142",
-    "title": "淫乱女-桐山結羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/03/dc860a2f491c45c2eabdb89d099cda6d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-142"
-  },
-  {
-    "id": 79172,
-    "IDcode": "KSBJ-143",
-    "title": "对我的丈夫不满意-篠原ちとせ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
       "成熟的女人",
-      "中出",
-      "白天出轨",
-      "巨乳"
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/21/50db9678401713322ff651801a8a4ea1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/20/6804b9d6ae37d45b9e3ef512/cover.jpg",
     "actress": [
-      "篠原ちとせ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-143"
-  },
-  {
-    "id": 212307,
-    "IDcode": "KSBJ-144",
-    "title": "再会-東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/18/27c5393a63dffaf905aaf0c98068c2ed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-144"
-  },
-  {
-    "id": 79388,
-    "IDcode": "KSBJ-153",
-    "title": "奇妙な家族関係 木村穂乃香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "白天出轨",
-      "婆婆"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "2021-08-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ae8c2d1e03ea6f0ad5f8a5d260307b7e.jpg",
-    "actress": [
-      "木村穂乃香",
-      "栗原良"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-153"
-  },
-  {
-    "id": 79392,
-    "IDcode": "KSBJ-156",
-    "title": "性欲旺盛-紗々原ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "中出",
-      "口交",
-      "主观视角",
-      "自慰",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/05/04/3775fd4cd754b1702adf7738af37c7a7.jpg",
-    "actress": [
+      "白河花清",
       "纱々原ゆり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-156"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-615"
   },
   {
-    "id": 85158,
-    "IDcode": "KSBJ-173",
-    "title": "被我的公公强奸了-水谷あおい",
+    "id": 411257,
+    "IDcode": "AUKG-616",
+    "title": "我的老师和我：秘密频道 - 纯洁的女孩被穿戴式假阳具变态女同性恋者男性化",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "口交",
-      "乱伦",
-      "自慰"
+      "女同"
     ],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/19/8869cf643671d01a2a84230f370e70b5.jpg",
-    "actress": [
-      "水谷あおい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-173"
-  },
-  {
-    "id": 85148,
-    "IDcode": "KSBJ-177",
-    "title": "被他性欲旺盛的兄弟妻子所诱惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "自慰",
-      "荡妇",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/24/e3ee5c94d5a1244323f3f9224ca6f527.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab6fc95f03a092cf71d2c6/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-616"
   },
   {
-    "id": 85131,
-    "IDcode": "KSBJ-178",
-    "title": "被丈夫的手下强奸一个星期",
+    "id": 411256,
+    "IDcode": "AUKG-617",
+    "title": "蕾丝边焕颜美容院 ～美熟女的秘密美容穿戴式假阳具课程～",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "魔鬼系",
-      "中出",
-      "巨乳",
-      "自慰"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/19/ff465c2dd179a7a8b1a5b98782ea9449.jpg",
-    "actress": [
-      "田中寧寧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-178"
-  },
-  {
-    "id": 85191,
-    "IDcode": "KSBJ-182",
-    "title": "我被姐夫强奸了-若宮穂乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "玩具",
-      "乱伦",
-      "巨乳",
-      "自慰",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/26/4c18ab53cfedb717db048be35000fdb7.jpg",
-    "actress": [
-      "若宫穂乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-182"
-  },
-  {
-    "id": 81032,
-    "IDcode": "KSBJ-184",
-    "title": "新婚的侄女勾引叔叔-小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "乱伦",
-      "巨乳",
-      "自慰",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/05/b41e97886306bc253321b16f944baa16.jpg",
-    "actress": [
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-184"
-  },
-  {
-    "id": 85188,
-    "IDcode": "KSBJ-186",
-    "title": "勾引儿子的妻子-香椎佳穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "无毛",
-      "中出",
-      "白天出轨",
-      "口交",
-      "乱伦",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/08/52a3ffdacf49e4e3a3b308ba8021970c.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/22/68074b62ae37d45b9ed31bec/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-186"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-617"
   },
   {
-    "id": 85196,
-    "IDcode": "KSBJ-187",
-    "title": "在没有丈夫监视的情况下进行家庭通奸",
+    "id": 73178,
+    "IDcode": "AUKG-618",
+    "title": "不倫レズ ～性欲処理レズビアン飼育～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "出轨",
+      "淫乱，真实",
+      "潮吹",
+      "戏剧",
+      "成熟的女人",
+      "素人作品",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "友田彩也香",
+      "由爱可奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-618"
+  },
+  {
+    "id": 189318,
+    "IDcode": "AUKG-619",
+    "title": "熟女レズビアン ～愛欲四畳半の快楽女遊戯～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/25/680b8f75cf22ae3e04862c4f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-619"
+  },
+  {
+    "id": 189311,
+    "IDcode": "AUKG-620",
+    "title": "誰か来たらどうするの…？狭いトイレで濃厚密着レズ愛撫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/25/680b8f26cf22ae3e04862c4b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-620"
+  },
+  {
+    "id": 71893,
+    "IDcode": "AUKG-621",
+    "title": "人妻百合族 ～再会レズセックス、懐かしさの手前でこみ上げる愛欲～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "人妻",
-      "中出",
-      "口交",
-      "单体作品",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/06/ade4c5f0e4df9880108acef52a7caee4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-187"
-  },
-  {
-    "id": 85221,
-    "IDcode": "KSBJ-196",
-    "title": "留在家里的儿子-織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "口交",
-      "婆婆",
-      "巨乳",
-      "乱伦",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/05/28/7324883d3893d449e6f79ea84629f2ec.jpg",
-    "actress": [
-      "織田真子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-196"
-  },
-  {
-    "id": 85222,
-    "IDcode": "KSBJ-198",
-    "title": "肮脏的妻子-水上由紀恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
       "已婚妇女",
-      "中出",
-      "口交",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/05/28/bd8378a0b883a39050902ff8ea6dc7e4.jpg",
-    "actress": [
-      "水上由纪恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-198"
-  },
-  {
-    "id": 85212,
-    "IDcode": "KSBJ-200",
-    "title": "婆婆的奶子太大了-岡江凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胖女人",
-      "成熟的女人",
-      "婆婆",
-      "巨乳",
-      "乱伦",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/27/a4c7b52959e1fdd32f6fc7cb827175e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-200"
-  },
-  {
-    "id": 69077,
-    "IDcode": "KSBJ-201",
-    "title": "我用我姐夫的精子怀孕了-弘中優",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "已婚妇女",
-      "无毛",
-      "中出",
-      "乱伦",
-      "自慰",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/13/eee55e5b15b85008549167662b2df448.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-201"
-  },
-  {
-    "id": 68718,
-    "IDcode": "KSBJ-202",
-    "title": "对他姐夫的大鸡巴很着迷-神坂朋子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
+      "戏剧",
       "白天出轨",
-      "自慰",
-      "乱伦",
       "巨乳",
-      "巨大阴茎",
-      "单体作品"
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/11/a76ce8fc4fc151ce1604457a6e6b6732.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-202"
-  },
-  {
-    "id": 67911,
-    "IDcode": "KSBJ-206",
-    "title": "喜欢出轨的年轻坏妻子-本田瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "已婚妇女",
-      "无毛",
-      "成熟的女人",
-      "中出",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/05/77437b7a979dd6a326d88c59b7421703.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "本田瞳"
+      "岬櫻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-206"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-621"
   },
   {
-    "id": 69096,
-    "IDcode": "KSBJ-209",
-    "title": "依赖于性的妻子-川上ゆう",
+    "id": 70888,
+    "IDcode": "AUKG-622",
+    "title": "継母と私 ～レズの快感教えてあげる パパには内緒の強●レズ強要～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
-      "口交",
-      "自慰",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/29/abe5e74a1aba5377a7789177cc58c832.jpg",
-    "actress": [
-      "川上優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-209"
-  },
-  {
-    "id": 68941,
-    "IDcode": "KSBJ-212",
-    "title": "彻头彻尾的荡妇-黒川晴美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "口交",
-      "自慰",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/27/65d56a897c521c594c8011672633b75c.jpg",
-    "actress": [
-      "黒川晴美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-212"
-  },
-  {
-    "id": 67638,
-    "IDcode": "KSBJ-213",
-    "title": "被他性欲旺盛的兄弟的妻子所诱惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "无毛",
-      "中出",
-      "自慰",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/13/750e3b053ab232c6c44c3b0d90734529.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-213"
-  },
-  {
-    "id": 162299,
-    "IDcode": "KSBJ-213-C",
-    "title": "田中奈奈实 被性欲旺盛的弟媳诱惑 田中なな実",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250415-1/3727ac87e2695a487af8f602158fa676.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-213-C"
-  },
-  {
-    "id": 69391,
-    "IDcode": "KSBJ-217",
-    "title": "我哥哥的妻子-東凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "自慰",
-      "单体作品",
+      "淫乱，真实",
+      "婆婆",
       "荡妇",
-      "苗条"
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/13/40673d80a115dae7ca7fd9adb9887221.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f24dfcf22ae3e0498ed3f/cover.jpg",
     "actress": [
-      "东凛"
+      "祈山愛",
+      "黑川纱里奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-217"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-622"
   },
   {
-    "id": 69133,
-    "IDcode": "KSBJ-218",
-    "title": "男人的肮脏的妻子-二宮和香",
+    "id": 66385,
+    "IDcode": "AUKG-623",
+    "title": "AUKG-623 親友レズビアン ～友だちからカップルに…女同士の甘い生活～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "戏剧",
+      "乳房",
+      "女同",
+      "姐姐",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/01/68135a195b6f25c1695efd4f/cover.jpg",
+    "actress": [
+      "桐香悠裡"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-623"
+  },
+  {
+    "id": 68901,
+    "IDcode": "AUKG-624",
+    "title": "ダメ女に恋した私 ～合鍵わたします…同棲契約レズビアン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乳房",
+      "姐姐",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/03/6815ea38361668305a9f88c4/cover.jpg",
+    "actress": [
+      "幾田真知"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-624"
+  },
+  {
+    "id": 411191,
+    "IDcode": "AUKG-625",
+    "title": "女同性恋责怪M性感〜沮丧的女人陷入女同性恋技巧〜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68145fa0c57e2706695c326f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-625"
+  },
+  {
+    "id": 67320,
+    "IDcode": "AUKG-626",
+    "title": "先生と私 ～レオタード女生徒と体育倉庫でレズレッスン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女教师",
+      "学校作品",
+      "女同性恋",
+      "紧身衣",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/1e383550/vod.jpg",
+    "actress": [
+      "天然美月",
+      "北山憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-626"
+  },
+  {
+    "id": 66405,
+    "IDcode": "AUKG-627",
+    "title": "人妻レズ不倫 ～ご近所のセックスレス奥様同士が夫の留守に…姫川礼子 碓氷紗也",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "戏剧",
+      "白天出轨",
+      "成熟的女人",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "姫川礼子",
+      "碓氷紗也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-627"
+  },
+  {
+    "id": 63940,
+    "IDcode": "AUKG-628",
+    "title": "性愛マッチングレズビアン ～マッチングサイトで女を誘う美女ビアン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "舔阴",
+      "姐姐",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "花衣つばき",
+      "響かれん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-628"
+  },
+  {
+    "id": 63303,
+    "IDcode": "AUKG-629",
+    "title": "片思いレズビアン ～お兄ちゃんの彼女に恋する制服レズビアン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "白天出轨",
+      "制服",
+      "妹妹",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e56f298bc99dfdd03194a/cover.jpg",
+    "actress": [
+      "葵井みずほ",
+      "野原なこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-629"
+  },
+  {
+    "id": 63287,
+    "IDcode": "AUKG-630",
+    "title": "美熟女レズビアン レズ堕ち家政婦と有閑マダム",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "已婚妇女",
-      "无毛",
-      "中出",
-      "口交",
-      "自慰",
-      "单体作品"
+      "戏剧",
+      "白天出轨",
+      "女同性恋",
+      "裸体围裙"
     ],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/13/50b072880cfee2da916a1a94d6f61442.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "祈山愛",
+      "田所百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-630"
+  },
+  {
+    "id": 192358,
+    "IDcode": "AUKG-631",
+    "title": "レズ回春エステサロン ～性欲回復！！秘密のベロ舐め施術～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-631"
+  },
+  {
+    "id": 62095,
+    "IDcode": "AUKG-632",
+    "title": "＃裏アカ女子レズビアン ～美少女の性欲処理します！裏垢で女を漁る美人レズビアン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乳房",
+      "制服",
+      "姐姐",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "瀬戸ひなこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-632"
+  },
+  {
+    "id": 182755,
+    "IDcode": "AUKG-633",
+    "title": "潮吹きレズビアン ～潮まみれで愛し合う禁断レズセックス～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-633"
+  },
+  {
+    "id": 61165,
+    "IDcode": "AUKG-634",
+    "title": "レズデリヘル ～自宅OK！女性専用デリヘル 今すぐ遊べる新人嬢はこちらになります！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同性恋",
+      "礼仪小姐",
+      "舔阴",
+      "乳房",
+      "故事集"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "花衣つばき",
+      "天然美月",
+      "葵井みずほ",
+      "響かれん",
+      "北山憂",
+      "野原なこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-634"
+  },
+  {
+    "id": 60723,
+    "IDcode": "AUKG-635",
+    "title": "レズ堕ち未亡人 ～喪服の襟から覗く白く熟れた乳房～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "寡妇",
+      "成熟的女人",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca66987de28f4ede4938e8/cover.jpg",
+    "actress": [
+      "葉山小百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-635"
+  },
+  {
+    "id": 174816,
+    "IDcode": "AUKG-636",
+    "title": "嫁姑レズ ～潮吹き新婚妻と豊満義母の禁断レズ関係～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-636"
+  },
+  {
+    "id": 174019,
+    "IDcode": "AUKG-637",
+    "title": "濡れ髪旅情レズビアン ～わけあり熟女旅 湯上りレズ一夜～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-637"
+  },
+  {
+    "id": 522854,
+    "IDcode": "AUKS-033",
+    "title": "波多野结衣- 美女とニューハーフ～波多野结衣の童贞ニューハーフ笔おろし体験～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250321/RWzZYXYa/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-033"
+  },
+  {
+    "id": 530150,
+    "IDcode": "AUKS-052",
+    "title": "巨乳ムチムチ熟女 デカ尻アナルレズビアン 寺岛志保 藤木静子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240623-1/e7d1b6492e85b3493795253b9477a0fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-052"
+  },
+  {
+    "id": 99351,
+    "IDcode": "AUKS-082",
+    "title": "レズGAL猥褻！！BIKINIマニア！！！ ～爆乳潮吹きビキニモデル×ど淫乱サーファーGAL～ 上原花恋 浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "潮吹",
+      "巨乳",
+      "女同性恋",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2017-09-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "浜崎真绪",
+      "上原花恋"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-082"
+  },
+  {
+    "id": 98183,
+    "IDcode": "AUKS-083",
+    "title": "くびれ爆乳レズ！ど猥褻下着マニア！！早川瀬里奈二宮和香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "荡妇",
+      "内衣",
+      "巨乳",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2017-11-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "二宮和香",
-      "岩下たろう"
+      "早川瀬里奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-218"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-083"
   },
   {
-    "id": 69140,
-    "IDcode": "KSBJ-220",
-    "title": "被我的继父强奸了-浜崎真緒",
+    "id": 99372,
+    "IDcode": "AUKS-087",
+    "title": "獣欲の館！レズ奴隷つき貸別荘",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "放尿",
-      "已婚妇女",
-      "口交",
-      "巨乳",
-      "乱伦",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/14/fb39daa64a1fb3bd6a4a3defaeda650b.jpg",
-    "actress": [
-      "浜崎真绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-220"
-  },
-  {
-    "id": 162371,
-    "IDcode": "KSBJ-220-C",
-    "title": "被义父侵犯的录像 被拍到的我… 浜崎真绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250330-1/a8362d87da83059349d44f8875a1a0f3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-220-C"
-  },
-  {
-    "id": 67191,
-    "IDcode": "KSBJ-221",
-    "title": "依赖于性的妻子-白花こう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "口交",
-      "自慰",
-      "单体作品",
+      "淫乱，真实",
+      "潮吹",
       "荡妇",
-      "苗条"
+      "多P",
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/18/827e626cf0b19f01490bf6fa04888f3a.jpg",
+    "companys": [],
+    "publish_date": "2018-05-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "ニック"
+      "春原未来",
+      "葵千恵",
+      "叶月润"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-221"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-087"
   },
   {
-    "id": 67854,
-    "IDcode": "KSBJ-226",
-    "title": "哥哥的妻子-夏川あゆみ",
+    "id": 99244,
+    "IDcode": "AUKS-088",
+    "title": "授業をさぼってレズ交尾に耽る痴女ビアン女教師と潮吹き淫乱女学生 北川ゆず 白金れい奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "无毛",
-      "中出",
-      "自慰",
-      "单体作品",
-      "荡妇"
+      "淫乱，真实",
+      "潮吹",
+      "女教师",
+      "女同性恋",
+      "高中女生"
     ],
     "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/23/fd701548b312ce4ecd64455f62884566.jpg",
+    "companys": [],
+    "publish_date": "2018-06-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "夏川步美",
-      "岩下たろう"
+      "上田紗奈",
+      "白金れい奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-226"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-088"
   },
   {
-    "id": 167195,
-    "IDcode": "KSBJ-227",
-    "title": "我发情了-松河智奈美",
+    "id": 535857,
+    "IDcode": "AUKS-092",
+    "title": "_Aど変态アナル狂レズビアン！！～熟レズ女社长×美尻レズタチ女秘书～天",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/11/692f6c71aab4c7ad4caa038863934502.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-227"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-092"
   },
   {
-    "id": 69119,
-    "IDcode": "KSBJ-229",
-    "title": "对他姐夫的大鸡巴很着迷-柚木ひおり",
+    "id": 98070,
+    "IDcode": "AUKS-093",
+    "title": "ど変態なま唾レズ接吻狂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "乱伦",
-      "巨乳",
-      "单体作品"
+      "淫乱，真实",
+      "潮吹",
+      "寡妇",
+      "荡妇",
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/f4c595b3b87e7da6d9142700f0c22b30.jpg",
+    "companys": [],
+    "publish_date": "2018-10-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "柚木ひおり"
+      "成宫いろは",
+      "桃瀬ゆり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-229"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-093"
   },
   {
-    "id": 69080,
-    "IDcode": "KSBJ-231",
-    "title": "家庭内不倫-杏奈",
+    "id": 535910,
+    "IDcode": "AUKS-094",
+    "title": "ボロ贷间六畳母乳まみれ淫猥レズ交尾！！～疼くなま乳母乳奥様×ビキニが似合う日焼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-094"
+  },
+  {
+    "id": 535924,
+    "IDcode": "AUKS-095",
+    "title": "ボロ贷间四畳半淫语狂い母乳まみれ潮喷射！！～蛇ベロ猥亵レズ交尾～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-095"
+  },
+  {
+    "id": 216400,
+    "IDcode": "AUKS-096",
+    "title": "和一个变性人一起租别墅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-096"
+  },
+  {
+    "id": 535923,
+    "IDcode": "AUKS-098",
+    "title": "异常性欲レズビアン ～痴汉・视奸・盗撮レズマニア～ 松坂美纪 东条丽美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-098"
+  },
+  {
+    "id": 97822,
+    "IDcode": "AUKS-099",
+    "title": "ハニトラレズビアン ～インテリ変態女事務次官VS女レズスパイ！！～ 伊東沙蘭 片瀬仁美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "已婚妇女",
-      "中出",
-      "单体作品",
+      "淫乱，真实",
+      "舔阴",
+      "拘束",
+      "成熟的女人",
+      "素人作品",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-05-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "片瀬仁美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-099"
+  },
+  {
+    "id": 72082,
+    "IDcode": "AUKS-100",
+    "title": "童顔巨乳女子-増田ゆめ 後藤里香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "变性者",
+      "肛交",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/85b367ddc956ae0bc8dbabb75d0e78ca.jpg",
+    "actress": [
+      "后藤里香",
+      "増田ゆめ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-100"
+  },
+  {
+    "id": 536070,
+    "IDcode": "AUKS-102",
+    "title": "课外授业ヤリマンレズビアン！！～インテリ女教师と淫乱女子○生のもっとやらしいレズセックスしましょ…～ 桥本れいか 御坂りあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-102"
+  },
+  {
+    "id": 592540,
+    "IDcode": "AUKS-104",
+    "title": "召唤！ !!女同性恋者 ● 与 NIMO Himari Ogawa 的出租别墅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/07/83921_cover_2025-06-07_120537.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-104"
+  },
+  {
+    "id": 98401,
+    "IDcode": "AUKS-106",
+    "title": "レズハッテン場サロン～くびれウエスト美乳女子×ベロフェチ淫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "苗条",
+      "女同接吻",
+      "素人作品",
+      "女同性恋",
+      "精选，综合",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-10-13",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914d4dc46d2372859bbff7e/poster2.jpg",
+    "actress": [
+      "桐谷奈緒",
+      "爱乃零"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-106"
+  },
+  {
+    "id": 99373,
+    "IDcode": "AUKS-107",
+    "title": "収監！レズニンフォマニア ～精神科女医×色情狂患者 狂ったレズセックス治療～ あけみみう みひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "女医生",
+      "潮吹",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-11-01",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200914-1/55d082502beabf32bef7b0a983c27858.jpg",
+    "actress": [
+      "佐倉陽菜",
+      "明美美羽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-107"
+  },
+  {
+    "id": 81539,
+    "IDcode": "AUKS-109",
+    "title": "レズセクソロジー ～禁断の性科学 性感開発レズビアン～ 美咲かんな 妃月るい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "舔阴",
+      "姐姐",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-12-13",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f31f91fcdee36fa80019d/poster2.jpg",
+    "actress": [
+      "美咲佳奈",
+      "妃月るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-109"
+  },
+  {
+    "id": 81536,
+    "IDcode": "AUKS-110",
+    "title": "超淫乱性革命 レズテロリスト 倉木しおり 佐伯由美香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "内衣",
+      "姐姐",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-01-13",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690f9aaf165f1917e3c18d82/poster2.jpg",
+    "actress": [
+      "佐伯由美香",
+      "仓木诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-110"
+  },
+  {
+    "id": 535861,
+    "IDcode": "AUKS-111",
+    "title": "_Aレズビアンモルモット～欲望熟女の美少女レズセックスマシーン改造计画～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-111"
+  },
+  {
+    "id": 83447,
+    "IDcode": "AUKS-112",
+    "title": "ど淫乱レズ売春木賃宿 ～レズの巣窟 ボロ家屋四畳半～ 神ユキ 伊東沙蘭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "舔阴",
       "乳房",
-      "苗条"
+      "女同性恋",
+      "接吻"
     ],
     "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/b49e9194c0c42ef330757b0e8c20fd01.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-231"
+    "companys": [],
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/e7da2da5bdb781ebf121026bdbd710c5.jpg",
+    "actress": [
+      "神ユキ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-112"
   },
   {
-    "id": 69081,
-    "IDcode": "KSBJ-237",
-    "title": "見境なく男を喰い漁るセックス依存妻 佐久間泉",
+    "id": 98829,
+    "IDcode": "AUKS-113",
+    "title": "ニューハーフレズビアン～天然デカチン弟が可愛いペニクリ妹",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "巨乳",
-      "胖女人",
-      "单体作品"
+      "变性者",
+      "女装人妖",
+      "肛交",
+      "妹妹",
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230928/ksbj237pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-237"
+    "companys": [],
+    "publish_date": "2020-04-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "滝川穂乃果",
+      "椎名みう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-113"
   },
   {
-    "id": 223107,
-    "IDcode": "KSBJ-239",
-    "title": "淫乱主婦-岡江凛",
+    "id": 516668,
+    "IDcode": "AUKS-115",
+    "title": "閃亮黑辣妹蕾絲邊～惱OO比基尼模",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/2a5cb9e18a04a261e03ea41d8c63ee21.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69028a0d79f1ac4ec4ca03a0/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-239"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-115"
   },
   {
-    "id": 223450,
-    "IDcode": "KSBJ-243",
-    "title": "危险日的密会-水端麻美",
+    "id": 516695,
+    "IDcode": "AUKS-117",
+    "title": "變態蕾絲邊狂奏曲 ～潮吹絞首蕾絲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/69c05741b5c4a6387b53e502f907c0a5.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe76f0dd88d14f065653b9/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-243"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-117"
   },
   {
-    "id": 168178,
-    "IDcode": "KSBJ-245",
-    "title": "犯错的代价-小松杏",
+    "id": 516736,
+    "IDcode": "AUKS-118",
+    "title": "線上蕾絲邊 ～淫亂猥褻性教育～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "KSB企畫",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/84e3362a801ecd9e853dc0703342e7b1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f88b8d79f1ac4ec4b58a0a/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-245"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-118"
+  },
+  {
+    "id": 536817,
+    "IDcode": "AUKS-119",
+    "title": "レズ美魔女の蜘蛛の巣に捕まった女子大生 ～美貌の秘诀は若い女の体液～ 星あめり 小日向まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-119"
+  },
+  {
+    "id": 516767,
+    "IDcode": "AUKS-120",
+    "title": "破舊兩坪房間 猥褻蕾絲邊交尾春畫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f2097dce5a404e9be6eb50/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-120"
+  },
+  {
+    "id": 566797,
+    "IDcode": "AUKS-121",
+    "title": "人妖蕾丝边～变态苗条美女和淫乱豆屌妹～ 咲雪华奈 宇野刊菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6f99b88d116d5e041fd22fdb5286d2da.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-121"
+  },
+  {
+    "id": 516798,
+    "IDcode": "AUKS-123",
+    "title": "隔壁女人是蕾絲邊色情狂 並木塔子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68eb31b11572686be78663c9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-123"
+  },
+  {
+    "id": 536743,
+    "IDcode": "AUKS-124",
+    "title": "恋人代行レズビアン ～レンタル彼女といやというほどレズ交尾してみませんか～ 纱々原ゆり 有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-124"
+  },
+  {
+    "id": 536742,
+    "IDcode": "AUKS-125",
+    "title": "オトコノコレズ ～巨チンの弟が妹に！姊も欲しがる生竿～ 丽日奏 丹羽すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-125"
+  },
+  {
+    "id": 516786,
+    "IDcode": "AUKS-126",
+    "title": "蕾丝边的巢窟 破烂家屋四迭半 ～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed506d52c12b4e6849b134/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-126"
+  },
+  {
+    "id": 536719,
+    "IDcode": "AUKS-127",
+    "title": "密室を満たす牝臭 ～変态腋汗レズ交尾～ 春原未来 岬あずさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-127"
+  },
+  {
+    "id": 536697,
+    "IDcode": "AUKS-128",
+    "title": "レズ奴●付き贷し别荘 ～なま唾糸引きレズ接吻～ 塩见彩 佐伯由美香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-128"
+  },
+  {
+    "id": 536666,
+    "IDcode": "AUKS-129",
+    "title": "挑発ビキニ！！レズ性欲モンスター 望月あやか 卯水咲流",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-129"
+  },
+  {
+    "id": 410640,
+    "IDcode": "AUKS-130",
+    "title": "蕾絲邊解禁！曬痕比基尼蕾絲邊 REMI 悠月安夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbc9dece5a404e9bc10b5f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-130"
+  },
+  {
+    "id": 410668,
+    "IDcode": "AUKS-131",
+    "title": "潮吹！唾液接吻蕾絲邊 宮村菜菜子 岬梓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5a519eb67774efbb86399/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-131"
+  },
+  {
+    "id": 536574,
+    "IDcode": "AUKS-132",
+    "title": "シーメール未亡人レズビアン ～丧服の裾から覗くペニクリ～ 咲雪华奈 乙アリス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-132"
+  },
+  {
+    "id": 410709,
+    "IDcode": "AUKS-133",
+    "title": "唾液蕾絲邊接吻狂 ～W性欲猛獸 彩華vs紗耶～ 望月彩華 美波沙耶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d0871552c12b4e68100b2b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-133"
+  },
+  {
+    "id": 410715,
+    "IDcode": "AUKS-134",
+    "title": "猥褻！大陰蒂蕾絲邊 ～害怕淫核肥大恐怖症的女子與真性蕾絲邊變態女醫～ 樞木葵 河奈亜依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d099e7eb67774efbae2682/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-134"
+  },
+  {
+    "id": 410701,
+    "IDcode": "AUKS-135",
+    "title": "蕾絲邊的巢窟 破爛家屋四疊半 ～超淫亂蕾絲邊賣春旅館 3～ 伊東沙蘭 小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d20d2fe4a73d4f159b8a4f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-135"
+  },
+  {
+    "id": 536530,
+    "IDcode": "AUKS-136",
+    "title": "シーメールレズビアン ～ニューハーフ奴●付き贷别荘2～ 牧野诗音 永原なつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-136"
+  },
+  {
+    "id": 536484,
+    "IDcode": "AUKS-137",
+    "title": "セクシーモデル淫乱レズビアン ～2人だけの変态レズパーティー～ 浜崎真绪 有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-137"
+  },
+  {
+    "id": 536213,
+    "IDcode": "AUKS-138",
+    "title": "レズ接吻狂 ～喉奥でイク女と蛇舌色情狂の女～ 佐伯由美香 春原未来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230518/auks138pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-138"
+  },
+  {
+    "id": 536212,
+    "IDcode": "AUKS-139",
+    "title": "レズの巣窟 ボロ家屋四畳半 ～ど淫乱レズ连れ込み旅馆～ 翔田千里 姫川礼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230518/auks139pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-139"
+  },
+  {
+    "id": 410733,
+    "IDcode": "AUKS-140",
+    "title": "內衣蕾絲邊 ～不穿著內衣搞蕾絲邊性愛不會溼的女人們！！～ 二宮和香 杉咲靜香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf50b779f1ac4ec4684231/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-140"
+  },
+  {
+    "id": 97028,
+    "IDcode": "AUKS-141",
+    "title": "タチとタチ ～隣の女はレズ色情狂～ 神納花 岬あずさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "潮吹",
+      "舔阴",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cfbfe4eb67774efbabe886/cover.jpg",
+    "actress": [
+      "岬梓沙",
+      "管野静香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-141"
+  },
+  {
+    "id": 566796,
+    "IDcode": "AUKS-142",
+    "title": "アメリカン女子留学生と淫乱お嬢様の変态レズ ～日本の女の子のオ○ンコを舐めにカリフォルニアから来ました～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/966fed987a99b5d3eaab301a8f346f29.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-142"
+  },
+  {
+    "id": 410766,
+    "IDcode": "AUKS-143",
+    "title": "年齡差淫亂蕾絲邊性交 ～被蕾絲邊妹子搞到墮落的奴隸願望人妻～ 岬梓 藤木紗英",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c910ded6fbef4e90ae59b5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-143"
+  },
+  {
+    "id": 97074,
+    "IDcode": "AUKS-144",
+    "title": "タチとタチ ～愛欲まみれ近親レズビアン～ 永野つかさ 皆川るい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "乱伦",
+      "姐姐",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68baa473ce3e366423cdf43a/cover.jpg",
+    "actress": [
+      "永野司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-144"
+  },
+  {
+    "id": 410925,
+    "IDcode": "AUKS-145",
+    "title": "蕾絲邊的巢窟 破爛家屋四疊半 ～超淫亂蕾絲邊賣春旅館 4～  加藤椿 伊東沙蘭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab813c31eb0592de63127d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-145"
+  },
+  {
+    "id": 536378,
+    "IDcode": "AUKS-146",
+    "title": "ニューハーフレズビアン ～ニューハーフ女将のペニクリ・アナル温泉旅馆～ 牧野诗音 二宫和香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230721/auks146pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-146"
+  },
+  {
+    "id": 410935,
+    "IDcode": "AUKS-147",
+    "title": "初次約會突然蕾絲邊做愛 ～與蕾絲邊網站見面的人馬上做愛！！～ 有村希 辻櫻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cd89a89def9b1b8bebe18/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-147"
+  },
+  {
+    "id": 536444,
+    "IDcode": "AUKS-148",
+    "title": "ニューハーフレズビアン ～监禁アナル色情饲育～ 咲雪华奈 纱々原ゆり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230730/gBqaZa7O/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-148"
+  },
+  {
+    "id": 536834,
+    "IDcode": "AUKS-149",
+    "title": "ニューハーフレズビアン ～巨チンニューハーフとドスケベ痴女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231015/BLu1T9gt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-149"
+  },
+  {
+    "id": 411040,
+    "IDcode": "AUKS-150",
+    "title": "熟女三重蕾絲邊 ～墮落於地下金融業者女性陷阱的主婦與女教師～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/6897357e55337d7f7bb5067b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-150"
+  },
+  {
+    "id": 76661,
+    "IDcode": "AUKS-151",
+    "title": "レズ売春 淫欲の館 ～レズ風俗で繰り広げられる三つ巴レズセックス～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "潮吹",
+      "已婚妇女",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/5f4b4775/vod.jpg",
+    "actress": [
+      "佐倉陽菜",
+      "明里友香",
+      "黒木歩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-151"
+  },
+  {
+    "id": 66036,
+    "IDcode": "AUKS-152",
+    "title": "ニューハーフレズビアン ～アナルペニバンに悶絶する美人ニューハーフ家庭教師～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "变性者",
+      "肛交",
+      "家教",
+      "女同性恋",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/c8fc5bf1ef8eb61672f3247b2b689bd6.jpg",
+    "actress": [
+      "天馬唯",
+      "咲雪华奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-152"
+  },
+  {
+    "id": 410908,
+    "IDcode": "AUKT-001",
+    "title": "豐滿熟女蕾絲邊 ～墮入白日夢的淫蕩人妻～ 桃井靜香 高瀨遙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/26/68acbbe631eb0592de65b6fc/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-001"
+  },
+  {
+    "id": 410884,
+    "IDcode": "AUKT-002",
+    "title": "蕾絲邊泡泡浴 ～年齡差20歳的職業泡泡浴女郎新人實習～ 星川舞 小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b22e01d342f9636d11fb98/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-002"
+  },
+  {
+    "id": 410946,
+    "IDcode": "AUKT-003",
+    "title": "变态熟女蕾丝边性交 ～名媛太太与淫乱家政妇～ 桃井静香 藤木纱英",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8f3787f3b7c929073fc56/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-003"
+  },
+  {
+    "id": 410985,
+    "IDcode": "AUKT-004",
+    "title": "唾液巨乳蕾絲邊 ～巨乳同胞！口水垂流舔舐技巧超誇張！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a039862cca7792b25bc111/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-004"
+  },
+  {
+    "id": 536457,
+    "IDcode": "AUKT-005",
+    "title": "タチとネコ ～潮吹きレズタチ変态女とレズネコ爱奴～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230917/KwmS3ysd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-005"
+  },
+  {
+    "id": 411039,
+    "IDcode": "AUKT-006",
+    "title": "男之娘 蕾絲邊中毒 ～巨根男之娘×小惡魔美OO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/17/68011048cf22ae3e044c98b5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-006"
   }
 ];

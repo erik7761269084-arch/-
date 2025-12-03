@@ -1,1786 +1,2517 @@
 window.PAGE_DATA = [
   {
-    "id": 537675,
-    "IDcode": "332NAMA-052",
-    "title": "【素人投稿】K・Nさん(24)_调教历1年_新人OL_美乳_猥尻_首绞め_鬼イラマ_拘束玩具责め_颜射_とびっこ羞耻散歩",
+    "id": 575084,
+    "IDcode": "259LUXU-1710",
+    "title": "ラグジュTV 1695 清楚な颜して中身はスケベで敏感な美女とねっとり浓密カラミ！久し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231113/pb_e_332nama-052.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250818/tsKOy9h5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-052"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1710"
   },
   {
-    "id": 537674,
-    "IDcode": "332NAMA-054",
-    "title": "【中出し个人撮影】ユミコ_24歳_保育士_セフレ？_超美尻_エロランジェリー_パイズリ_3発射_SEX_中出し_フェラ_超大量射精",
+    "id": 541323,
+    "IDcode": "259LUXU-1711",
+    "title": "ラグジュTV 1696 ‘プロの男优さんとのセックスに兴味があって…’好奇心旺盛で色気",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231113/pb_e_332nama-054.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231023/ERmCrhtC/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1711"
   },
   {
-    "id": 537673,
-    "IDcode": "332NAMA-056",
-    "title": "【个人撮影】南美(ナミ)ちゃん_19歳_ファミレス店员_乃○坂46・西野七○系_彼氏ん家_ほんわか系美少女_ウブ_电マ",
+    "id": 552932,
+    "IDcode": "259LUXU-1712",
+    "title": "豪华电视1697 决定拍摄自己做爱的照片并出现在AV中！晒伤的丰满美艳身材依然在镜头前大方暴露、不安！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影",
-      "嫩妹"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231113/pb_e_332nama-056.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250811-1/388728f3ddf25375980b98fad247b58d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1712"
   },
   {
-    "id": 521806,
-    "IDcode": "332NAMA-059",
-    "title": "【个人撮影】唯衣/24歳/ガス会社経理/浮気カップル/NTR/男の家/激ピンク美乳首/スレンダー/美ボディ/お风吕场プレイ/3発射/SEX/颜射/フェラ/口内発射/Tバック/今时ムスメ",
+    "id": 541324,
+    "IDcode": "259LUXU-1713",
+    "title": "ラグジュTV 1698 清楚で落ち着いた大人の雰囲気とは里腹に、セフレじゃ物足りないと",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影",
-      "淫妻"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191219-1/442153ce2213e5af838514e96f48df31.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231024/Bu2nhf3p/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1713"
   },
   {
-    "id": 520652,
-    "IDcode": "332NAMA-063",
-    "title": "【个人撮影】莉菜ちゃん24歳塾讲师このギャップがすごい2019超清楚と思いきやドエロ露出ノーパンお散歩エロタイツ3発射SEX腹出しフェラ口内発射x2お风吕プレイ",
+    "id": 511101,
+    "IDcode": "259LUXU-1714",
+    "title": "ラグジュTV 1699 『他の人がやっていないことをやりたいんです…』好奇心旺盛な",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/M0pTHGYF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-063"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-08-13",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/1f64c440b52153288e0ef3b21c43868b.jpg",
+    "actress": [
+      "伊波香奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1714"
   },
   {
-    "id": 520592,
-    "IDcode": "332NAMA-064",
-    "title": "【个人撮影】由美ちゃん19歳専门学生必见！スーパー美少女クォーターっぽい？イチャラブ彼氏ん家お碗型おっぱいお风吕场プレイ3発射SEXフェラ口内発射x2大量射精",
+    "id": 541325,
+    "IDcode": "259LUXU-1715",
+    "title": "ラグジュTV 1701 魅惑的な巨乳が目を惹く愈し系美容师が彼氏とのセックスだけでは物",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影",
-      "嫩妹"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/ovVZ4tk0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-064"
-  },
-  {
-    "id": 520593,
-    "IDcode": "332NAMA-065",
-    "title": "【中出し个人撮影】真希23歳ファッションデザイナーいちゃラブカップル彼氏ん家爆乳！！！ (推定Hカップ)パイズリ3発射SEXフェラ口内発射パイ射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/ijikF8P9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-065"
-  },
-  {
-    "id": 520629,
-    "IDcode": "332NAMA-066",
-    "title": "【个人撮影】加奈21歳社会福祉学部学生カップル？円光？アスリート体型腹筋！低身长超清楚アナルスポブラ美尻ローターお风吕场プレイ3発射SEX口内発射2回おとなし可爱い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "嫩妹"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/3BbfTzpa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-066"
-  },
-  {
-    "id": 520653,
-    "IDcode": "332NAMA-067",
-    "title": "【中出し！个人撮影】早希20歳キャバ嬢爆乳！！！美少女大量中出し！お风吕场プレイオイルプレイ3発射生本番パイ射口内発射膣内射精激おすすめ！！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/cgaFUoEX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-067"
-  },
-  {
-    "id": 520608,
-    "IDcode": "332NAMA-070",
-    "title": "サチ24歳美容师スタイル抜群！鬼クビレ超美尻美乳ノリ良しハイヒールエロコスナースバスルーム3発射SEXフェラ口内発射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/9StdcxpV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-070"
-  },
-  {
-    "id": 520626,
-    "IDcode": "332NAMA-071",
-    "title": "【中出し！个人撮影】リサ19歳フリーター激烈おすすめ！！！スーパー美少女スレンダー色白美肌美クビレツインテール白ギャルどエロデートフェラ口内射精SEX中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "嫩妹"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/dBtGlgid/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-071"
-  },
-  {
-    "id": 521770,
-    "IDcode": "332NAMA-073",
-    "title": "【个人撮影】満里奈/24歳/イラストレーター/カップル/公园デート/どエロ乳首/メガネっ娘/ツインテール/お泊まり/目隠し/拘束プレイ/お风吕场プレイ/3発射/SEX/フェラ/",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191014-1/77b8546c1d2b4bcf3313c3dac0486a1e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-073"
-  },
-  {
-    "id": 530282,
-    "IDcode": "332NAMA-074",
-    "title": "【个人撮影】マナ/24歳/メイド吃茶勤务/爆乳！！！/スーパー美少女/激どエロ/超美少女/セフレ？カップル？/パイズリ/3発射/SEX/窗际プレイ/フェラ/口内発射/Tバック/电マ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191211-1/bc03ab54a69cc03d12e2091005c561d9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-074"
-  },
-  {
-    "id": 521834,
-    "IDcode": "332NAMA-075",
-    "title": "【中出し个人撮影】ヒカリ/23歳/キャバ嬢/爆乳！！！/ギャル/セフレ？/パイズリ/じゅぼフェラ/びちょマン/デート/デカチン/お风吕场プレイ/彼氏ん家/大量射精/3発射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200227-1/c4d9385a7e4f8f02b7de7dae52b5e7dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-075"
-  },
-  {
-    "id": 530280,
-    "IDcode": "332NAMA-076",
-    "title": "【中出し个人撮影】きらり/20歳/アイス屋さん/10年に一人の逸材/スーパー美少女/激イキ/どエロボディ/パイパン/パイズリ/じゅぽフェラ/口内射精/3発射/デート/新宿/お风吕场プレイ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191208-1/6478cc1a99dc7b08e391867e5a1d575b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-076"
-  },
-  {
-    "id": 521835,
-    "IDcode": "332NAMA-078",
-    "title": "【中出し个人撮影】みずき/21歳/学生(英文学部)/激エロ早漏美少女/美巨乳/美乳首/目隠し/拘束プレイ/お风吕场プレイ/3発射/SEX/口内射精/お扫除フェラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
+      "高端素人",
       "巨乳",
-      "嫩妹"
+      "素人企画"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200227-1/bf4f630bbbf1a8b22eccb09dfc56fb6f.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231024/8W73Rp7P/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-078"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1715"
   },
   {
-    "id": 521839,
-    "IDcode": "332NAMA-079",
-    "title": "【中出し！个人撮影】アカリ/25歳/バーテンダー/鬼クビレ/美乳/早漏激イキ娘/お风吕场セックス/2発射/SEX/大量中出し/フェラ/口内射精/腰のいれ方がエグい爆エロ美女！",
+    "id": 541326,
+    "IDcode": "259LUXU-1716",
+    "title": "ラグジュTV 1721 女性アイドルを推すむっちむちグラマラスボディを持つ保育士が登场",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200229-1/166990b8951b085e90c16854c0f8d056.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-079"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "菜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1716"
   },
   {
-    "id": 521838,
-    "IDcode": "332NAMA-080",
-    "title": "【中出し！个人撮影】まい/22歳/不动产受付/アナル开発！/さくら色美乳首/ずっぽりアナルパール/ディルド/2本挿し/お风吕场マットプレイ/2発射/SEX/じゅぼフェラ/口内射精/超美少女",
+    "id": 511111,
+    "IDcode": "259LUXU-1717",
+    "title": "ラグジュTV 1702 「彼氏以外ともセックスしたい！」明るいと笑顔と清楚な見た目",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200229-1/49ec134effb71bfd2f0568d980942d47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-080"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-08-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "由衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1717"
   },
   {
-    "id": 575821,
-    "IDcode": "332NAMA-081",
-    "title": "居候 ありさちゃん 19歳 なまなま",
+    "id": 541327,
+    "IDcode": "259LUXU-1718",
+    "title": "ラグジュTV 1700 上京したての肉食スレンダーモデルが登场！美意识が行き届いた体を",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影",
-      "嫩妹"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20220926/b035xPxb/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231024/kd6QP2zb/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-081"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1718"
   },
   {
-    "id": 509295,
-    "IDcode": "332NAMA-086",
-    "title": "【個人撮影】ミサ22歳中だしR大学経済学部圧倒的美少女!!!スーパー美ボディエロランジェリーお風呂場プレイフェラ3発射口内射精x2",
+    "id": 500916,
+    "IDcode": "259LUXU-1719",
+    "title": "ラグジュTV 1703 控えめな感じだけどムッツリスケベな巨乳ピアノ講師が激しいセ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "个人撮影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fc79c3acb4d6741c9a12977ab3010b42.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-086"
-  },
-  {
-    "id": 531004,
-    "IDcode": "332NAMA-087",
-    "title": "某Fラン大学4年生 サヤカちゃん 22歳 なまなま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200805/332NAMA-087.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-087"
-  },
-  {
-    "id": 538430,
-    "IDcode": "332NAMA-088",
-    "title": "【中出し！个人撮影】りの_22歳_新入社员_美巨乳(推定Fカップ)_口内射精_中出し_3発射_入社初日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240414/pb_e_332nama-088.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-088"
-  },
-  {
-    "id": 538416,
-    "IDcode": "332NAMA-090",
-    "title": "【中出し！个人撮影】レイ_20歳_医疗専门学生_アニメ声_オタク_腐女子_美乳_お风吕イチャイチャ_3発射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240410/pb_e_332nama-090.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-090"
-  },
-  {
-    "id": 538373,
-    "IDcode": "332NAMA-095",
-    "title": "【中出し！个人撮影】めろんちゃん_19歳_现役JDデリ嬢_爆乳Gカップ！_小动物系美少女_撮影オプション_里オプ中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
+      "高端素人",
       "巨乳",
-      "嫩妹"
+      "素人企画"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240329/1597055277-pb_e_332nama-095.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-095"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/7872512c7033bab589e5930e531d9db6.jpg",
+    "actress": [
+      "彩夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1719"
   },
   {
-    "id": 494217,
-    "IDcode": "336DTT-001",
-    "title": "一位活跃的护士已婚妇女一直在暴露自己的幻想，一位35岁的女人首次亮相AV，发现了 莲美柚香",
+    "id": 495894,
+    "IDcode": "259LUXU-1720",
+    "title": "ラグジュTV 1705 『Mなので責められたいです…』おっとりした癒し系美女が初登",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/fe0d0a58450d073b1fb1d6045bafb6e1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-001"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/086727001d2986b2310b9ee45791228c.jpg",
+    "actress": [
+      "柴崎佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1720"
   },
   {
-    "id": 412320,
-    "IDcode": "336DTT-002",
-    "title": "我在丈夫面前被奶油奶油…「现在原谅我…不要只是进去…」 桥本丽华",
+    "id": 541328,
+    "IDcode": "259LUXU-1721",
+    "title": "ラグジュTV 1707 妖艶なルックス、美意识が行き届いた极上スレンダー恵体、魅惑的な",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/84990f779f536cb3c6da0fcb13b76cdb.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231025/pvuCEtNC/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1721"
   },
   {
-    "id": 494219,
-    "IDcode": "336DTT-003",
-    "title": "一个成熟而可爱的40岁，活跃的小学老师，一位敏感，纯洁，40多岁的已婚妇女， 一ノ瀬あやめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/4c45b973ede55938701b19ac5d3cfd0c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-003"
-  },
-  {
-    "id": 412321,
-    "IDcode": "336DTT-004",
-    "title": "她沉迷于强奸和性高潮与她的主人… 響つかさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/e638a83bca8e2091f82ceef916b16e0b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-004"
-  },
-  {
-    "id": 412324,
-    "IDcode": "336DTT-005",
-    "title": "无论是在学生面前还是在火车上，他到处都会得到加热！呢变态的私人导师主题[英语] 吉冈杏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/ea3dd9b3150c3d742fc4d57aa6a716e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-005"
-  },
-  {
-    "id": 472027,
-    "IDcode": "336DTT-006",
-    "title": "8头，高172厘米，漂亮的腿，单身母亲，女总统Nanami Yuki首次亮相。她 七海祐希",
+    "id": 541329,
+    "IDcode": "259LUXU-1722",
+    "title": "ラグジュTV 1708 ‘彼氏はいますが背徳感で兴奋しちゃうんです…’ 浮気は楽胜？！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250305/9k2ess9v/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231025/lhuj0t15/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1722"
   },
   {
-    "id": 494274,
-    "IDcode": "336DTT-008",
-    "title": "9头，高171厘米，苗条，超级美丽的腿，以前的已婚妇女，Ino Ayami，AV 伊能绫美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/82324b966e3f951d7b39ad7859fbbd2e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-008"
-  },
-  {
-    "id": 494231,
-    "IDcode": "336DTT-009",
-    "title": "她的丈夫批准的美丽，温柔，虐待狂的女医生[专业：预科学] aiura mari 相浦茉莉花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/fe87443b06e527b636dd70f95407eb08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-009"
-  },
-  {
-    "id": 494271,
-    "IDcode": "336DTT-010",
-    "title": "丰满的GUP X超级妖undiven的神圣屁股前国际飞行舱服务员，已婚妇女S 筱崎环奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/a371e4d32880b6aa5daa224bd00aa988.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-010"
-  },
-  {
-    "id": 494220,
-    "IDcode": "336DTT-011",
-    "title": "诱人的已婚妇女：sister子违反了姐姐的丈夫并要求奶油 滝川穂乃果",
+    "id": 541330,
+    "IDcode": "259LUXU-1723",
+    "title": "ラグジュTV 1709 美人仲居がうっとり颜で巨根を味わい、女盛りを迎えた色気立つ体を",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/abbd08ade823f7aef71d91baa6405f0a.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231025/5IRIc4TF/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1723"
   },
   {
-    "id": 494215,
-    "IDcode": "336DTT-012",
-    "title": "一位36岁的已婚妇女与AV首次亮相的一位美丽的骑马教练在她变态的丈夫的推荐下出现 柚木芽衣",
+    "id": 541331,
+    "IDcode": "259LUXU-1724",
+    "title": "ラグジュTV 1710 ‘エッチな声优をしています…’艶のある萌え系ボイスの美女が初登",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/1203316464a9b442a29389b33d3a0cc4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-012"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-19",
+    "cover_url": "https://tuaskbgnekr.com/20231026/hscXl8vL/1.jpg",
+    "actress": [
+      "清水桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1724"
   },
   {
-    "id": 412316,
-    "IDcode": "336DTT-013",
-    "title": "一位成熟又可爱的40岁的当前小学老师Ichinose Ayame坦率地承认她 一ノ瀬あやめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/f0c9f11f6a247886726c5f6d4a227e39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-013"
-  },
-  {
-    "id": 477736,
-    "IDcode": "336DTT-015",
-    "title": "令人震惊的AV首次亮相 一个对观看谨慎的性欲怪物！连续无限高潮震惊的第一芽 高野姫奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250831-1/6eaa656bfbffbe8c0085bdcde356764b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-015"
-  },
-  {
-    "id": 402171,
-    "IDcode": "336DTT-016",
-    "title": "顽固的屁股X电子杯受欢迎的举止教练，有孩子的已婚妇女，35岁的卡纳里科（Kanar 奏莉子",
+    "id": 541332,
+    "IDcode": "259LUXU-1725",
+    "title": "ラグジュTV 1711 AVを観るのが好きで刺激的な事がしたいと美人エステティシャンが",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/d02fd2508eda6b50bcb3cb8f4135c752.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1725"
   },
   {
-    "id": 472023,
-    "IDcode": "336DTT-018",
-    "title": "F Cup X Lewd Ass，在一个美丽的妻子剃光的猫的餐桌上连续四个原始奶 北川真帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250305/rZU7imaQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-018"
-  },
-  {
-    "id": 499888,
-    "IDcode": "336DTT-019",
-    "title": "我来面试招募额外活动。一名39岁的已婚妇女，有大乳房，她的性爱八年[极其色情的才 赤瀬翔子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/418e3fd5f9f717c052c7b143db6aea53.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-019"
-  },
-  {
-    "id": 520783,
-    "IDcode": "336DTT-020",
-    "title": "自分の魅力に気づいていない巨乳妻 高身长8头身Gカップ人妻 和泉つかさ 30歳 AVデビュ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250305/UfhpQZLB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-020"
-  },
-  {
-    "id": 494214,
-    "IDcode": "336DTT-026",
-    "title": "雪皮的G杯钢琴教练已婚女子Ichinose Sumire乞求奶油菜。连续三个连续 一ノ瀬堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/a5f5de547d9f5590f4910261fccceb85.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-026"
-  },
-  {
-    "id": 494263,
-    "IDcode": "336DTT-027",
-    "title": "超级敏感，秘书，已婚妇女，Narumiya Tsubasa，连续4个奶油蛋糕， 成宫つばさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/3da02e939afc52c5906ab464230f7c58.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-027"
-  },
-  {
-    "id": 471986,
-    "IDcode": "336DTT-028",
-    "title": "一个纯洁的30多岁的受虐狂妻子「我从窒息的」婚礼策划者33岁的婚礼策划者变态的自慰 恵凛音",
+    "id": 541334,
+    "IDcode": "259LUXU-1726",
+    "title": "ラグジュTV 1712 人懐っこい笑颜が魅力的なお姊様…しかし脱がせれば见事なグラマラ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250305/vDVrDcCh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-028"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-22",
+    "cover_url": "https://tuaskbgnekr.com/20231026/8xjdR9LH/1.jpg",
+    "actress": [
+      "美海"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1726"
   },
   {
-    "id": 477716,
-    "IDcode": "336DTT-029",
-    "title": "一家着名大学医院的秘书「全身阴蒂」 Narimiya Tsubasa Squi 成宫つばさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/c1e7f2dffa21a81b109f2ad6889d94ae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-029"
-  },
-  {
-    "id": 471990,
-    "IDcode": "336DTT-030",
-    "title": "最好的已婚妇女约会。睡觉3p x creampie与一个丰满的妻子交织在一起 一ノ瀬堇",
+    "id": 541335,
+    "IDcode": "259LUXU-1727",
+    "title": "ラグジュTV 1713 脱がせた时の色っぽいスタイルとのギャップが魅力的な性欲强めの美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱交"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250305/oaeDEcK3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-030"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "勅使河原澪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1727"
   },
   {
-    "id": 477708,
-    "IDcode": "336DTT-031",
-    "title": "一家着名百货商店的接待员，一家29岁的萨库拉巴·米纳米（Sakuraba Minami 桜庭みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/27ea327a39457f74eb0bd4efdde5bd02.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-031"
-  },
-  {
-    "id": 472024,
-    "IDcode": "336DTT-032",
-    "title": "吃一个漂亮的住院病人！诱人的变态[骨科]护士妻子tokasaka airi a 高坂あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250904-1/00f49f750f5050175052ed340b3ced47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-032"
-  },
-  {
-    "id": 402166,
-    "IDcode": "336DTT-034",
-    "title": "无性别的30岁高大，美丽的已婚妇女，有一个着名的汉字卡（Shiroyama） 城山若菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/87d80a69c485abda17216c9e1c4818a2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-034"
-  },
-  {
-    "id": 521118,
-    "IDcode": "336DTT-037",
-    "title": "设楽亚里沙扮演电视台制片主任：G奶巨乳人妻狂野战",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250904-1/404b7a5b3c80e64a6fa7572c001b897b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-037"
-  },
-  {
-    "id": 402188,
-    "IDcode": "336DTT-039",
-    "title": "Momoko在49岁时坠入爱河。 菊市桃子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/0c82df399c3e6b6aa1669b56cf23727d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-039"
-  },
-  {
-    "id": 532207,
-    "IDcode": "336DTT-040",
-    "title": "赤瀬翔子 火辣身材X巨臀诱惑！内衣湿透求内射连续中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250904-1/4968695e3604021e1873c3e605b8f962.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-040"
-  },
-  {
-    "id": 521098,
-    "IDcode": "336DTT-043",
-    "title": "神崎ひかる 娱乐公司经理的潜规则：‘让我用身体证明实力…’巨乳诱惑",
+    "id": 541333,
+    "IDcode": "259LUXU-1728",
+    "title": "ラグジュTV 1714 男なら谁しも视线を夺われる！冲撃のバスト101cm美女が登场！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250907-1/04d93d4d9932b882b7f9c1b5892fb32b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-043"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠崎メイカ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1728"
   },
   {
-    "id": 477741,
-    "IDcode": "336DTT-044",
-    "title": "活跃的国际飞行舱服务员，美丽的双腿已婚妇女大木马米娜（Hasegawa Min 长谷川美菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/661a2133b6fc500235c98b51fc86a6e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-044"
-  },
-  {
-    "id": 494261,
-    "IDcode": "336DTT-047",
-    "title": "活跃的小学老师，隐藏变态的角色扮演者已婚妇女，奥克加瓦·鲁基诺（Okugawa 奥川るきの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/672d8d25c938fb1145ac6e1e34b84800.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-047"
-  },
-  {
-    "id": 402153,
-    "IDcode": "336DTT-049",
-    "title": "由她的丈夫批准的国宝级HUP已婚女性Lingeriena，连续三遍乞求Cre 八神沙织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/8979dc8ecb3a2db3b97e7ca08e4f132d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-049"
-  },
-  {
-    "id": 494211,
-    "IDcode": "336DTT-051",
-    "title": "与丈夫是NTR爱好者的四个浸渍性！呢Mimori Kei 36岁的已婚女性Crea 美森系",
+    "id": 541337,
+    "IDcode": "259LUXU-1729",
+    "title": "ラグジュTV 1715 ネットリとしたセックスが好きな美女と恋人の様な浓厚セックス！デ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇",
-      "淫妻"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/91e4069b47097347d15790e7e6cef10b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-051"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "絵里香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1729"
   },
   {
-    "id": 412322,
-    "IDcode": "336DTT-052",
-    "title": "透明，透明，独特的色情身体 活跃的游泳学校教练Sugisaki Nagis 杉咲なぎさ",
+    "id": 541338,
+    "IDcode": "259LUXU-1730",
+    "title": "ラグジュTV 1716 ‘年上の男性が好きなんです…’オジ様好きな美人OLがプロとのセ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/3d5fe97dc1539c792358e31965b9497e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-052"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "皆月有紗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1730"
   },
   {
-    "id": 540418,
-    "IDcode": "336DTT-053",
-    "title": "妖蛇般紧缠榨取！欲求不满单身妈妈今井优里奈首度下海 巨乳人妻饥渴实战全记录",
+    "id": 541336,
+    "IDcode": "259LUXU-1731",
+    "title": "ラグジュTV 1717 谁もが目を惹く169cm、Iカップ巨乳美女が登场！服を脱がせれ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "高橋里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1731"
+  },
+  {
+    "id": 541339,
+    "IDcode": "259LUXU-1732",
+    "title": "ラグジュTV 1718 金融业界で动く美女がラグジュTVに登场！美丽なEカップと肉付良",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-09-30",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "及川亜理紗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1732"
+  },
+  {
+    "id": 541341,
+    "IDcode": "259LUXU-1733",
+    "title": "ラグジュTV 1719 ‘梦を叶えるための资金が必要で…’昼间はOL夜はラウンジ嬢のス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-02",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "牧野杏樹"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1733"
+  },
+  {
+    "id": 520780,
+    "IDcode": "259LUXU-1734",
+    "title": "ラグジュTV 1756 エロの伸びしろ半端ないって！！！全身剥き出し性感帯！！！男なら分かる！！ちょうどいい肉付きのスーパーホテルウーマンが登場！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-01-15",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "あずさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1734"
+  },
+  {
+    "id": 541464,
+    "IDcode": "259LUXU-1736",
+    "title": "ラグジュTV 1736 ‘人肌を感じたいです…’透明感溢れるおっとり愈し系美女が登场！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1736"
+  },
+  {
+    "id": 541340,
+    "IDcode": "259LUXU-1737",
+    "title": "ラグジュTV 1722 明るい笑颜と透明感が魅力的な受付嬢が登场！指でナカをかき混ぜら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "戸田綾香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1737"
+  },
+  {
+    "id": 541354,
+    "IDcode": "259LUXU-1738",
+    "title": "ラグジュTV 1723 周りを照らすような明るい性格と笑颜がチャーミングな美人エステテ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-12",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宮田そら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1738"
+  },
+  {
+    "id": 511109,
+    "IDcode": "259LUXU-1739",
+    "title": "ラグジュTV 1725 セフレに言われてAVに応募してきた美人受付嬢！上品そうな出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-17",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250508-1/106424da2bdc307b197a1e89d9b082eb.jpg",
+    "actress": [
+      "宮村友梨佳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1739"
+  },
+  {
+    "id": 541355,
+    "IDcode": "259LUXU-1740",
+    "title": "ラグジュTV 1724 “色々な体験がしたい…”落ち着いた雰囲気が魅力的なフォトグラフ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "如月まいか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1740"
+  },
+  {
+    "id": 541356,
+    "IDcode": "259LUXU-1741",
+    "title": "ラグジュTV 1726 溜まった淋しさと肉欲を开放するアパレル美女！缔まったカラダは感",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-21",
+    "cover_url": "https://tuaskbgnekr.com/20231110/W1P7H7Lz/1.jpg",
+    "actress": [
+      "百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1741"
+  },
+  {
+    "id": 541357,
+    "IDcode": "259LUXU-1742",
+    "title": "ラグジュTV 1727 ‘毎日ムラムラしてるんです…’性欲が抑えきれないスレンダー美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-22",
+    "cover_url": "https://tuaskbgnekr.com/20231110/jEjsOG3u/1.jpg",
+    "actress": [
+      "春乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1742"
+  },
+  {
+    "id": 103515,
+    "IDcode": "259LUXU-1743",
+    "title": "ラグジュTV 1728 瑞々しく透き通る張りのある美しいバストとヒップを持つ圧巻のグラマラススタイル！スイッチが入れば妖艶に豹変し、女盛りを迎えた体が快楽を貪る！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人",
+      "巨大屁股",
+      "业余",
+      "巨乳",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "みさと"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1743"
+  },
+  {
+    "id": 479399,
+    "IDcode": "259LUXU-1744",
+    "title": "ラグジュTV 1729 元グラビアアイドルがプロとの熱い絡みをしてみたいとAV出演",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/ebb34154dc19f57ad718f0fcce0a8728.jpg",
+    "actress": [
+      "璃奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1744"
+  },
+  {
+    "id": 66051,
+    "IDcode": "259LUXU-1745",
+    "title": "259LUXU-1745 ラグジュTV 1730 清楚で知的、そしてグローバルに活躍する美女が登場！スレンダ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/489c817f4047f1b7beb56839952c91f5.jpg",
+    "actress": [
+      "优里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1745"
+  },
+  {
+    "id": 527983,
+    "IDcode": "259LUXU-1746",
+    "title": "[] ラグジュTV 1731 まるでモデルのようなスタイルを持つ艶やかな美女が登场！ナナ 28歳 OL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "なな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1746"
+  },
+  {
+    "id": 541466,
+    "IDcode": "259LUXU-1747",
+    "title": "ラグジュTV 1732 オナニー代わりにセフレを呼ぶ美人歯科卫生士！プライベートでは味",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-10-30",
+    "cover_url": "https://tuaskbgnekr.com/20240127/0ScYwGBe/1.jpg",
+    "actress": [
+      "和田翔子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1747"
+  },
+  {
+    "id": 541467,
+    "IDcode": "259LUXU-1748",
+    "title": "ラグジュTV 1733 天真烂漫美女が性欲を押さえきれずに応募！ニコニコ笑颜が、悦欲に",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-11-03",
+    "cover_url": "https://tuaskbgnekr.com/20240127/FBLWuat7/1.jpg",
+    "actress": [
+      "小島美子",
+      "西園華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1748"
+  },
+  {
+    "id": 170603,
+    "IDcode": "259LUXU-1749",
+    "title": "ラグジュTV 1735 周りを照らす明るい笑顔が魅力的な美人秘書が「愛人関係を続け",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/ccd5042bc66906360d4ded428a24c20d.jpg",
+    "actress": [
+      "並木愛奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1749"
+  },
+  {
+    "id": 541468,
+    "IDcode": "259LUXU-1750",
+    "title": "ラグジュTV 1734 ‘自分に自信をつけたくて…。’マシュマロボディの美巨乳エスティ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240127/QtNNgcHR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1750"
+  },
+  {
+    "id": 520865,
+    "IDcode": "259LUXU-1751",
+    "title": "ラグジュTV 1737 フェロモンが溢れ出すハーフ美女アパレル贩売员が登场！全身性感帯のGカップ美女は、浓厚爱抚に甘い艶声を漏らし、激しいピストンと硬い巨根で快感の波に溺れる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1751"
+  },
+  {
+    "id": 520826,
+    "IDcode": "259LUXU-1752",
+    "title": "ラグジュTV 1738 色白美人の理系塾讲师が登场！敏感乳首への口撃にマ○コは糸を引くほどの大洪水。お淑やかな姿からは想像がつかないほどの乱れっぷりで、2年分の性欲を大解放。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1752"
+  },
+  {
+    "id": 520860,
+    "IDcode": "259LUXU-1753",
+    "title": "ラグジュTV 1739 彼氏がついてこられないほど性欲を持て余すGカップグラドルが登场。耻ずかしいことに感じてしまう卑猥なM気质美女は、手マンで潮を吹き、大好きなご奉仕SEXで男を沼らせる。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1753"
+  },
+  {
+    "id": 520872,
+    "IDcode": "259LUXU-1754",
+    "title": "ラグジュTV 1740 “いろんな男优さんとSEXしたい”“镜の前で●●れたい”屈托なく话す知性溢れる美女は三人の役员に尽くす変态秘书だった。耻じらいながらも红潮する全身性感帯の美ボディから抑えきれない吐息と爱液が溢れ出る。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1754"
+  },
+  {
+    "id": 541469,
+    "IDcode": "259LUXU-1755",
+    "title": "ラグジュTV 1741 美人受付嬢が刺激を求めてAV出演。溜まった性欲を解放し男の上で",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240128/PNEewMoH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1755"
+  },
+  {
+    "id": 541470,
+    "IDcode": "259LUXU-1756",
+    "title": "ラグジュTV 1742 “ノーマルなことしかしたことない…。”スレンダー美尻童颜美女が",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240128/nhze914e/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1756"
+  },
+  {
+    "id": 520824,
+    "IDcode": "259LUXU-1757",
+    "title": "ラグジュTV 1743 “おち●ち●が入ると幸せと満足感が…。”と语る清楚美女が登场。最初は耻じらいが残りつつも、男根が出ると目の色が変わり…。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-12-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "立花萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1757"
+  },
+  {
+    "id": 520825,
+    "IDcode": "259LUXU-1758",
+    "title": "ラグジュTV 1744 美容クリニック勤务の美女がAV出演！激しく攻められたい…と求める身体はあっという间にびしょびしょに！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1758"
+  },
+  {
+    "id": 511100,
+    "IDcode": "259LUXU-1759",
+    "title": "ラグジュTV 1745 「SEXをするために来ました…。」真っすぐな目で語るスレン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-12-08",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/a0d001f940ecc3896929cd032a27026a.jpg",
+    "actress": [
+      "一条恋花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1759"
+  },
+  {
+    "id": 511104,
+    "IDcode": "259LUXU-1760",
+    "title": "ラグジュTV 1746 【見た目からは想像できないほどの濃厚な性技】清楚系銀行員が",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-12-11",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/6607bc353cbdba5c3f82a3f0e6a5c66c.jpg",
+    "actress": [
+      "喜多川あかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1760"
+  },
+  {
+    "id": 479410,
+    "IDcode": "259LUXU-1761",
+    "title": "ラグジュTV 1748 145cmミニマム美ボディの恥ずかしがり屋お姉さんがラグジ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/35427c9093b04cfd37bfee262ff9a089.jpg",
+    "actress": [
+      "瑠衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1761"
+  },
+  {
+    "id": 479392,
+    "IDcode": "259LUXU-1762",
+    "title": "ラグジュTV 1749 「Hが上手な人としてみたいんです…」恥ずかしそうに頬を赤ら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/0ab2fd486ccebbda354e099f342edd36.jpg",
+    "actress": [
+      "月野りこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1762"
+  },
+  {
+    "id": 520838,
+    "IDcode": "259LUXU-1763",
+    "title": "ラグジュTV 1750 乱れるG乳！玩具で痉挛潮吹き！婚约破弃されたウェディングプランナーの性欲が弾ける！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-12-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1763"
+  },
+  {
+    "id": 520806,
+    "IDcode": "259LUXU-1764",
+    "title": "ラグジュTV 1751 “能动的で燃え上がるようなHがしたい…”そう语るのはモデル事务所経営の妖艶な美女。自分も表舞台に立ちたいと撮影に临む彼女はキスで女スイッチがON！乱れる大人SEX。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-01-02",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1764"
+  },
+  {
+    "id": 520792,
+    "IDcode": "259LUXU-1765",
+    "title": "ラグジュTV 1753 “エッチする人がいなくて…”身长167センチ股下87センチのモデル级ボディ美女！！カラダも白く、细く、美しい。溜まった性欲をAVで発散。久しぶりのセックスに男根を喉奥まで味わう薬剤师。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-01-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "薮内寧々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1765"
+  },
+  {
+    "id": 479397,
+    "IDcode": "259LUXU-1766",
+    "title": "ラグジュTV 1752 どうしようもないほどエロい…。百貨店で美容部員として働くラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/dbe37194b16fc0715bcc8e82dc009c5c.jpg",
+    "actress": [
+      "小林日菜子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1766"
+  },
+  {
+    "id": 520789,
+    "IDcode": "259LUXU-1767",
+    "title": "ラグジュTV 1754 “Hがしたい…です。”笑颜が絶えない透明感あふれるFカップ美女が出演！高岭の花が一糸乱れます！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-01-10",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "五十嵐亜梨沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1767"
+  },
+  {
+    "id": 520779,
+    "IDcode": "259LUXU-1768",
+    "title": "ラグジュTV 1755 外见は清楚系、中身は肉食系のスレンダー美女が登场！一たび入れると喰らいついて离さないバキュームマ●コ！“もっと突いて…。”と言わんばかりにM体质ボディがイキ乱れる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-01-12",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "冬月陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1768"
+  },
+  {
+    "id": 541562,
+    "IDcode": "259LUXU-1769",
+    "title": "ラグジュTV 1747 “たくさんの人に见られると思うとワクワクします。”そう语る身长",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2023-12-16",
+    "cover_url": "https://tuaskbgnekr.com/20240328/r0NOQqWP/1.jpg",
+    "actress": [
+      "前田美波",
+      "みなみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1769"
+  },
+  {
+    "id": 520748,
+    "IDcode": "259LUXU-1772",
+    "title": "ラグジュTV 1759 “刺激が欲しくて…。”谁もが魅了されるGカップスレンダー美女は欲しがり屋さんの変态ナース。半年ぶりのセックスと肉棒に期待が抑えられず自ら腰を振り、爱液が溢れ止まらない。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-02-06",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "涼風結菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1772"
+  },
+  {
+    "id": 500920,
+    "IDcode": "259LUXU-1773",
+    "title": "ラグジュTV 1758 「性欲を満たしたい…。」グラマラスな美巨乳で誘惑する小悪魔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/2cd7683cacd0919d7b1666d2562585ce.jpg",
+    "actress": [
+      "佐々木恵梨香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1773"
+  },
+  {
+    "id": 520749,
+    "IDcode": "259LUXU-1774",
+    "title": "ラグジュTV 1760 证券会社勤务の黒髪清楚美女が、キスを合図にびしょ濡れ美女に大変身！耻ずかしい言叶を言わされたご褒美に、デカ○ンを挿入！プロのセックステクニックに喘ぎ声が止められない！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-02-08",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "東條えみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1774"
+  },
+  {
+    "id": 520736,
+    "IDcode": "259LUXU-1775",
+    "title": "ラグジュTV 1761 纯度100%な清楚系！现役女性声优さんがAV出演！感度抜群のカラダから溢れる萌え系喘ぎ声！演技の学びのための出演が、プロのテクニックでトロトロアへ颜セックスに！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-02-14",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "葵由希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1775"
+  },
+  {
+    "id": 520723,
+    "IDcode": "259LUXU-1776",
+    "title": "ラグジュTV 1762 “彼氏に言われて応募しました”という忠実で従顺なFカップスレンダー美女が登场！彼氏より大きいチ○ポに、マ○コは我慢できず大洪水。命令で出演したのに、マジイキ连発でもう彼氏には戻れないかもしれません。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-02-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "澪川遙",
+      "春川美央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1776"
+  },
+  {
+    "id": 520722,
+    "IDcode": "259LUXU-1777",
+    "title": "ラグジュTV 1763 おっとりした雰囲気のHカップ看护师が登场。初めてのオイルSEXで艶やかに光り揺れる乳房。我慢出来ず大量潮吹きでガクガク絶顶SEX！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-02-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "伊织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1777"
+  },
+  {
+    "id": 520710,
+    "IDcode": "259LUXU-1778",
+    "title": "ラグジュTV 1764 透明感のある美白Fカップが眩しい！大好物のチ●ポに无心でしゃぶりつく痴女ゲームプログラマーはゲームもセックスも全身全霊！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-03-04",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "羽佐美めい",
+      "芽依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1778"
+  },
+  {
+    "id": 495892,
+    "IDcode": "259LUXU-1779",
+    "title": "ラグジュTV 1765 秀外恵中のFカップ美女が登場！普段は仕事に打ち込むバリキャ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/142d802f8602a7561dc1410b15e213cc.jpg",
+    "actress": [
+      "朝比奈結花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1779"
+  },
+  {
+    "id": 500918,
+    "IDcode": "259LUXU-1781",
+    "title": "ラグジュTV 1766 ま●こはビショビショ、乳首はビンビン、ケツ穴はヒクヒク。ド",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/9ad20910601ba73243f81136e3eeb95d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1781"
+  },
+  {
+    "id": 495897,
+    "IDcode": "259LUXU-1782",
+    "title": "ラグジュTV 1767 主役は私！現役舞台女優が一心不乱にち●こを求めて貪りつく！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/de1708f227a2a3ef1bfa97ef0dc66c22.jpg",
+    "actress": [
+      "海咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1782"
+  },
+  {
+    "id": 479401,
+    "IDcode": "259LUXU-1783",
+    "title": "ラグジュTV 1768 はち切れんばかりのHカップ、美しいくびれから突き出る美尻。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/4f2d7ca0c9d077a552ca38b86ef98dfe.jpg",
+    "actress": [
+      "つかさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1783"
+  },
+  {
+    "id": 511106,
+    "IDcode": "259LUXU-1784",
+    "title": "ラグジュTV 1770 スタイル抜群！溢れ出る色気！誰もが振り向く現役美人ゴルフキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-04-24",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/b4fbec92439213cbc88aa2715dfdd969.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1784"
+  },
+  {
+    "id": 479411,
+    "IDcode": "259LUXU-1785",
+    "title": "ラグジュTV 1771 男の欲望を詰め込んだ豊満ボディ。知的なOLさんの卑猥なメス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/6d98d4b21011f3f5dba51fbd2606bceb.jpg",
+    "actress": [
+      "香蓮"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1785"
+  },
+  {
+    "id": 511099,
+    "IDcode": "259LUXU-1786",
+    "title": "ラグジュTV 1769 「普通のセックスじゃ満足できないのかなって…。」あどけない",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2024-04-20",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/b703e1d8ab262f178de9b396d0ec5f16.jpg",
+    "actress": [
+      "白都四季",
+      "静葉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1786"
+  },
+  {
+    "id": 541875,
+    "IDcode": "259LUXU-1787",
+    "title": "ラグジュTV 1774 “マ●コの奥に届くモノ”ただそれだけを求めてやってきた美しき奥",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/K37hEtMR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1787"
+  },
+  {
+    "id": 541760,
+    "IDcode": "259LUXU-1788",
+    "title": "ラグジュTV 1773 华奢な欲求不満スレンダーボディがデカチンで乱れイク！本能のまま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240601/zphnlCqI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1788"
+  },
+  {
+    "id": 541878,
+    "IDcode": "259LUXU-1789",
+    "title": "ラグジュTV 1775 スタイル抜群の絶世の美女が激ピスでイキまくり、吹きまくり！潮！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/VoCu898y/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1789"
+  },
+  {
+    "id": 541879,
+    "IDcode": "259LUXU-1790",
+    "title": "ラグジュTV 1776 心も身体も全身性感帯！セックスの为なら仕事の后でも喜んでやって",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/eX2crhPU/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1790"
+  },
+  {
+    "id": 585203,
+    "IDcode": "259LUXU-1795",
+    "title": "豪华TV 1781 最强身材的迷人G罩杯身材！来自护士老师的爱的激烈特写性爱！ 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250812-1/e0b782c5aaab8bfa7df06b28ba48cb0e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1795"
+  },
+  {
+    "id": 585231,
+    "IDcode": "259LUXU-1798",
+    "title": "迷倒患者的白大褂G罩杯女神登陆Luxury TV。她拥有最好的容貌、最好的风格和最好的胸部。 美里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/8efdde2a21918aecafe730ebd111d72c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1798"
+  },
+  {
+    "id": 582011,
+    "IDcode": "259LUXU-1807",
+    "title": "气质高雅、身材傲人的巨乳美女，平日是丸之内地区的总裁秘书。 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1807"
+  },
+  {
+    "id": 559462,
+    "IDcode": "259LUXU-1827",
+    "title": "ラグジュTV 1825 昼间は厳格",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1827"
+  },
+  {
+    "id": 582783,
+    "IDcode": "259LUXU-1832",
+    "title": "与喜欢鸡巴，并且在夜景下看起来很棒的性感姐姐，一起享受最好的性爱。 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "素人",
       "乱伦",
-      "巨乳"
+      "高端素人",
+      "素人企画"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250907-1/a1a1f11919cedcbe5c7a1d47f21b151d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-053"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1832"
   },
   {
-    "id": 494210,
-    "IDcode": "336DTT-055",
-    "title": "银行柜台成员mineyuki haruka 36岁的AV首次受虐狂已婚妇女 峰雪はるか",
+    "id": 583407,
+    "IDcode": "259LUXU-1834",
+    "title": "一位身材高挑、苗条、双腿优美的女士出现了。温柔愉悦的性爱，如羽毛般的触感。超性感的内衣也是不容错过。 素人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/655136284299973505022e2c1c58a6bf.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1834"
   },
   {
-    "id": 521114,
-    "IDcode": "336DTT-057",
-    "title": "桜井美羽后入狂舞，美臀抽搐摇摆！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250903-1/7e673b759845b0197fde9ec95d834cb3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-057"
-  },
-  {
-    "id": 494289,
-    "IDcode": "336DTT-058",
-    "title": "4个Creampies和粉碎！呢已婚的女人Creampie Affaire温泉一 谷花纱耶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/d7f879cea0d3f6cd868c2e7759071716.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-058"
-  },
-  {
-    "id": 532200,
-    "IDcode": "336DTT-059",
-    "title": "今田美玲×七咲琴乃：极品名流人妻AV出道！不为金钱，只为填满寂寞饥渴肉体！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "出道作"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250905-1/91a4ad05314dc8ec3e0d8e1cedc636a2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-059"
-  },
-  {
-    "id": 471993,
-    "IDcode": "336DTT-065",
-    "title": "我来面试以招募额外的额外（乞求creampie]单身母亲的单身母亲 设楽みゆ",
+    "id": 552934,
+    "IDcode": "259LUXU-1835",
+    "title": "豪华电视 1824 被看见的喜悦，实现强烈愿望的喜悦，被三个不同的物理位置拥抱的喜悦：哀悼，妻子和孩子，婚外情的强烈感受",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250306/vegWpxxF/1.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250811-1/7def50700fd09f6318cd283e47e7694a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-065"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1835"
   },
   {
-    "id": 402168,
-    "IDcode": "336DTT-066",
-    "title": "她已经结婚了七年，却不知道该如何处理学习和工作…现任牙科已婚妇女，现年34岁的Hi 东希美",
+    "id": 583089,
+    "IDcode": "259LUXU-1836",
+    "title": "渴望“成为支配者”的无性主妇出现。必看的口交和乳交。她的身材如此好，让她的丈夫嫉妒不已。 素人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/c8e1057afef7d08deb39e6d69c5b9ee9.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-066"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1836"
   },
   {
-    "id": 522391,
-    "IDcode": "336DTT-067",
-    "title": "どエロい乳轮Fカップ妻 お口の中にも性感帯、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/ae40224aa10195c1dd803b7bcf17c4fb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-067"
-  },
-  {
-    "id": 494225,
-    "IDcode": "336DTT-070",
-    "title": "总统的秘书，已婚妇女，现年33岁，马萨基·艾卡（Misaki Aika），使她的 美咲爱华",
+    "id": 59685,
+    "IDcode": "259LUXU-1854",
+    "title": "ブライダルモデルが見せた二つの顔 ― 清楚な微笑と、さら 27歳 ブライダルモデル - 二羽紗愛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/e70ed54ca928b2f6e265a200f9e78c71.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/04/6b7ff4a2a8d95d22cedc3788e2f4e4af.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-070"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1854"
   },
   {
-    "id": 494254,
-    "IDcode": "336DTT-071",
-    "title": "美丽的丰满的年轻主人的已婚妇女，现年32岁，Kamijo Yu首次亮相！呢一流 白井ゆうひ",
+    "id": 519202,
+    "IDcode": "259LUXU-1856",
+    "title": "今日だけは清楚妻やめます",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "素人企画",
+      "高端素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250831-1/911ff808448af24a502170a73701c486.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-071"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1856"
   },
   {
-    "id": 574457,
-    "IDcode": "336DTT-072",
-    "title": "人妻杉崎惠下海接客实录！客户变态性需求全满足",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250904-1/1eafe9075afe123a6c0fc025aaafef77.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-072"
-  },
-  {
-    "id": 532202,
-    "IDcode": "336DTT-073",
-    "title": "36D巨乳护士清河美里性瘾实录：周自慰5次的淫欲爆发！下海首作解禁痴女觉醒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250906-1/17605fdb5dd59a7e492e69477ef54f2f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-073"
-  },
-  {
-    "id": 532210,
-    "IDcode": "336DTT-076",
-    "title": "知名声优下海！京都人妻黒井爱菜痴态宣言：‘只接受内射中出，其他玩法统统拒绝！’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250903-1/8d7a20ac75dd6b8b6fc0c8a8d8ecb1a3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-076"
-  },
-  {
-    "id": 494212,
-    "IDcode": "336DTT-077",
-    "title": "已婚妇女的屁股是由她的老板瞄准的，这是一个封闭的房间里的事 森梨々花",
+    "id": 213501,
+    "IDcode": "275OCHA-092",
+    "title": "杏璃ちゃん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/ae0301b7e91abfdf7bf80cdb2d61f67d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-077"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-092"
   },
   {
-    "id": 494287,
-    "IDcode": "336DTT-078",
-    "title": "「实际上，我在幻想中与1000人发生性关系…」一个超级幻想已婚的妇女，35岁，Hig 绚音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "少妇"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/61a676c14b4457116efa6f60d5a299bc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-078"
-  },
-  {
-    "id": 494218,
-    "IDcode": "336DTT-079",
-    "title": "一位爱情与艺术的已婚妇女，一位博物馆策展人，拥有丰满的FBreast Bod 月岛ひかり",
+    "id": 213484,
+    "IDcode": "275OCHA-095",
+    "title": "芽衣子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/ed65b9a117aefde51ccbdf5dd498540c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-079"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-095"
   },
   {
-    "id": 472012,
-    "IDcode": "336DTT-082",
-    "title": "美丽的Akita美女回应了男友的NTR欲望，来自Akita的单身母亲：透明，非常苗 宫野茜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/RrWeOnbW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-082"
-  },
-  {
-    "id": 472011,
-    "IDcode": "336DTT-083",
-    "title": "模型级的肤色苗条，172厘米，美丽，8头，半脸的妻子，出生于Amami Oshi 新岛杏里",
+    "id": 213487,
+    "IDcode": "275OCHA-096",
+    "title": "美少女的早上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250905-1/79560b8049e24d55399773600961d46b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-096"
   },
   {
-    "id": 525320,
-    "IDcode": "336DTT-084",
-    "title": "精液の匂いが大好きで、こんな私って変态ですか…？ 白浊に涂れる人妻 来栖ことは 33歳 A",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/zv4Ri26C/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-084"
-  },
-  {
-    "id": 402154,
-    "IDcode": "336DTT-086",
-    "title": "最好的已婚妇女约会。 泉结冰",
+    "id": 574970,
+    "IDcode": "275OCHA-110",
+    "title": "如月",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/d4a35d92ebf4c6f72cbba284573d83b9.jpg",
+    "cover_url": "https://sex8sex811.com/20250905/Z6jD7wcR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-086"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-110"
   },
   {
-    "id": 402195,
-    "IDcode": "336DTT-087",
-    "title": "Imamori Otoko是一位啦啦队俱乐部顾问，她的大屁股很复杂，她的大屁股是 今森乙叶",
+    "id": 574971,
+    "IDcode": "275OCHA-111",
+    "title": "香月",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/af7681731ae52825972554c6bcac4709.jpg",
+    "cover_url": "https://sex8sex811.com/20250905/kCPfyZvI/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-111"
   },
   {
-    "id": 543201,
-    "IDcode": "336DTT-088",
-    "title": "超ハイスペック美脚妻 现役国际线CA 福永ねお 32歳 AVデビュー",
+    "id": 574959,
+    "IDcode": "275OCHA-112",
+    "title": "安奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/P0roKZR0/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/VEPy2IYC/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-112"
   },
   {
-    "id": 494246,
-    "IDcode": "336DTT-089",
-    "title": "沮丧的手淫，直到振动器破裂，Ayakawa Yuki，一个已婚的妇女，有沮丧的手淫 绫川雪",
+    "id": 574960,
+    "IDcode": "275OCHA-113",
+    "title": "美波",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250831-1/5cce2433a3c50bea65fd0ea9cec3a946.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/4exM4UDV/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-089"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-113"
   },
   {
-    "id": 472025,
-    "IDcode": "336DTT-090",
-    "title": "活跃的幼儿园老师，H杯已婚的女人Sakura Rui，现年32岁，与她的母亲充满生 桜瑠依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "巨乳",
-      "少妇"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/IZ21QS0h/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-090"
-  },
-  {
-    "id": 543202,
-    "IDcode": "336DTT-091",
-    "title": "“我が子への授乳で刺激に目覚めました…”M気质 敏感乳首 巨乳人妻 元ホテルマン 平瀬ゆあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/MmmJylIe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-091"
-  },
-  {
-    "id": 477724,
-    "IDcode": "336DTT-093",
-    "title": "我将在Maki Kyoko的家中强奸她。 真木今日子",
+    "id": 574958,
+    "IDcode": "275OCHA-114",
+    "title": "天咲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/cae013bd3af6fc15f9ff34b884c3856a.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/piQPVU2B/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-114"
   },
   {
-    "id": 543203,
-    "IDcode": "336DTT-094",
-    "title": "24h欲求不満！白桃尻のドM美人妻 AVデビュー 宇野ゆりの 33歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/4iTD4vwi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-094"
-  },
-  {
-    "id": 494216,
-    "IDcode": "336DTT-096",
-    "title": "一个安静，朴素的已婚妇女在一家船上工作…当她脱下衣服时，她很棒，性感，性感，妖u 麻仓雪乃",
+    "id": 574952,
+    "IDcode": "275OCHA-115",
+    "title": "夏菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/60c674301587b53ff9313cedd6c09167.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/QDGtfmrH/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-096"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-115"
   },
   {
-    "id": 402189,
-    "IDcode": "336DTT-097",
-    "title": "Hatsune Minori的最终第一次 初音实",
+    "id": 574961,
+    "IDcode": "275OCHA-116",
+    "title": "藤井",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/07e8ea680777a93dc386ad4c5b04efa3.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/GbZORmSG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-097"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-116"
   },
   {
-    "id": 471985,
-    "IDcode": "336DTT-098",
-    "title": "一名[精致]已婚妇女，使男人发疯。一个美丽的妻子和一个有罪的奶油约会 神楽美来",
+    "id": 574957,
+    "IDcode": "275OCHA-117",
+    "title": "天月",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250907-1/2c68d45759a03ecfce78bbe330631985.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/y86MUwIz/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-098"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-117"
   },
   {
-    "id": 521112,
-    "IDcode": "336DTT-099",
-    "title": "[人妻护士禁断记录]上村纯奈 西塔玛县内科医院的欲求不满日常·诊察台后入肉体治疗痴态大放送",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250906-1/05cf6b8506eeccb9fd294facbf383695.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-099"
-  },
-  {
-    "id": 402161,
-    "IDcode": "336DTT-101",
-    "title": "一位骄傲而美丽的女医生（整容手术副总监）实际上是一个变态的受虐狂女孩…！ ？ 九十九こう",
+    "id": 574950,
+    "IDcode": "275OCHA-118",
+    "title": "M并",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/544ec7a9f0826695fe6cbfd36190476d.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/lwOOlN9n/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-101"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-118"
   },
   {
-    "id": 494224,
-    "IDcode": "336DTT-102",
-    "title": "最好的已婚妇女约会。 妃ひかり",
+    "id": 574951,
+    "IDcode": "275OCHA-119",
+    "title": "N岛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/7f92e6b74afe9c95b331c567d44a1aa1.jpg",
+    "cover_url": "https://sex8sex811.com/20250906/eRYeHxEa/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-102"
-  },
-  {
-    "id": 477719,
-    "IDcode": "336DTT-104",
-    "title": "无辜的蜂窝是一种甜蜜的诱惑。经验数：只有一个孩子，只认识男人的托儿所老师，30 富冈亚梨沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/0200d2a1d1cf942832e3ed9c82bdec47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-104"
-  },
-  {
-    "id": 520786,
-    "IDcode": "336DTT-105",
-    "title": "怜子がたくさん教えてあげる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/TRQTiNcY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-105"
-  },
-  {
-    "id": 499884,
-    "IDcode": "336DTT-106",
-    "title": "液体，已婚妇女的身体被淫荡的液体掩盖了…这令人印象深刻！放荡的大乳房J杯妈妈K 桃瀬くるみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/b7db1bb877c75f48b7d0c6200150a036.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-106"
-  },
-  {
-    "id": 574450,
-    "IDcode": "336DTT-108",
-    "title": "巨乳真木今日子淫荡榨精！奶油般约会榨干年轻男子每一滴精液",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250907-1/9e5a6c9d075e687a9fba82638b48db4d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-108"
-  },
-  {
-    "id": 530762,
-    "IDcode": "336DTT-109",
-    "title": "巨乳100cm豪臀95cm！音乐辣妹教练×已婚人妻柚木ひおり 爆乳翘臀の媚惑人妻剧烈活塞运动",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250904-1/cd06d3d6e1bab46eec59575829e53ae2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-109"
-  },
-  {
-    "id": 499886,
-    "IDcode": "336DTT-110",
-    "title": "自从我插入鸡巴以来已经两年了！色情乳头x美丽，大屁股单身母亲，带大屁股，当地电台 矶宫あい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/88f2979a22247ec36822bea34a9ba6ed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-110"
-  },
-  {
-    "id": 471992,
-    "IDcode": "336DTT-111",
-    "title": "他将猫摩擦在他身上，恳求他插入它！必不可少的疯狂和美丽的屁股年轻妻子奥崎阿祖米 大崎あずみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250906-1/2a2097235dea90e691891ecd6feb0fb0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-111"
-  },
-  {
-    "id": 472020,
-    "IDcode": "336DTT-112",
-    "title": "安娜的终极首次计时器：她杰出的性技巧和色情充满了母亲的自信！呢 杏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/K1CLS7su/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-112"
-  },
-  {
-    "id": 499906,
-    "IDcode": "336DTT-113",
-    "title": "高度149厘米最小的身体美丽的乳房年轻妻子29岁Tsumugi Hinase A 佐山丽子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250830-1/1dd0ed8e5496c06e7e8599a0775f17f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-113"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-119"
   }
 ];

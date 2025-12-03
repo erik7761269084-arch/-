@@ -1,8 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 149998,
-    "IDcode": "H4610-ORI1771",
-    "title": "小宫山千秋21岁",
+    "id": 558812,
+    "IDcode": "CARIBBEANCOM021423-001",
+    "title": "淫荡要求什么都做的公车女美人家政妇来了！ 远藤光 !",
     "year": "",
     "country": "",
     "genre": "",
@@ -11,16 +11,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/8975cf731e536d49904cf49c9bccfab0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1771"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM021423-001"
   },
   {
-    "id": 149999,
-    "IDcode": "H4610-ORI1773",
-    "title": "保友树里年龄20",
+    "id": 554233,
+    "IDcode": "CARIBBEANCOM021623-001",
+    "title": "喷精快手 佐伯绘里",
     "year": "",
     "country": "",
     "genre": "",
@@ -29,35 +35,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/95295a280eee9ae364af14fe342ca191.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241001-1/e33856d073930abd18747dc0deb46b86.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1773"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM021623-001"
   },
   {
-    "id": 150000,
-    "IDcode": "H4610-ORI1774",
-    "title": "下川美纪20岁",
+    "id": 553565,
+    "IDcode": "CARIBBEANCOM021723-001",
+    "title": "Debut Vol.83 〜我的天真小穴快要觉醒〜 中野阳菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/6a9717354130b3e0739ac04d156053b9.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20231221-1/fc978e6c338e069f066a2e148bee55f5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1774"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM021723-001"
   },
   {
-    "id": 150002,
-    "IDcode": "H4610-ORI1775",
-    "title": "周亚里沙21岁",
+    "id": 517821,
+    "IDcode": "CARIBBEANCOM022020-001",
+    "title": "女子",
     "year": "",
     "country": "",
     "genre": "",
@@ -66,35 +83,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/83282cedcdbb0049fb4e70aa3511e75a.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6f627944bbe4ef015adaf/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1775"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM022020-001"
   },
   {
-    "id": 150001,
-    "IDcode": "H4610-ORI1776",
-    "title": "岩室友里奈22岁",
+    "id": 554257,
+    "IDcode": "CARIBBEANCOM022123-001",
+    "title": "喜欢的美人柜姐实际上是肉食女 日南铃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/4261818f621b0d8c5baeffd951a5ac1a.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241126-1/f80b72ca4bd073e34fca5899995911c7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1776"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM022123-001"
   },
   {
-    "id": 150003,
-    "IDcode": "H4610-ORI1777",
-    "title": "奥井文乃21岁",
+    "id": 553569,
+    "IDcode": "CARIBBEANCOM022223-001",
+    "title": "THE 未公开 〜喜欢口交的三人娘〜 㭴乃丽奈，青木克莉丝 柊丽奈",
     "year": "",
     "country": "",
     "genre": "",
@@ -103,16 +131,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/a5a453ed03e8a58aa6ba9ff66275cac9.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20231223-1/2d152c5ebb8d11b3c47db982c38566b1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1777"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM022223-001"
   },
   {
-    "id": 150004,
-    "IDcode": "H4610-ORI1778",
-    "title": "浦千秋21岁",
+    "id": 554237,
+    "IDcode": "CARIBBEANCOM022423-001",
+    "title": "全裸出来迎接！？肉感美人上司太太 川村莉奈",
     "year": "",
     "country": "",
     "genre": "",
@@ -121,91 +155,120 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/d2876c16956f51345a198f7e3f52c18e.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241009-1/9b29cb73ba6939b1e59c836a0caf24e9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1778"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM022423-001"
   },
   {
-    "id": 150005,
-    "IDcode": "H4610-ORI1780",
-    "title": "由宫美里20岁",
+    "id": 483286,
+    "IDcode": "CARIBBEANCOM022523-001",
+    "title": "极上性服务款待治愈系老板娘 三花玲奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/10d9d698e36f0e6a93445aff71d839b3.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/adf49ec3c3fbd59beccff670b4d9cbbf.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1780"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM022523-001"
   },
   {
-    "id": 150006,
-    "IDcode": "H4610-ORI1782",
-    "title": "市东诗织21岁",
+    "id": 554239,
+    "IDcode": "CARIBBEANCOM022823-001",
+    "title": "让小穴骚疼欲求不满人妻实现梦想 水元惠梨香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/020899c9ca1dbcc45d4bdade8c4a3946.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241013-1/d3d0ee00f6550afde96c936cb2986855.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1782"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM022823-001"
   },
   {
-    "id": 150007,
-    "IDcode": "H4610-ORI1783",
-    "title": "矶村夏美20岁",
+    "id": 554245,
+    "IDcode": "CARIBBEANCOM030323-001",
+    "title": "三穴激乱交 〜对嘴巴小穴屁眼全中出！〜 小川桃果",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
+      "乱交",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/cea61448194141a13f4e4e1bf4f6f4e0.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241017-1/70742346b26f5b1cd4a39eefeade6488.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1783"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM030323-001"
   },
   {
-    "id": 150008,
-    "IDcode": "H4610-ORI1784",
-    "title": "美山沙耶加22岁",
+    "id": 483293,
+    "IDcode": "CARIBBEANCOM030423-001",
+    "title": "极上泡姬物语 Vol.111 穗高雏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/8f2c4c0b8baa3046ed02412d719713fe.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/386b8bdf1e84577feab0800165e8a7ad.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1784"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM030423-001"
   },
   {
-    "id": 150009,
-    "IDcode": "H4610-ORI1785",
-    "title": "日下部真野21岁",
+    "id": 517844,
+    "IDcode": "CARIBBEANCOM030524-001",
+    "title": "來去",
     "year": "",
     "country": "",
     "genre": "",
@@ -214,16 +277,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/97ed1b0efb14e281c4d91bf0d903a0d8.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af4ebfd7791f92730e5799/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1785"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM030524-001"
   },
   {
-    "id": 150012,
-    "IDcode": "H4610-ORI1790",
-    "title": "野崎真由年龄20",
+    "id": 554216,
+    "IDcode": "CARIBBEANCOM030723-001",
+    "title": "怒涛般连续插入180分 〜对逼迫而来的肉棒接连中出处罚〜 前编 佐伯绘里",
     "year": "",
     "country": "",
     "genre": "",
@@ -232,16 +301,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/70ca917b5a473692839ecc8c71b0185d.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240920-5/6334235a69482ec799468d1c736423fb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1790"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM030723-001"
   },
   {
-    "id": 150014,
-    "IDcode": "H4610-ORI1791",
-    "title": "市东诗织21岁",
+    "id": 480731,
+    "IDcode": "CARIBBEANCOM030823-001",
+    "title": "A罩杯精选",
     "year": "",
     "country": "",
     "genre": "",
@@ -250,54 +325,70 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/a2ddcc56514b325106bc8b96b814cb41.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/c55df8abefe07f6309d5117fec9890ba.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1791"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM030823-001"
   },
   {
-    "id": 150013,
-    "IDcode": "H4610-ORI1792",
-    "title": "谷口美由香22岁",
+    "id": 554225,
+    "IDcode": "CARIBBEANCOM031023-001",
+    "title": "女优魂 〜与接连出现的老二搞起射精风暴！？〜 佐佐木佳奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/66184364ad6e7e19ec4aa1b382265d32.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240929-1/85ea2d7e1138984c9a4d258eca9814f6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1792"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031023-001"
   },
   {
-    "id": 150015,
-    "IDcode": "H4610-ORI1793",
-    "title": "矶村夏美20岁",
+    "id": 517822,
+    "IDcode": "CARIBBEANCOM031120-001",
+    "title": "噴精",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/1f3402ecb8b3441f1ce26c9bf37a3291.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6f6ae944bbe4ef015b6dc/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1793"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031120-001"
   },
   {
-    "id": 150017,
-    "IDcode": "H4610-ORI1794",
-    "title": "古井南21岁",
+    "id": 554191,
+    "IDcode": "CARIBBEANCOM031123-001",
+    "title": "没有休息时刻持续激情接吻与插入 2 白杞莉莉",
     "year": "",
     "country": "",
     "genre": "",
@@ -306,54 +397,70 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/7280a431d313df7fb827e13b62202f31.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240830-5/08635ddc532c8a0110c053c1f97bdae3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1794"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031123-001"
   },
   {
-    "id": 150016,
-    "IDcode": "H4610-ORI1795",
-    "title": "深见茂麻20岁",
+    "id": 516638,
+    "IDcode": "CARIBBEANCOM031420-001",
+    "title": "加勒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/c7d7fca3465804932706ab8eb3619bf4.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69095cfce264e6282dffb17f/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1795"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031420-001"
   },
   {
-    "id": 150018,
-    "IDcode": "H4610-ORI1796",
-    "title": "美山沙耶加22岁",
+    "id": 483330,
+    "IDcode": "CARIBBEANCOM031423-001",
+    "title": "高潮新鲜实况！一面与打工处店长讲电话一面无套抽插中出！ 纱雾日向",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/1e0eb4c29ec8439c866895c0747dd552.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/6258dfb52ca6c9b9465340ab7951e41e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1796"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031423-001"
   },
   {
-    "id": 150019,
-    "IDcode": "H4610-ORI1798",
-    "title": "日下部真野21岁",
+    "id": 517364,
+    "IDcode": "CARIBBEANCOM031524-001",
+    "title": "口評",
     "year": "",
     "country": "",
     "genre": "",
@@ -362,35 +469,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/0b2be61ceab4a68e644398bd15e6fb82.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690d061b71eb543bb0ed8bb2/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1798"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031524-001"
   },
   {
-    "id": 150020,
-    "IDcode": "H4610-ORI1800",
-    "title": "赤石晴美20岁",
+    "id": 517365,
+    "IDcode": "CARIBBEANCOM031624-001",
+    "title": "大叔",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/d55d2ec87f7641487cd630cfda1a1602.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690d069071eb543bb0ed8bbe/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1800"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031624-001"
   },
   {
-    "id": 150021,
-    "IDcode": "H4610-ORI1803",
-    "title": "藤岛美亚19岁",
+    "id": 553589,
+    "IDcode": "CARIBBEANCOM031723-001",
+    "title": "傍若无人般垃圾患者与美女护理师 〜尽情口交X尽情做爱〜 立花凛花",
     "year": "",
     "country": "",
     "genre": "",
@@ -399,35 +517,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/521b5718fb2bb339a91a81a75537bcee.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240109-1/bdde2f802994789a74d36fc04d4eff64.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1803"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031723-001"
   },
   {
-    "id": 150022,
-    "IDcode": "H4610-ORI1804",
-    "title": "宫田20岁",
+    "id": 554194,
+    "IDcode": "CARIBBEANCOM031823-001",
+    "title": "没有休息时刻持续激情接吻与插入3 工藤丽华",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/0f1e560dc847b666aeb335fa315c84a6.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240901-1/920fda26d73ac952fb10d478d828f329.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1804"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031823-001"
   },
   {
-    "id": 150023,
-    "IDcode": "H4610-ORI1806",
-    "title": "藤孝夏香年龄20",
+    "id": 517373,
+    "IDcode": "CARIBBEANCOM031924-001",
+    "title": "衝撃",
     "year": "",
     "country": "",
     "genre": "",
@@ -436,73 +565,94 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/bc0ac5dacb144acca8f1a9bdb547a36f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690caa3a8e8eb72804b3690d/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1806"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM031924-001"
   },
   {
-    "id": 150024,
-    "IDcode": "H4610-ORI1807",
-    "title": "木叶加司今年20岁",
+    "id": 483336,
+    "IDcode": "CARIBBEANCOM032023-001",
+    "title": "老公不在家时侵入的偷拍魔 〜简单就忘掉老公的妻子〜 今田美玲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/4cc3f7d93b34968c5084362fd6c0f706.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d9b6349f459382d3793d04646743abe5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1807"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032023-001"
   },
   {
-    "id": 150025,
-    "IDcode": "H4610-ORI1808",
-    "title": "日南外堀20岁",
+    "id": 517371,
+    "IDcode": "CARIBBEANCOM032024-001",
+    "title": "與漂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/829e721f1b1b4424c85647a938c3fcda.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690caf258e8eb72804b38ba8/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1808"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032024-001"
   },
   {
-    "id": 150026,
-    "IDcode": "H4610-ORI1809",
-    "title": "岩辻凉子22岁",
+    "id": 554254,
+    "IDcode": "CARIBBEANCOM032123-001",
+    "title": "为了成人的家庭教师 〜一步步来传授中出性爱〜 樱濑奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/cf91f3f310f3aef4f005f876bd38b0ae.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241115-1/e274f60a439e1a3289d1332c3a6a7a18.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1809"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032123-001"
   },
   {
-    "id": 150027,
-    "IDcode": "H4610-ORI1810",
-    "title": "长渊由美子年龄24",
+    "id": 517370,
+    "IDcode": "CARIBBEANCOM032324-001",
+    "title": "女中",
     "year": "",
     "country": "",
     "genre": "",
@@ -511,16 +661,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/60b51dee2646e68bb388a3e5bd5be433.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690cb35c8e8eb72804b3a117/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1810"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032324-001"
   },
   {
-    "id": 146005,
-    "IDcode": "H4610-ORI1811",
-    "title": "奥山香织年龄21",
+    "id": 483307,
+    "IDcode": "CARIBBEANCOM032423-001",
+    "title": "极上性服务款待治愈系老板娘 莉央",
     "year": "",
     "country": "",
     "genre": "",
@@ -529,16 +685,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250214-1/f92c5229e1f567e051c3931a36d1a079.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/579aadf6456b8a8fd0ce7b2ee384504e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1811"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032423-001"
   },
   {
-    "id": 146006,
-    "IDcode": "H4610-ORI1812",
-    "title": "安川弥生18岁",
+    "id": 483323,
+    "IDcode": "CARIBBEANCOM032523-001",
+    "title": "极上泡姬物语 Vol.112 皆野未来",
     "year": "",
     "country": "",
     "genre": "",
@@ -547,16 +709,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250214-1/b71e7d3e1168a44c905f736c51c2f237.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/621bd5f30397c49718aa22e39a1af0fc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1812"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032523-001"
   },
   {
-    "id": 150029,
-    "IDcode": "H4610-ORI1814",
-    "title": "平谷菜菜子年龄26",
+    "id": 517363,
+    "IDcode": "CARIBBEANCOM032624-001",
+    "title": "恍惚",
     "year": "",
     "country": "",
     "genre": "",
@@ -565,16 +733,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/2ef9e301c09edf212c9801118647a833.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f13e36b81af1f853f8fb1/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1814"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032624-001"
   },
   {
-    "id": 150030,
-    "IDcode": "H4610-ORI1815",
-    "title": "永渊由美子年龄24",
+    "id": 554217,
+    "IDcode": "CARIBBEANCOM032823-001",
+    "title": "怒涛般连续插入180分 〜对逼迫而来的肉棒接连中出处罚〜 后编 佐伯绘里",
     "year": "",
     "country": "",
     "genre": "",
@@ -583,35 +757,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/ccb1487b2162c8a059e47aa8ed317ede.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240920-5/2b5877b8f5321315f4721a2bfc75333e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1815"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032823-001"
   },
   {
-    "id": 150031,
-    "IDcode": "H4610-ORI1816",
-    "title": "岩辻凉子22岁",
+    "id": 554231,
+    "IDcode": "CARIBBEANCOM032923-001",
+    "title": "喷精快手 川越唯精选",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/115cd11e7d2cf2b2e36675eb3e3f8b9d.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240929-8/8aa80c9806c48d9fc8c485b2c2ae0685.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1816"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM032923-001"
   },
   {
-    "id": 150032,
-    "IDcode": "H4610-ORI1817",
-    "title": "村野镜花21岁",
+    "id": 517362,
+    "IDcode": "CARIBBEANCOM033024-001",
+    "title": "不分",
     "year": "",
     "country": "",
     "genre": "",
@@ -620,16 +805,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/ef1a41d6c77d1b42b6472447335bf6c6.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f1a0e1fcdee36fa7f81d6/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1817"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM033024-001"
   },
   {
-    "id": 150033,
-    "IDcode": "H4610-ORI1818",
-    "title": "平谷菜菜子年龄26",
+    "id": 436839,
+    "IDcode": "CARIBBEANCOM033123001",
+    "title": "这女人、有够淫荡〜折原穗花的场合〜折原穗花。",
     "year": "",
     "country": "",
     "genre": "",
@@ -638,16 +829,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/fcd60103fd5f72e063efcd641d78b204.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/55cfb5fc31d81b99b0d9dee0a6f3613c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1818"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM033123001"
   },
   {
-    "id": 150034,
-    "IDcode": "H4610-ORI1819",
-    "title": "松前早苗年龄22",
+    "id": 483320,
+    "IDcode": "CARIBBEANCOM040123-001",
+    "title": "聊天室中被大叔乱入！中出性爱实况转播！ 白川麻衣",
     "year": "",
     "country": "",
     "genre": "",
@@ -656,16 +853,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/1d0002ed7469c23d3526804689eb6b7e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/0f8af0ec5050de3d881804056c74aeac.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1819"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM040123-001"
   },
   {
-    "id": 150035,
-    "IDcode": "H4610-ORI1820",
-    "title": "上条真由子年龄21",
+    "id": 483314,
+    "IDcode": "CARIBBEANCOM040423-001",
+    "title": "抽插干倒淫乱苗条黑辣妹！ 泽尻凉子",
     "year": "",
     "country": "",
     "genre": "",
@@ -674,16 +877,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/5c9da366ff30eef014f14a18374f53ec.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d5a40bb8c017983470fe84bfc69e0f1f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1820"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM040423-001"
   },
   {
-    "id": 150036,
-    "IDcode": "H4610-ORI1821",
-    "title": "村野镜花21岁",
+    "id": 553572,
+    "IDcode": "CARIBBEANCOM040523-001",
+    "title": "THE 未公开 〜仰角拍正妹假屌自慰 6〜",
     "year": "",
     "country": "",
     "genre": "",
@@ -692,16 +901,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/ddc7ae3be0a3ee7740bee9e9b7402eb2.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20231223-1/55992bc08acdc784b9d29f85d7c47bea.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1821"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM040523-001"
   },
   {
-    "id": 150037,
-    "IDcode": "H4610-ORI1822",
-    "title": "手岛由里年龄22",
+    "id": 517360,
+    "IDcode": "CARIBBEANCOM040624-001",
+    "title": "沒有",
     "year": "",
     "country": "",
     "genre": "",
@@ -710,16 +925,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/61bc94f57efe6b1b0cd065f9a4cc00b5.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690fb32e165f1917e3c20601/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1822"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM040624-001"
   },
   {
-    "id": 58224,
-    "IDcode": "H4610-ORI1824",
-    "title": "田桥千奈美年龄21",
+    "id": 483298,
+    "IDcode": "CARIBBEANCOM040723-001",
+    "title": "极上性服务款待治愈系老板娘 安室奈美",
     "year": "",
     "country": "",
     "genre": "",
@@ -728,16 +949,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/08087fb4e0f6454af912e69e426d55e4.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/880a0c89a7a1e00da0858a92efe219d0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1824"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM040723-001"
   },
   {
-    "id": 39513,
-    "IDcode": "H4610-ORI1825",
-    "title": "绫口琴音年龄21",
+    "id": 554260,
+    "IDcode": "CARIBBEANCOM040823-001",
+    "title": "想要出名！〜被假制作人播种强压想当模特儿的女人〜 㭴乃丽奈",
     "year": "",
     "country": "",
     "genre": "",
@@ -746,16 +973,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/3cd1dea74ccdb15a24b25f059a321bef.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241205-1/e28332ce3fa4222fbdfc19e90051037d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1825"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM040823-001"
   },
   {
-    "id": 150085,
-    "IDcode": "H4610-ORI1826",
-    "title": "21岁上代真由子",
+    "id": 517358,
+    "IDcode": "CARIBBEANCOM040924-001",
+    "title": "将街",
     "year": "",
     "country": "",
     "genre": "",
@@ -764,35 +997,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/2857cfe64b594f0f3a8c80470be9cda7.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6911039e6b81af1f85441f8b/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1826"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM040924-001"
   },
   {
-    "id": 150041,
-    "IDcode": "H4610-ORI1827",
-    "title": "江藤早苗24岁",
+    "id": 554215,
+    "IDcode": "CARIBBEANCOM041123-001",
+    "title": "男友的拜托！真实看护玩法 〜兴致勃勃护理师的欢喜潮吹〜 杉浦花音",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/327b1f254e2eabf7585e9d7b6122b753.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240918-4/52ae29af29acce8589bab71ded68895f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1827"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM041123-001"
   },
   {
-    "id": 39497,
-    "IDcode": "H4610-ORI1828",
-    "title": "丰岛由里年龄22",
+    "id": 517359,
+    "IDcode": "CARIBBEANCOM041224-001",
+    "title": "请看",
     "year": "",
     "country": "",
     "genre": "",
@@ -801,16 +1045,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/060838980c2552dfd032c8eaa20da299.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6911047d6b81af1f85442892/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1828"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM041224-001"
   },
   {
-    "id": 150042,
-    "IDcode": "H4610-ORI1829",
-    "title": "田桥千奈美年龄21",
+    "id": 516831,
+    "IDcode": "CARIBBEANCOM041324-001",
+    "title": "加勒",
     "year": "",
     "country": "",
     "genre": "",
@@ -819,16 +1069,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/6688ea74d53219d6cada2d308de40abd.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688ca11998bc99dfddea63c7/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1829"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM041324-001"
   },
   {
-    "id": 150043,
-    "IDcode": "H4610-ORI1830",
-    "title": "井野草月19岁",
+    "id": 517429,
+    "IDcode": "CARIBBEANCOM041922-001",
+    "title": "沉溺",
     "year": "",
     "country": "",
     "genre": "",
@@ -837,35 +1093,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/6b931b2a7bd19b3b15ef38d197111fa4.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/688819dcc92318f97dfa07ee/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1830"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM041922-001"
   },
   {
-    "id": 150044,
-    "IDcode": "H4610-ORI1831",
-    "title": "沟口唯23岁",
+    "id": 517357,
+    "IDcode": "CARIBBEANCOM041924-001",
+    "title": "喜歡",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/de5493d087b3efa3d2d44cd04e77550f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/69126276c2496a27fd06eb9e/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1831"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM041924-001"
   },
   {
-    "id": 150045,
-    "IDcode": "H4610-ORI1832",
-    "title": "绫口琴音21岁",
+    "id": 438444,
+    "IDcode": "CARIBBEANCOM042022-001",
+    "title": "THE 未公開 〜仁王立的國王口交4〜 碧惠美 椎名明日香 海咲奈美 神谷悠美",
     "year": "",
     "country": "",
     "genre": "",
@@ -874,35 +1141,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/ce9993c999367c7beaee2a184e9e9a6d.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68881a19c92318f97dfa087d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1832"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042022-001"
   },
   {
-    "id": 150048,
-    "IDcode": "H4610-ORI1833",
-    "title": "江藤早苗24岁",
+    "id": 517353,
+    "IDcode": "CARIBBEANCOM042024-001",
+    "title": "逆搭",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/9840d47beb5a7213abda02dec682748b.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/691282af72c0032a43fe4d5c/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1833"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042024-001"
   },
   {
-    "id": 150047,
-    "IDcode": "H4610-ORI1834",
-    "title": "井野皋月19岁",
+    "id": 517428,
+    "IDcode": "CARIBBEANCOM042222_003",
+    "title": "月刊",
     "year": "",
     "country": "",
     "genre": "",
@@ -911,35 +1189,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/b77321af1d23a78f8b4fbaffd36ac74e.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68881b06c92318f97dfa386d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1834"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042222_003"
   },
   {
-    "id": 150046,
-    "IDcode": "H4610-ORI1835",
-    "title": "沟口由衣23岁",
+    "id": 517427,
+    "IDcode": "CARIBBEANCOM042222-001",
+    "title": "性欲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/5d97952dfd0499d765e4dc3d77d51623.jpg",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68881a8ec92318f97dfa0880/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1835"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042222-001"
   },
   {
-    "id": 150049,
-    "IDcode": "H4610-ORI1836",
-    "title": "高尾遥21岁",
+    "id": 517354,
+    "IDcode": "CARIBBEANCOM042324-001",
+    "title": "初次",
     "year": "",
     "country": "",
     "genre": "",
@@ -948,73 +1237,94 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/2a3c90bace69b6ff16fe5e4c7553ea43.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912837f72c0032a43fe4d61/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1836"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042324-001"
   },
   {
-    "id": 150050,
-    "IDcode": "H4610-ORI1837",
-    "title": "本庄遥23岁",
+    "id": 517355,
+    "IDcode": "CARIBBEANCOM042424-001",
+    "title": "噴精",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/a97b3b20f11cf3162b0d4503b60f8018.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912841372c0032a43fe4d95/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1837"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042424-001"
   },
   {
-    "id": 150051,
-    "IDcode": "H4610-ORI1838",
-    "title": "神浦丽奈24岁",
+    "id": 517356,
+    "IDcode": "CARIBBEANCOM042524-001",
+    "title": "極上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/072e91fb8db2657b04836ff3a54cbaa4.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912841872c0032a43fe4d96/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1838"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042524-001"
   },
   {
-    "id": 150054,
-    "IDcode": "H4610-ORI1839",
-    "title": "大泽由纪惠22岁",
+    "id": 516830,
+    "IDcode": "CARIBBEANCOM042724-001",
+    "title": "过激",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/998224ac36549d0874e8d21884693579.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688df93d98bc99dfddfbbd83/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1839"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042724-001"
   },
   {
-    "id": 150052,
-    "IDcode": "H4610-ORI1840",
-    "title": "高尾遥21岁",
+    "id": 517426,
+    "IDcode": "CARIBBEANCOM042822-001",
+    "title": "女熱",
     "year": "",
     "country": "",
     "genre": "",
@@ -1023,35 +1333,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/b4c2f06af8632e2226914913e4376b59.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688967a598bc99dfddc39e3b/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1840"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042822-001"
   },
   {
-    "id": 59177,
-    "IDcode": "H4610-ORI1841",
-    "title": "盐见优子22岁",
+    "id": 517351,
+    "IDcode": "CARIBBEANCOM042824-001",
+    "title": "只看",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/fd6d471490e8f5d68444316f7d3137c6.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914c9d046d2372859bbff1d/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1841"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM042824-001"
   },
   {
-    "id": 150055,
-    "IDcode": "H4610-ORI1842",
-    "title": "奥山香织21岁",
+    "id": 516825,
+    "IDcode": "CARIBBEANCOM043023-001",
+    "title": "兩位",
     "year": "",
     "country": "",
     "genre": "",
@@ -1060,168 +1381,214 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/f80eff55fb78df3c4770dd1a660ab914.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b192ef735bb663f762621f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1842"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM043023-001"
   },
   {
-    "id": 150057,
-    "IDcode": "H4610-ORI1843",
-    "title": "岩下千里20岁",
+    "id": 518146,
+    "IDcode": "CARIBBEANCOM043024-001",
+    "title": "幫你",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/0c7ec24525979e24c84200b8126a3f4d.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec031252c12b4e68460f14/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1843"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM043024-001"
   },
   {
-    "id": 39507,
-    "IDcode": "H4610-ORI1844",
-    "title": "神浦丽奈24岁",
+    "id": 517920,
+    "IDcode": "CARIBBEANCOM050622-001",
+    "title": "在絕",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/67e6d85289ce8e0b0e6aa9ad5d1f0861.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20d4bcf22ae3e04a81dc2/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1844"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM050622-001"
   },
   {
-    "id": 150058,
-    "IDcode": "H4610-ORI1845",
-    "title": "相内雪音23岁",
+    "id": 517889,
+    "IDcode": "CARIBBEANCOM050923-001",
+    "title": "立花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/380c19d2615331b7d6415b7d76683c12.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a203c1db8c77d79bb694fa/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1845"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM050923-001"
   },
   {
-    "id": 146007,
-    "IDcode": "H4610-ORI1846",
-    "title": "大泽由纪惠22岁",
+    "id": 516829,
+    "IDcode": "CARIBBEANCOM051124-001",
+    "title": "加勒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250214-1/a083be87f5631497746ce284797351d5.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dfdc798bc99dfddfbc098/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1846"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM051124-001"
   },
   {
-    "id": 150059,
-    "IDcode": "H4610-ORI1847",
-    "title": "盐见优子22岁",
+    "id": 517809,
+    "IDcode": "CARIBBEANCOM051219-918",
+    "title": "開放",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/81ddd8c2bda099e1e439badba885707d.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e184cedbf24d4ed31d0398/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1847"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM051219-918"
   },
   {
-    "id": 150060,
-    "IDcode": "H4610-ORI1848",
-    "title": "野村霞22岁",
+    "id": 516828,
+    "IDcode": "CARIBBEANCOM051524-001",
+    "title": "逆3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/63c6428659be15a1448cc4eaeb1bb306.jpg",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688e016498bc99dfddfc2664/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1848"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM051524-001"
   },
   {
-    "id": 150062,
-    "IDcode": "H4610-ORI1849",
-    "title": "森原坂20岁",
+    "id": 572154,
+    "IDcode": "CARIBBEANCOM052414-607",
+    "title": "山手刊 没有钱！目标广岛！神BODY的搭便车！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/da97618400c7dd971262576db8b66a17.jpg",
+    "cover_url": "https://pic42.anzise.com/pic/20221222/71a1048e44e61c016790d8362d898eea/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1849"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM052414-607"
   },
   {
-    "id": 150061,
-    "IDcode": "H4610-ORI1850",
-    "title": "桐原由香23岁",
+    "id": 517802,
+    "IDcode": "CARIBBEANCOM052918-676",
+    "title": "職場",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/516fa7786590c68f7974057409d495c4.jpg",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed2fd852c12b4e68491de3/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1850"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM052918-676"
   },
   {
-    "id": 150064,
-    "IDcode": "H4610-ORI1851",
-    "title": "梶阳菜19岁",
+    "id": 517877,
+    "IDcode": "CARIBBEANCOM062520-001",
+    "title": "青姦",
     "year": "",
     "country": "",
     "genre": "",
@@ -1230,92 +1597,118 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/e52d8fed1b64d077a6393aa84b3c3949.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/20/67b623d1cf22ae3e04d3e25f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1851"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM062520-001"
   },
   {
-    "id": 150063,
-    "IDcode": "H4610-ORI1852",
-    "title": "岩下千里20岁",
+    "id": 516810,
+    "IDcode": "CARIBBEANCOM062621-001",
+    "title": "加勒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/8cc0e1db7144896d051aaf418084319f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e035d679f1ac4ec48bbe7c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1852"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM062621-001"
   },
   {
-    "id": 150065,
-    "IDcode": "H4610-ORI1853",
-    "title": "西村绫香23岁",
+    "id": 516823,
+    "IDcode": "CARIBBEANCOM062823-001",
+    "title": "TH",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/49cc92e2570739426b0a0f20530465dd.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8f4827f3b7c929073fc73/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1853"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM062823-001"
   },
   {
-    "id": 150066,
-    "IDcode": "H4610-ORI1854",
-    "title": "野村霞22岁",
+    "id": 517902,
+    "IDcode": "CARIBBEANCOM063023-001",
+    "title": "在絕",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/fc5a71fb0e4e24d31f361780a4b72d93.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a202aacf22ae3e04a8162d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1854"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM063023-001"
   },
   {
-    "id": 150068,
-    "IDcode": "H4610-ORI1855",
-    "title": "汤根苍太23岁",
+    "id": 517401,
+    "IDcode": "CARIBBEANCOM070724-001",
+    "title": "極上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/5237ab815e15271dc3d1b9e50fc5171f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe805bdd88d14f065697f2/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1855"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM070724-001"
   },
   {
-    "id": 150067,
-    "IDcode": "H4610-ORI1856",
-    "title": "神户希21岁",
+    "id": 517400,
+    "IDcode": "CARIBBEANCOM070924-001",
+    "title": "與妻",
     "year": "",
     "country": "",
     "genre": "",
@@ -1324,16 +1717,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/234d58274ded5828d5878927cf183537.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe80dcdd88d14f065697f5/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1856"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM070924-001"
   },
   {
-    "id": 150070,
-    "IDcode": "H4610-ORI1857",
-    "title": "木地春菜19岁",
+    "id": 517403,
+    "IDcode": "CARIBBEANCOM071024-001",
+    "title": "掃除",
     "year": "",
     "country": "",
     "genre": "",
@@ -1342,187 +1741,238 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/946537cd15d3c6ad9b6ab2d00b8aa6f0.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe80eedd88d14f065697f7/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1857"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071024-001"
   },
   {
-    "id": 150071,
-    "IDcode": "H4610-ORI1858",
-    "title": "藤井康美20岁",
+    "id": 554246,
+    "IDcode": "CARIBBEANCOM071222-001",
+    "title": "湿过头吞吐过头！暴淫暴触是我的例行动作！ 美月优芽",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/ffbc0ecd4b66ed2cdf607f9e325e658c.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241027-1/0b783b2c4de2c61005b185a7b647b044.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1858"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071222-001"
   },
   {
-    "id": 150069,
-    "IDcode": "H4610-ORI1859",
-    "title": "西村绫子23岁",
+    "id": 517903,
+    "IDcode": "CARIBBEANCOM071223-001",
+    "title": "泳裝",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/c1b325d62d1b9e2598754b084be7ec7f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20296cf22ae3e04a81605/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1859"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071223-001"
   },
   {
-    "id": 150073,
-    "IDcode": "H4610-ORI1860",
-    "title": "松永千惠23岁",
+    "id": 517402,
+    "IDcode": "CARIBBEANCOM071224-001",
+    "title": "粉味",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/5600d2020793484c5e1f180c71009562.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe80e6dd88d14f065697f6/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1860"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071224-001"
   },
   {
-    "id": 150072,
-    "IDcode": "H4610-ORI1861",
-    "title": "桐原尤奈23岁",
+    "id": 517404,
+    "IDcode": "CARIBBEANCOM071324-001",
+    "title": "女體",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/0849587fbd078112215b6a1079d94c26.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe81fbdd88d14f065699f8/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1861"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071324-001"
   },
   {
-    "id": 150084,
-    "IDcode": "H4610-ORI1862",
-    "title": "22岁梅村爱里奈",
+    "id": 517869,
+    "IDcode": "CARIBBEANCOM071416-207",
+    "title": "和素",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/acc5c6b6fe76e289fb0fb78f0532acd7.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/27/67c0154e4e7d663df4b50805/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1862"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071416-207"
   },
   {
-    "id": 146008,
-    "IDcode": "H4610-ORI1863",
-    "title": "岩川由希子22岁",
+    "id": 436588,
+    "IDcode": "CARIBBEANCOM071622-001",
+    "title": "【无码】喜欢做爱的美臀妹子也喜欢被玩弄肛门 天绪舞  天绪まい 071622-001",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250214-1/261f2b762dd34693d83f89130597fb93.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/a661aaa386015a3bf901551a918ba3b1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1863"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071622-001"
   },
   {
-    "id": 145786,
-    "IDcode": "H4610-ORI1864",
-    "title": "森原坂20岁",
+    "id": 516824,
+    "IDcode": "CARIBBEANCOM071623-001",
+    "title": "加勒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250213-1/a4538fef640fe16537ae20e477d71f80.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa38fb9550e292a785e3cc/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1864"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071623-001"
   },
   {
-    "id": 145734,
-    "IDcode": "H4610-ORI1865",
-    "title": "堀内郁美24岁",
+    "id": 554230,
+    "IDcode": "CARIBBEANCOM071822-001",
+    "title": "喷精快手 新城由衣精选",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250213-1/bf8856cfc589f8827a0b72a02c5b7a04.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240929-8/b0982716ba92ad0d7c82bc588741f573.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1865"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071822-001"
   },
   {
-    "id": 145735,
-    "IDcode": "H4610-ORI1866",
-    "title": "梅村优23岁",
+    "id": 517405,
+    "IDcode": "CARIBBEANCOM071924-001",
+    "title": "前情",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250213-1/ddd560dc61d81a702ae4071db302d0f4.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd3e0a944bbe4ef05baa54/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1866"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM071924-001"
   },
   {
-    "id": 145736,
-    "IDcode": "H4610-ORI1867",
-    "title": "神户希21岁",
+    "id": 517407,
+    "IDcode": "CARIBBEANCOM072024-001",
+    "title": "年輕",
     "year": "",
     "country": "",
     "genre": "",
@@ -1531,16 +1981,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250213-1/8064672da13bf062ce30b1ce0e6f5388.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd3eb7944bbe4ef05baa58/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1867"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072024-001"
   },
   {
-    "id": 145737,
-    "IDcode": "H4610-ORI1868",
-    "title": "神谷梦奈21岁",
+    "id": 558891,
+    "IDcode": "CARIBBEANCOM072322-001",
+    "title": "自慰到达绝顶瞬间无套插入 〜请插入我的小穴充满我！〜 与田知佳",
     "year": "",
     "country": "",
     "genre": "",
@@ -1549,130 +2005,166 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250213-1/92c31a4f8f88aaf55d13bbee27f9775b.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230927-1/d1b9d9e1a265f598dc94d7107873cf52.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1868"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072322-001"
   },
   {
-    "id": 145738,
-    "IDcode": "H4610-ORI1871",
-    "title": "宫泽20岁",
+    "id": 436679,
+    "IDcode": "CARIBBEANCOM072322001",
+    "title": "自慰到达绝顶瞬间无套插入〜请插入我的小穴充满我！〜与田知佳。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250213-1/5cf7e9fd7f396a7d78e94ac00664e889.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250117-1/6ecb712ceb7dfa62f4750bc138137b65.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1871"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072322001"
   },
   {
-    "id": 150075,
-    "IDcode": "H4610-ORI1872",
-    "title": "山重尤里22岁",
+    "id": 517342,
+    "IDcode": "CARIBBEANCOM072421-001",
+    "title": "妻子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/a9fa2bba1b2f7c796c0eac5a15f0dd8c.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b429975fdaf263a25c81d2/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1872"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072421-001"
   },
   {
-    "id": 150074,
-    "IDcode": "H4610-ORI1873",
-    "title": "松永千惠23岁",
+    "id": 517783,
+    "IDcode": "CARIBBEANCOM072517-467",
+    "title": "外套",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/65a30128fc78fb034717a98bd5c96373.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f08eb431a2714f1c5b7438/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1873"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072517-467"
   },
   {
-    "id": 150086,
-    "IDcode": "H4610-ORI1874",
-    "title": "22岁今枝七见",
+    "id": 554190,
+    "IDcode": "CARIBBEANCOM072622-001",
+    "title": "满满碰触！想要潮吹高潮！ 渡边美羽",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/d8030731b1e67188cb6d90790b1b65c4.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240830-5/380b9ad5fe8f5b69000e532f8df1b219.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1874"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072622-001"
   },
   {
-    "id": 150087,
-    "IDcode": "H4610-ORI1875",
-    "title": "22岁梅村爱里奈",
+    "id": 554252,
+    "IDcode": "CARIBBEANCOM072722-001",
+    "title": "为了M男的超高级淫语中出泡泡浴 雅",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/9d30223fb001774995f04113fbf8a4b1.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20241115-1/713ab2a0b99fdbc0617cbaa618d1295b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1875"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072722-001"
   },
   {
-    "id": 150076,
-    "IDcode": "H4610-ORI1877",
-    "title": "岩川由希子22岁",
+    "id": 554211,
+    "IDcode": "CARIBBEANCOM072922-001",
+    "title": "敏感软Q胸部妹子的真正高潮 友利七叶",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/c80acb275046422fa0cb6259eb0d8c85.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240914-1/3b1b9e366402abb42288535a71388140.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1877"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM072922-001"
   },
   {
-    "id": 150088,
-    "IDcode": "H4610-ORI1878",
-    "title": "21岁筒井友佐",
+    "id": 554219,
+    "IDcode": "CARIBBEANCOM073022-001",
+    "title": "怒涛般连续插入180分 〜停不下高潮让人变得奇怪起来！〜 前编 木原明美",
     "year": "",
     "country": "",
     "genre": "",
@@ -1681,111 +2173,143 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/8f43ee68a29199c7c51356f3972d36f8.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240921-5/3060929c0be1719ccbc31f79fad6f153.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1878"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM073022-001"
   },
   {
-    "id": 150078,
-    "IDcode": "H4610-ORI1879",
-    "title": "堀内郁美24岁",
+    "id": 483281,
+    "IDcode": "CARIBBEANCOM080222-001",
+    "title": "教导女人身体各个角落的淫荡讲座 宫村恋 夏希安寿",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/1e3ed5734c8353203bfe823704c840d7.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/73c8387b450d8c67a3e587f6d6313e46.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1879"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080222-001"
   },
   {
-    "id": 150077,
-    "IDcode": "H4610-ORI1881",
-    "title": "大竹莉亚20岁",
+    "id": 517900,
+    "IDcode": "CARIBBEANCOM080422-003",
+    "title": "全裸",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/335ba8b91e18e3958206a5f38a2e98ca.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20cbcdb8c77d79bb69673/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1881"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080422-003"
   },
   {
-    "id": 150079,
-    "IDcode": "H4610-ORI1882",
-    "title": "中仓步美22岁",
+    "id": 517899,
+    "IDcode": "CARIBBEANCOM080422-004",
+    "title": "全裸",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/3e5439e59438f3f8683f28be3cb6c727.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20cd1db8c77d79bb69675/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1882"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080422-004"
   },
   {
-    "id": 150080,
-    "IDcode": "H4610-ORI1883",
-    "title": "牧尾佳奈23岁",
+    "id": 517828,
+    "IDcode": "CARIBBEANCOM080520-001",
+    "title": "泳裝",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/b2e8d8e3aa050b4e01d99ee454df41a0.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf13b17de28f4ede50f353/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1883"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080520-001"
   },
   {
-    "id": 150082,
-    "IDcode": "H4610-ORI1885",
-    "title": "祈祷萨舞23岁",
+    "id": 554223,
+    "IDcode": "CARIBBEANCOM080522-001",
+    "title": "女优魂 〜出道作就吓一跳马上抽插马上湿的神对应新人〜 安室奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
+      "出道作",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/e735393616a8d55f897f7234fc9c4051.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240927-1/ff00653940f189a412ab00144312d141.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1885"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080522-001"
   },
   {
-    "id": 150089,
-    "IDcode": "H4610-ORI1886",
-    "title": "21岁园部彩美",
+    "id": 517827,
+    "IDcode": "CARIBBEANCOM080620-004",
+    "title": "全裸",
     "year": "",
     "country": "",
     "genre": "",
@@ -1794,35 +2318,46 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/0c2edf25aa601d22d67f7394832e849f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf13027de28f4ede50f351/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1886"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080620-004"
   },
   {
-    "id": 150081,
-    "IDcode": "H4610-ORI1888",
-    "title": "寺坂葵20岁",
+    "id": 554210,
+    "IDcode": "CARIBBEANCOM080622-001",
+    "title": "擅长撒娇喜欢做爱的大姐 柚野琴美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹",
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/424f134b9abbbe3fb45143d92d37824d.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240905-13/b7e99fa4e0a32c74e9c74a2d8f17a5f8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1888"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080622-001"
   },
   {
-    "id": 150083,
-    "IDcode": "H4610-ORI1890",
-    "title": "清水沙耶香21岁",
+    "id": 517408,
+    "IDcode": "CARIBBEANCOM080624-001",
+    "title": "女熱",
     "year": "",
     "country": "",
     "genre": "",
@@ -1831,16 +2366,22 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250227-1/fd35ba646b5fd28f8b2fc492aefd5ff2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/25/68fcb97b944bbe4ef05a646c/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI1890"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080624-001"
   },
   {
-    "id": 151450,
-    "IDcode": "H4610-ORI932",
-    "title": "叶山佳奈",
+    "id": 554213,
+    "IDcode": "CARIBBEANCOM080722-001",
+    "title": "男友爱抚的话我的身体每次都会高潮 藤咲唯",
     "year": "",
     "country": "",
     "genre": "",
@@ -1849,10 +2390,16 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250304-1/7e0e518c8a6b90fca009c5f7ef4789c2.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240917-1/9fa13b5ff060fccbfc339b0cb892a9f0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-ORI932"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080722-001"
   }
 ];

@@ -13,8 +13,8 @@ window.PAGE_DATA = [
       "女同",
       "企画"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2e158ce5a404e9bac1acf/cover.jpg",
     "actress": [
@@ -34,8 +34,8 @@ window.PAGE_DATA = [
     "genres": [
       "女同"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240912-1/be0de4c6cbfddaf6de0028bcac007af1.jpg",
     "actress": [],
@@ -57,10 +57,10 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2012-09-01",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2023/02/zorcrpzm0xd.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "橘日向",
       "铃木ありす",

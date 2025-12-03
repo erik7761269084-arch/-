@@ -1,5 +1,165 @@
 window.PAGE_DATA = [
   {
+    "id": 533101,
+    "IDcode": "SGKX-027",
+    "title": "[] 【ギャルすたグラムBEST ＃016】【全员中出しドンッ！！SP】【1人目】赤髪ビックン敏感エロかわ美容専门学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240305/h_1575sgkx00027pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKX-027"
+  },
+  {
+    "id": 92846,
+    "IDcode": "SIS-440",
+    "title": "撮影映像完全主観オナニーサポート河北彩花。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-440"
+  },
+  {
+    "id": 557542,
+    "IDcode": "SISTER-IN",
+    "title": "My -laws Job 2017 1080p Sex Scene.servemen.com_",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SISTER-IN"
+  },
+  {
+    "id": 592545,
+    "IDcode": "SKMJ-056",
+    "title": "Nozomi Haneda 母乳喂养复兴 ~ 母乳喂养游戏完整特别节目以超高质量  拍摄~ - 羽月希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/07/38287_cover_2025-06-07_163259.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-056"
+  },
+  {
+    "id": 576079,
+    "IDcode": "SKMJ-298",
+    "title": "[] 仲良しクラスメイト《女子○生6人》が超全身舐め究极ハーレムご奉仕研究会__まだまだ知らない男性の性感帯！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230409/h_1324skmj00298pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-298"
+  },
+  {
+    "id": 576101,
+    "IDcode": "SKMJ-316",
+    "title": "[] 校内円光 放课后学校に侵入して羞耻と快楽に涂れたアオハル不纯异性交游の日々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230530/h_1324skmj316pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-316"
+  },
+  {
+    "id": 576131,
+    "IDcode": "SKMJ-330",
+    "title": "[] 女子○生の皆さん！デカチン洗体してくれませんか？カチカチに反り返ったデカチンをお尻の穴から亀头",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230630/h_1324skmj330pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-330"
+  },
+  {
+    "id": 576117,
+    "IDcode": "SKMJ-334",
+    "title": "[] お兄ちゃんの妹観察日记vol.1 眠らせてから好き放题いたずら・近亲中出しセックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230615/h_1324skmj334pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-334"
+  },
+  {
+    "id": 532647,
+    "IDcode": "SKMJ-355",
+    "title": "[] ラブラブカップル同士が互いのパートナーを交换するスワッピングゲームに挑戦！！相手の彼女＆彼氏をより多",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230530/h_1324skmj355pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-355"
+  },
+  {
     "id": 532967,
     "IDcode": "SKMJ-363",
     "title": "[] 夏だ__海だ__水着ギャルだ__御宿ビーチのビキニが眩しい素人お嬢さん！童贞君のオナニーのお手伝いしてくれませんか",
@@ -10,8 +170,8 @@ window.PAGE_DATA = [
       "素人",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231214/h_1324skmj363pl.jpg!320x216.jpg",
     "actress": [],
@@ -28,8 +188,8 @@ window.PAGE_DATA = [
       "素人",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/2023/12/nb5s3chh2lo.jpg",
     "actress": [],
@@ -46,10 +206,10 @@ window.PAGE_DATA = [
       "素人",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20240703/eYUHWplv/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-375"
   },
@@ -64,10 +224,10 @@ window.PAGE_DATA = [
       "素人",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20240703/PxBCzxlY/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-376"
   },
@@ -83,10 +243,10 @@ window.PAGE_DATA = [
       "乱交",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20240703/QwoZDah2/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-377"
   },
@@ -103,8 +263,14 @@ window.PAGE_DATA = [
       "中出",
       "高清画质"
     ],
-    "type": "",
-    "company": "SKY HIGH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SKY HIGH",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SKY_HIGH",
+        "works_count": 173
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/34871eeb0612481820284046c71304ac.jpg",
     "actress": [
@@ -126,8 +292,14 @@ window.PAGE_DATA = [
       "苗條",
       "高清画质"
     ],
-    "type": "",
-    "company": "SKY HIGH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SKY HIGH",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SKY_HIGH",
+        "works_count": 173
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/0160ca76b7961b11d6aca48cd82fd72f.jpg",
     "actress": [
@@ -148,8 +320,14 @@ window.PAGE_DATA = [
       "高清画质",
       "口交"
     ],
-    "type": "",
-    "company": "SKY HIGH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SKY HIGH",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SKY_HIGH",
+        "works_count": 173
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7fc259599782fbdb584fd6bed92a7425.jpg",
     "actress": [
@@ -171,9 +349,9 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/2019-12-21/15769040653.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMD-133"
   },
@@ -206,8 +384,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/390e0b3795463ff2b6f75450ec94e033.jpg",
     "actress": [
@@ -245,8 +429,14 @@ window.PAGE_DATA = [
       "乳交",
       "劇情"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418235821738738.jpg",
     "actress": [
@@ -265,8 +455,14 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
-    "company": "S-CUTE",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S-CUTE",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S_CUTE",
+        "works_count": 269
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250929/5WqDyKZR/1.jpg",
     "actress": [],
@@ -288,10 +484,10 @@ window.PAGE_DATA = [
       "巨乳",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/23/4e24b715995f44011f500eebfc1b752d.jpg",
+    "cover_url": "https://guzwiayz.com/20250922/6Ce4zEOr/1.jpg?t=1758606959",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SROB-036"
   },
@@ -305,10 +501,10 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2022-05-04",
-    "cover_url": "https://img.putaozywimg.com:166/20230625/B174A849A6ED78C8/B174A849A6ED78C8.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SRTD-0274"
   },
@@ -322,10 +518,16 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/b7cfdc29536ef525e8f2a07878515a1c.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20230714/ssis585pl.jpg!320x216.jpg",
     "actress": [
       "鷲尾芽衣"
     ],
@@ -341,8 +543,14 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240122/ssis635pl.jpg!320x216.jpg",
     "actress": [],
@@ -366,10 +574,16 @@ window.PAGE_DATA = [
       "恋乳癖",
       "高清画质"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/04131701e0f2a1203a8aed9e9ccb2c4b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "小宵虎南"
     ],
@@ -391,10 +605,16 @@ window.PAGE_DATA = [
       "薄马赛克",
       "高清画质"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/d4ae500cbb6289646116738fa98bf418.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "凪光",
       "有栖花绯"
@@ -418,8 +638,14 @@ window.PAGE_DATA = [
       "薄马赛克",
       "高清画质"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/23/6830850f8c4b3b91d761ae07/cover.jpg",
     "actress": [
@@ -462,8 +688,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683b11d415dec3d802a987b3/cover.jpg",
     "actress": [
@@ -498,8 +730,14 @@ window.PAGE_DATA = [
       "高清画质",
       "抹油"
     ],
-    "type": "",
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa816ac813dc779d963b6/cover.jpg",
     "actress": [
@@ -518,10 +756,16 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/07-04/11/bdxpx15j1ex1133bdxpx15j1ex53591.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-356"
   },
@@ -535,8 +779,14 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241110-1/4129025f391a709bcc424ddf7bcc99ac.jpg",
     "actress": [],
@@ -552,12 +802,41 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240518/RK2zHRmM/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-995"
+  },
+  {
+    "id": 94565,
+    "IDcode": "STARS-9951",
+    "title": "億円契約の芸能人が衝撃の4本番解禁！矢埜愛茉【圧倒的映像でヌク！】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-9951"
   },
   {
     "id": 535688,
@@ -569,8 +848,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230627/h_1605stsk00050pl.jpg!320x216.jpg",
     "actress": [],
@@ -586,8 +865,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230719/h_1605stsk00058pl.jpg!320x216.jpg",
     "actress": [],
@@ -603,8 +882,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230812/h_1605stsk061pl.jpg!320x216.jpg",
     "actress": [],
@@ -620,10 +899,10 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/202309113/h_1605stsk062pl.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-062"
   },
@@ -637,8 +916,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240514/h_1605stsk00069pl.jpg!320x216.jpg",
     "actress": [],
@@ -655,8 +934,14 @@ window.PAGE_DATA = [
       "高清画质",
       "中文字幕"
     ],
-    "type": "",
-    "company": "Sadistic Village",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/papachangpian-img/f04f59d8fe.jpg",
     "actress": [],
@@ -678,8 +963,14 @@ window.PAGE_DATA = [
       "素人作品",
       "高清画质"
     ],
-    "type": "",
-    "company": "Sadistic Village",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/012d229f6d62a447050121dc99fe8533.jpg",
     "actress": [
@@ -700,8 +991,14 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240527/55t38005pl.jpg!320x216.jpg",
     "actress": [],
@@ -718,8 +1015,8 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250930/rzBirgLW/1.jpg",
     "actress": [],
@@ -735,8 +1032,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231005/tanp009pl.jpg!320x216.jpg",
     "actress": [],
@@ -752,10 +1049,10 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2023/01/yekqlt0kkg2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-010"
   },
@@ -769,8 +1066,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240115/tcd285pl.jpg",
     "actress": [],
@@ -786,10 +1083,10 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://bf3.qrtuv.com/202405/31/64nyH6aD351/screen/103.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEACHER-RED"
   },
@@ -803,10 +1100,10 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2022-12-28",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOEN-074"
   },
@@ -822,9 +1119,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://bf2.qrtuv.com/video/f7401a944a86b159/index.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-SG035"
   },
@@ -840,9 +1143,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230504-1/c96d74fe5b12f1839172b865ff4aa25a.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110207"
   },
@@ -858,9 +1167,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230505-1/19c350aef391cb9fbfb67f3324023fc2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110209"
   },
@@ -876,9 +1191,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230505-1/c38154ee765fc92e6c7292f880d1b775.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110210"
   },
@@ -895,9 +1216,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230609-1/866c8244d24f11a91a4fe540f25b2091.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110225"
   },
@@ -914,9 +1241,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230505-1/19b4e134ef47ba5b28ba89235c3aeeb9.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110237"
   },
@@ -932,9 +1265,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230609-1/f620a8b2f8b3f2cecb6c16a686789d5b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110246"
   },
@@ -949,8 +1288,8 @@ window.PAGE_DATA = [
       "人妻",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20240317-1/afdccf716bfe08cc5586cf9a9998e9ef.jpg",
     "actress": [],
@@ -967,8 +1306,8 @@ window.PAGE_DATA = [
       "人妻",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20240317-1/09fda020eafa45b5e635894c2520a895.jpg",
     "actress": [],
@@ -986,8 +1325,14 @@ window.PAGE_DATA = [
       "高清画质",
       "中文字幕"
     ],
-    "type": "",
-    "company": "K.M.P",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "K.M.P",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
+        "works_count": 1270
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241203-1/c94050926f44aa159aae91933e1c74f7.jpg",
     "actress": [],
@@ -1011,8 +1356,14 @@ window.PAGE_DATA = [
       "巨乳",
       "高清画质"
     ],
-    "type": "",
-    "company": "K.M.P",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "K.M.P",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
+        "works_count": 1270
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4593a1e88ae0c089e500d9cdc76ae809.jpg",
     "actress": [],
@@ -1029,8 +1380,8 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231204/1undg007pl.jpg!320x216.jpg",
     "actress": [],
@@ -1046,10 +1397,10 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230906-1/a925e600be52af348474b21d4df9ecf9.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UNIFORM"
   },
@@ -1064,8 +1415,14 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
-    "company": "UNFINISHED",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "UNFINISHED",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_UNFINISHED",
+        "works_count": 85
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240127/urkk077pl.jpg!320x216.jpg",
     "actress": [],
@@ -1081,8 +1438,14 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "DREAMTICKET",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230909/24vdd175pl.jpg!320x216.jpg",
     "actress": [],
@@ -1098,10 +1461,16 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "VENUS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "VENUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_VENUS",
+        "works_count": 1101
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20240703/tlNAT4Y1/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-199"
   },
@@ -1116,8 +1485,14 @@ window.PAGE_DATA = [
       "乱伦",
       "高清画质"
     ],
-    "type": "",
-    "company": "VENUS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "VENUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_VENUS",
+        "works_count": 1101
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231003/venx203pl.jpg!320x216.jpg",
     "actress": [],
@@ -1134,8 +1509,8 @@ window.PAGE_DATA = [
       "高清画质",
       "中文字幕"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20211218-1/1826e9d5056b8a7bd444ea53da7f5880.jpg",
     "actress": [],
@@ -1151,10 +1526,10 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d856d5d6fbef4e90cd53c8/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSRAZ-013"
   },
@@ -1168,8 +1543,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240910/2cUMtvI7/1.jpg",
     "actress": [],
@@ -1185,8 +1560,14 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "WAAP GROUP",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "WAAP GROUP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_WAAP_GROUP",
+        "works_count": 431
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230719/2wzen062pl.jpg!320x216.jpg",
     "actress": [],
@@ -1202,8 +1583,14 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "WAAP GROUP",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "WAAP GROUP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_WAAP_GROUP",
+        "works_count": 431
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230814/2wzen063pl.jpg!320x216.jpg",
     "actress": [],
@@ -1219,8 +1606,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/2f7554d64d7dccba1aaf4ed78aff26b4.jpg",
     "actress": [],
@@ -1236,8 +1623,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/d92c13bababda584bfd481d8e90ab032.jpg",
     "actress": [],
@@ -1253,8 +1640,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/d451d638aac972a0eddb0f6aae6d75f6.jpg",
     "actress": [],
@@ -1270,8 +1657,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/8455ea4db5872a9127ac107105cb6342.jpg",
     "actress": [],
@@ -1287,8 +1674,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/4588325835f9d8c79adc4818ade2552a.jpg",
     "actress": [],
@@ -1304,8 +1691,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/6e1ca4808b1469ea70ab63e9d6aa8a0c.jpg",
     "actress": [],
@@ -1321,8 +1708,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/81fecb470c733cbc48389ecbde89b0fb.jpg",
     "actress": [],
@@ -1338,8 +1725,8 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250213-1/806fd1d9fd55bd69cb05c447168e4f4c.jpg",
     "actress": [],

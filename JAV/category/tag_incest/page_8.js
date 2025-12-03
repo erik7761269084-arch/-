@@ -1,1061 +1,366 @@
 window.PAGE_DATA = [
   {
-    "id": 432506,
-    "IDcode": "BMNP-093",
-    "title": "井川(乱伦)",
+    "id": 223634,
+    "IDcode": "AP-081",
+    "title": "因为欠债妈妈成为了自宅洗浴女郎",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/4be82276e0a76ef0f2a58deba31d1a91.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMNP-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-081"
   },
   {
-    "id": 432535,
-    "IDcode": "BMNP-096",
-    "title": "どスケベ奥様多数在籍！！会員No.096新山(乱伦)",
+    "id": 589330,
+    "IDcode": "AP-133",
+    "title": "禁止与我女儿的女朋友的春药女同性恋！多年来我一直是无性的",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "女同",
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/1646aa1bedc1932d8bcc054ebb1a4459.jpg",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/87964_cover_2025-09-10_003805.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMNP-096"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-133"
   },
   {
-    "id": 442452,
-    "IDcode": "BNJC009",
-    "title": "異常快感地獄脳内麻薬出まくり意識吹っ飛ぶ快感近親相姦乳首キメセクVOL.4(乱伦)",
+    "id": 540878,
+    "IDcode": "AP-134",
+    "title": "家族旅行で姊の无防备巨乳が目の前に！！母子家庭第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/84e0c5e6d4de1cac34ab356cac1ebe0a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNJC009"
-  },
-  {
-    "id": 442451,
-    "IDcode": "BNJC015",
-    "title": "異常快感地獄脳内麻薬出まくり意識吹っ飛ぶ快感近親相姦乳首キメセクVOL.10(乱伦)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/1f7d63aff125ca46ea294644ed8ee3ad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNJC015"
-  },
-  {
-    "id": 214791,
-    "IDcode": "BOKD-168",
-    "title": "小吃店的妈妈-橘芹那",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2ab2892ef89d08d013b820348506ec02.jpg",
-    "actress": [
-      "橘芹那"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-168"
-  },
-  {
-    "id": 589317,
-    "IDcode": "BOKD-259",
-    "title": "喜欢从鸡巴里出来的懒惰精液的变态男人的女儿 - 香椎つむぎ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/29622_cover_2025-09-10_053100.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-259"
-  },
-  {
-    "id": 566648,
-    "IDcode": "BONY-005",
-    "title": "用口交和中出强制榨精的贪婪含屌姐姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/545e2d987a3cc5ce07c4000193f8d4d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-005"
-  },
-  {
-    "id": 17649,
-    "IDcode": "BONY-073",
-    "title": "在街上用口交和中出強精搾取的姐姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "多P",
-      "淫亂",
-      "緊身衣",
-      "口爆",
       "乱伦",
-      "中出",
-      "蕩婦",
-      "口交",
-      "亂交 • 群P",
-      "劇情"
+      "巨乳"
     ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/5bebae01-6dd3-4fa1-b498-eaa791b7d4a1.jpg",
-    "actress": [
-      "美波梢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-073"
-  },
-  {
-    "id": 101665,
-    "IDcode": "BONY-091",
-    "title": "丢弃色情书的妈妈-花井百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "戏剧",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "母亲"
-    ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e0344b79f1ac4ec48bbe79/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-134"
   },
   {
-    "id": 13169,
-    "IDcode": "BONY-110",
-    "title": "爲了救我而被囚禁被逼灌了媚藥而陷入墮落地獄的姐姐 ~ 葉月ひな",
+    "id": 213298,
+    "IDcode": "AP-409",
+    "title": "母亲和女儿在同一时间",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "多P",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-409"
+  },
+  {
+    "id": 590540,
+    "IDcode": "AP-574",
+    "title": "絶伦少年 美乳义妹连続中出し痴●～父亲の再婚で突然できた美乳で美人な义理の妹を何度も何度も连続中出しで犯しまくる！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230426-1/8024d0420f155f413d06d27146caf506.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-574"
+  },
+  {
+    "id": 74974,
+    "IDcode": "AP-656",
+    "title": "親友の母親で脱！童貞夜這い連続中出し！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "凌辱",
-      "美少女",
-      "緊縛",
-      "綁架",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "女上位",
-      "監禁",
-      "亂交 • 群P",
-      "口交",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "中出",
-      "美腿",
-      "少女",
-      "SM",
-      "劇情",
-      "顏射",
-      "輪姦",
-      "美少女電影",
-      "乱伦",
-      "脅迫做愛",
-      "調教",
-      "監獄",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a095aac813dc779d95f5c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-110"
-  },
-  {
-    "id": 454506,
-    "IDcode": "BREK-004",
-    "title": "妈妈正在接受训练。沮丧的母亲被绑起来并用涂鸦和玩具折磨。嫉妒的儿子和春药乱伦。儿子和他的朋友把她训练成母狗。寺岛志穗,三原堇,吉井美纪。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "G.M.E",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac53655337d7f7be48d55/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BREK-004"
-  },
-  {
-    "id": 5859,
-    "IDcode": "BREK-005",
-    "title": "被兒子調教的母親：變態偷東西兒子用媚藥搞媽、廢柴兒子塗鴉玩具玩弄、狗奴調教加3P的禽獸兒子和朋友 ~ 北川礼子 伊織涼子 嶋崎かすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "巨尻",
-      "母親",
-      "M男・M女",
-      "口爆",
-      "媚藥・迷藥",
-      "插入異物",
-      "性虐癖",
-      "故事集",
-      "唾液敷面",
-      "蠟燭",
-      "鬼畜片",
-      "職員",
-      "亂倫",
-      "凌辱",
-      "美腳",
-      "強姦",
-      "拘束・拷問",
-      "自宅",
-      "紋身刺字",
-      "五十路",
-      "亂交 • 群P",
-      "口交",
-      "淫蕩・硬核",
-      "暗黑系",
-      "熟女",
-      "導尿",
-      "兩男一女",
-      "人妻",
-      "深喉",
-      "母子",
-      "淫亂",
-      "四十路",
-      "中出",
-      "蕩婦",
-      "老太婆",
-      "後入",
-      "重口味",
-      "劇情",
-      "顏射",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "口球",
-      "乱伦",
-      "魔鬼系",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "G.M.E",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c79e198bc99dfdde6ce62/cover.jpg",
-    "actress": [
-      "姫川礼子",
-      "伊织凉子",
-      "嶋崎かすみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BREK-005"
-  },
-  {
-    "id": 517439,
-    "IDcode": "BREK005",
-    "title": "春药侵犯母亲！变态偷窃儿子×无业儿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/24/68816146f0620ff98b35dc57/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BREK005"
-  },
-  {
-    "id": 67860,
-    "IDcode": "BRK-002",
-    "title": "正在接受培训的母亲-本庄優花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
       "已婚妇女",
-      "戏剧",
       "乱伦",
-      "白天出轨",
-      "婆婆",
-      "母乳",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
+      "新娘，年轻妻子",
+      "中出",
+      "素人作品",
+      "精选，综合"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/687064023ed39b57c0d054e3/cover.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-05-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/1638a0d93c23088564f55fd0e03ac94e.jpg",
     "actress": [
-      "本庄優花"
+      "明里友香",
+      "神ユキ",
+      "秋本詩音"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BRK-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-656"
   },
   {
-    "id": 515902,
-    "IDcode": "BRK-002-",
-    "title": "被母亲侵犯的本庄优花",
+    "id": 589559,
+    "IDcode": "AP-676",
+    "title": "绝世小舅子大嫂连续中出地狱~追5个突然被造出来的小姨子，一次又一次射精！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/687064023ed39b57c0d054e3/cover.jpg",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/03/89062_cover_2025-07-03_021146.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BRK-002-"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-676"
   },
   {
-    "id": 470080,
-    "IDcode": "BSTC-028",
-    "title": "绝对服从妹妹人偶 麻美",
+    "id": 592637,
+    "IDcode": "AP-691",
+    "title": "强 ● 乱伦 你看到在你面前被很多男人围著的女儿吗？或者你，父亲，有一个女儿？选一个！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-691"
+  },
+  {
+    "id": 594981,
+    "IDcode": "AP-702",
+    "title": "疯狂继父",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b3e31f2cbbe464027d1f5a/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSTC-028"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-702"
   },
   {
-    "id": 470117,
-    "IDcode": "BSTC-029",
-    "title": "共享妹妹 小希 跟朋友一起玩弄妹妹的身體！",
+    "id": 526067,
+    "IDcode": "AP-724",
+    "title": "_A父亲に复雠ビデオレター！巨乳义母喉奥媚薬イラマPart1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "乱伦",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af6861d7791f92730e9322/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSTC-029"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-724"
   },
   {
-    "id": 457124,
-    "IDcode": "BTIS-141",
-    "title": "男士美容沙龙 男人的女儿 平手诗堀里 平手志帆梨",
+    "id": 82966,
+    "IDcode": "AP-736",
+    "title": "ボクの可愛い妹を売ります。小さい頃からずっとボクのいいなりの妹をこれから犯しに行ってきます…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250831-1/6489cb567122e1dce0f0b2143644941a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTIS-141"
-  },
-  {
-    "id": 454130,
-    "IDcode": "BUR-447",
-    "title": "浴衣繼女亂倫 4 小時",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf024b958ac04f27fb6b4b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-447"
-  },
-  {
-    "id": 76341,
-    "IDcode": "BUR-538",
-    "title": "兄妹性交4時間～わたし、おにいちゃんとエッチしちゃいました～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
+      "凌辱",
       "4小时以上作品",
       "乱伦",
-      "无毛",
       "中出",
-      "美少女电影",
       "素人作品",
       "妹妹",
-      "投稿"
+      "精选，综合"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2020-01-01",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/05e3294866109e35f4649fcd929c4b12.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-538"
-  },
-  {
-    "id": 100153,
-    "IDcode": "BUR-570",
-    "title": "眠る女は格好の獲物！暗がりから忍び寄る魔の手に寝込みを襲われる恐怖！リアルドキュメント禁断夜●いレ●プ中出し流出映像 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "深喉",
-      "4小时以上作品",
-      "乱伦",
-      "魔鬼系",
-      "中出",
-      "纪录片",
-      "美少女电影",
-      "投稿"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2021-05-05",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/12bur570/12bur570pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-570"
-  },
-  {
-    "id": 516845,
-    "IDcode": "BUR-606",
-    "title": "對女OO妹妹中出OO的OO哥哥投稿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914e7f746d2372859bc0031/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-606"
-  },
-  {
-    "id": 579598,
-    "IDcode": "BUR-619",
-    "title": "偶然か？诱っているのか？一つ屋根の下で起きたハプニングエロ！姐弟兄妹ラッキースケベ8组中出し近亲相奸4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240307/wVLIFNbP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-619"
-  },
-  {
-    "id": 529757,
-    "IDcode": "C-413",
-    "title": "友人の母亲 総集编9 11人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230107-1/ca50b0bcfe5e34f8963c413e1ca638ff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-413"
-  },
-  {
-    "id": 559074,
-    "IDcode": "CARIBBEANCOM-043024-001",
-    "title": "Califre顺从女儿的七变待客全套",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250120-1/8f16acd4190c7d35297ef6e4211e88ce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-043024-001"
-  },
-  {
-    "id": 140811,
-    "IDcode": "CARIBBEANCOM-062123-001",
-    "title": "当我的朋友不在的时候我向朋友的妈妈失去了童贞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250124-1/4839f33222fe5edc4e5dc7dd05deb22e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-062123-001"
-  },
-  {
-    "id": 559103,
-    "IDcode": "CARIBBEANCOM-062524-001",
-    "title": "我很高兴儿子回家了但我想继续夫妻生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250120-1/9924efd2b08184fcd6823c82f5bd5317.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-062524-001"
-  },
-  {
-    "id": 140888,
-    "IDcode": "CARIBBEANCOM-081223-001",
-    "title": "用不穿内裤的骆驼趾来炫耀你父亲的朋友们羞愧和兴奋都湿透了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250125-1/78f4f0f62518ed34b450aaba30676c87.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-081223-001"
-  },
-  {
-    "id": 141825,
-    "IDcode": "CARIBBEANCOM-091121-001",
-    "title": "我一直爱著你在我寡居的优雅姐夫的肖像前",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250129-1/96bc23748e6858f3a934462cc8b3f399.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-091121-001"
-  },
-  {
-    "id": 140981,
-    "IDcode": "CARIBBEANCOM-110722-001",
-    "title": "挑战聊天小姐姐赚钱好难",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250125-1/91ad505ebab613b9a0c9398a7fc311ad.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-01-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221204-1/a04cf7dafac7040d3900a4c3e9004ebf.jpg",
     "actress": [
-      "樱井凉花"
+      "タツ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-110722-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-736"
   },
   {
-    "id": 140983,
-    "IDcode": "CARIBBEANCOM-112622-001",
-    "title": "的妹妹拥有美丽的巨乳H罩杯巨乳的隐藏性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250125-1/8eb6bb69f87412d8f913b928a04cafb5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-112622-001"
-  },
-  {
-    "id": 553592,
-    "IDcode": "CARIBBEANCOM112622-001",
-    "title": "傲慢妹妹有着漂亮巨乳 〜与H罩杯爆乳妹妹偷偷做爱！〜 西园咲夜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240111-1/45e3fd17db41938979e5eb83006383f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM112622-001"
-  },
-  {
-    "id": 145409,
-    "IDcode": "CARIBBEANCOMPR-052417_001",
-    "title": "我带著睡在路边的女儿回了酒店-小岛ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250212-1/30b60297263fa18c00cc1ca6d20052b4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOMPR-052417_001"
-  },
-  {
-    "id": 82252,
-    "IDcode": "CAWD-019",
-    "title": "与朴素文静的侄女樱萌子汗水淋漓肉体紧贴充满精液和背德气息的禁忌性交",
+    "id": 102811,
+    "IDcode": "AP-755",
+    "title": "不可思议的家庭变态父亲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "淫乱，真实",
-      "校服",
-      "流汗",
-      "乱伦",
-      "接吻",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678747365d57b64bfdda6d6d/cover.jpg",
-    "actress": [
-      "櫻萌子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-019"
-  },
-  {
-    "id": 78772,
-    "IDcode": "CAWD-041",
-    "title": "为了帮处男哥哥戒网瘾妹妹故意露出内裤想转移注意力被抱起强行插入内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "平胸",
-      "乱伦",
-      "中出",
-      "制服"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/695900e976da99cfeb49804a1d16dd9c.jpg",
-    "actress": [
-      "早美怜夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-041"
-  },
-  {
-    "id": 86825,
-    "IDcode": "CAWD-078",
-    "title": "女友的妹妹-丘えりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "内衣",
-      "乱伦",
-      "白天出轨",
-      "美少女电影"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e670fc3ccea2022c2e7a93a137a506c1.jpg",
-    "actress": [
-      "丘惠理奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-078"
-  },
-  {
-    "id": 594088,
-    "IDcode": "CAWD-228",
-    "title": "跟踪者是母亲再婚对象…领悟到无法逃离他的手掌心",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20240720/wxxAEcAY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-228"
-  },
-  {
-    "id": 61040,
-    "IDcode": "CAWD-243",
-    "title": "性爱教练-伊藤舞雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "白天出轨",
-      "无码破解",
-      "中出",
-      "单体作品",
-      "处男"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/LvIlmwD3.jpg",
-    "actress": [
-      "伊藤舞雪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-243"
-  },
-  {
-    "id": 214339,
-    "IDcode": "CAWD-300",
-    "title": "我的听话侄女-桜もこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb51efcf22ae3e04f0f537/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-300"
-  },
-  {
-    "id": 17382,
-    "IDcode": "CAWD-314",
-    "title": "恨你的小妹妹-桜もこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "凌辱",
-      "美少女",
-      "多P",
-      "強姦",
+      "魔鬼系",
       "乱伦",
-      "中出",
-      "監禁",
-      "姐姐・妹妹",
-      "口交",
-      "性感",
-      "報復",
-      "劇情"
+      "中出"
     ],
-    "type": "",
-    "company": "KAWAII",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231208/20231208004736884884.jpg",
-    "actress": [
-      "櫻萌子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-314"
-  },
-  {
-    "id": 84067,
-    "IDcode": "CAWD-356",
-    "title": "娇生惯养的小姨子-日向なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "白天出轨",
-      "乳房",
-      "中出",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/9a173540b007349578e24b690342124f.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/6dfd72cda208c34fd513c91139f88d0f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-356"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-755"
   },
   {
-    "id": 84150,
-    "IDcode": "CAWD-406",
-    "title": "我干了她那个厚颜无耻的妹妹-東雲あずさ",
+    "id": 541116,
+    "IDcode": "APN-035",
+    "title": "番号 母亲强制让女儿与他人发生关系（上）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "白天出轨",
-      "中出",
-      "制服",
-      "妹妹",
-      "单体作品",
-      "高中女生"
+      "乱伦"
     ],
-    "type": "",
-    "company": "KAWAII",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/4bf968e19a3ab44a415558075811bc53.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-406"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APN-035"
   },
   {
-    "id": 69734,
-    "IDcode": "CAWD-419",
-    "title": "我的继父想要我-東雲あずさ",
+    "id": 541107,
+    "IDcode": "APNS-035",
+    "title": "番号 母亲强制让女儿与他人发生关系（上）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "中出",
-      "制服",
-      "单体作品",
-      "高中女生"
+      "乱伦"
     ],
-    "type": "",
-    "company": "KAWAII",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "AURORA PROJECT ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
+        "works_count": 429
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d79b5aa1cc52b642a3f0c36550bfee82.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-419"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-035"
   },
   {
-    "id": 84131,
-    "IDcode": "CAWD-428",
-    "title": "和通奸的公公的舒适而激烈的性爱中",
+    "id": 103769,
+    "IDcode": "APNS-041",
+    "title": "被淫乱的母亲养大的女儿",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "4K",
       "戏剧",
-      "已婚妇女",
+      "多P",
       "乱伦",
-      "白天出轨",
       "中出",
-      "单体作品"
+      "颜射",
+      "高中女生"
     ],
-    "type": "",
-    "company": "KAWAII",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "AURORA PROJECT ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
+        "works_count": 429
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/75f1784aa218f56209a4edb097439db1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "伊藤舞雪"
+      "橘瑪麗",
+      "深田詠美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-428"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-041"
   },
   {
-    "id": 168501,
-    "IDcode": "CAWD-563",
-    "title": "射精之后仍然被两个妹妹追击",
+    "id": 589623,
+    "IDcode": "APNS-117",
+    "title": "被毁的女儿“救救我爸爸……我每天都被可怕的人强奸……今天我被迫取下我哥哥的画笔……”",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240214/cawd563pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-563"
-  },
-  {
-    "id": 168820,
-    "IDcode": "CAWD-573",
-    "title": "被乡下的侄女耳边淫语撩拨-仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "AURORA PROJECT ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
+        "works_count": 429
+      }
     ],
-    "type": "",
-    "company": "KAWAII",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240324/cawd573pl.jpg!320x216.jpg",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/20/96966_cover_2025-09-20_154621.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-573"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-117"
   },
   {
-    "id": 17455,
-    "IDcode": "CAWD-596",
-    "title": "很照顾人的苗条美女姐姐",
+    "id": 98798,
+    "IDcode": "APNS-172",
+    "title": "巨乳表姐妹强制换妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女友・妻子",
-      "兩女一男",
-      "淫亂",
-      "雙飛",
+      "戏剧",
+      "多P",
       "乱伦",
-      "純粹的慾望",
+      "淫妻",
       "中出",
-      "姐姐・妹妹",
       "巨乳",
-      "口交",
-      "劇情",
-      "情趣內衣"
+      "精选，综合",
+      "颜射"
     ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/1afdf18d-a5f4-4dec-a598-3864f8ed8ba9.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "AURORA PROJECT ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_AURORA_PROJECT_ANNEX",
+        "works_count": 429
+      }
+    ],
+    "publish_date": "2020-02-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "愛寶鈴",
-      "天川空",
-      "蓝井优太"
+      "美園和花",
+      "平井シンジ",
+      "森本つぐみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-596"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-172"
   },
   {
-    "id": 17424,
-    "IDcode": "CAWD-601",
-    "title": "母親再婚生活開始一週內 我中出了繼父帶來的姊姊那毫無防備的性感屁股",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "乱伦",
-      "中出",
-      "姐姐・妹妹",
-      "劇情",
-      "美臀",
-      "接吻"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef2646bf45974ea627ed31/cover.jpg",
-    "actress": [
-      "有栖舞衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-601"
-  },
-  {
-    "id": 158048,
-    "IDcode": "CAWD-623",
-    "title": "还是处男的我被朋友的姐姐诱惑 三天三夜的15发破处性交",
+    "id": 590273,
+    "IDcode": "AQSH-038",
+    "title": "[]妻子打工外出时间与小姨的淫荡午后 羽田翼",
     "year": "",
     "country": "",
     "genre": "",
@@ -1063,596 +368,203 @@ window.PAGE_DATA = [
       "乱伦",
       "中文字幕"
     ],
-    "type": "",
-    "company": "KAWAII",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250511-1/e9ccf69b7b0f64f5910268c3906c05fe.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221007-1/7236e25320b696a954b2ab8aa61b4502.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-623"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-038"
   },
   {
-    "id": 15996,
-    "IDcode": "CAWD-629",
-    "title": "和回老家的姐姐商量处男毕业的事之后",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "自宅",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "潮吹",
-      "深喉",
-      "內衣",
-      "中出",
-      "姐姐・妹妹",
-      "少女",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "自慰",
-      "乱伦",
-      "乳交",
-      "無毛",
-      "蘿莉控",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301093227397397.jpg",
-    "actress": [
-      "日向夏",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-629"
-  },
-  {
-    "id": 14325,
-    "IDcode": "CAWD-658",
-    "title": "对女友妹妹实行强奸计划-设乐悠日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "網襪",
-      "美少女",
-      "美腳",
-      "癡女",
-      "強姦",
-      "羞恥",
-      "色白",
-      "自宅",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "中出",
-      "美腿",
-      "美少女電影",
-      "乱伦",
-      "劇情",
-      "騎乗位",
-      "情趣內衣",
-      "小姨子"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67879d51c179ffb1db907d27/cover.jpg",
-    "actress": [
-      "設樂夕日",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-658"
-  },
-  {
-    "id": 12351,
-    "IDcode": "CAWD-708",
-    "title": "看起来很成熟的女友妹妹-设乐悠日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "美少女",
-      "美腳",
-      "巨乳",
-      "口交",
-      "心機婊",
-      "形象俱樂部",
-      "NTR",
-      "出軌",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "乱伦",
-      "偷竊",
-      "足交",
-      "女上位",
-      "騎乗位",
-      "小姨子"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830001549759759.jpg",
-    "actress": [
-      "設樂夕日"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-708"
-  },
-  {
-    "id": 10965,
-    "IDcode": "CAWD-741",
-    "title": "我的肛门被继父的扭曲性教育中舔舔舔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "巨尻",
-      "小隻馬",
-      "苗條",
-      "臀控",
-      "流汗",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "自宅",
-      "變態",
-      "制服",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "抹油",
-      "清純",
-      "舔陰",
-      "繼父",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "舔腳",
-      "脅迫做愛",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/b55a9f4bb75cbd11a917132be2501b9c.jpg",
-    "actress": [
-      "設樂夕日"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-741"
-  },
-  {
-    "id": 5714,
-    "IDcode": "CAWD-835",
-    "title": "单身父亲把亲生女儿当性处理人偶卖掉抵债-設楽ゆうひ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "吞精",
-      "小隻馬",
-      "M男・M女",
-      "口爆",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "父親",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "大奶头",
-      "美乳",
-      "欠債肉償",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "深喉",
-      "高顏值",
-      "校花",
-      "明星臉",
-      "極品美人",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "美臀",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "乱伦",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171918184184_thumbnail.webp",
-    "actress": [
-      "設樂夕日"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-835"
-  },
-  {
-    "id": 3959,
-    "IDcode": "CAWD-853",
-    "title": "人妻小姐姐沉迷于我的肉棒-伊藤舞雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
-      "巨尻",
-      "小隻馬",
-      "純粹的慾望",
-      "慾求不滿",
-      "口爆",
-      "綠茶婊",
-      "苗條",
-      "臀控",
-      "流汗",
-      "4K",
-      "美腳",
-      "癡女",
-      "胸控・戀乳癖",
-      "色白",
-      "大奶头",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "出軌",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "乱伦",
-      "乳交",
-      "無毛",
-      "偷竊",
-      "御姐系",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085248238238_77364_thumbnail.webp",
-    "actress": [
-      "伊藤舞雪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-853"
-  },
-  {
-    "id": 4993,
-    "IDcode": "CAWD-856",
-    "title": "单亲贫困家庭的孝顺女孩20年来一直牵挂母亲-月丘紅羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "小隻馬",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "蒙面・面罩",
-      "性虐癖",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "美腳",
-      "拘束・拷問",
-      "羞恥",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "欠債肉償",
-      "早漏",
-      "巨乳",
-      "性感",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "抹油",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "乱伦",
-      "魔鬼系",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033213354354_thumbnail.webp",
-    "actress": [
-      "月丘紅羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-856"
-  },
-  {
-    "id": 3200,
-    "IDcode": "CAWD-866",
-    "title": "和服店的女儿激情中出-塚本さや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "3P・4P",
-      "小隻馬",
-      "真實拍攝",
-      "和服・浴衣・喪服",
-      "4K",
-      "美腳",
-      "羞恥",
-      "真人秀",
-      "出道作品",
-      "色白",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "接吻",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "正統派",
-      "單體作品",
-      "兩男一女",
-      "短髮",
-      "淫亂",
-      "美人",
-      "企畫",
-      "後入",
-      "紀念作",
-      "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "乱伦",
-      "無毛",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "KAWAII",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023659315315_83625_thumbnail.webp",
-    "actress": [
-      "塚本沙耶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-866"
-  },
-  {
-    "id": 529354,
-    "IDcode": "CD3",
-    "title": "【优惠套餐】极痴女职业女性after 5·知识分子戴眼镜的我的妈妈·清秀妻子乱舞的瞬间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230927-1/b89a51ad685f09e1e0dea30a8cc06d15.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CD3"
-  },
-  {
-    "id": 536564,
-    "IDcode": "CEMD-119",
-    "title": "母子アナルレズビアン 望月あやか 岩沢香代 ～1人の女として义母のアナルを责める淫らな変态娘！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "セレブの友",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231015/cemd119pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-119"
-  },
-  {
-    "id": 87323,
-    "IDcode": "CEMD-240",
-    "title": "隔壁搬來的少妻癡女超淫蕩露內褲誘惑3 美波桃",
+    "id": 75536,
+    "IDcode": "AQSH-050",
+    "title": "引きこもり中年息子を溺愛する優しい母 高瀬智香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "已婚妇女",
-      "内衣",
       "乱伦",
-      "超乳",
+      "中出",
       "成熟的女人",
-      "单体作品"
+      "母亲"
     ],
-    "type": "",
-    "company": "セレブの友",
-    "publish_date": "2022-09-24",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4639904be0ad1d6dc53e6b95ccab2287.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2019-12-13",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/6fd433b39f9cab334833f67f3b319718.jpg",
+    "actress": [
+      "平井シンジ",
+      "高瀬智香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-050"
+  },
+  {
+    "id": 547709,
+    "IDcode": "AQSH-105",
+    "title": "シンママの肉体谢罪 不良息子の责任で同级生の父亲に种付けされてイキ狂うドM母亲 冈西友美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231015/BDfq4UAA/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-240"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-105"
   },
   {
-    "id": 105839,
-    "IDcode": "CEMD-451",
-    "title": "义母每天都诱惑我-夏川步美",
+    "id": 561811,
+    "IDcode": "AQSH-109",
+    "title": "シンママの肉体谢罪 不良息子の责任で同级生の父亲に胁され屈辱种付け！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "婆婆",
-      "乱伦",
-      "单体作品",
-      "戏剧"
+      "乱伦"
     ],
-    "type": "",
-    "company": "セレブの友",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688910af98bc99dfddbdb37e/cover.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-451"
+    "cover_url": "https://tuaskbgnekr.com/20240219/ooEzFtZL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-109"
   },
   {
-    "id": 13738,
-    "IDcode": "CEMD-543",
-    "title": "每天用性引誘我的繼母 鬆本梨穂",
+    "id": 553487,
+    "IDcode": "ARA-016",
+    "title": "乱伦 x 正宗中出第 2 章 Erika Minami - 南えりか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "繼母",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250713-1/6b7928a1b9ae14afb4c41d2720768451.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-016"
+  },
+  {
+    "id": 553484,
+    "IDcode": "ARA-017",
+    "title": "乱伦 x 正宗中出第 3 章 Chisa Nishii - 西井千纱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250713-1/930ea7eed01cad8d5004fa0ce78d92dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-017"
+  },
+  {
+    "id": 553482,
+    "IDcode": "ARA-020",
+    "title": "正版中出×乱伦妄想太惊人的人妻 H罩杯巨乳人妻新居山枫 - 新山枫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "人妻",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "手指插入",
       "乱伦",
-      "乳交",
-      "女上位",
-      "騎乗位"
+      "巨乳"
     ],
-    "type": "",
-    "company": "セレブの友",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2fad0ce5a404e9bac68fc/cover.jpg",
-    "actress": [
-      "松本梨穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-543"
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250713-1/a498ba9f45f338dd5790cf8d8c0b842b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-020"
   },
   {
-    "id": 69379,
-    "IDcode": "CEMD-668",
-    "title": "毎日SEXで誘惑して中出し調教した義母 那賀崎ゆきね",
+    "id": 153428,
+    "IDcode": "ARA-128",
+    "title": "19岁的丰满女儿Ayumi出现我喜欢AV并且我在租赁视频店打工我有一个男朋友但是一个变态的女孩和一个渴望的演员一起来做爱我会在它开始销售时租用它请喜欢它",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "恶作剧",
-      "乱伦",
-      "婆婆",
-      "中出",
-      "单体作品"
+      "乱伦"
     ],
-    "type": "",
-    "company": "セレブの友",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899560b55337d7f7bcfadfc/cover.jpg",
-    "actress": [
-      "那賀崎雪音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-668"
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/8d3f9c9b4db6e9c9a053252b1dd6452c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-128"
   },
   {
-    "id": 549921,
-    "IDcode": "CESD-624",
-    "title": "贫乏母子家庭の巨乳义母と息子の近亲相奸 岛津かおる",
+    "id": 153321,
+    "IDcode": "ARA-152",
+    "title": "如果你觉得它太漂亮了目录模型Tomomi-chan其实美女模特也是情妇千万不要错过Mman爸爸准备的Slutplay为什么是AV外观我什至不教我来学习是因为我想成为更多的爸爸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-152"
+  },
+  {
+    "id": 153151,
+    "IDcode": "ARA-173",
+    "title": "21岁的Kimi-chan来帮助她家的花店申请的理由是因为我喜欢性如此简单的动机都是谎言我爱深喉我爱打屁股我爱窒息超deM你是来矛的吗嗯我来亚拉雷了花店的传人女儿传播maco让花朵绽放",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250331-1/c00c3ac2c2e017ebb59b3f6655a8cc8a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-173"
+  },
+  {
+    "id": 153328,
+    "IDcode": "ARA-177",
+    "title": "饺子店的女儿小花来了申请理由是性欲太旺盛其实是为了展现好身材而来的色情姐姐油光闪闪的BODY性感度升级风格出众的F罩杯情色饺子摇晃连续极致",
     "year": "",
     "country": "",
     "genre": "",
@@ -1660,986 +572,1706 @@ window.PAGE_DATA = [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231125/cesd624pl.jpg!320x216.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/0c6f8f89066fb2b0ac2392ea134ee084.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-624"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-177"
   },
   {
-    "id": 522938,
-    "IDcode": "CESD-637",
-    "title": "波多野结衣- 家族揃ってカラダで稼ぐ売春母子家庭",
+    "id": 153350,
+    "IDcode": "ARA-280",
+    "title": "超级SSS班25岁银座女主人美樱来了申请太美的Zagin-chan的原因是Akiaki已经是一个咸爸爸了我想被AV演员拥抱杰出的风格G-cuppieots其实她是来炫耀自己的美貌的很多爸爸抱著的身体超级敏感银座风",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250405/ldHfBMxP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-637"
-  },
-  {
-    "id": 198588,
-    "IDcode": "CETD-263",
-    "title": "儿子太懦弱了只能看着老妈被人侵犯-谷原ゆき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/10/1e25f5a322fa255cbf20e60b5525c3a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CETD-263"
-  },
-  {
-    "id": 82967,
-    "IDcode": "CHA-003",
-    "title": "バレたら完全家庭崩壊！自宅で弟チ○ポを狙うリスク無視のエロ嫁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
+      "嫩妹",
       "乱伦",
-      "荡妇",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/a63f130a37f6a1c95a95078d27c0bb11.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-280"
+  },
+  {
+    "id": 153375,
+    "IDcode": "ARA-379",
+    "title": "巨乳22岁野女人小Sana来了她申请的原因是现在很少见的盒子里的小姐姐不用工作就帮著做家务真空吹最佳奶操大量喷超乎想像的变态女孩不要错过这个天赋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/fec07960af92bc5b1a8c07f0aceab471.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-379"
+  },
+  {
+    "id": 153373,
+    "IDcode": "ARA-385",
+    "title": "超级SSS班挫败感24岁BODY太色情小翼来了她申请成为烤鸡肉串连锁全职员工的原因是工作的压力和挫折是极限我有看性的欲望......我想展示标签之外的情色姐姐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/f098cce53fc84a68b1cc6e9c3541b672.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-385"
+  },
+  {
+    "id": 153366,
+    "IDcode": "ARA-401",
+    "title": "工作中的AV外观23岁无与伦比的deM女儿Shuka-chan来访她申请每周看4.5个AV的理由是我想成为一个玩具......训练侮辱游戏强迫Iramachi反正做变态突然显示onaMan果汁多巴多巴状态逃课被侵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/63e0e648cf95715293efd79ea0b86504.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-401"
+  },
+  {
+    "id": 153364,
+    "IDcode": "ARA-410",
+    "title": "超然之美27岁太色情小酱酱来了她申请广告公司工作的理由是最近心碎了新娘培训撇开借口不说干净利落的美姐姐不需要修炼的淫荡美人满眼都是欲望不要错过以美丽女人的骄傲的变态SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/6e032074da50303586c5a77c32a838a4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-410"
+  },
+  {
+    "id": 153387,
+    "IDcode": "ARA-445",
+    "title": "爆乳妹21岁H杯奶加音酱来了她申请公司破产的原因是我没有钱一个严重的问题担心后用H罩杯大赚一笔的女儿千万不要错过在痛苦中不断晕倒并重复暨的大奶美少女的性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/c5384df3a13db2958852ef277853cd92.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-445"
+  },
+  {
+    "id": 153385,
+    "IDcode": "ARA-449",
+    "title": "超无畏花痴27岁池池姐姐小杉来了她申请雇主破产失业的原因是我想感觉至少和性一样......Feratech好MuchimuchiNiceBottom好EroticBODY不停的大量喷出是必看不要错过生活的波涛汹涌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/adc23a67cb42b089192d96feef9343c1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-449"
+  },
+  {
+    "id": 153384,
+    "IDcode": "ARA-454",
+    "title": "神奶的女儿21岁H罩杯巨乳Ruka酱来了她申请上大学的原因是我的兼职工作减少了我的钱我有一个胸部承认她的胸部是武器的色情聪明女大学生必看不要错过京东没钱却有胸的刺激激烈的SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/f318931d2be4f0595910c90306805e23.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-454"
+  },
+  {
+    "id": 153420,
+    "IDcode": "ARA-466",
+    "title": "国宝级美乳21岁小便女儿亚里沙酱来了她申请加入剧团的理由是我一个日元都没有FairampPinkNipples全身性感区厚打击舌头拧轮辋工作大量喷出amp和女儿的真实gachiSEX重复cum千万不要错过",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250402-1/59e992f94908c11ceea809fb086d9a5b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-466"
+  },
+  {
+    "id": 550698,
+    "IDcode": "ARAN-067",
+    "title": "快感火达磨女堕落社 疯狂高潮男人的女儿 喝下危险春药的牛逼女王严重飞翔高潮！梦幻城堡之夜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Baby Entertainment",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
+        "works_count": 710
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250112-1/c1c5805658ba8535192226c9f253c636.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARAN-067"
+  },
+  {
+    "id": 469590,
+    "IDcode": "ARAN-072",
+    "title": "快感火球女堕落俱乐部 达到疯狂高潮的男人的女儿 可爱的巨屌女孩在色情地狱中抽搐！狐森律",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Baby Entertainment",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
+        "works_count": 710
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/6828abc05d899f6361092606/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARAN-072"
+  },
+  {
+    "id": 592650,
+    "IDcode": "ARM-811",
+    "title": "Panchira Pankoki 女儿在办公室！ !! - 夏希乃亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/13/29109_cover_2025-06-13_074912.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-811"
+  },
+  {
+    "id": 92444,
+    "IDcode": "ASD-568",
+    "title": "催眠女友的兩個傲嬌妹妹變成我專屬的肉便器稻場流花桐嶋莉乃。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/9219ddfc55620f3673cd83384f330eae.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASD-568"
+  },
+  {
+    "id": 92432,
+    "IDcode": "ASD-742",
+    "title": "睡眠調教姐姐觀察100天的回憶記錄深田詠美。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/6d4103e517f0e1ffbefbfeeaf1128a3a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASD-742"
+  },
+  {
+    "id": 68900,
+    "IDcode": "ASIA-116",
+    "title": "気持ちいいよ…母さん 帰ってきた息子はニューハーフ！母と娘の淫靡な物語8編！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "变性者",
+      "戏剧",
+      "4小时以上作品",
+      "女装人妖",
+      "乱伦",
+      "中出",
+      "亚洲女演员"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/23/68307c488c4b3b91d760bd66/cover.jpg",
+    "actress": [
+      "松嶺こはく",
+      "りん",
+      "ミランダ・みゆ",
+      "樱井やえ",
+      "リンドル星川",
+      "神月カレン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASIA-116"
+  },
+  {
+    "id": 454573,
+    "IDcode": "ASIA-117",
+    "title": "我的兒子回家了,他是個變性人！爸爸和媽媽的禁忌亂倫故事！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/689311e9c92318f97d88055b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASIA-117"
+  },
+  {
+    "id": 182770,
+    "IDcode": "ASIA-120",
+    "title": "母親・娘と思ったらニューハーフ！巨根にドハマりする家族の近親相姦物語…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASIA-120"
+  },
+  {
+    "id": 92427,
+    "IDcode": "ASS-058",
+    "title": "知道女友妹妹的本性握住弱點的我強行讓她做我炮友木下日葵。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240905-1/738828e0aaeb005ac3682ff97b3f3dc6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASS-058"
+  },
+  {
+    "id": 516883,
+    "IDcode": "AST-106",
+    "title": "近親相姦 五字頭母親與兒子 四小時",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690ee3396b81af1f853f0858/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-106"
+  },
+  {
+    "id": 412317,
+    "IDcode": "AST-125",
+    "title": "重印全碟系列：热火！淫荡美人后妈的肉欲第二卷 双碟套装 360 分钟 矢部寿恵,美月祥子,矢吹凉华等演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/453f7d1a38e2adb192e7c3259d10649f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-125"
+  },
+  {
+    "id": 587468,
+    "IDcode": "AST-126",
+    "title": "成为母亲玩具的我 痴女继母 12人 4小时特别收藏 vol.6 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250906-1/784b55a0cefc78f3f99f0d96e4c606e7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-126"
+  },
+  {
+    "id": 469738,
+    "IDcode": "ATID-253",
+    "title": "女豹～修羅姫們快樂處刑台～RouOO-02 渾沌奴隸姐弟",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68defd90631cc64eb5942e13/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-253"
+  },
+  {
+    "id": 71765,
+    "IDcode": "ATID-317",
+    "title": "强暴大嫂 窝在家里的支配者 2 皆野爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "乱伦",
       "已婚妇女"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2020-03-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221204-1/7788a997dc52059e8824bfef6d1871ef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHA-003"
-  },
-  {
-    "id": 515164,
-    "IDcode": "CHRV-076",
-    "title": "挺立巨乳天动说！妹妹的爆乳百闻不如一见！ 里奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "妄想族",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a71564c72560315efd8ffb27aca2f7d2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-076"
-  },
-  {
-    "id": 589478,
-    "IDcode": "CHRV-086",
-    "title": "太认真的优等生姐姐的淫荡巨乳值得一看！ G Cup 97cm Hikari 优秀无懈可击",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7d216ce8058e564e8890ff5c9436c377.jpg",
+    "actress": [
+      "皆野あい"
     ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/69010_cover_2025-07-06_112201.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-086"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-317"
   },
   {
-    "id": 589541,
-    "IDcode": "CHRV-090",
-    "title": "奶生活谘询！ Onii-chan，大奶很难！事实并非如此！大胸是个好东西！姐姐的烦恼巨乳值得一看！",
+    "id": 104237,
+    "IDcode": "ATID-324",
+    "title": "被养子强奸的寡妇并木塔子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/04/23139_cover_2025-07-04_011010.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-090"
-  },
-  {
-    "id": 547536,
-    "IDcode": "CHRV-096",
-    "title": "妹妹的爆乳百闻不如一见！J罩杯112cm幸子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191120-1/da789d1c347a3c9c738d392282549ea2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-096"
-  },
-  {
-    "id": 518079,
-    "IDcode": "CHRV-197",
-    "title": "妹妹的爆乳百聞不如一見！ I罩杯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fb36f67de28f4edea3c953/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-197"
-  },
-  {
-    "id": 462142,
-    "IDcode": "CHRV-198",
-    "title": "妹妹的爆乳百聞不如一見！半袖水手服無套中出！K罩杯108公分 靜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68eeb0f152c12b4e684b53e4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-198"
-  },
-  {
-    "id": 14784,
-    "IDcode": "CHRV-201",
-    "title": "BOIN要狂野！按摩超級受虐狂狂野的屁股！它太大了，我正在努力戰鬥！姐姐的巨乳值得一看！短袖水手服生中出！ J罩杯106cm 日inachami",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "癡女",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "大乳暈",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "企畫",
-      "少女",
-      "絕頂高潮",
-      "乱伦",
-      "乳交",
-      "女上位"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "2024-05-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512033346723723.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-201"
-  },
-  {
-    "id": 14791,
-    "IDcode": "CHRV-202",
-    "title": "最新學妹巨乳特輯！妹妹的巨乳值得一看！長袖水手服生中出！ H杯98cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "女學生",
-      "多P",
+      "寡妇",
       "凌辱",
-      "美少女",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "兩男一女",
-      "淫亂",
-      "蠻橫嬌羞",
+      "乱伦",
+      "戏剧"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/67802da9f9a2e9b1d474fe2e/cover.jpg",
+    "actress": [
+      "吉永塔子",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-324"
+  },
+  {
+    "id": 72221,
+    "IDcode": "ATID-367",
+    "title": "继母希崎杰西卡违背道德的性教育",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "戏剧",
+      "已婚妇女",
+      "乱伦",
+      "无码破解",
+      "素人作品",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/85ac2bb179a4aa2683fb0effcdb7a610.jpg",
+    "actress": [
+      "希崎潔西卡"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-367"
+  },
+  {
+    "id": 102810,
+    "IDcode": "ATID-388",
+    "title": "快要结婚的二宫光被最人渣的父亲强奸内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女电影",
+      "乱伦",
+      "白天出轨",
+      "戏剧"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677fd015c179ffb1db5fe1e3/cover.jpg",
+    "actress": [
+      "二宫ひかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-388"
+  },
+  {
+    "id": 87989,
+    "IDcode": "ATID-406",
+    "title": "恶毒父亲的真实虐待-結城のの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
       "中出",
-      "少女",
+      "乱伦",
+      "女大学生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/458424dbf7eb0ab86b7f1817b572bf9f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-406"
+  },
+  {
+    "id": 81422,
+    "IDcode": "ATID-407",
+    "title": "从小被最差劲的继父侵犯-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "乱伦",
+      "白天出轨",
+      "戏剧"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/19a821065e195920f7288d8634915fa1.jpg",
+    "actress": [
+      "夏目彩春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-407"
+  },
+  {
+    "id": 209339,
+    "IDcode": "ATID-427",
+    "title": "母親の再婚相手-春咲りょう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-427"
+  },
+  {
+    "id": 106775,
+    "IDcode": "ATID-437",
+    "title": "被父亲年长的叔叔强奸-志田雪奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "乱伦",
+      "服务生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "志田雪奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-437"
+  },
+  {
+    "id": 210536,
+    "IDcode": "ATID-443",
+    "title": "和小姨子发生了关系-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/28bf46aee9903d817afcb3e690fe28e3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-443"
+  },
+  {
+    "id": 594828,
+    "IDcode": "ATID-456",
+    "title": "三年前开始瞒着父母和妹妹有着肉体关系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-456"
+  },
+  {
+    "id": 213322,
+    "IDcode": "ATID-479",
+    "title": "首席执行官的女儿-桜香美羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-479"
+  },
+  {
+    "id": 217214,
+    "IDcode": "ATID-505",
+    "title": "atid-505 朋友的父亲用春药给我下药-香椎花乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-505"
+  },
+  {
+    "id": 66936,
+    "IDcode": "ATID-522",
+    "title": "母亲让我每天做性工作-明里つむぎ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "乱伦",
+      "中出",
+      "美少女电影",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/ce5673393d249f9fd1417d37b13cb363.jpg",
+    "actress": [
+      "小田切ジュン",
+      "明里䌷"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-522"
+  },
+  {
+    "id": 559601,
+    "IDcode": "ATID-533",
+    "title": "年前我在房间里自慰的时候被我孤僻的姐姐看到了从那天起我们开始在躲避父母的情况下发生性关系月野露娜-月乃露娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "月乃露娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-533"
+  },
+  {
+    "id": 155452,
+    "IDcode": "ATID-535",
+    "title": "每天我都会被我的母亲进行性处理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-4/a630a65761aea3503c4ff8f5e94895f9.jpg",
+    "actress": [
+      "武藤彩香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-535"
+  },
+  {
+    "id": 17453,
+    "IDcode": "ATID-576",
+    "title": "不要对我妹妹出手-五日市芽依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "凌辱",
+      "深喉",
+      "美少女",
+      "OL",
+      "強姦",
+      "緊縛",
+      "羞恥",
+      "乱伦",
+      "拘束・拷問",
+      "調教",
+      "中出",
+      "口交",
       "劇情",
+      "女奴",
+      "打屁股",
+      "暗黑系"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4d0aac813dc779d96254/cover.jpg",
+    "actress": [
+      "五日市芽依",
+      "鲛岛",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-576"
+  },
+  {
+    "id": 15057,
+    "IDcode": "ATID-597",
+    "title": "虽然被同居的继父侵犯-夏木りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗條",
+      "流汗",
+      "美腳",
+      "強姦",
+      "羞恥",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "兒媳",
+      "口交",
+      "形象俱樂部",
+      "人妻",
+      "NTR",
+      "公公",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "美腿",
+      "劇情",
+      "不倫",
       "絕頂高潮",
-      "清純",
       "美少女電影",
       "乱伦",
-      "乳交",
-      "同學",
-      "女上位",
-      "學校"
+      "女上位"
     ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "2024-05-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512024516512512.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-202"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503043531189189.jpg",
+    "actress": [
+      "凰華鈴",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-597"
   },
   {
-    "id": 9152,
-    "IDcode": "CHRV-207",
-    "title": "哥哥給不擅長性愛的妹妹的性愛教習！ 妹妹的爆乳值得一觀！短袖JK無套中出！ H罩杯 97cm ~ 佐山由依",
+    "id": 7883,
+    "IDcode": "ATID-620",
+    "title": "不行会被爸爸发现的-永野鈴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
       "女學生",
       "叛逆少女",
       "口爆",
-      "辣妹/GAL系",
-      "亂倫",
+      "臀控",
+      "凌辱",
       "美少女",
-      "美腳",
-      "癡女",
-      "姐弟・兄妹",
+      "強姦",
       "羞恥",
-      "JK校服",
-      "胸控・戀乳癖",
+      "自宅",
       "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
+      "叔叔・姪女",
+      "清楚系",
       "口交",
+      "性感",
       "接吻",
       "形象俱樂部",
       "潮吹",
-      "兩男一女",
-      "深喉",
-      "淫亂",
+      "高顏值",
       "中出",
-      "姐姐・妹妹",
       "美人",
+      "美腿",
       "後入",
-      "美臀",
+      "少女",
       "劇情",
-      "顏射",
+      "美臀",
       "絕頂高潮",
+      "睡衣",
       "清純",
       "舔陰",
+      "脚控・戀足癖",
       "美少女電影",
       "手指插入",
-      "膚黑",
       "乱伦",
-      "乳交",
-      "調教",
+      "舔腳",
+      "脅迫做愛",
+      "黑絲",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250113/20250113041258204204.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/06/67c980034e7d663df4d51721/cover.jpg",
     "actress": [
-      "佐山由依"
+      "永野鈴"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-207"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-620"
   },
   {
-    "id": 4644,
-    "IDcode": "CHRV-212",
-    "title": "爆乳保險小姐姐籤約率100%的祕密武器！M杯128cm巨乳誘惑，午後枕營業直接開幹 ~ 秋月まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "女業務",
-      "4K",
-      "胖女人",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "兩男一女",
-      "淫亂",
-      "超爆乳",
-      "中出",
-      "後入",
-      "劇情",
-      "舔陰",
-      "手指插入",
-      "乱伦",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "身體換業務"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab7baeedc101930b4b5746/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-212"
-  },
-  {
-    "id": 442016,
-    "IDcode": "CHRV076",
-    "title": "挺立巨乳天动说妹妹的爆乳百闻不如一见う里奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250211-1/452ebe3a94f4af18d4db0b139a3e4b38.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV076"
-  },
-  {
-    "id": 442014,
-    "IDcode": "CHRV088",
-    "title": "软体妹妹的爆乳百闻不如一见G罩杯96cmう圣罗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250211-1/31e70a7d46d8f27f15d46a1bdd01cf20.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV088"
-  },
-  {
-    "id": 440135,
-    "IDcode": "CHRV207",
-    "title": "哥哥给不擅长过节的妹妹抛出妙语！ 姐姐的巨乳值得一看！短袖水手服生中出！ H罩杯97cm玉潭 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250922-1/7194e28745edac3c757cd70c94295c6e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV207"
-  },
-  {
-    "id": 438544,
-    "IDcode": "CHRV211",
-    "title": "半袖水手服爆乳妹妹诱惑：内射激战高潮不停，哥哥射了也不放过！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250615-1/3671888074d51969f220c6536836bd24.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV211"
-  },
-  {
-    "id": 566573,
-    "IDcode": "CJOB-050",
-    "title": "追击男潮・追击强制内射！“已经射精了啊！”365天，精力旺盛姐姐不允许我停止抽插…4小时特辑",
+    "id": 548890,
+    "IDcode": "ATOM-078",
+    "title": "父亲の歪んだ爱情表现で入院までさせた娘を入院先でも近亲相奸",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a413f231818e97219758078765e8cef3.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230314/1atom00078pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-078"
   },
   {
-    "id": 82374,
-    "IDcode": "CJOD-147",
-    "title": "正太和巨乳姐姐君岛美绪的洗浴内射游戏",
+    "id": 540886,
+    "IDcode": "ATOM-087",
+    "title": "母子家庭限定！素人母娘（おやこ）ツイスター第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "乱伦",
-      "正太控",
-      "礼仪小姐",
-      "中出",
-      "巨乳"
+      "素人",
+      "乱伦"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67801734c179ffb1db60d111/cover.jpg",
-    "actress": [
-      "君岛美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-147"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-087"
   },
   {
-    "id": 71677,
-    "IDcode": "CJOD-175",
-    "title": "连续几日被巨尻姐姐筱田优疯狂榨取精液",
+    "id": 411126,
+    "IDcode": "AUKG-392",
+    "title": "媽媽,母親和女同～父親的再婚對像是同齡～藤川玲奈 NOA",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "荡妇",
-      "巨大屁股",
-      "乱伦",
-      "中出",
-      "女上位"
+      "女同",
+      "乱伦"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/faf2a245a9389c4a58e7161c8d9fad49.jpg",
-    "actress": [
-      "篠田优"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-175"
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888b0a698bc99dfddb226ac/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-392"
   },
   {
-    "id": 71731,
-    "IDcode": "CJOD-176",
-    "title": "老婆的巨乳姐姐君岛美绪诱惑我骑乘位中出",
+    "id": 516700,
+    "IDcode": "AUKG-489",
+    "title": "人妻與她的女友 ～睡走大嫂的小惡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd1e11944bbe4ef05b29b9/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-489"
+  },
+  {
+    "id": 516720,
+    "IDcode": "AUKG-499",
+    "title": "妯娌蕾絲邊 ～被弟媳誘惑的OO妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa8561d6fbef4e9008a091/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-499"
+  },
+  {
+    "id": 410564,
+    "IDcode": "AUKG-520",
+    "title": "蕾絲邊墮落未亡人 ～喪服姿態興奮的大嫂～ 壇凛沙 藤美雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4a3bbe4a73d4f15c1b516/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-520"
+  },
+  {
+    "id": 410840,
+    "IDcode": "AUKG-559",
+    "title": "繼姊妹蕾絲邊 ～睡走大嫂的小惡魔小姨～ 皆月光 藤井麗羅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cce4c2a47ebb1a8683e87/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-559"
+  },
+  {
+    "id": 410901,
+    "IDcode": "AUKG-564",
+    "title": "媽媽母親禁斷蕾絲邊 ～爸爸的再婚對象是美人又好色！與媽媽做愛不行嗎？～ 天馬唯 神雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acb7ad31eb0592de65952d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-564"
+  },
+  {
+    "id": 410948,
+    "IDcode": "AUKG-571",
+    "title": "姑媳蕾丝边～睡走新婚媳妇的淫乱母亲～ 佐藤乃乃花 姬川礼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8f5a97f3b7c92907407a6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-571"
+  },
+  {
+    "id": 411329,
+    "IDcode": "AUKG-576",
+    "title": "美熟女蕾丝边美容院～比我女儿还小的美容院班长的欺骗视频～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb7c15cf22ae3e041a6a21/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-576"
+  },
+  {
+    "id": 97074,
+    "IDcode": "AUKS-144",
+    "title": "タチとタチ ～愛欲まみれ近親レズビアン～ 永野つかさ 皆川るい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "乱伦",
+      "姐姐",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68baa473ce3e366423cdf43a/cover.jpg",
+    "actress": [
+      "永野司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-144"
+  },
+  {
+    "id": 516508,
+    "IDcode": "AV-26",
+    "title": "大嫂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fda919dd88d14f065541d7/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AV-26"
+  },
+  {
+    "id": 214897,
+    "IDcode": "AVOP-016",
+    "title": "你的母亲-川菜美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-016"
+  },
+  {
+    "id": 87995,
+    "IDcode": "AVOP-127",
+    "title": "和七个小仙女妹妹的同居生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "主观视角",
+      "乱伦",
+      "无码破解",
+      "两女一男",
+      "巨乳",
+      "滥交",
+      "性感的"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b6cb872ace6cadb49bca017c4d598a28.jpg",
+    "actress": [
+      "奥田咲",
+      "天使萌",
+      "小島南",
+      "小野夕子",
+      "葵司",
+      "星野娜美",
+      "美里有纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-127"
+  },
+  {
+    "id": 82292,
+    "IDcode": "AVOP-137",
+    "title": "波老师和大槻响的禁断介护",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "多P",
+      "其他恋物癖",
+      "戏剧",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "波多野结衣",
+      "大槻响",
+      "徳田重男"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-137"
+  },
+  {
+    "id": 74995,
+    "IDcode": "AVOP-227",
+    "title": "温柔的大姐姐-石原莉奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演",
+      "乱伦",
+      "无码破解",
+      "业余",
+      "中出",
+      "感谢祭",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "石原莉奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-227"
+  },
+  {
+    "id": 100671,
+    "IDcode": "AVOP-280",
+    "title": "岳母大人-小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "白天出轨",
+      "成熟的女人",
+      "母亲"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小早川怜子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-280"
+  },
+  {
+    "id": 166630,
+    "IDcode": "AVOP-308",
+    "title": "神屌男來到妹妹朋友家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-308"
+  },
+  {
+    "id": 87988,
+    "IDcode": "AVOP-359",
+    "title": "暴力凌辱调教空姐姐妹花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "凌辱",
+      "调教",
+      "乱伦",
+      "巨乳",
+      "各种职业"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "三原穗香",
+      "三岛奈津子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-359"
+  },
+  {
+    "id": 74991,
+    "IDcode": "AVOP-378",
+    "title": "帰省して久々に会った妹と親には内緒の近親相姦中出し性交 跡美しゅり＆あべみかこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "中出",
+      "乱伦",
+      "妹妹"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2017-09-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/6def0240591aeab5fcd50b65156d72b1.jpg",
+    "actress": [
+      "安部未華子",
+      "迹美珠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-378"
+  },
+  {
+    "id": 595431,
+    "IDcode": "AVOP-406",
+    "title": "【AVOPEN2018】入院中の性処理を母亲には赖めないからお见舞いに来た叔母にお愿いしたら优しい骑乘位でこっそりぬいてくれた 中出しさせてくれた叔母とのその后SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/d1el4Tns.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-406"
+  },
+  {
+    "id": 87597,
+    "IDcode": "AVOP-423",
+    "title": "我的巨乳女友被父亲强奸并且怀孕",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "戏剧",
-      "出轨",
       "乱伦",
+      "白天出轨",
       "中出",
-      "素人作品",
-      "巨乳",
-      "女上位",
-      "精选，综合"
-    ],
-    "type": "",
-    "company": "癡女特化",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9e118d181f4d43fe557f481d2dcca74d.jpg",
-    "actress": [
-      "小田切ジュン",
-      "君岛美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-176"
-  },
-  {
-    "id": 75402,
-    "IDcode": "CJOD-203",
-    "title": "讨厌内衣出汗的巨乳表姐松本菜奈实故意弄得湿漉漉来诱感我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "流汗",
-      "乱伦",
-      "乳交",
-      "中出",
+      "美少女电影",
       "素人作品",
       "巨乳",
       "精选，综合"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/e9b5d7944d9b317fc40243ba1940cbb5.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b0d0af1495de22759bb1b86554c211f6.jpg",
     "actress": [
-      "松本菜奈実",
-      "タツ"
+      "黑川纱里奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-203"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-423"
   },
   {
-    "id": 78536,
-    "IDcode": "CJOD-214",
-    "title": "女朋友的两个痴女姐姐不穿内裤诱惑我内射",
+    "id": 541008,
+    "IDcode": "AVOP-467",
+    "title": "母子交尾【汤村路】翔田千里第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "多P",
-      "乱伦",
-      "姐姐",
-      "中出",
-      "巨乳"
+      "乱伦"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d285fb0e49fd86dc567aa40e38b13bdb.jpg",
-    "actress": [
-      "波多野结衣",
-      "晶エリー",
-      "新井爱丽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-214"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-467"
   },
   {
-    "id": 86822,
-    "IDcode": "CJOD-281",
-    "title": "実家の田舎から僕の所へ勝手に上京してきた三日間 僕（兄）の事が大好き過ぎる妹の誘惑に負けて、何度も、何度も、中出ししてしまった… 姫咲はな",
+    "id": 179013,
+    "IDcode": "AVSA-062",
+    "title": "为了让儿子读上最好的学校美女妈妈只能将自己的黑丝美臀给猥琐领导玩弄",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "中出",
-      "巨乳",
-      "妹妹",
-      "高中女生"
+      "乱伦"
     ],
-    "type": "",
-    "company": "癡女特化",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/f8e4aceb44e8e38f3826eb5a67bb8f43.jpg",
-    "actress": [
-      "姫咲華"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-281"
-  },
-  {
-    "id": 91325,
-    "IDcode": "CJOD-388",
-    "title": "淫蕩姐姐痴女可中出-森澤佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "乱伦",
-      "姐姐",
-      "中出",
-      "女上位",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "",
-    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/329efeec3b82d6f694bdec58078fed09.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-388"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-062"
   },
   {
-    "id": 91338,
-    "IDcode": "CJOD-389",
-    "title": "最喜欢男人了肉食系大姐姐",
+    "id": 524351,
+    "IDcode": "AVSA-263",
+    "title": "被大屌叔叔强暴，被掐死沉迷于颜射高潮的变态美少女昏倒快感而醒来的侄女 藤田幸惠",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "乱伦",
-      "中出",
-      "巨乳",
-      "女上位",
-      "原作改编"
+      "乱伦"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/62c0934e1f1de2ba3f586cc92fce553e.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "本真友里",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-389"
+    "cover_url": "https://tuaskbgnekr.com/20230910/Va7cgKUT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-263"
   },
   {
-    "id": 91437,
-    "IDcode": "CJOD-395",
-    "title": "好色大姐姐的痴女-黑川堇",
+    "id": 560094,
+    "IDcode": "AVSA-339",
+    "title": "体重38キロ発育途上肢体！ 将来の梦はウェディングプランナーになって母亲に恩返しがしたい 家庭",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "姐姐",
-      "中出",
-      "手淫",
-      "女上位",
-      "单体作品",
-      "美容院"
+      "乱伦"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/3b2dd57eca085b96ca7028ed61f93f7c.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-395"
+    "cover_url": "https://tuaskbgnekr.com/20241019/3BnGroC2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-339"
   },
   {
-    "id": 17088,
-    "IDcode": "CJOD-407",
-    "title": "逐渐成熟的两个侄女- 美园和花 夕美紫苑",
+    "id": 10705,
+    "IDcode": "AVSA-343",
+    "title": "菩萨荡妇妹妹融化的脏话和甜蜜的折磨",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "兩女一男",
-      "淫亂",
-      "JK校服",
-      "乱伦",
-      "雙飛",
-      "乳交",
-      "中出",
-      "叔叔・姪女",
-      "蕩婦",
-      "口交",
-      "後入",
-      "巨乳",
-      "少女",
-      "亂交 • 群P",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "癡女特化",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/515ac5c6644ac3d0332cc15711951b43.jpg",
-    "actress": [
-      "美園和花",
-      "夕美紫苑"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-407"
-  },
-  {
-    "id": 12497,
-    "IDcode": "CJOD-431",
-    "title": "漂亮姐姐其实是朴素的巨乳啃老女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "慾求不滿",
-      "亂倫",
-      "感官作品",
-      "姐弟・兄妹",
+      "艷遇",
+      "M男・M女",
+      "故事集",
+      "淫語",
+      "辦公室",
+      "肉絲",
+      "美腳",
+      "OL",
       "眼鏡",
-      "色白",
-      "自宅",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
       "美乳",
+      "制服",
       "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "姐姐・妹妹",
-      "劇情",
-      "抹油",
-      "乱伦",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "癡女特化",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822223804719719.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-431"
-  },
-  {
-    "id": 10468,
-    "IDcode": "CJOD-435",
-    "title": "调皮的色情痴女姐姐-美咲かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中囯服裝",
-      "癡女",
-      "美乳",
       "口交",
       "性感",
       "熟女",
       "形象俱樂部",
+      "潮吹",
       "人妻",
       "美人妻",
       "按摩・美容店",
       "風俗娘",
+      "淫亂",
       "按摩女郎",
       "中出",
       "後入",
-      "劇情",
+      "美腿",
+      "美臀",
+      "抹油",
+      "絕頂高潮",
       "乱伦",
       "乳交",
       "按摩・物理治療・美容",
+      "黑絲",
+      "劇情",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241110/122f876c-3fee-462f-abde-f0d807eb5c2d.jpg",
+    "actress": [
+      "徳永しおり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-343"
+  },
+  {
+    "id": 4416,
+    "IDcode": "AWAW-001",
+    "title": "豐島區某家禁觸無套路按摩店的軟萌小姐姐竟然肯下海！完全偷拍 ~ 一色さら 彌生美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "打手槍",
+      "口爆",
+      "苗條",
+      "偷拍・盜撮",
+      "羞恥",
+      "大奶头",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "按摩・美容店",
+      "大姐姐",
+      "按摩女郎",
+      "中出",
+      "姐姐・妹妹",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "劇情",
+      "抹油",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "拜金女",
+      "高妹",
+      "乱伦",
+      "乳交",
+      "按摩・物理治療・美容",
+      "69",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "癡女特化",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122010009957957.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "WAAP GROUP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_WAAP_GROUP",
+        "works_count": 431
+      }
+    ],
+    "publish_date": "2025-07-12",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714064539761761_19926_thumbnail.webp",
     "actress": [
-      "美咲佳奈"
+      "彌生美月",
+      "一色さら"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-435"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AWAW-001"
   },
   {
-    "id": 9769,
-    "IDcode": "CJOD-455",
-    "title": "我被两个小恶魔姐姐轮流侵犯了三天两夜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "巨尻",
-      "兩女一男",
-      "口爆",
-      "慾求不滿",
-      "網襪",
-      "綠茶婊",
-      "辣妹/GAL系",
-      "臀控",
-      "感官作品",
-      "美腳",
-      "癡女",
-      "雙飛",
-      "探親",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "野性",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "美臀",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "膚黑",
-      "顔面騎乘",
-      "乱伦",
-      "舔腳",
-      "乳交",
-      "足交",
-      "金髮",
-      "女上位",
-      "丁字裤",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "癡女特化",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218101845183183.jpg",
-    "actress": [
-      "春陽萌花",
-      "AIKA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-455"
-  },
-  {
-    "id": 518914,
-    "IDcode": "CJOD-B437",
-    "title": "一个放荡的性朋友姐姐让我成为射精上瘾者，她涂上了促进勃起的春药，并被迫在 PtoM 中射精 20 个精子，并不断中出 JULIA。34",
+    "id": 225824,
+    "IDcode": "AWD-142",
+    "title": "妈妈的屁股-富井美帆",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/09/45631_cover_2025-10-09_015901.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-B437"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AWD-142"
   },
   {
-    "id": 2463,
-    "IDcode": "CKCK-021",
-    "title": "对面的双性姐姐美丽邻居姐姐居然长了肉棒所以反复中出确认-波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "三十路",
-      "豐滿",
-      "鬼畜片",
-      "臀控",
-      "阪道系",
-      "鄰居",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "大姐姐",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
-      "重口味",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "變性者",
-      "舔陰",
-      "女神",
-      "手指插入",
-      "自慰",
-      "乱伦",
-      "顔面騎乘",
-      "乳交",
-      "無毛",
-      "御姐系",
-      "家庭主妇",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbdb38ce5a404e9bc17c4e/cover.jpg",
-    "actress": [
-      "波多野结衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-021"
-  },
-  {
-    "id": 549774,
-    "IDcode": "CLUB-399",
-    "title": "姐弟限定 一般男女参加型モニタリング お姊ちゃんに童贞を打ち明けセックスの练习と称して素股を恳愿したら弟の勃起",
+    "id": 516905,
+    "IDcode": "AWD-143",
+    "title": "可憐淫亂的朋友繼母 武藤彩香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "変態紳士倶楽部",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231019/club399pl.jpg!320x216.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690ad6c31fcdee36fa75fef3/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-399"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AWD-143"
   },
   {
-    "id": 489367,
-    "IDcode": "CM33K",
-    "title": "#妹妹#144#晒伤后#乱伦#援〇#炉利#藤蔓派邦#不要觉得不幸8SEX收录4小时-茜しずく。",
+    "id": 92624,
+    "IDcode": "AWD-261",
+    "title": "【喂那裡更爽？】好友的妹妹為了吃我肉棒吵起來…為了公平我只好兩個都幹天音由衣渚光希。。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240830-1/a2986bfd47a1a157da8cb6e69f96c971.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/55e15ade8c963b8968be118f0eff89a5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CM33K"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AWD-261"
   },
   {
-    "id": 497726,
-    "IDcode": "CM38K",
-    "title": "的女儿148#生活保障#炉利琴大欢迎# DM大欢迎-市井结夏。",
+    "id": 566759,
+    "IDcode": "BABM-010",
+    "title": "母性妈妈给我的返婴撒娇性交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240630-1/53deab56c0acd4542d4fff46240bd666.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/k5I1aMjH.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CM38K"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BABM-010"
   }
 ];

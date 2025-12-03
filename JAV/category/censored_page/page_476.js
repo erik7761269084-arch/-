@@ -1,338 +1,814 @@
 window.PAGE_DATA = [
   {
-    "id": 167356,
-    "IDcode": "STARS-745",
-    "title": "第一次禁欲一个月-MINAMO",
+    "id": 116715,
+    "IDcode": "FC2-PPV-4724966",
+    "title": "公寓住的公寓妻的阴道深处直击高潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/bd83baebfc2b4d738df536d8b6e96655.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/6c57992638a271c2ea31199199c8830c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-745"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4724966"
   },
   {
-    "id": 67684,
-    "IDcode": "STARS-746",
-    "title": "接客态度也很差的美女店员-唯井まひろ",
+    "id": 116714,
+    "IDcode": "FC2-PPV-4725032",
+    "title": "名门私大就读的18岁宅女大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/38126f29c08e452ea7c8df3a8fac67e4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4725032"
+  },
+  {
+    "id": 116757,
+    "IDcode": "FC2-PPV-4725048",
+    "title": "极上中出巴士之旅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/c5ab07a9/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4725048"
+  },
+  {
+    "id": 116765,
+    "IDcode": "FC2-PPV-4725098",
+    "title": "住在隔壁的人妻和丈夫工作时外遇性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "中出"
+      "人妻"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/02d5bda46b14de8f1f986f990538693b.jpg",
-    "actress": [
-      "唯井真寻"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-746"
+    "publish_date": "2025-07-27",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/678335558d6870c1f7ac5032f7614390.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4725098"
   },
   {
-    "id": 68620,
-    "IDcode": "STARS-747",
-    "title": "人妻家政婦-天宮花南",
+    "id": 116727,
+    "IDcode": "FC2-PPV-4725114",
+    "title": "妊娠的根源SEX记录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4725114"
+  },
+  {
+    "id": 116743,
+    "IDcode": "FC2-PPV-4725922",
+    "title": "和男友的第一次",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/bf56a945c8f4bd92b16cf93603593504.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4725922"
+  },
+  {
+    "id": 116744,
+    "IDcode": "FC2-PPV-4725973",
+    "title": "阴道深处激烈的插入白眼高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4725973"
+  },
+  {
+    "id": 116721,
+    "IDcode": "FC2-PPV-4726042",
+    "title": "口交很色情的M酱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4726042"
+  },
+  {
+    "id": 116752,
+    "IDcode": "FC2-PPV-4726082",
+    "title": "诱惑外卖配送员即性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/112a32d9aa6c83a0a7b20e7e37e7850a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4726082"
+  },
+  {
+    "id": 116731,
+    "IDcode": "FC2-PPV-4726100",
+    "title": "想不到的色情技巧蹂躏大叔的JD现身",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4726100"
+  },
+  {
+    "id": 116735,
+    "IDcode": "FC2-PPV-4726162",
+    "title": "最好的腰部的拉拉队长",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4726162"
+  },
+  {
+    "id": 116719,
+    "IDcode": "FC2-PPV-4727324",
+    "title": "被变态丈夫调教的妻子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://lust103.cc/upload/vod/20250727-1/b01662ce2ba40ada78079230304d1c14.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4727324"
+  },
+  {
+    "id": 116763,
+    "IDcode": "FC2-PPV-4728487",
+    "title": "白眼高潮不停的保育员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/7ab1df52/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4728487"
+  },
+  {
+    "id": 116720,
+    "IDcode": "FC2-PPV-4728726",
+    "title": "鸡巴融化的究极的名器阴户阴道深处激烈活塞的中出性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4728726"
+  },
+  {
+    "id": 116665,
+    "IDcode": "FC2-PPV-4728732",
+    "title": "与众不同的女性降临",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4728732"
+  },
+  {
+    "id": 116675,
+    "IDcode": "FC2-PPV-4728812",
+    "title": "经验人数个位数的纯真JD连续两次中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4728812"
+  },
+  {
+    "id": 116697,
+    "IDcode": "FC2-PPV-4728826",
+    "title": "阴茎奥运开幕SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/bf7950ac61de483808cc3b51405d5c5d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4728826"
+  },
+  {
+    "id": 116644,
+    "IDcode": "FC2-PPV-4728944",
+    "title": "两个孩子的熟女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4728944"
+  },
+  {
+    "id": 116648,
+    "IDcode": "FC2-PPV-4729030",
+    "title": "家境富裕高不可攀才女闷骚幻想不停的欲求不满身体",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/e9fc8271a01266d7e64483ab58eccb93.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729030"
+  },
+  {
+    "id": 569399,
+    "IDcode": "FC2-PPV-4729306",
+    "title": "无理と言われたら盛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/17521378a325fb38d560950623524b59.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729306"
+  },
+  {
+    "id": 116677,
+    "IDcode": "FC2-PPV-4729336",
+    "title": "前偶像147cm清纯派美女被巨汉恶男多次破坏大量潮吹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729336"
+  },
+  {
+    "id": 569407,
+    "IDcode": "FC2-PPV-4729338",
+    "title": "３０代后半のとても",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729338"
+  },
+  {
+    "id": 116666,
+    "IDcode": "FC2-PPV-4729350",
+    "title": "高身长白皙苗条妻在丈夫上班时密会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/29/3b39bff7/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729350"
+  },
+  {
+    "id": 116661,
+    "IDcode": "FC2-PPV-4729401",
+    "title": "素人女大学生的性交记录",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "多P",
-      "中出"
+      "素人"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/fdbc32637a513160f3aee7e29e5bec07.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-747"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729401"
   },
   {
-    "id": 68618,
-    "IDcode": "STARS-748",
-    "title": "我乳头的按摩-千鶴えま",
+    "id": 116685,
+    "IDcode": "FC2-PPV-4729471",
+    "title": "认真腹肌波动高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729471"
+  },
+  {
+    "id": 116652,
+    "IDcode": "FC2-PPV-4729490",
+    "title": "丈夫是尼特族的贫困人妻付不起孩子餐费",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "戏剧",
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729490"
+  },
+  {
+    "id": 569412,
+    "IDcode": "FC2-PPV-4729551",
+    "title": "世界一かわいい藤田こ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/08838cc179655243cf994bc4d3e95982.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729551"
+  },
+  {
+    "id": 116640,
+    "IDcode": "FC2-PPV-4729776",
+    "title": "有男友的软绵绵胸部18岁用他人棒像母狗般叫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/29/f0fffa7e/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729776"
+  },
+  {
+    "id": 116629,
+    "IDcode": "FC2-PPV-4729829",
+    "title": "叫来内裤走光模特在停车场口交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-30",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/2fff996e24a9405844df0edc338ff300.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729829"
+  },
+  {
+    "id": 116553,
+    "IDcode": "FC2-PPV-4729855",
+    "title": "超出想象的闷骚超级淫乱鸡巴爱好大学生被两根肉棒插入高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4729855"
+  },
+  {
+    "id": 116669,
+    "IDcode": "FC2-PPV-4730632",
+    "title": "美巨乳和巨臀的温暖感",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/ba77a647eabf76904eb246a4914141ed.jpg",
-    "actress": [
-      "千鶴えま"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-748"
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4730632"
   },
   {
-    "id": 171130,
-    "IDcode": "STARS-749",
-    "title": "沉穩認真的圖書館司書大姊 享樂在對早洩M男剎車挑逗射精控制 紗倉真菜",
+    "id": 116612,
+    "IDcode": "FC2-PPV-4730684",
+    "title": "在拍摄朋友老婆的同时中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-3/61f807215cb8d1fc2893258907acd012.webp",
-    "actress": [
-      "纱仓真菜"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-749"
+    "publish_date": "2025-07-31",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/30/d837a17b/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4730684"
   },
   {
-    "id": 155520,
-    "IDcode": "STARS-750",
-    "title": "遠距離恋愛-宮島めい",
+    "id": 116684,
+    "IDcode": "FC2-PPV-4730696",
+    "title": "透明感18岁偶像候选生",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/81409ae3a25b76c75bca5ef8a521a682.jpg",
-    "actress": [
-      "宮島芽衣"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-750"
+    "publish_date": "2025-07-29",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/29/a185e65c/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4730696"
   },
   {
-    "id": 222741,
-    "IDcode": "STARS-751",
-    "title": "她在闷热的季节里长大了-MINAMO",
+    "id": 116702,
+    "IDcode": "FC2-PPV-4730719",
+    "title": "黑发白辣妹超可爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/dc42edec7543b9ac4782dcd0dd041ff1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-751"
-  },
-  {
-    "id": 68121,
-    "IDcode": "STARS-752",
-    "title": "競泳日本代表選手-新海咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "苗条"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/bdfbbbe497c2dd088257c7b7e7b4e9aa.jpg",
+    "publish_date": "2025-07-29",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/0b71d19b229705db9524d81d2c2229a3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-752"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4730719"
   },
   {
-    "id": 167354,
-    "IDcode": "STARS-753",
-    "title": "連続射精間-小倉由菜",
+    "id": 116622,
+    "IDcode": "FC2-PPV-4730819",
+    "title": "随时可以做的兼职主妇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/e86b04454b8723833c4e1e73999ac609.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-753"
-  },
-  {
-    "id": 167355,
-    "IDcode": "STARS-754",
-    "title": "「ねぇ？ワタシになついてくれるよね…？」M男をワタシだけの性処理ペットに育成",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230721/STARS754.jpg!320x216.jpg",
+    "publish_date": "2025-07-31",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/c08b891a52a3e1d0e340d603dfb14f15.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-754"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4730819"
   },
   {
-    "id": 167792,
-    "IDcode": "STARS-756",
-    "title": "変態医師-宮島めい",
+    "id": 116634,
+    "IDcode": "FC2-PPV-4730959",
+    "title": "极品口交和Portio激烈性爱太幸福阴道深处中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/d85aa9d81a4570c08525aeb0e65c87ab.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-756"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4730959"
   },
   {
-    "id": 67202,
-    "IDcode": "STARS-757",
-    "title": "任性的东京新人-小湊よつ葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "戏剧",
-      "4K"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/8670386e9fd897aae0d7b2836abc96ea.jpg",
-    "actress": [
-      "小湊四葉",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-757"
-  },
-  {
-    "id": 89283,
-    "IDcode": "STARS-759",
-    "title": "高级情趣内衣的美女魅惑-本庄铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "中出",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/a0a72aed83da66d16b93ab92b64400c3.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-759"
-  },
-  {
-    "id": 69596,
-    "IDcode": "STARS-760",
-    "title": "STARS-760",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "多P",
-      "4K"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-02-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250331-1/abfa562c2222b53cccbb73bce35a9a0b.jpg",
-    "actress": [
-      "星乃莉子",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-760"
-  },
-  {
-    "id": 68903,
-    "IDcode": "STARS-762",
-    "title": "女友的妹妹洗完澡后-恋渕ももな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "乱伦",
-      "4K"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/80112d83c0c210dc52d16d02f0582069.jpg",
-    "actress": [
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-762"
-  },
-  {
-    "id": 69240,
-    "IDcode": "STARS-763",
-    "title": "無限昇天-百仁花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/53cab307101fa06568fe3a98c3554459.jpg",
-    "actress": [
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-763"
-  },
-  {
-    "id": 167540,
-    "IDcode": "STARS-764",
-    "title": "射精無限大-浜辺栞帆",
+    "id": 116600,
+    "IDcode": "FC2-PPV-4731046",
+    "title": "阴毛浓密紧致如飞鼠般的大阴唇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/fedccdddb679ba52c35203f770c6fdfe.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/bed8593826f38e4982208b3b04b78a09.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-764"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731046"
   },
   {
-    "id": 106776,
-    "IDcode": "STARS-765",
-    "title": "无法停止被激发-小湊よつ葉",
+    "id": 116605,
+    "IDcode": "FC2-PPV-4731085",
+    "title": "人气男士按摩女郎",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "美少女",
-      "戏剧",
-      "4K"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/21/5c8967ac6f0c9c4d6681b6802cff0d2d.jpg",
-    "actress": [
-      "小湊四葉"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-765"
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731085"
   },
   {
-    "id": 155268,
-    "IDcode": "STARS-768",
-    "title": "熟悉洋溢母性继姐G罩杯胸部的两位小鬼绝伦弟弟",
+    "id": 116559,
+    "IDcode": "FC2-PPV-4731100",
+    "title": "泳装cos巨乳美人coser和生插入中出性交",
     "year": "",
     "country": "",
     "genre": "",
@@ -340,628 +816,259 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-9/e94f917202237e325ec7a14e93e681fd.webp",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/921aad37dac9908560ce48dea1046330.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-768"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731100"
   },
   {
-    "id": 69014,
-    "IDcode": "STARS-769",
-    "title": "我的侄子来到东京-多香良",
+    "id": 116574,
+    "IDcode": "FC2-PPV-4731301",
+    "title": "在网咖压抑声音偷偷活塞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731301"
+  },
+  {
+    "id": 116584,
+    "IDcode": "FC2-PPV-4731382",
+    "title": "玩具加润滑油互洗肥皂play发现新魅力",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731382"
+  },
+  {
+    "id": 116568,
+    "IDcode": "FC2-PPV-4731401",
+    "title": "为了钱成为政玩具的色白JD像人偶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731401"
+  },
+  {
+    "id": 116572,
+    "IDcode": "FC2-PPV-4731463",
+    "title": "性生活空白生出的奇迹美人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "巨乳"
+      "人妻"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/a9a3224d5f51d1d3e037d26df65daa26.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-769"
-  },
-  {
-    "id": 67873,
-    "IDcode": "STARS-770",
-    "title": "新人女子社員-西元めいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "滥交",
-      "多P"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/890b36b4b27d6f690c6269c8b266a781.jpg",
+    "publish_date": "2025-07-31",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/30/f45ea86d/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-770"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731463"
   },
   {
-    "id": 69490,
-    "IDcode": "STARS-771",
-    "title": "家政服务员-天宮花南",
+    "id": 116617,
+    "IDcode": "FC2-PPV-4731487",
+    "title": "北国专科生性交喷射而出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://tutu1.space/images/2025/07/30/c374228721c4e38bf35e13e63f2544d0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731487"
+  },
+  {
+    "id": 116608,
+    "IDcode": "FC2-PPV-4731698",
+    "title": "新鲜19岁敏感阴户被大叔性开发",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731698"
+  },
+  {
+    "id": 116570,
+    "IDcode": "FC2-PPV-4731703",
+    "title": "神级刚毛美女降临人生初的偷拍大量中出记录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/30/bad63310/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731703"
+  },
+  {
+    "id": 116603,
+    "IDcode": "FC2-PPV-4731709",
+    "title": "父亲是大学医院长的超级千金小姐",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
       "乱伦"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/676dd6be5662ee5fac6589a728750e0b.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-771"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731709"
   },
   {
-    "id": 68371,
-    "IDcode": "STARS-772",
-    "title": "嫂子的诱惑-千鶴えま",
+    "id": 116620,
+    "IDcode": "FC2-PPV-4731794",
+    "title": "某有名企业新卒色白苗条美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://tutu1.space/images/2025/07/30/51b64946136183180c77137ed08a4869.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4731794"
+  },
+  {
+    "id": 116601,
+    "IDcode": "FC2-PPV-4732107",
+    "title": "身高170cm美苗条20岁清纯认真性格背后潜藏的超级淫乱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "戏剧"
+      "嫩妹"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/5eed2fe5abc6e029e5fa23953efa079f.jpg",
-    "actress": [
-      "千鶴えま"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-772"
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732107"
   },
   {
-    "id": 100442,
-    "IDcode": "STARS-773",
-    "title": "没有什么恋爱经验-唯井まひろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "业余",
-      "第一人称摄影"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/556c0750e2a8aaaf8c6ac397deb082ab.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-773"
-  },
-  {
-    "id": 167542,
-    "IDcode": "STARS-774",
-    "title": "两天一夜的旅行-百仁花",
+    "id": 116606,
+    "IDcode": "FC2-PPV-4732140",
+    "title": "听话完美身体肌肉自慰器被锻练人生初高潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/3653df77e196d2e3e52c0a1608d74188.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-774"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732140"
   },
   {
-    "id": 167794,
-    "IDcode": "STARS-776",
-    "title": "巨根大絶頂-小湊よつ葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/9474fe7bc9862ecbe7d1c601e1c9723e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-776"
-  },
-  {
-    "id": 167543,
-    "IDcode": "STARS-777",
-    "title": "舌尖上的约会-青空ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/f4708150bf5265951d15a8715e9f13d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-777"
-  },
-  {
-    "id": 69542,
-    "IDcode": "STARS-779",
-    "title": "强迫他们在她体内射精-小倉由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "中出"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/5e0f3a79068e73308996385b39267f54.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-779"
-  },
-  {
-    "id": 68571,
-    "IDcode": "STARS-780",
-    "title": "我想随时为你口交-工藤ゆら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "苗条",
-      "情侣",
-      "口交"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/2930b834a04468c75b147bafb481a517.jpg",
-    "actress": [
-      "工藤由羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-780"
-  },
-  {
-    "id": 171126,
-    "IDcode": "STARS-781",
-    "title": "絕頂！大痙攣！！激烈抽插激情高潮SP 性愛3本番檔案！！！ 紗倉真菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-3/16ebbee85ecf04360d514404af7376ba.webp",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-781"
-  },
-  {
-    "id": 68689,
-    "IDcode": "STARS-783",
-    "title": "第一次通宵约会-夏目響",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/76200aa9553e05b6abe26fbb9a14704d.jpg",
-    "actress": [
-      "夏目响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-783"
-  },
-  {
-    "id": 68183,
-    "IDcode": "STARS-784",
-    "title": "性欲旺盛的运动员-新海咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/c4a3b96ddc2fb24e4daf5b7f3b33d14c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-784"
-  },
-  {
-    "id": 68066,
-    "IDcode": "STARS-785",
-    "title": "在你不应该去的地方做爱-本庄鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/468ad635637dcff3609617dbf4f181cb.jpg",
-    "actress": [
-      "本庄鈴",
-      "日森一",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-785"
-  },
-  {
-    "id": 155785,
-    "IDcode": "STARS-786",
-    "title": "濃厚精子8顔射-星乃莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/e06a26925a3e6f35b975494011adca37.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-786"
-  },
-  {
-    "id": 223284,
-    "IDcode": "STARS-787",
-    "title": "便利店打工的主妇-本庄铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/8e7f74b773d9be9c20baa3aa816febd0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-787"
-  },
-  {
-    "id": 68573,
-    "IDcode": "STARS-788",
-    "title": "勾引我她的妹妹-西元めいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/c5d545d5556366106316494baba7a8e3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-788"
-  },
-  {
-    "id": 155267,
-    "IDcode": "STARS-790",
-    "title": "我有了人生第一個女朋友我希望她以為我是性愛狂處男學生的無理要求也神對應會當SEX練習台的家教姊姊濱邊栞帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250205-1/bb12027323f13a55c35af8fe8007aabf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-790"
-  },
-  {
-    "id": 223274,
-    "IDcode": "STARS-791",
-    "title": "射精无限大-朝田日葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/d5890ce1c72d6fb1613330acd7d2f908.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-791"
-  },
-  {
-    "id": 223360,
-    "IDcode": "STARS-792",
-    "title": "情侣朋友们的温泉约会-千鹤惠麻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/8df672a908bab29f4ba9f9237ec430f5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-792"
-  },
-  {
-    "id": 168117,
-    "IDcode": "STARS-794",
-    "title": "小孩淫语-宫岛芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/3650e076c8cba32b0035ee1f56b1ad1b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-794"
-  },
-  {
-    "id": 168118,
-    "IDcode": "STARS-796",
-    "title": "气象报导小姐姐-小凑四叶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/2831ed35eb267628486e7f75afe85dd8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-796"
-  },
-  {
-    "id": 225000,
-    "IDcode": "STARS-798",
-    "title": "这家沙龙店-宫岛芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/5b781c8d10f2fc6199dbd7bf089be4b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-798"
-  },
-  {
-    "id": 155671,
-    "IDcode": "STARS-800",
-    "title": "封住了上下的洞-夏目響",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/cd25f2d5f471c8e1501963060c759e80.jpg",
-    "actress": [
-      "夏目響"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-800"
-  },
-  {
-    "id": 155523,
-    "IDcode": "STARS-801",
-    "title": "中年男上司们的黏着性骚扰-新海咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/08725462c67469725c3dabda22ef34f6.jpg",
-    "actress": [
-      "新海咲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-801"
-  },
-  {
-    "id": 167746,
-    "IDcode": "STARS-803",
-    "title": "非常粗的大鸡巴-青空ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/f39c779c34e6eee493fc65bb8d7a0982.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-803"
-  },
-  {
-    "id": 203630,
-    "IDcode": "STARS-804",
-    "title": "用本能纠缠性爱-神木丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/08/24/8a61438c9eabfb14000f652429d081b8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-804"
-  },
-  {
-    "id": 100521,
-    "IDcode": "STARS-805",
-    "title": "潮液淫液爆发-小仓由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "放尿",
-      "潮吹",
-      "素人作品",
-      "淫乱，真实",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/29afff36d5317d048622e2065f4b9322.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-805"
-  },
-  {
-    "id": 155272,
-    "IDcode": "STARS-807",
-    "title": "经理部的欲求不满OL-天宫花南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/a1ffc262048e82a68f4dd0a4bd59099c.jpg",
-    "actress": [
-      "天宮花南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-807"
-  },
-  {
-    "id": 155265,
-    "IDcode": "STARS-808",
-    "title": "在接送孩子去幼兒園的8小時裡與兒子的足球教練進行不倫做愛的太太 紗倉真菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-2/f3f9d263a22a577d743904ab57b17aee.webp",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-808"
-  },
-  {
-    "id": 107067,
-    "IDcode": "STARS-809",
-    "title": "何発射精-工藤ゆら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "纪录片",
-      "处男",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/b01f72ae8dc4f06895f55f0ffc763680.jpg",
-    "actress": [
-      "工藤由羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-809"
-  },
-  {
-    "id": 104436,
-    "IDcode": "STARS-810",
-    "title": "苦闷昇天男性护肤按摩-西元明沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/0cd966e156f2608ed86ebdc3bc420d07.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-810"
-  },
-  {
-    "id": 167980,
-    "IDcode": "STARS-812",
-    "title": "打情骂俏揉捏胸部旅行-恋渕桃菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/807d82a8da64832e52d8ec77c80ce7c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-812"
-  },
-  {
-    "id": 73240,
-    "IDcode": "STARS-813",
-    "title": "高潮性爱同房NTR-濑乃南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "NTR",
-      "戏剧",
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/9d68e1cc9d5cd10d831e5360ac18a569.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-813"
-  },
-  {
-    "id": 224821,
-    "IDcode": "STARS-814",
-    "title": "超爽射精体验-小凑四叶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/7614bd7b45171fe13a9ebbdcb2b75636.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-814"
-  },
-  {
-    "id": 168344,
-    "IDcode": "STARS-818",
-    "title": "G杯美巨乳老师-神木丽",
+    "id": 115416,
+    "IDcode": "FC2-PPV-4732170",
+    "title": "丰满性感肉感的G罩杯熟女",
     "year": "",
     "country": "",
     "genre": "",
@@ -969,930 +1076,1064 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/53a448eac78be51e3cb55cfa4bd796cb.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-31",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/2e3f4a6f/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-818"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732170"
   },
   {
-    "id": 224804,
-    "IDcode": "STARS-819",
-    "title": "不可回避的高速骑乘位射精-新海咲",
+    "id": 116602,
+    "IDcode": "FC2-PPV-4732201",
+    "title": "白与性交中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/cdaec3f1bf2d95041c3d8b8e340ce058.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/133573c9b6483ba2afb7472e08207272.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-819"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732201"
   },
   {
-    "id": 100424,
-    "IDcode": "STARS-821",
-    "title": "与人工智慧情趣娃娃的同居生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "娃娃",
-      "魔鬼系",
-      "恋爱",
-      "深喉",
-      "女佣"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/db987186942acfc55850ade3a4667978.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-821"
-  },
-  {
-    "id": 72888,
-    "IDcode": "STARS-822",
-    "title": "「僕は、妻が●●●されている所が見たい。」旦那が仕込んだ絶倫マッサージ師に強●的にイカされ●●れる姿を盗撮された美人妻。 紗倉まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "按摩",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-04-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/eb9a7fa9b596d1cfc28fdf2039a3683b.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-822"
-  },
-  {
-    "id": 77580,
-    "IDcode": "STARS-823",
-    "title": "被最讨厌的那个课长下药迷奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "流汗",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/eb5f342c8810a526d2fd9512de28227e.jpg",
-    "actress": [
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-823"
-  },
-  {
-    "id": 224803,
-    "IDcode": "STARS-825",
-    "title": "被小恶魔辣妹盯着看-唯井真寻",
+    "id": 527766,
+    "IDcode": "FC2-PPV-4732243",
+    "title": "アイドル候补生",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/17a088480d49d433c3f8b342453843e3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-825"
-  },
-  {
-    "id": 73242,
-    "IDcode": "STARS-826",
-    "title": "理性崩壊キメセク監禁エステ 媚薬オイルで極限まで焦らし悶絶エビ反り失禁ダダ漏れ絶頂 天宮花南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-05-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/540bece68f7d88d8cd440ecb696a6a43.jpg",
+    "publish_date": "2025-08-11",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/1b31ab6d695dd57b60d668d36ba8acb4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-826"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732243"
   },
   {
-    "id": 223647,
-    "IDcode": "STARS-827",
-    "title": "一旦做爱腰力就变得很爆炸-星乃莉子",
+    "id": 116619,
+    "IDcode": "FC2-PPV-4732394",
+    "title": "和前凹版模特做爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/f653c8103627811710664e6201b2111c.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-07-31",
+    "cover_url": "https://tutu1.space/images/2025/07/30/78bf088f659fe0d61263ef7f8d6f13f3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-827"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732394"
   },
   {
-    "id": 224887,
-    "IDcode": "STARS-828",
-    "title": "跟港区喜欢舔舔的大叔们援助交际",
+    "id": 116468,
+    "IDcode": "FC2-PPV-4732951",
+    "title": "精液注入人妻真实纪录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-11",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/10/ce53ddce/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4732951"
+  },
+  {
+    "id": 569358,
+    "IDcode": "FC2-PPV-4734551",
+    "title": "なま中出し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/04f44474c980fbea778e78f918729490.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-828"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4734551"
   },
   {
-    "id": 73243,
-    "IDcode": "STARS-829",
-    "title": "世界上最糟糕的初恋男友-工藤由良",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/0c49f90862050576fee5d9b5128d2508.jpg",
-    "actress": [
-      "工藤由羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-829"
-  },
-  {
-    "id": 168345,
-    "IDcode": "STARS-830",
-    "title": "手淫沙龙店-滨边栞帆",
+    "id": 116450,
+    "IDcode": "FC2-PPV-4734552",
+    "title": "以最强3P方式发射4次与男友一起享受欲望的满足的3P",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/22c9c93c1373ed9194e88bb3cbb77ff3.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-11",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/10/79ed8aa1/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-830"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4734552"
   },
   {
-    "id": 18552,
-    "IDcode": "STARS-833",
-    "title": "只带毛巾进入男浴池-恋渕桃菜",
+    "id": 569353,
+    "IDcode": "FC2-PPV-4734631",
+    "title": "初撮り",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "女優",
-      "中出",
-      "旅行",
-      "野外露天",
-      "多P",
-      "巨乳",
-      "劇情",
-      "亂交 • 群P"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/5f89abe6bbd959f3d466a4b2f074b534.jpg",
-    "actress": [
-      "戀渕桃菜"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-833"
+    "publish_date": "2025-08-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4734631"
   },
   {
-    "id": 100643,
-    "IDcode": "STARS-834",
-    "title": "神乳套餐-恋渕桃菜",
+    "id": 114941,
+    "IDcode": "FC2-PPV-4734692",
+    "title": "极致淫荡美丽苗条的年轻妻子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-09-09",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/5cd95949/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4734692"
+  },
+  {
+    "id": 116462,
+    "IDcode": "FC2-PPV-4734762",
+    "title": "天使笑容最可爱E杯美女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
-      "潮吹",
       "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/3f93d0c76327304f4b0783a4f547aead.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-834"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4734762"
   },
   {
-    "id": 168346,
-    "IDcode": "STARS-835",
-    "title": "温柔的开始引导做爱-纱仓真菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/9093c6ca9ed969cdd238d01793a7a22a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-835"
-  },
-  {
-    "id": 168347,
-    "IDcode": "STARS-836",
-    "title": "和辣妹情人做到早晨-小仓由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/08/22/e3e0b4799503bd56294ea76e07cf7e2e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-836"
-  },
-  {
-    "id": 168348,
-    "IDcode": "STARS-837",
-    "title": "被下达羞耻指令-百仁花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/b95d7ccb6f4d220d37cf7b4914b8a75b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-837"
-  },
-  {
-    "id": 89252,
-    "IDcode": "STARS-838",
-    "title": "性爱NG的狂妄援交女-唯井真寻",
+    "id": 183039,
+    "IDcode": "FC2-PPV-4735280",
+    "title": "F杯19岁的健康身材在两部视频中被中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "多P",
-      "中出",
-      "女大学生"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/2aae38b756baa3ec01ba246865b71868.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-838"
-  },
-  {
-    "id": 89247,
-    "IDcode": "STARS-839",
-    "title": "上课时被男学生们轮奸-新海咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "滥交",
-      "戏剧",
-      "中出"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/ac0f3e2a5490bc3b6e4cc93638ed5e2e.jpg",
-    "actress": [
-      "新海咲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-839"
-  },
-  {
-    "id": 89227,
-    "IDcode": "STARS-840",
-    "title": "性欲大解放-星乃莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "4K"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/22e28b2c6f29807c481b736095238d04.jpg",
-    "actress": [
-      "星乃莉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-840"
-  },
-  {
-    "id": 89236,
-    "IDcode": "STARS-841",
-    "title": "无套觉醒-西元明沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
-      "中出",
-      "苗条",
-      "4K"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/76786ac99686ecd160539f33e2d27603.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-841"
-  },
-  {
-    "id": 89240,
-    "IDcode": "STARS-842",
-    "title": "小湊四葉 身為不良學生的我與甘甜接吻玩弄的家庭教師四葉的接吻愛情故事 小湊四葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "家教",
-      "4K"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-2/088b15dfd6dfe8eb57d0c5e88273d143.webp",
-    "actress": [
-      "小湊四葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-842"
-  },
-  {
-    "id": 168339,
-    "IDcode": "STARS-845",
-    "title": "因为男友出轨而吵架-工藤由拉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/bbd318dbb1dfcb6ca1442d09fb59e124.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-845"
-  },
-  {
-    "id": 89243,
-    "IDcode": "STARS-846",
-    "title": "腦內傳來性感的口水聲音-天宮花南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "多P",
-      "中出",
-      "口交"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/cef15b1904509ef80dff98756db294ce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-846"
-  },
-  {
-    "id": 89223,
-    "IDcode": "STARS-848",
-    "title": "盼望已久的首次中出解禁-浜辺栞帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "中出",
       "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/2409dcc1524b7a60d72b592fa9b0e5b1.jpg",
-    "actress": [
-      "浜辺栞帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-848"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/5c13f0ba/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4735280"
   },
   {
-    "id": 17823,
-    "IDcode": "STARS-849",
-    "title": "她被綁了起來被人用力幹！ 高潮後，大雞巴仍然在她陰道裡猛烈撞擊。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "抹油",
-      "拘束・拷問",
-      "女優",
-      "中出",
-      "口交",
-      "性感",
-      "按摩・物理治療・美容",
-      "苗條",
-      "企畫",
-      "劇情",
-      "按摩・美容店",
-      "強姦"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024631927927.jpg",
-    "actress": [
-      "青空光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-849"
-  },
-  {
-    "id": 168340,
-    "IDcode": "STARS-851",
-    "title": "终极湿答答性交-夏目响",
+    "id": 115753,
+    "IDcode": "FC2-PPV-4735280-",
+    "title": "杯19岁的健康身材在两部视频中被中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/59d556e1846dd8fc8b2efa57f0db4108.jpg",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-24",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/5c13f0ba/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-851"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4735280-"
   },
   {
-    "id": 89221,
-    "IDcode": "STARS-855",
-    "title": "单独约会的醉後-唯井真弘",
+    "id": 116460,
+    "IDcode": "FC2-PPV-4735355",
+    "title": "排球锻炼170cm肉体",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "纪录片",
-      "潮吹",
-      "第一人称摄影"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/1a5349beff7b14ab890e1fc2a261ba44.jpg",
-    "actress": [
-      "唯井真寻"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-855"
+    "publish_date": "2025-08-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4735355"
   },
   {
-    "id": 89249,
-    "IDcode": "STARS-856",
-    "title": "被学生拜托-本庄铃",
+    "id": 115424,
+    "IDcode": "FC2-PPV-4735935",
+    "title": "我朋友的妻子在项圈和振动器攻击下痛苦地射了五次",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "女教师",
-      "戏剧",
-      "中出",
-      "单体作品",
-      "苗条"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/d4f0f183dbb89e264fb1c30b62a63a85.jpg",
-    "actress": [
-      "本庄鈴"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-856"
+    "publish_date": "2025-08-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4735935"
   },
   {
-    "id": 89230,
-    "IDcode": "STARS-857",
-    "title": "無邪気なおねだりフェイスにズキュン！ず～っと振り回されっぱなし イチャイチャ！たじたじ！ヤリまくり！ハメ撮り！デビュー3周年記念デート 宮島芽衣",
+    "id": 527437,
+    "IDcode": "FC2-PPV-4736095",
+    "title": "受付嬢の神ご奉仕から",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "中出",
-      "纪录片",
-      "第一人称摄影",
-      "美少女",
-      "情侣"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-3/43baac6986766443cc617debb5df5500.webp",
-    "actress": [
-      "宮島芽衣",
-      "宫岛めい"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-857"
+    "publish_date": "2025-09-03",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736095"
   },
   {
-    "id": 89270,
-    "IDcode": "STARS-858",
-    "title": "上學到放學的10小時 無防備的胸部走光新任女教師 濱邊栞帆",
+    "id": 527696,
+    "IDcode": "FC2-PPV-4736322",
+    "title": "名器到来！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736322"
+  },
+  {
+    "id": 116443,
+    "IDcode": "FC2-PPV-4736334",
+    "title": "短发清纯可爱粉嫩大奶学生妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-11",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/10/ff97be3a/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736334"
+  },
+  {
+    "id": 116438,
+    "IDcode": "FC2-PPV-4736487",
+    "title": "诱人的H杯身材",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-2/6cabb01949745cb61b7fdfed968d7c6c.webp",
-    "actress": [
-      "浜辺栞帆"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-858"
-  },
-  {
-    "id": 89266,
-    "IDcode": "STARS-862",
-    "title": "本人期待已久的吞精解禁-星乃莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "吞精",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/8e22017a1672cc11996e8b5c291ee398.jpg",
-    "actress": [
-      "星乃莉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-862"
-  },
-  {
-    "id": 89286,
-    "IDcode": "STARS-863",
-    "title": "通学中の電車でイカされ失禁してしまったJ● 連日痴●で開発され続け、鬼付きされても声を出さずサイレント絶頂しまくる 稻荷步",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "制服",
-      "高中女生",
-      "校服"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250715-3/8e5b3eb9b7c6e585b9a72aff284d94a4.webp",
-    "actress": [
-      "稻荷步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-863"
-  },
-  {
-    "id": 89253,
-    "IDcode": "STARS-864",
-    "title": "我要结婚了所以不要再见面了-天宫花南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "纪录片",
-      "第一人称摄影",
-      "巨乳",
-      "单体作品",
-      "情侣"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/a4290411849b29601e5e8130645c8044.jpg",
+    "publish_date": "2025-08-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-864"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736487"
   },
   {
-    "id": 89235,
-    "IDcode": "STARS-865",
-    "title": "绝对连射-新海咲",
+    "id": 116326,
+    "IDcode": "FC2-PPV-4736625",
+    "title": "新毕业生地产销售女士",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "角色扮演",
-      "单体作品",
-      "按摩",
-      "中出"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/209f53564b2b585fc3367cc121241116.jpg",
-    "actress": [
-      "新海咲"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-865"
-  },
-  {
-    "id": 89241,
-    "IDcode": "STARS-867",
-    "title": "社团的饮酒会上喝的烂醉-MINAMO",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "巨乳",
-      "美少女",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/a4644d923d9259d9cab70e1a410afebd.jpg",
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-867"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736625"
   },
   {
-    "id": 89254,
-    "IDcode": "STARS-868",
-    "title": "M男性身份的我-夏目响",
+    "id": 527466,
+    "IDcode": "FC2-PPV-4736776",
+    "title": "172cm美脚のあのコと",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "情侣",
-      "戏剧",
-      "中出"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/f34bfda5238ea9b6b1ee13bb41ca43e5.jpg",
-    "actress": [
-      "夏目响"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-868"
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736776"
   },
   {
-    "id": 89315,
-    "IDcode": "STARS-869",
-    "title": "性感模特兒-戀渕桃菜",
+    "id": 116360,
+    "IDcode": "FC2-PPV-4736937",
+    "title": "高身长苗条萌声主妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-1/4d5e2c740587a2b421ec7eeeaa0ad81b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736937"
+  },
+  {
+    "id": 116302,
+    "IDcode": "FC2-PPV-4736944",
+    "title": "身体痉挛多次激烈高潮失去理智本能感到5姿势中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/6f334146/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736944"
+  },
+  {
+    "id": 116356,
+    "IDcode": "FC2-PPV-4736945",
+    "title": "搭讪带回家性爱直接AV拍摄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/a2d87d15/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736945"
+  },
+  {
+    "id": 116373,
+    "IDcode": "FC2-PPV-4736949",
+    "title": "没有男友恋爱胆怯女大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/67646948/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4736949"
+  },
+  {
+    "id": 116352,
+    "IDcode": "FC2-PPV-4737065",
+    "title": "体育系JD爱侍奉抖M全开",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737065"
+  },
+  {
+    "id": 116380,
+    "IDcode": "FC2-PPV-4737077",
+    "title": "白皙美女淫乱阴户开关",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737077"
+  },
+  {
+    "id": 116365,
+    "IDcode": "FC2-PPV-4737197",
+    "title": "调教天使小身体生性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737197"
+  },
+  {
+    "id": 116313,
+    "IDcode": "FC2-PPV-4737205",
+    "title": "超过1万粉丝现役偶像小美酱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-2/7d2a482cb95c04d0d57838782d3417d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737205"
+  },
+  {
+    "id": 116404,
+    "IDcode": "FC2-PPV-4737246",
+    "title": "乡下女孩新鲜敏感阴道不放老头鸡巴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://tutu1.space/images/2025/08/12/d691e5160d41e44bc6f5e88d8d657ac6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737246"
+  },
+  {
+    "id": 115756,
+    "IDcode": "FC2-PPV-4737315",
+    "title": "与关西方言G罩杯淫妻的超激烈性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "女大学生",
-      "戏剧",
+      "淫妻",
       "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/b9ca27e390d0a55bc8d27ade8786d082.jpg",
-    "actress": [
-      "戀渕桃菜"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-869"
+    "publish_date": "2025-08-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737315"
   },
   {
-    "id": 89329,
-    "IDcode": "STARS-871",
-    "title": "大喷出SPECIAL-滨边栞帆",
+    "id": 527763,
+    "IDcode": "FC2-PPV-4737420",
+    "title": "あの超人気者が大复活！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737420"
+  },
+  {
+    "id": 116307,
+    "IDcode": "FC2-PPV-4737426",
+    "title": "美魔女赛车女王",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737426"
+  },
+  {
+    "id": 116385,
+    "IDcode": "FC2-PPV-4737442",
+    "title": "素朴可爱白皙苗条盒子无垢少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737442"
+  },
+  {
+    "id": 116405,
+    "IDcode": "FC2-PPV-4737450",
+    "title": "尤娜19岁怀孕36周",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-1/9e595a32a3ba9c28eb0461c8b8f93282.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737450"
+  },
+  {
+    "id": 116368,
+    "IDcode": "FC2-PPV-4737662",
+    "title": "性爱时只侍奉变成顺从女仆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-1/7ea86138a4bf7072fe8217af7d015cc5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737662"
+  },
+  {
+    "id": 116348,
+    "IDcode": "FC2-PPV-4737724",
+    "title": "经验少名校女大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/c92883a0/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737724"
+  },
+  {
+    "id": 116366,
+    "IDcode": "FC2-PPV-4737745",
+    "title": "日本眼镜人妻中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "接吻",
-      "流汗",
-      "巨乳",
-      "单体作品"
+      "人妻"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/39b12eaf6f013a2bd69c96df9184554b.jpg",
-    "actress": [
-      "浜辺栞帆"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-871"
+    "publish_date": "2025-08-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737745"
   },
   {
-    "id": 89313,
-    "IDcode": "STARS-872",
-    "title": "欢迎来到治愈乐园-星乃莉子",
+    "id": 527751,
+    "IDcode": "FC2-PPV-4737890",
+    "title": "贵重映像、行き过ぎたファンミ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250813-1/5efc73f1bdf708cc56064953861c136f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4737890"
+  },
+  {
+    "id": 116342,
+    "IDcode": "FC2-PPV-4738195",
+    "title": "中出后用精液放嘴里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-1/12a6491e34d396641e31b7e47b556690.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4738195"
+  },
+  {
+    "id": 527764,
+    "IDcode": "FC2-PPV-4738202",
+    "title": "大量逆流イラマ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250813-1/ba741d3a6716c716f82b4251878670b1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4738202"
+  },
+  {
+    "id": 527767,
+    "IDcode": "FC2-PPV-4738340",
+    "title": "再び街●屋が连れ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-13",
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250813-1/5bfc257c887006f7c16b8c374f1990fe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4738340"
+  },
+  {
+    "id": 116091,
+    "IDcode": "FC2-PPV-4738758",
+    "title": "笑容可爱的漂亮OL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-18",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4738758"
+  },
+  {
+    "id": 527759,
+    "IDcode": "FC2-PPV-4738774",
+    "title": "おつやっぴー！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4738774"
+  },
+  {
+    "id": 527726,
+    "IDcode": "FC2-PPV-4739024",
+    "title": "中出し、再び连れてこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4739024"
+  },
+  {
+    "id": 527757,
+    "IDcode": "FC2-PPV-4739055",
+    "title": "永久保存、めっかわ！童颜巨乳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "户外",
-      "单体作品",
-      "苗条",
-      "泳装"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/4711efd3984bb120f0f2184fe66f848f.jpg",
-    "actress": [
-      "星乃莉子"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-872"
+    "publish_date": "2025-08-13",
+    "cover_url": "https://tutu1.space/images/2025/08/12/df0aaaa4cf393b3c25e8159265a3f382.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4739055"
   },
   {
-    "id": 89330,
-    "IDcode": "STARS-873",
-    "title": "男友臨時取消跟我約會-宮島芽衣",
+    "id": 115737,
+    "IDcode": "FC2-PPV-4739066",
+    "title": "素人玲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "中出",
-      "白天出轨",
-      "泳装"
+      "素人"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/3ac1de46a8a62f51bf6d34a0b67c63b1.jpg",
-    "actress": [
-      "宫岛めい"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-873"
+    "publish_date": "2025-08-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4739066"
   },
   {
-    "id": 89323,
-    "IDcode": "STARS-874",
-    "title": "禁欲后抛开理性的飞升-小凑四叶",
+    "id": 114458,
+    "IDcode": "FC2-PPV-4739090",
+    "title": "与一位拥有终极女神般身材的美丽女人进行原始性爱和中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-09-20",
+    "cover_url": "https://tutu1.space/images/2025/09/20/f959111c0859f16e993251995737e342.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4739090"
+  },
+  {
+    "id": 114912,
+    "IDcode": "FC2-PPV-4739153",
+    "title": "群交派对",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-09-09",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/dc32588f/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4739153"
+  },
+  {
+    "id": 115391,
+    "IDcode": "FC2-PPV-4739190",
+    "title": "给身材松垮的外语老师的大量中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
+    "publish_date": "2025-08-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4739190"
+  },
+  {
+    "id": 115370,
+    "IDcode": "FC2-PPV-4739404",
+    "title": "与巨乳辣妹和纪念毕业的朋友一起进行3P原始性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "战斗行动",
-      "接吻",
-      "流汗",
-      "单体作品"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/b2c9465ecc98f94949cd7945e206a894.jpg",
-    "actress": [
-      "小湊四葉"
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-874"
-  },
-  {
-    "id": 89327,
-    "IDcode": "STARS-876",
-    "title": "地方有名的超绝淫乱辣妹-百仁花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "第一人称摄影",
-      "美少女",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/b738430b20f8222dc879b722e64abba3.jpg",
-    "actress": [
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-876"
-  },
-  {
-    "id": 89342,
-    "IDcode": "STARS-877",
-    "title": "从晚上到清晨的数度榨精-小仓由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "荡妇",
-      "泳装"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/a4551aca7a89619a36e807763c3321ca.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-877"
-  },
-  {
-    "id": 89301,
-    "IDcode": "STARS-878",
-    "title": "妹妹在家里穿着比基尼-稻荷步",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "戏剧",
-      "姐姐",
-      "乱伦",
-      "企画",
-      "单体作品",
-      "泳装"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/3fe1e732578f85de56e0754ffec629eb.jpg",
-    "actress": [
-      "稻荷步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-878"
-  },
-  {
-    "id": 89290,
-    "IDcode": "STARS-880",
-    "title": "绝伦比基尼monster痴女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "其他恋物癖",
-      "淫乱，真实",
-      "泳装",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/3144518bf8061f2840fa2a4261c516dd.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-880"
-  },
-  {
-    "id": 89298,
-    "IDcode": "STARS-882",
-    "title": "混浴温泉旅行-唯井真寻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "洗澡",
-      "戏剧",
-      "泳装",
-      "单体作品",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/cb2370bc118d64d6a29081b1bde457fc.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-882"
+    "publish_date": "2025-08-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4739404"
   }
 ];

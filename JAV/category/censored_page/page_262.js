@@ -1,406 +1,1911 @@
 window.PAGE_DATA = [
   {
-    "id": 85197,
-    "IDcode": "MDTM-788",
-    "title": "新放課後痴女美少女回春-琴石ゆめる",
+    "id": 99133,
+    "IDcode": "BBAN-027",
+    "title": "レズビアン熟女～40代から始まるディープでハードなレズビアン～ 宮部涼花 翔田千里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "按摩",
-      "主观视角",
-      "单体作品",
-      "荡妇",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/17/a093d424dd76b5fcaa478a12a1bb4001.jpg",
-    "actress": [
-      "琴石ゆめる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-788"
-  },
-  {
-    "id": 85213,
-    "IDcode": "MDTM-789",
-    "title": "公司里一个太可爱的下属-沙月恵奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "中出",
-      "连裤袜",
-      "OL",
-      "主观视角",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/23/44271de8a58afd00aaaa8842c70100c2.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-789"
-  },
-  {
-    "id": 166866,
-    "IDcode": "MDTM-791",
-    "title": "新放課後痴女美少女回春-京花萌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/29/6553fd86f1f10b4d64c23914a4e1629c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-791"
-  },
-  {
-    "id": 68637,
-    "IDcode": "MDTM-792",
-    "title": "穿制服的学生-美音ゆめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "校服",
-      "中出",
-      "主观视角",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/23/241fded8e9a7284bb7c0d966aac4d6fa.jpg",
-    "actress": [
-      "アリス"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-792"
-  },
-  {
-    "id": 107178,
-    "IDcode": "MDTM-793",
-    "title": "听话的女仆-川北メイサ 紫月ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
+      "女同接吻",
+      "成熟的女人",
       "巨乳",
-      "主观视角",
-      "女佣",
-      "美少女电影"
+      "女同性恋",
+      "各种职业"
     ],
     "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/17/13e33a49c0cf4689267fa082513b183c.jpg",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-01-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "鳳美優"
+      "翔田千里",
+      "宫部凉花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-793"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-027"
   },
   {
-    "id": 167210,
-    "IDcode": "MDTM-794",
-    "title": "排卵日子-琴石ゆめる 来栖みく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/03/6feebfac5be013385c9679f10ae09f04.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-794"
-  },
-  {
-    "id": 221134,
-    "IDcode": "MDTM-795",
-    "title": "在排卵日乞求受孕-沙月恵奈 京花萌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/03/3bf9fe8cc663e97a05e5e91a4114b7c4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-795"
-  },
-  {
-    "id": 68245,
-    "IDcode": "MDTM-797",
-    "title": "离家出走的穿制服的女孩",
+    "id": 99123,
+    "IDcode": "BBAN-029",
+    "title": "家庭教師レズビアン 私、教え子の女子校生にレズ調教されています。 桜木優希音 佳苗るか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "口交",
-      "校服",
-      "主观视角",
-      "美少女电影"
+      "女大学生",
+      "美少女",
+      "女同接吻",
+      "女同性恋",
+      "高中女生"
     ],
     "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/24/217a20638b36cd2d1acbeba5caf94faf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-797"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-02-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban029pl.jpg",
+    "actress": [
+      "佳苗瑠華",
+      "桜木优希音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-029"
   },
   {
-    "id": 68422,
-    "IDcode": "MDTM-798",
-    "title": "排卵日受精的故事-沙月恵奈 愛野ひなた",
+    "id": 98085,
+    "IDcode": "BBAN-030",
+    "title": "同棲姉妹レズビアン飯岡かなこ野宮さとみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "校服",
+      "戏剧",
+      "女同接吻",
+      "乱伦",
       "妹妹",
-      "主观视角",
-      "美少女电影"
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/24/4f18c4c3fbe3f46ec1a40c3a1d816507.jpg",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-02-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "沙月惠奈"
+      "森澤佳奈",
+      "野々宫みさと"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-798"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-030"
   },
   {
-    "id": 69601,
-    "IDcode": "MDTM-799",
-    "title": "穿制服的女孩",
+    "id": 99301,
+    "IDcode": "BBAN-032",
+    "title": "今まで味わった事のないレズテクで寝取られて…。 愛須心亜 川村まや",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "口交",
-      "校服",
-      "主观视角",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/8e418556effca09d6e42e5f29ca53558.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-799"
-  },
-  {
-    "id": 92098,
-    "IDcode": "MDTM-811",
-    "title": "卑猥でお下品なセーラー服美少女と生中出し性交 01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "中出",
-      "校服",
-      "口交",
-      "荡妇",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240303/mdtm811pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-811"
-  },
-  {
-    "id": 3665,
-    "IDcode": "MDTM-863",
-    "title": "エロすぎて馬鹿になるほど…生中出し制服を着た痴女娘お下品性交 誘い受けどM特化 02 BEST COLLECTION4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "美人",
-      "精選綜合",
-      "美腿",
-      "淫亂",
-      "清楚系",
-      "癡女",
-      "少女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "小隻馬",
-      "校花",
       "美少女",
-      "蠻橫嬌羞",
-      "苗條",
-      "JK校服",
-      "故事集",
-      "高顏值",
-      "美腳",
-      "企畫",
-      "後入",
-      "口爆",
-      "奇聞趣事",
-      "舔陰",
-      "女優",
-      "口交",
-      "美少女電影",
-      "精選總編集",
-      "騎乗位",
-      "女學生",
-      "阪道系"
+      "女同接吻",
+      "白天出轨",
+      "舔阴",
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/0aa6ea63/vod.jpg",
-    "actress": [
-      "高瀬りな",
-      "深月芽衣",
-      "早見奈奈"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-863"
+    "publish_date": "2015-03-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban032pl.jpg",
+    "actress": [
+      "川村真矢",
+      "爱须心亜",
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-032"
   },
   {
-    "id": 3649,
-    "IDcode": "MDTM-864",
-    "title": "渚みつき 神スーパースター伝説 Complete Memorial BEST4時間",
+    "id": 102861,
+    "IDcode": "BBAN-033",
+    "title": "レズビアン専用ヌーディスト-ホテルみづなれい小口田桂子香山美桜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "手指插入",
-      "女上位",
-      "美人",
-      "精選綜合",
-      "極品美人",
-      "美腿",
-      "少女",
-      "形象俱樂部",
-      "中出",
-      "高妹",
-      "清純",
-      "小隻馬",
-      "單體作品",
-      "校花",
-      "4小時以上作品",
-      "美少女",
-      "苗條",
-      "故事集",
-      "高顏值",
-      "美腳",
-      "企畫",
-      "後入",
-      "明星臉",
-      "口爆",
-      "貧乳",
-      "舔陰",
-      "女優",
-      "口交",
-      "美少女電影",
-      "精選總編集",
-      "騎乗位"
+      "多P",
+      "女同接吻",
+      "乳房",
+      "女同性恋",
+      "高"
     ],
     "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/2b6d43439d1a2855088280114342298c.jpg",
-    "actress": [
-      "渚光希"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-864"
+    "publish_date": "2015-03-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水菜丽",
+      "香山美桜",
+      "小口田桂子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-033"
   },
   {
-    "id": 186672,
-    "IDcode": "MDTM-865",
-    "title": "「子作りはご奉仕の一環です」いいなり孕ませメイドの排卵日媚び媚び妊娠交尾BESTCOLLECTION4時間02",
+    "id": 99182,
+    "IDcode": "BBAN-034",
+    "title": "レズビアンハイスクール～放課後ノンストップ＆ハイテンシ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "女同接吻",
+      "女同性恋",
+      "滥交",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-04-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban034pl.jpg",
+    "actress": [
+      "阿部乃美久",
+      "佳苗瑠華",
+      "上原亞衣",
+      "凉宫琴音",
+      "槇原爱菜",
+      "小仓由纪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-034"
+  },
+  {
+    "id": 535859,
+    "IDcode": "BBAN-035",
+    "title": "_A行列のできる有名店真正ビアン泡姫のいるレズソープランド神ユキPart1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "宇宙企畫",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/13/7ae189d8/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-865"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-035"
   },
   {
-    "id": 2851,
-    "IDcode": "MDTM-866",
-    "title": "向井藍 神スーパースター伝説 Complete Memorial BEST4時間",
+    "id": 98976,
+    "IDcode": "BBAN-036",
+    "title": "レズビアンに囚われた女潜入捜査官～地下キャットファイトクラブ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "大奶头",
-      "手指插入",
-      "女上位",
-      "美人",
-      "精選綜合",
-      "極品美人",
-      "中性",
-      "清楚系",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "色白",
-      "小隻馬",
-      "單體作品",
-      "4小時以上作品",
-      "蠻橫嬌羞",
-      "潮吹",
-      "故事集",
-      "性感",
-      "高顏值",
-      "美腳",
-      "企畫",
-      "後入",
-      "口爆",
-      "貧乳",
-      "舔陰",
-      "女優",
-      "口交",
-      "美少女電影",
-      "精選總編集",
-      "騎乗位"
+      "战斗行动",
+      "多P",
+      "女同接吻",
+      "女检察官",
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/13/c771d9ab/vod.jpg",
-    "actress": [
-      "向井藍"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-866"
+    "publish_date": "2015-04-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "真木今日子",
+      "蓮実クレア",
+      "希咲エマ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-036"
   },
   {
-    "id": 175962,
-    "IDcode": "MDTM-867",
-    "title": "エロすぎて馬鹿になるほど…生中出し いいなり巨乳娘オホイキ特化お下品性交 BEST COLLECTION 4時間 01",
+    "id": 536123,
+    "IDcode": "BBAN-037",
+    "title": "女性限定シェアハウスレズビアン～逃れられない、积年の片思い～ かすみ果穂 春原未来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-037"
+  },
+  {
+    "id": 73110,
+    "IDcode": "BBAN-038",
+    "title": "アナル輪姦レズビアン～鬼畜なビアンが集うレズオフ会～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "肛交",
+      "巨乳",
+      "女同性恋",
+      "轮奸"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/a23788404a62135d859d1ecbb89ea798.jpg",
+    "actress": [
+      "風間由美",
+      "羽月希",
+      "迦纳绫子",
+      "山本美和子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-038"
+  },
+  {
+    "id": 469643,
+    "IDcode": "BBAN-039",
+    "title": "返鄉探親妻子蕾絲邊調教～在老公的老家單獨一人…嫁小姑蕾絲邊～源美衣奈 水野朝陽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ebfc4e52c12b4e6845fb1a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-039"
+  },
+  {
+    "id": 536079,
+    "IDcode": "BBAN-041",
+    "title": "キャビンアテンダントレズビアン～大好きな教官と、真夜中の絶顶レズフライト～ 千乃あずみ 朝仓ことみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-041"
+  },
+  {
+    "id": 99090,
+    "IDcode": "BBAN-042",
+    "title": "義母娘接吻レズ調教～舌に堕ち、唾液に溺れる嫁姑関係～安",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "女同接吻",
+      "婆婆",
+      "成熟的女人",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-06-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森澤佳奈",
+      "安野由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-042"
+  },
+  {
+    "id": 99075,
+    "IDcode": "BBAN-043",
+    "title": "体育大学そばにある女子アスリートが通うレズビアン整体院",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-06-04",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban043/bban043pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-043"
+  },
+  {
+    "id": 536155,
+    "IDcode": "BBAN-046",
+    "title": "汗だくスポコスレズビアン 有村千佳 南梨央奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-046"
+  },
+  {
+    "id": 99312,
+    "IDcode": "BBAN-047",
+    "title": "妹の友達をノーパンとマンチラで誘惑するレズビアンお姉さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "女同接吻",
+      "姐姐",
+      "巨乳",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-07-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "神ユキ",
+      "篠田优",
+      "逢沢るる",
+      "高山えみり",
+      "夏目优希",
+      "须藤あいく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-047"
+  },
+  {
+    "id": 99289,
+    "IDcode": "BBAN-048",
+    "title": "LESBIANBLACKGALS～ギャルサー×媚薬！！パラパラ乱交∞絶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-048"
+  },
+  {
+    "id": 99073,
+    "IDcode": "BBAN-050",
+    "title": "美熟女のレズ・ストーリーは突然に。 三浦恵理子 宮部涼花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "女同接吻",
+      "成熟的女人",
+      "巨乳",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-08-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban050/bban050pl.jpg",
+    "actress": [
+      "三浦恵理子",
+      "宫部凉花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-050"
+  },
+  {
+    "id": 99314,
+    "IDcode": "BBAN-051",
+    "title": "2穴拷問レズクリニック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-051"
+  },
+  {
+    "id": 535880,
+    "IDcode": "BBAN-0512",
+    "title": "穴拷问レズクリニック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-0512"
+  },
+  {
+    "id": 102872,
+    "IDcode": "BBAN-052",
+    "title": "THELESBIANWORLDレズビアンがあたりまえの世界～地球上に",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-052"
+  },
+  {
+    "id": 98988,
+    "IDcode": "BBAN-054",
+    "title": "人妻を虜にする 寸止め淫語レズビアン 新山沙弥 大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "荡妇",
+      "已婚妇女",
+      "女同接吻",
+      "女同性恋",
+      "淫语"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-09-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大槻响",
+      "新山沙弥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-054"
+  },
+  {
+    "id": 536132,
+    "IDcode": "BBAN-055",
+    "title": "図书馆でAV女优のヌードポーズ集を见てムラムラしてしまった女子を狙うレズビアン司书",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-055"
+  },
+  {
+    "id": 99365,
+    "IDcode": "BBAN-056",
+    "title": "オフィスレディレズ痴漢～蒸れた黒パンスト、真夏の汗だく女性専用車両～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "屁股",
+      "OL",
+      "女同接吻",
+      "性骚扰",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-10-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "神ユキ",
+      "大场唯",
+      "千乃杏美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-056"
+  },
+  {
+    "id": 98030,
+    "IDcode": "BBAN-057",
+    "title": "嫁姑レズビアン 私、姑に毎日レズ調教されています。 紺野ひかる 篠田あゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "女同接吻",
+      "婆婆",
+      "巨乳",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-10-07",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d96c84ce5a404e9bbaf708/cover.jpg",
+    "actress": [
+      "绀野光",
+      "篠田步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-057"
+  },
+  {
+    "id": 99309,
+    "IDcode": "BBAN-058",
+    "title": "今まで味わった事のないレズテクで寝取られて…。 愛原さえ なごみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女同接吻",
+      "白天出轨",
+      "乳房",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-10-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban058/bban058pl.jpg",
+    "actress": [
+      "天月叶菜",
+      "爱原さえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-058"
+  },
+  {
+    "id": 99183,
+    "IDcode": "BBAN-059",
+    "title": "ボイン大好きレズビアン、女友達に過激なレズイタズラ。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恶作剧",
+      "女同接吻",
+      "女同性恋",
+      "巨乳",
+      "故事集"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-10-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "霧島さくら",
+      "青山未来",
+      "彩音遙菜",
+      "久我かのん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-059"
+  },
+  {
+    "id": 99313,
+    "IDcode": "BBAN-061",
+    "title": "イタズラなレズKISS 宮崎あや 上原亜衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "戏剧",
+      "美少女",
+      "女同接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-11-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban061/bban061pl.jpg",
+    "actress": [
+      "上原亞衣",
+      "宫崎彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-061"
+  },
+  {
+    "id": 99294,
+    "IDcode": "BBAN-063",
+    "title": "上原花恋とHIKARIの旅ビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "巨乳",
+      "女同性恋",
+      "泳装",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-11-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "HIKARI",
+      "上原花恋"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-063"
+  },
+  {
+    "id": 99237,
+    "IDcode": "BBAN-064",
+    "title": "SUPER熟BODY！！美熟女コスプレイヤーレズビアンKAORI北条麻妃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-064"
+  },
+  {
+    "id": 99248,
+    "IDcode": "BBAN-065",
+    "title": "レズビアンアスリート～グラマラス女子バレーボーラー-熱血！ノ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "运动短裤",
+      "女同接吻",
+      "巨乳",
+      "女同性恋",
+      "滥交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-12-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠田步美",
+      "春原未来",
+      "水野朝陽",
+      "浜崎真绪",
+      "香山美桜",
+      "有森凉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-065"
+  },
+  {
+    "id": 99307,
+    "IDcode": "BBAN-066",
+    "title": "今日から私たちレズビアン3姉妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "女同接吻",
+      "女同性恋",
+      "巨乳",
+      "妹妹"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-12-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "松本芽依",
+      "爱须心亜",
+      "しずく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-066"
+  },
+  {
+    "id": 99292,
+    "IDcode": "BBAN-067",
+    "title": "人妻を虜にする寸止め淫語レズビアン澁谷果歩谷原希美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "女同接吻",
+      "巨乳",
+      "女同性恋",
+      "淫语"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-12-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "谷原希美",
+      "澁谷果歩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-067"
+  },
+  {
+    "id": 98740,
+    "IDcode": "BBAN-068",
+    "title": "リアル女友達3人組が仲良しデート後のレズSEXを自撮りしちゃいました！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "OL",
+      "女同接吻",
+      "巨乳",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-12-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "乙愛麗絲",
+      "阿部乃美久",
+      "奏自由",
+      "星野ひびき",
+      "前田のの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-068"
+  },
+  {
+    "id": 535864,
+    "IDcode": "BBAN-069",
+    "title": "_ATHELESBIANWORLDレズビアンがあたりまえの世界2～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-069"
+  },
+  {
+    "id": 536154,
+    "IDcode": "BBAN-070",
+    "title": "ビビアンTV Presents 女子アナウンサーレズビアン～メインキャスター争夺！エース女子アナガチレズバトル～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-070"
+  },
+  {
+    "id": 99185,
+    "IDcode": "BBAN-071",
+    "title": "熟ジェンヌレズビアン～美熟女2人の熾烈なスター争い～ 三浦恵理子 安野由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "多P",
+      "女同接吻",
+      "成熟的女人",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2016-01-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban071/bban071pl.jpg",
+    "actress": [
+      "安野由美",
+      "円城ひとみ",
+      "三浦恵理子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-071"
+  },
+  {
+    "id": 469820,
+    "IDcode": "BBAN-072",
+    "title": "蕾絲邊寵物互換相姦網聚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6d20ae4a73d4f15a62291/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-072"
+  },
+  {
+    "id": 99181,
+    "IDcode": "BBAN-073",
+    "title": "レズビアンに囚われた女潜入捜査官～権力と金と欲。ビビアンTVアナウンス室潜入編～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "女检察官",
+      "拘束",
+      "巨乳",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2016-02-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上優",
+      "篠惠美",
+      "本田岬",
+      "芦名ユリア",
+      "夏目优希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-073"
+  },
+  {
+    "id": 99371,
+    "IDcode": "BBAN-082",
+    "title": "月島ななこと椎名そらのガチレズカップルが自宅にファンを集めて「レズ解禁」オフ会ドキュメント！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "情侣",
+      "纪录片",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2016-04-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椎名空",
+      "片桐Eririka, 片桐えりりか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-082"
+  },
+  {
+    "id": 536096,
+    "IDcode": "BBAN-086",
+    "title": "LESBATTLE ROYALE-レズバトル・ロワイヤル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-086"
+  },
+  {
+    "id": 539311,
+    "IDcode": "BBAN-096",
+    "title": "女汤で人妻が出会ってしまったレズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-096"
+  },
+  {
+    "id": 103023,
+    "IDcode": "BBAN-097",
+    "title": "ノンケ女教師とビアン妻 昼下がりの家庭訪問レズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "女同接吻",
+      "白天出轨",
+      "女教师",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2016-07-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上優",
+      "羽月希",
+      "夏树カオル",
+      "叶山めい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-097"
+  },
+  {
+    "id": 411278,
+    "IDcode": "BBAN-098",
+    "title": "婆婆和儿媳亲吻女同性恋训练〜婆婆被儿媳的Verotech戴上绿帽子〜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/20/6804baccae37d45b9e3f18c7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-098"
+  },
+  {
+    "id": 99045,
+    "IDcode": "BBAN-103",
+    "title": "帰省妻レズ調教～夫の生家に一人きり…嫁姑レズビアン～ 早川瀬里奈 小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "女同接吻",
+      "白天出轨",
+      "婆婆",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2016-08-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban103/bban103pl.jpg",
+    "actress": [
+      "小早川怜子",
+      "朝桐光",
+      "早川瀬里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-103"
+  },
+  {
+    "id": 90789,
+    "IDcode": "BBAN-104",
+    "title": "我希望你能再次爱我-通野未帆 森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "戏剧",
+      "女同接吻",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森澤佳奈",
+      "通野未帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-104"
+  },
+  {
+    "id": 99127,
+    "IDcode": "BBAN-107",
+    "title": "BIBIANPRESENTS夢の全裸レズバトルタッグマッチトーナメント2016！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-107"
+  },
+  {
+    "id": 225104,
+    "IDcode": "BBAN-110",
+    "title": "被女同囚禁的女搜查官",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-110"
+  },
+  {
+    "id": 535922,
+    "IDcode": "BBAN-126",
+    "title": "いずみとかんな柔らかい女の子同士のキスでもっともっと仲良",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-126"
+  },
+  {
+    "id": 98031,
+    "IDcode": "BBAN-138",
+    "title": "義母娘 接吻レズ調教 ～姑の肉感ボディのすべてを味わいつくす美嫁の舌技～ 紺野ひかる 一条綺美香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "婆婆",
+      "巨乳",
+      "女同性恋",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2017-06-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "绀野光",
+      "一条绮美香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-138"
+  },
+  {
+    "id": 535921,
+    "IDcode": "BBAN-140",
+    "title": "义母とのレズに溺れて…。～旦那の知らない义母娘レズビアン～川上ゆう南梨央奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-140"
+  },
+  {
+    "id": 572242,
+    "IDcode": "BBAN-141",
+    "title": "同窗生に诱われて… レズビアンの虏になった人妻。 神ユキ 青山はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://pic28.anzise.com/pic/20220602/dbac97676ff9527f00eaef84b7521739/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-141"
+  },
+  {
+    "id": 540882,
+    "IDcode": "BBAN-148",
+    "title": "家庭教师レズビアン教え子にレズ调教されてしま第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-148"
+  },
+  {
+    "id": 403340,
+    "IDcode": "BBAN-155",
+    "title": "在朋友面前被性交的女同性恋BBAN-155-水城奈绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/873d6b7bba3c58de32537aff0ef129a8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-155"
+  },
+  {
+    "id": 98610,
+    "IDcode": "BBAN-161",
+    "title": "同僚OLをレズ堕ちさせる 寸止め淫語レズビアン 森苺莉 南梨央奈 ～ノンケの親友に思いを寄せるレズビアン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "OL",
+      "女同接吻",
+      "烂醉如泥的",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2017-12-19",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban161/bban161pl.jpg",
+    "actress": [
+      "南梨央奈",
+      "森苺莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-161"
+  },
+  {
+    "id": 535920,
+    "IDcode": "BBAN-164",
+    "title": "キセキの逸材。女の子が大好きな敏感微乳の美少女がビビアンでAVデ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-164"
+  },
+  {
+    "id": 98815,
+    "IDcode": "BBAN-166",
+    "title": "義母娘 接吻レズ調教 ～姑のカラダを貪り尽くす美嫁のヘビ舌～ 新堂有望 泉ののか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "女同接吻",
+      "新娘，年轻妻子",
+      "成熟的女人",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2018-01-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "泉ののか",
+      "新堂有望"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-166"
+  },
+  {
+    "id": 102793,
+    "IDcode": "BBAN-171",
+    "title": "賭けに負けてレズビアンに堕ちるショートカットの敏感女子大生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "女同接吻",
+      "女大学生",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2018-03-13",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban171/bban171pl.jpg",
+    "actress": [
+      "蘭々",
+      "麻里梨夏",
+      "日向澪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-171"
+  },
+  {
+    "id": 535934,
+    "IDcode": "BBAN-172",
+    "title": "あべみかこに本気のレズを教えて欲しい爱瀬美希初めて女の子に责められ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-172"
+  },
+  {
+    "id": 535933,
+    "IDcode": "BBAN-173",
+    "title": "家の中に潜む影知らない女に袭われて…～レズビアンに狙われた若妻～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-173"
+  },
+  {
+    "id": 535932,
+    "IDcode": "BBAN-174",
+    "title": "制服少女たちのレズビアン三角関系。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-174"
+  },
+  {
+    "id": 535931,
+    "IDcode": "BBAN-175",
+    "title": "男では味わえない快感に目醒め激しくイキまくる絶顶44回！！痴女テク",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-175"
+  },
+  {
+    "id": 535930,
+    "IDcode": "BBAN-176",
+    "title": "耻ずかしいけど、いっぱい见てください。五十岚润レズ＆アナル解禁！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-176"
+  },
+  {
+    "id": 535929,
+    "IDcode": "BBAN-177",
+    "title": "立场逆転レズビアン～大家なのに、人妻の住人に逆らえず…～阿部刊菜雾岛さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-177"
+  },
+  {
+    "id": 535928,
+    "IDcode": "BBAN-178",
+    "title": "美少女、学内标的。レズビアンに狙われた女生徒。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-178"
+  },
+  {
+    "id": 535927,
+    "IDcode": "BBAN-179",
+    "title": "家庭教师レズビアン教え子にレズ调教されてしまった私…。枢木あおい佐仓ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-179"
+  },
+  {
+    "id": 535926,
+    "IDcode": "BBAN-180",
+    "title": "女看守が囚人たちを必ずレズ堕ちさせるレズビアン女子刑务所",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-180"
+  },
+  {
+    "id": 535925,
+    "IDcode": "BBAN-181",
+    "title": "家政妇を饲う女レズビアンお嬢様に雇われて…星奈あい香椎りあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-181"
+  },
+  {
+    "id": 535939,
+    "IDcode": "BBAN-182",
+    "title": "チアガールレズビアン～憧れの先辈と繋がりたくて～河南実里美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-182"
+  },
+  {
+    "id": 535938,
+    "IDcode": "BBAN-183",
+    "title": "酔った势いでレズNTR彼女とバイト先の女子会ビデオを见つけて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-183"
+  },
+  {
+    "id": 536159,
+    "IDcode": "BBAN-184",
+    "title": "初美りんレズ解禁！！グラマラス・レズビアン八ツ桥さい子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-184"
+  },
+  {
+    "id": 470048,
+    "IDcode": "BBAN-188",
+    "title": "女王調教心願 超M蕾絲邊情侶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b696a25fdaf263a2602100/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-188"
+  },
+  {
+    "id": 535863,
+    "IDcode": "BBAN-190",
+    "title": "百戦錬磨のレズの巧みお姊さまたちに犯されたい水野朝阳と春原未来にアナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban190pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-190"
+  },
+  {
+    "id": 99180,
+    "IDcode": "BBAN-193",
+    "title": "レズ未経験の君色華奈が個人的に気になる女優の愛瀬美希を自宅に連れ込みガチ口説き。禁断の女優同士のプライベートでレズ解禁映像。君色華奈レズ解禁！！ 愛瀬美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "女同接吻",
+      "纪录片",
+      "女同性恋",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2018-08-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban193pl.jpg",
+    "actress": [
+      "凉美ほのか",
+      "爱瀬美希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-193"
+  },
+  {
+    "id": 535862,
+    "IDcode": "BBAN-197",
+    "title": "家の中に潜む影知らない女に袭われて…～ストーカーの标的にされた巨乳若",
     "year": "",
     "country": "",
     "genre": "",
@@ -408,1536 +1913,755 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "宇宙企畫",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/39a270de/vod.jpg",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban197pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-867"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-197"
   },
   {
-    "id": 175955,
-    "IDcode": "MDTM-868",
-    "title": "なつめ愛莉 神スーパースター伝説 Complete Memorial BEST4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "宇宙企畫",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/f7a4f5b0/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-868"
-  },
-  {
-    "id": 169848,
-    "IDcode": "MDTM342",
-    "title": "黑髮妹妹超喜欢做爱◆武藤次美",
+    "id": 98991,
+    "IDcode": "BBAN-198",
+    "title": "レズビアン覚醒した女 ～若い蕾を摘みたくて～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20241115-1/49808551aed4eb30b263edf5b4fab644.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM342"
-  },
-  {
-    "id": 169845,
-    "IDcode": "MDTM444",
-    "title": "非常喜欢表哥喜欢的不行不断跟他做爱。唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20241115-1/2b7213652830f8aca85793951d289e74.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM444"
-  },
-  {
-    "id": 169778,
-    "IDcode": "MDTM464",
-    "title": "新人限定湿吻舔遍制服明星Vol.004",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241115-1/a20cf6fd71fd7f702bdebc4159a898ed.jpg",
-    "actress": [
-      "八寻麻衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM464"
-  },
-  {
-    "id": 169780,
-    "IDcode": "MDTM503",
-    "title": "新学生妹放学回春脚底按摩＋Vol.022君户步实",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241115-1/698bd04172ab0e422b0ca96f300ebb9f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM503"
-  },
-  {
-    "id": 169844,
-    "IDcode": "MDTM528",
-    "title": "我最喜欢大叔了。藤井林檎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20241115-1/d32c4e36c384e5a218b136b91aadd227.jpg",
-    "actress": [
-      "藤井林檎"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM528"
-  },
-  {
-    "id": 169779,
-    "IDcode": "MDTM547",
-    "title": "没有高潮！虽然嘴硬，但听立体声录音的你早就知道她很爽！！忍耐高潮的喘息＆高潮声音的立体声忍耐高潮SEX！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241115-1/2aa3e11e645184ab27dd494b9e9ecde6.jpg",
-    "actress": [
-      "一条美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM547"
-  },
-  {
-    "id": 87588,
-    "IDcode": "MDUD-475",
-    "title": "生ハメ真性中出し素人5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "立即口交",
-      "女大学生",
-      "中出",
-      "猎艳",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2022-08-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230804-1/337181c2d4d237c56c80d3ad847a87d8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDUD-475"
-  },
-  {
-    "id": 83375,
-    "IDcode": "MDVHJ-010",
-    "title": "誰にも言えない…娘の夫に無理やり抱かれたなんて…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "荡妇",
       "已婚妇女",
-      "成熟的女人",
-      "戏剧",
-      "白天出轨",
-      "乱伦"
+      "美少女",
+      "女同接吻",
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/51dfdb32255dd0df25d1773e94e1c11f.jpg",
-    "actress": [
-      "平冈里枝子",
-      "樱井菜々子",
-      "乌丸まどか"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-010"
+    "publish_date": "2018-09-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban198pl.jpg",
+    "actress": [
+      "葵玲奈",
+      "明里友香",
+      "凉海みさ",
+      "白井ゆずか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-198"
   },
   {
-    "id": 218818,
-    "IDcode": "MDVHJ-021",
-    "title": "未亡人第3章",
+    "id": 594918,
+    "IDcode": "BBAN-200",
+    "title": "社宅妻の昼颜レズビアン 桥本れいか 吹石れな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/15/adc2dcad571688317a4f4a84e363d522.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/mNEQfk79L.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-021"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-200"
   },
   {
-    "id": 81356,
-    "IDcode": "MDVHJ-036",
-    "title": "姑と嫁の夜●いレズビアン5章",
+    "id": 97551,
+    "IDcode": "BBAN-206",
+    "title": "100％女を堕とす甘い顔！！ イケメン過ぎるヴァイセクシャル女子が永井みひなを興奮させまくりのレズタチDebut！！ 星宮旭",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "戏剧",
-      "乱伦",
+      "羞耻",
+      "女同接吻",
+      "首次亮相",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2018-11-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐倉陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-206"
+  },
+  {
+    "id": 98504,
+    "IDcode": "BBAN-207",
+    "title": "息ができないほど…巨乳を押しつけられレズビアンに犯される私 声を出せない状況でカラダを弄られる教育実習生 宝田もなみ 一ノ瀬梓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "女教师",
+      "乳房",
       "巨乳",
       "女同性恋"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2021-08-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220927-1/f3a4b7ac74d10956cfe24f4d11d5de3c.jpg",
-    "actress": [
-      "翔田千里",
-      "远藤しおり",
-      "浅宫ちなつ"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-036"
+    "publish_date": "2018-12-07",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/aGRfunLN.jpg",
+    "actress": [
+      "一ノ瀬梓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-207"
   },
   {
-    "id": 87585,
-    "IDcode": "MDVHJ-063",
-    "title": "「お母さんを許して」娘の旦那のデカチンに我を忘れてイキまくる母…第四章 よしい美希 パンティとチェキ付き",
+    "id": 98775,
+    "IDcode": "BBAN-208",
+    "title": "風俗嬢レズビアン ソープ嬢No.1の人気とプライドを賭けたシナリオレズバトル！！ 日向うみ 結まきな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
+      "潮吹",
+      "女同接吻",
+      "妓女",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2018-12-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban208pl.jpg",
+    "actress": [
+      "沙藤由梨",
+      "结まきな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-208"
+  },
+  {
+    "id": 98239,
+    "IDcode": "BBAN-209",
+    "title": "義母娘 接吻レズ調教 長い舌を絡ませて義母の全てを味わいつくす義娘の蛇舌 音羽文子 優月まりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "舔阴",
       "成熟的女人",
-      "戏剧",
-      "乱伦",
-      "巨乳",
-      "巨大阴茎",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2022-08-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230804-1/24f7c13f64cf515eb9a03853a0156d86.jpg",
-    "actress": [
-      "しみけん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-063"
-  },
-  {
-    "id": 87586,
-    "IDcode": "MDVHJ-064",
-    "title": "母親失格…夫の連れ子との禁断相姦にはまり狂う義母… 櫻田杏奈 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "戏剧",
-      "乱伦",
-      "巨乳",
-      "巨大阴茎",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2022-08-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230804-1/8e78848d662403893f7271e889d98253.jpg",
-    "actress": [
-      "櫻田杏奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-064"
-  },
-  {
-    "id": 69945,
-    "IDcode": "MDVHJ-067",
-    "title": "絶倫肉棒-松河智奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "戏剧",
-      "乱伦",
-      "巨乳",
-      "巨大阴茎",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/02/28cdd624d1b9b3b6826f4e58910bd8b0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-067"
-  },
-  {
-    "id": 68037,
-    "IDcode": "MDVHJ-074",
-    "title": "当我的丈夫不在家时-広末みゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胖女人",
-      "已婚妇女",
-      "戏剧",
-      "巨乳",
-      "乱伦",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/b57d4383c365d9352ea907b961026f31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-074"
-  },
-  {
-    "id": 174815,
-    "IDcode": "MDVHJ-109",
-    "title": "絶倫な夫の連れ子の巨根に溺れてしまう義母 第7章",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/c87fa380/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-109"
-  },
-  {
-    "id": 174831,
-    "IDcode": "MDVHJ-110",
-    "title": "姑と嫁の禁断レズビアン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/a83fa542/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-110"
-  },
-  {
-    "id": 178031,
-    "IDcode": "MDVIJ-001",
-    "title": "禁断性交！夫の連れ子のデカチンを貪る義母…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/501e4716/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-001"
-  },
-  {
-    "id": 181523,
-    "IDcode": "MDVIJ-002",
-    "title": "「夫には絶対に言えません」義父に抱かれたなんて…5章",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/24/f43cffe6/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-002"
-  },
-  {
-    "id": 75719,
-    "IDcode": "MDVIJ-003",
-    "title": "「どうしましょう…」私、あなたの息子に孕まされたみたい…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "戏剧",
-      "白天出轨",
-      "巨乳",
-      "巨大阴茎"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/2f62e60c/vod.jpg",
-    "actress": [
-      "成宫いろは",
-      "夏八木彩月",
-      "稲葉果織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-003"
-  },
-  {
-    "id": 75708,
-    "IDcode": "MDVIJ-004",
-    "title": "誰にも言えない…娘の夫に無理やり抱かれたなんて（14）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "戏剧",
-      "白天出轨",
-      "巨乳",
-      "巨大阴茎"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/3b8d00c1/vod.jpg",
-    "actress": [
-      "野上しおり",
-      "一条美绪",
-      "有贺みなほ",
-      "浜辺香奈子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-004"
-  },
-  {
-    "id": 8752,
-    "IDcode": "MDVIJ-005",
-    "title": "デカチンな絶倫上司に何度も何度もイカされ完堕ちし中出しまで許してしまう妻たち…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美乳",
-      "肉絲",
-      "人妻",
-      "美人",
-      "劇情",
-      "形象俱樂部",
-      "若妻",
-      "絕頂高潮",
-      "女同事",
-      "性感",
-      "巨乳",
-      "辦公室",
-      "企畫",
-      "羞恥",
-      "OL",
-      "制服",
-      "美人妻",
-      "寢取",
-      "精選總編集"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/2d0988c94487c9d4a7fc0730fcb3dcf0.jpg",
-    "actress": [
-      "清巳麗乃",
-      "藤咲紫",
-      "及川海",
-      "兼咲美優",
-      "爱乃零"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-005"
-  },
-  {
-    "id": 8753,
-    "IDcode": "MDVIJ-006",
-    "title": "私、夫の父親に抱かれイキまくってしまうダメな嫁です 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "美人",
-      "企畫",
-      "寢取",
-      "精選總編集",
-      "兒媳",
-      "巨乳",
-      "公公",
-      "4小時以上作品",
-      "家庭主妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/9711b5e3048c715c3880ac087859e7da.jpg",
-    "actress": [
-      "小早川怜子",
-      "鈴木真夕",
-      "香椎佳穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-006"
-  },
-  {
-    "id": 71954,
-    "IDcode": "MDVIJ-007",
-    "title": "姑と嫁の禁断レズビアン 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "戏剧",
       "巨乳",
       "女同性恋"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/22e8bf60152c4421f63e88265219346b.jpg",
-    "actress": [
-      "希和みこと",
-      "峰田奈奈美",
-      "冬爱琴音"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-007"
+    "publish_date": "2018-12-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200727/bban209pl.jpg",
+    "actress": [
+      "優月真裡奈",
+      "音羽文子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-209"
   },
   {
-    "id": 71973,
-    "IDcode": "MDVIJ-008",
-    "title": "「どうしましょう…」私、あなたの息子に孕まされたみたい… 2",
+    "id": 98559,
+    "IDcode": "BBAN-210",
+    "title": "憧れの女性に愛されたくて… 霧島さくら 野々宮みさと",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
+      "和服，丧服",
+      "女同接吻",
       "巨乳",
-      "巨大阴茎"
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/74688d296209eca57685316ada291de1.jpg",
-    "actress": [
-      "夏川步美",
-      "那賀崎雪音",
-      "東条実澪",
-      "若宫はずき"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-008"
+    "publish_date": "2018-12-07",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200727/bban210pl.jpg",
+    "actress": [
+      "霧島さくら",
+      "野々宫みさと"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-210"
   },
   {
-    "id": 69646,
-    "IDcode": "MDVIJ-010",
-    "title": "「夫には絶対に言えません」義父に抱かれたなんて…6章",
+    "id": 99296,
+    "IDcode": "BBAN-211",
+    "title": "レズビアンに囚われた女潜入捜査官 Special ～裏製薬会社と繋がる人身売買組織 編～ 小向美奈子 風間ゆみ 澤村レイコ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
+      "流汗",
+      "女同接吻",
+      "女检察官",
+      "超乳",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-01-07",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/y8bWX3ju.jpg",
+    "actress": [
+      "風間由美",
+      "高坂ますみ",
+      "小向美奈子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-211"
+  },
+  {
+    "id": 71005,
+    "IDcode": "BBAN-214",
+    "title": "レズNGの久保今日子に酒を飲ませてべろんべろんに酔った勢いでレズ解禁！ 久保今日子 葵百合香 鈴木さとみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "烂醉如泥的",
       "成熟的女人",
-      "戏剧",
-      "白天出轨",
       "巨乳",
-      "巨大阴茎"
+      "女同性恋"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/51ce4c2aaf106351f2131ab9e35372b2.jpg",
-    "actress": [
-      "夏川步美",
-      "那賀崎雪音",
-      "東条実澪",
-      "若宫はずき"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-010"
-  },
-  {
-    "id": 67514,
-    "IDcode": "MDVIJ-011",
-    "title": "夫の連れ子のデカチンで絶倫性交の虜になる義母たち… 6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "巨乳",
-      "巨大阴茎",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/5197d201fdab7c1cde6a77bd22b8e413.jpg",
-    "actress": [
-      "姫川礼子",
-      "森萤",
-      "月岛さくら",
-      "中山穂香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-011"
-  },
-  {
-    "id": 67971,
-    "IDcode": "MDVIJ-012",
-    "title": "娘の旦那との禁断性交にイキ狂うわたしを… 2長澤里実 姫川礼子 海埜ほたる 平井栞奈 葵百合香 仲野梢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "巨乳",
-      "巨大阴茎",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250604-1/08e27d58423d4add390b6c48af24113c.jpg",
+    "publish_date": "2019-01-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/65b295b83bb1fe45445fb8b9bc7af846.jpg",
     "actress": [
       "葵百合香",
-      "姫川礼子",
-      "森萤"
+      "铃木里美",
+      "久保今日子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-214"
   },
   {
-    "id": 62310,
-    "IDcode": "MDVIJ-014",
-    "title": "姑と嫁の禁断レズビアン 3",
+    "id": 98194,
+    "IDcode": "BBAN-216",
+    "title": "素人女性限定！ガチレズな原さくらと気持ちいいことしませんか？ドキドキ！初",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
+      "素人",
+      "女同接吻",
+      "猎艳",
+      "业余",
+      "素人作品",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-02-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "原さくら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-216"
+  },
+  {
+    "id": 99427,
+    "IDcode": "BBAN-217",
+    "title": "飲尿-浴尿レズビアン～相手の体液全てを味わい尽くしまみれる2人～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "饮尿",
+      "女同接吻",
+      "COSPLAY服饰",
+      "素人作品",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-02-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宫崎彩",
+      "七海ゆあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-217"
+  },
+  {
+    "id": 98644,
+    "IDcode": "BBAN-220",
+    "title": "33歳、本物人妻我妻澪がレズ解禁お相手はなんと真正レズビアンで男性経験",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-220"
+  },
+  {
+    "id": 71757,
+    "IDcode": "BBAN-223",
+    "title": "エロ過ぎる痴女浜崎真緒とレズに溺れる 初レズビアン。松本菜奈実レズ解禁！！ 松本菜奈実 浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女同接吻",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ed234bbe205a37375627ef8cd702c57a.jpg",
+    "actress": [
+      "松本菜奈実",
+      "浜崎真绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-223"
+  },
+  {
+    "id": 98990,
+    "IDcode": "BBAN-224",
+    "title": "黒川すみれ レズ解禁！ 憧れの君島みおと篠田ゆうでレズ解禁したい黒川すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-04-07",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/67199900864948a09351c4a3822cc1c3.jpg",
+    "actress": [
+      "黑川堇",
+      "篠田优",
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-224"
+  },
+  {
+    "id": 98505,
+    "IDcode": "BBAN-225",
+    "title": "美術部レズビアン 先輩の裸体モデルをさせられて ～部活内発情レズ覚醒～ 高牟礼れな 渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "眼镜",
+      "校服",
       "戏剧",
+      "女同接吻",
+      "素人作品",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-04-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "渚光希",
+      "高牟礼れな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-225"
+  },
+  {
+    "id": 98686,
+    "IDcode": "BBAN-226",
+    "title": "母乳レズビアン～夫のいない昼の間だけ…母乳にまみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-226"
+  },
+  {
+    "id": 71411,
+    "IDcode": "BBAN-227",
+    "title": "レズテクNO.1決定戦台本なしのイカセ合いバトル！ DOCUMENT LESBIAN 2019 ガチレズセックス大乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女同接吻",
+      "女同性恋",
+      "乱交",
+      "滥交",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d094d3cbd632319750b3661fa7560c8e.jpg",
+    "actress": [
+      "美谷朱里",
+      "塚田詩織",
+      "葵玲奈",
+      "小西真理繪",
+      "星奈爱",
+      "管野静香",
+      "原さくら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-227"
+  },
+  {
+    "id": 98576,
+    "IDcode": "BBAN-228",
+    "title": "あずみひなは枢木あおいのことが好きすぎる変態女媚薬を仕込むイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女同接吻",
+      "美少女电影",
+      "素人作品",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-05-07",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/2b77ea9d751336a98139d1cf24222bb0.jpg",
+    "actress": [
+      "枢木葵",
+      "佐倉陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-228"
+  },
+  {
+    "id": 99249,
+    "IDcode": "BBAN-229",
+    "title": "可愛い美少女だらけの現場にいきなり突入！！イケメンバイセ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "女同接吻",
+      "素人作品",
+      "女同性恋",
+      "精选，综合",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-05-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "皆月光",
+      "七海ゆあ",
+      "铃木みか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-229"
+  },
+  {
+    "id": 98810,
+    "IDcode": "BBAN-230",
+    "title": "レズに堕ちていく私～スマホを落としただけなのに～咲々原リン小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "戏剧",
+      "女同接吻",
+      "素人作品",
+      "女同性恋",
+      "精选，综合",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-05-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小早川怜子",
+      "咲々原リン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-230"
+  },
+  {
+    "id": 536105,
+    "IDcode": "BBAN-231",
+    "title": "19歳の决意。 ガチ処女レズビアンAVデビュー 渡辺杏莉 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-231"
+  },
+  {
+    "id": 75040,
+    "IDcode": "BBAN-232",
+    "title": "神咲诗织认真的蕾丝高潮被女同性恋囚禁的女性潜入搜查官",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "戏剧",
+      "女同接吻",
+      "女同",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/a39644b53637fde28bac61cd97457ddc.jpg",
+    "actress": [
+      "推川悠里",
+      "管野静香",
+      "神咲诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-232"
+  },
+  {
+    "id": 75035,
+    "IDcode": "BBAN-233",
+    "title": "華道家に活けられた女 彩葉みおり 神ユキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "女同接吻",
       "巨乳",
       "女同性恋"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/a4d52cb685f037cd92c10a3f7e440bff.jpg",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-06-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8bf204798acdc97fd215750e60c42ac8.jpg",
     "actress": [
-      "朝比ゆの",
-      "鈴河めぐみ",
-      "江澄ゆゆ"
+      "神ユキ",
+      "豊田爱菜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-233"
   },
   {
-    "id": 62309,
-    "IDcode": "MDVIJ-015",
-    "title": "デカチンな絶倫上司に何度も何度もイカされ完堕ちし中出しまで許してしまう妻たち… 2",
+    "id": 75042,
+    "IDcode": "BBAN-234",
+    "title": "女教師レズビアン雌奴隷～悪魔のような美少女の微笑みマゾ調教～ 新村あかり 麻里梨夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "巨乳",
-      "巨大阴茎"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/c51364e7d5cf8c34cfbda90a8c5f4ccc.jpg",
-    "actress": [
-      "小早川怜子",
-      "翔田千里",
-      "月野ゆりね",
-      "成宫いろは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-015"
-  },
-  {
-    "id": 184457,
-    "IDcode": "MDVIJ-016",
-    "title": "誰にも言えない…娘の夫に無理やり抱かれたなんて",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/4579a609/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-016"
-  },
-  {
-    "id": 178007,
-    "IDcode": "MDVIJ-017",
-    "title": "デカチンな絶倫上司に何度も何度もイカされ完堕ちし中出しまで許してしまう妻たち…（3）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/09914a9a/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-017"
-  },
-  {
-    "id": 173990,
-    "IDcode": "MDVIJ-018",
-    "title": "「どうしましょう…」私、あなたの息子に孕まされたみたい… 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/05/21948b1d/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-018"
-  },
-  {
-    "id": 70374,
-    "IDcode": "MDVR-336",
-    "title": "专属我的女仆傲娇过头了-石川澪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "VR",
-      "淫语",
-      "精选，综合",
-      "主观视角",
-      "羞耻",
-      "单体作品",
-      "荡妇",
-      "女佣"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250402-1/4c20cc50b7abacf8feb652d7dc8bc6be.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVR-336"
-  },
-  {
-    "id": 60162,
-    "IDcode": "MDVR-341",
-    "title": "风俗店内射性爱五重奏-新有菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "接吻",
-      "VR",
-      "中出",
-      "精选，综合",
-      "姐姐",
-      "礼仪小姐",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250421-1/835411c09e687117c9da50325c577b8c.jpg",
-    "actress": [
-      "新有菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVR-341"
-  },
-  {
-    "id": 175866,
-    "IDcode": "MDVR-369",
-    "title": "和全世界最爱的澪久违约会重温当初纯情悸动的感觉-石川澪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/7ae33698/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVR-369"
-  },
-  {
-    "id": 210268,
-    "IDcode": "MDYD-267",
-    "title": "変態家庭教師 生田沙織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/18/90aab4c6a3dd6645668362dcbfe99eab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-267"
-  },
-  {
-    "id": 216254,
-    "IDcode": "MDYD-485",
-    "title": "隣の人妻-美月あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/19/8af118d306ac75be13ecc522cae6a4f8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-485"
-  },
-  {
-    "id": 177763,
-    "IDcode": "MDYD-533",
-    "title": "把美熟女嫂子北条麻妃调教成我专属的性奴隶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/06/810ad8c3a7fce3daae71645b9cd22112.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-533"
-  },
-  {
-    "id": 214723,
-    "IDcode": "MDYD-536",
-    "title": "友人の母-美原咲子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/28/0d88e3e1a8d216c4180494606aaa5427.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-536"
-  },
-  {
-    "id": 214711,
-    "IDcode": "MDYD-546",
-    "title": "跟踪狂的暴欲-大塚咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/28/6ade7b05ae61641bd62f440ab57871e1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-546"
-  },
-  {
-    "id": 214752,
-    "IDcode": "MDYD-547",
-    "title": "被丈夫欺骗的妻子-風間ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/29/eb1315096ab96c5dd46aed7409504d46.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-547"
-  },
-  {
-    "id": 214787,
-    "IDcode": "MDYD-551",
-    "title": "教师的妻子-立花みずき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/02/dbb708cfa7020d72c901e2eab11de40d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-551"
-  },
-  {
-    "id": 214845,
-    "IDcode": "MDYD-553",
-    "title": "不貞妻-華山美玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/03/2743bd29e2b616f40924746afdf83d8f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-553"
-  },
-  {
-    "id": 214847,
-    "IDcode": "MDYD-557",
-    "title": "美麗奴-柳田やよい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/03/7088f3fbdf53a9b33aec21948963aa9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-557"
-  },
-  {
-    "id": 214890,
-    "IDcode": "MDYD-562",
-    "title": "寡妇的秘密情欲-結城みさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/8060b611afa73d5fbcb93afd32e99706.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-562"
-  },
-  {
-    "id": 209837,
-    "IDcode": "MDYD-565",
-    "title": "夫の借金-北条麻妃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/05/b8d46e5725eb75a32fd9f4829672a289.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-565"
-  },
-  {
-    "id": 214812,
-    "IDcode": "MDYD-584",
-    "title": "看護師妻-橘エレナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/02/364d6d92a9da1e938496ecbfb093a36c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-584"
-  },
-  {
-    "id": 223664,
-    "IDcode": "MDYD-585",
-    "title": "我的女朋友有一个丈夫-瀬奈涼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/24/ca7edc6a08dec75734cbc5343b78cef8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-585"
-  },
-  {
-    "id": 223749,
-    "IDcode": "MDYD-595",
-    "title": "年轻的妻子-水元ゆうな 風間ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/02/3aa2e38a487d7bcae29c1df07e295f01.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-595"
-  },
-  {
-    "id": 214875,
-    "IDcode": "MDYD-596",
-    "title": "調教の記録-百田栞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/c7a814da42d4c9a1285b32be32cd12cd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-596"
-  },
-  {
-    "id": 211282,
-    "IDcode": "MDYD-606",
-    "title": "爱上了丈夫的同事-森ななこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/27/d51bf1fdfa0bad8b86a46158a8ddcfbc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-606"
-  },
-  {
-    "id": 211281,
-    "IDcode": "MDYD-615",
-    "title": "美丽性奴-森ななこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/27/fb725147cb334f2087d4b771ae03751a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-615"
-  },
-  {
-    "id": 218154,
-    "IDcode": "MDYD-625",
-    "title": "美人妻- 桐岡さつき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/08/57e9042dfa661c1bec94edaf8b382753.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-625"
-  },
-  {
-    "id": 221562,
-    "IDcode": "MDYD-628",
-    "title": "被借了高利贷的老公-藤咲沙耶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/13/b835df59fd8d0ce2770f294a48a1d57a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-628"
-  },
-  {
-    "id": 214886,
-    "IDcode": "MDYD-634",
-    "title": "友人の母-藤沢芳恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/bba9113fc999e380459cc7d16938214c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-634"
-  },
-  {
-    "id": 223662,
-    "IDcode": "MDYD-636",
-    "title": "豊満人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/24/a8b65e933240dd90da494face595ff50.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-636"
-  },
-  {
-    "id": 213756,
-    "IDcode": "MDYD-640",
-    "title": "隔壁的年轻漂亮妻子-星野あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/05/7ac86bc558055f01adcfe82365ee2583.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-640"
-  },
-  {
-    "id": 197996,
-    "IDcode": "MDYD-643",
-    "title": "不同身份的四名人妻主动勾引男人的案例",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-2/2488ed121a8c5c782563878de6b23dfd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-643"
-  },
-  {
-    "id": 214759,
-    "IDcode": "MDYD-644",
-    "title": "一个陷入强奸的人妻-松本まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/29/e68c6108343ad8f9c24f5f9250fac463.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-644"
-  },
-  {
-    "id": 214884,
-    "IDcode": "MDYD-652",
-    "title": "白衣天使-柏木ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/5781dddb5e519a984fdcef55a718a38c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-652"
-  },
-  {
-    "id": 214869,
-    "IDcode": "MDYD-660",
-    "title": "友人の母-松本まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/ad0ca93c361c3c63b6cf559f2227dfcb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-660"
-  },
-  {
-    "id": 210748,
-    "IDcode": "MDYD-661",
-    "title": "隔壁的老婆误入我家-紗奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/31/dc4a8651155f0fd173df91876771e039.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-661"
-  },
-  {
-    "id": 212934,
-    "IDcode": "MDYD-665",
-    "title": "義母奴-芦名未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/21/f230088496a47421873c02073d44a3da.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-665"
-  },
-  {
-    "id": 214813,
-    "IDcode": "MDYD-666",
-    "title": "我被我的姐夫强奸了-松本まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/02/9430c579322f68c97c181acf30fd6858.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-666"
-  },
-  {
-    "id": 212578,
-    "IDcode": "MDYD-667",
-    "title": "没有胸罩的生活-長澤あずさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/04/f18c4a93dcdfa7ef7a7cc24b4f4e49cb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-667"
-  },
-  {
-    "id": 200748,
-    "IDcode": "MDYD-671",
-    "title": "丈夫不在的时候被公公侵犯-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250301-1/fa72f6800a53909107be541b9fbb7b48.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-671"
-  },
-  {
-    "id": 95907,
-    "IDcode": "MDYD-674",
-    "title": "性奴契約書 椎名ゆな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
+      "捆绑",
       "调教",
-      "新娘，年轻妻子",
-      "无码破解",
-      "凌辱"
+      "肛交",
+      "素人作品",
+      "女同性恋",
+      "精选，综合",
+      "SM"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/04/e65fc330e1516e3984af5a71a9f35869.jpg",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2019-06-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/0304367da7eb0d87d9933d10396d7050.jpg",
     "actress": [
-      "椎名由奈",
-      "森林原人"
+      "麻里梨夏",
+      "新村晶"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-674"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-234"
   },
   {
-    "id": 213921,
-    "IDcode": "MDYD-677",
-    "title": "隣人の妻-音無かおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/16/4a8b8f9291aa69909faf5cb8bcb36648.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-677"
-  },
-  {
-    "id": 214880,
-    "IDcode": "MDYD-678",
-    "title": "女教師-松本まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/62afd979572620a60463f4fb6573e266.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-678"
-  },
-  {
-    "id": 213367,
-    "IDcode": "MDYD-685",
-    "title": "友人の母-澤村レイコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/13/de079a33cd9f8dedac0554263b4b425f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-685"
-  },
-  {
-    "id": 213378,
-    "IDcode": "MDYD-691",
-    "title": "義母奴-かすみりさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/14/7e5ba63736b162c6cbd3cbcef6faa2a4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-691"
-  },
-  {
-    "id": 223723,
-    "IDcode": "MDYD-692",
-    "title": "友人の母-翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/26/ec255e38082bb93612671264881a29b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-692"
-  },
-  {
-    "id": 221206,
-    "IDcode": "MDYD-695",
-    "title": "美女巨乳后妈-JULIA",
+    "id": 74644,
+    "IDcode": "BBAN-235",
+    "title": "星奈あいのガチリア友がまさかのレズ解禁！！ ～仲良し同士の恥じらい全力レズSEXドキュメント～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "乱伦"
+      "接吻",
+      "女同接吻",
+      "纪录片",
+      "女同性恋",
+      "第一人称摄影"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/06/58ce6a6d84cf28c538a9b4fac16d1771.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-695"
-  },
-  {
-    "id": 214883,
-    "IDcode": "MDYD-701",
-    "title": "白衣天使-梨果メリア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/d6f999cc58dd9d52645e272c02bb9544.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-701"
-  },
-  {
-    "id": 184403,
-    "IDcode": "MDYD-704",
-    "title": "老公不在的时候被公公侵犯上瘾的巨乳人妻青山菜菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
     ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/84c56435/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-704"
-  },
-  {
-    "id": 220887,
-    "IDcode": "MDYD-706",
-    "title": "难以启齿的秘密-遥めぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/19/1ff3620fd68c8c4dc574159d942b16cb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-706"
-  },
-  {
-    "id": 213440,
-    "IDcode": "MDYD-707",
-    "title": "深夜在医院病房中被强奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/17/89deac6e68d24dae6ae20f92cf80520b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-707"
-  },
-  {
-    "id": 214878,
-    "IDcode": "MDYD-710",
-    "title": "被丈夫的同事轮奸-愛乃ゆな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/05/3cc0e3875458dac6082e97cffc0361db.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-710"
-  },
-  {
-    "id": 218261,
-    "IDcode": "MDYD-715",
-    "title": "人妻監禁調教-松本まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
+    "publish_date": "2019-06-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/73898f82ddf9a7e032c0c3e8c78a70aa.jpg",
+    "actress": [
+      "星奈爱",
+      "柏木まい"
     ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/14/5f4c569735ba3c91a8acf69582dfaf30.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-715"
-  },
-  {
-    "id": 214860,
-    "IDcode": "MDYD-724",
-    "title": "被一个老继父强奸-澤村レイコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/04/8b32f85e8b0f261a8be5ddaad947ced4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-724"
-  },
-  {
-    "id": 213937,
-    "IDcode": "MDYD-731",
-    "title": "穿着紧身衣被操-一ノ瀬ルカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/16/28936ccb8a550450b427f5d91afc1776.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-731"
-  },
-  {
-    "id": 214865,
-    "IDcode": "MDYD-734",
-    "title": "友人の母-上原千尋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/04/1569cccdebd28168275c3484f5916492.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-734"
-  },
-  {
-    "id": 213942,
-    "IDcode": "MDYD-741",
-    "title": "年轻妻子被老男人玷污-結城みさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/16/21ba7bc799333088f25180ee0228ef81.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-741"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-235"
   }
 ];

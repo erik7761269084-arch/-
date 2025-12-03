@@ -1,1764 +1,238 @@
 window.PAGE_DATA = [
   {
-    "id": 61813,
-    "IDcode": "OKB-176",
-    "title": "希和みこと ムチムチ美尻 神ブルマ 美少女やぽっちゃり娘らにピチピチブルマ＆体操着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写！さらに尻コキ、着衣お漏らし放尿やブルマぶっかけ等ブルマ好きに送る完全着衣フェチAV",
+    "id": 559584,
+    "IDcode": "DGCEMD-017",
+    "title": "限时送随著奖金视频地狱太不耐烦了太热闹太地狱了强壹岐忍耐是最强的提升灵敏度的黑秘术森泽假名-森泽佳奈饭冈佳奈子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/aaaa4c14d87f8b9b3163d55471b6fc73.jpg",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/09/16672_cover_2025-07-09_170059.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-176"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-017"
   },
   {
-    "id": 61141,
-    "IDcode": "OKB-177",
-    "title": "湊波流 ムチムチ美尻 神体育着 美少女やぽっちゃり娘らにピチピチ体育着を着せ",
+    "id": 411439,
+    "IDcode": "DGCEMD-018",
+    "title": "★配信限定！特典映像付★この女達「M女」！3人が奏でるレズビアンM女の断末魔！ドMだからわかる痛みのその先にある非日常の快楽！ 塩見彩 紗紗原百合 渡邊真央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c9b8af9a2e9b1d45c3545/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-018"
+  },
+  {
+    "id": 521019,
+    "IDcode": "DGCEMD-055",
+    "title": "瀬名ひかり- ★配信限定！特典映像付★男をいじめると感じる女子は実在する！瀬名ひかり ～男の苦痛を耐える",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://xing.sex8sex833.com/20250925/OwPE1p3J/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-055"
+  },
+  {
+    "id": 84300,
+    "IDcode": "DGCEMD-086",
+    "title": "★配信限定！特典映像付★身体も心も崩壊して僕の言いなりになった 高瀬りな ～淫乱な言いなりペットになった私を見てください。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
-      "偷窥",
-      "运动短裤",
-      "屁股",
-      "第一人称摄影",
-      "局部特写",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/c908c0988cc181d5174f407c85146daf.jpg",
-    "actress": [
-      "湊波流"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-177"
-  },
-  {
-    "id": 60666,
-    "IDcode": "OKB-178",
-    "title": "小坂ひまり ムチムチ美尻 神ブルマ 美少女やぽっちゃり娘らにピチピチブルマ＆体操着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "运动短裤",
-      "屁股",
-      "第一人称摄影",
-      "局部特写",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/fa3a4b3d/vod.jpg",
-    "actress": [
-      "小坂ひまり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-178"
-  },
-  {
-    "id": 178344,
-    "IDcode": "OKB-179",
-    "title": "訳あり3980 北村海智 ムチムチ美尻 神ブルマ 美少女やぽっちゃり娘らにピチピチブルマ＆体操着を着せ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/dee00e213839bb0e875860aa24d4375e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-179"
-  },
-  {
-    "id": 174840,
-    "IDcode": "OKB-180",
-    "title": "音琴るい ムチムチ美尻 神体育着 美少女やぽっちゃり娘らにピチピチ体育着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/f582016ad32a73c69f8bf4e11a2175ce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-180"
-  },
-  {
-    "id": 173492,
-    "IDcode": "OKB-181",
-    "title": "皐月ゆら ムチムチ美尻 神ブルマ 美少女やぽっちゃり娘らにピチピチブルマ＆体操着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/07/37c20ce63df3f970045b68d5d4741372.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-181"
-  },
-  {
-    "id": 93669,
-    "IDcode": "OKC-012",
-    "title": "神着衣ぶっかけ 8人8発射 245分 ブルマ編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "4K",
+      "拘束",
+      "成熟的女人",
       "素人作品",
+      "巨乳",
       "精选，综合",
-      "69",
-      "运动短裤",
-      "局部特写",
-      "4小时以上作品",
-      "美少女电影"
+      "放尿"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2024-07-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241015-1/0d8ac024b4124dd9721c5f75f772f169.jpg",
-    "actress": [
-      "加藤桃香",
-      "葵玲奈",
-      "亜矢みつき",
-      "麻里梨夏",
-      "河合乃乃花",
-      "凉南佳奈",
-      "神谷千佳"
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-012"
+    "publish_date": "2021-11-23",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230107-1/5a7b80b970b7f1f090dc24cc5c5df4b7.jpg",
+    "actress": [
+      "高瀬りな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-086"
   },
   {
-    "id": 175966,
-    "IDcode": "OKC-015",
-    "title": "神着衣ぶっかけ 8人8発射 250分 競泳水着・スク水編",
+    "id": 435757,
+    "IDcode": "DGCEMD-087",
+    "title": "感じすぎていっぱいおもらしごめんなさい…32 白桃花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/6d5c3c3d/vod.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9af4359ec923e2aebb377d75d6851af1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-087"
   },
   {
-    "id": 63746,
-    "IDcode": "OKC-022",
-    "title": "神着衣ぶっかけ 8人8発射 245分 ブルマ編（OKC-022）ちゃんよた 月乃ルナ 花狩まい",
+    "id": 84318,
+    "IDcode": "DGCEMD-088",
+    "title": "★配信限定！特典映像付★中出し！いいなりご奉仕メイド2 さつき芽衣 ～俺の命令は絶対！完全支配できる「さつき芽衣」の身体！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
-      "精选，综合",
-      "69",
-      "运动短裤",
-      "局部特写",
-      "4小时以上作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/a101556415180d850033934454c956bc.jpg",
-    "actress": [
-      "椿莉香",
-      "月乃露娜",
-      "日泉舞香",
-      "倉與田",
-      "吉良鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-022"
-  },
-  {
-    "id": 61123,
-    "IDcode": "OKC-024",
-    "title": "神着衣お風呂＆おもらし 8人8放尿 競泳水着・スク水編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "放尿",
-      "素人作品",
-      "精选，综合",
-      "学校泳装",
-      "局部特写",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/04e4ee099e7726f1ecaddefa2d86b3da.jpg",
-    "actress": [
-      "黑川堇",
-      "沙月芽衣",
-      "岬梓沙",
-      "有坂深雪",
-      "爱须みのん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-024"
-  },
-  {
-    "id": 186741,
-    "IDcode": "OKC-025",
-    "title": "神着衣お風呂＆おもらし 8人8放尿 競泳水着・スク水編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/13/50f00e48402d1821fef582e3b0de2d3b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-025"
-  },
-  {
-    "id": 177367,
-    "IDcode": "OKC-026",
-    "title": "神着衣ぶっかけ 8人8発射 250分 ブルマ編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/c548d93a/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-026"
-  },
-  {
-    "id": 180895,
-    "IDcode": "OKG-003",
-    "title": "森沢かな 神ジムウェア 美意識高いジム通いお嬢さんやSNSインフルエンサーのジムウェア姿！！我々と住む世界が違う高嶺女子の美尻や恥丘やジョリワキを接写で堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/21/b588713e/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKG-003"
-  },
-  {
-    "id": 187958,
-    "IDcode": "OKG-004",
-    "title": "羽月乃蒼 神ジムウェア 美意識高いジム通いお嬢さんやSNSインフルエンサーのジムウェア姿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/2b6d78b8e5761d0ddf850854c89ff9e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKG-004"
-  },
-  {
-    "id": 165537,
-    "IDcode": "OKK-002",
-    "title": "濡れてテカってピッタリ密着 神競泳水着 なつめ愛莉 美少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/ualhvpmeyyp.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-002"
-  },
-  {
-    "id": 165538,
-    "IDcode": "OKK-006",
-    "title": "濡れてテカってピッタリ密着 神競泳水着 黒川すみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/grwz5pq5bmv.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-006"
-  },
-  {
-    "id": 76593,
-    "IDcode": "OKK-009",
-    "title": "濡れてテカってピッタリ密着 神競泳水着 宮沢ちはる ロ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "素人作品",
-      "偷窥",
-      "学校泳装",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/ehycjf5orny.jpg",
-    "actress": [
-      "宫泽千春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-009"
-  },
-  {
-    "id": 93557,
-    "IDcode": "OKK-012",
-    "title": "濡れてテカってピッタリ密着 神競泳水着 百合川さら ロ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女电影",
-      "中文字幕",
-      "偷窥",
-      "学校泳装"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/ym0y0ekynks.jpg",
-    "actress": [
-      "百合川紗羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-012"
-  },
-  {
-    "id": 210129,
-    "IDcode": "OKK-017",
-    "title": "恋物癖-三好凪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/04/caa271f8e2cf5870f1bd8b4c7ba7bfac.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-017"
-  },
-  {
-    "id": 93646,
-    "IDcode": "OKK-072",
-    "title": "前田美波 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-06-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241015-1/8c2e04173920dddae9cf4202a7ec4d5c.jpg",
-    "actress": [
-      "前田美波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-072"
-  },
-  {
-    "id": 93666,
-    "IDcode": "OKK-073",
-    "title": "桂木春香 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-06-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241015-1/37b918bbfc4612dd68e6897cc0014ab9.jpg",
-    "actress": [
-      "桂木春香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-073"
-  },
-  {
-    "id": 77292,
-    "IDcode": "OKK-083",
-    "title": "稲森美優 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/08/c5b4e35e6d3a09e3bb1748e04e3f2243.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-083"
-  },
-  {
-    "id": 62764,
-    "IDcode": "OKK-093",
-    "title": "加藤ツバキ 訳あり3980 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/29bc9ca78c332b75ea632fe4f1d112b6.jpg",
-    "actress": [
-      "夏树カオル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-093"
-  },
-  {
-    "id": 62235,
-    "IDcode": "OKK-094",
-    "title": "犬飼果南 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/3a829c0b57e89b7d6233f791e3658014.jpg",
-    "actress": [
-      "犬飼果南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-094"
-  },
-  {
-    "id": 61692,
-    "IDcode": "OKK-095",
-    "title": "河北笑茉 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/6188beb8cb981689079b575ec2339691.jpg",
-    "actress": [
-      "河北笑茉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-095"
-  },
-  {
-    "id": 61140,
-    "IDcode": "OKK-096",
-    "title": "石川陽波 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/61735bc46b2367cb8858d1186540513e.jpg",
-    "actress": [
-      "石川陽波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-096"
-  },
-  {
-    "id": 61309,
-    "IDcode": "OKK-097",
-    "title": "由良かな 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/17/64c7af76d857e47604c44ae280802e39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-097"
-  },
-  {
-    "id": 60664,
-    "IDcode": "OKK-098",
-    "title": "友田彩也香 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/cd8436b5/vod.jpg",
-    "actress": [
-      "友田彩也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-098"
-  },
-  {
-    "id": 60270,
-    "IDcode": "OKK-099",
-    "title": "山口由愛 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/27/8aa67775891793330642bd3b5ebb9e1b.jpg",
-    "actress": [
-      "山口由愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-099"
-  },
-  {
-    "id": 178339,
-    "IDcode": "OKK-100",
-    "title": "葉月まゆ 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/4dd99764a19fc125b00ab3c2eb83301d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-100"
-  },
-  {
-    "id": 174821,
-    "IDcode": "OKK-101",
-    "title": "宮崎リン 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/236f0ad2/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-101"
-  },
-  {
-    "id": 173496,
-    "IDcode": "OKK-102",
-    "title": "永野鈴 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/07/9ecc2b7b066132c897a1d77549b8446b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-102"
-  },
-  {
-    "id": 70965,
-    "IDcode": "OKL-007",
-    "title": "松丸香澄 身体にフィットするウェアのキワキワを超接写＆完全着衣でハメ撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "运动短裤",
-      "屁股",
-      "第一人称摄影",
-      "局部特写",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/3f054c379ff8084415285b34a4ded907.jpg",
-    "actress": [
-      "松丸香澄"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKL-007"
-  },
-  {
-    "id": 62268,
-    "IDcode": "OKL-008",
-    "title": "卯水咲流 神陸上ウェア スポーツ日焼けから筋肉美女アスリートの秘部を隠し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "运动短裤",
-      "屁股",
-      "第一人称摄影",
-      "局部特写",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/0c2221f1580f6d189693b7314077d02f.jpg",
-    "actress": [
-      "卯水咲流"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKL-008"
-  },
-  {
-    "id": 181806,
-    "IDcode": "OKL-009",
-    "title": "高城なぎさ 神陸上ウェア スポーツ日焼けから筋肉美女アスリートの秘部を隠してきたウェアを巨乳や美乳パイパンや剛毛娘に着せジョリワキやハミ毛を堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/73dba503/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKL-009"
-  },
-  {
-    "id": 173398,
-    "IDcode": "OKL-010",
-    "title": "篠宮ねね 神陸上ウェア スポーツ日焼けから筋肉美女アスリートの秘部を隠してきたウェアを巨乳や美乳パイパンや剛毛娘に着せジョリワキやハミ毛を堪能。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/07/f1750546/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKL-010"
-  },
-  {
-    "id": 73702,
-    "IDcode": "OKP-040",
-    "title": "神パンスト 浜崎真緒 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！顔騎や足コキ、時には中出し時にはお尻にコスってぶっかけとやりたい放題！発情させられた女の変態調教絶頂プレイを楽しむフェチAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "足交",
+      "4K",
+      "女佣",
+      "乳房",
       "成熟的女人",
-      "调教",
       "素人作品",
-      "中出",
-      "连裤袜",
-      "屁股",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-07-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/304bbfb17fdb556a2b7b8c51a93cf8c6.jpg",
-    "actress": [
-      "浜崎真绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-040"
-  },
-  {
-    "id": 70517,
-    "IDcode": "OKP-041",
-    "title": "神パンスト 明海こう 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "成熟的女人",
-      "足交",
-      "调教",
-      "素人作品",
-      "中出",
-      "校服",
-      "连裤袜",
-      "屁股",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/xd5tmrbeidw.jpg",
-    "actress": [
-      "小泉真理"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-041"
-  },
-  {
-    "id": 73704,
-    "IDcode": "OKP-042",
-    "title": "神パンスト 麻里梨夏 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！顔騎や足コキ、時には中出し時にはお尻にコスってぶっかけとやりたい放題！発情させられた女の変態調教絶頂プレイを楽しむフェチAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "成熟的女人",
-      "屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-08-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/f111f598b94fb200892a9571708e7d97.jpg",
-    "actress": [
-      "麻里梨夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-042"
-  },
-  {
-    "id": 77149,
-    "IDcode": "OKP-044",
-    "title": "神パンスト 美甘りか 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "中文字幕",
-      "成熟的女人",
-      "屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/anrtvkbbbyn.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-044"
-  },
-  {
-    "id": 103100,
-    "IDcode": "OKP-045",
-    "title": "神パンスト 浜崎みくる 制服ロリ美少女の美脚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "成熟的女人",
-      "足交",
-      "调教",
-      "素人作品",
-      "中出",
-      "校服",
-      "连裤袜",
-      "屁股",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/43fymtwerqd.jpg",
-    "actress": [
-      "神代にな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-045"
-  },
-  {
-    "id": 97477,
-    "IDcode": "OKP-055",
-    "title": "神パンスト 二ノ宮せな 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！時には顔騎や足コキ、時には中出し、時にはお尻にコスってぶっかけとやりたい放題！発情させられた女の変態調教絶頂プレイを楽しむフェチAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "中文字幕",
-      "成熟的女人",
-      "屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/d23dxtlxao0.jpg",
-    "actress": [
-      "二ノ宫せな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-055"
-  },
-  {
-    "id": 165535,
-    "IDcode": "OKP-056",
-    "title": "神パンスト 若槻さくら 制服ロリ美少女の美脚を包んだ生ナマしい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/yrnmvobegze.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-056"
-  },
-  {
-    "id": 81887,
-    "IDcode": "OKP-057",
-    "title": "神パンスト 市川花音 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！時には顔騎や足コキ、時には中出し、時にはお尻にコスってぶっかけとやりたい放題！発情させられた女の変態調教絶頂プレイを楽しむフェチAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "成熟的女人",
-      "屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-04-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/3a8788644f2003c3e380bf604ef86774.jpg",
-    "actress": [
-      "市川花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-057"
-  },
-  {
-    "id": 61819,
-    "IDcode": "OKP-060",
-    "title": "神パンスト 佐藤りこ 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！時には顔騎や足コキ、時には中出し、時にはお尻にコスってぶっかけとやりたい放題！発情させられた女の変態調教絶頂プレイを楽しむフェチAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "连裤袜",
-      "屁股",
-      "单体作品",
-      "恋腿癖"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-05-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221003-1/b15f0427e55f5e46b60c5f3e78e380c7.jpg",
-    "actress": [
-      "夏川海"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-060"
-  },
-  {
-    "id": 81335,
-    "IDcode": "OKP-068",
-    "title": "神パンスト 西野たえ 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！時には顔騎や足コキ、時にはお尻にコスってぶっかけとやりたい放題！発情させられた女の変態調教絶頂プレイを楽しむフェチAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "屁股",
-      "恋腿癖"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-09-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220925-1/1644c7945b0ae97e8d169cdb2e25dd05.jpg",
-    "actress": [
-      "胡桃多惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-068"
-  },
-  {
-    "id": 77070,
-    "IDcode": "OKS-071",
-    "title": "濡れてテカってピッタリ密着 神",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女电影",
-      "中文字幕",
-      "偷窥",
-      "学校泳装"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/zzzs4v2d4u0.jpg",
-    "actress": [
-      "音海里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-071"
-  },
-  {
-    "id": 76534,
-    "IDcode": "OKS-077",
-    "title": "濡れてテカってピッタリ密着 神スク水 九条",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "素人作品",
-      "偷窥",
-      "学校泳装",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/txymvisfrmk.jpg",
-    "actress": [
-      "爱须みのん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-077"
-  },
-  {
-    "id": 83219,
-    "IDcode": "OKS-080",
-    "title": "濡れてテカってピッタリ密着 神スク水 月宮ねね 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけに生中出し等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "无毛",
-      "素人作品",
-      "中出",
-      "偷窥",
-      "平胸",
-      "学校泳装",
-      "巨乳",
-      "泳装",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/772ff63aac8c7dd7e1eaa4ff61a0a090.jpg",
-    "actress": [
-      "月宫ねね"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-080"
-  },
-  {
-    "id": 104227,
-    "IDcode": "OKS-083",
-    "title": "濡れてテカってピッタリ密着 神スク水 南詩乃 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけに生中出し等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/bwl3dckuph2.jpg",
-    "actress": [
-      "南诗乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-083"
-  },
-  {
-    "id": 177722,
-    "IDcode": "OKS-093",
-    "title": "贴身湿透死库水可爱女孩永濑唯神竞赛泳装完全着衣性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/06/abaae5eb/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-093"
-  },
-  {
-    "id": 93548,
-    "IDcode": "OKS-115",
-    "title": "綾瀬ひまり 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "学校泳装",
-      "高中女生",
-      "巨乳",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2021-07-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241007-1/f6291ff5d9a49e27bbc8e1e4271e6675.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-115"
-  },
-  {
-    "id": 87042,
-    "IDcode": "OKS-149",
-    "title": "中丸未来 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-06-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230709-1/60622ae545d107baad1443a7723c1109.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-149"
-  },
-  {
-    "id": 93642,
-    "IDcode": "OKS-162",
-    "title": "市川りく 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-06-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241015-1/b76d0ba809748dae5e9e0a5b86295a40.jpg",
-    "actress": [
-      "市川りく"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-162"
-  },
-  {
-    "id": 93618,
-    "IDcode": "OKS-164",
-    "title": "千石もなか 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-08-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241015-1/1876aa9e8f50acb95beac758019c2974.jpg",
-    "actress": [
-      "千石もなか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-164"
-  },
-  {
-    "id": 186060,
-    "IDcode": "OKS-168",
-    "title": "望月つぼみ 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/e788a945/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-168"
-  },
-  {
-    "id": 66108,
-    "IDcode": "OKS-175",
-    "title": "和久井美兎 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250620-1/50b7720c2ee4566222ae4a51d295d76f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-175"
-  },
-  {
-    "id": 62771,
-    "IDcode": "OKS-177",
-    "title": "広瀬このみ 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "巨乳",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/25af6c5dbc7e995779bed7e5cda27d80.jpg",
-    "actress": [
-      "廣瀬好美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-177"
-  },
-  {
-    "id": 61139,
-    "IDcode": "OKS-179",
-    "title": "雨夏そよ 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/d4ac38a90fab7d5f33a6b2d3d919c188.jpg",
-    "actress": [
-      "雨夏そよ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-179"
-  },
-  {
-    "id": 60663,
-    "IDcode": "OKS-180",
-    "title": "雨宮あや花 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "偷窥",
-      "学校泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/07/3f46adb6c9f61854f17f69c759adc669.jpg",
-    "actress": [
-      "雨宮あや花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-180"
-  },
-  {
-    "id": 180102,
-    "IDcode": "OKS-181",
-    "title": "安堂はるの 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/4e95b804/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-181"
-  },
-  {
-    "id": 178333,
-    "IDcode": "OKS-182",
-    "title": "雅子りな 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/8fe3549ecfbec67997309cb892347020.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-182"
-  },
-  {
-    "id": 173407,
-    "IDcode": "OKS-183",
-    "title": "及川莉央 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/07/d86a0011/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-183"
-  },
-  {
-    "id": 225628,
-    "IDcode": "OKSN-085",
-    "title": "媽媽的大乳房是我的-青空小夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/e6b48091940b3242af1895ed555aef17.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-085"
-  },
-  {
-    "id": 226244,
-    "IDcode": "OKSN-118",
-    "title": "母性光辉泛滥的美女老妈-波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/7f511c6af8d2eef8d7dc49c261480f92.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-118"
-  },
-  {
-    "id": 218287,
-    "IDcode": "OKSN-146",
-    "title": "儿子的鸡巴太大了-稲川なつめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/16/bf971fec0600194fde1ffc110927b1dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-146"
-  },
-  {
-    "id": 218182,
-    "IDcode": "OKSN-157",
-    "title": "我想做你的婆婆-稲川なつめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/09/731d60249b115b94d5fdeb3051e720e0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-157"
-  },
-  {
-    "id": 223923,
-    "IDcode": "OKSN-161",
-    "title": "第一个性交伙伴是我的儿子-立花紫保",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/07/17843372f283a30c0229eccdfed7a197.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-161"
-  },
-  {
-    "id": 218764,
-    "IDcode": "OKSN-169",
-    "title": "你的母亲-大橋ひとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/11/9751670d0d61d1d301297c356a77d919.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-169"
-  },
-  {
-    "id": 223940,
-    "IDcode": "OKSN-175",
-    "title": "允许她的身体给她的儿子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/07/9ca6d2ce977386291aff97bad04b2519.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-175"
-  },
-  {
-    "id": 224019,
-    "IDcode": "OKSN-186",
-    "title": "勃起的乳头-松下美雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/11/24ce5128e612373439d196c9472410a3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-186"
-  },
-  {
-    "id": 208796,
-    "IDcode": "OKSN-196",
-    "title": "本格家庭内相姦物語-橘優花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/12/QQ20190812160059763a9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-196"
-  },
-  {
-    "id": 166676,
-    "IDcode": "OKSN-201",
-    "title": "母を犯すと決めた日 水野朝陽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230306/oksn00201pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-201"
-  },
-  {
-    "id": 210131,
-    "IDcode": "OKSN-203",
-    "title": "兄弟母子相姦 水原さな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/04/9416492d13c4926bb5c0f4640aa19d5d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-203"
-  },
-  {
-    "id": 225223,
-    "IDcode": "OKSN-212",
-    "title": "总是在意魅惑的谷间-橘优花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/53696b22f2820aa3855fab9fc77c3cf8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-212"
-  },
-  {
-    "id": 77845,
-    "IDcode": "OKSN-230",
-    "title": "看到继子大肉棒的寂寞人妻-林ゆな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "人妻",
-      "数位马赛克",
-      "无码破解",
-      "母亲",
-      "乱伦",
-      "单体作品",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/06/2a08a7944895f652fa3bfae44b6b62ee.jpg",
-    "actress": [
-      "林由奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-230"
-  },
-  {
-    "id": 220392,
-    "IDcode": "OKSN-233",
-    "title": "美女叔母-桜井あゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/26/7c6727384f5447ebb80eef56e1133311.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-233"
-  },
-  {
-    "id": 208698,
-    "IDcode": "OKSN-264",
-    "title": "本格家庭内相姦物語-川上ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/04/QQ20190804183912be31c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-264"
-  },
-  {
-    "id": 210084,
-    "IDcode": "OKSN-266",
-    "title": "本格家庭内相姦物語-艶堂しほり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/30/ccf719e5a37e54d2ac2033bddb933edd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-266"
-  },
-  {
-    "id": 218653,
-    "IDcode": "OKSN-272",
-    "title": "梦中情人就是我的岳母-通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/06/50e39fef96e50fde2533e32f959d4370.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-272"
-  },
-  {
-    "id": 225616,
-    "IDcode": "OKSN-289",
-    "title": "无防备妈妈的无胸罩乳沟诱惑-天野美優",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/93e3c531bd849859ff522212b565da5f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-289"
-  },
-  {
-    "id": 218791,
-    "IDcode": "OKSN-299",
-    "title": "允许自己的身体被利用",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/12/ee85ed9a4497ca30e646c8830511ea27.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-299"
-  },
-  {
-    "id": 77264,
-    "IDcode": "OKSN-302",
-    "title": "巨乳義母を脅迫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "新娘，年轻妻子",
-      "婆婆",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/08/179f5a54fe06ba7ce17dd903bfce96ba.jpg",
-    "actress": [
-      "美園和花",
-      "心実るな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-302"
-  },
-  {
-    "id": 220757,
-    "IDcode": "OKSN-324",
-    "title": "胸少妇的秘密欲望-初愛ねんね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/09/a501789d441bc7d5b82b7b18cbe04a84.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-324"
-  },
-  {
-    "id": 88157,
-    "IDcode": "OKSN-326",
-    "title": "新発掘！爆乳若妻 月にたった1回セフレと会うことが唯一の性欲発散 今日は丸1日乱れたい…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "新娘，年轻妻子",
-      "乳交",
-      "巨乳",
-      "巨大屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2021-03-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/308205869ce7cb554746e7265e575540.jpg",
-    "actress": [
-      "露梨あやせ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-326"
-  },
-  {
-    "id": 213004,
-    "IDcode": "OKSN-339",
-    "title": "二十歳の可愛若妻-白桃はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/24/43c30a2e2c9bf1b177be813eb5c0106f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-339"
-  },
-  {
-    "id": 85855,
-    "IDcode": "OKSN-342",
-    "title": "妈妈的大奶子-橘めぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "超乳",
-      "恋乳癖",
-      "母亲",
-      "乱伦",
       "手淫",
-      "巨乳",
-      "单体作品"
+      "精选，综合",
+      "主观视角"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/09/3ee325f19df1d258982fc94f8b84ea54.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-342"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/f0897d77b36eba789eb6bf3e271155a0.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-088"
   },
   {
-    "id": 186682,
-    "IDcode": "OKW-008",
-    "title": "ハメ撮りに普通の会話動画を並べたらとてもエロくなった件",
+    "id": 539149,
+    "IDcode": "DGCEMD-089",
+    "title": "新村あかり- ★配信限定！特典映像付★酒酔いアナルSEX！ 新村あかり ～お酒を呑み淫らになった身体はア",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/13/74ffc246/vod.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250610/MqipCmpQ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKW-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-089"
   },
   {
-    "id": 190116,
-    "IDcode": "OKY-015",
-    "title": "乙羽あむ これぞ王道 神ビキニ 昭和アイドルやキャンギャル、令和グラドルまで多くの女子の秘部を隠してきたビキニを巨乳や美乳、パイパンから剛毛、無防備ワキやハミ毛を超接写で舐め回す 絶対脱がさない完全着衣だからこそのポロリやハミ出しAV",
+    "id": 84296,
+    "IDcode": "DGCEMD-090",
+    "title": "★配信限定！特典映像付★ゴミ屋敷に住む巨乳美人 瀬名ひかり ～ゴミ屋敷で行う激しいSEXで女は淫乱Hカップを揺らし、何度もイキ狂う！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "戏剧",
+      "无毛",
+      "中出",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2021-11-23",
+    "cover_url": "https://xing.sex8sex833.com/20250925/JTKBpKi4/1.jpg",
+    "actress": [
+      "瀨名光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-090"
+  },
+  {
+    "id": 84314,
+    "IDcode": "DGCEMD-097",
+    "title": "★配信限定！特典映像付★誘惑Tバック家政婦！ 北野未奈 ～Hカップ爆乳とTバック尻で精子を搾り取る淫乱家政婦！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
+      "巨大屁股",
+      "中出",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2021-12-14",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-097"
+  },
+  {
+    "id": 539150,
+    "IDcode": "DGCEMD-105",
+    "title": "新村あかり- ★配信限定！特典映像付★七瀬いおりレズ解禁！×春菜はな×新村あかり～巨乳美女3人が激しく络",
     "year": "",
     "country": "",
     "genre": "",
@@ -1766,343 +240,1899 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/c36eeb13c16e4f30b45c664717e76f21.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250610/FXSpxkgC/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKY-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-105"
   },
   {
-    "id": 61308,
-    "IDcode": "OKY-017",
-    "title": "双葉れぇな これぞ王道 神ビキニ 昭和アイドルやキャンギャル、令和グラドルまで多くの女子の秘部を隠してきたビキニを巨乳や美乳",
+    "id": 84316,
+    "IDcode": "DGCEMD-119",
+    "title": "★配信限定！特典映像付★母子アナルレズビアン 望月あやか 岩沢香代 ～1人の女として義母のアナルを責める淫らな変態娘！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
-      "偷窥",
+      "4K",
+      "乱伦",
+      "肛交",
+      "成熟的女人",
+      "素人作品",
       "巨乳",
-      "泳装",
-      "局部特写",
-      "单体作品",
-      "美少女电影"
+      "女同性恋",
+      "精选，综合"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/e40f485d/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "雙葉麗奈"
+      "望月綾香",
+      "岩沢香代"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKY-017"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-119"
   },
   {
-    "id": 83783,
-    "IDcode": "OKYH-054",
-    "title": "あずき（24）推定Fカップ 尾瀬高原温泉で見つけた山ガール タオル一枚 男湯入ってみませんか？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "素人作品",
-      "偷窥",
-      "浴衣",
-      "羞耻",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/587ffc969433e0ead6c32589e0e90d1d.jpg",
-    "actress": [
-      "岬梓沙"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKYH-054"
-  },
-  {
-    "id": 74395,
-    "IDcode": "OKYH-055",
-    "title": "ゆの（22）推定Eカップ 尾瀬高原温泉で見つけた山ガール タオル一枚 男湯入ってみませんか？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "素人作品",
-      "偷窥",
-      "浴衣",
-      "羞耻",
-      "户外"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241224-1/70070bd6000ebe10cbc7e4b4f95df1c5.jpg",
-    "actress": [
-      "后藤由乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKYH-055"
-  },
-  {
-    "id": 83779,
-    "IDcode": "OKYH-056",
-    "title": "ひなみ（24）推定Iカップ 尾瀬高原温泉で見つけた山ガール タオル一枚 男湯入ってみませんか？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "素人作品",
-      "偷窥",
-      "浴衣",
-      "巨乳",
-      "羞耻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/0c379d53db9e52a1081fec299129c242.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKYH-056"
-  },
-  {
-    "id": 174931,
-    "IDcode": "OKYH-069",
-    "title": "只带一条毛巾进入男澡堂",
+    "id": 470671,
+    "IDcode": "DGCEMD-132",
+    "title": "配信限定！特典映像付★僕の思い通りvol.8 伊東愛瑠",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/dbbe3c0707a05b913dca20aa12857df7.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/25/67bd57b24e7d663df4a85b7a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKYH-069"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-132"
   },
   {
-    "id": 81379,
-    "IDcode": "OKZ-002",
-    "title": "えり 2",
+    "id": 411489,
+    "IDcode": "DGCEMD-133",
+    "title": "配信限定特典映像付年の差希咲アリスwith翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc639f9a2e9b1d45c6b7f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-133"
+  },
+  {
+    "id": 84317,
+    "IDcode": "DGCEMD-134",
+    "title": "★配信限定！特典映像付★時間を止める力を持ったド淫乱痴女！波多野結衣 ～その力を利用して男達を何回も射精させた！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "运动短裤",
-      "高中女生",
-      "中出"
+      "荡妇",
+      "4K",
+      "戏剧",
+      "巨大屁股",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "精选，综合",
+      "单体作品"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2015-10-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221003-1/4b4b1ad819d8a26723c3b25e6d499b83.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKZ-002"
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-02-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-134"
   },
   {
-    "id": 81334,
-    "IDcode": "OKZ-010",
-    "title": "神熟女 ご無沙汰五十路 今日子 四十七歳 夫や子供に内緒のHなアルバイト 最後のSEXは数年前。欲求不満爆発寸前の人妻熟女の身体は媚薬も敵わぬ超絶敏感仕上がり！！もはやセカンド処女のおま○こに生ハメ中出しで歓喜のエクスタシー！！ 松尾江里子",
+    "id": 435914,
+    "IDcode": "DGCEMD-144",
+    "title": "★配信限定！特典映像付★全身オイルまみれSEXのヌルヌル快楽でメス堕ち4 沙月芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/8b0f96e931bd9f74f1a913693220ce8b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-144"
+  },
+  {
+    "id": 84298,
+    "IDcode": "DGCEMD-145",
+    "title": "★配信限定！特典映像付★ゴミ屋敷に住む巨乳美人2 波多野結衣 ～ゴミに囲まれマ○コ濡らす巨乳変態女の痴態！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "4K",
+      "戏剧",
+      "巨大屁股",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "口交",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-03-22",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230107-1/6ff1ef67a26a99d1070c1388209e94d6.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-145"
+  },
+  {
+    "id": 84303,
+    "IDcode": "DGCEMD-167",
+    "title": "★配信限定！特典映像付★隣に引っ越してきた若妻痴女のドエロいパンチラ誘惑 紫月ゆかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "荡妇",
+      "4K",
+      "巨大屁股",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "精选，综合",
+      "主观视角"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-05-10",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-167"
+  },
+  {
+    "id": 539151,
+    "IDcode": "DGCEMD-178",
+    "title": "新村あかり- ★配信限定！特典映像付★巨乳·淫乱·性獣たちの最狂レズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250610/8VGsOH67/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-178"
+  },
+  {
+    "id": 87407,
+    "IDcode": "DGCEMD-204",
+    "title": "★配信限定！特典映像付★初レズ解禁！皇ゆずwith波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "潮吹",
+      "4K",
+      "女同接吻",
+      "成熟的女人",
+      "素人作品",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-07-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/7033e058f40a4a3d00841e58977e18be.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-204"
+  },
+  {
+    "id": 87412,
+    "IDcode": "DGCEMD-205",
+    "title": "★配信限定！特典映像付★おじさんの顔を唾液まみれで舐めまわして興奮する女 星川まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
+      "巨大屁股",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "淫语",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-07-26",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/66ef107603e2646410a05947c2f986d8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-205"
+  },
+  {
+    "id": 87423,
+    "IDcode": "DGCEMD-206",
+    "title": "★配信限定！特典映像付★僕を誘惑する隣のボディコン金髪ギャル奥様 新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
       "已婚妇女",
       "成熟的女人",
-      "人妻",
-      "中出",
-      "恋腿癖"
+      "素人作品",
+      "巨乳",
+      "淫语",
+      "精选，综合",
+      "单体作品"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2020-09-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220925-1/a2ecda84c872353394bf8d75acb472fe.jpg",
-    "actress": [
-      "松尾江里子"
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKZ-010"
+    "publish_date": "2022-07-26",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/4245defca2c9721682ce3aa50c4c95d0.jpg",
+    "actress": [
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-206"
   },
   {
-    "id": 218760,
-    "IDcode": "OKZ-013",
-    "title": "神熟女-平岡里枝子",
+    "id": 87411,
+    "IDcode": "DGCEMD-207",
+    "title": "★配信限定！特典映像付★「私、聞いてません！」全シーン即ハメ倒す！2 さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "4K",
+      "多P",
+      "乳房",
+      "成熟的女人",
+      "素人作品",
+      "女上位",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-07-26",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/3096544d72c7c9d2fe511114f416edea.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-207"
+  },
+  {
+    "id": 87436,
+    "IDcode": "DGCEMD-209",
+    "title": "★配信限定！特典映像付★1本限りのアナルSEX復活！2 推川ゆうり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "巨大屁股",
+      "肛交",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-07-26",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/7c68db777aae22475d7402a88baa169b.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-209"
+  },
+  {
+    "id": 84299,
+    "IDcode": "DGCEMD-219",
+    "title": "★配信限定！特典映像付★キャンピングカーでエッチしようよ！7 新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "汽车性爱",
+      "4K",
+      "巨大屁股",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-08-23",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230107-1/a57d3063f44d27d9105010bbf3266149.jpg",
+    "actress": [
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-219"
+  },
+  {
+    "id": 84301,
+    "IDcode": "DGCEMD-220",
+    "title": "★配信限定！特典映像付★隣に引っ越してきた若妻痴女のドエロいパンチラ誘惑2 上坂めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "荡妇",
+      "4K",
+      "已婚妇女",
+      "内衣",
+      "成熟的女人",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-08-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-220"
+  },
+  {
+    "id": 84312,
+    "IDcode": "DGCEMD-224",
+    "title": "★配信限定！特典映像付★時間を止める力を持ったド淫乱痴女！3 枢木あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
+      "戏剧",
+      "乳房",
+      "中出",
+      "成熟的女人",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-08-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-224"
+  },
+  {
+    "id": 87425,
+    "IDcode": "DGCEMD-235",
+    "title": "★配信限定！特典映像付★感じすぎていっぱいおもらしごめんなさい…38 唯奈みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "潮吹",
+      "4K",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "精选，综合",
+      "单体作品",
+      "放尿"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-09-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/3d2ed1143c36d48587ab1f43c7e0ca9b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-235"
+  },
+  {
+    "id": 87434,
+    "IDcode": "DGCEMD-236",
+    "title": "★配信限定！特典映像付★初レズ解禁！本田瞳with波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "4K",
+      "女同接吻",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-09-24",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/57441401dd79987015e36b9eeb00edb3.jpg",
+    "actress": [
+      "波多野结衣",
+      "本田瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-236"
+  },
+  {
+    "id": 87437,
+    "IDcode": "DGCEMD-237",
+    "title": "★配信限定！特典映像付★絶叫！闷絶！ポルチオ开発！子宫の奥にある奥の奥でイク女7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "巨大阴茎",
+      "4K",
+      "乳液",
+      "成熟的女人",
+      "素人作品",
+      "精选，综合",
+      "单体作品",
+      "子宫颈"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/35969c5afba1a00d47c58c4f567a7fa0.jpg",
+    "actress": [
+      "皆瀨明里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-237"
+  },
+  {
+    "id": 87409,
+    "IDcode": "DGCEMD-240",
+    "title": "★配信限定！特典映像付★隣に引っ越してきた若妻痴女のドエロいパンチラ誘惑3 美波もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "内衣",
+      "乱伦",
+      "超乳",
+      "成熟的女人",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-09-24",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/8e98fca5078319b31536a26588785f6b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-240"
+  },
+  {
+    "id": 535686,
+    "IDcode": "DGCEMD-247",
+    "title": "[] 初レズ解禁！北乃ゆな～お姊さんにいじめられたい with 新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230622/cemd247pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-247"
+  },
+  {
+    "id": 539153,
+    "IDcode": "DGCEMD-248",
+    "title": "新村あかり- ★配信限定！特典映像付★时间を止める力を持ったド淫乱痴女！4",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/11/cea8f2dbdda05dfba4f9af52041750dc.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250611/UIfa0ZME/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKZ-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-248"
   },
   {
-    "id": 4174,
-    "IDcode": "OKZU-003",
-    "title": "スラリと伸びる美脚にチ○ポ擦り付けてザーメンで汚したい！！太もも、ひざ裏、そして足指の間に挟まれる肉棒！美脚を駆使してチ○ポをイジメるお姉さま達！！",
+    "id": 592768,
+    "IDcode": "DGCEMD-262",
+    "title": "★配信限定特典映像付★絶叫闷絶ポルチオ开発子宫の奥にある奥の奥でイク女8 白花こう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://pic41.anzise.com/pic/20221214/7b406bec694a21767d35be54497c2a76/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-262"
+  },
+  {
+    "id": 535690,
+    "IDcode": "DGCEMD-264",
+    "title": "[] 大人の极上美女レズビアン2 波多野结衣×枢木あお",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "手指插入",
-      "肉絲",
-      "人妻",
-      "女上位",
-      "美人",
-      "精選綜合",
-      "極品美人",
-      "美腿",
-      "黑絲",
-      "舔腳",
-      "御姐系",
-      "足交",
-      "癡女",
-      "拜金女",
-      "形象俱樂部",
-      "中出",
-      "高妹",
-      "清純",
-      "小隻馬",
-      "大姐姐",
-      "巨尻",
-      "4小時以上作品",
-      "美少女",
-      "蠻橫嬌羞",
-      "苗條",
-      "脚控・戀足癖",
-      "網襪",
-      "絕頂高潮",
-      "性感",
-      "無毛",
-      "美腳",
-      "高顏值",
-      "巨乳",
-      "企畫",
-      "後入",
-      "舔陰",
-      "女優",
-      "口交",
-      "局部特寫",
-      "美少女電影",
-      "精選總編集",
-      "白絲",
-      "騎乗位",
-      "港區女子"
+      "高清画质"
     ],
     "type": "有码",
-    "company": "K.M.P",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/353908eebcae54b5455d9f1f13eda775.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230630/cemd264pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKZU-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-264"
   },
   {
-    "id": 4178,
-    "IDcode": "OKZU-004",
-    "title": "乳首弄りと亀頭責めで限界勃起！柔らかくてイヤらしくて気持ちイイものに支配され続ける3Pやられハーレム！！",
+    "id": 411536,
+    "IDcode": "DGCEMD-276",
+    "title": "★配信限定！特典映像付★巨乳・淫乱・性獣たちの最狂レズビアン2 望月彩花 新村晶 唯奈美月",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "美人",
-      "後宮系",
-      "劇情",
-      "按摩・美容店",
-      "美腿",
-      "淫亂",
-      "舔腳",
-      "雙飛",
-      "足交",
-      "按摩女郎",
-      "拜金女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "兩女一男",
-      "大姐姐",
-      "巨尻",
-      "獵豔",
-      "3P・4P",
-      "脚控・戀足癖",
-      "姐姐・妹妹",
-      "抹油",
-      "性感",
-      "高顏值",
-      "美腳",
-      "巨乳",
-      "後入",
-      "綠茶婊",
-      "風俗娘",
-      "口爆",
-      "舔陰",
-      "口交",
-      "按摩・物理治療・美容",
-      "騎乗位"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "K.M.P",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/62bfcec6f4ec89c581bfd8dc9413f2aa.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ccfef2a47ebb1a8683eb0/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKZU-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-276"
   },
   {
-    "id": 3228,
-    "IDcode": "OKZU-007",
-    "title": "お客様、内緒にできますか？ヌキ禁止なのに発射させてくれるメンズエステ！ 濃厚な施術の訳は限界まで硬くした僕のオチ○ポを存分に楽しむためだった",
+    "id": 411537,
+    "IDcode": "DGCEMD-292",
+    "title": "★配信限定！特典映像付★初レズ解禁！神坂朋子with 新村晶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ccfec2a47ebb1a8683eaf/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-292"
+  },
+  {
+    "id": 535697,
+    "IDcode": "DGCEMD-301",
+    "title": "[] 波多野心疗内科 洗脳レズビアン疗法で贵女のお悩み解决します。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "美人",
-      "劇情",
-      "按摩・美容店",
-      "美腿",
-      "素人",
-      "清楚系",
-      "按摩女郎",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "大姐姐",
-      "短髮",
-      "苗條",
-      "絕頂高潮",
-      "故事集",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230717/cemd301pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-301"
+  },
+  {
+    "id": 533180,
+    "IDcode": "DGCEMD-319",
+    "title": "[] もしも！男性限定のマンツーマン料理教室の先生が美人で巨乳でド淫乱だったら？ 穂花あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240522/cemd319pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-319"
+  },
+  {
+    "id": 535700,
+    "IDcode": "DGCEMD-322",
+    "title": "[] SEXモンスター“望月あやか”が新人女优“花芽ありす”に手取り足取り教え込む！终わり无きレズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230730/cemd322pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-322"
+  },
+  {
+    "id": 535705,
+    "IDcode": "DGCEMD-323",
+    "title": "[] 见つめあう幸せのレズビアン～SEXドキュメント 枢木あおい×末広纯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230813/cemd323pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-323"
+  },
+  {
+    "id": 572346,
+    "IDcode": "DGCEMD-331",
+    "title": "花柳杏奈★配信限定特典映像付★自律神経ぶっ飞んだ汗だく絶顶激イキSEX2 花柳杏奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://pic57.anzise.com/pic/20230611/612092db9ae0e2fa4a8b8df0465be7e0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-331"
+  },
+  {
+    "id": 535713,
+    "IDcode": "DGCEMD-345",
+    "title": "[] 望月あやかがレズ开発＆调教！アヘ颜ヨリ目で快楽レズビアン沼に落ちた一条みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230823/cemd345pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-345"
+  },
+  {
+    "id": 535725,
+    "IDcode": "DGCEMD-351",
+    "title": "[] アナルで発情！～本能で感じる！美女があえぎ狂う快感レズビアン～ 小松杏×新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230826/cemd351pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-351"
+  },
+  {
+    "id": 548825,
+    "IDcode": "DGCEMD-360",
+    "title": "★配信限定！特典映像付★キャンピングカーでエッチしようよ！10",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230711/LIBDOTNu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-360"
+  },
+  {
+    "id": 535729,
+    "IDcode": "DGCEMD-376",
+    "title": "[] 望月あやかに“ごめんなさい”と言わせるまで责め続け、イカせ続けるノンストップレズ さつき芽衣×望月あやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-376"
+  },
+  {
+    "id": 539152,
+    "IDcode": "DGCEMD-446",
+    "title": "新村あかり- ★配信限定！特典映像付★引き篭りのボクを毎日SEXで诱惑して立ち直らせてくれた义母2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250611/2101RYKf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-446"
+  },
+  {
+    "id": 562657,
+    "IDcode": "DGCEMD-448",
+    "title": "★配信限定！特典映像付★“弥生みづき”がニューハーフ“ヌルマユ”に女の子の良さを教えてあげる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231212/AUU1nPme/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-448"
+  },
+  {
+    "id": 539103,
+    "IDcode": "DGCEMD-524",
+    "title": "新村あかり- ★配信限定！特典映像付★男をいじめると感じる女子は実在する9",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250524/NLkibkQa/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-524"
+  },
+  {
+    "id": 538195,
+    "IDcode": "DGCEMD-540",
+    "title": "白石桃- ★配信限定！特典映像付★ごく普通のOLを突然さらってSEX奴隶にする！5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240722/CZrOrNIU/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-540"
+  },
+  {
+    "id": 526433,
+    "IDcode": "DGCESD-668",
+    "title": "★配信限定！特典映像付★ひびはた対决 リベンジ3 大槻ひびき 波多野结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-668"
+  },
+  {
+    "id": 522986,
+    "IDcode": "DGCESD-668-CD1",
+    "title": "波多野结衣- ★配信限定！特典映像付★ひびはた対决 リベンジ3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250411/1F0VbWW5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-668-CD1"
+  },
+  {
+    "id": 522987,
+    "IDcode": "DGCESD-668-CD2",
+    "title": "波多野结衣- ★配信限定！特典映像付★ひびはた対决 リベンジ3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250411/jXw1uU7b/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-668-CD2"
+  },
+  {
+    "id": 522991,
+    "IDcode": "DGCESD-676",
+    "title": "波多野结衣- ★配信限定！特典映像付★波多野结衣のオトコノ娘童贞狩りドキュメント2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250412/KjlRXfMj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-676"
+  },
+  {
+    "id": 522989,
+    "IDcode": "DGCESD-700",
+    "title": "波多野结衣- ★配信限定！特典映像付★レズ解禁作品 専属女优·柚月ひまわり×レズ先生·波多野结衣 はじめての同性爱セックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250412/RBVNNOCe/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-700"
+  },
+  {
+    "id": 522990,
+    "IDcode": "DGCESD-704",
+    "title": "波多野结衣- ★配信限定！特典映像付★波多野结衣のオトコノ娘童贞狩りドキュメント3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250412/i1jt75GT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-704"
+  },
+  {
+    "id": 522993,
+    "IDcode": "DGCESD-714",
+    "title": "波多野结衣- ★配信限定！特典映像付★八乃つばさが憧れの先辈·波多野结衣とガチレズSEX！相性抜群の2人が络み合ったら…乳首もクリ○リスもビンビンになるまで舐め合い気持ち良すぎてオマ○コが濡れっぱなしでお互い幸せ絶顶した！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250412/rIwXsGa6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-714"
+  },
+  {
+    "id": 522992,
+    "IDcode": "DGCESD-719",
+    "title": "波多野结衣- ★配信限定！特典映像付★推川ゆうりのデカ尻アナルをひびはたが责める3Pレズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250412/QjzdfQI7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-719"
+  },
+  {
+    "id": 541018,
+    "IDcode": "DGCESD-720",
+    "title": "D★配信限定！特典映像付★夫が出张に出たその日から豹変した义息子第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-720"
+  },
+  {
+    "id": 99353,
+    "IDcode": "DGCESD-739",
+    "title": "★配信限定！特典映像付★百岡いつかのレズ処女を川上ゆうが奪う同性愛（レズビアン）SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "女同接吻",
+      "成熟的女人",
       "素人作品",
-      "抹油",
-      "無毛",
-      "美腳",
-      "高顏值",
-      "羞恥",
-      "後入",
-      "舔陰",
-      "口交",
-      "按摩・物理治療・美容",
-      "美少女電影",
-      "寢取",
-      "騎乗位"
+      "女同性恋",
+      "淫语",
+      "精选，综合"
     ],
     "type": "有码",
-    "company": "K.M.P",
+    "companys": [],
+    "publish_date": "2019-03-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上優",
+      "百冈いつか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-739"
+  },
+  {
+    "id": 522988,
+    "IDcode": "DGCESD-749",
+    "title": "波多野结衣- ★配信限定！特典映像付★波多野结衣のオトコノ娘童贞狩りドキュメント4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/c79d3070/vod.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250412/cM9cYbFn/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKZU-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-749"
+  },
+  {
+    "id": 535889,
+    "IDcode": "DGCESD-762",
+    "title": "_A★配信限定！特典映像付★爆乳デカ尻年の差同性爱（レズビアン）春菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-762"
+  },
+  {
+    "id": 99363,
+    "IDcode": "DGCESD-764",
+    "title": "★配信限定！特典映像付★森沢かなの絶品美尻アナルをひびはたが責める3Pレズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "多P",
+      "肛交",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-05-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "波多野结衣",
+      "森澤佳奈",
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-764"
+  },
+  {
+    "id": 522994,
+    "IDcode": "DGCESD-778",
+    "title": "波多野结衣- ★配信限定！特典映像付★羽生ありさのデカ尻アナルをひびはたが责める3Pレズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250412/JVdRobzm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-778"
+  },
+  {
+    "id": 541017,
+    "IDcode": "DGCESD-804",
+    "title": "D★配信限定！特典映像付★夫が出张に出たその日から豹変した义息子第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-804"
+  },
+  {
+    "id": 524409,
+    "IDcode": "DGCESD-814",
+    "title": "黒人解禁！B.B",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/20241027/VsHoc8nG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-814"
+  },
+  {
+    "id": 469170,
+    "IDcode": "DGCESD-815",
+    "title": "付私の彼氏カレは疑似恋愛人形メンズラブドール2 波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782ab2ef9a2e9b1d486bfb5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-815"
+  },
+  {
+    "id": 522995,
+    "IDcode": "DGCESD-819",
+    "title": "波多野结衣- ★配信限定！特典映像付★加藤あやののデカ尻アナルをひびはたが责める3Pレズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250412/gD1XFh8L/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-819"
+  },
+  {
+    "id": 465314,
+    "IDcode": "DGCESD-821",
+    "title": "★配信限定！特典映像付★出世できないダメ男×No.1風俗嬢 愛し合うウエディング生中出しSEX2 森沢佳奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873c7a5d57b64bfdd98f6d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-821"
+  },
+  {
+    "id": 99238,
+    "IDcode": "DGCESD-830",
+    "title": "★配信限定！特典映像付★SNSのリプライから始まる同性愛（レズビアン）SEX 野々原なずな 渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同接吻",
+      "纪录片",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-10-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "渚光希",
+      "野野原薺"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-830"
+  },
+  {
+    "id": 567495,
+    "IDcode": "DGCESD-832",
+    "title": "_A★配信限定！特典映像付★激イキ×アナル开放×初アナル絶顶羽生ありさPart1第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-832"
+  },
+  {
+    "id": 567494,
+    "IDcode": "DGCESD-836",
+    "title": "★配信限定！特典映像付★SEXがダイエットにイイと信じて弟と近亲相奸する巨乳姊森本つぐみ第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-836"
+  },
+  {
+    "id": 99257,
+    "IDcode": "DGCESD-837",
+    "title": "★配信限定！特典映像付★仲良し2人が初めて本気で愛し合うレズビアン 野々原なずな 八尋麻衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "69",
+      "舔阴",
+      "成熟的女人",
+      "素人作品",
+      "巨乳",
+      "女同性恋",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-11-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "野野原薺",
+      "八寻麻衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-837"
+  },
+  {
+    "id": 523002,
+    "IDcode": "DGCESD-838",
+    "title": "波多野结衣- ★配信限定！特典映像付★山井すずのデカ尻アナルをひびはたが责める3Pレズビアン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250413/IJLH7nqh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-838"
+  },
+  {
+    "id": 567493,
+    "IDcode": "DGCESD-839",
+    "title": "★配信限定！特典映像付★黒人解禁！B.B.P第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-839"
+  },
+  {
+    "id": 535888,
+    "IDcode": "DGCESD-845",
+    "title": "_A★配信限定！特典映像付",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-845"
+  },
+  {
+    "id": 523003,
+    "IDcode": "DGCESD-857",
+    "title": "波多野结衣- ★配信限定！特典映像付★出世できないダメ男×No.1风俗嬢 爱し合うウエディング生中出しSEX3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250413/yC6KBZpe/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-857"
+  },
+  {
+    "id": 533354,
+    "IDcode": "DGCESD-863",
+    "title": "_A ★配信限定！特典映像付★出世できないダメ男×",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-863"
+  },
+  {
+    "id": 535887,
+    "IDcode": "DGCESD-865",
+    "title": "_B★配信限定！特典映像付★みひなのデカ尻アナルをひびはたが责める3P",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-865"
+  },
+  {
+    "id": 81685,
+    "IDcode": "DGCESD-871",
+    "title": "★配信限定！特典映像付★感じすぎていっぱいおもらしごめんなさい…26 あおいれな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "潮吹",
+      "中出",
+      "成熟的女人",
+      "素人作品",
+      "精选，综合",
+      "放尿"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-02-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "葵玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-871"
+  },
+  {
+    "id": 533353,
+    "IDcode": "DGCESD-873",
+    "title": "★配信限定！特典映像付★全身オイル×痉挛×エビ反り絶顶SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-873"
+  },
+  {
+    "id": 533352,
+    "IDcode": "DGCESD-879",
+    "title": "_A ★配信限定！特典映像付★出世でき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-879"
+  },
+  {
+    "id": 575993,
+    "IDcode": "DGCESD-910",
+    "title": "【日本女优】配信限定特典映像付きみをペット波他多野结衣2020-07-12波他多野结衣单女他优他-120",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-910"
+  },
+  {
+    "id": 575992,
+    "IDcode": "DGCESD-911",
+    "title": "【日本女优】配信限定特典映像付新川爱七のレズ処女を波他多野结衣加藤ももかが夺う同性他爱他レズビアンSE2020-07-20加藤もも波他多野结衣新川爱七3位女他优他-110",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-911"
+  },
+  {
+    "id": 524144,
+    "IDcode": "DGCESD-932",
+    "title": "配信限定特典映像付★きみをペット3森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/dd4bf116fa99814532aa4c50191aab70.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-932"
+  },
+  {
+    "id": 524145,
+    "IDcode": "DGCESD-936",
+    "title": "配信限定特典映像付★涙のノンストップ激イカせSEX加藤ももか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/5cd4f8b702ade6b5521e207a7230d8ae.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-936"
+  },
+  {
+    "id": 524142,
+    "IDcode": "DGCESD-937",
+    "title": "配信限定特典映像付优激し爱し合う二人の情热的みひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/3eaf3e1cdc1ead11a92ce91566fb9332.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-937"
+  },
+  {
+    "id": 524143,
+    "IDcode": "DGCESD-940",
+    "title": "配信限定特典映像付黒人解禁大量颜射新川爱七",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/946df9d9f5ba29371ba7a5224539b657.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-940"
+  },
+  {
+    "id": 411411,
+    "IDcode": "DGCESD-992",
+    "title": "★配信限定！特典映像付★初レズ解禁！渡辺まおがあおいれなと人生初のレズセックスに挑戦！ 渡邊真央 葵玲奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c7af0f9a2e9b1d45c0bd6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-992"
+  },
+  {
+    "id": 575991,
+    "IDcode": "DGCESD-996",
+    "title": "【日本女优】配信限定特典映像付ベテラン女他优他波他多野结衣がやりたい事だけを撮影してみた2021-04-18波他多野结衣单女他优他-109",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESD-996"
+  },
+  {
+    "id": 522147,
+    "IDcode": "DGCESDCD1",
+    "title": "DGCESDcd1 ★配信限定！特典映像付★ひびはた対决 リベンジ3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230222-1/c31576e5470c5a7a72e4ba85b5d4804b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESDCD1"
+  },
+  {
+    "id": 522146,
+    "IDcode": "DGCESDCD2",
+    "title": "DGCESDcd2 ★配信限定！特典映像付★ひびはた対决 リベンジ3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230222-1/11f5aa345fb952095a43d846b6c59e04.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCESDCD2"
+  },
+  {
+    "id": 218279,
+    "IDcode": "DGL-018",
+    "title": "全裸家庭教師-鈴木心春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGL-018"
+  },
+  {
+    "id": 100403,
+    "IDcode": "DGL-052",
+    "title": "美女大小姐-铃木心春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "凌辱",
+      "无码破解",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鈴木心春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGL-052"
+  },
+  {
+    "id": 19624,
+    "IDcode": "DGL-064",
+    "title": "著衣巨乳咖啡店員 鈴木心春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精選綜合",
+      "乳交",
+      "素人作品",
+      "巨乳",
+      "其他職業"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/33b466659c669a46ec77a6e261b9b8ab.jpg",
+    "actress": [
+      "鈴木心春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGL-064"
+  },
+  {
+    "id": 67070,
+    "IDcode": "DGL-071",
+    "title": "职业OL的悲惨强迫性爱-铃木心春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "OL",
+      "无码破解",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鈴木心春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGL-071"
+  },
+  {
+    "id": 103331,
+    "IDcode": "DGL-079",
+    "title": "一般男性さんと乱交パーティー 浅倉領花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2014-01-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGL-079"
+  },
+  {
+    "id": 166378,
+    "IDcode": "DGRE-002",
+    "title": "深度口交专用-佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGRE-002"
+  },
+  {
+    "id": 82447,
+    "IDcode": "DGRE-003",
+    "title": "接吻女王AIKA和态接吻M男优们的擂台对决到底冠军腰带将归属哪一方呢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "接吻",
+      "M男"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221104-1/055c1af2b54572ebd37ba81db697b57a.jpg",
+    "actress": [
+      "AIKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGRE-003"
+  },
+  {
+    "id": 470273,
+    "IDcode": "DGSI-011",
+    "title": "素人娘淫縛倶楽部 恥辱号泣悶絶美少女 vol.11",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/07/689461b66ccb447f8c367c5e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGSI-011"
+  },
+  {
+    "id": 470276,
+    "IDcode": "DHEL-001",
+    "title": "女体残酷調教倶楽部 エクスタシー·ヘル ～ヤバイほどイカされる女～-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/07/689461d66ccb447f8c367c60/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHEL-001"
   }
 ];

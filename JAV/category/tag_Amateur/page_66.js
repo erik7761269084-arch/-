@@ -1,1921 +1,1823 @@
 window.PAGE_DATA = [
   {
-    "id": 552678,
-    "IDcode": "259LUXU-0845",
-    "title": "豪华电视811",
+    "id": 577604,
+    "IDcode": "200GANA-2789",
+    "title": "マジ软派、初撮。 1849 【高校教师の休日】浅草で见つけた浴衣女子をナンパ！はだけさ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/ff89f96c68696ba4077eb56360da13a7.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0845"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2789"
   },
   {
-    "id": 553123,
-    "IDcode": "259LUXU-0847",
-    "title": "豪华电视842",
+    "id": 577603,
+    "IDcode": "200GANA-2790",
+    "title": "マジ软派、初撮。 1870 キレイ系巨乳バーテンダーゲット！品が良さそうな颜の下に隠れ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/ef0bef7ff670d49fa4ce6d774cc8e6bf.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0847"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2790"
   },
   {
-    "id": 553249,
-    "IDcode": "259LUXU-0848",
-    "title": "豪华电视840",
+    "id": 577605,
+    "IDcode": "200GANA-2791",
+    "title": "マジ软派、初撮。 1861 ショッピング中の上品なお姊さんを代官山でナンパ！‘押しに弱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/ef5f2b597771dfd8585d5e0f59aff3e3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0848"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2791"
   },
   {
-    "id": 553250,
-    "IDcode": "259LUXU-0849",
-    "title": "豪华电视843",
+    "id": 532583,
+    "IDcode": "200GANA-2792",
+    "title": "マジ软派、初撮。 1875 メガネ巨乳のOLさん！今夜片想いの人と约束 - Supjav.com - 免费在线观看AV视频",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/05c6081fbf2e0933024d0515c21c81cb.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0849"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2792"
   },
   {
-    "id": 532726,
-    "IDcode": "259LUXU-0850",
-    "title": "ラグジュTV 824",
+    "id": 577608,
+    "IDcode": "200GANA-2793",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 268 愈し系オーラ全开でたま",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230816/pb_e_259luxu-850.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0850"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2793"
   },
   {
-    "id": 532736,
-    "IDcode": "259LUXU-0851",
-    "title": "ラグジュTV 817",
+    "id": 532622,
+    "IDcode": "200GANA-2794",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 271 スレンダー美人なエステティシャンを连れ込み！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230820/pb_e_259luxu-851.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0851"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2794"
   },
   {
-    "id": 552679,
-    "IDcode": "259LUXU-0852",
-    "title": "豪华电视 876",
+    "id": 577609,
+    "IDcode": "200GANA-2795",
+    "title": "マジ软派、初撮。 1857 仕事帰りにナンパしたお姊さんにAV撮影交渉！给料2ヶ月分の",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1aa97edeba17df4280e13e170ffb687b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0852"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2795"
   },
   {
-    "id": 553251,
-    "IDcode": "259LUXU-0853",
-    "title": "豪华电视825",
+    "id": 577606,
+    "IDcode": "200GANA-2796",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 272 マッチングアプリで知り",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/f1a3293cafb5af6482366410eefa8585.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0853"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2796"
   },
   {
-    "id": 552680,
-    "IDcode": "259LUXU-0854",
-    "title": "豪华电视861",
+    "id": 577607,
+    "IDcode": "200GANA-2797",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 273 黒髪ビューティー娘を自",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/6c39a232e82a42fe5c35167494498388.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0854"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2797"
   },
   {
-    "id": 553252,
-    "IDcode": "259LUXU-0855",
-    "title": "豪华电视818",
+    "id": 532763,
+    "IDcode": "200GANA-2798",
+    "title": "マジ软派、初撮。 1884 福祉の仕事を目指し、ボランティア活动にも参加する清い心を持った学生をインタビューと称",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/f4f4b09057a03e20f26bed8bd0761097.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0855"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2798"
   },
   {
-    "id": 553255,
-    "IDcode": "259LUXU-0856",
-    "title": "豪华电视839",
+    "id": 532816,
+    "IDcode": "200GANA-2799",
+    "title": "[] マジ软派、初撮。 1882 スイングしたらこぼれちゃいそうなIカップ爆乳！ゴルフの先生として动くお姊さ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人",
+      "巨乳",
+      "无码"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "无码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/aab43fa5ddc4c6db673b80c70fd30fe0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0856"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2799"
   },
   {
-    "id": 553256,
-    "IDcode": "259LUXU-0857",
-    "title": "豪华电视844",
+    "id": 532706,
+    "IDcode": "200GANA-2800",
+    "title": "マジ软派、初撮。 1883 バイト帰りのJDを渋谷でナンパ！大人しい颜して自分から浮気してくスタ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/3be72f1b57ddc6157f944cd6759f1994.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0857"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2800"
   },
   {
-    "id": 553253,
-    "IDcode": "259LUXU-0858",
-    "title": "豪华电视841",
+    "id": 532835,
+    "IDcode": "200GANA-2801",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 275 颜良しカラダ良し！上玉女を家に连れ込",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/bc61e628304bd5c55ab7de6982ec5d5c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0858"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2801"
   },
   {
-    "id": 532745,
-    "IDcode": "259LUXU-0859",
-    "title": "ラグジュTV 847",
+    "id": 532762,
+    "IDcode": "200GANA-2802",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 274 マッチングアプリで出会った颜良しノリ良し美少女を家",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/pb_e_259luxu-859.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0859"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2802"
   },
   {
-    "id": 552681,
-    "IDcode": "259LUXU-0860",
-    "title": "豪华电视845",
+    "id": 577612,
+    "IDcode": "200GANA-2803",
+    "title": "マジ软派、初撮。 1885 真っ白なスベスベ肌にGカップおっぱい！胸元が気になりすぎる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1e00b688c9c2b6dda0eeec849b031e7f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0860"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2803"
   },
   {
-    "id": 552685,
-    "IDcode": "259LUXU-0861",
-    "title": "豪华电视870",
+    "id": 577610,
+    "IDcode": "200GANA-2804",
+    "title": "マジ软派、初撮。 1886 身长170cmの美形JDをナンパ！‘男性と话すの苦手で…で",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/8aafe548e703a6773372b8dd20f459bf.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0861"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2804"
   },
   {
-    "id": 552682,
-    "IDcode": "259LUXU-0863",
-    "title": "豪华电视849",
+    "id": 532886,
+    "IDcode": "200GANA-2805",
+    "title": "マジ软派、初撮。 1887 黒髪清楚で巨乳の音大生！かつ押しに弱くて従顺！脱がせば色白でお尻も大きい！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/af93f1d3a3939d264f858934cec584e2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0863"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2805"
   },
   {
-    "id": 553164,
-    "IDcode": "259LUXU-0866",
-    "title": "豪华电视851",
+    "id": 532897,
+    "IDcode": "200GANA-2806",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 276 ネイルもつけまもバチバチの金髪黒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/3cd884eb8c7e0166cc1dbe298c226eb4.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0866"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2806"
   },
   {
-    "id": 532760,
-    "IDcode": "259LUXU-0867",
-    "title": "ラグジュTV 862",
+    "id": 577611,
+    "IDcode": "200GANA-2807",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 277 清楚に见えてアクティブ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://155.sl155cf.com/upload/vod/20230916/pb_e_259luxu-867.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0867"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2807"
   },
   {
-    "id": 552683,
-    "IDcode": "259LUXU-0871",
-    "title": "豪华电视855",
+    "id": 577614,
+    "IDcode": "200GANA-2808",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 278 アプリで出会った人懐っ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/38d60134f1a116f6aac176e170b5816d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0871"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2808"
   },
   {
-    "id": 553165,
-    "IDcode": "259LUXU-0872",
-    "title": "豪华电视838",
+    "id": 533131,
+    "IDcode": "200GANA-2809",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 283 饮み屋でナンパして即日家に连れ込み成功！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/6697d1b4f08c3a5f959bcf62036a0e9b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0872"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2809"
   },
   {
-    "id": 552684,
-    "IDcode": "259LUXU-0874",
-    "title": "豪华电视856",
+    "id": 567863,
+    "IDcode": "200GANA-2810",
+    "title": "严重调情，第1枪。 1889 本来是个简单的面试，结果…… 悬赏很高，同意成人用品监督调查！精心设计的电击，让你的身心彻底进入饥渴模式！演员厚厚的脸颊含在嘴里快要掉下来了。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1de5068470af9582db14c085d18c3e5b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0874"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2810"
   },
   {
-    "id": 532791,
-    "IDcode": "259LUXU-0875",
-    "title": "ラグジュTV 875",
+    "id": 577613,
+    "IDcode": "200GANA-2811",
+    "title": "マジ软派、初撮。 1888 池袋で出会ったアラサー美人！落ち着いた雰囲気から一転、SE",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230927/pb_e_259luxu-875.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0875"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2811"
   },
   {
-    "id": 537288,
-    "IDcode": "259LUXU-0876",
-    "title": "ラグジュTV 846",
+    "id": 495924,
+    "IDcode": "200GANA-2812",
+    "title": "マジ軟派、初撮。 2020 池袋で仕事終わりのスタイル抜群スレンダー美女をナンパ！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/pb_e_259luxu-876.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0876"
-  },
-  {
-    "id": 552686,
-    "IDcode": "259LUXU-0877",
-    "title": "豪华电视869",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/14476ed93ad4086863d5b4218f5aeffc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0877"
-  },
-  {
-    "id": 552687,
-    "IDcode": "259LUXU-0878",
-    "title": "豪华电视857",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/8c68d89a796c8b97b9cb66683037855f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0878"
-  },
-  {
-    "id": 553254,
-    "IDcode": "259LUXU-0879",
-    "title": "豪华电视872",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/8ea5f68c7541b011086ab206848785f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0879"
-  },
-  {
-    "id": 532805,
-    "IDcode": "259LUXU-0880",
-    "title": "ラグジュTV 871",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231001/pb_e_259luxu-880.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0880"
-  },
-  {
-    "id": 552688,
-    "IDcode": "259LUXU-0881",
-    "title": "豪华电视902",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/eef39ed16822f0cb87765d8b3aee5932.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0881"
-  },
-  {
-    "id": 537301,
-    "IDcode": "259LUXU-0882",
-    "title": "ラグジュTV 867",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/pb_e_259luxu-882.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0882"
-  },
-  {
-    "id": 552689,
-    "IDcode": "259LUXU-0883",
-    "title": "豪华电视878",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/c4c3f2a665e68eb09d6a43d90b3f752a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0883"
-  },
-  {
-    "id": 552690,
-    "IDcode": "259LUXU-0886",
-    "title": "豪华电视904",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/f1aa661e47a0f1d4d44716661a586379.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0886"
-  },
-  {
-    "id": 553166,
-    "IDcode": "259LUXU-0888",
-    "title": "豪华电视905",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/f41b9d105d9b61344c8bdc92ee6a03db.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0888"
-  },
-  {
-    "id": 532817,
-    "IDcode": "259LUXU-0889",
-    "title": "ラグジュTV 852",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_259luxu-889.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0889"
-  },
-  {
-    "id": 532834,
-    "IDcode": "259LUXU-0890",
-    "title": "ラグジュTV 881",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_259luxu-890.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0890"
-  },
-  {
-    "id": 553167,
-    "IDcode": "259LUXU-0891",
-    "title": "豪华电视853",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/21c6a4ed41b659ff5a4563b13cf2cc2e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0891"
-  },
-  {
-    "id": 532833,
-    "IDcode": "259LUXU-0892",
-    "title": "ラグジュTV 901",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_259luxu-892.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0892"
-  },
-  {
-    "id": 532840,
-    "IDcode": "259LUXU-0893",
-    "title": "ラグジュTV 860",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231022/pb_e_259luxu-893.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0893"
-  },
-  {
-    "id": 552691,
-    "IDcode": "259LUXU-0894",
-    "title": "豪华电视 873",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/34e6c68ce6482518fff31e32ecf636f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0894"
-  },
-  {
-    "id": 532839,
-    "IDcode": "259LUXU-0895",
-    "title": "ラグジュTV 884",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231022/pb_e_259luxu-895.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0895"
-  },
-  {
-    "id": 532851,
-    "IDcode": "259LUXU-0896",
-    "title": "ラグジュTV 858",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231025/pb_e_259luxu-896.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0896"
-  },
-  {
-    "id": 532850,
-    "IDcode": "259LUXU-0897",
-    "title": "ラグジュTV 880",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231025/pb_e_259luxu-897.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0897"
-  },
-  {
-    "id": 532864,
-    "IDcode": "259LUXU-0901",
-    "title": "ラグジュTV 866",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231029/pb_e_259luxu-901.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0901"
-  },
-  {
-    "id": 552692,
-    "IDcode": "259LUXU-0902",
-    "title": "豪华电视882",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/e4e759a0ffee6902357718c6fe033b90.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0902"
-  },
-  {
-    "id": 552693,
-    "IDcode": "259LUXU-0903",
-    "title": "豪华电视911",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/36a75098f93f6f5fb07977dd676de081.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0903"
-  },
-  {
-    "id": 553168,
-    "IDcode": "259LUXU-0904",
-    "title": "豪华电视920",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/52d549a5d8c146f456a59f9236f6cf8e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0904"
-  },
-  {
-    "id": 552697,
-    "IDcode": "259LUXU-0905",
-    "title": "豪华电视885",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/459b2249d64c69935349abb8d59d68d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0905"
-  },
-  {
-    "id": 552694,
-    "IDcode": "259LUXU-0906",
-    "title": "豪华电视888",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/3c27ba065481722c8e974bb620567007.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0906"
-  },
-  {
-    "id": 552695,
-    "IDcode": "259LUXU-0907",
-    "title": "豪华电视910",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/76bf2b1ddac22831c7ad817729476851.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0907"
-  },
-  {
-    "id": 552696,
-    "IDcode": "259LUXU-0908",
-    "title": "豪华电视895",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1e0f10e5fc6ede21c3672d8fa0ba0a08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0908"
-  },
-  {
-    "id": 88057,
-    "IDcode": "259LUXU-0910",
-    "title": "ラグジュTV 898",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "屁股",
-      "素人企画",
-      "HDTV",
-      "素人",
-      "业余",
-      "乳房",
-      "姐姐",
-      "高端素人",
-      "颜射",
-      "女优按摩棒"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/80a2f5f4b418abfa2b883813a3db9027.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0910"
-  },
-  {
-    "id": 553169,
-    "IDcode": "259LUXU-0911",
-    "title": "豪华电视897",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/da4177fd4b98e319b5faab266038229e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0911"
-  },
-  {
-    "id": 552649,
-    "IDcode": "259LUXU-0912",
-    "title": "豪华电视912",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/c787636dbbf2ebaa11e1bcc8fccad630.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0912"
-  },
-  {
-    "id": 552650,
-    "IDcode": "259LUXU-0913",
-    "title": "豪华电视 893",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/73cddb6ac340cde2cfd1ced6b6930ba4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0913"
-  },
-  {
-    "id": 553180,
-    "IDcode": "259LUXU-0914",
-    "title": "豪华电视906",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/86d6d27a8e6681ec0bcf131e2178fd64.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0914"
-  },
-  {
-    "id": 552651,
-    "IDcode": "259LUXU-0916",
-    "title": "豪华电视891",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/5c5497cfd5223703040c68c7c1af8c5d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0916"
-  },
-  {
-    "id": 553181,
-    "IDcode": "259LUXU-0917",
-    "title": "豪华电视907",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/3fd860b2d9e8d851040ea42ab7e7acd8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0917"
-  },
-  {
-    "id": 552652,
-    "IDcode": "259LUXU-0919",
-    "title": "豪华电视916",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/d4d4d84c8a5aa30363702e5bfdd83cdb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0919"
-  },
-  {
-    "id": 552653,
-    "IDcode": "259LUXU-0922",
-    "title": "豪华电视 894",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/3d6b6518667da39b3a1f8a30ac052393.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0922"
-  },
-  {
-    "id": 553182,
-    "IDcode": "259LUXU-0923",
-    "title": "豪华电视919",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/1bfd3c1b82f0750670f48b5f44858c47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0923"
-  },
-  {
-    "id": 552654,
-    "IDcode": "259LUXU-0924",
-    "title": "豪华电视892",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/8d316d1df2a186a860a482670d3d663a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0924"
-  },
-  {
-    "id": 552655,
-    "IDcode": "259LUXU-0925",
-    "title": "豪华电视913",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/31bff64ce29aefc398c9734907d8552d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0925"
-  },
-  {
-    "id": 553183,
-    "IDcode": "259LUXU-0926",
-    "title": "豪华电视917",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/f1d6b236ed42c1fbdf3ba00234627e4b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0926"
-  },
-  {
-    "id": 553184,
-    "IDcode": "259LUXU-0927",
-    "title": "豪华电视889",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/3fcbb2ff804cb864f7361254bb1b6cad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0927"
-  },
-  {
-    "id": 552656,
-    "IDcode": "259LUXU-0928",
-    "title": "豪华电视914",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/60b713b0f76961963ad8938cae422086.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0928"
-  },
-  {
-    "id": 553179,
-    "IDcode": "259LUXU-0929",
-    "title": "豪华电视909",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/66b55552f48e6663b4300cc4fa38a18e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0929"
-  },
-  {
-    "id": 553185,
-    "IDcode": "259LUXU-0930",
-    "title": "豪华电视918",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/51aac303a629ad93bb3ef2115dc60f15.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0930"
-  },
-  {
-    "id": 553176,
-    "IDcode": "259LUXU-0931",
-    "title": "豪华电视915",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/ab64b8827d9b7b3f55d3dd49a51735c4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0931"
-  },
-  {
-    "id": 73111,
-    "IDcode": "259LUXU-0933",
-    "title": "ラグジュTV 923",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "屁股",
-      "素人企画",
-      "HDTV",
-      "素人",
-      "自慰",
-      "业余",
-      "乳房",
-      "无毛",
-      "姐姐",
-      "高端素人",
-      "颜射"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/f1734ad63563b45887c26c6e7a3311ac.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "明美美羽"
+      "しずね"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0933"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2812"
   },
   {
-    "id": 553177,
-    "IDcode": "259LUXU-0934",
-    "title": "豪华电视924",
+    "id": 577615,
+    "IDcode": "200GANA-2813",
+    "title": "マジ软派、初撮。 1891 爱され小动物フェイス＆美ボディを兼ね备えたガールズバーキャ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/aede5239d35f94dbb4e638df0cfe3f49.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0934"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2813"
   },
   {
-    "id": 532963,
-    "IDcode": "259LUXU-0935",
-    "title": "ラグジュTV 925",
+    "id": 533108,
+    "IDcode": "200GANA-2814",
+    "title": "マジ软派、初撮。 1897 仕事帰りのOLをナンパ！长身美脚のモデル体型！かつ脱がせば美乳で巨乳で美尻！お酒の势",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231214/pb_e_259luxu-935.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0935"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2814"
   },
   {
-    "id": 553186,
-    "IDcode": "259LUXU-0939",
-    "title": "豪华电视928",
+    "id": 532976,
+    "IDcode": "200GANA-2815",
+    "title": "マジ软派、初撮。 1890 ‘寝取られちゃいたいな…なんて___’旦那とレス気味になってから芽生えつつある愿望",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/35181f742fae63fd8e1fd64573b9a177.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0939"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2815"
   },
   {
-    "id": 553174,
-    "IDcode": "259LUXU-0940",
-    "title": "豪华电视 932",
+    "id": 577619,
+    "IDcode": "200GANA-2816",
+    "title": "マジ软派、初撮。 1893 ‘お尻叩かれるの好き，，，’ちょっと変わったお仕事をしてる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/ffda2d8629573b1fe20d9482c7b3e1e7.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0940"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2816"
   },
   {
-    "id": 552657,
-    "IDcode": "259LUXU-0941",
-    "title": "豪华电视930",
+    "id": 577618,
+    "IDcode": "200GANA-2817",
+    "title": "マジ软派、初撮。 1892 ‘本当はグイグイ来る男のヒトが好きで…，，，’休憩中の清楚",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/a72777ef948dcd3fe65117e595ad85ef.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0941"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2817"
   },
   {
-    "id": 553173,
-    "IDcode": "259LUXU-0942",
-    "title": "豪华电视 929",
+    "id": 577617,
+    "IDcode": "200GANA-2818",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 280 【アイドルでサウナ女子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/d36f6f8421f9c19fc48b1f3737902522.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0942"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2818"
   },
   {
-    "id": 532984,
-    "IDcode": "259LUXU-0943",
-    "title": "ラグジュTV 943",
+    "id": 533021,
+    "IDcode": "200GANA-2819",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 279 方言が可爱い服饰学生とマッチング→家に连れ込み！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231221/pb_e_259luxu-943.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0943"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2819"
   },
   {
-    "id": 553171,
-    "IDcode": "259LUXU-0944",
-    "title": "豪华电视 934",
+    "id": 577621,
+    "IDcode": "200GANA-2820",
+    "title": "マジ软派、初撮。 1896 渋谷で买い物中の金髪美少女をナンパ→AV撮影交渉！‘彼氏に",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/5613cdf28090a94517977223d517c44d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0944"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2820"
   },
   {
-    "id": 552658,
-    "IDcode": "259LUXU-0945",
-    "title": "豪华电视958",
+    "id": 577620,
+    "IDcode": "200GANA-2822",
+    "title": "マジ软派、初撮。 1894 内定式饮み会帰りのスーツ＆メガネのお姊さんを渋谷でナンパ！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/0fe4d43bc84e2288846f5755f615a69b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0945"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2822"
   },
   {
-    "id": 553172,
-    "IDcode": "259LUXU-0946",
-    "title": "豪华电视 937",
+    "id": 577616,
+    "IDcode": "200GANA-2823",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 281 初めての自宅访问に紧张",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/80c19064b91bcb9f077394725676c04a.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0946"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2823"
   },
   {
-    "id": 552659,
-    "IDcode": "259LUXU-0949",
-    "title": "豪华电视 936",
+    "id": 577622,
+    "IDcode": "200GANA-2824",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 292 付き合う前に体の相性确",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/ce64fcee892b571903fa1cefd2b307b3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0949"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2824"
   },
   {
-    "id": 552660,
-    "IDcode": "259LUXU-0950",
-    "title": "豪华电视 944",
+    "id": 577625,
+    "IDcode": "200GANA-2825",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 282 いつでも笑颜のポニテ女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/fce04672f0f1b7f035a94eeda7ea942c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0950"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2825"
   },
   {
-    "id": 553187,
-    "IDcode": "259LUXU-0952",
-    "title": "豪华电视931",
+    "id": 533149,
+    "IDcode": "200GANA-2826",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 284 【スレンダー美巨乳】気になっていたスナックのおねーち",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/16e99702a60281f915a02cece19cc2de.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0952"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2826"
   },
   {
-    "id": 552661,
-    "IDcode": "259LUXU-0953",
-    "title": "豪华电视948",
+    "id": 577626,
+    "IDcode": "200GANA-2827",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 285 清楚な见た目の日本人に",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/cd04cf067ef1853dd6e3275811341332.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0953"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2827"
   },
   {
-    "id": 552662,
-    "IDcode": "259LUXU-0954",
-    "title": "豪华电视 935",
+    "id": 577624,
+    "IDcode": "200GANA-2828",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 286 家に连れ込んだ娘が紧张",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/9b1829655cbb9b37d0f9cbe464d53695.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0954"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2828"
   },
   {
-    "id": 553170,
-    "IDcode": "259LUXU-0955",
-    "title": "豪华电视 947",
+    "id": 577623,
+    "IDcode": "200GANA-2829",
+    "title": "マジ软派、初撮。 1902 仕事のストレスを抱えたお姊さんをインタビューと称してホテル",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/bb775e81acaf5e4023abfa07ef09a987.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0955"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2829"
   },
   {
-    "id": 553178,
-    "IDcode": "259LUXU-0956",
-    "title": "豪华电视953",
+    "id": 577627,
+    "IDcode": "200GANA-2830",
+    "title": "マジ软派、初撮。 1903 大人っぽいけど可爱らしい！Hな诱いに耻ずかしがりつつも応じ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/84f259a41ad8eeaf260dfe78dffce985.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0956"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2830"
   },
   {
-    "id": 552663,
-    "IDcode": "259LUXU-0957",
-    "title": "豪华电视 939",
+    "id": 577629,
+    "IDcode": "200GANA-2831",
+    "title": "マジ软派、初撮。 1900 仕事帰りのお姊さんをホテルに连れ込み！‘责められるのが好き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/01dea1c105632f512aa3f34118cac41e.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0957"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2831"
   },
   {
-    "id": 552664,
-    "IDcode": "259LUXU-0958",
-    "title": "豪华电视986",
+    "id": 577628,
+    "IDcode": "200GANA-2832",
+    "title": "マジ软派、初撮。 1898 【安产型のおっとりお姊さん】话し方や仕草が色っぽくて引き込",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/4916b680fea9d3c3c5e46c569ee7dc0b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0958"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2832"
   },
   {
-    "id": 533002,
-    "IDcode": "259LUXU-0959",
-    "title": "ラグジュTV 938",
+    "id": 577630,
+    "IDcode": "200GANA-2833",
+    "title": "マジ软派、初撮。 1905 休憩中のナースとホテルIN！インタビューついでに口说いてパ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231230/pb_e_259luxu-959.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0959"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2833"
   },
   {
-    "id": 553188,
-    "IDcode": "259LUXU-0960",
-    "title": "豪华电视946",
+    "id": 577631,
+    "IDcode": "200GANA-2834",
+    "title": "マジ软派、初撮。 1906 清楚系ビッチ！上品そうに见えて性に奔放！性感帯チェックして",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250915-1/9cdb69f98fb2eddacaac0dc0939bad86.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0960"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2834"
   },
   {
-    "id": 533006,
-    "IDcode": "259LUXU-0962",
-    "title": "ラグジュTV 942",
+    "id": 577634,
+    "IDcode": "200GANA-2835",
+    "title": "マジ软派、初撮。 1899 ‘いいカンジの人と进展がなくて…’と悩むかわいこちゃんを救",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240103/pb_e_259luxu-962.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0962"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2835"
   },
   {
-    "id": 552616,
-    "IDcode": "259LUXU-0963",
-    "title": "豪华电视954",
+    "id": 533191,
+    "IDcode": "200GANA-2836",
+    "title": "マジ软派、初撮。 1901 AVの撮影交渉を断れない押しに弱いおっとり保育士！初めは受け身一辺倒かと思いきや、乳首舐",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/40f95eba1542c02a5f12998b8e8def85.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0963"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2836"
   },
   {
-    "id": 553189,
-    "IDcode": "259LUXU-0964",
-    "title": "豪华电视955",
+    "id": 577633,
+    "IDcode": "200GANA-2837",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 287 ラウンドガールをヤリ部",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/8551ce17d9562440c2e4a75cda283e4b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0964"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2837"
   },
   {
-    "id": 553190,
-    "IDcode": "259LUXU-0965",
-    "title": "豪华电视956",
+    "id": 577632,
+    "IDcode": "200GANA-2838",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 289 マッチングアプリで会っ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/6c160769b1c161ec79ae6fae9abf071f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0965"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2838"
   },
   {
-    "id": 553175,
-    "IDcode": "259LUXU-0967",
-    "title": "豪华电视 957",
+    "id": 577639,
+    "IDcode": "200GANA-2839",
+    "title": "マジ软派、初撮。 1921 パパ活女子をナンパ！一绪にディナーを食べるらしいのでその前",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/1097500a7dc85d86df286ad1527db6b6.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0967"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2839"
   },
   {
-    "id": 553191,
-    "IDcode": "259LUXU-0969",
-    "title": "豪华电视984",
+    "id": 577638,
+    "IDcode": "200GANA-2840",
+    "title": "マジ软派、初撮。 1904 【あざと可爱い】彼氏のいない寂しさをオナニーで埋めるお姊さ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/664ddaa1503da3b75dfd3867d5dcfc46.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0969"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2840"
   },
   {
-    "id": 553192,
-    "IDcode": "259LUXU-0970",
-    "title": "豪华电视959",
+    "id": 577637,
+    "IDcode": "200GANA-2841",
+    "title": "マジ软派、初撮。 1907 オトナな色気の漂う美女を六本木ナンパ！久々の男に30代の溜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/f890e0e784b4b23912908ad4070321bc.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0970"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2841"
   },
   {
-    "id": 553193,
-    "IDcode": "259LUXU-0971",
-    "title": "豪华电视951",
+    "id": 577636,
+    "IDcode": "200GANA-2842",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 288 大人の余裕が全开のアラ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/d287b6aa10730935602b96405ed2c622.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0971"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2842"
   },
   {
-    "id": 552617,
-    "IDcode": "259LUXU-0972",
-    "title": "豪华电视952",
+    "id": 577640,
+    "IDcode": "200GANA-2843",
+    "title": "マジ软派、初撮。 1908 ぜんぶお酒のせいにして… 雰囲気に饮まれてオナニーしてしま",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/9476fc46d78a1716f288505c0a01b128.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0972"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2843"
   },
   {
-    "id": 552634,
-    "IDcode": "259LUXU-0973",
-    "title": "豪华电视965",
+    "id": 577635,
+    "IDcode": "200GANA-2844",
+    "title": "マジ软派、初撮。 1909 胸元ばっくり！おっぱいに自信あるのがまるわかりな爆乳お姊さ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "搭讪素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/cadd691c5240485b6dc4af2c5459c996.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0973"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2844"
+  },
+  {
+    "id": 577643,
+    "IDcode": "200GANA-2845",
+    "title": "マジ软派、初撮。 1910 寒いけど胸元はオープンなハレンチお姊さんをナンパ！Hな话题",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2845"
+  },
+  {
+    "id": 577645,
+    "IDcode": "200GANA-2846",
+    "title": "マジ软派、初撮。 1912 仕事终わりのコンカフェ店员と…♪エロメイドコスに着替えても",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2846"
+  },
+  {
+    "id": 577644,
+    "IDcode": "200GANA-2847",
+    "title": "マジ软派、初撮。 1911 ‘ギャルは电マが好きだから♪’というのでそのまま电マ责め！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2847"
+  },
+  {
+    "id": 577646,
+    "IDcode": "200GANA-2848",
+    "title": "マジ软派、初撮。 1913 学校から出てきたJDに即ロックオン→ホテルに连れ込み！押せ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2848"
+  },
+  {
+    "id": 577642,
+    "IDcode": "200GANA-2849",
+    "title": "マジ软派、初撮。 1914 おっとりカメラ女子を高田马场でナンパ！话しててほっこりする",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2849"
+  },
+  {
+    "id": 577647,
+    "IDcode": "200GANA-2850",
+    "title": "マジ软派、初撮。 1953 控えめそうなお姊さんが仕事帰りにナンパの饵食に！案の定押し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2850"
+  },
+  {
+    "id": 577641,
+    "IDcode": "200GANA-2852",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 290 黒髪清楚な歯科助手がヒ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2852"
+  },
+  {
+    "id": 577648,
+    "IDcode": "200GANA-2853",
+    "title": "マジ软派、初撮。 1916 吉祥寺でナンパしたJDは里垢にエロい自撮りを载せるスケベ趣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2853"
+  },
+  {
+    "id": 577650,
+    "IDcode": "200GANA-2854",
+    "title": "マジ软派、初撮。 1917 清楚系アイドルの里の颜！ステージを降りれば化けの皮が剥がれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2854"
+  },
+  {
+    "id": 577649,
+    "IDcode": "200GANA-2855",
+    "title": "マジ软派、初撮。 1918 外回り中のお姊さんをナンパしてホテルへ！おっぱいを揉まれ嫌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2855"
+  },
+  {
+    "id": 577651,
+    "IDcode": "200GANA-2856",
+    "title": "マジ软派、初撮。 1915 パパに约束をすっぽかされたパパ活女子を救済ナンパ！“お金あ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2856"
+  },
+  {
+    "id": 577653,
+    "IDcode": "200GANA-2857",
+    "title": "マジ软派、初撮。 1920 纯朴そうな保育士も実は欲求不満で… インタビューと称して声",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2857"
+  },
+  {
+    "id": 577657,
+    "IDcode": "200GANA-2858",
+    "title": "マジ软派、初撮。 1919 ざっくり开いた胸元からこぼれそうなHカップ！大人な色気漂う",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2858"
+  },
+  {
+    "id": 577652,
+    "IDcode": "200GANA-2859",
+    "title": "マジ软派、初撮。 1922 【イキすぎる巫女バイト娘】浅草でナンパした大人しそうな清楚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2859"
+  },
+  {
+    "id": 577654,
+    "IDcode": "200GANA-2860",
+    "title": "マジ软派、初撮。 1923 ひかえめメガネ美少女をホテルに连れ込む背徳感！押しに弱すぎ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2860"
+  },
+  {
+    "id": 577655,
+    "IDcode": "200GANA-2861",
+    "title": "マジ软派、初撮。 1924 お天気お姊さん风のかわいこちゃんがお金の诱惑に负けて脱ぐ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2861"
+  },
+  {
+    "id": 577658,
+    "IDcode": "200GANA-2862",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 293 个人撮影のモデルとマッ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2862"
+  },
+  {
+    "id": 577656,
+    "IDcode": "200GANA-2863",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 300 “性欲溜まってるから…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2863"
+  },
+  {
+    "id": 577660,
+    "IDcode": "200GANA-2864",
+    "title": "マジ软派、初撮。 1925 清楚系JDをナンパ！‘友达にドタキャンさちゃって…’それな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2864"
+  },
+  {
+    "id": 577659,
+    "IDcode": "200GANA-2865",
+    "title": "マジ软派、初撮。 1926 バイト帰りの学生をインタビューのフリしてナンパ！安藤●姫と",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2865"
+  },
+  {
+    "id": 577661,
+    "IDcode": "200GANA-2866",
+    "title": "マジ软派、初撮。 1927 谢礼に钓られてホテルまで着いてきた黒髪美少女！性感帯のヒザ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2866"
+  },
+  {
+    "id": 577665,
+    "IDcode": "200GANA-2867",
+    "title": "マジ软派、初撮。 1928 クールなお姊さんをナンパ…したかと思いきやSEX大好きな肉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2867"
+  },
+  {
+    "id": 577663,
+    "IDcode": "200GANA-2869",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 294 色っぽい美容部员のお姊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2869"
+  },
+  {
+    "id": 577664,
+    "IDcode": "200GANA-2870",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 297 バーで仲良くなったオン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2870"
+  },
+  {
+    "id": 577666,
+    "IDcode": "200GANA-2871",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 295 アプリで出会ったお姊さ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2871"
+  },
+  {
+    "id": 577662,
+    "IDcode": "200GANA-2872",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 296 アプリでマッチングした",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2872"
+  },
+  {
+    "id": 577667,
+    "IDcode": "200GANA-2873",
+    "title": "マジ软派、初撮。 1931 【実はご奉仕好き】表参道を歩くエロニットワンピお姊さんをナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2873"
+  },
+  {
+    "id": 577669,
+    "IDcode": "200GANA-2874",
+    "title": "マジ软派、初撮。 1930 青森讹りの清纯派と见せかけて…彼氏と远距离中にセフレ作って",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2874"
+  },
+  {
+    "id": 577670,
+    "IDcode": "200GANA-2875",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 298 コンパで仲良くなったお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2875"
+  },
+  {
+    "id": 577668,
+    "IDcode": "200GANA-2876",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 299 家に连れ込んだ女のノリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2876"
+  },
+  {
+    "id": 577671,
+    "IDcode": "200GANA-2878",
+    "title": "マジ软派、初撮。 1933 歌舞伎町で见つけたオフの日コンカフェ嬢をナンパ！AVに兴味",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2878"
+  },
+  {
+    "id": 577674,
+    "IDcode": "200GANA-2879",
+    "title": "マジ软派、初撮。 1934 【隠れ巨乳】本やアートが好きなアカデミックなお姊さん！お上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2879"
+  },
+  {
+    "id": 577675,
+    "IDcode": "200GANA-2880",
+    "title": "マジ软派、初撮。 1935 メイド吃茶で动くお姊さんを休日ナンパ！内绪でイケメン客と游",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2880"
+  },
+  {
+    "id": 577672,
+    "IDcode": "200GANA-2881",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 301 知り合った当初からどう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2881"
+  },
+  {
+    "id": 577673,
+    "IDcode": "200GANA-2882",
+    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 309 宅饮みでいいムードにな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2023-10-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "もも"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2882"
+  },
+  {
+    "id": 577678,
+    "IDcode": "200GANA-2883",
+    "title": "マジ软派、初撮。 1936 ハタチにして酒好きの明らかに游び惯れてる黒髪女子！インタビ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2883"
+  },
+  {
+    "id": 577680,
+    "IDcode": "200GANA-2884",
+    "title": "マジ软派、初撮。 1972 ニットワンピに浮き出るパンティーラインがエロい！ナンパした",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2023-10-03",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2884"
+  },
+  {
+    "id": 577679,
+    "IDcode": "200GANA-2886",
+    "title": "マジ软派、初撮。 1938 自分のカラダに自信ネキなギャルにAV出演交渉！身バレを怖が",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2886"
+  },
+  {
+    "id": 577677,
+    "IDcode": "200GANA-2887",
+    "title": "マジ软派、初撮。 1940 インタビューと称してスタジオに连れ込んだお姊さん！地味めか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2887"
+  },
+  {
+    "id": 577676,
+    "IDcode": "200GANA-2888",
+    "title": "マジ软派、初撮。 1939 彼氏の独りよがりSEXが不満なお姊さん！そのあざと可爱さに",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2888"
+  },
+  {
+    "id": 479436,
+    "IDcode": "200GANA-2889",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 302 『自分の性欲が強す",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "まや"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2889"
+  },
+  {
+    "id": 479434,
+    "IDcode": "200GANA-2890",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 303 色白スレンダーボデ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "このみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2890"
+  },
+  {
+    "id": 486640,
+    "IDcode": "200GANA-2894",
+    "title": "マジ軟派、初撮。 1942 アコギ1本で魅せるロリ学生をナンパ！音楽と同じくらい好",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "なつか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2894"
+  },
+  {
+    "id": 486642,
+    "IDcode": "200GANA-2895",
+    "title": "マジ軟派、初撮。 1944 真面目系お嬢様をいただきます♪押しに弱く思考停止してる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "りな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2895"
+  },
+  {
+    "id": 541259,
+    "IDcode": "200GANA-2896",
+    "title": "マジ软派、初撮。 1945 ダメ…とか言いつつ腰が止まらない！！初めは声を我慢していた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2896"
   }
 ];

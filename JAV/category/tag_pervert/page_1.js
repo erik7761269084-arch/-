@@ -12,7 +12,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "加勒比系",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/08/16/adc9a4021354dbdc95ad3cfcceb70802.jpg",
     "actress": [],
@@ -29,8 +35,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/42f1b0da486b2ff47b28369c7b943240.jpg",
     "actress": [],
@@ -46,8 +52,14 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7e4e31eb0592de630b8b/cover.jpg",
     "actress": [],
@@ -66,8 +78,14 @@ window.PAGE_DATA = [
       "高端素人",
       "素人企画"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "2019-11-15",
     "cover_url": "https://tutu1.space/images/2020/04/11/QQ20200412033837.jpg",
     "actress": [
@@ -88,12 +106,73 @@ window.PAGE_DATA = [
       "痴汉",
       "街头采访"
     ],
-    "type": "",
-    "company": "DOC",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
+    ],
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/489fcfe8d33fb710c2c10b048a985a77.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0501"
+  },
+  {
+    "id": 103258,
+    "IDcode": "326GAR-375",
+    "title": "ちびっこという立場を利用してギャルにエッチなイタズラをしまくる悪ガキ3人組！！ ギャルVS悪ガキ痴漢レイプ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "恶作剧",
+      "强奸",
+      "素人",
+      "性骚扰",
+      "企画",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2013-12-05",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "武井麻希",
+      "広瀬藍子",
+      "滝沢かのん",
+      "相叶レイカ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-375"
+  },
+  {
+    "id": 99871,
+    "IDcode": "326GAR-388",
+    "title": "ギャルVS 悪ガキ痴漢レイプ！！ 2 不法侵入編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "强奸",
+      "素人",
+      "性骚扰",
+      "企画",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2014-04-10",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "上原花恋",
+      "藤本紫媛",
+      "爱咲リア",
+      "凉风ことの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-388"
   },
   {
     "id": 99740,
@@ -110,8 +189,8 @@ window.PAGE_DATA = [
       "企画",
       "女生"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2015-02-05",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1gar416/1gar416pl.jpg",
     "actress": [
@@ -134,8 +213,8 @@ window.PAGE_DATA = [
       "痴汉",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2022-05-04",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/4bd213700666208a7346d7d7ea55b6c4.jpg",
     "actress": [],
@@ -152,8 +231,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230112/MgojPzQ6/1.jpg",
     "actress": [],
@@ -170,8 +249,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230118/VCUYvyWP/1.jpg",
     "actress": [],
@@ -188,8 +267,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250517/LJeVMr4o/1.jpg",
     "actress": [],
@@ -206,8 +285,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230604/pb_e_537och-004.jpg!320x216.jpg",
     "actress": [],
@@ -224,8 +303,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250517/ZLDoaJzf/1.jpg",
     "actress": [],
@@ -242,8 +321,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250517/GZhHkWtq/1.jpg",
     "actress": [],
@@ -260,8 +339,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250517/pXKCEgnD/1.jpg",
     "actress": [],
@@ -278,8 +357,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230629/pb_e_537och-008.jpg!320x216.jpg",
     "actress": [],
@@ -296,8 +375,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250517/77FZB7R8/1.jpg",
     "actress": [],
@@ -314,8 +393,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230709/pb_e_537och-010.jpg!320x216.jpg",
     "actress": [],
@@ -332,8 +411,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221229/gEOHmQRn/1.jpg",
     "actress": [],
@@ -350,8 +429,8 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250517/5Qwnw1qq/1.jpg",
     "actress": [],
@@ -367,8 +446,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f1397f724fb7747fae8d9ae8d809c5eb.jpg",
     "actress": [],
@@ -384,12 +463,120 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-9/32cad2d0776cab4c6b058aa7894958ee.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-111"
+  },
+  {
+    "id": 102937,
+    "IDcode": "AP-114",
+    "title": "媚薬口移しレズ痴漢！！！！！超満員電車で気弱そうなウブ女子校生をレズ痴漢しまくり濃厚なキスで媚薬を口移しで飲ませたらド淫乱娘に豹変！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "女同接吻",
+      "企画",
+      "性骚扰",
+      "药物",
+      "女同性恋",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2014-04-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "琥珀歌",
+      "雪本芽衣",
+      "朝仓・アヴィゲイル・日菜子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-114"
+  },
+  {
+    "id": 98408,
+    "IDcode": "AP-127",
+    "title": "女子校生通学路連れ回し痴漢 お嬢様女子校の通学路でウブそうなお嬢様女子校生に声をかけ道を聞くフリをして路地に連れ込みお漏らしするほど感じさせろ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "大小姐",
+      "放尿",
+      "性骚扰",
+      "企画",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2014-06-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "通野未帆",
+      "小西真理繪",
+      "橘咲良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-127"
+  },
+  {
+    "id": 166365,
+    "IDcode": "AP-172",
+    "title": "清純そうな顔してまさかの裏切りTバック！！逆ギレち○ぽ擦り付け図書館痴漢 図書館でマジメに勉強している清純そうな眼鏡女子校生のパンツが見たくてスカートの中に鏡を忍ばせて覗いたらTバックでビックリ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-172"
+  },
+  {
+    "id": 223641,
+    "IDcode": "AP-187",
+    "title": "少妇初遇电车痴汉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "痴汉"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-187"
+  },
+  {
+    "id": 166366,
+    "IDcode": "AP-412",
+    "title": "社員旅行でハメをはずし過ぎて泥酔した巨乳女子社員を痴漢して中出ししちゃったビデオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "中文字幕",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-412"
   },
   {
     "id": 73806,
@@ -406,8 +593,8 @@ window.PAGE_DATA = [
       "中出",
       "各种职业"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/22c5b74eda1413feab58dbf5bab76312.jpg",
     "actress": [
@@ -434,8 +621,8 @@ window.PAGE_DATA = [
       "各种职业",
       "放尿"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/75197bc43f51d217347a1c391c470074.jpg",
     "actress": [
@@ -448,6 +635,51 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-526"
   },
   {
+    "id": 99139,
+    "IDcode": "AP-533",
+    "title": "ファミレスバイト巨乳娘痴漢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "凌辱",
+      "性骚扰",
+      "制服",
+      "巨乳",
+      "各种职业"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2018-04-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森春流",
+      "蒼空なつき",
+      "ちなみん",
+      "河原かえで"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-533"
+  },
+  {
+    "id": 208951,
+    "IDcode": "AP-536",
+    "title": "巨乳彼女寝取り中出し痴漢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-536"
+  },
+  {
     "id": 208813,
     "IDcode": "AP-538",
     "title": "満員電車で身動きの取れない母娘を痴漢し",
@@ -457,12 +689,55 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6781671989def9b1b8dbccf1/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-538"
+  },
+  {
+    "id": 72299,
+    "IDcode": "AP-539",
+    "title": "温泉旅館痴漢 全員爆乳SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "和服，丧服",
+      "凌辱",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "羽生ありさ",
+      "若槻みづな",
+      "優月真裡奈",
+      "澁谷果歩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-539"
+  },
+  {
+    "id": 209075,
+    "IDcode": "AP-541",
+    "title": "勃起チポ擦り付け中出し痴漢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-541"
   },
   {
     "id": 72222,
@@ -479,12 +754,29 @@ window.PAGE_DATA = [
       "新娘，年轻妻子",
       "中出"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0c26117938b1a5fc80641867eb4c1939.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-586"
+  },
+  {
+    "id": 208905,
+    "IDcode": "AP-618",
+    "title": "絶頂S字イキ中出し痴漢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-618"
   },
   {
     "id": 71011,
@@ -501,8 +793,8 @@ window.PAGE_DATA = [
       "性骚扰",
       "高中女生"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d5ccb68778a7355d29e203b901a38724.jpg",
     "actress": [
@@ -527,8 +819,8 @@ window.PAGE_DATA = [
       "巨乳",
       "高中女生"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/35f4abc99416ccffc4947cca0fe22961.jpg",
     "actress": [
@@ -556,8 +848,8 @@ window.PAGE_DATA = [
       "素人作品",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/86369e1e510b42421b730a61967dc2a0.jpg",
     "actress": [],
@@ -574,8 +866,8 @@ window.PAGE_DATA = [
       "痴汉",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/13/69152b794a81c2286fcca858/poster2.jpg",
     "actress": [],
@@ -592,8 +884,8 @@ window.PAGE_DATA = [
       "痴汉",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/04/690956e5e264e6282dff932f/poster2.jpg",
     "actress": [],
@@ -616,8 +908,8 @@ window.PAGE_DATA = [
       "各种职业",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2019-05-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/dca3bb9f86cb0cc408ce6937f8678bff.jpg",
     "actress": [
@@ -639,8 +931,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690ad0081fcdee36fa75dfc3/poster2.jpg",
     "actress": [],
@@ -657,8 +949,8 @@ window.PAGE_DATA = [
       "痴汉",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c7b5a8e8eb72804b25135/poster2.jpg",
     "actress": [],
@@ -674,8 +966,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/5a5da831278c5b59a951c9b170f7b737.jpg",
     "actress": [],
@@ -691,8 +983,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903dad2d6fbef4e901a9146/poster2.jpg",
     "actress": [],
@@ -708,8 +1000,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903dfd9d6fbef4e901abab5/poster2.jpg",
     "actress": [],
@@ -730,8 +1022,8 @@ window.PAGE_DATA = [
       "药物",
       "泳装"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/45b7ce1573aa06e1c8bb7139bc2ce517.jpg",
     "actress": [],
@@ -747,8 +1039,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4ed4b27bc4c8953cd6473a845bf49491.jpg",
     "actress": [],
@@ -768,8 +1060,8 @@ window.PAGE_DATA = [
       "学校作品",
       "高中女生"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2019-11-07",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200922-1/d77e12c1e796dc167b23fdf20b8a7608.jpg",
     "actress": [
@@ -787,8 +1079,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/28/690013fd7de28f4edeace947/poster2.jpg",
     "actress": [],
@@ -809,8 +1101,8 @@ window.PAGE_DATA = [
       "中出",
       "高中女生"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2019-11-07",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ap711/ap711pl.jpg",
     "actress": [],
@@ -831,8 +1123,8 @@ window.PAGE_DATA = [
       "姐姐",
       "各种职业"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/75e27bd5f02ce7e3ff4f8bc0b8bfeb93.jpg",
     "actress": [
@@ -859,8 +1151,8 @@ window.PAGE_DATA = [
       "各种职业",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/097177f7f4976a96398d5c979e58248d.jpg",
     "actress": [],
@@ -876,8 +1168,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0b84a31a2714f1c5bbc0e/cover.jpg",
     "actress": [],
@@ -893,12 +1185,30 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0ba9a31a2714f1c5bc7af/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-767"
+  },
+  {
+    "id": 166634,
+    "IDcode": "AVOP-356",
+    "title": "過激痴漢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-356"
   },
   {
     "id": 87593,
@@ -918,8 +1228,8 @@ window.PAGE_DATA = [
       "素人作品",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ab539d9e9c018e28128c15ec0303c021.jpg",
     "actress": [
@@ -931,6 +1241,38 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-460"
   },
   {
+    "id": 99365,
+    "IDcode": "BBAN-056",
+    "title": "オフィスレディレズ痴漢～蒸れた黒パンスト、真夏の汗だく女性専用車両～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "屁股",
+      "OL",
+      "女同接吻",
+      "性骚扰",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "2015-10-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "神ユキ",
+      "大场唯",
+      "千乃杏美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-056"
+  },
+  {
     "id": 410910,
     "IDcode": "BBAN-413",
     "title": "制服OO蕾絲邊痴漢 騷疼身軀被卑猥手法搞到上癮般敏感開發…。 都崎彩芽 木下日葵",
@@ -940,8 +1282,14 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "BIBIAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cd5d089def9b1b8bebdf1/cover.jpg",
     "actress": [],
@@ -957,8 +1305,14 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "BIBIAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce11889def9b1b8bebea0/cover.jpg",
     "actress": [],
@@ -975,8 +1329,14 @@ window.PAGE_DATA = [
       "痴汉",
       "巨乳"
     ],
-    "type": "",
-    "company": "KIRAKIRA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59d7bcf22ae3e0418df36/cover.jpg",
     "actress": [],
@@ -992,8 +1352,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/926b24393418449849adf07bc57c8a76.jpg",
     "actress": [],
@@ -1009,8 +1369,14 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "KAWAII",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20240214/cawd542pl.jpg!320x216.jpg",
     "actress": [],
@@ -1026,8 +1392,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a5383a8cce1a927afcd8d4/cover.jpg",
     "actress": [],
@@ -1048,8 +1414,8 @@ window.PAGE_DATA = [
       "女同性恋",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2010-09-19",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/crpd364/crpd364pl.jpg",
     "actress": [
@@ -1078,8 +1444,8 @@ window.PAGE_DATA = [
       "乳房",
       "连裤袜"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/03f743dd0f609a47297df2728dba8b19.jpg",
     "actress": [],
@@ -1099,8 +1465,8 @@ window.PAGE_DATA = [
       "性骚扰",
       "颜射"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/cd6f2fdd6cfe8d73444fbad99956e163.jpg",
     "actress": [
@@ -1121,8 +1487,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241103-1/ec8fd551b5af810669aa7bb7f8d75501.jpg",
     "actress": [],
@@ -1138,8 +1504,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20fa1db8c77d79bb6971a/cover.jpg",
     "actress": [],
@@ -1155,8 +1521,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d990b9ce5a404e9bbb89eb/cover.jpg",
     "actress": [],
@@ -1179,14 +1545,41 @@ window.PAGE_DATA = [
       "素人作品",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2019-10-07",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/drmp003/drmp003pl.jpg",
     "actress": [
       "樱美雪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRMP-003"
+  },
+  {
+    "id": 95417,
+    "IDcode": "DRPT-073",
+    "title": "満員電車で肛門がくぱぁして閉じられなくなるほどアナル開発されてしまった美人OL 美波こづえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "屁股",
+      "羞耻",
+      "肛交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-073"
   },
   {
     "id": 8527,
@@ -1230,8 +1623,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "公共場所"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250206/e1c2d596-4f38-4e3a-b7ae-61fa9b18e98e.jpg",
     "actress": [
@@ -1288,14 +1687,72 @@ window.PAGE_DATA = [
       "騎乗位",
       "公共場所"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175832581581_thumbnail.webp",
     "actress": [
       "橘日向"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-090"
+  },
+  {
+    "id": 60133,
+    "IDcode": "DRPT-095",
+    "title": "満員電車で吊り革にぶら下げられ両乳首同時開発のすえ無念の発情してしまった巨乳美女3 丸最レア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "痴汉",
+      "玩具",
+      "羞耻",
+      "拘束",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "丸石稀有"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-095"
+  },
+  {
+    "id": 88316,
+    "IDcode": "DV-1126",
+    "title": "全員痴漢バス 麻美ゆま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "性骚扰",
+      "凌辱"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "麻美由真"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1126"
   },
   {
     "id": 409756,
@@ -1307,8 +1764,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c92a6ad6fbef4e90aeaa09/cover.jpg",
     "actress": [],
@@ -1324,8 +1781,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c264965fdaf263a270a351/cover.jpg",
     "actress": [],
@@ -1341,8 +1798,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec210d52c12b4e6846c36a/cover.jpg",
     "actress": [],
@@ -1365,8 +1822,8 @@ window.PAGE_DATA = [
       "性骚扰",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2019-02-13",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250425-1/5b9bd03fd483a860ea3f5cc44ca6a305.jpg",
     "actress": [
@@ -1377,7 +1834,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 116704,
-    "IDcode": "FC2-4520627",
+    "IDcode": "FC2-PPV-4520627",
     "title": "突然參加大雞巴直擊痴漢臉蛋",
     "year": "",
     "country": "",
@@ -1385,12 +1842,18 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "publish_date": "2025-07-29",
     "cover_url": "https://lust103.cc/upload/vod/20250801-1/97b3efa92cdfae18f5154404f9ca427b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-4520627"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4520627"
   },
   {
     "id": 561133,
@@ -1402,12 +1865,29 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/Jxq4Jwj7/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGEN-012"
+  },
+  {
+    "id": 518635,
+    "IDcode": "FPP-015",
+    "title": "商战OL电车痴汉实录：神宫寺奈绪×三上悠亚被迫发情！睡过站的OL被连续侵犯4小时，淫水横流的强制中出繁殖祭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPP-015"
   },
   {
     "id": 409444,
@@ -1419,8 +1899,14 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef3a8831a2714f1c595184/cover.jpg",
     "actress": [],
@@ -1437,12 +1923,40 @@ window.PAGE_DATA = [
       "素人",
       "痴汉"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/9923bb680b335834d6b008472e029152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-010"
+  },
+  {
+    "id": 98852,
+    "IDcode": "GEGE-025",
+    "title": "勤務時間中の美尻OLを倉庫痴漢！無理やり脱がされた丸見えアナルに媚薬オイルを塗り込み2穴中出し！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "多P",
+      "OL",
+      "肛交",
+      "性骚扰",
+      "制服"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2018-11-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEGE-025"
   },
   {
     "id": 465905,
@@ -1454,12 +1968,36 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/27/67c014c64e7d663df4b507ce/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIRO-029"
+  },
+  {
+    "id": 81635,
+    "IDcode": "GOJU-137",
+    "title": "電車痴● 接吻挑発されて発情した熟女たち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "成熟的女人",
+      "素人作品",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-01-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "柏木舞子",
+      "木村志乃",
+      "藤原京子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOJU-137"
   },
   {
     "id": 516499,
@@ -1471,8 +2009,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68ff1e09dd88d14f0657af89/poster2.jpg",
     "actress": [],
@@ -1495,8 +2033,14 @@ window.PAGE_DATA = [
       "迷你裙",
       "高中女生"
     ],
-    "type": "",
-    "company": "GOGOS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GOGOS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
+        "works_count": 929
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c2411d264c919afabed2ccc46ecbb811.jpg",
     "actress": [
@@ -1519,8 +2063,14 @@ window.PAGE_DATA = [
       "性骚扰",
       "素人作品"
     ],
-    "type": "",
-    "company": "GOGOS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GOGOS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
+        "works_count": 929
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/ec6a561b525eba8ff8ead5fcc041e7bf.jpg",
     "actress": [
@@ -1540,8 +2090,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e743cc179ffb1db5fdaf8/cover.jpg",
     "actress": [],
@@ -1557,8 +2107,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e78022a47ebb1a877f8f0/cover.jpg",
     "actress": [],
@@ -1574,8 +2124,14 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2039cdb8c77d79bb694f6/cover.jpg",
     "actress": [],
@@ -1592,8 +2148,8 @@ window.PAGE_DATA = [
       "痴汉",
       "高清画质"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/4de8ef648403f396489e6d77eab9418a.jpg",
     "actress": [],
@@ -1609,8 +2165,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e1e32dd6fbef4e90e01ad6/cover.jpg",
     "actress": [],
@@ -1626,8 +2182,8 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcf614ce5a404e9bc46cc1/cover.jpg",
     "actress": [],
@@ -1644,513 +2200,11 @@ window.PAGE_DATA = [
       "人妻",
       "痴汉"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee1644e7d663df4e2a7f8/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIVL-001"
-  },
-  {
-    "id": 168397,
-    "IDcode": "HMN-416",
-    "title": "學生時代的電車痴漢-東條夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "",
-    "company": "本中",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b252ae7e672bea5f12a79/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-416"
-  },
-  {
-    "id": 11155,
-    "IDcode": "HMN-597",
-    "title": "电车痴汉NTR-藤森里穗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "倉庫",
-      "猥亵",
-      "報復",
-      "痴漢",
-      "凌辱",
-      "美腳",
-      "強姦",
-      "羞恥",
-      "色白",
-      "美乳",
-      "變態",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "兩男一女",
-      "痴汉",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "性騷擾",
-      "淫亂",
-      "淫妻",
-      "特效",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "輪姦",
-      "上司女友・妻子",
-      "電車",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "本中",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67876216c179ffb1db907be2/cover.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-597"
-  },
-  {
-    "id": 8997,
-    "IDcode": "HMN-655",
-    "title": "电车痴汉NTR-五日市芽依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "若妻",
-      "猥亵",
-      "臀控",
-      "美腳",
-      "OL",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "制服",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "痴汉",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "淫妻",
-      "中出",
-      "蕩婦",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "上司女友・妻子",
-      "電車",
-      "脅迫做愛",
-      "黑絲",
-      "女上位",
-      "偷窺",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "本中",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb400c4e7d663df4a10204/cover.jpg",
-    "actress": [
-      "五日市芽依"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-655"
-  },
-  {
-    "id": 74586,
-    "IDcode": "HND-691",
-    "title": "背後から膣奥深く侵入する鬼畜チ○ポにイキ堕ちる危険日孕ませバック痴漢 藤波さとり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "校服",
-      "中出",
-      "性骚扰",
-      "美少女电影",
-      "轮奸"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2019-06-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250103-1/81bf558ddf87b4714b967b953f573826.jpg",
-    "actress": [
-      "幸田ユマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-691"
-  },
-  {
-    "id": 103214,
-    "IDcode": "HND-729",
-    "title": "背後から膣奥深く侵入する鬼畜チ○ポにイキ堕ちる危険日孕ませバック痴漢 渚みつき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "校服",
-      "屁股",
-      "中出",
-      "性骚扰",
-      "美少女电影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/678295bfc179ffb1db75fdd9/cover.jpg",
-    "actress": [
-      "渚光希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-729"
-  },
-  {
-    "id": 409939,
-    "IDcode": "HTDD-020",
-    "title": "通学痴漢電車 腰くだけ女子校生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8e7347f3b7c929073bdd2/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTDD-020"
-  },
-  {
-    "id": 516218,
-    "IDcode": "HUNBL-046",
-    "title": "壁咚抵住素股射精痴漢後精液滿溢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84b05d6fbef4e90cd1b53/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-046"
-  },
-  {
-    "id": 561356,
-    "IDcode": "HUNTC-046",
-    "title": "心の声が闻こえる电车痴汉！えっウソ！ダメ！お愿い！そこで止めないで！イキそうなのに…（※心の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "",
-    "company": "HUNTER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240326/Nb78oeTx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-046"
-  },
-  {
-    "id": 10463,
-    "IDcode": "HUNTC-296",
-    "title": "心の声が聞こえる電車痴●！2 えっ！？ウソ！ダメ！お願い！そこで止めないで！イキそうなのに…（※心の声）痴●被害者女性の心の声が聞こえる…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "猥亵",
-      "完全着衣",
-      "痴漢",
-      "凌辱",
-      "美少女",
-      "肉絲",
-      "癡女",
-      "羞恥",
-      "變態",
-      "制服",
-      "口交",
-      "熟女",
-      "潮吹",
-      "痴汉",
-      "人妻",
-      "美人妻",
-      "性騷擾",
-      "中出",
-      "後入",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "電車",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "HUNTER",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7d92edc101930b4b65b1/cover.jpg",
-    "actress": [
-      "椿莉香",
-      "宮西光",
-      "藤井蕾菈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-296"
-  },
-  {
-    "id": 71231,
-    "IDcode": "HUNTC-304",
-    "title": "エロ漫画の様な被害者女性の心の声が聞こえる電車痴●！！＆時間停止×心の声ver特別収録！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "凌辱",
-      "多P",
-      "中出",
-      "口交",
-      "各种职业"
-    ],
-    "type": "",
-    "company": "HUNTER",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68deddd6dbf24d4ed317eae0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-304"
-  },
-  {
-    "id": 66213,
-    "IDcode": "HUNTC-377",
-    "title": "心の声が聞こえる電車痴●！えっ！？ウソ！ダメ！お願い！そこで止めないで！イキそうなのに…（※心の声）痴●被害者女性の心の声が聞こえる…3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "凌辱",
-      "多P",
-      "中出",
-      "颜射",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "HUNTER",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c29670c6d1004ed42997d1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-377"
-  },
-  {
-    "id": 99884,
-    "IDcode": "IENE-332",
-    "title": "丸の内OL向け痴漢撃退セミナー開催！と言いつつロクな撃退法を教えず、素人OLに痴漢AVばりの触りまくり実習",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "OL",
-      "素人",
-      "性骚扰",
-      "企画",
-      "轮奸"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2013-10-24",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1iene332/1iene332pl.jpg",
-    "actress": [
-      "保坂えり",
-      "森川ななせ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-332"
-  },
-  {
-    "id": 19381,
-    "IDcode": "IPX-072",
-    "title": "被电车痴汉集团携手侵犯落入包围再也无法逃脱的女高中生-桃乃木香奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "女學生",
-      "美少女",
-      "強姦",
-      "巨乳",
-      "數位馬賽克"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230522/20230522031846720720.jpg",
-    "actress": [
-      "桃乃木香奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-072"
-  },
-  {
-    "id": 74502,
-    "IDcode": "IPX-366",
-    "title": "初凌辱！ 声優ハンター痴漢電車 怯えているワタシを何度もイカせる辱めセックス 優月心菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "性骚扰",
-      "偷窥",
-      "戏剧"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782836189def9b1b8e47a20/cover.jpg",
-    "actress": [
-      "优月心菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-366"
-  },
-  {
-    "id": 107665,
-    "IDcode": "IPZZ-083",
-    "title": "前往外派地点的通勤电车2小时总是被挑逗…被开发… 持续被电车痴汉搞一个月成为全身性感带的我… 古川穗花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "痴汉",
-      "苗条",
-      "凌辱",
-      "OL",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5063c179ffb1db9cdf80/cover.jpg",
-    "actress": [
-      "古川穗花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-083"
-  },
-  {
-    "id": 165744,
-    "IDcode": "IRO-033",
-    "title": "巨乳妻揉みまくり痴漢執拗な乳揉みを繰り返され",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221003/h_086iro33pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IRO-033"
-  },
-  {
-    "id": 474159,
-    "IDcode": "IRO-053",
-    "title": "人妻痴漢電車～さわられた五十路う母～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "痴汉"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250526-1/ea2807d2ade76b710ba2b0175360017e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IRO-053"
-  },
-  {
-    "id": 515927,
-    "IDcode": "IRO053",
-    "title": "电车痴汉魔爪伸向五十路熟母！人妻车厢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "痴汉"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/21/6855acea43d6972716f77e06/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IRO053"
-  },
-  {
-    "id": 524685,
-    "IDcode": "IRO59",
-    "title": "饥渴50岁熟女吉井美希电车痴汉实录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250720-1/0c261692718b0c72b381abf4f041015f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IRO59"
-  },
-  {
-    "id": 517499,
-    "IDcode": "IRO60",
-    "title": "五十路熟婦電車痴漢侵犯 被摸到淫水直流",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/686470b53ed39b57c055a123/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IRO60"
   }
 ];

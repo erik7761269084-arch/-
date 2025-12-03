@@ -1,1120 +1,1241 @@
 window.PAGE_DATA = [
   {
-    "id": 564292,
-    "IDcode": "TENH-007",
-    "title": "ナンパにホイホイついてきちゃった素人熟女に谢礼即金交渉で粘りに粘ってフェラ発射！！30人4时间",
+    "id": 4052,
+    "IDcode": "STCV-574",
+    "title": "【流出映像】社会人卓球サークル男女8人大乱交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230609/hjJXttTJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENH-007"
-  },
-  {
-    "id": 88828,
-    "IDcode": "TENH-008",
-    "title": "六十路五十路四十路限定！ニセチンFUCK初体験！素人熟女のじゅぶじゅぶ丸呑みディルドオナニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "素人",
-      "自慰",
-      "成熟的女人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-05-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20231209-1/7df4b4ecabd7b4fd93f1d9bc2cff6af5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENH-008"
-  },
-  {
-    "id": 544570,
-    "IDcode": "TENH-014",
-    "title": "ナンパにホイホイついてきちゃった素人熟女に谢礼即金交渉で粘りに粘ってフェラ発射！！第2弾 30人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/Dl2fETUv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENH-014"
-  },
-  {
-    "id": 566607,
-    "IDcode": "TENH-015",
-    "title": "ナンパにホイホイついてきちゃった素人熟女のノーハンドフェラ！！自宅に连れ込み口内射精。Vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/9tmEfMQa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENH-015"
-  },
-  {
-    "id": 566568,
-    "IDcode": "TENH-016",
-    "title": "六十路五十路四十路限定！ニセチンFUCK初体験！素人熟女のじゅぶじゅぶ丸呑みディルドオナニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/SmUKLLuk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENH-016"
-  },
-  {
-    "id": 60302,
-    "IDcode": "TENH-017",
-    "title": "ナンパにホイホイついてきちゃった素人熟女のセンズリ鑑賞！！お小遣い稼ぎにちょこっとモニタリングアルバイト。第2弾 50人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/9122edbf/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENH-017"
-  },
-  {
-    "id": 59728,
-    "IDcode": "TENH-018",
-    "title": "巨尻がぶるんぶるん揺れる！！杭打ち串刺し丸呑みピストン！！肉感もちもちヒップ素人熟女が膣奥までズブズブッ挿入ディルドオナニー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/268aab0f/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENH-018"
-  },
-  {
-    "id": 11701,
-    "IDcode": "TENN-029",
-    "title": "AVデビュー 20歳の決意 処女喪失ドキュメント ゆり 神咲ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "運動服裝",
       "小隻馬",
-      "紀錄片",
-      "素人",
-      "M男・M女",
-      "羞恥",
-      "出道作品",
-      "色白",
+      "多P",
+      "慾求不滿",
       "真實拍攝",
-      "處女",
-      "中出",
-      "蘿莉控",
-      "後入",
+      "集訓",
+      "美腳",
+      "癡女",
+      "胸控・戀乳癖",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
       "口交",
+      "形象俱樂部",
+      "高顏值",
+      "淫亂",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "運動女孩",
       "女上位",
-      "少女",
-      "騎乗位",
-      "紀念作",
-      "女優"
+      "乱交",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "FIRST STAR",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人CLOVER",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
+        "works_count": 344
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/1be77d67b95df6b8a1db22560dbe3724.jpg",
-    "actress": [
-      "神咲ゆり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-029"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STCV-574"
   },
   {
-    "id": 6568,
-    "IDcode": "TENN-032",
-    "title": "生娘処女 AVデビュー 今日で私は大人になります…私の初めて貰って下さい… 谷田かりな",
+    "id": 4053,
+    "IDcode": "STCV-576",
+    "title": "お尻を叩かれるのが大好きなHカップ巨乳娘と全力生ハメ♪部屋まで我慢できず階段で大量潮吹き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "泳裝",
+      "3P・4P",
+      "打手槍",
+      "獵豔",
+      "巨尻",
+      "多P",
+      "口爆",
+      "真實拍攝",
+      "豐滿",
+      "打屁股",
+      "苗條",
+      "辣妹/GAL系",
+      "美腳",
+      "癡女",
+      "色白",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "早漏",
+      "亂交 • 群P",
+      "性感",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "比基尼",
+      "搭訕",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "抹油",
+      "絕頂高潮",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人CLOVER",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
+        "works_count": 344
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STCV-576"
+  },
+  {
+    "id": 564734,
+    "IDcode": "STHS-012",
+    "title": "素人トーキョーNo.12 円光女子校生に生ハメ中出し！ なつ#まい#みづき#ことり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230207/o5CxVzC2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STHS-012"
+  },
+  {
+    "id": 564278,
+    "IDcode": "STHS-014",
+    "title": "素人トーキョーNo.14 円光女子校生に生ハメ中出し！ さや#こあ#りほ#あやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230613/mecBJPQn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STHS-014"
+  },
+  {
+    "id": 525840,
+    "IDcode": "STOL-112",
+    "title": "女性用风俗盗撮 本番交渉してくる素人女性のスケベな実态を隠し撮り 都内某店を利用する女性客4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250427/ZoD0EGEx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STOL-112"
+  },
+  {
+    "id": 588090,
+    "IDcode": "STOL-115",
+    "title": "南麻布某高级男士按摩店偷拍 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250807-1/a87934517481824e25d728461fa2a0c6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STOL-115"
+  },
+  {
+    "id": 2200,
+    "IDcode": "STOL-128",
+    "title": "ヌキなし健全店の裏側で生ハメ中出しを求める発情セラピスト 南麻布某高級メンズエステ盗撮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "小隻馬",
+      "素股",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "港區女子",
+      "苗條",
+      "偷拍・盜撮",
+      "辣妹/GAL系",
+      "臀控",
+      "美腳",
+      "癡女",
+      "羞恥",
+      "色白",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "比基尼",
+      "按摩・美容店",
+      "高顏值",
+      "按摩女郎",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "抹油",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "素人",
+      "拜金女",
+      "高妹",
+      "無毛",
+      "乳交",
+      "按摩・物理治療・美容",
+      "黑絲",
+      "女上位",
+      "丁字裤",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STOL-128"
+  },
+  {
+    "id": 517766,
+    "IDcode": "STOUCH088",
+    "title": "緊貼素人 小杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STOUCH088"
+  },
+  {
+    "id": 564894,
+    "IDcode": "STSK-056",
+    "title": "素人主妇4名 白昼不伦セックス流出 寝ている旦那の傍で背徳の汗だく连続生交尾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221202/LsCdai2T/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-056"
+  },
+  {
+    "id": 18446,
+    "IDcode": "STSK-093",
+    "title": "檢診中心-SP【盜撮記録】乳房検診4名 ～生睡強暴～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "醫院・診所",
+      "素人",
+      "強姦",
+      "迷姦",
+      "中出",
+      "巨乳",
+      "偷窺",
+      "偷拍・盜撮",
+      "業餘"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2023-10-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231006/708251e7-58ad-4e40-a3ee-56892ed5d267.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-093"
+  },
+  {
+    "id": 13603,
+    "IDcode": "STSK-130",
+    "title": "海灘別墅蕩婦仲夏比基尼女孩體內射精 SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳裝",
+      "4小時以上作品",
+      "飯店",
+      "故事集",
+      "苗條",
+      "美少女",
+      "美腳",
+      "羞恥",
+      "色白",
+      "巨乳",
+      "口交",
+      "性感",
+      "業餘",
+      "比基尼",
+      "丁字裤",
+      "中出",
+      "美腿",
+      "少女",
+      "絕頂高潮",
+      "美少女電影",
+      "素人",
+      "迷姦",
+      "劇情",
+      "偷窺"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20240704/0dda22d7-1937-49d1-9955-29aa54c173a6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-130"
+  },
+  {
+    "id": 13605,
+    "IDcode": "STSK-131",
+    "title": "未經許可的夏日祭NTR 不斷抱怨男友的青梅竹馬，爲了解決性欲進行無與倫比的性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小時以上作品",
+      "故事集",
+      "苗條",
+      "和服・浴衣・喪服",
+      "美少女",
+      "美腳",
+      "羞恥",
+      "色白",
+      "口交",
+      "節日限定",
+      "業餘",
+      "NTR",
+      "蠻橫嬌羞",
+      "淫妻",
+      "出軌",
+      "中出",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "美少女電影",
+      "素人",
+      "青梅竹馬",
+      "女上位",
+      "偷窺"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20240704/f2e99b5b-66b9-4eb8-8bcd-5f334d36b8f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-131"
+  },
+  {
+    "id": 13029,
+    "IDcode": "STSK-133",
+    "title": "南國度假超私人的女性SPA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗條",
+      "偷拍・盜撮",
+      "感官作品",
+      "美少女",
+      "美腳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "比基尼",
+      "按摩・美容店",
+      "蠻橫嬌羞",
+      "中出",
+      "蕩婦",
+      "美腿",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "抹油",
+      "美少女電影",
+      "素人",
+      "按摩・物理治療・美容",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba7166489841641837fb43/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-133"
+  },
+  {
+    "id": 544210,
+    "IDcode": "STSK-139",
+    "title": "素人水着ギャル 16名 湘南@海の家 “一滴も残さず颜にかけて！”大量颜射フェラチオ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-139"
+  },
+  {
+    "id": 9468,
+    "IDcode": "STSK-153",
+    "title": "チアガール ＃青春＃部活動＃きつねダンス＃生中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "更衣室",
+      "女學生",
+      "拉拉隊",
+      "苗條",
+      "美少女",
+      "美腳",
+      "羞恥",
+      "美乳",
+      "制服",
+      "清楚系",
+      "口交",
+      "性感",
+      "業餘",
+      "校花",
+      "中出",
+      "後入",
+      "美腿",
+      "少女",
+      "美臀",
+      "劇情",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "魔鬼系",
+      "同學",
+      "女上位",
+      "偷窺",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/ecc61b7d-564b-49df-a18d-e619ec0166cf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-153"
+  },
+  {
+    "id": 9466,
+    "IDcode": "STSK-154",
+    "title": "清楚でいやらしい女性教官が童貞臭香る若い生徒を誘惑し続ける路上教習～教習車で精子を搾り取り、童貞卒業中出し筆おろし教習～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "車震",
+      "奇聞趣事",
+      "艷遇",
+      "小隻馬",
+      "慾求不滿",
+      "家庭教師",
+      "飯店",
+      "故事集",
+      "苗條",
+      "女教師",
+      "美少女",
+      "肉絲",
+      "癡女",
+      "美腳",
+      "羞恥",
+      "勾引・誘惑",
+      "色白",
+      "美乳",
+      "制服",
+      "處男",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "美人妻",
+      "中出",
+      "後入",
+      "短裙・迷你裙",
+      "劇情",
+      "顏射",
+      "奇異的",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bbd9e0a681bb640db959a4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-154"
+  },
+  {
+    "id": 9464,
+    "IDcode": "STSK-156",
+    "title": "個人撮影会 かわちいKK 水着まで スイミンk@n",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳裝",
+      "女學生",
+      "口爆",
+      "媚藥・迷藥",
+      "4小時以上作品",
+      "素人作品",
+      "故事集",
+      "苗條",
+      "痴漢",
+      "美少女",
+      "美腳",
+      "強姦",
+      "JK校服",
+      "羞恥",
+      "色白",
+      "美乳",
+      "變態",
+      "過膝襪・小腿襪",
+      "清楚系",
+      "口交",
+      "性感",
+      "業餘",
+      "形象俱樂部",
+      "潮吹",
+      "寫真女郎",
+      "深喉",
+      "私房攝影",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "顏射",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "素人",
+      "魔鬼系",
+      "迷姦",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68babfcece3e366423ce6870/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-156"
+  },
+  {
+    "id": 588170,
+    "IDcode": "STSK-170",
+    "title": "高级公寓型男士按摩店※带有猥亵按摩手法与内射隐藏选项※全程隐藏摄影 收录10人特别篇 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250807-1/0296471f71f9457d01be68e055bc238a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-170"
+  },
+  {
+    "id": 61043,
+    "IDcode": "STVF-093",
+    "title": "素人パンチラ in 自宅で個人撮影会vol.96！セクシー過ぎるお姉さんたちによるエロエロコスプレ祭り！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STVF-093"
+  },
+  {
+    "id": 184120,
+    "IDcode": "STVF-095",
+    "title": "素人パンチラ in 自宅で個人撮影会vol.99！鮮度抜群な果物の様にみずみずしいフレッシュさ溢れ出る可憐な清純ガールたち大豊作の恥じらい撮影会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STVF-095"
+  },
+  {
+    "id": 16331,
+    "IDcode": "STZY-011",
+    "title": "彩月七緒（21歲），身材頑皮，立志成爲保育員的大學生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗條",
+      "美少女",
+      "美乳",
+      "口交",
+      "巨乳",
+      "性感",
+      "潮吹",
+      "內衣",
+      "中出",
+      "後入",
+      "少女",
+      "顏射",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "素人",
+      "無毛",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2024-02-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213013054529529.jpg",
+    "actress": [
+      "彩月七緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-011"
+  },
+  {
+    "id": 6552,
+    "IDcode": "STZY-017",
+    "title": "福岡最可愛的博多娘初登場 內部紀錄曝光 ~ 天神羽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "奇聞趣事",
+      "真實拍攝",
+      "苗條",
+      "4K",
+      "美腳",
+      "羞恥",
+      "美乳",
+      "清楚系",
+      "口交",
+      "形象俱樂部",
+      "中出",
+      "美人",
+      "企畫",
+      "紀錄片",
+      "後入",
+      "劇情",
+      "奇異的",
+      "紀念作",
+      "女優",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影",
+      "素人",
+      "無毛",
+      "女優面試",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2025-04-29",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428222923768768_s.webp",
+    "actress": [
+      "天神羽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-017"
+  },
+  {
+    "id": 2393,
+    "IDcode": "STZY-019",
+    "title": "AVデビュー前の秘蔵映像公開！Iカップシャカリキアルバイター女子大学生（20）小笠原菜乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "女優訪談",
-      "單體作品",
-      "素人",
-      "地味",
-      "出道作品",
-      "真人秀",
+      "奇聞趣事",
+      "小隻馬",
+      "二次元",
+      "口爆",
       "真實拍攝",
+      "豐滿",
+      "飯店",
+      "臀控",
+      "阪道系",
+      "4K",
+      "美少女",
+      "美腳",
+      "自拍性愛",
+      "羞恥",
+      "真人秀",
+      "出道作品",
+      "胸控・戀乳癖",
+      "美乳",
       "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "單體作品",
+      "短髮",
+      "高顏值",
+      "極品美人",
+      "內衣",
+      "蠻橫嬌羞",
+      "超爆乳",
       "美人",
       "企畫",
-      "紀錄片",
+      "美腿",
+      "少女",
+      "後入",
+      "美臀",
+      "顏射",
       "紀念作",
-      "女優"
-    ],
-    "type": "",
-    "company": "FIRST STAR",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/75ad4b3f7602c4c9471626737da329b1.jpg",
-    "actress": [
-      "谷田かりな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-032"
-  },
-  {
-    "id": 87666,
-    "IDcode": "THTP-087",
-    "title": "素人投稿ファイル01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "羞耻",
-      "4小时以上作品",
-      "素人",
-      "业余",
-      "SM",
-      "投稿"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-07-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230809-1/15af8cea4b49dae66b7d845467bba8a0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THTP-087"
-  },
-  {
-    "id": 88854,
-    "IDcode": "THTP-089",
-    "title": "素人投稿ファイル02【人妻マゾ特集】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "人妻",
-      "已婚妇女",
-      "羞耻",
-      "素人",
-      "业余",
-      "SM",
-      "投稿"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-09-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20231209-1/5bb2a4443773576ce5bb02ac89c671d4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THTP-089"
-  },
-  {
-    "id": 88847,
-    "IDcode": "THTP-091",
-    "title": "素人マニア秘匿SM投稿映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "捆绑",
-      "羞耻",
-      "4小时以上作品",
-      "素人",
-      "业余",
-      "SM",
-      "投稿"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-11-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/99e7715513fb8f1fdd209409f4569066.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THTP-091"
-  },
-  {
-    "id": 564926,
-    "IDcode": "THTP-101",
-    "title": "素人投稿 禁断の母子情交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241114/njI5A6gw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THTP-101"
-  },
-  {
-    "id": 4072,
-    "IDcode": "THU-053",
-    "title": "リアルガチ軟派 BEST PART.22",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "絕頂高潮",
+      "女優",
+      "清純",
       "舔陰",
-      "搭訕",
+      "脚控・戀足癖",
+      "美少女電影",
       "手指插入",
       "素人",
-      "中出",
-      "4小時以上作品",
+      "無毛",
+      "舔腳",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小笠原菜乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-019"
+  },
+  {
+    "id": 478162,
+    "IDcode": "STZY015S",
+    "title": "tarみぃつけた！まだ素人だった時の緊張のテスト撮影海沿いの街で育ち地元静岡ではアイドル扱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250802-1/b6e15780726f67e905123b12231f8fa1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY015S"
+  },
+  {
+    "id": 94721,
+    "IDcode": "SUJI-216",
+    "title": "個人撮影 素人自画撮りオナニー投稿映像10人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手指插入",
+      "素人",
+      "自慰",
+      "业余",
+      "淫语",
+      "投稿"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2024-01-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241031-1/ab16dc763b2a3689d1a83b9e6d3c52f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-216"
+  },
+  {
+    "id": 94710,
+    "IDcode": "SUJI-227",
+    "title": "個人撮影 金髪素人自画撮りオナニー投稿映像10人vol.01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手指插入",
+      "素人",
+      "自慰",
+      "白人",
+      "淫语",
+      "投稿"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2024-03-19",
+    "cover_url": "https://tuaskbgnekr.com/20240628/LEtdO8HS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-227"
+  },
+  {
+    "id": 78287,
+    "IDcode": "SUJI-230",
+    "title": "個人撮影 金髪素人自画撮りオナニー投稿映像10人vol.02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手指插入",
+      "素人",
+      "自慰",
+      "业余",
+      "白人",
+      "淫语"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2024-04-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/21f90b79086cd61c2332b909a1da7cda.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-230"
+  },
+  {
+    "id": 78435,
+    "IDcode": "SUJI-234",
+    "title": "個人撮影 金髪素人自画撮りオナニー投稿映像10人vol.03",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手指插入",
+      "素人",
+      "自慰",
+      "业余",
+      "白人",
+      "淫语"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2024-05-21",
+    "cover_url": "https://tuaskbgnekr.com/20240629/3WdkJFW4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-234"
+  },
+  {
+    "id": 7486,
+    "IDcode": "SUJI-270",
+    "title": "針對醉酒女性的強奸犯罪映像②",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "吞精",
+      "口爆",
       "素人作品",
+      "故事集",
+      "偷拍・盜撮",
+      "流汗",
+      "美腳",
+      "強姦",
+      "美乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "深喉",
+      "撿尸",
+      "中出",
       "美人",
       "企畫",
-      "女上位",
+      "美腿",
       "後入",
-      "口交",
-      "騎乗位",
-      "辣妹/GAL系"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-2/5c7b3cbe48106e443d641fc075a4f8be.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THU-053"
-  },
-  {
-    "id": 74000,
-    "IDcode": "TIKC-035",
-    "title": "ムチムチ素人娘にキメグスリを飲ませゴム無し巨根で突きまくってたら中出しOKの変態ラリ子ちゃんになりましたwww",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
+      "酒醉",
+      "美少女電影",
+      "手指插入",
       "素人",
-      "业余",
-      "中出",
-      "巨乳"
+      "魔鬼系",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2019-07-19",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8b1e03cdd1365864af39e8c604d1b3d7.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250316/20250316045823316316.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKC-035"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-270"
   },
   {
-    "id": 83873,
-    "IDcode": "TIKF-041",
-    "title": "【淫乱肉妻】ムチムチな肉感ボディーがエロ過ぎるおっとり素人美人妻の投稿ビデオ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "素人",
-      "巨大屁股",
-      "业余",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2020-01-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/f5c470c1d0e087d45c3a88aae5ffd913.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKF-041"
-  },
-  {
-    "id": 408372,
-    "IDcode": "TIKP-066",
-    "title": "派遣人氣超下流少妻到精力絶倫大肉棒素人男性家",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e6f7f98bc99dfdd032ca9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKP-066"
-  },
-  {
-    "id": 83032,
-    "IDcode": "TKBN-011",
-    "title": "「どうして私みたいなおばさんに声掛けて来るのよ」人妻ガチナンパ 嫌なふりして断らない不倫願望が肉体から漂う素人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0dd650fbe11f9230d6eb3455edceaaa1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKBN-011"
-  },
-  {
-    "id": 4379,
-    "IDcode": "TKOU-019",
-    "title": "ザーメン大量ぶっかけゴックン！拘束悶絶調教 小鳩るり",
+    "id": 6055,
+    "IDcode": "SUJI-278",
+    "title": "パイパン制服少●監●拘束調教中出しレ●プ映像集4時間",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "濕身",
       "3P・4P",
+      "女學生",
       "吞精",
       "多P",
-      "巨尻",
-      "M男・M女",
-      "慾求不滿",
-      "豐滿",
-      "網襪",
+      "小隻馬",
+      "口爆",
+      "媚藥・迷藥",
+      "真實拍攝",
+      "4小時以上作品",
+      "猥亵",
+      "插入異物",
+      "故事集",
       "唾液敷面",
-      "鬼畜片",
-      "臀控",
+      "打屁股",
+      "苗條",
+      "痴漢",
+      "感官作品",
       "凌辱",
+      "流汗",
+      "美少女",
       "緊縛",
+      "強姦",
+      "JK校服",
       "拘束・拷問",
       "羞恥",
-      "胸控・戀乳癖",
-      "大奶头",
-      "變態",
+      "綁架",
+      "美腳",
       "美乳",
+      "變態",
+      "監禁",
       "清楚系",
+      "早漏",
       "按摩棒",
       "亂交 • 群P",
-      "性感",
-      "巨乳",
       "口交",
-      "淫蕩・硬核",
+      "接吻",
+      "暗黑系",
       "形象俱樂部",
-      "單體作品",
+      "潮吹",
       "兩男一女",
+      "深喉",
       "高顏值",
+      "性騷擾",
       "淫亂",
-      "極品美人",
-      "超爆乳",
+      "校花",
+      "尾行",
       "中出",
       "美人",
-      "美腿",
       "後入",
+      "少女",
       "SM",
-      "劇情",
       "顏射",
       "絕頂高潮",
-      "女優",
-      "美臀",
-      "抹油",
-      "清純",
+      "輪姦",
       "舔陰",
+      "脚控・戀足癖",
       "美少女電影",
+      "清純",
       "手指插入",
       "素人",
+      "無毛",
+      "舔腳",
+      "迷姦",
       "魔鬼系",
-      "乳交",
       "調教",
       "白眼失神",
+      "蘿莉控",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "FIRST STAR",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/6896645055337d7f7babb8e0/cover.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517111715914914_thumbnail.webp",
     "actress": [
-      "小鳩琉璃"
+      "美雲そら",
+      "知花しおん",
+      "佐野なつ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-019"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-278"
   },
   {
-    "id": 592880,
-    "IDcode": "TNB-002",
-    "title": "川上ゆう彼氏あり女性限定 川上ゆうの素人NTRレズエステ 初めての同性SEXでいきなりベロキス・贝合わせ・ペニバン体験 new",
+    "id": 4381,
+    "IDcode": "SUJI-282",
+    "title": "房間裏只有你和我 素人自拍自慰視頻合集 ~ 有馬美月 天馬唯 雅子裡菜 宮城理惠 白石渚 宮西光 天月梓 牧野憐奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://pic59.anzise.com/pic/20230710/7eeafd26e0f49b11dfab2b4b87bb8964/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNB-002"
-  },
-  {
-    "id": 532443,
-    "IDcode": "TOKYO HOT JIRO003",
-    "title": "【国宝级のフワフワ天使☆完全素人】Ｓ级のルック",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/dv503cdnp44.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO HOT JIRO003"
-  },
-  {
-    "id": 535655,
-    "IDcode": "TOKYO HOT JUP0027",
-    "title": "【长尺３时间】可爱い素人娘２人がレズプレイ＆デカマラ黒人とハメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2021/03/hraxpb3ozhi.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO HOT JUP0027"
-  },
-  {
-    "id": 532467,
-    "IDcode": "TOKYO HOT NUKIMAX017",
-    "title": "笑颜に萌えキュンなピュア系素人娘は美巨乳でエッチが大好き★クンニに感じまくる声に大兴奋♪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/trm1ydewldi.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO HOT NUKIMAX017"
-  },
-  {
-    "id": 530248,
-    "IDcode": "TOKYO-HOT_RED-031",
-    "title": "东京热 レッドホットフェティッシュ Vol.19 三咲ちひろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190920-1/e0d7c2d63b0530473c32f2489e4854b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT_RED-031"
-  },
-  {
-    "id": 530243,
-    "IDcode": "TOKYO-HOT_RED-034",
-    "title": "东京热 レッドホットフェティッシュ Vol.22 浅野恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190917-1/f5f43a27ccf9c60243ece0dd6aa35eb5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT_RED-034"
-  },
-  {
-    "id": 530861,
-    "IDcode": "TOKYO-HOT-JPGC0304",
-    "title": "完全素人娘のハメ撮り・オナニー・フェラ抜きetc…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fengmian.fhfhtutu.com/upload/vod/20200808/jpgc0304.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-JPGC0304"
-  },
-  {
-    "id": 530860,
-    "IDcode": "TOKYO-HOT-JPGC0309",
-    "title": "完全素人娘のハメ撮り・オナニー・フェラ抜きetc…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fengmian.fhfhtutu.com/upload/vod/20200808/jpgc0309.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-JPGC0309"
-  },
-  {
-    "id": 541168,
-    "IDcode": "TOKYO-HOT-N-0238",
-    "title": "素人読者ﾓﾃﾞﾙ残虐汁饵食 滝川京子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/2020-01-24/157982199411.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-0238"
-  },
-  {
-    "id": 522313,
-    "IDcode": "TOKYO-HOT-TH-101-1110027",
-    "title": "素人娘 居酒屋でナンパ！ウブなのドキドキ初体験！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230615-1/2d4232b99237a52d8c7337212d4ee5b0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110027"
-  },
-  {
-    "id": 522302,
-    "IDcode": "TOKYO-HOT-TH-101-1110225",
-    "title": "美里麻衣 Full 版 SEX体験教室～ウブな素人娘ファイル4～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "高清画质",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230609-1/866c8244d24f11a91a4fe540f25b2091.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110225"
-  },
-  {
-    "id": 522255,
-    "IDcode": "TOKYO-HOT-TH-101-1110237",
-    "title": "美里麻衣 Full 版 美少女援交の一夜～ウブな素人娘ファイル2～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "高清画质",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230505-1/19b4e134ef47ba5b28ba89235c3aeeb9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-TH-101-1110237"
-  },
-  {
-    "id": 544987,
-    "IDcode": "TONV-001",
-    "title": "【ガチ流出】芸能 素人 アイドル エステ 业界人のSEXを盗撮、公开します。8名 第1弾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240827/7QDJnT6E/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TONV-001"
-  },
-  {
-    "id": 544991,
-    "IDcode": "TONV-002",
-    "title": "【ガチ流出】芸能 素人 アイドル エステ 业界人のSEXを●撮、公开します。8名 第2弾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240827/QlI3hU3X/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TONV-002"
-  },
-  {
-    "id": 544989,
-    "IDcode": "TONV-003",
-    "title": "【ガチ流出】芸能 素人 アイドル エステ 业界人のSEXを盗撮、公开します。7名 第3弾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240827/X1ieml7x/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TONV-003"
-  },
-  {
-    "id": 544990,
-    "IDcode": "TONV-004",
-    "title": "【ガチ流出】芸能 素人 アイドル エステ 业界人のSEXを●撮、公开します。7名 第4弾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240827/CClQ8JCI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TONV-004"
-  },
-  {
-    "id": 544566,
-    "IDcode": "TONV-006",
-    "title": "【ガチ流出】芸能 素人 アイドル エステ 业界人のSEXを●撮、公开します。6名 第6弾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/4BwjfjkH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TONV-006"
-  },
-  {
-    "id": 483554,
-    "IDcode": "TONV-007",
-    "title": "【真泄漏】娱乐圈，素人，偶像，美容院行业人士的SEX将被拍摄并公开。 8人第七版 未知演员 流出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/a61f2d38e0fd30b57702607036996273.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TONV-007"
-  },
-  {
-    "id": 553953,
-    "IDcode": "TOTSUGEKI024",
-    "title": "関西素人娘２名収录！平成14年生まれの若いポッチャリ系関西娘のオナニー、局部アップでアソコくぱぁ＆真面目系関西娘を３P乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱交"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220604-1/78cf0445e80f39621fd43cb2b3d9394d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTSUGEKI024"
-  },
-  {
-    "id": 554084,
-    "IDcode": "TOTSUGEKI027",
-    "title": "神社の境内で地面がビショビショに濡れるまで潮吹きするエッチな素人お姊さんを白昼堂々ハメ撮り中出し！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221127-1/3568f1ffc36d441530cb3d8e44f1a88c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTSUGEKI027"
-  },
-  {
-    "id": 101399,
-    "IDcode": "TOTTE-160",
-    "title": "街行く女子〇生がおま〇こ丸出し拘束されたまま何度もイカされ絶頂潮吹き！人生初の快感に火照りが止まらない素人娘はデカチンを見せつけられると連続生中出しも拒めない！マジックミラー号撮って出し！～ゆめ編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女优按摩棒",
-      "素人",
-      "猎艳",
-      "拘束",
-      "中出",
-      "素人作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-02-28",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-160"
-  },
-  {
-    "id": 91876,
-    "IDcode": "TOTTE-161",
-    "title": "街行く女子〇生がおま〇こ丸出し拘束されたまま何度もイカされ絶頂潮吹き！人生初の快感に火照りが止まらない素人娘はデカチンを見せつけられると連続生中出しも拒めない！マジックミラー号撮って出し！～こまり編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女优按摩棒",
-      "素人",
-      "猎艳",
-      "拘束",
-      "中出",
-      "素人作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240615-1/1d11a0538a347ded5c121b7c61d10a76.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-161"
-  },
-  {
-    "id": 91914,
-    "IDcode": "TOTTE-162",
-    "title": "街行く女子〇生がおま〇こ丸出し拘束されたまま何度もイカされ絶頂潮吹き！人生初の快感に火照りが止まらない素人娘はデカチンを見せつけられると連続生中出しも拒めない！マジックミラー号撮って出し！～もみじ編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女优按摩棒",
-      "素人",
-      "猎艳",
-      "拘束",
-      "中出",
-      "素人作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240615-1/0c5016e3c2645efdeea26df759fddbf7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-162"
-  },
-  {
-    "id": 91875,
-    "IDcode": "TOTTE-163",
-    "title": "街行く女子〇生がおま〇こ丸出し拘束されたまま何度もイカされ絶頂潮吹き！人生初の快感に火照りが止まらない素人娘はデカチンを見せつけられると連続生中出しも拒めない！マジックミラー号撮って出し！～ひなた編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女优按摩棒",
-      "素人",
-      "猎艳",
-      "拘束",
-      "中出",
-      "素人作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240615-1/94045aaa64979080c36ec1d413ee6f80.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-163"
-  },
-  {
-    "id": 91913,
-    "IDcode": "TOTTE-164",
-    "title": "街行く女子〇生がおま〇こ丸出し拘束されたまま何度もイカされ絶頂潮吹き！人生初の快感に火照りが止まらない素人娘はデカチンを見せつけられると連続生中出しも拒めない！マジックミラー号撮って出し！～ゆき編～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女优按摩棒",
-      "素人",
-      "猎艳",
-      "拘束",
-      "中出",
-      "素人作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240615-1/d2142461a5295dc58c27f6fe436c5579.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-164"
-  },
-  {
-    "id": 194838,
-    "IDcode": "TOTTE-243",
-    "title": "初めての移動式シーシャBar体験！興奮剤入りフレーバーで大胆になった男女が勃起したデカチンとおま〇こを擦り合わせたら素人娘は親友とSEXしてしまうのか？撮って出しマジックミラー号～あかり＆ゆうすけ編～ 四ノ宮もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/cd98bf48e330eb8ef8caddcbf6715241.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-243"
-  },
-  {
-    "id": 194788,
-    "IDcode": "TOTTE-246",
-    "title": "初めての移動式シーシャBar体験！興奮剤入りフレーバーで大胆になった男女が勃起したデカチンとおま〇こを擦り合わせたら素人娘は親友とSEXしてしまうのか？撮って出しマジックミラー号～なぎさ＆やまと編～ 松下りこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/12ce8055dedfdb0c570afc5e936bb174.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-246"
-  },
-  {
-    "id": 531210,
-    "IDcode": "TR-045",
-    "title": "ノットリミラー号“女のオーガズムを体験したい”素人さんを凭依させてあげませんか？ 心优しき巨乳お姊さんをナンパして素人男性を乘っ取らせました！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221209-1/537c443e9a2e1411cbb4d8f6ba6d2aab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TR-045"
-  },
-  {
-    "id": 594608,
-    "IDcode": "TR-2228",
-    "title": "四十多、五十多素人熟年女性的性爱记录～我是个变态…４名最爱下流事的素人熟年女性的性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240313/0npLMIoT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TR-2228"
-  },
-  {
-    "id": 468022,
-    "IDcode": "TSDK-101",
-    "title": "東京素人妹 美緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/27/67c0153a4e7d663df4b507ff/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TSDK-101"
-  },
-  {
-    "id": 530432,
-    "IDcode": "TSND-001",
-    "title": "ド素人。生意気娘倶楽部！！つんつんデレデレ反抗期 强がってもマ○コは濡れ濡れ青春ラプソディー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200314-1/354e0248f6dac02ae0d0c249ab3e92e4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TSND-001"
-  },
-  {
-    "id": 544970,
-    "IDcode": "TUE-144",
-    "title": "素人が撮影した人妻不伦エロ动画映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240829/1IetNYZj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-144"
-  },
-  {
-    "id": 579552,
-    "IDcode": "TUE-145",
-    "title": "巨乳女子●生素人个撮映像集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240829/0GYBxJib/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-145"
-  },
-  {
-    "id": 7769,
-    "IDcode": "TUE-158",
-    "title": "会員制高級メンズエステ店の本番行為記録映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口爆",
+      "無做愛場面",
+      "巨尻",
+      "慾求不滿",
       "真實拍攝",
-      "偷拍・盜撮",
-      "臀控",
+      "素人作品",
+      "插入異物",
+      "苗條",
+      "淫語",
       "美腳",
-      "癡女",
-      "胸控・戀乳癖",
+      "真人秀",
+      "色白",
+      "大奶头",
       "美乳",
-      "巨乳",
-      "口交",
+      "按摩棒",
+      "清楚系",
       "性感",
-      "形象俱樂部",
-      "按摩・美容店",
+      "跳蛋",
       "高顏值",
-      "風俗娘",
-      "按摩女郎",
-      "中出",
-      "蕩婦",
+      "明星臉",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
       "美人",
       "企畫",
       "美腿",
-      "後入",
       "美臀",
-      "脚控・戀足癖",
+      "投稿",
+      "清純",
       "美少女電影",
       "素人",
-      "拜金女",
-      "按摩・物理治療・美容",
+      "自慰"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bac5a0ce3e366423ce7eef/cover.jpg",
+    "actress": [
+      "天馬唯",
+      "天月梓",
+      "宮西光",
+      "北岡果林",
+      "宮城理惠",
+      "白石渚",
+      "雅子裡菜",
+      "有馬美月",
+      "牧野怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-282"
+  },
+  {
+    "id": 176663,
+    "IDcode": "SUKE-048",
+    "title": "428追求快感的超绝美素人登场情趣内衣变态索求性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUKE-048"
+  },
+  {
+    "id": 3080,
+    "IDcode": "SUMU-003",
+    "title": "ノーメイク！ノーフェイク！岸永みりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "素人作品",
+      "肉絲",
+      "美腳",
+      "美乳",
+      "清楚系",
+      "口交",
+      "形象俱樂部",
+      "單體作品",
+      "美人",
+      "企畫",
+      "後入",
+      "重口味",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "素人",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "GLAYz",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Tender",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Tender",
+        "works_count": 34
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/ee88d234446d3bb3177aa0d86855b9b8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-158"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210016782782_71439_thumbnail.webp",
+    "actress": [
+      "岸永みりな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUMU-003"
   },
   {
-    "id": 590316,
-    "IDcode": "TUS-061",
-    "title": "[]120％ 真实把妹传说 61 姫路搭讪素人美少女还中出！ 第1集",
+    "id": 166993,
+    "IDcode": "SUPA-212",
+    "title": "搭訕泳裝素人妹in湘南南方海灘",
     "year": "",
     "country": "",
     "genre": "",
@@ -1122,351 +1243,167 @@ window.PAGE_DATA = [
       "素人",
       "中文字幕"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221030-1/b7d613561c2edc3e7f27b9fcea6102f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUS-061"
-  },
-  {
-    "id": 565308,
-    "IDcode": "TUS-109",
-    "title": "120％リアルガチ软派伝说 vol．109 春のピチピチ素人势揃い！！やはり千叶娘はエロかった！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/mYf9D3QA.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUS-109"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-212"
   },
   {
-    "id": 92277,
-    "IDcode": "TVXPRESTIGE",
-    "title": "素人神乳美少女BESTvol.01形状、肤色、敏感度…20位神乳少女个未知演员。",
+    "id": 166490,
+    "IDcode": "SUPA-222",
+    "title": "最可愛素人婊子女大生下海給幹 惠奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240803-1/cfc2bc653acc2ac684a6ddd7fa10e59b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TVXPRESTIGE"
-  },
-  {
-    "id": 6851,
-    "IDcode": "TWDM-001",
-    "title": "台北ナンパ大作戦！ 南国美少女をその場でGET！素人台湾チア娘がこんなに大胆！？ SNSナンパで直撃アタック！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "獵豔",
-      "小隻馬",
-      "二次元",
-      "情趣飯店",
-      "素人作品",
-      "美少女",
-      "美腳",
-      "中日合作",
-      "美乳",
-      "口交",
-      "性感",
-      "業餘",
-      "形象俱樂部",
-      "搭訕",
-      "高顏值",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "國產女優",
-      "清純",
-      "美少女電影",
       "素人",
-      "蘿莉",
-      "台灣女優",
-      "女上位",
-      "騎乗位"
+      "中文字幕"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/69e551e1c49fd040c182159e46486b85.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TWDM-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-222"
   },
   {
-    "id": 6850,
-    "IDcode": "TWDM-002",
-    "title": "台北ナンパ大作戦！ 台北路地裏ナンパ！夜の街で見つけた超絶マゾ美女を即ナン！ 口説いてそのまま即ハメハメ！",
+    "id": 166492,
+    "IDcode": "SUPA-224",
+    "title": "搭訕海邊巨乳素人妹來幹砲！女大生特別版！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "獵豔",
-      "吞精",
-      "巨尻",
-      "M男・M女",
-      "口爆",
-      "豐滿",
-      "插入異物",
-      "性虐癖",
-      "唾液敷面",
-      "凌辱",
-      "緊縛",
-      "拘束・拷問",
-      "羞恥",
-      "中日合作",
-      "色白",
-      "按摩棒",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "搭訕",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "SM",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "國產女優",
       "素人",
-      "調教",
-      "台灣女優",
-      "白眼失神",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "中文字幕",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/3a26f6fc222e5d28dfa57edde8910541.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TWDM-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-224"
   },
   {
-    "id": 469868,
-    "IDcode": "TYOD-307",
-    "title": "抓到淫亂素人妹啦 OO內射自願被調教M女神 百合",
+    "id": 166856,
+    "IDcode": "SUPA-226",
+    "title": "完全初拍素人妹小M",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1ad74e4a73d4f159ac227/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYOD-307"
-  },
-  {
-    "id": 86567,
-    "IDcode": "TYSF-012",
-    "title": "ねぇあたしのマ●コでイイコトしない？普段出入りするbarに完全密着。プライベート素人おち●ぽハント 今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
       "素人",
-      "中出",
-      "女生",
-      "单体作品",
-      "倒追"
+      "中文字幕"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/77ab35a3a629febd758ad10465c14b78.jpg",
-    "actress": [
-      "今井夏帆"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYSF-012"
-  },
-  {
-    "id": 565299,
-    "IDcode": "TYSF-022",
-    "title": "彻底色女玩弄素人男的无套腔射性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4e7097e1576fa420d85b2b30263f78a5.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20230319/h_244supa00226pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYSF-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-226"
   },
   {
-    "id": 565298,
-    "IDcode": "TYSF-023",
-    "title": "素人女的初次被舔菊体验～给你零用钱，要试试在好友前面被舔菊吗？",
+    "id": 166857,
+    "IDcode": "SUPA-227",
+    "title": "素人辣妹從大阪跑來東京下海拍片真理奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/DtP3Bn0T.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYSF-023"
-  },
-  {
-    "id": 2408,
-    "IDcode": "UBUG-004",
-    "title": "Hカップ保育士、ガチ自宅で恥ずかし潮撒き散らしDEBUTドキュメント 花梨（二十歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "口爆",
-      "真實拍攝",
-      "豐滿",
-      "素人作品",
-      "癡女",
-      "羞恥",
-      "出道作品",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "大乳暈",
-      "潮吹",
-      "兩男一女",
-      "高顏值",
-      "淫亂",
-      "超爆乳",
-      "美人",
-      "企畫",
-      "後入",
-      "清純",
-      "舔陰",
-      "幼稚園老師",
-      "手指插入",
       "素人",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
+      "中文字幕"
     ],
-    "type": "",
-    "company": "MERCURY",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e179a379f1ac4ec48ed889/cover.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20230319/h_244supa00227pl.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UBUG-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-227"
   },
   {
-    "id": 211965,
-    "IDcode": "UMSO-025",
-    "title": "素人男優早漏-波多野結衣",
+    "id": 593115,
+    "IDcode": "SUPA-368",
+    "title": "‘脱いだら凄いんです’ Hカップ素人 Yちゃん 19歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "K.M.P",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/04/08/83a7fef49b9a710b63c24fed91b571b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-025"
-  },
-  {
-    "id": 88928,
-    "IDcode": "UMSO-525",
-    "title": "ほろ酔いで開放的になった素人女子とおとなの二次会！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "4小时以上作品",
       "素人",
-      "业余",
-      "巨乳",
-      "精选，综合"
+      "嫩妹"
     ],
-    "type": "",
-    "company": "K.M.P",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://tuaskbgnekr.com/20240831/1H9Nl59g/1.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/eb2870961272eda379838ddb08b1c6df.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-525"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-368"
   },
   {
-    "id": 565090,
-    "IDcode": "UMSO-574",
-    "title": "ほろ酔いで开放的になった素人女子とおとなの二次会！VOL.02",
+    "id": 593111,
+    "IDcode": "SUPA-383",
+    "title": "スリムジーンズが似合うS级素人 Tさん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "K.M.P",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250116/YCW1tvCS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-574"
-  },
-  {
-    "id": 587908,
-    "IDcode": "UMSO-590",
-    "title": "微醺状态下变得开放的素人女子与成年人的二次聚会！VOL.03 素人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "type": "",
-    "company": "K.M.P",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250808-1/70fadebd17514a9c7d8dc72d95839ad6.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/4f1dfda9d73c7936b9fef7b6e653df48.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-590"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-383"
   },
   {
-    "id": 70098,
-    "IDcode": "URKK-008",
-    "title": "素人発掘！先生志望の某有名大学ミスキャンパスを見つけた！透明感あってこんなに清楚で巨乳なのにスイッチが入ると敏感超イキまくりだった！！",
+    "id": 69867,
+    "IDcode": "SUPA-401",
+    "title": "露出度が高い過激な服装のビッチ素人ナンパ！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1477,717 +1414,1786 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
-    "company": "UNFINISHED",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/358152f9b5390fc5993b4055023ed1d5.jpg",
-    "actress": [
-      "桐谷奈緒"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-008"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/62cd3a0f0ac9e9e6468acaea35f74138.jpg",
+    "actress": [
+      "寶生莉莉",
+      "椎叶みくる",
+      "一二三铃",
+      "柳川まこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
   },
   {
-    "id": 590320,
-    "IDcode": "URKK-009",
-    "title": "[]素人爆乳地下偶像怀孕性交 椎叶美久流",
+    "id": 595504,
+    "IDcode": "SUPA-409",
+    "title": "S级素人殿堂入り 50人4时间 Part3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2c5259415c3c4baf7bb4e236c83bf814.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-409"
+  },
+  {
+    "id": 595396,
+    "IDcode": "SUPA-425",
+    "title": "独自ルートで入手したガチ素人カップルの温泉盗撮映像を、そのまま発売しちゃいました。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b4bfb02d12111bba10d8ac4733e73c17.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-425"
+  },
+  {
+    "id": 534465,
+    "IDcode": "SUPA-430",
+    "title": "カラダを売りにするS级素人Yさん（21歳）T160B82W56H90Hカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230223/h_244supa00430pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-430"
+  },
+  {
+    "id": 595170,
+    "IDcode": "SUPA-455",
+    "title": "行车记录器拍下的素人女大生鲜明性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/JZ1Mhpuw.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-455"
+  },
+  {
+    "id": 590285,
+    "IDcode": "SUPA-456",
+    "title": "[]清楚系S级素人AV出道！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "出道作",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221014-1/85e175df09d127029d89a4766ee53654.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-456"
+  },
+  {
+    "id": 70082,
+    "IDcode": "SUPA-460",
+    "title": "一人じゃ無理だけど友達と一緒だったからノリと勢いでAV出演しちゃった素人娘達全69人 4時間スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "业余",
+      "纪录片",
+      "素人作品",
+      "企画",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/36ee6deff98ebe846db1666ef104bc07.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-460"
+  },
+  {
+    "id": 595117,
+    "IDcode": "SUPA-465",
+    "title": "完全素人实录！限定已婚者的酒池肉林联谊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/UsaxJbEg.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-465"
+  },
+  {
+    "id": 593304,
+    "IDcode": "SUPA-479",
+    "title": "CN 夏休み特别企画！プール帰りの女子限定！‘水着でヌルヌルマットプレイ体験してみませんか？’という谢礼アリの企画に集められた素人娘たちはローションでヌルヌルになってカラダが火照ってしまい… めいさんのパンティとチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200131-1/69229f2aa5f7b4663f4e8bf7d5c0c143.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-479"
+  },
+  {
+    "id": 166337,
+    "IDcode": "SUPA-481",
+    "title": "Iカップ巨乳素人（19歳）完全プライベート撮影",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "中文字幕",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
-    "type": "",
-    "company": "UNFINISHED",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221031-1/b63e942f660e7fae519188def85cb373.jpg",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210727-1/bff936a176893d59267baaa6839703b4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-481"
   },
   {
-    "id": 13439,
-    "IDcode": "URKK-102",
-    "title": "素人流出動畫 居酒屋的淫亂服務",
+    "id": 565371,
+    "IDcode": "SUPA-482",
+    "title": "S级素人奉献的精选美巨乳×内射40人4小时Part",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "艷遇",
-      "多P",
-      "叛逆少女",
-      "慾求不滿",
-      "素人作品",
-      "苗條",
-      "偷拍・盜撮",
-      "美少女",
-      "羞恥",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "大亂交",
-      "兩男一女",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "服務生",
-      "後入",
-      "少女",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
       "素人",
-      "拜金女",
-      "酒吧",
-      "酒後亂性",
-      "女上位",
-      "騎乗位"
+      "巨乳"
     ],
-    "type": "",
-    "company": "UNFINISHED",
-    "publish_date": "2024-07-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20240710/baaf716b-f749-4c40-a509-eaa466990fcb.jpg",
-    "actress": [
-      "安堂はるの"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-102"
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191112-1/a97e37a8a6cbc323c97d9786f076185c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-482"
   },
   {
-    "id": 531035,
-    "IDcode": "USA-G",
-    "title": "003 【国产素人娘限定】新大久保オルチャン软派【デカ尻Gカップ】",
+    "id": 166136,
+    "IDcode": "SUPA-486",
+    "title": "Gカップ巨乳素人（19歳）完全プライベート撮影",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "中文字幕",
+      "巨乳",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-486"
+  },
+  {
+    "id": 538981,
+    "IDcode": "SUPA-490",
+    "title": "新村あかり- 本物全裸素人 セクシーヌードポーズファイル",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230318-1/7c2a8a7ba7dde3cb409e2db7284671d1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250320/A2Ldb7zf/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USA-G"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-490"
   },
   {
-    "id": 82087,
-    "IDcode": "USAG-004",
-    "title": "「視姦されるのが大好きな変態でごめんなさい…。変態な私を見てください。」365日チ○ポをハメていたい性欲モンスター素人娘が休憩無しのノンストップガチンコ輪●SEXでイキ狂う！",
+    "id": 594980,
+    "IDcode": "SUPA-494",
+    "title": "搭讪Ｓ级素人！温柔可爱药剂师数度温柔破处男SP",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "深喉",
-      "素人",
-      "业余"
+      "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2020-01-13",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221107-1/96886065a04023b7e453a0696887fda2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-004"
-  },
-  {
-    "id": 593642,
-    "IDcode": "USAG-012",
-    "title": "双性恋巨乳素人妻展露淫样高潮堕落",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "巨乳"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/d41c61be5c1fa555e6efc20196ca3b6a.jpg",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/b1ce404660804536ccd7289ecfe2eaa3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-494"
   },
   {
-    "id": 104050,
-    "IDcode": "USAG-025",
-    "title": "不露臉素人女子 巨乳・白皙・迷你女子・十幾歲・3次性愛",
+    "id": 83856,
+    "IDcode": "SUPA-506",
+    "title": "最高級巨乳素人と極上SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "猎艳",
+      "业余",
+      "素人作品",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2019-12-27",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230101-34/8be941349814def90d03c49b4ce278af.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-506"
+  },
+  {
+    "id": 82041,
+    "IDcode": "SUPA-510",
+    "title": "「お願い！中に出してください！」中出しを切に懇願するS級素人 40人240分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "业余",
+      "中出",
+      "素人作品",
+      "淫语",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2020-01-31",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221106-1/5b30dda1912ed36e51301161f3d8b4ad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-510"
+  },
+  {
+    "id": 526356,
+    "IDcode": "SUPA-511",
+    "title": "_B S级素人2019年下半期プレミアムBEST30 4时间 Part 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-511"
+  },
+  {
+    "id": 82033,
+    "IDcode": "SUPA-513",
+    "title": "実はナンパ待ちだったんじゃないの？超ド級のエロ過ぎるS級素人とリアル中出しSEX4時間！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "猎艳",
+      "业余",
+      "中出",
+      "素人作品",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2020-02-28",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221106-1/3d11d6a710cc08312f26d86520fd7212.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-513"
+  },
+  {
+    "id": 82032,
+    "IDcode": "SUPA-514",
+    "title": "身も心もアソコもポッカポカ！温泉地でHな素人娘としっぽりSEX30人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "业余",
+      "中出",
+      "素人作品",
+      "精选，综合",
+      "浴衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2020-02-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-514"
+  },
+  {
+    "id": 538867,
+    "IDcode": "SUPA-515",
+    "title": "河北春菜- 本物全裸素人 局部パーツ接写＆アクリル板に圧着ファイル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241016/qMybLw6O/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-515"
+  },
+  {
+    "id": 82199,
+    "IDcode": "SUPA-518",
+    "title": "BEST BAKUNYU MEGA盛りMIX！ Gカップ以上の爆乳素人娘だけの240分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "乳房",
+      "中出",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2020-03-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221110-1/de5d3a855c9297ed84d80135dfe07850.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-518"
+  },
+  {
+    "id": 593658,
+    "IDcode": "SUPA-524",
+    "title": "【真实素人】“就说了不能射在里面！”未经许可阴道内射精4次",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-524"
+  },
+  {
+    "id": 538736,
+    "IDcode": "SUPA-527",
+    "title": "河北春菜- 本物全裸素人 局部パーツ接写 全裸ストレッチ编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240925/A3kdJAtY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-527"
+  },
+  {
+    "id": 79090,
+    "IDcode": "SUPA-582",
+    "title": "爆乳素人 奇跡のAV初出演",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳"
+      "巨大屁股",
+      "业余",
+      "中出",
+      "姐姐",
+      "巨乳",
+      "女上位"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-582"
   },
   {
-    "id": 88933,
-    "IDcode": "USAG-061",
-    "title": "マングリ返しヌード図鑑 素人娘16人がケツ穴晒してマン汁垂らした裸体コレクション",
+    "id": 563308,
+    "IDcode": "SUPA-627",
+    "title": "どこで覚えたの！？カワイイ颜してフェラ上手すぎる素人娘 射精までの最高に気持ちいいフェラチオB",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230925/P9bxmvGp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-627"
+  },
+  {
+    "id": 89444,
+    "IDcode": "SUPA-628",
+    "title": "本物全裸素人 セクシーヌードポーズファイル3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "业余",
+      "恋物癖"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2023-10-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/cf650606a01a372126dc5dbe9bac87c2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-628"
+  },
+  {
+    "id": 94770,
+    "IDcode": "SUPA-630",
+    "title": "中出しを切に懇願するS級素人50人240分 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "4小时以上作品",
+      "素人",
+      "猎艳",
+      "业余",
+      "中出",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2024-01-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/5670b90bfcc281fe012e7ee5065a5125.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-630"
+  },
+  {
+    "id": 94771,
+    "IDcode": "SUPA-631",
+    "title": "エッチな素人娘のつるっつるおま○こを責めまくる！！パイパン美少女50人4時間BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "无毛",
+      "中出",
+      "美少女电影",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2024-02-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/8862c7371b8aabf7bd11ec1680fd2a0f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-631"
+  },
+  {
+    "id": 78544,
+    "IDcode": "SUPA-632",
+    "title": "全35人ギャル、襲来 ビッチ4時間SP 素人の中でもエロ度最上級の最強ギャル軍団 乱れまくり、中出ししまくり、抜かれすぎても逃げちゃだめだ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4小时以上作品",
+      "素人",
+      "中出",
+      "精选，综合",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2024-03-26",
+    "cover_url": "https://tuaskbgnekr.com/20240705/I7LF9GKZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-632"
+  },
+  {
+    "id": 94767,
+    "IDcode": "SUPA-633",
+    "title": "奇跡のパーフェクトBODY！超絶品！極上素人中出しSEX50連発BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "素人",
+      "业余",
+      "中出",
+      "美少女电影",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2024-04-23",
+    "cover_url": "https://tuaskbgnekr.com/20240705/cms5lug9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-633"
+  },
+  {
+    "id": 94769,
+    "IDcode": "SUPA-635",
+    "title": "素人の桃尻をメッタ突きで激イカセ！！至高のバックピストンBEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "4小时以上作品",
       "素人",
       "巨大屁股",
-      "恋物癖",
-      "局部特写",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-12-05",
-    "cover_url": "https://tuaskbgnekr.com/20240901/YjqyX9Qv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-061"
-  },
-  {
-    "id": 466330,
-    "IDcode": "USAG-065",
-    "title": "被發現就糟糕！素人兔女郎的超棒真空口交（1） 滿滿舌上發射編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b440755fdaf263a25ce6bb/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-065"
-  },
-  {
-    "id": 401901,
-    "IDcode": "USAG-069",
-    "title": "迷惘与情欲…看素人美女自慰 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250924-1/f564fb60e3ee7c12941c617c342bce99.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-069"
-  },
-  {
-    "id": 412660,
-    "IDcode": "USAG-071",
-    "title": "素人ヌード撮影会に来たモデルさんに突然オナニーをお願いしてみた！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250809-1/1c4826d3ac57fad4e12403976070301a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-071"
-  },
-  {
-    "id": 444601,
-    "IDcode": "USAG-072",
-    "title": "洗っていない汚チ●ポでもお構いなし！？素人娘の即尺フェラチオ口内発射編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250803-1/cd2334e864234c291951798599e80402.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-072"
-  },
-  {
-    "id": 68361,
-    "IDcode": "USAG-073",
-    "title": "私のお口に出していいよ 口内射精OKな素人娘のフェラチオ集めました",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "素人",
-      "恋物癖",
       "业余",
-      "口交",
-      "主观视角"
+      "精选，综合",
+      "高中女生"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/f0c46c2891890f2c10671aec4ec4d310.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2024-07-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/0cdffaf4ec4bc360f05d34207d161ff1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-073"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-635"
   },
   {
-    "id": 413294,
-    "IDcode": "USAG-074",
-    "title": "素人娘のびちゃびちゃ染みパンツオナニー！！",
+    "id": 544212,
+    "IDcode": "SUPA-637",
+    "title": "ショートカットが似合うカワイイ素人娘限定 た～っぷり中出し50発 SPECIAL BEST",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250702-1/f27d5d773ac31524e17e3d938185f2b0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-074"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-637"
   },
   {
-    "id": 198401,
-    "IDcode": "USAG-075",
-    "title": "私のお口に出していいよ 口内射精OKな素人娘のフェラチオ集めました2",
+    "id": 456395,
+    "IDcode": "SUPA-639",
+    "title": "从今天起所有这些女孩都是性朋友！最好的素人素女孩，她如此热爱性爱，以至于她可以轻松地 未知演员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/feb847aed60a7fd255691ad5ff6bc10d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-075"
-  },
-  {
-    "id": 540264,
-    "IDcode": "USAG-076",
-    "title": "黒ディルドオナニー初体験！强すぎる快感に闷える素人娘たち 5时间17人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250927/71fdjwBq/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251013-1/457edd78d6befd0d87f52f7151234a54.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-076"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-639"
   },
   {
-    "id": 540263,
-    "IDcode": "USAG-077",
-    "title": "NOと言えない素人娘たち センズリ鉴赏までの约束だったのに雰囲気に流されドロドロのザーメンを口",
+    "id": 9614,
+    "IDcode": "SUPA-641",
+    "title": "S級素人美女的頂級口交吞精 大合集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250927/jND6Xp6m/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-077"
-  },
-  {
-    "id": 183340,
-    "IDcode": "USAG-079",
-    "title": "恥じらう素人娘のおもらしパンティ手コキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/221429de/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-079"
-  },
-  {
-    "id": 186049,
-    "IDcode": "USAG-080",
-    "title": "いきなり口内射精 フェラチオのお仕事にやってきた素人娘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/88b37c9f/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-080"
-  },
-  {
-    "id": 539873,
-    "IDcode": "UTA-41",
-    "title": "无料体験エステでイキ狂わされた素人娘达",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240308/36uta41pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UTA-41"
-  },
-  {
-    "id": 409906,
-    "IDcode": "VBH-021",
-    "title": "素人ロリ娘愛好家 陵辱コレクター 03 かりん「変態調教」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab786cedc101930b4b3fef/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VBH-021"
-  },
-  {
-    "id": 409905,
-    "IDcode": "VBH-022",
-    "title": "素人ロリ娘愛好家 陵辱コレクター 04 みほ「OO調教」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7dfcedc101930b4b6bf7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VBH-022"
-  },
-  {
-    "id": 3512,
-    "IDcode": "VEMA-240",
-    "title": "在教导学习和中出图书馆人妻图书管理员-足立美緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "獵豔",
+      "女學生",
+      "吞精",
       "巨尻",
+      "精選總編集",
+      "無做愛場面",
       "口爆",
-      "三十路",
-      "豐滿",
-      "阪道系",
-      "女教師",
-      "4K",
-      "肉絲",
+      "4小時以上作品",
+      "素人作品",
+      "飯店",
+      "唾液敷面",
+      "苗條",
+      "美少女",
+      "美腳",
+      "精選綜合",
+      "胸控・戀乳癖",
+      "自宅",
+      "色白",
+      "美乳",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "深喉",
+      "內衣",
+      "企畫",
+      "美腿",
+      "少女",
+      "美臀",
+      "顏射",
+      "脚控・戀足癖",
+      "美少女電影",
+      "素人",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2024-12-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20241225/4d55d436-7b87-431d-ab20-255b92b07753.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-641"
+  },
+  {
+    "id": 412671,
+    "IDcode": "SUPA-642",
+    "title": "マジでパイズリまみれBESTS級素人60人240分素人とは思えないえっちぃオッパイ使い女子大集合！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250808-1/aaf5a0d0afd015d5845343af0f631493.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-642"
+  },
+  {
+    "id": 8369,
+    "IDcode": "SUPA-644",
+    "title": "這個身體很敏感啊！ ！苗條美女的悸動快感性愛極致！ ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "小隻馬",
+      "精選總編集",
+      "4小時以上作品",
+      "素人作品",
+      "苗條",
+      "美少女",
+      "美腳",
+      "精選綜合",
+      "清楚系",
+      "性感",
+      "形象俱樂部",
+      "校花",
+      "中出",
+      "美人",
+      "企畫",
+      "絕頂高潮",
+      "美少女電影",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2025-02-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20250210/549eead1-d992-4fb4-9897-79b1477a7b42.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-644"
+  },
+  {
+    "id": 7943,
+    "IDcode": "SUPA-645",
+    "title": "H素人J系 THE BEST 天然清純女子校生大合集 Vol.01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "小隻馬",
+      "精選總編集",
+      "真實拍攝",
+      "4小時以上作品",
+      "飯店",
+      "苗條",
+      "美少女",
+      "美腳",
+      "精選綜合",
+      "JK校服",
+      "羞恥",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "校花",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "少女",
+      "絕頂高潮",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影",
+      "素人",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2025-02-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20250226/31d27aec-d1d8-4824-9742-433d5214e5df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-645"
+  },
+  {
+    "id": 7652,
+    "IDcode": "SUPA-646",
+    "title": "脫了才發現這麼大？巨乳 LUCKY SEX BEST 精選合集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精選總編集",
+      "4小時以上作品",
+      "精選綜合",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "猥褻穿著",
+      "中出",
+      "後入",
+      "清純",
+      "美少女電影",
+      "素人",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2025-03-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20250309/738b73e2-4aa4-4f4c-943c-b4bcab840f34.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-646"
+  },
+  {
+    "id": 402573,
+    "IDcode": "SUPA-648",
+    "title": "本物全裸素人セクシーヌードポーズファイル4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250802-1/e79d6df0ae948227dbb1010399e13bcc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-648"
+  },
+  {
+    "id": 412753,
+    "IDcode": "SUPA-649",
+    "title": "素人J●顔射フィニッシュBEST！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250802-1/991a70443ccc258b61c07ae172d1cf2d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-649"
+  },
+  {
+    "id": 6220,
+    "IDcode": "SUPA-650",
+    "title": "超敏感！K級素人貧乳妹子高潮連連～精選4小時",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "小隻馬",
+      "精選總編集",
+      "M男・M女",
+      "真實拍攝",
+      "素人作品",
+      "故事集",
+      "苗條",
+      "美少女",
       "美腳",
       "羞恥",
       "色白",
-      "大奶头",
+      "美乳",
       "清楚系",
+      "巨乳",
       "口交",
-      "接吻",
-      "熟女",
       "形象俱樂部",
       "潮吹",
-      "單體作品",
-      "人妻",
-      "美人妻",
+      "校花",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "劇情",
+      "清純",
+      "美少女電影",
+      "素人",
+      "蘿莉控",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2025-05-10",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510102641893893_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-650"
+  },
+  {
+    "id": 5420,
+    "IDcode": "SUPA-652",
+    "title": "頂級素人正妹50人正常位狂熱，激烈中出50連發精選輯！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "小隻馬",
+      "精選總編集",
+      "4小時以上作品",
+      "故事集",
+      "苗條",
+      "美少女",
+      "美腳",
+      "癡女",
+      "色白",
+      "美乳",
+      "清楚系",
+      "口交",
+      "性感",
+      "形象俱樂部",
       "高顏值",
-      "图书馆",
-      "淫亂",
-      "貧乳",
-      "地味",
+      "明星臉",
       "極品美人",
       "中出",
-      "蕩婦",
       "美人",
+      "企畫",
+      "美腿",
+      "少女",
+      "後入",
+      "美臀",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "高妹",
+      "無毛",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609002733814814_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-652"
+  },
+  {
+    "id": 5040,
+    "IDcode": "SUPA-653",
+    "title": "性愛交給辣妹就沒錯！S級素人精選超騷辣妹大集合！特別完整精選版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "精選總編集",
+      "口爆",
+      "真實拍攝",
+      "4小時以上作品",
+      "港區女子",
+      "素人作品",
+      "故事集",
+      "苗條",
+      "辣妹/GAL系",
+      "美腳",
+      "癡女",
+      "精選綜合",
+      "美乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "高顏值",
+      "極品美人",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "企畫",
       "美腿",
       "後入",
-      "劇情",
       "美臀",
       "絕頂高潮",
       "清純",
       "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
       "手指插入",
       "素人",
+      "拜金女",
+      "高妹",
       "無毛",
-      "御姐系",
-      "白眼失神",
       "女上位",
-      "騎乗位",
-      "公共場所"
+      "騎乗位"
     ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/14/e5897e8c/vod.jpg",
-    "actress": [
-      "足立美緒",
-      "タツ"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-240"
-  },
-  {
-    "id": 520948,
-    "IDcode": "VEO-035",
-    "title": "瀬名ひかり- 本物素人妻AV Debut！！优しすぎて困っちゃう天然Hカップの美巨乳介护士妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://xing.sex8sex833.com/20251005/qtFrRbmf/1.jpg",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250624/20250624100127228228_thumbnail.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-035"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-653"
   },
   {
-    "id": 80262,
-    "IDcode": "VEO-049",
-    "title": "本物素人妻AV Debut！！ ロシアンハーフのショーダンサー妻は無類のおち●ぽ狂い…挿れたら最後、動きっぱなしの限界腰振りセックス 森恵理那 （ブルーレイディスク） （BOD）",
+    "id": 4656,
+    "IDcode": "SUPA-654",
+    "title": "我們超愛大肉棒！一被撩就開幹的約炮素人妹子50人 超值精選240分鐘",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "素人",
-      "首次亮相",
-      "中出",
-      "成熟的女人",
-      "高"
-    ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "2021-12-07",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/831e13c15149f3aa5843897bb82e638d.jpg",
-    "actress": [
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-049"
-  },
-  {
-    "id": 216142,
-    "IDcode": "VEO-053",
-    "title": "本物素人妻AV-楠りあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/acd1c7bae7e785d88246798c355d2801.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-053"
-  },
-  {
-    "id": 530211,
-    "IDcode": "VEO-063",
-    "title": "本物素人妻AV Debut！！“这是我从小的梦想” 所选出的人妻佼佼者﹐人生最棒的初次不贞SEX 竹内纱绫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241204/IC2fzP5i/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-063"
-  },
-  {
-    "id": 106736,
-    "IDcode": "VEO-064",
-    "title": "本物素人妻AV-北川美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "4K",
-      "已婚妇女",
-      "素人",
-      "首次亮相",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/01/686316513ed39b57c0416336/cover.jpg",
-    "actress": [
-      "北川美玖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-064"
-  },
-  {
-    "id": 168109,
-    "IDcode": "VEO-069",
-    "title": "本物素人妻AV Debut！！美しきプラチナボディー。100センチKカップ妻の超巨乳中出しセックス 川原まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231207/veo069pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-069"
-  },
-  {
-    "id": 89122,
-    "IDcode": "VEO-071",
-    "title": "本物素人妻AV Debut！！本物Gカップ巨乳ベースボール女子の膣奥一発入魂セックス 瑞島智花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "素人",
-      "中文字幕",
-      "首次亮相",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683c850e0b69f1d8164389da/cover.jpg",
-    "actress": [
-      "瑞島智花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-071"
-  },
-  {
-    "id": 89088,
-    "IDcode": "VEO-072",
-    "title": "真正素人妻AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "素人",
-      "出道作",
-      "首次亮相",
-      "中出",
-      "成熟的女人",
+      "3P・4P",
+      "小隻馬",
+      "慾求不滿",
+      "4小時以上作品",
+      "苗條",
+      "辣妹/GAL系",
+      "臀控",
+      "癡女",
+      "羞恥",
+      "美乳",
+      "清楚系",
       "口交",
-      "单体作品"
+      "性感",
+      "形象俱樂部",
+      "淫亂",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "VENUS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683c84460b69f1d816438991/cover.jpg",
-    "actress": [
-      "安堂はるの",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-072"
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68aca7885f03a092cf744f50/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-654"
   },
   {
-    "id": 548393,
-    "IDcode": "VEO-073",
-    "title": "本物素人妻AV Debut！！総集编（2） 4时间",
+    "id": 4201,
+    "IDcode": "SUPA-655",
+    "title": "発情マ〇コのハッスル騎乗位 美尻でバンバン！BEST 240分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
+      "小隻馬",
+      "4小時以上作品",
+      "素人作品",
+      "故事集",
+      "臀控",
+      "美少女",
+      "美腳",
+      "精選綜合",
+      "美乳",
+      "口交",
+      "形象俱樂部",
+      "高顏值",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "少女",
+      "後入",
+      "美臀",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221725561561_19340_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-655"
+  },
+  {
+    "id": 3656,
+    "IDcode": "SUPA-656",
+    "title": "親にも学校にもナイショだよ！！パパ活 円交 ワリキリSEX BEST 240分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "精選總編集",
+      "精選綜合",
+      "素人",
+      "4小時以上作品",
+      "素人作品",
+      "美人",
+      "口交",
+      "女上位",
+      "後入",
+      "騎乗位",
+      "故事集"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095810457457_54398_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-656"
+  },
+  {
+    "id": 3219,
+    "IDcode": "SUPA-657",
+    "title": "120人の素人マ●コガン突きで絶頂不可避！どちゃシコ激ピストン240分BEST！！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "企畫",
+      "舔陰",
+      "美少女電影",
+      "美少女",
+      "精選總編集",
+      "素人",
+      "精選綜合",
+      "高妹",
+      "手指插入",
+      "4小時以上作品",
+      "美人",
+      "口交",
+      "女上位",
+      "後入",
+      "騎乗位",
+      "淫蕩・硬核"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/202508280814589797_32025_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-657"
+  },
+  {
+    "id": 176139,
+    "IDcode": "SUPA-661",
+    "title": "本物全裸素人 局部パーツ限界接写ファイル4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "VENUS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230823/uXBbpVGG/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-073"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-661"
   },
   {
-    "id": 89137,
-    "IDcode": "VEO-074",
-    "title": "真正素人妻AV出道-壬生葵",
+    "id": 89470,
+    "IDcode": "SVCAO-004",
+    "title": "和牛BBQナンパ！魅惑のサマービーチ！超高級オーシャンフロントホテル！素人ビーチ娘を高級コンドミニアムに連れ込んで和牛バーベキューとキンキンに冷えたウォッカで気持ちよく～くさせて中出しエッチしちゃったサマーメモリー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "潮吹",
+      "多P",
+      "素人",
+      "猎艳",
+      "舔阴",
+      "肛交",
+      "中出",
+      "口交",
+      "泳装",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "2023-11-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/03b4c8a261669c73d049931d9ef4ff4b.jpg",
+    "actress": [
+      "伊織雛乃",
+      "仲川空",
+      "日野りこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-004"
+  },
+  {
+    "id": 516509,
+    "IDcode": "SVDVD-169",
+    "title": "OO！素人新娘在婚禮前一天拍攝",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fda942dd88d14f065541d8/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-169"
+  },
+  {
+    "id": 516382,
+    "IDcode": "SVDVD-202",
+    "title": "OO！素人新娘在結婚前一天，第",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c8770e264e6282d060aab/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-202"
+  },
+  {
+    "id": 516365,
+    "IDcode": "SVDVD-205",
+    "title": "羞恥！帶男友一起來的素人女OO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f600671eb543bb0f3379a/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-205"
+  },
+  {
+    "id": 579625,
+    "IDcode": "SVDVD-572",
+    "title": "媚薬贞操帯×ビッグバンローター 羞耻覚醒させられた素人アルバイト娘は物阴で何度も絶顶潮を吹くファミレスに侵入 人が居",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240603/1svdvd572pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-572"
+  },
+  {
+    "id": 565368,
+    "IDcode": "SVDVD-746",
+    "title": "用电动老二偷偷不停玩弄有男友的素人女 17～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191111-1/62a4176400b2ff110cdd241b2f2dd0c3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-746"
+  },
+  {
+    "id": 82034,
+    "IDcode": "SVDVD-768",
+    "title": "羞恥！彼氏連れ素人娘をマシンバイブでこっそり攻めまくれ！18 素人VSマシンバイブ 激安居酒屋にマジックミラー特設スタジオを設置 お正月だよ、デカチンコキ初め潮始め！編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "羞耻",
+      "素人",
+      "业余",
+      "按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "2020-01-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "南佳也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-768"
+  },
+  {
+    "id": 82181,
+    "IDcode": "SVDVD-784",
+    "title": "マジックミラー号旬菜リア充カップルナンパ！イケメンセクシー男優に囲まれ秒で彼氏を裏切る素人彼女イキったデカチン舐めまくり騎乗位グラインドまくりエモSEX＆おねだりアクメ顔射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "4小时以上作品",
+      "素人",
+      "白天出轨",
+      "猎艳",
+      "颜射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "2020-04-09",
+    "cover_url": "https://tuaskbgnekr.com/20221126/wGPKN9lR/1.jpg",
+    "actress": [
+      "イセドン内村",
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-784"
+  },
+  {
+    "id": 86486,
+    "IDcode": "SVDVD-891",
+    "title": "募集素人若奥様マシンバイブチャレンジ！最後まで潮を吹かなかったら100万円！負けたら中出しSEX！Vol3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "已婚妇女",
+      "素人",
+      "猎艳",
+      "业余",
+      "中出"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "2021-11-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-891"
+  },
+  {
+    "id": 80956,
+    "IDcode": "SVDVD-906",
+    "title": "マジックミラー号ハードボイルド所沢で買い物中をほろ酔いにしてペニスリング体験！激震ち○ぽで何度もイカされイキ潮を吹いた素人妻は中出しも受け入れてしまうのか！？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
       "人妻",
       "已婚妇女",
       "素人",
-      "出道作",
-      "乳房",
-      "中出",
-      "成熟的女人",
-      "首次亮相",
-      "单体作品"
+      "猎艳",
+      "业余",
+      "中出"
     ],
-    "type": "",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/eb0c64029e665c8fe9158ece0c37d912.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "2022-02-23",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/64a0ef3336935204a2ce8ed11a09ac70.jpg",
     "actress": [
-      "壬生あおい"
+      "瀬崎彩音"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-074"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-906"
+  },
+  {
+    "id": 565363,
+    "IDcode": "SVDVD-935",
+    "title": "多元素人～玩弄合宿游泳社苗条JK敏感奶子后对发情小穴激烈抽插中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b1e10047a5cb2613caf2645451a3280d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-935"
+  },
+  {
+    "id": 539479,
+    "IDcode": "SVDVD-942",
+    "title": "羞耻！彼氏连れ素人娘をマシンバイブでこっそり攻めまくれ！22激安居酒屋にマジックミラー特设スタジオを设置初诣帰。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230826/1svdvd00942pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-942"
   }
 ];

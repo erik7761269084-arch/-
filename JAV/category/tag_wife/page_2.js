@@ -1,5 +1,632 @@
 window.PAGE_DATA = [
   {
+    "id": 590494,
+    "IDcode": "118AFS00036",
+    "title": "人妻ナンパ自宅中出し×PRESTIGE PREMIUM 欲求不満な人妻4名in世田谷区・品川区・新宿区 17 旦那のいない自宅で、夫妇の圣域を污しまくる超特浓240分！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230419-1/4e088781491413613f77710bfd446eaa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=118AFS00036"
+  },
+  {
+    "id": 590951,
+    "IDcode": "118AKA00009",
+    "title": "人妻 坂口れな 饲育志愿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230612-1/4094e472f01177f12a9fd2cd2592e1dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=118AKA00009"
+  },
+  {
+    "id": 140730,
+    "IDcode": "120322-001",
+    "title": "好色人妻用漂浮的文胸倒垃圾的理由好色的时候想在早上勾引邻居小月明里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250124-1/a83cbbe352c61e397b026252e91c105c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=120322-001"
+  },
+  {
+    "id": 524690,
+    "IDcode": "121019_218",
+    "title": "ごっくんする人妻たち98 〜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=121019_218"
+  },
+  {
+    "id": 557776,
+    "IDcode": "121019_218-PACO",
+    "title": "ごっくんする人妻たち98 色白の奥さんは精子もチンポも大好物！ シリーズ特设",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=121019_218-PACO"
+  },
+  {
+    "id": 140741,
+    "IDcode": "122022-001",
+    "title": "放任自流的胸罩人妻贞洁观念松散容易酷到最后工藤玲香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250124-1/c73211ca8d3aafc07a1e176bf267aaa2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=122022-001"
+  },
+  {
+    "id": 528406,
+    "IDcode": "122624-001",
+    "title": "人妻の为の快楽园",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=122624-001"
+  },
+  {
+    "id": 486,
+    "IDcode": "123024-001",
+    "title": "一直想操的女上司，她反向把我變成了她的性處理奴僕 ~ 瑤真由香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "打手槍",
+      "艷遇",
+      "巨尻",
+      "慾求不滿",
+      "網襪",
+      "淫語",
+      "辦公室",
+      "OL",
+      "美乳",
+      "制服",
+      "巨乳",
+      "口交",
+      "女上司",
+      "性感",
+      "美人妻",
+      "人妻",
+      "淫亂",
+      "寫真偶像",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "御姐系",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-12-30",
+    "cover_url": "https://picture.yoshiclub.xyz/20241231/20241231060944982982.jpg",
+    "actress": [
+      "瑶真由香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=123024-001"
+  },
+  {
+    "id": 551189,
+    "IDcode": "168EK-028",
+    "title": "月刊人妻専科エロカリ 第28号",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231005/ENM2iRLB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168EK-028"
+  },
+  {
+    "id": 551188,
+    "IDcode": "168EK-029",
+    "title": "月刊人妻専科エロカリ 第29号",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250402/LX1ZbuUH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168EK-029"
+  },
+  {
+    "id": 551191,
+    "IDcode": "168EK-031",
+    "title": "月刊人妻女子専科エロカリ あんたのカラダは●罪だ！！！ 第31号",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240127/tcdBgIct/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168EK-031"
+  },
+  {
+    "id": 531406,
+    "IDcode": "168PUW-061",
+    "title": "熟乳奥さま生中出し デカ乳首·黒乳首·长乳首·巨乳轮·个性的な乳首を持つエロ乳ドスケベ人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250402/wBt0KX4P/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168PUW-061"
+  },
+  {
+    "id": 551187,
+    "IDcode": "168SPE-003",
+    "title": "万引き スーパーの人妻たち ●狭マ○コのドMスレンダー美人妻 ●お色気ムンムン无毛デカパイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240206/nTMsauQS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168SPE-003"
+  },
+  {
+    "id": 577514,
+    "IDcode": "168SPES-007",
+    "title": "万引き スーパーの人妻たち ●狭マ◯コのドMスレンダー美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NEXT",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NEXT",
+        "works_count": 119
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240227/XsmUVpY8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168SPES-007"
+  },
+  {
+    "id": 173113,
+    "IDcode": "169",
+    "title": "169期 让心爱的老公不被裁员打击而被老板调教的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=169"
+  },
+  {
+    "id": 196879,
+    "IDcode": "188HINT-0430",
+    "title": "欲求不满人妻初脱体验享受高潮内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=188HINT-0430"
+  },
+  {
+    "id": 577540,
+    "IDcode": "198HAWA-208A",
+    "title": "见た目は愈され系アメリカ人妻だけど中身はごっくん大好き性欲バケモノ！笑颜で精饮4発～ジ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240103/tlCanTqC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=198HAWA-208A"
+  },
+  {
+    "id": 577539,
+    "IDcode": "198HAWA-208B",
+    "title": "见た目は愈され系アメリカ人妻だけど中身はごっくん大好き性欲バケモノ！笑颜でがぶ饮み11",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Cosmos 映像",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Cosmos_映像",
+        "works_count": 159
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240103/I8Wod3Wu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=198HAWA-208B"
+  },
+  {
+    "id": 60,
+    "IDcode": "1PON-010220_952",
+    "title": "早晨倒垃圾的鄰家騷氣無 bra 人妻 ~ 櫻木梨乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "若妻",
+      "純粹的慾望",
+      "慾求不滿",
+      "口爆",
+      "辣妹/GAL系",
+      "臀控",
+      "美腳",
+      "癡女",
+      "色白",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "NTR",
+      "高顏值",
+      "極品美人",
+      "內衣",
+      "出軌",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "手指插入",
+      "素人",
+      "乳交",
+      "69",
+      "偷竊",
+      "御姐系",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "2020-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910013240217217_83563_s.webp",
+    "actress": [
+      "櫻木梨乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PON-010220_952"
+  },
+  {
+    "id": 482730,
+    "IDcode": "1PON031919_823",
+    "title": "空虚少妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PON031919_823"
+  },
+  {
+    "id": 482441,
+    "IDcode": "1PONDO 050124_001",
+    "title": "人妻の禁断不倫SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241030-1/1c79e5105835dfa0877a93bc486132b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO 050124_001"
+  },
+  {
+    "id": 482252,
+    "IDcode": "1PONDO 080624_001",
+    "title": "逆ハーレムでチンポ3本に悶える人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/784f15e965a2c6fa644ac6b12a72bd0a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO 080624_001"
+  },
+  {
+    "id": 436900,
+    "IDcode": "1PONDO_071222_001",
+    "title": "真实发生的糟糕故事～人妻教师与同事的一夜物语～白川麻衣。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0aabb6855f9a0395ee450871e2da43bb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO_071222_001"
+  },
+  {
+    "id": 557175,
+    "IDcode": "1PONDO-010123-001",
+    "title": "【无码】清晨邻家人妻真空倒垃圾诱人犯罪 今田美玲×七咲琴乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250805-1/62f9568973531129cd8e1f8a71e81afe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-010123-001"
+  },
+  {
+    "id": 557146,
+    "IDcode": "1PONDO-010723-001",
+    "title": "【无码】人妻友母华月樱浓情狂飙！彻夜连续高潮激战回放",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250809-1/4b8bf29919383ae7a8752d3b13317751.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-010723-001"
+  },
+  {
+    "id": 557169,
+    "IDcode": "1PONDO-022323-001",
+    "title": "【】绝伦人妻村上琴乃淫欲爆发！超绝顶激震体验 性爱大片珍藏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250806-1/d74c58480f5c54a104bcae913be53ec8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-022323-001"
+  },
+  {
     "id": 557150,
     "IDcode": "1PONDO-022523-001",
     "title": "【无码】清晨倒垃圾真空上阵！邻居人妻奶子晃动不穿奶罩，饥渴难耐求操干！森本瞳",
@@ -13,7 +640,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250809-1/fc2815a758e2ce9615a9b3b1c598b82b.jpg",
     "actress": [],
@@ -33,7 +666,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250422-1/9b8c64debbd216bb7fdc9f61f20a70f3.jpg",
     "actress": [
@@ -55,7 +694,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250423-1/05c24245e297ddf302c93ab939a1c9d1.jpg",
     "actress": [],
@@ -75,7 +720,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250527-1/879516cb317f275690150ea810f1eccf.jpg",
     "actress": [],
@@ -95,7 +746,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250426-1/bd74cafbed690175ab10d863094d8cb6.jpg",
     "actress": [],
@@ -115,7 +772,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250426-1/d4c46517b91e179697d8f8735cb83738.jpg",
     "actress": [],
@@ -135,7 +798,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221123/Fh5bLri0/1.jpg",
     "actress": [],
@@ -155,7 +824,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250809-1/ee45311ed583f92acc231487fa10fa49.jpg",
     "actress": [],
@@ -176,7 +851,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250429-1/774800df8a5941ea2ceba4f8012a4a0c.jpg",
     "actress": [
@@ -198,7 +879,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250430-1/fd8646fd9150d55e4a41d271febc21f7.jpg",
     "actress": [
@@ -220,7 +907,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250430-1/91d5d7b5012d4d25971ba71e623f18e6.jpg",
     "actress": [],
@@ -240,7 +933,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250414-1/2900861ba0779058c4d8e068f1e2820b.jpg",
     "actress": [],
@@ -261,11 +960,43 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250501-1/77cc8196b7b4cb212926afcdd25b17f7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-092323_001"
+  },
+  {
+    "id": 553830,
+    "IDcode": "1PONDO-092623_001",
+    "title": "蜜桃臀后入玄关激情 百多えみり 人妻勾引快递员上门服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "一本道",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-092623_001"
   },
   {
     "id": 508284,
@@ -281,7 +1012,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/bca109894a90569d0805964396675c14.jpg",
     "actress": [],
@@ -301,11 +1038,150 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "一本道",
+    "companys": [
+      {
+        "company": "一本道",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_亚洲一本道",
+        "works_count": 1622
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/07/31/a730fcea91063baa1548113c867ba360.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO021815_030"
+  },
+  {
+    "id": 537088,
+    "IDcode": "200GANA-2007",
+    "title": "マジ软派、初撮。 1270 就活生かと思ったら人妻OL！旦那にほっとかれてる可爱い若妻を慰めたった！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2007"
+  },
+  {
+    "id": 568225,
+    "IDcode": "200GANA-2354",
+    "title": "认真的南帕，第1枪。 1529【Gachi 人妻Deriheru小姐】捡掉掉的手帕能力出众的Deriheru小姐！从平时的戏到制作……我对SEX真的很兴奋，甚至接受阴道射精！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2354"
+  },
+  {
+    "id": 196864,
+    "IDcode": "200GANA-2404",
+    "title": "在目黑搭讪性欲过剩的人妻好久没和老公在一起也没有外遇的经验",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2404"
+  },
+  {
+    "id": 196766,
+    "IDcode": "200GANA-2421",
+    "title": "带来半酔气息的巨乳人妻加上老公最近不跟我做的寂寞帮助非常醉意的她不管最什么都無抵抗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "搭讪素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2421"
+  },
+  {
+    "id": 532764,
+    "IDcode": "200GANA-2444",
+    "title": "マジ软派、初撮。 1602 表参道で见つけた新婚なのにセックスレスに悩むお洒落セレブ人妻！3ヶ月前にセックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2444"
+  },
+  {
+    "id": 568038,
+    "IDcode": "200GANA-2526",
+    "title": "认真的南帕，第1枪。 1666【看你背红！ ] 这位穿着整洁大气的少妇居然是一个可笑的花痴女人，她吃了一个通过把色情照片放在背面红色的男人来DM！喷射弹幕！在激烈的活塞上多次射精！那色情的无限！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "搭讪素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2526"
+  },
+  {
+    "id": 551126,
+    "IDcode": "201904-202001",
+    "title": "[第2集]人妻自撮りNTR 寝取られ报告ビデオ THE BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=201904-202001"
   },
   {
     "id": 475030,
@@ -318,8 +1194,8 @@ window.PAGE_DATA = [
       "人妻",
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20240622-1/dd1ba2488c27007926855efee912975d.jpg",
     "actress": [],
@@ -336,8 +1212,8 @@ window.PAGE_DATA = [
       "人妻",
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250621-1/13096e97d8497836402d43f63c87b34d.jpg",
     "actress": [],
@@ -353,8 +1229,8 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250421/tNDAbSVV/1.jpg",
     "actress": [],
@@ -372,12 +1248,67 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "俺の素人-Z-SECONDIMPACT",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
+        "works_count": 1738
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/1922d9b7/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-583"
+  },
+  {
+    "id": 553422,
+    "IDcode": "230ORECZ-189",
+    "title": "“京花小姐”我的素人 已婚女性 通奸 淫荡硬核 搭讪 中出-京花小姐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "俺の素人-Z-SECONDIMPACT",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
+        "works_count": 1738
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECZ-189"
+  },
+  {
+    "id": 520327,
+    "IDcode": "230OREV-010",
+    "title": "沉迷于匹配应用程序的亚里曼巨乳人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "俺の素人-Z-SECONDIMPACT",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
+        "works_count": 1738
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-010"
   },
   {
     "id": 100375,
@@ -390,12 +1321,42 @@ window.PAGE_DATA = [
       "人妻",
       "素人"
     ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "俺の素人-Z-SECONDIMPACT",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
+        "works_count": 1738
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250722/0bMNZvZ5/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-023"
+  },
+  {
+    "id": 60146,
+    "IDcode": "230OREX-096",
+    "title": "邂逅的美女人妻对老公的性生活不满意只有我的肉棒能内射她让她湿润",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "俺の素人-Z-SECONDIMPACT",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
+        "works_count": 1738
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-096"
   },
   {
     "id": 59894,
@@ -408,8 +1369,14 @@ window.PAGE_DATA = [
       "人妻",
       "素人"
     ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "俺の素人-Z-SECONDIMPACT",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_俺の素人_Z_SECONDIMPACT",
+        "works_count": 1738
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/97caea40/vod.jpg",
     "actress": [],
@@ -428,8 +1395,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231219/pb_e_259luxu-176.jpg!320x216.jpg",
     "actress": [],
@@ -448,8 +1421,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231212/pb_e_259luxu-201.jpg!320x216.jpg",
     "actress": [],
@@ -473,14 +1452,77 @@ window.PAGE_DATA = [
       "苗條",
       "業餘"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "2016-10-25",
     "cover_url": "https://picture.yoshiclub.xyz/20230331/ba1811ff-f6fe-4c31-b782-baad3cecc2cb.jpg",
     "actress": [
       "高坂麗子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0467"
+  },
+  {
+    "id": 567519,
+    "IDcode": "259LUXU-1050",
+    "title": "ラグジュTV 1088 旦那の留守は火游び三昧！セックスは大好物と语る性豪人妻！肉欲の壶と化したマ●コがネットリと肉棒を饮み込みイキ乱れる！1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2019-04-10",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "高野姫奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1050"
+  },
+  {
+    "id": 567518,
+    "IDcode": "259LUXU-1089",
+    "title": "ラグジュTV 1084 圧倒的な巨乳！魔性的なグラマラスボディの元CA人妻！快楽に贪欲になった淫美なカラダが巨根を求め、自ら腰振りイキ乱れる！1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人企画",
+      "素人",
+      "巨乳",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2019-04-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠崎环奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1089"
   },
   {
     "id": 567517,
@@ -495,14 +1537,53 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "2019-07-10",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/22f1de9861b420845984d7df5fe56fce.jpg",
     "actress": [
       "成宫つばさ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1120"
+  },
+  {
+    "id": 74728,
+    "IDcode": "259LUXU-1129",
+    "title": "ラグジュTV 1112 美乳・美尻が目を惹く現役キャビンアテンダント(人妻)がドSな旦那様の指示でAV体験！旦那様を脳裏に浮かべながら得意のフェラテクで他人の肉棒をねっとりご奉仕！その美しいカラダをビクビクさせながら巨根の快楽に酔いしれる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "人妻",
+      "屁股",
+      "素人企画",
+      "已婚妇女",
+      "HDTV",
+      "素人",
+      "业余",
+      "乳房",
+      "高端素人",
+      "颜射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2019-06-05",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1129"
   },
   {
     "id": 553597,
@@ -517,8 +1598,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250805-1/4beb3ad2cc6ec356035cffc91910f2f0.jpg",
     "actress": [],
@@ -537,8 +1624,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/56ae89f35080c122da818a1bd6290fe1.jpg",
     "actress": [],
@@ -557,8 +1650,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/21bad5595f1e8686440c02ef3c78132a.jpg",
     "actress": [
@@ -580,12 +1679,46 @@ window.PAGE_DATA = [
       "巨乳",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250822-1/6e7f5087270c5a68738217776458a4fc.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1203"
+  },
+  {
+    "id": 482775,
+    "IDcode": "259LUXU-1205",
+    "title": "少妇的美好体验",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "伊吹彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1205"
   },
   {
     "id": 520562,
@@ -600,8 +1733,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c23b670e545964b308453541b9c7a2f1.jpg",
     "actress": [],
@@ -620,8 +1759,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f4cb2e360650d5059a6671971d4f291d.jpg",
     "actress": [
@@ -642,8 +1787,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9d122a27b3f5af58a607476f3c3cf4a9.jpg",
     "actress": [],
@@ -662,12 +1813,46 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250806-1/5062fafe05cb61d24a040380af10b134.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1258"
+  },
+  {
+    "id": 196992,
+    "IDcode": "259LUXU-1346",
+    "title": "气质高雅的短发人妻穿着肉丝张开双腿恳求巨根宠幸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "弘崎ゆみな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1346"
   },
   {
     "id": 552971,
@@ -682,8 +1867,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/3270c2fa43aab90ecb183db37f7ab94d.jpg",
     "actress": [],
@@ -703,8 +1894,14 @@ window.PAGE_DATA = [
       "巨乳",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/e98a5c0dd93edd16e05aa7b04d296e87.jpg",
     "actress": [],
@@ -723,8 +1920,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250826-1/968ed5e82c740a869a2b089c86afe223.jpg",
     "actress": [],
@@ -743,8 +1946,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "2022-03-18",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ead7596d0d48ffcc39fbbf6ad04efc35.jpg",
     "actress": [],
@@ -764,8 +1973,14 @@ window.PAGE_DATA = [
       "巨乳",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/c6b31df4ffd8f909dcc93200ffac7190.jpg",
     "actress": [],
@@ -784,8 +1999,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/813b7b873824de646ead695a97763b2e.jpg",
     "actress": [],
@@ -804,8 +2025,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/a57c8f667a8159d77c42232a097ae3f7.jpg",
     "actress": [],
@@ -825,8 +2052,14 @@ window.PAGE_DATA = [
       "巨乳",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250810/xZWAzbaJ/1.jpg",
     "actress": [],
@@ -845,8 +2078,14 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
-    "company": "蚊香社",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250814/F1z1LWi9/1.jpg",
     "actress": [],
@@ -863,8 +2102,8 @@ window.PAGE_DATA = [
       "人妻",
       "嫩妹"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://fqjpg4.top/upload/vod/20240921-1/27aa7c5481078e127eb9e8073b1414aa.jpg",
     "actress": [],
@@ -880,8 +2119,8 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/71c61d3701bfdcf910b14b34709f5f8c.jpg",
     "actress": [],
@@ -897,8 +2136,8 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240606/1615371836-pb_e_261ara-481.jpg!320x216.jpg",
     "actress": [],
@@ -914,8 +2153,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240812/XVgaUkcW/1.jpg",
     "actress": [],
@@ -931,8 +2176,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "2024-09-10",
     "cover_url": "https://tuaskbgnekr.com/20240921/HYUVOOI4/1.jpg",
     "actress": [
@@ -951,8 +2202,14 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241018/q4SqBYym/1.jpg",
     "actress": [],
@@ -994,8 +2251,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/04/9c48d409900ff5028c96397615b8c755.jpg",
     "actress": [
@@ -1013,8 +2276,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250119/n6UQq5RU/1.jpg",
     "actress": [
@@ -1032,8 +2301,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250503/vVoiAHOV/1.jpg",
     "actress": [],
@@ -1049,8 +2324,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250503/RTPsyiSZ/1.jpg",
     "actress": [],
@@ -1066,8 +2347,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/KnPQibCY/1.jpg",
     "actress": [
@@ -1085,8 +2372,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/hntYGWkK/1.jpg",
     "actress": [
@@ -1105,8 +2398,14 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/QdVfGQI2/1.jpg",
     "actress": [
@@ -1125,8 +2424,14 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251001/pnksIYwY/1.jpg",
     "actress": [
@@ -1144,781 +2449,40 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "GLOBAL MEDIA ANNEX",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251001/0ntDJyny/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=261GARA-014"
   },
   {
-    "id": 196919,
-    "IDcode": "279UTSU-470",
-    "title": "来自大阪的人妻背着老公和初次见面的男人做爱达到久违的高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/17/a8b31fe8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=279UTSU-470"
-  },
-  {
-    "id": 76527,
-    "IDcode": "292MY-318",
-    "title": "穿着和服的优雅人妻意外的允许和我进行一次亲密接触",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/193ce0ac5a9bdf2dbc480e6c5b756100.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-318"
-  },
-  {
-    "id": 75082,
-    "IDcode": "292MY-319",
-    "title": "巨乳魔女人妻OL上网约炮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/26cd9aa31b11b6f400e952a7ff276187.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-319"
-  },
-  {
-    "id": 517067,
-    "IDcode": "292MY-834",
-    "title": "跳舞人妻 三浦環奈 4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690ecfc12a997527cfd29c98/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-834"
-  },
-  {
-    "id": 517089,
-    "IDcode": "292MY-837",
-    "title": "跳舞人妻 上田梨沙子 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/69067d7b71eb543bb0dfcb08/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-837"
-  },
-  {
-    "id": 517168,
-    "IDcode": "292MY-843",
-    "title": "跳舞人妻 本田里緒菜 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0cc0a631cc64eb5b35097/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-843"
-  },
-  {
-    "id": 517147,
-    "IDcode": "292MY-844",
-    "title": "跳舞人妻 本田里緒菜 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f37412d6fbef4e90febea0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-844"
-  },
-  {
-    "id": 407819,
-    "IDcode": "292MY-845",
-    "title": "跳舞人妻 中村夏生 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2d2d5dbf24d4ed31f9bae/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-845"
-  },
-  {
-    "id": 407800,
-    "IDcode": "292MY-846",
-    "title": "跳舞人妻 中村夏生 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e617b5631cc64eb5a1f627/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-846"
-  },
-  {
-    "id": 407900,
-    "IDcode": "292MY-848",
-    "title": "跳舞人妻 瀧川步美 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d855c8d6fbef4e90cd46f0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-848"
-  },
-  {
-    "id": 407935,
-    "IDcode": "292MY-849",
-    "title": "跳舞人妻 岸麻里奈 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d301dfeb67774efbb2d271/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-849"
-  },
-  {
-    "id": 408307,
-    "IDcode": "292MY-959",
-    "title": "跳舞人妻 藤原泉1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68995b5155337d7f7bd057a3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-959"
-  },
-  {
-    "id": 408310,
-    "IDcode": "292MY-960",
-    "title": "跳舞人妻 藤原泉2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68995c0a55337d7f7bd0cb5a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-960"
-  },
-  {
-    "id": 60064,
-    "IDcode": "299EWDX-289",
-    "title": "老公无法满足自己和年轻男人出轨内射的H乳人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/964477ceb60a51d502ccacb9c9c135d2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-289"
-  },
-  {
-    "id": 529890,
-    "IDcode": "299EWDX-323",
-    "title": "さゆりさん 23歳 ハーフ美人妻の色白G乳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/9768a7c5717b42c8f0e7bf6d590202d8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-323"
-  },
-  {
-    "id": 520006,
-    "IDcode": "299EWDX-389",
-    "title": "整洁巨乳人妻缝隙超色情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/a33699212b6186827a7faeb4da542eee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-389"
-  },
-  {
-    "id": 475791,
-    "IDcode": "299EWDX-445",
-    "title": "言叶と态度が裏腹すぎる！むっつりスケベGカップ人妻34歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "少妇"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/2b7378a9f8e395109308b60035d4acce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-445"
-  },
-  {
-    "id": 475790,
-    "IDcode": "299EWDX-446",
-    "title": "大人しそうな人妻 熟女不贞交友でスローSEX",
+    "id": 176755,
+    "IDcode": "261GARA-015",
+    "title": "絶叫凌●レ●プ 強●される人妻 脅され言いなりとなった性奴●美人妻 取引の生贄に差し出され犯●れる凌●姦 小那海あや",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLOBAL MEDIA ANNEX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLOBAL_MEDIA_ANNEX",
+        "works_count": 97
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/554b4f24a17dff342beab731e4ed7b9c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-446"
-  },
-  {
-    "id": 576643,
-    "IDcode": "299EWDX-452",
-    "title": "清楚Fカップ人妻 自分から腰振りっぱ 気持ちいい连発 中出し恳愿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221216/wn7TrHST/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-452"
-  },
-  {
-    "id": 576644,
-    "IDcode": "299EWDX-453",
-    "title": "G乳ラグジュ人妻 浮気SEX欲しがりイキたがりハメ撮り中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221216/I3exn0Qr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-453"
-  },
-  {
-    "id": 576641,
-    "IDcode": "299EWDX-455",
-    "title": "#元芸能人 #ガチエロ人妻 #耻じらいと感度がスゴイ #早漏アクメ #骑乘位の腰使い #モデル体型8头身",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221217/YYkDzyqk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-455"
-  },
-  {
-    "id": 473401,
-    "IDcode": "299EWDX-456",
-    "title": "Fカップセレブ人妻 ナンパ中出し マシュマロ敏感ボディ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240417/dysyNDva/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-456"
-  },
-  {
-    "id": 473400,
-    "IDcode": "299EWDX-457",
-    "title": "セレブIカップ人妻 ナンパ中出し デカ尻がバリ卑猥！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250508-1/eb61a0ae9d69dc28be664f61b6588730.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-457"
-  },
-  {
-    "id": 541611,
-    "IDcode": "299EWDX-459",
-    "title": "セレブGカップ人妻 ナンパ中出し 潮吹きすぎ！絶顶しすぎ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20240417/O9K7reL4/1.jpg?t=1713402165",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-459"
-  },
-  {
-    "id": 541616,
-    "IDcode": "299EWDX-461",
-    "title": "セレブ人妻ナンパ 耻ずかしさより快感が胜って…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240418/iczz7V8P/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-461"
-  },
-  {
-    "id": 541614,
-    "IDcode": "299EWDX-462",
-    "title": "セレブ人妻ナンパ Gカップデカ尻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240418/qMXNuWI4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-462"
-  },
-  {
-    "id": 541620,
-    "IDcode": "299EWDX-463",
-    "title": "セレブ人妻ナンパ 耻じらいながら大胆になってイク…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240419/PXGXDiGG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-463"
-  },
-  {
-    "id": 541618,
-    "IDcode": "299EWDX-464",
-    "title": "セレブ人妻ナンパ ドエロ乳首 デカ尻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240419/K48VSm8q/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-464"
-  },
-  {
-    "id": 541619,
-    "IDcode": "299EWDX-465",
-    "title": "セレブ人妻ナンパ 感度抜群！絶叫絶顶！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240419/11IiOL2u/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-465"
-  },
-  {
-    "id": 541638,
-    "IDcode": "299EWDX-477",
-    "title": "高感度早漏マ○コのムチムチ巨乳人妻しか胜たん动画！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240501/jLoyR8sx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-477"
-  },
-  {
-    "id": 541637,
-    "IDcode": "299EWDX-478",
-    "title": "肉厚重厚感Kカップ人妻の抱き心地が最高な件",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240501/Xwu6AYE0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-478"
-  },
-  {
-    "id": 541636,
-    "IDcode": "299EWDX-479",
-    "title": "Fカップ美巨乳(乳首の存在感よ！)人妻 マ○コと口マ○コへ中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240501/v56rQN5h/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-479"
-  },
-  {
-    "id": 541635,
-    "IDcode": "299EWDX-480",
-    "title": "マン毛ぼぅぼぅ！デカ美尻人妻の耻じらいアクメ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240501/xlsPp4a9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-480"
-  },
-  {
-    "id": 408309,
-    "IDcode": "299EWDX-537",
-    "title": "丈夫工作出差所以每週和炮友發生性關係！每天都在自慰的情慾高漲的巨乳人妻。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68995bae55337d7f7bd0a669/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-537"
-  },
-  {
-    "id": 590108,
-    "IDcode": "3-VOSS",
-    "title": "人妻传播妹是以前的公司坏心OL！抓到小辫子来肏翻 -150",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/papachangpian-img/6ce0fbe6bf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=3-VOSS"
-  },
-  {
-    "id": 144494,
-    "IDcode": "300MAAN-0383",
-    "title": "我在六本木中城找到的超级美女明星老婆看起来很干净是个沮丧的无底色欲怪物太敏感F美丽的乳房色情身体被扭曲和抽搐扭动和暨从白天开始OmaKo完全打开连续3次进行原始阴道射精-ことねさん人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5e8837239a57f7edb5e392b2d988c6d5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0383"
-  },
-  {
-    "id": 144498,
-    "IDcode": "300MAAN-0392",
-    "title": "超美人妻要合同和3阴道射精我很高兴握住Po我正在深喉用不可阻挡的喷射重复抽搐暨一石二鸟消除挫折提高销售业绩为家打工的美人妻是个卖枕头的长矛男变态老婆为了老公的无奈和契约欲望",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/10ee0f4ea81892fb908ddf9336a6793e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0392"
-  },
-  {
-    "id": 451592,
-    "IDcode": "300MAAN-0422",
-    "title": "中出し4回＋顔射1回＋潮吹き5回！主婦合コンにやって来た美人妻に誘惑され背徳の生ハメで精を搾り取られる！《居酒屋のトイレで…》《タクシーの車中で…》《旦那と電話中に…》様々な状況で他人妻と乱れまくる！場所と体位を変えながらず～っとヤリまくり！イッてはヨがる欲求不満妻と汗だく種付けSEX！！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://tuaskbgnekr.com/20221120/Gxfb5Kwx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0422"
-  },
-  {
-    "id": 451590,
-    "IDcode": "300MAAN-0428",
-    "title": "結婚4年目変態美人妻が旦那の目前で他人棒とイキ乱れSEX！夫婦揃って見られたい願望アリ！騎乗位、立ちバック、即位、正常位、中出し3回＆顔射1回で良乳良尻美人人妻大歓喜！！旦那も興奮MAXで最後に妻のお顔にぶっかけちゃいました！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221120-1/ff7a0d86fba7880917e17c0979dbfa83.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0428"
-  },
-  {
-    "id": 144531,
-    "IDcode": "300MAAN-0475",
-    "title": "恶魔般的指尖美人妻变态钢琴教官神手打手枪4连射充分利用钢琴上精巧的指尖与男人的吉婆一起弹奏完美人妻同时拥有美貌纤细美乳美臀开启性欲一下子变成欲火中烧的人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c49301853ce997fb6df198b7256bf0af.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0475"
-  },
-  {
-    "id": 538771,
-    "IDcode": "300MAAN-0498",
-    "title": "河北春菜- 美人妻をガチ口说き！ヌードモデルのバイトで见られて濡れて撮られて濡れて常时アソコがムラム",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sex8sex811.com/20250801/0ONsTYDg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0498"
-  },
-  {
-    "id": 407432,
-    "IDcode": "300MAAN-0501",
-    "title": "皇居ランニング中の美人人妻をガチ口説き！！けしからん卑猥な桃尻で痴漢を誘発welcome！痴漢されパン染みべっちょりマ○コの濡れが凄いんじゃ！Tバックで着飾った尻も全裸の尻も舐め回したくなる卑猥神尻！尻肉バシバシっ叩きつけ膣の奥にたっぷり生中出し3連発！尻に始まり尻を愛で尻に終わる、ぷりぷり桃尻づくし！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "痴汉",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/489fcfe8d33fb710c2c10b048a985a77.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0501"
-  },
-  {
-    "id": 407297,
-    "IDcode": "300MAAN-0504",
-    "title": "美美美尻で誘惑ノックアウト！！良い尻、良い感度、良いマ○コの美人社長(人妻)を池袋でガチ口説き！性欲持て余し中のスケベな神尻。初見のスタッフをトイレに連れ込み即尺口内射精！自宅とは別のヤリ部屋に招かれクビレと尻が激エロな美人社長に精子タンクが空になるまで絞り尽くされる！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3859b7b4f3ca0c338d744eed85caf1f7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0504"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=261GARA-015"
   }
 ];

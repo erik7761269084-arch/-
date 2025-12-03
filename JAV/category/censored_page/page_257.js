@@ -1,2203 +1,1566 @@
 window.PAGE_DATA = [
   {
-    "id": 3568,
-    "IDcode": "MANX-018",
-    "title": "エグ過ぎるオナニー特化アングルで 黒ギャルビッチの肉感を味わい尽くす ケツ穴剥き出し美巨尻マニアックス 黒咲華",
+    "id": 190583,
+    "IDcode": "BACJ-142",
+    "title": "おちんちんが生えても愛してくれますか？ 藍瀬ミナ",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "手指插入",
-      "肌肉",
-      "女上位",
-      "接吻",
-      "美人",
-      "情趣內衣",
-      "極品美人",
-      "美腿",
-      "濕身",
-      "淫亂",
-      "癡女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "巨尻",
-      "單體作品",
-      "金髮",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "潮吹",
-      "胸控・戀乳癖",
-      "抹油",
-      "感官作品",
-      "性感",
-      "無毛",
-      "美腳",
-      "高顏值",
-      "主觀視角",
-      "巨乳",
-      "高跟鞋",
-      "企畫",
-      "後入",
-      "口爆",
-      "辣妹/GAL系",
-      "蕩婦",
-      "舔陰",
-      "女優",
-      "流汗",
-      "臀控",
-      "口交",
-      "野性",
-      "肛交",
-      "自慰",
-      "騎乗位",
-      "港區女子",
-      "膚黑"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/20/88c4cb69/vod.jpg",
-    "actress": [
-      "黒咲華",
-      "コグレハルト"
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-018"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-142"
   },
   {
-    "id": 2778,
-    "IDcode": "MANX-019",
-    "title": "チクビで一緒に気持ち良くなりましょう 乳首マニアックス 海老咲あお",
+    "id": 413223,
+    "IDcode": "BACJ-143",
+    "title": "毎日性処理してくれる俺の嫁は奉仕好きで甘え上手な射精マニア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250706-1/24b4b490d259a87829cbd4b60e979c63.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-143"
+  },
+  {
+    "id": 399814,
+    "IDcode": "BACJ-144",
+    "title": "來到宅男社團的不合時宜公主誘惑露出內褲 讓我在眼前看到朋友的性愛，屈辱地自慰射精 七藤優亞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf56b579f1ac4ec46852f3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-144"
+  },
+  {
+    "id": 6950,
+    "IDcode": "BACJ-145",
+    "title": "毎日性処理してくれる俺の嫁は奉仕好きで甘え上手な射精マニア 有賀みなほ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
+      "女友・妻子",
+      "性感睡衣",
+      "純粹的慾望",
+      "苗條",
+      "感官作品",
+      "美腳",
+      "主觀視角",
+      "胸控・戀乳癖",
+      "自宅",
       "大奶头",
       "美乳",
-      "手指插入",
-      "真實拍攝",
-      "女上位",
-      "美人",
-      "過膝襪・小腿襪",
+      "清楚系",
+      "口交",
+      "巨乳",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "高顏值",
       "極品美人",
-      "美腿",
-      "濕身",
-      "淫亂",
-      "黑絲",
-      "按摩女郎",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "清純",
+      "脚控・戀足癖",
+      "69",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250409/f0698d7e-466a-4fb9-9eab-2de926956dc4.jpg",
+    "actress": [
+      "有賀千里",
+      "有贺みなほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-145"
+  },
+  {
+    "id": 6961,
+    "IDcode": "BACJ-146",
+    "title": "男に媚びず射精を管理して立場を理解させる淫腕OL 有加里ののか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "巨尻",
+      "慾求不滿",
+      "職場",
+      "苗條",
+      "臀控",
+      "辦公室",
+      "肉絲",
+      "美腳",
       "癡女",
+      "OL",
+      "加班",
+      "勾引・誘惑",
+      "色白",
+      "大奶头",
+      "美乳",
+      "制服",
+      "清楚系",
+      "口交",
+      "女上司",
+      "形象俱樂部",
+      "高顏值",
+      "極品美人",
+      "傲嬌",
+      "中出",
+      "蕩婦",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "脚控・戀足癖",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250409/1c066a7d-f1f6-4100-820e-fcb6b1f21288.jpg",
+    "actress": [
+      "有加里乃乃花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-146"
+  },
+  {
+    "id": 69480,
+    "IDcode": "BACJ-147",
+    "title": "最後に犯●れるドS痴女 僕を虐めて楽しむ偉そうな上流階級に復讐の腰振り 藤咲紫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "荡妇",
+      "多P",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf53e579f1ac4ec4684aef/cover.jpg",
+    "actress": [
+      "藤咲紫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-147"
+  },
+  {
+    "id": 6948,
+    "IDcode": "BACJ-148",
+    "title": "華麗な指技にリピーターが続出する極責めエステサロン 五十嵐清華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口爆",
+      "苗條",
+      "感官作品",
+      "美腳",
+      "色白",
+      "大奶头",
+      "美乳",
+      "清楚系",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "按摩・美容店",
+      "深喉",
+      "高顏值",
+      "明星臉",
+      "極品美人",
+      "風俗娘",
+      "按摩女郎",
+      "中出",
+      "蕩婦",
+      "美人",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "抹油",
+      "脚控・戀足癖",
+      "手指插入",
+      "按摩・物理治療・美容",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250409/7669f549-03fb-492d-a674-50ee9ed2fdd5.jpg",
+    "actress": [
+      "五十嵐清華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-148"
+  },
+  {
+    "id": 198642,
+    "IDcode": "BACJ-149",
+    "title": "ラブホ前でぐったりしているその女、実はお持ち帰り待ちをしていたセックス依存症のド変態痴女 加賀美さら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c333cf5f13d063bcdf9483/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-149"
+  },
+  {
+    "id": 6237,
+    "IDcode": "BACJ-150",
+    "title": "唾液の匂いで脳がバグるくらい舐め散らかして自由が奪われた男のチ●ポをぶっ壊す 星仲ここみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "打手槍",
+      "小隻馬",
+      "性感睡衣",
+      "M男・M女",
+      "網襪",
+      "苗條",
+      "4K",
+      "癡女",
+      "拘束・拷問",
+      "羞恥",
+      "色白",
+      "大奶头",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "單體作品",
+      "高顏值",
+      "極品美人",
+      "猥褻穿著",
+      "大姐姐",
+      "中出",
+      "姐姐・妹妹",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "女優",
+      "美少女電影",
+      "顔面騎乘",
+      "黑絲",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510060022972972_thumbnail.webp",
+    "actress": [
+      "星仲ここみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-150"
+  },
+  {
+    "id": 6214,
+    "IDcode": "BACJ-151",
+    "title": "公園でぐったりしているその女、実はお持ち帰り待ちをしていたセックス依存症のド変態痴女 涼花くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "艷遇",
+      "巨尻",
+      "性感睡衣",
+      "M男・M女",
+      "慾求不滿",
+      "4K",
+      "美少女",
+      "緊縛",
+      "癡女",
+      "美腳",
+      "拘束・拷問",
+      "色白",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "形象俱樂部",
+      "單體作品",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "調教",
+      "神待娘",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c333535f13d063bcdf91ba/cover.jpg",
+    "actress": [
+      "涼花くるみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-151"
+  },
+  {
+    "id": 5482,
+    "IDcode": "BACJ-152",
+    "title": "オタサーにきた場違いな姫がパンチラ誘惑 目の前で僕の友達とのセックスを見せつけられて屈辱センズリ射精 月野かすみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "艷遇",
+      "女學生",
+      "巨尻",
+      "口爆",
+      "慾求不滿",
+      "豐滿",
+      "4K",
+      "美少女",
+      "美腳",
+      "癡女",
+      "JK校服",
+      "羞恥",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "鬃毛",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "單體作品",
+      "兩男一女",
+      "深喉",
+      "高顏值",
+      "校花",
+      "淫亂",
+      "明星臉",
+      "極品美人",
+      "蠻橫嬌羞",
+      "超爆乳",
+      "傲嬌",
+      "中出",
+      "美人",
+      "美腿",
+      "短裙・迷你裙",
+      "少女",
+      "後入",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "舔腳",
+      "乳交",
+      "同學",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b44dce5fdaf263a25d3cf4/cover.jpg",
+    "actress": [
+      "月野香澄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-152"
+  },
+  {
+    "id": 3829,
+    "IDcode": "BACJ-153",
+    "title": "ヌルガリオイルエステ ヌルヌルのスレンダーボディを密着させて射精に導く極上エステ店 水城りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "小隻馬",
+      "素股",
+      "港區女子",
+      "苗條",
+      "4K",
+      "美腳",
+      "癡女",
+      "羞恥",
+      "大奶头",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "單體作品",
+      "按摩・美容店",
+      "深喉",
+      "高顏值",
+      "風俗娘",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "按摩女郎",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "抹油",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "高妹",
+      "無毛",
+      "乳交",
+      "按摩・物理治療・美容",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014450640640_thumbnail.webp",
+    "actress": [
+      "水城りん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-153"
+  },
+  {
+    "id": 4652,
+    "IDcode": "BACJ-154",
+    "title": "舐め×痴女×GAL 椎名キキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "M男・M女",
+      "口爆",
+      "港區女子",
+      "辣妹/GAL系",
+      "4K",
+      "美腳",
+      "癡女",
+      "口交",
+      "性感",
+      "單體作品",
+      "美人",
+      "後入",
+      "劇情",
+      "舔陰",
+      "手指插入",
+      "高妹",
+      "肛交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706104835575575_44929_thumbnail.webp",
+    "actress": [
+      "椎名琪琪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-154"
+  },
+  {
+    "id": 4648,
+    "IDcode": "BACJ-155",
+    "title": "薄暗いバーの入り口でぐったりしているその女、実はお持ち帰り待ちをしていたセックス依存症のド変態痴女 白浜美羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "獵豔",
+      "巨尻",
+      "小隻馬",
+      "二次元",
+      "M男・M女",
+      "辣妹/GAL系",
+      "4K",
+      "美少女",
+      "美腳",
+      "癡女",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "口交",
+      "單體作品",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "美人",
+      "地雷系",
+      "後入",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "角色扮演",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "神待娘",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68aca7615f03a092cf744f4e/cover.jpg",
+    "actress": [
+      "白浜美羽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-155"
+  },
+  {
+    "id": 4651,
+    "IDcode": "BACJ-156",
+    "title": "スピリチュアルオイルマッサージ 精子を求める淫らで真诚な私 川崎あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "M男・M女",
+      "慾求不滿",
+      "豐滿",
+      "阪道系",
+      "4K",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "美人妻",
+      "單體作品",
+      "人妻",
+      "按摩・美容店",
+      "高顏值",
+      "中出",
+      "美人",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "抹油",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "按摩・物理治療・美容",
+      "誘騙女性",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706104918304304_72516_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-156"
+  },
+  {
+    "id": 3719,
+    "IDcode": "BACJ-157",
+    "title": "最後に犯●れるドS痴女 僕を虐めて楽しむ偉そうな上流階級に復讐の腰振り みひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨尻",
+      "殘忍畫面",
+      "M男・M女",
+      "口爆",
+      "插入異物",
+      "性虐癖",
+      "唾液敷面",
+      "打屁股",
+      "鬼畜片",
+      "凌辱",
+      "4K",
+      "美少女",
+      "緊縛",
+      "癡女",
+      "美腳",
+      "拘束・拷問",
+      "羞恥",
+      "美乳",
+      "早漏",
+      "口交",
+      "性感",
+      "跳蛋",
+      "淫蕩・硬核",
+      "形象俱樂部",
+      "單體作品",
+      "深喉",
+      "高顏值",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "SM",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "美臀",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "素人",
+      "乳交",
+      "調教",
+      "黑絲",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013538848848_84297_thumbnail.webp",
+    "actress": [
+      "佐倉陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-157"
+  },
+  {
+    "id": 3655,
+    "IDcode": "BACJ-158",
+    "title": "性欲を持て余した寂しい女上司達の逆セクハラ飲み会で輪●されて搾り取られた僕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "艷遇",
+      "巨尻",
+      "兩女一男",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "苗條",
+      "4K",
+      "美腳",
+      "OL",
+      "雙飛",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "美乳",
+      "清楚系",
+      "亂交 • 群P",
+      "巨乳",
+      "女上司",
+      "性感",
+      "被妹子搭訕",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "野性",
+      "淫亂",
+      "超爆乳",
+      "中出",
+      "蕩婦",
+      "美人",
+      "後入",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "酒後亂性",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/202508110956595252_25691_thumbnail.webp",
+    "actress": [
+      "小早川怜子",
+      "月島さくら",
+      "月岛さくら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-158"
+  },
+  {
+    "id": 3699,
+    "IDcode": "BACJ-159",
+    "title": "華麗な指技にリピーターが続出する極責めエステサロン 丸最レア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "打手槍",
+      "巨尻",
+      "素股",
+      "二次元",
+      "口爆",
+      "豐滿",
+      "臀控",
+      "4K",
+      "美少女",
+      "癡女",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "單體作品",
+      "按摩・美容店",
+      "高顏值",
+      "風俗娘",
+      "極品美人",
+      "蠻橫嬌羞",
+      "超爆乳",
+      "猥褻穿著",
+      "按摩女郎",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "少女",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "抹油",
+      "清純",
+      "舔陰",
+      "手指插入",
       "拜金女",
       "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "小隻馬",
-      "單體作品",
-      "蠻橫嬌羞",
-      "苗條",
-      "絕頂高潮",
-      "網襪",
-      "寫真女郎",
-      "胸控・戀乳癖",
-      "抹油",
-      "性感",
-      "高顏值",
-      "美腳",
-      "巨乳",
-      "企畫",
-      "後入",
-      "舔陰",
-      "女優",
-      "口交",
       "按摩・物理治療・美容",
-      "美少女電影",
-      "寫真偶像",
-      "自慰",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/21/def70187/vod.jpg",
-    "actress": [
-      "海老咲碧",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-019"
-  },
-  {
-    "id": 2781,
-    "IDcode": "MANX-020",
-    "title": "新 究極主観JOI 7日間淫語コントロールされるSPH特化ver 吉根ゆりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "真實拍攝",
-      "女上位",
-      "美人",
-      "淫語",
-      "胖女人",
-      "大乳暈",
-      "濕身",
-      "淫亂",
-      "豐滿",
-      "超爆乳",
-      "癡女",
-      "乳交",
-      "形象俱樂部",
-      "調教",
-      "巨尻",
-      "泳裝",
-      "單體作品",
-      "網襪",
-      "胸控・戀乳癖",
-      "抹油",
-      "ASMR顱内高潮",
-      "性感",
-      "無毛",
-      "主觀視角",
-      "巨乳",
-      "企畫",
-      "後入",
-      "舔陰",
-      "女優",
-      "口交",
-      "真人秀",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/21/7a49c603/vod.jpg",
-    "actress": [
-      "吉根柚莉爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-020"
-  },
-  {
-    "id": 68790,
-    "IDcode": "MAQQ-002",
-    "title": "現役の保険外交員はセックスレスのシングルマザー、服の上からも分かるハチきれんばかりの超乳K-cupは欲求不満の証、電撃DEBUT！沙月さん（38歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "超乳",
-      "巨乳",
-      "胖女人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/8ad3df30bb10fafea84bacad684ae317.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-002"
-  },
-  {
-    "id": 198790,
-    "IDcode": "MAQQ-003",
-    "title": "マニアが歓喜する鮮度バツグン肉厚ぽっちゃり熟女、入荷しました。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/b34e0742f27183b9d4570ab998fceeb3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-003"
-  },
-  {
-    "id": 61256,
-    "IDcode": "MAQQ-005",
-    "title": "エゲつない腰つき！揺れまくる熟成肉！人妻巨乳ベリーダンサー、電撃DEBUT！早苗さん（45歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "巨乳",
-      "胖女人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/4b8ca3d2822f5c2e2a6b99fcf587979d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-005"
-  },
-  {
-    "id": 177590,
-    "IDcode": "MAQQ-006",
-    "title": "ガンギマリK-cup爆乳Tatooキメセク☆ラリラフィー ＃媚薬シーシャ ＃怪しいオイル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/5878ce26/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAQQ-006"
-  },
-  {
-    "id": 92671,
-    "IDcode": "MAR-032",
-    "title": "MAR032まるっと！篠田優。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/4e2774207d1610d522f38eb75ddc706a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAR-032"
-  },
-  {
-    "id": 169385,
-    "IDcode": "MARA-046-CN",
-    "title": "CHINASES SUB  逢沢りいなの爆乳劇場 Hcup97cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240825-1/149f5712350c9eb492ac2d227fc1d1e2.jpg",
-    "actress": [
-      "逢澤理衣奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-046-CN"
-  },
-  {
-    "id": 78474,
-    "IDcode": "MARA-046CN",
-    "title": "MARA046CN CHINASES SUB  逢沢りいなの爆乳劇場 Hcup97cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/edece0019d418afd2c6b4688d5cb4413.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-046CN"
-  },
-  {
-    "id": 74788,
-    "IDcode": "MARA-048",
-    "title": "音海里奈の爆乳劇場 Hcup！100cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无毛",
-      "乳交",
-      "中出",
-      "巨乳",
-      "礼仪小姐"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-07-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250109-1/e0f984f4c148ef77598843354baab840.jpg",
-    "actress": [
-      "音海里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-048"
-  },
-  {
-    "id": 77731,
-    "IDcode": "MARA-050",
-    "title": "​​奈槻れいらの爆乳剧场Hcup101cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "无毛",
-      "乳交",
-      "中出",
-      "礼仪小姐",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/2bcflmpl0uc.jpg",
-    "actress": [
-      "奈槻れいら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-050"
-  },
-  {
-    "id": 78255,
-    "IDcode": "MARA-052",
-    "title": "の爆乳劇場 Jcup！105cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "乳交",
-      "中出",
-      "巨乳",
-      "礼仪小姐",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240825-1/acdde6f3c9dafbcae9ad670b31d84c97.jpg",
-    "actress": [
-      "佐知子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-052"
-  },
-  {
-    "id": 72731,
-    "IDcode": "MARA-055",
-    "title": "小梅えなの爆乳劇場Kcup",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "故事集",
-      "乳交",
-      "中出",
-      "巨乳",
-      "礼仪小姐"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/30/ab76bd5bf66e32835b5ea13ed47a9ac3.jpg",
-    "actress": [
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-055"
-  },
-  {
-    "id": 79772,
-    "IDcode": "MARA-061",
-    "title": "爆乳劇場-有岡みう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "恋乳癖",
-      "中出",
-      "巨乳",
-      "礼仪小姐"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/28/2029c13ddc5fde75d3dd0109e1326479.jpg",
-    "actress": [
-      "椎叶みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-061"
-  },
-  {
-    "id": 218129,
-    "IDcode": "MARA-064",
-    "title": "爆乳劇場-姫咲はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/05/1cbbe8a694b5044ce1caf5a5d376038e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-064"
-  },
-  {
-    "id": 220246,
-    "IDcode": "MARA-065",
-    "title": "爆乳劇場-水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/18/b243b6df5c759dd03e3c1b0f61c47054.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-065"
-  },
-  {
-    "id": 219168,
-    "IDcode": "MARA-067",
-    "title": "爆乳劇場-小野崎りこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/03/2f6ab5bee720f561f0753748879e7f59.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-067"
-  },
-  {
-    "id": 225068,
-    "IDcode": "MARA-068",
-    "title": "爆乳剧场-三田樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/5ecee24cd9c5296ca1902aaa1e2919ea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-068"
-  },
-  {
-    "id": 176788,
-    "IDcode": "MARA-070",
-    "title": "ちなみんの爆乳劇場Gcup！97cm",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/648041e7d722e0ed1bccde2255d5404a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-070"
-  },
-  {
-    "id": 88059,
-    "IDcode": "MARAA-016",
-    "title": "星那美月 白とピンク",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-10-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230907-1/e4a828d32357f4eca91efcb3cbd98e91.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-016"
-  },
-  {
-    "id": 95978,
-    "IDcode": "MARAA-193",
-    "title": "朝霧ましろ・月見るい ふたりえっち！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-1/e34e0da7f5a286d93158b1a3caefda6b.jpg",
-    "actress": [
-      "月見るい",
-      "朝霧ましろ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-193"
-  },
-  {
-    "id": 95479,
-    "IDcode": "MARAA-198",
-    "title": "三上りの おくすりの！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/30a62f1180fe164836cecfb6dbfbd7aa.jpg",
-    "actress": [
-      "三上りの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-198"
-  },
-  {
-    "id": 95478,
-    "IDcode": "MARAA-199",
-    "title": "妹尾真衣 ヌード未満",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/d95ff684c6ca202d8ddf11ed99cd841d.jpg",
-    "actress": [
-      "妹尾真衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-199"
-  },
-  {
-    "id": 95477,
-    "IDcode": "MARAA-200",
-    "title": "黑崎りず キミだけに見せるね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/375ff700b2a0a648abfd7d8750340a53.jpg",
-    "actress": [
-      "黒崎りず"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-200"
-  },
-  {
-    "id": 95447,
-    "IDcode": "MARAA-201",
-    "title": "成瀬花奈 かなの快感ふるぬーど！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/441b197a440aeb79f28133744eef4ed3.jpg",
-    "actress": [
-      "成瀬花奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-201"
-  },
-  {
-    "id": 76442,
-    "IDcode": "MARAA-202",
-    "title": "月見るい・新沢渚 るいちゃん、そこはダメっ…【～ふたりえっちスピンオフ～】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/5db1f2198813c823c634a772f66c3963.jpg",
-    "actress": [
-      "月見るい",
-      "新沢渚"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-202"
-  },
-  {
-    "id": 60913,
-    "IDcode": "MARAA-206",
-    "title": "常田めるも・月見るい ふたりえっち！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/31dfcab998dc61b54803cfec782e1946.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-206"
-  },
-  {
-    "id": 60910,
-    "IDcode": "MARAA-207",
-    "title": "新沢渚 ヌード未満",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/2f79be834c61d652e37e34d46030072d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-207"
-  },
-  {
-    "id": 73224,
-    "IDcode": "MARAA-209",
-    "title": "ケモミミな彼女 白星優菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/284b2b39/vod.jpg",
-    "actress": [
-      "白星優菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-209"
-  },
-  {
-    "id": 178778,
-    "IDcode": "MARAA-211",
-    "title": "キミだけに見せるね新沢渚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/01/9c02cffa/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-211"
-  },
-  {
-    "id": 178783,
-    "IDcode": "MARAA-212",
-    "title": "ひみつちゃんはHカップひみつちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/01/a809db90/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-212"
-  },
-  {
-    "id": 71527,
-    "IDcode": "MARAA-213",
-    "title": "園児たちにはナイショだよ！杉咲あか里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/01/79e4a71175181544a27dd6c6abb0b660.jpg",
-    "actress": [
-      "杉咲あか里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-213"
-  },
-  {
-    "id": 174693,
-    "IDcode": "MARAA-214",
-    "title": "白星優菜 白星ちゃんの神おっぱいに埋もれたい！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/02/c6d9ab00/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-214"
-  },
-  {
-    "id": 173989,
-    "IDcode": "MARAA-215",
-    "title": "朝霧ましろ・月見るい ふたりえっち！2～ふたりきり、恋色の思い出～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/05/1fa4ec3d/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-215"
-  },
-  {
-    "id": 209617,
-    "IDcode": "MAS-002",
-    "title": "この女の子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/14/e2ce236080d2c2b4124c756b1237367e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAS-002"
-  },
-  {
-    "id": 222042,
-    "IDcode": "MAS-018",
-    "title": "农村乱伦-二ノ宮慶子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/6d3ad3006d04a7ddde0bb0334f63556f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAS-018"
-  },
-  {
-    "id": 226616,
-    "IDcode": "MAS-063",
-    "title": "绝对美少女出租-朱音唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/7ef6d604126c68304a8327c14ca775c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAS-063"
-  },
-  {
-    "id": 178069,
-    "IDcode": "MASE-060",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし 優梨まいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/08/93b5a521605a61c4086030077a438d33.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-060"
-  },
-  {
-    "id": 4608,
-    "IDcode": "MASE-065",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし 奈美 31歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美臀",
-      "大奶头",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "純粹的慾望",
-      "約炮",
-      "過膝襪・小腿襪",
-      "劇情",
-      "美腿",
       "御姐系",
-      "處男",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "高妹",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013354686686_20548_thumbnail.webp",
+    "actress": [
+      "丸石稀有"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-159"
+  },
+  {
+    "id": 3658,
+    "IDcode": "BACJ-160",
+    "title": "新人女王 M性感で働くことになった普通の女の子 那津乃ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "殘忍畫面",
+      "M男・M女",
       "慾求不滿",
-      "不倫",
-      "巨尻",
-      "單體作品",
-      "家庭主妇",
-      "素人作品",
-      "性感",
-      "巨乳",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "美人妻",
-      "騎乗位",
-      "阪道系"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/39b8a06f4ffb8b295458f9b0b34d2bcb.jpg",
-    "actress": [
-      "黒木奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-065"
-  },
-  {
-    "id": 4605,
-    "IDcode": "MASE-066",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし さつき 28歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "短裙・迷你裙",
-      "美臀",
-      "飯店",
+      "性虐癖",
+      "苗條",
+      "女僕制服",
+      "4K",
+      "美少女",
+      "美腳",
       "美乳",
-      "手指插入",
-      "真實拍攝",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "美腿",
-      "淫亂",
-      "豐滿",
-      "御姐系",
       "清楚系",
-      "處男",
-      "4K",
-      "乳交",
+      "口交",
       "形象俱樂部",
-      "中出",
-      "高妹",
-      "慾求不滿",
-      "清純",
-      "小隻馬",
+      "單體作品",
       "短髮",
-      "巨尻",
-      "單體作品",
-      "若妻",
-      "家庭主妇",
-      "性感",
-      "無毛",
-      "美腳",
-      "巨乳",
-      "企畫",
-      "紀錄片",
-      "後入",
-      "舔陰",
-      "口交",
-      "臀控",
-      "美人妻",
-      "騎乗位",
-      "地味"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/8212175a9b5065387d4ecdf598897c58.jpg",
-    "actress": [
-      "豊岡さつき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-066"
-  },
-  {
-    "id": 4607,
-    "IDcode": "MASE-067",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし のぞみ 29歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "真實拍攝",
-      "人妻",
-      "女上位",
-      "接吻",
+      "貧乳",
+      "女王",
+      "COSPLAY服飾",
       "美人",
-      "艷遇",
-      "約炮",
-      "極品美人",
-      "美腿",
-      "處男",
-      "癡女",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "高妹",
-      "慾求不滿",
-      "小隻馬",
-      "巨尻",
-      "單體作品",
-      "若妻",
-      "金髮",
-      "絕頂高潮",
-      "家庭主妇",
-      "出軌",
-      "素人作品",
-      "胸控・戀乳癖",
-      "性感",
-      "高顏值",
-      "美腳",
-      "巨乳",
-      "企畫",
       "後入",
-      "明星臉",
-      "口爆",
-      "辣妹/GAL系",
+      "少女",
+      "SM",
+      "劇情",
+      "清純",
       "舔陰",
-      "口交",
-      "美人妻",
+      "美少女電影",
+      "手指插入",
+      "高妹",
+      "女上位",
       "騎乗位"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/44d42cadac208e6469115a957535ad00.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095803376376_65489_thumbnail.webp",
     "actress": [
-      "有村希"
+      "那津乃千奈美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-067"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-160"
   },
   {
-    "id": 187007,
-    "IDcode": "MASE-068",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし 小春 28歳 三池小春",
+    "id": 3673,
+    "IDcode": "BACJ-161",
+    "title": "2人の嫁に甘やかされて幸福飽和状態！毎日好きなだけ性処理してくれるから幸せ勃起が止まらない",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/0b55b46ba0b672b64e11bb69630f1b9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-068"
-  },
-  {
-    "id": 61131,
-    "IDcode": "MASE-069",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし せりの 32歳 織本せりの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
+      "3P・4P",
+      "巨尻",
+      "兩女一男",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "阪道系",
       "4K",
-      "人妻",
-      "素人作品",
-      "女上位",
-      "中出",
-      "精选，综合",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/69104784d8343bdb77ffba02e991a724.jpg",
-    "actress": [
-      "織本せりの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-069"
-  },
-  {
-    "id": 61105,
-    "IDcode": "MASE-070",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし 今日子 33歳 真木今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4K",
-      "人妻",
-      "素人作品",
-      "女上位",
-      "中出",
-      "精选，综合",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/f6125a803ee8283556400f787c6056ae.jpg",
-    "actress": [
-      "真木今日子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-070"
-  },
-  {
-    "id": 177183,
-    "IDcode": "MASE-077",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし ひまり 27歳 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/13/b90d95d175a82d5e3f724a9db8fea692.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-077"
-  },
-  {
-    "id": 177189,
-    "IDcode": "MASE-078",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし 未帆 32歳 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/13/822c2807e1dd7d4579044f506b7dbd7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-078"
-  },
-  {
-    "id": 177110,
-    "IDcode": "MASE-079",
-    "title": "初体験は人妻と… 最高に羨ましい筆下ろし ゆり 29歳 工藤ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/6bc62f18/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-079"
-  },
-  {
-    "id": 155436,
-    "IDcode": "MASM-001",
-    "title": "混帳高傲姪女對大人的我謾罵到讓人屈服逆強暴搾精M墮落的故事",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250104-1/1c313f57331d089ae8414a7eaa66f62b.jpg",
-    "actress": [
-      "松本一香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-001"
-  },
-  {
-    "id": 218462,
-    "IDcode": "MASM-003",
-    "title": "离家出走的婊子-花狩まい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/23/277211efb4531abe1bd7e33280c5d56e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-003"
-  },
-  {
-    "id": 85220,
-    "IDcode": "MASM-008",
-    "title": "当我订购了一个家政服务时-愛上みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "足交",
-      "中出",
-      "姐姐",
-      "巨乳",
-      "单体作品",
-      "M男"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/23/71e250b30f160e4bbd928ee12c47a966.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-008"
-  },
-  {
-    "id": 162448,
-    "IDcode": "MASM-009-C",
-    "title": "朋友的妹妹看起来很清纯但是超狂妄 【好弱的肉棒】击碎自尊 仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250411-1/84727e51f8604011383866688a2b2e9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-009-C"
-  },
-  {
-    "id": 100557,
-    "IDcode": "MASM-010",
-    "title": "的婊子霸占了我的房子-天馬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "足交",
-      "女生",
-      "中出",
-      "高中女生",
-      "单体作品",
-      "M男"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/752e60004878b8bbdbb9c097d7851aec.jpg",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-010"
-  },
-  {
-    "id": 223126,
-    "IDcode": "MASM-011",
-    "title": "我的侄女-沢北みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/ca94e8b8676c343db3b7129e92c1f65c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-011"
-  },
-  {
-    "id": 100507,
-    "IDcode": "MASM-012",
-    "title": "老师你好弱喔-横宫七海",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "高中女生",
-      "巨乳",
-      "单体作品",
-      "美少女电影",
-      "M男"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/7ee3c9c997b53be2ce596de4cf7c23c8.jpg",
-    "actress": [
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-012"
-  },
-  {
-    "id": 90909,
-    "IDcode": "MASM-015",
-    "title": "友達の妹が清純そうに見えてクソ生意気なメスガキだった！敬語で「ざこち●ぽですねぇ」と罵られて大人のプライドを打ち砕かれて逆レ搾精されまくった 沙月恵奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "高中女生",
-      "巨乳",
-      "监禁",
-      "单体作品",
-      "M男"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-08-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240301-1/2196f8269b1151e34b7bf8cbba63223b.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-015"
-  },
-  {
-    "id": 17593,
-    "IDcode": "MASM-018",
-    "title": "和看似天真無邪朋友的妹妹玩惩罚游戏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "JK校服",
-      "形象俱樂部",
-      "中出",
-      "口交",
-      "美少女電影",
-      "乱伦",
       "美少女",
-      "劇情",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231127/30e5872a-5675-40a8-9184-5dfddcb30d82.jpg",
-    "actress": [
-      "由良佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-018"
-  },
-  {
-    "id": 17318,
-    "IDcode": "MASM-019",
-    "title": "愛你愛到想毀掉你-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "JK校服",
-      "女王",
-      "舔陰",
-      "中出",
-      "口交",
-      "性感",
-      "制服",
-      "美少女",
-      "劇情",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/7991c7a735f2896e36a95535854cf4a5.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-019"
-  },
-  {
-    "id": 92046,
-    "IDcode": "MASM-021",
-    "title": "虽然第一次有了女朋友-市井結夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "接吻",
-      "中出",
-      "妹妹",
-      "高中女生",
-      "单体作品",
-      "M男"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240322-1/28eabdaf306c31414798b2a93acf79d7.jpg",
-    "actress": [
-      "市井結夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-021"
-  },
-  {
-    "id": 14806,
-    "IDcode": "MASM-024",
-    "title": "不上学家裡蹲女学生的自宅访问",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "黑絲",
-      "少女",
-      "乳交",
-      "中出",
-      "美少女",
-      "苗條",
-      "內衣",
-      "絕頂高潮",
-      "自宅",
-      "胸控・戀乳癖",
-      "性感",
       "美腳",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "口交",
-      "美少女電影",
-      "制服",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/f6ef442b72511abe2eb071d369ea7e93.jpg",
-    "actress": [
-      "五日市芽依"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-024"
-  },
-  {
-    "id": 11125,
-    "IDcode": "MASM-029",
-    "title": "無職になった俺の家にくそ生意気な家出メスガキJ系を泊めることになり、ざぁこざぁこと四六時中煽られまくる搾精中出し地獄 美澄玲衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "女上位",
-      "艷遇",
-      "過膝襪・小腿襪",
-      "劇情",
-      "足交",
-      "形象俱樂部",
-      "中出",
-      "小隻馬",
-      "美少女",
-      "自宅",
-      "美腳",
-      "後入",
-      "叛逆少女",
-      "口交",
-      "美少女電影",
-      "白絲",
-      "蘿莉控",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/a807a06f14c6a323abf362588271170b.jpg",
-    "actress": [
-      "美澄玲衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-029"
-  },
-  {
-    "id": 10539,
-    "IDcode": "MASM-030",
-    "title": "超狂妄的雌小鬼侄女-雅子丽奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "手指插入",
-      "女上位",
-      "艷遇",
-      "劇情",
-      "黑絲",
       "癡女",
+      "雙飛",
+      "中性",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "後宮系",
+      "淫亂",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
       "少女",
-      "中出",
-      "不倫",
-      "小隻馬",
-      "叔叔・姪女",
-      "美少女",
-      "苗條",
-      "脚控・戀足癖",
+      "後入",
+      "劇情",
+      "美臀",
       "絕頂高潮",
-      "自宅",
-      "潮吹",
-      "JK校服",
-      "美腳",
+      "清純",
       "舔陰",
-      "口交",
-      "美少女電影",
-      "乱伦",
-      "蘿莉控",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241223-1/6924fca5c811f8f7f53d5bf063b97a4a.jpg",
-    "actress": [
-      "雅子裡菜",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASM-030"
-  },
-  {
-    "id": 92993,
-    "IDcode": "MATERIALL-1",
-    "title": "Materiall1周年记念 BEST35SEX8时间-西条琉璃,藤森里穂,松本一香等演员。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240928-1/1495118158f862a9c0da7c7c8a2bda27.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MATERIALL-1"
-  },
-  {
-    "id": 213660,
-    "IDcode": "MAZOF-012",
-    "title": "大胸IT顾问讲师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/30/ad6b8718ff1849561ee705c5aa4ad329.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAZOF-012"
-  },
-  {
-    "id": 214835,
-    "IDcode": "MAZOF-020",
-    "title": "一名优等生迷上与成年男子做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/03/482f0f6fda9df46d9437dead4c8f4e55.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAZOF-020"
-  },
-  {
-    "id": 214831,
-    "IDcode": "MAZOF-021",
-    "title": "私立進学校英語教師",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/03/d35fd3afbe78dacedbaade4208997fa3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAZOF-021"
-  },
-  {
-    "id": 190153,
-    "IDcode": "MBDD-2149",
-    "title": "冬愛ことね夢幻少女batch",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "M.B.D",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/d1a8b2a44c505781929465c4c7deded6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2149"
-  },
-  {
-    "id": 190148,
-    "IDcode": "MBDD-2150",
-    "title": "桃園怜奈楽園のベル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "M.B.D",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/b691ea1954baaf1a60486e67f948e3b8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2150"
-  },
-  {
-    "id": 59882,
-    "IDcode": "MBDD-2155",
-    "title": "聖白書～まりなに恋して西尾まりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "介绍影片",
-      "偶像",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "M.B.D",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/4e05046e/vod.jpg",
-    "actress": [
-      "西尾真里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2155"
-  },
-  {
-    "id": 174258,
-    "IDcode": "MBDD-2156",
-    "title": "佐々木さきSweetie Angel",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "M.B.D",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/31/b678bdea/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2156"
-  },
-  {
-    "id": 174304,
-    "IDcode": "MBDD-2158",
-    "title": "一条みおHeaven Drops",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "M.B.D",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/2e617f2f13813bc776d96b55e00ffd1e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2158"
-  },
-  {
-    "id": 92639,
-    "IDcode": "MBI-153",
-    "title": "童貞の僕をちっぱいで誘惑してくる！？小悪魔従妹松本一香。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/82da9d8f32cf574d6ecf4348f356cc67.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBI-153"
-  },
-  {
-    "id": 166028,
-    "IDcode": "MBM-031",
-    "title": "働き方改革の余波…。旦那の残業代カットで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/odxhuyu0dsf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBM-031"
-  },
-  {
-    "id": 81744,
-    "IDcode": "MBM-145",
-    "title": "mpo.jpプレゼンツ ザ☆ノンフィクション 素人ナンパ 神回ベスト【下町の路地裏美女編】 12人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "精选，综合",
-      "中出",
-      "猎艳",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-03-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/8802f07dd1392064de5bededba9d908b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBM-145"
-  },
-  {
-    "id": 90908,
-    "IDcode": "MBM-725",
-    "title": "あなた誤解してますよ！黒髪清楚な人妻って、実は隠れヤリマンだったりします。。。清楚系エロギャップ最強説！ 12人240分3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "猎艳",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-09-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240301-1/b14b32c290f6b089d32803207caeb522.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBM-725"
-  },
-  {
-    "id": 90907,
-    "IDcode": "MBM-732",
-    "title": "まさかウチの子が！？親は処女だと思ってる？清楚で無邪気、無防備な箱入り娘の淫乱ビッチなマル秘実態。12人4時間2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "无毛",
-      "4小时以上作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-10-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240301-1/84aa1fe293062ecd54a5c7dca2a192f3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBM-732"
-  },
-  {
-    "id": 90905,
-    "IDcode": "MBM-740",
-    "title": "「あの人（旦那）が相手してくれないから…」 言い訳妻の浮気心 女盛りの肉体を持て余す我慢出来ない淫乱熟女12人4時間2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4小时以上作品",
-      "偷窥"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-10-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240301-1/8c4e3e7f66e825cea25aa9ea5d2d75f3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBM-740"
-  },
-  {
-    "id": 90906,
-    "IDcode": "MBM-752",
-    "title": "身の回りに潜む清楚な顔したむっつりヤリマン 隠れビッチな素人熟女とワンチャンしたい 隣の淫乱妻12人240分5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "巨乳",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-11-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240301-1/981cafc4f9487380ac81bea4165e7acf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBM-752"
-  },
-  {
-    "id": 198751,
-    "IDcode": "MBMA-041",
-    "title": "【清楚で品良くセレブな人妻たち】 ナンパ中出し ラグジュアリーエロス 12人4時間SP2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/55147e0b0798b9dee46f3ee3e40d4378.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-041"
-  },
-  {
-    "id": 190663,
-    "IDcode": "MBMA-061",
-    "title": "お義母さん…素敵です… あんな小娘よりも私の方が良いでしょ？ 美しき義母の色香に惑わされ 禁断の愛を受け入れてしまった母 12人4時間4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/9f342024fb61b3cf7e34e625d8c12c13.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-061"
-  },
-  {
-    "id": 62595,
-    "IDcode": "MBMA-062",
-    "title": "麻縄の甘美な快楽に堕ちていく美熟女たち 厳選映像六話収録 240分マニアSPECIAL4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "SM",
-      "中出",
-      "巨乳",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/1fce0862bce2f189e6495b737eaf4a8e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-062"
-  },
-  {
-    "id": 62594,
-    "IDcode": "MBMA-063",
-    "title": "無防備すぎる母がチラ見せする乳首がエロすぎて…僕はもう我慢出来ない！黒乳首を見られて発情する女たち 8人4時間SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "口交",
-      "巨乳",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/ed92771ee152b3e230132dc49604cfbe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-063"
-  },
-  {
-    "id": 190711,
-    "IDcode": "MBMA-064",
-    "title": "遅咲き熟女 良き妻・良き母を務めてきた遊びを知らないお堅い女が…過呼吸になるほどの濃密なSEX 20人4時間10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/4b5707daed930a0bed682a253906b1a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-064"
-  },
-  {
-    "id": 62593,
-    "IDcode": "MBMA-065",
-    "title": "【人生最大の大悲報】 知らぬ間に自慢の彼女がネトラレまして…。 大好きだった彼女の知らなかったウラの顔 6人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "4小时以上作品",
-      "中出",
-      "猎艳"
-    ],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/3cb92df14307ffb2269f2af69e4e9e57.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-065"
-  },
-  {
-    "id": 190146,
-    "IDcode": "MBMA-066",
-    "title": "「うちの母がエロ過ぎて困ってます…」誰にも言えない僕の悩み 旺盛な性欲を全力で振りかざしてくる母とガマンの限界が近づくボクの物語12話4時間6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/fc480f9180e3eff7b93fb3b5495717f0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-066"
-  },
-  {
-    "id": 62592,
-    "IDcode": "MBMA-067",
-    "title": "「俺のサオが吸い上げられるぅぅぅ～」絡まり吸い付く至高の密壺！濃厚熟女騎乗位FUCK 12人4時間11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "舔阴",
+      "手指插入",
+      "自慰",
+      "乳交",
+      "御姐系",
       "女上位",
-      "4小时以上作品",
-      "荡妇"
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "MBM",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/86faa91e1c37a51aa689acc00125b24c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-067"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811031744226226_23196_thumbnail.webp",
+    "actress": [
+      "真白みのり",
+      "紫月由香里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-161"
   },
   {
-    "id": 190097,
-    "IDcode": "MBMA-069",
-    "title": "こういう女を狙え！！ 絶対ヤレる人妻ナンパ ヤリたい盛りの既婚者たち ナンパ中出し12人4時間@08",
+    "id": 2871,
+    "IDcode": "BACJ-162",
+    "title": "新人女王 凄く嫌だけど彼の為ならM性感で働ける、痴女にだってなれる あすかみおん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "M男・M女",
+      "網襪",
+      "4K",
+      "癡女",
+      "羞恥",
+      "色白",
+      "美乳",
+      "口交",
+      "形象俱樂部",
+      "單體作品",
+      "淫亂",
+      "女王",
+      "蠻橫嬌羞",
+      "猥褻穿著",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "SM",
+      "美臀",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
     ],
     "type": "有码",
-    "company": "MBM",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/b85858241b53990992e1a744a08ccd93.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-069"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250907/20250907005933305305_60246_thumbnail.webp",
+    "actress": [
+      "飛鳥美音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-162"
   },
   {
-    "id": 62591,
-    "IDcode": "MBMA-070",
-    "title": "SEXするなら絶対 地方の人妻！！ヤリたい盛りの奧さんたち 平日昼間はイケない浮気タイム 清楚に見えて…実はヤリマン？旦那は知らない愛妻の淫らな性癖12名240分@11batch",
+    "id": 2866,
+    "IDcode": "BACJ-163",
+    "title": "スピリチュアルオイルマッサージ 精子を求める淫らで真誠な私 海野いくら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
+      "濕身",
+      "口爆",
+      "慾求不滿",
+      "豐滿",
+      "臀控",
+      "4K",
+      "美腳",
+      "胸控・戀乳癖",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "鬃毛",
+      "接吻",
+      "形象俱樂部",
       "潮吹",
-      "成熟的女人",
-      "新娘，年轻妻子",
-      "人妻",
-      "4小时以上作品"
+      "單體作品",
+      "按摩・美容店",
+      "高顏值",
+      "野性",
+      "極品美人",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "抹油",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "按摩・物理治療・美容",
+      "黑絲",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "MBM",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/d8e749bae872084a41a5651010b08f6b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-070"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212829529529_20622_thumbnail.webp",
+    "actress": [
+      "海野いくら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-163"
   },
   {
-    "id": 190660,
-    "IDcode": "MBMA-072",
-    "title": "「絶対に内緒にして下さいね？」あなたの知り合いが絶対います…うっかりナンパされ、流されてセックス…まさかのAV流出 魔が差したご近所妻 12人240分8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/e865d608fe59e56bb8ea799c14d46e0c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-072"
-  },
-  {
-    "id": 190172,
-    "IDcode": "MBMA-074",
-    "title": "いくつになってもオンナです（ハート） 濃厚でエロすぎるSEX！ グイグイ自ら求めるマエムキ熟女 12人240分3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/914adb28d1d2349115d13e10f5269371.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-074"
-  },
-  {
-    "id": 62590,
-    "IDcode": "MBMA-075",
-    "title": "ノンフィクション ハメられた女たち 20名-知らぬ間に撮影された痴態",
+    "id": 2867,
+    "IDcode": "BACJ-164",
+    "title": "中年さんは甘え盛り！バブっとおぎゃおぎゃギャルママ保育で赤ちゃんおじさん発情中！ 桜木えりか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "3P・4P",
+      "奇聞趣事",
+      "口爆",
+      "慾求不滿",
+      "辣妹/GAL系",
+      "4K",
+      "癡女",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "口交",
+      "雙馬尾",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
+      "淫亂",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "舔陰",
+      "幼稚園老師",
+      "手指插入",
+      "無毛",
+      "金髮",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2bb195f13d063bcde5ec1/cover.jpg",
+    "actress": [
+      "櫻木繪里香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-164"
+  },
+  {
+    "id": 517312,
+    "IDcode": "BACJ-165",
+    "title": "靈性精油按摩 渴求精子的淫蕩又真",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa7eb7d6fbef4e90087a88/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-165"
+  },
+  {
+    "id": 176690,
+    "IDcode": "BACJ-166",
+    "title": "毎日性処理してくれる俺の嫁は奉仕好きで甘え上手な射精マニア 椎菜える",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-166"
+  },
+  {
+    "id": 557103,
+    "IDcode": "BACK-NAGASHI",
+    "title": "体验现在秘密流行的餐厅 尾田香音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACK-NAGASHI"
+  },
+  {
+    "id": 525176,
+    "IDcode": "BACKSTAGE",
+    "title": "Footjob",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACKSTAGE"
+  },
+  {
+    "id": 74754,
+    "IDcode": "BACN-004",
+    "title": "おぢさんが送って来る絵文字って顔に汗のやつ多過ぎ 渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "吞精",
+      "多P",
       "平胸",
       "中出",
-      "巨乳",
-      "4小时以上作品",
-      "乳房"
+      "素人作品",
+      "精选，综合"
     ],
     "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/e8bc2f5de8371290509e927c8fd4e197.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-075"
+    "companys": [],
+    "publish_date": "2019-07-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/6310fc8781dd4947f6c31ad5b1547969.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-004"
   },
   {
-    "id": 190586,
-    "IDcode": "MBMA-076",
-    "title": "百姓だってセックスはしてえだよ！ 抑え切れない欲求不満がついに爆発！ 我慢出来ない農家のおばさん12人4時間2",
+    "id": 523833,
+    "IDcode": "BACN-011",
+    "title": "18歳の性癖。～関系性を无视したセックスは性の目覚めの初期冲动～ 加贺美まり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "MBM",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/0afe7ca3a14b71ce2bf4835d79ca3e9d.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200914-1/8566d08cc198b06330e9aa6824cd0748.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-076"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-011"
   },
   {
-    "id": 62589,
-    "IDcode": "MBMA-077",
-    "title": "ほとばしる熟女のエロチズム 乳首ビンビン五十路熟女 使い込まれ肥大化したデカ乳首をフル勃起させて快感に没入していく 20人4時間15",
+    "id": 519611,
+    "IDcode": "BACN-012",
+    "title": "3484_ 絶対的小悪魔主义～絶伦チ●ポを弄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220925/qsP1OdXz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-012"
+  },
+  {
+    "id": 98317,
+    "IDcode": "BACN-014",
+    "title": "あいちゃん～純朴系淫乱ロリ娘の粘りつく天然愛液～ 河奈亜依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4小时以上作品",
+      "多P",
+      "中出",
+      "骑乗位",
+      "口交",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-01-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "河奈亜依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-014"
+  },
+  {
+    "id": 98002,
+    "IDcode": "BACN-016",
+    "title": "美少女逆援助変態生活～清楚ビッチの可憐なおじさん喰い～ 笠木いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "中出",
+      "美少女电影",
+      "精选，综合",
+      "滥交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-02-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "笠木いちか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-016"
+  },
+  {
+    "id": 81517,
+    "IDcode": "BACN-018",
+    "title": "激萌え注意な色白美少女の冬愛ことねが痴女に挑戦！が、ヲタ男子のフリしたAV男優のハードピストンで絶頂しまくりの連続中出しされてしまう！ 冬愛ことね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "荡妇",
+      "M男",
+      "中出",
+      "口交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-03-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "冬爱琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-018"
+  },
+  {
+    "id": 81446,
+    "IDcode": "BACN-019",
+    "title": "＃女子●生 ＃ロリ美少女 ＃パパ活 ヤリマンみれいちゃんの円交映像 新田みれい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "瘦小身型",
+      "中出",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fbd12f59061dfb70fa9950d2f7326d1a.jpg",
+    "actress": [
+      "新田みれい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-019"
+  },
+  {
+    "id": 86722,
+    "IDcode": "BACN-022",
+    "title": "ハメ撮り兄妹～歪み過ぎた性癖のBrother and Sister～ 堀北わん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "中出",
+      "口交",
+      "女上位",
+      "滥交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/5ba57040886c75bcba438770333fa8c0.jpg",
+    "actress": [
+      "堀北わん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-022"
+  },
+  {
+    "id": 470283,
+    "IDcode": "BACN-034",
+    "title": "大叔與離家出走的姪女 泉莉音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688abeda98bc99dfddd1441d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-034"
+  },
+  {
+    "id": 592698,
+    "IDcode": "BACN-041",
+    "title": "“私を买ってください”という女の子たち。 冲奈ミツキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://pic9.anzise.com/pic/20220106/12a8626f64dffd93c909fb1a90a086d1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-041"
+  },
+  {
+    "id": 71865,
+    "IDcode": "BADA-006",
+    "title": "モテる若妻の淫風の日々～あたりまえの‘ごっくん中出し連続絶頂’が不倫相手を虜にさせる～ 七瀬ひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "吞精",
+      "出轨",
+      "新娘，年轻妻子",
       "中出"
     ],
     "type": "有码",
-    "company": "MBM",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/a9b2a22bda888537bafb83151bba9d72.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-077"
-  },
-  {
-    "id": 182980,
-    "IDcode": "MBMA-078",
-    "title": "黒人にナンパされた熟女さんはデカマラに興味津々 想像以上の巨根を膣奥まで突っ込まれ狂ったようにイキまくる 黒人マラで昇天する素人熟女12人4時間SP4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2e15446bfefb3fc492562f2215bc8b92.jpg",
+    "actress": [
+      "七海雛"
     ],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/3b661d5b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-078"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BADA-006"
   },
   {
-    "id": 61668,
-    "IDcode": "MBMA-080",
-    "title": "中高年夫婦の愛ある濃厚中出し交尾 長年連れ添った熟年夫婦だからこその ねっとり密着情交 12組4時間DX",
+    "id": 75789,
+    "IDcode": "BADA-007",
+    "title": "旦那に内緒で猥褻な集まりに参加した人妻はエグいくらい積極的 高坂あいり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "成熟的女人",
+      "人妻",
+      "已婚妇女",
+      "出轨",
+      "白天出轨",
       "中出",
-      "口交",
-      "巨乳",
-      "4小时以上作品",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/7e34e6be/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-080"
-  },
-  {
-    "id": 182970,
-    "IDcode": "MBMA-081",
-    "title": "熟れ頃垂れパイ 超絶感度の爆乳熟女 12人4時間3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "巨乳"
     ],
     "type": "有码",
-    "company": "MBM",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/277bc595/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-081"
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/fb9c38c798052689e2be2e8be9e3274c.jpg",
+    "actress": [
+      "高坂あいり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BADA-007"
   },
   {
-    "id": 61667,
-    "IDcode": "MBMA-082",
-    "title": "隣の奥さんがエロすぎて困ってます…溜まりに溜まった欲求不満をご近所肉棒で解消する人妻たち12名4時間",
+    "id": 547806,
+    "IDcode": "BADA-008",
+    "title": "尻軽巨尻妻～ヒップ100cmセレブ若妻は旦那が居ないときはいつも不伦してる～ 栗山絵麻",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "淫乱，真实",
-      "4小时以上作品",
-      "荡妇"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "MBM",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/3bc6b4d3f26eea920f14859f4d00d3f8.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200810-1/f7c3461c0e6d9bcb8ee064a7fd00624d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-082"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BADA-008"
   },
   {
-    "id": 61666,
-    "IDcode": "MBMA-083",
-    "title": "ムスコのあそこがデカ過ぎて…。性欲旺盛！禁断の情欲が治まらない 完熟お母さんのド痴女セックス 12人4時間3",
+    "id": 540020,
+    "IDcode": "BADA-012",
+    "title": "冲撃！天然絶伦シングルマザー！23歳の子持ちママがオイルまみれで完全升天！ザーメン饮みたいし电マ当",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "骑乗位",
-      "舔阴",
-      "中出",
-      "4小时以上作品",
-      "荡妇"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "MBM",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/360773e2/vod.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240610/1615728981-bada012sopl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BADA-012"
   },
   {
-    "id": 61665,
-    "IDcode": "MBMA-086",
-    "title": "絶頂！潮吹き！大噴射！ダダ漏れお漏らし美人妻の潮吹き膣奥オーガズム 12人4時間3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "巨乳",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "MBM",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/2d39fa40/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-086"
-  },
-  {
-    "id": 182967,
-    "IDcode": "MBMA-088",
-    "title": "声だけで抜けるってマジっすか！？可愛すぎるハニーマイルドなアエギ声に激シコ！甘く切なくイキまくる人妻12人4時間10",
+    "id": 539135,
+    "IDcode": "BADA-017",
+    "title": "新村あかり- マゾ人妻调教倶楽部",
     "year": "",
     "country": "",
     "genre": "",
@@ -2205,10 +1568,1723 @@ window.PAGE_DATA = [
       "人妻"
     ],
     "type": "有码",
-    "company": "MBM",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/6c7e6da1/vod.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250604/D6GDGkVW/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBMA-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BADA-017"
+  },
+  {
+    "id": 470282,
+    "IDcode": "BADA-021",
+    "title": "有著超M願望的青梅竹馬妹子 優梨舞奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688abedc98bc99dfddd1441e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BADA-021"
+  },
+  {
+    "id": 568945,
+    "IDcode": "BADANGELS6661",
+    "title": "清纯学妹堕落记录 BadAngels6661 乖女孩被大叔开发到潮吹不止",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250923-1/64361a670f0773a18992dd69a29286d4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BADANGELS6661"
+  },
+  {
+    "id": 523831,
+    "IDcode": "BAEM-004",
+    "title": "Ecstasy Mode～麻里梨夏を味わい尽くすコスハメ5Act～ 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAEM-004"
+  },
+  {
+    "id": 523832,
+    "IDcode": "BAEM-005",
+    "title": "最新式:丰臀指导与榨精方法 仓多真央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200913-1/3c93d0831f724aaada60c120124d4d9e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAEM-005"
+  },
+  {
+    "id": 83519,
+    "IDcode": "BAEM-006",
+    "title": "絶頂ユートピア～風俗フルコースの癒しと快楽をアナタに～ 東条蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "深喉",
+      "礼仪小姐",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-12-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/74516e290577aec62595dd06d095339f.jpg",
+    "actress": [
+      "东条苍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAEM-006"
+  },
+  {
+    "id": 540046,
+    "IDcode": "BAEM-008",
+    "title": "流线形の淫らなカラダ～むちむち巨乳のラブホ扫除アルバイトがセクシーすぎてたまらずセクハラ朝までセックス～ 朝阳えま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAEM-008"
+  },
+  {
+    "id": 521046,
+    "IDcode": "BAEM-010",
+    "title": "瀬名ひかり- ハプニングホテル～天然Hカップなのにスレンダー！？神ボディ女子が降临！ノーブラで男狂わせ连続性交！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex822.com/20250922/LHOKlN0a/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAEM-010"
+  },
+  {
+    "id": 524193,
+    "IDcode": "BAEM00003",
+    "title": "baem00003 悪魔的痴女～仆が何かに目覚めた理由～ 新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240503-1/909f6bef21806c35bec67267305449da.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAEM00003"
+  },
+  {
+    "id": 539169,
+    "IDcode": "BAGBD-055",
+    "title": "桥本有菜- ハックツ美少女 Revolution",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250617/64Y5EbCh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGBD-055"
+  },
+  {
+    "id": 566739,
+    "IDcode": "BAGR-004",
+    "title": "ヤンデレめいちゃんのお兄ちゃん好き好き爱潮ぶっかけ调教日记",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bb9d3bf088db8617697d0f5b44f16c49.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-004"
+  },
+  {
+    "id": 531434,
+    "IDcode": "BAGR-005",
+    "title": "ご主人様の我慢颜が大好き！Iカップのフワフワ神乳でバブらせ射精支配してくる小悪魔ご奉仕メイド",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250422/12ozIDdf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-005"
+  },
+  {
+    "id": 347970,
+    "IDcode": "BAGR-006",
+    "title": "天使のように纯洁な见た目をした彼女はぶっ壊れセックスカルトビッチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250422/9Q94Vs4e/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-006"
+  },
+  {
+    "id": 566738,
+    "IDcode": "BAGR-007",
+    "title": "オタク兄贵の友情と性癖を歪ませるビッチ系妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3fc72ea7ab58ee371865c8588c7251e9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-007"
+  },
+  {
+    "id": 97224,
+    "IDcode": "BAGR-008",
+    "title": "【FANZA限定】べちゃ舐め唾液マーキングで発情交尾を迫るヤンデレ美少女みくるちゃん 真白みくる パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "单体作品",
+      "荡妇",
+      "中出",
+      "口交",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2022-09-14",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bagr008/bagr008pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-008"
+  },
+  {
+    "id": 97222,
+    "IDcode": "BAGR-009",
+    "title": "【FANZA限定】ギャルチューバ―めるのM男イジり大好きチャンネル 伊東める パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "美少女电影",
+      "单体作品",
+      "放尿"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2022-09-14",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bagr009/bagr009pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-009"
+  },
+  {
+    "id": 566737,
+    "IDcode": "BAGR-010",
+    "title": "“キミのガマン颜ずーーーっと见ててあげる。”小悪魔女子の见つめあい射精管理ビデオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1dc23c34a26f3372a6658f8ed914cac4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-010"
+  },
+  {
+    "id": 564257,
+    "IDcode": "BAGR-017",
+    "title": "オスに求められたいミニマム痴少女は兴奋剤を饮ませてバキバキになったドーピングチ○ポを喰い荒らす",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230619/Bn5tsgaT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-017"
+  },
+  {
+    "id": 91470,
+    "IDcode": "BAGR-018",
+    "title": "【FANZA限定】超接近して見つめられたら好きにならざるを得ない 如月ゆの パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "运动短裤",
+      "多P",
+      "中出",
+      "美少女电影",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2023-07-12",
+    "cover_url": "https://tuaskbgnekr.com/20230710/kseLM0H1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-018"
+  },
+  {
+    "id": 548538,
+    "IDcode": "BAGR-019",
+    "title": "乳首が弱い男の子が好きだって気づいた放课后",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230806/AgDZaeOr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-019"
+  },
+  {
+    "id": 548537,
+    "IDcode": "BAGR-020",
+    "title": "チ●ポバカ抜き强制射精委员会 限界まで射精したら不登校直るよ！と理不尽な理由で押しかけてきた女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230806/lmxHlN1n/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-020"
+  },
+  {
+    "id": 535730,
+    "IDcode": "BAGR-021",
+    "title": "[] 教室でレズッてるクラスメイトを见てしまった。それをネタに胁そうとしたら逆袭されて何度も射精させられた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-021"
+  },
+  {
+    "id": 547777,
+    "IDcode": "BAGR-022",
+    "title": "フリースタイル逆レ榨精！Mオジペロペロ舐めほじりアニマルコスハーレム",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231008/MuFHTfnN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-022"
+  },
+  {
+    "id": 562863,
+    "IDcode": "BAGR-023",
+    "title": "ノーパンノーブラ部屋着で兄のボクを挑発してくる妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231114/RAIeMSFP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-023"
+  },
+  {
+    "id": 562864,
+    "IDcode": "BAGR-024",
+    "title": "ボクを见下すスクールカースト上位女子达に媚薬を盛ってみたらオスとして见られすぎて大変なことになった。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231114/MIjgMPDn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-024"
+  },
+  {
+    "id": 91464,
+    "IDcode": "BAGR-025",
+    "title": "オタク兄貴の友情と性癖を歪ませるビッチ系妹 綾瀬こころ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "中出",
+      "妹妹",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240506-1/8ba424a1ca5464cbc91ab9e0cb5dbeca.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-025"
+  },
+  {
+    "id": 547195,
+    "IDcode": "BAGR-026",
+    "title": "超接近して见つめられたら好きにならざるを得ない",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231212/nkQ15kbA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-026"
+  },
+  {
+    "id": 516970,
+    "IDcode": "BAGR-027",
+    "title": "完全主觀變態哥哥連呼！想讓妹控哥",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9f6d831a2714f1c6a6a81/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-027"
+  },
+  {
+    "id": 347968,
+    "IDcode": "BAGR-028",
+    "title": "NTRビデオレター ヤンデレすぎる元教え子に最爱の妻をぶっ壊されました。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250422/hgvpQuw4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-028"
+  },
+  {
+    "id": 530719,
+    "IDcode": "BAGR-029",
+    "title": "完全主観でヘンタイお兄ちゃん连呼！シスコン兄にセックスを见せつけて欲しがりマゾ颜をオカズに小悪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250422/ouEs1Y6l/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-029"
+  },
+  {
+    "id": 530718,
+    "IDcode": "BAGR-030",
+    "title": "クラスの女子に性的イジメを受けた仆。気づいたら脳が荡けるハーレム状态に",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250422/p1wo04MI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-030"
+  },
+  {
+    "id": 546405,
+    "IDcode": "BAGR-031",
+    "title": "上京してきた従妹のメスガキ达に精子が果てるまで责め尽くされた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240212/5zUk5E0V/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-031"
+  },
+  {
+    "id": 546123,
+    "IDcode": "BAGR-032",
+    "title": "完全主観でヘンタイお兄ちゃん连呼！シスコン兄にセックスを见せつけて欲しがりマゾ颜をオカズに小悪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240311/4bvTj5Wq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-032"
+  },
+  {
+    "id": 545840,
+    "IDcode": "BAGR-033",
+    "title": "我慢颜＆暴発が大好物！おもらし射精するまでチ●ポを弄ぶ寸止め痴女っ娘コンビ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240408/RzoPCdnt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-033"
+  },
+  {
+    "id": 14769,
+    "IDcode": "BAGR-034",
+    "title": "有棲舞衣，扭曲御宅族兄弟友誼和性的賤人妹妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "M男・M女",
+      "苗條",
+      "亂倫",
+      "美少女",
+      "姐弟・兄妹",
+      "JK校服",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "潮吹",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "姐姐・妹妹",
+      "後入",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "美少女電影",
+      "手指插入",
+      "乱伦",
+      "乳交",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240512/f67bbbcc-7325-4ba5-85a2-6b6f6882f291.jpg",
+    "actress": [
+      "有栖舞衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-034"
+  },
+  {
+    "id": 545483,
+    "IDcode": "BAGR-035",
+    "title": "乳首が弱い男の子が好きだって気づいた放课后",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240519/KYhyaDu9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-035"
+  },
+  {
+    "id": 14774,
+    "IDcode": "BAGR-036",
+    "title": "沙月惠奈一個小妹妹，她的受虐臉被中出後高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "女學生",
+      "苗條",
+      "淫語",
+      "美少女",
+      "美腳",
+      "羞恥",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "制服",
+      "過膝襪・小腿襪",
+      "巨乳",
+      "口交",
+      "性感",
+      "潮吹",
+      "淫亂",
+      "中出",
+      "姐姐・妹妹",
+      "後入",
+      "少女",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "美少女電影",
+      "手指插入",
+      "自慰",
+      "乱伦",
+      "乳交",
+      "無毛",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-05-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240512/654b7969-d35c-4f8b-8a47-3591975e8cc9.jpg",
+    "actress": [
+      "沙月惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-036"
+  },
+  {
+    "id": 13455,
+    "IDcode": "BAGR-037",
+    "title": "欲望十足的女孩！在發現同學自慰的色情自拍照後被她的擺布成爲了M奴 ~ 音羽美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女電影",
+      "校園生活",
+      "貧乳",
+      "美少女",
+      "M男・M女",
+      "JK校服",
+      "學校",
+      "中出",
+      "口罩",
+      "蕩婦",
+      "口交",
+      "女上位",
+      "少女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-07-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20240709/d1640e3a-1e49-4e5e-ac10-7e76384c6301.jpg",
+    "actress": [
+      "音羽美鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-037"
+  },
+  {
+    "id": 13454,
+    "IDcode": "BAGR-038",
+    "title": "扭曲御宅哥哥友情和性欲的賤人妹妹白石環奈來了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "M男・M女",
+      "叛逆少女",
+      "慾求不滿",
+      "苗條",
+      "亂倫",
+      "美少女",
+      "癡女",
+      "姐弟・兄妹",
+      "JK校服",
+      "勾引・誘惑",
+      "色白",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "貧乳",
+      "淫亂",
+      "中出",
+      "姐姐・妹妹",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "乱伦",
+      "蘿莉",
+      "蘿莉控",
+      "女上位",
+      "宅男・宅女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-07-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20240709/adcb17a2-b74c-4fbb-94f1-8870fa8ffcee.jpg",
+    "actress": [
+      "白石環奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-038"
+  },
+  {
+    "id": 12681,
+    "IDcode": "BAGR-039",
+    "title": "渴望大雞巴的放蕩癡女平面偶像的特別攝影會 ~ 皆月光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "巨尻",
+      "放尿",
+      "美少女",
+      "中囯服裝",
+      "癡女",
+      "JK校服",
+      "色白",
+      "口交",
+      "形象俱樂部",
+      "寫真女郎",
+      "貧乳",
+      "私房攝影",
+      "蠻橫嬌羞",
+      "中出",
+      "後入",
+      "劇情",
+      "美少女電影",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-08-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20240815/64d2e6d5-1dc7-484c-8e82-c8208227625d.jpg",
+    "actress": [
+      "皆月光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-039"
+  },
+  {
+    "id": 12684,
+    "IDcode": "BAGR-040",
+    "title": "思春期的漂亮女孩限界誘惑同學 ~ 葵美玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "女學生",
+      "M男・M女",
+      "慾求不滿",
+      "戀物癖",
+      "美少女",
+      "癡女",
+      "JK校服",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "美少女電影",
+      "校園生活",
+      "同學",
+      "女上位",
+      "學校",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-08-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20240815/bd60cd6c-926f-4929-91bb-b514c85e65ab.jpg",
+    "actress": [
+      "葵美玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-040"
+  },
+  {
+    "id": 544815,
+    "IDcode": "BAGR-041",
+    "title": "男の人って1日に何回射精出来るのかなぁ？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240923/eCkJafgP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-041"
+  },
+  {
+    "id": 308148,
+    "IDcode": "BAGR-042",
+    "title": "顔で抜く！！顔面ドアップPOV 家庭教師のボクを常に至近距離で見つめながら過剰求愛淫語で迫る教え子 望月つぼみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-042"
+  },
+  {
+    "id": 12098,
+    "IDcode": "BAGR-043",
+    "title": "看着能興奮自慰的顏值！！ ~ 円井萌華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "美少女電影",
+      "女學生",
+      "高顏值",
+      "美少女",
+      "明星臉",
+      "主觀視角",
+      "JK校服",
+      "學校",
+      "口交",
+      "企畫",
+      "少女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-09-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20240909/baf007bc-bd9b-4dc0-ac77-b8fca8e1477e.jpg",
+    "actress": [
+      "円井萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-043"
+  },
+  {
+    "id": 11417,
+    "IDcode": "BAGR-044",
+    "title": "渴望被操的癡女偶像攝影會 ~ 栄川乃亜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男・M女",
+      "女僕制服",
+      "美少女",
+      "美腳",
+      "癡女",
+      "美乳",
+      "口交",
+      "形象俱樂部",
+      "寫真女郎",
+      "私房攝影",
+      "淫亂",
+      "COSPLAY服飾",
+      "中出",
+      "後入",
+      "企畫",
+      "美少女電影",
+      "偶像",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-10-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20241006/4274efbb-2942-455e-9537-6a8a5f75491e.jpg",
+    "actress": [
+      "栄川乃亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-044"
+  },
+  {
+    "id": 11418,
+    "IDcode": "BAGR-045",
+    "title": "欲望全開女孩！當發現女孩自慰後，她變成了任我擺布的M奴 ~ 花音うらら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "女學生",
+      "小隻馬",
+      "慾求不滿",
+      "美少女",
+      "美腳",
+      "癡女",
+      "JK校服",
+      "口交",
+      "形象俱樂部",
+      "短髮",
+      "蠻橫嬌羞",
+      "中出",
+      "蕩婦",
+      "後入",
+      "少女",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "校園生活",
+      "脅迫做愛",
+      "同學",
+      "女上位",
+      "學校",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2024-10-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20241006/148c152b-5c2d-4b60-9ab9-a3da4969e9fb.jpg",
+    "actress": [
+      "花音うらら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-045"
+  },
+  {
+    "id": 10659,
+    "IDcode": "BAGR-046",
+    "title": "顔で抜く！！顔面ドアップPOV 生殺し上手のもなみさん もなみ鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口爆",
+      "局部特寫",
+      "感官作品",
+      "JK校服",
+      "美乳",
+      "口交",
+      "形象俱樂部",
+      "短髮",
+      "深喉",
+      "明星臉",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "顏射",
+      "女優",
+      "美少女電影",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241113/83b39f77-ffad-4b25-a2e5-0cacab05da2f.jpg",
+    "actress": [
+      "萌波鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-046"
+  },
+  {
+    "id": 10711,
+    "IDcode": "BAGR-047",
+    "title": "限界引誘男人的思春期女孩 ~ 泉田栞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "巨尻",
+      "M男・M女",
+      "慾求不滿",
+      "戀物癖",
+      "美少女",
+      "癡女",
+      "JK校服",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "中出",
+      "蕩婦",
+      "後入",
+      "少女",
+      "劇情",
+      "美少女電影",
+      "校園生活",
+      "乳交",
+      "女上位",
+      "學校",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/9d1734f88a06bef136e31b44ba96b0e2.jpg",
+    "actress": [
+      "泉田栞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-047"
+  },
+  {
+    "id": 10043,
+    "IDcode": "BAGR-048",
+    "title": "和宅男哥哥的友誼被和癡女妹妹的變態性癖扭曲了 ~ 千石もなか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "女學生",
+      "小隻馬",
+      "M男・M女",
+      "慾求不滿",
+      "亂倫",
+      "癡女",
+      "姐弟・兄妹",
+      "JK校服",
+      "勾引・誘惑",
+      "自宅",
+      "色白",
+      "亂交 • 群P",
+      "口交",
+      "形象俱樂部",
+      "兩男一女",
+      "短髮",
+      "淫亂",
+      "中出",
+      "姐姐・妹妹",
+      "後入",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "乱伦",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c1348a00693963767e9c1b/cover.jpg",
+    "actress": [
+      "千石もなか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-048"
+  },
+  {
+    "id": 9162,
+    "IDcode": "BAGR-049",
+    "title": "性欲全開的女子！當發現女同學自慰照後，她就成了我擺布的受虐M女奴 ~ 花狩舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "巨尻",
+      "慾求不滿",
+      "蒙面・面罩",
+      "女僕制服",
+      "美少女",
+      "主觀視角",
+      "JK校服",
+      "羞恥",
+      "色白",
+      "處男",
+      "女同",
+      "口交",
+      "形象俱樂部",
+      "校花",
+      "中出",
+      "口罩",
+      "蕩婦",
+      "美人",
+      "美腿",
+      "後入",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "校園生活",
+      "脅迫做愛",
+      "足交",
+      "同學",
+      "女上位",
+      "學校",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b3ebe62cbbe464027d393b/cover.jpg",
+    "actress": [
+      "花狩舞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-049"
+  },
+  {
+    "id": 9161,
+    "IDcode": "BAGR-050",
+    "title": "充滿青春活力的叛逆少女的限界誘惑 ~ 葵井みずほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "叛逆少女",
+      "慾求不滿",
+      "戀物癖",
+      "口爆",
+      "美少女",
+      "癡女",
+      "JK校服",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "校花",
+      "蠻橫嬌羞",
+      "中出",
+      "蕩婦",
+      "美人",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "校園生活",
+      "手指插入",
+      "乳交",
+      "同學",
+      "女上位",
+      "學校",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2025-01-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20250113/6b5f1953-c26b-4cd6-a748-0069d422fdb2.jpg",
+    "actress": [
+      "葵井みずほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-050"
+  },
+  {
+    "id": 174062,
+    "IDcode": "BAGR-051",
+    "title": "メンヘラ彼女に浮気がばれた僕！ヤンデレ見せつけNTRで鬱射精！ 桐谷すずね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-051"
+  },
+  {
+    "id": 188177,
+    "IDcode": "BAGR-052",
+    "title": "あたシコ！シコられたい欲が強すぎる痴女個撮モデルの誘い受けオフパコ撮影会 松下りこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-052"
+  },
+  {
+    "id": 188162,
+    "IDcode": "BAGR-053",
+    "title": "あたシコ欲全開女子！オナペにしてるクラスメイトのエロ自撮りを発見してから僕は彼女のいいなりM奴● 天月あず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8df1c7f3b7c92907398d5/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-053"
+  },
+  {
+    "id": 188157,
+    "IDcode": "BAGR-054",
+    "title": "天使のように純潔な見た目をした彼女はぶっ壊れセックスカルトビッチ 乙羽あむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/5ebde2730859f50793af05d3e99ac761.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-054"
+  },
+  {
+    "id": 7651,
+    "IDcode": "BAGR-055",
+    "title": "宅男哥哥的性癖扭曲了和妹妹的感情 ~ 天乃のあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "女學生",
+      "M男・M女",
+      "豐滿",
+      "亂倫",
+      "美少女",
+      "癡女",
+      "姐弟・兄妹",
+      "羞恥",
+      "JK校服",
+      "色白",
+      "自宅",
+      "清楚系",
+      "亂交 • 群P",
+      "口交",
+      "形象俱樂部",
+      "兩男一女",
+      "淫亂",
+      "蠻橫嬌羞",
+      "中出",
+      "姐姐・妹妹",
+      "後入",
+      "劇情",
+      "清純",
+      "美少女電影",
+      "乱伦",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689d61511cc1e2086915a1ec/cover.jpg",
+    "actress": [
+      "天乃のあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-055"
+  },
+  {
+    "id": 402964,
+    "IDcode": "BAGR-056",
+    "title": "男の人って1日に何回射精出来るのかなぁ？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250706-1/431adecbd3d94eb56793a01d5fb979cb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-056"
+  },
+  {
+    "id": 6951,
+    "IDcode": "BAGR-057",
+    "title": "化身擼材極限勾引身邊男人的青春迷途小騷女 ~ 泉莉音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳裝",
+      "女學生",
+      "小隻馬",
+      "M男・M女",
+      "倉庫",
+      "純粹的慾望",
+      "戀物癖",
+      "感官作品",
+      "美少女",
+      "美腳",
+      "癡女",
+      "主觀視角",
+      "JK校服",
+      "美乳",
+      "過膝襪・小腿襪",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "高顏值",
+      "校花",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "少女",
+      "美臀",
+      "清純",
+      "美少女電影",
+      "校園生活",
+      "蘿莉控",
+      "女上位",
+      "學校",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "2025-04-09",
+    "cover_url": "https://picture.yoshiclub.xyz/20250409/9c87d58f-8fa9-4b19-a561-3342fcad4e0d.jpg",
+    "actress": [
+      "泉莉音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-057"
+  },
+  {
+    "id": 6249,
+    "IDcode": "BAGR-058",
+    "title": "あたシコ欲全開女子！オナペにしてるクラスメイトのエロ自撮りを発見してから僕は彼女のいいなりM奴● 宮本聡美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "M男・M女",
+      "慾求不滿",
+      "素人作品",
+      "女僕制服",
+      "4K",
+      "美少女",
+      "美腳",
+      "癡女",
+      "主觀視角",
+      "色白",
+      "清楚系",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "單體作品",
+      "校花",
+      "蠻橫嬌羞",
+      "COSPLAY服飾",
+      "中出",
+      "美人",
+      "企畫",
+      "空姐制服",
+      "少女",
+      "後入",
+      "劇情",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "校園生活",
+      "手指插入",
+      "乳交",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BALTAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BALTAN",
+        "works_count": 218
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/08/68956f1f6ccb447f8c4445ac/cover.jpg",
+    "actress": [
+      "宮本聡美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-058"
   }
 ];

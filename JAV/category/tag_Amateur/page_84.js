@@ -1,531 +1,1133 @@
 window.PAGE_DATA = [
   {
-    "id": 552315,
-    "IDcode": "300MIUM-0671",
-    "title": "【你能把你的乳头撕下来吗？ ] 出人意料地在少女房间远程工作的色素沉着的成人乳头被一个在家工作的难以忍受的男人拉来扯去玩。 - Webデザイナー 入社2年目 蓝川さん",
+    "id": 552744,
+    "IDcode": "259LUXU-0116",
+    "title": "豪华电视103",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250907-1/29136e2a29f065183ff2723096d0666e.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/3571e5ad90b538442faa7e6802b8ffb5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0671"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0116"
   },
   {
-    "id": 196709,
-    "IDcode": "300MIUM-0672",
-    "title": "担忧的萝莉美少女作为女优借出",
+    "id": 552745,
+    "IDcode": "259LUXU-0117",
+    "title": "豪华电视127",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/29/c488edd47c8b47e5e56931c96a443a71.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/57f0ae0ab9ca30c593cf5ce1610c7125.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0672"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0117"
   },
   {
-    "id": 173660,
-    "IDcode": "300MIUM-0675",
-    "title": "超认真的办公室女郎欲求不满爆发",
+    "id": 553453,
+    "IDcode": "259LUXU-0118",
+    "title": "豪华电视115",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/08/09b54bc8d4ca2f61a88f61ee9a89f20a.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/af907c9a3a29a991b4bb60ec3f3a6334.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0675"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0118"
   },
   {
-    "id": 516154,
-    "IDcode": "300MIUM-0684",
-    "title": "工作的超M女子 遠野",
+    "id": 553299,
+    "IDcode": "259LUXU-0128",
+    "title": "豪华电视121",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e0395c79f1ac4ec48bbe89/cover.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/2c68c7b89d252946c132df24c8ef7a7e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0684"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0128"
   },
   {
-    "id": 144337,
-    "IDcode": "300MIUM-0688",
-    "title": "中出通勤到H大山雀乘火车性骚扰玩牛奶中出午休期间他妈的服务在工作结束时横冲直撞的巨大乳房被坚硬的活塞撕裂3次射精到全天完全运作的工作胸部",
+    "id": 552851,
+    "IDcode": "259LUXU-0129",
+    "title": "豪华电视125",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/057f6e9b7ab2c0c384b45de40694a529.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/0a6fc0789af0a06261e47d42772c5ac2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0688"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0129"
   },
   {
-    "id": 144338,
-    "IDcode": "300MIUM-0690",
-    "title": "F奶3射精阴道射精从早上开始它坚持称为灵敏度MAX的行走性欲OL一个无情的性骚扰阴道暨在行驶的火车上不由自主地被邀请到一个针织大山雀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/9548ebeba6c5cad16110bf22e1ab2c35.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0690"
-  },
-  {
-    "id": 144339,
-    "IDcode": "300MIUM-0697",
-    "title": "与推出G-cup信息素的美女一起跳过的旅行即便是在约会圣地横滨长期扔牛奶的内衣店员也太显眼太危险了大量的阴道暨射在马的背部已经顺利修饰的Ko你今天要跳过公司吗31新宿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/548666ebf1e38e6c292475acfc799fc3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0697"
-  },
-  {
-    "id": 144340,
-    "IDcode": "300MIUM-0698",
-    "title": "美腿裤套装是色情AsagayaOLGET有开店经验的BL写手积累的性欲今晚爆发阴道射液流deS觉醒是不可预测的连续你今天要跳过公司吗32in阿佐谷",
+    "id": 553309,
+    "IDcode": "259LUXU-0130",
+    "title": "豪华电视122",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c228cfec2b0e8f482ecca4c3aa1c81cd.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/f6ed018d6a233521878f72f3793f0a98.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0698"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0130"
   },
   {
-    "id": 144341,
-    "IDcode": "300MIUM-0699",
-    "title": "F罩杯美少女还在成长清爽的时尚美少女OL和艺术体操准备的柔韧身体我绝对想怀孕最好的兼容性Pode融化ma我很抱歉在Ko播种的精液你今天想跳过公司吗33in锦系町",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2cd4e3debc15b2e979f5a9358ef2fb0f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0699"
-  },
-  {
-    "id": 144342,
-    "IDcode": "300MIUM-0701",
-    "title": "原始模型明星般的美少女登场下裆87cm的超美腿与男友无心出院人生的第一次足交-直到下雨天在酒店的第二轮......喘气和OmaKoicha爆炸性的Nuki不可避免的丰富的2SEX录音",
+    "id": 553403,
+    "IDcode": "259LUXU-0134",
+    "title": "豪华电视130",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/23398dbb6e8e264951eae297e3c4e71b.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/cbc3bcb40386f9543c76583ac8356348.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0701"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0134"
   },
   {
-    "id": 144343,
-    "IDcode": "300MIUM-0703",
-    "title": "一天想要做爱四次的超凡名人老婆MuchimuchiG牛奶",
+    "id": 553446,
+    "IDcode": "259LUXU-0136",
+    "title": "豪华电视131",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b0a0ac9dfc746c8b982eb09b1e7cdc60.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/f6f4c5b196b204596ec40c8029e57ac3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0703"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0136"
   },
   {
-    "id": 144344,
-    "IDcode": "300MIUM-0705",
-    "title": "色情护士与医生在医院醉酒上火的身体才是最高的性欲Vibe变成泡好的白板越来越进入发情期大屁股越戳小屁屁敏感度越爆",
+    "id": 553456,
+    "IDcode": "259LUXU-0137",
+    "title": "豪华电视 133",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/ee3fc6a4c93a6b049c1f115d53357fba.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/10e281211b50da9db91768bc28a7dd25.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0705"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0137"
   },
   {
-    "id": 144345,
-    "IDcode": "300MIUM-0706",
-    "title": "配音演员的蛋喉咙色情松鼠拍摄视频以声优为目标的职业学校的半美人紧绷紧实的MAX美臀纤细的身体MegachiKo插入的势头醉酒和晕倒在痛苦抽搐大暨锦系町站区域的梯子酒73到早上",
+    "id": 553473,
+    "IDcode": "259LUXU-0138",
+    "title": "豪华电视129",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/6894b2ee2dd195aa29fc0fb35d3b0603.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/72a0c299320a305b0be44401316ec857.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0706"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0138"
   },
   {
-    "id": 144346,
-    "IDcode": "300MIUM-0709",
-    "title": "给幼稚的F奶新人4射精娃娃脸和身高167厘米的好差距趁著无法拒绝的个性无论工作还是私下从早到晚按SEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/cd4c501f3c305b47ceb065148cb1b37b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0709"
-  },
-  {
-    "id": 144347,
-    "IDcode": "300MIUM-0710",
-    "title": "国际问题不可避免8对俄罗斯美女的无理J-Porn攻击你可以通过从早到晚扭转金发蓝眼睛的东欧美女甚至在工作中为所欲为",
+    "id": 552852,
+    "IDcode": "259LUXU-0139",
+    "title": "豪华电视132",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/054bcf2bad756e2bc3f83f2bddc64d39.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/c9219221a4012f1a24d25f979b7e3e39.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0710"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0139"
   },
   {
-    "id": 144348,
-    "IDcode": "300MIUM-0711",
-    "title": "J杯116厘米",
+    "id": 553411,
+    "IDcode": "259LUXU-0140",
+    "title": "豪华电视128",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/440de6f37e46202b8ccc934d471b05b0.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/7a00befed14cb87d8b52307dbfd9b064.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0711"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0140"
   },
   {
-    "id": 144349,
-    "IDcode": "300MIUM-0712",
-    "title": "一个无论从哪个角度都太可爱的美少女潮水喷射并没有停在即将溢出的巨大乳房上看看你想传给后代的SEX你今天想跳过公司吗35in新宿",
+    "id": 553389,
+    "IDcode": "259LUXU-0141",
+    "title": "豪华电视226",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/d265bbd03d48d323a7f77883402f1c51.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/551662eb8a4d6512781629f9b5ee94e6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0712"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0141"
   },
   {
-    "id": 541099,
-    "IDcode": "300MIUM-0713",
-    "title": "Rent A Huge Breasts Apparel Designer As Her!",
+    "id": 552853,
+    "IDcode": "259LUXU-0142",
+    "title": "豪华电视145",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/1a2eea3caa65b4f55251106e154d71f5.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/bf143a39343c4b47c5d951957471e3cd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0713"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0142"
   },
   {
-    "id": 144350,
-    "IDcode": "300MIUM-0714",
-    "title": "巨乳枪人世界琥珀肉质柔软的皮肤H杯巨乳x丰满的鞭子美女大屁股x经验丰富的女性超过3位数的经验喝早泄性欲旺盛用背部压下柯会引起大抽搐大胸部大屁股晃动并卷起涩谷站附近的梯子酒74到早上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2a52ad7972ba16f30d3cacfb1ef90718.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0714"
-  },
-  {
-    "id": 144351,
-    "IDcode": "300MIUM-0717",
-    "title": "巨乳I罩杯被人生第一个蔬菜责备搞糊涂的新上班族接连下达的性处理令伸到工作单位附近的家中揉的好捏的好摇的好-柏木さん大手警备会社事务入社1年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/74a0baafe053c27dce99636d570c527c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0717"
-  },
-  {
-    "id": 144352,
-    "IDcode": "300MIUM-0718",
-    "title": "美丽e奶妹租个优雅的美容师做她完全REC整个故事被破坏到最初被禁止的色情行为被说服在横滨约会后在酒店做爱完美超然的乳房非常适合您乳头的颜色酷姐用爆款活塞狂飙E奶模型级BODY",
+    "id": 552854,
+    "IDcode": "259LUXU-0143",
+    "title": "豪华电视142",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f80da3117b8e0e655533c1d1acd2eaf2.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/d2b2ef538f9cefcba5548f4f6c5718ec.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0718"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0143"
   },
   {
-    "id": 144353,
-    "IDcode": "300MIUM-0725",
-    "title": "在妻子家中两次阴道射精老公出差还要忍受手淫的片面妻子我很寂寞因为没有人看到我即使这是最色情的在豪宅的客厅洒潮暨池袋的喷泉广场在吗尽管它仍然是阴道射精但将接孩子的体积",
+    "id": 552855,
+    "IDcode": "259LUXU-0144",
+    "title": "豪华电视138",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/a0057d416e449bd2995ee3f4077d5f1f.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/76b4b2bc0051a772f729464ddedb2b5f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0725"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0144"
   },
   {
-    "id": 144354,
-    "IDcode": "300MIUM-0726",
-    "title": "F罩杯洒落的菜鸟白领小田原夏日之旅长矛充斥这太潮了这是一种濒临烧伤的罕见爆发大量精子注入阴道后部太热了不往前想的阴道精液是最愉快的你今天想跳过公司吗36in惠比寿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/edfa60593be490b94aada184d36a26ec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0726"
-  },
-  {
-    "id": 144355,
-    "IDcode": "300MIUM-0728",
-    "title": "G奶精液狂爱接吻的口间24小时瞄准这位白领的嘴唇GujuGujuCumKiss开发是浏览关注的有问题的工作-高敷さん求人サイト运营会社营业入社3年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b459047cdf66c54a738e8681a215c8c8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0728"
-  },
-  {
-    "id": 144356,
-    "IDcode": "300MIUM-0729",
-    "title": "用配套应用抓住男人包围理想中的姬宝的超强袭型美少女留意白瘦丰满的美臀和看得见的F奶性爱欢迎胶不是约会马Ko打破喷出和阴道射精精子也被重置你今天想跳过公司吗38in池袋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/3a61417a0e538ffd20ee62b6405c6275.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0729"
-  },
-  {
-    "id": 144357,
-    "IDcode": "300MIUM-0732",
-    "title": "惠G罩杯ASMR嗓子好的话咀嚼声应该也不错吧在工作和狂欢中推动不合理的业馀女孩地狱版-伊吹さんコールセンター勤务入社2年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/a5b25dd8c5b8e0ba00d89e3a5c8af646.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0732"
-  },
-  {
-    "id": 144358,
-    "IDcode": "300MIUM-0733",
-    "title": "中出漂亮的贱人尽管我敦促业馀办公室女士做爱但我变得冒犯了当我发情时我变成了贱人并随意追捕-南さんIT系企业企画マーケティング部入社4年目",
+    "id": 552856,
+    "IDcode": "259LUXU-0145",
+    "title": "豪华电视136",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/d752d7fad10f4b954f3cdb6a642ed05a.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/febeeff5e5c1235beabff75293eaa7c5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0733"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0145"
   },
   {
-    "id": 144359,
-    "IDcode": "300MIUM-0737",
-    "title": "超絕美體！ 至今為止和很多外國人交往過 和天性色情的人妻中出三連發 EMILY 桜庭ひかり",
+    "id": 553408,
+    "IDcode": "259LUXU-0146",
+    "title": "豪华电视135",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/eb1a15602f838c27a0476ab15308523b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0146"
+  },
+  {
+    "id": 553390,
+    "IDcode": "259LUXU-0147",
+    "title": "豪华电视139",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/a4335ffdeae226361e85377a55835237.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0147"
+  },
+  {
+    "id": 552857,
+    "IDcode": "259LUXU-0148",
+    "title": "豪华电视143",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/aeae5dd62e51995d164c94d7b22ffef5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0148"
+  },
+  {
+    "id": 553420,
+    "IDcode": "259LUXU-0149",
+    "title": "豪华电视140",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/ed49f1c0df08f499fbf198c48c3b910c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0149"
+  },
+  {
+    "id": 553300,
+    "IDcode": "259LUXU-0150",
+    "title": "豪华电视146",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/f268e355e7c7d6b577f991b53da54322.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0150"
+  },
+  {
+    "id": 537971,
+    "IDcode": "259LUXU-0151",
+    "title": "ラグジュTV 144",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231226/pb_e_259luxu-151.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0151"
+  },
+  {
+    "id": 553419,
+    "IDcode": "259LUXU-0152",
+    "title": "豪华电视137",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/b60f4a3e3b1c57d3293103bb25bcf554.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0152"
+  },
+  {
+    "id": 552849,
+    "IDcode": "259LUXU-0153",
+    "title": "豪华电视149 - 高梨树里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/466d0a317b3585d9ee1c5740c973c998.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0153"
+  },
+  {
+    "id": 552858,
+    "IDcode": "259LUXU-0154",
+    "title": "豪华电视160",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/79720b78f798c813f10a31cf3b1e7e99.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0154"
+  },
+  {
+    "id": 553470,
+    "IDcode": "259LUXU-0155",
+    "title": "豪华电视150",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/e0106c45c856f66b113156668e141a02.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0155"
+  },
+  {
+    "id": 553458,
+    "IDcode": "259LUXU-0156",
+    "title": "豪华电视153",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/2220e398d5ef300f26ce642f8f7e8b69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0156"
+  },
+  {
+    "id": 537958,
+    "IDcode": "259LUXU-0157",
+    "title": "ラグジュTV 147",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231223/pb_e_259luxu-1573.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0157"
+  },
+  {
+    "id": 553442,
+    "IDcode": "259LUXU-0158",
+    "title": "豪华电视154",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/b5ea1519ab870e32cdd4bec808565ab5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0158"
+  },
+  {
+    "id": 553425,
+    "IDcode": "259LUXU-0159",
+    "title": "豪华电视155",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/2e9c606141efa2d27e805e06d70ccfa5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0159"
+  },
+  {
+    "id": 552859,
+    "IDcode": "259LUXU-0161",
+    "title": "豪华电视165",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/c915ec960cd2c244650ea5f206f35c5e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0161"
+  },
+  {
+    "id": 553414,
+    "IDcode": "259LUXU-0162",
+    "title": "豪华电视167",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/7043108450d52bb16ab85913cd99768f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0162"
+  },
+  {
+    "id": 552860,
+    "IDcode": "259LUXU-0163",
+    "title": "豪华电视169",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/7c887d385bc3a508faba71862e96110a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0163"
+  },
+  {
+    "id": 552861,
+    "IDcode": "259LUXU-0164",
+    "title": "豪华电视166",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/ee76875b078126fa67c88cfd54ef11bf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0164"
+  },
+  {
+    "id": 553406,
+    "IDcode": "259LUXU-0165",
+    "title": "豪华电视161",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/37d4555b4a6b6bf59048bc0b230528d8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0165"
+  },
+  {
+    "id": 553443,
+    "IDcode": "259LUXU-0167",
+    "title": "豪华电视159",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/a185dc86664f61b6f4a762a7360b8095.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0167"
+  },
+  {
+    "id": 552862,
+    "IDcode": "259LUXU-0168",
+    "title": "豪华电视151",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/1c7341201dae9dce8e2f85592d273cf9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0168"
+  },
+  {
+    "id": 537933,
+    "IDcode": "259LUXU-0169",
+    "title": "ラグジュTV 156 (美泉咲)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0169"
+  },
+  {
+    "id": 537941,
+    "IDcode": "259LUXU-0170",
+    "title": "ラグジュTV 228",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231221/pb_e_259luxu-1709.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0170"
+  },
+  {
+    "id": 552863,
+    "IDcode": "259LUXU-0171",
+    "title": "豪华电视152",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/ccb75e6605cb5f1871ece053fd357a74.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0171"
+  },
+  {
+    "id": 552864,
+    "IDcode": "259LUXU-0172",
+    "title": "豪华电视164",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/5ad1e11b1cc35a1cdf382bc903302fcf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0172"
+  },
+  {
+    "id": 553397,
+    "IDcode": "259LUXU-0173",
+    "title": "豪华电视170",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/904d42949db0f299a0c597391506b3ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0173"
+  },
+  {
+    "id": 552874,
+    "IDcode": "259LUXU-0174",
+    "title": "豪华电视163",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/c7af808c6995dbc3ded3d81f2d6bf302.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0174"
+  },
+  {
+    "id": 553398,
+    "IDcode": "259LUXU-0175",
+    "title": "豪华电视162",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/0c1b775dda4bdeeb2cf1c2b373520852.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0175"
+  },
+  {
+    "id": 537930,
+    "IDcode": "259LUXU-0176",
+    "title": "ラグジュTV 157 安西诗织 25歳 人妻 – 溜まっていく性欲を一人で解消するのに饱きてAV参加したラグジュ若奥様 (安西诗织)",
     "year": "",
     "country": "",
     "genre": "",
@@ -533,96 +1135,607 @@ window.PAGE_DATA = [
       "人妻",
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/04/787ec404d4f75345548ab20f338185f8.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231219/pb_e_259luxu-176.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0737"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0176"
   },
   {
-    "id": 144360,
-    "IDcode": "300MIUM-0738",
-    "title": "和啦啦队长一起去旅行吧在用NicoNicoHighTensionampUburiAction滴汤的同时性交时不停的抽搐和精子以及太色情的突然变化阴道射精没关系谢谢你今天想跳过公司吗39英寸五反田",
+    "id": 552865,
+    "IDcode": "259LUXU-0177",
+    "title": "豪华电视179",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/46beed247b5215fdc2eb0dc7abdee60c.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/21a34756425baea334fb5572afa8785f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0738"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0177"
   },
   {
-    "id": 79818,
-    "IDcode": "300MIUM-0744",
-    "title": "【最终兵器Icup】爆乳エロ过ぎお姉さんを彼女としてレンタル！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/5d7240377a61f7789e24b20603bba56f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0744"
-  },
-  {
-    "id": 144361,
-    "IDcode": "300MIUM-0746",
-    "title": "二岐早泄美女手淫时对素人家的紧急袭击酥脆MAX后的灵敏度-广瀬さん输入インテリア专门卸商社经理入社2年目",
+    "id": 552850,
+    "IDcode": "259LUXU-0178",
+    "title": "豪华电视177 - 神谷圆果",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/47a8e30d8c1db0739b3b6806fb45e516.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/be63313afa0293fd97566449c8860461.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0746"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0178"
   },
   {
-    "id": 144362,
-    "IDcode": "300MIUM-0747",
-    "title": "RawZarCum不喝精就给它喝恶意策划预演时两人独处的地方被指责为愤怒的精子-平井さん不动产会社营业入社5年目",
+    "id": 552866,
+    "IDcode": "259LUXU-0179",
+    "title": "豪华电视168",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/d610078bd0931d9d36b4f9648d89c96e.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/d2957426a92251c048071248dae01f62.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0747"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0179"
   },
   {
-    "id": 519773,
-    "IDcode": "300MIUM-0748",
-    "title": "[惠G杯人妻！ ！！ ] 脸和身体都太色情的妻子的出现！ ！！日常手淫达到【核能Lv.60】的敏感体质！",
+    "id": 552867,
+    "IDcode": "259LUXU-0180",
+    "title": "豪华电视173",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/7d02a7ecd7317d723d8b35265ff0205d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0180"
+  },
+  {
+    "id": 553472,
+    "IDcode": "259LUXU-0181",
+    "title": "豪华电视171",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/882f7fd81a0468fc55902ee281847fef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0181"
+  },
+  {
+    "id": 552868,
+    "IDcode": "259LUXU-0182",
+    "title": "豪华电视172",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/574aca31993abc97be6c846e8f1893d6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0182"
+  },
+  {
+    "id": 552871,
+    "IDcode": "259LUXU-0183",
+    "title": "豪华电视181",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/e94e1b9dd2cc7b3ec914b5319f2101ec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0183"
+  },
+  {
+    "id": 553444,
+    "IDcode": "259LUXU-0184",
+    "title": "豪华电视174",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/313ef2f4bdca1936e2b0046a8c194295.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0184"
+  },
+  {
+    "id": 553394,
+    "IDcode": "259LUXU-0185",
+    "title": "豪华电视180",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/57e27a6ea00c51ad1b9ef83402755780.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0185"
+  },
+  {
+    "id": 537896,
+    "IDcode": "259LUXU-0186",
+    "title": "ラグジュTV 176 (上冈あい)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231216/pb_e_259luxu-186.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0186"
+  },
+  {
+    "id": 553400,
+    "IDcode": "259LUXU-0187",
+    "title": "豪华电视182",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/b627f511382d4c676f22df90b53e0ea8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0187"
+  },
+  {
+    "id": 552869,
+    "IDcode": "259LUXU-0188",
+    "title": "豪华电视184",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/2624d33dd60bf70146013da7cc843baf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0188"
+  },
+  {
+    "id": 552870,
+    "IDcode": "259LUXU-0189",
+    "title": "豪华电视183",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/cac6dedeb60d559555ac56553a6c8836.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0189"
+  },
+  {
+    "id": 552872,
+    "IDcode": "259LUXU-0190",
+    "title": "豪华电视185",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/729e7d5e7abb4dcbd6e906c5b4ac819d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0190"
+  },
+  {
+    "id": 553303,
+    "IDcode": "259LUXU-0191",
+    "title": "豪华电视191",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/009f64d9c870cf20a50263fbd3e7df12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0191"
+  },
+  {
+    "id": 553297,
+    "IDcode": "259LUXU-0192",
+    "title": "豪华电视192",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/f610deaa4987be833550a6186a4d1712.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0192"
+  },
+  {
+    "id": 553301,
+    "IDcode": "259LUXU-0193",
+    "title": "豪华电视190",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/d56c182160a4dfc9f34de01ccf01178a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0193"
+  },
+  {
+    "id": 553412,
+    "IDcode": "259LUXU-0194",
+    "title": "豪华电视186",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/259c714c4959293319dd3fb14d58f2a3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0194"
+  },
+  {
+    "id": 553395,
+    "IDcode": "259LUXU-0196",
+    "title": "豪华电视196",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/67e116d88e7a1e3b2176cef251c14d71.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0196"
+  },
+  {
+    "id": 553306,
+    "IDcode": "259LUXU-0197",
+    "title": "豪华电视187",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/f9286445fc1ef2b95a1ad202d7a56da7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0197"
+  },
+  {
+    "id": 552873,
+    "IDcode": "259LUXU-0198",
+    "title": "豪华电视229",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/b2e748e860006192965169eb8a785984.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0198"
+  },
+  {
+    "id": 553302,
+    "IDcode": "259LUXU-0199",
+    "title": "豪华电视195",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/1486ef862df661278809e9a32f90563f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0199"
+  },
+  {
+    "id": 101306,
+    "IDcode": "259LUXU-0200",
+    "title": "ラグジュTV 188",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "荡妇",
+      "已婚妇女",
+      "HDTV",
+      "素人",
+      "业余",
+      "高端素人",
+      "巨乳",
+      "颜射",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-01-31",
+    "cover_url": "http://15.155250922.com/upload/vod/20231212/pb_e_259luxu-200.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0200"
+  },
+  {
+    "id": 537861,
+    "IDcode": "259LUXU-0201",
+    "title": "ラグジュTV 189 大桥优子 33歳 人妻",
     "year": "",
     "country": "",
     "genre": "",
@@ -630,1322 +1743,810 @@ window.PAGE_DATA = [
       "人妻",
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/6f564cecb075df73624d7e27bd92b501.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231212/pb_e_259luxu-201.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0748"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0201"
   },
   {
-    "id": 144363,
-    "IDcode": "300MIUM-0751",
-    "title": "爆乳巨乳美女国宝级美女大屁股x鞭鞭大屁股x喝水喷妈妈小羽口湿喷大喷本能在姬柯面前裸露认真的大吉被BeronBeron舔舐许多性兽是必看的高田马场站区到早上82点的阶梯酒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人企画",
-      "素人",
-      "乱伦",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2181a992a855dc90b53931b5405586c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0751"
-  },
-  {
-    "id": 144364,
-    "IDcode": "300MIUM-0752",
-    "title": "想念上帝的身体休息室完美G奶x粉红乳头x精干x湿漉漉的口交amp舔球服务x剃光面包溢出的爆潮x汗流浃背的爆性性爱疯疯癫癫的身材太色情必看涩谷站区域到早上83点的阶梯酒",
+    "id": 553296,
+    "IDcode": "259LUXU-0202",
+    "title": "豪华电视194",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "街头采访",
       "素人企画",
-      "巨乳"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c45489ddcb124626c94c87e58483db41.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/8d48de1535c3e972e12ad4dc449d368d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0752"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0202"
   },
   {
-    "id": 79891,
-    "IDcode": "300MIUM-0754",
-    "title": "ふわぷる大巨乳降临！！出会った瞬间から目が离せないHカップ美人と三浦半岛サボり旅！にこにこ明るい雰囲気にナチュラルモテオーラをビンビン感じながらSEX突入したら激ヤバ泥沼感度wwwいつまでもイキ潮が止まらない壊れま●こでしたwwww：今日、会社サボりませんか？43in川崎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/3c6911e359414b379cabc97eb34136a3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0754"
-  },
-  {
-    "id": 214364,
-    "IDcode": "300MIUM-0756",
-    "title": "妻子的降临",
+    "id": 553448,
+    "IDcode": "259LUXU-0203",
+    "title": "豪华电视193 - 榊原ゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/11/2fbbb5f61048db626f1e1d2dd4646b64.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/48ab1541548936ec5a6fc970eadcaa5e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0756"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0203"
   },
   {
-    "id": 79952,
-    "IDcode": "300MIUM-0759",
-    "title": "ドS美女メス堕ち！！！【アナル责めもお手の物！生粋のドSガールズバー店员！！！】×【敏感乳首のEカップ×9等身美脚ボディ！！】散々男を见下しあざけ笑っていたくせに、ドMに彻していた巨根男优に无惨にも生ハメされてガンガン突かれまくったあげく、何度も喘ぎヨガって痉挛绝顶していた件www：朝までハシゴ酒85 In目黒駅周辺 ソラ 21歳 ガールズbar店长",
+    "id": 537843,
+    "IDcode": "259LUXU-0205",
+    "title": "ラグジュTV 198 杉浦爱 35歳 歯科医",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "街头采访",
-      "嫩妹"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/b85c98778d9f9910e8a29f4eee1b92f2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0759"
-  },
-  {
-    "id": 144204,
-    "IDcode": "300MIUM-0760",
-    "title": "雅里曼整洁的女孩Mutchimuchi的极端色情的身体Saffle超过100人一个奇迹般的无与伦比的gal每天做爱多达20次用舌头从乳头舔到球的背面壹岐潮水淋漓全身后仰大大大大大精液池袋站区域的梯子酒89到早上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/dbb75579d25e0abe6ab359780635a3ab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0760"
-  },
-  {
-    "id": 144365,
-    "IDcode": "300MIUM-0762",
-    "title": "这个乳头很厉害2021坚持从衣服底下一直揉捏勃起状态下的灵敏度MAX乳头量一下捏彻底丢人山毛榉骚扰就在这里-朝日奈さん广告代理店勤务企画营业入社2年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/92abfa771d941e5e0368a60955931627.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0762"
-  },
-  {
-    "id": 80149,
-    "IDcode": "300MIUM-0765",
-    "title": "【爆乳ロケットランチャー人妻】おっぱいをバインバイン揺らしながら歩く超绝セクシー奥様GET！Tバックを饮み込むムッチムチの美尻！！【冲撃の极エロボディ】『ゴムないから挿れちゃダメッ』擦りつけただけでヌルッと生挿入の极润マ●コ！自分の性癖に気づかされた奥様、超淫乱な本性をさらけ出す！！！【夫妇の圣域で初不伦×中出し2连発の巻】三浦るいさん 28歳 Iカップ専业主妇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人企画",
-      "素人",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/26a54b5e1ae91a653c9524c8e9f70c88.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0765"
-  },
-  {
-    "id": 144168,
-    "IDcode": "300MIUM-0766",
-    "title": "围裙满满都是巨乳和性欲在家开厨艺课品尝男人带进来的松茸的肚皮变态x100多位经验丰富的凶猛男人x最后发育异常浏览注意喉咙色情妻子射精2弹幕α体积",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/06d408d30daa196116ef21f784fdb1d4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0766"
-  },
-  {
-    "id": 214656,
-    "IDcode": "300MIUM-0768",
-    "title": "美丽的女孩穿着紧身的比基尼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/27/e074f6457babd2026be58e15a93a54ef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0768"
-  },
-  {
-    "id": 519688,
-    "IDcode": "300MIUM-0770",
-    "title": "史上最强艳丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/987568ba83cc650a3df84cb81b25a269.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0770"
-  },
-  {
-    "id": 468264,
-    "IDcode": "300MIUM-0771",
-    "title": "日曜日中出三連發 結城乃乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2062edb8c77d79bb695b5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0771"
-  },
-  {
-    "id": 144205,
-    "IDcode": "300MIUM-0772",
-    "title": "S级危险美女虐妻降临趁著前裸模的职业让男人站著教画画小恶魔老婆x费洛蒙瓶瓶超淫荡的屁股xSSS级美女老婆x自己拆胶...生松鼠射精最连续两次射向高峰的喉咙色情妻子体积",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/75add5f19187d6009fc593ee5eb9b017.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0772"
-  },
-  {
-    "id": 80628,
-    "IDcode": "300MIUM-0773",
-    "title": "【ドルオタ必见！？アイドルと出会う方法ここにあります！】今夜は男の射精管理をしたいドスケベ地下アイドルとお酒をグビッグビ！ほろ酔いになったところでアイドル里话を赤裸々告白！清楚な颜して里ではファンやプロデューサーとヤリまくり！！お触り禁止のアイドルに出禁确定の激ハメSEXで性欲大爆発！！：朝までハシゴ酒 90 In恵比寿駅周辺 (天咲ひめの)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-04",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/a740f9ad3d941cf526c72662fde7995f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0773"
-  },
-  {
-    "id": 80503,
-    "IDcode": "300MIUM-0779",
-    "title": "瞳キラキラ美少女の正体はあざとさを极めたロリビッチ！！颜でヌケる保証のアイドルルック&amp;声、体、仕草どこをとっても最高★旅ロケ中もキュンが止まりませんww毎日オナニーで発达しすぎた敏感ボディはイケばイクほど更に敏感になり…最后は润んだ瞳で「すっごく気持ち良いから中にだしてほしぃ♪︎」：今日、会社サボりませんか？47in渋谷",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高清画质",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/7b64b48b65869dd33d4992a59802999e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0779"
-  },
-  {
-    "id": 144366,
-    "IDcode": "300MIUM-0780",
-    "title": "温柔的奶子包裹一切的神奇奶是拯救孤独的男人还是吸干了孤独暂且先来看看平萨罗大回转玩5射精中的奶力-有冈さん人材派遣会社总务部入社3年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/0337b182338eb8ffc25e3cae6591ffc1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0780"
-  },
-  {
-    "id": 144206,
-    "IDcode": "300MIUM-0781",
-    "title": "超级吞精体质吮吸不愉快的肮脏Chi尽管是一个孩子但只吞下精子对于chinshabu朋友来说是一个完美的男孩-沙月さん住宅设备机器メーカー营业入社2年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4271bae5efb5f6b5a97f7d65bcccaeff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0781"
-  },
-  {
-    "id": 144214,
-    "IDcode": "300MIUM-0782",
-    "title": "摩特巨乳偷窥对被捡起的巨乳妹施加接奶老师的攻击换奶-伊南さんシステム开发会社事务入社2年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/0f0b905cb76445280f81c4f503eb47d1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0782"
-  },
-  {
-    "id": 144215,
-    "IDcode": "300MIUM-0783",
-    "title": "G牛奶4SEXReiwa以惊人的醒来复活宅家入侵巨乳OL无论上班还是午休都彻底落入逼近的内衣泥手中-夏目さん介护用品贩卖会社事务入社1年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/bbcf00d63c8ac35f0152d38c53c9dc7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0783"
-  },
-  {
-    "id": 468267,
-    "IDcode": "300MIUM-0784",
-    "title": "日曜日中出三連發 三尾惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20641db8c77d79bb695b8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0784"
-  },
-  {
-    "id": 144216,
-    "IDcode": "300MIUM-0786",
-    "title": "进行信息素OL和破坏之旅实现肉体和收缩的完美平衡我以为他是个有常识的人但是我是一个超级肉食性的人不是吗49in上野",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b930d9463deb4d65b300ac8f67ebbefa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0786"
-  },
-  {
-    "id": 144207,
-    "IDcode": "300MIUM-0787",
-    "title": "男人睡觉的脸上的无限量扮演角色扮演者丰满E奶浮华galTensionMAX大屁股用肌肉训练训练用长舌头吞噬巨大下巴的极端口交每次阴道后部被挤压尿尿的大高潮麻布十番车站区域的梯子酒91到早上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5e5ef5f8a9d419feee83d35dc13d6504.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0787"
-  },
-  {
-    "id": 144208,
-    "IDcode": "300MIUM-0788",
-    "title": "金发脏屁股GAL大叔杀手deS责备霸气脸坐责怪卷起用小嘴享受德卡钦H舌头打感觉toco优秀大叔的小恶魔讨厌的马Ko被靴子撒了所有在严寒中喝酒的女人都是变态马上去长矛池袋地区的梯子酒92到早上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/e2fc055a9bb6e9a5f9b2e3142dbec97c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0788"
-  },
-  {
-    "id": 144209,
-    "IDcode": "300MIUM-0789",
-    "title": "夏树28岁初恋连续中出3次ErokosIrama瘾DeM",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/506f6a53fa2e271ff0064cbb81f19e70.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0789"
-  },
-  {
-    "id": 519720,
-    "IDcode": "300MIUM-0790",
-    "title": "勃起和Nuki Roll 不可避免地被J Cup 愚弄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/38c33b4a3a04a9ab6eb227d057ef2cc6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0790"
-  },
-  {
-    "id": 519705,
-    "IDcode": "300MIUM-0793",
-    "title": "家庭文员好可爱超色情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/159e67b4db6ea491b8e9926380e1bca6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0793"
-  },
-  {
-    "id": 144210,
-    "IDcode": "300MIUM-0797",
-    "title": "儿玉29岁儿童房SEX连续中出3次Erokos大众潮扼杀名器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/114089b3a8e0a79faf616d8d8f661c3b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0797"
-  },
-  {
-    "id": 144211,
-    "IDcode": "300MIUM-0798",
-    "title": "公司最红的女人有一次3SEX阴道射精当一名男员工假装疯子接近他瞄准的办公室花时记录出奇的好-宇佐美さんアパレルメーカー本社勤务事务入社2年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c4fb58b3789d1ef1b016c5be98e049fb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0798"
-  },
-  {
-    "id": 144212,
-    "IDcode": "300MIUM-0799",
-    "title": "S-likebutdeM巴厘岛之果carryOL完整记录满足被搞砸的欲望-香椎さんシステム开发会社营业入社4年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/0336fe626d8402f95db5ec09b4342a33.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0799"
-  },
-  {
-    "id": 144213,
-    "IDcode": "300MIUM-0802",
-    "title": "捕捉H罩杯金发女郎它被钉在大屁股上从头到尾摇晃的大屁股wSEX是马Ko立即坏了淹没淹没淹没一团糟一个疯狂吃男人的SEXPredator你今天想跳过公司吗53in涩谷",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2b9d2b3442c8c8e7f885eb3e227c2c13.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0802"
-  },
-  {
-    "id": 538159,
-    "IDcode": "300MIUM-0806",
-    "title": "ムチムチ尻のヤリマンキャバ嬢！！！【酒を饮む程エロさ倍増！！】×【玉を味わうフェラ&玉舐め必见！！！】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240123/pb_e_300mium-806.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0806"
-  },
-  {
-    "id": 144217,
-    "IDcode": "300MIUM-0808",
-    "title": "喝淫妹好评MAX摸起来像富图推起来很无力我们通过暴露吉宝的感觉来接近为我们提供便利的有才华的销售人员-三岛さん不动产会社营业入社3年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c709e80aef8def91527d9e0a33161482.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0808"
-  },
-  {
-    "id": 144218,
-    "IDcode": "300MIUM-0810",
-    "title": "Yuria29岁K罩杯老公官方NTR超级受虐狂3次阴道射精嘴巴镣铐内裤外不活动",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "素人企画",
-      "素人",
-      "淫妻",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/ed7ca49607e43d74e53c3e34b771b76e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0810"
-  },
-  {
-    "id": 144219,
-    "IDcode": "300MIUM-0813",
-    "title": "无底的性欲巨乳为修罗巴准备的情趣旅馆突击对欲望太忠心的G罩杯OL为了SEX而跳槽-上村さんIT企业经理入社5年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f91c8c2e4349ea956d2cd590d8d420d2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0813"
-  },
-  {
-    "id": 144220,
-    "IDcode": "300MIUM-0814",
-    "title": "性欲gt睡意困了也不能停止自慰的OL它被水民的缺席所引发的意外情况所吞噬-春野さんITコンサルタント入社2年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/d3584a1fafe3825c60ddb1d11d830b76.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0814"
-  },
-  {
-    "id": 144221,
-    "IDcode": "300MIUM-0815",
-    "title": "性欲粗暴想受孕的资深英语老师我无法抗拒月经前的时期只是放下课程并发生性关系-田原さん英会话スクール讲师入社6年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/bd6bb7ec2e3f7b3bc31532b6acd6e4da.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0815"
-  },
-  {
-    "id": 144223,
-    "IDcode": "300MIUM-0816",
-    "title": "利落闷惊人的点播做爱并把它拿出来我威胁要在几秒钟内将一个完整的包裹分发给我办公室的一位沮丧的办公室女士并吞下它-市川さんデザイン会社事务入社3年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5ea5d362be82fa62bd502655f495a923.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0816"
-  },
-  {
-    "id": 144222,
-    "IDcode": "300MIUM-0817",
-    "title": "工作ltSEX有一个偷窥狂有一个窥视有乱七八糟的吗微摄像头设置在办公室小姐家的下半身情况暴露太多-北井さん总合商社营业事务入社3年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c4bff94bd0c99f7cf2682859bb177356.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0817"
-  },
-  {
-    "id": 144224,
-    "IDcode": "300MIUM-0820",
-    "title": "森24岁前杨加足立区苗条FaceRunSErokos中出3次",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访",
-      "嫩妹"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/95249505d4208cf0a949461c02ae8216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0820"
-  },
-  {
-    "id": 144225,
-    "IDcode": "300MIUM-0835",
-    "title": "拥有巨乳的美少女一次放松和治愈的旅行我想我爱精子除非我每天都喝它否则我无法安定下来变态习惯和情节是必看的最后是阴道射精SEXtreatw你今天想跳过公司吗59in涩谷",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/67846987c8a0b92cf24a75f536e1a59b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0835"
-  },
-  {
-    "id": 144226,
-    "IDcode": "300MIUM-0836",
-    "title": "失意美女馅饼F奶纤细的前任赛车皇后美一个美丽的办公室女士她在5周内沉迷于电动自慰随时随地在JiKo面前湿透湿透10次无情的jubojubo颜射-广瀬さん人材派遣会社广报担当入社6年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b6ea583a055984a20e29a5f1fd614ed3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0836"
-  },
-  {
-    "id": 144227,
-    "IDcode": "300MIUM-0839",
-    "title": "暗淡无光的温泉之旅热海之旅虽然是清醒的但F奶的主张太激烈了被逼射进去这是怎么回事我愣了一会可是第二回合我的性欲爆发了突然变了今天要不要下班61in惠比寿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4e5609b3789015c3d8ea6787ce4e19e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0839"
-  },
-  {
-    "id": 144228,
-    "IDcode": "300MIUM-0845",
-    "title": "工作中的爆潮紧贴一天一个办公室小姐不经意间让合同被自己的潮水浸湿冷汗热潮-上坂さん半导体制造メーカー事务入社2年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/3460631b8de4bcf880c5d8a7328173f0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0845"
-  },
-  {
-    "id": 144229,
-    "IDcode": "300MIUM-0848",
-    "title": "NTR比老公还要精的美人妻在家坐车甚至在电话里即使在酒店我无法抗拒Bokkichi经营性欲得不到满足的婚姻生活的美丽妻子的AV外观-田中さん总合保险代理店营业入社5年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "素人企画",
-      "素人",
-      "淫妻",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/eebb640fbefdeb58a446455e95ecfa17.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0848"
-  },
-  {
-    "id": 144230,
-    "IDcode": "300MIUM-0849",
-    "title": "太可爱了超甜美少女偷懒旅行娇嫩美体美胸柔软翘臀男人肉ww让我吸小嘴一直抱到根部MaKo是喜欢小跑ww喜欢保持的gal中股必然ww如果你做H你会喜欢的今天要跳过公司吗62in涩谷",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/aa9a39464f954be9dcaab943a67a630a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0849"
-  },
-  {
-    "id": 576699,
-    "IDcode": "300MIUM-0850",
-    "title": "シャンパンで酒渍けベロっベロ粘着浓交【むっちり色白お姊さん】×【デカ乳！柔乳！どスケベ乳轮Gカップ】33歳独身アラサー美女が邻の席で超楽しくなってたんでもっと饮ませて持ち帰りッ！やっぱオンナは30からがエロい！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221208/spjE5W9Q/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0850"
-  },
-  {
-    "id": 144231,
-    "IDcode": "300MIUM-0856",
-    "title": "肉感你想hold住粉色蓬松乳头xH罩杯对老公一心一意的老婆是前巴黎CLUB舞娘麻柯就算是打算结婚压抑性欲也老实你说粗下巴的老公满足不了我要用这根大鸡巴摧毁池中积聚的性欲第3卷",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/bf9dd498f727ee34d5eb3488695fbc7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0856"
-  },
-  {
-    "id": 576672,
-    "IDcode": "300MIUM-0857",
-    "title": "ド直球165kmh 本命彼女にしたすぎるスーパー可爱いスーパー銭汤スタッフを彼女としてレンタル！みりあちゃん 20歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221214/hsJHtT3E/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0857"
-  },
-  {
-    "id": 144232,
-    "IDcode": "300MIUM-0859",
-    "title": "到盛夏的木更津G罩杯肌肉美体明明是干净漂亮的姐姐寂寞喝酒偷懒也没关系W美猫崩溃和喷出Ichika的身体相互碰撞的热情中出SEX今天要不要上班五反田63",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人企画",
-      "素人",
-      "乱伦",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/6290bdbf880ab65345300d0976a0a3b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0859"
-  },
-  {
-    "id": 144233,
-    "IDcode": "300MIUM-0860",
-    "title": "和有教养的小姐姐一起游东京逃避工作享受乐趣摆脱日常压力纯洁无瑕的咖啡厅店员你喜欢做爱吗是的今天要不要上班涩谷64",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "街头采访",
+      "少妇",
+      "高端素人",
       "素人企画"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2209eb09b15b14384500265b8f61a645.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0860"
-  },
-  {
-    "id": 144234,
-    "IDcode": "300MIUM-0862",
-    "title": "求婚的巨乳美女正在寻找对象嗅到男人的气味点燃恋物本能的办公室美女摇著臀部甚至尝到男人的味道最后活了下来用嗅探和他妈的进行性行为直到你订婚-三冈さんIT企业Webマーケター入社4年目",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/544ce1d29f8d5398069383a715f2e370.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231209/pb_e_259luxu-205.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0862"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0205"
   },
   {
-    "id": 572322,
-    "IDcode": "300MIUM-0869",
-    "title": "【爆乳过ぎる保健室の先生に迫られたい】欲求不満のHカップ养护教谕が逆ナンパ！！禁断の寝取りドキュメント！！むちむち爆乳のエロ优しいお姊さんが服",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://pic47.anzise.com/pic/20230211/f19368ff9c7a25fc7349cb65bbed4e89/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0869"
-  },
-  {
-    "id": 144235,
-    "IDcode": "300MIUM-0870",
-    "title": "DeM-san6太色情的变化对不起我收拾太多了干净利落的漂亮上班族打开肉穴就超级好色我要和我的嘴玩得开心过度4性爱惊人3小时-三根さん某大手证券会社营业企画部入社2年目",
+    "id": 553391,
+    "IDcode": "259LUXU-0206",
+    "title": "豪华电视209",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4056be74c33e9e97d1cae75d7148df98.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/6f6a4e99e4521df2f82cb86f871f7f90.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0870"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0206"
   },
   {
-    "id": 556271,
-    "IDcode": "300MIUM-0871",
-    "title": "丰盈的大屁股！巨大的乳房摇曳！我也在 Reiwa 中......黑色 gal 野性身体！ ！ 【丰满健美x大烧屁股】【S男混血】主动产妇性技大爆发！ ！舔龟头同时包裹姬● co 与巨大的乳房G 杯！即使在阴道射精后，她也跨坐在一个男人身上。 ！枪托打屁股“我喜欢被打” 喜欢和不喜欢的人都必须看的MAX时间！ ！ : 六本木站附近的桥五酒106直到早上",
+    "id": 101307,
+    "IDcode": "259LUXU-0207",
+    "title": "ラグジュTV 208",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "素人企画",
+      "已婚妇女",
+      "HDTV",
+      "素人",
+      "业余",
+      "高端素人",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-02-20",
+    "cover_url": "http://15.155250922.com/upload/vod/20231212/pb_e_259luxu-207.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0207"
+  },
+  {
+    "id": 537859,
+    "IDcode": "259LUXU-0208",
+    "title": "ラグジュTV 197",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/52e1fde9557198812e5e735223373531.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231212/pb_e_259luxu-208.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0871"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0208"
   },
   {
-    "id": 556343,
-    "IDcode": "300MIUM-0872",
-    "title": "[I can only win raw fuck] 一个总是想要 po 的沮丧的年轻妻子。与丈夫发生性关系是快速和不满意的。失去理智咬别人的棍子炫耀爱的餐桌厨房里铺天盖地的鱿鱼。世上的男人，不要被你整洁漂亮的外表所欺骗。尽情享受藏在衣橱里的情趣泳装x玩具，本该和老公一起睡的床被潮x精弄脏了！连续 2 发厚厚的阴道射精！ ！ ！一卷",
+    "id": 101335,
+    "IDcode": "259LUXU-0210",
+    "title": "ラグジュTV 211",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "HDTV",
+      "素人",
+      "自慰",
+      "业余",
+      "高端素人",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-02-23",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/c8c145a6ef6724795bf550d9cc891a57.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0210"
+  },
+  {
+    "id": 553471,
+    "IDcode": "259LUXU-0211",
+    "title": "豪华电视207",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/060a82b1c529a4c03b8a9158d25d83c0.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/d1aa1b451599e88605b09b64c9c05b7e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0872"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0211"
   },
   {
-    "id": 144237,
-    "IDcode": "300MIUM-0873",
-    "title": "无法拒绝的德米美女降临好脸色好作风灵敏度高追著从早到晚三重威胁大屌的极品deM-尾崎さんソフトウェア贩卖会社事务入社2年目",
+    "id": 553474,
+    "IDcode": "259LUXU-0212",
+    "title": "豪华电视202",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/8661616393d31959bc3743a7cb50f405.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/91a6df4580b9cb946b861c6e17a60d72.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0873"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0212"
   },
   {
-    "id": 144236,
-    "IDcode": "300MIUM-0874",
-    "title": "连续两枪不道德的阴道射精给性饥渴的已婚女人身高173cm光滑的G罩杯紧缩还有超过100cm的桃尻完美风格结婚后老婆一直在压抑性欲一摸就高敏感时隔5年被非老公男人拥抱炸裂狂暴体积",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/45b50e24661e3094e522be45074328cc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0874"
-  },
-  {
-    "id": 144238,
-    "IDcode": "300MIUM-0878",
-    "title": "带著高美感和美丽光泽肌肤的奇迹BODY前往成田因为开放感饮酒如水乞求丰富的SEX想要在没有moza的情况下展示的松弛历史中被美丽的Achiachipinkma挤出的大量精子今天要不要上班锦系町66",
+    "id": 553447,
+    "IDcode": "259LUXU-0214",
+    "title": "豪华电视201",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/fff11947fa8a5c5b4543579dc937c895.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/214ad232e3147ad7ea64da0e68403ec7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0878"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0214"
   },
   {
-    "id": 533107,
-    "IDcode": "300MIUM-0880",
-    "title": "魅惑のエロボディ【ピタパン美巨尻×美爆乳Fカップ】“ウチらのコミュニティに入れば全て手に入るよ♪”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240310/pb_e_300mium-880.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0880"
-  },
-  {
-    "id": 144239,
-    "IDcode": "300MIUM-0881",
-    "title": "剃毛OL狂宠姬寂寞所以想养宠物发情宠物让孤独生病的文员没有预约就被袭舔著没有内裤的美丽剃光阴户的激情交配视频-藤井さんITインフラ企业事务入社2年目",
+    "id": 537840,
+    "IDcode": "259LUXU-0216",
+    "title": "ラグジュTV 205",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/8c256fae48999e3d913cce61fefbfe13.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231209/pb_e_259luxu-216.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0881"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0216"
   },
   {
-    "id": 533115,
-    "IDcode": "300MIUM-0885",
-    "title": "【バイブが大好き。でもやっぱりチ●コの方がもっと大好き。】清楚系の见た目とは里腹に仕事中もトイレでバイブオ",
+    "id": 101334,
+    "IDcode": "259LUXU-0217",
+    "title": "ラグジュTV 203",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "苗条",
+      "素人企画",
+      "荡妇",
+      "HDTV",
+      "素人",
+      "自慰",
+      "业余",
+      "高端素人",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-02-15",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/ae0d46275e3a4067d6da4b3fa2108388.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0217"
+  },
+  {
+    "id": 553426,
+    "IDcode": "259LUXU-0218",
+    "title": "豪华电视206",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240323/pb_e_300mium-885.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/9b427fa8a0af9e394e0808ddedcf0106.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0885"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0218"
   },
   {
-    "id": 576022,
-    "IDcode": "300MIUM-0887",
-    "title": "この子のSEXが想像できますか？●供みたいに无邪気で天真烂漫、キラキラな保育士さんと镰仓",
+    "id": 537902,
+    "IDcode": "259LUXU-0220",
+    "title": "ラグジュTV 304 (松冈香纯)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230527/Yfy07sRE/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231210/pb_e_259luxu-220.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0887"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0220"
   },
   {
-    "id": 533140,
-    "IDcode": "300MIUM-0888",
-    "title": "このかわいさ闷絶级ッ【Fカップ×ミニマムボディ】【爱娇バツグン】【程よくムッチリ】【彼女にしたい】！",
+    "id": 537823,
+    "IDcode": "259LUXU-0221",
+    "title": "ラグジュTV 204 (星川ういか)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240420/pb_e_300mium-888.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231205/pb_e_259luxu-221.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0888"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0221"
   },
   {
-    "id": 144240,
-    "IDcode": "300MIUM-0889",
-    "title": "生死H杯杀手大叔巨乳gal逆挑禁止的戴绿帽文件比三餐更爱鸡巴和精子的最强SEX疯子吞下被最好的他妈的和肛门折磨变成狂欢的年长的纪破用Gutchogucho的原始mako和认真的狂欢NTR反转",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "素人企画",
-      "素人",
-      "淫妻",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/27333facad4f601f5948ff1ff7b9b9e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0889"
-  },
-  {
-    "id": 576294,
-    "IDcode": "300MIUM-0890",
-    "title": "【ロリ颜で美巨乳という、チート。】激かわカフェ店员を彼女としてレンタル！口说き落として本",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "素人企画",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230210/twxGhip2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0890"
-  },
-  {
-    "id": 533198,
-    "IDcode": "300MIUM-0892",
-    "title": "あどけなさと色気の黄金比美人！【色白美くびれ×お碗型Gカップ】“この数珠つけてから调子いいんです♪カルマも浄化",
+    "id": 537822,
+    "IDcode": "259LUXU-0222",
+    "title": "ラグジュTV 222 (大沢莉奈)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240531/pb_e_300mium-892.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231205/pb_e_259luxu-222.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0892"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0222"
   },
   {
-    "id": 144241,
-    "IDcode": "300MIUM-0893",
-    "title": "GAP虽然是沟通障碍但擅长攻击Gapgirl01lt20岁大学生gt一个安静又善于交际的孩子让我很担心但是当性开始时它是疯狂的......毕竟差距是最色情的走出女人的意外吧差距专业型业馀工作",
+    "id": 537821,
+    "IDcode": "259LUXU-0224",
+    "title": "ラグジュTV 214 (凉宫のん)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
       "素人企画",
-      "街头采访",
-      "嫩妹"
+      "高端素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/3601cc5274df03af7a1ccc4792b32290.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231205/pb_e_259luxu-224.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0893"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0224"
+  },
+  {
+    "id": 553416,
+    "IDcode": "259LUXU-0225",
+    "title": "豪华电视225",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/42003c502bab15e046790da93d857a8c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0225"
+  },
+  {
+    "id": 101331,
+    "IDcode": "259LUXU-0226",
+    "title": "ラグジュTV 221",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "苗条",
+      "素人企画",
+      "HDTV",
+      "素人",
+      "业余",
+      "高端素人",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-03-04",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/f47a8cf7151d043ea7e3ead8b6d0e29c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0226"
+  },
+  {
+    "id": 537816,
+    "IDcode": "259LUXU-0227",
+    "title": "ラグジュTV 220 (咲尾れいら)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231204/pb_e_259luxu-227.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0227"
+  },
+  {
+    "id": 553475,
+    "IDcode": "259LUXU-0228",
+    "title": "豪华电视223",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/0e9ce40f52ecaa9f17111089b48b612b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0228"
+  },
+  {
+    "id": 553417,
+    "IDcode": "259LUXU-0230",
+    "title": "豪华电视216",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/46e108e47e05d04ae0d3764940421323.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0230"
+  },
+  {
+    "id": 537793,
+    "IDcode": "259LUXU-0231",
+    "title": "ラグジュTV 217 (宫崎ちひろ)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0231"
+  },
+  {
+    "id": 553405,
+    "IDcode": "259LUXU-0233",
+    "title": "豪华电视218",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/900ecb20ca920bb74066e5201bfa8da8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0233"
+  },
+  {
+    "id": 537791,
+    "IDcode": "259LUXU-0235",
+    "title": "ラグジュTV 235",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0235"
+  },
+  {
+    "id": 101357,
+    "IDcode": "259LUXU-0236",
+    "title": "ラグジュTV 244",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "已婚妇女",
+      "HDTV",
+      "素人",
+      "业余",
+      "乳房",
+      "高端素人",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-03-27",
+    "cover_url": "http://15.155250922.com/upload/vod/20231130/pb_e_259luxu-236.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0236"
+  },
+  {
+    "id": 101356,
+    "IDcode": "259LUXU-0237",
+    "title": "ラグジュTV 237",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人企画",
+      "HDTV",
+      "素人",
+      "业余",
+      "乳房",
+      "高端素人",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-03-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0237"
+  },
+  {
+    "id": 101358,
+    "IDcode": "259LUXU-0238",
+    "title": "ラグジュTV 243",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "素人企画",
+      "HDTV",
+      "素人",
+      "自慰",
+      "业余",
+      "高端素人",
+      "颜射",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "2016-03-26",
+    "cover_url": "http://15.155250922.com/upload/vod/20231203/pb_e_259luxu-238.jpg!320x216.jpg",
+    "actress": [
+      "中里美穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0238"
+  },
+  {
+    "id": 537403,
+    "IDcode": "259LUXU-0239",
+    "title": "[] ラグジュTV 238 (一条リオン)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0239"
+  },
+  {
+    "id": 553304,
+    "IDcode": "259LUXU-0240",
+    "title": "豪华电视247",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "蚊香社",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_蚊香社",
+        "works_count": 1652
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/d3eb71847dc9c7af3c087a4dde038e23.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0240"
   }
 ];

@@ -1,5 +1,1117 @@
 window.PAGE_DATA = [
   {
+    "id": 14936,
+    "IDcode": "SSNI-234",
+    "title": "柳优美大乱交解禁24发超乱交特別企划",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "口爆",
+      "真實拍攝",
+      "美少女",
+      "美乳",
+      "過膝襪・小腿襪",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "大亂交",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "女優",
+      "美少女電影",
+      "魔鬼系",
+      "黑絲",
+      "乱交",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240507/20240507203223140140.jpg",
+    "actress": [
+      "柳美憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-234"
+  },
+  {
+    "id": 13270,
+    "IDcode": "SSNI-322",
+    "title": "三上悠亚巨根追击大乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "多P",
+      "網襪",
+      "美少女",
+      "美腳",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "大亂交",
+      "形象俱樂部",
+      "兩男一女",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "絕頂高潮",
+      "女優",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250405-1/9b4bacf67fe0419eb650ab39739b4d14.jpg",
+    "actress": [
+      "三上悠亜",
+      "小田切ジュン",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-322"
+  },
+  {
+    "id": 13062,
+    "IDcode": "SSNI-352",
+    "title": "二十根肉棒疯狂抽插颜射剃毛大乱交三重解禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "多P",
+      "口爆",
+      "苗條",
+      "感官作品",
+      "流汗",
+      "美少女",
+      "美腳",
+      "亂交 • 群P",
+      "口交",
+      "大亂交",
+      "形象俱樂部",
+      "潮吹",
+      "深喉",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "少女",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "美少女電影",
+      "手指插入",
+      "舔腳",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250326-1/1fffc958ba3d78827467087c7e4f554c.jpg",
+    "actress": [
+      "架乃由羅",
+      "森林原人",
+      "南佳也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-352"
+  },
+  {
+    "id": 487104,
+    "IDcode": "SSNI-352-CD1",
+    "title": "二十根肉棒疯狂抽插颜射剃毛大乱交三重解禁 架乃由罗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250326-1/1fffc958ba3d78827467087c7e4f554c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-352-CD1"
+  },
+  {
+    "id": 11749,
+    "IDcode": "SSNI-393",
+    "title": "S1卒業 - 最初也是最後的粉絲大感謝祭 J罩杯神乳卷起來的大亂交 THE FINAL 4本番特輯 ~ 鬆本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "巨尻",
+      "多P",
+      "口爆",
+      "真實拍攝",
+      "粉絲福利",
+      "感謝祭",
+      "美少女",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "短髮",
+      "深喉",
+      "淫亂",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "乳交",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "2019-01-19",
+    "cover_url": "https://picture.yoshiclub.xyz/20240923/20240923040808107107.jpg",
+    "actress": [
+      "松本菜奈実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-393"
+  },
+  {
+    "id": 9508,
+    "IDcode": "SSNI-533",
+    "title": "最初で最高の大乱交スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "吞精",
+      "巨尻",
+      "M男・M女",
+      "口爆",
+      "真實拍攝",
+      "網襪",
+      "唾液敷面",
+      "苗條",
+      "臀控",
+      "感官作品",
+      "凌辱",
+      "美少女",
+      "美腳",
+      "解禁作",
+      "羞恥",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "大亂交",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "深喉",
+      "明星臉",
+      "淫亂",
+      "蠻橫嬌羞",
+      "猥褻穿著",
+      "中出",
+      "美人",
+      "美腿",
+      "企畫",
+      "後入",
+      "美臀",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "高妹",
+      "舔腳",
+      "白眼失神",
+      "女上位",
+      "丁字裤",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6bcf5cf80da5a3b84853ec50fa6a0278.jpg",
+    "actress": [
+      "Miru"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-533"
+  },
+  {
+    "id": 181066,
+    "IDcode": "SSNI-658",
+    "title": "暗黑帝国S1豪华绚烂梦幻共演粉丝感谢会超级大乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/21/75ff3baf/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-658"
+  },
+  {
+    "id": 88437,
+    "IDcode": "SSNI-960",
+    "title": "芸能人 七ツ森りり 人生初大乱交！巨根エンドレス無制限セックス 七森莉莉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "深喉",
+      "偶像",
+      "滥交",
+      "乱交",
+      "薄马赛克"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/eacb06f3ced69d9669c5a4ddefeebd38.jpg",
+    "actress": [
+      "七森莉莉",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-960"
+  },
+  {
+    "id": 72763,
+    "IDcode": "STAR-559",
+    "title": "紗倉まな 朝から晩まで挿れっぱなしチ○ポ大乱交 巨根デカチンSP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交",
+      "滥交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "纱仓真菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-559"
+  },
+  {
+    "id": 73459,
+    "IDcode": "STAR-622",
+    "title": "松岡ちな 朝から晩まで挿れっぱなしチ●ポ大乱交 巨根デカチンSP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交",
+      "滥交",
+      "立即口交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1065e48516f99e8c6e0e6be30ff1a9fa.jpg",
+    "actress": [
+      "松冈千菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-622"
+  },
+  {
+    "id": 218672,
+    "IDcode": "STAR-865",
+    "title": "大家族近親相姦6P乱交-三田杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-865"
+  },
+  {
+    "id": 70495,
+    "IDcode": "STAR-921",
+    "title": "古川伊织25发中出内射大乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "乱交",
+      "中出",
+      "轮奸"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/642bc72d4d27005453af73d28fc029a4.jpg",
+    "actress": [
+      "古川伊織",
+      "市川润"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-921"
+  },
+  {
+    "id": 124,
+    "IDcode": "STARS-120",
+    "title": "SODstar 11 SEX BUBBLE PARTY 2019 ～泡泡泳池大亂交感覺超好 ～ 小倉由菜 古川伊織 本莊鈴 戸田真琴 七海蒂娜 小泉日向 紗倉真菜 市川雅美 唯井真尋 竹田夢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "真實拍攝",
+      "辣妹/GAL系",
+      "泳池",
+      "大亂交",
+      "高顏值",
+      "傲嬌",
+      "中出",
+      "美人",
+      "美腿",
+      "女優",
+      "清純",
+      "聚會・PARTY",
+      "手指插入",
+      "拜金女",
+      "舔腳",
+      "女上位",
+      "騎乗位",
+      "濕身",
+      "巨尻",
+      "口爆",
+      "苗條",
+      "阪道系",
+      "美少女",
+      "羞恥",
+      "色白",
+      "胸控・戀乳癖",
+      "雙馬尾",
+      "淫蕩・硬核",
+      "短髮",
+      "極品美人",
+      "蠻橫嬌羞",
+      "絕頂高潮",
+      "美少女電影",
+      "泳裝",
+      "豐滿",
+      "綠茶婊",
+      "大奶头",
+      "清楚系",
+      "口交",
+      "接吻",
+      "明星臉",
+      "淫亂",
+      "後入",
+      "少女",
+      "美臀",
+      "高妹",
+      "無毛",
+      "乳交",
+      "御姐系",
+      "足交",
+      "乱交",
+      "吞精",
+      "多P",
+      "童顔",
+      "港區女子",
+      "感謝祭",
+      "插入異物",
+      "臀控",
+      "美腳",
+      "癡女",
+      "真人秀",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "正統派",
+      "深喉",
+      "校花",
+      "超爆乳",
+      "無碼流出",
+      "企畫",
+      "紀錄片",
+      "紀念作",
+      "顏射",
+      "脚控・戀足癖",
+      "舔陰",
+      "蘿莉控",
+      "肌肉"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dafd6dd6fbef4e90d24bd4/cover.jpg",
+    "actress": [
+      "唯井真寻",
+      "小倉由菜",
+      "本庄鈴",
+      "纱仓真菜",
+      "竹田夢",
+      "七海蒂娜",
+      "市川雅美",
+      "古川伊織",
+      "戸田真琴",
+      "小泉日向",
+      "皆川千遙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-120"
+  },
+  {
+    "id": 1578,
+    "IDcode": "STARS-160",
+    "title": "SOD集团主力全出动超级大乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "淫亂",
+      "無碼流出",
+      "蕩婦",
+      "亂交 • 群P",
+      "乱交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/3d7170fc996e7e05af5dfd4e38013aa9.jpg",
+    "actress": [
+      "小倉由菜",
+      "本庄鈴",
+      "纱仓真菜",
+      "七海蒂娜",
+      "市川雅美",
+      "古川伊織",
+      "小泉日向",
+      "皆川千遙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-160"
+  },
+  {
+    "id": 1646,
+    "IDcode": "STARS-252",
+    "title": "15P大乱交-紗倉まな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女電影",
+      "多P",
+      "自拍性愛",
+      "無碼流出",
+      "亂交 • 群P",
+      "紀錄片",
+      "乱交",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/20230403005139301301.jpg",
+    "actress": [
+      "纱仓真菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-252"
+  },
+  {
+    "id": 18940,
+    "IDcode": "STARS-904",
+    "title": "新海咲 「引退」最後的AV性愛，第一次也是最後一次的12P大亂交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "退休作品",
+      "多P",
+      "淫亂",
+      "中出",
+      "亂交 • 群P",
+      "企畫",
+      "乱交",
+      "苗條",
+      "絕頂高潮",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2023-08-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20230823/20230823032323408408.jpg",
+    "actress": [
+      "新海咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-904"
+  },
+  {
+    "id": 12725,
+    "IDcode": "START-127",
+    "title": "在自己工作的豪華酒店裏舉行淫蕩亂交派對，釋放自己的性欲到早上才結束 ~ 椎名心春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "多P",
+      "口爆",
+      "飯店",
+      "美少女",
+      "美腳",
+      "癡女",
+      "胸控・戀乳癖",
+      "美乳",
+      "制服",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "深喉",
+      "淫亂",
+      "中出",
+      "服務生",
+      "蕩婦",
+      "後入",
+      "美腿",
+      "美臀",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "黑絲",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "2024-09-12",
+    "cover_url": "https://picture.yoshiclub.xyz/20240813/2dee8ca4-a405-4dd0-b227-5b3e573020d9.jpg",
+    "actress": [
+      "椎名心春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-127"
+  },
+  {
+    "id": 12560,
+    "IDcode": "START-171",
+    "title": "有三個變態叔叔寵物的生意氣地雷系女孩，1日中4P大亂交！ ~ 葵七瀨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "3P・4P",
+      "奇聞趣事",
+      "小隻馬",
+      "老頭子",
+      "多P",
+      "叛逆少女",
+      "慾求不滿",
+      "網襪",
+      "苗條",
+      "美少女",
+      "美腳",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "兩男一女",
+      "淫亂",
+      "蠻橫嬌羞",
+      "COSPLAY服飾",
+      "猥褻穿著",
+      "中出",
+      "後入",
+      "少女",
+      "劇情",
+      "奇異的",
+      "絕頂高潮",
+      "美少女電影",
+      "蘿莉控",
+      "女上位",
+      "乱交",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "2024-09-12",
+    "cover_url": "https://picture.yoshiclub.xyz/20240820/805a8a7a-43c9-4e36-83f7-929e9eb3f592.jpg",
+    "actress": [
+      "葵七濑"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-171"
+  },
+  {
+    "id": 7449,
+    "IDcode": "START-266",
+    "title": "大乱交解禁！25本チ●ポの連続ケダモノピストンでのSUPER大絶頂SEX＆19発ぶっかけ SPECIAL！！ 恋渕ももな【特典映像収録版】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "女優訪談",
+      "吞精",
+      "多P",
+      "巨尻",
+      "口爆",
+      "真實拍攝",
+      "豐滿",
+      "唾液敷面",
+      "感官作品",
+      "流汗",
+      "癡女",
+      "真人秀",
+      "胸控・戀乳癖",
+      "美乳",
+      "早漏",
+      "亂交 • 群P",
+      "性感",
+      "巨乳",
+      "口交",
+      "大亂交",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "深喉",
+      "淫亂",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "自慰",
+      "顔面騎乘",
+      "乳交",
+      "高跟鞋",
+      "白眼失神",
+      "女上位",
+      "乱交",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250317/2025031722502300.jpg",
+    "actress": [
+      "戀渕桃菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-266"
+  },
+  {
+    "id": 7110,
+    "IDcode": "START-287",
+    "title": "30発中出し大乱交！ノンストップ・ノーカットで30本のチ●ポを滅多挿し＆ぶっかけ！【デビュー2周年特別企画】 柴崎はる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "女優訪談",
+      "小隻馬",
+      "吞精",
+      "多P",
+      "口爆",
+      "真實拍攝",
+      "素人作品",
+      "唾液敷面",
+      "苗條",
+      "感官作品",
+      "流汗",
+      "4K",
+      "美腳",
+      "真人秀",
+      "清楚系",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "大亂交",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "短髮",
+      "深喉",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "美臀",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "顔面騎乘",
+      "舔腳",
+      "足交",
+      "白眼失神",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250401/34552721-1414-4622-8a30-8c28da4b3b6b.jpg",
+    "actress": [
+      "柴崎春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-287"
+  },
+  {
+    "id": 7452,
+    "IDcode": "START-296",
+    "title": "炎上しまくってる態度ワルすぎ悪質ギャラ飲み女をさらって金とチ〇ポで尊厳破壊キメセク乱交 宮島めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "3P・4P",
+      "小隻馬",
+      "吞精",
+      "多P",
+      "殘忍畫面",
+      "口爆",
+      "媚藥・迷藥",
+      "插入異物",
+      "性虐癖",
+      "報復",
+      "唾液敷面",
+      "打屁股",
+      "苗條",
+      "感官作品",
+      "凌辱",
+      "流汗",
+      "美少女",
+      "緊縛",
+      "癡女",
+      "強姦",
+      "拘束・拷問",
+      "羞恥",
+      "綁架",
+      "美腳",
+      "傳播妹",
+      "美乳",
+      "變態",
+      "監禁",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "心機婊",
+      "暗黑系",
+      "形象俱樂部",
+      "潮吹",
+      "刑架",
+      "兩男一女",
+      "短髮",
+      "深喉",
+      "高顏值",
+      "風俗娘",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "猥褻穿著",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "SM",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "美臀",
+      "輪姦",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "拜金女",
+      "舔腳",
+      "乳交",
+      "調教",
+      "白眼失神",
+      "拳擊交",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317223044958958.jpg",
+    "actress": [
+      "宮島芽衣",
+      "宫岛めい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-296"
+  },
+  {
+    "id": 5993,
+    "IDcode": "START-334",
+    "title": "ハメ潮無限噴射 本物精子10顔射大乱交SPECIAL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "女優訪談",
+      "3P・4P",
+      "巨尻",
+      "多P",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "臀控",
+      "阪道系",
+      "4K",
+      "美腳",
+      "色白",
+      "真人秀",
+      "美乳",
+      "按摩棒",
+      "清楚系",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "正統派",
+      "單體作品",
+      "兩男一女",
+      "深喉",
+      "寫真女郎",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "寫真偶像",
+      "中出",
+      "美人",
+      "美腿",
+      "企畫",
+      "後入",
+      "美臀",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "抹油",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "自慰",
+      "高妹",
+      "舔腳",
+      "乳交",
+      "69",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215603818818_thumbnail.webp",
+    "actress": [
+      "唯井真寻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-334"
+  },
+  {
     "id": 4199,
     "IDcode": "START-386",
     "title": "一百二十四分钟不停止的大乱交-小仓由菜",
@@ -56,10 +1168,16 @@ window.PAGE_DATA = [
       "乱交",
       "騎乗位"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250727-1/3b32e0c43e36aa4267618bc1d9a763f6.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250721/20250721202211535535_79940_thumbnail.webp",
     "actress": [
       "小倉由菜"
     ],
@@ -136,10 +1254,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/29/5ebb24c7649bae245fbd6578c19b171b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "星乃莉子"
     ],
@@ -155,10 +1279,16 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "素人CLOVER",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人CLOVER",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
+        "works_count": 344
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-1/09aa3a1e0361de5aad87363ed0017277.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STCV-557"
   },
@@ -203,10 +1333,16 @@ window.PAGE_DATA = [
       "乱交",
       "騎乗位"
     ],
-    "type": "",
-    "company": "素人CLOVER",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人CLOVER",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人CLOVER",
+        "works_count": 344
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-1/4788668244271e8df37ec5a8f002dd33.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STCV-574"
   },
@@ -220,8 +1356,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221202/cLvp7kUx/1.jpg",
     "actress": [],
@@ -237,8 +1373,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230613/xPzpe2WW/1.jpg",
     "actress": [],
@@ -260,8 +1396,8 @@ window.PAGE_DATA = [
       "巨乳",
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241029-1/06c5abc8036d33533a0a1bc998a21177.jpg",
     "actress": [],
@@ -277,8 +1413,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241029-1/42844a3f0cbaad0e5655bba1da80a944.jpg",
     "actress": [],
@@ -324,8 +1460,14 @@ window.PAGE_DATA = [
       "乱交",
       "騎乗位"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a7af0c682e2e92819976ae/cover.jpg",
     "actress": [],
@@ -341,10 +1483,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/da9fb79d3c41f8a7989bc066b959a297.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUKE-149"
   },
@@ -358,8 +1500,14 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "S級素人",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250914/J4S4gIj9/1.jpg",
     "actress": [],
@@ -409,8 +1557,14 @@ window.PAGE_DATA = [
       "乱交",
       "騎乗位"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-09-27",
     "cover_url": "https://picture.yoshiclub.xyz/20240827/90127fd2-4165-43b2-ba0d-da8ab4841029.jpg",
     "actress": [
@@ -428,10 +1582,16 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "Sadistic Village",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/02/863061813f4e71cae2001b2a552ba510.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-458"
   },
@@ -451,8 +1611,14 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
-    "company": "Sadistic Village",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Sadistic Village",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Sadistic_Village",
+        "works_count": 272
+      }
+    ],
     "publish_date": "2022-03-24",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/MKHdftPT.jpg",
     "actress": [],
@@ -468,8 +1634,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59cedcf22ae3e0418b036/cover.jpg",
     "actress": [],
@@ -485,10 +1651,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/12/ji5yblfenlp.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T28-427"
   },
@@ -502,8 +1668,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250629/LyQLRd4Y/1.jpg",
     "actress": [],
@@ -524,8 +1690,8 @@ window.PAGE_DATA = [
       "乱交",
       "高中女生"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6828b5ef5d899f6361095b29/cover.jpg",
     "actress": [],
@@ -546,10 +1712,10 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/93447790/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "左慈半造",
       "じゅうもんじ"
@@ -570,8 +1736,8 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6832e6ea916c69f83f8d6385/cover.jpg",
     "actress": [
@@ -591,8 +1757,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250803-1/7e54d5bf57dd260b17b8413a9c4d06bb.jpg",
     "actress": [],
@@ -608,8 +1774,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/688856f4c92318f97d00a0c9/cover.jpg",
     "actress": [],
@@ -685,8 +1851,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "瘙癢"
     ],
-    "type": "",
-    "company": "FIRST STAR",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FIRST STAR",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FIRST_STAR",
+        "works_count": 254
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7a57879f1ac4ec45a5151/cover.jpg",
     "actress": [
@@ -705,10 +1877,10 @@ window.PAGE_DATA = [
       "乱交",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/95bee2c9/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNIK-011"
   },
@@ -722,10 +1894,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-2/55a9f829b6a070ed6f3f70ec8289e770.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNIK-016"
   },
@@ -807,8 +1979,8 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/28/68ade290e2544b92b9ab297e/cover.jpg",
     "actress": [
@@ -845,8 +2017,8 @@ window.PAGE_DATA = [
       "乱交",
       "騎乗位"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/08/689602e755337d7f7baa595b/cover.jpg",
     "actress": [
@@ -864,10 +2036,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/191082f2/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNIK-020"
   },
@@ -887,8 +2059,8 @@ window.PAGE_DATA = [
       "角色扮演者",
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/6aa5951906ccae97a7ae6076470e5cc3.jpg",
     "actress": [
@@ -906,12 +2078,37 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a58763624359cc7ae37b304af36ad86c.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNOZ-017"
+  },
+  {
+    "id": 88896,
+    "IDcode": "TNOZ-024",
+    "title": "天然パイパン5P大乱交18歳レイヤー【全身性感帯→フェラ喉イキでオシッコ噴射】【中年全員唾Dキス＆イラマ＆セックス】性処理ガチ便女育成記録豪華2本立て163分「想像を絶する真性ドMの実態」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "玩具",
+      "无毛",
+      "美少女电影",
+      "角色扮演者",
+      "乱交",
+      "滥交",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2023-06-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "莲美なお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNOZ-024"
   },
   {
     "id": 525504,
@@ -924,8 +2121,8 @@ window.PAGE_DATA = [
       "乱交",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240827/3MhjyUmQ/1.jpg",
     "actress": [],
@@ -947,8 +2144,8 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2023-08-08",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/9c97385c26de02474b2cd31c8a50397e.jpg",
     "actress": [],
@@ -969,8 +2166,8 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2023-09-12",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/f5acc553ad7f59de959a7185833a156b.jpg",
     "actress": [],
@@ -991,8 +2188,8 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2023-10-10",
     "cover_url": "https://tuaskbgnekr.com/20240827/DNXT5UIi/1.jpg",
     "actress": [
@@ -1010,8 +2207,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240827/MFi6JUg9/1.jpg",
     "actress": [],
@@ -1028,8 +2225,8 @@ window.PAGE_DATA = [
       "乱交",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240827/zmZZRvZb/1.jpg",
     "actress": [],
@@ -1047,8 +2244,8 @@ window.PAGE_DATA = [
       "乱交",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20250926/nw7cUtiS/1.jpg?t=1758949364",
     "actress": [],
@@ -1069,10 +2266,10 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-1/e0095f4255d582382655c6097e3957b2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNOZ-043"
   },
@@ -1086,10 +2283,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/129a12ac/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNOZ-044"
   },
@@ -1103,10 +2300,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2021/03/k3mryc1sc2c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO HOT JUP0206"
   },
@@ -1122,9 +2319,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/10/icvamhczpfm.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-GEDO0093"
   },
@@ -1140,9 +2343,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/2019-12-26/15772933749.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-0152"
   },
@@ -1158,9 +2367,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/12/kiosale2z4f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-0496"
   },
@@ -1176,9 +2391,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/12/5bjg4hpigim.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-0600"
   },
@@ -1194,7 +2415,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230422-1/752db9104b7112f4122a09cf10474295.jpg",
     "actress": [],
@@ -1212,7 +2439,13 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230421-1/41439a0741a92bada2fa836952e023f1.jpg",
     "actress": [],
@@ -1230,9 +2463,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/11/uhz2kx5rfmz.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-1421"
   },
@@ -1248,9 +2487,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/12/rroq5suhfhd.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-1427"
   },
@@ -1266,9 +2511,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/12/upp2id2ckoj.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-1428"
   },
@@ -1284,9 +2535,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/12/sanaxpzizar.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-1430"
   },
@@ -1302,9 +2559,15 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/11/3j0nx2wojd4.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-N-1431"
   },
@@ -1318,8 +2581,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240827/Odf2IwEJ/1.jpg",
     "actress": [],
@@ -1340,8 +2603,8 @@ window.PAGE_DATA = [
       "乱交",
       "单体作品"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/23/68307de58c4b3b91d760eb52/cover.jpg",
     "actress": [
@@ -1360,10 +2623,10 @@ window.PAGE_DATA = [
       "素人",
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220604-1/78cf0445e80f39621fd43cb2b3d9394d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTSUGEKI024"
   },
@@ -1381,8 +2644,14 @@ window.PAGE_DATA = [
       "口交",
       "乱交"
     ],
-    "type": "",
-    "company": "椿鳳院",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "椿鳳院",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_椿鳳院",
+        "works_count": 61
+      }
+    ],
     "publish_date": "2023-06-13",
     "cover_url": "https://tuaskbgnekr.com/20240827/gM5gFA50/1.jpg",
     "actress": [
@@ -1404,8 +2673,14 @@ window.PAGE_DATA = [
       "中出",
       "乱交"
     ],
-    "type": "",
-    "company": "椿鳳院",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "椿鳳院",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_椿鳳院",
+        "works_count": 61
+      }
+    ],
     "publish_date": "2023-09-12",
     "cover_url": "https://tuaskbgnekr.com/20240827/8oFuLi53/1.jpg",
     "actress": [],
@@ -1421,10 +2696,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250824-7/5daf8dddc02ee90324215d3520f4dc35.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN047C"
   },
@@ -1444,8 +2719,8 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2023-07-18",
     "cover_url": "https://tuaskbgnekr.com/20240828/P155y4nz/1.jpg",
     "actress": [
@@ -1468,8 +2743,8 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6828b7c85d899f6361098fea/cover.jpg",
     "actress": [],
@@ -1490,8 +2765,8 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2023-10-24",
     "cover_url": "https://tuaskbgnekr.com/20240828/PV1my7Be/1.jpg",
     "actress": [],
@@ -1507,8 +2782,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240828/YN0jx9iZ/1.jpg",
     "actress": [],
@@ -1524,8 +2799,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240828/48QmFULH/1.jpg",
     "actress": [],
@@ -1541,8 +2816,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/b2598e0a95c5da10ccaf742db0d1f674.jpg",
     "actress": [],
@@ -1558,8 +2833,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250116/4iiaUbjm/1.jpg",
     "actress": [],
@@ -1576,8 +2851,8 @@ window.PAGE_DATA = [
       "乱交",
       "中文字幕"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682adb05ae3235deaa2e6f18/cover.jpg",
     "actress": [],
@@ -1598,10 +2873,10 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "/upload/vod/20250619-1/5afe198c5850e3a38ec7c2d488d10d7e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250702-1/49592f60edcddf5cc29282a750289213.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-026"
   },
@@ -1615,10 +2890,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/03/0ba81d927c7e7840acf8636661265123.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-029"
   },
@@ -1632,10 +2907,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/01/76e784b1ac4abfbea437b8cacee5e5d3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-031"
   },
@@ -1649,10 +2924,10 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/08-30/12/cvtnpbzxcjj1247cvtnpbzxcjj5522443.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-060GAL"
   },
@@ -1666,8 +2941,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231123/tyod069pl.jpg!320x216.jpg",
     "actress": [],
@@ -1683,8 +2958,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231024/tyod108pl.jpg!320x216.jpg",
     "actress": [],
@@ -1700,8 +2975,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230926/tyod168pl.jpg!320x216.jpg",
     "actress": [],
@@ -1717,8 +2992,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230519/tyod171pl.jpg!320x216.jpg",
     "actress": [],
@@ -1735,10 +3010,16 @@ window.PAGE_DATA = [
       "人妻",
       "乱交"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/06/bcba57c5f9ed6023fcb914a5ef66d7f1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-034"
   },
@@ -1752,8 +3033,14 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "VENUS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "VENUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_VENUS",
+        "works_count": 1101
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250704/bjV8RCFf/1.jpg",
     "actress": [],
@@ -1769,8 +3056,8 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230925/pb_e_031vio-35.jpg!320x216.jpg",
     "actress": [],
@@ -1786,475 +3073,17 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "木曜日！全員集合！！",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_木曜日_全員集合",
+        "works_count": 45
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230412-11/1923db0922e99db211d0aebf4cbeea00.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-088"
-  },
-  {
-    "id": 534797,
-    "IDcode": "VOV-099",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.34“お姊さんよりエッチな友达绍介してもらえますか”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231008/h_1350vov00099pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-099"
-  },
-  {
-    "id": 535077,
-    "IDcode": "VOV-101",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.36“お姊さんよりエッチな友达绍介してもらえますか”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240116/h_1350vov00101pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-101"
-  },
-  {
-    "id": 89077,
-    "IDcode": "VOV-108",
-    "title": "最強ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.43「お姉さんよりエッチな友達紹介してもらえますか」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "素人作品",
-      "巨乳",
-      "角色扮演者",
-      "乱交",
-      "滥交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "2023-06-23",
-    "cover_url": "https://tuaskbgnekr.com/20240907/xJGcpLj7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-108"
-  },
-  {
-    "id": 89078,
-    "IDcode": "VOV-110",
-    "title": "最強ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.45「お姉さんよりエッチな友達紹介してもらえますか」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "业余",
-      "中出",
-      "素人作品",
-      "乱交",
-      "滥交",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "2023-07-28",
-    "cover_url": "https://tuaskbgnekr.com/20240907/sNhzzQkS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-110"
-  },
-  {
-    "id": 89079,
-    "IDcode": "VOV-112",
-    "title": "最強ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.47「お姉さんよりエッチな友達紹介してもらえますか」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偶像",
-      "业余",
-      "中出",
-      "素人作品",
-      "乱交",
-      "滥交",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "2023-08-25",
-    "cover_url": "https://tuaskbgnekr.com/20240907/07h8oPfk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-112"
-  },
-  {
-    "id": 544919,
-    "IDcode": "VOV-122",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.57“お姊さんよりエッチな友达绍介しても",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240907/9GLVcv4v/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-122"
-  },
-  {
-    "id": 544917,
-    "IDcode": "VOV-124",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.59“お姊さんよりエッチな友达绍介しても",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240907/8uBUmixX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-124"
-  },
-  {
-    "id": 544918,
-    "IDcode": "VOV-126",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.61“お姊さんよりエッチな友达绍介しても",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240907/4B4y2F0n/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-126"
-  },
-  {
-    "id": 544564,
-    "IDcode": "VOV-132",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.67“お姊さんよりエッチな友达绍介しても",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241017/LOMRL0ym/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-132"
-  },
-  {
-    "id": 462702,
-    "IDcode": "VOV-133",
-    "title": "最強婊子大集合！連鎖亂交性愛趴vol.68",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68cdbf20958ac04f27f8dbb2/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-133"
-  },
-  {
-    "id": 550557,
-    "IDcode": "VOV-135",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.70“お姊さんよりエッチな友达绍介しても",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241214/azBR0FjW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-135"
-  },
-  {
-    "id": 95251,
-    "IDcode": "VOV-137",
-    "title": "最強ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.72「お姉さんよりエッチな友達紹介してもらえますか」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/92608e46/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-137"
-  },
-  {
-    "id": 462968,
-    "IDcode": "VOV-139",
-    "title": "最強婊子大集合！連鎖亂交性愛趴vol.74",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bab36dce3e366423ce2acd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-139"
-  },
-  {
-    "id": 565152,
-    "IDcode": "VOV-140",
-    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.75“お姊さんよりエッチな友达绍介しても",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250303/ufRXAtoE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-140"
-  },
-  {
-    "id": 6553,
-    "IDcode": "VOV-146",
-    "title": "最強騷貨大集合！接力亂交SEX派對vol.81 姐姐能介紹比你更辣的朋友嗎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "獵豔",
-      "小隻馬",
-      "兔女郎妝扮",
-      "兩男兩女",
-      "苗條",
-      "臀控",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "淫亂",
-      "COSPLAY服飾",
-      "大姐姐",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "企畫",
-      "地雷系",
-      "後入",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "乱伦",
-      "神待娘",
-      "蘿莉控",
-      "女上位",
-      "乱交",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "木曜日！全員集合！！",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b958032ee23a639b178cae/cover.jpg",
-    "actress": [
-      "九井珠奈緒",
-      "川口乃乃華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-146"
-  },
-  {
-    "id": 520938,
-    "IDcode": "VOV137",
-    "title": "极品荡妇集结！连锁乱交派对Vol.72 素人疯狂盛宴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱交"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20251008/qSqrMij3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV137"
-  },
-  {
-    "id": 412186,
-    "IDcode": "VOV139",
-    "title": "最强婊子大集合！连锁乱交性爱趴vol.74 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/7f10fbcf187ca4e3f3b85d4c749b8d35.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV139"
-  },
-  {
-    "id": 402051,
-    "IDcode": "VOV140",
-    "title": "最强婊子大集合！连锁乱交性爱趴vol.75 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/1138163f3676e3a626acdc2e7ae18af8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV140"
-  },
-  {
-    "id": 73258,
-    "IDcode": "WAAA-026",
-    "title": "キメセク相部屋バコバコ中出し大乱交 夕季千歲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "中出",
-      "药物",
-      "巨乳",
-      "乱交",
-      "滥交"
-    ],
-    "type": "",
-    "company": "WANZ FACTORY",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/c9ac75e5c084df2f4555523a794e4d74.jpg",
-    "actress": [
-      "七草千歲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-026"
-  },
-  {
-    "id": 212015,
-    "IDcode": "WAAA-031",
-    "title": "連発大乱交-深田えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "WANZ FACTORY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/04/20/d925e299e99db18d223ef8b83cf8323c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-031"
-  },
-  {
-    "id": 594835,
-    "IDcode": "WAAA-048",
-    "title": "排队的中出中毒公厕女～浓烈大叔的追击播种抽插20连发大乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "WANZ FACTORY",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210911-1/81107bafa46b6f83a87d47fa4da6273c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-048"
-  },
-  {
-    "id": 594805,
-    "IDcode": "WAAA-057",
-    "title": "春药性爱拼房内射大乱交 姬咲华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "WANZ FACTORY",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210911-1/11ef538a3eb109e39d87feaec53555ae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-057"
-  },
-  {
-    "id": 86594,
-    "IDcode": "WAAA-133",
-    "title": "20連発大乱交-東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "深喉",
-      "多P",
-      "中出",
-      "乱交"
-    ],
-    "type": "",
-    "company": "WANZ FACTORY",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/5e6658924fc5ad11452e77696593e339.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-133"
   }
 ];

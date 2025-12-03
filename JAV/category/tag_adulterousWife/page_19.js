@@ -1,5 +1,535 @@
 window.PAGE_DATA = [
   {
+    "id": 92690,
+    "IDcode": "PX-388",
+    "title": "被強迫參加了換妻派對我美麗的新婚妻子被老頭們玩弄內射我只能幹他們的死肥豬老婆岬奈奈美。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240909-1/eb1e168124c21ed769965f1a199881eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PX-388"
+  },
+  {
+    "id": 90003,
+    "IDcode": "PXM-005",
+    "title": "【MGS独占配信BEST】 NTR.net ギガ盛り感謝祭SP 01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "NTR",
+      "4小时以上作品",
+      "白天出轨",
+      "淫妻",
+      "业余",
+      "中出",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/3bb5c382920b257d4b81e57c6179a727.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PXM-005"
+  },
+  {
+    "id": 155423,
+    "IDcode": "PZZ-056",
+    "title": "I出差目的地合租房NTR被絕世上司姬香庵一夜連續爆烏賊多次的巨乳女社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250202-1/0f7264d420dc3befba088a7e3a2ee703.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PZZ-056"
+  },
+  {
+    "id": 155242,
+    "IDcode": "PZZ-342",
+    "title": "I計畫中合租房間逆NTR極情技師的年輕精英女上司給她戴綠帽多次上天的夜晚佐倉桃桃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240919-1/8cab473f00b0b590eb4c49e7723e205b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PZZ-342"
+  },
+  {
+    "id": 567210,
+    "IDcode": "QMILL-001",
+    "title": "亲友彼氏を夜●いNTR。欲望に败れ、寝ている亲友の真横で亲友彼氏とハメま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QMILL-001"
+  },
+  {
+    "id": 61715,
+    "IDcode": "QRDA-203",
+    "title": "裏切りのNTR 女王妻・狂気のお仕置きSM 龍妃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻",
+      "肛交",
+      "拘束",
+      "SM",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "龍妃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-203"
+  },
+  {
+    "id": 223930,
+    "IDcode": "RABS-024",
+    "title": "梦幻之夜NTR幻想曲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RABS-024"
+  },
+  {
+    "id": 99483,
+    "IDcode": "RADC-018",
+    "title": "鍋パNTR 【悲報】出不精の妻が同窓会も兼ねて同級生の新築パーリィーに行った時に撮られたで有ろう動画です…藤代ゆかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "已婚妇女",
+      "烂醉如泥的",
+      "淫妻",
+      "成熟的女人",
+      "轮奸"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2018-03-22",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/18radc018/18radc018pl.jpg",
+    "actress": [
+      "藤代ゆかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RADC-018"
+  },
+  {
+    "id": 12062,
+    "IDcode": "RATW-014",
+    "title": "臺灣NTR風雲「對不起，老婆……」無性老公屈服於情色美女誘惑的祕密 ~ 李蓉蓉 宋雨川 夏晴子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "運動服裝",
+      "艷遇",
+      "巨尻",
+      "慾求不滿",
+      "飯店",
+      "故事集",
+      "靴子",
+      "辣妹/GAL系",
+      "美腳",
+      "癡女",
+      "中日合作",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "心機婊",
+      "接吻",
+      "形象俱樂部",
+      "人妻",
+      "NTR",
+      "淫亂",
+      "淫妻",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "國產女優",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "拜金女",
+      "台灣女優",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-09-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20240908/20240908045310632632.jpg",
+    "actress": [
+      "夏晴子",
+      "李蓉蓉",
+      "宋雨川"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RATW-014"
+  },
+  {
+    "id": 190073,
+    "IDcode": "RBD-187",
+    "title": "被卖的奴隶姐妹花在老公面前被内射展示",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-187"
+  },
+  {
+    "id": 526236,
+    "IDcode": "RBD-307",
+    "title": "夫の目の前で犯されて-特别编 濡れた再就职 KAORI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/0e7b709ff4bb1e9713daa71ee0712275.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-307"
+  },
+  {
+    "id": 588066,
+    "IDcode": "RBD-350",
+    "title": "未亡人的屁眼 在儿子面前被两穴侵犯的母亲 松本麻里奈 松本麻里奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-350"
+  },
+  {
+    "id": 221174,
+    "IDcode": "RBD-424",
+    "title": "在男朋友面前被侵犯的黑丝空-芦名ユリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-424"
+  },
+  {
+    "id": 104786,
+    "IDcode": "RBD-848",
+    "title": "硬是被隔壁变态的一家子逼迫着进行了换妻游戏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "凌辱",
+      "淫妻",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240609-1/697d6689db740f7e03094b302c52b19b.jpg",
+    "actress": [
+      "水城奈緒",
+      "蓝井优太",
+      "田渊正浩",
+      "绪奈もえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-848"
+  },
+  {
+    "id": 76734,
+    "IDcode": "RBD-899",
+    "title": "人妻NTR 背徳のマッサージ 夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "人妻",
+      "NTR",
+      "已婚妇女",
+      "戏剧",
+      "白天出轨",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏目彩春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-899"
+  },
+  {
+    "id": 174941,
+    "IDcode": "RBD-907",
+    "title": "在丈夫面前被强奸内射的姐妹花美谷朱里神宫寺奈绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-907"
+  },
+  {
+    "id": 90117,
+    "IDcode": "RBK-075",
+    "title": "在老公面前被别人挿入-君冢日向",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "已婚妇女",
+      "戏剧",
+      "淫妻",
+      "白天出轨",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ATTACKERS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
+        "works_count": 1087
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君塚ひなた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-075"
+  },
+  {
+    "id": 3157,
+    "IDcode": "RBK-121",
+    "title": "已婚妇女戴绿帽子蒙面派对-流川はる香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "奇聞趣事",
+      "多P",
+      "口爆",
+      "三十路",
+      "蒙面・面罩",
+      "其他職業",
+      "臀控",
+      "阪道系",
+      "流汗",
+      "美腳",
+      "拘束・拷問",
+      "羞恥",
+      "美乳",
+      "寢取",
+      "過膝襪・小腿襪",
+      "清楚系",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "鬃毛",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "潮吹",
+      "單體作品",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "極品美人",
+      "淫妻",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "不倫",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "舔腳",
+      "乳交",
+      "御姐系",
+      "黑絲",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ATTACKERS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
+        "works_count": 1087
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828033502658658_88983_thumbnail.webp",
+    "actress": [
+      "流川はる香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-121"
+  },
+  {
+    "id": 523462,
+    "IDcode": "RCT-662",
+    "title": "波多野结衣- 夫妇交换手锭拘束ゲーム 加藤ツバキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "夫妻交换",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250617/yQrrJauf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-662"
+  },
+  {
     "id": 594995,
     "IDcode": "RCTD-271",
     "title": "用催眠术交换女友 双重约会中的恩爱情侣要不要体验下催眠术 ？",
@@ -9,8 +539,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "ROCKET",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROCKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
+        "works_count": 502
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/aaffc40110052d06b5081a523daf5f5e.jpg",
     "actress": [],
@@ -28,10 +564,16 @@ window.PAGE_DATA = [
       "乱交",
       "淫妻"
     ],
-    "type": "",
-    "company": "ROCKET",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROCKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
+        "works_count": 502
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/57019a0e468ed798ebcf5391b8eec1bd.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-298"
   },
@@ -45,10 +587,16 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "ROCKET",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROCKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
+        "works_count": 502
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/27/01875e67e52b8e1ba0fb02dc6db0db61.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-351"
   },
@@ -62,8 +610,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "ROCKET",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROCKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROCKET",
+        "works_count": 502
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8e6522c20c374c1d9ea2e5ffe8a0025e.jpg",
     "actress": [],
@@ -79,8 +633,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "ROOKIE",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROOKIE",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROOKIE",
+        "works_count": 193
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250905-1/f1dad0526c3fc8f53086f08a80f94ade.jpg",
     "actress": [],
@@ -110,8 +670,14 @@ window.PAGE_DATA = [
       "口交",
       "美臀"
     ],
-    "type": "",
-    "company": "ROOKIE",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROOKIE",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROOKIE",
+        "works_count": 193
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231211/38e156ee-2370-419e-b662-932c4fce9210.jpg",
     "actress": [
@@ -163,10 +729,16 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "ROOKIE",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROOKIE",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROOKIE",
+        "works_count": 193
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240512-1/fb7d51cf75ccc32ebe0c9f094a063b48.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406071719897897.jpg",
     "actress": [
       "中城葵",
       "輝大"
@@ -190,10 +762,16 @@ window.PAGE_DATA = [
       "成熟的女人",
       "母亲"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/c5c6eb3ebdcd365383677eacda5c17ff.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "平冈里枝子"
     ],
@@ -216,10 +794,16 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240219-1/6fc7d7f75c74980c81fb051a4756198c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "左慈半造",
       "平冈里枝子"
@@ -237,10 +821,16 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240113-1/925cc74475dd2bd0c990d461ee6c4bf7.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "安倍亜沙美"
     ],
@@ -262,10 +852,16 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240127-1/9f426ef47f4c685ff29bba929286a36e.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "友田真希"
     ],
@@ -308,10 +904,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240404-1/dbde54d9a38a2df5bc111e5b243888fc.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20240224/edf8e981-aa93-439b-b3b7-22bc7c787376.jpg",
     "actress": [
       "一色桃子"
     ],
@@ -334,10 +936,16 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240729-1/276590aaa068a346caedb9d114b5031f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "一色桃子"
     ],
@@ -376,10 +984,16 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240729-1/e1ac46f804e4319c1f5f9873cd57f0b0.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621021604899899.jpg",
     "actress": [
       "水野優香"
     ],
@@ -402,10 +1016,16 @@ window.PAGE_DATA = [
       "成熟的女人",
       "母亲"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240729-1/1a4692ec96e7caa0e39df978f3147ba0.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250725-1/466d1c18c669f027503fa3037beb7317.jpg",
     "actress": [
       "友田真希"
     ],
@@ -437,8 +1057,14 @@ window.PAGE_DATA = [
       "不倫",
       "岳母"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/9ca212f2ceca312eea5bb1df432a3f04.jpg",
     "actress": [
@@ -475,10 +1101,16 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250422-1/48636253dd3699d07372e46a59b2f546.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093232167167.jpg",
     "actress": [
       "吉永塔子"
     ],
@@ -525,10 +1157,16 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-2/1ff2bb6144410d751900e3a30ad02ebb.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619080635626626_thumbnail.webp",
     "actress": [
       "一色桃子",
       "ナイアガラ翔"
@@ -576,10 +1214,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "岳母"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250727-1/2d55c29524290da8e6ab6945edf4c0e4.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717023739431431_31324_thumbnail.webp",
     "actress": [
       "愛田流花"
     ],
@@ -635,8 +1279,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f6c1d98bc99dfdd151fc7/cover.jpg",
     "actress": [
@@ -655,10 +1305,16 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/fce2b65857c7ce000a73598e9cf5a3cc.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-394"
   },
@@ -673,10 +1329,16 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/01/1376c606/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-412"
   },
@@ -692,10 +1354,16 @@ window.PAGE_DATA = [
       "乱伦",
       "淫妻"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/29/3de73c0786e6433a14d38e145f0495e0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-413"
   },
@@ -710,10 +1378,16 @@ window.PAGE_DATA = [
       "淫妻",
       "巨乳"
     ],
-    "type": "",
-    "company": "ROYAL",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROYAL",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROYAL",
+        "works_count": 234
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/feac0a06d0376019a7c781d6e9fe0155.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-001"
   },
@@ -734,10 +1408,16 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
-    "company": "ROYAL",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROYAL",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROYAL",
+        "works_count": 234
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/d41f92240d7e4516c5a3d20a5051bd2f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "円井萌華"
     ],
@@ -784,10 +1464,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
-    "company": "ROYAL",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROYAL",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROYAL",
+        "works_count": 234
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250427-1/bcfbdae94dbb7e53347950617847443b.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417084408241241_thumbnail.webp",
     "actress": [
       "似鳥日菜"
     ],
@@ -840,10 +1526,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
-    "company": "ROYAL",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROYAL",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROYAL",
+        "works_count": 234
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/31/bf774d98/vod.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918023511642642_96632_thumbnail.webp",
     "actress": [
       "美谷朱里"
     ],
@@ -860,10 +1552,10 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/61e4c60cba4657374a10cbc0de9e00f3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RURB-013"
   },
@@ -878,8 +1570,14 @@ window.PAGE_DATA = [
       "淫妻",
       "巨乳"
     ],
-    "type": "",
-    "company": "GLORY QUEST",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240207/XI7F7xzi/1.jpg",
     "actress": [],
@@ -918,8 +1616,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "ATTACKERS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ATTACKERS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
+        "works_count": 1087
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/12/67f96defcf22ae3e04092f8b/cover.jpg",
     "actress": [
@@ -990,10 +1694,16 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "ATTACKERS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ATTACKERS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ATTACKERS",
+        "works_count": 1087
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/195d03b96e93257bced80815045ffedf.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032205976976_thumbnail.webp",
     "actress": [
       "鷲見蓳",
       "イセドン内村"
@@ -1015,12 +1725,47 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
-    "company": "マザー",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "マザー",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
+        "works_count": 339
+      }
+    ],
     "publish_date": "2021-09-21",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221022-1/89b0fd2c79fdff96311cfd403c8483b5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-021"
+  },
+  {
+    "id": 89834,
+    "IDcode": "SAN-061",
+    "title": "【FANZA限定】夫の目の前でドSの幼馴染に寝取られるエロ乳首妻 / 野咲美桜 パンティと生写真とチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "淫妻",
+      "白天出轨",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "マザー",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
+        "works_count": 339
+      }
+    ],
+    "publish_date": "2022-07-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-061"
   },
   {
     "id": 561569,
@@ -1033,8 +1778,14 @@ window.PAGE_DATA = [
       "淫妻",
       "巨乳"
     ],
-    "type": "",
-    "company": "マザー",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "マザー",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
+        "works_count": 339
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/1lpxNkBi/1.jpg",
     "actress": [],
@@ -1078,8 +1829,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "マザー",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "マザー",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
+        "works_count": 339
+      }
+    ],
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528070746626626.jpg",
     "actress": [
@@ -1111,8 +1868,14 @@ window.PAGE_DATA = [
       "巨乳",
       "絕頂高潮"
     ],
-    "type": "",
-    "company": "マザー",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "マザー",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
+        "works_count": 339
+      }
+    ],
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528065052165165.jpg",
     "actress": [
@@ -1153,8 +1916,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "マザー",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "マザー",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
+        "works_count": 339
+      }
+    ],
     "publish_date": "2024-06-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240630/4110b6b1-3ec8-47d2-875d-13c81cbc21b3.jpg",
     "actress": [
@@ -1194,8 +1963,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "マザー",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "マザー",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_マザー",
+        "works_count": 339
+      }
+    ],
     "publish_date": "2024-08-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901001440726726.jpg",
     "actress": [
@@ -1213,17 +1988,17 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240910-1/dda9ca730130223abc912d3bb1d5db3e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBJ-114"
   },
   {
-    "id": 550861,
-    "IDcode": "SCPS-455-",
-    "title": "【人妻の勘违い逆NTR】义母中出し即堕！禁断快感实录 ☆未知女优冲击作",
+    "id": 400349,
+    "IDcode": "SCPS-455",
+    "title": "【人妻の勘違い逆NTR】义母中出し即堕！禁断快感实录 -C☆未知女优冲击作",
     "year": "",
     "country": "",
     "genre": "",
@@ -1231,12 +2006,18 @@ window.PAGE_DATA = [
       "人妻",
       "淫妻"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250402-1/30f04700d7a60b3dcb2d979e648a2572.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/24/688176b2c92318f97daf946e/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPS-455-"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPS-455"
   },
   {
     "id": 517613,
@@ -1248,8 +2029,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "K.M.P",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "K.M.P",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
+        "works_count": 1270
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/04/690920904a81c2286fb27e14/poster2.jpg",
     "actress": [],
@@ -1265,8 +2052,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "K.M.P",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "K.M.P",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
+        "works_count": 1270
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241013/m6dNyfUr/1.jpg",
     "actress": [],
@@ -1283,10 +2076,16 @@ window.PAGE_DATA = [
       "淫妻",
       "嫩妹"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-27/18/gulnwqsrfnk1802gulnwqsrfnk4921100.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-077"
   },
@@ -1300,8 +2099,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/a43131bf07d11773463dd9ff1d908669.jpg",
     "actress": [],
@@ -1318,8 +2123,14 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/28/f7b36b68fa25631ba1447318736b47a4.jpg",
     "actress": [],
@@ -1335,8 +2146,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240125/drrfJmth/1.jpg",
     "actress": [],
@@ -1368,8 +2185,14 @@ window.PAGE_DATA = [
       "少女",
       "美臀"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-08-08",
     "cover_url": "https://picture.yoshiclub.xyz/20240702/f1fe91e8-d017-4eb5-897c-5f8044c5f03a.jpg",
     "actress": [],
@@ -1412,10 +2235,16 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/b3491b37/vod.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241217/a69a7951-da64-4c86-b0e0-676d6b868dec.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-130"
   },
@@ -1430,10 +2259,16 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/5e10e071/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-616"
   },
@@ -1447,8 +2282,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/rPwBOd9I.jpg",
     "actress": [],
@@ -1475,10 +2316,10 @@ window.PAGE_DATA = [
       "第一人称摄影",
       "放尿"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240119-1/3fed8c10abf8eb8537c08691a996f408.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "有栖舞衣"
     ],
@@ -1494,8 +2335,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230602-1/e2b49175cfd78977f9e9c05654f38ba2.jpg",
     "actress": [],
@@ -1519,8 +2360,14 @@ window.PAGE_DATA = [
       "中出",
       "素人作品"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/067831c2b576c2ab5d66038b8d42fa27.jpg",
     "actress": [
@@ -1542,10 +2389,16 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230411-11/5f7b4ce5afe9bb48f12b272d5ef6e91d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-062"
   },
@@ -1566,8 +2419,14 @@ window.PAGE_DATA = [
       "手淫",
       "淫语"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/5893cffe54f991a534f20131a440e2f7.jpg",
     "actress": [
@@ -1586,8 +2445,8 @@ window.PAGE_DATA = [
       "夫妻交换",
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250225-1/f1fa6881d2d1ff5d839cecc1810214dd.jpg",
     "actress": [],
@@ -1610,8 +2469,8 @@ window.PAGE_DATA = [
       "素人作品",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/23bcbaaf555b9cfffdfc2d4d57c4e51b.jpg",
     "actress": [
@@ -1629,10 +2488,10 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/204c721d6468f1ce0fc1cf256308bb6b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-985"
   },
@@ -1651,8 +2510,14 @@ window.PAGE_DATA = [
       "淫妻",
       "中出"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/24/688177d5c92318f97daf94e6/cover.jpg",
     "actress": [
@@ -1672,8 +2537,14 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240105/FBpMcNbm/1.jpg",
     "actress": [],
@@ -1695,8 +2566,14 @@ window.PAGE_DATA = [
       "無碼流出",
       "素人作品"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6a7f1bf078ae7a101656d73e15a6b2b0.jpg",
     "actress": [
@@ -1715,8 +2592,14 @@ window.PAGE_DATA = [
       "人妻",
       "淫妻"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/79bb507a075d5ec56c363a9d4048426b.jpg",
     "actress": [],
@@ -1734,10 +2617,16 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/29/1bc52a1c/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-021"
   },
@@ -1752,10 +2641,10 @@ window.PAGE_DATA = [
       "淫妻",
       "中文字幕"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250919-1/2618c04a668f935f267fc85ed825d979.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-274"
   },
@@ -1769,8 +2658,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/15/684e7d6d3ed39b57c06f4e5f/cover.jpg",
     "actress": [],
@@ -1786,8 +2675,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1bbab52c12b4e6850221d/cover.jpg",
     "actress": [],
@@ -1810,8 +2699,8 @@ window.PAGE_DATA = [
       "制服",
       "素人作品"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5c1cfeb67774efbb8f54a/cover.jpg",
     "actress": [],
@@ -1834,8 +2723,8 @@ window.PAGE_DATA = [
       "制服",
       "素人作品"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6fd6e944bbe4ef015cc14/cover.jpg",
     "actress": [],
@@ -1858,8 +2747,8 @@ window.PAGE_DATA = [
       "中出",
       "素人作品"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2024-09-12",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241024-1/62cb8edf80c6df29c02bbb5c80f4b314.jpg",
     "actress": [
@@ -1895,8 +2784,14 @@ window.PAGE_DATA = [
       "按摩・物理治療・美容",
       "綜藝"
     ],
-    "type": "",
-    "company": "SHIGEKI",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SHIGEKI",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SHIGEKI",
+        "works_count": 66
+      }
+    ],
     "publish_date": "2024-05-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240416/bcaae8cf-9bf4-445a-babe-340932398c42.jpg",
     "actress": [],
@@ -1952,10 +2847,16 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "SHIGEKI",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SHIGEKI",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SHIGEKI",
+        "works_count": 66
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250811-1/360787d2ef85dc1900078097811871b1.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250805/20250805212657878878_91754_thumbnail.webp",
     "actress": [
       "森澤佳奈",
       "有栖舞衣",
@@ -1973,8 +2874,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f8620ddbf24d4ed342888a/poster2.jpg",
     "actress": [],
@@ -1997,10 +2898,10 @@ window.PAGE_DATA = [
       "业余",
       "中出"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-1/ce06ee784182ea79b73d73dd03abb199.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-379"
   },
@@ -2014,10 +2915,10 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/26/45937_cover_2025-06-26_062914.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHH-020"
   },
@@ -2032,10 +2933,10 @@ window.PAGE_DATA = [
       "人妻",
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/11/6e88ce5d131ab951b10dff2977bd7a00.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-339"
   },
@@ -2049,10 +2950,10 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/09-03/13/ys1r1b1dhht1314ys1r1b1dhht1923793.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-341"
   },
@@ -2067,10 +2968,10 @@ window.PAGE_DATA = [
       "人妻",
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/87b405cee2885f555595f135457644c4.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-347"
   },
@@ -2085,10 +2986,10 @@ window.PAGE_DATA = [
       "人妻",
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/11/eb27dcaf07eb36a170205ffd29d296b4.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-379"
   },
@@ -2102,10 +3003,10 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/08-28/12/0bxgjkelcmy12050bxgjkelcmy5621759.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-384"
   },
@@ -2119,8 +3020,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230228/shkd00389pl.jpg",
     "actress": [],
@@ -2140,404 +3041,13 @@ window.PAGE_DATA = [
       "女上位",
       "颜射"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2010-03-07",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/07-21/15/4obtef0uuag15204obtef0uuag297453.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "光月夜也"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-400"
-  },
-  {
-    "id": 103033,
-    "IDcode": "SHKD-403",
-    "title": "在老公的面前被侵犯- 小叔的欲望 西野翔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "强奸",
-      "淫妻",
-      "无码破解",
-      "颜射"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2010-04-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd403/shkd403pl.jpg",
-    "actress": [
-      "西野翔"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-403"
-  },
-  {
-    "id": 102946,
-    "IDcode": "SHKD-406",
-    "title": "夫の目の前で犯されて- 強姦マッサージ 紺野沙織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "强奸",
-      "淫妻",
-      "女上位",
-      "颜射"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2010-05-07",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/06-26/06/dsjsfv1p3la0644dsjsfv1p3la395670.jpg",
-    "actress": [
-      "绀野沙织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-406"
-  },
-  {
-    "id": 99366,
-    "IDcode": "SHKD-409",
-    "title": "夫の目の前で犯されて- 侵入者9 春咲あずみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "强奸",
-      "淫妻",
-      "舔阴",
-      "女上位"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2010-06-07",
-    "cover_url": "http://15.155250922.com/upload/vod/20221104/shkd00409pl.jpg",
-    "actress": [
-      "春咲和津实"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-409"
-  },
-  {
-    "id": 105054,
-    "IDcode": "SHKD-415",
-    "title": "在丈夫面前被强奸内射的人妻-小川阿佐美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "强奸",
-      "淫妻",
-      "无码破解",
-      "中出",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240521-1/300ebe2747e35ccc32bb88e2a08949ee.jpg",
-    "actress": [
-      "小川阿佐美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-415"
-  },
-  {
-    "id": 98514,
-    "IDcode": "SHKD-418",
-    "title": "夫の目の前で犯されて- 訪問強姦魔 青木莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "强奸",
-      "淫妻",
-      "巨乳",
-      "已婚妇女"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2010-09-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd418/shkd418pl.jpg",
-    "actress": [
-      "桜まい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-418"
-  },
-  {
-    "id": 98019,
-    "IDcode": "SHKD-421",
-    "title": "在丈夫眼前被侵犯-美咲美优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "强奸",
-      "凌辱",
-      "淫妻",
-      "已婚妇女"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/10/53e6b8ff4df29ce72091ac14559a2867.jpg",
-    "actress": [
-      "美咲みゆ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-421"
-  },
-  {
-    "id": 98297,
-    "IDcode": "SHKD-427",
-    "title": "夫の目の前で犯されて- 母乳まみれの恥辱 青木玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "已婚妇女",
-      "强奸",
-      "淫妻",
-      "乳交",
-      "母乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2010-12-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd427/shkd427pl.jpg",
-    "actress": [
-      "青木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-427"
-  },
-  {
-    "id": 548734,
-    "IDcode": "SHKD-437",
-    "title": "夫の目の前で犯されて-狙われた美乳桜井あみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/09-14/12/ohd25os0cmj1251ohd25os0cmj434561.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-437"
-  },
-  {
-    "id": 548891,
-    "IDcode": "SHKD-440",
-    "title": "夫の目の前で犯されて-凌辱の赠り物爱咲れいら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/09-15/13/zcywe0y2z5e1329zcywe0y2z5e094947.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-440"
-  },
-  {
-    "id": 548390,
-    "IDcode": "SHKD-443",
-    "title": "夫の目の前で犯されて-ターゲットIIかすみ果穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/09-09/13/xwwfognjoso1303xwwfognjoso092457.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-443"
-  },
-  {
-    "id": 102801,
-    "IDcode": "SHKD-445",
-    "title": "夫の目の前で犯されて- 狂いだした歯車 桜木凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "强奸",
-      "淫妻",
-      "无码破解",
-      "女上位",
-      "颜射"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2011-06-07",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/09-15/13/54sln4axfun132854sln4axfun594923.jpg",
-    "actress": [
-      "桜木凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-445"
-  },
-  {
-    "id": 549067,
-    "IDcode": "SHKD-447",
-    "title": "夫の目の前で犯されて-レイプ魔は突然に伊岛香织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/09-16/13/4erwyb2a41213504erwyb2a412495341.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-447"
-  },
-  {
-    "id": 213407,
-    "IDcode": "SHKD-456",
-    "title": "在丈夫面前被强奸-澤村レイコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/16/a9e41f68fce6507510ad69b00dd35c08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-456"
-  },
-  {
-    "id": 526269,
-    "IDcode": "SHKD-458",
-    "title": "夫の目の前で犯されて-义兄の欲望芹沢恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/02-27/14/qkegqtg3icr1455qkegqtg3icr591655.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-458"
-  },
-  {
-    "id": 526268,
-    "IDcode": "SHKD-461",
-    "title": "夫の目の前で犯されて- 访问强奸魔4 遥めぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2021/05/05uybjq04bj.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-461"
-  },
-  {
-    "id": 526267,
-    "IDcode": "SHKD-464",
-    "title": "夫の目の前で犯されて- 义兄の强奸出张 杏树纱奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2021/05/mfrifuzcpsg.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-464"
-  },
-  {
-    "id": 526275,
-    "IDcode": "SHKD-471",
-    "title": "夫の目の前で犯されて- 强奸管理人 森ななこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2021/05/hdzbtiamx5n.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-471"
-  },
-  {
-    "id": 209538,
-    "IDcode": "SHKD-482",
-    "title": "夫の目の前で犯-舞咲みくに",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/08/892aad7ce35bcb96523d39e3b8f0949d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-482"
-  },
-  {
-    "id": 526272,
-    "IDcode": "SHKD-485",
-    "title": "夫の目の前で犯されて- 访问强奸魔7 三浦あいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/11/p54qptts5jk.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-485"
-  },
-  {
-    "id": 549054,
-    "IDcode": "SHKD-488",
-    "title": "夫の目の前で犯されて- 被虐の不妊治疗2 遥结爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250903-1/d156e1a14154c6b6a972f59c8dd9b8c7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-488"
   }
 ];

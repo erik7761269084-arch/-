@@ -1,1702 +1,1708 @@
 window.PAGE_DATA = [
   {
-    "id": 551871,
-    "IDcode": "SIRO-1919",
-    "title": "素人AV体验拍摄669",
+    "id": 552110,
+    "IDcode": "SIRO-1517",
+    "title": "业馀个人摄影和发文。第383章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251014-1/770dd06b06f3d55e479d372576ad166d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1919"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1517"
   },
   {
-    "id": 534674,
-    "IDcode": "SIRO-1920",
-    "title": "素人AV体験撮影673",
+    "id": 552197,
+    "IDcode": "SIRO-1520",
+    "title": "业馀个人拍摄、发帖。 387",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/ffd69968833a0a0cc7d57ad6e5662e12.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1920"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1520"
   },
   {
-    "id": 552248,
-    "IDcode": "SIRO-1924",
-    "title": "前316",
+    "id": 552111,
+    "IDcode": "SIRO-1522",
+    "title": "业馀个人拍摄、发帖。 393",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/f7d585add0ad4208eaa9f08cc23e5641.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1924"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1522"
   },
   {
-    "id": 534687,
-    "IDcode": "SIRO-1925",
-    "title": "初々317",
+    "id": 552195,
+    "IDcode": "SIRO-1524",
+    "title": "业馀个人摄影和发文。 401",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230819/pb_e_siro-1925.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1925"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1524"
   },
   {
-    "id": 551872,
-    "IDcode": "SIRO-1927",
-    "title": "素人AV体验拍摄675",
+    "id": 551875,
+    "IDcode": "SIRO-1527",
+    "title": "业馀个人拍摄、发帖。 390",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251014-1/7f3ab323a506b50d7302861a483e57bb.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1927"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1527"
   },
   {
-    "id": 534686,
-    "IDcode": "SIRO-1928",
-    "title": "素人个人撮影、投稿。565",
+    "id": 551876,
+    "IDcode": "SIRO-1529",
+    "title": "业馀个人拍摄、发帖。 397",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230819/pb_e_siro-1928.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1928"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1529"
   },
   {
-    "id": 551873,
-    "IDcode": "SIRO-1929",
-    "title": "素人AV体验拍摄674",
+    "id": 552207,
+    "IDcode": "SIRO-1530",
+    "title": "业馀个人摄影和发文。第392章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251014-1/d86f0f9b33c85617c828dd399e175b08.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1929"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1530"
   },
   {
-    "id": 551874,
-    "IDcode": "SIRO-1930",
-    "title": "素人AV体验拍摄676",
+    "id": 552210,
+    "IDcode": "SIRO-1532",
+    "title": "业馀个人摄影和发文。第395章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251014-1/ac0bde1919b469a9f68b2d3c2fadabf9.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1930"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1532"
   },
   {
-    "id": 534694,
-    "IDcode": "SIRO-1931",
-    "title": "初々320",
+    "id": 552220,
+    "IDcode": "SIRO-1534",
+    "title": "业馀个人摄影和发文。第413章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/dbeba4c9770cf63378fbdea6bcd7a866.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1931"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1534"
   },
   {
-    "id": 552305,
-    "IDcode": "SIRO-1934",
-    "title": "素人AV体验拍摄683",
+    "id": 552208,
+    "IDcode": "SIRO-1535",
+    "title": "业馀个人摄影和发文。第436章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/3c93485d034e0c6c9cbccec760727c09.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1934"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1535"
   },
   {
-    "id": 534716,
-    "IDcode": "SIRO-1935",
-    "title": "素人AV体験撮影680",
+    "id": 551877,
+    "IDcode": "SIRO-1536",
+    "title": "业馀个人拍摄、发帖。 399",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230910/pb_e_siro-1935.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1935"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1536"
   },
   {
-    "id": 552320,
-    "IDcode": "SIRO-1936",
-    "title": "业馀个人拍摄，发帖。 567",
+    "id": 552185,
+    "IDcode": "SIRO-1539",
+    "title": "业馀个人拍摄，发帖。 402",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250911-1/7e6e82a4a58c785fdb60d25abd859c09.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1936"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1539"
   },
   {
-    "id": 552005,
-    "IDcode": "SIRO-1938",
-    "title": "前327",
+    "id": 552173,
+    "IDcode": "SIRO-1542",
+    "title": "业馀个人拍摄、发帖。 406",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/40acc1ef4f60b945d78a4cfa8163e411.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1938"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1542"
   },
   {
-    "id": 534715,
-    "IDcode": "SIRO-1939",
-    "title": "初々319",
+    "id": 552189,
+    "IDcode": "SIRO-1543",
+    "title": "业馀个人拍摄、发帖。 405",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/0d66c6051663d50a8ae3864415aec272.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1939"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1543"
   },
   {
-    "id": 552009,
-    "IDcode": "SIRO-1942",
-    "title": "前321",
+    "id": 551878,
+    "IDcode": "SIRO-1548",
+    "title": "业馀个人摄影和发文。 409",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/df17e4492249cbe3c70d9b666042d951.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1942"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1548"
   },
   {
-    "id": 552010,
-    "IDcode": "SIRO-1946",
-    "title": "前328",
+    "id": 551879,
+    "IDcode": "SIRO-1549",
+    "title": "业馀个人摄影和发文。 410",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/ef2326ae60a91c4dfc9c901a9a217729.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1946"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1549"
   },
   {
-    "id": 552288,
-    "IDcode": "SIRO-1948",
-    "title": "前324",
+    "id": 552168,
+    "IDcode": "SIRO-1552",
+    "title": "业馀AV体验拍摄530",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/80d64291802a5d6a82d2d45c7b03f9af.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1948"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1552"
   },
   {
-    "id": 534714,
-    "IDcode": "SIRO-1949",
-    "title": "素人AV体験撮影684",
+    "id": 551881,
+    "IDcode": "SIRO-1554",
+    "title": "业馀个人拍摄、发帖。 414",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/67c4f4c6a03f45cd2e8ff02359a19a4c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1949"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1554"
   },
   {
-    "id": 534713,
-    "IDcode": "SIRO-1951",
-    "title": "素人AV体験撮影686",
+    "id": 552202,
+    "IDcode": "SIRO-1555",
+    "title": "业馀AV体验拍摄528",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/048a6f9b155f50428b0110ac81d82255.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1951"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1555"
   },
   {
-    "id": 552264,
-    "IDcode": "SIRO-1952",
-    "title": "业馀AV体验拍摄688",
+    "id": 552192,
+    "IDcode": "SIRO-1556",
+    "title": "业馀个人拍摄、发帖。 416",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/d661fa10bc47fc114e818b5d39676285.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1952"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1556"
   },
   {
-    "id": 534740,
-    "IDcode": "SIRO-1953",
-    "title": "素人AV体験撮影687",
+    "id": 551880,
+    "IDcode": "SIRO-1557",
+    "title": "业馀个人拍摄、发帖。 419",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230922/pb_e_siro-1953.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1953"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1557"
   },
   {
-    "id": 552171,
-    "IDcode": "SIRO-1954",
-    "title": "素人AV体验拍摄 697",
+    "id": 552216,
+    "IDcode": "SIRO-1561",
+    "title": "业馀个人摄影和发文。第421章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250914-1/aa45541f6749f32261e88f481e2888dd.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1954"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1561"
   },
   {
-    "id": 534739,
-    "IDcode": "SIRO-1955",
-    "title": "素人AV体験撮影691",
+    "id": 552206,
+    "IDcode": "SIRO-1567",
+    "title": "业馀个人摄影和发文。第429章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230922/pb_e_siro-1955.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1955"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1567"
   },
   {
-    "id": 534759,
-    "IDcode": "SIRO-1958",
-    "title": "素人AV体験撮影692",
+    "id": 539431,
+    "IDcode": "SIRO-1575",
+    "title": "素人AV体験撮影531",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/a0f97800f89f4e115228c59dfa18e3b9.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1958"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1575"
   },
   {
-    "id": 552004,
-    "IDcode": "SIRO-1959",
-    "title": "业馀个人拍摄，发帖。 568",
+    "id": 552179,
+    "IDcode": "SIRO-1577",
+    "title": "业馀个人拍摄、发帖。 433",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/9b46431bea5b72e560b4a0a452699520.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1959"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1577"
   },
   {
-    "id": 534758,
-    "IDcode": "SIRO-1960",
-    "title": "素人AV体験撮影694",
+    "id": 552174,
+    "IDcode": "SIRO-1578",
+    "title": "业馀AV体验拍摄533",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/b1275a993c2195f04cff008d0359c53d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1960"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1578"
   },
   {
-    "id": 552160,
-    "IDcode": "SIRO-1961",
-    "title": "业馀个人拍摄，发帖。 569",
+    "id": 552200,
+    "IDcode": "SIRO-1583",
+    "title": "业馀个人拍摄、发帖。 437",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/7578e5df6078bdeb1d9ef27ee3fa9c9d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1961"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1583"
   },
   {
-    "id": 534779,
-    "IDcode": "SIRO-1962",
-    "title": "素人AV体験撮影695",
+    "id": 552191,
+    "IDcode": "SIRO-1585",
+    "title": "业馀个人拍摄、发帖。 435",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231004/pb_e_siro-1962.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1962"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1585"
   },
   {
-    "id": 552006,
-    "IDcode": "SIRO-1965",
-    "title": "业馀个人拍摄，发帖。 571",
+    "id": 552175,
+    "IDcode": "SIRO-1587",
+    "title": "业馀个人拍摄、发帖。 444",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/68b76b742cfaf3a343a058c62309822b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1965"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1587"
   },
   {
-    "id": 534802,
-    "IDcode": "SIRO-1967",
-    "title": "素人AV体験撮影698",
+    "id": 552165,
+    "IDcode": "SIRO-1592",
+    "title": "业馀个人拍摄、发帖。 440",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/907b9abe3e31a619dc945a6bd92901a9.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1967"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1592"
   },
   {
-    "id": 534801,
-    "IDcode": "SIRO-1968",
-    "title": "素人个人撮影、投稿。574",
+    "id": 552176,
+    "IDcode": "SIRO-1593",
+    "title": "业馀个人拍摄，发帖。 441",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/ec706731dc1c444606cce6dc56457695.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1968"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1593"
   },
   {
-    "id": 534837,
-    "IDcode": "SIRO-1970",
-    "title": "素人个人撮影、投稿。575",
+    "id": 552184,
+    "IDcode": "SIRO-1596",
+    "title": "业馀个人拍摄，发帖。 442",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/1c13cff75a92e12237e8fe32e7be9bff.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1970"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1596"
   },
   {
-    "id": 534836,
-    "IDcode": "SIRO-1971",
-    "title": "素人AV体験撮影721",
+    "id": 552181,
+    "IDcode": "SIRO-1606",
+    "title": "业馀AV体验拍摄542",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250911-1/25c1b95c3ed514aba48bab8c639f9535.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1971"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1606"
   },
   {
-    "id": 534835,
-    "IDcode": "SIRO-1972",
-    "title": "素人AV体験撮影703",
+    "id": 552167,
+    "IDcode": "SIRO-1609",
+    "title": "第1个 246",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231013/pb_e_siro-1972.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1972"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1609"
   },
   {
-    "id": 534821,
-    "IDcode": "SIRO-1973",
-    "title": "素人AV体験撮影700",
+    "id": 552193,
+    "IDcode": "SIRO-1611",
+    "title": "业馀个人拍摄、发帖。 454",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231019/pb_e_siro-1973.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1973"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1611"
   },
   {
-    "id": 534820,
-    "IDcode": "SIRO-1974",
-    "title": "素人AV体験撮影702",
+    "id": 552183,
+    "IDcode": "SIRO-1612",
+    "title": "业馀 AV 体验拍摄 543",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/6949eff39c29cfa9bfa444612e279216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1974"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1612"
   },
   {
-    "id": 588076,
-    "IDcode": "SIRO-1975",
-    "title": "素人AV体験撮影701 胸型和细腰都不错！！ 大桥优子",
+    "id": 552199,
+    "IDcode": "SIRO-1617",
+    "title": "业馀个人拍摄、发帖。 460",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/7c1c80adf6405cab0ad7ede0cbd0d290.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1975"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1617"
   },
   {
-    "id": 534838,
-    "IDcode": "SIRO-1980",
-    "title": "素人AV体験撮影707",
+    "id": 552194,
+    "IDcode": "SIRO-1619",
+    "title": "业馀个人拍摄、发帖。 462",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231024/pb_e_siro-1980.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1980"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1619"
   },
   {
-    "id": 534854,
-    "IDcode": "SIRO-1982",
-    "title": "素人AV体験撮影706",
+    "id": 552196,
+    "IDcode": "SIRO-1622",
+    "title": "业馀个人拍摄、发帖。 472",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/698f78dae1711948ed0a5e87711a177c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1982"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1622"
   },
   {
-    "id": 552273,
-    "IDcode": "SIRO-1983",
-    "title": "业馀AV体验拍摄705",
+    "id": 552198,
+    "IDcode": "SIRO-1623",
+    "title": "业馀个人拍摄、发帖。 467",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250911-1/af6e51e5e686e4ea494baa7e16e29594.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1983"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1623"
   },
   {
-    "id": 552282,
-    "IDcode": "SIRO-1985",
-    "title": "业馀AV体验拍摄720",
+    "id": 552172,
+    "IDcode": "SIRO-1627",
+    "title": "业馀个人摄影和发文。第468章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/8f39553e13db28da46f42edcdeea4c1c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1985"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1627"
   },
   {
-    "id": 534858,
-    "IDcode": "SIRO-1986",
-    "title": "素人AV体験撮影709",
+    "id": 552284,
+    "IDcode": "SIRO-1631",
+    "title": "业馀个人拍摄、发帖。 471",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/26a27fcca259dde7aae47a495a0ed9aa.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1986"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1631"
   },
   {
-    "id": 552007,
-    "IDcode": "SIRO-1987",
-    "title": "业馀个人拍摄，发帖。 578",
+    "id": 552329,
+    "IDcode": "SIRO-1632",
+    "title": "业馀个人拍摄，发帖。 477",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/9e499261f82a563c9247cc75e981fa61.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1987"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1632"
   },
   {
-    "id": 552331,
-    "IDcode": "SIRO-1988",
-    "title": "业馀个人拍摄，发帖。 576",
+    "id": 552334,
+    "IDcode": "SIRO-1633",
+    "title": "业馀个人拍摄，发帖。 473",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250911-1/503e34c06b39cebb291551c73b487109.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1988"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1633"
   },
   {
-    "id": 575643,
-    "IDcode": "SIRO-1989",
-    "title": "素人个人撮影、投稿。577第01集",
+    "id": 552251,
+    "IDcode": "SIRO-1634",
+    "title": "业馀个人拍摄，发帖。 474",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/f896ecb32520605d747fbabd2e6a42a2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1989"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1634"
   },
   {
-    "id": 552012,
-    "IDcode": "SIRO-1991",
-    "title": "业馀AV体验拍摄710",
+    "id": 552261,
+    "IDcode": "SIRO-1637",
+    "title": "业馀AV体验拍摄545",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/c22fff7b0581223cff0272cbb3144940.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1991"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1637"
   },
   {
-    "id": 552241,
-    "IDcode": "SIRO-1992",
-    "title": "业馀个人拍摄和发帖。 579",
+    "id": 552243,
+    "IDcode": "SIRO-1646",
+    "title": "业馀个人拍摄，发帖。 482",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/3b20cde243695ac9aa1df12e060f288c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1992"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1646"
   },
   {
-    "id": 534880,
-    "IDcode": "SIRO-1994",
-    "title": "素人AV体験撮影724",
+    "id": 552157,
+    "IDcode": "SIRO-1647",
+    "title": "业馀个人拍摄，发帖。 480",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/6d5a04c0eab7c1fd47beffd8692670fa.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1994"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1647"
   },
   {
-    "id": 534879,
-    "IDcode": "SIRO-1995",
-    "title": "素人AV体験撮影715",
+    "id": 552161,
+    "IDcode": "SIRO-1649",
+    "title": "业馀个人拍摄，发帖。 488",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250912-1/91f3f422901f221cd28d4498e2d6e4d1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1995"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1649"
   },
   {
-    "id": 552265,
-    "IDcode": "SIRO-1996",
-    "title": "业馀AV体验拍摄711",
+    "id": 552247,
+    "IDcode": "SIRO-1651",
+    "title": "素人AV体验拍摄565",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/0e471a0fa9a9ce0fe1e7f412a07f1212.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1996"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1651"
   },
   {
-    "id": 552236,
-    "IDcode": "SIRO-1997",
-    "title": "素人AV体验拍摄712",
+    "id": 552276,
+    "IDcode": "SIRO-1652",
+    "title": "业馀AV体验拍摄550",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/9ed8dc8a32194253e822f9eb046fef2b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1997"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1652"
   },
   {
-    "id": 552013,
-    "IDcode": "SIRO-1998",
-    "title": "素人AV体验拍摄 716",
+    "id": 552244,
+    "IDcode": "SIRO-1655",
+    "title": "业馀个人拍摄，发帖。 490",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/b5842eb2b7480f3368b602ecc8663e14.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1998"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1655"
   },
   {
-    "id": 534912,
-    "IDcode": "SIRO-1999",
-    "title": "素人AV体験撮影725",
+    "id": 551979,
+    "IDcode": "SIRO-1656",
+    "title": "素人AV体验拍摄 552",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/a9c32c5a7b518b5f05e28a56162ebde3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1999"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1656"
   },
   {
-    "id": 552008,
-    "IDcode": "SIRO-2000",
-    "title": "业馀个人摄影和发文。第593章",
+    "id": 551982,
+    "IDcode": "SIRO-1657",
+    "title": "业馀个人拍摄、发帖。第489章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/68d1891e7b5b22b3cb762e3e4acc443b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2000"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1657"
   },
   {
-    "id": 552237,
-    "IDcode": "SIRO-2001",
-    "title": "素人AV体验拍摄717",
+    "id": 551981,
+    "IDcode": "SIRO-1659",
+    "title": "业馀个人拍摄、发帖。第494章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/575f7fd96f4c6afeea195eb4537ac683.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1659"
   },
   {
-    "id": 552014,
-    "IDcode": "SIRO-2002",
-    "title": "素人AV体验拍摄 719",
+    "id": 552283,
+    "IDcode": "SIRO-1660",
+    "title": "业馀个人拍摄、发帖。第491章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/d7e056963055147edbaf6902ed1fc7df.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1660"
   },
   {
-    "id": 534911,
-    "IDcode": "SIRO-2005",
-    "title": "素人AV体験撮影723",
+    "id": 551980,
+    "IDcode": "SIRO-1661",
+    "title": "业馀个人摄影和发文。第495章",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/337031fb77746f99703e9c03aa07aec8.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1661"
   },
   {
-    "id": 552015,
-    "IDcode": "SIRO-2006",
-    "title": "素人AV体验拍摄 726",
+    "id": 551985,
+    "IDcode": "SIRO-1662",
+    "title": "素人AV体验拍摄554",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/b4a9dd9118ba697a01183bb96fa1bab2.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1662"
   },
   {
-    "id": 552019,
-    "IDcode": "SIRO-2007",
-    "title": "业馀AV体验拍摄730",
+    "id": 583519,
+    "IDcode": "SIRO-1663",
+    "title": "积极吸到喉咙后部的口交 素人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/52ec7acf6d438d27686aa32c6abf5cb4.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1663"
   },
   {
-    "id": 552238,
-    "IDcode": "SIRO-2008",
-    "title": "素人AV体验拍摄 727",
+    "id": 551983,
+    "IDcode": "SIRO-1664",
+    "title": "业馀个人拍摄，发帖。 493",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/5e35501be56aea629173c4f83f26d628.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1664"
   },
   {
-    "id": 534946,
-    "IDcode": "SIRO-2010",
-    "title": "素人AV体験撮影731",
+    "id": 551987,
+    "IDcode": "SIRO-1665",
+    "title": "素人AV体验拍摄 556",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/e6be5b4a918f8b3286e33195fafb5667.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1665"
   },
   {
-    "id": 552017,
-    "IDcode": "SIRO-2014",
-    "title": "素人AV体验拍摄 738",
+    "id": 552281,
+    "IDcode": "SIRO-1666",
+    "title": "素人AV体验拍摄 557",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/673982b3a3f7b1c50376ad2a60423363.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1666"
   },
   {
-    "id": 534952,
-    "IDcode": "SIRO-2015",
-    "title": "素人个人撮影、投稿。581",
+    "id": 552255,
+    "IDcode": "SIRO-1667",
+    "title": "业馀AV体验拍摄560",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/8a403cb68bc53246b5b067575bfb1750.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1667"
   },
   {
-    "id": 552018,
-    "IDcode": "SIRO-2016",
-    "title": "素人AV体验拍摄728",
+    "id": 551988,
+    "IDcode": "SIRO-1668",
+    "title": "素人AV体验拍摄 558",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/8dffe42259c1fefe66d19f6248299553.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1668"
   },
   {
-    "id": 552016,
-    "IDcode": "SIRO-2018",
-    "title": "素人AV体验拍摄739",
+    "id": 552259,
+    "IDcode": "SIRO-1669",
+    "title": "素人AV体验拍摄562",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/6d0528670f4e5bb6e781b917f3e741ce.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2018"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1669"
   },
   {
-    "id": 552239,
-    "IDcode": "SIRO-2019",
-    "title": "素人AV体验拍摄740",
+    "id": 552253,
+    "IDcode": "SIRO-1670",
+    "title": "素人AV体验拍摄 559",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/499caaef8d0a4b6232c8ef90684060aa.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2019"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1670"
   },
   {
-    "id": 534992,
-    "IDcode": "SIRO-2020",
-    "title": "素人AV体験撮影781",
+    "id": 552297,
+    "IDcode": "SIRO-1672",
+    "title": "业馀个人拍摄，发帖。 496",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231212/pb_e_siro-2020.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2020"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1672"
   },
   {
-    "id": 552011,
-    "IDcode": "SIRO-2024",
-    "title": "素人AV体验拍摄 741",
+    "id": 551994,
+    "IDcode": "SIRO-1673",
+    "title": "业馀个人拍摄，发帖。 516",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/5a0a21f6b8eb03c9f84f185edcbe10f8.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2024"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1673"
   },
   {
-    "id": 534982,
-    "IDcode": "SIRO-2026",
-    "title": "素人个人撮影、投稿。582",
+    "id": 551995,
+    "IDcode": "SIRO-1674",
+    "title": "业馀个人拍摄，发帖。 497",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/fdbe920c8866517441f21c7e9be05bf5.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2026"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1674"
   },
   {
-    "id": 552020,
-    "IDcode": "SIRO-2027",
-    "title": "业馀个人摄影和发文。第589章",
+    "id": 552309,
+    "IDcode": "SIRO-1675",
+    "title": "素人AV体验拍摄563",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/9fab365e5bb23f5a8d71fa42c28d528a.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2027"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1675"
   },
   {
-    "id": 552021,
-    "IDcode": "SIRO-2028",
-    "title": "业馀个人摄影和发文。第594章",
+    "id": 552279,
+    "IDcode": "SIRO-1676",
+    "title": "素人AV体验拍摄564",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/e5aa7dd08ff027466e027712deeed87b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2028"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1676"
   },
   {
-    "id": 552222,
-    "IDcode": "SIRO-2029",
-    "title": "素人AV体验拍摄 744",
+    "id": 551984,
+    "IDcode": "SIRO-1677",
+    "title": "前258",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/4e14c08c2e82c1523b17b442bf83916c.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2029"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1677"
   },
   {
-    "id": 535001,
-    "IDcode": "SIRO-2030",
-    "title": "素人AV体験撮影745",
+    "id": 552001,
+    "IDcode": "SIRO-1679",
+    "title": "业馀个人拍摄，发帖。 498",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/4753813fbbacc65fbdf91a6e58fc90d4.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2030"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1679"
   },
   {
-    "id": 552023,
-    "IDcode": "SIRO-2031",
-    "title": "业馀个人拍摄，发帖。 583",
+    "id": 552306,
+    "IDcode": "SIRO-1680",
+    "title": "素人AV体验拍摄 567",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/8a7c4953be134b0e19bc22aeaa90d280.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2031"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1680"
   },
   {
-    "id": 552022,
-    "IDcode": "SIRO-2032",
-    "title": "业馀个人拍摄，发帖。 584",
+    "id": 583520,
+    "IDcode": "SIRO-1682",
+    "title": "俏丽的表情因快感而扭曲，浑身湿透 绀野真理惠",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/193a56e4016c95e5a5eb9a2632fe8132.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1682"
   },
   {
-    "id": 552031,
-    "IDcode": "SIRO-2033",
-    "title": "素人AV体验拍摄 746",
+    "id": 552002,
+    "IDcode": "SIRO-1683",
+    "title": "业馀个人拍摄，发帖。 499",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/b2f0f1535701fb44380c53428bbb0424.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2033"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1683"
   },
   {
-    "id": 552234,
-    "IDcode": "SIRO-2034",
-    "title": "素人AV体验拍摄 749",
+    "id": 552256,
+    "IDcode": "SIRO-1686",
+    "title": "素人AV体验拍摄 572",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/5736420cae49817b87295069aacce355.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2034"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1686"
   },
   {
-    "id": 552032,
-    "IDcode": "SIRO-2035",
-    "title": "素人AV体验拍摄 742",
+    "id": 551986,
+    "IDcode": "SIRO-1687",
+    "title": "素人AV体验拍摄 595",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/91109d5c9161ce366a5476634c9bbb8f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2035"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1687"
   },
   {
-    "id": 552223,
-    "IDcode": "SIRO-2037",
-    "title": "业馀AV体验拍摄750",
+    "id": 552190,
+    "IDcode": "SIRO-1688",
+    "title": "业馀个人拍摄，发帖。 500",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/61c609c660224b5c7452442e4250aa18.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1688"
   },
   {
-    "id": 552224,
-    "IDcode": "SIRO-2039",
-    "title": "素人AV体验拍摄747",
+    "id": 552298,
+    "IDcode": "SIRO-1689",
+    "title": "业馀个人拍摄，发帖。 502",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/fbe24ab904b6cb99df0bcf582d2ab029.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1689"
   },
   {
-    "id": 552033,
-    "IDcode": "SIRO-2041",
-    "title": "素人AV体验拍摄774",
+    "id": 102724,
+    "IDcode": "SIRO-1690",
+    "title": "桃谷绘里香忘情一夜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "苗条",
+      "HDTV",
+      "素人",
+      "业余",
+      "姐姐"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/6d246d7658595f4732f65a2c1647bd1a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2041"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桃谷繪里香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1690"
   },
   {
-    "id": 552221,
-    "IDcode": "SIRO-2042",
-    "title": "业馀个人摄影和发文。第586章",
+    "id": 552003,
+    "IDcode": "SIRO-1694",
+    "title": "业馀个人拍摄、发帖。 501",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/2a791f24689561183c792499f58739dc.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2042"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1694"
   },
   {
-    "id": 552034,
-    "IDcode": "SIRO-2044",
-    "title": "素人AV体验拍摄753",
+    "id": 552170,
+    "IDcode": "SIRO-1695",
+    "title": "素人AV体验拍摄 592",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/e38b2212ac997f2a0516282c1cedd1c1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2044"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1695"
   },
   {
-    "id": 535035,
-    "IDcode": "SIRO-2047",
-    "title": "素人AV体験撮影754",
+    "id": 151131,
+    "IDcode": "SIRO-1698",
+    "title": "湿润gal冷酷的表情逐渐变成快感的过程好色在纤细的身体上用靴子做爱是最色情的业馀AV体验拍摄1019",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/0db1fc4d21c4db0eb9359d997c4ce05d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2047"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1698"
   },
   {
-    "id": 535042,
-    "IDcode": "SIRO-2048",
-    "title": "素人个人撮影、投稿。588",
+    "id": 551996,
+    "IDcode": "SIRO-1699",
+    "title": "业馀个人拍摄，发帖。 506",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240102/pb_e_siro-2048.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2048"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1699"
   },
   {
-    "id": 535041,
-    "IDcode": "SIRO-2049",
-    "title": "素人AV体験撮影760",
+    "id": 552302,
+    "IDcode": "SIRO-1700",
+    "title": "素人AV体验拍摄 573",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240102/pb_e_siro-2049.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1700"
   },
   {
-    "id": 535040,
-    "IDcode": "SIRO-2050",
-    "title": "素人AV体験撮影759",
+    "id": 552278,
+    "IDcode": "SIRO-1701",
+    "title": "素人AV体验拍摄 574",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240102/pb_e_siro-2050.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1701"
   },
   {
-    "id": 552228,
-    "IDcode": "SIRO-2053",
-    "title": "素人AV体验拍摄762",
+    "id": 552330,
+    "IDcode": "SIRO-1703",
+    "title": "业馀个人拍摄，发帖。 508",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/f5f00662c45f47ff24b15a32e1ca5cce.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2053"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1703"
   },
   {
-    "id": 535062,
-    "IDcode": "SIRO-2055",
-    "title": "素人AV体験撮影757",
+    "id": 552000,
+    "IDcode": "SIRO-1705",
+    "title": "素人AV体验拍摄 577",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240109/pb_e_siro-2055.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1705"
   },
   {
-    "id": 535061,
-    "IDcode": "SIRO-2056",
-    "title": "素人AV体験撮影767",
+    "id": 551999,
+    "IDcode": "SIRO-1708",
+    "title": "素人AV体验拍摄578",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/26e79592e26f20216e1bcc022d2182dd.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1708"
   },
   {
-    "id": 58132,
-    "IDcode": "SIRO-2057",
-    "title": "素颜小美女",
+    "id": 551998,
+    "IDcode": "SIRO-1710",
+    "title": "素人AV体验拍摄594",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a2ca3175c34711100a40f01281b2fd64.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1710"
   },
   {
-    "id": 535069,
-    "IDcode": "SIRO-2058",
-    "title": "素人AV体験撮影758",
+    "id": 551997,
+    "IDcode": "SIRO-1713",
+    "title": "素人AV体验拍摄 581",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240114/pb_e_siro-2058.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2058"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1713"
   },
   {
-    "id": 583661,
-    "IDcode": "SIRO-2059",
-    "title": "素人AV体验摄影791 北野望 北野望",
+    "id": 552303,
+    "IDcode": "SIRO-1714",
+    "title": "素人AV体验拍摄 579",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/ef985fb316edef8eef6a438a9ad2aeb0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1714"
   },
   {
-    "id": 535068,
-    "IDcode": "SIRO-2060",
-    "title": "素人AV体験撮影769",
+    "id": 551993,
+    "IDcode": "SIRO-1715",
+    "title": "一开始是265",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/932207eb10eb421c1d88c669888e6951.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1715"
   },
   {
-    "id": 535079,
-    "IDcode": "SIRO-2062",
-    "title": "素人AV体験撮影765",
+    "id": 552242,
+    "IDcode": "SIRO-1716",
+    "title": "业馀 AV 体验拍摄 582",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240116/pb_e_siro-2062.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2062"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1716"
   },
   {
-    "id": 535088,
-    "IDcode": "SIRO-2065",
-    "title": "素人AV体験撮影783",
+    "id": 552162,
+    "IDcode": "SIRO-1717",
+    "title": "前266",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240120/pb_e_siro-2065.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2065"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1717"
   },
   {
-    "id": 552024,
-    "IDcode": "SIRO-2067",
-    "title": "业馀个人拍摄，发帖。 596",
+    "id": 551992,
+    "IDcode": "SIRO-1720",
+    "title": "第1次 267",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/b77ad46195c37318618914170f6007e3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2067"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1720"
   },
   {
-    "id": 575642,
-    "IDcode": "SIRO-2080",
-    "title": "素人AV体験撮影821第01集",
+    "id": 551990,
+    "IDcode": "SIRO-1724",
+    "title": "恶胶业馀爱好者，耻辱。 14",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2019/11-21/20/1nhq1mprfs320241nhq1mprfs3072226.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2080"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1724"
   },
   {
-    "id": 552025,
-    "IDcode": "SIRO-2081",
-    "title": "业馀个人拍摄和发帖。 592",
+    "id": 551989,
+    "IDcode": "SIRO-1725",
+    "title": "业馀个人拍摄，发帖。 512",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251006-1/1e62905b6aa641737d7089a727bab384.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2081"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1725"
   },
   {
-    "id": 551972,
-    "IDcode": "SIRO-2174",
-    "title": "素人AV体验拍摄826",
+    "id": 552252,
+    "IDcode": "SIRO-1727",
+    "title": "前268",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251007-1/7c545005afc55d60e7b388978c21926a.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-2174"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1727"
   }
 ];

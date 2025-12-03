@@ -1,5 +1,1569 @@
 window.PAGE_DATA = [
   {
+    "id": 517336,
+    "IDcode": "MIDE-988",
+    "title": "大菜鸟AV出道 脱下来的时候惊艳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e890be631cc64eb5a434be/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-988"
+  },
+  {
+    "id": 594732,
+    "IDcode": "MIDV-008",
+    "title": "新人！写真偶像转身AV出道—三田樱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a1811b0dde6ac2cfe392e2e6e59d0e13.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-008"
+  },
+  {
+    "id": 556440,
+    "IDcode": "MIDV-083",
+    "title": "新人独家20岁真夏美咲AV出道喜欢大海的冲绳美少女 - 岬野まなつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/DM2OAtmu.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-083"
+  },
+  {
+    "id": 556439,
+    "IDcode": "MIDV-095",
+    "title": "新人专属20岁五十岚清香笑脸可爱姐姐AV出道！ - 五十岚清华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "出道作",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/601a4aeddd1fff1fd9319c1e694ed634.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-095"
+  },
+  {
+    "id": 167588,
+    "IDcode": "MIDV-255",
+    "title": "出道以来的惊人技术-七沢みあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250320-1/67a812f1e7c86d677c03a55c29c33867.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-255"
+  },
+  {
+    "id": 18329,
+    "IDcode": "MIDV-507",
+    "title": "其他學校轉學的熱點女孩 千葉縣笑容可愛的新人AV出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兩男一女",
+      "3P・4P",
+      "美少女電影",
+      "4K",
+      "JK校服",
+      "出道作",
+      "出道作品",
+      "中出",
+      "口交",
+      "顏射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2023-10-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20231015/93307047-a311-4e3a-9291-a2082003d163.jpg",
+    "actress": [
+      "七瀨末白"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-507"
+  },
+  {
+    "id": 17007,
+    "IDcode": "MIDV-544",
+    "title": "特異新人出道！！八森若菜的AV界變態傳說從此開始！首次亮相 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "女優訪談",
+      "比基尼",
+      "美少女電影",
+      "紀錄片",
+      "美少女",
+      "出道作",
+      "美乳",
+      "中出",
+      "口交",
+      "企畫",
+      "性感",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20231230/20231230052020547547.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-544"
+  },
+  {
+    "id": 16488,
+    "IDcode": "MIDV-604",
+    "title": "新人出道！鈴音まゆ的夢想是偶像服裝設計師鈴音真超敏感苗條活躍女大學生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "泳裝",
+      "美少女",
+      "口爆",
+      "女上位",
+      "出道作",
+      "出道作品",
+      "苗條",
+      "美乳",
+      "中出",
+      "後入",
+      "口交",
+      "性感",
+      "少女",
+      "騎乗位",
+      "顏射",
+      "雙馬尾",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202091528139139.jpg",
+    "actress": [
+      "鈴音まゆ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-604"
+  },
+  {
+    "id": 16484,
+    "IDcode": "MIDV-605",
+    "title": "新人出道！ 滝冬煇 AV 出道 纖細現役女大學生 首次亮相 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "美少女",
+      "高妹",
+      "女上位",
+      "內衣",
+      "出道作品",
+      "出道作",
+      "口爆",
+      "美乳",
+      "中出",
+      "後入",
+      "美腿",
+      "性感",
+      "少女",
+      "口交",
+      "苗條",
+      "美臀",
+      "顏射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240202/2024020209171922.jpg",
+    "actress": [
+      "滝冬煇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-605"
+  },
+  {
+    "id": 16260,
+    "IDcode": "MIDV-633",
+    "title": "太轉瞬即逝淚水我也能成為AV女優嗎申請改變自己的盒裝少女森彩之香AV出道-森步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "女學生",
+      "吞精",
+      "多P",
+      "口爆",
+      "苗條",
+      "美少女",
+      "自拍性愛",
+      "出道作品",
+      "美乳",
+      "制服",
+      "口交",
+      "性感",
+      "潮吹",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "顏射",
+      "絕頂高潮",
+      "美少女電影",
+      "手指插入",
+      "出道作",
+      "乳交",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/edc2912b2dbbdc8157771446be6b5f3b.jpg",
+    "actress": [
+      "森歩乃花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-633"
+  },
+  {
+    "id": 15988,
+    "IDcode": "MIDV-647",
+    "title": "K罩杯AV出道-二羽纱爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳裝",
+      "女學生",
+      "飯店",
+      "苗條",
+      "美少女",
+      "出道作品",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "性感",
+      "潮吹",
+      "淫亂",
+      "內衣",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "抹油",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "出道作",
+      "乳交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240505-1/d8cbc76851e735a39765084d9a2b1fa7.jpg",
+    "actress": [
+      "二羽紗愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-647"
+  },
+  {
+    "id": 13917,
+    "IDcode": "MIDV-764",
+    "title": "新人出道，在當地被議論的巨乳 ，身高：146cm 柔軟的乳房：100cm 小而自信的身體 ~ 優木とあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "飯店",
+      "感官作品",
+      "美少女",
+      "羞恥",
+      "出道作品",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "淫亂",
+      "內衣",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "出道作",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0d60ccf22ae3e04a02437/cover.jpg",
+    "actress": [
+      "優木友愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-764"
+  },
+  {
+    "id": 13654,
+    "IDcode": "MIDV-765",
+    "title": "新人出道，光屬性的次世代AV女優！笑容燦爛的SEX逸材，專屬女優一之瀨葵 AV DEBUT~~",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "飯店",
+      "美少女",
+      "羞恥",
+      "出道作品",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "淫亂",
+      "內衣",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "出道作",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-07-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628001230715715.jpg",
+    "actress": [
+      "一之瀨葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-765"
+  },
+  {
+    "id": 13347,
+    "IDcode": "MIDV-797",
+    "title": "現役女大學生塔乃花玲AV出道！新人專屬解禁 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "飯店",
+      "苗條",
+      "美少女",
+      "羞恥",
+      "出道作品",
+      "胸控・戀乳癖",
+      "美乳",
+      "口交",
+      "性感",
+      "潮吹",
+      "內衣",
+      "中出",
+      "後入",
+      "企畫",
+      "劇情",
+      "絕頂高潮",
+      "美少女電影",
+      "出道作",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-07-16",
+    "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712001551507507.jpg",
+    "actress": [
+      "塔乃花鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-797"
+  },
+  {
+    "id": 12615,
+    "IDcode": "MIDV-798",
+    "title": "新人出道 過去年收入一億日元的某知名童模成長爲H罩杯辣妹，MOODYZ首次少女專屬AV出道！ ~ 本城つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "小隻馬",
+      "多P",
+      "叛逆少女",
+      "苗條",
+      "辣妹/GAL系",
+      "美少女",
+      "美腳",
+      "出道作品",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "比基尼",
+      "兩男一女",
+      "淫亂",
+      "蠻橫嬌羞",
+      "中出",
+      "後入",
+      "企畫",
+      "美腿",
+      "少女",
+      "絕頂高潮",
+      "女優",
+      "脚控・戀足癖",
+      "美少女電影",
+      "出道作",
+      "金髮",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-08-20",
+    "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816040441942942.jpg",
+    "actress": [
+      "本城つばさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-798"
+  },
+  {
+    "id": 12244,
+    "IDcode": "MIDV-865",
+    "title": "超新人出道。10年來首位透明感女神 可愛淫蕩美少女 AV DEBUT ~ 泉百華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "比基尼",
+      "美少女電影",
+      "美少女",
+      "美腳",
+      "羞恥",
+      "出道作",
+      "出道作品",
+      "色白",
+      "美乳",
+      "中出",
+      "後入",
+      "巨乳",
+      "女上位",
+      "口交",
+      "騎乗位",
+      "美臀",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-09-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829224843832832.jpg",
+    "actress": [
+      "泉百華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-865"
+  },
+  {
+    "id": 9074,
+    "IDcode": "MIDV-954",
+    "title": "出道五周年解禁-八木奈奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "3P・4P",
+      "小隻馬",
+      "吞精",
+      "多P",
+      "口爆",
+      "真實拍攝",
+      "粉絲福利",
+      "感謝祭",
+      "插入異物",
+      "唾液敷面",
+      "苗條",
+      "美少女",
+      "中囯服裝",
+      "癡女",
+      "JK校服",
+      "美腳",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "口交",
+      "粉丝",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "深喉",
+      "高顏值",
+      "淫亂",
+      "COSPLAY服飾",
+      "猥褻穿著",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "出道作",
+      "白眼失神",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250211-1/7c54a30db6603a64135f171eeb0167c8.jpg",
+    "actress": [
+      "八木奈々",
+      "八木奈奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-954"
+  },
+  {
+    "id": 9441,
+    "IDcode": "MIDV-995",
+    "title": "出道三周年跟10人不停地连续做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "吞精",
+      "多P",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "苗條",
+      "感官作品",
+      "流汗",
+      "美少女",
+      "美腳",
+      "癡女",
+      "JK校服",
+      "色白",
+      "美乳",
+      "按摩棒",
+      "清楚系",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "深喉",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "極品美人",
+      "中出",
+      "美人",
+      "美腿",
+      "企畫",
+      "後入",
+      "美臀",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "女神",
+      "無毛",
+      "出道作",
+      "舔腳",
+      "69",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b2ea30833b4bf50076d0/cover.jpg",
+    "actress": [
+      "石川澪",
+      "田渊正浩",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-995"
+  },
+  {
+    "id": 556673,
+    "IDcode": "MIFD-040",
+    "title": "高 178 厘米、下裆 88 厘米的威胁款式！ !!太可爱的高个排球少女春季AV出道！ !!森崎玛丽亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/c069bba3e8734c777c62c8dba5a7eb04.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-040"
+  },
+  {
+    "id": 556676,
+    "IDcode": "MIFD-042",
+    "title": "因太喜欢智宝而申请好奇心的美女秘书，以口交女神的身份出道AV！ !!安藤凯伦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20251005-1/e91b1eba3e6849dea134a42f1624119d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-042"
+  },
+  {
+    "id": 556902,
+    "IDcode": "MIFD-043",
+    "title": "即使是不擅长性爱和指法的男人也会100％喷出的敏感体质！活跃女大学生圈内公主AV出道！ !!高波七海 - 高波奈奈未",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250907-1/d3be87d535d91c099295b55ec16df0f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-043"
+  },
+  {
+    "id": 556658,
+    "IDcode": "MIFD-045",
+    "title": "那天去网吧去见了一个逃离娇小家庭的活跃女大学生，直接面试，马上招聘，马上Saddle AV出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20251008-1/4f7109936ca05a6d16a1c98fe2f3eb64.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-045"
+  },
+  {
+    "id": 556798,
+    "IDcode": "MIFD-050",
+    "title": "旨在成为未来职业高尔夫球手的运动员 活跃的女大学生通过吹潮、汗水、精液和体液的AV出道！ !!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250915-1/e3e21bf7a69ea75d9069ef81a490739e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-050"
+  },
+  {
+    "id": 556668,
+    "IDcode": "MIFD-056",
+    "title": "女大学生与男友异地恋3个月没能过性生活无奈过活对身体太敏感做出活塞诉求挫败女儿AV出道没有不管她得到多少次！ !!山本舞 - 山本麻衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20251004-1/2193bf65cad098c4ce1c48eac9a3f792.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-056"
+  },
+  {
+    "id": 556807,
+    "IDcode": "MIFD-061",
+    "title": "我与在新人当地驾驶执照营地成为朋友的活跃女大学生渚重逢，我无力推动，所以我立即将其带到赛夫勒，就这样开始了我的AV出道！ !!凪白崎 - 白崎凪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250915-1/a0944664c5e6ce6c6cf149c2ffba2fcc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-061"
+  },
+  {
+    "id": 595235,
+    "IDcode": "MIFD-067",
+    "title": "超苗条现役女大生的最爽高潮体位开发ＡＶ出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250908-1/f200f914d26407c9974d5011db5db7ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-067"
+  },
+  {
+    "id": 557072,
+    "IDcode": "MIFD-069",
+    "title": "新人妄想美少女AV出道Tomori Honoka - 友利穗花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/1ffd1a44b994c479bf5ea7a1c108d86b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-069"
+  },
+  {
+    "id": 77000,
+    "IDcode": "MIFD-093",
+    "title": "新人圆纱雪出道作现役混血泳装模特AV解禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "首次亮相",
+      "美少女电影",
+      "巨乳",
+      "泳装",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/82fa67bd50a7ae8e9fc33395cbfedc58.jpg",
+    "actress": [
+      "森林原人",
+      "しみけん",
+      "玉木玲",
+      "円さゆき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-093"
+  },
+  {
+    "id": 76367,
+    "IDcode": "MIFD-094",
+    "title": "每周都自慰的泳衣写真偶像AV出道这么闷骚的女孩子不拍AV可惜了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "苗条",
+      "出道作",
+      "首次亮相",
+      "美少女电影",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/242ab514af97f3f46614dada1bc54a87.jpg",
+    "actress": [
+      "鲛岛",
+      "しみけん",
+      "深泽祈莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-094"
+  },
+  {
+    "id": 75734,
+    "IDcode": "MIFD-102",
+    "title": "无底性欲的钢琴家AV出道-渚沢まゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "屁股",
+      "出道作",
+      "业余",
+      "首次亮相",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/be2c9cc457811f1888f208a51b6eaabe.jpg",
+    "actress": [
+      "渚沢まゆ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-102"
+  },
+  {
+    "id": 165047,
+    "IDcode": "MIFD-103",
+    "title": "出道没多久的女优-深沢いのり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/986529187ef1b681b00993ec2619f208.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-103"
+  },
+  {
+    "id": 594931,
+    "IDcode": "MIFD-115",
+    "title": "美女混血儿翻译秘书的口交女神ＡＶ出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210727-1/0f9fac63225730a65ec548230d87ace0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-115"
+  },
+  {
+    "id": 594922,
+    "IDcode": "MIFD-127",
+    "title": "被一起洗温泉的友人劝说AV出道的神纤细F奶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/8735792e44d623e65ba6c70c9c251aa0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-127"
+  },
+  {
+    "id": 435887,
+    "IDcode": "MIFD-147",
+    "title": "新人！在高圓寺工作的時尚可愛短髮舊衣店女AV出道 真琴亞美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/797c035f45b400f5a6daefa177b80d8b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-147"
+  },
+  {
+    "id": 556432,
+    "IDcode": "MIFD-205",
+    "title": "新人，20岁 长成这样，脱掉就惊艳 敏感F罩杯boyne童装售货员笑容可爱 AV出道森下 - 森下ことの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "出道作",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230319-1/eef4ffcd22d16a68deed75f11cab51c8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-205"
+  },
+  {
+    "id": 556419,
+    "IDcode": "MIFD-207",
+    "title": "菜鸟 20 岁 很清醒，但性爱中没有谎言。白皮肤美少女 AV 出道南坂明日香 - 南坂あすか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1c33ffcf2aca9eede563018357b549bc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-207"
+  },
+  {
+    "id": 565881,
+    "IDcode": "MIFD-214",
+    "title": "新人。开心活力撒娇的F奶女大生想和高级老二做爱而AV出道—波岛穗花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f7c7f2730f4fe4a867e80559c71ffe4c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-214"
+  },
+  {
+    "id": 92335,
+    "IDcode": "MIFD-232",
+    "title": "AV出道-北木里奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "出道作",
+      "首次亮相",
+      "美少女电影",
+      "口交",
+      "女上位",
+      "颜射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/30/683949600b69f1d8162e6efe/cover.jpg",
+    "actress": [
+      "北木里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-232"
+  },
+  {
+    "id": 107494,
+    "IDcode": "MIFD-245",
+    "title": "新人20岁脱掉衣服之后…超绝品模特儿身材！笑容甜美敏感奶头美少女AV出道 天美诗织",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "单体作品",
+      "出道作",
+      "嫩妹",
+      "首次亮相",
+      "乳房",
+      "美少女电影",
+      "颜射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/b0e54397864ee5cab9b794c50b240d54.jpg",
+    "actress": [
+      "ハメ鳥の人",
+      "天美しおり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-245"
+  },
+  {
+    "id": 18325,
+    "IDcode": "MIFD-256",
+    "title": "最後的希望就是AV出道-新庄康娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兩男一女",
+      "3P・4P",
+      "舔陰",
+      "美少女電影",
+      "美少女",
+      "多P",
+      "出道作",
+      "出道作品",
+      "中出",
+      "口交",
+      "企畫",
+      "苗條",
+      "顏射",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-1/adbb8cc6882fc599d7539a523d264168.jpg",
+    "actress": [
+      "新庄環奈",
+      "鲛岛",
+      "小田切ジュン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-256"
+  },
+  {
+    "id": 17257,
+    "IDcode": "MIFD-262",
+    "title": "姬野芽衣 娛樂場工作人員I罩杯巨乳莊家姬野芽衣AV出道超粉紅乳暈瞬間高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "舔陰",
+      "深喉",
+      "賭場",
+      "多P",
+      "乳交",
+      "出道作品",
+      "兔女郎妝扮",
+      "出道作",
+      "豐滿",
+      "美乳",
+      "中出",
+      "口交",
+      "後入",
+      "女上位",
+      "巨乳",
+      "荷官",
+      "騎乗位",
+      "美臀"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2023-12-19",
+    "cover_url": "https://picture.yoshiclub.xyz/20231215/db3d6210-9f4d-4bcb-aa60-6f240e19f979.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-262"
+  },
+  {
+    "id": 17023,
+    "IDcode": "MIFD-463",
+    "title": "短发美少女AV出道-黑奈露西亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兩男一女",
+      "女優訪談",
+      "3P・4P",
+      "美少女電影",
+      "美少女",
+      "純粹的慾望",
+      "出道作",
+      "出道作品",
+      "中出",
+      "亂交 • 群P",
+      "企畫",
+      "紀錄片",
+      "口交",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240127-1/7a47ef2cea84568d85b868ba5013dc94.jpg",
+    "actress": [
+      "黑奈露西亞",
+      "ハメ鳥の人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-463"
+  },
+  {
+    "id": 17026,
+    "IDcode": "MIFD-464",
+    "title": "新人出道！ 身材高挑、苗條的內務接待員，渴望成爲女優被操。立即面試，立即就業 首次亮相 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兩男一女",
+      "3P・4P",
+      "女優訪談",
+      "舔陰",
+      "美少女電影",
+      "紀錄片",
+      "OL",
+      "出道作",
+      "出道作品",
+      "中出",
+      "口交",
+      "企畫",
+      "性感",
+      "亂交 • 群P",
+      "苗條",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20231229/20231229100114526526.jpg",
+    "actress": [
+      "七瀨詩音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-464"
+  },
+  {
+    "id": 16794,
+    "IDcode": "MIFD-465",
+    "title": "新人出道！ G罩杯 - 粉紅色乳頭 - 亮白皮膚和美麗的陰戶 - 現役OL在公司上班，想在休閒的日常生活中來點刺激……放出公司內傳聞的大奶子 首次亮相 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "美腳",
+      "OL",
+      "苗條",
+      "出道作",
+      "出道作品",
+      "乳交",
+      "美乳",
+      "中出",
+      "口交",
+      "後入",
+      "女上位",
+      "巨乳",
+      "騎乗位",
+      "情趣內衣",
+      "顏射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-01-23",
+    "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112055945265265.jpg",
+    "actress": [
+      "石橋聰美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-465"
+  },
+  {
+    "id": 16493,
+    "IDcode": "MIFD-468",
+    "title": "新人出道！AV男優最愛，想擁有有史以來最好的性愛！開朗善良的金發蕩婦女大學生就讀名牌大學AV出道！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "和服・浴衣・喪服",
+      "女學生",
+      "美少女",
+      "手指插入",
+      "出道作",
+      "胸控・戀乳癖",
+      "乳交",
+      "美乳",
+      "中出",
+      "口交",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202072228783783.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-468"
+  },
+  {
+    "id": 16481,
+    "IDcode": "MIFD-469",
+    "title": "新人出道！愛咲天空~ 現代新女大學生喜歡舔雞巴和興奮時吞精口交女神 首次亮相 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兩男一女",
+      "3P・4P",
+      "舔陰",
+      "女學生",
+      "美少女",
+      "多P",
+      "手指插入",
+      "口爆",
+      "內衣",
+      "出道作",
+      "出道作品",
+      "美乳",
+      "中出",
+      "口交",
+      "性感",
+      "少女",
+      "苗條",
+      "顏射"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
+    "publish_date": "2024-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240204/20240204040614802802.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-469"
+  },
+  {
     "id": 16253,
     "IDcode": "MIFD-470",
     "title": "新人出道！包子形大奶子，忍不住想把它們吃掉。即使是暴力3P，她也達到了顫抖的高潮！AV DEBUT",
@@ -31,8 +1595,14 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-02-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216080739868868.jpg",
     "actress": [
@@ -71,8 +1641,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614020549171171.jpg",
     "actress": [
@@ -104,8 +1680,14 @@ window.PAGE_DATA = [
       "企畫",
       "女優"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503083139511511.jpg",
     "actress": [],
@@ -156,8 +1738,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/6570771b2417c814bedb2d015f2d6670.jpg",
     "actress": [
@@ -201,8 +1789,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-05-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517040115704704.jpg",
     "actress": [
@@ -231,8 +1825,14 @@ window.PAGE_DATA = [
       "苗條",
       "女優"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0d49ccf22ae3e04a02409/cover.jpg",
     "actress": [
@@ -270,8 +1870,14 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614013720844844.jpg",
     "actress": [
@@ -315,8 +1921,14 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-07-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628002155190190.jpg",
     "actress": [
@@ -367,8 +1979,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712003106571571.jpg",
     "actress": [
@@ -414,8 +2032,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a109dac813dc779d95fbb/cover.jpg",
     "actress": [
@@ -452,8 +2076,14 @@ window.PAGE_DATA = [
       "素人",
       "出道作"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-07-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628005157303303.jpg",
     "actress": [
@@ -502,8 +2132,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241001-1/0cb00d9c6c79bc41bc3b4cabcf405647.jpg",
     "actress": [
@@ -545,8 +2181,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815233011971971.jpg",
     "actress": [
@@ -584,8 +2226,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240815/202408152255273434.jpg",
     "actress": [
@@ -638,8 +2286,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241112-1/02239ff603f9faaa1e56223331e742a5.jpg",
     "actress": [
@@ -683,8 +2337,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "宅男・宅女"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MOODYZ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MOODYZ",
+        "works_count": 2545
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241126-1/8dd134315b97dabf3530bf6e5a6e2148.jpg",
     "actress": [
@@ -747,8 +2407,14 @@ window.PAGE_DATA = [
       "丁字裤",
       "騎乗位"
     ],
-    "type": "",
-    "company": "DEEP'S",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DEEP'S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DEEP_S",
+        "works_count": 449
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/6f2d701d4c10bc10ab1b7f8a4c9c9a6b.jpg",
     "actress": [
@@ -766,8 +2432,14 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
-    "company": "えむっ娘ラボ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "えむっ娘ラボ",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_えむっ娘ラボ",
+        "works_count": 253
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/22/93046_cover_2025-09-22_051900.jpg",
     "actress": [],
@@ -783,12 +2455,42 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
-    "company": "K.M.P",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "K.M.P",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
+        "works_count": 1270
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe83b2dd88d14f0656ad01/poster2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-102"
+  },
+  {
+    "id": 166351,
+    "IDcode": "MKMP-181",
+    "title": "出道3週年紀念作　京都逆搭訕大挑戰 佐倉絆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "K.M.P",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
+        "works_count": 1270
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-181"
   },
   {
     "id": 17311,
@@ -814,8 +2516,14 @@ window.PAGE_DATA = [
       "口交",
       "女優"
     ],
-    "type": "",
-    "company": "K.M.P",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "K.M.P",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KMP",
+        "works_count": 1270
+      }
+    ],
     "publish_date": "2023-12-12",
     "cover_url": "https://picture.yoshiclub.xyz/20231211/b960eb3b-f2de-443d-9963-1dac7c9d6bc2.jpg",
     "actress": [
@@ -834,8 +2542,8 @@ window.PAGE_DATA = [
       "素人",
       "出道作"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/ce216f5865a0b2a07c3a134a656e8463.jpg",
     "actress": [],
@@ -852,8 +2560,8 @@ window.PAGE_DATA = [
       "出道作",
       "嫩妹"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210810-1/5985551d406438f9950d18549c0f3137.jpg",
     "actress": [],
@@ -909,8 +2617,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2025-07-01",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233513106106_thumbnail.webp",
     "actress": [
@@ -932,14 +2646,44 @@ window.PAGE_DATA = [
       "無碼流出",
       "巨乳"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2020-03-26",
     "cover_url": "https://picture.yoshiclub.xyz/20230403/fb7f81da-38c4-4e31-a364-10819fb3f978.jpg",
     "actress": [
       "前田桃杏"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-010"
+  },
+  {
+    "id": 156399,
+    "IDcode": "MUDR-190",
+    "title": "神秘G罩杯北欧混血儿桃爱夕映桃爱ゆえ出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "無垢",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_無垢",
+        "works_count": 500
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-190"
   },
   {
     "id": 465878,
@@ -951,8 +2695,14 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
-    "company": "GOGOS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GOGOS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
+        "works_count": 929
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec24ce52c12b4e6846e226/cover.jpg",
     "actress": [],
@@ -973,8 +2723,14 @@ window.PAGE_DATA = [
       "首次亮相",
       "第一人称摄影"
     ],
-    "type": "",
-    "company": "GOGOS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GOGOS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
+        "works_count": 929
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240418-1/6c97ca317bc829630482e8a0d6e52ad6.jpg",
     "actress": [],
@@ -992,12 +2748,49 @@ window.PAGE_DATA = [
       "出道作",
       "巨乳"
     ],
-    "type": "",
-    "company": "GOGOS",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GOGOS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GOGOS",
+        "works_count": 929
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250908-1/4d3c650c100f23fac066a4ca5523382b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-985"
+  },
+  {
+    "id": 77148,
+    "IDcode": "NHDTB-107",
+    "title": "癡汉绿帽 人妻（25）来癡汉AV出道 人妻被涂满春药的肉棒干到疯狂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "淫妻",
+      "白天出轨",
+      "出道作",
+      "性骚扰",
+      "药物"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NATURAL HIGH",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_NATURAL_HIGH",
+        "works_count": 1011
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "星奈爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-107"
   },
   {
     "id": 493143,
@@ -1009,8 +2802,8 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/8df08a871dc050a5f3936d05b8a0ff19.jpg",
     "actress": [],
@@ -1028,12 +2821,70 @@ window.PAGE_DATA = [
       "出道作",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/tV9wUg5D.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-339"
+  },
+  {
+    "id": 88458,
+    "IDcode": "NNPJ-340",
+    "title": "京都某名企接待小姐天性痴女AV出道前48日跟拍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "出道作",
+      "猎艳",
+      "业余",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "玉木玲",
+      "市川润"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-340"
+  },
+  {
+    "id": 593746,
+    "IDcode": "NNPJ-435",
+    "title": "搭讪在SNS发现的住国外混血美女AV出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-435"
+  },
+  {
+    "id": 68739,
+    "IDcode": "NONSTOP",
+    "title": "出道三周年！三小时生插直拍10发FUCKSP独占加美杏奈！-加美杏奈。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NONSTOP"
   },
   {
     "id": 515862,
@@ -1045,8 +2896,14 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
-    "company": "GLORY QUEST",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "GLORY QUEST",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_GLORY_QUEST",
+        "works_count": 895
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6911424f312f49288151f5cd/poster2.jpg",
     "actress": [],
@@ -1063,8 +2920,8 @@ window.PAGE_DATA = [
       "出道作",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/4f53410598b5120c3ebd6ee70dcc2148.jpg",
     "actress": [
@@ -1072,6 +2929,42 @@ window.PAGE_DATA = [
       "青山爱"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPOP-007"
+  },
+  {
+    "id": 594886,
+    "IDcode": "PPPD-895",
+    "title": "银座女公关却爱下贱花招的Icup巨乳AV出道 青山真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-895"
+  },
+  {
+    "id": 594878,
+    "IDcode": "PPPD-902",
+    "title": "寻找著将来想做的事的100CMＪ奶巨乳AV出道—赤江恋实",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-902"
   },
   {
     "id": 592635,
@@ -1086,11 +2979,76 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "PREMIUM",
+    "companys": [
+      {
+        "company": "PREMIUM",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PREMIUM",
+        "works_count": 714
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/11/75814_cover_2025-06-11_201417.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-177"
+  },
+  {
+    "id": 76852,
+    "IDcode": "PRED-204",
+    "title": "嘴巴是敏感带的口交达人AV出道作舌技不是吹的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "OL",
+      "素人",
+      "出道作",
+      "首次亮相",
+      "姐姐",
+      "口交",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "PREMIUM",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PREMIUM",
+        "works_count": 714
+      }
+    ],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鲛岛",
+      "小鸟游ももえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-204"
+  },
+  {
+    "id": 97141,
+    "IDcode": "PRED-245",
+    "title": "祝！出道1周年 中出追擊抽插大亂交 竹內有紀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱交",
+      "出道作",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "PREMIUM",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PREMIUM",
+        "works_count": 714
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-245"
   },
   {
     "id": 16237,
@@ -1121,7 +3079,13 @@ window.PAGE_DATA = [
       "騎乗位"
     ],
     "type": "无码",
-    "company": "PREMIUM",
+    "companys": [
+      {
+        "company": "PREMIUM",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PREMIUM",
+        "works_count": 714
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240217/20240217101546162162.jpg",
     "actress": [
@@ -1141,8 +3105,14 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250926-1/cace017803e235f9bf2a52014adeed66.jpg",
     "actress": [],
@@ -1185,8 +3155,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614021124925925.jpg",
     "actress": [
@@ -1245,8 +3221,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "ROOKIE",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROOKIE",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROOKIE",
+        "works_count": 193
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510040245281281.jpg",
     "actress": [
@@ -1282,14 +3264,97 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MADONNA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
     "publish_date": "2024-11-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607011004605605.jpg",
     "actress": [
       "吉永塔子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-236"
+  },
+  {
+    "id": 60746,
+    "IDcode": "ROE-409",
+    "title": "欲罢不能停不下来剧烈高潮的AV出道-前原みつの 42岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出轨",
+      "出道作",
+      "乳房",
+      "首次亮相",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MADONNA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MADONNA",
+        "works_count": 1095
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ラヴズ",
+      "いち",
+      "前原みつの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-409"
+  },
+  {
+    "id": 532166,
+    "IDcode": "S1EP10",
+    "title": "【中指通报】篠田优出道十周年献礼！清纯毕业生求职遭轮番羞辱实录×圣诞私密写真任你撸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S1EP10"
+  },
+  {
+    "id": 591475,
+    "IDcode": "SABA-296",
+    "title": "[]-S级素人双出道！个性相反的两位妈妈下海给干",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人企画",
+      "素人",
+      "乱伦",
+      "出道作",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-296"
   },
   {
     "id": 589532,
@@ -1303,8 +3368,14 @@ window.PAGE_DATA = [
       "素人企画",
       "出道作"
     ],
-    "type": "",
-    "company": "S級素人",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S級素人",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S級素人",
+        "works_count": 461
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/04/99624_cover_2025-07-04_234702.jpg",
     "actress": [],
@@ -1320,8 +3391,14 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0e1c3cf22ae3e04a02546/cover.jpg",
     "actress": [],
@@ -1353,8 +3430,14 @@ window.PAGE_DATA = [
       "口交",
       "女優"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-08-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240730/20240730021024671671.jpg",
     "actress": [
@@ -1383,2006 +3466,19 @@ window.PAGE_DATA = [
       "學校",
       "女優"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2023-12-21",
     "cover_url": "https://picture.yoshiclub.xyz/20231128/202311280225497979.jpg",
     "actress": [
       "美咲音"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-284"
-  },
-  {
-    "id": 15192,
-    "IDcode": "SDAB-314",
-    "title": "齋藤かさね ~ 新偶像，出道來的第一次拍攝就補人玩弄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "清純",
-      "美少女電影",
-      "美少女",
-      "JK校服",
-      "偶像",
-      "出道作",
-      "劇情"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-05-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240423/afa842ea-b31e-48ca-86ad-8eafbf51a13b.jpg",
-    "actress": [
-      "齋藤かさね"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-314"
-  },
-  {
-    "id": 12399,
-    "IDcode": "SDAB-317",
-    "title": "新人出道！「拍攝和喜歡的人做愛」課堂上安靜女友和我一起的第一次AV拍攝 AV DEBUT- 葵井みずほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女學生",
-      "女友・妻子",
-      "純粹的慾望",
-      "真實拍攝",
-      "素人作品",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "純愛・戀愛",
-      "出道作品",
-      "亂交 • 群P",
-      "口交",
-      "兩男一女",
-      "淫亂",
-      "蠻橫嬌羞",
-      "中出",
-      "企畫",
-      "少女",
-      "劇情",
-      "女優",
-      "清純",
-      "美少女電影",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-09-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240827/8c9b28da-57c1-4e5a-9555-6a3f19bf5edf.jpg",
-    "actress": [
-      "葵井みずほ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-317"
-  },
-  {
-    "id": 10868,
-    "IDcode": "SDAB-319",
-    "title": "新人出道！無邪氣超清純，卻貪色欲的小蘿莉首次登陸 AV DEBUT ~ 南日菜乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "女學生",
-      "小隻馬",
-      "真實拍攝",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "眼鏡",
-      "出道作品",
-      "色白",
-      "美乳",
-      "口交",
-      "形象俱樂部",
-      "校花",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "紀念作",
-      "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "出道作",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1925a31a2714f1c1ff694/cover.jpg",
-    "actress": [
-      "南日菜乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-319"
-  },
-  {
-    "id": 13046,
-    "IDcode": "SDAM-121",
-    "title": "新人出道！在牛肉蓋飯店遇到的店員有1/4夏威夷血統！20歲 首次亮相 AV DEBUT ~ 山本マリア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "美少女",
-      "出道作品",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "潮吹",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "服務生",
-      "後入",
-      "企畫",
-      "混血",
-      "少女",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-08-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240730/30c6e119-a552-4d4c-8894-414f31c79b4d.jpg",
-    "actress": [
-      "山本マリア"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-121"
-  },
-  {
-    "id": 12270,
-    "IDcode": "SDAM-123",
-    "title": "AV女優是如何出道的？女優綺瀬憐央出道全過程完整幕後紀錄片公開 ~ 綺瀬憐央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "AV拍攝現場",
-      "真實拍攝",
-      "羞恥",
-      "出道作品",
-      "亂交 • 群P",
-      "口交",
-      "兩男一女",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "紀錄片",
-      "少女",
-      "女優",
-      "出道作",
-      "女優面試",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-10-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20240903/5d120d04-4ad2-4feb-824a-995156aa530d.jpg",
-    "actress": [
-      "綺瀬怜央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-123"
-  },
-  {
-    "id": 9140,
-    "IDcode": "SDAM-132",
-    "title": "新人出道！（祝）做愛經驗人數30人 美容學生 首次亮相 AV DEBUT ~ 木村結依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "兩男一女",
-      "企畫",
-      "淫亂",
-      "素人",
-      "地味",
-      "出道作",
-      "出道作品",
-      "真實拍攝",
-      "中出",
-      "其他職業",
-      "美人",
-      "女上位",
-      "後入",
-      "亂交 • 群P",
-      "騎乗位",
-      "口交",
-      "紀念作"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2025-02-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20250114/20250114060941329329.jpg",
-    "actress": [
-      "木村結依"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-132"
-  },
-  {
-    "id": 7968,
-    "IDcode": "SDAM-135",
-    "title": "新人出道！現代社會竟然還能夠找得到能騎能射的田舍娘！來自福島隱世小村的20歲美人娘！ 首次亮相 AV DEBUT ~ 月乃あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "巨尻",
-      "真實拍攝",
-      "豐滿",
-      "美少女",
-      "羞恥",
-      "真人秀",
-      "出道作品",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "地味",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2025-03-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20250224/20250224221842804804.jpg",
-    "actress": [
-      "月乃あや"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-135"
-  },
-  {
-    "id": 1677,
-    "IDcode": "SDJS-066",
-    "title": "AV出演（出道） 南國而來混血妹子 SOD女子社員 畢業入社1年目 宮崎鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女電影",
-      "OL",
-      "出道作",
-      "出道作品",
-      "無碼流出",
-      "業餘"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2020-05-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20230331/a77a50a0-5c28-43a9-bb64-dbb4fb979f62.jpg",
-    "actress": [
-      "宮崎玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-066"
-  },
-  {
-    "id": 12082,
-    "IDcode": "SDJS-280",
-    "title": "SOD營業部工作2年的的鬆丸香澄（27歲）同意出演AV（出道）！ ！工作中的射精行爲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "真實拍攝",
-      "辦公室",
-      "美少女",
-      "美腳",
-      "OL",
-      "羞恥",
-      "眼鏡",
-      "制服",
-      "口交",
-      "形象俱樂部",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "絕頂高潮",
-      "美少女電影",
-      "出道作",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-10-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20240910/20240910012833314314.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-280"
-  },
-  {
-    "id": 107181,
-    "IDcode": "SDMM-139",
-    "title": "通过魔镜号AV出道-青山好",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "出道作",
-      "猎艳",
-      "业余",
-      "首次亮相"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/1a228d3d28087299905ccb01bcaeb757.jpg",
-    "actress": [
-      "青山このみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-139"
-  },
-  {
-    "id": 400260,
-    "IDcode": "SDNM-026",
-    "title": "在工作空檔或回家途中與同事隱瞞老公亂搞的人妻 安野由美 50歳 出道第2章 雖然想著是不可為然而身心都已經濕透的不貞性愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "出道作"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68885812c92318f97d00a154/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-026"
-  },
-  {
-    "id": 17184,
-    "IDcode": "SDNM-411",
-    "title": "新人出道 天城雪乃 立志成為歌手的農婦，無法停止渴望登上舞台中央 首次亮相 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "人妻",
-      "出道作",
-      "出道作品",
-      "中出",
-      "口交",
-      "企畫",
-      "紀錄片",
-      "情趣內衣",
-      "女優"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-01-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20231219/20231219043834755755.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-411"
-  },
-  {
-    "id": 16327,
-    "IDcode": "SDNM-420",
-    "title": "柊優衣 32歲AV出道，陰沉淫蕩的女人，認真對待工作和性，性欲極強",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗條",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "絕頂高潮",
-      "手指插入",
-      "出道作",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "少妇"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-03-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213012127860860.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-420"
-  },
-  {
-    "id": 16427,
-    "IDcode": "SDNM-421",
-    "title": "小谷舞香29岁AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "高妹",
-      "出道作",
-      "出道作品",
-      "巨乳",
-      "企畫",
-      "女優"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207042101974974.jpg",
-    "actress": [
-      "小谷舞花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-421"
-  },
-  {
-    "id": 15109,
-    "IDcode": "SDNM-426",
-    "title": "真白りま，26 歲 AV 出道，撫養孩子的苦命母親，周末喜歡去美食廣場",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "大乳暈",
-      "企畫",
-      "人妻",
-      "素人",
-      "乱伦",
-      "出道作",
-      "出道作品",
-      "乳交",
-      "中出",
-      "蕩婦",
-      "口交",
-      "素人作品"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240430/c4fa63a7-9dcb-4709-b450-0d65c7e07f6f.jpg",
-    "actress": [
-      "真白りま"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-426"
-  },
-  {
-    "id": 15108,
-    "IDcode": "SDNM-448",
-    "title": "小谷舞花，29歲，AV出道，身高170cm，身材比例精致，對性充滿好奇的美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "人妻",
-      "美腿",
-      "淫亂",
-      "內衣",
-      "出道作",
-      "中出",
-      "蕩婦",
-      "亂交 • 群P",
-      "企畫",
-      "口交",
-      "絕頂高潮",
-      "女優"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-03-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240430/7ff52982-c99e-4afa-8774-f924984ac5ef.jpg",
-    "actress": [
-      "小谷舞花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-448"
-  },
-  {
-    "id": 14735,
-    "IDcode": "SDNM-466",
-    "title": "有着I CUP巨乳的前護士那被隱藏的淫蕩性欲，丈夫無法抑制她的欲望 ~ 32 歲的杉山杏奈，AV 出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "慾求不滿",
-      "飯店",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "口交",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "接吻",
-      "兩男一女",
-      "人妻",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "出道作",
-      "69"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240514/4d2d3668-e269-489e-83cc-e1d977bc71bc.jpg",
-    "actress": [
-      "杉山杏奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-466"
-  },
-  {
-    "id": 13880,
-    "IDcode": "SDNM-471",
-    "title": "爲家人奉獻了一生大部分時間的溫柔媽媽，野上しおり，36歲，AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "熟女",
-      "人妻",
-      "素人",
-      "女上位",
-      "出道作",
-      "出道作品",
-      "家庭主妇",
-      "中出",
-      "飯店",
-      "口交",
-      "企畫",
-      "性感",
-      "絕頂高潮"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-07-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240618/2cfd09d2-1c4a-4f3e-b8bd-31c0dd50345f.jpg",
-    "actress": [
-      "野上しおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-471"
-  },
-  {
-    "id": 13467,
-    "IDcode": "SDNM-477",
-    "title": "新人出道！對總是微笑着傾聽我說話的美麗人妻發泄溢出的性欲 ~ 相良明裏 32 歲 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "熟女",
-      "兩男一女",
-      "3P・4P",
-      "人妻",
-      "淫亂",
-      "內衣",
-      "出道作",
-      "出道作品",
-      "色白",
-      "中出",
-      "飯店",
-      "蕩婦",
-      "企畫",
-      "亂交 • 群P",
-      "口交",
-      "女優"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-08-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240709/6d655ff6-8acf-401b-b44c-ae6ea960995b.jpg",
-    "actress": [
-      "相良明里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-477"
-  },
-  {
-    "id": 12400,
-    "IDcode": "SDNM-485",
-    "title": "新人出道！愛笑的遊泳學校年輕人妻教練 33歲 AV DEBUT ~ 水瀨美彌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泳裝",
-      "3P・4P",
-      "緊縛",
-      "羞恥",
-      "出道作品",
-      "亂交 • 群P",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "淫亂",
-      "健身教練",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "抹油",
-      "絕頂高潮",
-      "出道作",
-      "足交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2024-09-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240827/731ed1ed-71d4-4e7c-9687-fa51cde8bab4.jpg",
-    "actress": [
-      "水瀬美弥"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-485"
-  },
-  {
-    "id": 408126,
-    "IDcode": "SDNM-494",
-    "title": "被溫柔的家人包圍，幸福的家庭主婦 早瀨文乃 3OO AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b5a1252cbbe46402808ab9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-494"
-  },
-  {
-    "id": 8531,
-    "IDcode": "SDNM-498",
-    "title": "新人出道！會給每個孩子都買遊戲機的寵子狂魔的34歲素人人妻 首次亮相 AV DEBUT ~ 桃井ゆづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "巨尻",
-      "真實拍攝",
-      "蒙面・面罩",
-      "阪道系",
-      "凌辱",
-      "緊縛",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "真人秀",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "清楚系",
-      "早漏",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "美人妻",
-      "淫亂",
-      "內衣",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "SM",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "手指插入",
-      "素人",
-      "出道作",
-      "乳交",
-      "家庭主妇",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc39331eb0592de65ce14/cover.jpg",
-    "actress": [
-      "桃井ゆづき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-498"
-  },
-  {
-    "id": 70297,
-    "IDcode": "SIV-033",
-    "title": "素人TV×PRESTIGE PREMIUM 30 用振动棒的伸长感拍摄的，素人偶像们的出道视频！8名240分种",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
-      "4小时以上作品",
-      "素人",
-      "自慰",
-      "出道作",
-      "业余",
-      "巨乳",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/259e2ba717825a66bc4fecbc115534f9.jpg",
-    "actress": [
-      "有村希",
-      "河合明日菜",
-      "胡桃多惠",
-      "優月真裡奈",
-      "仓木诗织",
-      "优梨まいな",
-      "坂下里美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIV-033"
-  },
-  {
-    "id": 433059,
-    "IDcode": "SNI-533",
-    "title": "潮吹小天后坂道美琉出道一周年大亂交解禁瘋狂做愛噴水。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交",
-      "出道作"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240911-1/c4fa265fc3b61feeb8f0b8a609ba2ed2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNI-533"
-  },
-  {
-    "id": 92803,
-    "IDcode": "SNI-643",
-    "title": "SNI643神乳RION第三次出道歡迎女神的回歸安齋拉拉。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240911-1/628678f4d30686506f7613e1b4089b60.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNI-643"
-  },
-  {
-    "id": 556597,
-    "IDcode": "SNIS-761",
-    "title": "独家NO.1 STYLE Tsubasa S1出道一年零两个月。成为奇迹的业馀女孩和 AV 女演员。 - 翼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230601-1/8f6210666a2cd9dc9d1d702f3f5414d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-761"
-  },
-  {
-    "id": 517767,
-    "IDcode": "SOAN-018",
-    "title": "慢跑妹緊實淫肉體雙穴幹砲絕頂出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f31bd1dd88d14f063f16a3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-018"
-  },
-  {
-    "id": 8726,
-    "IDcode": "SODS-071",
-    "title": "紗倉真菜出道13周年紀念特別版 9小時24分鍾 13部究級作品 【特典映像收錄版】 ~ 紗倉真菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "精選總編集",
-      "精選綜合",
-      "出道作",
-      "出軌",
-      "4小時以上作品",
-      "企畫",
-      "紀錄片",
-      "紀念作"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250129/825deca1-3e2c-4504-a178-833bfb344212.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-071"
-  },
-  {
-    "id": 16119,
-    "IDcode": "SONE-048",
-    "title": "出道30天后的大绝顶高潮-早坂姬",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "口爆",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "出道作",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a408aac813dc779d961cd/cover.jpg",
-    "actress": [
-      "早坂ひめ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-048"
-  },
-  {
-    "id": 13211,
-    "IDcode": "SONE-282",
-    "title": "新人NO.1 STYLE 水乃菜乃華 AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "網路紅人",
-      "美少女電影",
-      "美少女",
-      "貓耳裝飾",
-      "出道作",
-      "出道作品",
-      "COSPLAY服飾",
-      "偶像",
-      "色白",
-      "美乳",
-      "中出",
-      "口交",
-      "企畫",
-      "少女",
-      "情趣內衣",
-      "女優"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "2024-07-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719001931881881.jpg",
-    "actress": [
-      "水乃菜乃華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-282"
-  },
-  {
-    "id": 12174,
-    "IDcode": "SONE-329",
-    "title": "新进S罩杯隱藏巨乳母狗乃坂日和AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "寫真女郎",
-      "中出",
-      "後入",
-      "企畫",
-      "少女",
-      "模特兒",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "出道作",
-      "女上位",
-      "丁字裤",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906010156324324.jpg",
-    "actress": [
-      "乃坂日和"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-329"
-  },
-  {
-    "id": 6314,
-    "IDcode": "SONE-625",
-    "title": "替代女儿妈妈出道拍AV-奥田咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "3P・4P",
-      "多P",
-      "真實拍攝",
-      "4K",
-      "真人秀",
-      "胸控・戀乳癖",
-      "美乳",
-      "過膝襪・小腿襪",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "淫蕩・硬核",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "貴婦",
-      "兩男一女",
-      "人妻",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "短髮",
-      "猥褻穿著",
-      "四十路",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "劇情",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "乱伦",
-      "出道作",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32def5f13d063bcdf758f/cover.jpg",
-    "actress": [
-      "奥田咲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-625"
-  },
-  {
-    "id": 7749,
-    "IDcode": "SONE-662",
-    "title": "想要爆红的偶像网红樱乃莉乃AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泳裝",
-      "女優訪談",
-      "女學生",
-      "小隻馬",
-      "真實拍攝",
-      "苗條",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "羞恥",
-      "真人秀",
-      "出道作品",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "校花",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "紀念作",
-      "女優",
-      "清純",
-      "美少女電影",
-      "出道作",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f50757cf22ae3e04efe65b/cover.jpg",
-    "actress": [
-      "櫻乃莉乃",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-662"
-  },
-  {
-    "id": 5928,
-    "IDcode": "SONE-777",
-    "title": "在周刊上首次亮相出道的高贵小姐姐-笹倉彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "女優訪談",
-      "3P・4P",
-      "吞精",
-      "多P",
-      "巨尻",
-      "M男・M女",
-      "女僕",
-      "慾求不滿",
-      "口爆",
-      "真實拍攝",
-      "豐滿",
-      "港區女子",
-      "唾液敷面",
-      "苗條",
-      "辣妹/GAL系",
-      "臀控",
-      "感官作品",
-      "凌辱",
-      "4K",
-      "父親",
-      "美腳",
-      "癡女",
-      "解禁作",
-      "羞恥",
-      "真人秀",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "早漏",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "口交",
-      "淫蕩・硬核",
-      "形象俱樂部",
-      "潮吹",
-      "寫真女郎",
-      "單體作品",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "猥褻穿著",
-      "大姐姐",
-      "寫真偶像",
-      "中出",
-      "姐姐・妹妹",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "高妹",
-      "乱伦",
-      "出道作",
-      "舔腳",
-      "乳交",
-      "無毛",
-      "御姐系",
-      "調教",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/202505220757564040_thumbnail.webp",
-    "actress": [
-      "笹倉彩",
-      "田渊正浩",
-      "大村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-777"
-  },
-  {
-    "id": 4774,
-    "IDcode": "SONE-790",
-    "title": "庆祝S1出道一周年粉丝答谢会-金松季歩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "吞精",
-      "多P",
-      "口爆",
-      "溫泉",
-      "真實拍攝",
-      "粉絲福利",
-      "感謝祭",
-      "唾液敷面",
-      "臀控",
-      "阪道系",
-      "4K",
-      "美腳",
-      "癡女",
-      "真人秀",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "大亂交",
-      "接吻",
-      "粉丝",
-      "形象俱樂部",
-      "比基尼",
-      "潮吹",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "空姐制服",
-      "後入",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "高妹",
-      "無毛",
-      "出道作",
-      "舔腳",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040708489489_thumbnail.webp",
-    "actress": [
-      "金松季歩",
-      "金松季步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-790"
-  },
-  {
-    "id": 556372,
-    "IDcode": "SSIS-447",
-    "title": "Rookie NO.1 STYLE 未开发的 AV 出道 - 未步なな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/5CiK93ow.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-447"
-  },
-  {
-    "id": 556382,
-    "IDcode": "SSIS-524",
-    "title": "新秀 NO.1 STYLE 凹版偶像 入鸟希奈 AV 出道 - 似鸟日菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/JKnU4TP0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-524"
-  },
-  {
-    "id": 556348,
-    "IDcode": "SSIS-540",
-    "title": "Rookie NO.1 STYLE 前田南 AV 出道 - 前田美波",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d8047f324d3cebdb991530894ea0b429.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-540"
-  },
-  {
-    "id": 77598,
-    "IDcode": "SSIS-732",
-    "title": "新人NO.1STYLE 桃果明里AV出道 桃果明里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "出道作",
-      "首次亮相",
-      "巨乳",
-      "口交",
-      "薄马赛克",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683af8cc0b69f1d816376df3/cover.jpg",
-    "actress": [
-      "桃果明里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-732"
-  },
-  {
-    "id": 168208,
-    "IDcode": "SSIS-773",
-    "title": "新人NO.1STYLE 河西麗央奈 AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231226/ssis773pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-773"
-  },
-  {
-    "id": 16016,
-    "IDcode": "SSNI-164",
-    "title": "水原乃亚的出道作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "苗條",
-      "美少女",
-      "美腳",
-      "出道作品",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "中出",
-      "企畫",
-      "美臀",
-      "女優",
-      "美少女電影",
-      "出道作",
-      "乳交"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240229/20240229040112582582.jpg",
-    "actress": [
-      "水原乃亜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-164"
-  },
-  {
-    "id": 15336,
-    "IDcode": "SSNI-190",
-    "title": "超级偶像河北彩花出道作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "飯店",
-      "苗條",
-      "美少女",
-      "出道作品",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "淫亂",
-      "內衣",
-      "中出",
-      "企畫",
-      "少女",
-      "美臀",
-      "顏射",
-      "紀念作",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418000649884884.jpg",
-    "actress": [
-      "河北彩花",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-190"
-  },
-  {
-    "id": 15337,
-    "IDcode": "SSNI-192",
-    "title": "明日花绮罗出道十周年企划",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "媚藥・迷藥",
-      "飯店",
-      "苗條",
-      "美腳",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "女優",
-      "抹油",
-      "手指插入",
-      "無毛",
-      "出道作",
-      "迷姦",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/321aa159ef594948e19715821b92b3b6.jpg",
-    "actress": [
-      "明日花綺蘿",
-      "小田切ジュン",
-      "イセドン内村",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-192"
-  },
-  {
-    "id": 14540,
-    "IDcode": "SSNI-253",
-    "title": "网红音梓的S1出道作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "美少女電影",
-      "美腿",
-      "美少女",
-      "羞恥",
-      "女上位",
-      "出道作品",
-      "出道作",
-      "中出",
-      "口交",
-      "企畫",
-      "性感",
-      "女優"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522221130786786.jpg",
-    "actress": [
-      "音梓",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-253"
-  },
-  {
-    "id": 13126,
-    "IDcode": "SSNI-332",
-    "title": "选美冠军彗星級新人星宮一花出道作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "感官作品",
-      "美少女",
-      "癡女",
-      "出道作品",
-      "色白",
-      "美乳",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "中出",
-      "企畫",
-      "美腿",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "出道作",
-      "女上位",
-      "無碼破解",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/75bc77edb32029364382fc9e0330a20c.jpg",
-    "actress": [
-      "星宮一花",
-      "星宫一花",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-332"
-  },
-  {
-    "id": 10666,
-    "IDcode": "SSNI-462",
-    "title": "新人NO.1STYLE 逢见梨花AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "小隻馬",
-      "真實拍攝",
-      "美少女",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "中出",
-      "後入",
-      "企畫",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "美少女電影",
-      "手指插入",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c7c50638a506366ec9076b801320a0d7.jpg",
-    "actress": [
-      "逢見梨花",
-      "小田切ジュン",
-      "南佳也"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-462"
-  },
-  {
-    "id": 9514,
-    "IDcode": "SSNI-528",
-    "title": "新人出道！ NO.1 STYLE 活躍於模特,舞蹈,寫真界的芸能偶像 首次亮相 AV DEBUT ~ 日向真凜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "真實拍攝",
-      "苗條",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "寫真女郎",
-      "高顏值",
-      "明星臉",
-      "內衣",
-      "蠻橫嬌羞",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "混血",
-      "模特兒",
-      "美臀",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "女神",
-      "手指插入",
-      "偶像",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "2019-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20241230/20241230025859612612.jpg",
-    "actress": [
-      "日向真凛",
-      "鲛岛",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-528"
-  },
-  {
-    "id": 7623,
-    "IDcode": "SSNI-588",
-    "title": "新人出道！NO.1STYLE 18歲 首次亮相 AV DEBUT ~ 吉良鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "真實拍攝",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "真人秀",
-      "出道作品",
-      "清楚系",
-      "口交",
-      "形象俱樂部",
-      "比基尼",
-      "短髮",
-      "高顏值",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "紀念作",
-      "女優",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "出道作",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "2019-10-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250312/20250312044224265265.jpg",
-    "actress": [
-      "吉良鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-588"
-  },
-  {
-    "id": 72738,
-    "IDcode": "SSNI-604",
-    "title": "清纯到不行的吉冈日和AV出道作意外的很努力进行拍摄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "苗条",
-      "出道作",
-      "首次亮相",
-      "美少女电影",
-      "素人作品",
-      "精选，综合",
-      "薄马赛克"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8066af9cbb312e8ab73e47789f63c3cc.jpg",
-    "actress": [
-      "玉木玲",
-      "吉冈ひより"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-604"
-  },
-  {
-    "id": 75049,
-    "IDcode": "SSNI-617",
-    "title": "暗黑帝国S1又挖掘个纯真长腿新人天川空拍摄出道作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "出道作",
-      "首次亮相",
-      "口交",
-      "薄马赛克",
-      "颜射"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b02261fedfd40373e979b12a4159ac16.jpg",
-    "actress": [
-      "天川空",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-617"
-  },
-  {
-    "id": 75649,
-    "IDcode": "SSNI-657",
-    "title": "天真无邪的18岁美少女AV出道一片限定",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "潮吹",
-      "出道作",
-      "首次亮相",
-      "美少女电影",
-      "口交",
-      "薄马赛克"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/2d9d224bac4f825d24fb8f2085bc6771.jpg",
-    "actress": [
-      "玉木玲",
-      "堀りほ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-657"
-  },
-  {
-    "id": 75636,
-    "IDcode": "SSNI-662",
-    "title": "作为元祖萝莉巨乳华丽出道3年-羽咲みはる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "出道作",
-      "美少女电影",
-      "巨乳",
-      "女上位",
-      "薄马赛克"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/1c122d1bdc2e6131e663b7b2f732b89a.jpg",
-    "actress": [
-      "羽笑美晴",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-662"
-  },
-  {
-    "id": 461883,
-    "IDcode": "SSNI-993",
-    "title": "出道兩週年！超快感沉靜絕頂！濃密接吻！最棒的色情私密時間SEX大公開！伊賀真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a2ab00c2db7eee6269e7fb419928f076.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-993"
-  },
-  {
-    "id": 1582,
-    "IDcode": "STAR-931",
-    "title": "退出演藝圈後，小尾渚立即以 AV 出道。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "美乳",
-      "無碼流出",
-      "出道作"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c1e8939136a863aa1c1a1521e490dfd8.jpg",
-    "actress": [
-      "加藤桃香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-931"
-  },
-  {
-    "id": 19491,
-    "IDcode": "STARS-005",
-    "title": "贫乳屋风俗娘骑乘位出道-戸田真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "風俗娘",
-      "貧乳",
-      "美少女",
-      "戀物癖",
-      "出道作",
-      "中出",
-      "女上位"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502033807953953.",
-    "actress": [
-      "戸田真琴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-005"
-  },
-  {
-    "id": 19492,
-    "IDcode": "STARS-007",
-    "title": "成宫莉香全明星出道首次中出就注入6发",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "出道作",
-      "中出",
-      "制服",
-      "數位馬賽克"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502043617555555.",
-    "actress": [
-      "成宮莉香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-007"
-  },
-  {
-    "id": 19485,
-    "IDcode": "STARS-011",
-    "title": "出道一周年的小仓由菜终于迎来人生第一次无套中出解禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "多P",
-      "出道作",
-      "中出",
-      "數位馬賽克"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502073259591591.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-011"
-  },
-  {
-    "id": 1558,
-    "IDcode": "STARS-053",
-    "title": "小泉日向 SODstar 出道！ & 體內射精禁令解除",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "出道作",
-      "中出",
-      "無碼流出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "2019-02-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20230404/c13dceac-c46d-4be5-ba37-16b3feaf0d6b.jpg",
-    "actress": [
-      "小泉日向"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-053"
-  },
-  {
-    "id": 75043,
-    "IDcode": "STARS-177",
-    "title": "刚满18岁的01年超可爱小姑娘白川柚子AV出道作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "出道作",
-      "乳房",
-      "美少女电影",
-      "首次亮相",
-      "素人作品"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/caf0e6e75576b0ee037aa5e82d66620d.jpg",
-    "actress": [
-      "白川柚子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-177"
   }
 ];

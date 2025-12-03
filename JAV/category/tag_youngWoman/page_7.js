@@ -1,5 +1,105 @@
 window.PAGE_DATA = [
   {
+    "id": 102511,
+    "IDcode": "SDNM-249",
+    "title": "田原凜花35歳第3章 在陌生男人家性慾解放 睽違許久絶頂精子全部顏射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少妇"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-249"
+  },
+  {
+    "id": 80674,
+    "IDcode": "SDNM-327",
+    "title": "タレントのように一度は自分自身も輝きたい人妻芸能マネージャー 保田真咲 34歳 第2章 「自分がどれだけHか知ってみたいです」開花した夫の知らないM願望… 未知の扉を開くイラマ・拘束限界イカセ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "人妻",
+      "业余",
+      "滥交",
+      "少妇"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2022-02-10",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/e09ca11626cfedafcef396ffc5ec1960.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-327"
+  },
+  {
+    "id": 86199,
+    "IDcode": "SDNM-331",
+    "title": "タレントのように一度は自分自身も輝きたい人妻芸能マネージャー 保田真咲 34歳 最終章 快楽を求めて…他人ザーメンに溺れる 人生初中出し&amp;ごっくん計8発 1泊2日調教温泉旅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "吞精",
+      "中出",
+      "滥交",
+      "少妇"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2022-03-10",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-331"
+  },
+  {
+    "id": 565482,
+    "IDcode": "SDNM-362",
+    "title": "15年间3人の子供と家庭を支えてきた优しいママが失いかけていたオンナの悦びを求めて知らない男の人に抱かれる妻 市川ななみ 36歳 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少妇"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bc686ea78c33560c95ed8015667c9047.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-362"
+  },
+  {
     "id": 590054,
     "IDcode": "SDNM-3643",
     "title": "[]人のわんぱく男児を育てる家族想いなお母さんキャディ市川ななみ36歳第2章家事とパート第07集",
@@ -10,10 +110,16 @@ window.PAGE_DATA = [
       "少妇",
       "中文字幕"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2023/06/t4ycidaxmjn.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-3643"
   },
@@ -28,8 +134,14 @@ window.PAGE_DATA = [
       "少妇",
       "中文字幕"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20240702/SDNM392.jpg!320x216.jpg",
     "actress": [],
@@ -45,8 +157,14 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240105/pxU0QGJM/1.jpg",
     "actress": [],
@@ -62,8 +180,14 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240106/QvS4eBMv/1.jpg",
     "actress": [],
@@ -79,8 +203,14 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240106/Y5yTAHxu/1.jpg",
     "actress": [],
@@ -115,8 +245,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-03-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213012127860860.jpg",
     "actress": [],
@@ -142,8 +278,14 @@ window.PAGE_DATA = [
       "少妇",
       "女優"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-04-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240326/40ea8a6f-9b68-4f87-b882-a45a98d5e591.jpg",
     "actress": [],
@@ -174,8 +316,14 @@ window.PAGE_DATA = [
       "少妇",
       "絕頂高潮"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240416/a54de0f0-a015-4769-93be-0c4134d45590.jpg",
     "actress": [
@@ -211,8 +359,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-06-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240514/4e30f897-c22e-41a9-ae7d-9022439aff57.jpg",
     "actress": [],
@@ -246,8 +400,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "2024-10-10",
     "cover_url": "https://picture.yoshiclub.xyz/20240903/329d3c1d-4c01-4106-8fff-9d1fa65c50c4.jpg",
     "actress": [
@@ -302,8 +462,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/161694046f58020cd2b189b7ab3786e8.jpg",
     "actress": [
@@ -342,10 +508,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/0f9388b0345b5299f30d6ab351ce4c6d.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241008/3fc7d768-de3d-4da3-bcc8-716eb57136ba.jpg",
     "actress": [
       "三池小春"
     ],
@@ -394,10 +566,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/7bd49280ae0844d5763a7683d6733ab6.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241105/20241105070427435435.jpg",
     "actress": [
       "三池小春"
     ],
@@ -433,10 +611,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/05/26d536c5bb852516f3e7749475629cbe.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241217/bd62c559-13ca-49fc-9343-9176a347de6d.jpg",
     "actress": [
       "三池小春"
     ],
@@ -452,10 +636,16 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/27/94bc08de3001bccaadbb23ea22d7c574.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-497"
   },
@@ -512,10 +702,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-2/84851d6a5bed75d2b076b0f5936426e7.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250211/30f6d176-2a2f-462c-be19-708e47f5b970.jpg",
     "actress": [
       "三池小春"
     ],
@@ -568,10 +764,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/ce0c5801f3a78896b1a80210214b0d71.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317231201858858.jpg",
     "actress": [
       "川崎奈々"
     ],
@@ -628,10 +830,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-2/cedd1bf989d69f1b187e8354bc75e03b.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250211/d2ebd030-cfa7-48c2-8ded-9d5623dbf003.jpg",
     "actress": [
       "常葉遥"
     ],
@@ -685,8 +893,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dce811ce5a404e9bc43dc5/cover.jpg",
     "actress": [
@@ -736,10 +950,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250714-1/2ab8357b7bc555bbde16a49ae7bfd7e6.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/6c707a0c-2d8c-4f3f-bd3f-6d87ef04d815_thumbnail.webp",
     "actress": [
       "川崎奈々"
     ],
@@ -795,10 +1015,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250712-1/c808c49b90fdffd85440dc77797fbdc5.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250401/6cf178ba-26cb-44f6-b913-c172a5058169.jpg",
     "actress": [
       "今村由美"
     ],
@@ -865,10 +1091,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/01/0de9ec41843e2cc2925adc0c5c8d398c.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215923823823_thumbnail.webp",
     "actress": [
       "川崎奈々"
     ],
@@ -922,10 +1154,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/070d6f229584c1efd0f30002f6689e94.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/410cfa6d-be35-4b32-a3d7-5195b6e06ddd_thumbnail.webp",
     "actress": [
       "今村由美"
     ],
@@ -978,10 +1216,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/6afd11a1/vod.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602202854456456_thumbnail.webp",
     "actress": [
       "今村由美"
     ],
@@ -1038,10 +1282,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "/upload/vod/20250710-2/990a2269249ca6083633cb24c70ab998.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233214504504_thumbnail.webp",
     "actress": [
       "今村由美"
     ],
@@ -1102,10 +1352,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250811-1/16670f17f9a3ba9d95a0f2df11d2a7ea.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/5a793523-e3ea-4afd-9a89-68dae02062bd_thumbnail.webp",
     "actress": [
       "今村由美"
     ],
@@ -1178,8 +1434,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec17f352c12b4e68469370/cover.jpg",
     "actress": [
@@ -1203,8 +1465,14 @@ window.PAGE_DATA = [
       "巨乳",
       "少妇"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "2019-06-06",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5499c849a26d6a2014843228ae849f3b.jpg",
     "actress": [
@@ -1232,8 +1500,14 @@ window.PAGE_DATA = [
       "素人作品",
       "少妇"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "2019-07-11",
     "cover_url": "http://p.155250718p.com/upload/vod/20250112-1/5eda142e9abf2372e6ead2223fc0c23f.jpg",
     "actress": [
@@ -1254,8 +1528,8 @@ window.PAGE_DATA = [
       "巨乳",
       "已婚妇女"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/88b0e2c127db62f0c91649aa2baf7f16.jpg",
     "actress": [
@@ -1274,8 +1548,8 @@ window.PAGE_DATA = [
       "人妻",
       "少妇"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/70ab8885582ac19ffb09021ea969f5c9.jpg",
     "actress": [],
@@ -1292,10 +1566,10 @@ window.PAGE_DATA = [
       "人妻",
       "少妇"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2023/01/lcmm5pufljl.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-056"
   },
@@ -1311,10 +1585,10 @@ window.PAGE_DATA = [
       "乱伦",
       "少妇"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250216-1/aae1653daf3ee9052c9d9b88a56ba507.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4275"
   },
@@ -1329,10 +1603,10 @@ window.PAGE_DATA = [
       "素人",
       "少妇"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250220-1/e2071ccdce6e05884ff604886a50ceb0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4718"
   },
@@ -1351,10 +1625,10 @@ window.PAGE_DATA = [
       "少妇",
       "第一人称摄影"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250302-1/35ccc5bc0b20947f813ec78a7cd7ea79.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "希咲那奈",
       "なな"
@@ -1376,10 +1650,16 @@ window.PAGE_DATA = [
       "业余",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/08/60d1ef43672cba958058b172090cb865.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-118"
   },
@@ -1393,8 +1673,14 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/cd55c1cb64fb0273f9c82f67bea149ae.jpg",
     "actress": [],
@@ -1411,8 +1697,14 @@ window.PAGE_DATA = [
       "人妻",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678901465d57b64bfd7e6b0a/cover.jpg",
     "actress": [],
@@ -1428,8 +1720,14 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d5a4f9a2e9b1d4a53006/cover.jpg",
     "actress": [],
@@ -1451,8 +1749,14 @@ window.PAGE_DATA = [
       "少妇",
       "单体作品"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "2023-06-08",
     "cover_url": "https://tuaskbgnekr.com/20240808/ALrgQlZy/1.jpg",
     "actress": [
@@ -1476,8 +1780,14 @@ window.PAGE_DATA = [
       "少妇",
       "单体作品"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "2023-09-07",
     "cover_url": "https://tuaskbgnekr.com/20240808/AkI4ftQe/1.jpg",
     "actress": [
@@ -1501,8 +1811,14 @@ window.PAGE_DATA = [
       "少妇",
       "单体作品"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "2024-05-09",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/c739badca70887581015f8774a3a37f0.jpg",
     "actress": [],
@@ -1519,8 +1835,14 @@ window.PAGE_DATA = [
       "素人",
       "少妇"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241016/LWAQvBKO/1.jpg",
     "actress": [],
@@ -1543,10 +1865,16 @@ window.PAGE_DATA = [
       "少妇",
       "单体作品"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250714-1/8e4967aeea3f6435c5013ca4908d7a0e.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "西山あさひ"
     ],
@@ -1568,8 +1896,14 @@ window.PAGE_DATA = [
       "投稿",
       "单体作品"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68baa6e9ce3e366423cdf767/cover.jpg",
     "actress": [],
@@ -1608,10 +1942,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "素人Only",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "素人Only",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_素人Only",
+        "works_count": 573
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/367f828c/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "月島えみり"
     ],
@@ -1632,8 +1972,14 @@ window.PAGE_DATA = [
       "中出",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "2023-06-20",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/da944ea56e39800d1574ad960bfa7e03.jpg",
     "actress": [
@@ -1655,8 +2001,14 @@ window.PAGE_DATA = [
       "成熟的女人",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "2023-09-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/0f223f862028c63507ed1eaef4701b1d.jpg",
     "actress": [],
@@ -1677,8 +2029,14 @@ window.PAGE_DATA = [
       "成熟的女人",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "2023-10-17",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/3fc1332fae25a627c80d26ddfa15401f.jpg",
     "actress": [
@@ -1701,10 +2059,16 @@ window.PAGE_DATA = [
       "中出",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "2024-03-19",
-    "cover_url": "https://tuaskbgnekr.com/20240809/6E52jwRn/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-104"
   },
@@ -1723,8 +2087,14 @@ window.PAGE_DATA = [
       "中出",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "2024-06-19",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/12/69140c25312f492881574e6c/poster2.jpg",
     "actress": [],
@@ -1771,8 +2141,14 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/021bfeb622721e7e58c115d7113ff2cf.jpg",
     "actress": [
@@ -1823,10 +2199,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/70bfd88f/vod.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241116/20241116225733408408.jpg",
     "actress": [
       "天宮かすみ"
     ],
@@ -1881,10 +2263,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-2/ebe93ec4ad663c43bd61c39f87129976.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250316/20250316052312343343.jpg",
     "actress": [
       "大槻响"
     ],
@@ -1944,10 +2332,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/a013e636b08815c76f84d95e24c9a8ce.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714010248285285_69434_thumbnail.webp",
     "actress": [
       "葉山小百合"
     ],
@@ -1963,10 +2357,16 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "妄想族",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/64271c56/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-156"
   },
@@ -1981,8 +2381,8 @@ window.PAGE_DATA = [
       "少妇",
       "出道作"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/uFVtmnor.jpg",
     "actress": [],
@@ -1998,8 +2398,8 @@ window.PAGE_DATA = [
     "genres": [
       "少妇"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b4260a5fdaf263a25c784a/cover.jpg",
     "actress": [],
@@ -2022,8 +2422,8 @@ window.PAGE_DATA = [
       "少妇",
       "单体作品"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/17/6878a2963ed39b57c02b2f63/cover.jpg",
     "actress": [
@@ -2092,10 +2492,16 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
-    "company": "熟女人妻最強廠",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/08/f282bba83e2f3bc585fb684cb50ad9a6.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014503433433_thumbnail.webp",
     "actress": [
       "友田彩也香"
     ],

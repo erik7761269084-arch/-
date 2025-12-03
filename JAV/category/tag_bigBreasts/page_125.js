@@ -1,2765 +1,3004 @@
 window.PAGE_DATA = [
   {
-    "id": 85370,
-    "IDcode": "MIAA-642",
-    "title": "捡回流落街头的母女-有冈美羽 星宫由侬",
+    "id": 62291,
+    "IDcode": "JKSR-694",
+    "title": "女子○生 部活合宿SEX 無防備なカラダを狙われた天使たち 汗・涎・涙・潮・精子は青春まっしぐら51人5時間",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "乳交",
-      "中出",
-      "两女一男",
+      "校服",
+      "偷窥",
+      "4小时以上作品",
+      "魔鬼系",
+      "业余",
       "巨乳",
-      "口交"
+      "运动",
+      "第一人称摄影",
+      "高中女生"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Big Morkal",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
+        "works_count": 390
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/18e108a7afe8512b56d9a039dedc8bbc.jpg",
-    "actress": [
-      "椎叶みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-642"
-  },
-  {
-    "id": 85324,
-    "IDcode": "MIAA-646",
-    "title": "絶倫すぎるボクのチ○ポが早漏彼氏に不満な爆乳デリヘル嬢にドストライク！勝手に延長！そのまま3日間巣ごもり無制限中出し！ 水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "口交",
-      "巨乳",
-      "角色扮演者",
-      "兔女郎",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-06-07",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2a484793bae7798e593935bed6c6e72c.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688aca9a98bc99dfddd173fa/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-646"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-694"
   },
   {
-    "id": 85377,
-    "IDcode": "MIAA-647",
-    "title": "クチ・マ○コ・アナル 三穴中出しOK！性欲暴走イクイク逆バニー風俗 乙アリス",
+    "id": 62290,
+    "IDcode": "JKSR-695",
+    "title": "【過去最強に興奮したSEX】ギャル人妻ナンパ！！ 気が強い女はアルコール入れるとマ〇コビシャビシャにしてチ〇ポを欲しがる淫乱女になり下がります。10人4時間",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "肛交",
-      "中出",
-      "巨乳",
-      "兔女郎",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-06-07",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2d3281845bedbf5ea4f458c6c4cc2e96.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-647"
-  },
-  {
-    "id": 68856,
-    "IDcode": "MIAA-652",
-    "title": "我父亲认为我是母亲不忠的孩子-水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "乳交",
-      "美少女电影",
-      "中出",
-      "巨乳",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7bc60d7bfdaca4f5f483ff38f70514c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-652"
-  },
-  {
-    "id": 85326,
-    "IDcode": "MIAA-654",
-    "title": "雪山遇难NTR男友走散时和轻浮男相互取暖持续中出的十三小时穂花爱理い中出しされ続けた13時間穂花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "女大学生",
-      "淫妻",
-      "白天出轨",
-      "乳交",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1af449e4530632b0d98c15c3cb22a1b7.jpg",
-    "actress": [
-      "あいり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-654"
-  },
-  {
-    "id": 85378,
-    "IDcode": "MIAA-660",
-    "title": "「ウチの旦那、絶倫だよ？」 妻の余計なひと言で自宅が欲求不満なママ友の溜まり場に…妻子不在の昼間にハーレム不倫乱交で痴女られちゃったボク （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
+      "人妻",
       "已婚妇女",
-      "中出",
-      "巨乳",
-      "乱交"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/b74b34c271ed8496f87d78c48eb2ec66.jpg",
-    "actress": [
-      "椎叶みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-660"
-  },
-  {
-    "id": 67298,
-    "IDcode": "MIAA-661",
-    "title": "岳父的种子-蜜美杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乳交",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/332f80b1d62d28df4a7019338361225e.jpg",
-    "actress": [
-      "藤井蘭々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-661"
-  },
-  {
-    "id": 85380,
-    "IDcode": "MIAA-664",
-    "title": "【FANZA限定】【子種ゼロ】 種なし診断されたボクの絶対安全中出しチ●ポで浮気セックスしまくる当直明けムラムラ看護婦 穂花あいり 結城りの 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "护士",
-      "中出",
-      "两女一男",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-07-06",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/88dd98740d70c532cebc233f48f1152b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-664"
-  },
-  {
-    "id": 85375,
-    "IDcode": "MIAA-666",
-    "title": "超高級中出し専門ソープ 水川スミレ （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乳液",
-      "礼仪小姐",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-07-05",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/aa9b9563a3d453ad40315c3b0db59383.jpg",
-    "actress": [
-      "水川蓳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-666"
-  },
-  {
-    "id": 85314,
-    "IDcode": "MIAA-668",
-    "title": "【FANZA限定】アナルとマ○コで2穴無限SEXしてくるノンストップデカ尻お従姉ちゃん 乙アリス 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "肛交",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-07-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/78e6b90f21ac65e912e263b4b26b287b.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-668"
-  },
-  {
-    "id": 85363,
-    "IDcode": "MIAA-669",
-    "title": "【FANZA限定】痴女ギャル風俗マンション☆ 「もう射精してるってばぁ」状態でもヌイてくる悶絶6コーナー AIKA 浜崎真緒 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "礼仪小姐",
+      "4小时以上作品",
+      "猎艳",
       "中出",
       "巨乳",
       "女生"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-07-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/a86a07026658153cab396e372f3e43f2.jpg",
-    "actress": [
-      "AIKA",
-      "浜崎真绪"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Big Morkal",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
+        "works_count": 390
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-669"
-  },
-  {
-    "id": 67598,
-    "IDcode": "MIAA-670",
-    "title": "小悪魔痴女-水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "制服",
-      "巨乳",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "",
-    "company": "MOODYZ",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/99769320ecc4ba95977640e1b9f94597.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-670"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-695"
   },
   {
-    "id": 85366,
-    "IDcode": "MIAA-676",
-    "title": "【FANZA限定】昼におっぱい誘惑してくる女上司が、夜はアナルでお仕置きされたがるボクたち専用マゾメスドMセフレに変わる 吉根ゆりあ 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "多P",
-      "肛交",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-07-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/fc6cf5daf11a1b9b5d3c835f53bcf4d5.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "鲛岛",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-676"
-  },
-  {
-    "id": 68638,
-    "IDcode": "MIAA-678",
-    "title": "巨乳人妻部下-小花のん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "荡妇",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/3d0de052cb4c9de641a129b0635ca7e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-678"
-  },
-  {
-    "id": 85381,
-    "IDcode": "MIAA-691",
-    "title": "超高級中出し専門ソープ 浜崎真緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乳液",
-      "礼仪小姐",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-08-16",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1c43bafca3b4e3af10061de227771ca4.jpg",
-    "actress": [
-      "浜崎真绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-691"
-  },
-  {
-    "id": 85342,
-    "IDcode": "MIAA-692",
-    "title": "我仍然爱我的妻子-篠田ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "中出",
-      "口交",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/adfe9b302c4721874f181e41234c81e4.jpg",
-    "actress": [
-      "篠田優",
-      "篠田优"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-692"
-  },
-  {
-    "id": 85416,
-    "IDcode": "MIAA-697",
-    "title": "むっちり爆乳な制服美少女 危険日OK！無制限発射OK！放課後コスプレ中出しバイト 綾瀬こころ （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "乳交",
-      "中出",
-      "巨乳",
-      "角色扮演者",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-09-06",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/vqOdhEC3.jpg",
-    "actress": [
-      "绫濑心"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-697"
-  },
-  {
-    "id": 85443,
-    "IDcode": "MIAA-699",
-    "title": "担任女教師-蜜美杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "乳交",
-      "女教师",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/91cb7ba95d7fe2cc233b6a6770310488.jpg",
-    "actress": [
-      "藤井蘭々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-699"
-  },
-  {
-    "id": 69142,
-    "IDcode": "MIAA-707",
-    "title": "豊満巨乳人妻-水原みその",
+    "id": 61355,
+    "IDcode": "JKSR-699",
+    "title": "【声だけでヌける！？】甘い吐息がエロすぎる！！エロボイス人妻12人4時間",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
       "已婚妇女",
-      "乳交",
+      "4小时以上作品",
       "白天出轨",
-      "巨乳",
-      "恋乳癖",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/eae324067e3163ecbf847accf2b786e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-707"
-  },
-  {
-    "id": 90847,
-    "IDcode": "MIAA-712",
-    "title": "超高級中出し専門ソープ 小花のん （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乳液",
-      "礼仪小姐",
       "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/lzf0bkz3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-712"
-  },
-  {
-    "id": 85431,
-    "IDcode": "MIAA-716",
-    "title": "抜き禁止のセクキャバで口元隠れ美女がこっそりシャブってくれる魅惑のフェべチオ 吉根ゆりあ （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "礼仪小姐",
-      "中出",
-      "巨乳",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-09-20",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cebeb2aaeeee999c53cd97ada911b264.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-716"
-  },
-  {
-    "id": 556403,
-    "IDcode": "MIAA-717",
-    "title": "一个月一次，用乳头Bing反向兔子打开的巨乳零食妈妈太庸俗了中出活动千岁优树 - 七草千岁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
       "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Big Morkal",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
+        "works_count": 390
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/XJT9eYbc.jpg",
+    "cover_url": "https://tutu1.space/images/2025/08/30/5ee93910d1632e8e3855761c520f11a5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-717"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-699"
   },
   {
-    "id": 68373,
-    "IDcode": "MIAA-718",
-    "title": "胸大无脑的体操主席-南条いちか",
+    "id": 61354,
+    "IDcode": "JKSR-700",
+    "title": "ほろ酔い人妻、集めました2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "学校泳装",
-      "多P",
-      "乳交",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/137d6cd55da4b61b4f9206c5ea997d2f.jpg",
-    "actress": [
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-718"
-  },
-  {
-    "id": 73436,
-    "IDcode": "MIAA-720",
-    "title": "被學校上位女子指名成為砲友只有性欲是長處身為邊緣人的我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
-      "M男",
-      "中出",
-      "巨乳",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/afb20996f1063fc4641a1547f2b44ecf.jpg",
-    "actress": [
-      "新井里真"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-720"
-  },
-  {
-    "id": 85458,
-    "IDcode": "MIAA-724",
-    "title": "【FANZA限定】係りつけの肛門科の女医に気に入られた僕は、こっそり媚薬をアナルに塗られ、診療の一貫として狂うほどメスイキ開発された 新村あかり 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女医生",
-      "荡妇",
-      "M男",
-      "肛交",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-10-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230124-1/9a897b5a121fdcbce6be497bbdcab69c.jpg",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-724"
-  },
-  {
-    "id": 85435,
-    "IDcode": "MIAA-725",
-    "title": "【FANZA限定】進学のために大嫌いな進路指導の先生にアナルを捧げて… イヤだけどこっそり自ら媚薬をアナルとマ●コに塗りたくり2穴昇天！何度も中出しおねだりしちゃった早漏ケツ穴ギャル 乙アリス 生写真3枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "肛交",
-      "中出",
-      "巨乳",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-10-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230124-1/7f4b7e201db42732e431a6c328964e40.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-725"
-  },
-  {
-    "id": 106310,
-    "IDcode": "MIAA-726",
-    "title": "怀孕强奸游戏-田中ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
+      "人妻",
       "已婚妇女",
-      "多P",
-      "无码破解",
+      "4小时以上作品",
+      "猎艳",
+      "业余",
       "中出",
-      "巨乳",
-      "颜射"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/30/68619eb93ed39b57c0307eda/cover.jpg",
-    "actress": [
-      "田中寧寧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-726"
-  },
-  {
-    "id": 69154,
-    "IDcode": "MIAA-728",
-    "title": "淫荡的女人-弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "巨乳",
-      "淫语",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/9503701e1f27ce0fcd65d446926077b3.jpg",
-    "actress": [
-      "彌生美月",
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-728"
-  },
-  {
-    "id": 85393,
-    "IDcode": "MIAA-732",
-    "title": "囮り潜入女捜査官 媚薬オイル性感開発爆乳アクメ拷問篇 吉根ゆりあ （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "女检察官",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2022-11-01",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/447bd41689e6a69ba587cda06aca0cdc.jpg",
-    "actress": [
-      "吉根柚莉爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-732"
-  },
-  {
-    "id": 100612,
-    "IDcode": "MIAA-747",
-    "title": "两名女同学前後包夹兴起色女玩弄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "姐姐",
-      "中出",
-      "女同",
-      "巨乳",
-      "淫语"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/2386199dd859b6f7c4effe088a5b9a12.jpg",
-    "actress": [
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-747"
-  },
-  {
-    "id": 67441,
-    "IDcode": "MIAA-750",
-    "title": "發現了大屁股女主管的不倫！部下們一個一個被舌吻封鎖！使用淫蕩騎乗位中出封口！ 彌生美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "接吻",
-      "中出",
-      "巨乳",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/76b414c72465d9f4b62012d798fd7a79.jpg",
-    "actress": [
-      "彌生美月",
-      "タイ",
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-750"
-  },
-  {
-    "id": 171344,
-    "IDcode": "MIAA-756",
-    "title": "深夜的護士按鈕NTR 被病人脫掉白衣服卻不敢出聲在夜深人靜的醫院內連續被中出的巨乳女友 小花暖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻",
       "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Big Morkal",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Big_Morkal",
+        "works_count": 390
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/7915ca19865eeac5e8911af758bdadea.jpg",
-    "actress": [
-      "小花暖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-756"
-  },
-  {
-    "id": 67657,
-    "IDcode": "MIAA-757",
-    "title": "大胸妹妹的奶子-小花のん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "白天出轨",
-      "乳交",
-      "姐姐",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/0ff3c3e0474819b038774d2eae6061a7.jpg",
-    "actress": [
-      "小花暖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-757"
-  },
-  {
-    "id": 77591,
-    "IDcode": "MIAA-758",
-    "title": "成人同学会NTR-绫濑心",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻",
-      "白天出轨",
-      "乳交",
-      "中出",
-      "口交",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/733f114c315c2ebf6146e29a7b7650c8.jpg",
-    "actress": [
-      "绫濑心"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-758"
-  },
-  {
-    "id": 68667,
-    "IDcode": "MIAA-767",
-    "title": "脫下白衣的你我也喜歡 夜班時的短時不倫 彌生美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "巨大屁股",
-      "护士",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/fb3c4dea5b84f40186ee28231c29fd90.jpg",
-    "actress": [
-      "彌生美月",
-      "弥生美月",
-      "輝大"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-767"
-  },
-  {
-    "id": 535250,
-    "IDcode": "MIAA-768",
-    "title": "都合のイイ地味メガネ生徒 むっつりスケベな窗际いいなり娘の乳首ビンビン巨乳おっぱいを揉みまくる放课后",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240331/miaa768pl.jpg!320x216.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/f3a389f9/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-768"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-700"
   },
   {
-    "id": 69386,
-    "IDcode": "MIAA-773",
-    "title": "射精多巴多巴忍耐努基和一晚两天芝麻的神恩男按摩院这次温泉之旅黑川堇黑川堇",
+    "id": 83652,
+    "IDcode": "JKW-017",
+    "title": "敏感中出し交尾巨乳妻 音川めぐみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "荡妇",
-      "第一人称摄影",
       "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/e85e85fd3d6b7704703a94e49af70b5a.jpg",
-    "actress": [
-      "黑川堇",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-773"
-  },
-  {
-    "id": 69259,
-    "IDcode": "MIAA-776",
-    "title": "被發現就家庭崩壞。大姨子的惡搞呢喃淫語＆倒數調教誘惑組合下被搾了十發的我 小花暖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "淫语",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/6870523e43d69727160f6e37/cover.jpg",
-    "actress": [
-      "小花暖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-776"
-  },
-  {
-    "id": 69253,
-    "IDcode": "MIAA-777",
-    "title": "戴胸罩的姐姐-水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "乱伦",
-      "白天出轨",
-      "乳交",
-      "巨乳",
-      "妹妹",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/cb94ac122d2766a009928e5c807c5662.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-777"
-  },
-  {
-    "id": 168106,
-    "IDcode": "MIAA-782",
-    "title": "某天突然，有一點點戀慕的心儀巨乳女教師變成我的繼姐 胸部露出來的不自覺同居生活讓人忍耐不住了！ 小花暖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/4ab9a4951a513db355eff0e3ef8b9da5.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-03-15",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "小花暖"
+      "森萤"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-782"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKW-017"
   },
   {
-    "id": 68726,
-    "IDcode": "MIAA-787",
-    "title": "母亲发现他在商店里偷东西-黒川すみれ",
+    "id": 102995,
+    "IDcode": "JLZ-038",
+    "title": "姉妹レズ 自分たちの痴態をネットで配信する姉と妹 松坂美紀 東條麗美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "乱伦",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/6ffe31040b45c3e7c9960334e5dde898.jpg",
-    "actress": [
-      "黑川堇",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-787"
-  },
-  {
-    "id": 535167,
-    "IDcode": "MIAA-799",
-    "title": "噂の种榨り爆乳ナース ―闷絶スケベ病栋・密着24时― 强●连射！中出し诊察！追撃男潮！秘密のエロ看护",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230327/1nhCKNTC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-799"
-  },
-  {
-    "id": 77562,
-    "IDcode": "MIAA-801",
-    "title": "戴胸罩来玩的童年朋友-新井リマ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "美少女电影",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/a5a33048dc4757995101dcfeaa7198f3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-801"
-  },
-  {
-    "id": 100611,
-    "IDcode": "MIAA-802",
-    "title": "淫荡女人-花柳杏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "巨乳",
-      "淫语",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c1853e7e672bea5f78d22/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-802"
-  },
-  {
-    "id": 100548,
-    "IDcode": "MIAA-809",
-    "title": "我的胸罩被偷了-綾瀬こころ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学校泳装",
-      "乳交",
-      "中出",
-      "制服",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/5ec49fac31cf1a245f740eec288997e3.jpg",
-    "actress": [
-      "绫濑心"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-809"
-  },
-  {
-    "id": 92155,
-    "IDcode": "MIAA-813",
-    "title": "女友姐姐-藤森里穗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "白天出轨",
-      "姐姐",
-      "中出",
-      "巨乳",
-      "角色扮演者",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/6af4ed0a2e92f7c217ca9eb3a6ce927e.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-813"
-  },
-  {
-    "id": 104443,
-    "IDcode": "MIAA-815",
-    "title": "淫语三分钟-永井玛利亚 姫咲はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "M男",
-      "多P",
-      "巨大屁股",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/de4553dd2e6b8ee84f55e3c443be4734.jpg",
-    "actress": [
-      "姫咲華",
-      "永井瑪麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-815"
-  },
-  {
-    "id": 107548,
-    "IDcode": "MIAA-822",
-    "title": "美人女将-黒川すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "荡妇",
-      "中出",
-      "巨乳",
-      "淫语",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/0166703bcd4a8b5d627c8880ae2cc932.jpg",
-    "actress": [
-      "黑川堇",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-822"
-  },
-  {
-    "id": 167947,
-    "IDcode": "MIAA-836",
-    "title": "前輩 要不要一起泡溫泉啊？ 在出差住宿時被上司的巨乳部下邀一起溫泉混浴然後就無數次中出了… 彌生美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/b16dc3a11f22f921d323fd11d82755b6.jpg",
-    "actress": [
-      "彌生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-836"
-  },
-  {
-    "id": 92154,
-    "IDcode": "MIAA-843",
-    "title": "色气满满的义母-小早川怜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "无码破解",
-      "中出",
-      "巨乳",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/aff2d42db64cbb14903c34b79b92ec7b.jpg",
-    "actress": [
-      "小早川怜子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-843"
-  },
-  {
-    "id": 92144,
-    "IDcode": "MIAA-844",
-    "title": "舔阴越来越熟练了-天川空",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
+      "女同接吻",
       "舔阴",
-      "姐姐",
-      "教学",
+      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "女同性恋",
+      "精选，综合"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/76e05959d28bf6ec723bc73ffdff1ed8.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-03-07",
+    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/03-27/04/xcxb2k4drbp0407xcxb2k4drbp522620.jpg",
     "actress": [
-      "天川空"
+      "松坂美纪",
+      "东条丽美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-844"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JLZ-038"
   },
   {
-    "id": 92146,
-    "IDcode": "MIAA-853",
-    "title": "五年没见的表哥-绫濑心",
+    "id": 516610,
+    "IDcode": "JLZ-044",
+    "title": "熟女蕾絲邊 舔舐搓揉的巨乳 山瀨美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "中出",
-      "巨乳",
-      "妹妹",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/42579c2d3a89ec3004d0f955fdb13fc4.jpg",
-    "actress": [
-      "绫濑心"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-853"
-  },
-  {
-    "id": 92150,
-    "IDcode": "MIAA-863",
-    "title": "温柔体贴的JCUP看护士-日下部加奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "乳交",
-      "无码破解",
-      "姐姐",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683d86170b69f1d81648f11c/cover.jpg",
-    "actress": [
-      "日下部加奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-863"
-  },
-  {
-    "id": 90853,
-    "IDcode": "MIAA-875",
-    "title": "果然还是喜欢妻子-藤森里穗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "中出",
-      "口交",
-      "巨乳",
-      "女上位",
-      "接吻"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/644e86a764456e001c7d84a55be5ded1.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-875"
-  },
-  {
-    "id": 92167,
-    "IDcode": "MIAA-878",
-    "title": "「処女じゃなくてごめんね」彼女との初SEX直後に過去の性体験を尋ねたら元カレとのマゾ調教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "白天出轨",
-      "中文字幕",
-      "中出",
-      "巨乳",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/09c89ba62719bbe119e544dcb63e1bbc.jpg",
-    "actress": [
-      "绫濑心",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-878"
-  },
-  {
-    "id": 92171,
-    "IDcode": "MIAA-901",
-    "title": "叫巨乳新人應召女後只來了一人不安又帶另一位巨乳朋友來的故事 1人分價格與兩位巨乳女大生後宮逆3P 星乃夏月 綾瀨心",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "女大学生",
-      "多P",
-      "乳交",
       "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/440f23ed643221ca89612b88d29cbddd.jpg",
-    "actress": [
-      "绫濑心",
-      "星乃夏月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-901"
-  },
-  {
-    "id": 18898,
-    "IDcode": "MIAA-920",
-    "title": "行列中的3穴中出肉便器 全穴精子逆流追击乙愛麗絲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "淫亂",
-      "羞恥",
-      "猥褻穿著",
-      "肛交",
-      "黑絲",
-      "中出",
-      "按摩棒",
-      "蕩婦",
-      "巨乳",
-      "亂交 • 群P",
-      "口交",
-      "無碼破解",
-      "絕頂高潮"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2023-08-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20230827/20230827024007672672.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-920"
-  },
-  {
-    "id": 90849,
-    "IDcode": "MIAA-935",
-    "title": "単身赴任中、妻からのアナル中出し実況キメセクビデオレター 吉根ゆりあ （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "白天出轨",
-      "肛交",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/2dae71d5fc31b54244ebfb549267e016.jpg",
-    "actress": [
-      "吉根柚莉爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-935"
-  },
-  {
-    "id": 92189,
-    "IDcode": "MIAA-941",
-    "title": "修学旅行中-美园和花 花柳杏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "乳交",
-      "中出",
-      "巨乳",
-      "浴衣"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/4bd7d932965a0f7c01af514e4b47c00c.jpg",
-    "actress": [
-      "美園和花",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-941"
-  },
-  {
-    "id": 18324,
-    "IDcode": "MIAA-949",
-    "title": "以為我喜歡NTR-柏木小夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "美少女電影",
-      "自拍性愛",
-      "淫妻",
-      "出軌",
-      "中出",
-      "巨乳",
-      "劇情",
-      "報復"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/de16635f59c5818d36c702c4a57ceb1e.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-949"
-  },
-  {
-    "id": 90852,
-    "IDcode": "MIAA-951",
-    "title": "超高级中出专门-汐川云丹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乳液",
-      "礼仪小姐",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/f8a2666ba9310171553ca45235a74aad.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/6913f80f312f49288156e169/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-951"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JLZ-044"
   },
   {
-    "id": 92197,
-    "IDcode": "MIAA-955",
-    "title": "巨尻奉仕W女仆-田中宁宁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "巨大屁股",
-      "女佣",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/36533e4bfa0679067c85659dac152c5b.jpg",
-    "actress": [
-      "田中寧寧",
-      "鬼塚萌奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-955"
-  },
-  {
-    "id": 18840,
-    "IDcode": "MIAA-956",
-    "title": "回憶起那個夏天的生日 哥哥和我之間的性愛 潮吹噴湧潮濕永難忘卻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "淫亂",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20230901/202309012137445353.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-956"
-  },
-  {
-    "id": 18504,
-    "IDcode": "MIAA-958",
-    "title": "G CUP巨乳家庭教師 成績UP 生中出個別指導 森下悠莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "胸控・戀乳癖",
-      "中出",
-      "家庭教師",
-      "蕩婦",
-      "口交",
-      "巨乳",
-      "性感",
-      "劇情"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/cc23ab559d5a80a8503a19a9c73fdd0e.jpg",
-    "actress": [
-      "森下悠莉",
-      "ふれんち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-958"
-  },
-  {
-    "id": 18516,
-    "IDcode": "MIAA-978",
-    "title": "把嫂子當家政婦肉便器化 暴走肉棒即刻活塞14發中出 玉城夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "人妻",
-      "凌辱",
-      "女上位",
-      "COSPLAY服飾",
-      "兔女郎妝扮",
-      "出軌",
-      "脅迫做愛",
-      "嫂嫂",
-      "中出",
-      "巨乳",
-      "性感",
-      "劇情",
-      "奇異的"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/ab34b81eaf2806c3dfb1ce111e34d718.jpg",
-    "actress": [
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-978"
-  },
-  {
-    "id": 18507,
-    "IDcode": "MIAA-980",
-    "title": "M男くんを犯しにバイクに乗ってやってくる 極限露出で男漁り爆乳痴女ライダー 乙愛麗絲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "女王",
-      "叛逆少女",
-      "女上位",
-      "緊身衣",
-      "M男・M女",
-      "制服",
-      "蕩婦",
-      "巨乳",
-      "性感",
-      "劇情",
-      "絕頂高潮"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/480f8143c664e19ffe2e854cd2e210d4.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-980"
-  },
-  {
-    "id": 563235,
-    "IDcode": "MIAA-982",
-    "title": "都合のイイ地味メガネ巨乳 乳首ビンビンいいなり后辈OLムチムチボディを揉みまくり、朝まで、何度",
+    "id": 410725,
+    "IDcode": "JLZ-058",
+    "title": "粉紅家政婦 巨乳炸彈 三角蕾絲邊",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231002/FHDRA0Rt/1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cfbbd4eb67774efbabdd07/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-982"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JLZ-058"
   },
   {
-    "id": 563055,
-    "IDcode": "MIAA-997",
-    "title": "オキニの爆乳カノジョに二股バレて…夺い合い豊満ボディプレスとジェラシー淫语で中出しさせられた仆。",
+    "id": 99701,
+    "IDcode": "JMD-002",
+    "title": "魔性くノ一媚薬の奥義 青井マリ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨大阴茎",
+      "女忍者",
+      "乱伦",
+      "中出",
+      "成熟的女人",
       "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/gLMhIknj/1.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2017-01-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-997"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMD-002"
   },
   {
-    "id": 18033,
-    "IDcode": "MIAB-012",
-    "title": "很難預約的脊椎按摩師的秘密 - 以催情油感性按摩讓已婚人妻身體變得更敏感，讓她潮噴的特殊治療",
+    "id": 83682,
+    "IDcode": "JMDS-001",
+    "title": "ママ活ママ 豊満スライム爆乳 しずか 大森しずか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "人妻",
-      "NTR",
-      "按摩・美容店",
-      "深喉",
-      "羞恥",
-      "按摩・物理治療・美容",
-      "出軌",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
-      "劇情",
-      "絕頂高潮",
-      "抹油"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231104/20231104080807559559.jpg",
-    "actress": [
-      "望月綾香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-012"
-  },
-  {
-    "id": 563766,
-    "IDcode": "MIAB-015",
-    "title": "练马の真面目な事务职 OL さん。脱いだら凄い地味メガネ巨乳。推定 H カップ。経験人数 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/Mn1VPQrJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-015"
-  },
-  {
-    "id": 18036,
-    "IDcode": "MIAB-016",
-    "title": "呃!我在酒吧被兩個騷貨給反向強姦了？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "打手槍",
-      "艷遇",
-      "兩女一男",
-      "M男・M女",
-      "雙飛",
-      "羞恥",
-      "正太控",
-      "中出",
-      "蕩婦",
-      "巨乳",
-      "口交",
-      "劇情"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231104/cb418ad2-dfa2-49b8-8144-0fb6ad027187.jpg",
-    "actress": [
-      "美園和花",
-      "彌生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-016"
-  },
-  {
-    "id": 17758,
-    "IDcode": "MIAB-028",
-    "title": "轮奸堕落的借款妻子-田中ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "多P",
-      "淫亂",
-      "乳交",
-      "出軌",
-      "欠債肉償",
-      "中出",
-      "黑絲",
-      "口交",
-      "巨乳",
-      "劇情",
-      "亂交 • 群P"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/85ec6bf4b56e57d8f5fc3a0fd0051f8b.jpg",
-    "actress": [
-      "田中寧寧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-028"
-  },
-  {
-    "id": 17759,
-    "IDcode": "MIAB-029",
-    "title": "媚药然后再使用ASMR通過耳朵侵入大腦，幻觉幻听让你无限高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "ASMR顱内高潮",
-      "感官作品",
-      "奇聞趣事",
-      "淫語",
-      "緊縛",
-      "淫亂",
-      "主觀視角",
-      "電車",
-      "猥褻穿著",
-      "中出",
-      "巨乳",
-      "企畫",
-      "口交",
-      "學校",
-      "奇異的"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2023-11-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20231118/20231118092412709709.jpg",
-    "actress": [
-      "彌生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-029"
-  },
-  {
-    "id": 17491,
-    "IDcode": "MIAB-039",
-    "title": "175cm逆兔女郎ー风俗-佐野ゆま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "脚控・戀足癖",
-      "泡泡浴店",
-      "艷遇",
-      "風俗娘",
-      "按摩・美容店",
-      "乳交",
-      "兔女郎妝扮",
-      "按摩・物理治療・美容",
-      "胸控・戀乳癖",
-      "按摩女郎",
-      "中出",
-      "風俗夜場",
-      "蕩婦",
-      "口交",
-      "性感",
-      "巨乳",
-      "劇情"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/e80ee71e5dbdc1658c6c56908bb96331.jpg",
-    "actress": [
-      "佐野由真",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-039"
-  },
-  {
-    "id": 92212,
-    "IDcode": "MIAB-052",
-    "title": "身材超级精致的女上司-佐野ゆま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240109-1/2e12115d5639664a40bea5497548975a.jpg",
-    "actress": [
-      "佐野由真"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-052"
-  },
-  {
-    "id": 92216,
-    "IDcode": "MIAB-054",
-    "title": "无内诱惑我的淫乱人妻-末广纯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
+      "纪录片",
       "中出",
+      "素人作品",
+      "成熟的女人",
       "巨乳",
-      "单体作品"
+      "精选，综合"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/475568402646f7c0415c466c367c105e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-054"
-  },
-  {
-    "id": 544155,
-    "IDcode": "MIAB-056",
-    "title": "超爆乳の义理姊は人気NO.1おっパブ嬢！？店友と一绪に絶伦チ●ポの仆を里オプの练习台にして追撃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250814/4Re84ddi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-056"
-  },
-  {
-    "id": 17011,
-    "IDcode": "MIAB-067",
-    "title": "淫乱后辈却每晚和炮友欢愉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "奇聞趣事",
-      "女學生",
-      "女友・妻子",
-      "多P",
-      "兩女一男",
-      "雙飛",
-      "中出",
-      "巨乳",
-      "亂交 • 群P",
-      "劇情",
-      "口交"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240127-1/c0e556cffd78db798242ba40b49f1adc.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-04-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/6c7199c9d440d58348000a3e5678fbce.jpg",
     "actress": [
-      "百永纱里奈",
-      "若宮穂乃",
-      "黑川纱里奈",
-      "若宫穂乃"
+      "大森しずか"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-067"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMDS-001"
   },
   {
-    "id": 17006,
-    "IDcode": "MIAB-071",
-    "title": "呼吸被夺走-五日市芽依",
+    "id": 83684,
+    "IDcode": "JMDS-002",
+    "title": "ママ活ママ 美乳ふんわり熟パイ しおり 天海しおり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "素人作品",
+      "成熟的女人",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-04-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/7e116baaaa2d9b96c14ace7b35ad633b.jpg",
+    "actress": [
+      "天海しおり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMDS-002"
+  },
+  {
+    "id": 83683,
+    "IDcode": "JMDS-003",
+    "title": "ママ活ママ 黒チクビもっちり巨乳 こずえ 時田こずえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "素人作品",
+      "成熟的女人",
+      "巨乳",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2020-04-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/8f6a5e129ef9b6ec317324e56792b38a.jpg",
+    "actress": [
+      "时田こずえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMDS-003"
+  },
+  {
+    "id": 7297,
+    "IDcode": "JMTY-073",
+    "title": "免費炮友File24 29歲 和隨便的美人炮友瘋狂精飲和中出的記錄 ~ 七原紗由",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "艷遇",
-      "深喉",
-      "勾引・誘惑",
-      "出軌",
-      "出差",
-      "中出",
-      "飯店",
-      "巨乳",
-      "口交",
-      "劇情",
-      "騎乗位",
-      "接吻",
-      "女同事"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240127-1/60531d5fe354f810e460ffa169ed6da7.jpg",
-    "actress": [
-      "五日市芽依",
-      "ハカー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-071"
-  },
-  {
-    "id": 17010,
-    "IDcode": "MIAB-073",
-    "title": "兼职NTR-新井莉玛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "女學生",
-      "性騷擾",
-      "美少女",
-      "便利商店",
-      "淫妻",
-      "中出",
-      "巨乳",
-      "口交",
-      "劇情",
-      "職員"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a57feac813dc779d962a2/cover.jpg",
-    "actress": [
-      "新井里真",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-073"
-  },
-  {
-    "id": 16783,
-    "IDcode": "MIAB-082",
-    "title": "受到惡毒老師的威脅，被迫直播三洞中出，",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "女學生",
       "吞精",
-      "美少女",
-      "二穴同入",
-      "強姦",
-      "乳交",
-      "肛交",
-      "美乳",
-      "中出",
-      "制服",
-      "口交",
-      "後入",
-      "女上位",
-      "少女",
-      "巨乳",
-      "苗條"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-01-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084721710710.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-082"
-  },
-  {
-    "id": 16787,
-    "IDcode": "MIAB-084",
-    "title": "我愛我的妻子！當和丈夫無聊地第一次做愛時……我們的身體非常相配，我們一直到早上！ ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "巨尻",
+      "若妻",
+      "純粹的慾望",
+      "慾求不滿",
+      "港區女子",
+      "素人作品",
+      "飯店",
+      "網襪",
+      "綠茶婊",
+      "4K",
       "美腳",
-      "苗條",
-      "乳交",
+      "癡女",
+      "眼鏡",
+      "胸控・戀乳癖",
+      "美乳",
+      "清楚系",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "業餘",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "NTR",
+      "約炮",
+      "高顏值",
+      "淫亂",
+      "蠻橫嬌羞",
+      "猥褻穿著",
       "出軌",
       "中出",
-      "口交",
+      "美人",
+      "美腿",
       "後入",
+      "美臀",
+      "劇情",
+      "顏射",
+      "不倫",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影",
+      "偷竊",
       "女上位",
-      "巨乳",
+      "丁字裤",
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-01-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084455975975.jpg",
-    "actress": [
-      "森澤佳奈"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-084"
+    "publish_date": "2025-03-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250323/6b762cd2-7e0a-4b9a-9cb4-5039a1f09d04.jpg",
+    "actress": [
+      "七原紗由"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMTY-073"
   },
   {
-    "id": 16470,
-    "IDcode": "MIAB-086",
-    "title": "水果派长腿骚护士美脚喂结狗",
+    "id": 5786,
+    "IDcode": "JMTY-074",
+    "title": "タダマンFile25 りんか35歳 都合のよいセフレに精飲と中出しまくった記録",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳裝",
+      "艷遇",
+      "吞精",
+      "純粹的慾望",
+      "口爆",
+      "素人作品",
+      "4K",
+      "美乳",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "跳蛋",
+      "形象俱樂部",
+      "人妻",
+      "NTR",
+      "約炮",
+      "出軌",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "顏射",
+      "不倫",
+      "舔陰",
+      "手指插入",
+      "高妹",
+      "自慰",
+      "家庭主妇",
+      "女上位",
+      "騎乗位",
+      "少妇"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/01/7c4294d3/vod.jpg",
+    "actress": [
+      "雨村梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMTY-074"
+  },
+  {
+    "id": 8484,
+    "IDcode": "JNKD-010",
+    "title": "COSPLAY 插入部分特寫 Vol 06 ~ 前田美波 內田菫 朝比奈芹那 星乃夏月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "小隻馬",
+      "叛逆少女",
+      "純粹的慾望",
+      "口爆",
+      "真實拍攝",
+      "4小時以上作品",
+      "素人作品",
+      "飯店",
+      "故事集",
+      "苗條",
+      "美少女",
+      "美腳",
+      "癡女",
+      "精選綜合",
+      "羞恥",
+      "JK校服",
+      "胸控・戀乳癖",
+      "美乳",
+      "過膝襪・小腿襪",
+      "清楚系",
+      "早漏",
+      "巨乳",
+      "性感",
+      "口交",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "深喉",
+      "約炮",
+      "校花",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "少女",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影",
+      "校園生活",
+      "手指插入",
+      "舔腳",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
+    ],
+    "publish_date": "2025-02-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250207/bf0330f9-a213-4c76-8a1b-6745639219b1.jpg",
+    "actress": [
+      "前田美波",
+      "星乃夏月",
+      "內田菫",
+      "朝比奈芹那"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKD-010"
+  },
+  {
+    "id": 4576,
+    "IDcode": "JNKD-013",
+    "title": "制服 cosplay 素人視角激戰精選 第九集 ~ 響乃詩 沙優七羽 小島美子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "打手槍",
-      "醫院・診所",
-      "護士制服",
+      "奇聞趣事",
+      "小隻馬",
+      "游戲COSPLAY",
+      "M男・M女",
+      "精選總編集",
+      "口爆",
+      "4小時以上作品",
+      "素人作品",
+      "故事集",
+      "完全着衣",
       "苗條",
-      "護士",
-      "淫語",
+      "4K",
       "美少女",
-      "胸控・戀乳癖",
       "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "中出",
-      "少女",
-      "抹油",
-      "乳交",
-      "按摩・物理治療・美容",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250201-1/084fd849470d95774f43574e9d246f92.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-086"
-  },
-  {
-    "id": 16782,
-    "IDcode": "MIAB-087",
-    "title": "陰部凸出，她會通過自拍自慰滿足你的認可欲望，並錄制。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "手指插入",
-      "JK校服",
-      "苗條",
-      "乳交",
-      "美乳",
-      "中出",
-      "制服",
-      "口交",
-      "後入",
-      "女上位",
-      "巨乳",
-      "亂交 • 群P",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-01-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084835935935.jpg",
-    "actress": [
-      "森日向子",
-      "有栖舞衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-087"
-  },
-  {
-    "id": 16784,
-    "IDcode": "MIAB-089",
-    "title": "學生會長被輪奸，幫我的學生會長被惡霸逼喝利尿劑……當衆失禁高潮，雙腿顫抖……",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "導尿",
-      "輪姦",
-      "女學生",
-      "美少女",
-      "多P",
-      "手指插入",
-      "JK校服",
-      "苗條",
-      "美乳",
-      "中出",
       "制服",
       "按摩棒",
-      "後入",
+      "清楚系",
       "巨乳",
       "口交",
-      "學校",
+      "形象俱樂部",
+      "約炮",
+      "校花",
+      "貧乳",
+      "極品美人",
+      "蠻橫嬌羞",
+      "美人",
+      "企畫",
+      "後入",
+      "少女",
+      "劇情",
+      "顏射",
+      "女優",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "高妹",
+      "乳交",
+      "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-01-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084639619619.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
+    ],
+    "publish_date": "2025-07-04",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709032117330330_57548_thumbnail.webp",
     "actress": [
       "響乃詩",
-      "大村"
+      "小島美子",
+      "沙優七羽"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-089"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKD-013"
   },
   {
-    "id": 16471,
-    "IDcode": "MIAB-094",
-    "title": "美丽OL女上司的下流性行为-弥生美月",
+    "id": 3913,
+    "IDcode": "JNKD-014",
+    "title": "コスプレ ハメ撮りジャンクション。 vol.10",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "打手槍",
+      "奇聞趣事",
+      "巨尻",
+      "游戲COSPLAY",
+      "精選總編集",
+      "口爆",
+      "4小時以上作品",
+      "完全着衣",
       "苗條",
-      "辦公室",
+      "4K",
       "美少女",
-      "OL",
-      "羞恥",
-      "勾引・誘惑",
+      "美腳",
+      "精選綜合",
+      "JK校服",
       "美乳",
-      "制服",
       "按摩棒",
-      "口交",
+      "清楚系",
       "巨乳",
-      "女上司",
-      "性感",
-      "跳蛋",
-      "熟女",
-      "人妻",
-      "中出",
-      "美腿",
-      "短裙・迷你裙",
+      "口交",
+      "形象俱樂部",
+      "約炮",
+      "美人",
+      "企畫",
+      "後入",
+      "少女",
+      "顏射",
+      "清純",
       "舔陰",
+      "美少女電影",
       "手指插入",
+      "高妹",
       "乳交",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240225-1/2cea84fc11e734293e3702a295900991.jpg",
-    "actress": [
-      "彌生美月",
-      "鲛岛",
-      "タイ",
-      "弥生美月"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-094"
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/641d95a255a5512f82ace065a2f1a310.jpg",
+    "actress": [
+      "有栖舞衣",
+      "知花しおん",
+      "長澤りつ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKD-014"
   },
   {
-    "id": 16473,
-    "IDcode": "MIAB-099",
-    "title": "被抓獲的女調查員都月楓被催情油束縛並遭受性折磨！無限中出絕對高潮",
+    "id": 5449,
+    "IDcode": "JNKE-007",
+    "title": "角色扮演真枪实弹实录：援交嫩妹激情篇 vol.05",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "媚藥・迷藥",
-      "苗條",
-      "凌辱",
-      "淫語",
-      "美少女",
-      "緊縛",
-      "緊身衣",
-      "拘束・拷問",
-      "黑幫",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "中出",
-      "蕩婦",
-      "口球",
-      "監獄",
-      "女間諜・特工"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a47d6ac813dc779d9622e/cover.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-099"
-  },
-  {
-    "id": 16472,
-    "IDcode": "MIAB-102",
-    "title": "把下药后睡着的女儿-皆月光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "打手槍",
+      "女學生",
+      "奇聞趣事",
+      "游戲COSPLAY",
       "口爆",
-      "女兒",
+      "真實拍攝",
+      "素人作品",
+      "飯店",
       "苗條",
+      "4K",
       "美少女",
+      "美腳",
       "JK校服",
+      "羞恥",
       "美乳",
-      "制服",
+      "過膝襪・小腿襪",
       "按摩棒",
-      "口交",
       "巨乳",
-      "性感",
-      "母女",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "NTR",
+      "校花",
+      "貧乳",
       "中出",
+      "口罩",
+      "美人",
+      "企畫",
+      "後入",
       "少女",
+      "顏射",
+      "絕頂高潮",
+      "應召・援交",
       "舔陰",
       "手指插入",
-      "乱伦",
+      "素人",
+      "高妹",
+      "乳交",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d78cf9a2e9b1d4a53013/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e77c298bc99dfdd032fe3/cover.jpg",
     "actress": [
-      "皆月光"
+      "小島美子",
+      "長澤りつ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-102"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKE-007"
   },
   {
-    "id": 16480,
-    "IDcode": "MIAB-104",
-    "title": "我偷偷地讓我那霸道的女老板服用利尿劑，因爲她甚至不讓我去洗手間……我被迫在忍住尿的時候射在她體內。",
+    "id": 589279,
+    "IDcode": "JNT-055",
+    "title": "【最强H罩杯】在SNS上招募H罩杯下奶工匠，在Lee Sta上晒色情自拍！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
-      "放尿",
-      "辦公室",
-      "美少女",
-      "OL",
-      "眼鏡",
-      "美乳",
-      "制服",
-      "口交",
-      "巨乳",
-      "女上司",
-      "性感",
-      "潮吹",
-      "中出",
-      "蕩婦",
-      "後入",
-      "短裙・迷你裙",
-      "少女",
-      "舔陰",
-      "手指插入",
-      "調教",
-      "黑絲",
-      "女上位"
+      "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4656ac813dc779d96218/cover.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-104"
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/11/32749_cover_2025-09-11_002135.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNT-055"
   },
   {
-    "id": 16245,
-    "IDcode": "MIAB-108",
-    "title": "老公出差中-森沢かな",
+    "id": 553511,
+    "IDcode": "JNT-103",
+    "title": "“成人不道德内衣性爱，妖娆性感的H杯人妻，老公意外闯入！？NTR乱交，拥有性感身材的魅力H杯人妻登场！！！老公意外闯入NTR乱交…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
-      "情趣飯店",
+      "人妻",
+      "乱交",
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250626-1/ca9f432156da0ece415e4f72432e8a11.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNT-103"
+  },
+  {
+    "id": 92660,
+    "IDcode": "JOD-315",
+    "title": "Goto不倫トラベル巨乳セレブ妻と濃厚オヤジの中出し交遊浪漫初川南。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/32d1319c5dafb75c709770813d29c5d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOD-315"
+  },
+  {
+    "id": 218090,
+    "IDcode": "JOHS-018",
+    "title": "巨乳家出女-桜ちなみ 間宮つくし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/a92703ecda699a9a0ab23cc97837ceda.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOHS-018"
+  },
+  {
+    "id": 218203,
+    "IDcode": "JOHS-028",
+    "title": "天然巨乳-橘メアリー 有坂つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/736f0b6d6cbadeeda87f0c2450d037f1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOHS-028"
+  },
+  {
+    "id": 223845,
+    "IDcode": "JOHS-030",
+    "title": "爆乳監視-松浦ゆきな 若槻みづな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/b197f15b6bb11b6bb1ec8312d507899e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOHS-030"
+  },
+  {
+    "id": 14920,
+    "IDcode": "JRZE-189",
+    "title": "初次拍摄人妻-羽田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
       "口爆",
-      "OL",
-      "勾引・誘惑",
+      "凌辱",
+      "美腳",
+      "羞恥",
+      "出道作品",
+      "自宅",
       "胸控・戀乳癖",
       "美乳",
-      "亂交 • 群P",
+      "按摩棒",
       "巨乳",
-      "性感",
       "口交",
+      "性感",
       "熟女",
       "潮吹",
       "人妻",
       "NTR",
+      "深喉",
+      "淫亂",
       "內衣",
       "出軌",
       "中出",
-      "不倫",
+      "蕩婦",
+      "後入",
+      "企畫",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "舔陰",
       "手指插入",
+      "黑絲",
       "女上位",
-      "騎乗位"
+      "騎乗位",
+      "情趣內衣"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240315-1/d8f798eaa9fdc819135911d076e4d4e7.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/78893089b33f651a20fa2f56946f6c85.jpg",
     "actress": [
-      "森澤佳奈",
-      "ナイアガラ翔"
+      "羽田真子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-108"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-189"
   },
   {
-    "id": 16244,
-    "IDcode": "MIAB-110",
-    "title": "每天看着哥哥在女大學生導師的指導下接吻技術不斷進步……（妹妹）也開始接吻了……",
+    "id": 12695,
+    "IDcode": "JRZE-203",
+    "title": "第一次拍攝的人妻紀錄片-伊織知世",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "接吻",
-      "亂倫",
-      "深喉",
-      "女學生",
-      "吞精",
-      "美少女",
-      "姐弟・兄妹",
-      "口爆",
-      "乱伦",
-      "自宅",
+      "熟女",
+      "人妻",
+      "素人",
+      "出道作品",
+      "色白",
       "美乳",
-      "中出",
-      "蘿莉控",
       "巨乳",
+      "企畫",
+      "女上位",
+      "後入",
       "口交",
-      "少女",
-      "雙馬尾"
+      "騎乗位",
+      "女優"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216085036269269.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c55ca3d6fbef4e90a92521/cover.jpg",
     "actress": [
-      "皆月光"
+      "伊織知世"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-203"
   },
   {
-    "id": 16249,
-    "IDcode": "MIAB-111",
-    "title": "用雞巴來20個強烈的大力操逼 讓我侄女直到高潮",
+    "id": 12232,
+    "IDcode": "JRZE-206",
+    "title": "第一次的人妻紀錄片-澤北杏南",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "苗條",
-      "亂倫",
-      "女僕制服",
-      "美少女",
+      "巨尻",
+      "豐滿",
+      "臀控",
+      "感官作品",
+      "出道作品",
       "胸控・戀乳癖",
-      "自宅",
+      "色白",
       "美乳",
-      "叔叔・姪女",
       "巨乳",
       "口交",
       "性感",
-      "潮吹",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
       "中出",
       "後入",
-      "短裙・迷你裙",
-      "少女",
-      "劇情",
+      "企畫",
+      "美臀",
       "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
+      "女優",
       "乳交",
-      "女上位"
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216084811331331.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-2/0d61ab5de6f8c9070ced8f08f0acae34.jpg",
     "actress": [
-      "胡桃櫻花"
+      "澤北杏南"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-111"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-206"
   },
   {
-    "id": 15806,
-    "IDcode": "MIAB-114",
-    "title": "神乳超級身材-西條琉璃",
+    "id": 11902,
+    "IDcode": "JRZE-209",
+    "title": "第一次拍攝的人妻紀錄片-三井菜菜夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "多P",
-      "口爆",
-      "飯店",
-      "苗條",
+      "巨尻",
+      "真實拍攝",
       "羞恥",
+      "出道作品",
       "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "口交",
+      "巨乳",
+      "性感",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "中出",
+      "後入",
+      "企畫",
+      "美臀",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "素人",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-2/ecccc634514d196c786296b7e84f5606.jpg",
+    "actress": [
+      "三井菜々夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-209"
+  },
+  {
+    "id": 9538,
+    "IDcode": "JRZE-218",
+    "title": "首次拍摄已婚妇女文献岸本爱香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "慾求不滿",
+      "中文字幕",
+      "真實拍攝",
+      "羞恥",
+      "出道作品",
+      "胸控・戀乳癖",
+      "色白",
       "美乳",
       "巨乳",
       "口交",
       "性感",
       "熟女",
       "大乳暈",
-      "形象俱樂部",
       "潮吹",
-      "兩男一女",
-      "深喉",
       "人妻",
-      "淫亂",
+      "美人妻",
+      "內衣",
       "中出",
       "蕩婦",
       "後入",
       "企畫",
-      "顏射",
-      "奇異的",
+      "紀念作",
       "絕頂高潮",
       "女優",
       "手指插入",
-      "自慰",
+      "乳交",
+      "女優面試",
+      "家庭主妇",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20241206-1/b72b4bf903ecd049687ce12fd9b5665b.jpg",
+    "actress": [
+      "岸本藍花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-218"
+  },
+  {
+    "id": 9298,
+    "IDcode": "JRZE-226",
+    "title": "第一张照片已婚妇女纪录片-若菜れいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女優訪談",
+      "小隻馬",
+      "巨尻",
+      "口爆",
+      "真實拍攝",
+      "美腳",
+      "羞恥",
+      "出道作品",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "潮吹",
+      "貴婦",
+      "人妻",
+      "美人妻",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "美臀",
+      "顏射",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "無毛",
       "乳交",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240502-1/45be82a41e2dbf87d27d048854a8ac74.jpg",
-    "actress": [
-      "西條琉璃"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-114"
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250209-1/0491067f7ec7560b1b416bf15fd6c1e7.jpg",
+    "actress": [
+      "若菜れいか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-226"
   },
   {
-    "id": 16256,
-    "IDcode": "MIAB-115",
-    "title": "只要舔一下就可以 我的前蕩婦繼母擔心我每天大雞巴手淫，我被她引誘吞精",
+    "id": 9109,
+    "IDcode": "JRZE-227",
+    "title": "初撮り人妻ドキュメント 綾香あかね",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "吞精",
-      "口爆",
-      "亂倫",
-      "繼母",
-      "勾引・誘惑",
-      "自宅",
+      "女優訪談",
+      "巨尻",
+      "慾求不滿",
+      "真實拍攝",
+      "打屁股",
+      "牛仔褲",
+      "肉絲",
+      "癡女",
+      "羞恥",
+      "真人秀",
+      "出道作品",
       "胸控・戀乳癖",
+      "色白",
       "美乳",
+      "按摩棒",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "美人妻",
+      "淫亂",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "紀念作",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "家庭主妇",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-1/b87a1c3de006df29dbe65a3d2a4a6b18.jpg",
+    "actress": [
+      "綾香あかね"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-227"
+  },
+  {
+    "id": 8522,
+    "IDcode": "JRZE-230",
+    "title": "初撮り人妻ドキュメント 久保田早苗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女優訪談",
+      "真實拍攝",
+      "羞恥",
+      "出道作品",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "熟女",
+      "人妻",
+      "中出",
+      "老太婆",
+      "後入",
+      "企畫",
+      "紀錄片",
+      "重口味",
+      "紀念作",
+      "女優",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "久保田早苗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-230"
+  },
+  {
+    "id": 62490,
+    "IDcode": "JRZE-247",
+    "title": "首次拍摄五十岁妻子纪录片-小倉みきね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "首次亮相",
+      "纪录片",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/552c7a6c/vod.jpg",
+    "actress": [
+      "小倉みきね"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-247"
+  },
+  {
+    "id": 62529,
+    "IDcode": "JRZE-248",
+    "title": "初次拍攝人妻紀錄片-岡名葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "首次亮相",
+      "纪录片",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/07/11/97858f1b12518f648ff1ac2b10266395.jpg",
+    "actress": [
+      "岡名あおい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-248"
+  },
+  {
+    "id": 62038,
+    "IDcode": "JRZE-252",
+    "title": "初次拍摄的少妇纪录片-塚原かえで",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "首次亮相",
+      "纪录片",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250718-1/bf1933f224b542b921bbbd457ef6f638.jpg",
+    "actress": [
+      "塚原かえで"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-252"
+  },
+  {
+    "id": 61695,
+    "IDcode": "JRZE-254",
+    "title": "初次拍摄的少妇记录-柴田良香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "首次亮相",
+      "纪录片",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250723-1/255e2cac19a38cc8e94fd45f0620d15a.jpg",
+    "actress": [
+      "柴田良香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-254"
+  },
+  {
+    "id": 61474,
+    "IDcode": "JRZE-255",
+    "title": "初撮り五十路妻ドキュメント 竹宮ちひろ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "首次亮相",
+      "纪录片",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "熟女人妻最強廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_熟女人妻最強廠",
+        "works_count": 707
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/c24df6ea584b58c02f4a01ff76b00e09.jpg",
+    "actress": [
+      "竹宮ちひろ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-255"
+  },
+  {
+    "id": 13739,
+    "IDcode": "JSOP-039",
+    "title": "新美熟女澡堂 美丘さとみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗條",
+      "和服・浴衣・喪服",
+      "羞恥",
+      "美乳",
+      "按摩棒",
       "巨乳",
       "口交",
       "性感",
       "熟女",
       "潮吹",
-      "人妻",
-      "NTR",
-      "深喉",
-      "內衣",
       "中出",
+      "蕩婦",
       "後入",
-      "顏射",
-      "手指插入",
-      "自慰",
-      "乱伦",
+      "劇情",
+      "絕頂高潮",
+      "泡泡浴店",
       "乳交",
-      "偷竊",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216080826494494.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "HubX",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_HubX",
+        "works_count": 45
+      }
+    ],
+    "publish_date": "2024-06-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20240624/d339c584-6308-47ee-95ce-9ae24b0a5e1a.jpg",
     "actress": [
-      "新村朱里"
+      "美丘さとみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JSOP-039"
   },
   {
-    "id": 16257,
-    "IDcode": "MIAB-117",
-    "title": "只有我知道的女老師都月楓的隱藏面孔。我最喜歡的老師都月楓紗放學後被不良少年深喉……",
+    "id": 546813,
+    "IDcode": "JUAN-018",
+    "title": "邻の変态亲子のために二穴解禁するドスケベ爆乳爆尻侄っ子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "吞精",
-      "多P",
-      "口爆",
-      "苗條",
-      "女教師",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "RUBY",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY",
+        "works_count": 292
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240115/SeDQQyn9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-018"
+  },
+  {
+    "id": 564465,
+    "IDcode": "JUBE-003",
+    "title": "ファミレスで动くTHE普通の女子、実は隠れ巨乳！ 金の力でおじさんチ○ポ大好きなメス豚に进化しました！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "JUMP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_JUMP",
+        "works_count": 118
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230506/1kRbXY36/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-003"
+  },
+  {
+    "id": 548614,
+    "IDcode": "JUBE-007",
+    "title": "オヤジ大好きムッチリボディ巨乳女子校生と无断中出し性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "JUMP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_JUMP",
+        "works_count": 118
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230731/6IwWBcFS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-007"
+  },
+  {
+    "id": 14078,
+    "IDcode": "JUBE-017",
+    "title": "一個天真的女孩，被大雞巴侵犯 ~ 美澄玲衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳裝",
+      "女學生",
       "美少女",
-      "美腳",
+      "緊縛",
+      "JK校服",
       "羞恥",
       "胸控・戀乳癖",
+      "自宅",
       "美乳",
-      "口交",
+      "按摩棒",
+      "亂交 • 群P",
       "巨乳",
       "性感",
-      "接吻",
+      "口交",
+      "跳蛋",
       "潮吹",
-      "NTR",
-      "內衣",
+      "淫亂",
       "中出",
+      "後入",
       "少女",
+      "SM",
+      "劇情",
       "顏射",
       "絕頂高潮",
       "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "無毛",
+      "乳交",
       "女上位",
-      "學校"
+      "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "JUMP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_JUMP",
+        "works_count": 118
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c5d5f9a2e9b1d4a52fb2/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcbc9ece5a404e9bc35aa8/cover.jpg",
     "actress": [
-      "都月楓"
+      "美澄玲衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-017"
   },
   {
-    "id": 15957,
-    "IDcode": "MIAB-123",
-    "title": "放蕩的 森日向子是個婊子，她是房間裏的自慰。嘿......你爲什麼不把復制的鑰匙留給我呢？如果你想操女孩，就給她吧！我後宮中出每天 24 小時，隨時隨地",
+    "id": 5797,
+    "IDcode": "JUBE-029",
+    "title": "大阪辣妹俱樂部～黑髮前田徑王牌～光滑無毛小騷妹 ~ 日向理亜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "兩男兩女",
-      "飯店",
+      "女學生",
+      "小隻馬",
+      "叛逆少女",
+      "口爆",
       "苗條",
+      "辣妹/GAL系",
       "美少女",
       "美腳",
+      "JK校服",
       "羞恥",
-      "胸控・戀乳癖",
       "美乳",
-      "制服",
       "巨乳",
       "口交",
       "性感",
       "形象俱樂部",
       "潮吹",
-      "淫亂",
-      "內衣",
+      "單體作品",
+      "高顏值",
+      "校花",
       "中出",
-      "後入",
+      "美人",
       "企畫",
+      "後入",
       "少女",
-      "美臀",
-      "顏射",
       "絕頂高潮",
-      "女優",
-      "上門福利",
+      "清純",
       "舔陰",
       "美少女電影",
       "手指插入",
-      "乳交",
+      "無毛",
+      "蘿莉控",
       "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "騎乗位"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-03-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301092833227227.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "JUMP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_JUMP",
+        "works_count": 118
+      }
+    ],
+    "publish_date": "2025-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526025415119119_thumbnail.webp",
     "actress": [
-      "森日向子",
-      "有村希"
+      "日向理亜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-123"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-029"
   },
   {
-    "id": 92241,
-    "IDcode": "MIAB-125",
-    "title": "巨乳大姐姐-都月流衣纱",
+    "id": 5028,
+    "IDcode": "JUBE-030",
+    "title": "性教育的明與暗 教師的禁忌之戀 ~無愛卻污穢的激情~ 天宮かすみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "流汗",
-      "乱伦",
+      "艷遇",
+      "慾求不滿",
+      "三十路",
+      "苗條",
+      "女教師",
+      "美腳",
+      "羞恥",
+      "眼鏡",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "人妻",
+      "內衣",
+      "中出",
+      "美人",
+      "後入",
+      "劇情",
+      "不倫",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "手指插入",
+      "御姐系",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "JUMP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_JUMP",
+        "works_count": 118
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "天宮かすみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-030"
+  },
+  {
+    "id": 4015,
+    "IDcode": "JUBE-031",
+    "title": "いなかの大人女子 桃瀬ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "女學生",
+      "小隻馬",
+      "二次元",
+      "苗條",
+      "美少女",
+      "美腳",
+      "癡女",
+      "JK校服",
+      "羞恥",
+      "胸控・戀乳癖",
+      "色白",
+      "大奶头",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "單體作品",
+      "短髮",
+      "約炮",
+      "田舍娘",
+      "中出",
+      "美人",
+      "後入",
+      "少女",
+      "劇情",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "JUMP",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_JUMP",
+        "works_count": 118
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688ac9e898bc99dfddd1736a/cover.jpg",
+    "actress": [
+      "桃瀨日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-031"
+  },
+  {
+    "id": 214569,
+    "IDcode": "JUC-521",
+    "title": "巨乳妻-百花エミリ 葉月奈穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/20/0baebddd70dcffe232c0272a64992d6c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-521"
+  },
+  {
+    "id": 219573,
+    "IDcode": "JUC-567",
+    "title": "经典漫改巨乳女教师-浜崎りお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-7/eabaf3b5ccdd3c94286b23b5a7c5d859.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-567"
+  },
+  {
+    "id": 215870,
+    "IDcode": "JUC-579",
+    "title": "爆乳不動産经纪-仁科百華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-12/b62affa2d1f879ce4ca24132a77b5a22.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-579"
+  },
+  {
+    "id": 218222,
+    "IDcode": "JUC-603",
+    "title": "巨乳母娘-森貴代美 牧野絵里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-10/d7bc35d2e64ba70a12a62f1b31cf2043.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-603"
+  },
+  {
+    "id": 214417,
+    "IDcode": "JUC-681",
+    "title": "肉感巨乳妻-日向みのり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/13/026b9bc1b5d2ad01fba8634bc5b7d2f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-681"
+  },
+  {
+    "id": 215060,
+    "IDcode": "JUC-725",
+    "title": "爆乳不動産-佐藤みき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/15/fdd470ac699e374f410ef142a8a0387c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-725"
+  },
+  {
+    "id": 216897,
+    "IDcode": "JUC-808",
+    "title": "巨乳若妻-さとう遥希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-11/e4e00c7d3171495e840b03e467de977d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-808"
+  },
+  {
+    "id": 536342,
+    "IDcode": "JUC-819",
+    "title": "爆乳美熟女レズビアン ～淫らに濡れる复雠の花弁～ 梦野まりあ 风间ゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230704/juc819pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-819"
+  },
+  {
+    "id": 69330,
+    "IDcode": "JUC-838",
+    "title": "接受贡品的已婚妇女-北川エリカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "羞耻",
       "无码破解",
-      "姐姐",
+      "乳房",
+      "成熟的女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/6870537d43d69727160f6ecf/cover.jpg",
+    "actress": [
+      "北川爱莉香",
+      "笹木良一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-838"
+  },
+  {
+    "id": 98244,
+    "IDcode": "JUC-849",
+    "title": "義姉妹レズビアン 青木りん 当真ゆき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "调教",
+      "女同接吻",
+      "成熟的女人",
+      "妹妹",
+      "女同性恋",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2012-06-25",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200730/juc849pl.jpg",
+    "actress": [
+      "青木りん",
+      "当真ゆき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-849"
+  },
+  {
+    "id": 534961,
+    "IDcode": "JUC-890",
+    "title": "爆乳女教师の诱惑家庭访问 伊集院茜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231205/juc890pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-890"
+  },
+  {
+    "id": 549627,
+    "IDcode": "JUC-904",
+    "title": "息子を诱惑する爆乳パイパン母 ～禁断の悦びに濡れる无毛相奸～ 折原ゆかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230922/juc904pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-904"
+  },
+  {
+    "id": 535082,
+    "IDcode": "JUC-905",
+    "title": "人妻秘书调教 巨乳妻耻じらいの従顺オフィス 中居ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240117/juc905pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-905"
+  },
+  {
+    "id": 174615,
+    "IDcode": "JUC-907",
+    "title": "黑丝巨乳美女淫荡嫂子筒井真理香的诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/01/69b68ca307605ddaba9c064438266b3c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-907"
+  },
+  {
+    "id": 174243,
+    "IDcode": "JUC-965",
+    "title": "被盯上的巨乳人妻OL陷入精心设计的职场耻辱性陷阱-椎名由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/30/ae2067927debfe70d881145a077407ee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-965"
+  },
+  {
+    "id": 549783,
+    "IDcode": "JUC-967",
+    "title": "息子を诱惑する爆乳パイパン母 ～果てない肉欲に溺れる近亲无毛相奸～ 梦野まりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231020/juc967pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-967"
+  },
+  {
+    "id": 209656,
+    "IDcode": "JUC-972",
+    "title": "人妻恥じらい巨乳エステ 綾瀬れん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/07/16/e367d51a6d6f3447bb3d8abd6a094bf9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-972"
+  },
+  {
+    "id": 539934,
+    "IDcode": "JUFD-175",
+    "title": "着衣で濡れ透ける巨乳ノーブラ妻 北川瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240325/jufd175pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-175"
+  },
+  {
+    "id": 536551,
+    "IDcode": "JUFD-278",
+    "title": "女性会员限定！爆乳肉感レズビアン～卑猥なムッチリボディ调教～ 相内つかさ 村上凉子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231012/jufd278pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-278"
+  },
+  {
+    "id": 518448,
+    "IDcode": "JUFD-305",
+    "title": "全裸奴隸 被丈夫部下調教的爆乳人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69055a1172c0032a43e22efa/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-305"
+  },
+  {
+    "id": 518432,
+    "IDcode": "JUFD-313",
+    "title": "爆乳空姐精液調教 高橋美緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906d72d71eb543bb0e1f8f5/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-313"
+  },
+  {
+    "id": 518425,
+    "IDcode": "JUFD-326",
+    "title": "我的寵物是爆乳職業女郎 ～敏感乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69091d39e264e6282dfe69b3/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-326"
+  },
+  {
+    "id": 518461,
+    "IDcode": "JUFD-371",
+    "title": "我的寵物是爆乳空姐は爆乳～敏感乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903d098d6fbef4e901a78a4/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-371"
+  },
+  {
+    "id": 536811,
+    "IDcode": "JUFD-412",
+    "title": "爆乳人妻レズビアン ～夫の留守中に交わる卑猥な肉体～ 春日もな 冢田诗织",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231221/1602232223-jufd412pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-412"
+  },
+  {
+    "id": 79725,
+    "IDcode": "JUFD-413",
+    "title": "上班族被弄湿了-葉月奈穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "屁股",
+      "数位马赛克",
+      "羞耻",
+      "多P",
+      "性骚扰",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/14/9fb96a7344ec889bcd0adf6ff865c32a.jpg",
+    "actress": [
+      "叶月奈穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-413"
+  },
+  {
+    "id": 107352,
+    "IDcode": "JUFD-422",
+    "title": "我的宠物是爆乳女上班-筱田步美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "数位马赛克",
+      "多P",
+      "OL",
+      "调教",
+      "巨乳",
+      "主观视角"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/2164ba4600abbc2b33b523953053853e.jpg",
+    "actress": [
+      "篠田步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-422"
+  },
+  {
+    "id": 536781,
+    "IDcode": "JUFD-428",
+    "title": "爆乳紧缚ハードレズビアン～义理の娘の爆乳を狙う卑猥な母～ 市来美保 水城奈绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231215/1607419235-jufd428pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-428"
+  },
+  {
+    "id": 536706,
+    "IDcode": "JUFD-446",
+    "title": "爆乳紧缚ハードレズビアン ～捜查官の爆乳を狙う卑猥な女狐～ 篠田あゆみ 大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231117/jufd446pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-446"
+  },
+  {
+    "id": 518599,
+    "IDcode": "JUFD-447",
+    "title": "我的寵物是爆乳不動產女郎～敏感乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1cf32ce5a404e9be68b90/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-447"
+  },
+  {
+    "id": 523221,
+    "IDcode": "JUFD-457",
+    "title": "波多野结衣- パイパン全裸奴隶 夫の部下に剃毛调教された巨乳妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250512/BHH82Cxj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-457"
+  },
+  {
+    "id": 78366,
+    "IDcode": "JUFD-467",
+    "title": "我的宠物是隔壁的巨乳人妻-林由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "单体作品",
+      "数位马赛克",
+      "多P",
+      "调教",
+      "乳交",
+      "无码破解",
+      "巨乳",
+      "主观视角"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ebfbd852c12b4e6845fb14/cover.jpg",
+    "actress": [
+      "林由奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-467"
+  },
+  {
+    "id": 78381,
+    "IDcode": "JUFD-489",
+    "title": "爆乳騎乗位-林ゆな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "淫语",
+      "荡妇",
+      "无码破解",
+      "巨乳",
+      "女上位",
+      "紧缚",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20241124-1/4c9465f1180ea56e0abc10e2facfaa98.jpg",
+    "actress": [
+      "林由奈",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-489"
+  },
+  {
+    "id": 212530,
+    "IDcode": "JUFD-492",
+    "title": "爆乳家政婦-徳永亜美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/02/22f6a878e751ffd8e4cf8cc74a558060.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-492"
+  },
+  {
+    "id": 536576,
+    "IDcode": "JUFD-494",
+    "title": "爆乳人妻レズビアン～卑猥に络み合う欲求不満な肉体～ 中村知恵 杏美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231019/jufd494pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-494"
+  },
+  {
+    "id": 523222,
+    "IDcode": "JUFD-501",
+    "title": "波多野结衣- 男性社员専用肉便器オフィスレディ～性欲処理课に配属された新人巨乳～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250512/kzjcxhqy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-501"
+  },
+  {
+    "id": 536560,
+    "IDcode": "JUFD-507",
+    "title": "爆乳紧缚ハードレズビアン～美人OLの爆乳を狙う卑猥な女上司～ 穂高ゆうき 工藤美纱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231013/jufd507pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-507"
+  },
+  {
+    "id": 178610,
+    "IDcode": "JUFD-508",
+    "title": "暴露的痴汉公然被羞耻湿透的巨乳店员松本芽依沉溺于肉棒的快感中",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/2c770080/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-508"
+  },
+  {
+    "id": 536559,
+    "IDcode": "JUFD-517",
+    "title": "爆乳人妻レズビアン～痉挛絶顶を缲り返す女盛りの卑猥な肉体～ 小早川怜子 三喜本のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231013/jufd517pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-517"
+  },
+  {
+    "id": 536550,
+    "IDcode": "JUFD-526",
+    "title": "爆乳人妻レズビアン～浓密に交わり合う欲求不満な肉体～ 折原ほのか 水野朝阳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231012/jufd526pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-526"
+  },
+  {
+    "id": 499317,
+    "IDcode": "JUFD-530",
+    "title": "紧缚奴隶让她生拍卖会～麻绳交缠爆乳女教师淫肉体～ 七原朱莉 神村さつき MIFD_530",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/2e3b2fb602a43b2d092790eac99e7aed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-530"
+  },
+  {
+    "id": 536542,
+    "IDcode": "JUFD-539",
+    "title": "爆乳紧缚ハードレズビアン～美しい侄を诱惑する卑猥な叔母～ 莲実クレア 风间ゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231010/jufd539pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-539"
+  },
+  {
+    "id": 103389,
+    "IDcode": "JUFD-553",
+    "title": "最強の黒人巨根で絶頂！ハーレム3P爆乳挟撃SPECIAL 風間ゆみ 千乃あずみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "数位马赛克",
+      "荡妇",
+      "多P",
+      "黑人演员",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "2016-01-01",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jufd553/jufd553pl.jpg",
+    "actress": [
+      "風間由美",
+      "千乃杏美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-553"
+  },
+  {
+    "id": 213690,
+    "IDcode": "JUFD-559",
+    "title": "爆乳中出-中村知恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/01/d736ea26969d4ae496f747a4dc79bbb6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-559"
+  },
+  {
+    "id": 104386,
+    "IDcode": "JUFD-560",
+    "title": "巨根の虜-織田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "数位马赛克",
+      "乳交",
+      "巨乳",
+      "女上位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/07/17/5961f4833df7ee5e2b3d801c2a3fac69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-560"
+  },
+  {
+    "id": 96068,
+    "IDcode": "JUFD-569",
+    "title": "黒人肉弾FUCK-佳澄果穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "数位马赛克",
+      "多P",
+      "黑人演员",
+      "无码破解",
       "中出",
       "巨乳",
       "单体作品"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240327-1/283c4346b0e6cd139a6b6b4b7ea5774e.jpg",
-    "actress": [
-      "都月楓"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-125"
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240924-1/ec72b90c71f2c84331462248f77382a6.jpg",
+    "actress": [
+      "香澄果穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-569"
   },
   {
-    "id": 16005,
-    "IDcode": "MIAB-126",
-    "title": "淫蕩的服裝遮住了臉，神聖超大的奶子性愛全套課程",
+    "id": 469971,
+    "IDcode": "JUFD-581",
+    "title": "無毛全裸奴隷 被老公部下剃毛調教的爆乳妻 水野朝陽",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "蒙面・面罩",
-      "飯店",
-      "苗條",
-      "美少女",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "風俗娘",
-      "內衣",
-      "中出",
-      "後入",
-      "少女",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
+      "巨乳"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-03-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301064343942942.jpg",
-    "actress": [
-      "羽月乃蒼"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-126"
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c8f751d6fbef4e90ade05c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-581"
   },
   {
-    "id": 15999,
-    "IDcode": "MIAB-128",
-    "title": "穿絲襪的女老板橘瑪麗有一個大屁股，通過炫耀她鼓起的肛門來引誘我。",
+    "id": 79845,
+    "IDcode": "JUFD-628",
+    "title": "爆乳家政婦-国見みすず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "屁股",
+      "数位马赛克",
+      "流汗",
+      "乳交",
+      "巨乳",
+      "恋乳癖",
+      "各种职业"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/25/13160739909b58b6179a420809dc1b0c.jpg",
+    "actress": [
+      "国见みすず"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-628"
+  },
+  {
+    "id": 556583,
+    "IDcode": "JUFD-662",
+    "title": "想要吮吸 Ona 的女人 禁止的马鞍 禁止的壮阳药 美丽的巨乳 本田美咲 - 本田岬",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230601-1/c6a2dfe8af8f1d17e82d993b69dd3494.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-662"
+  },
+  {
+    "id": 79847,
+    "IDcode": "JUFD-700",
+    "title": "爆乳家政婦-乃南静香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "屁股",
+      "数位马赛克",
+      "流汗",
+      "乳交",
+      "巨乳",
+      "恋乳癖",
+      "各种职业"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/27/a193c2c570b504d0f888647f30a93285.jpg",
+    "actress": [
+      "イセドン内村",
+      "乃南静香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-700"
+  },
+  {
+    "id": 70739,
+    "IDcode": "JUFD-707",
+    "title": "巨根の虜-江藤ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "数位马赛克",
+      "乳交",
+      "巨乳",
+      "主观视角"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "江藤ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-707"
+  },
+  {
+    "id": 71051,
+    "IDcode": "JUFD-710",
+    "title": "上から目線で男を挟む淫語パイズリエステサロン 中村知恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数位马赛克",
+      "荡妇",
+      "乳交",
+      "巨乳",
+      "淫语",
+      "美容院"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1a5573731eb74dccf95a9660fe4a15cd.jpg",
+    "actress": [
+      "中村知恵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-710"
+  },
+  {
+    "id": 70957,
+    "IDcode": "JUFD-712",
+    "title": "真性中出40連発120分-塚田詩織",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "吞精",
-      "巨尻",
-      "口爆",
-      "豐滿",
-      "飯店",
-      "苗條",
-      "臀控",
-      "流汗",
-      "美腳",
-      "OL",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "女上司",
-      "性感",
-      "接吻",
-      "熟女",
-      "人妻",
-      "淫亂",
-      "內衣",
       "中出",
-      "蕩婦",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "自慰",
-      "乳交",
-      "肛交",
-      "黑絲",
-      "騎乗位",
-      "女同事"
+      "巨乳",
+      "淫语",
+      "滥交"
     ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "2024-03-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301092858109109.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "橘瑪麗"
+      "塚田詩織"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-128"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-712"
   },
   {
-    "id": 15975,
-    "IDcode": "MIAB-131",
-    "title": "在兼职的女友被巨汉店长强行留种NTR",
+    "id": 73239,
+    "IDcode": "JUFD-716",
+    "title": "究极痴女教师若菜奈央穿上丝袜解决学生的青春期的性爱烦恼",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "咖啡店",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "胸控・戀乳癖",
-      "美乳",
+      "单体作品",
+      "数位马赛克",
+      "荡妇",
+      "恋腿癖",
+      "无码破解",
       "巨乳",
-      "口交",
-      "性感",
-      "潮吹",
-      "NTR",
-      "淫亂",
-      "內衣",
-      "淫妻",
-      "中出",
-      "少女",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "騎乗位",
-      "女同事"
+      "高",
+      "猥亵穿着",
+      "连裤袜"
     ],
-    "type": "",
-    "company": "MOODYZ",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240327-1/740f2da7a2042f049bf913464798efae.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/4b1d75df00e9b8f50d7a571d71628298.jpg",
     "actress": [
-      "佐藤しお"
+      "若菜奈央",
+      "森林原人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-131"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-716"
+  },
+  {
+    "id": 104869,
+    "IDcode": "JUFD-722",
+    "title": "爆乳COSER蒲藤惠的粉丝感谢中出摄影会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演",
+      "数位马赛克",
+      "乳交",
+      "中出",
+      "巨乳",
+      "滥交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240601-1/365923578e0e07f0b5de0df76c18d6b3.jpg",
+    "actress": [
+      "藤浦惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-722"
+  },
+  {
+    "id": 219053,
+    "IDcode": "JUFD-739",
+    "title": "儿子好不容易交到的巨乳女友-めぐり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DREAMTICKET",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DREAMTICKET",
+        "works_count": 611
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-8/5735723eae16d72b6fd414863f174907.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-739"
   }
 ];

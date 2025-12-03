@@ -1,178 +1,365 @@
 window.PAGE_DATA = [
   {
-    "id": 509225,
-    "IDcode": "345SIMM-373",
-    "title": "りぃり(26)",
+    "id": 537732,
+    "IDcode": "277DCV-026",
+    "title": "家まで送ってイイですか？ case.26 ローソク、ムチ、首绞めに溺れた青春时代…。个性派サブカルドM女子は",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fbb87b68a098e332ee8a0e8e9e478613.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231122/pb_e_277dcv-026.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-373"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-026"
   },
   {
-    "id": 508927,
-    "IDcode": "345SIMM-376",
-    "title": "白衣の下はパイパンま●こ！エロボディ養護教諭が童貞チ●ポを筆おろし！エッチな保健の授業、教えます",
+    "id": 537731,
+    "IDcode": "277DCV-027",
+    "title": "家まで送ってイイですか？ case.27 同栖中の彼氏の布団でイキ果ててブチギレるアブノーマルな変态女子！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5e54127e1a4d6a85bf5a45be882586ec.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231122/pb_e_277dcv-027.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-376"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-027"
   },
   {
-    "id": 508894,
-    "IDcode": "345SIMM-377",
-    "title": "「年下の感じてる顔が好き」な保健室の先生が童貞筆おろし→生出しSEX2連発",
+    "id": 537730,
+    "IDcode": "277DCV-028",
+    "title": "家まで送ってイイですか？ case.28 ‘300人の変态とヤッてたら私も変态になっちゃいました…。’ロリロリ童颜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b1f89d1841a8611bc608e6e9532ba556.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231122/pb_e_277dcv-028.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-377"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-028"
   },
   {
-    "id": 508903,
-    "IDcode": "345SIMM-382",
-    "title": "姪っ子に迫られ自宅混浴。【Gカップむちエロ色白ボディー】に耐え切れず、そのまま風呂場で禁断のSEX！",
+    "id": 537653,
+    "IDcode": "277DCV-031",
+    "title": "家まで送ってイイですか？ case.31 大混雑の渋谷ハロウィンで见つけた博多弁讹りのほんわかビッチ！！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/df9cc156653f24d176724721b9deb99d.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231111/pb_e_277dcv-031.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-382"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-031"
   },
   {
-    "id": 509223,
-    "IDcode": "345SIMM-391",
-    "title": "coco",
+    "id": 537652,
+    "IDcode": "277DCV-032",
+    "title": "家まで送ってイイですか？ case.32 ‘お愿いオジサン…レ●プして？’加齢臭マニアのEカップコスプレイヤー现る！！ (あず希)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d430ab5388e5ec6f03b63dfc1a94c261.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231111/pb_e_277dcv-032.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-391"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-032"
   },
   {
-    "id": 509082,
-    "IDcode": "345SIMM-392",
-    "title": "れーちゃん(19)",
+    "id": 537651,
+    "IDcode": "277DCV-033",
+    "title": "家まで送ってイイですか？ case.33 资产30亿円、创业150年の某有名量贩店の娘！！ “私、亲の力は借",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/814b51c4442bef6d02e71b315a5a941f.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231111/pb_e_277dcv-033.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-392"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-033"
   },
   {
-    "id": 509256,
-    "IDcode": "345SIMM-395",
-    "title": "【美乳】顔面偏差値激高ギャルは恋愛偏差値激低！拘束固定バイブで奥手なギャルの性癖が開花する！？【美乳】",
+    "id": 537671,
+    "IDcode": "277DCV-037",
+    "title": "家まで送ってイイですか？ case.37 童颜からは想像できないド淫乱！シリーズNo.1の-イイ人-は、お愿いしたら断",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/22df2d8f2c09df051804a5a338ff5c9d.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-037.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-395"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-037"
   },
   {
-    "id": 509153,
-    "IDcode": "345SIMM-396",
-    "title": "体育会系J●をM字開脚で緊縛！固定バイブで連続アクメを決めながらチ●ポをおねだり★",
+    "id": 537670,
+    "IDcode": "277DCV-039",
+    "title": "家まで送ってイイですか？ case.39 クラブを沸かせる美人DJは硬派を気取るムッツリ敏感娘！その脳内は⇒音楽",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9026f759fa6c49aa8603851fc5e27f67.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-039.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-396"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-039"
   },
   {
-    "id": 509128,
-    "IDcode": "345SIMM-397",
-    "title": "サクラ",
+    "id": 537669,
+    "IDcode": "277DCV-040",
+    "title": "家まで送ってイイですか？ case.40 Fカップ现役グラドルは2016年1月に処女卒业后50人とヤった遅咲き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a9c625f72a9163ee017ddce6719b2c6c.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-040.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-397"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-040"
   },
   {
-    "id": 509269,
-    "IDcode": "345SIMM-398",
-    "title": "萌ちゃん(19)",
+    "id": 537668,
+    "IDcode": "277DCV-041",
+    "title": "家まで送ってイイですか？ case.41 アテンションプリーズ！！现役キャビンアテンダント登场！！ジムで锻えた色白美脚",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/558cf306bc0ea49a3971b8b869238e66.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-041.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-398"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-041"
   },
   {
-    "id": 508902,
-    "IDcode": "345SIMM-399",
-    "title": "圧倒的美爆乳のJ●がソープ体験「気持ち良くっておち●ちん欲しくなっちゃった」で中出し3連発！！！",
+    "id": 537667,
+    "IDcode": "277DCV-044",
+    "title": "家まで送ってイイですか？ case.44 関西№1のドMは泥酔ショーダンサー！！ 自由をこよなく爱し喜怒哀楽の-喜・楽-を",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-044.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-044"
+  },
+  {
+    "id": 537666,
+    "IDcode": "277DCV-045",
+    "title": "家まで送ってイイですか？ case.45 胸もとを见せびらかす超肉食黒ギャルは、三度の饭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-045.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-045"
+  },
+  {
+    "id": 537665,
+    "IDcode": "277DCV-047",
+    "title": "家まで送ってイイですか？ case.47 A○Bの指○似！！青森県出身おっとり娘⇒言叶责めでパンツを濡らす変态候补生！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-047.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-047"
+  },
+  {
+    "id": 537664,
+    "IDcode": "277DCV-048",
+    "title": "家まで送ってイイですか？ case.48 Per○umeあーちゃ○似の伊○丹勤务美容部员は、合コン后必ずヤれるノーガード女子！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-048.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-048"
+  },
+  {
+    "id": 564842,
+    "IDcode": "277DCV-051",
+    "title": "ドキュメンTV×PRESTIGE PREMIUM 家まで送ってイイですか？ 51 鹤井さん 木之前さん 里奈さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221230/bRjq7Hoy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-051"
+  },
+  {
+    "id": 347860,
+    "IDcode": "277DCV-054",
+    "title": "ドキュメンTV×PRESTIGE PREMIUM 家まで送ってイイですか？ 54 ①爱娇抜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230814/75zy2CCj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-054"
+  },
+  {
+    "id": 537624,
+    "IDcode": "277DCV-056",
+    "title": "家まで送ってイイですか？ case.56 ‘私、いろんなSEXがしてみたいんです！！お愿いだからイカせて下さい！！’",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231108/pb_e_277dcv-056.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-056"
+  },
+  {
+    "id": 537642,
+    "IDcode": "277DCV-058",
+    "title": "家まで送ってイイですか？ case.58 黄金比ボディを持つバツイチGカップ公务员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231109/pb_e_277dcv-058.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-058"
+  },
+  {
+    "id": 537641,
+    "IDcode": "277DCV-061",
+    "title": "家まで送ってイイですか？ case.61 THE・波乱万丈！経験人数1018人のポジティブヤリマンは出会い系に感谢する。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231109/pb_e_277dcv-061.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-061"
+  },
+  {
+    "id": 537640,
+    "IDcode": "277DCV-062",
+    "title": "家まで送ってイイですか？ case.62 生涯黒ギャル宣言！！アルコールの血が流れる黒ギャルは男胜りの性欲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231109/pb_e_277dcv-062.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-062"
+  },
+  {
+    "id": 537602,
+    "IDcode": "277DCV-071",
+    "title": "家まで送ってイイですか？ case.71 春高バレー出身！ドM九州代表！ムッツリ高身长女は",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231106/pb_e_277dcv-071.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-071"
+  },
+  {
+    "id": 537601,
+    "IDcode": "277DCV-074",
+    "title": "家まで送ってイイですか？ case.74 北九州の変态アウトロー！！チ○コ好きEカップ美巨乳娘の乳首は24时间ボッキ中！",
     "year": "",
     "country": "",
     "genre": "",
@@ -180,777 +367,603 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/26710eca4e18e2a82ee27ac88d96c568.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231106/pb_e_277dcv-074.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-399"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-074"
   },
   {
-    "id": 509083,
-    "IDcode": "345SIMM-400",
-    "title": "パイパンHカップのJ●ソープ嬢と生中SEX×3！！！「ドクドクしてるのが中で分かって凄く気持ち良かったですw」",
+    "id": 537600,
+    "IDcode": "277DCV-075",
+    "title": "家まで送ってイイですか？ case.75 地上最强の性欲-400人喰い-饥える超肉食系セレブ⇒现在贮金で生活-休息中の暇人",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0eaa2a0d93f8fde54737b37389c32f6d.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231106/pb_e_277dcv-075.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-400"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-075"
   },
   {
-    "id": 509003,
-    "IDcode": "345SIMM-401",
-    "title": "ムッツリ文系お嬢様！「チャームポイントはおっぱいです」自慢のG乳を引っさげてヌルヌルソープ体験！",
+    "id": 537575,
+    "IDcode": "277DCV-093",
+    "title": "家まで送ってイイですか？ case.93 榉●46长●ねる似の愈し系清楚美女！美颜・美肌・美脚のトリプルビューティー！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-093.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-093"
+  },
+  {
+    "id": 537574,
+    "IDcode": "277DCV-096",
+    "title": "家まで送ってイイですか？ case.96 超エリート才色兼备！博士を目指す研究员登场！⇒“私毎日男に饥えてるんです！”",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-096.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-096"
+  },
+  {
+    "id": 537573,
+    "IDcode": "277DCV-098",
+    "title": "家まで送ってイイですか？ case.98 饮み会で鼠径部(そけいぶ)を刺激！男を落とす性悪メソッド！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-098.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-098"
+  },
+  {
+    "id": 537572,
+    "IDcode": "277DCV-102",
+    "title": "家まで送ってイイですか？ case.102 下乳の女神！アイドル目指すGカップはイケばイクほど辉く！⇒镜の前で20年",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-102.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-102"
+  },
+  {
+    "id": 537571,
+    "IDcode": "277DCV-106",
+    "title": "家まで送ってイイですか？ case.106 チ〇コに狂った栃木のドM！自己犠牲がキモチいい究极の“尽くす女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-106.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-106"
+  },
+  {
+    "id": 537570,
+    "IDcode": "277DCV-107",
+    "title": "家まで送ってイイですか？ case.107 现役アイドル(研究生)はオナニードランカー＠肉棒大好きアイドル。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-107.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-107"
+  },
+  {
+    "id": 537569,
+    "IDcode": "277DCV-108",
+    "title": "家まで送ってイイですか？ case.108 ‘私より可爱い女はいない！’颜面パーフェクト保育士はイケばイクほど美しい！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-108.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-108"
+  },
+  {
+    "id": 537494,
+    "IDcode": "277DCV-129",
+    "title": "家まで送ってイイですか？ case.129 露出プレイ、ハードSMなんでも来いや～！ド変态ヘルパー登场！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231024/pb_e_277dcv-129.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-129"
+  },
+  {
+    "id": 521577,
+    "IDcode": "277DCV-133",
+    "title": "エステティシャン(ヘッドスパ勤务) 树里さん 22歳 家まで送ってイイですか？ case.133",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/869e75afe2deb2b3fd493c58e232ca09.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-133"
+  },
+  {
+    "id": 82714,
+    "IDcode": "277DCV-134",
+    "title": "家まで送ってイイですか？ case.134 全身ラバースーツ！淫乱リアル不○子ちゃん！1000のディルドを持つ&quot;人間秘宝館&quot;膣内ムッキムキ！締まりにコミットする膣内トレーニング自ら編み出した秘技…大量セルフ潮吹き絶叫！うなる電動マシンバイブ愛する家族…傷だらけの義父に感謝の涙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2023-03-06",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/d536cf709b5795a86855f40a1b5b062b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-134"
+  },
+  {
+    "id": 521578,
+    "IDcode": "277DCV-135",
+    "title": "ナナミさん_アラサー女子_保育士&キャバ嬢 家まで送ってイイですか？ case.135",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/16eb6acc08638cfd01852c645f45fcf7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-135"
+  },
+  {
+    "id": 407442,
+    "IDcode": "277DCV-138",
+    "title": "家まで送ってイイですか case.138 アナル開発10000人！五反田指名No.1“前立腺の魔術師”登場！美魔女！アラフォーFカップシリーズNo.1のテクニック！死ぬほど気持ちイイ凄テク最愛の彼に背を向けて…あふれる熱い涙(002)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-05-31",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cc896913e9b3d9df761fb729a29298c3.jpg",
+    "actress": [
+      "相浦茉莉花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-138"
+  },
+  {
+    "id": 407351,
+    "IDcode": "277DCV-139",
+    "title": "家まで送ってイイですか case.139 淫語120％オンナ！SEXしながら嬉し泣き！感情SEX泣きマ〇コ！&amp;quot;2分に1回不幸話&amp;quot;自称日本一不幸なオンナ&amp;quot;学生時代から肉便器&amp;quot;壮絶な過去『愛してます』愛情トランス！キメセク絶頂！(002)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-139"
+  },
+  {
+    "id": 525245,
+    "IDcode": "277DCV-140",
+    "title": "家まで送ってイイですか？ case.140 こんなスゴいカラダ见たことがない！B99W56H89…奇迹のパーフェクトボディ！⇒フラ○デー激写事件！プロ野球选手キラー！在京球団喰いつくす！⇒これぞ！イケてるオンナ！世界40か国セレブ旅行！⇒SEXもオナニーも秒杀でイク！ドイツ制高级电マで下品にイク！白目でイク！⇒爱人としての覚悟…人生で唯一の败北と涙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-06-21",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/434ab2dc16820a1f849168b489033073.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-140"
+  },
+  {
+    "id": 521756,
+    "IDcode": "277DCV-142",
+    "title": "家まで送ってイイですか？ case.142 シリーズ最强のセックスモンスター！10P・20P・レズでも何でも来い！チンコ以外は兴味ない！⇒リアルハメ撮り动画一挙公开！⇒青森原产雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190928-1/20b6f0ef546bbb63a204027d5b07562f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-142"
+  },
+  {
+    "id": 538708,
+    "IDcode": "277DCV-143",
+    "title": "家まで送ってイイですか？ case.143 シリーズ初の中出し！3年ぶりのSEXで感じまくる超ビンカン娘！⇒経験人数2人！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-143"
+  },
+  {
+    "id": 521813,
+    "IDcode": "277DCV-144",
+    "title": "家まで送ってイイですか？ case.144 これぞ絶顶イキまくりの确率変动！ウルトラハイパークソビッチ！ぶっ飞び凭依型！白目イキ！⇒永○芽郁似！清楚と见せかけこのギャップ！ガーターベルトが戦闘服！⇒被害総额300万！ダメ男と私のドロ沼事情⇒全身クリトリス！全身Gスポット！⇒祖母想い涙…破れた梦と一册の文库本",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191229-1/72c5fb5ecdf7ab74063a8882915a4d85.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-144"
+  },
+  {
+    "id": 521906,
+    "IDcode": "277DCV-149",
+    "title": "家まで送ってイイですか？ case.149 地元の男と全员ヤッた！？Fカップ黒ギャルヤリマン伝说⇒夏は湘南！今年ヤッた人数…ナンパ待ち・逆ナン！男を狩る！⇒稼いだ金は酒と男に消える快楽主义⇒5秒见つめ合うだけで入るエロスイッチ⇒浓厚ベロチュウ下腹部痉挛⇒‘私、SEXの为に生きる’⇒元ヤンキー、就职先、居场所ナシ。⇒\"ビッチな遗伝子\"絶縁状态の母からの连络",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200528-1/d4869f2fcb8709679fd36fccfca4f83d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-149"
+  },
+  {
+    "id": 521881,
+    "IDcode": "277DCV-150",
+    "title": "家まで送ってイイですか？ case.150 渋谷ハロウィン2019！エロコスだらけの酒池肉林スペシャル！“家、ついて行って中出ししてもイイですか？”⇒ほぼ全裸！渋谷で一番露出する女⇒“娯楽なんかセックスだけ”离岛出身の都市伝说⇒推定Fカップ！悪魔のように吸い付くカラダ⇒気持ちよすぎて暴発！生ハメ中出し⇒母の背中に憧れて…15歳の决意と涙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200504-1/6503927725ad21d2f0a96c99d5ae6b45.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-150"
+  },
+  {
+    "id": 407461,
+    "IDcode": "277DCV-151",
+    "title": "家まで送ってイイですか case.151 シリーズ最大のド淫乱モンスター！玄関開けたら2秒で即尺！！最速にして最淫…タクシー内で逆セクハラ経験人数2000人！目指せ！10000人永遠の愛を求め日夜SEXに励むドM変態！痛みも快楽イキまくり！10000万回イク！突然、涙の生い立ち…初めて触れた小さな愛(0002)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/77cc510d625952c085d8fbb02977be4e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-151"
+  },
+  {
+    "id": 75786,
+    "IDcode": "277DCV-152",
+    "title": "留学生美女姐姐的变态请求",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳"
+      "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1645a304d2a6d5cfd3983862f5c63253.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-401"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-152"
   },
   {
-    "id": 508997,
-    "IDcode": "345SIMM-403",
-    "title": "なおちん",
+    "id": 407437,
+    "IDcode": "277DCV-154",
+    "title": "ほとんどのタトゥー女は天性のドM",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6e306644111cc7e87b4bf7f507dab23c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f8f520d797151810041addc71f2f9750.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-403"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-154"
   },
   {
-    "id": 509244,
-    "IDcode": "345SIMM-404",
-    "title": "こはる",
+    "id": 407418,
+    "IDcode": "277DCV-157",
+    "title": "カリギゅラfile.04_顔を隠す女＠超有名弁護士",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f23c76680bcc9695a462009fcfe7dc8c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1da7cef9636b48eed5cffceb9e45a13a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-404"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-157"
   },
   {
-    "id": 509049,
-    "IDcode": "345SIMM-405",
-    "title": "媚薬で完堕ちキメセク痙攣絶頂！シャッター音すら快感に変える敏感新人グラドル",
+    "id": 574896,
+    "IDcode": "277DCV-158",
+    "title": "カリギゅラfile.05_骗されちゃいけない！これが本当のAV女优！‘私はエロの神！本当の",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0ea74df69162dbf1cf26b6a2fcaa69e6.jpg",
+    "cover_url": "https://sex8sex811.com/20250915/6T8ye020/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-405"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-158"
   },
   {
-    "id": 509185,
-    "IDcode": "345SIMM-406",
-    "title": "美少女グラドルが媚薬で完堕ち！絶頂が止まらない感度MAXマ●コを生ハメ。特農精子4発出したったwww",
+    "id": 574895,
+    "IDcode": "277DCV-159",
+    "title": "カリギゅラfile.06【これは整形女子という新ジャンル】AV业界激震！整形女子は超エロい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/85f4cb2f7a8a032eed00a9bc0fdd26a3.jpg",
+    "cover_url": "https://sex8sex811.com/20250915/wSiTYVJq/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-406"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-159"
   },
   {
-    "id": 509148,
-    "IDcode": "345SIMM-407",
-    "title": "媚薬発情で痙攣イキしまくる美少女グラドル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b02bfcfc84b3ea294667b5f23dd8b20.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-407"
-  },
-  {
-    "id": 541213,
-    "IDcode": "345SIMM-418",
-    "title": "“先生、中に出していいよ”美少女J●が担任の先生を诱惑して全精子榨取SEX！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200806-1/08785d4b760cfb82bbdb98e0ec158dd5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-418"
-  },
-  {
-    "id": 538466,
-    "IDcode": "345SIMM-421",
-    "title": "ましろ と リカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240424/pb_e_345simm-421.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-421"
-  },
-  {
-    "id": 443414,
-    "IDcode": "345SIMM-423",
-    "title": "【Kカップ】超巨乳むちエロナースのぬるぬる施術！チポを包み込む極上のパイズリで夢心地",
+    "id": 530836,
+    "IDcode": "277DCV-161",
+    "title": "家まで送ってイイですか case.155 超スペシャル回！予期せぬ事态！まさかの彼氏登场！マ〇コ夺い合い！これが本当のNTRセックス嫉妒でイキまくる！ハプバー大好きド変态カップル！浮気盗撮指令…元カレとのアダルト生配信彼に悪いと言いながら…情热的イラマ…情热的骑乘位…チ〇コだったら何でもいい！将来は二人で小さな店を持ちたい(0002)1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳"
+      "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/04d0ccc51bc555e4a929086b86fc0b53.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-423"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-161"
   },
   {
-    "id": 535771,
-    "IDcode": "345SIMM-426",
-    "title": "June と まさき",
+    "id": 407392,
+    "IDcode": "277DCV-163",
+    "title": "家まで送ってイイですか？ case.157 「出会い系がやめられない！」一日一本ヤリマン伝説！ 出会って2秒で恋に落ちる！絶頂トランス状態突入…チ〇コを見るや目がハート！チ〇コを挿れるや目がトリップ！桃尻美ケツ！20歳の美肌！バレエ仕込みの軟体ぐにゃぐにゃハメ潮マ〇コ九死に一生の過去…消せない傷を背負う女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231121/pb_e_345simm-426.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f330580350f4c55e2894a0d9ccf4a189.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-426"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-163"
   },
   {
-    "id": 541214,
-    "IDcode": "345SIMM-428",
-    "title": "黒ギャルの淫尻に即ズボ&中出し！“责任取って満足させてよ”金玉がカラになるまで榨り取られ计4回中出しセックス！",
+    "id": 58255,
+    "IDcode": "277DCV-164",
+    "title": "一个为男人付出一切的神秘女子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200806-1/a3f9145cf5aa4c0223f695a71005ee0b.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-428"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-164"
   },
   {
-    "id": 530327,
-    "IDcode": "345SIMM-431",
-    "title": "【喉イキ】贫乳お嬢様が初めてのイラマチオに挑戦！喉奥ピストン→快楽堕ちで连続中出し【PtoM】",
+    "id": 520243,
+    "IDcode": "277DCV-168",
+    "title": "【有码】-24歳休息室",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200801-1/1317b254e1240443cf9028e899768738.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-431"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-168"
   },
   {
-    "id": 59659,
-    "IDcode": "345SIMM-447",
-    "title": "慢慢挑逗刚入职不久的美女按摩师一步一步将她骗上床",
+    "id": 519764,
+    "IDcode": "277DCV-169",
+    "title": "【有码】香纯小姐、25歳美容院仕事",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/07/86a069a26a7f394231bd5b2b232198c6.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-447"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-169"
   },
   {
-    "id": 538428,
-    "IDcode": "345SIMM-469",
-    "title": "クール系美少女に种付けプレス生中出し！！",
+    "id": 177515,
+    "IDcode": "277DCV-170",
+    "title": "可以送你回家吗AV剧组掏钱打车送服务搭讪拍片",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240414/1595412656-pb_e_345simm-469.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-469"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-170"
   },
   {
-    "id": 538415,
-    "IDcode": "345SIMM-470",
-    "title": "褐色ボーイッシュ巨乳に种付けプレスで生中出し！！！",
+    "id": 591513,
+    "IDcode": "277DCV-171",
+    "title": "【】柳田21歳女孩酒吧店员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240410/1595515609-pb_e_345simm-470.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-470"
-  },
-  {
-    "id": 559830,
-    "IDcode": "345SIMM-492",
-    "title": "艾丽卡",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250417-1/94f0b586c8ac917d74bdb995f84315e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-492"
-  },
-  {
-    "id": 559831,
-    "IDcode": "345SIMM-505",
-    "title": "科学",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/23/45155_cover_2025-06-23_201225.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-505"
-  },
-  {
-    "id": 522388,
-    "IDcode": "345SIMM-520",
-    "title": "Gカップ巨乳の読モJDハメ撮り撮影会！！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/56bfc94116ffa2936acde9d6120b4f5e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-520"
-  },
-  {
-    "id": 522386,
-    "IDcode": "345SIMM-521",
-    "title": "清楚なJ○の放课后はおじさんだけの従顺ペッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/199d037e825e78f2edd9cbb832717067.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-521"
-  },
-  {
-    "id": 522385,
-    "IDcode": "345SIMM-522",
-    "title": "ヤリマンJ○とキメセク円光お完堕ち3连続中出しオネダリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/fdaed0d128c3e55a91774625f8ee2f08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-522"
-  },
-  {
-    "id": 196914,
-    "IDcode": "345SIMM-545",
-    "title": "借网络访谈为名把自慰棒插入路上的学生妹让她下面泛滥后带到宾馆无套内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/21/78a1b91726f70645b5e11f13ca6ccac3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-545"
-  },
-  {
-    "id": 196907,
-    "IDcode": "345SIMM-548",
-    "title": "哥哥时间匆忙我代替她和美女嫂子野营拍下无套打炮作为约定",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/21/a0e4b36038ccd6eb3c20ff07958721c3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-548"
-  },
-  {
-    "id": 196924,
-    "IDcode": "345SIMM-551",
-    "title": "和美女G乳嫂子的乱伦偷情内射性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/17/06138c61e4da1c9c0e9e89f586542ded.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-551"
-  },
-  {
-    "id": 196927,
-    "IDcode": "345SIMM-552",
-    "title": "童颜巨乳校服女孩脱去制服换上浴衣内射性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/17/9a729462e464950e63fa2eb126b4fe6a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-552"
-  },
-  {
-    "id": 196922,
-    "IDcode": "345SIMM-553",
-    "title": "邀请21岁母性泛滥的美女大学生帮素人处男破处",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/17/06648ef7/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-553"
-  },
-  {
-    "id": 196923,
-    "IDcode": "345SIMM-554",
-    "title": "用一个月房租把20岁G乳美女骗去帮男生破处",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳",
+      "中文字幕",
       "嫩妹"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/17/3149b471779158fcc95e197c19c00245.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-554"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-171"
   },
   {
-    "id": 196820,
-    "IDcode": "345SIMM-562",
-    "title": "黑发正统派美少女出轨性爱背着男友超浓二连发",
+    "id": 175466,
+    "IDcode": "277DCV-172",
+    "title": "催眠后的绝顶痉挛淫乱性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/19/c644b8362215a910c38fb84198c12b19.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/23/6f43d2aec5ef70858262d82cf23a3d86.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-562"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-172"
   },
   {
-    "id": 196826,
-    "IDcode": "345SIMM-564",
-    "title": "贫乳OL和巨根上司在家中的偷情视频",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/19/fa03ef6a2ac5485ec54b61c4d3d37fb6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-564"
-  },
-  {
-    "id": 196823,
-    "IDcode": "345SIMM-565",
-    "title": "新人美尻OL喝完酒后和上司的关系更上一层楼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/19/10c6d391c97376b0da54dc2989480915.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-565"
-  },
-  {
-    "id": 196897,
-    "IDcode": "345SIMM-567",
-    "title": "让超可爱的校服女孩换上女仆装口爆做爱上下两个穴都内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/21/e76e3725ee1668956ccc14ba6085879f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-567"
-  },
-  {
-    "id": 196769,
-    "IDcode": "345SIMM-569",
-    "title": "模特系苗条身材人妻搔首弄姿欲求外人鸡巴的自家不伦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/3b0e69124848766d521997149767f154.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-569"
-  },
-  {
-    "id": 196851,
-    "IDcode": "345SIMM-572",
-    "title": "天真无邪小美在大叔男友家第一次SEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/20/86ff2fa7ff671cff26b57796dceda983.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-572"
-  },
-  {
-    "id": 196842,
-    "IDcode": "345SIMM-573",
-    "title": "和高身长x童颜的美容师密室里的禁断行为",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/aa1d2285/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-573"
-  },
-  {
-    "id": 196848,
-    "IDcode": "345SIMM-574",
-    "title": "超苗条痴女拜托心理咨询师的内腔净化",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/c733175a/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-574"
-  },
-  {
-    "id": 196847,
-    "IDcode": "345SIMM-575",
-    "title": "本想享受极乐美容却换成了性感按摩蒙眼状态下的口交和生插入",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/5c278dc2/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-575"
-  },
-  {
-    "id": 196796,
-    "IDcode": "345SIMM-576",
-    "title": "痴女理疗师吃定客人的秘密精油按摩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/9653aa8e742b7cbeed5f0fa56abc1be7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-576"
-  },
-  {
-    "id": 196774,
-    "IDcode": "345SIMM-577",
-    "title": "爽朗的可爱大叔控其实是下流的女色鬼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/597e6f349cb7f4375896a2d1fe0d6fe3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-577"
-  },
-  {
-    "id": 196778,
-    "IDcode": "345SIMM-578",
-    "title": "与家庭教師4連中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/62d5e1e5a93a3522f2924e922d0f51b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-578"
-  },
-  {
-    "id": 196752,
-    "IDcode": "345SIMM-579",
-    "title": "美少女学生和家庭教师生插中出强力性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/d344063f/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-579"
-  },
-  {
-    "id": 196768,
-    "IDcode": "345SIMM-587",
-    "title": "真的是可愛系美少女握住鸡巴代替话筒床上大絶唱甘甜性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/8509eb5fe07c057e508b6b155e95de5b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-587"
-  },
-  {
-    "id": 196765,
-    "IDcode": "345SIMM-588",
-    "title": "優等生大小姐学生的本性是",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/1737c3f0d4347a42f24a3de0d289b518.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-588"
-  },
-  {
-    "id": 196680,
-    "IDcode": "345SIMM-590",
-    "title": "與蘿莉JK在酒店夜間約會",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/03/e3b314397f768e6c47ae69f00c1ad7c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-590"
-  },
-  {
-    "id": 196661,
-    "IDcode": "345SIMM-591",
-    "title": "把第一次見面的苗條美少女帶回家",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/03/dec8f9dd/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-591"
-  },
-  {
-    "id": 196679,
-    "IDcode": "345SIMM-592",
-    "title": "把白皙巨乳妹子帶回家",
+    "id": 175471,
+    "IDcode": "277DCV-173",
+    "title": "奶子热狂者必見从没见过这种魔幻的H罩杯",
     "year": "",
     "country": "",
     "genre": "",
@@ -958,244 +971,171 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/03/d3b61af94a1dd0614db62ec82dd38ea1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-592"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-173"
   },
   {
-    "id": 196648,
-    "IDcode": "345SIMM-593",
-    "title": "被帶回家偷窺卻對奇聞趣事沒意見的下流女大學生的密集第3回合",
+    "id": 175231,
+    "IDcode": "277DCV-174",
+    "title": "小孩角色时期风靡一时有名青春剧多数出演的前偶像",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/03/7e0066cd/vod.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/29/703b7ab5/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-593"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-174"
   },
   {
-    "id": 196662,
-    "IDcode": "345SIMM-594",
-    "title": "天才女牛仔登場",
+    "id": 591657,
+    "IDcode": "277DCV-187",
+    "title": "可以送我到家吗？露出？野外",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/03/57a3b03b2d2e1eeb6961c198e39bf2d5.jpg",
+    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240830-1/083b8719ccc4145bdcf041f8868f2d2e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-594"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-187"
   },
   {
-    "id": 196641,
-    "IDcode": "345SIMM-596",
-    "title": "和我聽話的姐姐一起做爱",
+    "id": 519837,
+    "IDcode": "277DCV-194",
+    "title": "太漂亮的意大利厨师的房子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/021378e8ee15493a9de0e86a5b0a4f77.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-194"
+  },
+  {
+    "id": 519669,
+    "IDcode": "277DCV-195",
+    "title": "性背叛我心爱的男朋友",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/37562d0bcec1aee095d39327b76272d9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-195"
+  },
+  {
+    "id": 519932,
+    "IDcode": "277DCV-202",
+    "title": "国宝级G杯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/27ab4d2abfa2dd4351bd89b2d147dbd8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-202"
+  },
+  {
+    "id": 535675,
+    "IDcode": "277DCV-207",
+    "title": "家まで送ってイイですか？case.201 新章开幕【SEXの上手い女と男が乱入SP】究极！女男女の逆3P！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230517/pb_e_277dcv-207.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-207"
+  },
+  {
+    "id": 574897,
+    "IDcode": "277DCV-208",
+    "title": "家まで送ってイイですか？case.202【升天回数325回！まるでシ○ブやってんの？】SE",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250915/EQNYKSOh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-208"
+  },
+  {
+    "id": 481037,
+    "IDcode": "277DCV-209",
+    "title": "家まで送ってイイですか？case.203【家庭的で亲想いで优しい…理想の娘】男に超ルーズ！チ●コ頬ずりするスケベ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240919-1/83434517791e4b2d40d1d112f95d612e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-209"
+  },
+  {
+    "id": 535681,
+    "IDcode": "277DCV-210",
+    "title": "家まで送ってイイですか？case.204【婚前なのに大乱交】女も男もどっちもLOVE！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦"
+      "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/03/e379d006/vod.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230608/pb_e_277dcv-210.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-596"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-210"
   },
   {
-    "id": 196673,
-    "IDcode": "345SIMM-598",
-    "title": "當她的父母離開時和她的巨大I杯妹妹3中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/03/6b184bd70050c02aeb76f990bd510ad4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-598"
-  },
-  {
-    "id": 196675,
-    "IDcode": "345SIMM-599",
-    "title": "美麗的乳房色情屁股姐姐在她父母睡覺時滾動",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/03/f9bd022200b648a294a7edbaf78d0995.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-599"
-  },
-  {
-    "id": 196674,
-    "IDcode": "345SIMM-600",
-    "title": "與華麗的巨乳JK的不雅之夜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/03/357117dcab9ee0243c125678c7547f7a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-600"
-  },
-  {
-    "id": 196642,
-    "IDcode": "345SIMM-601",
-    "title": "每天在家被苗條人妻勾引",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/03/d075a3eb/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-601"
-  },
-  {
-    "id": 196647,
-    "IDcode": "345SIMM-602",
-    "title": "太色情的年輕婆婆和秘密戴綠帽奇聞趣事SEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/03/ef120246/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-602"
-  },
-  {
-    "id": 517916,
-    "IDcode": "345SIMM-636",
-    "title": "初次的遙控跳蛋野外玩法",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20962cf22ae3e04a81b72/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-636"
-  },
-  {
-    "id": 519846,
-    "IDcode": "345SIMM-666",
-    "title": "[容易交付型Muchimuchi J○] 女子棒球部队长Anna-chan是全身Muchimuchi的现役运动员女孩○学生！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/d6abc0ff48641e30d1dd552156c1e0b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-666"
-  },
-  {
-    "id": 79798,
-    "IDcode": "345SIMM-668",
-    "title": "【肉感美尻の美少女J○】エロ同人作家のおじさんとお付き合いしている现役女子校生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/8fb75337e6acee960dc7eefaf03c3404.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-668"
-  },
-  {
-    "id": 214653,
-    "IDcode": "345SIMM-671",
-    "title": "摆拍的处女毕业",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/27/ed4570142eae09af63fd939950cc7301.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-671"
-  },
-  {
-    "id": 520065,
-    "IDcode": "345SIMM-677",
-    "title": "挑战裸照的美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/b0f9dcd6095a645db03433a4542b687f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-677"
-  },
-  {
-    "id": 80127,
-    "IDcode": "345SIMM-678",
-    "title": "101cmJカップ！関西弁の美爆乳JK大量潮吹き、エロさも规格外",
+    "id": 574894,
+    "IDcode": "277DCV-211",
+    "title": "家まで送ってイイですか？case.205 Icup爆乳美女は肉食系ビースト！‘●罪●●ない",
     "year": "",
     "country": "",
     "genre": "",
@@ -1203,309 +1143,53 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-05",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/7d42ac4ac2985a593e515b02302674d1.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250915/3zUcYOT4/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-678"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-211"
   },
   {
-    "id": 80479,
-    "IDcode": "345SIMM-681",
-    "title": "【Hカップのド伟い神乳J○とイチャラブハメ撮り】※※おっぱい好き必见！※※特盛りデカメロンに挟まれてフル勃起チ●コもご満悦w揉みまくり、舐めまくり、挟みまくりのおっぱい尽くしの生ハメSEX2回戦！【亲子ほど年の离れたJ○とおじさんのカップル】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-04",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/691f5ddc2566c3087f0cb8bbc1b1dfa3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-681"
-  },
-  {
-    "id": 80670,
-    "IDcode": "345SIMM-692",
-    "title": "纤细巨乳少女",
+    "id": 89530,
+    "IDcode": "277DCV-212",
+    "title": "家まで送ってイイですか？case.206【全身ル○・ヴ○トン総額￥500万！港区セレブファッキンビッチ！】まるでメデューサ！ずっと目ガン開きアイコンタクトSEX！⇒酒がスイッチ！超敏感体質…ポルチオ舌出し痙攣イキ！⇒「私よりうまい奴はいない！」G乳圧迫パイズリ！⇒浪花節だよ人生は…壮絶DV元彼…好きになったら死んでもいい (唯奈みつき)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
+      "高清画质",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ae3688743ebf69b048020d63a410efce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-692"
-  },
-  {
-    "id": 80745,
-    "IDcode": "345SIMM-694",
-    "title": "生松鼠与依恋小姐的交涉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/a0236a4dd04e3315ecf5f3e0c872a480.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-694"
-  },
-  {
-    "id": 80755,
-    "IDcode": "345SIMM-695",
-    "title": "Rさん＠六本木【お姉さん/美脚/ロングブーツ/ミニスカ/Tバック】#パンチラ盗撮#电车痴汉#自宅侵入#睡眠奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "痴汉",
-      "高清画质"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-05-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/4bd213700666208a7346d7d7ea55b6c4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-695"
-  },
-  {
-    "id": 80841,
-    "IDcode": "345SIMM-697",
-    "title": "睡在胸口上射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/fb42cd4323489f0879ee0fe87c22cc7e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-697"
-  },
-  {
-    "id": 80580,
-    "IDcode": "345SIMM-699",
-    "title": "睡觉强奸胸部射击",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/f02479573aeaf81342173bc825b01c4a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-699"
-  },
-  {
-    "id": 519933,
-    "IDcode": "345SIMM-700",
-    "title": "连续粘液与油紧密接触",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/cbb7f43760077dc94e7baf81dd68d69e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/89e46507a8eee657b02fa476ed86f340.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-700"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-212"
   },
   {
-    "id": 87977,
-    "IDcode": "345SIMM-750",
-    "title": "学校に一人いるかいないかレベルの美少女をホ別5でお買い上げ！可愛さとスレンダーを兼ね備えた大当たりJ系が来てくれたので、欲望のままにガン突き交尾してきました！",
+    "id": 57942,
+    "IDcode": "277DCV-213",
+    "title": "家まで送ってイイですか？ case.207【橋本●奈似！顔で抜ける美顔】黒髪ロングのCOOL美女だが…脳イキ！脳覚醒！瞳孔ガン開き…目がイッ●る！1秒間17回イキ！常時絶頂トランス状態…絶頂の向こう側SP⇒迷ったら左へ！挿ったら中イキ！測定不能！推定無限大イキ！⇒イキ過ぎて「イクッ」って言えない⇒元彼が忘れられない…今でも続く不思議な関係",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fa492f56ab58ac752d26074f8f361c28.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/8a62032329e14221454a1398d4d1adc1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-750"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-213"
   },
   {
-    "id": 576091,
-    "IDcode": "345SIMM-754",
-    "title": "ひより(18)_颜面偏差値Sランクの不思议ちゃんJ♪【1限目】耻ずかしがってぬいぐるみを离さない彼女に电マ责め&潮吹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230415/pb_e_345simm-754.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-754"
-  },
-  {
-    "id": 481036,
-    "IDcode": "345SIMM-755",
-    "title": "学级委员系のメガネっ娘を谕吉パワーでハメ撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240919-1/b484f2bf150ea68575bc45da37d91a00.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-755"
-  },
-  {
-    "id": 73990,
-    "IDcode": "345SIMM-776",
-    "title": "こずえ(18)/顔より大きいバイブ突っ込んでガチイキしちゃうツンデレJ●【1限目】バイブオナニーがマイブーム♪スクールバッグから取り出し公開オナ→イッたばっかの敏感マ●コにセフレの巨ちん挿入！絶頂痙攣&amp;潮吹き→無責任膣内射精【2限目】人生初のコスプレにテンション爆上がり！『えっちしたいニャン♪』雌豹に変身...///本能のままナマ交尾→顔射フィニッシュ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-10-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250119-1/f2b725a6afeda123cb83833cdb1d6913.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-776"
-  },
-  {
-    "id": 489475,
-    "IDcode": "345SIMM-778",
-    "title": "じゅん(18)下ネタと性欲が止まらない、もはや存在が18禁のJ♪【1限目】デート中にも関",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240919-1/2614033e8d61495eedbd9f286d2b7253.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-778"
-  },
-  {
-    "id": 497471,
-    "IDcode": "345SIMM-779",
-    "title": "V「彼氏に言われて来ました」彼氏に円光させられてる可哀想なGカップ女子に、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/06ac45b987d76c0f5baaf6ca03dfbb3a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-779"
-  },
-  {
-    "id": 497476,
-    "IDcode": "345SIMM-785",
-    "title": "143cmのランドセル卒业したてにしか见えない女の子。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0326b11f53c72eebfbb29db990bb6ee1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-785"
-  },
-  {
-    "id": 572284,
-    "IDcode": "345SIMM-788",
-    "title": "さき18／童颜なのにGカップのロリJ♪【1限目】ホテイン即エッチ开始！美乳开放で乳首责めしたらウットリシットリおま●この完成♪そのまま生S",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://pic42.anzise.com/pic/20221229/2b501478e617ff19d0c05089d03026ae/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-788"
-  },
-  {
-    "id": 576156,
-    "IDcode": "345SIMM-790",
-    "title": "Hカップの真面目な生徒会长！溢れる潮吹きがとまらない高身长J○に中出し＋2回戦したのにたったの3万円！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230714/pb_e_345simm-790.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-790"
-  },
-  {
-    "id": 537263,
-    "IDcode": "345SIMM-798",
-    "title": "セックス依存症の地雷系J♪潮吹いてイキまくるぴえんマ●コに、パパ活オジサンがめちゃくちゃ中出ししててし",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230818/pb_e_345simm-798.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-798"
-  },
-  {
-    "id": 532701,
-    "IDcode": "345SIMM-799",
-    "title": "[] さつき(18)_久しぶりの再会で彼氏へのスキが止まらないデカ乳J♪【1限目】一途な彼女",
+    "id": 532652,
+    "IDcode": "277DCV-214",
+    "title": "[] 家まで送ってイイですか？case.212【年末长编SP】ド変态レベルシリーズ隠れナンバーワン！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1514,16 +1198,204 @@ window.PAGE_DATA = [
       "无码"
     ],
     "type": "无码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230714/pb_e_345simm-799.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230517/pb_e_277dcv-214.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-799"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-214"
   },
   {
-    "id": 532692,
-    "IDcode": "345SIMM-801",
-    "title": "声がかわいい隠れ巨乳のショートカットJ♪！引っ込み思案でもち○ぽのしゃぶり方は知ってるみたいです！",
+    "id": 574898,
+    "IDcode": "277DCV-215",
+    "title": "家まで送ってイイですか？ case.209【1秒先が全く読めない】幻のセクモン、超レアギャ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250915/37YxQbA7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-215"
+  },
+  {
+    "id": 574885,
+    "IDcode": "277DCV-216",
+    "title": "家まで送ってイイですか？ case.208【W杯直前SP】まるで青森○田のサッカー选手！サ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250916/YQegj7z8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-216"
+  },
+  {
+    "id": 574884,
+    "IDcode": "277DCV-217",
+    "title": "家まで送ってイイですか？case.213【新春SP】2023年1発目はクソエロサブカル女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250916/Qu7Yo5xx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-217"
+  },
+  {
+    "id": 73473,
+    "IDcode": "277DCV-218",
+    "title": "家まで送ってイイですか？ case.210【SEXなんて大嫌い！】→【SEXが死ぬほど好き】奇跡の大逆転！！⇒腹イキ調教！ノーハンド裏ポルチオ！総イキ1000回！すでに脳イキ！イキすぎて足が吊る…ただすぐ復活！ずっとSEXできる！無限大体力！だから無限大絶頂⇒挿入中、ずっと男の目を見つめてる！「SEXしてる時だけ男好き」⇒探偵直伝、盗撮&amp;浮気の言い訳マル秘テクニック！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240919-1/2d99e4ff8dd27e8b1fb81ada3a4136fd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-218"
+  },
+  {
+    "id": 574886,
+    "IDcode": "277DCV-219",
+    "title": "家まで送ってイイですか？case.211 まるでテ●东の女子アナか？【清楚·透明感·天然美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250916/1IEs4E3d/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-219"
+  },
+  {
+    "id": 532716,
+    "IDcode": "277DCV-220",
+    "title": "家まで送ってイイですか？case.214【3・2・1・ゼロのカウントだけでシロメ脳イキ】女性用风俗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230721/pb_e_277dcv-220.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-220"
+  },
+  {
+    "id": 410835,
+    "IDcode": "277DCV-221",
+    "title": "送妳回家幹一砲？ case.215",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68c0348a735bb663f7769486/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-221"
+  },
+  {
+    "id": 574889,
+    "IDcode": "277DCV-222",
+    "title": "家まで送ってイイですか？case.216 ローリング！バキューム！トルネード！ディープスロ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250916/3sXRVijl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-222"
+  },
+  {
+    "id": 574887,
+    "IDcode": "277DCV-223",
+    "title": "カリギゅラfile.07 AVにはまだ先があった…新感覚！感动しながら抜ける！シコリ泣きハ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-223"
+  },
+  {
+    "id": 574888,
+    "IDcode": "277DCV-224",
+    "title": "家まで送ってイイですか？case.217 股割り270°开脚オマンコくぱぁ！【ドMチアダン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250916/MNBHK52U/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-224"
+  },
+  {
+    "id": 576040,
+    "IDcode": "277DCV-228",
+    "title": "家まで送ってイイですか？case.221【私でイッて欲しい承认欲求】1000人のチンチンを",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230526/sA3UhHCn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-228"
+  },
+  {
+    "id": 574876,
+    "IDcode": "277DCV-229",
+    "title": "家まで送ってイイですか？case.222【天然G乳】バイン！ボイン！ポイン！デカくてキレイ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1531,201 +1403,317 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230709/pb_e_345simm-801.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250917/5dAnd1U8/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-801"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-229"
   },
   {
-    "id": 576220,
-    "IDcode": "345SIMM-813",
-    "title": "Pに売られてしまった现役地下アイドル！ふだんからオタクとセックスしているような贞操観念ザコドルなので远虑な",
+    "id": 541485,
+    "IDcode": "277DCV-234",
+    "title": "家まで送ってイイですか？case.234 鬼パリピ！マジ卍！イージードゥザダンス！ウ○トラ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230916/pb_e_345simm-813.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240211/Ne9qYwtn/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-813"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-234"
   },
   {
-    "id": 576247,
-    "IDcode": "345SIMM-817",
-    "title": "あい(18)帰宅部【现○A県立高○3○生】【方言女子】【污れを知らない美乳&桃美尻】【最长15秒间止まらない潮吹き】",
+    "id": 445874,
+    "IDcode": "277DCV-237",
+    "title": "家まで送ってイイですか？case.229 全ての顔外れナシ！アヘ顔美人現る！【トリ○ド",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://155.sl155cf.com/upload/vod/20230924/pb_e_345simm-817.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/d1e83271847b136bb9b6ec008e009d25.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-817"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-237"
   },
   {
-    "id": 542341,
-    "IDcode": "345SIMM-826",
-    "title": "きよか(18)陆上部【最强三つ编みツインテJ○】【校则ギリギリTバック】【発育途上のえち",
+    "id": 520497,
+    "IDcode": "277DCV-238",
+    "title": "家まで送ってイイですか？case.228 银座の女帝！一人7万円の高级寿司",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241002/LXUiGhxK/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-826"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-238"
   },
   {
-    "id": 542342,
-    "IDcode": "345SIMM-827",
-    "title": "ちなつ(18)文芸部【现○私立高○3○生】【成长が止まらないHカップ雌美巨乳】【おっぱい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241002/HukQnXvX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-827"
-  },
-  {
-    "id": 542340,
-    "IDcode": "345SIMM-828",
-    "title": "メン地下に贡ぐためにオジサンに买い叩かれる美少女J♪！お买い得すぎる巨乳＋巨尻ボディに种",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241002/YcBPlEry/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-828"
-  },
-  {
-    "id": 542343,
-    "IDcode": "345SIMM-829",
-    "title": "りな(18)軽音部【现○都立高○3○生】【テスト期间中なのに性欲が抑えられない性豪J○】",
+    "id": 541486,
+    "IDcode": "277DCV-239",
+    "title": "家まで送ってイイですか？case.235‘チンコ！チンコチンコ！チンコチンコチンコ！’欲し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241002/ScmHpvXO/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240211/cRTX7NEn/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-829"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-239"
   },
   {
-    "id": 542344,
-    "IDcode": "345SIMM-831",
-    "title": "みなみ(18)帰宅部【现○都立高○3○生】【会わない间に育まれた超美乳Ecup】【浓厚フ",
+    "id": 541487,
+    "IDcode": "277DCV-240",
+    "title": "家まで送ってイイですか？case.236 イキすぎてブチギレ！！“もう无理もう无理！もっと",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241003/p4nte83r/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240211/pe8UBuXm/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-831"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-240"
   },
   {
-    "id": 542346,
-    "IDcode": "345SIMM-832",
-    "title": "セリナ(18)元バスケ部マネージャー【経験人数1人のまっさら未熟おま●こ】【ウブくてイモ",
+    "id": 541380,
+    "IDcode": "277DCV-241",
+    "title": "家まで送ってイイですか？case.231【デカ尻余白ナシ】尻トレ强化、努力でつかんだ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241003/rYSUjQyu/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-832"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-241"
   },
   {
-    "id": 542345,
-    "IDcode": "345SIMM-833",
-    "title": "秽れを知らなかったクラスの高岭の花は、今日で贞操観念が壊れました。东京に住むためなら、た",
+    "id": 541381,
+    "IDcode": "277DCV-242",
+    "title": "家まで送ってイイですか？case.230 高崎で一番！伝说のヤリマンギャル！Awi○hばり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241003/9FCdh7ai/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-833"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-242"
   },
   {
-    "id": 542347,
-    "IDcode": "345SIMM-834",
-    "title": "なつき(18)受験生【受験の下见に上京してきた才色兼备なデカパイJ○】【神社に志望校合格",
+    "id": 541382,
+    "IDcode": "277DCV-243",
+    "title": "家まで送ってイイですか？case.233【全国5位！神奈川1位】Gカップ超絶美女！加工无で",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241003/N1Zr0EII/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-834"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-243"
   },
   {
-    "id": 542348,
-    "IDcode": "345SIMM-835",
-    "title": "すみれ(18)バ先の塾の教え子【大好きな彼氏に従顺すぎる巨乳J♪】【言うこと何でも闻いて",
+    "id": 574865,
+    "IDcode": "277DCV-244",
+    "title": "家まで送ってイイですか？case.232【AIよりスゴい！】超乳Iカップ！デカ乳振り回しS",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241003/E2IV9WgC/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250918/nf8QetLY/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-835"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-244"
+  },
+  {
+    "id": 541578,
+    "IDcode": "277DCV-245",
+    "title": "家まで送ってイイですか？case.237‘会いたかった、このデカさに、最后まで出来る人に’",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240401/bLqnleim/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-245"
+  },
+  {
+    "id": 170611,
+    "IDcode": "277DCV-246",
+    "title": "家まで送ってイイですか？case.238 週刊○春超えの激ヤバ芸能界SEX事情！ついに",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/7cca4d94b75c96dd7d71ae077c021bcd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-246"
+  },
+  {
+    "id": 541577,
+    "IDcode": "277DCV-248",
+    "title": "家まで送ってイイですか？ case.240 【おっぱい食い込むIカップ】殿公认！オカズにさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240401/tSvgjf8Q/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-248"
+  },
+  {
+    "id": 101421,
+    "IDcode": "277DCV-250",
+    "title": "家まで送ってイイですか？case.242 【顔は恵比寿、カラダは部屋の中】絶対にバレちゃう！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-250"
+  },
+  {
+    "id": 541918,
+    "IDcode": "277DCV-251",
+    "title": "家まで送ってイイですか？case.249 【元·演歌歌手がセックスします】 山形から上京し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240709/jHQpoHUH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-251"
+  },
+  {
+    "id": 445869,
+    "IDcode": "277DCV-252",
+    "title": "家まで送ってイイですか？case.244【札幌の美神参上SP】イキ過ぎてカベ崩壊！一体",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/9b1b066aaaab41ab8167113ebe09b911.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-252"
+  },
+  {
+    "id": 541582,
+    "IDcode": "277DCV-253",
+    "title": "家まで送ってイイですか？case.243 【全国第1位の人気】男を立てる博多女子はTHE·",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240407/WTN1LgSb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-253"
+  },
+  {
+    "id": 541684,
+    "IDcode": "277DCV-255",
+    "title": "家まで送ってイイですか？case.245 【圧倒的！パーフェクト美女SP】絶対的スタイルB",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240514/Y0m7bSna/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-255"
+  },
+  {
+    "id": 541884,
+    "IDcode": "277DCV-256",
+    "title": "家まで送ってイイですか？case.248【信州イチのスケベっ娘】ラブラブセックスしか知らな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240703/5o4pD03W/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-256"
   }
 ];

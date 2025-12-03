@@ -1,960 +1,978 @@
 window.PAGE_DATA = [
   {
-    "id": 14745,
-    "IDcode": "SUWK-018",
-    "title": "淫蕩的母親謊稱自己獨自出去，卻與兒子遊泳學校的年輕教練發生了帳篷戀情 ~ 古東まりこ",
+    "id": 75417,
+    "IDcode": "NACR-301",
+    "title": "まさか、息子の嫁が…義父に不倫現場を目撃された不貞妻 七瀬ひな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "人妻",
-      "NTR",
-      "不倫",
-      "女上位",
-      "乱伦",
-      "野外露天",
-      "出軌",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "口交",
-      "性感",
-      "劇情",
-      "絕頂高潮"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689d67d51cc1e2086915a475/cover.jpg",
-    "actress": [
-      "古東まりこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-018"
-  },
-  {
-    "id": 13108,
-    "IDcode": "SVGAL-002",
-    "title": "住在就讀名牌大學的親戚姐姐這裏備考，她卻用大屁股來爲我個人授業，禁欲生活後的暴發，超級騎乘位 ~ 橘京花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "女學生",
-      "巨尻",
-      "美少女",
-      "癡女",
-      "慾求不滿",
-      "女上位",
-      "乱伦",
-      "表姐・表妹",
-      "勾引・誘惑",
-      "色白",
-      "中出",
-      "口交",
-      "美臀",
-      "性感",
-      "少女",
-      "劇情",
-      "臀控"
-    ],
-    "type": "",
-    "company": "ChuChuGirl",
-    "publish_date": "2024-08-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240725/b40e1936-2026-4e2b-8dd3-5c630b4ddc39.jpg",
-    "actress": [
-      "橘京花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVGAL-002"
-  },
-  {
-    "id": 12854,
-    "IDcode": "SVGAL-003",
-    "title": "表妹是國際航空公司的空姐，她性欲旺盛，用魅魔口交來擠壓我的精液 ~ 西野惠美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "艷遇",
-      "吞精",
-      "口爆",
-      "慾求不滿",
-      "表姐・表妹",
-      "飯店",
-      "網襪",
-      "美少女",
-      "美腳",
-      "勾引・誘惑",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "兩男一女",
-      "深喉",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "空姐制服",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "空姐",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "ChuChuGirl",
-    "publish_date": "2024-09-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808001249700700.jpg",
-    "actress": [
-      "西野絵美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVGAL-003"
-  },
-  {
-    "id": 66606,
-    "IDcode": "SVGAL-018",
-    "title": "童貞チ●ポにロックオン！ デカ尻お姉ちゃんに誘惑されて中出しし放題 気持ちよすぎる夢のような筆下ろし 小野坂ゆいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "荡妇",
-      "乱伦",
-      "姐姐",
-      "中出",
-      "手淫",
-      "口交",
-      "接吻",
-      "处男"
-    ],
-    "type": "",
-    "company": "ChuChuGirl",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dea58c92318f97d525259/cover.jpg",
-    "actress": [
-      "小野坂唯香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVGAL-018"
-  },
-  {
-    "id": 453553,
-    "IDcode": "SVMM-017",
-    "title": "るみ(乱伦)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241203-1/cb1e4250a3da3de06321972b6c3e21c8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMM-017"
-  },
-  {
-    "id": 89442,
-    "IDcode": "SVNNP-013",
-    "title": "素人ナンパバラエティ真夏のビーチで超高級コンドミニアム・ナンパ！ナンパした素人姉弟負けたら禁断の中出し近親相姦野球拳！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "素人",
-      "乱伦",
-      "猎艳",
-      "中出",
-      "妹妹",
-      "口交",
-      "女优按摩棒"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-09-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/e227e0677fe46f37709bf9b9a49df61e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVNNP-013"
-  },
-  {
-    "id": 82179,
-    "IDcode": "SW-0128",
-    "title": "息子の嫁さんの無防備パンチラに勃起した俺、気付いた彼女は息子や妻にバレないように腰を押しつけこっそり挿入させてくれた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乱伦",
-      "企画",
-      "已婚妇女"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "2012-08-09",
-    "cover_url": "https://tuaskbgnekr.com/20221126/sk49EXVu/1.jpg",
-    "actress": [
-      "春宫ひなの",
-      "桐谷雪菜",
-      "吉冈爱乃",
-      "藤井らん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0128"
-  },
-  {
-    "id": 68527,
-    "IDcode": "SW-0132",
-    "title": "在她姐姐的填充睡衣上搞恶作剧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "乱伦",
-      "妹妹",
-      "企画"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/39815ddb01491a9f2b68dad422ba46b4.jpg",
-    "actress": [
-      "松下ひかり",
-      "早瀬ありす",
-      "若叶りか",
-      "青空小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0132"
-  },
-  {
-    "id": 89469,
-    "IDcode": "SW-0136",
-    "title": "夢幻的近親相姦！對身材保養很好的媽媽肉體忍不住勃起的我 注意到這點媽媽竟然背著爸爸溫柔的讓我插入了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "母亲",
-      "企画"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b152035f13d063bcc27adb/cover.jpg",
-    "actress": [
-      "柳田やよい",
-      "矢部寿恵",
-      "名城翠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0136"
-  },
-  {
-    "id": 155559,
-    "IDcode": "SW-0152",
-    "title": "我看到儿子妻子的内裤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240901-1/f525e02fabb88a17156d68017e706556.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0152"
-  },
-  {
-    "id": 70239,
-    "IDcode": "SW-0158",
-    "title": "夢の近親相姦！まだまだイケる母親のデカ尻とデカ乳に勃起した僕 父親の目を盗んでこっそり挿入させてくれる母",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b80adc2c72bb4b7b2101c2eb52bd703.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0158"
-  },
-  {
-    "id": 88231,
-    "IDcode": "SW-0171",
-    "title": "梦中乱伦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乱伦",
-      "妹妹",
-      "企画"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/df508c1182ec7b025f289ac039407b33.jpg",
-    "actress": [
-      "有村千佳",
-      "間宮純",
-      "佐伯ひなた",
-      "香坂澪",
-      "村田ちか",
-      "香岛りょう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0171"
-  },
-  {
-    "id": 73011,
-    "IDcode": "SW-0215",
-    "title": "夢の近親相姦！娘の無防備パンチラに勃起した父、そのチ○ポを見てワレメを濡らした娘は母には内緒でこっそり挿入させてくれた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "企画"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/53e5a5e0d2d6c372513bac575801b8c9.jpg",
-    "actress": [
-      "篠宫ゆり",
-      "宗方志穂",
-      "大原友美",
-      "朝比奈みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0215"
-  },
-  {
-    "id": 68622,
-    "IDcode": "SW-0218",
-    "title": "妈妈们的排球训练营",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "运动短裤",
-      "屁股",
       "已婚妇女",
-      "乱伦",
-      "猥亵穿着"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/c6c2bfbddfb7cdec58fbc6a1c72d7370.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0218"
-  },
-  {
-    "id": 166858,
-    "IDcode": "SW-0314",
-    "title": "夢的近親相姦！「要隱瞞爸爸歐◆」還很年輕的媽媽身體讓我的肉棒快要爆發！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230319/1sw00314pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0314"
-  },
-  {
-    "id": 205423,
-    "IDcode": "SW-0545",
-    "title": "叫代洗的小姐姐突然在我面前脱下内裤该怎么办",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67815283c179ffb1db6d7b63/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0545"
-  },
-  {
-    "id": 104739,
-    "IDcode": "SW-0561",
-    "title": "借住亲戚家被两个大屁股姐姐用肉臀夹住榨精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "恶作剧",
-      "内衣",
-      "乱伦",
-      "企画",
-      "巨乳",
-      "妹妹"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67815c36c179ffb1db6d7c57/cover.jpg",
-    "actress": [
-      "若槻みづな",
-      "水野朝陽",
-      "野々宫みさと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0561"
-  },
-  {
-    "id": 69615,
-    "IDcode": "SW-0569",
-    "title": "少年在路上看到小姐姐们露出内裤会勃起吗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乱伦",
-      "企画",
-      "迷你裙",
-      "倒追"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5bd18c0370e83f60fff466dc1fed105a.jpg",
-    "actress": [
-      "君野步美",
-      "爱乃零",
-      "斎藤ミオリ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0569"
-  },
-  {
-    "id": 70246,
-    "IDcode": "SW-0582",
-    "title": "「久しぶりにお風呂一緒にはいろ！」湯船は親戚のおばさんのボインだらけで勃起しちゃったよ。「ママには内緒だよ」って洗うふりして握りしめてくるので絶倫チ○コでひぃひぃ言わせちゃいました。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "乱伦",
-      "巨乳",
-      "企画"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6035a97be3de244189b32a52d54bc02b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0582"
-  },
-  {
-    "id": 70579,
-    "IDcode": "SW-0605",
-    "title": "伝説のソープ嬢だったお従姉ちゃんと初めてのソープごっこ 日向うみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "妓女"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f1982502501a264e5cb939db26fde002.jpg",
-    "actress": [
-      "沙藤由梨"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0605"
-  },
-  {
-    "id": 589568,
-    "IDcode": "SW-0623",
-    "title": "不会做傲娇的妹妹，甜甜地长大，却是沉迷于插在她的身上，尽管她知道那是奇怪的色情和无用",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/02/25895_cover_2025-07-02_210822.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0623"
-  },
-  {
-    "id": 595158,
-    "IDcode": "SW-0633",
-    "title": "满员巴士内 上学途中 我的肉棒被黒裤袜丰满美臀触碰著 马上有了反应！超有精神的思春期肉棒 被姐姐紧握著 让我受不了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d9b3f9313e8cea1dd35db97895522cc1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0633"
-  },
-  {
-    "id": 73966,
-    "IDcode": "SW-0640",
-    "title": "親の再婚でやって来た小悪魔姉妹がミニスカパンチラで誘惑！ずっと一人っ子だった僕と同じ屋根の下、わざと目の前で着替えを見せつけたり扉開けっぱなしでオナニー見せつけたりするもんでチ○コ勃ちっぱなしの毎日。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
+      "出轨",
       "自慰",
       "乱伦",
-      "素人作品",
-      "妹妹",
-      "迷你裙"
+      "中出",
+      "素人作品"
     ],
-    "type": "",
-    "company": "SWITCH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/67851fc9478d611da774d77c/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a457077c24a23bed0c137224639eb289.jpg",
     "actress": [
-      "绀野光",
-      "篠宫ゆり",
-      "皆野あい"
+      "七海雛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0640"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-301"
   },
   {
-    "id": 514439,
-    "IDcode": "SW-0655",
-    "title": "妹妹的朋友们是小恶魔圆臀肉食女！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/07a30a40c39fb533230b74e771bd7396.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0655"
-  },
-  {
-    "id": 592678,
-    "IDcode": "SW-0677",
-    "title": "从妈妈的超级男孩和姐姐的超级迷你裙屁股一起生活的那天起，它就成了我的！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/15/93075_cover_2025-06-15_022345.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0677"
-  },
-  {
-    "id": 76735,
-    "IDcode": "SW-0681",
-    "title": "妹と軟体エッチバレリーナ 「お兄ちゃん、女の子のカラダは柔らかいほうがいいでしょ？どんな体位でもできるよ？」と足をパカァ～と広げてパンツ誘惑してくるので、我慢できず突きまくった。 野々宮すず",
+    "id": 75222,
+    "IDcode": "NACR-308",
+    "title": "義理の息子に母として認められたくて…。 菅野真穂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦",
-      "素人作品",
-      "妹妹"
+      "婆婆",
+      "中出",
+      "成熟的女人",
+      "巨乳",
+      "口交"
     ],
-    "type": "",
-    "company": "SWITCH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b16ea088eb0e534ac5e7089136a4b36a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/72bd71370bf218169c6ec44e9cd4f8a7.jpg",
     "actress": [
-      "逢坂りの"
+      "菅野真穂"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0681"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-308"
   },
   {
-    "id": 82863,
-    "IDcode": "SW-0686",
-    "title": "我被阿姨和两个姐姐们夺走了肉棒的射精权",
+    "id": 75221,
+    "IDcode": "NACR-310",
+    "title": "監禁洗脳 義理の弟に躾けられた私 高杉麻里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "姐姐",
+      "乱伦",
+      "中出",
+      "美少女电影",
+      "口交",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/d24348cb40bd5217e4a2d334dfc1d5da.jpg",
+    "actress": [
+      "高杉麻里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-310"
+  },
+  {
+    "id": 75223,
+    "IDcode": "NACR-311",
+    "title": "息子の嫁とのセックス記録 宇野栞菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "平胸",
+      "已婚妇女",
+      "乱伦",
+      "中出"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/bfcc8ae4723ecd2a003b22022d34ecdb.jpg",
+    "actress": [
+      "今井栞菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-311"
+  },
+  {
+    "id": 76056,
+    "IDcode": "NACR-326",
+    "title": "父と娘の近親セックス 酒癖が悪く、親離れも出来ない私はいつもお父さんに迷惑を掛けています。そんなだからあの日も…。星仲ここみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "中出",
+      "乱伦",
+      "自慰"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/610cf4adae83b8d62fcfc7abb80143b2.jpg",
+    "actress": [
+      "星仲ここみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-326"
+  },
+  {
+    "id": 210673,
+    "IDcode": "NACR-334",
+    "title": "爱上了儿子的妻子-広瀬結香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-334"
+  },
+  {
+    "id": 63324,
+    "IDcode": "NACR-340",
+    "title": "息子の嫁 雪乃凛央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "自慰",
+      "乱伦",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "雪乃凛央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-340"
+  },
+  {
+    "id": 211012,
+    "IDcode": "NACR-363",
+    "title": "迷恋姐夫的阳具-中条カノン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-363"
+  },
+  {
+    "id": 559811,
+    "IDcode": "NACR-365",
+    "title": "大学生SaraUruki的无辜女儿-宇流木沙罗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/edc812646e0c7c8b825b42f59139975c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-365"
+  },
+  {
+    "id": 70518,
+    "IDcode": "NACR-373",
+    "title": "息子の嫁 美咲かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a9df9d48dfec33fa838a7311de523e5d.jpg",
+    "actress": [
+      "美咲佳奈",
+      "栗原良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-373"
+  },
+  {
+    "id": 102350,
+    "IDcode": "NACR-390",
+    "title": "美術大學生巨乳女 拜託爸爸當裸體模特兒 之後興奮內射了。詩音乃蘭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/f79ae1da1cee955fca613398e87e653c.jpg",
-    "actress": [
-      "藤森里穂",
-      "大浦真奈美",
-      "野々宫みさと"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0686"
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-390"
   },
   {
-    "id": 565356,
-    "IDcode": "SW-0845",
-    "title": "久违地重逢的表姐妹成长为好色女学生，非常想看我的肉棒，引诱我一起泡澡！结果看到勃起肉棒超级兴奋！",
+    "id": 569589,
+    "IDcode": "NACR-420",
+    "title": "美乳苗条的美大学生女儿 拜托父亲做裸体模特儿，太过兴奋被内射。 乙叶可怜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "SWITCH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/E6cuhQ01.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/b0Ku5ZOr.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0845"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-420"
   },
   {
-    "id": 86496,
-    "IDcode": "SW-0853",
-    "title": "電気あんまでイッちゃう！！ 久しぶりに実家に帰ったら、女子○生になった妹たちが、お兄ちゃ～ん！と群がってくるので、つい昔みたいに電気あんましたら、アンアン喘いで感じだし、パンツに染みを作って僕を求めてきた！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "妹妹",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/1f3754bc9f8e3872ec67fa82f82f20d0.jpg",
-    "actress": [
-      "高瀬りな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0853"
-  },
-  {
-    "id": 86441,
-    "IDcode": "SW-0859",
-    "title": "妹のエロコス姿が可愛すぎて、すぐに勃起してパコパコしちゃったけど、マン汁ビチョビチョだったからOKだよね？！エロコス4変化！ おまけ映像付きだよ！ 東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演者",
-      "单体作品",
-      "乱伦",
-      "妹妹"
-    ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/82a97d7f4be2751bd8d6e05645312db0.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0859"
-  },
-  {
-    "id": 565352,
-    "IDcode": "SW-0862",
-    "title": "和表姐妹强制混浴～锁定我的老二开心让我插入奶穴里",
+    "id": 212924,
+    "IDcode": "NACR-428",
+    "title": "我儿子的妻子-緑川みやび",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "SWITCH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b7b01cfe4699c2ab739d0524698be940.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0862"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-428"
   },
   {
-    "id": 89209,
-    "IDcode": "SW-0917",
-    "title": "妹のプリ尻パンチラは悪魔の誘惑！兄の勃起に気づいてた妹もムラムラが止まらず家族に内緒で禁断の近親SEX暴走ピストンしちゃったヨ",
+    "id": 212919,
+    "IDcode": "NACR-429",
+    "title": "很担心我岳母的奶子-塚田詩織",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "2023-10-12",
-    "cover_url": "https://tuaskbgnekr.com/20240806/dxko66d8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0917"
-  },
-  {
-    "id": 94824,
-    "IDcode": "SW-0931",
-    "title": "ブルマ穿いて欲しいんでしょ！この変態さん！5 どうしてもお兄ちゃんとエッチしたいブラコン女子○生の妹が、兄の隠していたブルマ体操着を発見！！妹のブルマ体操着姿にフル勃起して、ついに一線を越えて擦りつけハメてしまった！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "运动短裤"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
     ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "2023-12-21",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f213a652c12b4e68509823/cover.jpg",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0931"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-429"
   },
   {
-    "id": 78154,
-    "IDcode": "SW-0938",
-    "title": "ブルマ穿いて欲しいんでしょ！この変態さん！6 どうしてもお兄ちゃんとエッチしたいブラコン女子○生の妹が、兄の隠していたブルマ体操着を発見！！妹のブルマ体操着姿にフル勃起して、ついに一線を越えて擦りつけハメてしまった！",
+    "id": 79195,
+    "IDcode": "NACR-435",
+    "title": "单身母亲爱上了她的邻居",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "已婚妇女",
+      "自慰",
       "乱伦",
-      "运动短裤",
-      "妹妹"
+      "无毛",
+      "中出",
+      "口交"
     ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "2024-02-08",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed3c7452c12b4e68495fdf/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0938"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/dbe1b2bdbf46dec38aac0c41cf3eb798.jpg",
+    "actress": [
+      "白鸟すわん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-435"
   },
   {
-    "id": 94845,
-    "IDcode": "SW-0954",
-    "title": "お兄ちゃんエッチしようよ！発育中のカラダを使って家中で誘惑してくる小悪魔妹ちゃんたち！ 仕事帰りの僕のチ○ポをお口でキレイにし、勃起チ○ポをマ○コに誘ってくるからドギマギ！",
+    "id": 214881,
+    "IDcode": "NACR-466",
+    "title": "我儿子的妻子-今井夏帆",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-466"
+  },
+  {
+    "id": 79805,
+    "IDcode": "NACR-469",
+    "title": "天真爛漫娘-沙月恵奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
       "乱伦",
+      "中出",
+      "美少女电影",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "沙月惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-469"
+  },
+  {
+    "id": 594738,
+    "IDcode": "NACR-478",
+    "title": "被突降大雨淋湿… 憧憬的姐姐无法回家 朝日奈可怜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c8e329a57cf5100bcc9542021180237f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-478"
+  },
+  {
+    "id": 85707,
+    "IDcode": "NACR-492",
+    "title": "一位单身母亲爱上了她的邻居",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "自慰",
+      "乱伦",
+      "乳房",
+      "中出"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "竹内夏希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-492"
+  },
+  {
+    "id": 85679,
+    "IDcode": "NACR-495",
+    "title": "性教育-美原すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "乱伦",
+      "婆婆",
+      "成熟的女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美原すみれ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-495"
+  },
+  {
+    "id": 81103,
+    "IDcode": "NACR-516",
+    "title": "单身母亲爱上了她的邻居-結城りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "巨乳",
       "口交",
-      "妹妹"
+      "单体作品"
     ],
-    "type": "",
-    "company": "SWITCH",
-    "publish_date": "2024-05-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/6599be85f2b8a0b247f29b9083f7b00e.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0954"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-516"
   },
   {
-    "id": 82069,
-    "IDcode": "T-28587",
-    "title": "ママに内緒でパパを寝取る娘の家庭内NTR近親相姦記録映像 松本いちか",
+    "id": 594674,
+    "IDcode": "NACR-528",
+    "title": "妄想和弟媳…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/Xx6GMK2w.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-528"
+  },
+  {
+    "id": 217603,
+    "IDcode": "NACR-529",
+    "title": "nacr-529 新婚的侄女-神坂朋子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-529"
+  },
+  {
+    "id": 217534,
+    "IDcode": "NACR-531",
+    "title": "nacr-531 单身母亲爱上了她的邻居-あべみかこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-531"
+  },
+  {
+    "id": 85718,
+    "IDcode": "NACR-544",
+    "title": "我的岳母-姫川礼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
       "乱伦",
-      "淫妻",
-      "白天出轨"
+      "婆婆",
+      "成熟的女人",
+      "单体作品"
     ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "2020-03-27",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20201203-1/1b07ad44cc34f7f271c0e7b7fe668375.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "松本一香"
+      "姫川礼子",
+      "岩下たろう"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T-28587"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-544"
   },
   {
-    "id": 463530,
-    "IDcode": "T-3800037",
-    "title": "當兒子開始獨自生活時洋溢母性的母親奪走了他的貞操。",
+    "id": 85684,
+    "IDcode": "NACR-552",
+    "title": "オモチャ売りの少女 さつき芽衣 パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "玩具",
+      "多P",
+      "乱伦",
+      "美少女电影",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "2022-06-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-552"
+  },
+  {
+    "id": 219877,
+    "IDcode": "NACR-565",
+    "title": "被我卑鄙的继父强奸-水谷心音",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892fdf5c92318f97d87fc5e/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T-3800037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-565"
   },
   {
-    "id": 470211,
-    "IDcode": "T28-563",
-    "title": "雙親不在那天跟妹妹猛幹一天榨光精 有村希",
+    "id": 69335,
+    "IDcode": "NACR-580",
+    "title": "発情母-町村京子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "自慰",
+      "乱伦",
+      "中出",
+      "高"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250402-1/396dc98301167b912026f84c9a26ab13.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-580"
+  },
+  {
+    "id": 67822,
+    "IDcode": "NACR-594",
+    "title": "每天都来强奸我-美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "乱伦",
+      "无毛",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/7366f1fc9de328aba9a6517a0afa0fa6.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-594"
+  },
+  {
+    "id": 220953,
+    "IDcode": "NACR-598",
+    "title": "性活跃的姐姐-松河智奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689d58051cc1e208691468f7/cover.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T28-563"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-598"
   },
   {
-    "id": 100465,
-    "IDcode": "T28-635",
-    "title": "我的父母再婚-岬野まなつ",
+    "id": 220949,
+    "IDcode": "NACR-600",
+    "title": "发情的母亲-推川ゆうり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-600"
+  },
+  {
+    "id": 107042,
+    "IDcode": "NACR-603",
+    "title": "被我卑鄙的继父强奸-柚木ひおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "无毛",
+      "中出",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "柚木ひおり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-603"
+  },
+  {
+    "id": 107030,
+    "IDcode": "NACR-605",
+    "title": "单身母亲-青木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "自慰",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "青木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-605"
+  },
+  {
+    "id": 68776,
+    "IDcode": "NACR-625",
+    "title": "我父亲未来的妻子是一个荡妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "荡妇",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "白河花清"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-625"
+  },
+  {
+    "id": 69667,
+    "IDcode": "NACR-637",
+    "title": "姐夫对我情有独钟-美咲かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "吞精",
       "乱伦",
       "乳房",
       "中出",
-      "美少女电影",
-      "晒黑",
       "单体作品"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/01/683c2b9741a147ed1a39baa6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T28-635"
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/935b1e1e3daee8d90950a69a8995899b.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-637"
   },
   {
-    "id": 522712,
-    "IDcode": "T28-636",
-    "title": "乡村禁忌兄妹乱伦实录 爆乳妹妹天晴乃爱-C遭亲哥激烈中出",
+    "id": 92963,
+    "IDcode": "NACR-647",
+    "title": "被我父亲的下属强奸了-咲野瑞希",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "苗条",
+      "单体作品",
+      "戏剧",
       "乱伦",
-      "巨乳"
+      "中出",
+      "高"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250421-1/e801d89db3aeda8b6183f6f21016834f.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T28-636"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-647"
   },
   {
-    "id": 446352,
-    "IDcode": "T28-636-C",
-    "title": "在农村与一个大胸妹妹发生乱伦的亲密性行为。 天晴乃爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250316-1/4e995b8a37b6683d364933620b3c872c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T28-636-C"
-  },
-  {
-    "id": 543960,
-    "IDcode": "T38-008",
-    "title": "引きこもりの童贞息子にカラダで偿う美人の母亲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240809/Hz08zeWQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T38-008"
-  },
-  {
-    "id": 440329,
-    "IDcode": "T38-021",
-    "title": "美丽的巨乳姐姐给刚开始独立生活的弟弟最好的开苞破处。 美园和花,浜辺刊帆,黒木れいな T38021",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250904-1/c73d03201f35634cf974382a70137564.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T38-021"
-  },
-  {
-    "id": 457073,
-    "IDcode": "T38-022",
-    "title": "晒黑的侄女姐妹 赤名伊都 市井结夏,赤名いと T38022",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250904-1/0f2f939daad09384861aff6c11bbd808.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T38-022"
-  },
-  {
-    "id": 78259,
-    "IDcode": "TAMA-036",
-    "title": "仕事中なのに濡れ濡れに感じちゃう敏感妻",
+    "id": 87099,
+    "IDcode": "NACR-680",
+    "title": "弟媳开始诱惑我-宝生芽衣",
     "year": "",
     "country": "",
     "genre": "",
@@ -962,1022 +980,1557 @@ window.PAGE_DATA = [
       "已婚妇女",
       "巨大屁股",
       "乱伦",
-      "乳交",
       "中出",
-      "成熟的女人",
-      "素人作品",
-      "故事集",
-      "各种职业",
-      "精选，综合"
+      "口交",
+      "巨乳",
+      "单体作品"
     ],
-    "type": "",
-    "company": "NEXT",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/13d2cb898a9122d3c4038f4745aeb113.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-036"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宝生めい",
+      "テッペイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-680"
   },
   {
-    "id": 14571,
-    "IDcode": "TANF-019",
-    "title": "姐姐倉本菫和妹妹白石桃，在爸爸媽媽不在的夜晚……",
+    "id": 226061,
+    "IDcode": "NACR-682",
+    "title": "援交大姐姐-辻井穗香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-682"
+  },
+  {
+    "id": 516882,
+    "IDcode": "NACR-685",
+    "title": "有著老公遺影的兒子與未亡人母親",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690ee8696b81af1f853f16ad/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-685"
+  },
+  {
+    "id": 100895,
+    "IDcode": "NACR-719",
+    "title": "被发情的侄女诱惑的叔父和他儿子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "戏剧",
+      "自慰",
+      "乱伦",
+      "巨乳",
+      "口交",
+      "高"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "岩下たろう",
+      "神崎くろえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-719"
+  },
+  {
+    "id": 16175,
+    "IDcode": "NACR-765",
+    "title": "玩弄诱惑我的小恶魔侄女-宮西ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "口爆",
+      "苗條",
+      "亂倫",
+      "美少女",
+      "美腳",
+      "JK校服",
+      "勾引・誘惑",
+      "自宅",
+      "美乳",
+      "制服",
+      "按摩棒",
+      "口交",
+      "性感",
+      "深喉",
+      "中出",
+      "後入",
+      "短裙・迷你裙",
+      "少女",
+      "顏射",
+      "美少女電影",
+      "手指插入",
+      "自慰",
+      "乱伦",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e5e495944bbe4ef0346dfd/cover.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-765"
+  },
+  {
+    "id": 105797,
+    "IDcode": "NACR-766",
+    "title": "比起丈夫更强壮的义子的男根-佐久間楓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "巨大屁股",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e5e177944bbe4ef034629f/cover.jpg",
+    "actress": [
+      "佐久間楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-766"
+  },
+  {
+    "id": 105652,
+    "IDcode": "NACR-773",
+    "title": "爸爸活跃的姐姐喜欢鸡巴折磨和全身舔爱抚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "乱伦",
+      "乳房",
+      "中出",
+      "美少女电影",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-773"
+  },
+  {
+    "id": 105562,
+    "IDcode": "NACR-780",
+    "title": "发情母亲-快斗萤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "巨乳",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e032ba79f1ac4ec48bbe76/cover.jpg",
+    "actress": [
+      "森萤"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-780"
+  },
+  {
+    "id": 93300,
+    "IDcode": "NACR-814",
+    "title": "和初恋长得很像的妻子母亲-翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "白天出轨",
+      "婆婆",
+      "成熟的女人",
+      "口交",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240607/3bTFxXsB/1.jpg",
+    "actress": [
+      "翔田千里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-814"
+  },
+  {
+    "id": 93343,
+    "IDcode": "NACR-820",
+    "title": "发情的母亲-立冈杏菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "胖女人",
+      "巨大屁股",
+      "乱伦",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "立岡杏菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-820"
+  },
+  {
+    "id": 95347,
+    "IDcode": "NACR-865",
+    "title": "溺爱儿子的母亲-平冈里枝子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba926ec6d1004ed41b9aaa/cover.jpg",
+    "actress": [
+      "平冈里枝子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-865"
+  },
+  {
+    "id": 10843,
+    "IDcode": "NACR-868",
+    "title": "故意走光诱惑我的小恶魔侄女-末广纯",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "艷遇",
-      "女學生",
-      "小隻馬",
-      "兩女一男",
-      "叛逆少女",
-      "美少女",
-      "癡女",
-      "雙飛",
-      "JK校服",
+      "巨尻",
+      "慾求不滿",
+      "勾引・誘惑",
+      "色白",
       "美乳",
+      "按摩棒",
+      "巨乳",
       "口交",
-      "蠻橫嬌羞",
+      "性感",
+      "形象俱樂部",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "不倫",
+      "美少女電影",
+      "自慰",
+      "乱伦",
+      "乳交",
+      "無毛",
+      "嬸嬸",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241105/2a2b8c51-421a-495a-a1e4-2ce0e49f413b.jpg",
+    "actress": [
+      "末広純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-868"
+  },
+  {
+    "id": 9777,
+    "IDcode": "NACR-893",
+    "title": "拜托哥哥和父亲裸体模特的事-北冈果林",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "奇聞趣事",
+      "女學生",
+      "多P",
+      "女兒",
+      "畫室",
+      "苗條",
+      "亂倫",
+      "凌辱",
+      "美少女",
+      "美腳",
+      "姐弟・兄妹",
+      "羞恥",
+      "自宅",
+      "美乳",
+      "變態",
+      "清楚系",
+      "亂交 • 群P",
+      "口交",
+      "裸體素描",
+      "形象俱樂部",
+      "兩男一女",
+      "父女",
+      "淫亂",
       "中出",
       "姐姐・妹妹",
+      "後入",
+      "少女",
       "劇情",
+      "奇異的",
+      "輪姦",
       "清純",
       "美少女電影",
       "乱伦",
-      "蘿莉控",
-      "女上位"
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "2024-05-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240519/202405190943121313.jpg",
-    "actress": [
-      "倉本菫",
-      "白石桃"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANF-019"
-  },
-  {
-    "id": 469612,
-    "IDcode": "TANP-030",
-    "title": "淫秽棕色人的女儿菜菜子 72 小时通宵肛交吞精热带国家之旅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829773aae3235deaa23b573/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-030"
-  },
-  {
-    "id": 469567,
-    "IDcode": "TANP-034",
-    "title": "住宅区的两个人，姐姐 Nanako-chan 和姐姐 Kaori-chan，在妈妈和爸爸不在身边的夜晚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c1573e7e672bea5f76819/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-034"
-  },
-  {
-    "id": 92810,
-    "IDcode": "TARS-625",
-    "title": "TARS625被狂妄的高中生妹妹當做蕾絲玩物紗倉真菜松本一香。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240911-1/0d8245396706fdd00f4f6668838e10ee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TARS-625"
-  },
-  {
-    "id": 88855,
-    "IDcode": "TEND-001",
-    "title": "再婚相手の連れ子の細くしなやかな身体に誘惑され、私と息子は骨抜きにされました… / 工藤ララ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "平胸",
-      "乱伦",
-      "乳房",
-      "美少女电影",
-      "巨乳",
-      "精选，综合",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "Tender",
-    "publish_date": "2023-10-31",
-    "cover_url": "https://tuaskbgnekr.com/20240826/NvMlal7k/1.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241219/60e00a45-1c2f-4b00-b261-a18ed3add7a8.jpg",
     "actress": [
-      "工藤拉拉"
+      "北岡果林"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-893"
   },
   {
-    "id": 88818,
-    "IDcode": "TEND-002",
-    "title": "再婚相手の連れ子のあどけない表情を手に入れることこそ、私の再婚の目的だったのです… / 市井結夏",
+    "id": 8965,
+    "IDcode": "NACR-901",
+    "title": "父亲的情人-水川堇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "平胸",
-      "乱伦",
-      "乳房",
-      "美少女电影",
-      "巨乳",
-      "精选，综合",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "Tender",
-    "publish_date": "2023-10-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/f21b4c2861a935abd8b9a7ba23e305a4.jpg",
-    "actress": [
-      "市井結夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-002"
-  },
-  {
-    "id": 88852,
-    "IDcode": "TEND-004",
-    "title": "ノーブラ派の娘に誘惑され、実の父であるにもかかわらず性行為をしてしまいました… / 有馬美玖 直筆サイン入りチェキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "乱伦",
-      "舔阴",
-      "无毛",
-      "中出",
-      "制服",
-      "美少女电影",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "Tender",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://tuaskbgnekr.com/20240826/OO98LUnR/1.jpg",
-    "actress": [
-      "有馬美玖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-004"
-  },
-  {
-    "id": 88850,
-    "IDcode": "TEND-005",
-    "title": "再婚相手の連れ子のあどけない表情を手に入れることこそ、私の再婚の目的だったのです… / 愛野ひなた 直筆サイン入りチェキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "平胸",
-      "乱伦",
-      "舔阴",
-      "无毛",
-      "中出",
-      "制服",
-      "美少女电影",
-      "泳装",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "Tender",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20231209-1/2db41f1bd4197cf91c65f6736c6695a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-005"
-  },
-  {
-    "id": 88839,
-    "IDcode": "TEND-006",
-    "title": "妹が芋ジャージのファスナーを下ろすと、白い肌とマシュマロおっぱいが出てきて大迷惑！ / 星宮こと 直筆サイン入りチェキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "运动短裤",
-      "乱伦",
-      "舔阴",
-      "乳房",
-      "中出",
-      "美少女电影",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "Tender",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20231209-1/18f871939a635010e6385003e457fd54.jpg",
-    "actress": [
-      "星宮こと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-006"
-  },
-  {
-    "id": 11816,
-    "IDcode": "TEND-015",
-    "title": "生意氣的G罩杯繼妹學級委員長 ~ 宮ノ木しゅんか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "女學生",
-      "叛逆少女",
+      "艷遇",
+      "若妻",
+      "性感睡衣",
+      "口爆",
       "慾求不滿",
-      "純粹的慾望",
-      "表姐・表妹",
-      "美少女",
-      "姐弟・兄妹",
+      "苗條",
+      "辣妹/GAL系",
+      "美腳",
+      "癡女",
+      "繼母",
+      "勾引・誘惑",
+      "自宅",
       "胸控・戀乳癖",
       "美乳",
       "巨乳",
       "口交",
       "性感",
-      "校花",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "潮吹",
+      "NTR",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "內衣",
+      "猥褻穿著",
       "中出",
-      "姐姐・妹妹",
+      "蕩婦",
+      "美人",
+      "美腿",
       "後入",
-      "少女",
       "劇情",
-      "不倫",
-      "清純",
+      "美臀",
+      "絕頂高潮",
       "舔陰",
-      "美少女電影",
+      "脚控・戀足癖",
+      "手指插入",
       "乱伦",
+      "舔腳",
       "乳交",
+      "無毛",
       "女上位",
-      "騎乗位"
+      "騎乗位",
+      "情趣內衣"
     ],
-    "type": "",
-    "company": "Tender",
-    "publish_date": "2024-08-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20240921/4cdfd84d-7983-4a98-9cab-03579c810e5d.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250120/dcad7496-5deb-477d-a2a6-1d8e852fdad5.jpg",
     "actress": [
-      "宮ノ木しゅんか"
+      "水川蓳",
+      "タクト"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-901"
   },
   {
-    "id": 11563,
-    "IDcode": "TEND-017",
-    "title": "再婚的目的就是爲了操漂亮的繼女 ~ 希咲那奈",
+    "id": 6683,
+    "IDcode": "NACR-943",
+    "title": "我的女儿怎么这么迷人-桃濑日葵",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "女學生",
       "小隻馬",
+      "二次元",
+      "女兒",
       "苗條",
+      "亂倫",
+      "4K",
       "美少女",
       "美腳",
-      "JK校服",
-      "羞恥",
+      "色白",
       "自宅",
-      "變態",
+      "美乳",
+      "清楚系",
+      "巨乳",
       "口交",
-      "接吻",
-      "貧乳",
-      "蠻橫嬌羞",
+      "形象俱樂部",
+      "潮吹",
+      "父女",
+      "高顏值",
+      "校花",
+      "淫亂",
+      "極品美人",
       "中出",
+      "美人",
+      "美腿",
       "後入",
       "少女",
+      "美臀",
       "劇情",
+      "不倫",
       "清純",
       "舔陰",
-      "繼父",
+      "脚控・戀足癖",
       "美少女電影",
       "手指插入",
       "乱伦",
-      "脅迫做愛",
+      "無毛",
+      "蘿莉",
       "蘿莉控",
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "Tender",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/b96d6e1406f2a2813070164a1090b446.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420201726390390_thumbnail.webp",
     "actress": [
-      "希咲那奈"
+      "桃瀨日葵",
+      "ししお"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-017"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-943"
   },
   {
-    "id": 456390,
-    "IDcode": "TEND-018",
-    "title": "被不戴胸罩女儿诱惑、不管亲生父亲搞起了性行为… 皐月ゆら",
+    "id": 4664,
+    "IDcode": "NACR-983",
+    "title": "傳聞中的搬家公司爆乳翹臀緊身褲小姐姐 ~ 佐山由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "巨尻",
+      "豐滿",
+      "其他職業",
+      "臀控",
+      "牛仔褲",
+      "阪道系",
+      "4K",
+      "美少女",
+      "美腳",
+      "緊身衣",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "單體作品",
+      "高顏值",
+      "野性",
+      "淫亂",
+      "大姐姐",
+      "傲嬌",
+      "中出",
+      "姐姐・妹妹",
+      "美人",
+      "美腿",
+      "後入",
+      "少女",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "高妹",
+      "乱伦",
+      "乳交",
+      "女上位",
+      "騎乗位"
     ],
-    "type": "",
-    "company": "Tender",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251013-1/f1064fa9b93e6bb40974a59d2d48061e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-018"
-  },
-  {
-    "id": 454224,
-    "IDcode": "TEOO-018",
-    "title": "被不戴胸罩女儿诱惑、不管亲生父亲搞起了性行为… 皐月由罗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705115759184184_thumbnail.webp",
+    "actress": [
+      "佐山由依"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba96905fdaf263a264087a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEOO-018"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-983"
   },
   {
-    "id": 564926,
-    "IDcode": "THTP-101",
-    "title": "素人投稿 禁断の母子情交",
+    "id": 3865,
+    "IDcode": "NACR-999",
+    "title": "一位母亲因她唯一的儿子的丑闻而被迫出现在成人视频中-平岡里枝子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241114/njI5A6gw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THTP-101"
-  },
-  {
-    "id": 92797,
-    "IDcode": "TID-522",
-    "title": "為了幫異常性慾的哥哥消解被母親拜託每日性處理明里紬。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240911-1/06b4b0d09b0b76de64d734ad0da0aa3e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TID-522"
-  },
-  {
-    "id": 589489,
-    "IDcode": "TIKC-034",
-    "title": "【小胸神】精致小胸女儿脑虫变态暨射性适合走捷径！茜遥 - 茜遥香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/31916_cover_2025-07-06_051200.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKC-034"
-  },
-  {
-    "id": 469529,
-    "IDcode": "TIMD-009",
-    "title": "情人的女儿，超美少女 (♂) Chibitori 的连续高潮，个人视频拍摄，Chibitori",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d76437e1ae1e49a437724/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIMD-009"
-  },
-  {
-    "id": 469490,
-    "IDcode": "TIMD-011",
-    "title": "恋人的女儿：两天一夜被关起来取乐的害羞又有女人味的美少年。骨碎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6832e8cf916c69f83f8d6468/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIMD-011"
-  },
-  {
-    "id": 469489,
-    "IDcode": "TIMD-012",
-    "title": "人妻的女儿：训练她过度敏感的阴茎以使其潮吹 - 滑溜的眉毛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "3P・4P",
+      "多P",
+      "苗條",
+      "4K",
+      "美腳",
+      "羞恥",
+      "大奶头",
+      "美乳",
+      "欠債肉償",
+      "風俗夜場",
+      "按摩棒",
+      "亂交 • 群P",
+      "性感",
+      "五十路",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
       "人妻",
-      "乱伦"
+      "美人妻",
+      "淫亂",
+      "蠻橫嬌羞",
+      "中出",
+      "美人",
+      "後入",
+      "重口味",
+      "美臀",
+      "劇情",
+      "舔陰",
+      "手指插入",
+      "乱伦",
+      "脅迫做愛",
+      "御姐系",
+      "黑絲",
+      "家庭主妇",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "PLANETPLUS",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_PLANETPLUS",
+        "works_count": 1099
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6832e8cc916c69f83f8d6467/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIMD-012"
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101540338338_69418_thumbnail.webp",
+    "actress": [
+      "平岡里枝子",
+      "平冈里枝子",
+      "ししお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-999"
   },
   {
-    "id": 517286,
-    "IDcode": "TKD-057",
-    "title": "老闆娘美乃莉最愛吃的是女兒夫家的親",
+    "id": 2974,
+    "IDcode": "NACT-009",
+    "title": "看到朋友与妹妹做爱的现场受不了睡走妹妹的我-长濑麻美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "慾求不滿",
+      "苗條",
+      "4K",
+      "美腳",
+      "癡女",
+      "羞恥",
+      "色白",
+      "胸控・戀乳癖",
+      "美乳",
+      "寢取",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "潮吹",
+      "單體作品",
+      "寫真女郎",
+      "高顏值",
+      "淫亂",
+      "內衣",
+      "蠻橫嬌羞",
+      "超爆乳",
+      "寫真偶像",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "乱伦",
+      "脅迫做愛",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045529547547_38476_thumbnail.webp",
+    "actress": [
+      "长濑麻美",
+      "ししお",
+      "长瀬麻美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-009"
+  },
+  {
+    "id": 2940,
+    "IDcode": "NACT-010",
+    "title": "巨乳大学生的悲剧把裸体模特拜托给哥哥和父亲结果勃起没有停止-羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "女學生",
+      "巨尻",
+      "M男・M女",
+      "豐滿",
+      "女兒",
+      "亂倫",
+      "凌辱",
+      "4K",
+      "美少女",
+      "父親",
+      "姐弟・兄妹",
+      "羞恥",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "單體作品",
+      "兩男一女",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "超爆乳",
+      "姐姐・妹妹",
+      "美人",
+      "後入",
+      "美臀",
+      "劇情",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "乱伦",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025658856856_36991_thumbnail.webp",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-010"
+  },
+  {
+    "id": 2249,
+    "IDcode": "NACT-024",
+    "title": "我第一次的女人是父亲的情妇-大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "口爆",
+      "慾求不滿",
+      "三十路",
+      "豐滿",
+      "臀控",
+      "阪道系",
+      "4K",
+      "美少女",
+      "美腳",
+      "癡女",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "單體作品",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "明星臉",
+      "極品美人",
+      "內衣",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "少女",
+      "阿姨・侄子",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "脚控・戀足癖",
+      "御姐控",
+      "女神",
+      "手指插入",
+      "乱伦",
+      "乳交",
+      "無毛",
+      "御姐系",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-024"
+  },
+  {
+    "id": 595082,
+    "IDcode": "NACX-035",
+    "title": "完全展现！通野未帆 右眼的泪滴充满了魅力，容貌美丽的E罩杯美乳姐姐通野未帆。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/plg20KJC.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-035"
+  },
+  {
+    "id": 409493,
+    "IDcode": "NADE-614",
+    "title": "大嫂 優",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "RUBY",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6910fa336b81af1f8543e534/poster2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e501a1e4a73d4f15c2924a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NADE-614"
   },
   {
-    "id": 447305,
-    "IDcode": "TLZ010",
-    "title": "翔田千里的蕾絲邊搭訕(乱伦)",
+    "id": 11397,
+    "IDcode": "NAMH-019",
+    "title": "讓汁男優嚴重勃起的癡女姐姐，子宮真實內射13發 ~ 倉木詩織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "3P・4P",
+      "多P",
+      "兔女郎妝扮",
+      "網襪",
+      "美少女",
+      "美腳",
+      "癡女",
+      "亂交 • 群P",
+      "口交",
+      "形象俱樂部",
+      "兩男一女",
+      "淫亂",
+      "蠻橫嬌羞",
+      "COSPLAY服飾",
+      "中出",
+      "後入",
+      "企畫",
+      "絕頂高潮",
+      "女優",
+      "脚控・戀足癖",
+      "美少女電影",
+      "乱伦",
+      "女上位",
+      "丁字裤",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD",
+        "works_count": 3097
+      }
+    ],
+    "publish_date": "2024-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20241007/90266212-a3e1-46b6-909e-3f944aa4ac39.jpg",
+    "actress": [
+      "倉木詩織"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-019"
+  },
+  {
+    "id": 76359,
+    "IDcode": "NASH-043",
+    "title": "本当にあったエッチなお話 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "乱伦",
+      "婆婆",
+      "成熟的女人",
+      "故事集"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/02284ee6d59b74bbded41b9201c4a8b6.jpg",
+    "actress": [
+      "小早川怜子",
+      "汐河佳奈",
+      "远藤しおり",
+      "七海ひさ代"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-043"
+  },
+  {
+    "id": 76516,
+    "IDcode": "NASH-063",
+    "title": "早くに出産し、まだまだ全然アリなお母さんの成熟した裸に触れ発情した童貞の僕は興奮を抑えられずイケないコトとは知りつつも一線を越えてしまった。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "和服，丧服",
+      "戏剧",
+      "4小时以上作品",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "母亲"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/54bd5a5275f31aafaaaa27c1740fcdd8.jpg",
+    "actress": [
+      "小早川怜子",
+      "佐佐木明希",
+      "夏树カオル",
+      "大原千穂",
+      "石川明日美",
+      "美月みさと"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-063"
+  },
+  {
+    "id": 595122,
+    "IDcode": "NASH-085",
+    "title": "侵犯住宅八连锁！强奸妈妈友 以暴力无套插入强奸。记录著真实影像的戏剧",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241203-1/a834e6510cfc3fe5c917cf2042c1ccc3.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/hXGDFKZq.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TLZ010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-085"
   },
   {
-    "id": 540233,
-    "IDcode": "TM-0134",
-    "title": "英雄联盟之盖伦兄弟乱伦，妹妹淫穴为哥哥解毒...！",
+    "id": 77067,
+    "IDcode": "NASH-086",
+    "title": "「もうこれで最後にして…」大嫌いな親族（義父、義兄弟）に力ずくで犯られた嫁",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "已婚妇女",
+      "4小时以上作品",
+      "乱伦",
+      "中出",
+      "巨乳",
+      "口交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250814-1/d4d6dc7e5134f776915ff8568c5d4320.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TM-0134"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-086"
   },
   {
-    "id": 439195,
-    "IDcode": "TMA-T38-032",
-    "title": "儿媳归省丈夫老家，遭公公日夜侵犯，哀求沦陷的乱伦地狱",
+    "id": 77069,
+    "IDcode": "NASH-146",
+    "title": "荒々しく舌を絡ませ挿入しなが",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "已婚妇女",
+      "乱伦",
+      "白天出轨",
+      "中文字幕",
+      "成熟的女人",
+      "接吻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/23/685868163ed39b57c0ccfa4b/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/92ac5d1f27c59518471f5a8d722afb98.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMA-T38-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-146"
   },
   {
-    "id": 453418,
-    "IDcode": "TMRD-0980",
-    "title": "昭和猥褻官能ドラマ 絶倫義父は息子の嫁に中出し 宝石屋の危ない男に惚れてしまった純情五十路妻(乱伦)",
+    "id": 82703,
+    "IDcode": "NASH-181",
+    "title": "夜まで我慢できない！朝から息子に求められる五十路母",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "母亲"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4515e821b55fd7b118854d2ae129b8dc.jpg",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221118-1/0ef224d02f0f6159c73fca49ffd838a5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-0980"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-181"
   },
   {
-    "id": 87675,
-    "IDcode": "TMRD-1182",
-    "title": "熟妻卑猥ドラマ 息子の同級生に無理やり股間を舐められた五十路母 娘がイタズラされた父親はその子供の母親に報復",
+    "id": 76984,
+    "IDcode": "NASH-190",
+    "title": "近親相姦 母子交尾 濃厚接吻と密着情交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "乱伦",
+      "婆婆",
+      "成熟的女人",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241122-1/63d654b5a0da1e8fbbff138c6172f487.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-190"
+  },
+  {
+    "id": 75801,
+    "IDcode": "NASH-193",
+    "title": "五十路白日夢 50歳を過ぎ性への強い欲望と不倫願望のある妻は夢の中で夫以外の男たちに抱かれる・・ 五十路妻たち4人の白日昼下がりドキュメント",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妄想",
+      "屁股",
+      "玩具",
+      "已婚妇女",
+      "胖女人",
+      "出轨",
+      "乱伦",
+      "白天出轨",
+      "局部特写",
+      "69",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "巨乳",
+      "口交",
+      "恋乳癖",
+      "母亲"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241122-1/1f8ea78b1090d4816eaa0fb8fa0b1dc2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-193"
+  },
+  {
+    "id": 75219,
+    "IDcode": "NASH-200",
+    "title": "「かあさん、もう一度だけ頼むよ…」息子の溢れる性欲を受け止めるお母さんは中出しだって拒めない",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "4小时以上作品",
+      "乱伦",
+      "中出",
+      "素人作品",
+      "巨乳",
+      "口交",
+      "母亲"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a99389d9ef3b71e98d2f33e6f285a742.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-200"
+  },
+  {
+    "id": 75877,
+    "IDcode": "NASH-202",
+    "title": "娘婿を寝取る姑",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "戏剧",
       "乱伦",
-      "舔阴",
+      "白天出轨",
+      "中文字幕",
+      "婆婆",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/97ce01b83bae6317286c0c8fdd795890.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-202"
+  },
+  {
+    "id": 75218,
+    "IDcode": "NASH-212",
+    "title": "家族やご近所にバレないうちに別れようと最後の夜を最高のSEXでイキ果て中出しチ○ポ外れても息子抱きしめ名残りのベロキスかまし続ける情愛の母",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "成熟的女人",
-      "口交"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-08-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230809-1/d416611ec57cb289e480c70eaad1b762.jpg",
-    "actress": [
-      "姫川礼子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1182"
-  },
-  {
-    "id": 589528,
-    "IDcode": "TOEN-016",
-    "title": "五十母子时田幸江的异常关系 - 时田梢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/05/82634_cover_2025-07-05_010738.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOEN-016"
-  },
-  {
-    "id": 74590,
-    "IDcode": "TOEN-023",
-    "title": "母子相姦～越えてしまった一線 息子の筆おろしをする母～柏木舞子53歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "处男"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/425c240dc525bf84da336638a671afae.jpg",
-    "actress": [
-      "向理来",
-      "柏木舞子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOEN-023"
-  },
-  {
-    "id": 68575,
-    "IDcode": "TOEN-059",
-    "title": "在我丈夫抽烟的短暂时间里-成咲優美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/40218e4ef7d3976116ac79a5bd1e2179.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOEN-059"
-  },
-  {
-    "id": 222986,
-    "IDcode": "TPIN-012",
-    "title": "姐姐和操蛋的弟弟",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "椿鳳院",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4c238e4a73d4f15c1edfb/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-012"
-  },
-  {
-    "id": 80210,
-    "IDcode": "TPIN-024",
-    "title": "ハーレム近親相姦風呂 ガチ超タイプの母と姉や妹たちが童貞の僕の勃起チ〇ポに興味津々で無理矢理脱がされて混浴する事に…。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "母亲",
-      "乱伦",
-      "妹妹",
-      "处男"
-    ],
-    "type": "",
-    "company": "椿鳳院",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9f9942b8b4834e195bdb03c9301490df.jpg",
-    "actress": [
-      "真木今日子",
-      "宫村ななこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-024"
-  },
-  {
-    "id": 531914,
-    "IDcode": "TPIN-079",
-    "title": "我朋友的妈妈有一个毛茸茸的阴户 Yuri Tadokoro - 田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "椿鳳院",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/CzJarXZf/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-079"
-  },
-  {
-    "id": 514361,
-    "IDcode": "TTYU-005",
-    "title": "对电厂上班的爆乳色情姐姐搞恶作剧 高城彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "4小时以上作品",
       "乱伦",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/826686b0fb3cb63c6e5d8b81176062c9.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b17afe32660db0bd8df65169f6f5d57a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TTYU-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-212"
   },
   {
-    "id": 88871,
-    "IDcode": "TUE-139",
-    "title": "母を襲う息子の強●近親相姦映像",
+    "id": 75075,
+    "IDcode": "NASH-217",
+    "title": "孫のデカチンに中出しされ忘れかけていた絶頂の悦びを六十路を過ぎて取り戻した祖母",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
+      "戏剧",
+      "4小时以上作品",
       "乱伦",
-      "魔鬼系",
-      "巨乳",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7ebc0e422233ca620e6480993f4203d5.jpg",
+    "actress": [
+      "北森麻子",
+      "内原美智子",
+      "豊冈みち子",
+      "田代かず代",
+      "高宫佐和子",
+      "桜木ゆか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-217"
+  },
+  {
+    "id": 75177,
+    "IDcode": "NASH-242",
+    "title": "母子温泉物語 露天風呂で淫らに交わる禁断の近親相姦 4人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "乱伦",
+      "成熟的女人",
+      "素人作品",
       "母亲"
     ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2023-08-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/39895c8aa274a24b42ffe29c1e490dac.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-139"
-  },
-  {
-    "id": 88874,
-    "IDcode": "TUE-140",
-    "title": "毎晩襲いにくる父に抗えず犯●れる娘の夜●い近親相姦映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "深喉",
-      "平胸",
-      "乱伦",
-      "魔鬼系",
-      "无毛",
-      "中出",
-      "美少女电影",
-      "投稿"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://tuaskbgnekr.com/20240829/BrqLs38Y/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-140"
-  },
-  {
-    "id": 453955,
-    "IDcode": "TUE-147",
-    "title": "與羅莉妹妹溫泉中出旅行哥哥的記錄映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "GLAYz",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e16fba79f1ac4ec48eadb7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-147"
-  },
-  {
-    "id": 2897,
-    "IDcode": "TUE-161",
-    "title": "母親の前で犯●れる娘の強●記録映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "小隻馬",
-      "母親",
-      "M男・M女",
-      "口爆",
-      "素人作品",
-      "故事集",
-      "苗條",
-      "鬼畜片",
-      "美少女",
-      "美腳",
-      "強姦",
-      "JK校服",
-      "拘束・拷問",
-      "羞恥",
-      "色白",
-      "大奶头",
-      "美乳",
-      "清楚系",
-      "口交",
-      "雙馬尾",
-      "形象俱樂部",
-      "潮吹",
-      "高顏值",
-      "校花",
-      "極品美人",
-      "傲嬌",
-      "中出",
-      "後入",
-      "美腿",
-      "少女",
-      "劇情",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "無毛",
-      "魔鬼系",
-      "蘿莉",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d048e3eb67774efbac85be/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/60af8f93668e4129891f5fb2dd6024c5.jpg",
     "actress": [
-      "市井結夏",
-      "姫野らん"
+      "翔田千里",
+      "福田由贵",
+      "内原美智子",
+      "大宫凉香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-161"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-242"
   },
   {
-    "id": 540256,
-    "IDcode": "TZ-054",
-    "title": "兔子先生爸气十足EP9和服妹妹赏樱花...！",
+    "id": 75176,
+    "IDcode": "NASH-246",
+    "title": "「かあさん、もう一度だけ頼むよ…」息子の溢れる性欲を受け止めるお母さんは中出しだって拒めない 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250816-1/ef34639460b94df9810b5012ed28f020.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TZ-054"
-  },
-  {
-    "id": 568951,
-    "IDcode": "TZ-060",
-    "title": "七濑恋纯欲妹妹初尝禁果 - 麻豆传媒激射实录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250925-1/5f82a0074964fe56670f7a07176a4533.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TZ-060"
-  },
-  {
-    "id": 557100,
-    "IDcode": "TZ-077",
-    "title": "兔子先生朋友的妹妹性幻想",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241018-1/b8b357ffc7a2e7912a0cd45810ef89c7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TZ-077"
-  },
-  {
-    "id": 556777,
-    "IDcode": "UAAU-048",
-    "title": "儿子的晨勃 奈良惠美子 - 奈良绘美子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250913-1/3f0c6834e9f59898c8d2abd983a1982a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UAAU-048"
-  },
-  {
-    "id": 466242,
-    "IDcode": "UD-809",
-    "title": "R 用於坦白與我認識的女OO（同事,朋友,我經常光顧的咖啡館的工作人員,岳母,我妻子的朋友）發生性關係的經歷的公告牌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd6f60006939637678daf5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UD-809"
-  },
-  {
-    "id": 92825,
-    "IDcode": "UFE-154",
-    "title": "被女友的巨乳文學系痴女妹妹深田詠美誘惑內射初印像很靦腆的她突然咬住了我的耳朵深田詠美。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "已婚妇女",
       "乱伦",
+      "中出",
+      "素人作品",
+      "巨乳",
+      "口交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/066cb64f99b8f7e263391d4df98b3c27.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-246"
+  },
+  {
+    "id": 75076,
+    "IDcode": "NASH-255",
+    "title": "近親相姦 実は私…あなたの弟に犯●れ続けてます…。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "乱伦",
+      "白天出轨",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/16f52dafcc408bcdc807c87fc2bff2ed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-255"
+  },
+  {
+    "id": 549867,
+    "IDcode": "NASH-334",
+    "title": "母子相奸“お父さんには黙ってなさい・・”いけない事だと分かりながらも股间は热を帯び躰を许してしまう罪深き五十路母",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/1595679360-h_067nash334pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-334"
+  },
+  {
+    "id": 549998,
+    "IDcode": "NASH-362",
+    "title": "母子相奸“お父さんには黙ってなさい・・”いけない事だと分かりながらも股间は热を帯び躰を许してしまう罪深",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231215/1599817223-h_067nash362pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-362"
+  },
+  {
+    "id": 559546,
+    "IDcode": "NASH-521",
+    "title": "母亲和孩子乱伦母亲的男孩儿子将Ji端口插入他出生的洞并射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250219-1/2f1037df37e2ab6d0b01974737571343.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-521"
+  },
+  {
+    "id": 81369,
+    "IDcode": "NASH-546",
+    "title": "近親相姦レズビアン 愛欲のエンドレス交尾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "女同性恋",
+      "成熟的女人",
+      "故事集"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2021-07-25",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221001-1/55310dff41b2d21bfe49d4c3dadb66d4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-546"
+  },
+  {
+    "id": 516843,
+    "IDcode": "NASH-861",
+    "title": "岳母 與比妻子更有魅力的岳母禁斷",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914e5ed46d2372859bc000a/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-861"
+  },
+  {
+    "id": 87110,
+    "IDcode": "NASH-898",
+    "title": "近親相姦 五十路母と息子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "4小时以上作品",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "母亲"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2023-06-13",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c73286b81af1f8539c772/poster2.jpg",
+    "actress": [
+      "巖崎千鹤",
+      "竹内梨恵",
+      "梅田りょう",
+      "新堂绫乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-898"
+  },
+  {
+    "id": 516957,
+    "IDcode": "NASH-960",
+    "title": "母親的屁眼 不道德母子的近親相姦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/25/68fcb454944bbe4ef05a5027/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-960"
+  },
+  {
+    "id": 105429,
+    "IDcode": "NASK-045",
+    "title": "50岁妈妈在办公室出卖身体换取加薪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "巨大屁股",
+      "乱伦",
+      "中出",
+      "成熟的女人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240911-1/92eb7874ddeee73af750fc05ae64a6d7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UFE-154"
-  },
-  {
-    "id": 590288,
-    "IDcode": "UGSS-040",
-    "title": "[]朋友的妈妈爱着我◆在色情恶作剧下让我的肉棒勃起…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221016-1/5bb733e679e1865a074fe318d9bf512b.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20240512-1/92665ab4bb4d01119cbd9dd391973b89.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UGSS-040"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-045"
   },
   {
-    "id": 518494,
-    "IDcode": "UGUG-068",
-    "title": "母親失格、家庭崩壞。身心都被兒子",
+    "id": 550428,
+    "IDcode": "NASK-057",
+    "title": "六十路を过ぎた母亲と肉体関系を持つ息子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffe5a87de28f4edeabf999/poster2.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240601/nask057pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UGUG-068"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-057"
   },
   {
-    "id": 590306,
-    "IDcode": "UGUG-072",
-    "title": "[]儿子睡走妻子的母子性爱家庭内偷拍。",
+    "id": 93438,
+    "IDcode": "NASK-072",
+    "title": "近親相姦 五十路母と息子 3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "已婚妇女",
+      "4小时以上作品",
       "乱伦",
-      "中文字幕"
+      "中出",
+      "成熟的女人",
+      "母亲"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221024-1/c35f9a0e2a72e8e15a923589f25276a5.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/62847210a00eeadf58cbe7993438097d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UGUG-072"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-072"
   },
   {
-    "id": 454055,
-    "IDcode": "UMD-626",
-    "title": "戴綠帽的母親最好的UD-805R",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6d84ce4a73d4f15a63c66/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-626"
-  },
-  {
-    "id": 83300,
-    "IDcode": "UMD-715",
-    "title": "親戚のおばさんに筆おろしされた僕。リターンズ 9",
+    "id": 93390,
+    "IDcode": "NASK-088",
+    "title": "我慢できない五十路の性欲！雌の快感は熱い精液とともに蘇る",
     "year": "",
     "country": "",
     "genre": "",
@@ -1986,177 +2539,364 @@ window.PAGE_DATA = [
       "乱伦",
       "中出",
       "成熟的女人",
-      "素人作品",
-      "巨乳",
-      "口交",
-      "女上位",
-      "处男"
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/3f1c191a70c70b4e8320abbd57c1fc84.jpg",
-    "actress": [
-      "赤瀬尚子",
-      "羽月希",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-715"
-  },
-  {
-    "id": 88980,
-    "IDcode": "UMD-884",
-    "title": "近親素股プレイでハプニング！！妹とセックスの練習中に間違ってヌルンと挿入！！9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "手淫",
-      "乱伦",
-      "妹妹"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-09-07",
-    "cover_url": "https://tuaskbgnekr.com/20240829/EAvNTrjt/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/dbbf020be07201183957d3419afa7f82.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-884"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-088"
   },
   {
-    "id": 88992,
-    "IDcode": "UMD-887",
-    "title": "親戚のおばさんに筆おろしされた僕。リターンズ 16",
+    "id": 93416,
+    "IDcode": "NASK-091",
+    "title": "嫁の母 一つ屋根の下で暮らす義母との禁断関係 背徳の家庭内不倫 4人4時間",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "4小时以上作品",
+      "出轨",
+      "乱伦",
       "成熟的女人",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/0b7607a16e114210900253e5d0860b54.jpg",
+    "actress": [
+      "小早川怜子",
+      "翔田千里",
+      "冨田朝香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-091"
+  },
+  {
+    "id": 93391,
+    "IDcode": "NASK-092",
+    "title": "むちエロ五十路母 欲求不満な豊満熟女の禁断近親相姦劇 6人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "胖女人",
+      "乱伦",
+      "成熟的女人",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/5d951b0239115f310866343086dd2e21.jpg",
+    "actress": [
+      "翔田千里",
+      "狭山千明",
+      "柏木舞子",
+      "金杉里织",
+      "松冈瑠実",
+      "大森凉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-092"
+  },
+  {
+    "id": 8761,
+    "IDcode": "NASK-185",
+    "title": "母親的大屁股 被兒子強奸，出汗的巨尻誘惑了親子 禁斷近親相奸亂倫 - 6女優4小時 合集 ~ 翔田千裏 山口珠裏 伊織涼子 岡井凜 成宮彩葉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "亂倫",
+      "局部特寫",
+      "母子",
+      "巨尻",
+      "母親",
+      "精選總編集",
+      "精選綜合",
+      "乱伦",
+      "4小時以上作品",
+      "企畫",
+      "重口味",
+      "美臀"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2025-01-28",
+    "cover_url": "https://picture.yoshiclub.xyz/20250127/bf5c83d8-38f9-447f-b8f9-ac2e991a12b1.jpg",
+    "actress": [
+      "翔田千里",
+      "岡江凛",
+      "成宮彩葉",
+      "伊织凉子",
+      "山口珠理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-185"
+  },
+  {
+    "id": 454377,
+    "IDcode": "NASK-188",
+    "title": "亂倫 50 歲的母親和兒子 4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b17b305f13d063bcc36030/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-188"
+  },
+  {
+    "id": 454435,
+    "IDcode": "NASK-212",
+    "title": "被兒子調教的母親 展現出OO性快感的異常快樂近親相姦劇 6人4小時",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8e6807f3b7c929073ba5e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-212"
+  },
+  {
+    "id": 454510,
+    "IDcode": "NASK-227",
+    "title": "儿子与60多岁的母亲发生肉体关係2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac56055337d7f7be48d79/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-227"
+  },
+  {
+    "id": 68314,
+    "IDcode": "NASK-229",
+    "title": "我慢できない五十路の性欲！雌の快感は熱い精液とともに蘇る5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac6b155337d7f7be48dc0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-229"
+  },
+  {
+    "id": 63786,
+    "IDcode": "NASK-244",
+    "title": "夫が帰ってくるまで我慢できない！欲求不満の五十路母2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "自慰",
+      "乱伦",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c79f898bc99dfdde6dd33/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-244"
+  },
+  {
+    "id": 62476,
+    "IDcode": "NASK-273",
+    "title": "我慢できない五十路の性欲！雌の快感は熱い精液とともに蘇る6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892fc12c92318f97d87fbb0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-273"
+  },
+  {
+    "id": 77259,
+    "IDcode": "NASS-929",
+    "title": "女房より色っぽい義母を誘惑して… 禁断の中出しセックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "寡妇",
+      "4小时以上作品",
+      "乱伦",
+      "婆婆",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "井上綾子",
+      "汐河佳奈",
+      "片瀬仁美",
+      "白藤ゆりえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASS-929"
+  },
+  {
+    "id": 518446,
+    "IDcode": "NATR-266",
+    "title": "近親相姦 被兒子當成性奴隸的繼母",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Nadeshiko",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Nadeshiko",
+        "works_count": 144
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/690556d472c0032a43e227de/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-266"
+  },
+  {
+    "id": 518431,
+    "IDcode": "NATR-272",
+    "title": "順從的繼母 横山美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Nadeshiko",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Nadeshiko",
+        "works_count": 144
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906d707e264e6282dfbd0ad/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-272"
+  },
+  {
+    "id": 217813,
+    "IDcode": "NATR-506",
+    "title": "natr-506 寡居的岳母-矢部寿恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Nadeshiko",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Nadeshiko",
+        "works_count": 144
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-506"
+  },
+  {
+    "id": 348034,
+    "IDcode": "NATR-530",
+    "title": "性教育 教女儿要怎么做爱 本庄瞳 小泉まり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Nadeshiko",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Nadeshiko",
+        "works_count": 144
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-530"
+  },
+  {
+    "id": 75197,
+    "IDcode": "NATR-626",
+    "title": "苦しい家計を体で補填 七瀬ひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "自慰",
       "乱伦",
       "口交"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-10-12",
-    "cover_url": "https://tuaskbgnekr.com/20240829/bVGere5A/1.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Nadeshiko",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Nadeshiko",
+        "works_count": 144
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/7348cae1679c595c7cf172b48f2331ec.jpg",
     "actress": [
-      "大槻响",
-      "春原未来",
-      "水川かえで"
+      "七海雛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-887"
-  },
-  {
-    "id": 453894,
-    "IDcode": "UMD-901",
-    "title": "近親素股摩擦玩過頭！！ 與妹妹性愛練習中不小心滑進去！！10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1d6c52c12b4e6846b2bd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-901"
-  },
-  {
-    "id": 66993,
-    "IDcode": "UMD-962",
-    "title": "素股プレイでハプニング！！姉がセックスの伝授中にガマン出来ずにヌルンと挿入！！7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "姐姐",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250702-1/9f8118739c3a01a6a1676f675f4ed4b0.jpg",
-    "actress": [
-      "月野香澄",
-      "宮城理惠",
-      "沙月文乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-962"
-  },
-  {
-    "id": 66439,
-    "IDcode": "UMD-966",
-    "title": "UMD-966 むっつりスケベで性欲強めの妹が素股の気持ちよさを知ってから豹変！！腰をクイクイ振り続けるツルツルマ○コに兄のギンギンチ○ポが入りそう！！先っぽ3cmだけの約束を守れなくて結局奥まで15cm！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/15/68762ce543d69727164e60c9/cover.jpg",
-    "actress": [
-      "松本一香",
-      "沙月惠奈",
-      "姫咲華",
-      "竹田夢",
-      "永瀬ゆい",
-      "稻场流花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-966"
-  },
-  {
-    "id": 514514,
-    "IDcode": "UMSO-222",
-    "title": "美术学校的新课题居然是肉棒的设计！于是美女大学生拜託自己的父亲当模特，没想到父亲居然勃起额，然后就这样无套把女儿内射了！2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "K.M.P",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/18c712635a2a1a5668f58376cac4da95.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-222"
-  },
-  {
-    "id": 595255,
-    "IDcode": "UMSO-246",
-    "title": "对长了一副下流肉体的侄女无法压抑勃起老二的性恶搞 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "K.M.P",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/c1f1acf1446e49f10ca8c31b3df4c8d2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-246"
-  },
-  {
-    "id": 589548,
-    "IDcode": "UMSO-257",
-    "title": "我是一个单身父亲，逃离了我的妻子，成为了一个单身父亲。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "K.M.P",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/03/72911_cover_2025-07-03_061637.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-257"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-626"
   }
 ];

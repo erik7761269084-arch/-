@@ -1,1669 +1,2671 @@
 window.PAGE_DATA = [
   {
-    "id": 225906,
-    "IDcode": "zex-363",
-    "title": "因为没有性生活欲望累积到要炸了",
+    "id": 223485,
+    "IDcode": "HRRB-012",
+    "title": "被突然袭击的可爱美少女-早乙女ゆい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/16621aacb305e442887fcebb93839b40.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zex-363"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRRB-012"
   },
   {
-    "id": 178983,
-    "IDcode": "zex-364",
-    "title": "时间停止器侵犯公车上的女性无论学生妹还是女OL都插入体验一下",
+    "id": 548228,
+    "IDcode": "HRSM-001",
+    "title": "アスリートハンター 肉体観察と竞技场内生挿れ中出しブッかけチカン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/02/50f80ea912d6b4e39213be9a10911191.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230910/U5vrjIhY/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zex-364"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-001"
   },
   {
-    "id": 82917,
-    "IDcode": "ZEX-382",
-    "title": "サイコパスから狙われたインフルエンサー美女 私生活が晒されて、めちゃくちゃにされた全記録 大浦真奈美",
+    "id": 550706,
+    "IDcode": "HRSM-002",
+    "title": "渣女老师的目标女孩伊拉玛训练/肉小便池性爱男人W完全堕落中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230910/BuJpe5Wz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-002"
+  },
+  {
+    "id": 548231,
+    "IDcode": "HRSM-003",
+    "title": "ヤリ舍て 昏●拉致·W睡眠●",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230910/mfxuuJFL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-003"
+  },
+  {
+    "id": 547980,
+    "IDcode": "HRSM-004",
+    "title": "盗撮、睡眠轮奸、袭撃中出しレ×プ、集団わいせつ…狙われた现役アイドル。悲惨すぎる握手会イベント",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230926/uR4P3LTp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-004"
+  },
+  {
+    "id": 563327,
+    "IDcode": "HRSM-005",
+    "title": "舐めプかましたパパ活メスガキを拘束生刺し中出しおしおき性交教育",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230924/OMfXVQTJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-005"
+  },
+  {
+    "id": 563294,
+    "IDcode": "HRSM-006",
+    "title": "海ちかん湘南ビキニハンターはしゃぎ疲れたベロベロ水着ギャルおま○こに生チ○ポ挿し込み喰いあさる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230926/6dM8DH5n/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-006"
+  },
+  {
+    "id": 563080,
+    "IDcode": "HRSM-007",
+    "title": "舐めた态度の高额ギャラ饮み女をガンギマリ状态にして剥き出しナマ入れ中出しチカン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231014/zuL5rSJm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-007"
+  },
+  {
+    "id": 563087,
+    "IDcode": "HRSM-008",
+    "title": "洗脳 大量エンドルフィン 卒业するまで先生の肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231014/nomrzDVq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-008"
+  },
+  {
+    "id": 539085,
+    "IDcode": "HRSM-009",
+    "title": "新村あかり- 立场逆転 パワハラ女上司を眠らせ无许可中出し 弱みを握り→土下座#辱め#强制性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250519/MRQd3EUL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-009"
+  },
+  {
+    "id": 562932,
+    "IDcode": "HRSM-010",
+    "title": "アイドルユニット キメセクW堕ち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231029/VRt2LXpH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-010"
+  },
+  {
+    "id": 562922,
+    "IDcode": "HRSM-011",
+    "title": "スポーツ强豪校 巨乳女子マネージャーいじ●动画流出 28日间の性処理记录 被害者4名",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "中出",
-      "偷窥",
       "巨乳"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "2019-11-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221201-1/0d1f1d4c598fb75da93e7a17cace1cd8.jpg",
-    "actress": [
-      "大浦真奈美",
-      "タツ"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-382"
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231029/knzUORqH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-011"
   },
   {
-    "id": 82123,
-    "IDcode": "ZEX-387",
-    "title": "神尻 あべみかこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "平胸",
-      "屁股",
-      "玩具",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2020-02-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221108-1/ae1da6b5595885abf39e3c7511898d2f.jpg",
-    "actress": [
-      "安部未華子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-387"
-  },
-  {
-    "id": 82127,
-    "IDcode": "ZEX-389",
-    "title": "チ○ポを咥える尻 今日は、私のお尻をたっぷり味わって下さいね 栄川乃亜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "平胸",
-      "屁股",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2020-03-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221108-1/ae5947956ca482fbe4bf1d0a091d0eb5.jpg",
-    "actress": [
-      "栄川乃亜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-389"
-  },
-  {
-    "id": 210882,
-    "IDcode": "zex-397",
-    "title": "近親相姦-あべみかこ",
+    "id": 562924,
+    "IDcode": "HRSM-012",
+    "title": "地方局人事の非コンプラ行为 女子アナ志望リクスー就活生おやすみ生刺し喰い",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/16/d71cf29278fdf528dd614b741197cc4c.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231029/BejNuaqy/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zex-397"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-012"
   },
   {
-    "id": 72710,
-    "IDcode": "ZEX-399",
-    "title": "現役地下偶像的约炮过激摄影",
+    "id": 562839,
+    "IDcode": "HRSM-013",
+    "title": "モデルレッスン生～特别わいせつ讲座～狙われた无知な美少女4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-013"
+  },
+  {
+    "id": 562868,
+    "IDcode": "HRSM-014",
+    "title": "妹レ×プ シスコンマニア趣味の记录 かわいい妹2名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231112/o04DQ51h/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-014"
+  },
+  {
+    "id": 562869,
+    "IDcode": "HRSM-015",
+    "title": "アスリートハンター2 肉体観察と竞技场内生挿れ中出しブッかけチカン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231112/aqY4e399/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-015"
+  },
+  {
+    "id": 91148,
+    "IDcode": "HRSM-016",
+    "title": "盗撮、睡眠輪●、襲撃中出しレ×プ、集団わいせつ…狙われた現役アイドル。悲惨すぎる握手会イベント。2 鬼畜行為で壊された4名",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "多P",
       "中出",
-      "企画",
-      "美少女电影",
-      "自慰"
+      "偶像",
+      "偷窥"
     ],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/28/6fce36b399270cef14cb27fb88b39214.jpg",
-    "actress": [
-      "栄川乃亜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-399"
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240325-1/a94774194d3f08cb36e66fa7115cd52e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-016"
   },
   {
-    "id": 80013,
-    "IDcode": "ZEX-409",
-    "title": "Gカップの誘惑ボディ かなで自由Best",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "中出",
-      "多P",
-      "巨乳",
-      "猎艳",
-      "巨大屁股"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2021-11-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/c0ac28a15200badb6da6aacec1da1850.jpg",
-    "actress": [
-      "奏自由"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-409"
-  },
-  {
-    "id": 104359,
-    "IDcode": "ZEX-412",
-    "title": "最好的女同性恋者",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同",
-      "女同接吻",
-      "多P",
-      "企画",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/05/06/b243d51c76d65a987c0e0aadfe2a8c5a.jpg",
-    "actress": [
-      "波多野结衣",
-      "大槻响",
-      "黑川纱里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-412"
-  },
-  {
-    "id": 221704,
-    "IDcode": "ZEX-421",
-    "title": "没落貴族-渚みつき",
+    "id": 562753,
+    "IDcode": "HRSM-017",
+    "title": "ガスマスク オナホ女4名 【大量喷射·ガンギマリ·隔离済み】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/20/4fda38aee24cd640d4ac56aa40938df3.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231129/xNoHC8id/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-421"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-017"
   },
   {
-    "id": 170109,
-    "IDcode": "ZEX375",
-    "title": "白皙肉體持續溺愛學生10年的紀錄倉木詩織",
+    "id": 562752,
+    "IDcode": "HRSM-018",
+    "title": "地方局人事の非コンプラ行为 女子アナ志望リクスー就活生おやすみ生刺し喰い2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250116-1/4b8314949e801e36c6cc71ef80ef9050.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231129/3qk1Ls8y/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX375"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-018"
   },
   {
-    "id": 170110,
-    "IDcode": "ZEX376",
-    "title": "喜歡誘惑桃尻娘加藤桃香",
+    "id": 562673,
+    "IDcode": "HRSM-019",
+    "title": "舐めプかましたパパ活メスガキを拘束生刺し中出しおしおき性交教育2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250116-1/a4701a4e59c06da48dab62338dd3abfc.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231210/TQjSC1yg/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX376"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-019"
   },
   {
-    "id": 170142,
-    "IDcode": "ZEX399",
-    "title": "地下活跃偶像的外派超危险イ视频",
+    "id": 562677,
+    "IDcode": "HRSM-020",
+    "title": "制服美少女たちを无理やり力ずくで犯しまくる クズ教师の鬼畜记录映像 盗撮、ストーキング、喉奥破",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250203-1/d3739d10d3294140c05ab4c0061d36cb.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231210/LkkdsAsA/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX399"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-020"
   },
   {
-    "id": 82936,
-    "IDcode": "ZIZG-001",
-    "title": "经典漫改对魔忍三姐妹",
+    "id": 562674,
+    "IDcode": "HRSM-021",
+    "title": "アパレルスタッフ粘着盗撮 强袭生ちん串刺しチカン",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "多P",
-      "凌辱",
-      "潮吹",
-      "白天出轨",
-      "战斗行动"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/09/00467a7e8c7f22b33ee9f62e673abaa5.jpg",
-    "actress": [
-      "椎名由奈",
-      "佐藤遥希",
-      "夏目优希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-001"
-  },
-  {
-    "id": 82939,
-    "IDcode": "ZIZG-005",
-    "title": "被强奸堕落沦为性奴的人妻们",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "其他恋物癖",
-      "人妻",
-      "已婚妇女",
-      "轮奸"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/e80b0d0914b16d30ceca0f16aa08008b.jpg",
-    "actress": [
-      "川上優",
-      "羽月希",
-      "神波多一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-005"
-  },
-  {
-    "id": 69413,
-    "IDcode": "ZIZG-007",
-    "title": "临安俱乐部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "轮奸",
-      "凌辱"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/13/95f782248566f5e306482d987fb6b0c3.jpg",
-    "actress": [
-      "大槻响",
-      "蓮実クレア",
-      "樱井步",
-      "しずく",
-      "芹沢つむぎ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-007"
-  },
-  {
-    "id": 166362,
-    "IDcode": "ZIZG-009",
-    "title": "真人版 對魔忍雪風～拍個角色扮演片拍道變成A片了啊！！～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/vbkpbaccujg.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231210/80f4sQ5C/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-021"
   },
   {
-    "id": 82935,
-    "IDcode": "ZIZG-012",
-    "title": "监狱战舰被洗脑的美少女战士",
+    "id": 562577,
+    "IDcode": "HRSM-022",
+    "title": "エグいほど下品な生徒に成长した仆の教え子たちを见てください 大阪府某私立●校勤务56歳教谕より",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231226/ckCeT2by/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-022"
+  },
+  {
+    "id": 562576,
+    "IDcode": "HRSM-023",
+    "title": "3年间ずっと一绪にいてくれてありがとう 毎日3人でいたけど今日で最后 ホントはずっと嫌いだった",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231226/WjQPMjVc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-023"
+  },
+  {
+    "id": 562574,
+    "IDcode": "HRSM-024",
+    "title": "地方局人事の非コンプラ行为 女子アナ志望リクスー就活生おやすみ生刺し喰い3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231226/dpjfK7mr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-024"
+  },
+  {
+    "id": 546814,
+    "IDcode": "HRSM-025",
+    "title": "モデルレッスン生～特别わいせつ讲座2～狙われた无知な美少女4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240115/FpEdqnNb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-025"
+  },
+  {
+    "id": 546812,
+    "IDcode": "HRSM-026",
+    "title": "スポーツ强豪校 巨乳女子マネージャーいじ●动画流出 28日间の性処理记录 被害者4名2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "4小时以上作品",
-      "催眠",
-      "凌辱",
-      "巨乳",
-      "拘束",
-      "调教"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/30/33d291aaefc82ffb1b8086212746e050.jpg",
-    "actress": [
-      "仓多真央",
-      "大场唯",
-      "佐々木恋海"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-012"
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240115/TFGsbM2O/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-026"
   },
   {
-    "id": 82914,
-    "IDcode": "ZIZG-018",
-    "title": "监禁战舰娘佳澄果穗洗脑大改造",
+    "id": 546640,
+    "IDcode": "HRSM-028",
+    "title": "フホウ侵入 コンスイ霊プ 意识モ记忆モ无ク中出シサレタ美少女タチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240128/CGDEqFpU/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-028"
+  },
+  {
+    "id": 546642,
+    "IDcode": "HRSM-029",
+    "title": "セクハラ接骨院 就活中の隠れ巨乳のリクスー女子4名 脱いだらスタイル抜群！セクハラマッサージ→生刺し！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "催眠",
-      "白天出轨",
-      "监禁"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240609-1/dbcbd48166d4125d02bc3028b211ddd0.jpg",
-    "actress": [
-      "香澄果穗"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-018"
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240128/QV2bOzvX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-029"
   },
   {
-    "id": 68431,
-    "IDcode": "ZKWD-023",
-    "title": "喉虐め放課後肉便器23人目 金丸ゆあ",
+    "id": 546636,
+    "IDcode": "HRSM-030",
+    "title": "チアガール狩り 名门强豪○校 チアリーディング部所属",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "单体作品",
-      "跳舞",
-      "深喉",
-      "颜射",
-      "淫乱，真实",
-      "制服"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "[\"豊彥\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/093884e6290eb936ec6dccb267523ec4.jpg",
-    "actress": [
-      "金丸ゆあ"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZKWD-023"
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240128/lCzjRgDC/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-030"
   },
   {
-    "id": 3326,
-    "IDcode": "ZKWD-024",
-    "title": "放課後肉便器24人目 牧田ひより",
+    "id": 16397,
+    "IDcode": "HRSM-031",
+    "title": "防毒面具 ~ 轮奸癡女4名",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
-      "美乳",
-      "女上位",
-      "口交",
-      "肌肉",
-      "絕頂高潮",
-      "校花",
-      "後入",
-      "運動女孩",
-      "口爆",
-      "羞恥",
-      "美腿",
-      "少女",
-      "手指插入",
-      "調教",
-      "舔陰",
-      "女學生",
-      "深喉",
-      "美人",
-      "企畫",
-      "騎乗位",
+      "輪姦",
       "美少女電影",
-      "美腳",
-      "形象俱樂部",
-      "唾液敷面",
+      "女學生",
+      "紀錄片",
       "美少女",
-      "運動服裝",
-      "顏射",
-      "按摩棒",
-      "中出",
-      "單體作品",
-      "清純",
-      "野外露天"
-    ],
-    "type": "有码",
-    "company": "[\"豊彥\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/f14ff135/vod.jpg",
-    "actress": [
-      "牧田ひより"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZKWD-024"
-  },
-  {
-    "id": 178308,
-    "IDcode": "ZKWD-025",
-    "title": "放課後肉便器25人目 海風すず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"豊彥\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/897c433d60d1c44625a8f54f389a076f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZKWD-025"
-  },
-  {
-    "id": 83237,
-    "IDcode": "ZMAR-005",
-    "title": "まるっと！羽生ありさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "素人作品",
-      "中出",
-      "出轨",
-      "巨乳",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "2019-12-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/50695cc9bfa9396753fb8b36caa17c57.jpg",
-    "actress": [
-      "羽生ありさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-005"
-  },
-  {
-    "id": 83850,
-    "IDcode": "ZMAR-007",
-    "title": "まるっと！澁谷果歩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "精选，综合",
-      "素人作品",
-      "乳交",
-      "巨乳",
-      "潮吹"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "2020-01-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/d4cd6a2ea426f2f21a36d65726c583fc.jpg",
-    "actress": [
-      "澁谷果歩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-007"
-  },
-  {
-    "id": 175303,
-    "IDcode": "ZMAR-122",
-    "title": "まるっと！逢見リカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/3ffa29c9/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-122"
-  },
-  {
-    "id": 10840,
-    "IDcode": "ZMAR-123",
-    "title": "まるっと！冬愛ことね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精選綜合",
-      "蘿莉控",
-      "女上位",
-      "口交",
-      "女優",
-      "蘿莉",
-      "後入",
-      "羞恥",
       "淫亂",
-      "少女",
-      "手指插入",
+      "主觀視角",
       "JK校服",
-      "亂交 • 群P",
-      "3P・4P",
-      "舔陰",
-      "女學生",
-      "企畫",
-      "騎乗位",
-      "兩男一女",
-      "美少女電影",
-      "美腳",
-      "4小時以上作品",
-      "形象俱樂部",
-      "美少女",
-      "潮吹",
-      "小隻馬",
-      "M男・M女",
-      "按摩棒",
-      "中出",
-      "貧乳",
-      "苗條",
-      "精選總編集",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/333cca7b/vod.jpg",
-    "actress": [
-      "冬愛琴音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-123"
-  },
-  {
-    "id": 76258,
-    "IDcode": "ZMAR-126",
-    "title": "まるっと！黒川すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "精选，综合",
-      "中出",
-      "已婚妇女",
-      "苗条",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/21/e7697af0/vod.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-126"
-  },
-  {
-    "id": 187922,
-    "IDcode": "ZMAR-128",
-    "title": "まるっと！通野未帆 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/1e7d7ef4b5c8259a48504222b55d1ea1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-128"
-  },
-  {
-    "id": 191371,
-    "IDcode": "ZMAR-131",
-    "title": "まるっと！天馬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/a312dd5897ead38f433cf6d447c3cac3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-131"
-  },
-  {
-    "id": 7409,
-    "IDcode": "ZMAR-132",
-    "title": "まるっと！新井リマ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "高顏值",
-      "美乳",
-      "女上位",
-      "口交",
-      "巨乳",
-      "昭和系",
-      "濕身",
-      "女優",
-      "絕頂高潮",
-      "後入",
-      "抹油",
-      "口爆",
-      "極品美人",
-      "美腿",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "4小時以上作品",
-      "形象俱樂部",
-      "脚控・戀足癖",
-      "小隻馬",
-      "感官作品",
-      "苗條",
-      "中出",
-      "癡女",
-      "乳交",
-      "明星臉",
-      "精選總編集",
-      "美臀"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/fcd3c050822c08de6ea258358d8bb772.jpg",
-    "actress": [
-      "新井里真"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-132"
-  },
-  {
-    "id": 6379,
-    "IDcode": "ZMAR-135",
-    "title": "まるっと！大槻ひびき 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "口交",
-      "巨乳",
-      "女優",
-      "人妻",
-      "口爆",
-      "美腿",
-      "性感",
-      "企畫",
-      "美腳",
-      "護士",
-      "4小時以上作品",
-      "劇情",
-      "形象俱樂部",
-      "女優訪談",
-      "單體作品",
-      "明星臉",
-      "精選總編集",
-      "美臀",
-      "故事集"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/0327f1f63f5623b3fdc75b675b9fb2a2.jpg",
-    "actress": [
-      "大槻响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-135"
-  },
-  {
-    "id": 5980,
-    "IDcode": "ZMAR-136",
-    "title": "まるっと！黑川すみれ 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "美乳",
-      "女上位",
-      "家庭主妇",
-      "口交",
-      "絕頂高潮",
-      "純粹的慾望",
-      "人妻",
-      "後入",
-      "巨尻",
-      "口爆",
-      "羞恥",
-      "美腿",
-      "手指插入",
-      "自宅",
-      "性感",
-      "舔陰",
-      "深喉",
-      "美人",
-      "騎乗位",
-      "裸體圍裙",
-      "美腳",
-      "劇情",
-      "形象俱樂部",
-      "高妹",
-      "美人妻",
-      "脚控・戀足癖",
-      "小隻馬",
-      "女友・妻子",
-      "苗條",
-      "單體作品",
-      "清純"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/20c4f8f5fd4f4182af5fe229cfe4657c.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-136"
-  },
-  {
-    "id": 4227,
-    "IDcode": "ZMAR-140",
-    "title": "まるっと！宝生リリー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胸控・戀乳癖",
-      "素人作品",
-      "美乳",
-      "女上位",
-      "御姐系",
-      "口交",
-      "巨乳",
-      "女優",
-      "絕頂高潮",
-      "人妻",
-      "後入",
-      "極品美人",
-      "手指插入",
-      "性感",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "三十路",
-      "美腳",
-      "形象俱樂部",
-      "清楚系",
-      "美人妻",
-      "色白",
-      "小隻馬",
+      "強姦",
+      "奇聞趣事",
       "真實拍攝",
-      "女優訪談",
-      "熟女",
       "中出",
-      "單體作品",
-      "乳交",
-      "真人秀",
-      "美臀"
-    ],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/28e17252e1fdae85a0980521d1381ec3.jpg",
-    "actress": [
-      "寶生莉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-140"
-  },
-  {
-    "id": 3448,
-    "IDcode": "ZMAR-142",
-    "title": "まるっと！倉本すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高顏值",
-      "女上位",
+      "監禁",
+      "業餘",
       "口交",
-      "女優",
-      "鬃毛",
-      "後入",
-      "口爆",
-      "極品美人",
-      "少女",
-      "手指插入",
-      "性感",
-      "蠻橫嬌羞",
-      "舔陰",
-      "美人",
-      "企畫",
-      "騎乗位",
-      "美少女電影",
-      "美腳",
-      "形象俱樂部",
-      "清楚系",
-      "童顔",
-      "色白",
-      "美少女",
-      "小隻馬",
-      "慾求不滿",
-      "苗條",
-      "中出",
-      "單體作品",
-      "癡女",
-      "貧乳",
-      "清純"
+      "劇情",
+      "偷窺",
+      "暗黑系"
     ],
     "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/1b0655a2/vod.jpg",
-    "actress": [
-      "倉本菫"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-142"
-  },
-  {
-    "id": 179052,
-    "IDcode": "ZMAR-144",
-    "title": "まるっと！翔田千里（3）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[\"PLANETPLUS\"]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/03/513f23d4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-144"
-  },
-  {
-    "id": 221997,
-    "IDcode": "zmen-001",
-    "title": "错过末班车的女上司",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/e8d08821a0fa165c596403c37f051246.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zmen-001"
-  },
-  {
-    "id": 216112,
-    "IDcode": "zmen-035",
-    "title": "被迫用春药振动器自慰",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/12/05dfec0660da3a1d13b229be50494881.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zmen-035"
-  },
-  {
-    "id": 83297,
-    "IDcode": "ZMEN-037",
-    "title": "雑魚寝してたらボクの布団に友達の彼女が潜り込できて… 2 寝ぼけキスには彼氏のフリして応じておいて 目覚めて拒否るカノジョに「こんなに勃起させたのキミだから」とイキ声ガマンさせ何度も奥突き！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "接吻",
-      "素人作品",
-      "口交",
-      "女大学生",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2019-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/f421fb60a8b3d8d67a202db4f9391251.jpg",
+    "publish_date": "2024-02-09",
+    "cover_url": "https://picture.yoshiclub.xyz/20240209/645befac-3b03-43be-977e-216f25da5eed.jpg",
     "actress": [
       "皆月光",
-      "今井夏帆",
-      "森本つぐみ"
+      "胡桃櫻花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-031"
   },
   {
-    "id": 83244,
-    "IDcode": "ZMEN-041",
-    "title": "ガチ天使！2 看護師になった友人の妹に怪我の処置をしてもらっていたら不覚にもチ○ポが反応してしまい…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "护士",
-      "素人作品",
-      "妹妹",
-      "连裤袜",
-      "颜射",
-      "童年朋友",
-      "制服"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2020-01-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/49ebe006e2696a3ee1ec939f227f5568.jpg",
-    "actress": [
-      "若宫穂乃",
-      "琴音芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-041"
-  },
-  {
-    "id": 216445,
-    "IDcode": "zmen-048",
-    "title": "同居女友外出旅行的三天里",
+    "id": 561877,
+    "IDcode": "HRSM-032",
+    "title": "不法挿入 OLコンスイ霊プ 意识モ记忆モ无ク精子デ污サレタキャリアウーマン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/08/bd36ab566102a16f63f8412af9817a0b.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240211/FwLDJKMI/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zmen-048"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-032"
   },
   {
-    "id": 82124,
-    "IDcode": "ZMEN-049",
-    "title": "幻覚！妄想？いままでメスとみなしていなかった妹に突然猫耳が生えて…二次元好きの僕はドストライクすぎて痛いほど超勃起しちゃった！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高中女生",
-      "妹妹",
-      "猫耳女",
-      "口交",
-      "恋物癖"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2020-04-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221108-1/277c4fd37d4e594991b66a776b596d7c.jpg",
-    "actress": [
-      "永瀬ゆい",
-      "笠木いちか",
-      "柳ゆうき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-049"
-  },
-  {
-    "id": 79099,
-    "IDcode": "ZMEN-086",
-    "title": "ボクの布団に朝帰りしたヤンキー義妹がもぐりこんできて…5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女生",
-      "妹妹",
-      "女上位",
-      "口交",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/1cdf3e7ea612c05516d9368918dcdfcb.jpg",
-    "actress": [
-      "森日向子",
-      "叶月もえ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-086"
-  },
-  {
-    "id": 83303,
-    "IDcode": "ZNN-011",
-    "title": "× × × 映像 無差別婦女暴行記録 File.01",
+    "id": 561875,
+    "IDcode": "HRSM-033",
+    "title": "3年间ずっと一绪にいてくれてありがとう 毎日3人でいたけど今日で最后 ホントはずっと嫌いだった",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "2020-01-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/9fa3e7c324d69af441c798459a5a2b39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZNN-011"
-  },
-  {
-    "id": 89520,
-    "IDcode": "ZOCM-062",
-    "title": "就活女子大生セクハラ面接の実態！「内定の為なら…私なんでもします」ブラック企業によるパワハラ行為の一部始終大公開！恥じらいAV出演 なんでも従順いいなり社畜娘に教育しちゃいますSP MEMORIAL BEST Report.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品",
-      "精选，综合",
-      "中出",
-      "主观视角",
-      "女大学生"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "2023-09-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231226-1/4ccf1c55658fe7a31252ff6a0f9da225.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOCM-062"
-  },
-  {
-    "id": 166784,
-    "IDcode": "ZOKG-036",
-    "title": "家庭教師のお姉さんにセクハラ痴漢した全記録集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230325/h_254zokg00036pl.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240211/EdXa92WX/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOKG-036"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-033"
   },
   {
-    "id": 175743,
-    "IDcode": "ZOOO-160",
-    "title": "四十路の未亡人 乱れる肉体batch",
+    "id": 561769,
+    "IDcode": "HRSM-034",
+    "title": "アスリートハンター3 肉体観察と竞技场内生挿れ中出しブッかけチカン",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/2345617022d9c2da9e1ff3aebe4ac4e2.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240225/bTbrOOM5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOOO-160"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-034"
   },
   {
-    "id": 5618,
-    "IDcode": "ZOOO-194",
-    "title": "熟女30代 マンション団地妻の生態",
+    "id": 561770,
+    "IDcode": "HRSM-035",
+    "title": "物件内见チカン 密室に2人きり 逃走不可 お部屋探し中の素人女子4名",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "不倫",
-      "美乳",
-      "女上位",
-      "家庭主妇",
-      "口交",
-      "巨乳",
-      "昭和系",
-      "絕頂高潮",
-      "人妻",
-      "後入",
-      "美腿",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240225/EbdchUmy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-035"
+  },
+  {
+    "id": 561766,
+    "IDcode": "HRSM-036",
+    "title": "お姊ちゃんレ×プ シスコンマニア趣味の记录2 巨乳の姊2名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240225/6woP8l8y/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-036"
+  },
+  {
+    "id": 546111,
+    "IDcode": "HRSM-037",
+    "title": "アパレルスタッフ粘着盗撮 强袭生ちん串刺しチカン2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240312/EH1iTmh0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-037"
+  },
+  {
+    "id": 561625,
+    "IDcode": "HRSM-038",
+    "title": "ストレッチ専门店 Mr.stretch 爆乳を揉みしだくセクハラ施术 完全个室 パーソナルストレッチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240310/zhutpc8j/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-038"
+  },
+  {
+    "id": 546106,
+    "IDcode": "HRSM-039",
+    "title": "看护师集団痴汉 中出し轮奸#睡眠●#集団レ×プ#院内强制性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240312/3qzs62B4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-039"
+  },
+  {
+    "id": 15915,
+    "IDcode": "HRSM-040",
+    "title": "現在我要同時操這對姐妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "輪姦",
+      "女學生",
+      "貧乳",
+      "殘忍畫面",
+      "美少女",
+      "JK校服",
+      "魔鬼系",
+      "羞恥",
       "淫亂",
-      "手指插入",
-      "出軌",
-      "自宅",
-      "性感",
-      "舔陰",
-      "美人",
-      "蕩婦",
-      "騎乗位",
-      "寢取",
-      "三十路",
-      "NTR",
-      "劇情",
-      "形象俱樂部",
-      "清楚系",
-      "美人妻",
-      "色白",
+      "自拍性愛",
+      "真實拍攝",
       "素人",
-      "老頭子",
-      "慾求不滿",
-      "熟女",
+      "強姦",
       "中出",
-      "苗條",
-      "淫蕩・硬核",
-      "故事集"
+      "兩男兩女",
+      "劇情",
+      "業餘"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/c87f774e89775b99162ae829153ddae7.jpg",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "2024-03-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20240323/7408860d-1d7f-4dc7-b0e7-ea6568e2d851.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOOO-194"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-040"
   },
   {
-    "id": 61863,
-    "IDcode": "ZOOO-197",
-    "title": "マジでこれで人妻！ヨーロッパで見つけた美熟女と不倫セックス！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "素人作品",
-      "乳交",
-      "白人",
-      "已婚妇女",
-      "巨乳",
-      "人妻",
-      "淫乱，真实",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/db63352d8d591a9fb09e294f2fc13753.jpg",
-    "actress": [
-      "エヴァ・ヴェーガー",
-      "ネリー・キャン",
-      "キャシー・ヘブン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOOO-197"
-  },
-  {
-    "id": 223085,
-    "IDcode": "ZOZO-152",
-    "title": "被高薪工作欺骗-美南编",
+    "id": 545971,
+    "IDcode": "HRSM-041",
+    "title": "街金 返済期日に间に合わなかった债务者たち4名 住所#氏名#年齢#颜 晒します 人権を无视され",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/42766cdefd564ec370f4c9443fc23ab8.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240324/viWo3z1k/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOZO-152"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-041"
   },
   {
-    "id": 156817,
-    "IDcode": "ZOZO-153",
-    "title": "被高薪工作欺骗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/a104d44e4018415a450c51ade83a81cb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOZO-153"
-  },
-  {
-    "id": 63309,
-    "IDcode": "ZOZO-239",
-    "title": "羞恥！新入生春の発育身体測定～藤田さち編～",
+    "id": 15917,
+    "IDcode": "HRSM-042",
+    "title": "流竄強奸便利店女店員",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
-      "放尿",
-      "中出",
-      "4K",
-      "羞耻",
-      "制服",
-      "鸭嘴",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/db742abcf7b24e2fe1913a92ee7a8ae3.jpg",
-    "actress": [
-      "藤田さち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOZO-239"
-  },
-  {
-    "id": 174543,
-    "IDcode": "ZOZO-249",
-    "title": "羞恥！高時給に騙されたッ！ファミレスで恥ずかしすぎる逆バニーで働かされている私…。～あず編～ 天月あず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/01/c8af61b17bd192dd5f36bf6fb524ec09.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOZO-249"
-  },
-  {
-    "id": 69311,
-    "IDcode": "ZRK-001",
-    "title": "淫獣女縛殺腹パン奴● 内臓躾編 朝霧わかな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "已婚妇女",
-      "巨乳",
       "深喉",
-      "饮尿",
-      "捆绑",
-      "颜射",
-      "拘束",
-      "吞精",
-      "单体作品"
+      "便利商店",
+      "強姦",
+      "倉庫",
+      "魔鬼系",
+      "自拍性愛",
+      "真實拍攝",
+      "中出",
+      "劇情",
+      "偷窺",
+      "職員",
+      "業餘"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-1/a56c0678767c67f50de26a0345cea03a.jpg",
-    "actress": [
-      "朝霧わかな"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZRK-001"
+    "publish_date": "2024-03-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20240323/02579464-b880-4d0d-a237-7c65bc27266d.jpg",
+    "actress": [
+      "齋藤亞美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-042"
   },
   {
-    "id": 198547,
-    "IDcode": "zrk-002",
-    "title": "内臓胃イラマ喉虐調教 神宮寺響子",
+    "id": 561121,
+    "IDcode": "HRSM-043",
+    "title": "カフェ店员同僚いじめ 强制中出しレ×プ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/19e217c4b56b4f114b4b296bf799bedf.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240414/sfiIPA6U/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zrk-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-043"
   },
   {
-    "id": 67755,
-    "IDcode": "ZUKO-003",
-    "title": "在没有丈夫的情况下进行了一次狂欢",
+    "id": 561119,
+    "IDcode": "HRSM-044",
+    "title": "邻に住む可爱いあの娘… 今から犯しに行きます",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240414/czkwJsBT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-044"
+  },
+  {
+    "id": 561022,
+    "IDcode": "HRSM-045",
+    "title": "メンズ脱毛サロン ♯VIO施术♯プライベートサロン♯かわいい♯勃起してしまったら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-045"
+  },
+  {
+    "id": 561023,
+    "IDcode": "HRSM-046",
+    "title": "同窗会泥●轮奸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-046"
+  },
+  {
+    "id": 542133,
+    "IDcode": "HRSM-047",
+    "title": "[] 妹奸 シスコンマニア趣味の记录3 成长した実の妹4名",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
+      "高清画质"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240609/h_1745hrsm047pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-047"
+  },
+  {
+    "id": 560900,
+    "IDcode": "HRSM-048",
+    "title": "ガールズバー生ちん串刺し集団わいせつ～非道行为でぶっ壊されたキャスト～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240512/kro2ATtO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-048"
+  },
+  {
+    "id": 14504,
+    "IDcode": "HRSM-049",
+    "title": "美容部員狩獵！一流百貨店化妝品銷售美女4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女業務",
+      "獵豔",
+      "羞恥",
+      "中出",
+      "制服",
+      "口交",
+      "企畫",
+      "女上位",
+      "絕頂高潮"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7c0b679f1ac4ec45ac1fd/cover.jpg",
+    "actress": [
+      "美咲佳奈",
+      "友田彩也香",
+      "若宮葉月",
+      "小松杏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-049"
+  },
+  {
+    "id": 561938,
+    "IDcode": "HRSM-050",
+    "title": "［ライブハウスちかん01］＃バンギャ＃生ハメ＃絶望＃中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240526/w0ldzLnd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-050"
+  },
+  {
+    "id": 560773,
+    "IDcode": "HRSM-051",
+    "title": "隠し撮り 妊活エステ ポルチオを开発され身动き出来ない状态で无理やり中出しされた不妊で悩む奥様4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240616/lk9F9xb9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-051"
+  },
+  {
+    "id": 560774,
+    "IDcode": "HRSM-052",
+    "title": "ムキョカ侵入 ナマハメ挿入 深イ梦ノ中デ中出シサレタ美少女タチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240616/5jQzyF2z/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-052"
+  },
+  {
+    "id": 466197,
+    "IDcode": "HRSM-053",
+    "title": "服飾店員粘着偷拍 襲擊無套肉棒串刺姦 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c29c04c6d1004ed429c201/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-053"
+  },
+  {
+    "id": 466204,
+    "IDcode": "HRSM-054",
+    "title": "775 男性脫毛沙龍2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c295f5c6d1004ed42997c4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-054"
+  },
+  {
+    "id": 454057,
+    "IDcode": "HRSM-055",
+    "title": "再見。我心愛的妹妹,兄妹性愛,兩個可愛的姊妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5a963eb67774efbb87c64/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-055"
+  },
+  {
+    "id": 560629,
+    "IDcode": "HRSM-056",
+    "title": "スポーツ强豪校陆上部夏季合宿 【トラウマ】【动画流出】【炎上】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240716/bTIjGgqH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-056"
+  },
+  {
+    "id": 13090,
+    "IDcode": "HRSM-057",
+    "title": "角川花火大會淫亂派對 4位浴衣美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "艷遇",
+      "多P",
+      "兩男兩女",
+      "和服・浴衣・喪服",
+      "美乳",
+      "亂交 • 群P",
+      "口交",
+      "業餘",
+      "潮吹",
+      "人妻",
+      "淫亂",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "聚會・PARTY",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "2024-07-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20240727/de985125-d82b-44c6-b818-212190457a27.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-057"
+  },
+  {
+    "id": 560591,
+    "IDcode": "HRSM-058",
+    "title": "ガスマスク3 梦の中でHighにさせられたオナホ女8名 ※イキ过ぎ注意",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240729/8kI42Sei/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-058"
+  },
+  {
+    "id": 560533,
+    "IDcode": "HRSM-059",
+    "title": "ガールズバー生ちん串刺し集団わ○せつ2～非道行为でぶっ壊されたキャスト～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240814/uM2vPlvd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-059"
+  },
+  {
+    "id": 466283,
+    "IDcode": "HRSM-060",
+    "title": "美容人員搜捕某頂級百貨公司銀座總店一樓化妝品部工作人員2,4人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba7ded4898416418383acf/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-060"
+  },
+  {
+    "id": 155278,
+    "IDcode": "HRSM-061",
+    "title": "楼梯口堵住学生妹强行把吊塞入她口里用强力迷药迷晕带回肆意玩弄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20240918-1/82d0f141642bd913f233b84aab568865.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-061"
+  },
+  {
+    "id": 560272,
+    "IDcode": "HRSM-062",
+    "title": "クラス全员穴兄弟 孕ませ数珠繋ぎ 助かりたければクラスメイトを売れ 狙われた県立K校3年3组",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240930/DFZ8IWhN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-062"
+  },
+  {
+    "id": 560270,
+    "IDcode": "HRSM-063",
+    "title": "近亲中出しスイミンカン失败 途中で覚醒→家庭内で修罗场→开き直り令プされる姊2名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240930/WDin3OYz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-063"
+  },
+  {
+    "id": 466332,
+    "IDcode": "HRSM-064",
+    "title": "「有人過來了～在這裡舔的喔ww」緊張玩法讓人火熱發情！超緊張露出口交（/ω￥）屋外榨取精子的變態素人娘10人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b43ef55fdaf263a25ce5f9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-064"
+  },
+  {
+    "id": 463689,
+    "IDcode": "HRSM-065",
+    "title": "賽車皇后狩獵 無縫光澤絲襪 SUPER G○ 2024",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/c4452382651dbb5c85717445fcfa5afe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-065"
+  },
+  {
+    "id": 462693,
+    "IDcode": "HRSM-066",
+    "title": "超短裙 露內褲@小穴醬 4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/8858629d276783648676eeb066f7db1b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-066"
+  },
+  {
+    "id": 493088,
+    "IDcode": "HRSM-067",
+    "title": "TOKYO×SNAP 业余性感女孩 #街头快照搭讪 #最强淫荡素人女孩被可爱地拍摄， 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/e0795df54e8ef66d0017c6e30f6c2aed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-067"
+  },
+  {
+    "id": 463690,
+    "IDcode": "HRSM-068",
+    "title": "天空中的人 某航空公司空姐 飛機前更衣室 破壞黑絲褲襪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/51747d1c735151a2552bbe05e49b9bb6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-068"
+  },
+  {
+    "id": 466271,
+    "IDcode": "HRSM-069",
+    "title": "訪問看護 高齡者性處理協助 洋溢母性的巨乳居家看護師 4人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/3b7c53c120652255fc9506d06d841fbc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-069"
+  },
+  {
+    "id": 11080,
+    "IDcode": "HRSM-070",
+    "title": "光天化日下的癡漢猥褻迷奸 ~ 相月菜緒 月見若葉 酒井莉乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴漢",
+      "美少女",
+      "強姦",
+      "羞恥",
+      "迷姦",
+      "真實拍攝",
+      "中出",
+      "變態",
+      "後入",
+      "企畫",
+      "女上位",
+      "少女",
+      "口交",
+      "騎乗位",
+      "業餘"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68997a9855337d7f7bd28cd5/cover.jpg",
+    "actress": [
+      "月見若葉",
+      "相月菜緒",
+      "酒井莉乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-070"
+  },
+  {
+    "id": 454201,
+    "IDcode": "HRSM-071",
+    "title": "家庭内妹妹观察（厕所、自慰、换衣服等） 在泡泡浴中意外醒过来→变成战场→坦然接受→精神崩溃的OO妹妹4人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc27375f13d063bcd296d2/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-071"
+  },
+  {
+    "id": 483633,
+    "IDcode": "HRSM-072",
+    "title": "欢迎来到GreenParkRawP观察日记迷你裙J○中出纪录未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/3c731263f5f747460c86c386bc783713.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-072"
+  },
+  {
+    "id": 10490,
+    "IDcode": "HRSM-073",
+    "title": "狩獵手機店的女店員 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "飯店",
+      "職員",
+      "美少女",
+      "美腳",
+      "羞恥",
+      "勾引・誘惑",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "業餘",
+      "潮吹",
+      "深喉",
+      "淫亂",
+      "內衣",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "美少女電影",
+      "素人",
+      "魔鬼系",
+      "乳交",
+      "女上位",
+      "偷窺",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20241122/bad71f94-6788-4951-889a-6b963567d655.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-073"
+  },
+  {
+    "id": 10493,
+    "IDcode": "HRSM-074",
+    "title": "地下偶像的援交生意 - 可愛的陰部 中出OK - COSPLAY性愛瘋狂高潮 4本番",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "獵豔",
+      "小隻馬",
+      "飯店",
+      "完全着衣",
+      "女僕制服",
+      "美少女",
+      "美腳",
+      "口交",
+      "業餘",
+      "形象俱樂部",
+      "潮吹",
+      "私房攝影",
+      "COSPLAY服飾",
+      "寫真偶像",
+      "中出",
+      "後入",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "應召・援交",
+      "美少女電影",
+      "素人",
+      "偶像",
+      "蘿莉",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20241122/c5073485-cd02-47dd-bfd6-79f65d809955.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-074"
+  },
+  {
+    "id": 525738,
+    "IDcode": "HRSM-075",
+    "title": "アパレルスタッフ粘着○撮 ○袭生ちん串刺しチ○ン4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241225/f4vgOtYt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-075"
+  },
+  {
+    "id": 462841,
+    "IDcode": "HRSM-076",
+    "title": "進学塾 ねてる間に大人になる すいみん学習",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c24218a681bb640dc30cbf/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-076"
+  },
+  {
+    "id": 9544,
+    "IDcode": "HRSM-077",
+    "title": "迷奸東京觀光旅遊小姐4名 ~ 響かれん 惠沙也香 美木雛乃 神村美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "媚藥・迷藥",
       "素人作品",
+      "苗條",
+      "痴漢",
+      "凌辱",
+      "美少女",
+      "肉絲",
+      "強姦",
+      "美腳",
+      "美乳",
+      "變態",
+      "制服",
+      "清楚系",
+      "口交",
+      "性感",
+      "業餘",
+      "形象俱樂部",
       "中出",
-      "出轨",
-      "已婚妇女",
-      "第一人称摄影",
-      "滥交"
+      "後入",
+      "企畫",
+      "清純",
+      "美少女電影",
+      "魔鬼系",
+      "迷姦",
+      "女導游",
+      "女上位",
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/13/04e3618463648f24fef41ce519459274.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/28/68b0696ca681bb640da966ad/cover.jpg",
     "actress": [
-      "青叶优香",
-      "羽鸟みか",
-      "岩月志保",
-      "藤咲葵"
+      "美木雛乃",
+      "恵沙也香",
+      "神村彩月",
+      "響かれん"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-077"
   },
   {
-    "id": 170433,
-    "IDcode": "ZUKO-003-C",
-    "title": "我们 瞒着丈夫偷偷的玩乱交 青叶优香,羽鳥みか,岩月志保等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250416-1/db6e1986397dbe4cad8060ceaf6850aa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-003-C"
-  },
-  {
-    "id": 179000,
-    "IDcode": "zuko-046",
-    "title": "在合租的公寓被四个美女大姐姐轮流榨精一天做爱五十次",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/02/6adc7d336da9e8304b7cf7276cfd1ed3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-046"
-  },
-  {
-    "id": 208008,
-    "IDcode": "zuko-047",
-    "title": "在丈夫面前被侵犯到高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240306-1/d96253b1248a2e94d5e55087b00231d7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-047"
-  },
-  {
-    "id": 222003,
-    "IDcode": "zuko-055",
-    "title": "制服女子校生",
+    "id": 565110,
+    "IDcode": "HRSM-078",
+    "title": "街金 返済期日に间に合わなかった债务者たち4名 住所#氏名#年齢#颜 晒します 人権を无视され",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/c331f3666aa576e3b1cc4c37d806aef6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-055"
-  },
-  {
-    "id": 166327,
-    "IDcode": "ZUKO-061",
-    "title": "一天之内和一对母子来了40次",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "type": "有码",
-    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/19/be5b0f2e7c4d90310bf74827994edf49.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250203/KgYhZSk3/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-061"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-078"
   },
   {
-    "id": 226259,
-    "IDcode": "zuko-087",
-    "title": "和四个古灵精怪妹妹的恶作剧性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/af48683694e28d429de9e64771c6f78e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-087"
-  },
-  {
-    "id": 209650,
-    "IDcode": "zuko-088",
-    "title": "偉大なる悪魔たちを召喚し",
+    "id": 463113,
+    "IDcode": "HRSM-079",
+    "title": "空之人 某航空公司空姐 航班前的更衣室 撕破黑絲褲襪2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/16/d8324379b2cdeb85155731c3ac22b4e1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1606f5f13d063bcc2beed/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-079"
   },
   {
-    "id": 213910,
-    "IDcode": "zuko-091",
-    "title": "和我公司的四位同事正在进行考察",
+    "id": 463111,
+    "IDcode": "HRSM-080",
+    "title": "可惡的迷你裙 2 露內褲@秘裂醬 4名",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/13/44366f4b9f4bbb88c26d1d3586e9c124.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b15ddd5fdaf263a256e467/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-080"
   },
   {
-    "id": 100135,
-    "IDcode": "ZUKO-098",
-    "title": "亲戚的女孩",
+    "id": 565170,
+    "IDcode": "HRSM-081",
+    "title": "温泉旅馆 仲居さん狩り 着物セックス 和服美人4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250326/1Uq9Yyto/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-081"
+  },
+  {
+    "id": 565167,
+    "IDcode": "HRSM-082",
+    "title": "セクハラ接骨院2 就活中の隠れ巨乳のリクスー女子4名 脱いだらスタイル抜群！セクハラマッサージ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女生",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250326/eFFMByIw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-082"
+  },
+  {
+    "id": 8150,
+    "IDcode": "HRSM-083",
+    "title": "傳聞中會提供超爽服務的粉紅色爆乳娘。客人如果一直加鍾到早上的話，將激活極度色情的祕密服務，你的蛋蛋會幹掉的哦 ~ 鹿野愛萌 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "獵豔",
+      "巨尻",
+      "多P",
+      "口爆",
+      "素人作品",
+      "兩男兩女",
+      "綠茶婊",
+      "感官作品",
+      "和服・浴衣・喪服",
+      "癡女",
+      "傳播妹",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "業餘",
+      "形象俱樂部",
+      "潮吹",
+      "風俗娘",
+      "淫亂",
+      "猥褻穿著",
       "中出",
-      "妹妹",
-      "滥交",
-      "萝莉塔"
+      "美人",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "拜金女",
+      "女上位",
+      "丁字裤",
+      "騎乗位",
+      "情趣內衣"
     ],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/dd12c675b1194e54ff83141f2c64ccf4.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4eddce4a73d4f15c25ff2/cover.jpg",
     "actress": [
-      "AIKA",
-      "迹美珠里",
-      "宫崎彩",
-      "若宫はずき",
-      "広瀬うみ"
+      "羽月乃蒼",
+      "鹿野愛萌"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-098"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-083"
   },
   {
-    "id": 220123,
-    "IDcode": "ZUKO-099",
-    "title": "向镇上的所有妻子分发种子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/14/8b09d0c12d16ddff8ed272e3af8594a9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-099"
-  },
-  {
-    "id": 209678,
-    "IDcode": "zuko-102",
-    "title": "裸族がホームステイでやってきた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/19/7193b6f05a36d2405bf833e63692ec6d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-102"
-  },
-  {
-    "id": 218602,
-    "IDcode": "zuko-112",
-    "title": "朋友突然变成了女人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/05/573010da38085a9ff5f25a0e1d8dcda4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-112"
-  },
-  {
-    "id": 216111,
-    "IDcode": "zuko-115",
-    "title": "和三个妹妹的造人恶作剧",
+    "id": 8192,
+    "IDcode": "HRSM-084",
+    "title": "親愛妹妹的觀察日記（自慰、換衣服、洗澡隱蔽偷拍）偷偷插入時意外醒來 → 從那天起，就是地獄 ~ 片寄しゅうか 美木雛乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/12/803140e560f6248a587f2eaafdcadc43.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-115"
-  },
-  {
-    "id": 225936,
-    "IDcode": "zuko-118",
-    "title": "和她的女性朋友们在一起聚会",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/6c62537e6a29d253d6d506b0ab0a29a7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-118"
-  },
-  {
-    "id": 82944,
-    "IDcode": "ZUKO-119",
-    "title": "催眠大法让老妈和三个姐姐互相争夺我的肉棒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "女學生",
+      "真實拍攝",
+      "素人作品",
+      "苗條",
+      "偷拍・盜撮",
+      "亂倫",
+      "凌辱",
+      "美少女",
+      "美腳",
+      "強姦",
+      "姐弟・兄妹",
+      "羞恥",
+      "JK校服",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "變態",
+      "過膝襪・小腿襪",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "高顏值",
+      "校花",
       "中出",
-      "催眠",
-      "主观视角",
+      "姐姐・妹妹",
+      "美人",
+      "後入",
+      "劇情",
+      "美臀",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
       "乱伦",
-      "滥交"
+      "魔鬼系",
+      "女上位",
+      "偷窺",
+      "騎乗位"
     ],
     "type": "有码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250619-1/a7c2cc8dfbd228f6a2a7dde8274fac86.jpg",
-    "actress": [
-      "安部未華子",
-      "佐佐木明希",
-      "神波多一花",
-      "広瀬うみ"
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-119"
+    "publish_date": "2025-02-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20250217/78e7fc94-7c3f-4288-a093-93ba8d0be53f.jpg",
+    "actress": [
+      "美木雛乃",
+      "片寄しゅうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-084"
   },
   {
-    "id": 221992,
-    "IDcode": "zuko-120",
-    "title": "常著名的性俱乐部训练营",
+    "id": 565172,
+    "IDcode": "HRSM-085",
+    "title": "レースクイン狩り2 マチなし光沢ストッキング TOKYO A○TO S○LON 2025",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/6764f1213ef61055355c950f27a2501a.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250326/N2OxS8NL/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-120"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-085"
   },
   {
-    "id": 213020,
-    "IDcode": "zuko-122",
-    "title": "给咖啡馆所有女仆配种",
+    "id": 7793,
+    "IDcode": "HRSM-086",
+    "title": "【性騷擾/快感地獄/後入即插/生中出】體育系整體治療所 全國大賽選手雲集 體育強校私立的私立配套設施 ~ 柏木小夏 高城なぎさ 糸井ありさ 四乃宮もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "運動服裝",
+      "女學生",
+      "小隻馬",
+      "故事集",
+      "醫生製服",
+      "苗條",
+      "美少女",
+      "美腳",
+      "羞恥",
+      "美乳",
+      "寢取",
+      "清楚系",
+      "口交",
+      "業餘",
+      "形象俱樂部",
+      "按摩・美容店",
+      "高顏值",
+      "校花",
+      "中出",
+      "美人",
+      "後入",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影",
+      "魔鬼系",
+      "運動女孩",
+      "按摩・物理治療・美容",
+      "誘騙女性",
+      "女上位",
+      "偷窺",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4a900d7791f9273fda4c7/cover.jpg",
+    "actress": [
+      "柏木小夏",
+      "高城なぎさ",
+      "四乃宮桃",
+      "糸井ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-086"
+  },
+  {
+    "id": 7432,
+    "IDcode": "HRSM-087",
+    "title": "“早上起來就幹一炮？”素顏也超可愛女友的鬧鍾惡作劇生中出し ~ 渡辺まりか 柏木小夏 鬆井日奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女友・妻子",
+      "小隻馬",
+      "純粹的慾望",
+      "豐滿",
+      "苗條",
+      "美腳",
+      "精選綜合",
+      "羞恥",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "業餘",
+      "形象俱樂部",
+      "中出",
+      "美人",
+      "後入",
+      "美臀",
+      "清純",
+      "美少女電影",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "2025-03-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20250319/0f6f449e-c2b6-4b76-804c-794b07e5238f.jpg",
+    "actress": [
+      "柏木小夏",
+      "松井日奈子",
+      "渡辺まりか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-087"
+  },
+  {
+    "id": 466626,
+    "IDcode": "HRSM-088",
+    "title": "4名色情,汗流浹背,身體擦洗女OO[當地溫泉,封閉房間,定點觀察,色情服務,原始性愛,汗流浹背,認真性愛]",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/26/78077bf657a38b721dd614ba95cda20b.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689aba0155337d7f7be488d7/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=zuko-122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-088"
   },
   {
-    "id": 166785,
-    "IDcode": "ZUKO-127",
-    "title": "巨乳女教練全員中出",
+    "id": 70054,
+    "IDcode": "HRSM-089",
+    "title": "「卒業記念のメモリアルフォト」綺麗な袴姿と美しい記憶を破壊する種付け集団生刺し写真館 パンティと生写真付き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "中文字幕"
+      "苗条",
+      "女大学生",
+      "多P",
+      "魔鬼系",
+      "中出",
+      "美少女电影",
+      "巨乳"
     ],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230325/zuko00127pl.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68caa20aeb67774efba3fff2/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-089"
   },
   {
-    "id": 82941,
-    "IDcode": "ZUKO-140",
-    "title": "乳首用媚薬クリーム",
+    "id": 69995,
+    "IDcode": "HRSM-090",
+    "title": "HRSM-090 わ○せつ行為対策護身術「感じる顔を見せないで！」感じていると暴漢をつけあがらせる！「何をされても抵抗して無反応を意識して！」【護身術無料体験】に参加した女性を狙う不良集団",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "已婚妇女",
-      "其他恋物癖",
-      "滥交"
+      "苗条",
+      "女大学生",
+      "多P",
+      "魔鬼系",
+      "中出",
+      "美少女电影",
+      "巨乳"
     ],
     "type": "有码",
-    "company": "[]",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/07/29/QQ20190729140521c0b1f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7b29f79f1ac4ec45a7256/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-090"
+  },
+  {
+    "id": 454521,
+    "IDcode": "HRSM-091",
+    "title": "「哥哥……这是你的第一次吗？我会教你很多可爱又淘气的事情。」他可爱的小妹妹走进浴室……他夺走了她的贞操,用力地法式接吻,拥抱他,性爱可与任何成年人媲美……他没有告诉父母,而是一次又一次地用力插入她的阴道深处,一次又一次地在她体内射精！ ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68994f3755337d7f7bcfa95c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-091"
+  },
+  {
+    "id": 566915,
+    "IDcode": "HRSM-092",
+    "title": "都内某医疗センター 巨乳看护师いじ●动画流出 ヒエラルキー上位に君临する医师たちが行わせた20",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250719-1/bdf2cce1087d4f2f783cd3517b1310dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-092"
+  },
+  {
+    "id": 6591,
+    "IDcode": "HRSM-093",
+    "title": "意識朦朧生刺し営業研修-精子で汚された新入社員4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "車震",
+      "真實拍攝",
+      "新人面試",
+      "素人作品",
+      "飯店",
+      "職場",
+      "故事集",
+      "苗條",
+      "鬼畜片",
+      "凌辱",
+      "4K",
+      "辦公室",
+      "肉絲",
+      "美腳",
+      "強姦",
+      "精選綜合",
+      "OL",
+      "胸控・戀乳癖",
+      "美乳",
+      "寢取",
+      "變態",
+      "制服",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "淫亂",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影",
+      "素人",
+      "魔鬼系",
+      "迷姦",
+      "女上位",
+      "騎乗位",
+      "女同事"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426021842512512_thumbnail.webp",
     "actress": [
-      "塚田詩織",
-      "桐香悠裡",
-      "苑田あゆり",
-      "仓科もえ",
-      "久我かのん"
+      "松井日奈子",
+      "花音うらら",
+      "渡辺まりか",
+      "宮瀬夏純"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-093"
+  },
+  {
+    "id": 6593,
+    "IDcode": "HRSM-094",
+    "title": "シュミレーションゴルフ マンツーマンレッスン痴○",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "運動",
+      "真實拍攝",
+      "素人作品",
+      "故事集",
+      "痴漢",
+      "凌辱",
+      "4K",
+      "美腳",
+      "強姦",
+      "精選綜合",
+      "胸控・戀乳癖",
+      "美乳",
+      "寢取",
+      "變態",
+      "巨乳",
+      "口交",
+      "性感",
+      "淫蕩・硬核",
+      "形象俱樂部",
+      "高顏值",
+      "明星臉",
+      "極品美人",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "美臀",
+      "劇情",
+      "脚控・戀足癖",
+      "美少女電影",
+      "魔鬼系",
+      "迷姦",
+      "運動女孩",
+      "女上位",
+      "騎乗位",
+      "公共場所"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426015911265265_thumbnail.webp",
+    "actress": [
+      "浜辺栞帆",
+      "逢月日葵",
+      "新垣まりん",
+      "汐梨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-094"
+  },
+  {
+    "id": 439008,
+    "IDcode": "HRSM-095",
+    "title": "义弟饥渴难耐，嫂子紧身裤美臀诱惑，从后直入巨根「你在干嘛？不行啦！」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250619-1/6422c044e4e2fb0e661b140c951203dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-095"
+  },
+  {
+    "id": 466518,
+    "IDcode": "HRSM-096",
+    "title": "男士除毛沙龙 3 ♯VIO ♯广告 ♯可爱 ♯即使变硬也没问题",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7dc4d682e2e92819a4862/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-096"
+  },
+  {
+    "id": 463525,
+    "IDcode": "HRSM-097",
+    "title": "清純美麗的前台小姐進行濃厚的出張按摩…兼任多項業務的酒店女郎展現讓男性客瘋狂的中出性交施術",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/68933532c92318f97d88d9e6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-097"
+  },
+  {
+    "id": 458270,
+    "IDcode": "HRSM-098",
+    "title": "巫女さん中出し縁結び甘神4名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250619-1/774af5bda4e93a2a8f1346cf05f8bc2b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-098"
+  },
+  {
+    "id": 5237,
+    "IDcode": "HRSM-099",
+    "title": "對面房間的超辣無防備妹子！巨乳晃眼又露底誘惑，偷看被抓包後竟被邀入房狂榨精 ～ 柏木小夏 朝倉由良 下川紬 桃瀨日葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "純粹的慾望",
+      "素人作品",
+      "4K",
+      "美腳",
+      "癡女",
+      "色白",
+      "美乳",
+      "清楚系",
+      "口交",
+      "巨乳",
+      "形象俱樂部",
+      "高顏值",
+      "極品美人",
+      "蠻橫嬌羞",
+      "美人",
+      "後入",
+      "美臀",
+      "劇情",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "素人",
+      "自慰",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071433859859_thumbnail.webp",
+    "actress": [
+      "柏木小夏",
+      "桃瀨日葵",
+      "朝倉由良",
+      "下川紬"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-099"
+  },
+  {
+    "id": 5236,
+    "IDcode": "HRSM-100",
+    "title": "快遞小妹被強拉進門無情開搞 ～ 前乃菜々 皆瀨明裏 月見若葉 末広純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "M男・M女",
+      "素人作品",
+      "其他職業",
+      "鬼畜片",
+      "4K",
+      "強姦",
+      "羞恥",
+      "色白",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "高顏值",
+      "明星臉",
+      "極品美人",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "無毛",
+      "魔鬼系",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡漢廠",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡漢廠",
+        "works_count": 116
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071448476476_thumbnail.webp",
+    "actress": [
+      "末広純",
+      "皆瀨明里",
+      "前乃菜菜",
+      "月見若葉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-100"
   }
 ];

@@ -1,38 +1,317 @@
 window.PAGE_DATA = [
   {
-    "id": 176774,
-    "IDcode": "CEMD-747",
-    "title": "「塚田しおり」を本気で酔わせたら～性欲暴走リアルSEXドキュメント",
+    "id": 541510,
+    "IDcode": "285ENDX-461",
+    "title": "友达以上恋人未満？男女の友情は成立するのか？结果…友情が固いはずがチ○ポが硬くなってしまい…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "セレブの友",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/951f691a0a437bddb64e491aef89a146.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240216/zKXKHykP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-747"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX-461"
   },
   {
-    "id": 175915,
-    "IDcode": "CEMD-748",
-    "title": "波多野結衣を徹底解剖～丸一日クンニだらけでイカセまくり～",
+    "id": 541511,
+    "IDcode": "285ENDX-462",
+    "title": "マン屁が出るほど突きまくりイキまくり！男女の友达同士は欲情しないのか？検证！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "セレブの友",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/845d29e6/vod.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240216/IdBxvDu5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-748"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX-462"
   },
   {
-    "id": 173258,
-    "IDcode": "CEMD-752",
-    "title": "ノーブラ爆乳ムチムチおっぱいデート7 櫻木みなと",
+    "id": 541583,
+    "IDcode": "285ENDX-468",
+    "title": "女子大生かなこちゃん20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX-468"
+  },
+  {
+    "id": 541584,
+    "IDcode": "285ENDX-469",
+    "title": "女子大生なつみちゃん20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX-469"
+  },
+  {
+    "id": 541585,
+    "IDcode": "285ENDX-470",
+    "title": "女子大生うみちゃん22歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX-470"
+  },
+  {
+    "id": 541586,
+    "IDcode": "285ENDX-471",
+    "title": "女子大生なつかちゃん20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX-471"
+  },
+  {
+    "id": 541587,
+    "IDcode": "285ENDX-472",
+    "title": "女子大生のりかちゃん21歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX-472"
+  },
+  {
+    "id": 498613,
+    "IDcode": "285ENDX257",
+    "title": "みさとさん 20歳 パイパンビキニ女子大生 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/798426c848780edcb3298b93fdb73e1e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX257"
+  },
+  {
+    "id": 498602,
+    "IDcode": "285ENDX259",
+    "title": "ななさん 22歳 女子大生 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/69603bd23aa3c2c4d8e12ecfe1c54cf6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX259"
+  },
+  {
+    "id": 498610,
+    "IDcode": "285ENDX260",
+    "title": "みさとさん 22歳 パイパン女子大生 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/145de7639ffd2d767a627ba1158510a5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX260"
+  },
+  {
+    "id": 498600,
+    "IDcode": "285ENDX261",
+    "title": "けいこさん 21歳 女子大生 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/0c37302e62e157b5d3ed237d42666126.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX261"
+  },
+  {
+    "id": 498615,
+    "IDcode": "285ENDX272",
+    "title": "はるかさん 22歳 女子大生 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/22ebdd832e3b426a05783ea466f2b8dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX272"
+  },
+  {
+    "id": 502591,
+    "IDcode": "285ENDX273",
+    "title": "みおさん 27歳 色白巨乳なパイパンエステティシャン 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/f00789015e631b3ed5d5a12590285f8c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX273"
+  },
+  {
+    "id": 498614,
+    "IDcode": "285ENDX275",
+    "title": "ゆりあさん 19歳 パイパン女子大生 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/bedd4b4f9d108f676320769465d70271.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX275"
+  },
+  {
+    "id": 498609,
+    "IDcode": "285ENDX276",
+    "title": "さえさん 21歳 Eカップ女子大生 【ガチな素人】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/04c0512d0cfab85f949b4932d731edbc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285ENDX276"
+  },
+  {
+    "id": 521198,
+    "IDcode": "285V",
+    "title": "温泉旅行13连发射精！神木丽极上Body两天一夜疯狂缠绵实录 特别附赠幕后花絮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250806-1/979cc9db4cc58822520ee015ca7a5226.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=285V"
+  },
+  {
+    "id": 553531,
+    "IDcode": "288-CN",
+    "title": "042816_ 心跳不已 ～一直想干你～ 有贺游空mp4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=288-CN"
+  },
+  {
+    "id": 153421,
+    "IDcode": "289",
+    "title": "REI-07晚安前的顽皮诱惑Rei",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=289"
+  },
+  {
+    "id": 411886,
+    "IDcode": "28ID035",
+    "title": "人间牧场～怀孕播种繁殖大乱交映像集～4小时 有栖るる ID035",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/2329e1f2763c947fd4b79ace685d19f3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=28ID035"
+  },
+  {
+    "id": 519855,
+    "IDcode": "28SUKE-111",
+    "title": "让老人着迷的剃光美巨乳苗条身材",
     "year": "",
     "country": "",
     "genre": "",
@@ -40,1478 +319,1102 @@ window.PAGE_DATA = [
       "巨乳"
     ],
     "type": "有码",
-    "company": "セレブの友",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/2cede6b7/vod.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/54a98654607db3e32981cb7ed881999d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-752"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=28SUKE-111"
   },
   {
-    "id": 174326,
-    "IDcode": "CEMD-753",
-    "title": "ラブホにこもって、一切の台本ナシの●っぱらいSEXデート6 北野未奈",
+    "id": 67557,
+    "IDcode": "29",
+    "title": "29岁的神崎由真 (Yuma Kanzaki) 是一名来自冈山的前当地偶像妻子，她出现在 AV 中是-神崎ゆま。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "セレブの友",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/adef530b7bf95cf909b2e507c5f6329f.jpg",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/36cd576ec2f00626aa4f6b9fe45c459c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-753"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=29"
   },
   {
-    "id": 174327,
-    "IDcode": "CEMD-754",
-    "title": "1本限りのアナルSEX復活！ 三岳ゆうな ～これで見納め！？～撮影中にアナルSEXを交渉してみた～",
+    "id": 196812,
+    "IDcode": "290SNKH-006",
+    "title": "经常被人称赞屁股很漂亮的美女今天要接受黑人肉棒的冲击",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "セレブの友",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/dcee741b974cda1e44b17df0e3657946.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/19/0ac78a2bd2ad422b646e3e2acd3bfd20.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-754"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=290SNKH-006"
   },
   {
-    "id": 174286,
-    "IDcode": "CEMD-755",
-    "title": "「似鳥日菜」を本気で酔わせたら～性欲暴走リアルSEXドキュメント",
+    "id": 467926,
+    "IDcode": "2924",
+    "title": "街頭口交 Vol. 3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "セレブの友",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/31/04307375/vod.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59c73cf22ae3e041887bd/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-755"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=2924"
   },
   {
-    "id": 173270,
-    "IDcode": "CEMD-756",
-    "title": "涙のノンストップ激イカせSEX64～ド淫乱バージョン 依本しおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "セレブの友",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/c65c486d/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-756"
-  },
-  {
-    "id": 174260,
-    "IDcode": "CEMD-757",
-    "title": "「葉山さゆり」が話題の長身美形ニューハーフと初めての中出しSEX体験 葉山さゆり おりん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "セレブの友",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/31/42180ccb/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-757"
-  },
-  {
-    "id": 221566,
-    "IDcode": "CEMN-003",
-    "title": "第一主观视角化身-佐々木あき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/13/5d2788907e73369d52976176201b842d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMN-003"
-  },
-  {
-    "id": 210112,
-    "IDcode": "CESD-210",
-    "title": "性交の鍵 大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/04/9aea3e824da6ab60b98215cd003c971f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-210"
-  },
-  {
-    "id": 218677,
-    "IDcode": "CESD-270",
-    "title": "女捜査官拷問調教-浜崎真緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/07/310d9a865bea431f2bdbe2293000e1d6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-270"
-  },
-  {
-    "id": 203651,
-    "IDcode": "CESD-300",
-    "title": "女搜查官拷问调教-竹内梨恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/286598603e5c0c1c0e7336981c8fea74.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-300"
-  },
-  {
-    "id": 213725,
-    "IDcode": "CESD-317",
-    "title": "给她丈夫的视频信-成田あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/02/7431d6b67f3a7a04c03ec1c7b1d5a70b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-317"
-  },
-  {
-    "id": 72259,
-    "IDcode": "CESD-330",
-    "title": "コスビッチ3SEX2 吹石れな",
+    "id": 159161,
+    "IDcode": "292DIMY-001",
+    "title": "流出 魔油 お嬢様大狂乱 素人娘淫縛縄解剖 22才",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "角色扮演",
-      "巨乳",
-      "荡妇"
+      "素人"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2017-02-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/f0a26e70749b666ec8cf6611f3a13e99.jpg",
-    "actress": [
-      "吹石玲奈",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-330"
-  },
-  {
-    "id": 96187,
-    "IDcode": "CESD-333",
-    "title": "禁欲第10天的壮阳药-今井真由美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "药物",
-      "淫乱，真实",
-      "纪录片",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/40028f59c2f61ec928beb9dd7ba2973e.jpg",
-    "actress": [
-      "今井真由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-333"
-  },
-  {
-    "id": 105755,
-    "IDcode": "CESD-337",
-    "title": "全世界最甜蜜的蕾丝边约会爱爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "淫乱，真实",
-      "纪录片",
-      "情侣",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240309-1/08a2389ccc6e199a4b9bec94c5cd8839.jpg",
-    "actress": [
-      "波多野结衣",
-      "今井真由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-337"
-  },
-  {
-    "id": 96180,
-    "IDcode": "CESD-341",
-    "title": "中年Nechikkoi SEX3-樱井绫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "接吻",
-      "多P",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/eef9122064e437664d23affef1164347.jpg",
-    "actress": [
-      "桜井彩",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-341"
-  },
-  {
-    "id": 106121,
-    "IDcode": "CESD-342",
-    "title": "被一个通缉犯强奸了-推川ゆうり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "强奸",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/26/327d6110c11d66ba28ec490e62463364.jpg",
-    "actress": [
-      "推川悠里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-342"
-  },
-  {
-    "id": 216396,
-    "IDcode": "CESD-352",
-    "title": "借金妻-小西悠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/05/9c8d72347586c6e83bff1477f1add0bd.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250220/CoPsrist/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-352"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292DIMY-001"
   },
   {
-    "id": 107219,
-    "IDcode": "CESD-396",
-    "title": "进行催眠验证-本田岬",
+    "id": 406937,
+    "IDcode": "292MY-273",
+    "title": "安東奈緒 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "催眠",
-      "成熟的女人",
-      "纪录片",
-      "多P",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9f0634a80ae96c929aff859dcb8af4d4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-273"
+  },
+  {
+    "id": 406873,
+    "IDcode": "292MY-274",
+    "title": "岡祐希 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8a40c08b3d2c586da8a1c5edb190ca86.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-274"
+  },
+  {
+    "id": 407103,
+    "IDcode": "292MY-275",
+    "title": "宮本祥子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2d3f9c732c75339d56c112ce9a78a7cf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-275"
+  },
+  {
+    "id": 406947,
+    "IDcode": "292MY-276",
+    "title": "黒木優 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/38b9bb4aa6c20bed4705be474fc8d343.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-276"
+  },
+  {
+    "id": 406791,
+    "IDcode": "292MY-277",
+    "title": "桜井麻美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4abec9a5b0457d66802b65e7d570ec1a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-277"
+  },
+  {
+    "id": 406875,
+    "IDcode": "292MY-278",
+    "title": "三井里美 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f7898a2701dc51eeb892e94f1e8749d2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-278"
+  },
+  {
+    "id": 407210,
+    "IDcode": "292MY-279",
+    "title": "持田礼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/807239d9e6d3a370751c0e4f30f5bb83.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-279"
+  },
+  {
+    "id": 406982,
+    "IDcode": "292MY-280",
+    "title": "持田礼子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7d9aa0c41890e12b2eeccd316196a140.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-280"
+  },
+  {
+    "id": 406887,
+    "IDcode": "292MY-282",
+    "title": "七尾あかり 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b7b8bd07a8a92b278a9b267d20bb2e29.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-282"
+  },
+  {
+    "id": 406842,
+    "IDcode": "292MY-283",
+    "title": "若槻一実 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ac6ae5013c73004dea92987114090560.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-283"
+  },
+  {
+    "id": 406987,
+    "IDcode": "292MY-284",
+    "title": "仁科志穂 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0baa4e6e77e58c8bb150212470b4b334.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-284"
+  },
+  {
+    "id": 407001,
+    "IDcode": "292MY-285",
+    "title": "星野果奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/18f908e4fbcddb5a7c2d810af022f1e0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-285"
+  },
+  {
+    "id": 406856,
+    "IDcode": "292MY-287",
+    "title": "浅見詩織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2b77f506ad271ea732252e45cbb6b19e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-287"
+  },
+  {
+    "id": 406903,
+    "IDcode": "292MY-288",
+    "title": "浅見詩織 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3936569613abb2f04addad81c5ec1abc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-288"
+  },
+  {
+    "id": 406948,
+    "IDcode": "292MY-289",
+    "title": "早見美優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2eb5af6cf97bfd6b328ccddf40dcb14b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-289"
+  },
+  {
+    "id": 406837,
+    "IDcode": "292MY-290",
+    "title": "早見美優 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/877b83e8a4e20510cf88a2ea8d6b2c59.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-290"
+  },
+  {
+    "id": 407045,
+    "IDcode": "292MY-291",
+    "title": "大野怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2d77eac0f52e65507b21b6b7021d47cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-291"
+  },
+  {
+    "id": 406920,
+    "IDcode": "292MY-292",
+    "title": "大野怜子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e8aaab9e518ceaf935a3af7ebc84404d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-292"
+  },
+  {
+    "id": 407080,
+    "IDcode": "292MY-293",
+    "title": "仲村梨々花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a6860c8dda8f98d3f92eb82c4de5c8e8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-293"
+  },
+  {
+    "id": 406942,
+    "IDcode": "292MY-295",
+    "title": "長瀬美姫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d36e3072757ca5c917c407a059afb818.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-295"
+  },
+  {
+    "id": 407025,
+    "IDcode": "292MY-296",
+    "title": "長瀬美姫 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0b100dd237a1832e763106f1c2db5313.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-296"
+  },
+  {
+    "id": 406954,
+    "IDcode": "292MY-298",
+    "title": "柏木れいか 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/73fc92725e204a131c22828a842f53b8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-298"
+  },
+  {
+    "id": 406895,
+    "IDcode": "292MY-299",
+    "title": "飯田由真 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fc60c9dba1d010ad8feb1edae4f98d04.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-299"
+  },
+  {
+    "id": 407215,
+    "IDcode": "292MY-300",
+    "title": "武田典子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6da385f4866cf953a3215728255c4938.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-300"
+  },
+  {
+    "id": 406974,
+    "IDcode": "292MY-301",
+    "title": "武田典子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/30e93bc04c22bb0199e8b5fade5e675e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-301"
+  },
+  {
+    "id": 76445,
+    "IDcode": "292MY-302",
+    "title": "Natsuko Horiguchi 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/086b6a72c5da00938d32ed26e0bd062d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-302"
+  },
+  {
+    "id": 520558,
+    "IDcode": "292MY-303",
+    "title": "千叶悠子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2e3dad9181c2df3911a8d598d4e5b75f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-303"
+  },
+  {
+    "id": 76444,
+    "IDcode": "292MY-304",
+    "title": "Yuko Chiba 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5691acb4395972f6501e20c16e9cdb05.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-304"
+  },
+  {
+    "id": 406949,
+    "IDcode": "292MY-305",
+    "title": "新山明奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/63bf5ec002086f0d4784c59457de73e8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-305"
+  },
+  {
+    "id": 406997,
+    "IDcode": "292MY-306",
+    "title": "新山明奈 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b79806c7cc7e83514ee00020bdfe9a06.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-306"
+  },
+  {
+    "id": 406876,
+    "IDcode": "292MY-308",
+    "title": "坂井葵 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f0053bccf24393db02a4ef0469c02c59.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-308"
+  },
+  {
+    "id": 406891,
+    "IDcode": "292MY-311",
+    "title": "川崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c436a867035a2188c6adb374c817e497.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-311"
+  },
+  {
+    "id": 406926,
+    "IDcode": "292MY-312",
+    "title": "川崎真緒 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c39e11ec69e678c42bf348a8b2a00a51.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-312"
+  },
+  {
+    "id": 407243,
+    "IDcode": "292MY-313",
+    "title": "戸田今日子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/430ae46e3858ff23b61dcbe6f13888ce.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-313"
+  },
+  {
+    "id": 407037,
+    "IDcode": "292MY-314",
+    "title": "戸田今日子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f8c3bbdc099b09f496444816093b3cd0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-314"
+  },
+  {
+    "id": 407003,
+    "IDcode": "292MY-316",
+    "title": "有賀美緒 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/836a41178220ea4bf977f2ed72f79099.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-316"
+  },
+  {
+    "id": 407422,
+    "IDcode": "292MY-317",
+    "title": "堀口夏菜子 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d1f66866a0132b9d19159aac8749ec78.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-317"
+  },
+  {
+    "id": 76527,
+    "IDcode": "292MY-318",
+    "title": "穿着和服的优雅人妻意外的允许和我进行一次亲密接触",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/193ce0ac5a9bdf2dbc480e6c5b756100.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-318"
+  },
+  {
+    "id": 75082,
+    "IDcode": "292MY-319",
+    "title": "巨乳魔女人妻OL上网约炮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/5e18d96ec96fc9b646a9a1236807ac6c.jpg",
-    "actress": [
-      "本田岬"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-396"
-  },
-  {
-    "id": 212197,
-    "IDcode": "CESD-409",
-    "title": "禁欲10日-波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/07/942b1f6983ecbea1f2abb5c13eaee07e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/26cd9aa31b11b6f400e952a7ff276187.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-409"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-319"
   },
   {
-    "id": 209528,
-    "IDcode": "CESD-477",
-    "title": "僕が愛し-香椎りあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/07/fb04e5a44c2fcd1b112a135a831862d4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-477"
-  },
-  {
-    "id": 178984,
-    "IDcode": "CESD-490",
-    "title": "对香椎梨亚的催眠洗脑侵犯堕落性爱拍摄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/02/6c61a2a9ce1fd612e016729ec1c098a2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-490"
-  },
-  {
-    "id": 223810,
-    "IDcode": "CESD-537",
-    "title": "成为儿子听话的母狗-加藤あやの",
+    "id": 406912,
+    "IDcode": "292MY-320",
+    "title": "内山千春 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/26/3db19652df24188a08fcce4eb91cd586.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-537"
-  },
-  {
-    "id": 218310,
-    "IDcode": "CESD-577",
-    "title": "满足丈夫的绿帽子倾向-波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/17/a37cc87cef9780980d01a82b7b905308.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-577"
-  },
-  {
-    "id": 219933,
-    "IDcode": "CESD-612",
-    "title": "人妻監禁-桃山凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/08/b550a254aa976710d022cd649beb5825.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-612"
-  },
-  {
-    "id": 82272,
-    "IDcode": "CESD-711",
-    "title": "享受柚月向日葵的丰满圆润的美臀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "骑乗位",
-      "素人作品",
-      "中出",
-      "精选，综合",
-      "肛交",
-      "巨大屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/ab990867430bc07a64e7db805bb47ef8.jpg",
-    "actress": [
-      "柚月ひまわり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-711"
-  },
-  {
-    "id": 82751,
-    "IDcode": "CESD-773",
-    "title": "神納花のエグすぎるレズ責めで岬あずさ＆葉月桃が涙を流しながら逝く！2人から責められた神納花も…噴水失禁しながらエビ反り絶頂！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "成熟的女人",
-      "素人作品",
-      "女同接吻",
-      "精选，综合",
-      "淫乱，真实",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-06-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221121-1/4d5a2c9e3ee3847966758b84f9d5592c.jpg",
-    "actress": [
-      "岬梓沙",
-      "叶月桃",
-      "管野静香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-773"
-  },
-  {
-    "id": 74565,
-    "IDcode": "CESD-774",
-    "title": "「私、輪姦願望があるんです…」たくさんの男たちに弄ばれることを妄想しながらオナニーしていた素人妻…今日、1日AV女優になります！！ かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "成熟的女人",
-      "素人作品",
-      "人妻",
-      "轮奸",
-      "精选，综合",
-      "巨乳",
-      "巨大屁股",
       "素人"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2019-06-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/85ca43b67441f01427d149569fa6846a.jpg",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cdefa435579afd809a114579268dab6e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-774"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-320"
   },
   {
-    "id": 74564,
-    "IDcode": "CESD-791",
-    "title": "黒人生中出しNTR 規格外のデカマラに魅せられた妻…夫に内緒で黒人チ○ポに跨がりブラックザーメン膣内射精！！ 大槻ひびき",
+    "id": 407061,
+    "IDcode": "292MY-321",
+    "title": "成宮真奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "成熟的女人",
-      "NTR",
-      "淫妻",
-      "素人作品",
-      "中出",
-      "黑人演员",
-      "精选，综合",
-      "白天出轨",
-      "巨大阴茎"
+      "素人"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2019-07-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/472f0d7e85615e1638606b38b9f00187.jpg",
-    "actress": [
-      "大槻响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-791"
-  },
-  {
-    "id": 82748,
-    "IDcode": "CESD-799",
-    "title": "星奈あいが柏木まいと渚みつきのオマ○コ重ねてまとめてイカせるガチレズ同性愛SEX！ド淫乱な2人も星奈あいを激しく責めて…全員エビ反り絶頂！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "素人作品",
-      "女同接吻",
-      "精选，综合",
-      "淫乱，真实",
-      "多P",
-      "女同性恋"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-08-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221121-1/84002a6d4bd6bff6e375d7f5ab881c78.jpg",
-    "actress": [
-      "渚光希",
-      "星奈爱",
-      "柏木まい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-799"
-  },
-  {
-    "id": 82964,
-    "IDcode": "CESD-848",
-    "title": "彼氏をチェンジする三姉妹 山井すず 波多野結衣 大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "白天出轨",
-      "淫乱，真实",
-      "妹妹",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-12-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221204-1/806d03a73108234597f27859f42493c4.jpg",
-    "actress": [
-      "波多野结衣",
-      "大槻响",
-      "山井すず"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-848"
-  },
-  {
-    "id": 81480,
-    "IDcode": "CESD-861",
-    "title": "全身オイル×ポルチオ×エビ反り絶頂SEX 川原かなえ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "放尿",
-      "成熟的女人",
-      "中出",
-      "子宫颈",
-      "巨大屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/4d5cd22311016bf109e0495a56c763fc.jpg",
-    "actress": [
-      "川原かなえ",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-861"
-  },
-  {
-    "id": 81527,
-    "IDcode": "CESD-872",
-    "title": "波多野結衣を本気で酔わせてみる1日呑んだくれAVドキュメント！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "放尿",
-      "乳交",
-      "成熟的女人",
-      "纪录片"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/8360c74c9b0350cb8eb19317934f27b5.jpg",
-    "actress": [
-      "波多野结衣",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-872"
-  },
-  {
-    "id": 81498,
-    "IDcode": "CESD-874",
-    "title": "私たち男子禁制のシェアハウスに住んでるけど男連れ込んで顔射SEXしてます みひな 波多野結衣 大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "淫乱，真实",
-      "颜射",
-      "荡妇",
-      "巨大屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-03-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/5ed663c4be2ab450fff2b19353ea9053.jpg",
-    "actress": [
-      "波多野结衣",
-      "大槻响",
-      "佐倉陽菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-874"
-  },
-  {
-    "id": 81523,
-    "IDcode": "CESD-877",
-    "title": "星あめりを本気で酔わせてみる1日呑んだくれAVドキュメント！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "放尿",
-      "成熟的女人",
-      "巨大屁股",
-      "纪录片"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-03-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/3bfc2849b662d95f27a1d6e81e0c7267.jpg",
-    "actress": [
-      "雨村梨花",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-877"
-  },
-  {
-    "id": 81522,
-    "IDcode": "CESD-880",
-    "title": "オマ○コ×アナル 男性専用ハイブリッドエステサロン 赤瀬尚子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "成熟的女人",
-      "按摩",
-      "肛交",
-      "巨大屁股"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-03-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/f6e307f63ae462b68e0fb0b1cfb0bc3d.jpg",
-    "actress": [
-      "赤瀬尚子",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-880"
-  },
-  {
-    "id": 96190,
-    "IDcode": "CESD-885",
-    "title": "由于倾向过于苛刻的女演员-桥野爱琉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "成熟的女人",
-      "滥交",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/074e2d7ebf9164fcb33a1fabf45ad1a7.jpg",
-    "actress": [
-      "宫泽千春",
-      "川原かなえ",
-      "森林原人",
-      "桥野爱琉",
-      "佐川はるみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-885"
-  },
-  {
-    "id": 81475,
-    "IDcode": "CESD-887",
-    "title": "永井マリア大号泣！「もうダメぇ！ごめんなさい！！」と言っても許してもらえない…快楽からの連続絶頂地獄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "淫乱，真实",
-      "子宫颈",
-      "多P",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-04-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/3a0ea66bb153e4268ddcbbcce848f9b3.jpg",
-    "actress": [
-      "永井瑪麗亞",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-887"
-  },
-  {
-    "id": 104496,
-    "IDcode": "CESD-898",
-    "title": "黒人解禁-大浦真奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "中出",
-      "黑人演员",
-      "淫乱，真实",
-      "巨大阴茎"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/11/5206c70b09618af12547bcf1b4bd3283.jpg",
-    "actress": [
-      "大浦真奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-898"
-  },
-  {
-    "id": 210280,
-    "IDcode": "CESD-921",
-    "title": "美人三姐妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/20/96d120aca6849ee9c7048ceabbbfef53.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/06a774e78ce95ccc3981e4af6e4676e7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-921"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-321"
   },
   {
-    "id": 169925,
-    "IDcode": "CESD330",
-    "title": "コスビッチ3SEX2",
+    "id": 407136,
+    "IDcode": "292MY-322",
+    "title": "成宮真奈 2",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20241124-1/ba566e9067a08f93430b11e4225f35ec.jpg",
-    "actress": [
-      "吹石玲奈"
+    "genres": [
+      "素人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD330"
-  },
-  {
-    "id": 187893,
-    "IDcode": "CETD-235",
-    "title": "因为高利贷高高在上的女社长椎名由奈被男人们当成玩具调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "/upload/vod/20250816-1/e48902a7685dd885615d6fdec6070af8.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4e69460498967f70cd936d29274717b2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CETD-235"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-322"
   },
   {
-    "id": 198588,
-    "IDcode": "CETD-263",
-    "title": "儿子太懦弱了只能看着老妈被人侵犯-谷原ゆき",
+    "id": 541195,
+    "IDcode": "292MY-323",
+    "title": "向井夏海",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "素人"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "/upload/vod/20250615-1/1da88c9f7506b13ed07f05519f65518e.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200726-1/12cf81271c4dec33624701232890068b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CETD-263"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-323"
   },
   {
-    "id": 225931,
-    "IDcode": "CETD-274",
-    "title": "惊愕绝叫16连发-松井優子",
+    "id": 541197,
+    "IDcode": "292MY-325",
+    "title": "黒木芽衣",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/4d3db84d2e2be97d7526a8e37cd05524.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200727-1/51c7b88047dedabd5b8e99a813e0c7ac.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CETD-274"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-325"
   },
   {
-    "id": 193590,
-    "IDcode": "CH-001",
-    "title": "父の女に手を出した親不孝者 高橋麻衣 桐山 青柳 平野",
+    "id": 541196,
+    "IDcode": "292MY-326",
+    "title": "黒木芽衣 2",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/882d3e525f0f8fa502b99dd7ef3352cc.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200727-1/32c1b85282547d70689bbe744c6845bc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CH-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-326"
   },
   {
-    "id": 82967,
-    "IDcode": "CHA-003",
-    "title": "バレたら完全家庭崩壊！自宅で弟チ○ポを狙うリスク無視のエロ嫁",
+    "id": 541198,
+    "IDcode": "292MY-327",
+    "title": "三村理香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "荡妇",
-      "中出",
-      "乱伦"
+      "素人"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2020-03-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221204-1/7788a997dc52059e8824bfef6d1871ef.jpg",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200728-1/083a276b302e455e581cc2df27952382.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHA-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-327"
   },
   {
-    "id": 81427,
-    "IDcode": "CHA-006",
-    "title": "勃起不全の最新治療はこれ！女医さん看護師さんの肉弾診察で「精子採取するわ」",
+    "id": 541199,
+    "IDcode": "292MY-328",
+    "title": "三村理香 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "护士",
-      "女医生",
-      "中出",
-      "淫乱，真实"
+      "素人"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2020-04-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/9708eca1c975864de7d8f78b821109fe.jpg",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200728-1/f283bd6e7d5f0340f540ada95e206b21.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHA-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-328"
   },
   {
-    "id": 6576,
-    "IDcode": "CHC-019",
-    "title": "美女子弄び個撮ハメ撮り～オヤジに完全服従セックス！！ みすずちゃん 女子大生 音羽美鈴",
+    "id": 541200,
+    "IDcode": "292MY-330",
+    "title": "小沢友梨佳 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "奇聞趣事",
-      "少女",
-      "按摩棒",
-      "形象俱樂部",
-      "無毛",
-      "美少女電影",
-      "單體作品",
-      "企畫",
-      "美少女",
-      "女學生"
+      "素人"
     ],
     "type": "有码",
-    "company": "CHC工作室",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/f350a3a514961da23d36b712a575e48f.jpg",
-    "actress": [
-      "音羽美鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-019"
-  },
-  {
-    "id": 3269,
-    "IDcode": "CHC-023",
-    "title": "美女子弄び個撮ハメ撮り～オヤジに完全服従セックス！！ ゆかりさん 保母さん 紫月ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "飯店",
-      "美乳",
-      "手指插入",
-      "真實拍攝",
-      "女上位",
-      "熟女",
-      "美人",
-      "中性",
-      "豐滿",
-      "清楚系",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "色白",
-      "大姐姐",
-      "單體作品",
-      "短髮",
-      "素人作品",
-      "美腳",
-      "巨乳",
-      "企畫",
-      "羞恥",
-      "後入",
-      "私房攝影",
-      "奇聞趣事",
-      "舔陰",
-      "口交",
-      "鬃毛",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "CHC工作室",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/a34cb842/vod.jpg",
-    "actress": [
-      "紫月由香里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-023"
-  },
-  {
-    "id": 2418,
-    "IDcode": "CHC-024",
-    "title": "美女子弄び個撮ハメ撮り～オヤジに完全服従セックス！！ みずほちゃん 女子大生 葵井みずほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "短裙・迷你裙",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "美人",
-      "劇情",
-      "惡搞",
-      "少女",
-      "中出",
-      "單體作品",
-      "美少女",
-      "美腳",
-      "後入",
-      "奇聞趣事",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "CHC工作室",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/41f9ee81/vod.jpg",
-    "actress": [
-      "葵井みずほ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-024"
-  },
-  {
-    "id": 173264,
-    "IDcode": "CHC-025",
-    "title": "美女子弄び個撮ハメ撮り～オヤジに完全服従セックス！！ かれんさん 塾講師 響かれん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "CHC工作室",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/22227da7/vod.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200729-1/d8ea48e948bfb8c4adb33157aef57f1c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-330"
   },
   {
-    "id": 87357,
-    "IDcode": "CHCH-022",
-    "title": "日韓ハーフ爆乳妻、セックスレス10年の時を経てAV DEBUT 晴山ひとは（42歳）",
+    "id": 541201,
+    "IDcode": "292MY-333",
+    "title": "稲垣蓝",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "巨乳",
-      "胖女人",
-      "单体作品"
+      "素人"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-2/d204745a0f2a6a1d2358d3eb270ee4dd.jpg",
-    "actress": [
-      "晴山ひとは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHCH-022"
-  },
-  {
-    "id": 87358,
-    "IDcode": "CHCH-023",
-    "title": "人妻巨乳ヨガインストラクター、旦那の留守中、自宅に生徒を連れ込んで誘惑痴女レッスン。竹内まりか（31歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "眼镜",
-      "人妻",
-      "巨乳",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2022-09-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/9b886ea2002a7d34d27fe630442e1998.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200729-1/99d36ba71232ee3cfdffca022a3bc357.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHCH-023"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-333"
   },
   {
-    "id": 218286,
-    "IDcode": "CHERD-085",
-    "title": "人妻熟女-篠田ゆう",
+    "id": 541202,
+    "IDcode": "292MY-334",
+    "title": "稲垣蓝 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "素人"
     ],
     "type": "有码",
-    "company": "熟女人妻最強廠",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/16/2a57e16d9003dc08ec295e361bfae045.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200730-1/6237fffcd654eb803cf19cd6cba41514.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-085"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-334"
   },
   {
-    "id": 222522,
-    "IDcode": "CHERD-087",
-    "title": "和你的姨妈在一起-磐井玲子",
+    "id": 541203,
+    "IDcode": "292MY-335",
+    "title": "木村佳音",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
-    "company": "熟女人妻最強廠",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/bbaee12ce88e096426ae4dba4d16c152.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200730-1/b11f7378b7991db63ea000924f3cdb45.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-335"
   },
   {
-    "id": 225204,
-    "IDcode": "CHERD-088",
-    "title": "处男和人妻熟女的破处性交",
+    "id": 541205,
+    "IDcode": "292MY-336",
+    "title": "木村佳音 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "素人"
     ],
     "type": "有码",
-    "company": "熟女人妻最強廠",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/52dcf8f3a7dd64003699379a6574939c.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200731-1/402abc5bbc2ea24809224662461e3bc7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-336"
   },
   {
-    "id": 106335,
-    "IDcode": "CHERD-089",
-    "title": "处男和人妻熟女-夏八木彩月",
+    "id": 541204,
+    "IDcode": "292MY-337",
+    "title": "生田绫",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
+      "素人"
     ],
     "type": "有码",
-    "company": "熟女人妻最強廠",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/7d2d25b89c17388d8fab361663515558.jpg",
-    "actress": [
-      "夏八木彩月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-089"
-  },
-  {
-    "id": 106258,
-    "IDcode": "CHERD-091",
-    "title": "第一次就是和阿姨无套-河波怜美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/92fef4640b6af984dabc65160097a8bb.jpg",
-    "actress": [
-      "河波れみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-091"
-  },
-  {
-    "id": 105843,
-    "IDcode": "CHERD-092",
-    "title": "第一次做就是和阿姨无套-相河沙季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240225-1/f2944ddc5e20d387ae7f8588598b64c4.jpg",
-    "actress": [
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-092"
-  },
-  {
-    "id": 104986,
-    "IDcode": "CHERD-093",
-    "title": "第一次和阿姨同居-永野爱华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240521-1/14c2bdecd5b4d6d5442d1ad438c7fd8e.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200731-1/7f808b10c3d87472e6ed9f1151df21e5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-337"
   },
   {
-    "id": 104649,
-    "IDcode": "CHERD-095",
-    "title": "第一次就是和阿姨的生插入-天海梓",
+    "id": 541206,
+    "IDcode": "292MY-339",
+    "title": "浅野未来",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
+      "素人"
     ],
     "type": "有码",
-    "company": "熟女人妻最強廠",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "/upload/vod/20240706-1/4a395e1be3579c07483048941881ea75.jpg",
-    "actress": [
-      "天海梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-095"
-  },
-  {
-    "id": 96675,
-    "IDcode": "CHERD-096",
-    "title": "第一次就是和阿姨的生插入",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/1878587318f6a27c4d6e3721ef3e6ce5.jpg",
-    "actress": [
-      "田所百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-096"
-  },
-  {
-    "id": 95123,
-    "IDcode": "CHERD-097",
-    "title": "第一次和阿姨同居可以吗-浜边香奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241115-1/8ff56b51ed02430bd9b4e3d4f169cc44.jpg",
-    "actress": [
-      "浜辺香奈子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-097"
-  },
-  {
-    "id": 75615,
-    "IDcode": "CHERD-098",
-    "title": "第一次就是生插阿姨吗-花柳里葎子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241224-1/a741d51a87c3266aa63aef9a23ab4342.jpg",
-    "actress": [
-      "花柳里葎子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-098"
-  },
-  {
-    "id": 75336,
-    "IDcode": "CHERD-099",
-    "title": "处男和人妻熟女的最上级破处性交-樱井美由纪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "处男",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241228-1/f3bb2d0d7edfa364636f2fd6a6e8a3a4.jpg",
-    "actress": [
-      "桜井美由紀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-099"
-  },
-  {
-    "id": 169231,
-    "IDcode": "CHERD-71",
-    "title": "「初めてがおばさんと生じゃいやかしら？」童貞くんが人妻熟女と最高の筆下ろし性交 木ノ下薫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240722-1/14460eb0d7cc5a1900bbd443841c04f1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200801-1/80eae890f4589afe41c0b3fa3c790148.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-71"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-339"
   },
   {
-    "id": 69515,
-    "IDcode": "CHERD-86",
-    "title": "最好的性交-白木優子",
+    "id": 541207,
+    "IDcode": "292MY-340",
+    "title": "浅野未来 2",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
-    "company": "熟女人妻最強廠",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/28/b09e47fa816826c802afbc53d1161567.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200801-1/7b7fbc4144a1e239d4a17fb512866144.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-86"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-340"
   },
   {
-    "id": 167663,
-    "IDcode": "CHERD-87",
-    "title": "「初めてがおばさんと生じゃいやかしら？」童貞くんが人妻熟女と最高の筆下ろし性交 磐井玲子",
+    "id": 541208,
+    "IDcode": "292MY-341",
+    "title": "上原友里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://la.lashayu.com/upload/vod/20200802-1/37b231b981cbfbbb47695efe2b4e3f39.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-341"
+  },
+  {
+    "id": 541209,
+    "IDcode": "292MY-344",
+    "title": "吉永塔子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200802-1/94f1f5e3516e4165bb32b53e043af288.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-344"
+  },
+  {
+    "id": 538753,
+    "IDcode": "292MY-353",
+    "title": "河北春菜- 木岛凉子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex811.com/20250801/yue2NFZ8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-353"
+  },
+  {
+    "id": 538869,
+    "IDcode": "292MY-354",
+    "title": "河北春菜- 木岛凉子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241017/WeDawgew/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-354"
+  },
+  {
+    "id": 176071,
+    "IDcode": "292MY-401",
+    "title": "结婚十五年孩子已经上初中的美女人妻白石由美因为欲求不满隐瞒老公偷偷出来拍摄",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "中文字幕"
+      "素人"
     ],
     "type": "有码",
-    "company": "熟女人妻最強廠",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230915/h_086cherd87pl.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-87"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-401"
   },
   {
-    "id": 87348,
-    "IDcode": "CHERD-88",
-    "title": "「初めてがおばさんと生じゃいやかしら？」童貞くんが人妻熟女と最高の筆下ろし性交 川畑千代子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231230/h_086cherd88pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-88"
-  },
-  {
-    "id": 175647,
-    "IDcode": "CHERD-97",
-    "title": "「初めてがおばさんと生じゃいやかしら？」童貞くんが人妻熟女と最高の筆下ろし性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/6f7a530d/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-97"
-  },
-  {
-    "id": 177352,
-    "IDcode": "CHERD-98",
-    "title": "「初めてがおばさんと生じゃいやかしら？」童貞くんが人妻熟女と最高の筆下ろし性交 花柳里葎子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/962ed0b8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-98"
-  },
-  {
-    "id": 60002,
-    "IDcode": "CHERD-99",
-    "title": "「初めてがおばさんと生じゃいやかしら？」童貞くんが人妻熟女と最高の筆下ろし性交 桜井美由紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/a08c4de9/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-99"
-  },
-  {
-    "id": 213657,
-    "IDcode": "CHIN-010",
-    "title": "痛苦之外的快乐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/30/6c0cc5afccccc7cf43ee2ced3e864905.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHIN-010"
-  },
-  {
-    "id": 226961,
-    "IDcode": "CHN-025",
-    "title": "新素人娘出借-芽森滴",
+    "id": 176082,
+    "IDcode": "292MY-403",
+    "title": "宠物沙龙的美女老板娘西山里穗美容秘诀就是做爱出汗",
     "year": "",
     "country": "",
     "genre": "",
@@ -1519,31 +1422,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/3472d4d68bc1c153bb2ccf38a1e6e711.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-403"
   },
   {
-    "id": 212898,
-    "IDcode": "CHN-063",
-    "title": "絶対的美少女ACT.34-森野明音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/19/4a1ede53eb5b50bbc113c543330f80e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-063"
-  },
-  {
-    "id": 211240,
-    "IDcode": "CHN-064",
-    "title": "新素人娘VOL.30",
+    "id": 529860,
+    "IDcode": "292MY-406",
+    "title": "柿谷あやね 2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1551,445 +1439,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/19/d4746bef543ead2841b1b130a624f47b.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/274652cda85c2a15fecdd45e1c157be0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-064"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-406"
   },
   {
-    "id": 103295,
-    "IDcode": "CHN-069",
-    "title": "絶対的美少女-吉川蓮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "其他恋物癖",
-      "业余"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/11/39c838f54d0de58fc058634cc26c522f.jpg",
-    "actress": [
-      "吉岡蓮美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-069"
-  },
-  {
-    "id": 82294,
-    "IDcode": "CHN-093",
-    "title": "绝对的美少女-藤井有彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "其他恋物癖",
-      "美少女",
-      "女大学生",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/30/89dc0dca93869273b62eca6c23685818.jpg",
-    "actress": [
-      "藤井有彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-093"
-  },
-  {
-    "id": 82269,
-    "IDcode": "CHN-123",
-    "title": "岸田步美初次拍摄体验AV的感觉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "玩具",
-      "深喉",
-      "自慰",
-      "美少女"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240421-1/b135f2d0a44373a1a144df1abf734e2a.jpg",
-    "actress": [
-      "岸田歩美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-123"
-  },
-  {
-    "id": 99537,
-    "IDcode": "CHN-124",
-    "title": "絶対的美少女-凰かなめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无毛",
-      "玩具",
-      "自慰",
-      "颜射",
-      "美少女"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/08/f9bc3313010b40b401905315c52056da.jpg",
-    "actress": [
-      "凰香奈芽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-124"
-  },
-  {
-    "id": 86951,
-    "IDcode": "CHN-136",
-    "title": "新・素人娘、お貸しします。 VOL.65 工藤ルナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "玩具",
-      "巨乳",
-      "颜射",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2017-04-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230405-44/082af6916c24d12edd3ea58225311184.jpg",
-    "actress": [
-      "工藤ルナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-136"
-  },
-  {
-    "id": 211721,
-    "IDcode": "CHN-157",
-    "title": "絶対的美少女-華嶋れい菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/02/09/a2fc2518f8331c20079495bcd05db77b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-157"
-  },
-  {
-    "id": 213230,
-    "IDcode": "CHN-158",
-    "title": "絶対的美少女-河合あすな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/05/85dd52fbe2c17e9d139705dd90300342.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-158"
-  },
-  {
-    "id": 194187,
-    "IDcode": "CHN-162",
-    "title": "新绝对的美少女借给你肏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250703-1/7b2648d7e120e3e76bfd34b64c08777f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-162"
-  },
-  {
-    "id": 219148,
-    "IDcode": "CHN-167",
-    "title": "绝对的巨乳美少女-緒方エレナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/03/bebc3b0174d0c96d32ae178af4554e87.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-167"
-  },
-  {
-    "id": 82346,
-    "IDcode": "CHN-169",
-    "title": "蚊香社的超级美少女新人派送给你做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "无毛",
-      "素人作品",
-      "乳房",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/13b19c0546e2d4b9f9a21c3096d21665.jpg",
-    "actress": [
-      "野野浦暖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-169"
-  },
-  {
-    "id": 74637,
-    "IDcode": "CHN-174",
-    "title": "绝对的美少女-涼森れむ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "素人作品",
-      "巨乳",
-      "颜射",
-      "角色扮演者",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/68521977ad95c5010aab0b2095e43d45.jpg",
-    "actress": [
-      "凉森玲梦"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-174"
-  },
-  {
-    "id": 74638,
-    "IDcode": "CHN-175",
-    "title": "新・絶対的美少女、お貸しします。 91 藤谷真帆（AV女優）19歳。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "乳交",
-      "嫩妹",
-      "玩具",
-      "巨乳",
-      "颜射",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-08-02",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/d38ec59fa4a0625c8c56492a5b3116fc.jpg",
-    "actress": [
-      "桃田香織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-175"
-  },
-  {
-    "id": 88290,
-    "IDcode": "CHN-178",
-    "title": "新・絶対的美少女、お貸しします。 93 夏樹美沙（AV女優）24歳。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "深喉",
-      "颜射",
-      "自慰",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-11-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/dbe7e4b075d779d090bd25cacd8f8ad6.jpg",
-    "actress": [
-      "菊池リナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-178"
-  },
-  {
-    "id": 70850,
-    "IDcode": "CHN-180",
-    "title": "新・素人娘、お貸しします。 87 仮名）柏木桃香（エステティシャン）23歳。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "素人作品",
-      "玩具",
-      "颜射",
-      "自慰",
-      "乳房",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-12-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/bfc729771128f3fcf5eeeea7891fcf63.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-180"
-  },
-  {
-    "id": 82306,
-    "IDcode": "CHN-181",
-    "title": "绝对的美少女斋亚美利外送到你家和你赤裸相对坦诚做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "素人作品",
-      "巨乳",
-      "颜射",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/2e5a5bdf/vod.jpg",
-    "actress": [
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-181"
-  },
-  {
-    "id": 222445,
-    "IDcode": "CHN-183",
-    "title": "绝对的美少女-花沢ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/6d228442be53219d8c58499103e26b9b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-183"
-  },
-  {
-    "id": 82345,
-    "IDcode": "CHN-184",
-    "title": "最适合拍AV片的素人女大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "屁股",
-      "巨乳",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/902a6dfba819ab50f38bce1973a26a5b.jpg",
-    "actress": [
-      "叶月りの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-184"
-  },
-  {
-    "id": 88294,
-    "IDcode": "CHN-185",
-    "title": "新・絶対的美少女、お貸しします。 95 南マナ（AV女優）26歳。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "屁股",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-05-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/1ab34092cd2e269b7ecb208f4016755a.jpg",
-    "actress": [
-      "南マナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-185"
-  },
-  {
-    "id": 105624,
-    "IDcode": "CHN-188",
-    "title": "新绝对美少女-平手まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240318-1/1ccfd8e3f6b6aa555312af9212451427.jpg",
-    "actress": [
-      "有季奈绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-188"
-  },
-  {
-    "id": 106771,
-    "IDcode": "CHN-190",
-    "title": "介護福祉士-唯月優花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "吞精",
-      "巨乳",
-      "乳交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/10/dcf64361bc79dee143dfa383c0403dd4.jpg",
-    "actress": [
-      "唯月优花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-190"
-  },
-  {
-    "id": 199076,
-    "IDcode": "CHN-192",
-    "title": "新绝对的美少女派送到你家-松冈铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-1/3cfcbbca19603800fc6a191e0ecd96f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-192"
-  },
-  {
-    "id": 212763,
-    "IDcode": "CHN-195",
-    "title": "新素人娘94-百瀬アイリ",
+    "id": 529858,
+    "IDcode": "292MY-407",
+    "title": "近藤ゆり子",
     "year": "",
     "country": "",
     "genre": "",
@@ -1997,31 +1456,231 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/12/5f4f61be4e0fd546d8fae1135f2cff7c.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/326f8e04d5110260bf7ebc62b4859b0e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-195"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-407"
   },
   {
-    "id": 66782,
-    "IDcode": "CHN-219",
-    "title": "絶対的美少女-粒楽あむ",
+    "id": 529856,
+    "IDcode": "292MY-408",
+    "title": "近藤ゆり子 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "感谢祭",
-      "单体作品",
-      "苗条"
+      "素人"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/11/ce55dce601e1a2773e3b3c7e782903ca.jpg",
-    "actress": [
-      "粒楽あむ"
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/f57b98aabc9fae87335f69ce18608ec8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-408"
+  },
+  {
+    "id": 529857,
+    "IDcode": "292MY-409",
+    "title": "大迫あやみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-219"
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/17c4ef98c8b151aa8473b27ecc1e8748.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-409"
+  },
+  {
+    "id": 529855,
+    "IDcode": "292MY-410",
+    "title": "大迫あやみ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/a1c232310f4fc48256e6f2f88b1e2fa4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-410"
+  },
+  {
+    "id": 529854,
+    "IDcode": "292MY-411",
+    "title": "川村玲奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/a9410fc1a8efaf9790d10b78eeeadedc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-411"
+  },
+  {
+    "id": 529852,
+    "IDcode": "292MY-412",
+    "title": "川村玲奈 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/7b6fbbbc985c3768d5ec3152cae45694.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-412"
+  },
+  {
+    "id": 529853,
+    "IDcode": "292MY-413",
+    "title": "宫村つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/6940e4e3686f713580c1cf7afb30b69d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-413"
+  },
+  {
+    "id": 529851,
+    "IDcode": "292MY-414",
+    "title": "宫村つばさ 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/b838536a7ce98b42098cc5b5d6ff3b29.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-414"
+  },
+  {
+    "id": 79777,
+    "IDcode": "292MY-457",
+    "title": "艾米莉川端 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-457"
+  },
+  {
+    "id": 79766,
+    "IDcode": "292MY-461",
+    "title": "秋川美羽 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-461"
+  },
+  {
+    "id": 79776,
+    "IDcode": "292MY-462",
+    "title": "秋川美羽 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-462"
+  },
+  {
+    "id": 79751,
+    "IDcode": "292MY-463",
+    "title": "蘭科達 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-463"
+  },
+  {
+    "id": 79750,
+    "IDcode": "292MY-464",
+    "title": "蘭科達 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-464"
+  },
+  {
+    "id": 79767,
+    "IDcode": "292MY-465",
+    "title": "金子妮娜 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-465"
   }
 ];

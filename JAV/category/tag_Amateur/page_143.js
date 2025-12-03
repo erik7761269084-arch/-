@@ -1,246 +1,110 @@
 window.PAGE_DATA = [
   {
-    "id": 518087,
-    "IDcode": "766ESDX-049",
-    "title": "偷東西的代價×懷孕個別指導",
+    "id": 542792,
+    "IDcode": "420HHL-043",
+    "title": "Y.T(25) 素人ホイホイLover·素人·ハメ撮り·ドキュメンタリー·个人撮影·カップ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9c18d6fbef4e90091a7b/poster2.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/D56KBH55/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-043"
   },
   {
-    "id": 518091,
-    "IDcode": "766ESDX-052",
-    "title": "偷東西的代價×懷孕個別指導",
+    "id": 542788,
+    "IDcode": "420HHL-044",
+    "title": "S.T(25) 素人ホイホイLover·素人·ハメ撮り·ドキュメンタリー·个人撮影·カップ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9c6bd6fbef4e90091a7d/poster2.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/jpi4sAq6/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-052"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-044"
   },
   {
-    "id": 517836,
-    "IDcode": "766ESDX-057",
-    "title": "玲奈",
+    "id": 542790,
+    "IDcode": "420HHL-045",
+    "title": "R.R(20) 素人ホイホイLoveハメ撮り·ドキュメンタリー·个人撮影·カップルハメ撮り",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6e8968cce1a927afe5ccf/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/8g6na9EC/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-045"
   },
   {
-    "id": 517837,
-    "IDcode": "766ESDX-060",
-    "title": "莉亞",
+    "id": 542789,
+    "IDcode": "420HHL-046",
+    "title": "R.N(20) 素人ホイホイLover素人·ハメ撮り·ドキュメンタリー·个人撮影·カップル",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6e7678cce1a927afe5ccc/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/PwwXbHbg/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-046"
   },
   {
-    "id": 517835,
-    "IDcode": "766ESDX-061",
-    "title": "實久留",
+    "id": 542793,
+    "IDcode": "420HHL-047",
+    "title": "B.T(21) 素人ホイホイLover·素人·ハメ撮り·ドキュメンタリー·个人撮影·カップ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6e9128cce1a927afe60c3/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/ED4y3Uae/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDX-061"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-047"
   },
   {
-    "id": 576316,
-    "IDcode": "766ESDXS-009",
-    "title": "仮名(こなつ) お寝んねJ●パコパコ中出し",
+    "id": 542796,
+    "IDcode": "420HHL-048",
+    "title": "A.I(21) 素人ホイホイLover·素人·ハメ撮り·ドキュメンタリー·个人撮影·カップ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231114/pb_e_766esdxs-009.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/lQvMKhTO/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDXS-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-048"
   },
   {
-    "id": 576318,
-    "IDcode": "766ESDXS-010",
-    "title": "仮名(ひろ) お寝んねJ●パコパコ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231115/pb_e_766esdxs-010.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDXS-010"
-  },
-  {
-    "id": 576317,
-    "IDcode": "766ESDXS-011",
-    "title": "仮名(とあ) お寝んねJ●パコパコ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231115/pb_e_766esdxs-011.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=766ESDXS-011"
-  },
-  {
-    "id": 403721,
-    "IDcode": "767GPH-012",
-    "title": "挿入すると即イキしちゃう敏感ギャル女優「宮崎リン」ちゃんがお気に入り男優にドッキリ仕掛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/ac974e02f5ce1774b227ca1e2db55676.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=767GPH-012"
-  },
-  {
-    "id": 403720,
-    "IDcode": "767GPH-013",
-    "title": "恥ずかしがりで甘えん坊ギャル女優「渚ひまわり」にドッキリしかけてホテルでガチハメ撮り！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/22a969ac972a0dbdd2fb48e9e1a3b43f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=767GPH-013"
-  },
-  {
-    "id": 101723,
-    "IDcode": "767GPH-014",
-    "title": "超名器なHカップギャル「百永さりな」がデカチン激ピストンプライベートハメドリ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/98ff7efa4f33ca68ac2634c53e3a02a2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=767GPH-014"
-  },
-  {
-    "id": 458753,
-    "IDcode": "767GPH-016",
-    "title": "パイパンギャル女優「宮沢ちはる」の敏感過ぎる身体を責めて責めてイカセハメ撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/d01f7f2ed903abacfdb196a534d842c4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=767GPH-016"
-  },
-  {
-    "id": 511074,
-    "IDcode": "770RABI-003",
-    "title": "内密不倫●美人小柄若奥様ゆいかさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/06897f50fc4f4d02994f87ca6a948097.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=770RABI-003"
-  },
-  {
-    "id": 505518,
-    "IDcode": "770RABI-005",
-    "title": "中出し￥助交際で夢を買う！●美少女推し活女子ももちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/cfe001d6b96ce1c0bc17c99f088d5d47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=770RABI-005"
-  },
-  {
-    "id": 517227,
-    "IDcode": "770RABI-040",
-    "title": "巨乳寶貝扮演！自己扭腰騎乘",
+    "id": 542794,
+    "IDcode": "420HHL-049",
+    "title": "U.I(22) 素人ホイホイFriends·素人·ハメ撮り·个人撮影·巫女コス·黒髪·巨乳",
     "year": "",
     "country": "",
     "genre": "",
@@ -248,280 +112,102 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b41f185fdaf263a25c58a5/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/I58nb8q0/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=770RABI-040"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-049"
   },
   {
-    "id": 517099,
-    "IDcode": "776HDSN-014",
-    "title": "人妻桑 014",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/690524e728bb452860f8bf55/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-014"
-  },
-  {
-    "id": 517107,
-    "IDcode": "776HDSN-015",
-    "title": "人妻桑 015",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/690522bd28bb452860f8af4e/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-015"
-  },
-  {
-    "id": 517097,
-    "IDcode": "776HDSN-016",
-    "title": "人妻桑 016",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69052f2c28bb452860f8f849/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-016"
-  },
-  {
-    "id": 517104,
-    "IDcode": "776HDSN-018",
-    "title": "人妻桑 018",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69052fe128bb452860f8f84c/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-018"
-  },
-  {
-    "id": 517074,
-    "IDcode": "776HDSN-019",
-    "title": "人妻桑 019",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c490f457fbf33fcfe8470/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-019"
-  },
-  {
-    "id": 517098,
-    "IDcode": "776HDSN-021",
-    "title": "人妻桑 021",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/6905249928bb452860f8bc0b/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-021"
-  },
-  {
-    "id": 517075,
-    "IDcode": "776HDSN-022",
-    "title": "人妻桑 022",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c4755457fbf33fcfe7e34/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-022"
-  },
-  {
-    "id": 517220,
-    "IDcode": "776HDSN-049",
-    "title": "已婚婦女 049",
+    "id": 542791,
+    "IDcode": "420HHL-050",
+    "title": "Y.C(25) 素人ホイホイFriends·素人·ハメ撮り·个人撮影·コスプレ·カップル·",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc27431eb0592de65c81a/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/7XDKBpzz/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-050"
   },
   {
-    "id": 517215,
-    "IDcode": "776HDSN-050",
-    "title": "已婚婦女 050",
+    "id": 542795,
+    "IDcode": "420HHL-051",
+    "title": "M.U(21) 素人ホイホイFriends·素人·ハメ撮り·个人撮影·チャイナコス·色白·",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc2bd31eb0592de65c81c/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250108/L2tqiOO8/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-051"
   },
   {
-    "id": 517219,
-    "IDcode": "776HDSN-051",
-    "title": "已婚婦女 051",
+    "id": 542799,
+    "IDcode": "420HHL-052",
+    "title": "S.M(25)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc25831eb0592de65c819/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250109/uSEXt87O/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-051"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-052"
   },
   {
-    "id": 517208,
-    "IDcode": "776HDSN-052",
-    "title": "人妻桑052",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa41b89550e292a786150d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-052"
-  },
-  {
-    "id": 517209,
-    "IDcode": "776HDSN-053",
-    "title": "已婚婦女 053",
+    "id": 542798,
+    "IDcode": "420HHL-053",
+    "title": "R.I(20)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa42c99550e292a7861547/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250109/vrPhRaxq/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-053"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-053"
   },
   {
-    "id": 517201,
-    "IDcode": "776HDSN-055",
-    "title": "已婚婦女 055",
+    "id": 542800,
+    "IDcode": "420HHL-054",
+    "title": "R.H(20)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8fac57f3b7c929074262a/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250109/xWNlF6lN/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-054"
   },
   {
-    "id": 517202,
-    "IDcode": "776HDSN-056",
-    "title": "已婚婦女 056",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8fb527f3b7c929074291f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-056"
-  },
-  {
-    "id": 517236,
-    "IDcode": "776HDSN-065",
-    "title": "已婚婦女 065",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689da661c49456085437e0f0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=776HDSN-065"
-  },
-  {
-    "id": 533201,
-    "IDcode": "777YMYM-011",
-    "title": "ヤミヤミ007_パンツ丸见えで驻车场に落ちてた爆乳女&変なくつ下の潮吹き过ぎ女_ヤミヤミアルコール",
+    "id": 542797,
+    "IDcode": "420HHL-055",
+    "title": "S.D(28) 素人ホイホイLover·素人·カップルハメ撮り·コスプレ·巨乳·美女",
     "year": "",
     "country": "",
     "genre": "",
@@ -529,34 +215,51 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240611/pb_e_777ymym-011.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250109/tHEtFMWe/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=777YMYM-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-055"
   },
   {
-    "id": 500891,
-    "IDcode": "777YMYM-024",
-    "title": "ヤミヤミアルコール，道端の階段で寝てたデカ乳ギャル",
+    "id": 542802,
+    "IDcode": "420HHL-056",
+    "title": "R.B(20) 素人ホイホイLover·素人·カップルハメ撮り·コスプレ·ファミレスアルバ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241115-1/62a0c98a1cf6f76afbac112bf99bc83d.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250109/lQVRDuji/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=777YMYM-024"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-056"
   },
   {
-    "id": 500890,
-    "IDcode": "777YMYM-025",
-    "title": "ヤミヤミアルコール，飲み過ぎ童顔巨乳(ピンク乳首)",
+    "id": 170691,
+    "IDcode": "420HHL-057",
+    "title": "U.W",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/5ca72e80d56926ccb41a16b75012d2f7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-057"
+  },
+  {
+    "id": 542801,
+    "IDcode": "420HHL-060",
+    "title": "M.V(24) 素人ホイホイLover·素人·カップルハメ撮り·女教师·巨乳·コスプレ",
     "year": "",
     "country": "",
     "genre": "",
@@ -564,274 +267,309 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/5f06c78ce7f51fb8d8cb1618aaf81bb5.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250109/hAOma3D9/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=777YMYM-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-060"
   },
   {
-    "id": 495867,
-    "IDcode": "777YMYM-032",
-    "title": "ヤミヤミアルコール，潮でベッドを冠水させる朝ドラ系美女",
+    "id": 542803,
+    "IDcode": "420HHL-063",
+    "title": "H.K(23) 素人ホイホイLover·素人·カップルハメ撮り·派遣社员·美乳·潮吹き·コ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/fc366566d00ad2d5c62902267ff3c6fe.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250109/h8z5lqLQ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=777YMYM-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-063"
   },
   {
-    "id": 505517,
-    "IDcode": "791SHSK-001",
-    "title": "芸能人御用達 高級レンタル彼女 東京お姉さん①",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/70264e631c49fa8b11f32294b6f92905.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=791SHSK-001"
-  },
-  {
-    "id": 495868,
-    "IDcode": "791SHSK-004",
-    "title": "芸能人御用達 高級レンタル彼女 東京お姉さん 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/91e6f523d6627977efbc301d2c490172.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=791SHSK-004"
-  },
-  {
-    "id": 505524,
-    "IDcode": "791SHSK-005",
-    "title": "生まんGET！！頂き女子のガチ疑似恋愛ドキュメント No.002",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/2ecf3adf86df1ee3110cb433fc95e54e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=791SHSK-005"
-  },
-  {
-    "id": 101544,
-    "IDcode": "791SHSK-009",
-    "title": "芸能人御用達 高級レンタル彼女 東京お姉さん⑤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/59c4d3b7bd1e10abdd6265c49828a911.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=791SHSK-009"
-  },
-  {
-    "id": 505521,
-    "IDcode": "791SHSK-010",
-    "title": "芸能人御用達 高級レンタル彼女 東京お姉さん⑥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/3151bc059ce3af49ba8cb22d20af68c7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=791SHSK-010"
-  },
-  {
-    "id": 516273,
-    "IDcode": "791SKGC-003",
-    "title": "胸部抵住按摩獲得大量指名！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c297a5c6d1004ed429a5a9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=791SKGC-003"
-  },
-  {
-    "id": 516280,
-    "IDcode": "791SKGC-006",
-    "title": "與在百貨公司工作的人妻美容",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd653b006939637678ca93/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=791SKGC-006"
-  },
-  {
-    "id": 154358,
-    "IDcode": "796-SENA-01",
-    "title": "SEXSena在酒店和一个丑陋的黑发女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250411-1/4b310eef0b51a1366cda6755460e8b83.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=796-SENA-01"
-  },
-  {
-    "id": 535814,
-    "IDcode": "798BRV-012",
-    "title": "美女3人はレズビアン ～私と姊とその彼女と～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240121/pb_e_798brv-012.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=798BRV-012"
-  },
-  {
-    "id": 518054,
-    "IDcode": "798BRV-022",
-    "title": "淫蕩歐巴桑 -紀子(47)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/690130dcd6fbef4e9015e9c5/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=798BRV-022"
-  },
-  {
-    "id": 408289,
-    "IDcode": "798BRV-107",
-    "title": "對淫蕩般人妻...擅自體內射精特別編6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689da6cdc49456085437e136/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=798BRV-107"
-  },
-  {
-    "id": 154346,
-    "IDcode": "801-YUI-01",
-    "title": "这是一个非常可爱的蚀刻唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250411-1/97d6fb48e90a5a75e2eb018251bc50f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801-YUI-01"
-  },
-  {
-    "id": 154345,
-    "IDcode": "801-YUI-03",
-    "title": "与ChinakosYui的垂直射击女牛仔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250411-1/702ecb3921a34da0f88a3bdeae868461.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801-YUI-03"
-  },
-  {
-    "id": 576581,
-    "IDcode": "801FHMD-014",
-    "title": "あい 21歳 パート2",
+    "id": 101479,
+    "IDcode": "420HHL-064",
+    "title": "N.H(20)素人ホイホイLover・素人・カップルハメ撮り・アルバイト・巨乳・潮吹き・コスプレ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹"
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240205/pb_e_801fhmd-014.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/f0a5f64dd4570875fee99b00b8131a84.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801FHMD-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-064"
   },
   {
-    "id": 170635,
-    "IDcode": "801FHMD-030",
+    "id": 542804,
+    "IDcode": "420HHL-071",
+    "title": "M.R(22) 素人ホイホイLover·素人·カップルハメ撮り·大学生·美乳·巨尻·コスプ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250109/8HZlJ8hd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-071"
+  },
+  {
+    "id": 542805,
+    "IDcode": "420HHL-078",
+    "title": "E.I(24)素人ホイホイLover·素人·カップルハメ撮り·美乳·刚毛·コスプレ·メイド",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/aPApf9jD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-078"
+  },
+  {
+    "id": 542808,
+    "IDcode": "420HHL-079",
+    "title": "S.A(20)素人ホイホイLover·素人·カップルハメ撮り·巨乳·スレンダー·2発射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/zbIFNVg0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-079"
+  },
+  {
+    "id": 553491,
+    "IDcode": "420HHL-119",
+    "title": "无辜美少女KISARA（25）业余Hoi Hoi爱好者，业余，情侣POV，角色扮演，情侣，美丽女孩，美丽的乳房-浦木纱罗拉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250712-1/4fac76d16230cf801b3100abc69692f7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-119"
+  },
+  {
+    "id": 61391,
+    "IDcode": "420HHL-120",
+    "title": "従順ドM@AKARI(22)素人ホイホイLover・素人・カップルハメ撮り・コスプレ・カップル・美少女・潮吹き・美乳-素人ホイホイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250801-1/74fde2c1e363742477dd8787336da5aa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-120"
+  },
+  {
+    "id": 178470,
+    "IDcode": "420HHL-125",
+    "title": "ドM清楚美少女@YUN(21)素人ホイホイLover・素人・カップルハメ撮り・素人ホイホイ - 虹村ゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/5586b664/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-125"
+  },
+  {
+    "id": 178452,
+    "IDcode": "420HHL-126",
+    "title": "豪性欲マシュマロおっぱい@UMI(21)素人ホイホイLover・素人・カップルハメ撮り・コスプレ・ 卯佐美りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/2e651f80/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-126"
+  },
+  {
+    "id": 178445,
+    "IDcode": "420HHL-127",
+    "title": "小悪魔美少女悶絶絶頂@TOI(20)素人ホイホイLover・素人・カップルハメ撮り・コスプレ・カップル・顔射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/8c230a06/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-127"
+  },
+  {
+    "id": 176261,
+    "IDcode": "420HHL-129",
+    "title": "G乳京美人@MIYA(21)素人ホイホイLover・素人・カップルハメ撮り・コスプレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/21/f49cae8d/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-129"
+  },
+  {
+    "id": 175379,
+    "IDcode": "420HHL-130",
+    "title": "放尿&潮吹き全開@YURIE(32)素人ホイホイLover・素人・カップルハメ撮り・コスプレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/23/fed73d8206077bd283f539f81b933d4c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-130"
+  },
+  {
+    "id": 174037,
+    "IDcode": "420HHL-131",
+    "title": "清楚看護師@SACHI(28)素人ホイホイLover・素人・カップルハメ撮り・コスプレ・ 夢川ほの香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/05/eb0a5d26/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-131"
+  },
+  {
+    "id": 173499,
+    "IDcode": "420HHL-132",
+    "title": "FUMI(22)素人ホイホイLover素人カップルハメ撮りコスプレ巨乳巨尻電マ顔射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/07/8ed0381b5ead5aae64213a35fc5d79b3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HHL-132"
+  },
+  {
+    "id": 538398,
+    "IDcode": "420HOI-046",
+    "title": "美阳菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240403/1596626441-pb_e_420hoi-046.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-046"
+  },
+  {
+    "id": 538372,
+    "IDcode": "420HOI-047",
+    "title": "架纯 (有村のぞみ)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240329/1596626553-pb_e_420hoi-047.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-047"
+  },
+  {
+    "id": 538397,
+    "IDcode": "420HOI-048",
+    "title": "怜奈 (爱瀬るか)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240403/1596626626-pb_e_420hoi-048.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-048"
+  },
+  {
+    "id": 538414,
+    "IDcode": "420HOI-058",
     "title": "りな",
     "year": "",
     "country": "",
@@ -839,907 +577,1152 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/163219a28a41eaa9c0a91c005bafa8f1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240410/1595150836-pb_e_420hoi-058.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801FHMD-030"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-058"
   },
   {
-    "id": 479358,
-    "IDcode": "801FHMD-031",
-    "title": "えりな",
+    "id": 538413,
+    "IDcode": "420HOI-059",
+    "title": "みその",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/463eb546619007c630a9aedea1479a0c.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240410/1595668104-pb_e_420hoi-059.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801FHMD-031"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-059"
   },
   {
-    "id": 479356,
-    "IDcode": "801FHMD-032",
-    "title": "あさひ",
+    "id": 538379,
+    "IDcode": "420HOI-061",
+    "title": "あゆみ (神代にな)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/3355cfb47801a9f4526b9c142e2e2a4d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801FHMD-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-061"
   },
   {
-    "id": 479359,
-    "IDcode": "801FHMD-039",
-    "title": "うた 2",
+    "id": 538427,
+    "IDcode": "420HOI-062",
+    "title": "晴子さん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/c78482974be9704ef46f7d640fc2bce1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240414/1595668385-pb_e_420hoi-062.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801FHMD-039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-062"
   },
   {
-    "id": 486552,
-    "IDcode": "801SKEJ-012",
-    "title": "ことね(超敏感Iカップ)",
+    "id": 538371,
+    "IDcode": "420HOI-063",
+    "title": "マリカ (美甘りか)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/b0e53f635c7b53302302d63c524bc4db.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240329/1596293486-pb_e_420hoi-063.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801SKEJ-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-063"
   },
   {
-    "id": 516271,
-    "IDcode": "801SKEJ-020",
-    "title": "真央(偶像系酒店妹)",
+    "id": 538396,
+    "IDcode": "420HOI-064",
+    "title": "三田さん (富田优衣)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32b80735bb663f77c6239/cover.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240403/1596293574-pb_e_420hoi-064.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=801SKEJ-020"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-064"
   },
   {
-    "id": 170637,
-    "IDcode": "802SJ-002",
-    "title": "催●術師RED氏VS素人娘 大量放尿催●1",
+    "id": 538395,
+    "IDcode": "420HOI-065",
+    "title": "ひばり (海空花)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/b0566058295f3d1c46c668d7bb06c093.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240403/1596293667-pb_e_420hoi-065.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=802SJ-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-065"
   },
   {
-    "id": 445833,
-    "IDcode": "802SJ-005",
-    "title": "ゆりか",
+    "id": 538378,
+    "IDcode": "420HOI-066",
+    "title": "あずみ (岬あずさ)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/790a575adb822adbc85004ada4353afa.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240401/1596293744-pb_e_420hoi-066.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=802SJ-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-066"
   },
   {
-    "id": 517035,
-    "IDcode": "802SJ-007",
-    "title": "由加利",
+    "id": 538370,
+    "IDcode": "420HOI-067",
+    "title": "せり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914e91f46d2372859bc0035/poster2.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240329/1596879494-pb_e_420hoi-067.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=802SJ-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-067"
   },
   {
-    "id": 576731,
-    "IDcode": "810MOMO-002",
-    "title": "[] 可爱い颜してオヤジを骗す悪魔のようなパパ活女子 捕まって女体を解剖される！",
+    "id": 519959,
+    "IDcode": "420HOI-120",
+    "title": "Nono(23)素人Hoi Hoi Z",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/5b9a92a6db6b24637c38cad3496d2cb3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-120"
+  },
+  {
+    "id": 519915,
+    "IDcode": "420HOI-132",
+    "title": "莎拉 (22) 素人 Hoi Hoi Z",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/d2ea325799e599edf73dd9d18b437de2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-132"
+  },
+  {
+    "id": 519934,
+    "IDcode": "420HOI-134",
+    "title": "Ai-chan(22)素人海海Z 素人 不挑剔的美少女 二次元 好色 利落 美乳 白皙 射颜 射马",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/850cbc9b0ad6251c4e0ecb720f9d53ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-134"
+  },
+  {
+    "id": 532020,
+    "IDcode": "420HOI-135",
+    "title": "娜娜（23）素人海海Z，素人，服装文员，美女，出众风格，爱神，巨乳，美乳，白皙，颜射，奇闻趣事",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240511/pb_e_810momo-002.jpg!320x216.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/6730d06b31b7d562484e1fdfaf490ec5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=810MOMO-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-135"
   },
   {
-    "id": 576730,
-    "IDcode": "810MOMO-003",
-    "title": "[] 不良美少女の痉挛と絶顶 泣いて谢るまでお仕置きだ！",
+    "id": 538677,
+    "IDcode": "420HOI-159",
+    "title": "アイchan",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-159"
+  },
+  {
+    "id": 538641,
+    "IDcode": "420HOI-163",
+    "title": "マリナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240615/1614858247-hoi163jp-005.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-163"
+  },
+  {
+    "id": 519896,
+    "IDcode": "420HOI-169",
+    "title": "喷出频率超过",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/0a32f8e6db4ffab963b2306d9cd40f7f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-169"
+  },
+  {
+    "id": 519869,
+    "IDcode": "420HOI-171",
+    "title": "流入 G 奶的混浊液体",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/a559dbb106974a3046d3d69a29f96cde.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-171"
+  },
+  {
+    "id": 519848,
+    "IDcode": "420HOI-174",
+    "title": "把精子洒在无辜的笑脸上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/882d2964453623767d82415cb9d607f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-174"
+  },
+  {
+    "id": 538305,
+    "IDcode": "420HOI-184",
+    "title": "铃音 (秋元すずね)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240303/HOI184.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-184"
+  },
+  {
+    "id": 519825,
+    "IDcode": "420HOI-191",
+    "title": "性 突然成长的美好而温柔的感觉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/8a51b4a1f1f6872991bb55e45f1f0d07.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-191"
+  },
+  {
+    "id": 519755,
+    "IDcode": "420HOI-192",
+    "title": "一年来第1次像做爱一样的满足感",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/7d1b7dea97d1b9233b87f2f86fcf2ef9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-192"
+  },
+  {
+    "id": 538334,
+    "IDcode": "420HOI-209",
+    "title": "ゆうな (弘中优)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240303/HOI209.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-209"
+  },
+  {
+    "id": 538304,
+    "IDcode": "420HOI-210",
+    "title": "イナミ (伊南えりか)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240303/HOI210.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-210"
+  },
+  {
+    "id": 538303,
+    "IDcode": "420HOI-211",
+    "title": "そのみ (水原みその)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240303/HOI211.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-211"
+  },
+  {
+    "id": 538191,
+    "IDcode": "420HOI-217",
+    "title": "星美 (星谷瞳)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240130/HOI217.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-217"
+  },
+  {
+    "id": 538190,
+    "IDcode": "420HOI-218",
+    "title": "夏ちゃん (佐野なつ)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240130/HOI218.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-218"
+  },
+  {
+    "id": 538158,
+    "IDcode": "420HOI-222",
+    "title": "aoi (天野碧)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240123/HOI222.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-222"
+  },
+  {
+    "id": 538145,
+    "IDcode": "420HOI-223",
+    "title": "杏 (铃音杏夏)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240121/HOI223.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-223"
+  },
+  {
+    "id": 531408,
+    "IDcode": "420HOI-226",
+    "title": "瞳美(26) 素人ホイホイZ·素人·お姊さん·颜射·巨乳·美乳·5年ぶり·探侦·ハメ撮り·",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240511/pb_e_810momo-003.jpg!320x216.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/6bc5570ada0208f36d78d862afb5f105.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=810MOMO-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-226"
   },
   {
-    "id": 170709,
-    "IDcode": "811PWIFE-803",
-    "title": "ライラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/e81f4bf3532017e4fd00e68f50857d7c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-803"
-  },
-  {
-    "id": 170711,
-    "IDcode": "811PWIFE-809",
-    "title": "ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/46d053c2ba91452d694f25b5b25e9830.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-809"
-  },
-  {
-    "id": 170712,
-    "IDcode": "811PWIFE-817",
-    "title": "のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/472cccacf0944e2803de98722b54b684.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-817"
-  },
-  {
-    "id": 486491,
-    "IDcode": "811PWIFE-820",
-    "title": "まふゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/f49044371e7ee809b97b5b715c061aa7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-820"
-  },
-  {
-    "id": 486489,
-    "IDcode": "811PWIFE-821",
-    "title": "あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/25adcecf4199ab17a4cb83d196e050e4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-821"
-  },
-  {
-    "id": 170646,
-    "IDcode": "811PWIFE-834",
-    "title": "みのん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/eb068c5c117f49f202c9e8c36b0fe2ee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-834"
-  },
-  {
-    "id": 511058,
-    "IDcode": "811PWIFE-836",
-    "title": "さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/8b4067023b037a2b33618043ccc80a0f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-836"
-  },
-  {
-    "id": 103698,
-    "IDcode": "811PWIFE-851",
-    "title": "あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/e983516dec0d0f6a4136994b9f948865.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-851"
-  },
-  {
-    "id": 103710,
-    "IDcode": "811PWIFE-857",
-    "title": "玲奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/8c09fc3b82b7707fb13fa255cc82a5d4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-857"
-  },
-  {
-    "id": 103709,
-    "IDcode": "811PWIFE-859",
-    "title": "いずみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/343dda889f7bdb17a1c18e41ee59c23e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-859"
-  },
-  {
-    "id": 103707,
-    "IDcode": "811PWIFE-867",
-    "title": "いずみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/21467eace2f7caa0440525e5acbbcd39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-867"
-  },
-  {
-    "id": 103724,
-    "IDcode": "811PWIFE-868",
-    "title": "かほこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/5159454c5df5cfa213a766e312288328.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-868"
-  },
-  {
-    "id": 511067,
-    "IDcode": "811PWIFE-881",
-    "title": "みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/e4f8644359f943aaff0fed127d228637.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-881"
-  },
-  {
-    "id": 170645,
-    "IDcode": "811PWIFE-882",
-    "title": "ゆう 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/830289bbe12e8fd1de0a8b54f16f90e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-882"
-  },
-  {
-    "id": 516268,
-    "IDcode": "811PWIFE-885",
-    "title": "芽衣與沙羅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c3265e5f13d063bcdf5631/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-885"
-  },
-  {
-    "id": 486488,
-    "IDcode": "811PWIFE-891",
-    "title": "ゆみな 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/f972f1ae3d06152c0c3a9bd6c6432399.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-891"
-  },
-  {
-    "id": 511057,
-    "IDcode": "811PWIFE-913",
-    "title": "みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/b526e675d94c6815a168b229ca6fb16d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-913"
-  },
-  {
-    "id": 170710,
-    "IDcode": "811PWIFE-914",
-    "title": "ユウカ 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/66f13097a2feda9f974c682f4a429a49.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-914"
-  },
-  {
-    "id": 511070,
-    "IDcode": "813MAKO-0009",
-    "title": "なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/09b9c415c84945b12a87313b23639ad5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=813MAKO-0009"
-  },
-  {
-    "id": 517327,
-    "IDcode": "813MAKO-0044",
-    "title": "午間的戀人 百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/19/68f46df5d6fbef4e90ffde9a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=813MAKO-0044"
-  },
-  {
-    "id": 518105,
-    "IDcode": "815WOMC-002",
-    "title": "迷你裙水手服美腳泡泡襪OO",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f7e6cd7de28f4ede9c1384/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=815WOMC-002"
-  },
-  {
-    "id": 511061,
-    "IDcode": "815WOMC-012",
-    "title": "ユキ 5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/f57073c430335e71d71a2c34444c186d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=815WOMC-012"
-  },
-  {
-    "id": 511060,
-    "IDcode": "815WOMC-014",
-    "title": "ユキ 7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/8d945f8c57c46d3c002f83217df989f8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=815WOMC-014"
-  },
-  {
-    "id": 154407,
-    "IDcode": "821-AOI-01",
-    "title": "具有透明感的美少女的中出SEXAoi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250412-1/9b2c796b5a1a5937b3a100006299cfd9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=821-AOI-01"
-  },
-  {
-    "id": 154406,
-    "IDcode": "821-AOI-02",
-    "title": "偶像级可爱女孩和SEXAoi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250412-1/56c48361e9ddbe6e350c31e2b423b969.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=821-AOI-02"
-  },
-  {
-    "id": 154405,
-    "IDcode": "822-YUI-01",
-    "title": "年轻的皮肤女孩的水手服蚀刻Yui",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250412-1/76deba3280a7bb9dcd72f3354d3c6543.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=822-YUI-01"
-  },
-  {
-    "id": 463600,
-    "IDcode": "844SBKD-033",
-    "title": "里緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e727898bc99dfdd032dcc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=844SBKD-033"
-  },
-  {
-    "id": 517318,
-    "IDcode": "844SBKD-042",
-    "title": "朱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f85ca9dbf24d4ed3428843/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=844SBKD-042"
-  },
-  {
-    "id": 462328,
-    "IDcode": "844SBKD-043",
-    "title": "河合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e17a5579f1ac4ec48ede1e/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=844SBKD-043"
-  },
-  {
-    "id": 519025,
-    "IDcode": "888PRED-A670",
-    "title": "住在家里的姐姐的大屁股太色情了，我的理性被打乱了，我几次失控射精。山岸绫香 -A 山岸逢花",
+    "id": 532690,
+    "IDcode": "420HOI-228",
+    "title": "よっちゃん(26) 素人ホイホイZ・素人・美少女・アスリート・巨乳・颜射・ハメ撮り・トレーナー・公务员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "无码"
+      "巨乳"
     ],
-    "type": "无码",
-    "company": "PREMIUM",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/24105_cover_2025-10-01_231024.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230709/pb_e_420hoi-228.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888PRED-A670"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-228"
   },
   {
-    "id": 519026,
-    "IDcode": "888PRED-A671",
-    "title": "霸道精英女播音员轮奸～我被复仇现场工作人员笠井梓的汗流浃背的活塞不断翻滚 -A 笕梓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "PREMIUM",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/13122_cover_2025-10-01_231024.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888PRED-A671"
-  },
-  {
-    "id": 519018,
-    "IDcode": "888PRED-A683",
-    "title": "休息室一号小姐正在笑着洗澡！三蛋口交与可爱的脸！春世摩卡 -A 春阳モカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "PREMIUM",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/73455_cover_2025-10-01_201040.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888PRED-A683"
-  },
-  {
-    "id": 530298,
-    "IDcode": "934-1PON",
-    "title": "112719_ エンドレスセックス 羽田サラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200211-1/e6da05bdcf97ab65b99947d76b000738.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=934-1PON"
-  },
-  {
-    "id": 529255,
-    "IDcode": "963-1PON",
-    "title": "双飞婴儿肥的姐妹花012120_",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20250411-1/ecaac0a61adfcf3e1e2fabbacf8f8df5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=963-1PON"
-  },
-  {
-    "id": 530827,
-    "IDcode": "991-1PON",
-    "title": "2420_ M痴女 山本まい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/164d436355bfb95d34cf863474513bdc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=991-1PON"
-  },
-  {
-    "id": 532045,
-    "IDcode": "994-1PON",
-    "title": "0220_ むっちりしたデカ尻女と3Pローションプレイ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/f7000f6fb8820671ee18a587bf3ebb07.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=994-1PON"
-  },
-  {
-    "id": 529727,
-    "IDcode": "AAA-CUP",
-    "title": "河川敷日焼け无垢素人じゅん 中出し3本番狂騒曲",
+    "id": 532698,
+    "IDcode": "420HOI-229",
+    "title": "リノ(23) 素人ホイホイZ・素人・お姊さん・清楚・电マ・颜射・ハメ撮り・彼氏ナシ・2発射・ドキュメント (中条りの)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191203-1/bf7c9eeda1655a687f072a832d57e371.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AAA-CUP"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-229"
   },
   {
-    "id": 545705,
-    "IDcode": "AAS-005",
-    "title": "SEXの逸材。素人の冲撃试し撮り VOL.97",
+    "id": 532734,
+    "IDcode": "420HOI-230",
+    "title": "希(25) 素人ホイホイZ・素人・お姊さん・清楚・G乳・颜射・ハメ撮り・酒・インドア・くびれ・ドキュメント (希代あみ)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240422/xBfehqTI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AAS-005"
-  },
-  {
-    "id": 525535,
-    "IDcode": "AAS-007",
-    "title": "SEXの逸材。素人の冲撃试し撮り VOL.99",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240811/JwuIVSUO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AAS-007"
-  },
-  {
-    "id": 525584,
-    "IDcode": "AAS-008",
-    "title": "SEXの逸材。素人の冲撃试し撮り VOL.100",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240718/Wr8ytstg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AAS-008"
-  },
-  {
-    "id": 16538,
-    "IDcode": "ABF-026",
-    "title": "河合明日菜和素人君單獨相處了一整天。徹底精疲力盡，素人射精10次。河合明日菜被操到了極限。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "手指插入",
-      "美腳",
       "素人",
-      "乳交",
-      "胸控・戀乳癖",
-      "美乳",
-      "中出",
-      "口交",
-      "巨乳",
-      "性感",
-      "苗條",
-      "美臀",
-      "接吻",
-      "女優"
+      "巨乳"
     ],
-    "type": "",
-    "company": "Baby Entertainment",
-    "publish_date": "2023-09-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129090940754754.jpg",
-    "actress": [
-      "河合明日菜"
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230820/pb_e_420hoi-230.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-230"
+  },
+  {
+    "id": 570063,
+    "IDcode": "420HOI-238",
+    "title": "海(28) 素人ホイホイZ·お姊さん·巨乳·G乳·28歳·OL·彼氏ナシ·むっつり·潮吹き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-026"
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230603/j9KuvDSV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-238"
+  },
+  {
+    "id": 542811,
+    "IDcode": "420HOI-239",
+    "title": "なかまる(23)素人ホイホイZ·素人·美少女·美乳·巨乳·个人撮影·ハメ撮り·ドキュメンタ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/Ib4yNirM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-239"
+  },
+  {
+    "id": 542806,
+    "IDcode": "420HOI-240",
+    "title": "みさき(21)素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·美少女·女子大生·电マ·放",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/kHVS3D9C/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-240"
+  },
+  {
+    "id": 542807,
+    "IDcode": "420HOI-241",
+    "title": "つむぎ(24) 素人ホイホイZ·素人·巨乳·美乳·OL·ハメ撮り·ドキュメンタリー·个人撮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/LXGm5yao/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-241"
+  },
+  {
+    "id": 542809,
+    "IDcode": "420HOI-242",
+    "title": "松さん(30) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·清楚·OL·长身·お姊さ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/MbPLhBm8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-242"
+  },
+  {
+    "id": 542812,
+    "IDcode": "420HOI-243",
+    "title": "凑さん(22) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·美少女·女子大生·潮吹き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/Ciw4hzVS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-243"
+  },
+  {
+    "id": 542814,
+    "IDcode": "420HOI-244",
+    "title": "由良(20) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·清楚·巨乳·女子大生·颜射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/dXgbY94r/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-244"
+  },
+  {
+    "id": 542813,
+    "IDcode": "420HOI-245",
+    "title": "麻美(30) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·清楚·美乳·お姊さん·电マ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/3JEX17Ro/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-245"
+  },
+  {
+    "id": 542810,
+    "IDcode": "420HOI-246",
+    "title": "日向(30) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·清楚·巨乳·お姊さん·オナニー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250110/g7lEpVuv/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-246"
+  },
+  {
+    "id": 542816,
+    "IDcode": "420HOI-247",
+    "title": "ソラ(20) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·清楚·美少女·巨乳·颜射·个人撮影",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/J47E1LBt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-247"
+  },
+  {
+    "id": 542815,
+    "IDcode": "420HOI-248",
+    "title": "紫(40) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·出版勤务·40歳·未婚·历代",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/ETG4waMD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-248"
+  },
+  {
+    "id": 511094,
+    "IDcode": "420HOI-249",
+    "title": "まる(22) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·22歳·元アイドル·眼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/936a79102eed15bbab9dbba7d0180122.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-249"
+  },
+  {
+    "id": 170616,
+    "IDcode": "420HOI-250",
+    "title": "やなぎ(20) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·20歳·彼氏ナシ·大",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/9abfa81434e031642b769af0bc70e73d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-250"
+  },
+  {
+    "id": 542818,
+    "IDcode": "420HOI-251",
+    "title": "ナツ(20) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·个人撮影·フリーター·20",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/H5gcjppO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-251"
+  },
+  {
+    "id": 542819,
+    "IDcode": "420HOI-252",
+    "title": "みすず(21) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·个人撮影·黒髪·美少女·",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/dSkM4aq4/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-252"
+  },
+  {
+    "id": 542817,
+    "IDcode": "420HOI-253",
+    "title": "いおり(23) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·マッチングアプリ·美乳·",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/Kes8mRsr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-253"
+  },
+  {
+    "id": 542821,
+    "IDcode": "420HOI-254",
+    "title": "兰々(20) 素人ホイホイZ·素人·ハメ撮り·ドキュメンタリー·マッチングアプリ·巨乳·美少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/Mf8luftm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-254"
+  },
+  {
+    "id": 542820,
+    "IDcode": "420HOI-255",
+    "title": "リク(20)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/EcCaIL3L/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-255"
+  },
+  {
+    "id": 542822,
+    "IDcode": "420HOI-256",
+    "title": "さっさー(22)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250111/Ganbecvj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-256"
+  },
+  {
+    "id": 458771,
+    "IDcode": "420HOI-257",
+    "title": "環奈(20) 素人ホイホイZ·素人·ドキュメンタリー·美少女·黒髪·清楚·長身·電マ·",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/57d69b9bee1454f0fd8b395a2f699da1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-257"
+  },
+  {
+    "id": 542824,
+    "IDcode": "420HOI-258",
+    "title": "きさき(20) 素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·贫乳·微乳·清楚·黒髪·美少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/P3ktHK9D/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-258"
+  },
+  {
+    "id": 542823,
+    "IDcode": "420HOI-259",
+    "title": "うみ(24) 素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·巨乳·黒髪·美少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/EGwY1BO7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-259"
+  },
+  {
+    "id": 542826,
+    "IDcode": "420HOI-262",
+    "title": "夏(30)素人ホイホイZ·素人·人妻·主妇·お姊さん·巨乳·巨尻·ハメ撮り·ドキュメンタリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/tj9gltr5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-262"
+  },
+  {
+    "id": 542825,
+    "IDcode": "420HOI-265",
+    "title": "桃叶(25)素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·电マ·オナニー·お姊さん·美少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/AEIz8CHq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-265"
+  },
+  {
+    "id": 542828,
+    "IDcode": "420HOI-268",
+    "title": "菜つき(22) 素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·黒髪·小柄·电マ·潮吹き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/SSLAmmoT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-268"
+  },
+  {
+    "id": 542827,
+    "IDcode": "420HOI-271",
+    "title": "円香(23) 素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·清楚·潮吹き·电マ·黒髪·美少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/TI8llu1w/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-271"
+  },
+  {
+    "id": 542829,
+    "IDcode": "420HOI-273",
+    "title": "カナ(25)素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·美少女·お姊さん·巨乳·くび",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/TySN9qeE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-273"
+  },
+  {
+    "id": 542830,
+    "IDcode": "420HOI-279",
+    "title": "樱(26)素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·お姊さん·スレンダー·くびれ·",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/nMwHMLEf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-279"
+  },
+  {
+    "id": 542831,
+    "IDcode": "420HOI-280",
+    "title": "茉理(20)素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·美少女·爆乳·ぽっちゃり·巨尻·电マ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250112/rIWMDHpo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-280"
+  },
+  {
+    "id": 542832,
+    "IDcode": "420HOI-281",
+    "title": "ゆの(30)素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·お姊さん·巨乳·高身长·くびれ·美尻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250113/cYDGQUlR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-281"
+  },
+  {
+    "id": 542833,
+    "IDcode": "420HOI-282",
+    "title": "わや(24)素人ホイホイZ·素人·ドキュメンタリー·ハメ撮り·美少女·巨乳·美尻·くびれ·颜射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250113/C3tXjsp8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-282"
+  },
+  {
+    "id": 542834,
+    "IDcode": "420HOI-295",
+    "title": "七星",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250113/6GUjgbz7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-295"
+  },
+  {
+    "id": 61197,
+    "IDcode": "420HOI-361",
+    "title": "爆美女&amp爆乳＠さゆか(22)素人ホイホイZ・素人・ドキュメンタリー・ハメ撮り・美少女・巨乳・くびれ・美尻・潮吹き・騎乗位・顔射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-2/f1bd2cee013634012f8193f3ea34c4b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-361"
+  },
+  {
+    "id": 178448,
+    "IDcode": "420HOI-367",
+    "title": "奥手美女爆イキ＠さなぎ(20)素人ホイホイZ・素人・ドキュメンタリー・ハメ撮り・美少女・清楚・高城なぎさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/3b75b4e9/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-367"
+  },
+  {
+    "id": 59687,
+    "IDcode": "420HOI-368",
+    "title": "女子アナ系美女＠かほの(24)素人ホイホイZ・素人・ドキュメンタリー・ハメ撮り・斉藤帆夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/04/f599daecf4b2c346c15086fbbd01c18d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420HOI-368"
   }
 ];

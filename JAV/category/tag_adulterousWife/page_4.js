@@ -1,5 +1,1653 @@
 window.PAGE_DATA = [
   {
+    "id": 190576,
+    "IDcode": "BBAN-521",
+    "title": "同窓会レズビアンNTR ～恋心を暴走させた絶倫友人に声殺しでイカされ続け夜通し性交でレズ堕ちさせられた婚前巨乳美女～ 小坂ひまり 胡桃さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d504034e7d663df4eab238/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-521"
+  },
+  {
+    "id": 186414,
+    "IDcode": "BBAN-550",
+    "title": "遠距離彼氏と大喧嘩…宿無しの私はホテル出張中の上司に偶然拾われ… セックスお預けされた禁欲敏感BODYを一晩中イカされる相部屋レズビアンNTR 水乃なのは 西野絵美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "BIBIAN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_BIBIAN",
+        "works_count": 555
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-550"
+  },
+  {
+    "id": 411222,
+    "IDcode": "BBSS-092",
+    "title": "女同NTR BEST 4小时，女人们的淫荡性交夺走了她们的身心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/29/68107e2b5b6f25c169406037/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-092"
+  },
+  {
+    "id": 522880,
+    "IDcode": "BDSR-218-CD1",
+    "title": "波多野结衣- 【ハズレなし】素晴らし过ぎる美女レズ。 ガチで绮丽なお姊さん达が唾液交换浓厚キスで発情しながらイキまくる！ 24人のレズバトル4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250324/J15ow14l/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-218-CD1"
+  },
+  {
+    "id": 522878,
+    "IDcode": "BDSR-218-CD2",
+    "title": "波多野结衣- 【ハズレなし】素晴らし过ぎる美女レズ。 ガチで绮丽なお姊さん达が唾液交换浓厚キスで発情しながらイキまくる！ 24人のレズバトル4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250324/fG43OnLz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-218-CD2"
+  },
+  {
+    "id": 522875,
+    "IDcode": "BDSR-233-CD1",
+    "title": "波多野结衣- 【ハズレなし】素晴らし过ぎる美女レズ。 ガチで绮丽なお姊さん达が唾液交换浓厚キスで発情しながらイキまくる！ 24人のレズバトル4时间02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250324/Vw1vBV6r/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-233-CD1"
+  },
+  {
+    "id": 522879,
+    "IDcode": "BDSR-233-CD2",
+    "title": "波多野结衣- 【ハズレなし】素晴らし过ぎる美女レズ。 ガチで绮丽なお姊さん达が唾液交换浓厚キスで発情しながらイキまくる！ 24人のレズバトル4时间02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250324/gw1HHzDb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-233-CD2"
+  },
+  {
+    "id": 61351,
+    "IDcode": "BDSR-539",
+    "title": "マジックミラーパネル キメセクNTR鑑賞with旦那 媚薬でエロス覚醒…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "NTR",
+      "流汗",
+      "已婚妇女",
+      "白天出轨",
+      "淫妻",
+      "中出",
+      "药物"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20251008/oSbo9S4Q/1.jpg",
+    "actress": [
+      "田中寧寧",
+      "三岳祐奈",
+      "爱花みちる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-539"
+  },
+  {
+    "id": 61650,
+    "IDcode": "BDST-068",
+    "title": "NTRドッキリ企画！マジックミラーパネルPart4 産後マ〇コに他人棒ナマ挿入！媚薬のせいで産後レス美人ママが爆イキ中、突如旦那と対面させたらどうなるの！？ 性欲解放アクメ連発スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-068"
+  },
+  {
+    "id": 61056,
+    "IDcode": "BDST-069",
+    "title": "NTRドッキリ企画！マジックミラーパネルPart5 出産してるのにイッたことが無い！？産後マ〇コを開発＆ナマハメ中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-069"
+  },
+  {
+    "id": 184122,
+    "IDcode": "BDST-073",
+    "title": "NTRドッキリ企画！マジックミラーパネルPart7 ドッキリ失敗したかと思いきや…寝取られ性癖の旦那",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-073"
+  },
+  {
+    "id": 572358,
+    "IDcode": "BEAF-067",
+    "title": "女优不详【仆のセフレ犯してください】调教済み清楚系音大JD22歳。セフレの前で他人にイカされヨガリまくるガンギマリNTRセックス【超絶敏感ボディ】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEAF-067"
+  },
+  {
+    "id": 102709,
+    "IDcode": "BF-541",
+    "title": "家庭聚会被经理和同事戴了绿帽子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "白天出轨",
+      "淫妻",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Baby Entertainment",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
+        "works_count": 710
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桐香悠裡"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-541"
+  },
+  {
+    "id": 595692,
+    "IDcode": "BF-552",
+    "title": "NTR 送别会で元彼に寝取られた新婚OL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Baby Entertainment",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
+        "works_count": 710
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/c247ced15d6b8e6d251bdb9409167d0c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-552"
+  },
+  {
+    "id": 593233,
+    "IDcode": "BF-572",
+    "title": "CN 女教师W不伦 NTR 绝顶超M强迫口交性交 结婚第2年梓纱（26）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Baby Entertainment",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Baby_Entertainment",
+        "works_count": 710
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/688be6bf7d655eaee92eb7cb77c43149.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-572"
+  },
+  {
+    "id": 9692,
+    "IDcode": "BIGC-002",
+    "title": "純情黑發美少女的真面目！出軌其它男人……超大雞巴瞬間淪陷的NTR，無毛小穴被操爛，惡魔活塞炸毀理智，背叛男友，允許中出的極致做愛 ~ 水卜麻衣奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "慾求不滿",
+      "飯店",
+      "綠茶婊",
+      "美少女",
+      "美腳",
+      "癡女",
+      "JK校服",
+      "色白",
+      "美乳",
+      "口交",
+      "形象俱樂部",
+      "NTR",
+      "淫妻",
+      "出軌",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "不倫",
+      "絕頂高潮",
+      "清純",
+      "美少女電影",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-12-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222015144918918.jpg",
+    "actress": [
+      "水卜麻衣奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIGC-002"
+  },
+  {
+    "id": 557001,
+    "IDcode": "BLK-333",
+    "title": "如果你无论如何都不能约会，那就让你汗流浃背的父亲绝对怀孕 x Cuckold Seeding Press Chest Feces NTRS Mari Rika - 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/50c37d5ca434e08e7253f8c8e65f086a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-333"
+  },
+  {
+    "id": 547724,
+    "IDcode": "BMW-292",
+    "title": "爱する女性がゲスチ〇ポで犯されて堕ちてイク胸粪NTRベスト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "WANZ FACTORY",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_WANZ_FACTORY",
+        "works_count": 569
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231104/6TpNkn0F/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-292"
+  },
+  {
+    "id": 92611,
+    "IDcode": "BOD-816",
+    "title": "BOD816逆NTR逆強姦！女友的打工處淫亂巨乳三人組【乳頭屁眼龜頭】被她們三點同時玩弄侵犯的我AIKA黑川紗里奈七瀨雛。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/79ff25d2c4056afb39df9c7cfd2a5429.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOD-816"
+  },
+  {
+    "id": 347904,
+    "IDcode": "C-2823",
+    "title": "人妻自撮りNTR 寝取られ报告ビデオ28",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240320/u4McD56e/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2823"
+  },
+  {
+    "id": 551226,
+    "IDcode": "C-2833",
+    "title": "人妻自撮りNTR 寝取られ报告ビデオ29",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240507/8ofKrjr8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2833"
+  },
+  {
+    "id": 551140,
+    "IDcode": "C-2843",
+    "title": "人妻自撮りNTR 寝取られ报告ビデオ30",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/Gd66ko7U/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2843"
+  },
+  {
+    "id": 551141,
+    "IDcode": "C-2853",
+    "title": "アダルトメーカー凸撃 NTRカップル 押しかけAV撮影001",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240812/YrImjjlV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2853"
+  },
+  {
+    "id": 408031,
+    "IDcode": "C-2856",
+    "title": "已婚婦女自拍NTR Netorare報告影片31",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c6e85979f1ac4ec459e2b3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2856"
+  },
+  {
+    "id": 525294,
+    "IDcode": "C-2859",
+    "title": "人妻自撮りNTR 寝取られ报告ビデオ32",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240924/itkhGLE1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2859"
+  },
+  {
+    "id": 542508,
+    "IDcode": "C-2868",
+    "title": "アダルトメーカー凸撃 NTRカップル 押しかけAV撮影002",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241120/bF4bkx7u/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2868"
+  },
+  {
+    "id": 542656,
+    "IDcode": "C-2874",
+    "title": "人妻自撮りNTR 寝取られ报告ビデオ33",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241217/UImsTBMX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2874"
+  },
+  {
+    "id": 520807,
+    "IDcode": "C-2887",
+    "title": "人妻自撮りNTR 寝取られ报告ビデオ THE BEST 2022.11-2024.05",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "日本肉番",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "2022-11-01",
+    "cover_url": "https://tuaskbgnekr.com/20250312/Iy2Lq7j2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2887"
+  },
+  {
+    "id": 520800,
+    "IDcode": "C-2888",
+    "title": "人妻自撮りNTR 寝取られ报告ビデオ34",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250312/SOozjQ2o/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2888"
+  },
+  {
+    "id": 559423,
+    "IDcode": "C-2894",
+    "title": "アダルトメーカー凸撃 NTRカップル 押しかけAV撮影003",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250509/VRoCAmEn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2894"
+  },
+  {
+    "id": 67512,
+    "IDcode": "C-2901",
+    "title": "人妻自撮りNTR 寝取られ報告ビデオ35",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2901"
+  },
+  {
+    "id": 176999,
+    "IDcode": "C-2930",
+    "title": "アダルトメーカー凸撃 NTRカップル 押しかけAV撮影005",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/12/bd321bcd76ab3de78438c1fccc8a6247.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2930"
+  },
+  {
+    "id": 550946,
+    "IDcode": "C2871-122",
+    "title": "30岁人妻A纱的寝取盛宴！绿帽丈夫献妻求您狠狠享用",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C2871-122"
+  },
+  {
+    "id": 401747,
+    "IDcode": "C2876",
+    "title": "戴绿帽营地 02 高桥浩一 C2876 寝取られキャンプ02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251007-1/053c6298b7b0f05b8418ff6f52c9be4a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C2876"
+  },
+  {
+    "id": 520928,
+    "IDcode": "C2876-02",
+    "title": "绿帽露营：高桥浩一执导 人妻野外调教出轨实录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C2876-02"
+  },
+  {
+    "id": 444978,
+    "IDcode": "C2894",
+    "title": "アダルトメーカー凸撃NTRカップル押しかけAV撮影003",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250707-1/0cefdbbc396854ee62a67e8c254bffb2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C2894"
+  },
+  {
+    "id": 521355,
+    "IDcode": "C2894-003",
+    "title": "成人片商突袭NTR情侣！强行闯入拍摄AV现场",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250712-1/465cc268381362b1e60c4fb97514ff4a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C2894-003"
+  },
+  {
+    "id": 449591,
+    "IDcode": "C2901",
+    "title": "人妻自撮りNTR寝取られ報告ビデオ35",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250713-1/7a380d80130fe328b44e42e872bf3527.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C2901"
+  },
+  {
+    "id": 347718,
+    "IDcode": "CARIB 062212-055",
+    "title": "野百合的妻子在丈夫面前被操 波多野结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB 062212-055"
+  },
+  {
+    "id": 554363,
+    "IDcode": "CARIB-011225-001",
+    "title": "修学旅行の下见の不道徳すぎる一泊二日NTR",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250118/YftWOg1H/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-011225-001"
+  },
+  {
+    "id": 557126,
+    "IDcode": "CARIB-062125-001",
+    "title": "嫁の美人姊に痴女られる！禁断の榨り取りNTR浓厚性交！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250911/48ymuCMo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062125-001"
+  },
+  {
+    "id": 554469,
+    "IDcode": "CARIB-091424-001",
+    "title": "Gカップ爆乳の义父介护x敬老NTR",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "巨乳",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240923/ALUTSE0H/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091424-001"
+  },
+  {
+    "id": 159199,
+    "IDcode": "CARIB-091723-001",
+    "title": "義姉NTR ～絶対に内緒にするから一度だけ・・・～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "NTR",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250220/2GDbyznD/1.jpg",
+    "actress": [
+      "上山奈々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-091723-001"
+  },
+  {
+    "id": 554306,
+    "IDcode": "CARIB-110924-001",
+    "title": "交通机関がSTOP！帰宅难民！ ～妻が家で待っているのに逆NTRされた夜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241112/yEMgRN5w/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-110924-001"
+  },
+  {
+    "id": 559178,
+    "IDcode": "CARIBBEANCOM-091424-001",
+    "title": "G罩杯大胸公关爱x敬老NTR",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "巨乳",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250121-1/acafb5ec1df15e9281a48b3fad607d68.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-091424-001"
+  },
+  {
+    "id": 140920,
+    "IDcode": "CARIBBEANCOM-091723-001",
+    "title": "嫂子NTR我一定会保密的就一次",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250125-1/c6feafbbff29ec5d1dcc866be0143dcd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-091723-001"
+  },
+  {
+    "id": 436842,
+    "IDcode": "CARIBBEANCOM121622001",
+    "title": "这样的胸部有什么错？〜对有女友的前辈以H罩杯胸部NTR〜折原穗花。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "巨乳",
+      "无码"
+    ],
+    "type": "无码",
+    "companys": [
+      {
+        "company": "加勒比系",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_加勒比系",
+        "works_count": 2435
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/4b3ce09810df411ae2baf74b96587acd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM121622001"
+  },
+  {
+    "id": 531022,
+    "IDcode": "CASE14",
+    "title": "＜中出し速报＞Fカップ美!巨乳美少女に彼氏に见えない所でウッカリ中出し！！！(确信犯w)“ねぇ、ヤダよ…ホントにいいの…？”と润んだ瞳で彼氏に问いかける様は郁勃起必至！背徳感がヤベェ！死ぬほど抜けるぞ！ NTR.net case14",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CASE14"
+  },
+  {
+    "id": 521999,
+    "IDcode": "CASE19",
+    "title": "＜中出し速报＞爆乳！ド郁！彼氏大号泣！强引寝取り！爆乳Iカップが涙で濡れる、シリーズ最高问题作？！学费も生活费もバイト挂け持ちで支払う苦学生が彼氏との时间欲しさに割り切りバイトとしてAV出演？！途中、ギブアップするも悪い奴らに半ば强引に中出しまで？！ NTRnet case19",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CASE19"
+  },
+  {
+    "id": 521706,
+    "IDcode": "CASE3",
+    "title": "结婚直前寝取りSP！！婚约者の目の前で失禁！失禁！また失禁！AV男优の性技に痉挛とお漏らしが止まらないおっとり美人（23歳 保育士）清楚な颜立ちと真逆のむっつりどエロ&最高に抱きたい体！ハメられながら婚约者に谢り続ける姿は勃起必至！最后は吕律も回らいほどイキまくって再起不能www NTRnet case3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sha.lashayu.com/papachangpian-img/2f9a857b95.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CASE3"
+  },
+  {
+    "id": 529814,
+    "IDcode": "CASE4",
+    "title": "【NTR実况】 その时、妻は… case4 9_20 爱理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20231215-1/2f746a7fdce2708386c3a40a1373beb2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CASE4"
+  },
+  {
+    "id": 210204,
+    "IDcode": "CAWD-105",
+    "title": "社内研修相部屋NTR-伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-105"
+  },
+  {
+    "id": 88292,
+    "IDcode": "CAWD-115",
+    "title": "相部屋中出しNTR-桜もこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "NTR",
+      "白天出轨",
+      "淫妻",
+      "中出",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/32f7698055e6a16507bac67844535c09.jpg",
+    "actress": [
+      "櫻萌子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-115"
+  },
+  {
+    "id": 210426,
+    "IDcode": "CAWD-125",
+    "title": "性爱交换-枢木あおい 久留木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-125"
+  },
+  {
+    "id": 211080,
+    "IDcode": "CAWD-139",
+    "title": "民宿出張NTR-伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-139"
+  },
+  {
+    "id": 86839,
+    "IDcode": "CAWD-146",
+    "title": "アダルトビデオ出演NTR 単身赴任が耐えられなかった絶倫妻が性欲の捌け口に選んだのは「AV女優」だった… 柚木結愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "NTR",
+      "第一人称摄影",
+      "戏剧",
+      "淫妻",
+      "白天出轨",
+      "接吻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/700c8e625cb4d9d840e026c81b7395ec.jpg",
+    "actress": [
+      "柚木结爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-146"
+  },
+  {
+    "id": 211391,
+    "IDcode": "CAWD-154",
+    "title": "相部屋NTR-天音ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-154"
+  },
+  {
+    "id": 211392,
+    "IDcode": "CAWD-161",
+    "title": "夏祭NTR-東條なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-161"
+  },
+  {
+    "id": 572245,
+    "IDcode": "CAWD-163",
+    "title": "出张中リモートNTR 舞雪が仆と付き合う前から爱人関系だった部长に言いなり调教され中出しされる一部始终を见せつけられて… 伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210728-1/6867b1eb7512d2f709ed28f09ed040a8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-163"
+  },
+  {
+    "id": 556526,
+    "IDcode": "CAWD-283",
+    "title": "桑拿返回共享房间NTR无与伦比的性交与听他抱怨成为字符串的兼职经理Asuka Momose - 百濑飞鸟",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/xicDmLdb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-283"
+  },
+  {
+    "id": 79665,
+    "IDcode": "CAWD-294",
+    "title": "結婚式直前パーソナルジムNTR 彼にはない男らしさと細マッチョの肉体に魅せられ性欲解消するまで中出ししまくった絶倫性交 三舩みすず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "戏剧",
+      "出轨",
+      "淫妻",
+      "白天出轨",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-294"
+  },
+  {
+    "id": 84145,
+    "IDcode": "CAWD-378",
+    "title": "媚薬漬けメス堕ち相部屋NTR 最低なヤリチン元彼と朝までキメセク 日向なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "OL",
+      "白天出轨",
+      "淫妻",
+      "中出",
+      "美少女电影",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "左慈半造"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-378"
+  },
+  {
+    "id": 84117,
+    "IDcode": "CAWD-398",
+    "title": "社内研修相部屋NTR-月乃ルナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "NTR",
+      "荡妇",
+      "OL",
+      "白天出轨",
+      "淫妻",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d9bfbe1b9daa7a8faa36292173859a9d.jpg",
+    "actress": [
+      "月乃露娜",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-398"
+  },
+  {
+    "id": 84164,
+    "IDcode": "CAWD-400",
+    "title": "性爱NTR-伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "NTR",
+      "流汗",
+      "戏剧",
+      "白天出轨",
+      "淫妻",
+      "无码破解",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/7fd0c307683dc4d23a283efc7209ee8a.jpg",
+    "actress": [
+      "伊藤舞雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-400"
+  },
+  {
+    "id": 84140,
+    "IDcode": "CAWD-431",
+    "title": "ねぇ私の方が気持ちいいでしょ？あざと可愛い制服女子の口淫NTR 狙った既婚者チ○ポは必ずジュポフェラ堕ち 日向なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "NTR",
+      "白天出轨",
+      "淫妻",
+      "中出",
+      "口交",
+      "淫语",
+      "主观视角"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/a3482969c5de3d2b1e5a1a8b93d5a037.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-431"
+  },
+  {
+    "id": 91058,
+    "IDcode": "CAWD-530",
+    "title": "我的女友被淫乱前辈很轻易就NTR了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "NTR",
+      "淫妻",
+      "白天出轨",
+      "美少女电影",
+      "巨乳",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682859e65d899f636104a701/cover.jpg",
+    "actress": [
+      "設樂夕日",
+      "真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-530"
+  },
+  {
+    "id": 7213,
+    "IDcode": "CAWD-820",
+    "title": "グラビアアイドルの彼女を献上するので勘弁してください…。弱みにつけ込みリアル芸能人生マ●コを完膚無きまで孕ませレ●プNTR 天羽りりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "奇聞趣事",
+      "女友・妻子",
+      "小隻馬",
+      "M男・M女",
+      "苗條",
+      "凌辱",
+      "美少女",
+      "美腳",
+      "強姦",
+      "羞恥",
+      "自宅",
+      "謝罪",
+      "美乳",
+      "欠債肉償",
+      "清楚系",
+      "口交",
+      "形象俱樂部",
+      "NTR",
+      "高顏值",
+      "蠻橫嬌羞",
+      "淫妻",
+      "中出",
+      "美人",
+      "後入",
+      "少女",
+      "劇情",
+      "清純",
+      "美少女電影",
+      "偶像",
+      "舔腳",
+      "脅迫做愛",
+      "蘿莉",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KAWAII",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KAWAII",
+        "works_count": 729
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083644614614.jpg",
+    "actress": [
+      "天羽梨梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-820"
+  },
+  {
+    "id": 539142,
+    "IDcode": "CEMD-116",
+    "title": "新村あかり- 彼氏を交换する3姊妹 春菜はな·新村あかり·七瀬いおりの彼氏スワッピング物语",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250607/XGtKJwpD/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-116"
+  },
+  {
+    "id": 87319,
+    "IDcode": "CEMD-230",
+    "title": "【FANZA限定】あなたの奥さんを『寝取らせ屋』がNTRさせて頂きます！本田瞳 パンティ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "NTR",
+      "已婚妇女",
+      "白天出轨",
+      "淫妻",
+      "无毛",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "セレブの友",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_セレブの友",
+        "works_count": 768
+      }
+    ],
+    "publish_date": "2022-09-14",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c175155da6282d9c0a8713858f42559e.jpg",
+    "actress": [
+      "本田瞳",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-230"
+  },
+  {
+    "id": 218310,
+    "IDcode": "CESD-577",
+    "title": "满足丈夫的绿帽子倾向-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-577"
+  },
+  {
     "id": 74564,
     "IDcode": "CESD-791",
     "title": "黒人生中出しNTR 規格外のデカマラに魅せられた妻…夫に内緒で黒人チ○ポに跨がりブラックザーメン膣内射精！！ 大槻ひびき",
@@ -17,14 +1665,40 @@ window.PAGE_DATA = [
       "素人作品",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2019-07-25",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/472f0d7e85615e1638606b38b9f00187.jpg",
     "actress": [
       "大槻响"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-791"
+  },
+  {
+    "id": 81534,
+    "IDcode": "CESD-846",
+    "title": "黒人生中出しNTR 浮気相手は宿泊客の外国人…そのデカマラに魅せられた人妻は夫に隠れて不倫SEX！！ みひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "巨大阴茎",
+      "白天出轨",
+      "淫妻",
+      "黑人演员",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2019-12-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐倉陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-846"
   },
   {
     "id": 74629,
@@ -45,14 +1719,38 @@ window.PAGE_DATA = [
       "素人作品",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6781892b2a47ebb1a890617f/cover.jpg",
     "actress": [
       "森澤佳奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CETD-304"
+  },
+  {
+    "id": 209302,
+    "IDcode": "CJOD-245",
+    "title": "女教師逆NTR-春咲りょう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡女特化",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
+        "works_count": 427
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-245"
   },
   {
     "id": 15250,
@@ -78,8 +1776,14 @@ window.PAGE_DATA = [
       "劇情",
       "不倫"
     ],
-    "type": "",
-    "company": "癡女特化",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "癡女特化",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_癡女特化",
+        "works_count": 427
+      }
+    ],
     "publish_date": "2024-04-23",
     "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419234850660660.jpg",
     "actress": [
@@ -87,6 +1791,67 @@ window.PAGE_DATA = [
       "通野未帆"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-420"
+  },
+  {
+    "id": 2453,
+    "IDcode": "CKCK-009",
+    "title": "都怪你那可怜又古怪的绿帽癣好听到了女友刺耳的心声-美谷朱音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "純粹的慾望",
+      "慾求不滿",
+      "口爆",
+      "三十路",
+      "真實拍攝",
+      "臀控",
+      "淫語",
+      "主觀視角",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "口交",
+      "巨乳",
+      "性感",
+      "形象俱樂部",
+      "單體作品",
+      "人妻",
+      "NTR",
+      "美人妻",
+      "ASMR顱内高潮",
+      "高顏值",
+      "明星臉",
+      "極品美人",
+      "淫妻",
+      "出軌",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "御姐系",
+      "黑絲",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美谷朱里",
+      "鲛岛",
+      "羽田貴史"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-009"
   },
   {
     "id": 15705,
@@ -135,8 +1900,14 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
-    "company": "変態紳士倶楽部",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "変態紳士倶楽部",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_変態紳士倶楽部",
+        "works_count": 439
+      }
+    ],
     "publish_date": "2024-04-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401032544798798.jpg",
     "actress": [
@@ -148,6 +1919,67 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-836"
   },
   {
+    "id": 69990,
+    "IDcode": "CLUB-861",
+    "title": "隣に夫がいるのに私は、私は… 新婚夫婦ばかりを狙い新妻を夫の70cm隣で寝取る悪徳ブライダルエステ 背徳マッサージNTR 望まないセックスで人生初体験の快感を知りおかわり中出しを要求する不貞妻2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "NTR",
+      "巨大阴茎",
+      "偷窥",
+      "已婚妇女",
+      "淫妻",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "変態紳士倶楽部",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_変態紳士倶楽部",
+        "works_count": 439
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ひょこり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-861"
+  },
+  {
+    "id": 71904,
+    "IDcode": "CLUB-866",
+    "title": "乳首こねくりマッサージNTR 妻が至近距離にいるのに乳首責めで感度高められこっそりハメて何度も中出しさせる痴女エステティシャンの実態を隠し撮り2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "NTR",
+      "荡妇",
+      "偷窥",
+      "4小时以上作品",
+      "白天出轨",
+      "淫妻",
+      "中出"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "変態紳士倶楽部",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_変態紳士倶楽部",
+        "works_count": 439
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-866"
+  },
+  {
     "id": 564828,
     "IDcode": "COGM-036",
     "title": "NTR速报 ワイの大好きな彼女が目の前で！イケメン出张ホスト达にプッシー开発されています",
@@ -157,12 +1989,32 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230104/h2Dem8ex/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COGM-036"
+  },
+  {
+    "id": 221707,
+    "IDcode": "CRNX-092",
+    "title": "趁老公不在NTR突击隔壁的巨乳人妻SEX做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRNX-092"
   },
   {
     "id": 78819,
@@ -181,8 +2033,8 @@ window.PAGE_DATA = [
       "巨乳",
       "女上位"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67841da1f9a2e9b1d4988c7c/cover.jpg",
     "actress": [
@@ -209,12 +2061,33 @@ window.PAGE_DATA = [
       "中出",
       "妹妹"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67879e035d57b64bfdf5bf43/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-697"
+  },
+  {
+    "id": 60684,
+    "IDcode": "DANDY-993",
+    "title": "在我的孩子面前被触摸拼命抵抗爱液流出-加山なつこ 成宮いろは",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "巨大屁股",
+      "淫妻",
+      "成熟的女人",
+      "口交"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-993"
   },
   {
     "id": 595602,
@@ -226,8 +2099,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5176a098504d3359190384e0d3a635a.jpg",
     "actress": [],
@@ -243,8 +2116,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c7d5a9b83a72a0622e20dcd50e06d465.jpg",
     "actress": [],
@@ -268,8 +2141,8 @@ window.PAGE_DATA = [
       "精选，综合",
       "第一人称摄影"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad8cc55337d7f7be49601/cover.jpg",
     "actress": [
@@ -296,8 +2169,8 @@ window.PAGE_DATA = [
       "素人作品",
       "精选，综合"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7b232d19d6996207e3d457df595b3413.jpg",
     "actress": [
@@ -318,8 +2191,8 @@ window.PAGE_DATA = [
       "淫妻",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250503-1/5fd0627a6c21613be0274a9721209c00.jpg",
     "actress": [],
@@ -341,14 +2214,92 @@ window.PAGE_DATA = [
       "中出",
       "美少女电影"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b83c521922a7b5eff5a9847dbc69bc30.jpg",
     "actress": [
       "根尾朱里"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-614"
+  },
+  {
+    "id": 82329,
+    "IDcode": "DASD-630",
+    "title": "黑人民宿NTR-佐知子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "巨大阴茎",
+      "淫妻",
+      "白天出轨",
+      "黑人演员",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐知子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-630"
+  },
+  {
+    "id": 82443,
+    "IDcode": "DASD-664",
+    "title": "不纯异种交游NTR-蓮実クレア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-664"
+  },
+  {
+    "id": 209502,
+    "IDcode": "DASD-690",
+    "title": "黒人ホームステイNTR-市川花音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-690"
+  },
+  {
+    "id": 105958,
+    "IDcode": "DASD-792",
+    "title": "给老公戴绿帽子-美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-792"
   },
   {
     "id": 98788,
@@ -361,8 +2312,8 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "2021-03-21",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241101-1/b683553eb34f22a6eb43822656eef079.jpg",
     "actress": [],
@@ -378,8 +2329,8 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250208-1/a66bf29ffe5dea16412d00035043a1ea.jpg",
     "actress": [],
@@ -400,8 +2351,8 @@ window.PAGE_DATA = [
       "姐姐",
       "中出"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9beeba03925ccb5bf5882957b56262ad.jpg",
     "actress": [
@@ -410,2708 +2361,68 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-884"
   },
   {
-    "id": 84214,
-    "IDcode": "DASS-007",
-    "title": "抗うことが出来ない巨根の快楽。終わらぬ子宮絶頂。膣凹NTR 逢見リカ",
+    "id": 212490,
+    "IDcode": "DASD-886",
+    "title": "小悪魔逆NTR-冬愛ことね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-886"
+  },
+  {
+    "id": 84178,
+    "IDcode": "DASD-960",
+    "title": "女朋友给我戴了绿帽子-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "淫妻",
+      "白天出轨",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-960"
+  },
+  {
+    "id": 81063,
+    "IDcode": "DASD-976",
+    "title": "黑人NTR-氷堂りりあ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "NTR",
       "巨大阴茎",
-      "淫妻",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "2022-05-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/e50207670366c69c64f6c2f486374a06.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-007"
-  },
-  {
-    "id": 84309,
-    "IDcode": "DASS-026",
-    "title": "インターンレ×プNTR ヤリチン企業に洗脳され性処理係に内定した彼女の一週間 川北メイサ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "多P",
-      "淫妻",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "2022-06-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/7ec3944acbd3c25cd90e1fd8278827db.jpg",
-    "actress": [
-      "鳳美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-026"
-  },
-  {
-    "id": 84272,
-    "IDcode": "DASS-078",
-    "title": "母親。胸部、讓我吸吧。乳頭NTR 汐川雲丹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "乱伦",
-      "白天出轨",
-      "淫妻",
-      "婆婆",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "2022-10-25",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/6b59f1b3e38d02f5b29ec3516dc4310a.jpg",
-    "actress": [
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-078"
-  },
-  {
-    "id": 88534,
-    "IDcode": "DASS-097",
-    "title": "合租房里的双洞NTR-乙アリス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "NTR",
-      "淫妻",
-      "白天出轨",
-      "肛交",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d7f1e43d6972716f0ee53/cover.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-097"
-  },
-  {
-    "id": 88544,
-    "IDcode": "DASS-141",
-    "title": "纤弱苗条的美少女被我老爸戴上了绿帽子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "戏剧",
-      "淫妻",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/68299da7ae3235deaa26ef3a/cover.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-141"
-  },
-  {
-    "id": 88591,
-    "IDcode": "DASS-156",
-    "title": "NTR搬家公司 年輕漂亮的老婆拋棄我 去找新的男人 末廣純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "淫妻",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/683306de35d00134fb897b13/cover.jpg",
-    "actress": [
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-156"
-  },
-  {
-    "id": 168470,
-    "IDcode": "DASS-159",
-    "title": "苗条辣妹女友被我的老爸NTR留种",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/68299fa3ae3235deaa26efeb/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-159"
-  },
-  {
-    "id": 91314,
-    "IDcode": "DASS-229",
-    "title": "派遣按摩師觸碰到私處 忍耐不住快感乾脆被NTR 佐野由真",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "NTR",
-      "乳液",
-      "白天出轨",
-      "淫妻",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/6705bdd0eb89196f85db9057b12798d2.jpg",
-    "actress": [
-      "佐野由真",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-229"
-  },
-  {
-    "id": 18391,
-    "IDcode": "DASS-234",
-    "title": "上門按摩師偷偷觸碰我的乳房和私處 無法忍受渴望中出 只能NTR男友了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "女學生",
-      "慾求不滿",
-      "淫妻",
-      "按摩・物理治療・美容",
-      "出軌",
-      "中出",
-      "巨乳",
-      "口交",
-      "劇情",
-      "抹油"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/4b338b8b4654693346107a3b5c52251f.jpg",
-    "actress": [
-      "佐藤しお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-234"
-  },
-  {
-    "id": 17641,
-    "IDcode": "DASS-258",
-    "title": "被派遣按摩師按摩到私密部位 受不了的快感直接被NTR 乃木絢愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "淫妻",
-      "按摩・物理治療・美容",
-      "出軌",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
-      "劇情",
-      "抹油"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/1ad730a1460c65d7e45e02d4f9177e48.jpg",
-    "actress": [
-      "乃木絢愛",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-258"
-  },
-  {
-    "id": 16839,
-    "IDcode": "DASS-303",
-    "title": "忍不住快感后的被NTR-美园和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "手指插入",
-      "苗條",
-      "淫妻",
-      "按摩・物理治療・美容",
-      "出軌",
-      "黑絲",
-      "中出",
-      "美乳",
-      "按摩棒",
-      "後入",
-      "巨乳",
-      "女上位",
-      "口交",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240110/20240109224636970970.jpg",
-    "actress": [
-      "美園和花",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-303"
-  },
-  {
-    "id": 14837,
-    "IDcode": "DASS-373",
-    "title": "因暴力深喉缺氧高潮而變成受虐狂的大屁股女友的奇聞趣事NTR 天馬唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "吞精",
-      "女友・妻子",
-      "口爆",
-      "苗條",
-      "美少女",
-      "美腳",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "少女",
-      "美臀",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "黑絲",
-      "女上位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "2024-05-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510050340540540.jpg",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-373"
-  },
-  {
-    "id": 11862,
-    "IDcode": "DASS-441",
-    "title": "NTR性癖的我-弓乃立梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
-      "感官作品",
-      "美少女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "NTR",
-      "內衣",
-      "淫妻",
-      "蠻橫嬌羞",
-      "出軌",
-      "中出",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/13186966e3bdb4c215388b8ee7579c8c.jpg",
-    "actress": [
-      "弓乃凜夢",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-441"
-  },
-  {
-    "id": 11461,
-    "IDcode": "DASS-497",
-    "title": "美丽爆乳的她被我老爸戴了绿帽子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "老頭子",
-      "巨尻",
-      "豐滿",
-      "其他職業",
-      "巨乳",
-      "兒媳",
-      "口交",
-      "熟女",
-      "NTR",
-      "公公",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "不倫",
-      "乳交",
-      "黑絲",
-      "劇情",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/6ed29dc268ade4fdbb12465fa72fecf0.jpg",
-    "actress": [
-      "瀬田一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-497"
-  },
-  {
-    "id": 10149,
-    "IDcode": "DASS-500",
-    "title": "被父亲戴上绿帽并受精-仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泳裝",
-      "女學生",
-      "老頭子",
-      "小隻馬",
-      "M男・M女",
-      "媚藥・迷藥",
-      "苗條",
-      "痴漢",
-      "凌辱",
-      "美少女",
-      "美腳",
-      "強姦",
-      "JK校服",
-      "羞恥",
-      "自宅",
-      "變態",
-      "口交",
-      "兒媳",
-      "形象俱樂部",
-      "NTR",
-      "公公",
-      "淫妻",
-      "中出",
-      "後入",
-      "劇情",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乱伦",
-      "迷姦",
-      "蘿莉控",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787ed265d57b64bfd10d90b/cover.jpg",
-    "actress": [
-      "倉本菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-500"
-  },
-  {
-    "id": 7383,
-    "IDcode": "DASS-610",
-    "title": "被上門按摩師摸到敏感私處，爽到扛不住直接被NTR了！~ 雙葉麗奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "早漏",
-      "巨乳",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "NTR",
-      "高顏值",
-      "極品美人",
-      "蠻橫嬌羞",
-      "淫妻",
-      "出軌",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "不倫",
-      "抹油",
-      "脚控・戀足癖",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "按摩・物理治療・美容",
-      "誘騙女性",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320113713155155.jpg",
-    "actress": [
-      "雙葉麗奈",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-610"
-  },
-  {
-    "id": 5491,
-    "IDcode": "DASS-654",
-    "title": "淫语直播NTR-美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "純粹的慾望",
-      "慾求不滿",
-      "網襪",
-      "綠茶婊",
-      "臀控",
-      "感官作品",
-      "淫語",
-      "美少女",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "大奶头",
-      "寢取",
-      "美乳",
-      "口交",
-      "芸能人",
-      "性感",
-      "巨乳",
-      "形象俱樂部",
-      "單體作品",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "淫妻",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "美臀",
-      "不倫",
-      "舔陰",
-      "脚控・戀足癖",
-      "女神",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "御姐系",
-      "黑絲",
-      "家庭主妇",
-      "女上位",
-      "丁字裤",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/202506050435464343_thumbnail.webp",
-    "actress": [
-      "美園和花",
-      "鲛岛",
-      "ティカル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-654"
-  },
-  {
-    "id": 4727,
-    "IDcode": "DASS-692",
-    "title": "被上门按摩师触碰到私处的时候忍不住舒爽让我被NTR-竹内由纪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "口爆",
-      "慾求不滿",
-      "三十路",
-      "苗條",
-      "辣妹/GAL系",
-      "美腳",
-      "羞恥",
-      "美乳",
-      "寢取",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "野性",
-      "極品美人",
-      "淫妻",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "誘騙女性",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "抹油",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "高妹",
-      "無毛",
-      "乳交",
-      "按摩・物理治療・美容",
-      "御姐系",
-      "肌肉",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703045257331331_thumbnail.webp",
-    "actress": [
-      "竹内有紀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-692"
-  },
-  {
-    "id": 465869,
-    "IDcode": "DAVK-029",
-    "title": "NTR小隻馬絕頂潮吹OO檔案",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1b4852c12b4e6846a104/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-029"
-  },
-  {
-    "id": 468701,
-    "IDcode": "DAVK-071",
-    "title": "與身高140公分迷你制服美少女野外露出衝擊NTR6P檔案",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20fb8db8c77d79bb6971d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-071"
-  },
-  {
-    "id": 556498,
-    "IDcode": "DBZC-002",
-    "title": "Climax NTR 残酷悲剧第1话 继续生活在我面前的悲伤妻子的身体 羽田希 - 羽月希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230514-1/405e9f905aebc941777a9402943d809e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBZC-002"
-  },
-  {
-    "id": 547922,
-    "IDcode": "DCX-154",
-    "title": "流出シロウトNTR【プライベート映像】【寝とってもらいました】旦那，彼氏の目の前で…他人棒でマジ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230929/JRfM5VTw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DCX-154"
-  },
-  {
-    "id": 408155,
-    "IDcode": "DDHC-012",
-    "title": "「現在開始讓我懷孕吧♪」獻給老公的狂氣NTR影片信件！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1534a5f13d063bcc27afc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHC-012"
-  },
-  {
-    "id": 546823,
-    "IDcode": "DDHZ-023",
-    "title": "仆の妻がアヘ颜で强制种付けされています！妻から届いた胸クソNTR动画",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240115/JBarPW1F/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-023"
-  },
-  {
-    "id": 12566,
-    "IDcode": "DDT-665",
-    "title": "同級生 親友之間的寢取，互換妻子 ~ 前乃菜々 塩見彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "奇聞趣事",
-      "多P",
-      "兩女一男",
-      "慾求不滿",
-      "兩男兩女",
-      "感官作品",
-      "雙飛",
-      "美乳",
-      "變態",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "人妻",
-      "NTR",
-      "夫妻交換",
-      "淫亂",
-      "淫妻",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "奇異的",
-      "絕頂高潮",
-      "不倫",
-      "美少女電影",
-      "同學",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "2024-08-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240818/c80d1a6e-7168-4e31-a464-e25412be0152.jpg",
-    "actress": [
-      "前乃菜菜",
-      "塩見彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDT-665"
-  },
-  {
-    "id": 3975,
-    "IDcode": "DEAB-002",
-    "title": "SNSに投稿された無精子症の夫の叫び。喜びと嫉妬が入り乱れNTRの世界へ没入していき…爆乳本物妻 河埜恵美子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "口爆",
-      "三十路",
-      "真實拍攝",
-      "豐滿",
-      "素人作品",
-      "美腳",
-      "羞恥",
-      "真人秀",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "正統派",
-      "貴婦",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "高顏值",
-      "美人妻",
-      "極品美人",
-      "短髮",
-      "超爆乳",
-      "淫妻",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "後入",
-      "美臀",
-      "紀念作",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "素人",
-      "乳交",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101430272272_71848_thumbnail.webp",
-    "actress": [
-      "河埜恵美子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DEAB-002"
-  },
-  {
-    "id": 81456,
-    "IDcode": "DFE-042",
-    "title": "丈夫出差回家前三个小时限时NTR边做边拍性淫拘束道具潮吹男潮吹COS轮奸子宫都装不下精液",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "WAAP GROUP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d877b0ba9a2607e32f947beae177a8a0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-042"
-  },
-  {
-    "id": 541395,
-    "IDcode": "DHT-0882",
-    "title": "“あなた见ないで！！”他人棒でイキまくった生性交狂いのNTR美人妻 vol.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "淫妻",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231121/MjYjJtwB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0882"
-  },
-  {
-    "id": 541396,
-    "IDcode": "DHT-0883",
-    "title": "“あなた见ないで！！”他人棒でイキまくった生性交狂いのNTR美人妻 vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "淫妻",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231121/i041w3zf/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0883"
-  },
-  {
-    "id": 79674,
-    "IDcode": "DLDSS-024",
-    "title": "セレブ妻没落NTR馬鹿にしていたコンビニバイトを始めた元金持ち人妻がキモい店長に2時間ハメ倒されイキ倒した記録 七海ティナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "戏剧",
-      "已婚妇女",
-      "白天出轨",
-      "淫妻",
-      "无码破解",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "2021-08-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/cfe85cc366526b39f61a668384feda8c.jpg",
-    "actress": [
-      "七海蒂娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-024"
-  },
-  {
-    "id": 556293,
-    "IDcode": "DLDSS-145",
-    "title": "混浴温泉NTR 结婚前让闺蜜怀孕……穗高由香 - 穗高结花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ba3d6f8152083ff49e645f56d9591fca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-145"
-  },
-  {
-    "id": 15961,
-    "IDcode": "DLDSS-219",
-    "title": "打工返家住同房NTR 与听着老公不是的后辈直到消除性欲的绝伦性交 入田真绫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣飯店",
-      "苗條",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "內衣",
-      "淫妻",
-      "出軌",
-      "健身教練",
-      "中出",
-      "蕩婦",
-      "後入",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240226/20240226104652396396.jpg",
-    "actress": [
-      "入田真綾",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-219"
-  },
-  {
-    "id": 18973,
-    "IDcode": "DLDSS-222",
-    "title": "混浴温泉NTR 让即将结婚的女友朋友怀孕… 水川润",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻",
-      "溫泉",
-      "中出",
-      "女友閨蜜"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/03/686598993ed39b57c06aaf0e/cover.jpg",
-    "actress": [
-      "水川潤"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-222"
-  },
-  {
-    "id": 16723,
-    "IDcode": "DLDSS-261",
-    "title": "社员旅行NTR-入田真绫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "比基尼",
-      "NTR",
-      "酒醉",
-      "海灘",
-      "淫妻",
-      "泳池",
-      "中出",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/21/6855a67043d6972716f721de/cover.jpg",
-    "actress": [
-      "入田真綾",
-      "大村",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-261"
-  },
-  {
-    "id": 16113,
-    "IDcode": "DLDSS-269",
-    "title": "町內淫穢NTR I被別有用心暴露的淫穢老人變成肉便器的女人 青山愛奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "形象俱樂部",
-      "3P・4P",
-      "人妻",
-      "NTR",
-      "和服・浴衣・喪服",
-      "多P",
-      "美腳",
-      "淫亂",
-      "淫妻",
-      "出軌",
-      "美乳",
-      "中出",
-      "蕩婦",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "2024-03-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225053722708708.jpg",
-    "actress": [
-      "蒼山愛奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-269"
-  },
-  {
-    "id": 14383,
-    "IDcode": "DLDSS-302",
-    "title": "在背信弃义的公司内NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "辦公室",
-      "加班",
-      "美腳",
-      "OL",
-      "美乳",
-      "制服",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "淫妻",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "黑絲",
-      "劇情"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528194916746746.jpg",
-    "actress": [
-      "蒼山愛奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-302"
-  },
-  {
-    "id": 14547,
-    "IDcode": "DLDSS-304",
-    "title": "淫穢內衣模特NTR 妻子柊理音被攝影師要求擺出色情的姿勢，尷尬又興奮 ~ 柊木裏音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "人妻",
-      "寫真女郎",
-      "NTR",
-      "高顏值",
-      "明星臉",
-      "私房攝影",
-      "蠻橫嬌羞",
-      "淫妻",
-      "猥褻穿著",
-      "中出",
-      "美腿",
-      "模特兒",
-      "美臀",
-      "劇情",
-      "舔陰",
-      "美少女電影",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "2024-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522022418848848.jpg",
-    "actress": [
-      "広瀬美結"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-304"
-  },
-  {
-    "id": 13293,
-    "IDcode": "DLDSS-308",
-    "title": "妄想支配NTR 清楚系妻被宅男鄰居誘導迷茫，變成徹頭徹尾的性寵 ~ 林由奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "催眠",
-      "鄰居",
-      "在丈夫面前被操",
-      "美腳",
-      "變態",
-      "口交",
-      "性感",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "深喉",
-      "淫亂",
-      "淫妻",
-      "中出",
-      "蕩婦",
-      "劇情",
-      "顏射",
-      "奇異的",
-      "絕頂高潮",
-      "舔陰",
-      "迷姦",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "宅男・宅女"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d218a2e4a73d4f159bc6b5/cover.jpg",
-    "actress": [
-      "林由奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-308"
-  },
-  {
-    "id": 12522,
-    "IDcode": "DLDSS-328",
-    "title": "我的愛妻不知不覺被我的兩個兒子肉串NTR了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "美腳",
-      "繼母",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "淫妻",
-      "猥褻穿著",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "不倫",
-      "脚控・戀足癖",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822052230711711.jpg",
-    "actress": [
-      "広瀬美結"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-328"
-  },
-  {
-    "id": 12321,
-    "IDcode": "DLDSS-331",
-    "title": "混浴温泉NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "溫泉",
-      "旅行",
-      "苗條",
-      "辣妹/GAL系",
-      "和服・浴衣・喪服",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "女友閨蜜",
-      "形象俱樂部",
-      "NTR",
-      "短髮",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240831/20240831063705132132.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-331"
-  },
-  {
-    "id": 12746,
-    "IDcode": "DLDSS-340",
-    "title": "混浴溫泉NTR 婚前我讓女朋友最好的朋友懷孕了… ~ 林由奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "溫泉",
-      "旅行",
-      "苗條",
-      "感官作品",
-      "和服・浴衣・喪服",
-      "美腳",
-      "色白",
-      "美乳",
-      "口交",
-      "女友閨蜜",
-      "形象俱樂部",
-      "NTR",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "2024-08-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240811/20240811213520770770.jpg",
-    "actress": [
-      "林由奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-340"
-  },
-  {
-    "id": 11603,
-    "IDcode": "DLDSS-346",
-    "title": "搬家女工NTR-奶葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "吞精",
-      "巨尻",
-      "倉庫",
-      "其他職業",
-      "凌辱",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "變態",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "深喉",
-      "美人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "顏射",
-      "美臀",
-      "不倫",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "脅迫做愛",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240930/29273d53-2bd0-45ca-b6ec-b2c49e1bd593.jpg",
-    "actress": [
-      "小野夕子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-346"
-  },
-  {
-    "id": 10053,
-    "IDcode": "DLDSS-372",
-    "title": "夫の親友の濃厚ベロキスに理性を忘れ求め合う不倫性交 接吻NTR 朝海汐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "若妻",
-      "純粹的慾望",
-      "朋友女友・妻子",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "人妻",
-      "美人妻",
-      "NTR",
-      "內衣",
-      "淫妻",
-      "中出",
-      "後入",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241208/20241208234352691691.jpg",
-    "actress": [
-      "朝海汐"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-372"
-  },
-  {
-    "id": 9189,
-    "IDcode": "DLDSS-383",
-    "title": "婚礼NTR-入田真绫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女友・妻子",
-      "巨尻",
-      "若妻",
-      "飯店",
-      "苗條",
-      "婚紗",
-      "美腳",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "新娘",
-      "淫亂",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/28/67c161074e7d663df4b7386e/cover.jpg",
-    "actress": [
-      "入田真綾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-383"
-  },
-  {
-    "id": 9504,
-    "IDcode": "DLDSS-389",
-    "title": "好友被妻子反向NTR中出-美乃雀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "色誘",
-      "口爆",
-      "慾求不滿",
-      "飯店",
-      "苗條",
-      "辣妹/GAL系",
-      "感官作品",
-      "美腳",
-      "癡女",
-      "胸控・戀乳癖",
-      "美乳",
-      "泳池",
-      "巨乳",
-      "口交",
-      "性感",
-      "女友閨蜜",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "比基尼",
-      "NTR",
-      "短髮",
-      "明星臉",
-      "淫亂",
-      "內衣",
-      "淫妻",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "不倫",
-      "抹油",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "高妹",
-      "舔腳",
-      "乳交",
-      "偷竊",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241230/20241230204636670670.jpg",
-    "actress": [
-      "美乃雀",
-      "ナイアガラ翔"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-389"
-  },
-  {
-    "id": 6086,
-    "IDcode": "DLDSS-407",
-    "title": "巨乳人妻入田真綾在夏祭狂欢会上被尽情NTR中出-入田真綾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "3P・4P",
-      "奇聞趣事",
-      "小隻馬",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "網襪",
-      "辣妹/GAL系",
-      "流汗",
-      "癡女",
-      "色白",
-      "胸控・戀乳癖",
-      "美乳",
-      "按摩棒",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "比基尼",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "淫妻",
-      "COSPLAY服飾",
-      "猥褻穿著",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "後入",
-      "劇情",
-      "抹油",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "跳舞",
-      "乳交",
-      "金髮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517010845407407_thumbnail.webp",
-    "actress": [
-      "入田真綾",
-      "タクト"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-407"
-  },
-  {
-    "id": 3951,
-    "IDcode": "DLDSS-419",
-    "title": "巨乳老婆交换温泉打发无聊时间-美乃すずめ 角奈保",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "3P・4P",
-      "女友・妻子",
-      "巨尻",
-      "多P",
-      "若妻",
-      "口爆",
-      "慾求不滿",
-      "溫泉",
-      "旅行",
-      "兩男兩女",
-      "苗條",
-      "辣妹/GAL系",
-      "臀控",
-      "和服・浴衣・喪服",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "大奶头",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "短髮",
-      "高顏值",
-      "明星臉",
-      "夫妻交換",
-      "淫亂",
-      "極品美人",
-      "蠻橫嬌羞",
-      "淫妻",
-      "超爆乳",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "不倫",
-      "舔陰",
-      "脚控・戀足癖",
-      "手指插入",
-      "高妹",
-      "顔面騎乘",
-      "舔腳",
-      "乳交",
-      "無毛",
-      "69",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032026303303_50554_thumbnail.webp",
-    "actress": [
-      "美乃雀",
-      "仁藤沙耶香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-419"
-  },
-  {
-    "id": 4084,
-    "IDcode": "DLDSS-421",
-    "title": "【喪服キメセクNTR】亡くなった旦那の親友と葬式前夜に不謹慎なSEXでチ。 小沢菜穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "小隻馬",
-      "多P",
-      "未亡人・寡婦",
-      "M男・M女",
-      "美人妻",
-      "慾求不滿",
-      "三十路",
-      "網襪",
-      "苗條",
-      "阪道系",
-      "和服・浴衣・喪服",
-      "美腳",
-      "羞恥",
-      "色白",
-      "自宅",
-      "大奶头",
-      "美乳",
-      "按摩棒",
-      "清楚系",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "正統派",
-      "貴婦",
-      "兩男一女",
-      "NTR",
-      "人妻",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "極品美人",
-      "淫妻",
-      "猥褻穿著",
-      "中出",
-      "喪夫",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "御姐系",
-      "黑絲",
-      "家庭主妇",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/202507262309017272_35043_thumbnail.webp",
-    "actress": [
-      "小沢菜穂",
-      "ラヴズ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-421"
-  },
-  {
-    "id": 87419,
-    "IDcode": "DLPN-022",
-    "title": "「おち○ぽ様にご奉仕させてください。」 旦那以外の他人棒を慈しむ色白美乳輪の地味巨乳マゾ妻 知佳さん（32） 素人/人妻/鬱勃起/NTR/Gカップ/デカチン/イラマチオ/顔射/ハメ撮り/4P/玩具責め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "已婚妇女",
-      "多P",
-      "素人",
-      "白天出轨",
-      "淫妻",
-      "业余",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2022-09-06",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/1c479a2e530dadf3b0c342ce0f66a149.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-022"
-  },
-  {
-    "id": 408212,
-    "IDcode": "DOCD-045",
-    "title": "在老公身旁偷拍！ ！已婚婦女NTR按摩院",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa42699550e292a7861510/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-045"
-  },
-  {
-    "id": 4626,
-    "IDcode": "DOCD-064",
-    "title": "彼氏の真横で盗撮！！恋人NTRエステ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "巨尻",
-      "二次元",
-      "真實拍攝",
-      "苗條",
-      "偷拍・盜撮",
-      "阪道系",
-      "4K",
-      "美少女",
-      "羞恥",
-      "大奶头",
-      "寢取",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "按摩・美容店",
-      "高顏值",
-      "貧乳",
-      "極品美人",
-      "淫妻",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "美臀",
-      "抹油",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "無毛",
-      "按摩・物理治療・美容",
-      "誘騙女性",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707041049377377_43357_thumbnail.webp",
-    "actress": [
-      "末広純",
-      "希咲那奈",
-      "真白風羽里",
-      "星宮桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-064"
-  },
-  {
-    "id": 566486,
-    "IDcode": "DOCP-376",
-    "title": "流出シロウトNTR【プライベート映像】【寝とってもらいました】 ＃02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/74e7650ec6e1eb0e4678cb79d7d5c310.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-376"
-  },
-  {
-    "id": 564881,
-    "IDcode": "DOCP-377",
-    "title": "‘流出シロウトNTR【プライベート映像】【寝とってもらいました】＃03’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221209/7XbgndI9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-377"
-  },
-  {
-    "id": 548982,
-    "IDcode": "DOCP-392",
-    "title": "‘流出シロウトNTR【プライベート映像】【寝とってもらいました】#07’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230624/NeXpsKLI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-392"
-  },
-  {
-    "id": 564022,
-    "IDcode": "DOCP-395",
-    "title": "‘流出シロウトNTR【プライベート映像】【寝とってもらいました】#08’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230714/nDFPequl/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-395"
-  },
-  {
-    "id": 547728,
-    "IDcode": "DOCP-404",
-    "title": "‘流出シロウトNTR【プライベート映像】【寝とってもらいました】#09’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231013/KNMALR4y/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-404"
-  },
-  {
-    "id": 595034,
-    "IDcode": "DOMD-001",
-    "title": "离过一次婚并且缺乏女人的我NTR的机会到来～没什么邂逅的人妻用眼前的老二安慰郁闷小穴 用着外遇肉棒高潮不断，真的只是想做爱的好色人妻。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191121-1/5c301291c65ff290c3cb1ec0073037d9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOMD-001"
-  },
-  {
-    "id": 534893,
-    "IDcode": "DRECUT-009",
-    "title": "【期间限定贩売】NETRALEX “目の前で寝取られる背徳のセックス”胸クソ&完堕ち！淫らなNTRの一部始",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231111/pb_e_drecut-009.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRECUT-009"
-  },
-  {
-    "id": 84382,
-    "IDcode": "DRPT-021",
-    "title": "彼氏が他の女とSEXするのが見たい普通の変態女子のお宅に乙アリスが突撃逆NTR！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "荡妇",
-      "巨大屁股",
-      "淫妻",
-      "白天出轨",
-      "纪录片",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "2022-07-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/3b8d48da8bdf2e3356b2091d59eef818.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-021"
-  },
-  {
-    "id": 566473,
-    "IDcode": "DTSG-005",
-    "title": "小心者の仆が勇気を振り绞って、泥酔痴女に悪戏 睡奸・NTR・近亲相奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200518-1/e7f7673d9140164c4a3399f36a58643f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTSG-005"
-  },
-  {
-    "id": 556967,
-    "IDcode": "DVAJ-249",
-    "title": "【NTR悲伤勃起】平生第1次和她过上了幸福的生活，但自从遇到了她的熟人DQN前辈……有个故事，我最喜欢的女朋友在我面前被取下，Yariman肉小便池掉了下来。川上七海 - 川上奈奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/657b6b25ce2afb81dfe925a491712bcf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-249"
-  },
-  {
-    "id": 155581,
-    "IDcode": "DVDES-825",
-    "title": "巨乳阿姨和处女外甥戴绿帽子同居孕期老婆一直被老公当鱿鱼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240918-1/934c40a58843f8d6419754463c2a145a.jpg",
-    "actress": [
-      "篠田步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-825"
-  },
-  {
-    "id": 589504,
-    "IDcode": "DVDMS-414",
-    "title": "【朋友志宝戴绿帽子】心爱的女朋友离我而去，大学里10个男性朋友阴道射精多次",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/24364_cover_2025-07-06_024217.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-414"
-  },
-  {
-    "id": 515704,
-    "IDcode": "DVDMS-426",
-    "title": "【NTR】被附近的男学生们反复内射的巨乳人妻【究竟会是谁的孩子？ 】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250212-1/27da548bb1b80bcdeeb395bebbbf853e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-426"
-  },
-  {
-    "id": 595012,
-    "IDcode": "DVDMS-439",
-    "title": "露脸魔镜号～限定夫妻！不知道是魔镜号的只有老公！自豪的妻子在世界第1近距离下被NTR中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200215-1/2721887ec534606f39197fe303eef9de.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-439"
-  },
-  {
-    "id": 81695,
-    "IDcode": "DVDMS-511",
-    "title": "NTR催●中出し 地元の先輩のギャル彼女を洗脳して彼氏より先に生ハメSEXしたら自ら腰を振って妊娠するほど僕の精子を何度も欲しがった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "白天出轨",
-      "淫妻",
-      "业余",
-      "中出",
-      "女生",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/848d121825e86787397dd032f176a5e1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-511"
-  },
-  {
-    "id": 566445,
-    "IDcode": "DVDMS-825",
-    "title": "一般男女观察AV～实现老公NTR愿望后的后续追踪SP。沉溺不伦泥沼的清秀人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3495039c4f7a22099a87193fda1b7b59.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-825"
-  },
-  {
-    "id": 12883,
-    "IDcode": "DVEH-034",
-    "title": "精子採集工作！熱愛NTR、愛好是讓病人射出珍貴精子的護士2 ~ 天月梓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "醫院・診所",
-      "慾求不滿",
-      "護士制服",
-      "護士",
-      "眼鏡",
-      "過膝襪・小腿襪",
-      "亂交 • 群P",
-      "口交",
-      "兩男一女",
-      "NTR",
-      "淫亂",
-      "淫妻",
-      "猥褻穿著",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "黑絲",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DEEP'S",
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240807/bfbd826c-b93b-4bdb-a47a-ed01b2584d26.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-034"
-  },
-  {
-    "id": 107131,
-    "IDcode": "DVMM-003",
-    "title": "黑人换位NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "已婚妇女",
       "白天出轨",
       "淫妻",
       "黑人演员",
       "中出",
-      "企画"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/db1e7a5a415c6b97925ac65c3161e5bc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-003"
-  },
-  {
-    "id": 548290,
-    "IDcode": "DVMM-012",
-    "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 素人大学生カップル路上NTR！自慢の彼女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230903/tOPl0iTE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-012"
-  },
-  {
-    "id": 547381,
-    "IDcode": "DVMM-035",
-    "title": "颜出しMM号 真夏のビキニギャル限定 ザ·マジックミラー Wデート中の仲良しカップル交换企画！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231119/VZiQOgez/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-035"
-  },
-  {
-    "id": 544784,
-    "IDcode": "DVMM-137",
-    "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 パパは谁だ！？ 爱する夫の目の前で路上N",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240926/79HNoakR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-137"
-  },
-  {
-    "id": 9897,
-    "IDcode": "DVMM-179",
-    "title": "負ければ同時即ハメ！青空NTR中出し野球拳！彼氏たちの目の前で同時に寝取って生中出し！仲良し女子大生4P乱交スペシャル！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "巨尻",
-      "多P",
-      "女友・妻子",
-      "真實拍攝",
-      "美少女",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "真人秀",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "業餘",
-      "潮吹",
-      "NTR",
-      "淫亂",
-      "蠻橫嬌羞",
-      "淫妻",
-      "中出",
-      "後入",
-      "美腿",
-      "企畫",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "乳交",
-      "綜藝",
-      "女上位",
-      "乱交",
-      "騎乗位",
-      "公共場所"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241213/27cf7cb1-0d1d-4d1c-89c5-9356000ae44b.jpg",
-    "actress": [
-      "松井日奈子",
-      "五十嵐清華",
-      "菜月光",
-      "虹色久美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-179"
-  },
-  {
-    "id": 68874,
-    "IDcode": "DVMM-227",
-    "title": "顔出しMM号 ザ・マジックミラー 大学生カップル限定NTR企画 巨乳女子大生2人組が初めての青空ぬるぬる二輪車ソープ体験！彼氏たちの目の前なのに逆3Pハーレム密着マットプレイ！Wオマ○コに生中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "女大学生",
-      "4小时以上作品",
-      "白天出轨",
-      "淫妻",
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/38e4b885d31c0771a16fe2e493b7102d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-227"
-  },
-  {
-    "id": 3046,
-    "IDcode": "DVMM-287",
-    "title": "潮吹き調教NTR 死ぬほど大嫌いな男友達とまさかの雨宿り…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "小隻馬",
-      "M男・M女",
-      "純粹的慾望",
-      "網路紅人",
-      "美少女",
-      "強姦",
-      "JK校服",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "寢取",
-      "變態",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "正統派",
-      "單體作品",
-      "NTR",
-      "高顏值",
-      "極品美人",
-      "內衣",
-      "淫妻",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "少女",
-      "劇情",
-      "美臀",
-      "絕頂高潮",
-      "不倫",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "調教",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/03/453a7fce26f64338123ade4c0dc4585e.jpg",
-    "actress": [
-      "水乃菜乃華",
-      "いち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-287"
-  },
-  {
-    "id": 174886,
-    "IDcode": "DVMM-305",
-    "title": "本物夫婦のガチAV出演ドキュメント vol.1 NTR願望のある旦那の願いに応えてAVデビューお人好しすぎる素人妻 咲さん（26歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/f1e3019947d924842d1b63dfcbad1f28.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-305"
-  },
-  {
-    "id": 91446,
-    "IDcode": "EBOD-766",
-    "title": "ハネムーン逆NTR エロい身体のマッサージ嬢に新妻にバレるスレスレで何度も中出しさせられた新婚旅行先ホテルの初夜 若宮はずき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "苗条",
-      "NTR",
-      "白天出轨",
-      "淫妻",
-      "中出",
-      "美少女电影",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "",
-    "company": "E-BODY",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/28/685f13df43d6972716523c70/cover.jpg",
-    "actress": [
-      "若宫はずき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-766"
-  },
-  {
-    "id": 91454,
-    "IDcode": "EBOD-775",
-    "title": "末班车後强迫住同房NTR丑陋中年校骚扰店长对巨乳打工妹持续中出的屈辱高潮之夜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "NTR",
-      "淫妻",
-      "白天出轨",
-      "乳交",
-      "中文字幕",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "E-BODY",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/9c615a87f3d6bd504c89d52aa1bf7b45.jpg",
-    "actress": [
-      "飛鳥里伊奈",
-      "飞鸟りいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-775"
-  },
-  {
-    "id": 91461,
-    "IDcode": "EBOD-779",
-    "title": "深夜コンビニNTR 彼氏に不満もつ女子大生バイトと欲情した中年ブタ店長が2人きり… 美脚プロポーション美女をまさかの小太りオヤジが寝取った脅威の凄チ●ポ6連射精性交 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "NTR",
-      "恋腿癖",
-      "淫妻",
-      "白天出轨",
-      "中出"
-    ],
-    "type": "",
-    "company": "E-BODY",
-    "publish_date": "2020-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240506-1/6e8b9c239794d21054fbab850eafa7fb.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-779"
-  },
-  {
-    "id": 91457,
-    "IDcode": "EBOD-783",
-    "title": "相部屋逆NTR酔ってビッチ化した極むちJカップ女上司に朝まで中出しサービス残業を強要された出張先の夜。 夕季ちとせ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "NTR",
-      "胖女人",
-      "淫妻",
-      "白天出轨",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "E-BODY",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/14/684cf78c3ed39b57c059a087/cover.jpg",
-    "actress": [
-      "七草千歲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-783"
-  },
-  {
-    "id": 91492,
-    "IDcode": "EBOD-816",
-    "title": "逆NTR！ 逆レ●プ！ 彼女のバイト先の淫乱スリム巨乳3人組から【乳首・アナル・亀頭】ギャルハーレム3点責めで犯●れた僕。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "NTR",
-      "荡妇",
-      "白天出轨",
-      "淫妻",
-      "巨乳",
-      "女生"
-    ],
-    "type": "",
-    "company": "E-BODY",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/256287c4f49c7c33b26abae90476a996.jpg",
-    "actress": [
-      "AIKA",
-      "七海雛",
-      "黑川纱里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-816"
-  },
-  {
-    "id": 471396,
-    "IDcode": "EBWH-012",
-    "title": "富豪NTR 我的火辣空姐妻子與財力權力完全無法比的經營者遊玩只能沉默等待… 武田怜香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "E-BODY",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa1f3ac813dc779d96375/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-012"
-  },
-  {
-    "id": 106957,
-    "IDcode": "EBWH-019",
-    "title": "艺能人NTR-AIKARIN",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "偶像",
-      "淫妻",
-      "白天出轨",
-      "巨乳",
-      "女上位",
       "女生",
       "单体作品"
     ],
-    "type": "",
-    "company": "E-BODY",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/68358540d6dba345751165b5/cover.jpg",
-    "actress": [
-      "あいかりん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-019"
-  },
-  {
-    "id": 18308,
-    "IDcode": "EBWH-024",
-    "title": "校内逆NTR-天月杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "女學生",
-      "淫語",
-      "JK校服",
-      "淫妻",
-      "出軌",
-      "中出",
-      "制服",
-      "蕩婦",
-      "巨乳",
-      "劇情",
-      "學校"
-    ],
-    "type": "",
-    "company": "E-BODY",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231016/a84ec934-97a8-4915-be03-9057e60a9ece.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-024"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-976"
   }
 ];

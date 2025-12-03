@@ -1,1691 +1,1750 @@
 window.PAGE_DATA = [
   {
-    "id": 82876,
-    "IDcode": "PPPD-780",
-    "title": "彼氏に30日間禁欲-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "白天出轨",
-      "淫乱，真实",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/12/02/QQ2019120215315884392.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-780"
-  },
-  {
-    "id": 82873,
-    "IDcode": "PPPD-781",
-    "title": "中出し後の精子とマン汁まみれのチ○ポをパイズ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "乳交",
-      "女上位",
-      "中出",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/m22qnr02lzr.jpg",
-    "actress": [
-      "田中瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-781"
-  },
-  {
-    "id": 82871,
-    "IDcode": "PPPD-783",
-    "title": "男を勃起させる卑猥なBODY デカ乳敏感デリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "已婚妇女",
-      "中文字幕",
-      "中出",
-      "礼仪小姐",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/kut15dfloo4.jpg",
-    "actress": [
-      "松本菜奈実",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-783"
-  },
-  {
-    "id": 82877,
-    "IDcode": "PPPD-785",
-    "title": "我的女朋友在家庭度假时-一ノ瀬菫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "巨乳",
-      "自慰",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/16/f38c92d596b034583c57020e761b24fe.jpg",
-    "actress": [
-      "一ノ瀬菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-785"
-  },
-  {
-    "id": 76812,
-    "IDcode": "PPPD-786",
-    "title": "女朋友的巨乳姐姐诱惑我出轨内射她",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "姐姐",
-      "妹妹",
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250710-2/86b647114956c1709295272689e9b16b.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-786"
-  },
-  {
-    "id": 165514,
-    "IDcode": "PPPD-787",
-    "title": "巨乳风俗娘Julia放肆进攻双乳紧贴内射做爱服务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250703-1/dedb03bd2d9356937288bb84caffc48c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-787"
-  },
-  {
-    "id": 76870,
-    "IDcode": "PPPD-788",
-    "title": "召喚したサキュバスが巨乳の姉に憑依してか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "中出",
-      "淫乱，真实",
-      "乱伦",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/r3q0p1knhlx.jpg",
-    "actress": [
-      "田中瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-788"
-  },
-  {
-    "id": 165504,
-    "IDcode": "PPPD-790",
-    "title": "Gcup高级ランジェリー贩売员の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/whqisgsgktn.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-790"
-  },
-  {
-    "id": 77262,
-    "IDcode": "PPPD-791",
-    "title": "肉便器-一ノ瀬菫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "中出",
-      "凌辱",
-      "巨乳",
-      "正太控"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/22/629eaad18ebab053d3c14c72644638bd.jpg",
-    "actress": [
-      "一ノ瀬菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-791"
-  },
-  {
-    "id": 77023,
-    "IDcode": "PPPD-792",
-    "title": "新婚夫婦の夫から子種を搾り尽くす温泉旅館の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "老板娘，女主人",
-      "中出",
-      "白天出轨",
-      "巨乳",
-      "和服，丧服"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/lvrdyqwp02j.jpg",
-    "actress": [
-      "赤瀬尚子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-792"
-  },
-  {
-    "id": 165502,
-    "IDcode": "PPPD-793",
-    "title": "すすきので予約1年待ちだった伝説の巨乳ソープ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/kogmpitmtb1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-793"
-  },
-  {
-    "id": 165503,
-    "IDcode": "PPPD-794",
-    "title": "昼下がりの巨乳団地妻を旦那の留守中に",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/a04u1elzjax.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-794"
-  },
-  {
-    "id": 76881,
-    "IDcode": "PPPD-795",
-    "title": "带巨乳老婆Julia去按摩店按摩看着她躺在旁边被男技师插入内射的我却兴奋了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "精选，综合",
-      "中出",
-      "白天出轨",
-      "按摩",
-      "巨乳",
-      "手淫"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250718-1/9a81c101455e889b5a0708f4d58bfda8.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-795"
-  },
-  {
-    "id": 165500,
-    "IDcode": "PPPD-796",
-    "title": "超乳圧殺で悶絶！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/qwpsauvqs2q.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-796"
-  },
-  {
-    "id": 77024,
-    "IDcode": "PPPD-798",
-    "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 晶エリー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "素人作品",
-      "中出",
-      "精选，综合",
-      "白天出轨",
-      "姐姐",
-      "妹妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/l1oaxtqbzlc.jpg",
-    "actress": [
-      "新井爱丽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-798"
-  },
-  {
-    "id": 165306,
-    "IDcode": "PPPD-800",
-    "title": "彼女が家族旅行で一週間留守にしたので",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/5n4kbwu11wa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-800"
-  },
-  {
-    "id": 76858,
-    "IDcode": "PPPD-802",
-    "title": "女朋友的巨乳闺蜜诱惑我无套插入内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "中出",
-      "白天出轨",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/a4aee3f7bf17f15d9cd882837f30f58d.jpg",
-    "actress": [
-      "目黑惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-802"
-  },
-  {
-    "id": 78273,
-    "IDcode": "PPPD-803",
-    "title": "父母出去旅游拜托隔壁的傲娇巨乳姐姐Julia照顾我就这样处男的我开始了一周的同居内射生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "蛮横娇羞",
-      "姐姐",
-      "恋爱",
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250806-1/7126fe04d4a1841903ea4b622a682a2a.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-803"
-  },
-  {
-    "id": 77440,
-    "IDcode": "PPPD-804",
-    "title": "误闯巨乳前辈的房间拿她的内衣自慰被抓住只好和她内射做爱了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "运动",
-      "中出",
-      "流汗",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/e3d67db7b4a14a6f6c107fb69738c812.jpg",
-    "actress": [
-      "桐谷茉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-804"
-  },
-  {
-    "id": 82702,
-    "IDcode": "PPPD-805",
-    "title": "哥哥不在的6天内爆乳嫂子勾引我内射后还用那对西瓜大奶给我乳交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "中出",
-      "淫语",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/1b7e3f9683181500a5142e3a871b9891.jpg",
-    "actress": [
-      "田中瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-805"
-  },
-  {
-    "id": 78267,
-    "IDcode": "PPPD-807",
-    "title": "女朋友的巨乳姐姐深田咏美勾引我内射做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "妹妹",
-      "乱伦",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250806-1/d91159a7e79226f8440bf4e6ab51c383.jpg",
-    "actress": [
-      "深田詠美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-807"
-  },
-  {
-    "id": 78276,
-    "IDcode": "PPPD-808",
-    "title": "美白柔らか超敏感-高岡美鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "女大学生",
-      "中出",
-      "按摩",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/12/08/QQ20191209094406d3d20.jpg",
-    "actress": [
-      "原花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-808"
-  },
-  {
-    "id": 78247,
-    "IDcode": "PPPD-809",
-    "title": "おっぱいをフル活用して学力と射精を管理する",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "乳交",
-      "家教",
-      "巨乳",
-      "手淫",
-      "主观视角"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/jpn13cupzva.jpg",
-    "actress": [
-      "田中瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-809"
-  },
-  {
-    "id": 78191,
-    "IDcode": "PPPD-809CN",
-    "title": "PPPD809CN 完全活用胸部管理學力與射精的巨乳乳技家庭教師 Hitomi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241118-1/47adeef8444928050ffe57c39da83e1d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-809CN"
-  },
-  {
-    "id": 77980,
-    "IDcode": "PPPD-810",
-    "title": "每晚都偷偷潜入被窝插入欲求不满的巨乳嫂子Julia内射到溢出子宫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "人妻",
-      "乳交",
-      "中出",
-      "流汗",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/097145f6d4de13c7f9f9ca03519969cf.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-810"
-  },
-  {
-    "id": 78870,
-    "IDcode": "PPPD-811",
-    "title": "因为老妈把胸罩洗了害巨乳高中妹只能校服内真空去学校被干到高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "制服",
-      "滥交",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/2faee517/vod.jpg",
-    "actress": [
-      "桐谷茉莉",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-811"
-  },
-  {
-    "id": 169447,
-    "IDcode": "PPPD-811-CN",
-    "title": "濕濡通透不戴胸罩I罩杯制服少女完全着衣發情高潮性交",
+    "id": 523046,
+    "IDcode": "DMBI-035-CD2",
+    "title": "波多野结衣- ボンデージの虏 SPECIAL ペニバンQUEENのアナルFUCKコレクション 4时间-上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240915-1/0e5f071b3c40bcb0fd46027690678211.jpg",
-    "actress": [
-      "桐谷茉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-811-CN"
+    "cover_url": "https://sex8sex8sex8.com/20250418/KTAPWDo5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMBI-035-CD2"
   },
   {
-    "id": 95027,
-    "IDcode": "PPPD-812",
-    "title": "巨乳女教師の誘惑-吉根ゆりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "女教师",
-      "恋乳癖",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/07/01/1751021881dcfe12cc8f6b54fccb23cb.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "咲々原リン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-812"
-  },
-  {
-    "id": 78190,
-    "IDcode": "PPPD-813",
-    "title": "奏音花音首次开发乳腺敏感带达到极致高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "乳交",
-      "中出",
-      "乳房",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/214c790a5b21c899b4025f62d4012b6f.jpg",
-    "actress": [
-      "奏音花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-813"
-  },
-  {
-    "id": 169444,
-    "IDcode": "PPPD-813-CN",
-    "title": "開發乳腺性診所",
+    "id": 522152,
+    "IDcode": "DMBICD1",
+    "title": "DMBIcd1 ボンデージの虏 SPECIAL ペニバンQUEENのアナルFUCKコレクション 4时间-上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240915-1/77c0c9516ea4713f4e505d9a13e890c9.jpg",
-    "actress": [
-      "奏音花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-813-CN"
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230227-1/a35ec283430294ab5d87416779c931bc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMBICD1"
   },
   {
-    "id": 78192,
-    "IDcode": "PPPD-813CN",
-    "title": "PPPD813CN 開發乳腺性診所 奏音花音",
+    "id": 522153,
+    "IDcode": "DMBICD2",
+    "title": "DMBIcd2 ボンデージの虏 SPECIAL ペニバンQUEENのアナルFUCKコレクション 4时间-上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241118-1/70ec206555e6d1c20c34a36d80844b7c.jpg",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230227-1/0dca9cb64af79642773e32bdd1b44643.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-813CN"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMBICD2"
   },
   {
-    "id": 78793,
-    "IDcode": "PPPD-814",
-    "title": "隐藏痴女属性巨乳文学系女子-有栖いおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "制服",
-      "巨乳",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/15/62e3fb5be74a53307b672815585317ae.jpg",
-    "actress": [
-      "有栖いおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-814"
-  },
-  {
-    "id": 78974,
-    "IDcode": "PPPD-815",
-    "title": "性感内衣丝袜痴女治疗师派遣内射几次都可以的性感按摩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "乳交",
-      "中出",
-      "按摩",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/04/d0d200fb/vod.jpg",
-    "actress": [
-      "目黑惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-815"
-  },
-  {
-    "id": 76802,
-    "IDcode": "PPPD-817",
-    "title": "妻子怀孕了她的巨乳姐姐来帮忙照顾顺便还犒劳了我忍了好久的肉棒爽到控制不住内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "白天出轨",
-      "乱伦",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/04/147d284f/vod.jpg",
-    "actress": [
-      "永井瑪麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-817"
-  },
-  {
-    "id": 77130,
-    "IDcode": "PPPD-819",
-    "title": "被不良少女欺负-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "姐姐",
-      "巨乳",
-      "自慰",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/22/b52d9141e2cb7d737b916d3a8621175e.jpg",
-    "actress": [
-      "JULIA",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-819"
-  },
-  {
-    "id": 77128,
-    "IDcode": "PPPD-820",
-    "title": "巨乳女友-桐谷まつり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "白天出轨",
-      "淫乱，真实",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/22/a9aa157f790b5afe1df92094c9b606f8.jpg",
-    "actress": [
-      "桐谷茉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-820"
-  },
-  {
-    "id": 83155,
-    "IDcode": "PPPD-821",
-    "title": "巨乳女教師監禁中出-吉根ゆりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "监禁",
-      "女教师",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/21/9a692ee0bbc1a25cb949aef09e14ef0d.jpg",
-    "actress": [
-      "吉根柚莉爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-821"
-  },
-  {
-    "id": 83173,
-    "IDcode": "PPPD-822",
-    "title": "故意不穿胸罩突出奶头来家访的巨乳女教师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女教师",
-      "中出",
-      "淫乱，真实",
-      "巨乳",
-      "身体意识"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/22/cc642fbd37f96e181bf3c97ef688f6e2.jpg",
-    "actress": [
-      "永井瑪麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-822"
-  },
-  {
-    "id": 83163,
-    "IDcode": "PPPD-823",
-    "title": "沉默寡言的爆乳女大学生-小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "女大学生",
-      "中出",
-      "按摩",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/8f5f2ea15847fc62e644b0126f485ddc.jpg",
-    "actress": [
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-823"
-  },
-  {
-    "id": 82845,
-    "IDcode": "PPPD-824",
-    "title": "Ocup高級ランジェリー販売員の誘惑セールス術 Hitomi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乳交",
-      "中出",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/7c3dedf1f365b110cb8a2f88d1223f01.jpg",
-    "actress": [
-      "鲛岛",
-      "田中瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-824"
-  },
-  {
-    "id": 82854,
-    "IDcode": "PPPD-825",
-    "title": "巨乳老师-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "女教师",
-      "中出",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/19/d947dec98fa5b6b65a51360b1c309700.jpg",
-    "actress": [
-      "JULIA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-825"
-  },
-  {
-    "id": 82846,
-    "IDcode": "PPPD-826",
-    "title": "幼い頃から成長を見守ってきた姪っ子の発育おっぱいに感極まって汗だくでムシャブリ犯した数日間… 桐谷まつり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "流汗",
-      "乱伦",
-      "巨乳",
-      "监禁"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-02-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/7456f05226451cfcabdb4478ae5ef075.jpg",
-    "actress": [
-      "桐谷茉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-826"
-  },
-  {
-    "id": 93137,
-    "IDcode": "PPPD-828",
-    "title": "巨乳控的我-Hitomi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "乳交",
-      "捆绑",
-      "第一人称摄影",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/06/893c5f3c2c66b2b3cecf1eee235af6c4.jpg",
-    "actress": [
-      "田中瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-828"
-  },
-  {
-    "id": 221225,
-    "IDcode": "PPPD-830",
-    "title": "M男性感俱乐部-JULIA",
+    "id": 518395,
+    "IDcode": "DMBJ-016",
+    "title": "緊身衣的俘虜 M男調教QUEEN",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/06/88c462e3410c8d9adf51bd1b9666cecf.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/07/690ce7476b81af1f853b37b8/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-830"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMBJ-016"
   },
   {
-    "id": 88155,
-    "IDcode": "PPPD-831",
-    "title": "被外甥和他的朋友们持续侵犯内射五天",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "正太控",
-      "中出",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/193eb7d6c68e4ac56264f8fa4b01a425.jpg",
-    "actress": [
-      "桐谷茉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-831"
-  },
-  {
-    "id": 221191,
-    "IDcode": "PPPD-832",
-    "title": "本来就欲求不满的巨乳美女-吉根ゆりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/06/2153f0bd206b5b74e091ab8ae85efb7b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-832"
-  },
-  {
-    "id": 104165,
-    "IDcode": "PPPD-833",
-    "title": "女朋友和家人出去旅行的一周-佐知子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "眼镜",
-      "乳交",
-      "中出",
-      "自慰"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/06/b6788072c25295c0cfdf44d5097f5a7c.jpg",
-    "actress": [
-      "佐知子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-833"
-  },
-  {
-    "id": 222435,
-    "IDcode": "PPPD-835",
-    "title": "爆乳女上司-Hitomi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/37809961bb41b23fec8221dea7075f4a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-835"
-  },
-  {
-    "id": 93126,
-    "IDcode": "PPPD-837",
-    "title": "父母出去旅行委托隔壁的巨乳姐姐照顾我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "蛮横娇羞",
-      "姐姐",
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/d141c07849af2506bddc9e1581bc2497.jpg",
-    "actress": [
-      "桐谷茉莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-837"
-  },
-  {
-    "id": 222436,
-    "IDcode": "PPPD-838",
-    "title": "按摩乳腺开发G点-逢見リカ",
+    "id": 518537,
+    "IDcode": "DMBJ-053",
+    "title": "早洩包莖肉棒強化計畫 佳苗瑠華",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/b776317bcdbd47e5b62f53ac41538ffa.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68faa2e9d6fbef4e90093349/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-838"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMBJ-053"
   },
   {
-    "id": 93542,
-    "IDcode": "PPPD-839",
-    "title": "在女朋友家过夜被她-美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "姐姐",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/ceb0fd70c64135bfceceab21106743a6.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-839"
-  },
-  {
-    "id": 209292,
-    "IDcode": "PPPD-840",
-    "title": "巨乳の新人-川村晴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/02/QQ20200603051157408b5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-840"
-  },
-  {
-    "id": 209281,
-    "IDcode": "PPPD-841",
-    "title": "快感挟射-Hitomi",
+    "id": 518625,
+    "IDcode": "DMBJ-061",
+    "title": "惡作劇般的緊身衣小姐甘甜調教 夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/02/QQ20200603051157f754e.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68eb36961572686be786774a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-841"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMBJ-061"
   },
   {
-    "id": 225654,
-    "IDcode": "PPPD-842",
-    "title": "巨乳魅魔-JULIA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/67b9d0661a6108de24ee2fa507ed00d8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-842"
-  },
-  {
-    "id": 225653,
-    "IDcode": "PPPD-843",
-    "title": "头牌风俗娘-桐谷まつり",
+    "id": 409501,
+    "IDcode": "DMD-02",
+    "title": "中出被虐奶子 葉月奈穂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/06bbfe08126385d1eccfba58db5815a6.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4fba0e4a73d4f15c27586/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-843"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMD-02"
   },
   {
-    "id": 76859,
-    "IDcode": "PPPD-845",
-    "title": "爆乳Iカップは乳首が敏感",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无毛",
-      "乳交",
-      "中出",
-      "巨乳",
-      "胖女人"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/02/QQ2020060305115718f15.jpg",
-    "actress": [
-      "Qべぇ",
-      "楪さき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-845"
-  },
-  {
-    "id": 209295,
-    "IDcode": "PPPD-846",
-    "title": "巨乳白ギャルと危険日中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/02/QQ20200603051157cc976.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-846"
-  },
-  {
-    "id": 225637,
-    "IDcode": "PPPD-847",
-    "title": "文学系姐妹花",
+    "id": 516471,
+    "IDcode": "DMD-07",
+    "title": "被虐乳中出 武藤克蕾雅",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://hsck485.cc/images/2023/07/13/854b7917d19fdb7c8acb0770d57d02e2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69011c72d6fbef4e901575d1/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-847"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMD-07"
   },
   {
-    "id": 226133,
-    "IDcode": "PPPD-848",
-    "title": "丈夫不在的时候",
+    "id": 516460,
+    "IDcode": "DMD-08",
+    "title": "被虐乳中出 森永雛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/105604eabf861b0f9c5359ea066281aa.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/69011b6ed6fbef4e90157131/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-848"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMD-08"
   },
   {
-    "id": 209412,
-    "IDcode": "PPPD-851",
-    "title": "息子の巨乳妻-桐谷まつり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/25/QQ20200625213702.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-851"
-  },
-  {
-    "id": 210643,
-    "IDcode": "PPPD-852",
-    "title": "小姨子用大奶子勾引我-今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/22/8056e39afb1c4c24b87caf58bf335d00.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-852"
-  },
-  {
-    "id": 210155,
-    "IDcode": "PPPD-853",
-    "title": "突然豪雨-深田えいみ",
+    "id": 516429,
+    "IDcode": "DMD-10",
+    "title": "被虐乳 中出 鈴香音色",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/07/082c494fe5aa632b5d30eea6790350b3.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/6906051971eb543bb0dee860/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-853"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMD-10"
   },
   {
-    "id": 211882,
-    "IDcode": "PPPD-855",
-    "title": "回家的路上和G罩杯练习性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/06/8798347082ebfd5a0c949e53b78cb2d1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-855"
-  },
-  {
-    "id": 209855,
-    "IDcode": "PPPD-858",
-    "title": "金髪巨乳人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/07/524e0f7709c51d8a3d23e3e32c21296b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-858"
-  },
-  {
-    "id": 209856,
-    "IDcode": "PPPD-859",
-    "title": "誘惑セールス術 中野七緒",
+    "id": 516393,
+    "IDcode": "DMD-11",
+    "title": "被虐美乳 不戴套中出 小柳瑪琳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/07/d580ac3e106e3b6898ed6a6c9a376b15.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690acb401fcdee36fa75b675/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-859"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMD-11"
   },
   {
-    "id": 209857,
-    "IDcode": "PPPD-861",
-    "title": "先輩女教師-桐谷まつり",
+    "id": 516401,
+    "IDcode": "DMD-12",
+    "title": "中出被虐奶子 愛普蘭",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/07/676dcfd96b1ec4475bec8d66ce0d866a.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690acb5a1fcdee36fa75b676/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-861"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMD-12"
   },
   {
-    "id": 93558,
-    "IDcode": "PPPD-862",
-    "title": "巨乳の妹-椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "妹妹",
-      "学校作品",
-      "礼仪小姐",
-      "巨乳",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/07/7c91db60957a41a1212548880eb43e01.jpg",
-    "actress": [
-      "椿莉香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-862"
-  },
-  {
-    "id": 211366,
-    "IDcode": "PPPD-863",
-    "title": "性欲暴走-Hitomi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/30/190324596d04eb21fb8f3bd32487ac07.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-863"
-  },
-  {
-    "id": 210156,
-    "IDcode": "PPPD-865",
-    "title": "巨乳女教師 蓮実クレア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/07/219223647ada085ec82c92e2ed4a7065.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-865"
-  },
-  {
-    "id": 210208,
-    "IDcode": "PPPD-866",
-    "title": "妹妹用大奶勾引我-辻井ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/12/23382355acf7f3bdc3a22edc53c3b068.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-866"
-  },
-  {
-    "id": 210397,
-    "IDcode": "PPPD-868",
-    "title": "親父の再婚-中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/28/78d2abf1bf4b8a1930033aa2f4cfe85b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-868"
-  },
-  {
-    "id": 210644,
-    "IDcode": "PPPD-869",
-    "title": "乳腺開発-川村晴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/22/4efce844854ec5e298ad24f37328d26b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-869"
-  },
-  {
-    "id": 210398,
-    "IDcode": "PPPD-871",
-    "title": "大奶子上的精液-深田えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/28/9c7958b1267e7c5bd7472a6ebf305a55.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-871"
-  },
-  {
-    "id": 93128,
-    "IDcode": "PPPD-874",
-    "title": "乳房按摩-中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "乳交",
-      "中出",
-      "按摩",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/01/12/c045336ab9807e0b3aef2666fc08290a.jpg",
-    "actress": [
-      "中野七绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-874"
-  },
-  {
-    "id": 210676,
-    "IDcode": "PPPD-875",
-    "title": "巨乳女教師的誘惑 川村晴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/25/f26ff97c4605c222156e583b6666f861.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-875"
-  },
-  {
-    "id": 88166,
-    "IDcode": "PPPD-876",
-    "title": "她的姐姐用大乳房诱惑我-夏希まろん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "姐姐",
-      "妹妹",
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/25/4d21093d26b4d6df2910464b50a8e4bd.jpg",
-    "actress": [
-      "夏希栗",
-      "幸田ユマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-876"
-  },
-  {
-    "id": 211053,
-    "IDcode": "PPPD-880",
-    "title": "巨乳中出-小泉ひなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/29/da02368955164d7b1162f4bf2d4a306e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-880"
-  },
-  {
-    "id": 93140,
-    "IDcode": "PPPD-881",
-    "title": "合宿先の旅館で巨乳先輩とまさかの相部屋… 朝まで汗だくになって何度も何度も中出しさせられた僕 Hitomi",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "运动",
-      "中出",
-      "流汗",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-11-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241007-1/e55fa1b1ade68249b82c62d82e38531b.jpg",
-    "actress": [
-      "田中瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-881"
-  },
-  {
-    "id": 211054,
-    "IDcode": "PPPD-882",
-    "title": "販売員的誘惑-川村晴 深沢いのり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/29/d51b9ae4c9970e9f10d3edd033e53e5b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-882"
-  },
-  {
-    "id": 211055,
-    "IDcode": "PPPD-883",
-    "title": "男朋友让我独身30天-中野七緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/29/b571e460fe3d486c99ae519731ae29d8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-883"
-  },
-  {
-    "id": 211056,
-    "IDcode": "PPPD-884",
-    "title": "同棲生活 田中ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/29/cf8b2fbc85efc912f983cbc9defe83c7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-884"
-  },
-  {
-    "id": 211057,
-    "IDcode": "PPPD-885",
-    "title": "巨乳女教師的誘惑 叶ユリア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/29/9436c8e37b6b9cdff643e95a5b7cfafa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-885"
-  },
-  {
-    "id": 93543,
-    "IDcode": "PPPD-887",
-    "title": "巨乳女子大生VR体験",
+    "id": 80589,
+    "IDcode": "DMDG-052",
+    "title": "マゾ乳中出し 美波もも",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "羞耻",
-      "恶作剧",
-      "乳房",
-      "巨乳"
+      "乳交",
+      "中出",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/29/443bc89997edea3843b75e3c27f004d9.jpg",
-    "actress": [
-      "佐知子"
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-887"
+    "publish_date": "2022-02-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/b23de284ed48cecee2474a585f375cc9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-052"
   },
   {
-    "id": 93142,
-    "IDcode": "PPPD-890",
-    "title": "巨乳痴女-辻井ほのか 椿りか",
+    "id": 546824,
+    "IDcode": "DMDG-053",
+    "title": "マゾ乳中出し Kカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240115/54O68vZG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-053"
+  },
+  {
+    "id": 561758,
+    "IDcode": "DMDG-054",
+    "title": "マゾ乳中出し Gカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240226/nofWS795/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-054"
+  },
+  {
+    "id": 441092,
+    "IDcode": "DMDG-055",
+    "title": "M乳中出M罩杯华澄结爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/6bea9dcfd99ba9e66202bff99fa6ac45.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-055"
+  },
+  {
+    "id": 545476,
+    "IDcode": "DMDG-056",
+    "title": "マゾ乳中出し Hカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240520/kmSoONGY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-056"
+  },
+  {
+    "id": 10530,
+    "IDcode": "DMDG-057",
+    "title": "マゾ乳中出し Mカップ 吉根ゆりあ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "中出",
-      "多P",
+      "3P・4P",
+      "老頭子",
+      "巨尻",
+      "飯店",
+      "唾液敷面",
+      "凌辱",
+      "緊縛",
+      "癡女",
+      "羞恥",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
       "巨乳",
-      "荡妇"
+      "性感",
+      "口交",
+      "潮吹",
+      "兩男一女",
+      "深喉",
+      "淫亂",
+      "中出",
+      "後入",
+      "企畫",
+      "顏射",
+      "絕頂高潮",
+      "女優",
+      "舔陰",
+      "手指插入",
+      "乳交",
+      "調教",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/30/46fcdb8e2180c3437e9ab047155d53a5.jpg",
-    "actress": [
-      "椿莉香",
-      "辻井穗乃果"
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-890"
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241118/7839bfea-52b3-46ea-b160-f91e59bb0a7c.jpg",
+    "actress": [
+      "吉根柚莉爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-057"
   },
   {
-    "id": 211364,
-    "IDcode": "PPPD-891",
-    "title": "她的妹妹用大奶子勾引我-逢見リカ",
+    "id": 9664,
+    "IDcode": "DMDG-058",
+    "title": "I罩杯美爆乳中出！ ~ 姬咲華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "M男・M女",
+      "網襪",
+      "凌辱",
+      "美少女",
+      "羞恥",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "變態",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "淫亂",
+      "猥褻穿著",
+      "中出",
+      "後入",
+      "企畫",
+      "絕頂高潮",
+      "美少女電影",
+      "手指插入",
+      "高跟鞋",
+      "乳交",
+      "女上位",
+      "騎乗位",
+      "情趣內衣"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
+    ],
+    "publish_date": "2024-12-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20241222/9f369fe8-c87d-419e-9c60-b8da6724ba0a.jpg",
+    "actress": [
+      "姫咲華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-058"
+  },
+  {
+    "id": 70809,
+    "IDcode": "DMDG-059",
+    "title": "マゾ乳中出し Wキャスト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "胖女人",
+      "乳交",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "藤沢麗央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-059"
+  },
+  {
+    "id": 6813,
+    "IDcode": "DMDG-060",
+    "title": "マゾ乳中出し Iカップ 田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "巨尻",
+      "真實拍攝",
+      "豐滿",
+      "局部特寫",
+      "胖女人",
+      "拘束・拷問",
+      "胸控・戀乳癖",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "潮吹",
+      "人妻",
+      "短髮",
+      "深喉",
+      "淫亂",
+      "超爆乳",
+      "猥褻穿著",
+      "中出",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "後入",
+      "絕頂高潮",
+      "女優",
+      "乳交",
+      "調教",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "Gain Corporation",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_Gain_Corporation",
+        "works_count": 99
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416074107869869_thumbnail.webp",
+    "actress": [
+      "田中寧寧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-060"
+  },
+  {
+    "id": 155207,
+    "IDcode": "DMLK-6426",
+    "title": "肉嫁高柳家的人们3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMLK-6426"
+  },
+  {
+    "id": 92521,
+    "IDcode": "DMM-109",
+    "title": "スカトロファックの歴史",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2008-07-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMM-109"
+  },
+  {
+    "id": 579662,
+    "IDcode": "DMOW-020",
+    "title": "男の潮吹き！！-潮が出るまで连続手コキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-020"
+  },
+  {
+    "id": 579660,
+    "IDcode": "DMOW-025",
+    "title": "包茎チンポ责め 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-025"
+  },
+  {
+    "id": 523045,
+    "IDcode": "DMOW-026",
+    "title": "波多野结衣- 脚责め天国！集団美脚イジメ 魅惑の女子校编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250418/F9kdMVha/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-026"
+  },
+  {
+    "id": 589615,
+    "IDcode": "DMOW-193",
+    "title": "被两个荡妇和鱿鱼窃窃私语4小时的M男人 - 水野朝阳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/21/44967_cover_2025-09-21_131339.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-193"
+  },
+  {
+    "id": 81681,
+    "IDcode": "DMOW-207",
+    "title": "ミイラ拘束M男責め",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "拘束",
+      "素人作品",
+      "M男"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "2020-01-01",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/r4otquk7.jpg",
+    "actress": [
+      "大島愛里亞",
+      "宫村ななこ",
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-207"
+  },
+  {
+    "id": 83495,
+    "IDcode": "DMOW-209",
+    "title": "170cm八頭身足長美脚美女によるM男悶絶歓喜の足責め天国 中条カノン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "荡妇",
+      "恋腿癖",
+      "M男",
+      "高",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "2020-03-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/0c68f4c52b5a61c2c7444320feb6a0af.jpg",
+    "actress": [
+      "内海みう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-209"
+  },
+  {
+    "id": 411971,
+    "IDcode": "DMOW-219",
+    "title": "密封阴茎后宫射精管理～对早泄阴茎进行无休止的折磨，只要对着 末広纯,一条美绪,千石もなか等演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250924-1/d94def3281a0ca51dc3d5ae5a7fc8b25.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-219"
+  },
+  {
+    "id": 7810,
+    "IDcode": "DMOW-220",
+    "title": "完全鎖喉·貼身深喉 ~ 小鬆杏 桜木美音 有棲舞衣 円井萌華 加賀美さら 美澄玲衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "無做愛場面",
+      "吞精",
+      "精選總編集",
+      "M男・M女",
+      "口爆",
+      "戀物癖",
+      "局部特寫",
+      "淫語",
+      "精選綜合",
+      "口交",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "深喉",
+      "蕩婦",
+      "美人",
+      "企畫",
+      "女優"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "2025-03-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20250303/67bdb99b-b514-4f85-b705-5c03feae9792.jpg",
+    "actress": [
+      "有栖舞衣",
+      "美澄玲衣",
+      "小松杏",
+      "円井萌華",
+      "桜木美音",
+      "加賀美さら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-220"
+  },
+  {
+    "id": 8559,
+    "IDcode": "DMOW-221",
+    "title": "パンスト美脚秘書に丁寧語を使われながら上から目線で痴女られて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "奇聞趣事",
+      "艷遇",
+      "多P",
+      "兩女一男",
+      "M男・M女",
+      "口爆",
+      "素人作品",
+      "苗條",
+      "淫語",
+      "4K",
+      "辦公室",
+      "美腳",
+      "癡女",
+      "雙飛",
+      "OL",
+      "加班",
+      "美乳",
+      "制服",
+      "亂交 • 群P",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "後宮系",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "蠻橫嬌羞",
+      "一男多女",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "奇異的",
+      "絕頂高潮",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "舔腳",
+      "御姐系",
+      "黑絲",
+      "足交",
+      "女秘書",
+      "金髮",
+      "女上位",
+      "騎乗位",
+      "女同事"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250816-1/7b3731637eee1c3522fdc2b68e174117.jpg",
+    "actress": [
+      "百永纱里奈",
+      "和久井美兎",
+      "桐香悠裡",
+      "千鶴えま",
+      "祈山愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-221"
+  },
+  {
+    "id": 3050,
+    "IDcode": "DMOW-222",
+    "title": "罵倒痴女のセンズリ射精管理-松井日奈子 花衣つばき 菊池はる 橘京花 九井スナオ 八森わか菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "M男・M女",
+      "真實拍攝",
+      "港區女子",
+      "阪道系",
+      "淫語",
+      "4K",
+      "美少女",
+      "美腳",
+      "癡女",
+      "主觀視角",
+      "胸控・戀乳癖",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "貧乳",
+      "超爆乳",
+      "大姐姐",
+      "女主持・主播",
+      "美人",
+      "企畫",
+      "後入",
+      "少女",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "高妹",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d3099979f1ac4ec4700183/cover.jpg",
+    "actress": [
+      "九井珠奈緒",
+      "松井日奈子",
+      "橘京花",
+      "八森若菜",
+      "花衣つばき",
+      "菊池春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-222"
+  },
+  {
+    "id": 2210,
+    "IDcode": "DMOW-223",
+    "title": "高級セクシーランジェリー姿で男を惑わす訪問販売員たちの悩殺セールス術",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "小隻馬",
+      "老頭子",
+      "M男・M女",
+      "口爆",
+      "三十路",
+      "豐滿",
+      "港區女子",
+      "苗條",
+      "辣妹/GAL系",
+      "阪道系",
+      "淫語",
+      "女業務",
+      "4K",
+      "美腳",
+      "癡女",
+      "自宅",
+      "大奶头",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "心機婊",
+      "接吻",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "後宮系",
+      "高顏值",
+      "淫亂",
+      "極品美人",
+      "內衣",
+      "蠻橫嬌羞",
+      "大姐姐",
+      "一男多女",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "美臀",
+      "清純",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "拜金女",
+      "高妹",
+      "顔面騎乘",
+      "舔腳",
+      "乳交",
+      "無毛",
+      "御姐系",
+      "黑絲",
+      "足交",
+      "女上位",
+      "上門推銷",
+      "騎乗位",
+      "身體換業務"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "沙月惠奈",
+      "清巳麗乃",
+      "星仲ここみ",
+      "奈築里緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-223"
+  },
+  {
+    "id": 517302,
+    "IDcode": "DMOW-224",
+    "title": "我是一個受虐狂,別無選擇,只能讓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "OFFICE K’S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_OFFICE_KS",
+        "works_count": 173
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906bde971eb543bb0e13f1c/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-224"
+  },
+  {
+    "id": 561077,
+    "IDcode": "DMR-001",
+    "title": "シロウト·ストロング PREMIUM 07",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240422/WgybCK4U/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMR-001"
+  },
+  {
+    "id": 560542,
+    "IDcode": "DMR-003",
+    "title": "シロウト・ストロング PREMIUM 09",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240811/La1q0Wvz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMR-003"
+  },
+  {
+    "id": 572354,
+    "IDcode": "DMTP-011",
+    "title": "女优不详Jカップ のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMTP-011"
+  },
+  {
+    "id": 78271,
+    "IDcode": "DMTU-10598",
+    "title": "メイドさんとボイン魂 EXTEND THE ANIMATION",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0203571a7e43aeaaec214187915c9c52.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMTU-10598"
+  },
+  {
+    "id": 530587,
+    "IDcode": "DMU-075",
+    "title": "聚集在“绘画模特招募”中的一般女性联合裸体模特体验",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250316-1/bce1619b4bd5c84a9d3a894198fa5862.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMU-075"
+  },
+  {
+    "id": 92519,
+    "IDcode": "DMU-948",
+    "title": "DMU948汁男優としてAV撮影現場に参加したボク！人気女優4名に惚れられて、撮影中に痴女られまくりハーレム！蓮實克蕾雅樞木葵美谷朱里有村希渚光希。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/eb6c9ea3c7b288b124886f21e5cfbbb1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMU-948"
+  },
+  {
+    "id": 92502,
+    "IDcode": "DMU-979",
+    "title": "DMU979おねだり肉食系エロ眼鏡ガンガン生ハメ中出し可愛すぎるセフレレナ(23歳)エステシャン顔面優勝！底なしの性欲シロウト＃001葵玲奈。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMU-979"
+  },
+  {
+    "id": 209722,
+    "IDcode": "DMX-002",
+    "title": "大奥 蕾の乱 明日への契り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMX-002"
+  },
+  {
+    "id": 58138,
+    "IDcode": "DN-248",
+    "title": "老公瘫痪在床~少妇独守空房~热心中介上门",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/cd778a00ebd2707f53c8b4b4526b5c99.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-248"
+  },
+  {
+    "id": 92494,
+    "IDcode": "DN-347",
+    "title": "和人妻秘書在出差處的濃厚不倫SEX明里紬。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/47af1d6e4a3320b0edfa7c9814430a90.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-347"
+  },
+  {
+    "id": 560216,
+    "IDcode": "DN-349",
+    "title": "与一位同时加入公司的女老板合住一个房间~出差时自豪感十足。出乎意料地推力很弱~直到早上我都淹死了。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/170666c06ddfcddfcddecd964bc53e83.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-349"
+  },
+  {
+    "id": 92517,
+    "IDcode": "DN-364",
+    "title": "無法抑制的愛欲森澤佳奈。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/3cbd5230f1f5df5506bcb871a7124d1b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-364"
+  },
+  {
+    "id": 92622,
+    "IDcode": "DN-366",
+    "title": "代替沒錢沒種的哥哥在嫂子危險日時做中出SEX明里紬。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/65a6b514bf24d6af07b69413efdefe61.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-366"
+  },
+  {
+    "id": 92492,
+    "IDcode": "DN-383",
+    "title": "被女兒男友抱緊的我篠田優。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/439911eaa8959ee87f2f526959a4e89c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-383"
+  },
+  {
+    "id": 92499,
+    "IDcode": "DN-400",
+    "title": "新入社的西野小姐像是惡女一樣玩弄不受歡迎的我明里紬。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/0a1d0df1bdedcb4f24d1cfbce7718a7b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-400"
+  },
+  {
+    "id": 92495,
+    "IDcode": "DN-416",
+    "title": "被禁止的背德姦過於年輕的義母岬奈奈美。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/1b7189f709d53b4879bdf8ade092727d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-416"
+  },
+  {
+    "id": 92510,
+    "IDcode": "DN-418",
+    "title": "把住同公寓的漂亮人妻抽插搞翻天的事。森澤佳奈。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/4ba93d1563662b67acbc37ad267fb7f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-418"
+  },
+  {
+    "id": 92504,
+    "IDcode": "DN-424",
+    "title": "週末限定，夫婦交換老婆被別人插入的夜晚大槻響岬奈奈美。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "夫妻交换"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/5cf254ef11a8e508ae5a0d5254caf785.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-424"
+  },
+  {
+    "id": 92514,
+    "IDcode": "DN-426",
+    "title": "被女兒男友搞上的我。被擅自撲倒那天開始搞翻天的事件森澤佳奈。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/5c84ca5e1a5e031c6e4867fb5700cecb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-426"
+  },
+  {
+    "id": 92513,
+    "IDcode": "DN-429",
+    "title": "合作公司的社長很中意我的妻子作為社長秘書僱傭了她...岬奈奈美。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/f2cc4a7d2d1fcf9300cbe66c8a270d77.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DN-429"
+  },
+  {
+    "id": 556478,
+    "IDcode": "DNIA-004",
+    "title": "女凶杀蚁狮地狱第4幕：狂哭残忍女身怪脏肉身亡女秘书宫崎绫 - 宫崎彩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230514-1/97b0d239e19754a00fa3051940571239.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNIA-004"
+  },
+  {
+    "id": 99287,
+    "IDcode": "DNIA-005",
+    "title": "女殺淫縛蟻地獄 第五幕:奴隷堕ち女社長の悲惨！！淫壺痙攣狂おしく 井上綾子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "羞耻",
+      "捆绑",
+      "成熟的女人",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2018-03-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "井上綾子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNIA-005"
+  },
+  {
+    "id": 578739,
+    "IDcode": "DNIA-008",
+    "title": "女杀淫缚蚁地狱第8幕食い込む縄で狂った蜜肉は濡れそぼり鬼畜の前で絶顶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNIA-008"
+  },
+  {
+    "id": 74573,
+    "IDcode": "DNJR-010",
+    "title": "完全主観 貴方だけを見つめて尿道責め",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "素人作品",
+      "淫语",
+      "精选，综合",
+      "主观视角",
+      "放尿"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2019-08-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/7b9131820541ae14089a9f573dfed0a2.jpg",
+    "actress": [
+      "皆月光",
+      "岬梓沙",
+      "有栖露露",
+      "星奈爱",
+      "一条美绪",
+      "北川爱莉香",
+      "あゆみ莉花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-010"
+  },
+  {
+    "id": 76733,
+    "IDcode": "DNJR-019",
+    "title": "搾りたて母乳M男イジメ 桐谷しほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "乳交",
+      "母乳",
+      "巨乳",
+      "淫语"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241110-1/f68da5e952b91cbecf523a13ae12d798.jpg",
+    "actress": [
+      "岩下たろう",
+      "桐谷しほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-019"
+  },
+  {
+    "id": 83071,
+    "IDcode": "DNJR-022",
+    "title": "高身長痴女のチビ男イジメ 大谷翔子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "恋腿癖",
+      "M男",
+      "女教师",
+      "高"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/fcee499d229d64b4a81f383e32b10025.jpg",
+    "actress": [
+      "泉麻里香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-022"
+  },
+  {
+    "id": 81637,
+    "IDcode": "DNJR-024",
+    "title": "全裸聖水飲ませ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋物癖",
+      "荡妇",
+      "饮尿",
+      "M男"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2020-03-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "有村希",
+      "有栖露露",
+      "新垣智江",
+      "真城杏",
+      "久远れいら",
+      "富永舞",
+      "久我かのん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-024"
+  },
+  {
+    "id": 81474,
+    "IDcode": "DNJR-025",
+    "title": "ド派手なネイルにピンクヘアー 超気合の入った漆黒ギャルMARIAちゃんのハードM男イジメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "荡妇",
+      "M男",
+      "晒黑",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e1c596c829edaaeda4a2634721a9324d.jpg",
+    "actress": [
+      "MARIA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-025"
+  },
+  {
+    "id": 77919,
+    "IDcode": "DNJR-026",
+    "title": "風呂嫌い、部屋の掃除も出来ない汚学生あいかちゃんのくさ～い体臭M男責め 宇佐木あいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "荡妇",
+      "M男",
+      "足交",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/aeee25746507087b7e8762cec99e2e7e.jpg",
+    "actress": [
+      "岩下たろう",
+      "宇佐木あいか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-026"
+  },
+  {
+    "id": 213416,
+    "IDcode": "DNJR-028",
+    "title": "逆時間停止学園",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-028"
+  },
+  {
+    "id": 531735,
+    "IDcode": "DNJR-036",
+    "title": "私たちの日常Sな彼女とMな彼氏のイチャラブ同栖性活うららか丽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/509c8dcc2e1d3f2cd2f86114386e78bb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-036"
+  },
+  {
+    "id": 210866,
+    "IDcode": "DNJR-037",
+    "title": "巨乳讲师-秋元千早",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-037"
+  },
+  {
+    "id": 406338,
+    "IDcode": "DNJR-038",
+    "title": "与M男君一起玩！随着欲望把M男当玩具玩弄的真性S女檔案 枢木葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/1d3820010a61de050ce103ffea11e9e0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-038"
+  },
+  {
+    "id": 212996,
+    "IDcode": "DNJR-044",
+    "title": "痴女家庭教師-斎藤ミオリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-044"
+  },
+  {
+    "id": 593579,
+    "IDcode": "DNJR-046",
+    "title": "“我啊～会调教你很～多事情喔～要听话喔～知道了吗？”",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-046"
+  },
+  {
+    "id": 594047,
+    "IDcode": "DNJR-049",
+    "title": "颜面骑乘喷射放尿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/pFcqtIC6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-049"
+  },
+  {
+    "id": 594176,
+    "IDcode": "DNJR-050",
+    "title": "纯真下属被痴女上司指导调教天天榨精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-050"
+  },
+  {
+    "id": 212908,
+    "IDcode": "DNJR-052",
+    "title": "巨乳痴女教師-今井夏帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-052"
+  },
+  {
+    "id": 572291,
+    "IDcode": "DNJR-053",
+    "title": "あおいれなHasSubtitle1日1シーンずつ见进めるリアル射精管理 あおいれな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/AWXVPEs8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-053"
+  },
+  {
+    "id": 594360,
+    "IDcode": "DNJR-054",
+    "title": "妹妹只用手淫就支配了我的肉棒 一条美绪",
     "year": "",
     "country": "",
     "genre": "",
@@ -1693,299 +1752,631 @@ window.PAGE_DATA = [
       "乱伦"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/30/f3c8baf3e4abaacbfd08fcaa19ebf845.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-891"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-054"
   },
   {
-    "id": 93546,
-    "IDcode": "PPPD-893",
-    "title": "乳腺開発-望月あやか",
+    "id": 413668,
+    "IDcode": "DNJR-069",
+    "title": "1天1幕射精真实射精管理加藤椿八乃翼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/2afcfd5ba450b635babb994849b18ca6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-069"
+  },
+  {
+    "id": 81097,
+    "IDcode": "DNJR-070",
+    "title": "M男責め七変化痴女 木下ひまり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "乳交",
-      "中出",
-      "淫乱，真实",
-      "巨乳"
+      "荡妇",
+      "M男",
+      "饮尿",
+      "角色扮演者",
+      "淫语",
+      "单体作品"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/30/c2b16a50d143279fa2ae77b8758addf1.jpg",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "2022-03-08",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/052c34b220e1ee54a14453cd9b7ba69b.jpg",
     "actress": [
-      "望月綾香"
+      "木下日葵"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-893"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-070"
   },
   {
-    "id": 211362,
-    "IDcode": "PPPD-894",
-    "title": "発射無制-夏希まろん 大浦真奈美",
+    "id": 572251,
+    "IDcode": "DNJR-071",
+    "title": "全裸圣水饮ませ~色んなシチュエーション女子のお小水编~",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/30/2fe926530de754f3852a6b5f4d31e684.jpg",
+    "cover_url": "https://pic31.anzise.com/pic/20220613/d49568e5c8bdc3e3ff009ae22d1f6bf3/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-894"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-071"
   },
   {
-    "id": 211883,
-    "IDcode": "PPPD-897",
-    "title": "修学旅行中-神坂朋子 飛鳥りいな",
+    "id": 217495,
+    "IDcode": "DNJR-072",
+    "title": "dnjr-072 射精管理日記-天然美月",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/06/fc729b0577127872302e019fc02e50b4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-897"
-  },
-  {
-    "id": 211884,
-    "IDcode": "PPPD-898",
-    "title": "巨乳中出-田中ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "type": "有码",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/06/a72f9d22b41cd1ab625d50bb822464c0.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/5a720534442783f219f45cafe2173814.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-898"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-072"
   },
   {
-    "id": 211885,
-    "IDcode": "PPPD-899",
-    "title": "巨乳女友-姫咲はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/06/2d113004c0cb05b35f4bd66292307d2d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-899"
-  },
-  {
-    "id": 211886,
-    "IDcode": "PPPD-900",
-    "title": "拘束痴女",
+    "id": 566496,
+    "IDcode": "DNJR-074",
+    "title": "无中断淫语玩弄Ｍ男",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/06/cdcb35d575972e92b79c2ee38329ce51.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/YOgNqhwj.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-900"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-074"
   },
   {
-    "id": 211887,
-    "IDcode": "PPPD-901",
-    "title": "中出発射-舞奈みく",
+    "id": 530217,
+    "IDcode": "DNJR-076",
+    "title": "被虐狂男专用 W淫语痴女男性护肤 宫村奈奈子 广濑里绪菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/06/d58e1170d03f16bf9f9af4701a89e84f.jpg",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/cuI27vxQ.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-901"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-076"
   },
   {
-    "id": 93138,
-    "IDcode": "PPPD-905",
-    "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 蘭華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "白天出轨",
-      "妹妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2021-02-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241007-1/c69ec0e3fd04f553d0ade0cee1c5fe6f.jpg",
-    "actress": [
-      "蘭華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-905"
-  },
-  {
-    "id": 212233,
-    "IDcode": "PPPD-921",
-    "title": "痛苦射精-辻井ほのか",
+    "id": 566495,
+    "IDcode": "DNJR-077",
+    "title": "侵沉在玩弄男人优越感的放学后小恶魔",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/08/156444244688173bde0e12a3d3384e26.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/96bbb73295d9420e409d6634b21519ec.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-921"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-077"
   },
   {
-    "id": 93139,
-    "IDcode": "PPPD-935",
-    "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 さつき芽衣",
+    "id": 67416,
+    "IDcode": "DNJR-078",
+    "title": "淫乱爆乳女教師-浜辺ももね",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "白天出轨",
-      "姐姐",
-      "妹妹",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2021-06-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241007-1/6a179cddce3f5cfe41b2e6de3f62a265.jpg",
-    "actress": [
-      "沙月芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-935"
-  },
-  {
-    "id": 79438,
-    "IDcode": "PPPD-949",
-    "title": "陽キャになりたい陰キャアニオタ巨乳女子AVデビュー！ 有馬凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "首次亮相",
-      "女上位",
+      "荡妇",
+      "M男",
+      "女教师",
       "巨乳",
-      "自慰"
+      "淫语",
+      "单体作品"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2021-08-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/33f0357f1efe7f65d41802ad291a099e.jpg",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/8d99840ebd81c8f6fbb04f240a1f8bd8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-949"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-078"
   },
   {
-    "id": 79393,
-    "IDcode": "PPPD-950",
-    "title": "一个学生的大奶子-楪カレン",
+    "id": 566494,
+    "IDcode": "DNJR-079",
+    "title": "让男人吞下体液感到喜悦的W色女高中生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/62a8f169aa0c7cd85cdd79a3b397b834.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-079"
+  },
+  {
+    "id": 566493,
+    "IDcode": "DNJR-080",
+    "title": "沉浸在玩弄男人的优越感里的色女OL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/137d01ad6a34fca716f667b855bf209d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-080"
+  },
+  {
+    "id": 69526,
+    "IDcode": "DNJR-081",
+    "title": "東條なつ的内裤和胸罩",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "女生",
-      "中出",
-      "高中女生",
-      "巨乳"
+      "荡妇",
+      "M男",
+      "手淫",
+      "淫语",
+      "单体作品",
+      "高中女生"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/20/1cd5c76fad034d32fa37e4c7ca8405d7.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/218ddbf3810d7f1677bed2133c35ff0d.jpg",
     "actress": [
+      "東條夏",
       "タイ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-950"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-081"
   },
   {
-    "id": 79380,
-    "IDcode": "PPPD-951",
-    "title": "前体育主播-冨安れおな",
+    "id": 87430,
+    "IDcode": "DNJR-082",
+    "title": "【FANZA限定】M男だ～い好き！ノリノリでマゾ男をイジメるW小悪魔女子○生 るるちゃ。 深月めい パンティとチェキ付き",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "中出",
-      "口交",
-      "巨乳",
-      "荡妇"
+      "荡妇",
+      "M男",
+      "多P",
+      "淫语",
+      "高中女生"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/25/ada9ab2a8e70639ad78b8b57db6e0bc8.jpg",
-    "actress": [
-      "鲛岛"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-951"
+    "publish_date": "2022-08-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/4ea8356efb419cbf45ee8100b5c91166.jpg",
+    "actress": [
+      "有栖露露"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-082"
   },
   {
-    "id": 79420,
-    "IDcode": "PPPD-956",
-    "title": "巨乳咖啡馆工人-水原みその",
+    "id": 87410,
+    "IDcode": "DNJR-083",
+    "title": "1日1シーンずつ見進めるリアル射精管理 枢木あおい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
-      "乳交",
-      "礼仪小姐",
-      "巨乳",
-      "美少女电影"
+      "苗条",
+      "单体作品",
+      "荡妇",
+      "M男",
+      "淫语",
+      "主观视角"
     ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/25/48875e84954b626302e8da2827f7672a.jpg",
-    "actress": [
-      "鲛岛"
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-956"
+    "publish_date": "2022-09-13",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/01fddfedc92064aba16a843be0d5f8ad.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-083"
   },
   {
-    "id": 79379,
-    "IDcode": "PPPD-957",
-    "title": "巨乳中出-瀬田一花",
+    "id": 566492,
+    "IDcode": "DNJR-084",
+    "title": "ヤリマン巨乳ビッチギャルに无限射精させられた男たちの末路！ 乙アリス",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "白天出轨",
-      "姐姐",
-      "妹妹",
       "巨乳"
     ],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/25/4a121aca6d80fd0c24862ba6fcf28c3d.jpg",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9b0f7a121336166c78080b72ce05309c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-957"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-084"
+  },
+  {
+    "id": 84385,
+    "IDcode": "DNJR-085",
+    "title": "M男専用-新村あかり 皇ゆず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "多P",
+      "淫语",
+      "兔女郎"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/1f23a8a98762360e798db29685d75d3d.jpg",
+    "actress": [
+      "タイ",
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-085"
+  },
+  {
+    "id": 69527,
+    "IDcode": "DNJR-086",
+    "title": "以欺负老人为乐的小魔女-涼花くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "荡妇",
+      "M男",
+      "淫语",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250326-1/f7c6aa455aa04c1801159e988c45257c.jpg",
+    "actress": [
+      "凉南佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-086"
+  },
+  {
+    "id": 566491,
+    "IDcode": "DNJR-087",
+    "title": "マゾ♂个撮 【里垢女子】あむ（21）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bdf11772e23b4b1114cb616b153570e1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-087"
+  },
+  {
+    "id": 88597,
+    "IDcode": "DNJR-088",
+    "title": "淫語痴女-みづき 佐野なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "多P",
+      "饮尿",
+      "淫语"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "弥生美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-088"
+  },
+  {
+    "id": 550043,
+    "IDcode": "DNJR-089",
+    "title": "デカ尻淫语おなら责め",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230120/fMB4qYK6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-089"
+  },
+  {
+    "id": 564791,
+    "IDcode": "DNJR-090",
+    "title": "1日1シーンずつ见进めるリアル射精管理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230120/ZqXVxJqd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-090"
+  },
+  {
+    "id": 531227,
+    "IDcode": "DNJR-0901",
+    "title": "日1シーンずつ见进めるリアル射精管理结城りの第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-0901"
+  },
+  {
+    "id": 564648,
+    "IDcode": "DNJR-091",
+    "title": "美女圣水饮ませ ～完全主観Ver～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230401/wQCwuhWf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-091"
+  },
+  {
+    "id": 66913,
+    "IDcode": "DNJR-092",
+    "title": "现在只能在屁股上射精-美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "肛交",
+      "巨乳",
+      "手淫",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/680cd2733d32ef6f4664fd050017ba75.jpg",
+    "actress": [
+      "美園和花",
+      "向理来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-092"
+  },
+  {
+    "id": 66794,
+    "IDcode": "DNJR-094",
+    "title": "小悪魔痴女-水卜麻衣奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "荡妇",
+      "M男",
+      "口交",
+      "女生",
+      "单体作品"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水卜麻衣奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-094"
+  },
+  {
+    "id": 168201,
+    "IDcode": "DNJR-099",
+    "title": "性格阴暗不受欢迎的我-百濑明日香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/6841b8250b69f1d8166af885/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-099"
   }
 ];

@@ -1,1710 +1,1892 @@
 window.PAGE_DATA = [
   {
-    "id": 532913,
-    "IDcode": "393OTIM-145",
-    "title": "【过激すぎるヤリマンOL切り抜きまとめ动画】大きい方が好き(嬉)デカチン大好きヤリマンOL恵さん(28歳)ITベ",
+    "id": 541545,
+    "IDcode": "292MY-751",
+    "title": "黒木芽衣 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231123/pb_e_393otim-145.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240224/6XWojDpT/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-145"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-751"
   },
   {
-    "id": 532912,
-    "IDcode": "393OTIM-146",
-    "title": "【过激すぎるヤリマンOL切り抜きまとめ动画】もっと舐めて(照)性欲强すぎヤリマンOL梓さん(24歳)大手通贩会社",
+    "id": 541592,
+    "IDcode": "292MY-752",
+    "title": "佐藤里奈 1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231123/pb_e_393otim-146.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240409/Qldbcx6X/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-752"
   },
   {
-    "id": 541703,
-    "IDcode": "393OTIM-158",
-    "title": "调教紧缚制服美少女お贷しします。仆の妹りほ",
+    "id": 445848,
+    "IDcode": "292MY-753",
+    "title": "佐藤里奈 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230930/pb_e_393otim-158.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/dafd66df9b972fecfbfb6d932b1c1406.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-158"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-753"
   },
   {
-    "id": 502739,
-    "IDcode": "393OTIM-169",
-    "title": "【有码高清】【アヘ颜全开！イキ狂い大絶顶！Fカップ巨乳メガネちゃん！】サクッと抜ける切り抜",
+    "id": 445849,
+    "IDcode": "292MY-754",
+    "title": "最上美香 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/b3dd366328e0796ac15a50370a0e8e9b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-754"
+  },
+  {
+    "id": 541589,
+    "IDcode": "292MY-755",
+    "title": "最上美香 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240409/sUqwH2d9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-755"
+  },
+  {
+    "id": 541590,
+    "IDcode": "292MY-758",
+    "title": "三浦麻耶 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240409/NhkYS8Qz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-758"
+  },
+  {
+    "id": 541591,
+    "IDcode": "292MY-759",
+    "title": "三浦麻耶 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240409/lAUkQ8fn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-759"
+  },
+  {
+    "id": 541593,
+    "IDcode": "292MY-760",
+    "title": "三幸めい 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240411/96zYJs41/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-760"
+  },
+  {
+    "id": 541594,
+    "IDcode": "292MY-761",
+    "title": "三幸めい 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240411/gxMBwqiu/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-761"
+  },
+  {
+    "id": 541596,
+    "IDcode": "292MY-762",
+    "title": "三嶋かれん 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240411/l4ICE6Hd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-762"
+  },
+  {
+    "id": 541595,
+    "IDcode": "292MY-764",
+    "title": "三苫ほのか 1-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240411/TiVQE6HB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-764"
+  },
+  {
+    "id": 445853,
+    "IDcode": "292MY-765",
+    "title": "三苫ほのか 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20250510-1/68144ec17e84c0191814a76715bb50b9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-765"
+  },
+  {
+    "id": 541597,
+    "IDcode": "292MY-767",
+    "title": "秋吉みお 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240412/sx47cVlX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-767"
+  },
+  {
+    "id": 541598,
+    "IDcode": "292MY-768",
+    "title": "小野麻美 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240412/xts0k94Q/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-768"
+  },
+  {
+    "id": 479375,
+    "IDcode": "292MY-771",
+    "title": "小林杏 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/0a22a2694828dfc5af6ce1368e4529a4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-771"
+  },
+  {
+    "id": 445852,
+    "IDcode": "292MY-772",
+    "title": "上原友里 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/74657bc5af9a2b9a408dd195d63168ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-772"
+  },
+  {
+    "id": 541599,
+    "IDcode": "292MY-773",
+    "title": "上原友里 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240412/Kx9EQ7Kv/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-773"
+  },
+  {
+    "id": 445851,
+    "IDcode": "292MY-774",
+    "title": "上島尚子 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/18b8fd1e46de6048354f20436a1f0c6b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-774"
+  },
+  {
+    "id": 541603,
+    "IDcode": "292MY-775",
+    "title": "新垣りか 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240413/JfkMtyXM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-775"
+  },
+  {
+    "id": 541602,
+    "IDcode": "292MY-776",
+    "title": "新垣りか 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240413/6XEggfH6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-776"
+  },
+  {
+    "id": 541606,
+    "IDcode": "292MY-777",
+    "title": "成宫真奈 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240413/xm3H3Q82/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-777"
+  },
+  {
+    "id": 541604,
+    "IDcode": "292MY-779",
+    "title": "西山里穂 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240413/WBoLkuBH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-779"
+  },
+  {
+    "id": 541605,
+    "IDcode": "292MY-781",
+    "title": "西岛沙织 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240413/SFeFENbT/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-781"
+  },
+  {
+    "id": 541607,
+    "IDcode": "292MY-782",
+    "title": "西岛沙织 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240413/w2YGtbBY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-782"
+  },
+  {
+    "id": 541608,
+    "IDcode": "292MY-783",
+    "title": "仓本希 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240414/qrVSMFq2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-783"
+  },
+  {
+    "id": 445884,
+    "IDcode": "292MY-784",
+    "title": "倉本希 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/988d7934733a1086f4ac4d2197a59906.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-784"
+  },
+  {
+    "id": 101419,
+    "IDcode": "292MY-787",
+    "title": "中井のぞみ 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/99021321fcd85d3395e54b0b3de0067e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-787"
+  },
+  {
+    "id": 103776,
+    "IDcode": "292MY-790",
+    "title": "中野夏希 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/fbf1e0000baa45296c6572311d2e6205.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-790"
+  },
+  {
+    "id": 103775,
+    "IDcode": "292MY-791",
+    "title": "東條ひかり 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-791"
+  },
+  {
+    "id": 541609,
+    "IDcode": "292MY-792",
+    "title": "东条ひかり 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240415/3vsiJiQp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-792"
+  },
+  {
+    "id": 445889,
+    "IDcode": "292MY-793",
+    "title": "藤崎りん 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/f4fa2b4dc770aab7b63c590e38d72b62.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-793"
+  },
+  {
+    "id": 414436,
+    "IDcode": "292MY-794",
+    "title": "藤崎りん 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/287de1ddf2e2472d934bc3b127e9632a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-794"
+  },
+  {
+    "id": 511129,
+    "IDcode": "292MY-799",
+    "title": "日乃詩織 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/582c4c96b20324632cb52f8b97694748.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-799"
+  },
+  {
+    "id": 445888,
+    "IDcode": "292MY-800",
+    "title": "日乃詩織 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/a4867b9b6772749df27618788b6737c7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-800"
+  },
+  {
+    "id": 541631,
+    "IDcode": "292MY-801",
+    "title": "片平ゆきの 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240501/XU9qdtLs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-801"
+  },
+  {
+    "id": 541632,
+    "IDcode": "292MY-803",
+    "title": "木岛凉子 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240501/m5dRdwyb/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-803"
+  },
+  {
+    "id": 511115,
+    "IDcode": "292MY-804",
+    "title": "木島涼子 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/3e8f613ebff00f0a096beef048effd97.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-804"
+  },
+  {
+    "id": 445890,
+    "IDcode": "292MY-805",
+    "title": "奥山結衣 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/2b8d828175292545efa6db12caa03a50.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-805"
+  },
+  {
+    "id": 541633,
+    "IDcode": "292MY-806",
+    "title": "奥山结衣 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-806"
+  },
+  {
+    "id": 414434,
+    "IDcode": "292MY-808",
+    "title": "佐野麻美 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/2eda26ed49e4cab2fec9bd519dc16927.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-808"
+  },
+  {
+    "id": 445885,
+    "IDcode": "292MY-809",
+    "title": "糸井麻衣奈 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/bff0420d97bbf4e911db02807c460741.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-809"
+  },
+  {
+    "id": 445893,
+    "IDcode": "292MY-810",
+    "title": "糸井麻衣奈 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/bec509c4be9e4260aa90f8856ea64dc5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-810"
+  },
+  {
+    "id": 445886,
+    "IDcode": "292MY-811",
+    "title": "小川佳奈 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/cbd6e284baed7c6b908e41362fc64c66.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-811"
+  },
+  {
+    "id": 414435,
+    "IDcode": "292MY-814",
+    "title": "水谷飛鳥 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/cbc246d364f78cedb1970f0827ce99b1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-814"
+  },
+  {
+    "id": 541762,
+    "IDcode": "292MY-823",
+    "title": "牧野さつき 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240601/Emlz2nzP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-823"
+  },
+  {
+    "id": 541881,
+    "IDcode": "292MY-824",
+    "title": "牧野さつき 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240703/rRhqAF1m/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-824"
+  },
+  {
+    "id": 541882,
+    "IDcode": "292MY-825",
+    "title": "岬暁子＆及川友美 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240703/u4nSW0l2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-825"
+  },
+  {
+    "id": 541883,
+    "IDcode": "292MY-826",
+    "title": "岬暁子 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240703/B0eKt8NZ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-826"
+  },
+  {
+    "id": 541880,
+    "IDcode": "292MY-828",
+    "title": "泽乃明日香 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240703/oR5NALvn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-828"
+  },
+  {
+    "id": 541892,
+    "IDcode": "292MY-829",
+    "title": "夏木真珠 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240704/jPUTiI0v/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-829"
+  },
+  {
+    "id": 541888,
+    "IDcode": "292MY-830",
+    "title": "夏木真珠 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240704/OiaSzRY2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-830"
+  },
+  {
+    "id": 541889,
+    "IDcode": "292MY-831",
+    "title": "幸坂心音 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240704/tdgRpgha/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-831"
+  },
+  {
+    "id": 541890,
+    "IDcode": "292MY-832",
+    "title": "幸坂心音 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240704/c9HiJ27k/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-832"
+  },
+  {
+    "id": 517067,
+    "IDcode": "292MY-834",
+    "title": "跳舞人妻 三浦環奈 4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690ecfc12a997527cfd29c98/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-834"
+  },
+  {
+    "id": 517089,
+    "IDcode": "292MY-837",
+    "title": "跳舞人妻 上田梨沙子 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/69067d7b71eb543bb0dfcb08/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-837"
+  },
+  {
+    "id": 517168,
+    "IDcode": "292MY-843",
+    "title": "跳舞人妻 本田里緒菜 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0cc0a631cc64eb5b35097/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-843"
+  },
+  {
+    "id": 517147,
+    "IDcode": "292MY-844",
+    "title": "跳舞人妻 本田里緒菜 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f37412d6fbef4e90febea0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-844"
+  },
+  {
+    "id": 407819,
+    "IDcode": "292MY-845",
+    "title": "跳舞人妻 中村夏生 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2d2d5dbf24d4ed31f9bae/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-845"
+  },
+  {
+    "id": 407800,
+    "IDcode": "292MY-846",
+    "title": "跳舞人妻 中村夏生 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e617b5631cc64eb5a1f627/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-846"
+  },
+  {
+    "id": 407900,
+    "IDcode": "292MY-848",
+    "title": "跳舞人妻 瀧川步美 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d855c8d6fbef4e90cd46f0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-848"
+  },
+  {
+    "id": 407935,
+    "IDcode": "292MY-849",
+    "title": "跳舞人妻 岸麻里奈 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d301dfeb67774efbb2d271/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-849"
+  },
+  {
+    "id": 408214,
+    "IDcode": "292MY-929",
+    "title": "桜木琴乃1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8e3917f3b7c929073a992/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-929"
+  },
+  {
+    "id": 408307,
+    "IDcode": "292MY-959",
+    "title": "跳舞人妻 藤原泉1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68995b5155337d7f7bd057a3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-959"
+  },
+  {
+    "id": 408310,
+    "IDcode": "292MY-960",
+    "title": "跳舞人妻 藤原泉2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68995c0a55337d7f7bd0cb5a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-960"
+  },
+  {
+    "id": 59682,
+    "IDcode": "292MY-989",
+    "title": "松下ゆきね1- 那賀崎ゆきね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-989"
+  },
+  {
+    "id": 174799,
+    "IDcode": "292MY-993",
+    "title": "嶋田唯花1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-993"
+  },
+  {
+    "id": 174175,
+    "IDcode": "292MY-994",
+    "title": "嶋田唯花2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/30/77d35c3b/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-994"
+  },
+  {
+    "id": 175029,
+    "IDcode": "292MY-995",
+    "title": "堀江茉日1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-995"
+  },
+  {
+    "id": 174051,
+    "IDcode": "292MY-996",
+    "title": "堀江茉日2-さくらまひる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-996"
+  },
+  {
+    "id": 174632,
+    "IDcode": "292MY-997",
+    "title": "満島ふみの1-沙月ふみの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-997"
+  },
+  {
+    "id": 173394,
+    "IDcode": "292MY-998",
+    "title": "満島ふみの2-沙月ふみの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-998"
+  },
+  {
+    "id": 173607,
+    "IDcode": "292MY-999",
+    "title": "佐藤小春1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=292MY-999"
+  },
+  {
+    "id": 582187,
+    "IDcode": "299EWDX-517",
+    "title": "释放初次恋情期间被压抑的性欲！你可以在我体内射精，所以跟我来吧！ 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa41ef9550e292a786150e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-517"
+  },
+  {
+    "id": 582193,
+    "IDcode": "299EWDX-523",
+    "title": "我遇到了美丽的妻子。她真的吸引了我的目光。一名已婚妇女，婚后第2年，有一个孩子。 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa42359550e292a786150f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=299EWDX-523"
+  },
+  {
+    "id": 507970,
+    "IDcode": "2V1",
+    "title": "CR社区最新流出素人投稿自拍18岁清纯美乳学生妹酒店援交富二代啪啪啪一线天馒头粉穴撸点很高1080P超清",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=2V1"
+  },
+  {
+    "id": 538098,
+    "IDcode": "300MAAN-0039",
+    "title": "10分暗记で全问正解で10万円！目指せJK暗记王！ムッツリJKみわ。暗记中にエッチなお邪魔をするとニヤニヤと微妙",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "巨乳"
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/b0547187caed8a863ab81b78b38c2cc9.jpg",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
+    ],
+    "publish_date": "2021-01-01",
+    "cover_url": "http://15.155250922.com/upload/vod/20240112/pb_e_300maan-039.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-169"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0039"
   },
   {
-    "id": 542484,
-    "IDcode": "393OTIM-186",
-    "title": "未発达で无垢な美少女と性交 かれん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241117/SraXdJm7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-186"
-  },
-  {
-    "id": 542488,
-    "IDcode": "393OTIM-191",
-    "title": "気が狂うほどイキまくる制服美少女と性交 ひなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/lumzCnnn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-191"
-  },
-  {
-    "id": 542489,
-    "IDcode": "393OTIM-192",
-    "title": "気が狂うほどイキまくる制服美少女と性交 あかね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/XDGRtXCT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-192"
-  },
-  {
-    "id": 542491,
-    "IDcode": "393OTIM-193",
-    "title": "気が狂うほどイキまくる制服美少女と性交 まこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/oMP5620f/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-193"
-  },
-  {
-    "id": 542490,
-    "IDcode": "393OTIM-194",
-    "title": "気が狂うほどイキまくる制服美少女と性交 まや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/HdQh4fLJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-194"
-  },
-  {
-    "id": 542493,
-    "IDcode": "393OTIM-195",
-    "title": "【奇迹の爆乳美少女攻略！】絶対に禁止のデリヘルで激カワ风俗嬢と生本番できるマル秘テク伝授",
+    "id": 576078,
+    "IDcode": "300MAAN-0040",
+    "title": "10分暗记で全问正解で10万円！目指せJK暗记王！真面目巨乳JKみのり。“お小遣い月5千円なんです…”赏金见せたら即决参加！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
+      "街头采访",
       "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/VytRQsSr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-195"
-  },
-  {
-    "id": 542492,
-    "IDcode": "393OTIM-196",
-    "title": "【この可爱さ芸能人级！】絶対に禁止のデリヘルで激カワ风俗嬢と生本番できるマル秘テク伝授！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/qRsLRn0F/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-196"
-  },
-  {
-    "id": 542495,
-    "IDcode": "393OTIM-197",
-    "title": "【入れてもイイよ···引き出すテクニック！素股プレイ中に生挿入！】絶対に禁止のデリヘルで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241119/OzMm16vT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-197"
-  },
-  {
-    "id": 542494,
-    "IDcode": "393OTIM-198",
-    "title": "【モデル级美女登场！】絶対に禁止のデリヘルで激カワ风俗嬢と生本番できるマル秘テク伝授！い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241119/WX9TvroJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-198"
-  },
-  {
-    "id": 542496,
-    "IDcode": "393OTIM-199",
-    "title": "【芸能人激似风俗嬢登场！】絶対に禁止のデリヘルで激カワ风俗嬢と生本番できるマル秘テク伝授",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241119/OH7pBRbU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-199"
-  },
-  {
-    "id": 542497,
-    "IDcode": "393OTIM-200",
-    "title": "【絶世美BODYイメクラ嬢！！】絶対に禁止のデリヘルで激カワ风俗嬢と生本番できるマル秘テ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241119/G6ZDCeKQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-200"
-  },
-  {
-    "id": 542498,
-    "IDcode": "393OTIM-201",
-    "title": "纯真无垢な制服美少女と好き放题性交 りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241119/6NxgLSR3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-201"
-  },
-  {
-    "id": 542499,
-    "IDcode": "393OTIM-202",
-    "title": "纯真无垢な制服美少女と好き放题性交 ちはる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241119/BnXggVSe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-202"
-  },
-  {
-    "id": 542500,
-    "IDcode": "393OTIM-203",
-    "title": "纯真无垢な制服美少女と好き放题性交 こと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241119/0U105l22/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-203"
-  },
-  {
-    "id": 542502,
-    "IDcode": "393OTIM-204",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 ひまわり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241120/YvyAwgJ4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-204"
-  },
-  {
-    "id": 542504,
-    "IDcode": "393OTIM-205",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 みさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241120/gMcLeLpP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-205"
-  },
-  {
-    "id": 542509,
-    "IDcode": "393OTIM-206",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 まい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241120/xtizabYR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-206"
-  },
-  {
-    "id": 542505,
-    "IDcode": "393OTIM-207",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 しゅり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241120/7AqFO7N4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-207"
-  },
-  {
-    "id": 542506,
-    "IDcode": "393OTIM-208",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 みれい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241120/6ud0wNDe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-208"
-  },
-  {
-    "id": 542503,
-    "IDcode": "393OTIM-209",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 うらら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241120/u5w3Bvdi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-209"
-  },
-  {
-    "id": 542516,
-    "IDcode": "393OTIM-210",
-    "title": "可爱いコスプレでセックスしよ あい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/EOdtPKYb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-210"
-  },
-  {
-    "id": 542515,
-    "IDcode": "393OTIM-211",
-    "title": "可爱いコスプレでセックスしよ しゅり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/17kUbyg1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-211"
-  },
-  {
-    "id": 542517,
-    "IDcode": "393OTIM-212",
-    "title": "可爱いコスプレでセックスしよ さな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/SMKqzGPy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-212"
-  },
-  {
-    "id": 542514,
-    "IDcode": "393OTIM-213",
-    "title": "可爱いコスプレでセックスしよ あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/XB8oHdLs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-213"
-  },
-  {
-    "id": 542513,
-    "IDcode": "393OTIM-214",
-    "title": "可爱いコスプレでセックスしよ ゆうは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/YrlbQQ08/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-214"
-  },
-  {
-    "id": 542512,
-    "IDcode": "393OTIM-215",
-    "title": "可爱いコスプレでセックスしよ りこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/5VRGkuuF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-215"
-  },
-  {
-    "id": 542518,
-    "IDcode": "393OTIM-218",
-    "title": "生意気メスガキわからせ わい●つ投稿映像 ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/vP4a5GYx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-218"
-  },
-  {
-    "id": 542519,
-    "IDcode": "393OTIM-219",
-    "title": "生意気メスガキわからせ わい●つ投稿映像 かれん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/zQiLZmAn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-219"
-  },
-  {
-    "id": 542520,
-    "IDcode": "393OTIM-221",
-    "title": "生意気メスガキわからせ わい●つ投稿映像 あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/673Jwq1f/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-221"
-  },
-  {
-    "id": 542521,
-    "IDcode": "393OTIM-223",
-    "title": "生意気メスガキわからせ わい●つ投稿映像 ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/odZKsr1R/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-223"
-  },
-  {
-    "id": 542522,
-    "IDcode": "393OTIM-224",
-    "title": "【パリピGALの性欲强すぎる问题大调查！】ヤリマントーーーク！抜ける切り抜きまとめ动画！AI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/kMNhwcEQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-224"
-  },
-  {
-    "id": 542523,
-    "IDcode": "393OTIM-225",
-    "title": "【パリピGALの性欲强すぎる问题大调查！】ヤリマントーーーク！抜ける切り抜きまとめ动画！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241122/iNznyKsi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-225"
-  },
-  {
-    "id": 542524,
-    "IDcode": "393OTIM-226",
-    "title": "【パリピGALの性欲强すぎる问题大调查！】ヤリマントーーーク！抜ける切り抜きまとめ动画！MAYA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/Xl8rlfNO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-226"
-  },
-  {
-    "id": 542525,
-    "IDcode": "393OTIM-227",
-    "title": "【パリピGALの性欲强すぎる问题大调查！】ヤリマントーーーク！抜ける切り抜きまとめ动画！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/0d7qaWoT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-227"
-  },
-  {
-    "id": 542526,
-    "IDcode": "393OTIM-228",
-    "title": "【パリピGALの性欲强すぎる问题大调查！】ヤリマントーーーク！抜ける切り抜きまとめ动画！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/Do9iil69/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-228"
-  },
-  {
-    "id": 542527,
-    "IDcode": "393OTIM-229",
-    "title": "【パリピGALの性欲强すぎる问题大调查！】ヤリマントーーーク！抜ける切り抜きまとめ动画！KANA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/eLmD7klU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-229"
-  },
-  {
-    "id": 542528,
-    "IDcode": "393OTIM-230",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 あい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/0Hxf3sU4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-230"
-  },
-  {
-    "id": 542529,
-    "IDcode": "393OTIM-231",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 みう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/Hqs4mTGO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-231"
-  },
-  {
-    "id": 542530,
-    "IDcode": "393OTIM-232",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 るか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/IAkS3QqT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-232"
-  },
-  {
-    "id": 542531,
-    "IDcode": "393OTIM-233",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241124/fb4gmJsP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-233"
-  },
-  {
-    "id": 542532,
-    "IDcode": "393OTIM-234",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 ゆず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241124/kDkDcfQw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-234"
-  },
-  {
-    "id": 542533,
-    "IDcode": "393OTIM-235",
-    "title": "集団ストーカーによるOLわい●つ投稿映像 ななこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241124/MAmacGeq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-235"
-  },
-  {
-    "id": 542534,
-    "IDcode": "393OTIM-236",
-    "title": "【実录近亲相●ホームビデオ投稿】家庭内交尾の记录 める ゆう·まき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241124/ovxz0gF4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-236"
-  },
-  {
-    "id": 542535,
-    "IDcode": "393OTIM-237",
-    "title": "【実录近亲相●ホームビデオ投稿】家庭内交尾の记录 りほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241124/EvsZPvMh/1.jpg",
+    "publish_date": "2021-01-01",
+    "cover_url": "http://15.155250922.com/upload/vod/20230325/pb_e_300maan-040.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-237"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0040"
   },
   {
-    "id": 542536,
-    "IDcode": "393OTIM-238",
-    "title": "【実录近亲相●ホームビデオ投稿】家庭内交尾の记录 める",
+    "id": 144162,
+    "IDcode": "300MAAN-0131",
+    "title": "因为可爱所以想被欺负巨乳H罩杯S女上司安里29岁令人讨厌的巨乳色情姐姐的超越技术色情训练与DeM部下的性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访",
+      "乱伦",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241124/ilxNB5Fs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-238"
-  },
-  {
-    "id": 542542,
-    "IDcode": "393OTIM-239",
-    "title": "【现役大学生ナマ中出し即金お渡し案件！即ハメAV撮影】お金が欲しいシロウト娘に即ハメ！胜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241125/2EgYn3t2/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/bbbeafa1f92aba6450068472430a8885.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-239"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0131"
   },
   {
-    "id": 542541,
-    "IDcode": "393OTIM-240",
-    "title": "【现役大学生ナマ中出し即金お渡し案件！即ハメAV撮影】お金が欲しいシロウト娘に即ハメ！胜",
+    "id": 144163,
+    "IDcode": "300MAAN-0133",
+    "title": "我喜欢被羞辱如果你想被欺负就来这里凪24真正的S小胸女孩的征服SEX让自称S的男人尝到M快感",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241125/geDrOv6J/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-240"
-  },
-  {
-    "id": 542540,
-    "IDcode": "393OTIM-241",
-    "title": "【现役大学生ナマ中出し即金お渡し案件！即ハメAV撮影】お金が欲しいシロウト娘に即ハメ！胜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241125/B3n5T5Vn/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4a5c9076b71dd70967cf060b8a042cf1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-241"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0133"
   },
   {
-    "id": 542539,
-    "IDcode": "393OTIM-242",
-    "title": "【现役大学生ナマ中出し即金お渡し案件！即ハメAV撮影】お金が欲しいシロウト娘に即ハメ！胜",
+    "id": 144426,
+    "IDcode": "300MAAN-0151",
+    "title": "被抱后7分钟做爱的G罩杯枪男少女因为大奶是笨蛋我很快就会被操摩擦和摩擦散发出压倒性存在的奇迹胸部",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241125/ziAAAhHt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-242"
-  },
-  {
-    "id": 542538,
-    "IDcode": "393OTIM-243",
-    "title": "【现役大学生ナマ中出し即金お渡し案件！即ハメAV撮影】お金が欲しいシロウト娘に即ハメ！胜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241125/XWWFCcrS/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/66df50ed991ffd6a0f45e4a81aaae01f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-243"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0151"
   },
   {
-    "id": 542537,
-    "IDcode": "393OTIM-244",
-    "title": "【现役大学生ナマ中出し即金お渡し案件！即ハメAV撮影】お金が欲しいシロウト娘に即ハメ！胜",
+    "id": 144428,
+    "IDcode": "300MAAN-0155",
+    "title": "一边看家教的AV一边自慰从夜店回家的路上捡到Parisi喝酒喝醉带回家做爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241125/rqm90Qvm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-244"
-  },
-  {
-    "id": 542549,
-    "IDcode": "393OTIM-254",
-    "title": "【隠れ肉食系痴女のお下品SEXをお届け！】このオンナ我慢できない 铃木さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241127/BDLxS6Dn/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/968f2219116128ef2614063ae66a3eef.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-254"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0155"
   },
   {
-    "id": 542548,
-    "IDcode": "393OTIM-255",
-    "title": "【隠れ肉食系痴女のお下品SEXをお届け！】このオンナ我慢できない ゆうりさん",
+    "id": 144427,
+    "IDcode": "300MAAN-0157",
+    "title": "业馀发布视频一个业馀女孩的GachiSEX偷窥视频卖给了她的男朋友REC.1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241127/lzd4fIYF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-255"
-  },
-  {
-    "id": 542547,
-    "IDcode": "393OTIM-256",
-    "title": "【隠れ肉食系痴女のお下品SEXをお届け！】このオンナ我慢できない ゆずさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241127/9NaurIc2/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/06ad1669ae8ed86f2f42828e1581fe72.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-256"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0157"
   },
   {
-    "id": 542546,
-    "IDcode": "393OTIM-257",
-    "title": "【隠れ肉食系痴女のお下品SEXをお届け！】このオンナ我慢できない ひなさん",
+    "id": 144430,
+    "IDcode": "300MAAN-0159",
+    "title": "白皙E罩杯美乳爱服务女人的超级科技爆款长得像泷库苏茹的漂亮女孩的酒吧服务员说我喜欢看到看起来很舒服的脸和热情好客的SEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241127/zE2YX2BM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-257"
-  },
-  {
-    "id": 542545,
-    "IDcode": "393OTIM-258",
-    "title": "纯真无垢な制服美少女と好き放题性交 みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241127/rKLcdZFE/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4e929a063475ae75a66686c62a739bca.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-258"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0159"
   },
   {
-    "id": 542544,
-    "IDcode": "393OTIM-259",
-    "title": "纯真无垢な制服美少女と好き放题性交 るり",
+    "id": 144431,
+    "IDcode": "300MAAN-0160",
+    "title": "请从后面戳...真正的J〇变态制服爱好者的年轻阴道癌攻击SEX穿著制服时会变得角质",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241127/RZeOn8H0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-259"
-  },
-  {
-    "id": 542543,
-    "IDcode": "393OTIM-260",
-    "title": "纯真无垢な制服美少女と好き放题性交 くるみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241127/k3hRVaKH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-260"
-  },
-  {
-    "id": 542557,
-    "IDcode": "393OTIM-261",
-    "title": "【チンカス污チ●ポ媚び媚びご奉仕痴女人妻さん】夫には内绪で不伦性交 さな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/bKGTaBlw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-261"
-  },
-  {
-    "id": 542558,
-    "IDcode": "393OTIM-262",
-    "title": "【チンカス污チ●ポ媚び媚びご奉仕痴女人妻さん】夫には内绪で不伦性交 ゆきね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/DqsjKyib/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-262"
-  },
-  {
-    "id": 542559,
-    "IDcode": "393OTIM-263",
-    "title": "【チンカス污チ●ポ媚び媚びご奉仕痴女人妻さん】夫には内绪で不伦性交 なるみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/gWoEEiEJ/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/715f738a026ad7d0b57f586359db4ab5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-263"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0160"
   },
   {
-    "id": 542556,
-    "IDcode": "393OTIM-264",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 りほ",
+    "id": 144429,
+    "IDcode": "300MAAN-0161",
+    "title": "业馀发布视频一个业馀女孩的GachiSEX偷窥视频卖给了她的男朋友REC.2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241128/WOOdhSGW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-264"
-  },
-  {
-    "id": 542555,
-    "IDcode": "393OTIM-265",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 まいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241128/95yWrqwK/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c7c3d6657556f0a44a87f8163021b9e1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-265"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0161"
   },
   {
-    "id": 542554,
-    "IDcode": "393OTIM-266",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 ゆきね",
+    "id": 144432,
+    "IDcode": "300MAAN-0162",
+    "title": "很大不是吗作为后方朋友的两个业馀大学生互相自慰为了钱和男朋友发生性关系",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241128/GhCtcrhk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-266"
-  },
-  {
-    "id": 542550,
-    "IDcode": "393OTIM-267",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241128/HuPArxKF/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b670bf2b39e49fc72247e75469c95b61.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-267"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0162"
   },
   {
-    "id": 542551,
-    "IDcode": "393OTIM-268",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 えみ",
+    "id": 144433,
+    "IDcode": "300MAAN-0163",
+    "title": "黑色gal色情好屁股怪物最好的婊子gal的绝妙景色",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241128/p7yCXLDV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-268"
-  },
-  {
-    "id": 542552,
-    "IDcode": "393OTIM-269",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 まりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241128/38uW3iZ0/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f9954ee6a8a2e612ecd001fe554cbfe4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-269"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0163"
   },
   {
-    "id": 542553,
-    "IDcode": "393OTIM-270",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 ゆい",
+    "id": 144434,
+    "IDcode": "300MAAN-0164",
+    "title": "请把它放进我的嘴里加入酒精后变得色情的角质丰满的年轻妻子的醉酒疯狂外记壹岐SEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241128/Pq07wNOq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-270"
-  },
-  {
-    "id": 542560,
-    "IDcode": "393OTIM-271",
-    "title": "【孕ませられたセーラー服美少女】オチ●ポ媚び媚びお下品性交 ゆうな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/KfLxSpId/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/6810f015f48b5e09a78f061ce69781e7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-271"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0164"
   },
   {
-    "id": 542561,
-    "IDcode": "393OTIM-272",
-    "title": "【孕ませられたセーラー服美少女】オチ●ポ媚び媚びお下品性交 りおな",
+    "id": 144435,
+    "IDcode": "300MAAN-0165",
+    "title": "这很尴尬但我要自己动手作为后方朋友的两个业馀大学生正在互相自慰我和我的前辈发生性关系因为我想要钱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/VU1dJYJq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-272"
-  },
-  {
-    "id": 542562,
-    "IDcode": "393OTIM-273",
-    "title": "【孕ませられたセーラー服美少女】オチ●ポ媚び媚びお下品性交 はるな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/r0nwwm5f/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/72a958244ec3caa2041606894ae579f1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-273"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0165"
   },
   {
-    "id": 542563,
-    "IDcode": "393OTIM-274",
-    "title": "【孕ませられたセーラー服美少女】オチ●ポ媚び媚びお下品性交 みゆき",
+    "id": 144436,
+    "IDcode": "300MAAN-0166",
+    "title": "我想舔肛门通过用紧实而精湛的身体喷洒自然白痴的连续高潮SEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241129/qiEVcAgp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-274"
-  },
-  {
-    "id": 542564,
-    "IDcode": "393OTIM-275",
-    "title": "污チ●ポ大好き 媚び媚びジュボジュボ口淫ご奉仕メイド ドスケベ淫语嗫きフルコース れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/PurWM5Qm/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4ae5a69f3e8fd2fe546dc8f9cad44c12.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-275"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0166"
   },
   {
-    "id": 542565,
-    "IDcode": "393OTIM-276",
-    "title": "污チ●ポ大好き 媚び媚びジュボジュボ口淫ご奉仕メイド ドスケベ淫语嗫きフルコース みひな",
+    "id": 144437,
+    "IDcode": "300MAAN-0168",
+    "title": "业馀发布视频一个业馀女孩的GachiSEX偷窥视频卖给了她的男朋友REC.3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/Nmdr9UDX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-276"
-  },
-  {
-    "id": 542566,
-    "IDcode": "393OTIM-277",
-    "title": "污チ●ポ大好き 媚び媚びジュボジュボ口淫ご奉仕メイド ドスケベ淫语嗫きフルコース ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/COPk8Yba/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/a03e27b7507074356f777d4165772901.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-277"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0168"
   },
   {
-    "id": 542567,
-    "IDcode": "393OTIM-278",
-    "title": "青春制服娘と下品な中出し性交 みく",
+    "id": 144438,
+    "IDcode": "300MAAN-0169",
+    "title": "我想被问更多我想做更多H与我的男朋友不同的SEX兴奋兴奋的Takishio喷气机好屁股大学生的醉酒角质性用另一根棍子消除欲望",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/NKfVNH3K/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-278"
-  },
-  {
-    "id": 542568,
-    "IDcode": "393OTIM-279",
-    "title": "青春制服娘と下品な中出し性交 あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/jvrbJqmV/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/6b247e406d4b6ae0ec66fe9e39b36bc1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-279"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0169"
   },
   {
-    "id": 542569,
-    "IDcode": "393OTIM-280",
-    "title": "青春制服娘と下品な中出し性交 ひなこ",
+    "id": 144439,
+    "IDcode": "300MAAN-0170",
+    "title": "不要停止......更多Hanikami一个可爱的女孩的酒吧服务员带著可爱的微笑热爱性在居酒屋敬酒的敏感MajiikiSEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/krIE8494/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-280"
-  },
-  {
-    "id": 542574,
-    "IDcode": "393OTIM-281",
-    "title": "チンカス污チ●ポ媚び媚びご奉仕痴女人妻さん 夫には内绪で不伦性交 リカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241201/AxGXdtSn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-281"
-  },
-  {
-    "id": 542573,
-    "IDcode": "393OTIM-282",
-    "title": "チンカス污チ●ポ媚び媚びご奉仕痴女人妻さん 夫には内绪で不伦性交 スミレ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241201/7agl5Pz0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-282"
-  },
-  {
-    "id": 542572,
-    "IDcode": "393OTIM-283",
-    "title": "チンカス污チ●ポ媚び媚びご奉仕痴女人妻さん 夫には内绪で不伦性交 みわ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241201/E4rwm0zN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-283"
-  },
-  {
-    "id": 542571,
-    "IDcode": "393OTIM-284",
-    "title": "30cm马并みディルドに完全败北！おほ声媚び媚び鬼キメセク ポルチオ＆●淫状态で…ガンギ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241201/bb7pJP90/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/e87313ab670f9a952d2d29f661d91bc4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-284"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0170"
   },
   {
-    "id": 542570,
-    "IDcode": "393OTIM-286",
-    "title": "30cm马并みディルドに完全败北！おほ声媚び媚び鬼キメセク ポルチオ＆●淫状态で…ガンギ",
+    "id": 144440,
+    "IDcode": "300MAAN-0171",
+    "title": "我不能满足于只是妄想和手指自慰完全开放的性欲感觉比我老公好",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241201/KbZWD2qM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-286"
-  },
-  {
-    "id": 542575,
-    "IDcode": "393OTIM-287",
-    "title": "家无き娘买います あい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241201/jI98cnIg/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f0d3b8331991d062ec0a7975a9c30e19.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-287"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0171"
   },
   {
-    "id": 542578,
-    "IDcode": "393OTIM-288",
-    "title": "家无き娘买います ひまわり",
+    "id": 144441,
+    "IDcode": "300MAAN-0172",
+    "title": "对大家都好两个身为后方朋友的业馀大学生正在互相手淫悸动为了钱和同学发生性关系",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/oVwWZj2H/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-288"
-  },
-  {
-    "id": 542579,
-    "IDcode": "393OTIM-289",
-    "title": "家无き娘买います かえで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/BGmGLssr/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/777d5a7f941eb2ad0065f70225a53515.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-289"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0172"
   },
   {
-    "id": 542576,
-    "IDcode": "393OTIM-290",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 まや",
+    "id": 144442,
+    "IDcode": "300MAAN-0174",
+    "title": "感人......性感文门美女女大学生来自年轻男孩的Motemote眼睛被钉在美丽的身体上当想要敏感的Mako脱下时似乎柔软崩溃理智并插入自己本能地禁止与男朋友的朋友发生性关系",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/E5HqlVsa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-290"
-  },
-  {
-    "id": 542577,
-    "IDcode": "393OTIM-291",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 ゆあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/fkhIDVUY/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b67a98067ee21768f488eaa8a26224a5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-291"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0174"
   },
   {
-    "id": 542582,
-    "IDcode": "393OTIM-292",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 まや",
+    "id": 144443,
+    "IDcode": "300MAAN-0176",
+    "title": "业馀发布视频一个业馀女孩的GachiSEX偷窥视频卖给了她的男朋友REC.4",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/xf8yt6RV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-292"
-  },
-  {
-    "id": 542581,
-    "IDcode": "393OTIM-293",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/cvkjS4Mh/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/1b09e0e08a00944443b88603dcb59c43.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-293"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0176"
   },
   {
-    "id": 542580,
-    "IDcode": "393OTIM-294",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 あおい",
+    "id": 144444,
+    "IDcode": "300MAAN-0179",
+    "title": "我得到了很多我在男朋友的要求下拿起了一个galJD与一个deM金枪鱼男朋友发生性关系很痛苦并且我想做正常的性行为兴奋的Bichoman身体扭曲和狂欢感觉很好不停蚀刻仍然很舒服",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/jfMSAiYX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-294"
-  },
-  {
-    "id": 542583,
-    "IDcode": "393OTIM-295",
-    "title": "集団ストーカーによるOLわ●せつ投稿映像 すず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241202/ZISOuC7J/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/65bf5768e2476c5baf1bd02a9ca4c9a3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-295"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0179"
   },
   {
-    "id": 542584,
-    "IDcode": "393OTIM-296",
-    "title": "就职活动FILE みさきさん(仮名)",
+    "id": 57936,
+    "IDcode": "300MAAN-0181",
+    "title": "街上搭讪的妹纸吃完一起啪啪",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241203/tA9I7j7r/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-296"
-  },
-  {
-    "id": 542585,
-    "IDcode": "393OTIM-297",
-    "title": "就职活动FILE かなさん(仮名)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241203/wd8E2RHh/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/c7b3794df24630e91342240c25875c47.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-297"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0181"
   },
   {
-    "id": 542586,
-    "IDcode": "393OTIM-298",
-    "title": "就职活动FILE みさきさん(仮名)",
+    "id": 144445,
+    "IDcode": "300MAAN-0185",
+    "title": "能脱下来吗搭配酒友app关西方言少女魅力点是眼睛喜欢动漫动漫歌曲pachislot恶魔积累期间错过末班车零意愿全身性感区敏感体质",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "街头采访"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241203/po5fmLFJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-298"
-  },
-  {
-    "id": 542587,
-    "IDcode": "393OTIM-299",
-    "title": "就职活动FILE ゆきねさん(仮名)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DOC",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DOC",
+        "works_count": 854
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241203/0r9GbWah/1.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/05f03c1611f1333f69f819dc1954ebf0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=393OTIM-299"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0185"
   }
 ];

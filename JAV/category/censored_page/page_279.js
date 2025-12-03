@@ -1,3603 +1,2334 @@
 window.PAGE_DATA = [
   {
-    "id": 170300,
-    "IDcode": "MIAA863C",
-    "title": "世話好きで優しいJカップ看護師が傷心のボクを救ってくれた抜かずの没頭ナマハメ2う4発",
+    "id": 531776,
+    "IDcode": "BLK-028",
+    "title": "blk00028 kira☆kira BLACK GAL 即ハメ超泥●GAL☆DRUNKING FUCK 麻木りあ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250310-1/0e525e94fbb71189e684d8139e80d370.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/f694622907fb3e6448740acfb82a0f9c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA863C"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-028"
   },
   {
-    "id": 170242,
-    "IDcode": "MIAA864C",
-    "title": "不倫中の担当ナースを退院までの一週間、口止め料精飲ご奉仕さうせた",
+    "id": 536210,
+    "IDcode": "BLK-033",
+    "title": "kira☆kira BLACK GAL DOUBLE黒GAL女子校生 ～学校のエロ不思议！缲り返す闷絶アクメ～",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
-    "company": "",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250310-1/202a4da7d03a6b7afd11b9d85829105a.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230514/blk033pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA864C"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-033"
   },
   {
-    "id": 170925,
-    "IDcode": "MIAA865",
-    "title": "「私と一緒に尻トレしよ」肉尻揺らして誘惑する汗だくデカ尻トレーナーの腰振りで10発射精さ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250610-1/8b66d1ca8fd6b925160aaec7667619c1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA865"
-  },
-  {
-    "id": 170243,
-    "IDcode": "MIAA865C",
-    "title": "「私と一緒に尻トレしよ」肉尻揺らして誘惑する汗だくデカ尻トレーナーの腰振りで10発射う精さ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250310-1/95cf39451f23ca3e3419d75870cac526.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA865C"
-  },
-  {
-    "id": 170241,
-    "IDcode": "MIAA870CFIRSTLOVE",
-    "title": "初恋恋人が出来ていた初恋の元カノと東京で再会した日から、時間をう忘れ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250310-1/47d285e487b0589a81d3d48234441e00.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA870CFIRSTLOVE"
-  },
-  {
-    "id": 170301,
-    "IDcode": "MIAA873C",
-    "title": "中出しおねだり潮吹きま〇こになるまで媚薬とねっちょりピストン調教し続けた7日間4015う回強",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250310-1/b31b8cc31561943251c3b23c457dcd13.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA873C"
-  },
-  {
-    "id": 170299,
-    "IDcode": "MIAA878C",
-    "title": "「処女じゃなくてごめんね」彼女との初SEX直後に過去の性体験を尋ねたら元カレとのマゾ調う教チ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250311-1/a962e995144dc01c67fd46da5a7275da.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA878C"
-  },
-  {
-    "id": 170247,
-    "IDcode": "MIAA879C",
-    "title": "俺の彼女を一晩貸すから、お前の彼女を一晩貸してくれないか？大学の先輩とほんの遊びのつうもり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250311-1/d068a696613089cc4f444e34d2607fe0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA879C"
-  },
-  {
-    "id": 170246,
-    "IDcode": "MIAA886C",
-    "title": "献身フェラとおま〇こ看護でひたすら吐精させる即尺即ズボ痴女ナース極楽入院9発射精＆う男潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250311-1/dffe4349155e18ac3f41dff8257912bc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA886C"
-  },
-  {
-    "id": 170245,
-    "IDcode": "MIAA910C",
-    "title": "立場逆転M性感で会った女王様はいつもセクハラしていた後輩部下鬼亀頭責め、悶絶するうまで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250311-1/05981dd25b64032139a5b1352a7acbb8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA910C"
-  },
-  {
-    "id": 170868,
-    "IDcode": "MIAA933",
-    "title": "ナチュラル剛毛おま〇こでリアル性教育！クンニでイカセたらご褒美ナマ中出し筆おろし",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250610-1/72e8f795b517e49effab9601c6a5e9e3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA933"
-  },
-  {
-    "id": 170872,
-    "IDcode": "MIAA934",
-    "title": "どちらが俺にとって最高の愛人か競い合え",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250610-1/55568f15f0ef16952fcd44b5063d514b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA934"
-  },
-  {
-    "id": 18031,
-    "IDcode": "MIAB-007",
-    "title": "性感淫蕩的熟女阿姨們20年來首次重聚，淫蕩的一天從口交一直讓你無限制的體內射精",
+    "id": 531775,
+    "IDcode": "BLK-052",
+    "title": "blk00052 kira☆kira BLACK GAL RESORT Gcup极エロ爆乳☆黒GAL青奸露出 ERIKA",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫亂",
-      "風俗夜場",
-      "蕩婦",
-      "熟女",
-      "舔陰",
-      "中出",
-      "口交",
-      "羞恥",
-      "多P",
-      "企畫",
-      "紀錄片",
-      "劇情",
-      "亂交 • 群P",
-      "女優訪談"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/4e4f501d-1f55-43cd-85fd-0ecd0675d03e.jpg",
-    "actress": [
-      "葵百合香",
-      "小早川怜子",
-      "翔田千里",
-      "山瀬美紀",
-      "輝大"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-007"
-  },
-  {
-    "id": 18034,
-    "IDcode": "MIAB-008",
-    "title": "喜歡的女孩被社團部員集體輪姦 連續中出到精液逆流",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "飯店",
-      "JK校服",
-      "手指插入",
-      "羞恥",
-      "舔陰",
-      "中出",
-      "口交",
-      "制服",
-      "多P",
-      "凌辱",
-      "深喉",
-      "美少女",
-      "劇情",
-      "亂交 • 群P",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/1cb77204-2547-443f-b70a-ab75de90f014.jpg",
-    "actress": [
-      "柏木小夏",
-      "南佳也",
-      "ハカー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-008"
-  },
-  {
-    "id": 17756,
-    "IDcode": "MIAB-009",
-    "title": "对体罚黑道家儿子的我的复仇-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "手指插入",
-      "女教師",
-      "劇情",
-      "淫亂",
-      "黑絲",
-      "中出",
-      "黑幫",
-      "多P",
-      "刺青紋身",
-      "絕頂高潮",
-      "媚藥・迷藥",
-      "猥褻穿著",
-      "抹油",
-      "輪姦",
-      "性感",
-      "眼鏡",
-      "繼母",
-      "羞恥",
-      "口交",
-      "凌辱",
-      "乱伦",
-      "強姦"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/fb13ca7c988d38de2d44fd3f1246145e.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-009"
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/4db6fc68b42b2620068d069ef7efd517.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-052"
   },
   {
-    "id": 92209,
-    "IDcode": "MIAB-013",
-    "title": "校則違反ミニスカJ系ギャルをスクワット説教！ またがり空気椅子で勃起チ〇ポを押し付けパンツ布越しブッ刺し突き上げ騎乗位で分からせてヤった！ 斎藤あみり （BOD）",
+    "id": 556723,
+    "IDcode": "BLK-165",
+    "title": "晒黑的黑 Gal 独家首秀 极度色情 精致风格他妈的 体内射精 FUCK Alice Shibuya - 涩谷ありす",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/311f0e6300e13849eb9425ca8b9bd309.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-165"
+  },
+  {
+    "id": 522892,
+    "IDcode": "BLK-178",
+    "title": "波多野结衣- kira★kira BLACK GALスケベな黒ギャルが汗臭い男子寮に潜入！痴汉、强奸、夜这いで精力のありそうな性処理男を捕まえオマ○コでザーメン榨取连続ナマ奸中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250328/2rNAf6w9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-178"
+  },
+  {
+    "id": 591049,
+    "IDcode": "BLK-185",
+    "title": "[blk00185]kira☆kiraサマーフェスタ2014 BLACK GAL BEACH RESORT逆レ●プ★爆乳Hcup黒ギャル青奸ナマ中出し常夏BEACH FUCK 仓多まお",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女生",
-      "女上位",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230620-1/3216b058fd51d2cda6c554d4ee2e9063.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-185"
+  },
+  {
+    "id": 467948,
+    "IDcode": "BLK-186",
+    "title": "kira☆kira夏季嘉年華2014 BLACK GAL BEACH RESORT-夏祭特別編-逆痴漢★美巨乳黑辣妹成為玩物強拉生姦中出野外海灘性愛 濱崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "痴汉",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59d7bcf22ae3e0418df36/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-186"
+  },
+  {
+    "id": 467880,
+    "IDcode": "BLK-193",
+    "title": "kira★kira BLACK GAL DEBUT 日曬黑辣妹專屬出道 馬上抽插青姦露出生姦中出 EMIRI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1966cf22ae3e0427d29b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-193"
+  },
+  {
+    "id": 467879,
+    "IDcode": "BLK-194",
+    "title": "kira★kira BLACK GAL 黑辣妹青姦露出-在灼熱太陽下可愛羅莉潮吹中出- May",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1967cf22ae3e0427d29c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-194"
+  },
+  {
+    "id": 467877,
+    "IDcode": "BLK-195",
+    "title": "kira★kira BLACK GAL 涉谷愛麗絲黑辣妹粉絲感謝祭-對素人男性服侍！對著日常受到照顧的小穴抽插中出性愛- 涉谷愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1952cf22ae3e0427d299/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-195"
+  },
+  {
+    "id": 467878,
+    "IDcode": "BLK-198",
+    "title": "kira★kira BLACK GAL 超可愛黑辣妹野外露出生姦中出★FUCK ON THE BEACH 真野優莉亞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1952cf22ae3e0427d29a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-198"
+  },
+  {
+    "id": 75504,
+    "IDcode": "BLK-208",
+    "title": "F罩杯大胸黝黑gal女高中生-爱实丽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
       "无码破解",
       "中出",
-      "屁股",
-      "高中女生",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240724-1/a7b6dd0e78ed2e4796f4f6ea33b5bd84.jpg",
-    "actress": [
-      "田渊正浩",
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-013"
-  },
-  {
-    "id": 17753,
-    "IDcode": "MIAB-022",
-    "title": "露出诱惑促销术-新井莉玛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "身體換業務",
-      "黑絲",
-      "NTR",
-      "出軌",
-      "兔女郎妝扮",
-      "角色扮演",
-      "猥褻穿著",
-      "女上位",
-      "舔陰",
-      "中出",
-      "女業務",
-      "口交",
-      "COSPLAY服飾",
-      "性感",
-      "苗條",
-      "劇情",
-      "上門推銷"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/fcf2506b832177ffea6e15cc78f3e8bb.jpg",
-    "actress": [
-      "新井里真",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-022"
-  },
-  {
-    "id": 17754,
-    "IDcode": "MIAB-025",
-    "title": "超豪華中出專用肥皂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "按摩女郎",
-      "猥褻穿著",
-      "抹油",
-      "中出",
-      "口交",
-      "按摩・物理治療・美容",
-      "泡泡浴店",
-      "性感",
-      "水療・泡泡浴",
-      "按摩・美容店",
-      "風俗娘",
-      "內衣"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "2023-11-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231118/20231118093528166166.jpg",
-    "actress": [
-      "明日見未来",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-025"
-  },
-  {
-    "id": 17492,
-    "IDcode": "MIAB-026",
-    "title": "把无家可归女带到房间里-渚美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "叛逆少女",
-      "中出",
-      "輪姦",
-      "美少女電影",
-      "凌辱",
-      "多P",
-      "深喉",
-      "大小姐",
-      "美少女",
-      "劇情",
-      "亂交 • 群P",
-      "女學生",
-      "殘忍畫面"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240102-1/21aa58204a16cdafe3bcbbe29d3551f5.jpg",
-    "actress": [
-      "渚光希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-026"
-  },
-  {
-    "id": 17757,
-    "IDcode": "MIAB-027",
-    "title": "目击到公司里最可爱的部下走光-仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑絲",
-      "女同事",
-      "戀物癖",
-      "猥褻穿著",
-      "中出",
-      "口交",
-      "加班",
-      "局部特寫",
-      "制服",
-      "OL",
-      "凌辱",
-      "辦公室",
-      "劇情",
-      "羞恥",
-      "性騷擾"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/5522753b8e76aab99555b1879e3d47e2.jpg",
-    "actress": [
-      "倉本菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-027"
-  },
-  {
-    "id": 17758,
-    "IDcode": "MIAB-028",
-    "title": "轮奸堕落的借款妻子-田中ねね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "黑絲",
-      "欠債肉償",
-      "NTR",
-      "出軌",
-      "人妻",
-      "乳交",
-      "中出",
-      "口交",
-      "多P",
-      "巨乳",
-      "劇情",
-      "亂交 • 群P"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/0472406c0a604f21386a450307f2b7b7.jpg",
-    "actress": [
-      "田中寧寧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-028"
-  },
-  {
-    "id": 17493,
-    "IDcode": "MIAB-036",
-    "title": "甜美系女友-响乃歌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "蕩婦",
-      "女上位",
-      "中出",
-      "口交",
-      "美少女電影",
-      "蠻橫嬌羞",
-      "劇情"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240102-1/7d2c99ab02b1e2de98f4ca149ac95292.jpg",
-    "actress": [
-      "響乃詩",
-      "タツ",
-      "日比野歌"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-036"
-  },
-  {
-    "id": 17491,
-    "IDcode": "MIAB-039",
-    "title": "175cm逆兔女郎ー风俗-佐野ゆま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "風俗夜場",
-      "按摩女郎",
-      "兔女郎妝扮",
-      "胸控・戀乳癖",
-      "蕩婦",
-      "乳交",
-      "中出",
-      "口交",
-      "按摩・物理治療・美容",
-      "泡泡浴店",
-      "性感",
-      "艷遇",
-      "巨乳",
-      "劇情",
-      "按摩・美容店",
-      "風俗娘",
-      "脚控・戀足癖"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/26/058b628b3207ad788800fe9194d90880.jpg",
-    "actress": [
-      "佐野由真",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-039"
-  },
-  {
-    "id": 17760,
-    "IDcode": "MIAB-041",
-    "title": "久违的SEX之后-月乃露娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "接吻",
-      "中出",
-      "夫妻",
-      "口交",
-      "性感",
-      "巨尻",
-      "劇情"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/aa4d43a72e030fc1128ad3f9ec4c4bbe.jpg",
-    "actress": [
-      "月乃露娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-041"
-  },
-  {
-    "id": 35281,
-    "IDcode": "MIAB-043",
-    "title": "我的性癖输给了美腿女上司的不穿内裤丝袜挑衅-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "单体作品",
-      "荡妇",
-      "中出"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/213622f0/vod.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-043"
-  },
-  {
-    "id": 17484,
-    "IDcode": "MIAB-044",
-    "title": "因为生理期而被男友劈腿-月乃露娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "蕩婦",
-      "吞精",
-      "口交",
-      "美少女電影",
-      "苗條"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/25/034c3e406f9ddd84390b735a8538e7fe.jpg",
-    "actress": [
-      "月乃露娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-044"
-  },
-  {
-    "id": 17490,
-    "IDcode": "MIAB-045",
-    "title": "被痴汉触碰到私处-天川空",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑絲",
-      "女教師",
-      "中出",
-      "電車",
-      "制服",
-      "深喉",
-      "多P",
-      "劇情",
-      "羞恥",
-      "性騷擾"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/25/6d7e3d0d570aef8c06e989705962ee9c.jpg",
-    "actress": [
-      "天川空"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-045"
-  },
-  {
-    "id": 92212,
-    "IDcode": "MIAB-052",
-    "title": "身材超级精致的女上司-佐野ゆま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "淫乱，真实",
       "巨乳",
       "单体作品",
-      "荡妇"
+      "高中女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
     "publish_date": "",
-    "cover_url": "/upload/vod/20240109-1/fd78b13d3a808631487162b8b59a6632.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "佐野由真"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-052"
-  },
-  {
-    "id": 92216,
-    "IDcode": "MIAB-054",
-    "title": "无内诱惑我的淫乱人妻-末广纯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "出轨",
-      "人妻",
-      "中出",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240118-1/b6df0ba4d308ac5e17ad3ba7a4190377.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-054"
-  },
-  {
-    "id": 17238,
-    "IDcode": "MIAB-057",
-    "title": "漏液痴汉电车-仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "放尿",
-      "美臀",
-      "潮吹",
-      "JK校服",
-      "美乳",
-      "巴士",
-      "少女",
-      "強姦",
-      "露出",
-      "中出",
-      "電車",
-      "美腳",
-      "美少女電影",
-      "制服",
-      "苗條",
-      "劇情",
-      "女學生",
-      "後入"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240118-1/b540018eb41591f2723f59f493f15503.jpg",
-    "actress": [
-      "倉本菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-057"
-  },
-  {
-    "id": 17012,
-    "IDcode": "MIAB-066",
-    "title": "对美白人妻的贴身诊察-末广纯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "變態",
-      "中出",
-      "口交",
-      "誘騙女性",
-      "醫院・診所",
-      "劇情",
-      "羞恥",
-      "性騷擾"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/6b852afc159ca2b261ae7aeb88617a90.jpg",
-    "actress": [
-      "末広純"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-066"
-  },
-  {
-    "id": 17011,
-    "IDcode": "MIAB-067",
-    "title": "淫乱后辈却每晚和炮友欢愉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "雙飛",
-      "NTR",
-      "奇聞趣事",
-      "中出",
-      "兩女一男",
-      "女友・妻子",
-      "口交",
-      "多P",
-      "巨乳",
-      "劇情",
-      "亂交 • 群P",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/c9da9dc1fdaff401f456e008f79c959b.jpg",
-    "actress": [
-      "百永纱里奈",
-      "若宮穂乃",
-      "黑川纱里奈",
-      "若宫穂乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-067"
-  },
-  {
-    "id": 17009,
-    "IDcode": "MIAB-068",
-    "title": "三穴中出OK-RUI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "風俗夜場",
-      "兔女郎妝扮",
-      "性感",
-      "劇情",
-      "風俗娘"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240131-1/df1bf34076e34f2a8b6c10b640af88a1.jpg",
-    "actress": [
-      "妃月るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-068"
-  },
-  {
-    "id": 17006,
-    "IDcode": "MIAB-071",
-    "title": "呼吸被夺走-五日市芽依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "女同事",
-      "NTR",
-      "出軌",
-      "接吻",
-      "出差",
-      "中出",
-      "口交",
-      "艷遇",
-      "深喉",
-      "巨乳",
-      "勾引・誘惑",
-      "劇情",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/83da2097489f94228e5961f4086d780e.jpg",
-    "actress": [
-      "五日市芽依",
-      "ハカー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-071"
-  },
-  {
-    "id": 17004,
-    "IDcode": "MIAB-072",
-    "title": "美人空姐-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑絲",
-      "拜金女",
-      "蕩婦",
-      "形象俱樂部",
-      "中出",
-      "口交",
-      "性感",
-      "制服",
-      "多P",
-      "空姐",
-      "劇情",
-      "亂交 • 群P"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/f188fe4f1caf2075ede4526b368a87e3.jpg",
-    "actress": [
-      "森日向子",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-072"
-  },
-  {
-    "id": 17010,
-    "IDcode": "MIAB-073",
-    "title": "兼职NTR-新井莉玛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "職員",
-      "NTR",
-      "便利商店",
-      "淫妻",
-      "中出",
-      "口交",
-      "巨乳",
-      "美少女",
-      "劇情",
-      "女學生",
-      "性騷擾"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/5dfc7ef5e412ac3d2e56ed5a4d862767.jpg",
-    "actress": [
-      "新井里真",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-073"
-  },
-  {
-    "id": 15471,
-    "IDcode": "MIAB-080",
-    "title": "变成啃老族的奶精狂-倉本すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "少女",
-      "中出",
-      "美少女",
-      "苗條",
-      "顏射",
-      "內衣",
-      "絕頂高潮",
-      "自宅",
-      "潮吹",
-      "姐姐・妹妹",
-      "性感",
-      "後入",
-      "亂倫",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/cc2e3573918e9d709d39c2143597fd12.jpg",
-    "actress": [
-      "倉本菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-080"
-  },
-  {
-    "id": 16470,
-    "IDcode": "MIAB-086",
-    "title": "水果派长腿骚护士美脚喂结狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "女上位",
-      "淫語",
-      "少女",
-      "乳交",
-      "中出",
-      "護士制服",
-      "打手槍",
-      "美少女",
-      "苗條",
-      "護士",
-      "潮吹",
-      "胸控・戀乳癖",
-      "抹油",
-      "性感",
-      "巨乳",
-      "口交",
-      "按摩・物理治療・美容",
-      "醫院・診所",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250201-1/084fd849470d95774f43574e9d246f92.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-086"
-  },
-  {
-    "id": 16784,
-    "IDcode": "MIAB-089",
-    "title": "學生會長被輪奸，幫我的學生會長被惡霸逼喝利尿劑……當衆失禁高潮，雙腿顫抖……",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "JK校服",
-      "美乳",
-      "學校",
-      "導尿",
-      "手指插入",
-      "按摩棒",
-      "中出",
-      "口交",
-      "輪姦",
-      "制服",
-      "多P",
-      "巨乳",
-      "美少女",
-      "苗條",
-      "騎乗位",
-      "女學生",
-      "後入"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "2024-01-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084639619619.jpg",
-    "actress": [
-      "響乃詩",
-      "大村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-089"
-  },
-  {
-    "id": 16471,
-    "IDcode": "MIAB-094",
-    "title": "美丽OL女上司的下流性行为-弥生美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "短裙・迷你裙",
-      "美乳",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美腿",
-      "乳交",
-      "按摩棒",
-      "中出",
-      "美少女",
-      "苗條",
-      "性感",
-      "女上司",
-      "巨乳",
-      "辦公室",
-      "跳蛋",
-      "羞恥",
-      "舔陰",
-      "口交",
-      "OL",
-      "制服",
-      "勾引・誘惑",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240225-1/67d712bf2b1e41174843eac5d2ab92ba.jpg",
-    "actress": [
-      "彌生美月",
+      "蓝井优太",
       "鲛岛",
-      "タイ",
-      "弥生美月"
+      "爱実れい"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-208"
   },
   {
-    "id": 16472,
-    "IDcode": "MIAB-102",
-    "title": "把下药后睡着的女儿-皆月光",
+    "id": 575488,
+    "IDcode": "BLK-224",
+    "title": "日焼け黒ギャル専属デビュー全身敏感ビッ第01集",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "女上位",
-      "少女",
-      "按摩棒",
-      "中出",
-      "美少女",
-      "苗條",
-      "JK校服",
-      "女兒",
-      "母女",
-      "性感",
-      "巨乳",
-      "口爆",
-      "舔陰",
-      "口交",
-      "制服",
-      "乱伦",
-      "騎乗位"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "MOODYZ",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
     "publish_date": "",
-    "cover_url": "/upload/vod/20240225-1/b169b32224128aa2f2172647881fafba.jpg",
-    "actress": [
-      "皆月光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-102"
-  },
-  {
-    "id": 16245,
-    "IDcode": "MIAB-108",
-    "title": "老公出差中-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "吞精",
-      "女上位",
-      "熟女",
-      "亂交 • 群P",
-      "中出",
-      "不倫",
-      "內衣",
-      "潮吹",
-      "出軌",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "口爆",
-      "口交",
-      "OL",
-      "情趣飯店",
-      "勾引・誘惑",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/03d92983d9a8e61e6f72b591ef37b0dd.jpg",
-    "actress": [
-      "森澤佳奈",
-      "ナイアガラ翔"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-108"
-  },
-  {
-    "id": 16788,
-    "IDcode": "MIAB-109",
-    "title": "饮酒会后-美咲加奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "女上位",
-      "接吻",
-      "中出",
-      "情趣內衣",
-      "口交",
-      "女上司",
-      "OL",
-      "勾引・誘惑",
-      "騎乗位",
-      "後入"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240219-1/e1822786668d4b248165c04961488c1f.jpg",
-    "actress": [
-      "美咲佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-109"
-  },
-  {
-    "id": 15806,
-    "IDcode": "MIAB-114",
-    "title": "神乳超級身材-西條琉璃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美乳",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "大乳暈",
-      "淫亂",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "多P",
-      "奇異的",
-      "苗條",
-      "3P・4P",
-      "顏射",
-      "絕頂高潮",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "企畫",
-      "兩男一女",
-      "羞恥",
-      "後入",
-      "口爆",
-      "奇聞趣事",
-      "蕩婦",
-      "女優",
-      "口交",
-      "深喉",
-      "自慰",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/5cd9ab6c3a5d8e26a257482467959f41.jpg",
-    "actress": [
-      "西條琉璃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-114"
-  },
-  {
-    "id": 92237,
-    "IDcode": "MIAB-116",
-    "title": "缺德美容院里-白石もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "苗条",
-      "中出",
-      "淫乱，真实",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240404-1/0746958a07f3381854aaa21945e2d140.jpg",
-    "actress": [
-      "白石桃",
-      "ハカー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-116"
-  },
-  {
-    "id": 15997,
-    "IDcode": "MIAB-124",
-    "title": "一位妈妈朋友担负起纠正儿子失控性欲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "強姦",
-      "女上位",
-      "接吻",
-      "過膝襪・小腿襪",
-      "淫亂",
-      "黑絲",
-      "少女",
-      "按摩棒",
-      "中出",
-      "美少女",
-      "苗條",
-      "白眼失神",
-      "顏射",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "自宅",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "無毛",
-      "美腳",
-      "後入",
-      "口爆",
-      "口交",
-      "按摩・物理治療・美容",
-      "美少女電影",
-      "深喉",
-      "乱伦",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240505-1/08a12a805b2cafe6520dd7c5c3d7e196.jpg",
-    "actress": [
-      "水谷梨明日",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-124"
-  },
-  {
-    "id": 92241,
-    "IDcode": "MIAB-125",
-    "title": "巨乳大姐姐-都月流衣纱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码破解",
-      "流汗",
-      "淫乱，真实",
-      "中出",
-      "姐姐",
-      "乱伦",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/77304497da5a21bf236a2a7012b08785.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-125"
-  },
-  {
-    "id": 15975,
-    "IDcode": "MIAB-131",
-    "title": "在兼职的女友被巨汉店长强行留种NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "NTR",
-      "手指插入",
-      "淫亂",
-      "少女",
-      "乳交",
-      "中出",
-      "美少女",
-      "苗條",
-      "內衣",
-      "絕頂高潮",
-      "女同事",
-      "潮吹",
-      "淫妻",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "騎乗位",
-      "咖啡店"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/92974204147de0d4539594010a1c02fb.jpg",
-    "actress": [
-      "佐藤しお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-131"
-  },
-  {
-    "id": 15812,
-    "IDcode": "MIAB-137",
-    "title": "屁眼奉獻女老師性奴隷-森澤佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "SM",
-      "女教師",
-      "人妻",
-      "女上位",
-      "熟女",
-      "情趣內衣",
-      "劇情",
-      "淫亂",
-      "放尿",
-      "學校",
-      "按摩棒",
-      "中出",
-      "調教",
-      "多P",
-      "苗條",
-      "3P・4P",
-      "內衣",
-      "絕頂高潮",
-      "網襪",
-      "潮吹",
-      "輪姦",
-      "性感",
-      "無毛",
-      "美腳",
-      "羞恥",
-      "後入",
-      "蕩婦",
-      "口交",
-      "臀控",
-      "凌辱",
-      "肛交",
-      "強姦"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/747e56bf0e55f217baa3da8a4762d025.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-137"
-  },
-  {
-    "id": 92242,
-    "IDcode": "MIAB-138",
-    "title": "长身巨乳美体和过激衣装-佐野由真",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美容院",
-      "中出",
-      "巨乳",
-      "单体作品",
-      "荡妇",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240404-1/802afe99d292ce6aa436d6b8ccd762b5.jpg",
-    "actress": [
-      "佐野由真"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-138"
-  },
-  {
-    "id": 92239,
-    "IDcode": "MIAB-139",
-    "title": "被丈夫上司强暴的最美女人-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女检察官",
-      "已婚妇女",
-      "中出",
-      "淫乱，真实",
-      "凌辱",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240406-1/f4b3d0e56c31d5c947c16933bf21119b.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-139"
-  },
-  {
-    "id": 92247,
-    "IDcode": "MIAB-142",
-    "title": "两个可爱学生妹用大屁股骚扰教师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "中出",
-      "多P",
-      "高中女生",
-      "屁股"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240404-1/b953e5808e7b0ddd53603b0072753b27.jpg",
-    "actress": [
-      "二叶エマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-142"
-  },
-  {
-    "id": 92246,
-    "IDcode": "MIAB-143",
-    "title": "黑丝巨乳女教师的奖励-有岡みう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "女教师",
-      "中出",
-      "连裤袜",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/1c8a995d1bc0acab22f27f1748f2f606.jpg",
-    "actress": [
-      "椎叶みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-143"
-  },
-  {
-    "id": 92250,
-    "IDcode": "MIAB-146",
-    "title": "怀孕中的我-大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "戏剧",
-      "白天出轨",
-      "口交",
-      "OL",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240404-1/8c0338b72e971f8ebd77ff76b0af62cc.jpg",
-    "actress": [
-      "大槻响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-146"
-  },
-  {
-    "id": 92251,
-    "IDcode": "MIAB-147",
-    "title": "明明是我先喜欢上的-柏木小夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "淫乱，真实",
-      "深喉",
-      "巨乳",
-      "单体作品",
-      "美少女电影"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240404-1/b1aba2fe634ec8f0e78ccb3e47099938.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-147"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-224"
   },
   {
-    "id": 15458,
-    "IDcode": "MIAB-154",
-    "title": "代替裸體紀念模特兒的我-波多野結衣",
+    "id": 567080,
+    "IDcode": "BLK-227",
+    "title": "kira★kiraBLACKGAL美巨乳黒ギャルERIKAの危険日中出第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "美臀",
-      "美乳",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "淫亂",
-      "乳交",
-      "按摩棒",
-      "中出",
-      "巨尻",
-      "內衣",
-      "絕頂高潮",
-      "潮吹",
-      "胸控・戀乳癖",
-      "抹油",
-      "性感",
-      "巨乳",
-      "企畫",
-      "羞恥",
-      "後入",
-      "蕩婦",
-      "女優",
-      "口交",
-      "騎乗位"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/f0889ffa5c27f1cdd6fe006b4cdcf29e.jpg",
-    "actress": [
-      "波多野结衣"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-154"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-227"
   },
   {
-    "id": 15814,
-    "IDcode": "MIAB-155",
-    "title": "被老公主管菊花中出-美波梢",
+    "id": 535298,
+    "IDcode": "BLK-241",
+    "title": "いつもパンツが见えてる奔放クラスメイト 有村リア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240420/blk241pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-241"
+  },
+  {
+    "id": 535335,
+    "IDcode": "BLK-245",
+    "title": "くびれボインギャルのはみだしおっぱい诱惑中出しハーレム",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240521/blk245pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-245"
+  },
+  {
+    "id": 535358,
+    "IDcode": "BLK-247",
+    "title": "我が家の褐色ギャルメイド 有村リア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240531/blk247pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-247"
+  },
+  {
+    "id": 100190,
+    "IDcode": "BLK-250",
+    "title": "ギャルコスプレイヤーユニット 中出しOK地下ライブ☆ AIKA 彩城ゆりな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "美乳",
-      "NTR",
-      "人妻",
-      "熟女",
-      "過膝襪・小腿襪",
-      "二穴同入",
-      "淫亂",
-      "黑絲",
-      "按摩棒",
+      "角色扮演",
+      "艺人",
       "中出",
-      "多P",
-      "苗條",
-      "3P・4P",
-      "內衣",
-      "絕頂高潮",
-      "自宅",
-      "下屬女友・妻子",
-      "性感",
-      "無毛",
-      "口爆",
-      "蕩婦",
-      "臀控",
-      "深喉",
-      "肛交",
-      "騎乗位"
+      "滥交",
+      "女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/32b0f9ab07e8183e7ae00e8c9fefe36f.jpg",
-    "actress": [
-      "美波梢"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-155"
+    "publish_date": "2015-10-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "AIKA",
+      "大岛丈",
+      "小仓由纪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-250"
   },
   {
-    "id": 15808,
-    "IDcode": "MIAB-158",
-    "title": "把新進員工帶進飯店並住進同一間房",
+    "id": 535417,
+    "IDcode": "BLK-253",
+    "title": "ギャルの弱☆点、子宫の入りぐちぃ 有村リア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-253"
+  },
+  {
+    "id": 225092,
+    "IDcode": "BLK-257",
+    "title": "谜样的辣妹-MISA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-257"
+  },
+  {
+    "id": 225090,
+    "IDcode": "BLK-260",
+    "title": "拼命性爱的辣妹-滨崎真绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-260"
+  },
+  {
+    "id": 534642,
+    "IDcode": "BLK-262",
+    "title": "イタズラな小悪魔が御奉仕！！ サービス过剰な中出し黒ギャルソープ嬢 桜ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230721/blk262pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-262"
+  },
+  {
+    "id": 534683,
+    "IDcode": "BLK-264",
+    "title": "ギャルと结婚して子供を作ろう 北条ルルカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-264"
+  },
+  {
+    "id": 534699,
+    "IDcode": "BLK-266",
+    "title": "ギャルと结婚して子供を作ろう 桜ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230822/blk266pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-266"
+  },
+  {
+    "id": 534753,
+    "IDcode": "BLK-272",
+    "title": "1000本のチ○ポを挟射させた とんでもないおっぱい 西垣るか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230926/blk272pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-272"
+  },
+  {
+    "id": 209841,
+    "IDcode": "BLK-273",
+    "title": "腰振り騎乗位 AIKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/06/d681efd3836f09382f544a1f7a474932.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-273"
+  },
+  {
+    "id": 534770,
+    "IDcode": "BLK-274",
+    "title": "受精の仕组みを自撮りビデオで提出する女子校生 桜ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231001/blk274pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-274"
+  },
+  {
+    "id": 210518,
+    "IDcode": "BLK-275",
+    "title": "第一艳星-上原亜衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-275"
+  },
+  {
+    "id": 534794,
+    "IDcode": "BLK-276",
+    "title": "夫とのSEXがつまらなすぎて昔を思い出してしまった！！仆の元・ヤリマン巨乳ママ 篠田あゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "女上位",
-      "熟女",
-      "情趣內衣",
-      "淫語",
-      "劇情",
-      "淫亂",
-      "黑絲",
-      "乳交",
-      "中出",
-      "同住一屋・相部屋",
-      "苗條",
-      "內衣",
-      "絕頂高潮",
-      "女同事",
-      "潮吹",
-      "出軌",
-      "胸控・戀乳癖",
-      "出差",
-      "性感",
-      "無毛",
-      "美腳",
-      "巨乳",
-      "女主持・主播",
-      "羞恥",
-      "後入",
-      "口爆",
-      "蕩婦",
-      "舔陰",
-      "流汗",
-      "口交",
-      "OL",
-      "勾引・誘惑",
-      "騎乗位",
-      "偷竊"
+      "巨乳"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/b981201144da8c89888498dc8d114b01.jpg",
-    "actress": [
-      "松本梨穂"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-158"
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231007/blk276pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-276"
   },
   {
-    "id": 15819,
-    "IDcode": "MIAB-159",
-    "title": "无自觉致孕催眠RAPE-皆月光",
+    "id": 549560,
+    "IDcode": "BLK-279",
+    "title": "弟を焦らして中出しさせるのが日课のうちの姊 松嶋葵",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "飯店",
-      "美臀",
-      "美乳",
-      "手指插入",
-      "強姦",
-      "女上位",
-      "雙馬尾",
-      "過膝襪・小腿襪",
-      "劇情",
-      "濕身",
-      "淫亂",
-      "放尿",
-      "催眠",
-      "少女",
-      "按摩棒",
-      "中出",
-      "美少女",
-      "苗條",
-      "迷姦",
-      "自宅",
-      "潮吹",
-      "JK校服",
-      "胸控・戀乳癖",
-      "性感",
-      "無毛",
-      "美腳",
-      "跳蛋",
-      "羞恥",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "制服",
-      "自慰",
-      "騎乗位",
-      "女學生"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/2a90e00b19a7f1fc298a5bdd77ec2ec8.jpg",
-    "actress": [
-      "皆月光"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-159"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-279"
   },
   {
-    "id": 15809,
-    "IDcode": "MIAB-161",
-    "title": "想要帶著巨大女人走來走去",
+    "id": 534877,
+    "IDcode": "BLK-281",
+    "title": "ご近所の颜见知り専门営业 デリバリー风俗ギャル奥さん 吹石れな",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "飯店",
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "吞精",
-      "女上位",
-      "熟女",
-      "美腿",
-      "黑絲",
-      "乳交",
-      "按摩棒",
-      "中出",
-      "苗條",
-      "顏射",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "臀控",
-      "深喉",
-      "騎乗位"
-    ],
+    "genres": [],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/3f5e48dd1c0479a16ab143407a88b80e.jpg",
-    "actress": [
-      "佐野由真"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-161"
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231103/blk281pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-281"
   },
   {
-    "id": 15026,
-    "IDcode": "MIAB-170",
-    "title": "果然喜欢老婆-妃光",
+    "id": 211969,
+    "IDcode": "BLK-284",
+    "title": "荒唐的姐姐-椎名そら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "網襪",
-      "黑絲",
-      "美乳",
-      "人妻",
-      "女上位",
-      "形象俱樂部",
-      "中出",
-      "女友・妻子",
-      "口交",
-      "色白",
-      "性感",
-      "巨乳",
-      "蠻橫嬌羞",
-      "劇情",
-      "騎乗位",
-      "純愛・戀愛"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240706-1/bd7c0c6d283544c24d87f469fea3e65b.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-170"
-  },
-  {
-    "id": 15463,
-    "IDcode": "MIAB-171",
-    "title": "我的大屁股女友-天馬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "女上位",
-      "劇情",
-      "淫亂",
-      "少女",
-      "中出",
-      "多P",
-      "泳裝",
-      "美少女",
-      "苗條",
-      "絕頂高潮",
-      "胸控・戀乳癖",
-      "輪姦",
-      "女友・妻子",
-      "性感",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "口交",
-      "臀控",
-      "泳池",
-      "美少女電影",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/6ee8090984dadcb0a9c59248b6cfc535.jpg",
-    "actress": [
-      "天馬唯",
-      "日森一",
-      "じゅうもんじ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-171"
-  },
-  {
-    "id": 15473,
-    "IDcode": "MIAB-172",
-    "title": "用安眠药让狂妄的侄女失去意识-松冈美樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "劇情",
-      "淫亂",
-      "少女",
-      "中出",
-      "叔叔・姪女",
-      "美少女",
-      "苗條",
-      "顏射",
-      "內衣",
-      "脚控・戀足癖",
-      "迷姦",
-      "自宅",
-      "絕頂高潮",
-      "媚藥・迷藥",
-      "胸控・戀乳癖",
-      "性感",
-      "無毛",
-      "美腳",
-      "羞恥",
-      "亂倫",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "深喉",
-      "乱伦",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/9c0510874e284f3b2189f5dd478fe645.jpg",
-    "actress": [
-      "松岡美桜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-172"
-  },
-  {
-    "id": 15472,
-    "IDcode": "MIAB-173",
-    "title": "只有我不能SEX的饮酒会-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "熟女",
-      "聚會・PARTY",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "黑絲",
-      "乳交",
-      "中出",
-      "多P",
-      "苗條",
-      "3P・4P",
-      "顏射",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "企畫",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "深喉",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/b7a6fa38a1d2007d74f8fd6af68d703f.jpg",
-    "actress": [
-      "森日向子",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-173"
-  },
-  {
-    "id": 15464,
-    "IDcode": "MIAB-174",
-    "title": "不肯说出欠债老公的下落-新村晶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "拘束・拷問",
-      "熟女",
-      "情趣內衣",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "黑絲",
-      "欠債肉償",
-      "乳交",
-      "按摩棒",
-      "中出",
-      "調教",
-      "多P",
-      "監獄",
-      "苗條",
-      "3P・4P",
-      "內衣",
-      "絕頂高潮",
-      "潮吹",
-      "媚藥・迷藥",
-      "胸控・戀乳癖",
-      "女友・妻子",
-      "性感",
-      "美腳",
-      "巨乳",
-      "後入",
-      "緊縛",
-      "蕩婦",
-      "口交",
-      "凌辱",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240528-1/2588e21e423fd58b31adeaeea666523f.jpg",
-    "actress": [
-      "新村朱里",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-174"
-  },
-  {
-    "id": 15469,
-    "IDcode": "MIAB-175",
-    "title": "已经射精了-白石もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "艷遇",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "少女",
-      "中出",
-      "巨尻",
-      "美少女",
-      "苗條",
-      "图书馆",
-      "顏射",
-      "絕頂高潮",
-      "JK校服",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "無毛",
-      "巨乳",
-      "後入",
-      "校園生活",
-      "口爆",
-      "口交",
-      "美少女電影",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/11d19b0f60b3593560616f3002781aa5.jpg",
-    "actress": [
-      "白石桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-175"
-  },
-  {
-    "id": 15046,
-    "IDcode": "MIAB-188",
-    "title": "受孕插入拋棄婚約性愛-通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "迷姦",
-      "媚藥・迷藥",
-      "癡女",
-      "中出",
-      "口交",
-      "性感",
-      "女上司",
-      "OL",
-      "劇情",
-      "絕頂高潮"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240609-1/829736ef2722868332083719638542bb.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-188"
-  },
-  {
-    "id": 15022,
-    "IDcode": "MIAB-191",
-    "title": "每周禮拜五的下課後-透美香奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "劇情",
-      "美腿",
-      "學校",
-      "癡女",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "色白",
-      "短髮",
-      "美少女",
-      "蠻橫嬌羞",
-      "更衣室",
-      "絕頂高潮",
-      "JK校服",
-      "厠所",
-      "出軌",
-      "夫妻交換",
-      "朋友女友・妻子",
-      "美腳",
-      "巨乳",
-      "校園生活",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240609-1/381700be12ad942c01af1d0fce707083.jpg",
-    "actress": [
-      "透美かなた",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-191"
-  },
-  {
-    "id": 14673,
-    "IDcode": "MIAB-197",
-    "title": "被無所事事的哥哥們一次又一次的插入並NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "NTR",
-      "人妻",
-      "女上位",
-      "接吻",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "色白",
-      "美少女",
-      "3P・4P",
-      "若妻",
-      "顏射",
-      "絕頂高潮",
-      "自宅",
-      "潮吹",
-      "淫妻",
-      "出軌",
-      "弟媳",
-      "猥褻穿著",
-      "輪姦",
-      "性感",
-      "69",
-      "美腳",
-      "兩男一女",
-      "羞恥",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/76fca576f188f301cd4e1a589be19bcc.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-197"
-  },
-  {
-    "id": 14683,
-    "IDcode": "MIAB-200",
-    "title": "性愛腹肌田徑隊教練-都月琉衣紗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "肌肉",
-      "女上位",
-      "健身教練",
-      "艷遇",
-      "劇情",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "更衣室",
-      "絕頂高潮",
-      "健身房",
-      "性感",
-      "美腳",
-      "巨乳",
-      "運動女孩",
-      "運動服裝",
-      "辣妹/GAL系",
-      "蕩婦",
-      "美少女電影",
-      "勾引・誘惑",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/670a3afc3ccf7d27bf44ffd65cad2859.jpg",
-    "actress": [
-      "都月楓",
-      "都月琉衣纱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-200"
-  },
-  {
-    "id": 14640,
-    "IDcode": "MIAB-204",
-    "title": "NTR肉串睡眠強姦-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "女上位",
-      "熟女",
-      "情趣內衣",
-      "劇情",
-      "淫亂",
-      "黑絲",
-      "少女",
-      "乳交",
-      "按摩棒",
-      "中出",
-      "美少女",
-      "苗條",
-      "內衣",
-      "絕頂高潮",
-      "自宅",
-      "潮吹",
-      "淫妻",
-      "出軌",
-      "胸控・戀乳癖",
-      "女友・妻子",
-      "性感",
-      "美腳",
-      "巨乳",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/49eec57de367581b2d3887177aee8108.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-204"
-  },
-  {
-    "id": 14341,
-    "IDcode": "MIAB-215",
-    "title": "梦想中的避孕套-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "JK校服",
-      "報復",
-      "癡女",
-      "形象俱樂部",
-      "中出",
-      "口交",
-      "色白",
-      "小隻馬",
-      "美少女電影",
-      "騎乗位",
-      "美少女",
-      "劇情",
-      "美腿",
-      "女學生",
-      "絕頂高潮"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240706-1/b10880d0a7fb0748bad851ef05a75101.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-215"
-  },
-  {
-    "id": 14339,
-    "IDcode": "MIAB-216",
-    "title": "专门诱惑已婚的大肉棒患者-透美佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "中出",
-      "慾求不滿",
-      "不倫",
-      "護士制服",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "護士",
-      "絕頂高潮",
-      "感官作品",
-      "美腳",
-      "兩男一女",
-      "看病・住院",
-      "後入",
-      "蕩婦",
-      "口交",
-      "美少女電影",
-      "醫院・診所",
-      "白絲",
-      "勾引・誘惑",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240706-1/ff45955a8d60500745c362256ff5aaf9.jpg",
-    "actress": [
-      "透美かなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-216"
-  },
-  {
-    "id": 14333,
-    "IDcode": "MIAB-220",
-    "title": "個性非常完美的J罩杯愛人-黑木玲奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美乳",
-      "女上位",
-      "純粹的慾望",
-      "過膝襪・小腿襪",
-      "劇情",
-      "美腿",
-      "黑絲",
-      "形象俱樂部",
-      "中出",
-      "美少女",
-      "絕頂高潮",
-      "感官作品",
-      "性感",
-      "美腳",
-      "巨乳",
-      "小三・情人",
-      "辣妹/GAL系",
-      "蕩婦",
-      "口交",
-      "野性",
-      "美少女電影",
-      "騎乗位",
-      "偷竊"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240706-1/506711122763e735b0c167560097f4ec.jpg",
-    "actress": [
-      "黑木玲奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-220"
-  },
-  {
-    "id": 14331,
-    "IDcode": "MIAB-221",
-    "title": "我懷了誰的小孩-森澤佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "人妻",
-      "劇情",
-      "美腿",
-      "形象俱樂部",
-      "中出",
-      "不倫",
-      "蠻橫嬌羞",
-      "兒媳",
-      "內衣",
-      "絕頂高潮",
-      "出軌",
-      "性感",
-      "美腳",
-      "羞恥",
-      "蕩婦",
-      "美少女電影",
-      "公公",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240706-1/a276e01ff2cca4f125382bf3bcd43d5d.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-221"
-  },
-  {
-    "id": 13332,
-    "IDcode": "MIAB-225",
-    "title": "喜欢鸡巴的口交-佐野ゆま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "女上位",
-      "情趣內衣",
-      "艷遇",
-      "約炮",
-      "劇情",
-      "素人",
-      "中出",
-      "美少女",
-      "絕頂高潮",
-      "性感",
-      "美腳",
-      "巨乳",
-      "後入",
-      "辣妹/GAL系",
-      "蕩婦",
-      "口交",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240811-1/1c30cf2ec5a36b8febc4a5a30c04c3ac.jpg",
-    "actress": [
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-225"
-  },
-  {
-    "id": 13959,
-    "IDcode": "MIAB-233",
-    "title": "超豪华休息室-黒木れいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "劇情",
-      "淫亂",
-      "黑絲",
-      "雙飛",
-      "少女",
-      "中出",
-      "兩女一男",
-      "美少女",
-      "苗條",
-      "絕頂高潮",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "後入",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/9e8229c129ca10f1196a5313631b034c.jpg",
-    "actress": [
-      "橘瑪麗",
-      "黑木玲奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-233"
-  },
-  {
-    "id": 13672,
-    "IDcode": "MIAB-240",
-    "title": "女性专用风俗的指夹君-美咲かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "情趣內衣",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "黑絲",
-      "乳交",
-      "按摩棒",
-      "中出",
-      "顏射",
-      "絕頂高潮",
-      "潮吹",
-      "出軌",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "深喉",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/c41d7bb76f0ffe3aec90fc78ab1c53f9.jpg",
-    "actress": [
-      "美咲佳奈",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-240"
-  },
-  {
-    "id": 13685,
-    "IDcode": "MIAB-242",
-    "title": "肛门调教-竹内夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "魔鬼系",
-      "肉絲",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "欠債肉償",
-      "中出",
-      "脅迫做愛",
-      "3P・4P",
-      "顏射",
-      "下屬女友・妻子",
-      "性感",
-      "兩男一女",
-      "羞恥",
-      "蕩婦",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "肛交",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2024/08/06/f584c7ab750952e50337a0ac26a79191.jpg",
-    "actress": [
-      "竹内夏希",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-242"
-  },
-  {
-    "id": 13360,
-    "IDcode": "MIAB-243",
-    "title": "爱上儿子的足球教练-森泽佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "NTR",
-      "人妻",
-      "女上位",
-      "純粹的慾望",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "黑絲",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "不倫",
-      "色白",
-      "絕頂高潮",
-      "自宅",
-      "出軌",
-      "感官作品",
-      "性感",
-      "高顏值",
-      "純愛・戀愛",
-      "蕩婦",
-      "口交",
-      "美少女電影",
       "乱伦"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240816-1/2125f1819aec06a2e90314ccf8675e8e.jpg",
-    "actress": [
-      "森澤佳奈"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-243"
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/04/10/a6c605ef889fa49139dc72c8528f100f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-284"
   },
   {
-    "id": 13337,
-    "IDcode": "MIAB-248",
-    "title": "青梅竹馬被NTR了-天月杏",
+    "id": 534935,
+    "IDcode": "BLK-287",
+    "title": "死んでも妊娠したくないギャルvs絶対に孕ませたいおじさん一同 kira☆kira 危険日中出しファン感谢祭 2016 2 桜ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231123/blk287pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-287"
+  },
+  {
+    "id": 534954,
+    "IDcode": "BLK-290",
+    "title": "死んでも妊娠したくないギャルvs絶対に孕ませたいおじさん一同 Kira☆Kira 危険日中出しおやじ感谢祭2016 吹石れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231201/blk290pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-290"
+  },
+  {
+    "id": 591079,
+    "IDcode": "BLK-298",
+    "title": "[blk00298]AIKA强●妊娠计画",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20230622-1/16602602be619e1bf8699d9a6bb9538d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-298"
+  },
+  {
+    "id": 212379,
+    "IDcode": "BLK-299",
+    "title": "感謝祭2016-椎名そら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-299"
+  },
+  {
+    "id": 82250,
+    "IDcode": "BLK-302",
+    "title": "嫉妒兄控的萝莉辣妹-跡美しゅり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
-      "NTR",
-      "吞精",
-      "女上位",
-      "聚會・PARTY",
-      "中性",
-      "亂交 • 群P",
-      "劇情",
-      "淫亂",
-      "少女",
-      "乳交",
-      "形象俱樂部",
       "中出",
-      "色白",
-      "多P",
-      "美少女",
-      "蠻橫嬌羞",
-      "3P・4P",
-      "絕頂高潮",
-      "潮吹",
-      "淫妻",
-      "胸控・戀乳癖",
-      "性感",
-      "青梅竹馬",
-      "巨乳",
-      "兩男一女",
-      "後入",
-      "口爆",
-      "口交",
-      "美少女電影",
-      "騎乗位"
+      "妹妹",
+      "女生",
+      "主观视角",
+      "高中女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240811-1/4eb0c234623dc6bb1e04869681b2706e.jpg",
-    "actress": [
-      "天月梓",
-      "日森一"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-248"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "迹美珠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-302"
   },
   {
-    "id": 13361,
-    "IDcode": "MIAB-255",
-    "title": "我把房间借给了一个男孩-柊ゆうき",
+    "id": 517735,
+    "IDcode": "BLK-303",
+    "title": "被抓包就超丟臉羞恥玩法！ AIKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9bbb431a2714f1c698154/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-303"
+  },
+  {
+    "id": 71637,
+    "IDcode": "BLK-306",
+    "title": "淫語で誘うとんでもないギャル妹 麻里梨夏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "手指插入",
-      "艷遇",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "形象俱樂部",
       "中出",
-      "清純",
-      "色白",
-      "短髮",
-      "刺青紋身",
-      "美少女",
-      "蠻橫嬌羞",
-      "苗條",
-      "顏射",
-      "絕頂高潮",
-      "潮吹",
-      "紀念作",
-      "感官作品",
-      "性感",
-      "高顏值",
-      "美腳",
-      "羞恥",
-      "明星臉",
-      "叛逆少女",
-      "口交",
-      "房东",
-      "美少女電影",
-      "深喉",
-      "騎乗位",
-      "女學生"
+      "妹妹",
+      "女生",
+      "主观视角",
+      "高中女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240811-1/0d0c1efb939c0e4a52fa467da14a62c5.jpg",
-    "actress": [
-      "柊有希"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-255"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d7a97f14d136371d2f24b02819f0e455.jpg",
+    "actress": [
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-306"
   },
   {
-    "id": 13329,
-    "IDcode": "MIAB-256",
-    "title": "听她被牛郎和变态父亲玷污-天马唯",
+    "id": 556972,
+    "IDcode": "BLK-307",
+    "title": "偏差为 35 的学校旅行 - 丸山玲音奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a60229744c3757ff001fb631fa0a7b84.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-307"
+  },
+  {
+    "id": 535126,
+    "IDcode": "BLK-308",
+    "title": "死んでも妊娠したくないギャルVS絶対に孕ませたいおじさん一同 Kira☆Kira 危険日中出しおやじ感谢祭2016 5 NAOMI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/ed78779c20ef1f35566da73a73b25231.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-308"
+  },
+  {
+    "id": 535140,
+    "IDcode": "BLK-310",
+    "title": "爆乳Hカップ伝说の元ヤリマン黒ギャル妻超アゲアゲAVデビュー！！ 成海あすか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "飯店",
-      "拜金女",
-      "蕩婦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/a64f1bab0925b014e48bbd57c2ad2679.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-310"
+  },
+  {
+    "id": 535156,
+    "IDcode": "BLK-312",
+    "title": "突然出来た义理のお姊ちゃんは中出し大好き超絶伦ヤリマンギャル 美竹すず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-312"
+  },
+  {
+    "id": 567202,
+    "IDcode": "BLK-313",
+    "title": "駅5000●でヤレる！课金OK中出し痴汉椎名そら第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-313"
+  },
+  {
+    "id": 74956,
+    "IDcode": "BLK-314",
+    "title": "中出3P援交姐妹花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "美少女",
       "中出",
-      "口交",
-      "應召・援交",
+      "女生",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-2/18b7b679211cb0b8882c883c49e60597.jpg",
+    "actress": [
+      "栄川乃亜",
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-314"
+  },
+  {
+    "id": 556961,
+    "IDcode": "BLK-315",
+    "title": "接吻成瘾★黑加仑姐姐父亲狩猎天才AV出场！ !!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/7f984c900233ac0b835fe7e233fe70e2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-315"
+  },
+  {
+    "id": 531774,
+    "IDcode": "BLK-316",
+    "title": "blk00316 【速报】骗し中出し生配信倶楽部 梦は読 モの金无しJKをモデルに勧诱するフリして自宅に连れ込みパコって胜手にAV発売したンゴww 桜庭このみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240504-1/ca1504bbd6001c82c13944dce1ac05d4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-316"
+  },
+  {
+    "id": 556844,
+    "IDcode": "BLK-317",
+    "title": "绝对怀孕 x 播种机中最厚颜无耻的 JK gal！ !!小川里约 - 绪川里绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/219b11ff7dd401c1612335fb553ab48e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-317"
+  },
+  {
+    "id": 74292,
+    "IDcode": "BLK-318",
+    "title": "被闺蜜出卖随意中出的女高中生-椎名そら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "强奸",
+      "中出",
+      "滥交",
+      "女生",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椎名空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-318"
+  },
+  {
+    "id": 556974,
+    "IDcode": "BLK-321",
+    "title": "大屁股 T-back JK gal Yuuna Himekawa 用她所有的力量挑衅 - 姬川优奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a545f9ca17b4c3b45cb2cc582926d1d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-321"
+  },
+  {
+    "id": 549701,
+    "IDcode": "BLK-322",
+    "title": "エロ本淫语で中出しを诱う好奇心超暴走ギャル妹 栄川乃亜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231004/blk322pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-322"
+  },
+  {
+    "id": 535236,
+    "IDcode": "BLK-324",
+    "title": "痴女ギャルお姊さんノリノリ跨り骑乘位で童贞笔下ろし アンリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240322/blk324pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-324"
+  },
+  {
+    "id": 194196,
+    "IDcode": "BLK-325",
+    "title": "停止时间对欺负我的小太妹麻里梨夏实行内射惩罚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/07/02/56360c65dfca7231d009682ec3e97bbb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-325"
+  },
+  {
+    "id": 556845,
+    "IDcode": "BLK-327",
+    "title": "Rookie ★ 专属高个子黑加仑 踢那个受欢迎的舞者，让她的 AV 出道！ !!咏叹调 - ARIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/45acf3fed4b80afeaba201b1d9a24cca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-327"
+  },
+  {
+    "id": 535294,
+    "IDcode": "BLK-328",
+    "title": "六本木でパリピギャル御用达 媚薬闷絶オイルマッサージ SARA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/f6c18e2fb762043b97a6348f45aeb6a9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-328"
+  },
+  {
+    "id": 557000,
+    "IDcode": "BLK-329",
+    "title": "丰满的身体黑加仑和他妈的天才 AV 外观！ !!海美酱 (20)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/abb8c6cfc59e00233a486874cca25107.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-329"
+  },
+  {
+    "id": 556848,
+    "IDcode": "BLK-331",
+    "title": "身高 172 厘米高黑色 gal 小父亲狩猎咏叹调 - ARIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/9d75f3f28801c1fb9ae9e596266dfb74.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-331"
+  },
+  {
+    "id": 194978,
+    "IDcode": "BLK-332",
+    "title": "恶魔级痴女若菜奈央帮处男粉丝破处不断内射到最后分不清是福利还是折磨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-332"
+  },
+  {
+    "id": 557001,
+    "IDcode": "BLK-333",
+    "title": "如果你无论如何都不能约会，那就让你汗流浃背的父亲绝对怀孕 x Cuckold Seeding Press Chest Feces NTRS Mari Rika - 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "乱伦",
-      "美少女",
-      "劇情",
-      "飯店小姐・援交妹",
-      "風俗娘",
-      "妓女"
+      "淫妻"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240816-1/102a79f8327f8bfd6b382507c2aecf2c.jpg",
-    "actress": [
-      "天馬唯",
-      "岩下たろう"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-256"
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/50c37d5ca434e08e7253f8c8e65f086a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-333"
   },
   {
-    "id": 13391,
-    "IDcode": "MIAB-259",
-    "title": "淫荡医生-森日向子",
+    "id": 556986,
+    "IDcode": "BLK-335",
+    "title": "“我想省钱住涩谷……” 超敏感好用的国养娘娘腔未经许可放AV！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/f650d08369ec832aa55081e8baf3721a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-335"
+  },
+  {
+    "id": 556726,
+    "IDcode": "BLK-336",
+    "title": "鬼乳晕女孩女教师他妈的处女刷下学校尼娜西村 - 西村妮娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/0354da138ab99d4eab5a20fa2d9347a5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-336"
+  },
+  {
+    "id": 212248,
+    "IDcode": "BLK-337",
+    "title": "生意気女子校生-愛瀬美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-337"
+  },
+  {
+    "id": 556724,
+    "IDcode": "BLK-338",
+    "title": "湘南泳装 gal 在痛苦中昏倒！性发育 Umi no Ie Oil Esthe！若菜直 - 若菜奈央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/8243ca860a67ce8f1ac9d2bff7f3bc0e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-338"
+  },
+  {
+    "id": 556842,
+    "IDcode": "BLK-339",
+    "title": "跨越 10,000 名男子的高速女牛仔海归 gal AV 首次亮相！ !!礼来 - Lilly",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/8a387f8bccffbdd20a063311522afb0c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-339"
+  },
+  {
+    "id": 526420,
+    "IDcode": "BLK-341",
+    "title": "黒ギャルAIKAがキミの田舎で中出しファン感谢祭！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/f4d792dbd8773ccd497edb80b3ee1a6c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-341"
+  },
+  {
+    "id": 556954,
+    "IDcode": "BLK-344",
+    "title": "“小新爸爸吹响了秘密。”（笑）我说我喜欢孩子，但我喜欢SEX。一位保育员分散了Ikuiku的高潮，让她的AV出道！ !!梨香 - 理理香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "M男・M女",
-      "美乳",
-      "女上位",
-      "過膝襪・小腿襪",
-      "劇情",
-      "淫亂",
-      "黑絲",
-      "舔腳",
-      "足交",
-      "形象俱樂部",
-      "中出",
-      "醫生製服",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "潮吹",
-      "感官作品",
-      "性感",
-      "美腳",
-      "看病・住院",
-      "女醫生",
-      "蕩婦",
-      "口交",
-      "美少女電影",
-      "醫院・診所",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240817-1/2b63c4e356bdcc1bb8732f599a2cecc0.jpg",
-    "actress": [
-      "森日向子",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-259"
-  },
-  {
-    "id": 13699,
-    "IDcode": "MIAB-262",
-    "title": "女朋友的姐姐-五日市芽依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "女友姐姐",
-      "少女",
-      "乳交",
-      "中出",
-      "美少女",
-      "內衣",
-      "絕頂高潮",
-      "自宅",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "後入",
-      "亂倫",
-      "口交",
-      "美少女電影",
       "乱伦",
-      "騎乗位",
-      "女學生"
+      "出道作"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/ad667cc52ceadf1ece7baac2ddcab891.jpg",
-    "actress": [
-      "五日市芽依"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-262"
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/7fb4169fd708f01464cc9834461fb5fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-344"
   },
   {
-    "id": 12949,
-    "IDcode": "MIAB-269",
-    "title": "淫秽内衣射精大师佐野由真",
+    "id": 210279,
+    "IDcode": "BLK-345",
+    "title": "騎乗位誘惑 若菜奈央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-345"
+  },
+  {
+    "id": 556983,
+    "IDcode": "BLK-346",
+    "title": "立即鞍 立即通过移动 T 后鞍立即鞍 Iki Amesuku 女孩喜欢腰部摆动活塞 Minori Kawana - 河南实里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/cf26943cb57f118d4514f98d5abeb275.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-346"
+  },
+  {
+    "id": 556952,
+    "IDcode": "BLK-347",
+    "title": "很久以前欺负我的青梅竹马，一次分娩健康遭遇！ !!理所当然地，我强迫制作成为情妇并多次调用它并射精性爱 Miyu Amano - 天野美优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/b7420003960a47027a05183f55c4324f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-347"
+  },
+  {
+    "id": 556995,
+    "IDcode": "BLK-348",
+    "title": "厚脸皮的乳晕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/129274ea448cb6c52c75350ec5611b52.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-348"
+  },
+  {
+    "id": 544466,
+    "IDcode": "BLK-352",
+    "title": "某日突然与妹妹的男友换做爱 河南（下）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
-      "手指插入",
-      "女上位",
-      "接吻",
-      "情趣內衣",
-      "形象俱樂部",
-      "中出",
-      "高妹",
-      "顏射",
-      "絕頂高潮",
-      "網襪",
-      "潮吹",
-      "胸控・戀乳癖",
-      "猥褻穿著",
-      "美腳",
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-352"
+  },
+  {
+    "id": 591957,
+    "IDcode": "BLK-355",
+    "title": "搭讪微醺女大生自宅捏奶头猛干！ in 新宿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/51a8b20d2a402e92c96f9498e6575488.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-355"
+  },
+  {
+    "id": 73335,
+    "IDcode": "BLK-356",
+    "title": "丈夫一出门妻子就找人来插自己",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "白天出轨",
+      "无毛",
       "巨乳",
-      "企畫",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "女優",
-      "口交",
-      "美少女電影",
-      "騎乗位"
+      "滥交"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240823-1/cadd666cd4aeb33757b50f016b70a7ee.jpg",
-    "actress": [
-      "佐野由真",
-      "イセドン内村"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-269"
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-356"
   },
   {
-    "id": 12944,
-    "IDcode": "MIAB-270",
-    "title": "重逢NTR-月野江すい",
+    "id": 71612,
+    "IDcode": "BLK-359",
+    "title": "奉子成婚嫁给老头的太妹人妻被按摩店的小哥操出人生第一次高潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "M男・M女",
-      "NTR",
-      "SM",
       "人妻",
-      "同學",
-      "女上位",
-      "拘束・拷問",
-      "劇情",
-      "淫亂",
-      "黑絲",
-      "按摩棒",
-      "形象俱樂部",
+      "其他恋物癖",
       "中出",
-      "清純",
-      "色白",
-      "苗條",
-      "顏射",
-      "絕頂高潮",
-      "口球",
-      "淫妻",
-      "出軌",
-      "性感",
-      "美腳",
-      "羞恥",
-      "性虐癖",
-      "緊縛",
-      "蕩婦",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "同學聚會"
+      "巨乳",
+      "女生",
+      "美容院"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/523417a15f748dc41da924f0d083b7b9.jpg",
-    "actress": [
-      "月野江翠"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-270"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2f38ba1a756de18e224d47eb381165b9.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-359"
   },
   {
-    "id": 12335,
-    "IDcode": "MIAB-271",
-    "title": "即使我射了十次-星野夏希",
+    "id": 82260,
+    "IDcode": "BLK-361",
+    "title": "变态的黑丝巨乳女老师-君島みお",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "JK校服",
-      "美乳",
-      "癡女",
-      "胸控・戀乳癖",
+      "荡妇",
+      "女教师",
+      "中出",
+      "巨乳",
+      "淫语"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-361"
+  },
+  {
+    "id": 579274,
+    "IDcode": "BLK-362",
+    "title": "日替わり制服小悪魔ギャル挑発しまくりパンチラ里风俗 冴木エリカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231009/blk362pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-362"
+  },
+  {
+    "id": 218327,
+    "IDcode": "BLK-363",
+    "title": "怒目而视的姐姐-河南実里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-363"
+  },
+  {
+    "id": 82216,
+    "IDcode": "BLK-371",
+    "title": "把从小一起长大的水川菫变成我专属的小太妹女仆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女佣",
+      "中出",
+      "女生",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-371"
+  },
+  {
+    "id": 591884,
+    "IDcode": "BLK-373",
+    "title": "来把错过末班车敏感女大生回家3P开干！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/7KDuiIte.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-373"
+  },
+  {
+    "id": 194141,
+    "IDcode": "BLK-378",
+    "title": "搭讪混血巴西大屁股比基尼辣妹来干个爽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-378"
+  },
+  {
+    "id": 71638,
+    "IDcode": "BLK-385",
+    "title": "メンズに跨り腰をぐりんぐりんにかき回すトルネード騎乗位ビッチ黒ギャルAVデビュー！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "女上位",
+      "晒黑",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1a4e04224cbf6f89a7c0d74b86e095bc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-385"
+  },
+  {
+    "id": 82238,
+    "IDcode": "BLK-386",
+    "title": "人妻さん生ハメ志願",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "人妻",
+      "已婚妇女",
+      "业余",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678370a42a47ebb1a89488ed/cover.jpg",
+    "actress": [
+      "枫真衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-386"
+  },
+  {
+    "id": 71483,
+    "IDcode": "BLK-391",
+    "title": "スーパーヤリマン女子大サークルから緊急AV参戦！どの飲み会でも必ず一番にフェラする即尺隊長！いま渋谷で一番フェラが好きな女子大生AVデビュー！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
       "乳交",
-      "女上位",
-      "中出",
       "口交",
-      "青梅竹馬",
       "巨乳",
-      "騎乗位",
-      "女學生",
-      "後入"
+      "女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240930-2/70fa57f0a9421fa0fd1163912fd27985.jpg",
-    "actress": [
-      "星乃夏月",
-      "Qべぇ"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-271"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/68c6bffc91426b985ebb0f3b81810cad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-391"
   },
   {
-    "id": 12031,
-    "IDcode": "MIAB-273",
-    "title": "我的女老板比我高-瀬田一花",
+    "id": 99509,
+    "IDcode": "BLK-392",
+    "title": "家出中の嫌がる巨乳ギャルのデカ乳首を執拗にねっちょり責め妊娠セックスしまくった48時間の記録ビデオ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
-      "女上位",
-      "熟女",
-      "劇情",
-      "豐滿",
-      "黑絲",
+      "乳交",
       "中出",
-      "巨尻",
-      "網襪",
-      "性感",
-      "女上司",
-      "巨乳",
-      "辦公室",
-      "後入",
-      "老闆娘，女主人",
-      "蕩婦",
-      "口交",
-      "OL",
       "制服",
-      "騎乗位"
+      "巨乳",
+      "女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240930-1/36297d1eb96c4e46518511b341a6afc6.jpg",
-    "actress": [
-      "瀬田一花",
-      "ナイアガラ翔"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-273"
+    "publish_date": "2018-12-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "星宮虹乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-392"
   },
   {
-    "id": 12951,
-    "IDcode": "MIAB-274",
-    "title": "淫荡爱人冲进我家-胡桃樱",
+    "id": 578383,
+    "IDcode": "BLK-393",
+    "title": "大嫌いなオヤジ相手なのに大量潮吹き！渋谷で见つけ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200724/blk393pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-393"
+  },
+  {
+    "id": 71636,
+    "IDcode": "BLK-395",
+    "title": "日焼けあとが超エロイ現役黒ギャルビーチバレーボール選手！練習よりも毎日色んなエロメンとパコりたいからAVデビュー！！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "女上位",
-      "淫語",
-      "過膝襪・小腿襪",
-      "劇情",
-      "美腿",
-      "黑絲",
-      "足交",
-      "形象俱樂部",
-      "中出",
-      "美少女",
-      "苗條",
-      "脚控・戀足癖",
-      "自宅",
-      "女同事",
-      "出軌",
-      "心機婊",
-      "高顏值",
-      "後入",
-      "綠茶婊",
-      "小三・情人",
-      "辣妹/GAL系",
-      "蕩婦",
+      "素人作品",
       "口交",
-      "美少女電影",
-      "OL",
-      "勾引・誘惑",
-      "騎乗位",
-      "偷竊"
+      "巨乳",
+      "精选，综合",
+      "晒黑",
+      "泳装",
+      "女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/98768fe9ed8033da8059aea158289efc.jpg",
-    "actress": [
-      "胡桃櫻花"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-274"
-  },
-  {
-    "id": 12618,
-    "IDcode": "MIAB-286",
-    "title": "肌肉美体女教师-都月流衣纱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "女教師",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "淫亂",
-      "黑絲",
-      "學校",
-      "形象俱樂部",
-      "中出",
-      "多P",
-      "美少女",
-      "蠻橫嬌羞",
-      "苗條",
-      "3P・4P",
-      "脚控・戀足癖",
-      "輪姦",
-      "性感",
-      "美腳",
-      "兩男一女",
-      "羞恥",
-      "後入",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "騎乗位",
-      "強姦"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240921-4/2709c25465221d51b8d7b99f41dca891.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1988c7283bf8a19e0c187f9c7f349744.jpg",
     "actress": [
-      "都月楓",
       "鲛岛",
-      "都月琉衣纱"
+      "Qべぇ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-286"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-395"
   },
   {
-    "id": 10985,
-    "IDcode": "MIAB-288",
-    "title": "你能听听我的烦恼吗-瀬田一花",
+    "id": 534074,
+    "IDcode": "BLK-396",
+    "title": "乳首激弱ヤンキー！超敏感乳首スイッチを弄りっぱでブチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-396"
+  },
+  {
+    "id": 534072,
+    "IDcode": "BLK-397",
+    "title": "小さいカラダで态度はデカイ！超生意気140cmミニギャルが20セ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-397"
+  },
+  {
+    "id": 578382,
+    "IDcode": "BLK-398",
+    "title": "【ヤレるトモダチ绍介して！】セフレのマブダチの‘神ヤリマン’超可爱いのに简単にハメれてお口",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-398"
+  },
+  {
+    "id": 82224,
+    "IDcode": "BLK-399",
+    "title": "遭到恶心大叔们轮奸内射的女高中生",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "艷遇",
-      "劇情",
-      "丁字裤",
-      "倉庫",
-      "乳交",
+      "校服",
       "中出",
-      "慾求不滿",
-      "短髮",
-      "巨尻",
-      "絕頂高潮",
-      "職員",
-      "便利商店",
-      "出軌",
-      "胸控・戀乳癖",
-      "性感",
+      "素人作品",
+      "精选，综合",
+      "轮奸",
+      "滥交"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67804789c179ffb1db6d75d5/cover.jpg",
+    "actress": [
+      "咲々原リン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-399"
+  },
+  {
+    "id": 589580,
+    "IDcode": "BLK-400",
+    "title": "就算射精也挡不住女牛仔！无与伦比的AV出道，让你跨界追击无数次！ !!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/02/25359_cover_2025-07-02_020815.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-400"
+  },
+  {
+    "id": 593271,
+    "IDcode": "BLK-401",
+    "title": "CN 都内のセクキャバで発掘！！ハッスルタイム中のこっそり杭打ち骑乘位が半端ないっ！デカ黒尻ギャルAV出演！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/3a2cad36b5cb400d87cc28e5e652ddfa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-401"
+  },
+  {
+    "id": 71395,
+    "IDcode": "BLK-402",
+    "title": "オヤジだけにフェラの女神さま！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "荡妇",
+      "业余",
+      "素人作品",
+      "口交",
+      "精选，综合",
+      "女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/090b4ec9b60ae091eea189bc10dde1f6.jpg",
+    "actress": [
+      "長谷川夏樹"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-402"
+  },
+  {
+    "id": 71471,
+    "IDcode": "BLK-403",
+    "title": "大嫌いなオヤジ相手なのに乳首いじられ痙攣イキ！絶対にイクって認めない！チクビ早漏制服日焼けギャルとSEXしまくった記録ビデオ 今井夏帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人作品",
       "巨乳",
-      "後入",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "臀控",
-      "美人妻",
-      "勾引・誘惑",
-      "騎乗位"
+      "精选，综合",
+      "晒黑",
+      "女生",
+      "第一人称摄影"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241116-1/1c5c0ecf562314595597836a159dc6f6.jpg",
-    "actress": [
-      "瀬田一花",
-      "ニック"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-288"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fc611f00a12816d19ccbc2b93c38feef.jpg",
+    "actress": [
+      "今井夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-403"
   },
   {
-    "id": 11339,
-    "IDcode": "MIAB-289",
-    "title": "朝起きたら隣に彼女と仲の悪いバイト先の巨乳ギャル。性格も体も彼女を上回り乙女なギャップの本気シラフSEXにハメ潮まみれで中出ししまくった。 春陽モカ",
+    "id": 74643,
+    "IDcode": "BLK-404",
+    "title": "「私、キモオヤジでしか濡れないんです…。」オヤジに犯●れる妄想を繰り返すうちにオヤジでしか濡れなくなった、ド変態ギャル 念願のオヤジに舐め犯しされ大量お漏らしAV出演",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
-      "NTR",
-      "女上位",
-      "艷遇",
-      "劇情",
-      "美腿",
-      "酒後亂性",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "短髮",
-      "美少女",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "自宅",
-      "出軌",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "後入",
-      "明星臉",
-      "辣妹/GAL系",
-      "叛逆少女",
-      "口交",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/a217aa59/vod.jpg",
-    "actress": [
-      "春陽萌花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-289"
-  },
-  {
-    "id": 12617,
-    "IDcode": "MIAB-290",
-    "title": "跟問題女兒來道歉的媽媽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "魔鬼系",
-      "美乳",
-      "手指插入",
-      "人妻",
-      "強姦",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "雙飛",
-      "少女",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "兩女一男",
-      "調教",
-      "小隻馬",
-      "脅迫做愛",
-      "美少女",
-      "蠻橫嬌羞",
-      "苗條",
-      "3P・4P",
-      "性騷擾",
-      "JK校服",
-      "母女",
-      "性感",
-      "美腳",
-      "羞恥",
-      "後入",
-      "女賊",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "凌辱",
-      "騎乗位",
-      "女學生"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/c0e23688683fd3143afb6a06fb7b59b4.jpg",
-    "actress": [
-      "皆月光",
-      "通野未帆",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-290"
-  },
-  {
-    "id": 12360,
-    "IDcode": "MIAB-301",
-    "title": "果然我还是喜欢妻子-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "人妻",
-      "女上位",
-      "接吻",
-      "純粹的慾望",
-      "劇情",
-      "美腿",
-      "舔腳",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "色白",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "感官作品",
-      "女友・妻子",
-      "性感",
-      "高顏值",
-      "美腳",
-      "後入",
-      "純愛・戀愛",
-      "舔陰",
-      "口交",
-      "美少女電影",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/c2546fc4f21b626abc834297511f99c7.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-301"
-  },
-  {
-    "id": 12371,
-    "IDcode": "MIAB-304",
-    "title": "我的家被欺负弟弟的DQN占领了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "女上位",
-      "劇情",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "少女",
-      "按摩棒",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "黑幫",
-      "色白",
-      "小隻馬",
-      "短髮",
-      "多P",
-      "巨尻",
-      "美少女",
-      "苗條",
-      "3P・4P",
-      "顏射",
-      "絕頂高潮",
-      "自宅",
-      "輪姦",
-      "美腳",
-      "巨乳",
-      "兩男一女",
-      "羞恥",
-      "後入",
-      "口爆",
-      "舔陰",
-      "口交",
-      "美少女電影",
+      "潮吹",
       "凌辱",
       "深喉",
-      "騎乗位"
+      "女生",
+      "接吻"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240930-2/fa9007d0268a49748c979651f5a1cd4e.jpg",
-    "actress": [
-      "如月りいさ",
-      "イセドン内村",
-      "七尾神",
-      "モンチ",
-      "たまし"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-304"
+    "publish_date": "2019-06-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/5a2e5c7a1c604b9b8e6013d4f5f235f5.jpg",
+    "actress": [
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-404"
   },
   {
-    "id": 12366,
-    "IDcode": "MIAB-305",
-    "title": "打工NTR即將要畢業的我-春陽萌花",
+    "id": 71728,
+    "IDcode": "BLK-405",
+    "title": "渋谷夜回りで発掘！超ビンカン早漏貧乳乳首大嫌いなオヤジ相手に乳首イキしまくるツンデレ金髪制服ギャルとパコりまくった記録ビデオ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "美乳",
-      "NTR",
-      "女上位",
-      "劇情",
-      "美腿",
-      "形象俱樂部",
-      "中出",
-      "不倫",
-      "短髮",
-      "巨尻",
-      "美少女",
-      "商店",
-      "金髮",
-      "脚控・戀足癖",
-      "女同事",
-      "職員",
-      "淫妻",
-      "出軌",
-      "性感",
-      "美腳",
-      "巨乳",
-      "後入",
-      "辣妹/GAL系",
-      "口交",
-      "美少女電影",
-      "騎乗位"
+      "潮吹",
+      "苗条",
+      "平胸",
+      "恋物癖",
+      "女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240930-2/3bb763563836d39fdedd95e48d2380ed.jpg",
-    "actress": [
-      "春陽萌花",
-      "田渊正浩"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-305"
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4e28d3394aeeace0890b68473ba6d98a.jpg",
+    "actress": [
+      "星咲せいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-405"
   },
   {
-    "id": 12342,
-    "IDcode": "MIAB-306",
-    "title": "我每天都用我嫂子早就给我的喂奶",
+    "id": 74650,
+    "IDcode": "BLK-406",
+    "title": "すんごいお尻で男に跨り尻肉ぶるんぶるん揺らすデカ尻南米ハーフギャル発掘！！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫亂",
-      "NTR",
-      "出軌",
-      "人妻",
-      "乳交",
-      "蕩婦",
-      "熟女",
-      "女上位",
-      "中出",
-      "表姐・表妹",
-      "不倫",
-      "口交",
-      "巨乳",
-      "劇情",
-      "騎乗位",
-      "後入"
+      "晒黑",
+      "巨大屁股",
+      "女生",
+      "巨乳"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240930-2/442691dd7e689d289e8330297310bdbc.jpg",
-    "actress": [
-      "瀬田一花",
-      "たまし"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-306"
+    "publish_date": "2019-06-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/e6dd5280558d4db2249b576589a3b465.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-406"
   },
   {
-    "id": 11699,
-    "IDcode": "MIAB-308",
-    "title": "右耳ハァハァ左耳ハァハァ W淫語囁きで脳から快感トロけさすアジアンエステ 精子びゅるびゅる連射悶絶絶頂コース 月乃ルナ 黒川すみれ",
+    "id": 74651,
+    "IDcode": "BLK-407",
+    "title": "クソ生意気下着売り制服娘を監禁生姦キメパコ中出し 渚みつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "美乳",
-      "手指插入",
-      "女上位",
-      "淫語",
-      "中囯服裝",
-      "劇情",
-      "按摩・美容店",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "黑絲",
-      "雙飛",
-      "癡女",
-      "按摩女郎",
-      "乳交",
-      "形象俱樂部",
+      "监禁",
       "中出",
-      "慾求不滿",
-      "兩女一男",
-      "色白",
-      "巨尻",
-      "獵豔",
-      "美少女",
-      "3P・4P",
-      "顏射",
-      "顔面騎乘",
-      "絕頂高潮",
-      "網襪",
-      "脚控・戀足癖",
-      "胸控・戀乳癖",
-      "感官作品",
-      "ASMR顱内高潮",
-      "性感",
-      "COSPLAY服飾",
-      "美腳",
-      "巨乳",
-      "後入",
-      "風俗娘",
-      "明星臉",
-      "辣妹/GAL系",
-      "舔陰",
-      "口交",
-      "臀控",
-      "按摩・物理治療・美容",
-      "美少女電影",
-      "白絲",
-      "騎乗位"
+      "女生",
+      "高中女生"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/cf04cfd4/vod.jpg",
-    "actress": [
-      "黑川堇",
-      "月乃露娜"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-308"
+    "publish_date": "2019-06-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-407"
   },
   {
-    "id": 11984,
-    "IDcode": "MIAB-313",
-    "title": "双亲不在的三天-响莲",
+    "id": 75138,
+    "IDcode": "BLK-408",
+    "title": "田舎の日焼け家出ギャルを自宅に連れ帰りSEX強要！ナマイキな敏感乳首をイジると感度崩壊！ガクガク失禁マ●コに生パコ中出し！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
-      "兔女郎妝扮",
-      "女上位",
-      "姐弟・兄妹",
-      "過膝襪・小腿襪",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "黑絲",
-      "癡女",
-      "形象俱樂部",
+      "晒黑",
       "中出",
-      "美少女",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "自宅",
-      "姐姐・妹妹",
-      "性感",
-      "COSPLAY服飾",
-      "美腳",
-      "主觀視角",
-      "羞恥",
-      "後入",
-      "亂倫",
-      "口交",
-      "美少女電影",
-      "白絲",
-      "騎乗位",
-      "女學生"
+      "女生",
+      "巨乳"
     ],
     "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240930-1/5d1cbd08130920b30f9ca602aa647ed0.jpg",
-    "actress": [
-      "響蓮"
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-313"
+    "publish_date": "2019-06-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/1aae96aa69fe336c6f3695b9b19a8c53.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-408"
+  },
+  {
+    "id": 75144,
+    "IDcode": "BLK-409",
+    "title": "生意気だけど鬼カワ制服",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "调教",
+      "中出",
+      "素人作品",
+      "精选，综合",
+      "高中女生"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "KIRAKIRA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_KIRAKIRA",
+        "works_count": 362
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad78e55337d7f7be49533/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-409"
   }
 ];

@@ -1,114 +1,710 @@
 window.PAGE_DATA = [
   {
-    "id": 576280,
-    "IDcode": "748SPAY-239",
-    "title": "ホテルスタッフS",
+    "id": 575759,
+    "IDcode": "407KAG-014",
+    "title": "もも",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_748spay-239.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20220926/dofNRAfU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-239"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-014"
   },
   {
-    "id": 576279,
-    "IDcode": "748SPAY-240",
-    "title": "ホテリエY",
+    "id": 406992,
+    "IDcode": "407KAG-019",
+    "title": "りほ ガチ素人個人撮影",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_748spay-240.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f686c944f947007042116a89066385d9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-240"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-019"
   },
   {
-    "id": 540360,
-    "IDcode": "748SPAY-241",
-    "title": "NTR妻Sさん",
+    "id": 406998,
+    "IDcode": "407KAG-020",
+    "title": "りりか ガチ素人個人撮影",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/00c0e55e5264549123dad7965f3aeb5d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-020"
+  },
+  {
+    "id": 407082,
+    "IDcode": "407KAG-021",
+    "title": "ガチ素人個人撮影 「男は顔よりチ〇コでしょ」オナニーが日課の責め好き女神はフェラが好き！スレンダー美女とイチャラブセックスで3射精ｗｗ(0002)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dcf8c54abe2fa9be3370ed8a41dfdee3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-021"
+  },
+  {
+    "id": 407226,
+    "IDcode": "407KAG-022",
+    "title": "ガチ素人個人撮影 誰にでもヤラせるマシュマロビッチに口内発射2発＋中出し性交！一昨日も昨日もエッチしたけど今日もしたいビクビク感じすぎる肉感たっぷり敏感ボディ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f9175902a1743e83271aad2adddff5d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-022"
+  },
+  {
+    "id": 530329,
+    "IDcode": "407KAG-062",
+    "title": "【そら ガチ素人个人撮影】童颜×スレンダー长身な女子大生セフレのハメ撮り映像を未承认公开！！网タイツ穿かせて足コキで美脚を堪能☆纯朴女子がポルチオ鬼突きの快感に戸惑いながらも连続大絶顶ww",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://la.lashayu.com/upload/vod/20200802-1/212f45485a4bc1807f510408c818dc24.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-062"
+  },
+  {
+    "id": 406844,
+    "IDcode": "407KAG-079",
+    "title": "パチンコ勝利で手に入れた最新カメラでハメ撮り敢行☆素人好きならこいつは必見ｗｗ流されやすい20歳の乳輪プックリ美少女を調教した記録ｗｗ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/04e8da985943fa19ed1805d26da170dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-079"
+  },
+  {
+    "id": 177502,
+    "IDcode": "407KAG-109",
+    "title": "献身奉仕的S级美少女裸体围裙主观性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/15/f917e4aa7b9ee79d18cfc9b5eb140090.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-109"
+  },
+  {
+    "id": 196949,
+    "IDcode": "407KAG-111",
+    "title": "超淫乱巨乳OL激烈做爱榨光精液",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻"
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250913/DPrxXIwf/1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/18/3adf0ef7ce595a618045d1abb6896113.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-241"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-111"
   },
   {
-    "id": 540362,
-    "IDcode": "748SPAY-242",
-    "title": "NTR妻Nさん",
+    "id": 176411,
+    "IDcode": "407KAG-117",
+    "title": "完全素人美女变态妄想SM调教",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/21/e17d340ae89d56f40d1ae1d1a027c842.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-117"
+  },
+  {
+    "id": 196667,
+    "IDcode": "407KAG-135",
+    "title": "JD的天然乳液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/03/231b0204cbe037f211a3c4ad121d570e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=407KAG-135"
+  },
+  {
+    "id": 521858,
+    "IDcode": "409BZDC-001",
+    "title": "大手家电メーカー志望 2020年3月T大学卒业神奈川県在住佐藤麻衣さん(仮名)22歳の场合 その①",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200311-1/b56fa69ed854ffb630ff0f8e36174b8e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-001"
+  },
+  {
+    "id": 521857,
+    "IDcode": "409BZDC-004",
+    "title": "台湾出身ハーフ美少女チュンメイさん22歳 その②",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200311-1/fd8564111ac25dbc9b5cc27d516e15e8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-004"
+  },
+  {
+    "id": 530313,
+    "IDcode": "409BZDC-005",
+    "title": "ローカル番组元アナウンサー 结婚8年目31歳 都内在住 田中ゆうのさん(仮名) その①",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200516-1/fca4a763adb7089dcaf342524cb6311c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-005"
+  },
+  {
+    "id": 530299,
+    "IDcode": "409BZDC-009",
+    "title": "ローカル番组元アナウンサー 结婚8年目31歳 都内在住 田中ゆうのさん(仮名) その②",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200215-1/464f28603cf506ef917b7b8b30079bc9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-009"
+  },
+  {
+    "id": 575723,
+    "IDcode": "409BZDC-012",
+    "title": "【雌堕ちママの肉食系贪欲SEX】撮影",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/86lrJbqy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-012"
+  },
+  {
+    "id": 76724,
+    "IDcode": "409BZDC-013",
+    "title": "【#借金返済裏￥サポ映像1】アイドルそっくりの色白むっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/de7e63d1d593fa9b7298a05981643044.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-013"
+  },
+  {
+    "id": 508621,
+    "IDcode": "409BZDC-014",
+    "title": "【#借金返済裏￥サポ映像2】ブルセラコスで追撮SEX！デカチンを苦しそうにシャブってず～っとひたすらSEX！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/48d178c61a08cc5e87cdf96a66ce0bc6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-014"
+  },
+  {
+    "id": 508930,
+    "IDcode": "409BZDC-015",
+    "title": "【新宿裏サポパパ活①】まさに奇跡の純白！写真加工なしの美しさ！ぱっちり二重に高身長スタイル良しの制服美少女！発情覚醒させて生撮り即配信！ りんちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f1aa232fffa4ddbf3d530d596ea22ea5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-015"
+  },
+  {
+    "id": 508991,
+    "IDcode": "409BZDC-020",
+    "title": "【神美女】【エロテクキャバ嬢】【体液交わるPtoM_SEX】容姿端麗の最高美女がセックステクニックを極めたがって発情マン汁セックスで体液まみれのド下品肉食ハードセックスやりまくりアクメを貪り合う究極の変態交尾！！◆パイパンの膣内に生中出しでも満足せずに胸射おねだりの2連続射精◆※イキすぎ注意※",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d2f70658dbfaecd2cbd54bb8f59c5ed8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-020"
+  },
+  {
+    "id": 497750,
+    "IDcode": "409BZDC-021",
+    "title": "【美巨乳&amp;amp;パイパン】【おじさん大好き娘】【素の本気エッチ】自らAV撮影に応募してきたエッチに興味津々な若い女の子をおじさんテクで連続絶頂させたら発情しまくって余裕で生ハメOKだし気持ちよすぎて中出しも許しちゃうスケベ美少女になっちゃいました！！ るいちゃん(19) ②",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻"
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250913/kVqpSDj7/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e1b0bbee0e6faa3e3b1e0dda18ab5149.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-242"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-021"
   },
   {
-    "id": 540361,
-    "IDcode": "748SPAY-243",
-    "title": "NTR妻Iさん＆Mさん",
+    "id": 508989,
+    "IDcode": "409BZDC-022",
+    "title": "【MAXキメセク】【ドスケベレイヤー】【イクイクモンスター】Gカップ変態コスプレイヤーの超絶美少女を脳みそバグらせて性欲モンスターに大変身！！エチエチ衣装でマジイキ絶叫アクメ、スプラッシュ潮吹き、生ハメ中出し懇願！！ あずにゃん ①",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/395f515a46557e8d127077e928066a81.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=409BZDC-022"
+  },
+  {
+    "id": 153628,
+    "IDcode": "411-UTA-01",
+    "title": "虽然令人尴尬但身体一定有反应",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/e30e1090c5b4cc04414123745eb54239.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=411-UTA-01"
+  },
+  {
+    "id": 153625,
+    "IDcode": "411-UTA-02",
+    "title": "连续高潮SEXUta快乐不会停止",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/2cb4f842fea6472407cbf730baf1a92a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=411-UTA-02"
+  },
+  {
+    "id": 153626,
+    "IDcode": "411-UTA-04",
+    "title": "用顽皮的好奇心让你感觉良好的手淫Uta",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/a4ca151303d2c6d2334e5055768472ad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=411-UTA-04"
+  },
+  {
+    "id": 153624,
+    "IDcode": "412-SHIORI-01",
+    "title": "一个看起来整洁又喜欢性爱的女孩Shiori",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/a0e673d2abe899030f96811ac4403e95.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=412-SHIORI-01"
+  },
+  {
+    "id": 153623,
+    "IDcode": "412-SHIORI-03",
+    "title": "从这样的事情到这样的事情的美少女的服务HShiori",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/0f97c8e273e320886b29edc0e3161023.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=412-SHIORI-03"
+  },
+  {
+    "id": 153622,
+    "IDcode": "412-SHIORI-04",
+    "title": "暨不会停止的电动手淫Shiori",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/cb453967bdaf77f2c531e0ff2c3b3e14.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=412-SHIORI-04"
+  },
+  {
+    "id": 153621,
+    "IDcode": "413-BENI-01HBENI",
+    "title": "与娇小的女孩一起感觉但微笑著作弊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/c40518f5e6fb1bcffb8d8308c3bb2413.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413-BENI-01HBENI"
+  },
+  {
+    "id": 153619,
+    "IDcode": "413-BENI-02",
+    "title": "蚀刻感觉并成为一体Beni",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/1ea79ad3c3e0ffc4db8d0fff29afb033.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413-BENI-02"
+  },
+  {
+    "id": 153620,
+    "IDcode": "413-BENI-04",
+    "title": "如果你想自慰我更喜欢电动按摩机而不是转子贝尼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250404-1/783ba4a33ce392655f417d145e57a136.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413-BENI-04"
+  },
+  {
+    "id": 486595,
+    "IDcode": "413INON-001",
+    "title": "着エロモデル流出 美巨乳プライベート中出し2連発イキまくりハメ撮り",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻"
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250913/lh1929Fm/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/6a77f85ee599b11cddeda1c91efdbb26.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-243"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INON-001"
   },
   {
-    "id": 540363,
-    "IDcode": "748SPAY-244",
-    "title": "NTR妻Kさん＆Uさん",
+    "id": 473388,
+    "IDcode": "413INON-002",
+    "title": "【マッスル個人撮影】セレブ妻 マイ 27歳 美しすぎる現役モデル妻が筋肉男に浮気3P",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/6ae739784715521d170cad02d9dc283c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INON-002"
+  },
+  {
+    "id": 542734,
+    "IDcode": "413INON-003",
+    "title": "【マシュマロ软乳おっぱい】アダルトショップ店员24歳 発情しまくるビンカン全身性感帯の色",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241230/3997S6Ld/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INON-003"
+  },
+  {
+    "id": 542733,
+    "IDcode": "413INON-004",
+    "title": "女性风俗の実态 芸能人 M レコーダー 短期贩売",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241230/dWhlzvhz/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INON-004"
+  },
+  {
+    "id": 542735,
+    "IDcode": "413INON-005",
+    "title": "ドSパパ活ギャルの乳首攻め＆言叶攻めでイチャイチャ生中骑乘位SEX【スレンダー女子大生V",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [],
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241230/mP86drqv/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INON-005"
+  },
+  {
+    "id": 101437,
+    "IDcode": "413INON-006",
+    "title": "年下チ◯ポだぁ～い好き♪裏垢お姉さん ホテル乱交パーティ個撮映像流出 ドスケベW痴女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻"
+      "乱交"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250913/vsWV3Poj/1.jpg",
+    "type": "有码",
+    "companys": [],
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-244"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INON-006"
   },
   {
-    "id": 574899,
-    "IDcode": "748SPAY-245",
-    "title": "町内会人妻5人(Sさん·Nさん·Iさん·Mさん·Kさん·Uさん)",
+    "id": 530308,
+    "IDcode": "413INST-003",
+    "title": "J☆3年生たえちゃん(18)彼氏大好き♡でもチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200215-1/df0728a08ea51246c1b546ea3f8112a9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-003"
+  },
+  {
+    "id": 521860,
+    "IDcode": "413INST-004",
+    "title": "【个人撮影】体育教师まりえ先生26歳☆中●教师とハメ撮り成功☆学校で男子生徒を発情させてしまうフェロモンおっぱい先生！禁欲生活3か月！イケメンたちにチヤホヤされて浮かれて脱がされ生中性教育！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200311-1/83e1c7c99aa71eb892a095d50511c400.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-004"
+  },
+  {
+    "id": 509166,
+    "IDcode": "413INST-005",
+    "title": "【♀個人撮影】みのりちゃん22才 ムッツリおっぱい娘★ボインボイン揺れる完璧すぎる神乳お姉さん！ポルチオ突かれて腰砕け悶絶大量中出しSEX【素人動画】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/49f0934b5942e6b953449ef9f4386bbb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-005"
+  },
+  {
+    "id": 60053,
+    "IDcode": "413INST-006",
+    "title": "以前是啦啦队的人妻被大叔调教拍摄控制不住内射进去最后答应给她双倍的钱才不生气",
     "year": "",
     "country": "",
     "genre": "",
@@ -116,1592 +712,1271 @@ window.PAGE_DATA = [
       "人妻",
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/5vg9xQef/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-245"
-  },
-  {
-    "id": 574900,
-    "IDcode": "748SPAY-246",
-    "title": "中村さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/70dfWUaw/1.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/c40988c9/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-246"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-006"
   },
   {
-    "id": 574901,
-    "IDcode": "748SPAY-247",
-    "title": "竹内さん",
+    "id": 99539,
+    "IDcode": "413INST-007",
+    "title": "あやみ＆まりえ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/Zqoy0kHj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-247"
-  },
-  {
-    "id": 574902,
-    "IDcode": "748SPAY-248",
-    "title": "横山さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/px5DHOkv/1.jpg",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-248"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-007"
   },
   {
-    "id": 574903,
-    "IDcode": "748SPAY-249",
-    "title": "真田さん",
+    "id": 509177,
+    "IDcode": "413INST-008",
+    "title": "【素人個人撮影】大学生ヤリサー乱交会 新入り18歳♀歓迎グループ一番のデカチンポにハメ撮りさせられ仲間堕ちする映像がヤバすぎる(′ω`)【素人生ハメ乱交】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/sabG61cS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-249"
-  },
-  {
-    "id": 574906,
-    "IDcode": "748SPAY-250",
-    "title": "きよかちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/jCLXqbUV/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-250"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-008"
   },
   {
-    "id": 574905,
-    "IDcode": "748SPAY-251",
-    "title": "ゆらちゃん",
+    "id": 509107,
+    "IDcode": "413INST-009",
+    "title": "るみちゃん18才☆試験勉強から解放されたばかりの受験生が念願のSEX無意識だいしゅきホールドでチンポを離さない幼いカラダ溜まりに溜まった性欲をぶつけるイチャラブ青春交尾",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/TM1rg349/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-251"
-  },
-  {
-    "id": 574904,
-    "IDcode": "748SPAY-252",
-    "title": "ひかげちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/iYTmX3GH/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3d5ab826524cedd379a8b806bfad2fa9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-252"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-009"
   },
   {
-    "id": 574907,
-    "IDcode": "748SPAY-253",
-    "title": "ひなのちゃん",
+    "id": 508817,
+    "IDcode": "413INST-010",
+    "title": "【個人撮影】【顔出し】19歳某有名事務所所属現役アイドルとの【秘密の個人撮影】デビュー4年に渡る出会いのSEX 顔出し中出し映像付【コスプレ】(0002)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "嫩妹"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250914/5Y5H54nS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-253"
-  },
-  {
-    "id": 540348,
-    "IDcode": "748SPAY-254",
-    "title": "债务者の娘Sちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/Byxjs0xj/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-254"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-010"
   },
   {
-    "id": 540347,
-    "IDcode": "748SPAY-255",
-    "title": "债务者の娘Hちゃん",
+    "id": 509155,
+    "IDcode": "413INST-011",
+    "title": "【4P乱交個人撮影】素人大学生ヤリサー乱交 運動部同士の柔道♂バレーボール♀がするSEXは体力もあるし性欲もすごいしでホントやばい 個人撮影 乱交 ハメ撮り",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/SVuSFmDY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-255"
-  },
-  {
-    "id": 540349,
-    "IDcode": "748SPAY-256",
-    "title": "债务者の娘Kちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/ukEzaTTA/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d5e7f166a894fe52a89282abf5bd9bc7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-256"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-011"
   },
   {
-    "id": 540350,
-    "IDcode": "748SPAY-257",
-    "title": "债务者の娘Tちゃん",
+    "id": 103161,
+    "IDcode": "413INST-013",
+    "title": "Love2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/4abr7SDj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-257"
-  },
-  {
-    "id": 540353,
-    "IDcode": "748SPAY-258",
-    "title": "债务者の娘Aちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/rnW6LT3J/1.jpg",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-258"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-013"
   },
   {
-    "id": 540351,
-    "IDcode": "748SPAY-259",
-    "title": "こずえちゃん",
+    "id": 99402,
+    "IDcode": "413INST-014",
+    "title": "あんな＆みあ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/YSWB53Md/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-259"
-  },
-  {
-    "id": 540352,
-    "IDcode": "748SPAY-260",
-    "title": "きよかちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/giLC3afO/1.jpg",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-260"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-014"
   },
   {
-    "id": 540354,
-    "IDcode": "748SPAY-261",
-    "title": "ひかるちゃん",
+    "id": 509154,
+    "IDcode": "413INST-016",
+    "title": "【個人撮影】【顔出し】クラスSS神！Fカップ巨乳アイドルと個人撮影成功 禁断の顔出し中出し映像",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/mNXCFOPv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-261"
-  },
-  {
-    "id": 540356,
-    "IDcode": "748SPAY-262",
-    "title": "もあちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/pJnD9aKS/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ca4304ca5051769efc3241a1924adf5d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-262"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-016"
   },
   {
-    "id": 540355,
-    "IDcode": "748SPAY-263",
-    "title": "山本さん",
+    "id": 509265,
+    "IDcode": "413INST-017",
+    "title": "【個人撮影】フワトロ軟乳 あきほちゃん 24歳Hカップを縦横無尽に振り乱して笑顔で卒倒！爆乳マンコに人生初の中出し了承！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250915/gUlcbZst/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-263"
-  },
-  {
-    "id": 574877,
-    "IDcode": "748SPAY-264",
-    "title": "岩下さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250916/mi4uAHZo/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cbc6238ed0b6ce9147df8424433afbbc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-264"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-017"
   },
   {
-    "id": 574878,
-    "IDcode": "748SPAY-265",
-    "title": "神田さん",
+    "id": 509042,
+    "IDcode": "413INST-018",
+    "title": "巨乳JDと放課後浮気ハメ撮り中イき未経験マンコのポルチオ開発したらおっぱいブルンブルン弾ませイき狂い！幼穴をゴリゴリ拡張して「彼氏より気持ちイイ！」と堕ちる子宮にチンポを差し込んで無責任大量射精！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250916/TfdtqfBL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-265"
-  },
-  {
-    "id": 574879,
-    "IDcode": "748SPAY-266",
-    "title": "加藤さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250916/iiXm1WGP/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/391310134b4cf771bc5fc62f8ba58e14.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-266"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-018"
   },
   {
-    "id": 574880,
-    "IDcode": "748SPAY-267",
-    "title": "えるさん",
+    "id": 102978,
+    "IDcode": "413INST-019",
+    "title": "まちりん 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250916/laOqf1x0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-267"
-  },
-  {
-    "id": 574881,
-    "IDcode": "748SPAY-268",
-    "title": "かすみさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250916/081lWIQ5/1.jpg",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-268"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-019"
   },
   {
-    "id": 574883,
-    "IDcode": "748SPAY-269",
-    "title": "なぎささん",
+    "id": 508996,
+    "IDcode": "413INST-020",
+    "title": "【個人撮影】爆乳エステティシャン あきほちゃん 24歳 のド迫力Hカップをオイルまみれで逆マッサージ！軟乳とマンコをトロットロにしてオチンポ懇願イキまくり中出しSEX！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250916/UvTeKUXG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-269"
-  },
-  {
-    "id": 574882,
-    "IDcode": "748SPAY-271",
-    "title": "Tさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250916/D0TmqARn/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bae392ead78a9589983f4ed11691915b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-271"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-020"
   },
   {
-    "id": 574867,
-    "IDcode": "748SPAY-272",
-    "title": "Nさん",
+    "id": 509282,
+    "IDcode": "413INST-021",
+    "title": "《ウルトラレア覚醒》【個人撮影】 怪盗ラブ○イブ！C96で見つけた元子役アイドル娘と個人撮影 夏コミはエロ♀の宝庫。夢のハメ撮り中出しSEX映像【素人撮影】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/xLkvLRgf/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-272"
-  },
-  {
-    "id": 574873,
-    "IDcode": "748SPAY-273",
-    "title": "Sさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/nPfPqItx/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8e5a96b4050fe2e8e99ec42b006c9d65.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-273"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-021"
   },
   {
-    "id": 574871,
-    "IDcode": "748SPAY-274",
-    "title": "Yさん",
+    "id": 509043,
+    "IDcode": "413INST-022",
+    "title": "ドSロリ娘りりなちゃん(19)ガリ細小柄の神スタイルで親父の精液搾り取る変態娘☆勝手にイッちゃダメ下僕チンポを肉ディルド扱いでおまんこ打ち付けセルフ連続絶頂！100回イくまで腰を振らせる小悪魔SEX！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/rs29rrr0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-274"
-  },
-  {
-    "id": 574869,
-    "IDcode": "748SPAY-275",
-    "title": "枕グラドルK",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/2xPCJRre/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7a5137492107ca629abfdb395b6751b6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-275"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-022"
   },
   {
-    "id": 574868,
-    "IDcode": "748SPAY-276",
-    "title": "枕グラドルT",
+    "id": 530330,
+    "IDcode": "413INST-023",
+    "title": "【个人撮影】【颜出し】こんなアヘ颜を晒す美少女レイヤーがいたのか！？CAアイドル娘と个人撮影成功 敏感J◆がカメコ巨根挿入でアヘ颜神イキ中出し映像",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/DSgIRMM3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-276"
-  },
-  {
-    "id": 574870,
-    "IDcode": "748SPAY-277",
-    "title": "枕グラドルS",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/3uyOf4tE/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200803-1/09d66effd648d5db5a63fcc4cb46cbc7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-277"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-023"
   },
   {
-    "id": 574872,
-    "IDcode": "748SPAY-278",
-    "title": "枕グラドルH",
+    "id": 530332,
+    "IDcode": "413INST-025",
+    "title": "究极ドSロリ颜JDりりな様vs逆袭おじさん☆オス二头がかりで超小柄ボディが宙を舞うほど子宫にブチ込むお仕置きピストン☆のけぞり！絶顶！ハメ狂い！生意気娘をイカせ溃す连続中出しFEVER",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/BCkd8eic/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-278"
-  },
-  {
-    "id": 574874,
-    "IDcode": "748SPAY-279",
-    "title": "まなみさん＆かなさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/hxIP0Au5/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200804-1/a2fb930424e4236be499dbc86d03ad8e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-279"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-025"
   },
   {
-    "id": 574875,
-    "IDcode": "748SPAY-280",
-    "title": "つかささん＆まゆさん",
+    "id": 530331,
+    "IDcode": "413INST-026",
+    "title": "【个人撮影】【颜出し】美少女レイヤーおっ おおっ おおうっ♪ 巨根生ハメ3P种付けファックでアヘ颜絶顶ダブルピース☆清楚系J♪レイヤーがカメコ巨根2本刺しで潮吹き痉挛映像【",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250917/cv8FtpI3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-280"
-  },
-  {
-    "id": 576374,
-    "IDcode": "748SPAY-281",
-    "title": "客室系N",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231205/pb_e_748spay-281.jpg!320x216.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200804-1/ffa824946a21ec381f82907f51303480.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-281"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-026"
   },
   {
-    "id": 576373,
-    "IDcode": "748SPAY-282",
-    "title": "ルームメイドH",
+    "id": 530334,
+    "IDcode": "413INST-027",
+    "title": "【个人撮影】【颜出し】18歳アイドル女子校生レイヤーと个人撮影会 【ハメ撮り】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231205/pb_e_748spay-282.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-282"
-  },
-  {
-    "id": 576372,
-    "IDcode": "748SPAY-283",
-    "title": "コンシェルジュM",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231205/pb_e_748spay-283.jpg!320x216.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200805-1/56acc059cd14a924d21bae4c93cfb242.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-283"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-027"
   },
   {
-    "id": 576371,
-    "IDcode": "748SPAY-284",
-    "title": "ホテリエA",
+    "id": 530333,
+    "IDcode": "413INST-030",
+    "title": "【个人撮影】18歳アイドル女子大生レイヤーと个人撮影会【初めての复数セックス3P】雄たけびを上げてイキ続ける姫を何度もハメ逝かせて全身硬直アクメ【素人】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231205/pb_e_748spay-284.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-284"
-  },
-  {
-    "id": 540336,
-    "IDcode": "748SPAY-285",
-    "title": "ワイ専用肉便器K",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250918/tzjveVFz/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200805-1/39dcd3fadc6ff6a2b7009b221967dfd9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-285"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-030"
   },
   {
-    "id": 540337,
-    "IDcode": "748SPAY-286",
-    "title": "ワイ専用肉便器M",
+    "id": 531619,
+    "IDcode": "413INST-057",
+    "title": "【个人撮影】【颜出し】神Gカップ！やっぱ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250918/TWQ4NEM5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-286"
-  },
-  {
-    "id": 540340,
-    "IDcode": "748SPAY-287",
-    "title": "ワイ専用肉便器Y",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250918/6HkO0ODf/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240222-1/a0538626741e9bb17bcc0675c8893f3c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-287"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-057"
   },
   {
-    "id": 540339,
-    "IDcode": "748SPAY-288",
-    "title": "ワイ専用肉便器A",
+    "id": 522384,
+    "IDcode": "413INST-058",
+    "title": "Gカップ神乳ドル こころちゃん19歳☆あの伝说",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "嫩妹"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250918/VK9kiiJB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-288"
-  },
-  {
-    "id": 540338,
-    "IDcode": "748SPAY-289",
-    "title": "リフレの天使K",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250918/NXzErnI4/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240217-1/23531b16e13ce9f89dbef9f9cb6e6d41.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-289"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-058"
   },
   {
-    "id": 540342,
-    "IDcode": "748SPAY-290",
-    "title": "リフレの天使H",
+    "id": 522382,
+    "IDcode": "413INST-059",
+    "title": "【3P】りのちー19才☆キンタマ4つ分の大量",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250918/50kA2RQu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-290"
-  },
-  {
-    "id": 540341,
-    "IDcode": "748SPAY-291",
-    "title": "リフレの天使A",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250918/2gjNvLih/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240217-1/d8d9905bb3fbc4d0b2c7b0145499d73e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-291"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-059"
   },
   {
-    "id": 574854,
-    "IDcode": "748SPAY-292",
-    "title": "リフレの天使I",
+    "id": 522383,
+    "IDcode": "413INST-062",
+    "title": "きみのちゃん20歳☆絶対颜出しNGの元モデル",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/4CzQdLQc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-292"
-  },
-  {
-    "id": 574855,
-    "IDcode": "748SPAY-293",
-    "title": "Y乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/PD0NpBBi/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240217-1/0cac2f067a8ca45b61f6fdba72a55903.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-293"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-062"
   },
   {
-    "id": 574856,
-    "IDcode": "748SPAY-294",
-    "title": "M菜香",
+    "id": 522381,
+    "IDcode": "413INST-064",
+    "title": "女子校に通うみかんちゃん18歳！初体験のお相",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/N8n4AMPu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-294"
-  },
-  {
-    "id": 574858,
-    "IDcode": "748SPAY-295",
-    "title": "M衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/yQcDbGAl/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240217-1/c38e9bb3bb4f9d1d661bb58ec7fb43b7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-295"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-064"
   },
   {
-    "id": 574860,
-    "IDcode": "748SPAY-296",
-    "title": "Y梨",
+    "id": 197001,
+    "IDcode": "413INST-070",
+    "title": "阳光开朗晴天女孩黑丝美尻4P淫乱性交",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/qCSylTaD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-296"
-  },
-  {
-    "id": 574862,
-    "IDcode": "748SPAY-297",
-    "title": "若宫さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/4EARWQo3/1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/15/e67544019031c9a7fbcaf5c2b2c8b022.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-297"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-070"
   },
   {
-    "id": 574859,
-    "IDcode": "748SPAY-298",
-    "title": "豊冈さん",
+    "id": 196906,
+    "IDcode": "413INST-076",
+    "title": "两名淫女美容师5P大乱交内射",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/LC6MSh28/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-298"
-  },
-  {
-    "id": 574857,
-    "IDcode": "748SPAY-299",
-    "title": "本田さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/0U3ItIyD/1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/21/8a45a4bb25b282cb8730087ebe1bdb49.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-299"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-076"
   },
   {
-    "id": 574863,
-    "IDcode": "748SPAY-300",
-    "title": "中丸さん",
+    "id": 196831,
+    "IDcode": "413INST-078",
+    "title": "清纯性感女大学生个人摄影乱交2人组中出因恳求而射精时被冲击到翻白眼高潮高潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/uOs8A3QP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-300"
-  },
-  {
-    "id": 574861,
-    "IDcode": "748SPAY-301",
-    "title": "万引き少女M",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/m9hqywaL/1.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/8ace96f3/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-301"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-078"
   },
   {
-    "id": 540323,
-    "IDcode": "748SPAY-302",
-    "title": "无銭饮食少女A",
+    "id": 196801,
+    "IDcode": "413INST-080",
+    "title": "那个引起热论的写真模特极其隐秘的个人摄影会",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/kvPBHXNu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-302"
-  },
-  {
-    "id": 540324,
-    "IDcode": "748SPAY-303",
-    "title": "万引き少女A",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/f07HCe4x/1.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/25/97f0dba2b9a1719a3b78c9825626e5fc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-303"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-080"
   },
   {
-    "id": 540325,
-    "IDcode": "748SPAY-304",
-    "title": "无銭饮食少女R",
+    "id": 519856,
+    "IDcode": "413INST-161",
+    "title": "[紧急发布] 狂欢",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/6yTTGJIM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-304"
-  },
-  {
-    "id": 540326,
-    "IDcode": "748SPAY-305",
-    "title": "新村さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/KKpHTv5S/1.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/0fddaae2e329f28bf2fb3a3da3aecd3f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-305"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-161"
   },
   {
-    "id": 540327,
-    "IDcode": "748SPAY-306",
-    "title": "永野さん",
+    "id": 519857,
+    "IDcode": "413INST-164",
+    "title": "● 泄露● [个人拍摄] [秘密 cosplay 合影] 与现役女播音员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/Qa3ZxLsa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-306"
-  },
-  {
-    "id": 540328,
-    "IDcode": "748SPAY-307",
-    "title": "川菜さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/H6EZwuke/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221023-1/5f98c2f96e9ffab8928c9a162722abb5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-307"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-164"
   },
   {
-    "id": 540329,
-    "IDcode": "748SPAY-308",
-    "title": "有冈さん",
+    "id": 79517,
+    "IDcode": "413INST-166",
+    "title": "【现役バスガイド】●流出个人撮影●某○○観光 美人ガイド アポを取りoffにハメ撮り个撮 チンポ大好き男を喰らう痴女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/BGymuOE3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-308"
-  },
-  {
-    "id": 540331,
-    "IDcode": "748SPAY-309",
-    "title": "Oさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/Bbcv5h54/1.jpg",
+    "publish_date": "2022-05-05",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/fb554cd7d17a3aa438a933bcdc19bf7c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-309"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-166"
   },
   {
-    "id": 540332,
-    "IDcode": "748SPAY-310",
-    "title": "Sさん",
+    "id": 529925,
+    "IDcode": "413INST-178",
+    "title": "【人妻 乱交个人摄影】丰满爆乳I CUP人妻 KOKORO 肉棒依存症的人妻 历代最强级好色",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "人妻",
+      "素人",
+      "乱交",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/tleDDSPk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-310"
-  },
-  {
-    "id": 540330,
-    "IDcode": "748SPAY-311",
-    "title": "Tさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/rI0FTo3L/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/20241202/NxtnSI0F/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-311"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-178"
   },
   {
-    "id": 574843,
-    "IDcode": "748SPAY-312",
-    "title": "Rさん",
+    "id": 80644,
+    "IDcode": "413INST-205",
+    "title": "春药融化的K杯",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250921/cJ4eudkd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-312"
-  },
-  {
-    "id": 574839,
-    "IDcode": "748SPAY-314",
-    "title": "るいささん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250921/CaHrSZje/1.jpg",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/221a919194118b4ca2360c5d50da6dc6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-314"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-205"
   },
   {
-    "id": 574841,
-    "IDcode": "748SPAY-316",
-    "title": "怜奈さん",
+    "id": 520084,
+    "IDcode": "413INST-211",
+    "title": "Kcup 凹印个人拍摄奇闻趣事",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250921/SUDRsh96/1.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/edde4e0b7efd807974a2750e15084d07.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-316"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-211"
   },
   {
-    "id": 574845,
-    "IDcode": "748SPAY-321",
-    "title": "K＆M",
+    "id": 520047,
+    "IDcode": "413INST-212",
+    "title": "巨乳魅魔公鸡疯狂吸吮打击",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
     ],
-    "type": "",
-    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250921/jM1KdOlf/1.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/dc7e0633280353761c0d793e73887ea2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-321"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-212"
   },
   {
-    "id": 574844,
-    "IDcode": "748SPAY-327",
-    "title": "リフレの天使O",
+    "id": 519947,
+    "IDcode": "413INST-215",
+    "title": "女仆咖啡厅H罩杯巨乳Galko",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250921/aQ6NPvDT/1.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/879f0b62acf23a5357b904c6a1bed26e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-327"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INST-215"
   },
   {
-    "id": 574840,
-    "IDcode": "748SPAY-328",
-    "title": "リフレの天使M",
+    "id": 502768,
+    "IDcode": "413INSTC-228",
+    "title": "总之就是很可爱×头脑聪明×色情巨乳＝太厉害了！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250921/3scVfr0X/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/6478fe6490e6832ed2cc4fe9fb00c9d4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-328"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-228"
   },
   {
-    "id": 574842,
-    "IDcode": "748SPAY-329",
-    "title": "リフレの天使S",
+    "id": 482849,
+    "IDcode": "413INSTC-271",
+    "title": "【カフェ好き女子流出】黒髪ロング纯粋ぴゅあっこ女子大生(20歳) 彼氏とカフェ巡り！お泊りホテルで喉奥グポグポ、痉挛アクメするパイパンすじマンコに生ハメ大量中出し映像流出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250921/b92bErvK/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/31fa4199b403f5e344ed98ac3e14a144.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-329"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-271"
   },
   {
-    "id": 540285,
-    "IDcode": "748SPAY-330",
-    "title": "リフレの天使Y",
+    "id": 502760,
+    "IDcode": "413INSTC-273",
+    "title": "【気持ち良すぎて母乳ドバッ！】巨乳女教师 vs 美少女女子校生 イケメン男子生徒に堕とされ肉穴オイル乱交パーティ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱交",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/NjQDtWXb/1.jpg?t=1758607099",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/bf7c53142770ed437031a3f23f6e912a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-330"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-273"
   },
   {
-    "id": 540288,
-    "IDcode": "748SPAY-331",
-    "title": "加藤さん",
+    "id": 74035,
+    "IDcode": "413INSTC-290",
+    "title": "智香/绫亚",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/lUXrnIOo/1.jpg?t=1758607145",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/f305763ed85e54c0f62023aea6699aed.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-331"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-290"
   },
   {
-    "id": 540287,
-    "IDcode": "748SPAY-332",
-    "title": "铃木さん",
+    "id": 475793,
+    "IDcode": "413INSTC-314",
+    "title": "【人妻オフパコ】27歳 美人奥さま 2人组と乱交オフパコパーティ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "人妻",
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/XDC4V81n/1.jpg?t=1758607127",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/aa03888f02c17393b152516e5bc5cc0f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-332"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-314"
   },
   {
-    "id": 540290,
-    "IDcode": "748SPAY-333",
-    "title": "有坂さん",
+    "id": 74029,
+    "IDcode": "413INSTC-325",
+    "title": "【黄金巨乳】神モテ女子大生 现役H乳巨乳グラドルと大学生彼氏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/RQ42efGt/1.jpg?t=1758607182",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/14ff92f1e2d0665d3d4ad8745e1f2066.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-333"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-325"
   },
   {
-    "id": 540286,
-    "IDcode": "748SPAY-334",
-    "title": "児玉さん",
+    "id": 491652,
+    "IDcode": "413INSTC-326",
+    "title": "【熟女教师】マラソン选手の体育教师と学生カップルの禁断SEX撮りました。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/WjLUMepC/1.jpg?t=1758607112",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/ebbfe414a7cde9fce0309c0412c96409.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-334"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-326"
   },
   {
-    "id": 540289,
-    "IDcode": "748SPAY-335",
-    "title": "M.M",
+    "id": 475795,
+    "IDcode": "413INSTC-327",
+    "title": "【人妻の怪物】人妻オフパコ生まんこ无制限中出し乱交パーティ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "人妻",
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/P2NUufrp/1.jpg?t=1758607178",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/c016b6a774265743e291de9e17dcd332.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-335"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-327"
   },
   {
-    "id": 540292,
-    "IDcode": "748SPAY-336",
-    "title": "S.E",
+    "id": 502745,
+    "IDcode": "413INSTC-330",
+    "title": "【惊异のIカップ巨乳】リア充大学生たちのSEX流出 公园に游びに来てた乳缲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/CjylANew/1.jpg?t=1758607187",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/ae60d658560dde9bba2d3af291eac550.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-336"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-330"
   },
   {
-    "id": 540291,
-    "IDcode": "748SPAY-337",
-    "title": "S.M",
+    "id": 502742,
+    "IDcode": "413INSTC-331",
+    "title": "【ありがとうモモちゃん！】爆乳Jcup女子大生 NTR后の大学ビ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "淫妻",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/UmcMzAYh/1.jpg?t=1758607187",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/de1b2b0c64c9a5082a9ff0668f2094e3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-337"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-331"
   },
   {
-    "id": 540293,
-    "IDcode": "748SPAY-338",
-    "title": "A.M",
+    "id": 74028,
+    "IDcode": "413INSTC-332",
+    "title": "【おうちでプール】水着ガール これが若さか！めちゃカワ女子大生 彼氏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250922/nvnb6DqD/1.jpg?t=1758607209",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/a69f027f862512df2c527faae53b2250.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-338"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-332"
   },
   {
-    "id": 574813,
-    "IDcode": "748SPAY-339",
-    "title": "Mさん",
+    "id": 491668,
+    "IDcode": "413INSTC-333",
+    "title": "【日焼け迹がエロすぎるっ！】超セックス大好き日焼けギャル3人と乱交パーティ！エッチオ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/gGOuod3o/1.jpg?t=1758680402",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/568bc4a8f9d6bfffc8feb41076d9fb41.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-339"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-333"
   },
   {
-    "id": 574818,
-    "IDcode": "748SPAY-340",
-    "title": "Oさん",
+    "id": 491683,
+    "IDcode": "413INSTC-334",
+    "title": "【ぼくの夏休み】夏だ！地方のホテルで田舎娘呼び込み乱交パーティ！纯粋无垢なお土产屋さんの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱交"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/77Vx9sJv/1.jpg?t=1758680449",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/5dc78256571c735b77079ad71db9e7ec.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-340"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTC-334"
   },
   {
-    "id": 574814,
-    "IDcode": "748SPAY-341",
-    "title": "Kさん",
+    "id": 532809,
+    "IDcode": "413INSTMA-055",
+    "title": "【巨乳Icupセレブ妻】マッスル vs セレブ妻 スライム美乳の美女妻を筋肉チ○ポでハメ堕とす！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/9vLI2cSC/1.jpg?t=1758680467",
+    "cover_url": "http://15.155250922.com/upload/vod/20231005/pb_e_413instma-055.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-341"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTMA-055"
   },
   {
-    "id": 574815,
-    "IDcode": "748SPAY-342",
-    "title": "Rさん",
+    "id": 532873,
+    "IDcode": "413INSTMA-060",
+    "title": "【性欲猛烈爆乳セレブ夫人】筋肉 vs Jcup巨乳セレブ妻 性欲魔人の美女奥さまを筋肉チ○ポでハメ堕とす3P！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/YDZZzhAI/1.jpg?t=1758680489",
+    "cover_url": "http://15.155250922.com/upload/vod/20231104/pb_e_413instma-060.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-342"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTMA-060"
   },
   {
-    "id": 574812,
-    "IDcode": "748SPAY-345",
-    "title": "ホテルスタッフA",
+    "id": 532783,
+    "IDcode": "413INSTMA-061",
+    "title": "【快楽优先セレブ巨乳】Gカップ巨乳セレブ妻 圣なる夜に気持ち良くなる桃マリオで狂う女。生ハメ中出しSEX！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/MAWgJlSJ/1.jpg?t=1758680450",
+    "cover_url": "http://15.155250922.com/upload/vod/20230918/pb_e_413instma-061.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-345"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTMA-061"
   },
   {
-    "id": 574817,
-    "IDcode": "748SPAY-346",
-    "title": "ホテルスタッフU",
+    "id": 533126,
+    "IDcode": "413INSTNA-001",
+    "title": "【日焼け♪●杀セクシーギャル妻】セレブ妻 ミナコ 27歳 こんがり焼けたボディがエロすぎるギャル妻を中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/HpcOYXHH/1.jpg?t=1758680448",
+    "cover_url": "http://15.155250922.com/upload/vod/20240403/pb_e_413instna-001.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-346"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTNA-001"
   },
   {
-    "id": 574816,
-    "IDcode": "748SPAY-347",
-    "title": "ホテルスタッフY",
+    "id": 502766,
+    "IDcode": "413INSTV-359",
+    "title": "【Hカップ爆乳】ツンデレ女子と生ハメ中出し性交。膣奥种付けキメたらアヘ颜し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/F4J5VrCj/1.jpg?t=1758680471",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/3dccc8c6f73919cbcceab99795a5b983.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-347"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTV-359"
   },
   {
-    "id": 574819,
-    "IDcode": "748SPAY-348",
-    "title": "ホテルスタッフW",
+    "id": 532587,
+    "IDcode": "413INSTV-376",
+    "title": "[] 【マッスル女子大生】レスリング部 筋肉女子のリアルSEX撮らせていただきました！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20250923/CNhpXzw1/1.jpg?t=1758680496",
+    "cover_url": "http://15.155250922.com/upload/vod/20230608/pb_e_413instv-376.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-348"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTV-376"
   },
   {
-    "id": 170698,
-    "IDcode": "748SPAY-349",
-    "title": "Sさん(仮)",
+    "id": 532623,
+    "IDcode": "413INSTV-379",
+    "title": "【惊愕】廃墟マニア配信者4人组♂2x♀2 撮影中はぐれたついでに兴奋してSEXしてた激やば映像入手！めちゃくち！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/5597e09ffec0980ce642d9f93e3c9bd3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-349"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTV-379"
   },
   {
-    "id": 479340,
-    "IDcode": "748SPAY-350",
-    "title": "Kさん(仮)",
+    "id": 576461,
+    "IDcode": "413INSTV-381",
+    "title": "【交际10年·纯爱カップル】高校时代から付き合ってきた27歳男女。プロポーズからの激アツハメ撮りSEX入手。爱の生ハメ中出し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/c1492ac6b27a0b908e6b6ae81ac8b899.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230112/icLGhGz9/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-350"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTV-381"
   },
   {
-    "id": 479352,
-    "IDcode": "748SPAY-351",
-    "title": "Yさん(仮)",
+    "id": 532642,
+    "IDcode": "413INSTV-384",
+    "title": "【惊愕えろ】廃墟マニア配信者4人组♂2x♀2 廃虚探検中、兴奋してSEXしてた激やば映像入手！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/3d5e1a0ad31c6fc9a129edca258acefe.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20230525/pb_e_413instv-384.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-351"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTV-384"
   },
   {
-    "id": 479342,
-    "IDcode": "748SPAY-352",
-    "title": "Nさん(仮)",
+    "id": 532828,
+    "IDcode": "413INSTV-396",
+    "title": "【おっぱいH】个人撮影 年上好きの爆乳Hカップ学园のアイドル女子大生、禁断の大学教授との肉体関系、ハメ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
-    "type": "",
-    "company": "",
+    "type": "有码",
+    "companys": [],
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/83c936becc8b6e2e6881c3b7a7536a14.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_413instv-396.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-352"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=413INSTV-396"
   }
 ];
