@@ -14,8 +14,13 @@
     "IDcode": "XVSR-134",
     "title": "官能小説 嫁くらべ",
     "publish_date": "",
-    "type": null,
-    "company": "MAX-A",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MAX-A",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MAX_A"
+      }
+    ],
     "genres": [
       "戏剧",
       "美少女",

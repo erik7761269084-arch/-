@@ -8,8 +8,13 @@
     "IDcode": "MIMK-083",
     "title": "人気漫画家-川村晴",
     "publish_date": "",
-    "type": null,
-    "company": "DEEP'S",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "DEEP'S",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_DEEP_S"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/04/15/ad3291e0ddc7404803fd2fd4c4c71a85.jpg",

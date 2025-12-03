@@ -10,8 +10,13 @@
     "IDcode": "NPJS-057",
     "title": "在老公回家前都很闲-都月流衣纱",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "飯店",
       "羞恥",

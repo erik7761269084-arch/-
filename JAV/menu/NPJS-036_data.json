@@ -9,8 +9,13 @@
     "IDcode": "NPJS-036",
     "title": "赌博女默示录-新村あかり",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "兩男一女",
       "3P・4P",

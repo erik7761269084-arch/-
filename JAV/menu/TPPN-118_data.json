@@ -10,8 +10,13 @@
     "IDcode": "TPPN-118",
     "title": "Steel Hold",
     "publish_date": "",
-    "type": null,
-    "company": "TEPPAN 鐵板",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TEPPAN 鐵板",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TEPPAN_鐵板"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20250908-1/cc797442dec626cf5318eac4bfd60650.jpg",

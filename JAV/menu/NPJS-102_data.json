@@ -8,8 +8,13 @@
     "IDcode": "NPJS-102",
     "title": "街上光線不好，還是去酒店裏拍吧。我在Cosplay拍攝期間誘騙了一個想要成爲網紅的女孩 ~ 宮城理惠",
     "publish_date": "2024-11-05",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "兔女郎妝扮",
       "真實拍攝",

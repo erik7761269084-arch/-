@@ -10,8 +10,13 @@
     "IDcode": "NPJS-132",
     "title": "來到九州某肌肉酒吧玩的女子",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "濕身",
       "艷遇",

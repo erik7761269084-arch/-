@@ -9,8 +9,13 @@
     "IDcode": "NPJS-091",
     "title": "高学历女大学生酒店带回家",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "女學生",
       "慾求不滿",

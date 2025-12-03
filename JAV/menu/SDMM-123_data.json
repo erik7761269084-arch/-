@@ -10,8 +10,13 @@
     "IDcode": "SDMM-123",
     "title": "海水浴場-藍芽みずき",
     "publish_date": "",
-    "type": null,
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250402-1/8957fb362adcf5099c7aa3872b8bc6fd.jpg",

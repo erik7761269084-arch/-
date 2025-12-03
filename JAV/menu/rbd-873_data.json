@@ -10,8 +10,13 @@
     "IDcode": "RBD-873",
     "title": "新奴城",
     "publish_date": "",
-    "type": null,
-    "company": "MUGEN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/10/17/3d0a180d47a9b02d2a54b32e38492bc6.jpg",

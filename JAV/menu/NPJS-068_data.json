@@ -8,8 +8,13 @@
     "IDcode": "NPJS-068",
     "title": "一直干到早上-森日向子",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "艷遇",
       "獵豔",

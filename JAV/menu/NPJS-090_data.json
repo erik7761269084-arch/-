@@ -10,8 +10,13 @@
     "IDcode": "NPJS-090",
     "title": "请睡走我的可爱女友吧-天月杏",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "奇聞趣事",
       "真實拍攝",

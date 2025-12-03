@@ -8,8 +8,13 @@
     "IDcode": "NPJS-047",
     "title": "如果你脱掉衣服我就会加入你",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "白絲",
       "奇聞趣事",

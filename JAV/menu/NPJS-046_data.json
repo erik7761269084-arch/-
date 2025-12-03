@@ -8,8 +8,13 @@
     "IDcode": "NPJS-046",
     "title": "一个非常好的女人",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "3P・4P",
       "飯店",

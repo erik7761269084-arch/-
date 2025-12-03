@@ -8,8 +8,13 @@
     "IDcode": "NPJS-006",
     "title": "喜歡我的OO。 繪麻（21）",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/02/690678a471eb543bb0dfb7a7/poster2.jpg",

@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://vip3.slslvip3.com/20240909/D3fS5LO8/index.m3u8"
+    "主线路": "https://vip3.slslvip3.com/20240909/D3fS5LO8/index.m3u8",
+    "线路2": "https://lsbbf5.com/20240909/1NCiumOm/index.m3u8"
   },
   "seriesInfo": {
     "id": 92757,
     "IDcode": "RMC-020",
     "title": "ヒプノシス・ドキュメント上川星空VS催●術師RED下巻サイコな部屋の中上川星空。。",
     "publish_date": "2024-11-22",
-    "type": null,
-    "company": null,
+    "type": "有码",
+    "companys": [],
     "genres": [],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/10513c0e7c4a4e09be6685f72ee60db2.jpg",

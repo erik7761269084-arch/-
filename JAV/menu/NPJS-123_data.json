@@ -10,8 +10,13 @@
     "IDcode": "NPJS-123",
     "title": "在孩子来接之前抱着-美園和花",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "已婚妇女",
       "业余",

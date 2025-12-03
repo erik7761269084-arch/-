@@ -11,8 +11,13 @@
     "IDcode": "SDDE-690",
     "title": "新年特别节目",
     "publish_date": "",
-    "type": null,
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250326-1/e6cd6a13427f1568272d4d076c6d8772.jpg",

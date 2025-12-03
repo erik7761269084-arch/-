@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/21/6805c2424e7d663df41b4640/b854f8/index.m3u8",
-    "线路2": "https://voddadaizi.com:52866/movie/auto/68a7c049682e2e928199b866.m3u8",
-    "线路3": "https://voddadaizi.com:52866/movie/auto/68a7c003682e2e928199b5af.m3u8",
-    "线路4": "https://voddadaizi.com:52866/videos/202508/15/689f9053edc101930b382d33/beb3ca/index.m3u8",
-    "线路5": "https://yutubf.lsbbf3.com/20250821/8pi6HlPu/index.m3u8"
+    "主线路": "https://lsbbf5.com/20250821/8pi6HlPu/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202504/21/6805c2424e7d663df41b4640/b854f8/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68a7c049682e2e928199b866.m3u8",
+    "线路4": "https://voddadaizi.com:52866/movie/auto/68a7c003682e2e928199b5af.m3u8",
+    "线路5": "https://voddadaizi.com:52866/videos/202508/15/689f9053edc101930b382d33/beb3ca/index.m3u8",
+    "线路6": "https://yutubf.lsbbf3.com/20250821/8pi6HlPu/index.m3u8"
   },
   "seriesInfo": {
     "id": 411260,
     "IDcode": "LLAN-003",
     "title": "丝带、百合和亲吻：真正的处女、Aimi Yuuri、首次亮相、Rion Izumi",
     "publish_date": "",
-    "type": null,
-    "company": null,
+    "type": "有码",
+    "companys": [],
     "genres": [
       "中文字幕"
     ],

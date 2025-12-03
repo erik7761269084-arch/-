@@ -9,8 +9,13 @@
     "IDcode": "HONB-400",
     "title": "這是緊急拍攝的影片",
     "publish_date": "",
-    "type": null,
-    "company": "MERCURY",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MERCURY",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MERCURY"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/ed4f1138457d3bfd755e3451148db0dc.jpg",

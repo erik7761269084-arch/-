@@ -1,14 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20231012/Uw5kng5K/index.m3u8"
+    "主线路": "https://lsbbf2.com/20231012/Uw5kng5K/index.m3u8",
+    "线路2": "https://lsbbf5.com/20231012/Uw5kng5K/index.m3u8"
   },
   "seriesInfo": {
     "id": 482685,
     "IDcode": "FC2-PPV-1066703",
     "title": "【個人撮影】19歳いずみ·现役バレリーナに裸で跃らせた·筋肉·ダンス·アスリート3",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [
       "嫩妹"
     ],

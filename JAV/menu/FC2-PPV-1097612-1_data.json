@@ -8,8 +8,13 @@
     "IDcode": "FC2-PPV-1097612-1",
     "title": "",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f4026c7545b05d5340a57df6a51db580.jpg",

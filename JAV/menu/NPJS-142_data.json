@@ -10,8 +10,13 @@
     "IDcode": "NPJS-142",
     "title": "发送爱情活动赚了5亿-小野坂ゆいか",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "純粹的慾望",
       "慾求不滿",

@@ -10,8 +10,13 @@
     "IDcode": "NPJS-133",
     "title": "我明天就要办理结婚登记的女朋友",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "若妻",
       "慾求不滿",

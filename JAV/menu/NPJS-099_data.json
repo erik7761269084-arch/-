@@ -11,8 +11,13 @@
     "IDcode": "NPJS-099",
     "title": "复活咒语",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "慾求不滿",
       "飯店",

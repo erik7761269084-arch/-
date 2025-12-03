@@ -1,14 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://video52.bpzy1.com/video/20230513/5e3b897ba32788a36cd2ce8132667803/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/03/a82826fd/index.m3u8",
+    "线路2": "https://video52.bpzy1.com/video/20230513/5e3b897ba32788a36cd2ce8132667803/index.m3u8"
   },
   "seriesInfo": {
     "id": 544420,
     "IDcode": "FC2-PPV-3191228",
     "title": "~ 1 new",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-10-03",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://pic52.anzise.com/pic/20230513/5e3b897ba32788a36cd2ce8132667803/1.jpg",

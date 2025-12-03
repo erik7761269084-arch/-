@@ -10,8 +10,13 @@
     "IDcode": "SDMUA-010",
     "title": "轮奸摄影会-桃さくら",
     "publish_date": "",
-    "type": null,
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD"
+      }
+    ],
     "genres": [
       "角色扮演"
     ],

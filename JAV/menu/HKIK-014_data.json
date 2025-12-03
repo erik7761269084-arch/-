@@ -1,15 +1,21 @@
 {
   "episodes": {
     "主线路": "https://lsbbf5.com/20250712/YJ2b5Ov2/index.m3u8",
-    "线路2": "https://yutubf.lsbbf3.com/20250712/YJ2b5Ov2/index.m3u8"
+    "线路2": "https://yutubf.lsbbf3.com/20250712/YJ2b5Ov2/index.m3u8",
+    "线路3": "https://v2025.fhbbff.com/20250718/TDbqMxhy/index.m3u8"
   },
   "seriesInfo": {
     "id": 457872,
     "IDcode": "HKIK-014",
     "title": "一日女将的激情诱惑",
     "publish_date": "",
-    "type": null,
-    "company": "RUBY",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "RUBY",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_RUBY"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250714-1/b3cd35af939ee0be89acc6381e32960d.jpg",

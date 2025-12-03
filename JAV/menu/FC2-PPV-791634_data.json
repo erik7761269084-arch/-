@@ -7,8 +7,13 @@
     "IDcode": "FC2-PPV-791634",
     "title": "Saka",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/11e825ec37bb35036c8f9ecbdcf9ac2b.jpg",

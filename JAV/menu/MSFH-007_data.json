@@ -2,15 +2,21 @@
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220817/I0tNLpLH/index.m3u8",
     "线路2": "https://t27.cdn2020.com/video/m3u8/2022/12/06/3a8a0926/index.m3u8",
-    "线路3": "https://bf4.qrtuv.com/202510/07/mTJ3Rx8E9L2/video/index.m3u8"
+    "线路3": "https://bf4.qrtuv.com/202510/07/mTJ3Rx8E9L2/video/index.m3u8",
+    "线路4": "https://www.lbbf9.com/20200521/YmJO0ASB/index.m3u8"
   },
   "seriesInfo": {
     "id": 165060,
     "IDcode": "MSFH-007",
     "title": "穿着情趣内衣超美的大姐姐-水沢美心",
     "publish_date": "",
-    "type": null,
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD"
+      }
+    ],
     "genres": [
       "乱伦"
     ],

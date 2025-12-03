@@ -7,8 +7,13 @@
     "IDcode": "CSCT-012",
     "title": "痴术回戦",
     "publish_date": "",
-    "type": null,
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241031-1/4572f7e8b5c11d0a414469a5712ee6ed.jpg",

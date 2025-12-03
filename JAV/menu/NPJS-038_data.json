@@ -9,8 +9,13 @@
     "IDcode": "NPJS-038",
     "title": "虽然看起来是这样",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "約炮",
       "素人",

@@ -1,20 +1,32 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20231012/m1cA3XVK/index.m3u8",
-    "线路2": "https://lsbbf5.com/20231012/m1cA3XVK/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/06/2c3d2589/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231012/m1cA3XVK/index.m3u8",
+    "线路3": "https://lsbbf5.com/20231012/m1cA3XVK/index.m3u8"
   },
   "seriesInfo": {
     "id": 482725,
     "IDcode": "FC2-PPV-1066192",
     "title": "19 Years old Idolclass Pretty Girl 音あずさ",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-06-06",
+    "type": "无码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fc49ed07b732a005e9329687d1119fdd.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1066192",
-    "actresses": []
+    "actresses": [
+      {
+        "name": "音梓",
+        "img_url": "https://picture.yoshiclub.xyz/20230701/ba8e5382-1509-4eb2-8ac0-6ce3132f382c.jpg",
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=828&name=%E9%9F%B3%E6%A2%93"
+      }
+    ]
   }
 }

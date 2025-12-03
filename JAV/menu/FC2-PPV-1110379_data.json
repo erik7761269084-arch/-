@@ -1,7 +1,8 @@
 {
   "episodes": {
     "主线路": "https://lsbbf2.com/20231012/st8EcHSx/index.m3u8",
-    "线路2": "https://lsbbf5.com/20231012/st8EcHSx/index.m3u8"
+    "线路2": "https://lsbbf2.com/20231012/sxLMnZ8k/index.m3u8",
+    "线路3": "https://lsbbf5.com/20231012/st8EcHSx/index.m3u8"
   },
   "seriesInfo": {
     "id": 482803,
@@ -9,7 +10,12 @@
     "title": "個人拍攝】【無】最強小魔女孕婦在家私房中出！ 7個月大的小基醬④",
     "publish_date": "",
     "type": "无码",
-    "company": "FC2",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [
       "孕妇",
       "无码"

@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vip23.newljlj2025.com/20191229/Y1w8vHDX/index.m3u8"
+    "主线路": "https://vip23.newljlj2025.com/20191229/Y1w8vHDX/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20250204/kGRmtsYJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 54722,
@@ -8,7 +9,12 @@
     "title": "【突然就开插】SSS级美乳OL",
     "publish_date": "",
     "type": "无码",
-    "company": "FC2",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [
       "FC2",
       "无码"

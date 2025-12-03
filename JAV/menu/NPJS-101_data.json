@@ -9,8 +9,13 @@
     "IDcode": "NPJS-101",
     "title": "见到面后超速进入酒店-SACHIKA",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "情趣飯店",
       "慾求不滿",

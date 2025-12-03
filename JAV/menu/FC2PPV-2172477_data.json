@@ -7,8 +7,13 @@
     "IDcode": "FC2PPV-2172477",
     "title": "限时价格至 9",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/095e734fc243479ad192ff805dcda207.jpg",

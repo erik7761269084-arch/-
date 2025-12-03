@@ -10,8 +10,13 @@
     "IDcode": "NPJS-126",
     "title": "陪酒女太过绝伦-春阳摩卡",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "飯店",
       "報復",

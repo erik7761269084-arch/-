@@ -1,15 +1,21 @@
 {
   "episodes": {
     "主线路": "https://lsbbf5.com/20250725/3IMu8EXr/index.m3u8",
-    "线路2": "https://yutubf.lsbbf3.com/20250725/3IMu8EXr/index.m3u8"
+    "线路2": "https://v2025.ddcdnbf.com/20250731/jEi2CoVH/index.m3u8",
+    "线路3": "https://yutubf.lsbbf3.com/20250725/3IMu8EXr/index.m3u8"
   },
   "seriesInfo": {
     "id": 6585,
     "IDcode": "OFJE-506",
     "title": "K杯升級版 凪光精選 最新12部作品12小時合集 ~ 出演女優 凪光",
     "publish_date": "2025-04-25",
-    "type": null,
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1"
+      }
+    ],
     "genres": [
       "女僕",
       "精選總編集",

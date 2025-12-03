@@ -8,8 +8,13 @@
     "IDcode": "NPJS-044",
     "title": "賭女啓示錄～ 帕科拉編",
     "publish_date": "2024-07-02",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "多P",
       "飯店",

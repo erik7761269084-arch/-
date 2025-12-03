@@ -7,8 +7,13 @@
     "IDcode": "SDMF-001",
     "title": "情色家族VOL",
     "publish_date": "",
-    "type": null,
-    "company": "SOD",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "SOD",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_SOD"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0ce26285c5b23be1f463571c463eef7d.jpg",

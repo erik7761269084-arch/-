@@ -8,8 +8,13 @@
     "IDcode": "NPJS-069",
     "title": "醉了的话什么都可以做-あおちゃん",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "獵豔",
       "叛逆少女",

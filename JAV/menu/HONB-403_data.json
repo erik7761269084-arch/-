@@ -8,8 +8,13 @@
     "IDcode": "HONB-403",
     "title": "（暂定）药品档案.002 未知演员",
     "publish_date": "",
-    "type": null,
-    "company": "MERCURY",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "MERCURY",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MERCURY"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/96dffa00e1029de0ddd7fa969ce520da.jpg",

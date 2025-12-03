@@ -10,8 +10,13 @@
     "IDcode": "NPJS-166",
     "title": "當時交往的女友素顏",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "女友・妻子",
       "純粹的慾望",

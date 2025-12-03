@@ -8,8 +8,13 @@
     "IDcode": "NIMA-030",
     "title": "FANZA同人漫画月度排名第一名",
     "publish_date": "",
-    "type": null,
-    "company": "FITCH",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FITCH",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FITCH"
+      }
+    ],
     "genres": [
       "3P・4P",
       "女學生",

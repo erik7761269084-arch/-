@@ -5,10 +5,15 @@
   "seriesInfo": {
     "id": 544365,
     "IDcode": "FC2-PPV-1698470",
-    "title": "~",
+    "title": "",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://pic53.anzise.com/pic/20230504/f69459a3e0545b67b5cb7fb69cacf1b3/1.jpg",

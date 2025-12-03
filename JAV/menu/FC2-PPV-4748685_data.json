@@ -1,17 +1,23 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250827/FUGOHhrA/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/c219d07d/index.m3u8",
+    "线路2": "https://thm3u8.com/20250827/FUGOHhrA/index.m3u8"
   },
   "seriesInfo": {
     "id": 527494,
     "IDcode": "FC2-PPV-4748685",
     "title": "くびれボインのスレ",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-09-01",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250826-1/80426d81f64afa7264c39536320e4c6c.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/c219d07d/vod.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4748685",
     "actresses": []

@@ -12,8 +12,13 @@
     "IDcode": "NPJS-177",
     "title": "配对租借女友-藤井一夜",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "形象俱樂部",
       "約炮",

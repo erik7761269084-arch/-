@@ -6,10 +6,15 @@
   "seriesInfo": {
     "id": 482689,
     "IDcode": "FC2-PPV-1248224",
-    "title": "#8",
+    "title": "",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/20b85d8890ba7f8f5e68091cc7858276.jpg",

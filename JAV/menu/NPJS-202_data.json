@@ -9,8 +9,13 @@
     "IDcode": "NPJS-202",
     "title": "黑暗兼职中引入的双飞中出",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "小隻馬",
       "兩女一男",

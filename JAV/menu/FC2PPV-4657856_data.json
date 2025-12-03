@@ -7,8 +7,13 @@
     "IDcode": "FC2PPV-4657856",
     "title": "未发行影片合集",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/04/16/52427fc63792e1245d358eb23bf4dd3c.jpg",

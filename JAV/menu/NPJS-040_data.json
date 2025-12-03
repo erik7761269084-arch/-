@@ -8,8 +8,13 @@
     "IDcode": "NPJS-040",
     "title": "給在SNS交友APP上認識的網紅女孩提供住宿的地方",
     "publish_date": "2024-07-02",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "潮吹",
       "網路紅人",

@@ -9,8 +9,13 @@
     "IDcode": "NPJS-187",
     "title": "真人记录片窥视屋你的家装了窃听器哦",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "女學生",
       "慾求不滿",

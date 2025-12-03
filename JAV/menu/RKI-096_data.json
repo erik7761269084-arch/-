@@ -7,8 +7,13 @@
     "IDcode": "RKI-096",
     "title": "AV女优养成所",
     "publish_date": "",
-    "type": null,
-    "company": "ROOKIE",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "ROOKIE",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_ROOKIE"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231118/rki096pl.jpg!320x216.jpg",

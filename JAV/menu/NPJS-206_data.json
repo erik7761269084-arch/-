@@ -10,8 +10,13 @@
     "IDcode": "NPJS-206",
     "title": "梦想成为女主播的漂亮可爱大学生-神楽坂める",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "情趣飯店",
       "真實拍攝",

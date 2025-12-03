@@ -1,15 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/movie/auto/68fa118aeb67774efbfc1452.m3u8",
-    "线路2": "https://yutubf.lsbbf3.com/20250817/FpBR0wzc/index.m3u8"
+    "主线路": "https://lsbbf5.com/20250817/FpBR0wzc/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fa118aeb67774efbfc1452.m3u8",
+    "线路3": "https://v2025.fhbbff.com/20250822/rPIsovPr/index.m3u8",
+    "线路4": "https://yutubf.lsbbf3.com/20250817/FpBR0wzc/index.m3u8"
   },
   "seriesInfo": {
     "id": 515878,
     "IDcode": "NFD-040",
     "title": "情侶紛紛交換公告牌 東京附近16個",
     "publish_date": "",
-    "type": null,
-    "company": null,
+    "type": "有码",
+    "companys": [],
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68fa118aeb67774efbfc1452/poster2.jpg",

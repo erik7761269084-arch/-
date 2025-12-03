@@ -10,8 +10,13 @@
     "IDcode": "NPJS-095",
     "title": "一位有抱负的女播音员",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "女學生",
       "真實拍攝",

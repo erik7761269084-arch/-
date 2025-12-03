@@ -1,14 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20231004/9GkWPgyq/index.m3u8"
+    "主线路": "https://lsbbf2.com/20231004/9GkWPgyq/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20250629/w4xx2hwQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 508316,
     "IDcode": "FC2-PPV-990304",
     "title": "中出2连发公园约会连续两次发生的事情",
     "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/9b3c479b6f48f44d7b5580ed57ca1a7a.jpg",

@@ -9,8 +9,13 @@
     "IDcode": "NPJS-041",
     "title": "普通女孩脱掉衣服的时代",
     "publish_date": "",
-    "type": null,
-    "company": "NAPA-JAPAN",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "NAPA-JAPAN",
+        "company_url": ""
+      }
+    ],
     "genres": [
       "美少女電影",
       "女學生",
