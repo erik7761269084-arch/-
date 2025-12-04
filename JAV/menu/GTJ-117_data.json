@@ -15,7 +15,9 @@
         "works_count": 308
       }
     ],
-    "genres": [],
+    "genres": [
+      "SM"
+    ],
     "description": "",
     "cover_url": "https://pic56.anzise.com/pic/20230605/f480fbee9425f90de082fac3cc9ed652/1.jpg",
     "background_img": "",

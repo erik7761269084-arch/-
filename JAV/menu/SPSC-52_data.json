@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250226-1/c3d356dc57c5e7b663921d7e848c84c9.jpg",
     "background_img": "",

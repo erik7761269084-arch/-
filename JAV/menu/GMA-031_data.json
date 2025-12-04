@@ -15,7 +15,9 @@
         "works_count": 97
       }
     ],
-    "genres": [],
+    "genres": [
+      "SM"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250929-1/b480345c8fcb39a41bc19e36011b87ca.jpg",
     "background_img": "",

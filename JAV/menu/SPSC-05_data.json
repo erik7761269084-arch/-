@@ -11,7 +11,9 @@
     "publish_date": "2024-11-22",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241026-1/f413406fe7551b1c740a5a23b93fc585.jpg",
     "background_img": "",

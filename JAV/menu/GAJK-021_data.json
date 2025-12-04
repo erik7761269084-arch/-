@@ -16,7 +16,9 @@
         "works_count": 97
       }
     ],
-    "genres": [],
+    "genres": [
+      "SM"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/9ada38499bf7d35a634ef434edbe9d47.jpg",
     "background_img": "",

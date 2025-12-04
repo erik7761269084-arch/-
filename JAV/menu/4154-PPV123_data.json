@@ -8,7 +8,13 @@
     "title": "Heydouga まい",
     "publish_date": "",
     "type": "有码",
-    "companys": [],
+    "companys": [
+      {
+        "company": "Heydouga",
+        "company_url": "",
+        "works_count": 0
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20220507-1/f4d1af8cefabae8dfb484c34dde48523.jpg",

@@ -15,7 +15,9 @@
         "works_count": 308
       }
     ],
-    "genres": [],
+    "genres": [
+      "SM"
+    ],
     "description": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231017/gtj100pl.jpg!320x216.jpg",
     "background_img": "",

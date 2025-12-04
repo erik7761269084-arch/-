@@ -8,7 +8,13 @@
     "title": "Heydouga -2里诺",
     "publish_date": "",
     "type": "有码",
-    "companys": [],
+    "companys": [
+      {
+        "company": "Heydouga",
+        "company_url": "",
+        "works_count": 0
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240628-1/d58b99fa490f58a5ac964d9381376d70.jpg",

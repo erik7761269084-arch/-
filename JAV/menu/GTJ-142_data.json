@@ -17,7 +17,9 @@
         "works_count": 308
       }
     ],
-    "genres": [],
+    "genres": [
+      "SM"
+    ],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e056681572686be773df3b/cover.jpg",
     "background_img": "",

@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://pic54.anzise.com/pic/20230522/e2ca4383dd9460c8d55d5fa4024cd5a8/1.jpg",
     "background_img": "",

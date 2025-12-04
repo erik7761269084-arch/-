@@ -11,7 +11,9 @@
     "publish_date": "2024-11-22",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241025-1/819719c090b9aacec8aa3698cfd6d958.jpg",
     "background_img": "",

@@ -15,7 +15,9 @@
         "works_count": 308
       }
     ],
-    "genres": [],
+    "genres": [
+      "SM"
+    ],
     "description": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/62077_cover_2025-07-06_015543.jpg",
     "background_img": "",

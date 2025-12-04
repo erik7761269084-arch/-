@@ -10,7 +10,9 @@
     "publish_date": "",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241025-1/2b2c7718dac05d1bd69700e16c363787.jpg",
     "background_img": "",

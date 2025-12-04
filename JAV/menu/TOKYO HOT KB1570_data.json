@@ -8,7 +8,13 @@
     "title": "チーム木村番外编 远藤枫",
     "publish_date": "",
     "type": "有码",
-    "companys": [],
+    "companys": [
+      {
+        "company": "东京热",
+        "company_url": "",
+        "works_count": 0
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230422-1/11e48e563e4c57ec0e8b444982403994.jpg",
