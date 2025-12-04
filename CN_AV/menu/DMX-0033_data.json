@@ -8,17 +8,23 @@
     "title": "感谢祭摄影见面会?（下）",
     "publish_date": "2020-04-29",
     "type": "无码",
-    "company": "SWAG",
+    "companys": [
+      {
+        "company": "SWAG",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SWAG",
+        "works_count": 363
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/368c6cb2e252171ea8b257e718d2ef28.webp",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DMX-0033",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DMX-0033",
     "actresses": [
       {
         "name": "翁雨澄",
         "img_url": "https://upload.xchina.io/model/624db14972ff7.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8705&name=%E7%BF%81%E9%9B%A8%E6%BE%84"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8705&name=%E7%BF%81%E9%9B%A8%E6%BE%84"
       }
     ]
   }

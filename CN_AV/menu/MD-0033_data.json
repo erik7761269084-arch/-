@@ -16,17 +16,23 @@
     "title": "女模特与摄影师",
     "publish_date": "2022-12-07",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tuaskbgnekr.com/20220930/yC3QQdiY/1.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0033",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MD-0033",
     "actresses": [
       {
         "name": "陆滢心",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=7857&name=%E9%99%86%E6%BB%A2%E5%BF%83"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=7857&name=%E9%99%86%E6%BB%A2%E5%BF%83"
       }
     ]
   }

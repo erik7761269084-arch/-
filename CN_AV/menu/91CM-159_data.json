@@ -16,17 +16,27 @@
     "title": "我的表妹",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "劇情",
+      "表姐・表妹",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729223947732732.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-159",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-159",
     "actresses": [
       {
         "name": "陈美惠",
         "img_url": "https://upload.xchina.io/model/6108ddb8d3a41.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8881&name=%E9%99%88%E7%BE%8E%E6%83%A0"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8881&name=%E9%99%88%E7%BE%8E%E6%83%A0"
       }
     ]
   }

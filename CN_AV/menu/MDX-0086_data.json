@@ -9,22 +9,32 @@
     "title": "神说要有光白日梦也会成真",
     "publish_date": "2024-08-02",
     "type": "无码",
-    "company": "麻豆映画传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
+    "genres": [
+      "國產",
+      "企畫",
+      "奇聞趣事"
+    ],
     "description": "",
     "cover_url": "http://pic1.thzpic.com/forum/202106/27/010611u0bt6ptzd5p2tolx.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0086",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MDX-0086",
     "actresses": [
       {
         "name": "沈娜娜",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8684&name=%E6%B2%88%E5%A8%9C%E5%A8%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8684&name=%E6%B2%88%E5%A8%9C%E5%A8%9C"
       },
       {
         "name": "娜娜",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9530&name=%E5%A8%9C%E5%A8%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9530&name=%E5%A8%9C%E5%A8%9C"
       }
     ]
   }

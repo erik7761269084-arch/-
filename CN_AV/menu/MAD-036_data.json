@@ -10,17 +10,23 @@
     "title": "苗疆少女",
     "publish_date": "2020-11-20",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "http://da.da15525716.com/upload/vod/20241120-1/f766f847f5505c555f5061609fc17654.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAD-036",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MAD-036",
     "actresses": [
       {
         "name": "文冰冰",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9444&name=%E6%96%87%E5%86%B0%E5%86%B0"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9444&name=%E6%96%87%E5%86%B0%E5%86%B0"
       }
     ]
   }

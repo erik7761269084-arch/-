@@ -12,17 +12,29 @@
     "title": "性闻联播3",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
+    "genres": [
+      "劇情",
+      "強姦",
+      "國產",
+      "新聞采訪",
+      "女記者"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230823/20230823075220793793.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8023",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8023",
     "actresses": [
       {
         "name": "姜潔",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9358&name=%E5%A7%9C%E6%BD%94"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9358&name=%E5%A7%9C%E6%BD%94"
       }
     ]
   }

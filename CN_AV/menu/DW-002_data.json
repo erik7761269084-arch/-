@@ -12,17 +12,23 @@
     "title": "洽谈业务时让每个男人都想要",
     "publish_date": "2024-02-18",
     "type": "无码",
-    "company": "大象传媒",
+    "companys": [
+      {
+        "company": "大象传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=大象传媒",
+        "works_count": 395
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20221010-1/26861f7554ceaed185872fe45595ee9b.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DW-002",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DW-002",
     "actresses": [
       {
         "name": "黎娜",
         "img_url": "https://upload.xchina.io/model/62472932def53.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8756&name=%E9%BB%8E%E5%A8%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8756&name=%E9%BB%8E%E5%A8%9C"
       }
     ]
   }

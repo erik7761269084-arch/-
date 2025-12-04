@@ -9,12 +9,18 @@
     "title": "实习生的职场潜规则",
     "publish_date": "2023-10-01",
     "type": "无码",
-    "company": "麻豆传媒映画X狂点映像",
+    "companys": [
+      {
+        "company": "麻豆传媒映画X狂点映像",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒映画X狂点映像",
+        "works_count": 18
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230516-1/b7ac59ae273af145568236fe0235f0dd.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CP-008",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=CP-008",
     "actresses": []
   }
 }

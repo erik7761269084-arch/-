@@ -8,12 +8,18 @@
     "title": "绿头鱼实验室之炮机测评",
     "publish_date": "2023-04-11",
     "type": "无码",
-    "company": "鲸鱼传媒",
+    "companys": [
+      {
+        "company": "鲸鱼传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=鲸鱼传媒",
+        "works_count": 13
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JY01.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JY01",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY01",
     "actresses": []
   }
 }

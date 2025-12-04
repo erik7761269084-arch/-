@@ -9,12 +9,18 @@
     "title": "打游戏输了打炮慰藉",
     "publish_date": "2022-07-23",
     "type": "无码",
-    "company": "天美传媒",
+    "companys": [
+      {
+        "company": "天美传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=天美传媒",
+        "works_count": 662
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220904-1/2edd12b34e1d44195541814149b8afcd.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMY0021",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMY0021",
     "actresses": []
   }
 }

@@ -14,17 +14,23 @@
     "title": "帮忙补习的风韵表姐",
     "publish_date": "2022-12-07",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "http://da.da15525716.com/upload/vod/20241124-1/355abda51ff8d9023849b327e5b2d539.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0021",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MD-0021",
     "actresses": [
       {
         "name": "李婧琪",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9574&name=%E6%9D%8E%E5%A9%A7%E7%90%AA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9574&name=%E6%9D%8E%E5%A9%A7%E7%90%AA"
       }
     ]
   }

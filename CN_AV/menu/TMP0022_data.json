@@ -8,22 +8,28 @@
     "title": "爆操队队长",
     "publish_date": "2023-01-05",
     "type": "无码",
-    "company": "天美传媒",
+    "companys": [
+      {
+        "company": "天美传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=天美传媒",
+        "works_count": 662
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230208-1/f84d900e37fe5559a788c1a2c988172f.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0022",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMP0022",
     "actresses": [
       {
         "name": "斑斑",
-        "img_url": "https://upload.xchina.io/model/6027d8841d9cb.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8692&name=%E6%96%91%E6%96%91"
+        "img_url": "https://static.avjiali.com/cache/460x640/70/actress/ban-ban.jpg",
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8692&name=%E6%96%91%E6%96%91"
       },
       {
         "name": "拉拉",
         "img_url": "https://img.ripic.xyz/head/5cd95732ecf00a40c9bfa1d0.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9022&name=%E6%8B%89%E6%8B%89"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9022&name=%E6%8B%89%E6%8B%89"
       }
     ]
   }

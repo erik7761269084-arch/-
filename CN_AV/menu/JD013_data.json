@@ -11,17 +11,28 @@
     "title": "我的机器人女友",
     "publish_date": "2021-10-06",
     "type": "无码",
-    "company": "精东影业",
-    "genres": [],
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
+    "genres": [
+      "劇情",
+      "奇聞趣事",
+      "國產",
+      "女機器人"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805055435148148.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD013",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JD013",
     "actresses": [
       {
         "name": "玲瓏",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9379&name=%E7%8E%B2%E7%93%8F"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9379&name=%E7%8E%B2%E7%93%8F"
       }
     ]
   }

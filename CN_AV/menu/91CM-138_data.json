@@ -20,17 +20,29 @@
     "title": "继父与我",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "劇情",
+      "繼父",
+      "女兒",
+      "父女",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729062046929929.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-138",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-138",
     "actresses": [
       {
         "name": "谢语彤",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8563&name=%E8%B0%A2%E8%AF%AD%E5%BD%A4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8563&name=%E8%B0%A2%E8%AF%AD%E5%BD%A4"
       }
     ]
   }

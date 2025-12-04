@@ -1,8 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://krevonix.com/20251003/7UKIDMnd/index.m3u8",
-    "线路2": "https://vip2.newljlj.com/20241123/9r5ncw5x/index.m3u8",
-    "线路3": "https://bwzm3u8.com/20250901/1EUxTZy5/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/24/d01c78e3/index.m3u8",
+    "线路2": "https://krevonix.com/20251003/7UKIDMnd/index.m3u8",
+    "线路3": "https://vip2.newljlj.com/20241123/9r5ncw5x/index.m3u8",
+    "线路4": "https://bwzm3u8.com/20250901/1EUxTZy5/index.m3u8"
   },
   "seriesInfo": {
     "id": 11353,
@@ -10,17 +11,23 @@
     "title": "好色家教的淫乱辅导",
     "publish_date": "",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "果冻传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=果冻传媒",
+        "works_count": 309
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://bwjpg.top/upload/vod/20250905-1/7fcb663cb6fb7848689c4b59c49bea97.png",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91PCM-008",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91PCM-008",
     "actresses": [
       {
         "name": "温芮欣",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8596&name=%E6%B8%A9%E8%8A%AE%E6%AC%A3"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8596&name=%E6%B8%A9%E8%8A%AE%E6%AC%A3"
       }
     ]
   }

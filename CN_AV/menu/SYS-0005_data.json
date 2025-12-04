@@ -8,17 +8,23 @@
     "title": "广告初体验！现场被导演玩坏掉了啦",
     "publish_date": "2020-05-15",
     "type": "无码",
-    "company": "SWAG",
+    "companys": [
+      {
+        "company": "SWAG",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SWAG",
+        "works_count": 363
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f97399cb2932cd58ebb4d55fee11b627.webp",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SYS-0005",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SYS-0005",
     "actresses": [
       {
         "name": "黎儿",
         "img_url": "https://img.ripic.xyz/head/5d85b36ec46b3f97a9c652fd.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8269&name=%E9%BB%8E%E5%84%BF"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8269&name=%E9%BB%8E%E5%84%BF"
       }
     ]
   }

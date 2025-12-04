@@ -10,12 +10,18 @@
     "title": "夏日之恋上集",
     "publish_date": "2023-05-11",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220829-1/68b2ebe47cb24595694a1778cf3f4d93.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAN-0009",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MAN-0009",
     "actresses": []
   }
 }

@@ -19,17 +19,28 @@
     "title": "少女的悔悟",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "劇情",
+      "少女",
+      "國產",
+      "退休作品"
+    ],
     "description": "",
     "cover_url": "https://da.da15525716.com/images/2023/04/03/guochan11387.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-190",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-190",
     "actresses": [
       {
         "name": "潘甜甜",
         "img_url": "https://upload.xchina.io/model/6117455605306.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8570&name=%E6%BD%98%E7%94%9C%E7%94%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8570&name=%E6%BD%98%E7%94%9C%E7%94%9C"
       }
     ]
   }

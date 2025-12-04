@@ -10,17 +10,23 @@
     "title": "夏日之恋下集",
     "publish_date": "2023-05-11",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220906-1/38b668ac85a60ea629b1e18bbb523b91.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAN-0010",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MAN-0010",
     "actresses": [
       {
         "name": "苏清歌",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8667&name=%E8%8B%8F%E6%B8%85%E6%AD%8C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8667&name=%E8%8B%8F%E6%B8%85%E6%AD%8C"
       }
     ]
   }

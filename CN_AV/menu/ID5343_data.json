@@ -8,17 +8,23 @@
     "title": "女装大佬混住单身女舍",
     "publish_date": "",
     "type": "无码",
-    "company": "爱豆传媒",
+    "companys": [
+      {
+        "company": "爱豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=爱豆传媒",
+        "works_count": 424
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230730-1/4ee3ab33113e09ed5756f3c3e6f3545f.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5343",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ID5343",
     "actresses": [
       {
         "name": "灵枝",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8419&name=%E7%81%B5%E6%9E%9D"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8419&name=%E7%81%B5%E6%9E%9D"
       }
     ]
   }

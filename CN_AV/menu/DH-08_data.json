@@ -8,17 +8,23 @@
     "title": "主人的指令",
     "publish_date": "2023-12-27",
     "type": "无码",
-    "company": "大象传媒",
+    "companys": [
+      {
+        "company": "大象传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=大象传媒",
+        "works_count": 395
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2024/03/30/56ca0ae4abe5324cb22a794bf79442ce.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DH-08",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DH-08",
     "actresses": [
       {
         "name": "ROXIE",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=7821&name=ROXIE"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=7821&name=ROXIE"
       }
     ]
   }

@@ -10,22 +10,28 @@
     "title": "升职记3.职场蜕变主动献身",
     "publish_date": "2023-12-29",
     "type": "无码",
-    "company": "杏吧",
+    "companys": [
+      {
+        "company": "杏吧",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=杏吧",
+        "works_count": 26
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20210502-1/fb88f7b2ac1a29094884056181fd0571.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKXB-8020",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKXB-8020",
     "actresses": [
       {
         "name": "黄雪纯",
         "img_url": "https://upload.xchina.io/model/607150503d3f5.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8884&name=%E9%BB%84%E9%9B%AA%E7%BA%AF"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8884&name=%E9%BB%84%E9%9B%AA%E7%BA%AF"
       },
       {
         "name": "王拉拉",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9677&name=%E7%8E%8B%E6%8B%89%E6%8B%89"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9677&name=%E7%8E%8B%E6%8B%89%E6%8B%89"
       }
     ]
   }

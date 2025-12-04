@@ -12,12 +12,18 @@
     "title": "到表哥家过暑假结果被强上",
     "publish_date": "2022-06-28",
     "type": "无码",
-    "company": "91制片厂",
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220629-1/1c24155aca9090709ff5caad93abbb50.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91KCM-008",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91KCM-008",
     "actresses": []
   }
 }

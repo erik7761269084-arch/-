@@ -8,17 +8,23 @@
     "title": "欲罢不能.忍不住强上小姑",
     "publish_date": "2022-01-10",
     "type": "无码",
-    "company": "蜜桃传媒",
+    "companys": [
+      {
+        "company": "蜜桃传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=蜜桃传媒",
+        "works_count": 1010
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220410-1/0c3fcb055848871262f4bbeccc170159.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMC-098",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PMC-098",
     "actresses": [
       {
         "name": "吴恺彤",
         "img_url": "https://upload.xchina.io/model/623e057b526c2.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8808&name=%E5%90%B4%E6%81%BA%E5%BD%A4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8808&name=%E5%90%B4%E6%81%BA%E5%BD%A4"
       }
     ]
   }

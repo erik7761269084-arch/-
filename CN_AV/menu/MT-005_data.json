@@ -9,12 +9,18 @@
     "title": "蜘蛛女侠的堕落",
     "publish_date": "2022-06-19",
     "type": "无码",
-    "company": "麻豆传媒映画X麻麻传媒",
+    "companys": [
+      {
+        "company": "麻豆传媒映画X麻麻传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒映画X麻麻传媒",
+        "works_count": 34
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/08/12/253fcde55eebb2987c4efa65ea0b438a.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-005",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MT-005",
     "actresses": []
   }
 }

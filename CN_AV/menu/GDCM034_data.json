@@ -8,17 +8,23 @@
     "title": "新来得室友是我初恋",
     "publish_date": "2023-01-29",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "果冻传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=果冻传媒",
+        "works_count": 309
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM034.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GDCM034",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=GDCM034",
     "actresses": [
       {
         "name": "李蕊",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8322&name=%E6%9D%8E%E8%95%8A"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8322&name=%E6%9D%8E%E8%95%8A"
       }
     ]
   }

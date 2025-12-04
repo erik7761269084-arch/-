@@ -24,27 +24,33 @@
     "title": "坠欲 下",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://bwjpg.top/upload/vod/20250825-39/21015e994296ea57b993a395cb862844.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-226",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-226",
     "actresses": [
       {
         "name": "唐月琴",
         "img_url": "https://upload.xchina.io/model/61b0a880277a2.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8573&name=%E5%94%90%E6%9C%88%E7%90%B4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8573&name=%E5%94%90%E6%9C%88%E7%90%B4"
       },
       {
         "name": "董欣",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8575&name=%E8%91%A3%E6%AC%A3"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8575&name=%E8%91%A3%E6%AC%A3"
       },
       {
         "name": "余丽",
         "img_url": "https://upload.xchina.io/model/620019ab2f3d5.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8576&name=%E4%BD%99%E4%B8%BD"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8576&name=%E4%BD%99%E4%B8%BD"
       }
     ]
   }

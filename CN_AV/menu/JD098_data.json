@@ -12,17 +12,23 @@
     "title": "我的炮友是后妈",
     "publish_date": "2021-10-06",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/c062b4a9e1258440637c3f881ac8c6cb.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD098",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JD098",
     "actresses": [
       {
         "name": "贝琳娜",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8372&name=%E8%B4%9D%E7%90%B3%E5%A8%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8372&name=%E8%B4%9D%E7%90%B3%E5%A8%9C"
       }
     ]
   }

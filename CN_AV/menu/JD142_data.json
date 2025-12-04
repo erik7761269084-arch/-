@@ -9,17 +9,23 @@
     "title": "超级电脑工具人1",
     "publish_date": "2021-10-06",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://da.da15525716.com/images/2023/12/10/guochan139.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD142",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JD142",
     "actresses": [
       {
         "name": "晨曦",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9526&name=%E6%99%A8%E6%9B%A6"
+        "img_url": "https://static.avjiali.com/cache/460x640/70/actress/chen-xi.jpg",
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9526&name=%E6%99%A8%E6%9B%A6"
       }
     ]
   }

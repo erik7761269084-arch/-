@@ -15,22 +15,28 @@
     "title": "《万万没想到之偷情被发现》",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240107-1/a081cb6970357637e2eb6ad35773de59.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8087",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8087",
     "actresses": [
       {
         "name": "翠花",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8122&name=%E7%BF%A0%E8%8A%B1"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8122&name=%E7%BF%A0%E8%8A%B1"
       },
       {
         "name": "石榴",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8179&name=%E7%9F%B3%E6%A6%B4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8179&name=%E7%9F%B3%E6%A6%B4"
       }
     ]
   }

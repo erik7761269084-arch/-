@@ -9,12 +9,18 @@
     "title": "捷运小恶魔女",
     "publish_date": "2023-07-09",
     "type": "无码",
-    "company": "SA国际传媒",
+    "companys": [
+      {
+        "company": "SA国际传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SA国际传媒",
+        "works_count": 240
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20221030-1/13616e793a788711f691001f07277fe1.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TWA-0020",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TWA-0020",
     "actresses": []
   }
 }

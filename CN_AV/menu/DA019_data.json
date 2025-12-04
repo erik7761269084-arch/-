@@ -9,17 +9,23 @@
     "title": "爸爸是哪根 危机大作战",
     "publish_date": "2025-10-03",
     "type": "无码",
-    "company": "大象传媒",
+    "companys": [
+      {
+        "company": "大象传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=大象传媒",
+        "works_count": 395
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20240913-1/834d903dbe63dc896337892fea3f1368.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DA019",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DA019",
     "actresses": [
       {
         "name": "宋雨川",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8597&name=%E5%AE%8B%E9%9B%A8%E5%B7%9D"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8597&name=%E5%AE%8B%E9%9B%A8%E5%B7%9D"
       }
     ]
   }

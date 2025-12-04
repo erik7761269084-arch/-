@@ -14,12 +14,18 @@
     "title": "骑人节特殊赠礼",
     "publish_date": "2022-01-10",
     "type": "无码",
-    "company": "麻豆传媒X爱妃传媒",
+    "companys": [
+      {
+        "company": "麻豆传媒X爱妃传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒X爱妃传媒",
+        "works_count": 17
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "http://pic1.thzpic.com/forum/202205/06/153221zymbygcg66c6c75x.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ODE-011",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ODE-011",
     "actresses": []
   }
 }

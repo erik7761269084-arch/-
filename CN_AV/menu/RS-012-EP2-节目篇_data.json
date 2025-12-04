@@ -8,32 +8,38 @@
     "title": "EP2.节目篇.世足狂热丝足狂潮.软硬兼湿激情纠缠",
     "publish_date": "2022-07-08",
     "type": "无码",
-    "company": "麻豆传媒映画x红期灯影像",
+    "companys": [
+      {
+        "company": "麻豆传媒映画x红期灯影像",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒映画x红期灯影像",
+        "works_count": 72
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20221129-1/36184445c7d6ce063644b9497b51dba6.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RS-012-EP2-节目篇",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RS-012-EP2-节目篇",
     "actresses": [
       {
         "name": "赵晓涵",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8632&name=%E8%B5%B5%E6%99%93%E6%B6%B5"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8632&name=%E8%B5%B5%E6%99%93%E6%B6%B5"
       },
       {
         "name": "艾熙",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8638&name=%E8%89%BE%E7%86%99"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8638&name=%E8%89%BE%E7%86%99"
       },
       {
         "name": "夏禹熙",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8647&name=%E5%A4%8F%E7%A6%B9%E7%86%99"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8647&name=%E5%A4%8F%E7%A6%B9%E7%86%99"
       },
       {
         "name": "宋南伊",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8649&name=%E5%AE%8B%E5%8D%97%E4%BC%8A"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8649&name=%E5%AE%8B%E5%8D%97%E4%BC%8A"
       }
     ]
   }

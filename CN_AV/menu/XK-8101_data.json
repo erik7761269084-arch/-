@@ -16,22 +16,28 @@
     "title": "《赘婿2 0》 新三年之约",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240104-1/030a9f87f1798033c30b5a5735fe72c7.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8101",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8101",
     "actresses": [
       {
         "name": "邱月",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8129&name=%E9%82%B1%E6%9C%88"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8129&name=%E9%82%B1%E6%9C%88"
       },
       {
         "name": "秦淮",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9642&name=%E7%A7%A6%E6%B7%AE"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9642&name=%E7%A7%A6%E6%B7%AE"
       }
     ]
   }

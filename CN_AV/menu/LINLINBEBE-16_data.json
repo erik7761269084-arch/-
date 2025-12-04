@@ -8,12 +8,18 @@
     "title": "",
     "publish_date": "2023-02-08",
     "type": "无码",
-    "company": "SWAG",
+    "companys": [
+      {
+        "company": "SWAG",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SWAG",
+        "works_count": 363
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3d57369a59c2b36cd1a8065d1a82fd30.webp",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LINLINBEBE-16",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LINLINBEBE-16",
     "actresses": []
   }
 }

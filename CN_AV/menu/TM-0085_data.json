@@ -13,22 +13,35 @@
     "title": "自摸雀后",
     "publish_date": "2022-08-09",
     "type": "无码",
-    "company": "天美传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "天美传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=天美传媒",
+        "works_count": 662
+      }
+    ],
+    "genres": [
+      "劇情",
+      "女友・妻子",
+      "多P",
+      "國產",
+      "兩男兩女",
+      "打麻將"
+    ],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20210515-1/aa2d38f15f379bf4b47544963c2f2de7.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0085",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TM-0085",
     "actresses": [
       {
         "name": "董小宛",
         "img_url": "https://upload.xchina.io/model/6060d7341cfc5.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8724&name=%E8%91%A3%E5%B0%8F%E5%AE%9B"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8724&name=%E8%91%A3%E5%B0%8F%E5%AE%9B"
       },
       {
         "name": "林小櫻",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9367&name=%E6%9E%97%E5%B0%8F%E6%AB%BB"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9367&name=%E6%9E%97%E5%B0%8F%E6%AB%BB"
       }
     ]
   }

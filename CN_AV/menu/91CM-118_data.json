@@ -17,17 +17,27 @@
     "title": "合租少女",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "少女",
+      "國產",
+      "室友"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230728/20230728083041894894.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-118",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-118",
     "actresses": [
       {
         "name": "林妙可",
         "img_url": "https://upload.xchina.io/model/60c5a5a5ec363.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8818&name=%E6%9E%97%E5%A6%99%E5%8F%AF"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8818&name=%E6%9E%97%E5%A6%99%E5%8F%AF"
       }
     ]
   }

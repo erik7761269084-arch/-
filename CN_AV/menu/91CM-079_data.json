@@ -13,17 +13,28 @@
     "title": "继母与女儿",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "角色扮演",
+      "姐姐・妹妹",
+      "國產",
+      "COSPLAY服飾"
+    ],
     "description": "",
     "cover_url": "https://da.da15525716.com/upload/vod/20210930-1/4d4a63c6d850eea32ea645672dfca442.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-079",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-079",
     "actresses": [
       {
         "name": "田恬",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9888&name=%E7%94%B0%E6%81%AC"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9888&name=%E7%94%B0%E6%81%AC"
       }
     ]
   }

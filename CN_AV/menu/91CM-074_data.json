@@ -10,17 +10,31 @@
     "title": "真实拍摄计划二",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "黑絲",
+      "企畫",
+      "跳蛋",
+      "女優面試",
+      "國產",
+      "女優",
+      "泰國女優"
+    ],
     "description": "",
     "cover_url": "https://da.da15525716.com/upload/vod/20210925-1/27f32a4942693f145a1d7713dd59655a.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-074",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-074",
     "actresses": [
       {
         "name": "Rae",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8280&name=Rae"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8280&name=Rae"
       }
     ]
   }

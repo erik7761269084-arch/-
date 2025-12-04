@@ -10,22 +10,28 @@
     "title": "极乐教育",
     "publish_date": "2023-09-27",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/3a0dbde157fef704d9e99bfeeb29fb93.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDYH-AH-002",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MDYH-AH-002",
     "actresses": [
       {
         "name": "魏乔安",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8613&name=%E9%AD%8F%E4%B9%94%E5%AE%89"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8613&name=%E9%AD%8F%E4%B9%94%E5%AE%89"
       },
       {
         "name": "乔安",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9507&name=%E4%B9%94%E5%AE%89"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9507&name=%E4%B9%94%E5%AE%89"
       }
     ]
   }

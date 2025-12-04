@@ -9,17 +9,23 @@
     "title": "请做我的主人",
     "publish_date": "2023-12-27",
     "type": "无码",
-    "company": "大象传媒",
+    "companys": [
+      {
+        "company": "大象传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=大象传媒",
+        "works_count": 395
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2024/02/16/26abb0ef01e2853cfe2be4d004e5f5b8.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DH-09",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DH-09",
     "actresses": [
       {
         "name": "玖玖",
         "img_url": "https://upload.xchina.io/model/66c263527cdca.webp",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8843&name=%E7%8E%96%E7%8E%96"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8843&name=%E7%8E%96%E7%8E%96"
       }
     ]
   }

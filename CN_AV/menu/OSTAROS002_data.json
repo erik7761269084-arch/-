@@ -8,12 +8,18 @@
     "title": "天使同事的深度开发",
     "publish_date": "2022-01-10",
     "type": "无码",
-    "company": "麻豆传媒",
+    "companys": [
+      {
+        "company": "麻豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒",
+        "works_count": 1149
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20241225-1/47f082bce8c40f50ab840d978863e762.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=OSTAROS002",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=OSTAROS002",
     "actresses": []
   }
 }

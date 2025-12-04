@@ -8,12 +8,18 @@
     "title": "",
     "publish_date": "2023-10-06",
     "type": "无码",
-    "company": "LOVE6皇家华人",
+    "companys": [
+      {
+        "company": "LOVE6皇家华人",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=LOVE6皇家华人",
+        "works_count": 216
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cfb5dbe9768fc8eb94ecf2f196775c55.webp",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SASABEBE-02",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SASABEBE-02",
     "actresses": []
   }
 }

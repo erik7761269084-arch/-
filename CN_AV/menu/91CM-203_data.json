@@ -22,22 +22,28 @@
     "title": "母亲的鼓励",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/VM9C6T8S.png",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-203",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-203",
     "actresses": [
       {
         "name": "白若冰",
         "img_url": "https://upload.xchina.io/model/608901ec45bae.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8780&name=%E7%99%BD%E8%8B%A5%E5%86%B0"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8780&name=%E7%99%BD%E8%8B%A5%E5%86%B0"
       },
       {
         "name": "杜娟",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9668&name=%E6%9D%9C%E5%A8%9F"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9668&name=%E6%9D%9C%E5%A8%9F"
       }
     ]
   }

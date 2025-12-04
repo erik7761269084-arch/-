@@ -8,12 +8,18 @@
     "title": "X·ERIES.粉的第7章",
     "publish_date": "2023-06-01",
     "type": "无码",
-    "company": "乐播传媒",
+    "companys": [
+      {
+        "company": "乐播传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=乐播传媒",
+        "works_count": 33
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220227-1/8bf7e983d84bc843fc13daaa3776c95b.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB036",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LB036",
     "actresses": []
   }
 }

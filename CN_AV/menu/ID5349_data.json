@@ -9,17 +9,23 @@
     "title": "宅女主播挑战赛-下集",
     "publish_date": "",
     "type": "无码",
-    "company": "爱豆传媒",
+    "companys": [
+      {
+        "company": "爱豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=爱豆传媒",
+        "works_count": 424
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://bwjpg.top/upload/vod/20250905-1/dd2ed485d1588247592a19e30506d51d.png",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5349",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ID5349",
     "actresses": [
       {
         "name": "惠敏",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9717&name=%E6%83%A0%E6%95%8F"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9717&name=%E6%83%A0%E6%95%8F"
       }
     ]
   }

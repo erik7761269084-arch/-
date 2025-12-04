@@ -8,22 +8,28 @@
     "title": "音乐爱情故事 飞鸟和蝉",
     "publish_date": "2023-08-29",
     "type": "无码",
-    "company": "蜜桃传媒",
+    "companys": [
+      {
+        "company": "蜜桃传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=蜜桃传媒",
+        "works_count": 1010
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://da.da15525716.com/upload/vod/20240910-1/5daadc16015826b032c0c7142265400f.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-033",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=PM-033",
     "actresses": [
       {
         "name": "夏天",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=7915&name=%E5%A4%8F%E5%A4%A9"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=7915&name=%E5%A4%8F%E5%A4%A9"
       },
       {
         "name": "寧靜",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9368&name=%E5%AF%A7%E9%9D%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9368&name=%E5%AF%A7%E9%9D%9C"
       }
     ]
   }

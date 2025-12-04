@@ -8,12 +8,18 @@
     "title": "呆萌医生的上门服务",
     "publish_date": "2023-09-06",
     "type": "无码",
-    "company": "微密圈",
+    "companys": [
+      {
+        "company": "微密圈",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=微密圈",
+        "works_count": 18
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230919-1/21dfc8b789124c6d3c26006d9121e00a.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=WMOG-003",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=WMOG-003",
     "actresses": []
   }
 }

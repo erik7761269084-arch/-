@@ -16,17 +16,27 @@
     "title": "女优面试二",
     "publish_date": "",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "果冻传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=果冻传媒",
+        "works_count": 309
+      }
+    ],
+    "genres": [
+      "新人面試",
+      "女優面試",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/v0Ole7hr.png",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91MS-002",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91MS-002",
     "actresses": [
       {
         "name": "91新人",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8589&name=91%E6%96%B0%E4%BA%BA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8589&name=91%E6%96%B0%E4%BA%BA"
       }
     ]
   }

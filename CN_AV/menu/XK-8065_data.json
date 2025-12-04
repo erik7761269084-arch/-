@@ -15,27 +15,33 @@
     "title": "商务伴游 网约伴游女神陪你游三亚",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240111-1/703fe34a93b1e8eff073eb0c2b342006.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8065",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8065",
     "actresses": [
       {
         "name": "许晴",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8117&name=%E8%AE%B8%E6%99%B4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8117&name=%E8%AE%B8%E6%99%B4"
       },
       {
         "name": "艾咪",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9359&name=%E8%89%BE%E5%92%AA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9359&name=%E8%89%BE%E5%92%AA"
       },
       {
         "name": "冯雪",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9931&name=%E5%86%AF%E9%9B%AA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9931&name=%E5%86%AF%E9%9B%AA"
       }
     ]
   }

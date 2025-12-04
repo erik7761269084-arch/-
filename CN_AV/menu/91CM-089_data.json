@@ -17,17 +17,28 @@
     "title": "被报复的小姐",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "劇情",
+      "風俗娘",
+      "仙人跳",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20210904-1/a67d0e9b5110bf5e22e7ae26cfb213f1.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-089",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-089",
     "actresses": [
       {
         "name": "聂小倩",
         "img_url": "https://upload.xchina.io/model/6029226048e23.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8846&name=%E8%81%82%E5%B0%8F%E5%80%A9"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8846&name=%E8%81%82%E5%B0%8F%E5%80%A9"
       }
     ]
   }

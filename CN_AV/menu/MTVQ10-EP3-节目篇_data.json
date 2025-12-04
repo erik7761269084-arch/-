@@ -10,47 +10,53 @@
     "title": "你好同学-EP3-节目篇 惊心动魄营火晚会",
     "publish_date": "2023-10-17",
     "type": "无码",
-    "company": "麻豆传媒",
+    "companys": [
+      {
+        "company": "麻豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒",
+        "works_count": 1149
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20251015-1/b6f4f879f2e730e749fc35145f53d31b.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ10-EP3-节目篇",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MTVQ10-EP3-节目篇",
     "actresses": [
       {
         "name": "韩棠",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8671&name=%E9%9F%A9%E6%A3%A0"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8671&name=%E9%9F%A9%E6%A3%A0"
       },
       {
         "name": "管明美",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8673&name=%E7%AE%A1%E6%98%8E%E7%BE%8E"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8673&name=%E7%AE%A1%E6%98%8E%E7%BE%8E"
       },
       {
         "name": "白沛瑶",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8674&name=%E7%99%BD%E6%B2%9B%E7%91%B6"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8674&name=%E7%99%BD%E6%B2%9B%E7%91%B6"
       },
       {
         "name": "艾秋",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8675&name=%E8%89%BE%E7%A7%8B"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8675&name=%E8%89%BE%E7%A7%8B"
       },
       {
         "name": "白熙雨",
         "img_url": "https://upload.xchina.io/model/61a71f33af8f2.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8717&name=%E7%99%BD%E7%86%99%E9%9B%A8"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8717&name=%E7%99%BD%E7%86%99%E9%9B%A8"
       },
       {
         "name": "李文雯",
         "img_url": "https://upload.xchina.io/model/6013ff17611bd.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8791&name=%E6%9D%8E%E6%96%87%E9%9B%AF"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8791&name=%E6%9D%8E%E6%96%87%E9%9B%AF"
       },
       {
         "name": "林芊彤",
         "img_url": "https://upload.xchina.io/model/6139b54797b3f.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8809&name=%E6%9E%97%E8%8A%8A%E5%BD%A4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8809&name=%E6%9E%97%E8%8A%8A%E5%BD%A4"
       }
     ]
   }

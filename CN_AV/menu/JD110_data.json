@@ -19,17 +19,23 @@
     "title": "又到樱花绽放时",
     "publish_date": "2021-10-06",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://guzwiayz.com/20240619/emChZulr/1.jpg?t=1718858592",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD110",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JD110",
     "actresses": [
       {
         "name": "冬月结衣",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=7991&name=%E5%86%AC%E6%9C%88%E7%BB%93%E8%A1%A3"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=7991&name=%E5%86%AC%E6%9C%88%E7%BB%93%E8%A1%A3"
       }
     ]
   }

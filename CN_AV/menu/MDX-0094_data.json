@@ -9,17 +9,26 @@
     "title": "贵妇的极乐生活",
     "publish_date": "2024-08-02",
     "type": "无码",
-    "company": "麻豆映画传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
+    "genres": [
+      "貴婦",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/cefc267c915063647a9af22108a413f5.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0094",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MDX-0094",
     "actresses": [
       {
         "name": "凌薇",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8670&name=%E5%87%8C%E8%96%87"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8670&name=%E5%87%8C%E8%96%87"
       }
     ]
   }

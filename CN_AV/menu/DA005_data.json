@@ -9,17 +9,23 @@
     "title": "必射客 白酱腊肠",
     "publish_date": "2025-10-03",
     "type": "无码",
-    "company": "大象传媒",
+    "companys": [
+      {
+        "company": "大象传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=大象传媒",
+        "works_count": 395
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230222-1/411f5cb8b52821af886e31c1ec7f37e8.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DA005",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=DA005",
     "actresses": [
       {
         "name": "孟若羽",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8634&name=%E5%AD%9F%E8%8B%A5%E7%BE%BD"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8634&name=%E5%AD%9F%E8%8B%A5%E7%BE%BD"
       }
     ]
   }

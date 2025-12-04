@@ -9,17 +9,23 @@
     "title": "酒馆性事.友情万岁",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230403-1/f7994abed6d71db19ea9008b7990093f.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8160",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8160",
     "actresses": [
       {
         "name": "大奶露",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8139&name=%E5%A4%A7%E5%A5%B6%E9%9C%B2"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8139&name=%E5%A4%A7%E5%A5%B6%E9%9C%B2"
       }
     ]
   }

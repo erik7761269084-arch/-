@@ -8,17 +8,23 @@
     "title": "粗心的小护士引狼入室",
     "publish_date": "2023-07-13",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230301-1/1cca7fcb77b78e2d8cd81f3528bd706f.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDBC025",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDBC025",
     "actresses": [
       {
         "name": "王以欣",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8856&name=%E7%8E%8B%E4%BB%A5%E6%AC%A3"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8856&name=%E7%8E%8B%E4%BB%A5%E6%AC%A3"
       }
     ]
   }

@@ -9,12 +9,18 @@
     "title": "倩女幽魂",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/Xk-8133.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8133",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8133",
     "actresses": []
   }
 }

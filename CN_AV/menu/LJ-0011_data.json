@@ -8,12 +8,18 @@
     "title": "我感觉被人跟踪了，回家洗澡感觉有人在偷看我？希望是我的错觉⋯还是真的有人在我家呢？？",
     "publish_date": "2023-10-29",
     "type": "无码",
-    "company": "SWAG",
+    "companys": [
+      {
+        "company": "SWAG",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SWAG",
+        "works_count": 363
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/6aa54403a6f6ce132cd83ead03bf6a16.webp",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LJ-0011",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LJ-0011",
     "actresses": []
   }
 }

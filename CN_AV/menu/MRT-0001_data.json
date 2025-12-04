@@ -8,12 +8,18 @@
     "title": "啪啪列车-?深夜捷运末班车?行驶车厢内的两名陌生男子",
     "publish_date": "2021-01-24",
     "type": "无码",
-    "company": "SWAG",
+    "companys": [
+      {
+        "company": "SWAG",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SWAG",
+        "works_count": 363
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/802b53e867d9542b5575dd3a629a1563.webp",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MRT-0001",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MRT-0001",
     "actresses": []
   }
 }

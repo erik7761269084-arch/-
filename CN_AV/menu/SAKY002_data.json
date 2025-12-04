@@ -9,17 +9,23 @@
     "title": "青梅竹马的心意",
     "publish_date": "2023-09-19",
     "type": "无码",
-    "company": "SA国际传媒",
+    "companys": [
+      {
+        "company": "SA国际传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SA国际传媒",
+        "works_count": 240
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20221216-1/93efdad3b9f47fe78f2b5f4ce8ca97e9.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SAKY002",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAKY002",
     "actresses": [
       {
         "name": "斑斑",
-        "img_url": "https://upload.xchina.io/model/6027d8841d9cb.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8692&name=%E6%96%91%E6%96%91"
+        "img_url": "https://static.avjiali.com/cache/460x640/70/actress/ban-ban.jpg",
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8692&name=%E6%96%91%E6%96%91"
       }
     ]
   }

@@ -9,17 +9,23 @@
     "title": "女儿给我难以置信的快乐",
     "publish_date": "2022-03-31",
     "type": "无码",
-    "company": "天美传媒",
+    "companys": [
+      {
+        "company": "天美传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=天美传媒",
+        "works_count": 662
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220929-1/394f25cd8de0ffee0961763ba6f37514.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-028",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMG-028",
     "actresses": [
       {
         "name": "林洋",
         "img_url": "https://upload.xchina.io/model/62a3a18accae7.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8758&name=%E6%9E%97%E6%B4%8B"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8758&name=%E6%9E%97%E6%B4%8B"
       }
     ]
   }

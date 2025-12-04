@@ -16,17 +16,23 @@
     "title": "《义工》 如果被操就能拯救你 那我愿意",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240105-1/3dd5b07d094025d687083102c16390a4.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8098",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8098",
     "actresses": [
       {
         "name": "唐月琴",
         "img_url": "https://upload.xchina.io/model/61b0a880277a2.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8573&name=%E5%94%90%E6%9C%88%E7%90%B4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8573&name=%E5%94%90%E6%9C%88%E7%90%B4"
       }
     ]
   }

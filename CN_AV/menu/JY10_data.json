@@ -9,12 +9,18 @@
     "title": "鲸鱼 民工天顶大战经理。",
     "publish_date": "2023-04-11",
     "type": "无码",
-    "company": "鲸鱼传媒",
+    "companys": [
+      {
+        "company": "鲸鱼传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=鲸鱼传媒",
+        "works_count": 13
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://da.da15525716.com/upload/vod/20240906-1/0c0ce1d9e684f5894fb5d0876b0a171c.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JY10",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY10",
     "actresses": []
   }
 }

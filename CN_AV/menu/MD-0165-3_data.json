@@ -11,17 +11,23 @@
     "title": "少年阿宾-篇章三 初识钰慧",
     "publish_date": "2022-12-07",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241015-1/c3f9295493c044d1226115fc231027d5.jpg",
     "background_img": "https://picture.yoshiclub.xyz/20230519/7c5f99cc-0a45-412e-8065-c5d7275960c7.jpg",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0165-3",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MD-0165-3",
     "actresses": [
       {
         "name": "沈娜娜",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8684&name=%E6%B2%88%E5%A8%9C%E5%A8%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8684&name=%E6%B2%88%E5%A8%9C%E5%A8%9C"
       }
     ]
   }

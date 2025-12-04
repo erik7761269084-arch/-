@@ -11,17 +11,23 @@
     "title": "后羿射嫦娥",
     "publish_date": "2023-06-01",
     "type": "无码",
-    "company": "乐播传媒",
+    "companys": [
+      {
+        "company": "乐播传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=乐播传媒",
+        "works_count": 33
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20240829-1/6e9eb208f89a468bacc5c315cd9c7397.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB029",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LB029",
     "actresses": [
       {
         "name": "姜北柠",
         "img_url": "https://upload.xchina.io/model/5f282b4e18ded.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8823&name=%E5%A7%9C%E5%8C%97%E6%9F%A0"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8823&name=%E5%A7%9C%E5%8C%97%E6%9F%A0"
       }
     ]
   }

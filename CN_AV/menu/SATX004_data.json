@@ -8,12 +8,18 @@
     "title": "Angle.无声天使",
     "publish_date": "2022-12-23",
     "type": "无码",
-    "company": "SA国际传媒",
+    "companys": [
+      {
+        "company": "SA国际传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SA国际传媒",
+        "works_count": 240
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/1f6f9eda72b298ad4ee06a939bf70cc0.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SATX004",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SATX004",
     "actresses": []
   }
 }

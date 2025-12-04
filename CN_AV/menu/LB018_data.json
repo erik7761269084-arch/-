@@ -11,17 +11,28 @@
     "title": "胜利的预感",
     "publish_date": "2023-06-01",
     "type": "无码",
-    "company": "乐播传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "乐播传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=乐播传媒",
+        "works_count": 33
+      }
+    ],
+    "genres": [
+      "劇情",
+      "性感",
+      "勾引・誘惑",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230807/20230807054750403403.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB018",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=LB018",
     "actresses": [
       {
         "name": "孟菲菲",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9382&name=%E5%AD%9F%E8%8F%B2%E8%8F%B2"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9382&name=%E5%AD%9F%E8%8F%B2%E8%8F%B2"
       }
     ]
   }

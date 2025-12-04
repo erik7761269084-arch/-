@@ -17,12 +17,18 @@
     "title": "《歌手的星途》 没有灵感怎么办 试着被人干一干",
     "publish_date": "2021-03-21",
     "type": "无码",
-    "company": "星空无限传媒",
+    "companys": [
+      {
+        "company": "星空无限传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=星空无限传媒",
+        "works_count": 868
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20240105-1/eb8fa776c228f229b98cbfef5dfa0fd7.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8096",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XK-8096",
     "actresses": []
   }
 }

@@ -18,17 +18,23 @@
     "title": "私人玩物",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://bwjpg.top/upload/vod/20250825-39/9bdadb258c011c735941a5d1b804645d.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-201",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-201",
     "actresses": [
       {
         "name": "陆雪琪",
         "img_url": "https://upload.xchina.io/model/61863d5f857af.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8577&name=%E9%99%86%E9%9B%AA%E7%90%AA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8577&name=%E9%99%86%E9%9B%AA%E7%90%AA"
       }
     ]
   }

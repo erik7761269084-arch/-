@@ -20,27 +20,33 @@
     "title": "李雷和韩梅梅",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://bwjpg.top/upload/vod/20250825-39/c5e9be7c703fb4cf4d1ae0d232260f0b.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-221",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-221",
     "actresses": [
       {
         "name": "梁如意",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8572&name=%E6%A2%81%E5%A6%82%E6%84%8F"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8572&name=%E6%A2%81%E5%A6%82%E6%84%8F"
       },
       {
         "name": "韩梅梅",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9467&name=%E9%9F%A9%E6%A2%85%E6%A2%85"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9467&name=%E9%9F%A9%E6%A2%85%E6%A2%85"
       },
       {
         "name": "梅梅",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9653&name=%E6%A2%85%E6%A2%85"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9653&name=%E6%A2%85%E6%A2%85"
       }
     ]
   }

@@ -8,12 +8,18 @@
     "title": "大V密探",
     "publish_date": "2023-01-29",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "果冻传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=果冻传媒",
+        "works_count": 309
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM051.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GDCM051",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=GDCM051",
     "actresses": []
   }
 }

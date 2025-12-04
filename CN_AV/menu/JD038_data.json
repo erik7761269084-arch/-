@@ -11,37 +11,49 @@
     "title": "轮回酒店1",
     "publish_date": "2021-10-06",
     "type": "无码",
-    "company": "精东影业",
-    "genres": [],
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
+    "genres": [
+      "劇情",
+      "3P・4P",
+      "奇聞趣事",
+      "國產",
+      "兩女一男"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD038",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JD038",
     "actresses": [
       {
         "name": "陆雪琪",
         "img_url": "https://upload.xchina.io/model/61863d5f857af.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8577&name=%E9%99%86%E9%9B%AA%E7%90%AA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8577&name=%E9%99%86%E9%9B%AA%E7%90%AA"
       },
       {
         "name": "苏小小",
         "img_url": "https://upload.xchina.io/model/601fbcb916abc.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8767&name=%E8%8B%8F%E5%B0%8F%E5%B0%8F"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8767&name=%E8%8B%8F%E5%B0%8F%E5%B0%8F"
       },
       {
         "name": "雪卉",
         "img_url": "https://upload.xchina.io/model/63d7d6a6f14dd.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8838&name=%E9%9B%AA%E5%8D%89"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8838&name=%E9%9B%AA%E5%8D%89"
       },
       {
         "name": "雪见",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8879&name=%E9%9B%AA%E8%A7%81"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8879&name=%E9%9B%AA%E8%A7%81"
       },
       {
         "name": "玲瓏",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9379&name=%E7%8E%B2%E7%93%8F"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9379&name=%E7%8E%B2%E7%93%8F"
       }
     ]
   }

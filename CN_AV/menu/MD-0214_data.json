@@ -14,17 +14,23 @@
     "title": "女王教室",
     "publish_date": "2022-12-07",
     "type": "无码",
-    "company": "麻豆映画传媒",
+    "companys": [
+      {
+        "company": "麻豆映画传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆映画传媒",
+        "works_count": 1176
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/23/12044_cover_2025-06-23_153833.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0214",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MD-0214",
     "actresses": [
       {
         "name": "苏语棠",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8678&name=%E8%8B%8F%E8%AF%AD%E6%A3%A0"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8678&name=%E8%8B%8F%E8%AF%AD%E6%A3%A0"
       }
     ]
   }

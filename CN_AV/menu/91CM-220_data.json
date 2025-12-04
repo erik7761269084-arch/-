@@ -20,17 +20,23 @@
     "title": "坠欲上集",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/W8lQMPoG.png",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-220",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-220",
     "actresses": [
       {
         "name": "董欣",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8575&name=%E8%91%A3%E6%AC%A3"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8575&name=%E8%91%A3%E6%AC%A3"
       }
     ]
   }

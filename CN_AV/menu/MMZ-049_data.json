@@ -10,27 +10,33 @@
     "title": "第8号当铺",
     "publish_date": "2024-09-20",
     "type": "无码",
-    "company": "麻豆传媒",
+    "companys": [
+      {
+        "company": "麻豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒",
+        "works_count": 1149
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://da.da15525716.com/upload/vod/20250419-1/2fe1fc576f5521b076c44e86e75cb2f6.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MMZ-049",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MMZ-049",
     "actresses": [
       {
         "name": "赵一曼",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8679&name=%E8%B5%B5%E4%B8%80%E6%9B%BC"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8679&name=%E8%B5%B5%E4%B8%80%E6%9B%BC"
       },
       {
         "name": "寻小小",
         "img_url": "https://upload.xchina.io/model/6081718f98871.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8745&name=%E5%AF%BB%E5%B0%8F%E5%B0%8F"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8745&name=%E5%AF%BB%E5%B0%8F%E5%B0%8F"
       },
       {
         "name": "顾桃桃",
         "img_url": "https://upload.xchina.io/model/611a4898d75f8.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8814&name=%E9%A1%BE%E6%A1%83%E6%A1%83"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8814&name=%E9%A1%BE%E6%A1%83%E6%A1%83"
       }
     ]
   }

@@ -8,27 +8,33 @@
     "title": "NTR转运站EP3.捉鸡鸣呻母狗盗夫",
     "publish_date": "2022-07-08",
     "type": "无码",
-    "company": "麻豆传媒映画x红期灯影像",
+    "companys": [
+      {
+        "company": "麻豆传媒映画x红期灯影像",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒映画x红期灯影像",
+        "works_count": 72
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230713-1/91f07cb69dc0ae6ef67f88d61ed9a402.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RS-036-EP3",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=RS-036-EP3",
     "actresses": [
       {
         "name": "林嫣",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8650&name=%E6%9E%97%E5%AB%A3"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8650&name=%E6%9E%97%E5%AB%A3"
       },
       {
         "name": "楚梦舒",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8659&name=%E6%A5%9A%E6%A2%A6%E8%88%92"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8659&name=%E6%A5%9A%E6%A2%A6%E8%88%92"
       },
       {
         "name": "秦可欣",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8668&name=%E7%A7%A6%E5%8F%AF%E6%AC%A3"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8668&name=%E7%A7%A6%E5%8F%AF%E6%AC%A3"
       }
     ]
   }

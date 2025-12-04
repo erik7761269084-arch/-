@@ -8,22 +8,28 @@
     "title": "心动的信号EP2 与您相遇x",
     "publish_date": "2023-10-17",
     "type": "无码",
-    "company": "麻豆传媒",
+    "companys": [
+      {
+        "company": "麻豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒",
+        "works_count": 1149
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220313-1/c89edd0f058435f15491a06b368a36d5.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ-15-2-EP2",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MTVQ-15-2-EP2",
     "actresses": [
       {
         "name": "文森",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=7935&name=%E6%96%87%E6%A3%AE"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=7935&name=%E6%96%87%E6%A3%AE"
       },
       {
         "name": "芸菲",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9871&name=%E8%8A%B8%E8%8F%B2"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9871&name=%E8%8A%B8%E8%8F%B2"
       }
     ]
   }

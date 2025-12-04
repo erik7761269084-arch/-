@@ -10,12 +10,18 @@
     "title": "鲸鱼 绿头鱼实验室之荧光套套测评。",
     "publish_date": "2023-04-11",
     "type": "无码",
-    "company": "鲸鱼传媒",
+    "companys": [
+      {
+        "company": "鲸鱼传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=鲸鱼传媒",
+        "works_count": 13
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://da.da15525716.com/upload/vod/20240907-1/40dd8236076002caab98874674903b91.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JY03",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY03",
     "actresses": []
   }
 }

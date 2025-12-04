@@ -8,17 +8,23 @@
     "title": "约啪网红",
     "publish_date": "2022-05-12",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/07/31/7b1adb5fb097ae9c7d65f9c060a4a638.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDYP-032",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDYP-032",
     "actresses": [
       {
         "name": "绫波丽",
         "img_url": "https://upload.xchina.io/model/66313061aed0f.webp",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8726&name=%E7%BB%AB%E6%B3%A2%E4%B8%BD"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8726&name=%E7%BB%AB%E6%B3%A2%E4%B8%BD"
       }
     ]
   }

@@ -9,17 +9,23 @@
     "title": "我的家庭健身教练",
     "publish_date": "2024-03-19",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230414-1/5faff143bf8bb745657cba207c465aad.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDKR030",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDKR030",
     "actresses": [
       {
         "name": "香月怜",
         "img_url": "https://upload.xchina.io/model/68470dab45942.webp",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8800&name=%E9%A6%99%E6%9C%88%E6%80%9C"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8800&name=%E9%A6%99%E6%9C%88%E6%80%9C"
       }
     ]
   }

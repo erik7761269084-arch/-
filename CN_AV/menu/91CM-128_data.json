@@ -20,17 +20,23 @@
     "title": "弟妹跟我吧",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://bwjpg.top/upload/vod/20250825-38/3cc8f97cfe613e52cc271b517e102181.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-128",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-128",
     "actresses": [
       {
         "name": "袁子仪",
         "img_url": "https://upload.xchina.io/model/60f82f3e5b6a5.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8723&name=%E8%A2%81%E5%AD%90%E4%BB%AA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8723&name=%E8%A2%81%E5%AD%90%E4%BB%AA"
       }
     ]
   }

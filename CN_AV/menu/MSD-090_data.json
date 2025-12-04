@@ -10,17 +10,23 @@
     "title": "兼职管家娘",
     "publish_date": "2022-01-10",
     "type": "无码",
-    "company": "麻豆传媒",
+    "companys": [
+      {
+        "company": "麻豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=麻豆传媒",
+        "works_count": 1149
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220303-1/6e365acf313ca70e1f571290016061ca.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MSD-090",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MSD-090",
     "actresses": [
       {
         "name": "许依然",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9505&name=%E8%AE%B8%E4%BE%9D%E7%84%B6"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9505&name=%E8%AE%B8%E4%BE%9D%E7%84%B6"
       }
     ]
   }

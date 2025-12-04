@@ -17,17 +17,28 @@
     "title": "公公的特殊照顾",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "劇情",
+      "公公",
+      "兒媳",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729054920523523.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-132",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-132",
     "actresses": [
       {
         "name": "陳若瑤",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9415&name=%E9%99%B3%E8%8B%A5%E7%91%A4"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9415&name=%E9%99%B3%E8%8B%A5%E7%91%A4"
       }
     ]
   }

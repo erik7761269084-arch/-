@@ -8,17 +8,23 @@
     "title": "女作家的放荡绮想",
     "publish_date": "",
     "type": "无码",
-    "company": "爱豆传媒",
+    "companys": [
+      {
+        "company": "爱豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=爱豆传媒",
+        "works_count": 424
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230318-1/3890be265cdc2d1f7822fefe2e38e8bb.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5237",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ID5237",
     "actresses": [
       {
         "name": "羽芮",
         "img_url": "https://upload.xchina.io/model/6297bc83bfdbe.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8733&name=%E7%BE%BD%E8%8A%AE"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8733&name=%E7%BE%BD%E8%8A%AE"
       }
     ]
   }

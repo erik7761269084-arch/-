@@ -20,17 +20,28 @@
     "title": "保姆",
     "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "果冻传媒",
-    "genres": [],
+    "companys": [
+      {
+        "company": "91制片厂",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=91制片厂",
+        "works_count": 173
+      }
+    ],
+    "genres": [
+      "劇情",
+      "裸體圍裙",
+      "家政婦",
+      "國產"
+    ],
     "description": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230729/202307290524217171.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-131",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-131",
     "actresses": [
       {
         "name": "何苗",
         "img_url": "https://upload.xchina.io/model/6092eec858960.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8559&name=%E4%BD%95%E8%8B%97"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8559&name=%E4%BD%95%E8%8B%97"
       }
     ]
   }

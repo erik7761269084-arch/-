@@ -13,22 +13,28 @@
     "title": "真实约炮车模",
     "publish_date": "2022-05-12",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://bwjpg.top/upload/vod/20250825-42/a9312189a8d5f9b0e4c7655abb5a954a.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDYP-001",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDYP-001",
     "actresses": [
       {
         "name": "林凤娇",
         "img_url": "https://upload.xchina.io/model/6087ccace1f46.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8764&name=%E6%9E%97%E5%87%A4%E5%A8%87"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8764&name=%E6%9E%97%E5%87%A4%E5%A8%87"
       },
       {
         "name": "瑶贝",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9477&name=%E7%91%B6%E8%B4%9D"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9477&name=%E7%91%B6%E8%B4%9D"
       }
     ]
   }

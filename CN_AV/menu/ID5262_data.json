@@ -9,22 +9,28 @@
     "title": "哥哥请操我吧",
     "publish_date": "",
     "type": "无码",
-    "company": "爱豆传媒",
+    "companys": [
+      {
+        "company": "爱豆传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=爱豆传媒",
+        "works_count": 424
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://da.da15525716.com/images/2023/12/07/guochan117.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5262",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=ID5262",
     "actresses": [
       {
         "name": "林洋",
         "img_url": "https://upload.xchina.io/model/62a3a18accae7.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8758&name=%E6%9E%97%E6%B4%8B"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8758&name=%E6%9E%97%E6%B4%8B"
       },
       {
         "name": "张琪琪",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9563&name=%E5%BC%A0%E7%90%AA%E7%90%AA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9563&name=%E5%BC%A0%E7%90%AA%E7%90%AA"
       }
     ]
   }

@@ -9,12 +9,18 @@
     "title": "拜托了姐姐",
     "publish_date": "2023-04-11",
     "type": "无码",
-    "company": "鲸鱼传媒",
+    "companys": [
+      {
+        "company": "鲸鱼传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=鲸鱼传媒",
+        "works_count": 13
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://le.lefhao20250923.top/upload/vod/20240906-1/21e2bc320c440a87bdfa8195584ea33e.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JY09",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JY09",
     "actresses": []
   }
 }

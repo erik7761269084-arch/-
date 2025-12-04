@@ -9,22 +9,28 @@
     "title": "约会温泉之旅",
     "publish_date": "2025-07-08",
     "type": "无码",
-    "company": "天美传媒",
+    "companys": [
+      {
+        "company": "天美传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=天美传媒",
+        "works_count": 662
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20220921-1/b10b2c3c77c30808cbc1dc2bae913e36.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-075",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=TMW-075",
     "actresses": [
       {
         "name": "素人",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8591&name=%E7%B4%A0%E4%BA%BA"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8591&name=%E7%B4%A0%E4%BA%BA"
       },
       {
         "name": "沐语柔",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9709&name=%E6%B2%90%E8%AF%AD%E6%9F%94"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=9709&name=%E6%B2%90%E8%AF%AD%E6%9F%94"
       }
     ]
   }

@@ -9,17 +9,23 @@
     "title": "客户居然是弟弟",
     "publish_date": "2022-11-22",
     "type": "无码",
-    "company": "精东影业",
+    "companys": [
+      {
+        "company": "精东影业",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=精东影业",
+        "works_count": 502
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/11/24/96fe65c4966f77eb5c66a6531f0a1a99.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDYA001",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=JDYA001",
     "actresses": [
       {
         "name": "李灵儿",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8402&name=%E6%9D%8E%E7%81%B5%E5%84%BF"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8402&name=%E6%9D%8E%E7%81%B5%E5%84%BF"
       }
     ]
   }

@@ -9,17 +9,23 @@
     "title": "世界杯探案之台湾风云EP4",
     "publish_date": "2024-01-10",
     "type": "无码",
-    "company": "SA国际传媒",
+    "companys": [
+      {
+        "company": "SA国际传媒",
+        "company_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_companyDatas.html?series=SA国际传媒",
+        "works_count": 240
+      }
+    ],
     "genres": [],
     "description": "",
     "cover_url": "https://picmeta2024.sbs/upload/vod/20230105-1/2bb3cc5cd900e1c34e1312827d3973b8.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SAT0048",
+    "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=SAT0048",
     "actresses": [
       {
         "name": "翁雨澄",
         "img_url": "https://upload.xchina.io/model/624db14972ff7.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8705&name=%E7%BF%81%E9%9B%A8%E6%BE%84"
+        "profile_url": "https://yunvgong.com/CN_AV/actressDatas.html?series=8705&name=%E7%BF%81%E9%9B%A8%E6%BE%84"
       }
     ]
   }
