@@ -217,6 +217,17 @@ body > .container {
     .container { flex-direction: column; }
     .right-panel { width: 100%; }
 }
+
+/* 点击闪白动画 */
+.flash-click {
+    animation: flashAnim 0.25s ease-out;
+}
+
+@keyframes flashAnim {
+    0% { filter: brightness(2); }
+    100% { filter: brightness(1); }
+}
+
 </style>
 </head>
 
@@ -324,7 +335,10 @@ function getSeriesName() {
 function loadSeriesData(seriesName) {
 	const dataUrl = `${window.location.origin}/CN_AV/menu/${seriesName}_data.json`;
     fetch(dataUrl)
-    .then(res => { if(!res.ok) throw new Error("加载失败"); return res.json(); })
+    .then(res => {
+        if(!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+    })
     .then(data => {
         window.episodes = data.episodes;
         window.seriesInfo = data.seriesInfo;
@@ -333,17 +347,83 @@ function loadSeriesData(seriesName) {
         }
         initPlayer();
     })
-    .catch(err => alert("剧集数据加载失败: " + err.message));
+    .catch(err => {
+        console.error("剧集数据加载失败:", err);
+        alert("剧集数据加载失败，请确认 URL 或 CORS 设置");
+    });
 }
 
 function initPlayer() {
     bottomTitle.textContent = seriesInfo.title || "剧名";
     idcodeEl.textContent = seriesInfo.IDcode || "";
-    companyEl.textContent = seriesInfo.company || "";
     descriptionEl.textContent = seriesInfo.description || "";
     publishEl.textContent = seriesInfo.publish_date || "";
     categoryEl.textContent = seriesInfo.type || "";
 
+	/* ========== 出品厂商 + 数量 等宽 + 闪亮动画 + 不换行 ========== */
+	if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
+
+		const c = seriesInfo.companys[0];
+
+		const companyUrl = c.company_url || "#";
+		const works = c.works_count ?? "";
+
+		companyEl.innerHTML = `
+			<span style="
+				display: inline-flex;
+				gap: 0;
+				vertical-align: middle;
+				width: 260px;
+			">
+
+				<!-- 公司（淡紫色） -->
+				<a href="${companyUrl}" 
+				   target="_blank"
+				   class="flash-target"
+				   style="
+					   flex: 1;
+					   text-decoration: none;
+					   background: #C9B1FF;
+					   color: #3F2771;
+					   padding: 6px 0;
+					   text-align: center;
+					   font-weight: bold;
+					   border-radius: 6px 0 0 6px;
+					   display: inline-block;
+				   ">
+					${c.company}
+				</a>
+
+				<!-- 数量（绿色） -->
+				<div class="flash-target" style="
+					flex: 1;
+					background: #7DDB8A;
+					color: #084F15;
+					padding: 6px 0;
+					text-align: center;
+					font-weight: bold;
+					border-radius: 0 6px 6px 0;
+					display: inline-block;
+					cursor: pointer;
+				">
+					${works}部
+				</div>
+
+			</span>
+		`;
+
+		/* 添加点击闪亮动画 */
+		document.querySelectorAll(".flash-target").forEach(el => {
+			el.addEventListener("click", () => {
+				el.classList.remove("flash-click");
+				void el.offsetWidth;   // 关键：强制重绘，确保每次点击都能重播动画
+				el.classList.add("flash-click");
+			});
+		});
+
+	} else {
+		companyEl.textContent = seriesInfo.company || "";
+	}
     actressGrid.innerHTML = "";
     if(Array.isArray(seriesInfo.actresses)){
         seriesInfo.actresses.forEach(a=>{
