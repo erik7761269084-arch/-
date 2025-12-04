@@ -1,0 +1,54 @@
+// 8164_AVactress_data.js
+window.actressData = {
+  "id": 8164,
+  "name": "露娜",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://yunvgong.com/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 8412,
+      "IDcode": "XKG215",
+      "title": "淫荡儿媳勾引公公打炮借种",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "星空无限传媒",
+      "publish_date": "2023-09-21",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20240720-1/734d41373c34790d3fe65c5fcb134cff.jpg",
+      "actress": [
+        "露娜"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKG215"
+    },
+    {
+      "id": 8411,
+      "IDcode": "XKG214",
+      "title": "舔狗守得云开见月明",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "星空无限传媒",
+      "publish_date": "2023-09-21",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20240716-1/0397d61d8ac4ea386926c5f57f6a9fdc.jpg",
+      "actress": [
+        "露娜"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=XKG214"
+    }
+  ]
+};

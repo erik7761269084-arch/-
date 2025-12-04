@@ -1,0 +1,54 @@
+// 9437_AVactress_data.js
+window.actressData = {
+  "id": 9437,
+  "name": "周卿卿",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://yunvgong.com/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 16346,
+      "IDcode": "MSD-022",
+      "title": "最新出品大学的性福生活冷艳野性日日榨精-冷艳女神",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "2022-01-10",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/dBSKJ3yk.jpg",
+      "actress": [
+        "周卿卿"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MSD-022"
+    },
+    {
+      "id": 16341,
+      "IDcode": "MSD-021",
+      "title": "絕望的肉償債款 強行抽插高潮顫抖",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "2022-01-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722042536172172.jpg",
+      "actress": [
+        "周卿卿"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=MSD-021"
+    }
+  ]
+};

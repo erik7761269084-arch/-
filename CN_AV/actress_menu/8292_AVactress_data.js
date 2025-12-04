@@ -1,0 +1,39 @@
+// 8292_AVactress_data.js
+window.actressData = {
+  "id": 8292,
+  "name": "邓玉莲",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://yunvgong.com/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 11102,
+      "IDcode": "91CM-164",
+      "title": "小姨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "91制片厂",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730004744232232.jpg",
+      "actress": [
+        "邓玉莲",
+        "郭童童"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV/player_template.html?series=91CM-164"
+    }
+  ]
+};
