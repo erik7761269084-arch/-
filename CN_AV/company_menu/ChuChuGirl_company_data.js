@@ -1,0 +1,312 @@
+// ChuChuGirl_company_data.js
+window.companyData = {
+  "company": "ChuChuGirl",
+  "works_count": 20,
+  "dramas": [
+    {
+      "id": 7798,
+      "IDcode": "SVGAL-010",
+      "title": "今天的課程將演示怎麼使用老師的陰道 ~ 西野惠美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2025-03-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20250303/9d8a013a-9ba3-4737-830d-e9a2cb858ddd.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20250303/9d8a013a-9ba3-4737-830d-e9a2cb858ddd.jpg",
+      "actress": [
+        "西野絵美"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-010"
+    },
+    {
+      "id": 12854,
+      "IDcode": "SVGAL-003",
+      "title": "表妹是國際航空公司的空姐，她性欲旺盛，用魅魔口交來擠壓我的精液 ~ 西野惠美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-09-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808001249700700.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240808/20240808001249700700.jpg",
+      "actress": [
+        "西野絵美"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-003"
+    },
+    {
+      "id": 94778,
+      "IDcode": "SVGAL-001",
+      "title": "罰ゲームで童貞狩りにやってきたクラスメイトの白ギャルJ〇が陰キャな僕のデカチンに「超どハマり！」何回でも発射できる絶倫猿SEXでイキまくって、連続中出しした夏休み 逢月ひまり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-08-22",
+      "cover_url": "https://tuaskbgnekr.com/20240731/eRZ4W8RQ/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-001"
+    },
+    {
+      "id": 13108,
+      "IDcode": "SVGAL-002",
+      "title": "住在就讀名牌大學的親戚姐姐這裏備考，她卻用大屁股來爲我個人授業，禁欲生活後的暴發，超級騎乘位 ~ 橘京花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-08-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20240725/b40e1936-2026-4e2b-8dd3-5c630b4ddc39.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240725/b40e1936-2026-4e2b-8dd3-5c630b4ddc39.jpg",
+      "actress": [
+        "橘京花"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-002"
+    },
+    {
+      "id": 588215,
+      "IDcode": "SVGAL-020",
+      "title": "深夜加班到极限 压力爆表的我面前 突然出现了一位温柔的精灵 她以梦幻般的口交技巧安抚了所有员工 让全体陷入疗愈状态 也让差点倒闭的公司起死回生 十束流羽 十束流羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20250807-1/baab40abbaa0865d67c3b62e415ef59e.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-020"
+    },
+    {
+      "id": 566520,
+      "IDcode": "SVGAL-011",
+      "title": "バイト先で大好きな彼氏とエッチな游びをしてたらバレて罚として逆バニーで动かせられた私。死にた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250427/RsJg4CXZ/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-011"
+    },
+    {
+      "id": 565146,
+      "IDcode": "SVGAL-012",
+      "title": "チントレ これじゃ宝の持ち腐れだよ？早すぎて妻に爱想をつかされた私たち夫妇を心配した义妹が“",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250301/l4ZNEBuB/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-012"
+    },
+    {
+      "id": 483514,
+      "IDcode": "SVGAL-006",
+      "title": "推J〇与可爱的学生一起生活三天两夜你可以随时插入原始性爱和中出（心）长野铃 永野铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/28ecf16b117ec5bb6920e80540952e90.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-006"
+    },
+    {
+      "id": 308225,
+      "IDcode": "SVGAL-024",
+      "title": "日本ヒプノセラピー研究所 001 催●治療記録映像。CALTE西が丘●校B組 石原青",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-024"
+    },
+    {
+      "id": 178446,
+      "IDcode": "SVGAL-008",
+      "title": "めっちゃカワイイと街で噂のカフェ看板娘は人見知りで押しに弱くてセクハラされても拒めない 杏ここ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc4d99550e292a78b914b/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-008"
+    },
+    {
+      "id": 178040,
+      "IDcode": "SVGAL-025",
+      "title": "J系オジカツホリック かほ→J系 新体操部 福岡出身の女の子。 実は初体験がおじさんで、それ以来おじさんとのSEXにハマり中…。 白井いと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daf559d6fbef4e90d2259c/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-025"
+    },
+    {
+      "id": 77792,
+      "IDcode": "SVGAL-004",
+      "title": "修学旅行时的青空深吻约会-天月杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "天月梓"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-004"
+    },
+    {
+      "id": 72509,
+      "IDcode": "SVGAL-013",
+      "title": "ダンナの留守中に、高慢ちきな若妻のクソ生意気マ〇コを極太バイブでじっくりセッカン 那賀崎ゆきね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "那賀崎雪音"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-013"
+    },
+    {
+      "id": 66606,
+      "IDcode": "SVGAL-018",
+      "title": "童貞チ●ポにロックオン！ デカ尻お姉ちゃんに誘惑されて中出しし放題 気持ちよすぎる夢のような筆下ろし 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dea58c92318f97d525259/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-018"
+    },
+    {
+      "id": 63056,
+      "IDcode": "SVGAL-019",
+      "title": "医師を押し倒し、デカチンを喉奥セルフイラマで勃起させ騎乘位中出しにまで導く欲求不満若妻性欲モンスター 九井スナオ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899551755337d7f7bcfadb6/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "九井珠奈緒"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-019"
+    },
+    {
+      "id": 9524,
+      "IDcode": "SVGAL-009",
+      "title": "布団の中ではゲス金魚妻になる隣の奥さんとヤリまくり不倫温泉旅館 小那海あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241229/18c744f7-17c2-4e61-8c42-47ab8b43dfdc.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "小那海綾",
+        "佐佐波绫"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-009"
+    },
+    {
+      "id": 7626,
+      "IDcode": "SVGAL-015",
+      "title": "今日は、産休明けの膣を使って子作りの授業をします。工藤ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250311/4af221cc-609b-49b1-9063-b9834a740105.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "工藤百合"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-015"
+    },
+    {
+      "id": 7266,
+      "IDcode": "SVGAL-016",
+      "title": "男の欲望をすべて受け入れてくれるメチャカワ白衣の天使のヒーリングべろちゅう甘くとろける唾液たっぷりご奉仕濃厚接吻でチ〇ポはビンビン、ドバドバ射精が止まらない！静河",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250325/d82cd32b-090a-48fb-89b1-f4dd9f59f0e6.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "静河"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-016"
+    },
+    {
+      "id": 4019,
+      "IDcode": "SVGAL-021",
+      "title": "我が家のビッチな行かず後家 還暦を過ぎて始めた地域のボランティアで出会って晩婚した妻の連れ子は 真白ふわり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250730/20250730010843576576_93516_thumbnail.webp",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "真白風羽里"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-021"
+    },
+    {
+      "id": 2437,
+      "IDcode": "SVGAL-022",
+      "title": "ひとりぼっち極悪性活指導室 しっかり者で気が強すぎるサッカー部の女子マネージャーを呼び出し従順雑魚マ〇コに仕立てる絶倫串刺しイカセ＆大量中出し姦 北岡果林",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "北岡果林"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=SVGAL-022"
+    }
+  ]
+};

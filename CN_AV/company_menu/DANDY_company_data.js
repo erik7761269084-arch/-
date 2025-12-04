@@ -1,0 +1,105 @@
+// DANDY_company_data.js
+window.companyData = {
+  "company": "DANDY",
+  "works_count": 7,
+  "dramas": [
+    {
+      "id": 178334,
+      "IDcode": "DANDYA-003",
+      "title": "巨乳少女が増殖する数珠繋ぎSEX。帰省すると小さかった姪っ子たちがボインに急成長",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=DANDYA-003"
+    },
+    {
+      "id": 178310,
+      "IDcode": "DANDYA-001",
+      "title": "「今日も息子の家庭教師とセックスしています。」2人きりになったら10秒で挿入？！息子がすぐ隣にいるのにイケメン家庭教師のチ○ポを握る肉欲教育ママVOL.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=DANDYA-001"
+    },
+    {
+      "id": 178295,
+      "IDcode": "DANDYA-002",
+      "title": "ヌキ無し人妻メンエスで出会ったおばさんセラピストと意気投合！2回目はラブホに呼んだら…ご休憩2時間で何度も中出しさせてくれました。VOL.5",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=DANDYA-002"
+    },
+    {
+      "id": 175665,
+      "IDcode": "DANDYA-005",
+      "title": "ヌキ無し密着ぬるぬるオイルマッサージ中に勃起中のうつ伏せ尻をグイグイ押され床オナ状態で暴発…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=DANDYA-005"
+    },
+    {
+      "id": 174862,
+      "IDcode": "DANDYA-004",
+      "title": "内緒でエグい接客してくれた美人CAをホテルに誘って生ハメしたら何度も求めるヤリマンだったVOL.6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=DANDYA-004"
+    },
+    {
+      "id": 174053,
+      "IDcode": "DANDYA-008",
+      "title": "最終電車で痴女とまさかの2人きり！むちカワVer向かいの座席でパンチラしてくる小悪魔肉感女子の誘惑で勃起したらヤられた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=DANDYA-008"
+    },
+    {
+      "id": 173858,
+      "IDcode": "DANDYA-006",
+      "title": "小さいから大丈夫だろうと女湯に一緒に入った甥っ子がおっぱいだらけの状況にフル勃起！慌てた叔母さんがこっそり抜いてくれましたVOL.3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=DANDYA-006"
+    }
+  ]
+};

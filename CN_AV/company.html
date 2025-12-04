@@ -132,7 +132,7 @@ let pageSize = 100;
 
 async function loadCompanies() {
   try {
-    const res = await fetch("https://yunvgong.com/CN_AV/category/company_all.json");
+    const res = await fetch("https://yunvgong.com/CN_AV/new_company_menu/company_list.json");
     const data = await res.json();
 
     companies = data.filter(c => c.company && c.company.trim() !== "");

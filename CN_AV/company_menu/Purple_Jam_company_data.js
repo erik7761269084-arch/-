@@ -1,0 +1,451 @@
+// Purple_Jam_company_data.js
+window.companyData = {
+  "company": "Purple Jam",
+  "works_count": 30,
+  "dramas": [
+    {
+      "id": 6974,
+      "IDcode": "PJAM-031",
+      "title": "有故事的巨乳巨臀按摩師 被前同事偷窺禁忌情事，每天被迫中出 ~ 瀬田一花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2025-04-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20250407/2872c878-0683-4578-827b-96f18f4e2a79.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20250407/2872c878-0683-4578-827b-96f18f4e2a79.jpg",
+      "actress": [
+        "瀬田一花"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-031"
+    },
+    {
+      "id": 7952,
+      "IDcode": "PJAM-028",
+      "title": "模特人妻接受了要求半裸拍攝的工作，但最終卻被全部脫光，陌生人的雞巴插入她體內，然後被NTR中出內射 ~ 沙月惠奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2025-02-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250225/bca2abe7-2898-48af-b0fe-e00c52111691.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20250225/bca2abe7-2898-48af-b0fe-e00c52111691.jpg",
+      "actress": [
+        "沙月惠奈"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-028"
+    },
+    {
+      "id": 93814,
+      "IDcode": "PJAM-016",
+      "title": "町内会肉便器 ちょっとした出来心だったのに、、、肉欲変態女になり果てた美人妻 弥生みづき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-07-07",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/805befd182eda5bb36fe491878155c93.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "弥生美月"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-016"
+    },
+    {
+      "id": 93761,
+      "IDcode": "PJAM-015",
+      "title": "美人若妻の本性 社内肉便器「わたしをめちゃくちゃにしてください。」尾崎えりか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-06-26",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/b71d202f208bf79466dffb1b8b08dfa3.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-015"
+    },
+    {
+      "id": 517187,
+      "IDcode": "545PJAM-018",
+      "title": "美麗的嫂嫂 偶然目擊到巨乳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce240079f1ac4ec4652b83/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=545PJAM-018"
+    },
+    {
+      "id": 499355,
+      "IDcode": "PJAM-019",
+      "title": "美丽的哥哥的妻子 我知道我美丽而友善的嫂子实际上是一个沮丧的巨乳女人，喜欢自慰…Y 吉根柚莉爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/507798c65a7339f70aa6f1f689a3758a.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-019"
+    },
+    {
+      "id": 408148,
+      "IDcode": "PJAM-025",
+      "title": "美麗大嫂 從以前就盯上的大嫂被巨乳哥哥的色鬼上司奪走…… 水原美園",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b223b5fbe7fd63de7f8c8e/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-025"
+    },
+    {
+      "id": 408093,
+      "IDcode": "PJAM-020",
+      "title": "快感：傳聞鄰居的美麗妻子被色情按摩摧毀了。塗油變變態光姬的女子真面目",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdb0a80069396376797f36/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-020"
+    },
+    {
+      "id": 400170,
+      "IDcode": "PJAM-039",
+      "title": "美麗小料理店的年輕女老闆 為了某個理由而自願成為肉便器「請把我搞得一團糟。」逢澤美優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889f82a98bc99dfddcdd859/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-039"
+    },
+    {
+      "id": 188016,
+      "IDcode": "PJAM-027",
+      "title": "ている巨乳自慢の兄嫁が搾乳機レクチャー動画を投稿したらファンに顔バレして巨乳をイジリたおされ中出しまでされてしまいました…羽月乃蒼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-027"
+    },
+    {
+      "id": 175982,
+      "IDcode": "PJAM-022",
+      "title": "完堕ちマゾ生活から逃げてきた訳あり美女の末路 三岳ゆうな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-022"
+    },
+    {
+      "id": 175717,
+      "IDcode": "PJAM-045",
+      "title": "優秀な人事課の私が、裏研修でまさかの社内肉便器扱い…快感に屈して自ら腰を振りマゾ開花しました。小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-045"
+    },
+    {
+      "id": 173827,
+      "IDcode": "PJAM-047",
+      "title": "地方採用された私は「研修」という名の性奉仕を徹底的に叩き込まれたのち、社用肉便器として本社デビューしました。結月りあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-047"
+    },
+    {
+      "id": 161199,
+      "IDcode": "PJAM-038",
+      "title": "正義感十足的正直女會計，卻被腐蝕了。公司內部性奴白石渚 - 白石なぎさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae7eb681bce592e9c18c19/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-038"
+    },
+    {
+      "id": 93759,
+      "IDcode": "PJAM-018",
+      "title": "麗しの兄嫁 巨乳兄嫁の激しい不倫SEXをたまたま目撃したオレは兄嫁と目が合った途端ベットに押し倒されて中出しまでさせられました！！田中ねね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce240079f1ac4ec4652b83/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "田中寧寧"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-018"
+    },
+    {
+      "id": 90609,
+      "IDcode": "PJAM-003",
+      "title": "町内会肉便器妻 不妊に悩む巨乳人妻に種付け中出し集会のお知らせ 深田結梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/f0c8e87329def3f0c2e32c47ed82e7a1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "浅田结梨"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-003"
+    },
+    {
+      "id": 70012,
+      "IDcode": "PJAM-030",
+      "title": "セミヌードモデルの撮影バイトで中出しされてしまった爆尻妻 藤沢麗央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "藤沢麗央"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-030"
+    },
+    {
+      "id": 63797,
+      "IDcode": "PJAM-034",
+      "title": "画伯で資産家の義父にヌードデッサンモデルを要求され中出しされた全てを義兄に見られていた巨乳妻 星明日菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689da6dfc49456085437e137/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "星明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-034"
+    },
+    {
+      "id": 63479,
+      "IDcode": "PJAM-035",
+      "title": "憧れの秘書課に配属された明るくて可愛い新入社員は、社内肉便器志願の変態女でした。 柏木こなつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-035"
+    },
+    {
+      "id": 62692,
+      "IDcode": "PJAM-037",
+      "title": "NTR巨乳妻 夫が一晩だけ連れてきた部下が超・おっぱい星人で欲求不満だった私は毎日彼と逢うようになりました。小坂ひまり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896a6f98bc99dfddc39fd0/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-037"
+    },
+    {
+      "id": 62691,
+      "IDcode": "PJAM-036",
+      "title": "禁断のセミヌードモデル妻 義父からエロ下着にさせられ全裸にされ中出しNTRまで、、、綾瀬舞菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896a5098bc99dfddc39fcf/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-036"
+    },
+    {
+      "id": 61195,
+      "IDcode": "PJAM-040",
+      "title": "旦那の浮気で怒って一時帰省してきた親友の美人アネキを昔からナイショで大好きだったオレが中出しNTRするまでの話 椿りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-040"
+    },
+    {
+      "id": 60141,
+      "IDcode": "PJAM-024",
+      "title": "訳あり介護職員 依存症オンナの切ない末路 九井スナオ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-024"
+    },
+    {
+      "id": 59940,
+      "IDcode": "PJAM-042",
+      "title": "快楽の「実験台」にされた美人研究員 社内肉便器 静河",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-042"
+    },
+    {
+      "id": 59734,
+      "IDcode": "PJAM-043",
+      "title": "同期の男を食い散らかして営業に異動した私ですが、肉便器営業を叩き込まれた結果、誰よりも優秀になりました。天馬ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-043"
+    },
+    {
+      "id": 11084,
+      "IDcode": "PJAM-021",
+      "title": "麗しの兄嫁 美人で美尻の義姉さんが欲求不満すぎてマッチングアプリで出会いを求めている秘密を知ったオレは、、、！浜崎真緒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba94475fdaf263a263fbab/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "浜崎真緒"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-021"
+    },
+    {
+      "id": 10380,
+      "IDcode": "PJAM-023",
+      "title": "嫁給哥哥的巨乳嫂子被我發現做猥褻淫蕩的直播的祕密...！ ~ 星乃夏月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd9b750069396376797894/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "星乃夏月"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-023"
+    },
+    {
+      "id": 7629,
+      "IDcode": "PJAM-029",
+      "title": "バリキャリOLがマゾ覚醒し、会長専任肉便器秘書になり果てるまで。黑木れいな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250311/835a1200-c0d0-428d-b33e-aeb3f9e6fc3c.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "黑木玲奈"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-029"
+    },
+    {
+      "id": 6530,
+      "IDcode": "PJAM-032",
+      "title": "為老公升職甘願獻身的絕美人妻沉淪快感淪為公司肉便器 ~ 美波汐里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a005df9550e292a776795c/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "美波汐里"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-032"
+    },
+    {
+      "id": 6338,
+      "IDcode": "PJAM-033",
+      "title": "息子の幼馴染にヌードモデルをさせられNTR中出しされた巨乳母 宇佐美すい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a006c905de9f92f0cf08aa/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "宇佐美すい"
+      ],
+      "title_play_url": "https://yunvgong.com/CN_AV//player_template.html?series=PJAM-033"
+    }
+  ]
+};
