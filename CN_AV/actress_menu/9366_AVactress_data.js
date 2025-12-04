@@ -4,21 +4,35 @@ window.actressData = {
   "name": "韓小野",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230823/202308230532219494.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230823/202308230547481515.jpg",
+  "zodiac": "金牛座",
+  "height": "166cm",
+  "measurements": "胸 84 腰 58 臀 89",
+  "measurements_display": "84D/58/89",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "天然",
+    "特別騷",
+    "蘿莉",
+    "野性",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/687a8cca-556e-4d95-8b2f-db201da4658c.html",
   "aliases": [
     "韓小野",
     "韩小野"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230823/202308230532219494.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

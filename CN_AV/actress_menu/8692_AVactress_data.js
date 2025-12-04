@@ -5,11 +5,11 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://static.avjiali.com/cache/460x640/70/actress/ban-ban.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230810/20230810034148868868.jpg",
+  "zodiac": "巨蟹座",
   "height": "153cm",
-  "measurements": null,
-  "measurements_display": "",
+  "measurements": "胸 82 腰 66 臀 81",
+  "measurements_display": "82D/66/81",
   "cup": "D",
   "description": "斑斑，又有艺名：罗瑾萱、斑比、陆斑比，台湾AV女优。",
   "features": [],
@@ -19,7 +19,17 @@ window.actressData = {
     "斑比",
     "陆斑比"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/罗瑾萱.jpg",
+    "https://picture.yoshiclub.xyz/20230414/68bc31b8-ce20-4a0b-8555-d4a286a45ef3.png",
+    "https://picture.yoshiclub.xyz/20230414/c2c18f27-2558-4e2e-a6c0-faece1bdf6ca.png",
+    "https://picture.yoshiclub.xyz/20230608/939d7ac6-f0c2-4a73-8d47-dc17e1e5cc8f.jpg",
+    "https://picture.yoshiclub.xyz/20230608/2b757c55-cebd-4568-82e8-a4dde0deffcf.jpg",
+    "https://picture.yoshiclub.xyz/20230608/093f8107-f8a6-4e86-8ce0-35430974fc31.jpg",
+    "https://picture.yoshiclub.xyz/20230608/59448270-b370-405e-aa8f-d473ffae969b.jpg",
+    "https://picture.yoshiclub.xyz/20230608/28c4f60a-733f-4049-bbed-ae6395132368.jpg",
+    "https://picture.yoshiclub.xyz/20230809/b58de994-20c3-4ef0-93ae-867ec682cf1e.jpg"
+  ],
   "works_count": 151,
   "related_dramas": [
     {

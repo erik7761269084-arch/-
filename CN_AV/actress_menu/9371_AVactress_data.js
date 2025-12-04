@@ -4,21 +4,34 @@ window.actressData = {
   "name": "張曼青",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230810/7eed267e-e978-4bfe-9699-270da60b2ac0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230810/20230810010157366366.jpg",
+  "zodiac": "水瓶座",
+  "height": "158cm",
+  "measurements": "胸 82 腰 51 臀 81",
+  "measurements_display": "82B/51/81",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "美腳",
+    "大眼睛",
+    "美少女",
+    "萌妹子",
+    "嬌小身材",
+    "娃娃臉",
+    "矮小",
+    "蘿莉",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/886441f6-6966-418e-8dbe-5b07521ceb9c.html",
   "aliases": [
     "张曼青",
     "張曼青"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230810/7eed267e-e978-4bfe-9699-270da60b2ac0.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

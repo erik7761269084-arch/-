@@ -4,18 +4,23 @@ window.actressData = {
   "name": "落落",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230818/20230818223930351351.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230819/20230819005906952952.jpg",
+  "zodiac": "金牛座",
+  "height": "157cm",
+  "measurements": "胸 82 腰 59 臀 85",
+  "measurements_display": "82D/59/85",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "嫵媚",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/ccf8a691-0964-4000-8568-588a1d001c1d.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230818/20230818223930351351.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

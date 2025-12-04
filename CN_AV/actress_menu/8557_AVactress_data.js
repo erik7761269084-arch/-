@@ -5,14 +5,27 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/6362b54ad353a.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240430/20240430091001523523.jpg",
+  "zodiac": "摩羯座",
+  "height": "170cm",
+  "measurements": "胸 86 腰 60 臀 90",
+  "measurements_display": "86F/60/90",
+  "cup": "F",
   "description": "佳芯（梁佳芯），台湾AV女优，又有艺名朵儿。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "女人味",
+    "性感",
+    "嫵媚",
+    "美臀",
+    "修長癡體",
+    "野性",
+    "辣妹系",
+    "風塵氣",
+    "職業模特"
+  ],
   "detail_url": "https://xchina.fit/model/id-6362b54ad353a.html",
   "aliases": [
     "Duo Er",
@@ -21,7 +34,9 @@ window.actressData = {
     "朵儿",
     "梁佳芯"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240501/842ffde0-b7d2-4432-8bb7-aa910b33d4b6.jpg"
+  ],
   "works_count": 62,
   "related_dramas": [
     {

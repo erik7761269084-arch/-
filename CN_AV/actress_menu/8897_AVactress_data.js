@@ -5,20 +5,33 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60cf89ea6166d.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230824/20230824055209406406.jpg",
+  "zodiac": "天秤座",
+  "height": "162cm",
+  "measurements": "胸 83 腰 57 臀 85",
+  "measurements_display": "83B/57/85",
+  "cup": "B",
   "description": "千凌，台湾AV女优，又有艺名小月。",
-  "features": [],
+  "features": [
+    "美人",
+    "性感",
+    "大眼睛",
+    "小乳房",
+    "特別騷",
+    "中國人",
+    "網紅臉",
+    "妖媚"
+  ],
   "detail_url": "https://xchina.fit/model/id-60cf89ea6166d.html",
   "aliases": [
     "千凌",
     "小月"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230721/4f77b69b-e543-4757-899d-306e4736a06c.jpg",
+    "https://picture.yoshiclub.xyz/20230725/eafbfaae-765e-4d62-a7f4-59ff9e49f0b0.jpg",
+    "https://picture.yoshiclub.xyz/20230725/3a6e6fa2-3eb3-4878-b01f-fa3527669dcb.jpg"
+  ],
   "works_count": 8,
   "related_dramas": [
     {

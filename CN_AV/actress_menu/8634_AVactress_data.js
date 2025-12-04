@@ -4,21 +4,35 @@ window.actressData = {
   "name": "孟若羽",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20230723/b4ea2535-2f4f-458a-b8ad-6c1a04d4651f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241014/6ee9b31a-8cb3-444f-917f-e39f2cef9f32.jpg",
+  "zodiac": "水瓶座",
+  "height": "158cm",
+  "measurements": "胸 81 腰 58 臀 85",
+  "measurements_display": "81F/58/85",
   "cup": "F",
   "description": "孟若羽，本名宋敏华，出生于1992年1月6日，台湾AV女优，身高158公分，体重50公斤，三围是36F、26、36。孟若羽原本是美睫师，因朋友进入AV界拍片，而在2021年1月跟着入行，孟若羽由于她胸前有大片刺青，所以辨识度极高，加上童颜巨乳的小只马身材，因此获得“暗黑杨丞琳”封号，为人熟知的作品是“捷运痴汉”、“艳母1~6”、“成人游戏”等。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "性感",
+    "長相溫柔",
+    "嫵媚",
+    "長相甜美",
+    "肉嘟嘟",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-60296535b609c.html",
   "aliases": [
     "孟若羽",
     "Meng Ruo Yu"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230723/b4ea2535-2f4f-458a-b8ad-6c1a04d4651f.jpg",
+    "https://picture.yoshiclub.xyz/20230723/c0020ea9-cc8a-4211-ab70-be423d0a4920.jpg",
+    "https://picture.yoshiclub.xyz/20230723/e054deee-60f6-4551-8e09-21c64d840a60.jpg"
+  ],
   "works_count": 140,
   "related_dramas": [
     {

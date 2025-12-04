@@ -4,21 +4,30 @@ window.actressData = {
   "name": "李文靜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230803/20230803042033680680.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230807/20230807090936601601.jpg",
+  "zodiac": "摩羯座",
+  "height": "162cm",
+  "measurements": "胸 84 腰 60 臀 85",
+  "measurements_display": "84C/60/85",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "女人味",
+    "嫵媚",
+    "人妻",
+    "中國人",
+    "臉大"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/5f34bbf6-ff3c-4f50-80c8-0e94f7d37365.html",
   "aliases": [
     "李文静",
     "李文靜"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230803/20230803042031365365.jpg",
+    "https://picture.yoshiclub.xyz/20230803/20230803042033680680.jpg"
+  ],
   "works_count": 6,
   "related_dramas": [
     {

@@ -4,18 +4,25 @@ window.actressData = {
   "name": "倪哇哇",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230412/068ec201-63f1-4e69-a754-ca9c99c40da1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230413/70282c00-230c-40d4-9373-719183b2f5fe.jpg",
+  "zodiac": "射手座",
+  "height": "155cm",
+  "measurements": "腰 75 臀 83",
+  "measurements_display": "腰 75 臀 8381",
+  "cup": "81",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-60f036dd03df3.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230412/068ec201-63f1-4e69-a754-ca9c99c40da1.jpg",
+    "https://picture.yoshiclub.xyz/20230412/1799ad8c-09d9-4320-8738-5b3d8ac69b08.jpg"
+  ],
   "works_count": 12,
   "related_dramas": [
     {

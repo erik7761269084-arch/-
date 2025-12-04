@@ -5,14 +5,22 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://static.avjiali.com/cache/460x640/70/actress/liang-yun-fei.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230804/20230804031017737737.jpg",
+  "zodiac": "天秤座",
   "height": "159cm",
-  "measurements": null,
-  "measurements_display": "",
+  "measurements": "胸 82 腰 57 臀 84",
+  "measurements_display": "82C/57/84",
   "cup": "C",
   "description": "梁芸菲，台湾AV女优，又有艺名白佳萱、姜洁、关玥婷。",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "大眼睛",
+    "長相清純",
+    "鄰家女",
+    "修長癡體",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6072a5245d127.html",
   "aliases": [
     "Liang Yun Fei",
@@ -20,7 +28,13 @@ window.actressData = {
     "梁芸菲",
     "白佳萱"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/白佳萱.jpg",
+    "https://picture.yoshiclub.xyz/20230415/90590d4c-716c-4f28-9168-e8466ed50a52.jpg",
+    "https://picture.yoshiclub.xyz/20230415/ca45527d-c6c5-44f9-831a-5adb53ae9e93.jpg",
+    "https://picture.yoshiclub.xyz/20230415/f3edbecb-ecad-4d82-83bf-85633af979e4.jpg",
+    "https://picture.yoshiclub.xyz/20230803/20230803045614349349.jpg"
+  ],
   "works_count": 53,
   "related_dramas": [
     {

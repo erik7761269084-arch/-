@@ -5,20 +5,37 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60c5a5a5ec363.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230728/20230728083041894894.jpg",
+  "zodiac": "金牛座",
+  "height": "167cm",
+  "measurements": "胸 86 腰 70 臀 83",
+  "measurements_display": "86C/70/83",
+  "cup": "C",
   "description": "林妙可，台湾AV女优，又有艺名灵珊。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "美少女",
+    "美臀",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "大乳暈",
+    "死魚"
+  ],
   "detail_url": "https://xchina.fit/model/id-60c5a5a5ec363.html",
   "aliases": [
     "林妙可",
     "灵珊"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230410/67bb7031-5ef9-46cb-b619-e2f8581f9059.png",
+    "https://picture.yoshiclub.xyz/20230410/638c887b-0d9d-4813-b8a6-f6100e352330.jpg",
+    "https://picture.yoshiclub.xyz/20230410/56f53157-880d-4ad4-b990-c017bc7c17f1.jpg",
+    "https://picture.yoshiclub.xyz/20230410/e6ed5f33-17f2-4150-9d46-78898460bd0d.jpg"
+  ],
   "works_count": 8,
   "related_dramas": [
     {

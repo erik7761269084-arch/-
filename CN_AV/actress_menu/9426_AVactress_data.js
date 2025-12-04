@@ -4,18 +4,27 @@ window.actressData = {
   "name": "美樱",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230726/3aeb1a84-4d36-4fe2-8220-422b726d31a4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230729/20230729062639570570.jpg",
+  "zodiac": "獅子座",
+  "height": "156cm",
+  "measurements": "胸 82 腰 56 臀 84",
+  "measurements_display": "82B/56/84",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "美腳",
+    "女人味",
+    "長相溫柔",
+    "嫵媚",
+    "修長癡體"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/5543e7d0-df38-47e0-a6e2-9e24de966aaf.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230726/976e2110-8c68-4995-bad2-2f2acf84bd02.jpg"
+  ],
   "works_count": 10,
   "related_dramas": [
     {

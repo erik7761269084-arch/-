@@ -5,20 +5,32 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/612612c81d0b0.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230730/202307300728218282.jpg",
+  "zodiac": "摩羯座",
+  "height": "158cm",
+  "measurements": "胸 82 腰 52 臀 84",
+  "measurements_display": "82C/52/84",
+  "cup": "C",
   "description": "金巧巧，台湾AV女优，又有艺名洛若。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "性感",
+    "特別騷",
+    "中國人",
+    "網紅臉",
+    "妖媚"
+  ],
   "detail_url": "https://xchina.fit/model/id-612612c81d0b0.html",
   "aliases": [
     "洛若",
     "金巧巧"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230730/20230730031600548548.jpg"
+  ],
   "works_count": 6,
   "related_dramas": [
     {

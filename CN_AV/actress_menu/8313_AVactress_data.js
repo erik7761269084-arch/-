@@ -4,21 +4,29 @@ window.actressData = {
   "name": "温婉",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230731/20230731000745306306.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230731/20230731000559476476.jpg",
+  "zodiac": "天蠍座",
+  "height": "156cm",
+  "measurements": "胸 80 腰 57 臀 85",
+  "measurements_display": "80A/57/85",
+  "cup": "A",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "人妻",
+    "小乳房",
+    "禦姐",
+    "中國人",
+    "排骨精"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/f146ac44-e5d0-483d-8a22-46de13d7b6b9.html",
   "aliases": [
     "温婉",
     "溫婉"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230731/20230731000745306306.jpg"
+  ],
   "works_count": 1,
   "related_dramas": [
     {

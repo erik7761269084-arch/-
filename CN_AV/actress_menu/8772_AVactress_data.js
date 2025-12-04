@@ -5,20 +5,26 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/662a10a9800fc.webp",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230728/20230728045114821821.jpg",
+  "zodiac": "摩羯座",
+  "height": "156cm",
+  "measurements": "胸 84 腰 57 臀 86",
+  "measurements_display": "84C/57/86",
+  "cup": "C",
   "description": "",
-  "features": [],
+  "features": [
+    "女人味",
+    "肉嘟嘟",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6046361927140.html",
   "aliases": [
     "韓小雅",
     "韩小雅"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230731/80cdb321-cd40-4064-a40f-d1cf8192596d.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

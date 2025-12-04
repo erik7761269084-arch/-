@@ -4,15 +4,29 @@ window.actressData = {
   "name": "温芮欣",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20240502/ddcadd35-1cc5-4197-b2bc-3452e09419df.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240502/20240502001219981981.jpg",
+  "zodiac": "摩羯座",
+  "height": "155cm",
+  "measurements": "胸 80 腰 58 臀 84",
+  "measurements_display": "80C/58/84",
   "cup": "C",
   "description": "温芮欣，台湾AV女优，又有艺名洁咪。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "美臀",
+    "長相甜美",
+    "萌妹子"
+  ],
   "detail_url": "https://xchina.fit/model/id-62af1b419d9d3.html",
   "aliases": [
     "Wen Rui Xin",
@@ -20,7 +34,10 @@ window.actressData = {
     "温芮欣",
     "溫芮欣"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240502/ddcadd35-1cc5-4197-b2bc-3452e09419df.jpg",
+    "https://picture.yoshiclub.xyz/20240502/53eb52f6-583c-4f69-bd99-580a61c25607.jpg"
+  ],
   "works_count": 83,
   "related_dramas": [
     {

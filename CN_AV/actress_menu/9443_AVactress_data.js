@@ -4,21 +4,28 @@ window.actressData = {
   "name": "胡心瑤",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230721/7acc7c71-d2a4-43ae-bffc-ea897d304d69.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230721/20230721093558984984.jpg",
+  "zodiac": "獅子座",
+  "height": "166cm",
+  "measurements": "胸 82 腰 64 臀 84",
+  "measurements_display": "82B/64/84",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "小乳房",
+    "野性",
+    "中國人",
+    "妖媚"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/1d2f9951-1ef4-4fd1-a91a-8f2110a2b2ad.html",
   "aliases": [
     "胡心瑤",
     "胡心瑶"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230721/7acc7c71-d2a4-43ae-bffc-ea897d304d69.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

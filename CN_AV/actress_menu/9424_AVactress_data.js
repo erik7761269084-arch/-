@@ -4,18 +4,26 @@ window.actressData = {
   "name": "丁香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230727/af0b483b-be1f-4491-94c1-dcbb6c944ebf.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230727/20230727044333433433.jpg",
+  "zodiac": "雙子座",
+  "height": "163cm",
+  "measurements": "胸 83 腰 60 臀 85",
+  "measurements_display": "83C/60/85",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "天然",
+    "長相溫柔",
+    "中國人",
+    "知性風"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/84acb2cf-405f-4d30-866f-512572822f7a.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230727/3cd9cc1a-30d2-46d8-9ad3-314892d5d7b7.jpg",
+    "https://picture.yoshiclub.xyz/20230727/95747e38-42f3-45e6-ad65-810518857e34.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

@@ -5,21 +5,33 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60911c5308caf.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230729/20230729061021912912.jpg",
+  "zodiac": "白羊座",
+  "height": "170cm",
+  "measurements": "胸 80 腰 58 臀 82",
+  "measurements_display": "80B/58/82",
+  "cup": "B",
   "description": "唐茜，台湾AV女优，又有艺名温馨、白颖。",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "性感",
+    "別致顔值",
+    "修長癡體",
+    "特別騷",
+    "禦姐",
+    "中國人",
+    "風塵氣"
+  ],
   "detail_url": "https://xchina.fit/model/id-60911c5308caf.html",
   "aliases": [
     "唐茜",
     "温馨",
     "白颖"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230729/f66dbac6-6ce9-4ffa-b77a-61ed2f1db65b.jpg"
+  ],
   "works_count": 47,
   "related_dramas": [
     {

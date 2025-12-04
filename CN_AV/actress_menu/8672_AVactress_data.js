@@ -4,22 +4,30 @@ window.actressData = {
   "name": "韩宝儿",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
-  "description": "",
-  "features": [],
+  "img_url": "https://picture.yoshiclub.xyz/20230519/4287c464-af45-46ec-b9ca-2da3aff56926.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230804/20230804052507593593.jpg",
+  "zodiac": "水瓶座",
+  "height": "146cm",
+  "measurements": "胸 83 腰 60 臀 82",
+  "measurements_display": "83B/60/82",
+  "cup": "B",
+  "description": "以一身火辣之姿登場的寶兒，有著曼妙的身材和性感的身段，長期擔任舞者的她，懂得如何掌握身體的每一部分，當然，也很懂得怎樣讓男人體驗真正的高潮快感。",
+  "features": [
+    "嬌小身材",
+    "鄰家女",
+    "矮小",
+    "中國人",
+    "舞蹈演員"
+  ],
   "detail_url": "https://xchina.fit/model/id-60c8b2b41a363.html",
   "aliases": [
     "Han Bao Er",
     "韓寶兒",
     "韩宝儿"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230519/4287c464-af45-46ec-b9ca-2da3aff56926.jpg"
+  ],
   "works_count": 9,
   "related_dramas": [
     {

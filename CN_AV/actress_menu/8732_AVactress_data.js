@@ -5,20 +5,33 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/631f496214d88.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240430/20240430091125375375.jpg",
+  "zodiac": "摩羯座",
+  "height": "166cm",
+  "measurements": "胸 86 腰 60 臀 88",
+  "measurements_display": "86F/60/88",
+  "cup": "F",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "性感",
+    "天然",
+    "美臀",
+    "修長癡體",
+    "禦姐",
+    "風塵氣",
+    "大乳暈"
+  ],
   "detail_url": "https://xchina.fit/model/id-631f496214d88.html",
   "aliases": [
     "吳文淇",
     "吴文淇"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240501/9af4643e-9ddb-4cd1-95ef-9b19a4608ad1.jpg"
+  ],
   "works_count": 74,
   "related_dramas": [
     {

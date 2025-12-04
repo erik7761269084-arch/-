@@ -4,21 +4,28 @@ window.actressData = {
   "name": "小泽纱香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230821/20230821011357596596.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230821/20230821011748456456.jpg",
+  "zodiac": "天蠍座",
+  "height": "154cm",
+  "measurements": "胸 80 腰 60 臀 83",
+  "measurements_display": "80B/60/83",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "大眼睛",
+    "嫵媚",
+    "長相甜美",
+    "小乳房"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/9d6b9b41-94aa-4d00-aeb1-b58f30e80c31.html",
   "aliases": [
     "小泽纱香",
     "小澤紗香"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230821/20230821011357596596.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

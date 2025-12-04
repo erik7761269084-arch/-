@@ -5,21 +5,26 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/603f52a0ebc0a.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230819/20230819031218653653.jpg",
+  "zodiac": "獅子座",
+  "height": "165cm",
+  "measurements": "胸 86 腰 60 臀 88",
+  "measurements_display": "86D/60/88",
+  "cup": "D",
   "description": "钟丽琪，台湾AV女优，又有艺名王欣、氖氖。",
-  "features": [],
+  "features": [
+    "美人",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-603f52a0ebc0a.html",
   "aliases": [
     "氖氖",
     "钟丽琪",
     "王欣"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230809/20230809040228937937.jpg"
+  ],
   "works_count": 9,
   "related_dramas": [
     {

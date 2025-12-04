@@ -5,17 +5,29 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://static.avjiali.com/cache/460x640/70/actress/yuli.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230819/202308190030475050.jpg",
+  "zodiac": "處女座",
   "height": "158cm",
-  "measurements": null,
-  "measurements_display": "",
+  "measurements": "胸 80 腰 58 臀 84",
+  "measurements_display": "80F/58/84",
   "cup": "F",
   "description": "",
-  "features": [],
+  "features": [
+    "膚白",
+    "天然",
+    "美少女",
+    "長相可愛",
+    "嬌小身材",
+    "鄰家女",
+    "肉嘟嘟",
+    "小乳房",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-60d9cdc74648c.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230818/20230818022857561561.jpg"
+  ],
   "works_count": 38,
   "related_dramas": [
     {

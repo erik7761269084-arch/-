@@ -5,14 +5,16 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/6023e97ad19ff.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230501/6c85ee1b-7cd0-45e3-bb51-7f57306c45ab.jpg",
+  "zodiac": "天秤座",
+  "height": "155cm",
+  "measurements": "胸 84 腰 62 臀 88",
+  "measurements_display": "84E/62/88",
+  "cup": "E",
   "description": "黎星若，台湾AV女优，又有艺名徐婕、君君、Stacy。",
-  "features": [],
+  "features": [
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6023e97ad19ff.html",
   "aliases": [
     "徐婕",
@@ -20,7 +22,9 @@ window.actressData = {
     "君君",
     "Stacy"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230501/b6de5222-d041-4fc4-a94d-edb9a339b693.jpg"
+  ],
   "works_count": 10,
   "related_dramas": [
     {

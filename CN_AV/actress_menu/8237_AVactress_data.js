@@ -4,18 +4,33 @@ window.actressData = {
   "name": "苏小雅",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "img_url": "https://picture.yoshiclub.xyz/20230805/20230805022901283283.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
   "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "height": "157cm",
+  "measurements": "胸 83 腰 55 臀 86",
+  "measurements_display": "83C/55/86",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
-  "aliases": [],
-  "gallery": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "天然",
+    "長相清純",
+    "鄰家女",
+    "修長癡體",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/43616011-e3c0-4e47-ba3a-c7b6759ded0d.html",
+  "aliases": [
+    "苏小小",
+    "苏小雅",
+    "蘇小雅"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/20230805022901283283.jpg"
+  ],
   "works_count": 1,
   "related_dramas": [
     {

@@ -5,17 +5,23 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://img.ripic.xyz/head/5bb8f46e87742672ec9c23ec.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230806/20230806042536477477.jpg",
+  "zodiac": "獅子座",
+  "height": "156cm",
+  "measurements": "胸 83 腰 60 臀 85",
+  "measurements_display": "83B/60/85",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "熟女",
+    "人妻",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/21cb374b-e0c8-4d89-999e-56f3b1fba46d.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230806/20230806042839102102.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

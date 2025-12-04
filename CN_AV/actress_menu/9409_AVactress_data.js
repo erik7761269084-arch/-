@@ -4,18 +4,24 @@ window.actressData = {
   "name": "李雪",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230729/e3228e0c-b77f-4a2b-b700-e9f0277bf057.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230729/20230729055402961961.jpg",
+  "zodiac": "雙子座",
+  "height": "159cm",
+  "measurements": "胸 85 腰 59 臀 88",
+  "measurements_display": "85D/59/88",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "膚白",
+    "人妻",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/171b28e1-8072-4b6a-aeea-f4e4c4700604.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230729/e3228e0c-b77f-4a2b-b700-e9f0277bf057.jpg"
+  ],
   "works_count": 1,
   "related_dramas": [
     {

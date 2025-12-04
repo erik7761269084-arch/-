@@ -4,22 +4,35 @@ window.actressData = {
   "name": "玥可岚",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20230524/e32f4391-cf36-413b-a0c9-c895eb3325a2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230524/fe1ca872-7201-4fa5-ade3-de07a5326d35.jpg",
+  "zodiac": "獅子座",
+  "height": "152cm",
+  "measurements": "胸 76 腰 51 臀 78",
+  "measurements_display": "76D/51/78",
   "cup": "D",
   "description": "優秀な人間になる",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "性感",
+    "特別騷",
+    "辣妹系",
+    "中國人",
+    "排骨精"
+  ],
   "detail_url": "https://xchina.fit/model/id-611bc80b47086.html",
   "aliases": [
     "Yue Ke Lan",
     "玥可岚",
     "玥可嵐"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230524/e32f4391-cf36-413b-a0c9-c895eb3325a2.jpg",
+    "https://picture.yoshiclub.xyz/20230524/3275f84e-ae5e-4532-a477-a332a8292961.jpg",
+    "https://picture.yoshiclub.xyz/20230524/8c660df8-7de8-495b-96dc-4093e71acefd.jpg",
+    "https://picture.yoshiclub.xyz/20230524/5a63d29e-9611-4ce7-82ba-4eebaeb05096.jpg"
+  ],
   "works_count": 63,
   "related_dramas": [
     {

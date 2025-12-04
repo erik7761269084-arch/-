@@ -5,17 +5,33 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60167c7ce2610.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230608/932fdbb6-ec31-4acf-8375-69271c0151bf.jpg",
+  "zodiac": "水瓶座",
+  "height": "155cm",
+  "measurements": "胸 82 腰 71 臀 83",
+  "measurements_display": "82B/71/83",
+  "cup": "B",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "長相溫柔",
+    "小乳房",
+    "優雅",
+    "禦姐",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-60167c7ce2610.html",
-  "aliases": [],
-  "gallery": [],
+  "aliases": [
+    "寧洋子"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/宁洋子.jpg",
+    "https://picture.yoshiclub.xyz/20230413/c3e804d9-10fc-4e19-afdf-82d895a1daa9.jpg",
+    "https://picture.yoshiclub.xyz/20230413/a8165b92-7ff7-4930-a09a-9edd6f9ce175.jpg",
+    "https://picture.yoshiclub.xyz/20230413/b7987b01-7b18-4031-a56a-6a240c5ca541.png"
+  ],
   "works_count": 8,
   "related_dramas": [
     {

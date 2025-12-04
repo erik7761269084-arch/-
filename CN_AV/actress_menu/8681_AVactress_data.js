@@ -4,21 +4,25 @@ window.actressData = {
   "name": "袁采菱",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230530/c122cb11-f36a-42c8-a3f2-f13b23ad74a0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230530/b678341f-7a2d-4244-bdfa-b274a9bf883c.jpg",
+  "zodiac": "水瓶座",
+  "height": "160cm",
+  "measurements": "胸 81 腰 65 臀 83",
+  "measurements_display": "81D/65/83",
+  "cup": "D",
   "description": "",
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/19a4066b-f91c-49e8-a271-05908283504a.html",
   "aliases": [
     "袁采菱",
     "Yuan Cai Ling"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230530/c122cb11-f36a-42c8-a3f2-f13b23ad74a0.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

@@ -4,18 +4,23 @@ window.actressData = {
   "name": "李曼妮",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
-  "description": "",
-  "features": [],
+  "img_url": "https://picture.yoshiclub.xyz/20230514/28fd4efb-f9e2-436d-831a-07f5212f23ac.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230521/ef695ed8-e8b3-41fe-bcf7-adc90062bc91.jpg",
+  "zodiac": "天秤座",
+  "height": "164cm",
+  "measurements": "胸 86 腰 60 臀 86",
+  "measurements_display": "86C/60/86",
+  "cup": "C",
+  "description": "新晉女神李曼妮~ 鄰家女孩般的清新甜美，首部出道作《戀著汗味的體育係經紀人》火熱上映~",
+  "features": [
+    "長相溫柔",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-609ab55f3b426.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230514/28fd4efb-f9e2-436d-831a-07f5212f23ac.jpg"
+  ],
   "works_count": 13,
   "related_dramas": [
     {

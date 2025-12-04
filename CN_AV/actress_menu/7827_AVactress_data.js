@@ -4,21 +4,36 @@ window.actressData = {
   "name": "小优",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": "",
-  "height": "",
-  "measurements": "",
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230806/20230806041819839839.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230825/202308250432331616.jpg",
+  "zodiac": "天秤座",
+  "height": "156cm",
+  "measurements": "胸 88 腰 64 臀 87",
+  "measurements_display": "88E/64/87",
+  "cup": "E",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "大乳房",
+    "性感",
+    "肉嘟嘟",
+    "特別騷",
+    "野性",
+    "辣妹系",
+    "身材豐滿",
+    "中國人",
+    "風塵氣",
+    "網紅臉",
+    "妖媚",
+    "整容臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/120d3642-8a95-4379-892f-ae1ac28dbcd2.html",
   "aliases": [
     "小优",
     "小優"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230806/20230806041819839839.jpg"
+  ],
   "works_count": 5,
   "related_dramas": [
     {

@@ -4,21 +4,23 @@ window.actressData = {
   "name": "古伊娜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20240502/20240502060626137137.avif",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503002709988988.jpg",
+  "zodiac": "摩羯座",
+  "height": "167cm",
+  "measurements": "胸 88 腰 60 臀 90",
+  "measurements_display": "88F/60/90",
+  "cup": "F",
   "description": "",
   "features": [],
-  "detail_url": null,
+  "detail_url": "https://www.javrate.com/Actor/Detail/ebf92f71-b716-4558-9dd2-7be4ac196fdc.html",
   "aliases": [
     "古伊娜",
     "Gu Yi-Na"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240502/20240502060626137137.avif"
+  ],
   "works_count": 10,
   "related_dramas": [
     {

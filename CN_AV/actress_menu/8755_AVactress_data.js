@@ -5,20 +5,30 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/6889fc3712930.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230412/89e81364-d94f-48b9-b944-a22a73d9f8fc.jpg",
+  "zodiac": "雙魚座",
+  "height": "160cm",
+  "measurements": "胸 90 腰 83 臀 89",
+  "measurements_display": "90D/83/89",
+  "cup": "D",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "長相溫柔",
+    "優雅",
+    "禦姐",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-612fb012921ab.html",
   "aliases": [
     "陈可心",
     "陳可心"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230412/a551ddf3-c3ed-4b97-9300-c27605d10f5e.jpg"
+  ],
   "works_count": 13,
   "related_dramas": [
     {

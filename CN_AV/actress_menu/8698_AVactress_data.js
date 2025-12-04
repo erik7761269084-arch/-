@@ -5,21 +5,34 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/6079dd13725ba.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "background_img": "https://picture.yoshiclub.xyz/20230818/20230818224232490490.jpg",
+  "zodiac": "金牛座",
+  "height": "170cm",
+  "measurements": "胸 83 腰 63 臀 85",
+  "measurements_display": "83C/63/85",
   "cup": "C",
   "description": "雷梦娜，台湾AV女优，亦以苡若、孟菲菲、熊若婕等艺名拍摄过作品。",
-  "features": [],
+  "features": [
+    "性感",
+    "修長癡體",
+    "野性",
+    "中國人",
+    "嘴巴大"
+  ],
   "detail_url": "https://xchina.fit/model/id-6079dd13725ba.html",
   "aliases": [
     "Yi Ruo",
     "苡若",
     "雷梦娜"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230723/e4615bd6-eb5b-4686-bd5f-5f76d1aa4bcf.jpg",
+    "https://picture.yoshiclub.xyz/20230723/2d92cc93-f1f9-4cf0-ac31-1916454af985.jpg",
+    "https://picture.yoshiclub.xyz/20230723/727d4179-bd03-4d01-a0c5-add46162f4e2.jpg",
+    "https://picture.yoshiclub.xyz/20230723/eb888cd9-6f26-4e3f-b71f-3b953e957f9a.jpg",
+    "https://picture.yoshiclub.xyz/20230723/cac04f96-7df5-4c85-8d50-88183fd58a35.jpg",
+    "https://picture.yoshiclub.xyz/20230723/d26c98e4-743f-44c8-a573-bedc62660c04.jpg"
+  ],
   "works_count": 65,
   "related_dramas": [
     {

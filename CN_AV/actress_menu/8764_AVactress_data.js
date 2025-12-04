@@ -5,20 +5,33 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/6087ccace1f46.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230825/20230825060449591591.jpg",
+  "zodiac": "水瓶座",
+  "height": "162cm",
+  "measurements": "胸 82 腰 58 臀 84",
+  "measurements_display": "82B/58/84",
+  "cup": "B",
   "description": "林凤娇，台湾AV女优，又有艺名瑶贝、白鹿。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "天然",
+    "長相清純",
+    "萌妹子",
+    "別致顔值",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6087ccace1f46.html",
   "aliases": [
     "林凤娇",
     "林鳳嬌"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230727/53263c03-d950-4f92-915d-7cf09968813c.jpg",
+    "https://picture.yoshiclub.xyz/20230727/7b0a7602-48b2-4b9b-81a5-25b61fa169d0.jpg",
+    "https://picture.yoshiclub.xyz/20230727/5ed5d583-9b94-4ffa-9f51-36e1c79e1435.jpg"
+  ],
   "works_count": 24,
   "related_dramas": [
     {

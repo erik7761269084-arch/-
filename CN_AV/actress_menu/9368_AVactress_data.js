@@ -4,21 +4,32 @@ window.actressData = {
   "name": "寧靜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230810/20230810031828190190.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230811/20230811045952977977.jpg",
+  "zodiac": "天秤座",
+  "height": "160cm",
+  "measurements": "胸 86 腰 60 臀 89",
+  "measurements_display": "86E/60/89",
+  "cup": "E",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "膚白",
+    "大乳房",
+    "長相溫柔",
+    "長相甜美",
+    "肉嘟嘟",
+    "身材豐滿",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/9e387b8f-d6b5-4c80-a9e2-1121f8ad8066.html",
   "aliases": [
     "宁静",
     "寧靜"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230810/20230810031828190190.jpg"
+  ],
   "works_count": 11,
   "related_dramas": [
     {

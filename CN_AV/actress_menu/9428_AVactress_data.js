@@ -4,21 +4,28 @@ window.actressData = {
   "name": "張晴",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230727/ad14acdd-5d5d-4800-9553-d6175ea933df.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230727/20230727042555413413.jpg",
+  "zodiac": "金牛座",
+  "height": "156cm",
+  "measurements": "腰 62 臀 84",
+  "measurements_display": "腰 62 臀 8482",
+  "cup": "82",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "性感",
+    "天然",
+    "長相溫柔",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/f7430b4b-0141-4ae6-b0b1-566f636a8035.html",
   "aliases": [
     "张晴",
     "張晴"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230727/9421fab7-661f-49a4-90a1-de5e0af61dd7.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

@@ -4,21 +4,33 @@ window.actressData = {
   "name": "無雙",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230825/20230825060841313313.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230825/20230825064313362362.jpg",
+  "zodiac": "巨蟹座",
+  "height": "170cm",
+  "measurements": "胸 82 腰 55 臀 85",
+  "measurements_display": "82B/55/85",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "美腳",
+    "女人味",
+    "嫵媚",
+    "美臀",
+    "人妻",
+    "禦姐",
+    "中國人",
+    "排骨精"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/afc5b7e5-893d-4925-8252-247d0b6b6b36.html",
   "aliases": [
     "无双",
     "無雙"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230825/20230825060841313313.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

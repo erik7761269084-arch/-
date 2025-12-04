@@ -4,18 +4,26 @@ window.actressData = {
   "name": "夏天",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230806/202308060436147777.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230806/202308060432424343.jpg",
+  "zodiac": "雙魚座",
+  "height": "160cm",
+  "measurements": "胸 84 腰 56 臀 86",
+  "measurements_display": "84C/56/86",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "美乳",
+    "長相溫柔",
+    "嫵媚",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/626711ed-4a0b-434d-afe5-4c5d6e48b0cf.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230806/202308060436147777.jpg"
+  ],
   "works_count": 6,
   "related_dramas": [
     {

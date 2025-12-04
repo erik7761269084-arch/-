@@ -4,21 +4,23 @@ window.actressData = {
   "name": "克莱儿",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230806/202308060051169292.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230806/20230806004306633633.jpg",
+  "zodiac": "天秤座",
+  "height": "152cm",
+  "measurements": "胸 84 腰 60 臀 87",
+  "measurements_display": "84C/60/87",
+  "cup": "C",
   "description": null,
   "features": [],
-  "detail_url": null,
+  "detail_url": "https://www.javrate.com/Actor/Detail/93593b3f-0889-4c11-8c06-249d28a4ff20.html",
   "aliases": [
     "克莱儿",
     "克萊兒"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230806/202308060051169292.jpg"
+  ],
   "works_count": 6,
   "related_dramas": [
     {

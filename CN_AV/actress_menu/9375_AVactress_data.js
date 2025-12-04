@@ -4,18 +4,26 @@ window.actressData = {
   "name": "凌雨萱",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "img_url": "https://picture.yoshiclub.xyz/20230805/20230805034655305305.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230825/202308250629114444.jpg",
   "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "height": "160cm",
+  "measurements": "胸 82 腰 60 臀 86",
+  "measurements_display": "82B/60/86",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
-  "aliases": [],
-  "gallery": [],
+  "features": [
+    "人妻",
+    "小乳房",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/99f467a7-bf83-4218-a86f-c065b61dbb7d.html",
+  "aliases": [
+    "奈奈子"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/20230805034655305305.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

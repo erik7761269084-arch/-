@@ -4,21 +4,32 @@ window.actressData = {
   "name": "谢语彤",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230411/874f00fb-105b-455f-96d7-bf1d5dec8ab4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230729/20230729062046929929.jpg",
+  "zodiac": "天秤座",
+  "height": "158cm",
+  "measurements": "胸 87 腰 79 臀 88",
+  "measurements_display": "87D/79/88",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "膚白",
+    "美少女",
+    "長相可愛",
+    "肉嘟嘟",
+    "蘿莉",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/8e94dad8-2d0b-4682-b273-635b64b77fc2.html",
   "aliases": [
     "謝語彤",
     "谢语彤"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230411/874f00fb-105b-455f-96d7-bf1d5dec8ab4.jpg",
+    "https://picture.yoshiclub.xyz/20230411/69348bd8-d4bf-4d81-8fb7-b342c66a6737.jpg",
+    "https://picture.yoshiclub.xyz/20230411/9021abfe-c4fb-427a-8a67-ee6c3a3538d9.jpg"
+  ],
   "works_count": 6,
   "related_dramas": [
     {

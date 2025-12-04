@@ -5,17 +5,29 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/63d7d6a6f14dd.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
+  "zodiac": "摩羯座",
+  "height": "158cm",
+  "measurements": "胸 82 腰 54 臀 86",
+  "measurements_display": "82A/54/86",
+  "cup": "A",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "美少女",
+    "長相清純",
+    "鄰家女",
+    "修長癡體",
+    "小乳房",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-63d7d6a6f14dd.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/2023080506275211.jpg"
+  ],
   "works_count": 9,
   "related_dramas": [
     {

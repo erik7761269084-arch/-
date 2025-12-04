@@ -4,21 +4,30 @@ window.actressData = {
   "name": "钟宛冰",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230809/20230809013841278278.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240414/20240414092059685685.jpg",
+  "zodiac": "雙魚座",
+  "height": "164cm",
+  "measurements": "胸 83 腰 54 臀 87",
+  "measurements_display": "83B/54/87",
+  "cup": "B",
   "description": "💖甜甜女孩⭐️Lena莉娜⭐️✨\n#jkf女郎 #模特 #鐘宛冰 #莉娜 #演员",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "修長癡體",
+    "辣妹系",
+    "中國人",
+    "整容臉"
+  ],
   "detail_url": "https://xchina.fit/model/id-6190bcde9e0a2.html",
   "aliases": [
     "钟宛冰",
     "Zhong Wan Bing"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230809/20230809013841278278.jpg"
+  ],
   "works_count": 32,
   "related_dramas": [
     {

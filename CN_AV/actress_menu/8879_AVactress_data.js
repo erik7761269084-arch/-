@@ -4,21 +4,32 @@ window.actressData = {
   "name": "雪见",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230805/20230805022200568568.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
+  "zodiac": "巨蟹座",
+  "height": "162cm",
+  "measurements": "胸 82 腰 57 臀 84",
+  "measurements_display": "82B/57/84",
+  "cup": "B",
   "description": "",
-  "features": [],
+  "features": [
+    "美腳",
+    "天然",
+    "長相清純",
+    "鄰家女",
+    "小乳房",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-601fbd35823e2.html",
   "aliases": [
     "雪見",
     "雪见"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/202308050221584242.jpg",
+    "https://picture.yoshiclub.xyz/20230805/20230805022200568568.jpg",
+    "https://picture.yoshiclub.xyz/20230805/20230805022202910910.jpg"
+  ],
   "works_count": 10,
   "related_dramas": [
     {

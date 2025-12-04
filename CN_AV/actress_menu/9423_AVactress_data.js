@@ -4,21 +4,34 @@ window.actressData = {
   "name": "李師師",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230730/20230730032027552552.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230730/20230730032118784784.jpg",
+  "zodiac": "天秤座",
+  "height": "164cm",
+  "measurements": "胸 86 腰 58 臀 88",
+  "measurements_display": "86D/58/88",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "別致顔值",
+    "人妻",
+    "優雅",
+    "禦姐",
+    "中國人",
+    "知性風"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/871fbf55-cfdc-4e8b-b5d9-3707b19c2ac1.html",
   "aliases": [
     "李师师",
     "李師師"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230730/20230730032027552552.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

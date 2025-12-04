@@ -4,18 +4,31 @@ window.actressData = {
   "name": "陳小雲",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230731/202307310134292121.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230731/20230731025049365365.jpg",
+  "zodiac": "水瓶座",
+  "height": "156cm",
+  "measurements": "胸 82 腰 52 臀 85",
+  "measurements_display": "82B/52/85",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
-  "aliases": [],
-  "gallery": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "美少女",
+    "長相清純",
+    "修長癡體",
+    "中國人",
+    "媚眼"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/0ce3cf34-2f29-47de-a60f-252b270666e4.html",
+  "aliases": [
+    "陈小云"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230731/20230731013426712712.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

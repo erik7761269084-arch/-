@@ -5,20 +5,33 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/607150503d3f5.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230727/20230727031811886886.jpg",
+  "zodiac": "處女座",
+  "height": "160cm",
+  "measurements": "胸 83 腰 58 臀 86",
+  "measurements_display": "83B/58/86",
+  "cup": "B",
   "description": "黄雪纯，台湾AV女优，又有艺名辰悦。",
-  "features": [],
+  "features": [
+    "美腳",
+    "膚白",
+    "天然",
+    "美少女",
+    "長相清純",
+    "鄰家女",
+    "修長癡體",
+    "中國人",
+    "排骨精"
+  ],
   "detail_url": "https://xchina.fit/model/id-607150503d3f5.html",
   "aliases": [
     "辰悦",
     "黄雪纯"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230727/8704c526-84b5-4a7e-82a4-5b428958fbe8.jpg",
+    "https://picture.yoshiclub.xyz/20230727/8ffa629c-0c64-4bbd-a37d-fdf15bbfe94d.jpg"
+  ],
   "works_count": 9,
   "related_dramas": [
     {

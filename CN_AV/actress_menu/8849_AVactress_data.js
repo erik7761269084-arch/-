@@ -4,21 +4,35 @@ window.actressData = {
   "name": "穆娜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230818/20230818021350579579.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230818/20230818021122276276.jpg",
+  "zodiac": "金牛座",
+  "height": "154cm",
+  "measurements": "胸 80 腰 56 臀 85",
+  "measurements_display": "80B/56/85",
+  "cup": "B",
   "description": "穆娜，台湾AV女优，又有艺名沈茹雪。",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "美臀",
+    "肉嘟嘟",
+    "小乳房",
+    "中國人",
+    "知性風"
+  ],
   "detail_url": "https://xchina.fit/model/id-60b11528cf74e.html",
   "aliases": [
     "沈茹雪",
     "穆娜"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230818/20230818021350579579.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

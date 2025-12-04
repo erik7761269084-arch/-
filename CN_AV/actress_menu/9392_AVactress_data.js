@@ -4,18 +4,26 @@ window.actressData = {
   "name": "莫安安",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230416/388b66b7-bb2d-447e-8ec8-f81367c21b46.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230810/20230810004533822822.jpg",
+  "zodiac": "處女座",
+  "height": "152cm",
+  "measurements": "胸 82 腰 58 臀 84",
+  "measurements_display": "82D/58/84",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美乳",
+    "美腳",
+    "中國人",
+    "業餘",
+    "舞蹈演員"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/307e1606-32b9-4e59-8a83-cb2936a03a46.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230416/388b66b7-bb2d-447e-8ec8-f81367c21b46.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

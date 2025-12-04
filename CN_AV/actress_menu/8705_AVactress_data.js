@@ -5,20 +5,34 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/624db14972ff7.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230927/20230927064913793793.jpg",
+  "zodiac": "獅子座",
+  "height": "172cm",
+  "measurements": "胸 86 腰 63 臀 92",
+  "measurements_display": "86H/63/92",
+  "cup": "H",
   "description": "翁雨澄（娃娃），台湾AV女星。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "性感",
+    "修長癡體",
+    "特別騷",
+    "網紅臉",
+    "整容臉",
+    "高妹子"
+  ],
   "detail_url": "https://xchina.fit/model/id-624db14972ff7.html",
   "aliases": [
     "娃娃",
     "翁雨澄"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230927/932a3088-bc17-4b07-8fc1-ebe8af76f81c.jpg",
+    "https://picture.yoshiclub.xyz/20230927/0d0cea5d-2da7-49dc-94f4-61603e132adf.jpg"
+  ],
   "works_count": 62,
   "related_dramas": [
     {

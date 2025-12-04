@@ -5,21 +5,32 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/610500143878b.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230722/20230722024739152152.jpg",
+  "zodiac": "天蠍座",
+  "height": "168cm",
+  "measurements": "胸 87 腰 61 臀 90",
+  "measurements_display": "87D/61/90",
+  "cup": "D",
   "description": "欧妮，台湾AV女优，又有艺名李丽。",
-  "features": [],
+  "features": [
+    "性感",
+    "修長癡體",
+    "野性",
+    "辣妹系",
+    "中國人",
+    "混血"
+  ],
   "detail_url": "https://xchina.fit/model/id-610500143878b.html",
   "aliases": [
     "欧妮",
     "歐妮",
     "李丽"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230722/4584217d-21ed-4d1e-8954-c14795fa8a37.jpg",
+    "https://picture.yoshiclub.xyz/20230722/29c54e04-c124-4867-a10d-85bcb38705f0.jpg",
+    "https://picture.yoshiclub.xyz/20230722/fc01f8d0-0990-474e-8455-a73c056490d2.jpg"
+  ],
   "works_count": 11,
   "related_dramas": [
     {

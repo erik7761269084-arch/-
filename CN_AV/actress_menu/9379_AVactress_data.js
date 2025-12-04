@@ -4,21 +4,30 @@ window.actressData = {
   "name": "玲瓏",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230805/20230805055945777777.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
+  "zodiac": "雙子座",
+  "height": "155cm",
+  "measurements": "胸 86 腰 62 臀 86",
+  "measurements_display": "86E/62/86",
+  "cup": "E",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美乳",
+    "膚白",
+    "大乳房",
+    "肉嘟嘟",
+    "中國人",
+    "整容臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/5ad610e0-0e35-4ff3-a9e3-8308e7a9f0f8.html",
   "aliases": [
     "玲珑",
     "玲瓏"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/20230805055945777777.jpg"
+  ],
   "works_count": 7,
   "related_dramas": [
     {

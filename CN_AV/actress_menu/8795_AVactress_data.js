@@ -5,21 +5,32 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/605da060631d1.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230817/20230817075204525525.jpg",
+  "zodiac": "金牛座",
+  "height": "158cm",
+  "measurements": "胸 80 腰 55 臀 85",
+  "measurements_display": "80A/55/85",
+  "cup": "A",
   "description": "玛丽莲，台湾AV女优，又有艺名邱玲珑。",
-  "features": [],
+  "features": [
+    "美人",
+    "膚白",
+    "性感",
+    "長相清純",
+    "小乳房",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-605da060631d1.html",
   "aliases": [
     "玛丽莲",
     "瑪麗蓮",
     "邱玲珑"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230726/2c18ad1d-e389-4d8f-997b-b54f56da52ea.jpg",
+    "https://picture.yoshiclub.xyz/20230726/250ac0c6-0a63-42d3-bc4f-a4afe36dae61.jpg",
+    "https://picture.yoshiclub.xyz/20230726/cb45d666-29ca-4726-b0aa-192ef91e3766.jpg"
+  ],
   "works_count": 6,
   "related_dramas": [
     {

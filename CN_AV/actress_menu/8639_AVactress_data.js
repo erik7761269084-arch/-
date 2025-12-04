@@ -4,15 +4,30 @@ window.actressData = {
   "name": "白思吟",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20240429/20240429075020348348.",
+  "background_img": "https://picture.yoshiclub.xyz/20240429/20240429074622618618.avif",
+  "zodiac": "摩羯座",
+  "height": "163cm",
+  "measurements": "胸 90 腰 60 臀 94",
+  "measurements_display": "90F/60/94",
   "cup": "F",
   "description": "白思吟，台湾AV女优，又有艺名姚宛儿。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "嫵媚",
+    "美臀",
+    "鄰家女",
+    "修長癡體",
+    "短髮",
+    "中國人",
+    "網紅臉"
+  ],
   "detail_url": "https://xchina.fit/model/id-639a2b43bfedc.html",
   "aliases": [
     "Bai Si Yin",
@@ -20,7 +35,9 @@ window.actressData = {
     "姚宛儿",
     "白思吟"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240429/20240429075020348348."
+  ],
   "works_count": 45,
   "related_dramas": [
     {

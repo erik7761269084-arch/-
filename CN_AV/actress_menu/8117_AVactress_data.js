@@ -4,18 +4,33 @@ window.actressData = {
   "name": "许晴",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230805/202308050917179696.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230825/20230825062054337337.jpg",
+  "zodiac": "水瓶座",
+  "height": "163cm",
+  "measurements": "胸 84 腰 58 臀 88",
+  "measurements_display": "84C/58/88",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
-  "aliases": [],
-  "gallery": [],
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "女人味",
+    "嫵媚",
+    "長相甜美",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2a7c6f42-dd60-4c7d-9c41-ed8d52b1c194.html",
+  "aliases": [
+    "冯雪",
+    "許晴",
+    "许晴",
+    "馮雪"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/202308050917179696.jpg"
+  ],
   "works_count": 1,
   "related_dramas": [
     {

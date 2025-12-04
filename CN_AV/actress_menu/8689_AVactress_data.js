@@ -5,14 +5,25 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/623ebb5acdaf9.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240513/32a30717-437b-40d3-9cf5-e510d19c5329.jpg",
+  "zodiac": "摩羯座",
+  "height": "154cm",
+  "measurements": "胸 86 腰 58 臀 88",
+  "measurements_display": "86E/58/88",
+  "cup": "E",
   "description": "唐雨菲，台湾AV女优，又有艺名优娜。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "性感",
+    "大眼睛",
+    "別致顔值",
+    "特別騷",
+    "野性",
+    "辣妹系",
+    "妖媚",
+    "鷲鼻"
+  ],
   "detail_url": "https://xchina.fit/model/id-623ebb5acdaf9.html",
   "aliases": [
     "Yu Na",
@@ -20,7 +31,9 @@ window.actressData = {
     "優娜",
     "唐雨菲"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240428/7fc46841-54ec-4bef-aaf0-347d69ebc586.avif"
+  ],
   "works_count": 83,
   "related_dramas": [
     {

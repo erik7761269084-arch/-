@@ -4,21 +4,37 @@ window.actressData = {
   "name": "赵雅琳",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230818/20230818015731823823.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230818/20230818020301304304.jpg",
+  "zodiac": "雙子座",
+  "height": "158cm",
+  "measurements": "胸 78 腰 52 臀 84",
+  "measurements_display": "78A/52/84",
+  "cup": "A",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "性感",
+    "大眼睛",
+    "美少女",
+    "美臀",
+    "長相清純",
+    "鄰家女",
+    "修長癡體",
+    "娃娃臉",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-60c3a010cb486.html",
   "aliases": [
     "赵雅琳",
     "趙雅琳"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230818/20230818015731823823.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

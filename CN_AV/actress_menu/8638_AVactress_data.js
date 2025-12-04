@@ -4,21 +4,40 @@ window.actressData = {
   "name": "艾熙",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20240428/a2dc2e29-4e3e-4d46-88b5-ba5325333605.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240428/20240428015356983983.jpg",
+  "zodiac": "摩羯座",
+  "height": "168cm",
+  "measurements": "胸 82 腰 58 臀 86",
+  "measurements_display": "82H/58/86",
   "cup": "H",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "長相溫柔",
+    "別致顔值",
+    "修長癡體",
+    "極上身材",
+    "野性",
+    "辣妹系",
+    "混血"
+  ],
   "detail_url": "https://xchina.fit/model/id-6374059d3d68b.html",
   "aliases": [
     "艾熙",
     "Ai Xi"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240428/a2dc2e29-4e3e-4d46-88b5-ba5325333605.jpg",
+    "https://picture.yoshiclub.xyz/20240428/3c617d69-bba0-4ed7-8fb2-f1d0d5efd3a0.jpg",
+    "https://picture.yoshiclub.xyz/20240428/3877ade3-ab5b-4a63-8eb9-f603bba8ad75.jpg"
+  ],
   "works_count": 64,
   "related_dramas": [
     {

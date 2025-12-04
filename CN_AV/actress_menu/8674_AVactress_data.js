@@ -4,22 +4,35 @@ window.actressData = {
   "name": "白沛瑶",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230815/c425bf78-0d58-4e75-a86a-8d2bc7736fbd.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230815/1f0b666b-87b9-4659-aacf-eecb3f530f9d.jpg",
+  "zodiac": "水瓶座",
+  "height": "153cm",
+  "measurements": "胸 77 腰 54 臀 75",
+  "measurements_display": "77F/54/75",
+  "cup": "F",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "嬌小身材",
+    "矮小",
+    "野性",
+    "辣妹系",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6139b53b73f97.html",
   "aliases": [
     "Bai Pei Yao",
     "白沛瑤",
     "白沛瑶"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230815/20230815020953343343.jpg"
+  ],
   "works_count": 33,
   "related_dramas": [
     {

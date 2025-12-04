@@ -4,18 +4,23 @@ window.actressData = {
   "name": "林亦涵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230420/a93e4e18-014f-4f39-85b1-88ea078995de.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230825/20230825215327628628.jpg",
+  "zodiac": "雙魚座",
+  "height": "152cm",
+  "measurements": "胸 81 腰 60 臀 89",
+  "measurements_display": "81D/60/89",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/39edc8a8-577a-4765-8d26-4e02f704010a.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230420/a93e4e18-014f-4f39-85b1-88ea078995de.jpg",
+    "https://picture.yoshiclub.xyz/20230420/fb9ae66f-42ad-49b7-ad7b-c0c2e7949a3c.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

@@ -5,20 +5,28 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://static.avjiali.com/cache/460x640/70/actress/xiao-ye-ye.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230819/20230819024434146146.jpg",
+  "zodiac": "巨蟹座",
   "height": "158cm",
-  "measurements": null,
-  "measurements_display": "",
+  "measurements": "胸 82 腰 58 臀 84",
+  "measurements_display": "82F/58/84",
   "cup": "F",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "大眼睛",
+    "長相甜美",
+    "別致顔值",
+    "中國人",
+    "呆萌"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/94a299ca-9f5f-49ed-a3e6-e558e9576cc4.html",
   "aliases": [
     " Xiao Ye Ye",
     "徐筱欣"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230819/20230819022847227227.jpg"
+  ],
   "works_count": 6,
   "related_dramas": [
     {

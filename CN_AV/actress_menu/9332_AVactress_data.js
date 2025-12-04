@@ -4,18 +4,28 @@ window.actressData = {
   "name": "胡蓉蓉",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "img_url": "https://picture.yoshiclub.xyz/20230805/202308050618514747.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230817/20230817074930582582.jpg",
   "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "height": "152cm",
+  "measurements": "胸 87 腰 63 臀 88",
+  "measurements_display": "87F/63/88",
+  "cup": "F",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "大乳房",
+    "人妻",
+    "肉嘟嘟",
+    "身材豐滿",
+    "中國人",
+    "嘴巴大",
+    "臉大"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/358cfb5e-a5b8-4454-a6c3-952dad2f1dd1.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/202308050618514747.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

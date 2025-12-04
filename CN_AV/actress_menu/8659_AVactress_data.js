@@ -4,21 +4,34 @@ window.actressData = {
   "name": "楚梦舒",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20240429/20240429034513901901.avif",
+  "background_img": "https://picture.yoshiclub.xyz/20240429/d0846e65-f48c-4c91-aada-eb9d5266d6f9.jpg",
+  "zodiac": "摩羯座",
+  "height": "163cm",
+  "measurements": "胸 82 腰 59 臀 90",
+  "measurements_display": "82D/59/90",
   "cup": "D",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "美臀",
+    "鄰家女",
+    "特別騷",
+    "辣妹系"
+  ],
   "detail_url": "https://xchina.fit/model/id-621905ae25fc6.html",
   "aliases": [
     "楚梦舒",
     "Chu Meng Shu"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240429/20240429034513901901.avif"
+  ],
   "works_count": 43,
   "related_dramas": [
     {

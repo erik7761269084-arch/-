@@ -5,20 +5,29 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60c3a7958a9df.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230824/20230824082254866866.jpg",
+  "zodiac": "雙魚座",
+  "height": "165cm",
+  "measurements": "胸 90 腰 58 臀 82",
+  "measurements_display": "90E/58/82",
+  "cup": "E",
   "description": "沙美辰，台湾AV女优，又有艺名童汐。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "性感",
+    "人妻",
+    "中國人",
+    "風塵氣"
+  ],
   "detail_url": "https://xchina.fit/model/id-60c3a7958a9df.html",
   "aliases": [
     "沙美辰",
     "童汐"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230816/f65ec5f3-d28d-4653-a034-73da5f5f6ddb.jpg"
+  ],
   "works_count": 14,
   "related_dramas": [
     {

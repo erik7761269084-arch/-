@@ -5,21 +5,35 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://static.avjiali.com/cache/460x640/70/actress/lin-siyu.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230416/3900d0e6-719e-44c1-9c43-eef2eb4cf0d9.jpg",
+  "zodiac": "雙子座",
+  "height": "166cm",
+  "measurements": "胸 85 腰 66 臀 86",
+  "measurements_display": "85C/66/86",
+  "cup": "C",
   "description": "林思妤，台湾AV女优，又有艺名温婉琳。",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "大乳房",
+    "性感",
+    "天然",
+    "長相溫柔",
+    "別致顔值",
+    "中國人",
+    "大乳暈"
+  ],
   "detail_url": "https://xchina.fit/model/id-6001e91016823.html",
   "aliases": [
     "Lin Si Yu",
     "林思妤",
     "温婉琳"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230413/151b3f2a-ed2d-4a02-8879-43accce94649.jpg",
+    "https://picture.yoshiclub.xyz/compressed/20250427/e4c09ee5-3a2f-4963-a9e5-ee2fbbad1aa4_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250427/0e0dca56-ba60-4106-809e-ee679776243c_l.webp"
+  ],
   "works_count": 91,
   "related_dramas": [
     {

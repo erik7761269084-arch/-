@@ -4,18 +4,25 @@ window.actressData = {
   "name": "李莎",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230801/20230801004617199199.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230801/20230801004656463463.jpg",
+  "zodiac": "金牛座",
+  "height": "162cm",
+  "measurements": "胸 84 腰 59 臀 87",
+  "measurements_display": "84C/59/87",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "嫵媚",
+    "人妻",
+    "特別騷",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/e095461e-ee17-4658-b31f-9558821c6b6c.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230801/20230801004617199199.jpg"
+  ],
   "works_count": 1,
   "related_dramas": [
     {

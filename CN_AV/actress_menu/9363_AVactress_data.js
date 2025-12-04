@@ -4,18 +4,24 @@ window.actressData = {
   "name": "王有容",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230731/20230731004324275275.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230801/20230801004924310310.jpg",
+  "zodiac": "處女座",
+  "height": "154cm",
+  "measurements": "胸 88 腰 60 臀 88",
+  "measurements_display": "88F/60/88",
+  "cup": "F",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美乳",
+    "大乳房",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2200494f-fba9-4cfa-a16a-c2e912f80f9d.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230731/20230731004324275275.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

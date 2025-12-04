@@ -4,18 +4,27 @@ window.actressData = {
   "name": "李燕",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230810/20230810031143730730.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230810/20230810030924942942.jpg",
+  "zodiac": "巨蟹座",
+  "height": "156cm",
+  "measurements": "胸 82 腰 58 臀 84",
+  "measurements_display": "82B/58/84",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "性感",
+    "嫵媚",
+    "熟女",
+    "人妻",
+    "嬌小身材",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/c446c909-787d-4e38-84e6-c460babc60b4.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230810/20230810031143730730.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

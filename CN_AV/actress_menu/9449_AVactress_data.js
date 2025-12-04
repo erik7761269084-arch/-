@@ -4,21 +4,30 @@ window.actressData = {
   "name": "韓依人",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230413/1323a2d0-5a2a-476b-92ea-40be4e1894d7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230413/03abb1f0-fe08-4ff9-b795-6d9430d8a8b6.jpg",
+  "zodiac": "白羊座",
+  "height": "150cm",
+  "measurements": "臀 82",
+  "measurements_display": "臀 8280",
+  "cup": "80",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "女人味",
+    "性感",
+    "嫵媚",
+    "嬌小身材",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/7ccaa5b9-778d-42f2-a0c6-65e39a96218f.html",
   "aliases": [
     "韓依人",
     "韩依人"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230413/cc674265-671d-4ed4-adfa-ddd5016dda2f.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

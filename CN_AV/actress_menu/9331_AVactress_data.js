@@ -4,21 +4,23 @@ window.actressData = {
   "name": "茜茜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230817/20230817003912335335.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230817/20230817003119272272.jpg",
+  "zodiac": "天秤座",
+  "height": "166cm",
+  "measurements": "胸 82 腰 56 臀 85",
+  "measurements_display": "82B/56/85",
+  "cup": "B",
   "description": null,
   "features": [],
-  "detail_url": null,
+  "detail_url": "https://www.javrate.com/Actor/Detail/f800ced8-563d-4112-b1f1-519c39f9bc4f.html",
   "aliases": [
     "茜茜",
     "茜茜（女优）"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230817/20230817003912335335.jpg"
+  ],
   "works_count": 9,
   "related_dramas": [
     {

@@ -4,18 +4,31 @@ window.actressData = {
   "name": "知畫",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230806/20230806044458891891.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230806/20230806045245596596.jpg",
+  "zodiac": "雙子座",
+  "height": "166cm",
+  "measurements": "胸 84 腰 56 臀 86",
+  "measurements_display": "84D/56/86",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
-  "aliases": [],
-  "gallery": [],
+  "features": [
+    "美乳",
+    "膚白",
+    "女人味",
+    "性感",
+    "熟女",
+    "人妻",
+    "禦姐",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/09af3a3f-9644-4390-866c-ea5ec4f91893.html",
+  "aliases": [
+    "知画"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230806/20230806044458891891.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

@@ -4,12 +4,12 @@ window.actressData = {
   "name": "蜜苏",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20230518/3cd3f50d-c07c-45bc-aaca-78384d0ddf20.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230518/7f2cc006-b596-40c8-80c9-3120066c5709.jpg",
+  "zodiac": "巨蟹座",
+  "height": "154cm",
+  "measurements": "胸 87 腰 60 臀 90",
+  "measurements_display": "87E/60/90",
   "cup": "E",
   "description": "蜜苏（苏艾文），台湾AV女优。",
   "features": [],
@@ -20,7 +20,15 @@ window.actressData = {
     "蜜苏",
     "蜜蘇"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230518/ee5ee9b5-f924-4511-9cda-228838126880.jpg",
+    "https://picture.yoshiclub.xyz/20230518/fe0abdbf-4174-4c44-87e2-c53a5ec2d693.jpg",
+    "https://picture.yoshiclub.xyz/20230518/e9aa5e04-232d-4e43-97c1-b76e22c48fae.jpg",
+    "https://picture.yoshiclub.xyz/20230518/8616283e-d63e-4e4b-8e48-9fc6f2d2184b.jpg",
+    "https://picture.yoshiclub.xyz/20230518/673efd3d-8781-485d-8317-ed9d928533fc.jpg",
+    "https://picture.yoshiclub.xyz/20230518/e32df101-790f-4cf4-bc52-54c88ce68c78.jpg",
+    "https://picture.yoshiclub.xyz/20230518/3cd3f50d-c07c-45bc-aaca-78384d0ddf20.jpg"
+  ],
   "works_count": 53,
   "related_dramas": [
     {

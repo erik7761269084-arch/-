@@ -4,21 +4,30 @@ window.actressData = {
   "name": "杨思敏",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230727/20230727062323923923.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230728/20230728043437549549.jpg",
+  "zodiac": "雙魚座",
+  "height": "165cm",
+  "measurements": "胸 84 腰 61 臀 87",
+  "measurements_display": "84B/61/87",
+  "cup": "B",
   "description": "",
-  "features": [],
+  "features": [
+    "女人味",
+    "人妻",
+    "禦姐",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-608c567d00682.html",
   "aliases": [
     "杨思敏",
     "楊思敏"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230727/20230727062321638638.jpg",
+    "https://picture.yoshiclub.xyz/20230727/20230727062323923923.jpg",
+    "https://picture.yoshiclub.xyz/20230727/20230727062326179179.jpg"
+  ],
   "works_count": 8,
   "related_dramas": [
     {

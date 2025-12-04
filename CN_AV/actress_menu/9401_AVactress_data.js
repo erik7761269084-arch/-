@@ -4,21 +4,29 @@ window.actressData = {
   "name": "小嬋",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "img_url": "https://picture.yoshiclub.xyz/20230824/202308240811529696.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230824/20230824081257509509.jpg",
   "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "height": "155cm",
+  "measurements": "胸 82 腰 57 臀 84",
+  "measurements_display": "82B/57/84",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美人",
+    "膚白",
+    "長相甜美",
+    "鄰家女",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/af22cb83-abc1-48fe-9bee-7fd7d82f4b9e.html",
   "aliases": [
     "小婵",
     "小嬋"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230824/202308240811529696.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

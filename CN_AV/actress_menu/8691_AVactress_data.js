@@ -5,20 +5,26 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/6097847f9683d.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230818/20230818012404482482.jpg",
+  "zodiac": "雙子座",
+  "height": "164cm",
+  "measurements": "胸 82 腰 58 臀 82",
+  "measurements_display": "82B/58/82",
+  "cup": "B",
   "description": "吴芳宜，台湾AV女优，又有艺名嘉仪、黎芷萱。",
-  "features": [],
+  "features": [
+    "美人",
+    "肉嘟嘟",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6097847f9683d.html",
   "aliases": [
     "吳芳宜",
     "吴芳宜"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230803/20230803051328407407.jpg"
+  ],
   "works_count": 82,
   "related_dramas": [
     {

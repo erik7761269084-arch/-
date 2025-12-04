@@ -5,17 +5,27 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/601e8236801d1.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230613/6aaf7a06-0264-4bd8-8d16-94682d1c2d5e.jpg",
+  "zodiac": "巨蟹座",
+  "height": "158cm",
+  "measurements": "胸 86 腰 60 臀 89",
+  "measurements_display": "86D/60/89",
+  "cup": "D",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "性感",
+    "長相可愛"
+  ],
   "detail_url": "https://xchina.fit/model/id-601e8236801d1.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/安娜.jpg",
+    "https://picture.yoshiclub.xyz/20230416/e933261a-99e4-43f4-b35a-efa4a46edc5e.jpg",
+    "https://picture.yoshiclub.xyz/20230416/6cc7e05a-bc76-46bb-9e21-e243e866c4b7.jpg",
+    "https://picture.yoshiclub.xyz/20230613/bd776934-e8cb-49f0-b0e4-f953c148ff4d.jpg"
+  ],
   "works_count": 7,
   "related_dramas": [
     {

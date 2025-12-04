@@ -5,21 +5,33 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60fc411f65f9f.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230730/20230730005600503503.jpg",
+  "zodiac": "巨蟹座",
+  "height": "166cm",
+  "measurements": "胸 84 腰 60 臀 88",
+  "measurements_display": "84C/60/88",
+  "cup": "C",
   "description": "卢珊珊，台湾AV女优，又有艺名桃依依。",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "女人味",
+    "性感",
+    "肉嘟嘟",
+    "辣妹系",
+    "中國人",
+    "媚眼"
+  ],
   "detail_url": "https://xchina.fit/model/id-60fc411f65f9f.html",
   "aliases": [
     "卢珊珊",
     "桃依依",
     "盧珊珊"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230729/438d2de8-c3cb-4bfa-b01d-ea7b0ffaf885.jpg"
+  ],
   "works_count": 8,
   "related_dramas": [
     {

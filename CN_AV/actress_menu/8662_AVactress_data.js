@@ -4,22 +4,39 @@ window.actressData = {
   "name": "张芸熙",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20230415/83d432f5-24dc-43fd-813b-5697fd6f24fa.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230613/113fcbc3-7f20-49a8-95f0-b51c875cd15e.jpg",
+  "zodiac": "射手座",
+  "height": "158cm",
+  "measurements": "胸 86 腰 69 臀 88",
+  "measurements_display": "86F/69/88",
   "cup": "F",
   "description": "张芸熙，身高：158cm，胸围：34F，魔鬼般惹火的身材，白皙无瑕的皮肤透出淡淡红粉，薄薄的双唇如玫瑰花瓣娇嫩欲滴，长得象洋娃娃一样可爱的面孔，却偏偏有一对呼之欲飞的巨乳，规模巨大，却造型优美。",
-  "features": [],
+  "features": [
+    "美乳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "身材豐滿",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6006b8ce1f6e5.html",
   "aliases": [
     "Zhang Yun Xi",
     "张芸熙",
     "張芸熙"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/張芸熙.jpg",
+    "https://picture.yoshiclub.xyz/20230415/9d187af4-7fbd-4aa7-8c04-ddede2810b48.jpg",
+    "https://picture.yoshiclub.xyz/20230415/a1b0f016-0559-453c-a3fb-84f2a24d7007.jpg",
+    "https://picture.yoshiclub.xyz/20230415/8fe3cfec-1e6b-420e-bc98-5efc53d2a363.jpg",
+    "https://picture.yoshiclub.xyz/20230415/83d432f5-24dc-43fd-813b-5697fd6f24fa.jpg",
+    "https://picture.yoshiclub.xyz/20230415/9ef96b0b-5e88-4418-a7aa-6d01a8492e1d.jpg",
+    "https://picture.yoshiclub.xyz/20230415/c60c760e-d58a-4ba4-a93a-673cc7b17e42.jpg",
+    "https://picture.yoshiclub.xyz/20230415/1ecd2cf3-418a-43e6-a359-417c5b9249c3.jpg",
+    "https://picture.yoshiclub.xyz/20230415/ec3d91c1-0c55-411c-9fcf-d8d0966b758e.jpg"
+  ],
   "works_count": 36,
   "related_dramas": [
     {

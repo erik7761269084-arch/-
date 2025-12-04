@@ -4,21 +4,31 @@ window.actressData = {
   "name": "苏艳艳",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230805/20230805024443118118.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230805/20230805023142905905.jpg",
+  "zodiac": "天蠍座",
+  "height": "156cm",
+  "measurements": "胸 86 腰 60 臀 88",
+  "measurements_display": "86C/60/88",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "美乳",
+    "女人味",
+    "人妻",
+    "肉嘟嘟",
+    "特別騷",
+    "禦姐",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/aa6fcb41-d96e-497f-9ee5-ef5fee0ecdba.html",
   "aliases": [
     "苏艳艳",
     "蘇豔艷"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230805/20230805024443118118.jpg"
+  ],
   "works_count": 1,
   "related_dramas": [
     {

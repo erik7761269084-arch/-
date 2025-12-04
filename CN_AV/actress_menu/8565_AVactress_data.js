@@ -4,21 +4,30 @@ window.actressData = {
   "name": "戚小怜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230728/65b60250-de06-4e5a-a8c9-efa959879037.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230728/20230728081327680680.jpg",
+  "zodiac": "射手座",
+  "height": "154cm",
+  "measurements": "胸 84 腰 56 臀 86",
+  "measurements_display": "84C/56/86",
+  "cup": "C",
   "description": null,
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "長相清純",
+    "長相可愛",
+    "別致顔值",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-609d5a3face66.html",
   "aliases": [
     "戚小怜",
     "戚小憐"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230728/65b60250-de06-4e5a-a8c9-efa959879037.jpg"
+  ],
   "works_count": 7,
   "related_dramas": [
     {

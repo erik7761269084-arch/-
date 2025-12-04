@@ -5,20 +5,30 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60ff1ba971d4b.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230819/20230819003807806806.jpg",
+  "zodiac": "處女座",
+  "height": "166cm",
+  "measurements": "胸 82 腰 57 臀 83",
+  "measurements_display": "82B/57/83",
+  "cup": "B",
   "description": "万静雪，台湾AV女优，又有艺名雨晨、陈萌。",
-  "features": [],
+  "features": [
+    "美人",
+    "膚白",
+    "女人味",
+    "性感",
+    "修長癡體",
+    "中國人",
+    "知性風"
+  ],
   "detail_url": "https://xchina.fit/model/id-60ff1ba971d4b.html",
   "aliases": [
     "万静雪",
     "雨晨"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230804/20230804053552529529.jpg"
+  ],
   "works_count": 9,
   "related_dramas": [
     {

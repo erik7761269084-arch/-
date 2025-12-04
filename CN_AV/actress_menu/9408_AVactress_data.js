@@ -4,18 +4,24 @@ window.actressData = {
   "name": "王蓉",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230730/20230730072505317317.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230730/20230730214343719719.jpg",
+  "zodiac": "雙子座",
+  "height": "160cm",
+  "measurements": "胸 84 腰 60 臀 86",
+  "measurements_display": "84B/60/86",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "人妻",
+    "禦姐",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/3727bc7a-addf-4509-a13f-99f3bff7b5fe.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230730/20230730072505317317.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

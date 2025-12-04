@@ -5,14 +5,26 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://static.avjiali.com/cache/460x640/70/actress/xian-erai.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241014/6ee9b31a-8cb3-444f-917f-e39f2cef9f32.jpg",
+  "zodiac": "摩羯座",
   "height": "158",
-  "measurements": null,
-  "measurements_display": "",
+  "measurements": "胸 86 腰 59 臀 86",
+  "measurements_display": "86B/59/86",
   "cup": "B",
   "description": "仙儿媛（伊靖瑶、葳葳、玥伶、千鹤），台湾AV女优。",
-  "features": [],
+  "features": [
+    "美人",
+    "膚白",
+    "嫵媚",
+    "熟女",
+    "別致顔值",
+    "人妻",
+    "嬌小身材",
+    "特別騷",
+    "中國人",
+    "排骨精",
+    "妖媚"
+  ],
   "detail_url": "https://xchina.fit/model/id-6022e9018a6f8.html",
   "aliases": [
     "仙儿媛",
@@ -22,7 +34,12 @@ window.actressData = {
     "玥伶",
     "Xian'erai"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/千鹤.jpg",
+    "https://picture.yoshiclub.xyz/20230413/de140eb6-4b60-4567-9ee8-9db5b8257e26.jpg",
+    "https://picture.yoshiclub.xyz/20230413/0c4d230a-46f5-4c59-bef1-3a22aeb60135.jpg",
+    "https://picture.yoshiclub.xyz/20230413/87feed9d-c29e-4c19-ad4e-1188ea0dac69.jpg"
+  ],
   "works_count": 46,
   "related_dramas": [
     {

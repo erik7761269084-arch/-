@@ -4,21 +4,34 @@ window.actressData = {
   "name": "江雨嘉",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20240502/20240502051938720720.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240502/20240502001313793793.jpg",
+  "zodiac": "摩羯座",
+  "height": "162cm",
+  "measurements": "胸 84 腰 57 臀 86",
+  "measurements_display": "84D/57/86",
   "cup": "D",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "嫵媚",
+    "特別騷",
+    "大乳暈"
+  ],
   "detail_url": "https://xchina.fit/model/id-657620f5e33a2.html",
   "aliases": [
     "江雨嘉",
     "Jiang YuJia"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240502/20240502051938720720.jpg"
+  ],
   "works_count": 4,
   "related_dramas": [
     {

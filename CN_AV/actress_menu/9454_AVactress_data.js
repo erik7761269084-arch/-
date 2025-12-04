@@ -4,18 +4,29 @@ window.actressData = {
   "name": "颂潮",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230412/629f1c48-5fa5-4969-b280-5cc138e5296e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230412/2e3f97cc-18ce-477d-920c-bbd54b30095f.jpg",
+  "zodiac": "天蠍座",
+  "height": "155cm",
+  "measurements": "胸 81 腰 72 臀 83",
+  "measurements_display": "81B/72/83",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
-  "aliases": [],
-  "gallery": [],
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "長相可愛",
+    "嬌小身材",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/1fea646c-630d-4a38-a5e0-6df9e73b7463.html",
+  "aliases": [
+    "頌潮"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230412/629f1c48-5fa5-4969-b280-5cc138e5296e.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

@@ -5,21 +5,32 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60e6a759c6253.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230413/10383fa3-4d29-489b-8b6a-0dc21a64d443.jpg",
+  "zodiac": "摩羯座",
+  "height": "163cm",
+  "measurements": "胸 86 腰 79 臀 85",
+  "measurements_display": "86D/79/85",
+  "cup": "D",
   "description": "郭童童，台湾AV女优，又有艺名鱼幼微、邓宝莲。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "長相溫柔",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-60e6a759c6253.html",
   "aliases": [
     "郭童童",
     "鱼幼微",
     "邓宝莲"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230413/705e6182-32b2-4db3-9b84-a067dae1937b.jpg",
+    "https://picture.yoshiclub.xyz/20230413/c7dcde19-1ea7-423e-8c87-1f36d6b251d5.jpg",
+    "https://picture.yoshiclub.xyz/20230413/bc40a4b4-505a-4691-b370-0eb7ba0913b4.jpg"
+  ],
   "works_count": 15,
   "related_dramas": [
     {

@@ -4,18 +4,24 @@ window.actressData = {
   "name": "小芳",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230824/2023082408054766.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230824/20230824080237182182.jpg",
+  "zodiac": "處女座",
+  "height": "162cm",
+  "measurements": "胸 84 腰 60 臀 86",
+  "measurements_display": "84C/60/86",
+  "cup": "C",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "膚白",
+    "人妻",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/647c43f7-86c9-4af7-b955-a563c76c247d.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230824/2023082408054766.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

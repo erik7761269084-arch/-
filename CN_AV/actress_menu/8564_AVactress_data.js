@@ -5,20 +5,31 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/60211a64e52f1.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230729/20230729055100437437.jpg",
+  "zodiac": "摩羯座",
+  "height": "158cm",
+  "measurements": "胸 86 腰 60 臀 89",
+  "measurements_display": "86E/60/89",
+  "cup": "E",
   "description": "白晶晶，台湾AV女优，又有艺名苏倩。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "嫵媚",
+    "人妻",
+    "禦姐",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-60211a64e52f1.html",
   "aliases": [
     "白晶晶",
     "苏倩"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230727/1aaf2aa2-d905-4899-8e20-c7298a442e81.jpg",
+    "https://picture.yoshiclub.xyz/20230727/c0453a02-7ed6-4880-a50e-a75eb956118f.jpg"
+  ],
   "works_count": 19,
   "related_dramas": [
     {

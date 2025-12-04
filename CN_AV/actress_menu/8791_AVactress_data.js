@@ -5,20 +5,26 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/6013ff17611bd.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230823/20230823075007899899.jpg",
+  "zodiac": "摩羯座",
+  "height": "157cm",
+  "measurements": "胸 78 腰 52 臀 80",
+  "measurements_display": "78B/52/80",
+  "cup": "B",
   "description": "李文雯，台湾AV女优，又有艺名陆思涵。",
-  "features": [],
+  "features": [
+    "長相溫柔",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-6013ff17611bd.html",
   "aliases": [
     "李文雯",
     "陆思涵"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230513/1be5ca9e-8c8c-43b3-ab5f-c70ee4b1f141.jpg",
+    "https://picture.yoshiclub.xyz/20230513/f49b3bb9-38b0-43e4-875f-bc4f77bd6e16.jpg"
+  ],
   "works_count": 17,
   "related_dramas": [
     {

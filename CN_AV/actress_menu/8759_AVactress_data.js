@@ -5,14 +5,23 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/601190f157fe7.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230416/d0683b7c-25c4-4c68-9774-df145c3b29d0.jpg",
+  "zodiac": "獅子座",
+  "height": "166cm",
+  "measurements": "胸 86 腰 60 臀 89",
+  "measurements_display": "86C/60/89",
+  "cup": "C",
   "description": "艾玛，台湾AV女优，又有艺名夏露、尹媚、欣蒂亚。",
-  "features": [],
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "性感",
+    "別致顔值",
+    "特別騷",
+    "禦姐",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-601190f157fe7.html",
   "aliases": [
     "夏露",
@@ -20,7 +29,11 @@ window.actressData = {
     "艾玛",
     "艾瑪"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230722/4e58fbda-aca4-4742-8501-424f63d9b2d6.jpg",
+    "https://picture.yoshiclub.xyz/20230722/7d27e266-04dc-48c7-9ed2-ed6913ee3ebd.jpg",
+    "https://picture.yoshiclub.xyz/20230722/78eeef82-28aa-4192-b611-55055da58a16.jpg"
+  ],
   "works_count": 39,
   "related_dramas": [
     {

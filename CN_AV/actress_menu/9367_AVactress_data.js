@@ -4,21 +4,29 @@ window.actressData = {
   "name": "林小櫻",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
-  "description": null,
-  "features": [],
-  "detail_url": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230411/84b283ec-3f8a-4ae9-ad97-a514b5dfe209.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230818/202308180127458585.jpg",
+  "zodiac": "摩羯座",
+  "height": "168cm",
+  "measurements": "胸 90 腰 81 臀 89",
+  "measurements_display": "90D/81/89",
+  "cup": "D",
+  "description": "天美女神，來自烟臺",
+  "features": [
+    "美乳",
+    "性感",
+    "野性",
+    "中國人",
+    "整容臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/d3bee401-9a05-41ba-b958-e614f6f2aaa2.html",
   "aliases": [
     "林小樱",
     "林小櫻"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230411/84b283ec-3f8a-4ae9-ad97-a514b5dfe209.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

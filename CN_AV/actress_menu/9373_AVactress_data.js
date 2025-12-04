@@ -4,21 +4,26 @@ window.actressData = {
   "name": "劉豆豆",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230722/0e11448f-8480-47e1-8838-d2bf27d615b6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230825/20230825055405475475.jpg",
+  "zodiac": "白羊座",
+  "height": "165cm",
+  "measurements": "胸 83 腰 60 臀 84",
+  "measurements_display": "83B/60/84",
+  "cup": "B",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "長相溫柔",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/e4e39e1d-1bd3-467e-b5c0-38a76b4827d8.html",
   "aliases": [
     "刘豆豆",
     "劉豆豆"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230722/0e11448f-8480-47e1-8838-d2bf27d615b6.jpg"
+  ],
   "works_count": 2,
   "related_dramas": [
     {

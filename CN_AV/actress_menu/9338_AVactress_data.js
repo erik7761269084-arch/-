@@ -4,21 +4,29 @@ window.actressData = {
   "name": "許書曼",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "img_url": "https://picture.yoshiclub.xyz/20230430/6cdd74b8-70e3-4c14-8028-98887a035e8d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230825/202308252129228686.jpg",
+  "zodiac": "天秤座",
+  "height": "168cm",
+  "measurements": "胸 84 腰 63 臀 91",
+  "measurements_display": "84D/63/91",
+  "cup": "D",
   "description": null,
-  "features": [],
-  "detail_url": null,
+  "features": [
+    "肉嘟嘟",
+    "身材豐滿",
+    "中國人",
+    "業餘",
+    "舞蹈演員"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/1ecbdbda-4859-4eba-8e1e-12ae62226837.html",
   "aliases": [
     "許書曼",
     "许书曼"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230430/6cdd74b8-70e3-4c14-8028-98887a035e8d.jpg"
+  ],
   "works_count": 3,
   "related_dramas": [
     {

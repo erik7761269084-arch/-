@@ -5,20 +5,27 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://upload.xchina.io/model/608901ec45bae.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230713/7112407e-0714-474a-9bfa-f42998866c3d.jpg",
+  "zodiac": "天蠍座",
+  "height": "165cm",
+  "measurements": "胸 91 腰 73 臀 94",
+  "measurements_display": "91D/73/94",
+  "cup": "D",
   "description": "白若冰，台湾AV女优，又有艺名杜鹃。",
-  "features": [],
+  "features": [
+    "熟女",
+    "人妻",
+    "中國人"
+  ],
   "detail_url": "https://xchina.fit/model/id-608901ec45bae.html",
   "aliases": [
     "白若冰",
     "杜鹃"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230713/d94ef279-c06c-47dc-a20a-ba04f71094a7.jpg",
+    "https://picture.yoshiclub.xyz/20230713/112a0656-924c-4788-aa56-f9e652d341a4.jpg"
+  ],
   "works_count": 15,
   "related_dramas": [
     {

@@ -4,21 +4,33 @@ window.actressData = {
   "name": "舒可芯",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-  "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
+  "img_url": "https://picture.yoshiclub.xyz/20240429/20240429035040552552.avif",
+  "background_img": "https://picture.yoshiclub.xyz/20240429/20240429034834401401.jpg",
+  "zodiac": "摩羯座",
+  "height": "157cm",
+  "measurements": "胸 86 腰 58 臀 90",
+  "measurements_display": "86C/58/90",
   "cup": "C",
   "description": "",
-  "features": [],
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "性感",
+    "天然",
+    "美臀",
+    "長相可愛",
+    "鄰家女",
+    "呆萌"
+  ],
   "detail_url": "https://xchina.fit/model/id-621ba58d2d5a4.html",
   "aliases": [
     "舒可芯",
     "Shu Ke Xin"
   ],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240429/20240429035040552552.avif"
+  ],
   "works_count": 35,
   "related_dramas": [
     {

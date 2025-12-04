@@ -4,18 +4,20 @@ window.actressData = {
   "name": "白金",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://yunvgong.com/model.jpg",
-  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "img_url": "https://picture.yoshiclub.xyz/20230530/2be00626-3fea-4436-b68a-31a9ca505ef2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230530/b678341f-7a2d-4244-bdfa-b274a9bf883c.jpg",
   "zodiac": null,
-  "height": null,
-  "measurements": null,
-  "measurements_display": "",
-  "cup": null,
+  "height": "168cm",
+  "measurements": "胸 83 腰 58 臀 86",
+  "measurements_display": "83D/58/86",
+  "cup": "D",
   "description": null,
   "features": [],
-  "detail_url": null,
+  "detail_url": "https://www.javrate.com/Actor/Detail/7ae1f413-f15b-44cb-833f-9def8721636d.html",
   "aliases": [],
-  "gallery": [],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230530/2be00626-3fea-4436-b68a-31a9ca505ef2.jpg"
+  ],
   "works_count": 1,
   "related_dramas": [
     {
