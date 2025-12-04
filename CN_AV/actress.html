@@ -3,85 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>国产女优</title>
+<title>国产女优 - 列表</title>
 <style>
-/* ======= 全局样式 ======= */
-body {
-  margin: 0;
-  font-family: "微软雅黑", sans-serif;
-  background-color: #0d0d0d;
-  color: #fff;
-  padding-top: 60px; /* 顶部 header 高度 */
-}
-
-/* ======= 女优卡片网格 ======= */
-#actressGrid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 20px;
-  justify-items: center;
-  padding: 20px;
-}
-
-#actressGrid .card {
-  background-color: #1a1a1a;
-  border-radius: 10px;
-  overflow: hidden;
-  cursor: pointer;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  width: 100%;
-  max-width: 220px;
-}
-
-#actressGrid .card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.2);
-}
-
-#actressGrid .card img {
-  width: 100%;
-  height: 260px;
-  object-fit: cover;
-  background-color: #222;
-}
-
-#actressGrid .card-title {
-  padding: 10px;
-  font-size: 15px;
-  text-align: center;
-  color: #eee;
-}
-
-#actressGrid .card-info {
-  font-size: 13px;
-  color: #ccc;
-  text-align: center;
-  padding-bottom: 10px;
-  line-height: 1.6;
-}
-
-/* ======= 分页 ======= */
-.pagination {
-  margin-top: 20px;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding-bottom: 30px;
-}
-.pagination button {
-  padding: 6px 12px;
-  background: #333;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-.pagination button.active { background: red; }
-.pagination button:hover:not(:disabled) { background: #555; }
-.pagination button:disabled { opacity: 0.4; cursor: not-allowed; }
-.pagination span { font-size: 14px; }
+body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; color:#fff; padding-top:60px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:20px; padding:20px; justify-items:center; }
+.card { background:#1a1a1a; border-radius:10px; overflow:hidden; cursor:pointer; transition:transform .25s ease, box-shadow .25s ease; width:100%; max-width:220px; display:flex; flex-direction:column; }
+.card:hover { transform:scale(1.05); box-shadow:0 4px 12px rgba(255,255,255,.2); }
+.card img { width:100%; height:260px; object-fit:cover; background:#222; }
+.card-title { padding:10px; font-size:15px; text-align:center; color:#eee; }
+.card-info { font-size:13px; color:#ccc; text-align:center; padding-bottom:10px; line-height:1.6; }
+.pagination { display:flex; justify-content:center; align-items:center; gap:10px; padding:20px 0; }
+.pagination button { padding:6px 12px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer; }
+.pagination button:hover:not(:disabled) { background:#555; }
+.pagination button:disabled { opacity:.4; cursor:not-allowed; }
+.pagination input { width:50px; padding:4px; background:#222; border:1px solid #555; color:#fff; text-align:center; border-radius:4px; }
 /* 固定 header */
 #header-placeholder {
   position: fixed;
@@ -94,113 +29,125 @@ body {
 </head>
 <body>
 
-<!-- ======= 顶部导航 ======= -->
 <div id="header-placeholder"></div>
-
-<!-- ======= 主体内容 ======= -->
-<div id="mainContent">
-  <div id="actressSection">
-    <div id="actressGrid"></div>
-    <div class="pagination" id="actressPagination"></div>
-  </div>
-</div>
+<div class="grid" id="actressGrid"></div>
+<div class="pagination" id="pagination"></div>
 
 <script>
-// ======= 动态加载 header.html 并调用 header.js =======
+// ======= 配置 =======
+const MAX_PAGE = 52;
+  
+/* ======= 加载 header.html + header.js ======= */
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
-    // 载入 header.js
+    // 加载 header.js 文件
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
       if (typeof initHeaderMenu === 'function') initHeaderMenu();
-      if (typeof setActiveMenu === 'function') setActiveMenu('menu-actress');
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
     };
     document.body.appendChild(script);
   });
-  
-/* ========== 加载底部 footer.html ========== */ 
+
+
 fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
   .then(html => {
-    // 动态创建底部容器并插入页面
-    let footer = document.getElementById('footer-placeholder');
-    if (!footer) {
-      footer = document.createElement('div');
-      footer.id = 'footer-placeholder';
-      document.body.appendChild(footer);
-    }
+    const footer = document.createElement('div');
     footer.innerHTML = html;
-  })
-  .catch(e => console.warn('无法加载 footer.html:', e));
-
-// ======= 加载女优数据 =======
-let actresses = [], actressPage = 1, actressPageSize = 18;
-
-async function loadActresses() {
-  try {
-    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/CN_actress_menu_all.json");
-    const data = await res.json();
-    actresses = data.filter(a => a.img_url && a.img_url.trim() !== "");
-    renderActresses();
-  } catch (err) {
-    console.error("加载女优数据失败:", err);
-    document.getElementById('actressGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>加载失败，请稍后再试。</p>";
-  }
-}
-
-function renderActresses() {
-  const container = document.getElementById('actressGrid');
-  container.innerHTML = '';
-  const start = (actressPage - 1) * actressPageSize;
-  const end = start + actressPageSize;
-
-  actresses.slice(start, end).forEach(a => {
-    const card = document.createElement('div');
-    card.className = 'card';
-    card.onclick = () => {
-      if (a.actress_url) window.location.href = a.actress_url;
-    };
-    card.innerHTML = `
-      <img src="${a.img_url}" alt="${a.name}">
-      <div class="card-title">${a.name}</div>
-      <div class="card-info">
-        ${a.zodiac ? `🌟 ${a.zodiac}<br>` : ""}
-        ${a.height ? `📏 ${a.height}<br>` : ""}
-        ${a.measurements ? `💃 ${a.measurements}` : ""}
-      </div>`;
-    container.appendChild(card);
+    document.body.appendChild(footer);
   });
-  renderActressPagination();
+
+// ======= 获取 URL 页码 =======
+function getPageFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  let pages = parseInt(params.get('pages'));
+  if (!pages || pages < 1) pages = 1;
+  if (pages > MAX_PAGE) pages = MAX_PAGE;
+  return pages;
 }
 
-function renderActressPagination() {
-  const pagination = document.getElementById('actressPagination');
-  pagination.innerHTML = '';
-  const totalPages = Math.max(1, Math.ceil(actresses.length / actressPageSize));
+// ======= 渲染女优卡片 =======
+function renderAll(data){
+  const box = document.getElementById('actressGrid');
+  box.innerHTML = '';
+  if(!data || data.length === 0){
+    box.innerHTML = "<p style='text-align:center;color:#ccc;'>暂无数据</p>";
+    return;
+  }
 
-  const prev = document.createElement('button');
-  prev.textContent = '上一页';
-  prev.disabled = actressPage === 1;
-  prev.onclick = () => { if (actressPage > 1) { actressPage--; renderActresses(); } };
-  pagination.appendChild(prev);
+  data.forEach(a => {
+    box.innerHTML += `
+      <div class="card" onclick="goActress('${a.actress_url}')">
+        <img src="${a.img_url || 'https://via.placeholder.com/220x260?text=No+Cover'}">
+        <div class="card-title">${a.name}</div>
+        <div class="card-info">
+          ${a.zodiac ? `🌟 ${a.zodiac}<br>` : ""}
+          ${a.height ? `📏 ${a.height}<br>` : ""}
+          ${a.measurements ? `💃 ${a.measurements}` : ""}
+        </div>
+      </div>
+    `;
+  });
 
-  const span = document.createElement('span');
-  span.textContent = `第 ${actressPage} / ${totalPages} 页`;
-  pagination.appendChild(span);
-
-  const next = document.createElement('button');
-  next.textContent = '下一页';
-  next.disabled = actressPage === totalPages;
-  next.onclick = () => { if (actressPage < totalPages) { actressPage++; renderActresses(); } };
-  pagination.appendChild(next);
+  // 恢复滚动位置
+  const savedScroll = parseInt(localStorage.getItem('actressScroll'));
+  if(savedScroll) window.scrollTo(0, savedScroll);
 }
 
-// 初始化
-loadActresses();
+// ======= 点击跳转女优详情 =======
+function goActress(url){
+  localStorage.setItem('actressScroll', window.scrollY);
+  if(url) location.href = url;
+}
+
+// ======= 渲染分页控件 =======
+function renderPagination(currentPage){
+  const pagination = document.getElementById('pagination');
+  pagination.innerHTML = `
+    <button ${currentPage===1?'disabled':''} onclick="changePage(${currentPage-1})">上一页</button>
+	<span>第 <input id="jumpPage" type="number" min="1" max="${MAX_PAGE}" value="${currentPage}"> 页 / ${MAX_PAGE} 页</span>
+    <button onclick="jumpToPage()">跳转</button>
+    <button ${currentPage===MAX_PAGE?'disabled':''} onclick="changePage(${currentPage+1})">下一页</button>
+  `;
+}
+
+// ======= 跳转页 =======
+function jumpToPage(){
+  let p = parseInt(document.getElementById('jumpPage').value);
+  if(!p || p < 1) p = 1;
+  if(p > MAX_PAGE) p = MAX_PAGE;
+  location.href = `${window.location.pathname}?pages=${p}`;
+}
+
+// ======= 上下页切换 =======
+function changePage(p){
+  if(p < 1) p = 1;
+  if(p > MAX_PAGE) p = MAX_PAGE;
+  location.href = `${window.location.pathname}?pages=${p}`;
+}
+
+// ======= 初始化 =======
+const pageNumber = getPageFromURL();
+renderPagination(pageNumber);
+
+// ======= 动态加载对应页 JS =======
+const script = document.createElement('script');
+script.src = `https://yunvgong.com/CN_AV/category/actress_page/page_${pageNumber}.js${pageNumber>1 ? '?pages=' + pageNumber : ''}`;
+script.onload = () => {
+  if(typeof window.PAGE_DATA !== 'undefined'){
+    renderAll(window.PAGE_DATA);
+  } else {
+    console.error(`page_${pageNumber}.js 未定义 window.PAGE_DATA`);
+  }
+};
+script.onerror = () => console.error(`无法加载 page_${pageNumber}.js`);
+document.body.appendChild(script);
+
 </script>
 </body>
 </html>

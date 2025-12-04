@@ -263,7 +263,7 @@ function getSeriesName() {
 
 function loadSeriesData(seriesName) {
   const script = document.createElement('script');
-  script.src = "CN_actress_menu/" + seriesName + "_AVactress_data.js"; 
+  script.src = "actress_menu/" + seriesName + "_AVactress_data.js"; 
   script.onload = () => {
     if (window.actressData) initPage(window.actressData);
     else if (typeof actressData !== 'undefined') initPage(actressData);
