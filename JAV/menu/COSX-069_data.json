@@ -16,7 +16,9 @@
         "works_count": 39
       }
     ],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251011-1/2422bbe38277a1358ce9c730d73339c4.jpg",
     "background_img": "",

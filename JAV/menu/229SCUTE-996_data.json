@@ -11,7 +11,9 @@
     "publish_date": "",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fb021d9dc2e92f369089dd4acdff0d64.jpg",
     "background_img": "",

@@ -15,7 +15,9 @@
         "works_count": 5163
       }
     ],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",

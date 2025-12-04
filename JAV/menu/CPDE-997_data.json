@@ -16,7 +16,9 @@
         "works_count": 26
       }
     ],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c4ba22a47ebb1a8683b55/cover.jpg",
     "background_img": "",

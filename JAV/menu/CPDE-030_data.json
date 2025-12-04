@@ -15,7 +15,9 @@
         "works_count": 26
       }
     ],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/30/38549_cover_2025-06-30_213955.jpg",
     "background_img": "",

@@ -10,7 +10,9 @@
     "publish_date": "",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",

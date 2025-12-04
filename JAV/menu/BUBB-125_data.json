@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "抄底"
+    ],
     "description": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230825/h_690bubb125pl.jpg!320x216.jpg",
     "background_img": "",

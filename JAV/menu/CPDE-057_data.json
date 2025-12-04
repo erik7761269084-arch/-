@@ -15,7 +15,9 @@
         "works_count": 26
       }
     ],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a46b0faad3946dad98cd9fd5a4b848dd.jpg",
     "background_img": "",

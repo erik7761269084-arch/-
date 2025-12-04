@@ -11,7 +11,9 @@
     "publish_date": "",
     "type": "有码",
     "companys": [],
-    "genres": [],
+    "genres": [
+      "抄底"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/cfa94e55d9bce03e3e80781b9c11cf35.jpg",
     "background_img": "",

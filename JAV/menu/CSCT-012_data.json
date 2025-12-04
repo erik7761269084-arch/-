@@ -15,7 +15,9 @@
         "works_count": 5163
       }
     ],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241031-1/4572f7e8b5c11d0a414469a5712ee6ed.jpg",
     "background_img": "",

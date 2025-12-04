@@ -15,7 +15,9 @@
         "works_count": 26
       }
     ],
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "description": "",
     "cover_url": "https://pic31.anzise.com/pic/20220706/3697aa8167b87b2086c857de69bd291f/1.jpg",
     "background_img": "",
