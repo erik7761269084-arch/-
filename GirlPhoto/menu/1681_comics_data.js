@@ -1,0 +1,35 @@
+const comicData = {
+    "IDcode": 1681,
+    "title": "【Nyako喵子】樫野本-奶牛比基尼[98p1v-1.0G] 樫野自设同人",
+    "sourceUrl": "https://telegra.ph/Nyako喵子樫野本-奶牛比基尼98p1v-10G-樫野自设同人-08-25",
+    "images": [
+        "https://telegra.ph/file/3e238b95903ce770a3f46.png",
+        "https://telegra.ph/file/f38db897c912aba65ee5d.jpg",
+        "https://telegra.ph/file/b8c32763d4b6285ddd048.jpg",
+        "https://telegra.ph/file/e8756c5bc77907a59eb3e.jpg",
+        "https://telegra.ph/file/1b12fce41a1848bcbf0be.jpg",
+        "https://telegra.ph/file/65e0aa87b5a5bd990debc.jpg",
+        "https://telegra.ph/file/f6034718d5ec900337589.jpg",
+        "https://telegra.ph/file/197662f364828e71b96bd.jpg",
+        "https://telegra.ph/file/e4f277352a10aa395e575.jpg",
+        "https://telegra.ph/file/aaafec2aeba062d6a2606.jpg",
+        "https://telegra.ph/file/01fba554b7f70b3e65f14.jpg",
+        "https://telegra.ph/file/998c93533544cd1be0740.jpg",
+        "https://telegra.ph/file/824a74129fc9d75b4343b.jpg",
+        "https://telegra.ph/file/a1ea8e82ec4c3f7dfcf38.jpg",
+        "https://telegra.ph/file/028711d4a67327b0a354c.jpg",
+        "https://telegra.ph/file/2635d16b09264a53d5004.jpg",
+        "https://telegra.ph/file/e0633f57e09db4b58110a.jpg",
+        "https://telegra.ph/file/5f2b7df0f0eb0fb931872.jpg",
+        "https://telegra.ph/file/a31cf104a98863bfe5e98.jpg",
+        "https://telegra.ph/file/0a10c8c6dc99ab501d18c.jpg",
+        "https://telegra.ph/file/6168081984a82eba7763c.jpg",
+        "https://telegra.ph/file/631d72972c472f6696f59.jpg",
+        "https://telegra.ph/file/50eda3389f9dcb31b2be5.jpg",
+        "https://telegra.ph/file/c27834dd3d5a1c3745ae4.jpg",
+        "https://telegra.ph/file/80d0d3ad45eec4db6a567.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

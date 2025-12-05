@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8230,
+    "title": "七月喵子 - 教官爱丽丝写真",
+    "sourceUrl": "https://telegra.ph/七月喵子---教官爱丽丝写真-08-27",
+    "images": [
+        "https://telegra.ph/file/da7ce41f96fa02da8f138.jpg",
+        "https://telegra.ph/file/0a8d93edb2a29fad58b2f.jpg",
+        "https://telegra.ph/file/b75338347eb80b8bb7d91.jpg",
+        "https://telegra.ph/file/653af8fa040ab42501b29.jpg",
+        "https://telegra.ph/file/f920d085bb2968782510d.jpg",
+        "https://telegra.ph/file/a40206a3e90f7bcdf555d.jpg",
+        "https://telegra.ph/file/608d90572d8a4681bed52.jpg",
+        "https://telegra.ph/file/9ed39f65bb5558094bf36.jpg",
+        "https://telegra.ph/file/942cca976993ca0670b58.jpg",
+        "https://telegra.ph/file/247225a5c83ff91397844.jpg",
+        "https://telegra.ph/file/289608714d591048c7e34.jpg",
+        "https://telegra.ph/file/1d1259096f5443e969578.jpg",
+        "https://telegra.ph/file/6178305b06ec80c3a32bb.jpg",
+        "https://telegra.ph/file/cffc293384772fd53db8f.jpg",
+        "https://telegra.ph/file/2351f14e79fe56498b3fd.jpg",
+        "https://telegra.ph/file/4bb4fa34defc4bda2b27c.jpg",
+        "https://telegra.ph/file/12094cbc70a2b1a789bfd.jpg",
+        "https://telegra.ph/file/a377cf4fd490897368077.jpg",
+        "https://telegra.ph/file/8b14e230ee3b7a17219cf.jpg",
+        "https://telegra.ph/file/5d2b7a01599576f11d346.jpg",
+        "https://telegra.ph/file/d124d3fcf397f19ba2019.jpg",
+        "https://telegra.ph/file/1846fc55f3a381d425aea.jpg",
+        "https://telegra.ph/file/cfc5f7c28d052307ba2a8.jpg",
+        "https://telegra.ph/file/a8ce0cdae10733bd2977b.jpg",
+        "https://telegra.ph/file/778ff1eb9aac63f18a269.jpg",
+        "https://telegra.ph/file/055be2d007ab6be48a6db.jpg",
+        "https://telegra.ph/file/d528068d190e4b2161583.jpg",
+        "https://telegra.ph/file/50b42116c2e8534049292.jpg",
+        "https://telegra.ph/file/644377da7a2763e0d0715.jpg",
+        "https://telegra.ph/file/a518849d8cc58a54959df.jpg",
+        "https://telegra.ph/file/57f033eae85e3959371ac.jpg",
+        "https://telegra.ph/file/b6a210e5af16c61aabb5c.jpg",
+        "https://telegra.ph/file/2439c99d7516c0219659a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

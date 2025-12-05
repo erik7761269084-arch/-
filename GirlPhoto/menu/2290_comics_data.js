@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2290,
+    "title": "Misaki Suzuki - 淫乱游戏",
+    "sourceUrl": "https://telegra.ph/Misaki-Suzuki---淫乱游戏-08-29",
+    "images": [
+        "https://telegra.ph/file/1ddebfb4361bc63a50981.jpg",
+        "https://telegra.ph/file/218a85531ff360b94475d.jpg",
+        "https://telegra.ph/file/02b93f34f973a54b5f697.jpg",
+        "https://telegra.ph/file/1968f1656fc95d9fdf1d4.jpg",
+        "https://telegra.ph/file/354eb0b7b9fffb4515e23.jpg",
+        "https://telegra.ph/file/e003ad54e6252359a85cd.jpg",
+        "https://telegra.ph/file/cb408056a354ee80ae3a5.jpg",
+        "https://telegra.ph/file/0b4d947b531eac9f2dd83.jpg",
+        "https://telegra.ph/file/10e30982aa9ec983d5aaa.jpg",
+        "https://telegra.ph/file/4fb8bb5a3234a59698f0b.jpg",
+        "https://telegra.ph/file/d57de753a6496446a3c41.jpg",
+        "https://telegra.ph/file/12d50220f9d048d20c4cb.jpg",
+        "https://telegra.ph/file/570862ced16c3221d7098.jpg",
+        "https://telegra.ph/file/4e95987d971bcf65484dd.jpg",
+        "https://telegra.ph/file/baaa73bd829c3e610da64.jpg",
+        "https://telegra.ph/file/53a24e69050eeed59537d.jpg",
+        "https://telegra.ph/file/51fca1309ccaea1c8745f.jpg",
+        "https://telegra.ph/file/d0343efe8ba6886f8a43e.jpg",
+        "https://telegra.ph/file/e9281eabc272e768751e7.jpg",
+        "https://telegra.ph/file/46870990d38a0e5c1f39b.jpg",
+        "https://telegra.ph/file/0f195fe1ed489505fb075.jpg",
+        "https://telegra.ph/file/edd4ca13e8ad995e7eebd.jpg",
+        "https://telegra.ph/file/1e8632a1876a3e476c105.jpg",
+        "https://telegra.ph/file/05d38a2a2ad19e31ea81a.jpg",
+        "https://telegra.ph/file/2eeac8abc4d98c6218854.jpg",
+        "https://telegra.ph/file/c38a64f8b2f490e4dc98c.jpg",
+        "https://telegra.ph/file/37fb3440a4ec48c037e6a.jpg",
+        "https://telegra.ph/file/9261b68484fee8a10ee61.jpg",
+        "https://telegra.ph/file/d38f8f936569557460ba7.jpg",
+        "https://telegra.ph/file/4da2eca7cf74e7130569d.jpg",
+        "https://telegra.ph/file/ef189580bef0ebe696f65.jpg",
+        "https://telegra.ph/file/50b69609071b4f156f211.jpg",
+        "https://telegra.ph/file/03fe9d3286d1c85ba0f26.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

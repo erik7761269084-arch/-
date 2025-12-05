@@ -1,0 +1,35 @@
+const comicData = {
+    "IDcode": 1644,
+    "title": "Neppu Pack Maid",
+    "sourceUrl": "https://telegra.ph/Neppu-Pack-Maid-08-25",
+    "images": [
+        "https://telegra.ph/file/7faff7f966812dba21a5e.jpg",
+        "https://telegra.ph/file/06a16da1ead2407830f28.jpg",
+        "https://telegra.ph/file/54ee675d3173fae4af677.jpg",
+        "https://telegra.ph/file/5fec65febfd1653c7ee35.jpg",
+        "https://telegra.ph/file/7fcbc3de8136cb31e4498.jpg",
+        "https://telegra.ph/file/9376dda6899607b8de5cd.jpg",
+        "https://telegra.ph/file/53813c66261263ba03a0a.jpg",
+        "https://telegra.ph/file/9589bb6ffe3ccc21162c2.jpg",
+        "https://telegra.ph/file/6030163468d48236c72f0.jpg",
+        "https://telegra.ph/file/4cdc0613663cb3f1f20dc.jpg",
+        "https://telegra.ph/file/6f206df6d45592d7cc544.jpg",
+        "https://telegra.ph/file/05aca03926a71d9de8554.jpg",
+        "https://telegra.ph/file/f17041fe97bdb6c19d237.jpg",
+        "https://telegra.ph/file/380987d9909451c04b44a.jpg",
+        "https://telegra.ph/file/a948468cfe3aee52a06a8.jpg",
+        "https://telegra.ph/file/ba894f6c0af06daddd103.jpg",
+        "https://telegra.ph/file/259c7d9a01d4863a48ef5.jpg",
+        "https://telegra.ph/file/086e2fb6001c4ddccb060.jpg",
+        "https://telegra.ph/file/68045541f1cba25b8dc31.jpg",
+        "https://telegra.ph/file/33311bbd925b979a2bd80.jpg",
+        "https://telegra.ph/file/448143996799876473231.jpg",
+        "https://telegra.ph/file/1e081722936b662e2de5c.jpg",
+        "https://telegra.ph/file/d3a16679dc3a0448e2822.jpg",
+        "https://telegra.ph/file/b03f4d67b97de84cdf8ff.jpg",
+        "https://telegra.ph/file/7fa8a896c8f1939f536ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

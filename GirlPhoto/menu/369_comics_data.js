@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 369,
+    "title": "Byoru - Mashu Kirielight bikini - S",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Mashu-Kirielight-bikini---S-08-26",
+    "images": [
+        "https://telegra.ph/file/c6f088cd721bf449a9fa8.jpg",
+        "https://telegra.ph/file/7ab46fb9bc39539c3a5b9.jpg",
+        "https://telegra.ph/file/567ca42e1c6c4f4b4649f.jpg",
+        "https://telegra.ph/file/ec39a647a1f296d49045a.jpg",
+        "https://telegra.ph/file/6f0da2ece4bcd6322a939.jpg",
+        "https://telegra.ph/file/d41918e320276894d1cbf.jpg",
+        "https://telegra.ph/file/2712f8e2b80c67921543a.jpg",
+        "https://telegra.ph/file/ae9a8e871bad677a91601.jpg",
+        "https://telegra.ph/file/b31ad03ca7ae9fd97d4d8.jpg",
+        "https://telegra.ph/file/347b3a46b64640da44bc5.jpg",
+        "https://telegra.ph/file/1028e297bedfa09659d0f.jpg",
+        "https://telegra.ph/file/17edef34db580c8c844f9.jpg",
+        "https://telegra.ph/file/df376445c9f71af9fae5e.jpg",
+        "https://telegra.ph/file/6bae73e0de9a3c0529a04.jpg",
+        "https://telegra.ph/file/2437c607298b7311bc4db.jpg",
+        "https://telegra.ph/file/ef8b06a09ec5ad2740539.jpg",
+        "https://telegra.ph/file/effb6b10ae85b52f1fe08.jpg",
+        "https://telegra.ph/file/bb0350da8388e87d60d9e.jpg",
+        "https://telegra.ph/file/adf138c85351bc8ca9502.jpg",
+        "https://telegra.ph/file/102c653a6e6dd19979fa3.jpg",
+        "https://telegra.ph/file/b46261de7e215ad5b13d8.jpg",
+        "https://telegra.ph/file/e436f6e4b3df03492ad89.jpg",
+        "https://telegra.ph/file/db6628e7d62b360258b7b.jpg",
+        "https://telegra.ph/file/ca5b4f1cb5e6623e7a368.jpg",
+        "https://telegra.ph/file/b7d4207d5f9b4a7548fe7.jpg",
+        "https://telegra.ph/file/0070d7461749eb6991787.jpg",
+        "https://telegra.ph/file/365f05df36abcad950386.jpg",
+        "https://telegra.ph/file/40b02a095047c6955881f.jpg",
+        "https://telegra.ph/file/5d4b96f30d812ddc780ee.jpg",
+        "https://telegra.ph/file/7dd6a20e20373a1f66be1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

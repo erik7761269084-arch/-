@@ -1,0 +1,36 @@
+const comicData = {
+    "IDcode": 3904,
+    "title": "蠢沫沫 - 生日福利",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---生日福利-08-26",
+    "images": [
+        "https://telegra.ph/file/83c452c3f00bf7c1f9a18.jpg",
+        "https://telegra.ph/file/566114b13e23b7161f7cd.jpg",
+        "https://telegra.ph/file/88d376068f7b70bb17f28.jpg",
+        "https://telegra.ph/file/08a030f2d739638dea363.jpg",
+        "https://telegra.ph/file/bdab1fb5e9a53d1263660.jpg",
+        "https://telegra.ph/file/3d28254a81f4b6e1ac2f4.jpg",
+        "https://telegra.ph/file/4820e353c6a7ff5719cab.jpg",
+        "https://telegra.ph/file/8154c98686c8cf842bfab.jpg",
+        "https://telegra.ph/file/9d0afdf7e39d2cdcbc4a7.jpg",
+        "https://telegra.ph/file/1e8a8ec8a69d7c491338d.jpg",
+        "https://telegra.ph/file/77fb758db927bf8f869d8.jpg",
+        "https://telegra.ph/file/b53d50f6238f90d6e11d7.jpg",
+        "https://telegra.ph/file/90857211f0cd1039e50c5.jpg",
+        "https://telegra.ph/file/b03432f3563bb1208cb45.jpg",
+        "https://telegra.ph/file/d59a3b6f776239d5b1fec.jpg",
+        "https://telegra.ph/file/b67b8122feb598d74061b.jpg",
+        "https://telegra.ph/file/7c8ebac9cc8e5a39b7d68.jpg",
+        "https://telegra.ph/file/ac622c1f8d76c8dff020e.jpg",
+        "https://telegra.ph/file/422cf540f89ac8f775c38.jpg",
+        "https://telegra.ph/file/a63c81a59fb19e80eb1a4.jpg",
+        "https://telegra.ph/file/aa8fc3aa7aa0d77c4be20.jpg",
+        "https://telegra.ph/file/83a8d551dc7abde2a5c8b.jpg",
+        "https://telegra.ph/file/1a53699a9bd3244912a06.jpg",
+        "https://telegra.ph/file/4e2896173f2ecf8d8313f.jpg",
+        "https://telegra.ph/file/26191c0e9e77ed4df8c90.jpg",
+        "https://telegra.ph/file/37aa5554a729a6ae3f2ae.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13757,
+    "title": "贞子蜜桃 - 九月舰长 宮坂珠希泳装 [30P-388MB]",
+    "sourceUrl": "https://telegra.ph/贞子蜜桃---九月舰长-宮坂珠希泳装-30P-388MB-08-25",
+    "images": [
+        "https://telegra.ph/file/63cd829412dfba99541d5.jpg",
+        "https://telegra.ph/file/98ca3b648465670e501e4.jpg",
+        "https://telegra.ph/file/412863c64ebba8f639586.jpg",
+        "https://telegra.ph/file/85fb44f6bab5edb482ab2.jpg",
+        "https://telegra.ph/file/427b822506f990dad1e1f.jpg",
+        "https://telegra.ph/file/82a021f3519545cb8065f.jpg",
+        "https://telegra.ph/file/2fb2a8f450d4ab2529ddc.jpg",
+        "https://telegra.ph/file/fd8a4d60e9178d42d2206.jpg",
+        "https://telegra.ph/file/d1280b6f015484be8630e.jpg",
+        "https://telegra.ph/file/e4c941ae3961b2b157bb4.jpg",
+        "https://telegra.ph/file/07a0bd8992f9560611138.jpg",
+        "https://telegra.ph/file/cbc092c2e2d4a7ecae993.jpg",
+        "https://telegra.ph/file/3aae69c00af991e45b1a1.jpg",
+        "https://telegra.ph/file/845b6ab7530eb0d5e82a1.jpg",
+        "https://telegra.ph/file/427be527505972d5cbcd6.jpg",
+        "https://telegra.ph/file/12dcd27ac65a157d8951a.jpg",
+        "https://telegra.ph/file/7c49c33aaeb1d0a5d538d.jpg",
+        "https://telegra.ph/file/eb3b5b65c063b89ba75b3.jpg",
+        "https://telegra.ph/file/3443b4d972a2805a69be4.jpg",
+        "https://telegra.ph/file/023c554129689cf02feba.jpg",
+        "https://telegra.ph/file/8f7bbf1d19d8aff0e4a47.jpg",
+        "https://telegra.ph/file/2e48119277a95822cdf63.jpg",
+        "https://telegra.ph/file/b12ccdf6825a10309a055.jpg",
+        "https://telegra.ph/file/3acb6bbdd12ceeb8c8e8c.jpg",
+        "https://telegra.ph/file/cf37907b07f7918e45d42.jpg",
+        "https://telegra.ph/file/09e0a162ad0a76cdf17fd.jpg",
+        "https://telegra.ph/file/de25e611caf97c009ad9f.jpg",
+        "https://telegra.ph/file/81ca81a3e336776c426bb.jpg",
+        "https://telegra.ph/file/503b53c66065ea139b545.jpg",
+        "https://telegra.ph/file/53820fe243aad396d4774.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

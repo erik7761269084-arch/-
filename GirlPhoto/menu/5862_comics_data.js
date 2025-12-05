@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5862,
+    "title": "啾小妍 - 暗夜猫女",
+    "sourceUrl": "https://telegra.ph/福利COS-人气Coser啾小妍---暗夜猫女-08-26",
+    "images": [
+        "https://telegra.ph/file/e796b8e10f3cd4e31b5d5.jpg",
+        "https://telegra.ph/file/cef5a96a8e080b5c7ff4e.jpg",
+        "https://telegra.ph/file/34898a3a27ce47a0e36a7.jpg",
+        "https://telegra.ph/file/1dabb2a38a9dd96fc88a0.jpg",
+        "https://telegra.ph/file/e3854d15cd1e1cc72396a.jpg",
+        "https://telegra.ph/file/501cdceb0dc3e3d4657ad.jpg",
+        "https://telegra.ph/file/ae80d879d4f64f0494caf.jpg",
+        "https://telegra.ph/file/9606d995c921082059245.jpg",
+        "https://telegra.ph/file/babc904a02e69aa88a0f0.jpg",
+        "https://telegra.ph/file/da1f023774b363805e163.jpg",
+        "https://telegra.ph/file/696e4ed9c4d84ef8d8918.jpg",
+        "https://telegra.ph/file/b4f0db083d4e46d324fa3.jpg",
+        "https://telegra.ph/file/f5b1f11149d8305098242.jpg",
+        "https://telegra.ph/file/dbf4455fa985de4e87647.jpg",
+        "https://telegra.ph/file/1a84cf1245ad9bf16cae6.jpg",
+        "https://telegra.ph/file/e77817e1a5570476c0cb0.jpg",
+        "https://telegra.ph/file/844c855e6cbc19a8ad797.jpg",
+        "https://telegra.ph/file/2eb2c7f4e98215e61e2ea.jpg",
+        "https://telegra.ph/file/dcf29b044a2a8c85235cc.jpg",
+        "https://telegra.ph/file/6f59f8887b41666e53366.jpg",
+        "https://telegra.ph/file/1ccf9c5f40619b7262bd1.jpg",
+        "https://telegra.ph/file/fc6d752ee364f943c7095.jpg",
+        "https://telegra.ph/file/3e19523be435a4a6377bd.jpg",
+        "https://telegra.ph/file/97b134ff96d29084ba705.jpg",
+        "https://telegra.ph/file/8df5640a8d659bb7474a7.jpg",
+        "https://telegra.ph/file/bc622cb4938b3e7be9145.jpg",
+        "https://telegra.ph/file/0fe56ef714772d16ba978.jpg",
+        "https://telegra.ph/file/0c42ce0e5f668500656e2.jpg",
+        "https://telegra.ph/file/da8770a2a68806da3d98c.jpg",
+        "https://telegra.ph/file/c93538b47768029aa7cae.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

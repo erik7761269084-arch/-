@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8933,
+    "title": "日奈娇 阮梅",
+    "sourceUrl": "https://telegra.ph/日奈娇-阮梅-08-29",
+    "images": [
+        "https://telegra.ph/file/a0a8e75dee580814de209.jpg",
+        "https://telegra.ph/file/ec06ba74a9e782fdc6131.jpg",
+        "https://telegra.ph/file/6d4f241dc38086cfd0b03.jpg",
+        "https://telegra.ph/file/e62488b2de65b6591a0f5.jpg",
+        "https://telegra.ph/file/a634e74c4a526a6e143ab.jpg",
+        "https://telegra.ph/file/c92826b4bb51ab68de5b6.jpg",
+        "https://telegra.ph/file/07729233afd97884f4234.jpg",
+        "https://telegra.ph/file/f54d52279bc3dc97d144d.jpg",
+        "https://telegra.ph/file/d807574f46898e547c444.jpg",
+        "https://telegra.ph/file/dbf115ee257fc1fff6d67.jpg",
+        "https://telegra.ph/file/c53663bce98ac57256dcf.jpg",
+        "https://telegra.ph/file/9f6f94db32705fd06b1e0.jpg",
+        "https://telegra.ph/file/56f3e80472581fcf9a7cb.jpg",
+        "https://telegra.ph/file/3950d9d34869ac7be7514.jpg",
+        "https://telegra.ph/file/f8c06f7969a973d01fa36.jpg",
+        "https://telegra.ph/file/68cb804503750e3e7bc97.jpg",
+        "https://telegra.ph/file/abf5d080bc4fdd13487a8.jpg",
+        "https://telegra.ph/file/7efdaa2dc055aeea41319.jpg",
+        "https://telegra.ph/file/7e2eab422289854468a68.jpg",
+        "https://telegra.ph/file/f4fdef88f953f59e2a722.jpg",
+        "https://telegra.ph/file/7e3ed55c8bec9b05183d9.jpg",
+        "https://telegra.ph/file/5848ece09c1b278d44b70.jpg",
+        "https://telegra.ph/file/325923693b3d3bd37152c.jpg",
+        "https://telegra.ph/file/9b02b1fdceadf7bb2ff8f.jpg",
+        "https://telegra.ph/file/9fe164addec3d99c69de8.jpg",
+        "https://telegra.ph/file/7d163bb62dcd14141e0f9.jpg",
+        "https://telegra.ph/file/85296cc7e99a5900c2cf6.jpg",
+        "https://telegra.ph/file/69bfabc12e7499dcb9c3c.jpg",
+        "https://telegra.ph/file/9e73627ed1ead2543e5cb.jpg",
+        "https://telegra.ph/file/a695c690585b9b0920f08.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

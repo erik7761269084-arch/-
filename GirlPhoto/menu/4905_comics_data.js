@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 4905,
+    "title": "封疆疆v - 飞鸟马时竞泳",
+    "sourceUrl": "https://telegra.ph/封疆疆v---飞鸟马时竞泳-08-27",
+    "images": [
+        "https://telegra.ph/file/8940d7a2575896ed589d2.jpg",
+        "https://telegra.ph/file/a3a5ab235f7aef4fa91dd.jpg",
+        "https://telegra.ph/file/15476ad2b6f0ab7315738.jpg",
+        "https://telegra.ph/file/5f3dbe7dc213793b24be1.jpg",
+        "https://telegra.ph/file/164b31a084e225174b3ba.jpg",
+        "https://telegra.ph/file/6c58de9438f0038818b58.jpg",
+        "https://telegra.ph/file/062b4d4420807fabb85d4.jpg",
+        "https://telegra.ph/file/01c527b019ca20b4c4816.jpg",
+        "https://telegra.ph/file/753f17d1c1b344b2d1d27.jpg",
+        "https://telegra.ph/file/5d86ef231e102d344ca63.jpg",
+        "https://telegra.ph/file/da7b7c396f7b095c05b79.jpg",
+        "https://telegra.ph/file/c2bde66b4070ea23ff3fd.jpg",
+        "https://telegra.ph/file/0b4e8b6bfff10cf1f132f.jpg",
+        "https://telegra.ph/file/6bf91ed96c00cf580ca48.jpg",
+        "https://telegra.ph/file/9d87907ba3a4fd58d8fc4.jpg",
+        "https://telegra.ph/file/f9759b806242b5733c679.jpg",
+        "https://telegra.ph/file/2ac900dbad3135ba83b3d.jpg",
+        "https://telegra.ph/file/fd2041f7e576c34708084.jpg",
+        "https://telegra.ph/file/8cff722e8fb375eaec568.jpg",
+        "https://telegra.ph/file/5740bfac0e2be342a5aef.jpg",
+        "https://telegra.ph/file/672a8f8d98163e07db9af.jpg",
+        "https://telegra.ph/file/4a829201796f1ea1bc22b.jpg",
+        "https://telegra.ph/file/10c39ed91d567aad71ffe.jpg",
+        "https://telegra.ph/file/579d7722b7bede2c8785c.jpg",
+        "https://telegra.ph/file/b0328ae8fb151e120a1c8.jpg",
+        "https://telegra.ph/file/e8ec8edf8444f0d0fb155.jpg",
+        "https://telegra.ph/file/55f53f14b94352a3df8ff.jpg",
+        "https://telegra.ph/file/103952a303c7f6980568c.jpg",
+        "https://telegra.ph/file/f15a664da11b33737c1e7.jpg",
+        "https://telegra.ph/file/b413f0960ef51a72f0cb4.jpg",
+        "https://telegra.ph/file/9d14c69a49bd487325c47.jpg",
+        "https://telegra.ph/file/a273d0be3aed767bae7b7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

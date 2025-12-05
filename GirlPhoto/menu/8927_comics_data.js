@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8927,
+    "title": "日奈娇 芙莉莲",
+    "sourceUrl": "https://telegra.ph/日奈娇-芙莉莲-08-29",
+    "images": [
+        "https://telegra.ph/file/4af01f6c85738000ec70e.jpg",
+        "https://telegra.ph/file/01e80245de6bdb8a80a1d.jpg",
+        "https://telegra.ph/file/85c2c24144bd4025f2d23.jpg",
+        "https://telegra.ph/file/a710fbf60c3687befbc75.jpg",
+        "https://telegra.ph/file/e976eb80b797ef4e788a7.jpg",
+        "https://telegra.ph/file/be3e55c1a1497e7128143.jpg",
+        "https://telegra.ph/file/f25aa39426507d8fef3cc.jpg",
+        "https://telegra.ph/file/7c7bd62b88e054cbbc66c.jpg",
+        "https://telegra.ph/file/5b86b9d2cddeb174c2cdd.jpg",
+        "https://telegra.ph/file/1f768cc965592cffa50d5.jpg",
+        "https://telegra.ph/file/b39455140c3991a06500e.jpg",
+        "https://telegra.ph/file/925bf840df8c30acd380c.jpg",
+        "https://telegra.ph/file/eb41a86648f2121890c7b.jpg",
+        "https://telegra.ph/file/a39d8c27ddf73cc4af738.jpg",
+        "https://telegra.ph/file/39927190b4ed21632e787.jpg",
+        "https://telegra.ph/file/19734d985f409061a34a5.jpg",
+        "https://telegra.ph/file/3fada4f76a4aea901acc2.jpg",
+        "https://telegra.ph/file/c68f3dd324a87ef86386d.jpg",
+        "https://telegra.ph/file/9caa21c015bb9956f7556.jpg",
+        "https://telegra.ph/file/8aeb00503abeccdc87f69.jpg",
+        "https://telegra.ph/file/a6ca9c47d2e8d1f0db238.jpg",
+        "https://telegra.ph/file/cb67c3e376e07feb67cf1.jpg",
+        "https://telegra.ph/file/ace4d7743b2ae8d2b51ad.jpg",
+        "https://telegra.ph/file/56d6ec006bdb55761e21a.jpg",
+        "https://telegra.ph/file/fe748ed9f07d147d84800.jpg",
+        "https://telegra.ph/file/ac9a3b778e302ec08cea5.jpg",
+        "https://telegra.ph/file/e5cba409a6069b94176f2.jpg",
+        "https://telegra.ph/file/3780606fc18a2567aa91e.jpg",
+        "https://telegra.ph/file/b2c6fa98bb7e4f7c62b41.jpg",
+        "https://telegra.ph/file/857c9d610ceb71f4dbd42.jpg",
+        "https://telegra.ph/file/df1eb109d75a9d9a5d67a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

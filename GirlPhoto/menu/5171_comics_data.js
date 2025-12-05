@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5171,
+    "title": "瓜希酱 - NO.39 信浓 [30P-223MB]",
+    "sourceUrl": "https://telegra.ph/瓜希酱---NO39-信浓-30P-223MB-08-26",
+    "images": [
+        "https://telegra.ph/file/621511eb4ff137505b1ab.jpg",
+        "https://telegra.ph/file/b4910ac9e58ccd5a6e52d.jpg",
+        "https://telegra.ph/file/4f67c64503873a35c6cac.jpg",
+        "https://telegra.ph/file/ca54a2a2a13a6985e1278.jpg",
+        "https://telegra.ph/file/807e22fa17a79b588c7f1.jpg",
+        "https://telegra.ph/file/ab058336b8afa764ce5ca.jpg",
+        "https://telegra.ph/file/6e4bbdfe2a01eff872ced.jpg",
+        "https://telegra.ph/file/71605adaab1a06a6ab9a7.jpg",
+        "https://telegra.ph/file/88c2d550bf2fce3ea33a4.jpg",
+        "https://telegra.ph/file/cf6ce13000ca90a81aeb5.jpg",
+        "https://telegra.ph/file/e9c13ea3ca2f90b5c92de.jpg",
+        "https://telegra.ph/file/e9deb1b55a9842345baf6.jpg",
+        "https://telegra.ph/file/d826672990715f0ad9e49.jpg",
+        "https://telegra.ph/file/d35583c83fdc63e61e312.jpg",
+        "https://telegra.ph/file/4a62b315e6f8725f18c8f.jpg",
+        "https://telegra.ph/file/f5a211aa0fe41585a22f8.jpg",
+        "https://telegra.ph/file/2317d2abfe9bacd1dc172.jpg",
+        "https://telegra.ph/file/7b0e38945056593941857.jpg",
+        "https://telegra.ph/file/1b6f278243193d94830a9.jpg",
+        "https://telegra.ph/file/66692c31704bf1021fb60.jpg",
+        "https://telegra.ph/file/fe5d0cc912d11fbdfe0bc.jpg",
+        "https://telegra.ph/file/f88dee8542c6a7ec937c8.jpg",
+        "https://telegra.ph/file/ab78f83566b8bc4496c9c.jpg",
+        "https://telegra.ph/file/1bf992d178d4a6f50e922.jpg",
+        "https://telegra.ph/file/99f04e4bacf892c2e3632.jpg",
+        "https://telegra.ph/file/cd205748f0c551f58bf06.jpg",
+        "https://telegra.ph/file/683336f91862066e42d34.jpg",
+        "https://telegra.ph/file/e17694bfa38b5c2906897.jpg",
+        "https://telegra.ph/file/655e2cd4cd2e6ec21a45d.jpg",
+        "https://telegra.ph/file/1133b84283739c08e2f88.jpg",
+        "https://telegra.ph/file/0c503ca869050a9e6eca3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

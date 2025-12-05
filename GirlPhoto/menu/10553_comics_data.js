@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10553,
+    "title": "西园寺南歌 - 居家秘书",
+    "sourceUrl": "https://telegra.ph/西园寺南歌---居家秘书-08-28",
+    "images": [
+        "https://telegra.ph/file/cda1585202d0790685c77.jpg",
+        "https://telegra.ph/file/595ffcb9586650eb93598.jpg",
+        "https://telegra.ph/file/d341f26dc83be8214d1b1.jpg",
+        "https://telegra.ph/file/9f268ac464619860a8c98.jpg",
+        "https://telegra.ph/file/70a0c15c6cfa83f4a9568.jpg",
+        "https://telegra.ph/file/5abcffcc8a56dd042c905.jpg",
+        "https://telegra.ph/file/6a0c7a26c574ca3232440.jpg",
+        "https://telegra.ph/file/a1e3b44cb67cd08158342.jpg",
+        "https://telegra.ph/file/13ea2beea1c773a0b6e3a.jpg",
+        "https://telegra.ph/file/e66a405587aab9b0db459.jpg",
+        "https://telegra.ph/file/cbee8a49322aef56c54db.jpg",
+        "https://telegra.ph/file/c551324dcc335e6228a26.jpg",
+        "https://telegra.ph/file/2f01925a5adb4da71e4ed.jpg",
+        "https://telegra.ph/file/16ed2dd85b35ab3179e0d.jpg",
+        "https://telegra.ph/file/b52d7f988a1b4b013d839.jpg",
+        "https://telegra.ph/file/53ef6cebda0808980ea89.jpg",
+        "https://telegra.ph/file/2500f427250f55e3fdc7a.jpg",
+        "https://telegra.ph/file/57c96a7a0d0bf9e271cea.jpg",
+        "https://telegra.ph/file/705f02186f6420b8edd87.jpg",
+        "https://telegra.ph/file/738d9c5aca53e98ade356.jpg",
+        "https://telegra.ph/file/1ad430119413000dcf5fe.jpg",
+        "https://telegra.ph/file/36c5edb8692bb789a6c5c.jpg",
+        "https://telegra.ph/file/b29e60eaba35354c746e6.jpg",
+        "https://telegra.ph/file/8d451cd3974bcb0e8d908.jpg",
+        "https://telegra.ph/file/8ed611bb6a825eb65e2b8.jpg",
+        "https://telegra.ph/file/c22cbfbf5d561b477bb9f.jpg",
+        "https://telegra.ph/file/40d4aab9c3bcd4dddd02a.jpg",
+        "https://telegra.ph/file/75b3b6c8ccdd92cedc9e6.jpg",
+        "https://telegra.ph/file/d68229297bdc67198d4af.jpg",
+        "https://telegra.ph/file/701a593f32e2daeaa7eca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

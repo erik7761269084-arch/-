@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20353,
+    "title": "[Hidori Rose] Miko Kurokawa cosplay",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose-Miko-Kurokawa-cosplay-08-29",
+    "images": [
+        "https://telegra.ph/file/8baa531026d014833d76b.jpg",
+        "https://telegra.ph/file/471320ce4c2df7bd9a57f.jpg",
+        "https://telegra.ph/file/2265417fa1fe71dc42e9d.jpg",
+        "https://telegra.ph/file/cadf1f7596b6bd050606c.jpg",
+        "https://telegra.ph/file/8c7875b0cfc859857f53e.jpg",
+        "https://telegra.ph/file/970762b7713351559592b.jpg",
+        "https://telegra.ph/file/800864e644a02d1ac313e.jpg",
+        "https://telegra.ph/file/94cbcdbd80f6b26472410.jpg",
+        "https://telegra.ph/file/0541840858810d6d91382.jpg",
+        "https://telegra.ph/file/80250178c377fbd580ce5.jpg",
+        "https://telegra.ph/file/c9a431e6cb44f9af3f569.jpg",
+        "https://telegra.ph/file/5bec0c5135a97671f5344.jpg",
+        "https://telegra.ph/file/a07df3e2c9bbe1e3bbacc.jpg",
+        "https://telegra.ph/file/7fcfb1915678221624e28.jpg",
+        "https://telegra.ph/file/d7d9a1d452e37b213301d.jpg",
+        "https://telegra.ph/file/513e9c97088dc50b52216.jpg",
+        "https://telegra.ph/file/f0a3f4c231f73f414303a.jpg",
+        "https://telegra.ph/file/273675aea8a4fc1298872.jpg",
+        "https://telegra.ph/file/7450d4b5e1385cf8d01fe.jpg",
+        "https://telegra.ph/file/12cff08acbb11b2247403.jpg",
+        "https://telegra.ph/file/b4e76cc61ced64c7c06ed.jpg",
+        "https://telegra.ph/file/3c6e43235da8721f8db0d.jpg",
+        "https://telegra.ph/file/48f833a3e8ebf221e2601.jpg",
+        "https://telegra.ph/file/c8d33f21b54d13e1a68fd.jpg",
+        "https://telegra.ph/file/8e4734e14039b6af90118.jpg",
+        "https://telegra.ph/file/5279297a5554b153999f6.jpg",
+        "https://telegra.ph/file/99114aca69cd8274d4607.jpg",
+        "https://telegra.ph/file/f2d76822f404a58941066.jpg",
+        "https://telegra.ph/file/4f0474025db10fd835135.jpg",
+        "https://telegra.ph/file/f2d1ba2024a6cfe325929.jpg",
+        "https://telegra.ph/file/c6dbb7fab97eb2b1cd9e8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

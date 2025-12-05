@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 21577,
+    "title": "Lilynah – Mona Vol.1 - AI Maid",
+    "sourceUrl": "https://telegra.ph/Lilynah--Mona-Vol1---AI-Maid-08-29",
+    "images": [
+        "https://telegra.ph/file/7c6d9118354bbf9b68d8b.jpg",
+        "https://telegra.ph/file/cc09af41bb6435beb8108.jpg",
+        "https://telegra.ph/file/f8b9fedc44e02df619cc5.jpg",
+        "https://telegra.ph/file/2c2c05ecd594c12bee007.jpg",
+        "https://telegra.ph/file/41aeaef74a3aada2de718.jpg",
+        "https://telegra.ph/file/f590e1fea1ca1e648bf5d.jpg",
+        "https://telegra.ph/file/f5187f5654d899366c3f2.jpg",
+        "https://telegra.ph/file/1ae48d8c6c3a66f1fd081.jpg",
+        "https://telegra.ph/file/999ad24dfbcada5156227.jpg",
+        "https://telegra.ph/file/16aa773c56515ab81edef.jpg",
+        "https://telegra.ph/file/cf3a2c1b540a4ddf75372.jpg",
+        "https://telegra.ph/file/62ecea444b54164512e37.jpg",
+        "https://telegra.ph/file/161f712e3b0f28543010d.jpg",
+        "https://telegra.ph/file/82dba85a3029145cdbea8.jpg",
+        "https://telegra.ph/file/7baa4b8a8ba6a3444c415.jpg",
+        "https://telegra.ph/file/499ef413f57926ce6473a.jpg",
+        "https://telegra.ph/file/a8384a533eb778f0f169b.jpg",
+        "https://telegra.ph/file/1e7d29ee3916143e8ee43.jpg",
+        "https://telegra.ph/file/6c46ed87246e5d6c3dba7.jpg",
+        "https://telegra.ph/file/ce528573ebc385a392ed4.jpg",
+        "https://telegra.ph/file/2321300186761b927791a.jpg",
+        "https://telegra.ph/file/cd2b9b1ee8d78dc2ff48f.jpg",
+        "https://telegra.ph/file/372f56f8b22b8052ba63f.jpg",
+        "https://telegra.ph/file/8745a0c2c83143cc57189.jpg",
+        "https://telegra.ph/file/616014cc94b619c17134f.jpg",
+        "https://telegra.ph/file/8909ea61bf02d27c659a5.jpg",
+        "https://telegra.ph/file/1bf68eab2a335e47eb876.jpg",
+        "https://telegra.ph/file/615033e80c5de8b26f188.jpg",
+        "https://telegra.ph/file/bdad271e9322cfee82440.jpg",
+        "https://telegra.ph/file/db2928afcc88bc21ebcf2.jpg",
+        "https://telegra.ph/file/6620122d624f3316eeb2a.jpg",
+        "https://telegra.ph/file/d5af1b71e05ffe6126a81.jpg",
+        "https://telegra.ph/file/5f992689fb10e51e3cfdd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8432,
+    "title": "浅安安 居家 自摄",
+    "sourceUrl": "https://telegra.ph/浅安安-居家-自摄-08-25",
+    "images": [
+        "https://telegra.ph/file/18537bd54d66715ae2c63.jpg",
+        "https://telegra.ph/file/0fe7e41d92b4510c56762.jpg",
+        "https://telegra.ph/file/888981bc2f82d6b32d011.jpg",
+        "https://telegra.ph/file/01ae35c6dbbad65293d1e.jpg",
+        "https://telegra.ph/file/36c3676fccb5ad33c5ccc.jpg",
+        "https://telegra.ph/file/b5a03c5017b8fbb222adb.jpg",
+        "https://telegra.ph/file/c6a9ca1e3a722068cb7ce.jpg",
+        "https://telegra.ph/file/dbc353cd316db172e1a38.jpg",
+        "https://telegra.ph/file/e725e4307f8551992f1c0.jpg",
+        "https://telegra.ph/file/5643c56717eb797a2048c.jpg",
+        "https://telegra.ph/file/03748ab9857de0129d29f.jpg",
+        "https://telegra.ph/file/5428ae10c8663965a37bb.jpg",
+        "https://telegra.ph/file/a54166ae1b863c5545f5a.jpg",
+        "https://telegra.ph/file/289dc6b2ea3a214b0c286.jpg",
+        "https://telegra.ph/file/6b5238db0654ae7cab872.jpg",
+        "https://telegra.ph/file/dd6fd32ee5ead0c818b79.jpg",
+        "https://telegra.ph/file/dd4ca637b29092763af08.jpg",
+        "https://telegra.ph/file/77f0ac6de12531787937e.jpg",
+        "https://telegra.ph/file/e7675717a51226eed801d.jpg",
+        "https://telegra.ph/file/b87ff481dc7e9a41eda6a.jpg",
+        "https://telegra.ph/file/8af221c4f1c7b9df2a691.jpg",
+        "https://telegra.ph/file/dad9d2ea79f56cd6e109e.jpg",
+        "https://telegra.ph/file/7655d6e78302e04a1ac9b.jpg",
+        "https://telegra.ph/file/613c51b2d0d25d27b1f42.jpg",
+        "https://telegra.ph/file/3354614a170ae280a59d9.jpg",
+        "https://telegra.ph/file/d77399fe9da12fa9bbe07.jpg",
+        "https://telegra.ph/file/f0fef22ebf75153c810e1.jpg",
+        "https://telegra.ph/file/3047771ff8af84d3a2e3e.jpg",
+        "https://telegra.ph/file/8aa0e6f137a4990317879.jpg",
+        "https://telegra.ph/file/0cbde942f94a32d70bcb9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

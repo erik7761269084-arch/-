@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7643,
+    "title": "VOL.199  木绵绵  绵绵白T",
+    "sourceUrl": "https://telegra.ph/VOL199-木绵绵-绵绵白T-08-27",
+    "images": [
+        "https://telegra.ph/file/8a205bf438b9bac42e592.jpg",
+        "https://telegra.ph/file/d8918906d3147400ce7da.jpg",
+        "https://telegra.ph/file/865b16ac66c8ccd9fdc6c.jpg",
+        "https://telegra.ph/file/f6f9463f46b775c7f4c30.jpg",
+        "https://telegra.ph/file/c29a838583974c05ada85.jpg",
+        "https://telegra.ph/file/57c3ea850648f5c4868be.jpg",
+        "https://telegra.ph/file/3c63201d250d375aeb7c4.jpg",
+        "https://telegra.ph/file/fa81a062cedb92b1aa8a3.jpg",
+        "https://telegra.ph/file/2c77237090a9a2d62ac99.jpg",
+        "https://telegra.ph/file/5fde5df36834f1931b753.jpg",
+        "https://telegra.ph/file/a8f11bff02bde6f8bc4ab.jpg",
+        "https://telegra.ph/file/bf8109bd5150620c38e59.jpg",
+        "https://telegra.ph/file/f61e1f78e9683b68ca3e0.jpg",
+        "https://telegra.ph/file/edf1dceb2fcd00f6ae52d.jpg",
+        "https://telegra.ph/file/bfd17ecd375f8cf545658.jpg",
+        "https://telegra.ph/file/880838cb5a7520ee47cf2.jpg",
+        "https://telegra.ph/file/a4b2e8f7caa4e5c7d21c4.jpg",
+        "https://telegra.ph/file/46775cfe5622056dd1e80.jpg",
+        "https://telegra.ph/file/5276554635af4ff33bcac.jpg",
+        "https://telegra.ph/file/499caa704de0a7f4b39ae.jpg",
+        "https://telegra.ph/file/9ca03f96e020851e1f776.jpg",
+        "https://telegra.ph/file/18254542d893aeb078e95.jpg",
+        "https://telegra.ph/file/8713a1fe09aebf4bdc910.jpg",
+        "https://telegra.ph/file/2e5ee05a9bcbea78fa8c7.jpg",
+        "https://telegra.ph/file/15a72c9467a691c5ece9d.jpg",
+        "https://telegra.ph/file/6c0f3d54d62f5137b51bd.jpg",
+        "https://telegra.ph/file/774df3faf774131d57d7d.jpg",
+        "https://telegra.ph/file/b59d562f9795cbfd52cb1.jpg",
+        "https://telegra.ph/file/37487a1bacd8d66a3d79f.jpg",
+        "https://telegra.ph/file/292712d69a90fddd7190b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

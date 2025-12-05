@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 6993,
+    "title": "发条少女 迷之呆梨 2022-09-05 汗をかいた後、ヨガ服を脱ぐ [24P2V-61.08MB]",
+    "sourceUrl": "https://telegra.ph/%E5%8F%91%E6%9D%A1%E5%B0%91%E5%A5%B3-%E8%BF%B7%E4%B9%8B%E5%91%86%E6%A2%A8-2022-09-05-%E6%B1%97%E3%82%92%E3%81%8B%E3%81%84%E3%81%9F%E5%BE%8C%E3%83%A8%E3%82%AC%E6%9C%8D%E3%82%92%E8%84%B1%E3%81%90-24P2V-6108MB-08-25",
+    "images": [
+        "https://telegra.ph/file/c78932bd10a12e4ee214f.jpg",
+        "https://telegra.ph/file/7935da56c9342e805e893.jpg",
+        "https://telegra.ph/file/767a08ebcbb033dd7ec74.jpg",
+        "https://telegra.ph/file/3273504470b08ce7bd88e.jpg",
+        "https://telegra.ph/file/6f71c83f47fe591abd00a.jpg",
+        "https://telegra.ph/file/5622e2566c704c25953d1.jpg",
+        "https://telegra.ph/file/486d19800d5e5b72fddbe.jpg",
+        "https://telegra.ph/file/72820918d0c3b9ccfad28.jpg",
+        "https://telegra.ph/file/41d37f7d16c17270518ba.jpg",
+        "https://telegra.ph/file/c253aad139b70aec5e67b.jpg",
+        "https://telegra.ph/file/736e5b747abbb8b4f52b7.jpg",
+        "https://telegra.ph/file/adbe3de9a62b4a4676759.jpg",
+        "https://telegra.ph/file/f3cb27ce6e52db323627c.jpg",
+        "https://telegra.ph/file/7446cfd5cb563c62e42ef.jpg",
+        "https://telegra.ph/file/ce953b51b7d04a4db022c.jpg",
+        "https://telegra.ph/file/ed544d0d1328d02fba545.jpg",
+        "https://telegra.ph/file/a605ce3b31435d87c3a94.jpg",
+        "https://telegra.ph/file/14c0dbbc9cdba7dc3c49f.jpg",
+        "https://telegra.ph/file/0c7c4ce5235ab6fa567b6.jpg",
+        "https://telegra.ph/file/d458459f51a3098ea8bad.jpg",
+        "https://telegra.ph/file/5a3321d49304aca6203b0.jpg",
+        "https://telegra.ph/file/3f9d907281ffb2596eea6.jpg",
+        "https://telegra.ph/file/5d8b016bae1e0c697b4b3.jpg",
+        "https://telegra.ph/file/366bd197e4c34216644b8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

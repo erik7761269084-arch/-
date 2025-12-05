@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 1482,
+    "title": "NAGISA魔物喵 - 黑丝OL",
+    "sourceUrl": "https://telegra.ph/NAGISA魔物喵---黑丝OL-08-27",
+    "images": [
+        "https://telegra.ph/file/1647e053234bbfd541ce0.jpg",
+        "https://telegra.ph/file/e3e1b08df9155a2217420.jpg",
+        "https://telegra.ph/file/189971b3b31fc843aa555.jpg",
+        "https://telegra.ph/file/3dbcf4195d9c65f85e5b6.jpg",
+        "https://telegra.ph/file/2c52d39d4acd4a23e9ae5.jpg",
+        "https://telegra.ph/file/296e1d99e4378044696e2.jpg",
+        "https://telegra.ph/file/f74f95f84654ccc2a9467.jpg",
+        "https://telegra.ph/file/1ffb86c3a2b682abb916f.jpg",
+        "https://telegra.ph/file/3744294cef0d7eb563d67.jpg",
+        "https://telegra.ph/file/db65cb057a0216119a4f8.jpg",
+        "https://telegra.ph/file/5a94ce4930c950ad0d584.jpg",
+        "https://telegra.ph/file/6462dac26b06c6c9b9b05.jpg",
+        "https://telegra.ph/file/d711ed5de6d94176806fa.jpg",
+        "https://telegra.ph/file/b961c5214915ff0a90ff9.jpg",
+        "https://telegra.ph/file/d84fe06f22bbde0ca7c73.jpg",
+        "https://telegra.ph/file/e9402819f87ce65c0da9a.jpg",
+        "https://telegra.ph/file/e0066e5ed99babe03636d.jpg",
+        "https://telegra.ph/file/e1ed02d1527db12b2a02e.jpg",
+        "https://telegra.ph/file/b5d75842f2a65379f448e.jpg",
+        "https://telegra.ph/file/7453409fd8da463a40383.jpg",
+        "https://telegra.ph/file/8d6dd8ad20e2fc0cf7c5a.jpg",
+        "https://telegra.ph/file/d40d6ece7b537ea8cdf8a.jpg",
+        "https://telegra.ph/file/37985643a75e840cb50d0.jpg",
+        "https://telegra.ph/file/767586c0f49541200d017.jpg",
+        "https://telegra.ph/file/fe746c1d138818d355ee1.jpg",
+        "https://telegra.ph/file/3051f2aacd7ad3747f1b5.jpg",
+        "https://telegra.ph/file/24e923eef36252b4272ed.jpg",
+        "https://telegra.ph/file/1b8af82f87cbaebd6efa2.jpg",
+        "https://telegra.ph/file/8aea1a798f9ba0238e5e0.jpg",
+        "https://telegra.ph/file/460ea36a0e54d350bcb42.jpg",
+        "https://telegra.ph/file/21230b01508c50b487038.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

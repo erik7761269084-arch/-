@@ -1,0 +1,35 @@
+const comicData = {
+    "IDcode": 5620,
+    "title": "虎森森 金钱兔兔cosplay写真[NSFW]频道 https://t.me/douza",
+    "sourceUrl": "https://telegra.ph/虎森森-金钱兔兔cosplay写真NSFW频道-httpstmedouza-08-25",
+    "images": [
+        "https://telegra.ph/file/1228db67bfd8783d20f31.jpg",
+        "https://telegra.ph/file/1e805b8d02804e9e9554d.jpg",
+        "https://telegra.ph/file/5bdd3ff70e2a732ab996d.jpg",
+        "https://telegra.ph/file/801f5ac8fe878a0580518.jpg",
+        "https://telegra.ph/file/2404fa28edb37e71c86fa.jpg",
+        "https://telegra.ph/file/aa4fae36496b5f404e39a.jpg",
+        "https://telegra.ph/file/2b9bcaa9cafaf6e78e3fd.jpg",
+        "https://telegra.ph/file/0d6471a7303bd57dfd7e0.jpg",
+        "https://telegra.ph/file/ad1a6742b8be86eb7a100.jpg",
+        "https://telegra.ph/file/f25ef9795918a6eb1e09c.jpg",
+        "https://telegra.ph/file/a2f399d9b69fdbafa36df.jpg",
+        "https://telegra.ph/file/8fd4bffd65a88a1d981d8.jpg",
+        "https://telegra.ph/file/760b64cd5860fff1d93d5.jpg",
+        "https://telegra.ph/file/fbbbd0e10340f109e0f18.jpg",
+        "https://telegra.ph/file/87742e68be469de149267.jpg",
+        "https://telegra.ph/file/ab66a981b575f1f642a4a.jpg",
+        "https://telegra.ph/file/6c36e2674e2f030f15da2.jpg",
+        "https://telegra.ph/file/228daa02da27710de2c42.jpg",
+        "https://telegra.ph/file/fb330edf3716e6efdf9d8.jpg",
+        "https://telegra.ph/file/957d27f6281d713d7679e.jpg",
+        "https://telegra.ph/file/32c2c0123881d410dd3c8.jpg",
+        "https://telegra.ph/file/5a7c1a486a8c0fb31491f.jpg",
+        "https://telegra.ph/file/7210fa04d7cc9b04931f4.jpg",
+        "https://telegra.ph/file/672612377e4971e524243.jpg",
+        "https://telegra.ph/file/2b3f1d79b5381e59971e0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

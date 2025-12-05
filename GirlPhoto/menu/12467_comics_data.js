@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12467,
+    "title": "伊喵君_Nya 碧蓝航线 黎塞留泳装 [30P-263MB]",
+    "sourceUrl": "https://telegra.ph/伊喵君-Nya-碧蓝航线-黎塞留泳装-30P-263MB-08-25",
+    "images": [
+        "https://telegra.ph/file/083e17d1afedd496c2f11.jpg",
+        "https://telegra.ph/file/409f6cd20abb98adc9f47.jpg",
+        "https://telegra.ph/file/a3badc7d310fdbea368fe.jpg",
+        "https://telegra.ph/file/8eee588989ab50a8a3082.jpg",
+        "https://telegra.ph/file/12aadbf1ea4e122d195f0.jpg",
+        "https://telegra.ph/file/1efad423bb33652f6165f.jpg",
+        "https://telegra.ph/file/ae935ec2c5b9e1a234368.jpg",
+        "https://telegra.ph/file/2f7e358a4180fcf0bb391.jpg",
+        "https://telegra.ph/file/f4926b3070c0a80a338ea.jpg",
+        "https://telegra.ph/file/ad8dfbae83e8f89435833.jpg",
+        "https://telegra.ph/file/dfa318222e9e84c20562c.jpg",
+        "https://telegra.ph/file/89ca08b0f787c2d6989ee.jpg",
+        "https://telegra.ph/file/96780e859e4cd9e480a96.jpg",
+        "https://telegra.ph/file/2317600caea93b275aa2c.jpg",
+        "https://telegra.ph/file/f488f79b44b27db417ef3.jpg",
+        "https://telegra.ph/file/62c93568faa429db1505d.jpg",
+        "https://telegra.ph/file/cadcc33e6d23fe482254f.jpg",
+        "https://telegra.ph/file/0a6ede4baa14f0bb85d20.jpg",
+        "https://telegra.ph/file/0171f9fa5620b29195bae.jpg",
+        "https://telegra.ph/file/9a5cbf302f70c9db2ffd4.jpg",
+        "https://telegra.ph/file/19a437a88bf06276a8fbc.jpg",
+        "https://telegra.ph/file/d48f12df5824ab00ef2d9.jpg",
+        "https://telegra.ph/file/4cbff25115f0c9772320b.jpg",
+        "https://telegra.ph/file/f20f1369719c8dc6bf851.jpg",
+        "https://telegra.ph/file/22eb5cf23008ef7d52aa0.jpg",
+        "https://telegra.ph/file/0b9402db931d1d5b8b3e7.jpg",
+        "https://telegra.ph/file/af2f4f300366ae3ff1731.jpg",
+        "https://telegra.ph/file/a51a674a13fa47e03999e.jpg",
+        "https://telegra.ph/file/9e5a7aa7ddbd0798681a5.jpg",
+        "https://telegra.ph/file/8a2b6004377c2d3f4b817.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

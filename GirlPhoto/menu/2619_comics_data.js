@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 2619,
+    "title": "Uy Uy - Cyber Maid",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Cyber-Maid-08-27",
+    "images": [
+        "https://telegra.ph/file/254c2337a1fe66bcb0ea5.jpg",
+        "https://telegra.ph/file/011e5bdc3c4eec86d2ec9.jpg",
+        "https://telegra.ph/file/2b99df198c703ff0f3bff.jpg",
+        "https://telegra.ph/file/6a47a473bf5d45d9001d2.jpg",
+        "https://telegra.ph/file/db5679d09f74aed2664bd.jpg",
+        "https://telegra.ph/file/064b471619a081c456c7b.jpg",
+        "https://telegra.ph/file/73190878f79cdceae10e0.jpg",
+        "https://telegra.ph/file/7645e1b44d7b918d21ea2.jpg",
+        "https://telegra.ph/file/2b9ddfb276ebe3b686455.jpg",
+        "https://telegra.ph/file/2e6b28e7f3afa4c131469.jpg",
+        "https://telegra.ph/file/f1bd2e5fafd08bec8cf8d.jpg",
+        "https://telegra.ph/file/553a954756b55ee177edd.jpg",
+        "https://telegra.ph/file/040d0a82a3fb08638b357.jpg",
+        "https://telegra.ph/file/2251a0c4c0b9b7709beb6.jpg",
+        "https://telegra.ph/file/03c1fd77939bf3e9dc710.jpg",
+        "https://telegra.ph/file/ee0e596c0c89db8222698.jpg",
+        "https://telegra.ph/file/3d76ca093271043624611.jpg",
+        "https://telegra.ph/file/346d862f64f49d7cb26de.jpg",
+        "https://telegra.ph/file/37ec5a1807e46549ee343.jpg",
+        "https://telegra.ph/file/59e1786b64dd313214410.jpg",
+        "https://telegra.ph/file/076da1dfb6c18814d47e3.jpg",
+        "https://telegra.ph/file/efb518f4362a164fefce7.jpg",
+        "https://telegra.ph/file/a2b91aeb5c748f7aea5f8.jpg",
+        "https://telegra.ph/file/dc93c802a40a46f779d3b.jpg",
+        "https://telegra.ph/file/a1bafafc3dd974b7bad10.jpg",
+        "https://telegra.ph/file/e9dc938cb520155ba271a.jpg",
+        "https://telegra.ph/file/db3d8ce8babfe0c183a55.jpg",
+        "https://telegra.ph/file/35e3fbc8234606b547ee1.jpg",
+        "https://telegra.ph/file/25540abc50e74a81e480e.jpg",
+        "https://telegra.ph/file/34ce01008242dd19edb02.jpg",
+        "https://telegra.ph/file/952cfc86e6ccb4c674a29.jpg",
+        "https://telegra.ph/file/5ae0e98f03492a63a9780.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

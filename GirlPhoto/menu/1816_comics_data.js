@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 1816,
+    "title": "PoppaChan 鸣潮卡提西亚芙露德莉斯双人",
+    "sourceUrl": "https://telegra.ph/PoppaChan-%E9%B8%A3%E6%BD%AE%E5%8D%A1%E6%8F%90%E8%A5%BF%E4%BA%9A%E8%8A%99%E9%9C%B2%E5%BE%B7%E8%8E%89%E6%96%AF%E5%8F%8C%E4%BA%BA-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/08/06/1-10c337300aa9eb92d.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-2b0effdc4b3a7869f.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-303197bb8fe74ae95.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-4cefd15f1486be305.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-58e7c8cb53e8b9fb8.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-69053c9e46c69b37c.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-7176847487d6a33b4.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-84d70b98fccb16958.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-901217927e08032fb.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-10293b27c37782579d.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-11c8383b630a31e069.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-12.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-13.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-14.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-15.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-16.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-17.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-18.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-19.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-20.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-21.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-22.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-23.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-24.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-25.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-26.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-27.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-28.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-29.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-30.jpg",
+        "https://image.acg.lol/file/2025/08/06/1-31.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

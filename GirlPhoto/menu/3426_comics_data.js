@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3426,
+    "title": "抱走莫子aa 连体黑丝圣诞比基尼",
+    "sourceUrl": "https://telegra.ph/抱走莫子aa-连体黑丝圣诞比基尼-08-27",
+    "images": [
+        "https://telegra.ph/file/d9454602e2edcc9d625b5.jpg",
+        "https://telegra.ph/file/ee48bc19419ba72164891.jpg",
+        "https://telegra.ph/file/172ba70dc151926df3461.jpg",
+        "https://telegra.ph/file/58df29efdc09228e4eae9.jpg",
+        "https://telegra.ph/file/d426c9626cfcec88376e1.jpg",
+        "https://telegra.ph/file/9733c94ae5c5ac060c78c.jpg",
+        "https://telegra.ph/file/ee1a00c762bc737dd7735.jpg",
+        "https://telegra.ph/file/e3428bad547b2ebd3cba6.jpg",
+        "https://telegra.ph/file/75a7144d337a6b3ece0d0.jpg",
+        "https://telegra.ph/file/4926f8375fabc7c857c42.jpg",
+        "https://telegra.ph/file/1b8e44bb29857a48162fd.jpg",
+        "https://telegra.ph/file/f175e2a322ee7ed9d222d.jpg",
+        "https://telegra.ph/file/0ac42935fddd95675e8c6.jpg",
+        "https://telegra.ph/file/a779c026dceef139ae0e9.jpg",
+        "https://telegra.ph/file/b37efeea744d65bd3ce93.jpg",
+        "https://telegra.ph/file/89a8abda945589a5cf981.jpg",
+        "https://telegra.ph/file/03f53182a037c09d7cd26.jpg",
+        "https://telegra.ph/file/4df47cfa9afbc04215442.jpg",
+        "https://telegra.ph/file/4833c28735b173c512029.jpg",
+        "https://telegra.ph/file/b0bd028e60f4c1ecb75b4.jpg",
+        "https://telegra.ph/file/4d6e5734b74aea24e6b42.jpg",
+        "https://telegra.ph/file/1c10b66af12e8bec22524.jpg",
+        "https://telegra.ph/file/77a0da7813e37c476ccd9.jpg",
+        "https://telegra.ph/file/a1c60694cc7ee6adc30d5.jpg",
+        "https://telegra.ph/file/9b33630434473711a6e00.jpg",
+        "https://telegra.ph/file/b6889cff2fc1b0275de20.jpg",
+        "https://telegra.ph/file/ce084d4f86cc9dd20deaf.jpg",
+        "https://telegra.ph/file/68fccbe34259c3b3f14e6.jpg",
+        "https://telegra.ph/file/0d56e96c58376880efa14.jpg",
+        "https://telegra.ph/file/3e438df310cfb49395860.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

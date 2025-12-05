@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 20223,
+    "title": "Azami - NO.64 Ganyu",
+    "sourceUrl": "https://telegra.ph/Azami---NO64-Ganyu-08-29",
+    "images": [
+        "https://telegra.ph/file/5dd5e06811c381f58294b.jpg",
+        "https://telegra.ph/file/86cc440a0831ddc2de925.jpg",
+        "https://telegra.ph/file/76c14a69fb9c3d5d95c40.jpg",
+        "https://telegra.ph/file/3ab919b71fa8abfd8b384.jpg",
+        "https://telegra.ph/file/fd01e7f503d5dca1fd987.jpg",
+        "https://telegra.ph/file/6a2c0c6298ca1f16e4463.jpg",
+        "https://telegra.ph/file/486c18eefc53e396fb408.jpg",
+        "https://telegra.ph/file/b0d11c77b901cc8190d0a.jpg",
+        "https://telegra.ph/file/792a2dc324e20247aa297.jpg",
+        "https://telegra.ph/file/2f3a8a69151047f6bbe75.jpg",
+        "https://telegra.ph/file/802423b186ed77c2c34c0.jpg",
+        "https://telegra.ph/file/e519805e14bb2035b9d75.jpg",
+        "https://telegra.ph/file/a1b237f63b089daf05275.jpg",
+        "https://telegra.ph/file/883c93bdce9562bf6fd47.jpg",
+        "https://telegra.ph/file/7b8fe7a1234aee2896325.jpg",
+        "https://telegra.ph/file/dc46f5507b84754bca176.jpg",
+        "https://telegra.ph/file/ccf9b8c8474ccad86466c.jpg",
+        "https://telegra.ph/file/37430fb676c38ab534b34.jpg",
+        "https://telegra.ph/file/ede5b4207b438cca18155.jpg",
+        "https://telegra.ph/file/58c44a804451870b416fb.jpg",
+        "https://telegra.ph/file/ec8f9eeda3687f3f88b19.jpg",
+        "https://telegra.ph/file/6d088d32d62f7d2516d57.jpg",
+        "https://telegra.ph/file/78cc14e38bd360f2b141a.jpg",
+        "https://telegra.ph/file/489b41483dece7fe9c1dc.jpg",
+        "https://telegra.ph/file/ad6239e1b7a1653a9df40.jpg",
+        "https://telegra.ph/file/4aa9aca202c9baca2e063.jpg",
+        "https://telegra.ph/file/430e73d0f01a6fc696a7f.jpg",
+        "https://telegra.ph/file/eddfc792d6af51759e885.jpg",
+        "https://telegra.ph/file/7fcc94dc6bd787f5c53e6.jpg",
+        "https://telegra.ph/file/288233d9d138272ef3d20.jpg",
+        "https://telegra.ph/file/15fd235047884bf7e84f4.jpg",
+        "https://telegra.ph/file/fe1e886ccd28d6add7a35.jpg",
+        "https://telegra.ph/file/42b89f41b22e780f7aa56.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

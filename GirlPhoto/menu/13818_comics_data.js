@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13818,
+    "title": "稚乖画册 - 美少女清纯与风骚并存",
+    "sourceUrl": "https://telegra.ph/稚乖画册---美少女清纯与风骚并存-08-29",
+    "images": [
+        "https://telegra.ph/file/2325030ae2789c6764ddf.jpg",
+        "https://telegra.ph/file/b0963d11970d134442146.jpg",
+        "https://telegra.ph/file/94dca4cc654298a9bb95c.jpg",
+        "https://telegra.ph/file/76c659d8b17f314eaa9c3.jpg",
+        "https://telegra.ph/file/6d44c4b2287840633aa8d.jpg",
+        "https://telegra.ph/file/378ef7afe0c4dffc942ba.jpg",
+        "https://telegra.ph/file/44c24d585043a036fa53e.jpg",
+        "https://telegra.ph/file/26bfbe07a87eab168f92a.jpg",
+        "https://telegra.ph/file/ea33ed543b7991829dcc4.jpg",
+        "https://telegra.ph/file/67a93b3e2ff7da92ad838.jpg",
+        "https://telegra.ph/file/645c3b3462d0f55bbb026.jpg",
+        "https://telegra.ph/file/225e6a71841f750c5b360.jpg",
+        "https://telegra.ph/file/9b1744a987e9556843c2d.jpg",
+        "https://telegra.ph/file/6ebba628e11e9579840b4.jpg",
+        "https://telegra.ph/file/5c907283bd93acc784886.jpg",
+        "https://telegra.ph/file/2f1c76f05052b3849d55b.jpg",
+        "https://telegra.ph/file/1aa6433dcbe9305eb47da.jpg",
+        "https://telegra.ph/file/e128be925f82601ff3724.jpg",
+        "https://telegra.ph/file/23d77359ca4ddaf13a63a.jpg",
+        "https://telegra.ph/file/8c239414ecb33c99482b2.jpg",
+        "https://telegra.ph/file/6df8cf36e5b5cd5620f3c.jpg",
+        "https://telegra.ph/file/c04d2aade453826eaf9c9.jpg",
+        "https://telegra.ph/file/46388592af7c7bd43f66b.jpg",
+        "https://telegra.ph/file/ba8eb4ee2e139df5988fc.jpg",
+        "https://telegra.ph/file/c4eb89a384707856037dd.jpg",
+        "https://telegra.ph/file/b9e0c0f21bbab1031636c.jpg",
+        "https://telegra.ph/file/36f0fbdb9c4b596da6324.jpg",
+        "https://telegra.ph/file/d70171721a4302cbb7399.jpg",
+        "https://telegra.ph/file/c6f01759a35f4b5aecd1f.jpg",
+        "https://telegra.ph/file/665ac916fc219f2fc3c6e.jpg",
+        "https://telegra.ph/file/1990a905c1783466ef068.jpg",
+        "https://telegra.ph/file/435a094b64da57fde9405.jpg",
+        "https://telegra.ph/file/a88526cae9148856d0882.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

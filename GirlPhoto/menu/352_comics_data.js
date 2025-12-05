@@ -1,0 +1,35 @@
+const comicData = {
+    "IDcode": 352,
+    "title": "Byoru - Marin Kitagawa Bikini",
+    "sourceUrl": "https://telegra.ph/Byoru---Marin-Kitagawa-Bikini-08-26",
+    "images": [
+        "https://telegra.ph/file/70916bfc276eecd7ec1f6.jpg",
+        "https://telegra.ph/file/dd750b6e97a2183f14d3d.jpg",
+        "https://telegra.ph/file/310807153e899d5cb6195.jpg",
+        "https://telegra.ph/file/aada05847824747d30d6f.jpg",
+        "https://telegra.ph/file/c5d01eb27eed6d9ad83e1.jpg",
+        "https://telegra.ph/file/48fd84aa4642e902930e2.jpg",
+        "https://telegra.ph/file/7ac9352c967a11678d22c.jpg",
+        "https://telegra.ph/file/e65eb7113bb9a3b5c8d50.jpg",
+        "https://telegra.ph/file/3c9eb100902553997dae4.jpg",
+        "https://telegra.ph/file/6529f0b95a5ba78d34ec3.jpg",
+        "https://telegra.ph/file/391a25d3558ca82b0b772.jpg",
+        "https://telegra.ph/file/597d4649f0c5da03467b2.jpg",
+        "https://telegra.ph/file/924309828da0b48c23efc.jpg",
+        "https://telegra.ph/file/baef295d5c6e086db3de8.jpg",
+        "https://telegra.ph/file/674678084fc7db87e44e7.jpg",
+        "https://telegra.ph/file/35ee2003a63e44593f082.jpg",
+        "https://telegra.ph/file/f9d414a3ea9d308547743.jpg",
+        "https://telegra.ph/file/3100e0a81d4053d8101d0.jpg",
+        "https://telegra.ph/file/51bde1759b6a5760a90e4.jpg",
+        "https://telegra.ph/file/07e9369ccc537fbe76bae.jpg",
+        "https://telegra.ph/file/4fb017960ef4d5f141371.jpg",
+        "https://telegra.ph/file/41d643a889d8d0c0f5bd5.jpg",
+        "https://telegra.ph/file/c2bee19228b7b3b4d5541.jpg",
+        "https://telegra.ph/file/51bdd9d86d7c76fcdfa95.jpg",
+        "https://telegra.ph/file/bea251dd248fe1f5d6ff7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 4594,
+    "title": "渡边爻爻子 黑色蕾丝",
+    "sourceUrl": "https://telegra.ph/%E6%B8%A1%E8%BE%B9%E7%88%BB%E7%88%BB%E5%AD%90-%E9%BB%91%E8%89%B2%E8%95%BE%E4%B8%9D-08-22",
+    "images": [
+        "https://telegra.ph/file/f50e4528820c29d486d22.jpg",
+        "https://telegra.ph/file/b4c3c7893a27e66b11aa6.jpg",
+        "https://telegra.ph/file/34f948f81b25b1a046ed2.jpg",
+        "https://telegra.ph/file/82c850bb9a4b042891e80.jpg",
+        "https://telegra.ph/file/6f68cbdfad4db7e85e494.jpg",
+        "https://telegra.ph/file/54eae42ae81df9e1585b3.jpg",
+        "https://telegra.ph/file/bd07be2ee5b2ecc54b809.jpg",
+        "https://telegra.ph/file/0182957358dc344041d95.jpg",
+        "https://telegra.ph/file/32b5ecaa72020c9669181.jpg",
+        "https://telegra.ph/file/dd557b6bcaf8038fdd600.jpg",
+        "https://telegra.ph/file/8cadb4dd2fe671fd4a04b.jpg",
+        "https://telegra.ph/file/8866124dbbd68db1d29a5.jpg",
+        "https://telegra.ph/file/1dbd0fe1836a24dbbffb8.jpg",
+        "https://telegra.ph/file/b2757510d5dbc1b7b0cb7.jpg",
+        "https://telegra.ph/file/d5b00c1251de26caae3c2.jpg",
+        "https://telegra.ph/file/38645e3a42123eb93b1b6.jpg",
+        "https://telegra.ph/file/15f84d891026be1b98aba.jpg",
+        "https://telegra.ph/file/af64a25ef20d119c5a14c.jpg",
+        "https://telegra.ph/file/067b55caa32acaccd9c66.jpg",
+        "https://telegra.ph/file/bed39bfc4869278908dfc.jpg",
+        "https://telegra.ph/file/ed878356e38784f78848d.jpg",
+        "https://telegra.ph/file/0c4fa42dacd73b97dc7bb.jpg",
+        "https://telegra.ph/file/c7301f68cad3b8bc1b56c.jpg",
+        "https://telegra.ph/file/c8a23a233d14ff3e544b0.jpg",
+        "https://telegra.ph/file/d954b879585954cc1de93.jpg",
+        "https://telegra.ph/file/ced24f3d7aed7a9b8c115.jpg",
+        "https://telegra.ph/file/0a3ee0e36b45f7dedf5f9.jpg",
+        "https://telegra.ph/file/b5ac000368252fa5d46ab.jpg",
+        "https://telegra.ph/file/9f6d8b2e6ab5a1e8752b5.jpg",
+        "https://telegra.ph/file/8565c373e2ac9094d56a5.jpg",
+        "https://telegra.ph/file/39354b4eeb78976fd4eb1.jpg",
+        "https://telegra.ph/file/0205eafdb735ee27bb7cd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

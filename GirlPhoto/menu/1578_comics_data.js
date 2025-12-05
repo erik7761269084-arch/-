@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 1578,
+    "title": "Natsuko夏夏子 - 源赖光 僵尸同人 [51P-409MB]",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90---%E6%BA%90%E8%B5%96%E5%85%89-%E5%83%B5%E5%B0%B8%E5%90%8C%E4%BA%BA-51P-409MB-08-20",
+    "images": [
+        "https://image.acg.lol/file/2025/01/17/1-261b535f5a7e0d2c60.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-18d5c8dea781b733f.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-250e7e952023d151d.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-37031d0a01915f545.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-4a2768c60e8d6d6d2.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-52bdee25ee9ca9e6b.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-640520db8ecacc68f.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-756950dfda3d1d04f.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-8b0501d69944ea401.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-9cae8d3d380043650.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-104d79d5ac6a860607.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-11774badacd2db3a0e.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-12fb0ae9fe97e94185.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-1399bd2263125b9eb2.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-14b98ab8b1862f5cbb.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-151a3b318a02358a9d.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-3781467d4470c45dd1.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-3849e7b0b5d5cb0463.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-39128b172ace6dd002.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-409502c4e8dcfa5c7a.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-41ca523c1830eaf01b.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-42b6d20c8ebbb0b37a.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-431f820b45610d31a4.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-44afee2cb9e32c04e8.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-45f405be23dc90926d.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-462ec4434e8cd8906d.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-47307c3aef2636c4c0.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-48f40c18f49f9ff348.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-49420e4177043d72ae.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-50d06ac297d0a552ac.jpg",
+        "https://image.acg.lol/file/2025/01/17/1-51.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

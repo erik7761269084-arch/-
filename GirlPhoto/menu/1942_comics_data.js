@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 1942,
+    "title": "rioko凉凉子 人妻的一天 公司篇（9月5会员资源）",
+    "sourceUrl": "https://telegra.ph/rioko凉凉子-人妻的一天-公司篇9月5会员资源-08-25",
+    "images": [
+        "https://telegra.ph/file/4347d1cfc87e1da60286a.png",
+        "https://telegra.ph/file/7dda7941d44e06a73d16b.jpg",
+        "https://telegra.ph/file/b2543b3c0c785fa60adb0.jpg",
+        "https://telegra.ph/file/77fbad9bc46307b353939.jpg",
+        "https://telegra.ph/file/8a5089109e49bfa6f3b30.jpg",
+        "https://telegra.ph/file/af486855c02a82598ba89.jpg",
+        "https://telegra.ph/file/6a9161e3c4d2857d2bca3.jpg",
+        "https://telegra.ph/file/67d7434f87429d25d7ea7.jpg",
+        "https://telegra.ph/file/afd852a2412b6fd768750.jpg",
+        "https://telegra.ph/file/672e24d608c3a25e2b11c.jpg",
+        "https://telegra.ph/file/14dd662430128c99ba933.jpg",
+        "https://telegra.ph/file/2370498eabeacaf379a56.jpg",
+        "https://telegra.ph/file/12dc4be22270c7636ee0f.jpg",
+        "https://telegra.ph/file/84f672adab9e56fb236ba.jpg",
+        "https://telegra.ph/file/01bffd77494188d2a6fed.jpg",
+        "https://telegra.ph/file/93a7477c6f9a4b680414a.jpg",
+        "https://telegra.ph/file/9fac1dc108d9f0d3f63c8.jpg",
+        "https://telegra.ph/file/1b22f36ebb72408ba8aaf.jpg",
+        "https://telegra.ph/file/305d8494f2c1c91372756.jpg",
+        "https://telegra.ph/file/c1ec063480219b45da296.jpg",
+        "https://telegra.ph/file/92b596887c8b62f3370e9.jpg",
+        "https://telegra.ph/file/27b49425b8e71f4ebf7b9.jpg",
+        "https://telegra.ph/file/8e5f785b9be0fd46270ed.jpg",
+        "https://telegra.ph/file/0b1256cf7cb88c12301f6.jpg",
+        "https://telegra.ph/file/dbb369d32ad18085f43f8.jpg",
+        "https://telegra.ph/file/91fa9d0188ae14c4b5dc1.jpg",
+        "https://telegra.ph/file/466aaefdc84e3caa4165c.jpg",
+        "https://telegra.ph/file/10726672566c80b4c49d5.jpg",
+        "https://telegra.ph/file/bc3e2c0a03d0b5bf6ca5b.jpg",
+        "https://telegra.ph/file/df180877b247973cf184d.jpg",
+        "https://telegra.ph/file/d3205c37d3faca96143f5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

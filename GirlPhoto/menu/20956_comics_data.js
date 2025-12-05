@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20956,
+    "title": "제나 - June_ New works_ Pictorial newspaper",
+    "sourceUrl": "https://telegra.ph/제나---June-New-works-Pictorial-newspaper-08-29",
+    "images": [
+        "https://telegra.ph/file/eacf28dfc901340784fdf.jpg",
+        "https://telegra.ph/file/1ba80ddc005f7631ba5ee.jpg",
+        "https://telegra.ph/file/a7c49378fa718daecbc98.jpg",
+        "https://telegra.ph/file/25a9bf4c89fe632793f7a.jpg",
+        "https://telegra.ph/file/4032edf206634f40e2f1a.jpg",
+        "https://telegra.ph/file/74af2a034cc308ddd95f3.jpg",
+        "https://telegra.ph/file/c3c0eb0c368d57bd9e07c.jpg",
+        "https://telegra.ph/file/ecf427b189db8fa21faac.jpg",
+        "https://telegra.ph/file/56780706f5edc1f46f761.jpg",
+        "https://telegra.ph/file/51f0c9cf04749251df812.jpg",
+        "https://telegra.ph/file/dbfc2f70804fec124c4db.jpg",
+        "https://telegra.ph/file/3ba984a7d0ca9d3fc8eeb.jpg",
+        "https://telegra.ph/file/09948ed0172da9bcdab2a.jpg",
+        "https://telegra.ph/file/251db671db610aa4855f0.jpg",
+        "https://telegra.ph/file/fc86c7e33cd027b8dc770.jpg",
+        "https://telegra.ph/file/cb9edcf4cdcdf9fd77084.jpg",
+        "https://telegra.ph/file/452a1035c7084f4fbaece.jpg",
+        "https://telegra.ph/file/52b1e07996124d5adbaaa.jpg",
+        "https://telegra.ph/file/d9d5658e56c3c3bcb59aa.jpg",
+        "https://telegra.ph/file/ad0b900671afedcc9bed8.jpg",
+        "https://telegra.ph/file/3ecec4f40ca4342e51a00.jpg",
+        "https://telegra.ph/file/db4654698fc426eaeacd7.jpg",
+        "https://telegra.ph/file/ad22ea0a10f623c0e1c2d.jpg",
+        "https://telegra.ph/file/4e91c01ef29e8a43a28af.jpg",
+        "https://telegra.ph/file/08591409f025895f2efc2.jpg",
+        "https://telegra.ph/file/4292e12e1d8a738042ad1.jpg",
+        "https://telegra.ph/file/abce15d2f2c7c254b87c3.jpg",
+        "https://telegra.ph/file/f062256a97f9810e2f89a.jpg",
+        "https://telegra.ph/file/27c5fec8ba5ed5e63172e.jpg",
+        "https://telegra.ph/file/91f8c94d157c96380aea9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

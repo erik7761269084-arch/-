@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9345,
+    "title": "微肉感萌妹是本末末 - 竞泳水着",
+    "sourceUrl": "https://telegra.ph/微肉感萌妹是本末末---竞泳水着-08-28",
+    "images": [
+        "https://telegra.ph/file/3ad7b24e45704a9e13148.jpg",
+        "https://telegra.ph/file/d230c65674675623fd743.jpg",
+        "https://telegra.ph/file/a9c2219cd3ad1a9e23a03.jpg",
+        "https://telegra.ph/file/78da939f4f02e287a0ba7.jpg",
+        "https://telegra.ph/file/5368d1e7140e6e271bb76.jpg",
+        "https://telegra.ph/file/74dbd49fd2e145753e1c0.jpg",
+        "https://telegra.ph/file/154fd5986f66640afaed6.jpg",
+        "https://telegra.ph/file/c728137c82e5930b1eab5.jpg",
+        "https://telegra.ph/file/1c929faffbffdba8544d7.jpg",
+        "https://telegra.ph/file/c93def4e513e486e3f71a.jpg",
+        "https://telegra.ph/file/158d9af0e9c71ce54bddd.jpg",
+        "https://telegra.ph/file/707170807c98e458c3dc4.jpg",
+        "https://telegra.ph/file/8f5ca69e130ef76f8bc0c.jpg",
+        "https://telegra.ph/file/7fdc7dbc9aeb9c54e96f2.jpg",
+        "https://telegra.ph/file/5fc442312eae1c729fa99.jpg",
+        "https://telegra.ph/file/004540f8fcb7991fdf6ac.jpg",
+        "https://telegra.ph/file/3513e4d1c142f71b276a7.jpg",
+        "https://telegra.ph/file/85f70b7f4bf547bf23dbd.jpg",
+        "https://telegra.ph/file/2b16fa214d5e5888ae7a0.jpg",
+        "https://telegra.ph/file/e77d630a76d2d6fcd1f71.jpg",
+        "https://telegra.ph/file/381857853f43688ad92f7.jpg",
+        "https://telegra.ph/file/92eeb1a08f6afbb66b407.jpg",
+        "https://telegra.ph/file/c1a0ad9638f1fa063f3f5.jpg",
+        "https://telegra.ph/file/db0dc782ff7604a12718c.jpg",
+        "https://telegra.ph/file/0693402235e9e8f591e61.jpg",
+        "https://telegra.ph/file/d067d4a3e0067e4ddf476.jpg",
+        "https://telegra.ph/file/5e660da2c9c8a46b2a821.jpg",
+        "https://telegra.ph/file/9574815e4bc0bbf254d85.jpg",
+        "https://telegra.ph/file/4d21c553e808c5d3f64fa.jpg",
+        "https://telegra.ph/file/d8db0a638b98ad48294ae.jpg",
+        "https://telegra.ph/file/7e33d6ac64e2f22d0af13.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

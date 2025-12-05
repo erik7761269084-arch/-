@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12048,
+    "title": "眼酱大魔王w - 想喝可乐的OL",
+    "sourceUrl": "https://telegra.ph/眼酱大魔王w---想喝可乐的OL-08-29",
+    "images": [
+        "https://telegra.ph/file/ba64d09d114cd9b71dbe4.jpg",
+        "https://telegra.ph/file/92b079f6b5be3594ac72c.jpg",
+        "https://telegra.ph/file/71473819604eb3b4db281.jpg",
+        "https://telegra.ph/file/1c4ee5294f9562c111bd2.jpg",
+        "https://telegra.ph/file/f718da831c332ac17ed36.jpg",
+        "https://telegra.ph/file/22122462df9cd012da970.jpg",
+        "https://telegra.ph/file/18a0a3227c740d9e62ec6.jpg",
+        "https://telegra.ph/file/d41006039c92125a4b186.jpg",
+        "https://telegra.ph/file/b59e56e144a406f084ad9.jpg",
+        "https://telegra.ph/file/aef04f43dd7b288121fa7.jpg",
+        "https://telegra.ph/file/67d49ed63680d017b5bc3.jpg",
+        "https://telegra.ph/file/d7c04ee87911f3c30acc5.jpg",
+        "https://telegra.ph/file/9df21058558b4266d2124.jpg",
+        "https://telegra.ph/file/a23f41ba80cd907c1ef7f.jpg",
+        "https://telegra.ph/file/a28eb411cc206dbbd2122.jpg",
+        "https://telegra.ph/file/da3151734b0c125a380ef.jpg",
+        "https://telegra.ph/file/c08699000880d083bfc86.jpg",
+        "https://telegra.ph/file/83d69ea36e4aeaa9f0b59.jpg",
+        "https://telegra.ph/file/f91be7580a3fdbff4e4e7.jpg",
+        "https://telegra.ph/file/b7c152673f3eaead32e0f.jpg",
+        "https://telegra.ph/file/a5d472d8369f3a7fe773a.jpg",
+        "https://telegra.ph/file/b7dce0f0440fc2d1a08fe.jpg",
+        "https://telegra.ph/file/b2a882d1c4b52892bb1a0.jpg",
+        "https://telegra.ph/file/a7b268b752ad5edda4527.jpg",
+        "https://telegra.ph/file/72418834bb62ca323a94c.jpg",
+        "https://telegra.ph/file/dad51e099c9b661416da8.jpg",
+        "https://telegra.ph/file/01265d2a1bd162e8804a5.jpg",
+        "https://telegra.ph/file/e56c015baccbf861438b3.jpg",
+        "https://telegra.ph/file/cb2573cf12175913da8dd.jpg",
+        "https://telegra.ph/file/c86b3fef7063861bd075e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

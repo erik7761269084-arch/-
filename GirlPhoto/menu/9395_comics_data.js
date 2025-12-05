@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9395,
+    "title": "是三不是世w 喜多川海梦 紫发兔女郎",
+    "sourceUrl": "https://telegra.ph/是三不是世w-喜多川海梦-紫发兔女郎-08-29",
+    "images": [
+        "https://telegra.ph/file/f8816f7cf63315a57a116.jpg",
+        "https://telegra.ph/file/f2e66ed718109b193e6f4.jpg",
+        "https://telegra.ph/file/ebaded1c8ddb2c12ee2d4.jpg",
+        "https://telegra.ph/file/a635c7b18cb37e20b160d.jpg",
+        "https://telegra.ph/file/682fd70ede53efe06bf02.jpg",
+        "https://telegra.ph/file/afcce329c4df4f0bab111.jpg",
+        "https://telegra.ph/file/72ba1b5f829e4b7c6ce58.jpg",
+        "https://telegra.ph/file/90407ccb095ce12081812.jpg",
+        "https://telegra.ph/file/14721aaaa4ea8af7593ee.jpg",
+        "https://telegra.ph/file/feca2be66c42c29ba3a22.jpg",
+        "https://telegra.ph/file/ff2d4d244d11a68c3c15a.jpg",
+        "https://telegra.ph/file/eeae5d5ff3f562dcda199.jpg",
+        "https://telegra.ph/file/1cdb7269be49145d83477.jpg",
+        "https://telegra.ph/file/8055c53076cb74320b490.jpg",
+        "https://telegra.ph/file/be8555e7ae45f8f020f4e.jpg",
+        "https://telegra.ph/file/f16a8ddc6ed01dfd4cc78.jpg",
+        "https://telegra.ph/file/92f853facd9703108eee9.jpg",
+        "https://telegra.ph/file/e6285af4ca810e0bf1dd7.jpg",
+        "https://telegra.ph/file/88db371108621b6d356e1.jpg",
+        "https://telegra.ph/file/3a0916387e7cf247c3de4.jpg",
+        "https://telegra.ph/file/bf6946614b3b1c2f82078.jpg",
+        "https://telegra.ph/file/d63a50f38e91c9f15062c.jpg",
+        "https://telegra.ph/file/ce82bbc1dde96ff73a181.jpg",
+        "https://telegra.ph/file/9e520972c51158ad1aa9b.jpg",
+        "https://telegra.ph/file/2f1940c03ff799e7b01f8.jpg",
+        "https://telegra.ph/file/ac1b43b5eb895c97b9e95.jpg",
+        "https://telegra.ph/file/811215a9b8dddf2521107.jpg",
+        "https://telegra.ph/file/0b96ffdf96889003b0b80.jpg",
+        "https://telegra.ph/file/3303932ae7222d1fa5fbc.jpg",
+        "https://telegra.ph/file/82a21bea5910da335af36.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

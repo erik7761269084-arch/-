@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21597,
+    "title": "Hidori Rose - Cammy",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Cammy-08-29",
+    "images": [
+        "https://telegra.ph/file/01e1afd17bcfcedf27f7f.jpg",
+        "https://telegra.ph/file/fa3beaf1a795f9077f40f.jpg",
+        "https://telegra.ph/file/736f664be00348186cc85.jpg",
+        "https://telegra.ph/file/8a73358e68f19244d3a58.jpg",
+        "https://telegra.ph/file/e17278cf6a8ffb112c4b5.jpg",
+        "https://telegra.ph/file/a43b5af97d0c3aafe9184.jpg",
+        "https://telegra.ph/file/3b1008cb3a31a62cf7e65.jpg",
+        "https://telegra.ph/file/3a7fb8464c63c72199085.jpg",
+        "https://telegra.ph/file/2b63b606edad1a8a78d63.jpg",
+        "https://telegra.ph/file/f86e3666c7c9773ff24cc.jpg",
+        "https://telegra.ph/file/86d696a73cace4b55abc3.jpg",
+        "https://telegra.ph/file/015f433a66d6d3a94d2cd.jpg",
+        "https://telegra.ph/file/974346899aaba0d812706.jpg",
+        "https://telegra.ph/file/f9a5ca799d645fbaa46c2.jpg",
+        "https://telegra.ph/file/51a20256544c45c595f8c.jpg",
+        "https://telegra.ph/file/8da695b58fffa92ed02ba.jpg",
+        "https://telegra.ph/file/985de546e090f278fbfc0.jpg",
+        "https://telegra.ph/file/cdcb9261afce2dd6d040d.jpg",
+        "https://telegra.ph/file/b7c5921c7ca8daf7e4a40.jpg",
+        "https://telegra.ph/file/7d098b4b929727d0464a6.jpg",
+        "https://telegra.ph/file/fa7bf004b5e967e09365e.jpg",
+        "https://telegra.ph/file/c97d2c614e1b138c03081.jpg",
+        "https://telegra.ph/file/6204a5899f043f922226c.jpg",
+        "https://telegra.ph/file/79130240fde2394b89fbc.jpg",
+        "https://telegra.ph/file/30f0e12efd7600e7a1f14.jpg",
+        "https://telegra.ph/file/b9eb75fb58fef05d4d6ef.jpg",
+        "https://telegra.ph/file/c65dd24a468884489c473.jpg",
+        "https://telegra.ph/file/6f60ba8c14f835b53398e.jpg",
+        "https://telegra.ph/file/5927b1a545f1e82b21534.jpg",
+        "https://telegra.ph/file/4fd467dcb01f303bebbf9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

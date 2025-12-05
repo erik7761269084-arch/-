@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1972,
+    "title": "rioko凉凉子 - 兔女郎人妻 下班后",
+    "sourceUrl": "https://telegra.ph/COS福利rioko凉凉子---兔女郎人妻-下班后-08-27",
+    "images": [
+        "https://telegra.ph/file/272b9b8d3413baf9607b7.jpg",
+        "https://telegra.ph/file/e69226ae4d037e0471884.jpg",
+        "https://telegra.ph/file/dfd6332530a2d621e9b4c.jpg",
+        "https://telegra.ph/file/db516d7755cd61a1738cf.jpg",
+        "https://telegra.ph/file/d6976d82265b7cb9751be.jpg",
+        "https://telegra.ph/file/66b5fe8d1093a36a5b6b7.jpg",
+        "https://telegra.ph/file/fd52507a77faff3e01512.jpg",
+        "https://telegra.ph/file/e2bd0ed4093a29fea5fd1.jpg",
+        "https://telegra.ph/file/6ccc6bf70227c717b6a3d.jpg",
+        "https://telegra.ph/file/0372b771ea40a0179e6f3.jpg",
+        "https://telegra.ph/file/f99d923eda4147fb3ac6c.jpg",
+        "https://telegra.ph/file/0b5084db4ca3a93f9c6af.jpg",
+        "https://telegra.ph/file/56838198fc206872fb6e5.jpg",
+        "https://telegra.ph/file/300da0c5c70df4dba576d.jpg",
+        "https://telegra.ph/file/0a9252f43e6f91a6a022d.jpg",
+        "https://telegra.ph/file/f294741701cbb287ce6ce.jpg",
+        "https://telegra.ph/file/1faec8210208655c430d0.jpg",
+        "https://telegra.ph/file/5eb432770e0874bc0011e.jpg",
+        "https://telegra.ph/file/2a02ba24047c0877d53fe.jpg",
+        "https://telegra.ph/file/c60a8c714c360cf99a473.jpg",
+        "https://telegra.ph/file/2c175472ac8a6db624c0b.jpg",
+        "https://telegra.ph/file/bddd62a0627447e153ef0.jpg",
+        "https://telegra.ph/file/7cefed12a3ec9b0f696a0.jpg",
+        "https://telegra.ph/file/769fd148c72f225ec1547.jpg",
+        "https://telegra.ph/file/7f6ae92137b84d076786b.jpg",
+        "https://telegra.ph/file/e18b4c3cf2a992b3d477a.jpg",
+        "https://telegra.ph/file/b7ce4f4166f5c8e918f4c.jpg",
+        "https://telegra.ph/file/e3e84f7c3cf83069016da.jpg",
+        "https://telegra.ph/file/fbad0e9387a73cf4c5928.jpg",
+        "https://telegra.ph/file/2c251ef118145b0191559.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

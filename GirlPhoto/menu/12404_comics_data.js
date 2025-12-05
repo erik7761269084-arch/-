@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12404,
+    "title": "一小央泽 - 猫女泳衣",
+    "sourceUrl": "https://telegra.ph/一小央泽---猫女泳衣-08-30",
+    "images": [
+        "https://telegra.ph/file/b10856dd3ffc92d9e21dd.jpg",
+        "https://telegra.ph/file/b564bad97997673ffa0b1.jpg",
+        "https://telegra.ph/file/e1770f71f8c10a09b6712.jpg",
+        "https://telegra.ph/file/f167e99123fe97605d903.jpg",
+        "https://telegra.ph/file/0fc16792f4d883a9bcbb8.jpg",
+        "https://telegra.ph/file/934dfa4873064eaa6a068.jpg",
+        "https://telegra.ph/file/e1de19ee0df69cdb67969.jpg",
+        "https://telegra.ph/file/c37cf2cd577016408d320.jpg",
+        "https://telegra.ph/file/4f521fec6eb248e858633.jpg",
+        "https://telegra.ph/file/5bb06fd7f11e40f8f9730.jpg",
+        "https://telegra.ph/file/089861bbb23e7c35e688d.jpg",
+        "https://telegra.ph/file/43c6fd62a73cea919175e.jpg",
+        "https://telegra.ph/file/4ddd79eb562b4006eb39f.jpg",
+        "https://telegra.ph/file/df8668c7e300b5c863f98.jpg",
+        "https://telegra.ph/file/3cce20e29f22f5158a09b.jpg",
+        "https://telegra.ph/file/5740f77197ad01a93e397.jpg",
+        "https://telegra.ph/file/a7595b7e29d9cf3b0291e.jpg",
+        "https://telegra.ph/file/803c39d1b3e5f0ad290e6.jpg",
+        "https://telegra.ph/file/3c7a1d7b432fd7b859edf.jpg",
+        "https://telegra.ph/file/f8addb913221d3edb8f58.jpg",
+        "https://telegra.ph/file/1666169f034af4e3ebb52.jpg",
+        "https://telegra.ph/file/30f48519a61278c5c75b3.jpg",
+        "https://telegra.ph/file/be3f27075d6318ecc15a8.jpg",
+        "https://telegra.ph/file/2b1dff9846e0899d4edb2.jpg",
+        "https://telegra.ph/file/8057606f4ca4c2f443bc7.jpg",
+        "https://telegra.ph/file/9de06ae44c636c2dabb7a.jpg",
+        "https://telegra.ph/file/609e2ad08f8140db6b6e6.jpg",
+        "https://telegra.ph/file/b43de63a6b7eb541cbd84.jpg",
+        "https://telegra.ph/file/5201db24da25b9ad6901f.jpg",
+        "https://telegra.ph/file/01ce2e852a4426466520e.jpg",
+        "https://telegra.ph/file/2178c4d473b1ebf255548.jpg",
+        "https://telegra.ph/file/c68224c868feed8548d7f.jpg",
+        "https://telegra.ph/file/a9b402b0d2f5b64908806.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

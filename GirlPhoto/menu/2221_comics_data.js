@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2221,
+    "title": "VOL.144 小鹿鹿 死库水之温泉",
+    "sourceUrl": "https://telegra.ph/喵糖映画-VOL144-小鹿鹿-死库水之温泉-08-26",
+    "images": [
+        "https://telegra.ph/file/25f99f308cb15ed293215.jpg",
+        "https://telegra.ph/file/d18bffa790078347867f7.jpg",
+        "https://telegra.ph/file/ff09aeb13325ae6156809.jpg",
+        "https://telegra.ph/file/4a7b856fe5efe6eb2bb99.jpg",
+        "https://telegra.ph/file/b697e96dd9be206725f78.jpg",
+        "https://telegra.ph/file/26a27e13e00d8de3729d4.jpg",
+        "https://telegra.ph/file/f900a789ba914c626640c.jpg",
+        "https://telegra.ph/file/89b448ac266a7ce26290c.jpg",
+        "https://telegra.ph/file/9fb7eb88c6611135e31bf.jpg",
+        "https://telegra.ph/file/d1521532d58aeb30b6a82.jpg",
+        "https://telegra.ph/file/d04b84663539284a00ec1.jpg",
+        "https://telegra.ph/file/bb65888c703c878dede36.jpg",
+        "https://telegra.ph/file/1dc995d6c8212449a2f44.jpg",
+        "https://telegra.ph/file/a3900d798ed4cf5a01386.jpg",
+        "https://telegra.ph/file/509baf31e92dcdb926b20.jpg",
+        "https://telegra.ph/file/27a48d4948f07232e1245.jpg",
+        "https://telegra.ph/file/74f24a16027e1d2ca1951.jpg",
+        "https://telegra.ph/file/9fad7389f6cb193784960.jpg",
+        "https://telegra.ph/file/76c0df0a45a44985d4b13.jpg",
+        "https://telegra.ph/file/01dd24cf97153e50a3270.jpg",
+        "https://telegra.ph/file/aed3d3fe55162e5e6c283.jpg",
+        "https://telegra.ph/file/327f612bf971b5da790fc.jpg",
+        "https://telegra.ph/file/d89bd1995a21140c912ff.jpg",
+        "https://telegra.ph/file/ca24fcce9a8577809d320.jpg",
+        "https://telegra.ph/file/f334d188e70596de1c4bb.jpg",
+        "https://telegra.ph/file/ba6b1685aa9e1c97ef4a3.jpg",
+        "https://telegra.ph/file/28a46ddd74fe8fc9e902b.jpg",
+        "https://telegra.ph/file/71f716271cd11026efc1f.jpg",
+        "https://telegra.ph/file/ba151755899263a7af744.jpg",
+        "https://telegra.ph/file/4b6cb3bc66191d7571101.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

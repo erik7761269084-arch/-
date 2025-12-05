@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21149,
+    "title": "[ATFM] Tsubaki - Vol 38 Japanese bondage",
+    "sourceUrl": "https://telegra.ph/ATFM-Tsubaki---Vol-38-Japanese-bondage-08-29",
+    "images": [
+        "https://telegra.ph/file/67ee61787b93c64a42589.jpg",
+        "https://telegra.ph/file/ce587b60b10a1652698b7.jpg",
+        "https://telegra.ph/file/022e8e3f0ef5e4fc62d66.jpg",
+        "https://telegra.ph/file/cdb060a54cf9d53eaa5cc.jpg",
+        "https://telegra.ph/file/d6976bace8b3c605961ca.jpg",
+        "https://telegra.ph/file/e2f86bd1187b83256f8fc.jpg",
+        "https://telegra.ph/file/0329d5124b65c1dae80ce.jpg",
+        "https://telegra.ph/file/1085ac79017c37c48389e.jpg",
+        "https://telegra.ph/file/85322db1e5f12e562d6c5.jpg",
+        "https://telegra.ph/file/c46766fc64466b2eef82c.jpg",
+        "https://telegra.ph/file/255268b241d7be985bda9.jpg",
+        "https://telegra.ph/file/a369b1441acf9f8a89bf4.jpg",
+        "https://telegra.ph/file/710e45fd4180abde5a597.jpg",
+        "https://telegra.ph/file/603166b2fb17f519cc612.jpg",
+        "https://telegra.ph/file/fd291997ca159f91506ea.jpg",
+        "https://telegra.ph/file/ea025fd1fb6683d601c82.jpg",
+        "https://telegra.ph/file/3109e2de76e2a69ed3cf6.jpg",
+        "https://telegra.ph/file/2a126b314c26261d1a401.jpg",
+        "https://telegra.ph/file/61da1bc494b970c11a1af.jpg",
+        "https://telegra.ph/file/10a0792abe9aeee72e1f8.jpg",
+        "https://telegra.ph/file/31a5c81f53c4b8080ba59.jpg",
+        "https://telegra.ph/file/d46520237f509e59eee94.jpg",
+        "https://telegra.ph/file/ae83e465ced56c82a3672.jpg",
+        "https://telegra.ph/file/dc1e4e6f827cd4bed4f87.jpg",
+        "https://telegra.ph/file/6183a84b4f870c7147eb8.jpg",
+        "https://telegra.ph/file/02c93d89db245baa43c28.jpg",
+        "https://telegra.ph/file/93aa506b7cdcd9af7f82c.jpg",
+        "https://telegra.ph/file/75927be2ebbb8fc6c0c8a.jpg",
+        "https://telegra.ph/file/eb8735698e74ecb0e0d38.jpg",
+        "https://telegra.ph/file/01257b60c475c34cb571f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

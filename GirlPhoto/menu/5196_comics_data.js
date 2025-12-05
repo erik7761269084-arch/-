@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5196,
+    "title": "瓜希酱 - 天城",
+    "sourceUrl": "https://telegra.ph/Coser瓜希酱福利---天城-08-27",
+    "images": [
+        "https://telegra.ph/file/afb760a4feb2bb04ec92d.jpg",
+        "https://telegra.ph/file/ce69eea54c2e1821abb29.jpg",
+        "https://telegra.ph/file/8c96fc119663b2061239a.jpg",
+        "https://telegra.ph/file/b6597b99a02c6e7556221.jpg",
+        "https://telegra.ph/file/27f75a3c8ef6dc9e37509.jpg",
+        "https://telegra.ph/file/5fee0633b5e1645b074cf.jpg",
+        "https://telegra.ph/file/9e7024d0c81df281860bd.jpg",
+        "https://telegra.ph/file/e580839834d5fa8de4aa7.jpg",
+        "https://telegra.ph/file/7a7c0bd73d74a4d3496cd.jpg",
+        "https://telegra.ph/file/c59f599f8f227c5599f6d.jpg",
+        "https://telegra.ph/file/8973fa02de1abf7589a22.jpg",
+        "https://telegra.ph/file/109e853c1cfe05d8a0a2a.jpg",
+        "https://telegra.ph/file/8e88a2482b577dc9f23bf.jpg",
+        "https://telegra.ph/file/e555d8879e73abec2624a.jpg",
+        "https://telegra.ph/file/78af3507eae3873992bc4.jpg",
+        "https://telegra.ph/file/17d5bdb5701388f4c9b62.jpg",
+        "https://telegra.ph/file/b693580cde04b0be14ef6.jpg",
+        "https://telegra.ph/file/28db41e0ac1cbb74cdc05.jpg",
+        "https://telegra.ph/file/6dd2fbe6674fb3e88bc3f.jpg",
+        "https://telegra.ph/file/b45dd996927eed3aa7475.jpg",
+        "https://telegra.ph/file/582c8345a29d1e778ac88.jpg",
+        "https://telegra.ph/file/ab1b6d7ea32695f839e53.jpg",
+        "https://telegra.ph/file/7d11f30582b03bcf99160.jpg",
+        "https://telegra.ph/file/09906be5afab478370170.jpg",
+        "https://telegra.ph/file/885b32fcd9a07912de5b4.jpg",
+        "https://telegra.ph/file/83b31a75e8df0532d798c.jpg",
+        "https://telegra.ph/file/53ea97a1ea56712ffb2fa.jpg",
+        "https://telegra.ph/file/230261375b01e3fb39026.jpg",
+        "https://telegra.ph/file/743d7692f93c42e793fa5.jpg",
+        "https://telegra.ph/file/6ebe9df90a9c016e0f945.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

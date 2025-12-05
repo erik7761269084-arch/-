@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3374,
+    "title": "半半子 爱宕花嫁",
+    "sourceUrl": "https://telegra.ph/半半子-爱宕花嫁-08-27",
+    "images": [
+        "https://telegra.ph/file/b0f6a7a2d02301b853cd0.jpg",
+        "https://telegra.ph/file/c5a1edaafbd57bf8af577.jpg",
+        "https://telegra.ph/file/43a49ff53d9d4b4d618e6.jpg",
+        "https://telegra.ph/file/0f1c5fa4d9d4e27cd7b7e.jpg",
+        "https://telegra.ph/file/32122f0708b7650973209.jpg",
+        "https://telegra.ph/file/7ab413bf16040972cc1d1.jpg",
+        "https://telegra.ph/file/473c81615def55dfe1976.jpg",
+        "https://telegra.ph/file/4b379da2e2b769fe3819f.jpg",
+        "https://telegra.ph/file/2110c0cd369e7afbd0478.jpg",
+        "https://telegra.ph/file/71acc0d86a86148b52f03.jpg",
+        "https://telegra.ph/file/0a78172283306f8b6e509.jpg",
+        "https://telegra.ph/file/79791aefe9c02e44d0ea7.jpg",
+        "https://telegra.ph/file/28f8369aa77c3a4b45a82.jpg",
+        "https://telegra.ph/file/aa7cb919973d409cd132d.jpg",
+        "https://telegra.ph/file/144377679a3547bfd582f.jpg",
+        "https://telegra.ph/file/cb56116eda882a3e106b7.jpg",
+        "https://telegra.ph/file/4012d7ad38946e97862d5.jpg",
+        "https://telegra.ph/file/885cab172057263742af4.jpg",
+        "https://telegra.ph/file/45617b5dfc7a151090422.jpg",
+        "https://telegra.ph/file/df3aff01470e225b236b5.jpg",
+        "https://telegra.ph/file/0da045fdf21caadbf7a36.jpg",
+        "https://telegra.ph/file/4705b3257531c1e68c352.jpg",
+        "https://telegra.ph/file/8f4fdb839a8286a111251.jpg",
+        "https://telegra.ph/file/4da6ab43f8119cf61f3e0.jpg",
+        "https://telegra.ph/file/e89ac5cbf6b3f457a406c.jpg",
+        "https://telegra.ph/file/6653f424bffd9da891992.jpg",
+        "https://telegra.ph/file/925846f1a928c947f4285.jpg",
+        "https://telegra.ph/file/e93402c0d8d30531b20bd.jpg",
+        "https://telegra.ph/file/a4a4f9732e1c87f66660d.jpg",
+        "https://telegra.ph/file/4b858ca73d8dd7d6bd22a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

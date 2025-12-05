@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 721,
+    "title": "ElyEE子 2 Higanbana [33P-172MB]",
+    "sourceUrl": "https://telegra.ph/2-Higanbana-33P-172MB-08-26",
+    "images": [
+        "https://telegra.ph/file/e2310f9adf15900136f0e.jpg",
+        "https://telegra.ph/file/6a8fd59786e21b4d5b7bd.jpg",
+        "https://telegra.ph/file/dca04e5b15225d73c322e.jpg",
+        "https://telegra.ph/file/2dcd850c0cd6943523136.jpg",
+        "https://telegra.ph/file/31b4e8a01c9dd930ff963.jpg",
+        "https://telegra.ph/file/28feaba476433f64c5c68.jpg",
+        "https://telegra.ph/file/17ef07348f74981487b6a.jpg",
+        "https://telegra.ph/file/e944425473361835ca52b.jpg",
+        "https://telegra.ph/file/1b764e713a30c3d812dfd.jpg",
+        "https://telegra.ph/file/4f08c4386672b979aacc3.jpg",
+        "https://telegra.ph/file/ee5a8c61f2250b2a09989.jpg",
+        "https://telegra.ph/file/5d1ce567c25e1a1d637c8.jpg",
+        "https://telegra.ph/file/9845eb7da0bc2a9122d2f.jpg",
+        "https://telegra.ph/file/510a0ef698e49ff176981.jpg",
+        "https://telegra.ph/file/92bfde3a7560824743e7f.jpg",
+        "https://telegra.ph/file/43ec6567f9ad8b2530901.jpg",
+        "https://telegra.ph/file/1a03afd96257e73fd1bc9.jpg",
+        "https://telegra.ph/file/5b23c576c5e0c96980c07.jpg",
+        "https://telegra.ph/file/42057047dbf8d0df95d80.jpg",
+        "https://telegra.ph/file/bc2769f241d2190f65e46.jpg",
+        "https://telegra.ph/file/15e807dfef41b64965e15.jpg",
+        "https://telegra.ph/file/16f72066d53784d0d04e5.jpg",
+        "https://telegra.ph/file/1ba0cc0f6b05f78cb6f6d.jpg",
+        "https://telegra.ph/file/bab4f07aace4bf5e1cf8e.jpg",
+        "https://telegra.ph/file/a68b518e7a9595ec3436b.jpg",
+        "https://telegra.ph/file/028aa93151e496ce4e4f9.jpg",
+        "https://telegra.ph/file/1f503c8caa6d6112c63e0.jpg",
+        "https://telegra.ph/file/9bb7e80e9bc4539487434.jpg",
+        "https://telegra.ph/file/be11e5d12c947d7ed5168.jpg",
+        "https://telegra.ph/file/f35468f2beb5b79e09742.jpg",
+        "https://telegra.ph/file/1920d646c54ff5e278601.jpg",
+        "https://telegra.ph/file/a7140a0c1159758c4f455.jpg",
+        "https://telegra.ph/file/5dea936344bb8b5322207.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

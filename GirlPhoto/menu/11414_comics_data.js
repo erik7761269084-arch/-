@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11414,
+    "title": "星之迟迟 - 鸣夏 黑太子",
+    "sourceUrl": "https://telegra.ph/星之迟迟---鸣夏-黑太子-08-27",
+    "images": [
+        "https://telegra.ph/file/079f66571a82019c0df28.jpg",
+        "https://telegra.ph/file/602c00d742f4a4aa82960.jpg",
+        "https://telegra.ph/file/3e192859cadc847be1c1c.jpg",
+        "https://telegra.ph/file/1a94e7e86d137c7991fee.jpg",
+        "https://telegra.ph/file/8224bb6f4b113ba32a1d4.jpg",
+        "https://telegra.ph/file/97cc6655b4b9d85d4c88f.jpg",
+        "https://telegra.ph/file/9a7935d045faa066782e2.jpg",
+        "https://telegra.ph/file/11599f1406c4600e5d76f.jpg",
+        "https://telegra.ph/file/6ed79a8622408ef64e65f.jpg",
+        "https://telegra.ph/file/42235e48a9f57a3c9281b.jpg",
+        "https://telegra.ph/file/f2bc2ee14f9fd141e922a.jpg",
+        "https://telegra.ph/file/4e65ee35bb3a8461e1020.jpg",
+        "https://telegra.ph/file/45f00fcb7a021f27a5744.jpg",
+        "https://telegra.ph/file/a5ad17b1fa38c98e0b222.jpg",
+        "https://telegra.ph/file/c449a7d37346b31cebf4e.jpg",
+        "https://telegra.ph/file/2e51714f26c2ce88658a2.jpg",
+        "https://telegra.ph/file/4efe51cd073d32479a7cb.jpg",
+        "https://telegra.ph/file/baad905a3721d29014922.jpg",
+        "https://telegra.ph/file/b8536813f8509e417158f.jpg",
+        "https://telegra.ph/file/3e1436f3c98b4f29ee808.jpg",
+        "https://telegra.ph/file/5bcfd2606d0c20f482d6d.jpg",
+        "https://telegra.ph/file/56384daa3a24095d4a2f2.jpg",
+        "https://telegra.ph/file/a273fd8acb8cc7df3492a.jpg",
+        "https://telegra.ph/file/6055392b87e4676423a8f.jpg",
+        "https://telegra.ph/file/be09a5e342bd612c37418.jpg",
+        "https://telegra.ph/file/78e0515bdd274318196fc.jpg",
+        "https://telegra.ph/file/1a498c25f29de2130f673.jpg",
+        "https://telegra.ph/file/35c1398ab086ebbdf7da7.jpg",
+        "https://telegra.ph/file/b65e95fdeb0b3ac6a6477.jpg",
+        "https://telegra.ph/file/85accf2f20ff8087aeffa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,36 @@
+const comicData = {
+    "IDcode": 10094,
+    "title": "王胖胖u - VOL.02 Dva比基尼 [26P-428MB]",
+    "sourceUrl": "https://telegra.ph/王胖胖u---VOL02-Dva比基尼-26P-428MB-08-26",
+    "images": [
+        "https://telegra.ph/file/167dca32d0bfb8e866d0b.jpg",
+        "https://telegra.ph/file/dfce601d92df9fd7a710b.jpg",
+        "https://telegra.ph/file/6f244eef00722dba3d9df.jpg",
+        "https://telegra.ph/file/b1c5dcce41b0ddc0f492b.jpg",
+        "https://telegra.ph/file/7730514c145b35a3a772b.jpg",
+        "https://telegra.ph/file/1b9ff49498a9fb614215c.jpg",
+        "https://telegra.ph/file/c7eeea5f66444cde63300.jpg",
+        "https://telegra.ph/file/0d07382e498c97ea7a053.jpg",
+        "https://telegra.ph/file/1e4dc476477c6b5d3bbbb.jpg",
+        "https://telegra.ph/file/a3c007227d65ffb84adb0.jpg",
+        "https://telegra.ph/file/b6c1dab4711a16945d087.jpg",
+        "https://telegra.ph/file/a380ed062ded36d6760da.jpg",
+        "https://telegra.ph/file/d2cbb3e43ad72504a6c45.jpg",
+        "https://telegra.ph/file/68f1569e00f0a612cbd46.jpg",
+        "https://telegra.ph/file/938958816592a2323fe5d.jpg",
+        "https://telegra.ph/file/7920083821bd282ed04c5.jpg",
+        "https://telegra.ph/file/0de5ac5be689cfb6c3e3e.jpg",
+        "https://telegra.ph/file/a8112953383ca94042f78.jpg",
+        "https://telegra.ph/file/0a76c9c133f882fd651e2.jpg",
+        "https://telegra.ph/file/223302e4ae578b6c1449b.jpg",
+        "https://telegra.ph/file/a01b5cf32b7cac16b7508.jpg",
+        "https://telegra.ph/file/52e01a503070059127684.jpg",
+        "https://telegra.ph/file/20d26ac4fbec05a01494e.jpg",
+        "https://telegra.ph/file/4659a06e9530419dcef59.jpg",
+        "https://telegra.ph/file/4a34a70963bd7a72dead8.jpg",
+        "https://telegra.ph/file/9a33c5a06eaad7f6160fc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

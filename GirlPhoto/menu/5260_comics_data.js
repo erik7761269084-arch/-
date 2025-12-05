@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5260,
+    "title": "白嫩美少女鬼畜瑶 - 情趣红肚兜",
+    "sourceUrl": "https://telegra.ph/白嫩美少女鬼畜瑶---情趣红肚兜-08-27",
+    "images": [
+        "https://telegra.ph/file/b0b0dee57cb2b57657661.jpg",
+        "https://telegra.ph/file/fec30e1eb66859eb8ad5b.jpg",
+        "https://telegra.ph/file/34cb043e57d8e4fbee5c4.jpg",
+        "https://telegra.ph/file/1fccbe9ed24d7496d80db.jpg",
+        "https://telegra.ph/file/cd799720cbfded3657376.jpg",
+        "https://telegra.ph/file/99b5e977f14f39d6593a7.jpg",
+        "https://telegra.ph/file/fc7c221116c9bd93f508c.jpg",
+        "https://telegra.ph/file/72ba8a96de5d62c75883c.jpg",
+        "https://telegra.ph/file/95f949c20066bc91b0688.jpg",
+        "https://telegra.ph/file/46f041501340fe91c1b87.jpg",
+        "https://telegra.ph/file/5424a7d524f21540335cf.jpg",
+        "https://telegra.ph/file/6e642801b5163cfe24ecb.jpg",
+        "https://telegra.ph/file/e8728e68cc5166afb40d6.jpg",
+        "https://telegra.ph/file/dbc6b1dbddf44fcc392ab.jpg",
+        "https://telegra.ph/file/c7a44ae29201bd700d6eb.jpg",
+        "https://telegra.ph/file/2ae0a7958906da3f5af05.jpg",
+        "https://telegra.ph/file/3396b0b862185272a3982.jpg",
+        "https://telegra.ph/file/158222585782e6ae2529f.jpg",
+        "https://telegra.ph/file/2eb518fa00b5caab27fad.jpg",
+        "https://telegra.ph/file/ec7c521c0defb43076598.jpg",
+        "https://telegra.ph/file/7ca39784dff5a68ac7c54.jpg",
+        "https://telegra.ph/file/c6f825b41ec2f9e50b7b5.jpg",
+        "https://telegra.ph/file/743c3662386476427c8a6.jpg",
+        "https://telegra.ph/file/d6c30d94f217d0ff298fb.jpg",
+        "https://telegra.ph/file/0db680bac66768aed3b2c.jpg",
+        "https://telegra.ph/file/b846684366691c44569c7.jpg",
+        "https://telegra.ph/file/a06dcee49efc5fee0e820.jpg",
+        "https://telegra.ph/file/0bc8d7e121ccad88b0e93.jpg",
+        "https://telegra.ph/file/af94a2a085aa4e6b020e5.jpg",
+        "https://telegra.ph/file/b3ce76a415d5bd3653493.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

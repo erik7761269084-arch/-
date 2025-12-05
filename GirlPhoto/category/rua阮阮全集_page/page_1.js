@@ -1,0 +1,165 @@
+// 每个对象包含：title、cover、url、genres
+window.PAGE_DATA = [
+    {
+        "IDcode": 2087,
+        "title": "rua阮阮 - 战术自搭",
+        "cover_url": "https://image.acg.lol/file/2025/02/09/IMG_9714.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2087",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2088,
+        "title": "rua阮阮 - 刹那",
+        "cover_url": "https://image.acg.lol/file/2024/10/11/IMG_2540.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2088",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2089,
+        "title": "rua阮阮 - 初恋缎带",
+        "cover_url": "https://image.acg.lol/file/2024/10/11/IMG_95048c28ef82e0c619c0.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2089",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2090,
+        "title": "rua阮阮 小狗爱神1.0",
+        "cover_url": "https://telegra.ph/file/3497d32ceb2ffe76bc081.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2090",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2091,
+        "title": "rua阮阮 小丸子 88P",
+        "cover_url": "https://telegra.ph/file/dc6e26acf1e4b5e8fe5f0.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2091",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2092,
+        "title": "rua阮阮 白丝外卖员 40P",
+        "cover_url": "https://telegra.ph/file/970f11f0469988705a7d0.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2092",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2093,
+        "title": "rua阮阮 雪糕 40P",
+        "cover_url": "https://telegra.ph/file/891f2cfdb2e40dc275350.png",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2093",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2094,
+        "title": "rua阮阮 失乐园 55P",
+        "cover_url": "https://telegra.ph/file/4cebf6e61fafd762afeb1.png",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2094",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2095,
+        "title": "rua阮阮 授课中 57P",
+        "cover_url": "https://telegra.ph/file/0a7ec0920ea5d266836aa.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2095",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2096,
+        "title": "rua阮阮 花房 小裙子",
+        "cover_url": "https://telegra.ph/file/97b380b5926f66b049c17.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2096",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2097,
+        "title": "rua阮阮 课间的阳光 42P",
+        "cover_url": "https://telegra.ph/file/aec934d4f002b885c8caa.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2097",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2098,
+        "title": "rua阮阮 叫兽的恶作剧 终章 [116P1V-3.04GB]",
+        "cover_url": "https://telegra.ph/file/3fa696ab860e6039af4c9.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2098",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2099,
+        "title": "rua阮阮 居家少女 [40P-529MB]",
+        "cover_url": "https://telegra.ph/file/0cee4e577278771f15ad6.png",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2099",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2100,
+        "title": "rua阮阮 春の更衣室-体操服 [47P-469MB]",
+        "cover_url": "https://telegra.ph/file/04b432e9b45bcf982ef05.png",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2100",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2101,
+        "title": "rua阮阮 - 雪糕",
+        "cover_url": "https://telegra.ph/file/1e055a60c860b8746a850.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2101",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2102,
+        "title": "rua阮阮 失乐园",
+        "cover_url": "https://telegra.ph/file/af3dba14d0890a41f7bfd.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2102",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2103,
+        "title": "rua阮阮 白丝外卖员",
+        "cover_url": "https://telegra.ph/file/b9f3dd632fc71ab6c2942.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2103",
+        "genres": [
+            "彩色"
+        ]
+    },
+    {
+        "IDcode": 2104,
+        "title": "rua阮阮 小丸子",
+        "cover_url": "https://telegra.ph/file/d160d31e68af2ccbd9453.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=2104",
+        "genres": [
+            "彩色"
+        ]
+    }
+];

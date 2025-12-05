@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 823,
+    "title": "G44不会受伤 碧蓝档案 猫塚响 [30P-495MB]",
+    "sourceUrl": "https://telegra.ph/G44不会受伤-碧蓝档案-猫塚响-30P-495MB-08-25",
+    "images": [
+        "https://telegra.ph/file/d41f6e112749a072dc096.jpg",
+        "https://telegra.ph/file/b46feb1b2ba94acae04dc.jpg",
+        "https://telegra.ph/file/4118460c72ccd8f75cb96.jpg",
+        "https://telegra.ph/file/516e0eff8679971011a9b.jpg",
+        "https://telegra.ph/file/532e2de82b5ee60acb21c.jpg",
+        "https://telegra.ph/file/3ba65d91794ec313383aa.jpg",
+        "https://telegra.ph/file/d473d196544bd462422f5.jpg",
+        "https://telegra.ph/file/c2c68c364e47754807ccd.jpg",
+        "https://telegra.ph/file/3c1f7dc1db09416890fa1.jpg",
+        "https://telegra.ph/file/5162cb5f3dc670ab475ce.jpg",
+        "https://telegra.ph/file/c6ee1bf259ba422fd6072.jpg",
+        "https://telegra.ph/file/c67dcea2d800eebb99d22.jpg",
+        "https://telegra.ph/file/3d2cdcc50e64ccc99a9ec.jpg",
+        "https://telegra.ph/file/873c3ef2c0ff90e2cc10b.jpg",
+        "https://telegra.ph/file/702ca365675104ed0e4f1.jpg",
+        "https://telegra.ph/file/1cb7880d9e46d71d64079.jpg",
+        "https://telegra.ph/file/baa47a7f0beaf13b83277.jpg",
+        "https://telegra.ph/file/56a9c162b64d4fcfa4ea3.jpg",
+        "https://telegra.ph/file/2ba91d0865c3cde27be56.jpg",
+        "https://telegra.ph/file/61bfce1825a747b4fb222.jpg",
+        "https://telegra.ph/file/9a5925c8daecc80804bd9.jpg",
+        "https://telegra.ph/file/03c132563fbf67e8e838f.jpg",
+        "https://telegra.ph/file/fed8ad0afed285cbfd452.jpg",
+        "https://telegra.ph/file/d457eb681d5f45beea38c.jpg",
+        "https://telegra.ph/file/5a358d4dbb138d3674dc0.jpg",
+        "https://telegra.ph/file/98e23d8115510bd154e42.jpg",
+        "https://telegra.ph/file/d8a3545242a7a38977863.jpg",
+        "https://telegra.ph/file/155193388aa6db3194904.jpg",
+        "https://telegra.ph/file/046a2e3b4e3d85f43b23c.jpg",
+        "https://telegra.ph/file/30d034bd826057b5b58a3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

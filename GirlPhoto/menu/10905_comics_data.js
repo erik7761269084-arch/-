@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10905,
+    "title": "小礼好困 - 大凤32P",
+    "sourceUrl": "https://telegra.ph/小礼好困---大凤32P-08-26",
+    "images": [
+        "https://telegra.ph/file/b8d1d7bb44d5d8219055b.jpg",
+        "https://telegra.ph/file/4020c31b35c18265d4a7c.jpg",
+        "https://telegra.ph/file/35b3c5318f71b91315b3d.jpg",
+        "https://telegra.ph/file/f5ee2ea7d985c612194de.jpg",
+        "https://telegra.ph/file/cf1e89f6f1f340d442c5f.jpg",
+        "https://telegra.ph/file/e2bc7a9813f6c48af51b0.jpg",
+        "https://telegra.ph/file/2cd4dff5febc6b14c1997.jpg",
+        "https://telegra.ph/file/b434256046fb6d4c9bfd7.jpg",
+        "https://telegra.ph/file/e194d5edb3bfab5a69acd.jpg",
+        "https://telegra.ph/file/0ccb25bf23d0aa351d31a.jpg",
+        "https://telegra.ph/file/82296d04e4aed6ebe8f57.jpg",
+        "https://telegra.ph/file/45f2b5e718449709eed89.jpg",
+        "https://telegra.ph/file/5dcb0c845ce1155ff7f52.jpg",
+        "https://telegra.ph/file/a2005a9a57a364008092b.jpg",
+        "https://telegra.ph/file/1c47e7aa74db4d3612601.jpg",
+        "https://telegra.ph/file/75a07806d83dba21e74b9.jpg",
+        "https://telegra.ph/file/77027be0a3d9b3bdf49ff.jpg",
+        "https://telegra.ph/file/8a76962feee712cf7444c.jpg",
+        "https://telegra.ph/file/61a4a7b70314d92f2b918.jpg",
+        "https://telegra.ph/file/d5904e2c1de622172a826.jpg",
+        "https://telegra.ph/file/30fd188c22660a78345c5.jpg",
+        "https://telegra.ph/file/9c94919cef3beccbf5a8a.jpg",
+        "https://telegra.ph/file/ee3f6bbca35920ae1ba25.jpg",
+        "https://telegra.ph/file/be4d62274574da4b7b4c6.jpg",
+        "https://telegra.ph/file/8512ff9fbddf4459cfbf4.jpg",
+        "https://telegra.ph/file/eff36ff12234c4823a3a2.jpg",
+        "https://telegra.ph/file/9bf70148225337b9844b5.jpg",
+        "https://telegra.ph/file/4a160f358b9d8ff56a59a.jpg",
+        "https://telegra.ph/file/2d5821dd4212315c25462.jpg",
+        "https://telegra.ph/file/9f77f0e4079d79d7e5703.jpg",
+        "https://telegra.ph/file/2aa257cd5468f51d01a8f.jpg",
+        "https://telegra.ph/file/b5d884f6ec989992dd120.jpg",
+        "https://telegra.ph/file/ab6866cc6fd7acdc5bdb7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

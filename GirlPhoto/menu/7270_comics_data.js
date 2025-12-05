@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 7270,
+    "title": "面饼仙儿 - 公主连结Re：Dive 宵滨深月",
+    "sourceUrl": "https://telegra.ph/%E9%9D%A2%E9%A5%BC%E4%BB%99%E5%84%BF---%E5%85%AC%E4%B8%BB%E8%BF%9E%E7%BB%93ReDive-%E5%AE%B5%E6%BB%A8%E6%B7%B1%E6%9C%88-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/06/12/1-1fcf02c93afab7c8f.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-221532bc07485a905.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-3bfaeb0496b1d4a3e.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-4e7b15a62615bbf0e.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-502c176307ea2ba64.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-6b92a8033b780186a.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-7c396232f33e05f2c.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-8e16dd3fe8b8ea834.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-9103879ff1f62bcec.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-10a6a7e4a8b261eb0b.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-11357cad38b5606bd0.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-129d77b3aed506a482.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-13ca62aedb6c477c42.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-142713d349695459bb.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-1584a75ba11e55bb29.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-164f30a7ed8faf54b2.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-17bf5216b74e6db2d9.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-187d84c90eb1110fee.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-1987f998f69b1c72e8.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-207d023c705c302e88.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-21994a749e65c0427a.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-22cfd8551765bfc036.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-2316588b7961a62153.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-2424d4cea24a481482.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-2581d682fb51408caa.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-2609dda12f5bcf709f.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-27d9705a8b77cf593d.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-28749ee99e30def773.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-29d11b9d02c916e56e.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-303e7ae028a49f5a8b.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-31e261fd06a6b44c21.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-323c21c158063cca65.jpg",
+        "https://image.acg.lol/file/2025/06/12/1-33925709b6c5fe645b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

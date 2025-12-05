@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5495,
+    "title": "JKL.007 黑川 恶魔JK制服",
+    "sourceUrl": "https://telegra.ph/JKL007-黑川-恶魔JK制服-08-30",
+    "images": [
+        "https://telegra.ph/file/6138041d37a056d864575.jpg",
+        "https://telegra.ph/file/ca32092fbac32cd91ec9f.jpg",
+        "https://telegra.ph/file/f3e1a52b8f4e4d06b97e3.jpg",
+        "https://telegra.ph/file/9939d544aa44783385c81.jpg",
+        "https://telegra.ph/file/5ef8ea2d367e8774034cf.jpg",
+        "https://telegra.ph/file/06e839a9b389a6d290ae0.jpg",
+        "https://telegra.ph/file/ad83f34264e14265e3c83.jpg",
+        "https://telegra.ph/file/f5815e8209838df6d6a08.jpg",
+        "https://telegra.ph/file/fa9486bdd7f42d794e359.jpg",
+        "https://telegra.ph/file/b06367857085659a4c5e3.jpg",
+        "https://telegra.ph/file/4939eb61b522d0fa38491.jpg",
+        "https://telegra.ph/file/69ad681576e35778b4967.jpg",
+        "https://telegra.ph/file/0bcf2538c508911c2910b.jpg",
+        "https://telegra.ph/file/60b7239c9f32cbf819224.jpg",
+        "https://telegra.ph/file/1b4c96cb56d0718c6bdc4.jpg",
+        "https://telegra.ph/file/8c145c0e78a720fca88c6.jpg",
+        "https://telegra.ph/file/8f0d6b1ce7e1ebd35d85d.jpg",
+        "https://telegra.ph/file/51d3ebb4627a20b4ccbed.jpg",
+        "https://telegra.ph/file/43170bd7340e5e0231e46.jpg",
+        "https://telegra.ph/file/f6c8656c03f295ae3b7f2.jpg",
+        "https://telegra.ph/file/e2dd5eab8a6f3ccc77023.jpg",
+        "https://telegra.ph/file/225b04b7878330ed18485.jpg",
+        "https://telegra.ph/file/c16ece68f26e56b28fe96.jpg",
+        "https://telegra.ph/file/63d5a8039ba6f40d877e0.jpg",
+        "https://telegra.ph/file/a745b6b75c48ce2f2475e.jpg",
+        "https://telegra.ph/file/d0925f3a29aea51cebc0e.jpg",
+        "https://telegra.ph/file/0b1d7ce48fff85cd857dd.jpg",
+        "https://telegra.ph/file/493d6d811689586db0e36.jpg",
+        "https://telegra.ph/file/4400ed432e401454cbc08.jpg",
+        "https://telegra.ph/file/8e785ebbbbe2da9506da8.jpg",
+        "https://telegra.ph/file/7dc81aed7815809d6036d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

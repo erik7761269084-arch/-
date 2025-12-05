@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4146,
+    "title": "蠢沫沫 - 三月T1订阅《小娇妻》",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---三月T1订阅小娇妻-08-29",
+    "images": [
+        "https://telegra.ph/file/a77662954793fd54131fd.jpg",
+        "https://telegra.ph/file/2aed1cb5a663ba82e40ff.jpg",
+        "https://telegra.ph/file/85447e38e0d229e3836d2.jpg",
+        "https://telegra.ph/file/7820f3883116e9add6cd4.jpg",
+        "https://telegra.ph/file/8dc98b52c30148549a6a0.jpg",
+        "https://telegra.ph/file/34dc58ad353bbca153e25.jpg",
+        "https://telegra.ph/file/e2d05a5d2b553745b12a1.jpg",
+        "https://telegra.ph/file/da7a25f03b3af1c7e37f5.jpg",
+        "https://telegra.ph/file/f22cb088a3884821823e0.jpg",
+        "https://telegra.ph/file/15be6e9bbd0bca724d909.jpg",
+        "https://telegra.ph/file/bf1f42c46f0c2bb79a947.jpg",
+        "https://telegra.ph/file/e8170ea9fffa6ebe17a0e.jpg",
+        "https://telegra.ph/file/194dcff49213821613436.jpg",
+        "https://telegra.ph/file/8b32d46747d4ef7622d0e.jpg",
+        "https://telegra.ph/file/93685250fae46a924d293.jpg",
+        "https://telegra.ph/file/a44260e52a4b94c95ab0e.jpg",
+        "https://telegra.ph/file/f42be2f0685c166b73068.jpg",
+        "https://telegra.ph/file/bc50f98144d6dd3d4283a.jpg",
+        "https://telegra.ph/file/258f344b32a6e50afa683.jpg",
+        "https://telegra.ph/file/8c7279ae704aa8cd1cae2.jpg",
+        "https://telegra.ph/file/b0bd89b3221c997aa923e.jpg",
+        "https://telegra.ph/file/4a445195ef780fe87f2d6.jpg",
+        "https://telegra.ph/file/6e5a910840ccad93acc67.jpg",
+        "https://telegra.ph/file/a1b548af9d82cb48eecb6.jpg",
+        "https://telegra.ph/file/ae48438315e58360ba9e0.jpg",
+        "https://telegra.ph/file/9ad12495bdb23897d42bc.jpg",
+        "https://telegra.ph/file/0f1b9c84f8b44ff6f36cb.jpg",
+        "https://telegra.ph/file/6dbff59e106c052e32efe.jpg",
+        "https://telegra.ph/file/9f00423dd7943c529eae9.jpg",
+        "https://telegra.ph/file/852e0351513d15b0dd4f5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

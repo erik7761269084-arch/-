@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5159,
+    "title": "瓜希酱 赛马娘大和赤骥电子档",
+    "sourceUrl": "https://telegra.ph/瓜希酱-赛马娘大和赤骥电子档-08-24",
+    "images": [
+        "https://telegra.ph/file/5588e07a611dc9586e69c.jpg",
+        "https://telegra.ph/file/2bdf7047764bce13ecbd7.jpg",
+        "https://telegra.ph/file/90cc9c509de4806a0288d.jpg",
+        "https://telegra.ph/file/fd3e353216b9aa36326cf.jpg",
+        "https://telegra.ph/file/70fc4bd2f7774477e6eac.jpg",
+        "https://telegra.ph/file/b23fdaceb349fa7be54df.jpg",
+        "https://telegra.ph/file/5689860fc31e46259296d.jpg",
+        "https://telegra.ph/file/02c760b642f01dcf3d697.jpg",
+        "https://telegra.ph/file/bfdd61ccc228324ba4444.jpg",
+        "https://telegra.ph/file/61feed5bf59c67e479c74.jpg",
+        "https://telegra.ph/file/3803504b1dd817d4a14d3.jpg",
+        "https://telegra.ph/file/b0dfbac3cda0f027f9da2.jpg",
+        "https://telegra.ph/file/66409550e1fac955db0bd.jpg",
+        "https://telegra.ph/file/ef8594702f9247230a4d1.jpg",
+        "https://telegra.ph/file/15da701f96d9b8433e9b8.jpg",
+        "https://telegra.ph/file/73fd575e0bff1c387ac41.jpg",
+        "https://telegra.ph/file/afb7976e0f7613a150407.jpg",
+        "https://telegra.ph/file/09cd73e61ba33d46bb5ff.jpg",
+        "https://telegra.ph/file/cf5a34c6a7ac9ea3a589c.jpg",
+        "https://telegra.ph/file/c6b0c8bc17ec4a0f10968.jpg",
+        "https://telegra.ph/file/428b72812252b0b6e081b.jpg",
+        "https://telegra.ph/file/919fb9b4638fe5e464df9.jpg",
+        "https://telegra.ph/file/52212ec1a2a8025284827.jpg",
+        "https://telegra.ph/file/ae1bac9a459dfd9475ee4.jpg",
+        "https://telegra.ph/file/8b8f358c504eefc70d5b7.jpg",
+        "https://telegra.ph/file/15230bad81f902b842765.jpg",
+        "https://telegra.ph/file/567c7be5f5db9227b04da.jpg",
+        "https://telegra.ph/file/2d5336dc768964c635468.jpg",
+        "https://telegra.ph/file/23238fdf94ca5c20c33af.jpg",
+        "https://telegra.ph/file/7315c24217ba0f2254446.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

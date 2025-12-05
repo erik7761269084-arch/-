@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 22269,
+    "title": "JVID - 夏天 巨乳網紅直播主脫了",
+    "sourceUrl": "https://telegra.ph/JVID---夏天-巨乳網紅直播主脫了-08-29",
+    "images": [
+        "https://telegra.ph/file/28727ac45f5ff145f85e0.jpg",
+        "https://telegra.ph/file/7c1026b5fa3101fb02889.jpg",
+        "https://telegra.ph/file/5998470c065f3bbe82a79.jpg",
+        "https://telegra.ph/file/f1bb43d739420b8c9923f.jpg",
+        "https://telegra.ph/file/10f1c382b001c6ae21889.jpg",
+        "https://telegra.ph/file/569b6943276f7992601f9.jpg",
+        "https://telegra.ph/file/269d755d65b4defdc348d.jpg",
+        "https://telegra.ph/file/12e29204f6301a040b4ef.jpg",
+        "https://telegra.ph/file/75f939485b08d797e331d.jpg",
+        "https://telegra.ph/file/d60ce4952a7a475da699b.jpg",
+        "https://telegra.ph/file/32db7eb48c30203d47913.jpg",
+        "https://telegra.ph/file/594c5bcbf7c2dc8c7bf5a.jpg",
+        "https://telegra.ph/file/9a3a3ef1b5f28079e2fa7.jpg",
+        "https://telegra.ph/file/9fc0ade0f014ba89d32c5.jpg",
+        "https://telegra.ph/file/e5d90f4a595fc7ad20b0e.jpg",
+        "https://telegra.ph/file/4cc054c10ad8e39e3524d.jpg",
+        "https://telegra.ph/file/a60b6d66d3a4bf50c0d89.jpg",
+        "https://telegra.ph/file/3656e69d9b77879ea5473.jpg",
+        "https://telegra.ph/file/7be862a482ac6eb593679.jpg",
+        "https://telegra.ph/file/5f1bbdd31c009ffb3e562.jpg",
+        "https://telegra.ph/file/e8dd814247d6d63ec3ca7.jpg",
+        "https://telegra.ph/file/314fe4f007261269b14c9.jpg",
+        "https://telegra.ph/file/c3e865890e79466e28c89.jpg",
+        "https://telegra.ph/file/23eb31e53828136eba1f0.jpg",
+        "https://telegra.ph/file/c23371fa95cb0764b595c.jpg",
+        "https://telegra.ph/file/132609b79c433be0bb005.jpg",
+        "https://telegra.ph/file/6677c136d279d4e7200f3.jpg",
+        "https://telegra.ph/file/1d49a0c9556e1a5b296e9.jpg",
+        "https://telegra.ph/file/72e2e0a3372de8e54a723.jpg",
+        "https://telegra.ph/file/c9012fbf8bab0fc5a6538.jpg",
+        "https://telegra.ph/file/1bf7a974c3b84bb9e7a21.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

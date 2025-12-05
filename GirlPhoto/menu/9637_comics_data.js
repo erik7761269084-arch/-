@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9637,
+    "title": "水淼Aqua 葬送のフリ - レン Übel💚 32P",
+    "sourceUrl": "https://telegra.ph/%E6%B0%B4%E6%B7%BCAqua-%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA---%E3%83%AC%E3%83%B3-%C3%9Cbel-32P-08-22",
+    "images": [
+        "https://telegra.ph/file/e7e0cfd649638ff613645.jpg",
+        "https://telegra.ph/file/d460f9848a0e11d309dd3.jpg",
+        "https://telegra.ph/file/4d7d01fc608e91588a916.jpg",
+        "https://telegra.ph/file/db15bebe3d19daeab46f7.jpg",
+        "https://telegra.ph/file/c7cf5b92a3967d7b9a3d1.jpg",
+        "https://telegra.ph/file/405ae20810dc10dfa79ed.jpg",
+        "https://telegra.ph/file/0600ce282ad8560c69fe0.jpg",
+        "https://telegra.ph/file/eb91b5b8186d19b1b1b06.jpg",
+        "https://telegra.ph/file/b79642084259e0ca14bbd.jpg",
+        "https://telegra.ph/file/e664d7546125be98dd570.jpg",
+        "https://telegra.ph/file/b9bf5d5dc7863dbec78f6.jpg",
+        "https://telegra.ph/file/0ad2aa031993f77d6fe61.jpg",
+        "https://telegra.ph/file/11fe544bf68ed53896c0a.jpg",
+        "https://telegra.ph/file/530fa215a5b59b82a93bb.jpg",
+        "https://telegra.ph/file/6cc064f25ee23f8921faf.jpg",
+        "https://telegra.ph/file/05775f81398fcc668abef.jpg",
+        "https://telegra.ph/file/db630ab65e12090b23395.jpg",
+        "https://telegra.ph/file/c5d4fa2191ace9f486608.jpg",
+        "https://telegra.ph/file/7317a1e9f21255c83a450.jpg",
+        "https://telegra.ph/file/240dfdaba26d76e42e942.jpg",
+        "https://telegra.ph/file/ec0d186b53ee5e373ee6a.jpg",
+        "https://telegra.ph/file/aa56d38e3a25a67375a55.jpg",
+        "https://telegra.ph/file/28fb44b39428d6e7e70f7.jpg",
+        "https://telegra.ph/file/ca8dd65f7620a8d565082.jpg",
+        "https://telegra.ph/file/eea50a3d345a2a420a68a.jpg",
+        "https://telegra.ph/file/9d8fa201d974088c18e98.jpg",
+        "https://telegra.ph/file/b2bf2f0443ae81f0a21b2.jpg",
+        "https://telegra.ph/file/e9b60034398709df46d5a.jpg",
+        "https://telegra.ph/file/d76eeda4e8a7233136d3e.jpg",
+        "https://telegra.ph/file/2a3aa899ed7f73e0d18fc.jpg",
+        "https://telegra.ph/file/6c3836b5e483d2da1ba71.jpg",
+        "https://telegra.ph/file/bb551fe56e57d71b3fb84.jpg",
+        "https://telegra.ph/file/ea475333dbb5ed02517d2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

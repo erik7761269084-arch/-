@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 767,
+    "title": "ElyEE子 賽博女僕 Melanite黑榴石",
+    "sourceUrl": "https://telegra.ph/ElyEE子-賽博女僕-Melanite黑榴石-08-29",
+    "images": [
+        "https://telegra.ph/file/c80f8aad009956b1f86ce.jpg",
+        "https://telegra.ph/file/14773d28682a191d3091c.jpg",
+        "https://telegra.ph/file/ef84c5e597b98dfa36dd6.jpg",
+        "https://telegra.ph/file/1c09f3539066cb3015b8c.jpg",
+        "https://telegra.ph/file/72ed3ae47193364f6f7df.jpg",
+        "https://telegra.ph/file/e1aee50c5015085bcb523.jpg",
+        "https://telegra.ph/file/abc85341f9ae2e1294726.jpg",
+        "https://telegra.ph/file/14ceb1c7d140d18c4d492.jpg",
+        "https://telegra.ph/file/490769df7c3e3fe024d47.jpg",
+        "https://telegra.ph/file/519172296315582fd0784.jpg",
+        "https://telegra.ph/file/482e9442aaf07bc21e6ab.jpg",
+        "https://telegra.ph/file/5a63c41004560f5d946e7.jpg",
+        "https://telegra.ph/file/b0b0dfd54192ea5028421.jpg",
+        "https://telegra.ph/file/e72278cf84412525e90cd.jpg",
+        "https://telegra.ph/file/c0b9a73710d3cd303f381.jpg",
+        "https://telegra.ph/file/6e4000733292450fdc3d8.jpg",
+        "https://telegra.ph/file/7edd80b469d7964861893.jpg",
+        "https://telegra.ph/file/28aa66ed78f88ee818b60.jpg",
+        "https://telegra.ph/file/8c03a9c36441db2be39e4.jpg",
+        "https://telegra.ph/file/ec277b7c9c8067c361c2e.jpg",
+        "https://telegra.ph/file/377cc3666e4ce9715be86.jpg",
+        "https://telegra.ph/file/2f33b0c1415a4ea90933b.jpg",
+        "https://telegra.ph/file/25d799b649cb720f4faee.jpg",
+        "https://telegra.ph/file/f9111bc16b2c7947dc698.jpg",
+        "https://telegra.ph/file/11197e84637418215b122.jpg",
+        "https://telegra.ph/file/81dd7c2955be89391b4e3.jpg",
+        "https://telegra.ph/file/27d757330ea02295f389a.jpg",
+        "https://telegra.ph/file/5c6d48a1d9c85732c1056.jpg",
+        "https://telegra.ph/file/8e5e2c3abb70326c1969e.jpg",
+        "https://telegra.ph/file/783ef7ec35e655654944e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

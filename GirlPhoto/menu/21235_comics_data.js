@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 21235,
+    "title": "于芷晴 - 人体盛宴",
+    "sourceUrl": "https://telegra.ph/于芷晴---人体盛宴-08-29-2",
+    "images": [
+        "https://telegra.ph/file/46d39cf1cde7e313a0028.jpg",
+        "https://telegra.ph/file/bdf7ad11256c974590dc6.jpg",
+        "https://telegra.ph/file/ed3718cf16ea3e164b649.jpg",
+        "https://telegra.ph/file/2f75b870b2840b0c8ffc8.jpg",
+        "https://telegra.ph/file/031f8e5c01f602b802a49.jpg",
+        "https://telegra.ph/file/fe303cde21c165f23028c.jpg",
+        "https://telegra.ph/file/8346860eb7da572a5f61b.jpg",
+        "https://telegra.ph/file/992cbaedeb54d81435167.jpg",
+        "https://telegra.ph/file/737fb281b3d049c392f2f.jpg",
+        "https://telegra.ph/file/b787f26522bd0ef9b136e.jpg",
+        "https://telegra.ph/file/2a5b07b85973449eaf086.jpg",
+        "https://telegra.ph/file/f08bf89d5c2f831f1005b.jpg",
+        "https://telegra.ph/file/dc506ccd93b7565d05dd4.jpg",
+        "https://telegra.ph/file/af23c0ae4949dcdd42f65.jpg",
+        "https://telegra.ph/file/b76069125a9353b1133ca.jpg",
+        "https://telegra.ph/file/b289598fe8e9c56ca0a68.jpg",
+        "https://telegra.ph/file/70acc2026e6ac67a0cc4a.jpg",
+        "https://telegra.ph/file/05d896dc7f7b7184a93b6.jpg",
+        "https://telegra.ph/file/82a274f0fe047c624dbc4.jpg",
+        "https://telegra.ph/file/b91c5607f544fdb2dea37.jpg",
+        "https://telegra.ph/file/323c20616c6f2dec96b00.jpg",
+        "https://telegra.ph/file/7d37b0efe7f4afe74567b.jpg",
+        "https://telegra.ph/file/316b140c5c54b47395f7f.jpg",
+        "https://telegra.ph/file/2c3a32b87a836fffd8a7c.jpg",
+        "https://telegra.ph/file/7eaf011b594ec417387f6.jpg",
+        "https://telegra.ph/file/cabb7616b33cfbfca3179.jpg",
+        "https://telegra.ph/file/6ed66b1ef45ed3b64d96b.jpg",
+        "https://telegra.ph/file/b9125c02a56b13d8a3655.jpg",
+        "https://telegra.ph/file/1295cd1a7e9fa82e7769d.jpg",
+        "https://telegra.ph/file/e3f554262a595ee315e08.jpg",
+        "https://telegra.ph/file/93599f38ff99bea02c8f6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

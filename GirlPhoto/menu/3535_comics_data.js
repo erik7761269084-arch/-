@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 3535,
+    "title": "布丁 - 死库水",
+    "sourceUrl": "https://telegra.ph/%E5%B8%83%E4%B8%81---%E6%AD%BB%E5%BA%93%E6%B0%B4-08-20",
+    "images": [
+        "https://image.acg.lol/file/2024/12/07/6_IMG_4712.jpg",
+        "https://image.acg.lol/file/2024/12/07/1_IMG_4709.jpg",
+        "https://image.acg.lol/file/2024/12/07/3_IMG_4708.jpg",
+        "https://image.acg.lol/file/2024/12/07/4_IMG_4710.jpg",
+        "https://image.acg.lol/file/2024/12/07/7_IMG_4713.jpg",
+        "https://image.acg.lol/file/2024/12/07/8_IMG_4714.jpg",
+        "https://image.acg.lol/file/2024/12/07/9_IMG_4715.jpg",
+        "https://image.acg.lol/file/2024/12/07/10_IMG_4716.jpg",
+        "https://image.acg.lol/file/2024/12/07/11_IMG_4717.jpg",
+        "https://image.acg.lol/file/2024/12/07/12_IMG_4721.jpg",
+        "https://image.acg.lol/file/2024/12/07/13_IMG_4722.jpg",
+        "https://image.acg.lol/file/2024/12/07/14_IMG_4723.jpg",
+        "https://image.acg.lol/file/2024/12/07/15_IMG_4725.jpg",
+        "https://image.acg.lol/file/2024/12/07/16_IMG_4726.jpg",
+        "https://image.acg.lol/file/2024/12/07/17_IMG_4727.jpg",
+        "https://image.acg.lol/file/2024/12/07/18_IMG_4728.jpg",
+        "https://image.acg.lol/file/2024/12/07/19_IMG_4729.jpg",
+        "https://image.acg.lol/file/2024/12/07/20_IMG_4730.jpg",
+        "https://image.acg.lol/file/2024/12/07/21_IMG_4731.jpg",
+        "https://image.acg.lol/file/2024/12/07/22_IMG_4732.jpg",
+        "https://image.acg.lol/file/2024/12/07/23_IMG_4733.jpg",
+        "https://image.acg.lol/file/2024/12/07/25_IMG_4735.jpg",
+        "https://image.acg.lol/file/2024/12/07/27_IMG_4737.jpg",
+        "https://image.acg.lol/file/2024/12/07/2_IMG_4724.jpeg",
+        "https://image.acg.lol/file/2024/12/07/5_IMG_4711.jpeg",
+        "https://image.acg.lol/file/2024/12/07/9_IMG_4715.jpeg",
+        "https://image.acg.lol/file/2024/12/07/10_IMG_4716.jpeg",
+        "https://image.acg.lol/file/2024/12/07/24_IMG_4734.jpeg",
+        "https://image.acg.lol/file/2024/12/07/26_IMG_4736.jpeg",
+        "https://image.acg.lol/file/2024/12/07/29_IMG_4739.jpeg",
+        "https://image.acg.lol/file/2024/12/07/30_IMG_4740.jpeg",
+        "https://image.acg.lol/file/2024/12/07/31_IMG_4741.jpeg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

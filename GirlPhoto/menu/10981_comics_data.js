@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10981,
+    "title": "小女巫露娜 -  黑色流苏",
+    "sourceUrl": "https://telegra.ph/小女巫露娜---黑色流苏-08-29",
+    "images": [
+        "https://telegra.ph/file/4008ad8b7973b866c5a8a.jpg",
+        "https://telegra.ph/file/220af3c09a174434c7153.jpg",
+        "https://telegra.ph/file/a2e59b1d63b2eb4b5982f.jpg",
+        "https://telegra.ph/file/abe0be22ee77cb2e3f0ec.jpg",
+        "https://telegra.ph/file/dfd38cf673ec8cd6c1942.jpg",
+        "https://telegra.ph/file/322a027ee071953b3b6cc.jpg",
+        "https://telegra.ph/file/f018bcdf7c5d0eb912839.jpg",
+        "https://telegra.ph/file/e005848c6d44e64d2f742.jpg",
+        "https://telegra.ph/file/99b895cb7c4296dfdc552.jpg",
+        "https://telegra.ph/file/48bfa7099f50876fc51fc.jpg",
+        "https://telegra.ph/file/143859f619a785b9d327e.jpg",
+        "https://telegra.ph/file/8bf09ed77eace60eb2a10.jpg",
+        "https://telegra.ph/file/82eb49494c1dba822d19d.jpg",
+        "https://telegra.ph/file/fe6cdac45830643ada259.jpg",
+        "https://telegra.ph/file/360f0e33eb92e506805aa.jpg",
+        "https://telegra.ph/file/6e0e2d4bb85390fed2459.jpg",
+        "https://telegra.ph/file/485143238c0c976a06cbd.jpg",
+        "https://telegra.ph/file/af14dd620be44cc3b7568.jpg",
+        "https://telegra.ph/file/0634ee6d9541bb0dca962.jpg",
+        "https://telegra.ph/file/4725cb5e153ea66198a4d.jpg",
+        "https://telegra.ph/file/a437569c44df312e9d32d.jpg",
+        "https://telegra.ph/file/6d59ef2d0648a25303abc.jpg",
+        "https://telegra.ph/file/1e487a5d4df79a2630556.jpg",
+        "https://telegra.ph/file/7caf1d0e32c8eab28e5f9.jpg",
+        "https://telegra.ph/file/a167eb46198455ace2c34.jpg",
+        "https://telegra.ph/file/52757d3820a03411b7d86.jpg",
+        "https://telegra.ph/file/c4cffcbcef853cfda4a43.jpg",
+        "https://telegra.ph/file/aef30129be82a4ba8d216.jpg",
+        "https://telegra.ph/file/0e460db5d18eeb0ce4386.jpg",
+        "https://telegra.ph/file/aef7ff2a5e27a7821c455.jpg",
+        "https://telegra.ph/file/ab0bbf8334a146caf338b.jpg",
+        "https://telegra.ph/file/cadb0b1869c40550ec120.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

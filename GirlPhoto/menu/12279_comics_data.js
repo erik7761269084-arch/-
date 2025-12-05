@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12279,
+    "title": "咬一口兔娘 - 天鹅之舞",
+    "sourceUrl": "https://telegra.ph/咬一口兔娘---天鹅之舞-08-27",
+    "images": [
+        "https://telegra.ph/file/ae81ae05b998e041bd54d.jpg",
+        "https://telegra.ph/file/fe5c1ce3a17c2a92a6943.jpg",
+        "https://telegra.ph/file/1241773e2676d2faafcbb.jpg",
+        "https://telegra.ph/file/cdd221c11eb24f6213b23.jpg",
+        "https://telegra.ph/file/39f9404019768fc5e3998.jpg",
+        "https://telegra.ph/file/a6fcd911b83e06a49e9a8.jpg",
+        "https://telegra.ph/file/e26d669c9c095e48692e4.jpg",
+        "https://telegra.ph/file/fdba0877808bda20cfb28.jpg",
+        "https://telegra.ph/file/87009041f8db5c9f1dc25.jpg",
+        "https://telegra.ph/file/14179843353a76b51b99e.jpg",
+        "https://telegra.ph/file/f12ea781061779f9b5c38.jpg",
+        "https://telegra.ph/file/b2db3702c3029db2aa60d.jpg",
+        "https://telegra.ph/file/129d76444ed948a204066.jpg",
+        "https://telegra.ph/file/e57897532021c9d93cf7c.jpg",
+        "https://telegra.ph/file/e9244abce060096090780.jpg",
+        "https://telegra.ph/file/d6c84f29bf747ef1c3205.jpg",
+        "https://telegra.ph/file/7ed564f6c4b5f4a5d5bac.jpg",
+        "https://telegra.ph/file/5eca73c4fd76dc0a4ae94.jpg",
+        "https://telegra.ph/file/337258c9d14789b0dcd79.jpg",
+        "https://telegra.ph/file/ee4e4edd1eb78666a6284.jpg",
+        "https://telegra.ph/file/fc4beaaa45e24a076702d.jpg",
+        "https://telegra.ph/file/b6787e59d6aea930cae65.jpg",
+        "https://telegra.ph/file/0a704e96dfb9f6e0a60d2.jpg",
+        "https://telegra.ph/file/0dd0b23023f13c05a0d12.jpg",
+        "https://telegra.ph/file/e1dba489fbc1f8a1a3767.jpg",
+        "https://telegra.ph/file/83e7fec3e811d3071df46.jpg",
+        "https://telegra.ph/file/bc61f60f4d59ef51d8252.jpg",
+        "https://telegra.ph/file/03a5023f0b5c8f1b71a89.jpg",
+        "https://telegra.ph/file/a62b6d1a7c5a34e2b7d93.jpg",
+        "https://telegra.ph/file/0d18f5ddf3a0a78685817.jpg",
+        "https://telegra.ph/file/e0a30599a9cc3a26661ea.jpg",
+        "https://telegra.ph/file/6af532fa6ec6e9968d06e.jpg",
+        "https://telegra.ph/file/3a99c267aa4a991988d7d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

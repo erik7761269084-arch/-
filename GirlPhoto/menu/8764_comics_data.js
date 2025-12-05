@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8764,
+    "title": "日奈娇 夜色降临 61P1V",
+    "sourceUrl": "https://telegra.ph/%E6%97%A5%E5%A5%88%E5%A8%87-%E5%A4%9C%E8%89%B2%E9%99%8D%E4%B8%B4-61P1V-08-21",
+    "images": [
+        "https://telegra.ph/file/3006fea693733332ab022.jpg",
+        "https://telegra.ph/file/cb13983725aef50fc96df.jpg",
+        "https://telegra.ph/file/0264944cef309bff0462e.jpg",
+        "https://telegra.ph/file/5bb1420d2e1154f15355d.jpg",
+        "https://telegra.ph/file/882064dab865359e956a8.jpg",
+        "https://telegra.ph/file/d9334328450148b720de8.jpg",
+        "https://telegra.ph/file/b64b881ed3fb41514c95a.jpg",
+        "https://telegra.ph/file/7d93fe1fca51bc7f75876.jpg",
+        "https://telegra.ph/file/76719d9ddc424d8612ce7.jpg",
+        "https://telegra.ph/file/3ea42334104b351dfc4db.jpg",
+        "https://telegra.ph/file/8466efaa0fafe0bd55bd5.jpg",
+        "https://telegra.ph/file/260ac1c0cfa4762f340a9.jpg",
+        "https://telegra.ph/file/817053ff8f805486efc4f.jpg",
+        "https://telegra.ph/file/2c0e0a06b7073cfe78784.jpg",
+        "https://telegra.ph/file/a16037be7bca5d07c94dd.jpg",
+        "https://telegra.ph/file/d495a5c97e137a9d8ba3a.jpg",
+        "https://telegra.ph/file/d951cb476428c515c719d.jpg",
+        "https://telegra.ph/file/6539189bccd4eb2fde77d.jpg",
+        "https://telegra.ph/file/eac0a1810c3a5ce28e720.jpg",
+        "https://telegra.ph/file/1c1d80c2ca8643c44e6e4.jpg",
+        "https://telegra.ph/file/9b2190f2be2a6a5ffac09.jpg",
+        "https://telegra.ph/file/e1d5f2bf4eb0e063d587e.jpg",
+        "https://telegra.ph/file/7816c8ee27822163882c2.jpg",
+        "https://telegra.ph/file/ddb0eb66eaae32b6e98e9.jpg",
+        "https://telegra.ph/file/966b03854b305fb41a17a.jpg",
+        "https://telegra.ph/file/95a24c6b7ec679db21a1b.jpg",
+        "https://telegra.ph/file/dc7a1f85cd72e69ad94bc.jpg",
+        "https://telegra.ph/file/c5ba1b0f832ce4e072f89.jpg",
+        "https://telegra.ph/file/2c08bccf69aac81ec839e.jpg",
+        "https://telegra.ph/file/0f08cf0e263f41770ad11.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

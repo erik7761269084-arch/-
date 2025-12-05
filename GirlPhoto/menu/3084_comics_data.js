@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3084,
+    "title": "艾西Aiwest 雷电将军",
+    "sourceUrl": "https://telegra.ph/艾西Aiwest-雷电将军-08-29",
+    "images": [
+        "https://telegra.ph/file/f6f726add75917f8ff33d.jpg",
+        "https://telegra.ph/file/128a77b65e1d45e6f32b1.jpg",
+        "https://telegra.ph/file/0f5f6189c61ff23f71e0c.jpg",
+        "https://telegra.ph/file/067f875f4fd736b6551e2.jpg",
+        "https://telegra.ph/file/1066acfa9bf4cb5e4ffb5.jpg",
+        "https://telegra.ph/file/a2144f14798ba4bdee5c7.jpg",
+        "https://telegra.ph/file/1d93ef80d97900d51bea8.jpg",
+        "https://telegra.ph/file/17b63fddb98c27b7098d0.jpg",
+        "https://telegra.ph/file/5ba456806a79cb7d56fba.jpg",
+        "https://telegra.ph/file/e7762b544d89e8f22eb85.jpg",
+        "https://telegra.ph/file/a963cd2a3296e876d2672.jpg",
+        "https://telegra.ph/file/1af0bfc68bdbfe3843f34.jpg",
+        "https://telegra.ph/file/22833c5b3824cd860efae.jpg",
+        "https://telegra.ph/file/c1517de41a6990186b507.jpg",
+        "https://telegra.ph/file/7e5716959f00253711b79.jpg",
+        "https://telegra.ph/file/d53cdad4277aa529094ab.jpg",
+        "https://telegra.ph/file/dabf69c6590de58904cf9.jpg",
+        "https://telegra.ph/file/5965577ac77293401cd57.jpg",
+        "https://telegra.ph/file/7e5fa21eb9f0d35550802.jpg",
+        "https://telegra.ph/file/8b8f80c7dff0a1baeeba6.jpg",
+        "https://telegra.ph/file/cb005d8cbfe0ec9c8b871.jpg",
+        "https://telegra.ph/file/13a53dd4e04c2a51bcffb.jpg",
+        "https://telegra.ph/file/fe8a8473f51a8be60d0f9.jpg",
+        "https://telegra.ph/file/375842b926d1fbf72d2df.jpg",
+        "https://telegra.ph/file/3c071fb607c306c1d5755.jpg",
+        "https://telegra.ph/file/09101fe333e9086b0b235.jpg",
+        "https://telegra.ph/file/09b2b176a7df510e76e8a.jpg",
+        "https://telegra.ph/file/5f39fb07c27698f210fd6.jpg",
+        "https://telegra.ph/file/d3888f420f12f2812b092.jpg",
+        "https://telegra.ph/file/69668fc6285b325c43247.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

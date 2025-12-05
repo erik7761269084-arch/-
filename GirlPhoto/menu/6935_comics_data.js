@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 6935,
+    "title": "萌芽儿o0 - 西瓜与夏天",
+    "sourceUrl": "https://telegra.ph/萌芽儿o0---西瓜与夏天-08-27",
+    "images": [
+        "https://telegra.ph/file/b13f98c8523a7944258d6.jpg",
+        "https://telegra.ph/file/7f3b53bac69ef82b41653.jpg",
+        "https://telegra.ph/file/c58406ea7740652db6fc0.jpg",
+        "https://telegra.ph/file/c514c56abe9aba8ad5d8d.jpg",
+        "https://telegra.ph/file/74e81f8437a40e927c353.jpg",
+        "https://telegra.ph/file/326b159d84424bef6d4f3.jpg",
+        "https://telegra.ph/file/e28a5a66c30643ec5dfd4.jpg",
+        "https://telegra.ph/file/1fef9e43b01204a643832.jpg",
+        "https://telegra.ph/file/ef083d80efde0599be3d9.jpg",
+        "https://telegra.ph/file/5bebf5928badb483d7117.jpg",
+        "https://telegra.ph/file/992928a7efce9720086bc.jpg",
+        "https://telegra.ph/file/3655cfc2f8d2b7ae4c9eb.jpg",
+        "https://telegra.ph/file/c2b15135c307a318b5f24.jpg",
+        "https://telegra.ph/file/fe18ace6269b2a8ba9685.jpg",
+        "https://telegra.ph/file/b98d5e1d6761ee1d947d4.jpg",
+        "https://telegra.ph/file/e910df0beaabc90296c26.jpg",
+        "https://telegra.ph/file/676330334aacdff870b20.jpg",
+        "https://telegra.ph/file/d4ebc159e9ae86acb5ec0.jpg",
+        "https://telegra.ph/file/1ff2a31d7e77495f5a797.jpg",
+        "https://telegra.ph/file/6c4f8e561fc2272e1015d.jpg",
+        "https://telegra.ph/file/d1b00a03318fb0ed0278f.jpg",
+        "https://telegra.ph/file/5f547b4ccf0d30544d39c.jpg",
+        "https://telegra.ph/file/abf66633f6afeff4bf941.jpg",
+        "https://telegra.ph/file/aa28bd7771bbbbad874be.jpg",
+        "https://telegra.ph/file/2f727fd7d7b32595476b8.jpg",
+        "https://telegra.ph/file/59bfebe169f385b3a6bf4.jpg",
+        "https://telegra.ph/file/b52a37cbf5c19a737c269.jpg",
+        "https://telegra.ph/file/6435defa2bb1bba86e2f2.jpg",
+        "https://telegra.ph/file/6ffe1b69728aa463f22fb.jpg",
+        "https://telegra.ph/file/cc390e91b8d1c8f17dd0b.jpg",
+        "https://telegra.ph/file/a0cb74d2ee4ebd5721222.jpg",
+        "https://telegra.ph/file/1d6bce41a4ede6b55c141.jpg",
+        "https://telegra.ph/file/6f1afd80a94a7564d068c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

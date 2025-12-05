@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12428,
+    "title": "一小央泽 蒂法公式装",
+    "sourceUrl": "https://telegra.ph/一小央泽-蒂法公式装-08-30",
+    "images": [
+        "https://telegra.ph/file/0f5e8cb26809ceb17dfcd.jpg",
+        "https://telegra.ph/file/0c1d5b5b162c5ffe8310f.jpg",
+        "https://telegra.ph/file/5ebd4f87c27ab3aacdbbe.jpg",
+        "https://telegra.ph/file/353726f91c4b8122827bb.jpg",
+        "https://telegra.ph/file/df9e498b1ad3908b1a2f5.jpg",
+        "https://telegra.ph/file/c533216da111fae6ea994.jpg",
+        "https://telegra.ph/file/50e37d99461ad5ba2b526.jpg",
+        "https://telegra.ph/file/9b18e9f517014814a17f5.jpg",
+        "https://telegra.ph/file/f969a58528cfa3724753f.jpg",
+        "https://telegra.ph/file/e52566e92e171b8a3b2e2.jpg",
+        "https://telegra.ph/file/0e2aefc32439059851c1b.jpg",
+        "https://telegra.ph/file/bb8b663b2b24f076d4107.jpg",
+        "https://telegra.ph/file/8001a3be7b9c88983d959.jpg",
+        "https://telegra.ph/file/134edd277dcb04a41322e.jpg",
+        "https://telegra.ph/file/28e18b4d417c48b9cbbcf.jpg",
+        "https://telegra.ph/file/07f86a12eaf0a4d6425d7.jpg",
+        "https://telegra.ph/file/5971a50bbc19e51317e6f.jpg",
+        "https://telegra.ph/file/c820baa3e9558e31dd571.jpg",
+        "https://telegra.ph/file/66062f3936ce24b9210af.jpg",
+        "https://telegra.ph/file/241e9c16e56d00b436518.jpg",
+        "https://telegra.ph/file/a94544d991ae76311dfd4.jpg",
+        "https://telegra.ph/file/41ab743400ad1100ebd0d.jpg",
+        "https://telegra.ph/file/8dccfa619d83a225da727.jpg",
+        "https://telegra.ph/file/4baaafb79e4a984e536a2.jpg",
+        "https://telegra.ph/file/59f6f207230e1737413ae.jpg",
+        "https://telegra.ph/file/393cb88308c27093861b4.jpg",
+        "https://telegra.ph/file/3a805857b73275f54f54c.jpg",
+        "https://telegra.ph/file/ac50a99fae043b51c10ba.jpg",
+        "https://telegra.ph/file/cf3fa585ee00f647c9e12.jpg",
+        "https://telegra.ph/file/5a81fb6ec9ca7e55438fa.jpg",
+        "https://telegra.ph/file/ada1119c3d6b465c2d64d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

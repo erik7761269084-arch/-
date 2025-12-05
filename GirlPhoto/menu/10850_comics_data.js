@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10850,
+    "title": "小丁 - 居家 沙滩 浴室",
+    "sourceUrl": "https://telegra.ph/小丁Cosplay---居家-沙滩-浴室-08-27",
+    "images": [
+        "https://telegra.ph/file/de67bbabcd6b157a3cf0d.jpg",
+        "https://telegra.ph/file/0743de1d7fdc0b6fbe6ad.jpg",
+        "https://telegra.ph/file/9744987cb0d7d656ca289.jpg",
+        "https://telegra.ph/file/68d158486c4aa0dbc9a0b.jpg",
+        "https://telegra.ph/file/928c4eea80d15407111cc.jpg",
+        "https://telegra.ph/file/5092d0b3cf4e3d0916ed4.jpg",
+        "https://telegra.ph/file/fe72998fdd2c1dba2957b.jpg",
+        "https://telegra.ph/file/9f28c4483cac14a56d688.jpg",
+        "https://telegra.ph/file/0695bf0717eaded02fe53.jpg",
+        "https://telegra.ph/file/3f3ea57df15927a416fd9.jpg",
+        "https://telegra.ph/file/6f5d577384bdba2cc6f22.jpg",
+        "https://telegra.ph/file/ca6df20bc194a97d8fb4e.jpg",
+        "https://telegra.ph/file/61788533b2dbf26f0f1c1.jpg",
+        "https://telegra.ph/file/290f7fb1f31f51bbc8501.jpg",
+        "https://telegra.ph/file/5bcf99cc986b7e6f800af.jpg",
+        "https://telegra.ph/file/ab485164a6367e82340a2.jpg",
+        "https://telegra.ph/file/00924c0c906a0f742d967.jpg",
+        "https://telegra.ph/file/4f69dc9099baf6957ad4a.jpg",
+        "https://telegra.ph/file/0abd8585009237b5ec53f.jpg",
+        "https://telegra.ph/file/5c6c566ca5750c1e9c901.jpg",
+        "https://telegra.ph/file/13ad99dc5c26ed2c572ce.jpg",
+        "https://telegra.ph/file/12ca0c23224d699109ffb.jpg",
+        "https://telegra.ph/file/d1aab176ac26c72c7e76b.jpg",
+        "https://telegra.ph/file/aaf915e64794765ff41ed.jpg",
+        "https://telegra.ph/file/bace23741d8ee26b2c229.jpg",
+        "https://telegra.ph/file/dd16011ed7d80685eab51.jpg",
+        "https://telegra.ph/file/cc8650841cc4ab1bdc89b.jpg",
+        "https://telegra.ph/file/bd79d4c0d641565082b06.jpg",
+        "https://telegra.ph/file/84cef1b1b7b3d7bd579f0.jpg",
+        "https://telegra.ph/file/26545ba0bb0d5ee5f3e1a.jpg",
+        "https://telegra.ph/file/31bf6bcd2f7d025f214fd.jpg",
+        "https://telegra.ph/file/4d08cb4d045d42463adaf.jpg",
+        "https://telegra.ph/file/ba1989cedd9fafbfb1f06.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

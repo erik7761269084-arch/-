@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10381,
+    "title": "雯妹不讲道理 - 520特辑豪华版 吊带袜透视",
+    "sourceUrl": "https://telegra.ph/雯妹不讲道理---520特辑豪华版-吊带袜透视-08-26",
+    "images": [
+        "https://telegra.ph/file/dbc67f29846d46408f6be.jpg",
+        "https://telegra.ph/file/1fe36648433ae7a851c09.jpg",
+        "https://telegra.ph/file/0b16cffc185c19b9f9a15.jpg",
+        "https://telegra.ph/file/6de072442c29397424045.jpg",
+        "https://telegra.ph/file/4f11fef6a69b1cdd3ae23.jpg",
+        "https://telegra.ph/file/f89d47a148e4b6a75c07e.jpg",
+        "https://telegra.ph/file/78f9b82521163daa24996.jpg",
+        "https://telegra.ph/file/5179e970facadc790cc4e.jpg",
+        "https://telegra.ph/file/144b284e45e0c25824443.jpg",
+        "https://telegra.ph/file/698ecb44ee63eb5ee2cb3.jpg",
+        "https://telegra.ph/file/7bc57d5b23cc3f5a07dfe.jpg",
+        "https://telegra.ph/file/c31cb5872be56a07aa742.jpg",
+        "https://telegra.ph/file/28ba7f6e75f0178e5e34e.jpg",
+        "https://telegra.ph/file/be3a129e08cd366880a6a.jpg",
+        "https://telegra.ph/file/33a1a2d999e0208660135.jpg",
+        "https://telegra.ph/file/4a721c9fc0147fab06775.jpg",
+        "https://telegra.ph/file/14a8e53a56a9d77499260.jpg",
+        "https://telegra.ph/file/d1eb1bafd2f41279bdaa4.jpg",
+        "https://telegra.ph/file/140b4e49a66a6a7983711.jpg",
+        "https://telegra.ph/file/f33cbcf8be55ea7d014cb.jpg",
+        "https://telegra.ph/file/7ee32c5d18b634d634556.jpg",
+        "https://telegra.ph/file/538fc560ed62d390cb7c8.jpg",
+        "https://telegra.ph/file/fbab0b9a40f1bc2407207.jpg",
+        "https://telegra.ph/file/eb74621c2ebd746d3899d.jpg",
+        "https://telegra.ph/file/d08d1db0458f8a9c67a17.jpg",
+        "https://telegra.ph/file/815d2fc6f73136f72df67.jpg",
+        "https://telegra.ph/file/c77f18ed722d145bf126b.jpg",
+        "https://telegra.ph/file/387e91fcc93842761b704.jpg",
+        "https://telegra.ph/file/0b00156513e58e10c1855.jpg",
+        "https://telegra.ph/file/17f1f9b5fadae39e582d3.jpg",
+        "https://telegra.ph/file/984c760e3a3ab8b247065.jpg",
+        "https://telegra.ph/file/074d5761acf5319e0779d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

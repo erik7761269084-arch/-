@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 22046,
+    "title": "JVID - 全裸一字马の吊縛 第一人称の绳缚调教 雅捷AV棒初解禁",
+    "sourceUrl": "https://telegra.ph/JVID---全裸一字马の吊縛-第一人称の绳缚调教-雅捷AV棒初解禁-08-29",
+    "images": [
+        "https://telegra.ph/file/90787b0e5b57913d9466b.jpg",
+        "https://telegra.ph/file/a5a0414d174f46d1a98f3.jpg",
+        "https://telegra.ph/file/f67dab4cb306d337c6c74.jpg",
+        "https://telegra.ph/file/53c19c8a8e6a48a75b510.jpg",
+        "https://telegra.ph/file/f9f3982ebdffbbf2ef600.jpg",
+        "https://telegra.ph/file/99a325a6b041874e9d674.jpg",
+        "https://telegra.ph/file/21f0a719539a1981d43eb.jpg",
+        "https://telegra.ph/file/b50d8fc461723688d1c3b.jpg",
+        "https://telegra.ph/file/fff5a386312ea4fd4fa6f.jpg",
+        "https://telegra.ph/file/15b9baf3c6c4a3e9b813f.jpg",
+        "https://telegra.ph/file/255aece684c6bdfa7a4d5.jpg",
+        "https://telegra.ph/file/597e3dda3ff78ba9de895.jpg",
+        "https://telegra.ph/file/d74540047746b6a9c6941.jpg",
+        "https://telegra.ph/file/35766ac1c444ac003e3ef.jpg",
+        "https://telegra.ph/file/215cd81e36a4d71d43df1.jpg",
+        "https://telegra.ph/file/35e4ee68c30f419eff74d.jpg",
+        "https://telegra.ph/file/beed7e09352591405e1f5.jpg",
+        "https://telegra.ph/file/2ff0ea5b88baa0b1f99da.jpg",
+        "https://telegra.ph/file/f0775c6546b8888a340bb.jpg",
+        "https://telegra.ph/file/005fac1a637d4bb3e686b.jpg",
+        "https://telegra.ph/file/c31b30c0e1e6064f2af65.jpg",
+        "https://telegra.ph/file/2c3e8b42191c8360f618e.jpg",
+        "https://telegra.ph/file/766cb41d05e7e9af04d11.jpg",
+        "https://telegra.ph/file/ad20f88b2c54f5067a00f.jpg",
+        "https://telegra.ph/file/2a5b8f6e1434ba51bf176.jpg",
+        "https://telegra.ph/file/9542a149002a3e36a07b6.jpg",
+        "https://telegra.ph/file/885b3775c8660e9fc73c1.jpg",
+        "https://telegra.ph/file/ce78d8eb9296fe753166d.jpg",
+        "https://telegra.ph/file/b1615a810f484b89b6d89.jpg",
+        "https://telegra.ph/file/16d5ad0a477fc35c69e64.jpg",
+        "https://telegra.ph/file/1c744bc49ee7aeb4efd86.jpg",
+        "https://telegra.ph/file/e7e54ac4e5b456ad2bf96.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

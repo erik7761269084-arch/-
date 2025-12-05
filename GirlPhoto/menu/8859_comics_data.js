@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8859,
+    "title": "日奈娇 - 睡美人 自摄",
+    "sourceUrl": "https://telegra.ph/日奈娇---睡美人-自摄-08-28",
+    "images": [
+        "https://telegra.ph/file/67a05971c04f94a21024a.jpg",
+        "https://telegra.ph/file/5641116fa3c6f499dba30.jpg",
+        "https://telegra.ph/file/e6d8b5034cb475ac22b8e.jpg",
+        "https://telegra.ph/file/d24440fe5e38c6429059d.jpg",
+        "https://telegra.ph/file/7f7493b96227ed2c8c180.jpg",
+        "https://telegra.ph/file/17de597981f920f38de71.jpg",
+        "https://telegra.ph/file/491401293a49f4b592c88.jpg",
+        "https://telegra.ph/file/4c96a55d8765315b89349.jpg",
+        "https://telegra.ph/file/3d1009a12ca818cb0d928.jpg",
+        "https://telegra.ph/file/306eeb074c64acc6c3a3f.jpg",
+        "https://telegra.ph/file/66189afb5efdadd41a1f8.jpg",
+        "https://telegra.ph/file/7b40a702a728c557954ca.jpg",
+        "https://telegra.ph/file/fc10d8ef9e090c74d9c28.jpg",
+        "https://telegra.ph/file/13028fa191d7bfa55e486.jpg",
+        "https://telegra.ph/file/1a31cf0dc6b9a8fb57113.jpg",
+        "https://telegra.ph/file/8a1f8fd9a862de87bc7ac.jpg",
+        "https://telegra.ph/file/3fb170f8604c1be709991.jpg",
+        "https://telegra.ph/file/bf524600d95883e0f77c4.jpg",
+        "https://telegra.ph/file/41be1beac52ce92dc272c.jpg",
+        "https://telegra.ph/file/d6bb6504889bf3244a42b.jpg",
+        "https://telegra.ph/file/4e94f78ddec0e0b021e47.jpg",
+        "https://telegra.ph/file/297e71e9a85e35dc52213.jpg",
+        "https://telegra.ph/file/d48f6cf43b02f14c78757.jpg",
+        "https://telegra.ph/file/d0538f57e0e90e4bfaabc.jpg",
+        "https://telegra.ph/file/dffcdaab673eb0a8a49b7.jpg",
+        "https://telegra.ph/file/6f0064b918c73bbaaf4d2.jpg",
+        "https://telegra.ph/file/491cad99b9112bab327dc.jpg",
+        "https://telegra.ph/file/4e1d663ed0548d47c55db.jpg",
+        "https://telegra.ph/file/d7d53b8890975f1a8ff66.jpg",
+        "https://telegra.ph/file/8f47a6ba631a38df20d2f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

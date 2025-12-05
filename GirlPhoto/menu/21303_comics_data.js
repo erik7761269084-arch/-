@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 21303,
+    "title": "Espacia Korea EHC_088 ANNA",
+    "sourceUrl": "https://telegra.ph/Espacia-Korea-EHC-088-ANNA-08-29",
+    "images": [
+        "https://telegra.ph/file/839ad0ab2835395fdbd6c.jpg",
+        "https://telegra.ph/file/4384f5faf970532c421de.jpg",
+        "https://telegra.ph/file/26b328aaa82a752d6c3c0.jpg",
+        "https://telegra.ph/file/1d675497e9dfc66515cd3.jpg",
+        "https://telegra.ph/file/85649d04c54ec24435efd.jpg",
+        "https://telegra.ph/file/2ff96ebafeb281ff857d9.jpg",
+        "https://telegra.ph/file/c50ba372fe1d37d7ae87c.jpg",
+        "https://telegra.ph/file/de65877593ad56ba3e9e9.jpg",
+        "https://telegra.ph/file/80396f3476d2957036b0c.jpg",
+        "https://telegra.ph/file/c8e7fd71784088026339d.jpg",
+        "https://telegra.ph/file/c1d46700c3916cb6972aa.jpg",
+        "https://telegra.ph/file/1fb1f3d17e99d0b96c98f.jpg",
+        "https://telegra.ph/file/c34177c725beec966f193.jpg",
+        "https://telegra.ph/file/6861acee57598d3135a82.jpg",
+        "https://telegra.ph/file/0f15dee877b7919764533.jpg",
+        "https://telegra.ph/file/d3ef43f46828cbe94e7ea.jpg",
+        "https://telegra.ph/file/cb7dfc0bc3935960752e6.jpg",
+        "https://telegra.ph/file/8de9fc132572f6c3ca58f.jpg",
+        "https://telegra.ph/file/0368eb3cea39123e283d1.jpg",
+        "https://telegra.ph/file/ab6e5f5779d513d8a8879.jpg",
+        "https://telegra.ph/file/2cdf4f214c16c9fd78448.jpg",
+        "https://telegra.ph/file/2e3866c91674dd18a31b7.jpg",
+        "https://telegra.ph/file/8cb470c2a9473d1bf85f7.jpg",
+        "https://telegra.ph/file/d7c57b9bae3535ff09946.jpg",
+        "https://telegra.ph/file/321b5aa9b593e4e4cb43d.jpg",
+        "https://telegra.ph/file/ca2b6023fb5901bcaae0f.jpg",
+        "https://telegra.ph/file/abbf6c9a60a76060055b5.jpg",
+        "https://telegra.ph/file/29190e910da54c8644670.jpg",
+        "https://telegra.ph/file/47591a74a91724ecdadca.jpg",
+        "https://telegra.ph/file/202159edc8f684e108d29.jpg",
+        "https://telegra.ph/file/967affe7a5be74a11731b.jpg",
+        "https://telegra.ph/file/d52e1d4a1d4c0ee65d0b2.jpg",
+        "https://telegra.ph/file/f401e455c1c0fd9993c6a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

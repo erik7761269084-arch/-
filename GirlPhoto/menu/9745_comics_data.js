@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9745,
+    "title": "水淼aqua Fantia09月 – ハナコ🏵️自撮り",
+    "sourceUrl": "https://telegra.ph/水淼aqua-Fantia09月--ハナコ自撮り-08-29",
+    "images": [
+        "https://telegra.ph/file/90b44c5d13f6a1f8aa6c1.jpg",
+        "https://telegra.ph/file/52c8afb6df6a079133980.jpg",
+        "https://telegra.ph/file/e907720c296910fbcad90.jpg",
+        "https://telegra.ph/file/6d537537fb15e5a090998.jpg",
+        "https://telegra.ph/file/1ecb8419fade62bf74be5.jpg",
+        "https://telegra.ph/file/c914edf2cdb2f9eb369b6.jpg",
+        "https://telegra.ph/file/f439f9caf5ffbab45c6db.jpg",
+        "https://telegra.ph/file/89cdd864135e1a5808cb5.jpg",
+        "https://telegra.ph/file/2b252c5dc8de24c6c2053.jpg",
+        "https://telegra.ph/file/089e66cb12b75c8cf471b.jpg",
+        "https://telegra.ph/file/7570461a3ea4ece3adf6b.jpg",
+        "https://telegra.ph/file/8698f035b8590b40ec10a.jpg",
+        "https://telegra.ph/file/819d0e516a639e4673e4b.jpg",
+        "https://telegra.ph/file/99fa8276d1f4116e655cd.jpg",
+        "https://telegra.ph/file/b2a17f772f6cfdd6d67b7.jpg",
+        "https://telegra.ph/file/80497814e25b5828b888d.jpg",
+        "https://telegra.ph/file/cd89bca465f56fab3a0ca.jpg",
+        "https://telegra.ph/file/4850d1f92e99c892478d1.jpg",
+        "https://telegra.ph/file/6c0fa1c0ec08f7b89fefd.jpg",
+        "https://telegra.ph/file/fb19ec94751169e57b624.jpg",
+        "https://telegra.ph/file/c08c74bb823016ab2de52.jpg",
+        "https://telegra.ph/file/c8d6977490ea22b8adada.jpg",
+        "https://telegra.ph/file/bf9c8e3d42fc8c103e481.jpg",
+        "https://telegra.ph/file/90d0cb1e122ed95c154b0.jpg",
+        "https://telegra.ph/file/fe768c0b7a0cf99fe8d73.jpg",
+        "https://telegra.ph/file/2e331563a9dc21600bf07.jpg",
+        "https://telegra.ph/file/c2186e4f30736c2d9a41c.jpg",
+        "https://telegra.ph/file/7ee1bd352d102cbbc48bf.jpg",
+        "https://telegra.ph/file/176a6a96983af44575485.jpg",
+        "https://telegra.ph/file/9ca24c8d4c2032c33a500.jpg",
+        "https://telegra.ph/file/271083f04cd031c967b2d.jpg",
+        "https://telegra.ph/file/e11a0d3a215be638296a1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

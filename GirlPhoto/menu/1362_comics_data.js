@@ -1,0 +1,36 @@
+const comicData = {
+    "IDcode": 1362,
+    "title": "miko酱ww 放学后",
+    "sourceUrl": "https://telegra.ph/miko酱ww-放学后-08-25",
+    "images": [
+        "https://telegra.ph/file/98b6229e6569c40f75f77.jpg",
+        "https://telegra.ph/file/dc49b0d7c13895f176b8f.jpg",
+        "https://telegra.ph/file/13ec1a9c1e946d59b85ae.jpg",
+        "https://telegra.ph/file/9dc1c8f4e24035bfe6f21.jpg",
+        "https://telegra.ph/file/ab9108c4d428c61a8704b.jpg",
+        "https://telegra.ph/file/343408a8c950221f1effa.jpg",
+        "https://telegra.ph/file/58c588650098f4f591739.jpg",
+        "https://telegra.ph/file/408794af09357404cc598.jpg",
+        "https://telegra.ph/file/26cce70965bd5c65101cb.jpg",
+        "https://telegra.ph/file/715d68b176c0c163ece75.jpg",
+        "https://telegra.ph/file/db3453686b541b654387b.jpg",
+        "https://telegra.ph/file/6082153abb8f40f2b2e35.jpg",
+        "https://telegra.ph/file/a7613f82569c5a7bc976b.jpg",
+        "https://telegra.ph/file/e0ddae11e1102d1362496.jpg",
+        "https://telegra.ph/file/066f67321a2164efdc050.jpg",
+        "https://telegra.ph/file/a27c63ce1a16ec8170239.jpg",
+        "https://telegra.ph/file/00ebd4c0149398057c762.jpg",
+        "https://telegra.ph/file/128cd6c793cdc81a099d4.jpg",
+        "https://telegra.ph/file/15b49145228a067d5e4dc.jpg",
+        "https://telegra.ph/file/ce61af727a757da41fb09.jpg",
+        "https://telegra.ph/file/197f7189c4d10ba100474.jpg",
+        "https://telegra.ph/file/3c44477d92f9cbfefd888.jpg",
+        "https://telegra.ph/file/6a6fcf81a3c7185b5f9a9.jpg",
+        "https://telegra.ph/file/68f0021426555faa67912.jpg",
+        "https://telegra.ph/file/3d28874c4b78fcd379172.jpg",
+        "https://telegra.ph/file/e4ed3c464491abfdb9e8d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

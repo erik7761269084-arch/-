@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 7741,
+    "title": "萌妹奈汐酱nice - 情趣内衣",
+    "sourceUrl": "https://telegra.ph/萌妹奈汐酱nice---情趣内衣-08-27",
+    "images": [
+        "https://telegra.ph/file/65135636c56aa0af46b5a.jpg",
+        "https://telegra.ph/file/ef7dc64eba68d9516c612.jpg",
+        "https://telegra.ph/file/8b2f5e39bf63b0743376d.jpg",
+        "https://telegra.ph/file/9bd12949e3a0efd6b51d3.jpg",
+        "https://telegra.ph/file/c106cf7c73c47dcf752d5.jpg",
+        "https://telegra.ph/file/4279c399c60b6690aa3b3.jpg",
+        "https://telegra.ph/file/9131c327a2751800bcb4e.jpg",
+        "https://telegra.ph/file/234728ef4b9c03dd596ba.jpg",
+        "https://telegra.ph/file/e42a3b2cac15f3c596dc6.jpg",
+        "https://telegra.ph/file/1b6b57bc5e8208d0b53b9.jpg",
+        "https://telegra.ph/file/7f59f38204cdcdbc9f97c.jpg",
+        "https://telegra.ph/file/03ba8e6162487d28ec612.jpg",
+        "https://telegra.ph/file/4f2968c2f7164e38bfb1d.jpg",
+        "https://telegra.ph/file/33a31a8cf67a3fe085788.jpg",
+        "https://telegra.ph/file/d42c9802991b4cf1a24bd.jpg",
+        "https://telegra.ph/file/013adff66f314ca2b5e6b.jpg",
+        "https://telegra.ph/file/906717262615621af191c.jpg",
+        "https://telegra.ph/file/3b3e1c6ef702fcdd2d6be.jpg",
+        "https://telegra.ph/file/099535d618032862241ae.jpg",
+        "https://telegra.ph/file/8df222d70649d5a5c13d8.jpg",
+        "https://telegra.ph/file/244a3746247fa31784900.jpg",
+        "https://telegra.ph/file/ab1da0fbd5549333697d5.jpg",
+        "https://telegra.ph/file/e03d4c291191cd2510e54.jpg",
+        "https://telegra.ph/file/26e375810b28ead3bc4ce.jpg",
+        "https://telegra.ph/file/1d0f2b2c7947d83d7493c.jpg",
+        "https://telegra.ph/file/f2b3f1e31923b61672a30.jpg",
+        "https://telegra.ph/file/cbaf19d213800dba44677.jpg",
+        "https://telegra.ph/file/9d0ca8564b36e0ae18042.jpg",
+        "https://telegra.ph/file/17e7cf45d824573827e96.jpg",
+        "https://telegra.ph/file/f70c6a70e438e51da63c5.jpg",
+        "https://telegra.ph/file/8b189727177f4709d0de2.jpg",
+        "https://telegra.ph/file/b87b831516d461a3677f2.jpg",
+        "https://telegra.ph/file/b0072826dbbed58e617bc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

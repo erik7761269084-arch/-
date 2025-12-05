@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5883,
+    "title": "九九八XY - 监狱校园奶牛",
+    "sourceUrl": "https://telegra.ph/九九八XY---监狱校园奶牛-08-27",
+    "images": [
+        "https://telegra.ph/file/37ab19078d8a76783fa35.jpg",
+        "https://telegra.ph/file/7e6ffbffe3ed9ddb41b30.jpg",
+        "https://telegra.ph/file/52c43e698a93cbec1e272.jpg",
+        "https://telegra.ph/file/ab97f3e1a0f455b111b22.jpg",
+        "https://telegra.ph/file/59b5d156353e0ea00764c.jpg",
+        "https://telegra.ph/file/4c925e9ee21ac168e4949.jpg",
+        "https://telegra.ph/file/947111f7427dbe3e33b3c.jpg",
+        "https://telegra.ph/file/3fdb54c089e1471aac9bd.jpg",
+        "https://telegra.ph/file/b95fbedac7156498b60b7.jpg",
+        "https://telegra.ph/file/5b3f39ec4ba463176300e.jpg",
+        "https://telegra.ph/file/5e1de77ed22e573f49a75.jpg",
+        "https://telegra.ph/file/b01e491ae2d737e091c8c.jpg",
+        "https://telegra.ph/file/fd3deb48a023c28a06e0c.jpg",
+        "https://telegra.ph/file/8000449f2aa68512591ff.jpg",
+        "https://telegra.ph/file/6e07f36415843679ae9f6.jpg",
+        "https://telegra.ph/file/a77dac622579fcfa7983e.jpg",
+        "https://telegra.ph/file/53979e2aeff18bea3e4ce.jpg",
+        "https://telegra.ph/file/a729b6f0b122cb6395ab6.jpg",
+        "https://telegra.ph/file/97ea62c3f5cc24f678964.jpg",
+        "https://telegra.ph/file/3096c229e1bac232da8c7.jpg",
+        "https://telegra.ph/file/23a6bcab7734a38837876.jpg",
+        "https://telegra.ph/file/1f14558668857a6161116.jpg",
+        "https://telegra.ph/file/b654e93d73603630ff341.jpg",
+        "https://telegra.ph/file/9f43d4ea34142ebbdd8f0.jpg",
+        "https://telegra.ph/file/fb469c094144210074415.jpg",
+        "https://telegra.ph/file/8d0f90e383b8da532a803.jpg",
+        "https://telegra.ph/file/fd2a10348111c23daa97a.jpg",
+        "https://telegra.ph/file/53de2871c14d2c38df2f9.jpg",
+        "https://telegra.ph/file/a49950b765f891e12aedd.jpg",
+        "https://telegra.ph/file/acdf2b066a6387bc21a3d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

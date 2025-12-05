@@ -1,0 +1,36 @@
+const comicData = {
+    "IDcode": 20035,
+    "title": "升玖老师 地铁吉他",
+    "sourceUrl": "https://telegra.ph/升玖老师-地铁吉他-08-25",
+    "images": [
+        "https://telegra.ph/file/6616abc09a388a8652b25.jpg",
+        "https://telegra.ph/file/ce2f17201362a9d9b6765.jpg",
+        "https://telegra.ph/file/47432675485dc62068b2b.jpg",
+        "https://telegra.ph/file/16c34a67c6af3af130745.jpg",
+        "https://telegra.ph/file/2fd7d3bf9b7a89cf45fd5.jpg",
+        "https://telegra.ph/file/31470d611023ba303d117.jpg",
+        "https://telegra.ph/file/0f9dd259e905ae750857c.jpg",
+        "https://telegra.ph/file/8de24abf040a6ccc28cc9.jpg",
+        "https://telegra.ph/file/2e2a42bd997dafd6f3d17.jpg",
+        "https://telegra.ph/file/03ad29cf2b68e5bc2c703.jpg",
+        "https://telegra.ph/file/97e5c928fb622f3b195a8.jpg",
+        "https://telegra.ph/file/d183136d5b4c90b572516.jpg",
+        "https://telegra.ph/file/4c73abfbf71d389de081f.jpg",
+        "https://telegra.ph/file/69521663e0bff57563272.jpg",
+        "https://telegra.ph/file/d6077be4d689d2c71e7c6.jpg",
+        "https://telegra.ph/file/b1deb0569d0998103b3d7.jpg",
+        "https://telegra.ph/file/83e187a252807c1eec50e.jpg",
+        "https://telegra.ph/file/deccc781a60bdb531783e.jpg",
+        "https://telegra.ph/file/4ec2f765a52525dfe3df8.jpg",
+        "https://telegra.ph/file/9046243593f86ab11467a.jpg",
+        "https://telegra.ph/file/656517c6f10c713ea2fc3.jpg",
+        "https://telegra.ph/file/4277312c286e9ed44fc16.jpg",
+        "https://telegra.ph/file/1c6c1ba0f975c461328ae.jpg",
+        "https://telegra.ph/file/37bc10211ca61512ecc12.jpg",
+        "https://telegra.ph/file/c0385d598504dcec9e0e1.jpg",
+        "https://telegra.ph/file/96a5d96a3e0383c69d29e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1918,
+    "title": "凉凉子 American ass",
+    "sourceUrl": "https://telegra.ph/%E5%87%89%E5%87%89%E5%AD%90-American-ass-08-23",
+    "images": [
+        "https://telegra.ph/file/875cfd0815e06ba1b459c.jpg",
+        "https://telegra.ph/file/43c28ad1aadd9b2a277ff.jpg",
+        "https://telegra.ph/file/5d97857e6f4ace963590a.jpg",
+        "https://telegra.ph/file/8bf79ce7fc2f4f64c847f.jpg",
+        "https://telegra.ph/file/dee9c23b511677b1e419d.jpg",
+        "https://telegra.ph/file/c8fa73e407e80847a9e35.jpg",
+        "https://telegra.ph/file/986787e924172358007a7.jpg",
+        "https://telegra.ph/file/6f4b622f608cb416431ca.jpg",
+        "https://telegra.ph/file/21868100b313376d79af7.jpg",
+        "https://telegra.ph/file/cb19bb27b42b135a7b46a.jpg",
+        "https://telegra.ph/file/84213207c68f2fb1836b2.jpg",
+        "https://telegra.ph/file/a512a5f16f589a3271780.jpg",
+        "https://telegra.ph/file/ffd07dfd90f7e84490106.jpg",
+        "https://telegra.ph/file/f697a29b66f9bc6a4a406.jpg",
+        "https://telegra.ph/file/9a8ab064494e444d193c1.jpg",
+        "https://telegra.ph/file/612517671fb8054df90aa.jpg",
+        "https://telegra.ph/file/8681392d43f59500aa897.jpg",
+        "https://telegra.ph/file/8a268e0890f6c514f1d92.jpg",
+        "https://telegra.ph/file/3c2c02d67bdc46ccec861.jpg",
+        "https://telegra.ph/file/e204c5eca3174c1437049.jpg",
+        "https://telegra.ph/file/5621adb13d505db464024.jpg",
+        "https://telegra.ph/file/4263e6a8811369d76ff6a.jpg",
+        "https://telegra.ph/file/0e76d338168fea094cb23.jpg",
+        "https://telegra.ph/file/1615ba2aaa696120d8232.jpg",
+        "https://telegra.ph/file/f1c0d85c97ef60d61a26d.jpg",
+        "https://telegra.ph/file/0d2722475c48a4689ce0b.jpg",
+        "https://telegra.ph/file/c774b8d0f8c6eb521068d.jpg",
+        "https://telegra.ph/file/ce61ab45ebaf6488dfe51.jpg",
+        "https://telegra.ph/file/da5ddbd51ba05e1cb291a.jpg",
+        "https://telegra.ph/file/f32640c2175f6d0602627.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

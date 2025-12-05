@@ -1,0 +1,37 @@
+const comicData = {
+    "IDcode": 7928,
+    "title": "年年 杂志1（2月6打赏群资源）",
+    "sourceUrl": "https://telegra.ph/年年-杂志12月6打赏群资源-08-25",
+    "images": [
+        "https://telegra.ph/file/ec22b1b038448cf7f5f60.png",
+        "https://telegra.ph/file/0830449a2e56aaa33d331.jpg",
+        "https://telegra.ph/file/4487fabcbda5e33046093.jpg",
+        "https://telegra.ph/file/9f9007c394cc46d7662e7.jpg",
+        "https://telegra.ph/file/3c8820953d2abbd7b71f7.jpg",
+        "https://telegra.ph/file/a473e750a22ce0ee92dba.jpg",
+        "https://telegra.ph/file/51d09b61ed987eb16b135.jpg",
+        "https://telegra.ph/file/8154054b18bc4e84b3dbf.jpg",
+        "https://telegra.ph/file/c231046d048e98cbd045b.jpg",
+        "https://telegra.ph/file/75eceac09a2926e0cd337.jpg",
+        "https://telegra.ph/file/d928ddc51687b6081b071.jpg",
+        "https://telegra.ph/file/9418c9af007448617fe1b.jpg",
+        "https://telegra.ph/file/f754e3d78efaa6a3db3e3.jpg",
+        "https://telegra.ph/file/5496e3a3580530c1898b0.jpg",
+        "https://telegra.ph/file/ab5086e42cd41a54ea845.jpg",
+        "https://telegra.ph/file/06ee1672791d4e6a004f1.jpg",
+        "https://telegra.ph/file/a204fafc726d8a95743c3.jpg",
+        "https://telegra.ph/file/616edcbc2e0fa0ee911cb.jpg",
+        "https://telegra.ph/file/6f28c66f3a2471afb2116.jpg",
+        "https://telegra.ph/file/d1d10146183ffc4859246.jpg",
+        "https://telegra.ph/file/9f0a6fb137ad832c8ff54.jpg",
+        "https://telegra.ph/file/aebc365b888bc48ec2f13.jpg",
+        "https://telegra.ph/file/f6e552d37ac6936678219.jpg",
+        "https://telegra.ph/file/014b7f6162f2d99f168f5.jpg",
+        "https://telegra.ph/file/c7766f91f7af5c89c55c1.jpg",
+        "https://telegra.ph/file/333da39348972d45b7692.jpg",
+        "https://telegra.ph/file/44cf413a4b41e1d747205.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

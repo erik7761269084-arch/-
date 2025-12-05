@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5208,
+    "title": "鬼畜瑶 - 礼物 30P",
+    "sourceUrl": "https://telegra.ph/%E9%AC%BC%E7%95%9C%E7%91%B6---%E7%A4%BC%E7%89%A9-30P-08-20",
+    "images": [
+        "https://image.acg.lol/file/2024/12/12/1-77dfff521d7cc5683.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-1372dfc5e2abbddb5.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-2176d545666e66c4a.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-351716b16ef0ca81f.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-49b5b9a4b65ae1f95.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-5ac02b7913979158c.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-64e92bcd3a6083374.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-8be1339e4130c2310.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-90d31bd86b6629924.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-10a183978e4f81ac9e.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-11a3354c86ff6647c0.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-12a3c2ea448505911f.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-13ae247bbb37486c95.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-147217e4752007af5b.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-15003ac26f357f890d.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-164590e04b332616e1.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-17eb2ee29b39b4d933.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-180f282635de7b399a.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-19e016186fe3b9ee7a.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-20613e40e898e514d5.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-211c9723d940be26ca.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-22156fc0706462ea03.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-23759ad7ad52eccda7.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-240dae94cc19a7e510.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-25075530d751de2cd0.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-264aa0ff0c1f9a7a04.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-27fb8625fec4bed26b.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-28bc58834f05c48806.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-29849744295f4abe92.jpg",
+        "https://image.acg.lol/file/2024/12/12/1-30cbb7fd653d03e600.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

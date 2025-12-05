@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5906,
+    "title": "九曲Jean 二佐Nisa - 黑紫蕾丝套 30p 2v",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E6%9B%B2Jean-%E4%BA%8C%E4%BD%90Nisa---%E9%BB%91%E7%B4%AB%E8%95%BE%E4%B8%9D%E5%A5%97-30p-2v-08-20",
+    "images": [
+        "https://image.acg.lol/file/2024/12/23/1-399a2636a5e10e64a.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-18dcb3a15bb0b715d.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-26a58ea9b9c2b9455.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-44902cd452202e9b0.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-50fa8ae7fcfda883b.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-696fa36c06196a933.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-7e1f66531e377e4a6.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-82959bb26839a764d.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-9.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-10.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-11.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-12.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-13.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-14.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-15.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-16.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-17.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-18eaf3ec1194f0dad0.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-19.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-20.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-21.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-22.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-23.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-24.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-25.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-26.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-27.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-28.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-29.jpg",
+        "https://image.acg.lol/file/2024/12/23/1-30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

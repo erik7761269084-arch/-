@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9407,
+    "title": "Vol.669 逗逗doudou",
+    "sourceUrl": "https://telegra.ph/Vol669-逗逗doudou-08-30",
+    "images": [
+        "https://telegra.ph/file/b6f63e11e98aa633d21ad.jpg",
+        "https://telegra.ph/file/22416680134869f441bc4.jpg",
+        "https://telegra.ph/file/0f83512b2c7bacf4574e0.jpg",
+        "https://telegra.ph/file/df3c38018b2e4a7525b9a.jpg",
+        "https://telegra.ph/file/b71768afa488e9eee621d.jpg",
+        "https://telegra.ph/file/81be6c07a0b5051f944af.jpg",
+        "https://telegra.ph/file/6df3178f1b5269e358bef.jpg",
+        "https://telegra.ph/file/0e3befd83bec145feeb10.jpg",
+        "https://telegra.ph/file/fc11540f8e35716704344.jpg",
+        "https://telegra.ph/file/cb18968e810a595121ec7.jpg",
+        "https://telegra.ph/file/6ed3cf63ea0af4ea4047a.jpg",
+        "https://telegra.ph/file/fd1c1c663352d1b516e63.jpg",
+        "https://telegra.ph/file/89715b43f67c63fc0ffb0.jpg",
+        "https://telegra.ph/file/3eb6495bd3a73965cf560.jpg",
+        "https://telegra.ph/file/3f5a22a5601628dce820f.jpg",
+        "https://telegra.ph/file/6093bccf7b27f28d80008.jpg",
+        "https://telegra.ph/file/69f0c6df6c380eba78cdd.jpg",
+        "https://telegra.ph/file/62546674939fbca69ca1c.jpg",
+        "https://telegra.ph/file/58edc99e6aa5db86e73fc.jpg",
+        "https://telegra.ph/file/4795dbed34b06f81c21b7.jpg",
+        "https://telegra.ph/file/e2ba7e69a6b3595ff6f48.jpg",
+        "https://telegra.ph/file/bbb7db07a530444e17aed.jpg",
+        "https://telegra.ph/file/1e997d4601758883f2b4c.jpg",
+        "https://telegra.ph/file/d5df794144af263912f20.jpg",
+        "https://telegra.ph/file/e3a1bc82de04b1caae532.jpg",
+        "https://telegra.ph/file/443fe23b70ca590c19c72.jpg",
+        "https://telegra.ph/file/cd79a99db76ed20032a9c.jpg",
+        "https://telegra.ph/file/cb518b702ff16ac5d21bb.jpg",
+        "https://telegra.ph/file/ef1432eaaec4a24f0945e.jpg",
+        "https://telegra.ph/file/72cee19d2662724a55f59.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

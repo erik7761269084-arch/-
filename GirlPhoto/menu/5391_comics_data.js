@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 5391,
+    "title": "斗鱼米线线sama - 小可爱熊妹",
+    "sourceUrl": "https://telegra.ph/斗鱼米线线sama---小可爱熊妹-08-27",
+    "images": [
+        "https://telegra.ph/file/fd92cf1699e8eefd559b5.jpg",
+        "https://telegra.ph/file/fedef624ef072b42b1707.jpg",
+        "https://telegra.ph/file/268ae42e6680b247e6160.jpg",
+        "https://telegra.ph/file/f11c1f676861617a87806.jpg",
+        "https://telegra.ph/file/c88128883918f8dfb155b.jpg",
+        "https://telegra.ph/file/eb4c10dbaf4d162d234eb.jpg",
+        "https://telegra.ph/file/035b9caba88610f622904.jpg",
+        "https://telegra.ph/file/7d1e5630910d6c5acf18e.jpg",
+        "https://telegra.ph/file/9bd0327ed45b358c47eca.jpg",
+        "https://telegra.ph/file/6fd69a7a9af3f3baa5446.jpg",
+        "https://telegra.ph/file/81404980d3defaf07fd66.jpg",
+        "https://telegra.ph/file/db820a42a2aee8926580d.jpg",
+        "https://telegra.ph/file/de12046b1fa7593ec1d77.jpg",
+        "https://telegra.ph/file/f3102ef6727985c03aa57.jpg",
+        "https://telegra.ph/file/94b7105fdbbeff48e580d.jpg",
+        "https://telegra.ph/file/ba88eebc2c9c5f780fa04.jpg",
+        "https://telegra.ph/file/f8f47e185e123859eb07d.jpg",
+        "https://telegra.ph/file/f526db356e05eaf156b02.jpg",
+        "https://telegra.ph/file/c4af031ae3c429d58eb69.jpg",
+        "https://telegra.ph/file/5261dae4b636cf3a0b7fe.jpg",
+        "https://telegra.ph/file/b53c462314ac03d2e5e29.jpg",
+        "https://telegra.ph/file/16a091ca1d00f157f2e3c.jpg",
+        "https://telegra.ph/file/8d8cd4d3ea024c33c38f4.jpg",
+        "https://telegra.ph/file/babe31ff110c2f59af8d9.jpg",
+        "https://telegra.ph/file/3588a37d030574d04356b.jpg",
+        "https://telegra.ph/file/4e6421f636ce27cd222c5.jpg",
+        "https://telegra.ph/file/ddd18c057c451f5b5b4b8.jpg",
+        "https://telegra.ph/file/db44d9132d74c56bcd2d0.jpg",
+        "https://telegra.ph/file/8007fda353b9efd4210dc.jpg",
+        "https://telegra.ph/file/2bf1b39049be16f88f24e.jpg",
+        "https://telegra.ph/file/c077044cca879462f81d2.jpg",
+        "https://telegra.ph/file/b55e58318626876f12837.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8975,
+    "title": "阮邑_Fairy - 大象 红色",
+    "sourceUrl": "https://telegra.ph/阮邑-Fairy---大象-红色-08-30",
+    "images": [
+        "https://telegra.ph/file/19e6a8e00387ba521149c.jpg",
+        "https://telegra.ph/file/fa9cc0d4db188f11b83c4.jpg",
+        "https://telegra.ph/file/5c8f0d665afee7a41f346.jpg",
+        "https://telegra.ph/file/4c52af3b6185babc37e99.jpg",
+        "https://telegra.ph/file/992f85d0127c05baa0a9d.jpg",
+        "https://telegra.ph/file/0023b961a6e2fcb87457c.jpg",
+        "https://telegra.ph/file/d070cd0e507bf6f46ccea.jpg",
+        "https://telegra.ph/file/1d98cedae6d15bc333a82.jpg",
+        "https://telegra.ph/file/4660ca01be7f738916ffa.jpg",
+        "https://telegra.ph/file/a4bff4cc66080166d5f88.jpg",
+        "https://telegra.ph/file/af2d066d792f1c467c5d2.jpg",
+        "https://telegra.ph/file/a4963706755c3cc5cd95a.jpg",
+        "https://telegra.ph/file/2505e1b41f3db35dabf9b.jpg",
+        "https://telegra.ph/file/ebe6862883e16b76d4518.jpg",
+        "https://telegra.ph/file/79531147e707b5606a73b.jpg",
+        "https://telegra.ph/file/00ee2ef491ce0ffb88089.jpg",
+        "https://telegra.ph/file/b9fc46183f8973320bd39.jpg",
+        "https://telegra.ph/file/2de303cdb93f460f7009f.jpg",
+        "https://telegra.ph/file/a87390b21abcb26ff74d0.jpg",
+        "https://telegra.ph/file/3dcbdbcd0202ef44a56e7.jpg",
+        "https://telegra.ph/file/4b78c1e80ba31bfad059f.jpg",
+        "https://telegra.ph/file/08d5b0b9e8438554d84b4.jpg",
+        "https://telegra.ph/file/2ada1e169b460830c3dee.jpg",
+        "https://telegra.ph/file/b5e52a5640392f1063eac.jpg",
+        "https://telegra.ph/file/8c2ad87b50fde3f98928c.jpg",
+        "https://telegra.ph/file/3d03aa564ed8ea2374db3.jpg",
+        "https://telegra.ph/file/4abb866139ac30d549a18.jpg",
+        "https://telegra.ph/file/e66cd2b4f8342e433ae14.jpg",
+        "https://telegra.ph/file/bd0288abdb895fe902950.jpg",
+        "https://telegra.ph/file/97bdd539889262395c758.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

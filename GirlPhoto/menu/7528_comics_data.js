@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7528,
+    "title": "爆机少女喵小吉 - 幻",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉---幻-08-29",
+    "images": [
+        "https://telegra.ph/file/7a8ec240442638bde2484.jpg",
+        "https://telegra.ph/file/e3b8c759430da627fb3b3.jpg",
+        "https://telegra.ph/file/b2690102aa67ca8a12984.jpg",
+        "https://telegra.ph/file/32fe9ff114590aafbcdd7.jpg",
+        "https://telegra.ph/file/71f4c2a739fb9d95ebb32.jpg",
+        "https://telegra.ph/file/19971134332ba402d1a81.jpg",
+        "https://telegra.ph/file/39afddb8029a52ae9e5f3.jpg",
+        "https://telegra.ph/file/9a7b624afa521360c4c2c.jpg",
+        "https://telegra.ph/file/ae05336381a5b2e167452.jpg",
+        "https://telegra.ph/file/6710de0ea300affa929d8.jpg",
+        "https://telegra.ph/file/c81aef320554646c3bba6.jpg",
+        "https://telegra.ph/file/ac10a1cf78f8d5811c9b2.jpg",
+        "https://telegra.ph/file/9b0ca32d3e36358ba062b.jpg",
+        "https://telegra.ph/file/29b5b86862d87ca59ca68.jpg",
+        "https://telegra.ph/file/6513031a6a6075b11951b.jpg",
+        "https://telegra.ph/file/1a922a55f6d70ac096859.jpg",
+        "https://telegra.ph/file/ad872d84e89416c514f1a.jpg",
+        "https://telegra.ph/file/c7a67014f0a3b4fedfe5e.jpg",
+        "https://telegra.ph/file/73c951c956273cdcbd425.jpg",
+        "https://telegra.ph/file/4d5f8286c6bd36a1c779a.jpg",
+        "https://telegra.ph/file/40af62028947ad0086080.jpg",
+        "https://telegra.ph/file/bcc4232dfab90ec375a2c.jpg",
+        "https://telegra.ph/file/51903a230114ce31a51f6.jpg",
+        "https://telegra.ph/file/e878ac6bfa4bfe06f59d2.jpg",
+        "https://telegra.ph/file/6ab29ee6b3bcd7eeb28f0.jpg",
+        "https://telegra.ph/file/5ef69f27aec72144cf1b7.jpg",
+        "https://telegra.ph/file/2ac27e77b19ba5fe5e531.jpg",
+        "https://telegra.ph/file/2920496e3e90d3116b645.jpg",
+        "https://telegra.ph/file/74f144cc525f26d408e39.jpg",
+        "https://telegra.ph/file/c37e8b0b2da77fcc96ed0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

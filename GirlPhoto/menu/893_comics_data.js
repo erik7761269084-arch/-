@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 893,
+    "title": "G44不会受伤 - 玛丽连体衣",
+    "sourceUrl": "https://telegra.ph/G44不会受伤---玛丽连体衣-08-26",
+    "images": [
+        "https://telegra.ph/file/34afc0cb93699466cf8ac.jpg",
+        "https://telegra.ph/file/ecc7703af0d63c86785fc.jpg",
+        "https://telegra.ph/file/94571f8cb990276047a88.jpg",
+        "https://telegra.ph/file/a621d870899484ba3f6e3.jpg",
+        "https://telegra.ph/file/64f4a4aca80eac99bad6f.jpg",
+        "https://telegra.ph/file/433a7de3c27fd5f0c4fec.jpg",
+        "https://telegra.ph/file/acfa57140e06bb8270167.jpg",
+        "https://telegra.ph/file/d399f212e0642cb94083b.jpg",
+        "https://telegra.ph/file/b3aee0c41dec5e7059787.jpg",
+        "https://telegra.ph/file/eeb9dc61e616ce866ebce.jpg",
+        "https://telegra.ph/file/b5b9b6dd5a0b5e32ebabc.jpg",
+        "https://telegra.ph/file/4f248b14e22a05abe0953.jpg",
+        "https://telegra.ph/file/d7dfacf51cc77c5de0696.jpg",
+        "https://telegra.ph/file/b7073381ff4fc01cc1130.jpg",
+        "https://telegra.ph/file/031f9ecc95e1d128004b1.jpg",
+        "https://telegra.ph/file/34f7403039709e331017a.jpg",
+        "https://telegra.ph/file/300077c3e8be9582b5ce0.jpg",
+        "https://telegra.ph/file/434d82becfa437ccbf925.jpg",
+        "https://telegra.ph/file/63ac13c90be92cbd7641a.jpg",
+        "https://telegra.ph/file/67022c006b1618a1a76e0.jpg",
+        "https://telegra.ph/file/146fba11635d5cafcf4d1.jpg",
+        "https://telegra.ph/file/93f7c67ceb3a03bf15c3f.jpg",
+        "https://telegra.ph/file/d6fb4f0c2aa4d4ad9d7ad.jpg",
+        "https://telegra.ph/file/92f711ad417a8d9ab49c8.jpg",
+        "https://telegra.ph/file/7eeb2b9db46278cddf010.jpg",
+        "https://telegra.ph/file/c258a9b8317addd567ce8.jpg",
+        "https://telegra.ph/file/57fc7eaf326514c391b4e.jpg",
+        "https://telegra.ph/file/a84e3827892fdae3f027e.jpg",
+        "https://telegra.ph/file/4dc90ab74025dede2ca10.jpg",
+        "https://telegra.ph/file/e58310fa05b728c2ead58.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

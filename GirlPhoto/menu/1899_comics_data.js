@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1899,
+    "title": "凉凉子 - 圣诞草莓蛋糕 32p10v",
+    "sourceUrl": "https://telegra.ph/%E5%87%89%E5%87%89%E5%AD%90---%E5%9C%A3%E8%AF%9E%E8%8D%89%E8%8E%93%E8%9B%8B%E7%B3%95-32p10v-08-20",
+    "images": [
+        "https://image.acg.lol/file/2025/01/18/6.jpg",
+        "https://image.acg.lol/file/2025/01/18/1d7821b944187384b.jpg",
+        "https://image.acg.lol/file/2025/01/18/2.jpg",
+        "https://image.acg.lol/file/2025/01/18/3.jpg",
+        "https://image.acg.lol/file/2025/01/18/43e630784562c05a0.jpg",
+        "https://image.acg.lol/file/2025/01/18/5.jpg",
+        "https://image.acg.lol/file/2025/01/18/7.jpg",
+        "https://image.acg.lol/file/2025/01/18/8.jpg",
+        "https://image.acg.lol/file/2025/01/18/9.jpg",
+        "https://image.acg.lol/file/2025/01/18/10.jpg",
+        "https://image.acg.lol/file/2025/01/18/11.jpg",
+        "https://image.acg.lol/file/2025/01/18/12.jpg",
+        "https://image.acg.lol/file/2025/01/18/13.jpg",
+        "https://image.acg.lol/file/2025/01/18/14.jpg",
+        "https://image.acg.lol/file/2025/01/18/15.jpg",
+        "https://image.acg.lol/file/2025/01/18/16.jpg",
+        "https://image.acg.lol/file/2025/01/18/17.jpg",
+        "https://image.acg.lol/file/2025/01/18/18.jpg",
+        "https://image.acg.lol/file/2025/01/18/19.jpg",
+        "https://image.acg.lol/file/2025/01/18/20.jpg",
+        "https://image.acg.lol/file/2025/01/18/21.jpg",
+        "https://image.acg.lol/file/2025/01/18/22.jpg",
+        "https://image.acg.lol/file/2025/01/18/23.jpg",
+        "https://image.acg.lol/file/2025/01/18/24.jpg",
+        "https://image.acg.lol/file/2025/01/18/25.jpg",
+        "https://image.acg.lol/file/2025/01/18/26.jpg",
+        "https://image.acg.lol/file/2025/01/18/27.jpg",
+        "https://image.acg.lol/file/2025/01/18/28.jpg",
+        "https://image.acg.lol/file/2025/01/18/29.jpg",
+        "https://image.acg.lol/file/2025/01/18/30.jpg",
+        "https://image.acg.lol/file/2025/01/18/31.jpg",
+        "https://image.acg.lol/file/2025/01/18/32.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

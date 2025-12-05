@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20295,
+    "title": "TiTi - 杀戮都市兔女郎",
+    "sourceUrl": "https://telegra.ph/TiTi---杀戮都市兔女郎-08-29",
+    "images": [
+        "https://telegra.ph/file/15fa2e4f8a5f4b36acf7b.jpg",
+        "https://telegra.ph/file/d2d12a843092b75eaebe4.jpg",
+        "https://telegra.ph/file/f36cb6d911941c9b739c2.jpg",
+        "https://telegra.ph/file/6f213d9adb05b3a821ff9.jpg",
+        "https://telegra.ph/file/41de8a263a8bc51581ce6.jpg",
+        "https://telegra.ph/file/b7d13fc9c8bb45f64c725.jpg",
+        "https://telegra.ph/file/378453244013bf5fa4a86.jpg",
+        "https://telegra.ph/file/23d72e1907329e9ff226a.jpg",
+        "https://telegra.ph/file/0d7b197b4df99cf2285e7.jpg",
+        "https://telegra.ph/file/501ccdcf0748bd22eed2b.jpg",
+        "https://telegra.ph/file/81da3ee4ee760238940e1.jpg",
+        "https://telegra.ph/file/20ab58563a31af606dbd9.jpg",
+        "https://telegra.ph/file/6eadc3c9a1fc04cb187fe.jpg",
+        "https://telegra.ph/file/d4005ee423a514ddde231.jpg",
+        "https://telegra.ph/file/3c76a0198345dd9289577.jpg",
+        "https://telegra.ph/file/5c5715e4502fa8df98aad.jpg",
+        "https://telegra.ph/file/37d53ed9e3fbf1f73e8d2.jpg",
+        "https://telegra.ph/file/e08b5092f0527854282eb.jpg",
+        "https://telegra.ph/file/141292112f1419fc8a179.jpg",
+        "https://telegra.ph/file/95369abfc618a78e11e16.jpg",
+        "https://telegra.ph/file/3111190346510ea328dc2.jpg",
+        "https://telegra.ph/file/d850f4623511a8cb5978c.jpg",
+        "https://telegra.ph/file/8d7e416acd71f18bb7801.jpg",
+        "https://telegra.ph/file/89934fbe1a169a7596139.jpg",
+        "https://telegra.ph/file/4ee0588631b2321ae72ee.jpg",
+        "https://telegra.ph/file/7173065e9ec7d910f0ead.jpg",
+        "https://telegra.ph/file/8d59ce16ef6524e731056.jpg",
+        "https://telegra.ph/file/84f9b81dda72221d43df1.jpg",
+        "https://telegra.ph/file/47d55b8f461ab223fa2a6.jpg",
+        "https://telegra.ph/file/e57c1faaaf5507fc86c80.jpg",
+        "https://telegra.ph/file/b88c76866a7ebe1cca926.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

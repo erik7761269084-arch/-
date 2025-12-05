@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8018,
+    "title": "您的蛋蛋 美味修女",
+    "sourceUrl": "https://telegra.ph/您的蛋蛋-美味修女-08-28",
+    "images": [
+        "https://telegra.ph/file/4d6b07b517e941ccbed68.jpg",
+        "https://telegra.ph/file/1649552f56d86a6cd9529.jpg",
+        "https://telegra.ph/file/cdb227ba84037ec13a02d.jpg",
+        "https://telegra.ph/file/6a977e6c2b3c7b0b02669.jpg",
+        "https://telegra.ph/file/3a71e83a875cdacef1ddf.jpg",
+        "https://telegra.ph/file/a4ebd0c3bda7ba417f399.jpg",
+        "https://telegra.ph/file/c07739b79d15850325ac4.jpg",
+        "https://telegra.ph/file/5d66687066faffa72be2b.jpg",
+        "https://telegra.ph/file/c9e58949f6b58b58b65b5.jpg",
+        "https://telegra.ph/file/013678171428cd45865b6.jpg",
+        "https://telegra.ph/file/182563a306b0f91b534b6.jpg",
+        "https://telegra.ph/file/63933ea57f9233d8c3a73.jpg",
+        "https://telegra.ph/file/9ab81008a6deddfcfbc07.jpg",
+        "https://telegra.ph/file/a3f44af56e06abb0472da.jpg",
+        "https://telegra.ph/file/7c33adbff4eb6b63ca45f.jpg",
+        "https://telegra.ph/file/50a168e0ca6a93b341a37.jpg",
+        "https://telegra.ph/file/052483b47f3490fb00653.jpg",
+        "https://telegra.ph/file/5aef1f05e5cb73061d913.jpg",
+        "https://telegra.ph/file/ff2d28ff7422039929bbf.jpg",
+        "https://telegra.ph/file/33ae477e9a1a9ea4af239.jpg",
+        "https://telegra.ph/file/012f4004368c40084be40.jpg",
+        "https://telegra.ph/file/1582f57f1c1424e0d5e76.jpg",
+        "https://telegra.ph/file/fe3618495d424187217d3.jpg",
+        "https://telegra.ph/file/a12d8c230817ab26200b1.jpg",
+        "https://telegra.ph/file/16ef053eea522babb2ead.jpg",
+        "https://telegra.ph/file/c3fd35020189112b360cc.jpg",
+        "https://telegra.ph/file/75478c1a084babf67af03.jpg",
+        "https://telegra.ph/file/5bace52c3cf8673bcb10d.jpg",
+        "https://telegra.ph/file/0f2797c0a9c9b1fcc5638.jpg",
+        "https://telegra.ph/file/7b24d2b7bdcb52df17cdf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

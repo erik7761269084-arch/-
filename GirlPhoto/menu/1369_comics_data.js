@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1369,
+    "title": "miko酱ww mikoの洛天依旗袍（3月8打赏群资源）",
+    "sourceUrl": "https://telegra.ph/mikoの洛天依旗袍3月8打赏群资源-08-24",
+    "images": [
+        "https://telegra.ph/file/3a0e8d90bc2d89d5299ec.png",
+        "https://telegra.ph/file/f8b192620924754895035.jpg",
+        "https://telegra.ph/file/40149a9ea3bc700874553.jpg",
+        "https://telegra.ph/file/8d9dbb651e556762a8ce5.jpg",
+        "https://telegra.ph/file/3ec64a0ef4d1d4aab2227.jpg",
+        "https://telegra.ph/file/fc58844442bf320414f20.jpg",
+        "https://telegra.ph/file/ff1d82d83aac8bf63ac0a.jpg",
+        "https://telegra.ph/file/46942dded4e184b170a28.jpg",
+        "https://telegra.ph/file/5daddd988813acd82d0db.jpg",
+        "https://telegra.ph/file/a3194275fd07d24d53c46.jpg",
+        "https://telegra.ph/file/b846386d7f1c23e125040.jpg",
+        "https://telegra.ph/file/a0ce8529230c62f9cb717.jpg",
+        "https://telegra.ph/file/7d82a1e471d39972664df.jpg",
+        "https://telegra.ph/file/5c3c70d637c0f5b921968.jpg",
+        "https://telegra.ph/file/60be2941af684f7ff4af4.jpg",
+        "https://telegra.ph/file/d98e883f73be9c0ae56d6.jpg",
+        "https://telegra.ph/file/1f8f33ffd3573ba661467.jpg",
+        "https://telegra.ph/file/01cb853cd76d9a8941a7b.jpg",
+        "https://telegra.ph/file/daa6e7c298ec44d4c34b2.jpg",
+        "https://telegra.ph/file/615dadfeb12e91936bdbe.jpg",
+        "https://telegra.ph/file/44921c330a5420f03be20.jpg",
+        "https://telegra.ph/file/59fc145ba25385889ae58.jpg",
+        "https://telegra.ph/file/b4b6518fdff9ef384d3fc.jpg",
+        "https://telegra.ph/file/b4bb40a9b44e786018ffa.jpg",
+        "https://telegra.ph/file/46cc22ef9067f55a3b8a6.jpg",
+        "https://telegra.ph/file/7bd575decc013c0e79926.jpg",
+        "https://telegra.ph/file/bd92dd4762b89eb066f9c.jpg",
+        "https://telegra.ph/file/d63bf7fcba294a07a6ada.jpg",
+        "https://telegra.ph/file/f8603419604980e257270.jpg",
+        "https://telegra.ph/file/f12c88bf18c781c29d485.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

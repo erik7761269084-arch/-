@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12035,
+    "title": "萌妹子眼酱大魔王w 黑色情趣网袜",
+    "sourceUrl": "https://telegra.ph/萌妹子眼酱大魔王w-黑色情趣网袜-08-27",
+    "images": [
+        "https://telegra.ph/file/108664f797e412a35b93f.jpg",
+        "https://telegra.ph/file/1a9ee69746f1f81adbf84.jpg",
+        "https://telegra.ph/file/5fd293795f469ce045a77.jpg",
+        "https://telegra.ph/file/4c5cab88a749bd0709081.jpg",
+        "https://telegra.ph/file/a885d425a62fe68210264.jpg",
+        "https://telegra.ph/file/451e2439104e9444d7316.jpg",
+        "https://telegra.ph/file/e716322974a6f8b662626.jpg",
+        "https://telegra.ph/file/e0555d9c6ecd85125e4fe.jpg",
+        "https://telegra.ph/file/d40ca28b1123d8b0d20d9.jpg",
+        "https://telegra.ph/file/3cfd05903b8cfd33df245.jpg",
+        "https://telegra.ph/file/3a4d4042748649b17e247.jpg",
+        "https://telegra.ph/file/37d650cf074e7c68bd488.jpg",
+        "https://telegra.ph/file/512cefdfc6292383c197e.jpg",
+        "https://telegra.ph/file/b12d11de14e09d550bcac.jpg",
+        "https://telegra.ph/file/d214aacf05fa42ae7ba50.jpg",
+        "https://telegra.ph/file/c87859341f05e8b2f58da.jpg",
+        "https://telegra.ph/file/9350d107c2ea73f83f9f5.jpg",
+        "https://telegra.ph/file/b80b3d262640882bef423.jpg",
+        "https://telegra.ph/file/52d5935690f28042a70d4.jpg",
+        "https://telegra.ph/file/4c3d0edb0464e7ca8dbcd.jpg",
+        "https://telegra.ph/file/69d55fa767c9d2786b499.jpg",
+        "https://telegra.ph/file/52ba507f9fe085eae7ee5.jpg",
+        "https://telegra.ph/file/bc77659ab0822ee530558.jpg",
+        "https://telegra.ph/file/025fa47811bd1eb268ebb.jpg",
+        "https://telegra.ph/file/eb9024541bc71b1ae17a5.jpg",
+        "https://telegra.ph/file/da41882691363debf3114.jpg",
+        "https://telegra.ph/file/65f7f13e0e4aed7696117.jpg",
+        "https://telegra.ph/file/9bf0f516de0e65c0459a1.jpg",
+        "https://telegra.ph/file/ee6751ad6c34ce53aa6ba.jpg",
+        "https://telegra.ph/file/66cbf0c930998bd92bb05.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

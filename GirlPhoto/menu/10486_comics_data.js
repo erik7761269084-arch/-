@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10486,
+    "title": "VOL.257 西呱呀呀呀 夏日制服",
+    "sourceUrl": "https://telegra.ph/VOL257-西呱呀呀呀-夏日制服-08-28",
+    "images": [
+        "https://telegra.ph/file/6362975abe7db82bcb746.jpg",
+        "https://telegra.ph/file/81f0a8ba82aa54472d712.jpg",
+        "https://telegra.ph/file/3d1bbf1d776e409c5811e.jpg",
+        "https://telegra.ph/file/517f8638bf5fe9ed805fc.jpg",
+        "https://telegra.ph/file/13b31022e38e320df5096.jpg",
+        "https://telegra.ph/file/c0b35c0af2bd5e32380a9.jpg",
+        "https://telegra.ph/file/3dbfc4e53e87512c242ff.jpg",
+        "https://telegra.ph/file/771f8b4bbdd941e0e381d.jpg",
+        "https://telegra.ph/file/1e684c73344dcf38701eb.jpg",
+        "https://telegra.ph/file/1541492db0d0ce7dcfdad.jpg",
+        "https://telegra.ph/file/f5ca04fa87fbdc0adc65e.jpg",
+        "https://telegra.ph/file/bc43d9d74b833c75f9da0.jpg",
+        "https://telegra.ph/file/d196f4fa1406f36333543.jpg",
+        "https://telegra.ph/file/f4a9f6f994d51a6c82acf.jpg",
+        "https://telegra.ph/file/e10805cf6a3b7fa163711.jpg",
+        "https://telegra.ph/file/8037314056708ffd1e8d5.jpg",
+        "https://telegra.ph/file/da5f1b7969ccd1cba3a1b.jpg",
+        "https://telegra.ph/file/c9475a4e8e5130674a596.jpg",
+        "https://telegra.ph/file/5812969a6a8f4518303d0.jpg",
+        "https://telegra.ph/file/fa999fc7dc3fc799654f9.jpg",
+        "https://telegra.ph/file/da8cc8b1a65374bdcd441.jpg",
+        "https://telegra.ph/file/06f4067de5f0961727264.jpg",
+        "https://telegra.ph/file/b6b1e7f2a96940b1abf2d.jpg",
+        "https://telegra.ph/file/0523ef5383f34c6a3b386.jpg",
+        "https://telegra.ph/file/96153fc336f7733a551ef.jpg",
+        "https://telegra.ph/file/1c3665eca2c86d026fdeb.jpg",
+        "https://telegra.ph/file/8deda3cd0443d53d6c8b9.jpg",
+        "https://telegra.ph/file/bf939c876eff13fa86d15.jpg",
+        "https://telegra.ph/file/9cd24fc1091bf1940e951.jpg",
+        "https://telegra.ph/file/ac8d66ee5676e440c9353.jpg",
+        "https://telegra.ph/file/19bebd9a6869a07009a5e.jpg",
+        "https://telegra.ph/file/2744a60a19a186e757b19.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

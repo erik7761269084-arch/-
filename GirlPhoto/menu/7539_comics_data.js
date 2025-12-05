@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7539,
+    "title": "杪夏 - 白色死库水露出",
+    "sourceUrl": "https://telegra.ph/杪夏---白色死库水露出-08-27",
+    "images": [
+        "https://telegra.ph/file/004d79e0e328f8a084f85.jpg",
+        "https://telegra.ph/file/425c7ef4bcd438a0d3bc4.jpg",
+        "https://telegra.ph/file/a8c2f32366fdbc1467f41.jpg",
+        "https://telegra.ph/file/2b2d678f46fbeec482a91.jpg",
+        "https://telegra.ph/file/4973667b1185f5d0101ba.jpg",
+        "https://telegra.ph/file/124ae73df44e9c04a60a6.jpg",
+        "https://telegra.ph/file/b135a6b52d3b3e04f1625.jpg",
+        "https://telegra.ph/file/4eac426d64340b3a1a9bd.jpg",
+        "https://telegra.ph/file/62799ad3586e453ccd806.jpg",
+        "https://telegra.ph/file/f43bba48aeadc2efaf349.jpg",
+        "https://telegra.ph/file/4b3ee1116005aa1e1aa0a.jpg",
+        "https://telegra.ph/file/d3da83f71cf1daba126bf.jpg",
+        "https://telegra.ph/file/084099c216c08ad82cc80.jpg",
+        "https://telegra.ph/file/d4f18cd892e79f9539b60.jpg",
+        "https://telegra.ph/file/dde051d66bada5717a4eb.jpg",
+        "https://telegra.ph/file/d7668e3e97bb6e2c59b0a.jpg",
+        "https://telegra.ph/file/000560ca95804a1fcbf00.jpg",
+        "https://telegra.ph/file/aa6f79675cdbdd2a465cf.jpg",
+        "https://telegra.ph/file/bc90e3d3b7b4512be2ce9.jpg",
+        "https://telegra.ph/file/3bf6d3ca14ac47a0b2a5b.jpg",
+        "https://telegra.ph/file/1875aca8553577abf4aa5.jpg",
+        "https://telegra.ph/file/db534d1c51ac1428b0e2e.jpg",
+        "https://telegra.ph/file/475da389f6f8edb49bc0b.jpg",
+        "https://telegra.ph/file/bd29fe53c3befc730d92c.jpg",
+        "https://telegra.ph/file/9df775f6745ee8956cafd.jpg",
+        "https://telegra.ph/file/1f8a68f95abc45827cc36.jpg",
+        "https://telegra.ph/file/693252817eda7598b91ad.jpg",
+        "https://telegra.ph/file/53c4b2a114875a81bf1c7.jpg",
+        "https://telegra.ph/file/82af9d02556fd89e4dcff.jpg",
+        "https://telegra.ph/file/c69b899da28f5980217ad.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

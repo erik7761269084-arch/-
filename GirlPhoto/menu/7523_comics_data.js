@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7523,
+    "title": "爆机少女喵小吉 无聊的周末",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉-无聊的周末-08-29",
+    "images": [
+        "https://telegra.ph/file/b449944d95c552144fd43.jpg",
+        "https://telegra.ph/file/d3a9b4769e60bccd6372d.jpg",
+        "https://telegra.ph/file/ef6bafbe430576dec6466.jpg",
+        "https://telegra.ph/file/20df5effaec854ee92982.jpg",
+        "https://telegra.ph/file/b0571cd3a4193b8ae1ab8.jpg",
+        "https://telegra.ph/file/04af43177125b75c76dd7.jpg",
+        "https://telegra.ph/file/84186adff2443eab0cef1.jpg",
+        "https://telegra.ph/file/b91812d7a4ac58efaae61.jpg",
+        "https://telegra.ph/file/6bca73992df76f35a0aba.jpg",
+        "https://telegra.ph/file/a376340a1f53a606b8eba.jpg",
+        "https://telegra.ph/file/823dbfde989a04378d3ce.jpg",
+        "https://telegra.ph/file/298c8909810daa59cc353.jpg",
+        "https://telegra.ph/file/9da5e88f5dae6d68ea42c.jpg",
+        "https://telegra.ph/file/4604c4fdb735e850d74b2.jpg",
+        "https://telegra.ph/file/c3cd110c797446bcab5ae.jpg",
+        "https://telegra.ph/file/8f78e31146ee52a6f9cca.jpg",
+        "https://telegra.ph/file/3ac4aab144b3ea210fb33.jpg",
+        "https://telegra.ph/file/7248a8d32d76e9857571d.jpg",
+        "https://telegra.ph/file/25bbaf9aaf97c432f48b3.jpg",
+        "https://telegra.ph/file/0938e2e5fc8849e539e56.jpg",
+        "https://telegra.ph/file/ccd1b738c2c844e705a05.jpg",
+        "https://telegra.ph/file/95a7f4703f9653228e06e.jpg",
+        "https://telegra.ph/file/bba7aa4249b34106a150d.jpg",
+        "https://telegra.ph/file/b129f97c4e6a452b6944a.jpg",
+        "https://telegra.ph/file/434f1b76209404e3f3eb5.jpg",
+        "https://telegra.ph/file/6716dc180d3c85dfa569a.jpg",
+        "https://telegra.ph/file/b115f2838c842fbbd2931.jpg",
+        "https://telegra.ph/file/03a1aca2b47646c8f7691.jpg",
+        "https://telegra.ph/file/d153ad3c326ab9c4e6d40.jpg",
+        "https://telegra.ph/file/7c9d7271f7de8fbd23179.jpg",
+        "https://telegra.ph/file/f97913c60dd26653ad363.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

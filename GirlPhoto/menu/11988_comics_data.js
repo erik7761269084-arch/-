@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11988,
+    "title": "眼酱大魔王w - NO.65 Vol.32 瑜伽服 [32P-160MB]",
+    "sourceUrl": "https://telegra.ph/眼酱大魔王w---NO65-Vol32-瑜伽服-32P-160MB-08-26",
+    "images": [
+        "https://telegra.ph/file/831693e948d7c89ea8e3b.jpg",
+        "https://telegra.ph/file/2dc847610dafc60fe8907.jpg",
+        "https://telegra.ph/file/7e95c7c979cd4bda0ab00.jpg",
+        "https://telegra.ph/file/d4a0f36533ab5039dcbc7.jpg",
+        "https://telegra.ph/file/f8241a50d6bb567a79f3c.jpg",
+        "https://telegra.ph/file/49a218fff79d6ce8a6527.jpg",
+        "https://telegra.ph/file/19acfba5e52627c00345e.jpg",
+        "https://telegra.ph/file/e7674cfe77b902ebf7c21.jpg",
+        "https://telegra.ph/file/09f918eba00c1f06f310a.jpg",
+        "https://telegra.ph/file/087dfafc329bd8a8a0f66.jpg",
+        "https://telegra.ph/file/02522debe87ec8b5c0f39.jpg",
+        "https://telegra.ph/file/8cd64ff0c4c2b845951a0.jpg",
+        "https://telegra.ph/file/32d508005bbe5adb4f9a8.jpg",
+        "https://telegra.ph/file/ad44e32ea1e105d99ef34.jpg",
+        "https://telegra.ph/file/ca4ceb210e1472e4d0da3.jpg",
+        "https://telegra.ph/file/eb500b7345f2a73aaf3dd.jpg",
+        "https://telegra.ph/file/d926a616ca892455bf20d.jpg",
+        "https://telegra.ph/file/5dc643ce3d359853353e3.jpg",
+        "https://telegra.ph/file/4719758da4703a08c694a.jpg",
+        "https://telegra.ph/file/4bce4297fe18dcdaa00d9.jpg",
+        "https://telegra.ph/file/e1ae13e0b90b68704a7c5.jpg",
+        "https://telegra.ph/file/5eed98c729c8106433196.jpg",
+        "https://telegra.ph/file/3901be40c02137d64c4a6.jpg",
+        "https://telegra.ph/file/83f134613a2b1aed0b4be.jpg",
+        "https://telegra.ph/file/9e5bde1351f9c88b7b9e2.jpg",
+        "https://telegra.ph/file/ef448e6481d618b4a8fa3.jpg",
+        "https://telegra.ph/file/07ad298bf3e55e2601716.jpg",
+        "https://telegra.ph/file/c454903e70862052415ad.jpg",
+        "https://telegra.ph/file/6c56d460d3b8d4a7aebc2.jpg",
+        "https://telegra.ph/file/8451302bdd1f57daad639.jpg",
+        "https://telegra.ph/file/76a619ddc427309c46a1e.jpg",
+        "https://telegra.ph/file/ba549a7dff6d271345396.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

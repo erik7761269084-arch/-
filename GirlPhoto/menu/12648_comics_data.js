@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12648,
+    "title": "桜井宁宁 - 小白猫 蕾丝内衣",
+    "sourceUrl": "https://telegra.ph/桜井宁宁---小白猫-蕾丝内衣-08-27",
+    "images": [
+        "https://telegra.ph/file/61a8354aca75584e30600.jpg",
+        "https://telegra.ph/file/620ebab29aa8c80983344.jpg",
+        "https://telegra.ph/file/c3f0f31bcf97d56ad45cc.jpg",
+        "https://telegra.ph/file/07d5c6128268ed5543a31.jpg",
+        "https://telegra.ph/file/f438a55095b4e199320e7.jpg",
+        "https://telegra.ph/file/c2d3ea73123502790627b.jpg",
+        "https://telegra.ph/file/ab3ccc72f34df6091d22f.jpg",
+        "https://telegra.ph/file/6bb957526362a146647ec.jpg",
+        "https://telegra.ph/file/4a71fe874a5301a70f4b0.jpg",
+        "https://telegra.ph/file/69508adb99d9d314cc68e.jpg",
+        "https://telegra.ph/file/68493d9b3da209cb45786.jpg",
+        "https://telegra.ph/file/defbb3e20b5a2c473ea3f.jpg",
+        "https://telegra.ph/file/37b0c4b1eef1bf0f77e58.jpg",
+        "https://telegra.ph/file/a71e6176822f3d286ac50.jpg",
+        "https://telegra.ph/file/36e0b62e1a4852dba7e1e.jpg",
+        "https://telegra.ph/file/baed27f9341635c3e876e.jpg",
+        "https://telegra.ph/file/ad366db9a1acb751a41d7.jpg",
+        "https://telegra.ph/file/4486eff960b5560e1c89e.jpg",
+        "https://telegra.ph/file/d382dc0a22924e0904cc9.jpg",
+        "https://telegra.ph/file/075f61df98a178c429422.jpg",
+        "https://telegra.ph/file/3d004aadaa5708d01003b.jpg",
+        "https://telegra.ph/file/7f296f47b19e537b2bef0.jpg",
+        "https://telegra.ph/file/1b26d87fe4064ef960452.jpg",
+        "https://telegra.ph/file/47be0645e2bf65f53d156.jpg",
+        "https://telegra.ph/file/dea03b9077585dae0acf0.jpg",
+        "https://telegra.ph/file/af55ab488a282b0b5393f.jpg",
+        "https://telegra.ph/file/db4e045ea66c632202f52.jpg",
+        "https://telegra.ph/file/1007e12103d70da239b68.jpg",
+        "https://telegra.ph/file/c23ab0ee2b63afbdfed5c.jpg",
+        "https://telegra.ph/file/5c38d73e3147b08741f4b.jpg",
+        "https://telegra.ph/file/d7d0cd414df9dd1d9f5b0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

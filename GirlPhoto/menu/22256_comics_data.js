@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 22256,
+    "title": "JVID - 真女王调教Tiny全记录",
+    "sourceUrl": "https://telegra.ph/JVID---真女王调教Tiny全记录-08-29",
+    "images": [
+        "https://telegra.ph/file/bb711c95c5e2843232054.jpg",
+        "https://telegra.ph/file/2914da6af9b667085d5ab.jpg",
+        "https://telegra.ph/file/c462bab4394bd7622235e.jpg",
+        "https://telegra.ph/file/7938d25fe510299b6aabb.jpg",
+        "https://telegra.ph/file/dc89b67660aad5071c342.jpg",
+        "https://telegra.ph/file/d7b969beaf1dd1133ba3e.jpg",
+        "https://telegra.ph/file/c4ff8595e4329fca35306.jpg",
+        "https://telegra.ph/file/4d7f6e173c10592820feb.jpg",
+        "https://telegra.ph/file/647b4eac86df3d4bd21c9.jpg",
+        "https://telegra.ph/file/cdfdade0040afa286d93d.jpg",
+        "https://telegra.ph/file/80c49a76d33f1f6dbba2c.jpg",
+        "https://telegra.ph/file/b7f7033a4873ccee06291.jpg",
+        "https://telegra.ph/file/a10b00d1401663c608ba3.jpg",
+        "https://telegra.ph/file/9ae6eeab71e531605bc2d.jpg",
+        "https://telegra.ph/file/1eb789411d89c439908d5.jpg",
+        "https://telegra.ph/file/0e0fec2ba21a65ec33161.jpg",
+        "https://telegra.ph/file/9899d72b74506c1bb1849.jpg",
+        "https://telegra.ph/file/6682ab2a2877c930f7a9c.jpg",
+        "https://telegra.ph/file/c895444a3d310c5b83091.jpg",
+        "https://telegra.ph/file/ef05ce566ffabdb7fd5ae.jpg",
+        "https://telegra.ph/file/32eccb22f492f43f67cba.jpg",
+        "https://telegra.ph/file/a308f14d2ad296920ceb2.jpg",
+        "https://telegra.ph/file/d2f40c61c4d9abde4e83f.jpg",
+        "https://telegra.ph/file/6c47f8d11264b1f61c683.jpg",
+        "https://telegra.ph/file/82cf7222f05c947760f13.jpg",
+        "https://telegra.ph/file/d94de7d0f4a5fd10270e7.jpg",
+        "https://telegra.ph/file/ec11e992212ad219542a3.jpg",
+        "https://telegra.ph/file/675383038a1e19427c6b2.jpg",
+        "https://telegra.ph/file/8fc5f0a608f597cab1305.jpg",
+        "https://telegra.ph/file/18bcb4f9c1e0741835172.jpg",
+        "https://telegra.ph/file/ec3d06ffbcc933f362404.jpg",
+        "https://telegra.ph/file/90a69f4596f75692673be.jpg",
+        "https://telegra.ph/file/aebccbc9fd583b77e8c7e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12757,
+    "title": "VOL.226 桜桃喵 窗边女孩",
+    "sourceUrl": "https://telegra.ph/VOL226-桜桃喵-窗边女孩-08-27",
+    "images": [
+        "https://telegra.ph/file/77f2b0e51f62edd2d3d19.jpg",
+        "https://telegra.ph/file/3474c337a7d4e92e4cd0c.jpg",
+        "https://telegra.ph/file/db5fa25fae1d88fd160f6.jpg",
+        "https://telegra.ph/file/d7be93850f1dc77f69d08.jpg",
+        "https://telegra.ph/file/f27bf1fea94255e70b797.jpg",
+        "https://telegra.ph/file/48651f2451d3152ab213f.jpg",
+        "https://telegra.ph/file/9cb2061669fca7b3eb492.jpg",
+        "https://telegra.ph/file/4b76a93418c6b454b5a44.jpg",
+        "https://telegra.ph/file/c2aa724c8cff18e03cb84.jpg",
+        "https://telegra.ph/file/0b342011406aa4cb57ed2.jpg",
+        "https://telegra.ph/file/a7fb2a979f1fe6d4bb972.jpg",
+        "https://telegra.ph/file/b9ae07841c624c0312ec0.jpg",
+        "https://telegra.ph/file/86f4871eb8600e80d6044.jpg",
+        "https://telegra.ph/file/48dbf14f5b3fd892a05f5.jpg",
+        "https://telegra.ph/file/9794e99936c6ba67e3dec.jpg",
+        "https://telegra.ph/file/311ad5d4b4b2923d31e55.jpg",
+        "https://telegra.ph/file/901bd5038e3233d5cd903.jpg",
+        "https://telegra.ph/file/a473f85f1e68e27473a6a.jpg",
+        "https://telegra.ph/file/468a7b1bcb84beab58e66.jpg",
+        "https://telegra.ph/file/61ca0076afbf43baaece3.jpg",
+        "https://telegra.ph/file/0530b9a47c7474ad05f82.jpg",
+        "https://telegra.ph/file/584bf114447c886931c7d.jpg",
+        "https://telegra.ph/file/9ddbf117b37588030f236.jpg",
+        "https://telegra.ph/file/717ea00b0be2ebdc50ba0.jpg",
+        "https://telegra.ph/file/61c8eea72610108aaa47a.jpg",
+        "https://telegra.ph/file/2142a4a6f407fa79aa455.jpg",
+        "https://telegra.ph/file/8f16a42adbbbdde237adb.jpg",
+        "https://telegra.ph/file/d51fcd79ce0e77d0eb908.jpg",
+        "https://telegra.ph/file/8b5a8ce6677e60e9d30bd.jpg",
+        "https://telegra.ph/file/e32d51b3d7d0ea8ae8980.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

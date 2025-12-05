@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 3653,
+    "title": "禅院熏 – 比基尼小狐狸",
+    "sourceUrl": "https://telegra.ph/禅院熏--比基尼小狐狸-08-29",
+    "images": [
+        "https://telegra.ph/file/0ae19f56761d499ab1d5e.jpg",
+        "https://telegra.ph/file/26c97e75fbfdf27064ef9.jpg",
+        "https://telegra.ph/file/cdb49df7d09e180f6554a.jpg",
+        "https://telegra.ph/file/45683c7f48b64fa38684c.jpg",
+        "https://telegra.ph/file/23f77b40f49d41f886dc5.jpg",
+        "https://telegra.ph/file/e0daba4eb90cadb915799.jpg",
+        "https://telegra.ph/file/6dfc3d895d5e4ee7c84d9.jpg",
+        "https://telegra.ph/file/bc0114f20d8cf07837ad7.jpg",
+        "https://telegra.ph/file/d5e0e7306a8d4ed74fa2d.jpg",
+        "https://telegra.ph/file/2fe6db92d8d103345b7bf.jpg",
+        "https://telegra.ph/file/a923db773ee9eda172ff8.jpg",
+        "https://telegra.ph/file/6b24a53cd6861d8cb583f.jpg",
+        "https://telegra.ph/file/854fa5df65cd21fd2e0ab.jpg",
+        "https://telegra.ph/file/a168cc312500296b0f361.jpg",
+        "https://telegra.ph/file/14814b1a61375e5819c07.jpg",
+        "https://telegra.ph/file/f5371e151e42faa228ffa.jpg",
+        "https://telegra.ph/file/f66982bdc3878ccbd2561.jpg",
+        "https://telegra.ph/file/80b72304713c00f487333.jpg",
+        "https://telegra.ph/file/3d8e5bbed34597c6dd9a9.jpg",
+        "https://telegra.ph/file/750071da3f5a69ed94584.jpg",
+        "https://telegra.ph/file/f82f7027f8b49d1c583e0.jpg",
+        "https://telegra.ph/file/211cfa53ccc68fdff9616.jpg",
+        "https://telegra.ph/file/228b25091a6bedbb86869.jpg",
+        "https://telegra.ph/file/0f1f786be22168ed6c0dc.jpg",
+        "https://telegra.ph/file/168d54b6c7b4726ecdd94.jpg",
+        "https://telegra.ph/file/8feff2dc67773cf3f0a5e.jpg",
+        "https://telegra.ph/file/f7f6bbc804c72c945f7b0.jpg",
+        "https://telegra.ph/file/5f0b156bedd8027ad71d4.jpg",
+        "https://telegra.ph/file/7c6f57f2a5dc41cafa111.jpg",
+        "https://telegra.ph/file/9d77a65d494ac2b12a155.jpg",
+        "https://telegra.ph/file/d1ef76ee3cfe8948cad04.jpg",
+        "https://telegra.ph/file/fa566d1adceec46bbf83c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

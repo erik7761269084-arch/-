@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11769,
+    "title": "轩萧学姐 - 师匠OL",
+    "sourceUrl": "https://telegra.ph/轩萧学姐---师匠OL-08-27",
+    "images": [
+        "https://telegra.ph/file/45e7a05c1e559d50d6140.jpg",
+        "https://telegra.ph/file/3fcef6b919b68dd479151.jpg",
+        "https://telegra.ph/file/451451332983ff5399c7b.jpg",
+        "https://telegra.ph/file/be5464935db331e301ff0.jpg",
+        "https://telegra.ph/file/f932d0df9aebf4d3f4d15.jpg",
+        "https://telegra.ph/file/4a4005fc20dbad3c4014b.jpg",
+        "https://telegra.ph/file/b27ccb4bfbd99a51da5d6.jpg",
+        "https://telegra.ph/file/7e4475ac64c25b2b121ea.jpg",
+        "https://telegra.ph/file/78a679aa7f5db164976a9.jpg",
+        "https://telegra.ph/file/889201c74409b49e05085.jpg",
+        "https://telegra.ph/file/e7dc45bab8e99b06a5622.jpg",
+        "https://telegra.ph/file/4fd26120224741d054563.jpg",
+        "https://telegra.ph/file/a99242b6d673d2a6a16ca.jpg",
+        "https://telegra.ph/file/5e977b0725df1cd13fcef.jpg",
+        "https://telegra.ph/file/525222fbbb57cd69b1209.jpg",
+        "https://telegra.ph/file/782392663a9e50d88124c.jpg",
+        "https://telegra.ph/file/82d4de922b095a45adc23.jpg",
+        "https://telegra.ph/file/8ddc932a4fb40afd16dd3.jpg",
+        "https://telegra.ph/file/41057750e722500f1a7ec.jpg",
+        "https://telegra.ph/file/e3204a56d91db606d1d4e.jpg",
+        "https://telegra.ph/file/d2f5c5e346e6a1af1c86c.jpg",
+        "https://telegra.ph/file/08f7288df5865b554d067.jpg",
+        "https://telegra.ph/file/0c39999db53e451aff442.jpg",
+        "https://telegra.ph/file/7ac448bc650a928258aaa.jpg",
+        "https://telegra.ph/file/b5277b1583da51285b199.jpg",
+        "https://telegra.ph/file/10fa0c6d0eea39c30486d.jpg",
+        "https://telegra.ph/file/0adca5dfbdb030b588fd1.jpg",
+        "https://telegra.ph/file/0cc5c6018fae564f53254.jpg",
+        "https://telegra.ph/file/770fcae2aa092b74f7ba5.jpg",
+        "https://telegra.ph/file/da52b0f9e00d1c782b3ba.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

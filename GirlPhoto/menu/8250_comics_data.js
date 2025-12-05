@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8250,
+    "title": "柒柒不可爱 海军",
+    "sourceUrl": "https://telegra.ph/柒柒不可爱-海军-08-24",
+    "images": [
+        "https://telegra.ph/file/10bc39531287eb3720a79.jpg",
+        "https://telegra.ph/file/caf803648b0a34caf275e.jpg",
+        "https://telegra.ph/file/01402cc90d7facb62f963.jpg",
+        "https://telegra.ph/file/64d1e287418e1b85f318f.jpg",
+        "https://telegra.ph/file/71f50f20fad45c5f3825c.jpg",
+        "https://telegra.ph/file/f60cde5f577739b5a1314.jpg",
+        "https://telegra.ph/file/22e35f6ae5388b48eb471.jpg",
+        "https://telegra.ph/file/390a6dcb68bdf8528eb4e.jpg",
+        "https://telegra.ph/file/0898861ad6984e7842a56.jpg",
+        "https://telegra.ph/file/ce42738151c9a234d16a6.jpg",
+        "https://telegra.ph/file/6b6932a59d57b029faf5d.jpg",
+        "https://telegra.ph/file/65843669be47f41a608a5.jpg",
+        "https://telegra.ph/file/d9909e29537cf90d5b33c.jpg",
+        "https://telegra.ph/file/38d92a63bfee941b7fc44.jpg",
+        "https://telegra.ph/file/286c7161773ff532790a0.jpg",
+        "https://telegra.ph/file/8f913d4e529713ef5dd77.jpg",
+        "https://telegra.ph/file/0c81e810f9db7c9bb0b49.jpg",
+        "https://telegra.ph/file/9e4ec2478a40cc190211f.jpg",
+        "https://telegra.ph/file/5d4f76e29df747f8b7752.jpg",
+        "https://telegra.ph/file/dd47062326fc484eb13ba.jpg",
+        "https://telegra.ph/file/81bfc00a9a16452ee19a8.jpg",
+        "https://telegra.ph/file/8848b950a97522144f7ce.jpg",
+        "https://telegra.ph/file/0e2dbf8d922f347998f30.jpg",
+        "https://telegra.ph/file/31cb58e371b4676657b18.jpg",
+        "https://telegra.ph/file/5617ce9df0b26edda1207.jpg",
+        "https://telegra.ph/file/ffb3a51e202d214c8c30a.jpg",
+        "https://telegra.ph/file/04d46052b011f4628f0a7.jpg",
+        "https://telegra.ph/file/b85349f67ff98307e1ede.jpg",
+        "https://telegra.ph/file/5154e8a6d5e338c044579.jpg",
+        "https://telegra.ph/file/48eddb77366b9fc5e03c6.jpg",
+        "https://telegra.ph/file/4c3136e88a87157adb4e3.jpg",
+        "https://telegra.ph/file/c9e762343ebde367a00eb.jpg",
+        "https://telegra.ph/file/a3844baec600316827fc0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

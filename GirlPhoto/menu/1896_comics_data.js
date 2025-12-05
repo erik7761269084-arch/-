@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1896,
+    "title": "RINA – Momo Rina",
+    "sourceUrl": "https://telegra.ph/RINA--Momo-Rina-08-29",
+    "images": [
+        "https://telegra.ph/file/cf278f20a8b5948b7322d.jpg",
+        "https://telegra.ph/file/7997ec9f6919677a21cb3.jpg",
+        "https://telegra.ph/file/14b122494a770a948b4f4.jpg",
+        "https://telegra.ph/file/b2dec96d354103eed033f.jpg",
+        "https://telegra.ph/file/1fbb65467f5829f212dd6.jpg",
+        "https://telegra.ph/file/5dc38993b66e034dbb7fb.jpg",
+        "https://telegra.ph/file/bc08ce26a19b502e26532.jpg",
+        "https://telegra.ph/file/285d7cb895013082a89c3.jpg",
+        "https://telegra.ph/file/75bc16464f93a747e9a23.jpg",
+        "https://telegra.ph/file/aeab87db1315c286c3e48.jpg",
+        "https://telegra.ph/file/4ef906e56c577911f691e.jpg",
+        "https://telegra.ph/file/b04dff5347828db641b19.jpg",
+        "https://telegra.ph/file/c17ac9deace4969023ec5.jpg",
+        "https://telegra.ph/file/9828daf02b65db4999c50.jpg",
+        "https://telegra.ph/file/4f90e4db6ed4a1ff81e9e.jpg",
+        "https://telegra.ph/file/cff4d4c19c78a717d9724.jpg",
+        "https://telegra.ph/file/fd7fdebcb81a030aad3bf.jpg",
+        "https://telegra.ph/file/d1c67a8064aa51156e31f.jpg",
+        "https://telegra.ph/file/7435f0d487ca085e884d4.jpg",
+        "https://telegra.ph/file/7a93011ad79c844953789.jpg",
+        "https://telegra.ph/file/bd6c420a46d324c991d5d.jpg",
+        "https://telegra.ph/file/01b8599eff7066267f6d4.jpg",
+        "https://telegra.ph/file/5d29094acb554c8663488.jpg",
+        "https://telegra.ph/file/a6d86470ca6011b1f8d48.jpg",
+        "https://telegra.ph/file/7be73bc588b906a72f522.jpg",
+        "https://telegra.ph/file/71a225f2582a797124662.jpg",
+        "https://telegra.ph/file/21e3129fab7f36251e25a.jpg",
+        "https://telegra.ph/file/a451560788884d416112f.jpg",
+        "https://telegra.ph/file/608fb100040e39d849fd7.jpg",
+        "https://telegra.ph/file/47ef47a733f3c64bf0ff9.jpg",
+        "https://telegra.ph/file/60af0672d157c0e20fcd1.jpg",
+        "https://telegra.ph/file/2f4fd61274c6094f23c37.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12224,
+    "title": "四月订阅『蕾姆夏日祭』40P+1V极乐净土",
+    "sourceUrl": "https://telegra.ph/四月订阅蕾姆夏日祭40P1V极乐净土-08-24",
+    "images": [
+        "https://telegra.ph/file/a92049f6af668d03d56f0.jpg",
+        "https://telegra.ph/file/3874d94ef82cdf09c93fc.jpg",
+        "https://telegra.ph/file/78ce68f2c62f765e80025.jpg",
+        "https://telegra.ph/file/ace5599140a1d9eb5a1b2.jpg",
+        "https://telegra.ph/file/a65595fa3c50fd4d8f3a2.jpg",
+        "https://telegra.ph/file/a260ad8fa67102ce6cb66.jpg",
+        "https://telegra.ph/file/3ddcf41d749824ec23edc.jpg",
+        "https://telegra.ph/file/ea28ccf2629654f7d5342.jpg",
+        "https://telegra.ph/file/dd9c157bfa1dab512baca.jpg",
+        "https://telegra.ph/file/3c5f5eec499b63a70c65e.jpg",
+        "https://telegra.ph/file/c8b6573f9ab17fc22d959.jpg",
+        "https://telegra.ph/file/cde17fc4caf636a3fed63.jpg",
+        "https://telegra.ph/file/b4166d3000376dfc6702a.jpg",
+        "https://telegra.ph/file/b81fa8a60299bc8d9423a.jpg",
+        "https://telegra.ph/file/518ca9a9a23ba711b589f.jpg",
+        "https://telegra.ph/file/85b6000a7e4bde8305408.jpg",
+        "https://telegra.ph/file/1a1fe94b9f7d468e25fab.jpg",
+        "https://telegra.ph/file/79a8f0ee19ca91f45edac.jpg",
+        "https://telegra.ph/file/6384812e12c9bdf10de97.jpg",
+        "https://telegra.ph/file/c29f9c0f39752b68fc14f.jpg",
+        "https://telegra.ph/file/93b1ca1986c6a4772941d.jpg",
+        "https://telegra.ph/file/33ca998e9c8ade28e969d.jpg",
+        "https://telegra.ph/file/47cbece20f2b6502b23ca.jpg",
+        "https://telegra.ph/file/16f826dcd20bdf1903e70.jpg",
+        "https://telegra.ph/file/5c944e4cd48c7b9ca3e0c.jpg",
+        "https://telegra.ph/file/40ca5072445a380fc78cc.jpg",
+        "https://telegra.ph/file/65158cc43a71dc58c30d6.jpg",
+        "https://telegra.ph/file/e5dbcf22a147e59337fc4.jpg",
+        "https://telegra.ph/file/d894b65318ce98580b304.jpg",
+        "https://telegra.ph/file/f5c672659aaf641794326.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

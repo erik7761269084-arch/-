@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2966,
+    "title": "阿包也是兔娘 明日方舟 w芭蕾",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-明日方舟-w芭蕾-08-25",
+    "images": [
+        "https://telegra.ph/file/d2798f524a3139fdd9106.png",
+        "https://telegra.ph/file/441e6ac4abad4199242fb.jpg",
+        "https://telegra.ph/file/027ac01850f09b5ff38be.jpg",
+        "https://telegra.ph/file/a7137e59d160b83a9dde3.jpg",
+        "https://telegra.ph/file/7631aa1ddb5606998bc4b.jpg",
+        "https://telegra.ph/file/85c95ca53b6c55e9b0d8e.jpg",
+        "https://telegra.ph/file/fd36102ad18543303f7b5.jpg",
+        "https://telegra.ph/file/d054f5de2d7a2044bc042.jpg",
+        "https://telegra.ph/file/8e3adc272e7f5b896619e.jpg",
+        "https://telegra.ph/file/1a7543f1fa8a9b8628cf6.jpg",
+        "https://telegra.ph/file/b17656f364a67e9edaa6b.jpg",
+        "https://telegra.ph/file/0ef12e2f4ae3e60e33db6.jpg",
+        "https://telegra.ph/file/ceefcdc7965222aa8cb62.jpg",
+        "https://telegra.ph/file/041f04cd47f525f132a9e.jpg",
+        "https://telegra.ph/file/9bb37920774a102c29df7.jpg",
+        "https://telegra.ph/file/319049545dc1cca4f4832.jpg",
+        "https://telegra.ph/file/28f0d8cc42b6d088e957b.jpg",
+        "https://telegra.ph/file/72affa9fc751f4bc662dc.jpg",
+        "https://telegra.ph/file/ded67c86b397f8a987d52.jpg",
+        "https://telegra.ph/file/f566bdc649e24f1150477.jpg",
+        "https://telegra.ph/file/ca8fa8fbc4a314eb8831a.jpg",
+        "https://telegra.ph/file/098e45e213f4a11ff7662.jpg",
+        "https://telegra.ph/file/b6953640de58fd5708b19.jpg",
+        "https://telegra.ph/file/b8f4d9b3c7ae27db2d032.jpg",
+        "https://telegra.ph/file/b21f47c90da546cb16200.jpg",
+        "https://telegra.ph/file/59ec0ba3b6b9a0872faa2.jpg",
+        "https://telegra.ph/file/199557c06390a8c383bc7.jpg",
+        "https://telegra.ph/file/56ddf720923f9a170bd36.jpg",
+        "https://telegra.ph/file/7c69c862658b137bad993.jpg",
+        "https://telegra.ph/file/3eb934ea02287e1126b6b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

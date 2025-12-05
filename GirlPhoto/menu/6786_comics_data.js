@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6786,
+    "title": "VOL.151 鳗鱼霏儿 路人女友",
+    "sourceUrl": "https://telegra.ph/VOL151-鳗鱼霏儿-路人女友-08-27",
+    "images": [
+        "https://telegra.ph/file/ab661f383dd2495183e29.jpg",
+        "https://telegra.ph/file/c140afe2595156b691483.jpg",
+        "https://telegra.ph/file/3e50e0e8257e5824ad360.jpg",
+        "https://telegra.ph/file/a7e8261b47c7b3b5da720.jpg",
+        "https://telegra.ph/file/36e58f43858701f61d639.jpg",
+        "https://telegra.ph/file/e6e9da8af55ef39b7c732.jpg",
+        "https://telegra.ph/file/293f76dafce88cf253389.jpg",
+        "https://telegra.ph/file/457bf401c47cf0c5ce28b.jpg",
+        "https://telegra.ph/file/e91597873bb71be77b10e.jpg",
+        "https://telegra.ph/file/1ff8bf19b39c0d7c539a7.jpg",
+        "https://telegra.ph/file/92e897dea6ecb7aaf62bf.jpg",
+        "https://telegra.ph/file/6691378ce10f972475146.jpg",
+        "https://telegra.ph/file/e70595370b0629db207d4.jpg",
+        "https://telegra.ph/file/6a986323d3df564a6bea2.jpg",
+        "https://telegra.ph/file/9a7431f89690913e3825d.jpg",
+        "https://telegra.ph/file/b094d92630bf49ab56d0f.jpg",
+        "https://telegra.ph/file/81d3900b3899ebdde5906.jpg",
+        "https://telegra.ph/file/4499549d0c6773b2590cf.jpg",
+        "https://telegra.ph/file/6aa2e42bc1042ef65be67.jpg",
+        "https://telegra.ph/file/1769a12d80cc75d2d2576.jpg",
+        "https://telegra.ph/file/f6a469ddc4e678ffb0c42.jpg",
+        "https://telegra.ph/file/fc96d0f7662ffc88fa99a.jpg",
+        "https://telegra.ph/file/9555a3316ba21b4bf038c.jpg",
+        "https://telegra.ph/file/c8bdb2b67cd53c9482964.jpg",
+        "https://telegra.ph/file/debd7c449cdf09d326bd7.jpg",
+        "https://telegra.ph/file/bb9e4fdd755bb5d88ae43.jpg",
+        "https://telegra.ph/file/0ef6d84f4060a03559d67.jpg",
+        "https://telegra.ph/file/930a97f1d774d384de605.jpg",
+        "https://telegra.ph/file/61c15771904aed7a149c2.jpg",
+        "https://telegra.ph/file/ec752b7e7479d05777019.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

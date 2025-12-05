@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5511,
+    "title": "黑川 - 小恶魔黑裙子",
+    "sourceUrl": "https://telegra.ph/黑川---小恶魔黑裙子-08-30",
+    "images": [
+        "https://telegra.ph/file/686c02a6adc4bbb81dedd.jpg",
+        "https://telegra.ph/file/4b506a3a03f9149578346.jpg",
+        "https://telegra.ph/file/567f6c7ea3e57fb2234ef.jpg",
+        "https://telegra.ph/file/02618a47447a585ffa2c5.jpg",
+        "https://telegra.ph/file/7434d550eb60f8e027ea5.jpg",
+        "https://telegra.ph/file/3fde214315b8b19f7eb61.jpg",
+        "https://telegra.ph/file/6c80d049907b6dadb430e.jpg",
+        "https://telegra.ph/file/9bd6c53110c85f8152d9d.jpg",
+        "https://telegra.ph/file/4ccd0df998c6ed1815aef.jpg",
+        "https://telegra.ph/file/ea69ea58b29868521d6fd.jpg",
+        "https://telegra.ph/file/aeb02bc622bd8aca8384e.jpg",
+        "https://telegra.ph/file/85766b9727cd9dadd1669.jpg",
+        "https://telegra.ph/file/c42baed3faeac0323e072.jpg",
+        "https://telegra.ph/file/13b0f2cd7394662ddc88d.jpg",
+        "https://telegra.ph/file/1f18368257f3896992885.jpg",
+        "https://telegra.ph/file/b187c7580fd65b81aee98.jpg",
+        "https://telegra.ph/file/67883ad48cf2ecc972cac.jpg",
+        "https://telegra.ph/file/a6415390f39328db534c7.jpg",
+        "https://telegra.ph/file/9046ca666799519c4ef07.jpg",
+        "https://telegra.ph/file/23a88dff40c7c7b2b48e6.jpg",
+        "https://telegra.ph/file/ad52dca4144d1f0a7ab3a.jpg",
+        "https://telegra.ph/file/f0507702544bb692d3c4e.jpg",
+        "https://telegra.ph/file/e3743ab73770d9ac19668.jpg",
+        "https://telegra.ph/file/d0574f6b68f590be3d3a5.jpg",
+        "https://telegra.ph/file/3fd3ff80ef4acc54be0b9.jpg",
+        "https://telegra.ph/file/f3ad49e9aecaa52e9692c.jpg",
+        "https://telegra.ph/file/b983cba60abf550e17431.jpg",
+        "https://telegra.ph/file/ae4c6c4f07bbb865b7ccc.jpg",
+        "https://telegra.ph/file/43d003e7d47ee16122819.jpg",
+        "https://telegra.ph/file/c611021ecdf67377ae76a.jpg",
+        "https://telegra.ph/file/de4c2c5e85425e4435049.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

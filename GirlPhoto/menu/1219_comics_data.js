@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1219,
+    "title": "Kitaro_绮太郎 - 放課後の少女",
+    "sourceUrl": "https://telegra.ph/Kitaro-绮太郎---放課後の少女-08-27",
+    "images": [
+        "https://telegra.ph/file/6a106b969fca9cba45a77.jpg",
+        "https://telegra.ph/file/b046c8d8a4ec0fbba1fc9.jpg",
+        "https://telegra.ph/file/21516bd0db8908390a8f7.jpg",
+        "https://telegra.ph/file/dc344a0488ef8661265dd.jpg",
+        "https://telegra.ph/file/472279666a27aba6a576c.jpg",
+        "https://telegra.ph/file/36a5866f5fb7eba395db5.jpg",
+        "https://telegra.ph/file/35abac0b2aee9946d1898.jpg",
+        "https://telegra.ph/file/f7f4130c270fa77c77e40.jpg",
+        "https://telegra.ph/file/03777da67b2ff0ab9eee8.jpg",
+        "https://telegra.ph/file/fd2ed4467230f3ed3f69c.jpg",
+        "https://telegra.ph/file/3e2fb962dd4c0b3ee8170.jpg",
+        "https://telegra.ph/file/81b913c5abf5c5b902255.jpg",
+        "https://telegra.ph/file/df92baa1c599458890e3d.jpg",
+        "https://telegra.ph/file/315c82eb764ef879637d1.jpg",
+        "https://telegra.ph/file/ddc11304908916c3229b1.jpg",
+        "https://telegra.ph/file/9eee8b3de5d95c97152d8.jpg",
+        "https://telegra.ph/file/569a06f2d8ad2da487882.jpg",
+        "https://telegra.ph/file/d2a194a259b7c28129872.jpg",
+        "https://telegra.ph/file/01860089ae643034f82a8.jpg",
+        "https://telegra.ph/file/af8added29ce48f3afada.jpg",
+        "https://telegra.ph/file/0eee5e136b3f2b1d25fdc.jpg",
+        "https://telegra.ph/file/576301a09112ec72af5bd.jpg",
+        "https://telegra.ph/file/43026e5c0774d6f8aef9d.jpg",
+        "https://telegra.ph/file/5e58fdf5ab76d37219666.jpg",
+        "https://telegra.ph/file/95209f907177e4322476d.jpg",
+        "https://telegra.ph/file/bcdfde4a999d05092bace.jpg",
+        "https://telegra.ph/file/d30f9eeef2d5eefab8635.jpg",
+        "https://telegra.ph/file/a328e88193f98850891e4.jpg",
+        "https://telegra.ph/file/d29c562d278a8de19caa8.jpg",
+        "https://telegra.ph/file/f941c00ba0986ede4c90f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

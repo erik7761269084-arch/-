@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2074,
+    "title": "rioko凉凉子 – 碧蓝航线 花园",
+    "sourceUrl": "https://telegra.ph/rioko凉凉子--碧蓝航线-花园-08-29",
+    "images": [
+        "https://telegra.ph/file/4fdabe9ec68db88a5aba9.jpg",
+        "https://telegra.ph/file/1642793fc74c12e092bab.jpg",
+        "https://telegra.ph/file/30f58ebc77b40763b65e5.jpg",
+        "https://telegra.ph/file/03ffb0f1128b6a182f95e.jpg",
+        "https://telegra.ph/file/c91f68a0141b57a12640a.jpg",
+        "https://telegra.ph/file/e0deffb3fb6f759d30062.jpg",
+        "https://telegra.ph/file/2f821f0566023017ce30d.jpg",
+        "https://telegra.ph/file/25127dc29386150795825.jpg",
+        "https://telegra.ph/file/6a7335bc1de48b2c1e053.jpg",
+        "https://telegra.ph/file/8501222079e08717b0644.jpg",
+        "https://telegra.ph/file/af9fadd0d14465e3c10e1.jpg",
+        "https://telegra.ph/file/a6c2d19b8f4c126acc776.jpg",
+        "https://telegra.ph/file/547bf2cb84e42757332d5.jpg",
+        "https://telegra.ph/file/e6e9c2bc47cff831bfc06.jpg",
+        "https://telegra.ph/file/8dad778151817f8caf662.jpg",
+        "https://telegra.ph/file/e946a09adfeb16575ec86.jpg",
+        "https://telegra.ph/file/f3dc1eeb8876fae4c5f05.jpg",
+        "https://telegra.ph/file/0ae1941ff5d5549387702.jpg",
+        "https://telegra.ph/file/aeb346b2f1a42745c0227.jpg",
+        "https://telegra.ph/file/0f65cf1d0c621e0b5a697.jpg",
+        "https://telegra.ph/file/1c88b9e280029d0bdb663.jpg",
+        "https://telegra.ph/file/cb6f6994b4945469e9514.jpg",
+        "https://telegra.ph/file/8ef1585c8119f0d1e37a8.jpg",
+        "https://telegra.ph/file/aa5eaa8f190f1e3a2089d.jpg",
+        "https://telegra.ph/file/e079f39204234d4de54bf.jpg",
+        "https://telegra.ph/file/1e217d387046688e08fd3.jpg",
+        "https://telegra.ph/file/030c5cbf22ecf7c2d392a.jpg",
+        "https://telegra.ph/file/fd7a385285748c5c75579.jpg",
+        "https://telegra.ph/file/c71581abe2f3a638e2868.jpg",
+        "https://telegra.ph/file/11045c32478e6a5cdf037.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

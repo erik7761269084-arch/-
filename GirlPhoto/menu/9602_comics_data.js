@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9602,
+    "title": "水淼aqua ザンニー🖤_🖤有料30枚（ 無料分を含む ）🖤",
+    "sourceUrl": "https://telegra.ph/%E6%B0%B4%E6%B7%BCaqua-%E3%82%B6%E3%83%B3%E3%83%8B%E3%83%BC-%E6%9C%89%E6%96%9930%E6%9E%9A-%E7%84%A1%E6%96%99%E5%88%86%E3%82%92%E5%90%AB%E3%82%80-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/06/10/27.jpeg",
+        "https://image.acg.lol/file/2025/06/10/28.jpeg",
+        "https://image.acg.lol/file/2025/06/10/29.jpeg",
+        "https://image.acg.lol/file/2025/06/10/00.jpeg",
+        "https://image.acg.lol/file/2025/06/10/01.jpeg",
+        "https://image.acg.lol/file/2025/06/10/02.jpeg",
+        "https://image.acg.lol/file/2025/06/10/03.jpeg",
+        "https://image.acg.lol/file/2025/06/10/04.jpeg",
+        "https://image.acg.lol/file/2025/06/10/05.jpeg",
+        "https://image.acg.lol/file/2025/06/10/06.jpeg",
+        "https://image.acg.lol/file/2025/06/10/07.jpeg",
+        "https://image.acg.lol/file/2025/06/10/08.jpeg",
+        "https://image.acg.lol/file/2025/06/10/09.jpeg",
+        "https://image.acg.lol/file/2025/06/10/10.jpeg",
+        "https://image.acg.lol/file/2025/06/10/11.jpeg",
+        "https://image.acg.lol/file/2025/06/10/12.jpeg",
+        "https://image.acg.lol/file/2025/06/10/13.jpeg",
+        "https://image.acg.lol/file/2025/06/10/14.jpeg",
+        "https://image.acg.lol/file/2025/06/10/15.jpeg",
+        "https://image.acg.lol/file/2025/06/10/16.jpeg",
+        "https://image.acg.lol/file/2025/06/10/17.jpeg",
+        "https://image.acg.lol/file/2025/06/10/18.jpeg",
+        "https://image.acg.lol/file/2025/06/10/19.jpeg",
+        "https://image.acg.lol/file/2025/06/10/20.jpeg",
+        "https://image.acg.lol/file/2025/06/10/21.jpeg",
+        "https://image.acg.lol/file/2025/06/10/22.jpeg",
+        "https://image.acg.lol/file/2025/06/10/23.jpeg",
+        "https://image.acg.lol/file/2025/06/10/24.jpeg",
+        "https://image.acg.lol/file/2025/06/10/25.jpeg",
+        "https://image.acg.lol/file/2025/06/10/26.jpeg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

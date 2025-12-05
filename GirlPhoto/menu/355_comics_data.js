@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 355,
+    "title": "Byoru - Bastet 巴斯泰托女神",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉-Byoru---Bastet-巴斯泰托女神-08-26",
+    "images": [
+        "https://telegra.ph/file/68a99b842c0dac6219d34.jpg",
+        "https://telegra.ph/file/0427da5993736ba934b6a.jpg",
+        "https://telegra.ph/file/ecbd41d3eae26df844823.jpg",
+        "https://telegra.ph/file/72b8bfc02e05452875dc6.jpg",
+        "https://telegra.ph/file/e0a9e25b782b9812153eb.jpg",
+        "https://telegra.ph/file/3c4202edc4eaec04394ea.jpg",
+        "https://telegra.ph/file/b4cf5b38c0211c6e47c55.jpg",
+        "https://telegra.ph/file/4f78651ac9c70a564c94b.jpg",
+        "https://telegra.ph/file/bea3a06d6695a1a6b04c6.jpg",
+        "https://telegra.ph/file/ab0ff3440d9896cccce2f.jpg",
+        "https://telegra.ph/file/d7985b84d6cf9c8884361.jpg",
+        "https://telegra.ph/file/dfc357972d3cdf0caa881.jpg",
+        "https://telegra.ph/file/9b0913bb89b96c47b71e3.jpg",
+        "https://telegra.ph/file/bf45e3a4e77b73c176008.jpg",
+        "https://telegra.ph/file/0c5ddc99a7731b2bdff97.jpg",
+        "https://telegra.ph/file/4a1a32b367a33f66cdf67.jpg",
+        "https://telegra.ph/file/ce6940d57b424ba4b46a3.jpg",
+        "https://telegra.ph/file/78dd372efb651191c751a.jpg",
+        "https://telegra.ph/file/c5ccbc143c1b8ec646ac3.jpg",
+        "https://telegra.ph/file/eaefc1b59fc88de941fe4.jpg",
+        "https://telegra.ph/file/7bb8c8091689cc2bf01b5.jpg",
+        "https://telegra.ph/file/1e49f330a3fb6c47a3abb.jpg",
+        "https://telegra.ph/file/8a4785d4256a4ebf0c10b.jpg",
+        "https://telegra.ph/file/77cd86cd2c3fdfda484e3.jpg",
+        "https://telegra.ph/file/8292b17d12da5025b8fce.jpg",
+        "https://telegra.ph/file/0d2712c96350886cd22b8.jpg",
+        "https://telegra.ph/file/03f6c01792c53162f10d5.jpg",
+        "https://telegra.ph/file/cff54fbee96472e8e4329.jpg",
+        "https://telegra.ph/file/330fc1cd2e1e07072435d.jpg",
+        "https://telegra.ph/file/b37ef617732e63374979d.jpg",
+        "https://telegra.ph/file/efa2bbe90742847ac5fc2.jpg",
+        "https://telegra.ph/file/f53ea435aba3ef981ae62.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

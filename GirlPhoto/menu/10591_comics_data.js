@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10591,
+    "title": "夏鸽鸽不想起床 - 旗袍",
+    "sourceUrl": "https://telegra.ph/夏鸽鸽不想起床---旗袍-08-27",
+    "images": [
+        "https://telegra.ph/file/4d800637803c3ab1093cc.jpg",
+        "https://telegra.ph/file/12aa636f4528ee5cb01f5.jpg",
+        "https://telegra.ph/file/ec54e49ea62942995f4e4.jpg",
+        "https://telegra.ph/file/9acb220dd86f2b20b2c3a.jpg",
+        "https://telegra.ph/file/f3adff64f03ebd51ed448.jpg",
+        "https://telegra.ph/file/23a7e2c8ed7195327fe49.jpg",
+        "https://telegra.ph/file/255c6c0efb2bda086f917.jpg",
+        "https://telegra.ph/file/62c4a3a9eceaa68f15f63.jpg",
+        "https://telegra.ph/file/7ec604d3af15afe69b439.jpg",
+        "https://telegra.ph/file/877d30234b93f2c913a73.jpg",
+        "https://telegra.ph/file/74e6d810464995030ad41.jpg",
+        "https://telegra.ph/file/42914533e7a1b7e3711d1.jpg",
+        "https://telegra.ph/file/a69993db4ca6c1a284900.jpg",
+        "https://telegra.ph/file/d397f2f06f1524d98d2b7.jpg",
+        "https://telegra.ph/file/40f5117f615dfbc85bde6.jpg",
+        "https://telegra.ph/file/2484abb9702f71da01798.jpg",
+        "https://telegra.ph/file/c49148c397b2a2ecdbaa8.jpg",
+        "https://telegra.ph/file/c9006e90a9c8c6ce02423.jpg",
+        "https://telegra.ph/file/42f42820acfe132749bf8.jpg",
+        "https://telegra.ph/file/31222d1f2eb09ada8b05c.jpg",
+        "https://telegra.ph/file/1c67b5be670bf99f6010e.jpg",
+        "https://telegra.ph/file/f82ae7ee1dce474bb28c8.jpg",
+        "https://telegra.ph/file/1059eac6cb22c7e5e491c.jpg",
+        "https://telegra.ph/file/29e595d0133ed5d04f217.jpg",
+        "https://telegra.ph/file/af29d98dddf7742ae5947.jpg",
+        "https://telegra.ph/file/818bf43e844ee283c61bb.jpg",
+        "https://telegra.ph/file/07c894083e5780a248b66.jpg",
+        "https://telegra.ph/file/2d23120437c89878ba9fd.jpg",
+        "https://telegra.ph/file/a833448706ee5bc1c3bd7.jpg",
+        "https://telegra.ph/file/91f4155c79ae21dd238e7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

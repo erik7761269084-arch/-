@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7508,
+    "title": "爆机少女喵小吉：艾尔登法环-梅琳娜",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉艾尔登法环-梅琳娜-08-29",
+    "images": [
+        "https://telegra.ph/file/d484ae9fb02f5bdf41833.jpg",
+        "https://telegra.ph/file/87af57c5693fd46b4aa28.jpg",
+        "https://telegra.ph/file/146e98ff3d8df60cf750a.jpg",
+        "https://telegra.ph/file/6d3886adcb8bc442f1938.jpg",
+        "https://telegra.ph/file/9384bfc7182b5706ddcad.jpg",
+        "https://telegra.ph/file/59415ddf2656ef4feced9.jpg",
+        "https://telegra.ph/file/2748d6b5d82fc21e0f8f7.jpg",
+        "https://telegra.ph/file/5a867829ce692b6b70e9f.jpg",
+        "https://telegra.ph/file/b6c138a95ef98a0d02d06.jpg",
+        "https://telegra.ph/file/b192f0de3ddfaadace266.jpg",
+        "https://telegra.ph/file/695fd5a10cf8455bd57de.jpg",
+        "https://telegra.ph/file/0a3d2e9dc92c45dbe1845.jpg",
+        "https://telegra.ph/file/dae8f31b8ccf82daf5d68.jpg",
+        "https://telegra.ph/file/dd2221e87e8eef68ad73f.jpg",
+        "https://telegra.ph/file/5c876fb5500bcf75d4f51.jpg",
+        "https://telegra.ph/file/0b5044e41c25729b60ab8.jpg",
+        "https://telegra.ph/file/aa95301652674f9f5fea8.jpg",
+        "https://telegra.ph/file/e460c6c8c8e6dca34d6e4.jpg",
+        "https://telegra.ph/file/94433e1a4e652813446d8.jpg",
+        "https://telegra.ph/file/8b7ca53a88279bcfcb538.jpg",
+        "https://telegra.ph/file/b38b71dafbb8ce820c745.jpg",
+        "https://telegra.ph/file/074083d95a9c868708e18.jpg",
+        "https://telegra.ph/file/e086180109b2c08c3d16d.jpg",
+        "https://telegra.ph/file/8212897a002103733066a.jpg",
+        "https://telegra.ph/file/e6be1a7527ec770bc05e3.jpg",
+        "https://telegra.ph/file/4dc93e8727e6d141a899e.jpg",
+        "https://telegra.ph/file/787b0a38719aee91e45f4.jpg",
+        "https://telegra.ph/file/712814fa012d8979c6b4f.jpg",
+        "https://telegra.ph/file/2e07357a75e68a52bd0dc.jpg",
+        "https://telegra.ph/file/9d9480342ce87e6160e23.jpg",
+        "https://telegra.ph/file/e9c82bdb3331d3dcd20a5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

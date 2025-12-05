@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4382,
+    "title": "抖娘利世 - 技师上门 花絮",
+    "sourceUrl": "https://telegra.ph/抖娘利世---技师上门-花絮-08-29",
+    "images": [
+        "https://telegra.ph/file/28acf3246bcf5adfacc3b.jpg",
+        "https://telegra.ph/file/04db886c3f2991fe0fbcf.jpg",
+        "https://telegra.ph/file/ec0e90e35987dce82bed4.jpg",
+        "https://telegra.ph/file/1c64c084b79e3205edc82.jpg",
+        "https://telegra.ph/file/b4bfedf5afcdf52b6fa0a.jpg",
+        "https://telegra.ph/file/41a877884d88d4178b7b4.jpg",
+        "https://telegra.ph/file/27a00721714ffb6bb776d.jpg",
+        "https://telegra.ph/file/459521aa10c9be4c710ee.jpg",
+        "https://telegra.ph/file/031f8f85e06196b8e45b9.jpg",
+        "https://telegra.ph/file/a4805b83c05ff39ebb4a1.jpg",
+        "https://telegra.ph/file/38be6f49fd692d5aeaf17.jpg",
+        "https://telegra.ph/file/436122c64d7834a5f37b5.jpg",
+        "https://telegra.ph/file/bb32f81f63a612f975b0e.jpg",
+        "https://telegra.ph/file/adb20ab84199ec51b9343.jpg",
+        "https://telegra.ph/file/80ccd122969d1bcd03ed7.jpg",
+        "https://telegra.ph/file/43b05c62c0e0d6cb32087.jpg",
+        "https://telegra.ph/file/9d29d74be7a0ae2e2c925.jpg",
+        "https://telegra.ph/file/e4faa77045bc426860ed8.jpg",
+        "https://telegra.ph/file/659fc60beed2ed01b15dd.jpg",
+        "https://telegra.ph/file/e3aa6ac6181478ddaadc7.jpg",
+        "https://telegra.ph/file/f4ac4490837669fbe6eb5.jpg",
+        "https://telegra.ph/file/7a3e5ef6abbac59b65284.jpg",
+        "https://telegra.ph/file/500a10c52254ecdcfdaf8.jpg",
+        "https://telegra.ph/file/f83388f30acb9f5572575.jpg",
+        "https://telegra.ph/file/cfdc74c1efb1531516c6d.jpg",
+        "https://telegra.ph/file/dc08aa19ecac21236bf7c.jpg",
+        "https://telegra.ph/file/17caac09afafb52635644.jpg",
+        "https://telegra.ph/file/9444ff211d54421529f39.jpg",
+        "https://telegra.ph/file/79a5102b2f292cee417af.jpg",
+        "https://telegra.ph/file/0fd4ede895d738b871de3.jpg",
+        "https://telegra.ph/file/d0eb4aa8cabb79063f55e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

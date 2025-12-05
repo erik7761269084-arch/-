@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12049,
+    "title": "萌妹子眼酱大魔王w 开档人妻",
+    "sourceUrl": "https://telegra.ph/萌妹子眼酱大魔王w-开档人妻-08-27",
+    "images": [
+        "https://telegra.ph/file/7fbf30dd497656d576a09.jpg",
+        "https://telegra.ph/file/b0a6e67b57943a72341d3.jpg",
+        "https://telegra.ph/file/d12f981ce82730fb38fc2.jpg",
+        "https://telegra.ph/file/403107d7a0ce9fd3ee860.jpg",
+        "https://telegra.ph/file/42002405e87e4b253cd85.jpg",
+        "https://telegra.ph/file/391582177074fdf873b66.jpg",
+        "https://telegra.ph/file/3060bc03a31fab2f3492a.jpg",
+        "https://telegra.ph/file/08d82f26ebb12b27ea281.jpg",
+        "https://telegra.ph/file/4a3b1aa4dbf96a9239684.jpg",
+        "https://telegra.ph/file/76ece26c044ba6fef85b9.jpg",
+        "https://telegra.ph/file/2f5a88b8d4299850bbf01.jpg",
+        "https://telegra.ph/file/da0e1a07bf5133593dc12.jpg",
+        "https://telegra.ph/file/aa653fa337cf0ea75b01f.jpg",
+        "https://telegra.ph/file/7ca33da26b0b8a7ff99b6.jpg",
+        "https://telegra.ph/file/178f9307572cad980b68a.jpg",
+        "https://telegra.ph/file/715c4660e06835790e1ab.jpg",
+        "https://telegra.ph/file/e1cde1a44e5c72b607d6c.jpg",
+        "https://telegra.ph/file/7e50e6ff60a643dc73591.jpg",
+        "https://telegra.ph/file/76298b069bc054dd791a3.jpg",
+        "https://telegra.ph/file/db59aa68e52875c17d92f.jpg",
+        "https://telegra.ph/file/966bcad5628d38816f8c1.jpg",
+        "https://telegra.ph/file/85969f28974f001936549.jpg",
+        "https://telegra.ph/file/3c10f4123079a90199a42.jpg",
+        "https://telegra.ph/file/ee46b88ea3fb03a58cba1.jpg",
+        "https://telegra.ph/file/d15616943925e73bb8ce3.jpg",
+        "https://telegra.ph/file/15dc76560b8c129d40f3f.jpg",
+        "https://telegra.ph/file/1d0e6c4a03f5741a65603.jpg",
+        "https://telegra.ph/file/39695b21220f5a882b437.jpg",
+        "https://telegra.ph/file/2acdec2e4fc05a0560747.jpg",
+        "https://telegra.ph/file/71078999d472b56a27cc4.jpg",
+        "https://telegra.ph/file/8626e07863763ef2f5159.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

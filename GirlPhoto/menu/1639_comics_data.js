@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1639,
+    "title": "Neko-薇薇 - 雪夜锦礼",
+    "sourceUrl": "https://telegra.ph/Neko-薇薇---雪夜锦礼-08-27",
+    "images": [
+        "https://telegra.ph/file/02cd86341a3d8e1190587.jpg",
+        "https://telegra.ph/file/82b394eb4efbb864383d1.jpg",
+        "https://telegra.ph/file/f10255700b019a0f70fd4.jpg",
+        "https://telegra.ph/file/66b97ef7afe91bcc53e4b.jpg",
+        "https://telegra.ph/file/51a9036fa028f559ebd70.jpg",
+        "https://telegra.ph/file/f08978498a5344aab3973.jpg",
+        "https://telegra.ph/file/fa015590b17fa08380feb.jpg",
+        "https://telegra.ph/file/ef69921c45a3084826950.jpg",
+        "https://telegra.ph/file/28ce1d6939030d96895c0.jpg",
+        "https://telegra.ph/file/017f589e573d8d4c23605.jpg",
+        "https://telegra.ph/file/dc8b85fc261ca90fd3c65.jpg",
+        "https://telegra.ph/file/5ad9d31cdd33dbec2768d.jpg",
+        "https://telegra.ph/file/c62f8f861e91565f67d6c.jpg",
+        "https://telegra.ph/file/2f5d3ccbcce8bdf3c45a5.jpg",
+        "https://telegra.ph/file/35acae8699f87dab75972.jpg",
+        "https://telegra.ph/file/6cb46ae06617f58e35a0a.jpg",
+        "https://telegra.ph/file/5746b9b9c7bf1d43a32d6.jpg",
+        "https://telegra.ph/file/ff045dfa374d0c7e208e8.jpg",
+        "https://telegra.ph/file/56e1d4179329b6e2b1272.jpg",
+        "https://telegra.ph/file/765eed758b6a9ce36ce0a.jpg",
+        "https://telegra.ph/file/c511dc5599001ba28ba7c.jpg",
+        "https://telegra.ph/file/deca14ecb3b5fb6b8619c.jpg",
+        "https://telegra.ph/file/525c8e390b1fdf5e847e3.jpg",
+        "https://telegra.ph/file/4bed5b4e4b2e43c030a5a.jpg",
+        "https://telegra.ph/file/0068c7a5053cf86c8b4f2.jpg",
+        "https://telegra.ph/file/7dd6c8e1041ee971feb8d.jpg",
+        "https://telegra.ph/file/7b820c1d47107fcad738a.jpg",
+        "https://telegra.ph/file/21f40ad7dc0b98deb55fa.jpg",
+        "https://telegra.ph/file/9fa7ed013a3cfa945986c.jpg",
+        "https://telegra.ph/file/a6b42de8a086a96c99bfc.jpg",
+        "https://telegra.ph/file/9b26c0445c71b4bdc7d3d.jpg",
+        "https://telegra.ph/file/bdfc35daa56f780603767.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

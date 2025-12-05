@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 20140,
+    "title": "Neppu ネップ - Rizu-kyun",
+    "sourceUrl": "https://telegra.ph/Neppu-ネップ---Rizu-kyun-08-26",
+    "images": [
+        "https://telegra.ph/file/5497cb2c68b481d5a157e.jpg",
+        "https://telegra.ph/file/c471ab1700588064a0e83.jpg",
+        "https://telegra.ph/file/a8145fb33c05cd11cf065.jpg",
+        "https://telegra.ph/file/de55321f97b11f75f5bc6.jpg",
+        "https://telegra.ph/file/ea772863e279b4541e94b.jpg",
+        "https://telegra.ph/file/89b3ae9f44185fadf055e.jpg",
+        "https://telegra.ph/file/250cd29560b9a2e4c8ed4.jpg",
+        "https://telegra.ph/file/3c8084c46452e0de0adb2.jpg",
+        "https://telegra.ph/file/32b4403262e26e0f9d654.jpg",
+        "https://telegra.ph/file/c53892972d56efaea3080.jpg",
+        "https://telegra.ph/file/b80acd2862a900f0fa752.jpg",
+        "https://telegra.ph/file/762d8c73f93d87cd64cbf.jpg",
+        "https://telegra.ph/file/c3a4825e5eacee1fc972a.jpg",
+        "https://telegra.ph/file/b1746f6771ccc4177c26b.jpg",
+        "https://telegra.ph/file/5721c569204285022f2be.jpg",
+        "https://telegra.ph/file/7325107325b7d7c751788.jpg",
+        "https://telegra.ph/file/0583256ccc122e870dcaf.jpg",
+        "https://telegra.ph/file/e1dee5c1e02e7ae12509d.jpg",
+        "https://telegra.ph/file/836b42aa86cc8e44e7142.jpg",
+        "https://telegra.ph/file/25e43768338ae5f0f62c5.jpg",
+        "https://telegra.ph/file/7309cade7f3dd2034bad6.jpg",
+        "https://telegra.ph/file/adbd05e4137dfc004030f.jpg",
+        "https://telegra.ph/file/e1520085873ae4cfb68fc.jpg",
+        "https://telegra.ph/file/2d59f9d07fff9ee49275d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

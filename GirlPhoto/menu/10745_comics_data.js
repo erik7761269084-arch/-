@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10745,
+    "title": "小仓千代w 可可爱爱花嫁 [32P-107MB]",
+    "sourceUrl": "https://telegra.ph/小仓千代w-可可爱爱花嫁-32P-107MB-08-25",
+    "images": [
+        "https://telegra.ph/file/e0f084a5d4a2d0e2523c3.jpg",
+        "https://telegra.ph/file/52faa1e6a8863d7250e41.jpg",
+        "https://telegra.ph/file/f96f9f284d9df4ccd30c8.jpg",
+        "https://telegra.ph/file/8588dfe59308cfa018d60.jpg",
+        "https://telegra.ph/file/c123b94d481aca3af39d9.jpg",
+        "https://telegra.ph/file/b2cff20bc04a23ec28534.jpg",
+        "https://telegra.ph/file/69aa2e33c93b6b28ba059.jpg",
+        "https://telegra.ph/file/4669e9b0e497241100125.jpg",
+        "https://telegra.ph/file/043f0395a004c0538f1d0.jpg",
+        "https://telegra.ph/file/96193b6a1f40b1bf6ed8e.jpg",
+        "https://telegra.ph/file/aede6ca18d048fa9567c3.jpg",
+        "https://telegra.ph/file/bc4fb652f2124c9b90216.jpg",
+        "https://telegra.ph/file/38a3bdeedda71d70a48c0.jpg",
+        "https://telegra.ph/file/154e18a83eb5b1ad955c9.jpg",
+        "https://telegra.ph/file/c96f96b3eddfc4c82ca4d.jpg",
+        "https://telegra.ph/file/cd53a1ec1f6d2f143bf9d.jpg",
+        "https://telegra.ph/file/fe8de8f7492a6b19eddaf.jpg",
+        "https://telegra.ph/file/c9e5f4a9ec5711119d180.jpg",
+        "https://telegra.ph/file/791856a71615aacd623c6.jpg",
+        "https://telegra.ph/file/a7fa5fc950eb5f68d72e2.jpg",
+        "https://telegra.ph/file/d89267361a74b1f945767.jpg",
+        "https://telegra.ph/file/f54c53fa47e1b018e8d17.jpg",
+        "https://telegra.ph/file/88334da0c038f4521160f.jpg",
+        "https://telegra.ph/file/ffc4de4574cea4f1c44dd.jpg",
+        "https://telegra.ph/file/d6c2771cf17d958691105.jpg",
+        "https://telegra.ph/file/68b8ed5dacdde9dfcdec2.jpg",
+        "https://telegra.ph/file/652ed8aa5f4b0b750f314.jpg",
+        "https://telegra.ph/file/8800173a5e656b9fc7da6.jpg",
+        "https://telegra.ph/file/da0be7fad16cf48e8bb72.jpg",
+        "https://telegra.ph/file/c59c0b7f668f1b97a4fbd.jpg",
+        "https://telegra.ph/file/96f2ff847d374712251f1.jpg",
+        "https://telegra.ph/file/c3566fd7a3b4b60d8ed0e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

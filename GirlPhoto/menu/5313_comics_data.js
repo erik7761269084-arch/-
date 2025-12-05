@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5313,
+    "title": "过期米线线喵 – 情趣吊带护士 【31P】",
+    "sourceUrl": "https://telegra.ph/过期米线线喵--情趣吊带护士31P-08-29",
+    "images": [
+        "https://telegra.ph/file/d1d6d7d1de83d966aa5b2.jpg",
+        "https://telegra.ph/file/51ce4f9f73767cd243b70.jpg",
+        "https://telegra.ph/file/ecd647d55ef5735b4c8b5.jpg",
+        "https://telegra.ph/file/293af81d870359e5bb107.jpg",
+        "https://telegra.ph/file/6842886bc7ca65053b52a.jpg",
+        "https://telegra.ph/file/61a42fed16c73db4fdf93.jpg",
+        "https://telegra.ph/file/0ff2610428b5418491bf4.jpg",
+        "https://telegra.ph/file/207e26abfbac715ccda84.jpg",
+        "https://telegra.ph/file/207d7f18726f46094a71c.jpg",
+        "https://telegra.ph/file/b88651b8f1373c0f9bb39.jpg",
+        "https://telegra.ph/file/cacac1cdf081ffc598571.jpg",
+        "https://telegra.ph/file/d772cc062617328e51e2c.jpg",
+        "https://telegra.ph/file/f1e895e941382573a6fab.jpg",
+        "https://telegra.ph/file/87b6931ac487f8915ad22.jpg",
+        "https://telegra.ph/file/dfb3b7fa612a9a4d36b3e.jpg",
+        "https://telegra.ph/file/313e558483b7a7fbdb4c7.jpg",
+        "https://telegra.ph/file/8f583caf0118ceec3ac82.jpg",
+        "https://telegra.ph/file/3203240b6cc30463d4663.jpg",
+        "https://telegra.ph/file/f8a756c869b69613edbe8.jpg",
+        "https://telegra.ph/file/5615473006fc4429b7c12.jpg",
+        "https://telegra.ph/file/1d9141e012b4009556e48.jpg",
+        "https://telegra.ph/file/623e0fd78aee43cb2f49d.jpg",
+        "https://telegra.ph/file/07b0b0a43d3c7109af402.jpg",
+        "https://telegra.ph/file/d66d71ca9c796f697bea3.jpg",
+        "https://telegra.ph/file/0cde0dd77189885e19f4a.jpg",
+        "https://telegra.ph/file/c22f40b50d8b8bfb2aff2.jpg",
+        "https://telegra.ph/file/f018f5b27e35c6c8f703d.jpg",
+        "https://telegra.ph/file/389b1560d9b2a052b6710.jpg",
+        "https://telegra.ph/file/c330ff5eaa0848077a5cb.jpg",
+        "https://telegra.ph/file/35baaf5592c6a8d1fc5c0.jpg",
+        "https://telegra.ph/file/39cc67267548f38f3c7ae.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

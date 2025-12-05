@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6022,
+    "title": "九言 优菈自拍 31P4V （原神）",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80-%E4%BC%98%E8%8F%88%E8%87%AA%E6%8B%8D-31P4V-%E5%8E%9F%E7%A5%9E-08-23",
+    "images": [
+        "https://telegra.ph/file/88b2d1e56539352c06031.jpg",
+        "https://telegra.ph/file/86790ba43eb15a710f075.jpg",
+        "https://telegra.ph/file/2db36c0cccf0b8899616f.jpg",
+        "https://telegra.ph/file/137b213521eadb36f510a.jpg",
+        "https://telegra.ph/file/6ab314abceaaec305f40f.jpg",
+        "https://telegra.ph/file/2fdf776778525421b46fe.jpg",
+        "https://telegra.ph/file/fce069a76d73f0bec3f58.jpg",
+        "https://telegra.ph/file/b2ad92a32be0fc7b8df1a.jpg",
+        "https://telegra.ph/file/5af1deaa881e116f54982.jpg",
+        "https://telegra.ph/file/cbfc340021e84b2b1a387.jpg",
+        "https://telegra.ph/file/54eb417e07414db3c9c6c.jpg",
+        "https://telegra.ph/file/2efa6e1c247db7d1e21c7.jpg",
+        "https://telegra.ph/file/b0191b81d24814acd4439.jpg",
+        "https://telegra.ph/file/dd1d3e2396a41251d0168.jpg",
+        "https://telegra.ph/file/39202b807cb3e00c74d51.jpg",
+        "https://telegra.ph/file/af25eb28b35410158ec81.jpg",
+        "https://telegra.ph/file/1ec6e92b24281b9437fab.jpg",
+        "https://telegra.ph/file/9c2bbe04bd9786815fb97.jpg",
+        "https://telegra.ph/file/fd0f8fca2c5b1aa741657.jpg",
+        "https://telegra.ph/file/263166a8d9ad3a88ea568.jpg",
+        "https://telegra.ph/file/ea06dc0be4135fca41cee.jpg",
+        "https://telegra.ph/file/60c93e31658a563fd4c15.jpg",
+        "https://telegra.ph/file/ffa7f77ba844c920c2538.jpg",
+        "https://telegra.ph/file/fd44381a0b601c4000195.jpg",
+        "https://telegra.ph/file/27847ccaf715df2201e0d.jpg",
+        "https://telegra.ph/file/04e14f294393c4abff4fd.jpg",
+        "https://telegra.ph/file/319875f49670e914c8710.jpg",
+        "https://telegra.ph/file/d8137427e4b91e2cc2c03.jpg",
+        "https://telegra.ph/file/b75684a8c72473b6ec05f.jpg",
+        "https://telegra.ph/file/4cfdc4980b6d467a940c1.jpg",
+        "https://telegra.ph/file/4a7df2334b8d219c8b786.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

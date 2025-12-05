@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4922,
+    "title": "封疆疆v 碧蓝档案 – 妃咲泳装",
+    "sourceUrl": "https://telegra.ph/封疆疆v-碧蓝档案--妃咲泳装-08-29",
+    "images": [
+        "https://telegra.ph/file/43a28f469db3cbbbefb24.jpg",
+        "https://telegra.ph/file/a7b48e13829bbfcbf1747.jpg",
+        "https://telegra.ph/file/72493001ff16e9d0ecd88.jpg",
+        "https://telegra.ph/file/1cb0c27c94f1137d5bc0d.jpg",
+        "https://telegra.ph/file/cab0d15c53c9c3761d860.jpg",
+        "https://telegra.ph/file/8c7ac97bd25799a14449e.jpg",
+        "https://telegra.ph/file/d542f8f6fc0cfada950f0.jpg",
+        "https://telegra.ph/file/0aaf978080fa00999bf81.jpg",
+        "https://telegra.ph/file/008a5382215176fb4abed.jpg",
+        "https://telegra.ph/file/cdc7d3c32775086b64825.jpg",
+        "https://telegra.ph/file/f6bed39465c91d62cf3cb.jpg",
+        "https://telegra.ph/file/07b00f8eed44015280a58.jpg",
+        "https://telegra.ph/file/706b5b9af89c47a769639.jpg",
+        "https://telegra.ph/file/d45ed929aaad4754688f5.jpg",
+        "https://telegra.ph/file/40831047fd27e5db3207a.jpg",
+        "https://telegra.ph/file/df8105bfe21d8973e77d0.jpg",
+        "https://telegra.ph/file/27e1f44ddb1d6da0981b1.jpg",
+        "https://telegra.ph/file/1411543aecf02fa08e722.jpg",
+        "https://telegra.ph/file/1fe3fe7d1004cd8757fd1.jpg",
+        "https://telegra.ph/file/b5ff8eda8ad2b9fff20cd.jpg",
+        "https://telegra.ph/file/40dc73468499efb69f03e.jpg",
+        "https://telegra.ph/file/841c9e38ad676a5053584.jpg",
+        "https://telegra.ph/file/032bea54fe97e91a0b20b.jpg",
+        "https://telegra.ph/file/ce6ac7646099b2cf17b6e.jpg",
+        "https://telegra.ph/file/82533a41e39f631c2de00.jpg",
+        "https://telegra.ph/file/31a3da03ee9a9cd12cb7f.jpg",
+        "https://telegra.ph/file/196a12b23583f15cee372.jpg",
+        "https://telegra.ph/file/0ff2ce63dd4bab3a8087b.jpg",
+        "https://telegra.ph/file/705864b497cac874c8dcd.jpg",
+        "https://telegra.ph/file/e62aad22fb6527e078fca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

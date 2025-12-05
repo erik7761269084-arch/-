@@ -1,0 +1,35 @@
+const comicData = {
+    "IDcode": 10910,
+    "title": "小奈奈-死库水 24P",
+    "sourceUrl": "https://telegra.ph/小奈奈-死库水-24P-08-26",
+    "images": [
+        "https://telegra.ph/file/fac844afa9fdf7669cdd6.jpg",
+        "https://telegra.ph/file/aa3744ea7e979427a6d0b.jpg",
+        "https://telegra.ph/file/f43a00841ccc12eecf13f.jpg",
+        "https://telegra.ph/file/62a8a38b6143730fe8b40.jpg",
+        "https://telegra.ph/file/ab9a63b332c676071b919.jpg",
+        "https://telegra.ph/file/e17ea24b7bb0bd1268d92.jpg",
+        "https://telegra.ph/file/3ea0482de1ee50fc2e43e.jpg",
+        "https://telegra.ph/file/a7b20fb0f160c49a6ac22.jpg",
+        "https://telegra.ph/file/c1c12838923446bc834bc.jpg",
+        "https://telegra.ph/file/fc9ff4c6c4a3e495de098.jpg",
+        "https://telegra.ph/file/86fef3ef3cf6d8cda887d.jpg",
+        "https://telegra.ph/file/22ff9505eb643ecb47b15.jpg",
+        "https://telegra.ph/file/ced6925e7c2c49f3f92d0.jpg",
+        "https://telegra.ph/file/d6d92c682cb62b8a702f2.jpg",
+        "https://telegra.ph/file/33abbf98515c183adbcda.jpg",
+        "https://telegra.ph/file/a1c71a0f2e6421fa17758.jpg",
+        "https://telegra.ph/file/db3b8a9cd5eadf02353c6.jpg",
+        "https://telegra.ph/file/dcf42dfce03ad5fefe461.jpg",
+        "https://telegra.ph/file/f887ff7ae7459fc6cc037.jpg",
+        "https://telegra.ph/file/019098ea848da48c8c3b5.jpg",
+        "https://telegra.ph/file/b4eb82ffa80315224d2eb.jpg",
+        "https://telegra.ph/file/3b4ec8ca5867efb881706.jpg",
+        "https://telegra.ph/file/bb6bb9333b0806757e4ee.jpg",
+        "https://telegra.ph/file/fa9f4acaa85812790c426.jpg",
+        "https://telegra.ph/file/042165f99ffbd5b95f3b5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

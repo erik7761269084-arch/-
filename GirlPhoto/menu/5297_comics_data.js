@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5297,
+    "title": "果咩酱w - 叛逆修女",
+    "sourceUrl": "https://telegra.ph/果咩酱w---叛逆修女-08-27",
+    "images": [
+        "https://telegra.ph/file/94351b966e2fa3014c724.jpg",
+        "https://telegra.ph/file/0d64f81209b68ab7285fc.jpg",
+        "https://telegra.ph/file/988c014bd8cbb5b8c2546.jpg",
+        "https://telegra.ph/file/8958e3c50a0e1b1f74c88.jpg",
+        "https://telegra.ph/file/9b976afdb69d58248fd75.jpg",
+        "https://telegra.ph/file/6a262636fcbdbe043790b.jpg",
+        "https://telegra.ph/file/3d1044112273968d5d13a.jpg",
+        "https://telegra.ph/file/09d2c88bd7540fd26ee16.jpg",
+        "https://telegra.ph/file/acfc2a1582861ee49574f.jpg",
+        "https://telegra.ph/file/e4b3797684a9a5d2bfc10.jpg",
+        "https://telegra.ph/file/9476ecdd92596a0fb6d33.jpg",
+        "https://telegra.ph/file/a8cd94171909d565494b9.jpg",
+        "https://telegra.ph/file/8f8102af5e83dc9d55095.jpg",
+        "https://telegra.ph/file/19c6a508f56554e237e4f.jpg",
+        "https://telegra.ph/file/02b29df10c11f64fb0202.jpg",
+        "https://telegra.ph/file/9d36e5125d471f37cf5f3.jpg",
+        "https://telegra.ph/file/67f8a316a4201392a0877.jpg",
+        "https://telegra.ph/file/05f2a7aa44765603eb76b.jpg",
+        "https://telegra.ph/file/c0e289c62c8ea936bc95d.jpg",
+        "https://telegra.ph/file/df28ec782601068149de3.jpg",
+        "https://telegra.ph/file/b3cd4f1c31cb5ad0bf941.jpg",
+        "https://telegra.ph/file/55aec651577d575ca3770.jpg",
+        "https://telegra.ph/file/ef62fe4f84ea7aa162163.jpg",
+        "https://telegra.ph/file/628ce823821ca82d44277.jpg",
+        "https://telegra.ph/file/c3fbb232f9262663607b6.jpg",
+        "https://telegra.ph/file/cae787d995913fffb1f2f.jpg",
+        "https://telegra.ph/file/140e5fe38f4634af95ef2.jpg",
+        "https://telegra.ph/file/e9672c096a3ad1dcba4c9.jpg",
+        "https://telegra.ph/file/11989abf31af8c2c72377.jpg",
+        "https://telegra.ph/file/ffd5504c76d14c425cf32.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

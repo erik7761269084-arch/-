@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8523,
+    "title": "清水由乃 月下舞姬",
+    "sourceUrl": "https://telegra.ph/清水由乃-月下舞姬-08-29",
+    "images": [
+        "https://telegra.ph/file/e4d56924f0294cbe6896e.jpg",
+        "https://telegra.ph/file/18042601ee2fa09576c8b.jpg",
+        "https://telegra.ph/file/cd521509866f73f3dcafe.jpg",
+        "https://telegra.ph/file/d5e69def439ef93f8f393.jpg",
+        "https://telegra.ph/file/4003b99cc282031fe835c.jpg",
+        "https://telegra.ph/file/f03ee5762d65312186656.jpg",
+        "https://telegra.ph/file/f3347a97953b90823bf81.jpg",
+        "https://telegra.ph/file/727b5ae2201f85d1852fa.jpg",
+        "https://telegra.ph/file/35fcc34651288e5fde252.jpg",
+        "https://telegra.ph/file/842b83bcf78e684923471.jpg",
+        "https://telegra.ph/file/72b7370df7a5a525a6397.jpg",
+        "https://telegra.ph/file/a9349352ee137f4af5e37.jpg",
+        "https://telegra.ph/file/b8a636fc6f96e31c54435.jpg",
+        "https://telegra.ph/file/16862fe69c3df26c200d8.jpg",
+        "https://telegra.ph/file/98c062431e902ef97868d.jpg",
+        "https://telegra.ph/file/448f2541376e54ef54de7.jpg",
+        "https://telegra.ph/file/931886639ffbc38284b91.jpg",
+        "https://telegra.ph/file/f2ea9f3dcefca869e33d7.jpg",
+        "https://telegra.ph/file/95aa3c077f4cbe3705c38.jpg",
+        "https://telegra.ph/file/f5be92ba85f4c9b9d99a9.jpg",
+        "https://telegra.ph/file/a305db5ad220ad76462bb.jpg",
+        "https://telegra.ph/file/61ba37018b1657ade922f.jpg",
+        "https://telegra.ph/file/ec8bfcc1d8e55edb173c8.jpg",
+        "https://telegra.ph/file/9badaba44bce5ab5a5d5f.jpg",
+        "https://telegra.ph/file/b4e4fb049c081d6acdcb2.jpg",
+        "https://telegra.ph/file/593f0a92c83303e0704ce.jpg",
+        "https://telegra.ph/file/237587b0de8b9de215364.jpg",
+        "https://telegra.ph/file/7c1cf5590baaeee60820c.jpg",
+        "https://telegra.ph/file/7a0785078a5a07e2d2cf7.jpg",
+        "https://telegra.ph/file/5ebeaf1f4a13a2eaaa6de.jpg",
+        "https://telegra.ph/file/39e8398fc545a9ba88a3c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

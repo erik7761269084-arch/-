@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5972,
+    "title": "九曲Jean-猫娘狂三.内衣狂三.睡衣狂三",
+    "sourceUrl": "https://telegra.ph/九曲Jean-猫娘狂三内衣狂三睡衣狂三-08-29",
+    "images": [
+        "https://telegra.ph/file/f43313f82c27f3b12dc5e.jpg",
+        "https://telegra.ph/file/a9f1ba75c30aeaf091e4b.jpg",
+        "https://telegra.ph/file/43ed65c0ece622dd3bd80.jpg",
+        "https://telegra.ph/file/7759e9b1d840edfc6416b.jpg",
+        "https://telegra.ph/file/f8800e5521293bd4ed376.jpg",
+        "https://telegra.ph/file/8939d4627ef5f48e3df7e.jpg",
+        "https://telegra.ph/file/61e2aa19699d3b777f8e1.jpg",
+        "https://telegra.ph/file/f5e65201712345744b5c4.jpg",
+        "https://telegra.ph/file/5fb643bd043b23ed15faf.jpg",
+        "https://telegra.ph/file/467e68ee69d67bf0b47ef.jpg",
+        "https://telegra.ph/file/d9a215d302dd592cc498b.jpg",
+        "https://telegra.ph/file/3e6faed6303c7e2a7ee51.jpg",
+        "https://telegra.ph/file/68de7b5b7d2f1c2d2d2fe.jpg",
+        "https://telegra.ph/file/872ea663d074b5d8161ef.jpg",
+        "https://telegra.ph/file/d93963a7807424cf7da79.jpg",
+        "https://telegra.ph/file/5e5c835ffb0c65cd4e02d.jpg",
+        "https://telegra.ph/file/fe6c856bad537814c4ca1.jpg",
+        "https://telegra.ph/file/af921ea7d73823b2ce353.jpg",
+        "https://telegra.ph/file/7a34bf225bf637e31e945.jpg",
+        "https://telegra.ph/file/17eb02b906f416b6a6ab1.jpg",
+        "https://telegra.ph/file/f4319b179514a24794825.jpg",
+        "https://telegra.ph/file/ca7013ff254875f454548.jpg",
+        "https://telegra.ph/file/92137b267852d0ff0525f.jpg",
+        "https://telegra.ph/file/cbb759ceb4b491d564f14.jpg",
+        "https://telegra.ph/file/eab8294cc6bd2f36eff81.jpg",
+        "https://telegra.ph/file/ede643fd4f0bc601caaa4.jpg",
+        "https://telegra.ph/file/b9002d1263fde67015b04.jpg",
+        "https://telegra.ph/file/7fc570fedaa80d867e70e.jpg",
+        "https://telegra.ph/file/1faff4f14ebaf7c6a3537.jpg",
+        "https://telegra.ph/file/64100503d729e7aad974f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

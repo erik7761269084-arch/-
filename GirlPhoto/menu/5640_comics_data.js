@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5640,
+    "title": "虎森森 - 喜多川海梦兔女郎",
+    "sourceUrl": "https://telegra.ph/虎森森---喜多川海梦兔女郎-08-29",
+    "images": [
+        "https://telegra.ph/file/59e00b5403e0c4c02abe0.jpg",
+        "https://telegra.ph/file/466fec29a6f4542ef5982.jpg",
+        "https://telegra.ph/file/207a1c20e77d487a904c3.jpg",
+        "https://telegra.ph/file/cf0204e054a4b01dfcddd.jpg",
+        "https://telegra.ph/file/e3040dbf50c372fef13c9.jpg",
+        "https://telegra.ph/file/6e02077993f4cc1e52ae2.jpg",
+        "https://telegra.ph/file/dfbae2f11c9f0396ac40f.jpg",
+        "https://telegra.ph/file/4482fb466df04bb826302.jpg",
+        "https://telegra.ph/file/b7128b10658f1b6b6d9b4.jpg",
+        "https://telegra.ph/file/3b39854349b29708a8f24.jpg",
+        "https://telegra.ph/file/6608160547f4b16168844.jpg",
+        "https://telegra.ph/file/4061367b1426930764ef2.jpg",
+        "https://telegra.ph/file/80b3969664a5214f3d08f.jpg",
+        "https://telegra.ph/file/f72f6c6f70881440ffcf8.jpg",
+        "https://telegra.ph/file/f18f41cf39fb557c255dc.jpg",
+        "https://telegra.ph/file/121cfd088318d9263765e.jpg",
+        "https://telegra.ph/file/c36b487e5f818b81a8a96.jpg",
+        "https://telegra.ph/file/d2c86cff4b15d8ab95285.jpg",
+        "https://telegra.ph/file/124e6c2d31220d0fe09be.jpg",
+        "https://telegra.ph/file/65cc6347afa6e4d0d05cf.jpg",
+        "https://telegra.ph/file/6e425db431297e7cddabf.jpg",
+        "https://telegra.ph/file/59055249294d9fef5ef6e.jpg",
+        "https://telegra.ph/file/4aa29eda9a337bc8f77db.jpg",
+        "https://telegra.ph/file/0e89a99302d720d24709e.jpg",
+        "https://telegra.ph/file/85d938b055791c5982f60.jpg",
+        "https://telegra.ph/file/db5e7a3dc7d45f0797917.jpg",
+        "https://telegra.ph/file/3be7fd079738ebb6d7227.jpg",
+        "https://telegra.ph/file/39ad705e74fb1fdea91d2.jpg",
+        "https://telegra.ph/file/31cdad846d4e9a726ecd7.jpg",
+        "https://telegra.ph/file/61fdf953ceb7a11b8d5ac.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

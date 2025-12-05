@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9362,
+    "title": "萌妹是青水 - 学妹jk",
+    "sourceUrl": "https://telegra.ph/萌妹是青水---学妹jk-08-28",
+    "images": [
+        "https://telegra.ph/file/1aa24ff4e73351b92b23a.jpg",
+        "https://telegra.ph/file/48491fb31764cc6d83c86.jpg",
+        "https://telegra.ph/file/fc4cc9139198c31be8aeb.jpg",
+        "https://telegra.ph/file/85395bdd2f79c1193aa9b.jpg",
+        "https://telegra.ph/file/6aee406a58418394ba58f.jpg",
+        "https://telegra.ph/file/709f781cde2edcd1352fd.jpg",
+        "https://telegra.ph/file/c503fa254108b5847073b.jpg",
+        "https://telegra.ph/file/891fb1607768c78756d95.jpg",
+        "https://telegra.ph/file/4d8854a5ff0b17d60131a.jpg",
+        "https://telegra.ph/file/c1c77c71f9bb2c3e01606.jpg",
+        "https://telegra.ph/file/4a21ef6311659d7d25ad7.jpg",
+        "https://telegra.ph/file/9ae8e7ceb05d4c91c57e6.jpg",
+        "https://telegra.ph/file/2cfdb7bb4b9ade3296960.jpg",
+        "https://telegra.ph/file/1d62a3fc88093887ce114.jpg",
+        "https://telegra.ph/file/cfd763dcc1c81b896d054.jpg",
+        "https://telegra.ph/file/da902b251f724332cec44.jpg",
+        "https://telegra.ph/file/f4c53267e1a8db9621683.jpg",
+        "https://telegra.ph/file/6d7281c75a9774212f421.jpg",
+        "https://telegra.ph/file/63eb4f5d9968f842f0f42.jpg",
+        "https://telegra.ph/file/9543a6126fb3fc9c2aa10.jpg",
+        "https://telegra.ph/file/818594c417ec79ed3eb36.jpg",
+        "https://telegra.ph/file/8d873ed3d16b0dfecf1f5.jpg",
+        "https://telegra.ph/file/f609cb5c576dfe1a7c314.jpg",
+        "https://telegra.ph/file/6c8e951b29b478489385f.jpg",
+        "https://telegra.ph/file/bc97f04447f07cc36a43b.jpg",
+        "https://telegra.ph/file/f7ca51ee937101d6eeaed.jpg",
+        "https://telegra.ph/file/d94baf46862458f0f23e3.jpg",
+        "https://telegra.ph/file/ab9a8a8b3b97d0618fda1.jpg",
+        "https://telegra.ph/file/f2d16ad9ac215f931670e.jpg",
+        "https://telegra.ph/file/723d465e55cae06a92fb9.jpg",
+        "https://telegra.ph/file/48f1d932657dd29fbc0cc.jpg",
+        "https://telegra.ph/file/822f1bdf685f0d71cd858.jpg",
+        "https://telegra.ph/file/78963251d5d00012c387e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

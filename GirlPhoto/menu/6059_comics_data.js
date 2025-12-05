@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6059,
+    "title": "九言 丽莎",
+    "sourceUrl": "https://telegra.ph/九言-丽莎-08-29",
+    "images": [
+        "https://telegra.ph/file/aeebdab16509b259c9701.jpg",
+        "https://telegra.ph/file/387d699eda4ae2378a8eb.jpg",
+        "https://telegra.ph/file/aeacbf93eb85348f81293.jpg",
+        "https://telegra.ph/file/e852ce5d9e6b9931f4357.jpg",
+        "https://telegra.ph/file/814582c114efc9c7a9fad.jpg",
+        "https://telegra.ph/file/1f568db37fafd78f8bee8.jpg",
+        "https://telegra.ph/file/f17f9e8d6ff981d30bd32.jpg",
+        "https://telegra.ph/file/502b86c88de76a5969526.jpg",
+        "https://telegra.ph/file/6a5dde8c6a08dc6112527.jpg",
+        "https://telegra.ph/file/9be48e8a2cdebdce148f7.jpg",
+        "https://telegra.ph/file/0577b0a5d13ff80944a72.jpg",
+        "https://telegra.ph/file/788edc520c71766feb978.jpg",
+        "https://telegra.ph/file/db65a64a72f8e144967c7.jpg",
+        "https://telegra.ph/file/ec6d103cf63042f1524d3.jpg",
+        "https://telegra.ph/file/a54daa09a0a93cba699ee.jpg",
+        "https://telegra.ph/file/0e0bd35f4ad3441a122d8.jpg",
+        "https://telegra.ph/file/910a9eab926529c641191.jpg",
+        "https://telegra.ph/file/d2df0fade14740217137b.jpg",
+        "https://telegra.ph/file/a777827e30dd1ea0fd2f6.jpg",
+        "https://telegra.ph/file/3befbbb19a23d741ca540.jpg",
+        "https://telegra.ph/file/fc816966065e6e5a3bfbd.jpg",
+        "https://telegra.ph/file/d4330f91e20c29da90a7c.jpg",
+        "https://telegra.ph/file/1d9808a943e631070e0f3.jpg",
+        "https://telegra.ph/file/3120eb71d1f0e19c1625f.jpg",
+        "https://telegra.ph/file/ec8b2869edb3d5f4f2f8d.jpg",
+        "https://telegra.ph/file/bfb929e8470bf63f80c75.jpg",
+        "https://telegra.ph/file/3548c64092cf0cf459432.jpg",
+        "https://telegra.ph/file/83b854943629334f431bb.jpg",
+        "https://telegra.ph/file/b44f8f05fcab2a94f1f15.jpg",
+        "https://telegra.ph/file/fb02f67d4fbf92bc31796.jpg",
+        "https://telegra.ph/file/12667093372e0eb15e23f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

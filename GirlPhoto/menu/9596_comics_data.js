@@ -1,0 +1,38 @@
+const comicData = {
+    "IDcode": 9596,
+    "title": "霜月shimo - NO.48 黑江雫 [28P-703MB]",
+    "sourceUrl": "https://telegra.ph/霜月shimo---NO48-黑江雫-28P-703MB-08-26",
+    "images": [
+        "https://telegra.ph/file/4f29185e4147c68630231.jpg",
+        "https://telegra.ph/file/184a3cb3efcae1220e4a3.jpg",
+        "https://telegra.ph/file/f1a17600d89e4e4e0578b.jpg",
+        "https://telegra.ph/file/114362318416c8f4822cc.jpg",
+        "https://telegra.ph/file/cdb100800db22b0f543d7.jpg",
+        "https://telegra.ph/file/f8a45da08b2c571af5b92.jpg",
+        "https://telegra.ph/file/22989e02e8f0ccb14db9f.jpg",
+        "https://telegra.ph/file/3de431dcc4a504dc95ee8.jpg",
+        "https://telegra.ph/file/3befa36edb4cfa619e680.jpg",
+        "https://telegra.ph/file/fcf66c777adc0c5844fb1.jpg",
+        "https://telegra.ph/file/767fec7d4cd48ce049edf.jpg",
+        "https://telegra.ph/file/5af90a84dd8536711306a.jpg",
+        "https://telegra.ph/file/c1cfd0cd0a984929bc421.jpg",
+        "https://telegra.ph/file/8df417b54e59c6459e596.jpg",
+        "https://telegra.ph/file/35065823fa8316d9c7f71.jpg",
+        "https://telegra.ph/file/e9ff25478b31c4f25695f.jpg",
+        "https://telegra.ph/file/5e30f5de958f3f5e1e4bf.jpg",
+        "https://telegra.ph/file/512d7ac1529a87d53af53.jpg",
+        "https://telegra.ph/file/2051e47c2a1c20944054f.jpg",
+        "https://telegra.ph/file/ed249777ac464518737dd.jpg",
+        "https://telegra.ph/file/e851b3661fa418bae2cdd.jpg",
+        "https://telegra.ph/file/47554a3f57aeedc05e71b.jpg",
+        "https://telegra.ph/file/6214a9cd32ac7e81fd811.jpg",
+        "https://telegra.ph/file/d2600ec9c8a188eb9b1bf.jpg",
+        "https://telegra.ph/file/21d92f5372f9e2beda58e.jpg",
+        "https://telegra.ph/file/39d483b4c952eb032fb66.jpg",
+        "https://telegra.ph/file/fb8d90530f037de5abf87.jpg",
+        "https://telegra.ph/file/85ac234c04daa291c91c6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

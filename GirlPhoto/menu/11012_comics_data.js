@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11012,
+    "title": "小容仔咕咕咕 黑兽巫女辉夜",
+    "sourceUrl": "https://telegra.ph/小容仔咕咕咕-黑兽巫女辉夜-08-29",
+    "images": [
+        "https://telegra.ph/file/a6d25861e546e51c2496c.jpg",
+        "https://telegra.ph/file/ec6365516a907ca43cca6.jpg",
+        "https://telegra.ph/file/89b2ddbc9948f8f7137ea.jpg",
+        "https://telegra.ph/file/7598172b45798303c0ab2.jpg",
+        "https://telegra.ph/file/15a0c1fbd96c9cd969986.jpg",
+        "https://telegra.ph/file/78f2454db262a56195def.jpg",
+        "https://telegra.ph/file/1658f01ea8325efd01892.jpg",
+        "https://telegra.ph/file/0fdf4c4b9d7405198451b.jpg",
+        "https://telegra.ph/file/86808de8e52e7aba0ca5f.jpg",
+        "https://telegra.ph/file/86a18948c31e9662b5c59.jpg",
+        "https://telegra.ph/file/650dd110ab281a0ee3449.jpg",
+        "https://telegra.ph/file/cb2dfbb062785645e29e5.jpg",
+        "https://telegra.ph/file/2582c8796d404a51c0a87.jpg",
+        "https://telegra.ph/file/00dccfee68302c7fefa11.jpg",
+        "https://telegra.ph/file/b62ee0b1da19d733e522f.jpg",
+        "https://telegra.ph/file/df9499198e8f5a70fb45f.jpg",
+        "https://telegra.ph/file/7f58d15298ec33b333b8a.jpg",
+        "https://telegra.ph/file/177714b310b04ca21adb4.jpg",
+        "https://telegra.ph/file/02ccadd3eb29b163ce7f3.jpg",
+        "https://telegra.ph/file/308930567a56e87bbb262.jpg",
+        "https://telegra.ph/file/cb9f5c195700de4467dad.jpg",
+        "https://telegra.ph/file/9970f3a453287534cd8ff.jpg",
+        "https://telegra.ph/file/14d5e9beeffa49734c52e.jpg",
+        "https://telegra.ph/file/0f42c665f1ec2471917b8.jpg",
+        "https://telegra.ph/file/c794ec4ea3aa285190f9f.jpg",
+        "https://telegra.ph/file/2623a7e3ef9a487c1c247.jpg",
+        "https://telegra.ph/file/866a50de83d4779000bad.jpg",
+        "https://telegra.ph/file/e9cd3a1e6eb85965c53ec.jpg",
+        "https://telegra.ph/file/9f150254807cff5f9248f.jpg",
+        "https://telegra.ph/file/1ae1962749cf79b2af80a.jpg",
+        "https://telegra.ph/file/ea145517d8d1c5533076f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

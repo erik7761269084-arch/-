@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5621,
+    "title": "虎森森 书房姐姐",
+    "sourceUrl": "https://telegra.ph/虎森森-书房姐姐-08-25",
+    "images": [
+        "https://telegra.ph/file/3773539803a3e92c7aa38.jpg",
+        "https://telegra.ph/file/393297c081d8f9536736e.jpg",
+        "https://telegra.ph/file/e9bd65514fd9ce5dd9a91.jpg",
+        "https://telegra.ph/file/61ad08a89606bddbcffc1.jpg",
+        "https://telegra.ph/file/0443f174fcb3d1d0cd84d.jpg",
+        "https://telegra.ph/file/783eab2ef86faaf37619e.jpg",
+        "https://telegra.ph/file/4636d5ac70c4302c66ef1.jpg",
+        "https://telegra.ph/file/502b1f19e5a44dcd71aaa.jpg",
+        "https://telegra.ph/file/b49f577dd2e37a3f33414.jpg",
+        "https://telegra.ph/file/3aa79dec9addd3b36cc1a.jpg",
+        "https://telegra.ph/file/a73682744c2d41beff466.jpg",
+        "https://telegra.ph/file/750c99e285e99a9bfa251.jpg",
+        "https://telegra.ph/file/71f5209ec7ea614aaadf3.jpg",
+        "https://telegra.ph/file/d70c54aff2e5d53776397.jpg",
+        "https://telegra.ph/file/70bab8e8f6cef3f62687a.jpg",
+        "https://telegra.ph/file/770f420060e6e3b17d80f.jpg",
+        "https://telegra.ph/file/5c86e77d8cb29833aca8d.jpg",
+        "https://telegra.ph/file/e4ca790d92e6e4573610a.jpg",
+        "https://telegra.ph/file/bc2a70ae494fd5ade5b1d.jpg",
+        "https://telegra.ph/file/b773659a66b56736fb844.jpg",
+        "https://telegra.ph/file/3b3fc6e2181e45dc4ee8f.jpg",
+        "https://telegra.ph/file/fc34b394069046c38e4c8.jpg",
+        "https://telegra.ph/file/d40eaf23889a9082b9a08.jpg",
+        "https://telegra.ph/file/13e1a85631c497e2858f5.jpg",
+        "https://telegra.ph/file/73c894d169429cd1410a3.jpg",
+        "https://telegra.ph/file/831635a09c2245a2a2991.jpg",
+        "https://telegra.ph/file/14b96ae3be77cca39e7ce.jpg",
+        "https://telegra.ph/file/76340539544727a8ca9a5.jpg",
+        "https://telegra.ph/file/eacb77663b383d3c6ceaa.jpg",
+        "https://telegra.ph/file/8b003a0f946cfa676a16a.jpg",
+        "https://telegra.ph/file/7029a8dd5bbe75fd67b64.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

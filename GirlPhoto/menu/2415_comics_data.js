@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2415,
+    "title": "Tokar浵卡 大慈树王",
+    "sourceUrl": "https://telegra.ph/Tokar浵卡-大慈树王-08-29",
+    "images": [
+        "https://telegra.ph/file/a9dd866b3c0ae5061d93e.jpg",
+        "https://telegra.ph/file/3fda62807fa5efd086770.jpg",
+        "https://telegra.ph/file/5f3a2edb220c400886f06.jpg",
+        "https://telegra.ph/file/2ff14fe150003c00807f8.jpg",
+        "https://telegra.ph/file/7a389cdc93e59afd9f2de.jpg",
+        "https://telegra.ph/file/21dcd1ce5a6bca70f00d1.jpg",
+        "https://telegra.ph/file/d511b9ffda1a3e07cf121.jpg",
+        "https://telegra.ph/file/af9bb265831932e7507d5.jpg",
+        "https://telegra.ph/file/eae6dab14fdb04c387ab6.jpg",
+        "https://telegra.ph/file/05346eb62f6ac969d588d.jpg",
+        "https://telegra.ph/file/2e375f6d8dde2d1a80144.jpg",
+        "https://telegra.ph/file/b457df7c8a53aa330a0db.jpg",
+        "https://telegra.ph/file/2d28005c74bcdde02ab52.jpg",
+        "https://telegra.ph/file/b038346ad6e280223c018.jpg",
+        "https://telegra.ph/file/9849bfd8d147f7c6613bb.jpg",
+        "https://telegra.ph/file/b3286d3d1cd2a484a12b5.jpg",
+        "https://telegra.ph/file/40c77e09836a51529a99e.jpg",
+        "https://telegra.ph/file/ceb6c9f16cdf869362920.jpg",
+        "https://telegra.ph/file/8153117940e1b81bd9a74.jpg",
+        "https://telegra.ph/file/6c9d5def8be51d8e15237.jpg",
+        "https://telegra.ph/file/0d2e16a167240506932bd.jpg",
+        "https://telegra.ph/file/f1912570a8f135d7561cb.jpg",
+        "https://telegra.ph/file/883160c9d26f678318339.jpg",
+        "https://telegra.ph/file/9059cdf8d8a062cdf97b8.jpg",
+        "https://telegra.ph/file/37f746d6c896fdf9ed799.jpg",
+        "https://telegra.ph/file/0c088d883ce54329d79dc.jpg",
+        "https://telegra.ph/file/89204a5de479d178b0089.jpg",
+        "https://telegra.ph/file/ca28e02148dbc1880b126.jpg",
+        "https://telegra.ph/file/a3f54fddedca9b8bcaac4.jpg",
+        "https://telegra.ph/file/59aaae0196bd0f8321191.jpg",
+        "https://telegra.ph/file/1fd6c73e288170ffc19a3.jpg",
+        "https://telegra.ph/file/6ac9ef4af94f801ddf89e.jpg",
+        "https://telegra.ph/file/3ca8e27655fee9423e68b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11758,
+    "title": "轩萧学姐 -   游戏时间",
+    "sourceUrl": "https://telegra.ph/轩萧学姐---游戏时间-08-27",
+    "images": [
+        "https://telegra.ph/file/bee7d14e549d0dbea8b34.jpg",
+        "https://telegra.ph/file/528086ac3df24422df099.jpg",
+        "https://telegra.ph/file/d19bebe5ffc4e62830a16.jpg",
+        "https://telegra.ph/file/cb59e1b7a0a09da2d0ace.jpg",
+        "https://telegra.ph/file/a7da332b0757e2b47d4ed.jpg",
+        "https://telegra.ph/file/541fda9a5423bc1c590c2.jpg",
+        "https://telegra.ph/file/645f05d31a7991e397de8.jpg",
+        "https://telegra.ph/file/3667f5784dc1e531008c3.jpg",
+        "https://telegra.ph/file/dfbb193a1d469b5f12596.jpg",
+        "https://telegra.ph/file/37b1803bbb9913982acf3.jpg",
+        "https://telegra.ph/file/a0e71cf53fb1a2f18fcb7.jpg",
+        "https://telegra.ph/file/a43d4a17333cc292bdf20.jpg",
+        "https://telegra.ph/file/5d9bd82f49845322d5dd2.jpg",
+        "https://telegra.ph/file/fed5306a312dfd8346b24.jpg",
+        "https://telegra.ph/file/3f10370fd0ff5e1e96bce.jpg",
+        "https://telegra.ph/file/655f1ebb0e358fdf24715.jpg",
+        "https://telegra.ph/file/0804f6db23424bdaa48c9.jpg",
+        "https://telegra.ph/file/4ad53e3122cd8de70c291.jpg",
+        "https://telegra.ph/file/30e9b5c3587efa6fc9cab.jpg",
+        "https://telegra.ph/file/74c8501361614d775c6e2.jpg",
+        "https://telegra.ph/file/edfc6224eb988ea1fa6ed.jpg",
+        "https://telegra.ph/file/8f6000dfbf7006c5c2561.jpg",
+        "https://telegra.ph/file/655bebb7cb041f8132cae.jpg",
+        "https://telegra.ph/file/43e9471b13e493f6f3d0d.jpg",
+        "https://telegra.ph/file/8ad3aee56fb9bed2af63c.jpg",
+        "https://telegra.ph/file/7a8d536f4f0f114f421ee.jpg",
+        "https://telegra.ph/file/699a0847a75d64875c657.jpg",
+        "https://telegra.ph/file/063e7fca896e22e5aedfa.jpg",
+        "https://telegra.ph/file/f43721e35c5335efa77b2.jpg",
+        "https://telegra.ph/file/a47467c0e01e6c7a97075.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

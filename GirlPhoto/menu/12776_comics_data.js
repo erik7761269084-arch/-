@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12776,
+    "title": "VOL.377 桜桃喵 雷姆女仆",
+    "sourceUrl": "https://telegra.ph/VOL377-桜桃喵-雷姆女仆-08-27",
+    "images": [
+        "https://telegra.ph/file/e5ca2a6b79d8347affaee.jpg",
+        "https://telegra.ph/file/6b5a4139c789e0e4e35b6.jpg",
+        "https://telegra.ph/file/718a3f10a6e44c128cfce.jpg",
+        "https://telegra.ph/file/fbdc8a94edb9fd22b0d63.jpg",
+        "https://telegra.ph/file/682b3365e9f3c4de4a3e7.jpg",
+        "https://telegra.ph/file/b95258ba6fa850c4bae01.jpg",
+        "https://telegra.ph/file/2c7309d59be6e686d6a27.jpg",
+        "https://telegra.ph/file/90cc0bcad0dc241391a6c.jpg",
+        "https://telegra.ph/file/0ea479adce407fa207d98.jpg",
+        "https://telegra.ph/file/920f65f5532c4e56ca210.jpg",
+        "https://telegra.ph/file/2a4fa4ca6f407397b1e68.jpg",
+        "https://telegra.ph/file/6bfa78d8f9e94d17ad95e.jpg",
+        "https://telegra.ph/file/be22f0762ab3c0b730a72.jpg",
+        "https://telegra.ph/file/51d7c7e21778463d2dfe1.jpg",
+        "https://telegra.ph/file/b3ee78bfc4e20059a6699.jpg",
+        "https://telegra.ph/file/598b64b4065073e7d2955.jpg",
+        "https://telegra.ph/file/8f6334c0aaeefb11d6cce.jpg",
+        "https://telegra.ph/file/251092cc50f33990e6eea.jpg",
+        "https://telegra.ph/file/c5b29fb2348a6b5a860d9.jpg",
+        "https://telegra.ph/file/c3cbb1a832bc7a8315607.jpg",
+        "https://telegra.ph/file/d634edee6e1f22779e9e0.jpg",
+        "https://telegra.ph/file/249875d1b1dcc2b9c19b5.jpg",
+        "https://telegra.ph/file/9c8570368f09d25baa41a.jpg",
+        "https://telegra.ph/file/8e5575426b650727b86e8.jpg",
+        "https://telegra.ph/file/a1682b34f6cb931ce77e8.jpg",
+        "https://telegra.ph/file/577c9fb9bcea9b30aaa58.jpg",
+        "https://telegra.ph/file/2f9768e1a12c949336c67.jpg",
+        "https://telegra.ph/file/c923fb7a7e92f0b64ddf9.jpg",
+        "https://telegra.ph/file/bfb2f0bc250d9ee81f425.jpg",
+        "https://telegra.ph/file/78f150f97b00696b72d57.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

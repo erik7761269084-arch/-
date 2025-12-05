@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10560,
+    "title": "西园寺南歌 - 折耳犬黑色连体衣",
+    "sourceUrl": "https://telegra.ph/西园寺南歌---折耳犬黑色连体衣-08-28",
+    "images": [
+        "https://telegra.ph/file/c0505af716ada33a32a92.jpg",
+        "https://telegra.ph/file/38ed46b53b5ffb9beaa91.jpg",
+        "https://telegra.ph/file/f16fb99d218cf28765c0e.jpg",
+        "https://telegra.ph/file/ea528bbe0bac544f3c25a.jpg",
+        "https://telegra.ph/file/11a10fb4e05b182a605a3.jpg",
+        "https://telegra.ph/file/0544fb0ed2dbb550dd787.jpg",
+        "https://telegra.ph/file/17eaf56d4bc47aa163603.jpg",
+        "https://telegra.ph/file/14547da36d2d73bd12b90.jpg",
+        "https://telegra.ph/file/f2b1551d2c07452e32bbb.jpg",
+        "https://telegra.ph/file/f36f5aefb0f53af470994.jpg",
+        "https://telegra.ph/file/055d0bbf403f5e2117cc4.jpg",
+        "https://telegra.ph/file/5809fe952c9aeb87fc7a0.jpg",
+        "https://telegra.ph/file/63f63e59ba262909727c7.jpg",
+        "https://telegra.ph/file/20e2060cbf819b928cabe.jpg",
+        "https://telegra.ph/file/c8856c32f6bd8a17077ee.jpg",
+        "https://telegra.ph/file/10a8997d9f8c8a47cbe69.jpg",
+        "https://telegra.ph/file/db94d68c16256368e964d.jpg",
+        "https://telegra.ph/file/0940f8524e7f5451b75bb.jpg",
+        "https://telegra.ph/file/e2aed9ba0fdb64240d82d.jpg",
+        "https://telegra.ph/file/1a5867e2d7dab2a655100.jpg",
+        "https://telegra.ph/file/c9b897fc0b0359cafdc76.jpg",
+        "https://telegra.ph/file/8008fa0120833ba912081.jpg",
+        "https://telegra.ph/file/11a0ce9dc04b92fd0a19d.jpg",
+        "https://telegra.ph/file/4be9862de5115db2c13a1.jpg",
+        "https://telegra.ph/file/0b1bd3d007e21d93a7a3c.jpg",
+        "https://telegra.ph/file/3fd3cd5aed0b68ec57a8a.jpg",
+        "https://telegra.ph/file/3f226c186d7583e84fd78.jpg",
+        "https://telegra.ph/file/e6a8650f296c3ced0203e.jpg",
+        "https://telegra.ph/file/8a8b8a2bad2c9e5076d9c.jpg",
+        "https://telegra.ph/file/33d33303d4f8bae42450e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

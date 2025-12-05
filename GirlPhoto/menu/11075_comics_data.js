@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11075,
+    "title": "曉美媽 圣诞 雪夜赞歌",
+    "sourceUrl": "https://telegra.ph/动漫博主曉美媽-圣诞-雪夜赞歌-08-26",
+    "images": [
+        "https://telegra.ph/file/766de59a8b03df3097854.jpg",
+        "https://telegra.ph/file/4f48b2fc999336501937b.jpg",
+        "https://telegra.ph/file/d89a5f8a4b802d54ba96f.jpg",
+        "https://telegra.ph/file/8cd660a6bba27f021044d.jpg",
+        "https://telegra.ph/file/68b17aac28db3e7e396e1.jpg",
+        "https://telegra.ph/file/4ab6d5c85c979486ccabe.jpg",
+        "https://telegra.ph/file/d56ff354d25218fd52588.jpg",
+        "https://telegra.ph/file/fe02719ebc711aaaa9fb4.jpg",
+        "https://telegra.ph/file/a5834b15a083446e3690b.jpg",
+        "https://telegra.ph/file/a8504db66e6ae8081f92c.jpg",
+        "https://telegra.ph/file/33da2ac130b7f8a68bf39.jpg",
+        "https://telegra.ph/file/72172c74be4441e8a084a.jpg",
+        "https://telegra.ph/file/e6c4db63401fe21e30aaf.jpg",
+        "https://telegra.ph/file/67601a300f42e66ae93fe.jpg",
+        "https://telegra.ph/file/ea2f169e420581f448a8e.jpg",
+        "https://telegra.ph/file/fee2984f63fac5487ba62.jpg",
+        "https://telegra.ph/file/673533a27c6dd05a7477e.jpg",
+        "https://telegra.ph/file/73709f2f7260fdf02e01d.jpg",
+        "https://telegra.ph/file/51fc6788a50a6a27c18b0.jpg",
+        "https://telegra.ph/file/c6f4a8561016589b479fa.jpg",
+        "https://telegra.ph/file/413b7038d63b626a4571b.jpg",
+        "https://telegra.ph/file/29d0327810d16b3534197.jpg",
+        "https://telegra.ph/file/776369623de929a8f4b2a.jpg",
+        "https://telegra.ph/file/39777fc7d9ab7951feae3.jpg",
+        "https://telegra.ph/file/24d39146ea48bc011b597.jpg",
+        "https://telegra.ph/file/3f31f1d2aa1ff566bf958.jpg",
+        "https://telegra.ph/file/01580fe2dad3ef5860a81.jpg",
+        "https://telegra.ph/file/bcec2784a5be118620458.jpg",
+        "https://telegra.ph/file/76fc89c8b531949091b6e.jpg",
+        "https://telegra.ph/file/ad1d2125bf6ce7a9f3f4b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

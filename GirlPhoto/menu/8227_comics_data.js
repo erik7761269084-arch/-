@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8227,
+    "title": "七月喵子 - JK黑丝",
+    "sourceUrl": "https://telegra.ph/七月喵子---JK黑丝-08-27",
+    "images": [
+        "https://telegra.ph/file/79209911c96105c601818.jpg",
+        "https://telegra.ph/file/c3f6a4998d721c5f91ba9.jpg",
+        "https://telegra.ph/file/7358f0964439784586922.jpg",
+        "https://telegra.ph/file/24686a0e86e632953d117.jpg",
+        "https://telegra.ph/file/ac1568198aab1baeaad32.jpg",
+        "https://telegra.ph/file/6251ad4de57208be4233e.jpg",
+        "https://telegra.ph/file/126956a683a3ab271e581.jpg",
+        "https://telegra.ph/file/1bfaada69dfb8c8639c68.jpg",
+        "https://telegra.ph/file/175e088707bd612f3b5ee.jpg",
+        "https://telegra.ph/file/9d233cb7adc2014b26371.jpg",
+        "https://telegra.ph/file/37a156cb158eed3e70d98.jpg",
+        "https://telegra.ph/file/b9b52e4f42fb032476144.jpg",
+        "https://telegra.ph/file/5d79e909e72b9f2e4ba8b.jpg",
+        "https://telegra.ph/file/10019289c2f05f4182014.jpg",
+        "https://telegra.ph/file/0f51de9319d579a5fb4c2.jpg",
+        "https://telegra.ph/file/dc4f0d9cf2f42e5489656.jpg",
+        "https://telegra.ph/file/1666448d2acf726e32ec5.jpg",
+        "https://telegra.ph/file/0e2a52dd4883c75ce7270.jpg",
+        "https://telegra.ph/file/b13ca60e0ff03ab440a1a.jpg",
+        "https://telegra.ph/file/5b9eb9822771edbf6bade.jpg",
+        "https://telegra.ph/file/85990f427f42eaf5c05ec.jpg",
+        "https://telegra.ph/file/4a969fb317d7df1c8ccd1.jpg",
+        "https://telegra.ph/file/1c15982b8387ba5d2df80.jpg",
+        "https://telegra.ph/file/e6cb6060a4ca2e67e4620.jpg",
+        "https://telegra.ph/file/27d3a47a25fb2f27ec6e3.jpg",
+        "https://telegra.ph/file/db00d932b89222e73de0c.jpg",
+        "https://telegra.ph/file/9ab2add75ba10e796c7ff.jpg",
+        "https://telegra.ph/file/951bd5d37b8a1d67e6176.jpg",
+        "https://telegra.ph/file/1dc5e5d86807552e66d5b.jpg",
+        "https://telegra.ph/file/afda36f2edd9a93833e31.jpg",
+        "https://telegra.ph/file/58687ec379bb7df5787a6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20562,
+    "title": "浅仓yokoo - 碧蓝航线 奥古斯特 女仆 (August - Azur Lane)",
+    "sourceUrl": "https://telegra.ph/浅仓yokoo---碧蓝航线-奥古斯特-女仆-August---Azur-Lane-08-29",
+    "images": [
+        "https://telegra.ph/file/e559c650f4d6ecae03c64.jpg",
+        "https://telegra.ph/file/160822ab19abb3d52a078.jpg",
+        "https://telegra.ph/file/557bb82612a97330e85a1.jpg",
+        "https://telegra.ph/file/de10e5317332e02f5d1a4.jpg",
+        "https://telegra.ph/file/1a3f708532cd85490fffc.jpg",
+        "https://telegra.ph/file/0838cdf16fd6950d69473.jpg",
+        "https://telegra.ph/file/d781c3fb400f671448f1c.jpg",
+        "https://telegra.ph/file/3387441a4f17eaeacdc62.jpg",
+        "https://telegra.ph/file/ca735dd54bf623cd35673.jpg",
+        "https://telegra.ph/file/4822647dfe1b1de31d71c.jpg",
+        "https://telegra.ph/file/4592bf0bfa69f7fc6709b.jpg",
+        "https://telegra.ph/file/cb2d59eee00b8f86d513c.jpg",
+        "https://telegra.ph/file/d11e97fae5b740eebf6f3.jpg",
+        "https://telegra.ph/file/98d98c94e538697875fb8.jpg",
+        "https://telegra.ph/file/151755478cba0e4b0c03d.jpg",
+        "https://telegra.ph/file/e21776dc7a7016754927b.jpg",
+        "https://telegra.ph/file/76f130103fbc9f2d4a4d6.jpg",
+        "https://telegra.ph/file/c2e22f5e0fc8751a86923.jpg",
+        "https://telegra.ph/file/f83ad42dbd1036ebbbb4f.jpg",
+        "https://telegra.ph/file/8f9fe8b4e508e53dd6c80.jpg",
+        "https://telegra.ph/file/3e0e15f17c9a41d33d2e1.jpg",
+        "https://telegra.ph/file/f32d8f53b5ef52cce04e3.jpg",
+        "https://telegra.ph/file/ed07938a5ab34c42d132d.jpg",
+        "https://telegra.ph/file/e0c5ce13b87799da5f710.jpg",
+        "https://telegra.ph/file/5c92685623a079015be1a.jpg",
+        "https://telegra.ph/file/164e4d2efc0af98ba20f3.jpg",
+        "https://telegra.ph/file/7fe13cd3881c6baa7725c.jpg",
+        "https://telegra.ph/file/d0afc65df8f6215d41ed8.jpg",
+        "https://telegra.ph/file/18c90b095f514d1e526d0.jpg",
+        "https://telegra.ph/file/7b04dc23c2ea8d3addd9a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

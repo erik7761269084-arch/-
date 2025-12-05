@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20358,
+    "title": "Hidori Rose - Projekt Melody cosplay",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Projekt-Melody-cosplay-08-29",
+    "images": [
+        "https://telegra.ph/file/84f4c9b0ffa8d65a6c71a.jpg",
+        "https://telegra.ph/file/07b1c259c02d0862888de.jpg",
+        "https://telegra.ph/file/efd7ccb17e9e9df5844fc.jpg",
+        "https://telegra.ph/file/c5b0478244ad396c96b7f.jpg",
+        "https://telegra.ph/file/cc1dad78854e3961ab846.jpg",
+        "https://telegra.ph/file/3da5bc30f8631ea01180a.jpg",
+        "https://telegra.ph/file/d6a883d3eac93b967e579.jpg",
+        "https://telegra.ph/file/c4f9c2e5f9beaa0e7dd40.jpg",
+        "https://telegra.ph/file/af476305ba5b3c3310fa1.jpg",
+        "https://telegra.ph/file/b5efdf8baa3d1bfccea9b.jpg",
+        "https://telegra.ph/file/f9c1bf8e06c9f4827db2d.jpg",
+        "https://telegra.ph/file/5e782c278847343890de2.jpg",
+        "https://telegra.ph/file/47e1c9f055c201a79b216.jpg",
+        "https://telegra.ph/file/b9aaf6dc0bcd707edf381.jpg",
+        "https://telegra.ph/file/96714024b0abd632da9ee.jpg",
+        "https://telegra.ph/file/c6b288f698e56b2289512.jpg",
+        "https://telegra.ph/file/47b57d6d7ed958a268feb.jpg",
+        "https://telegra.ph/file/20efc1911ff7383f6eaf3.jpg",
+        "https://telegra.ph/file/405c29bf5a464d39ef447.jpg",
+        "https://telegra.ph/file/d82c45d1486ff99532cf5.jpg",
+        "https://telegra.ph/file/f60ef205a8b0f999bc263.jpg",
+        "https://telegra.ph/file/685527bd9b58e683fbbde.jpg",
+        "https://telegra.ph/file/c8657dc70477f2063a69b.jpg",
+        "https://telegra.ph/file/dcfa958327cd1adc433e7.jpg",
+        "https://telegra.ph/file/9879c3e8123f4a97aa62b.jpg",
+        "https://telegra.ph/file/ce39e1bdfec36bf537c83.jpg",
+        "https://telegra.ph/file/a02c8e4084f5af8e33b49.jpg",
+        "https://telegra.ph/file/d21895f92c8d761349f76.jpg",
+        "https://telegra.ph/file/f474105ece6cd893e42a3.jpg",
+        "https://telegra.ph/file/91f7baf56a12ae33a7680.jpg",
+        "https://telegra.ph/file/66ed711c927edac7df522.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

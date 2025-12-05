@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3857,
+    "title": "蠢沫沫 女神楽園",
+    "sourceUrl": "https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB-%E5%A5%B3%E7%A5%9E%E6%A5%BD%E5%9C%92-08-23",
+    "images": [
+        "https://telegra.ph/file/c51d1fd6d890d03f30c39.png",
+        "https://telegra.ph/file/4ab1c9a01f36446705378.jpg",
+        "https://telegra.ph/file/990658fb6900eb7fd29cb.jpg",
+        "https://telegra.ph/file/53ef72477928b4640b98c.jpg",
+        "https://telegra.ph/file/d4d9c43e2f5ae19994734.jpg",
+        "https://telegra.ph/file/2709e7076d64d28029ddc.jpg",
+        "https://telegra.ph/file/8f8da83ce4f4fbe7f9b80.jpg",
+        "https://telegra.ph/file/e1d3c45bba6c9bfb2565d.jpg",
+        "https://telegra.ph/file/2c063b9937cb362e808bd.jpg",
+        "https://telegra.ph/file/ef3401c4071c1588c011f.jpg",
+        "https://telegra.ph/file/95e4fe2a35221de2096cc.jpg",
+        "https://telegra.ph/file/4bc325e938da3af905a53.jpg",
+        "https://telegra.ph/file/7e20ed7db3992f9b0830a.jpg",
+        "https://telegra.ph/file/78ca911e079421872406f.jpg",
+        "https://telegra.ph/file/b5437bafa4941ec1c4967.jpg",
+        "https://telegra.ph/file/9a6286e990a8d1b2aceb6.jpg",
+        "https://telegra.ph/file/99d90de151bca7cfb8204.jpg",
+        "https://telegra.ph/file/c9e0058b52978bf823512.jpg",
+        "https://telegra.ph/file/c1dc5a0fa36a2980b3dc5.jpg",
+        "https://telegra.ph/file/91fa53dfe098718c68927.jpg",
+        "https://telegra.ph/file/3ef705b7cd73df88b85e6.jpg",
+        "https://telegra.ph/file/d283918c818b6949d3a9e.jpg",
+        "https://telegra.ph/file/c76eb2a8cf7d6d0a6d112.jpg",
+        "https://telegra.ph/file/7d7f1e295d7f19cbd55a5.jpg",
+        "https://telegra.ph/file/f4d9635ace225638cfa20.jpg",
+        "https://telegra.ph/file/9d5f509ef34d6d1b58cda.jpg",
+        "https://telegra.ph/file/3a80af6eb2d161166ffe5.jpg",
+        "https://telegra.ph/file/8eb50e2da08c0a1932786.jpg",
+        "https://telegra.ph/file/1920afc751c1e9290d282.jpg",
+        "https://telegra.ph/file/240657d080e725b4d8b58.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

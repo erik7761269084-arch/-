@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4757,
+    "title": "二佐Nisa - 碧蓝柴郡",
+    "sourceUrl": "https://telegra.ph/二佐Nisa---碧蓝柴郡-08-27",
+    "images": [
+        "https://telegra.ph/file/fe290535a04da09f509c2.jpg",
+        "https://telegra.ph/file/618dc43d221c95386c359.jpg",
+        "https://telegra.ph/file/06de467e6ef3b4a17dd6c.jpg",
+        "https://telegra.ph/file/84d111453da8aa6d82fac.jpg",
+        "https://telegra.ph/file/34898e54c2e9860ce738d.jpg",
+        "https://telegra.ph/file/88fcdc73e28823efe464a.jpg",
+        "https://telegra.ph/file/a3a493694f919afd1016f.jpg",
+        "https://telegra.ph/file/ed2a07c80c0be0fc232d4.jpg",
+        "https://telegra.ph/file/755cb47d10c67f369a321.jpg",
+        "https://telegra.ph/file/6edc4a227f12f778c20a3.jpg",
+        "https://telegra.ph/file/9269eddc489eb1042982c.jpg",
+        "https://telegra.ph/file/137b5897d81ce5e547fab.jpg",
+        "https://telegra.ph/file/308e077e1932bd1ec3e01.jpg",
+        "https://telegra.ph/file/dcc2ca81059eb6a5d8232.jpg",
+        "https://telegra.ph/file/4bc807eac9e501538b5f5.jpg",
+        "https://telegra.ph/file/804bb46de871cdaae2b4d.jpg",
+        "https://telegra.ph/file/db6c2d90701f784d874e1.jpg",
+        "https://telegra.ph/file/8eca8474024c2d28f9523.jpg",
+        "https://telegra.ph/file/c8e2860ff887058bae3b9.jpg",
+        "https://telegra.ph/file/14e34ef4d512699c00882.jpg",
+        "https://telegra.ph/file/541884eb0cd760292e409.jpg",
+        "https://telegra.ph/file/5cff0afe9bbb34e1fd45b.jpg",
+        "https://telegra.ph/file/81841fc98413f07c8a9fa.jpg",
+        "https://telegra.ph/file/fab06e7afed3068b005bf.jpg",
+        "https://telegra.ph/file/00134f78aa17300e06a10.jpg",
+        "https://telegra.ph/file/ebaf6c25e1e1ba7c3e7de.jpg",
+        "https://telegra.ph/file/82e28f151da9c59162c15.jpg",
+        "https://telegra.ph/file/a4693e71117a57a1fe33d.jpg",
+        "https://telegra.ph/file/81fef9a2ed7c021bfd191.jpg",
+        "https://telegra.ph/file/a359f927e1058402a763c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

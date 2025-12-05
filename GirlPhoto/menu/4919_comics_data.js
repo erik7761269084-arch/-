@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4919,
+    "title": "封疆疆v - 恶毒",
+    "sourceUrl": "https://telegra.ph/封疆疆v---恶毒-08-27",
+    "images": [
+        "https://telegra.ph/file/efd4b32e56efd8ae63ceb.jpg",
+        "https://telegra.ph/file/bb0cc7c5af477450159d1.jpg",
+        "https://telegra.ph/file/4e2db115fdb5533b0a7d9.jpg",
+        "https://telegra.ph/file/884196a0a145e6a56afe3.jpg",
+        "https://telegra.ph/file/83335c7bf6f8dc00d84c5.jpg",
+        "https://telegra.ph/file/7ca5eba6aa961946d4150.jpg",
+        "https://telegra.ph/file/46f976f25f2028a54ef44.jpg",
+        "https://telegra.ph/file/82a99b9cc80da6e8a62b0.jpg",
+        "https://telegra.ph/file/4976c9700898b07c6eeda.jpg",
+        "https://telegra.ph/file/8199bbfbe83fc61b4fdbf.jpg",
+        "https://telegra.ph/file/e61c435575b5b391df0d6.jpg",
+        "https://telegra.ph/file/8518de7d5b3ffedaed464.jpg",
+        "https://telegra.ph/file/1f8efcabaf5948eb05c15.jpg",
+        "https://telegra.ph/file/643276525ff0c7a0d4a65.jpg",
+        "https://telegra.ph/file/0412ae4092b42a358328e.jpg",
+        "https://telegra.ph/file/0e081b2442f1eadfa6260.jpg",
+        "https://telegra.ph/file/15919dd42528a3a257ce5.jpg",
+        "https://telegra.ph/file/f0534b3e60f2b4d91ad03.jpg",
+        "https://telegra.ph/file/6f3b007f516ceebe282d2.jpg",
+        "https://telegra.ph/file/df163eede374532791aad.jpg",
+        "https://telegra.ph/file/749229499eb58766edef2.jpg",
+        "https://telegra.ph/file/f0146780070f1b6669ad2.jpg",
+        "https://telegra.ph/file/9678b2ea37287a29520dc.jpg",
+        "https://telegra.ph/file/f5ebb3be914d4d805b239.jpg",
+        "https://telegra.ph/file/80def52143e171e6293d5.jpg",
+        "https://telegra.ph/file/3cc0c9618535d41520986.jpg",
+        "https://telegra.ph/file/7817d81ad7aa3cb4ca154.jpg",
+        "https://telegra.ph/file/5285f68980d39f20b28ce.jpg",
+        "https://telegra.ph/file/b3ffef4517de3a6bc0566.jpg",
+        "https://telegra.ph/file/dd0b4c70341acf1911c50.jpg",
+        "https://telegra.ph/file/9f8663a2e10f8e7d73f4e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

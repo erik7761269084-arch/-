@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 806,
+    "title": "G44不会受伤 Noa [30P-298MB]",
+    "sourceUrl": "https://telegra.ph/G44不会受伤-Noa-30P-298MB-08-24",
+    "images": [
+        "https://telegra.ph/file/03ec5e709ed091921eb6f.jpg",
+        "https://telegra.ph/file/d17a34743af5f541f1266.jpg",
+        "https://telegra.ph/file/5d1632e4dfec4c6a013d1.jpg",
+        "https://telegra.ph/file/303bacc2676a36b375139.jpg",
+        "https://telegra.ph/file/882e8afc5a3a425c9c415.jpg",
+        "https://telegra.ph/file/7eb13b4eb3655e04faff8.jpg",
+        "https://telegra.ph/file/1ab2311108030eb6bab46.jpg",
+        "https://telegra.ph/file/936f6cf4e27dc007d070e.jpg",
+        "https://telegra.ph/file/b9f1b68dda63f951f74d7.jpg",
+        "https://telegra.ph/file/207b3d3c3aeb1ca3d6e43.jpg",
+        "https://telegra.ph/file/c13a6b4fab6beb5c93692.jpg",
+        "https://telegra.ph/file/c5fd4fbcf5124d9c692c1.jpg",
+        "https://telegra.ph/file/d233269bac2f9677a4ba5.jpg",
+        "https://telegra.ph/file/a571e2e4d4ec6bf135296.jpg",
+        "https://telegra.ph/file/3c2bc7cc7f3a4b65393b3.jpg",
+        "https://telegra.ph/file/41ea2cd49f45024085cda.jpg",
+        "https://telegra.ph/file/382db63cd77eccd1bb73e.jpg",
+        "https://telegra.ph/file/53f11c0f2a77f73823848.jpg",
+        "https://telegra.ph/file/fc845a0dfef0890001593.jpg",
+        "https://telegra.ph/file/70bf3f48edebce292c3ec.jpg",
+        "https://telegra.ph/file/818db345287439921dcea.jpg",
+        "https://telegra.ph/file/639cfe88aeddd7d70d06b.jpg",
+        "https://telegra.ph/file/8d381ba337a2eabef0c38.jpg",
+        "https://telegra.ph/file/c8580a3d9ccdfef5131f4.jpg",
+        "https://telegra.ph/file/35d1367a5d5d58a3c2657.jpg",
+        "https://telegra.ph/file/28403d618234355b5c733.jpg",
+        "https://telegra.ph/file/f51b877f467bbe68ffaf6.jpg",
+        "https://telegra.ph/file/7cee87f558f2f3b85205a.jpg",
+        "https://telegra.ph/file/7c17ec7aeb870da77a08a.jpg",
+        "https://telegra.ph/file/45623a37303066cdc6edf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

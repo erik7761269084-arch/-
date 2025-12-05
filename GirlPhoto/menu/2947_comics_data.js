@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2947,
+    "title": "阿包也是兔娘 王女梦梦 婚纱内衣 33P",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E5%8C%85%E4%B9%9F%E6%98%AF%E5%85%94%E5%A8%98-%E7%8E%8B%E5%A5%B3%E6%A2%A6%E6%A2%A6-%E5%A9%9A%E7%BA%B1%E5%86%85%E8%A1%A3-33P-08-23",
+    "images": [
+        "https://telegra.ph/file/bd70e54df6893275bae34.jpg",
+        "https://telegra.ph/file/bc16725198d8d1c630842.jpg",
+        "https://telegra.ph/file/0d1b85d05c09017842c63.jpg",
+        "https://telegra.ph/file/e241e35778a326291fcb7.jpg",
+        "https://telegra.ph/file/14ee67451f07a7e13ccbb.jpg",
+        "https://telegra.ph/file/8a34a44cca003e2b349cd.jpg",
+        "https://telegra.ph/file/e9a807d10104d268aa93f.jpg",
+        "https://telegra.ph/file/f952767e682ae30d6a71d.jpg",
+        "https://telegra.ph/file/eb4077a292f3c8f284336.jpg",
+        "https://telegra.ph/file/c7073be61995c21825fbf.jpg",
+        "https://telegra.ph/file/11fe85024e542fe17ab9c.jpg",
+        "https://telegra.ph/file/8521d5e21c5251cf11276.jpg",
+        "https://telegra.ph/file/10426095fd6366c4f5edc.jpg",
+        "https://telegra.ph/file/c88bdd9eeb4c1b4f50670.jpg",
+        "https://telegra.ph/file/aa4b02f71b94d85d1ca2a.jpg",
+        "https://telegra.ph/file/127e0d7b41d9606cfdd75.jpg",
+        "https://telegra.ph/file/df27b00e1d4f1c9918390.jpg",
+        "https://telegra.ph/file/22ae33d1537d4936293a7.jpg",
+        "https://telegra.ph/file/17a594d3eef29d0188775.jpg",
+        "https://telegra.ph/file/f710a6261c0e8b775b212.jpg",
+        "https://telegra.ph/file/a8042e3a8c69ba9590d3c.jpg",
+        "https://telegra.ph/file/7ec709818a7ddbf5e7ef5.jpg",
+        "https://telegra.ph/file/6caff634cfe7435b810fd.jpg",
+        "https://telegra.ph/file/5e784b05498023a0df399.jpg",
+        "https://telegra.ph/file/310e3645f2a23826f51b8.jpg",
+        "https://telegra.ph/file/a2fe7c4a25c64ea683c3e.jpg",
+        "https://telegra.ph/file/37b90e72006d01c45b4d2.jpg",
+        "https://telegra.ph/file/4c19fa0a496195d078c98.jpg",
+        "https://telegra.ph/file/3613bb0755190468f546c.jpg",
+        "https://telegra.ph/file/b009b30032e483e572868.jpg",
+        "https://telegra.ph/file/1e3e7e27b960ad35943d4.jpg",
+        "https://telegra.ph/file/8e8c5236934acb6386a45.jpg",
+        "https://telegra.ph/file/5dee85d70793b8667bf70.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

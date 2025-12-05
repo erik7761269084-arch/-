@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1063,
+    "title": "Hane Ame 雨波写真 - 史莱姆紫苑",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波写真---史莱姆紫苑-08-27",
+    "images": [
+        "https://telegra.ph/file/805b2290a93a44e646883.jpg",
+        "https://telegra.ph/file/9ed1c458c397a9c1cd043.jpg",
+        "https://telegra.ph/file/50a04e50ba63b8ea497b5.jpg",
+        "https://telegra.ph/file/fa604401bca73e8148c1e.jpg",
+        "https://telegra.ph/file/ce038e1a1702e38c8f599.jpg",
+        "https://telegra.ph/file/eac31d5c41cfad3118321.jpg",
+        "https://telegra.ph/file/67b09c6843dfa044cfe11.jpg",
+        "https://telegra.ph/file/35d98f12944940f0fac65.jpg",
+        "https://telegra.ph/file/e6a2dd7d14cf3e5060818.jpg",
+        "https://telegra.ph/file/791f80cfd8800f1d04326.jpg",
+        "https://telegra.ph/file/3e3c0f52bfb8bba71a97f.jpg",
+        "https://telegra.ph/file/b2b59158f8bff353a07cb.jpg",
+        "https://telegra.ph/file/11988bd24398d040ff0b6.jpg",
+        "https://telegra.ph/file/27f3472a10dc335de4988.jpg",
+        "https://telegra.ph/file/ff8ceda75fa55e6ad7c34.jpg",
+        "https://telegra.ph/file/66048b0abc07eeaada19f.jpg",
+        "https://telegra.ph/file/3b01b29dcbc8a575522d5.jpg",
+        "https://telegra.ph/file/332499c6dded9df2994d3.jpg",
+        "https://telegra.ph/file/d30f2c7fffc52191f752b.jpg",
+        "https://telegra.ph/file/4260f7e0e70e3b51e1c8d.jpg",
+        "https://telegra.ph/file/7d9d2646b32b83c58bd91.jpg",
+        "https://telegra.ph/file/01cf4aec20f7196a05645.jpg",
+        "https://telegra.ph/file/55969f249d8239e0f7dbc.jpg",
+        "https://telegra.ph/file/9c021db4a7d6b64e19ebb.jpg",
+        "https://telegra.ph/file/22df795598142dda04c7e.jpg",
+        "https://telegra.ph/file/f66d3abc5475f2c420159.jpg",
+        "https://telegra.ph/file/e5e402394e784506e571b.jpg",
+        "https://telegra.ph/file/358244ecd44ef9a35f521.jpg",
+        "https://telegra.ph/file/7a1763ddddf194e4da34e.jpg",
+        "https://telegra.ph/file/9919d06475b3333782ee8.jpg",
+        "https://telegra.ph/file/1210682ec623a1a8d4297.jpg",
+        "https://telegra.ph/file/1ae5659fb191eeac0e46f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

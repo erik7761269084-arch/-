@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9329,
+    "title": "矢量鱼 少女前线云图计划—芙洛伦",
+    "sourceUrl": "https://telegra.ph/%E7%9F%A2%E9%87%8F%E9%B1%BC-%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF%E4%BA%91%E5%9B%BE%E8%AE%A1%E5%88%92%E8%8A%99%E6%B4%9B%E4%BC%A6-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/05/26/1-287deed5f0a96e3223.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-1da923f05e2f81912.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-20697a57a065b14f1.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-3b2492e4c35777413.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-4a650898c35035c62.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-546673ffe9be09dcc.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-6803b946ddec5e89f.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-78c87baab5f3dbf5f.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-8d3444a2ff349f59c.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-92ff258236c83cd5f.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-10ef4f85a3ec28b83c.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-116e1673729a409ae3.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-126bf053e8437434bd.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-1303a8541a58b2a12a.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-147ad83ac66a5e8aff.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-15115c472b0a279b76.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-169001e01fa045732f.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-172daa8ecab8dc6e63.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-188efd5f14ece4757b.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-1943b0577b62ac1d00.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-202ed4a5086a68f61f.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-217c70c18ef6642801.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-225ac6f88825e9deed.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-23faafe365c89a1894.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-241694cee03203a7e0.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-25af293228d91b5562.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-26d335bdf8d4ea61ad.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-27d3355f46ff2c67df.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-2993a8068e033548b6.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-30fd11d303b12f20f5.jpg",
+        "https://image.acg.lol/file/2025/05/26/1-316eadd37110bf6932.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

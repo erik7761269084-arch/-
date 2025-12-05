@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 362,
+    "title": "Byoru - Boa Hancock",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Boa-Hancock-08-26",
+    "images": [
+        "https://telegra.ph/file/5dff2a01e19f10b735875.jpg",
+        "https://telegra.ph/file/eef4ba2710d2973b09dfe.jpg",
+        "https://telegra.ph/file/5ddcec1540206311c312e.jpg",
+        "https://telegra.ph/file/07fe61c8ba8d7af4ea78e.jpg",
+        "https://telegra.ph/file/6a0ac6069c36e410f6ed0.jpg",
+        "https://telegra.ph/file/fc026470334125d4e7a74.jpg",
+        "https://telegra.ph/file/125d11debab9546b71259.jpg",
+        "https://telegra.ph/file/2ef81c55cc9c911803f73.jpg",
+        "https://telegra.ph/file/7dfb18d1ace77cb4a36cb.jpg",
+        "https://telegra.ph/file/92b517ef31b27ea188fee.jpg",
+        "https://telegra.ph/file/8f4f33e7e4bca6a4708fe.jpg",
+        "https://telegra.ph/file/990b15c8cb455b5e0686e.jpg",
+        "https://telegra.ph/file/490e8cdcea3fa7ffaf9b6.jpg",
+        "https://telegra.ph/file/ab102c58b9ec3734c5c99.jpg",
+        "https://telegra.ph/file/fe0ad5c2d72c2a4e5d3e4.jpg",
+        "https://telegra.ph/file/4a9410d965566a8195335.jpg",
+        "https://telegra.ph/file/121a257f4dd484bd1768f.jpg",
+        "https://telegra.ph/file/04d8465e230796e71fd45.jpg",
+        "https://telegra.ph/file/e78cf2aa32629ce667945.jpg",
+        "https://telegra.ph/file/d03c23daf385332aa3c7d.jpg",
+        "https://telegra.ph/file/59e195077d0bd8977eb52.jpg",
+        "https://telegra.ph/file/2f6cad8e21161385e1ab9.jpg",
+        "https://telegra.ph/file/9b645cbb69cdd562f57c4.jpg",
+        "https://telegra.ph/file/37e7664ce1419c87b287c.jpg",
+        "https://telegra.ph/file/fc2bc22a23bbc76265616.jpg",
+        "https://telegra.ph/file/f21f54483e22fd55b7cfd.jpg",
+        "https://telegra.ph/file/5f3418201a4cb57108b97.jpg",
+        "https://telegra.ph/file/3f565b29f6d2108dda561.jpg",
+        "https://telegra.ph/file/a339f96999a09803ac11c.jpg",
+        "https://telegra.ph/file/6647fb02c9bfb1fb050a4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

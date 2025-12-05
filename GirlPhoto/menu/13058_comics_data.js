@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13058,
+    "title": "尤幽 NIKKE 胜利女神 爱丽丝 [32P-151MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%A4%E5%B9%BD-NIKKE-%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E-%E7%88%B1%E4%B8%BD%E4%B8%9D-32P-151MB-08-23",
+    "images": [
+        "https://telegra.ph/file/e227fefbb4e2b0821d2a6.jpg",
+        "https://telegra.ph/file/5ae51b72a8c01a75ad9d3.jpg",
+        "https://telegra.ph/file/4176222f5ad9fc961395b.jpg",
+        "https://telegra.ph/file/c1e2e52565dd788396615.jpg",
+        "https://telegra.ph/file/fb98c619437680297487b.jpg",
+        "https://telegra.ph/file/ae0c6eeb54241181e7edf.jpg",
+        "https://telegra.ph/file/659e4556a28807783e55a.jpg",
+        "https://telegra.ph/file/f9e19d686141d645ed5d2.jpg",
+        "https://telegra.ph/file/f88531266eda5ab5809e2.jpg",
+        "https://telegra.ph/file/c1fc32dd3052eb53587ad.jpg",
+        "https://telegra.ph/file/4ef4a2dc02864d6d706c0.jpg",
+        "https://telegra.ph/file/80ef25b594209ef116807.jpg",
+        "https://telegra.ph/file/9e8ca5e84d03a49a12b41.jpg",
+        "https://telegra.ph/file/76060d758dd53d9ae2045.jpg",
+        "https://telegra.ph/file/496e0326377168887b485.jpg",
+        "https://telegra.ph/file/ee9b2f7562ba5859350c4.jpg",
+        "https://telegra.ph/file/038ef705c879f1b18f438.jpg",
+        "https://telegra.ph/file/85c9be8178926771512a4.jpg",
+        "https://telegra.ph/file/c389d7527109af6133f89.jpg",
+        "https://telegra.ph/file/e03964fd877b77f16cedf.jpg",
+        "https://telegra.ph/file/93e1d6089f8dbfe3dda07.jpg",
+        "https://telegra.ph/file/7d8ae91521038c921cce5.jpg",
+        "https://telegra.ph/file/fab8c10f4a9618eb065fa.jpg",
+        "https://telegra.ph/file/5bbbb0d1eb807644c7938.jpg",
+        "https://telegra.ph/file/0ca732d9ec36af1a3d0f2.jpg",
+        "https://telegra.ph/file/47d4d0fdb1b76faf9bb76.jpg",
+        "https://telegra.ph/file/1452bb469bccb1e90bba1.jpg",
+        "https://telegra.ph/file/89397c534b533d9515c29.jpg",
+        "https://telegra.ph/file/b79be3d6d5b9925ce0977.jpg",
+        "https://telegra.ph/file/fe38317b8ddf2a02c8e00.jpg",
+        "https://telegra.ph/file/45efd7d2676e32a2c8b61.jpg",
+        "https://telegra.ph/file/b17bf5ae499eead56f148.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

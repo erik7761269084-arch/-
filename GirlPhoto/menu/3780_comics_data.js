@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 3780,
+    "title": "沖田凜花Rinka - 蕾姆",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---蕾姆-08-27",
+    "images": [
+        "https://telegra.ph/file/83db99cce17e6edb0e65e.jpg",
+        "https://telegra.ph/file/9d3bd83e15e56cf5c65bf.jpg",
+        "https://telegra.ph/file/f6503c126c9b413935ae0.jpg",
+        "https://telegra.ph/file/8df900b86cfd18dc673ea.jpg",
+        "https://telegra.ph/file/b01839b36ddb2651e836a.jpg",
+        "https://telegra.ph/file/6760ff7a400820fdbf3ff.jpg",
+        "https://telegra.ph/file/393722a12b33e21ff04cd.jpg",
+        "https://telegra.ph/file/dd43b2e374957adb53aa5.jpg",
+        "https://telegra.ph/file/d65c1b3b6e27692c83f64.jpg",
+        "https://telegra.ph/file/ee47e8b8ef235e2d183d3.jpg",
+        "https://telegra.ph/file/e50d695f6b14110761e86.jpg",
+        "https://telegra.ph/file/edf6804812868e4f4a116.jpg",
+        "https://telegra.ph/file/796aa97e9580102d1cb53.jpg",
+        "https://telegra.ph/file/09276d24a76a1804583b7.jpg",
+        "https://telegra.ph/file/ca7c84e164a37d8184a28.jpg",
+        "https://telegra.ph/file/3b15fb69b0afc83537411.jpg",
+        "https://telegra.ph/file/0f3f1897d8f7e157c30d6.jpg",
+        "https://telegra.ph/file/cd6caa79d258f4054d926.jpg",
+        "https://telegra.ph/file/24f0d43dd01b2998cc6dc.jpg",
+        "https://telegra.ph/file/28ff01542298d61880441.jpg",
+        "https://telegra.ph/file/4c7b68c9a97b2a2272efb.jpg",
+        "https://telegra.ph/file/b47f84a58c2db090a6150.jpg",
+        "https://telegra.ph/file/7867077c9c196b4d2b2c5.jpg",
+        "https://telegra.ph/file/04ddb389555aaf34e7909.jpg",
+        "https://telegra.ph/file/a3a6b54b0afe4d698565a.jpg",
+        "https://telegra.ph/file/312a516fdd1566d623f99.jpg",
+        "https://telegra.ph/file/4e199bb90c061ee10c033.jpg",
+        "https://telegra.ph/file/a61d294a5b96e0afeed23.jpg",
+        "https://telegra.ph/file/93e652fce789ea3eb5df7.jpg",
+        "https://telegra.ph/file/c34593fef9c2be65961e8.jpg",
+        "https://telegra.ph/file/1840f9724ad07e78b95d7.jpg",
+        "https://telegra.ph/file/ef191bd9c62cf65f06a7a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

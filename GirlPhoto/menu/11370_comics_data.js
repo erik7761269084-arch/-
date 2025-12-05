@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11370,
+    "title": "星之迟迟 - 碧蓝航线 花园",
+    "sourceUrl": "https://telegra.ph/星之迟迟---碧蓝航线-花园-08-27",
+    "images": [
+        "https://telegra.ph/file/9a9df244907ae3540e25d.jpg",
+        "https://telegra.ph/file/bec38bc36f9b74ccf2d16.jpg",
+        "https://telegra.ph/file/3cbda6fb67d9e40a07ecd.jpg",
+        "https://telegra.ph/file/9d7238d6af89069de194f.jpg",
+        "https://telegra.ph/file/176b8d60b47e5f5af0b29.jpg",
+        "https://telegra.ph/file/38193053cc48073aeaf98.jpg",
+        "https://telegra.ph/file/36a8bd5572537f31c031f.jpg",
+        "https://telegra.ph/file/b6cf8a02355ec90c07d75.jpg",
+        "https://telegra.ph/file/85ad2b12db901cd9ecb7e.jpg",
+        "https://telegra.ph/file/498a111690f4fdafa3113.jpg",
+        "https://telegra.ph/file/e89481a938f9526f8200c.jpg",
+        "https://telegra.ph/file/468871b4c4b61e9004ac0.jpg",
+        "https://telegra.ph/file/bacc6a1648441ef3dab9c.jpg",
+        "https://telegra.ph/file/4b5978f6f1631f8e0cbff.jpg",
+        "https://telegra.ph/file/61d8e9b5eb9db1c5f95f3.jpg",
+        "https://telegra.ph/file/9bcc23dd5941a222c3691.jpg",
+        "https://telegra.ph/file/a9993012877475877d2c7.jpg",
+        "https://telegra.ph/file/9765bdcc02fb8249f64fe.jpg",
+        "https://telegra.ph/file/21ff2170f908a333197a7.jpg",
+        "https://telegra.ph/file/7cd256f08ea4e24bfe06e.jpg",
+        "https://telegra.ph/file/2ceaf25371e5d40a80d91.jpg",
+        "https://telegra.ph/file/ba6ed089a9f40729a500f.jpg",
+        "https://telegra.ph/file/088bcc0b084f35f83b8e3.jpg",
+        "https://telegra.ph/file/7466366e9d2fbe246ed16.jpg",
+        "https://telegra.ph/file/23ebc2fb3f4309a68b88b.jpg",
+        "https://telegra.ph/file/faed91bac46722cf1b8ba.jpg",
+        "https://telegra.ph/file/70a404ed698ee8828ffb8.jpg",
+        "https://telegra.ph/file/9c505f92de81805cfb640.jpg",
+        "https://telegra.ph/file/a8b2aa4156d4aefe95f81.jpg",
+        "https://telegra.ph/file/8358a016490dbaf041e62.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

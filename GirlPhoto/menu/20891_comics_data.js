@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20891,
+    "title": "安妮漾ALLISON - 白色睡衣",
+    "sourceUrl": "https://telegra.ph/安妮漾ALLISON---白色睡衣-08-29",
+    "images": [
+        "https://telegra.ph/file/43e3a44017821772799a4.jpg",
+        "https://telegra.ph/file/e87dbe9464bc09d4c99c5.jpg",
+        "https://telegra.ph/file/c5dfccb60cd8bb8ce9115.jpg",
+        "https://telegra.ph/file/73107ca60ce6dbe435add.jpg",
+        "https://telegra.ph/file/9f1c1f1c19aa1dd8e7353.jpg",
+        "https://telegra.ph/file/acdb059392010321ce613.jpg",
+        "https://telegra.ph/file/09943f22c4cf227493443.jpg",
+        "https://telegra.ph/file/218aad1b9badf99a49487.jpg",
+        "https://telegra.ph/file/a2104b8ac0c892f4ce385.jpg",
+        "https://telegra.ph/file/2de4ac895b0fc238c2942.jpg",
+        "https://telegra.ph/file/b2d6800a621d5f603eeb9.jpg",
+        "https://telegra.ph/file/ae2092c04cf64c769282e.jpg",
+        "https://telegra.ph/file/909638ef478959b7cde86.jpg",
+        "https://telegra.ph/file/947ad91b770ac86247ed1.jpg",
+        "https://telegra.ph/file/e94bc978f0c6afe1fb464.jpg",
+        "https://telegra.ph/file/92e264b080416bffac4ae.jpg",
+        "https://telegra.ph/file/5e4e68122e411a5de88da.jpg",
+        "https://telegra.ph/file/56db94b5a828e406d511f.jpg",
+        "https://telegra.ph/file/ef35aaa4729d615e853af.jpg",
+        "https://telegra.ph/file/0b555055e15339dc011fd.jpg",
+        "https://telegra.ph/file/8198a51928b8cc560deda.jpg",
+        "https://telegra.ph/file/ea24929c8b63096dd9725.jpg",
+        "https://telegra.ph/file/6f1790407140d520a4198.jpg",
+        "https://telegra.ph/file/ed5db1147a6eeccba36d0.jpg",
+        "https://telegra.ph/file/b3598500258aa99b1f737.jpg",
+        "https://telegra.ph/file/64a4aa6dc54bde0cd33f6.jpg",
+        "https://telegra.ph/file/eb0e578588219d262a37e.jpg",
+        "https://telegra.ph/file/37df4aecf8bebdccb7ba6.jpg",
+        "https://telegra.ph/file/c3fd36faba6e17a3bf848.jpg",
+        "https://telegra.ph/file/5ab4f7722bddf2b3b4a25.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

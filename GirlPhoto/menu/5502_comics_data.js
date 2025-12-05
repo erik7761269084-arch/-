@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5502,
+    "title": "黑川 - 不知火",
+    "sourceUrl": "https://telegra.ph/黑川---不知火-08-30",
+    "images": [
+        "https://telegra.ph/file/242a9cdb64bfcf252d136.jpg",
+        "https://telegra.ph/file/a7213f3a6642d5277fd3e.jpg",
+        "https://telegra.ph/file/51232482c08da1083fa74.jpg",
+        "https://telegra.ph/file/77ef34e1680c5e7b43ea7.jpg",
+        "https://telegra.ph/file/f8ac3a8efd616e3e4ff61.jpg",
+        "https://telegra.ph/file/fac0080808577e55865be.jpg",
+        "https://telegra.ph/file/c711a307b67aa6b5879fc.jpg",
+        "https://telegra.ph/file/7423448d9a569c09c603c.jpg",
+        "https://telegra.ph/file/5d8b651177a3bddbf04fe.jpg",
+        "https://telegra.ph/file/5312e80f91d7801aaa035.jpg",
+        "https://telegra.ph/file/5028052d0f005bd0f63d3.jpg",
+        "https://telegra.ph/file/486f8cb5a8a4a5279b917.jpg",
+        "https://telegra.ph/file/dbad3ee1408e44902abb5.jpg",
+        "https://telegra.ph/file/c9a7e809894f2a296f7e2.jpg",
+        "https://telegra.ph/file/5ec66e1220def6d5e5a4a.jpg",
+        "https://telegra.ph/file/79cd8c19b246e551de357.jpg",
+        "https://telegra.ph/file/1b39a8efb7f91d21e2cac.jpg",
+        "https://telegra.ph/file/f7e3a4e0a1d119c475852.jpg",
+        "https://telegra.ph/file/8d1a744530b260e09cf95.jpg",
+        "https://telegra.ph/file/9347e0848e8f0e8408e9e.jpg",
+        "https://telegra.ph/file/1c16474be405893551179.jpg",
+        "https://telegra.ph/file/0f58281243ebc6a03f63f.jpg",
+        "https://telegra.ph/file/b5eaa0863f9907d35a29b.jpg",
+        "https://telegra.ph/file/5e4608e1951254f5e9cf5.jpg",
+        "https://telegra.ph/file/79db7de822003d3752644.jpg",
+        "https://telegra.ph/file/54a976eee60d91cfe116d.jpg",
+        "https://telegra.ph/file/2c9e1b8443ade35f7999e.jpg",
+        "https://telegra.ph/file/59e1ffe3aa8b31e4c48a9.jpg",
+        "https://telegra.ph/file/8cec5222bd876cb0094c3.jpg",
+        "https://telegra.ph/file/a402a4783ea535edb76b6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

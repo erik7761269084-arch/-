@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12934,
+    "title": "樱落酱w 碧蓝航线 镇海潋滟水色 32P",
+    "sourceUrl": "https://telegra.ph/%E6%A8%B1%E8%90%BD%E9%85%B1w-%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E9%95%87%E6%B5%B7%E6%BD%8B%E6%BB%9F%E6%B0%B4%E8%89%B2-32P-08-22",
+    "images": [
+        "https://telegra.ph/file/87c7b1a1ee3578719d237.jpg",
+        "https://telegra.ph/file/7b78bb8e15461df4bdabf.jpg",
+        "https://telegra.ph/file/8d11b9a7477ad4dd53d4e.jpg",
+        "https://telegra.ph/file/0ba43be8f02ac9dc24953.jpg",
+        "https://telegra.ph/file/fdba0446be9beacd58f5a.jpg",
+        "https://telegra.ph/file/1c3763d0fc3cf9f258945.jpg",
+        "https://telegra.ph/file/24734cbd8d65545899544.jpg",
+        "https://telegra.ph/file/34697523f7eaa28adcc55.jpg",
+        "https://telegra.ph/file/19c29893fb91e5c91952d.jpg",
+        "https://telegra.ph/file/d714c7d578f28d655174f.jpg",
+        "https://telegra.ph/file/e50f9308bd3f8a0852366.jpg",
+        "https://telegra.ph/file/c8a38aeb9229be2965bca.jpg",
+        "https://telegra.ph/file/9f149c61b6b34b7a9a12b.jpg",
+        "https://telegra.ph/file/965fbe496aed4d34bc9db.jpg",
+        "https://telegra.ph/file/a13a8bba20037d444797b.jpg",
+        "https://telegra.ph/file/213132804925954102ae4.jpg",
+        "https://telegra.ph/file/25344a9adbf2e96a4a36d.jpg",
+        "https://telegra.ph/file/e6b5d59db798f1aa3fd05.jpg",
+        "https://telegra.ph/file/1db4a4e2c4373e85640c8.jpg",
+        "https://telegra.ph/file/5fed9ed05d6c8433a3826.jpg",
+        "https://telegra.ph/file/afa8b38a15093dcd60d00.jpg",
+        "https://telegra.ph/file/a44ceb3ac165900c3e0c8.jpg",
+        "https://telegra.ph/file/551f397a595898a287b8e.jpg",
+        "https://telegra.ph/file/c14198a2a7fac7b8d477a.jpg",
+        "https://telegra.ph/file/1c6d961c6150675ea040f.jpg",
+        "https://telegra.ph/file/8ce54337d4028093ede39.jpg",
+        "https://telegra.ph/file/7e9adc94ce34bd8aea455.jpg",
+        "https://telegra.ph/file/040d09ef034d7f8b8c185.jpg",
+        "https://telegra.ph/file/973b8f0e0e9d019c62a87.jpg",
+        "https://telegra.ph/file/d5dfb08e938f0960ce6f1.jpg",
+        "https://telegra.ph/file/e4ea377acb10782d013c3.jpg",
+        "https://telegra.ph/file/36266f0c042bd14110b15.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

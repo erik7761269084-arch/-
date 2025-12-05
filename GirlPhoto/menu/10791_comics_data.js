@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10791,
+    "title": "小仓千代w - 奶牛衬衣",
+    "sourceUrl": "https://telegra.ph/小仓千代w---奶牛衬衣-08-26-2",
+    "images": [
+        "https://telegra.ph/file/2dd682d55011d21df05dd.jpg",
+        "https://telegra.ph/file/d31fc21547bcd8508672a.jpg",
+        "https://telegra.ph/file/76d4702890dbd12cb7cc1.jpg",
+        "https://telegra.ph/file/937c2db9c2063eabbb3f3.jpg",
+        "https://telegra.ph/file/dc480a7cbd478b913ce03.jpg",
+        "https://telegra.ph/file/8dcda3bd274617657655d.jpg",
+        "https://telegra.ph/file/c378a280c9519de27a8b9.jpg",
+        "https://telegra.ph/file/fe7f007bd03f5fe98fa17.jpg",
+        "https://telegra.ph/file/1a9acd38bca5a1580460f.jpg",
+        "https://telegra.ph/file/7c68415fd9ccff10c7638.jpg",
+        "https://telegra.ph/file/e44cd36d1a53c1c1fcb3a.jpg",
+        "https://telegra.ph/file/73fdcfe88a9c0df1fb408.jpg",
+        "https://telegra.ph/file/e3dd00c07cc11446aac81.jpg",
+        "https://telegra.ph/file/c550d0f2942dbe90bae43.jpg",
+        "https://telegra.ph/file/1f1390b1b0f567986de09.jpg",
+        "https://telegra.ph/file/2311e86213091c2c0dc13.jpg",
+        "https://telegra.ph/file/fde376ccd330115cf042a.jpg",
+        "https://telegra.ph/file/0226ed07ce5c3aa7e7d39.jpg",
+        "https://telegra.ph/file/5e3bbfc95e75d1eb67d33.jpg",
+        "https://telegra.ph/file/64a095f55c23cfc3f6862.jpg",
+        "https://telegra.ph/file/e835b06d1c1ec0ec9acde.jpg",
+        "https://telegra.ph/file/e481b7121b05290ab1a75.jpg",
+        "https://telegra.ph/file/104509fc100c3fdf17627.jpg",
+        "https://telegra.ph/file/3c34b6c811fd6057ffc90.jpg",
+        "https://telegra.ph/file/78d9764a29662284294fe.jpg",
+        "https://telegra.ph/file/8cf9a4d7617785852b0e2.jpg",
+        "https://telegra.ph/file/6662f7d0780d420bf1465.jpg",
+        "https://telegra.ph/file/1199d78c575d990ef7e52.jpg",
+        "https://telegra.ph/file/e48c10cfad4696f950efe.jpg",
+        "https://telegra.ph/file/63cdd87eb1256df2f41c9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

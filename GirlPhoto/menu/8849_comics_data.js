@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8849,
+    "title": "日奈娇 - 万圣节 小恶魔",
+    "sourceUrl": "https://telegra.ph/日奈娇---万圣节-小恶魔-08-28",
+    "images": [
+        "https://telegra.ph/file/124a890fa59ad18c58308.jpg",
+        "https://telegra.ph/file/38b94a4b883b8c1c4e232.jpg",
+        "https://telegra.ph/file/1f97a3b9d946639fb9f71.jpg",
+        "https://telegra.ph/file/46305d1a2164c3b882df1.jpg",
+        "https://telegra.ph/file/026e73035c99fc380a9db.jpg",
+        "https://telegra.ph/file/5722484f184c727ae5c39.jpg",
+        "https://telegra.ph/file/e2ea40ec8dc8cbae9372e.jpg",
+        "https://telegra.ph/file/6f967e6730d5d3601fcb6.jpg",
+        "https://telegra.ph/file/e7048b5b4286b99d30647.jpg",
+        "https://telegra.ph/file/d043f246c586ecfe0ce05.jpg",
+        "https://telegra.ph/file/f6f4dbbc50a95494f7d82.jpg",
+        "https://telegra.ph/file/69f191b904a660f0536b5.jpg",
+        "https://telegra.ph/file/722746af313c6f4eca5ea.jpg",
+        "https://telegra.ph/file/7fc590d2d63c59186f902.jpg",
+        "https://telegra.ph/file/2e3d2396d8eb40966aaa1.jpg",
+        "https://telegra.ph/file/921a2341dc1c2b4979614.jpg",
+        "https://telegra.ph/file/ce0ea894a729b9a258e58.jpg",
+        "https://telegra.ph/file/be682b6b514ced04672bb.jpg",
+        "https://telegra.ph/file/80736dc766aa76bd02ad9.jpg",
+        "https://telegra.ph/file/80a15c263303f05f09a85.jpg",
+        "https://telegra.ph/file/7a9148eff2ff83dd5955e.jpg",
+        "https://telegra.ph/file/2852d52ea66756c0d94cc.jpg",
+        "https://telegra.ph/file/fc3688bf14d5a9586c2d1.jpg",
+        "https://telegra.ph/file/08d1e778f50d6e75d6e2b.jpg",
+        "https://telegra.ph/file/a3536c84edfcc0a7d6805.jpg",
+        "https://telegra.ph/file/4393dd4879db5181ef2f4.jpg",
+        "https://telegra.ph/file/a463b20e0733d90b9fa21.jpg",
+        "https://telegra.ph/file/7e5180debaa5b2f4a4b50.jpg",
+        "https://telegra.ph/file/7210a2c8a65e0a1f11775.jpg",
+        "https://telegra.ph/file/0ac3163edad00694b7600.jpg",
+        "https://telegra.ph/file/d40791980882193ebb30a.jpg",
+        "https://telegra.ph/file/4e78cb5c8b948dc911046.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

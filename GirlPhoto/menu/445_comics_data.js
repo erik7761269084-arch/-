@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 445,
+    "title": "No.310 樱桃Cherry",
+    "sourceUrl": "https://telegra.ph/爱秀ISHOW-No310-樱桃Cherry-08-26",
+    "images": [
+        "https://telegra.ph/file/5e11699f5e7fb6ea650b3.jpg",
+        "https://telegra.ph/file/636bb6b4b109a7b8c5b28.jpg",
+        "https://telegra.ph/file/2869d29f01d468afe555b.jpg",
+        "https://telegra.ph/file/fc3d575a8c4564eb68ef0.jpg",
+        "https://telegra.ph/file/2427f11c286e961229d95.jpg",
+        "https://telegra.ph/file/e58b2a01281f63271a0ee.jpg",
+        "https://telegra.ph/file/911f207a4724f61ca739c.jpg",
+        "https://telegra.ph/file/5dda84e46b66a52d31f52.jpg",
+        "https://telegra.ph/file/5ff03a96ba8138fb08350.jpg",
+        "https://telegra.ph/file/ab24f3a8f8f2d6ed47c0b.jpg",
+        "https://telegra.ph/file/86508fbf70acbd9e29aa2.jpg",
+        "https://telegra.ph/file/0d468813c421ae97524e1.jpg",
+        "https://telegra.ph/file/395bb3d10c1d0d337dc7c.jpg",
+        "https://telegra.ph/file/c31320139a08bc56d186f.jpg",
+        "https://telegra.ph/file/1f7b57e02d5a03cdaff4d.jpg",
+        "https://telegra.ph/file/0698db090c27a60c12b4e.jpg",
+        "https://telegra.ph/file/94f7592975c95bb5fcbc7.jpg",
+        "https://telegra.ph/file/9ab5c06d20d3d7bd6f661.jpg",
+        "https://telegra.ph/file/0389899a2f249cd4f5cc0.jpg",
+        "https://telegra.ph/file/5ed72ebdd42946c9533e1.jpg",
+        "https://telegra.ph/file/aba2eae460ec4373c1b75.jpg",
+        "https://telegra.ph/file/61e86e92410b543fdb7db.jpg",
+        "https://telegra.ph/file/5af506d445e5165fe6bec.jpg",
+        "https://telegra.ph/file/17cf97eddff3218bdd40f.jpg",
+        "https://telegra.ph/file/74776cec8d7d5d67e8045.jpg",
+        "https://telegra.ph/file/de8cfc04e0b36453e29f1.jpg",
+        "https://telegra.ph/file/f11af30e3aa0dc56870d4.jpg",
+        "https://telegra.ph/file/dd98c20294de110dcbbed.jpg",
+        "https://telegra.ph/file/1f04ad54c2051416baf6e.jpg",
+        "https://telegra.ph/file/0cf9dd82e17da74315768.jpg",
+        "https://telegra.ph/file/71096f88c360e0faf07dc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11799,
+    "title": "轩萧学姐 霞之丘诗羽学姐内衣套",
+    "sourceUrl": "https://telegra.ph/轩萧学姐-霞之丘诗羽学姐内衣套-08-29",
+    "images": [
+        "https://telegra.ph/file/49f1b10fc228e117d1f69.jpg",
+        "https://telegra.ph/file/40d58df79b4364995b5b4.jpg",
+        "https://telegra.ph/file/8088e89b3ace3e7756252.jpg",
+        "https://telegra.ph/file/11f72b10ebda0fb4af6e4.jpg",
+        "https://telegra.ph/file/f6c254b36b382da662b5a.jpg",
+        "https://telegra.ph/file/c7a972f5257d5b5163da6.jpg",
+        "https://telegra.ph/file/065f077a4a3c31850893b.jpg",
+        "https://telegra.ph/file/9dd4c9f9b8ffb04f4938c.jpg",
+        "https://telegra.ph/file/2c3ab3cc51679ce895164.jpg",
+        "https://telegra.ph/file/e2a32243cfa0923b9b33d.jpg",
+        "https://telegra.ph/file/654078fb99d0a08bc76c1.jpg",
+        "https://telegra.ph/file/873ce5c886dadff950182.jpg",
+        "https://telegra.ph/file/c8b5f9bce4c816fac0815.jpg",
+        "https://telegra.ph/file/bb0e572c3c848fc033776.jpg",
+        "https://telegra.ph/file/346667bc40865382898de.jpg",
+        "https://telegra.ph/file/e402252e5c01405c83aac.jpg",
+        "https://telegra.ph/file/089f658eff3ce1e76f61a.jpg",
+        "https://telegra.ph/file/705bcd5619a93f182610c.jpg",
+        "https://telegra.ph/file/fef3da02530f7baa7d8d5.jpg",
+        "https://telegra.ph/file/e0627b09bb1593b4b3ebf.jpg",
+        "https://telegra.ph/file/0940fa5c85b13433e3640.jpg",
+        "https://telegra.ph/file/8927b79139bdaee4776e5.jpg",
+        "https://telegra.ph/file/d6cdb416949c7c615d3af.jpg",
+        "https://telegra.ph/file/be202f38155ad15bf9b93.jpg",
+        "https://telegra.ph/file/e267bf25abf6dc77ac0a9.jpg",
+        "https://telegra.ph/file/a51d3fe824af43fa41271.jpg",
+        "https://telegra.ph/file/be74d22cc2edb05064f2c.jpg",
+        "https://telegra.ph/file/76d32328066b538c7058e.jpg",
+        "https://telegra.ph/file/fa4c77d29463d9315b01b.jpg",
+        "https://telegra.ph/file/fb55dcc44bf907122b887.jpg",
+        "https://telegra.ph/file/3e7392ea4265a945a04d3.jpg",
+        "https://telegra.ph/file/44ab2edfb1e4b8bf39c86.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

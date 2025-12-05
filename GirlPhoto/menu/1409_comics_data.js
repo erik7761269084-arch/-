@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1409,
+    "title": "Momoko葵葵 - DSR50",
+    "sourceUrl": "https://telegra.ph/Momoko葵葵---DSR50-08-29",
+    "images": [
+        "https://telegra.ph/file/d50d6fbcc5fc6e1ba08ad.jpg",
+        "https://telegra.ph/file/60c72a7223b3d19b45648.jpg",
+        "https://telegra.ph/file/5c86544996a5a3c305df1.jpg",
+        "https://telegra.ph/file/a69954f347e93eeb5bf82.jpg",
+        "https://telegra.ph/file/b1d731f2edcbc4e3d24d2.jpg",
+        "https://telegra.ph/file/36d9f0c84549bb1785dcc.jpg",
+        "https://telegra.ph/file/f496fffc5bdb7a94ffb15.jpg",
+        "https://telegra.ph/file/4c01dff1018995328e5ba.jpg",
+        "https://telegra.ph/file/d11eb8f9dc0b40bff1267.jpg",
+        "https://telegra.ph/file/50adc1ee4a8586c2d5a19.jpg",
+        "https://telegra.ph/file/cef9274015c2f7f4832ca.jpg",
+        "https://telegra.ph/file/8fe14c107b8d156fb05e7.jpg",
+        "https://telegra.ph/file/7ece4a80c3c3c98f024d2.jpg",
+        "https://telegra.ph/file/894d992488d62646b929e.jpg",
+        "https://telegra.ph/file/ab0b89fa83186b13a82c6.jpg",
+        "https://telegra.ph/file/ceb1ab3621daedf58239f.jpg",
+        "https://telegra.ph/file/66c38cd05b03d7c68ac55.jpg",
+        "https://telegra.ph/file/1d7ae0c176ae92a923a72.jpg",
+        "https://telegra.ph/file/e5d1e4c7b75afd51a9a8b.jpg",
+        "https://telegra.ph/file/d5072594cddd542ec2c10.jpg",
+        "https://telegra.ph/file/a8710526311fc80c84b62.jpg",
+        "https://telegra.ph/file/424054e7ffbb49e404709.jpg",
+        "https://telegra.ph/file/149cd7e612d4b9bc48453.jpg",
+        "https://telegra.ph/file/2ad5d8ffd7d95bfbb57e2.jpg",
+        "https://telegra.ph/file/d765fdab529a93e857c70.jpg",
+        "https://telegra.ph/file/ff38d3f3b17c96e88fe07.jpg",
+        "https://telegra.ph/file/db9d717ed3c373352cef9.jpg",
+        "https://telegra.ph/file/326cd911637dc3becfa67.jpg",
+        "https://telegra.ph/file/ae6089e43c239abb277c8.jpg",
+        "https://telegra.ph/file/05c31c8ee7e44c41df3d0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

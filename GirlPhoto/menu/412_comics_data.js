@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 412,
+    "title": "Byoru - Mikasa",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Mikasa-08-26",
+    "images": [
+        "https://telegra.ph/file/f6a9cf9a11940d19b2de8.jpg",
+        "https://telegra.ph/file/14734d2b13f413711f7b8.jpg",
+        "https://telegra.ph/file/d59c6bb5f3fa4be768ef7.jpg",
+        "https://telegra.ph/file/4638f71c07e3ed88db764.jpg",
+        "https://telegra.ph/file/8d90d62942a67664cd9c0.jpg",
+        "https://telegra.ph/file/66e3cc0bfb26d4a3c1724.jpg",
+        "https://telegra.ph/file/53a7ae6917097a50e557f.jpg",
+        "https://telegra.ph/file/b9233902e20a3e94f2737.jpg",
+        "https://telegra.ph/file/a12072a74aad66dcc5b43.jpg",
+        "https://telegra.ph/file/6934fbccb1b0328008a73.jpg",
+        "https://telegra.ph/file/44cd2ffac798906c99803.jpg",
+        "https://telegra.ph/file/4e4f224defd57c3e75024.jpg",
+        "https://telegra.ph/file/4b9aeeb925a9cf7970b80.jpg",
+        "https://telegra.ph/file/c23bd4a9e496b5399431f.jpg",
+        "https://telegra.ph/file/90739bd130a28819481d7.jpg",
+        "https://telegra.ph/file/4e0c4b0af1c6a649e1980.jpg",
+        "https://telegra.ph/file/c830cc8e9111a0e1e458a.jpg",
+        "https://telegra.ph/file/d12deb0e8c564961adb1c.jpg",
+        "https://telegra.ph/file/96a0e17bf2d7c29efcd5c.jpg",
+        "https://telegra.ph/file/b4519602f8d8d82081d10.jpg",
+        "https://telegra.ph/file/be930eb1e5a59a1343cca.jpg",
+        "https://telegra.ph/file/48fed09718c6535073ef3.jpg",
+        "https://telegra.ph/file/d0b23ccbb9011866067f1.jpg",
+        "https://telegra.ph/file/66c727328be7de4be6414.jpg",
+        "https://telegra.ph/file/6b1d9d5b577d467636a2b.jpg",
+        "https://telegra.ph/file/18ce67b567c0328dc2d2d.jpg",
+        "https://telegra.ph/file/f076bf5b012894f64a768.jpg",
+        "https://telegra.ph/file/249626f620ca626451655.jpg",
+        "https://telegra.ph/file/77c703904bc647e4e5a96.jpg",
+        "https://telegra.ph/file/76d7bc2eaba824bc8f992.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5619,
+    "title": "虎森森 战损死库水 [30P-267MB]",
+    "sourceUrl": "https://telegra.ph/虎森森-战损死库水-30P-267MB-08-25",
+    "images": [
+        "https://telegra.ph/file/012f0e980f7ef30738db7.jpg",
+        "https://telegra.ph/file/310a2c702881211e9bc1e.jpg",
+        "https://telegra.ph/file/9417798884145a10e1783.jpg",
+        "https://telegra.ph/file/d66941c3fc0bb0093caad.jpg",
+        "https://telegra.ph/file/33839af0e31e3573782c5.jpg",
+        "https://telegra.ph/file/d3b23fb669b5b0180f99c.jpg",
+        "https://telegra.ph/file/56bf29c7fd734f15f24b0.jpg",
+        "https://telegra.ph/file/9d4cf89cec6595bb54275.jpg",
+        "https://telegra.ph/file/ade536b211803cfa505ba.jpg",
+        "https://telegra.ph/file/1f10c323087615f674408.jpg",
+        "https://telegra.ph/file/124779e09d3aedc1ef8d4.jpg",
+        "https://telegra.ph/file/6fa1a435d791a47c9a3a6.jpg",
+        "https://telegra.ph/file/b02868ff80d09ec6a4339.jpg",
+        "https://telegra.ph/file/d515625b9d31c45166d30.jpg",
+        "https://telegra.ph/file/d3d39fdce0de48984aa71.jpg",
+        "https://telegra.ph/file/ec26ea644a5e68dffa11c.jpg",
+        "https://telegra.ph/file/89adb1ee43603b475b1d1.jpg",
+        "https://telegra.ph/file/d17fb8b5f2c890059d63e.jpg",
+        "https://telegra.ph/file/70d94a7cb30c27a70bdb2.jpg",
+        "https://telegra.ph/file/c2a88022296b41b76954b.jpg",
+        "https://telegra.ph/file/3faa0de9091c19f5d5758.jpg",
+        "https://telegra.ph/file/f0e1b38295de85771c802.jpg",
+        "https://telegra.ph/file/312fac1f24db403774607.jpg",
+        "https://telegra.ph/file/542220f938c84776b7076.jpg",
+        "https://telegra.ph/file/bded6ab4dc3bbdd0e3bf6.jpg",
+        "https://telegra.ph/file/68f6acd605ba1aee6a0c0.jpg",
+        "https://telegra.ph/file/a642a577811cf3395468d.jpg",
+        "https://telegra.ph/file/89fc264241b237123b8af.jpg",
+        "https://telegra.ph/file/9a83131cc6b97cb9b4864.jpg",
+        "https://telegra.ph/file/54f5f0b3e5e9b60b46bb0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

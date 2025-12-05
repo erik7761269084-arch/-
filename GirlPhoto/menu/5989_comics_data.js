@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5989,
+    "title": "九言 - 长离 30P 1V",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80---%E9%95%BF%E7%A6%BB-30P-1V-08-20",
+    "images": [
+        "https://image.acg.lol/file/2024/11/21/IMG_1107.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0638.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0855.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0944.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0945.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0946.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0965.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0966.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_0967.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_09681.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_09691.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1048.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1049.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1050.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1051.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1052.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1053.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1054.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1055.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1061.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1062.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1063.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1106.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1108.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1109.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1110.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1111.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1112.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1113.jpg",
+        "https://image.acg.lol/file/2024/11/21/IMG_1114.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

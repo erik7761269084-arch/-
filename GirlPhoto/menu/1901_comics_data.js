@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 1901,
+    "title": "凉凉子 - 埃吉尔居家版",
+    "sourceUrl": "https://telegra.ph/%E5%87%89%E5%87%89%E5%AD%90---%E5%9F%83%E5%90%89%E5%B0%94%E5%B1%85%E5%AE%B6%E7%89%88-08-20",
+    "images": [
+        "https://image.acg.lol/file/2025/03/06/1-1312a5711256c537f8.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-187e8f5f4938f2d2b.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-29492c367a411244b.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-361479969efb32606.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-4ca587bd4752486a4.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-5c3c2ddc862cb6dd9.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-6e861934964977535.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-7b7b5373635fd55de.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-86f56af92921f8437.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-93dfca583572da9d6.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-1077caba709596b3f9.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-111e2125c94e7a1867.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-1233c326bbda55085f.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-14b4a8e07b667b1247.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-15235022aefaa611a7.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-162e78ba34400fc401.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-172b3b8a0366e4c58d.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-18f847024323a75579.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-1926802914604360c7.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-20f588b33c6b07df96.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-21791b709154551acf.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-22fb149afd56127993.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-2327ac10a7396bef9a.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-246011b440101e777b.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-25f6b13e0de6911cae.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-2657ad8dbf0b06f652.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-2777e43a71ad3307d9.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-28654e5d3ec2d432f0.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-293acef383a5d87cfe.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-30173fa8b0e52d5ce2.jpg",
+        "https://image.acg.lol/file/2025/03/06/1-31f38f62781e719d99.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

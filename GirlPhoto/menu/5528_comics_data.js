@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5528,
+    "title": "黑川 温泉",
+    "sourceUrl": "https://telegra.ph/黑川-温泉-08-30",
+    "images": [
+        "https://telegra.ph/file/2349d4d0a2caa5cd09a82.jpg",
+        "https://telegra.ph/file/5c2144ccfb4971b0b5324.jpg",
+        "https://telegra.ph/file/7929523fe10f6c7a4a167.jpg",
+        "https://telegra.ph/file/105d3b0d2b009c96de7f1.jpg",
+        "https://telegra.ph/file/739c2fd6f1317d504de3a.jpg",
+        "https://telegra.ph/file/cc42a3a8b9d600c8370d0.jpg",
+        "https://telegra.ph/file/36b43e76dae114c4c68df.jpg",
+        "https://telegra.ph/file/55e38b7bc8f638f61e63f.jpg",
+        "https://telegra.ph/file/02cc31a8ad00202af3094.jpg",
+        "https://telegra.ph/file/ef504fe2ca23773f86607.jpg",
+        "https://telegra.ph/file/4eef0d92dded6d15f885e.jpg",
+        "https://telegra.ph/file/e3b9f536fb096abd6e2a0.jpg",
+        "https://telegra.ph/file/f58a2702cdb87d729c91c.jpg",
+        "https://telegra.ph/file/97381c2c2ee278ecc6333.jpg",
+        "https://telegra.ph/file/87b1d656ffc2dc716482d.jpg",
+        "https://telegra.ph/file/c935a0ba804cb3c01b0dd.jpg",
+        "https://telegra.ph/file/244608054f0396295abc7.jpg",
+        "https://telegra.ph/file/3b50f80432d34222184d2.jpg",
+        "https://telegra.ph/file/7ce357511de01a370b552.jpg",
+        "https://telegra.ph/file/e8cd0f537f512169d8b98.jpg",
+        "https://telegra.ph/file/4922ce9079f3f5d93537c.jpg",
+        "https://telegra.ph/file/40c82692ae7f059e05aa9.jpg",
+        "https://telegra.ph/file/a03583558ba60362adfc3.jpg",
+        "https://telegra.ph/file/5397ee5263560d4a4a6c8.jpg",
+        "https://telegra.ph/file/8c786274ae4333bc63319.jpg",
+        "https://telegra.ph/file/1022787405c2f5e039152.jpg",
+        "https://telegra.ph/file/c8d7c4f427846b97f766c.jpg",
+        "https://telegra.ph/file/9d684649bedf974e1c657.jpg",
+        "https://telegra.ph/file/510f2d4f31b57f00d775f.jpg",
+        "https://telegra.ph/file/9142917a3cca3cddf85aa.jpg",
+        "https://telegra.ph/file/6bfa143304fd60ff104cf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

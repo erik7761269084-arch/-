@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 2992,
+    "title": "阿包也是兔娘 - 王女梦梦 婚纱内衣",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘---王女梦梦-婚纱内衣-08-27",
+    "images": [
+        "https://telegra.ph/file/99909e62b785939f16e89.jpg",
+        "https://telegra.ph/file/bb17e2bfd2a0387861fe5.jpg",
+        "https://telegra.ph/file/93ea7947e51a0263b6f26.jpg",
+        "https://telegra.ph/file/c0acc82ecd36503cbbb86.jpg",
+        "https://telegra.ph/file/6ee9eb1b5f609a48f199d.jpg",
+        "https://telegra.ph/file/644aa352e519b94303d2d.jpg",
+        "https://telegra.ph/file/9b52ca62402ea1efff727.jpg",
+        "https://telegra.ph/file/2251301c7f2916b9c3dc9.jpg",
+        "https://telegra.ph/file/02b68f904667b81f0f431.jpg",
+        "https://telegra.ph/file/c0aade33cc9e6459d24e1.jpg",
+        "https://telegra.ph/file/5fc1679334f64d763eb4e.jpg",
+        "https://telegra.ph/file/1a4781ca0d39c5d4423f6.jpg",
+        "https://telegra.ph/file/c9d7f5d813315764a7490.jpg",
+        "https://telegra.ph/file/6ef608de810b1d4062484.jpg",
+        "https://telegra.ph/file/1daa03efcdb9638d448e8.jpg",
+        "https://telegra.ph/file/e41b4f0608713a6382fd9.jpg",
+        "https://telegra.ph/file/9bc320d3fdd0350fb1f41.jpg",
+        "https://telegra.ph/file/8fa698299fa609310d70d.jpg",
+        "https://telegra.ph/file/61a69e472d19cfa24f63e.jpg",
+        "https://telegra.ph/file/898d0c43e8f010fed2ade.jpg",
+        "https://telegra.ph/file/d83222094bca0d5d92833.jpg",
+        "https://telegra.ph/file/b9562b843aa48ef731ec6.jpg",
+        "https://telegra.ph/file/dae15c30e8f527cf85d7b.jpg",
+        "https://telegra.ph/file/94ea4130f30fb5ea41264.jpg",
+        "https://telegra.ph/file/dce4b13c5da198b04e9ca.jpg",
+        "https://telegra.ph/file/111e3243c6bd1504a61a3.jpg",
+        "https://telegra.ph/file/aa015ca866eb9cd05eb96.jpg",
+        "https://telegra.ph/file/df47b2cfb28eb2255a54e.jpg",
+        "https://telegra.ph/file/2e3c960d73de0784ecc9e.jpg",
+        "https://telegra.ph/file/927e6a16cd5004ea8a090.jpg",
+        "https://telegra.ph/file/bf4c12c43e20a96e51c5e.jpg",
+        "https://telegra.ph/file/211be81bd3c95d6339a90.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

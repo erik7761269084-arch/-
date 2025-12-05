@@ -1,0 +1,39 @@
+const comicData = {
+    "IDcode": 8204,
+    "title": "七月喵子 - NO.11 献上王的冠冕 [29P-215MB]",
+    "sourceUrl": "https://telegra.ph/七月喵子---NO11-献上王的冠冕-29P-215MB-08-26",
+    "images": [
+        "https://telegra.ph/file/734b1d1c41cfc5c5c203c.jpg",
+        "https://telegra.ph/file/8e66e50c03ab8a1c0d686.jpg",
+        "https://telegra.ph/file/761ce0cbf3fac889fa463.jpg",
+        "https://telegra.ph/file/d00962dc8bbdc232728b4.jpg",
+        "https://telegra.ph/file/a922a379c348d1cf2e075.jpg",
+        "https://telegra.ph/file/5cd26fdf3a56b7f5f92e3.jpg",
+        "https://telegra.ph/file/391782473c470a9715463.jpg",
+        "https://telegra.ph/file/a684e6eb8df518628a1e6.jpg",
+        "https://telegra.ph/file/ffec7d770391566ccd5b7.jpg",
+        "https://telegra.ph/file/cfc43eedd5cfb7d08d230.jpg",
+        "https://telegra.ph/file/c0473f8a8d04c33ccefd2.jpg",
+        "https://telegra.ph/file/a2835f0da37af5210dded.jpg",
+        "https://telegra.ph/file/cb5c0bdef96df557545eb.jpg",
+        "https://telegra.ph/file/99afc479484f273f4cb71.jpg",
+        "https://telegra.ph/file/d53131ff0826b8e11dd72.jpg",
+        "https://telegra.ph/file/86f38fc1bc43c473817a3.jpg",
+        "https://telegra.ph/file/e06179574abc0c01b4057.jpg",
+        "https://telegra.ph/file/51989082c25e412c28ef6.jpg",
+        "https://telegra.ph/file/e3772fc388bc16e40c085.jpg",
+        "https://telegra.ph/file/67b7ad3692a22eb95ebe2.jpg",
+        "https://telegra.ph/file/22ec7e1e257fabd417d00.jpg",
+        "https://telegra.ph/file/63b7a5e66711530c0aff2.jpg",
+        "https://telegra.ph/file/58c58ae956837506e7931.jpg",
+        "https://telegra.ph/file/ae5c524e4fbf87300cdc0.jpg",
+        "https://telegra.ph/file/4f8a9bb75758b05de3863.jpg",
+        "https://telegra.ph/file/9cb2f95e57bfcbf4a8432.jpg",
+        "https://telegra.ph/file/f6875fda6748cab931041.jpg",
+        "https://telegra.ph/file/7e1caec9d1ef7f855cba2.jpg",
+        "https://telegra.ph/file/57e4986349e90a2c3ef51.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

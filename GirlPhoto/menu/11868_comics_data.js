@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11868,
+    "title": "雪琪 玉藻前兔女郎",
+    "sourceUrl": "https://telegra.ph/Cos小姐姐雪琪-玉藻前兔女郎-08-27",
+    "images": [
+        "https://telegra.ph/file/e0489552220d449a06964.jpg",
+        "https://telegra.ph/file/57f8b53dc323896fd49b4.jpg",
+        "https://telegra.ph/file/47035a046672b23c5114f.jpg",
+        "https://telegra.ph/file/821fd9213641fd8de9104.jpg",
+        "https://telegra.ph/file/c8492bc316cf4bb32b00f.jpg",
+        "https://telegra.ph/file/2f74292be8504057bf903.jpg",
+        "https://telegra.ph/file/798715cf2d8b4bb870190.jpg",
+        "https://telegra.ph/file/a1cc9a1583eab02bebe68.jpg",
+        "https://telegra.ph/file/8e39c024a22ee20be81ff.jpg",
+        "https://telegra.ph/file/fa74189074fceebe50438.jpg",
+        "https://telegra.ph/file/cadb1d5f9d16f6820ac6b.jpg",
+        "https://telegra.ph/file/71c58e08f65088e221dea.jpg",
+        "https://telegra.ph/file/251f2aee76b43f9ae59a7.jpg",
+        "https://telegra.ph/file/efa52598250cb65cccc84.jpg",
+        "https://telegra.ph/file/a32a9993667408117d7e0.jpg",
+        "https://telegra.ph/file/672937a9f28456a43a5cd.jpg",
+        "https://telegra.ph/file/2d9e576a715a3249e7eff.jpg",
+        "https://telegra.ph/file/33e9a2612fcae4bc19554.jpg",
+        "https://telegra.ph/file/2655b364c8663b0552659.jpg",
+        "https://telegra.ph/file/d2334c0c80c23efa4317f.jpg",
+        "https://telegra.ph/file/851e4845f24bdc5b6400b.jpg",
+        "https://telegra.ph/file/b4c4466b00a4c87d57bfe.jpg",
+        "https://telegra.ph/file/361983db85462ca493d53.jpg",
+        "https://telegra.ph/file/b7b3b701f065b41dadc88.jpg",
+        "https://telegra.ph/file/58a130205dd32a24f2216.jpg",
+        "https://telegra.ph/file/3fe61bddf4cd2407b6632.jpg",
+        "https://telegra.ph/file/6be7ee7835e3223fe9b64.jpg",
+        "https://telegra.ph/file/d1634522ed0e0e8d654de.jpg",
+        "https://telegra.ph/file/653c80ea3fc2f68e3b4c9.jpg",
+        "https://telegra.ph/file/09e1ca049874e0eaa6b7b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

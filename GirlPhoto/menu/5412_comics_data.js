@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5412,
+    "title": "斗鱼米线线sama写真 护士小姐姐",
+    "sourceUrl": "https://telegra.ph/斗鱼米线线sama写真-护士小姐姐-08-27",
+    "images": [
+        "https://telegra.ph/file/5e3a5c77fb67288c73dc9.jpg",
+        "https://telegra.ph/file/c8b6edb36ac98b27a5a6a.jpg",
+        "https://telegra.ph/file/7a7f05426a8c261e56826.jpg",
+        "https://telegra.ph/file/7a267140d5588dc3d4554.jpg",
+        "https://telegra.ph/file/e471bfbfc83d4bd38d123.jpg",
+        "https://telegra.ph/file/9b074d364c874fa85d84f.jpg",
+        "https://telegra.ph/file/9dc5754de434b95da385d.jpg",
+        "https://telegra.ph/file/86b6975cfac158f8457a3.jpg",
+        "https://telegra.ph/file/8640a278c89b4895edb7d.jpg",
+        "https://telegra.ph/file/7c3c5407e54bceab3b142.jpg",
+        "https://telegra.ph/file/0b988b19d37eb2475268b.jpg",
+        "https://telegra.ph/file/de977853c2f48879491a0.jpg",
+        "https://telegra.ph/file/70f15a0040543a6d93242.jpg",
+        "https://telegra.ph/file/3bde93949e8fead8e9697.jpg",
+        "https://telegra.ph/file/8f77f74a0de7ad32cbc5f.jpg",
+        "https://telegra.ph/file/eced4a2cc5c0f0f3cf9d3.jpg",
+        "https://telegra.ph/file/e2987353e1265eeed2a31.jpg",
+        "https://telegra.ph/file/73fb51e8812dc48d71a0e.jpg",
+        "https://telegra.ph/file/3cb63c060a5e4505f6f65.jpg",
+        "https://telegra.ph/file/fd4638b77d7f1943c25c8.jpg",
+        "https://telegra.ph/file/a1ba70a93134c23540199.jpg",
+        "https://telegra.ph/file/2056759d9994928e0563a.jpg",
+        "https://telegra.ph/file/c8ca01a098dba10e70e4a.jpg",
+        "https://telegra.ph/file/36620ecb74f9da27c5a85.jpg",
+        "https://telegra.ph/file/a7c83e2ce45cdec59c826.jpg",
+        "https://telegra.ph/file/c87dc584e845d785f009a.jpg",
+        "https://telegra.ph/file/8c44801ffc1a491b54bf8.jpg",
+        "https://telegra.ph/file/2d92a99857c6edc96b8fb.jpg",
+        "https://telegra.ph/file/78791fdc486b81ecc91cb.jpg",
+        "https://telegra.ph/file/daef36cd5d1c626517eca.jpg",
+        "https://telegra.ph/file/767911e69ac3894a3e4fc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

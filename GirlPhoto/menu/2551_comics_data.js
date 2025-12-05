@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2551,
+    "title": "Uy Uy - Albedo",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Albedo-08-27",
+    "images": [
+        "https://telegra.ph/file/6a2aaf313f04d92e25bae.jpg",
+        "https://telegra.ph/file/54a4ef181e3f947cc66a1.jpg",
+        "https://telegra.ph/file/4c8bd34a9a4e34e2c6f05.jpg",
+        "https://telegra.ph/file/a6a1ce854a05c56589301.jpg",
+        "https://telegra.ph/file/0bcd9590aa145c3196180.jpg",
+        "https://telegra.ph/file/8fceb48ba3f087ac0c309.jpg",
+        "https://telegra.ph/file/2f3f2a9a5531ff88724e1.jpg",
+        "https://telegra.ph/file/cedcfb90c07a9b46f22ed.jpg",
+        "https://telegra.ph/file/612851dca36cb3a5385db.jpg",
+        "https://telegra.ph/file/e10e0f49a491370e220cd.jpg",
+        "https://telegra.ph/file/545d718365a3f66c6e71e.jpg",
+        "https://telegra.ph/file/497ece5f5df6f028adecb.jpg",
+        "https://telegra.ph/file/ec0ecbcf889179d77f67e.jpg",
+        "https://telegra.ph/file/c96a4dd05230e596753f5.jpg",
+        "https://telegra.ph/file/ff5d45ae1b0d537869915.jpg",
+        "https://telegra.ph/file/343b51caca54823e02c41.jpg",
+        "https://telegra.ph/file/922a9dc65e5e4d887383d.jpg",
+        "https://telegra.ph/file/d219a76102198701935ba.jpg",
+        "https://telegra.ph/file/ecba74bc32a09cd338154.jpg",
+        "https://telegra.ph/file/6da81a603a1ec5d58e1c5.jpg",
+        "https://telegra.ph/file/4b8a415ae363b61dfefe5.jpg",
+        "https://telegra.ph/file/34410c9b4535cfd6c93cc.jpg",
+        "https://telegra.ph/file/ef3ecb8337f133a05a2c3.jpg",
+        "https://telegra.ph/file/e7f3131b61baf3339250a.jpg",
+        "https://telegra.ph/file/7508776510f2c5ad395fd.jpg",
+        "https://telegra.ph/file/d1c95f590c0e3eacdba63.jpg",
+        "https://telegra.ph/file/72741bc1cffe0baaa8ee7.jpg",
+        "https://telegra.ph/file/6f6935a5c902fae34e75f.jpg",
+        "https://telegra.ph/file/ab967aee0c2bd8a50fdc0.jpg",
+        "https://telegra.ph/file/e96fdf8fbec06f0992044.jpg",
+        "https://telegra.ph/file/5e8a09baa4e9d84f8148e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

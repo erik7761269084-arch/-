@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1293,
+    "title": "KuukoW - 玛莉・萝丝 马提尼比基尼(死或生)",
+    "sourceUrl": "https://telegra.ph/KuukoW---玛莉萝丝-马提尼比基尼死或生-08-29",
+    "images": [
+        "https://telegra.ph/file/085ae0d3e8c171025f769.jpg",
+        "https://telegra.ph/file/c6547c15b2260765f2c63.jpg",
+        "https://telegra.ph/file/73f2db3f2830b4cb0cad4.jpg",
+        "https://telegra.ph/file/b569bc995c822f307c923.jpg",
+        "https://telegra.ph/file/5707c5093a74a69d34958.jpg",
+        "https://telegra.ph/file/15d843e32fb92bf055964.jpg",
+        "https://telegra.ph/file/b92b416fb624efb5f786d.jpg",
+        "https://telegra.ph/file/6e8a51c8f66162a33e978.jpg",
+        "https://telegra.ph/file/1ebb41dfb1cf34b43d268.jpg",
+        "https://telegra.ph/file/b0284fd4d89fd9f5ad1a6.jpg",
+        "https://telegra.ph/file/23c9558ec18abc0da0653.jpg",
+        "https://telegra.ph/file/9c8811b06dfd12a85fdf1.jpg",
+        "https://telegra.ph/file/054d1f6e23b94f63feba0.jpg",
+        "https://telegra.ph/file/6f09ef3348ad3aa46d5cd.jpg",
+        "https://telegra.ph/file/854cc3ee5f267fb003fab.jpg",
+        "https://telegra.ph/file/7a4a7334b5db1837c26c7.jpg",
+        "https://telegra.ph/file/716a0e83d38bb80c9005c.jpg",
+        "https://telegra.ph/file/24a2f1fe2dc4ed118d808.jpg",
+        "https://telegra.ph/file/7821f7ac4c1705d56fec8.jpg",
+        "https://telegra.ph/file/bee70934dab103e1bfb05.jpg",
+        "https://telegra.ph/file/420ac762bb46be27d0af5.jpg",
+        "https://telegra.ph/file/087fb63fc5e616a426bfb.jpg",
+        "https://telegra.ph/file/4c8792a134b98e1f5b35c.jpg",
+        "https://telegra.ph/file/eeacbce7f9ab00c47bd82.jpg",
+        "https://telegra.ph/file/bc7070ae10d3fcca232a5.jpg",
+        "https://telegra.ph/file/42c47f86047d0c14e5a73.jpg",
+        "https://telegra.ph/file/4e1fd8433a8b2db0b5f7f.jpg",
+        "https://telegra.ph/file/9d3312a43b1962311032f.jpg",
+        "https://telegra.ph/file/85dae82fa05af24c2d1bb.jpg",
+        "https://telegra.ph/file/eefa41cee993d1c7d27d3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

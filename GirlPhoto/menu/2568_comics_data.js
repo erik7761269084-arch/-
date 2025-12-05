@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2568,
+    "title": "Uy Uy - Himiko Toga",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Himiko-Toga-08-27",
+    "images": [
+        "https://telegra.ph/file/50e3f1acdc2c7bf1b9a84.jpg",
+        "https://telegra.ph/file/750e64fdd0cd8cf5fc7dd.jpg",
+        "https://telegra.ph/file/04ef101eb0970278672b5.jpg",
+        "https://telegra.ph/file/4c79ca9e0ad5250f8cda0.jpg",
+        "https://telegra.ph/file/0c32b16af5e4c6ffc42d2.jpg",
+        "https://telegra.ph/file/ade82ef4dfb60a5bfd7de.jpg",
+        "https://telegra.ph/file/e3f309c20a4f5b387a6ed.jpg",
+        "https://telegra.ph/file/95f150d96c457f278d9eb.jpg",
+        "https://telegra.ph/file/aa69345bffb3085328a32.jpg",
+        "https://telegra.ph/file/4dbd732f865f15fef4758.jpg",
+        "https://telegra.ph/file/2fc85c3eb76fe6628ef9d.jpg",
+        "https://telegra.ph/file/f6f75b226e12e974548ec.jpg",
+        "https://telegra.ph/file/6498cb72afe96b77e77ee.jpg",
+        "https://telegra.ph/file/426f75c454f9f3f4a298c.jpg",
+        "https://telegra.ph/file/c08d7fb2f7fb20b9324b0.jpg",
+        "https://telegra.ph/file/ed142eeda2dbc058a7a12.jpg",
+        "https://telegra.ph/file/167ead4f67b75dedea26b.jpg",
+        "https://telegra.ph/file/6f083174706e86cf017a9.jpg",
+        "https://telegra.ph/file/eab8ee1da17125b4144c9.jpg",
+        "https://telegra.ph/file/aeef381a42da20d2f6b9b.jpg",
+        "https://telegra.ph/file/387d3c8e5bbf88b49e883.jpg",
+        "https://telegra.ph/file/0b496c82b606d0d186355.jpg",
+        "https://telegra.ph/file/8b53097cd96a8514486f9.jpg",
+        "https://telegra.ph/file/943288f4574e680a63188.jpg",
+        "https://telegra.ph/file/bd918c02d0c63d58653dd.jpg",
+        "https://telegra.ph/file/267ea566e21e73daf0516.jpg",
+        "https://telegra.ph/file/5cb37337e5df2b322759a.jpg",
+        "https://telegra.ph/file/b78f83ad974040c0ab962.jpg",
+        "https://telegra.ph/file/89da50037ce1adff2fe39.jpg",
+        "https://telegra.ph/file/ec627d6daeb2b7c1e8e5b.jpg",
+        "https://telegra.ph/file/84726484a504a53c0a27b.jpg",
+        "https://telegra.ph/file/c772a1797567a791206c1.jpg",
+        "https://telegra.ph/file/7264d71a4355631368a9e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

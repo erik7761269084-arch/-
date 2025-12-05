@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7507,
+    "title": "爆机少女喵小吉：狐妖·楚佩湘弦",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉狐妖楚佩湘弦-08-29",
+    "images": [
+        "https://telegra.ph/file/805f848b327d605a62cf9.jpg",
+        "https://telegra.ph/file/4e8394a5c9fa9a19df0dc.jpg",
+        "https://telegra.ph/file/4f2d2b35e7462c57b9aca.jpg",
+        "https://telegra.ph/file/ace3e9ad44fb096cf969a.jpg",
+        "https://telegra.ph/file/0a27c1dcbd2e2c49cc54a.jpg",
+        "https://telegra.ph/file/1a36af93ba7834413af30.jpg",
+        "https://telegra.ph/file/b4d1535976667784cf4ce.jpg",
+        "https://telegra.ph/file/2d2fcb17b6ed380888de5.jpg",
+        "https://telegra.ph/file/da77c206c822dbcab954e.jpg",
+        "https://telegra.ph/file/f8c3b9dbf3cead622ff80.jpg",
+        "https://telegra.ph/file/f75b6b46c30f87e89fa94.jpg",
+        "https://telegra.ph/file/65ba4bc9e53573bc06943.jpg",
+        "https://telegra.ph/file/c310c9e0a1132025bbd07.jpg",
+        "https://telegra.ph/file/03c1ee6360752438eabe5.jpg",
+        "https://telegra.ph/file/5381593cece5acfe8949f.jpg",
+        "https://telegra.ph/file/340b969980e099ae89924.jpg",
+        "https://telegra.ph/file/92f39825e08df95032878.jpg",
+        "https://telegra.ph/file/a96541c4d4357ba4b09bc.jpg",
+        "https://telegra.ph/file/96e3db35a3850ffbdd060.jpg",
+        "https://telegra.ph/file/f71b9fd7332daa0ee19d8.jpg",
+        "https://telegra.ph/file/c18aa18a8879665e5626e.jpg",
+        "https://telegra.ph/file/41ad87ab5b971f13d3b09.jpg",
+        "https://telegra.ph/file/9fbb074dede6e0016f61c.jpg",
+        "https://telegra.ph/file/df7e5191df44baaed4bbe.jpg",
+        "https://telegra.ph/file/3d9d9b0b30413f7793374.jpg",
+        "https://telegra.ph/file/f33f4a25e230ade908ab8.jpg",
+        "https://telegra.ph/file/7b365d38bd4c84600896e.jpg",
+        "https://telegra.ph/file/e61ffca26418eaf2838fa.jpg",
+        "https://telegra.ph/file/505ef21b6f2c9218a1ba6.jpg",
+        "https://telegra.ph/file/db80053ac118f03e68d88.jpg",
+        "https://telegra.ph/file/d40909d0bb852c5e7f68f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

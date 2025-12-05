@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21147,
+    "title": "[ATFM] Tsubaki - Vol.40 Sexy Teacher",
+    "sourceUrl": "https://telegra.ph/ATFM-Tsubaki---Vol40-Sexy-Teacher-08-29",
+    "images": [
+        "https://telegra.ph/file/66c5478a84f889e56e577.jpg",
+        "https://telegra.ph/file/b122491f31278156f2e88.jpg",
+        "https://telegra.ph/file/fb7b5a65f1fd168d0502f.jpg",
+        "https://telegra.ph/file/3f725a3b6f6aba33f86f9.jpg",
+        "https://telegra.ph/file/528449f7868c445979f77.jpg",
+        "https://telegra.ph/file/95bc2a01d507403523cab.jpg",
+        "https://telegra.ph/file/dafee709910cbf142f0df.jpg",
+        "https://telegra.ph/file/d3f1b9c99f779400c5ede.jpg",
+        "https://telegra.ph/file/5f2191c61d71019d32212.jpg",
+        "https://telegra.ph/file/6efc98c537be9ce7f8d6a.jpg",
+        "https://telegra.ph/file/14bd7d303e441f93e00df.jpg",
+        "https://telegra.ph/file/f4ac1ba68d1ab4e898868.jpg",
+        "https://telegra.ph/file/0a3254b67d8c7e725b762.jpg",
+        "https://telegra.ph/file/30bef0f2fcb377dc5b534.jpg",
+        "https://telegra.ph/file/58b43639574aef0d03d69.jpg",
+        "https://telegra.ph/file/224ffc5b2ed3fe5f54d1d.jpg",
+        "https://telegra.ph/file/fa6cc5a8f3c9d48cb604c.jpg",
+        "https://telegra.ph/file/cb341db8d9c144fc96b40.jpg",
+        "https://telegra.ph/file/3d8611bb31007f11b1f24.jpg",
+        "https://telegra.ph/file/b563e234b760d659c2d9d.jpg",
+        "https://telegra.ph/file/e41d06449fbd5dcad00ba.jpg",
+        "https://telegra.ph/file/2eeeaac1f995e8a52015c.jpg",
+        "https://telegra.ph/file/5413ef390c3e065d6544a.jpg",
+        "https://telegra.ph/file/7d9cf5b758a008c9cb89d.jpg",
+        "https://telegra.ph/file/b50c950641241de3fa3c1.jpg",
+        "https://telegra.ph/file/bc6bcce74fdd048f880eb.jpg",
+        "https://telegra.ph/file/d4d771d30f5b0a8116c6d.jpg",
+        "https://telegra.ph/file/16b9acdd5df64fee2b5bb.jpg",
+        "https://telegra.ph/file/327724bb0606e977c69b7.jpg",
+        "https://telegra.ph/file/d3e01b67af78661c79d6e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 5298,
+    "title": "果咩酱w - 穿高跟鞋的猫",
+    "sourceUrl": "https://telegra.ph/果咩酱w---穿高跟鞋的猫-08-27",
+    "images": [
+        "https://telegra.ph/file/b9fd1502f105a7f1b5d67.jpg",
+        "https://telegra.ph/file/e383029f872f450f3bade.jpg",
+        "https://telegra.ph/file/ef42710c731b8cfbb6942.jpg",
+        "https://telegra.ph/file/b4dc5705b439c51b8b73b.jpg",
+        "https://telegra.ph/file/dd5b513a1a669bf7446ff.jpg",
+        "https://telegra.ph/file/aa244a047130d099156eb.jpg",
+        "https://telegra.ph/file/fde164839ca3c8c151cbd.jpg",
+        "https://telegra.ph/file/2e26677e568ac99b8e79d.jpg",
+        "https://telegra.ph/file/a90358351799c30bb65a6.jpg",
+        "https://telegra.ph/file/8b6d156bcb3e0519315ab.jpg",
+        "https://telegra.ph/file/e4dfb97dedc086aed27b8.jpg",
+        "https://telegra.ph/file/299959ee1ea88b59476ab.jpg",
+        "https://telegra.ph/file/802b240e8dd85a9c4f9ef.jpg",
+        "https://telegra.ph/file/8114b4f51604ddbfa8ddb.jpg",
+        "https://telegra.ph/file/5537ede932512f89f036a.jpg",
+        "https://telegra.ph/file/04aa9ffa1b2c5417493bc.jpg",
+        "https://telegra.ph/file/89f512b11e349b3f85e11.jpg",
+        "https://telegra.ph/file/91ca27e39914419522983.jpg",
+        "https://telegra.ph/file/935464d3d0e33d88b7be7.jpg",
+        "https://telegra.ph/file/5cb15c75dff0141b1ad1f.jpg",
+        "https://telegra.ph/file/149b8fee9fdbc338b428b.jpg",
+        "https://telegra.ph/file/89e9a0afaec0da51590a6.jpg",
+        "https://telegra.ph/file/656b0655243bd143c61d4.jpg",
+        "https://telegra.ph/file/8dbbf5afb81ce6a8aa5de.jpg",
+        "https://telegra.ph/file/bf1ab8a101885301caabd.jpg",
+        "https://telegra.ph/file/1018305b826d341390828.jpg",
+        "https://telegra.ph/file/bc676051c7fff1fd48e86.jpg",
+        "https://telegra.ph/file/2cdf6a62dd1eca2387655.jpg",
+        "https://telegra.ph/file/92c7115ecd75ad2406a44.jpg",
+        "https://telegra.ph/file/417c60018a7c22607fe43.jpg",
+        "https://telegra.ph/file/f8ed4b569467d66621b59.jpg",
+        "https://telegra.ph/file/5b603bd7052dcf6d4fb7e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

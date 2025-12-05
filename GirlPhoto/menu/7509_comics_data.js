@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 7509,
+    "title": "爆机少女喵小吉：拉克丝·水晶玫瑰",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉拉克丝水晶玫瑰-08-29",
+    "images": [
+        "https://telegra.ph/file/448983d97993b32c5eebe.jpg",
+        "https://telegra.ph/file/17708760cab3fbfe9d253.jpg",
+        "https://telegra.ph/file/65baa792b6f49ed4407e7.jpg",
+        "https://telegra.ph/file/0e65bf94bf707cade55c0.jpg",
+        "https://telegra.ph/file/572b85acd5bdf2943b2cd.jpg",
+        "https://telegra.ph/file/ff4777f7a46300c89b22f.jpg",
+        "https://telegra.ph/file/fb489d59c3a90385218b3.jpg",
+        "https://telegra.ph/file/4fd0b3ed5b975d323ef8a.jpg",
+        "https://telegra.ph/file/bf9dfc3a28254be0bd776.jpg",
+        "https://telegra.ph/file/b28c9322955e3ce41073f.jpg",
+        "https://telegra.ph/file/23454d2f0d943548c905b.jpg",
+        "https://telegra.ph/file/74ae22ce5458b7f6245d8.jpg",
+        "https://telegra.ph/file/8795f96ce52a9b4fead41.jpg",
+        "https://telegra.ph/file/e1266540b4ad22205471f.jpg",
+        "https://telegra.ph/file/8d1b29c10d666f3326533.jpg",
+        "https://telegra.ph/file/543948fcad520b37039f1.jpg",
+        "https://telegra.ph/file/908380aeab2cb47e21a1c.jpg",
+        "https://telegra.ph/file/4486ab84b19ab288ff839.jpg",
+        "https://telegra.ph/file/b769adb25da6dd1ce0677.jpg",
+        "https://telegra.ph/file/58ffd73937ce62d66c1a2.jpg",
+        "https://telegra.ph/file/1d45b4b6620f33ca470bf.jpg",
+        "https://telegra.ph/file/c3d998340172e31252c60.jpg",
+        "https://telegra.ph/file/e7e1266f6a1f4ef223c03.jpg",
+        "https://telegra.ph/file/d5715d75383ca11bc591f.jpg",
+        "https://telegra.ph/file/fb40c47282bef15e35248.jpg",
+        "https://telegra.ph/file/b6e3b5ec8e60da6895a82.jpg",
+        "https://telegra.ph/file/a05e142d4bf0f71f2f893.jpg",
+        "https://telegra.ph/file/ed8e9d286beda9c4612d6.jpg",
+        "https://telegra.ph/file/db46f8dec832637c2d85d.jpg",
+        "https://telegra.ph/file/9df92ce18470004d2e50e.jpg",
+        "https://telegra.ph/file/131e9272e1b9940bf6b2a.jpg",
+        "https://telegra.ph/file/fa2d76c32b873d8ec14b2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

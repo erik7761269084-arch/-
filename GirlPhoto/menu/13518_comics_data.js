@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13518,
+    "title": "源纱希喵喵喵 - 复古棚子",
+    "sourceUrl": "https://telegra.ph/源纱希喵喵喵---复古棚子-08-28",
+    "images": [
+        "https://telegra.ph/file/c1b25baaaf69410b5de7e.jpg",
+        "https://telegra.ph/file/6ffb087d3977fe95f23ca.jpg",
+        "https://telegra.ph/file/03d5180fbcd79adff398f.jpg",
+        "https://telegra.ph/file/d338cac14b611ba9ce8c4.jpg",
+        "https://telegra.ph/file/9e6fb91bc30b96c4e0052.jpg",
+        "https://telegra.ph/file/03d6075f0263868fb540e.jpg",
+        "https://telegra.ph/file/7086488e8c41bd2db9d3a.jpg",
+        "https://telegra.ph/file/f82305debc52fadf60824.jpg",
+        "https://telegra.ph/file/8b3622e5876655eb83008.jpg",
+        "https://telegra.ph/file/5450eead45a64665a6c86.jpg",
+        "https://telegra.ph/file/693cd7b75d47c232c1243.jpg",
+        "https://telegra.ph/file/349a9c63b9798f24ed617.jpg",
+        "https://telegra.ph/file/cf8e43b3ee8278c775cd0.jpg",
+        "https://telegra.ph/file/04441ba963449fbf1a3e2.jpg",
+        "https://telegra.ph/file/aa91b86374a664f1da94d.jpg",
+        "https://telegra.ph/file/a15898fba4e291389f96a.jpg",
+        "https://telegra.ph/file/f704931723bf097706600.jpg",
+        "https://telegra.ph/file/aa15438a1fa9c2f8d6494.jpg",
+        "https://telegra.ph/file/11240935638190d315e6f.jpg",
+        "https://telegra.ph/file/6dddf9e575bfa02ca03d7.jpg",
+        "https://telegra.ph/file/4e69e348320e679df9126.jpg",
+        "https://telegra.ph/file/35ae076a4aaafca02cab1.jpg",
+        "https://telegra.ph/file/43a85fae1534c90ae9ecf.jpg",
+        "https://telegra.ph/file/ce5250a927799cae8f1f8.jpg",
+        "https://telegra.ph/file/46a7a74573b0cb7d7bfef.jpg",
+        "https://telegra.ph/file/a457ec06dcdaa63a8fbcf.jpg",
+        "https://telegra.ph/file/8167b1e1801deee383a3f.jpg",
+        "https://telegra.ph/file/2cf5d45a770584f0d542b.jpg",
+        "https://telegra.ph/file/bd49e2b104b270eb4db16.jpg",
+        "https://telegra.ph/file/afc308d931a094eabca47.jpg",
+        "https://telegra.ph/file/2b4de2189f30540ee4307.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

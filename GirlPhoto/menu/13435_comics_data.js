@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13435,
+    "title": "屿鱼 - 下江小春原皮 [33P-164MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B1%BF%E9%B1%BC---%E4%B8%8B%E6%B1%9F%E5%B0%8F%E6%98%A5%E5%8E%9F%E7%9A%AE-33P-164MB-08-20",
+    "images": [
+        "https://image.acg.lol/file/2025/03/07/IMG_8563.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8524.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8525.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8527.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8543.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8545.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8549.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8558.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8568.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8572.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8575.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8577.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8586.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8591.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8597.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8600.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8604.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8610.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8618.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8634.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8639.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8650.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8655.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8656.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8663.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8664.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8671.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8676.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8679.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8682.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8691.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8699.jpg",
+        "https://image.acg.lol/file/2025/03/07/IMG_8701.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

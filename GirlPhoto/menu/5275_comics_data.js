@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 5275,
+    "title": "果咩酱w 小奶牛(33P1V287MB)",
+    "sourceUrl": "https://telegra.ph/果咩酱w-小奶牛33P1V287MB-08-25",
+    "images": [
+        "https://telegra.ph/file/681f8029ad93c2a9ccb75.jpg",
+        "https://telegra.ph/file/0985223f682b4aba65f2b.jpg",
+        "https://telegra.ph/file/9c75f06066b678690df39.jpg",
+        "https://telegra.ph/file/7c227a464f082f2852352.jpg",
+        "https://telegra.ph/file/98be93109f7652a02f190.jpg",
+        "https://telegra.ph/file/21e60c8b2bf9cfb1e37fa.jpg",
+        "https://telegra.ph/file/50b3c6cac322d5c5564b2.jpg",
+        "https://telegra.ph/file/bb54919423bbe187dba63.jpg",
+        "https://telegra.ph/file/8dc59c2ff90982e2d7fe5.jpg",
+        "https://telegra.ph/file/db3a5d5333332737ecf59.jpg",
+        "https://telegra.ph/file/1c8c5c68b33f053d5a290.jpg",
+        "https://telegra.ph/file/4a8d48d0e959598cb334a.jpg",
+        "https://telegra.ph/file/78b3eaedf1390ba60208b.jpg",
+        "https://telegra.ph/file/3e2bc816ea5db40af940f.jpg",
+        "https://telegra.ph/file/df3dca0255487ae0122b2.jpg",
+        "https://telegra.ph/file/f76b98bc737e487b4e35f.jpg",
+        "https://telegra.ph/file/a3e7054a93764eb77134c.jpg",
+        "https://telegra.ph/file/108b8adf06b9a4a81c09b.jpg",
+        "https://telegra.ph/file/8805e4940b664b09bc0dc.jpg",
+        "https://telegra.ph/file/0aae78166662c6d716054.jpg",
+        "https://telegra.ph/file/fb6d3dffec0ef0059d3c0.jpg",
+        "https://telegra.ph/file/0c2b76f705375971dee56.jpg",
+        "https://telegra.ph/file/4bb903eb3d01355d8e8a0.jpg",
+        "https://telegra.ph/file/164fbdba9cc549c65b2bc.jpg",
+        "https://telegra.ph/file/01d1340fbef44e282d597.jpg",
+        "https://telegra.ph/file/f2ee259cb7fff9e987c5e.jpg",
+        "https://telegra.ph/file/7ee0163d837ad7d1909d6.jpg",
+        "https://telegra.ph/file/8c99846bc17f18b32c503.jpg",
+        "https://telegra.ph/file/468bec5ed2921976a23e5.jpg",
+        "https://telegra.ph/file/5f36420c1dfd09eacae1b.jpg",
+        "https://telegra.ph/file/7d8161987e8fbb59431da.jpg",
+        "https://telegra.ph/file/e3d9dd87cb248e5351f5c.jpg",
+        "https://telegra.ph/file/b404e748d71c79a4d36e4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

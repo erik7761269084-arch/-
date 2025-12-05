@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12658,
+    "title": "桜满三时 - NO.01 黑兽奥利卡同人 [31P-463MB]",
+    "sourceUrl": "https://telegra.ph/桜满三时---NO01-黑兽奥利卡同人-31P-463MB-08-26",
+    "images": [
+        "https://telegra.ph/file/6864b7796ecfc9de796cd.jpg",
+        "https://telegra.ph/file/5415360de61b71e3e7110.jpg",
+        "https://telegra.ph/file/f930898ab8c7e90d037ee.jpg",
+        "https://telegra.ph/file/ff3c63776fda0310c7a42.jpg",
+        "https://telegra.ph/file/03756c170d6b97a7cce8c.jpg",
+        "https://telegra.ph/file/0552bf9e7995dfdcfd76c.jpg",
+        "https://telegra.ph/file/3d507a05fccd30e40b40c.jpg",
+        "https://telegra.ph/file/9e3a90978933a12fe420c.jpg",
+        "https://telegra.ph/file/b95d045436dc91f42acca.jpg",
+        "https://telegra.ph/file/6e63157f2a6cd43204fda.jpg",
+        "https://telegra.ph/file/b5c0b0bbbfb2250656754.jpg",
+        "https://telegra.ph/file/d0d1ad732a8a30f4b07fb.jpg",
+        "https://telegra.ph/file/9b4968f956f6fc4fd8086.jpg",
+        "https://telegra.ph/file/843f376588284e23137c6.jpg",
+        "https://telegra.ph/file/3d392e689104e3ed4925e.jpg",
+        "https://telegra.ph/file/4463ea4614409c7ea9285.jpg",
+        "https://telegra.ph/file/57d4af78cbed1dcfcd12e.jpg",
+        "https://telegra.ph/file/bd5a67c649e259322ae4b.jpg",
+        "https://telegra.ph/file/40776414339080b913b24.jpg",
+        "https://telegra.ph/file/6a9e7e23a6af2926ad053.jpg",
+        "https://telegra.ph/file/0df0c96a0f4bdc5ada903.jpg",
+        "https://telegra.ph/file/5c32b2a5e7b5cc445538a.jpg",
+        "https://telegra.ph/file/da35dee47ad87d89294ae.jpg",
+        "https://telegra.ph/file/784337af34994d33c3af2.jpg",
+        "https://telegra.ph/file/5e6b4f0a33b2494134b47.jpg",
+        "https://telegra.ph/file/31ac5e4ee511a1065ef11.jpg",
+        "https://telegra.ph/file/4073eb20894d9c14fc49e.jpg",
+        "https://telegra.ph/file/191d68e11e4f9846825bf.jpg",
+        "https://telegra.ph/file/b5dd2889fc5713435c84a.jpg",
+        "https://telegra.ph/file/e5ca34972a93f04d3c72c.jpg",
+        "https://telegra.ph/file/8982001491c729dc0c0ad.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

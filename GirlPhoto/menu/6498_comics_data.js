@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6498,
+    "title": "鹿野希 - V字定制 [30P1V-168M]",
+    "sourceUrl": "https://telegra.ph/%E9%B9%BF%E9%87%8E%E5%B8%8C---V%E5%AD%97%E5%AE%9A%E5%88%B6-30P1V-168M-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/07/17/1-1e7bf8bbbb27c34cb.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-24201426484723fda.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-3966f6842a890f7c8.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-4e4faa4e8a47329f7.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-5a5e4c24db08e0c8e.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-6047c217f44a409ad.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-70ae45e575bb1af08.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-8d58381cff232d7c3.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-9006f0a70ee922832.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-10bd719e5f3d8f0bdb.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-11afe4ae523944ffd8.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-127e9cebefa55d3f67.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-13edd1f270ae613ad5.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-14d28e9d05d403fcae.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-153453e28a12085ef9.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-160f0be7f7d684d383.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-17d8f156d916dd7400.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-186bbb4bfe8478771c.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-197667557c47d8a062.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-205de8ba2fc1baf8aa.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-2124fa9e0fa8bf0dd9.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-2299846fe990069b42.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-230a96dfddff0d9310.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-24440077badd28099e.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-2591b1f0a24bcdfe89.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-268d912916b0b758e4.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-2790a578e0f938b3fa.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-2842d24a2328c5aa05.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-2989925655624ee2b8.jpg",
+        "https://image.acg.lol/file/2025/07/17/1-3096615b053a430830.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

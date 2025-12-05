@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5212,
+    "title": "鬼畜瑶在不在w -95式玉玲珑",
+    "sourceUrl": "https://telegra.ph/鬼畜瑶在不在w---95式玉玲珑-08-29",
+    "images": [
+        "https://telegra.ph/file/582acc8edde34ba3b9318.jpg",
+        "https://telegra.ph/file/c1a4d2555f77b62b0c344.jpg",
+        "https://telegra.ph/file/9788b21bd7a1f4212c863.jpg",
+        "https://telegra.ph/file/f2aa88c45f87fe7ad853f.jpg",
+        "https://telegra.ph/file/03bac620930cfa0327d35.jpg",
+        "https://telegra.ph/file/77af20530cbb566d729fa.jpg",
+        "https://telegra.ph/file/c779ad86b73ac81ae5a85.jpg",
+        "https://telegra.ph/file/57a4678c789a5617e54be.jpg",
+        "https://telegra.ph/file/6b9d09d6ed89ca4067aae.jpg",
+        "https://telegra.ph/file/d4e4294141a63f1d9f2d6.jpg",
+        "https://telegra.ph/file/cec19368a5efe483d1559.jpg",
+        "https://telegra.ph/file/de859831027c34a04b1d4.jpg",
+        "https://telegra.ph/file/e06e1fe5ae7af69ba295f.jpg",
+        "https://telegra.ph/file/b6e24311a811161af3bd7.jpg",
+        "https://telegra.ph/file/930e7cca0203c8fb19c62.jpg",
+        "https://telegra.ph/file/ebc392ea3c6ddb37580c7.jpg",
+        "https://telegra.ph/file/f04469435bd669ce36e22.jpg",
+        "https://telegra.ph/file/c7debbad691a3d515256e.jpg",
+        "https://telegra.ph/file/1596940190eea013f9e2b.jpg",
+        "https://telegra.ph/file/fe38d54adc656e3837028.jpg",
+        "https://telegra.ph/file/fd99100a5378ee4685d2a.jpg",
+        "https://telegra.ph/file/e42e7f54c54e649c91e85.jpg",
+        "https://telegra.ph/file/de0a17abaf8c45705ce72.jpg",
+        "https://telegra.ph/file/1eadb622196c8f8d8a683.jpg",
+        "https://telegra.ph/file/7ccf22459a87f00f51501.jpg",
+        "https://telegra.ph/file/5d658c3ef73a11d840f42.jpg",
+        "https://telegra.ph/file/4e6a6801708c0cb2c2c1c.jpg",
+        "https://telegra.ph/file/5851cd358fd925c77e209.jpg",
+        "https://telegra.ph/file/ebb0edaac58dd5051de52.jpg",
+        "https://telegra.ph/file/0ea5c4cd148be9d39b891.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

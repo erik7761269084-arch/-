@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9514,
+    "title": "蜜桃少女是依酱呀 - T恤底下",
+    "sourceUrl": "https://telegra.ph/蜜桃少女是依酱呀---T恤底下-08-28",
+    "images": [
+        "https://telegra.ph/file/02f5c9ef96fc93dde4070.jpg",
+        "https://telegra.ph/file/bf23b1c369452159c2d45.jpg",
+        "https://telegra.ph/file/929f146dec390a5736410.jpg",
+        "https://telegra.ph/file/fea49db72226cc70ef300.jpg",
+        "https://telegra.ph/file/8058a737ca2a3355b25c9.jpg",
+        "https://telegra.ph/file/7e567232a5f092de37a1f.jpg",
+        "https://telegra.ph/file/03ca0d583e2c89f6d994b.jpg",
+        "https://telegra.ph/file/2d995591d53f88cddb26a.jpg",
+        "https://telegra.ph/file/e9ac94a131c61fbb6dc74.jpg",
+        "https://telegra.ph/file/a35235409e5aa6a0f9932.jpg",
+        "https://telegra.ph/file/ef3eb5d0fd359e868051e.jpg",
+        "https://telegra.ph/file/f23aeb9ba6cc8c459a8bd.jpg",
+        "https://telegra.ph/file/5814c9eb9b5eedacce198.jpg",
+        "https://telegra.ph/file/91bc2e2557991d33c2ffe.jpg",
+        "https://telegra.ph/file/bf2b61c8c34a1f29cf47a.jpg",
+        "https://telegra.ph/file/a018695bbbd6939688459.jpg",
+        "https://telegra.ph/file/62e1aed6d16005edd7669.jpg",
+        "https://telegra.ph/file/2bab87287b3eb07abed9c.jpg",
+        "https://telegra.ph/file/39e2c0db7c66f9b8ebfc9.jpg",
+        "https://telegra.ph/file/84114a7ca529a681f7dbd.jpg",
+        "https://telegra.ph/file/db87eb40a36688c0ab9b8.jpg",
+        "https://telegra.ph/file/0da68f08769c53123a6f7.jpg",
+        "https://telegra.ph/file/26a1412aad367521a58ac.jpg",
+        "https://telegra.ph/file/01427f709eadd4539ee4a.jpg",
+        "https://telegra.ph/file/9392cf5c275257eef40b9.jpg",
+        "https://telegra.ph/file/166beb87fc3be3e7a657c.jpg",
+        "https://telegra.ph/file/bf30cc87901beb6c7a8bf.jpg",
+        "https://telegra.ph/file/a17915fe36910cebe4c02.jpg",
+        "https://telegra.ph/file/3f637d7c014c4ffacb6b6.jpg",
+        "https://telegra.ph/file/a63cd0a8962821698b9aa.jpg",
+        "https://telegra.ph/file/f4d5384e0843128e20d0e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11870,
+    "title": "雪琪 白丝女仆",
+    "sourceUrl": "https://telegra.ph/Cos小姐姐雪琪-白丝女仆-08-27",
+    "images": [
+        "https://telegra.ph/file/07c704fddec84ac32490d.jpg",
+        "https://telegra.ph/file/b70047bf0cc71e1317489.jpg",
+        "https://telegra.ph/file/7a7c105364140c5187071.jpg",
+        "https://telegra.ph/file/0f9ad934dac472db12c7d.jpg",
+        "https://telegra.ph/file/2096e0f1502c18571d2bb.jpg",
+        "https://telegra.ph/file/7c867e70c54f0a2d5e542.jpg",
+        "https://telegra.ph/file/f429232380122b0d34d9f.jpg",
+        "https://telegra.ph/file/dfd747f728ebc2ad1ef1d.jpg",
+        "https://telegra.ph/file/cd21c37a1089aae8f8bef.jpg",
+        "https://telegra.ph/file/cbe6ab7c8309664b84181.jpg",
+        "https://telegra.ph/file/3e64465cf42cc6a741d5e.jpg",
+        "https://telegra.ph/file/f6296036075a771a68007.jpg",
+        "https://telegra.ph/file/1487a2100a8bb3ee7aeb0.jpg",
+        "https://telegra.ph/file/8fd7f9dde8ec2d49a1853.jpg",
+        "https://telegra.ph/file/765c46e81bee781276f54.jpg",
+        "https://telegra.ph/file/c6c73097d9ee720e158ad.jpg",
+        "https://telegra.ph/file/c9ce8b0c87a0ea45c1556.jpg",
+        "https://telegra.ph/file/ecf232c950539f1da0081.jpg",
+        "https://telegra.ph/file/2db871a069aceb8627d94.jpg",
+        "https://telegra.ph/file/f3a0469f1cf83389f3f35.jpg",
+        "https://telegra.ph/file/507dc18f629642b9af96c.jpg",
+        "https://telegra.ph/file/8432afa99869d91f792ad.jpg",
+        "https://telegra.ph/file/2b6ea9cc6c25651204cf5.jpg",
+        "https://telegra.ph/file/564a88ed77bfc4dd939a1.jpg",
+        "https://telegra.ph/file/8bce19001785c41b081fc.jpg",
+        "https://telegra.ph/file/11b6395c901700763df58.jpg",
+        "https://telegra.ph/file/6c53af8b59788843dffbb.jpg",
+        "https://telegra.ph/file/df991d19bdc532dde2b60.jpg",
+        "https://telegra.ph/file/cde159c92692035eae339.jpg",
+        "https://telegra.ph/file/162b1ad56a32da1fd33e5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

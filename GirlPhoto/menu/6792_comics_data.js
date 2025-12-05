@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 6792,
+    "title": "超鳗鱼霏儿 - 蕾丝女仆",
+    "sourceUrl": "https://telegra.ph/超鳗鱼霏儿---蕾丝女仆-08-27",
+    "images": [
+        "https://telegra.ph/file/0f4ca810ac88ef8ce5e66.jpg",
+        "https://telegra.ph/file/b7354086ae643342abf32.jpg",
+        "https://telegra.ph/file/15b72d796e137ac8cd021.jpg",
+        "https://telegra.ph/file/2dcf072bc0ab4083e02cd.jpg",
+        "https://telegra.ph/file/9f773951e83ccd3d80916.jpg",
+        "https://telegra.ph/file/f97f5848f777e506d943b.jpg",
+        "https://telegra.ph/file/b76b6c4ba997eec500e27.jpg",
+        "https://telegra.ph/file/6d465112d0449e392f81f.jpg",
+        "https://telegra.ph/file/e70de535377d870aa69df.jpg",
+        "https://telegra.ph/file/b9707ff5729344c078e7e.jpg",
+        "https://telegra.ph/file/310ccc796b37530e164ee.jpg",
+        "https://telegra.ph/file/e30cdb1435469577ec1b0.jpg",
+        "https://telegra.ph/file/d005da49ceec540900aac.jpg",
+        "https://telegra.ph/file/e4477b0c0ae1a13e38a48.jpg",
+        "https://telegra.ph/file/fec3299c4746f4ac20a99.jpg",
+        "https://telegra.ph/file/5fa98b9f62de5838fcd45.jpg",
+        "https://telegra.ph/file/b55b22d448ebea52eca85.jpg",
+        "https://telegra.ph/file/ae850e5b4ea9732b6bf1e.jpg",
+        "https://telegra.ph/file/019f6711acf51b777407e.jpg",
+        "https://telegra.ph/file/32d4e10f9470a999132a5.jpg",
+        "https://telegra.ph/file/37005c922ebaecbe0860f.jpg",
+        "https://telegra.ph/file/a0b18d641abdef68bceca.jpg",
+        "https://telegra.ph/file/78eb5f995bd88185bcf7c.jpg",
+        "https://telegra.ph/file/6cc31b97da58a079ed6c6.jpg",
+        "https://telegra.ph/file/2aa824e5d1a741b9be7cd.jpg",
+        "https://telegra.ph/file/96b24dd367ea23d811642.jpg",
+        "https://telegra.ph/file/b75a640eec8a8da11d6b0.jpg",
+        "https://telegra.ph/file/d9d1f8f6264676d37d902.jpg",
+        "https://telegra.ph/file/8093c39a3bae9d64954c9.jpg",
+        "https://telegra.ph/file/e32029f084549a723dc24.jpg",
+        "https://telegra.ph/file/0ad71ecd3521851ca585f.jpg",
+        "https://telegra.ph/file/5b7014f9a2249e2d74b63.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

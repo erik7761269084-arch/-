@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9485,
+    "title": "依酱 七夕特辑 镂空透视",
+    "sourceUrl": "https://telegra.ph/依酱-七夕特辑-镂空透视-08-25",
+    "images": [
+        "https://telegra.ph/file/3c811ed9ea52d2ddbe2ac.jpg",
+        "https://telegra.ph/file/6ca37105e1c48245b3ef3.jpg",
+        "https://telegra.ph/file/d8fa26fd4ca99d7f1ddd6.jpg",
+        "https://telegra.ph/file/5ea27d73c8e397577f50f.jpg",
+        "https://telegra.ph/file/a067d84e22bee20b23ff7.jpg",
+        "https://telegra.ph/file/f0680bbadf468f39233ef.jpg",
+        "https://telegra.ph/file/64eeacbe37c3756c84c2e.jpg",
+        "https://telegra.ph/file/28dbdba5203c953e5ef22.jpg",
+        "https://telegra.ph/file/47ce0690421af36d3309e.jpg",
+        "https://telegra.ph/file/cb3a386e1ef701ff46d03.jpg",
+        "https://telegra.ph/file/36d7cf82db3c55d516653.jpg",
+        "https://telegra.ph/file/bd943f338fa0cc19c49a7.jpg",
+        "https://telegra.ph/file/2b095854b45b30ff866a0.jpg",
+        "https://telegra.ph/file/346e2127961134ab0ad96.jpg",
+        "https://telegra.ph/file/dc530319f620380494ce4.jpg",
+        "https://telegra.ph/file/3f2e25b7d24e681f5f708.jpg",
+        "https://telegra.ph/file/b52fd31c4a5df275b91b1.jpg",
+        "https://telegra.ph/file/8526c5fb621556d6e5b95.jpg",
+        "https://telegra.ph/file/e504a5786ea2c56088658.jpg",
+        "https://telegra.ph/file/a94af4a39499366b288b9.jpg",
+        "https://telegra.ph/file/19220f1782c6c9dcb7b2e.jpg",
+        "https://telegra.ph/file/b872aa3cb20c2e8c55d5d.jpg",
+        "https://telegra.ph/file/9e2b9183395d0814702e9.jpg",
+        "https://telegra.ph/file/3076df37fe51e9a8501cc.jpg",
+        "https://telegra.ph/file/bdbd5aa878ddbfddd9b8b.jpg",
+        "https://telegra.ph/file/ab0f8f6d6c0b1609d4296.jpg",
+        "https://telegra.ph/file/a784f5de4dd9e9ca394ee.jpg",
+        "https://telegra.ph/file/2691b6a00c04f7e1f30f1.jpg",
+        "https://telegra.ph/file/3191b9cc2b02acf8d0377.jpg",
+        "https://telegra.ph/file/2e8ce0fe23afec8ad45b6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

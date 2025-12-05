@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6979,
+    "title": "迷之呆梨 2023年07月 Fantia 1800日圓訂閱內容 5",
+    "sourceUrl": "https://telegra.ph/%E8%BF%B7%E4%B9%8B%E5%91%86%E6%A2%A8-2023%E5%B9%B407%E6%9C%88-Fantia-1800%E6%97%A5%E5%9C%93%E8%A8%82%E9%96%B1%E5%85%A7%E5%AE%B9-5-08-23",
+    "images": [
+        "https://telegra.ph/file/7d39912ab89b367716c87.jpg",
+        "https://telegra.ph/file/ce4ba11dccbc94e2dcc1c.jpg",
+        "https://telegra.ph/file/ba81169ee9b292ddc1c9d.jpg",
+        "https://telegra.ph/file/b03ad965a3736734e98d6.jpg",
+        "https://telegra.ph/file/7b3428bc5f6b2aa7733cb.jpg",
+        "https://telegra.ph/file/d9ee09a72c5eddf55c6cb.jpg",
+        "https://telegra.ph/file/602f90630ff459ab89615.jpg",
+        "https://telegra.ph/file/e7410223945cdc30fbcd6.jpg",
+        "https://telegra.ph/file/5472d451b45d859bbb820.jpg",
+        "https://telegra.ph/file/6906125949bf2e168ad1d.jpg",
+        "https://telegra.ph/file/4f87a7c689638d4a98d0d.jpg",
+        "https://telegra.ph/file/abea05e7656549cbc8cb3.jpg",
+        "https://telegra.ph/file/183cc038ef637685c7f36.jpg",
+        "https://telegra.ph/file/47e4177855808bb0af4dd.jpg",
+        "https://telegra.ph/file/9c11170171206c6ccb7cd.jpg",
+        "https://telegra.ph/file/bccff49d39dc4116f0396.jpg",
+        "https://telegra.ph/file/3d1efb49cd8b9d9a5657a.jpg",
+        "https://telegra.ph/file/531c95e031131d689915b.jpg",
+        "https://telegra.ph/file/0dc337d5761f0cb573cfb.jpg",
+        "https://telegra.ph/file/c2a305b9ef8750ffb4c38.jpg",
+        "https://telegra.ph/file/21c90155f172f0341dc68.jpg",
+        "https://telegra.ph/file/1cc1ec8074d99a54af296.jpg",
+        "https://telegra.ph/file/e562e5cc64d95f3aa8fca.jpg",
+        "https://telegra.ph/file/8f1da01981c7b4667df8f.jpg",
+        "https://telegra.ph/file/cb9ab5f1b80edfcc31bc3.jpg",
+        "https://telegra.ph/file/03d644e52c33fc61cc593.jpg",
+        "https://telegra.ph/file/282c57ab6dbda390ef300.jpg",
+        "https://telegra.ph/file/db323028562cb3955e6c2.jpg",
+        "https://telegra.ph/file/9436bb5980297a5b53c94.jpg",
+        "https://telegra.ph/file/09865fe7ebb4925a59e53.jpg",
+        "https://telegra.ph/file/388b863efc300eb7b9a7b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

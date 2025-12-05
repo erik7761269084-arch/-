@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13596,
+    "title": "溪溪 深夜调情",
+    "sourceUrl": "https://telegra.ph/溪溪-深夜调情-08-27",
+    "images": [
+        "https://telegra.ph/file/be9813f3f60613a4b0bc2.jpg",
+        "https://telegra.ph/file/5dbd6b140cc0f299eb48a.jpg",
+        "https://telegra.ph/file/124fccf67556fc0eacb7b.jpg",
+        "https://telegra.ph/file/cb1544329f3e0cfb35788.jpg",
+        "https://telegra.ph/file/a64cbd9e14cc800fb211a.jpg",
+        "https://telegra.ph/file/0500d6cb25d0c3250d9dd.jpg",
+        "https://telegra.ph/file/317dfe62e4083d6c191ee.jpg",
+        "https://telegra.ph/file/5b49a350017aa56b836b5.jpg",
+        "https://telegra.ph/file/3fb1665dc31c18adec0f1.jpg",
+        "https://telegra.ph/file/c809904d09b4d45aa82a7.jpg",
+        "https://telegra.ph/file/b44c8a3fa42e1dad3c82b.jpg",
+        "https://telegra.ph/file/5f536d1527f084e6d592d.jpg",
+        "https://telegra.ph/file/a80061c49f45301210b0a.jpg",
+        "https://telegra.ph/file/d1a4b13c6267770d9ef9e.jpg",
+        "https://telegra.ph/file/bd5c953f2faa897b87379.jpg",
+        "https://telegra.ph/file/71dfb9dfa1c4e6ceae22f.jpg",
+        "https://telegra.ph/file/54d1dc3fcdb03d12dfd17.jpg",
+        "https://telegra.ph/file/35f3e8df8eb6d2b5ddff1.jpg",
+        "https://telegra.ph/file/36b8f2260e89e27f4ea8c.jpg",
+        "https://telegra.ph/file/f3330b0d02a07026049c9.jpg",
+        "https://telegra.ph/file/f5028cf437522df5a6bf3.jpg",
+        "https://telegra.ph/file/70ff2222b4e5e73f13821.jpg",
+        "https://telegra.ph/file/ac9c1ac06f8b7dfe045d0.jpg",
+        "https://telegra.ph/file/80aa6e8e5b428236b6bab.jpg",
+        "https://telegra.ph/file/91f901bc2af85dabb6116.jpg",
+        "https://telegra.ph/file/4315fee1ec2b90cc96bff.jpg",
+        "https://telegra.ph/file/03edde5edc23bf65851db.jpg",
+        "https://telegra.ph/file/5a293e73a6d74b8cb2ee3.jpg",
+        "https://telegra.ph/file/c11271799c9c11478816d.jpg",
+        "https://telegra.ph/file/feb0740519ecf4acdb2e2.jpg",
+        "https://telegra.ph/file/29799d1089ef2ddfe4ee4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

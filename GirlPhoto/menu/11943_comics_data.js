@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11943,
+    "title": "雪晴Astra - 碧蓝航线",
+    "sourceUrl": "https://telegra.ph/雪晴Astra---碧蓝航线-08-27",
+    "images": [
+        "https://telegra.ph/file/000d83a486ddffe3e3e56.jpg",
+        "https://telegra.ph/file/618c5f4fbbd70c2528a4e.jpg",
+        "https://telegra.ph/file/42aaf4713db6c57edae2e.jpg",
+        "https://telegra.ph/file/7e2c29eb0f1e69bddce64.jpg",
+        "https://telegra.ph/file/58e323c2ba3ff1c91a52d.jpg",
+        "https://telegra.ph/file/86f523c6051f9cd7c3e38.jpg",
+        "https://telegra.ph/file/04ca72a5b0caffcfe74b6.jpg",
+        "https://telegra.ph/file/1e7310fbab3e62fbdd967.jpg",
+        "https://telegra.ph/file/c58303b40242a14ca5101.jpg",
+        "https://telegra.ph/file/6514146cbb38e27e21bce.jpg",
+        "https://telegra.ph/file/bd979188504d1bf68cd1a.jpg",
+        "https://telegra.ph/file/7646e702e5d00fe056cc9.jpg",
+        "https://telegra.ph/file/6d35cd74c71924954fda8.jpg",
+        "https://telegra.ph/file/d6b8efe8664deb5159676.jpg",
+        "https://telegra.ph/file/a7353d8e379d76e19bd5e.jpg",
+        "https://telegra.ph/file/781171ba236ce22a9fb0d.jpg",
+        "https://telegra.ph/file/4a895151765e05e4bf654.jpg",
+        "https://telegra.ph/file/9e110db35f5349d2279c2.jpg",
+        "https://telegra.ph/file/0cfa202ba0a24501497cf.jpg",
+        "https://telegra.ph/file/98e27a07851f8dd8ec4b0.jpg",
+        "https://telegra.ph/file/96ac05db7d2b65bb5f35f.jpg",
+        "https://telegra.ph/file/93db72dd76852ab04bc0c.jpg",
+        "https://telegra.ph/file/cd2bb114abc3890709622.jpg",
+        "https://telegra.ph/file/9c404afee3b0a01cd9698.jpg",
+        "https://telegra.ph/file/05c1f3af0dc9e7971e0b1.jpg",
+        "https://telegra.ph/file/23ed794ac81ce97fb4dfb.jpg",
+        "https://telegra.ph/file/fe93b8c58c0c1485472cc.jpg",
+        "https://telegra.ph/file/24497c1ae002e7f30897b.jpg",
+        "https://telegra.ph/file/8c517b8c56e9b59761be5.jpg",
+        "https://telegra.ph/file/df30b58dabb023732a8a6.jpg",
+        "https://telegra.ph/file/0cd6b11d8170d8028f48e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

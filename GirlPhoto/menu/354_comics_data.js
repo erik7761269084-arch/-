@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 354,
+    "title": "Byoru - Anubis 阿努比斯",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉-Byoru---Anubis-阿努比斯-08-26",
+    "images": [
+        "https://telegra.ph/file/69776fe99ccd94501b74b.jpg",
+        "https://telegra.ph/file/7d5da82cbd15a4d77e4b8.jpg",
+        "https://telegra.ph/file/1334199d92b388229efbd.jpg",
+        "https://telegra.ph/file/fe22a415e8b7bf5de7f6b.jpg",
+        "https://telegra.ph/file/3928eba1fc13cbf0433a2.jpg",
+        "https://telegra.ph/file/d86053c28aa342482891d.jpg",
+        "https://telegra.ph/file/a62158eb3ce47deab5b4d.jpg",
+        "https://telegra.ph/file/c65968c2a00396f788c0d.jpg",
+        "https://telegra.ph/file/ab07a72e12aeae25c5ab2.jpg",
+        "https://telegra.ph/file/cf33ea4d32ee1800daa91.jpg",
+        "https://telegra.ph/file/24b2dd715d913ed996fc6.jpg",
+        "https://telegra.ph/file/deda0f9a191cffd9bb87d.jpg",
+        "https://telegra.ph/file/c2f5706723875593d7ea3.jpg",
+        "https://telegra.ph/file/d5af2542d5e7bd5c65105.jpg",
+        "https://telegra.ph/file/27fdf5a3442e0334ce750.jpg",
+        "https://telegra.ph/file/0ab7ddc96147264f6dcaa.jpg",
+        "https://telegra.ph/file/a1ba5397c67bac27952fd.jpg",
+        "https://telegra.ph/file/3c9d943966fc0e855be14.jpg",
+        "https://telegra.ph/file/4d21f645b01697a8551eb.jpg",
+        "https://telegra.ph/file/73c3187b53a209d918d9b.jpg",
+        "https://telegra.ph/file/d20469bf59449634a8342.jpg",
+        "https://telegra.ph/file/b3de8fcd41389ca03955f.jpg",
+        "https://telegra.ph/file/407b70d09ec6bf7e4e69a.jpg",
+        "https://telegra.ph/file/b7946d71497416a4dc540.jpg",
+        "https://telegra.ph/file/62847e810a77f09707750.jpg",
+        "https://telegra.ph/file/ae1ea6ec76a35af31f186.jpg",
+        "https://telegra.ph/file/6425d2a6ad8eb909aa286.jpg",
+        "https://telegra.ph/file/66179aa80c9a1ac6391c7.jpg",
+        "https://telegra.ph/file/6126e7f2cd3fe0b53e942.jpg",
+        "https://telegra.ph/file/32d3426b57711e26285f5.jpg",
+        "https://telegra.ph/file/7c893f6edc67864c041d1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

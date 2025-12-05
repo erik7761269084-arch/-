@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12417,
+    "title": "一小央泽 圣诞鹿",
+    "sourceUrl": "https://telegra.ph/一小央泽-圣诞鹿-08-30",
+    "images": [
+        "https://telegra.ph/file/a72bd0527c245f85b8a2e.jpg",
+        "https://telegra.ph/file/ffa7ea5e5536455006910.jpg",
+        "https://telegra.ph/file/a48efbcf5b2718287e3de.jpg",
+        "https://telegra.ph/file/11d3a7df931c54ad2e0cc.jpg",
+        "https://telegra.ph/file/448cdff2da208720b913a.jpg",
+        "https://telegra.ph/file/0643ecba02df6c378d658.jpg",
+        "https://telegra.ph/file/f2cb385a5a2237210280d.jpg",
+        "https://telegra.ph/file/78f82886699034b6d678f.jpg",
+        "https://telegra.ph/file/179ca7faf4b97c75c7bd4.jpg",
+        "https://telegra.ph/file/8ec60462bcfeb991bfea3.jpg",
+        "https://telegra.ph/file/e89f15056334cfe42fe40.jpg",
+        "https://telegra.ph/file/a9b8c7f5c0b78c37efc6a.jpg",
+        "https://telegra.ph/file/5178d8df66b869ae8f46c.jpg",
+        "https://telegra.ph/file/cbdfce9f813ded0979970.jpg",
+        "https://telegra.ph/file/67b6b33cc61f09e07a477.jpg",
+        "https://telegra.ph/file/5d0311a7d939d673c07d1.jpg",
+        "https://telegra.ph/file/9c7e4e097eab3094acfbb.jpg",
+        "https://telegra.ph/file/a689723870460e2592007.jpg",
+        "https://telegra.ph/file/a8907daf8db765499430c.jpg",
+        "https://telegra.ph/file/2b38fa0e6717d2a37993b.jpg",
+        "https://telegra.ph/file/e5455c2227ef7ce60c8df.jpg",
+        "https://telegra.ph/file/242018d78254c371b5011.jpg",
+        "https://telegra.ph/file/ba3f10f48bb20c7007428.jpg",
+        "https://telegra.ph/file/6e2dcf4e00c33542341e2.jpg",
+        "https://telegra.ph/file/09d87c5ee4286264792f6.jpg",
+        "https://telegra.ph/file/2a56e6fb5972d62b13ce2.jpg",
+        "https://telegra.ph/file/785bd9fc23aada5174ca6.jpg",
+        "https://telegra.ph/file/1c9a3a336e9710ca96ff6.jpg",
+        "https://telegra.ph/file/64194b9f71427f52d6e21.jpg",
+        "https://telegra.ph/file/ee0de81dc94eabdb7f0ed.jpg",
+        "https://telegra.ph/file/90fd9dcb8e9ec786d9bfe.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13046,
+    "title": "尤猫醒醒 - NO.06 女警 [30P2V-169MB]",
+    "sourceUrl": "https://telegra.ph/尤猫醒醒---NO06-女警-30P2V-169MB-08-26",
+    "images": [
+        "https://telegra.ph/file/59bd871d5183c2918e8d6.jpg",
+        "https://telegra.ph/file/b96fd38af9215f1c075af.jpg",
+        "https://telegra.ph/file/4eae82823624d22a1f005.jpg",
+        "https://telegra.ph/file/528475e3ba70a69e2e2ba.jpg",
+        "https://telegra.ph/file/66bfd0c900398d4ba045b.jpg",
+        "https://telegra.ph/file/b28762f372c5eaadcf181.jpg",
+        "https://telegra.ph/file/eddfc2ff0c5f45c80c691.jpg",
+        "https://telegra.ph/file/cea6fd0abd7a83a18d0b2.jpg",
+        "https://telegra.ph/file/875602e4254a88f322ce3.jpg",
+        "https://telegra.ph/file/0f2b9e43208567fe360c1.jpg",
+        "https://telegra.ph/file/31c5894749ad8711f875f.jpg",
+        "https://telegra.ph/file/aa76092de451a93cd856c.jpg",
+        "https://telegra.ph/file/c815618a040ecacbbc2e0.jpg",
+        "https://telegra.ph/file/7f6b082b13f0e51a65c32.jpg",
+        "https://telegra.ph/file/25ae420c28867f6e310d9.jpg",
+        "https://telegra.ph/file/b4eea44a3dda6dcc11967.jpg",
+        "https://telegra.ph/file/42f3252c868215a9d7d80.jpg",
+        "https://telegra.ph/file/8d867175a11b1097a1e4a.jpg",
+        "https://telegra.ph/file/9261e9ead2f011c6d39ce.jpg",
+        "https://telegra.ph/file/fd5087213469b4bb01364.jpg",
+        "https://telegra.ph/file/d4a02370cba54942cd20d.jpg",
+        "https://telegra.ph/file/483f1594b6571470ac46a.jpg",
+        "https://telegra.ph/file/fda4e3c2fabafdf2aa4cd.jpg",
+        "https://telegra.ph/file/682855cdf979f5446c099.jpg",
+        "https://telegra.ph/file/061cc7a07fa8ae419c980.jpg",
+        "https://telegra.ph/file/1d42e077da458d403b7fc.jpg",
+        "https://telegra.ph/file/392ccdea9a128d7287d2e.jpg",
+        "https://telegra.ph/file/30e49ac4a18bd3190cc5b.jpg",
+        "https://telegra.ph/file/0faf489303ba9083e5828.jpg",
+        "https://telegra.ph/file/69a7f00c6bfa2131fbd3f.jpg",
+        "https://telegra.ph/file/9ef66bae0d7de72db4daf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7598,
+    "title": "木绵绵OwO - 蕾姆泳装+兔女郎",
+    "sourceUrl": "https://telegra.ph/木绵绵OwO---蕾姆泳装兔女郎-08-27",
+    "images": [
+        "https://telegra.ph/file/d6ebb6055c23cc09014d3.jpg",
+        "https://telegra.ph/file/acd1edb392b99a4593094.jpg",
+        "https://telegra.ph/file/44a884d461b826b6d2ee9.jpg",
+        "https://telegra.ph/file/eedc9e8dabc5aad85be4f.jpg",
+        "https://telegra.ph/file/2fd67b5e07bfb8376d868.jpg",
+        "https://telegra.ph/file/3dee7b6a6bc846c4f0335.jpg",
+        "https://telegra.ph/file/5da3aead7fc6d6ecafdfe.jpg",
+        "https://telegra.ph/file/5384bd6040d271c535f71.jpg",
+        "https://telegra.ph/file/7e9f2721ca9f8ddd66391.jpg",
+        "https://telegra.ph/file/e192589a377471b7581eb.jpg",
+        "https://telegra.ph/file/85539b5de8e561a677549.jpg",
+        "https://telegra.ph/file/f2128f4d28179950cdcef.jpg",
+        "https://telegra.ph/file/d62c1b7e27e0c4af91bf6.jpg",
+        "https://telegra.ph/file/f182d33a57b42dc09ff19.jpg",
+        "https://telegra.ph/file/79896b4cbcb55b938b923.jpg",
+        "https://telegra.ph/file/e7bd6bd3ccf80148985d5.jpg",
+        "https://telegra.ph/file/c8bddb80d1d293a25f30d.jpg",
+        "https://telegra.ph/file/3545bbf6162d8cabf5eff.jpg",
+        "https://telegra.ph/file/2efcc2109a0dd00b8f245.jpg",
+        "https://telegra.ph/file/75982eccb94d0dbde568b.jpg",
+        "https://telegra.ph/file/1a340bff36b297b366c27.jpg",
+        "https://telegra.ph/file/a3d93a5067b404994c820.jpg",
+        "https://telegra.ph/file/dbb80eadfcc3bbcbef34d.jpg",
+        "https://telegra.ph/file/c21f2cc3b2a1127247d07.jpg",
+        "https://telegra.ph/file/6ba70702f3d961f28e211.jpg",
+        "https://telegra.ph/file/4a11303a7038fea190039.jpg",
+        "https://telegra.ph/file/1f672bca623969aa8ad10.jpg",
+        "https://telegra.ph/file/660052acbe7e99d6e4be3.jpg",
+        "https://telegra.ph/file/dc35b532f055413266066.jpg",
+        "https://telegra.ph/file/2ff67a7e260a5d1025b78.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

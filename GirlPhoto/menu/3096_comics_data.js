@@ -1,0 +1,35 @@
+const comicData = {
+    "IDcode": 3096,
+    "title": "安食Ajiki 修女 [25P-0.98GB]",
+    "sourceUrl": "https://telegra.ph/安食Ajiki-修女-25P-098GB-08-25",
+    "images": [
+        "https://telegra.ph/file/280a94416ba84a08c193c.jpg",
+        "https://telegra.ph/file/b7b5e3969bf9d17a1636d.jpg",
+        "https://telegra.ph/file/e9717d0443bd095bcd29b.jpg",
+        "https://telegra.ph/file/96255182c8956c281216e.jpg",
+        "https://telegra.ph/file/af83515cebc4e0b89090a.jpg",
+        "https://telegra.ph/file/4fd43c02e71524683f1a0.jpg",
+        "https://telegra.ph/file/4a4674ae727e8d94837e6.jpg",
+        "https://telegra.ph/file/d52154cdc715e76814f2b.jpg",
+        "https://telegra.ph/file/b57d014aade2c14287a5b.jpg",
+        "https://telegra.ph/file/2bdd51d037e833b530646.jpg",
+        "https://telegra.ph/file/438a73b1234cc936fab58.jpg",
+        "https://telegra.ph/file/ae1e26e6355f3ff841478.jpg",
+        "https://telegra.ph/file/cc78e25c34e8b46c97bc2.jpg",
+        "https://telegra.ph/file/386e0fd1d70e11e7d9739.jpg",
+        "https://telegra.ph/file/8a75f8ee8e6b1f3ef7c15.jpg",
+        "https://telegra.ph/file/4711f256d93fae521eeba.jpg",
+        "https://telegra.ph/file/56d711953461ad170ff8b.jpg",
+        "https://telegra.ph/file/cc205f333bce904781c4a.jpg",
+        "https://telegra.ph/file/6f1411595c9d9e083ab7e.jpg",
+        "https://telegra.ph/file/fb87f85ad85e9e3fc0a6a.jpg",
+        "https://telegra.ph/file/f6af6b2733d22a9543e05.jpg",
+        "https://telegra.ph/file/8317ea1a451293adb1541.jpg",
+        "https://telegra.ph/file/1e6b13782037eb00e0ca4.jpg",
+        "https://telegra.ph/file/293b53c1f3e890da14eb1.jpg",
+        "https://telegra.ph/file/0b819b10a200850d950bb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

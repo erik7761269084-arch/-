@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7726,
+    "title": "萌妹奈汐酱nice - 秘",
+    "sourceUrl": "https://telegra.ph/萌妹奈汐酱nice---秘-08-27",
+    "images": [
+        "https://telegra.ph/file/0655dd0a17c63d249f139.jpg",
+        "https://telegra.ph/file/bb95b0578b59f2000bc2b.jpg",
+        "https://telegra.ph/file/dded67d3479025ba74bc0.jpg",
+        "https://telegra.ph/file/5216ee353027aa0da5213.jpg",
+        "https://telegra.ph/file/6d233db3be529c2871dac.jpg",
+        "https://telegra.ph/file/6b474d288a42d222c3e08.jpg",
+        "https://telegra.ph/file/3a2cfaad6cb4a4432b33d.jpg",
+        "https://telegra.ph/file/a618bd9e849e9c4251868.jpg",
+        "https://telegra.ph/file/3d3ddc9e649803264d413.jpg",
+        "https://telegra.ph/file/390dad85cfa160eef0db0.jpg",
+        "https://telegra.ph/file/a35859ca7c7777b306a95.jpg",
+        "https://telegra.ph/file/f146d1fe04b6816612310.jpg",
+        "https://telegra.ph/file/24ffdcd36d224c0893a29.jpg",
+        "https://telegra.ph/file/21ef4421ccd3ab058b4f6.jpg",
+        "https://telegra.ph/file/ae2528a9137173c105d67.jpg",
+        "https://telegra.ph/file/e1e3cc499dd8386df4322.jpg",
+        "https://telegra.ph/file/92cb2c16e6bfb43570de6.jpg",
+        "https://telegra.ph/file/173b254969f8018e134f3.jpg",
+        "https://telegra.ph/file/cbe3faa5d2e6dd707d541.jpg",
+        "https://telegra.ph/file/fd506e088ec342046140d.jpg",
+        "https://telegra.ph/file/e6afde38d283d4b28ef7b.jpg",
+        "https://telegra.ph/file/89a03d82c8f977e4fe435.jpg",
+        "https://telegra.ph/file/2b6f6254937c03f860161.jpg",
+        "https://telegra.ph/file/3bcdc9d9edabae6f4ab04.jpg",
+        "https://telegra.ph/file/07f8b6d245295efd12825.jpg",
+        "https://telegra.ph/file/a04bc5deb19575984b1c1.jpg",
+        "https://telegra.ph/file/6b918b6eb0b1b2c5cdbe8.jpg",
+        "https://telegra.ph/file/72404f860f87bcb61f839.jpg",
+        "https://telegra.ph/file/00d910ea8a868908a69df.jpg",
+        "https://telegra.ph/file/91adb472efe9801a50e10.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

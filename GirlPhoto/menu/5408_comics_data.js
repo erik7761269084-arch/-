@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5408,
+    "title": "斗鱼米线线sama写真 魔鬼",
+    "sourceUrl": "https://telegra.ph/斗鱼米线线sama写真-魔鬼-08-27",
+    "images": [
+        "https://telegra.ph/file/704eabd52533aacbe2c5d.jpg",
+        "https://telegra.ph/file/aac466b82a0f561a67d4c.jpg",
+        "https://telegra.ph/file/33c78e3778a79f1d4b658.jpg",
+        "https://telegra.ph/file/8e206da69ba560fc8813f.jpg",
+        "https://telegra.ph/file/0a29e42b3c9627f006442.jpg",
+        "https://telegra.ph/file/7d26f1719c2ed8a23351d.jpg",
+        "https://telegra.ph/file/fdcd15e204fe4318a4245.jpg",
+        "https://telegra.ph/file/c1ddc172a6dba563bb251.jpg",
+        "https://telegra.ph/file/6ff9f4930d553c69f0a9c.jpg",
+        "https://telegra.ph/file/a31fc1393e7b3a10e6ff3.jpg",
+        "https://telegra.ph/file/b97146fd516f75f106702.jpg",
+        "https://telegra.ph/file/3977a5a1c44074ad7d02c.jpg",
+        "https://telegra.ph/file/581eb2e6c9a8b29749907.jpg",
+        "https://telegra.ph/file/764183c87ca0d5402b637.jpg",
+        "https://telegra.ph/file/5d37bdabdecafce095c9e.jpg",
+        "https://telegra.ph/file/fe765259ec219f02208c5.jpg",
+        "https://telegra.ph/file/4c2417e6abc704fd6d647.jpg",
+        "https://telegra.ph/file/55f9958767c50bbecf0fe.jpg",
+        "https://telegra.ph/file/0f4c55d51cc4da99a68fe.jpg",
+        "https://telegra.ph/file/749db4696ab7249193a56.jpg",
+        "https://telegra.ph/file/faca51978481f4470670e.jpg",
+        "https://telegra.ph/file/2828a900af779c54666fa.jpg",
+        "https://telegra.ph/file/8d14d46d7c2a1987b58c3.jpg",
+        "https://telegra.ph/file/d32aecdc08ce8e8511a30.jpg",
+        "https://telegra.ph/file/96bede146df18a4f4838a.jpg",
+        "https://telegra.ph/file/0356165c5f409c5f43d7c.jpg",
+        "https://telegra.ph/file/78708d4b1d4c34d06bcf1.jpg",
+        "https://telegra.ph/file/df46374644ab84709a2e9.jpg",
+        "https://telegra.ph/file/739326941173f8a204942.jpg",
+        "https://telegra.ph/file/48687fd329627a2799840.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

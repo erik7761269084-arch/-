@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5801,
+    "title": "比奇堡黄塞方块 甘雨玉桂狗",
+    "sourceUrl": "https://telegra.ph/%E6%AF%94%E5%A5%87%E5%A0%A1%E9%BB%84%E5%A1%9E%E6%96%B9%E5%9D%97-%E7%94%98%E9%9B%A8%E7%8E%89%E6%A1%82%E7%8B%97-08-21",
+    "images": [
+        "https://telegra.ph/file/4a8e0c5a8ffab3bbee492.jpg",
+        "https://telegra.ph/file/c65c6e015bd02738fcc14.jpg",
+        "https://telegra.ph/file/0a101b21fb36f31b7cd55.jpg",
+        "https://telegra.ph/file/9d5ec3706b92c5b0f4b8e.jpg",
+        "https://telegra.ph/file/08d7e8fe51079af07f182.jpg",
+        "https://telegra.ph/file/74ed7c61fb564ce15a834.jpg",
+        "https://telegra.ph/file/197923223dfc9e0721664.jpg",
+        "https://telegra.ph/file/04d359d2b3ffcd538b5b2.jpg",
+        "https://telegra.ph/file/8363cf76098d84cc7227a.jpg",
+        "https://telegra.ph/file/50d47aaf1abee5786959f.jpg",
+        "https://telegra.ph/file/3be3c61eed2e3c1bb9775.jpg",
+        "https://telegra.ph/file/98e2fa70a57d5bd123938.jpg",
+        "https://telegra.ph/file/2ceda7fac0b42b1d338f4.jpg",
+        "https://telegra.ph/file/faadecc07b6e96b198ee6.jpg",
+        "https://telegra.ph/file/d6a47595a13efdf31cc9e.jpg",
+        "https://telegra.ph/file/65949a02eeb0b14bd193d.jpg",
+        "https://telegra.ph/file/61c5de91fa35d7379ed25.jpg",
+        "https://telegra.ph/file/6279fb338582c5728e9a6.jpg",
+        "https://telegra.ph/file/c3a85eb7747d4c3cacd70.jpg",
+        "https://telegra.ph/file/1365599932099ba05ff8b.jpg",
+        "https://telegra.ph/file/12ed7745ab9a1fe2944d1.jpg",
+        "https://telegra.ph/file/254ccad888986c32d66ec.jpg",
+        "https://telegra.ph/file/2f954162d1edc4be5407d.jpg",
+        "https://telegra.ph/file/11dbd682e93280fd3006f.jpg",
+        "https://telegra.ph/file/8a896fe8af6a99c1407ca.jpg",
+        "https://telegra.ph/file/9a758a1b3f7773026bb7c.jpg",
+        "https://telegra.ph/file/a2022c066fcb844ca3ea4.jpg",
+        "https://telegra.ph/file/2ea12a7b651ed7781e796.jpg",
+        "https://telegra.ph/file/f5a34be86ce44b05443ca.jpg",
+        "https://telegra.ph/file/dc6225fce5ce7c190c3c5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

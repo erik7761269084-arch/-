@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6943,
+    "title": "萌芽儿o0 - 爱宕泳装",
+    "sourceUrl": "https://telegra.ph/萌芽儿o0---爱宕泳装-08-27",
+    "images": [
+        "https://telegra.ph/file/569a86cea58ffdfa61039.jpg",
+        "https://telegra.ph/file/255a5b64ba67d31186b87.jpg",
+        "https://telegra.ph/file/cfc0c0d0b673877a66def.jpg",
+        "https://telegra.ph/file/a9e6c97a4dbf18b1d0c3b.jpg",
+        "https://telegra.ph/file/cf216a6dddf83553e0f04.jpg",
+        "https://telegra.ph/file/5623b06ae9e5fe4f77b6d.jpg",
+        "https://telegra.ph/file/1a4481e2f86dece7aeb26.jpg",
+        "https://telegra.ph/file/6c0f61f62f634929620d0.jpg",
+        "https://telegra.ph/file/fb7d0cc09c9c5b66a8531.jpg",
+        "https://telegra.ph/file/98a53621d11202fcda101.jpg",
+        "https://telegra.ph/file/eafc37b82f2d15dd5c7b5.jpg",
+        "https://telegra.ph/file/28f697c29eb0ba6de175b.jpg",
+        "https://telegra.ph/file/9255b570b29c9582f40ac.jpg",
+        "https://telegra.ph/file/a735e5e2ed55230833c2b.jpg",
+        "https://telegra.ph/file/e59f5e1e5cfd2ce12e387.jpg",
+        "https://telegra.ph/file/3fe71edff4f76778008c5.jpg",
+        "https://telegra.ph/file/1d71d1b43f8de157d887a.jpg",
+        "https://telegra.ph/file/d8caddcde8c6293d31297.jpg",
+        "https://telegra.ph/file/0acef6976dbc18df6cd4a.jpg",
+        "https://telegra.ph/file/c2ea0624f228d1947df96.jpg",
+        "https://telegra.ph/file/90f4cca354c26447c7d6d.jpg",
+        "https://telegra.ph/file/5e24e18df645a59f28e98.jpg",
+        "https://telegra.ph/file/9552f04f1e90fcb7fee10.jpg",
+        "https://telegra.ph/file/194456ecaae5ed8de1fea.jpg",
+        "https://telegra.ph/file/d8fa43b66f9023bf3c8d9.jpg",
+        "https://telegra.ph/file/264bca29e802a71a135c0.jpg",
+        "https://telegra.ph/file/c82a5f09ebe2043a96427.jpg",
+        "https://telegra.ph/file/be0dd363d90ffb56d9c4d.jpg",
+        "https://telegra.ph/file/b658537ad5b32ac9763e2.jpg",
+        "https://telegra.ph/file/3b04a543348bc2e819ea6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

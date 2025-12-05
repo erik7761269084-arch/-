@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6913,
+    "title": "焖焖碳 - 独角兽和服",
+    "sourceUrl": "https://telegra.ph/焖焖碳---独角兽和服-08-27",
+    "images": [
+        "https://telegra.ph/file/9cef588acabce6caf203a.jpg",
+        "https://telegra.ph/file/7a7e8c9c57140c0ba62a4.jpg",
+        "https://telegra.ph/file/80f234dab90b956bca3de.jpg",
+        "https://telegra.ph/file/c85ddc9422f024dba5878.jpg",
+        "https://telegra.ph/file/76088119facf22a0f9eb4.jpg",
+        "https://telegra.ph/file/acbc3e12fbd4011add63c.jpg",
+        "https://telegra.ph/file/f087e9f9f65093d610af0.jpg",
+        "https://telegra.ph/file/b5ab882cfc7bbf9425ff5.jpg",
+        "https://telegra.ph/file/9f5aebf173e3b13eef295.jpg",
+        "https://telegra.ph/file/26634156700d22d96c2d9.jpg",
+        "https://telegra.ph/file/529fef7927ddd251d75e4.jpg",
+        "https://telegra.ph/file/7c0d04093ecfc18fb4291.jpg",
+        "https://telegra.ph/file/b7817db1aa3cc8857fdad.jpg",
+        "https://telegra.ph/file/9082b041ec274da51b6f6.jpg",
+        "https://telegra.ph/file/c9536c38b27cbb62ce1c7.jpg",
+        "https://telegra.ph/file/208759ec965172acc0835.jpg",
+        "https://telegra.ph/file/fe21e748f46958692ab78.jpg",
+        "https://telegra.ph/file/fe88d6007dbfb777d13b3.jpg",
+        "https://telegra.ph/file/a6bc99f29931c98bf1173.jpg",
+        "https://telegra.ph/file/b5253c7ea1ba71e1d88e7.jpg",
+        "https://telegra.ph/file/744a9404eac59fb6252b3.jpg",
+        "https://telegra.ph/file/291f38bcee53600f285a6.jpg",
+        "https://telegra.ph/file/84ac813c5a0f053b78d95.jpg",
+        "https://telegra.ph/file/039a36ef266a64d2c84de.jpg",
+        "https://telegra.ph/file/44636cd0d4688bec4b9b4.jpg",
+        "https://telegra.ph/file/8cd71f3f7d101565945dc.jpg",
+        "https://telegra.ph/file/a06e66efa6f08709ccb04.jpg",
+        "https://telegra.ph/file/e73f00459557820e7bab5.jpg",
+        "https://telegra.ph/file/c37dce85e434ad71fdce1.jpg",
+        "https://telegra.ph/file/4badc7834d2cb55c7093c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

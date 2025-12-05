@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5376,
+    "title": "斗鱼米线线sama写真 - 救赎",
+    "sourceUrl": "https://telegra.ph/斗鱼米线线sama写真---救赎-08-27",
+    "images": [
+        "https://telegra.ph/file/342bc5f9b10811f75049a.jpg",
+        "https://telegra.ph/file/0c6a127667848b260f092.jpg",
+        "https://telegra.ph/file/1905ea43fbd11157b4a15.jpg",
+        "https://telegra.ph/file/9d747a80eeb0de91f4aba.jpg",
+        "https://telegra.ph/file/6a50493932f368f45d870.jpg",
+        "https://telegra.ph/file/6fb76729b0a683473ec7d.jpg",
+        "https://telegra.ph/file/10c3ba86de9b8ee35981a.jpg",
+        "https://telegra.ph/file/d7374aaaf5c9f39079367.jpg",
+        "https://telegra.ph/file/c45dbd49269fb3a7b007a.jpg",
+        "https://telegra.ph/file/a717459428175cb98a81c.jpg",
+        "https://telegra.ph/file/b0fc3444b9406e37d23c9.jpg",
+        "https://telegra.ph/file/fef029b01371bd999ec43.jpg",
+        "https://telegra.ph/file/e7ab82b97e699297d5dde.jpg",
+        "https://telegra.ph/file/71089d2919f335e6b33d1.jpg",
+        "https://telegra.ph/file/cbdd3a13e5f4107f850cd.jpg",
+        "https://telegra.ph/file/6c0a9dd5373deb38f9755.jpg",
+        "https://telegra.ph/file/a7936caf55a2bbb2ebec0.jpg",
+        "https://telegra.ph/file/17e04df778d077ca2f02c.jpg",
+        "https://telegra.ph/file/151b2f357abfbc562a81f.jpg",
+        "https://telegra.ph/file/3387b5e3d81fe5bca4fb4.jpg",
+        "https://telegra.ph/file/e98317ea3b0ab0fce9e09.jpg",
+        "https://telegra.ph/file/8c323ee67e63f3dacd047.jpg",
+        "https://telegra.ph/file/c46e2d6cb0d819722d551.jpg",
+        "https://telegra.ph/file/5e81c30be3ff3a4d7b0a9.jpg",
+        "https://telegra.ph/file/37c0bcf0187af90006d4a.jpg",
+        "https://telegra.ph/file/a10743bf566c929218d06.jpg",
+        "https://telegra.ph/file/1c37777a5fe45ebcae8f2.jpg",
+        "https://telegra.ph/file/828158abea61a0bdd569e.jpg",
+        "https://telegra.ph/file/c2afc3b4bde74e13fa176.jpg",
+        "https://telegra.ph/file/684eb6d0e5bc6b1047e38.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

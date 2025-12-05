@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 3743,
+    "title": "沖田凜花Rinka - Kanao Tsuyuri",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---Kanao-Tsuyuri-08-27",
+    "images": [
+        "https://telegra.ph/file/2f9426f7a1673acb289cd.jpg",
+        "https://telegra.ph/file/67be62414ff3f7f1128a4.jpg",
+        "https://telegra.ph/file/e5a71ab926fb05e9a5460.jpg",
+        "https://telegra.ph/file/7c5ce8520b547ab8fd019.jpg",
+        "https://telegra.ph/file/507ddcec6b3d8b7704864.jpg",
+        "https://telegra.ph/file/d0cb85e62b6d1621b5c98.jpg",
+        "https://telegra.ph/file/c2104d8543c3079b53033.jpg",
+        "https://telegra.ph/file/e934164f18f2407800e86.jpg",
+        "https://telegra.ph/file/f2e8cda85b463a972f144.jpg",
+        "https://telegra.ph/file/f6ed69a290851d28ef79d.jpg",
+        "https://telegra.ph/file/095e768f0c3e2041879b1.jpg",
+        "https://telegra.ph/file/54d0d4ffca23fa4209446.jpg",
+        "https://telegra.ph/file/f6d9d2cd682d1f9fec948.jpg",
+        "https://telegra.ph/file/a9881ef4495bcba78e410.jpg",
+        "https://telegra.ph/file/6e648c64021e3687090e6.jpg",
+        "https://telegra.ph/file/a2d61e0ec2ef5d69b12b3.jpg",
+        "https://telegra.ph/file/4c793b2a5a7d8a1c54be0.jpg",
+        "https://telegra.ph/file/ceb918f9585533feeccf6.jpg",
+        "https://telegra.ph/file/12321e014bd416a864706.jpg",
+        "https://telegra.ph/file/6ed262dda56dfd394be7f.jpg",
+        "https://telegra.ph/file/ae7ec84d2898fd163e56a.jpg",
+        "https://telegra.ph/file/f0ce8479a9627099577d5.jpg",
+        "https://telegra.ph/file/f71c288fa409938b10a12.jpg",
+        "https://telegra.ph/file/fda2bfef953bc4ad45210.jpg",
+        "https://telegra.ph/file/fc83a89b2aa3fbcc96a9d.jpg",
+        "https://telegra.ph/file/2e9f10be4b2e10ccb9eea.jpg",
+        "https://telegra.ph/file/cd6394d63d6878243d279.jpg",
+        "https://telegra.ph/file/1cbcc5723b69e80b0aa08.jpg",
+        "https://telegra.ph/file/4e488db169d831991a428.jpg",
+        "https://telegra.ph/file/f8435adcbbf4b88392adf.jpg",
+        "https://telegra.ph/file/b2ea2b68ad284ef2d7200.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

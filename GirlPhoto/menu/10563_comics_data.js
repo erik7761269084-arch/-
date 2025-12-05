@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10563,
+    "title": "西园寺南歌 - 白猫白色连体衣",
+    "sourceUrl": "https://telegra.ph/西园寺南歌---白猫白色连体衣-08-28",
+    "images": [
+        "https://telegra.ph/file/98aaada4c6015cab1fe1d.jpg",
+        "https://telegra.ph/file/d29469c99848b40c7241f.jpg",
+        "https://telegra.ph/file/012b5c878d24b6780b3c6.jpg",
+        "https://telegra.ph/file/101779f9a75ddc017743e.jpg",
+        "https://telegra.ph/file/c46fe84adfb615cc47e72.jpg",
+        "https://telegra.ph/file/3d2e0a57b49fe1be69f5b.jpg",
+        "https://telegra.ph/file/0dff405be0915cb3e1874.jpg",
+        "https://telegra.ph/file/95beb2a7e662deb40668e.jpg",
+        "https://telegra.ph/file/525af9200ae20ce876c7d.jpg",
+        "https://telegra.ph/file/0bbb2cd8df69492022c41.jpg",
+        "https://telegra.ph/file/35e30e46659c3ad75d77e.jpg",
+        "https://telegra.ph/file/706e110585bb81010a4fe.jpg",
+        "https://telegra.ph/file/b06593d969fecb81f5ec2.jpg",
+        "https://telegra.ph/file/bcfcf187d03fb788c0e4b.jpg",
+        "https://telegra.ph/file/19dbda99ddfa2a3a930b6.jpg",
+        "https://telegra.ph/file/b1f8dc64d45ac70a90d20.jpg",
+        "https://telegra.ph/file/ffb882915656179164144.jpg",
+        "https://telegra.ph/file/f5171e66aef67e356f19b.jpg",
+        "https://telegra.ph/file/d89251aab1817ddcff9fb.jpg",
+        "https://telegra.ph/file/0a1b038b6ec047dcae06d.jpg",
+        "https://telegra.ph/file/ecc47849da96c6eea7dec.jpg",
+        "https://telegra.ph/file/5bb16c2888f991018bba5.jpg",
+        "https://telegra.ph/file/4d0ecc20b8314f496321c.jpg",
+        "https://telegra.ph/file/10a24aae2a27bf3434265.jpg",
+        "https://telegra.ph/file/1e613a68218fbd7c5673c.jpg",
+        "https://telegra.ph/file/08682df49fcacfdd794ee.jpg",
+        "https://telegra.ph/file/4d2a0077b52cefc80c9b4.jpg",
+        "https://telegra.ph/file/3134bb52973d4239de5ca.jpg",
+        "https://telegra.ph/file/4fb11b17ee786acd1d72f.jpg",
+        "https://telegra.ph/file/83dcb11befd8a69e9f765.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3444,
+    "title": "贝贝琪Becky 食蜂操祈兔女郎 30P",
+    "sourceUrl": "https://telegra.ph/%E8%B4%9D%E8%B4%9D%E7%90%AABecky-%E9%A3%9F%E8%9C%82%E6%93%8D%E7%A5%88%E5%85%94%E5%A5%B3%E9%83%8E-30P-08-22",
+    "images": [
+        "https://telegra.ph/file/cd1c6d38723a235204b71.jpg",
+        "https://telegra.ph/file/2d5bfa876f28dde8a2c91.jpg",
+        "https://telegra.ph/file/f8f1017fe3303f9bbad4b.jpg",
+        "https://telegra.ph/file/0c8148196e6e02ceb7d60.jpg",
+        "https://telegra.ph/file/3e2585c66950f62c743c9.jpg",
+        "https://telegra.ph/file/84ff8716f5187f7631002.jpg",
+        "https://telegra.ph/file/0a74b3dc8c84325e472c8.jpg",
+        "https://telegra.ph/file/2bd0f4c532dc27da6230b.jpg",
+        "https://telegra.ph/file/290f6d6c6e564ac098eeb.jpg",
+        "https://telegra.ph/file/9bfff0394cae5a4901039.jpg",
+        "https://telegra.ph/file/8a53c8bee23cc81592e8f.jpg",
+        "https://telegra.ph/file/cb74c25a00d590349c5e5.jpg",
+        "https://telegra.ph/file/e17ee36af9f76e3538670.jpg",
+        "https://telegra.ph/file/cf4d00778f86fd6cdfaa8.jpg",
+        "https://telegra.ph/file/d153b08c4bfdd5bb59f64.jpg",
+        "https://telegra.ph/file/03e750355f91fc672bb08.jpg",
+        "https://telegra.ph/file/dd245bd48335107f9f7f0.jpg",
+        "https://telegra.ph/file/7d050700e5c96c4eabc25.jpg",
+        "https://telegra.ph/file/0ce198b6ff7090508c433.jpg",
+        "https://telegra.ph/file/128a6abb2d8aecf2b9952.jpg",
+        "https://telegra.ph/file/c5059a55a9db36f8167d4.jpg",
+        "https://telegra.ph/file/7aaaabca9d0509e1cedb2.jpg",
+        "https://telegra.ph/file/583f23342e85f7745c49c.jpg",
+        "https://telegra.ph/file/19e549962389625b127d2.jpg",
+        "https://telegra.ph/file/9bb13c6cd9c107750edcc.jpg",
+        "https://telegra.ph/file/948284e3ffbbe0b9c86c4.jpg",
+        "https://telegra.ph/file/a6c858a87e50254bebfbf.jpg",
+        "https://telegra.ph/file/66f8cf4acb7892c36a291.jpg",
+        "https://telegra.ph/file/1ba60043094fc863373dd.jpg",
+        "https://telegra.ph/file/65f3ef65ba5b5360dfd02.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

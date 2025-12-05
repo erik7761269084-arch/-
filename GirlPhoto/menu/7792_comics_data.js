@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7792,
+    "title": "奈汐酱nice - 碎花微眠",
+    "sourceUrl": "https://telegra.ph/奈汐酱nice---碎花微眠-08-29",
+    "images": [
+        "https://telegra.ph/file/6369ea5e063ad15889403.jpg",
+        "https://telegra.ph/file/e274f77450cc1be816b76.jpg",
+        "https://telegra.ph/file/f53c7f54c0c7ce757fc5f.jpg",
+        "https://telegra.ph/file/87e8e8d32a5cb0888b1d4.jpg",
+        "https://telegra.ph/file/726a443256835a81d0c7f.jpg",
+        "https://telegra.ph/file/44ea97c3392abc3977515.jpg",
+        "https://telegra.ph/file/892eac4d03aaed62e1eaf.jpg",
+        "https://telegra.ph/file/509d5709bb0bb6aa6c318.jpg",
+        "https://telegra.ph/file/fc4ca9c454b6197906e35.jpg",
+        "https://telegra.ph/file/6770743193e57b3fd2e12.jpg",
+        "https://telegra.ph/file/00602901c4ef83c0a911e.jpg",
+        "https://telegra.ph/file/c4f01d352ed67755985b7.jpg",
+        "https://telegra.ph/file/534dc23a5a1adbf7f731a.jpg",
+        "https://telegra.ph/file/ca7b203868a7411641d48.jpg",
+        "https://telegra.ph/file/d74dce308e3527b8fc3e8.jpg",
+        "https://telegra.ph/file/4371f1660015b5425c810.jpg",
+        "https://telegra.ph/file/420137712548d3db30236.jpg",
+        "https://telegra.ph/file/574161862bb4561b8b321.jpg",
+        "https://telegra.ph/file/1e4500bd85ad09a4001c8.jpg",
+        "https://telegra.ph/file/59facdd8ea54e0bf9abab.jpg",
+        "https://telegra.ph/file/fb523e6ffc5218c41469c.jpg",
+        "https://telegra.ph/file/606eed10cbeca159ab915.jpg",
+        "https://telegra.ph/file/b1dce30e00f86afebe526.jpg",
+        "https://telegra.ph/file/e5847680fb668970a6a8e.jpg",
+        "https://telegra.ph/file/b624c44644a15090b68f1.jpg",
+        "https://telegra.ph/file/b71330ef41630b95cfd4b.jpg",
+        "https://telegra.ph/file/acd0fa04227c831250a72.jpg",
+        "https://telegra.ph/file/7897aabfecfcd01e4e9d6.jpg",
+        "https://telegra.ph/file/b432885f898f31d1b9b6c.jpg",
+        "https://telegra.ph/file/c7b533aabf7f91a17bb28.jpg",
+        "https://telegra.ph/file/246d90ed887df57509ee6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

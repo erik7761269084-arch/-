@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12029,
+    "title": "萌妹子眼酱大魔王w 爱喝可乐的OL",
+    "sourceUrl": "https://telegra.ph/萌妹子眼酱大魔王w-爱喝可乐的OL-08-27",
+    "images": [
+        "https://telegra.ph/file/86e24fbf4765922e9842d.jpg",
+        "https://telegra.ph/file/88191e246ac1280c68063.jpg",
+        "https://telegra.ph/file/20e4ec50a7cbf4047e9d9.jpg",
+        "https://telegra.ph/file/fef3bc64a12ae2d7a0770.jpg",
+        "https://telegra.ph/file/d50f5d8c7367b3f2c92e9.jpg",
+        "https://telegra.ph/file/d83fb067cb1fe9560bb0d.jpg",
+        "https://telegra.ph/file/4f2d04c11d441a6f8cee0.jpg",
+        "https://telegra.ph/file/7101f92daf077a931f10c.jpg",
+        "https://telegra.ph/file/61f0fb331217ac5bee5c1.jpg",
+        "https://telegra.ph/file/bae9449b9dc8c966e2ddb.jpg",
+        "https://telegra.ph/file/4194c793388f950f8617c.jpg",
+        "https://telegra.ph/file/03c8fbc9c7bcab1380776.jpg",
+        "https://telegra.ph/file/837a838703c8e13d85470.jpg",
+        "https://telegra.ph/file/e81b03114ca43d869e79b.jpg",
+        "https://telegra.ph/file/a7866518663885b9dae5c.jpg",
+        "https://telegra.ph/file/e58924eec20c0be94a850.jpg",
+        "https://telegra.ph/file/43fa3589c239084aa8bf4.jpg",
+        "https://telegra.ph/file/80caa7df9e61f8be4c908.jpg",
+        "https://telegra.ph/file/83b7e72063c12d1a836bf.jpg",
+        "https://telegra.ph/file/9f75af12c11150c7e47e4.jpg",
+        "https://telegra.ph/file/feac02a23e434cc4633c3.jpg",
+        "https://telegra.ph/file/3dd849c2a5a0eb21d756a.jpg",
+        "https://telegra.ph/file/5871a730bce6e372b8fb1.jpg",
+        "https://telegra.ph/file/29ba58d317a821622c1dc.jpg",
+        "https://telegra.ph/file/69ec95386185970486882.jpg",
+        "https://telegra.ph/file/752214eb6e26d497222f9.jpg",
+        "https://telegra.ph/file/4d2c82b259cf1ad8ff3e9.jpg",
+        "https://telegra.ph/file/876cfe7ff7f785d544701.jpg",
+        "https://telegra.ph/file/5c959e18d21d55d532c3a.jpg",
+        "https://telegra.ph/file/bbdfa60081665d5b9b9cf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

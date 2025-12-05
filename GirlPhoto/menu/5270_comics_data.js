@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5270,
+    "title": "果咩酱w 修狗",
+    "sourceUrl": "https://telegra.ph/果咩酱w-修狗-08-25",
+    "images": [
+        "https://telegra.ph/file/0ea506a3b92295257f8b0.png",
+        "https://telegra.ph/file/21e38edd363ccdacb0ffa.jpg",
+        "https://telegra.ph/file/da6da52a99725711fb87f.jpg",
+        "https://telegra.ph/file/0974c5db4e8274f06d018.jpg",
+        "https://telegra.ph/file/19479e4e201261e7802b0.jpg",
+        "https://telegra.ph/file/aa1818f607f46e09bfb05.jpg",
+        "https://telegra.ph/file/4168a6556898f5e45702d.jpg",
+        "https://telegra.ph/file/76e56d6058a6062bff902.jpg",
+        "https://telegra.ph/file/d68cd5d74194e509f7b4b.jpg",
+        "https://telegra.ph/file/12dd1faa750cff44e797a.jpg",
+        "https://telegra.ph/file/b4eed726ad8e292a042a1.jpg",
+        "https://telegra.ph/file/2a02b3276615cef7cd818.jpg",
+        "https://telegra.ph/file/1f8826c3a280bbd424e9a.jpg",
+        "https://telegra.ph/file/3759d37a5fc4613cec915.jpg",
+        "https://telegra.ph/file/d9432bf41a71d47493d75.jpg",
+        "https://telegra.ph/file/86c4c919d65019b1f4121.jpg",
+        "https://telegra.ph/file/220f0118741d6da837344.jpg",
+        "https://telegra.ph/file/f5a0ff6a8e6946d65631e.jpg",
+        "https://telegra.ph/file/67a5848b2b4d74debd7ed.jpg",
+        "https://telegra.ph/file/26b484b86fd31f2d0f13c.jpg",
+        "https://telegra.ph/file/f5624a1d75c019a6c24a7.jpg",
+        "https://telegra.ph/file/c0ce7e8e0dcbfb31bfacc.jpg",
+        "https://telegra.ph/file/9549227e9b06785f15910.jpg",
+        "https://telegra.ph/file/7ffb038f105afc495005b.jpg",
+        "https://telegra.ph/file/c950644883e0daa04d707.jpg",
+        "https://telegra.ph/file/6cc23a10b54bc52c37df6.jpg",
+        "https://telegra.ph/file/066276dad2083ce121f6b.jpg",
+        "https://telegra.ph/file/3ee8020dadc07626ae2d1.jpg",
+        "https://telegra.ph/file/280df7e2253172a690019.jpg",
+        "https://telegra.ph/file/91321ba4c6ff672aec9ed.jpg",
+        "https://telegra.ph/file/18027c8b399cfab2c55b0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

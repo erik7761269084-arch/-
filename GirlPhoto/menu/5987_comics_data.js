@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 5987,
+    "title": "九言 - 玉玲珑 丽娘 34p 1v",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80---%E7%8E%89%E7%8E%B2%E7%8F%91-%E4%B8%BD%E5%A8%98-34p-1v-08-20",
+    "images": [
+        "https://www.qpic.ws/images/2024/12/23/b7bwoe.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bbUA.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bfKF.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bt8B.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bZP3.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bdsT.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bTMk.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7ba77.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bxyt.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bFwV.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7b8qb.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7b0U1.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bQKD.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bX8J.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bJRu.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bLsv.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bnT8.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7b1Wc.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7b2yP.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bIHx.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7b7Up.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bWqh.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7biud.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7b9RG.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7b38O.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bRBH.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7beTz.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7blWU.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bvOC.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7boHo.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bqnQ.jpg",
+        "https://www.qpic.ws/images/2024/12/23/b7bDDA.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

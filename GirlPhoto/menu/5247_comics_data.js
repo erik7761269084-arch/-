@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5247,
+    "title": "白嫩美少女鬼畜瑶 玉玲珑",
+    "sourceUrl": "https://telegra.ph/白嫩美少女鬼畜瑶-玉玲珑-08-27",
+    "images": [
+        "https://telegra.ph/file/305baf8f9cd0f7d0d61cf.jpg",
+        "https://telegra.ph/file/4732543b5e0ff284459da.jpg",
+        "https://telegra.ph/file/58779b230c4b41a1a6d0f.jpg",
+        "https://telegra.ph/file/03f249556f55d93ae290d.jpg",
+        "https://telegra.ph/file/0c5885d280d365a80d640.jpg",
+        "https://telegra.ph/file/f4f197985a4d8756d5e8b.jpg",
+        "https://telegra.ph/file/a313e94da0faedfde3d70.jpg",
+        "https://telegra.ph/file/d1bc5a0d60eacba005915.jpg",
+        "https://telegra.ph/file/739679088c55f44d31e71.jpg",
+        "https://telegra.ph/file/d10a619b5fce1745c213c.jpg",
+        "https://telegra.ph/file/77cfb75a3dc8cf4bc0148.jpg",
+        "https://telegra.ph/file/a421d4b519bccfe4c2580.jpg",
+        "https://telegra.ph/file/9eab6fa36dd6987aa721b.jpg",
+        "https://telegra.ph/file/ec84c61ce672795f07394.jpg",
+        "https://telegra.ph/file/548fe3bcf773dc7eb4acf.jpg",
+        "https://telegra.ph/file/dbd39a512c1517f6aa12b.jpg",
+        "https://telegra.ph/file/7d6d62bbd4ad34842022e.jpg",
+        "https://telegra.ph/file/49ba9de78017681987a36.jpg",
+        "https://telegra.ph/file/743e03223df01b6a1651e.jpg",
+        "https://telegra.ph/file/7082c5801d9096eba0101.jpg",
+        "https://telegra.ph/file/ffce820621cf4ef235a1e.jpg",
+        "https://telegra.ph/file/ee757a0e22bed81855aba.jpg",
+        "https://telegra.ph/file/3ef4069d872f9adb16aaf.jpg",
+        "https://telegra.ph/file/f41a1dd4f4c9f9fdb25c1.jpg",
+        "https://telegra.ph/file/ef3c9bc768e1bd696d4c3.jpg",
+        "https://telegra.ph/file/4200c07488f9f6ab733ca.jpg",
+        "https://telegra.ph/file/3695678e605fdcc3ab984.jpg",
+        "https://telegra.ph/file/907d5270a8d78c8de450f.jpg",
+        "https://telegra.ph/file/5eced4490342ffdd0cd40.jpg",
+        "https://telegra.ph/file/b72d2b1a48aea15d3b0e7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

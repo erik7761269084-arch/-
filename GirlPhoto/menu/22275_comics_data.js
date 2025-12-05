@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 22275,
+    "title": "JVID - 紫欣 不愛穿衣服的家教女學生",
+    "sourceUrl": "https://telegra.ph/JVID---紫欣-不愛穿衣服的家教女學生-08-29",
+    "images": [
+        "https://telegra.ph/file/3ae80ef20193b893d79cd.jpg",
+        "https://telegra.ph/file/a7452133cc952a5aa4cca.jpg",
+        "https://telegra.ph/file/817781c902cf85000049a.jpg",
+        "https://telegra.ph/file/2484c176badff07438e83.jpg",
+        "https://telegra.ph/file/c6502f5e08477a79a08f2.jpg",
+        "https://telegra.ph/file/8a77a0d22ecc7c8a87c8d.jpg",
+        "https://telegra.ph/file/c90b49fa240a5fc2502a3.jpg",
+        "https://telegra.ph/file/bed01b7be3602e9ac775b.jpg",
+        "https://telegra.ph/file/490086261897ae24ef211.jpg",
+        "https://telegra.ph/file/bf4e47202e1aceb119b31.jpg",
+        "https://telegra.ph/file/5bfdf897a1cca47681c3e.jpg",
+        "https://telegra.ph/file/7bf943c948a06a8fbccf5.jpg",
+        "https://telegra.ph/file/320a21e21de22875520b4.jpg",
+        "https://telegra.ph/file/f4110a72a82c870c38202.jpg",
+        "https://telegra.ph/file/272420122487cea3e4312.jpg",
+        "https://telegra.ph/file/b33e7a538119effea5346.jpg",
+        "https://telegra.ph/file/f9943547e138eb93cbff9.jpg",
+        "https://telegra.ph/file/ce67fa8a3203fec1114e7.jpg",
+        "https://telegra.ph/file/650141dc288c64e85b3c2.jpg",
+        "https://telegra.ph/file/975150bf6ce71c602c975.jpg",
+        "https://telegra.ph/file/8481459300a28fcf813c3.jpg",
+        "https://telegra.ph/file/16b5e7f467a55e0b5fa48.jpg",
+        "https://telegra.ph/file/480c92ba7234b658c9938.jpg",
+        "https://telegra.ph/file/c19fb7a5f19b16dd77aff.jpg",
+        "https://telegra.ph/file/04dec2ddedd5007921884.jpg",
+        "https://telegra.ph/file/87c87eed7aa33677798f3.jpg",
+        "https://telegra.ph/file/3c01d990a1eb3d35c7689.jpg",
+        "https://telegra.ph/file/f05f020904ff0de3ee376.jpg",
+        "https://telegra.ph/file/422866ee2ae33dd82f538.jpg",
+        "https://telegra.ph/file/bafcc65fef9cf70f059a3.jpg",
+        "https://telegra.ph/file/4c08e48c1b502415c3aa1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

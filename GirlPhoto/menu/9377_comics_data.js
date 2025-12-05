@@ -1,0 +1,38 @@
+const comicData = {
+    "IDcode": 9377,
+    "title": "是三不是世w 玉藻前舞娘 [28P-249MB]",
+    "sourceUrl": "https://telegra.ph/是三不是世w-玉藻前舞娘-28P-249MB-08-25",
+    "images": [
+        "https://telegra.ph/file/39b2b8ee99ef462225c5c.jpg",
+        "https://telegra.ph/file/045a4f040a9c6f38340d0.jpg",
+        "https://telegra.ph/file/6e9ffbecc5c49494f3327.jpg",
+        "https://telegra.ph/file/c3449b265d3d936ff8961.jpg",
+        "https://telegra.ph/file/a997ab19cf4aafd9bbcb8.jpg",
+        "https://telegra.ph/file/f2b06d6488b9c4f219f32.jpg",
+        "https://telegra.ph/file/230d09b58e44e619813e9.jpg",
+        "https://telegra.ph/file/4943949e70b1aa4a79207.jpg",
+        "https://telegra.ph/file/91a13ca363b7c7d016dfc.jpg",
+        "https://telegra.ph/file/04b3cf24918c0156528ca.jpg",
+        "https://telegra.ph/file/1257925a82bbcf1952cbf.jpg",
+        "https://telegra.ph/file/05e85e40c551fddebbe79.jpg",
+        "https://telegra.ph/file/079e81680827f5fc6b956.jpg",
+        "https://telegra.ph/file/c27c560746eaaf46c398a.jpg",
+        "https://telegra.ph/file/f0fb7d5f95a90999259e5.jpg",
+        "https://telegra.ph/file/8278fa80cf3a7fc83922a.jpg",
+        "https://telegra.ph/file/6c9e31d08da114faa0e53.jpg",
+        "https://telegra.ph/file/2280cd192a75f1bcd7d34.jpg",
+        "https://telegra.ph/file/b6f152ee594185c41797a.jpg",
+        "https://telegra.ph/file/efa5efa7a5beca08042c2.jpg",
+        "https://telegra.ph/file/86acd2a54c32a9d9c553d.jpg",
+        "https://telegra.ph/file/0213a89aebef1798e0d02.jpg",
+        "https://telegra.ph/file/57489e5c451c66abb57da.jpg",
+        "https://telegra.ph/file/f050551d75beed0132430.jpg",
+        "https://telegra.ph/file/750401c56073f78603e70.jpg",
+        "https://telegra.ph/file/84107fdc491b996e81abb.jpg",
+        "https://telegra.ph/file/fbc6620c73409db766413.jpg",
+        "https://telegra.ph/file/c321584f9faca89526839.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

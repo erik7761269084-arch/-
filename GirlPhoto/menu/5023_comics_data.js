@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5023,
+    "title": "疯猫ss - OL真爱之制服OL",
+    "sourceUrl": "https://telegra.ph/疯猫ss---OL真爱之制服OL-08-27",
+    "images": [
+        "https://telegra.ph/file/0d9d46eef89ee715bde47.jpg",
+        "https://telegra.ph/file/55b310d30394032787e59.jpg",
+        "https://telegra.ph/file/4985b3c645436821708bd.jpg",
+        "https://telegra.ph/file/d210e428fca20edf9121d.jpg",
+        "https://telegra.ph/file/f2d0eda99d9e8d632bd04.jpg",
+        "https://telegra.ph/file/5684375b77c677de29e8d.jpg",
+        "https://telegra.ph/file/70f991c4c5dc0ecc230ed.jpg",
+        "https://telegra.ph/file/06e961c567b6ca0f8dc95.jpg",
+        "https://telegra.ph/file/4236c4c02257879946b65.jpg",
+        "https://telegra.ph/file/0d3900bf16aeddf1d3df1.jpg",
+        "https://telegra.ph/file/74481ff98a8caf956d401.jpg",
+        "https://telegra.ph/file/b952a6088b5d7e03841ed.jpg",
+        "https://telegra.ph/file/d66fe1077bad911a88a71.jpg",
+        "https://telegra.ph/file/02a4620be6ceed252a0a6.jpg",
+        "https://telegra.ph/file/8a741f0cd89a406b54d50.jpg",
+        "https://telegra.ph/file/ce5a95efb30d2e1091519.jpg",
+        "https://telegra.ph/file/a778ebb508bce56df9069.jpg",
+        "https://telegra.ph/file/708561ad91dd4bbd05674.jpg",
+        "https://telegra.ph/file/fc8064fdd21ca5c194c2d.jpg",
+        "https://telegra.ph/file/19774a4cd74516fe28eae.jpg",
+        "https://telegra.ph/file/62bb717c5532320a27a7a.jpg",
+        "https://telegra.ph/file/2338f027d006ea02a28d3.jpg",
+        "https://telegra.ph/file/ce91acce771e93d2ccb21.jpg",
+        "https://telegra.ph/file/af8828a24cbe5cff7b845.jpg",
+        "https://telegra.ph/file/950d7a1ce45c7adb3a46d.jpg",
+        "https://telegra.ph/file/e5ba7200adf7849acd545.jpg",
+        "https://telegra.ph/file/98915934d5e711551fc5c.jpg",
+        "https://telegra.ph/file/9ea2eff9a77d58eb50c18.jpg",
+        "https://telegra.ph/file/ee601bdf908370cde2916.jpg",
+        "https://telegra.ph/file/239e1a2aa6b1264250b26.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

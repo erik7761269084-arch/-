@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 21114,
+    "title": "洁己 - 网洞狠货",
+    "sourceUrl": "https://telegra.ph/洁己---网洞狠货-08-29",
+    "images": [
+        "https://telegra.ph/file/da51e0f0892ea8d99b31f.jpg",
+        "https://telegra.ph/file/8e3034e51e2fe4f643bb6.jpg",
+        "https://telegra.ph/file/a15dc6677e52839943890.jpg",
+        "https://telegra.ph/file/1196ecc80cdc630e6c507.jpg",
+        "https://telegra.ph/file/724466bd496e91044f694.jpg",
+        "https://telegra.ph/file/850a3ca4856eb907c9301.jpg",
+        "https://telegra.ph/file/9ed0073f543f0cb4d5928.jpg",
+        "https://telegra.ph/file/093647dcfd17e7f28632b.jpg",
+        "https://telegra.ph/file/b1920f1cf0b7e1132ec9d.jpg",
+        "https://telegra.ph/file/19a1c1125b0093249510b.jpg",
+        "https://telegra.ph/file/df6d8f60c1f7f51934a13.jpg",
+        "https://telegra.ph/file/8c12ed2f5c51807fb730d.jpg",
+        "https://telegra.ph/file/f71f3f8ccd430b0b46d00.jpg",
+        "https://telegra.ph/file/3bbe15da1bbcdb5a256aa.jpg",
+        "https://telegra.ph/file/fcd7fbd4cfc80a72f04c3.jpg",
+        "https://telegra.ph/file/0ac8500b22ecffdb557d1.jpg",
+        "https://telegra.ph/file/4b8f6ec053c2ec03192fe.jpg",
+        "https://telegra.ph/file/53f87320df61fd91485d3.jpg",
+        "https://telegra.ph/file/0b63bfa89c95ac92f1da8.jpg",
+        "https://telegra.ph/file/0a2fc156fcdba13bb0bda.jpg",
+        "https://telegra.ph/file/c03aab00f3dfa8dd1df49.jpg",
+        "https://telegra.ph/file/b33ee7133552390221304.jpg",
+        "https://telegra.ph/file/8013502c24b8daf07c5b5.jpg",
+        "https://telegra.ph/file/562fdc6448c8ac96b83e4.jpg",
+        "https://telegra.ph/file/512fcbd0b73cc07c03182.jpg",
+        "https://telegra.ph/file/99425a788caa9b878d6dd.jpg",
+        "https://telegra.ph/file/32fcbeb0d1cebe41019fb.jpg",
+        "https://telegra.ph/file/cefab657fa012c16beecd.jpg",
+        "https://telegra.ph/file/a1e0799327d141e8e652a.jpg",
+        "https://telegra.ph/file/bd01eab580cd639aa085f.jpg",
+        "https://telegra.ph/file/a227f426f13f4d3a0f563.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

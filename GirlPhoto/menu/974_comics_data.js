@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 974,
+    "title": "Hane Ame 雨波写真 - TIFA Photobook (Final Fantasy VII) - 2",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波写真---TIFA-Photobook-Final-Fantasy-VII---2-08-27",
+    "images": [
+        "https://telegra.ph/file/64a679a734d543db0384a.jpg",
+        "https://telegra.ph/file/9486dab4988c6c9cd33d0.jpg",
+        "https://telegra.ph/file/18853231020b787f59f03.jpg",
+        "https://telegra.ph/file/ef038201a47e6e7027143.jpg",
+        "https://telegra.ph/file/2d197271f354151f4d00f.jpg",
+        "https://telegra.ph/file/d67cbc5687f9d964ae749.jpg",
+        "https://telegra.ph/file/5d845af1bc3537155c5dc.jpg",
+        "https://telegra.ph/file/a560349b5084b2416ffcb.jpg",
+        "https://telegra.ph/file/32d69e4ee176a6f1d7a31.jpg",
+        "https://telegra.ph/file/0faa6e7c6341f8d58cffb.jpg",
+        "https://telegra.ph/file/2104b829d21eac88f8f22.jpg",
+        "https://telegra.ph/file/dd6a1e74a7a0e61ab8d24.jpg",
+        "https://telegra.ph/file/b980da609bb5f44d26c53.jpg",
+        "https://telegra.ph/file/a2a8009d531ff7a59742c.jpg",
+        "https://telegra.ph/file/2178bb36355f3650ba592.jpg",
+        "https://telegra.ph/file/2f1c91eac90e64d33996c.jpg",
+        "https://telegra.ph/file/56ff9cb0dc2a81068028b.jpg",
+        "https://telegra.ph/file/489a3e031d9c757d15ba0.jpg",
+        "https://telegra.ph/file/71a822890e093db1a9c75.jpg",
+        "https://telegra.ph/file/b448ee6c7385d99c163d1.jpg",
+        "https://telegra.ph/file/6a2d1ab3360236245d5e0.jpg",
+        "https://telegra.ph/file/c670f6a21045828a87619.jpg",
+        "https://telegra.ph/file/74072a3c9c1a9c9b6c151.jpg",
+        "https://telegra.ph/file/03ea067a1a8810b8bf47a.jpg",
+        "https://telegra.ph/file/3d22c7807172ffc5c5e9f.jpg",
+        "https://telegra.ph/file/ec133f79596abf2d12d70.jpg",
+        "https://telegra.ph/file/56b8176aa6ccbc3649e7c.jpg",
+        "https://telegra.ph/file/9a9e8a8c6993315fff336.jpg",
+        "https://telegra.ph/file/dccf5ca85d45788c914a3.jpg",
+        "https://telegra.ph/file/90d1fc00082cbcfe6eb12.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3010,
+    "title": "阿包也是兔娘 - X型体操服",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘---X型体操服-08-27",
+    "images": [
+        "https://telegra.ph/file/6801d7ff83b469d965191.jpg",
+        "https://telegra.ph/file/f4b36727e321c434e9524.jpg",
+        "https://telegra.ph/file/defaf3238a200bf69a948.jpg",
+        "https://telegra.ph/file/a1bb596a5c18cbbcfbf82.jpg",
+        "https://telegra.ph/file/b1df93ed60ad2544ea8f9.jpg",
+        "https://telegra.ph/file/a091f47d3e0cb4e838a36.jpg",
+        "https://telegra.ph/file/384b0dda63079a744a235.jpg",
+        "https://telegra.ph/file/ccd61eb0283190c0b82b5.jpg",
+        "https://telegra.ph/file/9c8027211cf2d52a4612a.jpg",
+        "https://telegra.ph/file/e09bf9bbb5b2d4f872413.jpg",
+        "https://telegra.ph/file/d25b56c960f46ec63513f.jpg",
+        "https://telegra.ph/file/1b3a92ab8ce3cc67c068d.jpg",
+        "https://telegra.ph/file/8357a403ea38c093de044.jpg",
+        "https://telegra.ph/file/11cba58838b92abfabf89.jpg",
+        "https://telegra.ph/file/717025796291bbd64bd89.jpg",
+        "https://telegra.ph/file/c5f2ae2d1d79928f6de2b.jpg",
+        "https://telegra.ph/file/962f8d8880a3b887e320e.jpg",
+        "https://telegra.ph/file/72a1c2b48f969efbf02ba.jpg",
+        "https://telegra.ph/file/b1e0b665b3d38e6784ff6.jpg",
+        "https://telegra.ph/file/c1a2b03e6d05af86b99a6.jpg",
+        "https://telegra.ph/file/191f2fd2bd14566513f9b.jpg",
+        "https://telegra.ph/file/efc5f4da7f9bd701796af.jpg",
+        "https://telegra.ph/file/3a0cbdc5d8f2516bc6089.jpg",
+        "https://telegra.ph/file/7a85a0a4d62c8659ee7c7.jpg",
+        "https://telegra.ph/file/b961d6efa7570b4dee894.jpg",
+        "https://telegra.ph/file/8618017d15fe89ebced50.jpg",
+        "https://telegra.ph/file/fb6db5db26ab73a7beea9.jpg",
+        "https://telegra.ph/file/92cbccbcbb2718744fa01.jpg",
+        "https://telegra.ph/file/e927575bdc64d9261f3a1.jpg",
+        "https://telegra.ph/file/2c252284d474dfff34da1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

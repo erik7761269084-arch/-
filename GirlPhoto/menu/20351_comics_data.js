@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20351,
+    "title": "Hidori Rose - Azur Lane 齐柏林伯爵",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Azur-Lane-齐柏林伯爵-08-29",
+    "images": [
+        "https://telegra.ph/file/63e0e02214471bdfff6c0.jpg",
+        "https://telegra.ph/file/c1d0de7bf49c7cbc15170.jpg",
+        "https://telegra.ph/file/9a2aa3e40c94c27ef0f07.jpg",
+        "https://telegra.ph/file/b5a1a1faf5c6855bdc08a.jpg",
+        "https://telegra.ph/file/dfdceade3518714112e8b.jpg",
+        "https://telegra.ph/file/dda711c437369d4724cd6.jpg",
+        "https://telegra.ph/file/17c0334f48192c0826eb0.jpg",
+        "https://telegra.ph/file/fec0cf08e2145621688cf.jpg",
+        "https://telegra.ph/file/71b62d3d3faf63d842fc7.jpg",
+        "https://telegra.ph/file/dae0b17cf3b2531ec03eb.jpg",
+        "https://telegra.ph/file/a8458612e915725ebb27e.jpg",
+        "https://telegra.ph/file/0b7363a08151212e43827.jpg",
+        "https://telegra.ph/file/7b0b2913507ec75573b18.jpg",
+        "https://telegra.ph/file/784c896bd7119a33e4582.jpg",
+        "https://telegra.ph/file/84943a71f0c2ff87b05c0.jpg",
+        "https://telegra.ph/file/f0314753c9761ba67e7e2.jpg",
+        "https://telegra.ph/file/5727de483119747c14d28.jpg",
+        "https://telegra.ph/file/07bb513e58d9feb116996.jpg",
+        "https://telegra.ph/file/f36e92db9dc7ebd711904.jpg",
+        "https://telegra.ph/file/382578b3700468834dbc0.jpg",
+        "https://telegra.ph/file/497e1a0aef64819b87cdd.jpg",
+        "https://telegra.ph/file/fdd37d0e11841f40b9226.jpg",
+        "https://telegra.ph/file/c98005fc4d2f5a3b26570.jpg",
+        "https://telegra.ph/file/657cc9a1826fb1988cb87.jpg",
+        "https://telegra.ph/file/cd390ceae0222c847a593.jpg",
+        "https://telegra.ph/file/b2f669ed5a97087be8999.jpg",
+        "https://telegra.ph/file/7d879aa7ab741b73f291b.jpg",
+        "https://telegra.ph/file/e5e08872f4a3831593bfa.jpg",
+        "https://telegra.ph/file/9fe0464592fbae888c63f.jpg",
+        "https://telegra.ph/file/47dced6e362f9e4326120.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

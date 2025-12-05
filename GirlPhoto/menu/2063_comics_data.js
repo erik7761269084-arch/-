@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2063,
+    "title": "rioko凉凉子 - 游泳部学姐的特训时间爱丽丝写真",
+    "sourceUrl": "https://telegra.ph/COS福利rioko凉凉子---游泳部学姐的特训时间爱丽丝写真-08-27",
+    "images": [
+        "https://telegra.ph/file/a04bcd34df506fca7c5ae.jpg",
+        "https://telegra.ph/file/43d7c5ef8e4bfa88b5bfd.jpg",
+        "https://telegra.ph/file/fcb44fdaf71b299899630.jpg",
+        "https://telegra.ph/file/59d7f186e8a17171919d0.jpg",
+        "https://telegra.ph/file/e2e42958f38032e987869.jpg",
+        "https://telegra.ph/file/4513caf79120ff5f3b8e6.jpg",
+        "https://telegra.ph/file/466988889bba60182c542.jpg",
+        "https://telegra.ph/file/f949824cc94d47e1a55ad.jpg",
+        "https://telegra.ph/file/a39e7fa490e8328ab3a6d.jpg",
+        "https://telegra.ph/file/653a500f37e2be6702677.jpg",
+        "https://telegra.ph/file/82ddc91a659408b9d5440.jpg",
+        "https://telegra.ph/file/5db9a27eb57f5bb0869d9.jpg",
+        "https://telegra.ph/file/da5873c3b249f5eaff0b0.jpg",
+        "https://telegra.ph/file/58fe5f77472bb053455d0.jpg",
+        "https://telegra.ph/file/200e19b149a72b6e0cb6b.jpg",
+        "https://telegra.ph/file/b6f0d300bd646e9fe598f.jpg",
+        "https://telegra.ph/file/5774ca74752c9ca9b977c.jpg",
+        "https://telegra.ph/file/cdf9d8d98e8f6e9588051.jpg",
+        "https://telegra.ph/file/2e4724a2d2cdca5c197ec.jpg",
+        "https://telegra.ph/file/316363ce079efcc90ce9d.jpg",
+        "https://telegra.ph/file/183e7135939d236f27871.jpg",
+        "https://telegra.ph/file/fa270c088943783012ef6.jpg",
+        "https://telegra.ph/file/a4c20dac98f48c1f28d06.jpg",
+        "https://telegra.ph/file/54a01d5991560bed82941.jpg",
+        "https://telegra.ph/file/b3cea19163b4b2405aaa2.jpg",
+        "https://telegra.ph/file/19abc492a172ddd4e4126.jpg",
+        "https://telegra.ph/file/2bfbf4eaa88cb1a961772.jpg",
+        "https://telegra.ph/file/dd0dee5dcd58fe8763069.jpg",
+        "https://telegra.ph/file/0d8e8a5a76ec2b1b971fb.jpg",
+        "https://telegra.ph/file/306fbbe065383ac46af70.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

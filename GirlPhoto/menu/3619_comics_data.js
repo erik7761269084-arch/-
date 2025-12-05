@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3619,
+    "title": "草莓味的奈奈兔 - 奶牛 [34P+3V]",
+    "sourceUrl": "https://telegra.ph/草莓味的奈奈兔---奶牛-34P3V-08-26",
+    "images": [
+        "https://telegra.ph/file/4a2726616e09661a0b685.jpg",
+        "https://telegra.ph/file/2db7cbbe9810b787881a5.jpg",
+        "https://telegra.ph/file/7ed7d6b56be42bd48eecb.jpg",
+        "https://telegra.ph/file/089a99ce967029d05aa20.jpg",
+        "https://telegra.ph/file/21cc6f55415d4c8013a32.jpg",
+        "https://telegra.ph/file/e38bbf80fdc60c84883ba.jpg",
+        "https://telegra.ph/file/af76fcbabbfb5c19c21b8.jpg",
+        "https://telegra.ph/file/fd236fc096f5670d0296d.jpg",
+        "https://telegra.ph/file/738d3aec245e71c554980.jpg",
+        "https://telegra.ph/file/0aca0dcda453f00dc65f1.jpg",
+        "https://telegra.ph/file/d61e8a1f4bb5f89c7c377.jpg",
+        "https://telegra.ph/file/b1a54d90af05f4a8887f1.jpg",
+        "https://telegra.ph/file/e8045ef44937b38570d3a.jpg",
+        "https://telegra.ph/file/6e614b1a5e28cd84506da.jpg",
+        "https://telegra.ph/file/33669e7adc50d33ac02ea.jpg",
+        "https://telegra.ph/file/38339018e4a5824af57da.jpg",
+        "https://telegra.ph/file/e16979cafb93d69814342.jpg",
+        "https://telegra.ph/file/127aaa2f06981e580a596.jpg",
+        "https://telegra.ph/file/bd6df758be768f5e79225.jpg",
+        "https://telegra.ph/file/2293814ce112ece258d31.jpg",
+        "https://telegra.ph/file/214e99c36feda9e82d212.jpg",
+        "https://telegra.ph/file/9bef41a76bd42db67ce38.jpg",
+        "https://telegra.ph/file/36da661a096fa8fbd0e5c.jpg",
+        "https://telegra.ph/file/d3a4bf79ff8566bc10b34.jpg",
+        "https://telegra.ph/file/5856fe781e3f342970c89.jpg",
+        "https://telegra.ph/file/2adbd7e7507cb8e3c0edb.jpg",
+        "https://telegra.ph/file/1732bba1062c3b713f6c7.jpg",
+        "https://telegra.ph/file/607f420712c48f9354145.jpg",
+        "https://telegra.ph/file/a2ed90164687215a848c4.jpg",
+        "https://telegra.ph/file/cee48c287b7b565d84f85.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

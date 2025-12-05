@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 5990,
+    "title": "九言 - 吾妻",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80---%E5%90%BE%E5%A6%BB-08-20",
+    "images": [
+        "https://image.acg.lol/file/2024/10/16/IMG_8762.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1769.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1770.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1771.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1772.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1773.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1774.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1775.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1776.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1777.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1778.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1779.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1780.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1781.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_1782.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8708.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8710.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8711.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8712.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8713.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8752.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8753.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8754.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8755.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8756.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8757.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8758.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8759.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8760.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_8761.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_9952.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_9953.jpg",
+        "https://image.acg.lol/file/2024/10/16/IMG_9954.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

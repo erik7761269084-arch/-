@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4809,
+    "title": "二佐Nisa - 白精灵",
+    "sourceUrl": "https://telegra.ph/二佐Nisa---白精灵-08-27",
+    "images": [
+        "https://telegra.ph/file/5e78a95fad1d8039feb0d.jpg",
+        "https://telegra.ph/file/b30015c63b296205e62fd.jpg",
+        "https://telegra.ph/file/9c10488874f04dd9c928b.jpg",
+        "https://telegra.ph/file/12dadde3abc82a5bfdbb2.jpg",
+        "https://telegra.ph/file/c6e9886b22cff8b026d10.jpg",
+        "https://telegra.ph/file/aeb6c4630bac83c084be3.jpg",
+        "https://telegra.ph/file/d0721213000593a3707f2.jpg",
+        "https://telegra.ph/file/afeb70b26913348beffb8.jpg",
+        "https://telegra.ph/file/149bfa20d2b1a631e40bf.jpg",
+        "https://telegra.ph/file/7813992393bc64fa8c62e.jpg",
+        "https://telegra.ph/file/51e5ec71e1698ef3c3294.jpg",
+        "https://telegra.ph/file/49343a11693fc2a05dcf9.jpg",
+        "https://telegra.ph/file/8e523de0868d7aa24adbe.jpg",
+        "https://telegra.ph/file/7280dc380f7fb66ec6e40.jpg",
+        "https://telegra.ph/file/c9c259051b611ed7ac182.jpg",
+        "https://telegra.ph/file/cccc730c3452aa710b5ae.jpg",
+        "https://telegra.ph/file/d0c0b292cfc21a9be0833.jpg",
+        "https://telegra.ph/file/72c9138a77dc05ec9cce2.jpg",
+        "https://telegra.ph/file/bbb15d2201d9a0fa043af.jpg",
+        "https://telegra.ph/file/cfab8f780e8c99e73e2ca.jpg",
+        "https://telegra.ph/file/0e6c4d6d16067116452cd.jpg",
+        "https://telegra.ph/file/547a5368ed60efb3eed89.jpg",
+        "https://telegra.ph/file/f698017a503673fcfe2fe.jpg",
+        "https://telegra.ph/file/55e5390128047a0810041.jpg",
+        "https://telegra.ph/file/9cd6372cd81f1019b3eb4.jpg",
+        "https://telegra.ph/file/475799c98c87b6b898931.jpg",
+        "https://telegra.ph/file/86c69248f01725abec450.jpg",
+        "https://telegra.ph/file/7e05fd7ca1ed7e04fcd47.jpg",
+        "https://telegra.ph/file/266a69be1339ff952313d.jpg",
+        "https://telegra.ph/file/0c263f70286f6af2c4b2c.jpg",
+        "https://telegra.ph/file/c6a24281b0b3e9a30dfda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

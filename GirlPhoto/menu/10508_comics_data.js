@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10508,
+    "title": "西瓜 - 连体泳衣",
+    "sourceUrl": "https://telegra.ph/西瓜---连体泳衣-08-28",
+    "images": [
+        "https://telegra.ph/file/b521c0b48c88d25c47238.jpg",
+        "https://telegra.ph/file/045cb3f2705f2023762bc.jpg",
+        "https://telegra.ph/file/96ee19aeae9ea7d6dc326.jpg",
+        "https://telegra.ph/file/80534b8b7ffbb6e5b830b.jpg",
+        "https://telegra.ph/file/ed57e64e3c0f2a480005f.jpg",
+        "https://telegra.ph/file/ba5fcfde23aef7ca8b3f7.jpg",
+        "https://telegra.ph/file/8aa6f3266dbfb1147d591.jpg",
+        "https://telegra.ph/file/787c8113f663b02a42bb4.jpg",
+        "https://telegra.ph/file/3cc87b8fe0f9d19edf605.jpg",
+        "https://telegra.ph/file/1ef1a11fff89cfb23573c.jpg",
+        "https://telegra.ph/file/cfa506185760ed1ed7bca.jpg",
+        "https://telegra.ph/file/5a7577267e1d4828f3b08.jpg",
+        "https://telegra.ph/file/a0431d6c3b98849db9668.jpg",
+        "https://telegra.ph/file/467738cc582b4ed7833fa.jpg",
+        "https://telegra.ph/file/9b198947c34703ace6093.jpg",
+        "https://telegra.ph/file/43fdbef86052610e5b961.jpg",
+        "https://telegra.ph/file/4a6319753df5b824ae8af.jpg",
+        "https://telegra.ph/file/38d6cf474fae81179c8fc.jpg",
+        "https://telegra.ph/file/3cc31af1329ce83ade661.jpg",
+        "https://telegra.ph/file/00505b8329d993adfc4a0.jpg",
+        "https://telegra.ph/file/0100df96308a84088628c.jpg",
+        "https://telegra.ph/file/e989661dce30c5d91763b.jpg",
+        "https://telegra.ph/file/ed16eb94af090dc097621.jpg",
+        "https://telegra.ph/file/351d00e29346a1de518e3.jpg",
+        "https://telegra.ph/file/38127c8fac30455361b6d.jpg",
+        "https://telegra.ph/file/58798ecb123bb22053d2b.jpg",
+        "https://telegra.ph/file/8daa9cc4b46f45569d14f.jpg",
+        "https://telegra.ph/file/5e1d4b7e7b663caaaef4e.jpg",
+        "https://telegra.ph/file/b2cc7ddc8506fedab5659.jpg",
+        "https://telegra.ph/file/133e1d9557ae96e42a1d1.jpg",
+        "https://telegra.ph/file/4a9f0244bff1d185002cc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

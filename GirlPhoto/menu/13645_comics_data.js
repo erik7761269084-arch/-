@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13645,
+    "title": "云溪溪 奶桃 – 海月姬/女仆",
+    "sourceUrl": "https://telegra.ph/云溪溪-奶桃--海月姬女仆-08-29",
+    "images": [
+        "https://telegra.ph/file/ba8c8f1ba1a7f98f32903.jpg",
+        "https://telegra.ph/file/93fb03dfad944cdd14128.jpg",
+        "https://telegra.ph/file/9ff4b24cc8fb3a96330e1.jpg",
+        "https://telegra.ph/file/bd253fd70a02da543d705.jpg",
+        "https://telegra.ph/file/e31267fe0de310ae6aece.jpg",
+        "https://telegra.ph/file/7ef3408b6b517722f37f6.jpg",
+        "https://telegra.ph/file/7b92ec548355557c14b96.jpg",
+        "https://telegra.ph/file/a771ac8cb35fd9d46a27e.jpg",
+        "https://telegra.ph/file/68265802dc31cf29d5da4.jpg",
+        "https://telegra.ph/file/32eb8ba72af4c6a3dd2c9.jpg",
+        "https://telegra.ph/file/a5d6de6eaa501f892c1ed.jpg",
+        "https://telegra.ph/file/1c13989fa44e74041c542.jpg",
+        "https://telegra.ph/file/a56451b6054985d045d5a.jpg",
+        "https://telegra.ph/file/872bdf11309d72fcaa103.jpg",
+        "https://telegra.ph/file/d0461fe998b263bc6530b.jpg",
+        "https://telegra.ph/file/f299dfd61a952915ff27f.jpg",
+        "https://telegra.ph/file/efc1da7f0eb3d8d16e1a4.jpg",
+        "https://telegra.ph/file/5f20830a692e2d73e891a.jpg",
+        "https://telegra.ph/file/3878ead368939ca18b3ce.jpg",
+        "https://telegra.ph/file/2d4ff379adbc5d6474441.jpg",
+        "https://telegra.ph/file/359c588834ed89b7d5654.jpg",
+        "https://telegra.ph/file/ebd440abd56020ab70f90.jpg",
+        "https://telegra.ph/file/dcc225795a58450989e0c.jpg",
+        "https://telegra.ph/file/86887004d291c638e6cc2.jpg",
+        "https://telegra.ph/file/16fa2a7913b67a94cc8fa.jpg",
+        "https://telegra.ph/file/3e00e96edcff5eb5cb043.jpg",
+        "https://telegra.ph/file/aae1b3413bbd2dcfcd01c.jpg",
+        "https://telegra.ph/file/d9f736c654711d4497abd.jpg",
+        "https://telegra.ph/file/f6310314abd6216a797c0.jpg",
+        "https://telegra.ph/file/010903618aa0446cf46b1.jpg",
+        "https://telegra.ph/file/1455476cca38aeb2a8636.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

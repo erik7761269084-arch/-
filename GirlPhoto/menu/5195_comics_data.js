@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5195,
+    "title": "瓜希酱 - 贝尔法斯特",
+    "sourceUrl": "https://telegra.ph/Coser瓜希酱福利---贝尔法斯特-08-27",
+    "images": [
+        "https://telegra.ph/file/9cc9201ab4052415ccffe.jpg",
+        "https://telegra.ph/file/f344f995701b27f4a9b62.jpg",
+        "https://telegra.ph/file/5535fc3d29f199f458acf.jpg",
+        "https://telegra.ph/file/df72677847b079df3a83b.jpg",
+        "https://telegra.ph/file/570a41b7ca64d057c1d71.jpg",
+        "https://telegra.ph/file/8e9facb6ccac4edd295e6.jpg",
+        "https://telegra.ph/file/d56e24b8bfe4999924685.jpg",
+        "https://telegra.ph/file/c90435c69024a2b712827.jpg",
+        "https://telegra.ph/file/9e28ba2a5826bd511d5d1.jpg",
+        "https://telegra.ph/file/98cd0b9534383343a5f4d.jpg",
+        "https://telegra.ph/file/155845b8850f3f27fa917.jpg",
+        "https://telegra.ph/file/d6b67922ab8d1f275e3a8.jpg",
+        "https://telegra.ph/file/d3ce383117fc98fc723bd.jpg",
+        "https://telegra.ph/file/da301a6e439d76b9be613.jpg",
+        "https://telegra.ph/file/b00da2643cd39f63e8d9f.jpg",
+        "https://telegra.ph/file/5e60bb92089e6f028f9a3.jpg",
+        "https://telegra.ph/file/904107b25894faa6c717b.jpg",
+        "https://telegra.ph/file/495493e6c40e31c13ac11.jpg",
+        "https://telegra.ph/file/15405ef49d7e25f596a22.jpg",
+        "https://telegra.ph/file/2ee40c7b0f6804fb3fa45.jpg",
+        "https://telegra.ph/file/280fc8e5e569c6b455875.jpg",
+        "https://telegra.ph/file/7f84ce5f57d38778f89d7.jpg",
+        "https://telegra.ph/file/b475792278de8c59cd9b4.jpg",
+        "https://telegra.ph/file/c9fa39e96042b4bde6cce.jpg",
+        "https://telegra.ph/file/08e5fe5dde7bc61df9308.jpg",
+        "https://telegra.ph/file/023af50b868c679656b80.jpg",
+        "https://telegra.ph/file/0cdcc8aacba775a56d9eb.jpg",
+        "https://telegra.ph/file/17458503e71606e76cf17.jpg",
+        "https://telegra.ph/file/29c608573d51963bf2ee8.jpg",
+        "https://telegra.ph/file/57a281d4d29a809339116.jpg",
+        "https://telegra.ph/file/a8a8905d5fce515a0d022.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

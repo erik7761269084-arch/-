@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2073,
+    "title": "凉凉子 和前辈一起出差吧",
+    "sourceUrl": "https://telegra.ph/凉凉子-和前辈一起出差吧-08-29",
+    "images": [
+        "https://telegra.ph/file/6311ee94452606103c360.jpg",
+        "https://telegra.ph/file/ac135c39a0b2bb5ce9d1a.jpg",
+        "https://telegra.ph/file/b5fc44263b5bc6532d8bd.jpg",
+        "https://telegra.ph/file/ec982c10a7893b653fcb3.jpg",
+        "https://telegra.ph/file/4f99d824e0b099f5e768e.jpg",
+        "https://telegra.ph/file/11e69e6e4314371685a1a.jpg",
+        "https://telegra.ph/file/641c14632295b14b35dd3.jpg",
+        "https://telegra.ph/file/f3fafe21551e13f775d59.jpg",
+        "https://telegra.ph/file/a31a21602dc2c0d4de717.jpg",
+        "https://telegra.ph/file/232f5dbcc4339754ff4b4.jpg",
+        "https://telegra.ph/file/26dfe2cf6c5e4f74e5bf0.jpg",
+        "https://telegra.ph/file/717dbc38e699549695a37.jpg",
+        "https://telegra.ph/file/4219b31504b23ab98b899.jpg",
+        "https://telegra.ph/file/58ebcba2e1706ce7b7c6d.jpg",
+        "https://telegra.ph/file/87835182eb11123e64858.jpg",
+        "https://telegra.ph/file/5fa657b95d0207a3c3730.jpg",
+        "https://telegra.ph/file/8915abdd4760b1bfa83e6.jpg",
+        "https://telegra.ph/file/2d3fba3c12833575e46eb.jpg",
+        "https://telegra.ph/file/81164a160b97048a4ff3f.jpg",
+        "https://telegra.ph/file/cd795bb66f052e99735a9.jpg",
+        "https://telegra.ph/file/026c0512699f6ef7d49d5.jpg",
+        "https://telegra.ph/file/e8be7c4abc45f2bde5be0.jpg",
+        "https://telegra.ph/file/79f6e6227ec604b090d8f.jpg",
+        "https://telegra.ph/file/5ec0587632f504b8c053d.jpg",
+        "https://telegra.ph/file/24d404496ccdc6c65c596.jpg",
+        "https://telegra.ph/file/e743048dd5c196cf78962.jpg",
+        "https://telegra.ph/file/225fa3867bec01ec5a450.jpg",
+        "https://telegra.ph/file/f37e6dc399304a7fbee95.jpg",
+        "https://telegra.ph/file/9382f9e74c4ebf88e830e.jpg",
+        "https://telegra.ph/file/f1f60d15da29b3d13aea5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

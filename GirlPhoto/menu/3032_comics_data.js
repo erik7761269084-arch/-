@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3032,
+    "title": "阿包也是兔娘 飞鸟马时",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-飞鸟马时-08-29",
+    "images": [
+        "https://telegra.ph/file/610846bc80fdee6ea10a1.jpg",
+        "https://telegra.ph/file/2af632e6acee26c73076c.jpg",
+        "https://telegra.ph/file/a776529c0cf05992a5d6d.jpg",
+        "https://telegra.ph/file/f8df41fb5899be8c701b6.jpg",
+        "https://telegra.ph/file/7366c5977b53825ef8ce3.jpg",
+        "https://telegra.ph/file/14336c469492a72d167f5.jpg",
+        "https://telegra.ph/file/9cc817ea44acccbc429e0.jpg",
+        "https://telegra.ph/file/4eecc298ce3f6d0dad64d.jpg",
+        "https://telegra.ph/file/4e90be156fbe6a0d23fd0.jpg",
+        "https://telegra.ph/file/6dfedad4e8848935b145e.jpg",
+        "https://telegra.ph/file/b27decaf5838f5ffc7881.jpg",
+        "https://telegra.ph/file/048aa9af8eec948d96ba6.jpg",
+        "https://telegra.ph/file/8e19b89b3cb449e6344a1.jpg",
+        "https://telegra.ph/file/1b5cebb5f40984489c20f.jpg",
+        "https://telegra.ph/file/447e03b1182de61110e19.jpg",
+        "https://telegra.ph/file/5f8bb33a00f6b82091a7b.jpg",
+        "https://telegra.ph/file/2ee1c9d5457dbca7ea217.jpg",
+        "https://telegra.ph/file/205854e323f45cda3372f.jpg",
+        "https://telegra.ph/file/e50c164000c8ec96b51c1.jpg",
+        "https://telegra.ph/file/77d86269961b7a131b860.jpg",
+        "https://telegra.ph/file/56b824c4ea37a16bed29d.jpg",
+        "https://telegra.ph/file/2d257c11909029efceb7a.jpg",
+        "https://telegra.ph/file/52fbff823556b52219d1a.jpg",
+        "https://telegra.ph/file/a2ac31f853bbdf9b93f74.jpg",
+        "https://telegra.ph/file/e7eed4be15b22baf9f214.jpg",
+        "https://telegra.ph/file/c97a2bd8e92bd7d550f0a.jpg",
+        "https://telegra.ph/file/e8ffde50803ac6dcc6fe8.jpg",
+        "https://telegra.ph/file/291d6d301cc2b93d3c9a4.jpg",
+        "https://telegra.ph/file/b305a937497ba786fed3c.jpg",
+        "https://telegra.ph/file/b27599a0410c663f2ae91.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

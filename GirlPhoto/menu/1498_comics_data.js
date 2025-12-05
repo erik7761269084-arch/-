@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1498,
+    "title": "NAGISA魔物喵[fantia] - いじめっ子の不良少女",
+    "sourceUrl": "https://telegra.ph/NAGISA魔物喵fantia---いじめっ子の不良少女-08-27",
+    "images": [
+        "https://telegra.ph/file/fa381bb0952e1d3e34d64.jpg",
+        "https://telegra.ph/file/14b69ce46d79ebe145073.jpg",
+        "https://telegra.ph/file/37a0ae68c2b3dfdffd487.jpg",
+        "https://telegra.ph/file/785c8a9eee2c3c921eba2.jpg",
+        "https://telegra.ph/file/ecdd86f11eb4f95d67eae.jpg",
+        "https://telegra.ph/file/f8efab934d82c3f5c677c.jpg",
+        "https://telegra.ph/file/cee5f60ba632ec5b5f855.jpg",
+        "https://telegra.ph/file/bb5d2604336abf8a12c7a.jpg",
+        "https://telegra.ph/file/e13940d34b155dad8e95a.jpg",
+        "https://telegra.ph/file/bf71869fd5e3b9eadc529.jpg",
+        "https://telegra.ph/file/d81e8c3c2fd9900253c12.jpg",
+        "https://telegra.ph/file/2079c95d95147cf2762de.jpg",
+        "https://telegra.ph/file/84788612ccc7f3005ddef.jpg",
+        "https://telegra.ph/file/2ddd7232a02da4c9459e0.jpg",
+        "https://telegra.ph/file/f46a8a7cc880165427a4a.jpg",
+        "https://telegra.ph/file/8628eac1370b784466022.jpg",
+        "https://telegra.ph/file/0e14cd116bb72088cd987.jpg",
+        "https://telegra.ph/file/7466ce4a0844809937f5d.jpg",
+        "https://telegra.ph/file/e5818726e6bec127c1a33.jpg",
+        "https://telegra.ph/file/66c3583aefd668cf4189d.jpg",
+        "https://telegra.ph/file/4ca207362adf30f4d38ae.jpg",
+        "https://telegra.ph/file/98911cc976b39727ee55f.jpg",
+        "https://telegra.ph/file/7718b65cd5027695ddf1f.jpg",
+        "https://telegra.ph/file/a6f6ab46b8b0dd99467e9.jpg",
+        "https://telegra.ph/file/81e9c59ac6d1c8ec5af9e.jpg",
+        "https://telegra.ph/file/1113ecad2310d2ca231ca.jpg",
+        "https://telegra.ph/file/83574a95d8e361f050b9f.jpg",
+        "https://telegra.ph/file/aaecdf4e8b85d9a17b7a6.jpg",
+        "https://telegra.ph/file/945a94e49f697d69fa177.jpg",
+        "https://telegra.ph/file/3cb639e2e49b8819ae424.jpg",
+        "https://telegra.ph/file/9d9f208a527fe37be45c9.jpg",
+        "https://telegra.ph/file/2606453cec2a0c7b6670c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

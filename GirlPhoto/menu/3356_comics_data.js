@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3356,
+    "title": "VOL.115  半半子《婚纱爱宕》",
+    "sourceUrl": "https://telegra.ph/VOL115-半半子婚纱爱宕-08-27",
+    "images": [
+        "https://telegra.ph/file/0fbcfa768445f582a9094.jpg",
+        "https://telegra.ph/file/ad8ad0332a7709840ff63.jpg",
+        "https://telegra.ph/file/8fb2c8dc02849fdecae2c.jpg",
+        "https://telegra.ph/file/bfa67231a4cd97ca29ad8.jpg",
+        "https://telegra.ph/file/b431ef799cbb3a1d87c41.jpg",
+        "https://telegra.ph/file/7cdfefa16ada32654fdf9.jpg",
+        "https://telegra.ph/file/5ece738688d6317258ae8.jpg",
+        "https://telegra.ph/file/7af10dd451c3a262ffa52.jpg",
+        "https://telegra.ph/file/0cc648ba3af991c5b380d.jpg",
+        "https://telegra.ph/file/74b2d471264315ae5bfc8.jpg",
+        "https://telegra.ph/file/8fe60b87b47fda2dbe8f9.jpg",
+        "https://telegra.ph/file/45d95b3a09acfae60c417.jpg",
+        "https://telegra.ph/file/b50807adc291f9dd8d146.jpg",
+        "https://telegra.ph/file/985a2739eaf8737103163.jpg",
+        "https://telegra.ph/file/a52cd853c424ac3f79893.jpg",
+        "https://telegra.ph/file/b2c8ad7d067b3663570dc.jpg",
+        "https://telegra.ph/file/4634366c430a1e019e22c.jpg",
+        "https://telegra.ph/file/9dc38bcd8b88d65a6a572.jpg",
+        "https://telegra.ph/file/0c47041db8e0a4b9e61e2.jpg",
+        "https://telegra.ph/file/1018c047b1a4241fa3e8f.jpg",
+        "https://telegra.ph/file/47f585dbba7cb81cbfb4b.jpg",
+        "https://telegra.ph/file/085dc3161291e877023e0.jpg",
+        "https://telegra.ph/file/3a83774797e9f59085667.jpg",
+        "https://telegra.ph/file/b212ba51eb27b30438394.jpg",
+        "https://telegra.ph/file/ddb04d8315fde4ec618d3.jpg",
+        "https://telegra.ph/file/61df1af034463d031de8e.jpg",
+        "https://telegra.ph/file/1954defa5f8e0f5fa667d.jpg",
+        "https://telegra.ph/file/8da4a2784b089c6355017.jpg",
+        "https://telegra.ph/file/3faac722fc2f19ced3186.jpg",
+        "https://telegra.ph/file/98720a40f0a7370c24cf7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

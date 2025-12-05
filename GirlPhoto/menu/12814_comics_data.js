@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12814,
+    "title": "桜桃喵《白猫》",
+    "sourceUrl": "https://telegra.ph/桜桃喵白猫-08-27",
+    "images": [
+        "https://telegra.ph/file/be2bb7173cebacc86f30c.jpg",
+        "https://telegra.ph/file/a9ec6c70f8aa4d45d5982.jpg",
+        "https://telegra.ph/file/b3026f157c4b4939f1977.jpg",
+        "https://telegra.ph/file/c5a68ae9a022552c43bed.jpg",
+        "https://telegra.ph/file/e83f406bd994479f3b2ca.jpg",
+        "https://telegra.ph/file/65332c94e62b151843a8c.jpg",
+        "https://telegra.ph/file/9c55ed7a65c3fe9e6a264.jpg",
+        "https://telegra.ph/file/5bcacef5f1e1330f70414.jpg",
+        "https://telegra.ph/file/9538999ab19491f2d1102.jpg",
+        "https://telegra.ph/file/07a8f50a1da61fff3a746.jpg",
+        "https://telegra.ph/file/db554d65eae403ac0f116.jpg",
+        "https://telegra.ph/file/1d5be21285f3f998c87fb.jpg",
+        "https://telegra.ph/file/c323143438974ea59f2e5.jpg",
+        "https://telegra.ph/file/5c5653d2e3bd0d8c2984c.jpg",
+        "https://telegra.ph/file/1712500bd2bac72efac2f.jpg",
+        "https://telegra.ph/file/4d49fbb4995c54465f9a3.jpg",
+        "https://telegra.ph/file/79f81a99d365c5529d4cd.jpg",
+        "https://telegra.ph/file/44db797fbc12a5f5e1945.jpg",
+        "https://telegra.ph/file/01562fc98154ff22c57d4.jpg",
+        "https://telegra.ph/file/a133a4f852ed7253779f4.jpg",
+        "https://telegra.ph/file/424e51eb2f0c838ba20eb.jpg",
+        "https://telegra.ph/file/1b2e0be523b8405dd8e66.jpg",
+        "https://telegra.ph/file/ee01a5bb2d252a0a1c99d.jpg",
+        "https://telegra.ph/file/ca20488c56768d4c1e353.jpg",
+        "https://telegra.ph/file/e1b8717f8d8c77dc7f9fe.jpg",
+        "https://telegra.ph/file/8d870fc9d1178a2f494ea.jpg",
+        "https://telegra.ph/file/41aa66ada30d5fe3a0e6f.jpg",
+        "https://telegra.ph/file/7765c136ac14bf92cdbf2.jpg",
+        "https://telegra.ph/file/74d3eba1eda4ceb43bd8f.jpg",
+        "https://telegra.ph/file/4b7bd3bb4d0157136f4a2.jpg",
+        "https://telegra.ph/file/4cc56ddfb0989eae9da3f.jpg",
+        "https://telegra.ph/file/755514f0d74e232aa160e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

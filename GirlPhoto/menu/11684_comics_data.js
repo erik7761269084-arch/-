@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11684,
+    "title": "许岚LAN 放学回家 31P",
+    "sourceUrl": "https://telegra.ph/%E8%AE%B8%E5%B2%9ALAN-%E6%94%BE%E5%AD%A6%E5%9B%9E%E5%AE%B6-31P-08-23",
+    "images": [
+        "https://telegra.ph/file/3aa86e57296b1d71785b7.jpg",
+        "https://telegra.ph/file/5eabc7d688314a2cbf5e0.jpg",
+        "https://telegra.ph/file/acb927ca37f499ef66021.jpg",
+        "https://telegra.ph/file/dcc52a420335083e98765.jpg",
+        "https://telegra.ph/file/2242ad3f35fd31c21e4a0.jpg",
+        "https://telegra.ph/file/f589eccee5c53f3bd1be1.jpg",
+        "https://telegra.ph/file/ea03bff404179cdc2f07b.jpg",
+        "https://telegra.ph/file/408d120c0cf0f762c846e.jpg",
+        "https://telegra.ph/file/bc0a0eaf14a813aede661.jpg",
+        "https://telegra.ph/file/6af4cebfc1a88cb3b0583.jpg",
+        "https://telegra.ph/file/a90d9226456c7a6287ee4.jpg",
+        "https://telegra.ph/file/9c0d7fda22407b43956b5.jpg",
+        "https://telegra.ph/file/230d2fc82bb954d947fb2.jpg",
+        "https://telegra.ph/file/32c9546599ce23b0b6539.jpg",
+        "https://telegra.ph/file/167f3368351ab092ca95b.jpg",
+        "https://telegra.ph/file/038a9f188ff8d670d58a6.jpg",
+        "https://telegra.ph/file/a77cea63f7175edfe9782.jpg",
+        "https://telegra.ph/file/0271004fa18ed477afbe4.jpg",
+        "https://telegra.ph/file/403ad44c6ab21f3a3b31e.jpg",
+        "https://telegra.ph/file/1cac71f093955090661cf.jpg",
+        "https://telegra.ph/file/b8153d3bdf6e9d9f2a43c.jpg",
+        "https://telegra.ph/file/ef386c9a9ac7243a1db93.jpg",
+        "https://telegra.ph/file/cda5b4cb57eea939a9787.jpg",
+        "https://telegra.ph/file/ba5927d7a1c17594bf37b.jpg",
+        "https://telegra.ph/file/8985c4cfa920e214768a2.jpg",
+        "https://telegra.ph/file/a95d66ae7384281b59e69.jpg",
+        "https://telegra.ph/file/1fddb09971ce631df5a64.jpg",
+        "https://telegra.ph/file/f3f81bd3c965cda3233f3.jpg",
+        "https://telegra.ph/file/4fffff581bf3e5f69ed9c.jpg",
+        "https://telegra.ph/file/c0c7faf7ccefbe765beeb.jpg",
+        "https://telegra.ph/file/9bfa93c388a29d3925702.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

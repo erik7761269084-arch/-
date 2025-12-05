@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7682,
+    "title": "萌妹奈汐酱nice&七月喵子 - 双人兔女郎",
+    "sourceUrl": "https://telegra.ph/萌妹奈汐酱nice七月喵子---双人兔女郎-08-27-2",
+    "images": [
+        "https://telegra.ph/file/f00487e96f2565867b1c4.jpg",
+        "https://telegra.ph/file/8da5df1a943ed86d570e1.jpg",
+        "https://telegra.ph/file/05c022cfda6c71e4feeba.jpg",
+        "https://telegra.ph/file/6469258d5e256d2bb0501.jpg",
+        "https://telegra.ph/file/6781069f049c3b3431bc6.jpg",
+        "https://telegra.ph/file/58b4f30ba51d8be18f1ba.jpg",
+        "https://telegra.ph/file/d4d7a7b1403901983d98c.jpg",
+        "https://telegra.ph/file/f0b61b206f9637c85290a.jpg",
+        "https://telegra.ph/file/f94967fdfd8d7b05cdd2f.jpg",
+        "https://telegra.ph/file/15bc66f4b2476de369ae8.jpg",
+        "https://telegra.ph/file/1c9d88548d1783cbf9f7f.jpg",
+        "https://telegra.ph/file/51f46655e85b4465d9c2b.jpg",
+        "https://telegra.ph/file/85aeaf7a351ed0bc69d93.jpg",
+        "https://telegra.ph/file/4991ab325bc293f5426db.jpg",
+        "https://telegra.ph/file/00be9397c6b9ddc752ce6.jpg",
+        "https://telegra.ph/file/84b47ff4bd6f2ed2f4db4.jpg",
+        "https://telegra.ph/file/0e08bf71c1031e20fc84e.jpg",
+        "https://telegra.ph/file/fa8e00f4a8cc48465d084.jpg",
+        "https://telegra.ph/file/fbdcb602fe5cc756d467e.jpg",
+        "https://telegra.ph/file/d2128bbfd80ad25c2e8f0.jpg",
+        "https://telegra.ph/file/c4c49ef69d67caebf0a21.jpg",
+        "https://telegra.ph/file/ee60a98cf9b7309d37fd2.jpg",
+        "https://telegra.ph/file/7d7d21f15f3e2d5de1609.jpg",
+        "https://telegra.ph/file/97b958cb4fcd4a93d2e3f.jpg",
+        "https://telegra.ph/file/fd7df65331038f1feb25d.jpg",
+        "https://telegra.ph/file/2ed4d45a8a143fc1f8233.jpg",
+        "https://telegra.ph/file/27d2cc40b73282c1ca49a.jpg",
+        "https://telegra.ph/file/04bf8ff48b6185c316c38.jpg",
+        "https://telegra.ph/file/adb13922d51257b12c786.jpg",
+        "https://telegra.ph/file/3e9d202103d6c69d5ff1a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

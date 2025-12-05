@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1982,
+    "title": "rioko凉凉子 - 圣诞兔女郞",
+    "sourceUrl": "https://telegra.ph/COS福利rioko凉凉子---圣诞兔女郞-08-27",
+    "images": [
+        "https://telegra.ph/file/37ae752770e5f11c4f7de.jpg",
+        "https://telegra.ph/file/e07ef25531c2a3e7a8ca0.jpg",
+        "https://telegra.ph/file/af6bf220eeed619a856e1.jpg",
+        "https://telegra.ph/file/283fff0ac1fccd26bd3a2.jpg",
+        "https://telegra.ph/file/affa134b5c7ada9522da5.jpg",
+        "https://telegra.ph/file/46ee1571b2e844b39cbfe.jpg",
+        "https://telegra.ph/file/fe3d182376e7e520cccdb.jpg",
+        "https://telegra.ph/file/6436d18588c408567d89e.jpg",
+        "https://telegra.ph/file/d575acdf3f9160ff85084.jpg",
+        "https://telegra.ph/file/91e8c777e540626cbc4ae.jpg",
+        "https://telegra.ph/file/3da078ce23b600fa89487.jpg",
+        "https://telegra.ph/file/b6575bd1344fa6d22d9a9.jpg",
+        "https://telegra.ph/file/3c48e483aba4ca7f174c3.jpg",
+        "https://telegra.ph/file/c672e50519e31c6ca1b4d.jpg",
+        "https://telegra.ph/file/98172c515daf645c25dbf.jpg",
+        "https://telegra.ph/file/4246ed387eb717eb6037d.jpg",
+        "https://telegra.ph/file/506f482d91460cdc3f57a.jpg",
+        "https://telegra.ph/file/74ed9efe0e07697aeb833.jpg",
+        "https://telegra.ph/file/0fa5b9c67a63bfe1cd988.jpg",
+        "https://telegra.ph/file/4c09304b6fd9083c68aa4.jpg",
+        "https://telegra.ph/file/cad9952d8ea334558f7cb.jpg",
+        "https://telegra.ph/file/44897efbd02c8e21d0cbf.jpg",
+        "https://telegra.ph/file/46cd4bd7410ca3241a547.jpg",
+        "https://telegra.ph/file/6214eaf48de0a03e4d574.jpg",
+        "https://telegra.ph/file/d6b44f5bd6cb0227a430a.jpg",
+        "https://telegra.ph/file/77ee27fd9a7dd8ac8f1f1.jpg",
+        "https://telegra.ph/file/1beb7ed49294732d62f4c.jpg",
+        "https://telegra.ph/file/ab7666ef715a1ebc2ddf5.jpg",
+        "https://telegra.ph/file/48217442e5dfd1c2edf44.jpg",
+        "https://telegra.ph/file/301bc99b0a8ee6b46a7fd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

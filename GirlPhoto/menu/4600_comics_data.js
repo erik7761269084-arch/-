@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4600,
+    "title": "渡边早季Saki - 婚纱 [30P]",
+    "sourceUrl": "https://telegra.ph/渡边早季Saki---婚纱-30P-08-25",
+    "images": [
+        "https://telegra.ph/file/6cf5517cb6258126656f0.jpg",
+        "https://telegra.ph/file/830b9480a28f2e6a37e23.jpg",
+        "https://telegra.ph/file/4fa8f455696c6f6ae528e.jpg",
+        "https://telegra.ph/file/642a5273cd7f73417d385.jpg",
+        "https://telegra.ph/file/1d61a5aebbf1730166b57.jpg",
+        "https://telegra.ph/file/6bed2abcf9e95440943f2.jpg",
+        "https://telegra.ph/file/bd4593d3de9b468ba4149.jpg",
+        "https://telegra.ph/file/501bb63b51ccf08e5b195.jpg",
+        "https://telegra.ph/file/e9ae1ab495b21a95c3f7b.jpg",
+        "https://telegra.ph/file/10fa92a53a901c137b011.jpg",
+        "https://telegra.ph/file/2a795914b4ac1450a65f4.jpg",
+        "https://telegra.ph/file/6f13fce723ce44830d9ba.jpg",
+        "https://telegra.ph/file/af021d9696d8782184b7e.jpg",
+        "https://telegra.ph/file/e2f462e1a6b2871d5dad9.jpg",
+        "https://telegra.ph/file/885d9a74206db01d9df34.jpg",
+        "https://telegra.ph/file/57c8fcb59934a8bc3b0bd.jpg",
+        "https://telegra.ph/file/e91903ede67d36329a0e9.jpg",
+        "https://telegra.ph/file/95479832b483757faf062.jpg",
+        "https://telegra.ph/file/3125462646735ed01d608.jpg",
+        "https://telegra.ph/file/84b344ec43e4dea339a6d.jpg",
+        "https://telegra.ph/file/0d2b67b58a677441f884f.jpg",
+        "https://telegra.ph/file/ecdb82c327b0580732dc5.jpg",
+        "https://telegra.ph/file/e95b0ec802bd49e47fdce.jpg",
+        "https://telegra.ph/file/87324f0e4a70d37a55ace.jpg",
+        "https://telegra.ph/file/14589e529f10416691656.jpg",
+        "https://telegra.ph/file/24312d5efc692e5b6e161.jpg",
+        "https://telegra.ph/file/610be9255aa87d5e6ebad.jpg",
+        "https://telegra.ph/file/61dc252537af896d43161.jpg",
+        "https://telegra.ph/file/9cf00c24fde0781cccee8.jpg",
+        "https://telegra.ph/file/9b1e391d6bb04f4e57f16.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

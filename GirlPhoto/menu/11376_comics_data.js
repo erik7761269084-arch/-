@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11376,
+    "title": "星之迟迟 - 莲花JK",
+    "sourceUrl": "https://telegra.ph/星之迟迟---莲花JK-08-27",
+    "images": [
+        "https://telegra.ph/file/f8cee691a387b9faafffc.jpg",
+        "https://telegra.ph/file/a1e82094ff438046c3f29.jpg",
+        "https://telegra.ph/file/86dd3507d0eedfaa09a81.jpg",
+        "https://telegra.ph/file/16044b1b9ffcce05c028e.jpg",
+        "https://telegra.ph/file/a1ba05257b2bceb7e6fbf.jpg",
+        "https://telegra.ph/file/e15654d9a5ad235c0bbd6.jpg",
+        "https://telegra.ph/file/002a289ba1f6013fc20c0.jpg",
+        "https://telegra.ph/file/3d011871a358a44d799b1.jpg",
+        "https://telegra.ph/file/a7727eecc209151afb407.jpg",
+        "https://telegra.ph/file/719cdc2e6c0f1156c1ccf.jpg",
+        "https://telegra.ph/file/c7e82ab290a6a00ba9f0e.jpg",
+        "https://telegra.ph/file/da2ad99418c16c331b030.jpg",
+        "https://telegra.ph/file/f7a1d4d2bdb9f0109edab.jpg",
+        "https://telegra.ph/file/121b6374938d7bd70ad4a.jpg",
+        "https://telegra.ph/file/6cb37bd9c33409a67e853.jpg",
+        "https://telegra.ph/file/4b024e84eefccceafc60d.jpg",
+        "https://telegra.ph/file/a142922a266475f002a28.jpg",
+        "https://telegra.ph/file/aea2f55bad074e0cc4774.jpg",
+        "https://telegra.ph/file/cd394ee4d342cd772bef7.jpg",
+        "https://telegra.ph/file/5a39c9898b95bc4d604d9.jpg",
+        "https://telegra.ph/file/d790da2641ea79648cb52.jpg",
+        "https://telegra.ph/file/f9913ed4f3fa3af57190b.jpg",
+        "https://telegra.ph/file/0c0e6100d7391908bc22d.jpg",
+        "https://telegra.ph/file/a4e5b616579b421a41e89.jpg",
+        "https://telegra.ph/file/f5510ce4ce8db221d8e46.jpg",
+        "https://telegra.ph/file/5197efcd0fa889394a35c.jpg",
+        "https://telegra.ph/file/480c4be63c110ef53a38f.jpg",
+        "https://telegra.ph/file/c41376937fdb59b1a6115.jpg",
+        "https://telegra.ph/file/5e77825b89ab85b87aff9.jpg",
+        "https://telegra.ph/file/aa43112868a2b6011eb40.jpg",
+        "https://telegra.ph/file/ccb3f02baa6659126bb4d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4772,
+    "title": "二佐Nisa - 私房魔鬼鱼",
+    "sourceUrl": "https://telegra.ph/二佐Nisa---私房魔鬼鱼-08-27",
+    "images": [
+        "https://telegra.ph/file/f801f01a60efd23686316.jpg",
+        "https://telegra.ph/file/dd449c6041f96845c4d52.jpg",
+        "https://telegra.ph/file/052c63dc1ba45bc1777a7.jpg",
+        "https://telegra.ph/file/de5f348186dcc84fd2ecd.jpg",
+        "https://telegra.ph/file/fc7b33c5534b15d6eae84.jpg",
+        "https://telegra.ph/file/6befbe413a2fde26b7139.jpg",
+        "https://telegra.ph/file/2eb0632cbe4d76fd28a14.jpg",
+        "https://telegra.ph/file/920a05587756d828fb0b1.jpg",
+        "https://telegra.ph/file/5fd773b86095f70f8b138.jpg",
+        "https://telegra.ph/file/44444e1bd6e2b30858ad4.jpg",
+        "https://telegra.ph/file/872468bac979b7d1d9ebb.jpg",
+        "https://telegra.ph/file/c58b410a5b864854ff0d0.jpg",
+        "https://telegra.ph/file/b8ee7864103a6566dd9eb.jpg",
+        "https://telegra.ph/file/1e94b34a0f6dc435ea057.jpg",
+        "https://telegra.ph/file/da6f275197925b885a1f1.jpg",
+        "https://telegra.ph/file/7e5709558b627ef72589e.jpg",
+        "https://telegra.ph/file/1614ce8905ef4635d081a.jpg",
+        "https://telegra.ph/file/39d0ee9f7b1cc77d40981.jpg",
+        "https://telegra.ph/file/094c6a038b920f8c43a51.jpg",
+        "https://telegra.ph/file/c860a438d31214188d6b7.jpg",
+        "https://telegra.ph/file/ac63553d0cb52262d5a77.jpg",
+        "https://telegra.ph/file/0a290e7f892070606da8a.jpg",
+        "https://telegra.ph/file/4a16fa9c3d90a0ec1d332.jpg",
+        "https://telegra.ph/file/218d77960be4362cd5404.jpg",
+        "https://telegra.ph/file/1e5c74f9c199db79ead06.jpg",
+        "https://telegra.ph/file/19007f2efc5de3c8045f0.jpg",
+        "https://telegra.ph/file/92ed9e3642eba53665d54.jpg",
+        "https://telegra.ph/file/b41d0c5344615b5e8cdf9.jpg",
+        "https://telegra.ph/file/3e2c6ed5c3cb6c3d2e40c.jpg",
+        "https://telegra.ph/file/d7c60be8bfbc9add940f2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5251,
+    "title": "白嫩美少女鬼畜瑶 - 白色旗袍",
+    "sourceUrl": "https://telegra.ph/白嫩美少女鬼畜瑶---白色旗袍-08-27",
+    "images": [
+        "https://telegra.ph/file/d219fd0bc5a6f7013b233.jpg",
+        "https://telegra.ph/file/b10654a16668508960f36.jpg",
+        "https://telegra.ph/file/8068922fd62038961ae85.jpg",
+        "https://telegra.ph/file/f4160b5fd8690ed88dc4b.jpg",
+        "https://telegra.ph/file/59771695b213cb2e7150a.jpg",
+        "https://telegra.ph/file/37f4979c90dfe62443d2b.jpg",
+        "https://telegra.ph/file/caf4f1e223c224f31cf8f.jpg",
+        "https://telegra.ph/file/a62ab79ae76ff4bb90e98.jpg",
+        "https://telegra.ph/file/74e4e94d7e0bbe4608f5a.jpg",
+        "https://telegra.ph/file/0e15f277992112e8b0b51.jpg",
+        "https://telegra.ph/file/e95b6fa08655741362486.jpg",
+        "https://telegra.ph/file/e71cf5df4dca1f2fac2de.jpg",
+        "https://telegra.ph/file/1684dd3b180b259c05099.jpg",
+        "https://telegra.ph/file/8f9d06a7d84403fe86a42.jpg",
+        "https://telegra.ph/file/c0d9aa3b53d82c38c1daa.jpg",
+        "https://telegra.ph/file/a8a036081f2be5a4bfdf8.jpg",
+        "https://telegra.ph/file/91fede050c3a31f1cc55b.jpg",
+        "https://telegra.ph/file/fed954abbe5bceae4adf7.jpg",
+        "https://telegra.ph/file/a59f162c832b739c92e81.jpg",
+        "https://telegra.ph/file/c6759c3edd46f61c2f354.jpg",
+        "https://telegra.ph/file/855216ab766fd3e284f71.jpg",
+        "https://telegra.ph/file/c71f6a2f9d5b6a7b4862f.jpg",
+        "https://telegra.ph/file/85793766428c37888ca01.jpg",
+        "https://telegra.ph/file/2cf87402c40d3de39332b.jpg",
+        "https://telegra.ph/file/8b68fbe33816cc5b5dffc.jpg",
+        "https://telegra.ph/file/3afc2d5c0a88b4878a076.jpg",
+        "https://telegra.ph/file/e6d3de5b7ab795b627090.jpg",
+        "https://telegra.ph/file/b5d26473b61af340d6ff7.jpg",
+        "https://telegra.ph/file/7648521964121d7423495.jpg",
+        "https://telegra.ph/file/f3d04340ad7e7a7c478a4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

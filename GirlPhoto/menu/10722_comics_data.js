@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10722,
+    "title": "小仓千代w - 飛鳥馬トキ同人 [33P-94.1MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E4%BB%93%E5%8D%83%E4%BB%A3w---%E9%A3%9B%E9%B3%A5%E9%A6%AC%E3%83%88%E3%82%AD%E5%90%8C%E4%BA%BA-33P-941MB-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/05/19/1-106d33e019a5866a4.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-203fb1ebf834fce1f.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-337679190691ebc3e.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-43f782eb74d3457ab.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-5ec00577500137ea0.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-6f164d207d936993f.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-7bab671058033fe3b.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-8cc9d146b685e4a69.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-97fa8996bb7312645.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-10d35aa602d445afd4.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-119eb1cbf7600f3cff.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-128894e911ca53d6ca.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-1306076abdb7daac15.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-1425ff3911e022d3aa.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-1599bfb49b9eb2fe19.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-1672aab8d4a45e56cd.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-1703b3b2636568099e.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-18bc50fb1fd214ed8c.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-1916bce06019b5ee30.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-202e19051091bfbd24.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-219d7a73106194331c.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-22dda6a5253aa5df8f.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-23edd109d995ddc954.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-24310b7c9beb63bd4a.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-256054e09a91533e35.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-2633303bed26d18f80.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-27d0bcd0b0218c0fac.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-28e11d5e2100e81c7a.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-29a04977a02de8b6b6.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-300fbc3ef63ceef18f.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-31adb8f6fc097154ca.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-32a15845d15d43ea73.jpg",
+        "https://image.acg.lol/file/2025/05/19/1-33b8d43f75bed77c02.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

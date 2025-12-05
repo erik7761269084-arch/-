@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9505,
+    "title": "蜜桃少女是依酱呀 - 生日礼",
+    "sourceUrl": "https://telegra.ph/蜜桃少女是依酱呀---生日礼-08-28",
+    "images": [
+        "https://telegra.ph/file/74c9afdaaab41d4199fc3.jpg",
+        "https://telegra.ph/file/47b7b28de02955fcc4d46.jpg",
+        "https://telegra.ph/file/ad8d1a44c769f32948033.jpg",
+        "https://telegra.ph/file/2702d19ec4b7b189dcc04.jpg",
+        "https://telegra.ph/file/e69cee6cc698f8b8fe1c7.jpg",
+        "https://telegra.ph/file/79a9bc4a21f15656e10fb.jpg",
+        "https://telegra.ph/file/1e44eaebd884bf81d37c1.jpg",
+        "https://telegra.ph/file/fa3953c84df0800a648dd.jpg",
+        "https://telegra.ph/file/226e1509cd29765050024.jpg",
+        "https://telegra.ph/file/451b80b7715ab3dddba1b.jpg",
+        "https://telegra.ph/file/744dd67ad39b1abad9a82.jpg",
+        "https://telegra.ph/file/d4a1fd53c40f57b8c8a06.jpg",
+        "https://telegra.ph/file/274ae5e0167938e395439.jpg",
+        "https://telegra.ph/file/3e3ae2c538b65e65983d4.jpg",
+        "https://telegra.ph/file/c39cac40da8aeab1123d9.jpg",
+        "https://telegra.ph/file/d15438390e88eedf53809.jpg",
+        "https://telegra.ph/file/938015dda37af5e566691.jpg",
+        "https://telegra.ph/file/d448db53f0c2a687ab23a.jpg",
+        "https://telegra.ph/file/6d60b00142bb29424941c.jpg",
+        "https://telegra.ph/file/9d7280a1e5c3b103a273b.jpg",
+        "https://telegra.ph/file/6735fcb4b63d6417284d2.jpg",
+        "https://telegra.ph/file/1fe4ac51fc0ec0f0b81a1.jpg",
+        "https://telegra.ph/file/6315076dc947749f7caff.jpg",
+        "https://telegra.ph/file/f700ff34059e29bc24fa8.jpg",
+        "https://telegra.ph/file/1bd30e6600e153a6896dd.jpg",
+        "https://telegra.ph/file/3713e9c92c4920aec13eb.jpg",
+        "https://telegra.ph/file/c169ae14e2698ca9e99ef.jpg",
+        "https://telegra.ph/file/ab53a1f2ad5d03456b8df.jpg",
+        "https://telegra.ph/file/21ace91b791b26e4514ec.jpg",
+        "https://telegra.ph/file/041ed943f957ee2e9bcf4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

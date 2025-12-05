@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1002,
+    "title": "Hane Ame 雨波写真 - 碧藍航線 巴爾的摩",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波写真---碧藍航線-巴爾的摩-08-27",
+    "images": [
+        "https://telegra.ph/file/6937e4ed2fd117224608f.jpg",
+        "https://telegra.ph/file/14cae802eada8d34cb040.jpg",
+        "https://telegra.ph/file/51375e3b5dc491259afef.jpg",
+        "https://telegra.ph/file/b9da064e6d23be2ac22c7.jpg",
+        "https://telegra.ph/file/88005b670ac408d30b872.jpg",
+        "https://telegra.ph/file/b3c51f0ef44bdb7397e96.jpg",
+        "https://telegra.ph/file/c87d7d8fd0229d381ceea.jpg",
+        "https://telegra.ph/file/c4424db2f060e6fbe230f.jpg",
+        "https://telegra.ph/file/742c2860a262ec8e65a6c.jpg",
+        "https://telegra.ph/file/5c0e28c67a5b541837407.jpg",
+        "https://telegra.ph/file/914ae1395e1bd1f1ed757.jpg",
+        "https://telegra.ph/file/9aabcd4d97a4c7e9fd7b7.jpg",
+        "https://telegra.ph/file/dcc7a775f2bd1e36ca905.jpg",
+        "https://telegra.ph/file/f1adf2bbea55d021fa5a9.jpg",
+        "https://telegra.ph/file/80b7e3d8178803dae888b.jpg",
+        "https://telegra.ph/file/adbaa639bbfeb6cf62c75.jpg",
+        "https://telegra.ph/file/d7784f23de74040b89d58.jpg",
+        "https://telegra.ph/file/c2422cbe3a6c152cca279.jpg",
+        "https://telegra.ph/file/49a70eae8123bf3c96012.jpg",
+        "https://telegra.ph/file/96cae09e84ad9944632db.jpg",
+        "https://telegra.ph/file/54dad9b7da6d18e37c463.jpg",
+        "https://telegra.ph/file/06feb1dd4914d9232818e.jpg",
+        "https://telegra.ph/file/f9f0b5fddc7a220db10ca.jpg",
+        "https://telegra.ph/file/d9d0fce60d72824917456.jpg",
+        "https://telegra.ph/file/83bd76b0f737d242a31f1.jpg",
+        "https://telegra.ph/file/9405f7a2343acc0f58173.jpg",
+        "https://telegra.ph/file/b158e387a1cf52e6c52e7.jpg",
+        "https://telegra.ph/file/31aae2abb156f1f255bf2.jpg",
+        "https://telegra.ph/file/014edff3f6fcd8aad74db.jpg",
+        "https://telegra.ph/file/6972ec3d494e940d9da8c.jpg",
+        "https://telegra.ph/file/ef474081ae800bf5088f8.jpg",
+        "https://telegra.ph/file/2c8b2f7cea66a298f3968.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

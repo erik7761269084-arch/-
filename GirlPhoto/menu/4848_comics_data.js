@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4848,
+    "title": "二佐Nisa 2B女仆",
+    "sourceUrl": "https://telegra.ph/二佐Nisa-2B女仆-08-29",
+    "images": [
+        "https://telegra.ph/file/85a54b58e62d107bb3ecb.jpg",
+        "https://telegra.ph/file/0786837aece655686da62.jpg",
+        "https://telegra.ph/file/3dc586545f2db37ab55f9.jpg",
+        "https://telegra.ph/file/bfdb8e1a3a7c114b8b0a4.jpg",
+        "https://telegra.ph/file/aae69c22a5a44b7fc6627.jpg",
+        "https://telegra.ph/file/3f2fb8dde8fd3142337f3.jpg",
+        "https://telegra.ph/file/ec4eeb2e46b2386dc0d19.jpg",
+        "https://telegra.ph/file/14e7ccb1119b51b92720b.jpg",
+        "https://telegra.ph/file/e499c12a0330cf0e77ab3.jpg",
+        "https://telegra.ph/file/cb36ad25eda368af618a1.jpg",
+        "https://telegra.ph/file/833ebd9221101b6ac206f.jpg",
+        "https://telegra.ph/file/5ba13f1ceb2bd4c4b8d11.jpg",
+        "https://telegra.ph/file/37f12373b52508b66b758.jpg",
+        "https://telegra.ph/file/92a82ba97109fbbcf2205.jpg",
+        "https://telegra.ph/file/619b3e3c922a25bc113ba.jpg",
+        "https://telegra.ph/file/b555ff2cdbcc1a0b79d81.jpg",
+        "https://telegra.ph/file/d7f154ff9f57f379291ba.jpg",
+        "https://telegra.ph/file/35189cab2304e70314152.jpg",
+        "https://telegra.ph/file/b17632ee93369f903c75e.jpg",
+        "https://telegra.ph/file/b3d54a70bd544b1a8289b.jpg",
+        "https://telegra.ph/file/157e4110d73705867b74e.jpg",
+        "https://telegra.ph/file/08da8307971fc5df336eb.jpg",
+        "https://telegra.ph/file/a13dcca26442e74ba0a84.jpg",
+        "https://telegra.ph/file/ebedc2fc0ffec473ba65b.jpg",
+        "https://telegra.ph/file/887108f4e29d1ade1783f.jpg",
+        "https://telegra.ph/file/dcba93bbd090636451d4c.jpg",
+        "https://telegra.ph/file/9f29728248ad585028b53.jpg",
+        "https://telegra.ph/file/3d8d4119a1b5ea7e20ab2.jpg",
+        "https://telegra.ph/file/ec242bbfd651e76c7614e.jpg",
+        "https://telegra.ph/file/65ea974d9184396c54f98.jpg",
+        "https://telegra.ph/file/7fe60301ee7b94da3985c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

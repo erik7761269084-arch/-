@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 20706,
+    "title": "[Paranhosu] Sia_S22 - 2022 Photo Book Vol.4 Studio",
+    "sourceUrl": "https://telegra.ph/Paranhosu-Sia-S22---2022-Photo-Book-Vol4-Studio-08-29",
+    "images": [
+        "https://telegra.ph/file/dc4b19bb06d279b8cfb47.jpg",
+        "https://telegra.ph/file/1cea96143995317fd8ade.jpg",
+        "https://telegra.ph/file/5cbbf5da2b001ba51ea18.jpg",
+        "https://telegra.ph/file/30d850384d85df8fe89ad.jpg",
+        "https://telegra.ph/file/7ff87e2db0e496f81c849.jpg",
+        "https://telegra.ph/file/d32d8a57f1ab6c4e6204c.jpg",
+        "https://telegra.ph/file/d9b2ca8268caf452f58a0.jpg",
+        "https://telegra.ph/file/7b3c29d4ddd8abdfa44ce.jpg",
+        "https://telegra.ph/file/6355750f1ab15f411a289.jpg",
+        "https://telegra.ph/file/dc9f7e5251d763bc79b3b.jpg",
+        "https://telegra.ph/file/e5c74d630e1f6c7f1f141.jpg",
+        "https://telegra.ph/file/c2fca256d54c3d2f1ae8a.jpg",
+        "https://telegra.ph/file/c037328cecaf3314fcfa4.jpg",
+        "https://telegra.ph/file/9735e9869536ab1b52848.jpg",
+        "https://telegra.ph/file/837bb6c15e590745709e5.jpg",
+        "https://telegra.ph/file/ebf13c0b77da86a8170c9.jpg",
+        "https://telegra.ph/file/7a485bf9110cfac974b48.jpg",
+        "https://telegra.ph/file/b70e9d6267c0b329649d1.jpg",
+        "https://telegra.ph/file/68273dd65cebb75b93b04.jpg",
+        "https://telegra.ph/file/decd05455633da51d36c4.jpg",
+        "https://telegra.ph/file/630c2b96fe8bbb4546eb2.jpg",
+        "https://telegra.ph/file/647be0f8efa735b58e0e2.jpg",
+        "https://telegra.ph/file/a7ac63df2bb78a8cb2fd4.jpg",
+        "https://telegra.ph/file/93dadb3b28e6d90e0d278.jpg",
+        "https://telegra.ph/file/7414b7d25d30a87cf3aff.jpg",
+        "https://telegra.ph/file/02055fbe0a882f98a61c2.jpg",
+        "https://telegra.ph/file/caead15e17d95ba0bd67a.jpg",
+        "https://telegra.ph/file/1ae0474beb64fc5f7f91a.jpg",
+        "https://telegra.ph/file/b6f4ae230ea8ef453afca.jpg",
+        "https://telegra.ph/file/6953bda39409cda790470.jpg",
+        "https://telegra.ph/file/f0e011ea01a3b4bbd07f0.jpg",
+        "https://telegra.ph/file/b097e1a9a44b058c986e9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

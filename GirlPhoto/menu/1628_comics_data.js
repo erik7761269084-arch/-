@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 1628,
+    "title": "Natsuko夏夏子 - 清秋",
+    "sourceUrl": "https://telegra.ph/Natsuko夏夏子---清秋-08-29",
+    "images": [
+        "https://telegra.ph/file/cfee6101a75e82a3abfd2.jpg",
+        "https://telegra.ph/file/6d6202dd9cac433f8fc4a.jpg",
+        "https://telegra.ph/file/48ff69fba764d83c42625.jpg",
+        "https://telegra.ph/file/eecaa274088e91374c485.jpg",
+        "https://telegra.ph/file/82cd9007f18dd2400e499.jpg",
+        "https://telegra.ph/file/79de13b286313a1a2fc0b.jpg",
+        "https://telegra.ph/file/a990ac2ea05b068a3e78f.jpg",
+        "https://telegra.ph/file/9db52e04c12813de90ee8.jpg",
+        "https://telegra.ph/file/ca03c29462b1213346147.jpg",
+        "https://telegra.ph/file/8a4d90336e6a5f931c6bd.jpg",
+        "https://telegra.ph/file/32bcb63ee03d1584cc294.jpg",
+        "https://telegra.ph/file/85121f887d4e49ac8d45e.jpg",
+        "https://telegra.ph/file/18bca9e7e0059a328e58f.jpg",
+        "https://telegra.ph/file/0c4ac6b45adee73882555.jpg",
+        "https://telegra.ph/file/177d0143be351988bd56b.jpg",
+        "https://telegra.ph/file/9434d16702d2ae4c5aba7.jpg",
+        "https://telegra.ph/file/0481595ccc9b10fefa7d5.jpg",
+        "https://telegra.ph/file/07750796110c35064e710.jpg",
+        "https://telegra.ph/file/a1628914a513cdd5c03f4.jpg",
+        "https://telegra.ph/file/0339bf320c31d553537d1.jpg",
+        "https://telegra.ph/file/ffe3b2d0137749708f25b.jpg",
+        "https://telegra.ph/file/9a0af97b8d9dd2ea9642a.jpg",
+        "https://telegra.ph/file/f4769c60cd188aa0e266f.jpg",
+        "https://telegra.ph/file/c76c95c46f74ecea977b2.jpg",
+        "https://telegra.ph/file/b8fb939bda534c0c3c2a2.jpg",
+        "https://telegra.ph/file/03ec062f16a72d2a6a0c8.jpg",
+        "https://telegra.ph/file/c2665f907a567dc198b96.jpg",
+        "https://telegra.ph/file/4c7dafa86cb7cbf4dd0ae.jpg",
+        "https://telegra.ph/file/40b7702bb21ca788bb396.jpg",
+        "https://telegra.ph/file/d5cb1181f3f4db03a66a0.jpg",
+        "https://telegra.ph/file/52b453d4ad35a8b9a9e92.jpg",
+        "https://telegra.ph/file/026739cf27f4f80affaf8.jpg",
+        "https://telegra.ph/file/d0891af8295c3702d3469.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

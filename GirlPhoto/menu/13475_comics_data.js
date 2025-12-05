@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13475,
+    "title": "羽生三未 - 花甲僵尸 华甲欢庆三未全",
+    "sourceUrl": "https://telegra.ph/羽生三未---花甲僵尸-华甲欢庆三未全-08-29",
+    "images": [
+        "https://telegra.ph/file/6a9f61f2f5218c46260cc.jpg",
+        "https://telegra.ph/file/108498d5fe1eb03f7c87c.jpg",
+        "https://telegra.ph/file/a352f1293449a7b826f27.jpg",
+        "https://telegra.ph/file/d6627cd5dddb789dd3907.jpg",
+        "https://telegra.ph/file/d023abeba74cc2bbba227.jpg",
+        "https://telegra.ph/file/d8ae41d695bf7cc5ab396.jpg",
+        "https://telegra.ph/file/e8202db9ff46cfc679141.jpg",
+        "https://telegra.ph/file/ff2592b67a47e7f69d340.jpg",
+        "https://telegra.ph/file/cb9e90b1bd12c49d155ac.jpg",
+        "https://telegra.ph/file/b39325542786c604b44ca.jpg",
+        "https://telegra.ph/file/08344da18f159e7dffe20.jpg",
+        "https://telegra.ph/file/cea155dd96fea0e4234d2.jpg",
+        "https://telegra.ph/file/9941874d074408b214fbf.jpg",
+        "https://telegra.ph/file/dd69817c526f5677c1859.jpg",
+        "https://telegra.ph/file/b791eed6cb17d001ae1b4.jpg",
+        "https://telegra.ph/file/dfa558be087f1ebcfc97a.jpg",
+        "https://telegra.ph/file/fe9966b9588efb4eb8971.jpg",
+        "https://telegra.ph/file/d232ec866af5c15f2d061.jpg",
+        "https://telegra.ph/file/f96ae55c5d94212745aff.jpg",
+        "https://telegra.ph/file/910500385a21bd7ad185c.jpg",
+        "https://telegra.ph/file/39af71cb7b1eb8fdcf29e.jpg",
+        "https://telegra.ph/file/c7e5d98074c752fe89581.jpg",
+        "https://telegra.ph/file/37db9836590386655a009.jpg",
+        "https://telegra.ph/file/bae76a30f351405a31550.jpg",
+        "https://telegra.ph/file/7d65b39abff172c704603.jpg",
+        "https://telegra.ph/file/f330bfb7ec29d91873a18.jpg",
+        "https://telegra.ph/file/8a64ad6dbfa03400490dd.jpg",
+        "https://telegra.ph/file/d45d7e0dade8d999d9eca.jpg",
+        "https://telegra.ph/file/2bad79549ff4b553a2546.jpg",
+        "https://telegra.ph/file/53985479ec799b9036880.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

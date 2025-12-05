@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13836,
+    "title": "周叽是可爱兔兔 - 加藤惠兔女郎",
+    "sourceUrl": "https://telegra.ph/周叽是可爱兔兔---加藤惠兔女郎-08-28",
+    "images": [
+        "https://telegra.ph/file/75d618ca8305a9f32fd7a.jpg",
+        "https://telegra.ph/file/582e98f6f5ca2df63df4c.jpg",
+        "https://telegra.ph/file/1e1c13cf996b2a47e5328.jpg",
+        "https://telegra.ph/file/fe96a73f463e851d51c7b.jpg",
+        "https://telegra.ph/file/31e4f8a8aaf4473d1e23e.jpg",
+        "https://telegra.ph/file/34433e66ed42e6aebcda7.jpg",
+        "https://telegra.ph/file/05d0f0ba1c18a9b02ee9c.jpg",
+        "https://telegra.ph/file/af3ab0052ddfe7dab6e88.jpg",
+        "https://telegra.ph/file/8b48db633b933043f4058.jpg",
+        "https://telegra.ph/file/2e9ec77be694947e6aa4b.jpg",
+        "https://telegra.ph/file/deab785a421664b590933.jpg",
+        "https://telegra.ph/file/1f50d4306a337f4fab6b7.jpg",
+        "https://telegra.ph/file/d7720f303dcb69db70287.jpg",
+        "https://telegra.ph/file/60511ae8d486a861303f3.jpg",
+        "https://telegra.ph/file/229571f19b73b9a857222.jpg",
+        "https://telegra.ph/file/db766686d819bad1eb5f6.jpg",
+        "https://telegra.ph/file/3e20525ab88529b02effd.jpg",
+        "https://telegra.ph/file/455df606259086312d6b7.jpg",
+        "https://telegra.ph/file/9d712cbde02f9045b014d.jpg",
+        "https://telegra.ph/file/bd5bc74aab7629d4e45b0.jpg",
+        "https://telegra.ph/file/ca5ec948b7419009eb123.jpg",
+        "https://telegra.ph/file/abdf882f725444302488e.jpg",
+        "https://telegra.ph/file/93a03f96960699bbb0248.jpg",
+        "https://telegra.ph/file/833185590f5628299ab81.jpg",
+        "https://telegra.ph/file/003e21e10132ea747bf8f.jpg",
+        "https://telegra.ph/file/741b423af354f4ade2a14.jpg",
+        "https://telegra.ph/file/d561839dc7638c0017104.jpg",
+        "https://telegra.ph/file/8f4533e3cd64a0a74baa1.jpg",
+        "https://telegra.ph/file/056a10dc5616f9df8810a.jpg",
+        "https://telegra.ph/file/acf2fec331a6d9dbaa8ef.jpg",
+        "https://telegra.ph/file/81f1c15781197bead2ae2.jpg",
+        "https://telegra.ph/file/b0bdcf9fb5b42b5113179.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

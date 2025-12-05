@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 3514,
+    "title": "不呆猫 紫色人妻日常",
+    "sourceUrl": "https://telegra.ph/不呆猫-紫色人妻日常-08-29",
+    "images": [
+        "https://telegra.ph/file/80ffe58583af577d81342.jpg",
+        "https://telegra.ph/file/6da5495d85c079a6de578.jpg",
+        "https://telegra.ph/file/97c8f6a6cdb1839437d77.jpg",
+        "https://telegra.ph/file/b2f7aefb5b8513ee8d04e.jpg",
+        "https://telegra.ph/file/ed0758688fd85f3ac6abb.jpg",
+        "https://telegra.ph/file/60484e180f4b2673b455e.jpg",
+        "https://telegra.ph/file/7b435307ea5f2e020a3a6.jpg",
+        "https://telegra.ph/file/a8a077de413396ebb4bca.jpg",
+        "https://telegra.ph/file/71db752b47058a6f3ae43.jpg",
+        "https://telegra.ph/file/c2e25337fc6bb9a453b52.jpg",
+        "https://telegra.ph/file/53885286ecfa94f961c71.jpg",
+        "https://telegra.ph/file/3de1af37dc197d884be27.jpg",
+        "https://telegra.ph/file/ba5842fed2dd95afafe41.jpg",
+        "https://telegra.ph/file/37c86a35232c8033e2e8a.jpg",
+        "https://telegra.ph/file/d49856534d7781b1ded56.jpg",
+        "https://telegra.ph/file/8550bb5a24f203ada3e55.jpg",
+        "https://telegra.ph/file/bf162d907ce3c1a4ee747.jpg",
+        "https://telegra.ph/file/c5b94b9ddb7d0281ed665.jpg",
+        "https://telegra.ph/file/9a7fd974078bfe714f499.jpg",
+        "https://telegra.ph/file/9dbc4c27a434191cc8547.jpg",
+        "https://telegra.ph/file/d9e8524040bc427a941c3.jpg",
+        "https://telegra.ph/file/54abbd7ee08fe5d7d9877.jpg",
+        "https://telegra.ph/file/2ba624aa83c96cbcd0129.jpg",
+        "https://telegra.ph/file/5a7f4e2aedf8e6c22db13.jpg",
+        "https://telegra.ph/file/9b91031cb5a97714397f2.jpg",
+        "https://telegra.ph/file/5a0a24ae5a1cd3f1cb4af.jpg",
+        "https://telegra.ph/file/6526f6ff16387c4adf1e4.jpg",
+        "https://telegra.ph/file/4ef383dc58ee9283ea344.jpg",
+        "https://telegra.ph/file/2f0cd77875b9ac407ebca.jpg",
+        "https://telegra.ph/file/685004af12d2155a24961.jpg",
+        "https://telegra.ph/file/42ff731d9b78212d44428.jpg",
+        "https://telegra.ph/file/c4deaca3e1fa25421ab57.jpg",
+        "https://telegra.ph/file/8aea1aede401d104c58d4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

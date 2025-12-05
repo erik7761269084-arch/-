@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2657,
+    "title": "Uy Uy - Atago Bikini",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Atago-Bikini-08-27",
+    "images": [
+        "https://telegra.ph/file/c5b337beae9eea2b894ce.jpg",
+        "https://telegra.ph/file/1717154c5743f108572e3.jpg",
+        "https://telegra.ph/file/8c3e3abeace5bc59e07e0.jpg",
+        "https://telegra.ph/file/ec079d4e5df2ac9704abf.jpg",
+        "https://telegra.ph/file/46c57f4e70f4aef8333f7.jpg",
+        "https://telegra.ph/file/fe23955e375e466203a44.jpg",
+        "https://telegra.ph/file/c41a5ba90aa3fcfe0a53e.jpg",
+        "https://telegra.ph/file/95c52955f32a4670ddd0d.jpg",
+        "https://telegra.ph/file/56087af4d987145515965.jpg",
+        "https://telegra.ph/file/b4588e083acef04f6d7aa.jpg",
+        "https://telegra.ph/file/463bb6ab03f60c934a318.jpg",
+        "https://telegra.ph/file/66dcfb1bf7c738005ebe3.jpg",
+        "https://telegra.ph/file/837f003d3fbaaefc25359.jpg",
+        "https://telegra.ph/file/d59c48c716a522d79aae0.jpg",
+        "https://telegra.ph/file/4df51f8323f32226231b1.jpg",
+        "https://telegra.ph/file/86ed3b7949758de0dca46.jpg",
+        "https://telegra.ph/file/5cfb586f4f50f261429f1.jpg",
+        "https://telegra.ph/file/b41c2c03beff4beeea9bd.jpg",
+        "https://telegra.ph/file/24356d04000076b0f3789.jpg",
+        "https://telegra.ph/file/435750478f1d870c28c9d.jpg",
+        "https://telegra.ph/file/78f13f728c38cfa5b6b47.jpg",
+        "https://telegra.ph/file/760f3c091c7573a231105.jpg",
+        "https://telegra.ph/file/a82da2a1fa3a5a219257a.jpg",
+        "https://telegra.ph/file/3718524f99ca289981a68.jpg",
+        "https://telegra.ph/file/ee5e4da49115abf08beb8.jpg",
+        "https://telegra.ph/file/91d3917803b5022b5f150.jpg",
+        "https://telegra.ph/file/60624b04d32a09e0f7021.jpg",
+        "https://telegra.ph/file/30051dba5e1f7f56ffb75.jpg",
+        "https://telegra.ph/file/99fd35f90c12bf8c9907e.jpg",
+        "https://telegra.ph/file/20c0c813c27d851e65c92.jpg",
+        "https://telegra.ph/file/66c2cd9588644a084598b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

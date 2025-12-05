@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11841,
+    "title": "VOL.454 雪琪 白色女友 套图",
+    "sourceUrl": "https://telegra.ph/VOL454-雪琪-白色女友-套图-08-27",
+    "images": [
+        "https://telegra.ph/file/b06028238af32347e7d86.jpg",
+        "https://telegra.ph/file/de100083515b6890a0f4a.jpg",
+        "https://telegra.ph/file/c27452f1b564fa3b6dd7d.jpg",
+        "https://telegra.ph/file/10a754bef86272258a05e.jpg",
+        "https://telegra.ph/file/4a8aa57d05dd6eb5c0eed.jpg",
+        "https://telegra.ph/file/39535a4cd8c56d9dbe464.jpg",
+        "https://telegra.ph/file/0ee99dc06c936ff1f8c8d.jpg",
+        "https://telegra.ph/file/3e800098de840a7254220.jpg",
+        "https://telegra.ph/file/5ec8487261932193a455f.jpg",
+        "https://telegra.ph/file/dd56b395d4fb4f6b07b1b.jpg",
+        "https://telegra.ph/file/f63182d36255afa0d8ec9.jpg",
+        "https://telegra.ph/file/47c6aada16fc5dd196126.jpg",
+        "https://telegra.ph/file/47b3326307edb634f2015.jpg",
+        "https://telegra.ph/file/35625793f500d813f273d.jpg",
+        "https://telegra.ph/file/4f232989c3e291b0360bd.jpg",
+        "https://telegra.ph/file/66bfbf8e7d6b761223adc.jpg",
+        "https://telegra.ph/file/a0b86f13f3dc90b4fc8ca.jpg",
+        "https://telegra.ph/file/793ec8428527df9146b89.jpg",
+        "https://telegra.ph/file/a34b9afcb79163bd9bc19.jpg",
+        "https://telegra.ph/file/5df94b11ef24b0a55878e.jpg",
+        "https://telegra.ph/file/a0ab106746d9e9fef8396.jpg",
+        "https://telegra.ph/file/fb7604a6f1699a7cc8b94.jpg",
+        "https://telegra.ph/file/fdefcb2793f8ed03cc977.jpg",
+        "https://telegra.ph/file/4521d014f95ba1ad111da.jpg",
+        "https://telegra.ph/file/0c90ebfe33ac8275e78c7.jpg",
+        "https://telegra.ph/file/8f30059212acf15085025.jpg",
+        "https://telegra.ph/file/bdfcee5683c6ae04b7d42.jpg",
+        "https://telegra.ph/file/76f82382a5bc884726cb0.jpg",
+        "https://telegra.ph/file/9bce7a58f237fa7858bd3.jpg",
+        "https://telegra.ph/file/c9e4a0e2ccd9f6b97847e.jpg",
+        "https://telegra.ph/file/e4509d114562420be0fe5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

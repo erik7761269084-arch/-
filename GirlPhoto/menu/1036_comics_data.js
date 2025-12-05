@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1036,
+    "title": "Hane Ame 雨波写真 - SWIMSUIT",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波写真---SWIMSUIT-08-27",
+    "images": [
+        "https://telegra.ph/file/a5840c3b916b857738703.jpg",
+        "https://telegra.ph/file/6b74427ec331cfc185f5a.jpg",
+        "https://telegra.ph/file/507ac24a700141c145449.jpg",
+        "https://telegra.ph/file/087d0379136407dfe61c7.jpg",
+        "https://telegra.ph/file/2e11dec774b8b0b930c29.jpg",
+        "https://telegra.ph/file/d6d3cb8557baffea7b1d1.jpg",
+        "https://telegra.ph/file/c06ed3f691abecad75b22.jpg",
+        "https://telegra.ph/file/1d224b917cd38a15ec0a9.jpg",
+        "https://telegra.ph/file/8ea122fe21b00d9177cc7.jpg",
+        "https://telegra.ph/file/8b43441d1962caf9185bf.jpg",
+        "https://telegra.ph/file/dbe1b6d0da696c00a42d5.jpg",
+        "https://telegra.ph/file/3d8a8782ac40d52eb1288.jpg",
+        "https://telegra.ph/file/8b92a96bc7711d5558f21.jpg",
+        "https://telegra.ph/file/456543e6788e62ef3e30a.jpg",
+        "https://telegra.ph/file/7834d9385fb94ed622cb9.jpg",
+        "https://telegra.ph/file/174aaba25adae2c6d22f2.jpg",
+        "https://telegra.ph/file/09653edb056c9aff2e3f5.jpg",
+        "https://telegra.ph/file/0dd100fbfe7a69442be28.jpg",
+        "https://telegra.ph/file/0cde91e56b31b215635b0.jpg",
+        "https://telegra.ph/file/89c54192d752c01030600.jpg",
+        "https://telegra.ph/file/ccb08334ad0894e984912.jpg",
+        "https://telegra.ph/file/2921b4fb3fd97ce07d948.jpg",
+        "https://telegra.ph/file/f603d4f5006c223b347a7.jpg",
+        "https://telegra.ph/file/816f57acdde2e5006a1e4.jpg",
+        "https://telegra.ph/file/96a7bd1b4b4bf896258c1.jpg",
+        "https://telegra.ph/file/0a4d423e9bc530aea3a88.jpg",
+        "https://telegra.ph/file/6adf72203d5a3d76cbe33.jpg",
+        "https://telegra.ph/file/1f6023d88997f54124c31.jpg",
+        "https://telegra.ph/file/621df14eeaaf068d8082d.jpg",
+        "https://telegra.ph/file/d03a58d957fcada777362.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5249,
+    "title": "白嫩美少女鬼畜瑶 吾妻旗袍",
+    "sourceUrl": "https://telegra.ph/白嫩美少女鬼畜瑶-吾妻旗袍-08-27",
+    "images": [
+        "https://telegra.ph/file/7630b0c708e232c94c97d.jpg",
+        "https://telegra.ph/file/9c4dfb99aa03cc4d63358.jpg",
+        "https://telegra.ph/file/4c9d7233d53278be76881.jpg",
+        "https://telegra.ph/file/7a0bbc61a954996ce4fe4.jpg",
+        "https://telegra.ph/file/f930f3eaea5d84dc78f88.jpg",
+        "https://telegra.ph/file/69ef07937eced1d9705a6.jpg",
+        "https://telegra.ph/file/c52b7f23512acdd531817.jpg",
+        "https://telegra.ph/file/af24cb4b360542b3e11f4.jpg",
+        "https://telegra.ph/file/33eafcb03280e94b8aad1.jpg",
+        "https://telegra.ph/file/18afcc12c66d3f24947f4.jpg",
+        "https://telegra.ph/file/b182a35182ffdb2a62cfc.jpg",
+        "https://telegra.ph/file/55ddc05fe7c9429e04999.jpg",
+        "https://telegra.ph/file/dbea3e905894e8ba851eb.jpg",
+        "https://telegra.ph/file/0d21fd7f1848d18624f1a.jpg",
+        "https://telegra.ph/file/0802db7d1b66c85d22195.jpg",
+        "https://telegra.ph/file/dc4d81b85eaa1719bef4c.jpg",
+        "https://telegra.ph/file/401da0aa99ddc6856c77c.jpg",
+        "https://telegra.ph/file/ee563f381a5d0a897b88a.jpg",
+        "https://telegra.ph/file/b9c880c147786e93ce9c7.jpg",
+        "https://telegra.ph/file/212dfcbf548d80a954010.jpg",
+        "https://telegra.ph/file/af94fe48fcda135f6e131.jpg",
+        "https://telegra.ph/file/39b79a6fb239cdb49185c.jpg",
+        "https://telegra.ph/file/be6d31caed4fd08ad5090.jpg",
+        "https://telegra.ph/file/7fab4b99c96085fb62a5f.jpg",
+        "https://telegra.ph/file/77e31fb22b10bd67edc1c.jpg",
+        "https://telegra.ph/file/2754e3c19ff18b5b0e306.jpg",
+        "https://telegra.ph/file/635ebb2a36dfca7bfde43.jpg",
+        "https://telegra.ph/file/762137d68a47fb7e1e86f.jpg",
+        "https://telegra.ph/file/51756cf4e8d9e5b61530c.jpg",
+        "https://telegra.ph/file/ee748dd6639c716f9503f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

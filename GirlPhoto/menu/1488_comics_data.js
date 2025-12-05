@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1488,
+    "title": "NAGISA魔物喵[fantia] - 純白のチャイナドレス",
+    "sourceUrl": "https://telegra.ph/NAGISA魔物喵fantia---純白のチャイナドレス-08-27",
+    "images": [
+        "https://telegra.ph/file/1164a5514d9341f85f817.jpg",
+        "https://telegra.ph/file/e96c5528880e50e304cd2.jpg",
+        "https://telegra.ph/file/00f27a7cb3a900a729e1f.jpg",
+        "https://telegra.ph/file/b72cfe8a09b0ed00b60df.jpg",
+        "https://telegra.ph/file/3027dfb43f6cdd654a1ca.jpg",
+        "https://telegra.ph/file/5f1bbdc4d812bcef6c530.jpg",
+        "https://telegra.ph/file/e6739088a01d9aaff1596.jpg",
+        "https://telegra.ph/file/b0660c2a4fe9d4308362b.jpg",
+        "https://telegra.ph/file/5eb925b3d0229ec577cda.jpg",
+        "https://telegra.ph/file/7b28fa1feabc52c827960.jpg",
+        "https://telegra.ph/file/cc6a3a7681205a73b5925.jpg",
+        "https://telegra.ph/file/51f5398ee96788cef5811.jpg",
+        "https://telegra.ph/file/16b3d5cfcf58ef1c1111e.jpg",
+        "https://telegra.ph/file/c7c008c3941967c33a25b.jpg",
+        "https://telegra.ph/file/61867b18dae2b227bb10d.jpg",
+        "https://telegra.ph/file/84ffa66ce8c0d618cb9f0.jpg",
+        "https://telegra.ph/file/5339e93fe744cc3702481.jpg",
+        "https://telegra.ph/file/0409300ea50404e849525.jpg",
+        "https://telegra.ph/file/9635b0dc90f0f703da8f2.jpg",
+        "https://telegra.ph/file/b6f0eddc901da58218a3f.jpg",
+        "https://telegra.ph/file/6cf632b6311ccab55af4b.jpg",
+        "https://telegra.ph/file/6a13887a613ba226b114f.jpg",
+        "https://telegra.ph/file/69ddb06abb638e065a0f0.jpg",
+        "https://telegra.ph/file/4eedbe49bdd6003c12631.jpg",
+        "https://telegra.ph/file/3449afb172c3b6f3b6c10.jpg",
+        "https://telegra.ph/file/0dbdb0095d3afb9649976.jpg",
+        "https://telegra.ph/file/b2204df04cf463b1e00eb.jpg",
+        "https://telegra.ph/file/892ec90eb4ec6a1f85cd3.jpg",
+        "https://telegra.ph/file/8881929cf5448e0545eeb.jpg",
+        "https://telegra.ph/file/47c2d698bbbf7298b43b8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

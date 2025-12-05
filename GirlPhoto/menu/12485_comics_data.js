@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12485,
+    "title": "衣衣 - 透明女仆",
+    "sourceUrl": "https://telegra.ph/Coser衣衣---透明女仆-08-27",
+    "images": [
+        "https://telegra.ph/file/accd25917134036c07b1e.jpg",
+        "https://telegra.ph/file/6d9dbb180b36b61843f63.jpg",
+        "https://telegra.ph/file/8c4ecbc9c5160a96a923d.jpg",
+        "https://telegra.ph/file/6151a33473c04cf977d68.jpg",
+        "https://telegra.ph/file/d50c00c69d6f1d38cd6f2.jpg",
+        "https://telegra.ph/file/c094ce57ffd4eb7251f65.jpg",
+        "https://telegra.ph/file/bf6358e59822a84770302.jpg",
+        "https://telegra.ph/file/f864c756035a2bdb66597.jpg",
+        "https://telegra.ph/file/e30a985458f82a2078907.jpg",
+        "https://telegra.ph/file/bde36adbb354b724c8420.jpg",
+        "https://telegra.ph/file/94306357fb5d837a47854.jpg",
+        "https://telegra.ph/file/8cf471a02d076188e9cc1.jpg",
+        "https://telegra.ph/file/c351c3500be66b90dd5ae.jpg",
+        "https://telegra.ph/file/a298ea5610d1875b113fa.jpg",
+        "https://telegra.ph/file/1279af83247e43604f026.jpg",
+        "https://telegra.ph/file/d47c3877bba0742660261.jpg",
+        "https://telegra.ph/file/543dfaad67f686b0f1790.jpg",
+        "https://telegra.ph/file/e006e3206033521b3d36f.jpg",
+        "https://telegra.ph/file/a07798151caf146032465.jpg",
+        "https://telegra.ph/file/a44695349b9f45f348a47.jpg",
+        "https://telegra.ph/file/2f3cbc944c9dc1f80dba6.jpg",
+        "https://telegra.ph/file/deee0ef74efc2d321272b.jpg",
+        "https://telegra.ph/file/1173a08a2e4c36ffe2ee7.jpg",
+        "https://telegra.ph/file/f96abc225bfd830107c47.jpg",
+        "https://telegra.ph/file/cfdaa6408b92a7ac0c589.jpg",
+        "https://telegra.ph/file/196228c866ef1dc7fb433.jpg",
+        "https://telegra.ph/file/39b0fe2ae406f46359d12.jpg",
+        "https://telegra.ph/file/96a7fecac1ca549b7b41f.jpg",
+        "https://telegra.ph/file/972625f301bb8b7632fa5.jpg",
+        "https://telegra.ph/file/0cedabccdcd762fcbd504.jpg",
+        "https://telegra.ph/file/e5ad613cd8541f3cb83af.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

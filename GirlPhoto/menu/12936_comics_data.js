@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12936,
+    "title": "樱落酱w Nikke胜利女神·爱丽丝 [30P-292MB]",
+    "sourceUrl": "https://telegra.ph/樱落酱w-Nikke胜利女神爱丽丝-30P-292MB-08-24",
+    "images": [
+        "https://telegra.ph/file/fa63a56952ca5fa165082.jpg",
+        "https://telegra.ph/file/6aa67cc44ce836d26c46a.jpg",
+        "https://telegra.ph/file/2c21cbedf763db354aca4.jpg",
+        "https://telegra.ph/file/63d2be2e0340fa9921742.jpg",
+        "https://telegra.ph/file/a3a5c919756f09a5d9e61.jpg",
+        "https://telegra.ph/file/f4f9fd2d1a250d29a9385.jpg",
+        "https://telegra.ph/file/c7fc97ffa705665786883.jpg",
+        "https://telegra.ph/file/fef1b91f63b5a69dba05f.jpg",
+        "https://telegra.ph/file/dd41f1ff5f5013e36c4e7.jpg",
+        "https://telegra.ph/file/a7e69aa22ce6e01193f70.jpg",
+        "https://telegra.ph/file/52ba9c9bb3fb327c091cb.jpg",
+        "https://telegra.ph/file/16fd4e6e73d683e6e4226.jpg",
+        "https://telegra.ph/file/a92161ce592b99965e0d3.jpg",
+        "https://telegra.ph/file/625672b52377b3dd59f1c.jpg",
+        "https://telegra.ph/file/74b6f0dc8dbb41719c487.jpg",
+        "https://telegra.ph/file/cdc74355478b8284060c6.jpg",
+        "https://telegra.ph/file/992856cf34db1d590dcc0.jpg",
+        "https://telegra.ph/file/3b8ff06f2b456a2e3bd82.jpg",
+        "https://telegra.ph/file/0761b52715e89d71a5e87.jpg",
+        "https://telegra.ph/file/454e5903b28a0a66c2b38.jpg",
+        "https://telegra.ph/file/0cebd041f58344ab6b9f9.jpg",
+        "https://telegra.ph/file/511aa84475ea40586acac.jpg",
+        "https://telegra.ph/file/6e2b01d292b24c44df310.jpg",
+        "https://telegra.ph/file/d176faa20c25d901c2c22.jpg",
+        "https://telegra.ph/file/3b088bd2e0bcbbcd2d94f.jpg",
+        "https://telegra.ph/file/502a478394604f44cbfd4.jpg",
+        "https://telegra.ph/file/bbc5875862bbf24f9b154.jpg",
+        "https://telegra.ph/file/934f77625f80606d568b9.jpg",
+        "https://telegra.ph/file/286ed517d0259b7ec84b4.jpg",
+        "https://telegra.ph/file/cbfe61432e1a2bf8882bd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

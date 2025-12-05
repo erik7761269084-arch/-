@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21508,
+    "title": "Myu-A – Dark & Pure",
+    "sourceUrl": "https://telegra.ph/Myu-A--Dark--Pure-08-29",
+    "images": [
+        "https://telegra.ph/file/4549b59d37bbde17b1fa4.jpg",
+        "https://telegra.ph/file/94a84ac26d31c3e48033f.jpg",
+        "https://telegra.ph/file/434678d5d662d7ee2cb8f.jpg",
+        "https://telegra.ph/file/d2c078c0c247ff8506ceb.jpg",
+        "https://telegra.ph/file/6a41255e101eb952d0271.jpg",
+        "https://telegra.ph/file/b00cec4b1caf3d98fccec.jpg",
+        "https://telegra.ph/file/c9bc0db7f9ac3cc298e5e.jpg",
+        "https://telegra.ph/file/c243562b2b2340beea69e.jpg",
+        "https://telegra.ph/file/31bf7b2f6487aee2fe02f.jpg",
+        "https://telegra.ph/file/b25966b94905c35abe861.jpg",
+        "https://telegra.ph/file/c0371d6873e20571e6761.jpg",
+        "https://telegra.ph/file/432ee8184193c8dcc6c2c.jpg",
+        "https://telegra.ph/file/594638dee0adde4cfece2.jpg",
+        "https://telegra.ph/file/72b9d8e6b5e24cfab668b.jpg",
+        "https://telegra.ph/file/bb713fd5e451a776c08e2.jpg",
+        "https://telegra.ph/file/1f77eba2decf2c2d79cfa.jpg",
+        "https://telegra.ph/file/acc72edb1fa7a4d5316d2.jpg",
+        "https://telegra.ph/file/edf05ff1fb0f6e6bc38c4.jpg",
+        "https://telegra.ph/file/18f5382d02c06ece0dc25.jpg",
+        "https://telegra.ph/file/bd353ea3c3b2b41debe8f.jpg",
+        "https://telegra.ph/file/0e69ed66174f33d5646bc.jpg",
+        "https://telegra.ph/file/f2e85dc878935001f9215.jpg",
+        "https://telegra.ph/file/7b46c12fc4c3ad534180b.jpg",
+        "https://telegra.ph/file/0981c83c5c26ed76682a0.jpg",
+        "https://telegra.ph/file/b51b5770f3cb4d004c57d.jpg",
+        "https://telegra.ph/file/dedda4ed2baa3d4ece3ac.jpg",
+        "https://telegra.ph/file/919d3709ae90efa353ce9.jpg",
+        "https://telegra.ph/file/81d91e1faa0d2594292de.jpg",
+        "https://telegra.ph/file/56d3e321530e9cbea34a0.jpg",
+        "https://telegra.ph/file/f82fe28989ad9df9936dc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

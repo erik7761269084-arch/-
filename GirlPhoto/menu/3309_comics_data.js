@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3309,
+    "title": "白银 儿童睡衣",
+    "sourceUrl": "https://telegra.ph/白银-儿童睡衣-08-27",
+    "images": [
+        "https://telegra.ph/file/b8e70f30e9eefda6c8b8f.jpg",
+        "https://telegra.ph/file/f119feded88a6d571cc1c.jpg",
+        "https://telegra.ph/file/8c23900a55b76b5209f3c.jpg",
+        "https://telegra.ph/file/2bef2d156b0bf16db2ac9.jpg",
+        "https://telegra.ph/file/30f65e11fbac30713f987.jpg",
+        "https://telegra.ph/file/b90d0d396ed4a830b4c38.jpg",
+        "https://telegra.ph/file/93964b478e6565c13382d.jpg",
+        "https://telegra.ph/file/fc871e85d1279dad4e9fa.jpg",
+        "https://telegra.ph/file/06bbb46ebc692b1663518.jpg",
+        "https://telegra.ph/file/094f4cbbd40e6731a429f.jpg",
+        "https://telegra.ph/file/4d03725a0efdd8f57e3fa.jpg",
+        "https://telegra.ph/file/d893adfba79204c48b102.jpg",
+        "https://telegra.ph/file/44a34dbc1c780506490e9.jpg",
+        "https://telegra.ph/file/820131fa720f40270e017.jpg",
+        "https://telegra.ph/file/a3b1a8436d295e6e25bba.jpg",
+        "https://telegra.ph/file/47ff116cd636b136c21a7.jpg",
+        "https://telegra.ph/file/7df6e0f5366f6290d73dc.jpg",
+        "https://telegra.ph/file/39a5616ce046892b32a41.jpg",
+        "https://telegra.ph/file/b529335a69043330f1298.jpg",
+        "https://telegra.ph/file/633e23fe9da324675610c.jpg",
+        "https://telegra.ph/file/0d4fc5372861824481c14.jpg",
+        "https://telegra.ph/file/796bbf0295af388e595e7.jpg",
+        "https://telegra.ph/file/ec3bf6b5323eca4398e9f.jpg",
+        "https://telegra.ph/file/886959a5ae70e39fea93f.jpg",
+        "https://telegra.ph/file/5241281b6c7f28dbd6c76.jpg",
+        "https://telegra.ph/file/76ce5418006d4da5a8b62.jpg",
+        "https://telegra.ph/file/cd1328b0841cbdecba604.jpg",
+        "https://telegra.ph/file/4cb6ccb5c9b2eb4e6c666.jpg",
+        "https://telegra.ph/file/c5a54152e9045e189662f.jpg",
+        "https://telegra.ph/file/e43e58265b6fba65961cf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

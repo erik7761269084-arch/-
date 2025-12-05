@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10373,
+    "title": "雯妹 冰雪",
+    "sourceUrl": "https://telegra.ph/雯妹-冰雪-08-25",
+    "images": [
+        "https://telegra.ph/file/7d9662239c8dba8302c2a.jpg",
+        "https://telegra.ph/file/3c05751198058bfd2922f.jpg",
+        "https://telegra.ph/file/cb163d009033acc3b1073.jpg",
+        "https://telegra.ph/file/75178fa892fbee96c7314.jpg",
+        "https://telegra.ph/file/f562617385bc56f4d2d0c.jpg",
+        "https://telegra.ph/file/db8641c13e9943e6fdb42.jpg",
+        "https://telegra.ph/file/f2bf5a82ab4bd4f63b19f.jpg",
+        "https://telegra.ph/file/16f9b394d9bfcd3534d3e.jpg",
+        "https://telegra.ph/file/2f2869def99fdbfbbacbc.jpg",
+        "https://telegra.ph/file/75e5e8e782870310acf1a.jpg",
+        "https://telegra.ph/file/7cbd9ea069d5f9e05f4c4.jpg",
+        "https://telegra.ph/file/c43f7ef04458534992e63.jpg",
+        "https://telegra.ph/file/1915f75f47ec465cb8450.jpg",
+        "https://telegra.ph/file/084a263da335259a8d2df.jpg",
+        "https://telegra.ph/file/a71c9b5bb5d9473aa5302.jpg",
+        "https://telegra.ph/file/7cc40f198fa9b92117dd8.jpg",
+        "https://telegra.ph/file/2d298d07e22c5c4cedbec.jpg",
+        "https://telegra.ph/file/e5d644443fb03c70cd151.jpg",
+        "https://telegra.ph/file/3ec1305f062a0c74618c1.jpg",
+        "https://telegra.ph/file/67ab9e88804fa7e29f920.jpg",
+        "https://telegra.ph/file/e27f2f9390f7570553e6d.jpg",
+        "https://telegra.ph/file/b779b858bbf87a59c2eb1.jpg",
+        "https://telegra.ph/file/f66b38a5963ebbc90708c.jpg",
+        "https://telegra.ph/file/62c33bafae567adb65c9a.jpg",
+        "https://telegra.ph/file/7a7db3a2bc03de82ab0bf.jpg",
+        "https://telegra.ph/file/faa0f694fd60e119bd550.jpg",
+        "https://telegra.ph/file/28180a8d34ad6f97fc3e4.jpg",
+        "https://telegra.ph/file/ccac8e98eb084e06ad791.jpg",
+        "https://telegra.ph/file/01a2feda5d646cbf3f1d8.jpg",
+        "https://telegra.ph/file/96bbb98ee8e3b66c28b77.jpg",
+        "https://telegra.ph/file/7d79a6546aa6b459c9834.jpg",
+        "https://telegra.ph/file/34ff85d650123efbfb290.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

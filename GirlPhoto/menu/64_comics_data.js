@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 64,
+    "title": "AT鲨 妻子的秘密",
+    "sourceUrl": "https://telegra.ph/妻子的秘密-08-25",
+    "images": [
+        "https://telegra.ph/file/3810f522d7c4da7fdcaa5.jpg",
+        "https://telegra.ph/file/1415d020a96e54d7a9acc.jpg",
+        "https://telegra.ph/file/fa18f709bc0e45f64ce1f.jpg",
+        "https://telegra.ph/file/33979a81746aa784b0413.jpg",
+        "https://telegra.ph/file/31fe2f429665b5819c5b8.jpg",
+        "https://telegra.ph/file/1a1c2bf6be999f1922300.jpg",
+        "https://telegra.ph/file/17703e45879d7bccd6105.jpg",
+        "https://telegra.ph/file/7333fc8cc187efb4eedfe.jpg",
+        "https://telegra.ph/file/010044c1c8cef41ad0b9d.jpg",
+        "https://telegra.ph/file/56d6eff47f2e7cc920032.jpg",
+        "https://telegra.ph/file/d44b8a603bc0426665a27.jpg",
+        "https://telegra.ph/file/3b6f61dd63f30c58b58ac.jpg",
+        "https://telegra.ph/file/f5125276adf2dcc74aac6.jpg",
+        "https://telegra.ph/file/cc6ede743579130b2874f.jpg",
+        "https://telegra.ph/file/8da3d5d9a9ef7624ad54c.jpg",
+        "https://telegra.ph/file/8c2ebc61cdae6e47fed36.jpg",
+        "https://telegra.ph/file/c4c9a8abf984fa20c9a34.jpg",
+        "https://telegra.ph/file/5b43178a5d4af575f684d.jpg",
+        "https://telegra.ph/file/e566aa01ec8cf60dde880.jpg",
+        "https://telegra.ph/file/b064f3bf93e697b840469.jpg",
+        "https://telegra.ph/file/ec644fa66ff5d6990c164.jpg",
+        "https://telegra.ph/file/6c43b4df20c4e1c56572e.jpg",
+        "https://telegra.ph/file/2afff3047978fd92b77ea.jpg",
+        "https://telegra.ph/file/03ac5bf3f01c0e48393f0.jpg",
+        "https://telegra.ph/file/f5e0639b0dc2da5e26677.jpg",
+        "https://telegra.ph/file/f01131174b0ea51e57910.jpg",
+        "https://telegra.ph/file/64024afdb315635df36c3.jpg",
+        "https://telegra.ph/file/77b5301bcd3f34a6c7cc3.jpg",
+        "https://telegra.ph/file/e56d0870a43895b5028bf.jpg",
+        "https://telegra.ph/file/49ebde095d6287ff99f4f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

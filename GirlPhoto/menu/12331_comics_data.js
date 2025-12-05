@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12331,
+    "title": "一北亦北 - 吉他妹妹",
+    "sourceUrl": "https://telegra.ph/福利COS-一北亦北---吉他妹妹-08-26",
+    "images": [
+        "https://telegra.ph/file/d483f80a738fde9c989ab.jpg",
+        "https://telegra.ph/file/5489a9742eb75a0da5f36.jpg",
+        "https://telegra.ph/file/73fd763ac1c083ccdd6f1.jpg",
+        "https://telegra.ph/file/893e4f33b03d925d9b4f9.jpg",
+        "https://telegra.ph/file/a6e11c8275eeb82d2f12a.jpg",
+        "https://telegra.ph/file/df469784633acc90666a6.jpg",
+        "https://telegra.ph/file/296df50640fc215e904bf.jpg",
+        "https://telegra.ph/file/75d5a15b13a180a7db748.jpg",
+        "https://telegra.ph/file/bec2553431fec6e8dfa1f.jpg",
+        "https://telegra.ph/file/589dfb1311baa09418bfc.jpg",
+        "https://telegra.ph/file/efbfc6ada81e65c15ca8f.jpg",
+        "https://telegra.ph/file/ba7d842e57bca584b4fb7.jpg",
+        "https://telegra.ph/file/c7563f39fc9d6f4f0a9ed.jpg",
+        "https://telegra.ph/file/1625a5c94bb3aad90cf19.jpg",
+        "https://telegra.ph/file/53e0c845e92e5601f5d2c.jpg",
+        "https://telegra.ph/file/6026fe6d9b9c98955e03a.jpg",
+        "https://telegra.ph/file/6e7b92b4902f38b588948.jpg",
+        "https://telegra.ph/file/0fac7c539074ed6ee3b53.jpg",
+        "https://telegra.ph/file/7b36a21d6345d51243443.jpg",
+        "https://telegra.ph/file/db09b8d3e090fe267d873.jpg",
+        "https://telegra.ph/file/ec0d3ac1b040dd59f2f35.jpg",
+        "https://telegra.ph/file/1727abfe02a0c34f0d8c4.jpg",
+        "https://telegra.ph/file/37f1e75d1c101ce9f61f0.jpg",
+        "https://telegra.ph/file/3a7cec9e14ba1e66468b4.jpg",
+        "https://telegra.ph/file/f63f31ca23980a91d46ad.jpg",
+        "https://telegra.ph/file/f277b62bb8038d6e0129c.jpg",
+        "https://telegra.ph/file/ff3b252b8a59abcfa07b8.jpg",
+        "https://telegra.ph/file/05daeae64f23917a0d1df.jpg",
+        "https://telegra.ph/file/479fca6d70b7126318a28.jpg",
+        "https://telegra.ph/file/a00d12009d86fc8a540d6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

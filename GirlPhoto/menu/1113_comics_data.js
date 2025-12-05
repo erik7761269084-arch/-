@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1113,
+    "title": "Hane Ame 雨波  《蒂法》bunny 兔女郎爱丽丝写真",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波-蒂法bunny-兔女郎爱丽丝写真-08-27",
+    "images": [
+        "https://telegra.ph/file/6096f1636797b2f6fc2b1.jpg",
+        "https://telegra.ph/file/e788c1ee7c96ee3ea05de.jpg",
+        "https://telegra.ph/file/7118618316a9391717c2a.jpg",
+        "https://telegra.ph/file/1f61209664b962e8a3827.jpg",
+        "https://telegra.ph/file/bc233c70c85faef6c473c.jpg",
+        "https://telegra.ph/file/93ef728f6597b354ad41d.jpg",
+        "https://telegra.ph/file/99a9f6be2cf07c0417b65.jpg",
+        "https://telegra.ph/file/ddc7f7456910a2b30b26a.jpg",
+        "https://telegra.ph/file/b9d4948ba839287b54262.jpg",
+        "https://telegra.ph/file/4ecfaf2281d291db35f44.jpg",
+        "https://telegra.ph/file/0dd20878643c9b1b6d364.jpg",
+        "https://telegra.ph/file/cbf558afa8d70b175c4e3.jpg",
+        "https://telegra.ph/file/3deaa003ff6dc25a4fede.jpg",
+        "https://telegra.ph/file/019577ee7aecd452e7114.jpg",
+        "https://telegra.ph/file/33c0316fe44f385a6cf01.jpg",
+        "https://telegra.ph/file/64137840e8839a08004fc.jpg",
+        "https://telegra.ph/file/47c1f5f6e5ed092aa57d7.jpg",
+        "https://telegra.ph/file/09268f3d153d7ba997cd3.jpg",
+        "https://telegra.ph/file/34132a49b56fa46a7274c.jpg",
+        "https://telegra.ph/file/761906719783cdf2083ab.jpg",
+        "https://telegra.ph/file/eab5806f3ba23963eb7bc.jpg",
+        "https://telegra.ph/file/8bb785fa7ad3044e37f17.jpg",
+        "https://telegra.ph/file/8a03015cec2cd58b1e286.jpg",
+        "https://telegra.ph/file/a38246b6f6cbc3240e438.jpg",
+        "https://telegra.ph/file/041245df514b4d566e1a7.jpg",
+        "https://telegra.ph/file/8aa22b50bfb177b4e1196.jpg",
+        "https://telegra.ph/file/4a9f6caf3c6ea63f3d80f.jpg",
+        "https://telegra.ph/file/15187c86233b943ce57a8.jpg",
+        "https://telegra.ph/file/5697d563bd2c846cab054.jpg",
+        "https://telegra.ph/file/aff9647a03efa2b5c6269.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

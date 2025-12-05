@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 799,
+    "title": "可爱妹子Fushii_海堂 女仆",
+    "sourceUrl": "https://telegra.ph/可爱妹子Fushii-海堂-女仆-08-26",
+    "images": [
+        "https://telegra.ph/file/464f1d2f2f56b688ba87f.jpg",
+        "https://telegra.ph/file/d2adbe6ed6b64002aa8e6.jpg",
+        "https://telegra.ph/file/ec439cf0240ee0e874291.jpg",
+        "https://telegra.ph/file/297136492fdc3b274fcd9.jpg",
+        "https://telegra.ph/file/a4805f93fc308eb7f5e4a.jpg",
+        "https://telegra.ph/file/fd605e9f1a2492bfe8661.jpg",
+        "https://telegra.ph/file/d5a8b3429a33122196c22.jpg",
+        "https://telegra.ph/file/b78cb861a7ea651fef582.jpg",
+        "https://telegra.ph/file/72725ccfc28185221df7d.jpg",
+        "https://telegra.ph/file/f77213ccba45373a585bd.jpg",
+        "https://telegra.ph/file/b97d9bb90214ae5187e2a.jpg",
+        "https://telegra.ph/file/95a6fa8a553639783c7cb.jpg",
+        "https://telegra.ph/file/ee0d9f3656c78281d0886.jpg",
+        "https://telegra.ph/file/84707b88440807da57c7a.jpg",
+        "https://telegra.ph/file/fe5cbd35353e009a94e9a.jpg",
+        "https://telegra.ph/file/481fe447c89a4aaac99e7.jpg",
+        "https://telegra.ph/file/663f71e405d9fb5ed8055.jpg",
+        "https://telegra.ph/file/69e8f1d3a2144f0b2f044.jpg",
+        "https://telegra.ph/file/e7f3d9eb4ee8cdea4a11e.jpg",
+        "https://telegra.ph/file/831d98ce3440ffcc77644.jpg",
+        "https://telegra.ph/file/4b67d801662071384d3ab.jpg",
+        "https://telegra.ph/file/394d1f06f72602b8d1ce3.jpg",
+        "https://telegra.ph/file/49f2b0b277e03b21850d2.jpg",
+        "https://telegra.ph/file/61d86e5d493eab7db05c3.jpg",
+        "https://telegra.ph/file/c661c040dfd59416b800a.jpg",
+        "https://telegra.ph/file/8b2d825210f9962c19e06.jpg",
+        "https://telegra.ph/file/f69427d5150c2d3015d36.jpg",
+        "https://telegra.ph/file/f00f36708f9ab48a3e1f7.jpg",
+        "https://telegra.ph/file/54914c53a8455a2b1ba7b.jpg",
+        "https://telegra.ph/file/90da04580153c75cfba72.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

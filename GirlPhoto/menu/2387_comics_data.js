@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2387,
+    "title": "Tina很妖孽呀 一杯奶茶",
+    "sourceUrl": "https://telegra.ph/Tina很妖孽呀-一杯奶茶-08-25",
+    "images": [
+        "https://telegra.ph/file/96cee6311ffdbbbde4519.jpg",
+        "https://telegra.ph/file/e8449ba0bd5a097fc3649.jpg",
+        "https://telegra.ph/file/3c2e2dc361d2af0cc2578.jpg",
+        "https://telegra.ph/file/e2ed649b530a9355328bd.jpg",
+        "https://telegra.ph/file/7d27a106614116087743c.jpg",
+        "https://telegra.ph/file/19bc60c5811102a60ff07.jpg",
+        "https://telegra.ph/file/dd56f90e238be10b196bb.jpg",
+        "https://telegra.ph/file/cd662092fd4017acc881e.jpg",
+        "https://telegra.ph/file/226ad1884f4b200b45813.jpg",
+        "https://telegra.ph/file/7bf0eb8f6f46797a464b4.jpg",
+        "https://telegra.ph/file/ba4aaedd399792ca325c4.jpg",
+        "https://telegra.ph/file/4ed96344b669a657d80a8.jpg",
+        "https://telegra.ph/file/2511bbe90dcab3c3a8289.jpg",
+        "https://telegra.ph/file/e0183a96b3e5efe869774.jpg",
+        "https://telegra.ph/file/c238f336f0dfbfcf090b1.jpg",
+        "https://telegra.ph/file/e3635e87636e8fb097038.jpg",
+        "https://telegra.ph/file/5399168f2a510f66a8d29.jpg",
+        "https://telegra.ph/file/fbc71b3ffc75b3a356cc4.jpg",
+        "https://telegra.ph/file/db4180df1b0fd18c633fb.jpg",
+        "https://telegra.ph/file/d805fb3650f7f1beee94a.jpg",
+        "https://telegra.ph/file/8ec2f5c18f737dd9dd282.jpg",
+        "https://telegra.ph/file/74fd9250adeb94f271e64.jpg",
+        "https://telegra.ph/file/aa8120638c90d0263afe3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

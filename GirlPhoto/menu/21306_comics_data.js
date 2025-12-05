@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 21306,
+    "title": "[Espacia Korea] EXC#137 RAHEE",
+    "sourceUrl": "https://telegra.ph/Espacia-Korea-EXC137-RAHEE-08-29",
+    "images": [
+        "https://telegra.ph/file/c7b29b52e6b475a28a15b.jpg",
+        "https://telegra.ph/file/71444369e21a56b5402c4.jpg",
+        "https://telegra.ph/file/6bec656e13c3cc38d1fa5.jpg",
+        "https://telegra.ph/file/0a795f529c40542e1c7e7.jpg",
+        "https://telegra.ph/file/2a7c0005855c71117b21c.jpg",
+        "https://telegra.ph/file/0f59f3ae2ca7182976edc.jpg",
+        "https://telegra.ph/file/8ab9c11ccdc39f518d411.jpg",
+        "https://telegra.ph/file/8286e2d03def305507844.jpg",
+        "https://telegra.ph/file/32b01ef731251dd5a085a.jpg",
+        "https://telegra.ph/file/a4275c9afa92ff6b8b14c.jpg",
+        "https://telegra.ph/file/bce7ce2775bee7f202631.jpg",
+        "https://telegra.ph/file/72fee147ec865cc710e70.jpg",
+        "https://telegra.ph/file/96b5e77edbfad2caa3f27.jpg",
+        "https://telegra.ph/file/3de62c49cf2eb7ba014cc.jpg",
+        "https://telegra.ph/file/6b185d60351e4237a01d1.jpg",
+        "https://telegra.ph/file/9ae36db4588e4c6aaaf2c.jpg",
+        "https://telegra.ph/file/20c92b533ceec30bdba4e.jpg",
+        "https://telegra.ph/file/70ecaf2950143bba74540.jpg",
+        "https://telegra.ph/file/1af4058f079e02b72f8d5.jpg",
+        "https://telegra.ph/file/6204e96c66628a9f3d876.jpg",
+        "https://telegra.ph/file/c3478ca5e8e22e6414889.jpg",
+        "https://telegra.ph/file/0a82eca08af2deb9b0c9b.jpg",
+        "https://telegra.ph/file/95b97a2a15a93a69c57ed.jpg",
+        "https://telegra.ph/file/9bd296a78d6e314e3d773.jpg",
+        "https://telegra.ph/file/6341cca02712d808ff1a7.jpg",
+        "https://telegra.ph/file/949e16b6c481779148782.jpg",
+        "https://telegra.ph/file/031c140cfeef05e406a56.jpg",
+        "https://telegra.ph/file/6673ecdd8db12df9529f7.jpg",
+        "https://telegra.ph/file/dfa95b46494a2ec1e21e2.jpg",
+        "https://telegra.ph/file/4985f8a7d108a3b0c12c4.jpg",
+        "https://telegra.ph/file/365b02fe50a1fe16c7c13.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

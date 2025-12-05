@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 4898,
+    "title": "封疆疆 黑丝睡衣",
+    "sourceUrl": "https://telegra.ph/封疆疆-黑丝睡衣-08-25",
+    "images": [
+        "https://telegra.ph/file/c94d8c16dac3eaa26a94b.jpg",
+        "https://telegra.ph/file/271bdec1e535c5c2916ff.jpg",
+        "https://telegra.ph/file/a6154d631bb1bed4630d9.jpg",
+        "https://telegra.ph/file/1dceef20afc309b8299ca.jpg",
+        "https://telegra.ph/file/7df070132cafd6ca43c78.jpg",
+        "https://telegra.ph/file/343318b612362c775762b.jpg",
+        "https://telegra.ph/file/ada53704788244518dd8d.jpg",
+        "https://telegra.ph/file/d6aaf3ba6ed2ad93bfe18.jpg",
+        "https://telegra.ph/file/726f86539667b994739b9.jpg",
+        "https://telegra.ph/file/3168f4b5835f7e52254a1.jpg",
+        "https://telegra.ph/file/9c541bfd6b4d4c03df44a.jpg",
+        "https://telegra.ph/file/c0c9eecdb908c4e925475.jpg",
+        "https://telegra.ph/file/cc797ba2683cbab328ac7.jpg",
+        "https://telegra.ph/file/b0b5c8bb5adf46073c65d.jpg",
+        "https://telegra.ph/file/55c6036e94de399a9c928.jpg",
+        "https://telegra.ph/file/1fa0b119e668d73544efb.jpg",
+        "https://telegra.ph/file/933f6645d68770a10eb75.jpg",
+        "https://telegra.ph/file/4730d99f8a6ab9c0ed25d.jpg",
+        "https://telegra.ph/file/7fe33a212fecece39c67b.jpg",
+        "https://telegra.ph/file/814d8beb671e69f71f525.jpg",
+        "https://telegra.ph/file/35ed3896f903feef8390f.jpg",
+        "https://telegra.ph/file/07518ac6d043697de0de2.jpg",
+        "https://telegra.ph/file/9b562c2445d85211ba909.jpg",
+        "https://telegra.ph/file/62bb03e99b96661962688.jpg",
+        "https://telegra.ph/file/31315657486983f47481f.jpg",
+        "https://telegra.ph/file/c258fa1133abf1b51a49d.jpg",
+        "https://telegra.ph/file/b02b7851b9dcc6804693c.jpg",
+        "https://telegra.ph/file/a7c2910711e5ec6aaadfc.jpg",
+        "https://telegra.ph/file/288edef9df79637c980bd.jpg",
+        "https://telegra.ph/file/b8ff920cd2815d63e1c70.jpg",
+        "https://telegra.ph/file/32e793f9ef29cae4d25f7.jpg",
+        "https://telegra.ph/file/bc449f34a24ede57ff254.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

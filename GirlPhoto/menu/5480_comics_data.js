@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5480,
+    "title": "黑白御猫 - 赫敏 30P 28MB",
+    "sourceUrl": "https://telegra.ph/黑白御猫---赫敏-30P-28MB-08-26",
+    "images": [
+        "https://telegra.ph/file/38e5ac99c2f1f53cdcb99.jpg",
+        "https://telegra.ph/file/8d7bd73e9133968caf464.jpg",
+        "https://telegra.ph/file/5d0648995cfde6bd19c99.jpg",
+        "https://telegra.ph/file/06c9331db7209af8a9b98.jpg",
+        "https://telegra.ph/file/f4ef5e465e44f0dd01719.jpg",
+        "https://telegra.ph/file/30c866b84b08b76412126.jpg",
+        "https://telegra.ph/file/e22703c08748055a63c1a.jpg",
+        "https://telegra.ph/file/72b6820854d2895046c52.jpg",
+        "https://telegra.ph/file/357269843e79862591fdc.jpg",
+        "https://telegra.ph/file/a695dd032514ee4b93b34.jpg",
+        "https://telegra.ph/file/db70075491bdc05237741.jpg",
+        "https://telegra.ph/file/2f6c1541e78b701799926.jpg",
+        "https://telegra.ph/file/84eb2ed94717bf3460031.jpg",
+        "https://telegra.ph/file/ad6b32835cd4d63e8bb10.jpg",
+        "https://telegra.ph/file/3b03b6597ae3ec5e7f6ea.jpg",
+        "https://telegra.ph/file/9fee1099b000163d85921.jpg",
+        "https://telegra.ph/file/5913800d931e7b243ad82.jpg",
+        "https://telegra.ph/file/e361fb02cc4944d1315b1.jpg",
+        "https://telegra.ph/file/716e788bd8f0499536b06.jpg",
+        "https://telegra.ph/file/6f9e4c9035130f3fb2c7b.jpg",
+        "https://telegra.ph/file/8fec32715037402f0f4f8.jpg",
+        "https://telegra.ph/file/28790845ccb1b4683e52f.jpg",
+        "https://telegra.ph/file/4e4549617e66bf70b8b55.jpg",
+        "https://telegra.ph/file/919b126d947897d33ad20.jpg",
+        "https://telegra.ph/file/6f8efb5ce4775962cd824.jpg",
+        "https://telegra.ph/file/35a23e843401de7fb26e8.jpg",
+        "https://telegra.ph/file/5d3f9878a12a24ab40c98.jpg",
+        "https://telegra.ph/file/d003d0095427cf31965b1.jpg",
+        "https://telegra.ph/file/888d42df5d1fd30594b5c.jpg",
+        "https://telegra.ph/file/f587ce1c007de17c9441f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

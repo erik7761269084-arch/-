@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13857,
+    "title": "周叽是可爱兔兔 - 竞泳",
+    "sourceUrl": "https://telegra.ph/周叽是可爱兔兔---竞泳-08-28",
+    "images": [
+        "https://telegra.ph/file/fac516585d78170d0a10a.jpg",
+        "https://telegra.ph/file/dc7624c0d93dd7362e0a5.jpg",
+        "https://telegra.ph/file/f81141b521fb7827682b2.jpg",
+        "https://telegra.ph/file/1ef40f26cd213f484ba3b.jpg",
+        "https://telegra.ph/file/7b2ec2dce2f0573a8ed21.jpg",
+        "https://telegra.ph/file/2642e8f52fea2f593b8cc.jpg",
+        "https://telegra.ph/file/8b0dc0939f58d16297091.jpg",
+        "https://telegra.ph/file/ba7ad043a8a6b7a6f01d4.jpg",
+        "https://telegra.ph/file/7b07f955f3b42fce24440.jpg",
+        "https://telegra.ph/file/c2a79dc994c8005e27634.jpg",
+        "https://telegra.ph/file/3bceb6e9fb018d84b4803.jpg",
+        "https://telegra.ph/file/2be53fc831df631024a72.jpg",
+        "https://telegra.ph/file/75d015bc2d7c36a913f4f.jpg",
+        "https://telegra.ph/file/2b49736f36351e3da1a03.jpg",
+        "https://telegra.ph/file/6b1a11a8c13d5d560cd2c.jpg",
+        "https://telegra.ph/file/bc1f12ed7a9630cf5d0f8.jpg",
+        "https://telegra.ph/file/cb686f66c211064ff2097.jpg",
+        "https://telegra.ph/file/acfc88d96486dd0908183.jpg",
+        "https://telegra.ph/file/19c8fb34679abcf1b1b30.jpg",
+        "https://telegra.ph/file/4eb0cd359404cf05bfa4a.jpg",
+        "https://telegra.ph/file/99a9a3e7d1b0174fcf578.jpg",
+        "https://telegra.ph/file/9b4124876b36f7a092ea9.jpg",
+        "https://telegra.ph/file/bda2ed163478ac500b755.jpg",
+        "https://telegra.ph/file/d30ac15757f15faf72ada.jpg",
+        "https://telegra.ph/file/7b0274b7ec73c99ba3f2e.jpg",
+        "https://telegra.ph/file/6cd2b8841be937ff5d6d4.jpg",
+        "https://telegra.ph/file/0e1794bd98f06f49dc7e4.jpg",
+        "https://telegra.ph/file/26f3f10bed87942cb0769.jpg",
+        "https://telegra.ph/file/471821c5a77e06c3b4faa.jpg",
+        "https://telegra.ph/file/d17815808e34bf3d850f3.jpg",
+        "https://telegra.ph/file/4277a81971558ce965f3a.jpg",
+        "https://telegra.ph/file/0c34f3d2fa1ddd45b3754.jpg",
+        "https://telegra.ph/file/c12c90848118a4437106e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

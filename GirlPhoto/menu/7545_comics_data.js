@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7545,
+    "title": "末夜787 舰长 柴郡泳装 31P",
+    "sourceUrl": "https://telegra.ph/%E6%9C%AB%E5%A4%9C787-%E8%88%B0%E9%95%BF-%E6%9F%B4%E9%83%A1%E6%B3%B3%E8%A3%85-31P-08-23",
+    "images": [
+        "https://telegra.ph/file/b466bd87e814a23c1c49b.jpg",
+        "https://telegra.ph/file/4a06e820754ceb1c16d6f.jpg",
+        "https://telegra.ph/file/723c458c6f708d122992c.jpg",
+        "https://telegra.ph/file/cfbb993066aeadfca743b.jpg",
+        "https://telegra.ph/file/a3dda69a577daa1256efd.jpg",
+        "https://telegra.ph/file/1d30cbd28766edf8cda50.jpg",
+        "https://telegra.ph/file/2a85ad9aa53954baf9269.jpg",
+        "https://telegra.ph/file/a6b868a25e8631154882d.jpg",
+        "https://telegra.ph/file/80f4bcbbdf4eddaf759be.jpg",
+        "https://telegra.ph/file/f15a93f9aba0a3e1599ea.jpg",
+        "https://telegra.ph/file/e3956ef390f697606b434.jpg",
+        "https://telegra.ph/file/4502eba73a516643a3774.jpg",
+        "https://telegra.ph/file/b9b3fb21fc66be8583292.jpg",
+        "https://telegra.ph/file/b7ebf7ef01548f5e71c3e.jpg",
+        "https://telegra.ph/file/8a7045fe4095bdce70703.jpg",
+        "https://telegra.ph/file/4ccb80a111c80bd7c51a4.jpg",
+        "https://telegra.ph/file/5c6158afc58960754ed40.jpg",
+        "https://telegra.ph/file/fbd6409947ba6a60c7d28.jpg",
+        "https://telegra.ph/file/a23beac7465960541c0b2.jpg",
+        "https://telegra.ph/file/89d6c04b9486fbcbc270f.jpg",
+        "https://telegra.ph/file/b7984439ea0615b8c685e.jpg",
+        "https://telegra.ph/file/ff3c525bc108085e13137.jpg",
+        "https://telegra.ph/file/f83dfaa3d99e1cd46d596.jpg",
+        "https://telegra.ph/file/45baea4df74238a9222df.jpg",
+        "https://telegra.ph/file/636ef0c6ad56f706aaa56.jpg",
+        "https://telegra.ph/file/605787d500bd05a8d4268.jpg",
+        "https://telegra.ph/file/e93ce7c5ba13f0e56b0f6.jpg",
+        "https://telegra.ph/file/bb4f52ee6efbeebe66255.jpg",
+        "https://telegra.ph/file/a71bed430f6067e168bf0.jpg",
+        "https://telegra.ph/file/bc8e0837c18dda4778b92.jpg",
+        "https://telegra.ph/file/4d2b55b37fce041e8e6de.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

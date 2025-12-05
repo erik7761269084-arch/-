@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 299,
+    "title": "Byoru Leifang Autumn Festival Mooncake HD [30P-180MB]",
+    "sourceUrl": "https://telegra.ph/Byoru-Leifang-Autumn-Festival-Mooncake-HD-30P-180MB-08-23",
+    "images": [
+        "https://telegra.ph/file/fe4b46313635c982e9d91.jpg",
+        "https://telegra.ph/file/2098f87bc2ac50784e688.jpg",
+        "https://telegra.ph/file/e05ed8e3007939d018d76.jpg",
+        "https://telegra.ph/file/423711105a387b01b156e.jpg",
+        "https://telegra.ph/file/2a499d81e8ced7c8e8178.jpg",
+        "https://telegra.ph/file/a43c73631556683b509c9.jpg",
+        "https://telegra.ph/file/72c90b960d94e0e06356c.jpg",
+        "https://telegra.ph/file/73b3d3b363e417137f655.jpg",
+        "https://telegra.ph/file/3fada29de01680db7f535.jpg",
+        "https://telegra.ph/file/14c5b683083d18f1e23b5.jpg",
+        "https://telegra.ph/file/c20b3c6bd8ed904cb74f6.jpg",
+        "https://telegra.ph/file/10b8161b63dcd5eb8fb05.jpg",
+        "https://telegra.ph/file/fa7e3fa836c5876b2e362.jpg",
+        "https://telegra.ph/file/2df0841a733546747c0c1.jpg",
+        "https://telegra.ph/file/caaf4672036de77541bfa.jpg",
+        "https://telegra.ph/file/f9189e3e99b9aa2a2aabb.jpg",
+        "https://telegra.ph/file/03d94daac6f1c99509991.jpg",
+        "https://telegra.ph/file/829d43a9108aeb375597e.jpg",
+        "https://telegra.ph/file/a958b0b16edf7b5ab5903.jpg",
+        "https://telegra.ph/file/5504d7f98aaa454607be5.jpg",
+        "https://telegra.ph/file/fb4b545867e827cb5680a.jpg",
+        "https://telegra.ph/file/2a6ae38b3001d3351b9fd.jpg",
+        "https://telegra.ph/file/052c37098792f139a84e8.jpg",
+        "https://telegra.ph/file/1f6b15706101a7b756ad9.jpg",
+        "https://telegra.ph/file/17b616472cc15d494fa13.jpg",
+        "https://telegra.ph/file/b520691614058d6e6d02f.jpg",
+        "https://telegra.ph/file/d3ae9ec75986bbd19c579.jpg",
+        "https://telegra.ph/file/a217a6d125fd4b30cccd9.jpg",
+        "https://telegra.ph/file/a8df3540a0c094331e392.jpg",
+        "https://telegra.ph/file/5df24904c8bce5b261fc1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

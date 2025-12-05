@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4806,
+    "title": "二佐Nisa - 中华风小恶魔",
+    "sourceUrl": "https://telegra.ph/二佐Nisa---中华风小恶魔-08-27",
+    "images": [
+        "https://telegra.ph/file/79cc1975911c0d4dbd122.jpg",
+        "https://telegra.ph/file/dd0bdde0979f5ead55c91.jpg",
+        "https://telegra.ph/file/5cec3c63c44ae31ff2058.jpg",
+        "https://telegra.ph/file/6d5971210672336e95047.jpg",
+        "https://telegra.ph/file/790a626f85fd2e8b0cdba.jpg",
+        "https://telegra.ph/file/9ab45ae9ea6a42e4188b3.jpg",
+        "https://telegra.ph/file/d2c2cac8a11c6ce7be37b.jpg",
+        "https://telegra.ph/file/8733b1381c9bb1de18e79.jpg",
+        "https://telegra.ph/file/846fbdfaf456ba6cfa099.jpg",
+        "https://telegra.ph/file/b3f4bc848caf7f1424a84.jpg",
+        "https://telegra.ph/file/0daceb6f77ccc4ab9c35e.jpg",
+        "https://telegra.ph/file/cfacaa44450c26e76b19d.jpg",
+        "https://telegra.ph/file/4c6770ee9672dbb5b3df9.jpg",
+        "https://telegra.ph/file/9b107c2759f5dbadb917e.jpg",
+        "https://telegra.ph/file/721eeb683fce1e51c3a28.jpg",
+        "https://telegra.ph/file/72a9d2a11a94120c26b1a.jpg",
+        "https://telegra.ph/file/7b19aba0f7dc9b4f7b034.jpg",
+        "https://telegra.ph/file/54a667e13a930a68a0d16.jpg",
+        "https://telegra.ph/file/79972980007ad4ef37e8b.jpg",
+        "https://telegra.ph/file/205c323af8d67d9565359.jpg",
+        "https://telegra.ph/file/38fc6843285ef2dab931a.jpg",
+        "https://telegra.ph/file/63aee3ae0fd3e85bfef7b.jpg",
+        "https://telegra.ph/file/83928a5642039d2702576.jpg",
+        "https://telegra.ph/file/0e1b60bef09613776ec57.jpg",
+        "https://telegra.ph/file/7757cc3625e483e980794.jpg",
+        "https://telegra.ph/file/35af838c18e1c6d2b5293.jpg",
+        "https://telegra.ph/file/93e7e5dbddf0151195d1d.jpg",
+        "https://telegra.ph/file/1f8eedb110e994c1ef86f.jpg",
+        "https://telegra.ph/file/23c760fd7210edccb7f86.jpg",
+        "https://telegra.ph/file/9e6d1fbc4b3c297c83f71.jpg",
+        "https://telegra.ph/file/2f9306747723039389d25.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

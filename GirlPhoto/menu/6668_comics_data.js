@@ -1,0 +1,38 @@
+const comicData = {
+    "IDcode": 6668,
+    "title": "落落Raku Breath（8月29会员资源）",
+    "sourceUrl": "https://telegra.ph/Breath8月29会员资源-08-25",
+    "images": [
+        "https://telegra.ph/file/4420cef2dff544b71f0eb.png",
+        "https://telegra.ph/file/bda2f3a1ac5bec0b39c81.jpg",
+        "https://telegra.ph/file/2898a33eaa5670ba491a7.jpg",
+        "https://telegra.ph/file/5a1b7a4cb69d0a714a7bc.jpg",
+        "https://telegra.ph/file/a7313ed4f6c763d2ce6c9.jpg",
+        "https://telegra.ph/file/eab81cba0995aece78a84.jpg",
+        "https://telegra.ph/file/a7275fb8489daa859eca4.jpg",
+        "https://telegra.ph/file/4c73b27198c54d10df152.jpg",
+        "https://telegra.ph/file/bc668ab07c119efe5ec6a.jpg",
+        "https://telegra.ph/file/b09e78c0252dbcb5d60ba.jpg",
+        "https://telegra.ph/file/26fd3043eb90b4e868ca6.jpg",
+        "https://telegra.ph/file/c76dc7b43cd44e5fddf43.jpg",
+        "https://telegra.ph/file/fc28ec8d4fd0642ae667b.jpg",
+        "https://telegra.ph/file/4a178b8875c548ef00726.jpg",
+        "https://telegra.ph/file/4caef338a7d6758958b2c.jpg",
+        "https://telegra.ph/file/ff20c396d57655d11c676.jpg",
+        "https://telegra.ph/file/455fb1449dce530eaa5ce.jpg",
+        "https://telegra.ph/file/473db045e32a192bcb362.jpg",
+        "https://telegra.ph/file/0a3d904dd456385099d84.jpg",
+        "https://telegra.ph/file/c5769a722b4bb92d1f4d9.jpg",
+        "https://telegra.ph/file/2ec769b260d1c450a759e.jpg",
+        "https://telegra.ph/file/caee59f499d0a7cad7539.jpg",
+        "https://telegra.ph/file/3dab1106d6000ca8128c4.jpg",
+        "https://telegra.ph/file/e90fe984bd576d8e82f4c.jpg",
+        "https://telegra.ph/file/58fe8f30472a2ee699f40.jpg",
+        "https://telegra.ph/file/a262b6e852f0247514e5f.jpg",
+        "https://telegra.ph/file/fbb13d93e9667c50f5ef6.jpg",
+        "https://telegra.ph/file/13482dcd4fbbcf3979410.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

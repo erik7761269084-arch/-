@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 3518,
+    "title": "不呆猫 - 新浴室人妻",
+    "sourceUrl": "https://telegra.ph/不呆猫---新浴室人妻-08-29",
+    "images": [
+        "https://telegra.ph/file/6457e870bb7088c6f75ed.jpg",
+        "https://telegra.ph/file/6fe412dc662dd78b8d4e0.jpg",
+        "https://telegra.ph/file/79c99c22a4ea66a3c9b7b.jpg",
+        "https://telegra.ph/file/6ae9a334032efc5c8b66b.jpg",
+        "https://telegra.ph/file/20c90d81dd197b8810208.jpg",
+        "https://telegra.ph/file/6363b7aefa1ac060ab71d.jpg",
+        "https://telegra.ph/file/8b891c30f93423d841220.jpg",
+        "https://telegra.ph/file/ba34ff0ad1647438a36b8.jpg",
+        "https://telegra.ph/file/166eac4af7862c0c48fce.jpg",
+        "https://telegra.ph/file/21ca0ffa4f7c54d1e6b4f.jpg",
+        "https://telegra.ph/file/0f099d199981425e94af1.jpg",
+        "https://telegra.ph/file/674202b74b5e27efc13ba.jpg",
+        "https://telegra.ph/file/d76cdbb40b60ac654e63e.jpg",
+        "https://telegra.ph/file/95e73909b551bd03e52c2.jpg",
+        "https://telegra.ph/file/2604ed7a276f29a93992c.jpg",
+        "https://telegra.ph/file/f8f8c984b8370ceb8eed3.jpg",
+        "https://telegra.ph/file/d6333f23b88fe655ab74c.jpg",
+        "https://telegra.ph/file/3d0a6710d9e94a381b39e.jpg",
+        "https://telegra.ph/file/aec90cdf09c060fc825fc.jpg",
+        "https://telegra.ph/file/257fad1cf7fdab67c40f9.jpg",
+        "https://telegra.ph/file/90cd7bedadac40db64cd2.jpg",
+        "https://telegra.ph/file/17d314514893a924bd552.jpg",
+        "https://telegra.ph/file/213775086c95418b0fd91.jpg",
+        "https://telegra.ph/file/72c3af71be02a331da557.jpg",
+        "https://telegra.ph/file/ada471725b52616430049.jpg",
+        "https://telegra.ph/file/6411c310b9175dfedeae8.jpg",
+        "https://telegra.ph/file/5830745ac8a1a4a009de0.jpg",
+        "https://telegra.ph/file/fd21d277f4e4c5992721b.jpg",
+        "https://telegra.ph/file/4d63a623e7b3ded5500e9.jpg",
+        "https://telegra.ph/file/319054318c1e07ef6de5c.jpg",
+        "https://telegra.ph/file/fc7284a4d67da3cef76c6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

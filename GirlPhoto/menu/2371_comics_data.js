@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 2371,
+    "title": "Tina很妖孽呀 战斗服旗袍 32P",
+    "sourceUrl": "https://telegra.ph/Tina%E5%BE%88%E5%A6%96%E5%AD%BD%E5%91%80-%E6%88%98%E6%96%97%E6%9C%8D%E6%97%97%E8%A2%8D-32P-08-22",
+    "images": [
+        "https://telegra.ph/file/3efb50ba958bb2e94ce3c.jpg",
+        "https://telegra.ph/file/d1f5fb315bbabfafcfb0e.jpg",
+        "https://telegra.ph/file/ac900491031eb65d535ce.jpg",
+        "https://telegra.ph/file/4ba7f37e52db570485177.jpg",
+        "https://telegra.ph/file/ad535e312db031345df9f.jpg",
+        "https://telegra.ph/file/3a86cc5d67fa7b941ba01.jpg",
+        "https://telegra.ph/file/1344c50b5930d540d19de.jpg",
+        "https://telegra.ph/file/29c0c3b1b1155d6bbb05a.jpg",
+        "https://telegra.ph/file/cef86be840fb1d0a61dc5.jpg",
+        "https://telegra.ph/file/8d25c2c465bfa4f22b8be.jpg",
+        "https://telegra.ph/file/b488eaa753ba03196bdb6.jpg",
+        "https://telegra.ph/file/e1cfc261d961335f488b4.jpg",
+        "https://telegra.ph/file/e04635bd45dbc2e5dfa28.jpg",
+        "https://telegra.ph/file/7c3f44cae5a5e2a2149a8.jpg",
+        "https://telegra.ph/file/6ae592e7ea68c118f4d3a.jpg",
+        "https://telegra.ph/file/19ff9cdc979c6952b8e90.jpg",
+        "https://telegra.ph/file/df4a76d2027dc849892c1.jpg",
+        "https://telegra.ph/file/5141aa5fc5ec12e40292f.jpg",
+        "https://telegra.ph/file/c6ddadfe2f1aeac7bdebb.jpg",
+        "https://telegra.ph/file/74c1cec449debf40e1e4e.jpg",
+        "https://telegra.ph/file/2b721f648c726cde78ec4.jpg",
+        "https://telegra.ph/file/bfe0db6abb96c7d835c7b.jpg",
+        "https://telegra.ph/file/6c4b37ea2236a826bf74c.jpg",
+        "https://telegra.ph/file/121c7c259b9a4e46e9136.jpg",
+        "https://telegra.ph/file/aad386a7a862d4a7fe160.jpg",
+        "https://telegra.ph/file/d9c756ad1f9bcfa85ff7d.jpg",
+        "https://telegra.ph/file/ad3935691eca38ac8cec1.jpg",
+        "https://telegra.ph/file/d793b7a68d383d23eea25.jpg",
+        "https://telegra.ph/file/ac57987fcdd42eded7f18.jpg",
+        "https://telegra.ph/file/8649633ef164aefe8c45d.jpg",
+        "https://telegra.ph/file/30fe378726c1eacd7cd7c.jpg",
+        "https://telegra.ph/file/5f4fff6c40123313e4e31.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8149,
+    "title": "皮皮奶可可爱了啦 - 银色女警",
+    "sourceUrl": "https://telegra.ph/皮皮奶可可爱了啦---银色女警-08-28",
+    "images": [
+        "https://telegra.ph/file/79db7db684cf27f57bda1.jpg",
+        "https://telegra.ph/file/bb369cf0ea4be5e77c079.jpg",
+        "https://telegra.ph/file/22a5bf6ce44779080deb6.jpg",
+        "https://telegra.ph/file/a54d7f2051842ef25db38.jpg",
+        "https://telegra.ph/file/5f7b0c291d8b8d2a5fa7b.jpg",
+        "https://telegra.ph/file/e100163e2702a1c1fe726.jpg",
+        "https://telegra.ph/file/9536ae78572807974bcb4.jpg",
+        "https://telegra.ph/file/21761f1a8a0811eabff04.jpg",
+        "https://telegra.ph/file/448ea0373adeca8c01485.jpg",
+        "https://telegra.ph/file/7ae483758d671342fd6c0.jpg",
+        "https://telegra.ph/file/18031818c19cbbf7ecae7.jpg",
+        "https://telegra.ph/file/9f14b844559cb9889e039.jpg",
+        "https://telegra.ph/file/c56d8626d65e756210a1e.jpg",
+        "https://telegra.ph/file/9271ade0e42f260220127.jpg",
+        "https://telegra.ph/file/d798d089c582b38bf3971.jpg",
+        "https://telegra.ph/file/f2d05fd3b2e20f105c424.jpg",
+        "https://telegra.ph/file/bfeaaa173a8a6741be74f.jpg",
+        "https://telegra.ph/file/d66b0b94a4b0eeaf7be22.jpg",
+        "https://telegra.ph/file/651a52b6fe3329d6b5485.jpg",
+        "https://telegra.ph/file/f6b13612573dbae1103f1.jpg",
+        "https://telegra.ph/file/93f6bd28120d8dc238053.jpg",
+        "https://telegra.ph/file/b3b522e16a0d01afb1e99.jpg",
+        "https://telegra.ph/file/867602e537f08fce74e62.jpg",
+        "https://telegra.ph/file/de24d5bc73428051379ad.jpg",
+        "https://telegra.ph/file/bc66105ad5ed871652241.jpg",
+        "https://telegra.ph/file/e4339afe22d3888c508be.jpg",
+        "https://telegra.ph/file/63a8aea7e5d627d8ac5fd.jpg",
+        "https://telegra.ph/file/b2860a74f9919e69b2bd3.jpg",
+        "https://telegra.ph/file/badec814e36c12b905130.jpg",
+        "https://telegra.ph/file/03b052d07dae9e5675b0f.jpg",
+        "https://telegra.ph/file/8828ac44a9c99e37337d6.jpg",
+        "https://telegra.ph/file/7d75301830924bcab9d83.jpg",
+        "https://telegra.ph/file/7c0c1722872910e3ed0cb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

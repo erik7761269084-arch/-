@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4762,
+    "title": "二佐Nisa - 高雄泳装",
+    "sourceUrl": "https://telegra.ph/二佐Nisa---高雄泳装-08-27",
+    "images": [
+        "https://telegra.ph/file/26f7dc985b9977c73c323.jpg",
+        "https://telegra.ph/file/0b15052d8a2b3fd25df5d.jpg",
+        "https://telegra.ph/file/5d20b8c12a08360ed27ad.jpg",
+        "https://telegra.ph/file/163a771c14ea3172ebc81.jpg",
+        "https://telegra.ph/file/3ffe2b7c331ee2343bbb4.jpg",
+        "https://telegra.ph/file/b739a8a4837772bdccbf0.jpg",
+        "https://telegra.ph/file/5a840ea8ebfedbdf08b58.jpg",
+        "https://telegra.ph/file/635006aacd3b1763f430d.jpg",
+        "https://telegra.ph/file/dbcdd2534d896078086df.jpg",
+        "https://telegra.ph/file/56497077320790439459b.jpg",
+        "https://telegra.ph/file/e6dd34b764910b76f86aa.jpg",
+        "https://telegra.ph/file/0833ea587b8a02e0a1c97.jpg",
+        "https://telegra.ph/file/3c35b201ad6c9f2b3f084.jpg",
+        "https://telegra.ph/file/e95b8bea35831076844e3.jpg",
+        "https://telegra.ph/file/3b4d40d212534202878bf.jpg",
+        "https://telegra.ph/file/3b9c61709ba199a6fbaf5.jpg",
+        "https://telegra.ph/file/3cd53648711303508d15e.jpg",
+        "https://telegra.ph/file/d11f9149066afc78a11c3.jpg",
+        "https://telegra.ph/file/1946ed17b50e7b701e519.jpg",
+        "https://telegra.ph/file/d640ce334446840d40e0a.jpg",
+        "https://telegra.ph/file/2d2be612bc849921283dc.jpg",
+        "https://telegra.ph/file/a3c27d87a724d06e60196.jpg",
+        "https://telegra.ph/file/d5a083f441d97f97ddd64.jpg",
+        "https://telegra.ph/file/92675af7fc7dcd010b358.jpg",
+        "https://telegra.ph/file/91456e536afe1be4ca64b.jpg",
+        "https://telegra.ph/file/32d57273729db7499d9b5.jpg",
+        "https://telegra.ph/file/98c6519dc69a4d0d14fed.jpg",
+        "https://telegra.ph/file/176dc54a205730d689f64.jpg",
+        "https://telegra.ph/file/3ea7a8c3ea6f5036c53b6.jpg",
+        "https://telegra.ph/file/3b16787d15b7d7c771836.jpg",
+        "https://telegra.ph/file/68a680c25ce220d051da6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

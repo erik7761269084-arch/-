@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10994,
+    "title": "小容仔咕咕咕 黑兽巫女辉夜 [31P-462MB]",
+    "sourceUrl": "https://telegra.ph/小容仔咕咕咕-黑兽巫女辉夜-31P-462MB-08-25",
+    "images": [
+        "https://telegra.ph/file/6d5b5a494633236ed981c.jpg",
+        "https://telegra.ph/file/b2dc8efbbd0492f7123f4.jpg",
+        "https://telegra.ph/file/2cb3625260b3fe3a2ec23.jpg",
+        "https://telegra.ph/file/5c52ecc73911f7eee7816.jpg",
+        "https://telegra.ph/file/ad0a8760d5530976adadd.jpg",
+        "https://telegra.ph/file/449fdb952ec9c49be3ed9.jpg",
+        "https://telegra.ph/file/30963db16b9798e1f384e.jpg",
+        "https://telegra.ph/file/235c1cc2390b7b1eb0987.jpg",
+        "https://telegra.ph/file/839e24e208941ba8102fc.jpg",
+        "https://telegra.ph/file/7af4a807d2a6241fd2e46.jpg",
+        "https://telegra.ph/file/88e091def9f6d3d4e8761.jpg",
+        "https://telegra.ph/file/704b0833825e98f693755.jpg",
+        "https://telegra.ph/file/67f80709d6bffa633a96f.jpg",
+        "https://telegra.ph/file/ff056421eb1217581f9a9.jpg",
+        "https://telegra.ph/file/e93a1f562f2b00b881405.jpg",
+        "https://telegra.ph/file/edf1f43589b0111ec150b.jpg",
+        "https://telegra.ph/file/2a4f41475dc5a6237b6ce.jpg",
+        "https://telegra.ph/file/be513ee52d8c76be9282a.jpg",
+        "https://telegra.ph/file/0e11dbed85f1d0594a3de.jpg",
+        "https://telegra.ph/file/e6ccd1a3f0d522373e0c4.jpg",
+        "https://telegra.ph/file/9da9d7cbc8a176fa17853.jpg",
+        "https://telegra.ph/file/a42df1f39f4eb82c3f878.jpg",
+        "https://telegra.ph/file/c961e1b156a86817440db.jpg",
+        "https://telegra.ph/file/df712b9c37a47531e7be7.jpg",
+        "https://telegra.ph/file/76ff9532b6cfe6cb58f50.jpg",
+        "https://telegra.ph/file/c32e06751d5137ec96538.jpg",
+        "https://telegra.ph/file/636045afd5cc0b8a5d54d.jpg",
+        "https://telegra.ph/file/577b54361a8214e450c0f.jpg",
+        "https://telegra.ph/file/5d3d70a2b4191f38f015c.jpg",
+        "https://telegra.ph/file/90a344a7b861248d97db7.jpg",
+        "https://telegra.ph/file/7f011300c02b3b6ea1032.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

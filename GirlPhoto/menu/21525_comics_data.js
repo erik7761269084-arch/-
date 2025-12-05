@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21525,
+    "title": "曼柔 图书馆",
+    "sourceUrl": "https://telegra.ph/曼柔-图书馆-08-29",
+    "images": [
+        "https://telegra.ph/file/851255cf3bf50bd7dd2c6.jpg",
+        "https://telegra.ph/file/db89a0b4aa2df3d91e075.jpg",
+        "https://telegra.ph/file/e9c5dd129e2f8c6a7fab6.jpg",
+        "https://telegra.ph/file/c9e53fac702bd239a08f4.jpg",
+        "https://telegra.ph/file/9d174e5fd50d1c9825296.jpg",
+        "https://telegra.ph/file/262d5bdbefd65b8c44222.jpg",
+        "https://telegra.ph/file/893070d9dc7b2103155d0.jpg",
+        "https://telegra.ph/file/af99cc1f0d8f0642ad25b.jpg",
+        "https://telegra.ph/file/5e56c2c19b71c5674f9c8.jpg",
+        "https://telegra.ph/file/8985a278c3e8a44075e61.jpg",
+        "https://telegra.ph/file/ef915df7dc128fa77647a.jpg",
+        "https://telegra.ph/file/9b2e2c022156c7e7526f2.jpg",
+        "https://telegra.ph/file/9701bcf9e37c35f082801.jpg",
+        "https://telegra.ph/file/b678ba898dd640d44c390.jpg",
+        "https://telegra.ph/file/cefc91243ec52d392e2cd.jpg",
+        "https://telegra.ph/file/dbc8ccea8af2d2d6513b2.jpg",
+        "https://telegra.ph/file/8c0c20ce744db7d3d71da.jpg",
+        "https://telegra.ph/file/16d900ce17acd0491a855.jpg",
+        "https://telegra.ph/file/7c9e9d7fbf6a41250ec5b.jpg",
+        "https://telegra.ph/file/37df715d852c1c5212a73.jpg",
+        "https://telegra.ph/file/386c4fb6f4cac11d6398b.jpg",
+        "https://telegra.ph/file/8544a42d6f43e42966262.jpg",
+        "https://telegra.ph/file/47b21e572831cd6f76a9c.jpg",
+        "https://telegra.ph/file/45f8d92cabeb56683b9b6.jpg",
+        "https://telegra.ph/file/d25077edc1d879a114d2d.jpg",
+        "https://telegra.ph/file/5ac20f44c20346ad92839.jpg",
+        "https://telegra.ph/file/211356c580ebafb1e1f07.jpg",
+        "https://telegra.ph/file/d144bd785122443c32a99.jpg",
+        "https://telegra.ph/file/658f9678b95e25fca660d.jpg",
+        "https://telegra.ph/file/db58b05d5552d8b38dbac.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

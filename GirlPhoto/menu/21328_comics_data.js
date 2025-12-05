@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21328,
+    "title": "GlamAR BAEK SUL TANG – No.18 - Private maid",
+    "sourceUrl": "https://telegra.ph/GlamAR-BAEK-SUL-TANG--No18---Private-maid-08-29",
+    "images": [
+        "https://telegra.ph/file/7d0ef80c2fba8665da9e0.jpg",
+        "https://telegra.ph/file/e5de480d49a59f24a21cf.jpg",
+        "https://telegra.ph/file/a02e0acb2a9052884bc79.jpg",
+        "https://telegra.ph/file/d28ca4ebbf69752edb3ee.jpg",
+        "https://telegra.ph/file/84b45b941fe29d1569d1d.jpg",
+        "https://telegra.ph/file/707845751de629b41b939.jpg",
+        "https://telegra.ph/file/b297f1fdf697a08e365b9.jpg",
+        "https://telegra.ph/file/9a515fab87511d3ef956b.jpg",
+        "https://telegra.ph/file/2487d7bcfd2bcd103bac6.jpg",
+        "https://telegra.ph/file/d2f7fe0b947313b262002.jpg",
+        "https://telegra.ph/file/6399bb1caf8045be6aeae.jpg",
+        "https://telegra.ph/file/880ea6bb568103cec60b3.jpg",
+        "https://telegra.ph/file/31f8084ea3ac7064b762c.jpg",
+        "https://telegra.ph/file/b8a6be4224892d9fb7769.jpg",
+        "https://telegra.ph/file/c8b86c361e134c1a5b227.jpg",
+        "https://telegra.ph/file/48b87c596c2f86d312bc1.jpg",
+        "https://telegra.ph/file/34e6d4b92134bac560960.jpg",
+        "https://telegra.ph/file/5cf190591b4aff4c27774.jpg",
+        "https://telegra.ph/file/e26e6c56f6e9f659e5c2d.jpg",
+        "https://telegra.ph/file/4f9f8039ea138f32af48b.jpg",
+        "https://telegra.ph/file/24e5f116dabfd45d47d34.jpg",
+        "https://telegra.ph/file/319f2233858ee312b9249.jpg",
+        "https://telegra.ph/file/001d66db3c3657e786ac0.jpg",
+        "https://telegra.ph/file/6a8db7f4babfbf2053166.jpg",
+        "https://telegra.ph/file/8e1bf1045b86d3ff37643.jpg",
+        "https://telegra.ph/file/44ecbed4e4316c91d6c89.jpg",
+        "https://telegra.ph/file/0361579b5383c8ea6f7e5.jpg",
+        "https://telegra.ph/file/918d86522e48c557a585d.jpg",
+        "https://telegra.ph/file/a5f03f4490065bc84c9bf.jpg",
+        "https://telegra.ph/file/8fb3855cda54a5939d4cc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

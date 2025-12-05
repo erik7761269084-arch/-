@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8361,
+    "title": "千澄 - 垂耳兔 [31P-91.8MB]",
+    "sourceUrl": "https://telegra.ph/%E5%8D%83%E6%BE%84---%E5%9E%82%E8%80%B3%E5%85%94-31P-918MB-08-21",
+    "images": [
+        "https://image.acg.lol/file/2024/10/17/20241017-08575020.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857502.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857503.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857504.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857505.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857506.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857507.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857508.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-0857509.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575010.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575011.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575012.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575013.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575014.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575015.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575016.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575017.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575018.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575019.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575021.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575022.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575023.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575024.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575025.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575026.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575027.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575028.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575029.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575030.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575031.jpg",
+        "https://image.acg.lol/file/2024/10/17/20241017-08575032.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

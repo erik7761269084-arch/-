@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12364,
+    "title": "一米八的大梨子 黑贞女仆特典[30P 229MB]",
+    "sourceUrl": "https://telegra.ph/黑贞女仆特典30P-229MB-08-25",
+    "images": [
+        "https://telegra.ph/file/fdc1ba70f182ef5507004.jpg",
+        "https://telegra.ph/file/a94833eacd1c786d884b3.jpg",
+        "https://telegra.ph/file/3a78918f9d7cdb9218a7b.jpg",
+        "https://telegra.ph/file/749ca9058ec1fce2e051b.jpg",
+        "https://telegra.ph/file/5c08b93e2d9882abc526a.jpg",
+        "https://telegra.ph/file/c41a1210d774defd5636d.jpg",
+        "https://telegra.ph/file/ff7463bccf4c514414033.jpg",
+        "https://telegra.ph/file/10478e3bc35a7e83ef94f.jpg",
+        "https://telegra.ph/file/f56578dded84cef153b60.jpg",
+        "https://telegra.ph/file/f47fcac327c3e28d976ec.jpg",
+        "https://telegra.ph/file/f214db1bdedddc4641d80.jpg",
+        "https://telegra.ph/file/debb01c6b3e83fa568a68.jpg",
+        "https://telegra.ph/file/cbb59bd1a16b085e75311.jpg",
+        "https://telegra.ph/file/bffe7693e6ce7f44aca9f.jpg",
+        "https://telegra.ph/file/411e6c103bf6d66deb971.jpg",
+        "https://telegra.ph/file/bdeee7b565c39e1d141da.jpg",
+        "https://telegra.ph/file/04e60626f953b788acdc9.jpg",
+        "https://telegra.ph/file/2c3412469f77613f00453.jpg",
+        "https://telegra.ph/file/8fc7ce5ae603e2f8eb6e5.jpg",
+        "https://telegra.ph/file/bded43342acc9a0d7a8ff.jpg",
+        "https://telegra.ph/file/a3b5f6b5278c0c6d414b6.jpg",
+        "https://telegra.ph/file/9eebffad77ca50bd025a5.jpg",
+        "https://telegra.ph/file/a739d0869ae9afdfbce3b.jpg",
+        "https://telegra.ph/file/b4ddecbb35c08d80360fc.jpg",
+        "https://telegra.ph/file/d581e2947a029ed3f16e5.jpg",
+        "https://telegra.ph/file/884a13068358525127d04.jpg",
+        "https://telegra.ph/file/666775a0a7204c71aefea.jpg",
+        "https://telegra.ph/file/0792a3eb14c7f7b769732.jpg",
+        "https://telegra.ph/file/1bef3270242ec9846baae.jpg",
+        "https://telegra.ph/file/c350502317f45b8d9a203.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

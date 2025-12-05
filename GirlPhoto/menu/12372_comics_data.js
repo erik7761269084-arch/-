@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12372,
+    "title": "一米八的大梨子 - 吉他姐姐",
+    "sourceUrl": "https://telegra.ph/一米八的大梨子---吉他姐姐-08-29",
+    "images": [
+        "https://telegra.ph/file/b45ec94b74a11d74d0016.jpg",
+        "https://telegra.ph/file/ff8fd75547c8ec71bd00c.jpg",
+        "https://telegra.ph/file/d858fb10649e8eb531a94.jpg",
+        "https://telegra.ph/file/d352b60a26fe8d304e5b5.jpg",
+        "https://telegra.ph/file/65b3bf435ef99594bf445.jpg",
+        "https://telegra.ph/file/a8427faffcacffc4b5d65.jpg",
+        "https://telegra.ph/file/8f3251b3cd80f02ef7108.jpg",
+        "https://telegra.ph/file/516a87b194f8d868f8b7f.jpg",
+        "https://telegra.ph/file/ac1a7fb1858c02587f1cd.jpg",
+        "https://telegra.ph/file/3112c508451019b8237f9.jpg",
+        "https://telegra.ph/file/cb16da9ff20f83335ad73.jpg",
+        "https://telegra.ph/file/064dd35c5c3e3fdc8a6d4.jpg",
+        "https://telegra.ph/file/996ccde72485cf529874b.jpg",
+        "https://telegra.ph/file/233632440c12c785ca5dc.jpg",
+        "https://telegra.ph/file/3c928e33999c53287a0eb.jpg",
+        "https://telegra.ph/file/29402ea9ac02516918ebf.jpg",
+        "https://telegra.ph/file/2e9f453c5a376757368ba.jpg",
+        "https://telegra.ph/file/a31054a7923cfb49d6cd6.jpg",
+        "https://telegra.ph/file/576c6fec533b9a988ecd5.jpg",
+        "https://telegra.ph/file/df4d1dcc9bf27b51a3e3d.jpg",
+        "https://telegra.ph/file/9ba232dcd84468373248c.jpg",
+        "https://telegra.ph/file/0d39d64526c066ce1a0c3.jpg",
+        "https://telegra.ph/file/777e45a5d4618d11152a3.jpg",
+        "https://telegra.ph/file/b94ed51744c209ce1f296.jpg",
+        "https://telegra.ph/file/dfef9c2334de62e690834.jpg",
+        "https://telegra.ph/file/115e43c060152eb2ef44d.jpg",
+        "https://telegra.ph/file/91dc1438fd45e2aaf4978.jpg",
+        "https://telegra.ph/file/14b26f55af2f70f4049f7.jpg",
+        "https://telegra.ph/file/36fa3f6b8f2ab5cc4622a.jpg",
+        "https://telegra.ph/file/0f874b7ba8f4fae542bd9.jpg",
+        "https://telegra.ph/file/990f72b7d9e9e368938d3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4780,
+    "title": "二佐Nisa 蕾姆护士",
+    "sourceUrl": "https://telegra.ph/二佐Nisa-蕾姆护士-08-27",
+    "images": [
+        "https://telegra.ph/file/4c4977db636a0fca8d911.jpg",
+        "https://telegra.ph/file/f55998711a1c182395232.jpg",
+        "https://telegra.ph/file/c860ec63cdcdd9bf5ea03.jpg",
+        "https://telegra.ph/file/ee4510cb9d74dd2db1479.jpg",
+        "https://telegra.ph/file/5071308bed88018ee23c0.jpg",
+        "https://telegra.ph/file/7d1918db8d82228b6cef1.jpg",
+        "https://telegra.ph/file/3842e80274e84661caeb7.jpg",
+        "https://telegra.ph/file/4b5a239eaaf893b3bac50.jpg",
+        "https://telegra.ph/file/3bfe88bf1bec08a19e123.jpg",
+        "https://telegra.ph/file/3f98cac5e2b8d840cb192.jpg",
+        "https://telegra.ph/file/244a86e212cd784d9e051.jpg",
+        "https://telegra.ph/file/38389680b4fc1e9691091.jpg",
+        "https://telegra.ph/file/c23a552fe35ef34c6a86f.jpg",
+        "https://telegra.ph/file/ddc1dda3055128203dac6.jpg",
+        "https://telegra.ph/file/34207fa542a82b3fe3c6d.jpg",
+        "https://telegra.ph/file/f3260e93078010e85f594.jpg",
+        "https://telegra.ph/file/7bf00cc7b0fe80cafa031.jpg",
+        "https://telegra.ph/file/d93b08e3fa90df783875e.jpg",
+        "https://telegra.ph/file/3b856843926cc26710480.jpg",
+        "https://telegra.ph/file/cede29f77a6baf545e9ca.jpg",
+        "https://telegra.ph/file/c72c9088f755beb63dba8.jpg",
+        "https://telegra.ph/file/0ed861fc1cab79b67155a.jpg",
+        "https://telegra.ph/file/15423bf8f09adc3f21b27.jpg",
+        "https://telegra.ph/file/469be8374e16a4e40cc17.jpg",
+        "https://telegra.ph/file/daf93d0c4b6fe2ed265b2.jpg",
+        "https://telegra.ph/file/f3fedb7d5fed45b4bb594.jpg",
+        "https://telegra.ph/file/ba00fc37271f9ee79289b.jpg",
+        "https://telegra.ph/file/58dffaf22941c075abffe.jpg",
+        "https://telegra.ph/file/8526a7d427c79660fe859.jpg",
+        "https://telegra.ph/file/8d079bf9104665a4f63d4.jpg",
+        "https://telegra.ph/file/9bf6aca95a84878542cda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

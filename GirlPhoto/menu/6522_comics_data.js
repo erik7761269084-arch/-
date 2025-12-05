@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 6522,
+    "title": "鹿野希  【2021年09月】Olガール~オフィス編~",
+    "sourceUrl": "https://telegra.ph/鹿野希-2021年09月Olガールオフィス編-08-27-2",
+    "images": [
+        "https://telegra.ph/file/568281892c8548965cf0c.jpg",
+        "https://telegra.ph/file/4965277d963e8105bf1d0.jpg",
+        "https://telegra.ph/file/f748e4f534541727475e8.jpg",
+        "https://telegra.ph/file/350dc1e2b21b3cd9c8c7e.jpg",
+        "https://telegra.ph/file/43869d7a387fa59916ce6.jpg",
+        "https://telegra.ph/file/116df09a3d7b4fa3a4090.jpg",
+        "https://telegra.ph/file/67f81855fe8222819a903.jpg",
+        "https://telegra.ph/file/7e166e720dd63495406b0.jpg",
+        "https://telegra.ph/file/5c68c01f0365cfe1665aa.jpg",
+        "https://telegra.ph/file/18292c2e62ac28de0363d.jpg",
+        "https://telegra.ph/file/697f9509d5e3d8f18bae0.jpg",
+        "https://telegra.ph/file/5ba968772aaca5478a7bd.jpg",
+        "https://telegra.ph/file/22fb66f2e6c7b307d274e.jpg",
+        "https://telegra.ph/file/b34517b6f2c08e5e3e317.jpg",
+        "https://telegra.ph/file/2edb7cff686510937720d.jpg",
+        "https://telegra.ph/file/5f2ab60757a6f8aad5ecc.jpg",
+        "https://telegra.ph/file/6fdfba26cf44446ad7846.jpg",
+        "https://telegra.ph/file/1a7fa1f28ec39a9fa11ba.jpg",
+        "https://telegra.ph/file/29ad214ebb2a567260ab4.jpg",
+        "https://telegra.ph/file/9bc1d0b0fc61986d27413.jpg",
+        "https://telegra.ph/file/1abf3e2c8c847d0927896.jpg",
+        "https://telegra.ph/file/6cdc5ba6c3689eeb2c5fb.jpg",
+        "https://telegra.ph/file/20eba1f728c5ebef38b26.jpg",
+        "https://telegra.ph/file/e994365444c92f37fdca8.jpg",
+        "https://telegra.ph/file/c9b508faddf41b37c7667.jpg",
+        "https://telegra.ph/file/8bec21ca6f4e3a24f6dab.jpg",
+        "https://telegra.ph/file/6abb7cf6eed821d0995d1.jpg",
+        "https://telegra.ph/file/7b5917a36eef81d73f991.jpg",
+        "https://telegra.ph/file/7174d6e76a9bf1d71cff3.jpg",
+        "https://telegra.ph/file/f6ce277c4137af2dd07a2.jpg",
+        "https://telegra.ph/file/606aaf4a5d9a9dce5bfeb.jpg",
+        "https://telegra.ph/file/09c69c292df27dd864006.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

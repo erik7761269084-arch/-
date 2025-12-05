@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11060,
+    "title": "曉美媽 - 恶堕-快感之牢",
+    "sourceUrl": "https://telegra.ph/动漫博主曉美媽---恶堕-快感之牢-08-26",
+    "images": [
+        "https://telegra.ph/file/2a545d9ba287e5714e50b.jpg",
+        "https://telegra.ph/file/a5f9f8115633f023d2909.jpg",
+        "https://telegra.ph/file/752d01ff7c35d8b115ee6.jpg",
+        "https://telegra.ph/file/d6a70d452b50b5d0d1439.jpg",
+        "https://telegra.ph/file/39232dc43efede13e5175.jpg",
+        "https://telegra.ph/file/af9dcaa8f0a2c7c0412e3.jpg",
+        "https://telegra.ph/file/ce2b6c328531b6602735e.jpg",
+        "https://telegra.ph/file/f4f8b98a2c2b9cf94f526.jpg",
+        "https://telegra.ph/file/7eb9b92a51576fa95da39.jpg",
+        "https://telegra.ph/file/c88d960c9e2a69fca0715.jpg",
+        "https://telegra.ph/file/f244554f30a14f178ca9e.jpg",
+        "https://telegra.ph/file/a95bde3dd604212a8ea3b.jpg",
+        "https://telegra.ph/file/aaee2783c9d3b5363bd92.jpg",
+        "https://telegra.ph/file/4f4e92c0129e56c722c51.jpg",
+        "https://telegra.ph/file/624c52c5ccdf24f40cb8b.jpg",
+        "https://telegra.ph/file/1472067f3d2560e8db819.jpg",
+        "https://telegra.ph/file/912ddb8d1ad8e170094f3.jpg",
+        "https://telegra.ph/file/501f0aea4da3ddaf47093.jpg",
+        "https://telegra.ph/file/66e06e7ed4658bba9c0cb.jpg",
+        "https://telegra.ph/file/9d7c7baae48609f5646d6.jpg",
+        "https://telegra.ph/file/d73870db1d6e4ac2d823f.jpg",
+        "https://telegra.ph/file/798f6e0be5614199c222d.jpg",
+        "https://telegra.ph/file/5b8dcbcee895b235f3b31.jpg",
+        "https://telegra.ph/file/86079b0f87d5a0a30e7b4.jpg",
+        "https://telegra.ph/file/07750cd8f08418ec9d5b7.jpg",
+        "https://telegra.ph/file/1715483ccfd444bd7387b.jpg",
+        "https://telegra.ph/file/75f8c849357d05a38338d.jpg",
+        "https://telegra.ph/file/c34cf2dbb7749985f8d8d.jpg",
+        "https://telegra.ph/file/323cc4ba58a9bc824ad4d.jpg",
+        "https://telegra.ph/file/5f388c7288692e55a723d.jpg",
+        "https://telegra.ph/file/d7332c1334d5c6ce57d97.jpg",
+        "https://telegra.ph/file/8025b6a1947c83a29f4d9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

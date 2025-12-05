@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10618,
+    "title": "夏树 - 奈子特别大的女孩",
+    "sourceUrl": "https://telegra.ph/夏树---奈子特别大的女孩-08-27",
+    "images": [
+        "https://telegra.ph/file/4cd311ce730c50dd7bd59.jpg",
+        "https://telegra.ph/file/a5eb39a80bd77da81db3d.jpg",
+        "https://telegra.ph/file/dc1c68bac59e1dc4f43e3.jpg",
+        "https://telegra.ph/file/5793edfef2a63bfa93974.jpg",
+        "https://telegra.ph/file/d01a5843ef53dcd629caa.jpg",
+        "https://telegra.ph/file/997a4ee796430f851e595.jpg",
+        "https://telegra.ph/file/18663d9cb145c12e7fde8.jpg",
+        "https://telegra.ph/file/22d55ede31b7132872f3a.jpg",
+        "https://telegra.ph/file/f07c469f9d89d412a545c.jpg",
+        "https://telegra.ph/file/866f24309b193a45f9a8c.jpg",
+        "https://telegra.ph/file/d20a76e5db67463a412f6.jpg",
+        "https://telegra.ph/file/36281c80b41f5dd9b1445.jpg",
+        "https://telegra.ph/file/6f1b05c3c16e7e71c8d8e.jpg",
+        "https://telegra.ph/file/a3d1f32784f3221688a47.jpg",
+        "https://telegra.ph/file/9fa7fa42d0936e7164bcc.jpg",
+        "https://telegra.ph/file/74af4cecf3db2381d9caf.jpg",
+        "https://telegra.ph/file/57da5622c2fa8f01aa50f.jpg",
+        "https://telegra.ph/file/fb787875a4a45baa1295a.jpg",
+        "https://telegra.ph/file/9f483741f9449301a3170.jpg",
+        "https://telegra.ph/file/bfba3f7ee103c55561e87.jpg",
+        "https://telegra.ph/file/9708fa555d9f37d129b86.jpg",
+        "https://telegra.ph/file/e84476b052e0554aea646.jpg",
+        "https://telegra.ph/file/6fae1d3af3697903daa5b.jpg",
+        "https://telegra.ph/file/0d3aba7257f1fc11e8c1c.jpg",
+        "https://telegra.ph/file/5c591bbca01c3bc947df9.jpg",
+        "https://telegra.ph/file/802664744e9a44d30d3f9.jpg",
+        "https://telegra.ph/file/9fe2c47563074371a11eb.jpg",
+        "https://telegra.ph/file/b588549dbd9522c94ff75.jpg",
+        "https://telegra.ph/file/cbd8908b87a7a91bf00c5.jpg",
+        "https://telegra.ph/file/d02d6dc756a6f6e3f2303.jpg",
+        "https://telegra.ph/file/e258f25193b6572f0ff20.jpg",
+        "https://telegra.ph/file/b1b0dfaee7f386a0feecd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5024,
+    "title": "疯猫ss - 思绪之浴室",
+    "sourceUrl": "https://telegra.ph/疯猫ss---思绪之浴室-08-27",
+    "images": [
+        "https://telegra.ph/file/0012e756e58fe85d88e01.jpg",
+        "https://telegra.ph/file/e9017e28b0de503fec526.jpg",
+        "https://telegra.ph/file/1f8ac7bdd04950d0e0f90.jpg",
+        "https://telegra.ph/file/ef2f18dda632e6bfa93ff.jpg",
+        "https://telegra.ph/file/7663742ff9fae0910ff58.jpg",
+        "https://telegra.ph/file/bf2a7c682bc71e7efba7e.jpg",
+        "https://telegra.ph/file/cc7ca67d457a72b8dd53a.jpg",
+        "https://telegra.ph/file/af628d2fb5d9c488835fe.jpg",
+        "https://telegra.ph/file/ce2f80e2ce0cefe204d0f.jpg",
+        "https://telegra.ph/file/d20ac914cc44fc035b5a2.jpg",
+        "https://telegra.ph/file/958dd151595671c2e24a9.jpg",
+        "https://telegra.ph/file/7cfc733ecd2a4fc94d89a.jpg",
+        "https://telegra.ph/file/d8105036b8a23bc671ddb.jpg",
+        "https://telegra.ph/file/ba9abdde2fbaa880c73e9.jpg",
+        "https://telegra.ph/file/d128e5355455203a0ee02.jpg",
+        "https://telegra.ph/file/197489042737abd9e8166.jpg",
+        "https://telegra.ph/file/a37046a37fcde988e3a35.jpg",
+        "https://telegra.ph/file/7fa33a62ac82f51abb2c8.jpg",
+        "https://telegra.ph/file/7ba9e6fc9f3368e561f0e.jpg",
+        "https://telegra.ph/file/4b44aae4f7d5bb7e73cb2.jpg",
+        "https://telegra.ph/file/a670d707341f1f92f9457.jpg",
+        "https://telegra.ph/file/8f0d08ebd366227e59566.jpg",
+        "https://telegra.ph/file/5f07b45c968262fb9e811.jpg",
+        "https://telegra.ph/file/bfd0039ecf42487ef9dff.jpg",
+        "https://telegra.ph/file/b1b2e18f56e8eef9a1da7.jpg",
+        "https://telegra.ph/file/e279f53a01cf0ad65bd5e.jpg",
+        "https://telegra.ph/file/943ba09f1d1ffe51306cd.jpg",
+        "https://telegra.ph/file/9237e46b039b23a175310.jpg",
+        "https://telegra.ph/file/84bf3e97c5b0bc33e0cac.jpg",
+        "https://telegra.ph/file/95f91e0537636b372ddb3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

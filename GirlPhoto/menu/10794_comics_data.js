@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10794,
+    "title": "小仓千代w - 巫女DLC",
+    "sourceUrl": "https://telegra.ph/小仓千代w---巫女DLC-08-26-2",
+    "images": [
+        "https://telegra.ph/file/4371ddf093a64e4aa20b2.jpg",
+        "https://telegra.ph/file/839371b38f226e288233f.jpg",
+        "https://telegra.ph/file/454bc95d91547086787d8.jpg",
+        "https://telegra.ph/file/e34bf9506b0532ab4c8f4.jpg",
+        "https://telegra.ph/file/cebaceef678feffa17ab6.jpg",
+        "https://telegra.ph/file/59188e2d91b71a22a0e03.jpg",
+        "https://telegra.ph/file/fb3585659feb8fba886c3.jpg",
+        "https://telegra.ph/file/0ea02ffc745ff630ce024.jpg",
+        "https://telegra.ph/file/4a308cafd4e6577b3dee6.jpg",
+        "https://telegra.ph/file/9b0b4d62c43a06b88d104.jpg",
+        "https://telegra.ph/file/d1e78e3f78826feb9c396.jpg",
+        "https://telegra.ph/file/fa8c0c0a70c24faad732f.jpg",
+        "https://telegra.ph/file/3a1c4619bd8d67f277d4e.jpg",
+        "https://telegra.ph/file/1dfb42b4ea7153001a3c3.jpg",
+        "https://telegra.ph/file/ee7371a22598e27cd18ee.jpg",
+        "https://telegra.ph/file/6a334508b25bb3de2b650.jpg",
+        "https://telegra.ph/file/ebee5f7b0ee24c010e656.jpg",
+        "https://telegra.ph/file/e45dcf87f561b1f08c8cb.jpg",
+        "https://telegra.ph/file/508eb1fe9f3706b820c13.jpg",
+        "https://telegra.ph/file/2d13740beba5222448bd2.jpg",
+        "https://telegra.ph/file/b9fb11652b3ac9a2a0a46.jpg",
+        "https://telegra.ph/file/a3bf73251f653af4f3a98.jpg",
+        "https://telegra.ph/file/96bf6646a6db67c176ba6.jpg",
+        "https://telegra.ph/file/e168b3fd0566c2cce8899.jpg",
+        "https://telegra.ph/file/fca1de6aed81b57cbc35b.jpg",
+        "https://telegra.ph/file/2d4e702ee63ed6f9ff6df.jpg",
+        "https://telegra.ph/file/b48ade7ada42ccc3bbc8c.jpg",
+        "https://telegra.ph/file/58354287bf0af0a953d00.jpg",
+        "https://telegra.ph/file/5f7f9c4e2fa4efd61e916.jpg",
+        "https://telegra.ph/file/df1a6a204a3ebbf0a4b11.jpg",
+        "https://telegra.ph/file/bbeaba73cf30216762884.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

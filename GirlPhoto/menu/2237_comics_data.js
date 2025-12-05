@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2237,
+    "title": "Shika小鹿鹿 - 爱宕旗袍",
+    "sourceUrl": "https://telegra.ph/萝莉COS-Shika小鹿鹿---爱宕旗袍-08-26",
+    "images": [
+        "https://telegra.ph/file/ad1a7c85da82a2885d0fc.jpg",
+        "https://telegra.ph/file/fd8982ce005da6c44458d.jpg",
+        "https://telegra.ph/file/8c3394ff6ddb99268c09f.jpg",
+        "https://telegra.ph/file/d158029196868cc2049c0.jpg",
+        "https://telegra.ph/file/51c9ff32f0aae19661ece.jpg",
+        "https://telegra.ph/file/6dc474065ad5e4b64dce8.jpg",
+        "https://telegra.ph/file/7974bb32d147cd96c0e7c.jpg",
+        "https://telegra.ph/file/f7c7e6a275d34ee4c2e11.jpg",
+        "https://telegra.ph/file/b01bfbb39b6fcc255424a.jpg",
+        "https://telegra.ph/file/b826226636d4df612ed31.jpg",
+        "https://telegra.ph/file/56d69ea61694d0aa46e3a.jpg",
+        "https://telegra.ph/file/721ac3c67b992addad102.jpg",
+        "https://telegra.ph/file/2a42ae2935970b1c21fdb.jpg",
+        "https://telegra.ph/file/3f52e6b67959cb642ee13.jpg",
+        "https://telegra.ph/file/568ef052a9fc528a675f7.jpg",
+        "https://telegra.ph/file/905666c96552a174a6b73.jpg",
+        "https://telegra.ph/file/1aed0e9dbfb8ed04e8a11.jpg",
+        "https://telegra.ph/file/58b8eb61577b1e7722b28.jpg",
+        "https://telegra.ph/file/95091102c7d1e0cde25a6.jpg",
+        "https://telegra.ph/file/5869fc699828f83f87682.jpg",
+        "https://telegra.ph/file/af2ae65bb9fbca1a5799b.jpg",
+        "https://telegra.ph/file/92e6328f7dada03ecfa1c.jpg",
+        "https://telegra.ph/file/fc0208ede0a999ead889f.jpg",
+        "https://telegra.ph/file/663736d99fb1e7ece4fc4.jpg",
+        "https://telegra.ph/file/8b0eb78c0eaa06c73e708.jpg",
+        "https://telegra.ph/file/b12709c29421852e45200.jpg",
+        "https://telegra.ph/file/c4c5fdd42ba6ef3bf0323.jpg",
+        "https://telegra.ph/file/9adac4510b931cae0b336.jpg",
+        "https://telegra.ph/file/282a9ac2eace1bdd30b7c.jpg",
+        "https://telegra.ph/file/213f51a8ada19e00d66ee.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

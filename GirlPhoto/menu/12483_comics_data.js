@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12483,
+    "title": "衣衣 - 赫敏",
+    "sourceUrl": "https://telegra.ph/Coser衣衣---赫敏-08-27",
+    "images": [
+        "https://telegra.ph/file/0f41d5acbbfa2f1711342.jpg",
+        "https://telegra.ph/file/3f2fa1b48b2aefa9f3f23.jpg",
+        "https://telegra.ph/file/0437d5d1cfceb1c6b99e2.jpg",
+        "https://telegra.ph/file/12d247d63b3951decd53d.jpg",
+        "https://telegra.ph/file/f37a9fd565b14af4e7efc.jpg",
+        "https://telegra.ph/file/4935606e57915a1d919a7.jpg",
+        "https://telegra.ph/file/5c2c169ac0be0dc337bff.jpg",
+        "https://telegra.ph/file/1568ad4727cd240a1ccf3.jpg",
+        "https://telegra.ph/file/c4d8af505d0ed3ddab675.jpg",
+        "https://telegra.ph/file/399a7c88e843738b3f5b7.jpg",
+        "https://telegra.ph/file/02cf9aaba9dde8e68cb7c.jpg",
+        "https://telegra.ph/file/260b2cee53e22d55de658.jpg",
+        "https://telegra.ph/file/e03f43b7b348b05c17595.jpg",
+        "https://telegra.ph/file/14c014113055ae13052c0.jpg",
+        "https://telegra.ph/file/688b60ea4584c559f16b2.jpg",
+        "https://telegra.ph/file/a19ebdc441511f104ddc0.jpg",
+        "https://telegra.ph/file/2188f6a9fd382e76b8017.jpg",
+        "https://telegra.ph/file/3e50f6f611c345c070ac1.jpg",
+        "https://telegra.ph/file/59409abdcd414492c1474.jpg",
+        "https://telegra.ph/file/5ed4b953866a6e8143e39.jpg",
+        "https://telegra.ph/file/e118ddb8c2461a12e025f.jpg",
+        "https://telegra.ph/file/3b3fca5572865023e99a8.jpg",
+        "https://telegra.ph/file/15482516db524976d16dc.jpg",
+        "https://telegra.ph/file/65e2ebf3d26bc55659313.jpg",
+        "https://telegra.ph/file/069ccc615a9d319e51548.jpg",
+        "https://telegra.ph/file/dc00e159f8b15a17f68dd.jpg",
+        "https://telegra.ph/file/4a042eb1abdbb8438ddd6.jpg",
+        "https://telegra.ph/file/36451ed7da7411fc80319.jpg",
+        "https://telegra.ph/file/4c301726d00a9c4675154.jpg",
+        "https://telegra.ph/file/45bee8db0f3e45808a00e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

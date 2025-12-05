@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11127,
+    "title": "千反田鹿子 - 日常女警 [33P-377MB]",
+    "sourceUrl": "https://telegra.ph/千反田鹿子---日常女警-33P-377MB-08-26",
+    "images": [
+        "https://telegra.ph/file/78d383ba57c31459077de.jpg",
+        "https://telegra.ph/file/be95577569da39bec05fc.jpg",
+        "https://telegra.ph/file/07afb98ed0a30de6b4045.jpg",
+        "https://telegra.ph/file/3759b6a612df6d0ec23be.jpg",
+        "https://telegra.ph/file/336fdc4a92eb2ec6a9001.jpg",
+        "https://telegra.ph/file/6158350c56fdfafd8b6e4.jpg",
+        "https://telegra.ph/file/71a14ed397faca50ad913.jpg",
+        "https://telegra.ph/file/22afbaf959a024ff243f7.jpg",
+        "https://telegra.ph/file/bbb90a5f50d90d7ddc5de.jpg",
+        "https://telegra.ph/file/7993416b5118cbf020e41.jpg",
+        "https://telegra.ph/file/c556dc16f3e68b05ce467.jpg",
+        "https://telegra.ph/file/862e7d1205ba861b2e788.jpg",
+        "https://telegra.ph/file/fd85d32ec615a2d9a7f61.jpg",
+        "https://telegra.ph/file/a5d9039c1da49194c4cc4.jpg",
+        "https://telegra.ph/file/40c0eef921d46ad22e780.jpg",
+        "https://telegra.ph/file/229ac20278aa9584b6742.jpg",
+        "https://telegra.ph/file/5652ca98a2e801cacc089.jpg",
+        "https://telegra.ph/file/0564a5e5f3191b874cc18.jpg",
+        "https://telegra.ph/file/e2df6a52e5fef8d9ef362.jpg",
+        "https://telegra.ph/file/6261115161f81edb912d0.jpg",
+        "https://telegra.ph/file/4b73ae3bb8a994291da02.jpg",
+        "https://telegra.ph/file/d7d58127cd213cc22bfee.jpg",
+        "https://telegra.ph/file/d6bfdea889ce76abb321c.jpg",
+        "https://telegra.ph/file/0ad71352521eed55398e8.jpg",
+        "https://telegra.ph/file/8bde07cf33f4a43e9df8f.jpg",
+        "https://telegra.ph/file/d2e1941c24872392413ba.jpg",
+        "https://telegra.ph/file/2bca94a8714d4eecea0d2.jpg",
+        "https://telegra.ph/file/732f383756b30a1c5a626.jpg",
+        "https://telegra.ph/file/90c67505affb3ac88046e.jpg",
+        "https://telegra.ph/file/d79323d100333fb074da9.jpg",
+        "https://telegra.ph/file/b965c1b9581af3ba441e6.jpg",
+        "https://telegra.ph/file/53266aca7874e2720c85f.jpg",
+        "https://telegra.ph/file/27d9a84d7b171db0f2ece.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

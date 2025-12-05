@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20096,
+    "title": "Azure_Channn - Saki Yoshida (henshin) [33P-255MB]",
+    "sourceUrl": "https://telegra.ph/Azure-Channn---Saki-Yoshida-henshin-33P-255MB-08-25",
+    "images": [
+        "https://telegra.ph/file/3a4b0b72356daa2fa02a7.jpg",
+        "https://telegra.ph/file/649815014fc7b86705e7a.jpg",
+        "https://telegra.ph/file/e61f50d537de57ae7b4c4.jpg",
+        "https://telegra.ph/file/10e7e001d117ac440f3da.jpg",
+        "https://telegra.ph/file/98b09345fd6d6a6cb25a0.jpg",
+        "https://telegra.ph/file/058390aaf5dcee9c5d194.jpg",
+        "https://telegra.ph/file/10dbdc76b57c9ed42b8a7.jpg",
+        "https://telegra.ph/file/d8923fe21436ee917add5.jpg",
+        "https://telegra.ph/file/544f476ff754ecff98dc0.jpg",
+        "https://telegra.ph/file/4afd8c6484459465ddeb0.jpg",
+        "https://telegra.ph/file/9f16a5c52e3533e16e3ef.jpg",
+        "https://telegra.ph/file/ab8daa5fc74117f2e7da0.jpg",
+        "https://telegra.ph/file/1b23a72063824e500faa3.jpg",
+        "https://telegra.ph/file/c6f6dab07181ed76f9310.jpg",
+        "https://telegra.ph/file/2aae3602210c225a034fb.jpg",
+        "https://telegra.ph/file/dc448e5ca3501f5fffc2e.jpg",
+        "https://telegra.ph/file/40d89ca845a7fe68aff8f.jpg",
+        "https://telegra.ph/file/7f3a148211363567a0ba1.jpg",
+        "https://telegra.ph/file/abb2c8b18eae93e867d3c.jpg",
+        "https://telegra.ph/file/a8b117ba46b4bd02c9678.jpg",
+        "https://telegra.ph/file/fb389d1b6e596b37c417d.jpg",
+        "https://telegra.ph/file/652173c763b3af19337d9.jpg",
+        "https://telegra.ph/file/07052a226990d7ff8fe40.jpg",
+        "https://telegra.ph/file/c491d2f1bfd86f4409e75.jpg",
+        "https://telegra.ph/file/3a4ca700cbd0c00473f39.jpg",
+        "https://telegra.ph/file/bd382a2c903d1646b9c2a.jpg",
+        "https://telegra.ph/file/e2c95b9770933ef394cd4.jpg",
+        "https://telegra.ph/file/5546eb6fbd62db54f5833.jpg",
+        "https://telegra.ph/file/6618a827f49ebe91f14ad.jpg",
+        "https://telegra.ph/file/54810a9d51f28fa009263.jpg",
+        "https://telegra.ph/file/2dbebeec2378bab2ff333.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

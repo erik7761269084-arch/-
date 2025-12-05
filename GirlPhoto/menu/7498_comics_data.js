@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7498,
+    "title": "爆机少女喵小吉：喵酱的一天",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉喵酱的一天-08-29",
+    "images": [
+        "https://telegra.ph/file/c17fae648e31c7f70649a.jpg",
+        "https://telegra.ph/file/b76e570a06ef3356add51.jpg",
+        "https://telegra.ph/file/ea29f83eeb3c608491709.jpg",
+        "https://telegra.ph/file/5e3ccebe5ae3922415a17.jpg",
+        "https://telegra.ph/file/868ae31db45cc122f74fb.jpg",
+        "https://telegra.ph/file/527f8d734322f1181bef7.jpg",
+        "https://telegra.ph/file/41f5a3ae186be49d0ca05.jpg",
+        "https://telegra.ph/file/4d1aa88c3ea9eb0c11544.jpg",
+        "https://telegra.ph/file/c6be6b2a0f62775c4bb1e.jpg",
+        "https://telegra.ph/file/c7b50106d7112df09f725.jpg",
+        "https://telegra.ph/file/053b729bdea6edb39667d.jpg",
+        "https://telegra.ph/file/fcaee606ef6caee52913d.jpg",
+        "https://telegra.ph/file/81a46b9882890dbf7fa3d.jpg",
+        "https://telegra.ph/file/86a8bd8229982ead6a1e5.jpg",
+        "https://telegra.ph/file/789743cfd68717476a1ad.jpg",
+        "https://telegra.ph/file/ac5a81e1f93f03cdac59d.jpg",
+        "https://telegra.ph/file/fd240a7832d487ec01431.jpg",
+        "https://telegra.ph/file/fa45ca28be3b5ed8ae0a2.jpg",
+        "https://telegra.ph/file/bc0d2ab43cafdf7fb7f5a.jpg",
+        "https://telegra.ph/file/a0eff7b14e6ef5ed4894c.jpg",
+        "https://telegra.ph/file/06c3fbc8d6563b7e8ff6c.jpg",
+        "https://telegra.ph/file/a8b85598e4ce1f156c286.jpg",
+        "https://telegra.ph/file/9410ae1ee0c655d33e6f2.jpg",
+        "https://telegra.ph/file/59a08c06559c35d71e115.jpg",
+        "https://telegra.ph/file/fef616d4d3f2dbc7c9b0f.jpg",
+        "https://telegra.ph/file/52fe51a5d5d2c0a1c11d4.jpg",
+        "https://telegra.ph/file/53ecc00d81f95d33f5b24.jpg",
+        "https://telegra.ph/file/7c108bf694f285d2a9b95.jpg",
+        "https://telegra.ph/file/0c11cd5205f2281f9044c.jpg",
+        "https://telegra.ph/file/20aae34bf8414634a9392.jpg",
+        "https://telegra.ph/file/fb84e487394ca63028fd2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

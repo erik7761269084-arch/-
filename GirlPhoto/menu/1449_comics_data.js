@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1449,
+    "title": "Money冷冷 - 小恶魔",
+    "sourceUrl": "https://telegra.ph/Money冷冷---小恶魔-08-27",
+    "images": [
+        "https://telegra.ph/file/cf4129322ef26fe5a2df8.jpg",
+        "https://telegra.ph/file/cd7311e259574ed0d40f6.jpg",
+        "https://telegra.ph/file/adb05d879239f97d35447.jpg",
+        "https://telegra.ph/file/8a70d97672055ea8cfbeb.jpg",
+        "https://telegra.ph/file/8639a02e764bbc4d6864c.jpg",
+        "https://telegra.ph/file/5b983f5075c1eb91e9f62.jpg",
+        "https://telegra.ph/file/9bae22d2e20fc88f7f45f.jpg",
+        "https://telegra.ph/file/1525f1fdd264959a7dc00.jpg",
+        "https://telegra.ph/file/ce961ea68ab09a6af615d.jpg",
+        "https://telegra.ph/file/c5b7e708cdf406cc6e2e1.jpg",
+        "https://telegra.ph/file/a5479f921e7a60a21f33d.jpg",
+        "https://telegra.ph/file/fff4b3eda60a537c5110f.jpg",
+        "https://telegra.ph/file/605e289757392bf4f85f0.jpg",
+        "https://telegra.ph/file/9d828880668f183fa6cf3.jpg",
+        "https://telegra.ph/file/b6843e3af3da0689d7d5c.jpg",
+        "https://telegra.ph/file/662dc4c40ad328f950a7e.jpg",
+        "https://telegra.ph/file/d64111750bcc3772dfd35.jpg",
+        "https://telegra.ph/file/f49987b61904f2bb472ec.jpg",
+        "https://telegra.ph/file/fc89d36cbd54d3562a011.jpg",
+        "https://telegra.ph/file/89a76ea5080ea0847cded.jpg",
+        "https://telegra.ph/file/a029954b3bd8cc8c5ed62.jpg",
+        "https://telegra.ph/file/2331aa4a7860e4cd9f33b.jpg",
+        "https://telegra.ph/file/fd27019f2c88e849c57fd.jpg",
+        "https://telegra.ph/file/f5a1dd80c667c9c3e0044.jpg",
+        "https://telegra.ph/file/51a93f74659c6fec09e8d.jpg",
+        "https://telegra.ph/file/895021600eb57b41ea482.jpg",
+        "https://telegra.ph/file/c78ae120b1707c0bf4922.jpg",
+        "https://telegra.ph/file/eaf8ef19f8201231f6505.jpg",
+        "https://telegra.ph/file/252cd7eeafab6713d0a9c.jpg",
+        "https://telegra.ph/file/7c5965007d0589ad559b5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

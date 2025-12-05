@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4130,
+    "title": "蠢沫沫 修女/木箱",
+    "sourceUrl": "https://telegra.ph/蠢沫沫-修女木箱-08-29",
+    "images": [
+        "https://telegra.ph/file/bfd846ecfdd756c7dc8bd.jpg",
+        "https://telegra.ph/file/6093ca6f27fe2034b7a69.jpg",
+        "https://telegra.ph/file/d7751c5b136db77d4ed14.jpg",
+        "https://telegra.ph/file/cd6fbf4eab1f79a422a77.jpg",
+        "https://telegra.ph/file/79b0c37164b85fa1ff149.jpg",
+        "https://telegra.ph/file/3c886b6f6049cd853478c.jpg",
+        "https://telegra.ph/file/42f3ae36cb0b2bbab20a3.jpg",
+        "https://telegra.ph/file/cf395038888d90c059d3a.jpg",
+        "https://telegra.ph/file/8c55a3740072e4d6afe6a.jpg",
+        "https://telegra.ph/file/d16ab66d6e9e98e691f4d.jpg",
+        "https://telegra.ph/file/6520225e6157b79dd8a6e.jpg",
+        "https://telegra.ph/file/c723599176fa72e9677b7.jpg",
+        "https://telegra.ph/file/7a5ee425cb9c4b751e12a.jpg",
+        "https://telegra.ph/file/a9ce44056164627c1de22.jpg",
+        "https://telegra.ph/file/8c320fa08e92f70abafed.jpg",
+        "https://telegra.ph/file/02a1fcfb558d604f923bc.jpg",
+        "https://telegra.ph/file/f80b228ec3f467d10c85a.jpg",
+        "https://telegra.ph/file/e9d22e1e6818c32c33fa5.jpg",
+        "https://telegra.ph/file/a470bf308e2d829d31dec.jpg",
+        "https://telegra.ph/file/fb11c130218601b74c642.jpg",
+        "https://telegra.ph/file/fa23d16e2578f3d495d37.jpg",
+        "https://telegra.ph/file/cab33eb32e9c81e5ec2e2.jpg",
+        "https://telegra.ph/file/ddf5768a1cf7fb83b9f73.jpg",
+        "https://telegra.ph/file/0a149b3ecf804707dcbbe.jpg",
+        "https://telegra.ph/file/73f5e1949c3d146aaa19b.jpg",
+        "https://telegra.ph/file/ba8885435e59c4953208b.jpg",
+        "https://telegra.ph/file/271a6ebaa5028f261b8ec.jpg",
+        "https://telegra.ph/file/5516a14f36a2d4777464f.jpg",
+        "https://telegra.ph/file/a6cd2431115f609f75504.jpg",
+        "https://telegra.ph/file/4ea5ace7cc79e14329ad8.jpg",
+        "https://telegra.ph/file/44daddc17b91468b75fdc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

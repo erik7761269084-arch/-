@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 3600,
+    "title": "布丁大法 - 优酸乳",
+    "sourceUrl": "https://telegra.ph/布丁大法---优酸乳-08-27",
+    "images": [
+        "https://telegra.ph/file/d5f1cfada6ff702d2242c.jpg",
+        "https://telegra.ph/file/cd020a8b33d44d083aa31.jpg",
+        "https://telegra.ph/file/8b6292306ae801b2a54ca.jpg",
+        "https://telegra.ph/file/5ea7fb816aa11cff8dc83.jpg",
+        "https://telegra.ph/file/2f3de5e88da2558484c44.jpg",
+        "https://telegra.ph/file/d461e08a865c29c984efb.jpg",
+        "https://telegra.ph/file/607fa49ac38b96db700ef.jpg",
+        "https://telegra.ph/file/50560449f73eab1e6e439.jpg",
+        "https://telegra.ph/file/ecbfffb78fdc108d23083.jpg",
+        "https://telegra.ph/file/5639fbf7b9f72fe881a67.jpg",
+        "https://telegra.ph/file/905c743582509928b7186.jpg",
+        "https://telegra.ph/file/f30f4f0f4cc61ada828e6.jpg",
+        "https://telegra.ph/file/533dd361a5e1148c81e8a.jpg",
+        "https://telegra.ph/file/4eda7ac1beb16f3af842c.jpg",
+        "https://telegra.ph/file/fbcb17244cd7a6ee4403b.jpg",
+        "https://telegra.ph/file/1f3b5a7c5e4c8c05cc83f.jpg",
+        "https://telegra.ph/file/efcd1cfdf45d955aeab35.jpg",
+        "https://telegra.ph/file/5216c66c58ca349654df8.jpg",
+        "https://telegra.ph/file/8d94a83cd23c9ca058c59.jpg",
+        "https://telegra.ph/file/ec361121dc5b0dc99b4be.jpg",
+        "https://telegra.ph/file/8786012b3e83f31df671a.jpg",
+        "https://telegra.ph/file/268f34aba6692ef86d257.jpg",
+        "https://telegra.ph/file/8166e11f90b2bb694613d.jpg",
+        "https://telegra.ph/file/a29cc2f9840b76b1ec1b3.jpg",
+        "https://telegra.ph/file/54f87cbd1b1352c9cf2d3.jpg",
+        "https://telegra.ph/file/711580019bf0b8c5a7ada.jpg",
+        "https://telegra.ph/file/8ba1063d136889cba9e17.jpg",
+        "https://telegra.ph/file/b579b53eb980272b78ee6.jpg",
+        "https://telegra.ph/file/a909cb61fe6c25953c6bc.jpg",
+        "https://telegra.ph/file/0849e3b4cedd48de9dbe1.jpg",
+        "https://telegra.ph/file/3e89d033cf5030a96d6b2.jpg",
+        "https://telegra.ph/file/1bdb4b6ac3583a6c0033d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

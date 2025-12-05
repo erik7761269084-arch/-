@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11938,
+    "title": "雪晴Astra - FGO",
+    "sourceUrl": "https://telegra.ph/雪晴Astra---FGO-08-27",
+    "images": [
+        "https://telegra.ph/file/1f11402f85754799331f7.jpg",
+        "https://telegra.ph/file/49ee145901cad3883c316.jpg",
+        "https://telegra.ph/file/be8cc56d08d4e83bd862b.jpg",
+        "https://telegra.ph/file/f699df670569672ced12a.jpg",
+        "https://telegra.ph/file/7c36382ab165e42de263b.jpg",
+        "https://telegra.ph/file/3efd122a7a7da56f26261.jpg",
+        "https://telegra.ph/file/5e52b8da6142fdfd942af.jpg",
+        "https://telegra.ph/file/8115042e10435c5e591d1.jpg",
+        "https://telegra.ph/file/d00d958cf044cedce287e.jpg",
+        "https://telegra.ph/file/22a0574f46742a8cb81a7.jpg",
+        "https://telegra.ph/file/ecffbfdae4219092e9fbb.jpg",
+        "https://telegra.ph/file/fc85941c2605b2f756e45.jpg",
+        "https://telegra.ph/file/b7852feb5a10470ccd8af.jpg",
+        "https://telegra.ph/file/56d37c323ce5252ed6937.jpg",
+        "https://telegra.ph/file/cdda6b8459a8dfca23f9d.jpg",
+        "https://telegra.ph/file/a2419d12b51077e07ae6a.jpg",
+        "https://telegra.ph/file/c7bf29dd6405485d94eca.jpg",
+        "https://telegra.ph/file/44f409510db1f3fa37a58.jpg",
+        "https://telegra.ph/file/6fb9e4f417749ad1e13d9.jpg",
+        "https://telegra.ph/file/b13611e3ae74fd9e3da7f.jpg",
+        "https://telegra.ph/file/e72ac21728ba517a941df.jpg",
+        "https://telegra.ph/file/9cf9775815e55dacd09cc.jpg",
+        "https://telegra.ph/file/1cdc47b8799d679030d7c.jpg",
+        "https://telegra.ph/file/140575ffbc777767f0303.jpg",
+        "https://telegra.ph/file/22bc6fa6fdaa650fa9472.jpg",
+        "https://telegra.ph/file/7dbb2bec66d15b0faafaf.jpg",
+        "https://telegra.ph/file/16e1234a261d4477eb35b.jpg",
+        "https://telegra.ph/file/f9d6716d87367d84ebf8e.jpg",
+        "https://telegra.ph/file/b556cfb429c460b6c5969.jpg",
+        "https://telegra.ph/file/6e1dc6c778c248f11aa34.jpg",
+        "https://telegra.ph/file/48d02e82005a312aa704a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

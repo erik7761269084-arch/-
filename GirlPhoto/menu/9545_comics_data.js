@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9545,
+    "title": "蜜桃少女是依酱呀 - 裙底的秘密",
+    "sourceUrl": "https://telegra.ph/蜜桃少女是依酱呀---裙底的秘密-08-28",
+    "images": [
+        "https://telegra.ph/file/462c6a15b1364f9db7141.jpg",
+        "https://telegra.ph/file/232683562ca5fb1104dd5.jpg",
+        "https://telegra.ph/file/92d469f06eceeed076821.jpg",
+        "https://telegra.ph/file/fc4bda03f319ff61139fe.jpg",
+        "https://telegra.ph/file/c074980f95a62fa2b2152.jpg",
+        "https://telegra.ph/file/0d595a5d6adaf8b8c65dc.jpg",
+        "https://telegra.ph/file/12d9e9c8efadcec81fa3e.jpg",
+        "https://telegra.ph/file/1f23ac9012932cd771445.jpg",
+        "https://telegra.ph/file/cd730c845185bbc0e23bf.jpg",
+        "https://telegra.ph/file/0fc26d937fb1e7b733545.jpg",
+        "https://telegra.ph/file/48efd9257bcc4ca27a157.jpg",
+        "https://telegra.ph/file/636c54d8fda8f41557f6d.jpg",
+        "https://telegra.ph/file/0011469228798173b3cd0.jpg",
+        "https://telegra.ph/file/2f3e6d9d2a865f703e3dd.jpg",
+        "https://telegra.ph/file/5971117ced928a82eef66.jpg",
+        "https://telegra.ph/file/f966731f80f6bd8ba7f72.jpg",
+        "https://telegra.ph/file/d4dbb6ab14347609da2ab.jpg",
+        "https://telegra.ph/file/afcd60916625cdbdada82.jpg",
+        "https://telegra.ph/file/7724b99c84f72909b824c.jpg",
+        "https://telegra.ph/file/7b260baca8138d630a1f1.jpg",
+        "https://telegra.ph/file/a2314436b9de16feb950d.jpg",
+        "https://telegra.ph/file/c7c74e6cfd66889993c89.jpg",
+        "https://telegra.ph/file/ce1a6adbc174cbfa32a5f.jpg",
+        "https://telegra.ph/file/293486c50a65efbcd112c.jpg",
+        "https://telegra.ph/file/7b0958fbbbd6763b2cf17.jpg",
+        "https://telegra.ph/file/205be5e543d6821b1eca8.jpg",
+        "https://telegra.ph/file/796c24bd0f55a828b2bdf.jpg",
+        "https://telegra.ph/file/bbf04a94f593ff3b515b2.jpg",
+        "https://telegra.ph/file/6118a58ced77a274b86a7.jpg",
+        "https://telegra.ph/file/a7793565a22cf9ed535ba.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

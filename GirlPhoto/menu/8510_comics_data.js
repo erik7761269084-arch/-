@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8510,
+    "title": "清水由乃 - 清水&水淼忍者双人",
+    "sourceUrl": "https://telegra.ph/清水由乃---清水水淼忍者双人-08-29",
+    "images": [
+        "https://telegra.ph/file/4d5e9e804f9d5263c71bd.jpg",
+        "https://telegra.ph/file/b3be4d873b69f4927b706.jpg",
+        "https://telegra.ph/file/7527cc0abf5a505a9d471.jpg",
+        "https://telegra.ph/file/7bdb6de421275f4c875a5.jpg",
+        "https://telegra.ph/file/0a03529b991b07491634b.jpg",
+        "https://telegra.ph/file/4e2d0b09975925b9a2171.jpg",
+        "https://telegra.ph/file/516fd3925abc4e12cb4e2.jpg",
+        "https://telegra.ph/file/0d54da72a49f2e4ca8700.jpg",
+        "https://telegra.ph/file/6536f50312afea09e9776.jpg",
+        "https://telegra.ph/file/87073de9aa7d7c5f7063a.jpg",
+        "https://telegra.ph/file/e16238bc7bc4a18980554.jpg",
+        "https://telegra.ph/file/484818c6be518229991e6.jpg",
+        "https://telegra.ph/file/8127ba8fd8743fd974ca4.jpg",
+        "https://telegra.ph/file/e1e80d5392bc333f28e48.jpg",
+        "https://telegra.ph/file/f496a7122e5919f8209c4.jpg",
+        "https://telegra.ph/file/04d48d3cb0cf27a60abe7.jpg",
+        "https://telegra.ph/file/4f8a6bd080b92b85b60b6.jpg",
+        "https://telegra.ph/file/ad86b5c6641c171fc8657.jpg",
+        "https://telegra.ph/file/f0f1ad31bac3ad9e06e92.jpg",
+        "https://telegra.ph/file/07febbfbb07c28d272650.jpg",
+        "https://telegra.ph/file/e2115a93ba45735cb6375.jpg",
+        "https://telegra.ph/file/ddd6d1e8df8df355c66fd.jpg",
+        "https://telegra.ph/file/2512dd991cf33bfe41883.jpg",
+        "https://telegra.ph/file/b22b63b65d1061e2b5b7d.jpg",
+        "https://telegra.ph/file/d1cd26bdeadad8718564f.jpg",
+        "https://telegra.ph/file/b44b4f499217ed962db57.jpg",
+        "https://telegra.ph/file/bf947b3425101e23f59cc.jpg",
+        "https://telegra.ph/file/f33aef73426e373fd769e.jpg",
+        "https://telegra.ph/file/f5f2c58a9692148da56b6.jpg",
+        "https://telegra.ph/file/eff9d6aced4aa37bfb133.jpg",
+        "https://telegra.ph/file/2c03d8fc2652b13fa8fae.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 5516,
+    "title": "黑川 镰仓",
+    "sourceUrl": "https://telegra.ph/黑川-镰仓-08-30",
+    "images": [
+        "https://telegra.ph/file/a02a6773cbc36d9385443.jpg",
+        "https://telegra.ph/file/67774e071d5c697c34f28.jpg",
+        "https://telegra.ph/file/c9a63cad38dc05209e89e.jpg",
+        "https://telegra.ph/file/6fe2d9a586c0d516cddcf.jpg",
+        "https://telegra.ph/file/16f50c0126eb13b34daf7.jpg",
+        "https://telegra.ph/file/50cf4b591183159c7e036.jpg",
+        "https://telegra.ph/file/7debf43de1b0716ae882c.jpg",
+        "https://telegra.ph/file/57dfd11fda4354dbe631a.jpg",
+        "https://telegra.ph/file/f948638d683281e326c0c.jpg",
+        "https://telegra.ph/file/e4ea0455b7304be256754.jpg",
+        "https://telegra.ph/file/8ff59056b722e7356ef6b.jpg",
+        "https://telegra.ph/file/6d0153d12e36ef7dd9c57.jpg",
+        "https://telegra.ph/file/7a1710db4e2af44846c0b.jpg",
+        "https://telegra.ph/file/802115761843707ecca64.jpg",
+        "https://telegra.ph/file/fe41814bd48f270aeb9cb.jpg",
+        "https://telegra.ph/file/91b7b1965aa35b2d6e4d3.jpg",
+        "https://telegra.ph/file/dce6ad1401166b1d05486.jpg",
+        "https://telegra.ph/file/d22e64051017b08c66da0.jpg",
+        "https://telegra.ph/file/e8bce108e39c5a45ba40a.jpg",
+        "https://telegra.ph/file/2e74d69602b4833d2494d.jpg",
+        "https://telegra.ph/file/55a009e3e38e2a174a145.jpg",
+        "https://telegra.ph/file/d098dd96f2c3658b3892d.jpg",
+        "https://telegra.ph/file/c33958f243424e864d427.jpg",
+        "https://telegra.ph/file/ff8dfd9c8fcfc60d98328.jpg",
+        "https://telegra.ph/file/bb76d52e480f1a5b60b08.jpg",
+        "https://telegra.ph/file/00fd031f115a92a94afb3.jpg",
+        "https://telegra.ph/file/4eb264357f9497529ded7.jpg",
+        "https://telegra.ph/file/ee8be48e5fea159c18b30.jpg",
+        "https://telegra.ph/file/edf4ecedf576a6cae9487.jpg",
+        "https://telegra.ph/file/0cee2037e5755802566fc.jpg",
+        "https://telegra.ph/file/4563b8afdf9d545e8a6d2.jpg",
+        "https://telegra.ph/file/190cdd930782bd6701a7c.jpg",
+        "https://telegra.ph/file/03be516ebc7c8c04d9a6b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

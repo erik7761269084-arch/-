@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5549,
+    "title": "黑川 - 海岛之旅 黄色抹胸",
+    "sourceUrl": "https://telegra.ph/黑川---海岛之旅-黄色抹胸-08-30",
+    "images": [
+        "https://telegra.ph/file/5223c323e345b1f6f6838.jpg",
+        "https://telegra.ph/file/6b52818c769378bdee5bc.jpg",
+        "https://telegra.ph/file/09437128ef2f021041656.jpg",
+        "https://telegra.ph/file/640c94a51ee5e364d462a.jpg",
+        "https://telegra.ph/file/53552f0c5088c821cfa3d.jpg",
+        "https://telegra.ph/file/713a0ff635d5f9fd1e796.jpg",
+        "https://telegra.ph/file/f7dfe2ca19f94bfb062e6.jpg",
+        "https://telegra.ph/file/a3743cb3b49a056144870.jpg",
+        "https://telegra.ph/file/b56595c783bea9bf5389c.jpg",
+        "https://telegra.ph/file/0869b57e734aa197bccfd.jpg",
+        "https://telegra.ph/file/2515aac81863d2389ecf4.jpg",
+        "https://telegra.ph/file/b9c0f53d22746b7234405.jpg",
+        "https://telegra.ph/file/542d0621dc2c8416cc113.jpg",
+        "https://telegra.ph/file/a6ea4b0c2948961307b50.jpg",
+        "https://telegra.ph/file/f40c94f976565a64d1120.jpg",
+        "https://telegra.ph/file/ce103397d4fbca91236f4.jpg",
+        "https://telegra.ph/file/0cfbe516132a4f21b6736.jpg",
+        "https://telegra.ph/file/2e80995cee985b8ef2349.jpg",
+        "https://telegra.ph/file/3725ff0bd8c9bda2c3b9b.jpg",
+        "https://telegra.ph/file/495e2d3647e0cf6371acc.jpg",
+        "https://telegra.ph/file/a43a3a46502ddb60527c1.jpg",
+        "https://telegra.ph/file/70e72292482497142717c.jpg",
+        "https://telegra.ph/file/18b5f4a04bcdcef601681.jpg",
+        "https://telegra.ph/file/7f59f10af5c7464226761.jpg",
+        "https://telegra.ph/file/0f7fec4b468af3bb48ef3.jpg",
+        "https://telegra.ph/file/7697c4a23318c85806738.jpg",
+        "https://telegra.ph/file/26ae237417bed914e60a9.jpg",
+        "https://telegra.ph/file/f9a5e092111ca57012ede.jpg",
+        "https://telegra.ph/file/c159c9f9a0d44d35fee21.jpg",
+        "https://telegra.ph/file/89b3d44b7cc8853fa9bc2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

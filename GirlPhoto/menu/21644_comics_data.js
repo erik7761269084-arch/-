@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 21644,
+    "title": "CANDY No.04 – Masturbation",
+    "sourceUrl": "https://telegra.ph/CANDY-No04--Masturbation-08-29",
+    "images": [
+        "https://telegra.ph/file/fba9558a190350b9ba754.jpg",
+        "https://telegra.ph/file/dea429b93cf1783417bcc.jpg",
+        "https://telegra.ph/file/54a20812ae367508a046d.jpg",
+        "https://telegra.ph/file/4f677c1832378254480b1.jpg",
+        "https://telegra.ph/file/b5526138b69f461382daa.jpg",
+        "https://telegra.ph/file/962e94f798eb4d3f7999e.jpg",
+        "https://telegra.ph/file/88b887d6af0557bb91e16.jpg",
+        "https://telegra.ph/file/0024a8417cfcda8e49fba.jpg",
+        "https://telegra.ph/file/2e7c68ac839757fbec38e.jpg",
+        "https://telegra.ph/file/c6ec437414689e1f3d6d4.jpg",
+        "https://telegra.ph/file/8ac9b4dc26ef3296d2a27.jpg",
+        "https://telegra.ph/file/bd0d955eaed3e1024b0c4.jpg",
+        "https://telegra.ph/file/693c87c747b308eafabaa.jpg",
+        "https://telegra.ph/file/ab645aec66742d50069f3.jpg",
+        "https://telegra.ph/file/6c297c15c3d2beccb1c98.jpg",
+        "https://telegra.ph/file/3b7498bc5eaa92371d972.jpg",
+        "https://telegra.ph/file/56489f59aba0f579cf8cc.jpg",
+        "https://telegra.ph/file/80c12d2229f3b72e27fbd.jpg",
+        "https://telegra.ph/file/3c78f3a12bc1e957f53c8.jpg",
+        "https://telegra.ph/file/5c77059e5c6f9523dd0c5.jpg",
+        "https://telegra.ph/file/3772b324269675ec8bb5d.jpg",
+        "https://telegra.ph/file/afff70b4ad2db3d01d2a4.jpg",
+        "https://telegra.ph/file/c934c14c618f7d7562269.jpg",
+        "https://telegra.ph/file/ccf6f01063d49b7ce4f82.jpg",
+        "https://telegra.ph/file/e6721cf6dbbf9283e7e59.jpg",
+        "https://telegra.ph/file/05e922b6d93bcadc0249c.jpg",
+        "https://telegra.ph/file/7e480483fc20c018012ba.jpg",
+        "https://telegra.ph/file/b593b4137307e036bc7f4.jpg",
+        "https://telegra.ph/file/beae62b19f2e1a90297f2.jpg",
+        "https://telegra.ph/file/c3a4a660ec9762f05b062.jpg",
+        "https://telegra.ph/file/4153311e85dfffcffec91.jpg",
+        "https://telegra.ph/file/2585066c480ff50c61676.jpg",
+        "https://telegra.ph/file/747d734314667b3bdd445.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

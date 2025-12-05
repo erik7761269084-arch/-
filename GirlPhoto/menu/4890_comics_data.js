@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4890,
+    "title": "封疆疆 妃咲兔女郎",
+    "sourceUrl": "https://telegra.ph/%E5%B0%81%E7%96%86%E7%96%86-%E5%A6%83%E5%92%B2%E5%85%94%E5%A5%B3%E9%83%8E-08-22",
+    "images": [
+        "https://telegra.ph/file/2b25f26f40a58c31d4eda.jpg",
+        "https://telegra.ph/file/09fc218197d7b5ada955c.jpg",
+        "https://telegra.ph/file/dd946f19f4ec3ed549a09.jpg",
+        "https://telegra.ph/file/d964b311aa0defd21adc2.jpg",
+        "https://telegra.ph/file/708e8bbba47007828e874.jpg",
+        "https://telegra.ph/file/c0e3520aeeb9f95fa2889.jpg",
+        "https://telegra.ph/file/7314b59e5c85d1ff6631e.jpg",
+        "https://telegra.ph/file/f057bb9a41eb1f96a5f61.jpg",
+        "https://telegra.ph/file/9c64673b98555cba52a97.jpg",
+        "https://telegra.ph/file/ef72ff05bd1e313eeefc4.jpg",
+        "https://telegra.ph/file/43786dbb078778eb5ec6f.jpg",
+        "https://telegra.ph/file/9058595f2914d0bc3fea4.jpg",
+        "https://telegra.ph/file/2182dfbb5bb64a1bfd9c1.jpg",
+        "https://telegra.ph/file/b0c8751a55c0e6ef85756.jpg",
+        "https://telegra.ph/file/d2066efae8bb2786faad0.jpg",
+        "https://telegra.ph/file/d923270617de9e0fb8b43.jpg",
+        "https://telegra.ph/file/b8d55da799d15d20f2636.jpg",
+        "https://telegra.ph/file/f5fca5c3eff51d00d092f.jpg",
+        "https://telegra.ph/file/329111481987025bc6b33.jpg",
+        "https://telegra.ph/file/aa3cf70b69beae7b2200d.jpg",
+        "https://telegra.ph/file/49cb95c41e81909a51fa0.jpg",
+        "https://telegra.ph/file/8d479ccb275d0284c40ea.jpg",
+        "https://telegra.ph/file/68f311e63503d4bc76a54.jpg",
+        "https://telegra.ph/file/2018452332d7251f91010.jpg",
+        "https://telegra.ph/file/db50c77187dd103c39aea.jpg",
+        "https://telegra.ph/file/b54f5e7169c0264c334d1.jpg",
+        "https://telegra.ph/file/107da4daa82125ec52e8a.jpg",
+        "https://telegra.ph/file/1a9fa3b498033a1c20ad2.jpg",
+        "https://telegra.ph/file/740d0406ddbd058168ec3.jpg",
+        "https://telegra.ph/file/558102c9cf4a42ec35239.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

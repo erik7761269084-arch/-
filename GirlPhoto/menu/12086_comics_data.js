@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12086,
+    "title": "咬一口兔娘 - 7月月票特典『甜心陪护』30P+1V",
+    "sourceUrl": "https://telegra.ph/%E5%92%AC%E4%B8%80%E5%8F%A3%E5%85%94%E5%A8%98---7%E6%9C%88%E6%9C%88%E7%A5%A8%E7%89%B9%E5%85%B8%E7%94%9C%E5%BF%83%E9%99%AA%E6%8A%A430P1V-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/07/30/7-01.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-02.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-03.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-04.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-05.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-06.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-07.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-08.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-09.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-10.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-11.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-12.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-13.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-14.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-15.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-16.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-17.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-18.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-19.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-20.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-21.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-22.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-23.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-24.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-25.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-26.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-27.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-28.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-29.jpg",
+        "https://image.acg.lol/file/2025/07/30/7-30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

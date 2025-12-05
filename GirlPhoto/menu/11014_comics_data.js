@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11014,
+    "title": "小完能干脆面qvq - 花园 30P477MB",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E5%AE%8C%E8%83%BD%E5%B9%B2%E8%84%86%E9%9D%A2qvq---%E8%8A%B1%E5%9B%AD-30P477MB-08-20",
+    "images": [
+        "https://image.acg.lol/file/2025/02/12/1-162469d05292f0ca15.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-1.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-2.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-3.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-4705a0c2f27b98186.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-5.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-60f3562f3f6cdd5e5.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-7.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-8.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-933111805c883d02d.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-10bfe59507bf701d19.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-11a9a7d93328ef36dc.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-12671a438fc51d1983.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-13df89e185c86d1c43.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-149a3b1cdf1108740c.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-15afc7e54e142eda03.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-176682142b8f37c388.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-18205723a112d4e5b0.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-196a2aafd76d5cba6d.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-2005c6258a1b334337.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-21913968b1a60d51b2.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-22ed3f0d2e5c2ccded.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-230a88e6aa23046b48.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-244fab0396b57867b5.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-25b8e1c465c70be776.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-2672a74586a0a01e52.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-27f143cf645a55e6f5.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-287303e1becb244614.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-29063c4c7634b9f8c3.jpg",
+        "https://image.acg.lol/file/2025/02/12/1-30536bab44c2bc1beb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

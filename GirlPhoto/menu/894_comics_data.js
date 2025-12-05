@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 894,
+    "title": "G44不会受伤 - 尼娅",
+    "sourceUrl": "https://telegra.ph/G44不会受伤---尼娅-08-26",
+    "images": [
+        "https://telegra.ph/file/73238e72e33faaf25dade.jpg",
+        "https://telegra.ph/file/fcf59bf187406d78fca01.jpg",
+        "https://telegra.ph/file/3edb77e923f88fee02e9d.jpg",
+        "https://telegra.ph/file/e75c8e88451f653a321a1.jpg",
+        "https://telegra.ph/file/856ae1cfbc24d6f474934.jpg",
+        "https://telegra.ph/file/07ef2fc78258e0a2f4ed8.jpg",
+        "https://telegra.ph/file/dc39c76dabc0c568faade.jpg",
+        "https://telegra.ph/file/cc361aa82f6ac0e17801c.jpg",
+        "https://telegra.ph/file/c4e3aa5ac9638b67f9b12.jpg",
+        "https://telegra.ph/file/f91710354a735a5c33c67.jpg",
+        "https://telegra.ph/file/abe661c7122ad2d79e22a.jpg",
+        "https://telegra.ph/file/b9f897344d196775b6593.jpg",
+        "https://telegra.ph/file/90a5f8d804229f9759504.jpg",
+        "https://telegra.ph/file/1429a71513440fbb10072.jpg",
+        "https://telegra.ph/file/c9d9f05d0b823ff72cfb6.jpg",
+        "https://telegra.ph/file/bd849e638fc6f5cdd617b.jpg",
+        "https://telegra.ph/file/b4cbd7a3cb64d14ffb664.jpg",
+        "https://telegra.ph/file/6a3280d094978eccbe32a.jpg",
+        "https://telegra.ph/file/efda40c3117e46ffabb90.jpg",
+        "https://telegra.ph/file/1c6636f406c8820820284.jpg",
+        "https://telegra.ph/file/5d22b5f3d81771ffbbe76.jpg",
+        "https://telegra.ph/file/65fff6579e38551fa3d45.jpg",
+        "https://telegra.ph/file/760e923ef96fb842b47b8.jpg",
+        "https://telegra.ph/file/d450ecd530ce4686fdae4.jpg",
+        "https://telegra.ph/file/32682023bb0f106cbc27e.jpg",
+        "https://telegra.ph/file/88b526c15b3e3d627a8aa.jpg",
+        "https://telegra.ph/file/4d430decda084abcd67d9.jpg",
+        "https://telegra.ph/file/0de68f9e2497e6cb0cebf.jpg",
+        "https://telegra.ph/file/62fe2767b52ad27835224.jpg",
+        "https://telegra.ph/file/fe174970f156d5958b621.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

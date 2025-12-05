@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5204,
+    "title": "鬼畜瑶在不在w - 女仆奶牛 [30P1V-306M]",
+    "sourceUrl": "https://telegra.ph/%E9%AC%BC%E7%95%9C%E7%91%B6%E5%9C%A8%E4%B8%8D%E5%9C%A8w---%E5%A5%B6%E7%89%9B-30P1V-306M-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/08/17/1-16d206bb9dcab6db1.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-21fd55c1b81650a3e.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-33a22255ef4a2c219.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-439f7a91701e4b356.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-5f9ec62d443a5456d.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-64565a405bd4eb6de.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-7e6f0be6f094796b1.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-8c13e32200e7e502a.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-9bb831ffc99e60a5f.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-1006554dc6bbb2637a.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-11e249ef80eb932dba.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-127dfe35e6c9040d8f.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-13cf8080414416eae9.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-14327fd85bd84a06ed.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-15bda9b5b6b563ce84.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-163e6d5f0aef36b939.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-174efd8f562150ef81.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-18b202883d48fbc7cd.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-191fcc1a9e5cef1436.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-20d6b1f3a171522735.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-21d9a25e08ffba4083.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-2276b54c64e188e3d8.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-236d50bb17d2eb2a2e.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-24eea1369e3fd144a5.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-25f463e7aaf7caafe5.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-26160dafc4569b6704.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-27c2b65132eedf1d61.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-2847fc2ff03a571470.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-2960718412314271af.jpg",
+        "https://image.acg.lol/file/2025/08/17/1-30f7e46c0aaba9aea3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

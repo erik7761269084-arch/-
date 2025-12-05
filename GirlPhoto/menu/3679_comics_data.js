@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3679,
+    "title": "陈小花 – OL皮鞭",
+    "sourceUrl": "https://telegra.ph/陈小花--OL皮鞭-08-29",
+    "images": [
+        "https://telegra.ph/file/2a53ae897bc456eb6d94e.jpg",
+        "https://telegra.ph/file/d7c6881396cc3c9e2f7af.jpg",
+        "https://telegra.ph/file/21ddbeb56864c4428904f.jpg",
+        "https://telegra.ph/file/0bc987eea10c89a9eb1bd.jpg",
+        "https://telegra.ph/file/8a5eb81ee61686c3b136e.jpg",
+        "https://telegra.ph/file/cc8fe979471e00977e4c7.jpg",
+        "https://telegra.ph/file/bf4f7315bc268a3b52c3b.jpg",
+        "https://telegra.ph/file/747a8e5ee696cffea1c7d.jpg",
+        "https://telegra.ph/file/246d8ee0b498fca4463a8.jpg",
+        "https://telegra.ph/file/d07901965263227e8b019.jpg",
+        "https://telegra.ph/file/f66c4d104f71995c641ce.jpg",
+        "https://telegra.ph/file/90596d5af754f05459e42.jpg",
+        "https://telegra.ph/file/071e5e7aeb90533c7f1aa.jpg",
+        "https://telegra.ph/file/18edba1c4eccd465b20b8.jpg",
+        "https://telegra.ph/file/dffaa7afc4d558908bcc4.jpg",
+        "https://telegra.ph/file/c8225ecc71b087ba7fc0a.jpg",
+        "https://telegra.ph/file/eafa4fb89256a642a658d.jpg",
+        "https://telegra.ph/file/5761056550f562dfed4f1.jpg",
+        "https://telegra.ph/file/03b03ab87c450bd02c317.jpg",
+        "https://telegra.ph/file/47bb60f8b30a870a55208.jpg",
+        "https://telegra.ph/file/18002e0d48208be2681a2.jpg",
+        "https://telegra.ph/file/ddf51a2a3027b6eca8d70.jpg",
+        "https://telegra.ph/file/fa4d92e8606d4ac04ceb9.jpg",
+        "https://telegra.ph/file/dd6683a55845e5962472b.jpg",
+        "https://telegra.ph/file/9489c5579d9d2474928ae.jpg",
+        "https://telegra.ph/file/7fffbe5da6cc4912b0690.jpg",
+        "https://telegra.ph/file/9fccd09f54a5773112f8b.jpg",
+        "https://telegra.ph/file/2b2041cc9ce72b5d9ac6e.jpg",
+        "https://telegra.ph/file/80e1813490c9afd35c932.jpg",
+        "https://telegra.ph/file/bd12fb75a9c5e8cc60e3f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

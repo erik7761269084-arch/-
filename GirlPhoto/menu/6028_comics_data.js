@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 6028,
+    "title": "九言 斑点修猫",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80-%E6%96%91%E7%82%B9%E4%BF%AE%E7%8C%AB-08-23",
+    "images": [
+        "https://telegra.ph/file/6cd0046799d345ff9b3fe.jpg",
+        "https://telegra.ph/file/8b6a9c1e6717c1225a9fe.jpg",
+        "https://telegra.ph/file/a4a68d986675027cf25c6.jpg",
+        "https://telegra.ph/file/f686a211945b6e941affc.jpg",
+        "https://telegra.ph/file/76b324e8f77df0910758f.jpg",
+        "https://telegra.ph/file/900fbdff15a62bed5d56f.jpg",
+        "https://telegra.ph/file/79ce641121137d59b0632.jpg",
+        "https://telegra.ph/file/b9028f384bb63bc09e0f7.jpg",
+        "https://telegra.ph/file/5864c3fce65603d10fd59.jpg",
+        "https://telegra.ph/file/c908217507d64168230ad.jpg",
+        "https://telegra.ph/file/511b512f42728beb0c44a.jpg",
+        "https://telegra.ph/file/25bd0fde512116215ca9a.jpg",
+        "https://telegra.ph/file/87a7924a81621b1e781a3.jpg",
+        "https://telegra.ph/file/e5522aabe895ae99a9003.jpg",
+        "https://telegra.ph/file/72c0a2144dfa9ec87b4fb.jpg",
+        "https://telegra.ph/file/e387a8cbae495bb2b9096.jpg",
+        "https://telegra.ph/file/6d6e450633c2009574480.jpg",
+        "https://telegra.ph/file/a76d450840a05811afd24.jpg",
+        "https://telegra.ph/file/b15f7f38e4d1026a47da8.jpg",
+        "https://telegra.ph/file/f3e6de969a193ef788dad.jpg",
+        "https://telegra.ph/file/cefcd7fe09878d316ec2c.jpg",
+        "https://telegra.ph/file/99bb8e5985152a2280c06.jpg",
+        "https://telegra.ph/file/d86399cbe530ad6701859.jpg",
+        "https://telegra.ph/file/3a7cb756ac8c9ed680b9d.jpg",
+        "https://telegra.ph/file/59be7f2a68905da22c2f2.jpg",
+        "https://telegra.ph/file/2b14f33555063d9447776.jpg",
+        "https://telegra.ph/file/eaed4721625df6a8004de.jpg",
+        "https://telegra.ph/file/a375c373c09a84c00ad30.jpg",
+        "https://telegra.ph/file/ec009aeea939e973e197c.jpg",
+        "https://telegra.ph/file/f7a92c78559eec4b835ff.jpg",
+        "https://telegra.ph/file/19247c4cafe23c622fead.jpg",
+        "https://telegra.ph/file/8a2d448ba4acf07ef35f8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

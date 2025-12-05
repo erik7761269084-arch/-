@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7617,
+    "title": "木绵绵OwO 海边白色比基尼",
+    "sourceUrl": "https://telegra.ph/木绵绵OwO-海边白色比基尼-08-27",
+    "images": [
+        "https://telegra.ph/file/59bbc661ca4409a7082c4.jpg",
+        "https://telegra.ph/file/d43d821b7732ae7033af0.jpg",
+        "https://telegra.ph/file/308a7f6ec3a579ac6f847.jpg",
+        "https://telegra.ph/file/eca469d1822822cb0dcb1.jpg",
+        "https://telegra.ph/file/612f1011d1d96376fa673.jpg",
+        "https://telegra.ph/file/f3de391b620f99f9d2211.jpg",
+        "https://telegra.ph/file/3d2df6b524cf22d4a3ca2.jpg",
+        "https://telegra.ph/file/ab81b6b9e3915a3881979.jpg",
+        "https://telegra.ph/file/c2b9dab098985d90d2cf0.jpg",
+        "https://telegra.ph/file/297fc1399b8f0d9e57422.jpg",
+        "https://telegra.ph/file/cc634c747310ddfad8e41.jpg",
+        "https://telegra.ph/file/1603f0a9bcb741ffd1b0d.jpg",
+        "https://telegra.ph/file/e32d43e863e198fadde2c.jpg",
+        "https://telegra.ph/file/b862d4ac079ed227c2d50.jpg",
+        "https://telegra.ph/file/9a9eacbde638231790c66.jpg",
+        "https://telegra.ph/file/66820c68b3178b46a7861.jpg",
+        "https://telegra.ph/file/2c8fd4b7da0d1b2055455.jpg",
+        "https://telegra.ph/file/75e25c86a6bf4608b4afa.jpg",
+        "https://telegra.ph/file/8e60783a90d833a529309.jpg",
+        "https://telegra.ph/file/7425efd4e5d07a2f66187.jpg",
+        "https://telegra.ph/file/651587946c5bf656a413d.jpg",
+        "https://telegra.ph/file/69bc4455d9d678ab5f5ec.jpg",
+        "https://telegra.ph/file/5dfd269cda19eb6f3288c.jpg",
+        "https://telegra.ph/file/4d7264f71418187973285.jpg",
+        "https://telegra.ph/file/be559d94a98152327987d.jpg",
+        "https://telegra.ph/file/abebdaf545e478e63650f.jpg",
+        "https://telegra.ph/file/46a0de6a87ce79f93be07.jpg",
+        "https://telegra.ph/file/b06e8bd9f6342cd73de22.jpg",
+        "https://telegra.ph/file/89e5ee5120797432c7df3.jpg",
+        "https://telegra.ph/file/04d0debc9d0de64b8c635.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

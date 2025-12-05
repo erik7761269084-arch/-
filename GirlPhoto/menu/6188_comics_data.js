@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6188,
+    "title": "- 灵唯 制服",
+    "sourceUrl": "https://telegra.ph/灵唯-制服-08-27",
+    "images": [
+        "https://telegra.ph/file/97ca5f7baa2591ddb1ac6.jpg",
+        "https://telegra.ph/file/545ccfed86e3dae88f49f.jpg",
+        "https://telegra.ph/file/99d80fdf3724f27c2eae9.jpg",
+        "https://telegra.ph/file/5c5057c617a8a79c83333.jpg",
+        "https://telegra.ph/file/4559be660192284a41641.jpg",
+        "https://telegra.ph/file/54ea112b557a8a1ed3f83.jpg",
+        "https://telegra.ph/file/0937fade185bf517f2457.jpg",
+        "https://telegra.ph/file/f16cfdda9c7e21eede41c.jpg",
+        "https://telegra.ph/file/45e165024bc3aca079cf1.jpg",
+        "https://telegra.ph/file/bb15a6d93599010c1f3e7.jpg",
+        "https://telegra.ph/file/47257ff49bc1ddf4e805b.jpg",
+        "https://telegra.ph/file/b72f9bbb1db7f589fd603.jpg",
+        "https://telegra.ph/file/0698f9001bd7787c3f1b8.jpg",
+        "https://telegra.ph/file/eb59686d11de2469ea044.jpg",
+        "https://telegra.ph/file/51a6e28ad3c83b01bbe05.jpg",
+        "https://telegra.ph/file/afde4cc621d1561d6fb34.jpg",
+        "https://telegra.ph/file/b09e2a68a3b7fdc835893.jpg",
+        "https://telegra.ph/file/f56288cd244c6350f9821.jpg",
+        "https://telegra.ph/file/7264411adf1d16d2ac439.jpg",
+        "https://telegra.ph/file/c4a0f5cfa14fb17754edd.jpg",
+        "https://telegra.ph/file/3d5ec898fac308b7f908e.jpg",
+        "https://telegra.ph/file/adef1a626e9660dd11b76.jpg",
+        "https://telegra.ph/file/182fb8666002369c6b577.jpg",
+        "https://telegra.ph/file/200fd35555e9466ec0800.jpg",
+        "https://telegra.ph/file/f69f3e43c05b2d07ebb93.jpg",
+        "https://telegra.ph/file/b6b1def3d06ee36b00fba.jpg",
+        "https://telegra.ph/file/4186fb277d3abda37cdf6.jpg",
+        "https://telegra.ph/file/1999a78c6eba4407a0abb.jpg",
+        "https://telegra.ph/file/1afeb2cd2606d42ccba3f.jpg",
+        "https://telegra.ph/file/90ce2a52500785bc8f96b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

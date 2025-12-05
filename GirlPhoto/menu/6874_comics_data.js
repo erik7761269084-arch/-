@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6874,
+    "title": "妹抖青 恶魔胶衣",
+    "sourceUrl": "https://telegra.ph/妹抖青-恶魔胶衣-08-25",
+    "images": [
+        "https://telegra.ph/file/0d862216c0fe122891353.jpg",
+        "https://telegra.ph/file/fbf99185c00fd172da5f0.jpg",
+        "https://telegra.ph/file/5237ef04a60b9d528b666.jpg",
+        "https://telegra.ph/file/87ea50855e14b29b68bf0.jpg",
+        "https://telegra.ph/file/521098776316371b121b8.jpg",
+        "https://telegra.ph/file/26652ffafd390502ce629.jpg",
+        "https://telegra.ph/file/a433c9ffd11ae84fd7bc0.jpg",
+        "https://telegra.ph/file/7d26ac0134109997d4db1.jpg",
+        "https://telegra.ph/file/1273657638b2ba46e4499.jpg",
+        "https://telegra.ph/file/e557743349bdfda06eef0.jpg",
+        "https://telegra.ph/file/828e6bf09251cc09d4cad.jpg",
+        "https://telegra.ph/file/5472e723c2f45c7752f54.jpg",
+        "https://telegra.ph/file/bfc524b45eede6b76debc.jpg",
+        "https://telegra.ph/file/6acd46323218eb769a23e.jpg",
+        "https://telegra.ph/file/12dbe965de63d34ef4ac4.jpg",
+        "https://telegra.ph/file/d39a2100f6d1d7c24a1e6.jpg",
+        "https://telegra.ph/file/b87732c0e6e754d32fe59.jpg",
+        "https://telegra.ph/file/769c104d5684d2746fe19.jpg",
+        "https://telegra.ph/file/d1013e67672be6e518c6f.jpg",
+        "https://telegra.ph/file/45245de6a4c721ba6fdab.jpg",
+        "https://telegra.ph/file/8b003658f290b5165ca92.jpg",
+        "https://telegra.ph/file/f1be3043f987ddf3af2a7.jpg",
+        "https://telegra.ph/file/db9e7a7df04f848db135d.jpg",
+        "https://telegra.ph/file/54631d2a9461ab7030838.jpg",
+        "https://telegra.ph/file/df524432f47df52616288.jpg",
+        "https://telegra.ph/file/7f2b980c9c8fee4e81329.jpg",
+        "https://telegra.ph/file/3685ec0404ced6848b80d.jpg",
+        "https://telegra.ph/file/d4068d66f438a04ea6f72.jpg",
+        "https://telegra.ph/file/2e50d35f522bcf8776daf.jpg",
+        "https://telegra.ph/file/558259ec77287040221e4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

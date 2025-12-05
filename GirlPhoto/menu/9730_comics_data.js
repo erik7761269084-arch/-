@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9730,
+    "title": "水淼Aqua 白色的冬天",
+    "sourceUrl": "https://telegra.ph/水淼Aqua-白色的冬天-08-29",
+    "images": [
+        "https://telegra.ph/file/75720a641313ca753d625.jpg",
+        "https://telegra.ph/file/e29ca7d41ece76c73019b.jpg",
+        "https://telegra.ph/file/c66f7d6027d8bb0267480.jpg",
+        "https://telegra.ph/file/52b27037306f878786825.jpg",
+        "https://telegra.ph/file/4bf07187a27fef558408b.jpg",
+        "https://telegra.ph/file/eb0e0ee411c6a63ba630d.jpg",
+        "https://telegra.ph/file/7e111f520c20ea9ac8b6d.jpg",
+        "https://telegra.ph/file/cd46099ba3c1650d8fd2d.jpg",
+        "https://telegra.ph/file/4bf2ae34bdea7ac1f8e11.jpg",
+        "https://telegra.ph/file/0e3c159a25aa958d91646.jpg",
+        "https://telegra.ph/file/a3b93b052b6a98d706fe5.jpg",
+        "https://telegra.ph/file/b4bbe77dd6ac0403f43b1.jpg",
+        "https://telegra.ph/file/27167dcc5e68aedaeed5f.jpg",
+        "https://telegra.ph/file/278cdd2e07728f5bf69a1.jpg",
+        "https://telegra.ph/file/0bcb37bc7f8bfa8039ce5.jpg",
+        "https://telegra.ph/file/1586bda4192eae6b26088.jpg",
+        "https://telegra.ph/file/7171f90cb5b5bc63e6259.jpg",
+        "https://telegra.ph/file/0caee3df087c8523eda5d.jpg",
+        "https://telegra.ph/file/c90854ce65f8b0f6969c0.jpg",
+        "https://telegra.ph/file/a0046bdbab08935ebc651.jpg",
+        "https://telegra.ph/file/2c9a026d86b9ab48f435b.jpg",
+        "https://telegra.ph/file/ada0087395d31d1cccdce.jpg",
+        "https://telegra.ph/file/ccf90d03d5244ccd1616a.jpg",
+        "https://telegra.ph/file/f939eb5b423b75d0fce3f.jpg",
+        "https://telegra.ph/file/475ab80664237fdad5fd7.jpg",
+        "https://telegra.ph/file/1390bfefe2a90355b6cfa.jpg",
+        "https://telegra.ph/file/7a5245dfaef8f3c2280f5.jpg",
+        "https://telegra.ph/file/a976ca5d7ce2eb8bbc7e0.jpg",
+        "https://telegra.ph/file/9b25d1a1b1d71d43b4c09.jpg",
+        "https://telegra.ph/file/46fbf3e0c9c00d4277448.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

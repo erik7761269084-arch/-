@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5976,
+    "title": "九曲 - 怨仇OL",
+    "sourceUrl": "https://telegra.ph/九曲---怨仇OL-08-29",
+    "images": [
+        "https://telegra.ph/file/b364531010d4e60683fdd.jpg",
+        "https://telegra.ph/file/cc0f3ef7ef71f1eea54a6.jpg",
+        "https://telegra.ph/file/4650be87c323f3166bd74.jpg",
+        "https://telegra.ph/file/10f220882a6a361796ec7.jpg",
+        "https://telegra.ph/file/b5cbe6634c707d67337e3.jpg",
+        "https://telegra.ph/file/612e8cbd874a77bf0c8bc.jpg",
+        "https://telegra.ph/file/c4d87b430f7a6c767613f.jpg",
+        "https://telegra.ph/file/0d5386b529b1fa3681f09.jpg",
+        "https://telegra.ph/file/145a06d2f16edd4ce159f.jpg",
+        "https://telegra.ph/file/f27e45df20c2fb00adcca.jpg",
+        "https://telegra.ph/file/f5860f877a15bf953726b.jpg",
+        "https://telegra.ph/file/c98c39e9384daec66799f.jpg",
+        "https://telegra.ph/file/4760a78ba0cc14b93ab25.jpg",
+        "https://telegra.ph/file/385b449a883503540777c.jpg",
+        "https://telegra.ph/file/1f4b63b44dc840c67a022.jpg",
+        "https://telegra.ph/file/4bcd977ceeb1a73773653.jpg",
+        "https://telegra.ph/file/5a35c095789d7ce506cd4.jpg",
+        "https://telegra.ph/file/44c26c914dc0399af54c7.jpg",
+        "https://telegra.ph/file/887660cd54991435191da.jpg",
+        "https://telegra.ph/file/cfc5ba8f7c85cea1c8025.jpg",
+        "https://telegra.ph/file/4b0d0c2588836d4c0f1c1.jpg",
+        "https://telegra.ph/file/66426a26d2955d2992436.jpg",
+        "https://telegra.ph/file/39f2c1b8a49662aa7d534.jpg",
+        "https://telegra.ph/file/1cb209c12c6fff1785e5d.jpg",
+        "https://telegra.ph/file/d020a87084729d99ccd09.jpg",
+        "https://telegra.ph/file/a5feb924d809486062011.jpg",
+        "https://telegra.ph/file/4ace4f86cb6e85b84e57c.jpg",
+        "https://telegra.ph/file/bdbfa1989b2bcf02b661e.jpg",
+        "https://telegra.ph/file/c44f8baea3d9471cfd828.jpg",
+        "https://telegra.ph/file/599d5cf7b93d29b6fceb1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

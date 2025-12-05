@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 5925,
+    "title": "九曲Jean - NO.64 吾妻旗袍 [23P-310MB]",
+    "sourceUrl": "https://telegra.ph/九曲Jean---NO64-吾妻旗袍-23P-310MB-08-26",
+    "images": [
+        "https://telegra.ph/file/7bdb8155b5d2ba9f80bce.jpg",
+        "https://telegra.ph/file/4d1ef3326fe421dbb178c.jpg",
+        "https://telegra.ph/file/a9b505e9b422a791015e1.jpg",
+        "https://telegra.ph/file/10e36b0312f17aadd7094.jpg",
+        "https://telegra.ph/file/3d5aac4353da7ff3c00d3.jpg",
+        "https://telegra.ph/file/343e096e6d5d48f0e839a.jpg",
+        "https://telegra.ph/file/b660dc097445db60b0c4c.jpg",
+        "https://telegra.ph/file/fc2a70f0efeed7b60278f.jpg",
+        "https://telegra.ph/file/26e10c7816d1d93866ccb.jpg",
+        "https://telegra.ph/file/e9eecb628134c76cdcbf1.jpg",
+        "https://telegra.ph/file/c39acee83d9b7a6bbe712.jpg",
+        "https://telegra.ph/file/a9153dc5c5f43931e44b1.jpg",
+        "https://telegra.ph/file/53921019b6940fa71788b.jpg",
+        "https://telegra.ph/file/b2c3db40006999c94424b.jpg",
+        "https://telegra.ph/file/9d977ff37f99aa66905bc.jpg",
+        "https://telegra.ph/file/1ee7c83bac3687ae60444.jpg",
+        "https://telegra.ph/file/7867b225d57a784c19955.jpg",
+        "https://telegra.ph/file/2f2976936e150b38a458b.jpg",
+        "https://telegra.ph/file/84c4894a9c5c440b90132.jpg",
+        "https://telegra.ph/file/2b553627685468bc453a0.jpg",
+        "https://telegra.ph/file/50f70a04206e03d3c3d23.jpg",
+        "https://telegra.ph/file/f6bbc978153dcff76c3f0.jpg",
+        "https://telegra.ph/file/03b6ad1b143747dcb5d7e.jpg",
+        "https://telegra.ph/file/a7847cfa1aaa592844607.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4957,
+    "title": "疯猫ss 思绪本 礁石人鱼",
+    "sourceUrl": "https://telegra.ph/疯猫ss-思绪本-礁石人鱼-08-25",
+    "images": [
+        "https://telegra.ph/file/58651636c70e83d8837ca.jpg",
+        "https://telegra.ph/file/9361185a24bca94316a77.jpg",
+        "https://telegra.ph/file/fbdbcfe68db3513ea8029.jpg",
+        "https://telegra.ph/file/732ca6cb0cd62468b8372.jpg",
+        "https://telegra.ph/file/c5659e01df9e3740fd840.jpg",
+        "https://telegra.ph/file/b0a71a5292aac4071b435.jpg",
+        "https://telegra.ph/file/1f56873392b3180847e51.jpg",
+        "https://telegra.ph/file/5e8faa4f5423cbd8d35eb.jpg",
+        "https://telegra.ph/file/3b5647f1ce9b55265965d.jpg",
+        "https://telegra.ph/file/676212d3d2cbb3226dc21.jpg",
+        "https://telegra.ph/file/ac01bc8773f1697cc97cf.jpg",
+        "https://telegra.ph/file/4fb2e0c04c115aaf21aa9.jpg",
+        "https://telegra.ph/file/8b4821ae26247225b6097.jpg",
+        "https://telegra.ph/file/b064077b805d026daeac4.jpg",
+        "https://telegra.ph/file/dd16aeedc7d03e9073f3d.jpg",
+        "https://telegra.ph/file/930257349c41e5fa207ed.jpg",
+        "https://telegra.ph/file/e7da947255bd22ff58626.jpg",
+        "https://telegra.ph/file/29d8cce2d54052dfe2afe.jpg",
+        "https://telegra.ph/file/28bf97d86db1eba4c51f9.jpg",
+        "https://telegra.ph/file/6e1ad420f6c7d3e039296.jpg",
+        "https://telegra.ph/file/1288dc53ac036698f7ace.jpg",
+        "https://telegra.ph/file/0a1fe9cc9c63874c549c3.jpg",
+        "https://telegra.ph/file/28d87fc7d4e006e1e4270.jpg",
+        "https://telegra.ph/file/2c605da5edc15bf6adf09.jpg",
+        "https://telegra.ph/file/ea96ead8778df5c07b530.jpg",
+        "https://telegra.ph/file/b0000a10d0f7027bf9512.jpg",
+        "https://telegra.ph/file/08e9b814e5db53acc96c2.jpg",
+        "https://telegra.ph/file/f78fe28c69d60bd661b34.jpg",
+        "https://telegra.ph/file/83fe22c54065c0f368d74.jpg",
+        "https://telegra.ph/file/f7971a2a127f139972247.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

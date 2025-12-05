@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 7084,
+    "title": "迷之呆梨(发条少女) - 先輩、何見てん？",
+    "sourceUrl": "https://telegra.ph/迷之呆梨发条少女---先輩何見てん-08-27",
+    "images": [
+        "https://telegra.ph/file/59baafd836d997fa29076.jpg",
+        "https://telegra.ph/file/4398ba816cc98fb458044.jpg",
+        "https://telegra.ph/file/665e8787c4507e6197f2d.jpg",
+        "https://telegra.ph/file/d05057dafe025dfc4ecd5.jpg",
+        "https://telegra.ph/file/d84ee4166697386e82e1c.jpg",
+        "https://telegra.ph/file/5f1a095ea64dc78f48475.jpg",
+        "https://telegra.ph/file/49c6b9cfeaa6b926a8e5c.jpg",
+        "https://telegra.ph/file/2be215cbed85286a66e5c.jpg",
+        "https://telegra.ph/file/5021ad046559d4a4ac08d.jpg",
+        "https://telegra.ph/file/6cb39b947c04da07ced2b.jpg",
+        "https://telegra.ph/file/32d5c47fcb91de764e48e.jpg",
+        "https://telegra.ph/file/26f8ce98d70c2fe6e9af5.jpg",
+        "https://telegra.ph/file/351de1bf6bd02405416ee.jpg",
+        "https://telegra.ph/file/543c3b67b637c478b59f3.jpg",
+        "https://telegra.ph/file/94850ee1cd2218d4f0117.jpg",
+        "https://telegra.ph/file/907a9a8af2f37e890aaee.jpg",
+        "https://telegra.ph/file/cd40c942b10e40b1f0ef4.jpg",
+        "https://telegra.ph/file/f1c088fa19cfbac7dde0d.jpg",
+        "https://telegra.ph/file/385ba3fd82820e7a7ce9f.jpg",
+        "https://telegra.ph/file/ece636dcdb48b97b5c4e1.jpg",
+        "https://telegra.ph/file/e90839ed782f1b2f705a4.jpg",
+        "https://telegra.ph/file/ce79782f14550cd3ccf26.jpg",
+        "https://telegra.ph/file/d6d2ec9eb0ce0aab5b1f4.jpg",
+        "https://telegra.ph/file/b7710aff875e58bf12928.jpg",
+        "https://telegra.ph/file/7f3cadb64c036ddf067a6.jpg",
+        "https://telegra.ph/file/5230682264cb9364ed001.jpg",
+        "https://telegra.ph/file/be928e58e68fc61ff1c86.jpg",
+        "https://telegra.ph/file/4fbd836e7c69c83672bdd.jpg",
+        "https://telegra.ph/file/029c0009b0f9a94ca2c9a.jpg",
+        "https://telegra.ph/file/d67bf50f850ae5023857c.jpg",
+        "https://telegra.ph/file/2698b5e66bcb55e813a3c.jpg",
+        "https://telegra.ph/file/9cf79ba8b8edc849343b6.jpg",
+        "https://telegra.ph/file/5d3fcc3ee93fc71be6d94.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

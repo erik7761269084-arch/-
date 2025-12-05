@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5118,
+    "title": "疯猫ss 圣诞套图",
+    "sourceUrl": "https://telegra.ph/疯猫ss-圣诞套图-08-29",
+    "images": [
+        "https://telegra.ph/file/abe023bd3e73c4435f76a.jpg",
+        "https://telegra.ph/file/0920e5e221c106bc9a386.jpg",
+        "https://telegra.ph/file/afc88bd0c0f3836f2f932.jpg",
+        "https://telegra.ph/file/4940f8020fe082202ce16.jpg",
+        "https://telegra.ph/file/904b8ee59ef12f0005456.jpg",
+        "https://telegra.ph/file/d36f58c6d8e33bc37b145.jpg",
+        "https://telegra.ph/file/073318f9da03d3e609c00.jpg",
+        "https://telegra.ph/file/92e4fb157b9de7d851962.jpg",
+        "https://telegra.ph/file/d8039d06f18e0b43bd7d2.jpg",
+        "https://telegra.ph/file/5c68431d6e13a892dd669.jpg",
+        "https://telegra.ph/file/fa5d815c376cf1531b85e.jpg",
+        "https://telegra.ph/file/9393051a437c88689157d.jpg",
+        "https://telegra.ph/file/084a736fe1f03e860240c.jpg",
+        "https://telegra.ph/file/6a73b0c8f1492c09d1e13.jpg",
+        "https://telegra.ph/file/047cb3128cc7fa0eaeba3.jpg",
+        "https://telegra.ph/file/8be280937e17b17d8b702.jpg",
+        "https://telegra.ph/file/18628c7908b8cd0749e65.jpg",
+        "https://telegra.ph/file/38f2687d3c941791a332a.jpg",
+        "https://telegra.ph/file/e6948a747f545dbcd54d7.jpg",
+        "https://telegra.ph/file/6a60a0c1d019086cc34c3.jpg",
+        "https://telegra.ph/file/c5ffd94cd3a7c72061ea6.jpg",
+        "https://telegra.ph/file/518ab686046b40770e159.jpg",
+        "https://telegra.ph/file/9a96d937c8b8c638e82e3.jpg",
+        "https://telegra.ph/file/86032da86785f751f0e03.jpg",
+        "https://telegra.ph/file/b109b38e6a176f7799493.jpg",
+        "https://telegra.ph/file/c276712d87325d1e96a11.jpg",
+        "https://telegra.ph/file/8c22429b084ce84fc175c.jpg",
+        "https://telegra.ph/file/8a6b4e67ea680a9429afc.jpg",
+        "https://telegra.ph/file/df094b43f49be81760070.jpg",
+        "https://telegra.ph/file/0b150dcc623c329517f5e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

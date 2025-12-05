@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2291,
+    "title": "Misaki Suzuki - 秘密女搜查官3",
+    "sourceUrl": "https://telegra.ph/Misaki-Suzuki---秘密女搜查官3-08-29",
+    "images": [
+        "https://telegra.ph/file/f0b28e0107b811de61105.jpg",
+        "https://telegra.ph/file/bb748fadf567cb69fa254.jpg",
+        "https://telegra.ph/file/6425e51b745e6b367b072.jpg",
+        "https://telegra.ph/file/5f50533524fcdd085915c.jpg",
+        "https://telegra.ph/file/b3d45563f4346ec6307e8.jpg",
+        "https://telegra.ph/file/6c88b6927f6dbdb768260.jpg",
+        "https://telegra.ph/file/3411aeee12a1872b6b57d.jpg",
+        "https://telegra.ph/file/10c881a307aca99b93922.jpg",
+        "https://telegra.ph/file/c5bf343e688fdfdecb1f3.jpg",
+        "https://telegra.ph/file/75816d0a9f35a846d481c.jpg",
+        "https://telegra.ph/file/b0255bcbef181796ae004.jpg",
+        "https://telegra.ph/file/4e345038f376309213d04.jpg",
+        "https://telegra.ph/file/08413ee54633bf18f562c.jpg",
+        "https://telegra.ph/file/43887fb603bceac5e9778.jpg",
+        "https://telegra.ph/file/234b7a23f466b4999b05a.jpg",
+        "https://telegra.ph/file/0678ef842a1a5ee819362.jpg",
+        "https://telegra.ph/file/6ddf3dd6ebd84cd203c2f.jpg",
+        "https://telegra.ph/file/42fa29f6f1e9af0d0e611.jpg",
+        "https://telegra.ph/file/6a9a50534d647688adb32.jpg",
+        "https://telegra.ph/file/8071e5d92910db2045c67.jpg",
+        "https://telegra.ph/file/c9a1ef928491731443330.jpg",
+        "https://telegra.ph/file/c892a0141c30acb385593.jpg",
+        "https://telegra.ph/file/13077828868938a69c3f5.jpg",
+        "https://telegra.ph/file/e76a4e7cab8f28233d4a3.jpg",
+        "https://telegra.ph/file/4a8bbc7abf38969faa738.jpg",
+        "https://telegra.ph/file/4f90cba3d69503afdd3ed.jpg",
+        "https://telegra.ph/file/58178f7ba6faf8a47cbbd.jpg",
+        "https://telegra.ph/file/aa45d16f00334ec8952e5.jpg",
+        "https://telegra.ph/file/c5e00d92826d64c403193.jpg",
+        "https://telegra.ph/file/ffb168033164915f319cb.jpg",
+        "https://telegra.ph/file/6ad672c0f6b9b9bc72c57.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

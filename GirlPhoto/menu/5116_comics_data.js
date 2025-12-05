@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5116,
+    "title": "疯猫ss - OL真爱本子 制服ol.勤务ol",
+    "sourceUrl": "https://telegra.ph/疯猫ss---OL真爱本子-制服ol勤务ol-08-29",
+    "images": [
+        "https://telegra.ph/file/ffb01ff23b8886785cbee.jpg",
+        "https://telegra.ph/file/81a65d7cf2a2a56841757.jpg",
+        "https://telegra.ph/file/d15301f142a18ec6e7a1a.jpg",
+        "https://telegra.ph/file/f3a39ee982068e03e722b.jpg",
+        "https://telegra.ph/file/5dee416289908e8dda440.jpg",
+        "https://telegra.ph/file/c344777361cae0e3eb77a.jpg",
+        "https://telegra.ph/file/aee6c16ff20db040e489b.jpg",
+        "https://telegra.ph/file/37243097c6d87c16aaac4.jpg",
+        "https://telegra.ph/file/4055a7012376fc49eab14.jpg",
+        "https://telegra.ph/file/6fc4446337aaee2514ad2.jpg",
+        "https://telegra.ph/file/8d5030f597f6c46f6f175.jpg",
+        "https://telegra.ph/file/655b7b2312483a6df1fae.jpg",
+        "https://telegra.ph/file/b6de8a017a1dd6f1bdc2c.jpg",
+        "https://telegra.ph/file/602d27f741ea75208b9af.jpg",
+        "https://telegra.ph/file/0bce54ade35e267726a47.jpg",
+        "https://telegra.ph/file/7daa2411d6a499ce35405.jpg",
+        "https://telegra.ph/file/13ce512cc38e36cf6b960.jpg",
+        "https://telegra.ph/file/f0bc83ac5e3540dd093ca.jpg",
+        "https://telegra.ph/file/3e8b7fc26cd5df4b8d387.jpg",
+        "https://telegra.ph/file/e53ef862299355277b31f.jpg",
+        "https://telegra.ph/file/8020fe860ca57c5238597.jpg",
+        "https://telegra.ph/file/0ba1a825e30e9b37926d5.jpg",
+        "https://telegra.ph/file/f318682654796643a1ed4.jpg",
+        "https://telegra.ph/file/52e745d02a668af1742be.jpg",
+        "https://telegra.ph/file/85ab8a5eda28ff9242c80.jpg",
+        "https://telegra.ph/file/2ec87136a0795b5976144.jpg",
+        "https://telegra.ph/file/fdce4d49116d75c6f8949.jpg",
+        "https://telegra.ph/file/c7e1c44c227d47b18612a.jpg",
+        "https://telegra.ph/file/e4ad6ad94a5db4f5d7ec8.jpg",
+        "https://telegra.ph/file/359ef4528c6758c8b991d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

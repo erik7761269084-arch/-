@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 3568,
+    "title": "布丁 S4 羊奶冻冻",
+    "sourceUrl": "https://telegra.ph/布丁-S4-羊奶冻冻-08-24",
+    "images": [
+        "https://telegra.ph/file/b27ee04c8f948718e92f2.jpg",
+        "https://telegra.ph/file/fa24fa4d696ba0bb2633d.jpg",
+        "https://telegra.ph/file/9b536867708e9da5b1c88.jpg",
+        "https://telegra.ph/file/141778e7c7dea5cfb0447.jpg",
+        "https://telegra.ph/file/372c1ef476f90ae697c3d.jpg",
+        "https://telegra.ph/file/de809a70a1255580a04a8.jpg",
+        "https://telegra.ph/file/a9327b552c3364789406e.jpg",
+        "https://telegra.ph/file/4d5794d89ae220e2a9822.jpg",
+        "https://telegra.ph/file/f5e8149c8b29ae13dbafd.jpg",
+        "https://telegra.ph/file/bf45caa942a55baab51da.jpg",
+        "https://telegra.ph/file/48f72ea1eb9c34186e906.jpg",
+        "https://telegra.ph/file/ff22ded16bad661415784.jpg",
+        "https://telegra.ph/file/7a30d485587a91fa6abfb.jpg",
+        "https://telegra.ph/file/90f947aec4df1730350bd.jpg",
+        "https://telegra.ph/file/88b54f1726ea514afbd36.jpg",
+        "https://telegra.ph/file/da19a0d20dfeb15cdce86.jpg",
+        "https://telegra.ph/file/a5d62cbe4feb60aeb39ca.jpg",
+        "https://telegra.ph/file/f28134db931010d47aae2.jpg",
+        "https://telegra.ph/file/a45b0df5299bdfa2306cf.jpg",
+        "https://telegra.ph/file/3348f89058338f59c7d33.jpg",
+        "https://telegra.ph/file/a3f30e0d84134aaebf49a.jpg",
+        "https://telegra.ph/file/a547609f11a34c8d441a5.jpg",
+        "https://telegra.ph/file/f2a6febaf7a24c35741de.jpg",
+        "https://telegra.ph/file/0f9a5a118b41ed4dfe500.jpg",
+        "https://telegra.ph/file/13822a0de0cf228b90342.jpg",
+        "https://telegra.ph/file/4f5ed0396ba300f0d20b5.jpg",
+        "https://telegra.ph/file/a729c6ed0945e6de95234.jpg",
+        "https://telegra.ph/file/4beb62c734600e674d460.jpg",
+        "https://telegra.ph/file/8c87209210d50b6995133.jpg",
+        "https://telegra.ph/file/ce7f56343c8a2796401eb.jpg",
+        "https://telegra.ph/file/463553f5746e6976a561b.jpg",
+        "https://telegra.ph/file/6f9c522a373abe30d7423.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

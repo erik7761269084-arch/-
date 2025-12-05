@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 20162,
+    "title": "胡亥足控特写【23P 225M】",
+    "sourceUrl": "https://telegra.ph/胡亥足控特写23P-225M-08-26",
+    "images": [
+        "https://telegra.ph/file/761502fae9346d63eda36.jpg",
+        "https://telegra.ph/file/e4510f10978a3817e98f7.jpg",
+        "https://telegra.ph/file/a2cca6ee91b3f2477e39e.jpg",
+        "https://telegra.ph/file/a848c161ece42126e4560.jpg",
+        "https://telegra.ph/file/cd4dad0dd0c3571fe3f7c.jpg",
+        "https://telegra.ph/file/9ad2ba8ad8f93a0816003.jpg",
+        "https://telegra.ph/file/2787c34bc7d55b341535c.jpg",
+        "https://telegra.ph/file/690a8415d899d8250c2a0.jpg",
+        "https://telegra.ph/file/07900815849d01282b297.jpg",
+        "https://telegra.ph/file/266f321b21ea6ddbf2805.jpg",
+        "https://telegra.ph/file/588df1aad1e5424db88d5.jpg",
+        "https://telegra.ph/file/7a3482f84132d6d65b415.jpg",
+        "https://telegra.ph/file/afd6167b9c7848266c955.jpg",
+        "https://telegra.ph/file/a6180730a73e9563ce2b4.jpg",
+        "https://telegra.ph/file/76b1fd533ce1af13a8721.jpg",
+        "https://telegra.ph/file/ee48bca2efd41375e6b4c.jpg",
+        "https://telegra.ph/file/3e26ebb96e4beddbe35fd.jpg",
+        "https://telegra.ph/file/df2a96cc6aa9bde5d08e9.jpg",
+        "https://telegra.ph/file/96d814af4cc9cd944c4ee.jpg",
+        "https://telegra.ph/file/5ff88455c235553d9c83b.jpg",
+        "https://telegra.ph/file/2c63a07ded0f607e04359.jpg",
+        "https://telegra.ph/file/6bb5d7ce2d2aacb34f0e9.jpg",
+        "https://telegra.ph/file/e83315771810876143e1f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

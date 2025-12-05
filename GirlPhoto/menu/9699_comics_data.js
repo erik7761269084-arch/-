@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9699,
+    "title": "水淼 - 申鹤正片 - 原造型",
+    "sourceUrl": "https://telegra.ph/水淼---申鹤正片---原造型-08-26",
+    "images": [
+        "https://telegra.ph/file/0fd396200569c41a2a401.jpg",
+        "https://telegra.ph/file/b448aea2ef0238745f230.jpg",
+        "https://telegra.ph/file/8f1c425d376ec9211e491.jpg",
+        "https://telegra.ph/file/c1f3e271eb92dcb4325d7.jpg",
+        "https://telegra.ph/file/40810db4c87f44b54f161.jpg",
+        "https://telegra.ph/file/baccd429d860f426b1efb.jpg",
+        "https://telegra.ph/file/233ab0885a819fd47203d.jpg",
+        "https://telegra.ph/file/d87d08dd8edf6e1406910.jpg",
+        "https://telegra.ph/file/4251426a2b40dece18fd8.jpg",
+        "https://telegra.ph/file/f5cf69919821fec5c42f7.jpg",
+        "https://telegra.ph/file/7610bc69f6a4803d7fee8.jpg",
+        "https://telegra.ph/file/2f6f568c81bf501a4239e.jpg",
+        "https://telegra.ph/file/34bea7ebfa7e0a1c96d7c.jpg",
+        "https://telegra.ph/file/4024186e4316e206c324d.jpg",
+        "https://telegra.ph/file/5c94e07686e20a06fc89b.jpg",
+        "https://telegra.ph/file/777d164108098d380deb1.jpg",
+        "https://telegra.ph/file/dc6208de74529dcec0c7f.jpg",
+        "https://telegra.ph/file/87f54c73ed030d65a89c3.jpg",
+        "https://telegra.ph/file/12e8e02fccd2110afdac8.jpg",
+        "https://telegra.ph/file/aa5dfa94296adc9b2f079.jpg",
+        "https://telegra.ph/file/7b0b0bd63b1fa8100c3c7.jpg",
+        "https://telegra.ph/file/c978f986aee66f0f7452f.jpg",
+        "https://telegra.ph/file/36730fceb0f7e7ce26160.jpg",
+        "https://telegra.ph/file/f18482410696e20677564.jpg",
+        "https://telegra.ph/file/2777f2d857b7d283f6fd0.jpg",
+        "https://telegra.ph/file/4bc9d619cd9d11b9800a7.jpg",
+        "https://telegra.ph/file/9f9f0a10dd05695b2ac9c.jpg",
+        "https://telegra.ph/file/a87b5ed9682e4cb3ef953.jpg",
+        "https://telegra.ph/file/9d46a0ef68e9fb2c1ae26.jpg",
+        "https://telegra.ph/file/b41cb4a9b8502ec03e534.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

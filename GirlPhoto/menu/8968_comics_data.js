@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8968,
+    "title": "阮邑_Fairy 伊什塔尔",
+    "sourceUrl": "https://telegra.ph/阮邑-Fairy-伊什塔尔-08-29",
+    "images": [
+        "https://telegra.ph/file/f9ffcdc688dc5eb894b2a.jpg",
+        "https://telegra.ph/file/e0609e97d33ea5f3a89ed.jpg",
+        "https://telegra.ph/file/6952640e01a11112cd344.jpg",
+        "https://telegra.ph/file/b761ad568a1fe226501aa.jpg",
+        "https://telegra.ph/file/cc7abfb23c888178b1f4d.jpg",
+        "https://telegra.ph/file/8d75180b23f34523be2ea.jpg",
+        "https://telegra.ph/file/6b0f3ce0edc7109593472.jpg",
+        "https://telegra.ph/file/67697dd76c6cd70fba5af.jpg",
+        "https://telegra.ph/file/1e708a0936de6b58ada74.jpg",
+        "https://telegra.ph/file/38c05e072f070d94c99c6.jpg",
+        "https://telegra.ph/file/e4028886ba963896d7ff5.jpg",
+        "https://telegra.ph/file/ca2bac4eaff75369aa973.jpg",
+        "https://telegra.ph/file/70c638238f29d6f9a0eab.jpg",
+        "https://telegra.ph/file/56e73c946db11500cf641.jpg",
+        "https://telegra.ph/file/8fe19775a7ce0a2332bed.jpg",
+        "https://telegra.ph/file/e4975df6fc3026239a7ca.jpg",
+        "https://telegra.ph/file/046577ac8ae49cc4b3392.jpg",
+        "https://telegra.ph/file/76200525731822dfb8f67.jpg",
+        "https://telegra.ph/file/4a2c9bd07bb42fa67c5d9.jpg",
+        "https://telegra.ph/file/fb20832a93ec20ae6bc21.jpg",
+        "https://telegra.ph/file/21f609ac4eb3d79b05a07.jpg",
+        "https://telegra.ph/file/f861411320c4905b3ce73.jpg",
+        "https://telegra.ph/file/5ae5be0d90140364216cf.jpg",
+        "https://telegra.ph/file/168b93b25e098a5901330.jpg",
+        "https://telegra.ph/file/acf875b82649b174ee089.jpg",
+        "https://telegra.ph/file/886c1cd09ea681b44bf97.jpg",
+        "https://telegra.ph/file/03fffafc1fd11cb19c471.jpg",
+        "https://telegra.ph/file/73733a2ea5247e40415a9.jpg",
+        "https://telegra.ph/file/f5d8872a2cfe2a72a50ea.jpg",
+        "https://telegra.ph/file/b12f14a71cd55be579f9c.jpg",
+        "https://telegra.ph/file/3216700b42c4f385068d1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

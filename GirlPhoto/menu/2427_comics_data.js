@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 2427,
+    "title": "uki雨季 - 2B A2",
+    "sourceUrl": "https://telegra.ph/uki雨季---2B-A2-08-27",
+    "images": [
+        "https://telegra.ph/file/a41f0e9cdfcdcd6fd2c51.jpg",
+        "https://telegra.ph/file/486dc1aeaebfbd13fbd5d.jpg",
+        "https://telegra.ph/file/6718444a7d1831f051388.jpg",
+        "https://telegra.ph/file/5c25cb230f92ac1485332.jpg",
+        "https://telegra.ph/file/b84323ac3ffefb026d8e4.jpg",
+        "https://telegra.ph/file/e3d4f1f7ee1fdc85b2e10.jpg",
+        "https://telegra.ph/file/016144c6cf74eaaeab26a.jpg",
+        "https://telegra.ph/file/8bd09ffda24324b7ffdf1.jpg",
+        "https://telegra.ph/file/123befdbb3cfb85e1dd38.jpg",
+        "https://telegra.ph/file/e65a4ed6e561d3f40a1f1.jpg",
+        "https://telegra.ph/file/b36bfa7212df5d06194aa.jpg",
+        "https://telegra.ph/file/f5e729834bd4ece18a8b5.jpg",
+        "https://telegra.ph/file/2715dbfefcb5554b09173.jpg",
+        "https://telegra.ph/file/f17b3799c7cdef8c58185.jpg",
+        "https://telegra.ph/file/2b8197880174f129aa7dc.jpg",
+        "https://telegra.ph/file/c31049225de644d8400b1.jpg",
+        "https://telegra.ph/file/7c100e9f0005bcad80bab.jpg",
+        "https://telegra.ph/file/60e3b32c947d2cb3de645.jpg",
+        "https://telegra.ph/file/505f13d5d9e446d1ae305.jpg",
+        "https://telegra.ph/file/42f1f1f6f89e0a8c215e5.jpg",
+        "https://telegra.ph/file/4aab431c190c995888f30.jpg",
+        "https://telegra.ph/file/d28d1e943a76b4c300e2d.jpg",
+        "https://telegra.ph/file/e3b3cd357a876f9ee4d7f.jpg",
+        "https://telegra.ph/file/b2d434f36bd052dd30f4c.jpg",
+        "https://telegra.ph/file/55f940825c7ea300ebfd3.jpg",
+        "https://telegra.ph/file/f3f09db48675388ea7a6c.jpg",
+        "https://telegra.ph/file/b4b1babeae54ac16859fd.jpg",
+        "https://telegra.ph/file/60230d8d2f1caa91b8c3e.jpg",
+        "https://telegra.ph/file/caa9f8025315dacae4b8f.jpg",
+        "https://telegra.ph/file/97b742d0d5ab587621512.jpg",
+        "https://telegra.ph/file/b5a90b5e7526a0c3baead.jpg",
+        "https://telegra.ph/file/57661f191f70d15786359.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

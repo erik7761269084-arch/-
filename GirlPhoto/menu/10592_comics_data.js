@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10592,
+    "title": "夏鸽鸽不想起床 - 杀生院泳装",
+    "sourceUrl": "https://telegra.ph/夏鸽鸽不想起床---杀生院泳装-08-27",
+    "images": [
+        "https://telegra.ph/file/a7b9f3efbf63e663589df.jpg",
+        "https://telegra.ph/file/4c55d53c815fb37d838fc.jpg",
+        "https://telegra.ph/file/e9d640c6f89fdb1b29cf6.jpg",
+        "https://telegra.ph/file/24ceae434d53cbde6d2de.jpg",
+        "https://telegra.ph/file/e68ca36061cb7f988f78c.jpg",
+        "https://telegra.ph/file/9ef44f2e7693626cda2b2.jpg",
+        "https://telegra.ph/file/dccdb55995416bd5236e3.jpg",
+        "https://telegra.ph/file/b928cd52069dd05234e7b.jpg",
+        "https://telegra.ph/file/6983c4fbcfbb048170650.jpg",
+        "https://telegra.ph/file/7460f5403b3e0cbdc56ee.jpg",
+        "https://telegra.ph/file/b9afd661d5f75d140d8e7.jpg",
+        "https://telegra.ph/file/c5a68d40c5ed20635d4ca.jpg",
+        "https://telegra.ph/file/9529c9c9705369e1a36ac.jpg",
+        "https://telegra.ph/file/f3e0144551f347450d25b.jpg",
+        "https://telegra.ph/file/b7e96e1f0e458406b4079.jpg",
+        "https://telegra.ph/file/216dd2594962ec97291d3.jpg",
+        "https://telegra.ph/file/6b53e3e2feaf7935cdff7.jpg",
+        "https://telegra.ph/file/970045b710c2380fc0dd0.jpg",
+        "https://telegra.ph/file/b50926708989911478409.jpg",
+        "https://telegra.ph/file/6083ad8ef49eb8bf242c6.jpg",
+        "https://telegra.ph/file/8fae9b0df7dd8edcd6726.jpg",
+        "https://telegra.ph/file/fc7052972f39da68cc52b.jpg",
+        "https://telegra.ph/file/3e72351fcd28f8ad01cb1.jpg",
+        "https://telegra.ph/file/d07aa9d76e25309a6569c.jpg",
+        "https://telegra.ph/file/9b07e7882d7ba24329eab.jpg",
+        "https://telegra.ph/file/e339cebf5bf3d25ae25d4.jpg",
+        "https://telegra.ph/file/e39cf1aaefcaf1877bb51.jpg",
+        "https://telegra.ph/file/3806da7a64f1e27ddf21b.jpg",
+        "https://telegra.ph/file/5523f89aa2a34834c48a7.jpg",
+        "https://telegra.ph/file/6af1d1285a5736593008c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

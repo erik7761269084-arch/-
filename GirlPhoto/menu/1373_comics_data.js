@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1373,
+    "title": "miko酱 – 洛天依旗袍",
+    "sourceUrl": "https://telegra.ph/miko酱--洛天依旗袍-08-29",
+    "images": [
+        "https://telegra.ph/file/d6dba10ca9fd910527728.jpg",
+        "https://telegra.ph/file/3800146464d0d267b064f.jpg",
+        "https://telegra.ph/file/6581ae5bd9af37af78acd.jpg",
+        "https://telegra.ph/file/09acb230d4bd20414ad8a.jpg",
+        "https://telegra.ph/file/2436a08d446386ae913f4.jpg",
+        "https://telegra.ph/file/c32ac8e480fd733dc3fc3.jpg",
+        "https://telegra.ph/file/9c3a4ad636d439b542e04.jpg",
+        "https://telegra.ph/file/ac778b89d5b7805842a6b.jpg",
+        "https://telegra.ph/file/c0de91ac5a09add708e0e.jpg",
+        "https://telegra.ph/file/8485baa124fc8ea786c90.jpg",
+        "https://telegra.ph/file/bb78bdb33a90b744af6e5.jpg",
+        "https://telegra.ph/file/858af562e4268c7636b1c.jpg",
+        "https://telegra.ph/file/92d216505ee78ea237ef5.jpg",
+        "https://telegra.ph/file/0247e5d7490b92f8aca24.jpg",
+        "https://telegra.ph/file/e7a67c828c00deb931ab5.jpg",
+        "https://telegra.ph/file/e1343824a1470ab290463.jpg",
+        "https://telegra.ph/file/58981fb4764538edbf488.jpg",
+        "https://telegra.ph/file/ab41cb81d3b218082470e.jpg",
+        "https://telegra.ph/file/8d203d71165610c1612b5.jpg",
+        "https://telegra.ph/file/8b139f3ed2082fb6fea6d.jpg",
+        "https://telegra.ph/file/e26a0fd523e39bc9091fa.jpg",
+        "https://telegra.ph/file/fba4ca2bf9d49c4e75d67.jpg",
+        "https://telegra.ph/file/85b7f12ccbf43849b4db0.jpg",
+        "https://telegra.ph/file/7a789166f322b5b69b295.jpg",
+        "https://telegra.ph/file/a736471298ce9ec1d697e.jpg",
+        "https://telegra.ph/file/7c159397d12414972adaa.jpg",
+        "https://telegra.ph/file/b26473df7254fa28d02f8.jpg",
+        "https://telegra.ph/file/84ced7fe9ab8b20e5938f.jpg",
+        "https://telegra.ph/file/6dc51e0914cfc91d70902.jpg",
+        "https://telegra.ph/file/9120952a93a5f80bd12c0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

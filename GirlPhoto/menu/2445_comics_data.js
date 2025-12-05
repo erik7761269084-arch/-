@@ -1,0 +1,39 @@
+const comicData = {
+    "IDcode": 2445,
+    "title": "Umeko J Pack Shuten Souji",
+    "sourceUrl": "https://telegra.ph/Umeko-J-Pack-Shuten-Souji-08-25",
+    "images": [
+        "https://telegra.ph/file/2bea2de9659977155261e.jpg",
+        "https://telegra.ph/file/be8e39f86f4a304931eff.jpg",
+        "https://telegra.ph/file/edc09d6e95bfe5ae08d8e.jpg",
+        "https://telegra.ph/file/3e5aef49f546f323fd3ce.jpg",
+        "https://telegra.ph/file/9855e65a307f99bfec657.jpg",
+        "https://telegra.ph/file/18be95b29456cbcd7da90.jpg",
+        "https://telegra.ph/file/2a2b8573d5bd73803e07e.jpg",
+        "https://telegra.ph/file/d4a8fb7427ab52f464ea6.jpg",
+        "https://telegra.ph/file/370fd37e30f8dcd434387.jpg",
+        "https://telegra.ph/file/1fc7f2acca58e4126a5de.jpg",
+        "https://telegra.ph/file/6ae201d08c0a2bc1180da.jpg",
+        "https://telegra.ph/file/d6301a3457db841881a4b.jpg",
+        "https://telegra.ph/file/62066f2e2fb20360c3a87.jpg",
+        "https://telegra.ph/file/a64137b6fea22a88e9241.jpg",
+        "https://telegra.ph/file/78d7823e09f5524293f36.jpg",
+        "https://telegra.ph/file/aa3609a0ac034553618e0.jpg",
+        "https://telegra.ph/file/a0b2dc66760daf4e0a76c.jpg",
+        "https://telegra.ph/file/4fd9782f74dd69fb41d21.jpg",
+        "https://telegra.ph/file/0412dd8598f2d9b299b43.jpg",
+        "https://telegra.ph/file/8b1eb933bbb47e78168c3.jpg",
+        "https://telegra.ph/file/37be97222835c73f48dc3.jpg",
+        "https://telegra.ph/file/dcee73ed0798753205169.jpg",
+        "https://telegra.ph/file/f6892c1d41e18b53f971f.jpg",
+        "https://telegra.ph/file/70884603f193ee43337cd.jpg",
+        "https://telegra.ph/file/34ec6ba0fbe2e294d26ac.jpg",
+        "https://telegra.ph/file/8107f0ef0bd3a75f523a5.jpg",
+        "https://telegra.ph/file/bed65f010fb3d9fde001c.jpg",
+        "https://telegra.ph/file/0da309f62f64647fd02e4.jpg",
+        "https://telegra.ph/file/3bb6bb39666a3d123a942.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

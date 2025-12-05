@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10685,
+    "title": "香草喵露露 - 蓝色泳装",
+    "sourceUrl": "https://telegra.ph/香草喵露露---蓝色泳装-08-27",
+    "images": [
+        "https://telegra.ph/file/ee02b756a8c3f27bf81cf.jpg",
+        "https://telegra.ph/file/d81921ece966974d7ff23.jpg",
+        "https://telegra.ph/file/74c799d36c9fd897b482e.jpg",
+        "https://telegra.ph/file/4f8212d7ec556051dee20.jpg",
+        "https://telegra.ph/file/91160a8deebd6cfa0379c.jpg",
+        "https://telegra.ph/file/e25545249604fcf8480b1.jpg",
+        "https://telegra.ph/file/f28dc02f4bb107df466b1.jpg",
+        "https://telegra.ph/file/7f963a0b975a16b898fde.jpg",
+        "https://telegra.ph/file/57ee8374a179f904b178a.jpg",
+        "https://telegra.ph/file/c81b0a9dd5889a2f371a9.jpg",
+        "https://telegra.ph/file/d3294d518a22666e328ee.jpg",
+        "https://telegra.ph/file/4def3727bcdfbb4e57369.jpg",
+        "https://telegra.ph/file/11b7413b77d69e65eeb4e.jpg",
+        "https://telegra.ph/file/ec638be3e24e2550b4cc1.jpg",
+        "https://telegra.ph/file/d6cd7735cc6f2e3711a60.jpg",
+        "https://telegra.ph/file/a90d2bb82c4951b9b2c58.jpg",
+        "https://telegra.ph/file/645d2e38e11a23b13fccd.jpg",
+        "https://telegra.ph/file/4f22531458389b822173d.jpg",
+        "https://telegra.ph/file/56dfa9e8018140bc660df.jpg",
+        "https://telegra.ph/file/6cb824046218832b38485.jpg",
+        "https://telegra.ph/file/1cc4e5dd022712158cb1f.jpg",
+        "https://telegra.ph/file/32c732b3888dac129d744.jpg",
+        "https://telegra.ph/file/1e720199932617ad1987d.jpg",
+        "https://telegra.ph/file/b69f4ecfd6d8ddc08f257.jpg",
+        "https://telegra.ph/file/56cd76eddb6e7c79e92a7.jpg",
+        "https://telegra.ph/file/b36211cd31d6e9e39c5fb.jpg",
+        "https://telegra.ph/file/e4748ed4d9d326ad36382.jpg",
+        "https://telegra.ph/file/592b469b5772c2479d460.jpg",
+        "https://telegra.ph/file/1ceb9e88cf63aa3c1075c.jpg",
+        "https://telegra.ph/file/f1298cf13948fcbc8e769.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

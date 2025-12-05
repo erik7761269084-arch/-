@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10691,
+    "title": "香草喵露露 - 小露乱撞 瑜伽服自拍",
+    "sourceUrl": "https://telegra.ph/香草喵露露---小露乱撞-瑜伽服自拍-08-27",
+    "images": [
+        "https://telegra.ph/file/916d639956f5d971bf93d.jpg",
+        "https://telegra.ph/file/1b2d38ceb8b3de56568e7.jpg",
+        "https://telegra.ph/file/32b0cdd035f45468719d0.jpg",
+        "https://telegra.ph/file/40a50f2c564febd0b0dad.jpg",
+        "https://telegra.ph/file/c0fd9d7a8a0c7b2e2ccf1.jpg",
+        "https://telegra.ph/file/b4a2d6c386a843372b73f.jpg",
+        "https://telegra.ph/file/463f703c0e8b48e87c148.jpg",
+        "https://telegra.ph/file/b9a359580b40d9b577ed4.jpg",
+        "https://telegra.ph/file/00757f21dd5aeca492b6c.jpg",
+        "https://telegra.ph/file/622dfb40a33c63c6d733a.jpg",
+        "https://telegra.ph/file/f1170eee270282fe6efd2.jpg",
+        "https://telegra.ph/file/1364bb85bc1135e2f59d0.jpg",
+        "https://telegra.ph/file/2d8c0fad7f97253994eff.jpg",
+        "https://telegra.ph/file/7092ff2bbb5ec970651a1.jpg",
+        "https://telegra.ph/file/50a5584af97fe11ead637.jpg",
+        "https://telegra.ph/file/5e565eeb7c3c7d5b9474f.jpg",
+        "https://telegra.ph/file/0921c30f42e6ff5201be0.jpg",
+        "https://telegra.ph/file/8a39d7184bca4eb6596f5.jpg",
+        "https://telegra.ph/file/93be2768398a9a374f83e.jpg",
+        "https://telegra.ph/file/8b28c3d6498aa170d979a.jpg",
+        "https://telegra.ph/file/8a99a69296869b5b4f751.jpg",
+        "https://telegra.ph/file/fb85ed52113d1a1870810.jpg",
+        "https://telegra.ph/file/d6bdf7e9bb745aa3c68d1.jpg",
+        "https://telegra.ph/file/468522f80fe7744bae5d7.jpg",
+        "https://telegra.ph/file/60b31834dbd1002efedbd.jpg",
+        "https://telegra.ph/file/fd2a89ec1d416f88d87a3.jpg",
+        "https://telegra.ph/file/3f9bd97b2480434aa8a77.jpg",
+        "https://telegra.ph/file/22f531f86f2e1f7358a0e.jpg",
+        "https://telegra.ph/file/e07fb8c6a945f25b6a4b1.jpg",
+        "https://telegra.ph/file/f828fed2cee426808337e.jpg",
+        "https://telegra.ph/file/c3e288cf413dc6d12e6b0.jpg",
+        "https://telegra.ph/file/77cbc560c1124787c7dbd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

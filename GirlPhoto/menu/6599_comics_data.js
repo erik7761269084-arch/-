@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 6599,
+    "title": "洛桑w伊梓 - 喜多川海梦",
+    "sourceUrl": "https://telegra.ph/洛桑w伊梓---喜多川海梦-08-27",
+    "images": [
+        "https://telegra.ph/file/b29ca7089906dd2699538.jpg",
+        "https://telegra.ph/file/6dabd400c5c201fcc99b3.jpg",
+        "https://telegra.ph/file/af30532bdf70274435a9d.jpg",
+        "https://telegra.ph/file/ea16957a124f84ffa4cdb.jpg",
+        "https://telegra.ph/file/1de82abd9acfc58025338.jpg",
+        "https://telegra.ph/file/1c22cb9e8bc73dabb76c4.jpg",
+        "https://telegra.ph/file/280d6a372959d1342f93c.jpg",
+        "https://telegra.ph/file/b2d186c6e7e79e1151250.jpg",
+        "https://telegra.ph/file/f87d59253518122e4f1c3.jpg",
+        "https://telegra.ph/file/9cb36a075f7932ff62d23.jpg",
+        "https://telegra.ph/file/f8d633b17c00e52b7456e.jpg",
+        "https://telegra.ph/file/823643b655b19d5ed728a.jpg",
+        "https://telegra.ph/file/a5e5be4e4c74aeed9e3ad.jpg",
+        "https://telegra.ph/file/e0924ae45b1b89d305ff7.jpg",
+        "https://telegra.ph/file/fb3904e23dc70e651b03d.jpg",
+        "https://telegra.ph/file/ada7c84283569eebcd506.jpg",
+        "https://telegra.ph/file/f632c90ac40aa35237b8e.jpg",
+        "https://telegra.ph/file/90777872f583220e8a139.jpg",
+        "https://telegra.ph/file/916646a4c77c3573e347f.jpg",
+        "https://telegra.ph/file/4298177a01f64eb4be967.jpg",
+        "https://telegra.ph/file/d222e8358a97b834d7713.jpg",
+        "https://telegra.ph/file/2f2c39d57eea34bd88afc.jpg",
+        "https://telegra.ph/file/e28dea0cde7c6e405a0ef.jpg",
+        "https://telegra.ph/file/824b6e3f2aae23597fb39.jpg",
+        "https://telegra.ph/file/5a1a78144fa9810a6f4d7.jpg",
+        "https://telegra.ph/file/b5a0d91c74ede8bf9c310.jpg",
+        "https://telegra.ph/file/69b5a1c6786cafe17accf.jpg",
+        "https://telegra.ph/file/e6f6c512106c7755e657f.jpg",
+        "https://telegra.ph/file/baed3498644ae8120f9f9.jpg",
+        "https://telegra.ph/file/03194bcbe0f855f27d5b9.jpg",
+        "https://telegra.ph/file/377ecd94a08a0b809e60b.jpg",
+        "https://telegra.ph/file/dca6ac883d243dd8fffad.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

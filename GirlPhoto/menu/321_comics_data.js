@@ -1,0 +1,38 @@
+const comicData = {
+    "IDcode": 321,
+    "title": "Byoru - Marie Rose Bomber [28P-300MB]",
+    "sourceUrl": "https://telegra.ph/Byoru---Marie-Rose-Bomber-28P-300MB-08-25",
+    "images": [
+        "https://telegra.ph/file/6688f9b575092b2778fed.jpg",
+        "https://telegra.ph/file/f23d6124c98f13299f946.jpg",
+        "https://telegra.ph/file/d8c704b674f359ab9b636.jpg",
+        "https://telegra.ph/file/797ae2a642f630a387cfc.jpg",
+        "https://telegra.ph/file/f570bc30b35ea0ad84eb8.jpg",
+        "https://telegra.ph/file/fdedb49eea4f24ab9547a.jpg",
+        "https://telegra.ph/file/0553f22f901ac3802e1d1.jpg",
+        "https://telegra.ph/file/970c00d978f7ac65c7142.jpg",
+        "https://telegra.ph/file/09203a3038b38d5c9a05e.jpg",
+        "https://telegra.ph/file/70637c2ee82e649659702.jpg",
+        "https://telegra.ph/file/6180772d5041a10134ae1.jpg",
+        "https://telegra.ph/file/e5251fdcb4f6f2b4a64c6.jpg",
+        "https://telegra.ph/file/d8b78a84801055f705cba.jpg",
+        "https://telegra.ph/file/23229b79c53b53b38d697.jpg",
+        "https://telegra.ph/file/3ab0366d4a2f921ce20e3.jpg",
+        "https://telegra.ph/file/787f3297b6357b7747d84.jpg",
+        "https://telegra.ph/file/a97dc71382fa4617fc0e6.jpg",
+        "https://telegra.ph/file/4becde4e2800140dd07c5.jpg",
+        "https://telegra.ph/file/4bf1441df8bb36f4fa375.jpg",
+        "https://telegra.ph/file/7e3c69b188f76a5985deb.jpg",
+        "https://telegra.ph/file/44de553f2eb1501e04794.jpg",
+        "https://telegra.ph/file/f0aa7dadfc899a5f9a6e3.jpg",
+        "https://telegra.ph/file/f1bdb34dbc8147f9cd6ea.jpg",
+        "https://telegra.ph/file/f8bff0a1d8ad1ca2e4d14.jpg",
+        "https://telegra.ph/file/b819524a6c6e1f5b9b905.jpg",
+        "https://telegra.ph/file/585ec25c18a99f49d61a7.jpg",
+        "https://telegra.ph/file/e5dd5420c53ae7ba7a125.jpg",
+        "https://telegra.ph/file/29a4a55ddd94a27660bc6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

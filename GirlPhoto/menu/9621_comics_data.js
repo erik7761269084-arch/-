@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9621,
+    "title": "水淼Aqua 12月Fantia訂閱 綾瀬星子",
+    "sourceUrl": "https://telegra.ph/%E6%B0%B4%E6%B7%BCAqua-12%E6%9C%88Fantia%E8%A8%82%E9%96%B1-%E7%B6%BE%E7%80%AC%E6%98%9F%E5%AD%90-08-20",
+    "images": [
+        "https://image.acg.lol/file/2025/01/03/16.jpg",
+        "https://image.acg.lol/file/2025/01/03/0.jpg",
+        "https://image.acg.lol/file/2025/01/03/1.jpg",
+        "https://image.acg.lol/file/2025/01/03/2.jpg",
+        "https://image.acg.lol/file/2025/01/03/3.jpg",
+        "https://image.acg.lol/file/2025/01/03/4.jpg",
+        "https://image.acg.lol/file/2025/01/03/7.jpg",
+        "https://image.acg.lol/file/2025/01/03/8.jpg",
+        "https://image.acg.lol/file/2025/01/03/9.jpg",
+        "https://image.acg.lol/file/2025/01/03/10.jpg",
+        "https://image.acg.lol/file/2025/01/03/11.jpg",
+        "https://image.acg.lol/file/2025/01/03/12.jpg",
+        "https://image.acg.lol/file/2025/01/03/13.jpg",
+        "https://image.acg.lol/file/2025/01/03/14.jpg",
+        "https://image.acg.lol/file/2025/01/03/15.jpg",
+        "https://image.acg.lol/file/2025/01/03/17.jpg",
+        "https://image.acg.lol/file/2025/01/03/18.jpg",
+        "https://image.acg.lol/file/2025/01/03/19487f74b64944d40f.jpg",
+        "https://image.acg.lol/file/2025/01/03/20.jpg",
+        "https://image.acg.lol/file/2025/01/03/21.jpg",
+        "https://image.acg.lol/file/2025/01/03/22.jpg",
+        "https://image.acg.lol/file/2025/01/03/23.jpg",
+        "https://image.acg.lol/file/2025/01/03/24.jpg",
+        "https://image.acg.lol/file/2025/01/03/25.jpg",
+        "https://image.acg.lol/file/2025/01/03/26.jpg",
+        "https://image.acg.lol/file/2025/01/03/27.jpg",
+        "https://image.acg.lol/file/2025/01/03/28.jpg",
+        "https://image.acg.lol/file/2025/01/03/29.jpg",
+        "https://image.acg.lol/file/2025/01/03/30.jpg",
+        "https://image.acg.lol/file/2025/01/03/31.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

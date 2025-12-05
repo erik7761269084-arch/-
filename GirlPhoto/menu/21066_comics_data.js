@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21066,
+    "title": "铁板烧鬼舞 – 白金",
+    "sourceUrl": "https://telegra.ph/铁板烧鬼舞--白金-08-29",
+    "images": [
+        "https://telegra.ph/file/4b6df9d23b1a65c9b8f5d.jpg",
+        "https://telegra.ph/file/d9deb7e7c7ec6c233af8e.jpg",
+        "https://telegra.ph/file/85474aaae51d456f791e6.jpg",
+        "https://telegra.ph/file/48d7cd5d431d8e510a996.jpg",
+        "https://telegra.ph/file/303d297a5245ed087fdc8.jpg",
+        "https://telegra.ph/file/c0a7d58f9b113b86f220d.jpg",
+        "https://telegra.ph/file/949564c0e125b9bf0fc1c.jpg",
+        "https://telegra.ph/file/54fcd3c4c2873af6b7b2e.jpg",
+        "https://telegra.ph/file/95c91fef2e4b271820633.jpg",
+        "https://telegra.ph/file/46cbecf61f4d5f042c910.jpg",
+        "https://telegra.ph/file/fda48bc5a39dfb0a3451b.jpg",
+        "https://telegra.ph/file/3914cdb8c2e17b854788c.jpg",
+        "https://telegra.ph/file/ff4216147717abb6d1550.jpg",
+        "https://telegra.ph/file/45c297a17340926d06030.jpg",
+        "https://telegra.ph/file/ec01382c3b4d39a83b5d4.jpg",
+        "https://telegra.ph/file/d75cddaa73c3273f6f032.jpg",
+        "https://telegra.ph/file/b9c6fd128d729bd6ce19f.jpg",
+        "https://telegra.ph/file/b05e655f8884e57261724.jpg",
+        "https://telegra.ph/file/e93390a784912ff69dca0.jpg",
+        "https://telegra.ph/file/1c953924391f4ecdad730.jpg",
+        "https://telegra.ph/file/b85d7c8e1079bdf4db519.jpg",
+        "https://telegra.ph/file/f5a5f9e0feeb68108b6b7.jpg",
+        "https://telegra.ph/file/e2c82d82f290e320e27e8.jpg",
+        "https://telegra.ph/file/2449cbe8975d114e5f8bf.jpg",
+        "https://telegra.ph/file/911ed29b1b97a468c0f39.jpg",
+        "https://telegra.ph/file/2a4dede7f53c25e5f610f.jpg",
+        "https://telegra.ph/file/a30a56baad31a0081142f.jpg",
+        "https://telegra.ph/file/a983109624ae4857a6e56.jpg",
+        "https://telegra.ph/file/68d53fe1b26096a536dcc.jpg",
+        "https://telegra.ph/file/f24aa60bafbacfef21336.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

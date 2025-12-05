@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10382,
+    "title": "雯妹不讲道理 - 520特辑豪华版 白衬衫(30P2V187MB)",
+    "sourceUrl": "https://telegra.ph/雯妹不讲道理---520特辑豪华版-白衬衫30P2V187MB-08-26",
+    "images": [
+        "https://telegra.ph/file/3f363594f679567fe61b8.jpg",
+        "https://telegra.ph/file/2eb8057b003df3b142139.jpg",
+        "https://telegra.ph/file/b4567480e093dd268f82a.jpg",
+        "https://telegra.ph/file/ff244b1a907ec9130a8e7.jpg",
+        "https://telegra.ph/file/87380811dc05743898f8b.jpg",
+        "https://telegra.ph/file/756bcc9ec68db075b7e21.jpg",
+        "https://telegra.ph/file/6fc45726c7a8592c43dd5.jpg",
+        "https://telegra.ph/file/f89cd84284f69dcaa857a.jpg",
+        "https://telegra.ph/file/14a388f6325a1fb7cc1dc.jpg",
+        "https://telegra.ph/file/be7a166c668bec1a3ce8c.jpg",
+        "https://telegra.ph/file/99610a9840eb6045bf223.jpg",
+        "https://telegra.ph/file/9332480505f18914b11ae.jpg",
+        "https://telegra.ph/file/b6d44291222493c280d2c.jpg",
+        "https://telegra.ph/file/aa9e8c20281416c76f8d7.jpg",
+        "https://telegra.ph/file/9ae0a34dbd12f0da3b9d4.jpg",
+        "https://telegra.ph/file/c21463d61545be291065a.jpg",
+        "https://telegra.ph/file/70fd3122c5a39f80656bd.jpg",
+        "https://telegra.ph/file/b424f255fecf0fb10add4.jpg",
+        "https://telegra.ph/file/a50c509fda066e80b7412.jpg",
+        "https://telegra.ph/file/0e9adaaf1450712dd23d4.jpg",
+        "https://telegra.ph/file/a43968cfbe145ae6f26d4.jpg",
+        "https://telegra.ph/file/50c04dd339e3cdd496575.jpg",
+        "https://telegra.ph/file/9ba1206fb06e975d963fb.jpg",
+        "https://telegra.ph/file/4fcd4acca6903a8906edf.jpg",
+        "https://telegra.ph/file/d2de0f41ea5b623d33962.jpg",
+        "https://telegra.ph/file/72d70eb74eecd93850f5b.jpg",
+        "https://telegra.ph/file/12dc7245f89c813ddf048.jpg",
+        "https://telegra.ph/file/df68d9322619ccf4fe904.jpg",
+        "https://telegra.ph/file/80840efc7f291c50bba86.jpg",
+        "https://telegra.ph/file/4ba82411943be7e69f751.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

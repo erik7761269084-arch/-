@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8205,
+    "title": "七月喵子 - NO.10 杀手 [50P-166MB]",
+    "sourceUrl": "https://telegra.ph/七月喵子---NO10-杀手-50P-166MB-08-26",
+    "images": [
+        "https://telegra.ph/file/fc4f6b7aa2bc111de1a43.jpg",
+        "https://telegra.ph/file/1b0e6e81a11d4c6782daf.jpg",
+        "https://telegra.ph/file/b3ee57f4a1df371d2c425.jpg",
+        "https://telegra.ph/file/9032b52454a2376fa8cc2.jpg",
+        "https://telegra.ph/file/e6db13566e1c9a3b7353a.jpg",
+        "https://telegra.ph/file/abdf07276a13fb10bc1aa.jpg",
+        "https://telegra.ph/file/729582f42c13354c7275d.jpg",
+        "https://telegra.ph/file/a902ac94dfaf6b425859a.jpg",
+        "https://telegra.ph/file/cdcb06fe6d22929ffc73e.jpg",
+        "https://telegra.ph/file/08d08a90820c0d532bfea.jpg",
+        "https://telegra.ph/file/c2ab88e8f7fab52dba86a.jpg",
+        "https://telegra.ph/file/34f085440a477e14125b0.jpg",
+        "https://telegra.ph/file/38f422a0cde616518e306.jpg",
+        "https://telegra.ph/file/717bbf5db33965bb16b13.jpg",
+        "https://telegra.ph/file/64c3032d0cf3c22c553d4.jpg",
+        "https://telegra.ph/file/2ef0548137004366c54c4.jpg",
+        "https://telegra.ph/file/631cacbe48f3bbf26acf6.jpg",
+        "https://telegra.ph/file/b5ab2f9e4932cdec0c8d7.jpg",
+        "https://telegra.ph/file/cc26c568cacae6e3865a9.jpg",
+        "https://telegra.ph/file/03be7fed0cc7988db904c.jpg",
+        "https://telegra.ph/file/293b7b9efce40306aa1a9.jpg",
+        "https://telegra.ph/file/beda411e2fe6fd775788d.jpg",
+        "https://telegra.ph/file/cc4d469a4325820727497.jpg",
+        "https://telegra.ph/file/7982ea0dbb675161492b3.jpg",
+        "https://telegra.ph/file/abb491aff306310516f9f.jpg",
+        "https://telegra.ph/file/3564f4d9d9c6a8d7f6429.jpg",
+        "https://telegra.ph/file/4ba794faa7ff65bdcaae1.jpg",
+        "https://telegra.ph/file/dac12a79b5d27dc4acb6a.jpg",
+        "https://telegra.ph/file/fbbe3f94547b409fac262.jpg",
+        "https://telegra.ph/file/e6d3d4c9ce03c2710171d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6754,
+    "title": "麻花麻花酱 伊什塔尔",
+    "sourceUrl": "https://telegra.ph/麻花麻花酱-伊什塔尔-08-27",
+    "images": [
+        "https://telegra.ph/file/7c09109d58772236e3426.jpg",
+        "https://telegra.ph/file/2bdca2e1b21842ed5a84f.jpg",
+        "https://telegra.ph/file/e71b2fcc9c88f7f8bd420.jpg",
+        "https://telegra.ph/file/afaaab85e44d563f8f26d.jpg",
+        "https://telegra.ph/file/c77d61bea8b69fbe49779.jpg",
+        "https://telegra.ph/file/8601392af93cf179a5b55.jpg",
+        "https://telegra.ph/file/174d78c92e76d74b8d77e.jpg",
+        "https://telegra.ph/file/b8e372e00081c0b8e58e9.jpg",
+        "https://telegra.ph/file/b1c32793b0a4efbb32c13.jpg",
+        "https://telegra.ph/file/d8c1230ed00847621b971.jpg",
+        "https://telegra.ph/file/5db5002ac90f2a4634fe1.jpg",
+        "https://telegra.ph/file/c20630761b37ece320b92.jpg",
+        "https://telegra.ph/file/763894b61078c1706a9bd.jpg",
+        "https://telegra.ph/file/d16b92da0481120963528.jpg",
+        "https://telegra.ph/file/fb7012110ffe60ef4ecb4.jpg",
+        "https://telegra.ph/file/7ed9a22f7f584cf8b7a30.jpg",
+        "https://telegra.ph/file/2697e8ee3254d11b0526d.jpg",
+        "https://telegra.ph/file/88971871db53ce624072b.jpg",
+        "https://telegra.ph/file/517bd7ce59fb6e55e8097.jpg",
+        "https://telegra.ph/file/ba7bc216a3a8e3af12ab5.jpg",
+        "https://telegra.ph/file/a446cbf7fe9c30ac023e3.jpg",
+        "https://telegra.ph/file/93666ab232c390d0083f7.jpg",
+        "https://telegra.ph/file/2166ca9fd021cbad10f8f.jpg",
+        "https://telegra.ph/file/724771b845b5fcfddd0e4.jpg",
+        "https://telegra.ph/file/dbf886e90ecf158cc69e7.jpg",
+        "https://telegra.ph/file/f1b0e6fbd991cfda933f8.jpg",
+        "https://telegra.ph/file/e62fd56359cea28c53922.jpg",
+        "https://telegra.ph/file/36c55b0c2ecf633b4b9b6.jpg",
+        "https://telegra.ph/file/239b4a6af20840d759c6d.jpg",
+        "https://telegra.ph/file/a857c7b7223dad68c2246.jpg",
+        "https://telegra.ph/file/4cebcbb0216873ef23b64.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

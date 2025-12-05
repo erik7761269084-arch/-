@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1952,
+    "title": "凉凉子 碧蓝花园兔女郎",
+    "sourceUrl": "https://telegra.ph/凉凉子-碧蓝花园兔女郎-08-25",
+    "images": [
+        "https://telegra.ph/file/e9c098122601b3aecaafd.jpg",
+        "https://telegra.ph/file/ef8db340926bb3b9d901c.jpg",
+        "https://telegra.ph/file/7d986c5ab68cdf139d907.jpg",
+        "https://telegra.ph/file/d99796c3bc98af69cc768.jpg",
+        "https://telegra.ph/file/2172a6524cdd1b35a3e38.jpg",
+        "https://telegra.ph/file/4535c6e60d4821aa80acb.jpg",
+        "https://telegra.ph/file/cc95af7b2fc43dffdaa63.jpg",
+        "https://telegra.ph/file/9ce668de0630d25a2437b.jpg",
+        "https://telegra.ph/file/a92ce513caf36374720d7.jpg",
+        "https://telegra.ph/file/205e680f2bacbd3487dea.jpg",
+        "https://telegra.ph/file/c873c0f50525a73fa2c58.jpg",
+        "https://telegra.ph/file/a7827478b2288cf60a818.jpg",
+        "https://telegra.ph/file/a67f7c94eae7067854210.jpg",
+        "https://telegra.ph/file/91fd92239141ced2e7d4e.jpg",
+        "https://telegra.ph/file/bbd39e3be5a6fab718f22.jpg",
+        "https://telegra.ph/file/339a9d62a7166710bc590.jpg",
+        "https://telegra.ph/file/b957cb93915b5f483cacc.jpg",
+        "https://telegra.ph/file/f93a8c474bae348df9251.jpg",
+        "https://telegra.ph/file/da9856269261836becaf2.jpg",
+        "https://telegra.ph/file/a69b98f420537032c8c52.jpg",
+        "https://telegra.ph/file/3b34bd01ae464197d68da.jpg",
+        "https://telegra.ph/file/e335a76073b82400f1d7e.jpg",
+        "https://telegra.ph/file/a81184b9b1e05d8ff5bcc.jpg",
+        "https://telegra.ph/file/ebd1ddadcc1e8cf64b17d.jpg",
+        "https://telegra.ph/file/a3a96f98315e05659c019.jpg",
+        "https://telegra.ph/file/c815de804dfd47673887b.jpg",
+        "https://telegra.ph/file/c92195f8849239ffaf188.jpg",
+        "https://telegra.ph/file/cc2d53379aaf9bf3cde40.jpg",
+        "https://telegra.ph/file/6ed2022dfeac97fdbc6e6.jpg",
+        "https://telegra.ph/file/2c0e307cdf12abb885f57.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

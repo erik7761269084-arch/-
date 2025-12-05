@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7646,
+    "title": "VOL.233  木绵绵  白衬死库水",
+    "sourceUrl": "https://telegra.ph/VOL233-木绵绵-白衬死库水-08-27",
+    "images": [
+        "https://telegra.ph/file/c94d678dff994fd1e0a17.jpg",
+        "https://telegra.ph/file/14af578d16ebcb982d48b.jpg",
+        "https://telegra.ph/file/575ce9189f651c8f1ed20.jpg",
+        "https://telegra.ph/file/3f3bba6a93e6791aaa6b8.jpg",
+        "https://telegra.ph/file/6a13012c2f758df4285b4.jpg",
+        "https://telegra.ph/file/38f9fa4949f303e776f40.jpg",
+        "https://telegra.ph/file/782c76025aa2fb0b13e1d.jpg",
+        "https://telegra.ph/file/cb014df50cce95e56c342.jpg",
+        "https://telegra.ph/file/f5fcee1266c55be76a79f.jpg",
+        "https://telegra.ph/file/4a70187e55f4f07506fd4.jpg",
+        "https://telegra.ph/file/c68a87dff7873f3d68b2e.jpg",
+        "https://telegra.ph/file/34f59cc8f39a9ce27a98f.jpg",
+        "https://telegra.ph/file/ef6c57383e33fc545d4b3.jpg",
+        "https://telegra.ph/file/8244f571d48c0afc5636b.jpg",
+        "https://telegra.ph/file/5aa925787927f29545623.jpg",
+        "https://telegra.ph/file/6c4d8a50308e8feae7ee6.jpg",
+        "https://telegra.ph/file/f33f22f77263f41f3ff72.jpg",
+        "https://telegra.ph/file/c086887975c6681f5f172.jpg",
+        "https://telegra.ph/file/ace494af39ea567cda924.jpg",
+        "https://telegra.ph/file/7f64e5fb06e3284e6417a.jpg",
+        "https://telegra.ph/file/673e0ab18052227e40640.jpg",
+        "https://telegra.ph/file/e3dfe1a9177d06d510242.jpg",
+        "https://telegra.ph/file/889291769ae89a739d87d.jpg",
+        "https://telegra.ph/file/ccfbdd9e3851b53bca4fa.jpg",
+        "https://telegra.ph/file/7025389cb1d73f097b890.jpg",
+        "https://telegra.ph/file/5a7620952ce9020d2dea0.jpg",
+        "https://telegra.ph/file/944a02e7a7feb11a4bfb2.jpg",
+        "https://telegra.ph/file/6ee782ce15e76266d15c2.jpg",
+        "https://telegra.ph/file/c1c7dcc8167bbd76a6acb.jpg",
+        "https://telegra.ph/file/4b7ccd75d1d95958dc0f9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

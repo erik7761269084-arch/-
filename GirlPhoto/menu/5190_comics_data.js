@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5190,
+    "title": "瓜希酱 - 95式花嫁",
+    "sourceUrl": "https://telegra.ph/Coser瓜希酱福利---95式花嫁-08-27",
+    "images": [
+        "https://telegra.ph/file/24a5d5f86d561fe551e75.jpg",
+        "https://telegra.ph/file/d9d9be40f721c450822da.jpg",
+        "https://telegra.ph/file/f0e1e0fc6e521c7021603.jpg",
+        "https://telegra.ph/file/c2faab09c2b21458f0305.jpg",
+        "https://telegra.ph/file/6d6311e222eb5947ca871.jpg",
+        "https://telegra.ph/file/d4071018cf2434ce8c079.jpg",
+        "https://telegra.ph/file/e8755e9da2ad2b037162a.jpg",
+        "https://telegra.ph/file/6c83f918bb7742e5229ed.jpg",
+        "https://telegra.ph/file/d7dd9675b19b69edb9cfb.jpg",
+        "https://telegra.ph/file/83944b8ea1d200d282639.jpg",
+        "https://telegra.ph/file/309f0c06fa49695a791ec.jpg",
+        "https://telegra.ph/file/b5f92a4e1bceaed01742a.jpg",
+        "https://telegra.ph/file/b5a023c15ba767fd5a26d.jpg",
+        "https://telegra.ph/file/aea99a3cee3874ea36cc8.jpg",
+        "https://telegra.ph/file/1578a56eddd06409156f9.jpg",
+        "https://telegra.ph/file/62f69193c64e7cda4ed24.jpg",
+        "https://telegra.ph/file/8af3607edf216ddedd998.jpg",
+        "https://telegra.ph/file/e040cdbacbe3af14eee22.jpg",
+        "https://telegra.ph/file/de04ab75a605e2397cd8e.jpg",
+        "https://telegra.ph/file/f74a5cc47e964859cbec7.jpg",
+        "https://telegra.ph/file/cacfe1f2f463e2fd9b08b.jpg",
+        "https://telegra.ph/file/772ba8454945a0dd17764.jpg",
+        "https://telegra.ph/file/c56212444d53aca15e7bf.jpg",
+        "https://telegra.ph/file/8e8ce8ed9c88914dedb24.jpg",
+        "https://telegra.ph/file/9d4fda2f082d7b5eb6542.jpg",
+        "https://telegra.ph/file/6810217996b1fd139aa68.jpg",
+        "https://telegra.ph/file/f8794c8ea0a1ccf4b6680.jpg",
+        "https://telegra.ph/file/065b0a0fb0ce3575f646b.jpg",
+        "https://telegra.ph/file/1c05f5af11ad39a461b36.jpg",
+        "https://telegra.ph/file/09d4b7d88b8ebd413700c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

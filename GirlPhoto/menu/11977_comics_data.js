@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11977,
+    "title": "亚马逊鲶鱼 - OL下班后",
+    "sourceUrl": "https://telegra.ph/亚马逊鲶鱼---OL下班后-08-27",
+    "images": [
+        "https://telegra.ph/file/bbaa53a118c5d7b2d2470.jpg",
+        "https://telegra.ph/file/5ea6687905692948fbc6b.jpg",
+        "https://telegra.ph/file/4c226346815002bfafe80.jpg",
+        "https://telegra.ph/file/6e36c185f9cd5921d601a.jpg",
+        "https://telegra.ph/file/a02e1e7150e823652595d.jpg",
+        "https://telegra.ph/file/cc841a6a9d7a0c30b07a0.jpg",
+        "https://telegra.ph/file/a8c78beb1ca57eef33f03.jpg",
+        "https://telegra.ph/file/3ae52ed84251cb612838a.jpg",
+        "https://telegra.ph/file/bd6a4cf5937afe832854d.jpg",
+        "https://telegra.ph/file/038d68fced31fbc6ac29a.jpg",
+        "https://telegra.ph/file/361613e47ac362049a092.jpg",
+        "https://telegra.ph/file/9fda7f9c31ecadb53832b.jpg",
+        "https://telegra.ph/file/7d7fe682ee043f983004e.jpg",
+        "https://telegra.ph/file/2ed164e661e0e200e985a.jpg",
+        "https://telegra.ph/file/fcf65d25cce830c87c6bb.jpg",
+        "https://telegra.ph/file/38cbe5fff8551654322fc.jpg",
+        "https://telegra.ph/file/16d9eac88543cef0c0c81.jpg",
+        "https://telegra.ph/file/bc51cc08a7920f31f1d56.jpg",
+        "https://telegra.ph/file/79d69a9d9538587ecbea6.jpg",
+        "https://telegra.ph/file/905675442e33aef99aebb.jpg",
+        "https://telegra.ph/file/00b05f98a372aef5465f4.jpg",
+        "https://telegra.ph/file/9c29e793c9854444a7510.jpg",
+        "https://telegra.ph/file/6b84283fb7089ef153131.jpg",
+        "https://telegra.ph/file/4aa2dd8af66b1beee4001.jpg",
+        "https://telegra.ph/file/106486cb32771a67f11a4.jpg",
+        "https://telegra.ph/file/fc278c649f18c916a442e.jpg",
+        "https://telegra.ph/file/13424445f3d456f284dab.jpg",
+        "https://telegra.ph/file/94c47e96a3dc28c937638.jpg",
+        "https://telegra.ph/file/cf2f7f8962580c2d0ab77.jpg",
+        "https://telegra.ph/file/fe78583feedf82e51da07.jpg",
+        "https://telegra.ph/file/604317b5f121e940e58ec.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8646,
+    "title": "秋和柯基(夏小秋秋秋) - 机魂肚兜",
+    "sourceUrl": "https://telegra.ph/秋和柯基夏小秋秋秋---机魂肚兜-08-28",
+    "images": [
+        "https://telegra.ph/file/f3f23ff527fac9853f670.jpg",
+        "https://telegra.ph/file/1de27680af0ed19b4f006.jpg",
+        "https://telegra.ph/file/05cfd7c3bf3e311e6cfdb.jpg",
+        "https://telegra.ph/file/92cb814079d7b1c73f3be.jpg",
+        "https://telegra.ph/file/c01767e6d47dd68493a3e.jpg",
+        "https://telegra.ph/file/1550840164ef8acb67840.jpg",
+        "https://telegra.ph/file/af9ea612948ab76bdf0bc.jpg",
+        "https://telegra.ph/file/34e8dd563acedd70ded8d.jpg",
+        "https://telegra.ph/file/31cec7b2f04a7e586724c.jpg",
+        "https://telegra.ph/file/bed8b4ec16eccab450b6d.jpg",
+        "https://telegra.ph/file/9b70abbdcfe1d7b4dbc36.jpg",
+        "https://telegra.ph/file/31f9f82994a3d74713702.jpg",
+        "https://telegra.ph/file/f8615b18c8978408036c5.jpg",
+        "https://telegra.ph/file/b155451aae30e0f93082a.jpg",
+        "https://telegra.ph/file/db624d55f6ab9f5a7947a.jpg",
+        "https://telegra.ph/file/d9dbadf8e126eda453df1.jpg",
+        "https://telegra.ph/file/56e86de78be6e7aa31b68.jpg",
+        "https://telegra.ph/file/b409e3bb3be955f727bf9.jpg",
+        "https://telegra.ph/file/b98112039ec40489f918b.jpg",
+        "https://telegra.ph/file/4785a7c195f91952a1981.jpg",
+        "https://telegra.ph/file/e52d0e262fa202f9cef4f.jpg",
+        "https://telegra.ph/file/763101e7cb2bb30a2ca0e.jpg",
+        "https://telegra.ph/file/57c61401c459afe9fb39e.jpg",
+        "https://telegra.ph/file/bd0a2f036bf7d917ea334.jpg",
+        "https://telegra.ph/file/ffcca84ce8c7ba2ac1f24.jpg",
+        "https://telegra.ph/file/08c7cf540cf9ede54e68a.jpg",
+        "https://telegra.ph/file/3ea8a20f8e8398a18bfc1.jpg",
+        "https://telegra.ph/file/002e16f7f4bdc4461099c.jpg",
+        "https://telegra.ph/file/427854ab7faa1827f8475.jpg",
+        "https://telegra.ph/file/fa0048590cf2894065b9d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

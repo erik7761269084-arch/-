@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10366,
+    "title": "雯妹不讲道理 赛车 4",
+    "sourceUrl": "https://telegra.ph/%E9%9B%AF%E5%A6%B9%E4%B8%8D%E8%AE%B2%E9%81%93%E7%90%86-%E8%B5%9B%E8%BD%A6-4-08-22",
+    "images": [
+        "https://telegra.ph/file/f7a85b691ed3c2cdc6e9d.jpg",
+        "https://telegra.ph/file/f5418db58c642e8e7382a.jpg",
+        "https://telegra.ph/file/3327a377174e06249c582.jpg",
+        "https://telegra.ph/file/7153d171ab2b1ee70fb9a.jpg",
+        "https://telegra.ph/file/e1610756803c4e5bc9c07.jpg",
+        "https://telegra.ph/file/95ec8b783b2ceecd0e54c.jpg",
+        "https://telegra.ph/file/f8d46654374e598a3e71d.jpg",
+        "https://telegra.ph/file/f15bf969746cfe06fc707.jpg",
+        "https://telegra.ph/file/6233caaf0f81495f7d949.jpg",
+        "https://telegra.ph/file/ce7f388c06db815227b52.jpg",
+        "https://telegra.ph/file/93b613626d557cd6d3e7a.jpg",
+        "https://telegra.ph/file/7bb0938ec3ecb38a4beef.jpg",
+        "https://telegra.ph/file/d82f7256f6e5c43b41b30.jpg",
+        "https://telegra.ph/file/7a24adac3f024b67617ab.jpg",
+        "https://telegra.ph/file/0f9387da8a1964a4e6242.jpg",
+        "https://telegra.ph/file/b5fda67e953ad921269e6.jpg",
+        "https://telegra.ph/file/ba3cc5971750ce911333a.jpg",
+        "https://telegra.ph/file/8bc4b2269af125af3839c.jpg",
+        "https://telegra.ph/file/1086859738f94818b4a6a.jpg",
+        "https://telegra.ph/file/07ab478e53416c3519eaa.jpg",
+        "https://telegra.ph/file/aa72248cc75b57aaf9d46.jpg",
+        "https://telegra.ph/file/b917c7d8ed232dc879ff2.jpg",
+        "https://telegra.ph/file/e44535e22518aa621b663.jpg",
+        "https://telegra.ph/file/dc796b0ee963349a2ff5a.jpg",
+        "https://telegra.ph/file/b4a2992b5f843761132d6.jpg",
+        "https://telegra.ph/file/eff18ac2a5deec1c8d3ba.jpg",
+        "https://telegra.ph/file/f4c9174b8e66bd689a431.jpg",
+        "https://telegra.ph/file/c11596040e11d14ff86f4.jpg",
+        "https://telegra.ph/file/d545fbd3a40917323210b.jpg",
+        "https://telegra.ph/file/57d5e53f5dd9231488b6c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

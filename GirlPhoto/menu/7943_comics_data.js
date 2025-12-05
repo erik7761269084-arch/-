@@ -1,0 +1,36 @@
+const comicData = {
+    "IDcode": 7943,
+    "title": "年年 -拜年图26张全",
+    "sourceUrl": "https://telegra.ph/年年--拜年图26张全-08-26",
+    "images": [
+        "https://telegra.ph/file/69f55f0b45af103819ba8.jpg",
+        "https://telegra.ph/file/0bf0f05bbd9371ce08bcd.jpg",
+        "https://telegra.ph/file/989ffc579f8e345ab43d6.jpg",
+        "https://telegra.ph/file/34682b7ae86f50ea690c6.jpg",
+        "https://telegra.ph/file/17664e8c46577f0563d4b.jpg",
+        "https://telegra.ph/file/5d5904aa7da35255a830b.jpg",
+        "https://telegra.ph/file/477e3ffa064c4e5d2de7b.jpg",
+        "https://telegra.ph/file/ac6c5093b749dc688cc71.jpg",
+        "https://telegra.ph/file/35debbe7d0d329ccecd8d.jpg",
+        "https://telegra.ph/file/1c17d063d6eb241680825.jpg",
+        "https://telegra.ph/file/6d9ca277d7db856c6569c.jpg",
+        "https://telegra.ph/file/790fe18ef4603e64abf26.jpg",
+        "https://telegra.ph/file/59ada9e7422c1451dc809.jpg",
+        "https://telegra.ph/file/cd074898d3150cf74d3de.jpg",
+        "https://telegra.ph/file/a157234374b582a41e3d2.jpg",
+        "https://telegra.ph/file/cc1dd78bd78b008392808.jpg",
+        "https://telegra.ph/file/00fe46bd7818a23b2fb47.jpg",
+        "https://telegra.ph/file/03ad9712de65c3d3bc2a8.jpg",
+        "https://telegra.ph/file/e763fe16003f9a9f915c2.jpg",
+        "https://telegra.ph/file/537b0e3805cdb53099971.jpg",
+        "https://telegra.ph/file/b66d2b017171690906e71.jpg",
+        "https://telegra.ph/file/c6baa5f548a7e1df63eb4.jpg",
+        "https://telegra.ph/file/a9d890b81f7e09b7ec62a.jpg",
+        "https://telegra.ph/file/5c7fd17ff630c1d31bd8a.jpg",
+        "https://telegra.ph/file/f774e399066430d5a8e0f.jpg",
+        "https://telegra.ph/file/d4546eb24e99d91e3fa61.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11084,
+    "title": "曉美媽 - 微醺爱丽丝",
+    "sourceUrl": "https://telegra.ph/COS福利-动漫博主曉美媽---微醺爱丽丝写真-08-26",
+    "images": [
+        "https://telegra.ph/file/04e000b9125db0b4728cd.jpg",
+        "https://telegra.ph/file/07b563143e6a1405b7e80.jpg",
+        "https://telegra.ph/file/e6a74c41c0a04e22bb5c2.jpg",
+        "https://telegra.ph/file/5e82c3b294e5bbd7aa3da.jpg",
+        "https://telegra.ph/file/9267ef236784097dff09a.jpg",
+        "https://telegra.ph/file/f54f2cb719f6660fbc0d9.jpg",
+        "https://telegra.ph/file/cfe51a8b07aba5bbf5c7a.jpg",
+        "https://telegra.ph/file/64c08e549b228483feb54.jpg",
+        "https://telegra.ph/file/daf880f0c2f99efc7a5ce.jpg",
+        "https://telegra.ph/file/5e895c014c1b44edc2be6.jpg",
+        "https://telegra.ph/file/5cc727c63b696bc31fa88.jpg",
+        "https://telegra.ph/file/c805a0b543285e78483bf.jpg",
+        "https://telegra.ph/file/390a603ec9e2a3fc6c285.jpg",
+        "https://telegra.ph/file/12dd09d062642c9078171.jpg",
+        "https://telegra.ph/file/d79124d4bd2f236244cf0.jpg",
+        "https://telegra.ph/file/9cf428857d4a45b707fdd.jpg",
+        "https://telegra.ph/file/992140f6c825667b78a80.jpg",
+        "https://telegra.ph/file/00dc629e1ba1339b99064.jpg",
+        "https://telegra.ph/file/358f8639c4a26bd254506.jpg",
+        "https://telegra.ph/file/3dc10951813b19fc4e9fd.jpg",
+        "https://telegra.ph/file/d6bb70ff5cc875e37fc5b.jpg",
+        "https://telegra.ph/file/1fbc71a7bae1ef905eb85.jpg",
+        "https://telegra.ph/file/2de3afd15ab529f6f8820.jpg",
+        "https://telegra.ph/file/da1ff1b2f35c1dbff4792.jpg",
+        "https://telegra.ph/file/1a2a6ea4dc5a6f7fa1f4d.jpg",
+        "https://telegra.ph/file/43825f85c226b88b45930.jpg",
+        "https://telegra.ph/file/aae1e818e3f3bbca29f8a.jpg",
+        "https://telegra.ph/file/10deec03f14fa400d24b0.jpg",
+        "https://telegra.ph/file/182bf08ebec401d1cf1f1.jpg",
+        "https://telegra.ph/file/fc0c802d52006866dd5c5.jpg",
+        "https://telegra.ph/file/58445eecc26a09f29f14f.jpg",
+        "https://telegra.ph/file/518431527440e9c9ab003.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

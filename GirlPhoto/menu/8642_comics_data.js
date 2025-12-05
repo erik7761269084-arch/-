@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8642,
+    "title": "秋和柯基(夏小秋秋秋) - 一起去海边吧",
+    "sourceUrl": "https://telegra.ph/秋和柯基夏小秋秋秋---一起去海边吧-08-28",
+    "images": [
+        "https://telegra.ph/file/8a2dcf61a358903054d62.jpg",
+        "https://telegra.ph/file/072943b6718682c7011fc.jpg",
+        "https://telegra.ph/file/95760f0caedb51c2f9c1f.jpg",
+        "https://telegra.ph/file/b9be980db62ad0d6896ed.jpg",
+        "https://telegra.ph/file/5d5083787ec8bcf24c3a7.jpg",
+        "https://telegra.ph/file/57a83027fcf1cfe3d22eb.jpg",
+        "https://telegra.ph/file/a6baa9817d358c1ed787f.jpg",
+        "https://telegra.ph/file/5e3a1fb27220722a05040.jpg",
+        "https://telegra.ph/file/33fc41868ba9b7a7fd779.jpg",
+        "https://telegra.ph/file/5ed8efab993227f1f5093.jpg",
+        "https://telegra.ph/file/504938ea01cf0288c4f3c.jpg",
+        "https://telegra.ph/file/49fbf7727909223ba5df2.jpg",
+        "https://telegra.ph/file/2b395c86356997d855937.jpg",
+        "https://telegra.ph/file/d8e635e6706c84413ec13.jpg",
+        "https://telegra.ph/file/addc8e0e90a90605f1205.jpg",
+        "https://telegra.ph/file/dee5172e84cc14f17aa0c.jpg",
+        "https://telegra.ph/file/6d9bf7a1bbe89a94b07d8.jpg",
+        "https://telegra.ph/file/a3f9b1e8fc8c1eac29a92.jpg",
+        "https://telegra.ph/file/0a08719e99a1df0c3e339.jpg",
+        "https://telegra.ph/file/f93e4c3af74e430a0f002.jpg",
+        "https://telegra.ph/file/cd9ea2e43f3e8b4214259.jpg",
+        "https://telegra.ph/file/5c1f47132d21d43df2cdb.jpg",
+        "https://telegra.ph/file/4d4883c94fa0c975f42af.jpg",
+        "https://telegra.ph/file/0644d93ada89b03c673c1.jpg",
+        "https://telegra.ph/file/d5da550f22be4e9a3c56f.jpg",
+        "https://telegra.ph/file/a58c5ba9fbe17cb80baae.jpg",
+        "https://telegra.ph/file/1cce89e84292313761e9f.jpg",
+        "https://telegra.ph/file/97155be9a9647227df671.jpg",
+        "https://telegra.ph/file/692cb3cc8e9a3938f4059.jpg",
+        "https://telegra.ph/file/92a88479a3278ef441cac.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

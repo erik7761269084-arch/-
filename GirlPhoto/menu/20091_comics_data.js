@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20091,
+    "title": "Tenleid – 新作 Pack Celty[32P-103MB]",
+    "sourceUrl": "https://telegra.ph/Tenleid--新作-Pack-Celty32P-103MB-08-25",
+    "images": [
+        "https://telegra.ph/file/1bf4386992172fad58ce6.jpg",
+        "https://telegra.ph/file/c392cab64515321e22e4b.jpg",
+        "https://telegra.ph/file/204a8128a754cfbac46c7.jpg",
+        "https://telegra.ph/file/0890a0f82f7d812ed680b.jpg",
+        "https://telegra.ph/file/6970f51e282f5716bbc7b.jpg",
+        "https://telegra.ph/file/ad9d12d35315b368978f3.jpg",
+        "https://telegra.ph/file/6eb9f30f7bc483582b93d.jpg",
+        "https://telegra.ph/file/656e568f4275a6c8c11b0.jpg",
+        "https://telegra.ph/file/6a2cd130bca8af1e68ed4.jpg",
+        "https://telegra.ph/file/b3d81054b03dbed23c44a.jpg",
+        "https://telegra.ph/file/1374d9e8a1f502cee866a.jpg",
+        "https://telegra.ph/file/54d08eae0e4afc0ae3eb7.jpg",
+        "https://telegra.ph/file/1032f6fd52ec233203cf9.jpg",
+        "https://telegra.ph/file/ca4164964e42c70b5e851.jpg",
+        "https://telegra.ph/file/aaaf33901910bbe3f3ef9.jpg",
+        "https://telegra.ph/file/b75054417b8aac6272cf7.jpg",
+        "https://telegra.ph/file/7c7603e5946baf5fe538d.jpg",
+        "https://telegra.ph/file/523be8dc56f56347fb975.jpg",
+        "https://telegra.ph/file/43843bfa565443d235441.jpg",
+        "https://telegra.ph/file/ea8ef2a235e52ca7aa305.jpg",
+        "https://telegra.ph/file/60c66da467c449ba3389a.jpg",
+        "https://telegra.ph/file/282018de6b7fd9f7b986d.jpg",
+        "https://telegra.ph/file/4cd2529be255d865005bf.jpg",
+        "https://telegra.ph/file/234d3276240a851b1bc61.jpg",
+        "https://telegra.ph/file/787659073c19dd3e092fc.jpg",
+        "https://telegra.ph/file/1f0ffead8ea72b0cdeb06.jpg",
+        "https://telegra.ph/file/61217d0987f6349e3dad8.jpg",
+        "https://telegra.ph/file/5ec488be7763bc86f39f1.jpg",
+        "https://telegra.ph/file/e02a9600d97b7cf0939a2.jpg",
+        "https://telegra.ph/file/4de3bb7b4f1c2292eceab.jpg",
+        "https://telegra.ph/file/348eb5841e391a85b7353.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

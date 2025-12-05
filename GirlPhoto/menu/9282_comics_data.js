@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9282,
+    "title": "神楽坂真冬 东瀛猫女",
+    "sourceUrl": "https://telegra.ph/神楽坂真冬-东瀛猫女-08-29",
+    "images": [
+        "https://telegra.ph/file/46e8053ee2da0c8eb924a.jpg",
+        "https://telegra.ph/file/e5fbba2d47e7f3b6a511f.jpg",
+        "https://telegra.ph/file/0f3d1a45747c37ec47bcd.jpg",
+        "https://telegra.ph/file/57c5b5f9efbaac860757e.jpg",
+        "https://telegra.ph/file/fcecffb43ef9a41a20d6f.jpg",
+        "https://telegra.ph/file/aa7459da35a07f73e1d0a.jpg",
+        "https://telegra.ph/file/651c745cbf4f6d0dd821e.jpg",
+        "https://telegra.ph/file/d1e15430a8d761c542431.jpg",
+        "https://telegra.ph/file/2a81eb8c3297617834a00.jpg",
+        "https://telegra.ph/file/de31b3de6c4f891b6755f.jpg",
+        "https://telegra.ph/file/80c9e752184d26aa92fd4.jpg",
+        "https://telegra.ph/file/f1829abfe28006f2b6843.jpg",
+        "https://telegra.ph/file/389206b32504b9a275f6f.jpg",
+        "https://telegra.ph/file/dcdaf32185026b164c2b8.jpg",
+        "https://telegra.ph/file/0640005737a8725121291.jpg",
+        "https://telegra.ph/file/195ef05e3f81237752cc7.jpg",
+        "https://telegra.ph/file/0a3be49ed550f47ffafc5.jpg",
+        "https://telegra.ph/file/08b51dc43d80c62242f98.jpg",
+        "https://telegra.ph/file/a0e861c9ce3a444993e90.jpg",
+        "https://telegra.ph/file/5e164379661e16373a3db.jpg",
+        "https://telegra.ph/file/001b9bd7ddf5302572b48.jpg",
+        "https://telegra.ph/file/6af1fc4f228aca85afaaa.jpg",
+        "https://telegra.ph/file/7c67e0a8fc0092acc681f.jpg",
+        "https://telegra.ph/file/a299c966da4cd99677288.jpg",
+        "https://telegra.ph/file/d06b6a4e12462a9e64e10.jpg",
+        "https://telegra.ph/file/49ecba6ceea5669477c01.jpg",
+        "https://telegra.ph/file/96997a59282a7c15c4690.jpg",
+        "https://telegra.ph/file/b7aecbad4c23f8108d7ac.jpg",
+        "https://telegra.ph/file/e9a9942006c37ad79af5a.jpg",
+        "https://telegra.ph/file/d63d454fa38e8c91cc61b.jpg",
+        "https://telegra.ph/file/f477f5845a61be7713df3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7660,
+    "title": "VOL.462  木绵绵 猫系少女",
+    "sourceUrl": "https://telegra.ph/VOL462-木绵绵-猫系少女-08-27",
+    "images": [
+        "https://telegra.ph/file/d11e2a0ba3375934b42ce.jpg",
+        "https://telegra.ph/file/1445742ea7f3a5d43b719.jpg",
+        "https://telegra.ph/file/9937579f24cd22bc9d93c.jpg",
+        "https://telegra.ph/file/4bde9aa3776b12dac5a75.jpg",
+        "https://telegra.ph/file/614734453c670dbbe42ef.jpg",
+        "https://telegra.ph/file/0076016ff2bf8b5045d4d.jpg",
+        "https://telegra.ph/file/84150bc6118bfa963d3f0.jpg",
+        "https://telegra.ph/file/b7912876bf548a811d8dc.jpg",
+        "https://telegra.ph/file/46b010384d78b9276ca08.jpg",
+        "https://telegra.ph/file/cea00dc4c37b0c996ee7b.jpg",
+        "https://telegra.ph/file/7f2a3b8f0329d6ea16d5c.jpg",
+        "https://telegra.ph/file/d4fda3f0165bfa467b629.jpg",
+        "https://telegra.ph/file/fc129b2cea930fa76d365.jpg",
+        "https://telegra.ph/file/04bf3ca11157556149380.jpg",
+        "https://telegra.ph/file/e969f16c77e0911b0d42a.jpg",
+        "https://telegra.ph/file/c09ad507382c8208c425c.jpg",
+        "https://telegra.ph/file/1251a788c4ca7816b81e7.jpg",
+        "https://telegra.ph/file/9beecf990efaa5ff90e45.jpg",
+        "https://telegra.ph/file/1cff3916bea78a252c82b.jpg",
+        "https://telegra.ph/file/2085f19138886e0d86685.jpg",
+        "https://telegra.ph/file/30b56ec6b8e201648213d.jpg",
+        "https://telegra.ph/file/dd6af8a0ebc956db4149d.jpg",
+        "https://telegra.ph/file/5f91584047a436e4df523.jpg",
+        "https://telegra.ph/file/1b979efe85db510110998.jpg",
+        "https://telegra.ph/file/da9c6f09c16509507c390.jpg",
+        "https://telegra.ph/file/e1ad3f4230c049c05d807.jpg",
+        "https://telegra.ph/file/6c0cb372e50c6f279eddd.jpg",
+        "https://telegra.ph/file/d2c1aca40f5af5c757bbb.jpg",
+        "https://telegra.ph/file/6323e839ee1bca6d006ba.jpg",
+        "https://telegra.ph/file/2e97884d5f0700b488cb9.jpg",
+        "https://telegra.ph/file/2857d6763f3e961edd7a6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

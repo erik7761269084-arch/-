@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 21635,
+    "title": "KIMLEMON SEYEON Vol.2",
+    "sourceUrl": "https://telegra.ph/KIMLEMON-SEYEON-Vol2-08-29",
+    "images": [
+        "https://telegra.ph/file/78791e70049682c6f2d3d.jpg",
+        "https://telegra.ph/file/4ea80557d5adc3b321655.jpg",
+        "https://telegra.ph/file/60024554ac6e975c3d669.jpg",
+        "https://telegra.ph/file/2437225c996b5d34f9812.jpg",
+        "https://telegra.ph/file/247ecc22e3a06b9ccbbd0.jpg",
+        "https://telegra.ph/file/3796dbb39cd86ff835b00.jpg",
+        "https://telegra.ph/file/994a987e115771a97eb20.jpg",
+        "https://telegra.ph/file/0852b37d70373f467033a.jpg",
+        "https://telegra.ph/file/035322cb22151b5b8b414.jpg",
+        "https://telegra.ph/file/5e9622bc17c84935a35d2.jpg",
+        "https://telegra.ph/file/ca28613f06b5f6f3ce996.jpg",
+        "https://telegra.ph/file/e3352538ea7f07c695898.jpg",
+        "https://telegra.ph/file/f5ff446c2dad31fe219a7.jpg",
+        "https://telegra.ph/file/06d0471b54def223b627a.jpg",
+        "https://telegra.ph/file/ba89333fcccd4658805fa.jpg",
+        "https://telegra.ph/file/fa1ea1e0b9af1e7f52c01.jpg",
+        "https://telegra.ph/file/935457bd367184830ee29.jpg",
+        "https://telegra.ph/file/b1b2411784e5dcbc48dad.jpg",
+        "https://telegra.ph/file/9a849785b0d7575e12271.jpg",
+        "https://telegra.ph/file/d1dd718a9d61bc6598287.jpg",
+        "https://telegra.ph/file/715dc0c9a007c6ea44021.jpg",
+        "https://telegra.ph/file/e662817ae47c8c0d8f55d.jpg",
+        "https://telegra.ph/file/8814876d659574d0e9712.jpg",
+        "https://telegra.ph/file/ea43d59b04b10b8fc4470.jpg",
+        "https://telegra.ph/file/7d38b419bf7721cfa6f54.jpg",
+        "https://telegra.ph/file/7a2448880085de6d8e1ba.jpg",
+        "https://telegra.ph/file/6ce2c1250689274fd75e8.jpg",
+        "https://telegra.ph/file/821faa9215c53d575924f.jpg",
+        "https://telegra.ph/file/e7cd8957e8529c3e52849.jpg",
+        "https://telegra.ph/file/ceecea5c375373b0d1a7e.jpg",
+        "https://telegra.ph/file/0a0135005086ed44c78ef.jpg",
+        "https://telegra.ph/file/1bd2b120aaa9fc272cfe2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

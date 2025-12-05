@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5954,
+    "title": "九曲Jean - 大凤打歌服",
+    "sourceUrl": "https://telegra.ph/九曲Jean---大凤打歌服-08-27",
+    "images": [
+        "https://telegra.ph/file/bf24313c22a747563ed3f.jpg",
+        "https://telegra.ph/file/b7055a175ac4649772b8d.jpg",
+        "https://telegra.ph/file/b0fc458f9a5879dabe05c.jpg",
+        "https://telegra.ph/file/4763353858dd36939f119.jpg",
+        "https://telegra.ph/file/7379b9e77771397284084.jpg",
+        "https://telegra.ph/file/15688a76c8a3f56910cc5.jpg",
+        "https://telegra.ph/file/02c905f2b7a97da03325e.jpg",
+        "https://telegra.ph/file/6e6f88241b02262356ea8.jpg",
+        "https://telegra.ph/file/2aa1e42a52e4bfacd5685.jpg",
+        "https://telegra.ph/file/dfde44d779fa566e11bcb.jpg",
+        "https://telegra.ph/file/0125a58d3c4b3a6a8a8c8.jpg",
+        "https://telegra.ph/file/9cace0837e9562aa9f26c.jpg",
+        "https://telegra.ph/file/698dfb665111382d4435f.jpg",
+        "https://telegra.ph/file/f3a63f745ad556bc4cd49.jpg",
+        "https://telegra.ph/file/7ea687a8d5958eb63682c.jpg",
+        "https://telegra.ph/file/5135f89bca25d6c45ae43.jpg",
+        "https://telegra.ph/file/299180e946247fcf7bf57.jpg",
+        "https://telegra.ph/file/7f81238fabb509cf5d5a5.jpg",
+        "https://telegra.ph/file/ff2da2e74872ae602d871.jpg",
+        "https://telegra.ph/file/88c0c4726a8e13e7f4567.jpg",
+        "https://telegra.ph/file/caf809d0c423fa94c4e30.jpg",
+        "https://telegra.ph/file/f62e5424d3ea1f5bbcdac.jpg",
+        "https://telegra.ph/file/3ce637ba3fe57ad3add95.jpg",
+        "https://telegra.ph/file/16784582a3fe9dad62e92.jpg",
+        "https://telegra.ph/file/8d657a51afd79b8571b74.jpg",
+        "https://telegra.ph/file/6bdb1a8e0a06ca65f0dfc.jpg",
+        "https://telegra.ph/file/42755a255efc9ed68273e.jpg",
+        "https://telegra.ph/file/d8a4f24b7155053c7b87e.jpg",
+        "https://telegra.ph/file/38a91752e52ea9dda4a43.jpg",
+        "https://telegra.ph/file/988719ef1e42ef9689a7c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

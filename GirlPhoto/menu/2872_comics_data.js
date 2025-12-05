@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 2872,
+    "title": "ZinieQ - Rappi",
+    "sourceUrl": "https://telegra.ph/ZinieQ---Rappi-08-27",
+    "images": [
+        "https://telegra.ph/file/2623173d7bcb8dfab72f4.jpg",
+        "https://telegra.ph/file/7ee1ed595d0d519f67395.jpg",
+        "https://telegra.ph/file/ecc7f4bdc9bd1eaf45690.jpg",
+        "https://telegra.ph/file/6033a30897220e530e722.jpg",
+        "https://telegra.ph/file/8ba13babbca638c83f8b1.jpg",
+        "https://telegra.ph/file/583b82155d0fc5ebf798e.jpg",
+        "https://telegra.ph/file/bfc4d3de1b77c834a4590.jpg",
+        "https://telegra.ph/file/3ea4998b147b7a177392d.jpg",
+        "https://telegra.ph/file/59da3e4edadd80feb86fb.jpg",
+        "https://telegra.ph/file/87143f9d466996308f656.jpg",
+        "https://telegra.ph/file/72459599c3b0d4a32e9c2.jpg",
+        "https://telegra.ph/file/b18f869a1079afaf2fb8c.jpg",
+        "https://telegra.ph/file/f9de8b6741704cea8d8c1.jpg",
+        "https://telegra.ph/file/43610c7a2be36c6bfb8e6.jpg",
+        "https://telegra.ph/file/e9eb095c7168da1da1b86.jpg",
+        "https://telegra.ph/file/e0161b6c509dcfcb3f9a8.jpg",
+        "https://telegra.ph/file/e7ad5a51664a1d930a55d.jpg",
+        "https://telegra.ph/file/b9cfc67db172af4a941bd.jpg",
+        "https://telegra.ph/file/063207f864010209f1569.jpg",
+        "https://telegra.ph/file/1232e0eca90314136ab59.jpg",
+        "https://telegra.ph/file/38acc63d4fc9805b920f7.jpg",
+        "https://telegra.ph/file/90d6cd4f2431f8df35747.jpg",
+        "https://telegra.ph/file/4670619ab6fd0e2b1671c.jpg",
+        "https://telegra.ph/file/4d764b2444a80c718215c.jpg",
+        "https://telegra.ph/file/5e440bf507772130e3e88.jpg",
+        "https://telegra.ph/file/7278262239c5f5efabea2.jpg",
+        "https://telegra.ph/file/24cc1644b4905e276c987.jpg",
+        "https://telegra.ph/file/83255ecb2da1e6c2d7db3.jpg",
+        "https://telegra.ph/file/9d2e1395b9e1c9122ae7b.jpg",
+        "https://telegra.ph/file/f3f63951cb7667fd6f0be.jpg",
+        "https://telegra.ph/file/72f59db75572cc85a4a79.jpg",
+        "https://telegra.ph/file/2a3898dd5f15e53e46acb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

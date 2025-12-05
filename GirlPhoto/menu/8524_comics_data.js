@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8524,
+    "title": "清颜真德秀 - 阿狸护士 [30P-238MB]",
+    "sourceUrl": "https://telegra.ph/清颜真德秀---阿狸护士-30P-238MB-08-25",
+    "images": [
+        "https://telegra.ph/file/541433f384053028a3f4e.jpg",
+        "https://telegra.ph/file/a2bc503547f1b6be903c0.jpg",
+        "https://telegra.ph/file/e277b88cc4989b7f4dbb3.jpg",
+        "https://telegra.ph/file/891e158b20d36e97c5662.jpg",
+        "https://telegra.ph/file/b726e3499683c78f8de5d.jpg",
+        "https://telegra.ph/file/f2e44b18370770969752e.jpg",
+        "https://telegra.ph/file/e5d37fc0341c56affa4a0.jpg",
+        "https://telegra.ph/file/8b69003d0adf3010e08ac.jpg",
+        "https://telegra.ph/file/8c5622af89ad33013eeea.jpg",
+        "https://telegra.ph/file/853749a6c3fd0979d7511.jpg",
+        "https://telegra.ph/file/e0520d85d5db09644aa34.jpg",
+        "https://telegra.ph/file/479e9a9c406920e610754.jpg",
+        "https://telegra.ph/file/8f0e6f8838908a8aeb189.jpg",
+        "https://telegra.ph/file/4c29c5777438b24fe2646.jpg",
+        "https://telegra.ph/file/cdb6722c518fe6eaae943.jpg",
+        "https://telegra.ph/file/fbf367d3ed783a57d7784.jpg",
+        "https://telegra.ph/file/05124ff76b4a09df4be9a.jpg",
+        "https://telegra.ph/file/bcddede1cdbc29d9fadd7.jpg",
+        "https://telegra.ph/file/4839c6904141a6f7a2769.jpg",
+        "https://telegra.ph/file/50484512863b89429fee6.jpg",
+        "https://telegra.ph/file/922d401c8ccdb1134008d.jpg",
+        "https://telegra.ph/file/2332eb3340c712d5ef9f5.jpg",
+        "https://telegra.ph/file/e54398a7dd0c1cba7b35d.jpg",
+        "https://telegra.ph/file/0583926d6f0e974489597.jpg",
+        "https://telegra.ph/file/5de8ec989d6c3d045c61c.jpg",
+        "https://telegra.ph/file/a926565a69ac6c3ba9e2f.jpg",
+        "https://telegra.ph/file/205da4fb0bd8d6ca4f322.jpg",
+        "https://telegra.ph/file/7a01f8ea717102166d7b2.jpg",
+        "https://telegra.ph/file/ff6bdb7a3d125862e0d0a.jpg",
+        "https://telegra.ph/file/1346539e6047243dcf79d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

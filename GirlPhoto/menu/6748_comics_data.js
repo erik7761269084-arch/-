@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6748,
+    "title": "麻花麻花酱 - 精灵村",
+    "sourceUrl": "https://telegra.ph/麻花麻花酱---精灵村-08-27",
+    "images": [
+        "https://telegra.ph/file/9d6987e981d9e7f38685c.jpg",
+        "https://telegra.ph/file/7e469acdb44005334fe1c.jpg",
+        "https://telegra.ph/file/340aac149e9e16617c8eb.jpg",
+        "https://telegra.ph/file/728e23a3d5686aa384784.jpg",
+        "https://telegra.ph/file/fc97f27a2e57cb7d22f12.jpg",
+        "https://telegra.ph/file/74cc4c6bb511411fe6b46.jpg",
+        "https://telegra.ph/file/8059308d2cd3f36a6f036.jpg",
+        "https://telegra.ph/file/81986c56404f485a9c7fd.jpg",
+        "https://telegra.ph/file/21610551d81e10a0fe389.jpg",
+        "https://telegra.ph/file/47f4c86a3100b3b8ed4a1.jpg",
+        "https://telegra.ph/file/4fcdb17950024e1c9c1ec.jpg",
+        "https://telegra.ph/file/77d88be4d78a96e265b82.jpg",
+        "https://telegra.ph/file/57dbdd8d98574adac91d2.jpg",
+        "https://telegra.ph/file/021bd8331dabc17cda21e.jpg",
+        "https://telegra.ph/file/01e7f33dfe1ef4e8b705a.jpg",
+        "https://telegra.ph/file/3dd72988f60c3e2951edb.jpg",
+        "https://telegra.ph/file/9d226c06e31dfe2456f6b.jpg",
+        "https://telegra.ph/file/6bdd9838459479dda0583.jpg",
+        "https://telegra.ph/file/31a58b3abe1ac9c9482b1.jpg",
+        "https://telegra.ph/file/a62e0724e4787ba6f9756.jpg",
+        "https://telegra.ph/file/a2f73e4876fb3fbc17125.jpg",
+        "https://telegra.ph/file/368fff98295a9131d03b7.jpg",
+        "https://telegra.ph/file/1012bcfa84e4491dbafe7.jpg",
+        "https://telegra.ph/file/8b47442d43f4aec89b99b.jpg",
+        "https://telegra.ph/file/b0bba51fb8ead720a5a77.jpg",
+        "https://telegra.ph/file/efd60c9e0f41f87f6d9d7.jpg",
+        "https://telegra.ph/file/3f8fdb564981cc28bbf62.jpg",
+        "https://telegra.ph/file/105732482a22c807dd347.jpg",
+        "https://telegra.ph/file/cc51b92fabf9c490656b4.jpg",
+        "https://telegra.ph/file/978e5cf30ea8e20911d84.jpg",
+        "https://telegra.ph/file/4ff7eb25d651252b38445.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

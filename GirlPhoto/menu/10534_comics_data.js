@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10534,
+    "title": "西园寺南歌 - NO.10 居家秘书",
+    "sourceUrl": "https://telegra.ph/西园寺南歌---NO10-居家秘书-08-26",
+    "images": [
+        "https://telegra.ph/file/eba0b8118d2a50935c2d8.jpg",
+        "https://telegra.ph/file/7efde0be725d28552a07b.jpg",
+        "https://telegra.ph/file/f1f350d9d1a9f500d002c.jpg",
+        "https://telegra.ph/file/845cd7e06b62f53c6cbda.jpg",
+        "https://telegra.ph/file/3f4ca264571915c5e6910.jpg",
+        "https://telegra.ph/file/af5939f40eeab77baa3a0.jpg",
+        "https://telegra.ph/file/bf6c7b24c71f4457228f1.jpg",
+        "https://telegra.ph/file/381ee8369437766260ac7.jpg",
+        "https://telegra.ph/file/8d4df4b0b410f2107b6fd.jpg",
+        "https://telegra.ph/file/2c68d433df469f753f980.jpg",
+        "https://telegra.ph/file/6d8193c4dd5045baab7f8.jpg",
+        "https://telegra.ph/file/4b412ec631de4a56aef61.jpg",
+        "https://telegra.ph/file/86316c02a6a76f6060d97.jpg",
+        "https://telegra.ph/file/b152a023055eea00520c4.jpg",
+        "https://telegra.ph/file/3b970d9b962da30e8dea8.jpg",
+        "https://telegra.ph/file/d2b12f8de181a1ad64b03.jpg",
+        "https://telegra.ph/file/7c3291c6926c8ce277d9c.jpg",
+        "https://telegra.ph/file/8de3f255051a21567562a.jpg",
+        "https://telegra.ph/file/afb7775bde3fe668bcbaf.jpg",
+        "https://telegra.ph/file/a4ef6e1095daa72ce4f79.jpg",
+        "https://telegra.ph/file/7c90403afcdcf0d7ff2e9.jpg",
+        "https://telegra.ph/file/6609835683678a4bbd8d7.jpg",
+        "https://telegra.ph/file/a915386537ffa4e89c29b.jpg",
+        "https://telegra.ph/file/665b32eb3fbcb7ec16403.jpg",
+        "https://telegra.ph/file/da1467b2f22687bcd8733.jpg",
+        "https://telegra.ph/file/d8d980422ddba7b0294cc.jpg",
+        "https://telegra.ph/file/9215361e69bd34cb5a4ea.jpg",
+        "https://telegra.ph/file/2988ed21d0c972be332e1.jpg",
+        "https://telegra.ph/file/a4dde09c5c187c3d52708.jpg",
+        "https://telegra.ph/file/af60f466d0500f3b31231.jpg",
+        "https://telegra.ph/file/1df4b48472260564b4fd7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

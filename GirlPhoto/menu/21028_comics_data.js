@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21028,
+    "title": "沈梦瑶 - 天窗激凸",
+    "sourceUrl": "https://telegra.ph/沈梦瑶---天窗激凸-08-29",
+    "images": [
+        "https://telegra.ph/file/fe2b620a3b7677ede33ed.jpg",
+        "https://telegra.ph/file/1c9d0462ceb16a056b4ca.jpg",
+        "https://telegra.ph/file/e6c17afdbae6428a9fba4.jpg",
+        "https://telegra.ph/file/1236ddcf282d0a8fa852c.jpg",
+        "https://telegra.ph/file/55a833bfdb861024dbf3e.jpg",
+        "https://telegra.ph/file/ba3b54f3a26c61c85fbbf.jpg",
+        "https://telegra.ph/file/07d2c8811524fa0ec9ec2.jpg",
+        "https://telegra.ph/file/d2c650839f261b39895ec.jpg",
+        "https://telegra.ph/file/c899d04e4278e94b1d68c.jpg",
+        "https://telegra.ph/file/af2ac6943d570b1da925f.jpg",
+        "https://telegra.ph/file/f0e7044e3f125b25ec6ee.jpg",
+        "https://telegra.ph/file/8f8e0c1bf2eaf95a9de3c.jpg",
+        "https://telegra.ph/file/83e6a2316201d717a1790.jpg",
+        "https://telegra.ph/file/bdec9e31399a540a42bba.jpg",
+        "https://telegra.ph/file/d78c9bf5018c947c845ba.jpg",
+        "https://telegra.ph/file/b3e1bda9f84fdaf6dbf2c.jpg",
+        "https://telegra.ph/file/16c6d36911c3b3e7314cf.jpg",
+        "https://telegra.ph/file/5039cb827c8052fad843d.jpg",
+        "https://telegra.ph/file/50ba3f7029fd0d523126a.jpg",
+        "https://telegra.ph/file/bd8003c96345c0f426810.jpg",
+        "https://telegra.ph/file/6c7118eded313a8479a61.jpg",
+        "https://telegra.ph/file/aeb42ca04947ddc866cd3.jpg",
+        "https://telegra.ph/file/1fd3c2098d8c1d35852b4.jpg",
+        "https://telegra.ph/file/31c0d2d9a30efad40dab1.jpg",
+        "https://telegra.ph/file/b880386141aaecf225027.jpg",
+        "https://telegra.ph/file/a5e55a2f759bf1779126b.jpg",
+        "https://telegra.ph/file/7b7977c23d6cd1352337d.jpg",
+        "https://telegra.ph/file/3229b69cd868ce180d605.jpg",
+        "https://telegra.ph/file/3e6fef5f704c8769f4121.jpg",
+        "https://telegra.ph/file/b257b5421515dce3f808f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20333,
+    "title": "[Korean Realgraphic] - Z Spa",
+    "sourceUrl": "https://telegra.ph/Korean-Realgraphic---Z-Spa-08-29",
+    "images": [
+        "https://telegra.ph/file/77426dbd4d73dc0c78c5b.jpg",
+        "https://telegra.ph/file/c340a530aac0ae32d2bfa.jpg",
+        "https://telegra.ph/file/7e3063d7aa6727d31de7d.jpg",
+        "https://telegra.ph/file/01bde120e211ed74fd90a.jpg",
+        "https://telegra.ph/file/b3715bcd03b3bcf299943.jpg",
+        "https://telegra.ph/file/b9a3a968240591b91e1ba.jpg",
+        "https://telegra.ph/file/6cb5c097ae1b1c0294f04.jpg",
+        "https://telegra.ph/file/cb2c53ad0c90248ea3b59.jpg",
+        "https://telegra.ph/file/91bd44568e977a3fc6e77.jpg",
+        "https://telegra.ph/file/5241c848b98fe3039f8b0.jpg",
+        "https://telegra.ph/file/6f531797ee50579ad3257.jpg",
+        "https://telegra.ph/file/219fea2c88cb689e25da2.jpg",
+        "https://telegra.ph/file/f32ceeb6fae954ece1d64.jpg",
+        "https://telegra.ph/file/d13a454338cb3085dba53.jpg",
+        "https://telegra.ph/file/f71ce425c6a41f5579de8.jpg",
+        "https://telegra.ph/file/7dbbd4adb5ce72a1e1415.jpg",
+        "https://telegra.ph/file/c19c49e3eca21d69f86b9.jpg",
+        "https://telegra.ph/file/cc35d33bb15238a6c9db1.jpg",
+        "https://telegra.ph/file/e5df9d44c4a42f6d0c85a.jpg",
+        "https://telegra.ph/file/7c6335c0ab056c13d1a77.jpg",
+        "https://telegra.ph/file/c7b310c28a378edde7ba0.jpg",
+        "https://telegra.ph/file/269aa59f7cbfbc016b38e.jpg",
+        "https://telegra.ph/file/4730a502f6995a6e37082.jpg",
+        "https://telegra.ph/file/5989159b498f652235d92.jpg",
+        "https://telegra.ph/file/ce7708899c9e2ec83ccbb.jpg",
+        "https://telegra.ph/file/1c4d087762d77cc5abce8.jpg",
+        "https://telegra.ph/file/d1721ff0e38dab0747518.jpg",
+        "https://telegra.ph/file/a1f5c8dd873e09e0b0d1f.jpg",
+        "https://telegra.ph/file/4df913d392bc1cbc380d5.jpg",
+        "https://telegra.ph/file/3d5fd61ccbb6a7e099abf.jpg",
+        "https://telegra.ph/file/6fbb07fefbfd095c9380e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

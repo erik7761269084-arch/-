@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8027,
+    "title": "您的蛋蛋 索尼子白内衣",
+    "sourceUrl": "https://telegra.ph/您的蛋蛋-索尼子白内衣-08-28",
+    "images": [
+        "https://telegra.ph/file/4b6ce4bf46ecbb9c2709f.jpg",
+        "https://telegra.ph/file/71727ab426bf755874148.jpg",
+        "https://telegra.ph/file/3c56af08c7f81e449e53b.jpg",
+        "https://telegra.ph/file/bef53a7ceaf2597ada3ae.jpg",
+        "https://telegra.ph/file/66be079b4a5e07f9674d4.jpg",
+        "https://telegra.ph/file/d3607c2f8be5f2847f053.jpg",
+        "https://telegra.ph/file/e2a358d4dc16714387223.jpg",
+        "https://telegra.ph/file/bf7d09290e57b01e5fd5a.jpg",
+        "https://telegra.ph/file/da321f4095e0d2fdbb706.jpg",
+        "https://telegra.ph/file/f8c0d82e6e0a46f0fcaaa.jpg",
+        "https://telegra.ph/file/3dd85524782994becb514.jpg",
+        "https://telegra.ph/file/016853665f61710282ba6.jpg",
+        "https://telegra.ph/file/2a73be1db92ffc8867f2a.jpg",
+        "https://telegra.ph/file/c3bb9cb307061c2b1a56f.jpg",
+        "https://telegra.ph/file/24a2596b547275d90c4af.jpg",
+        "https://telegra.ph/file/5980638b185104ed5a498.jpg",
+        "https://telegra.ph/file/9e25f2dff6543681f6889.jpg",
+        "https://telegra.ph/file/d929a57823aaa2f4eac53.jpg",
+        "https://telegra.ph/file/b47463b2a8f72a77de613.jpg",
+        "https://telegra.ph/file/93fd828578fdf78f175a7.jpg",
+        "https://telegra.ph/file/83420389a40cbf97a8ac2.jpg",
+        "https://telegra.ph/file/5ed088bfd60e237be9fc9.jpg",
+        "https://telegra.ph/file/d260a2d5d7d1068c97cdf.jpg",
+        "https://telegra.ph/file/8316e225b4a226e61c9d2.jpg",
+        "https://telegra.ph/file/a28618e36436494d65e9d.jpg",
+        "https://telegra.ph/file/7a679e75bfcd981b95a73.jpg",
+        "https://telegra.ph/file/1260a687472c225abf235.jpg",
+        "https://telegra.ph/file/661d5adab003a4e0630c5.jpg",
+        "https://telegra.ph/file/9f0c384f5c033d281e4f9.jpg",
+        "https://telegra.ph/file/e74ecb9fe0abd01d93d0f.jpg",
+        "https://telegra.ph/file/e97378691ebb695b2a37e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

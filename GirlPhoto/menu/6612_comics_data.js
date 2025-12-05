@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6612,
+    "title": "洛璃LoLiSAMA 醉酒OL 剧情 [104P1V-1.67GB]",
+    "sourceUrl": "https://telegra.ph/洛璃LoLiSAMA-醉酒OL-剧情-104P1V-167GB-08-25",
+    "images": [
+        "https://telegra.ph/file/63c51d54594593ee107f3.jpg",
+        "https://telegra.ph/file/1bd77574173b2af3f5eba.jpg",
+        "https://telegra.ph/file/070dd8bd837294e68fe4b.jpg",
+        "https://telegra.ph/file/074cb6dc12242c8c84520.jpg",
+        "https://telegra.ph/file/0fb1c3dae9f15e2f119d3.jpg",
+        "https://telegra.ph/file/60c8dcaa41847a08bc107.jpg",
+        "https://telegra.ph/file/d0d38f78350c6e0b33f8a.jpg",
+        "https://telegra.ph/file/bb597bb620877bd4fde70.jpg",
+        "https://telegra.ph/file/57384b0ce1659c19a075c.jpg",
+        "https://telegra.ph/file/b4263ad673c00f94898fb.jpg",
+        "https://telegra.ph/file/403176ee7ae8e2acc5c14.jpg",
+        "https://telegra.ph/file/09f28361be14fe36eb997.jpg",
+        "https://telegra.ph/file/fe654e20ec0f528f5f8b5.jpg",
+        "https://telegra.ph/file/d6ff2f0186da1e737a88a.jpg",
+        "https://telegra.ph/file/36ce67b923eeb483c5a7f.jpg",
+        "https://telegra.ph/file/33e7a3c717a728ebb1c80.jpg",
+        "https://telegra.ph/file/f0f8313d426722689c419.jpg",
+        "https://telegra.ph/file/60b57e766f2a62faec731.jpg",
+        "https://telegra.ph/file/a3998f7ceb24356b55f49.jpg",
+        "https://telegra.ph/file/4a4211e1610f6ef999b10.jpg",
+        "https://telegra.ph/file/812a69e848f1120ac839a.jpg",
+        "https://telegra.ph/file/1c0f9b8918debc2b646de.jpg",
+        "https://telegra.ph/file/372a4d899de1bc2a799e4.jpg",
+        "https://telegra.ph/file/e1da199619339491b5361.jpg",
+        "https://telegra.ph/file/c1f9f4799c7fca470c153.jpg",
+        "https://telegra.ph/file/43e65e2e58fd9482e08d2.jpg",
+        "https://telegra.ph/file/515b4422e41c09fac6cd2.jpg",
+        "https://telegra.ph/file/188126daaed8d6188e1b1.jpg",
+        "https://telegra.ph/file/7820e4f82ab478aed22e9.jpg",
+        "https://telegra.ph/file/57778f0ae1aad5aea8893.jpg",
+        "https://telegra.ph/file/39ccadce1ba8f9f96e4e6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

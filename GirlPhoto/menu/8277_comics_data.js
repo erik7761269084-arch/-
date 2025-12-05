@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 8277,
+    "title": "柒柒不可爱",
+    "sourceUrl": "https://telegra.ph/柒柒不可爱-08-26-2",
+    "images": [
+        "https://telegra.ph/file/c1d12df98062c5cbf5a8d.jpg",
+        "https://telegra.ph/file/1b4b07883ef3be0dd22a7.jpg",
+        "https://telegra.ph/file/10cbe673e954ff778459f.jpg",
+        "https://telegra.ph/file/97ca890ec777cfbfadde8.jpg",
+        "https://telegra.ph/file/ce0bc85a5a58a0c4abc4b.jpg",
+        "https://telegra.ph/file/5a44e6265e7d49a738078.jpg",
+        "https://telegra.ph/file/1d10422434e585d1a1736.jpg",
+        "https://telegra.ph/file/000548ccec60c35231c7a.jpg",
+        "https://telegra.ph/file/38d454fbc33ebef0629d1.jpg",
+        "https://telegra.ph/file/d0156e179268460e2c4c3.jpg",
+        "https://telegra.ph/file/73cfe63deb0a4586180a7.jpg",
+        "https://telegra.ph/file/93e3ac644c00c0ce67719.jpg",
+        "https://telegra.ph/file/a5694fe04d29aa2af1de8.jpg",
+        "https://telegra.ph/file/cd1e3ef46375ea923bf26.jpg",
+        "https://telegra.ph/file/ed112b2ccea1499b7cc4b.jpg",
+        "https://telegra.ph/file/fabb06ef8828eb0fc8861.jpg",
+        "https://telegra.ph/file/6ab14a170bf0af2f06b7d.jpg",
+        "https://telegra.ph/file/512490c94f206bd9bf0e1.jpg",
+        "https://telegra.ph/file/a799b8ed45f71db889b7d.jpg",
+        "https://telegra.ph/file/2ef136b6afebe314c4eb9.jpg",
+        "https://telegra.ph/file/41644e8884d7cc467f23b.jpg",
+        "https://telegra.ph/file/bd8ae2b02fdd9b96aded7.jpg",
+        "https://telegra.ph/file/1e72b20f0ee8b3e118a03.jpg",
+        "https://telegra.ph/file/dd676d706849963d643bc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10445,
+    "title": "VOL.092 五更百鬼 女仆和兔女郎",
+    "sourceUrl": "https://telegra.ph/VOL092-五更百鬼-女仆和兔女郎-08-28-2",
+    "images": [
+        "https://telegra.ph/file/21fa119e851721b04c446.jpg",
+        "https://telegra.ph/file/10a1a79096234cb8bbff9.jpg",
+        "https://telegra.ph/file/2d777dda71d7bc51799ce.jpg",
+        "https://telegra.ph/file/3ed33788f1e6783e3d5d4.jpg",
+        "https://telegra.ph/file/9487e7e94f23cf3f616ee.jpg",
+        "https://telegra.ph/file/d4f11ef16ee777cd14bd7.jpg",
+        "https://telegra.ph/file/041c393a66d66fd0c403d.jpg",
+        "https://telegra.ph/file/dd4b4fe493f7f34271fa7.jpg",
+        "https://telegra.ph/file/28511f51d08135746bace.jpg",
+        "https://telegra.ph/file/5108c11fbf5656889066f.jpg",
+        "https://telegra.ph/file/77db5bb0572dd7d356a3b.jpg",
+        "https://telegra.ph/file/fabd6fcc9ebaad1d523f8.jpg",
+        "https://telegra.ph/file/4a8b4b97a3b993714a227.jpg",
+        "https://telegra.ph/file/a05c798c5bf16d1f3e3c5.jpg",
+        "https://telegra.ph/file/4dbbd38793126f65f8f7c.jpg",
+        "https://telegra.ph/file/da4d0f44e523f05fb8344.jpg",
+        "https://telegra.ph/file/9c5c289a3699dd336553e.jpg",
+        "https://telegra.ph/file/bf5328e7ed35c6cdae611.jpg",
+        "https://telegra.ph/file/feda235a86640329602a1.jpg",
+        "https://telegra.ph/file/2a27f1a7b9e2240f599d7.jpg",
+        "https://telegra.ph/file/0b89a7dd46637fadc8fcb.jpg",
+        "https://telegra.ph/file/60a7c84422f208998956e.jpg",
+        "https://telegra.ph/file/91ee19062b7db7f48b94c.jpg",
+        "https://telegra.ph/file/53e97019bf7e4ef5674ed.jpg",
+        "https://telegra.ph/file/0a1807fea343b303fb7dc.jpg",
+        "https://telegra.ph/file/ea19e7f8e2ac180612558.jpg",
+        "https://telegra.ph/file/ef041158b6593ceb31e14.jpg",
+        "https://telegra.ph/file/c4c10052ea38a50c9b702.jpg",
+        "https://telegra.ph/file/de128fec636a4e0a8b9a3.jpg",
+        "https://telegra.ph/file/6a2fd6bf7033d7f7a5e99.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

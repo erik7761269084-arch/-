@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 529,
+    "title": "[DJAWA]  Jenny - Type 95 Pure White Graduation",
+    "sourceUrl": "https://telegra.ph/DJAWA-Jenny---Type-95-Pure-White-Graduation-08-26",
+    "images": [
+        "https://telegra.ph/file/f262f822641a8a7459a7c.jpg",
+        "https://telegra.ph/file/39c6fa295e99994de2905.jpg",
+        "https://telegra.ph/file/804b91a6d2d10a4e3ec38.jpg",
+        "https://telegra.ph/file/f3ebe889d29ceca9de75f.jpg",
+        "https://telegra.ph/file/f86151fc39aeb2dff0365.jpg",
+        "https://telegra.ph/file/6352d314359c2920847f6.jpg",
+        "https://telegra.ph/file/6164a6fc327d25a8dd8eb.jpg",
+        "https://telegra.ph/file/68b45f53416740517c314.jpg",
+        "https://telegra.ph/file/153ef92927cda28b921a2.jpg",
+        "https://telegra.ph/file/64c416052eaa3dbd4d56c.jpg",
+        "https://telegra.ph/file/169c149369c4b8fe6536d.jpg",
+        "https://telegra.ph/file/c4ef9ea3e5df242604573.jpg",
+        "https://telegra.ph/file/7622a4c0a172a1451e1f4.jpg",
+        "https://telegra.ph/file/ce029818c47c2ac47f4cc.jpg",
+        "https://telegra.ph/file/84beebd1846e5adfcd393.jpg",
+        "https://telegra.ph/file/2254fb3e9224e43bc359e.jpg",
+        "https://telegra.ph/file/2f6dc3c90f56371ff02c5.jpg",
+        "https://telegra.ph/file/54afce0eaffe27691ffb5.jpg",
+        "https://telegra.ph/file/26c10420fe01aa090c796.jpg",
+        "https://telegra.ph/file/1dabbe788456ffb6838bd.jpg",
+        "https://telegra.ph/file/7311933093ef13e33c122.jpg",
+        "https://telegra.ph/file/924e6cf7e3069e695bc65.jpg",
+        "https://telegra.ph/file/82661ee4e67543caa16f7.jpg",
+        "https://telegra.ph/file/8351c91afd91eda43eed9.jpg",
+        "https://telegra.ph/file/af6f7ee2011c6e3a7b45a.jpg",
+        "https://telegra.ph/file/87739e8d4ad12711d3b15.jpg",
+        "https://telegra.ph/file/5f1274c57fca0c670a059.jpg",
+        "https://telegra.ph/file/9da3bc5f2dfd8fd46ebdf.jpg",
+        "https://telegra.ph/file/ebd8d0d2c0b00f4404060.jpg",
+        "https://telegra.ph/file/5e3ab837945cab072767f.jpg",
+        "https://telegra.ph/file/0af2e48943988c01c4710.jpg",
+        "https://telegra.ph/file/cdcdf80b1b609ee00678e.jpg",
+        "https://telegra.ph/file/32a6e75984d89f99bc613.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

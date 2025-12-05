@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11954,
+    "title": "雪晴Astra 运动元素",
+    "sourceUrl": "https://telegra.ph/雪晴Astra-运动元素-08-27",
+    "images": [
+        "https://telegra.ph/file/0355d202ce5260820604b.jpg",
+        "https://telegra.ph/file/0f8f573342158f15c00b3.jpg",
+        "https://telegra.ph/file/72951eed73c5257211179.jpg",
+        "https://telegra.ph/file/b317ed204ce5b72da9a39.jpg",
+        "https://telegra.ph/file/ac9640a60da92e49e7748.jpg",
+        "https://telegra.ph/file/d9d9664d0eb145546d8f8.jpg",
+        "https://telegra.ph/file/ab9a5d0f30655de6f4446.jpg",
+        "https://telegra.ph/file/b45504c2ff864884d978f.jpg",
+        "https://telegra.ph/file/7e343fc626fca84f13fcc.jpg",
+        "https://telegra.ph/file/4e93e9075991f4a2ae3f0.jpg",
+        "https://telegra.ph/file/26e95efdf5e82b0bb2086.jpg",
+        "https://telegra.ph/file/d8b92ba8b9d11a317fa46.jpg",
+        "https://telegra.ph/file/9226a0c5428aecc310e88.jpg",
+        "https://telegra.ph/file/d82d0ca7e75ffff3eec5c.jpg",
+        "https://telegra.ph/file/dba57d6b0c2d701559bed.jpg",
+        "https://telegra.ph/file/d0f681b14c60fdb60d014.jpg",
+        "https://telegra.ph/file/c7fd229982979e01a759e.jpg",
+        "https://telegra.ph/file/a2d36e29a1888485b37ec.jpg",
+        "https://telegra.ph/file/45daf82409d0eb33c725e.jpg",
+        "https://telegra.ph/file/9eacbb9b78eb0050c9b74.jpg",
+        "https://telegra.ph/file/fbb12f872e917546d3b49.jpg",
+        "https://telegra.ph/file/453f6b58fe58a19fccb8c.jpg",
+        "https://telegra.ph/file/8a42fbe9798631aac2718.jpg",
+        "https://telegra.ph/file/759e476d955ed76b0f9cb.jpg",
+        "https://telegra.ph/file/bd1ad2b96c2dd56de9141.jpg",
+        "https://telegra.ph/file/a233d07ee7b7d8471065a.jpg",
+        "https://telegra.ph/file/c236904f0384cb45a3dba.jpg",
+        "https://telegra.ph/file/32dfe3fb8da3c7e29433a.jpg",
+        "https://telegra.ph/file/5d895ed07e5b8982290b8.jpg",
+        "https://telegra.ph/file/5d43971389a2aec117510.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

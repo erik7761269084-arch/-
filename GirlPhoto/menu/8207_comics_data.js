@@ -1,0 +1,38 @@
+const comicData = {
+    "IDcode": 8207,
+    "title": "七月喵子 - NO.08 千刀万剐 [28P1V-238MB]",
+    "sourceUrl": "https://telegra.ph/七月喵子---NO08-千刀万剐-28P1V-238MB-08-26",
+    "images": [
+        "https://telegra.ph/file/5c60fa86a42a74a267e52.jpg",
+        "https://telegra.ph/file/d858e65edd19caa7089ce.jpg",
+        "https://telegra.ph/file/61677faf751b2734b87a5.jpg",
+        "https://telegra.ph/file/086f2112db4fffac9d3c5.jpg",
+        "https://telegra.ph/file/700fdfe73148ddecc596a.jpg",
+        "https://telegra.ph/file/64883329a69cbdf8939f9.jpg",
+        "https://telegra.ph/file/5af06e7313cbc46c3725b.jpg",
+        "https://telegra.ph/file/67322d9a0c3fff49be514.jpg",
+        "https://telegra.ph/file/0b9529b868a3829f897f0.jpg",
+        "https://telegra.ph/file/a7eae8c1896f06621ecf4.jpg",
+        "https://telegra.ph/file/5f6bbc8f5c7ec6199f800.jpg",
+        "https://telegra.ph/file/e4acc2e22e70925655811.jpg",
+        "https://telegra.ph/file/116ca165511fdbc439829.jpg",
+        "https://telegra.ph/file/c813bfe8c8fc89b618c85.jpg",
+        "https://telegra.ph/file/3e9d3921a96c111293f4a.jpg",
+        "https://telegra.ph/file/daab0e4ee6e2208163882.jpg",
+        "https://telegra.ph/file/929824e8c1924acd4eec5.jpg",
+        "https://telegra.ph/file/a50a4a6295efff757b86e.jpg",
+        "https://telegra.ph/file/9fd05a1c124f7e20697e0.jpg",
+        "https://telegra.ph/file/ed255c4ab4eeec8c8d90b.jpg",
+        "https://telegra.ph/file/eae2acb446337fa6dcf52.jpg",
+        "https://telegra.ph/file/24c882b0ffda0cd9a9bd8.jpg",
+        "https://telegra.ph/file/06b157cb939b7bc845862.jpg",
+        "https://telegra.ph/file/4907a9454523faad73f2e.jpg",
+        "https://telegra.ph/file/fa097ad96a900ba9d2102.jpg",
+        "https://telegra.ph/file/4f81bdd6e270c8645787f.jpg",
+        "https://telegra.ph/file/a6d5814e4128ca92e8296.jpg",
+        "https://telegra.ph/file/6203e3add2da916ef907d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

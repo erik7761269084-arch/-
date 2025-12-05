@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11806,
+    "title": "学姐约会日 2",
+    "sourceUrl": "https://telegra.ph/%E5%AD%A6%E5%A7%90%E7%BA%A6%E4%BC%9A%E6%97%A5-2-08-23",
+    "images": [
+        "https://telegra.ph/file/8504941aab478c38fb2c9.jpg",
+        "https://telegra.ph/file/a66b97b02c4673579733a.jpg",
+        "https://telegra.ph/file/622011c1c6e9d776842eb.jpg",
+        "https://telegra.ph/file/1239e77609e4d8abb69ef.jpg",
+        "https://telegra.ph/file/e383ba2026ad8c34b894e.jpg",
+        "https://telegra.ph/file/954cb89fef56a2415f0d1.jpg",
+        "https://telegra.ph/file/6c688089c8a966e7019ea.jpg",
+        "https://telegra.ph/file/50d58a26765a653ec6b34.jpg",
+        "https://telegra.ph/file/63af1b07b4ddf8a8dfa80.jpg",
+        "https://telegra.ph/file/a4c98f81c8c5908e75b8e.jpg",
+        "https://telegra.ph/file/2d5dae5c457d53b248e4c.jpg",
+        "https://telegra.ph/file/46b4a5fb04f14038f6544.jpg",
+        "https://telegra.ph/file/c428cc5b581741e37a9d5.jpg",
+        "https://telegra.ph/file/0a6d5d741644ed2859425.jpg",
+        "https://telegra.ph/file/b6af8615cdd0dc2e5633a.jpg",
+        "https://telegra.ph/file/6ecee4662078a3e1c7309.jpg",
+        "https://telegra.ph/file/ccdc69907e83c3beae1fa.jpg",
+        "https://telegra.ph/file/aa6ba40b8b2c33e1dc980.jpg",
+        "https://telegra.ph/file/6b55af887b1920defea28.jpg",
+        "https://telegra.ph/file/a5ad6636416875986d152.jpg",
+        "https://telegra.ph/file/1912b0cee8e96808b8298.jpg",
+        "https://telegra.ph/file/173044a2950ce9621d6ae.jpg",
+        "https://telegra.ph/file/cab1625a42403a6fefb2d.jpg",
+        "https://telegra.ph/file/079b5ba63ac3e19b1030d.jpg",
+        "https://telegra.ph/file/ba1e3a1d06b70144bba22.jpg",
+        "https://telegra.ph/file/95d7f4c620a62c92c8a9c.jpg",
+        "https://telegra.ph/file/3a87f8d73d105e4e92243.jpg",
+        "https://telegra.ph/file/9153bc24f00ebc0f36a9f.jpg",
+        "https://telegra.ph/file/8666beef093b631e42fa7.jpg",
+        "https://telegra.ph/file/d6377be385a642e82e09f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

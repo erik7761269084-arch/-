@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7497,
+    "title": "爆机少女喵小吉：从零开始的圣诞节",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉从零开始的圣诞节-08-29",
+    "images": [
+        "https://telegra.ph/file/09486adaca0e6a6158f90.jpg",
+        "https://telegra.ph/file/9d06bb112209b3ba4cdda.jpg",
+        "https://telegra.ph/file/1cae45ceb4efb97d71be2.jpg",
+        "https://telegra.ph/file/b3e008b75ab7493471f33.jpg",
+        "https://telegra.ph/file/47732de1d85dc500bf21d.jpg",
+        "https://telegra.ph/file/780272bc55c02a1cf1c41.jpg",
+        "https://telegra.ph/file/3f530344a16f62ac5fd3b.jpg",
+        "https://telegra.ph/file/59553f0db945d3f843eb7.jpg",
+        "https://telegra.ph/file/7a2e8342df23d371901e8.jpg",
+        "https://telegra.ph/file/639ee7a3dec68c5abe1f9.jpg",
+        "https://telegra.ph/file/37c5d491ddece75af5ae2.jpg",
+        "https://telegra.ph/file/ad2b4e7a76edf73b42fdd.jpg",
+        "https://telegra.ph/file/370a7fd4192a22d2f6d15.jpg",
+        "https://telegra.ph/file/2bc30ed6e8e8db79c83e7.jpg",
+        "https://telegra.ph/file/6e5d9b5949ea9a39f5d46.jpg",
+        "https://telegra.ph/file/7c31f4c21e00b53fbf860.jpg",
+        "https://telegra.ph/file/9f929e1f6776c89b2239e.jpg",
+        "https://telegra.ph/file/249219468d5d1c4bb7c20.jpg",
+        "https://telegra.ph/file/520ac4bcc00ce85a402e0.jpg",
+        "https://telegra.ph/file/0c0284a84d3e830570529.jpg",
+        "https://telegra.ph/file/a1e2ea1e4c587d977afab.jpg",
+        "https://telegra.ph/file/d68477cedce850c5b6bc0.jpg",
+        "https://telegra.ph/file/aa05de9e9ebbfb18f39af.jpg",
+        "https://telegra.ph/file/0ff17d2d595a397a3be06.jpg",
+        "https://telegra.ph/file/5b50eb5881be8937f2c8c.jpg",
+        "https://telegra.ph/file/416947203a70ba083ecae.jpg",
+        "https://telegra.ph/file/b7b8fa30f32082e17f891.jpg",
+        "https://telegra.ph/file/1121aa958319f1dbfa864.jpg",
+        "https://telegra.ph/file/244a393d46db8679be321.jpg",
+        "https://telegra.ph/file/27a50920e78564d642623.jpg",
+        "https://telegra.ph/file/a11707dab150254d99877.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

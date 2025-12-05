@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5855,
+    "title": "金鱼kinngyo - 和服X緊縛",
+    "sourceUrl": "https://telegra.ph/金鱼kinngyo---和服X緊縛-08-29",
+    "images": [
+        "https://telegra.ph/file/1ac783cc13ff450d26db2.jpg",
+        "https://telegra.ph/file/a29c30e0eb92b9e64cd27.jpg",
+        "https://telegra.ph/file/11a133d96e8aa11c5ff60.jpg",
+        "https://telegra.ph/file/7865509b5b25d759c72ab.jpg",
+        "https://telegra.ph/file/561682ecc387b2f70d623.jpg",
+        "https://telegra.ph/file/c64acd75ebe19c97cd70c.jpg",
+        "https://telegra.ph/file/8ed8e9091d587c31c9ab3.jpg",
+        "https://telegra.ph/file/b61fa4adcd74329279c49.jpg",
+        "https://telegra.ph/file/9c7741728c963de673140.jpg",
+        "https://telegra.ph/file/81ef30065dfaf09ac53a1.jpg",
+        "https://telegra.ph/file/d000ff63397ac12b5a5ed.jpg",
+        "https://telegra.ph/file/d42b564fe1bfdd4ada125.jpg",
+        "https://telegra.ph/file/87d5b47a51f917ad50186.jpg",
+        "https://telegra.ph/file/ebdee4f1ce18f5f3d80d3.jpg",
+        "https://telegra.ph/file/0cd1d17d124810e77ebd7.jpg",
+        "https://telegra.ph/file/c4dac9fc2fe63e8b9e02e.jpg",
+        "https://telegra.ph/file/6480e91f8c83939efdf06.jpg",
+        "https://telegra.ph/file/1f249c6834fde82562eb0.jpg",
+        "https://telegra.ph/file/e39a64b4a8e88581d1f7f.jpg",
+        "https://telegra.ph/file/74c745b4ebb01804d6fd9.jpg",
+        "https://telegra.ph/file/8740e5eeb9261511cf7cb.jpg",
+        "https://telegra.ph/file/70424daf4e36da452e64a.jpg",
+        "https://telegra.ph/file/2a3bbcfb22f4432e2a859.jpg",
+        "https://telegra.ph/file/90623e832549433cfc99e.jpg",
+        "https://telegra.ph/file/c8ce766743b961fdf160d.jpg",
+        "https://telegra.ph/file/b1418f64a069290454786.jpg",
+        "https://telegra.ph/file/b3ab7eae8861dfa899e90.jpg",
+        "https://telegra.ph/file/982cebd20876e2d0695b5.jpg",
+        "https://telegra.ph/file/10e3010f41f6e42673792.jpg",
+        "https://telegra.ph/file/22299e710a95f1453e224.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

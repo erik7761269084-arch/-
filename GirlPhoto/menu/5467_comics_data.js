@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5467,
+    "title": "海克斯科技 姐姐的裸足",
+    "sourceUrl": "https://telegra.ph/%E6%B5%B7%E5%85%8B%E6%96%AF%E7%A7%91%E6%8A%80-%E5%A7%90%E5%A7%90%E7%9A%84%E8%A3%B8%E8%B6%B3-08-22",
+    "images": [
+        "https://telegra.ph/file/8d8b8fe8dc002099b5eaf.jpg",
+        "https://telegra.ph/file/231a8c5adb85348508947.jpg",
+        "https://telegra.ph/file/260b0c045ac07601e78dd.jpg",
+        "https://telegra.ph/file/113182bdc9e235900b9d0.jpg",
+        "https://telegra.ph/file/3318b12c349f8a5f0b649.jpg",
+        "https://telegra.ph/file/bc4f0d8391644f8bd8c1c.jpg",
+        "https://telegra.ph/file/6e17d642ac5d2f98815fd.jpg",
+        "https://telegra.ph/file/65867c19d63b3679b3d11.jpg",
+        "https://telegra.ph/file/a1d1e4df169609f63da67.jpg",
+        "https://telegra.ph/file/b51f9760c33118d0ac33c.jpg",
+        "https://telegra.ph/file/2ff5005f418e8ba1edc64.jpg",
+        "https://telegra.ph/file/5e19910e2189486b32a75.jpg",
+        "https://telegra.ph/file/74117c06fb6d6aabc1c88.jpg",
+        "https://telegra.ph/file/03427ce19602e88349961.jpg",
+        "https://telegra.ph/file/dc54c063c0a160e464e00.jpg",
+        "https://telegra.ph/file/c5f2fa20225afe1b8f330.jpg",
+        "https://telegra.ph/file/f76dfb5a26b00a0c1806f.jpg",
+        "https://telegra.ph/file/5e6f0472827c2fd7eeabb.jpg",
+        "https://telegra.ph/file/81b8dd72caf1037543721.jpg",
+        "https://telegra.ph/file/4573a58a39c28c34568d9.jpg",
+        "https://telegra.ph/file/89543aeee63036325f3f1.jpg",
+        "https://telegra.ph/file/a85d28fcdf8f6a369f3c4.jpg",
+        "https://telegra.ph/file/051fb9f0f4762c3b22833.jpg",
+        "https://telegra.ph/file/21d538c86633f0bd93a0e.jpg",
+        "https://telegra.ph/file/eecfb4249dbacad1d134b.jpg",
+        "https://telegra.ph/file/a1c4a92a5b142f453825a.jpg",
+        "https://telegra.ph/file/3235e0f7a7352f91c995f.jpg",
+        "https://telegra.ph/file/e966567a731430e1693ac.jpg",
+        "https://telegra.ph/file/3668bfa9f35fb5cbf3d3f.jpg",
+        "https://telegra.ph/file/a6a2fb7759b492b93bbb8.jpg",
+        "https://telegra.ph/file/2fe862912148e9c905b41.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

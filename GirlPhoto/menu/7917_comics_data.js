@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7917,
+    "title": "年年 春日",
+    "sourceUrl": "https://telegra.ph/年年-春日-08-24-2",
+    "images": [
+        "https://telegra.ph/file/e5d25591eb098f060ee49.jpg",
+        "https://telegra.ph/file/1a2ceaa4bcdc5030dbc6d.jpg",
+        "https://telegra.ph/file/977834e777ededaec4b59.jpg",
+        "https://telegra.ph/file/969f8ae78a8a9053196a4.jpg",
+        "https://telegra.ph/file/90d4288782d5f216568c7.jpg",
+        "https://telegra.ph/file/399812f628096057c3762.jpg",
+        "https://telegra.ph/file/dbcc75fbf6f8a11dccbad.jpg",
+        "https://telegra.ph/file/146eb6bb282585f2c8959.jpg",
+        "https://telegra.ph/file/10e382d929f1d898c3c11.jpg",
+        "https://telegra.ph/file/c11391d53ea4f634722ba.jpg",
+        "https://telegra.ph/file/b0246c76811ec994d5a93.jpg",
+        "https://telegra.ph/file/69bdc21ec48c5145d042d.jpg",
+        "https://telegra.ph/file/88eaf14b23e7196fd9384.jpg",
+        "https://telegra.ph/file/b4d90b103a6d409173d09.jpg",
+        "https://telegra.ph/file/4b8f97645ee06a612d8b7.jpg",
+        "https://telegra.ph/file/04630cb67c3ebfea40230.jpg",
+        "https://telegra.ph/file/279c52dab24893e1a4d03.jpg",
+        "https://telegra.ph/file/92d317ec9a77446c9192a.jpg",
+        "https://telegra.ph/file/2904e9af6bba0bc1a95b3.jpg",
+        "https://telegra.ph/file/2875db3259e3b8d761edb.jpg",
+        "https://telegra.ph/file/12c9cf10ce945a145efe0.jpg",
+        "https://telegra.ph/file/cf7531910a05ff899474f.jpg",
+        "https://telegra.ph/file/15ac5b87327bcf330b49d.jpg",
+        "https://telegra.ph/file/82fcbdfa84753bb8d2ea2.jpg",
+        "https://telegra.ph/file/6cbca7c14521088684dfa.jpg",
+        "https://telegra.ph/file/c7b9a2b99d8402d05d2bb.jpg",
+        "https://telegra.ph/file/5bc1cc5dc643703340f35.jpg",
+        "https://telegra.ph/file/d7a5e8ab62d269536e9c5.jpg",
+        "https://telegra.ph/file/2873f0ff897a3d719b2ed.jpg",
+        "https://telegra.ph/file/7d74ce01fbeb01d701e62.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

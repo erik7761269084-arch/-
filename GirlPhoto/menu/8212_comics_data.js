@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8212,
+    "title": "七月喵子 - NO.03 教官 [31P5V-220MB]",
+    "sourceUrl": "https://telegra.ph/七月喵子---NO03-教官-31P5V-220MB-08-26",
+    "images": [
+        "https://telegra.ph/file/e9428e7c2269f2bf6176e.jpg",
+        "https://telegra.ph/file/daef1ed94a2ecfabd2570.jpg",
+        "https://telegra.ph/file/8a1b74febd939e7d5ffda.jpg",
+        "https://telegra.ph/file/b644df1401f0d91146183.jpg",
+        "https://telegra.ph/file/580394aaf2846668e64f0.jpg",
+        "https://telegra.ph/file/4720d22608ed4b95c430e.jpg",
+        "https://telegra.ph/file/f2ba8d859baae737fda55.jpg",
+        "https://telegra.ph/file/003e98dc3d11dc571e14b.jpg",
+        "https://telegra.ph/file/8a771326be0b61b574464.jpg",
+        "https://telegra.ph/file/f1955653f94e01a8394c8.jpg",
+        "https://telegra.ph/file/a64ae21f8c923439ea03b.jpg",
+        "https://telegra.ph/file/408cc1deb291dc58ce2fc.jpg",
+        "https://telegra.ph/file/ad73d7077c14e1cbb0554.jpg",
+        "https://telegra.ph/file/8b0ff0de9d27ebc5b483a.jpg",
+        "https://telegra.ph/file/b7a99ffbfebf89d9cd374.jpg",
+        "https://telegra.ph/file/eaf33a961c38414b643ec.jpg",
+        "https://telegra.ph/file/7d63db685e68973b050c0.jpg",
+        "https://telegra.ph/file/2f9194617bfdd948dd69e.jpg",
+        "https://telegra.ph/file/973d57afe58a22f1d8617.jpg",
+        "https://telegra.ph/file/ca2cad3ec61df258a09f2.jpg",
+        "https://telegra.ph/file/7d9410431f48fb835b89e.jpg",
+        "https://telegra.ph/file/fba73b8f8e39958059de1.jpg",
+        "https://telegra.ph/file/3780c0633c510e08581f0.jpg",
+        "https://telegra.ph/file/acf632d96d1ec865164eb.jpg",
+        "https://telegra.ph/file/93aefd27839c9ad355a01.jpg",
+        "https://telegra.ph/file/66fba30e4165da0693e5e.jpg",
+        "https://telegra.ph/file/1286565ba9e3bdd7e64b5.jpg",
+        "https://telegra.ph/file/2e6c0b36ee5ac7d383e6a.jpg",
+        "https://telegra.ph/file/b2c77d5950ffdf87dba08.jpg",
+        "https://telegra.ph/file/e30dda9d456dcdfd5f763.jpg",
+        "https://telegra.ph/file/cee5255349ca2fcabdeb5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

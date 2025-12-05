@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11170,
+    "title": "星澜是澜澜叫澜妹呀 - 陨落",
+    "sourceUrl": "https://telegra.ph/星澜是澜澜叫澜妹呀---陨落-08-27",
+    "images": [
+        "https://telegra.ph/file/2c2e385a31a0d7691a599.jpg",
+        "https://telegra.ph/file/6965c6df4ee73399f28e3.jpg",
+        "https://telegra.ph/file/61ef5ba31ec0a0e9e399d.jpg",
+        "https://telegra.ph/file/d2c27acb147f85fa34c3e.jpg",
+        "https://telegra.ph/file/a665e115069234c1c7f5f.jpg",
+        "https://telegra.ph/file/1e7e2f6d95b817bb893d4.jpg",
+        "https://telegra.ph/file/fde2ab8d9f6f687a88a89.jpg",
+        "https://telegra.ph/file/7d34d9cf40584a743bae1.jpg",
+        "https://telegra.ph/file/552b69cba1a82a1c3d0e9.jpg",
+        "https://telegra.ph/file/7613ccefc32b4e6585cce.jpg",
+        "https://telegra.ph/file/37b8f05df6c3da4252eba.jpg",
+        "https://telegra.ph/file/a2f3806b6c7a3ab064542.jpg",
+        "https://telegra.ph/file/eee8508f012864939e840.jpg",
+        "https://telegra.ph/file/2efdf9ea0bc742483e4d7.jpg",
+        "https://telegra.ph/file/09e5b7cc68b411fadf5c9.jpg",
+        "https://telegra.ph/file/7085e0060c1acfa0bd65c.jpg",
+        "https://telegra.ph/file/90eb71eab1610278d2522.jpg",
+        "https://telegra.ph/file/f0f95c538e3739207d0c2.jpg",
+        "https://telegra.ph/file/1c62aac380dd15801f54b.jpg",
+        "https://telegra.ph/file/4d5fc54fc92cd8e40f645.jpg",
+        "https://telegra.ph/file/032a593d9458556188c96.jpg",
+        "https://telegra.ph/file/71ad347d26d2d58ed9052.jpg",
+        "https://telegra.ph/file/0456f5601796bda24649e.jpg",
+        "https://telegra.ph/file/e7d6eb4de1680a9dc92ec.jpg",
+        "https://telegra.ph/file/61a1dd8e4e7f4df8711b3.jpg",
+        "https://telegra.ph/file/2b401068cb845f4d97ceb.jpg",
+        "https://telegra.ph/file/3e30c1009ba81c5785bc4.jpg",
+        "https://telegra.ph/file/b25879fb4c7cde35b3b84.jpg",
+        "https://telegra.ph/file/2568dccc6331c5176bf78.jpg",
+        "https://telegra.ph/file/f9a7d6323a8d454d85f46.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

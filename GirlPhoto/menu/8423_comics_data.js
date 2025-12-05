@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8423,
+    "title": "浅安安 - 自拍 7.0 30P+1V",
+    "sourceUrl": "https://telegra.ph/%E6%B5%85%E5%AE%89%E5%AE%89---%E8%87%AA%E6%8B%8D-70-30P1V-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/07/01/IMG_0121.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0187.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0211.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0255.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0256.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0257.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0258.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0259.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0260.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0261.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0262.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0263.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0264.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0265.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0266.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0273.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0276.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0277.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0278.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0279.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0280.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0281.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0282.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0284.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0286.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0292.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0293.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0294.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0295.png",
+        "https://image.acg.lol/file/2025/07/01/IMG_0297.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

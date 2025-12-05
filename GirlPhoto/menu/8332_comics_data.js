@@ -1,0 +1,37 @@
+const comicData = {
+    "IDcode": 8332,
+    "title": "起司块wii 起起子 NO.005 仆系欲正装 [38P-319MB]",
+    "sourceUrl": "https://telegra.ph/NO005-仆系欲正装-38P-319MB-08-25",
+    "images": [
+        "https://telegra.ph/file/096703f9c6c42693f01e4.jpg",
+        "https://telegra.ph/file/ea54a0bd38da7d9c23636.jpg",
+        "https://telegra.ph/file/2f943504301648d474298.jpg",
+        "https://telegra.ph/file/faa337c9149b36461842a.jpg",
+        "https://telegra.ph/file/2e306db8cc689b2da8ea4.jpg",
+        "https://telegra.ph/file/f3527c4ac59d65c46b94e.jpg",
+        "https://telegra.ph/file/5c297188dc5400dddf2eb.jpg",
+        "https://telegra.ph/file/d366bf3cb45af60ef5cb0.jpg",
+        "https://telegra.ph/file/80609d5829cc629132a24.jpg",
+        "https://telegra.ph/file/da5ef1251b92317f088ed.jpg",
+        "https://telegra.ph/file/597750fc8f68c3ea450ae.jpg",
+        "https://telegra.ph/file/9a993980110fcb628ebc4.jpg",
+        "https://telegra.ph/file/85d87817729b55ffd6c99.jpg",
+        "https://telegra.ph/file/549edaf51253036284a13.jpg",
+        "https://telegra.ph/file/5fd165ce226b669b1b21c.jpg",
+        "https://telegra.ph/file/31aa2186d7a3f3c331464.jpg",
+        "https://telegra.ph/file/a34d760c5c0de14af02c9.jpg",
+        "https://telegra.ph/file/2074a26e9cb1f6a1a38c6.jpg",
+        "https://telegra.ph/file/ed16d0909467f77c1db9e.jpg",
+        "https://telegra.ph/file/f66e06cfa22103fbf8469.jpg",
+        "https://telegra.ph/file/31abb29e3c3dd5da8049f.jpg",
+        "https://telegra.ph/file/dade4ff2d1563b0e23dc2.jpg",
+        "https://telegra.ph/file/cb8728bddd1478fbc5e25.jpg",
+        "https://telegra.ph/file/62f9830c2d6ce2580c419.jpg",
+        "https://telegra.ph/file/2db494d49593c0ce15aa6.jpg",
+        "https://telegra.ph/file/bc2c5f8bc47bf55c781e7.jpg",
+        "https://telegra.ph/file/efabe43bf38661edfc689.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

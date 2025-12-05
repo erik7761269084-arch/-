@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11323,
+    "title": "星之迟迟 - NO.96",
+    "sourceUrl": "https://telegra.ph/星之迟迟---NO96-08-26",
+    "images": [
+        "https://telegra.ph/file/ebcc64981a980a1ac24d8.jpg",
+        "https://telegra.ph/file/0c82f1c613b9e8bf01cfd.jpg",
+        "https://telegra.ph/file/263963089a1d9f327bca1.jpg",
+        "https://telegra.ph/file/c230e70ce770508dffd4e.jpg",
+        "https://telegra.ph/file/591dff7b895e7e569e3f5.jpg",
+        "https://telegra.ph/file/c5e0679866cda625e3628.jpg",
+        "https://telegra.ph/file/8c88912e87dd6df56e7f4.jpg",
+        "https://telegra.ph/file/3bb2c421b0b19ae892550.jpg",
+        "https://telegra.ph/file/950f21ab333289d65d733.jpg",
+        "https://telegra.ph/file/fa0f59fbfe554ec11fc3d.jpg",
+        "https://telegra.ph/file/b7cb2a3b95272f9a789f9.jpg",
+        "https://telegra.ph/file/997e7fde9fbf1eac7f055.jpg",
+        "https://telegra.ph/file/ad0edf48a2e706351ec27.jpg",
+        "https://telegra.ph/file/18bd219f72b5521872806.jpg",
+        "https://telegra.ph/file/72de8dbec9e7b347c8bd7.jpg",
+        "https://telegra.ph/file/9a8face54303de290c7f3.jpg",
+        "https://telegra.ph/file/58ee09cad4bc1d16be5a8.jpg",
+        "https://telegra.ph/file/970e75ca095d8aa0ffe7d.jpg",
+        "https://telegra.ph/file/204037613498b9c51068e.jpg",
+        "https://telegra.ph/file/78c9ce15bfe40eb151407.jpg",
+        "https://telegra.ph/file/624b3cbb4c6b849d162a2.jpg",
+        "https://telegra.ph/file/883c9118693663bedcad4.jpg",
+        "https://telegra.ph/file/9777176a33e36c4148e63.jpg",
+        "https://telegra.ph/file/f9fe2d2588f6e263f7c0a.jpg",
+        "https://telegra.ph/file/e07369f116078bd059aae.jpg",
+        "https://telegra.ph/file/1b664741b90775dd959d1.jpg",
+        "https://telegra.ph/file/ad0e33c0895b75c43e950.jpg",
+        "https://telegra.ph/file/9d1c8dd19502b395f2f8e.jpg",
+        "https://telegra.ph/file/b1296985c7026075956f6.jpg",
+        "https://telegra.ph/file/da3c928312a34bba2d073.jpg",
+        "https://telegra.ph/file/f3017ee44c814b28cdd4b.jpg",
+        "https://telegra.ph/file/2e37e38606c57d6520994.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

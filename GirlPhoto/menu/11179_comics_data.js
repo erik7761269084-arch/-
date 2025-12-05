@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11179,
+    "title": "星野咪兔 - 红色",
+    "sourceUrl": "https://telegra.ph/星野咪兔---红色-08-27",
+    "images": [
+        "https://telegra.ph/file/43989c20f806de6aa9b4a.jpg",
+        "https://telegra.ph/file/91469045bc6802bee5907.jpg",
+        "https://telegra.ph/file/6bfc2a6f692ca4cb7401d.jpg",
+        "https://telegra.ph/file/1f1b1af6c93b1f216ee78.jpg",
+        "https://telegra.ph/file/53fd51fdf9757f6343558.jpg",
+        "https://telegra.ph/file/28935cfae21774c7177a3.jpg",
+        "https://telegra.ph/file/cefa5ff859a37facbab89.jpg",
+        "https://telegra.ph/file/30d4328e638f2e09e1231.jpg",
+        "https://telegra.ph/file/096f2886c85ab9575b0bc.jpg",
+        "https://telegra.ph/file/89ea16f019e82bd8b1040.jpg",
+        "https://telegra.ph/file/0b680de6986cdb10aaa82.jpg",
+        "https://telegra.ph/file/2da490f655f450dc4e3de.jpg",
+        "https://telegra.ph/file/2e4d1d8ceb3f1dc700acb.jpg",
+        "https://telegra.ph/file/abdd1197d4f93c8069649.jpg",
+        "https://telegra.ph/file/623f5734ddb24207e040b.jpg",
+        "https://telegra.ph/file/0f0a9898104b82ebad8fb.jpg",
+        "https://telegra.ph/file/dc32256ed1206e14b883a.jpg",
+        "https://telegra.ph/file/05ea5613ab62611b88bd9.jpg",
+        "https://telegra.ph/file/1f4de028c60389d4be7df.jpg",
+        "https://telegra.ph/file/f65d8e900b308b7b498ed.jpg",
+        "https://telegra.ph/file/44b2a3ad01b4554840240.jpg",
+        "https://telegra.ph/file/9c17015c97a6a62fa10b4.jpg",
+        "https://telegra.ph/file/5ac4d19b0ea62987c1411.jpg",
+        "https://telegra.ph/file/30cdc3eb40dee88a03f96.jpg",
+        "https://telegra.ph/file/4b2891a0f95b2fa745d1b.jpg",
+        "https://telegra.ph/file/60cfc30561938a39441de.jpg",
+        "https://telegra.ph/file/606e4dfcbebb7aca5d281.jpg",
+        "https://telegra.ph/file/c1155b5b4c19fb3a9a7e4.jpg",
+        "https://telegra.ph/file/be17255c9459e9e759f80.jpg",
+        "https://telegra.ph/file/0459c994e7cd6e89db1b1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11407,
+    "title": "星之迟迟 - W-同人旗袍",
+    "sourceUrl": "https://telegra.ph/星之迟迟---W-同人旗袍-08-27",
+    "images": [
+        "https://telegra.ph/file/1aac11af10756ec33c27a.jpg",
+        "https://telegra.ph/file/18524ed3300ef94540441.jpg",
+        "https://telegra.ph/file/8236df6decf9a6c502e47.jpg",
+        "https://telegra.ph/file/ad843d0afd8c4c722faa4.jpg",
+        "https://telegra.ph/file/2da99f5ba148b0dfccc24.jpg",
+        "https://telegra.ph/file/351758e64b4e6afbdecaf.jpg",
+        "https://telegra.ph/file/6213016f8ab74e8d9877c.jpg",
+        "https://telegra.ph/file/6db9590bde560fd2d6b21.jpg",
+        "https://telegra.ph/file/a90009b5d3135404a55ea.jpg",
+        "https://telegra.ph/file/bbf79bc9644b904e14667.jpg",
+        "https://telegra.ph/file/eafc8499800047557a2a1.jpg",
+        "https://telegra.ph/file/61c1c483d608b0f1e1772.jpg",
+        "https://telegra.ph/file/a6bf36f6aeedabc625b25.jpg",
+        "https://telegra.ph/file/81f5f9709c4333f54bdf6.jpg",
+        "https://telegra.ph/file/cde0cf209a2f71915b172.jpg",
+        "https://telegra.ph/file/db5b8a53702ca139a9209.jpg",
+        "https://telegra.ph/file/8fe2fc26628cc360524a9.jpg",
+        "https://telegra.ph/file/1949ba359ff5e5c29c549.jpg",
+        "https://telegra.ph/file/d9e668607be4e4d99f70a.jpg",
+        "https://telegra.ph/file/15c6f1d7e43562dbd3ddc.jpg",
+        "https://telegra.ph/file/7cc1c7ca41c9320cf5925.jpg",
+        "https://telegra.ph/file/004a65fd07e09e971fba2.jpg",
+        "https://telegra.ph/file/692325d224b25c42e7e15.jpg",
+        "https://telegra.ph/file/f28fbe2ea2b904ce5372e.jpg",
+        "https://telegra.ph/file/af8ec5658abfadfcb7a6f.jpg",
+        "https://telegra.ph/file/6145f39a0ce02bf3d908c.jpg",
+        "https://telegra.ph/file/4c09032e286a03d8a6291.jpg",
+        "https://telegra.ph/file/6124d9a00921617ae9359.jpg",
+        "https://telegra.ph/file/028bd53a3932926460fe2.jpg",
+        "https://telegra.ph/file/04cadce4c033608534eb6.jpg",
+        "https://telegra.ph/file/ebf2d2ef705b24cea9e64.jpg",
+        "https://telegra.ph/file/2346a00e3b56139a303b7.jpg",
+        "https://telegra.ph/file/8bb62d21b09d88b883ceb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

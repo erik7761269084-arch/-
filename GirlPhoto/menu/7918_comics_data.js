@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7918,
+    "title": "年年 宁红叶",
+    "sourceUrl": "https://telegra.ph/年年-宁红叶-08-25",
+    "images": [
+        "https://telegra.ph/file/421eee5fa731f3840481a.jpg",
+        "https://telegra.ph/file/3cf639260c7422fc6c1f8.jpg",
+        "https://telegra.ph/file/293f64fa2751355d495b1.jpg",
+        "https://telegra.ph/file/a33217e1fa4d6ef769b16.jpg",
+        "https://telegra.ph/file/d8c5326ca07c7d8c34e99.jpg",
+        "https://telegra.ph/file/9200a34bc5b54eba6ffb7.jpg",
+        "https://telegra.ph/file/efd51c7603c699472ba3c.jpg",
+        "https://telegra.ph/file/1e8a2b6651c08e70ea0f9.jpg",
+        "https://telegra.ph/file/f881090e42e6e3a505e88.jpg",
+        "https://telegra.ph/file/6652e9f8cf03bc34b7747.jpg",
+        "https://telegra.ph/file/1fae0621f3386046e74a6.jpg",
+        "https://telegra.ph/file/cb27ea20bd2c2757c3f8e.jpg",
+        "https://telegra.ph/file/86b8c96f5123bb2e87b83.jpg",
+        "https://telegra.ph/file/5de5b1925f60bf6b4f10b.jpg",
+        "https://telegra.ph/file/a205a40f1b405d487dc72.jpg",
+        "https://telegra.ph/file/3c5bfb48dd69f89b3954b.jpg",
+        "https://telegra.ph/file/cdc4b8ecb0bcb590fec56.jpg",
+        "https://telegra.ph/file/e2f5c369ff250c9194499.jpg",
+        "https://telegra.ph/file/ced14d2c98b161bfcd466.jpg",
+        "https://telegra.ph/file/ce6e88acb7a86cfc55675.jpg",
+        "https://telegra.ph/file/f3080a3c546dc3ecc3eda.jpg",
+        "https://telegra.ph/file/4cd72c4a486b85d3a081f.jpg",
+        "https://telegra.ph/file/b63e5fb2d8c25a2ede6ec.jpg",
+        "https://telegra.ph/file/65fa301c5804b0f8bad2c.jpg",
+        "https://telegra.ph/file/9041477065b0b34c56a25.jpg",
+        "https://telegra.ph/file/ebdc619742aa6d9a219d2.jpg",
+        "https://telegra.ph/file/e1d008149eb85cd5af710.jpg",
+        "https://telegra.ph/file/f48b064035240be6b73c5.jpg",
+        "https://telegra.ph/file/e9dbdaceb4011e537814f.jpg",
+        "https://telegra.ph/file/b951ad865fa69e93a8691.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

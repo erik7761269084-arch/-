@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 21474,
+    "title": "无颜小天使 - 昭和太太",
+    "sourceUrl": "https://telegra.ph/无颜小天使---昭和太太-08-29",
+    "images": [
+        "https://telegra.ph/file/32632386109e91b946542.jpg",
+        "https://telegra.ph/file/8bcecb1250f5c47623b5f.jpg",
+        "https://telegra.ph/file/a52ddaab7072fa36adc3c.jpg",
+        "https://telegra.ph/file/d501a3bb6cb651bb8a0bd.jpg",
+        "https://telegra.ph/file/9d2c6cbf253719e77ae7a.jpg",
+        "https://telegra.ph/file/a1d3038753987e83fffce.jpg",
+        "https://telegra.ph/file/562752a8366721b34ba7b.jpg",
+        "https://telegra.ph/file/98e330558b63d194007f0.jpg",
+        "https://telegra.ph/file/31ff8f8593ea83fcc24f1.jpg",
+        "https://telegra.ph/file/9eed7ffe414ac5252ef3b.jpg",
+        "https://telegra.ph/file/a0c01f5b745b68e3fbb03.jpg",
+        "https://telegra.ph/file/a20de257588c89e4a3e6a.jpg",
+        "https://telegra.ph/file/24e8d95520a4a042b15d1.jpg",
+        "https://telegra.ph/file/4719b4ab408659e8c1f6b.jpg",
+        "https://telegra.ph/file/7c8623181257a9b8999c6.jpg",
+        "https://telegra.ph/file/fd82771cf5725f7bd7a28.jpg",
+        "https://telegra.ph/file/242df0ac5a51a12e2d6dc.jpg",
+        "https://telegra.ph/file/0e5cf8988befa158dbadf.jpg",
+        "https://telegra.ph/file/fbe47237f62b66c5165ec.jpg",
+        "https://telegra.ph/file/a64a3b972c459bb6c6d7d.jpg",
+        "https://telegra.ph/file/53cb1861aeb41c7998803.jpg",
+        "https://telegra.ph/file/34da9594090782eb3026b.jpg",
+        "https://telegra.ph/file/349a8d472a50be790f975.jpg",
+        "https://telegra.ph/file/c392cbace5ee5b742a5ad.jpg",
+        "https://telegra.ph/file/f4a903864efec65d735ac.jpg",
+        "https://telegra.ph/file/ff2a79f09581cc8a0e636.jpg",
+        "https://telegra.ph/file/868b0dc8c3ac0c79f8909.jpg",
+        "https://telegra.ph/file/67cb61cafe225820606da.jpg",
+        "https://telegra.ph/file/d83a5fc5d160178b13df3.jpg",
+        "https://telegra.ph/file/a5a3a2292bd7d13ecf39e.jpg",
+        "https://telegra.ph/file/3f545e636f5533af90ed8.jpg",
+        "https://telegra.ph/file/c1e868524f459d7031bc8.jpg",
+        "https://telegra.ph/file/d59cc99309d063dce218e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

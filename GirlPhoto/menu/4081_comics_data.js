@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4081,
+    "title": "一笑芳香沁x蠢沫沫 – 吸血鬼",
+    "sourceUrl": "https://telegra.ph/一笑芳香沁x蠢沫沫--吸血鬼-08-29",
+    "images": [
+        "https://telegra.ph/file/dfbdce29a617fda38ba15.jpg",
+        "https://telegra.ph/file/02469e4b183f268848b1b.jpg",
+        "https://telegra.ph/file/43da139dcbb9351dbf547.jpg",
+        "https://telegra.ph/file/8a272db6dff87e4bb4fbf.jpg",
+        "https://telegra.ph/file/7dea54034c61c39f5fffc.jpg",
+        "https://telegra.ph/file/57ccf95805f5bb197c756.jpg",
+        "https://telegra.ph/file/332e97816c409051e3c0f.jpg",
+        "https://telegra.ph/file/ffb8aa56206c4ba850707.jpg",
+        "https://telegra.ph/file/fe152aae9338841042d48.jpg",
+        "https://telegra.ph/file/beff8202b81ffdea14f8a.jpg",
+        "https://telegra.ph/file/0f4b9dd4469f603ccf221.jpg",
+        "https://telegra.ph/file/8c8e69eef2ef2d8ad51b4.jpg",
+        "https://telegra.ph/file/3c78b36b900d5f33b3781.jpg",
+        "https://telegra.ph/file/f00d0213031b7215431c1.jpg",
+        "https://telegra.ph/file/2d5e51e96cc2f0b779b13.jpg",
+        "https://telegra.ph/file/e5d56aba9e004168cb4e1.jpg",
+        "https://telegra.ph/file/ef2d43508391a92a64b42.jpg",
+        "https://telegra.ph/file/508081574e69923390be3.jpg",
+        "https://telegra.ph/file/1447161d9a046872cdad4.jpg",
+        "https://telegra.ph/file/ea0347cce055064449d29.jpg",
+        "https://telegra.ph/file/3e64410f5ca5f2a1d3836.jpg",
+        "https://telegra.ph/file/fd62608da85cd3296eef5.jpg",
+        "https://telegra.ph/file/60f43784caadb19465423.jpg",
+        "https://telegra.ph/file/62f71d7239f727fbfa8b9.jpg",
+        "https://telegra.ph/file/b26772bb7b4c701cb9e7a.jpg",
+        "https://telegra.ph/file/35ed3a27fe08a2790429c.jpg",
+        "https://telegra.ph/file/af37aa81646b6b65c8145.jpg",
+        "https://telegra.ph/file/080218a93742578cf539c.jpg",
+        "https://telegra.ph/file/78736c63b9b9c1a45624c.jpg",
+        "https://telegra.ph/file/de9c9dcaed68f6bf2cb30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

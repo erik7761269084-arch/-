@@ -1,0 +1,37 @@
+const comicData = {
+    "IDcode": 6905,
+    "title": "焖焖碳 碧蓝航线 長門睡衣 [27P-88MB]",
+    "sourceUrl": "https://telegra.ph/焖焖碳-碧蓝航线-長門睡衣-27P-88MB-08-25",
+    "images": [
+        "https://telegra.ph/file/64788cd2d4ee05856aa4c.jpg",
+        "https://telegra.ph/file/41b6edf7e1bf3c21db88f.jpg",
+        "https://telegra.ph/file/b70d8b58a6901457b93a5.jpg",
+        "https://telegra.ph/file/7b764733dc25d88bbae8e.jpg",
+        "https://telegra.ph/file/067535defa9c3a86e16ba.jpg",
+        "https://telegra.ph/file/d55e0841c8d372a9006a9.jpg",
+        "https://telegra.ph/file/e971dd713c26ded8f3700.jpg",
+        "https://telegra.ph/file/65d030f76de63d8a05a97.jpg",
+        "https://telegra.ph/file/67607e71cdbe9579939dc.jpg",
+        "https://telegra.ph/file/109656a1e4fbb26144fd8.jpg",
+        "https://telegra.ph/file/5f53fcd0b87afb47831c3.jpg",
+        "https://telegra.ph/file/c6886060bf0132dffeebf.jpg",
+        "https://telegra.ph/file/e794542568f6f15388602.jpg",
+        "https://telegra.ph/file/4c02d664691602145b62d.jpg",
+        "https://telegra.ph/file/d90fd68ed72d4491546ab.jpg",
+        "https://telegra.ph/file/0d1a8de47b2369700354f.jpg",
+        "https://telegra.ph/file/4fbc29c035fc7a6f279f0.jpg",
+        "https://telegra.ph/file/2338b26150276bb8a8c4e.jpg",
+        "https://telegra.ph/file/1710cf499e29a7c86813d.jpg",
+        "https://telegra.ph/file/f5750ff4a24c6fa78126f.jpg",
+        "https://telegra.ph/file/83b9d5a4007bc9925ef58.jpg",
+        "https://telegra.ph/file/39a3fd6ca6d86aaeb4e91.jpg",
+        "https://telegra.ph/file/570aa15b6b95a8107b30f.jpg",
+        "https://telegra.ph/file/b1fa3c71b9addb7ffb3a1.jpg",
+        "https://telegra.ph/file/a0d70d61417055949541c.jpg",
+        "https://telegra.ph/file/d8e6a38a1042504221d89.jpg",
+        "https://telegra.ph/file/3c6a4b09e4bf934bcf601.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

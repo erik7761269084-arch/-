@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 826,
+    "title": "G44不会受伤 精灵村（9月25打赏资源）",
+    "sourceUrl": "https://telegra.ph/G44不会受伤-精灵村9月25打赏资源-08-25",
+    "images": [
+        "https://telegra.ph/file/c119991fbf531b1fe3e77.jpg",
+        "https://telegra.ph/file/0e50be8aed83f30e1a96c.jpg",
+        "https://telegra.ph/file/150193473b66ee2c35e16.jpg",
+        "https://telegra.ph/file/2e66961004b01ede44bdf.jpg",
+        "https://telegra.ph/file/99d06ff8a06bb815894cd.jpg",
+        "https://telegra.ph/file/c65e9c5d0f401a81816a0.jpg",
+        "https://telegra.ph/file/c9a6cf8728a7e1e540e5e.jpg",
+        "https://telegra.ph/file/e1ad8da83c0ee8a3a94da.jpg",
+        "https://telegra.ph/file/64f4d9473ed5a78aac36c.jpg",
+        "https://telegra.ph/file/cfc57f40e1934abdc6789.jpg",
+        "https://telegra.ph/file/2d6a2fea7e2f9f40cd5c2.jpg",
+        "https://telegra.ph/file/7c368dbb60371e7265c4f.jpg",
+        "https://telegra.ph/file/3d77dcb170355a84810ac.jpg",
+        "https://telegra.ph/file/34c4b66fc079bf301eec3.jpg",
+        "https://telegra.ph/file/ddab7f87318e095c5885f.jpg",
+        "https://telegra.ph/file/c62e2031ef6b77eab4988.jpg",
+        "https://telegra.ph/file/2e94c08ccd5b020e2d7a7.jpg",
+        "https://telegra.ph/file/4eab6352022ec1aa3e853.jpg",
+        "https://telegra.ph/file/8febf3cc281d364fa010b.jpg",
+        "https://telegra.ph/file/616eefadd79e76261f91f.jpg",
+        "https://telegra.ph/file/650ccd9319d16df12444a.jpg",
+        "https://telegra.ph/file/07022f34e6d1c8573ca8e.jpg",
+        "https://telegra.ph/file/f9043959af77b0facae4d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

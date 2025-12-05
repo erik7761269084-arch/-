@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20736,
+    "title": "[PINK RIBBON] Kiryong - Slender Black",
+    "sourceUrl": "https://telegra.ph/PINK-RIBBON-Kiryong---Slender-Black-08-29",
+    "images": [
+        "https://telegra.ph/file/8db4559151452fa54c1b1.jpg",
+        "https://telegra.ph/file/4f81787abd3f9801b8ebe.jpg",
+        "https://telegra.ph/file/675b75d6f009fdf0b0f7a.jpg",
+        "https://telegra.ph/file/7da5a2ffc9b29be17a899.jpg",
+        "https://telegra.ph/file/37a4f61054cf05d830879.jpg",
+        "https://telegra.ph/file/8ac2238f499f5082b5f41.jpg",
+        "https://telegra.ph/file/bb712bf4e802ff842abfc.jpg",
+        "https://telegra.ph/file/c002961e1c666131d46c0.jpg",
+        "https://telegra.ph/file/3957c574b039d541db4a3.jpg",
+        "https://telegra.ph/file/37eea28b1922914d01702.jpg",
+        "https://telegra.ph/file/b6f8586bfc4b9f99fb853.jpg",
+        "https://telegra.ph/file/d5d125d260437de7c4cbf.jpg",
+        "https://telegra.ph/file/497a55ac7496f2ed28f39.jpg",
+        "https://telegra.ph/file/21c90b1bc5863e269127d.jpg",
+        "https://telegra.ph/file/d6ad66f509acb07a5b062.jpg",
+        "https://telegra.ph/file/a92f8248931be7dc1dfae.jpg",
+        "https://telegra.ph/file/92d796d45bb71fe35a680.jpg",
+        "https://telegra.ph/file/96ceb1b21a665e3291083.jpg",
+        "https://telegra.ph/file/bf0a254cd400ff74c42f1.jpg",
+        "https://telegra.ph/file/14aa896a3b0ff547ebaf5.jpg",
+        "https://telegra.ph/file/449e24bf03a081bf26f10.jpg",
+        "https://telegra.ph/file/c8db3827430515ff9be9e.jpg",
+        "https://telegra.ph/file/b43cba73f9a7d2827be4b.jpg",
+        "https://telegra.ph/file/a9598a8d61df106a24ed8.jpg",
+        "https://telegra.ph/file/36a931535c0ca116132b9.jpg",
+        "https://telegra.ph/file/ab873b4d84d8e6a50e889.jpg",
+        "https://telegra.ph/file/b834eaabe20bea114b92a.jpg",
+        "https://telegra.ph/file/f8f514fc70a2c17b1825f.jpg",
+        "https://telegra.ph/file/1413ad999857a0c4b7f6c.jpg",
+        "https://telegra.ph/file/81aae037d7598c756b5c7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

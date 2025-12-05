@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9331,
+    "title": "矢量鱼 - 椿导游",
+    "sourceUrl": "https://telegra.ph/%E7%9F%A2%E9%87%8F%E9%B1%BC---%E6%A4%BF%E5%AF%BC%E6%B8%B8-08-19-2",
+    "images": [
+        "https://image.acg.lol/file/2025/05/11/1-32.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-1.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-2.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-3.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-4.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-5.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-6.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-7.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-8.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-9.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-10.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-11.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-12.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-13.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-14.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-15.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-16.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-17.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-18.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-19.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-20.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-21.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-22.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-23.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-24.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-25.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-26.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-27.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-28.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-29.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-30.jpg",
+        "https://image.acg.lol/file/2025/05/11/1-31.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

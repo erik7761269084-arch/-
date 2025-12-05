@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 45,
+    "title": "Asagiriai（愛ちゃん） 爱莉希雅 [33P-352MB]",
+    "sourceUrl": "https://telegra.ph/Asagiriai%E6%84%9B%E3%81%A1%E3%82%83%E3%82%93-%E7%88%B1%E8%8E%89%E5%B8%8C%E9%9B%85-33P-352MB-08-23",
+    "images": [
+        "https://telegra.ph/file/81e4aed01a07cbc0523e3.jpg",
+        "https://telegra.ph/file/d819acfa7de446688ad06.jpg",
+        "https://telegra.ph/file/62e65df21299c450f95c6.jpg",
+        "https://telegra.ph/file/dbb2a1ca6080410288e7c.jpg",
+        "https://telegra.ph/file/c43bc668e8cbb1816ec10.jpg",
+        "https://telegra.ph/file/cc16e080854bad13a1cc8.jpg",
+        "https://telegra.ph/file/f6905e0b52ba5498b127d.jpg",
+        "https://telegra.ph/file/c2f93a260db096bbb25b9.jpg",
+        "https://telegra.ph/file/c1536336591ae2c02c694.jpg",
+        "https://telegra.ph/file/3417612362dcaa39d6db6.jpg",
+        "https://telegra.ph/file/a48adea98d8897ddc98c4.jpg",
+        "https://telegra.ph/file/2dbfeace4b1dcf7d950ff.jpg",
+        "https://telegra.ph/file/7d38828aba49e559c7878.jpg",
+        "https://telegra.ph/file/16ccc8c37a57ccba0f474.jpg",
+        "https://telegra.ph/file/238b9bba6d9c9e50bb332.jpg",
+        "https://telegra.ph/file/1f89d2dea5d5063d27a77.jpg",
+        "https://telegra.ph/file/bfbbacc7f0b5758d11959.jpg",
+        "https://telegra.ph/file/20ba296d500bfd65edf44.jpg",
+        "https://telegra.ph/file/189c48a09c13aaf839f91.jpg",
+        "https://telegra.ph/file/c2acd42c6bc56a628385a.jpg",
+        "https://telegra.ph/file/447fcb369dc661dff783d.jpg",
+        "https://telegra.ph/file/0047044d49e1cb48c45ed.jpg",
+        "https://telegra.ph/file/34d779e2f72450f9fd4d8.jpg",
+        "https://telegra.ph/file/cc4591b055708897c4760.jpg",
+        "https://telegra.ph/file/1fd1691c6ef0a190e2627.jpg",
+        "https://telegra.ph/file/ac0dbf0371f4780bcbff1.jpg",
+        "https://telegra.ph/file/5c7d456aa6a4d3ad28c0f.jpg",
+        "https://telegra.ph/file/9bf5c1e7835ab790d138c.jpg",
+        "https://telegra.ph/file/3d0ad038dccae107057e5.jpg",
+        "https://telegra.ph/file/957e1295f02781340b817.jpg",
+        "https://telegra.ph/file/276c07beb73e515a05fdd.jpg",
+        "https://telegra.ph/file/3ce16f1e924f024b71c29.jpg",
+        "https://telegra.ph/file/7f51cc6c62c6b20e126b0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

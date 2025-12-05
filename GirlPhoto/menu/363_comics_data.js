@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 363,
+    "title": "Byoru - Honoka Altermis (DoA)",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Honoka-Altermis-DoA-08-26",
+    "images": [
+        "https://telegra.ph/file/464d1440e45b2c989c5ed.jpg",
+        "https://telegra.ph/file/5aedb025d859606ab8bb1.jpg",
+        "https://telegra.ph/file/7cf79bf980c44673e737d.jpg",
+        "https://telegra.ph/file/056ff5f018fdcab0bf76f.jpg",
+        "https://telegra.ph/file/2788ea2fe3136a07acff0.jpg",
+        "https://telegra.ph/file/f443311dbff65ebc7ec73.jpg",
+        "https://telegra.ph/file/81b8953dd4ebb1845c1a5.jpg",
+        "https://telegra.ph/file/dd78899aa5e4a49a2d902.jpg",
+        "https://telegra.ph/file/5159a0e7d3b4e31410aff.jpg",
+        "https://telegra.ph/file/9a4de4248d4f4f18a851b.jpg",
+        "https://telegra.ph/file/7d02122e799eca3129af8.jpg",
+        "https://telegra.ph/file/bd82eb25104f1e0cfe5ba.jpg",
+        "https://telegra.ph/file/1fba33307920aa1544b40.jpg",
+        "https://telegra.ph/file/c580ed26d7dad31b47b71.jpg",
+        "https://telegra.ph/file/d42097bbc59cf5f5b1e66.jpg",
+        "https://telegra.ph/file/c54847bb6a2454177e849.jpg",
+        "https://telegra.ph/file/0405f476a64f9e6885803.jpg",
+        "https://telegra.ph/file/fc8a6de8b34f2ef9099d4.jpg",
+        "https://telegra.ph/file/ff63cdcab54a486fc5948.jpg",
+        "https://telegra.ph/file/6925af6a918f7f1d3d170.jpg",
+        "https://telegra.ph/file/4351b151f04f3eb085fd4.jpg",
+        "https://telegra.ph/file/2b799ac23f9a162ce4671.jpg",
+        "https://telegra.ph/file/5135e5db27d0646a6ef08.jpg",
+        "https://telegra.ph/file/a430c3f5ccba36823c530.jpg",
+        "https://telegra.ph/file/9d1f38388b93cdb5bb8d6.jpg",
+        "https://telegra.ph/file/3510bfd13a694dbbad677.jpg",
+        "https://telegra.ph/file/5c460da78e67ea147e935.jpg",
+        "https://telegra.ph/file/d18a5324eab2206766189.jpg",
+        "https://telegra.ph/file/d44df5fd34849f3222933.jpg",
+        "https://telegra.ph/file/40f665afa05223b04ed16.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

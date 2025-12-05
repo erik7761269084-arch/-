@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10951,
+    "title": "[小鸟酱] 170825 小鸟酱才不会拍照呢—雪肌配黑丝 (30P+2V)",
+    "sourceUrl": "https://telegra.ph/小鸟酱-170825-小鸟酱才不会拍照呢雪肌配黑丝-30P2V-08-30",
+    "images": [
+        "https://telegra.ph/file/6013409db8e701fbb490d.jpg",
+        "https://telegra.ph/file/f14863ad6d122521d8a19.jpg",
+        "https://telegra.ph/file/ce9046590d2faaf496340.jpg",
+        "https://telegra.ph/file/168e9b777b84bebd43aae.jpg",
+        "https://telegra.ph/file/8696cf7553a14cbe950ed.jpg",
+        "https://telegra.ph/file/15927eee37fa36093c799.jpg",
+        "https://telegra.ph/file/8fa9418f6f9a98ae6140f.jpg",
+        "https://telegra.ph/file/d488eccc34a9b086b08a2.jpg",
+        "https://telegra.ph/file/0192e98b2d5159425929e.jpg",
+        "https://telegra.ph/file/50094cd63ca387f9e0c9f.jpg",
+        "https://telegra.ph/file/06ff6b654650d5f961950.jpg",
+        "https://telegra.ph/file/294ce934caea142afc662.jpg",
+        "https://telegra.ph/file/42356224985781a2d6fc5.jpg",
+        "https://telegra.ph/file/80065e38c9ad9562cbc47.jpg",
+        "https://telegra.ph/file/e5fb5a257d46137c9c985.jpg",
+        "https://telegra.ph/file/89501acdc91ac742a1350.jpg",
+        "https://telegra.ph/file/3fc55b91d9026672cc068.jpg",
+        "https://telegra.ph/file/36034a27ab59edb940c5e.jpg",
+        "https://telegra.ph/file/dabbcd5f0509dd7a141a7.jpg",
+        "https://telegra.ph/file/c4fcf7777a35bee7f6e14.jpg",
+        "https://telegra.ph/file/ed6db50900f3017d38eb1.jpg",
+        "https://telegra.ph/file/4f44b01cca361ef1cdb27.jpg",
+        "https://telegra.ph/file/5637b0993f3f496e5df1f.jpg",
+        "https://telegra.ph/file/30a87c2633cefb5db6f00.jpg",
+        "https://telegra.ph/file/3e4d04f54736c968f073c.jpg",
+        "https://telegra.ph/file/3f0521202d989a96eb4b8.jpg",
+        "https://telegra.ph/file/db9c29fd222eb57d69022.jpg",
+        "https://telegra.ph/file/b9cc90530d429aa5bca56.jpg",
+        "https://telegra.ph/file/fd2a7d9198833e049d958.jpg",
+        "https://telegra.ph/file/242149c1b676e4fb1dd7a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9384,
+    "title": "是三不是世w – 日常妹妹（会员资源）",
+    "sourceUrl": "https://telegra.ph/是三不是世w--日常妹妹会员资源-08-25",
+    "images": [
+        "https://telegra.ph/file/fecb49c2e2c2d68936721.jpg",
+        "https://telegra.ph/file/f524fc53783d371103429.jpg",
+        "https://telegra.ph/file/7b1dbc55bbed394bb901d.jpg",
+        "https://telegra.ph/file/60f82c3c1e6f614d7f16b.jpg",
+        "https://telegra.ph/file/f18ba89d047e6010e2425.jpg",
+        "https://telegra.ph/file/0dc4f64c52a27c0764104.jpg",
+        "https://telegra.ph/file/edb072e55e41988fe1bbc.jpg",
+        "https://telegra.ph/file/01f9b03d2ca096f3615f7.jpg",
+        "https://telegra.ph/file/444e5606ab29b2adde089.jpg",
+        "https://telegra.ph/file/5c6ae99ad89cc05ffc484.jpg",
+        "https://telegra.ph/file/9577df71d1c2154995297.jpg",
+        "https://telegra.ph/file/7a4109ad728a6d235dcf0.jpg",
+        "https://telegra.ph/file/c5725db81d998ab06cd01.jpg",
+        "https://telegra.ph/file/ceb9574db914676f9cfcb.jpg",
+        "https://telegra.ph/file/aec607eaac9d310f88cbc.jpg",
+        "https://telegra.ph/file/a542a5003fa2fd855c8ea.jpg",
+        "https://telegra.ph/file/453a88b1a8ddf0415205c.jpg",
+        "https://telegra.ph/file/7125bf59bd70641312c80.jpg",
+        "https://telegra.ph/file/a636e99fde5781fc94605.jpg",
+        "https://telegra.ph/file/ec10984f6c4cfbaa347c7.jpg",
+        "https://telegra.ph/file/6c439ba6beb1d894ca129.jpg",
+        "https://telegra.ph/file/94d25313a7506e105671c.jpg",
+        "https://telegra.ph/file/3586ed108cfcc464e4595.jpg",
+        "https://telegra.ph/file/9aa343bffbbe060b82055.jpg",
+        "https://telegra.ph/file/c7de3d32b83b5ca8c6fb7.jpg",
+        "https://telegra.ph/file/98d94279d7ae54eab0a4f.jpg",
+        "https://telegra.ph/file/37994a7ac8a9aa63af531.jpg",
+        "https://telegra.ph/file/c86099f8979af85dd4bef.jpg",
+        "https://telegra.ph/file/f0b522a65b71877c8065a.jpg",
+        "https://telegra.ph/file/6959601fb2ddf9bbc6f62.jpg",
+        "https://telegra.ph/file/cbc24a4fc39049546b241.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2956,
+    "title": "阿包也是兔娘 猫骑士 [29P-338MB]",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-猫骑士-29P-338MB-08-25",
+    "images": [
+        "https://telegra.ph/file/8a2d507b1d7f65350d476.png",
+        "https://telegra.ph/file/eeeb9fe0363071b40d901.jpg",
+        "https://telegra.ph/file/b148d50029c71b975afb0.jpg",
+        "https://telegra.ph/file/ebd95d0da178cc8394ee9.jpg",
+        "https://telegra.ph/file/52681f167156dad53181e.jpg",
+        "https://telegra.ph/file/cdec361c58dfa8272e277.jpg",
+        "https://telegra.ph/file/08a383643618ea0497008.jpg",
+        "https://telegra.ph/file/8b3bc33ffcb587d6793b4.jpg",
+        "https://telegra.ph/file/83627951fd1572e8932b3.jpg",
+        "https://telegra.ph/file/de8ddf7024ce23ce19fd6.jpg",
+        "https://telegra.ph/file/2849a153c27244b2a4ac7.jpg",
+        "https://telegra.ph/file/f15974841dae8e5fa17e1.jpg",
+        "https://telegra.ph/file/74ac284158a2d25a13c25.jpg",
+        "https://telegra.ph/file/3c6bd9ea99cdcdcece910.jpg",
+        "https://telegra.ph/file/65046f426c377e9b3ca19.jpg",
+        "https://telegra.ph/file/9aa17172ba94a2e195d81.jpg",
+        "https://telegra.ph/file/4ccee8ef1e1666634c941.jpg",
+        "https://telegra.ph/file/f7af3aee19a5aff1ca954.jpg",
+        "https://telegra.ph/file/eb2d69bf15608a049c174.jpg",
+        "https://telegra.ph/file/0f2110a584f2110953212.jpg",
+        "https://telegra.ph/file/f78864bceaa51b267bffb.jpg",
+        "https://telegra.ph/file/f3d33f7e96ed7959771dd.jpg",
+        "https://telegra.ph/file/bf7797f038fde1fd9a68d.jpg",
+        "https://telegra.ph/file/b08ad36cfe2dd4770e168.jpg",
+        "https://telegra.ph/file/3d1517b1e55369619b634.jpg",
+        "https://telegra.ph/file/5e225df4a6840ea7f45e7.jpg",
+        "https://telegra.ph/file/b74986efe7639f53d5494.jpg",
+        "https://telegra.ph/file/b9c8631562a5242a1ef39.jpg",
+        "https://telegra.ph/file/20ec3b11524ed54806058.jpg",
+        "https://telegra.ph/file/931f41017b1f970f08565.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

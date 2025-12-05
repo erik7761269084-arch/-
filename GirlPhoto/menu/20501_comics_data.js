@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20501,
+    "title": "Hidori Rose - Ram Bride Lingerie",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Ram-Bride-Lingerie-08-29",
+    "images": [
+        "https://telegra.ph/file/ff2b20ddeb7bfb699329a.jpg",
+        "https://telegra.ph/file/977ed016b3c1bf079103d.jpg",
+        "https://telegra.ph/file/43e8d1c0edd2195516997.jpg",
+        "https://telegra.ph/file/646eb410077c5434d307a.jpg",
+        "https://telegra.ph/file/fabfbf1530e0c1777162f.jpg",
+        "https://telegra.ph/file/e30024c6d56313adb12b3.jpg",
+        "https://telegra.ph/file/e0e5bd5e84a1e36859aaf.jpg",
+        "https://telegra.ph/file/50dfd9a530ed7fc6a4f29.jpg",
+        "https://telegra.ph/file/b202eb064e4ded3cdcd22.jpg",
+        "https://telegra.ph/file/4605596fd6a4180301467.jpg",
+        "https://telegra.ph/file/725b9cabf8097d9bc55e2.jpg",
+        "https://telegra.ph/file/f394cd98b2f70f93ff8bb.jpg",
+        "https://telegra.ph/file/e712a1e08ba4a3bf8f6c1.jpg",
+        "https://telegra.ph/file/ff0f858472fc8cd6891f3.jpg",
+        "https://telegra.ph/file/24a086b921f48c697b5e1.jpg",
+        "https://telegra.ph/file/d5a9c02d085dee7d207b0.jpg",
+        "https://telegra.ph/file/fdae9a64b5eae60ddd264.jpg",
+        "https://telegra.ph/file/1138f02bc4ba9879ccebd.jpg",
+        "https://telegra.ph/file/ec5d0f3b378e9a4beb81b.jpg",
+        "https://telegra.ph/file/44722c73877c18d46d366.jpg",
+        "https://telegra.ph/file/2b4c10a2cc6bac734ce5c.jpg",
+        "https://telegra.ph/file/604a63d11be47e96d9257.jpg",
+        "https://telegra.ph/file/6856f99568e5392bffea3.jpg",
+        "https://telegra.ph/file/e1f7640006cd6b4d9a0d6.jpg",
+        "https://telegra.ph/file/a8a2a28c564b29dad6166.jpg",
+        "https://telegra.ph/file/99070faaa6050a4a10d3b.jpg",
+        "https://telegra.ph/file/f0376d6d9781cddf56d3a.jpg",
+        "https://telegra.ph/file/e890c1813e6fc6c4bd69a.jpg",
+        "https://telegra.ph/file/4271cb75475d987db32f5.jpg",
+        "https://telegra.ph/file/5dc537a2df450bb5dc8e3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

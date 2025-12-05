@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 405,
+    "title": "Byoru - Power ringfit",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Power-ringfit-08-26",
+    "images": [
+        "https://telegra.ph/file/4da10c0b2ec5dfadb657e.jpg",
+        "https://telegra.ph/file/a9bab964a7fb15fbd522f.jpg",
+        "https://telegra.ph/file/fb95002931d8971fc93d7.jpg",
+        "https://telegra.ph/file/c88208a2e8371cf622665.jpg",
+        "https://telegra.ph/file/a544cbb6871181fefe234.jpg",
+        "https://telegra.ph/file/a3a21250e9ce123d75c8c.jpg",
+        "https://telegra.ph/file/8d12da7058b085b1c9299.jpg",
+        "https://telegra.ph/file/c55442c9ff2ae321dcaa6.jpg",
+        "https://telegra.ph/file/16f0928cf3bbdeb7db207.jpg",
+        "https://telegra.ph/file/233d297aaa4c6fb3ac378.jpg",
+        "https://telegra.ph/file/cbb75c0cadfbbb9735eb0.jpg",
+        "https://telegra.ph/file/9f935d61c0a0f9db93c81.jpg",
+        "https://telegra.ph/file/85ee740f44d5eb540d031.jpg",
+        "https://telegra.ph/file/2daa2c557de5c764d33ad.jpg",
+        "https://telegra.ph/file/5ad1736458fb5fa54caf2.jpg",
+        "https://telegra.ph/file/cf9539d828a6b893ddd72.jpg",
+        "https://telegra.ph/file/3fb7380053f042c02f547.jpg",
+        "https://telegra.ph/file/7f2315f08db03aa6c9405.jpg",
+        "https://telegra.ph/file/65ae115529f53a22fd661.jpg",
+        "https://telegra.ph/file/d8d45fb3392d0d4f37f9b.jpg",
+        "https://telegra.ph/file/26869e95d0a8f0cd756a6.jpg",
+        "https://telegra.ph/file/fba0402dda366fa7608ec.jpg",
+        "https://telegra.ph/file/a8108066b440995925e28.jpg",
+        "https://telegra.ph/file/ff1011bf7e06fd19dba6d.jpg",
+        "https://telegra.ph/file/cd6a45f06d3c0adcfd051.jpg",
+        "https://telegra.ph/file/d1a570184068c80f57e37.jpg",
+        "https://telegra.ph/file/de59a8820a9da3bd7d4c6.jpg",
+        "https://telegra.ph/file/fa51a4aaf623933f4c93d.jpg",
+        "https://telegra.ph/file/b04c4f1750d2e78bf3178.jpg",
+        "https://telegra.ph/file/ed0a820986c712a17ef0a.jpg",
+        "https://telegra.ph/file/4c20ddf54210990b2945b.jpg",
+        "https://telegra.ph/file/d21a798a0000f198e035e.jpg",
+        "https://telegra.ph/file/6161473c7ea8320acbfae.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

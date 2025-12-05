@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2559,
+    "title": "Uy Uy - Chun Li Black",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Chun-Li-Black-08-27",
+    "images": [
+        "https://telegra.ph/file/6d334efe87cd48ca05aef.jpg",
+        "https://telegra.ph/file/12628167d3773008c91f4.jpg",
+        "https://telegra.ph/file/8694895f5fe755b9f2b63.jpg",
+        "https://telegra.ph/file/7fc63ca3b50a342a31aa6.jpg",
+        "https://telegra.ph/file/4b83a6de954edc76aec29.jpg",
+        "https://telegra.ph/file/4d18f4008d6fb6e377160.jpg",
+        "https://telegra.ph/file/c5a246aa60e7a5de71eff.jpg",
+        "https://telegra.ph/file/ff19778cb6b82a45527cc.jpg",
+        "https://telegra.ph/file/fa0415474082aaf8df426.jpg",
+        "https://telegra.ph/file/4d8046b26816c11638093.jpg",
+        "https://telegra.ph/file/99a11bee9a570e3f73f40.jpg",
+        "https://telegra.ph/file/3cd42ebd6fe4af0649400.jpg",
+        "https://telegra.ph/file/fa267fd6991e5d8347c84.jpg",
+        "https://telegra.ph/file/ce873ab697f8762d4fd46.jpg",
+        "https://telegra.ph/file/acd412daf78cccebabbb1.jpg",
+        "https://telegra.ph/file/0f6b77300d902a1e64b0d.jpg",
+        "https://telegra.ph/file/490962a44aa7843a06a49.jpg",
+        "https://telegra.ph/file/fc7bbf4264d1e589f8476.jpg",
+        "https://telegra.ph/file/44fcd7c1b9516252abb3d.jpg",
+        "https://telegra.ph/file/b952e54cd0a0380861e9a.jpg",
+        "https://telegra.ph/file/c4fcf8c13bd5ac6507abb.jpg",
+        "https://telegra.ph/file/8203f230461e14c05c7c9.jpg",
+        "https://telegra.ph/file/3cb9c059c30d2a57349db.jpg",
+        "https://telegra.ph/file/4dd383e0244d0aed9bb12.jpg",
+        "https://telegra.ph/file/87b5b19e906d1b99c36c5.jpg",
+        "https://telegra.ph/file/9f5b51d4cae249cf484be.jpg",
+        "https://telegra.ph/file/18f713ba67dd0f5549f96.jpg",
+        "https://telegra.ph/file/3c8d67a2cdd4e637a751e.jpg",
+        "https://telegra.ph/file/92be8a8ce6f66d793f4fd.jpg",
+        "https://telegra.ph/file/614a1e8c58ddb1a246618.jpg",
+        "https://telegra.ph/file/c0478f7bd179e03ae9e8f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

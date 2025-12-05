@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6197,
+    "title": "铃木美咲 - 黑丝JK",
+    "sourceUrl": "https://telegra.ph/铃木美咲---黑丝JK-08-29",
+    "images": [
+        "https://telegra.ph/file/41d75d396d0907874b11c.jpg",
+        "https://telegra.ph/file/07e04ebb8a9af22106516.jpg",
+        "https://telegra.ph/file/4812c620ead3b29ef7bc5.jpg",
+        "https://telegra.ph/file/407b7eb24fca606947f10.jpg",
+        "https://telegra.ph/file/362490b327bc9fd8eb47b.jpg",
+        "https://telegra.ph/file/46869ceff410b6d4a005a.jpg",
+        "https://telegra.ph/file/160c2fbe288061e9885ad.jpg",
+        "https://telegra.ph/file/7956a86f21f98af5c5099.jpg",
+        "https://telegra.ph/file/fb54629a7e5cc2961e931.jpg",
+        "https://telegra.ph/file/ca210776b3e9ca71dd0a3.jpg",
+        "https://telegra.ph/file/b178a6b45e7fba17db49d.jpg",
+        "https://telegra.ph/file/23d45d49690daf002492b.jpg",
+        "https://telegra.ph/file/875bb9e7130d9330f27f6.jpg",
+        "https://telegra.ph/file/4cb0fcb71229447784d42.jpg",
+        "https://telegra.ph/file/b992f3da6ee8086f4a226.jpg",
+        "https://telegra.ph/file/d4cfa41ad6710083fdfd2.jpg",
+        "https://telegra.ph/file/6baff26fdc4827c974f58.jpg",
+        "https://telegra.ph/file/d5253f80666571d359ea9.jpg",
+        "https://telegra.ph/file/20d1338761ebbe1fb2693.jpg",
+        "https://telegra.ph/file/4fd85cd09a9c2b2af78fd.jpg",
+        "https://telegra.ph/file/c01743e68bf601d7022bd.jpg",
+        "https://telegra.ph/file/63d975584138d73943277.jpg",
+        "https://telegra.ph/file/77821cb03f415209853e2.jpg",
+        "https://telegra.ph/file/4e7e86c6a96cbd6f2bee6.jpg",
+        "https://telegra.ph/file/9ab187097cade0390f51f.jpg",
+        "https://telegra.ph/file/e8c56744cf0e1875d5cc7.jpg",
+        "https://telegra.ph/file/4ad78d0367673776606ef.jpg",
+        "https://telegra.ph/file/161e074334c2fd785edc2.jpg",
+        "https://telegra.ph/file/7990807540d82be2a2ec8.jpg",
+        "https://telegra.ph/file/174dd59814a9ff0d73883.jpg",
+        "https://telegra.ph/file/b20e3d344c5c22a5fa57a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

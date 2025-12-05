@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 868,
+    "title": "G44不会受伤 - 少女前线 PA15校服",
+    "sourceUrl": "https://telegra.ph/G44不会受伤---少女前线-PA15校服-08-26",
+    "images": [
+        "https://telegra.ph/file/1ea91d0f51c15538697b8.jpg",
+        "https://telegra.ph/file/c36ed5b1f877802dadc1c.jpg",
+        "https://telegra.ph/file/45ccb6261bac2679f58a9.jpg",
+        "https://telegra.ph/file/dd0ea3aaccf6c5b15274a.jpg",
+        "https://telegra.ph/file/d3ce35a046efe4f496a05.jpg",
+        "https://telegra.ph/file/a6f928106d900a4cbf886.jpg",
+        "https://telegra.ph/file/689301ca4a7511f068d7b.jpg",
+        "https://telegra.ph/file/9df6b2f8d1f6c4f44e697.jpg",
+        "https://telegra.ph/file/2fdbc1483cb17ff62f982.jpg",
+        "https://telegra.ph/file/b8fcbc9b34606d487416d.jpg",
+        "https://telegra.ph/file/497db6e9dfd8e2b8caca7.jpg",
+        "https://telegra.ph/file/170b891733d66b018d92e.jpg",
+        "https://telegra.ph/file/a38ab1312e096d9855654.jpg",
+        "https://telegra.ph/file/48c39ee4d5d4a15835e23.jpg",
+        "https://telegra.ph/file/1f0c92272f46e994e1e2f.jpg",
+        "https://telegra.ph/file/3e679a3f30cacacaf5d20.jpg",
+        "https://telegra.ph/file/260bf12c00cb95da3d8b3.jpg",
+        "https://telegra.ph/file/8d5816fa61efa51c842b6.jpg",
+        "https://telegra.ph/file/a2743d7fd60766a4fe9b4.jpg",
+        "https://telegra.ph/file/d31f7df9ecc2d67af050d.jpg",
+        "https://telegra.ph/file/f405af68ce2e5de75cf01.jpg",
+        "https://telegra.ph/file/a4b62ec5334d72e62b632.jpg",
+        "https://telegra.ph/file/d6544943018314033844a.jpg",
+        "https://telegra.ph/file/5ee329ea4417d9c63b5e5.jpg",
+        "https://telegra.ph/file/bbee1b1f7d68726a2367b.jpg",
+        "https://telegra.ph/file/98a02ee8398bf667ad72f.jpg",
+        "https://telegra.ph/file/5a0c73975782bef097b56.jpg",
+        "https://telegra.ph/file/a4960e75212cb0862f0f0.jpg",
+        "https://telegra.ph/file/69be008c338c6e1a93cc7.jpg",
+        "https://telegra.ph/file/44cfd383c9b962b5f4060.jpg",
+        "https://telegra.ph/file/7b0e109e386b5811bb41c.jpg",
+        "https://telegra.ph/file/c7203f8eef30f59cd2a49.jpg",
+        "https://telegra.ph/file/5c5383b3b33fffc62577a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

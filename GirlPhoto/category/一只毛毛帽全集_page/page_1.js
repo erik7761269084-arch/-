@@ -1,0 +1,38 @@
+// 每个对象包含：title、cover、url、genres
+window.PAGE_DATA = [
+    {
+        "IDcode": 12435,
+        "title": "一只毛毛帽 - 妈咪的调教",
+        "cover_url": "https://image.acg.lol/file/2025/06/24/1-12aa73886973a95a0.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=12435",
+        "genres": []
+    },
+    {
+        "IDcode": 12436,
+        "title": "一只毛毛帽 – 银色珍珠 [176P-3.31GB]",
+        "cover_url": "https://image.acg.lol/file/2025/06/14/1-1980c98774c4e860c.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=12436",
+        "genres": []
+    },
+    {
+        "IDcode": 12437,
+        "title": "毛毛帽 - 肉欲油光 [166P-1.38G]",
+        "cover_url": "https://image.acg.lol/file/2025/05/28/1-15d0b8ef9e0e62f00.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=12437",
+        "genres": []
+    },
+    {
+        "IDcode": 12438,
+        "title": "毛毛帽 - 居家妹妹",
+        "cover_url": "https://image.acg.lol/file/2025/04/26/01-15.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=12438",
+        "genres": []
+    },
+    {
+        "IDcode": 12439,
+        "title": "毛毛帽 - 居家妹妹3",
+        "cover_url": "https://image.acg.lol/file/2025/04/27/1-14026ab10757004545.jpg",
+        "url": "https://yunvgong.com/comics/comicDetails.html?series=12439",
+        "genres": []
+    }
+];

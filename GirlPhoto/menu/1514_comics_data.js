@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1514,
+    "title": "NAGISA魔物喵 VOL.02 加藤惠",
+    "sourceUrl": "https://telegra.ph/萝莉COS-NAGISA魔物喵-VOL02-加藤惠-08-27",
+    "images": [
+        "https://telegra.ph/file/449af6b18fd23e6e408e2.jpg",
+        "https://telegra.ph/file/96d2d5f860ad4d4dbf2a5.jpg",
+        "https://telegra.ph/file/e8921a55fee4e741035f2.jpg",
+        "https://telegra.ph/file/218481088d89073baaf33.jpg",
+        "https://telegra.ph/file/2a116ff58a8b64fc01379.jpg",
+        "https://telegra.ph/file/9715bd22d4d5632894b26.jpg",
+        "https://telegra.ph/file/f9c0899f582a4e00dccf0.jpg",
+        "https://telegra.ph/file/8e476498b92dee489ce3e.jpg",
+        "https://telegra.ph/file/e2470d032201f7bdf6bf9.jpg",
+        "https://telegra.ph/file/892c0251aa5652ee1b818.jpg",
+        "https://telegra.ph/file/558cb23d1fb41752877b7.jpg",
+        "https://telegra.ph/file/b01a0f3a767f825ec0c8a.jpg",
+        "https://telegra.ph/file/0bf9f6e46484397a453d3.jpg",
+        "https://telegra.ph/file/6563c4d02c3d703f5f357.jpg",
+        "https://telegra.ph/file/6a82426ca6ed6522cfba8.jpg",
+        "https://telegra.ph/file/ca85a45bc3ab84df4643c.jpg",
+        "https://telegra.ph/file/0cc5a6cd9e414aed7db65.jpg",
+        "https://telegra.ph/file/b276a4dd39313133d15c8.jpg",
+        "https://telegra.ph/file/8f38531289ee7f4fceaef.jpg",
+        "https://telegra.ph/file/96f42310b6bc57ae7d5a5.jpg",
+        "https://telegra.ph/file/419f8b2b4a7cb8e6e5cd8.jpg",
+        "https://telegra.ph/file/22f44913af26a3e1601fa.jpg",
+        "https://telegra.ph/file/f59edebaafab637409599.jpg",
+        "https://telegra.ph/file/41581a0e52621644e870a.jpg",
+        "https://telegra.ph/file/5ffc30f14c705aa408847.jpg",
+        "https://telegra.ph/file/9fcaf8e4205fca141ecf4.jpg",
+        "https://telegra.ph/file/ca1e5b90f0ce3d32131ba.jpg",
+        "https://telegra.ph/file/fdf2e2439caa174e23f2c.jpg",
+        "https://telegra.ph/file/ec9dcbeb5c18055f5246c.jpg",
+        "https://telegra.ph/file/2fbee2c2e34e21f6725ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

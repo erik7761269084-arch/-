@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2519,
+    "title": "Umeko J Jett Valorant",
+    "sourceUrl": "https://telegra.ph/Umeko-J-Jett-Valorant-08-29",
+    "images": [
+        "https://telegra.ph/file/d59bc477c690a9dd74f1d.jpg",
+        "https://telegra.ph/file/dd9074f84288402ff074c.jpg",
+        "https://telegra.ph/file/c49fb48a2fae48eca0362.jpg",
+        "https://telegra.ph/file/28ab5b01faa5d85e73985.jpg",
+        "https://telegra.ph/file/d9eddb366f5c9456b39ba.jpg",
+        "https://telegra.ph/file/3bef032602ad40b68293a.jpg",
+        "https://telegra.ph/file/4aee8396099a6f76ae999.jpg",
+        "https://telegra.ph/file/2cbd58bcb5e1d85cd8bdc.jpg",
+        "https://telegra.ph/file/0782f54e05955831588c3.jpg",
+        "https://telegra.ph/file/5ef7f51efa747a1948367.jpg",
+        "https://telegra.ph/file/48fe42404a55b679db9d6.jpg",
+        "https://telegra.ph/file/e88f4728e86fec1bd01fa.jpg",
+        "https://telegra.ph/file/81f55cb0cd83150170172.jpg",
+        "https://telegra.ph/file/5bef73e2ca2f00d211fac.jpg",
+        "https://telegra.ph/file/d885844744b246e49287f.jpg",
+        "https://telegra.ph/file/76a58d9f149e1dc7310cb.jpg",
+        "https://telegra.ph/file/9c639ac131c68eb5f5cee.jpg",
+        "https://telegra.ph/file/b0de8147f318c0aca7510.jpg",
+        "https://telegra.ph/file/6237f377677c153382d32.jpg",
+        "https://telegra.ph/file/2a7bc8857c364f38c4558.jpg",
+        "https://telegra.ph/file/d70ae6fb850055cf13e30.jpg",
+        "https://telegra.ph/file/a5d728b59a7f57b74895a.jpg",
+        "https://telegra.ph/file/626b220e1ceb134563d85.jpg",
+        "https://telegra.ph/file/9cb73714ef32ef329dab0.jpg",
+        "https://telegra.ph/file/0128c12b247fa70fc2f3b.jpg",
+        "https://telegra.ph/file/70baa6345657c716e13ec.jpg",
+        "https://telegra.ph/file/abe9262c346de8f229766.jpg",
+        "https://telegra.ph/file/adc5e54c75ca0283ced5d.jpg",
+        "https://telegra.ph/file/bc374fdfd334d2a7fe30e.jpg",
+        "https://telegra.ph/file/43624204a0dda69cade63.jpg",
+        "https://telegra.ph/file/ead834985e6343c446180.jpg",
+        "https://telegra.ph/file/9d0a2aaa5d009a5c93434.jpg",
+        "https://telegra.ph/file/0b918c450f0b57928d1d8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10363,
+    "title": "雯妹不讲道理 赛车 1",
+    "sourceUrl": "https://telegra.ph/%E9%9B%AF%E5%A6%B9%E4%B8%8D%E8%AE%B2%E9%81%93%E7%90%86-%E8%B5%9B%E8%BD%A6-1-08-22",
+    "images": [
+        "https://telegra.ph/file/a0816d4977debe42d21e2.jpg",
+        "https://telegra.ph/file/bc3e003ed7c75b25ac4c9.jpg",
+        "https://telegra.ph/file/19ff9fad4675c89977a7b.jpg",
+        "https://telegra.ph/file/3b74718fe857283667e3a.jpg",
+        "https://telegra.ph/file/e37fae27ab1c5d525233c.jpg",
+        "https://telegra.ph/file/6a7695b5078c0490eaf0b.jpg",
+        "https://telegra.ph/file/546d4d418c46e5dbbb4e8.jpg",
+        "https://telegra.ph/file/7cd6c6fb90eaf55fbb952.jpg",
+        "https://telegra.ph/file/60767a7f44e109a2e4be5.jpg",
+        "https://telegra.ph/file/f33e3645cf16b2132d4bb.jpg",
+        "https://telegra.ph/file/4532deb80d2a5255b4684.jpg",
+        "https://telegra.ph/file/db2282723a0723b0b807e.jpg",
+        "https://telegra.ph/file/e0752ee4f3df44335f114.jpg",
+        "https://telegra.ph/file/214921212f7833d6c6ebc.jpg",
+        "https://telegra.ph/file/b44fe9bc76254754c457d.jpg",
+        "https://telegra.ph/file/b8c963d4f5a4dd13fbd60.jpg",
+        "https://telegra.ph/file/bcda8b6bc54036500970a.jpg",
+        "https://telegra.ph/file/df20b879cac1ec2c07195.jpg",
+        "https://telegra.ph/file/e3bdfd98d1abaf764a573.jpg",
+        "https://telegra.ph/file/cdd7f4092ca0111d70905.jpg",
+        "https://telegra.ph/file/671538af3f0ed0d2f441d.jpg",
+        "https://telegra.ph/file/d975c69c7593d699b13bb.jpg",
+        "https://telegra.ph/file/a0960d17ead5fb917271e.jpg",
+        "https://telegra.ph/file/8860520d7f846de646bf2.jpg",
+        "https://telegra.ph/file/751bcd739516eedb67d56.jpg",
+        "https://telegra.ph/file/92877b3b44c922e419a29.jpg",
+        "https://telegra.ph/file/3b19f0bc4c8bfd550c946.jpg",
+        "https://telegra.ph/file/61bd87a8caf423473c682.jpg",
+        "https://telegra.ph/file/b02461a694edcbeea0a04.jpg",
+        "https://telegra.ph/file/23373d673a9502de11530.jpg",
+        "https://telegra.ph/file/e333e73e245e449fc4808.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

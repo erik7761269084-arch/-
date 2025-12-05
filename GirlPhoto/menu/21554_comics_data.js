@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 21554,
+    "title": "Hyeyeon - Beauty in the Dark",
+    "sourceUrl": "https://telegra.ph/Hyeyeon---Beauty-in-the-Dark-08-29",
+    "images": [
+        "https://telegra.ph/file/5709e88e6e31430cab497.jpg",
+        "https://telegra.ph/file/62670b91f36a8a582fbd1.jpg",
+        "https://telegra.ph/file/e42a51271364463a1eca2.jpg",
+        "https://telegra.ph/file/109f346293c7133b99d7c.jpg",
+        "https://telegra.ph/file/60d08fc1910032ac4da98.jpg",
+        "https://telegra.ph/file/4c1edc19d5df666d40177.jpg",
+        "https://telegra.ph/file/454fa965a594e12a09f69.jpg",
+        "https://telegra.ph/file/bdc88557a99acce482f8e.jpg",
+        "https://telegra.ph/file/9acc75d15a8cccc3b0bec.jpg",
+        "https://telegra.ph/file/085b2aa6cd13072bdc023.jpg",
+        "https://telegra.ph/file/a61507583eeadd339630d.jpg",
+        "https://telegra.ph/file/7443ad13cf298c1c22e96.jpg",
+        "https://telegra.ph/file/d60a064d2144fa80ca80a.jpg",
+        "https://telegra.ph/file/e06ce76f2e6f553c7e971.jpg",
+        "https://telegra.ph/file/b958010e96a22d5acddde.jpg",
+        "https://telegra.ph/file/3da56d5c81c951c5162b9.jpg",
+        "https://telegra.ph/file/7f09b694ed0adb21ddafd.jpg",
+        "https://telegra.ph/file/87eb4a22bcd48ef9981db.jpg",
+        "https://telegra.ph/file/24c99981bf02011746d15.jpg",
+        "https://telegra.ph/file/63e9ee0c70905b33ed2d6.jpg",
+        "https://telegra.ph/file/58f89f34c7dc266dcb1bc.jpg",
+        "https://telegra.ph/file/4229aaa8256b156ce556b.jpg",
+        "https://telegra.ph/file/b15c2f9a356db903355f1.jpg",
+        "https://telegra.ph/file/c2683d007d02896cdef85.jpg",
+        "https://telegra.ph/file/72b6657071d111cd493c0.jpg",
+        "https://telegra.ph/file/edd20656a161ea4f33617.jpg",
+        "https://telegra.ph/file/6c4839a99aea88389eee8.jpg",
+        "https://telegra.ph/file/ae2996126f74704e1a1e1.jpg",
+        "https://telegra.ph/file/c93b3cb63d74651a8d8c4.jpg",
+        "https://telegra.ph/file/eb5807d10217c2b45fdd0.jpg",
+        "https://telegra.ph/file/a42ea2dc419c63030533e.jpg",
+        "https://telegra.ph/file/1fc38dd79fe1e5b73366c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

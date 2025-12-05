@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8221,
+    "title": "七月喵子 - 爱豆",
+    "sourceUrl": "https://telegra.ph/七月喵子---爱豆-08-27",
+    "images": [
+        "https://telegra.ph/file/3596768b413274c3ba096.jpg",
+        "https://telegra.ph/file/28913228adba8c30d2a6e.jpg",
+        "https://telegra.ph/file/aff6a5e74dc1d02696eae.jpg",
+        "https://telegra.ph/file/16096077ead00fc8593e9.jpg",
+        "https://telegra.ph/file/a7eef25df9213c897224b.jpg",
+        "https://telegra.ph/file/6d9a05738d1f7d5b724bc.jpg",
+        "https://telegra.ph/file/aee710dccd8e521a99a77.jpg",
+        "https://telegra.ph/file/e6061380a3837977cc9ec.jpg",
+        "https://telegra.ph/file/650e1ea6869186cf463fb.jpg",
+        "https://telegra.ph/file/93ec502743c92aa25138c.jpg",
+        "https://telegra.ph/file/de9c87f374294daed66be.jpg",
+        "https://telegra.ph/file/8029bb9d3158089e1d123.jpg",
+        "https://telegra.ph/file/b985b903fae4aca165cbe.jpg",
+        "https://telegra.ph/file/7c88c48b94ae3f0301c2e.jpg",
+        "https://telegra.ph/file/35b6700c51e3bfcbe3530.jpg",
+        "https://telegra.ph/file/ad59737a9621075b6a019.jpg",
+        "https://telegra.ph/file/aa802db0cd5dd90d72818.jpg",
+        "https://telegra.ph/file/a4b67da0315001c8b1061.jpg",
+        "https://telegra.ph/file/93613436412352fee58fd.jpg",
+        "https://telegra.ph/file/82766d723887642df3a1c.jpg",
+        "https://telegra.ph/file/945e9734b9783ab4ffa16.jpg",
+        "https://telegra.ph/file/fb2afe73d1f72d863e147.jpg",
+        "https://telegra.ph/file/179ba60022538415ca3e7.jpg",
+        "https://telegra.ph/file/28472b34dcddf0c0a8df5.jpg",
+        "https://telegra.ph/file/5e2068f5569a1d84a18b0.jpg",
+        "https://telegra.ph/file/2f6bfa752d292be87e526.jpg",
+        "https://telegra.ph/file/d38462accafce7112d5aa.jpg",
+        "https://telegra.ph/file/ffac44f1c4bae1edcc554.jpg",
+        "https://telegra.ph/file/42ec6a46c48f0b52cf10e.jpg",
+        "https://telegra.ph/file/5ff178e75d9946fafc907.jpg",
+        "https://telegra.ph/file/c46656a3e89561b3be808.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

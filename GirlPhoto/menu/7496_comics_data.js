@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7496,
+    "title": "爆机少女喵小吉：ゼロから始める異世界生活",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉ゼロから始める異世界生活-08-29",
+    "images": [
+        "https://telegra.ph/file/18df30da5122569a7cd02.jpg",
+        "https://telegra.ph/file/101af714339818a12ca57.jpg",
+        "https://telegra.ph/file/e08b3039663d864f4f68d.jpg",
+        "https://telegra.ph/file/a33679fa7c70e80283051.jpg",
+        "https://telegra.ph/file/faec4abc8047bacb413f0.jpg",
+        "https://telegra.ph/file/1fe940f05ecb2008c323d.jpg",
+        "https://telegra.ph/file/b7883c914e275754dd50b.jpg",
+        "https://telegra.ph/file/9dbc938d8d7b8cf3fb31d.jpg",
+        "https://telegra.ph/file/1f4110ab6c809ed441590.jpg",
+        "https://telegra.ph/file/f5da86c504d2098d43191.jpg",
+        "https://telegra.ph/file/edd2f26222031324fda4f.jpg",
+        "https://telegra.ph/file/8183e19c25db786ad4077.jpg",
+        "https://telegra.ph/file/a1945b737af10da005d6f.jpg",
+        "https://telegra.ph/file/f5be84327b2d0b0e9d5ad.jpg",
+        "https://telegra.ph/file/61bccb8eb34849a914f88.jpg",
+        "https://telegra.ph/file/865a8de5a170f59bc919a.jpg",
+        "https://telegra.ph/file/42fe47f61f712f8204cc5.jpg",
+        "https://telegra.ph/file/0e6e986fd6813493b71e1.jpg",
+        "https://telegra.ph/file/7c582127797834111b7c7.jpg",
+        "https://telegra.ph/file/f31e628960be4ba762875.jpg",
+        "https://telegra.ph/file/3a8c21a66f9e3552ab919.jpg",
+        "https://telegra.ph/file/53d02f65fa96d6355428b.jpg",
+        "https://telegra.ph/file/0d163d9f12327c6a0b8c5.jpg",
+        "https://telegra.ph/file/d1c7ebbff95e4addaebb8.jpg",
+        "https://telegra.ph/file/3447606bf512790b373ca.jpg",
+        "https://telegra.ph/file/506497108e176d0ee8d14.jpg",
+        "https://telegra.ph/file/de78f0155d4c722d04b93.jpg",
+        "https://telegra.ph/file/a2db7ec88d20eacba233d.jpg",
+        "https://telegra.ph/file/578938c1b0844a0725dc5.jpg",
+        "https://telegra.ph/file/55c6d603efe500e288838.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

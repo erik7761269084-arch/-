@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5133,
+    "title": "宮本桜 埃吉尔旗袍 [30P-376MB]",
+    "sourceUrl": "https://telegra.ph/%E5%AE%AE%E6%9C%AC%E6%A1%9C-%E5%9F%83%E5%90%89%E5%B0%94%E6%97%97%E8%A2%8D-30P-376MB-08-23",
+    "images": [
+        "https://telegra.ph/file/3c4513a402217425aaa36.jpg",
+        "https://telegra.ph/file/4a8397375996556cb47da.jpg",
+        "https://telegra.ph/file/a08f0a734a1b7f9125327.jpg",
+        "https://telegra.ph/file/69723211244af71ecb792.jpg",
+        "https://telegra.ph/file/5656e978bed092f2e7b3c.jpg",
+        "https://telegra.ph/file/f215bd92938aac75ed7c9.jpg",
+        "https://telegra.ph/file/20abc924f5bb1ac33c1f6.jpg",
+        "https://telegra.ph/file/4256c2fb1fc162bb7136a.jpg",
+        "https://telegra.ph/file/313a1319658342c585b60.jpg",
+        "https://telegra.ph/file/836651bc76f7c3f74c9c6.jpg",
+        "https://telegra.ph/file/68408bce9fa04126b8d4b.jpg",
+        "https://telegra.ph/file/dfe6f21342dbc60efb83f.jpg",
+        "https://telegra.ph/file/b025a0b03c7e2f75b9d8e.jpg",
+        "https://telegra.ph/file/ffc1feeac3bb2db55bf95.jpg",
+        "https://telegra.ph/file/a49470a8be1514c6b1f55.jpg",
+        "https://telegra.ph/file/dc63ad100dc00944e53bc.jpg",
+        "https://telegra.ph/file/be941a37e612b0246fb4e.jpg",
+        "https://telegra.ph/file/7a7490f8b576ab78216c5.jpg",
+        "https://telegra.ph/file/593d30bf8e4140442e7f7.jpg",
+        "https://telegra.ph/file/13ada685c8b46e0342fcf.jpg",
+        "https://telegra.ph/file/1f8ce92c35f105e597944.jpg",
+        "https://telegra.ph/file/eecc58121492590a6f3fb.jpg",
+        "https://telegra.ph/file/00e0a31666b08bc8be8cc.jpg",
+        "https://telegra.ph/file/d0ae3dc3a28c0f26c217f.jpg",
+        "https://telegra.ph/file/40104d8367954ba3b18a8.jpg",
+        "https://telegra.ph/file/36bf2501e0345c7e3318b.jpg",
+        "https://telegra.ph/file/064fc2201de47133b5316.jpg",
+        "https://telegra.ph/file/264362a7aa3b518a22728.jpg",
+        "https://telegra.ph/file/50dfaf3c2a2ae7c8a3cff.jpg",
+        "https://telegra.ph/file/b8104b6b5f7d8fa75ef0b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

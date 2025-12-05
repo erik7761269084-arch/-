@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 337,
+    "title": "Byoru - Mashu Kyrielight Dancer [30P12V-682MB]",
+    "sourceUrl": "https://telegra.ph/Byoru---Mashu-Kyrielight-Dancer-30P12V-682MB-08-26",
+    "images": [
+        "https://telegra.ph/file/90c318b29bc1eb1dca149.jpg",
+        "https://telegra.ph/file/9fb89f4c39914d29ab869.jpg",
+        "https://telegra.ph/file/0eb3270e7137e8f12316e.jpg",
+        "https://telegra.ph/file/01bcce87ff50a7fa1eee6.jpg",
+        "https://telegra.ph/file/8aa180dbb66c1199999f0.jpg",
+        "https://telegra.ph/file/c27de477a94b93cde5f7a.jpg",
+        "https://telegra.ph/file/92400e30bf2c506fbe0af.jpg",
+        "https://telegra.ph/file/3c02ecd1e1405533b2798.jpg",
+        "https://telegra.ph/file/d8285d68edb188093e41a.jpg",
+        "https://telegra.ph/file/c4e9cad380059d2402a50.jpg",
+        "https://telegra.ph/file/c70772dbb9c6a1f395938.jpg",
+        "https://telegra.ph/file/788bc2bc12b45a4b7489e.jpg",
+        "https://telegra.ph/file/98b13d19fb01175cfe37e.jpg",
+        "https://telegra.ph/file/7f5475ea8292e70b0c834.jpg",
+        "https://telegra.ph/file/b3386b06196687e9411a5.jpg",
+        "https://telegra.ph/file/96d1a13d531113dbf42f1.jpg",
+        "https://telegra.ph/file/9918088dcb453c25b34b3.jpg",
+        "https://telegra.ph/file/6161481255dfd5ab7ef5b.jpg",
+        "https://telegra.ph/file/52edace774cb5f59e9b73.jpg",
+        "https://telegra.ph/file/4d81c0970e73883ea135e.jpg",
+        "https://telegra.ph/file/529941d467a4373d77a1c.jpg",
+        "https://telegra.ph/file/0874db84a756494ccd321.jpg",
+        "https://telegra.ph/file/c7e3509a0018cbe8bc392.jpg",
+        "https://telegra.ph/file/39df665991321a429884a.jpg",
+        "https://telegra.ph/file/a28f4070800a1fba2a3a8.jpg",
+        "https://telegra.ph/file/e07f08bc07a9f05f68499.jpg",
+        "https://telegra.ph/file/9467a24ae0c41b712538f.jpg",
+        "https://telegra.ph/file/c26a788ddb293d5ab6657.jpg",
+        "https://telegra.ph/file/5afacb45218a4dd9e7b32.jpg",
+        "https://telegra.ph/file/5f61ce735aa9aef66cf4d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

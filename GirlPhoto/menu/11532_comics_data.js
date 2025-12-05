@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11532,
+    "title": "星之迟迟 - 24年04月计划D 治愈之旅part.3盛装篇",
+    "sourceUrl": "https://telegra.ph/星之迟迟---24年04月计划D-治愈之旅part3盛装篇-08-29",
+    "images": [
+        "https://telegra.ph/file/2d12d99f5ea5d7ea0f036.jpg",
+        "https://telegra.ph/file/34709c5aa206e07a0752b.jpg",
+        "https://telegra.ph/file/9f17ff0a6365ecdea87dc.jpg",
+        "https://telegra.ph/file/758cd69be2064a79b5506.jpg",
+        "https://telegra.ph/file/bd235f6a7a21456bcdb22.jpg",
+        "https://telegra.ph/file/d8b28af91ba274cf1ba92.jpg",
+        "https://telegra.ph/file/ec4003104f159d62d07b6.jpg",
+        "https://telegra.ph/file/c2931e695dd4e397e7939.jpg",
+        "https://telegra.ph/file/d0ddc5f8495023e228815.jpg",
+        "https://telegra.ph/file/f75e895326953c0964ab0.jpg",
+        "https://telegra.ph/file/80e5b04aae42cbd010cb5.jpg",
+        "https://telegra.ph/file/61b9ea53cb01baa470f88.jpg",
+        "https://telegra.ph/file/30408e3bda241233af021.jpg",
+        "https://telegra.ph/file/0c343e90a4f2ede4e10f8.jpg",
+        "https://telegra.ph/file/873fdd747114870dc058a.jpg",
+        "https://telegra.ph/file/02997cd41cb2c1842dffa.jpg",
+        "https://telegra.ph/file/a3fb74591835102b6f606.jpg",
+        "https://telegra.ph/file/64aad73ceedbee7d9d8d4.jpg",
+        "https://telegra.ph/file/06277fdae574ae7ab1d04.jpg",
+        "https://telegra.ph/file/808db5db0ea5a8bb3710d.jpg",
+        "https://telegra.ph/file/21751d94a5d5a2e2d6c44.jpg",
+        "https://telegra.ph/file/fe08dc644a699a6c9c7de.jpg",
+        "https://telegra.ph/file/5f8bf57af95b7218e81b8.jpg",
+        "https://telegra.ph/file/863389f9ff53850a118b1.jpg",
+        "https://telegra.ph/file/2669f5649eb2571df7ccd.jpg",
+        "https://telegra.ph/file/119e60b3dd562ec29af79.jpg",
+        "https://telegra.ph/file/23d9c575173775a311619.jpg",
+        "https://telegra.ph/file/80780069a4b3151967e62.jpg",
+        "https://telegra.ph/file/6d9bbb684a69f193ac10c.jpg",
+        "https://telegra.ph/file/9543585b76382f7308421.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

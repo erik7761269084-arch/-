@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20726,
+    "title": "Hidori Rose - Lolisa Newbie Succubus",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Lolisa-Newbie-Succubus-08-29",
+    "images": [
+        "https://telegra.ph/file/d106f7e5f43c546a1c47b.jpg",
+        "https://telegra.ph/file/0631f7e737842be8b975d.jpg",
+        "https://telegra.ph/file/38aac6fcfb3e13810deb3.jpg",
+        "https://telegra.ph/file/d892a296dfd29e0f8dbb7.jpg",
+        "https://telegra.ph/file/847501a71210e0a0498a3.jpg",
+        "https://telegra.ph/file/ffbbf271eb7cd97be7b67.jpg",
+        "https://telegra.ph/file/ceeb6cb2d88679d52557a.jpg",
+        "https://telegra.ph/file/5d0bf85d38b51f8b30269.jpg",
+        "https://telegra.ph/file/8d2e6d9fcd29f7e6ec838.jpg",
+        "https://telegra.ph/file/799cb27438f2bc23d3477.jpg",
+        "https://telegra.ph/file/2a76566bc83eb8c65f00e.jpg",
+        "https://telegra.ph/file/c01ba35bef5a5efb57e31.jpg",
+        "https://telegra.ph/file/863f5e8dc5027fd746f5b.jpg",
+        "https://telegra.ph/file/e58e8d581d8e75d9d9683.jpg",
+        "https://telegra.ph/file/6627af1a1572c2c031dd3.jpg",
+        "https://telegra.ph/file/ddedf5bbe7eb583ce5c8a.jpg",
+        "https://telegra.ph/file/0979208efed8b112a286a.jpg",
+        "https://telegra.ph/file/7ddb2a60c2d701d2a5b9c.jpg",
+        "https://telegra.ph/file/d1f3c53fdbb8eef2d7367.jpg",
+        "https://telegra.ph/file/d4d2cd9f21e4feff410a9.jpg",
+        "https://telegra.ph/file/a595c24ccf88ee51e2fc4.jpg",
+        "https://telegra.ph/file/fed6c44da4b5e06d161c8.jpg",
+        "https://telegra.ph/file/9619227dffdec6f51ffa9.jpg",
+        "https://telegra.ph/file/0b0723deba102db6f4576.jpg",
+        "https://telegra.ph/file/98b522fbb9837bfb6abc0.jpg",
+        "https://telegra.ph/file/2fdc44d51bff0b9051260.jpg",
+        "https://telegra.ph/file/88676ab8dd62d9a053435.jpg",
+        "https://telegra.ph/file/5037517e6d7cced3ca08d.jpg",
+        "https://telegra.ph/file/d292fc804942d91a4a8c5.jpg",
+        "https://telegra.ph/file/59ccfaa895c0fd15ac177.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

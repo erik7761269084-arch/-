@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 431,
+    "title": "Byoru - Honkai Star Rail Acheron",
+    "sourceUrl": "https://telegra.ph/Byoru---Honkai-Star-Rail-Acheron-08-29",
+    "images": [
+        "https://telegra.ph/file/127f246d07f92ea9201fa.jpg",
+        "https://telegra.ph/file/a8c35030d7065d92646a3.jpg",
+        "https://telegra.ph/file/13118237fbd784d150cf8.jpg",
+        "https://telegra.ph/file/678f516d4133d1844354a.jpg",
+        "https://telegra.ph/file/c411f109a20b5b2991648.jpg",
+        "https://telegra.ph/file/87ed8e786b5b332f45511.jpg",
+        "https://telegra.ph/file/1a3acd77a4d1472477a2c.jpg",
+        "https://telegra.ph/file/a882c478cbae3f920b8c7.jpg",
+        "https://telegra.ph/file/17bac47dcc098df6e91d7.jpg",
+        "https://telegra.ph/file/705bd10bbc230f561b4b9.jpg",
+        "https://telegra.ph/file/29bff8ff0c97a8c2233e5.jpg",
+        "https://telegra.ph/file/475d3cdbd613e794fc5f3.jpg",
+        "https://telegra.ph/file/2e8581fd603c898179aed.jpg",
+        "https://telegra.ph/file/9a19c54f82a9a0bc74a57.jpg",
+        "https://telegra.ph/file/f8d5cd1687b91dbdfd99a.jpg",
+        "https://telegra.ph/file/1816d4ae3db5da729bd27.jpg",
+        "https://telegra.ph/file/0ceb73ef75005338b08ad.jpg",
+        "https://telegra.ph/file/5c6d5a511bcd3688623ca.jpg",
+        "https://telegra.ph/file/d59cba75189a9526657b3.jpg",
+        "https://telegra.ph/file/373cad2c2dd04f1085990.jpg",
+        "https://telegra.ph/file/09d8e33c582b088629017.jpg",
+        "https://telegra.ph/file/fe8c94cc12c379ab87e17.jpg",
+        "https://telegra.ph/file/167b7bd5e39c44d2b0db6.jpg",
+        "https://telegra.ph/file/2f98723df4d04c95861e5.jpg",
+        "https://telegra.ph/file/ad607f300892078cd054a.jpg",
+        "https://telegra.ph/file/c9d9259ae85b917353d82.jpg",
+        "https://telegra.ph/file/9d8c0384369eef53e844d.jpg",
+        "https://telegra.ph/file/9e6c98d1d07f7227b1495.jpg",
+        "https://telegra.ph/file/a90eec49c56db2fae0eca.jpg",
+        "https://telegra.ph/file/4fabf968557947d0bbe99.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

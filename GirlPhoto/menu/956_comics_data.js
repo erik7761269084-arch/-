@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 956,
+    "title": "Hane Ame 雨波写真 - Nier 2B Gown",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波写真---Nier-2B-Gown-08-27",
+    "images": [
+        "https://telegra.ph/file/0ef5831a36fbe50e449bb.jpg",
+        "https://telegra.ph/file/dd66998341ad762fb4d4a.jpg",
+        "https://telegra.ph/file/8ff866e57ccf755fc9e6a.jpg",
+        "https://telegra.ph/file/79cd1d90dabe3291702ea.jpg",
+        "https://telegra.ph/file/892f93471f156bf9a5674.jpg",
+        "https://telegra.ph/file/df95f29dd6400c12f089a.jpg",
+        "https://telegra.ph/file/613a731d87edafbb53a1f.jpg",
+        "https://telegra.ph/file/555123189ffb99b776abf.jpg",
+        "https://telegra.ph/file/9cdcf22555610d172a00c.jpg",
+        "https://telegra.ph/file/257bc4eb575515054354c.jpg",
+        "https://telegra.ph/file/36c2c4fa668ce477bbeb5.jpg",
+        "https://telegra.ph/file/a00f8130765199b11728f.jpg",
+        "https://telegra.ph/file/8f4c9e7feeae9660c4d68.jpg",
+        "https://telegra.ph/file/0724ab1007d0a1d2fc4ee.jpg",
+        "https://telegra.ph/file/38de111f5b7279ab832c4.jpg",
+        "https://telegra.ph/file/6a810c486a69783f92116.jpg",
+        "https://telegra.ph/file/f6c2eacc8885dff96e1c1.jpg",
+        "https://telegra.ph/file/fc19e644ad1110be9e364.jpg",
+        "https://telegra.ph/file/dab4c70b84a694e74a04a.jpg",
+        "https://telegra.ph/file/75b63c7ca0e2943a45f79.jpg",
+        "https://telegra.ph/file/a4ab6d1d28a0633b93ca3.jpg",
+        "https://telegra.ph/file/4dc00da6ac30d26495c2c.jpg",
+        "https://telegra.ph/file/6249337219a4eeb1a26e8.jpg",
+        "https://telegra.ph/file/792ddb3b1b10f9c7b2e48.jpg",
+        "https://telegra.ph/file/009df262ecfb2ac6bf467.jpg",
+        "https://telegra.ph/file/0f6301aa9ce0cf288f40c.jpg",
+        "https://telegra.ph/file/112f1b91cbe812aacdc52.jpg",
+        "https://telegra.ph/file/db30c4d7573e5ca66500a.jpg",
+        "https://telegra.ph/file/7762f1a2cd7ddfc748603.jpg",
+        "https://telegra.ph/file/b65061ee71044cd705d47.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

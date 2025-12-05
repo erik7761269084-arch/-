@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 21469,
+    "title": "PUSSYLET – Vol.54 SUYEON No.09 - First time",
+    "sourceUrl": "https://telegra.ph/PUSSYLET--Vol54-SUYEON-No09---First-time-08-29",
+    "images": [
+        "https://telegra.ph/file/26710450fe65408e0c6ee.jpg",
+        "https://telegra.ph/file/8e6e6aea2bb637d491967.jpg",
+        "https://telegra.ph/file/d405432dbe1126583f381.jpg",
+        "https://telegra.ph/file/7ef35ebb4d7f97ac00c76.jpg",
+        "https://telegra.ph/file/42458ca4d469209c55c0c.jpg",
+        "https://telegra.ph/file/7bdee9341578aa0732cd4.jpg",
+        "https://telegra.ph/file/2c9ba40e81091e5216249.jpg",
+        "https://telegra.ph/file/6a69693544c79def3a990.jpg",
+        "https://telegra.ph/file/b75acd314031c42711e42.jpg",
+        "https://telegra.ph/file/f46a08ec498dae9fd4353.jpg",
+        "https://telegra.ph/file/9a57e13742d742ae97f76.jpg",
+        "https://telegra.ph/file/c5022445e8f95078df7e4.jpg",
+        "https://telegra.ph/file/ab611361e0ef0009eab0f.jpg",
+        "https://telegra.ph/file/ef364c434973cb9c03ef0.jpg",
+        "https://telegra.ph/file/36dfb06eb44ecadadfab6.jpg",
+        "https://telegra.ph/file/ac2dd80d5fbf136f03bc1.jpg",
+        "https://telegra.ph/file/e64a6156cedb673608861.jpg",
+        "https://telegra.ph/file/9b0a794d614b39322bea1.jpg",
+        "https://telegra.ph/file/c592b2a401b170fa11330.jpg",
+        "https://telegra.ph/file/0b9323efc83fdc7a8ffad.jpg",
+        "https://telegra.ph/file/e36e99a0ed77853255871.jpg",
+        "https://telegra.ph/file/c699d3a751cc5e5421dcf.jpg",
+        "https://telegra.ph/file/526ab9139e18ef2c2324a.jpg",
+        "https://telegra.ph/file/716fb2ce8be85767deed3.jpg",
+        "https://telegra.ph/file/a04f6078a6aedf8560dde.jpg",
+        "https://telegra.ph/file/3913ef76f79862f6c543b.jpg",
+        "https://telegra.ph/file/ebaa846a9a70028a5e0cb.jpg",
+        "https://telegra.ph/file/0f0db284d56a33762cbc8.jpg",
+        "https://telegra.ph/file/b264a30f3952b39718a17.jpg",
+        "https://telegra.ph/file/6bdb96aee24dd599d228f.jpg",
+        "https://telegra.ph/file/b8357724c4b515dacb854.jpg",
+        "https://telegra.ph/file/11998eef57b502ff96940.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

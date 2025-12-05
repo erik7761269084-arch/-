@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 6915,
+    "title": "焖焖碳 - 樱岛麻衣兔女郎",
+    "sourceUrl": "https://telegra.ph/焖焖碳---樱岛麻衣兔女郎-08-27",
+    "images": [
+        "https://telegra.ph/file/60227ea4d80a93c0df9c1.jpg",
+        "https://telegra.ph/file/664823d5f4bcf33cf05fa.jpg",
+        "https://telegra.ph/file/e9599755e75d209f68fd2.jpg",
+        "https://telegra.ph/file/c6c55312d25349b6b915a.jpg",
+        "https://telegra.ph/file/e7fb9eaad645591f80e71.jpg",
+        "https://telegra.ph/file/336f2b637e12211362622.jpg",
+        "https://telegra.ph/file/22dbf11bbe828ec9c2cdd.jpg",
+        "https://telegra.ph/file/99f38c819dba1e7f72a71.jpg",
+        "https://telegra.ph/file/7384eda26703c430da6f9.jpg",
+        "https://telegra.ph/file/d80888293bb6f614cbae8.jpg",
+        "https://telegra.ph/file/4560144b8a1df6d9d5f62.jpg",
+        "https://telegra.ph/file/c3cfc9da25827975821b1.jpg",
+        "https://telegra.ph/file/a97b60212c1403811f09e.jpg",
+        "https://telegra.ph/file/146aef1d2f5d3a3eae14d.jpg",
+        "https://telegra.ph/file/97ba5376c0b4771448a41.jpg",
+        "https://telegra.ph/file/9e23aeb5f1f766e1548df.jpg",
+        "https://telegra.ph/file/fea927bd4dc370d9e87ce.jpg",
+        "https://telegra.ph/file/7a47b2c821a82d6c978b6.jpg",
+        "https://telegra.ph/file/79a01330ffe3a78cf3ea1.jpg",
+        "https://telegra.ph/file/b4e8645ef0915c122247f.jpg",
+        "https://telegra.ph/file/61e392e92a8066748dfe9.jpg",
+        "https://telegra.ph/file/c6fe03fbfcebe2378f7da.jpg",
+        "https://telegra.ph/file/f72e72ba48b560c39435f.jpg",
+        "https://telegra.ph/file/84ebbaeefc5e194056d33.jpg",
+        "https://telegra.ph/file/307aee63b8257a61ca797.jpg",
+        "https://telegra.ph/file/224e2a4fd2114a4f4d16f.jpg",
+        "https://telegra.ph/file/58f51ed59f04fc707573c.jpg",
+        "https://telegra.ph/file/3cfbdb9db7485c31d7bde.jpg",
+        "https://telegra.ph/file/a828368174fed9a74f5b1.jpg",
+        "https://telegra.ph/file/0ce0169ed5660627dc700.jpg",
+        "https://telegra.ph/file/3bf64e5665242562749b7.jpg",
+        "https://telegra.ph/file/fd13d426614539171828b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

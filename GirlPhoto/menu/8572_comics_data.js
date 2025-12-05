@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8572,
+    "title": "秋和柯基 嗜血印",
+    "sourceUrl": "https://telegra.ph/秋和柯基-嗜血印-08-26",
+    "images": [
+        "https://telegra.ph/file/aabb28700d306bdc4192a.jpg",
+        "https://telegra.ph/file/84628d87986b393bf1b31.jpg",
+        "https://telegra.ph/file/fdb97abb4a371186bdd88.jpg",
+        "https://telegra.ph/file/de02229293097841e49aa.jpg",
+        "https://telegra.ph/file/ce9a5dd57a052a57784bd.jpg",
+        "https://telegra.ph/file/9345428ef8b066fae8a13.jpg",
+        "https://telegra.ph/file/4d1aaf6128e7521b800bf.jpg",
+        "https://telegra.ph/file/e9659c9b108a592eaf781.jpg",
+        "https://telegra.ph/file/58f3bbd82a88ca8db8ed2.jpg",
+        "https://telegra.ph/file/e8f86582f0537e3c693bf.jpg",
+        "https://telegra.ph/file/db2b0e72de9d16bf77217.jpg",
+        "https://telegra.ph/file/c34e5d8edb488a8515727.jpg",
+        "https://telegra.ph/file/d39eebf576c0c9d80fc8f.jpg",
+        "https://telegra.ph/file/4ad990589ccfb75cac277.jpg",
+        "https://telegra.ph/file/5a7322e016d6a015e6637.jpg",
+        "https://telegra.ph/file/6a904f562855dcd0de684.jpg",
+        "https://telegra.ph/file/bc22b5d0a124396a157b2.jpg",
+        "https://telegra.ph/file/a5a98ac0e3929cba3d999.jpg",
+        "https://telegra.ph/file/55a9c95e29f0910042b77.jpg",
+        "https://telegra.ph/file/e20c13331e2a6b3e18636.jpg",
+        "https://telegra.ph/file/97422dbdad668a4a83575.jpg",
+        "https://telegra.ph/file/71179c7bd25c1b46b6427.jpg",
+        "https://telegra.ph/file/396584bbbba249c2813ba.jpg",
+        "https://telegra.ph/file/6a38cb83244840745a1ab.jpg",
+        "https://telegra.ph/file/7fbb4c941d46017e1ace6.jpg",
+        "https://telegra.ph/file/d33cbaf3ddbee934f1d21.jpg",
+        "https://telegra.ph/file/ed704e6724af13d5e0158.jpg",
+        "https://telegra.ph/file/4002c9557851dd40bb108.jpg",
+        "https://telegra.ph/file/f9eae61bfe53ce7b63074.jpg",
+        "https://telegra.ph/file/da6c1f4a9e3af316fe86a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

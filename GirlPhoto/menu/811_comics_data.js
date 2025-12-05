@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 811,
+    "title": "G44不会受伤 魔卡少女樱 莓铃李[22P]",
+    "sourceUrl": "https://telegra.ph/G44不会受伤-魔卡少女樱-莓铃李22P-08-25",
+    "images": [
+        "https://telegra.ph/file/3db87c9790046abbdabc8.jpg",
+        "https://telegra.ph/file/4530076f6b071f7b489a1.jpg",
+        "https://telegra.ph/file/3a0a2bacce33b9b126fd9.jpg",
+        "https://telegra.ph/file/59a14862b8f9c40900c30.jpg",
+        "https://telegra.ph/file/c21f536ecd21bf1b32d77.jpg",
+        "https://telegra.ph/file/2851f321dab91a99a3909.jpg",
+        "https://telegra.ph/file/46e94b30d2b52075c6bd7.jpg",
+        "https://telegra.ph/file/748eddd4af44f4e704696.jpg",
+        "https://telegra.ph/file/9a1c3992522a0574d835f.jpg",
+        "https://telegra.ph/file/8e3500d8ac85d46ad3282.jpg",
+        "https://telegra.ph/file/7bed2d4b438ba246401b5.jpg",
+        "https://telegra.ph/file/8b0ead5c0c31e8f2cb598.jpg",
+        "https://telegra.ph/file/0761961041f553c32f35b.jpg",
+        "https://telegra.ph/file/96a9af4d28528a3337bed.jpg",
+        "https://telegra.ph/file/02875dad8979f77d3fc04.jpg",
+        "https://telegra.ph/file/1054d957789e96378b7c2.jpg",
+        "https://telegra.ph/file/208d4b27bce7b69d15bd3.jpg",
+        "https://telegra.ph/file/d47d042702f8e3d692bcb.jpg",
+        "https://telegra.ph/file/9d64d896e18cdc03dfac0.jpg",
+        "https://telegra.ph/file/fe039b26fbd3d5b195078.jpg",
+        "https://telegra.ph/file/8cd3e49e54a42eb28e16d.jpg",
+        "https://telegra.ph/file/2ce789aea87ee1485b5e2.jpg",
+        "https://telegra.ph/file/adbe6e6500e5c5cafdb54.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

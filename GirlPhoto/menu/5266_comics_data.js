@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5266,
+    "title": "果咩酱w 麻衣校服 30P",
+    "sourceUrl": "https://telegra.ph/%E6%9E%9C%E5%92%A9%E9%85%B1w-%E9%BA%BB%E8%A1%A3%E6%A0%A1%E6%9C%8D-30P-08-23",
+    "images": [
+        "https://telegra.ph/file/de66032a2ff986d305fce.jpg",
+        "https://telegra.ph/file/2eb71114703cf1e9bd255.jpg",
+        "https://telegra.ph/file/e3ad26dc0ea1365fc0821.jpg",
+        "https://telegra.ph/file/1bebb52d6174f5ba4f5f6.jpg",
+        "https://telegra.ph/file/0a23d00b45b82602a03f1.jpg",
+        "https://telegra.ph/file/69aa5d0f31805e6952f94.jpg",
+        "https://telegra.ph/file/7f825c6f0b1b3ea218afa.jpg",
+        "https://telegra.ph/file/1e0f7f7b3283d40f5e231.jpg",
+        "https://telegra.ph/file/e956ae4831f5c46a9309a.jpg",
+        "https://telegra.ph/file/a0558665033bd4da9603b.jpg",
+        "https://telegra.ph/file/dbfccead78bba7c450928.jpg",
+        "https://telegra.ph/file/915db341f4f0bc0b8e030.jpg",
+        "https://telegra.ph/file/8fe40152dfc6c4e01fe30.jpg",
+        "https://telegra.ph/file/96025081a816f12045789.jpg",
+        "https://telegra.ph/file/a9c491b51b38caa4ff16b.jpg",
+        "https://telegra.ph/file/fd499ca2e23556e8c29e7.jpg",
+        "https://telegra.ph/file/9eb01f8f8cc21ff0d386e.jpg",
+        "https://telegra.ph/file/daf1625335d8bc00b82b8.jpg",
+        "https://telegra.ph/file/bd274bf13c04bc6d7107d.jpg",
+        "https://telegra.ph/file/fa636c229d066ab37a45b.jpg",
+        "https://telegra.ph/file/8e68d7efa227305273efc.jpg",
+        "https://telegra.ph/file/c68d7bd2de9d27a407be9.jpg",
+        "https://telegra.ph/file/18ae8429af4120cc36b83.jpg",
+        "https://telegra.ph/file/2eb6a57794bf440a772ba.jpg",
+        "https://telegra.ph/file/c79aa322c4382d034d378.jpg",
+        "https://telegra.ph/file/6d25185ab2c34e3760c5e.jpg",
+        "https://telegra.ph/file/1ac9a457c899fa7435f30.jpg",
+        "https://telegra.ph/file/9f984598997664021a2d8.jpg",
+        "https://telegra.ph/file/2ba5d52cc390daa87c55f.jpg",
+        "https://telegra.ph/file/4a7a92d923c80d74d49b9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

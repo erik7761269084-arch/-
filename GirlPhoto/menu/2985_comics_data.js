@@ -1,0 +1,36 @@
+const comicData = {
+    "IDcode": 2985,
+    "title": "阿包也是兔娘 NO.043 冲田总司泳装 [26P-387MB]",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-NO043-冲田总司泳装-26P-387MB-08-26",
+    "images": [
+        "https://telegra.ph/file/43d61453af605e8be56f8.jpg",
+        "https://telegra.ph/file/c22f28fcd5e605cf8102a.jpg",
+        "https://telegra.ph/file/02b8a5ae256576290d67e.jpg",
+        "https://telegra.ph/file/76919f2ea392254c0109a.jpg",
+        "https://telegra.ph/file/b88890e9ce90d6782ee11.jpg",
+        "https://telegra.ph/file/3ef0590bbed2b4b54e12c.jpg",
+        "https://telegra.ph/file/defbe33d6dfba97239049.jpg",
+        "https://telegra.ph/file/111a83cc01779b6e38f27.jpg",
+        "https://telegra.ph/file/ab1129d3fe730c4491328.jpg",
+        "https://telegra.ph/file/be739d838255d68ae0105.jpg",
+        "https://telegra.ph/file/db11b441c6ab05924df0e.jpg",
+        "https://telegra.ph/file/61a519324518e0ccf2a5e.jpg",
+        "https://telegra.ph/file/80f4930166bc72d9e7442.jpg",
+        "https://telegra.ph/file/6833665378d67a6d3bf23.jpg",
+        "https://telegra.ph/file/bc5e85d4cc99b70c65dd1.jpg",
+        "https://telegra.ph/file/40e63fbd73af3fe6ae083.jpg",
+        "https://telegra.ph/file/0f6b0d9ecd2ed1db2c9b7.jpg",
+        "https://telegra.ph/file/f72c4468c42744ea6885a.jpg",
+        "https://telegra.ph/file/3a8a9cc71b52f161b8478.jpg",
+        "https://telegra.ph/file/a07c901d5b3025f39ee09.jpg",
+        "https://telegra.ph/file/2ecf2934eba7c47127822.jpg",
+        "https://telegra.ph/file/6e3c751f047d658ac6ca4.jpg",
+        "https://telegra.ph/file/73d357adfa77fcf3ed74b.jpg",
+        "https://telegra.ph/file/627d28796b93991146f4b.jpg",
+        "https://telegra.ph/file/3376682ccc504de2b1274.jpg",
+        "https://telegra.ph/file/a3f024daf326813b5a3bc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

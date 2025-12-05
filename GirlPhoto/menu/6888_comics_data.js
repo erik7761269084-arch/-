@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6888,
+    "title": "焖焖碳 独角兽和服 [30P-124MB]",
+    "sourceUrl": "https://telegra.ph/焖焖碳-独角兽和服-30P-124MB-08-24",
+    "images": [
+        "https://telegra.ph/file/773c0621ba947a42c37e8.jpg",
+        "https://telegra.ph/file/94be27faccf0fe8a9548b.jpg",
+        "https://telegra.ph/file/ea0fa8a63911aedacb9a6.jpg",
+        "https://telegra.ph/file/8a20577cb4b1d9227d45f.jpg",
+        "https://telegra.ph/file/68629bb3879cd676cf3a8.jpg",
+        "https://telegra.ph/file/b47bc300d28a13223061c.jpg",
+        "https://telegra.ph/file/f79b23d0cf24db23043a1.jpg",
+        "https://telegra.ph/file/531eb598f2c2e8fffcdcf.jpg",
+        "https://telegra.ph/file/18df600be04a75957e2c8.jpg",
+        "https://telegra.ph/file/a80e08b176ec06feb002e.jpg",
+        "https://telegra.ph/file/e8230ebe80146dc80acbb.jpg",
+        "https://telegra.ph/file/eae3a99f6c76c02fcc85b.jpg",
+        "https://telegra.ph/file/5d55e795556d3b3af6196.jpg",
+        "https://telegra.ph/file/ac42dba024ef2cac2d4ff.jpg",
+        "https://telegra.ph/file/c5d4d90829c5eac67cef5.jpg",
+        "https://telegra.ph/file/d71428eaad28d559dbaab.jpg",
+        "https://telegra.ph/file/cb89cd4926cc29982bb70.jpg",
+        "https://telegra.ph/file/4e5b6fea08365eb163fc3.jpg",
+        "https://telegra.ph/file/50f035e10c59e07ad7969.jpg",
+        "https://telegra.ph/file/d7bc6b94c6975ac07e2d9.jpg",
+        "https://telegra.ph/file/1bf19f9ec7ffa1a0b5347.jpg",
+        "https://telegra.ph/file/10cb1fb70ca6b30f87f07.jpg",
+        "https://telegra.ph/file/141864f569580bc807c0c.jpg",
+        "https://telegra.ph/file/c1fed46861a05ca6a9fda.jpg",
+        "https://telegra.ph/file/2ab0bc48631ece2c2708c.jpg",
+        "https://telegra.ph/file/1805d9028ee7bda4c15e5.jpg",
+        "https://telegra.ph/file/cdb23a54fafeb4aeffa68.jpg",
+        "https://telegra.ph/file/5df586c97ec9c70ee51f9.jpg",
+        "https://telegra.ph/file/0dd390974a0f82f9e4710.jpg",
+        "https://telegra.ph/file/87509caf52900b49cee37.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

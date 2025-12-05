@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6542,
+    "title": "鹿野希  2021.10.04  さあ、私に触れて",
+    "sourceUrl": "https://telegra.ph/鹿野希-20211004-さあ私に触れて-08-27",
+    "images": [
+        "https://telegra.ph/file/83ba520b40da5a1f1c0f9.jpg",
+        "https://telegra.ph/file/27b65712df4b763465045.jpg",
+        "https://telegra.ph/file/f41e22c91157e97a9f384.jpg",
+        "https://telegra.ph/file/ed078e23f85a9265c1663.jpg",
+        "https://telegra.ph/file/205678b99705893b95a8a.jpg",
+        "https://telegra.ph/file/d78c9e0ee2396e5ee667d.jpg",
+        "https://telegra.ph/file/b8d53154b7652e288a4ad.jpg",
+        "https://telegra.ph/file/4db2199d4321b72f8a40f.jpg",
+        "https://telegra.ph/file/38ddd714a4450f37f3cdd.jpg",
+        "https://telegra.ph/file/c6625cf1e95f30026a2cb.jpg",
+        "https://telegra.ph/file/3975e88363973312e2748.jpg",
+        "https://telegra.ph/file/73fc4f61fdd7546be9752.jpg",
+        "https://telegra.ph/file/cd64c708bcc89af2c3384.jpg",
+        "https://telegra.ph/file/b074c22f0d4dd5de2bf73.jpg",
+        "https://telegra.ph/file/c4d18e24c764dc655e707.jpg",
+        "https://telegra.ph/file/807c2dad641c3636b2631.jpg",
+        "https://telegra.ph/file/33d9c9c201b5c8b97b0d4.jpg",
+        "https://telegra.ph/file/c372d875c7e04b47156b7.jpg",
+        "https://telegra.ph/file/e2dcbccb39ff90b05e7c4.jpg",
+        "https://telegra.ph/file/99ee4eefbae8def73fa5f.jpg",
+        "https://telegra.ph/file/40fd15e73ee68a642d618.jpg",
+        "https://telegra.ph/file/c5b1becb24f169287d754.jpg",
+        "https://telegra.ph/file/80ca69073f5b74e46a83f.jpg",
+        "https://telegra.ph/file/c2b919ac08c677ae62071.jpg",
+        "https://telegra.ph/file/e420930d05e15f41f02b6.jpg",
+        "https://telegra.ph/file/553e839bc651020569a29.jpg",
+        "https://telegra.ph/file/598a45697ee4b626b9176.jpg",
+        "https://telegra.ph/file/22d13ef6f5dc8aa0a21a0.jpg",
+        "https://telegra.ph/file/972f52af744261e2ffcb0.jpg",
+        "https://telegra.ph/file/83195e8d6f77e64a2f10c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

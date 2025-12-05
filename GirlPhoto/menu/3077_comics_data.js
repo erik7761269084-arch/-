@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3077,
+    "title": "啊日日_Ganlory - 奶光",
+    "sourceUrl": "https://telegra.ph/啊日日-Ganlory---奶光-08-27",
+    "images": [
+        "https://telegra.ph/file/5cca562563a9ae8ccacfd.jpg",
+        "https://telegra.ph/file/01e30089fbacb5db32e24.jpg",
+        "https://telegra.ph/file/74721403913fc9b48ce1b.jpg",
+        "https://telegra.ph/file/21c1878ca1b75063f7010.jpg",
+        "https://telegra.ph/file/47fc734246a0f81fdd041.jpg",
+        "https://telegra.ph/file/0be6226c874e59e622a87.jpg",
+        "https://telegra.ph/file/65d044a1b6e1e2e27a686.jpg",
+        "https://telegra.ph/file/820439d7ebb84e03607cb.jpg",
+        "https://telegra.ph/file/75d05af41c85b9af3dfe8.jpg",
+        "https://telegra.ph/file/b3f33528d175903c73aa1.jpg",
+        "https://telegra.ph/file/37f1acce1373f7c2a50fb.jpg",
+        "https://telegra.ph/file/7a70ab9647f0d78c9a4ea.jpg",
+        "https://telegra.ph/file/f790781a937c5fcfdb11d.jpg",
+        "https://telegra.ph/file/c683ad9789ee0179c1dfd.jpg",
+        "https://telegra.ph/file/bb225282c14b518abfc3f.jpg",
+        "https://telegra.ph/file/9a5d3f6eb60b02366a3dc.jpg",
+        "https://telegra.ph/file/800802a56a136d494ac54.jpg",
+        "https://telegra.ph/file/b7426ee77eb70d519e26c.jpg",
+        "https://telegra.ph/file/22dbacc74e69f377ebad8.jpg",
+        "https://telegra.ph/file/c678d9640df5d9708bcbf.jpg",
+        "https://telegra.ph/file/c422a0db5c4ed6aae79c9.jpg",
+        "https://telegra.ph/file/50842a547cebab6691aec.jpg",
+        "https://telegra.ph/file/9296317ba8da4335adb9d.jpg",
+        "https://telegra.ph/file/2ce4907e76f7ed484c6d8.jpg",
+        "https://telegra.ph/file/c8f720ca0d2a32201919b.jpg",
+        "https://telegra.ph/file/45e9b615b949d69cb2969.jpg",
+        "https://telegra.ph/file/fcbca8371dd5629792e7c.jpg",
+        "https://telegra.ph/file/d19c95214bccb6b86a86e.jpg",
+        "https://telegra.ph/file/1c1782da48f5b20067b41.jpg",
+        "https://telegra.ph/file/1ce41efae4a91cb09b38d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

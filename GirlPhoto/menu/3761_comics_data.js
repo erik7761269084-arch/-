@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3761,
+    "title": "沖田凜花Rinka - 雷電將軍",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---雷電將軍-08-27",
+    "images": [
+        "https://telegra.ph/file/48bc78d049f0fee4cfa65.jpg",
+        "https://telegra.ph/file/013b5beb339da4af6b753.jpg",
+        "https://telegra.ph/file/d834f99c254f6f6c7d4d4.jpg",
+        "https://telegra.ph/file/584b1f64f2381410d1d6e.jpg",
+        "https://telegra.ph/file/f141b93bad3ffb4e78a2d.jpg",
+        "https://telegra.ph/file/33dbbd34c66891fc2ea98.jpg",
+        "https://telegra.ph/file/e327a166885387ccde832.jpg",
+        "https://telegra.ph/file/e779d0742f2760ec21f7d.jpg",
+        "https://telegra.ph/file/6c8d99a2b2a86d181ccb4.jpg",
+        "https://telegra.ph/file/e20fbfceb1835ccf37f99.jpg",
+        "https://telegra.ph/file/c749b3327213ed121d957.jpg",
+        "https://telegra.ph/file/18213b81b508c08ee8075.jpg",
+        "https://telegra.ph/file/83843db733a597e45625e.jpg",
+        "https://telegra.ph/file/f7f9a1304e93b02e22b7c.jpg",
+        "https://telegra.ph/file/8ab849ae71e5a97115dba.jpg",
+        "https://telegra.ph/file/a3215a2713cfe98afa4b9.jpg",
+        "https://telegra.ph/file/24e4ab01dc3fc9ba0ea12.jpg",
+        "https://telegra.ph/file/f523f1df81a73bb6a75e9.jpg",
+        "https://telegra.ph/file/7f624d42e2e7a6b0b1ca6.jpg",
+        "https://telegra.ph/file/9ac865ac8aea935be1c51.jpg",
+        "https://telegra.ph/file/3e5eb397fc217f13d0157.jpg",
+        "https://telegra.ph/file/225c855e3038313ea1314.jpg",
+        "https://telegra.ph/file/2ea4dde1b1171348c6390.jpg",
+        "https://telegra.ph/file/44c73c3c0d09324c8fef1.jpg",
+        "https://telegra.ph/file/5ffdf3ad757dcc1b6dddc.jpg",
+        "https://telegra.ph/file/e1b7b881ae35f0c4cbb39.jpg",
+        "https://telegra.ph/file/40ca03e4d42020cd8da4c.jpg",
+        "https://telegra.ph/file/474122ae2a242f0d06e73.jpg",
+        "https://telegra.ph/file/233ae38e6ea5813f4b4b0.jpg",
+        "https://telegra.ph/file/803dc33160baf7e20f3ee.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

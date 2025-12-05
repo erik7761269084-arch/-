@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4100,
+    "title": "蠢沫沫 - 小学妹",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---小学妹-08-29",
+    "images": [
+        "https://telegra.ph/file/66800670cea4e73c20b43.jpg",
+        "https://telegra.ph/file/2b40f74dd6437a85beed7.jpg",
+        "https://telegra.ph/file/c48f2882eba616af0ca22.jpg",
+        "https://telegra.ph/file/b622b608eeca31c5224fd.jpg",
+        "https://telegra.ph/file/1e4d4601dd3fb6d0958fe.jpg",
+        "https://telegra.ph/file/7518da068499c5c4560c0.jpg",
+        "https://telegra.ph/file/75a238f04f1f8623f1186.jpg",
+        "https://telegra.ph/file/e950f0a7386cbd24df784.jpg",
+        "https://telegra.ph/file/5e81ed2eb90cffc146912.jpg",
+        "https://telegra.ph/file/62618d21a5832b6b57dd4.jpg",
+        "https://telegra.ph/file/5ac7db9ffa5838ca49d18.jpg",
+        "https://telegra.ph/file/f4eac50abe509b7b85b7d.jpg",
+        "https://telegra.ph/file/1418ed4556449c76485b6.jpg",
+        "https://telegra.ph/file/08d9db755638293aebd88.jpg",
+        "https://telegra.ph/file/3eea0c8c1f7454d2bf3dc.jpg",
+        "https://telegra.ph/file/08e21ff8ad4a08e62dc61.jpg",
+        "https://telegra.ph/file/e8d618938285e825c03d0.jpg",
+        "https://telegra.ph/file/2b36ca6d0161bb78b27c4.jpg",
+        "https://telegra.ph/file/ab7dc45030665e447eb1f.jpg",
+        "https://telegra.ph/file/c0037afcbb5c18c3b5b5b.jpg",
+        "https://telegra.ph/file/363b18461f06ca10dbee6.jpg",
+        "https://telegra.ph/file/62bca70947e6b6d79d8e5.jpg",
+        "https://telegra.ph/file/e7ea856d464a07bdc262b.jpg",
+        "https://telegra.ph/file/d980273a7fd38a43d5c9a.jpg",
+        "https://telegra.ph/file/d07dde0b54a83cedd026e.jpg",
+        "https://telegra.ph/file/02b76c431722a9115af4f.jpg",
+        "https://telegra.ph/file/8991a899f695027666e8a.jpg",
+        "https://telegra.ph/file/d3cac440e00cb459605da.jpg",
+        "https://telegra.ph/file/e46f370fe5de68f3a9278.jpg",
+        "https://telegra.ph/file/3b78a42b97a0b4b1ed407.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

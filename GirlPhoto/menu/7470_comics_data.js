@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7470,
+    "title": "爆机少女喵小吉 碧蓝航线-大凤",
+    "sourceUrl": "https://telegra.ph/碧蓝航线-大凤-08-26",
+    "images": [
+        "https://telegra.ph/file/472a638c78c72f198bc81.jpg",
+        "https://telegra.ph/file/bdfb9438219d09b4a5778.jpg",
+        "https://telegra.ph/file/234eb49460a218911643a.jpg",
+        "https://telegra.ph/file/c882f1891cc45e4393a24.jpg",
+        "https://telegra.ph/file/574221adbea1e1f753757.jpg",
+        "https://telegra.ph/file/7e71416d1271adf462d6b.jpg",
+        "https://telegra.ph/file/7a7dc0e8ccb27b1480369.jpg",
+        "https://telegra.ph/file/abdbdce3ea799b73cb876.jpg",
+        "https://telegra.ph/file/25415c93351f71b9dc94c.jpg",
+        "https://telegra.ph/file/1e2f6cab74e1ddf097a98.jpg",
+        "https://telegra.ph/file/ef26692e713bb4c7b0f1b.jpg",
+        "https://telegra.ph/file/f4ff07d87f3ab1dc148d2.jpg",
+        "https://telegra.ph/file/4603baab341382e1eb5b8.jpg",
+        "https://telegra.ph/file/27b04074ba43b3f647277.jpg",
+        "https://telegra.ph/file/b8ecd22a9376f59bcc27a.jpg",
+        "https://telegra.ph/file/35b229946f1e1031d21d7.jpg",
+        "https://telegra.ph/file/0fb545a03db62370732d8.jpg",
+        "https://telegra.ph/file/a82d877c6f9944dd05855.jpg",
+        "https://telegra.ph/file/d03abaf1cfc4f32fc0fd2.jpg",
+        "https://telegra.ph/file/7ddf0b2cddb201609aa0e.jpg",
+        "https://telegra.ph/file/0e1ae8c6f6390862fdf8a.jpg",
+        "https://telegra.ph/file/cd7e6db8d8d5571396a00.jpg",
+        "https://telegra.ph/file/bd75cf87a3aa46fe7fb18.jpg",
+        "https://telegra.ph/file/ffd3adf1a10d9dab53844.jpg",
+        "https://telegra.ph/file/3352b6c7a68420054aaa9.jpg",
+        "https://telegra.ph/file/27e11f13f1f9f517d06a0.jpg",
+        "https://telegra.ph/file/2f1a857ed6fdb74e515da.jpg",
+        "https://telegra.ph/file/427b7900ac419b305b696.jpg",
+        "https://telegra.ph/file/875694561ebdaa11635a2.jpg",
+        "https://telegra.ph/file/f2437b2f48f272e8a1ba7.jpg",
+        "https://telegra.ph/file/8cc6011fd1a25836cd945.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

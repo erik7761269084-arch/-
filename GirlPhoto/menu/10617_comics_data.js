@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10617,
+    "title": "夏树 - 夏树的奇妙之旅",
+    "sourceUrl": "https://telegra.ph/夏树---夏树的奇妙之旅-08-27",
+    "images": [
+        "https://telegra.ph/file/b89a7914558114a796a03.jpg",
+        "https://telegra.ph/file/63892d1587280ebb7d399.jpg",
+        "https://telegra.ph/file/84ceb8b8ee753b878a9a1.jpg",
+        "https://telegra.ph/file/0f283f0a756d07ca8dc8b.jpg",
+        "https://telegra.ph/file/73f29e18bf79271ee1720.jpg",
+        "https://telegra.ph/file/eee8035614ba3490c344e.jpg",
+        "https://telegra.ph/file/e9cb10ce395c6c83a63f1.jpg",
+        "https://telegra.ph/file/0fc3d75977544276a5aa2.jpg",
+        "https://telegra.ph/file/6afcd787518536081530e.jpg",
+        "https://telegra.ph/file/aa9ae375ef658a3fc1075.jpg",
+        "https://telegra.ph/file/f85ae5bed5449a463e619.jpg",
+        "https://telegra.ph/file/f1e6e934dff5d9d0cd8af.jpg",
+        "https://telegra.ph/file/6c52a3859631c0e232a42.jpg",
+        "https://telegra.ph/file/9129dd4b9d6ac77de1bdd.jpg",
+        "https://telegra.ph/file/a39adeb7852d507121017.jpg",
+        "https://telegra.ph/file/bd7f1b25c49b0c61bfcf4.jpg",
+        "https://telegra.ph/file/0755d19c577044e1ac41e.jpg",
+        "https://telegra.ph/file/28ccb1889da5db0050c4d.jpg",
+        "https://telegra.ph/file/8773c2c4160766b392fe3.jpg",
+        "https://telegra.ph/file/989ef5eb1b040dd6522e5.jpg",
+        "https://telegra.ph/file/1bbddf4e980b60341a297.jpg",
+        "https://telegra.ph/file/3c87fef7ea8eacbbdf854.jpg",
+        "https://telegra.ph/file/65ee9a35abc7e972cfe03.jpg",
+        "https://telegra.ph/file/c86f02c8d6c6bc6f5916c.jpg",
+        "https://telegra.ph/file/dcc7947ddb594bb6541fc.jpg",
+        "https://telegra.ph/file/75f06c09d6ffb50acdde4.jpg",
+        "https://telegra.ph/file/fd077f8ca90acbb6becae.jpg",
+        "https://telegra.ph/file/3db4ce0de1ca89f797afa.jpg",
+        "https://telegra.ph/file/66e1a67277ba23a1888ec.jpg",
+        "https://telegra.ph/file/81ac02d2bf6914b172250.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

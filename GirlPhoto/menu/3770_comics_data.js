@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3770,
+    "title": "沖田凜花Rinka - Yuudachi",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---Yuudachi-08-27",
+    "images": [
+        "https://telegra.ph/file/b9fae5d0034487534e4fa.jpg",
+        "https://telegra.ph/file/14922c528fc0726bfa287.jpg",
+        "https://telegra.ph/file/a64daff09ca56ef3939f6.jpg",
+        "https://telegra.ph/file/dd384febfe731d28cea91.jpg",
+        "https://telegra.ph/file/abf1c5113ab03bddfbc0e.jpg",
+        "https://telegra.ph/file/f9a221ad6f75bd0958316.jpg",
+        "https://telegra.ph/file/3feb3121671f29fd1b8b2.jpg",
+        "https://telegra.ph/file/647f5d8930c8b9cff90f8.jpg",
+        "https://telegra.ph/file/e319690e24cb744b8ef91.jpg",
+        "https://telegra.ph/file/8a2a1e22003fb9442ed6d.jpg",
+        "https://telegra.ph/file/998758e75a1bc1db00632.jpg",
+        "https://telegra.ph/file/4e85c157cc943d8735219.jpg",
+        "https://telegra.ph/file/48f621ca57284ede8cf41.jpg",
+        "https://telegra.ph/file/f05308c94b687a2e9164a.jpg",
+        "https://telegra.ph/file/717202b7911fa1e1adeeb.jpg",
+        "https://telegra.ph/file/4b909fee1d523f0e6875f.jpg",
+        "https://telegra.ph/file/16e5ca7476092d3ab8149.jpg",
+        "https://telegra.ph/file/311ea5711f77b14a6e903.jpg",
+        "https://telegra.ph/file/0dfb172b4ae60f2e44ea8.jpg",
+        "https://telegra.ph/file/f788c80cda37b62fa7335.jpg",
+        "https://telegra.ph/file/1849148740e29cba63d82.jpg",
+        "https://telegra.ph/file/3054d65b138acba0c1412.jpg",
+        "https://telegra.ph/file/17d0bc1f31156c88b3fd1.jpg",
+        "https://telegra.ph/file/1dda8e237fc916a8c2b74.jpg",
+        "https://telegra.ph/file/544d38f09738ae65fd0d6.jpg",
+        "https://telegra.ph/file/aae6b04d6f66ff5b46bf9.jpg",
+        "https://telegra.ph/file/45e8236a95a60ee874967.jpg",
+        "https://telegra.ph/file/1144a18d929908468039f.jpg",
+        "https://telegra.ph/file/98fc2d3c49b28a1ec614f.jpg",
+        "https://telegra.ph/file/7ca45a97f4a18c251268a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

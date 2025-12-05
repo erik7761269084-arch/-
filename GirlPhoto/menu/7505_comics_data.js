@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7505,
+    "title": "爆机少女喵小吉：实习护士",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉实习护士-08-29",
+    "images": [
+        "https://telegra.ph/file/6250c4e603884b3a68748.jpg",
+        "https://telegra.ph/file/5b9a5ace7773bbe77e9e5.jpg",
+        "https://telegra.ph/file/6ca036b30320f746c3c80.jpg",
+        "https://telegra.ph/file/ac6c7fc0a334fb3ce9bc5.jpg",
+        "https://telegra.ph/file/04c1d3b472b960a8c499b.jpg",
+        "https://telegra.ph/file/55a68c26950e1bea58965.jpg",
+        "https://telegra.ph/file/fe34a75a92d0c65af1b54.jpg",
+        "https://telegra.ph/file/4b8c2d9b9c7cf9719dcb2.jpg",
+        "https://telegra.ph/file/0c6d3e1cfe0a84776b869.jpg",
+        "https://telegra.ph/file/de0491b618f813905d9e1.jpg",
+        "https://telegra.ph/file/89a2cd04eaaf40463f576.jpg",
+        "https://telegra.ph/file/6b5d43151609daff568a2.jpg",
+        "https://telegra.ph/file/8345eeb7875871b385bcd.jpg",
+        "https://telegra.ph/file/2504daf7ffeeef23cea8d.jpg",
+        "https://telegra.ph/file/b8930e543105c8c585249.jpg",
+        "https://telegra.ph/file/ebac311c8e1db3153cf1d.jpg",
+        "https://telegra.ph/file/8482e086068cf6987aba5.jpg",
+        "https://telegra.ph/file/28cc9033692b95c7be33f.jpg",
+        "https://telegra.ph/file/21bc63abd857ecf2b316c.jpg",
+        "https://telegra.ph/file/4ec58f8c98bcd510dfffc.jpg",
+        "https://telegra.ph/file/6ad46d8f6fecd4907170e.jpg",
+        "https://telegra.ph/file/430d7ac1ef2a7b2867a8d.jpg",
+        "https://telegra.ph/file/1783419fc29b9f02c3170.jpg",
+        "https://telegra.ph/file/e33f6406e3fd720325819.jpg",
+        "https://telegra.ph/file/1fe0257ef784a9bc2875b.jpg",
+        "https://telegra.ph/file/941927f40ea5c75e5b03b.jpg",
+        "https://telegra.ph/file/b0b616c6029f20b073695.jpg",
+        "https://telegra.ph/file/9683ad26f8de9ab6bf3d8.jpg",
+        "https://telegra.ph/file/a3df896edb172be40a76c.jpg",
+        "https://telegra.ph/file/fa0e37f6db24aa315503b.jpg",
+        "https://telegra.ph/file/4e472318f09a3a2d0dd2d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

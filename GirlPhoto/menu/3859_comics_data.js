@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3859,
+    "title": "蠢沫沫 课间",
+    "sourceUrl": "https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB-%E8%AF%BE%E9%97%B4-08-23",
+    "images": [
+        "https://telegra.ph/file/4157c311461b00e4303b6.jpg",
+        "https://telegra.ph/file/84bf5c106dfcd37f5817a.jpg",
+        "https://telegra.ph/file/2b79f34864516d34c2e06.jpg",
+        "https://telegra.ph/file/7517fe727fa3ff0d92f9a.jpg",
+        "https://telegra.ph/file/0d098fc773fefaf9c435c.jpg",
+        "https://telegra.ph/file/570f9b157de3f1334fd50.jpg",
+        "https://telegra.ph/file/4489884596bfc51480714.jpg",
+        "https://telegra.ph/file/2cbaec616bc330e7212f7.jpg",
+        "https://telegra.ph/file/635585519eaa8a036765c.jpg",
+        "https://telegra.ph/file/8e427846913e06e2901b5.jpg",
+        "https://telegra.ph/file/9f879768c03613d741c36.jpg",
+        "https://telegra.ph/file/a1a96c03f6c23df1224c7.jpg",
+        "https://telegra.ph/file/02ae2c9b6e7c516659fea.jpg",
+        "https://telegra.ph/file/b7db57504ac44a4cef8ba.jpg",
+        "https://telegra.ph/file/9fb2713749db283b1432b.jpg",
+        "https://telegra.ph/file/15c231e9190bb7a6574a4.jpg",
+        "https://telegra.ph/file/81564d912888a14d92135.jpg",
+        "https://telegra.ph/file/99c818978cca2ab459bd2.jpg",
+        "https://telegra.ph/file/96da52f75b304ef18dc98.jpg",
+        "https://telegra.ph/file/34db252e445d16de008d2.jpg",
+        "https://telegra.ph/file/eabd0dbf97840a8931d35.jpg",
+        "https://telegra.ph/file/ee3603d521259d33960ac.jpg",
+        "https://telegra.ph/file/bde2b00cc3eb5dfa054a0.jpg",
+        "https://telegra.ph/file/5ff5bb5afe246942de527.jpg",
+        "https://telegra.ph/file/63349ba0b74a3e53bb7ca.jpg",
+        "https://telegra.ph/file/aae3bb9f271e319dbc48a.jpg",
+        "https://telegra.ph/file/30b2ca9866ac3d2d210c3.jpg",
+        "https://telegra.ph/file/a3b1ff918b547513e50be.jpg",
+        "https://telegra.ph/file/4a17343ea9145d6da1984.jpg",
+        "https://telegra.ph/file/ba70cdc92ee2e5c0b3ab0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

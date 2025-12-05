@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10893,
+    "title": "小和甜酒 – 魔理沙",
+    "sourceUrl": "https://telegra.ph/小和甜酒--魔理沙-08-29",
+    "images": [
+        "https://telegra.ph/file/28e8caac8e423cd5c7fc6.jpg",
+        "https://telegra.ph/file/b89516d31d0588b24bda7.jpg",
+        "https://telegra.ph/file/2819190426bf3e31783fe.jpg",
+        "https://telegra.ph/file/9a43ab284da5e7dcfdec9.jpg",
+        "https://telegra.ph/file/f623b616a21119295f056.jpg",
+        "https://telegra.ph/file/10a0d244402506919086c.jpg",
+        "https://telegra.ph/file/35a29ac75f4d30eaf47e0.jpg",
+        "https://telegra.ph/file/d745505bc714ebaffc3fb.jpg",
+        "https://telegra.ph/file/a63ddc4e30284b0236f64.jpg",
+        "https://telegra.ph/file/115d671f7af975cb5c153.jpg",
+        "https://telegra.ph/file/c0c0858297f44a04492f2.jpg",
+        "https://telegra.ph/file/6736f3559572d3cbbf754.jpg",
+        "https://telegra.ph/file/5591edab47709509ab829.jpg",
+        "https://telegra.ph/file/7a5efa946b5d6ed5dc843.jpg",
+        "https://telegra.ph/file/59021cbef46efd922d6fc.jpg",
+        "https://telegra.ph/file/4a2bb811deae6e3785124.jpg",
+        "https://telegra.ph/file/2ba9d16ccadf32cff6553.jpg",
+        "https://telegra.ph/file/1b107bb980cd2cc576caa.jpg",
+        "https://telegra.ph/file/6a72c3b973a16ee800642.jpg",
+        "https://telegra.ph/file/1d8370990ac969b26f9f0.jpg",
+        "https://telegra.ph/file/92c1a3ac9f2bdcfa72dab.jpg",
+        "https://telegra.ph/file/c05cd7feca7bb2cacd462.jpg",
+        "https://telegra.ph/file/ed6a4e74c5c7dae9e4abf.jpg",
+        "https://telegra.ph/file/2870f3032f854e3912d58.jpg",
+        "https://telegra.ph/file/50b02a51635965e5395ec.jpg",
+        "https://telegra.ph/file/dfde506fb88a0aa2d796f.jpg",
+        "https://telegra.ph/file/05c6574e9f231349c6d71.jpg",
+        "https://telegra.ph/file/010dc99039991717104eb.jpg",
+        "https://telegra.ph/file/3a8f2b211eda7b2f3db29.jpg",
+        "https://telegra.ph/file/e0ec2bcfafd9b044c474c.jpg",
+        "https://telegra.ph/file/c81966bb5f501c626dfef.jpg",
+        "https://telegra.ph/file/cb85bb52166d4f7783be6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

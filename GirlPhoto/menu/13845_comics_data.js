@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13845,
+    "title": "周叽是可爱兔兔 - 体操服",
+    "sourceUrl": "https://telegra.ph/周叽是可爱兔兔---体操服-08-28",
+    "images": [
+        "https://telegra.ph/file/ab19b303b738abc835344.jpg",
+        "https://telegra.ph/file/7996fb648dc0a84ab4dec.jpg",
+        "https://telegra.ph/file/6d854d156830feed04dc8.jpg",
+        "https://telegra.ph/file/ade6b94a4a40b5acb62cc.jpg",
+        "https://telegra.ph/file/b7e1b508d2371a22392b1.jpg",
+        "https://telegra.ph/file/c18928f9202b3b378155c.jpg",
+        "https://telegra.ph/file/9d88cd68321e7d78b0588.jpg",
+        "https://telegra.ph/file/fda29f7da0882eb224ad3.jpg",
+        "https://telegra.ph/file/d4b6a1637c93b881dc16b.jpg",
+        "https://telegra.ph/file/46e42851fdf7e17d5649b.jpg",
+        "https://telegra.ph/file/9afd409f28dcf79eae9b5.jpg",
+        "https://telegra.ph/file/19743f6fc04a49b9544f0.jpg",
+        "https://telegra.ph/file/0f4158290ec4da31a3e03.jpg",
+        "https://telegra.ph/file/24610b972201d9b4e6b2d.jpg",
+        "https://telegra.ph/file/4914250ec6b2195b33850.jpg",
+        "https://telegra.ph/file/5f6a37c7c7a115d7fbc66.jpg",
+        "https://telegra.ph/file/804ffff8ed228ac24a28d.jpg",
+        "https://telegra.ph/file/edebf2636fead9841891d.jpg",
+        "https://telegra.ph/file/1429bd70cc61d7dfeedf9.jpg",
+        "https://telegra.ph/file/42a09cd5a8130636fdc68.jpg",
+        "https://telegra.ph/file/4d10b68f7bafbf5a903a2.jpg",
+        "https://telegra.ph/file/20f418a3bb68fd303d916.jpg",
+        "https://telegra.ph/file/2d10537dca96f66863b45.jpg",
+        "https://telegra.ph/file/847d9e43726a6edf40088.jpg",
+        "https://telegra.ph/file/4077c13e1eb62a10369c8.jpg",
+        "https://telegra.ph/file/bcdbde64ee4f8821870f3.jpg",
+        "https://telegra.ph/file/d316b197dd0a071fb2fee.jpg",
+        "https://telegra.ph/file/6c7d09ef36676f3101fcf.jpg",
+        "https://telegra.ph/file/55ca691c0b83ddb5fca34.jpg",
+        "https://telegra.ph/file/c6eff08b91c6fd0777a58.jpg",
+        "https://telegra.ph/file/0635724b47eb627d2e632.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

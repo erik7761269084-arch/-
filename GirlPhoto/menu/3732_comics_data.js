@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3732,
+    "title": "沖田凜花Rinka - Nino [30P-122MB]",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---Nino-30P-122MB-08-26",
+    "images": [
+        "https://telegra.ph/file/38eb0f8fdd374cf8baf6e.jpg",
+        "https://telegra.ph/file/314f6fb2c234ffc4a4f18.jpg",
+        "https://telegra.ph/file/6bda3ea93f6c2d57131cb.jpg",
+        "https://telegra.ph/file/00fc45ae327db786d4778.jpg",
+        "https://telegra.ph/file/8a848bcc6e391e7af67f9.jpg",
+        "https://telegra.ph/file/76af4b792c0f57cfc1dfc.jpg",
+        "https://telegra.ph/file/32bbda6bef4a54043727e.jpg",
+        "https://telegra.ph/file/8ef7fc556cdc136862613.jpg",
+        "https://telegra.ph/file/fb5b7493bb9f23917d7ef.jpg",
+        "https://telegra.ph/file/4ddfda8bf5ef6f1c8f935.jpg",
+        "https://telegra.ph/file/6ecdec11fc1577aad9571.jpg",
+        "https://telegra.ph/file/c416727da8711d233dc75.jpg",
+        "https://telegra.ph/file/5ec60410138a41942fd83.jpg",
+        "https://telegra.ph/file/a6e4594d79dd65ba4a435.jpg",
+        "https://telegra.ph/file/426cd1589c04a40aeaaba.jpg",
+        "https://telegra.ph/file/62fa58e9052f9b584e6bc.jpg",
+        "https://telegra.ph/file/cfd45cc74dbcc4cff4b4c.jpg",
+        "https://telegra.ph/file/2e33a5dba81e7763a7c99.jpg",
+        "https://telegra.ph/file/0b74e3fea71e6a3519b00.jpg",
+        "https://telegra.ph/file/b9898bc6b411ab109d4d2.jpg",
+        "https://telegra.ph/file/32687fe535f3fd491457d.jpg",
+        "https://telegra.ph/file/b37aa0f4ed71492ba9753.jpg",
+        "https://telegra.ph/file/921ae7330d294df51c1ed.jpg",
+        "https://telegra.ph/file/d3d1a3d32691183b879d8.jpg",
+        "https://telegra.ph/file/cbf335ae663501f35ce8e.jpg",
+        "https://telegra.ph/file/e891145fd5937a0666b8c.jpg",
+        "https://telegra.ph/file/5713f2e8e0f22e6c5c65d.jpg",
+        "https://telegra.ph/file/e5db460f6cb23ff8e73a2.jpg",
+        "https://telegra.ph/file/88f3c8cb425a330a0349b.jpg",
+        "https://telegra.ph/file/cdcfebd2f423a0d9fad70.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 21524,
+    "title": "小薯条 保龄球",
+    "sourceUrl": "https://telegra.ph/小薯条-保龄球-08-29",
+    "images": [
+        "https://telegra.ph/file/5a649c81170ae956ba240.jpg",
+        "https://telegra.ph/file/c020e1cb185eef8043caa.jpg",
+        "https://telegra.ph/file/2a4646da8f936c83e48c5.jpg",
+        "https://telegra.ph/file/6f8f8dfc1ab98f23f85b7.jpg",
+        "https://telegra.ph/file/ed76dcdf449374972416e.jpg",
+        "https://telegra.ph/file/e3771168f06861ef67d7f.jpg",
+        "https://telegra.ph/file/0fdee40af6dab0d3344d5.jpg",
+        "https://telegra.ph/file/73475f0665f963fa0770a.jpg",
+        "https://telegra.ph/file/ca259cbaeb5821ca9e130.jpg",
+        "https://telegra.ph/file/c7c54e250d78bac8e8d87.jpg",
+        "https://telegra.ph/file/ffad0508d31ef594ed5df.jpg",
+        "https://telegra.ph/file/b3e805c994be9b8fe900c.jpg",
+        "https://telegra.ph/file/881cae42909a6a4a245ff.jpg",
+        "https://telegra.ph/file/607d80c9711475dd9e874.jpg",
+        "https://telegra.ph/file/78d08f5fc2d79a2843ad5.jpg",
+        "https://telegra.ph/file/07a2d0abe7d4ec112428d.jpg",
+        "https://telegra.ph/file/7cd08903ca5f103486cad.jpg",
+        "https://telegra.ph/file/5af362b8188924c1b9f69.jpg",
+        "https://telegra.ph/file/0456eeba1c6006b6e0789.jpg",
+        "https://telegra.ph/file/9737f90ee4141ef516bf4.jpg",
+        "https://telegra.ph/file/c6ae48f30df66fc2999c1.jpg",
+        "https://telegra.ph/file/1331c5210878f80c1731f.jpg",
+        "https://telegra.ph/file/76c5294b89bc541df60c4.jpg",
+        "https://telegra.ph/file/b8180f282f25da37f1c43.jpg",
+        "https://telegra.ph/file/ecfd64efedf1f98b30ffd.jpg",
+        "https://telegra.ph/file/4c14cdd73d1bfba1d302a.jpg",
+        "https://telegra.ph/file/7fcb42d72de638edf9cdd.jpg",
+        "https://telegra.ph/file/df0f88aaac9d7ed78cc6e.jpg",
+        "https://telegra.ph/file/6da257f09c16e6ff0b386.jpg",
+        "https://telegra.ph/file/1bf3800c82b2e2fae8aeb.jpg",
+        "https://telegra.ph/file/6d9961f875e6577e320c7.jpg",
+        "https://telegra.ph/file/78d5551e35a28c3fe1858.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

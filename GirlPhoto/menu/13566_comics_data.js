@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13566,
+    "title": "云溪溪 - 奶桃 冒险者图鉴-珊迦娜·人鱼",
+    "sourceUrl": "https://telegra.ph/云溪溪---奶桃-冒险者图鉴-珊迦娜人鱼-08-27",
+    "images": [
+        "https://telegra.ph/file/40c51c0102b75321bd118.jpg",
+        "https://telegra.ph/file/ec0d5929c8b513ca0a82e.jpg",
+        "https://telegra.ph/file/20200e86036a72ab03a81.jpg",
+        "https://telegra.ph/file/6d14770e1349b7d74603d.jpg",
+        "https://telegra.ph/file/14d8a757b98d8d7e21875.jpg",
+        "https://telegra.ph/file/f7f58374c43fd66c59201.jpg",
+        "https://telegra.ph/file/20a4f85713975be37927d.jpg",
+        "https://telegra.ph/file/ff1a445ed0fc8e9498242.jpg",
+        "https://telegra.ph/file/ba4e4b4228cb091f3260e.jpg",
+        "https://telegra.ph/file/f738b7322ae12ef1e6057.jpg",
+        "https://telegra.ph/file/dd667a577a9bbcb5ca94c.jpg",
+        "https://telegra.ph/file/2ea0f3b5291bba21dc381.jpg",
+        "https://telegra.ph/file/6ba3af889c5a90ec028e1.jpg",
+        "https://telegra.ph/file/2efb5080fb7a7eb5ed217.jpg",
+        "https://telegra.ph/file/46ab18ec6e03d1a4cccab.jpg",
+        "https://telegra.ph/file/c23066ba317729d77c1d7.jpg",
+        "https://telegra.ph/file/97f1d6359ad01971e8307.jpg",
+        "https://telegra.ph/file/4191b699653f0c9719939.jpg",
+        "https://telegra.ph/file/68fae148e69ee3dd45603.jpg",
+        "https://telegra.ph/file/a47530c9f53d8c240c4b6.jpg",
+        "https://telegra.ph/file/4da85a648779cf9371e8d.jpg",
+        "https://telegra.ph/file/cd7ea132784eabee144ab.jpg",
+        "https://telegra.ph/file/9645ebf24084c94e922c2.jpg",
+        "https://telegra.ph/file/2e3f0184b85216733f627.jpg",
+        "https://telegra.ph/file/52ad97564350789178175.jpg",
+        "https://telegra.ph/file/62a83812fb036093c89d7.jpg",
+        "https://telegra.ph/file/1d0b0d505ebcb77db220b.jpg",
+        "https://telegra.ph/file/18d2fd9a077765c620bac.jpg",
+        "https://telegra.ph/file/5898bdb3de97809249037.jpg",
+        "https://telegra.ph/file/4687cc6ad9ac77f6592c0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

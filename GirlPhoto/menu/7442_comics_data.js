@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 7442,
+    "title": "喵小吉 曙光爵银龙 拟人 （缺）",
+    "sourceUrl": "https://telegra.ph/喵小吉-曙光爵银龙-拟人-缺-08-25",
+    "images": [
+        "https://telegra.ph/file/973a35a8341ba641d4f96.jpg",
+        "https://telegra.ph/file/8be226a96a07e45098bc1.jpg",
+        "https://telegra.ph/file/4d2889773199c15a7c10b.jpg",
+        "https://telegra.ph/file/612f9f6c058a79851d9b9.jpg",
+        "https://telegra.ph/file/eaf3dae243e68c29ec863.jpg",
+        "https://telegra.ph/file/fef850796264a8e243518.jpg",
+        "https://telegra.ph/file/317cec6920caea6772f66.jpg",
+        "https://telegra.ph/file/cb07be8b88b0dab78a5da.jpg",
+        "https://telegra.ph/file/8811906f1520c57eb3752.jpg",
+        "https://telegra.ph/file/50f42e6476ffc918cc3a4.jpg",
+        "https://telegra.ph/file/f084b0ba844ac3c709399.jpg",
+        "https://telegra.ph/file/46a91788311a08d0a214a.jpg",
+        "https://telegra.ph/file/a3d021de5a0bfc0887119.jpg",
+        "https://telegra.ph/file/b6d29a77578663299e494.jpg",
+        "https://telegra.ph/file/d53114e75aca3617f56de.jpg",
+        "https://telegra.ph/file/94c24129dd6a8a81236ad.jpg",
+        "https://telegra.ph/file/fa51ff3d570a13f74053f.jpg",
+        "https://telegra.ph/file/27f07e26258deabb18e7e.jpg",
+        "https://telegra.ph/file/fd21b300baf24d623dd66.jpg",
+        "https://telegra.ph/file/c3e0ef1be5eb4740d3406.jpg",
+        "https://telegra.ph/file/36a583db651a95e907088.jpg",
+        "https://telegra.ph/file/bc9ac1367404b78d212a3.jpg",
+        "https://telegra.ph/file/500c7af6038642060d750.jpg",
+        "https://telegra.ph/file/82981ad672a70a14d1c83.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 953,
+    "title": "Hane Ame 雨波写真 - Hell's paradise 地獄樂-杠",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波写真---Hells-paradise-地獄樂-杠-08-27",
+    "images": [
+        "https://telegra.ph/file/f965a8174cc4f2f090c76.jpg",
+        "https://telegra.ph/file/40db30734313bcdf5bbfc.jpg",
+        "https://telegra.ph/file/54decb87520ccd319ce20.jpg",
+        "https://telegra.ph/file/ec5b0e04e1199da832abd.jpg",
+        "https://telegra.ph/file/54c4ad736972fd49494b1.jpg",
+        "https://telegra.ph/file/b8fb3a43a7ff6ef85806f.jpg",
+        "https://telegra.ph/file/caa06f477455acdf84f78.jpg",
+        "https://telegra.ph/file/02f188c24e9ee3d676290.jpg",
+        "https://telegra.ph/file/c7efa79f943bbba48a11f.jpg",
+        "https://telegra.ph/file/e7d82b9eece6baad6fb81.jpg",
+        "https://telegra.ph/file/1feae7628301a7601c06f.jpg",
+        "https://telegra.ph/file/60df3f513ba9ac5fb3fca.jpg",
+        "https://telegra.ph/file/0b9b8c7c5ff9dced17ce9.jpg",
+        "https://telegra.ph/file/860b031d9552d0505f1c6.jpg",
+        "https://telegra.ph/file/9e44c96b19d1405795f43.jpg",
+        "https://telegra.ph/file/8efaadd31608e510faf88.jpg",
+        "https://telegra.ph/file/d8e4766ff743539053e28.jpg",
+        "https://telegra.ph/file/c8765b9ed1b988cb025db.jpg",
+        "https://telegra.ph/file/501013ac6c3e9b5356f71.jpg",
+        "https://telegra.ph/file/0433011996bf553d22d13.jpg",
+        "https://telegra.ph/file/74d5c13b367a9905e0e09.jpg",
+        "https://telegra.ph/file/a1dc22a1dbcd2928bccd6.jpg",
+        "https://telegra.ph/file/817c3a8d3970518f35b19.jpg",
+        "https://telegra.ph/file/2038162fb6ea032c473c8.jpg",
+        "https://telegra.ph/file/edf95d2882ffdac0819a3.jpg",
+        "https://telegra.ph/file/6610b7089b036042f7f5a.jpg",
+        "https://telegra.ph/file/b5fcb09c72584e8bd1eea.jpg",
+        "https://telegra.ph/file/6bed3758e55c320dda8ed.jpg",
+        "https://telegra.ph/file/67982f1aa44e406935282.jpg",
+        "https://telegra.ph/file/5ea3f26b18d975432411c.jpg",
+        "https://telegra.ph/file/7863063dc75f3c4720336.jpg",
+        "https://telegra.ph/file/f560cdccdc752a47617e5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 5271,
+    "title": "果咩酱w 夏天 [24P-447MB]",
+    "sourceUrl": "https://telegra.ph/果咩酱w-夏天-24P-447MB-08-25",
+    "images": [
+        "https://telegra.ph/file/f4ceabfc3553200ef6065.jpg",
+        "https://telegra.ph/file/0c8380a206ac986aae277.jpg",
+        "https://telegra.ph/file/4e106d6f4299951b761e9.jpg",
+        "https://telegra.ph/file/69093004ec7d230611ae9.jpg",
+        "https://telegra.ph/file/0fa25f77bcfb18296d5c2.jpg",
+        "https://telegra.ph/file/f6ebf3d7693a7709b4e21.jpg",
+        "https://telegra.ph/file/402428324d74f3a6c2ce9.jpg",
+        "https://telegra.ph/file/d8431d9431f0df327c113.jpg",
+        "https://telegra.ph/file/d881cb93e9ff1100b5296.jpg",
+        "https://telegra.ph/file/f7574e80d4c2a049a07e5.jpg",
+        "https://telegra.ph/file/8f221a87f1002f168a041.jpg",
+        "https://telegra.ph/file/1b6e5c9fe054e247ef4f3.jpg",
+        "https://telegra.ph/file/c222309a95e10715bd2e3.jpg",
+        "https://telegra.ph/file/bd129d7e4d76bd73f4c1c.jpg",
+        "https://telegra.ph/file/a300bf71c660115489363.jpg",
+        "https://telegra.ph/file/9946466700ab6c68af5ef.jpg",
+        "https://telegra.ph/file/bb6ff5906e0d088963b22.jpg",
+        "https://telegra.ph/file/2a3a22b600ca875fa50d6.jpg",
+        "https://telegra.ph/file/e306b7495cbed56b9ae30.jpg",
+        "https://telegra.ph/file/24aca2fb201fcf0279f2e.jpg",
+        "https://telegra.ph/file/c0a907a02f6cc9271533e.jpg",
+        "https://telegra.ph/file/b711a52255d48e0a853b6.jpg",
+        "https://telegra.ph/file/1dd2d94d7d955e91f5833.jpg",
+        "https://telegra.ph/file/f69e058769c1118b7f8c5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

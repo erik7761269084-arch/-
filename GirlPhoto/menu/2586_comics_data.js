@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2586,
+    "title": "Uy Uy - Meiko-Prison School",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Meiko-Prison-School-08-27",
+    "images": [
+        "https://telegra.ph/file/1d792347c0f4db74701d0.jpg",
+        "https://telegra.ph/file/4a5014f39c90f4bb2d95e.jpg",
+        "https://telegra.ph/file/05d29b2c8c0a0029aaa80.jpg",
+        "https://telegra.ph/file/52e180f860605d10da693.jpg",
+        "https://telegra.ph/file/32a146b7b361be75b1ec3.jpg",
+        "https://telegra.ph/file/654aabb8ea7972076982d.jpg",
+        "https://telegra.ph/file/b0386bcd88ea48ed10860.jpg",
+        "https://telegra.ph/file/6dbea3d3d7e711c70cba6.jpg",
+        "https://telegra.ph/file/12f6e98f86065f1e2d4e5.jpg",
+        "https://telegra.ph/file/7c1937cd266d69b25a7e0.jpg",
+        "https://telegra.ph/file/baf3267048adbecfaed2e.jpg",
+        "https://telegra.ph/file/f283bafd7bc9e5d62b552.jpg",
+        "https://telegra.ph/file/2297701bcb8d11356dcf7.jpg",
+        "https://telegra.ph/file/3b9d41665dfc069e05d7d.jpg",
+        "https://telegra.ph/file/113e604e7f0b2d6ebcd1d.jpg",
+        "https://telegra.ph/file/7e1633e87fa90d3e3139e.jpg",
+        "https://telegra.ph/file/c506bd873179c0022a565.jpg",
+        "https://telegra.ph/file/103449c872ad93907f4b7.jpg",
+        "https://telegra.ph/file/3e728de589ad8f0d62fb4.jpg",
+        "https://telegra.ph/file/38e94efce1da9d0140283.jpg",
+        "https://telegra.ph/file/79ee169b4a9a4d4ac3e4b.jpg",
+        "https://telegra.ph/file/fcb816695b021be33e92f.jpg",
+        "https://telegra.ph/file/cda6b91578b49eba2ea53.jpg",
+        "https://telegra.ph/file/f25fe40f1da457d7743b8.jpg",
+        "https://telegra.ph/file/16667f0d9b7f3faee42e8.jpg",
+        "https://telegra.ph/file/5318d3ef04f9c972fa0b2.jpg",
+        "https://telegra.ph/file/dcfb297323b7b9661f4e2.jpg",
+        "https://telegra.ph/file/cf6e99f2b0e83e829098f.jpg",
+        "https://telegra.ph/file/1f9c7c59949d3f6afe0a7.jpg",
+        "https://telegra.ph/file/5fe43c65ead1593d846bf.jpg",
+        "https://telegra.ph/file/11a850009eba1d117fa68.jpg",
+        "https://telegra.ph/file/49277409c7476d242f0b9.jpg",
+        "https://telegra.ph/file/7381762d5421185f69ab8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

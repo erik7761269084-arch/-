@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5639,
+    "title": "虎森森  黑白小虎",
+    "sourceUrl": "https://telegra.ph/虎森森-黑白小虎-08-29",
+    "images": [
+        "https://telegra.ph/file/ec3336cc217ff5c15d6a9.jpg",
+        "https://telegra.ph/file/31542556686cd6b3002d8.jpg",
+        "https://telegra.ph/file/1a56a8f7a3ffe5ca8583b.jpg",
+        "https://telegra.ph/file/204cbcbab9abf8b11e8f4.jpg",
+        "https://telegra.ph/file/d9b81d3825b9c7db5fca9.jpg",
+        "https://telegra.ph/file/910bfb40775322f6ce55f.jpg",
+        "https://telegra.ph/file/169adf12cc7484a1e10b8.jpg",
+        "https://telegra.ph/file/f5a17002493c94b55038d.jpg",
+        "https://telegra.ph/file/1f32134b6ce0b1b55e943.jpg",
+        "https://telegra.ph/file/4feedfa39ab9f4eabc231.jpg",
+        "https://telegra.ph/file/d4d0e5553dc04d202c370.jpg",
+        "https://telegra.ph/file/b7c6c791c3df69ae5c15b.jpg",
+        "https://telegra.ph/file/ce5443dd2fe7972eb0570.jpg",
+        "https://telegra.ph/file/be2957edec1a36fa9abe3.jpg",
+        "https://telegra.ph/file/38d47f0a337e7c8eedd17.jpg",
+        "https://telegra.ph/file/4578d7c714cfb5cba4e07.jpg",
+        "https://telegra.ph/file/2df3f5a3a527ac2091292.jpg",
+        "https://telegra.ph/file/54f2a42366105860bd8a2.jpg",
+        "https://telegra.ph/file/74ca3e3185a2a1a3b36c3.jpg",
+        "https://telegra.ph/file/12ec78fd77596e84120ca.jpg",
+        "https://telegra.ph/file/5a7f3691c0ee5609c7c43.jpg",
+        "https://telegra.ph/file/3b92118bad5cb1f0f8e65.jpg",
+        "https://telegra.ph/file/225f2f2ef2dbd5b9f58bb.jpg",
+        "https://telegra.ph/file/74c241947f3662fe12fc9.jpg",
+        "https://telegra.ph/file/e069f8aad4633f25ff868.jpg",
+        "https://telegra.ph/file/ace8b5f3f7a03ee4ded34.jpg",
+        "https://telegra.ph/file/bf45053dbe223b537e0c3.jpg",
+        "https://telegra.ph/file/a004d054519e2fe4b5a9d.jpg",
+        "https://telegra.ph/file/2e57ff47e10fbade35450.jpg",
+        "https://telegra.ph/file/ab6fea8098f3cba3a1766.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

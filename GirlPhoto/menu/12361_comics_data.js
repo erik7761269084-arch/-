@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12361,
+    "title": "一米八的大梨子 债务偿还 [30P-256MB]",
+    "sourceUrl": "https://telegra.ph/债务偿还-30P-256MB-08-25",
+    "images": [
+        "https://telegra.ph/file/077727d4950100cb2ba9e.jpg",
+        "https://telegra.ph/file/872f771f346302c4bfec2.jpg",
+        "https://telegra.ph/file/7fa756e7370f3adb1206e.jpg",
+        "https://telegra.ph/file/1b5ddee5c7a74a037719b.jpg",
+        "https://telegra.ph/file/247d7aec6864769ee05a4.jpg",
+        "https://telegra.ph/file/4d82463e87e4ad692c0d1.jpg",
+        "https://telegra.ph/file/cc48768c56c0479042f98.jpg",
+        "https://telegra.ph/file/06ddd6805150d0f4135b1.jpg",
+        "https://telegra.ph/file/e2cedf12df1fb83fdce58.jpg",
+        "https://telegra.ph/file/688adcc06cd20b74815e7.jpg",
+        "https://telegra.ph/file/3f9e2320be460e49b8aac.jpg",
+        "https://telegra.ph/file/f9e48b9edd597d5819dc7.jpg",
+        "https://telegra.ph/file/9c71d24e0f9f47226e50f.jpg",
+        "https://telegra.ph/file/66fc9adcf8cf853db69f1.jpg",
+        "https://telegra.ph/file/da9f0b96c439604644c7e.jpg",
+        "https://telegra.ph/file/815499565be72ec2c6144.jpg",
+        "https://telegra.ph/file/9afad8a5cc18a3e06b250.jpg",
+        "https://telegra.ph/file/f62062a5492a780da9e3a.jpg",
+        "https://telegra.ph/file/3a74cb60a29d09d802a17.jpg",
+        "https://telegra.ph/file/dae70de6998a316bbc899.jpg",
+        "https://telegra.ph/file/e56a6a10dca0ae3fffe03.jpg",
+        "https://telegra.ph/file/a6126ae83fd90803d26bc.jpg",
+        "https://telegra.ph/file/b2bc3d0ffc62d42b9a587.jpg",
+        "https://telegra.ph/file/e41d4e87a6e7b90c583b3.jpg",
+        "https://telegra.ph/file/e6789367a2a4edd640b26.jpg",
+        "https://telegra.ph/file/04827f2b0bdf2cc5e6f90.jpg",
+        "https://telegra.ph/file/e49dfbba72bf1c47d9533.jpg",
+        "https://telegra.ph/file/966167b33ff338d014067.jpg",
+        "https://telegra.ph/file/c5ddb99bc2097b08c60b6.jpg",
+        "https://telegra.ph/file/a5983ef8ce33f06e26fdf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9770,
+    "title": "苏嫣嫣阿姨 女仆 31P1V",
+    "sourceUrl": "https://telegra.ph/%E8%8B%8F%E5%AB%A3%E5%AB%A3%E9%98%BF%E5%A7%A8-%E5%A5%B3%E4%BB%86-31P1V-08-21",
+    "images": [
+        "https://telegra.ph/file/a7672405faf201c37103c.jpg",
+        "https://telegra.ph/file/199153d60291971e77627.jpg",
+        "https://telegra.ph/file/7400fd4cc8e4e67da3a3c.jpg",
+        "https://telegra.ph/file/0ed1541c3b09dad16f547.jpg",
+        "https://telegra.ph/file/3d50610723d12b6a05351.jpg",
+        "https://telegra.ph/file/799ff90f47d2414dcadee.jpg",
+        "https://telegra.ph/file/58d00933760ea27219ecb.jpg",
+        "https://telegra.ph/file/76c66204e169a55753abe.jpg",
+        "https://telegra.ph/file/208d37d064a9c18f1a9be.jpg",
+        "https://telegra.ph/file/856f9b211cd3100c03e01.jpg",
+        "https://telegra.ph/file/23a38ae05f5a7716c61c8.jpg",
+        "https://telegra.ph/file/84171578cd66111d19646.jpg",
+        "https://telegra.ph/file/1c835d39dee945c5cf6fb.jpg",
+        "https://telegra.ph/file/fbcbabe5fefc888bdd0b3.jpg",
+        "https://telegra.ph/file/8ce225809dec2ddf8ea76.jpg",
+        "https://telegra.ph/file/64e15390e12014bd15e49.jpg",
+        "https://telegra.ph/file/ef2d4b9f67442ffee7e7f.jpg",
+        "https://telegra.ph/file/ad38fe7d1976cc4950948.jpg",
+        "https://telegra.ph/file/aa30fde3c1f21335a73ff.jpg",
+        "https://telegra.ph/file/6bf97513412bf68584ea2.jpg",
+        "https://telegra.ph/file/57531b30e0fed394bd697.jpg",
+        "https://telegra.ph/file/01a08ce764905a81e0858.jpg",
+        "https://telegra.ph/file/a5ee1b5b0cf44fa57b63e.jpg",
+        "https://telegra.ph/file/95a951e16cc817dbf9f50.jpg",
+        "https://telegra.ph/file/961db5bf958667a60b9de.jpg",
+        "https://telegra.ph/file/91278b364eb60158e50ce.jpg",
+        "https://telegra.ph/file/b8fe66136dfa435b3641a.jpg",
+        "https://telegra.ph/file/6291ca4248f7e66699d50.jpg",
+        "https://telegra.ph/file/4030924cd2f7f388c4d55.jpg",
+        "https://telegra.ph/file/22e247c6456e7caf7b186.jpg",
+        "https://telegra.ph/file/77f9831e1bc9bb5db34c1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

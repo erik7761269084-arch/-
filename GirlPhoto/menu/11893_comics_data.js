@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11893,
+    "title": "雪晴Astra - 利兹2",
+    "sourceUrl": "https://telegra.ph/%E9%9B%AA%E6%99%B4Astra---%E5%88%A9%E5%85%B92-08-19",
+    "images": [
+        "https://www.qpic.ws/images/2025/04/13/HwiUaU.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwinhC.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwi1Oo.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiGfQ.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiI1A.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiiQB.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwi7De.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwih5F.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwi3e3.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiRak.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiPYT.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwieh7.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwilSt.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwijfV.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwiqrb.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwio11.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwir5D.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwi6lu.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwizQJ.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiyYv.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiOx8.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwiSic.jpg",
+        "https://www.qpic.ws/images/2025/04/13/HwikSP.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwiptx.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hwis1p.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hw3Brh.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hw3cCd.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hw3gQO.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hw3AlG.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hw3ucH.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hw3CiU.jpg",
+        "https://www.qpic.ws/images/2025/04/13/Hw35xz.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

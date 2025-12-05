@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1596,
+    "title": "Natsuko夏夏子 22圣诞 30P1V",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90-22%E5%9C%A3%E8%AF%9E-30P1V-08-22",
+    "images": [
+        "https://telegra.ph/file/1561d671e191915f654dc.jpg",
+        "https://telegra.ph/file/ae5cb4c019002f3f1ace4.jpg",
+        "https://telegra.ph/file/6e071a295a201e929fee3.jpg",
+        "https://telegra.ph/file/0bd9f428064291b002635.jpg",
+        "https://telegra.ph/file/56eaa7ef1fe48eed1f7eb.jpg",
+        "https://telegra.ph/file/07ff561c3cacbb32bef00.jpg",
+        "https://telegra.ph/file/cb70a9a31c4a6169b1510.jpg",
+        "https://telegra.ph/file/5f9e0f4bbf261b103844a.jpg",
+        "https://telegra.ph/file/babf910ca8bbd7ced622d.jpg",
+        "https://telegra.ph/file/940b10e80e3bcd1e3c4f8.jpg",
+        "https://telegra.ph/file/fb040311b19b17c0b3d8b.jpg",
+        "https://telegra.ph/file/9fe46f3a744c34b0cb211.jpg",
+        "https://telegra.ph/file/9b1f9cbf8bd2e1ac43c9c.jpg",
+        "https://telegra.ph/file/2d8c51e9c9690d68bf42f.jpg",
+        "https://telegra.ph/file/a531aa156c596503f2a8a.jpg",
+        "https://telegra.ph/file/51d66747939a303999e17.jpg",
+        "https://telegra.ph/file/73e71f59e157070a52429.jpg",
+        "https://telegra.ph/file/c6baa938018de538e597d.jpg",
+        "https://telegra.ph/file/e636a4ca61f9cbacca41d.jpg",
+        "https://telegra.ph/file/e27e0ae0aa1cfc1867112.jpg",
+        "https://telegra.ph/file/81664a441232cdfc28c5d.jpg",
+        "https://telegra.ph/file/ca85a6942419544339f47.jpg",
+        "https://telegra.ph/file/f0ab2b411e6c09de96565.jpg",
+        "https://telegra.ph/file/d6d9078126084ab46782d.jpg",
+        "https://telegra.ph/file/8ffd94ee829a5c304fa83.jpg",
+        "https://telegra.ph/file/5f17411bf328dd0dd6378.jpg",
+        "https://telegra.ph/file/bf959d8c7a958d96095f2.jpg",
+        "https://telegra.ph/file/0669873173c5a0197a408.jpg",
+        "https://telegra.ph/file/c46b4a226f8c0bf10f161.jpg",
+        "https://telegra.ph/file/f709cbaeab9122cd65951.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

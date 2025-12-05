@@ -1,0 +1,37 @@
+const comicData = {
+    "IDcode": 9668,
+    "title": "水淼Aqua 20221031 ハッピーハロウィン",
+    "sourceUrl": "https://telegra.ph/%E6%B0%B4%E6%B7%BCAqua-20221031-%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3-08-25",
+    "images": [
+        "https://telegra.ph/file/34fa4d852922bd6e3d576.jpg",
+        "https://telegra.ph/file/f10f5f3502a0f667cfcf8.jpg",
+        "https://telegra.ph/file/c590011d337ff1b68e7f4.jpg",
+        "https://telegra.ph/file/022ef77ca81e9ec221609.jpg",
+        "https://telegra.ph/file/6d2916bfa89eda0fa82e3.jpg",
+        "https://telegra.ph/file/8d4597c02706a019f36e7.jpg",
+        "https://telegra.ph/file/af451749dff6b28dee7d7.jpg",
+        "https://telegra.ph/file/22cd5ad8879b2709f1ffe.jpg",
+        "https://telegra.ph/file/a6dd7cae913f8f3f37d38.jpg",
+        "https://telegra.ph/file/a42add6be47d7a23e74bf.jpg",
+        "https://telegra.ph/file/38177530c6e4f6acbe18e.jpg",
+        "https://telegra.ph/file/8070fc0a7efe29d665882.jpg",
+        "https://telegra.ph/file/4bbaf2a843dee1fce5e5d.jpg",
+        "https://telegra.ph/file/8f21e4d0c878689a54dd3.jpg",
+        "https://telegra.ph/file/5c7a23896acec69fb2a2a.jpg",
+        "https://telegra.ph/file/9e7c615d809fec3d3d747.jpg",
+        "https://telegra.ph/file/c725e61a91b75221737d2.jpg",
+        "https://telegra.ph/file/e0393d94b27c1e2535f33.jpg",
+        "https://telegra.ph/file/f5bf93c29978c139790e2.jpg",
+        "https://telegra.ph/file/a20b18c54b1629baa9b4c.jpg",
+        "https://telegra.ph/file/8431578f545ff5af071e7.jpg",
+        "https://telegra.ph/file/53bddae83a98e0d3ba77b.jpg",
+        "https://telegra.ph/file/571b1552faef807dd415f.jpg",
+        "https://telegra.ph/file/894be5f9fc8ae3007ccd4.jpg",
+        "https://telegra.ph/file/f4c1f3d4eeaad46f1b5dd.jpg",
+        "https://telegra.ph/file/94833f2def321aaae457c.jpg",
+        "https://telegra.ph/file/46f323658ea11e4ef992c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

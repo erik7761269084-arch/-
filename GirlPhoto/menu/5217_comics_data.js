@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 5217,
+    "title": "鬼畜瑶在不在w -  玛修·基列莱特",
+    "sourceUrl": "https://telegra.ph/鬼畜瑶在不在w---玛修基列莱特-08-29",
+    "images": [
+        "https://telegra.ph/file/906b5b9e16d733fb2ed75.jpg",
+        "https://telegra.ph/file/8fcd96dfcf1f58f474897.jpg",
+        "https://telegra.ph/file/065e6872ea55cc6d43922.jpg",
+        "https://telegra.ph/file/623735eabb6a76b0c932f.jpg",
+        "https://telegra.ph/file/faa53e4b7e0741ccba9cc.jpg",
+        "https://telegra.ph/file/3f0cf32188652d19f2d22.jpg",
+        "https://telegra.ph/file/bfa9eeb54e79139acbf66.jpg",
+        "https://telegra.ph/file/bde595392e998908ae4e1.jpg",
+        "https://telegra.ph/file/64df591ced23c3306ac36.jpg",
+        "https://telegra.ph/file/ceb7ca14258a79c3f0396.jpg",
+        "https://telegra.ph/file/d59245892f8bd759c3f2b.jpg",
+        "https://telegra.ph/file/d7152c5efcf24e1f3c61c.jpg",
+        "https://telegra.ph/file/1dbd93fb4017c647a6d41.jpg",
+        "https://telegra.ph/file/90c5b9baf976b4590e281.jpg",
+        "https://telegra.ph/file/70fd250d27525416a1bc8.jpg",
+        "https://telegra.ph/file/30c0f6012b0b633c0e32c.jpg",
+        "https://telegra.ph/file/10cc21b9b9ba24168fe26.jpg",
+        "https://telegra.ph/file/54e1e00be04a5212e145e.jpg",
+        "https://telegra.ph/file/095566135ace2b75490e0.jpg",
+        "https://telegra.ph/file/9e66826ba45d418a2277f.jpg",
+        "https://telegra.ph/file/fa91387098eb08c8c3b99.jpg",
+        "https://telegra.ph/file/67c7c4af59c573ab0489f.jpg",
+        "https://telegra.ph/file/40e3c467af6134986c1c2.jpg",
+        "https://telegra.ph/file/29942a046fd0c7f42c838.jpg",
+        "https://telegra.ph/file/c5c8fdd2f284258b18bc3.jpg",
+        "https://telegra.ph/file/567d6630b71926c2c514a.jpg",
+        "https://telegra.ph/file/60a77275155fea147acc5.jpg",
+        "https://telegra.ph/file/1cff7054d4def949bf39e.jpg",
+        "https://telegra.ph/file/89afe31a3fc3cc4d45e64.jpg",
+        "https://telegra.ph/file/14c7ed0045405d18d6f74.jpg",
+        "https://telegra.ph/file/9c720e61f569eb64b81cd.jpg",
+        "https://telegra.ph/file/a1e2c7cc3e34f72c98b80.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

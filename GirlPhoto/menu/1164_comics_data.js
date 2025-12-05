@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1164,
+    "title": "Joyce - NO.001 原神 芭芭拉 [32P-191MB]",
+    "sourceUrl": "https://telegra.ph/Joyce---NO001-原神-芭芭拉-32P-191MB-08-26",
+    "images": [
+        "https://telegra.ph/file/b96b418a6b196727581c5.jpg",
+        "https://telegra.ph/file/3f4b84d06a1ed0eecfe8e.jpg",
+        "https://telegra.ph/file/cd2776faaad15eeca5ad1.jpg",
+        "https://telegra.ph/file/1073a49520dee940f02bc.jpg",
+        "https://telegra.ph/file/cefb5bd2ee52b90b0900e.jpg",
+        "https://telegra.ph/file/58d6152d28b597db5d1cf.jpg",
+        "https://telegra.ph/file/7fef1aacc2022620ba47a.jpg",
+        "https://telegra.ph/file/68190b723341fb018a762.jpg",
+        "https://telegra.ph/file/63501cc2ab27bc5abde90.jpg",
+        "https://telegra.ph/file/f0e45d23b51816566336f.jpg",
+        "https://telegra.ph/file/476a70e5b9583b6bf1557.jpg",
+        "https://telegra.ph/file/a1b6a3ae36daaf180d742.jpg",
+        "https://telegra.ph/file/7d06aaaef240eb19453be.jpg",
+        "https://telegra.ph/file/15ddb7c1da7e92b297768.jpg",
+        "https://telegra.ph/file/fc9d14b6d921db1297f5a.jpg",
+        "https://telegra.ph/file/997999c0305a5e9c0bf67.jpg",
+        "https://telegra.ph/file/2f12b4a3edef0b439a945.jpg",
+        "https://telegra.ph/file/b5640801dc0c03eb26496.jpg",
+        "https://telegra.ph/file/0d4b2c4c2c7c815f0d1e1.jpg",
+        "https://telegra.ph/file/741fc120e653688cae1fe.jpg",
+        "https://telegra.ph/file/e5e7e7dd263deae15201a.jpg",
+        "https://telegra.ph/file/4b292e832fad62bd54142.jpg",
+        "https://telegra.ph/file/facb82f9d27caca6abdcb.jpg",
+        "https://telegra.ph/file/190f81016e29bcf202821.jpg",
+        "https://telegra.ph/file/63e296db47e2fddb90b4d.jpg",
+        "https://telegra.ph/file/97553ffa8c7d9707b5244.jpg",
+        "https://telegra.ph/file/f5527a46b4802a9e785e3.jpg",
+        "https://telegra.ph/file/057c7ffcd71d6fe5c47f0.jpg",
+        "https://telegra.ph/file/0af2aa03127bbbb37738b.jpg",
+        "https://telegra.ph/file/d6a7aaa7da1c6660dc8df.jpg",
+        "https://telegra.ph/file/ef223b53245c8c5e819fa.jpg",
+        "https://telegra.ph/file/134a4f37cd3a7f6edbd56.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8630,
+    "title": "秋和柯基(夏小秋秋秋) - 束缚装",
+    "sourceUrl": "https://telegra.ph/秋和柯基夏小秋秋秋---束缚装-08-28",
+    "images": [
+        "https://telegra.ph/file/80b542da9560fc2b47873.jpg",
+        "https://telegra.ph/file/f6049ee7375a1280e2b0f.jpg",
+        "https://telegra.ph/file/01687f85dafe4f63b8cbc.jpg",
+        "https://telegra.ph/file/939123960849a2322521a.jpg",
+        "https://telegra.ph/file/e5f164a4b3c6546619d40.jpg",
+        "https://telegra.ph/file/b6725d8a426314f1c30aa.jpg",
+        "https://telegra.ph/file/059b7c6e3db6d68569d93.jpg",
+        "https://telegra.ph/file/4b01e3ae5ecdeed74ef11.jpg",
+        "https://telegra.ph/file/4a49d84f48c981d56f295.jpg",
+        "https://telegra.ph/file/e4044a742b3361d04c273.jpg",
+        "https://telegra.ph/file/f51908b8cb97f8144d301.jpg",
+        "https://telegra.ph/file/260393193b33006f08275.jpg",
+        "https://telegra.ph/file/60e5d2844c53b1640d4bc.jpg",
+        "https://telegra.ph/file/e841eae47ec89d1f31441.jpg",
+        "https://telegra.ph/file/e61ac5ed1ebfb0af33d13.jpg",
+        "https://telegra.ph/file/08ddcd8e0ed65aad94e29.jpg",
+        "https://telegra.ph/file/ce44454bec902991ca93d.jpg",
+        "https://telegra.ph/file/1aeffbee2ef1b7fddf082.jpg",
+        "https://telegra.ph/file/53d4fa94803e056e9f54e.jpg",
+        "https://telegra.ph/file/143312a1dc9176b1a7b56.jpg",
+        "https://telegra.ph/file/a57ea34dd8c719dddee2a.jpg",
+        "https://telegra.ph/file/71a9ecb29ba3540cb8706.jpg",
+        "https://telegra.ph/file/8ed9d5154589baf7981ba.jpg",
+        "https://telegra.ph/file/a8981839510badb5578da.jpg",
+        "https://telegra.ph/file/80852f6aa5240d4340715.jpg",
+        "https://telegra.ph/file/b2cdad6831a500423da65.jpg",
+        "https://telegra.ph/file/b3cfdcff01f37a4c4ab52.jpg",
+        "https://telegra.ph/file/1be8edf1f533e37801d48.jpg",
+        "https://telegra.ph/file/7d1f68121ad9e89ff902d.jpg",
+        "https://telegra.ph/file/ec3f789edbff17b798113.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

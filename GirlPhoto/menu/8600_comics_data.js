@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8600,
+    "title": "秋和柯基(夏小秋秋秋) - 粉 桃花神",
+    "sourceUrl": "https://telegra.ph/秋和柯基夏小秋秋秋---粉-桃花神-08-28",
+    "images": [
+        "https://telegra.ph/file/f3e05f774cb888549e48d.jpg",
+        "https://telegra.ph/file/cff05258625b91a7ba9cc.jpg",
+        "https://telegra.ph/file/59f5a42d022e623a3fe90.jpg",
+        "https://telegra.ph/file/a8ac5016a7079e675b21b.jpg",
+        "https://telegra.ph/file/07dd91ee02e380f5a87f7.jpg",
+        "https://telegra.ph/file/6f2116916ecc15a76ace8.jpg",
+        "https://telegra.ph/file/b439838b205a0ab080201.jpg",
+        "https://telegra.ph/file/6f199a60e10ac4e95f7ca.jpg",
+        "https://telegra.ph/file/73ffec7b5d5c5795d1fb1.jpg",
+        "https://telegra.ph/file/eff013de70414724112d6.jpg",
+        "https://telegra.ph/file/a184d8b01a587a0d567d5.jpg",
+        "https://telegra.ph/file/efef0bbd351235077262c.jpg",
+        "https://telegra.ph/file/3e21eac64de22ec23b7db.jpg",
+        "https://telegra.ph/file/7378b7119d3fa8eb600a9.jpg",
+        "https://telegra.ph/file/e4fa235987754ee60fad5.jpg",
+        "https://telegra.ph/file/a333e447bd9988ec37399.jpg",
+        "https://telegra.ph/file/660de3851ed0d2bdc7fa6.jpg",
+        "https://telegra.ph/file/fa9d651006b7fa24a436d.jpg",
+        "https://telegra.ph/file/a9845b54ba877cba85419.jpg",
+        "https://telegra.ph/file/d0742891934f69dc9cf31.jpg",
+        "https://telegra.ph/file/7e0f859d2261833b877e1.jpg",
+        "https://telegra.ph/file/e4f8274840321f7c7bdeb.jpg",
+        "https://telegra.ph/file/c57f498a81ad30b00548f.jpg",
+        "https://telegra.ph/file/eeca6b5e616cb38781f51.jpg",
+        "https://telegra.ph/file/e195741401b4066acce0c.jpg",
+        "https://telegra.ph/file/48088cf80f142ae729a64.jpg",
+        "https://telegra.ph/file/51b3312984f50d694fdac.jpg",
+        "https://telegra.ph/file/b1d1cb26273914a9e7664.jpg",
+        "https://telegra.ph/file/a6d628cbedb2c5547a32a.jpg",
+        "https://telegra.ph/file/d19fb43488c93dbe022e7.jpg",
+        "https://telegra.ph/file/f1d19ad2bab1804b7ead0.jpg",
+        "https://telegra.ph/file/4eff5ad45a697c4bca16c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

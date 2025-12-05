@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5668,
+    "title": "花铃 特工护士 [31P-223MB]",
+    "sourceUrl": "https://telegra.ph/%E8%8A%B1%E9%93%83-%E7%89%B9%E5%B7%A5%E6%8A%A4%E5%A3%AB-31P-223MB-08-23",
+    "images": [
+        "https://telegra.ph/file/c52ce4e4ddde445943bb6.jpg",
+        "https://telegra.ph/file/91569475c62c09cc1bf57.jpg",
+        "https://telegra.ph/file/c0e3d557ccd07dbf66087.jpg",
+        "https://telegra.ph/file/4dd7d5621d0e627a8b4d0.jpg",
+        "https://telegra.ph/file/800277d6e3be969b12052.jpg",
+        "https://telegra.ph/file/33a2fc1e9a3c34a053642.jpg",
+        "https://telegra.ph/file/6ee34a1c6a8e939615be3.jpg",
+        "https://telegra.ph/file/0947e82b7c725d511a984.jpg",
+        "https://telegra.ph/file/0c2275ee9ae5ae3fc482f.jpg",
+        "https://telegra.ph/file/bdd2502921b4e126fcaa5.jpg",
+        "https://telegra.ph/file/5ca20ab2f052d14e7ccc5.jpg",
+        "https://telegra.ph/file/80611a8424063a8059e7e.jpg",
+        "https://telegra.ph/file/5e556acd5eb566baa13ea.jpg",
+        "https://telegra.ph/file/30c849957253be7a960bd.jpg",
+        "https://telegra.ph/file/bb542e037d524bd3bd8a6.jpg",
+        "https://telegra.ph/file/890511812e9377fce9af6.jpg",
+        "https://telegra.ph/file/04daf92694c9088445731.jpg",
+        "https://telegra.ph/file/87e50cb5c601b6cc05b1d.jpg",
+        "https://telegra.ph/file/b3d0614b9637641ed1b15.jpg",
+        "https://telegra.ph/file/f7cb2f8e45ad8ffa8e246.jpg",
+        "https://telegra.ph/file/ff73c3fa454b6c14bd18a.jpg",
+        "https://telegra.ph/file/107bf2fce24c587d6bf21.jpg",
+        "https://telegra.ph/file/4ba2ef763a080c0272ca3.jpg",
+        "https://telegra.ph/file/e55ba27c368c32176c57f.jpg",
+        "https://telegra.ph/file/faa6a4b3f91470bba2b61.jpg",
+        "https://telegra.ph/file/c4bed8818d62099f3f46e.jpg",
+        "https://telegra.ph/file/27095f42dafd64687987e.jpg",
+        "https://telegra.ph/file/7fcfb2d4e708edfb98a1a.jpg",
+        "https://telegra.ph/file/fee6e474aeb2216a9a145.jpg",
+        "https://telegra.ph/file/f818f0f9191d54e171f44.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

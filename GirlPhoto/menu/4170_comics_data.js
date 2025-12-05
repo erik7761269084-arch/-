@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4170,
+    "title": "次屁啦 - 学姐大胆三点式[30P-93MB]",
+    "sourceUrl": "https://telegra.ph/次屁啦---学姐大胆三点式30P-93MB-08-25",
+    "images": [
+        "https://telegra.ph/file/75489236c58628622a340.jpg",
+        "https://telegra.ph/file/eb132b5a6f8080b3f0c58.jpg",
+        "https://telegra.ph/file/5409c0264bb4bde204cbe.jpg",
+        "https://telegra.ph/file/4aace364d260a81a9809f.jpg",
+        "https://telegra.ph/file/020710c957e61cc7b904e.jpg",
+        "https://telegra.ph/file/df6948acf8f32f8941c1d.jpg",
+        "https://telegra.ph/file/7e4a76019767525d97ce5.jpg",
+        "https://telegra.ph/file/38e5a2ac97c764d6e79b4.jpg",
+        "https://telegra.ph/file/34bb7d53872216603882f.jpg",
+        "https://telegra.ph/file/a850196d11e3b621ae093.jpg",
+        "https://telegra.ph/file/ca1a663b4f09cea284e4c.jpg",
+        "https://telegra.ph/file/bf32670804ec13f9f141b.jpg",
+        "https://telegra.ph/file/afe71f0f2c2b265390e99.jpg",
+        "https://telegra.ph/file/9ceabe5e253da7c54b367.jpg",
+        "https://telegra.ph/file/360d95099d353100f9155.jpg",
+        "https://telegra.ph/file/11baec8c635ca78dc5852.jpg",
+        "https://telegra.ph/file/22dbc0f5cf959f57517c5.jpg",
+        "https://telegra.ph/file/91671b0e790c3bdbfea89.jpg",
+        "https://telegra.ph/file/a5652cac9b8a491233fc5.jpg",
+        "https://telegra.ph/file/18e2f900f6268b33de224.jpg",
+        "https://telegra.ph/file/ab338f6be28755a929ba5.jpg",
+        "https://telegra.ph/file/d4e2e32bdeb9649c7dd58.jpg",
+        "https://telegra.ph/file/ab83674f65df7ced5448b.jpg",
+        "https://telegra.ph/file/01a6424cb814f920dc73a.jpg",
+        "https://telegra.ph/file/1d8f59987ac6d36f71208.jpg",
+        "https://telegra.ph/file/2b3469b6cf14dd71f261a.jpg",
+        "https://telegra.ph/file/ef7d29ca6a6b143aa0463.jpg",
+        "https://telegra.ph/file/c9b82aea426dbb6eb242e.jpg",
+        "https://telegra.ph/file/3783edea1f8fdafcf4162.jpg",
+        "https://telegra.ph/file/de6db61a2d790b2367887.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8226,
+    "title": "七月喵子 - 迟到的圣诞节",
+    "sourceUrl": "https://telegra.ph/七月喵子---迟到的圣诞节-08-27",
+    "images": [
+        "https://telegra.ph/file/bb958e557d06fcbe46548.jpg",
+        "https://telegra.ph/file/bdf3d7b3f71be5fa61b3d.jpg",
+        "https://telegra.ph/file/ba0f47f3066ae3e717e5b.jpg",
+        "https://telegra.ph/file/8a0a727601495385d79c6.jpg",
+        "https://telegra.ph/file/7bd5e0d67c4e7706b8d54.jpg",
+        "https://telegra.ph/file/3d0d65933d802cbb668f0.jpg",
+        "https://telegra.ph/file/0351910cedef0a0965cac.jpg",
+        "https://telegra.ph/file/92fa73b3d40f4f2acb5fe.jpg",
+        "https://telegra.ph/file/090cc73508acee6db6326.jpg",
+        "https://telegra.ph/file/bd1cb0a4f566824485ecd.jpg",
+        "https://telegra.ph/file/339aefb70c6104077ae9f.jpg",
+        "https://telegra.ph/file/94e27041b67277438947c.jpg",
+        "https://telegra.ph/file/ec35edace9585f110e1d8.jpg",
+        "https://telegra.ph/file/a8ce2d3562c8d19be722c.jpg",
+        "https://telegra.ph/file/1180e93f1966fe1c759ee.jpg",
+        "https://telegra.ph/file/79b91d10aae19d560f4b0.jpg",
+        "https://telegra.ph/file/10b73c50703fc2bd2da9a.jpg",
+        "https://telegra.ph/file/cdf371c7c7e95d1edb0fc.jpg",
+        "https://telegra.ph/file/5612cb56b4f8fa81b6058.jpg",
+        "https://telegra.ph/file/ed5e00fc09e9c49532567.jpg",
+        "https://telegra.ph/file/1df966829686ef94b105c.jpg",
+        "https://telegra.ph/file/856d6c4ee943b6b8c0615.jpg",
+        "https://telegra.ph/file/fae46720b534b5d77fe86.jpg",
+        "https://telegra.ph/file/6f54f901e6222f1f3fd00.jpg",
+        "https://telegra.ph/file/f7c69671f1fbfb1750bd2.jpg",
+        "https://telegra.ph/file/5292a2e520f3931e01651.jpg",
+        "https://telegra.ph/file/02e9ba2b63d2951121dcf.jpg",
+        "https://telegra.ph/file/9babaff9492455fa53834.jpg",
+        "https://telegra.ph/file/726794438e8789fb8317d.jpg",
+        "https://telegra.ph/file/77944de205deafc59eec9.jpg",
+        "https://telegra.ph/file/7356240840175c4666538.jpg",
+        "https://telegra.ph/file/a3c556f8f6dfb453d8223.jpg",
+        "https://telegra.ph/file/742a7fe1a5b9dd6a06dc1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

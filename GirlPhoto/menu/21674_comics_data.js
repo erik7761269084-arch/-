@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21674,
+    "title": "Pole_May - Jun 2021",
+    "sourceUrl": "https://telegra.ph/Pole-May---Jun-2021-08-30",
+    "images": [
+        "https://telegra.ph/file/9c70447a85d228656d010.jpg",
+        "https://telegra.ph/file/8822556f1cad4ea11d45f.jpg",
+        "https://telegra.ph/file/08c222acaad897a64c7cc.jpg",
+        "https://telegra.ph/file/a00e2f1fb2cf9bfe1fb6b.jpg",
+        "https://telegra.ph/file/b5d63f1e8131f1042d41c.jpg",
+        "https://telegra.ph/file/c47f9e2adc354b2002b8a.jpg",
+        "https://telegra.ph/file/cc56fdcf1b045d0bfd9d4.jpg",
+        "https://telegra.ph/file/48b0e23bfe814d40286e8.jpg",
+        "https://telegra.ph/file/7745b74b7532130d367fe.jpg",
+        "https://telegra.ph/file/c325847511e613be63ae8.jpg",
+        "https://telegra.ph/file/f86913c967dd9386a38ed.jpg",
+        "https://telegra.ph/file/5007303d36d09cb1ce027.jpg",
+        "https://telegra.ph/file/79905312078f12f415cbf.jpg",
+        "https://telegra.ph/file/7a99a9722c244c39ba374.jpg",
+        "https://telegra.ph/file/febb2be2997a12c80db0f.jpg",
+        "https://telegra.ph/file/95125127b4fe16bcb39ae.jpg",
+        "https://telegra.ph/file/9b83ba9e08ab349f360df.jpg",
+        "https://telegra.ph/file/fb39a6256daac0ffce49f.jpg",
+        "https://telegra.ph/file/625198b0d27943b2bd5e4.jpg",
+        "https://telegra.ph/file/82a1d835b11c0fcd087cc.jpg",
+        "https://telegra.ph/file/5ed67731185274eaf5b65.jpg",
+        "https://telegra.ph/file/fed7b75e21a6fd75b4659.jpg",
+        "https://telegra.ph/file/f5744fbb8aaa3b72f91a2.jpg",
+        "https://telegra.ph/file/971c6bc3e028ad5d69654.jpg",
+        "https://telegra.ph/file/9a1aa46042c49c36fae94.jpg",
+        "https://telegra.ph/file/be49c3ab7f01580a973b7.jpg",
+        "https://telegra.ph/file/4a593b1bc74ecdf0206e1.jpg",
+        "https://telegra.ph/file/c03d7aa03870fb00d9ca5.jpg",
+        "https://telegra.ph/file/999928ce423e1a63239ba.jpg",
+        "https://telegra.ph/file/ff726950ea048490be2c8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

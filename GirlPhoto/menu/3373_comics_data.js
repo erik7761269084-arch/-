@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3373,
+    "title": "半半子&索索sophia 东方幻想乡兔女郎",
+    "sourceUrl": "https://telegra.ph/半半子索索sophia-东方幻想乡兔女郎-08-27",
+    "images": [
+        "https://telegra.ph/file/6ed3ab50b48ddf39677c9.jpg",
+        "https://telegra.ph/file/6a27fcd2142e0f30ad08c.jpg",
+        "https://telegra.ph/file/b33f7ce8c4754c7be3392.jpg",
+        "https://telegra.ph/file/51afcdf081e064da08eaa.jpg",
+        "https://telegra.ph/file/9a68ffe0cc964a326cbc3.jpg",
+        "https://telegra.ph/file/ec65d903e8db1d6d369e5.jpg",
+        "https://telegra.ph/file/37290c989667b91b3350d.jpg",
+        "https://telegra.ph/file/6dc96ec47a2e07eca6c4a.jpg",
+        "https://telegra.ph/file/577a5906ee79299f81e0b.jpg",
+        "https://telegra.ph/file/79c15e1a042834fc3cae9.jpg",
+        "https://telegra.ph/file/d2ab7b30233d9c13021e9.jpg",
+        "https://telegra.ph/file/dcd50f4b0c9959121ea2b.jpg",
+        "https://telegra.ph/file/0689ea0a173b7f78389ab.jpg",
+        "https://telegra.ph/file/06331cce2fa1bce39111a.jpg",
+        "https://telegra.ph/file/7ea1a05876f00f81fbb2c.jpg",
+        "https://telegra.ph/file/74d714c87a9675b839380.jpg",
+        "https://telegra.ph/file/4ca9bec12fe8554468fdc.jpg",
+        "https://telegra.ph/file/d1cd4e7ea122e60a90d33.jpg",
+        "https://telegra.ph/file/658e89aa1a779a50e6c63.jpg",
+        "https://telegra.ph/file/9fbae65aebca9b4f85b7a.jpg",
+        "https://telegra.ph/file/54c0876b0201f9b4c9fbe.jpg",
+        "https://telegra.ph/file/06bab4d796b2822c2b94b.jpg",
+        "https://telegra.ph/file/9aa06555c2fd9056d3548.jpg",
+        "https://telegra.ph/file/0e5651aeaee001bc81cdb.jpg",
+        "https://telegra.ph/file/25aaf19f180cdeef71c13.jpg",
+        "https://telegra.ph/file/fc7d051b220e8c2c26eb4.jpg",
+        "https://telegra.ph/file/751a7da9953fe2dd4222c.jpg",
+        "https://telegra.ph/file/9cc0d8c98e4655648c4bd.jpg",
+        "https://telegra.ph/file/30c5c9bf86ea7ed3f2a5f.jpg",
+        "https://telegra.ph/file/e8dd95578305c347c6053.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

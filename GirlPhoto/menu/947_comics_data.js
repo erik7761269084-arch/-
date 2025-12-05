@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 947,
+    "title": "Hane 雨波写真 - Hololive Calliope 死神睡衣",
+    "sourceUrl": "https://telegra.ph/Hane-雨波写真---Hololive-Calliope-死神睡衣-08-27",
+    "images": [
+        "https://telegra.ph/file/60b20a1e7524cf2ea66e8.jpg",
+        "https://telegra.ph/file/f2394492701cd2e63e818.jpg",
+        "https://telegra.ph/file/9cd49bd0146eef7387639.jpg",
+        "https://telegra.ph/file/287c1eac7ceb4be5c9e86.jpg",
+        "https://telegra.ph/file/98e7fa471f8acb59a196f.jpg",
+        "https://telegra.ph/file/e9472d38bc90512ef5ffd.jpg",
+        "https://telegra.ph/file/640c539eff6efdfd82e4b.jpg",
+        "https://telegra.ph/file/83900f652fdef94776d9c.jpg",
+        "https://telegra.ph/file/cd963e0201d31c6562b70.jpg",
+        "https://telegra.ph/file/1306967243ff43a2f5cd8.jpg",
+        "https://telegra.ph/file/489c3971cd28f82bf4f07.jpg",
+        "https://telegra.ph/file/96fe93983455653db1d99.jpg",
+        "https://telegra.ph/file/08ff526fa0b257af20e46.jpg",
+        "https://telegra.ph/file/6ce3417c23d205ce3b597.jpg",
+        "https://telegra.ph/file/5a987632bafa5f6370d89.jpg",
+        "https://telegra.ph/file/65e469e009b25f3c5ecdd.jpg",
+        "https://telegra.ph/file/209cbf618e3c56d593d80.jpg",
+        "https://telegra.ph/file/3213f0e09775c2195a4a2.jpg",
+        "https://telegra.ph/file/23783097019aadea443aa.jpg",
+        "https://telegra.ph/file/e9995c533e561455a6da8.jpg",
+        "https://telegra.ph/file/d63dd74f8edbc6b5865f1.jpg",
+        "https://telegra.ph/file/d28fe0bb2f4ca381ab81d.jpg",
+        "https://telegra.ph/file/ad2d361dcb1701c55c74c.jpg",
+        "https://telegra.ph/file/03e3d42fb40660cbe65d6.jpg",
+        "https://telegra.ph/file/4a7dafda5ee0c9a65224a.jpg",
+        "https://telegra.ph/file/e9da2342a7a7ed0bf4522.jpg",
+        "https://telegra.ph/file/abecae44c8ada2e6d9884.jpg",
+        "https://telegra.ph/file/4aed800702e06b6a23d3e.jpg",
+        "https://telegra.ph/file/55398f349a9aca306b03a.jpg",
+        "https://telegra.ph/file/f3b1ef795e135b76c7e97.jpg",
+        "https://telegra.ph/file/44624d2988ab60dd0ecb8.jpg",
+        "https://telegra.ph/file/8c4ebb52ff4c0d480bb36.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

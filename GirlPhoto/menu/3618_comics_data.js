@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3618,
+    "title": "草半半宝宝-黑色吊带[23P-220MB]",
+    "sourceUrl": "https://telegra.ph/草半半宝宝-黑色吊带23P-220MB-08-25",
+    "images": [
+        "https://telegra.ph/file/9597427bfd904cd2a09ad.jpg",
+        "https://telegra.ph/file/1e65d6634799c4384c53f.jpg",
+        "https://telegra.ph/file/200b1a69e93e47670ac8c.jpg",
+        "https://telegra.ph/file/68f56e68df0eabf86f35d.jpg",
+        "https://telegra.ph/file/2a21dca331e7f17fdfd62.jpg",
+        "https://telegra.ph/file/b8de5a7bc31dd812eec0b.jpg",
+        "https://telegra.ph/file/cb3fd0502389a0b21abac.jpg",
+        "https://telegra.ph/file/a4cb15d6e24ca2a534ee4.jpg",
+        "https://telegra.ph/file/5893f8da6785b04253c2e.jpg",
+        "https://telegra.ph/file/caf94b3ec25ef6a906eca.jpg",
+        "https://telegra.ph/file/1d544520d7ea4b43f3282.jpg",
+        "https://telegra.ph/file/fb03779a1469498b53a2f.jpg",
+        "https://telegra.ph/file/5adfc5c79ad9b9dcdf266.jpg",
+        "https://telegra.ph/file/4ff8b90ecd628c20ec1e3.jpg",
+        "https://telegra.ph/file/ebca80600b00262f83bb1.jpg",
+        "https://telegra.ph/file/00160e97e140543c750c3.jpg",
+        "https://telegra.ph/file/3ec53667bb9977239ecc0.jpg",
+        "https://telegra.ph/file/31cf5ef8b737a7a0e2726.jpg",
+        "https://telegra.ph/file/9a19e5f4842efb887bc50.jpg",
+        "https://telegra.ph/file/258aa4efcfd6ed2d6d315.jpg",
+        "https://telegra.ph/file/3f37236ff5e35d8f1431f.jpg",
+        "https://telegra.ph/file/95e76e689e46c256174d7.jpg",
+        "https://telegra.ph/file/f8df70af7fae15b5c5b25.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6171,
+    "title": "凛子酱 南丁格尔",
+    "sourceUrl": "https://telegra.ph/凛子酱-南丁格尔-08-24",
+    "images": [
+        "https://telegra.ph/file/e86f855a9408017fcd51b.jpg",
+        "https://telegra.ph/file/98cf8dacb5cf6c25481b8.jpg",
+        "https://telegra.ph/file/9c552591d604b397b20fd.jpg",
+        "https://telegra.ph/file/29675b646586706e33334.jpg",
+        "https://telegra.ph/file/c8a4b1a3bb8ddf3b7fa37.jpg",
+        "https://telegra.ph/file/d2b1b1a45597d8189129b.jpg",
+        "https://telegra.ph/file/66ff50f2e13be5bbcea98.jpg",
+        "https://telegra.ph/file/624ae74cf4676658e7db3.jpg",
+        "https://telegra.ph/file/9ed1e89cf523de0e817ae.jpg",
+        "https://telegra.ph/file/6a451167a23ae36c1d038.jpg",
+        "https://telegra.ph/file/bc694efd51922c178dd09.jpg",
+        "https://telegra.ph/file/8a77246f2aff8d6d17f50.jpg",
+        "https://telegra.ph/file/628a020275e7c659cda53.jpg",
+        "https://telegra.ph/file/86215bafa34ce63f616be.jpg",
+        "https://telegra.ph/file/d4c28350a8ec4a20c1cf9.jpg",
+        "https://telegra.ph/file/f08a6907170e067a9b527.jpg",
+        "https://telegra.ph/file/803717ddfbcfab4c92e64.jpg",
+        "https://telegra.ph/file/d5a12ef3baa928cd1712e.jpg",
+        "https://telegra.ph/file/6cb3c05dc7d99d6257ffb.jpg",
+        "https://telegra.ph/file/3741b4bc9dcfb9be4277b.jpg",
+        "https://telegra.ph/file/58b9b3b2d5e09888f94cb.jpg",
+        "https://telegra.ph/file/249f25a95b8fa76cb5471.jpg",
+        "https://telegra.ph/file/f6980c90f1de573235e8e.jpg",
+        "https://telegra.ph/file/7e24ff83b1e3af42048b2.jpg",
+        "https://telegra.ph/file/0df6be8dbb58461199f85.jpg",
+        "https://telegra.ph/file/503a19c198ab6f403790f.jpg",
+        "https://telegra.ph/file/2a37bd8755ec0168871ea.jpg",
+        "https://telegra.ph/file/03c6c7a0a25cf3a16a895.jpg",
+        "https://telegra.ph/file/0e66a2cabc9d4b0b678ca.jpg",
+        "https://telegra.ph/file/bd6e82d49ea313e979c85.jpg",
+        "https://telegra.ph/file/b523fb59f6c922d873341.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

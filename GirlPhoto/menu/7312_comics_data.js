@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7312,
+    "title": "VOL.415  面饼仙儿  白裙少女",
+    "sourceUrl": "https://telegra.ph/VOL415-面饼仙儿-白裙少女-08-27",
+    "images": [
+        "https://telegra.ph/file/3333cdffdc07f79c7391a.jpg",
+        "https://telegra.ph/file/66c59cd70731d08614569.jpg",
+        "https://telegra.ph/file/c05acee76be600c8ca73b.jpg",
+        "https://telegra.ph/file/3700013d3f66a6d6c1e74.jpg",
+        "https://telegra.ph/file/f7c269ba93b24d7a50fb1.jpg",
+        "https://telegra.ph/file/02592ec533e97ac4c3743.jpg",
+        "https://telegra.ph/file/8508fb17d037c5bd86c9d.jpg",
+        "https://telegra.ph/file/2f5ca836373e3bfb9eccb.jpg",
+        "https://telegra.ph/file/3375544e7e92afb5f719f.jpg",
+        "https://telegra.ph/file/2b24138dd4668936ac81a.jpg",
+        "https://telegra.ph/file/ab145313d060fcf338c5f.jpg",
+        "https://telegra.ph/file/3a4f50a6b4868d801260d.jpg",
+        "https://telegra.ph/file/1b8d4f5ab3288f2616d8d.jpg",
+        "https://telegra.ph/file/fa22dab90ffe70970835e.jpg",
+        "https://telegra.ph/file/5fb39e9ad35df9dd8666f.jpg",
+        "https://telegra.ph/file/791393962b97da2260c65.jpg",
+        "https://telegra.ph/file/a60d5401ebc8a1074d4cb.jpg",
+        "https://telegra.ph/file/6bd8f4afc5a3ceb4fc559.jpg",
+        "https://telegra.ph/file/dc491fcff3300f1accdb9.jpg",
+        "https://telegra.ph/file/2d1599f5954f412861b06.jpg",
+        "https://telegra.ph/file/6f3bf3fc573c498838649.jpg",
+        "https://telegra.ph/file/8c97199d05741d1316176.jpg",
+        "https://telegra.ph/file/5fddbbe642cf577dd6e22.jpg",
+        "https://telegra.ph/file/0c69a8e69a22953612df3.jpg",
+        "https://telegra.ph/file/32b52b42bfa5373791a1f.jpg",
+        "https://telegra.ph/file/848742c9933fb8bed7f1b.jpg",
+        "https://telegra.ph/file/b2648539c0d821997fd26.jpg",
+        "https://telegra.ph/file/d5b2cb5a9fdc51827ab74.jpg",
+        "https://telegra.ph/file/6b47da13870d2c78d7bda.jpg",
+        "https://telegra.ph/file/f5bb9263d5858f07be651.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 21581,
+    "title": "Real Korea – Screen golf 2",
+    "sourceUrl": "https://telegra.ph/Real-Korea--Screen-golf-2-08-29",
+    "images": [
+        "https://telegra.ph/file/1a08bbd7f59aecafb71c1.jpg",
+        "https://telegra.ph/file/e7b4c25a5445de374d847.jpg",
+        "https://telegra.ph/file/a6107765cce029bd1f564.jpg",
+        "https://telegra.ph/file/af21b06ba389e6ca2775f.jpg",
+        "https://telegra.ph/file/d1f80cadaa0afc0290ceb.jpg",
+        "https://telegra.ph/file/7637ea5e6c667b0469bed.jpg",
+        "https://telegra.ph/file/9e4ddee9586f10eccb6a8.jpg",
+        "https://telegra.ph/file/62362388f1b7c05516f80.jpg",
+        "https://telegra.ph/file/8b00572020b85306f53a0.jpg",
+        "https://telegra.ph/file/d7cd821feb0421738e115.jpg",
+        "https://telegra.ph/file/1367d76db88dd3d92ac98.jpg",
+        "https://telegra.ph/file/eae0ab4b9071b30ae4a2a.jpg",
+        "https://telegra.ph/file/8067191b2a02bae829d3a.jpg",
+        "https://telegra.ph/file/041f8f72997909469cc59.jpg",
+        "https://telegra.ph/file/61195c4628bdead3c8f0c.jpg",
+        "https://telegra.ph/file/b1bd270b3811594519b28.jpg",
+        "https://telegra.ph/file/3a9b81c4ba749be0860de.jpg",
+        "https://telegra.ph/file/d5c1dc123ef365505da43.jpg",
+        "https://telegra.ph/file/3474bf2f8fc17bf544cc2.jpg",
+        "https://telegra.ph/file/27a1045bbf7f8443ea8d9.jpg",
+        "https://telegra.ph/file/20d43e9ed7ca1824ba10a.jpg",
+        "https://telegra.ph/file/0f22dc94438964f0fd747.jpg",
+        "https://telegra.ph/file/b1eee6545993c01f42a15.jpg",
+        "https://telegra.ph/file/08ab8070f0c945c1a4aff.jpg",
+        "https://telegra.ph/file/a5899670ba06af19319ce.jpg",
+        "https://telegra.ph/file/e69a6b9c5c7293ef39b5e.jpg",
+        "https://telegra.ph/file/415ba440fe0960476aef6.jpg",
+        "https://telegra.ph/file/e1672a54097ee8945169a.jpg",
+        "https://telegra.ph/file/3f91bb7f5b6891016502e.jpg",
+        "https://telegra.ph/file/79a3d326f6f6b7594a73c.jpg",
+        "https://telegra.ph/file/a56bbcdd3007c07ecafab.jpg",
+        "https://telegra.ph/file/f35779c517c53264beb86.jpg",
+        "https://telegra.ph/file/4a1822c078718600d7a0e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

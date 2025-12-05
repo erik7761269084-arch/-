@@ -1,0 +1,35 @@
+const comicData = {
+    "IDcode": 5921,
+    "title": "九曲Jean - NO.67 碧蓝航线 加利索新春旗袍 [24P-557MB]",
+    "sourceUrl": "https://telegra.ph/九曲Jean---NO67-碧蓝航线-加利索新春旗袍-24P-557MB-08-26",
+    "images": [
+        "https://telegra.ph/file/ae46bba766bd476a7380c.jpg",
+        "https://telegra.ph/file/c687981c4eef98d8cd06c.jpg",
+        "https://telegra.ph/file/41ff69779d0abec846bf8.jpg",
+        "https://telegra.ph/file/cd81d660f8b44eef44c28.jpg",
+        "https://telegra.ph/file/b1a6376a98bbe00580377.jpg",
+        "https://telegra.ph/file/c09eafd5ee3d9f0c01b37.jpg",
+        "https://telegra.ph/file/7330ae0206407aa43dbf9.jpg",
+        "https://telegra.ph/file/b10d676c3f417aebf054a.jpg",
+        "https://telegra.ph/file/98f16732bde93faebceea.jpg",
+        "https://telegra.ph/file/cbc23cd33303d20ab0b62.jpg",
+        "https://telegra.ph/file/c0c4bde6a477ab0291071.jpg",
+        "https://telegra.ph/file/35bb43377dc0a4b9edfb2.jpg",
+        "https://telegra.ph/file/d3adbe959efd83cb5d4af.jpg",
+        "https://telegra.ph/file/1d2aec7d347072311e8a0.jpg",
+        "https://telegra.ph/file/93008238394b4f06d982e.jpg",
+        "https://telegra.ph/file/3032e270b4c3b1c595984.jpg",
+        "https://telegra.ph/file/e528c172e4fb9694a41da.jpg",
+        "https://telegra.ph/file/a35489888d4090797fa2b.jpg",
+        "https://telegra.ph/file/dfe44a54098f03d6d20da.jpg",
+        "https://telegra.ph/file/e27d0150833f8403f67cf.jpg",
+        "https://telegra.ph/file/0e9e36c2889d977a15122.jpg",
+        "https://telegra.ph/file/3a779f36b0a51f8ef542a.jpg",
+        "https://telegra.ph/file/b7940c27d947372d5b723.jpg",
+        "https://telegra.ph/file/00a3d966008068253a063.jpg",
+        "https://telegra.ph/file/372b48a944d4214754f04.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

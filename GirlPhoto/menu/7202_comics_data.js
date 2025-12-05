@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7202,
+    "title": "VOL.108  蜜汁猫裘《女仆长裙》",
+    "sourceUrl": "https://telegra.ph/VOL108-蜜汁猫裘女仆长裙-08-27",
+    "images": [
+        "https://telegra.ph/file/3d5d25cdb6e4f87e8f4b9.jpg",
+        "https://telegra.ph/file/ba3acfa349ef3d0ef2115.jpg",
+        "https://telegra.ph/file/6e735c834ff66dab2d6d5.jpg",
+        "https://telegra.ph/file/80b15d4dcb67594e2e0dc.jpg",
+        "https://telegra.ph/file/bb6ddcd9ebb98ce73aa51.jpg",
+        "https://telegra.ph/file/0b27baf531b503f60f029.jpg",
+        "https://telegra.ph/file/c9d80166ee83271482460.jpg",
+        "https://telegra.ph/file/b945fcd39cc095b4f59ca.jpg",
+        "https://telegra.ph/file/25e5bbe2e8d375e50a173.jpg",
+        "https://telegra.ph/file/e2d505a020ccc711b0ba9.jpg",
+        "https://telegra.ph/file/5a1f4f866f1b078897d87.jpg",
+        "https://telegra.ph/file/bcbfb623580d1fdfa1d5d.jpg",
+        "https://telegra.ph/file/e4ca66469b5866b707d4c.jpg",
+        "https://telegra.ph/file/91fe90962d0cb923148e7.jpg",
+        "https://telegra.ph/file/97581e5c060bfd2a9173b.jpg",
+        "https://telegra.ph/file/a70431c8aea45fbe7a2b9.jpg",
+        "https://telegra.ph/file/b8b022d1e5ae544303e31.jpg",
+        "https://telegra.ph/file/f38582ab85eec45120910.jpg",
+        "https://telegra.ph/file/23effb6682f4e03372f84.jpg",
+        "https://telegra.ph/file/4acae7f44551a3e36be23.jpg",
+        "https://telegra.ph/file/e7f7f27e4c3ee4db43aa5.jpg",
+        "https://telegra.ph/file/661d34ca4be27debeff59.jpg",
+        "https://telegra.ph/file/9909558bccffcf3926cd4.jpg",
+        "https://telegra.ph/file/dc47c70aa3396ed748a52.jpg",
+        "https://telegra.ph/file/1217e9d44ab84d5f489b8.jpg",
+        "https://telegra.ph/file/1d762081861a852ad5c45.jpg",
+        "https://telegra.ph/file/b92abdc8541e436292a93.jpg",
+        "https://telegra.ph/file/7461d835781638c65596e.jpg",
+        "https://telegra.ph/file/5ec4c1360cc7a3fb0e63d.jpg",
+        "https://telegra.ph/file/0df0957a883a6e4e4e170.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

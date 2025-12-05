@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2577,
+    "title": "Uy Uy - Kiryuin Satsuki Satsuki-Kill la Kill",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Kiryuin-Satsuki-Satsuki-Kill-la-Kill-08-27",
+    "images": [
+        "https://telegra.ph/file/d37b602e04ab54f8b1109.jpg",
+        "https://telegra.ph/file/0d2f8092ca68129e8db34.jpg",
+        "https://telegra.ph/file/2409d9e8e67893da677ac.jpg",
+        "https://telegra.ph/file/37fa13571a9343d6b8a1b.jpg",
+        "https://telegra.ph/file/b13e68005ef3b5c5826b7.jpg",
+        "https://telegra.ph/file/f505906c19eff706899ba.jpg",
+        "https://telegra.ph/file/3f4a2e644c0735a50bb0f.jpg",
+        "https://telegra.ph/file/5aa8922bb6986469bd97e.jpg",
+        "https://telegra.ph/file/f83cfb53b01b9b7031092.jpg",
+        "https://telegra.ph/file/885ebbba5299030b99d8d.jpg",
+        "https://telegra.ph/file/d41177f26241c725b432d.jpg",
+        "https://telegra.ph/file/3f506c7da24b9b9155fab.jpg",
+        "https://telegra.ph/file/1e2dcd116332289e9ec05.jpg",
+        "https://telegra.ph/file/cece4ffded939566368f9.jpg",
+        "https://telegra.ph/file/9d85e7757151ba1e99908.jpg",
+        "https://telegra.ph/file/e284828237bcd9f15c02e.jpg",
+        "https://telegra.ph/file/7398cbdd126ed406f67f1.jpg",
+        "https://telegra.ph/file/456767d6d741174aed6ca.jpg",
+        "https://telegra.ph/file/a916257a45127000704ee.jpg",
+        "https://telegra.ph/file/e57bfc0de5f5adca3809c.jpg",
+        "https://telegra.ph/file/416407994745ee29cd793.jpg",
+        "https://telegra.ph/file/c43fc2ce389764ab02858.jpg",
+        "https://telegra.ph/file/7f9f3a4d4aade0c83d19d.jpg",
+        "https://telegra.ph/file/e26016ffde2703f52062f.jpg",
+        "https://telegra.ph/file/6267ed611aef69ac8e56b.jpg",
+        "https://telegra.ph/file/5e1d479cc880e65a0d509.jpg",
+        "https://telegra.ph/file/cef52281bc91edd396be8.jpg",
+        "https://telegra.ph/file/91740872ff0e20708051d.jpg",
+        "https://telegra.ph/file/5e93d5af1f64c2dc130d4.jpg",
+        "https://telegra.ph/file/8985b32f95fb3f653028b.jpg",
+        "https://telegra.ph/file/6f8324dc5b58864b98485.jpg",
+        "https://telegra.ph/file/d1996d369a3f29944807c.jpg",
+        "https://telegra.ph/file/5dc1f2e7b44f3c297a9c5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

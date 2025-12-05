@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 4624,
+    "title": "恩田直幸 - 柴郡旗袍",
+    "sourceUrl": "https://telegra.ph/网红COS-恩田直幸---柴郡旗袍-08-26",
+    "images": [
+        "https://telegra.ph/file/020979e6bf09d4963c6ec.jpg",
+        "https://telegra.ph/file/36e6af67167ebde15da6f.jpg",
+        "https://telegra.ph/file/c7465259e723f566c44e2.jpg",
+        "https://telegra.ph/file/1f5129bab604116daeda4.jpg",
+        "https://telegra.ph/file/88a205f1232156ecbe79b.jpg",
+        "https://telegra.ph/file/d1bf26f124b1a4426565c.jpg",
+        "https://telegra.ph/file/88152112322b5c2309771.jpg",
+        "https://telegra.ph/file/76e5e5c786d140587d50f.jpg",
+        "https://telegra.ph/file/720bcf1f7fc2bad8c7f4c.jpg",
+        "https://telegra.ph/file/4fe529f260270c6416a09.jpg",
+        "https://telegra.ph/file/beadeadda1d58b6ec5880.jpg",
+        "https://telegra.ph/file/b0a30d649ce806ccdd66c.jpg",
+        "https://telegra.ph/file/a83534b5b83443999b772.jpg",
+        "https://telegra.ph/file/3d567605fb11a3c1a1648.jpg",
+        "https://telegra.ph/file/b5bf1d89acfbc1730d578.jpg",
+        "https://telegra.ph/file/1201d5f45f2fe534e34b7.jpg",
+        "https://telegra.ph/file/dfe1f44d87889fe0c4dd8.jpg",
+        "https://telegra.ph/file/fce608ec682148c629881.jpg",
+        "https://telegra.ph/file/75ddbba5f5d8f358820a9.jpg",
+        "https://telegra.ph/file/e47112f44b0e6d9bdf6f9.jpg",
+        "https://telegra.ph/file/9f3a5889f96b95c251d31.jpg",
+        "https://telegra.ph/file/da0755006e0a37875d243.jpg",
+        "https://telegra.ph/file/ef1cb1ba32d283c2dd369.jpg",
+        "https://telegra.ph/file/d2b1c6d1bf04b193597cd.jpg",
+        "https://telegra.ph/file/f18cb74997f646cb1c91c.jpg",
+        "https://telegra.ph/file/4d9aa77b92057955096e5.jpg",
+        "https://telegra.ph/file/701d066fd2822e123aece.jpg",
+        "https://telegra.ph/file/fc28a41604d5e50c311bf.jpg",
+        "https://telegra.ph/file/b52381ceadb7a9b665650.jpg",
+        "https://telegra.ph/file/36c2b3da3f746d17203d3.jpg",
+        "https://telegra.ph/file/45f05ad5857a65ea6c358.jpg",
+        "https://telegra.ph/file/f6ae6b1cffca21ccebcec.jpg",
+        "https://telegra.ph/file/22ae6ea24b28161045bde.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

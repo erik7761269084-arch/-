@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5033,
+    "title": "疯猫ss - 思绪之礁石人鱼",
+    "sourceUrl": "https://telegra.ph/疯猫ss---思绪之礁石人鱼-08-27",
+    "images": [
+        "https://telegra.ph/file/efde6236160741c0bfc6d.jpg",
+        "https://telegra.ph/file/1f479bb799ffada99019d.jpg",
+        "https://telegra.ph/file/27d178615214e904caa37.jpg",
+        "https://telegra.ph/file/90984c07c68a057b127de.jpg",
+        "https://telegra.ph/file/ff36c35c25f051517d4d5.jpg",
+        "https://telegra.ph/file/f738b7e86251aa3ceec65.jpg",
+        "https://telegra.ph/file/45e1b40f2f7401d7bf79f.jpg",
+        "https://telegra.ph/file/edde5ebad7412b6574bdb.jpg",
+        "https://telegra.ph/file/5a4d26eb253fa733b1ef6.jpg",
+        "https://telegra.ph/file/355d6557bd5aa8e563a64.jpg",
+        "https://telegra.ph/file/4c7612db538a816abe311.jpg",
+        "https://telegra.ph/file/19ded70844488004cbe5d.jpg",
+        "https://telegra.ph/file/0c34b32d543851a06387c.jpg",
+        "https://telegra.ph/file/5fdf3912606529ae5e5aa.jpg",
+        "https://telegra.ph/file/948b535268bea79606dc2.jpg",
+        "https://telegra.ph/file/f8e1150bd46c30069d9cd.jpg",
+        "https://telegra.ph/file/97424ec05cc76f134becd.jpg",
+        "https://telegra.ph/file/56916f1360921f7bdda09.jpg",
+        "https://telegra.ph/file/cd17f683e8c003c871005.jpg",
+        "https://telegra.ph/file/207ea39227639a0598c94.jpg",
+        "https://telegra.ph/file/94abd02fea27e18314c68.jpg",
+        "https://telegra.ph/file/bb03f05416688724e5c85.jpg",
+        "https://telegra.ph/file/e622d9c5cd599a1ca0618.jpg",
+        "https://telegra.ph/file/3aeba03f7c1a84881742a.jpg",
+        "https://telegra.ph/file/56413590d0bbd0462ec7e.jpg",
+        "https://telegra.ph/file/0ed474c5797b7d8dadc96.jpg",
+        "https://telegra.ph/file/5860e3faea00fafe8dc47.jpg",
+        "https://telegra.ph/file/8be8a8fa01e0b62e7efbd.jpg",
+        "https://telegra.ph/file/4ed737654d23dd129dec8.jpg",
+        "https://telegra.ph/file/f2e5bf6e3b21f35622da0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

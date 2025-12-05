@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10829,
+    "title": "小丁 Fantasy Factory Pack Christmas Bunny",
+    "sourceUrl": "https://telegra.ph/小丁-Fantasy-Factory-Pack-Christmas-Bunny-08-26",
+    "images": [
+        "https://telegra.ph/file/f76981f8b362bed065d04.jpg",
+        "https://telegra.ph/file/552a0f323dec33f447630.jpg",
+        "https://telegra.ph/file/23963345b37f667b40e12.jpg",
+        "https://telegra.ph/file/9fd90b0d4f37a0843a010.jpg",
+        "https://telegra.ph/file/5d29a60b7118327d30d64.jpg",
+        "https://telegra.ph/file/a7ea837d7e36f657f7ce6.jpg",
+        "https://telegra.ph/file/35ba39ed26b8b47611b42.jpg",
+        "https://telegra.ph/file/02b5be7263a8ac1a5b048.jpg",
+        "https://telegra.ph/file/763e74b5d66fa04ebbb63.jpg",
+        "https://telegra.ph/file/17d1ad2e50d9fff415db5.jpg",
+        "https://telegra.ph/file/3bae71af982dd924bcbaf.jpg",
+        "https://telegra.ph/file/177216636e5b89bebf2ab.jpg",
+        "https://telegra.ph/file/915b210d9abf95fd6e100.jpg",
+        "https://telegra.ph/file/123c38d5e10a2461aa882.jpg",
+        "https://telegra.ph/file/bd845ccd838e35614d7f7.jpg",
+        "https://telegra.ph/file/6da2bfce5842cad22e644.jpg",
+        "https://telegra.ph/file/bdf430cc793de70ac0585.jpg",
+        "https://telegra.ph/file/8f8bcd9f4a08ade7bfdb0.jpg",
+        "https://telegra.ph/file/c6d0a7e85ad1cdcc1a7db.jpg",
+        "https://telegra.ph/file/219c5ecbbd072f6e04916.jpg",
+        "https://telegra.ph/file/8420a2ceab6685e9525e4.jpg",
+        "https://telegra.ph/file/9764712d9a6fe17ff0c10.jpg",
+        "https://telegra.ph/file/f217d651a1f4c1a90c68c.jpg",
+        "https://telegra.ph/file/3719c194305381926cd1c.jpg",
+        "https://telegra.ph/file/7148b7365d76df5386b01.jpg",
+        "https://telegra.ph/file/90b8f0fa0f5040efbb15e.jpg",
+        "https://telegra.ph/file/87fc5edaa6c622f777b31.jpg",
+        "https://telegra.ph/file/6689d20586fd537fec612.jpg",
+        "https://telegra.ph/file/9ad2bf3bf7a1084696c7b.jpg",
+        "https://telegra.ph/file/c50f1082291986405f07e.jpg",
+        "https://telegra.ph/file/0fe985424c09d2c24e595.jpg",
+        "https://telegra.ph/file/c3c4aa0711b4601abe533.jpg",
+        "https://telegra.ph/file/54563a9a51d2c1ec2076a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

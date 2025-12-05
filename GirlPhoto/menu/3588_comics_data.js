@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 3588,
+    "title": "布丁 八月素材包 jk（9月5会员资源）",
+    "sourceUrl": "https://telegra.ph/布丁-八月素材包-jk9月5会员资源-08-25-2",
+    "images": [
+        "https://telegra.ph/file/36bc70a4511cb04797a07.png",
+        "https://telegra.ph/file/43a5be3418a7b94b99ddf.jpg",
+        "https://telegra.ph/file/fbcabed68b911e727b989.jpg",
+        "https://telegra.ph/file/6fa8a38cc853dc0313ddd.jpg",
+        "https://telegra.ph/file/83259e67dd4520bd08ce5.jpg",
+        "https://telegra.ph/file/6ea56df242f367c1918a8.jpg",
+        "https://telegra.ph/file/0367fbe893fb6f44103e0.jpg",
+        "https://telegra.ph/file/bf5fd862a91a8441cabfd.jpg",
+        "https://telegra.ph/file/78a643b298788c85a19a1.jpg",
+        "https://telegra.ph/file/9b198bc25b2cb0cf07793.jpg",
+        "https://telegra.ph/file/bae7457dcf107d8cba7d1.jpg",
+        "https://telegra.ph/file/cdc3213a135ca69deb511.jpg",
+        "https://telegra.ph/file/01e0766b41220f310dbb9.jpg",
+        "https://telegra.ph/file/45cd20b488127224892f2.jpg",
+        "https://telegra.ph/file/434ff091518008a2cec91.jpg",
+        "https://telegra.ph/file/2af357718a984b582e053.jpg",
+        "https://telegra.ph/file/33a1f290a1f94fb5588e0.jpg",
+        "https://telegra.ph/file/e4ef25b0d7f77fd96aa13.jpg",
+        "https://telegra.ph/file/a8c79ec8ba507328f8635.jpg",
+        "https://telegra.ph/file/398526c77f2aceec42b4c.jpg",
+        "https://telegra.ph/file/5e268a6f279a321d888e4.jpg",
+        "https://telegra.ph/file/6c8a19ad0536167d53e50.jpg",
+        "https://telegra.ph/file/043deeb99704e0ea4f25f.jpg",
+        "https://telegra.ph/file/4f5d8c775bcb91128c801.jpg",
+        "https://telegra.ph/file/a3a80524c6e618926d88e.jpg",
+        "https://telegra.ph/file/50dd097aea1dc3268bc20.jpg",
+        "https://telegra.ph/file/98680b568c7edd9910de6.jpg",
+        "https://telegra.ph/file/aaa9282ed75bf5df36e77.jpg",
+        "https://telegra.ph/file/8321b99f88ee151bfb8ff.jpg",
+        "https://telegra.ph/file/6a379d7c71a8268e8835d.jpg",
+        "https://telegra.ph/file/bc621d946f9f51c58ca2a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

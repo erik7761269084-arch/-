@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10643,
+    "title": "仙女月 大凤纯白婚纱 [30P-189MB]",
+    "sourceUrl": "https://telegra.ph/仙女月-大凤纯白婚纱-30P-189MB-08-25",
+    "images": [
+        "https://telegra.ph/file/c208b14722aa93fba3b1a.jpg",
+        "https://telegra.ph/file/0ee37615ee181b16253ca.jpg",
+        "https://telegra.ph/file/bf20fdee77eb1eb069f9e.jpg",
+        "https://telegra.ph/file/7d77326ba2434ca9900ed.jpg",
+        "https://telegra.ph/file/6664ee117c8c78d3c80bb.jpg",
+        "https://telegra.ph/file/2fd2bfc1745caaa5d9ad4.jpg",
+        "https://telegra.ph/file/969b3014f03679991a934.jpg",
+        "https://telegra.ph/file/1d6bfa8f53de0177ee1ee.jpg",
+        "https://telegra.ph/file/1b2d495642ed496644ed2.jpg",
+        "https://telegra.ph/file/46b7210dfb747c7a4e972.jpg",
+        "https://telegra.ph/file/e1be1f3e469eeb78c056d.jpg",
+        "https://telegra.ph/file/9e51079a0a7aa907a83ad.jpg",
+        "https://telegra.ph/file/dfc9f54eea4f0970bbc40.jpg",
+        "https://telegra.ph/file/e08e6abe1f64e2d1bff90.jpg",
+        "https://telegra.ph/file/b67fb4ba48bf770afa074.jpg",
+        "https://telegra.ph/file/8db8334360e4edc25ac4b.jpg",
+        "https://telegra.ph/file/a21090bf7d142b4e840fb.jpg",
+        "https://telegra.ph/file/034a79fe250f4e42e7bd5.jpg",
+        "https://telegra.ph/file/912d584bf20dd7fb73893.jpg",
+        "https://telegra.ph/file/2b0fcab025802be31642f.jpg",
+        "https://telegra.ph/file/d991d64a48df1e83fd666.jpg",
+        "https://telegra.ph/file/0dd32248740fa2001f5d4.jpg",
+        "https://telegra.ph/file/426caead0b2f466508812.jpg",
+        "https://telegra.ph/file/ef4c756d4a294968b5107.jpg",
+        "https://telegra.ph/file/7b3182bdffebbef7b97e1.jpg",
+        "https://telegra.ph/file/1f800c68d8d8931d553d9.jpg",
+        "https://telegra.ph/file/2b03bc9e0c9a1047ca185.jpg",
+        "https://telegra.ph/file/f03fcadb8925296fc1656.jpg",
+        "https://telegra.ph/file/1da1111b2150c1c0f03e7.jpg",
+        "https://telegra.ph/file/e0b897f5f320567ce66f9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4027,
+    "title": "蠢沫沫 - 蕾丝睡衣",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---蕾丝睡衣-08-27",
+    "images": [
+        "https://telegra.ph/file/72519b3fd91231b0a39d7.jpg",
+        "https://telegra.ph/file/cf266023add855dca5ce2.jpg",
+        "https://telegra.ph/file/dee345fdc8e45c751ad94.jpg",
+        "https://telegra.ph/file/9072c81217f2c7ddf3d77.jpg",
+        "https://telegra.ph/file/1d6deee95fa49218c0d23.jpg",
+        "https://telegra.ph/file/68f29eed0d1357e215ed9.jpg",
+        "https://telegra.ph/file/1268a0685f8945fd0506d.jpg",
+        "https://telegra.ph/file/96fa815451586d406db87.jpg",
+        "https://telegra.ph/file/31d92a4b969cb1ed56b4f.jpg",
+        "https://telegra.ph/file/702a47d8bfa3e8184381f.jpg",
+        "https://telegra.ph/file/b5cc7bf72c01fc1908ad7.jpg",
+        "https://telegra.ph/file/e2b7161fc7899f70b9634.jpg",
+        "https://telegra.ph/file/f4135ebff586390930f5a.jpg",
+        "https://telegra.ph/file/e7749f516c15273c0b61c.jpg",
+        "https://telegra.ph/file/671bf7b1643dde83f0033.jpg",
+        "https://telegra.ph/file/aa2cf8d6a5de1b2440536.jpg",
+        "https://telegra.ph/file/5eacdd94e76e175d1d155.jpg",
+        "https://telegra.ph/file/d5897b2210b360e21b977.jpg",
+        "https://telegra.ph/file/75961b81e1d228048df23.jpg",
+        "https://telegra.ph/file/4c1af055c1aed39800a0f.jpg",
+        "https://telegra.ph/file/0a95a471694d5f1f5ac9e.jpg",
+        "https://telegra.ph/file/9dba2c7230b27f335bcc5.jpg",
+        "https://telegra.ph/file/58995ed249d50f9e02f5f.jpg",
+        "https://telegra.ph/file/e4c11139b2e2d4d4cdf61.jpg",
+        "https://telegra.ph/file/81b75a4f956aa26e9a396.jpg",
+        "https://telegra.ph/file/c35e1573ebf745856b0a3.jpg",
+        "https://telegra.ph/file/ffad89b473bdac8074d19.jpg",
+        "https://telegra.ph/file/5f8658088bdbdd1f0dcb5.jpg",
+        "https://telegra.ph/file/4c40ed630fabaa557b1ac.jpg",
+        "https://telegra.ph/file/713e747cedbc08016063c.jpg",
+        "https://telegra.ph/file/6b924776296e8bb46cbcd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

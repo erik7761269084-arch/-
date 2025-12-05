@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10567,
+    "title": "西园寺南歌 – 牛牛奶牛",
+    "sourceUrl": "https://telegra.ph/西园寺南歌--牛牛奶牛-08-29",
+    "images": [
+        "https://telegra.ph/file/d32e3f2f1a92c1bac4e54.jpg",
+        "https://telegra.ph/file/036215c15e0c101ef6f75.jpg",
+        "https://telegra.ph/file/c3a30d94c6bfb7084d862.jpg",
+        "https://telegra.ph/file/0f6dc02d98ece62567daf.jpg",
+        "https://telegra.ph/file/9daf9dde9958c68d3960e.jpg",
+        "https://telegra.ph/file/a96538996bcc7ceb6c465.jpg",
+        "https://telegra.ph/file/70642bca465a26552626a.jpg",
+        "https://telegra.ph/file/9a50510e8dcd8ccf0dc9b.jpg",
+        "https://telegra.ph/file/1a5914e099c6c35d2eacb.jpg",
+        "https://telegra.ph/file/fc12f69790d74d58f1236.jpg",
+        "https://telegra.ph/file/2354c3399163c09032866.jpg",
+        "https://telegra.ph/file/87ba8a105ae3e314284a5.jpg",
+        "https://telegra.ph/file/2aa0c73e4a111bd088927.jpg",
+        "https://telegra.ph/file/42200b89ff5971d1dc389.jpg",
+        "https://telegra.ph/file/46dc13287f33ed3af94d9.jpg",
+        "https://telegra.ph/file/b958a48493ce3ff583244.jpg",
+        "https://telegra.ph/file/ae6dc0b17552371c294a9.jpg",
+        "https://telegra.ph/file/78bb924d46be2d213b29a.jpg",
+        "https://telegra.ph/file/70429038e13c4365d78f5.jpg",
+        "https://telegra.ph/file/3edf697e2d8a61eee2743.jpg",
+        "https://telegra.ph/file/80502a4cb509f62ba3202.jpg",
+        "https://telegra.ph/file/5917a08e1dd538858159a.jpg",
+        "https://telegra.ph/file/71e656cc5b73a2046c142.jpg",
+        "https://telegra.ph/file/91c6f69fc514668e52b14.jpg",
+        "https://telegra.ph/file/d2b44a497e5a5859c19b6.jpg",
+        "https://telegra.ph/file/fe8ff3dd438c3744c9399.jpg",
+        "https://telegra.ph/file/d10da606aaf53d4e04815.jpg",
+        "https://telegra.ph/file/a160597d4e79df7bf32b8.jpg",
+        "https://telegra.ph/file/adeaa8206869b1117f191.jpg",
+        "https://telegra.ph/file/7a4ad3f58a27bd1b4c802.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

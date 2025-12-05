@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 6471,
+    "title": "鹿八岁baby - 尼尔：机械纪元 2B冰雪",
+    "sourceUrl": "https://telegra.ph/鹿八岁baby---尼尔机械纪元-2B冰雪-08-29",
+    "images": [
+        "https://telegra.ph/file/43af6e960ddd7a6d5fe59.jpg",
+        "https://telegra.ph/file/d555c4f99dbc376f3b582.jpg",
+        "https://telegra.ph/file/44fa71f702ffa691fd563.jpg",
+        "https://telegra.ph/file/f491e553b7503a3c8ec48.jpg",
+        "https://telegra.ph/file/c32b271ce8d8d31df5163.jpg",
+        "https://telegra.ph/file/0eacf784d0eedcc3ba907.jpg",
+        "https://telegra.ph/file/2f611944b3134597edf88.jpg",
+        "https://telegra.ph/file/57de8afe55c12d6efdb8a.jpg",
+        "https://telegra.ph/file/fb73429aba2bab703d026.jpg",
+        "https://telegra.ph/file/eb45f9dd8221aae6d6cf1.jpg",
+        "https://telegra.ph/file/d1957f7a9df59739c6e77.jpg",
+        "https://telegra.ph/file/1341a6f8f40aa17dfca6b.jpg",
+        "https://telegra.ph/file/27f5da09faf755679b39f.jpg",
+        "https://telegra.ph/file/a8607797dbb536e9d8992.jpg",
+        "https://telegra.ph/file/3fa93b25d77feb9d59803.jpg",
+        "https://telegra.ph/file/cbb80d24be769428fcf3d.jpg",
+        "https://telegra.ph/file/0027fcad32d2e6883c950.jpg",
+        "https://telegra.ph/file/f12ebda98abaa4d895886.jpg",
+        "https://telegra.ph/file/33e01fb30b2fd49c47194.jpg",
+        "https://telegra.ph/file/eaf44bd12d7c8c20051bb.jpg",
+        "https://telegra.ph/file/b1aeef34301c699d6116a.jpg",
+        "https://telegra.ph/file/c4fb7c0e2acecede72262.jpg",
+        "https://telegra.ph/file/9dcc942599052f6773fbf.jpg",
+        "https://telegra.ph/file/5dd0e6a2a6a68269a2b08.jpg",
+        "https://telegra.ph/file/12e172e215ea5c5c243fc.jpg",
+        "https://telegra.ph/file/d080b0f8e3f78ad62e97a.jpg",
+        "https://telegra.ph/file/b168a27d164deb4e6c728.jpg",
+        "https://telegra.ph/file/c7140297b4a66a8401564.jpg",
+        "https://telegra.ph/file/23e3f31a9f960b97f17de.jpg",
+        "https://telegra.ph/file/d22a2d27e199cb2fb781f.jpg",
+        "https://telegra.ph/file/b544e0bf71a66194a6a40.jpg",
+        "https://telegra.ph/file/6e3022035015fff2c0fa2.jpg",
+        "https://telegra.ph/file/f834cc1b9a0cbd618bcf9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

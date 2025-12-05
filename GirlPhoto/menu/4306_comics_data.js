@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4306,
+    "title": "抖娘利世 推倒小护士",
+    "sourceUrl": "https://telegra.ph/抖娘利世-推倒小护士-08-27",
+    "images": [
+        "https://telegra.ph/file/c7bfa8f31a1835fe93485.jpg",
+        "https://telegra.ph/file/b9ad69f4fcac1ffd3630d.jpg",
+        "https://telegra.ph/file/f744655b0e6c8d31e2cc8.jpg",
+        "https://telegra.ph/file/43a0d12f66e8008d219ae.jpg",
+        "https://telegra.ph/file/b1f839c019aba381b21a9.jpg",
+        "https://telegra.ph/file/a5589e987e47bce06960b.jpg",
+        "https://telegra.ph/file/1e03081f232fa5ddeae48.jpg",
+        "https://telegra.ph/file/4d3ac127703d4f916274e.jpg",
+        "https://telegra.ph/file/9d77333ed4c6c76599aae.jpg",
+        "https://telegra.ph/file/3d59525138df878cc9bcb.jpg",
+        "https://telegra.ph/file/91c24946b88ce19a3ab5c.jpg",
+        "https://telegra.ph/file/efb54fd54ef4cd5266bae.jpg",
+        "https://telegra.ph/file/587422d895d3ed43a4bc1.jpg",
+        "https://telegra.ph/file/1d3e85e83140427be8622.jpg",
+        "https://telegra.ph/file/5b79e34a4521445956420.jpg",
+        "https://telegra.ph/file/28c0b15e28b72d2738cd0.jpg",
+        "https://telegra.ph/file/9dacc9145ea4862879540.jpg",
+        "https://telegra.ph/file/6ff5869ab7880878e5f99.jpg",
+        "https://telegra.ph/file/397d68651776f6d4f85e1.jpg",
+        "https://telegra.ph/file/7111fdbbf3aa0603acbd4.jpg",
+        "https://telegra.ph/file/436271ca1d5ee18636678.jpg",
+        "https://telegra.ph/file/a4f8907504631aa0c50a5.jpg",
+        "https://telegra.ph/file/1c6ec057cc4d10033ccda.jpg",
+        "https://telegra.ph/file/8dceb861780878dee91ed.jpg",
+        "https://telegra.ph/file/416196e6e3630ee0780f6.jpg",
+        "https://telegra.ph/file/9f0bd81948ff5106b6e3f.jpg",
+        "https://telegra.ph/file/a8b2f6f5f56ca7cb9ac87.jpg",
+        "https://telegra.ph/file/65107be517341fb9d8473.jpg",
+        "https://telegra.ph/file/ac6927561e53a04cd0ae7.jpg",
+        "https://telegra.ph/file/5ee66563f446759043a82.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

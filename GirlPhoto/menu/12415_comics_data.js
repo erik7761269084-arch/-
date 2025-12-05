@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12415,
+    "title": "一小央泽 - 束缚",
+    "sourceUrl": "https://telegra.ph/一小央泽---束缚-08-30",
+    "images": [
+        "https://telegra.ph/file/ddd065ee6fe70c59f8fe3.jpg",
+        "https://telegra.ph/file/e6707a8cf2fc5af513436.jpg",
+        "https://telegra.ph/file/ae04252431b2ab71b7e39.jpg",
+        "https://telegra.ph/file/9a50c741aff46c030c3a6.jpg",
+        "https://telegra.ph/file/490ea6281549640d020fd.jpg",
+        "https://telegra.ph/file/ec990e1406cc824368f42.jpg",
+        "https://telegra.ph/file/30699907474057410da68.jpg",
+        "https://telegra.ph/file/079165c3c76e8311a81a9.jpg",
+        "https://telegra.ph/file/cd97846f83dd45393b2dd.jpg",
+        "https://telegra.ph/file/e0f1fd41e55d0fd9da2c9.jpg",
+        "https://telegra.ph/file/8211a292fb4b79de5ac25.jpg",
+        "https://telegra.ph/file/db44b7bd7d06bf56be144.jpg",
+        "https://telegra.ph/file/3d8edb5d7c2774102fe19.jpg",
+        "https://telegra.ph/file/5a3db7993a61324cadef2.jpg",
+        "https://telegra.ph/file/95c3a651a9c6057d85a63.jpg",
+        "https://telegra.ph/file/e56a89137982bf886a014.jpg",
+        "https://telegra.ph/file/0f21fe5575db1e37aba61.jpg",
+        "https://telegra.ph/file/7e347f48f1c3682105766.jpg",
+        "https://telegra.ph/file/38e705b84360a52aafa41.jpg",
+        "https://telegra.ph/file/70cdf31cd1e1ca5cc23e9.jpg",
+        "https://telegra.ph/file/b4af8a02116e0d820546d.jpg",
+        "https://telegra.ph/file/b5235865386d95a127daf.jpg",
+        "https://telegra.ph/file/f1374280552abe0109d84.jpg",
+        "https://telegra.ph/file/111dcb340a5437f6ae7bd.jpg",
+        "https://telegra.ph/file/a8dca506e935468f3b536.jpg",
+        "https://telegra.ph/file/164841b21d668c383507f.jpg",
+        "https://telegra.ph/file/044c71455e66214d95cb9.jpg",
+        "https://telegra.ph/file/875343581291065e80861.jpg",
+        "https://telegra.ph/file/b6b720e6f8d40f06f5013.jpg",
+        "https://telegra.ph/file/834b58db7a1f4eff4c156.jpg",
+        "https://telegra.ph/file/78238c4ba4f310f5ab398.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

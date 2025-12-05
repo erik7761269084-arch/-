@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 4908,
+    "title": "封疆疆v - 婚纱玛修",
+    "sourceUrl": "https://telegra.ph/封疆疆v---婚纱玛修-08-27",
+    "images": [
+        "https://telegra.ph/file/3d3ac213c044238ce3f02.jpg",
+        "https://telegra.ph/file/c0a603987c10d6743c014.jpg",
+        "https://telegra.ph/file/af68a7b47f610ac7b5b03.jpg",
+        "https://telegra.ph/file/13ac8e532e9535d8a122a.jpg",
+        "https://telegra.ph/file/3b6b80bebd8c0dc23c206.jpg",
+        "https://telegra.ph/file/30b93159e2655662a5150.jpg",
+        "https://telegra.ph/file/c8aebe568a0e1c3dac1be.jpg",
+        "https://telegra.ph/file/1abd182af199207a2b2fe.jpg",
+        "https://telegra.ph/file/ba3be9252d8a317c7bc93.jpg",
+        "https://telegra.ph/file/85b8ebc1dc2363f4db4c5.jpg",
+        "https://telegra.ph/file/e06e4fb4b2432f4e7234b.jpg",
+        "https://telegra.ph/file/656863cc3447b7dcaa245.jpg",
+        "https://telegra.ph/file/17cf895b527333287763e.jpg",
+        "https://telegra.ph/file/bd1901bed3b04d7d4d6f3.jpg",
+        "https://telegra.ph/file/b40382d6b858ffc607791.jpg",
+        "https://telegra.ph/file/f0f63315aebe9561968af.jpg",
+        "https://telegra.ph/file/3838b346a6e1f92da41af.jpg",
+        "https://telegra.ph/file/b0ebfeea14128f67abc49.jpg",
+        "https://telegra.ph/file/758a23baf15df8b717851.jpg",
+        "https://telegra.ph/file/29266a7dc659e99c7ce86.jpg",
+        "https://telegra.ph/file/57e681446015a0462e10d.jpg",
+        "https://telegra.ph/file/5ee2b38a06b59da38bbfe.jpg",
+        "https://telegra.ph/file/bedd10deb51e53da5e02e.jpg",
+        "https://telegra.ph/file/5b515005c76fa6e4ebd4a.jpg",
+        "https://telegra.ph/file/d21ab2dfc2f71965b07f4.jpg",
+        "https://telegra.ph/file/2b7375ced6435b81f6e29.jpg",
+        "https://telegra.ph/file/4b1105a80465476f18ac2.jpg",
+        "https://telegra.ph/file/e336240c6fcd2de1d1e90.jpg",
+        "https://telegra.ph/file/f4c4230e81a6b704bd6f7.jpg",
+        "https://telegra.ph/file/4fd36fb5434b40bfae458.jpg",
+        "https://telegra.ph/file/0759ed05dacba28debcc4.jpg",
+        "https://telegra.ph/file/6239552083a3665340fd2.jpg",
+        "https://telegra.ph/file/130fc99ef2a9337c0f4be.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

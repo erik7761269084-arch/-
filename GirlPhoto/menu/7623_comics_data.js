@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 7623,
+    "title": "木绵绵OwO&桜桃喵 皆(制服×妹抖)",
+    "sourceUrl": "https://telegra.ph/木绵绵OwO桜桃喵-皆制服妹抖-08-27",
+    "images": [
+        "https://telegra.ph/file/6a7c48090b953ae885393.jpg",
+        "https://telegra.ph/file/bd768d16ecdc2b3ad31a8.jpg",
+        "https://telegra.ph/file/b2e8e2b74411714c04c9b.jpg",
+        "https://telegra.ph/file/834813d989a80c111452c.jpg",
+        "https://telegra.ph/file/119ad6316ed738dfb80cb.jpg",
+        "https://telegra.ph/file/d3a800bc4dca5fb80cf95.jpg",
+        "https://telegra.ph/file/c8b2a6649d3849c2f1bd7.jpg",
+        "https://telegra.ph/file/f166b91a686d5ab451617.jpg",
+        "https://telegra.ph/file/42c669db9ec1363a1d481.jpg",
+        "https://telegra.ph/file/ad5a0cb8b763bacf1167c.jpg",
+        "https://telegra.ph/file/a723288bd57bde6360374.jpg",
+        "https://telegra.ph/file/8c71a16c9810642311bf3.jpg",
+        "https://telegra.ph/file/4294560b0fdaf3e32f8f8.jpg",
+        "https://telegra.ph/file/8c84c6ed8765fd5d978b5.jpg",
+        "https://telegra.ph/file/6f0bff2ae82a71391d7fa.jpg",
+        "https://telegra.ph/file/a56259e66d8610015b932.jpg",
+        "https://telegra.ph/file/42e108305328977312c08.jpg",
+        "https://telegra.ph/file/ec0ca4a5eb1b5c9a2e929.jpg",
+        "https://telegra.ph/file/208adeb532272ebcf1ab7.jpg",
+        "https://telegra.ph/file/ca13bf56a663c736dd6a6.jpg",
+        "https://telegra.ph/file/0c2d9e2a8262e43d33b26.jpg",
+        "https://telegra.ph/file/a599118a7ec7654ff2658.jpg",
+        "https://telegra.ph/file/0ece4de581ed791a1881e.jpg",
+        "https://telegra.ph/file/c9c9add5b493a3f5e48d6.jpg",
+        "https://telegra.ph/file/d9e2a87dc162ca3f2a7e2.jpg",
+        "https://telegra.ph/file/687d184dede54d1f4315c.jpg",
+        "https://telegra.ph/file/6cba9b4ccc0fde20fd9ba.jpg",
+        "https://telegra.ph/file/e29f028e523b8967f37ae.jpg",
+        "https://telegra.ph/file/d3cd706a11f5ee74586f7.jpg",
+        "https://telegra.ph/file/b8fe2c93fae8edd6705eb.jpg",
+        "https://telegra.ph/file/7c9a08889dea634432d18.jpg",
+        "https://telegra.ph/file/04f348aea6b1236381b36.jpg",
+        "https://telegra.ph/file/80677ace35301af569639.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

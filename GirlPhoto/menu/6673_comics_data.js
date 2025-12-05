@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6673,
+    "title": "麻花酱 蔚蓝档案 龙华妃咲",
+    "sourceUrl": "https://telegra.ph/%E9%BA%BB%E8%8A%B1%E9%85%B1-%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-%E9%BE%99%E5%8D%8E%E5%A6%83%E5%92%B2-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/05/16/10.jpg",
+        "https://image.acg.lol/file/2025/05/16/01.jpg",
+        "https://image.acg.lol/file/2025/05/16/02.jpg",
+        "https://image.acg.lol/file/2025/05/16/03.jpg",
+        "https://image.acg.lol/file/2025/05/16/04.jpg",
+        "https://image.acg.lol/file/2025/05/16/05.jpg",
+        "https://image.acg.lol/file/2025/05/16/06.jpg",
+        "https://image.acg.lol/file/2025/05/16/07.jpg",
+        "https://image.acg.lol/file/2025/05/16/08.jpg",
+        "https://image.acg.lol/file/2025/05/16/09.jpg",
+        "https://image.acg.lol/file/2025/05/16/11.jpg",
+        "https://image.acg.lol/file/2025/05/16/12.jpg",
+        "https://image.acg.lol/file/2025/05/16/13.jpg",
+        "https://image.acg.lol/file/2025/05/16/14.jpg",
+        "https://image.acg.lol/file/2025/05/16/15.jpg",
+        "https://image.acg.lol/file/2025/05/16/16.jpg",
+        "https://image.acg.lol/file/2025/05/16/17.jpg",
+        "https://image.acg.lol/file/2025/05/16/18.jpg",
+        "https://image.acg.lol/file/2025/05/16/19.jpg",
+        "https://image.acg.lol/file/2025/05/16/20.jpg",
+        "https://image.acg.lol/file/2025/05/16/21.jpg",
+        "https://image.acg.lol/file/2025/05/16/22.jpg",
+        "https://image.acg.lol/file/2025/05/16/23.jpg",
+        "https://image.acg.lol/file/2025/05/16/24.jpg",
+        "https://image.acg.lol/file/2025/05/16/25.jpg",
+        "https://image.acg.lol/file/2025/05/16/26.jpg",
+        "https://image.acg.lol/file/2025/05/16/27.jpg",
+        "https://image.acg.lol/file/2025/05/16/28.jpg",
+        "https://image.acg.lol/file/2025/05/16/29.jpg",
+        "https://image.acg.lol/file/2025/05/16/30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

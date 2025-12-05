@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4872,
+    "title": "封疆疆 - 小恶魔 [30P-316MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%81%E7%96%86%E7%96%86---%E5%B0%8F%E6%81%B6%E9%AD%94-30P-316MB-08-21",
+    "images": [
+        "https://image.acg.lol/file/2024/09/22/1-16.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-1.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-2.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-3.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-4.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-5.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-6.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-7.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-8.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-9.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-10.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-11.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-12.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-13.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-14.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-15.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-17.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-18.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-19.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-20.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-21.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-22.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-23.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-24.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-25.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-26.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-27.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-28.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-29.jpg",
+        "https://image.acg.lol/file/2024/09/22/1-30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

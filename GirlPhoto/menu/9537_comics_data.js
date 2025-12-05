@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9537,
+    "title": "蜜桃少女是依酱呀 欧风",
+    "sourceUrl": "https://telegra.ph/蜜桃少女是依酱呀-欧风-08-28",
+    "images": [
+        "https://telegra.ph/file/2247bf215637560784a2f.jpg",
+        "https://telegra.ph/file/e2cf0a5ab433f31798842.jpg",
+        "https://telegra.ph/file/2c3b70b01633ba1485b47.jpg",
+        "https://telegra.ph/file/8fa3bdda1407288a57869.jpg",
+        "https://telegra.ph/file/4ad14d68468b7afeb1e2c.jpg",
+        "https://telegra.ph/file/454d2de24031dbfb7431d.jpg",
+        "https://telegra.ph/file/4feb363690980efd2663e.jpg",
+        "https://telegra.ph/file/72c418cc3a99f25e1fc79.jpg",
+        "https://telegra.ph/file/4045ea519a28db6bc8d9e.jpg",
+        "https://telegra.ph/file/68efbdb511b05493e3e26.jpg",
+        "https://telegra.ph/file/e7d902b6fac4ffb7d6be6.jpg",
+        "https://telegra.ph/file/850e3df183da7c6d1a115.jpg",
+        "https://telegra.ph/file/52c12dff1275933b52b6a.jpg",
+        "https://telegra.ph/file/ce81c1ba4ac22aa8721a6.jpg",
+        "https://telegra.ph/file/541e3e48591f85a68b0ae.jpg",
+        "https://telegra.ph/file/5330d6b00c4c5cd385e33.jpg",
+        "https://telegra.ph/file/2f0062a1a1e4c98b2bd28.jpg",
+        "https://telegra.ph/file/d79b209d1ce16acc1a491.jpg",
+        "https://telegra.ph/file/970cc1c7bc5fe9e13d8ae.jpg",
+        "https://telegra.ph/file/c7927cba3ca3c981b43ce.jpg",
+        "https://telegra.ph/file/f2bce82c79f71b3be226f.jpg",
+        "https://telegra.ph/file/ebb2ebcbe80466dd667b1.jpg",
+        "https://telegra.ph/file/94e120c08e31ca6af43f7.jpg",
+        "https://telegra.ph/file/2e2f711161156bb5294e8.jpg",
+        "https://telegra.ph/file/b485124b78ba6ddbf3794.jpg",
+        "https://telegra.ph/file/d5c85694a5030eb9ce38e.jpg",
+        "https://telegra.ph/file/268e50cefc2f9296eb1c6.jpg",
+        "https://telegra.ph/file/b3eba2d3a294cc9a2e3cc.jpg",
+        "https://telegra.ph/file/3a30c1db044b96127c74c.jpg",
+        "https://telegra.ph/file/b9e2edd0a08898b41efd0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

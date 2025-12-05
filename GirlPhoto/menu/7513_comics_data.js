@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7513,
+    "title": "爆机少女喵小吉 - 4月订阅T3 碧蓝航线-大凤",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉---4月订阅T3-碧蓝航线-大凤-08-29",
+    "images": [
+        "https://telegra.ph/file/fd8357a7acd2319d8a26e.jpg",
+        "https://telegra.ph/file/7683529b5a3703d93fd29.jpg",
+        "https://telegra.ph/file/a99b121fe2f5029bf68b9.jpg",
+        "https://telegra.ph/file/e4d9016902e070a2c4150.jpg",
+        "https://telegra.ph/file/ebb3948a9fc018fda7dbd.jpg",
+        "https://telegra.ph/file/a10e8b5ca1bfbc1284e6e.jpg",
+        "https://telegra.ph/file/760aac65bd8ead72ebf29.jpg",
+        "https://telegra.ph/file/aa8f87df1690476249725.jpg",
+        "https://telegra.ph/file/a38dc623a040d0349a801.jpg",
+        "https://telegra.ph/file/e9d113d947c76bedfba75.jpg",
+        "https://telegra.ph/file/8094016d8c2fd6a1d55f0.jpg",
+        "https://telegra.ph/file/8e37216f738757e844f34.jpg",
+        "https://telegra.ph/file/06583d60708bed3eb8f94.jpg",
+        "https://telegra.ph/file/4026a685abe874ed10581.jpg",
+        "https://telegra.ph/file/bc832af25c338e1dedf29.jpg",
+        "https://telegra.ph/file/cae53f4dc5ecfe0b8afbb.jpg",
+        "https://telegra.ph/file/d43b41eee2b7bd12d3197.jpg",
+        "https://telegra.ph/file/a3155e23365119f75259d.jpg",
+        "https://telegra.ph/file/e0883d354300ae3de349d.jpg",
+        "https://telegra.ph/file/43a12d6ba5d14fc118df7.jpg",
+        "https://telegra.ph/file/a15ac1c0f853102940b1d.jpg",
+        "https://telegra.ph/file/897c7e1f20864d6c4eeff.jpg",
+        "https://telegra.ph/file/eca534697aa8baf622f41.jpg",
+        "https://telegra.ph/file/a701cc6fd4b7a662e9cb8.jpg",
+        "https://telegra.ph/file/c955caede236e6624abbc.jpg",
+        "https://telegra.ph/file/1359e1ec9a8e616e7a665.jpg",
+        "https://telegra.ph/file/ba547db400f4606cac928.jpg",
+        "https://telegra.ph/file/92d9802aacd84801a90b0.jpg",
+        "https://telegra.ph/file/8c6d092ad0d82a809dedf.jpg",
+        "https://telegra.ph/file/fe998fad780d672b90d36.jpg",
+        "https://telegra.ph/file/1cb3b131487603f61da86.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

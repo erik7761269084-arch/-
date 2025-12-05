@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9593,
+    "title": "霜月shimo Tバックブルマ+ピンク縞ブラ [30P-222MB]",
+    "sourceUrl": "https://telegra.ph/霜月shimo-Tバックブルマピンク縞ブラ-30P-222MB-08-25",
+    "images": [
+        "https://telegra.ph/file/3a1477fe05c7dda2ace35.jpg",
+        "https://telegra.ph/file/5a085e041c153abd5ff62.jpg",
+        "https://telegra.ph/file/766f0df6bfa555a386df0.jpg",
+        "https://telegra.ph/file/3db6719c92863f5376dd5.jpg",
+        "https://telegra.ph/file/3976446aa3dd335299476.jpg",
+        "https://telegra.ph/file/4288773155c30e65e2832.jpg",
+        "https://telegra.ph/file/4cae42d29cef1f17b6131.jpg",
+        "https://telegra.ph/file/f0675f9d0386b052eb449.jpg",
+        "https://telegra.ph/file/96b213bae10fdf572b903.jpg",
+        "https://telegra.ph/file/fc497702b5eea7985fa52.jpg",
+        "https://telegra.ph/file/39531bf2ae7afa7fd22b4.jpg",
+        "https://telegra.ph/file/2d4964df6c68bd1ab3f29.jpg",
+        "https://telegra.ph/file/e0304b8595ada426339b0.jpg",
+        "https://telegra.ph/file/27c972471066875ac2b65.jpg",
+        "https://telegra.ph/file/0dbaeb5cf17b2396a511e.jpg",
+        "https://telegra.ph/file/264cf8102053793cd47ab.jpg",
+        "https://telegra.ph/file/26b4f8124733ba01cf19a.jpg",
+        "https://telegra.ph/file/887f90b290a3ec9526893.jpg",
+        "https://telegra.ph/file/c13618ca8ae313753d636.jpg",
+        "https://telegra.ph/file/15e61082bfe251892c79e.jpg",
+        "https://telegra.ph/file/93d906623c335a369d802.jpg",
+        "https://telegra.ph/file/fe9b37e591043f980d39f.jpg",
+        "https://telegra.ph/file/1d96c75c9ed7744b325d8.jpg",
+        "https://telegra.ph/file/7b96ac8cf087eb5d6d72e.jpg",
+        "https://telegra.ph/file/a909dbd158a33c32ef7bc.jpg",
+        "https://telegra.ph/file/1b329c6f8205e1ef5f27f.jpg",
+        "https://telegra.ph/file/2914fd3a361180d0d77e2.jpg",
+        "https://telegra.ph/file/5f786b93d245a1603f51b.jpg",
+        "https://telegra.ph/file/ea44dc48a2949e04b3a45.jpg",
+        "https://telegra.ph/file/525be86343125d93db921.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

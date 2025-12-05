@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7417,
+    "title": "喵小吉 白色花嫁（2月1打赏群资源）",
+    "sourceUrl": "https://telegra.ph/喵小吉-白色花嫁2月1打赏群资源-08-25",
+    "images": [
+        "https://telegra.ph/file/eb059aba92ffef0f3ca42.jpg",
+        "https://telegra.ph/file/818bf5f9ba9dbcaecf383.jpg",
+        "https://telegra.ph/file/6c0b5b2eb6a511191b114.jpg",
+        "https://telegra.ph/file/9d24a69b4aa9ce39f67c1.jpg",
+        "https://telegra.ph/file/ab4e3ffaa610b37464c1a.jpg",
+        "https://telegra.ph/file/938af0e3cbf61aeaa7f9b.jpg",
+        "https://telegra.ph/file/c66f37ac874d291f3babc.jpg",
+        "https://telegra.ph/file/c0a87e90918feafa6d05f.jpg",
+        "https://telegra.ph/file/d4fae4971e870a3599d04.jpg",
+        "https://telegra.ph/file/224443fc4380ff71a4932.jpg",
+        "https://telegra.ph/file/5a7bc4f62c4f429e16f5f.jpg",
+        "https://telegra.ph/file/c8c41f9fd824ba6650f2f.jpg",
+        "https://telegra.ph/file/daf18666ff417e6c34bb2.jpg",
+        "https://telegra.ph/file/26816773cccfa7371b192.jpg",
+        "https://telegra.ph/file/1ec5ad62e78009e096c04.jpg",
+        "https://telegra.ph/file/03122eca3a0710746cc9b.jpg",
+        "https://telegra.ph/file/3d8839b72edc9ef25a062.jpg",
+        "https://telegra.ph/file/421454347f94dea001f3b.jpg",
+        "https://telegra.ph/file/82795b722ac97afb17f0c.jpg",
+        "https://telegra.ph/file/68ea4b6600d38ce107822.jpg",
+        "https://telegra.ph/file/459f4462f5e3d4e1bb5f1.jpg",
+        "https://telegra.ph/file/c58822eca851e7f5a9aa2.jpg",
+        "https://telegra.ph/file/c0c1515aeb7dbbcbbaf27.jpg",
+        "https://telegra.ph/file/bebef9cc0cad94be4bf0d.jpg",
+        "https://telegra.ph/file/c509c0124521256a3979a.jpg",
+        "https://telegra.ph/file/bcc9ec83c67afe5e5d0ac.jpg",
+        "https://telegra.ph/file/3c36b69d7d681a97207b3.jpg",
+        "https://telegra.ph/file/df7c4a3598135dd86304b.jpg",
+        "https://telegra.ph/file/5c985a4702fd092007965.jpg",
+        "https://telegra.ph/file/b865a2109aa8d977506a1.jpg",
+        "https://telegra.ph/file/75cc9b8085e2863bf8d0a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

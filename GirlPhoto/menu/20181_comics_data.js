@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20181,
+    "title": "艾尔登法环-梅琳娜",
+    "sourceUrl": "https://telegra.ph/艾尔登法环-梅琳娜-08-26",
+    "images": [
+        "https://telegra.ph/file/40d66b6adb6cf3ee82f81.jpg",
+        "https://telegra.ph/file/da37b1ecb8ea6ed3bd078.jpg",
+        "https://telegra.ph/file/c06427e57b676648ba606.jpg",
+        "https://telegra.ph/file/0cec6d34c659643658497.jpg",
+        "https://telegra.ph/file/5e5aa1c81e83c71ee7d9b.jpg",
+        "https://telegra.ph/file/864cfbe17052f8ea6e7c9.jpg",
+        "https://telegra.ph/file/9c5e9854347457ad3a808.jpg",
+        "https://telegra.ph/file/f1cfe9bea1dada87f9548.jpg",
+        "https://telegra.ph/file/3afc147b5577483931378.jpg",
+        "https://telegra.ph/file/f5210fb296cdaf58db59e.jpg",
+        "https://telegra.ph/file/591a612396e6a2d96e1f3.jpg",
+        "https://telegra.ph/file/c13215db165efab5849a9.jpg",
+        "https://telegra.ph/file/22878bfa56e994f30daea.jpg",
+        "https://telegra.ph/file/492c69581a15ab37e0d49.jpg",
+        "https://telegra.ph/file/f57aea99d929514f09aec.jpg",
+        "https://telegra.ph/file/d900b84957b2de98b0e7e.jpg",
+        "https://telegra.ph/file/5442b62035c03441c0009.jpg",
+        "https://telegra.ph/file/f7c05a7adad103e97e46e.jpg",
+        "https://telegra.ph/file/3491c1e16c88959bae89a.jpg",
+        "https://telegra.ph/file/1e74a93125ac9701536c8.jpg",
+        "https://telegra.ph/file/bd976227c04ef7606e9b9.jpg",
+        "https://telegra.ph/file/ec009900bc912d0b6e9d2.jpg",
+        "https://telegra.ph/file/c648989945a7cce67cc47.jpg",
+        "https://telegra.ph/file/2f6847b127ef2c0de7c3f.jpg",
+        "https://telegra.ph/file/f5cc3aef23b3232ef2179.jpg",
+        "https://telegra.ph/file/b309637568e183c025185.jpg",
+        "https://telegra.ph/file/9ebd412dd26e71dae057f.jpg",
+        "https://telegra.ph/file/befd3a2763851e202212f.jpg",
+        "https://telegra.ph/file/3feb4977da92e24560fb4.jpg",
+        "https://telegra.ph/file/8c916d0c2c1e6a3b69057.jpg",
+        "https://telegra.ph/file/781aed7210894103b24d8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

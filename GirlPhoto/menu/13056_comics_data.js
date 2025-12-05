@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13056,
+    "title": "尤猫醒醒ovo - 黑色情趣",
+    "sourceUrl": "https://telegra.ph/尤猫醒醒ovo---黑色情趣-08-27",
+    "images": [
+        "https://telegra.ph/file/bcd90ac3fd8f9df223257.jpg",
+        "https://telegra.ph/file/0373e265df7b4947b2572.jpg",
+        "https://telegra.ph/file/d849448e0f2f9ffb7df15.jpg",
+        "https://telegra.ph/file/ba1286e06962c0557be6c.jpg",
+        "https://telegra.ph/file/eb07420144d94f6381733.jpg",
+        "https://telegra.ph/file/59bc12aae98fe5302e32c.jpg",
+        "https://telegra.ph/file/0c5085f7b57ab017f073b.jpg",
+        "https://telegra.ph/file/4c348d1d0ef06ccc61c9b.jpg",
+        "https://telegra.ph/file/2bd084f986421451e5ff4.jpg",
+        "https://telegra.ph/file/728621c1a4f10bd6171a6.jpg",
+        "https://telegra.ph/file/da8865221fa777d00fbe1.jpg",
+        "https://telegra.ph/file/fec8264e285330e081c55.jpg",
+        "https://telegra.ph/file/7b8ac365cac3057626fb4.jpg",
+        "https://telegra.ph/file/0b17b3562eca47f897b31.jpg",
+        "https://telegra.ph/file/eb62515bd326de1152d9b.jpg",
+        "https://telegra.ph/file/d8d9e10d0ab9535527780.jpg",
+        "https://telegra.ph/file/d384234efca6c4287230f.jpg",
+        "https://telegra.ph/file/54b9daf506fcf203b6c2b.jpg",
+        "https://telegra.ph/file/d0410e48acb1a637af914.jpg",
+        "https://telegra.ph/file/886550d32c812f29427a0.jpg",
+        "https://telegra.ph/file/c4f173b5edbfe9beffc65.jpg",
+        "https://telegra.ph/file/39acd148e68ab13dd3687.jpg",
+        "https://telegra.ph/file/7dc72764beb20e8b5598f.jpg",
+        "https://telegra.ph/file/f179b4f9e32b211dcae23.jpg",
+        "https://telegra.ph/file/efb537d901fbe67b4e765.jpg",
+        "https://telegra.ph/file/0007986087348dea44576.jpg",
+        "https://telegra.ph/file/eba483c68b63033ab9df7.jpg",
+        "https://telegra.ph/file/6cbfae2a1e859bed9ea4f.jpg",
+        "https://telegra.ph/file/057b91a0e88b516b2895a.jpg",
+        "https://telegra.ph/file/0125cddaeab9f62378f1d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

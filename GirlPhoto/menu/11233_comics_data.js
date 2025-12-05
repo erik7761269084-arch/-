@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11233,
+    "title": "星之迟迟 2024-2-G",
+    "sourceUrl": "https://telegra.ph/%E6%98%9F%E4%B9%8B%E8%BF%9F%E8%BF%9F-2024-2-G-08-22",
+    "images": [
+        "https://telegra.ph/file/b409b7467c79738a29104.jpg",
+        "https://telegra.ph/file/a3796f419068ea9631503.jpg",
+        "https://telegra.ph/file/8fd6e38d929f95eba3e1c.jpg",
+        "https://telegra.ph/file/80e96398f9bb7f148371b.jpg",
+        "https://telegra.ph/file/9e9b7899231e4d4935fdb.jpg",
+        "https://telegra.ph/file/b7833fd1470104ba270f8.jpg",
+        "https://telegra.ph/file/798ff296937838b71bba6.jpg",
+        "https://telegra.ph/file/373598be3eabeb197040c.jpg",
+        "https://telegra.ph/file/983d026af8626db290c0d.jpg",
+        "https://telegra.ph/file/b0b8abe9b912cfe35dfae.jpg",
+        "https://telegra.ph/file/734598ca7a6a9bbadc087.jpg",
+        "https://telegra.ph/file/da65ee389f21fc1974961.jpg",
+        "https://telegra.ph/file/21ac2a1c69ac5100583eb.jpg",
+        "https://telegra.ph/file/d6880542b0b109de06efc.jpg",
+        "https://telegra.ph/file/ad2ad85f6fdfbe0427bf3.jpg",
+        "https://telegra.ph/file/11cfe0712911c949e8a13.jpg",
+        "https://telegra.ph/file/9b27a7939d0a7ae215591.jpg",
+        "https://telegra.ph/file/fc781842b5b2467e37863.jpg",
+        "https://telegra.ph/file/f41854d953887b484476f.jpg",
+        "https://telegra.ph/file/9a4f8599dd314a3b2d633.jpg",
+        "https://telegra.ph/file/abeac790a49d152b43226.jpg",
+        "https://telegra.ph/file/e13d7b8ceee2e6cd5ef9a.jpg",
+        "https://telegra.ph/file/d8f0027c5d703bff1209e.jpg",
+        "https://telegra.ph/file/5734004392c9bd4f64dd3.jpg",
+        "https://telegra.ph/file/3863b899ffc7ec27da68a.jpg",
+        "https://telegra.ph/file/94453e0c968ed6514042a.jpg",
+        "https://telegra.ph/file/e767490f6dcca652b1cbd.jpg",
+        "https://telegra.ph/file/fd6a0971463e43b364ba0.jpg",
+        "https://telegra.ph/file/0dfaca90f75ef4c5c6358.jpg",
+        "https://telegra.ph/file/6f53936860930dbd1b0ce.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

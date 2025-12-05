@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5966,
+    "title": "九曲Jean JK露脐制服",
+    "sourceUrl": "https://telegra.ph/九曲Jean-JK露脐制服-08-27",
+    "images": [
+        "https://telegra.ph/file/9ddb65c63cabcf79add08.jpg",
+        "https://telegra.ph/file/87ed26bc7c8a064aa73cd.jpg",
+        "https://telegra.ph/file/50a7e8103705b7ce7b0ac.jpg",
+        "https://telegra.ph/file/dfc7fd96f9d4295a72e95.jpg",
+        "https://telegra.ph/file/fba94290a12b58a55194f.jpg",
+        "https://telegra.ph/file/3335eadbbc5504499f45a.jpg",
+        "https://telegra.ph/file/f3b6f5b4022d4b5126f40.jpg",
+        "https://telegra.ph/file/8ea13f9e27286a3b89575.jpg",
+        "https://telegra.ph/file/73319b7873d41dbb48487.jpg",
+        "https://telegra.ph/file/11628141c6b5b816cde35.jpg",
+        "https://telegra.ph/file/75da5532b11e2bcc13c88.jpg",
+        "https://telegra.ph/file/aeec642073090f75e7fe5.jpg",
+        "https://telegra.ph/file/da4ec8aa6b5f8068cdf1c.jpg",
+        "https://telegra.ph/file/984d3ec98ca0783363f8a.jpg",
+        "https://telegra.ph/file/162ffda66e8169567d730.jpg",
+        "https://telegra.ph/file/e9e442a581b926cc94a12.jpg",
+        "https://telegra.ph/file/5d39f9867cfba97dcf1a4.jpg",
+        "https://telegra.ph/file/3e22311a13e0037b07cb5.jpg",
+        "https://telegra.ph/file/5d61f80ae334c998cf2af.jpg",
+        "https://telegra.ph/file/5a55ed124f54c7fa99b3d.jpg",
+        "https://telegra.ph/file/5787701141df807e440cb.jpg",
+        "https://telegra.ph/file/fd75723165b90ea5de4df.jpg",
+        "https://telegra.ph/file/5ab47dd6504b394534709.jpg",
+        "https://telegra.ph/file/147fad0867f5d38366e0f.jpg",
+        "https://telegra.ph/file/771b90794d6412fe0a45b.jpg",
+        "https://telegra.ph/file/c89fcec31c7c7632ea2ad.jpg",
+        "https://telegra.ph/file/bfc3dd78803d165cd8b41.jpg",
+        "https://telegra.ph/file/292541549a09d05592bc6.jpg",
+        "https://telegra.ph/file/5a177dadb6f799a4464b3.jpg",
+        "https://telegra.ph/file/5ad12c8995fc8586dc1ba.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

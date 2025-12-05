@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1303,
+    "title": "梓未 - 堕落修女",
+    "sourceUrl": "https://telegra.ph/梓未---堕落修女-08-27",
+    "images": [
+        "https://telegra.ph/file/6c4d466d3fffb3524c285.jpg",
+        "https://telegra.ph/file/0e4981f1aa4b8f5c9caae.jpg",
+        "https://telegra.ph/file/7452c5e7dfcb5a3c37fee.jpg",
+        "https://telegra.ph/file/9cac84fa5a23a73ca9244.jpg",
+        "https://telegra.ph/file/c41e4ee891dff00e73a70.jpg",
+        "https://telegra.ph/file/6836d01d49653e51144e0.jpg",
+        "https://telegra.ph/file/f463b048a21eee9e77f4b.jpg",
+        "https://telegra.ph/file/a1fcd22c72f55875001f7.jpg",
+        "https://telegra.ph/file/48172cd92c9fe147398bd.jpg",
+        "https://telegra.ph/file/f24c80a118f62375388de.jpg",
+        "https://telegra.ph/file/96cc05ae61f0f75e95ddd.jpg",
+        "https://telegra.ph/file/88b7be712435260bc98aa.jpg",
+        "https://telegra.ph/file/1882e2d1e010601501f75.jpg",
+        "https://telegra.ph/file/b0ef8e8f9019c14d476ab.jpg",
+        "https://telegra.ph/file/dcb881efccc826fd37157.jpg",
+        "https://telegra.ph/file/f300de6523a72c704198d.jpg",
+        "https://telegra.ph/file/599243b2d8052a4d523f1.jpg",
+        "https://telegra.ph/file/cfdc0c012ea8d43a873d9.jpg",
+        "https://telegra.ph/file/839a270da4eb09e5a443c.jpg",
+        "https://telegra.ph/file/3632300c5522fd86baa2e.jpg",
+        "https://telegra.ph/file/5964c426924ba301caebc.jpg",
+        "https://telegra.ph/file/e050434f58ede6a13e754.jpg",
+        "https://telegra.ph/file/c65ee0d3dc65cd6369ec5.jpg",
+        "https://telegra.ph/file/2489917f1e1dfa4fb5e1f.jpg",
+        "https://telegra.ph/file/8929cc20d1b64f7d1663d.jpg",
+        "https://telegra.ph/file/6f60e0e40dcfd033c01ca.jpg",
+        "https://telegra.ph/file/76f020c9575424e8ea0c2.jpg",
+        "https://telegra.ph/file/1279bc216af88d1e7d4be.jpg",
+        "https://telegra.ph/file/062cef149c8742c22009a.jpg",
+        "https://telegra.ph/file/8e5926351737bef56cd5c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

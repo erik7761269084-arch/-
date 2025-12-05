@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 3960,
+    "title": "蠢沫沫 - 魅魔2",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---魅魔2-08-27",
+    "images": [
+        "https://telegra.ph/file/773dedc76432f7f2fc08a.jpg",
+        "https://telegra.ph/file/9f69fec25861c5ae58437.jpg",
+        "https://telegra.ph/file/b63fbcf0ea28a3b45751b.jpg",
+        "https://telegra.ph/file/16d6d401c8495d25f1253.jpg",
+        "https://telegra.ph/file/b0a022b0224102fb77573.jpg",
+        "https://telegra.ph/file/410231cd948291144286a.jpg",
+        "https://telegra.ph/file/4511dc243bc2395fc346c.jpg",
+        "https://telegra.ph/file/6636c1f536d4817e328fb.jpg",
+        "https://telegra.ph/file/7c5240f7d0a17e644105c.jpg",
+        "https://telegra.ph/file/7a05a469def261c71c7ce.jpg",
+        "https://telegra.ph/file/a72f9fa3df405eca41ba6.jpg",
+        "https://telegra.ph/file/67c4b66b1a7b4e08fcf9a.jpg",
+        "https://telegra.ph/file/a0f6eb04d0691aa9b6b68.jpg",
+        "https://telegra.ph/file/be77cbad5870730ecad13.jpg",
+        "https://telegra.ph/file/79d53b8b3dfa9ab1d3ceb.jpg",
+        "https://telegra.ph/file/a5b969133224ad62858e9.jpg",
+        "https://telegra.ph/file/b9685a4897831dad6a0d3.jpg",
+        "https://telegra.ph/file/f8f4f0e022dee96b02309.jpg",
+        "https://telegra.ph/file/3951e68ab94037e8cc705.jpg",
+        "https://telegra.ph/file/5b3641ce031091deb676b.jpg",
+        "https://telegra.ph/file/df669374555d7a3a528d0.jpg",
+        "https://telegra.ph/file/3d73aaaedafaa77855f2b.jpg",
+        "https://telegra.ph/file/3f5532de1a9d8992428d2.jpg",
+        "https://telegra.ph/file/a06861bdd82073b390b68.jpg",
+        "https://telegra.ph/file/398eacc82b3287341068b.jpg",
+        "https://telegra.ph/file/49b697fc25fe3b78b6b9f.jpg",
+        "https://telegra.ph/file/3128b3b592440946b5978.jpg",
+        "https://telegra.ph/file/e8242b1a6db43988fde75.jpg",
+        "https://telegra.ph/file/92fa4512073bcb11586c8.jpg",
+        "https://telegra.ph/file/c57eaed87b35e3f78a377.jpg",
+        "https://telegra.ph/file/9cd46afd2fd781957dbc1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

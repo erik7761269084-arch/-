@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5948,
+    "title": "九曲Jean - 兔女郎",
+    "sourceUrl": "https://telegra.ph/九曲Jean---兔女郎-08-27",
+    "images": [
+        "https://telegra.ph/file/156a7a05543f9895a0754.jpg",
+        "https://telegra.ph/file/a0eea2f7ba92c79524633.jpg",
+        "https://telegra.ph/file/e30ab4b60706bdf333ad3.jpg",
+        "https://telegra.ph/file/23f1a0f292a12ee77c4fb.jpg",
+        "https://telegra.ph/file/a9c9e95c5f4cad15f846b.jpg",
+        "https://telegra.ph/file/e3d589babab1c51ac6ee9.jpg",
+        "https://telegra.ph/file/2840c48f85a7105139edf.jpg",
+        "https://telegra.ph/file/0b247a7c15a3ee468cf29.jpg",
+        "https://telegra.ph/file/ec1116fb6792c15c206e8.jpg",
+        "https://telegra.ph/file/fe4f70fe09ceb8ba7457b.jpg",
+        "https://telegra.ph/file/472c1acc8b1310f518e2a.jpg",
+        "https://telegra.ph/file/1fd94a2cbbb9ff0e3a99b.jpg",
+        "https://telegra.ph/file/a5987a51124cd3a0ab8a7.jpg",
+        "https://telegra.ph/file/be6deeb8182e7396879c5.jpg",
+        "https://telegra.ph/file/89e14e88ff12e6e3cc4a8.jpg",
+        "https://telegra.ph/file/da69d523fb6b988f4e727.jpg",
+        "https://telegra.ph/file/a9a9f775c4226f0fed6fa.jpg",
+        "https://telegra.ph/file/a6f0155acc339344ff069.jpg",
+        "https://telegra.ph/file/9510239430ccf679ef716.jpg",
+        "https://telegra.ph/file/f76621c6b923ef60329df.jpg",
+        "https://telegra.ph/file/a6d669b88df5ee452f0b9.jpg",
+        "https://telegra.ph/file/03582046f0f464643ce8e.jpg",
+        "https://telegra.ph/file/b428564f9e67a735d4483.jpg",
+        "https://telegra.ph/file/38fa836ac0a6118f67899.jpg",
+        "https://telegra.ph/file/663aa5c0025cc4204274e.jpg",
+        "https://telegra.ph/file/3930a1f2a2dad2d7543fd.jpg",
+        "https://telegra.ph/file/c502e77c705fd272250c0.jpg",
+        "https://telegra.ph/file/dcab07cafd14cdd133bd8.jpg",
+        "https://telegra.ph/file/cbfd03d5c840cb3b8f1dc.jpg",
+        "https://telegra.ph/file/a6fec8187f8c52a3da784.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

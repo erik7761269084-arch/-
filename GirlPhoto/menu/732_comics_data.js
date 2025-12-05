@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 732,
+    "title": "Ely_eee (ElyEE子) - Veranda White Cat緣廊白貓",
+    "sourceUrl": "https://telegra.ph/Ely-eee-ElyEE子---Veranda-White-Cat緣廊白貓-08-26",
+    "images": [
+        "https://telegra.ph/file/a3118ac15c97543647100.jpg",
+        "https://telegra.ph/file/8ef8d154fc707f92ed0c7.jpg",
+        "https://telegra.ph/file/b2bab95e2fa024bf173eb.jpg",
+        "https://telegra.ph/file/751f906073687047c71e0.jpg",
+        "https://telegra.ph/file/41171cd9ec17876f96c50.jpg",
+        "https://telegra.ph/file/430b2a5c3a58dcc9406e0.jpg",
+        "https://telegra.ph/file/398057a10d78166b326c1.jpg",
+        "https://telegra.ph/file/a0c41761c261341355f74.jpg",
+        "https://telegra.ph/file/74cc2142847f484c51dcc.jpg",
+        "https://telegra.ph/file/7ccf011ebebf3af3c2fda.jpg",
+        "https://telegra.ph/file/3be54c605fac2685a38f6.jpg",
+        "https://telegra.ph/file/b5221ac75dc44bf8f3861.jpg",
+        "https://telegra.ph/file/2210477dddb822e7f2d08.jpg",
+        "https://telegra.ph/file/86e352e3c52d5dc38f8a3.jpg",
+        "https://telegra.ph/file/39dc917590233838d58c8.jpg",
+        "https://telegra.ph/file/182dc372511460f5eb357.jpg",
+        "https://telegra.ph/file/a673ab91a1ef4a9e47260.jpg",
+        "https://telegra.ph/file/018ed9411478cec347e11.jpg",
+        "https://telegra.ph/file/1f9d7d34f4f4c581135b1.jpg",
+        "https://telegra.ph/file/9b72ffb1bb096950fad5d.jpg",
+        "https://telegra.ph/file/df7e8ce54c66d626d532c.jpg",
+        "https://telegra.ph/file/a6b278c34a0ce1969ec87.jpg",
+        "https://telegra.ph/file/f3f0ea426b69c6fd2aa3b.jpg",
+        "https://telegra.ph/file/676b037fd2573aa1def5b.jpg",
+        "https://telegra.ph/file/dfca028680aeffdcd2342.jpg",
+        "https://telegra.ph/file/5c1405ac1af3be50b0f54.jpg",
+        "https://telegra.ph/file/0a79cb9b993c9478f9976.jpg",
+        "https://telegra.ph/file/696970b855e1bebfd6502.jpg",
+        "https://telegra.ph/file/89c6368e764c4fb5b3a6d.jpg",
+        "https://telegra.ph/file/1a0646e9c5e83145e7a74.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

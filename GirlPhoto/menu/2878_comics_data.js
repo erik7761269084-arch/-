@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2878,
+    "title": "ZinieQ - Elesa",
+    "sourceUrl": "https://telegra.ph/ZinieQ---Elesa-08-27",
+    "images": [
+        "https://telegra.ph/file/71e29787bce77f42637c1.jpg",
+        "https://telegra.ph/file/e6b20489b04352721c96a.jpg",
+        "https://telegra.ph/file/e8063647c0b111be72894.jpg",
+        "https://telegra.ph/file/b174cddcad98646e5b6f9.jpg",
+        "https://telegra.ph/file/01df640f06e854dd2623e.jpg",
+        "https://telegra.ph/file/93aa5332c866d6b942010.jpg",
+        "https://telegra.ph/file/07c3e09bdd86bb69148f2.jpg",
+        "https://telegra.ph/file/c619862d4ce1a59069d6f.jpg",
+        "https://telegra.ph/file/b72592b0254429f6cd922.jpg",
+        "https://telegra.ph/file/be779d4117ef72aa98c18.jpg",
+        "https://telegra.ph/file/e86c0d15abe798fdce2da.jpg",
+        "https://telegra.ph/file/ae4677192af2140f4ba47.jpg",
+        "https://telegra.ph/file/88a66f035b98d7917f7df.jpg",
+        "https://telegra.ph/file/773aa62501abf874575a3.jpg",
+        "https://telegra.ph/file/8fca385260bded838f0e4.jpg",
+        "https://telegra.ph/file/85aad4aeaa1ea2bdfd31f.jpg",
+        "https://telegra.ph/file/9f45137c59aa75267ea1d.jpg",
+        "https://telegra.ph/file/150f2385228eca6ecdf2f.jpg",
+        "https://telegra.ph/file/1d0a16b597f461788a23e.jpg",
+        "https://telegra.ph/file/c19ce7050a093264ab444.jpg",
+        "https://telegra.ph/file/59aad2f8df722a00dc551.jpg",
+        "https://telegra.ph/file/89593b737b464b6a10e37.jpg",
+        "https://telegra.ph/file/d7aeb20ca83d703338de6.jpg",
+        "https://telegra.ph/file/1fbb82daec2a804a13b11.jpg",
+        "https://telegra.ph/file/78842ef9bd4d1c9121ddd.jpg",
+        "https://telegra.ph/file/1933b26d6549c55fdbbb1.jpg",
+        "https://telegra.ph/file/af70bef96b5b1eec3ebd5.jpg",
+        "https://telegra.ph/file/b73aafbd44153d2bb3733.jpg",
+        "https://telegra.ph/file/850ee69ff202c88a22e8c.jpg",
+        "https://telegra.ph/file/79a1a3040d91742160477.jpg",
+        "https://telegra.ph/file/9c29241a996b85cb11c2c.jpg",
+        "https://telegra.ph/file/e4e3bf1fd643a8c6c1558.jpg",
+        "https://telegra.ph/file/df0b90c3e8246dab86175.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

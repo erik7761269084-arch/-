@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6018,
+    "title": "九言 雷电将军 [31P5V-350MB] (原神)",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80-%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B-31P5V-350MB-%E5%8E%9F%E7%A5%9E-08-23",
+    "images": [
+        "https://telegra.ph/file/4ad5bf5dfaf40a39f6bed.jpg",
+        "https://telegra.ph/file/e9643248881151df2bf6a.jpg",
+        "https://telegra.ph/file/a5e69755fb78729a3bf6a.jpg",
+        "https://telegra.ph/file/f5654e9087ec564fd3d13.jpg",
+        "https://telegra.ph/file/1321d64d6ecaa2d777f6b.jpg",
+        "https://telegra.ph/file/965a9b3fe338e6f4ff80b.jpg",
+        "https://telegra.ph/file/afde7068d72c38f2d4da2.jpg",
+        "https://telegra.ph/file/cf399eb04e1a592065a6b.jpg",
+        "https://telegra.ph/file/99a4a2fb4b4748560956d.jpg",
+        "https://telegra.ph/file/c06b22f22aa4d9b4289c8.jpg",
+        "https://telegra.ph/file/623e03509b77ef9322631.jpg",
+        "https://telegra.ph/file/42d4ec955333b5e06302c.jpg",
+        "https://telegra.ph/file/4b4f9b1983bc5d669209a.jpg",
+        "https://telegra.ph/file/57ccb41205033f8fdfb44.jpg",
+        "https://telegra.ph/file/03114774b2ae15b804e6a.jpg",
+        "https://telegra.ph/file/2c40bb3443f4cb7e0982f.jpg",
+        "https://telegra.ph/file/8473661e3238a09344640.jpg",
+        "https://telegra.ph/file/75c7821a5b8279ab2c9e2.jpg",
+        "https://telegra.ph/file/a1a9f2b5f16d0f923ab5e.jpg",
+        "https://telegra.ph/file/5862bc1a1b76004ef34d1.jpg",
+        "https://telegra.ph/file/cb75c0721ea764fbb05b2.jpg",
+        "https://telegra.ph/file/ebb235f238c45530b62fb.jpg",
+        "https://telegra.ph/file/e319cdf9dc12bafc9b6ab.jpg",
+        "https://telegra.ph/file/34f8f6d67b9ae8a7bb576.jpg",
+        "https://telegra.ph/file/a61206cfe30218114719f.jpg",
+        "https://telegra.ph/file/df71f1c557ea50e367641.jpg",
+        "https://telegra.ph/file/81f24a2f4e4ffed8a7ee7.jpg",
+        "https://telegra.ph/file/114e70a94eb2698162b7a.jpg",
+        "https://telegra.ph/file/41ae9a3d39b6ff2e70644.jpg",
+        "https://telegra.ph/file/4d8ca8c161fd4ba6378ee.jpg",
+        "https://telegra.ph/file/4a19ee2d51af5ceea054a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

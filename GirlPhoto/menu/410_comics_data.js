@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 410,
+    "title": "Byoru - Liliel",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Liliel-08-26",
+    "images": [
+        "https://telegra.ph/file/436bdcfb576be7242f4e0.jpg",
+        "https://telegra.ph/file/41691b3c86ac157a1de4e.jpg",
+        "https://telegra.ph/file/48d3fb45f20de8c1a515c.jpg",
+        "https://telegra.ph/file/18492e3c59ebc8f160b9f.jpg",
+        "https://telegra.ph/file/39d6df3a523ac14942eaa.jpg",
+        "https://telegra.ph/file/ca0e2fa535202f4f200f6.jpg",
+        "https://telegra.ph/file/516e6eec658f2fb9593dd.jpg",
+        "https://telegra.ph/file/ac5e1553ff92a79e4fa2a.jpg",
+        "https://telegra.ph/file/d0208b4cc3149647ab980.jpg",
+        "https://telegra.ph/file/c9c2e619e43463012341c.jpg",
+        "https://telegra.ph/file/a91d9e951d6af2e6073c9.jpg",
+        "https://telegra.ph/file/064c46240b7b74fd41bc2.jpg",
+        "https://telegra.ph/file/92d06da1ccc15f128eb3e.jpg",
+        "https://telegra.ph/file/ec64500358e2e2872f169.jpg",
+        "https://telegra.ph/file/ed855c31f6b061ddfab32.jpg",
+        "https://telegra.ph/file/2089fe871a6107db8e948.jpg",
+        "https://telegra.ph/file/c4e4bae7d602ed5384007.jpg",
+        "https://telegra.ph/file/f0d5edd3258ee09390895.jpg",
+        "https://telegra.ph/file/d960d4d46045975702db0.jpg",
+        "https://telegra.ph/file/536d3c80ec5e09f5ee2f7.jpg",
+        "https://telegra.ph/file/4ab27219d79bbf03ad559.jpg",
+        "https://telegra.ph/file/37e827752f3f8f33b502e.jpg",
+        "https://telegra.ph/file/310e4792237f47dd807f9.jpg",
+        "https://telegra.ph/file/406ad30d85339fc9203ef.jpg",
+        "https://telegra.ph/file/450d2cdd4f1d81141ca66.jpg",
+        "https://telegra.ph/file/b83d898db4aa543e1fa5a.jpg",
+        "https://telegra.ph/file/38e29a7c9a3173ffbe482.jpg",
+        "https://telegra.ph/file/2efacb8eb043c391edccb.jpg",
+        "https://telegra.ph/file/b2384896a51e410ed9139.jpg",
+        "https://telegra.ph/file/d0303b75fc20b3876f591.jpg",
+        "https://telegra.ph/file/3cb985a533423cd87b202.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

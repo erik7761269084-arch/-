@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5790,
+    "title": "紧急企划 内部 见希w – 白丝学生服",
+    "sourceUrl": "https://telegra.ph/紧急企划-内部-见希w--白丝学生服-08-29",
+    "images": [
+        "https://telegra.ph/file/108cd6fc180ebad1d6c8c.jpg",
+        "https://telegra.ph/file/f63e41236ca37f274b249.jpg",
+        "https://telegra.ph/file/c1c37c3a16565526b1c6b.jpg",
+        "https://telegra.ph/file/e618b29fa5f0ae7e049d6.jpg",
+        "https://telegra.ph/file/37e29c25a38352e3de1e6.jpg",
+        "https://telegra.ph/file/c185adaa0ba18377b7972.jpg",
+        "https://telegra.ph/file/e0e52abe4d2638f2405a2.jpg",
+        "https://telegra.ph/file/6de54e194a0df67f29ee6.jpg",
+        "https://telegra.ph/file/684a32823c142aba36662.jpg",
+        "https://telegra.ph/file/d176be317c525b5bcde3e.jpg",
+        "https://telegra.ph/file/f37019e960b439f7bbd34.jpg",
+        "https://telegra.ph/file/ab6fdf0ba36a5b7abc3da.jpg",
+        "https://telegra.ph/file/e86ddae15a0c6d9cac8d7.jpg",
+        "https://telegra.ph/file/ad563149295cea65cb5d5.jpg",
+        "https://telegra.ph/file/76eb071f17295f3c79ec9.jpg",
+        "https://telegra.ph/file/b41ea386c02a32dc2f09e.jpg",
+        "https://telegra.ph/file/d0d5dd73660fda6d2f41c.jpg",
+        "https://telegra.ph/file/4084982c69afcec5921b5.jpg",
+        "https://telegra.ph/file/d3208308009e06ee69bb3.jpg",
+        "https://telegra.ph/file/a3a3f5c887b05b664e46a.jpg",
+        "https://telegra.ph/file/035b5afeedbe9db1a7e70.jpg",
+        "https://telegra.ph/file/3067a150214fdcbb077bc.jpg",
+        "https://telegra.ph/file/6aedee56c94fc2af12864.jpg",
+        "https://telegra.ph/file/e81b1b49e3926a46ca12c.jpg",
+        "https://telegra.ph/file/a7214aa2a0fdaa13eadc9.jpg",
+        "https://telegra.ph/file/883912f9bbf1785dbb8aa.jpg",
+        "https://telegra.ph/file/ce0a5a0435353d58723d3.jpg",
+        "https://telegra.ph/file/1a08d27ebcdecd1fb96ff.jpg",
+        "https://telegra.ph/file/70e0b771f77f8a9383071.jpg",
+        "https://telegra.ph/file/c10d827eae61824b44e4d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

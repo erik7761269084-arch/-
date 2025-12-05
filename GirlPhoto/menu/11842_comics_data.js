@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11842,
+    "title": "VOL.458 雪琪SAMA - JK妹妹",
+    "sourceUrl": "https://telegra.ph/VOL458-雪琪SAMA---JK妹妹-08-27",
+    "images": [
+        "https://telegra.ph/file/d7c0fb0c12505e5a3075e.jpg",
+        "https://telegra.ph/file/bf8ffdedbc076df1874c2.jpg",
+        "https://telegra.ph/file/268883de4253bd5d1f1b9.jpg",
+        "https://telegra.ph/file/c9fd25dbaf8e16264f503.jpg",
+        "https://telegra.ph/file/2026888a6f7ef4c618a52.jpg",
+        "https://telegra.ph/file/9efab8e621dbb6818f8dd.jpg",
+        "https://telegra.ph/file/ac7ef0e517b59b1b34b7c.jpg",
+        "https://telegra.ph/file/7a96618ba1076f36449bc.jpg",
+        "https://telegra.ph/file/d3009004af43e88891515.jpg",
+        "https://telegra.ph/file/e8bdca939ee6321451395.jpg",
+        "https://telegra.ph/file/d6f2b73f649e6fd6f47a1.jpg",
+        "https://telegra.ph/file/383267416df253bff681b.jpg",
+        "https://telegra.ph/file/05ae5f9245e51fb8067bb.jpg",
+        "https://telegra.ph/file/f0552698999593593e956.jpg",
+        "https://telegra.ph/file/f345658e792e7e8555732.jpg",
+        "https://telegra.ph/file/6ba06c63f136c91d86a75.jpg",
+        "https://telegra.ph/file/c83bb47526061e66829d5.jpg",
+        "https://telegra.ph/file/23f9d64ba36f6f0328a10.jpg",
+        "https://telegra.ph/file/de4faf4078db8274544c2.jpg",
+        "https://telegra.ph/file/d5b29bed859edb821ddda.jpg",
+        "https://telegra.ph/file/bb3c06e74adefe65ef3dd.jpg",
+        "https://telegra.ph/file/4cbd95c74116d9cdfbbe9.jpg",
+        "https://telegra.ph/file/310262678a0cf834a3c9f.jpg",
+        "https://telegra.ph/file/cf39ab076424fe779f602.jpg",
+        "https://telegra.ph/file/ebf1a1eb30b2cad910568.jpg",
+        "https://telegra.ph/file/267500421633e555a812e.jpg",
+        "https://telegra.ph/file/46aace271c189cff6bc5d.jpg",
+        "https://telegra.ph/file/d02087120dbdc86b2e538.jpg",
+        "https://telegra.ph/file/80c3b2e74e423706721b5.jpg",
+        "https://telegra.ph/file/52fd092c8b8a74d96e9f6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

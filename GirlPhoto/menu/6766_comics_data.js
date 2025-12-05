@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6766,
+    "title": "麻花麻花酱 – 逆兔女郎",
+    "sourceUrl": "https://telegra.ph/麻花麻花酱--逆兔女郎-08-29",
+    "images": [
+        "https://telegra.ph/file/ad89d0a2a64005a189af8.jpg",
+        "https://telegra.ph/file/d6a3055de600b210b9f0a.jpg",
+        "https://telegra.ph/file/69da7de04d6b04b4acf7b.jpg",
+        "https://telegra.ph/file/4f7095ad605415dd3a4b7.jpg",
+        "https://telegra.ph/file/1525cdded6c88643774ca.jpg",
+        "https://telegra.ph/file/bac2fd3d86319acc1e15a.jpg",
+        "https://telegra.ph/file/a912ed9e304732326aaed.jpg",
+        "https://telegra.ph/file/2c454a0d8afdbc81df505.jpg",
+        "https://telegra.ph/file/2c8ee6f9a1b4486f33ae8.jpg",
+        "https://telegra.ph/file/9dba8769f80b472a4894b.jpg",
+        "https://telegra.ph/file/8a210769fe1097a187e5d.jpg",
+        "https://telegra.ph/file/930ede734b8523fe17288.jpg",
+        "https://telegra.ph/file/0edcc888466b327049e7b.jpg",
+        "https://telegra.ph/file/f3c11d57752b5ca165a02.jpg",
+        "https://telegra.ph/file/4895f84ef272086a20509.jpg",
+        "https://telegra.ph/file/33978af18f1f5723b95f0.jpg",
+        "https://telegra.ph/file/fbf480e23a6d1804d27d8.jpg",
+        "https://telegra.ph/file/020d21904f7acc397c3dd.jpg",
+        "https://telegra.ph/file/e4ebb926cf1be1e441fcb.jpg",
+        "https://telegra.ph/file/cd0f91f7e700034107343.jpg",
+        "https://telegra.ph/file/16672c0fb0956810f203d.jpg",
+        "https://telegra.ph/file/b76a88989ff4ca9e7e268.jpg",
+        "https://telegra.ph/file/f2b3c946acc803263ed65.jpg",
+        "https://telegra.ph/file/9f4a04ab80cf5b175ad6e.jpg",
+        "https://telegra.ph/file/0612ff59a606ea1962ce7.jpg",
+        "https://telegra.ph/file/07ac5648affa864cc4593.jpg",
+        "https://telegra.ph/file/094420f720cf9bf70d6a7.jpg",
+        "https://telegra.ph/file/b4677653ea899535588ef.jpg",
+        "https://telegra.ph/file/b79ec9061ee2486789311.jpg",
+        "https://telegra.ph/file/cb7158f51d4120c5de2b1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

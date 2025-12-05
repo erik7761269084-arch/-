@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5970,
+    "title": "九曲Jean - 02 兔女郎",
+    "sourceUrl": "https://telegra.ph/九曲Jean---02兔女郎-08-29",
+    "images": [
+        "https://telegra.ph/file/0d841984c5a376508ecef.jpg",
+        "https://telegra.ph/file/a2e61e5df743294400720.jpg",
+        "https://telegra.ph/file/1349e0af9709cb8079ac2.jpg",
+        "https://telegra.ph/file/0d4f85893e4c19cc59d59.jpg",
+        "https://telegra.ph/file/124344235085b4f003835.jpg",
+        "https://telegra.ph/file/8d20410b465666c630a46.jpg",
+        "https://telegra.ph/file/e5646785a987d5bf6bda5.jpg",
+        "https://telegra.ph/file/f55168e5259978a916c4b.jpg",
+        "https://telegra.ph/file/9433569573d908def9d51.jpg",
+        "https://telegra.ph/file/656e72037ec7e52b196fc.jpg",
+        "https://telegra.ph/file/71261568427e9122057e7.jpg",
+        "https://telegra.ph/file/b9d92cc63aef8415b7ca0.jpg",
+        "https://telegra.ph/file/24fcdfd786dd51e0ec4e8.jpg",
+        "https://telegra.ph/file/7f7b0b31d148227a74c28.jpg",
+        "https://telegra.ph/file/4e9bc65c4a7d53de79946.jpg",
+        "https://telegra.ph/file/1d887781dcecef4ce478e.jpg",
+        "https://telegra.ph/file/0a059426f0368317f5c4b.jpg",
+        "https://telegra.ph/file/d165d5d17c2524c37d3d4.jpg",
+        "https://telegra.ph/file/a6edf9e4e9f883cb57313.jpg",
+        "https://telegra.ph/file/9c7f72683628ba1c5a875.jpg",
+        "https://telegra.ph/file/89b122c6962a49d692204.jpg",
+        "https://telegra.ph/file/12dfacc1abd3591983f76.jpg",
+        "https://telegra.ph/file/653be3b36762288cb4c2b.jpg",
+        "https://telegra.ph/file/cabff108947a5513ccc70.jpg",
+        "https://telegra.ph/file/fd1cf38d2d4bf82123a68.jpg",
+        "https://telegra.ph/file/210aec4cbbe4ef2edca22.jpg",
+        "https://telegra.ph/file/068ffe8babe5eb03e9cde.jpg",
+        "https://telegra.ph/file/0b5392168a17555d01d0f.jpg",
+        "https://telegra.ph/file/302e5b2fb8f90f751350b.jpg",
+        "https://telegra.ph/file/c018b178d65b983a5f85f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

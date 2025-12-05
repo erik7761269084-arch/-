@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5514,
+    "title": "黑川 和服",
+    "sourceUrl": "https://telegra.ph/黑川-和服-08-30",
+    "images": [
+        "https://telegra.ph/file/1a19722ca7420fa7854a9.jpg",
+        "https://telegra.ph/file/e1f3c1ca3dc1455038c38.jpg",
+        "https://telegra.ph/file/327572b30afbc3fd1c64c.jpg",
+        "https://telegra.ph/file/e5791e9b0ffe38a63d6ee.jpg",
+        "https://telegra.ph/file/30b3532fb4807318e51cb.jpg",
+        "https://telegra.ph/file/cb0e020c45597a27d70f7.jpg",
+        "https://telegra.ph/file/360ffe41195ca4c760179.jpg",
+        "https://telegra.ph/file/7c8e4f0435faf4f32f36a.jpg",
+        "https://telegra.ph/file/9ee2ad52f052ded5572a8.jpg",
+        "https://telegra.ph/file/1ed32ff157d1ea9a5dd77.jpg",
+        "https://telegra.ph/file/91ae994e9e4d5767ff59c.jpg",
+        "https://telegra.ph/file/ebae8c93883bf8d842108.jpg",
+        "https://telegra.ph/file/2344e3bd1a990bc3d5cd5.jpg",
+        "https://telegra.ph/file/2945f95be11f604bd7660.jpg",
+        "https://telegra.ph/file/375967d00ec10c95ff0d2.jpg",
+        "https://telegra.ph/file/f830740b4318c33c83055.jpg",
+        "https://telegra.ph/file/8fae91b42aba542da03e7.jpg",
+        "https://telegra.ph/file/ffb69484a9303723166c1.jpg",
+        "https://telegra.ph/file/139efbb35e50381fd53e3.jpg",
+        "https://telegra.ph/file/907a9a57e5b7dbb4fd2c3.jpg",
+        "https://telegra.ph/file/a9111aa42ab3893ed9f6f.jpg",
+        "https://telegra.ph/file/4e81f3ee85119ec1025e8.jpg",
+        "https://telegra.ph/file/9b43fcbb4a82248c850f0.jpg",
+        "https://telegra.ph/file/2e9b536add85f12932348.jpg",
+        "https://telegra.ph/file/2d1301b7e0dc5ab910ab0.jpg",
+        "https://telegra.ph/file/1ac7a7334f99e721c8da6.jpg",
+        "https://telegra.ph/file/22de3695d32e4c6cbd10e.jpg",
+        "https://telegra.ph/file/1808881bc15c55633bac6.jpg",
+        "https://telegra.ph/file/501d505f1c5f308eb030f.jpg",
+        "https://telegra.ph/file/e0cddca37468dc8f9fec5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10616,
+    "title": "夏树的奇幻之旅（6月5会员资源）",
+    "sourceUrl": "https://telegra.ph/夏树的奇幻之旅6月5会员资源-08-26",
+    "images": [
+        "https://telegra.ph/file/390ae9e6d1cd89605c90b.jpg",
+        "https://telegra.ph/file/cc6c512524e9a76968431.jpg",
+        "https://telegra.ph/file/c559de5e9174e4fca90d2.jpg",
+        "https://telegra.ph/file/f1e492bbd70807d750891.jpg",
+        "https://telegra.ph/file/282809dcda001ac4cce50.jpg",
+        "https://telegra.ph/file/edd8ae73db00e01694cab.jpg",
+        "https://telegra.ph/file/92db1f279fed307469204.jpg",
+        "https://telegra.ph/file/0c7c7262d3ce1c4d7373f.jpg",
+        "https://telegra.ph/file/780f92f042620b8dc6ad8.jpg",
+        "https://telegra.ph/file/9d7a1b7991624f7b200eb.jpg",
+        "https://telegra.ph/file/d7ecaa4a6e27c32cb8fa3.jpg",
+        "https://telegra.ph/file/b587829d9312723da4d0c.jpg",
+        "https://telegra.ph/file/5f3c0ef35852d012e06fe.jpg",
+        "https://telegra.ph/file/31e02c72acfa51b52cb1a.jpg",
+        "https://telegra.ph/file/dc7122d83cb1605f77ee9.jpg",
+        "https://telegra.ph/file/32f58dfe80ecc67387e2e.jpg",
+        "https://telegra.ph/file/ce85779c9fd946dfc2804.jpg",
+        "https://telegra.ph/file/18ea20fd2b3f4447f44d9.jpg",
+        "https://telegra.ph/file/52a8e5bacc1a88170f6dd.jpg",
+        "https://telegra.ph/file/82cfba27ee710753115ff.jpg",
+        "https://telegra.ph/file/5be033d56c2b72dc27b3f.jpg",
+        "https://telegra.ph/file/2f272ba8d18bed933c38a.jpg",
+        "https://telegra.ph/file/09d7550ec490e10f295b6.jpg",
+        "https://telegra.ph/file/3defba4a445c3e1da562f.jpg",
+        "https://telegra.ph/file/60b52aa125fc12a6c3cd9.jpg",
+        "https://telegra.ph/file/4314be1b451fcbe912c60.jpg",
+        "https://telegra.ph/file/db81da443c74d5e9cde8c.jpg",
+        "https://telegra.ph/file/071b717c4d614e3580345.jpg",
+        "https://telegra.ph/file/31a53a1ff2f6b5f9bd39f.jpg",
+        "https://telegra.ph/file/2194d1d39226e1d53d706.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

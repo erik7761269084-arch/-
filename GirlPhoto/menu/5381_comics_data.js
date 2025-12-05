@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5381,
+    "title": "斗鱼米线线sama - 朱砂痣",
+    "sourceUrl": "https://telegra.ph/斗鱼米线线sama---朱砂痣-08-27",
+    "images": [
+        "https://telegra.ph/file/71837e30d57008c443cf7.jpg",
+        "https://telegra.ph/file/9d045827b9418ecda5ebf.jpg",
+        "https://telegra.ph/file/c1f3b13b164d8ff86d4ef.jpg",
+        "https://telegra.ph/file/837237df758775d37eaf8.jpg",
+        "https://telegra.ph/file/b637841f8c12ce7f1bb2c.jpg",
+        "https://telegra.ph/file/bbb5fdcb5b092106fbeeb.jpg",
+        "https://telegra.ph/file/a25e5d6da0aec1dcc3271.jpg",
+        "https://telegra.ph/file/cb77f42a40d2395141008.jpg",
+        "https://telegra.ph/file/d59552523210d95a614f8.jpg",
+        "https://telegra.ph/file/f4425d7f5ad2bd87aba10.jpg",
+        "https://telegra.ph/file/eaa1b5eb187a6cd7f9a37.jpg",
+        "https://telegra.ph/file/282b9ccbd524f761b551e.jpg",
+        "https://telegra.ph/file/e721fff2b8bcb8ed585c1.jpg",
+        "https://telegra.ph/file/2a8f50a7d55710ee700e7.jpg",
+        "https://telegra.ph/file/ce85304f561f6fd83ee1e.jpg",
+        "https://telegra.ph/file/9bbe029e2f76e940264eb.jpg",
+        "https://telegra.ph/file/486636ea3d188401efaed.jpg",
+        "https://telegra.ph/file/1b72b084e9c02d85e37fc.jpg",
+        "https://telegra.ph/file/87ef26e06ed188483cd1a.jpg",
+        "https://telegra.ph/file/1984f2972a2fda8534a3a.jpg",
+        "https://telegra.ph/file/6b2b57559580436d352c0.jpg",
+        "https://telegra.ph/file/a71419c50911e5b04d1d6.jpg",
+        "https://telegra.ph/file/2febd570f1ab4244a2962.jpg",
+        "https://telegra.ph/file/2fd41a69bc1e52618751e.jpg",
+        "https://telegra.ph/file/52417e8c834e8932672d6.jpg",
+        "https://telegra.ph/file/9ef1850231a663a9f4b33.jpg",
+        "https://telegra.ph/file/0601fa4c8a0b03acfee68.jpg",
+        "https://telegra.ph/file/55a2d383c6eccce25f416.jpg",
+        "https://telegra.ph/file/c1e58014c6ac0d6f91040.jpg",
+        "https://telegra.ph/file/c06a8cd080e0061c4e534.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

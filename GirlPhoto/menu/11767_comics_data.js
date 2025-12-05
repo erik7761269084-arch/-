@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11767,
+    "title": "轩萧学姐 - 定制OL",
+    "sourceUrl": "https://telegra.ph/轩萧学姐---定制OL-08-27",
+    "images": [
+        "https://telegra.ph/file/9f930e1188b8caf269774.jpg",
+        "https://telegra.ph/file/1338b41b5d9a214b44903.jpg",
+        "https://telegra.ph/file/cbf4681f91db7603627fb.jpg",
+        "https://telegra.ph/file/ddad3704463d22d5c2ea2.jpg",
+        "https://telegra.ph/file/8e395996aaebad95bfbb3.jpg",
+        "https://telegra.ph/file/4a725de9219d00390c0a2.jpg",
+        "https://telegra.ph/file/e2e6069fecf58dbb18930.jpg",
+        "https://telegra.ph/file/bcd445ebc10cf5ed269af.jpg",
+        "https://telegra.ph/file/99091ccb2abeff816375e.jpg",
+        "https://telegra.ph/file/56f80ab7c82a79802a3f5.jpg",
+        "https://telegra.ph/file/322127a74daa281c9987b.jpg",
+        "https://telegra.ph/file/c89a52d2a9d71a4b6b68a.jpg",
+        "https://telegra.ph/file/90b7f495e0fb4a6e12346.jpg",
+        "https://telegra.ph/file/9df0136fb50830541b3c2.jpg",
+        "https://telegra.ph/file/08feeb293a3b3693f3738.jpg",
+        "https://telegra.ph/file/b9185698c4fc9c3e22764.jpg",
+        "https://telegra.ph/file/e138d0bbe380db247315e.jpg",
+        "https://telegra.ph/file/58fef8eb7757692035f9c.jpg",
+        "https://telegra.ph/file/0ad218bf897d3729dbc37.jpg",
+        "https://telegra.ph/file/1f6b8514471b4aa6df73c.jpg",
+        "https://telegra.ph/file/78c2772028c39278badde.jpg",
+        "https://telegra.ph/file/1466a087672cd6d651cd2.jpg",
+        "https://telegra.ph/file/42b4cb7154ca873e36ee2.jpg",
+        "https://telegra.ph/file/a92851601e8f8400f136d.jpg",
+        "https://telegra.ph/file/ebe5a51a770a4ebb73ef7.jpg",
+        "https://telegra.ph/file/3a3d272db14882901a677.jpg",
+        "https://telegra.ph/file/6d43aa894a89a1673222f.jpg",
+        "https://telegra.ph/file/53585e871d2c643462c16.jpg",
+        "https://telegra.ph/file/d4a9b7824403819117232.jpg",
+        "https://telegra.ph/file/dfd5391d524f5c6a5b2ea.jpg",
+        "https://telegra.ph/file/6fad82905bed3f444e905.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

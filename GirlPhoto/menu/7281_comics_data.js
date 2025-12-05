@@ -1,0 +1,38 @@
+const comicData = {
+    "IDcode": 7281,
+    "title": "面饼仙儿 初音旗袍[28P-514MB]",
+    "sourceUrl": "https://telegra.ph/面饼仙儿-初音旗袍28P-514MB-08-25",
+    "images": [
+        "https://telegra.ph/file/2252ade25fa5520157ca8.jpg",
+        "https://telegra.ph/file/c05f170331ac6fe50d8c0.jpg",
+        "https://telegra.ph/file/8f37914d7309d9123c2ed.jpg",
+        "https://telegra.ph/file/d71fe14da720ace3cdfd4.jpg",
+        "https://telegra.ph/file/7c7324b117682092282be.jpg",
+        "https://telegra.ph/file/d5bd8b766799a82fdb64d.jpg",
+        "https://telegra.ph/file/2915dae0cfa80f49ffcfb.jpg",
+        "https://telegra.ph/file/2e71675edca26202cfd73.jpg",
+        "https://telegra.ph/file/3ecafaa684b7cf962baed.jpg",
+        "https://telegra.ph/file/916b03d856bfe69f85df4.jpg",
+        "https://telegra.ph/file/7c0970957d794ff92d0f7.jpg",
+        "https://telegra.ph/file/6220282aca330385b8331.jpg",
+        "https://telegra.ph/file/634a5d766afaba526f399.jpg",
+        "https://telegra.ph/file/97a2d6463ee0b5890bd21.jpg",
+        "https://telegra.ph/file/17d451693a646324bed2e.jpg",
+        "https://telegra.ph/file/bbf345e047a795f44c79b.jpg",
+        "https://telegra.ph/file/a0f0c31419f216d1b17ea.jpg",
+        "https://telegra.ph/file/8bf5846c763cf5ea4b58d.jpg",
+        "https://telegra.ph/file/9d2e025db72d49a5473a8.jpg",
+        "https://telegra.ph/file/431177aaacf238991ec94.jpg",
+        "https://telegra.ph/file/cc6ef20906272689836ed.jpg",
+        "https://telegra.ph/file/39877436eed8ed5c6f462.jpg",
+        "https://telegra.ph/file/d7d7ed9a6df74ee8da42e.jpg",
+        "https://telegra.ph/file/d2f43c8bc52f85223bde8.jpg",
+        "https://telegra.ph/file/b41bf1ad69426dcdb4ea5.jpg",
+        "https://telegra.ph/file/20c5ffabdada78c5b9a1a.jpg",
+        "https://telegra.ph/file/3a8d7da8a171ca0336119.jpg",
+        "https://telegra.ph/file/0615e2446c565cbb9e68d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

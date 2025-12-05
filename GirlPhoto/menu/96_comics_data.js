@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 96,
+    "title": "Azami - Bremerton (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Azami---Bremerton-Azur-Lane-08-26",
+    "images": [
+        "https://telegra.ph/file/8d6604b64ac8014c3ab04.jpg",
+        "https://telegra.ph/file/a7b10782c90da51bde54f.jpg",
+        "https://telegra.ph/file/de90216a91601572f6b21.jpg",
+        "https://telegra.ph/file/d2ce4df5ea7447f5fd6c3.jpg",
+        "https://telegra.ph/file/fb2aa8dd9e01658612e06.jpg",
+        "https://telegra.ph/file/d0af950bb87b7452a4d0d.jpg",
+        "https://telegra.ph/file/1ffffdf99a5b64898473c.jpg",
+        "https://telegra.ph/file/97f9bfb4ac55109af3c84.jpg",
+        "https://telegra.ph/file/fdd143ff13558ea3bac58.jpg",
+        "https://telegra.ph/file/9bfd14987a886189209fb.jpg",
+        "https://telegra.ph/file/4dca241c8d1079845e5b4.jpg",
+        "https://telegra.ph/file/df7e8767fed43927eb801.jpg",
+        "https://telegra.ph/file/da7af7c5c28669372de8e.jpg",
+        "https://telegra.ph/file/dada4f5f97af52e1e1e58.jpg",
+        "https://telegra.ph/file/633de45dd2fb52b4ad928.jpg",
+        "https://telegra.ph/file/0917a94797e506eecd305.jpg",
+        "https://telegra.ph/file/401c2671fcb1f6374bfc9.jpg",
+        "https://telegra.ph/file/9ba98dfa7afda2759cb43.jpg",
+        "https://telegra.ph/file/6671b0e43871b1336de31.jpg",
+        "https://telegra.ph/file/9ed16a0b47381d5f5cf9b.jpg",
+        "https://telegra.ph/file/bbdfdf62c5ccaee7c05c2.jpg",
+        "https://telegra.ph/file/887249edd4992d48a6947.jpg",
+        "https://telegra.ph/file/a43bbc3e6c73fedc6008b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

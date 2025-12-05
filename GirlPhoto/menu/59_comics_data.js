@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 59,
+    "title": "AT鲨 年年 吉祥雪兆丰年",
+    "sourceUrl": "https://telegra.ph/年年-吉祥雪兆丰年-08-25",
+    "images": [
+        "https://telegra.ph/file/bdc55de3aad6b1980fa0b.jpg",
+        "https://telegra.ph/file/9c8fbd0aa3f8e97640adc.jpg",
+        "https://telegra.ph/file/5fad70205c75013a957eb.jpg",
+        "https://telegra.ph/file/be77b8d44d02f4c4522cf.jpg",
+        "https://telegra.ph/file/fca50c9a7d06a81acce68.jpg",
+        "https://telegra.ph/file/0197e528766ffb0e386ce.jpg",
+        "https://telegra.ph/file/3f4919c56192afc93a6e7.jpg",
+        "https://telegra.ph/file/7ffdd2e629ba862b23021.jpg",
+        "https://telegra.ph/file/5be02eb6ebf2085d90246.jpg",
+        "https://telegra.ph/file/8d77322ebf7405b1b13de.jpg",
+        "https://telegra.ph/file/63cf554d638cf2fa531a3.jpg",
+        "https://telegra.ph/file/0e6ad212485e1b53772e3.jpg",
+        "https://telegra.ph/file/f69e0ff1b141e2b4cbab0.jpg",
+        "https://telegra.ph/file/a3556c5d35ca0a66ca683.jpg",
+        "https://telegra.ph/file/64a18c14c8092a2802e1b.jpg",
+        "https://telegra.ph/file/0eda33ac2e599365a9815.jpg",
+        "https://telegra.ph/file/e946ef180942b08e74470.jpg",
+        "https://telegra.ph/file/2a903863f18efceea331f.jpg",
+        "https://telegra.ph/file/f73d471c0c7c5c4bf23e5.jpg",
+        "https://telegra.ph/file/bd97b057c65eb20d449b7.jpg",
+        "https://telegra.ph/file/8a42a997f15f71cd71559.jpg",
+        "https://telegra.ph/file/4db4d2334f7b121e26c93.jpg",
+        "https://telegra.ph/file/6a5f01042832dc6443b43.jpg",
+        "https://telegra.ph/file/f0986756dacffc083d9fa.jpg",
+        "https://telegra.ph/file/d16e8616e6a38aae926d0.jpg",
+        "https://telegra.ph/file/36a53d31516933f6015cd.jpg",
+        "https://telegra.ph/file/68528729c964b8359baea.jpg",
+        "https://telegra.ph/file/d9ba8194c13a6a34f73af.jpg",
+        "https://telegra.ph/file/7610496b613ff93dbb721.jpg",
+        "https://telegra.ph/file/f136d68ae8f360461e6d0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 3666,
+    "title": "朝雾爱 回复术士的重启人生 – 芙蕾雅",
+    "sourceUrl": "https://telegra.ph/朝雾爱-回复术士的重启人生--芙蕾雅-08-29-2",
+    "images": [
+        "https://telegra.ph/file/a4bc2ff0f37d3b3067ce6.jpg",
+        "https://telegra.ph/file/2e936e860da5da9a528c1.jpg",
+        "https://telegra.ph/file/e2722a231169f7ac1795c.jpg",
+        "https://telegra.ph/file/94e3cb12cb16642e14297.jpg",
+        "https://telegra.ph/file/a2c95a670dbdc35062f24.jpg",
+        "https://telegra.ph/file/60dbd15853a92640ed51d.jpg",
+        "https://telegra.ph/file/cfa180a6c197a9bb4414d.jpg",
+        "https://telegra.ph/file/456b95d071085e327a737.jpg",
+        "https://telegra.ph/file/d9eafde687695b8bfd395.jpg",
+        "https://telegra.ph/file/af7c6c87c6c19e39e0210.jpg",
+        "https://telegra.ph/file/f08adbfd06ca256ebe600.jpg",
+        "https://telegra.ph/file/304e8c230e72607f094d1.jpg",
+        "https://telegra.ph/file/52123f79837fb0ff91fb6.jpg",
+        "https://telegra.ph/file/3bc3d600554ab3d73fe5b.jpg",
+        "https://telegra.ph/file/4a5c9c277e0c19069060c.jpg",
+        "https://telegra.ph/file/8614d892f9d860caefc0d.jpg",
+        "https://telegra.ph/file/f4e46062725219276e1b9.jpg",
+        "https://telegra.ph/file/b50ab0004a84ce204e0dd.jpg",
+        "https://telegra.ph/file/38594f8e23938d3d9b1ca.jpg",
+        "https://telegra.ph/file/c9c92a6ac0adcc6df9427.jpg",
+        "https://telegra.ph/file/8c8ccaed4dd2be76020e4.jpg",
+        "https://telegra.ph/file/419970a9a7d099bc6c1b3.jpg",
+        "https://telegra.ph/file/44ebfc0007736053e1803.jpg",
+        "https://telegra.ph/file/d249ed7738ca2c7363b9f.jpg",
+        "https://telegra.ph/file/ffc2441cbb85680359cf9.jpg",
+        "https://telegra.ph/file/1ae83539905e6ecd89066.jpg",
+        "https://telegra.ph/file/e0e84b1c6c6ce003a9ec7.jpg",
+        "https://telegra.ph/file/249a2a11f84ee3580c9fd.jpg",
+        "https://telegra.ph/file/cdb97faf6ace3cdbb543a.jpg",
+        "https://telegra.ph/file/9196e6b05d924971fe1cc.jpg",
+        "https://telegra.ph/file/ef5bd692c26bc98e7cf4f.jpg",
+        "https://telegra.ph/file/6368a10bf843b6deebeb4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

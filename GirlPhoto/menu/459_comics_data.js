@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 459,
+    "title": "Cien恩恩 - 黑贞兔女郎泳装",
+    "sourceUrl": "https://telegra.ph/Cien恩恩---黑贞兔女郎泳装-08-26",
+    "images": [
+        "https://telegra.ph/file/2389f7582067cb2bb03a3.jpg",
+        "https://telegra.ph/file/3716cb70594d9b62d16cf.jpg",
+        "https://telegra.ph/file/d61b9180997e77f6080ed.jpg",
+        "https://telegra.ph/file/57138aa83c73354e6eefa.jpg",
+        "https://telegra.ph/file/50b6394ef7bb8e4431653.jpg",
+        "https://telegra.ph/file/fe2d6790e1da88a6d3307.jpg",
+        "https://telegra.ph/file/3b0482490cf93f52d2e2a.jpg",
+        "https://telegra.ph/file/013ac771d1f4450bcda4a.jpg",
+        "https://telegra.ph/file/0f908d834d922fda85a51.jpg",
+        "https://telegra.ph/file/d9506a67d5454bce06cdc.jpg",
+        "https://telegra.ph/file/5ccea5def81f9ee2c924f.jpg",
+        "https://telegra.ph/file/b55a729e011ef7f946196.jpg",
+        "https://telegra.ph/file/b6ca2b41fd820b79c5e2c.jpg",
+        "https://telegra.ph/file/215891ca17ce5938a5912.jpg",
+        "https://telegra.ph/file/a2431f615e0e84c68e6ff.jpg",
+        "https://telegra.ph/file/149718fb129dc38b7fe41.jpg",
+        "https://telegra.ph/file/b0cdfcd8baa151e81f95f.jpg",
+        "https://telegra.ph/file/ed7f0bfddd75fa787894b.jpg",
+        "https://telegra.ph/file/bf97d89e293c8302a6a4e.jpg",
+        "https://telegra.ph/file/151cc3a0e51105cd71a47.jpg",
+        "https://telegra.ph/file/8788f6fecdea44e306cac.jpg",
+        "https://telegra.ph/file/7dc6c70f8cd6216bd2cc9.jpg",
+        "https://telegra.ph/file/b2432a63e27f0cced3100.jpg",
+        "https://telegra.ph/file/27fc9c9c859273cfc4e04.jpg",
+        "https://telegra.ph/file/05341db62f68abd59fbd2.jpg",
+        "https://telegra.ph/file/5fbf39650e7b7649e12ef.jpg",
+        "https://telegra.ph/file/413e3480cedfc9dcccc44.jpg",
+        "https://telegra.ph/file/e6b7abe993a2227e5a185.jpg",
+        "https://telegra.ph/file/812c702ef290189174c70.jpg",
+        "https://telegra.ph/file/6d23b252737ca3206819e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

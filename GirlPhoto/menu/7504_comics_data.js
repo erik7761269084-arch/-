@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7504,
+    "title": "爆机少女喵小吉：秘密茶会",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉秘密茶会-08-29",
+    "images": [
+        "https://telegra.ph/file/3405d9508496f6112efc8.jpg",
+        "https://telegra.ph/file/0bc1a6c6be1fdc6660f84.jpg",
+        "https://telegra.ph/file/c6c6bb37a2e9a39f70184.jpg",
+        "https://telegra.ph/file/44d74cbfc95119fbc5993.jpg",
+        "https://telegra.ph/file/27debcd53d6a5b56da379.jpg",
+        "https://telegra.ph/file/8354a7841669636fc5a53.jpg",
+        "https://telegra.ph/file/bb1ac41b41d62a3fd4dcd.jpg",
+        "https://telegra.ph/file/32d274b79e8d29d1e769d.jpg",
+        "https://telegra.ph/file/788353e679639b801897e.jpg",
+        "https://telegra.ph/file/b735374a27b1a58a6cc02.jpg",
+        "https://telegra.ph/file/96bf8233e883cd3809400.jpg",
+        "https://telegra.ph/file/e54cd5acc66256de02cd6.jpg",
+        "https://telegra.ph/file/50b4ae7c971e4922d965e.jpg",
+        "https://telegra.ph/file/65132440630df67fe9f9f.jpg",
+        "https://telegra.ph/file/8906b17ed27c39d645029.jpg",
+        "https://telegra.ph/file/2ea16a166a81dec85c020.jpg",
+        "https://telegra.ph/file/7ac42d89db5246dd4495e.jpg",
+        "https://telegra.ph/file/f6f79e5400c207bc7849b.jpg",
+        "https://telegra.ph/file/f7da2d97b296b32334979.jpg",
+        "https://telegra.ph/file/bf4ce70f594b55fd9cb40.jpg",
+        "https://telegra.ph/file/31ae25cba89dbfcc5a2ed.jpg",
+        "https://telegra.ph/file/33c23418868fdce32c4cb.jpg",
+        "https://telegra.ph/file/3c2afc726288b68a67eba.jpg",
+        "https://telegra.ph/file/55f88ba2710f3f01e707d.jpg",
+        "https://telegra.ph/file/5293973e957b23d70d4e7.jpg",
+        "https://telegra.ph/file/9d17ca3ef2f1c911849f1.jpg",
+        "https://telegra.ph/file/eeb4b80b9119e27aff42d.jpg",
+        "https://telegra.ph/file/0a3b31a160463ee58fb18.jpg",
+        "https://telegra.ph/file/c54be24a71f6f995abc74.jpg",
+        "https://telegra.ph/file/6fe02bbbdd10a633d9cb9.jpg",
+        "https://telegra.ph/file/cbc6154a84f9fd70bb2a7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

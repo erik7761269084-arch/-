@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13867,
+    "title": "周于希和闺蜜《私房缠绵美臀诱惑》   VOL.014",
+    "sourceUrl": "https://telegra.ph/周于希和闺蜜私房缠绵美臀诱惑-VOL014-08-30-6",
+    "images": [
+        "https://telegra.ph/file/c763c8a45e54c3049124f.jpg",
+        "https://telegra.ph/file/65bfdb054a77ee02b2489.jpg",
+        "https://telegra.ph/file/40a66aa8c39e2b488a200.jpg",
+        "https://telegra.ph/file/19b6554b8ed40e89d719c.jpg",
+        "https://telegra.ph/file/3ab024388a9492f4a24a9.jpg",
+        "https://telegra.ph/file/6499f171d9b81c6878c28.jpg",
+        "https://telegra.ph/file/8dcd500f7e297be2031a3.jpg",
+        "https://telegra.ph/file/617fc80607d0005f5b861.jpg",
+        "https://telegra.ph/file/eb2630d9dbd837eb05c00.jpg",
+        "https://telegra.ph/file/292fa7d7314b6e79eaf0c.jpg",
+        "https://telegra.ph/file/bd344c9c36b8034aba2a2.jpg",
+        "https://telegra.ph/file/e4afa97181d5f3756968e.jpg",
+        "https://telegra.ph/file/fac54aa3ba5fb70d0d756.jpg",
+        "https://telegra.ph/file/9f077c155b17a8a1e8067.jpg",
+        "https://telegra.ph/file/026871ce1de3c31cd7026.jpg",
+        "https://telegra.ph/file/ce818fc01388872f809d4.jpg",
+        "https://telegra.ph/file/08d2f619bc987e5f50d3f.jpg",
+        "https://telegra.ph/file/f4f736b81b02f9271ba80.jpg",
+        "https://telegra.ph/file/6ce9ddca1dcb08690566d.jpg",
+        "https://telegra.ph/file/3f256c1d287214d653685.jpg",
+        "https://telegra.ph/file/516e8fd9a1174e1f0c9cc.jpg",
+        "https://telegra.ph/file/29c7d9646d077d9eb5ae8.jpg",
+        "https://telegra.ph/file/2912bb2e7d2f1312ef367.jpg",
+        "https://telegra.ph/file/9f869e39b6953b8e28b76.jpg",
+        "https://telegra.ph/file/4c3635b3f381277e6229f.jpg",
+        "https://telegra.ph/file/ff118c3738c35b704649c.jpg",
+        "https://telegra.ph/file/3e3196018880f123d78bf.jpg",
+        "https://telegra.ph/file/d0955082b994d08e1bf9e.jpg",
+        "https://telegra.ph/file/805e325144e87264bafc6.jpg",
+        "https://telegra.ph/file/8d7b45d36d2d870c1b6c7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

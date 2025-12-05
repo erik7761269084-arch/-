@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6833,
+    "title": "超鳗鱼霏儿 - 蒂法",
+    "sourceUrl": "https://telegra.ph/超鳗鱼霏儿---蒂法-08-27",
+    "images": [
+        "https://telegra.ph/file/12f5ea557050128771499.jpg",
+        "https://telegra.ph/file/ff291e967ea81de7bdfc8.jpg",
+        "https://telegra.ph/file/d42efee2ac7f2d66b4f43.jpg",
+        "https://telegra.ph/file/66345c49a6819406b00e8.jpg",
+        "https://telegra.ph/file/8b1b99d248c379fa28c25.jpg",
+        "https://telegra.ph/file/16836daede59755c219b9.jpg",
+        "https://telegra.ph/file/024a270b37caaf3dfc77c.jpg",
+        "https://telegra.ph/file/d462ba3cb35284dfc9f11.jpg",
+        "https://telegra.ph/file/65bcd0a1aa43d1eae4903.jpg",
+        "https://telegra.ph/file/39e06fcbced5999dd2564.jpg",
+        "https://telegra.ph/file/46d10cde07638d3e15b74.jpg",
+        "https://telegra.ph/file/fb23790a934bc497202a7.jpg",
+        "https://telegra.ph/file/dc68f2600840e8a6b2eff.jpg",
+        "https://telegra.ph/file/a8994b16762afeb14d688.jpg",
+        "https://telegra.ph/file/93594a7a466031964d108.jpg",
+        "https://telegra.ph/file/f23bd11e00511d9948518.jpg",
+        "https://telegra.ph/file/e7d4cb921001aba6083cd.jpg",
+        "https://telegra.ph/file/40fe70b3b3941e70699f9.jpg",
+        "https://telegra.ph/file/9e26bcb50f7f4736a26e7.jpg",
+        "https://telegra.ph/file/733a55152987cb4941876.jpg",
+        "https://telegra.ph/file/2b1109712e08e4ffdd79b.jpg",
+        "https://telegra.ph/file/641e039074b4bc670221f.jpg",
+        "https://telegra.ph/file/3c1430801d0d357b2c6b7.jpg",
+        "https://telegra.ph/file/bfc6be06cb51e35a329db.jpg",
+        "https://telegra.ph/file/e45b71b607d1decb10210.jpg",
+        "https://telegra.ph/file/b89f4c85cf06930f99c4d.jpg",
+        "https://telegra.ph/file/61947fd33686dd3d6c3bf.jpg",
+        "https://telegra.ph/file/47527749ce24135377641.jpg",
+        "https://telegra.ph/file/6523d023758748034664f.jpg",
+        "https://telegra.ph/file/ed7436dfbc7294326ede7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

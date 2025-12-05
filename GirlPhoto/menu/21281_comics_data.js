@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21281,
+    "title": "Fantasy - Dasom Vol.2 – Nightfall",
+    "sourceUrl": "https://telegra.ph/Fantasy---Dasom-Vol2--Nightfall-08-29",
+    "images": [
+        "https://telegra.ph/file/23a6071f7bef781b505fa.jpg",
+        "https://telegra.ph/file/e432c8ed0164f52917f7a.jpg",
+        "https://telegra.ph/file/638233b04ca4697e6f08e.jpg",
+        "https://telegra.ph/file/5c8480f4d7111461fbf6b.jpg",
+        "https://telegra.ph/file/4aad0324412c1c9016b0c.jpg",
+        "https://telegra.ph/file/40e61b8df54486da618ea.jpg",
+        "https://telegra.ph/file/2e02d5e139f2d77574455.jpg",
+        "https://telegra.ph/file/41a903460d16483bb7bf7.jpg",
+        "https://telegra.ph/file/015dd9027619cfa5a3e98.jpg",
+        "https://telegra.ph/file/f1e8acaf9119418ecc2ed.jpg",
+        "https://telegra.ph/file/42fc8f0588e562444cf64.jpg",
+        "https://telegra.ph/file/2c89ed3e736dea0b9335e.jpg",
+        "https://telegra.ph/file/198b5775c044ffebacb41.jpg",
+        "https://telegra.ph/file/43b372a9d153f318e6069.jpg",
+        "https://telegra.ph/file/b8af4a1e25e2a09dbda3c.jpg",
+        "https://telegra.ph/file/cd7e2f8837691d066a45c.jpg",
+        "https://telegra.ph/file/d23e1ea24c9bac6e9e190.jpg",
+        "https://telegra.ph/file/943fcbdd62f60dbc35bc7.jpg",
+        "https://telegra.ph/file/b49db8d9d42f29011a0ac.jpg",
+        "https://telegra.ph/file/27ba58e3b5c5a31d76f8e.jpg",
+        "https://telegra.ph/file/cd19ff4ab43ad3ea41d21.jpg",
+        "https://telegra.ph/file/191feb23fc1e1b31b67ed.jpg",
+        "https://telegra.ph/file/14777c90684b2a2f3d393.jpg",
+        "https://telegra.ph/file/122120fb20bd347005aa5.jpg",
+        "https://telegra.ph/file/173528cb6724475a82325.jpg",
+        "https://telegra.ph/file/a41d71b87ce944933def1.jpg",
+        "https://telegra.ph/file/910ff0e2b739795654bf5.jpg",
+        "https://telegra.ph/file/e0e6134015f95f5e121fc.jpg",
+        "https://telegra.ph/file/1c760984b2a10d7dba81c.jpg",
+        "https://telegra.ph/file/c800533b5d528c6f68db6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

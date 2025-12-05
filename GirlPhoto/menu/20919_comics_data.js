@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20919,
+    "title": "泥泥汝 23年5月 - 女仆与小屋",
+    "sourceUrl": "https://telegra.ph/泥泥汝-23年5月---女仆与小屋-08-29",
+    "images": [
+        "https://telegra.ph/file/601aae01282d473f15938.jpg",
+        "https://telegra.ph/file/9c5de928a8b8613aea468.jpg",
+        "https://telegra.ph/file/990ac282283f0146f53fa.jpg",
+        "https://telegra.ph/file/b28c972cf917704d4adc7.jpg",
+        "https://telegra.ph/file/52343c9cccc3f579190a0.jpg",
+        "https://telegra.ph/file/a1cd847b10a0bf50060c6.jpg",
+        "https://telegra.ph/file/0e0eaab0b9a65a8d4711c.jpg",
+        "https://telegra.ph/file/c82dc50a7e4e62c8e993a.jpg",
+        "https://telegra.ph/file/cf5a741bc1b134ff3f655.jpg",
+        "https://telegra.ph/file/038388854ea167bc38ad4.jpg",
+        "https://telegra.ph/file/92b490471b0968d3dfdb1.jpg",
+        "https://telegra.ph/file/7674c835f73a2b7d55f04.jpg",
+        "https://telegra.ph/file/3f7a4aa7bd9c34a60b791.jpg",
+        "https://telegra.ph/file/9be8c161a4d4495152e76.jpg",
+        "https://telegra.ph/file/fbc81a47a3a66c0aee9a1.jpg",
+        "https://telegra.ph/file/17b3aab1925b846b13e8f.jpg",
+        "https://telegra.ph/file/38173663071ed2996779f.jpg",
+        "https://telegra.ph/file/7bf839e1aa02a2e19164d.jpg",
+        "https://telegra.ph/file/12e0804f9c0c79fe29f7f.jpg",
+        "https://telegra.ph/file/d1e42a3331c104847401a.jpg",
+        "https://telegra.ph/file/f44c08f97863226a313a1.jpg",
+        "https://telegra.ph/file/4c0ff057afdf11cbd2427.jpg",
+        "https://telegra.ph/file/dd6de1aa96ab6ed8bb76e.jpg",
+        "https://telegra.ph/file/b6d2bfe865d58f64d242b.jpg",
+        "https://telegra.ph/file/db87d9f38a7daadb19b97.jpg",
+        "https://telegra.ph/file/460b0c7f61d216a1ba20d.jpg",
+        "https://telegra.ph/file/a2ae14559ebed7784a70c.jpg",
+        "https://telegra.ph/file/2efa3a302aef3e1a4e990.jpg",
+        "https://telegra.ph/file/4393e1cb637be63a04d1e.jpg",
+        "https://telegra.ph/file/56ad91abab3f442444c06.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

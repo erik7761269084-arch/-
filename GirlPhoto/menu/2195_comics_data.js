@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2195,
+    "title": "Shika小鹿鹿 - NO.80 喜多川海梦 [23P1V-164MB]",
+    "sourceUrl": "https://telegra.ph/Shika小鹿鹿---NO80-喜多川海梦-23P1V-164MB-08-26",
+    "images": [
+        "https://telegra.ph/file/81e03335e2df8ca44f96a.jpg",
+        "https://telegra.ph/file/b061ae1ace1915babf20d.jpg",
+        "https://telegra.ph/file/8e6e297d73244d693735e.jpg",
+        "https://telegra.ph/file/14992ea84601f639b053d.jpg",
+        "https://telegra.ph/file/d81c7540800f1b941bb12.jpg",
+        "https://telegra.ph/file/f81752c2dbeac84fc6002.jpg",
+        "https://telegra.ph/file/9e4a100cd02b943e3d9ed.jpg",
+        "https://telegra.ph/file/5bdf44a887180c7b1139a.jpg",
+        "https://telegra.ph/file/0adabc131a1ef669f2453.jpg",
+        "https://telegra.ph/file/eb805f9fb062ec468d2eb.jpg",
+        "https://telegra.ph/file/06fdd2a88d1cd175e228c.jpg",
+        "https://telegra.ph/file/dfc55d09cedd74e95c0e3.jpg",
+        "https://telegra.ph/file/b05f9cee744067df73f7a.jpg",
+        "https://telegra.ph/file/9df4373ddc55e768d67d3.jpg",
+        "https://telegra.ph/file/c7c4a702e2715df41bd1b.jpg",
+        "https://telegra.ph/file/86346607918d0009f75d1.jpg",
+        "https://telegra.ph/file/73788f5931b114af6d6c9.jpg",
+        "https://telegra.ph/file/cc7d8b9ab8dc7a3fc8ee3.jpg",
+        "https://telegra.ph/file/3773993b8bd02e4d243c8.jpg",
+        "https://telegra.ph/file/3ee2b53e90072cd4f2715.jpg",
+        "https://telegra.ph/file/690c1351915fd6b52e259.jpg",
+        "https://telegra.ph/file/6a6aef0f285a03785d2c5.jpg",
+        "https://telegra.ph/file/6c09ddda9484619f82d8f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

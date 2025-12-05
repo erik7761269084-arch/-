@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 314,
+    "title": "Byoru - Jett[32P]",
+    "sourceUrl": "https://telegra.ph/Byoru---Jett32P-08-25",
+    "images": [
+        "https://telegra.ph/file/43375a361dbd88dac6c6d.jpg",
+        "https://telegra.ph/file/be08d288faf653b8294c7.jpg",
+        "https://telegra.ph/file/ffb1fbae237f344a6e495.jpg",
+        "https://telegra.ph/file/99c49edace500062ce06d.jpg",
+        "https://telegra.ph/file/45d7a382f324d9aef5dc2.jpg",
+        "https://telegra.ph/file/41e0fe1b15c209c874877.jpg",
+        "https://telegra.ph/file/a47914b7f76731c5f9afd.jpg",
+        "https://telegra.ph/file/b2cdb8e63b4128fa8108c.jpg",
+        "https://telegra.ph/file/0f130ea6fad6d13197513.jpg",
+        "https://telegra.ph/file/e640c2244721ae482f450.jpg",
+        "https://telegra.ph/file/28638eee8cacf1f84f4e5.jpg",
+        "https://telegra.ph/file/ec031f787a8628ca255c0.jpg",
+        "https://telegra.ph/file/df526f990de318861e292.jpg",
+        "https://telegra.ph/file/b0956c4dc444670dce3e2.jpg",
+        "https://telegra.ph/file/f60a006e123c23e22d94e.jpg",
+        "https://telegra.ph/file/851ff906361cbcaedbcfc.jpg",
+        "https://telegra.ph/file/5a15c25eceea4b75f4dc8.jpg",
+        "https://telegra.ph/file/92e6d4c3a2d763f983309.jpg",
+        "https://telegra.ph/file/7651e16da7559e0f95074.jpg",
+        "https://telegra.ph/file/bd755a16c9dc73deb19cd.jpg",
+        "https://telegra.ph/file/61aea4adc81030d60e34d.jpg",
+        "https://telegra.ph/file/86c8a77b527e6cbc17660.jpg",
+        "https://telegra.ph/file/23470b25bf0c8b9dcde22.jpg",
+        "https://telegra.ph/file/c6d742566d84ef43168d9.jpg",
+        "https://telegra.ph/file/43396d8717b73bdcd7967.jpg",
+        "https://telegra.ph/file/d29f053e08cd4f71de044.jpg",
+        "https://telegra.ph/file/e342815848ced15cd0090.jpg",
+        "https://telegra.ph/file/bd6048724922d040751bd.jpg",
+        "https://telegra.ph/file/eecd94227965bf7691ac8.jpg",
+        "https://telegra.ph/file/0bee22e9db5005f8ef559.jpg",
+        "https://telegra.ph/file/c6ca2b849d92468ee93f2.jpg",
+        "https://telegra.ph/file/00d0775d7e061b2911d64.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

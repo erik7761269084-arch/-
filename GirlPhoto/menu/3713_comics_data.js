@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3713,
+    "title": "沖田凜花Rinka - 圣诞2B [30P-80MB]",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---圣诞2B-30P-80MB-08-25",
+    "images": [
+        "https://telegra.ph/file/4cfa448ac5759cf61d341.jpg",
+        "https://telegra.ph/file/9b016d2fc0dd3f87c464f.jpg",
+        "https://telegra.ph/file/d034ab7bc57d9ded96d7a.jpg",
+        "https://telegra.ph/file/1794af12cd84107e87462.jpg",
+        "https://telegra.ph/file/792d0c634a1538618d9d0.jpg",
+        "https://telegra.ph/file/e5427830aadebf2a26c52.jpg",
+        "https://telegra.ph/file/99ef1fe0cfb8ce1c4769e.jpg",
+        "https://telegra.ph/file/6cbcbcf2dd721d962628c.jpg",
+        "https://telegra.ph/file/e3dbc81f23ef7ed8df12d.jpg",
+        "https://telegra.ph/file/a3d75183299b4fd358445.jpg",
+        "https://telegra.ph/file/7839ccbbff578b8efbdf0.jpg",
+        "https://telegra.ph/file/ee411ca839ec89ce49b35.jpg",
+        "https://telegra.ph/file/732491b7b9774fbd2e1da.jpg",
+        "https://telegra.ph/file/5b48713c6b8ba267e0931.jpg",
+        "https://telegra.ph/file/25cfbd8d7bb758e58be4f.jpg",
+        "https://telegra.ph/file/f57edb961b6fb37821f90.jpg",
+        "https://telegra.ph/file/1d70eb212e0678d3bce83.jpg",
+        "https://telegra.ph/file/1fb50e4a1262a297e44b3.jpg",
+        "https://telegra.ph/file/58f3a43cf5b45961f19a6.jpg",
+        "https://telegra.ph/file/a75d82e631cb9e4d2d608.jpg",
+        "https://telegra.ph/file/ff9797febfc00f7be08e5.jpg",
+        "https://telegra.ph/file/a86cf60ba08b81a7974d9.jpg",
+        "https://telegra.ph/file/79a8aa924c150067dc075.jpg",
+        "https://telegra.ph/file/23ab7881510814bbfdd44.jpg",
+        "https://telegra.ph/file/a37dc1aaa3640c47b6c48.jpg",
+        "https://telegra.ph/file/aa1e866627075c6c059bf.jpg",
+        "https://telegra.ph/file/ce117840b5774239f4f7f.jpg",
+        "https://telegra.ph/file/1e5deeed003ed597c2b79.jpg",
+        "https://telegra.ph/file/fa4699d35c87b55209ac8.jpg",
+        "https://telegra.ph/file/2656f72e5ace9d09fe5ed.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

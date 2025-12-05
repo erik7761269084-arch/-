@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 796,
+    "title": "可爱妹子Fushii_海堂 - 秋日女友",
+    "sourceUrl": "https://telegra.ph/可爱妹子Fushii-海堂---秋日女友-08-26",
+    "images": [
+        "https://telegra.ph/file/bffe19b3f84855d25aa5a.jpg",
+        "https://telegra.ph/file/1895f0c24ce087ba23c59.jpg",
+        "https://telegra.ph/file/34ffa10333da2fedaff06.jpg",
+        "https://telegra.ph/file/6b3b7f9363a178ad0f4d3.jpg",
+        "https://telegra.ph/file/ef70735047f9e8c912a93.jpg",
+        "https://telegra.ph/file/e2463e15928368d2839b3.jpg",
+        "https://telegra.ph/file/de02af0efa95a0824dec4.jpg",
+        "https://telegra.ph/file/cff09693ca91c5c8caf76.jpg",
+        "https://telegra.ph/file/f1ff31b31a7a0f5d2f341.jpg",
+        "https://telegra.ph/file/d042f3ca83a8f9cdfe282.jpg",
+        "https://telegra.ph/file/1527d26943f2a457448b6.jpg",
+        "https://telegra.ph/file/3111c0135251bff99ef9d.jpg",
+        "https://telegra.ph/file/b597d776b86412ab8d05a.jpg",
+        "https://telegra.ph/file/b3efde9216deb0a2e6111.jpg",
+        "https://telegra.ph/file/0dda99a6567f726f06273.jpg",
+        "https://telegra.ph/file/7041f082121b62127032f.jpg",
+        "https://telegra.ph/file/8d48e818d1d019ee28184.jpg",
+        "https://telegra.ph/file/a4c9ffa67626c4096eb87.jpg",
+        "https://telegra.ph/file/b3c19893a5e35016612d8.jpg",
+        "https://telegra.ph/file/dc5fd7001a33af253bc03.jpg",
+        "https://telegra.ph/file/aa555ea8b659726181c7e.jpg",
+        "https://telegra.ph/file/e2dda532d45cf31a0f19e.jpg",
+        "https://telegra.ph/file/38fa0c1829eec6f690e14.jpg",
+        "https://telegra.ph/file/9d50d97ab7b59ac8aeef4.jpg",
+        "https://telegra.ph/file/f577024c35fca13d250be.jpg",
+        "https://telegra.ph/file/978c167768b342a625386.jpg",
+        "https://telegra.ph/file/2d3ab8db94d6cd8659ff8.jpg",
+        "https://telegra.ph/file/0a5e433e4cc54585719c0.jpg",
+        "https://telegra.ph/file/fbf5ee693e5a8ecdad3f3.jpg",
+        "https://telegra.ph/file/8051063e35b3e48fcc619.jpg",
+        "https://telegra.ph/file/bda3a609ba71560e12b8e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 3642,
+    "title": "禅院熏(熏仔) – 金色礼服 脚链",
+    "sourceUrl": "https://telegra.ph/禅院熏熏仔--金色礼服-脚链-08-29",
+    "images": [
+        "https://telegra.ph/file/71e44e1fe360ea9a2fa6d.jpg",
+        "https://telegra.ph/file/7534eff1f2a9072efa072.jpg",
+        "https://telegra.ph/file/26646cb7cd2cbd09891eb.jpg",
+        "https://telegra.ph/file/9eae6d5fdc2636df0bd86.jpg",
+        "https://telegra.ph/file/6c5d5e4d968dac4b71512.jpg",
+        "https://telegra.ph/file/177db045c0cc020ec7d1a.jpg",
+        "https://telegra.ph/file/d48b7d0efb446a164ebdc.jpg",
+        "https://telegra.ph/file/5353ac3d0a6658066da6e.jpg",
+        "https://telegra.ph/file/6a563fda5cc2eca855619.jpg",
+        "https://telegra.ph/file/21695b2eccbc8fc19f027.jpg",
+        "https://telegra.ph/file/6a3b1d6a399e78e431c8e.jpg",
+        "https://telegra.ph/file/ef892d24d7026881f53c6.jpg",
+        "https://telegra.ph/file/23a5f13fc782f428e2349.jpg",
+        "https://telegra.ph/file/2672e6540925415f78c49.jpg",
+        "https://telegra.ph/file/e5cfee8876f6a8e874d2f.jpg",
+        "https://telegra.ph/file/a8e63a29d0f46ec594540.jpg",
+        "https://telegra.ph/file/201602cdfd5b47fba692d.jpg",
+        "https://telegra.ph/file/90f21cf3ee7739cd9abd9.jpg",
+        "https://telegra.ph/file/a374c2bb1f1454102a416.jpg",
+        "https://telegra.ph/file/d11244a9a82c6c3a55256.jpg",
+        "https://telegra.ph/file/1c311a5e36b11bd06b632.jpg",
+        "https://telegra.ph/file/5990ce42f6e1d4e253c2d.jpg",
+        "https://telegra.ph/file/91518938c348c4427a8df.jpg",
+        "https://telegra.ph/file/86b01b4a8cc1917346eae.jpg",
+        "https://telegra.ph/file/7d77c6d6e0e7b116c3cb2.jpg",
+        "https://telegra.ph/file/c1430ec98c6741f95858b.jpg",
+        "https://telegra.ph/file/9269557432f61775e6648.jpg",
+        "https://telegra.ph/file/195c3e7bbce8c1830dcef.jpg",
+        "https://telegra.ph/file/5dbb14817e5f323544a6a.jpg",
+        "https://telegra.ph/file/9b3e1f3a561fb0c0bf3f4.jpg",
+        "https://telegra.ph/file/05d494ed0fd2a522991d2.jpg",
+        "https://telegra.ph/file/33db0858fe3919d0758bd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

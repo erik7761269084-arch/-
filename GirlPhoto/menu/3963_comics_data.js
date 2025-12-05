@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 3963,
+    "title": "蠢沫沫 - 2B冰雪",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---2B冰雪-08-27",
+    "images": [
+        "https://telegra.ph/file/cb15c1e06a5038b73ceaa.jpg",
+        "https://telegra.ph/file/e924395f6bbcf8fe38788.jpg",
+        "https://telegra.ph/file/778116da998a9327e74c6.jpg",
+        "https://telegra.ph/file/77e308e9be4bfe16444d6.jpg",
+        "https://telegra.ph/file/ff9864e2867bc4af31602.jpg",
+        "https://telegra.ph/file/c308650158a24d4f54b1d.jpg",
+        "https://telegra.ph/file/b9be001f918b140195ab7.jpg",
+        "https://telegra.ph/file/44d16af6b44682332f4f7.jpg",
+        "https://telegra.ph/file/a07b3a8581ae0b6b64251.jpg",
+        "https://telegra.ph/file/399b7ecff4aab8fec7dc7.jpg",
+        "https://telegra.ph/file/d7ca2352118577070134d.jpg",
+        "https://telegra.ph/file/d2e8f56514f52f34add20.jpg",
+        "https://telegra.ph/file/284bf3c5c6f0aaeddb8ac.jpg",
+        "https://telegra.ph/file/e49744b34c26ad52d12a6.jpg",
+        "https://telegra.ph/file/8915e87fce4b35fc1b312.jpg",
+        "https://telegra.ph/file/7e7402ec736a9fae5485a.jpg",
+        "https://telegra.ph/file/7b95b545004a9588e00a0.jpg",
+        "https://telegra.ph/file/45c023263dedf258009ae.jpg",
+        "https://telegra.ph/file/47d3423837213283a5daa.jpg",
+        "https://telegra.ph/file/2670d3acea01df4c347f8.jpg",
+        "https://telegra.ph/file/dbab408f23ee34900b967.jpg",
+        "https://telegra.ph/file/a6d92df4b9c2e2ad2dc0e.jpg",
+        "https://telegra.ph/file/0ac7e6fdb3d15e8262141.jpg",
+        "https://telegra.ph/file/f466064d85cc424ce164d.jpg",
+        "https://telegra.ph/file/64e08a580e31faa3c5aa2.jpg",
+        "https://telegra.ph/file/76142e10621e9cd764986.jpg",
+        "https://telegra.ph/file/9671f363c11cc932c8551.jpg",
+        "https://telegra.ph/file/a6ef5c6da9e2d5f2fa9d1.jpg",
+        "https://telegra.ph/file/adbbe02a2aa06391216f4.jpg",
+        "https://telegra.ph/file/9a30c577b59c09b623bde.jpg",
+        "https://telegra.ph/file/081db0435c4df4041166b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

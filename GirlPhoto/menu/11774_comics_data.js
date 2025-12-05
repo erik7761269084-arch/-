@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11774,
+    "title": "轩萧学姐 - 黑丝兔女郎",
+    "sourceUrl": "https://telegra.ph/轩萧学姐---黑丝兔女郎-08-27",
+    "images": [
+        "https://telegra.ph/file/a52f6b5415916e1a07acf.jpg",
+        "https://telegra.ph/file/f94b5cc4c5f5fb1cb872a.jpg",
+        "https://telegra.ph/file/bc0363fa37443acf547ea.jpg",
+        "https://telegra.ph/file/084886c96920d92a079a8.jpg",
+        "https://telegra.ph/file/07ec92e3d745146451fd7.jpg",
+        "https://telegra.ph/file/4194dedaaf18f9882c782.jpg",
+        "https://telegra.ph/file/69722562200758b5454b3.jpg",
+        "https://telegra.ph/file/08aea733e8bb2a50c363e.jpg",
+        "https://telegra.ph/file/141c698d63c0597907320.jpg",
+        "https://telegra.ph/file/d6784a097ae82f9b7c6f9.jpg",
+        "https://telegra.ph/file/7b19cf15bed92426e5bb2.jpg",
+        "https://telegra.ph/file/d71975ee27dd8e4a4d8e0.jpg",
+        "https://telegra.ph/file/620330533f78b6499f5ec.jpg",
+        "https://telegra.ph/file/1c8b438de8c53fb25817e.jpg",
+        "https://telegra.ph/file/eb5009059129e836ee5dd.jpg",
+        "https://telegra.ph/file/5703836b6a40f449c5d78.jpg",
+        "https://telegra.ph/file/dd3aa0b9aefd1f46fc86e.jpg",
+        "https://telegra.ph/file/fe0882b7368913fb61b9e.jpg",
+        "https://telegra.ph/file/754dc66c66598d43071bf.jpg",
+        "https://telegra.ph/file/ca39cb3479205da9b93fa.jpg",
+        "https://telegra.ph/file/805043adcef290637ddb8.jpg",
+        "https://telegra.ph/file/330c2d84b1f8f5414f266.jpg",
+        "https://telegra.ph/file/de0406823ff9caf77f0d3.jpg",
+        "https://telegra.ph/file/e9c67c4337bdbbc37f3da.jpg",
+        "https://telegra.ph/file/6cd37d582b6acbcfa2671.jpg",
+        "https://telegra.ph/file/0d17c7ff0ec029d1adb92.jpg",
+        "https://telegra.ph/file/fd4ef0f6ad62fc39c2857.jpg",
+        "https://telegra.ph/file/d5e574775f09901fa1c00.jpg",
+        "https://telegra.ph/file/6fb76ec09c2104e0056ea.jpg",
+        "https://telegra.ph/file/7c7f771be4a236df4eae8.jpg",
+        "https://telegra.ph/file/14a7059992bc5672a7e84.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

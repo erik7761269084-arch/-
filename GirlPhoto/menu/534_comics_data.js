@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 534,
+    "title": "[DJAWA]  Kang Inkyung - Rescue Me 写真套图",
+    "sourceUrl": "https://telegra.ph/DJAWA-Kang-Inkyung---Rescue-Me-写真套图-08-26",
+    "images": [
+        "https://telegra.ph/file/8eff2f25e1e6a2db82016.jpg",
+        "https://telegra.ph/file/c95b8de371a9153b2b4ea.jpg",
+        "https://telegra.ph/file/4d306c074beff45402afb.jpg",
+        "https://telegra.ph/file/ad598f655e9c0bc2ac35b.jpg",
+        "https://telegra.ph/file/fc1aaa80503fc03acd166.jpg",
+        "https://telegra.ph/file/9308792f73e281a798f12.jpg",
+        "https://telegra.ph/file/602c7c53b75d5bd9169a5.jpg",
+        "https://telegra.ph/file/7884087df2013cbb1fd67.jpg",
+        "https://telegra.ph/file/c7116f03c730bb64ff3a4.jpg",
+        "https://telegra.ph/file/5b29ed793ecea22296a51.jpg",
+        "https://telegra.ph/file/93fbf4e3e375de43a24dc.jpg",
+        "https://telegra.ph/file/541193a6823c7f3e14e06.jpg",
+        "https://telegra.ph/file/6725d388bbe050ce91974.jpg",
+        "https://telegra.ph/file/343a5a0bf52e22ba415cd.jpg",
+        "https://telegra.ph/file/2f7cb9c78565222678770.jpg",
+        "https://telegra.ph/file/922bb81df75a8a92a3e9f.jpg",
+        "https://telegra.ph/file/ce121eb85c6144c127bd0.jpg",
+        "https://telegra.ph/file/d340b4232e6a7f32a2a41.jpg",
+        "https://telegra.ph/file/069b6ab8e02df042b2047.jpg",
+        "https://telegra.ph/file/e4696b759f531ecbb5d94.jpg",
+        "https://telegra.ph/file/4a2d2c7fff3f0fe6902d2.jpg",
+        "https://telegra.ph/file/e42c1c9f51d409fdc3c84.jpg",
+        "https://telegra.ph/file/64162a05a727c0db0c913.jpg",
+        "https://telegra.ph/file/275096ce26bc94791179c.jpg",
+        "https://telegra.ph/file/31f58f4cc26c3d00acbfa.jpg",
+        "https://telegra.ph/file/26439d70db7f525cb0fd0.jpg",
+        "https://telegra.ph/file/addbf0ac8def1a19c9a1a.jpg",
+        "https://telegra.ph/file/42d4626993dbeacf9df98.jpg",
+        "https://telegra.ph/file/01708372fe73f9b15854a.jpg",
+        "https://telegra.ph/file/3bd7b413f19d646b12ebd.jpg",
+        "https://telegra.ph/file/bc14a991a520513260f2a.jpg",
+        "https://telegra.ph/file/d6c58cb72a464344e240c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

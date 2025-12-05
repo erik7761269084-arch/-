@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12785,
+    "title": "桜桃喵 - 明日方舟白金",
+    "sourceUrl": "https://telegra.ph/桜桃喵---明日方舟白金-08-27",
+    "images": [
+        "https://telegra.ph/file/9fb31ac8bba3cb8fafcbf.jpg",
+        "https://telegra.ph/file/bb019a7826997d66bdba0.jpg",
+        "https://telegra.ph/file/b538beac55889aa3aa9b5.jpg",
+        "https://telegra.ph/file/e9fda99ce3957900d2bbf.jpg",
+        "https://telegra.ph/file/f4ae2bbec0862c834e8a5.jpg",
+        "https://telegra.ph/file/36b0c3d543476c4a9a059.jpg",
+        "https://telegra.ph/file/e486f25d2e2a284c310e6.jpg",
+        "https://telegra.ph/file/87b03cc3f7b49a26db623.jpg",
+        "https://telegra.ph/file/5f2720e63cf15f94cce06.jpg",
+        "https://telegra.ph/file/bf75c6773d6d055470223.jpg",
+        "https://telegra.ph/file/27d1f34da86a25f8908ad.jpg",
+        "https://telegra.ph/file/60ec816ea4899f2c6ccb6.jpg",
+        "https://telegra.ph/file/3c21885ba6ac1e9345e25.jpg",
+        "https://telegra.ph/file/83e38a975515d8838f3d4.jpg",
+        "https://telegra.ph/file/d60f59d258ea6f880a622.jpg",
+        "https://telegra.ph/file/086af79536bafce29bf1a.jpg",
+        "https://telegra.ph/file/c1be76f22c33773d9b165.jpg",
+        "https://telegra.ph/file/a183fee8cb33eee0f1ae9.jpg",
+        "https://telegra.ph/file/99677b4b42a820dc16758.jpg",
+        "https://telegra.ph/file/401ae4addc7050208c5bb.jpg",
+        "https://telegra.ph/file/84d681ac066e94525684b.jpg",
+        "https://telegra.ph/file/fc59dfd75f6f926d40d23.jpg",
+        "https://telegra.ph/file/e99ee0e285a411b0213aa.jpg",
+        "https://telegra.ph/file/37dd97cfdf85c48b8fcac.jpg",
+        "https://telegra.ph/file/e8a7a6e5fa85a3538a8ad.jpg",
+        "https://telegra.ph/file/95c0ca99d9e83508cc8a3.jpg",
+        "https://telegra.ph/file/a5c14780d9a93230a157f.jpg",
+        "https://telegra.ph/file/697056392b65a3ce46df9.jpg",
+        "https://telegra.ph/file/f4aaf259d783bd56e9419.jpg",
+        "https://telegra.ph/file/ca98fd26d533f4b3472f0.jpg",
+        "https://telegra.ph/file/205028c5f3317189ab146.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2740,
+    "title": "玉汇 - PA15翠雀媚 [31P-379MB]",
+    "sourceUrl": "https://telegra.ph/%E7%8E%89%E6%B1%87---PA15%E7%BF%A0%E9%9B%80%E5%AA%9A-31P-379MB-08-20",
+    "images": [
+        "https://image.acg.lol/file/2024/11/27/1-7.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-1.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-2.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-3.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-4.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-5.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-6.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-8.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-9.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-10.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-11.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-12.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-13.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-14.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-15.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-16.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-17.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-1855b502efe1ae5133.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-193a83a8175b0d59c9.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-20.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-21f1f634e1d3d22b6e.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-220851d9cdba0aa491.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-23a0846c848bae2413.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-24cd2fe75f0f01a58b.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-252043e709a315483a.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-269a020140a842c60c.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-27af126e0b2244ffbd.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-2815f5bef651ecfe1d.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-295afe3c17cba4dce4.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-303ab270634f3fdbcf.jpg",
+        "https://image.acg.lol/file/2024/11/27/1-31651e445a6b45d6a5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

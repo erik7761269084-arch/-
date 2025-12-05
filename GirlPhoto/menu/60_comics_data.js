@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 60,
+    "title": "AT鲨 看起来像是s的m",
+    "sourceUrl": "https://telegra.ph/看起来像是s的m-08-25",
+    "images": [
+        "https://telegra.ph/file/7730c740644fd237ed407.jpg",
+        "https://telegra.ph/file/02e16fa9633ca22cf2e6f.jpg",
+        "https://telegra.ph/file/cd8570626c0270467a238.jpg",
+        "https://telegra.ph/file/3f5f083ee6800773aca4f.jpg",
+        "https://telegra.ph/file/13bb2af76ba834db4bb15.jpg",
+        "https://telegra.ph/file/bf71a2f5ab4578286bc48.jpg",
+        "https://telegra.ph/file/4903fc37761af8039851c.jpg",
+        "https://telegra.ph/file/3f056d9d4d7499b167f6e.jpg",
+        "https://telegra.ph/file/1916e79c75c7d6570ceda.jpg",
+        "https://telegra.ph/file/bcd5f8039b4ef979f3a96.jpg",
+        "https://telegra.ph/file/2a8b7aa8940c6769e3706.jpg",
+        "https://telegra.ph/file/eaa5502694a1a4ec71587.jpg",
+        "https://telegra.ph/file/dc04fe029783563a0a9e3.jpg",
+        "https://telegra.ph/file/50ce14b619d4d7488f392.jpg",
+        "https://telegra.ph/file/9810d19768547ffd8451e.jpg",
+        "https://telegra.ph/file/6e48e83aecec903b825d8.jpg",
+        "https://telegra.ph/file/9efbbdf742e53e71526f5.jpg",
+        "https://telegra.ph/file/d919c096b1aa2a93373e1.jpg",
+        "https://telegra.ph/file/7e728a52488808e46c61b.jpg",
+        "https://telegra.ph/file/edd5d0d3dd13684780ded.jpg",
+        "https://telegra.ph/file/5912db1daed88757e8caf.jpg",
+        "https://telegra.ph/file/fed705ab7c37f77cf26a5.jpg",
+        "https://telegra.ph/file/785a1ba116b6e363619cf.jpg",
+        "https://telegra.ph/file/980aa0d60ff781e146c29.jpg",
+        "https://telegra.ph/file/77348160c361c7060a3aa.jpg",
+        "https://telegra.ph/file/a7055d038e796cc55b1e8.jpg",
+        "https://telegra.ph/file/f711e28d2eb2d75070a6a.jpg",
+        "https://telegra.ph/file/8b74fd67dbd7750cdb0a3.jpg",
+        "https://telegra.ph/file/0686a87fffa6d72fad72c.jpg",
+        "https://telegra.ph/file/fe4c68a3b11be75c4a764.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

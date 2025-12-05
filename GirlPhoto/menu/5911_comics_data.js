@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5911,
+    "title": "九曲jean 花园花嫁 [30P-474MB]",
+    "sourceUrl": "https://telegra.ph/九曲jean-花园花嫁-30P-474MB-08-24",
+    "images": [
+        "https://telegra.ph/file/227d94070cf2d43703dae.jpg",
+        "https://telegra.ph/file/285ebd69e97717fb74e39.jpg",
+        "https://telegra.ph/file/90b15b3874805d5eb1a4a.jpg",
+        "https://telegra.ph/file/5cec0dd2a7a721212c68f.jpg",
+        "https://telegra.ph/file/6b1a900fd9395b87426ef.jpg",
+        "https://telegra.ph/file/558d3ef2a626e84dda255.jpg",
+        "https://telegra.ph/file/214b075ee10957ad976a9.jpg",
+        "https://telegra.ph/file/7fefd6bc0e8cac5b338f0.jpg",
+        "https://telegra.ph/file/4de7137c1335edcf7b462.jpg",
+        "https://telegra.ph/file/4a6c61989e6b2cdf87ab8.jpg",
+        "https://telegra.ph/file/bd3653598961fdbf06ee7.jpg",
+        "https://telegra.ph/file/2776b3deeb09480280919.jpg",
+        "https://telegra.ph/file/3756dff5dd8a74c521216.jpg",
+        "https://telegra.ph/file/3c5b9b1693572daab47e2.jpg",
+        "https://telegra.ph/file/1f12b5cbcd412b5a45316.jpg",
+        "https://telegra.ph/file/c70e4560d059eb9b3ff4c.jpg",
+        "https://telegra.ph/file/76d8ade26cc09b56b336d.jpg",
+        "https://telegra.ph/file/86b59d8596afd66a171e4.jpg",
+        "https://telegra.ph/file/b5c5a2fcf88789aa1f1f9.jpg",
+        "https://telegra.ph/file/ae99920f2ff6579ef306f.jpg",
+        "https://telegra.ph/file/e0af23a42c5c398303d14.jpg",
+        "https://telegra.ph/file/780b7f34db13640820e42.jpg",
+        "https://telegra.ph/file/616b1aa47a165cf522302.jpg",
+        "https://telegra.ph/file/1f4c5cc3d9d2e18e62b56.jpg",
+        "https://telegra.ph/file/7e9ada0477fb2a8eb699d.jpg",
+        "https://telegra.ph/file/818050bf1988b45c56088.jpg",
+        "https://telegra.ph/file/dc482e259fedf24a051e2.jpg",
+        "https://telegra.ph/file/b6cef2b6ea976d071465a.jpg",
+        "https://telegra.ph/file/48e39e1077a7f88230e6b.jpg",
+        "https://telegra.ph/file/dd318ab25b6318a2f38b5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

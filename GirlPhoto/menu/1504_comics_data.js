@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1504,
+    "title": "NAGISA魔物喵[fantia] - ピンクのレースのうさぎ",
+    "sourceUrl": "https://telegra.ph/NAGISA魔物喵fantia---ピンクのレースのうさぎ-08-27",
+    "images": [
+        "https://telegra.ph/file/5af43671564b24329fff2.jpg",
+        "https://telegra.ph/file/069de2d3593c99360363e.jpg",
+        "https://telegra.ph/file/8634ae41b0ffa4229fd3e.jpg",
+        "https://telegra.ph/file/1191a543e352b9963db91.jpg",
+        "https://telegra.ph/file/eaa4b825a206ee92c9856.jpg",
+        "https://telegra.ph/file/dcd89084ddd401712f11a.jpg",
+        "https://telegra.ph/file/d460f542e691c65143316.jpg",
+        "https://telegra.ph/file/40bc8193dc23fcc51d043.jpg",
+        "https://telegra.ph/file/ba0a1c62989ff8c60baa1.jpg",
+        "https://telegra.ph/file/0a1bf6a3743642539ff03.jpg",
+        "https://telegra.ph/file/95f92ba71de486ad1462d.jpg",
+        "https://telegra.ph/file/14503fc879d55b20d6297.jpg",
+        "https://telegra.ph/file/8fa3b9cdad55e9c566fcc.jpg",
+        "https://telegra.ph/file/ea80fc37c7f3ec6baa9d5.jpg",
+        "https://telegra.ph/file/f89666fade40fe8e470d9.jpg",
+        "https://telegra.ph/file/63e17f0bdfd2ca442f09d.jpg",
+        "https://telegra.ph/file/8a530112c12f0f12b157c.jpg",
+        "https://telegra.ph/file/07e5d0df5deaa91c2b58d.jpg",
+        "https://telegra.ph/file/6cdb3046f9a5afae1a9e7.jpg",
+        "https://telegra.ph/file/f4362fe662d5b721cf0fe.jpg",
+        "https://telegra.ph/file/4893c36855132f5accfbc.jpg",
+        "https://telegra.ph/file/d83f8576fe09be467ad76.jpg",
+        "https://telegra.ph/file/5807480ad3ea3cb129ee1.jpg",
+        "https://telegra.ph/file/3094d0e9edf6c820f6eab.jpg",
+        "https://telegra.ph/file/f6dd0aa22fead874616e3.jpg",
+        "https://telegra.ph/file/6e9983f02fb7169c9595a.jpg",
+        "https://telegra.ph/file/10d558de577fbac199852.jpg",
+        "https://telegra.ph/file/5bb503b0d97344f182afc.jpg",
+        "https://telegra.ph/file/d776a1cb20c11a96ab826.jpg",
+        "https://telegra.ph/file/6bbed3109202861a6a3c6.jpg",
+        "https://telegra.ph/file/2d9be4eba04e093951ae9.jpg",
+        "https://telegra.ph/file/dc313b0b080ccd518ca2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10013,
+    "title": "桃良阿宅 - NO.002 桃良吊带 [30P-153MB]",
+    "sourceUrl": "https://telegra.ph/桃良阿宅---NO002-桃良吊带-30P-153MB-08-26",
+    "images": [
+        "https://telegra.ph/file/91cdb1b9dcd5347e21588.jpg",
+        "https://telegra.ph/file/e72632f9891d5c991bde1.jpg",
+        "https://telegra.ph/file/95142f8a1998ffe94eb09.jpg",
+        "https://telegra.ph/file/f76f30353ffe8f3a53815.jpg",
+        "https://telegra.ph/file/0d5f948c8ba8f2d5ed565.jpg",
+        "https://telegra.ph/file/54818759eaaaa68c877e1.jpg",
+        "https://telegra.ph/file/f3e84c3cafcbe8c7a24d7.jpg",
+        "https://telegra.ph/file/363b829299a9216b31426.jpg",
+        "https://telegra.ph/file/c0b3c02113d220cc77b61.jpg",
+        "https://telegra.ph/file/79f4f4792188f2521e9b7.jpg",
+        "https://telegra.ph/file/2380750efed79f8e7e85a.jpg",
+        "https://telegra.ph/file/69497acffa660498d2629.jpg",
+        "https://telegra.ph/file/d3205e426d6e4bb579741.jpg",
+        "https://telegra.ph/file/30b0590dfee9c3fe66e1f.jpg",
+        "https://telegra.ph/file/51b2ddcb5db976111f084.jpg",
+        "https://telegra.ph/file/c7814f942a781e48bb01d.jpg",
+        "https://telegra.ph/file/d4f395dc8f610dfada0a2.jpg",
+        "https://telegra.ph/file/e6b3617d019d2fd289436.jpg",
+        "https://telegra.ph/file/80d2656caa00e2247a01a.jpg",
+        "https://telegra.ph/file/2d75885008bb041efa4de.jpg",
+        "https://telegra.ph/file/9dad82b07df258f433b82.jpg",
+        "https://telegra.ph/file/6c8197760831fb2180970.jpg",
+        "https://telegra.ph/file/7ed20e8377b1a5d1f933b.jpg",
+        "https://telegra.ph/file/ab4eb8d51f775c8350e6a.jpg",
+        "https://telegra.ph/file/34768c79bcc84ceba129b.jpg",
+        "https://telegra.ph/file/4137dbc9720bd8f5e45a2.jpg",
+        "https://telegra.ph/file/4af36c70d73f17ecd7f3d.jpg",
+        "https://telegra.ph/file/9bf6d4a7fc0e0800b6033.jpg",
+        "https://telegra.ph/file/e365e453cab69669abcd7.jpg",
+        "https://telegra.ph/file/414cd834f206b7f7c2af9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

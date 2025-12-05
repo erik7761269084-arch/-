@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 3055,
+    "title": "鬼马少女阿薰kaOri - 制服",
+    "sourceUrl": "https://telegra.ph/鬼马少女阿薰kaOri---制服-08-27",
+    "images": [
+        "https://telegra.ph/file/2d83d5f1595c3f294a91e.jpg",
+        "https://telegra.ph/file/ce31c265f12411cba26be.jpg",
+        "https://telegra.ph/file/b6a98f87e00bd9453261d.jpg",
+        "https://telegra.ph/file/cb5572b811d8227a12839.jpg",
+        "https://telegra.ph/file/d9d61bbbdad88b3965992.jpg",
+        "https://telegra.ph/file/9e6db1d507eb694661dc3.jpg",
+        "https://telegra.ph/file/bd54404199e7980dc33ab.jpg",
+        "https://telegra.ph/file/c5e4996d4fdf9415e0224.jpg",
+        "https://telegra.ph/file/1506ad8fd4c40d5766750.jpg",
+        "https://telegra.ph/file/da7820a2cdc48ff9c5417.jpg",
+        "https://telegra.ph/file/45babb83bcb336f5262c5.jpg",
+        "https://telegra.ph/file/666950cb6a1c156953a20.jpg",
+        "https://telegra.ph/file/002d7bf4f19b09e39df48.jpg",
+        "https://telegra.ph/file/17a09e44685f14405e674.jpg",
+        "https://telegra.ph/file/a0268bf6b41918bc65dde.jpg",
+        "https://telegra.ph/file/6bf4592440d07d57eb469.jpg",
+        "https://telegra.ph/file/a2f97fd9a5b8fbde5e2d1.jpg",
+        "https://telegra.ph/file/a87e8bafa515da5b97445.jpg",
+        "https://telegra.ph/file/dc43484779ef2913bb64d.jpg",
+        "https://telegra.ph/file/59414dab4e716a24518ad.jpg",
+        "https://telegra.ph/file/e1915bc4722b83e7e81c1.jpg",
+        "https://telegra.ph/file/1b4f791188c7ca39a2add.jpg",
+        "https://telegra.ph/file/89bf3602c18d1a2f926c3.jpg",
+        "https://telegra.ph/file/0f9f75fddabc99bb954df.jpg",
+        "https://telegra.ph/file/6e7b8c37e1646e58517a7.jpg",
+        "https://telegra.ph/file/26fd7c2633c6553c45774.jpg",
+        "https://telegra.ph/file/c7686d19ec62bdaec1917.jpg",
+        "https://telegra.ph/file/ad38ec30e863403b822a1.jpg",
+        "https://telegra.ph/file/ed504ee13343ae33da8b6.jpg",
+        "https://telegra.ph/file/b2b72570d81f73497712f.jpg",
+        "https://telegra.ph/file/c9e8bd8e1165a6380fd50.jpg",
+        "https://telegra.ph/file/26b5cd28010251b7393f7.jpg",
+        "https://telegra.ph/file/f7326aefade2892792c27.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

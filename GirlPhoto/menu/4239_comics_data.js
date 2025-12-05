@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4239,
+    "title": "抖娘利世 透视蕾丝吊带裙",
+    "sourceUrl": "https://telegra.ph/抖娘利世-透视蕾丝吊带裙-08-29",
+    "images": [
+        "https://telegra.ph/file/f1c0a29654c4e02df827a.jpg",
+        "https://telegra.ph/file/84fb5b9d41ea259f7f4d5.jpg",
+        "https://telegra.ph/file/783b8433422e58057e45a.jpg",
+        "https://telegra.ph/file/51deb6edae6dab07195ff.jpg",
+        "https://telegra.ph/file/4fe1dac373e6dbe932b0e.jpg",
+        "https://telegra.ph/file/e93dcaec3e79d3ab9d57d.jpg",
+        "https://telegra.ph/file/c13d8134906dc7db49ced.jpg",
+        "https://telegra.ph/file/ea61acfc0622c29c38c02.jpg",
+        "https://telegra.ph/file/8e7a113a2897828e940af.jpg",
+        "https://telegra.ph/file/bb6cfc33e7f284a2f2ab7.jpg",
+        "https://telegra.ph/file/81987d3744c28258d5808.jpg",
+        "https://telegra.ph/file/171bf4920f927f6926003.jpg",
+        "https://telegra.ph/file/e7fa6cf7e447917a6ea59.jpg",
+        "https://telegra.ph/file/1437ac7d9b75d94d2a7fc.jpg",
+        "https://telegra.ph/file/01a3e978183ff8073c53d.jpg",
+        "https://telegra.ph/file/55cbef9fe494c3db37b44.jpg",
+        "https://telegra.ph/file/c974ca225831b003c2dba.jpg",
+        "https://telegra.ph/file/adb26758e2405ece7966b.jpg",
+        "https://telegra.ph/file/52afaa8ecfe2de6a11cf9.jpg",
+        "https://telegra.ph/file/23f6324ffb8879bd0d313.jpg",
+        "https://telegra.ph/file/05e88c40cdb136dae8411.jpg",
+        "https://telegra.ph/file/3594e0fb494bfbc885704.jpg",
+        "https://telegra.ph/file/d5a297824fb776f87b747.jpg",
+        "https://telegra.ph/file/d979d1e6fbc1e9ecf0e64.jpg",
+        "https://telegra.ph/file/d0af2c326a5b77ace766d.jpg",
+        "https://telegra.ph/file/bdc617fa0164c57c1db1b.jpg",
+        "https://telegra.ph/file/9c70954cb2e7fe9006c89.jpg",
+        "https://telegra.ph/file/659b47981d4468b1a362b.jpg",
+        "https://telegra.ph/file/ea6551375c09bc77bdac1.jpg",
+        "https://telegra.ph/file/b90f414f57c9f57412032.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

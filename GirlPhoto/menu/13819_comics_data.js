@@ -1,0 +1,38 @@
+const comicData = {
+    "IDcode": 13819,
+    "title": "周叽是可爱的兔兔-树城兔女郎 [28p-426m]",
+    "sourceUrl": "https://telegra.ph/周叽是可爱的兔兔-树城兔女郎-28p-426m-08-26",
+    "images": [
+        "https://telegra.ph/file/a63e8cd5ae41dc609ab09.jpg",
+        "https://telegra.ph/file/1417d779f2ef719c1d6c7.jpg",
+        "https://telegra.ph/file/60a804760dc7ae9fa6859.jpg",
+        "https://telegra.ph/file/fabd385327f416d9ef4af.jpg",
+        "https://telegra.ph/file/735b4f805cf4f29470c70.jpg",
+        "https://telegra.ph/file/1ff757a68dffc090f9f8e.jpg",
+        "https://telegra.ph/file/77242fc1e48973331dd5d.jpg",
+        "https://telegra.ph/file/52f57a83d6544bf028b63.jpg",
+        "https://telegra.ph/file/65b12879cfd0b61275737.jpg",
+        "https://telegra.ph/file/75bd2e44bc811e84c848f.jpg",
+        "https://telegra.ph/file/5b20ae1029c3f825b2c01.jpg",
+        "https://telegra.ph/file/ca2f4ee983d0871c952cc.jpg",
+        "https://telegra.ph/file/212eeae48952558171016.jpg",
+        "https://telegra.ph/file/49052b25f54591c7756ed.jpg",
+        "https://telegra.ph/file/61538f8612551fc88e303.jpg",
+        "https://telegra.ph/file/f3ba9a902ae2c613570f6.jpg",
+        "https://telegra.ph/file/77361b7a38a949ba26a31.jpg",
+        "https://telegra.ph/file/8643c8540370a9f12569a.jpg",
+        "https://telegra.ph/file/33777b3ec4d45c1b255a2.jpg",
+        "https://telegra.ph/file/50fa26cd18ed08f3439dd.jpg",
+        "https://telegra.ph/file/cefdc36a4e095d25778f1.jpg",
+        "https://telegra.ph/file/b493411ec9052f143c4e5.jpg",
+        "https://telegra.ph/file/71deb2e7568f748fe3f48.jpg",
+        "https://telegra.ph/file/fbca5e248af063aeb0a19.jpg",
+        "https://telegra.ph/file/3d2facc17c2a3f7c625e9.jpg",
+        "https://telegra.ph/file/2533fa49549e4e4c736e4.jpg",
+        "https://telegra.ph/file/cd22b283d9d9fa28abd6b.jpg",
+        "https://telegra.ph/file/3a0bc0fc85d02e56cb1ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

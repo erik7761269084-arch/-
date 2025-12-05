@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3748,
+    "title": "沖田凜花Rinka - Noelle Lingerie",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---Noelle-Lingerie-08-27",
+    "images": [
+        "https://telegra.ph/file/c138b6bcc912156ccf115.jpg",
+        "https://telegra.ph/file/44b3e811832c94a33bbe3.jpg",
+        "https://telegra.ph/file/74f81b972307ebcb6c728.jpg",
+        "https://telegra.ph/file/e357cbc0de6973c8197e0.jpg",
+        "https://telegra.ph/file/04a6a825c40cc4cfaa8bd.jpg",
+        "https://telegra.ph/file/83c1ccbe2c9fd59bcf9bd.jpg",
+        "https://telegra.ph/file/16804b1e1e643493cd4b7.jpg",
+        "https://telegra.ph/file/f7008c72aaca7b3a9fa99.jpg",
+        "https://telegra.ph/file/16a316eb6c28ee1f2b785.jpg",
+        "https://telegra.ph/file/9107e67b798695b5ff541.jpg",
+        "https://telegra.ph/file/4d45bef891f62f691e5c1.jpg",
+        "https://telegra.ph/file/64fb4b6f1ac3e05736050.jpg",
+        "https://telegra.ph/file/991fb31b6bceab6001210.jpg",
+        "https://telegra.ph/file/05323a445825cf4f59505.jpg",
+        "https://telegra.ph/file/6ce85916fafc37aa8b62d.jpg",
+        "https://telegra.ph/file/2f32abc39eb3d7a9b13cd.jpg",
+        "https://telegra.ph/file/7f3bddb8ac866ac87fad0.jpg",
+        "https://telegra.ph/file/a40bbab3bb1f2af12d9f4.jpg",
+        "https://telegra.ph/file/5eb325967ca52e1d846fe.jpg",
+        "https://telegra.ph/file/f4a65931ce8902e98f225.jpg",
+        "https://telegra.ph/file/371e596becef274030b55.jpg",
+        "https://telegra.ph/file/28878c73fa805885cdd14.jpg",
+        "https://telegra.ph/file/efe5c216e545443c753e0.jpg",
+        "https://telegra.ph/file/36000f0fd8132342e2727.jpg",
+        "https://telegra.ph/file/653b5f7ba5d3b89edc524.jpg",
+        "https://telegra.ph/file/cb88b0e9faea594add8a7.jpg",
+        "https://telegra.ph/file/11d2113bf57d2da94ef50.jpg",
+        "https://telegra.ph/file/ec9ff0920954a7416cc7e.jpg",
+        "https://telegra.ph/file/0db470918c599ce9c1b89.jpg",
+        "https://telegra.ph/file/5df0839d52f0359e367b2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20662,
+    "title": "三无皮卡喵 - 初音酱",
+    "sourceUrl": "https://telegra.ph/三无皮卡喵---初音酱-08-29",
+    "images": [
+        "https://telegra.ph/file/22b70ce36810ce1f81a5b.jpg",
+        "https://telegra.ph/file/99e4ebc3b1ef4ded75c36.jpg",
+        "https://telegra.ph/file/e87fddd5157867a97afa9.jpg",
+        "https://telegra.ph/file/2ae7e3a83b7ba9ed914b7.jpg",
+        "https://telegra.ph/file/be221ad3d379c1589a9c2.jpg",
+        "https://telegra.ph/file/f91be1f802604f7096399.jpg",
+        "https://telegra.ph/file/96df23035428c6d9480ce.jpg",
+        "https://telegra.ph/file/2e441ec6ce38ed389851e.jpg",
+        "https://telegra.ph/file/11624017a1f06a598b811.jpg",
+        "https://telegra.ph/file/4eb10986cfe842f9708bc.jpg",
+        "https://telegra.ph/file/c3a0961bf182fbbd6158f.jpg",
+        "https://telegra.ph/file/e7b7e48570302e0061e49.jpg",
+        "https://telegra.ph/file/e6df491a40542b27fa339.jpg",
+        "https://telegra.ph/file/ad5b38b49c7ce01521c08.jpg",
+        "https://telegra.ph/file/6c277a890f831bfad6184.jpg",
+        "https://telegra.ph/file/6c41b56b499e30b01d60d.jpg",
+        "https://telegra.ph/file/5822317cebb2f8fd1af04.jpg",
+        "https://telegra.ph/file/14dd5c01cabce5264de73.jpg",
+        "https://telegra.ph/file/92d8848c7fe48a2c84b7a.jpg",
+        "https://telegra.ph/file/ead5136053f7f23b192c4.jpg",
+        "https://telegra.ph/file/4724569d5d6fa00afef4c.jpg",
+        "https://telegra.ph/file/fa04ddbfdc93b35c96fa2.jpg",
+        "https://telegra.ph/file/0c346bf3fa9e56b43977d.jpg",
+        "https://telegra.ph/file/f90597159b73adc30ab08.jpg",
+        "https://telegra.ph/file/f32212b8ea5713bd244fd.jpg",
+        "https://telegra.ph/file/55df0004e42a89a8064c6.jpg",
+        "https://telegra.ph/file/051e800d04ed69bdbe2e9.jpg",
+        "https://telegra.ph/file/adb663c97e4b73829c0c2.jpg",
+        "https://telegra.ph/file/e061bb280d51608ce0cc8.jpg",
+        "https://telegra.ph/file/84f6e603a9ec7d9f019f4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

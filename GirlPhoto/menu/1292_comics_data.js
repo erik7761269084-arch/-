@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1292,
+    "title": "KuukoW - Tifa",
+    "sourceUrl": "https://telegra.ph/KuukoW---Tifa-08-29",
+    "images": [
+        "https://telegra.ph/file/25674995376d42d8d9508.jpg",
+        "https://telegra.ph/file/b3e8a3dc0436f3e696770.jpg",
+        "https://telegra.ph/file/073b3a1a5588412796ccf.jpg",
+        "https://telegra.ph/file/95cd605153fa1cae33428.jpg",
+        "https://telegra.ph/file/d15301dc355d839a42968.jpg",
+        "https://telegra.ph/file/b106eaa6a5c3be6ef9d37.jpg",
+        "https://telegra.ph/file/f6b6af37cc03d2b0b4a52.jpg",
+        "https://telegra.ph/file/487ab9866df8951222e63.jpg",
+        "https://telegra.ph/file/2d62f3e7d943ceef31452.jpg",
+        "https://telegra.ph/file/041a0bd4723b59499d928.jpg",
+        "https://telegra.ph/file/9591a0c7dff5ccec2ef2a.jpg",
+        "https://telegra.ph/file/5f0a1aab57fc5eb560d9f.jpg",
+        "https://telegra.ph/file/97612dd5b67836233e46b.jpg",
+        "https://telegra.ph/file/0b9114dbf3f2b5b08e5d2.jpg",
+        "https://telegra.ph/file/981ba0f5c6b131a954856.jpg",
+        "https://telegra.ph/file/bb12133ec502a8b2f59d5.jpg",
+        "https://telegra.ph/file/c1ef5f1d609e41eea018d.jpg",
+        "https://telegra.ph/file/e0c96a0e5d9e9adeeec34.jpg",
+        "https://telegra.ph/file/8ed21b813a7db9b814e3a.jpg",
+        "https://telegra.ph/file/718f12589e8604607c506.jpg",
+        "https://telegra.ph/file/7550df9e6c96a7229a918.jpg",
+        "https://telegra.ph/file/51498aaaa896dd0096011.jpg",
+        "https://telegra.ph/file/f43b951581caf6ef35abe.jpg",
+        "https://telegra.ph/file/4566ae97520123ded564a.jpg",
+        "https://telegra.ph/file/ee5e9628b3da0bfc710a2.jpg",
+        "https://telegra.ph/file/c4f001ba135feb85c2b04.jpg",
+        "https://telegra.ph/file/b805cca003878a1f72bcb.jpg",
+        "https://telegra.ph/file/cf72b56182ef0b411ed3e.jpg",
+        "https://telegra.ph/file/3ab8b21f5d81f5ddce05e.jpg",
+        "https://telegra.ph/file/b99144d0f58b598ba16f6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

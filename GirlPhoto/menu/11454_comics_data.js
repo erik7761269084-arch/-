@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11454,
+    "title": "星之迟迟 - R-Maid《赫敏》",
+    "sourceUrl": "https://telegra.ph/星之迟迟---R-Maid赫敏-08-27",
+    "images": [
+        "https://telegra.ph/file/6273d3019da33ed794c47.jpg",
+        "https://telegra.ph/file/7d10e3649fe3857311ffe.jpg",
+        "https://telegra.ph/file/f4288da600dec5fdb370c.jpg",
+        "https://telegra.ph/file/a84dd79d3cc1cdfbcdcb1.jpg",
+        "https://telegra.ph/file/742550784be00291c18c0.jpg",
+        "https://telegra.ph/file/a21b4a28fe3171e78bdcb.jpg",
+        "https://telegra.ph/file/691d63654f46b21607873.jpg",
+        "https://telegra.ph/file/fb6d42ca6c3096401bc79.jpg",
+        "https://telegra.ph/file/34b18dc236071e02bb69a.jpg",
+        "https://telegra.ph/file/982c3c8795f7d027dc456.jpg",
+        "https://telegra.ph/file/cded7cf8701d49f57af9b.jpg",
+        "https://telegra.ph/file/0dc27e14502dfcd0f7ae5.jpg",
+        "https://telegra.ph/file/848a5d9f9b7f969165a83.jpg",
+        "https://telegra.ph/file/d4306f004d13aa020943a.jpg",
+        "https://telegra.ph/file/a002005ae8b083b7af858.jpg",
+        "https://telegra.ph/file/030949af0054149109848.jpg",
+        "https://telegra.ph/file/cdd33d38e9595962a68c3.jpg",
+        "https://telegra.ph/file/342d9cee8855c3b23d935.jpg",
+        "https://telegra.ph/file/0e05a29f2903dffcf2008.jpg",
+        "https://telegra.ph/file/13004db8d4c6166deab25.jpg",
+        "https://telegra.ph/file/bd3adc5dcc94bd870eb19.jpg",
+        "https://telegra.ph/file/2483a9804768d2c78c0dd.jpg",
+        "https://telegra.ph/file/93724f50b7117d6c977bd.jpg",
+        "https://telegra.ph/file/5df4b33e197d5f39c38f1.jpg",
+        "https://telegra.ph/file/a08ae7ccf923c5be6effb.jpg",
+        "https://telegra.ph/file/bf55f8bdc1f3cd36f7b1c.jpg",
+        "https://telegra.ph/file/4175164c427f9686ff626.jpg",
+        "https://telegra.ph/file/6828954a4532decc1ef60.jpg",
+        "https://telegra.ph/file/cc1842011cb9301f84161.jpg",
+        "https://telegra.ph/file/478ec70883677f4e7ea10.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 9697,
+    "title": "水淼 - 申鹤自拍 - 原创同人(原神)",
+    "sourceUrl": "https://telegra.ph/水淼---申鹤自拍---原创同人-08-26",
+    "images": [
+        "https://telegra.ph/file/938290a6cc9def66edde1.jpg",
+        "https://telegra.ph/file/8b3a632d08a1cf88ec3cc.jpg",
+        "https://telegra.ph/file/64c41c9ebde34b0991e1b.jpg",
+        "https://telegra.ph/file/ac2b2ceea4d1b60681f50.jpg",
+        "https://telegra.ph/file/a07c7d14905bfc9e92f1e.jpg",
+        "https://telegra.ph/file/b67528b5a072999b8af9d.jpg",
+        "https://telegra.ph/file/6dd8c4d7936dfacdee740.jpg",
+        "https://telegra.ph/file/0fba9239b58a9d8e2af03.jpg",
+        "https://telegra.ph/file/d0a886020747d8b0f0044.jpg",
+        "https://telegra.ph/file/bd6df452cf6e6ad1ae813.jpg",
+        "https://telegra.ph/file/22a7e6619655ef4b9f478.jpg",
+        "https://telegra.ph/file/b23f6da2162392cf1f817.jpg",
+        "https://telegra.ph/file/e34d354179720bf83892d.jpg",
+        "https://telegra.ph/file/9c655080bb714b95c25ce.jpg",
+        "https://telegra.ph/file/b144df5a344c7e0284ca7.jpg",
+        "https://telegra.ph/file/890d607fad035a237cdc3.jpg",
+        "https://telegra.ph/file/7b889073bd23d6cc2f5ef.jpg",
+        "https://telegra.ph/file/b1749d8d19f3a20ea4e23.jpg",
+        "https://telegra.ph/file/c28d80dbea201f1e49641.jpg",
+        "https://telegra.ph/file/76ec569bf352ff366a781.jpg",
+        "https://telegra.ph/file/4d89a5f345398461b59c3.jpg",
+        "https://telegra.ph/file/397407f1f3c92eb41ba4f.jpg",
+        "https://telegra.ph/file/e6526359278c858acd4d5.jpg",
+        "https://telegra.ph/file/580fc777471b8315595d8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

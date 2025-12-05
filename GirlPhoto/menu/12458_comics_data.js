@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12458,
+    "title": "紧急企划 一只喵喵梓 – 内部作品15",
+    "sourceUrl": "https://telegra.ph/紧急企划-一只喵喵梓--内部作品15-08-29-2",
+    "images": [
+        "https://telegra.ph/file/cac4e548c59462758a541.jpg",
+        "https://telegra.ph/file/43f5ad82a4b8333d283ae.jpg",
+        "https://telegra.ph/file/c0c1ac4f05fdf8ec97821.jpg",
+        "https://telegra.ph/file/49ed3cd78e0778b7ef000.jpg",
+        "https://telegra.ph/file/5ac1c9e5ba602e2791426.jpg",
+        "https://telegra.ph/file/ff44dac9bc7a3502bc949.jpg",
+        "https://telegra.ph/file/ad665ea3e42f5d3edd88e.jpg",
+        "https://telegra.ph/file/127d3cec0d0b2c5a9ff6b.jpg",
+        "https://telegra.ph/file/679094a35786d2eb660cb.jpg",
+        "https://telegra.ph/file/29fc9b6900d25b6ee8ade.jpg",
+        "https://telegra.ph/file/f10cf71a945b4a5c26840.jpg",
+        "https://telegra.ph/file/87303379bda9d529fbf04.jpg",
+        "https://telegra.ph/file/1ff55995fadad7ee252dc.jpg",
+        "https://telegra.ph/file/3fed5cd30822d26d81bfd.jpg",
+        "https://telegra.ph/file/586b7b29be3ff893ad1e5.jpg",
+        "https://telegra.ph/file/e2742ff25e8fd0f95eb50.jpg",
+        "https://telegra.ph/file/b99592d6f0d91ad63ade6.jpg",
+        "https://telegra.ph/file/824d299b2cb4791a37de2.jpg",
+        "https://telegra.ph/file/37c5df72a091bed907cfe.jpg",
+        "https://telegra.ph/file/20fee631aabf66c16b2be.jpg",
+        "https://telegra.ph/file/fcd65e65a888abac02099.jpg",
+        "https://telegra.ph/file/164b36ab70971c9e12ff2.jpg",
+        "https://telegra.ph/file/e572994da4895ca241fc3.jpg",
+        "https://telegra.ph/file/bd06cadbc77877a783fed.jpg",
+        "https://telegra.ph/file/34032a1e77c4bc49b6bee.jpg",
+        "https://telegra.ph/file/3d36736f84d86bc406889.jpg",
+        "https://telegra.ph/file/5a7dbe1e45da9e5d0e4ef.jpg",
+        "https://telegra.ph/file/cf8cc9c3a1cdca6585b1d.jpg",
+        "https://telegra.ph/file/a36fd0438a605c441ee17.jpg",
+        "https://telegra.ph/file/7f9fda2c17c528da816e3.jpg",
+        "https://telegra.ph/file/002b106dd56b91e052303.jpg",
+        "https://telegra.ph/file/259307ada8ff14c20af9f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

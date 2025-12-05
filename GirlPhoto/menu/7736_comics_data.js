@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7736,
+    "title": "萌妹奈汐酱nice - 老板娘 4.0",
+    "sourceUrl": "https://telegra.ph/萌妹奈汐酱nice---老板娘-40-08-27",
+    "images": [
+        "https://telegra.ph/file/54398999ff91d735cb929.jpg",
+        "https://telegra.ph/file/64a7f174350b3be798179.jpg",
+        "https://telegra.ph/file/f256c0d6327c44d0be356.jpg",
+        "https://telegra.ph/file/4a29f726ab3d90da52a74.jpg",
+        "https://telegra.ph/file/44df46b56c687c24bb1e1.jpg",
+        "https://telegra.ph/file/f1bede7579ca59d765df6.jpg",
+        "https://telegra.ph/file/aad2bc01d78e4c3287758.jpg",
+        "https://telegra.ph/file/b52ec4d332ffe88195cec.jpg",
+        "https://telegra.ph/file/5195722854286f4d36e74.jpg",
+        "https://telegra.ph/file/a8782a52da99aea38ea7e.jpg",
+        "https://telegra.ph/file/60a21b9d23f217ecb27a6.jpg",
+        "https://telegra.ph/file/fc95144c7ed01663e4043.jpg",
+        "https://telegra.ph/file/7f44b1c6d84aa2c5a29c9.jpg",
+        "https://telegra.ph/file/fa03f096b9da8c0322af1.jpg",
+        "https://telegra.ph/file/427fe454bfc21e816f543.jpg",
+        "https://telegra.ph/file/68e557d1be5003c068544.jpg",
+        "https://telegra.ph/file/666dc12b69f633f76e332.jpg",
+        "https://telegra.ph/file/510ada9c9bb16453bd268.jpg",
+        "https://telegra.ph/file/1c1ab401bf2d29f096a96.jpg",
+        "https://telegra.ph/file/5bc005c97956b963110cd.jpg",
+        "https://telegra.ph/file/c77bee8853711d151f084.jpg",
+        "https://telegra.ph/file/8c2fde46fe783bbc183cc.jpg",
+        "https://telegra.ph/file/61ae9252e88a0c67ddab5.jpg",
+        "https://telegra.ph/file/71a6350d9c8c23de6b5a8.jpg",
+        "https://telegra.ph/file/93edd647b030a5839fa76.jpg",
+        "https://telegra.ph/file/9e920a4a46b69b749cd44.jpg",
+        "https://telegra.ph/file/564167ab611990c8ce7ef.jpg",
+        "https://telegra.ph/file/1aa37dac5932f562374e7.jpg",
+        "https://telegra.ph/file/2be69bf565b4c0265b06f.jpg",
+        "https://telegra.ph/file/8d02f0a28befe523c35fd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

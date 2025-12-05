@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11291,
+    "title": "星之迟迟 11月计划A本杀戮都市 下平玲花 （11月26打赏群资源）",
+    "sourceUrl": "https://telegra.ph/星之迟迟-11月计划A本杀戮都市-下平玲花11月26打赏群资源-08-25",
+    "images": [
+        "https://telegra.ph/file/14f4f06eafc7e9768b42f.png",
+        "https://telegra.ph/file/d35b48543796dc3aee1a9.jpg",
+        "https://telegra.ph/file/7924373efec4f9513ed71.jpg",
+        "https://telegra.ph/file/28bd0f05ac281eeb7895f.jpg",
+        "https://telegra.ph/file/332e6c5a6a4b237801f3d.jpg",
+        "https://telegra.ph/file/6106ac72ec43ddf291cf3.jpg",
+        "https://telegra.ph/file/cbb4997b53fd88b3e5d61.jpg",
+        "https://telegra.ph/file/c4fdfb8412dbe69280e74.jpg",
+        "https://telegra.ph/file/498d000ffec0298207b38.jpg",
+        "https://telegra.ph/file/bf72da6f361eb18b2454c.jpg",
+        "https://telegra.ph/file/542de35a9067a6ef97195.jpg",
+        "https://telegra.ph/file/b98c3317f2ebdb62ad97a.jpg",
+        "https://telegra.ph/file/9c1cf1682ccebc5551cdb.jpg",
+        "https://telegra.ph/file/670cc1319f31ac67f09f1.jpg",
+        "https://telegra.ph/file/e44e5144a40ef65ebd464.jpg",
+        "https://telegra.ph/file/e44cf5d9b30a135fbbb08.jpg",
+        "https://telegra.ph/file/6960312c2bb5a155c6fbb.jpg",
+        "https://telegra.ph/file/58d0298fabbc02887f50d.jpg",
+        "https://telegra.ph/file/55fba165f2444f2d7c94b.jpg",
+        "https://telegra.ph/file/15a7ba168b943b6bfb2e5.jpg",
+        "https://telegra.ph/file/e9a4caa11f0d85343aec8.jpg",
+        "https://telegra.ph/file/e570eee4e6c3749fa4580.jpg",
+        "https://telegra.ph/file/35eca376f9f3a3a05ef79.jpg",
+        "https://telegra.ph/file/99f836bc571c741a0691d.jpg",
+        "https://telegra.ph/file/436f13dfbe4225fa4ec71.jpg",
+        "https://telegra.ph/file/58fb5d17aa582042ca7de.jpg",
+        "https://telegra.ph/file/499e968bcdcb01947c6ba.jpg",
+        "https://telegra.ph/file/316919aa58e6af7d8e700.jpg",
+        "https://telegra.ph/file/a0ef4c5d567b1ae713174.jpg",
+        "https://telegra.ph/file/e63fead49dc36d5c0d1b3.jpg",
+        "https://telegra.ph/file/53e1221a6cc92401fcefb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

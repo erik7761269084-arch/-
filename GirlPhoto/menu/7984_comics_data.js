@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7984,
+    "title": "念雪ww - NO.07 粉色系套装 [30P-240MB]",
+    "sourceUrl": "https://telegra.ph/念雪ww---NO07-粉色系套装-30P-240MB-08-26",
+    "images": [
+        "https://telegra.ph/file/0d1f5c8306c0350a1bb01.jpg",
+        "https://telegra.ph/file/4986463cf3557078208ce.jpg",
+        "https://telegra.ph/file/0ee336c26e2ece7cec4df.jpg",
+        "https://telegra.ph/file/6b46e45457b3f383eec5c.jpg",
+        "https://telegra.ph/file/d4b21064f7e145f39f9de.jpg",
+        "https://telegra.ph/file/81d01db63be7cceb7c6c0.jpg",
+        "https://telegra.ph/file/334bda180a648244bafde.jpg",
+        "https://telegra.ph/file/c7800df665a9a7c6beec2.jpg",
+        "https://telegra.ph/file/139cf42b5947d0559981b.jpg",
+        "https://telegra.ph/file/bcbfcdde9589429528c16.jpg",
+        "https://telegra.ph/file/fc2bed1db3fb176b483e2.jpg",
+        "https://telegra.ph/file/5be0c515997bbbfe89df0.jpg",
+        "https://telegra.ph/file/d387db2078048c6740d57.jpg",
+        "https://telegra.ph/file/c2e321346cce6cf022cfd.jpg",
+        "https://telegra.ph/file/459ca6b8483b0f540f40e.jpg",
+        "https://telegra.ph/file/9fdb423d5c083b093ca15.jpg",
+        "https://telegra.ph/file/a1d780e9a999a7178e900.jpg",
+        "https://telegra.ph/file/7c18c3f08433b2e595050.jpg",
+        "https://telegra.ph/file/60b58f8bf21bf565a8b51.jpg",
+        "https://telegra.ph/file/138fa4746c97e1ce5da28.jpg",
+        "https://telegra.ph/file/a3c845fc92a477da57da8.jpg",
+        "https://telegra.ph/file/9cedc99ffd299f344ce04.jpg",
+        "https://telegra.ph/file/c330bb924c79db285cc9a.jpg",
+        "https://telegra.ph/file/d4e1c67603eb88b59438c.jpg",
+        "https://telegra.ph/file/436e6eeb52cafd7307804.jpg",
+        "https://telegra.ph/file/b033076d93d907ddaaf20.jpg",
+        "https://telegra.ph/file/866aa42f6108ead64e060.jpg",
+        "https://telegra.ph/file/1c3b92247f195c417a3ee.jpg",
+        "https://telegra.ph/file/78376909a0f0dbd936f34.jpg",
+        "https://telegra.ph/file/25e5763a655e576203074.jpg",
+        "https://telegra.ph/file/9b561bd199ccdd0852b00.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

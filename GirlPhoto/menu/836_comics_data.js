@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 836,
+    "title": "G44不会受伤 play room 31P",
+    "sourceUrl": "https://telegra.ph/G44不会受伤-play-room-31P-08-26",
+    "images": [
+        "https://telegra.ph/file/57a2b6dfa33f274e0d5dd.jpg",
+        "https://telegra.ph/file/cb8eed61d0f3741a33fd9.jpg",
+        "https://telegra.ph/file/b0e5327af529afac41619.jpg",
+        "https://telegra.ph/file/a055b4ffd048192bf13ee.jpg",
+        "https://telegra.ph/file/a9918ca6b2b2ba982aa41.jpg",
+        "https://telegra.ph/file/87103a957df7bc826ee95.jpg",
+        "https://telegra.ph/file/c545841c6c278b231a1f1.jpg",
+        "https://telegra.ph/file/d946288e6c9669dff870a.jpg",
+        "https://telegra.ph/file/3fbfc0e36b236a03fb950.jpg",
+        "https://telegra.ph/file/f36d8a1c372e0969d5ee5.jpg",
+        "https://telegra.ph/file/85cf60b02134deecb9aca.jpg",
+        "https://telegra.ph/file/1a7869b3bd3c7bc7e5ffb.jpg",
+        "https://telegra.ph/file/30ec5394394efdebb4826.jpg",
+        "https://telegra.ph/file/d7b7e8738aed25a875d9f.jpg",
+        "https://telegra.ph/file/04a8460bd01864fac7e26.jpg",
+        "https://telegra.ph/file/6888d0b0ae4509a78cff2.jpg",
+        "https://telegra.ph/file/8240ec5103045df6970bf.jpg",
+        "https://telegra.ph/file/3ad18ded8943df9b6d1bb.jpg",
+        "https://telegra.ph/file/2ddbc93af7b04f0b37d72.jpg",
+        "https://telegra.ph/file/12072d3750c5234b4dd3d.jpg",
+        "https://telegra.ph/file/360d7fbbb922975a90ae9.jpg",
+        "https://telegra.ph/file/b52f1921d525052520c3b.jpg",
+        "https://telegra.ph/file/e2feb4298307d73a148fe.jpg",
+        "https://telegra.ph/file/041be4c47303f49d2a58a.jpg",
+        "https://telegra.ph/file/fe5a8d7c66f4209eba054.jpg",
+        "https://telegra.ph/file/626f001f9dbd44117fa8d.jpg",
+        "https://telegra.ph/file/88bc022f1bcbf572ae70b.jpg",
+        "https://telegra.ph/file/ee30d065ea078218f8ce8.jpg",
+        "https://telegra.ph/file/1044a0997d9742baddfff.jpg",
+        "https://telegra.ph/file/c8d8499c8f0f05690fa14.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20655,
+    "title": "梓未Leah - 万圣节修女",
+    "sourceUrl": "https://telegra.ph/梓未Leah---万圣节修女-08-29",
+    "images": [
+        "https://telegra.ph/file/cfda7dc13b9310b7c245c.jpg",
+        "https://telegra.ph/file/67e8bec3318da296e3fe5.jpg",
+        "https://telegra.ph/file/b6e815d82a5007453708e.jpg",
+        "https://telegra.ph/file/daf2143ebfb4f6f095ac0.jpg",
+        "https://telegra.ph/file/935b98e4f663c85087b37.jpg",
+        "https://telegra.ph/file/d72aeeb04aab08d37d6fb.jpg",
+        "https://telegra.ph/file/faae0676dc2a983700011.jpg",
+        "https://telegra.ph/file/fb6d385998ccdf92b19e8.jpg",
+        "https://telegra.ph/file/47829190275a9da91b448.jpg",
+        "https://telegra.ph/file/f479e2f083dc12253ff07.jpg",
+        "https://telegra.ph/file/a21354c501bf613820ff2.jpg",
+        "https://telegra.ph/file/8d0eb3002d0220ba663b9.jpg",
+        "https://telegra.ph/file/c940b741c80ceff3b857e.jpg",
+        "https://telegra.ph/file/71e76b5d56f9f8757b0aa.jpg",
+        "https://telegra.ph/file/258e776273123563ff00f.jpg",
+        "https://telegra.ph/file/0d3e25f5c9089902a3e61.jpg",
+        "https://telegra.ph/file/ca50b7a291cba28af4144.jpg",
+        "https://telegra.ph/file/4118a8dea548f9707e682.jpg",
+        "https://telegra.ph/file/3b7133cc717a3d2ec0304.jpg",
+        "https://telegra.ph/file/3af93ab465634f940d637.jpg",
+        "https://telegra.ph/file/4ddb3c5ff471e35a0ecf2.jpg",
+        "https://telegra.ph/file/19a8a9b5c4860c462dee5.jpg",
+        "https://telegra.ph/file/4f8f17dc93e7ce1a1b476.jpg",
+        "https://telegra.ph/file/57ac0a12135e893a717ff.jpg",
+        "https://telegra.ph/file/571730599be61152ce762.jpg",
+        "https://telegra.ph/file/d775a304f0f23228518c0.jpg",
+        "https://telegra.ph/file/13843abb62deb57a68124.jpg",
+        "https://telegra.ph/file/6505a933f4e0b46ccfcd6.jpg",
+        "https://telegra.ph/file/f2f882f88a66579efaf97.jpg",
+        "https://telegra.ph/file/19dc6344e0838e2c8db9e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

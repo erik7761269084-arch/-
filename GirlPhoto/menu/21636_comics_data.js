@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21636,
+    "title": "XIUREN NO.8473 小逗逗",
+    "sourceUrl": "https://telegra.ph/XIUREN-NO8473-小逗逗-08-29",
+    "images": [
+        "https://telegra.ph/file/8b1b91afc4543c32b85ef.jpg",
+        "https://telegra.ph/file/6163014b09948810d9510.jpg",
+        "https://telegra.ph/file/42a53ab757cac40760cde.jpg",
+        "https://telegra.ph/file/363d2a5089b0f33b54a70.jpg",
+        "https://telegra.ph/file/92302b9cbfd1d87653e71.jpg",
+        "https://telegra.ph/file/bdec39785ff83c0a57548.jpg",
+        "https://telegra.ph/file/d58af8024228a9a308fde.jpg",
+        "https://telegra.ph/file/db3061b321aad2c8e94e6.jpg",
+        "https://telegra.ph/file/45231beea383a988ac691.jpg",
+        "https://telegra.ph/file/adf820f868912b993cc4e.jpg",
+        "https://telegra.ph/file/e49b1af6a7dde8140108a.jpg",
+        "https://telegra.ph/file/621281968fe95a92f0be4.jpg",
+        "https://telegra.ph/file/b5e8e6d1786977db3b8d4.jpg",
+        "https://telegra.ph/file/7c095375fb45e1ceda5dc.jpg",
+        "https://telegra.ph/file/67531fd3eff21dbcbbdda.jpg",
+        "https://telegra.ph/file/68169b7adabd46c1f1362.jpg",
+        "https://telegra.ph/file/a5ea9991d7e5d9fbdacf3.jpg",
+        "https://telegra.ph/file/c38d9aec13767634b1f65.jpg",
+        "https://telegra.ph/file/1c12af517cc05ea58e660.jpg",
+        "https://telegra.ph/file/319ef99674e0974bc806d.jpg",
+        "https://telegra.ph/file/fcd9a197066efd543324e.jpg",
+        "https://telegra.ph/file/c9b2643d6aa4b502f49da.jpg",
+        "https://telegra.ph/file/5e8ae489ff062080635c0.jpg",
+        "https://telegra.ph/file/be9e0843aa98633847888.jpg",
+        "https://telegra.ph/file/10812a886c05a8190af3c.jpg",
+        "https://telegra.ph/file/8ac5609848e8a669d65bf.jpg",
+        "https://telegra.ph/file/0fa23f8b86137cabced85.jpg",
+        "https://telegra.ph/file/0bc390439b442817c8115.jpg",
+        "https://telegra.ph/file/e25e00ea760193f56846a.jpg",
+        "https://telegra.ph/file/9580d1b45d64c9dfb1600.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

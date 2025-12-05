@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 688,
+    "title": "eloise软软 - 三点与黑丝",
+    "sourceUrl": "https://telegra.ph/eloise软软---三点与黑丝-08-26",
+    "images": [
+        "https://telegra.ph/file/ee8e65cdc7db08f1a659c.jpg",
+        "https://telegra.ph/file/86fa1e0a5958a87950fa9.jpg",
+        "https://telegra.ph/file/43b1f536e4e35117e0e29.jpg",
+        "https://telegra.ph/file/9506d1f4c1e0b7df4a355.jpg",
+        "https://telegra.ph/file/c99621dcfc69373860d2b.jpg",
+        "https://telegra.ph/file/be974b2f5a4121b799f67.jpg",
+        "https://telegra.ph/file/6d97c7ad152a2fb2b518c.jpg",
+        "https://telegra.ph/file/1a5bcf43694d81a544848.jpg",
+        "https://telegra.ph/file/b318fe97996f222bbc901.jpg",
+        "https://telegra.ph/file/2ca36c755512e2e033a73.jpg",
+        "https://telegra.ph/file/16bdd1dd8154c9ef08557.jpg",
+        "https://telegra.ph/file/95c4ee3ee9c04dfee7b79.jpg",
+        "https://telegra.ph/file/dd58723c9d3032247ec27.jpg",
+        "https://telegra.ph/file/b678224505ab5f95f5a68.jpg",
+        "https://telegra.ph/file/3581ef2214f1a195e5be8.jpg",
+        "https://telegra.ph/file/93cabe3606d7a161f48ed.jpg",
+        "https://telegra.ph/file/502e9de33d6935b816bbb.jpg",
+        "https://telegra.ph/file/08d3499609ee9c1a751bf.jpg",
+        "https://telegra.ph/file/9aff5154437b4c73e5ece.jpg",
+        "https://telegra.ph/file/e38f67798bd120269a03b.jpg",
+        "https://telegra.ph/file/f96361ec9614bd8fa7b77.jpg",
+        "https://telegra.ph/file/06874ae3b3c308f96bb5e.jpg",
+        "https://telegra.ph/file/a790f48ad201e6de1c1f3.jpg",
+        "https://telegra.ph/file/77f45369bda3e1d176805.jpg",
+        "https://telegra.ph/file/c0c6b08f3db13e27acc3e.jpg",
+        "https://telegra.ph/file/a0c6e724145bec317ef40.jpg",
+        "https://telegra.ph/file/d9b0dad5cc0863a4cbae4.jpg",
+        "https://telegra.ph/file/7512ff9fab22932681031.jpg",
+        "https://telegra.ph/file/586cfa3da4eb0fe2b52d8.jpg",
+        "https://telegra.ph/file/2447ff8e1a4e7c26d034c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

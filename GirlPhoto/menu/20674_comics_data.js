@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20674,
+    "title": "贝儿酱Miki – OL装",
+    "sourceUrl": "https://telegra.ph/贝儿酱Miki--OL装-08-29",
+    "images": [
+        "https://telegra.ph/file/87f69d891716439dcdc57.jpg",
+        "https://telegra.ph/file/097e98f5069a6b33a9862.jpg",
+        "https://telegra.ph/file/05f35356e1e784412f3bc.jpg",
+        "https://telegra.ph/file/b9f75084bb4577c4934a9.jpg",
+        "https://telegra.ph/file/6ce1caf1052eefe0cd63f.jpg",
+        "https://telegra.ph/file/c4b21c6f18af45bd7d79f.jpg",
+        "https://telegra.ph/file/ceebfebb43d802c53d12f.jpg",
+        "https://telegra.ph/file/ba89ee55d1ba60ab1df5a.jpg",
+        "https://telegra.ph/file/bd83d88f0ab55edbd2b6e.jpg",
+        "https://telegra.ph/file/c02ca6ade78bdd259a658.jpg",
+        "https://telegra.ph/file/819599d0e3326e89c4081.jpg",
+        "https://telegra.ph/file/2ba0ad78ffe67a50abf69.jpg",
+        "https://telegra.ph/file/9dee8706608a9d5bb6962.jpg",
+        "https://telegra.ph/file/3d23fffae9519314b7fe4.jpg",
+        "https://telegra.ph/file/99fc3ae64e6f86fab24d0.jpg",
+        "https://telegra.ph/file/88358c573aad5ce8fd29d.jpg",
+        "https://telegra.ph/file/65164256861a5b4420528.jpg",
+        "https://telegra.ph/file/94abf75edfcb6f56e84b7.jpg",
+        "https://telegra.ph/file/b3c2fb6231d89ff79266c.jpg",
+        "https://telegra.ph/file/64486447ff59286fca22f.jpg",
+        "https://telegra.ph/file/b5ae6e5bed7eb81d8f205.jpg",
+        "https://telegra.ph/file/04c3cff762fddede9942b.jpg",
+        "https://telegra.ph/file/fca8b41c984de29c06aeb.jpg",
+        "https://telegra.ph/file/3b63575b394435622b8ec.jpg",
+        "https://telegra.ph/file/01a0e47c911993f65cede.jpg",
+        "https://telegra.ph/file/286faf1f735e8a901ee61.jpg",
+        "https://telegra.ph/file/e8ed49a540b3ff570a3a1.jpg",
+        "https://telegra.ph/file/eb4c626f66d88573247f9.jpg",
+        "https://telegra.ph/file/0b950c71e75f651748d8e.jpg",
+        "https://telegra.ph/file/6b24319c3d10e4cb1a102.jpg",
+        "https://telegra.ph/file/f846f2b181077d185b5ce.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11017,
+    "title": "小瑶幺幺 - 自拍版银狼",
+    "sourceUrl": "http://telegra.ph/%E5%B0%8F%E7%91%B6%E5%B9%BA%E5%B9%BA---%E8%87%AA%E6%8B%8D%E7%89%88%E9%93%B6%E7%8B%BC-08-21",
+    "images": [
+        "https://image.acg.lol/file/2024/09/20/IMG_774120240131-104604.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774920240131-105813.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_766120240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_766220240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_766320240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_766720240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_766920240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_768020240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_768220240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_768320240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_769920240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_770220240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_770320240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_770520240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_770620240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_770720240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_770820240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_770920240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_771120240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_771220240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_773220240131-103614.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_773320240131-103750.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_773420240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_773520240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_773620240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774020240131-104240.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774220240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774320240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774420240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774520240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774620240201-062907.jpg",
+        "https://image.acg.lol/file/2024/09/20/IMG_774820240131-105732.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

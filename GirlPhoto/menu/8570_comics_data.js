@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8570,
+    "title": "秋和柯基 绿墙",
+    "sourceUrl": "https://telegra.ph/秋和柯基-绿墙-08-26",
+    "images": [
+        "https://telegra.ph/file/ce70f9d0be9af14cf5883.jpg",
+        "https://telegra.ph/file/8da374c69c54c9805f2b9.jpg",
+        "https://telegra.ph/file/2f5793f9e272b8140049c.jpg",
+        "https://telegra.ph/file/3132721877817302ca820.jpg",
+        "https://telegra.ph/file/f66124c73ac3554fdccbc.jpg",
+        "https://telegra.ph/file/8331d4af4a1e9d2442cf6.jpg",
+        "https://telegra.ph/file/8ca15bd7fad991e3d2f18.jpg",
+        "https://telegra.ph/file/767931d4d43592bd827ee.jpg",
+        "https://telegra.ph/file/c1ea141743a4778a591e0.jpg",
+        "https://telegra.ph/file/d77afa830692d265ddebb.jpg",
+        "https://telegra.ph/file/6c2ec3ddf856d4e2bbe9e.jpg",
+        "https://telegra.ph/file/15ad206cb5cc1e0c44208.jpg",
+        "https://telegra.ph/file/3f3e090de40112467b3ce.jpg",
+        "https://telegra.ph/file/56d9a86fe5038b0742e23.jpg",
+        "https://telegra.ph/file/71413f3f10d64ab85ab8a.jpg",
+        "https://telegra.ph/file/9b070f21acaef48c1b179.jpg",
+        "https://telegra.ph/file/4f80d81b9a0f3a34d5f72.jpg",
+        "https://telegra.ph/file/03379738e839426a61baa.jpg",
+        "https://telegra.ph/file/9006243c8473b91d3324b.jpg",
+        "https://telegra.ph/file/0a50db567cd08c552a0bd.jpg",
+        "https://telegra.ph/file/a612dc77d62934aebcf10.jpg",
+        "https://telegra.ph/file/aa4d72b360096d1aa4e23.jpg",
+        "https://telegra.ph/file/df8071640438a1ee99a58.jpg",
+        "https://telegra.ph/file/6ccdbd2d8413c7e0358e0.jpg",
+        "https://telegra.ph/file/b99c6344bbc2c9bb4e4dd.jpg",
+        "https://telegra.ph/file/a37af3b60a97011b87b84.jpg",
+        "https://telegra.ph/file/e95dc71f48209da9040df.jpg",
+        "https://telegra.ph/file/96abaa0c026d68749f9aa.jpg",
+        "https://telegra.ph/file/ba77097cf380e34e0ef47.jpg",
+        "https://telegra.ph/file/78a90a936bab82fec1e33.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

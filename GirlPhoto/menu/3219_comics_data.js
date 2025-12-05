@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 3219,
+    "title": "白银 - 风情美妇",
+    "sourceUrl": "https://telegra.ph/白银---风情美妇-08-27",
+    "images": [
+        "https://telegra.ph/file/1ecbbfd2855d04dd7fd21.jpg",
+        "https://telegra.ph/file/2951bf4f498c4b7fccba9.jpg",
+        "https://telegra.ph/file/cc285128047763e9031d3.jpg",
+        "https://telegra.ph/file/a0cdb9a797d8847d2537a.jpg",
+        "https://telegra.ph/file/339ac1ae81bef75e0dd25.jpg",
+        "https://telegra.ph/file/389832335ead00f894916.jpg",
+        "https://telegra.ph/file/f8fd81e21bf9f8777db48.jpg",
+        "https://telegra.ph/file/c210e9f18459f37b2d884.jpg",
+        "https://telegra.ph/file/aefa4cf6d0dbe8e8bbd03.jpg",
+        "https://telegra.ph/file/034c8bedad452bd1c4661.jpg",
+        "https://telegra.ph/file/e1cb3d21185546d5e3b30.jpg",
+        "https://telegra.ph/file/af65a6cce35ceae479117.jpg",
+        "https://telegra.ph/file/dbfb775cd800ab80a8396.jpg",
+        "https://telegra.ph/file/89dbba57ab57e2db2e132.jpg",
+        "https://telegra.ph/file/af39995de946bf693d679.jpg",
+        "https://telegra.ph/file/37b855a1172e1fc031375.jpg",
+        "https://telegra.ph/file/eff3ea24d6d2d64d17817.jpg",
+        "https://telegra.ph/file/e784bf16bbd482b99340f.jpg",
+        "https://telegra.ph/file/2c486e6bdcd3587e5e774.jpg",
+        "https://telegra.ph/file/b0af9d93c0b39c71c6ab8.jpg",
+        "https://telegra.ph/file/e7f615732add8b9b75fa0.jpg",
+        "https://telegra.ph/file/2a905b4772f8aabe6843f.jpg",
+        "https://telegra.ph/file/83b8f3b890907d0eceb7e.jpg",
+        "https://telegra.ph/file/2031a7b4fb5f7447c7351.jpg",
+        "https://telegra.ph/file/c82bc343ca70a4ed115dd.jpg",
+        "https://telegra.ph/file/c32fb3e1fe401ed1cb132.jpg",
+        "https://telegra.ph/file/7e1d77f1a43a89d0016c1.jpg",
+        "https://telegra.ph/file/6c6eec40df552236cb84f.jpg",
+        "https://telegra.ph/file/c98cec3b09edddbbe95e4.jpg",
+        "https://telegra.ph/file/e0b7a16b16bfc2ff9eb9b.jpg",
+        "https://telegra.ph/file/d73add0eeef2f44a90b92.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

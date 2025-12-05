@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12926,
+    "title": "樱梨梨 神里凌华 剑道服 (原神)",
+    "sourceUrl": "https://telegra.ph/%E6%A8%B1%E6%A2%A8%E6%A2%A8-%E7%A5%9E%E9%87%8C%E5%87%8C%E5%8D%8E-%E5%89%91%E9%81%93%E6%9C%8D-%E5%8E%9F%E7%A5%9E-08-21",
+    "images": [
+        "https://telegra.ph/file/384eb2a7d48d6853619b6.png",
+        "https://telegra.ph/file/bdff0cfef58e3ae0d6909.jpg",
+        "https://telegra.ph/file/d336895477948f56e1467.jpg",
+        "https://telegra.ph/file/1c73839efebd11c4c0c34.jpg",
+        "https://telegra.ph/file/69d768c3e7b685fa3d2c1.jpg",
+        "https://telegra.ph/file/77fdb1ff6f4329cc4ca42.jpg",
+        "https://telegra.ph/file/d97059951637da1327665.jpg",
+        "https://telegra.ph/file/54b7dd1cf314ee9d1fcb1.jpg",
+        "https://telegra.ph/file/e59921089a9578dbee751.jpg",
+        "https://telegra.ph/file/f99cedaabf31887857091.jpg",
+        "https://telegra.ph/file/50f8469d0106c0f0f51af.jpg",
+        "https://telegra.ph/file/defc3f4daf564828a9b60.jpg",
+        "https://telegra.ph/file/98d0527b285893965166f.jpg",
+        "https://telegra.ph/file/1de3f28b8da2b41d5d2e2.jpg",
+        "https://telegra.ph/file/c63a9f8ef9c7273b62cc4.jpg",
+        "https://telegra.ph/file/c7c4cb7fca6fb398929dd.jpg",
+        "https://telegra.ph/file/649febcf446f8618a4ab3.jpg",
+        "https://telegra.ph/file/c3845d6c7a57746301270.jpg",
+        "https://telegra.ph/file/54bf34dfce91bbcaf0758.jpg",
+        "https://telegra.ph/file/93bf9e94c3344806dc782.jpg",
+        "https://telegra.ph/file/7905ba4f580ec37950007.jpg",
+        "https://telegra.ph/file/1416cf48c37b492142073.jpg",
+        "https://telegra.ph/file/f861ea1262f13430ac916.jpg",
+        "https://telegra.ph/file/2236fc51a23d4911c27df.jpg",
+        "https://telegra.ph/file/aaf8513452c588b14f3d3.jpg",
+        "https://telegra.ph/file/1297c625880fd0c39859a.jpg",
+        "https://telegra.ph/file/41449a88f500d87e37871.jpg",
+        "https://telegra.ph/file/348de919b78fe4d13f19d.jpg",
+        "https://telegra.ph/file/2cbab42b3ae90688b0103.jpg",
+        "https://telegra.ph/file/175cf16b9d036b519ad05.jpg",
+        "https://telegra.ph/file/05e08318b35434f3cfbd2.jpg",
+        "https://telegra.ph/file/7be9786008b4e0dc0f3d4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 5331,
+    "title": "过期米线线喵 – 我那风情万种的夫人",
+    "sourceUrl": "https://telegra.ph/过期米线线喵--我那风情万种的夫人-08-29",
+    "images": [
+        "https://telegra.ph/file/7daf6ce68fcf84239b8b1.jpg",
+        "https://telegra.ph/file/426021e978b5314ca6638.jpg",
+        "https://telegra.ph/file/a5a4c280ca550930fe29d.jpg",
+        "https://telegra.ph/file/ac11dda4b04a8b09da0e5.jpg",
+        "https://telegra.ph/file/12c094fff7953d5fc1baf.jpg",
+        "https://telegra.ph/file/aa67e564c497fab919560.jpg",
+        "https://telegra.ph/file/4f2dde3a66de63c989caa.jpg",
+        "https://telegra.ph/file/de6cdcd2b8e149de04972.jpg",
+        "https://telegra.ph/file/5eaf8e9beb694d65e06d2.jpg",
+        "https://telegra.ph/file/2d421aaa6c5ea40d80033.jpg",
+        "https://telegra.ph/file/ab072c3af1c4c8dc05237.jpg",
+        "https://telegra.ph/file/85f62924d3f05f0cf7afb.jpg",
+        "https://telegra.ph/file/390887f234e982bad4257.jpg",
+        "https://telegra.ph/file/dc03a688a347ff61defc6.jpg",
+        "https://telegra.ph/file/bf956ec15382d83f22aaf.jpg",
+        "https://telegra.ph/file/fd84dbf9f86d075ffd1c4.jpg",
+        "https://telegra.ph/file/b51e0e930a2723bebcfe0.jpg",
+        "https://telegra.ph/file/f8d0cee5d490756da0e62.jpg",
+        "https://telegra.ph/file/47c58f858e078027d5dab.jpg",
+        "https://telegra.ph/file/de3476884616eb294df6d.jpg",
+        "https://telegra.ph/file/014dc6113467348c30c58.jpg",
+        "https://telegra.ph/file/715af5d3f6fbb0721ff57.jpg",
+        "https://telegra.ph/file/010b76af4f0682a64c8f9.jpg",
+        "https://telegra.ph/file/bf6f3db654c492ebe208e.jpg",
+        "https://telegra.ph/file/3742e9bb44adca7b6a655.jpg",
+        "https://telegra.ph/file/7abcd2b652dacb90b4861.jpg",
+        "https://telegra.ph/file/ee2c523d753c01e6462a1.jpg",
+        "https://telegra.ph/file/a410cf41eec5c2b4094c8.jpg",
+        "https://telegra.ph/file/09f8d2e3d6e5c220dc7f0.jpg",
+        "https://telegra.ph/file/546171c782b54534a559e.jpg",
+        "https://telegra.ph/file/9d62696546093b2e9568e.jpg",
+        "https://telegra.ph/file/4c93625e3f242c20ce77f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

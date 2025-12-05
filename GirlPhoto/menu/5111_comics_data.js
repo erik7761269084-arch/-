@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5111,
+    "title": "疯猫ss - 眠海歌-海景阳台(本子捆绑）",
+    "sourceUrl": "https://telegra.ph/疯猫ss---眠海歌-海景阳台本子捆绑-08-29",
+    "images": [
+        "https://telegra.ph/file/93bdfdc9717a64494f09c.jpg",
+        "https://telegra.ph/file/32e54ad8425f0e939a18e.jpg",
+        "https://telegra.ph/file/9232d73c9b83a1492fb6b.jpg",
+        "https://telegra.ph/file/225529cc42a4cfb7da9dc.jpg",
+        "https://telegra.ph/file/4344ec05eefae2da2d47e.jpg",
+        "https://telegra.ph/file/0241291bea90f4eb29239.jpg",
+        "https://telegra.ph/file/e7d7de4c278497f3d59a5.jpg",
+        "https://telegra.ph/file/a41c3994bdfe446f0f516.jpg",
+        "https://telegra.ph/file/cd487c2957a3107ddf9ed.jpg",
+        "https://telegra.ph/file/04f8751b44016b9523d46.jpg",
+        "https://telegra.ph/file/05bd97497beed7c4581e8.jpg",
+        "https://telegra.ph/file/2ba82036b18eaa5da0af4.jpg",
+        "https://telegra.ph/file/dbdfc0ad6eebee3e223b6.jpg",
+        "https://telegra.ph/file/2f43aca4d18992134c8d7.jpg",
+        "https://telegra.ph/file/846071566679109a7d7f1.jpg",
+        "https://telegra.ph/file/d2723cc86633ef57951b9.jpg",
+        "https://telegra.ph/file/0b10a19858f6849fa0d97.jpg",
+        "https://telegra.ph/file/fb3a9b91dbb9bd8ae1323.jpg",
+        "https://telegra.ph/file/6ca45d2e5ae792a27d33b.jpg",
+        "https://telegra.ph/file/bd57a475ece7542bf29b9.jpg",
+        "https://telegra.ph/file/e83dbfae9f83c7639319d.jpg",
+        "https://telegra.ph/file/5e57507aa29a5c2394ade.jpg",
+        "https://telegra.ph/file/05f82f268f492771abecd.jpg",
+        "https://telegra.ph/file/f506c327930672e543cf7.jpg",
+        "https://telegra.ph/file/94081a999559375c6f6ef.jpg",
+        "https://telegra.ph/file/ada8cc481cb9c1251914b.jpg",
+        "https://telegra.ph/file/25c4da3b5a2a862b86d4c.jpg",
+        "https://telegra.ph/file/b3608b84a3c216c2bcbad.jpg",
+        "https://telegra.ph/file/ef036beeea7487d1f94ac.jpg",
+        "https://telegra.ph/file/d622274b8c0a37171a835.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

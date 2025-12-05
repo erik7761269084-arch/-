@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8147,
+    "title": "皮皮奶可可爱了啦 奶牛红绳+绑带比基尼",
+    "sourceUrl": "https://telegra.ph/皮皮奶可可爱了啦-奶牛红绳绑带比基尼-08-28",
+    "images": [
+        "https://telegra.ph/file/ad82f41091f6d6d7e8243.jpg",
+        "https://telegra.ph/file/6cf0f7c5c0b0949e3edf1.jpg",
+        "https://telegra.ph/file/db9d0284727e978117d02.jpg",
+        "https://telegra.ph/file/cc61f29bb1e767c9ef893.jpg",
+        "https://telegra.ph/file/f2fec295b6dc01b4415d8.jpg",
+        "https://telegra.ph/file/02a04f0ec2cdb3097d8ce.jpg",
+        "https://telegra.ph/file/989c44cb5a302057d481c.jpg",
+        "https://telegra.ph/file/29058bf735dc385a9b80c.jpg",
+        "https://telegra.ph/file/8501f98704d1d590e4de8.jpg",
+        "https://telegra.ph/file/28e2c187e48be266cc490.jpg",
+        "https://telegra.ph/file/21aa05538b7bfbfe7cdac.jpg",
+        "https://telegra.ph/file/1875f806692d451a4f637.jpg",
+        "https://telegra.ph/file/0cc86cbcc03fddd7f633d.jpg",
+        "https://telegra.ph/file/953999daec52cd43899c6.jpg",
+        "https://telegra.ph/file/e76d95235fd7d35164b50.jpg",
+        "https://telegra.ph/file/b2ced20d8854aecaf5cf5.jpg",
+        "https://telegra.ph/file/5c5cc03eb05d00c32a41d.jpg",
+        "https://telegra.ph/file/3d36f2ba0c44c565ee719.jpg",
+        "https://telegra.ph/file/a3b1189ad35410fdc4617.jpg",
+        "https://telegra.ph/file/e9e719d79a5b0bb7d1635.jpg",
+        "https://telegra.ph/file/a257de87f4c0bc6c332aa.jpg",
+        "https://telegra.ph/file/b280bd0207e6dac7f9276.jpg",
+        "https://telegra.ph/file/1f7dd1812502320a4984c.jpg",
+        "https://telegra.ph/file/2d9540f3be34d1e4dd793.jpg",
+        "https://telegra.ph/file/a61cbd7fb1950d153e643.jpg",
+        "https://telegra.ph/file/023d088ae8b8a2bf60cc9.jpg",
+        "https://telegra.ph/file/677bf15d9cb56163da103.jpg",
+        "https://telegra.ph/file/897993be37c126680e187.jpg",
+        "https://telegra.ph/file/d93ad63e7fb6aff3d53ce.jpg",
+        "https://telegra.ph/file/d3efa8dda8a1488fe0265.jpg",
+        "https://telegra.ph/file/647ebfff76e2b7b1085b4.jpg",
+        "https://telegra.ph/file/a3e34cb02a6d59b906524.jpg",
+        "https://telegra.ph/file/d823181a63bc28d6c44a7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

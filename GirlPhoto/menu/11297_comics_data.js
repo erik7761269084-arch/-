@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11297,
+    "title": "星之迟迟 9月计划A 胡桃死库水（10月14打赏群资源）",
+    "sourceUrl": "https://telegra.ph/星之迟迟-9月计划A-胡桃死库水10月14打赏群资源-08-25",
+    "images": [
+        "https://telegra.ph/file/78cdc89df860f7aba5ee5.png",
+        "https://telegra.ph/file/8d2cea39dadf257b6296d.jpg",
+        "https://telegra.ph/file/8135e5b0e2dbba1882c96.jpg",
+        "https://telegra.ph/file/2134bff1e8b027737fe00.jpg",
+        "https://telegra.ph/file/f1aa61dc50a6e599252ef.jpg",
+        "https://telegra.ph/file/176554ed05107826b709a.jpg",
+        "https://telegra.ph/file/5951988ef6e6aeca05a78.jpg",
+        "https://telegra.ph/file/62f1514fa7a8d7399a60a.jpg",
+        "https://telegra.ph/file/2ecfbd2cff6ae2ad44065.jpg",
+        "https://telegra.ph/file/a7d1f8dba4cee8b6f9b3a.jpg",
+        "https://telegra.ph/file/6dcbd6fa76ce116fd19d4.jpg",
+        "https://telegra.ph/file/cb6f1a2845c1e190e9336.jpg",
+        "https://telegra.ph/file/02dbc4584517df0bc53f3.jpg",
+        "https://telegra.ph/file/319e98192b15954402b3e.jpg",
+        "https://telegra.ph/file/6fa5ed88da4dce835ef37.jpg",
+        "https://telegra.ph/file/c667854a921357d7f2b49.jpg",
+        "https://telegra.ph/file/9f457db9f5a2a4a866612.jpg",
+        "https://telegra.ph/file/e5b689a80aac9225c3af9.jpg",
+        "https://telegra.ph/file/35446ac873f39e491203f.jpg",
+        "https://telegra.ph/file/cc490722a65c151663d33.jpg",
+        "https://telegra.ph/file/9eea6757e447e505e1498.jpg",
+        "https://telegra.ph/file/c1021a028a5e5f9c175f0.jpg",
+        "https://telegra.ph/file/4c48230e1ce8f46d4c970.jpg",
+        "https://telegra.ph/file/d944ba12747c3bf27a0a8.jpg",
+        "https://telegra.ph/file/cbe4a9e6a10611bd2d2f6.jpg",
+        "https://telegra.ph/file/7aadc476824857e307f96.jpg",
+        "https://telegra.ph/file/b025e5ebf4b774ac1644c.jpg",
+        "https://telegra.ph/file/c175b3b55bce9ceeb7521.jpg",
+        "https://telegra.ph/file/1d0d52998b0c7abe6a4eb.jpg",
+        "https://telegra.ph/file/f5d9175f6221f5d9a576f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

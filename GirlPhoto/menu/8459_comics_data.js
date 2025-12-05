@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8459,
+    "title": "切切celia – ルピー 露菲",
+    "sourceUrl": "https://telegra.ph/切切celia--ルピー-露菲-08-29-2",
+    "images": [
+        "https://telegra.ph/file/7254b6f0c0c7767131626.jpg",
+        "https://telegra.ph/file/5b1259e19261034c887cf.jpg",
+        "https://telegra.ph/file/65b68408377ffba6e216f.jpg",
+        "https://telegra.ph/file/e07a963cca32a558c3d8a.jpg",
+        "https://telegra.ph/file/cbbfd1206247949f635f8.jpg",
+        "https://telegra.ph/file/e8c9d1749063b3339770d.jpg",
+        "https://telegra.ph/file/38dccbfe79be861ea083e.jpg",
+        "https://telegra.ph/file/481ffa0c325f31adac246.jpg",
+        "https://telegra.ph/file/3acdc004a1b11d9c8a33b.jpg",
+        "https://telegra.ph/file/24333088b654b19625635.jpg",
+        "https://telegra.ph/file/9fc01b89459eb580fac9d.jpg",
+        "https://telegra.ph/file/60d3307ef97a9b9890f0c.jpg",
+        "https://telegra.ph/file/7ef0774137fcf81558748.jpg",
+        "https://telegra.ph/file/bc81eaa9cb3d45bdbcf2d.jpg",
+        "https://telegra.ph/file/cb2b2074a43ce3e087aaa.jpg",
+        "https://telegra.ph/file/9aff7f665b4e57a56a0f1.jpg",
+        "https://telegra.ph/file/1cf6de5ef11801c0a8075.jpg",
+        "https://telegra.ph/file/a70288b084cae77cb8685.jpg",
+        "https://telegra.ph/file/d29da2bb5a9477ae4371a.jpg",
+        "https://telegra.ph/file/f214bca922ce7c004d755.jpg",
+        "https://telegra.ph/file/de0553053193696366954.jpg",
+        "https://telegra.ph/file/23aa166ccf68716e7db91.jpg",
+        "https://telegra.ph/file/ac1592b06b2d6cf1b3b1d.jpg",
+        "https://telegra.ph/file/813bd4fa34a7ecb23eac7.jpg",
+        "https://telegra.ph/file/28fe85e3351403adcbcf6.jpg",
+        "https://telegra.ph/file/c564fee548be52712be7e.jpg",
+        "https://telegra.ph/file/f22c70a014007312508d2.jpg",
+        "https://telegra.ph/file/57f70098e5c5c642d93d7.jpg",
+        "https://telegra.ph/file/6326472786b8a27e1f1e6.jpg",
+        "https://telegra.ph/file/a7eba57726c75e0fe4c4f.jpg",
+        "https://telegra.ph/file/612776b1b9d4940cf4dd5.jpg",
+        "https://telegra.ph/file/215ee5bc5da79b154b12e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2514,
+    "title": "Umeko J - Arlecchino",
+    "sourceUrl": "https://telegra.ph/Umeko-J---Arlecchino-08-29",
+    "images": [
+        "https://telegra.ph/file/2fd5fcf7a41d2eddcd088.jpg",
+        "https://telegra.ph/file/444e58f35b9eef0f33155.jpg",
+        "https://telegra.ph/file/40fea933cbec0308d04a6.jpg",
+        "https://telegra.ph/file/148f082da9a4b9657a102.jpg",
+        "https://telegra.ph/file/e4976efabe7d494a618d3.jpg",
+        "https://telegra.ph/file/5b650202d7cd4a83d19bb.jpg",
+        "https://telegra.ph/file/20f687830bd1f823be4ab.jpg",
+        "https://telegra.ph/file/7cec3f796287a2f7caa09.jpg",
+        "https://telegra.ph/file/3be48ea32ba5fe84a5c0f.jpg",
+        "https://telegra.ph/file/4f03edf899efbc9e74494.jpg",
+        "https://telegra.ph/file/534c47bfc4409d08c5647.jpg",
+        "https://telegra.ph/file/615b04d5a864a73e9c61b.jpg",
+        "https://telegra.ph/file/41a98ac72328268b25388.jpg",
+        "https://telegra.ph/file/a2412001a20ccad397474.jpg",
+        "https://telegra.ph/file/e7e3e00557b83f46a3f3f.jpg",
+        "https://telegra.ph/file/0f98699e13b98741ab371.jpg",
+        "https://telegra.ph/file/6364efdd54e187dc0d6d0.jpg",
+        "https://telegra.ph/file/e15e0e5c42337d4f66c0f.jpg",
+        "https://telegra.ph/file/9cf214ed6b51e5f7de714.jpg",
+        "https://telegra.ph/file/5fdff1e9389325b1adf2d.jpg",
+        "https://telegra.ph/file/f9b84dfe8a1a08399a7a4.jpg",
+        "https://telegra.ph/file/8c8bd2dd66ebb8621102b.jpg",
+        "https://telegra.ph/file/a2ff6ea5452434b1ffed8.jpg",
+        "https://telegra.ph/file/bb721fad6c7aa3981a7dc.jpg",
+        "https://telegra.ph/file/ef6b129fc4c68c7ad08af.jpg",
+        "https://telegra.ph/file/ffe90943f09532163cb2c.jpg",
+        "https://telegra.ph/file/a56fde84409df77a621c4.jpg",
+        "https://telegra.ph/file/3af06370120dbd11a00e9.jpg",
+        "https://telegra.ph/file/bbd31efb3ea463ef0ee7a.jpg",
+        "https://telegra.ph/file/f69bcf45e1bbc3600da7f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2576,
+    "title": "Uy Uy - Kiryu Coco",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Kiryu-Coco-08-27",
+    "images": [
+        "https://telegra.ph/file/3d85ea1bfb71dcb8106b7.jpg",
+        "https://telegra.ph/file/e78d332afeebcab4c77c4.jpg",
+        "https://telegra.ph/file/feb775c595dc2a8cb9ce5.jpg",
+        "https://telegra.ph/file/e7faa65ee1613e54382d8.jpg",
+        "https://telegra.ph/file/3d712adf6cdb4367e9474.jpg",
+        "https://telegra.ph/file/e98d17377e94e0a7d56b2.jpg",
+        "https://telegra.ph/file/2c8508829ad2dddc84143.jpg",
+        "https://telegra.ph/file/b83554f2aeb7ec5e4b5a4.jpg",
+        "https://telegra.ph/file/55785132f81c098417f77.jpg",
+        "https://telegra.ph/file/ee7a640ce1328ba5cd619.jpg",
+        "https://telegra.ph/file/5270fb22942daffad4c70.jpg",
+        "https://telegra.ph/file/b3dabeb23fb9c568a9e23.jpg",
+        "https://telegra.ph/file/95d4e1917f93b0827f35f.jpg",
+        "https://telegra.ph/file/f815016d61608072656be.jpg",
+        "https://telegra.ph/file/cc61c657721b61ea853e4.jpg",
+        "https://telegra.ph/file/d03c5012063f2c8f9e7af.jpg",
+        "https://telegra.ph/file/d307c83e725777df034b6.jpg",
+        "https://telegra.ph/file/fbf7b59038b80b2494328.jpg",
+        "https://telegra.ph/file/7cf0af085794ae14bac5e.jpg",
+        "https://telegra.ph/file/42379f7181bcafb7162e4.jpg",
+        "https://telegra.ph/file/d0723ceab497758f78e7e.jpg",
+        "https://telegra.ph/file/63ecafc6c613e640cd200.jpg",
+        "https://telegra.ph/file/8ba61c03942ab06a26051.jpg",
+        "https://telegra.ph/file/f00583cb73bbd2cecadfd.jpg",
+        "https://telegra.ph/file/8dfa668da101836e66802.jpg",
+        "https://telegra.ph/file/fcee1192f3ce7cb6c4474.jpg",
+        "https://telegra.ph/file/9f63eff615268508d691c.jpg",
+        "https://telegra.ph/file/0a8524cc0c5a5f6b26c8f.jpg",
+        "https://telegra.ph/file/89bd5e850ce7a70240c31.jpg",
+        "https://telegra.ph/file/b9e03446f2483afdf3c86.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

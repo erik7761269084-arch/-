@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 21358,
+    "title": "Glamarchive White Sugar Vol.20 - Secretary",
+    "sourceUrl": "https://telegra.ph/Glamarchive-White-Sugar-Vol20---Secretary-08-29",
+    "images": [
+        "https://telegra.ph/file/3c86b69a3089b65885ed1.jpg",
+        "https://telegra.ph/file/50e731ca01d0d0af63db1.jpg",
+        "https://telegra.ph/file/163cc8b6dae346795d804.jpg",
+        "https://telegra.ph/file/a012718e6d3f8e28c1f37.jpg",
+        "https://telegra.ph/file/1f53991f25c31d9d9292e.jpg",
+        "https://telegra.ph/file/ce5eadf2ebf710eae7559.jpg",
+        "https://telegra.ph/file/973dc7d1b333db75a0c2e.jpg",
+        "https://telegra.ph/file/1f2547105f8cb7ecc389d.jpg",
+        "https://telegra.ph/file/3d3ed12f7d756143523d1.jpg",
+        "https://telegra.ph/file/ba79e6f1556f69de20d7f.jpg",
+        "https://telegra.ph/file/423690f4c3725badfc333.jpg",
+        "https://telegra.ph/file/1621a0656e3d4916b43dd.jpg",
+        "https://telegra.ph/file/8ad02e97942cc280ac639.jpg",
+        "https://telegra.ph/file/72492ff0cf16a88b269f9.jpg",
+        "https://telegra.ph/file/ea96c17afe6fef5198fe3.jpg",
+        "https://telegra.ph/file/0cb1de061fab2f5ebcaf8.jpg",
+        "https://telegra.ph/file/734a2fee1ec23dcbf4476.jpg",
+        "https://telegra.ph/file/2ac0b6da0926d88add765.jpg",
+        "https://telegra.ph/file/49f84baf05330575b8de2.jpg",
+        "https://telegra.ph/file/c55f6d87b2325e5e7955b.jpg",
+        "https://telegra.ph/file/345298e99f4643e9ec811.jpg",
+        "https://telegra.ph/file/e4dc5adf5250e15f170d0.jpg",
+        "https://telegra.ph/file/b23e894a20f85cf89209e.jpg",
+        "https://telegra.ph/file/ac79aba13a3cc0909f07e.jpg",
+        "https://telegra.ph/file/606fef02c39b2aa619519.jpg",
+        "https://telegra.ph/file/99a1b1031d5e4e480e891.jpg",
+        "https://telegra.ph/file/6d238666b76df95490548.jpg",
+        "https://telegra.ph/file/def8d310634ef4936ec55.jpg",
+        "https://telegra.ph/file/ba5b3416df77f2595c9f3.jpg",
+        "https://telegra.ph/file/c6df63bfaa0f728ffcf83.jpg",
+        "https://telegra.ph/file/70aa2ca6e39513b017861.jpg",
+        "https://telegra.ph/file/96eb342822417f0d63025.jpg",
+        "https://telegra.ph/file/c64cd46293744f53db82f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

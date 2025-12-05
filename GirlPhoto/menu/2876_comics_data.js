@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2876,
+    "title": "ZinieQ - Rapi (NIKKE)",
+    "sourceUrl": "https://telegra.ph/ZinieQ---Rapi-NIKKE-08-27",
+    "images": [
+        "https://telegra.ph/file/7181323729fed1e21bdd7.jpg",
+        "https://telegra.ph/file/bcad91f6b9dcd8d8109fb.jpg",
+        "https://telegra.ph/file/e386ffec02c1ec587a4a2.jpg",
+        "https://telegra.ph/file/feaa0bcfb55edeba78bea.jpg",
+        "https://telegra.ph/file/65d1c8ac663a73024f964.jpg",
+        "https://telegra.ph/file/3edf9442c6cee8afd9462.jpg",
+        "https://telegra.ph/file/5b3c4d99e5d95d0830316.jpg",
+        "https://telegra.ph/file/2ca7be1ed6a33712a1129.jpg",
+        "https://telegra.ph/file/de39d795127ea81a1c0fe.jpg",
+        "https://telegra.ph/file/ae4a0860af66fed030000.jpg",
+        "https://telegra.ph/file/cf4eee148150575650934.jpg",
+        "https://telegra.ph/file/700445a8d1a4139e2e8f1.jpg",
+        "https://telegra.ph/file/fb07d9aa018b32d92279a.jpg",
+        "https://telegra.ph/file/4b9140c863ccf71ecf373.jpg",
+        "https://telegra.ph/file/dd66cdf9d7269042a0fd1.jpg",
+        "https://telegra.ph/file/baa90216a43ca890b9ac2.jpg",
+        "https://telegra.ph/file/cbeb0b5a6f6bf9842b011.jpg",
+        "https://telegra.ph/file/1febd81dbb4f1fced7782.jpg",
+        "https://telegra.ph/file/feddf9151ec6b48d1e03b.jpg",
+        "https://telegra.ph/file/c8bbbcd60c0ac9d3fd820.jpg",
+        "https://telegra.ph/file/b94544a7042447a9a6974.jpg",
+        "https://telegra.ph/file/2e9a1931ae4318b2c5a95.jpg",
+        "https://telegra.ph/file/3247a36caf4cbd5e2bc94.jpg",
+        "https://telegra.ph/file/c7953c344a0e729bcab9e.jpg",
+        "https://telegra.ph/file/1c487e45fa48076d93afd.jpg",
+        "https://telegra.ph/file/2e85b2c43a53e85e8b5de.jpg",
+        "https://telegra.ph/file/7772dac5be1d1cf07584f.jpg",
+        "https://telegra.ph/file/0bf7f473c3f72e0384c77.jpg",
+        "https://telegra.ph/file/61f6423008e2d480d1b0f.jpg",
+        "https://telegra.ph/file/e4bd0ef939980286c430d.jpg",
+        "https://telegra.ph/file/b30d79b6f963f6e987804.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

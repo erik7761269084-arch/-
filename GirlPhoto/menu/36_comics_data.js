@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 36,
+    "title": "Arty亚缇 - REM bunny suit ver. (Re_Zero)",
+    "sourceUrl": "https://telegra.ph/Arty亚缇---REM-bunny-suit-ver-Re-Zero-08-26",
+    "images": [
+        "https://telegra.ph/file/cbaf03a650a964510a8e7.jpg",
+        "https://telegra.ph/file/f25904495605b458a3ed0.jpg",
+        "https://telegra.ph/file/403e23f0675fef76a7608.jpg",
+        "https://telegra.ph/file/e7e1d3ec94dec63536ae6.jpg",
+        "https://telegra.ph/file/3293aa0afe49f7f76f615.jpg",
+        "https://telegra.ph/file/bb3f21f372cdfa27869dc.jpg",
+        "https://telegra.ph/file/4da0e7785d95159ed30f0.jpg",
+        "https://telegra.ph/file/653266ae27a5854a9461b.jpg",
+        "https://telegra.ph/file/07fd8522c798bfb6bad3d.jpg",
+        "https://telegra.ph/file/4f08676f18638df3ce5c8.jpg",
+        "https://telegra.ph/file/02e1bfbd6fd3bd494aa78.jpg",
+        "https://telegra.ph/file/0bd939737cc7c4a9a7cd8.jpg",
+        "https://telegra.ph/file/871c4d8771ef5b0e062e9.jpg",
+        "https://telegra.ph/file/abeb21615f6e09c010f25.jpg",
+        "https://telegra.ph/file/eade00b9add4c49042827.jpg",
+        "https://telegra.ph/file/f569bc1154090d0652eaf.jpg",
+        "https://telegra.ph/file/50b9857ad681bdfb6f9aa.jpg",
+        "https://telegra.ph/file/d01def59ebb7f6b0c8c82.jpg",
+        "https://telegra.ph/file/3311482616186831d74a0.jpg",
+        "https://telegra.ph/file/6907e93aad37c140e4ee3.jpg",
+        "https://telegra.ph/file/a06265d083c820f5faeb9.jpg",
+        "https://telegra.ph/file/45cda6565916c47fc615a.jpg",
+        "https://telegra.ph/file/11c988b51429fb1338a92.jpg",
+        "https://telegra.ph/file/ad7f682158c512486a26f.jpg",
+        "https://telegra.ph/file/07c6e6d3d79b47091a416.jpg",
+        "https://telegra.ph/file/b8f16c2959b4ea750b390.jpg",
+        "https://telegra.ph/file/7923db0d49b0afe7d531f.jpg",
+        "https://telegra.ph/file/d48ed27918da5e8cf6b55.jpg",
+        "https://telegra.ph/file/bfc04d72426d2cc608771.jpg",
+        "https://telegra.ph/file/1ef9bcd5bd6a9e36f6372.jpg",
+        "https://telegra.ph/file/020d5662e6f4a2ea8a2a7.jpg",
+        "https://telegra.ph/file/e48c43e4361eead01ee20.jpg",
+        "https://telegra.ph/file/48394512041a78bf2a038.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

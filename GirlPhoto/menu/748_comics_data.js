@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 748,
+    "title": "Ely_eee(ElyEE子) - Devil Croupier 小惡魔荷官",
+    "sourceUrl": "https://telegra.ph/Ely-eeeElyEE子---Devil-Croupier-小惡魔荷官-08-26",
+    "images": [
+        "https://telegra.ph/file/cc8c424d6957c06437ef3.jpg",
+        "https://telegra.ph/file/08754e4f8c2fee10ca04a.jpg",
+        "https://telegra.ph/file/4e869a6ba498d05247e7b.jpg",
+        "https://telegra.ph/file/71933b50e86a6144af88f.jpg",
+        "https://telegra.ph/file/79229aaeded20d2f1e7d8.jpg",
+        "https://telegra.ph/file/1a546f941b8d5fc9dd220.jpg",
+        "https://telegra.ph/file/47ba392ae34a78444dbce.jpg",
+        "https://telegra.ph/file/2c5a04ef1aef64f0d30c1.jpg",
+        "https://telegra.ph/file/a93aebc03e64f9b1cce6e.jpg",
+        "https://telegra.ph/file/a705db7d3106b1c04238c.jpg",
+        "https://telegra.ph/file/2a0c2cebaa2ac42573566.jpg",
+        "https://telegra.ph/file/5fdfcd7393f2f5a2d4379.jpg",
+        "https://telegra.ph/file/27f66756cb88e01f51091.jpg",
+        "https://telegra.ph/file/bf81b0526110c04f28423.jpg",
+        "https://telegra.ph/file/670f0ae4430be82ff4a11.jpg",
+        "https://telegra.ph/file/98de7c6482cf6d8cb8487.jpg",
+        "https://telegra.ph/file/97601b83a025aabf27099.jpg",
+        "https://telegra.ph/file/eabcde055fc4c8f840f92.jpg",
+        "https://telegra.ph/file/fb28d3963841eb0b27193.jpg",
+        "https://telegra.ph/file/07f8c99d2d3233e8c803d.jpg",
+        "https://telegra.ph/file/254f7ff8ccbe58f1765e8.jpg",
+        "https://telegra.ph/file/d4887308c622789172855.jpg",
+        "https://telegra.ph/file/9c3056ed7fe22daea99c0.jpg",
+        "https://telegra.ph/file/103d88e1b069d3368c620.jpg",
+        "https://telegra.ph/file/d17895b60e0d2135c04b0.jpg",
+        "https://telegra.ph/file/5fc92466d87d5eba55ef7.jpg",
+        "https://telegra.ph/file/1bf7f63ee6f0181ef7287.jpg",
+        "https://telegra.ph/file/ec4151edd8098108dfcae.jpg",
+        "https://telegra.ph/file/b86afc83ac1d9f3c5a1e3.jpg",
+        "https://telegra.ph/file/3b63ef4a8188e5690272d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

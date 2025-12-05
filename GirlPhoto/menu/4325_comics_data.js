@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4325,
+    "title": "抖娘-利世 - 漏背毛衣",
+    "sourceUrl": "https://telegra.ph/抖娘-利世---漏背毛衣-08-27",
+    "images": [
+        "https://telegra.ph/file/b9d790a3348876ef10506.jpg",
+        "https://telegra.ph/file/34d79aebf22771ece2e81.jpg",
+        "https://telegra.ph/file/53cfedce009c2f8fbd8ce.jpg",
+        "https://telegra.ph/file/b3d84eae65259ebee4722.jpg",
+        "https://telegra.ph/file/cc45a81c7b46d5b17c6c8.jpg",
+        "https://telegra.ph/file/4b55d6a31eeb8312829ff.jpg",
+        "https://telegra.ph/file/9836312e5d5b1b33f2cc5.jpg",
+        "https://telegra.ph/file/b0c2e532ccacec27b31a1.jpg",
+        "https://telegra.ph/file/7e9af39c97f782a586f0d.jpg",
+        "https://telegra.ph/file/985892563cff001db1886.jpg",
+        "https://telegra.ph/file/e96c33353f7b8154dc3a3.jpg",
+        "https://telegra.ph/file/0ad60c8934b13b4637779.jpg",
+        "https://telegra.ph/file/8f2e692675a74bb0029d7.jpg",
+        "https://telegra.ph/file/58bbfe0ce632286d2643f.jpg",
+        "https://telegra.ph/file/a8fea4a40f76564e171fe.jpg",
+        "https://telegra.ph/file/a995cf436cee3510570ee.jpg",
+        "https://telegra.ph/file/21c70592ddf0875dfa782.jpg",
+        "https://telegra.ph/file/fc383081d1dcef74de59f.jpg",
+        "https://telegra.ph/file/5d598121c5d5c4155d042.jpg",
+        "https://telegra.ph/file/f7b89aa0fd801293c3fe9.jpg",
+        "https://telegra.ph/file/59a175210bb05b7eec179.jpg",
+        "https://telegra.ph/file/9a5bb9b15141168c177f3.jpg",
+        "https://telegra.ph/file/d7f1cebd9998eb3501c9b.jpg",
+        "https://telegra.ph/file/04f86864273d200771cf8.jpg",
+        "https://telegra.ph/file/f0df1d8e12046b59c6a44.jpg",
+        "https://telegra.ph/file/7611628fea236067336ff.jpg",
+        "https://telegra.ph/file/ed8b2dda4a0eb9fefa080.jpg",
+        "https://telegra.ph/file/5cceb0f27c283009ee494.jpg",
+        "https://telegra.ph/file/4e8c9c60deef7b77a6584.jpg",
+        "https://telegra.ph/file/034def3dffba87ec357fc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

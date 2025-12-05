@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6008,
+    "title": "九言 圣诞礼物",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80-%E5%9C%A3%E8%AF%9E%E7%A4%BC%E7%89%A9-08-22",
+    "images": [
+        "https://telegra.ph/file/12e128e6271251446c480.jpg",
+        "https://telegra.ph/file/59f61c20ebe6005a28717.jpg",
+        "https://telegra.ph/file/2607db01359bc09077a0b.jpg",
+        "https://telegra.ph/file/6003d224668ac30eeace5.jpg",
+        "https://telegra.ph/file/4aa1063ed82c5690e7164.jpg",
+        "https://telegra.ph/file/b14a9184549f36e36c435.jpg",
+        "https://telegra.ph/file/17c95c6ab8addf0f410b1.jpg",
+        "https://telegra.ph/file/956472efa867cd7a5a4f8.jpg",
+        "https://telegra.ph/file/01d3ca96188256d69ceb8.jpg",
+        "https://telegra.ph/file/3abfc46aa0fd49619162e.jpg",
+        "https://telegra.ph/file/b8708611393928f501b1f.jpg",
+        "https://telegra.ph/file/60934bd7b9b1127bef653.jpg",
+        "https://telegra.ph/file/07d68c475cf73a8a4a1f0.jpg",
+        "https://telegra.ph/file/4e2198b9c295a71b72784.jpg",
+        "https://telegra.ph/file/4400c9cd8ff00fbea7c8c.jpg",
+        "https://telegra.ph/file/80f5886de3d1e200c54fc.jpg",
+        "https://telegra.ph/file/b00d0bae0ef5b72c14cdd.jpg",
+        "https://telegra.ph/file/afa2eb7cc36714dc4a835.jpg",
+        "https://telegra.ph/file/7a872d1ae1b98c8b851bb.jpg",
+        "https://telegra.ph/file/ebbd07adcf9c832bf8e78.jpg",
+        "https://telegra.ph/file/82ef735d11450806bc6c1.jpg",
+        "https://telegra.ph/file/f28977e2e8529fb96c593.jpg",
+        "https://telegra.ph/file/a5d5400acdf8166efc175.jpg",
+        "https://telegra.ph/file/61b4bb0b59665f6e4aea9.jpg",
+        "https://telegra.ph/file/30a38df3bd3c7b6cc5ab9.jpg",
+        "https://telegra.ph/file/3a96d72e05ed21e0fc081.jpg",
+        "https://telegra.ph/file/45b2537b1e71db8620076.jpg",
+        "https://telegra.ph/file/7c1b096628f41703e6115.jpg",
+        "https://telegra.ph/file/5bbeb1a5990158df7f239.jpg",
+        "https://telegra.ph/file/5c43380ddbd6751532200.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

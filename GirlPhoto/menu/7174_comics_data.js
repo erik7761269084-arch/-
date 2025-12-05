@@ -1,0 +1,37 @@
+const comicData = {
+    "IDcode": 7174,
+    "title": "蜜汁猫裘 蓝baby （7月6会员资源）",
+    "sourceUrl": "https://telegra.ph/蜜汁猫裘-蓝baby7月6会员资源-08-25",
+    "images": [
+        "https://telegra.ph/file/776528185bb023146cbc9.jpg",
+        "https://telegra.ph/file/834df7bb84817e58fc79c.jpg",
+        "https://telegra.ph/file/ba93341ad8b31399c6ce7.jpg",
+        "https://telegra.ph/file/6292e36d7b4e35eec10cf.jpg",
+        "https://telegra.ph/file/1b6215e1ab577ddfc4746.jpg",
+        "https://telegra.ph/file/c29a91a7da3f0e98da6d2.jpg",
+        "https://telegra.ph/file/fcf8f71d64eaeb56071b5.jpg",
+        "https://telegra.ph/file/2db84d8e025781170e0fc.jpg",
+        "https://telegra.ph/file/62bd25d17e873241dd773.jpg",
+        "https://telegra.ph/file/d2f5b2b0feba607aaa8a6.jpg",
+        "https://telegra.ph/file/cbc0430c9949999f7635b.jpg",
+        "https://telegra.ph/file/1647113160dfa86665e0c.jpg",
+        "https://telegra.ph/file/cd76ab6518566f34301f2.jpg",
+        "https://telegra.ph/file/4c1995a62dc6f65a7549d.jpg",
+        "https://telegra.ph/file/42e7d0d9835190b56c16d.jpg",
+        "https://telegra.ph/file/1f5f9499f8e7eb096bf41.jpg",
+        "https://telegra.ph/file/70729f697ef72267510c8.jpg",
+        "https://telegra.ph/file/a59fe0122fd7236762d92.jpg",
+        "https://telegra.ph/file/f4474ede288382000f231.jpg",
+        "https://telegra.ph/file/0fac130dedf8db0f6be58.jpg",
+        "https://telegra.ph/file/e5b7728f1facf631c2f19.jpg",
+        "https://telegra.ph/file/881e1b44a78d2ef74809e.jpg",
+        "https://telegra.ph/file/c474a9c52bd1038eb9348.jpg",
+        "https://telegra.ph/file/df8f498f8a2a3438397b7.jpg",
+        "https://telegra.ph/file/388c85e1d181f16fd1d07.jpg",
+        "https://telegra.ph/file/aa6d024d7ad974a472967.jpg",
+        "https://telegra.ph/file/51488f5ff1b448436f584.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

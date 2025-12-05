@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 816,
+    "title": "G44不会受伤《快要坏掉的八音盒》小花 [30P-372MB]",
+    "sourceUrl": "https://telegra.ph/G44不会受伤快要坏掉的八音盒小花-30P-372MB-08-25",
+    "images": [
+        "https://telegra.ph/file/9d92d938e70ce7a4646d0.jpg",
+        "https://telegra.ph/file/1be0f10b42a9daadeb664.jpg",
+        "https://telegra.ph/file/316e3d314275e4985ced3.jpg",
+        "https://telegra.ph/file/8dcdedf18e4754a85e9c0.jpg",
+        "https://telegra.ph/file/321ad2f4dcc265a3e8159.jpg",
+        "https://telegra.ph/file/70acb82fcb568bf268f42.jpg",
+        "https://telegra.ph/file/1b1ff135b979c2702e990.jpg",
+        "https://telegra.ph/file/81d3e42acda462e8f973c.jpg",
+        "https://telegra.ph/file/7b849eaee517efdd42cd9.jpg",
+        "https://telegra.ph/file/805664fa155f3b35f6719.jpg",
+        "https://telegra.ph/file/4ff2049b08f6858273c01.jpg",
+        "https://telegra.ph/file/f5d5bd01035b81e004f3c.jpg",
+        "https://telegra.ph/file/f78a1767a235ed4c0200d.jpg",
+        "https://telegra.ph/file/9099b92f7ed877678554e.jpg",
+        "https://telegra.ph/file/34aadefec207deb22ac82.jpg",
+        "https://telegra.ph/file/f7def274979d254f873c7.jpg",
+        "https://telegra.ph/file/0dac1ad7c9ec27c6b2d6a.jpg",
+        "https://telegra.ph/file/b7e4735ab550fb50e660e.jpg",
+        "https://telegra.ph/file/540939e92419895d380e3.jpg",
+        "https://telegra.ph/file/45f12b8729aed00b78412.jpg",
+        "https://telegra.ph/file/594f8a30049705e99d7d7.jpg",
+        "https://telegra.ph/file/17f14c11f91a002232594.jpg",
+        "https://telegra.ph/file/0189299e05f91a5a96e21.jpg",
+        "https://telegra.ph/file/2cf2f2753cdcaff5ba0f8.jpg",
+        "https://telegra.ph/file/6583e08fe8928c075a910.jpg",
+        "https://telegra.ph/file/b1bbfae33ca7e9253134e.jpg",
+        "https://telegra.ph/file/727eb58dea83c51ecc275.jpg",
+        "https://telegra.ph/file/eff34851617e6af5f4732.jpg",
+        "https://telegra.ph/file/92247dfc47b3d98d8f2d2.jpg",
+        "https://telegra.ph/file/a37bdddc2e0c0761d3da6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

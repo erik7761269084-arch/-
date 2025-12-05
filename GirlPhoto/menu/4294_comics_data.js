@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4294,
+    "title": "抖娘利世 JK学姐",
+    "sourceUrl": "https://telegra.ph/抖娘利世-JK学姐-08-27",
+    "images": [
+        "https://telegra.ph/file/92c04692079ea2fc391d6.jpg",
+        "https://telegra.ph/file/89dac071ed025582f4e17.jpg",
+        "https://telegra.ph/file/c82888778b7823bc42956.jpg",
+        "https://telegra.ph/file/75568741a5d93d1db501a.jpg",
+        "https://telegra.ph/file/7ddacb0ba1081a8c1d59c.jpg",
+        "https://telegra.ph/file/b1b6f3db0690e2a6cb018.jpg",
+        "https://telegra.ph/file/e1afcebc37c331ac0b301.jpg",
+        "https://telegra.ph/file/c6e2991fe7a075110abf8.jpg",
+        "https://telegra.ph/file/420eea15559805b14c877.jpg",
+        "https://telegra.ph/file/024b3bb7d30740025567d.jpg",
+        "https://telegra.ph/file/75f57c0e66249c8469a35.jpg",
+        "https://telegra.ph/file/3c41d533566f60cf60608.jpg",
+        "https://telegra.ph/file/ccb76f82e2cdae4cc2f33.jpg",
+        "https://telegra.ph/file/0ca2ad81f573a4212ad7e.jpg",
+        "https://telegra.ph/file/450ff73fa5e0e5492389f.jpg",
+        "https://telegra.ph/file/e80416306a14ee504d9d6.jpg",
+        "https://telegra.ph/file/4d3f1d32232aa18e7a470.jpg",
+        "https://telegra.ph/file/465213f19f4d2ec9dc4f3.jpg",
+        "https://telegra.ph/file/45f21af9e8580c9536cf6.jpg",
+        "https://telegra.ph/file/d37679868d0c63645aea8.jpg",
+        "https://telegra.ph/file/517d4187edfa65d259dab.jpg",
+        "https://telegra.ph/file/5bf731ba38e763e89b437.jpg",
+        "https://telegra.ph/file/f349f58bf21b97719fb82.jpg",
+        "https://telegra.ph/file/4b176e71b6b888c93949a.jpg",
+        "https://telegra.ph/file/0468afd34558d4291f804.jpg",
+        "https://telegra.ph/file/096f2c157a3d603a67fa5.jpg",
+        "https://telegra.ph/file/2932d8b426e45283ed7eb.jpg",
+        "https://telegra.ph/file/67d79773fba8aa3c0fc8d.jpg",
+        "https://telegra.ph/file/265e5d4269a847bf02135.jpg",
+        "https://telegra.ph/file/614d2e4a2e9829c51a148.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2830,
+    "title": "yuuhui玉汇 - 游泳部学姐",
+    "sourceUrl": "https://telegra.ph/yuuhui玉汇---游泳部学姐-08-27",
+    "images": [
+        "https://telegra.ph/file/6c3686eb695586609af95.jpg",
+        "https://telegra.ph/file/f4b87d4340507634f1bb5.jpg",
+        "https://telegra.ph/file/ab50124403791d703f77a.jpg",
+        "https://telegra.ph/file/54f6b274ad5437e33e21e.jpg",
+        "https://telegra.ph/file/5f3b62f372271ee2e5fcf.jpg",
+        "https://telegra.ph/file/6dde412021b7bf82e82b7.jpg",
+        "https://telegra.ph/file/b1a10a57decb9924c24b2.jpg",
+        "https://telegra.ph/file/865ad2783a6e8e2a7659c.jpg",
+        "https://telegra.ph/file/1dbf2838973acf20072ad.jpg",
+        "https://telegra.ph/file/4963ceeffa44cbd6aa07c.jpg",
+        "https://telegra.ph/file/de5f163ffa793f8daffc6.jpg",
+        "https://telegra.ph/file/66abb118205462c36ec3f.jpg",
+        "https://telegra.ph/file/516abfb492eadb00600cc.jpg",
+        "https://telegra.ph/file/3bfc6f05e475a18b525b7.jpg",
+        "https://telegra.ph/file/7fbb59d127b917cc2df36.jpg",
+        "https://telegra.ph/file/6b6ab27479fc90ca9efc7.jpg",
+        "https://telegra.ph/file/5644a593050ccc4cb84d5.jpg",
+        "https://telegra.ph/file/1fc2635141f40ec72002f.jpg",
+        "https://telegra.ph/file/a4bdc91be7898ece51210.jpg",
+        "https://telegra.ph/file/df670a549c8cc298eb0a6.jpg",
+        "https://telegra.ph/file/138b3f44421076071a7a1.jpg",
+        "https://telegra.ph/file/bb25f793628555cc13fdd.jpg",
+        "https://telegra.ph/file/69bc2c876524274e61980.jpg",
+        "https://telegra.ph/file/064bf009155db64aa8de6.jpg",
+        "https://telegra.ph/file/90451e12a71ec24d5dc2b.jpg",
+        "https://telegra.ph/file/39fe333cd3fbf1b6ae415.jpg",
+        "https://telegra.ph/file/b90f9767cc72eebcd6b95.jpg",
+        "https://telegra.ph/file/b29491c68aa17a1608a2b.jpg",
+        "https://telegra.ph/file/c5c51569be4b7f8480a66.jpg",
+        "https://telegra.ph/file/2cb0f3581e98fd167d8a8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

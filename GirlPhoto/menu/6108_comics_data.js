@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6108,
+    "title": "倦倦喵 - 蓝莓皮肤",
+    "sourceUrl": "https://telegra.ph/倦倦喵---蓝莓皮肤-08-27",
+    "images": [
+        "https://telegra.ph/file/f0a89e77106bf02e90d34.jpg",
+        "https://telegra.ph/file/fe5f96368203fc1ed54b9.jpg",
+        "https://telegra.ph/file/806157595f120c7aca429.jpg",
+        "https://telegra.ph/file/a104254c849d39e65c385.jpg",
+        "https://telegra.ph/file/1ee74ac9693a1034b7212.jpg",
+        "https://telegra.ph/file/a9e0c95c73c23cc64ab1d.jpg",
+        "https://telegra.ph/file/5721319e1e8353e2bcaaf.jpg",
+        "https://telegra.ph/file/924d296ec079dc20309e2.jpg",
+        "https://telegra.ph/file/f7067d33ad3bac3031e10.jpg",
+        "https://telegra.ph/file/1f308746f570806d439ba.jpg",
+        "https://telegra.ph/file/9383881394ccc0053956e.jpg",
+        "https://telegra.ph/file/093d5f7ef15f67dd55ea5.jpg",
+        "https://telegra.ph/file/dc570e7a08bbd8c60d998.jpg",
+        "https://telegra.ph/file/de284a09c4530b5a41dd5.jpg",
+        "https://telegra.ph/file/40522dc61f820b098564d.jpg",
+        "https://telegra.ph/file/15c695689f2b394c0b3fb.jpg",
+        "https://telegra.ph/file/5b8cbb2eca4b8048c2fe1.jpg",
+        "https://telegra.ph/file/766e5be384d74bb738a04.jpg",
+        "https://telegra.ph/file/56c7f8070b2c43d7d8702.jpg",
+        "https://telegra.ph/file/6dd0e87c6f1d4dae065d1.jpg",
+        "https://telegra.ph/file/659cddaee4c242fad4894.jpg",
+        "https://telegra.ph/file/fe42da2d351a028f09a7f.jpg",
+        "https://telegra.ph/file/02102daa013be43b64bfe.jpg",
+        "https://telegra.ph/file/ea48cf771ec86f78dbd79.jpg",
+        "https://telegra.ph/file/a792d4e0699a3d0b63760.jpg",
+        "https://telegra.ph/file/76df8eb56053ff80ef476.jpg",
+        "https://telegra.ph/file/80fcd17dbf0a5dece34c5.jpg",
+        "https://telegra.ph/file/3d09a06407e56348d9aeb.jpg",
+        "https://telegra.ph/file/63ffb26642654c99a0c71.jpg",
+        "https://telegra.ph/file/beeab442c11c5191d242d.jpg",
+        "https://telegra.ph/file/dd668d08264454aa1335d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

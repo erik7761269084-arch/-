@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7587,
+    "title": "木绵绵OwO - 蕾姆婚纱",
+    "sourceUrl": "https://telegra.ph/木绵绵OwO---蕾姆婚纱-08-27",
+    "images": [
+        "https://telegra.ph/file/205e0448ec68c39da976c.jpg",
+        "https://telegra.ph/file/fe018a4815519083845d3.jpg",
+        "https://telegra.ph/file/dddab329d9c5623519643.jpg",
+        "https://telegra.ph/file/6ee57f9f9f739afdc4764.jpg",
+        "https://telegra.ph/file/95c4649168d0dc22a440d.jpg",
+        "https://telegra.ph/file/1eeba408260ef065b2180.jpg",
+        "https://telegra.ph/file/7240e0ae9c7b8adafd4c7.jpg",
+        "https://telegra.ph/file/deb213a674bf791185c17.jpg",
+        "https://telegra.ph/file/822db4ad486342c4f4bde.jpg",
+        "https://telegra.ph/file/17661a8ea2d6a06b8032d.jpg",
+        "https://telegra.ph/file/a64b18af67755cc682d12.jpg",
+        "https://telegra.ph/file/2753bc0d2dd9ab3750a57.jpg",
+        "https://telegra.ph/file/b7a36caa3e863fd380b94.jpg",
+        "https://telegra.ph/file/21adc41e4f7bab7ceef1b.jpg",
+        "https://telegra.ph/file/c30569512df40d3d1846b.jpg",
+        "https://telegra.ph/file/7203220a28c3bd6fec222.jpg",
+        "https://telegra.ph/file/1d3246c83f2e1eca4ca9a.jpg",
+        "https://telegra.ph/file/d8607ac6f6599c497e1bc.jpg",
+        "https://telegra.ph/file/994b50e0a02bd1bc97333.jpg",
+        "https://telegra.ph/file/e19ae18c873128f225129.jpg",
+        "https://telegra.ph/file/e0c2ef6bee23bb5433605.jpg",
+        "https://telegra.ph/file/6549baba0f08982699e30.jpg",
+        "https://telegra.ph/file/82cd08682edf5d19c92b3.jpg",
+        "https://telegra.ph/file/0d94d78db3aad71b9e700.jpg",
+        "https://telegra.ph/file/97eb8490751c1a18c5f6d.jpg",
+        "https://telegra.ph/file/7448a5672e876f163d28c.jpg",
+        "https://telegra.ph/file/2c6c501569052d3710d27.jpg",
+        "https://telegra.ph/file/bd9b11617579d538102c9.jpg",
+        "https://telegra.ph/file/39f59bad8cf0500159d0e.jpg",
+        "https://telegra.ph/file/ad406a04d61771025c805.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

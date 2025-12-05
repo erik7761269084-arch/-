@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 20667,
+    "title": "美美丘比酱 雪兔查理 – 百合剧情版",
+    "sourceUrl": "https://telegra.ph/美美丘比酱-雪兔查理--百合剧情版-08-29",
+    "images": [
+        "https://telegra.ph/file/2e66abb09af4fc69c4093.jpg",
+        "https://telegra.ph/file/5abd92a38321b91f4be1b.jpg",
+        "https://telegra.ph/file/8a7244c1ba9daaba0a9cd.jpg",
+        "https://telegra.ph/file/db4afa7f578cb9aa8b597.jpg",
+        "https://telegra.ph/file/ed34e54488373f900d8c7.jpg",
+        "https://telegra.ph/file/e721084e5777f3c8720cb.jpg",
+        "https://telegra.ph/file/b72d8fd4128fdd501f2b0.jpg",
+        "https://telegra.ph/file/b86ed871ea280d31f3a95.jpg",
+        "https://telegra.ph/file/e4ead54b86a69e52cf9cc.jpg",
+        "https://telegra.ph/file/d26b537c01bd8c75d48f7.jpg",
+        "https://telegra.ph/file/dc3d6866a38080657e9a1.jpg",
+        "https://telegra.ph/file/0d77e7c2dc074f6dd7708.jpg",
+        "https://telegra.ph/file/d18bf8a7af4ac8daff023.jpg",
+        "https://telegra.ph/file/d7724bf2757d88f9b8492.jpg",
+        "https://telegra.ph/file/f6f4247c543ee1a1479c1.jpg",
+        "https://telegra.ph/file/4979476147b89e8680f6c.jpg",
+        "https://telegra.ph/file/59b7456aa727e4803a109.jpg",
+        "https://telegra.ph/file/253f6dbb3588af58ef4e3.jpg",
+        "https://telegra.ph/file/119d2d21ea7395f85c0c2.jpg",
+        "https://telegra.ph/file/48709ffb4378cd027f738.jpg",
+        "https://telegra.ph/file/9ace4e1441c6f55c03d4a.jpg",
+        "https://telegra.ph/file/4d0c742aa2ea42f6c95c0.jpg",
+        "https://telegra.ph/file/d472989321c126759699a.jpg",
+        "https://telegra.ph/file/426fe09ae063b1e5b8789.jpg",
+        "https://telegra.ph/file/a96cfd18eb312f995ce0e.jpg",
+        "https://telegra.ph/file/65960286c1cad7687b0fa.jpg",
+        "https://telegra.ph/file/c8d8a9c4c4b469f12371f.jpg",
+        "https://telegra.ph/file/9d0abc8be84d3aa19f68d.jpg",
+        "https://telegra.ph/file/59a97661de24c780c16c7.jpg",
+        "https://telegra.ph/file/8ea74e65a7a556cf5b554.jpg",
+        "https://telegra.ph/file/4210767130bc6c4c971b9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,39 @@
+const comicData = {
+    "IDcode": 4689,
+    "title": "二佐Nisa – 半透明女郎 29P 282MB",
+    "sourceUrl": "https://telegra.ph/二佐Nisa--半透明女郎-29P-282MB-08-25",
+    "images": [
+        "https://telegra.ph/file/3c08fe7bd5cd950c8c939.jpg",
+        "https://telegra.ph/file/6923dd654fc07acc20c6a.jpg",
+        "https://telegra.ph/file/044bc4c6e39f9a0e10ee3.jpg",
+        "https://telegra.ph/file/2afd6d1269760c0ae8f5a.jpg",
+        "https://telegra.ph/file/a363c29ab9fa7741ff77d.jpg",
+        "https://telegra.ph/file/4663ff9dc953f76426935.jpg",
+        "https://telegra.ph/file/285b35d03377f02a2eacb.jpg",
+        "https://telegra.ph/file/d587c3b048c438c522baf.jpg",
+        "https://telegra.ph/file/ee1037075f39722c87186.jpg",
+        "https://telegra.ph/file/044d7c8f7bdbf620b5890.jpg",
+        "https://telegra.ph/file/08a2dcda9eb12a074f68f.jpg",
+        "https://telegra.ph/file/acdc6948e5b1c36569167.jpg",
+        "https://telegra.ph/file/4fc47c397fe12da0b56e0.jpg",
+        "https://telegra.ph/file/67629e622810ab99999e1.jpg",
+        "https://telegra.ph/file/fbcde9ef805b736c215b8.jpg",
+        "https://telegra.ph/file/79b4e4f86299df6338d93.jpg",
+        "https://telegra.ph/file/c65550367bdb7880ef9cc.jpg",
+        "https://telegra.ph/file/9127d9d8260c68ed8fb4c.jpg",
+        "https://telegra.ph/file/7566a32c7834122818dea.jpg",
+        "https://telegra.ph/file/ce8aebdd5ed2c2d65eb5d.jpg",
+        "https://telegra.ph/file/42f8a8d0c3a36ebeec3e1.jpg",
+        "https://telegra.ph/file/766546cd4a2e3f229eb17.jpg",
+        "https://telegra.ph/file/523693e1d05848288dcea.jpg",
+        "https://telegra.ph/file/ec54c233fe6d806198df4.jpg",
+        "https://telegra.ph/file/e7f116559c1aec25891ff.jpg",
+        "https://telegra.ph/file/4059dc887a458e7d4fc7e.jpg",
+        "https://telegra.ph/file/9e736f4ec94c2d41ac380.jpg",
+        "https://telegra.ph/file/00117796b0eaf52b59b74.jpg",
+        "https://telegra.ph/file/353fcc4847a8bcb9d2598.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

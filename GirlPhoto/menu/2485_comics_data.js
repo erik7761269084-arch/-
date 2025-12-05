@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 2485,
+    "title": "Umeko J - Ada Wong",
+    "sourceUrl": "https://telegra.ph/Umeko-J---Ada-Wong-08-28",
+    "images": [
+        "https://telegra.ph/file/4e991d97fc2f1d06733e3.jpg",
+        "https://telegra.ph/file/22cfb972e005f1666e379.jpg",
+        "https://telegra.ph/file/4853dbb36804f7f48c485.jpg",
+        "https://telegra.ph/file/f8d43efe1eec25c6b6783.jpg",
+        "https://telegra.ph/file/676033b36633b27df5948.jpg",
+        "https://telegra.ph/file/a9686713d8cf9f3e929b7.jpg",
+        "https://telegra.ph/file/6e288feed75609a709713.jpg",
+        "https://telegra.ph/file/0a27d38cd90c51f228e3a.jpg",
+        "https://telegra.ph/file/23b272f837df151159c8e.jpg",
+        "https://telegra.ph/file/e3b0f635f6628e2a5e26e.jpg",
+        "https://telegra.ph/file/a08518fa897720ebffe3e.jpg",
+        "https://telegra.ph/file/7505c4f65f929ebee75d5.jpg",
+        "https://telegra.ph/file/0d6e4b53d27d2d948b508.jpg",
+        "https://telegra.ph/file/f59f322ff5f50ad423e8c.jpg",
+        "https://telegra.ph/file/dd2ef219954f7e4f38989.jpg",
+        "https://telegra.ph/file/3e2cdca3a482d8d6d4882.jpg",
+        "https://telegra.ph/file/50bcd95953b434d618b92.jpg",
+        "https://telegra.ph/file/7ab1579d59af9793abe20.jpg",
+        "https://telegra.ph/file/c94e70ba8b801d4b8c51f.jpg",
+        "https://telegra.ph/file/4bbe15ea622d0f4eefdd1.jpg",
+        "https://telegra.ph/file/03bf89e6a4fbbcc225a53.jpg",
+        "https://telegra.ph/file/4d986665eb741b587eaa6.jpg",
+        "https://telegra.ph/file/9e65ed6fc68f6289a901d.jpg",
+        "https://telegra.ph/file/e3d85559b3ae63a85cf8b.jpg",
+        "https://telegra.ph/file/0c33a1dca573f62b2e3de.jpg",
+        "https://telegra.ph/file/3129e54a010afaf825233.jpg",
+        "https://telegra.ph/file/a379376e392f1791ba3f6.jpg",
+        "https://telegra.ph/file/965e667fa67a45863cf5a.jpg",
+        "https://telegra.ph/file/2f57711c125002b2141e9.jpg",
+        "https://telegra.ph/file/658bba9d80a3b2cf17ba7.jpg",
+        "https://telegra.ph/file/a7f97d8e771963723f778.jpg",
+        "https://telegra.ph/file/e9caa38a88aa418f3ccdf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

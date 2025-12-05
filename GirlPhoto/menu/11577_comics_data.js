@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11577,
+    "title": "XIUREN NO.8398 杏子Yada",
+    "sourceUrl": "https://telegra.ph/XIUREN-NO8398-杏子Yada-08-29",
+    "images": [
+        "https://telegra.ph/file/e983077204395aca99502.jpg",
+        "https://telegra.ph/file/7e47db300c5c8d307547a.jpg",
+        "https://telegra.ph/file/9cae7604c7bf0e3274826.jpg",
+        "https://telegra.ph/file/213035181aac6aa8c7657.jpg",
+        "https://telegra.ph/file/d8a584d8f0aea0b35a04d.jpg",
+        "https://telegra.ph/file/bb59a12ef32c9597addfd.jpg",
+        "https://telegra.ph/file/a0b1898f100a63e785318.jpg",
+        "https://telegra.ph/file/4846fd84498cc9fb9beaa.jpg",
+        "https://telegra.ph/file/9734abfa6b400956689c0.jpg",
+        "https://telegra.ph/file/0246a0a882413ce3289ce.jpg",
+        "https://telegra.ph/file/fe9bf36302268e68834b4.jpg",
+        "https://telegra.ph/file/ff394fee3312a0a847e86.jpg",
+        "https://telegra.ph/file/54d6f3a79473899b8972e.jpg",
+        "https://telegra.ph/file/7285f18b519848eb0b963.jpg",
+        "https://telegra.ph/file/16661a642212d7bdfded6.jpg",
+        "https://telegra.ph/file/dd74029d889f8e5169efd.jpg",
+        "https://telegra.ph/file/cf06ea11b724cfd1cbe77.jpg",
+        "https://telegra.ph/file/2e83368e2dba81c800b1d.jpg",
+        "https://telegra.ph/file/37a702df41406fd530d2b.jpg",
+        "https://telegra.ph/file/95e47b79686b3b48a3443.jpg",
+        "https://telegra.ph/file/ce9f49bb8f3080e355c95.jpg",
+        "https://telegra.ph/file/fa2501ef97507f818599e.jpg",
+        "https://telegra.ph/file/7526885ba46db23389dd7.jpg",
+        "https://telegra.ph/file/e47f51ac25743e9aebcf9.jpg",
+        "https://telegra.ph/file/8cf25f8bdc7a64a6065c2.jpg",
+        "https://telegra.ph/file/192e87c3d1f3b951ec63f.jpg",
+        "https://telegra.ph/file/4f886b4408f6e4b60f134.jpg",
+        "https://telegra.ph/file/70a3e60c5c74bbf8f834c.jpg",
+        "https://telegra.ph/file/a4212088ed138450211ea.jpg",
+        "https://telegra.ph/file/97a064f3d7816c2852a96.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13027,
+    "title": "樱晚gigi - 珠光宝气",
+    "sourceUrl": "https://telegra.ph/福利COS-网络红人樱晚gigi---珠光宝气-08-26",
+    "images": [
+        "https://telegra.ph/file/469d08351029d1408d9e1.jpg",
+        "https://telegra.ph/file/d75f171ba20af25d1bed6.jpg",
+        "https://telegra.ph/file/5e92aaf81fe5ff39032b5.jpg",
+        "https://telegra.ph/file/836add8e5f8df0c821da6.jpg",
+        "https://telegra.ph/file/0fc657496ef7e75d33d56.jpg",
+        "https://telegra.ph/file/a5aa2e4a0598b258acd9c.jpg",
+        "https://telegra.ph/file/c6261eb195c9b19d0f73d.jpg",
+        "https://telegra.ph/file/dd2b3349afe80e21185b3.jpg",
+        "https://telegra.ph/file/1da9f8ffc749d465877de.jpg",
+        "https://telegra.ph/file/ec78dbf30278b13f1b039.jpg",
+        "https://telegra.ph/file/0be9f34d8952b284a33e0.jpg",
+        "https://telegra.ph/file/629b817807ad367eb8194.jpg",
+        "https://telegra.ph/file/a65e4d4b55f50574296a5.jpg",
+        "https://telegra.ph/file/a33c8f638e8d720f4e81a.jpg",
+        "https://telegra.ph/file/09af499381e3cb60758a4.jpg",
+        "https://telegra.ph/file/ad5e3a89088a5e11e9840.jpg",
+        "https://telegra.ph/file/faddd79fe8815c3c81e86.jpg",
+        "https://telegra.ph/file/8323557e8a35daa064ed1.jpg",
+        "https://telegra.ph/file/9f4b6bd5fffb9e9ad6385.jpg",
+        "https://telegra.ph/file/ab1fdfc64673234c7a2b7.jpg",
+        "https://telegra.ph/file/599439aa6bac9d1fca9d7.jpg",
+        "https://telegra.ph/file/98b5063afda931c820518.jpg",
+        "https://telegra.ph/file/67c25f7bddfb3233d17c4.jpg",
+        "https://telegra.ph/file/e3ef35bd43b7a9c1f3753.jpg",
+        "https://telegra.ph/file/d987e930ab2b217e49200.jpg",
+        "https://telegra.ph/file/4cdbcb77bf3264ea24668.jpg",
+        "https://telegra.ph/file/421a858e04a7820f05178.jpg",
+        "https://telegra.ph/file/6c72958eb49f57f8c9c9e.jpg",
+        "https://telegra.ph/file/143613939dd42feb05e77.jpg",
+        "https://telegra.ph/file/ec6551e2537472cfa88d4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

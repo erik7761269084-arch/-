@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4303,
+    "title": "抖娘利世 OL午间自拍",
+    "sourceUrl": "https://telegra.ph/抖娘利世-OL午间自拍-08-27",
+    "images": [
+        "https://telegra.ph/file/98b85721a1da42449b63f.jpg",
+        "https://telegra.ph/file/b7dcb3d0a56701ba635cb.jpg",
+        "https://telegra.ph/file/cd742fb4baf929b634f7e.jpg",
+        "https://telegra.ph/file/1a1752d51cd6402db754c.jpg",
+        "https://telegra.ph/file/43c9edd8b97393be94a9a.jpg",
+        "https://telegra.ph/file/1ad36ea291f76f51422ed.jpg",
+        "https://telegra.ph/file/49763d96dacbf64e35acd.jpg",
+        "https://telegra.ph/file/0b54422e16d6c8b509b36.jpg",
+        "https://telegra.ph/file/8a9f90d39c7de141c479e.jpg",
+        "https://telegra.ph/file/2a3a1a0d6eecbdfb4e66f.jpg",
+        "https://telegra.ph/file/41a4425010f83677e0b16.jpg",
+        "https://telegra.ph/file/515c6e798ca87ee7d8690.jpg",
+        "https://telegra.ph/file/817b6695ed5708765a5d3.jpg",
+        "https://telegra.ph/file/56bd41e874e80bfc449da.jpg",
+        "https://telegra.ph/file/ff9489bae6e3eb0032461.jpg",
+        "https://telegra.ph/file/b395b44c4cc01b3c6f511.jpg",
+        "https://telegra.ph/file/ce4b6c7e0c6207df79505.jpg",
+        "https://telegra.ph/file/f0bb9e57be2c875f7708d.jpg",
+        "https://telegra.ph/file/d910a7e73798836018ea4.jpg",
+        "https://telegra.ph/file/64b26d4fa2bf91c1d72f4.jpg",
+        "https://telegra.ph/file/4b232e9de43ef5019ea05.jpg",
+        "https://telegra.ph/file/c89601aa6b37abaef4a56.jpg",
+        "https://telegra.ph/file/b34a14b594445752827af.jpg",
+        "https://telegra.ph/file/91f9372fe2ec7b0aa79c8.jpg",
+        "https://telegra.ph/file/77e14653344b6de0a6056.jpg",
+        "https://telegra.ph/file/4e1ba5757e405b74c22e1.jpg",
+        "https://telegra.ph/file/4b55ecb5ad60c2de6409d.jpg",
+        "https://telegra.ph/file/96d51d234ba5950eecb59.jpg",
+        "https://telegra.ph/file/8cd697e925d011b9c52ac.jpg",
+        "https://telegra.ph/file/b1be5ee45d639e43b9789.jpg",
+        "https://telegra.ph/file/3e23fe3ba3580267cf4fe.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

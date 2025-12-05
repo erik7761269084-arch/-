@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3298,
+    "title": "白银 - 纯洁的白色",
+    "sourceUrl": "https://telegra.ph/白银---纯洁的白色-08-27",
+    "images": [
+        "https://telegra.ph/file/c87efd1a9280e98d8d5b4.jpg",
+        "https://telegra.ph/file/485186c080183a3074076.jpg",
+        "https://telegra.ph/file/ece291f16395d2b6ad849.jpg",
+        "https://telegra.ph/file/3713ac6c3112ade19ed2d.jpg",
+        "https://telegra.ph/file/5d6ea7ad6da5d5eb1e73a.jpg",
+        "https://telegra.ph/file/518120d38c12be039738f.jpg",
+        "https://telegra.ph/file/fdea77fb0f380ec6040f3.jpg",
+        "https://telegra.ph/file/c6798078a11e5549852aa.jpg",
+        "https://telegra.ph/file/41d1ce60a7e6c44a988b4.jpg",
+        "https://telegra.ph/file/8202612dcecc97af61ab8.jpg",
+        "https://telegra.ph/file/8aed907956b429e6213d8.jpg",
+        "https://telegra.ph/file/ab824dfb06691cda6e31e.jpg",
+        "https://telegra.ph/file/e155053a9ba8875da9ca2.jpg",
+        "https://telegra.ph/file/fe4246f93c5846a2482e0.jpg",
+        "https://telegra.ph/file/4d6167acf52b6e5048ff0.jpg",
+        "https://telegra.ph/file/d07af17ebeb1c3806435c.jpg",
+        "https://telegra.ph/file/0ed34fbee60682525db58.jpg",
+        "https://telegra.ph/file/64ef37c0ff3f43366b703.jpg",
+        "https://telegra.ph/file/fd64e35e1518fb2af1bf1.jpg",
+        "https://telegra.ph/file/0fcd66a00eaf8cda75b4b.jpg",
+        "https://telegra.ph/file/56181ec3151ca63e6bc7f.jpg",
+        "https://telegra.ph/file/f420d5f08d82958d94b34.jpg",
+        "https://telegra.ph/file/e695a7a0b771fa6324b34.jpg",
+        "https://telegra.ph/file/64fdb5a53ab9c8286c701.jpg",
+        "https://telegra.ph/file/6e3ea95daf0a456666073.jpg",
+        "https://telegra.ph/file/d8d2bc4c7f424058725de.jpg",
+        "https://telegra.ph/file/d800a921b35d4310253f7.jpg",
+        "https://telegra.ph/file/e9dee3755b14b8c6339bc.jpg",
+        "https://telegra.ph/file/5a1b9e62f9377eb1d8639.jpg",
+        "https://telegra.ph/file/61fb685ccef4917b6cfaa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4921,
+    "title": "封疆疆v 碧蓝档案 – 妃咲兔女郎",
+    "sourceUrl": "https://telegra.ph/封疆疆v-碧蓝档案--妃咲兔女郎-08-29",
+    "images": [
+        "https://telegra.ph/file/61fe0b2809c0c04eaa191.jpg",
+        "https://telegra.ph/file/7bf139973277cce6d313d.jpg",
+        "https://telegra.ph/file/1aa2d6e31f5742cf0125c.jpg",
+        "https://telegra.ph/file/b751a7c5191559628c704.jpg",
+        "https://telegra.ph/file/ead0fc8a97ded59279f0c.jpg",
+        "https://telegra.ph/file/a9eb715999a05a4a2ebe2.jpg",
+        "https://telegra.ph/file/6baa19881870a8c6ff9b6.jpg",
+        "https://telegra.ph/file/e2a72b33c4329080c15a7.jpg",
+        "https://telegra.ph/file/5c9853669d5cadb4fbc9f.jpg",
+        "https://telegra.ph/file/65e9d190557d158c4c2da.jpg",
+        "https://telegra.ph/file/f465366c6b8c748052a1c.jpg",
+        "https://telegra.ph/file/f98a8a285a444629a6744.jpg",
+        "https://telegra.ph/file/d1991e16e7c8e815cf618.jpg",
+        "https://telegra.ph/file/b727c6b42d42b05999e90.jpg",
+        "https://telegra.ph/file/7a4d77bc06d8c01e19f27.jpg",
+        "https://telegra.ph/file/4d8ae97bee1792d0cfae0.jpg",
+        "https://telegra.ph/file/913f93aeceff256ea2e85.jpg",
+        "https://telegra.ph/file/bef12758f17ca97069842.jpg",
+        "https://telegra.ph/file/d61652eff5b71a567cbcd.jpg",
+        "https://telegra.ph/file/04be4d3210f8201261abc.jpg",
+        "https://telegra.ph/file/19fdc71e92df589051617.jpg",
+        "https://telegra.ph/file/3efaaa112daaa4790aa03.jpg",
+        "https://telegra.ph/file/ed28f27b14d48dc3fc898.jpg",
+        "https://telegra.ph/file/89ba2a73b8a963f7a5c91.jpg",
+        "https://telegra.ph/file/69ea08cd44945ba5307d4.jpg",
+        "https://telegra.ph/file/f98c4942d33d141a0b518.jpg",
+        "https://telegra.ph/file/bd0ab483e553fa804d03e.jpg",
+        "https://telegra.ph/file/0a3a93bebab6b76ea05de.jpg",
+        "https://telegra.ph/file/b4ea0700fea1a0f964d8a.jpg",
+        "https://telegra.ph/file/de785213abba465433dd2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

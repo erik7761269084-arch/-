@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 434,
+    "title": "Byoru - Queen Marika玛丽卡女王 艾尔登法环",
+    "sourceUrl": "https://telegra.ph/Byoru---Queen-Marika玛丽卡女王-艾尔登法环-08-29",
+    "images": [
+        "https://telegra.ph/file/899615cc7ee64ff8a87c5.jpg",
+        "https://telegra.ph/file/f7957891da0e988b24df9.jpg",
+        "https://telegra.ph/file/87dfb74a9b7c6e9a44ba6.jpg",
+        "https://telegra.ph/file/7573d88cf369d2f2c242a.jpg",
+        "https://telegra.ph/file/4cbc716f04323d355b235.jpg",
+        "https://telegra.ph/file/604515c0ee0d5d4db7c77.jpg",
+        "https://telegra.ph/file/09346bf6f211e00997dde.jpg",
+        "https://telegra.ph/file/eccc019047035a15d83fa.jpg",
+        "https://telegra.ph/file/8b3d5d341e744c6e61021.jpg",
+        "https://telegra.ph/file/2a572fb7daebdfd00d697.jpg",
+        "https://telegra.ph/file/8e95b08dfef0d495e1764.jpg",
+        "https://telegra.ph/file/7a8b1844b5519c8d5976f.jpg",
+        "https://telegra.ph/file/c757e63c2395947d560c4.jpg",
+        "https://telegra.ph/file/9573ba6947a65e03b30ba.jpg",
+        "https://telegra.ph/file/32d04c0c4cf37424eaf63.jpg",
+        "https://telegra.ph/file/06152b735d70fc7dda761.jpg",
+        "https://telegra.ph/file/106629305e43add44d6fd.jpg",
+        "https://telegra.ph/file/9b5114cb4a862a88c08a3.jpg",
+        "https://telegra.ph/file/3299bdebe1734b9937b47.jpg",
+        "https://telegra.ph/file/dd0f2396fe886fe063c15.jpg",
+        "https://telegra.ph/file/8f141078a0ea998231c6d.jpg",
+        "https://telegra.ph/file/3ff4f0df8d02dc7bb224d.jpg",
+        "https://telegra.ph/file/28285edc6c587d385710b.jpg",
+        "https://telegra.ph/file/1297d1a393e2381461aa1.jpg",
+        "https://telegra.ph/file/19ff11dedecf8df67c4eb.jpg",
+        "https://telegra.ph/file/35ba342e7a5e6cfebf05c.jpg",
+        "https://telegra.ph/file/377081925ef402e0c6e70.jpg",
+        "https://telegra.ph/file/465ef8a102b1dc86e8d2b.jpg",
+        "https://telegra.ph/file/6d8b9a6a8bcad704b98ab.jpg",
+        "https://telegra.ph/file/6d28ed96d30f15925082a.jpg",
+        "https://telegra.ph/file/14de0609e80a24db2427e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

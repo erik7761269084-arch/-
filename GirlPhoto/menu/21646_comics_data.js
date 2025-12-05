@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21646,
+    "title": "MinHarin – No make up",
+    "sourceUrl": "https://telegra.ph/MinHarin--No-make-up-08-29",
+    "images": [
+        "https://telegra.ph/file/490aed06a2841a62f8131.jpg",
+        "https://telegra.ph/file/3045c29b8c4955d361328.jpg",
+        "https://telegra.ph/file/43b3afed9f973ce4ade9a.jpg",
+        "https://telegra.ph/file/bba04a51784c030b2cbd2.jpg",
+        "https://telegra.ph/file/ae98ad3433ffd83abfb1c.jpg",
+        "https://telegra.ph/file/1124a87e7ec0d1b4d9eaf.jpg",
+        "https://telegra.ph/file/165c5d694b5fd14bcef1d.jpg",
+        "https://telegra.ph/file/6070f8ba4996098fd8249.jpg",
+        "https://telegra.ph/file/e233e5499bf41165f9d0b.jpg",
+        "https://telegra.ph/file/2a78ddb08df50991de572.jpg",
+        "https://telegra.ph/file/797828b4bd0765769ca6b.jpg",
+        "https://telegra.ph/file/00fd8bc96c00f12977822.jpg",
+        "https://telegra.ph/file/8db626f2a11ed1b8b1f8d.jpg",
+        "https://telegra.ph/file/71a4d1dca1bfb3b3bd6af.jpg",
+        "https://telegra.ph/file/a6bf4a3ecb2562d6dd29b.jpg",
+        "https://telegra.ph/file/e886dd68ad3f14c827690.jpg",
+        "https://telegra.ph/file/60944072ce5226ab5b2a8.jpg",
+        "https://telegra.ph/file/a19dbccd4ff48cdb613e6.jpg",
+        "https://telegra.ph/file/781375cecaf5fc45e4299.jpg",
+        "https://telegra.ph/file/4d7267dad05682dd5e4c2.jpg",
+        "https://telegra.ph/file/ab5c662b04ab31805b66c.jpg",
+        "https://telegra.ph/file/905c59a46589d7ad3c0ca.jpg",
+        "https://telegra.ph/file/29ed5fbefe28a62d11fed.jpg",
+        "https://telegra.ph/file/c8754ae025637199cdf87.jpg",
+        "https://telegra.ph/file/3ac2e8ff6646eb83751b9.jpg",
+        "https://telegra.ph/file/1eb803b3daf407c3e1073.jpg",
+        "https://telegra.ph/file/d1ce074a245a3ca57a581.jpg",
+        "https://telegra.ph/file/671877114f0eafb5a3ccb.jpg",
+        "https://telegra.ph/file/4881725fe82e611ff8a29.jpg",
+        "https://telegra.ph/file/e75cc6b55bad24975bd2f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

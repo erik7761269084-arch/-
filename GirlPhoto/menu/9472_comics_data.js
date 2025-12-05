@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9472,
+    "title": "依酱 清纯女仆",
+    "sourceUrl": "https://telegra.ph/%E4%BE%9D%E9%85%B1-%E6%B8%85%E7%BA%AF%E5%A5%B3%E4%BB%86-08-23",
+    "images": [
+        "https://telegra.ph/file/cea7ef706f04a81039d39.jpg",
+        "https://telegra.ph/file/c8c3f252bde1e7c760875.jpg",
+        "https://telegra.ph/file/087feb12eb0b8d974404e.jpg",
+        "https://telegra.ph/file/4ca6899bfe5f61cd73b2e.jpg",
+        "https://telegra.ph/file/89c15e1b39c81a8fa151d.jpg",
+        "https://telegra.ph/file/68cd336111049db75d178.jpg",
+        "https://telegra.ph/file/2cc30b5c175f06c884848.jpg",
+        "https://telegra.ph/file/e8254ca06116eef1d25f3.jpg",
+        "https://telegra.ph/file/cf42dd1f30a2a8b25c3f7.jpg",
+        "https://telegra.ph/file/0ca4b7fa72c1bc7263d5a.jpg",
+        "https://telegra.ph/file/6f3ed54ff41033316a9d1.jpg",
+        "https://telegra.ph/file/f23e4f78324cdaa4c94bd.jpg",
+        "https://telegra.ph/file/3264c2b10d05b947e98a9.jpg",
+        "https://telegra.ph/file/4e973936d6a73df49a429.jpg",
+        "https://telegra.ph/file/2dc84d4706fccdd5e0a07.jpg",
+        "https://telegra.ph/file/6173827980a56d84c5894.jpg",
+        "https://telegra.ph/file/4f2dd960b28039266e195.jpg",
+        "https://telegra.ph/file/6f5b519abea728e22414c.jpg",
+        "https://telegra.ph/file/27ee09b1e844aebb5be59.jpg",
+        "https://telegra.ph/file/0f111bea20871e81598f4.jpg",
+        "https://telegra.ph/file/84726e1fd9012c5feee99.jpg",
+        "https://telegra.ph/file/a8e9e2c80c9cb2018ac3b.jpg",
+        "https://telegra.ph/file/4e4b0649b4c298decd739.jpg",
+        "https://telegra.ph/file/e898208c3d6b973825ec3.jpg",
+        "https://telegra.ph/file/5c1bad0c87cda6c0de92c.jpg",
+        "https://telegra.ph/file/cf2cddb1a869ff5d2b254.jpg",
+        "https://telegra.ph/file/ef89da5090c1353ebc741.jpg",
+        "https://telegra.ph/file/a5132ac2485c1f942f4d9.jpg",
+        "https://telegra.ph/file/4ed0ffd4e4db656cd2b86.jpg",
+        "https://telegra.ph/file/aca9cb8456764811ac1f5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5265,
+    "title": "果咩酱 粉色机甲",
+    "sourceUrl": "https://telegra.ph/%E6%9E%9C%E5%92%A9%E9%85%B1-%E7%B2%89%E8%89%B2%E6%9C%BA%E7%94%B2-08-20",
+    "images": [
+        "https://telegra.ph/file/4fac01a8ec19cd805a300.jpg",
+        "https://telegra.ph/file/f6608c1ee5658ab59cdb5.jpg",
+        "https://telegra.ph/file/d38d30b6574f0ea7bda5f.jpg",
+        "https://telegra.ph/file/83700345de7b3f6e55a30.jpg",
+        "https://telegra.ph/file/24c64d3daf0dda6187471.jpg",
+        "https://telegra.ph/file/a162e372c47d99d1df665.jpg",
+        "https://telegra.ph/file/2580c7f0c08fbfa1e8ea3.jpg",
+        "https://telegra.ph/file/024941fd393b476f1c680.jpg",
+        "https://telegra.ph/file/c6ee5390d77865b29be31.jpg",
+        "https://telegra.ph/file/27659a806a6d7a61f301f.jpg",
+        "https://telegra.ph/file/fe367583829cd21a65eda.jpg",
+        "https://telegra.ph/file/b6af4bd8591b58f2af605.jpg",
+        "https://telegra.ph/file/35d32c1940259931ecd7f.jpg",
+        "https://telegra.ph/file/11180688764a338206fc8.jpg",
+        "https://telegra.ph/file/2d039af05c1b240524a84.jpg",
+        "https://telegra.ph/file/8eee97f2c533db32ccd39.jpg",
+        "https://telegra.ph/file/be0b926f885e853705440.jpg",
+        "https://telegra.ph/file/d12a896b9c121dd401165.jpg",
+        "https://telegra.ph/file/c0f7bf1c89ebfc72e3da7.jpg",
+        "https://telegra.ph/file/ef7e32138052844a7b4ca.jpg",
+        "https://telegra.ph/file/4c8b7f7704cb46d290353.jpg",
+        "https://telegra.ph/file/1f39a00ac78a44e62fc88.jpg",
+        "https://telegra.ph/file/d240d1e030fe3c98f3d76.jpg",
+        "https://telegra.ph/file/469333116bf8ccc7c42c7.jpg",
+        "https://telegra.ph/file/6fe7977a2aa765899d22e.jpg",
+        "https://telegra.ph/file/7d4790c3d3fb5794c7d82.jpg",
+        "https://telegra.ph/file/fdf5c8d38bb8c1e9c89b8.jpg",
+        "https://telegra.ph/file/d4a6df19e0748c31995b8.jpg",
+        "https://telegra.ph/file/9dabb283477e231270657.jpg",
+        "https://telegra.ph/file/3efed6c0eea4e07b70394.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 416,
+    "title": "Byoru-Ahri bikini",
+    "sourceUrl": "https://telegra.ph/Byoru-Ahri-bikini-08-29",
+    "images": [
+        "https://telegra.ph/file/7f8731ede7dc763713c16.jpg",
+        "https://telegra.ph/file/8261d56b04c73269dfb92.jpg",
+        "https://telegra.ph/file/1277f3245086b56ced918.jpg",
+        "https://telegra.ph/file/7ad7adbd5d2170d39cdd5.jpg",
+        "https://telegra.ph/file/875237c6f6ee86892d61a.jpg",
+        "https://telegra.ph/file/4371718a211515952cf3c.jpg",
+        "https://telegra.ph/file/81fde397bcf1bb906159e.jpg",
+        "https://telegra.ph/file/7d12828aed381bc535d7d.jpg",
+        "https://telegra.ph/file/773639d0ffbff90b7c72f.jpg",
+        "https://telegra.ph/file/06d9651c635ad0975394e.jpg",
+        "https://telegra.ph/file/d0f7bc2e25d0e57b101f8.jpg",
+        "https://telegra.ph/file/626f1168ce1183d98af83.jpg",
+        "https://telegra.ph/file/b45e9935a343629e36b64.jpg",
+        "https://telegra.ph/file/3b7dd52ef81c32008b89e.jpg",
+        "https://telegra.ph/file/fdff0c3b28f0b97ecc9e1.jpg",
+        "https://telegra.ph/file/a59c64eee92f4d252d0a1.jpg",
+        "https://telegra.ph/file/219bc84665ee5ad4f0890.jpg",
+        "https://telegra.ph/file/7ee4d0ea7880a733d7664.jpg",
+        "https://telegra.ph/file/c6117fe201c3f2d9a568d.jpg",
+        "https://telegra.ph/file/8eb54e6633c0c439fb184.jpg",
+        "https://telegra.ph/file/6e097b8cab42edb92bf0e.jpg",
+        "https://telegra.ph/file/1daef542908fd2c2d5db7.jpg",
+        "https://telegra.ph/file/61d3994c4b5b2bfeb539d.jpg",
+        "https://telegra.ph/file/9e052ad8b59bfbc102ba9.jpg",
+        "https://telegra.ph/file/65f782ae54093629bb9a2.jpg",
+        "https://telegra.ph/file/c5a466bcb7e0d16abfd4f.jpg",
+        "https://telegra.ph/file/fd7f6fd0b05c8e42ff010.jpg",
+        "https://telegra.ph/file/49d27c647221a3f23cc19.jpg",
+        "https://telegra.ph/file/5d4c3ce75160332402b96.jpg",
+        "https://telegra.ph/file/01225477d30b493f86389.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

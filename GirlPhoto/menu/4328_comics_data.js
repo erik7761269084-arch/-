@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4328,
+    "title": "抖娘-利世图集 - DVA",
+    "sourceUrl": "https://telegra.ph/抖娘-利世图集---DVA-08-27",
+    "images": [
+        "https://telegra.ph/file/cfbab3f98ba3afe169930.jpg",
+        "https://telegra.ph/file/eea726d70366ef5edb9be.jpg",
+        "https://telegra.ph/file/fafe7226320073706693b.jpg",
+        "https://telegra.ph/file/7e2445ad41c53772df07f.jpg",
+        "https://telegra.ph/file/4c51ab8e494273398328e.jpg",
+        "https://telegra.ph/file/43e417f264ed59aa13bfc.jpg",
+        "https://telegra.ph/file/60d6fe26a6ff5f926c41f.jpg",
+        "https://telegra.ph/file/9435880b97b828c3dcfb4.jpg",
+        "https://telegra.ph/file/3b03d24e5d33f34bd97fe.jpg",
+        "https://telegra.ph/file/d86370d22562f2811cb1c.jpg",
+        "https://telegra.ph/file/87333e656e9f049c76e5a.jpg",
+        "https://telegra.ph/file/e99ae511504fe78707be9.jpg",
+        "https://telegra.ph/file/c3f6903e156ea08d4c6e0.jpg",
+        "https://telegra.ph/file/2b4688a46fc8e235d74a3.jpg",
+        "https://telegra.ph/file/9a2cf7cf290d49c87ceef.jpg",
+        "https://telegra.ph/file/a2180b58f66f9600faf3e.jpg",
+        "https://telegra.ph/file/752e00a5d60dae1f407c5.jpg",
+        "https://telegra.ph/file/d2a3eaaa00df78bbcfb5c.jpg",
+        "https://telegra.ph/file/2562e5c99896e3518750c.jpg",
+        "https://telegra.ph/file/77b259594e5bf7a667741.jpg",
+        "https://telegra.ph/file/a99bbf2d4cc0a42deb978.jpg",
+        "https://telegra.ph/file/50f596f580bf26a8e332c.jpg",
+        "https://telegra.ph/file/71576d7d97c41647930d8.jpg",
+        "https://telegra.ph/file/b7d0867d83d320029fe62.jpg",
+        "https://telegra.ph/file/ed4a2b255bd5a51de9796.jpg",
+        "https://telegra.ph/file/7d4ce7dc26dd5925677d1.jpg",
+        "https://telegra.ph/file/f4a3605d71349c2dbce34.jpg",
+        "https://telegra.ph/file/614cc6049120561263dca.jpg",
+        "https://telegra.ph/file/a9432e489bc1639bd7328.jpg",
+        "https://telegra.ph/file/ef03cd9a5880e12565093.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

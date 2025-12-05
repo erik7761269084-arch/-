@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 5537,
+    "title": "黑川 年上彼女 白色内衣",
+    "sourceUrl": "https://telegra.ph/黑川-年上彼女-白色内衣-08-30",
+    "images": [
+        "https://telegra.ph/file/c3fec6bb83ff16e55e869.jpg",
+        "https://telegra.ph/file/5bc03856f26ca58bdfde7.jpg",
+        "https://telegra.ph/file/394856d42510cbc647efc.jpg",
+        "https://telegra.ph/file/918cfb3d3384a3ef03d90.jpg",
+        "https://telegra.ph/file/67783c5b86963acc552df.jpg",
+        "https://telegra.ph/file/190de5be9f457425f76a7.jpg",
+        "https://telegra.ph/file/92e4b0a89e0d3dfc0fb55.jpg",
+        "https://telegra.ph/file/13cec760de45e576f8697.jpg",
+        "https://telegra.ph/file/28181ab2ec1e5f5946f6b.jpg",
+        "https://telegra.ph/file/c459559260a71f9378135.jpg",
+        "https://telegra.ph/file/2071fbda1bf4383e620f5.jpg",
+        "https://telegra.ph/file/1d8c88e99b4df63f9e923.jpg",
+        "https://telegra.ph/file/8693a691cd185079a6b11.jpg",
+        "https://telegra.ph/file/ccd0f8c48c1bd1d86448f.jpg",
+        "https://telegra.ph/file/8effe3f03970679478a55.jpg",
+        "https://telegra.ph/file/1b7743427d19ef314421a.jpg",
+        "https://telegra.ph/file/7c67c7e46fc9535822a69.jpg",
+        "https://telegra.ph/file/9e8d69f979cdf422bd396.jpg",
+        "https://telegra.ph/file/09cb25a6a87584d9d324a.jpg",
+        "https://telegra.ph/file/99284ba890209bf0227f6.jpg",
+        "https://telegra.ph/file/419d71268a29a07c04308.jpg",
+        "https://telegra.ph/file/0464b80f2aa2d7b58dc2d.jpg",
+        "https://telegra.ph/file/9943a6f314bff4f63282c.jpg",
+        "https://telegra.ph/file/dd3028fd2c67a2e9ada91.jpg",
+        "https://telegra.ph/file/1d05f0bbb3414f5cb6b2e.jpg",
+        "https://telegra.ph/file/cf99395f851548e2a8170.jpg",
+        "https://telegra.ph/file/a2f2a783c238434bcb508.jpg",
+        "https://telegra.ph/file/31dad6f2cc5ae6e0d0a4e.jpg",
+        "https://telegra.ph/file/0687c212964ffe74b78d9.jpg",
+        "https://telegra.ph/file/66a013ca5f903d5353ee1.jpg",
+        "https://telegra.ph/file/84d6c8e1414b56d5222f9.jpg",
+        "https://telegra.ph/file/6bd87b197890b04252556.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

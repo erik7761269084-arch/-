@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4638,
+    "title": "恩田直幸 – 蓝色连体猫猫",
+    "sourceUrl": "https://telegra.ph/恩田直幸--蓝色连体猫猫-08-29",
+    "images": [
+        "https://telegra.ph/file/a1265d0a923496b322e47.jpg",
+        "https://telegra.ph/file/d800ebd844c79658a8262.jpg",
+        "https://telegra.ph/file/768e4a6a949099127b1a2.jpg",
+        "https://telegra.ph/file/7d57aa7bfbf085a7d18a6.jpg",
+        "https://telegra.ph/file/537d1c0eab494771b7064.jpg",
+        "https://telegra.ph/file/f500554674ef06a230e3f.jpg",
+        "https://telegra.ph/file/03a9f84ea72802101ede2.jpg",
+        "https://telegra.ph/file/14dc923734e745654a70e.jpg",
+        "https://telegra.ph/file/93e0b588b59f9406ac778.jpg",
+        "https://telegra.ph/file/697f8e70ac336c62ac8a1.jpg",
+        "https://telegra.ph/file/70827cbd66410a53710d0.jpg",
+        "https://telegra.ph/file/0429d56b9ef459eb8f260.jpg",
+        "https://telegra.ph/file/b5a4e9ee6a2de9e29e37a.jpg",
+        "https://telegra.ph/file/f05d548ba6fab6a29972f.jpg",
+        "https://telegra.ph/file/65c6f9060a438642a733c.jpg",
+        "https://telegra.ph/file/aecea9f01952261654b84.jpg",
+        "https://telegra.ph/file/17c98733a7b1ac2b36b19.jpg",
+        "https://telegra.ph/file/96b2b4b8be0c3fd8a1206.jpg",
+        "https://telegra.ph/file/a172c5f6933fa8e972a61.jpg",
+        "https://telegra.ph/file/d4503fc0d2f6b0fc9431d.jpg",
+        "https://telegra.ph/file/ee80f1b06b711e5e53bc2.jpg",
+        "https://telegra.ph/file/d075c8dac6042c641d8ec.jpg",
+        "https://telegra.ph/file/d4661058d89e7bfdc1b75.jpg",
+        "https://telegra.ph/file/d0d25e9eefba8a5be9726.jpg",
+        "https://telegra.ph/file/b231a14559e5007fd4cb1.jpg",
+        "https://telegra.ph/file/2222b1c6d6bb38e3dd6f6.jpg",
+        "https://telegra.ph/file/443679cb5d47d6113edd9.jpg",
+        "https://telegra.ph/file/24c08fe8e626e96080d08.jpg",
+        "https://telegra.ph/file/29d638761b83f36c5aac4.jpg",
+        "https://telegra.ph/file/d726d84fca0e683ae3216.jpg",
+        "https://telegra.ph/file/6762c0433d8d1606341f9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

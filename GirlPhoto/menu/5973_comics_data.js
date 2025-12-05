@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 5973,
+    "title": "九曲jean 涩九九 – 暗黑玫瑰",
+    "sourceUrl": "https://telegra.ph/九曲jean-涩九九--暗黑玫瑰-08-29",
+    "images": [
+        "https://telegra.ph/file/c49a03082dd9af3f2ecbb.jpg",
+        "https://telegra.ph/file/aef7bc837701dfb6ce86f.jpg",
+        "https://telegra.ph/file/b058b40527d3cdf4f3e46.jpg",
+        "https://telegra.ph/file/c51ee605f71443c1131dc.jpg",
+        "https://telegra.ph/file/2ff1fb3fa95fc74061e5c.jpg",
+        "https://telegra.ph/file/4bc5c416016a3663cfdd5.jpg",
+        "https://telegra.ph/file/c993c153958e2f37c5b7b.jpg",
+        "https://telegra.ph/file/1d4eecea7f370728f61a1.jpg",
+        "https://telegra.ph/file/4efda2a661862ca71ca4d.jpg",
+        "https://telegra.ph/file/08b3029242330d04ba638.jpg",
+        "https://telegra.ph/file/63e6045e43cb366bd88d4.jpg",
+        "https://telegra.ph/file/71470475e371b25a92bd7.jpg",
+        "https://telegra.ph/file/d164063c8833653e6b834.jpg",
+        "https://telegra.ph/file/326e58e4848fd8a20802f.jpg",
+        "https://telegra.ph/file/87c2dfeb968a84afb030e.jpg",
+        "https://telegra.ph/file/b08bf28422186e558d03d.jpg",
+        "https://telegra.ph/file/38f85d3ecb0d05d6298a6.jpg",
+        "https://telegra.ph/file/cbb48bcc8033c9ef60f19.jpg",
+        "https://telegra.ph/file/798af929083baecda1c2a.jpg",
+        "https://telegra.ph/file/b69e35cd75c5632a46c09.jpg",
+        "https://telegra.ph/file/dae291516bb8a6ff90bf0.jpg",
+        "https://telegra.ph/file/40d55331f50f16caebf54.jpg",
+        "https://telegra.ph/file/6cd985f6e8096224178ee.jpg",
+        "https://telegra.ph/file/a090d0f9c655417cd7a48.jpg",
+        "https://telegra.ph/file/f9df9525f7f8ed74f42f8.jpg",
+        "https://telegra.ph/file/856fe82a41bb01537e91a.jpg",
+        "https://telegra.ph/file/7b51eebeaccec33225a80.jpg",
+        "https://telegra.ph/file/2f3fd64b2a62894de24c3.jpg",
+        "https://telegra.ph/file/33752e6b2df82c76c052c.jpg",
+        "https://telegra.ph/file/b1c20f8bd130c22c20685.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

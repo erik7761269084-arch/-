@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 21511,
+    "title": "Glamarchive Yuri (유리) No.16",
+    "sourceUrl": "https://telegra.ph/Glamarchive-Yuri-유리-No16-08-29",
+    "images": [
+        "https://telegra.ph/file/027c22c58f4ca3fe0bbf1.jpg",
+        "https://telegra.ph/file/74847ec48f5e9ac0ce1e5.jpg",
+        "https://telegra.ph/file/a0bd2168fc65d4933f051.jpg",
+        "https://telegra.ph/file/10a4ea6aa89be1d67a3e2.jpg",
+        "https://telegra.ph/file/71588aa087f03e34fa664.jpg",
+        "https://telegra.ph/file/c123a7e683113661f5d8a.jpg",
+        "https://telegra.ph/file/864e2a9b0334981b322fc.jpg",
+        "https://telegra.ph/file/857f55db78448f1786b01.jpg",
+        "https://telegra.ph/file/ff1bc8da53d4527e49e05.jpg",
+        "https://telegra.ph/file/0b66acad77265a49557ab.jpg",
+        "https://telegra.ph/file/ef37fbc4173008ef3ec2f.jpg",
+        "https://telegra.ph/file/9f2aeefe7b12b57072f21.jpg",
+        "https://telegra.ph/file/d37f01d3f8f35d763875a.jpg",
+        "https://telegra.ph/file/22c6dd7227e684f9a1200.jpg",
+        "https://telegra.ph/file/7a1f84f16a3bc6001d1a4.jpg",
+        "https://telegra.ph/file/d4bd1531bd84ea6f7fecc.jpg",
+        "https://telegra.ph/file/4be9cc7eb8e9347b92e01.jpg",
+        "https://telegra.ph/file/72f53abc145f9248ee9c7.jpg",
+        "https://telegra.ph/file/f5c0fc638ccfd68088b9e.jpg",
+        "https://telegra.ph/file/10e64f4197a756eca3952.jpg",
+        "https://telegra.ph/file/f8bfebf047384e6d1d550.jpg",
+        "https://telegra.ph/file/d0c0afd6ec790a016e967.jpg",
+        "https://telegra.ph/file/da70c414e840601ade96d.jpg",
+        "https://telegra.ph/file/d837db25b7d601ee1e8e0.jpg",
+        "https://telegra.ph/file/9cd63897d066c249a40ff.jpg",
+        "https://telegra.ph/file/88a3855cb057e6c231cda.jpg",
+        "https://telegra.ph/file/e79f553794ec6a3f285e8.jpg",
+        "https://telegra.ph/file/8658d11b9da8ee4196c24.jpg",
+        "https://telegra.ph/file/5b2872324f488b1641c9d.jpg",
+        "https://telegra.ph/file/388aacdbc5ac950bc8129.jpg",
+        "https://telegra.ph/file/134d3a17826330846e828.jpg",
+        "https://telegra.ph/file/c85e773755fa1c33260b6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

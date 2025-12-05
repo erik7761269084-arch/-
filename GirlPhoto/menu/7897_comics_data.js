@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 7897,
+    "title": "年年 - 学姐的秘密 [32P-363M]",
+    "sourceUrl": "https://telegra.ph/%E5%B9%B4%E5%B9%B4---%E5%AD%A6%E5%A7%90%E7%9A%84%E7%A7%98%E5%AF%86-32P-363M-08-20",
+    "images": [
+        "https://image.acg.lol/file/2025/03/01/1-8.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-1.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-2.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-3.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-4.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-5.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-6.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-7.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-9.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-10.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-11.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-12.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-13.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-14.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-15.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-16.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-17.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-18.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-19.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-20.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-21.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-22.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-23.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-24.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-25.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-26.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-27.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-28.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-29.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-30.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-31.jpg",
+        "https://image.acg.lol/file/2025/03/01/1-32.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

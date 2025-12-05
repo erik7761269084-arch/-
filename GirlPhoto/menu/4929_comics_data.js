@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 4929,
+    "title": "封疆疆v - 雷电将军(原神)",
+    "sourceUrl": "https://telegra.ph/封疆疆v---雷电将军-08-29",
+    "images": [
+        "https://telegra.ph/file/d8a50558b007bb9875310.jpg",
+        "https://telegra.ph/file/ae38993cad4d629bc723f.jpg",
+        "https://telegra.ph/file/61a371af0c132d76a1cdc.jpg",
+        "https://telegra.ph/file/c476799d54130e5497992.jpg",
+        "https://telegra.ph/file/78185fa24b56b23d366f6.jpg",
+        "https://telegra.ph/file/1869ae84e3529b1b81c3a.jpg",
+        "https://telegra.ph/file/b1acbedd2fbbf98d39e33.jpg",
+        "https://telegra.ph/file/63a2a1b1177c7ff8b3b4c.jpg",
+        "https://telegra.ph/file/c39f8ba8bff39e204cf4f.jpg",
+        "https://telegra.ph/file/98ccb63998d41cc21d14c.jpg",
+        "https://telegra.ph/file/70fb321e27c5b22fae0b5.jpg",
+        "https://telegra.ph/file/8adaa1936d92f9a609554.jpg",
+        "https://telegra.ph/file/9038aa453381262a5253a.jpg",
+        "https://telegra.ph/file/0f62b14c077ef5117e779.jpg",
+        "https://telegra.ph/file/c3faaf011d45447149f94.jpg",
+        "https://telegra.ph/file/4062a05e46c616a1332b6.jpg",
+        "https://telegra.ph/file/9bbc87b4747a7a3e74adc.jpg",
+        "https://telegra.ph/file/d920c21141a5adc5589ff.jpg",
+        "https://telegra.ph/file/a09e6f4328fdbf6d66d2e.jpg",
+        "https://telegra.ph/file/0ad8bd8e4bd939502f168.jpg",
+        "https://telegra.ph/file/247b2245e6207e9c6785b.jpg",
+        "https://telegra.ph/file/40ba7ebc311ebcfe25de4.jpg",
+        "https://telegra.ph/file/587348113a3a91e91e745.jpg",
+        "https://telegra.ph/file/1cd1d41cd04edd1904d18.jpg",
+        "https://telegra.ph/file/1cea9fe1e4208ded22a31.jpg",
+        "https://telegra.ph/file/0d26b97d7cb9e6b716f10.jpg",
+        "https://telegra.ph/file/c1ccef09034b00aeb5437.jpg",
+        "https://telegra.ph/file/86289904b3ac9d56ea4eb.jpg",
+        "https://telegra.ph/file/77b9cbaffaa062999eeb8.jpg",
+        "https://telegra.ph/file/5cfff1152c965ab89657f.jpg",
+        "https://telegra.ph/file/38f892a4f88b4f2701ffd.jpg",
+        "https://telegra.ph/file/6f4b6a85466f6de933250.jpg",
+        "https://telegra.ph/file/a15ab4a93b782ca6b539f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

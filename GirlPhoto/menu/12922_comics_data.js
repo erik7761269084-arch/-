@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12922,
+    "title": "樱梨梨 刻晴魅魔护士 30P",
+    "sourceUrl": "https://telegra.ph/%E6%A8%B1%E6%A2%A8%E6%A2%A8-%E5%88%BB%E6%99%B4%E9%AD%85%E9%AD%94%E6%8A%A4%E5%A3%AB-30P-08-21",
+    "images": [
+        "https://telegra.ph/file/40abb9a59dd8912ce5d96.jpg",
+        "https://telegra.ph/file/9f0565ec78e3a6ba87d56.jpg",
+        "https://telegra.ph/file/1359cb7ec442772580985.jpg",
+        "https://telegra.ph/file/9d736039cf3dd6ee38898.jpg",
+        "https://telegra.ph/file/a114cd3f3935313ad2929.jpg",
+        "https://telegra.ph/file/3ba5b1ac29d2b3472dc5e.jpg",
+        "https://telegra.ph/file/e46b4c5d5c9cabdbe2ede.jpg",
+        "https://telegra.ph/file/683eb60edc41c042e1f59.jpg",
+        "https://telegra.ph/file/3298f739893bf5f0d9954.jpg",
+        "https://telegra.ph/file/2a5efe9bae3db8f5eb139.jpg",
+        "https://telegra.ph/file/e43ea30472bbe63c6db5f.jpg",
+        "https://telegra.ph/file/453dda534bcf933874bfe.jpg",
+        "https://telegra.ph/file/362dab58476214a96f793.jpg",
+        "https://telegra.ph/file/507f32626fa07875d59cd.jpg",
+        "https://telegra.ph/file/508db75ca0801866c6b30.jpg",
+        "https://telegra.ph/file/6b294daafd9c708334c82.jpg",
+        "https://telegra.ph/file/efcbda50e107cf92c9593.jpg",
+        "https://telegra.ph/file/b127f718e8f11f7a99b12.jpg",
+        "https://telegra.ph/file/9672939fa49979cf8e166.jpg",
+        "https://telegra.ph/file/5d71267375261728bb099.jpg",
+        "https://telegra.ph/file/0967e572badc67642f8df.jpg",
+        "https://telegra.ph/file/b200a81ad79255f26ec79.jpg",
+        "https://telegra.ph/file/af34c04011534e898db32.jpg",
+        "https://telegra.ph/file/2b59b7f76ffee9d56fc7a.jpg",
+        "https://telegra.ph/file/b2d6f80630f0c52aa49d2.jpg",
+        "https://telegra.ph/file/44cfe189c4305174685f6.jpg",
+        "https://telegra.ph/file/76b4c98cbaa54e00ee75f.jpg",
+        "https://telegra.ph/file/40239d73ab9aaa4e689e1.jpg",
+        "https://telegra.ph/file/8399f213ee0708fec420e.jpg",
+        "https://telegra.ph/file/caa53ef48565c7189caf7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

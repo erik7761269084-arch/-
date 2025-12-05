@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 7624,
+    "title": "木绵绵OwO 八重樱",
+    "sourceUrl": "https://telegra.ph/木绵绵OwO-八重樱-08-27",
+    "images": [
+        "https://telegra.ph/file/ba0e0d3b1192e4182cd8a.jpg",
+        "https://telegra.ph/file/08f5661639ca3d6ece734.jpg",
+        "https://telegra.ph/file/740f2aafc0e8d218adb76.jpg",
+        "https://telegra.ph/file/49756875b8150cc088dc7.jpg",
+        "https://telegra.ph/file/3458ddb8aa51e92debdba.jpg",
+        "https://telegra.ph/file/27d6b9a79272fb1ebf595.jpg",
+        "https://telegra.ph/file/983853e4effac1c963115.jpg",
+        "https://telegra.ph/file/7fac0ffac68115065ccd2.jpg",
+        "https://telegra.ph/file/372037bc401fd7ef22e6e.jpg",
+        "https://telegra.ph/file/29dde10aeab9e8d0edb68.jpg",
+        "https://telegra.ph/file/64fcaaf906c2a1bca7ec3.jpg",
+        "https://telegra.ph/file/ad46e32584199a31628fe.jpg",
+        "https://telegra.ph/file/8e24365f2a494cbbcf4a3.jpg",
+        "https://telegra.ph/file/a38404f586d9339f5c4cb.jpg",
+        "https://telegra.ph/file/4b010648d1828c8956bcc.jpg",
+        "https://telegra.ph/file/bafb9bf96a5330eed91a9.jpg",
+        "https://telegra.ph/file/ce04caca3c413c8d3fcd9.jpg",
+        "https://telegra.ph/file/05373cc123ba9219fd78d.jpg",
+        "https://telegra.ph/file/9816f42b999d74e218793.jpg",
+        "https://telegra.ph/file/851db0c1dfb6fc8161cdd.jpg",
+        "https://telegra.ph/file/a8003699595b40ef6e25c.jpg",
+        "https://telegra.ph/file/999b9ff9c0be4117f48f7.jpg",
+        "https://telegra.ph/file/40297a84b9573c92a8b42.jpg",
+        "https://telegra.ph/file/2391024bb588043ff860d.jpg",
+        "https://telegra.ph/file/909dd11c7d982db1a1c8c.jpg",
+        "https://telegra.ph/file/cbe69a0686b5ae0da4567.jpg",
+        "https://telegra.ph/file/db8f76bf8aa6842320530.jpg",
+        "https://telegra.ph/file/a5db4d9c024868a124e64.jpg",
+        "https://telegra.ph/file/154360161e2bde2b4acb9.jpg",
+        "https://telegra.ph/file/45b2867d031b9bedda042.jpg",
+        "https://telegra.ph/file/aaae838d33a91b4e533a8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

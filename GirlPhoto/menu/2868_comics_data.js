@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 2868,
+    "title": "ZinieQ - Ulrich von Hutten Azur Lane",
+    "sourceUrl": "https://telegra.ph/ZinieQ---Ulrich-von-Hutten-Azur-Lane-08-27",
+    "images": [
+        "https://telegra.ph/file/4972208978d64af2877d5.jpg",
+        "https://telegra.ph/file/3c2968b7fa6caff422f28.jpg",
+        "https://telegra.ph/file/79f2eadfea53fbefde48d.jpg",
+        "https://telegra.ph/file/263eab4c162682ffd7514.jpg",
+        "https://telegra.ph/file/c408f3b7925e67790360b.jpg",
+        "https://telegra.ph/file/08d5511e0300dc54aeea9.jpg",
+        "https://telegra.ph/file/accb65bea6b5588dca757.jpg",
+        "https://telegra.ph/file/d8f1b4f28dac9423082ab.jpg",
+        "https://telegra.ph/file/13b582fb27ec2893d5ea6.jpg",
+        "https://telegra.ph/file/5a365f3af3b7a4712080c.jpg",
+        "https://telegra.ph/file/8922ebbc4c47d549c85d3.jpg",
+        "https://telegra.ph/file/12a382aa6ca32db30bba0.jpg",
+        "https://telegra.ph/file/61d33c7dbe4e1f949677e.jpg",
+        "https://telegra.ph/file/2fd2c3ba438f9e5293067.jpg",
+        "https://telegra.ph/file/954aaf6dda495d5a2b2f2.jpg",
+        "https://telegra.ph/file/09910f2e384483df480af.jpg",
+        "https://telegra.ph/file/b43521b14ff5bc62f4ae2.jpg",
+        "https://telegra.ph/file/5489c53d0c4c8911303fa.jpg",
+        "https://telegra.ph/file/7e2beec367a61e240a0ff.jpg",
+        "https://telegra.ph/file/70c5d5d778508db73f816.jpg",
+        "https://telegra.ph/file/5126ad7f017c65548993d.jpg",
+        "https://telegra.ph/file/318c008b0fc476c69cec5.jpg",
+        "https://telegra.ph/file/322e900b36e9d1018ec76.jpg",
+        "https://telegra.ph/file/c7e6ae9614536854158aa.jpg",
+        "https://telegra.ph/file/1aa045452c835ede22758.jpg",
+        "https://telegra.ph/file/5209baba3a7ff8bae1e1d.jpg",
+        "https://telegra.ph/file/4ebfec4ff9339d911d17d.jpg",
+        "https://telegra.ph/file/47c5c6065d2a1462e1412.jpg",
+        "https://telegra.ph/file/6e14751852f0fdf9fcd9b.jpg",
+        "https://telegra.ph/file/dc4d6b09635b4cd9ee04f.jpg",
+        "https://telegra.ph/file/41faf73f6bf557f697442.jpg",
+        "https://telegra.ph/file/229ca3ee73bca05537406.jpg",
+        "https://telegra.ph/file/e64b52a1bcec5405a9d6b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

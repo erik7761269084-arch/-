@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9489,
+    "title": "依酱 - 6月 黑色皮裙 （6月11会员资源）",
+    "sourceUrl": "https://telegra.ph/依酱---6月-黑色皮裙6月11会员资源-08-26",
+    "images": [
+        "https://telegra.ph/file/9e64680986ef87c9555de.jpg",
+        "https://telegra.ph/file/937812e4d22cf9de14cc5.jpg",
+        "https://telegra.ph/file/0f5b50e13d22b548b5741.jpg",
+        "https://telegra.ph/file/48f48e96b6edf2431a952.jpg",
+        "https://telegra.ph/file/c187b1acc456f5295e62c.jpg",
+        "https://telegra.ph/file/1f5f395ffba0640cd6435.jpg",
+        "https://telegra.ph/file/998e45ade00416151b037.jpg",
+        "https://telegra.ph/file/4de5497b67be7689a4888.jpg",
+        "https://telegra.ph/file/7b12f5fee870a41b18e4c.jpg",
+        "https://telegra.ph/file/a4d14abd7331ead25c01a.jpg",
+        "https://telegra.ph/file/3f795a448af2ca889fb74.jpg",
+        "https://telegra.ph/file/cdb9a8da349460bece266.jpg",
+        "https://telegra.ph/file/7215e291702901dc9ccd5.jpg",
+        "https://telegra.ph/file/531f27b45c832eb0d6902.jpg",
+        "https://telegra.ph/file/c692577c21037e1b28fbf.jpg",
+        "https://telegra.ph/file/7cc3614f0c77430e7bb81.jpg",
+        "https://telegra.ph/file/0c9f03d062026b310fd99.jpg",
+        "https://telegra.ph/file/e43ecfae224407bd70176.jpg",
+        "https://telegra.ph/file/8048c572dcd579052850a.jpg",
+        "https://telegra.ph/file/4af1c5fb403fa9bddb6eb.jpg",
+        "https://telegra.ph/file/f9a7e2c71fcf456e945d8.jpg",
+        "https://telegra.ph/file/a2da4aee428e7ab874c06.jpg",
+        "https://telegra.ph/file/1acdf595553255acaf12d.jpg",
+        "https://telegra.ph/file/3b931ee4c84a0b62b887e.jpg",
+        "https://telegra.ph/file/90e6746e9aa552e72e44d.jpg",
+        "https://telegra.ph/file/ed9e932a203c034ea98f1.jpg",
+        "https://telegra.ph/file/16cf210c08bcc22708826.jpg",
+        "https://telegra.ph/file/7def989ad1382de75a179.jpg",
+        "https://telegra.ph/file/503511ff3c14be91a25b0.jpg",
+        "https://telegra.ph/file/c804e2151609bf6401e04.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

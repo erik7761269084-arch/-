@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13682,
+    "title": "张思允 - 油亮黑丝制服",
+    "sourceUrl": "https://telegra.ph/张思允---油亮黑丝制服-08-30",
+    "images": [
+        "https://telegra.ph/file/95d041f2e508668caba0c.jpg",
+        "https://telegra.ph/file/95040228a6a629af7fede.jpg",
+        "https://telegra.ph/file/405119c808007e0b0b6e6.jpg",
+        "https://telegra.ph/file/7c7df6ac1c871dd87bfd4.jpg",
+        "https://telegra.ph/file/08f7b58886b70d69db410.jpg",
+        "https://telegra.ph/file/955dcb042eda128aa8872.jpg",
+        "https://telegra.ph/file/184cf4390b037fdb19912.jpg",
+        "https://telegra.ph/file/d9bc00e6dc0fef350ec62.jpg",
+        "https://telegra.ph/file/29c54d2ed00d9c2de40d3.jpg",
+        "https://telegra.ph/file/a159154dcad740b539301.jpg",
+        "https://telegra.ph/file/ff544eaeb2c4f260fa093.jpg",
+        "https://telegra.ph/file/20d3428dfae015637e5f9.jpg",
+        "https://telegra.ph/file/8e778ceb42b76fc58452a.jpg",
+        "https://telegra.ph/file/80c7bda6b771b2a88838a.jpg",
+        "https://telegra.ph/file/e40d0699c93550afca00e.jpg",
+        "https://telegra.ph/file/759de399872ffc06b734b.jpg",
+        "https://telegra.ph/file/ccec3d5bb7169cfc7be2d.jpg",
+        "https://telegra.ph/file/5bbf3a3f2b31b974829e7.jpg",
+        "https://telegra.ph/file/e66d763603eabb8035cde.jpg",
+        "https://telegra.ph/file/3146db23faee16a8284ce.jpg",
+        "https://telegra.ph/file/bb1d65311af79f9fae63b.jpg",
+        "https://telegra.ph/file/ee14ad06e77107723e333.jpg",
+        "https://telegra.ph/file/140263a4e743a94aed0fd.jpg",
+        "https://telegra.ph/file/db6a9d84af9fb00ff21a6.jpg",
+        "https://telegra.ph/file/e05fc6f8d4df95a611df6.jpg",
+        "https://telegra.ph/file/c3e71d3254e3d8185c0f6.jpg",
+        "https://telegra.ph/file/047cd4b1aaa34ff6ab7dd.jpg",
+        "https://telegra.ph/file/028dc07ae8e311dfed75b.jpg",
+        "https://telegra.ph/file/6e44d517fe709f08772d8.jpg",
+        "https://telegra.ph/file/9cbed4e8200ec0317bdca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

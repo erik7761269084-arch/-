@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12935,
+    "title": "樱落酱w 吕佐夫礼服 [30P-253MB]",
+    "sourceUrl": "https://telegra.ph/樱落酱w-吕佐夫礼服-30P-253MB-08-24",
+    "images": [
+        "https://telegra.ph/file/c1675f5a0df1c6f01cce2.jpg",
+        "https://telegra.ph/file/a3c00d267b6249d0347dd.jpg",
+        "https://telegra.ph/file/20fc3d62e48ddaf1eddd3.jpg",
+        "https://telegra.ph/file/169c0fe3d5846f2b6db5a.jpg",
+        "https://telegra.ph/file/ab8751b835998805e9d2d.jpg",
+        "https://telegra.ph/file/d2a7bcf7cd650202ad94d.jpg",
+        "https://telegra.ph/file/b01af535f1f0358bec675.jpg",
+        "https://telegra.ph/file/a869512479f7871cd1506.jpg",
+        "https://telegra.ph/file/cd5327baa55ca75822038.jpg",
+        "https://telegra.ph/file/1b7006c20d78d5c75fbe8.jpg",
+        "https://telegra.ph/file/a6e6f04724e98ff5740fe.jpg",
+        "https://telegra.ph/file/f0726e1150be08fdd3d41.jpg",
+        "https://telegra.ph/file/46b5104c485e6163f8a40.jpg",
+        "https://telegra.ph/file/1b7b0c4dfa19d274ce94c.jpg",
+        "https://telegra.ph/file/314f4a3dd926b6624ec5d.jpg",
+        "https://telegra.ph/file/c6cd0e08264b9f60216c2.jpg",
+        "https://telegra.ph/file/cc4d7ad94a04e5c17c117.jpg",
+        "https://telegra.ph/file/561c0187e72a78067a4b4.jpg",
+        "https://telegra.ph/file/9d0adc0ecdb023f3928d9.jpg",
+        "https://telegra.ph/file/29ce38e4e4d37b4884fea.jpg",
+        "https://telegra.ph/file/6c8e62c9a83809565677d.jpg",
+        "https://telegra.ph/file/4c1dae1d3f59334a55f92.jpg",
+        "https://telegra.ph/file/d7de718692ce2b8a5624f.jpg",
+        "https://telegra.ph/file/6642c8ded2f1dbc98f973.jpg",
+        "https://telegra.ph/file/3c250f532f53f55024885.jpg",
+        "https://telegra.ph/file/9f7a265839acd1d0c4ac2.jpg",
+        "https://telegra.ph/file/807e4057e33363a4da496.jpg",
+        "https://telegra.ph/file/3f9c9ed4fecf7e0185fe7.jpg",
+        "https://telegra.ph/file/608b2200f080726496bec.jpg",
+        "https://telegra.ph/file/3d108256d7181557668c0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

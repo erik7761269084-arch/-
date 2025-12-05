@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6193,
+    "title": "#铃木美咲- 绝对领域",
+    "sourceUrl": "https://telegra.ph/铃木美咲--绝对领域-08-29",
+    "images": [
+        "https://telegra.ph/file/cff2557d0044646d50d39.jpg",
+        "https://telegra.ph/file/e31c75e2e3cb757a35419.jpg",
+        "https://telegra.ph/file/c75640fbce1615f176b34.jpg",
+        "https://telegra.ph/file/4e036bb100d3d838bfe98.jpg",
+        "https://telegra.ph/file/8ef238960797f4e6ca4d5.jpg",
+        "https://telegra.ph/file/3ba004191748f5323d296.jpg",
+        "https://telegra.ph/file/af6fa1815a803e79d56e7.jpg",
+        "https://telegra.ph/file/16c716aba294b989f4dd3.jpg",
+        "https://telegra.ph/file/3a876b625026dc8fe68ca.jpg",
+        "https://telegra.ph/file/071c0add77c9c1b215f1a.jpg",
+        "https://telegra.ph/file/8aea90a3a90c8ae5ce374.jpg",
+        "https://telegra.ph/file/361393565c70ea53f252c.jpg",
+        "https://telegra.ph/file/5b0d16ce860ae181d61d1.jpg",
+        "https://telegra.ph/file/3a92c142757f452990862.jpg",
+        "https://telegra.ph/file/c29736a9fd18b4b225d01.jpg",
+        "https://telegra.ph/file/4544f254df369e1bc4f6a.jpg",
+        "https://telegra.ph/file/eac51d4cdf995c52422fa.jpg",
+        "https://telegra.ph/file/f50f0e07e92d081c1863e.jpg",
+        "https://telegra.ph/file/6ea78e48a03e78e151418.jpg",
+        "https://telegra.ph/file/9deb95cae6419f02451bf.jpg",
+        "https://telegra.ph/file/cfb2559956daebf3b3ccb.jpg",
+        "https://telegra.ph/file/91fafbb2c0ce598e451a7.jpg",
+        "https://telegra.ph/file/fd9882fc4994ee336261f.jpg",
+        "https://telegra.ph/file/12ee2937024351097337c.jpg",
+        "https://telegra.ph/file/c05a8a933f9fce9979f32.jpg",
+        "https://telegra.ph/file/060eb5ea87d26ce3176e7.jpg",
+        "https://telegra.ph/file/a147e46ae9424bdf43beb.jpg",
+        "https://telegra.ph/file/73096dcfc42fa6f334ebf.jpg",
+        "https://telegra.ph/file/0354498bd26cb9624a058.jpg",
+        "https://telegra.ph/file/983bd316c969a8151ffd3.jpg",
+        "https://telegra.ph/file/a0f28b47d9104e3782399.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

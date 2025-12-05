@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9341,
+    "title": "是本末末 – 风纪委员",
+    "sourceUrl": "https://telegra.ph/是本末末--风纪委员-08-26",
+    "images": [
+        "https://telegra.ph/file/eeaa480fc88b0e31f2a4d.jpg",
+        "https://telegra.ph/file/527543d1ee8fdf5866166.jpg",
+        "https://telegra.ph/file/30f1b1508c8b3d6889d1d.jpg",
+        "https://telegra.ph/file/47887f99a45cfb4d9455c.jpg",
+        "https://telegra.ph/file/6998933795ef52c128324.jpg",
+        "https://telegra.ph/file/7d51a1dee8885c2583043.jpg",
+        "https://telegra.ph/file/5a992ec820fb84ee77f45.jpg",
+        "https://telegra.ph/file/50d5f428b7904285a6584.jpg",
+        "https://telegra.ph/file/7310fd478d727e644db14.jpg",
+        "https://telegra.ph/file/03a4cf0197c5a5f4dd3ea.jpg",
+        "https://telegra.ph/file/1d2dcbe5c5c6a11c97cf7.jpg",
+        "https://telegra.ph/file/956a1641e992c38a0ec4f.jpg",
+        "https://telegra.ph/file/d2f178c801806dd3b0766.jpg",
+        "https://telegra.ph/file/a90fec46b049dbd86d5d3.jpg",
+        "https://telegra.ph/file/b4c9e35504cabc3673c07.jpg",
+        "https://telegra.ph/file/fd76feae0570368de5c16.jpg",
+        "https://telegra.ph/file/6f18fb5292130236aa1e1.jpg",
+        "https://telegra.ph/file/1da47b89a5546800a9269.jpg",
+        "https://telegra.ph/file/81657e3c08fc640324cb2.jpg",
+        "https://telegra.ph/file/38d146a3f930ef3423a4c.jpg",
+        "https://telegra.ph/file/915433e747950582e6c5d.jpg",
+        "https://telegra.ph/file/73dabd7691732a3e8d27d.jpg",
+        "https://telegra.ph/file/3ea52e95066d659d3628a.jpg",
+        "https://telegra.ph/file/85d5f357aa87ecfca541a.jpg",
+        "https://telegra.ph/file/04990827371e9aadf1c27.jpg",
+        "https://telegra.ph/file/994a76aa36e2a3d3579f3.jpg",
+        "https://telegra.ph/file/e3b5c932b08ed06151be9.jpg",
+        "https://telegra.ph/file/5097769aa5d0d5d887c2c.jpg",
+        "https://telegra.ph/file/068a05661778bedfdcae1.jpg",
+        "https://telegra.ph/file/03f0105a97f267cbc19da.jpg",
+        "https://telegra.ph/file/7b61849d4591ca989f134.jpg",
+        "https://telegra.ph/file/71fc969b80350def94b2f.jpg",
+        "https://telegra.ph/file/c041fdb7a3c07fd600fe9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

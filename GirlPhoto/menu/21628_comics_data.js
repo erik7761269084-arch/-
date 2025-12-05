@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 21628,
+    "title": "Japanese 桜空もも - Asa Gei Sexy Actress Photo Collection",
+    "sourceUrl": "https://telegra.ph/Japanese-桜空もも---Asa-Gei-Sexy-Actress-Photo-Collection-08-29",
+    "images": [
+        "https://telegra.ph/file/dd9ae6fdda799f98712ea.jpg",
+        "https://telegra.ph/file/3762ddf5d6b7e327fad49.jpg",
+        "https://telegra.ph/file/69758ca83e912d4366add.jpg",
+        "https://telegra.ph/file/648b19b20d09f5cdd0402.jpg",
+        "https://telegra.ph/file/717ce1a7a71c3d8de61bc.jpg",
+        "https://telegra.ph/file/711eef09b80afb4ca1326.jpg",
+        "https://telegra.ph/file/d017c3cf06d033ad7d71f.jpg",
+        "https://telegra.ph/file/7eef942346f2bd9baaa61.jpg",
+        "https://telegra.ph/file/0c560ecfb0b902034aff2.jpg",
+        "https://telegra.ph/file/21b3d2fa530677a85f798.jpg",
+        "https://telegra.ph/file/b296a9e809e6470bd4d53.jpg",
+        "https://telegra.ph/file/c4ae8b14cc8dd30d130f2.jpg",
+        "https://telegra.ph/file/a03bd81ee6a6f096cae29.jpg",
+        "https://telegra.ph/file/3ff3cd50222afd54f8cc9.jpg",
+        "https://telegra.ph/file/ec99fc631475e8b670d4f.jpg",
+        "https://telegra.ph/file/34d825a3575fde3c3436e.jpg",
+        "https://telegra.ph/file/545c3701ee4f0fabfc3d9.jpg",
+        "https://telegra.ph/file/2612b2c7199a060eaa6e8.jpg",
+        "https://telegra.ph/file/171ee0cb95916a2b8b261.jpg",
+        "https://telegra.ph/file/98b227f11682743ab3d0c.jpg",
+        "https://telegra.ph/file/065eaca07179b34919912.jpg",
+        "https://telegra.ph/file/609eee8274c7cdbebfc3d.jpg",
+        "https://telegra.ph/file/09ff6ea91c1e4b2434fcd.jpg",
+        "https://telegra.ph/file/7d455b6e461b0a5585fdd.jpg",
+        "https://telegra.ph/file/36dda34a18f12363800a9.jpg",
+        "https://telegra.ph/file/09b1fa40a8d639bd0e4e4.jpg",
+        "https://telegra.ph/file/5cc142997cc6ce5dd62c5.jpg",
+        "https://telegra.ph/file/149a1227aec193156f796.jpg",
+        "https://telegra.ph/file/6504261d7f6786691e6ed.jpg",
+        "https://telegra.ph/file/a3ed47674804bbfe15497.jpg",
+        "https://telegra.ph/file/9dd7c3e9488a7584c676b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

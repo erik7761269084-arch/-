@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2888,
+    "title": "ZinieQ - Marin Kitagawa",
+    "sourceUrl": "https://telegra.ph/ZinieQ---Marin-Kitagawa-08-27",
+    "images": [
+        "https://telegra.ph/file/a8df55a54810045b45804.jpg",
+        "https://telegra.ph/file/b71413f9cc88a8cef9a8d.jpg",
+        "https://telegra.ph/file/0d180b63eb81b5263021f.jpg",
+        "https://telegra.ph/file/066ffa67f5d43fdf3d8b7.jpg",
+        "https://telegra.ph/file/02596b44a147c03621b55.jpg",
+        "https://telegra.ph/file/3c5db017db9a33032cdcb.jpg",
+        "https://telegra.ph/file/d465b4f37942eb139c852.jpg",
+        "https://telegra.ph/file/858ff0ad0d55384a24581.jpg",
+        "https://telegra.ph/file/9ab188551ec485c6ab41e.jpg",
+        "https://telegra.ph/file/662dddf253e197d87756a.jpg",
+        "https://telegra.ph/file/9ac85ff2aef9eb2f5d36e.jpg",
+        "https://telegra.ph/file/af1f435482fdac78a7e1f.jpg",
+        "https://telegra.ph/file/33bb8d9481aaaa06ad754.jpg",
+        "https://telegra.ph/file/eb8dd9c1492c7856027f5.jpg",
+        "https://telegra.ph/file/48306dcd38eb434052ce1.jpg",
+        "https://telegra.ph/file/9c2ce090090f518ddcc3a.jpg",
+        "https://telegra.ph/file/85bd5d76a13c791ae9fb2.jpg",
+        "https://telegra.ph/file/77e6ee5744d61d748ae31.jpg",
+        "https://telegra.ph/file/ff474b0eda8c5774d34e6.jpg",
+        "https://telegra.ph/file/006c7966dbc0b6c04b971.jpg",
+        "https://telegra.ph/file/1665f69c0425be013c0c9.jpg",
+        "https://telegra.ph/file/b10ff31f1e2fc8c39c381.jpg",
+        "https://telegra.ph/file/2b002f9a299446356c993.jpg",
+        "https://telegra.ph/file/504badad62bc820e9f5ca.jpg",
+        "https://telegra.ph/file/dc1835031de23aae9936c.jpg",
+        "https://telegra.ph/file/f75281dd2ff26a3745105.jpg",
+        "https://telegra.ph/file/5f2bfb3c0085069038d8c.jpg",
+        "https://telegra.ph/file/6ed1380aa2954fd765657.jpg",
+        "https://telegra.ph/file/5331cbd73639d054172af.jpg",
+        "https://telegra.ph/file/a2468b050d9a03ae17ced.jpg",
+        "https://telegra.ph/file/4b76adc5c498562538998.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

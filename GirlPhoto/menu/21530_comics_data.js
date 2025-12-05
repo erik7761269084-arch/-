@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 21530,
+    "title": "Tiny Asa 鬼龙院皐月 Satsuki Kiryuin",
+    "sourceUrl": "https://telegra.ph/Tiny-Asa-鬼龙院皐月-Satsuki-Kiryuin-08-29",
+    "images": [
+        "https://telegra.ph/file/f0726d8fa707e0991873e.jpg",
+        "https://telegra.ph/file/154d0ba0413ec98ca7904.jpg",
+        "https://telegra.ph/file/459d1b51a82c3286ea318.jpg",
+        "https://telegra.ph/file/7255b9dc3217bc190ec15.jpg",
+        "https://telegra.ph/file/c32297da22ea489373687.jpg",
+        "https://telegra.ph/file/3f472d0a16e58a15157c9.jpg",
+        "https://telegra.ph/file/8364cd1855f8b14ae024a.jpg",
+        "https://telegra.ph/file/aebacc6854fb1a4a3a54d.jpg",
+        "https://telegra.ph/file/59e6de8f0d1feb93c18c0.jpg",
+        "https://telegra.ph/file/127fe80c4207e1c28cb8d.jpg",
+        "https://telegra.ph/file/c0cfa72e1fcb5c3ac0a12.jpg",
+        "https://telegra.ph/file/cdd962fc1e418c13c6fdc.jpg",
+        "https://telegra.ph/file/ec376e568638a82046817.jpg",
+        "https://telegra.ph/file/a9e5f864d1c46ab10836b.jpg",
+        "https://telegra.ph/file/fc000a53f70322915840e.jpg",
+        "https://telegra.ph/file/cce138b1c4d5d3784ab0f.jpg",
+        "https://telegra.ph/file/4bd9a2e30e27c5af6658f.jpg",
+        "https://telegra.ph/file/e6d348f044e652afa871b.jpg",
+        "https://telegra.ph/file/acf441955015fbd043f8f.jpg",
+        "https://telegra.ph/file/c3312a972d7f40d977600.jpg",
+        "https://telegra.ph/file/9d6a988858371fc03edb5.jpg",
+        "https://telegra.ph/file/bcf9fc22c79fc799aadd0.jpg",
+        "https://telegra.ph/file/4be60e5d125eb4079652e.jpg",
+        "https://telegra.ph/file/98c9d7c29bd3a567a26e7.jpg",
+        "https://telegra.ph/file/b568d2255bc3f96a00e7a.jpg",
+        "https://telegra.ph/file/9a03d233a52978c67550f.jpg",
+        "https://telegra.ph/file/ac46eeda04216c71783d8.jpg",
+        "https://telegra.ph/file/13019c7400d110eb731c7.jpg",
+        "https://telegra.ph/file/0e56633272b2c1bf00129.jpg",
+        "https://telegra.ph/file/97f1034ea8834fcb6c398.jpg",
+        "https://telegra.ph/file/746aa22ab3b55f17aafd9.jpg",
+        "https://telegra.ph/file/af994ca11acb50c58fe45.jpg",
+        "https://telegra.ph/file/a18b9c4664cec33d6556e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

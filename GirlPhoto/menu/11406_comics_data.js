@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11406,
+    "title": "星之迟迟 - 纯白と漆黑《花园》",
+    "sourceUrl": "https://telegra.ph/星之迟迟---纯白と漆黑花园-08-27",
+    "images": [
+        "https://telegra.ph/file/5d48652e22f6c923cca6a.jpg",
+        "https://telegra.ph/file/d07765eb63dd3c4014d3d.jpg",
+        "https://telegra.ph/file/f6a510e0bd1c46d6c9d9a.jpg",
+        "https://telegra.ph/file/81014dd1cbdb70a87b950.jpg",
+        "https://telegra.ph/file/525b9147d63f93d31178a.jpg",
+        "https://telegra.ph/file/b6831957b42ce845bd3a7.jpg",
+        "https://telegra.ph/file/5c47d86a67b4bfee6f5dd.jpg",
+        "https://telegra.ph/file/5fcdd070f5ceff2a1db6a.jpg",
+        "https://telegra.ph/file/5df683f1bf980716399d1.jpg",
+        "https://telegra.ph/file/aa06a66df5d4c4fa7ed78.jpg",
+        "https://telegra.ph/file/5aff017924e69c83cc6cb.jpg",
+        "https://telegra.ph/file/a86cc8011b63c3edd01fc.jpg",
+        "https://telegra.ph/file/f0ed7a8292364d21d96cd.jpg",
+        "https://telegra.ph/file/a7b4b29ee35016dc84525.jpg",
+        "https://telegra.ph/file/3336d1a462b336c8b69be.jpg",
+        "https://telegra.ph/file/89c3672f11412d55661af.jpg",
+        "https://telegra.ph/file/a1af7d6047cda5d5236b7.jpg",
+        "https://telegra.ph/file/5e78cd81c4af53b3d0bc5.jpg",
+        "https://telegra.ph/file/35157c49872f190ed8189.jpg",
+        "https://telegra.ph/file/876fe162b284fd3a168bb.jpg",
+        "https://telegra.ph/file/a42d2ca5dc6c36613f54c.jpg",
+        "https://telegra.ph/file/48f17a1480aa2c041a6cb.jpg",
+        "https://telegra.ph/file/8de103cf512194a3122e1.jpg",
+        "https://telegra.ph/file/35c021d4cbd8916f5a579.jpg",
+        "https://telegra.ph/file/9903f35a6c8d9e8d9522b.jpg",
+        "https://telegra.ph/file/355fa2cc9781fefe4ea7c.jpg",
+        "https://telegra.ph/file/32123af65039fcba7d2e9.jpg",
+        "https://telegra.ph/file/196abd4c376e1d917eb4c.jpg",
+        "https://telegra.ph/file/0f2b4f5bf6511713083b8.jpg",
+        "https://telegra.ph/file/9bec621053eec7e3ef0a6.jpg",
+        "https://telegra.ph/file/0ecc2d07abb01648fab95.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

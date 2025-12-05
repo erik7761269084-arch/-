@@ -1,0 +1,37 @@
+const comicData = {
+    "IDcode": 7980,
+    "title": "念雪ww - NO.10 夏天日记 [27P-231MB]",
+    "sourceUrl": "https://telegra.ph/念雪ww---NO10-夏天日记-27P-231MB-08-26",
+    "images": [
+        "https://telegra.ph/file/d07b3099afe59fe3b7515.jpg",
+        "https://telegra.ph/file/ac9174f1fdb3d163fbce2.jpg",
+        "https://telegra.ph/file/89a62c6f82a7556c2c3ca.jpg",
+        "https://telegra.ph/file/933b75bb86ebdae8b92dd.jpg",
+        "https://telegra.ph/file/9870e48a6e19bf9336839.jpg",
+        "https://telegra.ph/file/e2dc5ff78ea300db1585c.jpg",
+        "https://telegra.ph/file/d2d1b4ada3b6c04d47f5a.jpg",
+        "https://telegra.ph/file/417865c4d2b6fa57aa9b8.jpg",
+        "https://telegra.ph/file/0614a710aa1cb1727b955.jpg",
+        "https://telegra.ph/file/1e124e734bec04d29c75f.jpg",
+        "https://telegra.ph/file/73705ffc16acd7eded10a.jpg",
+        "https://telegra.ph/file/eb3e8c3553edb042c7d86.jpg",
+        "https://telegra.ph/file/e39b45b7d3d4468996321.jpg",
+        "https://telegra.ph/file/1876b05e7c196f45d98ee.jpg",
+        "https://telegra.ph/file/837ce90b38c54031269c4.jpg",
+        "https://telegra.ph/file/9757ad8c67f62ff8b4b85.jpg",
+        "https://telegra.ph/file/8a5a33a85e31c300b51f3.jpg",
+        "https://telegra.ph/file/f45e55757c5a391b48c31.jpg",
+        "https://telegra.ph/file/a9f92fe3406e35bbb9786.jpg",
+        "https://telegra.ph/file/73d9f5b759ab57d37a42f.jpg",
+        "https://telegra.ph/file/e4cd660802cae3f2132b5.jpg",
+        "https://telegra.ph/file/eb32e6ef5a528519813be.jpg",
+        "https://telegra.ph/file/c1aa9dca81b4a0f676062.jpg",
+        "https://telegra.ph/file/5adb44c60e1d3b2c87dd4.jpg",
+        "https://telegra.ph/file/3140869aa03f8a07cd6ce.jpg",
+        "https://telegra.ph/file/e597e76aecaf2394e2cd7.jpg",
+        "https://telegra.ph/file/d5b3139e3dc79efb91343.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

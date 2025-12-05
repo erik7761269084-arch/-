@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 755,
+    "title": "Ely_eee(ElyEE子) - Hitori Goto 後藤一里 (Bocchi the Rock!)",
+    "sourceUrl": "https://telegra.ph/Ely-eeeElyEE子---Hitori-Goto-後藤一里-Bocchi-the-Rock-08-26",
+    "images": [
+        "https://telegra.ph/file/2f882d3b6361ce14ab1a0.jpg",
+        "https://telegra.ph/file/bb50b76d957ba5dc21c03.jpg",
+        "https://telegra.ph/file/b249f4f9395f4e07cf2b8.jpg",
+        "https://telegra.ph/file/fd5eabf5582f937b3fb1c.jpg",
+        "https://telegra.ph/file/5831c70265d8be038542c.jpg",
+        "https://telegra.ph/file/9db6f651e745c178ec5f7.jpg",
+        "https://telegra.ph/file/fb13f122c4a03601dbdb0.jpg",
+        "https://telegra.ph/file/1ba71c595afda1e80ce8d.jpg",
+        "https://telegra.ph/file/3f6e717bcb2b0cc1185e2.jpg",
+        "https://telegra.ph/file/d2ab86eea78c8c63d08f7.jpg",
+        "https://telegra.ph/file/341cc8cfcab3bc11cb8fc.jpg",
+        "https://telegra.ph/file/fd87fae9076755e9bae7f.jpg",
+        "https://telegra.ph/file/cb78e38b8019177dd91b8.jpg",
+        "https://telegra.ph/file/15ee5aa668cc603710e14.jpg",
+        "https://telegra.ph/file/8e82fefdd5b4aaf15aa0e.jpg",
+        "https://telegra.ph/file/879f624f77d2dadaca806.jpg",
+        "https://telegra.ph/file/6949f9a0856d28a5bea1e.jpg",
+        "https://telegra.ph/file/f98e03d53216e7c645bbc.jpg",
+        "https://telegra.ph/file/391104dc9ea432fa5ec9f.jpg",
+        "https://telegra.ph/file/fe3f071b2eb3917f28f84.jpg",
+        "https://telegra.ph/file/7e47b25ea2fdc855503af.jpg",
+        "https://telegra.ph/file/e3b4d06d7298a5aee7e58.jpg",
+        "https://telegra.ph/file/4bececf94da2e437ca4af.jpg",
+        "https://telegra.ph/file/2ec577e5fa11da3939f75.jpg",
+        "https://telegra.ph/file/4d7bf050d74368026df17.jpg",
+        "https://telegra.ph/file/b007ea64bd44f24a49a12.jpg",
+        "https://telegra.ph/file/9f16793d9922b1771631c.jpg",
+        "https://telegra.ph/file/85be1c3e8dddd1f03fa06.jpg",
+        "https://telegra.ph/file/7c5f6f42ac16533d6cd21.jpg",
+        "https://telegra.ph/file/b5ea367f76b53ff987dcd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

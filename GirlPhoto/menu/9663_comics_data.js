@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9663,
+    "title": "水淼aqua 玛奇玛自拍",
+    "sourceUrl": "https://telegra.ph/水淼aqua-玛奇玛自拍-08-25",
+    "images": [
+        "https://telegra.ph/file/7d4194fd00a25fa403a39.png",
+        "https://telegra.ph/file/83a776035c21996746263.jpg",
+        "https://telegra.ph/file/25fd90ef5a4acb30d32f1.jpg",
+        "https://telegra.ph/file/4d21b33362345079c57c4.jpg",
+        "https://telegra.ph/file/78b05aeeea38d772d60b0.jpg",
+        "https://telegra.ph/file/55a9db75671dee870b733.jpg",
+        "https://telegra.ph/file/2af07bc53220f76259f46.jpg",
+        "https://telegra.ph/file/e3a8eb4cfd3d37308c4ba.jpg",
+        "https://telegra.ph/file/9ba11068721dd97baab21.jpg",
+        "https://telegra.ph/file/b7c1ddf092b54d33474d0.jpg",
+        "https://telegra.ph/file/72643e17c4bba5d488379.jpg",
+        "https://telegra.ph/file/359e0093c79867e77b2e1.jpg",
+        "https://telegra.ph/file/ee3d429dd8a1c4bed3da0.jpg",
+        "https://telegra.ph/file/5295ea4b3cffff05250d7.jpg",
+        "https://telegra.ph/file/0d71a9edf50a2d220132d.jpg",
+        "https://telegra.ph/file/fb010e2a6881f8e430bad.jpg",
+        "https://telegra.ph/file/0526f4e70a00e5d4296ab.jpg",
+        "https://telegra.ph/file/0f68517f720d971b3c6db.jpg",
+        "https://telegra.ph/file/072727bdb4e81c724a2fb.jpg",
+        "https://telegra.ph/file/7fc3414d61af5ac6f87df.jpg",
+        "https://telegra.ph/file/221c4c3dc489c40fedcf7.jpg",
+        "https://telegra.ph/file/0c62bb7a5309f4f79e892.jpg",
+        "https://telegra.ph/file/6361a1834f14e4441e4d5.jpg",
+        "https://telegra.ph/file/92d10a5e6c38b13001a00.jpg",
+        "https://telegra.ph/file/055051281a4a5fb91c9e3.jpg",
+        "https://telegra.ph/file/7ed70c7c487b7f3774bc0.jpg",
+        "https://telegra.ph/file/a73456f832b4a424b8d22.jpg",
+        "https://telegra.ph/file/54f8dc061dd601231abe5.jpg",
+        "https://telegra.ph/file/eee9b8625068e7f91c9ca.jpg",
+        "https://telegra.ph/file/2429ebf06944eff5073b1.jpg",
+        "https://telegra.ph/file/872564599b4114c95576b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 4667,
+    "title": "二佐Nisa - 白猫自拍2.0 [30P2V-1.35GB]",
+    "sourceUrl": "https://telegra.ph/%E4%BA%8C%E4%BD%90Nisa---%E7%99%BD%E7%8C%AB%E8%87%AA%E6%8B%8D20-30P2V-135GB-08-21",
+    "images": [
+        "https://image.acg.lol/file/2024/10/09/1-462f87f4587f2e46a.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-1c22b456297d4442c.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2ef27b23e7da66776.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-338194bf5f5a799a1.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-569542cab9e2633ce.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-63777a56cc0a1b402.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-7d42e779b62e7170a.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-89b2b579997231710.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-962dacfa7df9487b3.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-1002eaaf0d7773cc20.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-11a187497040cb0f68.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-1290ba9919285196e6.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-13245839c357f43976.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-149774b5cb656b766e.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-15512221f3240837ae.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-16a29bd4afaf92de5d.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-17a631afd7b001270e.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-1800222ff860189781.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-1968e3fb1feaa3e1f4.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2062ca91839dd7b0d2.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2100cbe7865f75f1ed.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2219ee3a8801d3d843.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-23e84d869dfe943bff.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2469c44126410e0ce0.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2572f8c86ac1a70c3e.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2678d3ade4647c3c79.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2747014b09a635c931.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-2875ebe8a74349226d.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-29b6beabac70ee1e24.jpg",
+        "https://image.acg.lol/file/2024/10/09/1-30af1e00f08b5fd945.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

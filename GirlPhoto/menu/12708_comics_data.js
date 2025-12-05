@@ -1,0 +1,37 @@
+const comicData = {
+    "IDcode": 12708,
+    "title": "桜桃喵 – 伊莉雅27P 297MB",
+    "sourceUrl": "https://telegra.ph/桜桃喵--伊莉雅27P-297MB-08-26",
+    "images": [
+        "https://telegra.ph/file/1beddc66f70db32ea21c6.jpg",
+        "https://telegra.ph/file/0f0e29cd67999bddaf0ec.jpg",
+        "https://telegra.ph/file/0a4c20609b799f51ed1a1.jpg",
+        "https://telegra.ph/file/f20b40dc0e31500dd5d27.jpg",
+        "https://telegra.ph/file/7e3769395d633759500c5.jpg",
+        "https://telegra.ph/file/537112528f154611df6b8.jpg",
+        "https://telegra.ph/file/8341fc5bdcad4241490ec.jpg",
+        "https://telegra.ph/file/2030eb8623f9163f46ab6.jpg",
+        "https://telegra.ph/file/4291f6b6338f49e23a174.jpg",
+        "https://telegra.ph/file/bbb1c476d7340b97086ef.jpg",
+        "https://telegra.ph/file/07827c964f6dd684b988a.jpg",
+        "https://telegra.ph/file/045f3609950d41125a5b5.jpg",
+        "https://telegra.ph/file/ff326b3a325a5a060f67e.jpg",
+        "https://telegra.ph/file/3cd019373b610d4703bc1.jpg",
+        "https://telegra.ph/file/bd2c94f63d49685be8533.jpg",
+        "https://telegra.ph/file/9481832dfe3a370a583a5.jpg",
+        "https://telegra.ph/file/5668ba81dd58c21292194.jpg",
+        "https://telegra.ph/file/e7a5b2b5284c0301769d3.jpg",
+        "https://telegra.ph/file/aeff1d6fa64a0585632e3.jpg",
+        "https://telegra.ph/file/f445310fac820f4b1cca9.jpg",
+        "https://telegra.ph/file/ad3c4c3c6a8502d30673d.jpg",
+        "https://telegra.ph/file/fcddc95e4c592e1b53ee1.jpg",
+        "https://telegra.ph/file/3ccf5c0dd9d3f4903ae13.jpg",
+        "https://telegra.ph/file/6ab3f6778a120cd78cb1b.jpg",
+        "https://telegra.ph/file/eee2912c46d048f6f2ee7.jpg",
+        "https://telegra.ph/file/fd9b25e2c33b5ba901dea.jpg",
+        "https://telegra.ph/file/963a4db934b95b2403445.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

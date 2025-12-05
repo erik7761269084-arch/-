@@ -1,0 +1,34 @@
+const comicData = {
+    "IDcode": 782,
+    "title": "Fushii_海堂 NO.012 兔兔头",
+    "sourceUrl": "https://telegra.ph/NO012-兔兔头-08-26",
+    "images": [
+        "https://telegra.ph/file/354be9f8faff17a58ec67.jpg",
+        "https://telegra.ph/file/6c1232d116a733a09becb.jpg",
+        "https://telegra.ph/file/049c77e399b9a5dc044e5.jpg",
+        "https://telegra.ph/file/4ebccc314502a38ac6ffd.jpg",
+        "https://telegra.ph/file/e015960a6de44b91bbc06.jpg",
+        "https://telegra.ph/file/ebb1a1758084ba8369d12.jpg",
+        "https://telegra.ph/file/c4f5aebec099c87266d16.jpg",
+        "https://telegra.ph/file/f48774c1fa5185d467f95.jpg",
+        "https://telegra.ph/file/ef5a564655a8f64ec06a2.jpg",
+        "https://telegra.ph/file/ac8a893f3f9bd268f0146.jpg",
+        "https://telegra.ph/file/2cbb1b3c9a4ca0986e8ce.jpg",
+        "https://telegra.ph/file/e0abb3f98b681e3467963.jpg",
+        "https://telegra.ph/file/5b83ec199617ccc4a1b74.jpg",
+        "https://telegra.ph/file/3750dccaa9a2ce30868d2.jpg",
+        "https://telegra.ph/file/cd3740323fe9c0218c2be.jpg",
+        "https://telegra.ph/file/135139dd6bf2795e54d46.jpg",
+        "https://telegra.ph/file/0a2aac89ccd1bcbf71460.jpg",
+        "https://telegra.ph/file/c22a774a0b75aad2607e9.jpg",
+        "https://telegra.ph/file/750729670efb75a8cb48c.jpg",
+        "https://telegra.ph/file/f058239bf92bcee72db06.jpg",
+        "https://telegra.ph/file/936bab2fa3cbc2a27939d.jpg",
+        "https://telegra.ph/file/ecbd04a175dd1ab3816ff.jpg",
+        "https://telegra.ph/file/78772dec948503b18ee94.jpg",
+        "https://telegra.ph/file/2c3abe5cbfe2819fd4ab7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

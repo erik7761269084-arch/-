@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 21280,
+    "title": "Fantasy – Dasom Vol.01 - On the Terrace",
+    "sourceUrl": "https://telegra.ph/Fantasy--Dasom-Vol01---On-the-Terrace-08-29",
+    "images": [
+        "https://telegra.ph/file/3dbcd13416d1e7025ba56.jpg",
+        "https://telegra.ph/file/74f337c13d742f4cee73c.jpg",
+        "https://telegra.ph/file/272ced37cd9047338ac16.jpg",
+        "https://telegra.ph/file/b511d2c34be55d72d44ce.jpg",
+        "https://telegra.ph/file/ff36920179c8e8d8ab1b4.jpg",
+        "https://telegra.ph/file/01c3eed48ba7a74a6870d.jpg",
+        "https://telegra.ph/file/777f1058c1e8f4ab71e40.jpg",
+        "https://telegra.ph/file/4993f28def67405e3ce94.jpg",
+        "https://telegra.ph/file/081f0ea37b26f81351ea4.jpg",
+        "https://telegra.ph/file/5c25daa6d9999394d3169.jpg",
+        "https://telegra.ph/file/c71db35bffecada68af88.jpg",
+        "https://telegra.ph/file/d5fc8b815d1e63f71c21e.jpg",
+        "https://telegra.ph/file/a6a5dcb53b014a3eb0be3.jpg",
+        "https://telegra.ph/file/2646ddca1db6110320b69.jpg",
+        "https://telegra.ph/file/98085ab3648bb1258568c.jpg",
+        "https://telegra.ph/file/4840bd4078810911cb1d4.jpg",
+        "https://telegra.ph/file/82927e1456d4e2f6e5b68.jpg",
+        "https://telegra.ph/file/3f4ec52d55f8fbb6aa331.jpg",
+        "https://telegra.ph/file/c518ee862aded815c55e8.jpg",
+        "https://telegra.ph/file/24db6007fd491ec9fe54f.jpg",
+        "https://telegra.ph/file/0787c6ae7c39bead6b0c3.jpg",
+        "https://telegra.ph/file/2c7b51f8aed5ee564b3a7.jpg",
+        "https://telegra.ph/file/8d2b9c75b2b735f47bde9.jpg",
+        "https://telegra.ph/file/758feffd96aa533ba47a5.jpg",
+        "https://telegra.ph/file/0dc55d1b4ed6d918d7bb0.jpg",
+        "https://telegra.ph/file/6576b6804044bf618295f.jpg",
+        "https://telegra.ph/file/21255996ca600feb5fce0.jpg",
+        "https://telegra.ph/file/894189ee777e10af93c71.jpg",
+        "https://telegra.ph/file/3268335c67f3c85e7e199.jpg",
+        "https://telegra.ph/file/bd8f3b5b7bd07addf0721.jpg",
+        "https://telegra.ph/file/d11350ca6962ebe1edf9f.jpg",
+        "https://telegra.ph/file/5f2457f45357719255ca8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 1278,
+    "title": "Kitaro_绮太郎 火影忍者 碧蓝之牙",
+    "sourceUrl": "https://telegra.ph/Kitaro-绮太郎-火影忍者-碧蓝之牙-08-27",
+    "images": [
+        "https://telegra.ph/file/bbd9016e1e902b15a3888.jpg",
+        "https://telegra.ph/file/5bc3a135b510cba315209.jpg",
+        "https://telegra.ph/file/e2db0af2c26088bdc18ae.jpg",
+        "https://telegra.ph/file/52dc630ec532c843070b4.jpg",
+        "https://telegra.ph/file/3647ac2b0771c64eca5f0.jpg",
+        "https://telegra.ph/file/1ef6b333e2b9cfe5a90b1.jpg",
+        "https://telegra.ph/file/9732bec12dfc8d8a8ec8c.jpg",
+        "https://telegra.ph/file/8a4ff22ca3e7db3bcb862.jpg",
+        "https://telegra.ph/file/84051bcd10b4a5155d335.jpg",
+        "https://telegra.ph/file/0871f7cfd97ad5f31eb21.jpg",
+        "https://telegra.ph/file/14fc1148da281169a097f.jpg",
+        "https://telegra.ph/file/c5349044dd4e04eef8a32.jpg",
+        "https://telegra.ph/file/592dca280316a1cdf8fe8.jpg",
+        "https://telegra.ph/file/e95e345936b1fdd858686.jpg",
+        "https://telegra.ph/file/b016f71ae248218a2b1ad.jpg",
+        "https://telegra.ph/file/db9b5e6ca0a9b0e4d4d5a.jpg",
+        "https://telegra.ph/file/338565e5c5fcc274e53cd.jpg",
+        "https://telegra.ph/file/70070ff5a6185bb61fc33.jpg",
+        "https://telegra.ph/file/4dcd9254a00d70c8ae76e.jpg",
+        "https://telegra.ph/file/4b8425a545cbd644ce4f9.jpg",
+        "https://telegra.ph/file/0b1d18edc5fa3a1f5594f.jpg",
+        "https://telegra.ph/file/fe84384632cc800a42b31.jpg",
+        "https://telegra.ph/file/871f74ee37975a0ad44e0.jpg",
+        "https://telegra.ph/file/6c1494ed19dedd8ae8c55.jpg",
+        "https://telegra.ph/file/6e8dfa9f7bdb10874fdf6.jpg",
+        "https://telegra.ph/file/391257ac5f9c0ae982cc8.jpg",
+        "https://telegra.ph/file/d3ba235c70d2b6d1d9ae6.jpg",
+        "https://telegra.ph/file/09c0a4d984aebfbf4dccc.jpg",
+        "https://telegra.ph/file/4ef08ca65c523917069a9.jpg",
+        "https://telegra.ph/file/ba7d8426e0be469ade6d7.jpg",
+        "https://telegra.ph/file/38e109e7bee6f6a68564c.jpg",
+        "https://telegra.ph/file/a70dbd26a81e92f205756.jpg",
+        "https://telegra.ph/file/88408f031f6771f86c326.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

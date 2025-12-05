@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9517,
+    "title": "蜜桃少女是依酱呀 - 2020圣诞特辑",
+    "sourceUrl": "https://telegra.ph/蜜桃少女是依酱呀---2020圣诞特辑-08-28",
+    "images": [
+        "https://telegra.ph/file/ec26b74996f7b555a3453.jpg",
+        "https://telegra.ph/file/e81825d994b78268c9a2f.jpg",
+        "https://telegra.ph/file/ad092c371dbcc993410e3.jpg",
+        "https://telegra.ph/file/132c1c691367f76b14a53.jpg",
+        "https://telegra.ph/file/d2c626c2c565d7ce93711.jpg",
+        "https://telegra.ph/file/e85b4c1048ef94303fbd2.jpg",
+        "https://telegra.ph/file/b3b0bb4fd537e005d2901.jpg",
+        "https://telegra.ph/file/dffb29f795c0cf0a03c35.jpg",
+        "https://telegra.ph/file/4d7dd18680120c5d822e1.jpg",
+        "https://telegra.ph/file/2d7003754843feffe36b3.jpg",
+        "https://telegra.ph/file/50b97ad42e4c257203fbd.jpg",
+        "https://telegra.ph/file/aba030c12c9bcc977e328.jpg",
+        "https://telegra.ph/file/61c5cf967f5c952b07573.jpg",
+        "https://telegra.ph/file/0e3116561443e097a997a.jpg",
+        "https://telegra.ph/file/5938ec5b788e851521346.jpg",
+        "https://telegra.ph/file/463af12a7ba0962bd2b9d.jpg",
+        "https://telegra.ph/file/9b9f36ccca2d48b0db533.jpg",
+        "https://telegra.ph/file/638dd57d161ade71a1e42.jpg",
+        "https://telegra.ph/file/eaa4c4ea1b0356d066859.jpg",
+        "https://telegra.ph/file/e454338614d4fd0fca0c7.jpg",
+        "https://telegra.ph/file/c34cc2c48c759c51d7a0f.jpg",
+        "https://telegra.ph/file/23b378e3a9f7419701aac.jpg",
+        "https://telegra.ph/file/722067977f0cc8b8ee760.jpg",
+        "https://telegra.ph/file/f13c3c0b7dc3994507e61.jpg",
+        "https://telegra.ph/file/431bcdc3e9a63c4a2050c.jpg",
+        "https://telegra.ph/file/11ff451d16893cbe74b2e.jpg",
+        "https://telegra.ph/file/7e62749f627066277bb95.jpg",
+        "https://telegra.ph/file/e953fb7b4ade6f2974a04.jpg",
+        "https://telegra.ph/file/df00e1510b38682ce0bc1.jpg",
+        "https://telegra.ph/file/073fbfb977f0623d21e3f.jpg",
+        "https://telegra.ph/file/d758e5f9dbf4a5cd42428.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

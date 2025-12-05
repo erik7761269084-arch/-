@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13469,
+    "title": "羽生三未 - 中華厨娘 32P-1.15G",
+    "sourceUrl": "https://telegra.ph/羽生三未---中華厨娘-32P-115G-08-25",
+    "images": [
+        "https://telegra.ph/file/927650fb7a6530a77d1c1.jpg",
+        "https://telegra.ph/file/b9c86b7e1ea5cd341d2e8.jpg",
+        "https://telegra.ph/file/e2a6d8077d5914ae5631e.jpg",
+        "https://telegra.ph/file/486409e7c6793be4fba10.jpg",
+        "https://telegra.ph/file/8ca17af654c6a8b4dc706.jpg",
+        "https://telegra.ph/file/474c7fbdf421f6fb12f4b.jpg",
+        "https://telegra.ph/file/4bda8a611c6ce22c22c5f.jpg",
+        "https://telegra.ph/file/a37189ccfff08004b11e5.jpg",
+        "https://telegra.ph/file/e6a154e644926b6bf4842.jpg",
+        "https://telegra.ph/file/d378f5454d366e4eb7ddf.jpg",
+        "https://telegra.ph/file/ee98dab5f85091a057dc4.jpg",
+        "https://telegra.ph/file/e59915613ec9c9511337a.jpg",
+        "https://telegra.ph/file/a6a8b1362971e06665d5f.jpg",
+        "https://telegra.ph/file/a88ea4a69d4eb0765653a.jpg",
+        "https://telegra.ph/file/b0e800dc428f3a3a9c293.jpg",
+        "https://telegra.ph/file/7a8049dbb0faef924e15f.jpg",
+        "https://telegra.ph/file/7900fb2e28fd252e46bf8.jpg",
+        "https://telegra.ph/file/994c1778716f0359f755b.jpg",
+        "https://telegra.ph/file/c63cc16eb4b15629cae4c.jpg",
+        "https://telegra.ph/file/d425456cfab4643961ab6.jpg",
+        "https://telegra.ph/file/95e259170d2f084493162.jpg",
+        "https://telegra.ph/file/ebdc30d5d73f253859254.jpg",
+        "https://telegra.ph/file/59d8a156c576a9843829e.jpg",
+        "https://telegra.ph/file/eae73d126aa62bfd1ed39.jpg",
+        "https://telegra.ph/file/88516a30d1db173969623.jpg",
+        "https://telegra.ph/file/cdb1b1bd4213c2fd665f8.jpg",
+        "https://telegra.ph/file/59e8cb5546257a1354567.jpg",
+        "https://telegra.ph/file/e0ba17cd3683f3ba98bac.jpg",
+        "https://telegra.ph/file/546fe755de76df915e371.jpg",
+        "https://telegra.ph/file/0719629d8dd2a66e8da16.jpg",
+        "https://telegra.ph/file/d01174e0ab71636b32950.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

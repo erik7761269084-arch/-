@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21600,
+    "title": "Yoon yul – Pure & sexy No.02",
+    "sourceUrl": "https://telegra.ph/Yoon-yul--Pure--sexy-No02-08-29",
+    "images": [
+        "https://telegra.ph/file/c75fa903534864770b609.jpg",
+        "https://telegra.ph/file/f6caa24f42da1c3767cdc.jpg",
+        "https://telegra.ph/file/61ba7c76cddb31229bd09.jpg",
+        "https://telegra.ph/file/38c2c61763e2c112bd423.jpg",
+        "https://telegra.ph/file/0f1c4d4820b8aa8fad1f6.jpg",
+        "https://telegra.ph/file/369fef800bd52f6400ec4.jpg",
+        "https://telegra.ph/file/60d0c3dd6641ec63af9b8.jpg",
+        "https://telegra.ph/file/48c1d574a962fcb3d78f8.jpg",
+        "https://telegra.ph/file/26324e01afa0d7538b3cb.jpg",
+        "https://telegra.ph/file/c41d3b7491bc43fa98e10.jpg",
+        "https://telegra.ph/file/c506ad654f356cc3592ea.jpg",
+        "https://telegra.ph/file/6fbc3ebb437549707d939.jpg",
+        "https://telegra.ph/file/5cfcdbb309f68d2b50a0d.jpg",
+        "https://telegra.ph/file/3185ef5a8d4af2ad6299d.jpg",
+        "https://telegra.ph/file/e73f8702463cd2074e6fb.jpg",
+        "https://telegra.ph/file/16082e30071efd4b8d5e1.jpg",
+        "https://telegra.ph/file/c83f656e5d847976597da.jpg",
+        "https://telegra.ph/file/503cb8cee85587bbc6e85.jpg",
+        "https://telegra.ph/file/ea4c8dd78b69f89eb6425.jpg",
+        "https://telegra.ph/file/a1b84ebfc78f17fe0e369.jpg",
+        "https://telegra.ph/file/5ae26918f24fa4d1a0f59.jpg",
+        "https://telegra.ph/file/b96b08499bbee4ba06654.jpg",
+        "https://telegra.ph/file/77adb5a2e59a4bc0f6bce.jpg",
+        "https://telegra.ph/file/9bbaf18334bc5ae0743cc.jpg",
+        "https://telegra.ph/file/8f46595043e637e3bdb93.jpg",
+        "https://telegra.ph/file/582050611f36acc6b6809.jpg",
+        "https://telegra.ph/file/380ea0308cecbbbebfb9c.jpg",
+        "https://telegra.ph/file/de3fb4a2fb21944cd5a1f.jpg",
+        "https://telegra.ph/file/09cc1c5a5817fe187eecd.jpg",
+        "https://telegra.ph/file/42708f328497cc256f06c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

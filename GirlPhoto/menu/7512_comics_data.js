@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 7512,
+    "title": "爆机少女喵小吉 - Tori Zero",
+    "sourceUrl": "https://telegra.ph/爆机少女喵小吉---Tori-Zero-08-29",
+    "images": [
+        "https://telegra.ph/file/dcffe5d2832c6759d12a7.jpg",
+        "https://telegra.ph/file/fc7bc9b907cfe0787b730.jpg",
+        "https://telegra.ph/file/7e08262bfdfe46e6a5471.jpg",
+        "https://telegra.ph/file/a233778d8f16bb996838f.jpg",
+        "https://telegra.ph/file/4b5e072e77e0876628dc1.jpg",
+        "https://telegra.ph/file/7b302c1c1dd5c899d16d1.jpg",
+        "https://telegra.ph/file/2124fb1851d8f14bfc7e2.jpg",
+        "https://telegra.ph/file/719739444a50ed0547c48.jpg",
+        "https://telegra.ph/file/51df01bc4bd5911209d50.jpg",
+        "https://telegra.ph/file/aa32d381490adb3182db3.jpg",
+        "https://telegra.ph/file/edbfe4444d580078b6c7b.jpg",
+        "https://telegra.ph/file/6b49a326bbc57e28bc5d3.jpg",
+        "https://telegra.ph/file/4fc27bc822e89ae7dd0cb.jpg",
+        "https://telegra.ph/file/ea68773a526948cb6f2e8.jpg",
+        "https://telegra.ph/file/6c1155281a71b1b1f91bc.jpg",
+        "https://telegra.ph/file/76563d3355eb21ff6e2c3.jpg",
+        "https://telegra.ph/file/648bf4a5d51d2171921ba.jpg",
+        "https://telegra.ph/file/dedf5e305178ca459ccf2.jpg",
+        "https://telegra.ph/file/88cfc9225cdfa45f947e8.jpg",
+        "https://telegra.ph/file/e98b04749f32c2ddf010d.jpg",
+        "https://telegra.ph/file/e1cd918eb509bd45f9996.jpg",
+        "https://telegra.ph/file/887fc81c4526acb09ed8e.jpg",
+        "https://telegra.ph/file/966d4b2275aa2e6679ea7.jpg",
+        "https://telegra.ph/file/4321d969ef8fae64ad716.jpg",
+        "https://telegra.ph/file/0a8770d230fb249820450.jpg",
+        "https://telegra.ph/file/0bde12a76f1e896115895.jpg",
+        "https://telegra.ph/file/20b8e5e6b22dfceeb0106.jpg",
+        "https://telegra.ph/file/39cdf9ae35b2e61948a0f.jpg",
+        "https://telegra.ph/file/c8847ce03375b6f7eab30.jpg",
+        "https://telegra.ph/file/1754e5913cc81e4110362.jpg",
+        "https://telegra.ph/file/ff3d06abaaac12004716e.jpg",
+        "https://telegra.ph/file/9a49e6ac030564e8fbcc5.jpg",
+        "https://telegra.ph/file/8275d7e708e993869ea80.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 3607,
+    "title": "布丁大法 - JK",
+    "sourceUrl": "https://telegra.ph/布丁大法---JK-08-27",
+    "images": [
+        "https://telegra.ph/file/bcbaf6186c6cacb4f2e4f.jpg",
+        "https://telegra.ph/file/4d574efbaf496ebc9a319.jpg",
+        "https://telegra.ph/file/7bdfb2cefe7bfb6b2284c.jpg",
+        "https://telegra.ph/file/54d23234a82f85d913ec1.jpg",
+        "https://telegra.ph/file/5d211e63d3a577cb69503.jpg",
+        "https://telegra.ph/file/c7f849cd3ebaa5bde43d9.jpg",
+        "https://telegra.ph/file/8cb005ecc428ca439b856.jpg",
+        "https://telegra.ph/file/0381c51b2136e713ff32a.jpg",
+        "https://telegra.ph/file/ee4c769e9550b27897c68.jpg",
+        "https://telegra.ph/file/dea68010b4edfb1888431.jpg",
+        "https://telegra.ph/file/dd033fc82fb394f7801a1.jpg",
+        "https://telegra.ph/file/3e938e1fc839d292dd8f6.jpg",
+        "https://telegra.ph/file/292c714e1e966f67f1809.jpg",
+        "https://telegra.ph/file/456d4c588ddbfaca8dbcf.jpg",
+        "https://telegra.ph/file/ffb160bce500c3aabc5dc.jpg",
+        "https://telegra.ph/file/2d90a5b2cd9020cfb5af7.jpg",
+        "https://telegra.ph/file/2aa9420a30d3e6a17d8f1.jpg",
+        "https://telegra.ph/file/a3cba16d82c34988683d4.jpg",
+        "https://telegra.ph/file/181ece270bc245a5d60c3.jpg",
+        "https://telegra.ph/file/34d059c12a2ed9762794e.jpg",
+        "https://telegra.ph/file/b5edbcf66d7e306ec708c.jpg",
+        "https://telegra.ph/file/dc9a59e370cf3ca56811b.jpg",
+        "https://telegra.ph/file/73da8eb1ffff90d612b47.jpg",
+        "https://telegra.ph/file/b63ae827f063a17c144d6.jpg",
+        "https://telegra.ph/file/18af15cce02ec500ab71a.jpg",
+        "https://telegra.ph/file/3b1dbc9dbe1b29ba76825.jpg",
+        "https://telegra.ph/file/eeb31b1275e7f99f5de0c.jpg",
+        "https://telegra.ph/file/d56810ee2388cd01cba0c.jpg",
+        "https://telegra.ph/file/286a2eb157d533677997c.jpg",
+        "https://telegra.ph/file/4ed2e3b77162ab5620636.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

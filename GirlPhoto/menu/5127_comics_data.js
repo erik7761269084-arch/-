@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 5127,
+    "title": "疯猫ss - 布洛妮娅 大鸭鸭",
+    "sourceUrl": "https://telegra.ph/疯猫ss---布洛妮娅-大鸭鸭-08-29",
+    "images": [
+        "https://telegra.ph/file/0a1e21b88054d990ce276.jpg",
+        "https://telegra.ph/file/4b9d6b97976069ffc0d9b.jpg",
+        "https://telegra.ph/file/0e9035cf5351048135f2e.jpg",
+        "https://telegra.ph/file/67400bd0d400f9e80e408.jpg",
+        "https://telegra.ph/file/3fd36464001daa84ca9cc.jpg",
+        "https://telegra.ph/file/df937145a3fb4ca72e887.jpg",
+        "https://telegra.ph/file/17dbb66d30476b5c8e088.jpg",
+        "https://telegra.ph/file/b982aebcc2ee8213ff82b.jpg",
+        "https://telegra.ph/file/b1ab5777b8630856b2865.jpg",
+        "https://telegra.ph/file/699d4dc5c5100d72f75f0.jpg",
+        "https://telegra.ph/file/fcd5814e7eb113c30121c.jpg",
+        "https://telegra.ph/file/b6b8c5488fa98b478587c.jpg",
+        "https://telegra.ph/file/f0479fef1ac74def98408.jpg",
+        "https://telegra.ph/file/6c2b1bfd0f847c7c87ee5.jpg",
+        "https://telegra.ph/file/f354a8ceaf7d6efdbe97c.jpg",
+        "https://telegra.ph/file/e67f757d98c1855950386.jpg",
+        "https://telegra.ph/file/005c26b101af884c02edb.jpg",
+        "https://telegra.ph/file/eb30d26158d27cb96d0ff.jpg",
+        "https://telegra.ph/file/3af07a144990ecf471c62.jpg",
+        "https://telegra.ph/file/e95211ab73dac9113ec32.jpg",
+        "https://telegra.ph/file/9ad1a7e7d248ab9dff435.jpg",
+        "https://telegra.ph/file/4d2663467b789d7d3dfad.jpg",
+        "https://telegra.ph/file/4e46f168de06e5e60d6f0.jpg",
+        "https://telegra.ph/file/e38c8e62bd5a8a9261fc7.jpg",
+        "https://telegra.ph/file/619b70c27c17a7dbc4b25.jpg",
+        "https://telegra.ph/file/b32e3618f8f6cdba16ab2.jpg",
+        "https://telegra.ph/file/669209960c34aba7916fc.jpg",
+        "https://telegra.ph/file/255d3e020b5832ca6c816.jpg",
+        "https://telegra.ph/file/47bc50ecbf06ca31d267a.jpg",
+        "https://telegra.ph/file/b56159f2a9330b42a4c49.jpg",
+        "https://telegra.ph/file/803e1655c75b0b7bc085c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

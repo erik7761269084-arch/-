@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 5335,
+    "title": "过期米线线喵 - 邻居家的妹妹",
+    "sourceUrl": "https://telegra.ph/过期米线线喵---邻居家的妹妹-08-29",
+    "images": [
+        "https://telegra.ph/file/a8a476ddaa558ba5ef841.jpg",
+        "https://telegra.ph/file/341f5561b92f54b142524.jpg",
+        "https://telegra.ph/file/25927d4c4d65fa6aac43a.jpg",
+        "https://telegra.ph/file/38f973d1bafada3bb1e27.jpg",
+        "https://telegra.ph/file/7d310dccfff53ea62f1a1.jpg",
+        "https://telegra.ph/file/3ce26f63dc7953110af6f.jpg",
+        "https://telegra.ph/file/d6514a0e576d9fab2bba8.jpg",
+        "https://telegra.ph/file/4a1d5f43446c77c6df159.jpg",
+        "https://telegra.ph/file/ae2d7b6d5d9427c4a3b8e.jpg",
+        "https://telegra.ph/file/0d8a4966f112e17aefaa6.jpg",
+        "https://telegra.ph/file/45e0440f916a9947dba40.jpg",
+        "https://telegra.ph/file/334a76e9c44309791bd7f.jpg",
+        "https://telegra.ph/file/6edbf728596be96ebdb3a.jpg",
+        "https://telegra.ph/file/8fc18914f8a0ef969ea14.jpg",
+        "https://telegra.ph/file/2479f402de456197fb217.jpg",
+        "https://telegra.ph/file/07cd75d4dd5cb03622319.jpg",
+        "https://telegra.ph/file/bcda420c8e1347e43fcfb.jpg",
+        "https://telegra.ph/file/0b1d8b0f1a5602409eaa0.jpg",
+        "https://telegra.ph/file/213f3041fd8ec790542dc.jpg",
+        "https://telegra.ph/file/887bba89fedfd4f7c321b.jpg",
+        "https://telegra.ph/file/b928b8e5d727c52ce4ee8.jpg",
+        "https://telegra.ph/file/1b80c03d27de916ac99a1.jpg",
+        "https://telegra.ph/file/f8438435b3bb4e9ace7c4.jpg",
+        "https://telegra.ph/file/072b9b6ec1ab92ce57c57.jpg",
+        "https://telegra.ph/file/06160c98e787be297df06.jpg",
+        "https://telegra.ph/file/42f13d6957f272f3f8e83.jpg",
+        "https://telegra.ph/file/22a9aab695bcd8342af6c.jpg",
+        "https://telegra.ph/file/9d0a8111fcf40a1acc519.jpg",
+        "https://telegra.ph/file/f7ad88817c75c9cefd4fe.jpg",
+        "https://telegra.ph/file/6fe7eece39263dc1fee6a.jpg",
+        "https://telegra.ph/file/1333a47fc6969ffeffd95.jpg",
+        "https://telegra.ph/file/fb887623473b54ea2e00b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

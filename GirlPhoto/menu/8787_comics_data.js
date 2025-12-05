@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8787,
+    "title": "日奈娇 海梦兔女郎[30P-252MB]",
+    "sourceUrl": "https://telegra.ph/日奈娇-海梦兔女郎30P-252MB-08-24",
+    "images": [
+        "https://telegra.ph/file/a00506aa581a5fdfadf3a.jpg",
+        "https://telegra.ph/file/e1161d82e92fbc4eb85a9.jpg",
+        "https://telegra.ph/file/b2b0ce32d62066974d11a.jpg",
+        "https://telegra.ph/file/55c7975d2aa3c713699d2.jpg",
+        "https://telegra.ph/file/a4258da7c7ea8a6c13649.jpg",
+        "https://telegra.ph/file/0618482ddafa25fd15093.jpg",
+        "https://telegra.ph/file/c789be6979e859bed5a61.jpg",
+        "https://telegra.ph/file/dbe257ab7cdab1c1686db.jpg",
+        "https://telegra.ph/file/484178cd9f795de6e2fe6.jpg",
+        "https://telegra.ph/file/974e39cf79d61490c5822.jpg",
+        "https://telegra.ph/file/3a4e13918acd0fb7e6f9c.jpg",
+        "https://telegra.ph/file/57f4a3827ab1de8ec6b27.jpg",
+        "https://telegra.ph/file/9706236b79bedfb04631f.jpg",
+        "https://telegra.ph/file/be18930d9fb18362d39cc.jpg",
+        "https://telegra.ph/file/e247c6d84bb2a779946cd.jpg",
+        "https://telegra.ph/file/d5e871453116358d5e90b.jpg",
+        "https://telegra.ph/file/39dfe4a1849c89a963f14.jpg",
+        "https://telegra.ph/file/c257bac15449f5bf93f33.jpg",
+        "https://telegra.ph/file/2720b1b8fe60adaa02411.jpg",
+        "https://telegra.ph/file/61a1ca6b6e62ff1418eab.jpg",
+        "https://telegra.ph/file/9c70c78ad498381be7140.jpg",
+        "https://telegra.ph/file/2ae81c00790ae64335d23.jpg",
+        "https://telegra.ph/file/5e2ffabaa952fb04d6729.jpg",
+        "https://telegra.ph/file/5c485c9f2b0933d992bea.jpg",
+        "https://telegra.ph/file/d2c05ee8d9852cb5428eb.jpg",
+        "https://telegra.ph/file/4b9599fffa120706dccb3.jpg",
+        "https://telegra.ph/file/5fbfbd2740b59784337d2.jpg",
+        "https://telegra.ph/file/50a8fc5445814346c9141.jpg",
+        "https://telegra.ph/file/8f95e63a1131b66ec2306.jpg",
+        "https://telegra.ph/file/39416548b81768dbc1189.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

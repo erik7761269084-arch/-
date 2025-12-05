@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6016,
+    "title": "九言 太太",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80-%E5%A4%AA%E5%A4%AA-08-23",
+    "images": [
+        "https://telegra.ph/file/06890873e2b369af83cb7.jpg",
+        "https://telegra.ph/file/71e3540bece89574e421f.jpg",
+        "https://telegra.ph/file/9488d88a4717fedef13af.jpg",
+        "https://telegra.ph/file/d1ca20f1cae179e382b20.jpg",
+        "https://telegra.ph/file/4202ce36041c70a6354a2.jpg",
+        "https://telegra.ph/file/7d050348232fb3a84372f.jpg",
+        "https://telegra.ph/file/c14769c07b1181581a308.jpg",
+        "https://telegra.ph/file/8a048288e194cea2cc965.jpg",
+        "https://telegra.ph/file/16e9e087f6a109ec31c3d.jpg",
+        "https://telegra.ph/file/53c5e17915cac0fb3d9ed.jpg",
+        "https://telegra.ph/file/bd6c688a082e64e3254f0.jpg",
+        "https://telegra.ph/file/329e3e58354f0df10f4ad.jpg",
+        "https://telegra.ph/file/3ae739e527821cb29cc91.jpg",
+        "https://telegra.ph/file/da487ed9547cd497e7daa.jpg",
+        "https://telegra.ph/file/a860f2c94c588603ccd38.jpg",
+        "https://telegra.ph/file/a11201990ca20c7235435.jpg",
+        "https://telegra.ph/file/47a1a31e8abc31746a8a8.jpg",
+        "https://telegra.ph/file/dd8372ee9732083f92216.jpg",
+        "https://telegra.ph/file/f8eb5483499552b2073ee.jpg",
+        "https://telegra.ph/file/39dfe7d0d3759734a652f.jpg",
+        "https://telegra.ph/file/b278d02c131868bbea071.jpg",
+        "https://telegra.ph/file/f1926535100ce7b4050c8.jpg",
+        "https://telegra.ph/file/8eb554a6746629604f4cc.jpg",
+        "https://telegra.ph/file/9397602a554fb52c0014c.jpg",
+        "https://telegra.ph/file/fb310f7b3eee24740465c.jpg",
+        "https://telegra.ph/file/2d516be81d81ab0db4f95.jpg",
+        "https://telegra.ph/file/c905b328ce1c7a48b2c74.jpg",
+        "https://telegra.ph/file/920627bcb9b545c1767cd.jpg",
+        "https://telegra.ph/file/feaef99c28ff0559ab95a.jpg",
+        "https://telegra.ph/file/5bf8606d3ce607cda0bad.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 2527,
+    "title": "Umeko J - Tamaki Kotatsu",
+    "sourceUrl": "https://telegra.ph/Umeko-J---Tamaki-Kotatsu-08-29",
+    "images": [
+        "https://telegra.ph/file/931734f66158f0896bfd3.jpg",
+        "https://telegra.ph/file/9c236dfd2363d3f7fd9e0.jpg",
+        "https://telegra.ph/file/f93b5e4086f2640b8e8a7.jpg",
+        "https://telegra.ph/file/16fa1645636a0e6fa1aef.jpg",
+        "https://telegra.ph/file/05b4907eb3db1d4b54507.jpg",
+        "https://telegra.ph/file/72996222ac2343ed7bdeb.jpg",
+        "https://telegra.ph/file/2a1605681f09eaff3948a.jpg",
+        "https://telegra.ph/file/0ac651028a138bb944b48.jpg",
+        "https://telegra.ph/file/52234a0e6e31114bf3207.jpg",
+        "https://telegra.ph/file/87be22beea6cb9fe4eef1.jpg",
+        "https://telegra.ph/file/827a6c45d7457ece4589f.jpg",
+        "https://telegra.ph/file/ab66007fb9d75b5c13df0.jpg",
+        "https://telegra.ph/file/feb7c132898837b35daf7.jpg",
+        "https://telegra.ph/file/8a985fe65b667d2745ed9.jpg",
+        "https://telegra.ph/file/f778c35b1dd0288844f0f.jpg",
+        "https://telegra.ph/file/66cae3e2f0e21e2a23cb1.jpg",
+        "https://telegra.ph/file/7d75dd87833bddf2fc0cc.jpg",
+        "https://telegra.ph/file/f9fee58dd58cf14f9e4c0.jpg",
+        "https://telegra.ph/file/58b82aa6f3de120fd48a8.jpg",
+        "https://telegra.ph/file/3be65ed296664714ae13c.jpg",
+        "https://telegra.ph/file/f83a6ff45c3157a9e5cb8.jpg",
+        "https://telegra.ph/file/6e72a5d70755aa2968a2c.jpg",
+        "https://telegra.ph/file/18a45b902dc1a2cf2c04a.jpg",
+        "https://telegra.ph/file/3ea38af6facb08c913534.jpg",
+        "https://telegra.ph/file/8e6ecab14b0e39e7b8126.jpg",
+        "https://telegra.ph/file/035bb19fcc388ff90ef90.jpg",
+        "https://telegra.ph/file/2d16dbfa4f539c61242d1.jpg",
+        "https://telegra.ph/file/3a0cf0a976e5f880b2a3a.jpg",
+        "https://telegra.ph/file/bb9e1e89aa4cdbfb80abd.jpg",
+        "https://telegra.ph/file/adbc97bb7b4190ce3abd2.jpg",
+        "https://telegra.ph/file/94455e58ced9695df2852.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

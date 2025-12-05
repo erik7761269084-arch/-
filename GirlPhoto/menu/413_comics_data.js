@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 413,
+    "title": "Byoru - Nyotengu",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Nyotengu-08-26",
+    "images": [
+        "https://telegra.ph/file/e98009e6a8e3c045cb2aa.jpg",
+        "https://telegra.ph/file/a2bd728711ec0ef3027ea.jpg",
+        "https://telegra.ph/file/d911cab54a54e6c6cb2cc.jpg",
+        "https://telegra.ph/file/6840bb305ec90ab0dac2d.jpg",
+        "https://telegra.ph/file/868a3b476356b6a1c2d06.jpg",
+        "https://telegra.ph/file/9e090f5dd300ed046683c.jpg",
+        "https://telegra.ph/file/73a9db060413f0e731eb9.jpg",
+        "https://telegra.ph/file/764ef5b5b47050b26381f.jpg",
+        "https://telegra.ph/file/74cb77e4f3eb49a43aaa5.jpg",
+        "https://telegra.ph/file/ad4c8902edd29cc12b249.jpg",
+        "https://telegra.ph/file/6088bc1ae30bd8b1f6f1c.jpg",
+        "https://telegra.ph/file/685ce388a4425b1dc1dbc.jpg",
+        "https://telegra.ph/file/08f5ed66f1e5c991c8f8f.jpg",
+        "https://telegra.ph/file/1f1e70c6af29522bc3188.jpg",
+        "https://telegra.ph/file/b79b2f7cf0e75c84553bd.jpg",
+        "https://telegra.ph/file/ce51af568cfd4a2f9a7c5.jpg",
+        "https://telegra.ph/file/f2219bdd9aae0f4438dcd.jpg",
+        "https://telegra.ph/file/a3e365f0c1a409439ba99.jpg",
+        "https://telegra.ph/file/089278934ea78eb7c2932.jpg",
+        "https://telegra.ph/file/dc9aed8b6b043d267879f.jpg",
+        "https://telegra.ph/file/1fb4cd317ce99a52409e8.jpg",
+        "https://telegra.ph/file/a3f4e68f27727468f95c1.jpg",
+        "https://telegra.ph/file/cd724913e2c14fddbf510.jpg",
+        "https://telegra.ph/file/cf2d315813eee1c250128.jpg",
+        "https://telegra.ph/file/c9c3be72b71afc2e1e0ab.jpg",
+        "https://telegra.ph/file/68a4d5b229d5915d2937a.jpg",
+        "https://telegra.ph/file/8cab23be439b56fb6edd4.jpg",
+        "https://telegra.ph/file/9bab90eb4ce7212e58e27.jpg",
+        "https://telegra.ph/file/0792178ea0f301436a959.jpg",
+        "https://telegra.ph/file/ec9c76c7ac6a26ea6309c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 760,
+    "title": "Ely_eee(ElyEE子) - Mist Blue Lady",
+    "sourceUrl": "https://telegra.ph/Ely-eeeElyEE子---Mist-Blue-Lady-08-26",
+    "images": [
+        "https://telegra.ph/file/8f50b0dacc5adb42cc7e2.jpg",
+        "https://telegra.ph/file/149e58a3cbbf2424324eb.jpg",
+        "https://telegra.ph/file/9ebf444b770e4384f66a9.jpg",
+        "https://telegra.ph/file/cbc0b8cc850c93d65b768.jpg",
+        "https://telegra.ph/file/6079a16e29618b4efe272.jpg",
+        "https://telegra.ph/file/526c3b8c88e5f44330549.jpg",
+        "https://telegra.ph/file/0fc827762c6a784ef73db.jpg",
+        "https://telegra.ph/file/71a279a6d1c65b8c47fe6.jpg",
+        "https://telegra.ph/file/e3c635cf54f5132ca28b1.jpg",
+        "https://telegra.ph/file/ae485dade6fc4a2c7567e.jpg",
+        "https://telegra.ph/file/e483184c4313c72815223.jpg",
+        "https://telegra.ph/file/be1fcf5823c3694b515e5.jpg",
+        "https://telegra.ph/file/879c9198b5d38d70d52c2.jpg",
+        "https://telegra.ph/file/0551efea9e655db9da6b4.jpg",
+        "https://telegra.ph/file/1f1f399087a80867d81f9.jpg",
+        "https://telegra.ph/file/9b7ac2b10e76dde9aa611.jpg",
+        "https://telegra.ph/file/63038fb8f50b1acd5bb0d.jpg",
+        "https://telegra.ph/file/732a9fd1bbb7b4b2133b3.jpg",
+        "https://telegra.ph/file/b5f9df45756bcecb95a29.jpg",
+        "https://telegra.ph/file/f7ef78f3be1d39356424b.jpg",
+        "https://telegra.ph/file/01aec09aea1c97a13e6d5.jpg",
+        "https://telegra.ph/file/32103f44976d59f1e0a49.jpg",
+        "https://telegra.ph/file/7c23bb37a90af739dfc76.jpg",
+        "https://telegra.ph/file/49f073d1173a26bae2251.jpg",
+        "https://telegra.ph/file/b97b8799828a809331e04.jpg",
+        "https://telegra.ph/file/633a902c5d8e7451fd166.jpg",
+        "https://telegra.ph/file/3a5bf148ee7705763ab44.jpg",
+        "https://telegra.ph/file/be0a04f017916fba841a3.jpg",
+        "https://telegra.ph/file/3ed75f1594c9b4be22c1f.jpg",
+        "https://telegra.ph/file/da2a70a753b2374478965.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

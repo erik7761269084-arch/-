@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 21079,
+    "title": "灵罗娃娃 – 温泉",
+    "sourceUrl": "https://telegra.ph/灵罗娃娃--温泉-08-29",
+    "images": [
+        "https://telegra.ph/file/950035cb343d16f081352.jpg",
+        "https://telegra.ph/file/bcae0ac1c5bb5e76735cd.jpg",
+        "https://telegra.ph/file/53f98d76ef8229ae49591.jpg",
+        "https://telegra.ph/file/9ced3f790e5f37fefa1ff.jpg",
+        "https://telegra.ph/file/235cf9dd2ce6c4902360c.jpg",
+        "https://telegra.ph/file/0bb50baf975a3d00529d9.jpg",
+        "https://telegra.ph/file/e8dd02202b730b6e13883.jpg",
+        "https://telegra.ph/file/ebce7c2c965f4c3e19a2b.jpg",
+        "https://telegra.ph/file/37be075ff56897280a45f.jpg",
+        "https://telegra.ph/file/a3c3c0a5804eb6e28fa0e.jpg",
+        "https://telegra.ph/file/7542a5ae25a5291a454af.jpg",
+        "https://telegra.ph/file/21ed5460bbcc0d089114e.jpg",
+        "https://telegra.ph/file/325ba79f0c8313b7ca494.jpg",
+        "https://telegra.ph/file/7711fccfb9fae9baf2764.jpg",
+        "https://telegra.ph/file/38ccc29bd0a7a26e30227.jpg",
+        "https://telegra.ph/file/32f32271475049a06f71c.jpg",
+        "https://telegra.ph/file/4da5f487d2692db3787eb.jpg",
+        "https://telegra.ph/file/1fb9afbf22e671b718fba.jpg",
+        "https://telegra.ph/file/c9beacb0869d0b4a95aac.jpg",
+        "https://telegra.ph/file/3b31c65c5412d6affee0b.jpg",
+        "https://telegra.ph/file/52b2f4e04ebb22e20562a.jpg",
+        "https://telegra.ph/file/69bc24a8d257d0c3c8529.jpg",
+        "https://telegra.ph/file/71396584fa726337294b1.jpg",
+        "https://telegra.ph/file/786f4051f3fef2183abc5.jpg",
+        "https://telegra.ph/file/902f2794394c7430b886b.jpg",
+        "https://telegra.ph/file/54e5854b7287bf178a0ab.jpg",
+        "https://telegra.ph/file/02aa072b12c608bab666a.jpg",
+        "https://telegra.ph/file/e75577a7a4972a9bab532.jpg",
+        "https://telegra.ph/file/f38a9a1593f43d146f6c0.jpg",
+        "https://telegra.ph/file/998c92179aac50019e694.jpg",
+        "https://telegra.ph/file/1b8997a0611d1c9676381.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

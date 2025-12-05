@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 1008,
+    "title": "Hane Ame 雨波写真 - Nikke Anis 阿妮絲泳裝",
+    "sourceUrl": "https://telegra.ph/Hane-Ame-雨波写真---Nikke-Anis-阿妮絲泳裝-08-27",
+    "images": [
+        "https://telegra.ph/file/29f7f2e315d49864f5996.jpg",
+        "https://telegra.ph/file/d083f144bc80d0389b534.jpg",
+        "https://telegra.ph/file/bdf24529e13551a55a098.jpg",
+        "https://telegra.ph/file/73218567c217dc642839d.jpg",
+        "https://telegra.ph/file/b1eb91500871abca4795a.jpg",
+        "https://telegra.ph/file/4dcab34a70ef35fe0ee6f.jpg",
+        "https://telegra.ph/file/fc3f32eab4348d5e58f4d.jpg",
+        "https://telegra.ph/file/002e8097bd6f8cfa86942.jpg",
+        "https://telegra.ph/file/0d81d73d8c4ee49362014.jpg",
+        "https://telegra.ph/file/15de8b10b98604c40fbe2.jpg",
+        "https://telegra.ph/file/5a7b8b6e35330764ec0ea.jpg",
+        "https://telegra.ph/file/fee0dc986cf9c9496ea88.jpg",
+        "https://telegra.ph/file/f374ed41662cb659490ec.jpg",
+        "https://telegra.ph/file/1a74edbd2a02e5a4df4f1.jpg",
+        "https://telegra.ph/file/dd5f14cf8d98192e8c950.jpg",
+        "https://telegra.ph/file/d520a1bfb5343fb087188.jpg",
+        "https://telegra.ph/file/da44ac6f466cfdf215728.jpg",
+        "https://telegra.ph/file/d4fcce510e65278765736.jpg",
+        "https://telegra.ph/file/781173d53f80b2ab3501b.jpg",
+        "https://telegra.ph/file/360144cc179e4c12a63e3.jpg",
+        "https://telegra.ph/file/385aabb2eb51085014635.jpg",
+        "https://telegra.ph/file/8e0c5e19bf97fb6e93f7a.jpg",
+        "https://telegra.ph/file/9e3e5c0d728f8c93e664e.jpg",
+        "https://telegra.ph/file/c1ed78653a8ffbd0f5ffd.jpg",
+        "https://telegra.ph/file/b5764c1efdbb38a012375.jpg",
+        "https://telegra.ph/file/4f498e31aa6145190c5bc.jpg",
+        "https://telegra.ph/file/2c679b167199834da5225.jpg",
+        "https://telegra.ph/file/3a74313d38e43bcdb171a.jpg",
+        "https://telegra.ph/file/43e44db1790dfc932bbd6.jpg",
+        "https://telegra.ph/file/a0d3d80acf9c28ec336a7.jpg",
+        "https://telegra.ph/file/73731a81cb0f4b33e2bf6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

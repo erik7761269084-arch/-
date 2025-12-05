@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 398,
+    "title": "Byoru - Dehya",
+    "sourceUrl": "https://telegra.ph/日本性感萝莉Byoru---Dehya-08-26",
+    "images": [
+        "https://telegra.ph/file/66edee6eed2fdc08a4a82.jpg",
+        "https://telegra.ph/file/45442317ef19c03aa3c5d.jpg",
+        "https://telegra.ph/file/61c793bbbbe8e446215c1.jpg",
+        "https://telegra.ph/file/094f2016ef8adf13e6716.jpg",
+        "https://telegra.ph/file/53cf94cd0b8beff6a1c8f.jpg",
+        "https://telegra.ph/file/73bebaf9bb22e023a7d4b.jpg",
+        "https://telegra.ph/file/73ee79aa4e84db37e0b45.jpg",
+        "https://telegra.ph/file/dd80236ae77fcbb61957d.jpg",
+        "https://telegra.ph/file/a3890e026c44d0ad2c433.jpg",
+        "https://telegra.ph/file/9ada8ca9c8380adf47677.jpg",
+        "https://telegra.ph/file/68cfb4797b0f43aceada4.jpg",
+        "https://telegra.ph/file/176b64d164aa964c7cc33.jpg",
+        "https://telegra.ph/file/2f2618e45f278e59197c6.jpg",
+        "https://telegra.ph/file/df993926ca68dd7f1d55a.jpg",
+        "https://telegra.ph/file/35a798f1b38844bcdf2f7.jpg",
+        "https://telegra.ph/file/f426bb5fbb6a9e5fc419b.jpg",
+        "https://telegra.ph/file/ad7e3af85d9e09d9e0db1.jpg",
+        "https://telegra.ph/file/4499eecd3bf420834437e.jpg",
+        "https://telegra.ph/file/63e1083262ae1c606d334.jpg",
+        "https://telegra.ph/file/5e0f0931fd0765f2a621b.jpg",
+        "https://telegra.ph/file/96fed72251437d83f7ba7.jpg",
+        "https://telegra.ph/file/9e180472162588c48fd5a.jpg",
+        "https://telegra.ph/file/aeb2910d28756b605fa91.jpg",
+        "https://telegra.ph/file/7fc0d13ca9470dc6f5ad0.jpg",
+        "https://telegra.ph/file/cb5a8ddb0bec4e5fc77c7.jpg",
+        "https://telegra.ph/file/b8c7b58f39cb22ed1a839.jpg",
+        "https://telegra.ph/file/4499551564781a10bfc93.jpg",
+        "https://telegra.ph/file/8e5a978659340ac482814.jpg",
+        "https://telegra.ph/file/4b462b302b70ae3768e93.jpg",
+        "https://telegra.ph/file/bb6f6c208aa757c82dd21.jpg",
+        "https://telegra.ph/file/05086f66f98ee5e6421f8.jpg",
+        "https://telegra.ph/file/70198c3334b7fc617c93b.jpg",
+        "https://telegra.ph/file/74ca7e9a5799dbb62b1d8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

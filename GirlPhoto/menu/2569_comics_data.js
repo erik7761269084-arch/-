@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2569,
+    "title": "Uy Uy - Hinata",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Hinata-08-27",
+    "images": [
+        "https://telegra.ph/file/23ecd67ba990afbe50918.jpg",
+        "https://telegra.ph/file/93bacb5e7ded3efaf2ee9.jpg",
+        "https://telegra.ph/file/72c1a541ef3996e201562.jpg",
+        "https://telegra.ph/file/25e396362ba1b95a76e8a.jpg",
+        "https://telegra.ph/file/91441904d731cfb8a2c92.jpg",
+        "https://telegra.ph/file/d04ae0096cff361eefec7.jpg",
+        "https://telegra.ph/file/2662fda7e68c8c47450fe.jpg",
+        "https://telegra.ph/file/f3afa13529fab22d67ce6.jpg",
+        "https://telegra.ph/file/4d7258e191846bf39f1a0.jpg",
+        "https://telegra.ph/file/f1a6b1b6da042467ab3a8.jpg",
+        "https://telegra.ph/file/ea30a5cbdce0bf3c936f3.jpg",
+        "https://telegra.ph/file/7201ce090f153abefff69.jpg",
+        "https://telegra.ph/file/1d71d943cfe9100b609fd.jpg",
+        "https://telegra.ph/file/a2bfa866cc493f486e4e2.jpg",
+        "https://telegra.ph/file/81fa68c83fdafae811c59.jpg",
+        "https://telegra.ph/file/00e7b4c0717692debb3b0.jpg",
+        "https://telegra.ph/file/fd97fcea4ee967792c065.jpg",
+        "https://telegra.ph/file/5dcdf63ad7eaa4cf895ab.jpg",
+        "https://telegra.ph/file/63dd2a76056f5a5dcaff2.jpg",
+        "https://telegra.ph/file/359714717876c1352ba1d.jpg",
+        "https://telegra.ph/file/8a01bd6cbb79b3f669a0b.jpg",
+        "https://telegra.ph/file/daff23ab9d09a90e893a6.jpg",
+        "https://telegra.ph/file/2de647b3cf9492807dfbf.jpg",
+        "https://telegra.ph/file/b5e4081e3675a8f3b47b6.jpg",
+        "https://telegra.ph/file/3f88b57e008f14d65faef.jpg",
+        "https://telegra.ph/file/46ef7c5e57161de9758f3.jpg",
+        "https://telegra.ph/file/a8d762e46ca7b3d7ba5ce.jpg",
+        "https://telegra.ph/file/a86c25f10ef3341b468ad.jpg",
+        "https://telegra.ph/file/bc21f8b247934a4998f75.jpg",
+        "https://telegra.ph/file/558478379e45437c4a216.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

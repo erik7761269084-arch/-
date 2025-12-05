@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8132,
+    "title": "皮皮奶可可爱了啦 - 生日贺图",
+    "sourceUrl": "https://telegra.ph/皮皮奶可可爱了啦---生日贺图-08-28",
+    "images": [
+        "https://telegra.ph/file/a65ae6f5676ded2e54f4e.jpg",
+        "https://telegra.ph/file/b4a58d20736d5fa73eb38.jpg",
+        "https://telegra.ph/file/cc76260e19e4fbab6ce43.jpg",
+        "https://telegra.ph/file/a80fcab678ebe6f4174a8.jpg",
+        "https://telegra.ph/file/351184a82e9143197f416.jpg",
+        "https://telegra.ph/file/95ecc76bf6998251e366e.jpg",
+        "https://telegra.ph/file/2ac6659575203a0cefb72.jpg",
+        "https://telegra.ph/file/f2a4f48db62dd87d0e036.jpg",
+        "https://telegra.ph/file/43590dfab9fbc835c8751.jpg",
+        "https://telegra.ph/file/d3eaf0968bb55f5ce89ae.jpg",
+        "https://telegra.ph/file/5f0601ade7c14691582b7.jpg",
+        "https://telegra.ph/file/4d513cf5743c6ea39210c.jpg",
+        "https://telegra.ph/file/6a52efbedeeb39e6c331c.jpg",
+        "https://telegra.ph/file/30adfe13d0430777f2c6f.jpg",
+        "https://telegra.ph/file/a9c4accc6ca3453caecaf.jpg",
+        "https://telegra.ph/file/a45cd542de55e0ac6b6cd.jpg",
+        "https://telegra.ph/file/86b0a2e3332c5bc8b6e34.jpg",
+        "https://telegra.ph/file/dd4fd8814238682e71858.jpg",
+        "https://telegra.ph/file/dc75bc5df5a15dcffb8c2.jpg",
+        "https://telegra.ph/file/4a7543db208a3e70ed6b2.jpg",
+        "https://telegra.ph/file/8b7eac9220a42a822d136.jpg",
+        "https://telegra.ph/file/fc7b2e3fe9cdaed880ca9.jpg",
+        "https://telegra.ph/file/addf3cb94b561b630aa23.jpg",
+        "https://telegra.ph/file/e83d682f35e9f5c6d61f2.jpg",
+        "https://telegra.ph/file/8374b51e098aee3d3b369.jpg",
+        "https://telegra.ph/file/38d8a36907d104e4bc52c.jpg",
+        "https://telegra.ph/file/07935b2eade1efc8e2eb6.jpg",
+        "https://telegra.ph/file/8ee3b7b7945d6d2bed2ed.jpg",
+        "https://telegra.ph/file/0cf2a549ed149e262812d.jpg",
+        "https://telegra.ph/file/8bad29870cafb943d6fb3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

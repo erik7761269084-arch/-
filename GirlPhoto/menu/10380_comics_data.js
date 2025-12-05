@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10380,
+    "title": "雯妹不讲道理 520特辑豪华版 – 开胸爱心(30P4V242MB)（预览）",
+    "sourceUrl": "https://telegra.ph/雯妹不讲道理-520特辑豪华版--开胸爱心30P4V242MB预览-08-26",
+    "images": [
+        "https://telegra.ph/file/f794ea6ceaf8ea268c318.jpg",
+        "https://telegra.ph/file/cf3453d7f22403f39dabd.jpg",
+        "https://telegra.ph/file/fc11764da5bcf9ce266e9.jpg",
+        "https://telegra.ph/file/f1bf75bc76511de665abe.jpg",
+        "https://telegra.ph/file/ec5602c9e6b8217e6442f.jpg",
+        "https://telegra.ph/file/2fedd7257d53df14b0cb4.jpg",
+        "https://telegra.ph/file/8d03a1983fc15e3619978.jpg",
+        "https://telegra.ph/file/f14f57db853534344aa7f.jpg",
+        "https://telegra.ph/file/c9061029e290c0298f634.jpg",
+        "https://telegra.ph/file/b990e81625a6889cc6679.jpg",
+        "https://telegra.ph/file/80ceac6a628ad17973144.jpg",
+        "https://telegra.ph/file/11d29d35d1cd020457328.jpg",
+        "https://telegra.ph/file/141074a9fb18fb90cad57.jpg",
+        "https://telegra.ph/file/29fc717047f3654e6d7de.jpg",
+        "https://telegra.ph/file/757f7ad3e0c22fe54976f.jpg",
+        "https://telegra.ph/file/148eba04987a634d4edee.jpg",
+        "https://telegra.ph/file/5f237ded71e94b929a426.jpg",
+        "https://telegra.ph/file/51c5170d8d5c7a9980070.jpg",
+        "https://telegra.ph/file/fe4136fc4afacb7687fe5.jpg",
+        "https://telegra.ph/file/65920f442087a49d0b263.jpg",
+        "https://telegra.ph/file/3f292c897172fb5709bbb.jpg",
+        "https://telegra.ph/file/3e6725d1de54628e013dc.jpg",
+        "https://telegra.ph/file/d6bb1e9cc25f6e44e5e4d.jpg",
+        "https://telegra.ph/file/67086a9deff5c4e5a191a.jpg",
+        "https://telegra.ph/file/c70e3d13757d592fc6eeb.jpg",
+        "https://telegra.ph/file/70781bd24b767499377bc.jpg",
+        "https://telegra.ph/file/21209ce4b695084da2b94.jpg",
+        "https://telegra.ph/file/a1e738aaf9068ad2b8919.jpg",
+        "https://telegra.ph/file/ad1970cb019e53acc88b8.jpg",
+        "https://telegra.ph/file/ed4a96273093f60df6c00.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

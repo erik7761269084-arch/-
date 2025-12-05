@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 2614,
+    "title": "Uy Uy - Yelan",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---Yelan-08-27",
+    "images": [
+        "https://telegra.ph/file/9a4ca681c28b8afda31db.jpg",
+        "https://telegra.ph/file/7e4f955ba8f63a1eea470.jpg",
+        "https://telegra.ph/file/2b7cb3957bb57e5e29f6d.jpg",
+        "https://telegra.ph/file/82c88b9b81c43bfa3a222.jpg",
+        "https://telegra.ph/file/d3ae84d00fec358980311.jpg",
+        "https://telegra.ph/file/152b54a1763d87509102c.jpg",
+        "https://telegra.ph/file/3618636dd5475dc0c5f9a.jpg",
+        "https://telegra.ph/file/6833d4bf254efe0e730c4.jpg",
+        "https://telegra.ph/file/2ced33b45b3ced373e5e9.jpg",
+        "https://telegra.ph/file/4a07ddab920b45e74e176.jpg",
+        "https://telegra.ph/file/79589de735f33e5e3cc11.jpg",
+        "https://telegra.ph/file/b3b74f08cd326eda1f450.jpg",
+        "https://telegra.ph/file/1cb88f0ec5ce47b2cb62a.jpg",
+        "https://telegra.ph/file/13ad361a0a32a4ed786af.jpg",
+        "https://telegra.ph/file/f68fc9a07eac8f01d5a39.jpg",
+        "https://telegra.ph/file/e7d3f7c7b586e3e755c37.jpg",
+        "https://telegra.ph/file/29f79619159df688ded25.jpg",
+        "https://telegra.ph/file/20454c94e29f491e89cee.jpg",
+        "https://telegra.ph/file/59bdaf4fa5a1b8cfbeed9.jpg",
+        "https://telegra.ph/file/7b4c3c64ddf28a097a314.jpg",
+        "https://telegra.ph/file/bb843aa34a52b1cae1300.jpg",
+        "https://telegra.ph/file/11d8ff474c83828d51839.jpg",
+        "https://telegra.ph/file/dbb10dea1024770b97537.jpg",
+        "https://telegra.ph/file/cf1db364aa922423c82f8.jpg",
+        "https://telegra.ph/file/1cefa5e631dd9eba23bde.jpg",
+        "https://telegra.ph/file/39eefecd862e1f02716ea.jpg",
+        "https://telegra.ph/file/fc04cf913dc8d8bc5aef8.jpg",
+        "https://telegra.ph/file/1defdde2fb2a8c8b1d3f9.jpg",
+        "https://telegra.ph/file/6f2bf92885b5a2639f705.jpg",
+        "https://telegra.ph/file/a8fe981c010074d8cee51.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 7288,
+    "title": "面饼仙儿 能代女仆",
+    "sourceUrl": "https://telegra.ph/面饼仙儿-能代女仆-08-27",
+    "images": [
+        "https://telegra.ph/file/75544d39c0fe534895cad.jpg",
+        "https://telegra.ph/file/2c6e354e07c546d27bd06.jpg",
+        "https://telegra.ph/file/1fb59114ca01bd80e72ff.jpg",
+        "https://telegra.ph/file/ef63d6016209d62fcff43.jpg",
+        "https://telegra.ph/file/0f0a6e850a758cfd45e4e.jpg",
+        "https://telegra.ph/file/0b7f7697814ee4974980e.jpg",
+        "https://telegra.ph/file/478451fcffbde23a61f91.jpg",
+        "https://telegra.ph/file/de90fde9c1a9d98f36446.jpg",
+        "https://telegra.ph/file/2ffd2bb6f0d9c37e46b2d.jpg",
+        "https://telegra.ph/file/32189b64a9a8bc0644a68.jpg",
+        "https://telegra.ph/file/fccb235d6b5e9ad38c04f.jpg",
+        "https://telegra.ph/file/464c4938cdf261dcc5b87.jpg",
+        "https://telegra.ph/file/27ec89017976883a928df.jpg",
+        "https://telegra.ph/file/98510207befc6bd3db281.jpg",
+        "https://telegra.ph/file/9f95ffb21c28bd757469c.jpg",
+        "https://telegra.ph/file/9815d19d718c7b5e57d20.jpg",
+        "https://telegra.ph/file/a9144eaded7945cb2488b.jpg",
+        "https://telegra.ph/file/26d89eb8a9b591ac118c5.jpg",
+        "https://telegra.ph/file/074e6daf475d41b3a76ab.jpg",
+        "https://telegra.ph/file/60cb1546babc3d4fdb735.jpg",
+        "https://telegra.ph/file/a85dcd38ed2191316611c.jpg",
+        "https://telegra.ph/file/31087f0f1a4ad188ffc6d.jpg",
+        "https://telegra.ph/file/6feeab067247a035d6149.jpg",
+        "https://telegra.ph/file/76e2fb545c91d58456ca0.jpg",
+        "https://telegra.ph/file/51fa019cec52f356920b9.jpg",
+        "https://telegra.ph/file/4a1398a090837190593f8.jpg",
+        "https://telegra.ph/file/4faead8238468b4f8aaef.jpg",
+        "https://telegra.ph/file/4968db0dedd220b304c9e.jpg",
+        "https://telegra.ph/file/50692ac77c7e2dd7abb65.jpg",
+        "https://telegra.ph/file/ef64150bebacff770ec90.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

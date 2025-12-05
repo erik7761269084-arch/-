@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 21616,
+    "title": "Lady Melamori - Ciri",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---Ciri-08-29",
+    "images": [
+        "https://telegra.ph/file/6cfb4fc56f1ab79e86607.jpg",
+        "https://telegra.ph/file/ceae0ba21b42e4fbcce29.jpg",
+        "https://telegra.ph/file/6302de5516c4f0bef825f.jpg",
+        "https://telegra.ph/file/5b7e824725518e4c339ab.jpg",
+        "https://telegra.ph/file/854c0d344311d619d741e.jpg",
+        "https://telegra.ph/file/4e984ae28138846565a85.jpg",
+        "https://telegra.ph/file/6fc8cfbdc4ab6b39c4c35.jpg",
+        "https://telegra.ph/file/0db1efa658ba08d53c0cd.jpg",
+        "https://telegra.ph/file/3cfceaba89a9a79d3a32d.jpg",
+        "https://telegra.ph/file/0e3f1b45dfa6acd0bc65d.jpg",
+        "https://telegra.ph/file/744420c57bd38d0b4817b.jpg",
+        "https://telegra.ph/file/0df889fceb88e4f495419.jpg",
+        "https://telegra.ph/file/74e552622d56d726aedd6.jpg",
+        "https://telegra.ph/file/a7d06e3ca95f488c7cd17.jpg",
+        "https://telegra.ph/file/dcb7989ff4dbeedf08f49.jpg",
+        "https://telegra.ph/file/c4cb54b480e9b3f47c986.jpg",
+        "https://telegra.ph/file/b8b201d26ac23b90a6eda.jpg",
+        "https://telegra.ph/file/8b06c1f0facfe7c3a8f55.jpg",
+        "https://telegra.ph/file/484dc1c997f7e3cce8cfd.jpg",
+        "https://telegra.ph/file/30ea9516280914fde285f.jpg",
+        "https://telegra.ph/file/26ada92b86d622c96cba3.jpg",
+        "https://telegra.ph/file/9865a40cfc5f501621d4f.jpg",
+        "https://telegra.ph/file/a0ee3a22902f2eb81b2b3.jpg",
+        "https://telegra.ph/file/94d5e0da0e43d694ac0ba.jpg",
+        "https://telegra.ph/file/069d63bd7b59f810e7352.jpg",
+        "https://telegra.ph/file/73189370fdb0f5773ec98.jpg",
+        "https://telegra.ph/file/0e334c777df73c18c6dbc.jpg",
+        "https://telegra.ph/file/87e5a09f3d9a47844ae45.jpg",
+        "https://telegra.ph/file/ca1359f657eded26af27e.jpg",
+        "https://telegra.ph/file/31575319a52852b5e8c94.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 1914,
+    "title": "凉凉子 万圣节猫猫",
+    "sourceUrl": "https://telegra.ph/%E5%87%89%E5%87%89%E5%AD%90-%E4%B8%87%E5%9C%A3%E8%8A%82%E7%8C%AB%E7%8C%AB-08-23",
+    "images": [
+        "https://telegra.ph/file/b922727f6663c85e23122.jpg",
+        "https://telegra.ph/file/3caee21779eb0d3a695b3.jpg",
+        "https://telegra.ph/file/5099f6e0e918ac315342e.jpg",
+        "https://telegra.ph/file/88851bcb1704d296f3a79.jpg",
+        "https://telegra.ph/file/ae6b643ed7ec69aded683.jpg",
+        "https://telegra.ph/file/bb967bd14a648b8ec5442.jpg",
+        "https://telegra.ph/file/a97f85a79f4bd24043b7a.jpg",
+        "https://telegra.ph/file/15974066d5d1c49d95e72.jpg",
+        "https://telegra.ph/file/731fd69b42631ae30a86c.jpg",
+        "https://telegra.ph/file/8aee1013b65260346b787.jpg",
+        "https://telegra.ph/file/c533f6cc6150ec74c604e.jpg",
+        "https://telegra.ph/file/5cbdd557965c6951e0540.jpg",
+        "https://telegra.ph/file/63dbb959d1937b6fd9436.jpg",
+        "https://telegra.ph/file/ad9087149cdb8dbc2093b.jpg",
+        "https://telegra.ph/file/02eae273bbd8b2a8fee07.jpg",
+        "https://telegra.ph/file/80151cd80f479c0fc8f16.jpg",
+        "https://telegra.ph/file/bf763bb21fe75ec617ed6.jpg",
+        "https://telegra.ph/file/14f5b6aeff599b2665376.jpg",
+        "https://telegra.ph/file/8b4199f68c33f7c5d19b8.jpg",
+        "https://telegra.ph/file/ac6865f46436d2d64bbec.jpg",
+        "https://telegra.ph/file/4e47745b5c8508a27a606.jpg",
+        "https://telegra.ph/file/efcdebd79fbc7b1b104b2.jpg",
+        "https://telegra.ph/file/695d23aa7342e40cd55e7.jpg",
+        "https://telegra.ph/file/bb4283a9602469954d914.jpg",
+        "https://telegra.ph/file/cea7719a7519709037ed5.jpg",
+        "https://telegra.ph/file/462c2d4ebd19feb6fac95.jpg",
+        "https://telegra.ph/file/77388a8154fdd9a6ff36b.jpg",
+        "https://telegra.ph/file/ffe05256700329908ebde.jpg",
+        "https://telegra.ph/file/c8fb96b4340d3de30aff0.jpg",
+        "https://telegra.ph/file/19da1193ecdc36c58e755.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

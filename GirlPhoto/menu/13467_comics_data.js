@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13467,
+    "title": "羽生三未 护士 [32P-459MB]",
+    "sourceUrl": "https://telegra.ph/羽生三未-护士-32P-459MB-08-24",
+    "images": [
+        "https://telegra.ph/file/7c5ede5ac77c9b09a9c93.jpg",
+        "https://telegra.ph/file/35e657899029a7718d9d2.jpg",
+        "https://telegra.ph/file/91c363db46e67820ee80f.jpg",
+        "https://telegra.ph/file/2dca50794d01c05a54abf.jpg",
+        "https://telegra.ph/file/31bab3d5412d5c025501d.jpg",
+        "https://telegra.ph/file/b8a6810e42a817c967d8c.jpg",
+        "https://telegra.ph/file/2f3f091bfe77fbb9ed75a.jpg",
+        "https://telegra.ph/file/90cb05cc8256801243933.jpg",
+        "https://telegra.ph/file/483e4c7dfc7d2dc7ee4d0.jpg",
+        "https://telegra.ph/file/b5993cd18edfaee1786af.jpg",
+        "https://telegra.ph/file/7016f4d2f9cc0af813e29.jpg",
+        "https://telegra.ph/file/5d0cba093b7e059b26ba8.jpg",
+        "https://telegra.ph/file/a4ca17047b6d62aff218c.jpg",
+        "https://telegra.ph/file/e0be778715625c5477fd8.jpg",
+        "https://telegra.ph/file/2c79090d3c56cced37b52.jpg",
+        "https://telegra.ph/file/636dcfe97c7f70b5514e7.jpg",
+        "https://telegra.ph/file/6676a56f940d6a05cd0f1.jpg",
+        "https://telegra.ph/file/d402b8d2a5fd8e448d567.jpg",
+        "https://telegra.ph/file/33ce21ef73be22bd201cd.jpg",
+        "https://telegra.ph/file/60c143bc23516501682ad.jpg",
+        "https://telegra.ph/file/2ad84292b283598a2ba76.jpg",
+        "https://telegra.ph/file/87aa918cc225d5a4207fc.jpg",
+        "https://telegra.ph/file/eafa666d450e9482f55ad.jpg",
+        "https://telegra.ph/file/f0fd6dfd3ed577a37a352.jpg",
+        "https://telegra.ph/file/e9bb1937a33105e4d3354.jpg",
+        "https://telegra.ph/file/1fc06ec7f856b384bbdbe.jpg",
+        "https://telegra.ph/file/d81a764a06d21d9d75c44.jpg",
+        "https://telegra.ph/file/7188bae6cd73352f537cc.jpg",
+        "https://telegra.ph/file/d387b9a1c6e6bc33a4e46.jpg",
+        "https://telegra.ph/file/1934fa8369ce82d6cbdeb.jpg",
+        "https://telegra.ph/file/26f450568180cdaa92552.jpg",
+        "https://telegra.ph/file/a4467ab17f22e4efc8a75.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

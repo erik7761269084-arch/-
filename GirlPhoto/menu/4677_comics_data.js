@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 4677,
+    "title": "二佐Nisa 碧蓝樫野同人女仆",
+    "sourceUrl": "https://telegra.ph/%E4%BA%8C%E4%BD%90Nisa-%E7%A2%A7%E8%93%9D%E6%A8%AB%E9%87%8E%E5%90%8C%E4%BA%BA%E5%A5%B3%E4%BB%86-08-23",
+    "images": [
+        "https://telegra.ph/file/f0798c70c73f19f465897.jpg",
+        "https://telegra.ph/file/7d883e6d494be79a2f730.jpg",
+        "https://telegra.ph/file/454f973ebc182bf45125b.jpg",
+        "https://telegra.ph/file/e73aadef8d0c9b195fc0d.jpg",
+        "https://telegra.ph/file/f07d187524c5424059ee2.jpg",
+        "https://telegra.ph/file/c82c266abcabefc92555c.jpg",
+        "https://telegra.ph/file/8ba60bdda401e688739cb.jpg",
+        "https://telegra.ph/file/7d14ecb82f470272a5fe1.jpg",
+        "https://telegra.ph/file/c1541280acd8057d9f893.jpg",
+        "https://telegra.ph/file/c8f75add56851bec33e33.jpg",
+        "https://telegra.ph/file/c32df420631b72feab9c2.jpg",
+        "https://telegra.ph/file/cefda25f4cb38d7d40b7a.jpg",
+        "https://telegra.ph/file/ce033cbab9a0b18c1f011.jpg",
+        "https://telegra.ph/file/080ec945713792b86afde.jpg",
+        "https://telegra.ph/file/d4e131712d80fdf08e85a.jpg",
+        "https://telegra.ph/file/19d4d1392d4048972da72.jpg",
+        "https://telegra.ph/file/31380be260a21f303b416.jpg",
+        "https://telegra.ph/file/b5c40728925d737d8abe9.jpg",
+        "https://telegra.ph/file/b67f7feb322ac1da58723.jpg",
+        "https://telegra.ph/file/057f0cf9712716b5294de.jpg",
+        "https://telegra.ph/file/6b6cdddfe32310b0b9671.jpg",
+        "https://telegra.ph/file/395d51021c4171449c815.jpg",
+        "https://telegra.ph/file/adf6a53029508d9ae480b.jpg",
+        "https://telegra.ph/file/4bb1fb0c3f15d1ad6e315.jpg",
+        "https://telegra.ph/file/4d94a24d6f482d20669b0.jpg",
+        "https://telegra.ph/file/d14b9b3b7e59bdd1b4483.jpg",
+        "https://telegra.ph/file/0091a79a652dce5e207c9.jpg",
+        "https://telegra.ph/file/78a2cfdf2553a16cae29f.jpg",
+        "https://telegra.ph/file/f2fe930e91c8b35795d53.jpg",
+        "https://telegra.ph/file/be47e875976f4b329b8bb.jpg",
+        "https://telegra.ph/file/f96d85b23dd30e59eefb6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

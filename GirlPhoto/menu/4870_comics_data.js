@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 4870,
+    "title": "封疆疆 - 阮梅 [32P-419MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%81%E7%96%86%E7%96%86---%E9%98%AE%E6%A2%85-32P-419MB-08-20",
+    "images": [
+        "https://image.acg.lol/file/2024/11/19/1I5A3190.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3077.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3088.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3094.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3096.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3102.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3107.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3113.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3119.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3130.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3139.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3145.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3148.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3154.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3158.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3162.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3168.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3172.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3175.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3179.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3181.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3187.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3192.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3197.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3202.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3209.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3212.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3216.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3230.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3233.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3236.jpg",
+        "https://image.acg.lol/file/2024/11/19/1I5A3240.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

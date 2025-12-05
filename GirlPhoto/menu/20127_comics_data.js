@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 20127,
+    "title": "Aoy Queen - Naruko Uzumaki",
+    "sourceUrl": "https://telegra.ph/Aoy-Queen---Naruko-Uzumaki-08-26",
+    "images": [
+        "https://telegra.ph/file/3cd693d93b025458f94f2.jpg",
+        "https://telegra.ph/file/f9195ae1db23a3c028f7c.jpg",
+        "https://telegra.ph/file/b89ad33a1ac99c2e343fd.jpg",
+        "https://telegra.ph/file/fdae6fdb2cb1c9b5fb813.jpg",
+        "https://telegra.ph/file/257f43b29973ef358679e.jpg",
+        "https://telegra.ph/file/3e3a6229b180b661e3a0c.jpg",
+        "https://telegra.ph/file/c79248ae7e834474c8dfb.jpg",
+        "https://telegra.ph/file/348ee10b14fb5f787718f.jpg",
+        "https://telegra.ph/file/3d3515ec2913c633f47b0.jpg",
+        "https://telegra.ph/file/cdc91953ace3b23910e9a.jpg",
+        "https://telegra.ph/file/cd6a2d4837eaa6191f3ae.jpg",
+        "https://telegra.ph/file/c794aac7bf49835bb9da8.jpg",
+        "https://telegra.ph/file/9fe1a0a90693412896bf1.jpg",
+        "https://telegra.ph/file/cedb77896d9ed8d583e4d.jpg",
+        "https://telegra.ph/file/c361931e524e90373a92b.jpg",
+        "https://telegra.ph/file/699c8656fe5d84785ae29.jpg",
+        "https://telegra.ph/file/ec821c478c3b4e05a1cb4.jpg",
+        "https://telegra.ph/file/66821f22177932ccf7397.jpg",
+        "https://telegra.ph/file/5f00ced24f1f135d40059.jpg",
+        "https://telegra.ph/file/e006c61982a4981a1c769.jpg",
+        "https://telegra.ph/file/b8aecb4bcf2d444a2978e.jpg",
+        "https://telegra.ph/file/845cf7fda18087611b74e.jpg",
+        "https://telegra.ph/file/54aef41fb0fb0b59f6f06.jpg",
+        "https://telegra.ph/file/0a750243777f690874055.jpg",
+        "https://telegra.ph/file/b74185f084174cf3c01e1.jpg",
+        "https://telegra.ph/file/2bfb499c74e5c8bb12ef4.jpg",
+        "https://telegra.ph/file/5ebda525e8558839af233.jpg",
+        "https://telegra.ph/file/bf61247e0174e7a77c70a.jpg",
+        "https://telegra.ph/file/b888a9c55e36ba75922f3.jpg",
+        "https://telegra.ph/file/bbb6046629ce7f71ca93a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

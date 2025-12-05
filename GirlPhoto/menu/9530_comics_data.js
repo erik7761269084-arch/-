@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9530,
+    "title": "蜜桃少女是依酱呀 宅女日常",
+    "sourceUrl": "https://telegra.ph/蜜桃少女是依酱呀-宅女日常-08-28",
+    "images": [
+        "https://telegra.ph/file/90ba88580958e1369701f.jpg",
+        "https://telegra.ph/file/692753f65441d73906c3c.jpg",
+        "https://telegra.ph/file/78db1f483940ddb90dc1e.jpg",
+        "https://telegra.ph/file/9071b6a094fbbcf03df6b.jpg",
+        "https://telegra.ph/file/70cd494d40dd16c6f7f14.jpg",
+        "https://telegra.ph/file/1514afa004d1b10f8bac7.jpg",
+        "https://telegra.ph/file/1960f7b944b42813c3b86.jpg",
+        "https://telegra.ph/file/c153786f97f4c8500c6b0.jpg",
+        "https://telegra.ph/file/e1250d1c30956164c8f89.jpg",
+        "https://telegra.ph/file/d281fa456f47b2df0da7c.jpg",
+        "https://telegra.ph/file/187980de2a19374e4e4f0.jpg",
+        "https://telegra.ph/file/31db1a7102338d38060d4.jpg",
+        "https://telegra.ph/file/2fa57d32937d2781f2652.jpg",
+        "https://telegra.ph/file/906390b1b5217ec9d20f2.jpg",
+        "https://telegra.ph/file/3cdaa43517c2dcaaea26e.jpg",
+        "https://telegra.ph/file/0aac62597769b2071bef6.jpg",
+        "https://telegra.ph/file/18f346058e9056952ac33.jpg",
+        "https://telegra.ph/file/951368a20d245b042c358.jpg",
+        "https://telegra.ph/file/5f2eff7af2d4e928dbc82.jpg",
+        "https://telegra.ph/file/896ed6272e3bc2e0aade4.jpg",
+        "https://telegra.ph/file/452ff7af418c42bd7c8cb.jpg",
+        "https://telegra.ph/file/70d1b1d2899c374fe921b.jpg",
+        "https://telegra.ph/file/076c484c20d84b1a2394d.jpg",
+        "https://telegra.ph/file/ff24f05f4d31a8535fd05.jpg",
+        "https://telegra.ph/file/b03081be83830f8f0fed2.jpg",
+        "https://telegra.ph/file/0caaa8bf44368558c1dd8.jpg",
+        "https://telegra.ph/file/3f45c8202cc2c1078cd03.jpg",
+        "https://telegra.ph/file/39148ac0374ec15a62813.jpg",
+        "https://telegra.ph/file/9513c2c38f1a82d8c0818.jpg",
+        "https://telegra.ph/file/cd929fd2a19fec11d7ee1.jpg",
+        "https://telegra.ph/file/6219d9742e46a04e08bdf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

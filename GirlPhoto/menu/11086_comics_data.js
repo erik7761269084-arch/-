@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11086,
+    "title": "筱田甜 小女仆",
+    "sourceUrl": "https://telegra.ph/%E7%AD%B1%E7%94%B0%E7%94%9C-%E5%B0%8F%E5%A5%B3%E4%BB%86-08-22",
+    "images": [
+        "https://telegra.ph/file/5060cab4ea19cd2918ae9.jpg",
+        "https://telegra.ph/file/24b12412cbe118c509c8b.jpg",
+        "https://telegra.ph/file/e613a406044e7f7baef39.jpg",
+        "https://telegra.ph/file/beb9c82b65a579939ed34.jpg",
+        "https://telegra.ph/file/bac708465328da028c8bd.jpg",
+        "https://telegra.ph/file/43e9223f81fc0b973c02e.jpg",
+        "https://telegra.ph/file/0db70e720cfe1cf9f436e.jpg",
+        "https://telegra.ph/file/0112635fb75b85ae73c05.jpg",
+        "https://telegra.ph/file/d2d1082c04f05a8a2f0a4.jpg",
+        "https://telegra.ph/file/b4a0f44b4e14f50026e09.jpg",
+        "https://telegra.ph/file/b41acc13cef8b6f94fbb3.jpg",
+        "https://telegra.ph/file/5f3d54c96e4ded9289e13.jpg",
+        "https://telegra.ph/file/f7b6b18610cb2964f69b5.jpg",
+        "https://telegra.ph/file/89ea890302adfb93a84ee.jpg",
+        "https://telegra.ph/file/ae9884f8d36e1a0f6f816.jpg",
+        "https://telegra.ph/file/86e22cb002856f6af2cbf.jpg",
+        "https://telegra.ph/file/a4e5dec4b8b56739f5c54.jpg",
+        "https://telegra.ph/file/d4fbb8805f13fe32a0c38.jpg",
+        "https://telegra.ph/file/e4000fb6cf738535744fb.jpg",
+        "https://telegra.ph/file/d303cc160d216b1723b92.jpg",
+        "https://telegra.ph/file/e49ce219649132a254f1c.jpg",
+        "https://telegra.ph/file/84d1902648ea846545879.jpg",
+        "https://telegra.ph/file/7556edad6f8f5c3f7ddd9.jpg",
+        "https://telegra.ph/file/9a038b858a7c1fc7098ff.jpg",
+        "https://telegra.ph/file/aaf3b05b3b0f3c9acece2.jpg",
+        "https://telegra.ph/file/610d9c919c13c634893ed.jpg",
+        "https://telegra.ph/file/c7e06c8142ac922c6a763.jpg",
+        "https://telegra.ph/file/91e678e7fe40738463d02.jpg",
+        "https://telegra.ph/file/a6fabf4f03a40022d4ea0.jpg",
+        "https://telegra.ph/file/969006376c32a801a9436.jpg",
+        "https://telegra.ph/file/3bb3a30462c48f6b042ec.jpg",
+        "https://telegra.ph/file/6db0cb15d7d627c5d3e4c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

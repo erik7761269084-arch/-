@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 6155,
+    "title": "莉犬 莉犬酱 rainy 调教体操服02_30p",
+    "sourceUrl": "https://telegra.ph/rainy调教体操服02-30p-08-25",
+    "images": [
+        "https://telegra.ph/file/ba75c853517d097c685af.jpg",
+        "https://telegra.ph/file/11b15c6208b3e04e393be.jpg",
+        "https://telegra.ph/file/6e8f3eb6d6299d5e0496d.jpg",
+        "https://telegra.ph/file/bf640d248b3ea1bb065dc.jpg",
+        "https://telegra.ph/file/7a71034d55dd01d217ed0.jpg",
+        "https://telegra.ph/file/314efdb83d9926b7797b7.jpg",
+        "https://telegra.ph/file/7b87c8087820a53faac87.jpg",
+        "https://telegra.ph/file/8016d3d1efef47ca9c59e.jpg",
+        "https://telegra.ph/file/7611c3b90538f08e3aa58.jpg",
+        "https://telegra.ph/file/8ceb91a5038b9484cf3fd.jpg",
+        "https://telegra.ph/file/2de2587d80695bec7b26c.jpg",
+        "https://telegra.ph/file/43c18b0737e9e0692d06e.jpg",
+        "https://telegra.ph/file/b675422b12b114ddb997c.jpg",
+        "https://telegra.ph/file/16c71671224fe78e0e460.jpg",
+        "https://telegra.ph/file/69ed83208b334bd232d54.jpg",
+        "https://telegra.ph/file/262b78aa59dea95aad33f.jpg",
+        "https://telegra.ph/file/f7f4d1a3f2bd4e6d6ab07.jpg",
+        "https://telegra.ph/file/3a2d02b9e73caa4de9831.jpg",
+        "https://telegra.ph/file/2997dae1a6027b887f413.jpg",
+        "https://telegra.ph/file/3822a424234c8823fdad2.jpg",
+        "https://telegra.ph/file/743f74689f390e18e3010.jpg",
+        "https://telegra.ph/file/e34826f647b6ea6ef28fe.jpg",
+        "https://telegra.ph/file/d73b80a0d62cd44bef585.jpg",
+        "https://telegra.ph/file/2609d5d96b6f770450649.jpg",
+        "https://telegra.ph/file/97c944935c5d0e76af365.jpg",
+        "https://telegra.ph/file/af9486b28af7283e0b0a6.jpg",
+        "https://telegra.ph/file/1684d2cc811c5dfa1146b.jpg",
+        "https://telegra.ph/file/b50acd068ecfae72a7f87.jpg",
+        "https://telegra.ph/file/7dd2616b97f88433617a3.jpg",
+        "https://telegra.ph/file/4bee1f4631fc912508bf4.jpg",
+        "https://telegra.ph/file/8613fa2be21b61bfdd62d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12644,
+    "title": "桜井宁宁 - 瓶儿",
+    "sourceUrl": "https://telegra.ph/桜井宁宁---瓶儿-08-27",
+    "images": [
+        "https://telegra.ph/file/5fcfca74c6c04cba2e795.jpg",
+        "https://telegra.ph/file/98380092cc0fdadf69f95.jpg",
+        "https://telegra.ph/file/a1df1627c76d5e76eded9.jpg",
+        "https://telegra.ph/file/1ba8e972cbff8c6f4cbd6.jpg",
+        "https://telegra.ph/file/5dc2e820e40d22c1178d4.jpg",
+        "https://telegra.ph/file/11b23a7257263b1e6920b.jpg",
+        "https://telegra.ph/file/81f17f47b142ee98622ba.jpg",
+        "https://telegra.ph/file/b17b4a2f1b710230511e7.jpg",
+        "https://telegra.ph/file/84081fa83872ed80a1ef1.jpg",
+        "https://telegra.ph/file/d11560772ce7ae9ce170c.jpg",
+        "https://telegra.ph/file/1c93715ea7c4ef32213ad.jpg",
+        "https://telegra.ph/file/4595303a2f936ea4257d4.jpg",
+        "https://telegra.ph/file/cb969226f04271f144eb4.jpg",
+        "https://telegra.ph/file/c80d88ddfc321037ed9ec.jpg",
+        "https://telegra.ph/file/88d1f275c98ddd677473b.jpg",
+        "https://telegra.ph/file/c493876de710e79605b35.jpg",
+        "https://telegra.ph/file/0c0d7edc9e290b730ae0c.jpg",
+        "https://telegra.ph/file/7b0f8657bb51fefd872ba.jpg",
+        "https://telegra.ph/file/84aa595f38e99a30f1f3f.jpg",
+        "https://telegra.ph/file/a79c0d051a3062de87119.jpg",
+        "https://telegra.ph/file/6e06c438b458c7095bb8c.jpg",
+        "https://telegra.ph/file/ac627166c6a58e3f24ff7.jpg",
+        "https://telegra.ph/file/c2681dc113cc6fce69c19.jpg",
+        "https://telegra.ph/file/2e50147bb0503623ebf04.jpg",
+        "https://telegra.ph/file/7d390aa5271862f903ae8.jpg",
+        "https://telegra.ph/file/a6fc56847204360f52b8f.jpg",
+        "https://telegra.ph/file/2e49baa598107f6c4abd0.jpg",
+        "https://telegra.ph/file/0d337b59064702a2e2ad9.jpg",
+        "https://telegra.ph/file/be8292aa7c6504177902c.jpg",
+        "https://telegra.ph/file/3de444e80df7bcbf747c6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

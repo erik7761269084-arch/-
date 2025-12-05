@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 6742,
+    "title": "麻花麻花酱 - 魔太郎旗袍",
+    "sourceUrl": "https://telegra.ph/麻花麻花酱---魔太郎旗袍-08-27",
+    "images": [
+        "https://telegra.ph/file/24c4e307275be1a329bc2.jpg",
+        "https://telegra.ph/file/aef1f3f44f50d326dc32e.jpg",
+        "https://telegra.ph/file/6983d62e7865901bb5eb1.jpg",
+        "https://telegra.ph/file/cda7678085c7f43bafc2e.jpg",
+        "https://telegra.ph/file/ed2f4e6e4e5cfd14db8c1.jpg",
+        "https://telegra.ph/file/a53566dd06cbbd305ff01.jpg",
+        "https://telegra.ph/file/2e1c1f3d33915760f2a69.jpg",
+        "https://telegra.ph/file/80082c89eda7928880a8a.jpg",
+        "https://telegra.ph/file/25b2e5c29c9119e32a833.jpg",
+        "https://telegra.ph/file/da8ccabfa69a9ac6a45f6.jpg",
+        "https://telegra.ph/file/85ceb891dfcf90a7e725c.jpg",
+        "https://telegra.ph/file/5134f8c376e7c6e1fe5c9.jpg",
+        "https://telegra.ph/file/2b9874f5dc0387ec5910d.jpg",
+        "https://telegra.ph/file/e8e6c7e194d5365f48c39.jpg",
+        "https://telegra.ph/file/99ed17102901eee6b91e2.jpg",
+        "https://telegra.ph/file/66eeec0b0a366f34a450c.jpg",
+        "https://telegra.ph/file/787b913f69ed3c4b46302.jpg",
+        "https://telegra.ph/file/0e2427eddba08f3dbf958.jpg",
+        "https://telegra.ph/file/90511068303566dca1eed.jpg",
+        "https://telegra.ph/file/e374f514086db353aea64.jpg",
+        "https://telegra.ph/file/c67bb5bc1c42b5ac2d77c.jpg",
+        "https://telegra.ph/file/5d096a87807c434b504bb.jpg",
+        "https://telegra.ph/file/3952bfa0e684804de998b.jpg",
+        "https://telegra.ph/file/d57ed9828b8a08dccb43b.jpg",
+        "https://telegra.ph/file/0a911c8e96bee1c708f6d.jpg",
+        "https://telegra.ph/file/9fac335148324ee162128.jpg",
+        "https://telegra.ph/file/38c6dfdd5b1d666f8da8c.jpg",
+        "https://telegra.ph/file/a2062ebdc7f9713560f93.jpg",
+        "https://telegra.ph/file/2ad7ba0e17bb4838a9b21.jpg",
+        "https://telegra.ph/file/b4c7a3a62e78763d2f7ba.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

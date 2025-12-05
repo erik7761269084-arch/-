@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 2661,
+    "title": "Uy Uy - D.VA Bunny Nurse",
+    "sourceUrl": "https://telegra.ph/Uy-Uy---DVA-Bunny-Nurse-08-27",
+    "images": [
+        "https://telegra.ph/file/d86657cae8b6504a2c2ed.jpg",
+        "https://telegra.ph/file/d66caf01460115bfaf8ec.jpg",
+        "https://telegra.ph/file/e06037cb7b54a3d93d3ff.jpg",
+        "https://telegra.ph/file/b15b51a067ca197407b34.jpg",
+        "https://telegra.ph/file/c32daf4c7e08d9f299083.jpg",
+        "https://telegra.ph/file/bc41919f969033aafa295.jpg",
+        "https://telegra.ph/file/4c4fca15fd8ca309d9ecc.jpg",
+        "https://telegra.ph/file/a93af7c9ce5d1e1393ad6.jpg",
+        "https://telegra.ph/file/5acf91dab1b4065b704fd.jpg",
+        "https://telegra.ph/file/707ab1b6937e461513cc1.jpg",
+        "https://telegra.ph/file/c61521a05acf4389fb311.jpg",
+        "https://telegra.ph/file/4ee24b0da716c9cda1d9c.jpg",
+        "https://telegra.ph/file/32982cbfb04efe6f8c19c.jpg",
+        "https://telegra.ph/file/9fdb48efabe29d723acb2.jpg",
+        "https://telegra.ph/file/fe61cab4205ab3e2bd835.jpg",
+        "https://telegra.ph/file/0d0ee43d8e7c9501240a7.jpg",
+        "https://telegra.ph/file/6da584c7731f1ea111568.jpg",
+        "https://telegra.ph/file/1663652114b1a8dc73d0d.jpg",
+        "https://telegra.ph/file/74374d0d2b29a398bb303.jpg",
+        "https://telegra.ph/file/f52754d4ac554e1cd3da3.jpg",
+        "https://telegra.ph/file/ff5baf6a3b2c37c0e4c44.jpg",
+        "https://telegra.ph/file/efbbfd91cf646008646dd.jpg",
+        "https://telegra.ph/file/7c36268b0587dc6bfcd32.jpg",
+        "https://telegra.ph/file/1730c9ec6ff2535a57a44.jpg",
+        "https://telegra.ph/file/81b5971cc5f3e603a96a9.jpg",
+        "https://telegra.ph/file/b424d61f478545e515c63.jpg",
+        "https://telegra.ph/file/4b34757f077204d4feb88.jpg",
+        "https://telegra.ph/file/f3e32ef4c2d8565674b13.jpg",
+        "https://telegra.ph/file/aab3e74e46471b0e9901f.jpg",
+        "https://telegra.ph/file/4307f286b1d7d74c94738.jpg",
+        "https://telegra.ph/file/1da7eaaab684f9dd67d62.jpg",
+        "https://telegra.ph/file/4da5b1a74875ca8f46642.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

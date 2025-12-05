@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10371,
+    "title": "雯妹不讲道理 - 运动服猫咪 [30P-191MB]",
+    "sourceUrl": "https://telegra.ph/雯妹不讲道理---运动服猫咪-30P-191MB-08-25",
+    "images": [
+        "https://telegra.ph/file/cd0dc0c6b55ba65222a59.jpg",
+        "https://telegra.ph/file/bb3fa458f2ac7609739ea.jpg",
+        "https://telegra.ph/file/9632dbe52e0bf3161e49d.jpg",
+        "https://telegra.ph/file/1bbe63d5685f483ee7b6a.jpg",
+        "https://telegra.ph/file/b9fb37b2c80ddd32d21c5.jpg",
+        "https://telegra.ph/file/a00f9683d83cd461bdc08.jpg",
+        "https://telegra.ph/file/1df0bd40a0dfb0c3f1bf3.jpg",
+        "https://telegra.ph/file/787bb9a12ccc0130789aa.jpg",
+        "https://telegra.ph/file/3592d9ac2527574c53f32.jpg",
+        "https://telegra.ph/file/bbe3a06574ba95ded9af4.jpg",
+        "https://telegra.ph/file/bff040f915676dc3539a4.jpg",
+        "https://telegra.ph/file/c406e079e3decf6bb0ab0.jpg",
+        "https://telegra.ph/file/24b53a6bbf34f9b7367ab.jpg",
+        "https://telegra.ph/file/c1a805d0521a338a0223e.jpg",
+        "https://telegra.ph/file/d63c1f7f857365dc64b1e.jpg",
+        "https://telegra.ph/file/d99635d3cbdd9e916858c.jpg",
+        "https://telegra.ph/file/78aa61764ca1ca4d4f948.jpg",
+        "https://telegra.ph/file/02347fc8f08b7467112b0.jpg",
+        "https://telegra.ph/file/2c84f71578bcce4a1bf07.jpg",
+        "https://telegra.ph/file/04262c44e65cdeee53076.jpg",
+        "https://telegra.ph/file/1e4f642422caaf9f14c70.jpg",
+        "https://telegra.ph/file/3f35f2664b670128c4f08.jpg",
+        "https://telegra.ph/file/aa66fdcef4908e9d8d1b7.jpg",
+        "https://telegra.ph/file/25c188e5912535762d678.jpg",
+        "https://telegra.ph/file/aeb05889b04e8d55e366d.jpg",
+        "https://telegra.ph/file/90dd6f64bfce03fb4bd8e.jpg",
+        "https://telegra.ph/file/f354e457b4f9ce9d6c717.jpg",
+        "https://telegra.ph/file/f32e959e0df4d6dc30777.jpg",
+        "https://telegra.ph/file/5012341bfbbaf00c77b5d.jpg",
+        "https://telegra.ph/file/9624e5c2e8ee74eed5c82.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

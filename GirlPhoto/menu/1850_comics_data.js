@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 1850,
+    "title": "Quan冉有点饿 - 橘光 32p",
+    "sourceUrl": "https://telegra.ph/Quan%E5%86%89%E6%9C%89%E7%82%B9%E9%A5%BF---%E6%A9%98%E5%85%89-32p-08-19",
+    "images": [
+        "https://image.acg.lol/file/2025/06/12/138640414e2cbc74d.jpg",
+        "https://image.acg.lol/file/2025/06/12/21fe12ceeaf13c8c3.jpg",
+        "https://image.acg.lol/file/2025/06/12/37504ed8c68cf541d.jpg",
+        "https://image.acg.lol/file/2025/06/12/4547bce17a7418aba.jpg",
+        "https://image.acg.lol/file/2025/06/12/5a4395f7e378fe3a9.jpg",
+        "https://image.acg.lol/file/2025/06/12/6036a2dd6dd6f8859.jpg",
+        "https://image.acg.lol/file/2025/06/12/7e6302401c7c95a00.jpg",
+        "https://image.acg.lol/file/2025/06/12/820eed5ce71644381.jpg",
+        "https://image.acg.lol/file/2025/06/12/9378b61d2c0766216.jpg",
+        "https://image.acg.lol/file/2025/06/12/103185428656b85447.jpg",
+        "https://image.acg.lol/file/2025/06/12/119c6fbd4ca778122a.jpg",
+        "https://image.acg.lol/file/2025/06/12/12947b5c08f22775fb.jpg",
+        "https://image.acg.lol/file/2025/06/12/13b95eb98f7c8de971.jpg",
+        "https://image.acg.lol/file/2025/06/12/14eba348153b269214.jpg",
+        "https://image.acg.lol/file/2025/06/12/159a0747776fef2078.jpg",
+        "https://image.acg.lol/file/2025/06/12/16208f02d8d4c1804d.jpg",
+        "https://image.acg.lol/file/2025/06/12/17ebcd1f789a0549bb.jpg",
+        "https://image.acg.lol/file/2025/06/12/189c7feb354f3f23a3.jpg",
+        "https://image.acg.lol/file/2025/06/12/19395e50f040c2efd8.jpg",
+        "https://image.acg.lol/file/2025/06/12/205337240b613466af.jpg",
+        "https://image.acg.lol/file/2025/06/12/21acacbb56dbb4394f.jpg",
+        "https://image.acg.lol/file/2025/06/12/2290ac53811cc2c183.jpg",
+        "https://image.acg.lol/file/2025/06/12/23f1445b604c26be0b.jpg",
+        "https://image.acg.lol/file/2025/06/12/243454287930bab420.jpg",
+        "https://image.acg.lol/file/2025/06/12/2562dd138edff7aff9.jpg",
+        "https://image.acg.lol/file/2025/06/12/2673a2f300bec8d489.jpg",
+        "https://image.acg.lol/file/2025/06/12/27891317aad814ca24.jpg",
+        "https://image.acg.lol/file/2025/06/12/28aa403994077b6333.jpg",
+        "https://image.acg.lol/file/2025/06/12/29.png",
+        "https://image.acg.lol/file/2025/06/12/302075bb0c49750d09.jpg",
+        "https://image.acg.lol/file/2025/06/12/31ae7a48842f128f52.jpg",
+        "https://image.acg.lol/file/2025/06/12/32d809e8efada02740.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

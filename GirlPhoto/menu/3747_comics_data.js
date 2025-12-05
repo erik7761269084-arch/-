@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 3747,
+    "title": "沖田凜花Rinka - Minato Aqua",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka---Minato-Aqua-08-27",
+    "images": [
+        "https://telegra.ph/file/27a2f2fbbaf385228ae64.jpg",
+        "https://telegra.ph/file/74fd950bd2323c65a0bc4.jpg",
+        "https://telegra.ph/file/7b84952516dcc0e117734.jpg",
+        "https://telegra.ph/file/e6550b6102f1cee2ba8ce.jpg",
+        "https://telegra.ph/file/bdcd636669d5cf438c397.jpg",
+        "https://telegra.ph/file/5bbdd393b78e801b5761f.jpg",
+        "https://telegra.ph/file/ce5eba454919d6612ba8a.jpg",
+        "https://telegra.ph/file/7f8b9b7e54f87ca633bd8.jpg",
+        "https://telegra.ph/file/20482daa7be1d865c5a8a.jpg",
+        "https://telegra.ph/file/a23e3c8ba56fbe74ee64a.jpg",
+        "https://telegra.ph/file/9622f13a9572df5e3ec55.jpg",
+        "https://telegra.ph/file/83221734d29653027be30.jpg",
+        "https://telegra.ph/file/72515ca330996197028ae.jpg",
+        "https://telegra.ph/file/42d9ddd78bd682b5d2472.jpg",
+        "https://telegra.ph/file/3706b28b0029b833bc518.jpg",
+        "https://telegra.ph/file/c77c46a1395af4358b412.jpg",
+        "https://telegra.ph/file/08ca81bb66a718b9dd9d2.jpg",
+        "https://telegra.ph/file/0ce12ae30106d9cf7e325.jpg",
+        "https://telegra.ph/file/4d5f291a8d96751cb9467.jpg",
+        "https://telegra.ph/file/1b6e6f7ef4afade7c5e3a.jpg",
+        "https://telegra.ph/file/0b1a689177284c997877a.jpg",
+        "https://telegra.ph/file/f47c4dff513d490ef9b62.jpg",
+        "https://telegra.ph/file/dd943397a5d215deac2e0.jpg",
+        "https://telegra.ph/file/4229546e12b89eda51735.jpg",
+        "https://telegra.ph/file/afb61d76b4342fb6a57bd.jpg",
+        "https://telegra.ph/file/a4d7e87ad81065aae98d0.jpg",
+        "https://telegra.ph/file/f2914c41594f235ea8f84.jpg",
+        "https://telegra.ph/file/1fd3e0d64462d2992cf29.jpg",
+        "https://telegra.ph/file/8cbbfc5a551ebc77e3b21.jpg",
+        "https://telegra.ph/file/ec6d74cb16be828463ce1.jpg",
+        "https://telegra.ph/file/6ee2754ab8fce842a9afe.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

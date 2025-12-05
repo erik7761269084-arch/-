@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8359,
+    "title": "起司块wii - 斯卡哈兔女郎",
+    "sourceUrl": "https://telegra.ph/起司块wii---斯卡哈兔女郎-08-28",
+    "images": [
+        "https://telegra.ph/file/8bfd6479a88609141ce0b.jpg",
+        "https://telegra.ph/file/415d30735b0be4e3bed6b.jpg",
+        "https://telegra.ph/file/e7fab8127bd9a63f7458f.jpg",
+        "https://telegra.ph/file/0e11b30953075ee185668.jpg",
+        "https://telegra.ph/file/bd30718f8dcceec89ac77.jpg",
+        "https://telegra.ph/file/7f6f72665655ec284b6bc.jpg",
+        "https://telegra.ph/file/5a876a41a36cbdf24b5cb.jpg",
+        "https://telegra.ph/file/a3a2d08aaf715fd74aa42.jpg",
+        "https://telegra.ph/file/bcdcea6882f96156d5197.jpg",
+        "https://telegra.ph/file/00283470f4f145ac36402.jpg",
+        "https://telegra.ph/file/e68b333e76d8b37cb1bc8.jpg",
+        "https://telegra.ph/file/43c9f876172474aed7b7d.jpg",
+        "https://telegra.ph/file/60b2c426f47d737846372.jpg",
+        "https://telegra.ph/file/415bae948f2e739c4590a.jpg",
+        "https://telegra.ph/file/a6577223cb12a88624fae.jpg",
+        "https://telegra.ph/file/128f0e3c8ddd88c46d3a2.jpg",
+        "https://telegra.ph/file/4f855f1ff8e46404acb94.jpg",
+        "https://telegra.ph/file/979c1021bb347a866e292.jpg",
+        "https://telegra.ph/file/c277651fee80069d8249a.jpg",
+        "https://telegra.ph/file/de323e8899e33b0d0dcec.jpg",
+        "https://telegra.ph/file/db7471383921f22570b8c.jpg",
+        "https://telegra.ph/file/6bc68fea2e7152c137fa2.jpg",
+        "https://telegra.ph/file/db3ea852107268227627d.jpg",
+        "https://telegra.ph/file/100c761f5a781f6787c44.jpg",
+        "https://telegra.ph/file/6d89604b4b8c50a5d9043.jpg",
+        "https://telegra.ph/file/4577fb979c41b8e4572ca.jpg",
+        "https://telegra.ph/file/76c47bde28e02f4c95fa9.jpg",
+        "https://telegra.ph/file/97fb55535df278ea624bf.jpg",
+        "https://telegra.ph/file/cfd0e294a6beb15758a7c.jpg",
+        "https://telegra.ph/file/a8f7ca76d003feb8a9de3.jpg",
+        "https://telegra.ph/file/ceaad76451daec299b889.jpg",
+        "https://telegra.ph/file/23f66daec9b8135c7c807.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};
