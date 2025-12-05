@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3189,
+    "title": "[墓場] 犬 (COMIC 夢幻転生 2018年2月号)",
+    "sourceUrl": "https://telegra.ph/墓場-犬-COMIC-夢幻転生-2018年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/9dd07c9ebaee4c87c0ef6.jpg",
+        "https://telegra.ph/file/232cf94f254abb2739ed4.jpg",
+        "https://telegra.ph/file/570377eed1698027c8f79.jpg",
+        "https://telegra.ph/file/7b7559ebe14582aa3ce69.jpg",
+        "https://telegra.ph/file/a45e86d794b88525b3d07.jpg",
+        "https://telegra.ph/file/406d272c4d71ac11eb889.jpg",
+        "https://telegra.ph/file/885e8da2cbe6cb6ca10b3.jpg",
+        "https://telegra.ph/file/2806780d550378d1fdccb.jpg",
+        "https://telegra.ph/file/dbdce3aa247df22e6f017.jpg",
+        "https://telegra.ph/file/3e92c37fe15c940cfa2dd.jpg",
+        "https://telegra.ph/file/74b280a355d1b14a89c09.jpg",
+        "https://telegra.ph/file/f2afa4effe02d0ed555ac.jpg",
+        "https://telegra.ph/file/952f80e27d3016881e535.jpg",
+        "https://telegra.ph/file/9f4cb1805cb72d41d00c9.jpg",
+        "https://telegra.ph/file/09a379b08c7c02dc7aaf5.jpg",
+        "https://telegra.ph/file/79f2bb6b59a79290829d1.jpg",
+        "https://telegra.ph/file/0cfdf6207b718bce9da0c.jpg",
+        "https://telegra.ph/file/31df957910d342d1b32c2.jpg",
+        "https://telegra.ph/file/36d04424176d8203c64b2.jpg",
+        "https://telegra.ph/file/d9bc345186f57c6cf16a5.jpg",
+        "https://telegra.ph/file/fd3100d6ec66753ab013e.jpg",
+        "https://telegra.ph/file/be4cbe54ee2744d68d049.jpg",
+        "https://telegra.ph/file/b9eb8b5e7b09c9fee0a0b.jpg",
+        "https://telegra.ph/file/79c0976546689092b9095.jpg"
+    ]
+};

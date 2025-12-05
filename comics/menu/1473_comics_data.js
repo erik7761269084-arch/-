@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1473,
+    "title": "(C99) [生々シャンディガフ (nf4)] またまたさかま十=つかまった Plus (ホロライブ)",
+    "sourceUrl": "https://telegra.ph/C99-生々シャンディガフ-nf4-またまたさかま十つかまった-Plus-ホロライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/c7e8cede3cad53373d385.jpg",
+        "https://telegra.ph/file/f14cc89d2700d47c5f90c.jpg",
+        "https://telegra.ph/file/958da0d84e4d434f913db.jpg",
+        "https://telegra.ph/file/8f748da10bf6c31dea420.jpg",
+        "https://telegra.ph/file/817bd217d01455d7827ff.jpg",
+        "https://telegra.ph/file/f648ebafb30b09ce6fac7.jpg",
+        "https://telegra.ph/file/3733db5b8422ce5ffae74.jpg",
+        "https://telegra.ph/file/455b6cded770f206d2e1d.jpg",
+        "https://telegra.ph/file/3e9b6910f562e307dd81d.jpg",
+        "https://telegra.ph/file/75a06b3e25ea18392a0bc.jpg",
+        "https://telegra.ph/file/1c89bf3ebd48c494d1d07.jpg",
+        "https://telegra.ph/file/8cecfda3161d155d403f4.jpg",
+        "https://telegra.ph/file/deacfaace30c0743dad5c.jpg",
+        "https://telegra.ph/file/096d7d48f6189ae4b38bc.jpg",
+        "https://telegra.ph/file/9f98d1c71f0dfbd3e5b2c.jpg",
+        "https://telegra.ph/file/8587f506a2bacaae5f4ee.jpg",
+        "https://telegra.ph/file/117c442f9a5cb213840bb.jpg",
+        "https://telegra.ph/file/765465503d3b77decec46.jpg",
+        "https://telegra.ph/file/af232b7c9b0ac38cd7194.jpg",
+        "https://telegra.ph/file/38bbaa100a7df090663ba.jpg",
+        "https://telegra.ph/file/7c1887e19c75acb21517c.jpg",
+        "https://telegra.ph/file/375dca28e7274797eef90.jpg",
+        "https://telegra.ph/file/6ce998003fc61b081d3c1.jpg",
+        "https://telegra.ph/file/835b5804af18a9560af83.jpg",
+        "https://telegra.ph/file/b04531cc11594eb43aea5.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

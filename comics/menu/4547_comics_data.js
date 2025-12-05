@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4547,
+    "title": "(僕らのラブライブ! 13) [liz project (宮本りず)] ことりといちゃラブエッチ (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-13-liz-project-宮本りず-ことりといちゃラブエッチ-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/2db02d12edcc193a7ac83.jpg",
+        "https://telegra.ph/file/b21ae62e30b8f783f519f.jpg",
+        "https://telegra.ph/file/f5256de3b516983692a4e.jpg",
+        "https://telegra.ph/file/3a8d08c7a46a9733d41a0.jpg",
+        "https://telegra.ph/file/e00068a72073b53c338c1.jpg",
+        "https://telegra.ph/file/bdead4bfc2ff1d96ae283.jpg",
+        "https://telegra.ph/file/0a10fd26744358285ec87.jpg",
+        "https://telegra.ph/file/30535fac29c5400b79ae2.jpg",
+        "https://telegra.ph/file/3a4e020b5804cb0eaec4e.jpg",
+        "https://telegra.ph/file/f90f71597f1637cb0febe.jpg",
+        "https://telegra.ph/file/f9887c24ce7325272eac1.jpg",
+        "https://telegra.ph/file/a145e37d4d4893c1f5a32.jpg",
+        "https://telegra.ph/file/53bf19b889ecaf335cefb.jpg",
+        "https://telegra.ph/file/ff246d36e429c10f3cbe5.jpg",
+        "https://telegra.ph/file/7a184bf13210a072628e0.jpg",
+        "https://telegra.ph/file/fecc74e6d3d7fc3961c7b.jpg",
+        "https://telegra.ph/file/d0618ba6a68c8fa8aae6a.jpg",
+        "https://telegra.ph/file/8c82bdd8d77c66d952566.jpg",
+        "https://telegra.ph/file/817a495c790b6df006a96.jpg",
+        "https://telegra.ph/file/df2aabeffbfe82ce9d868.jpg",
+        "https://telegra.ph/file/c42909b745b07ce08c9d0.jpg",
+        "https://telegra.ph/file/861c5ce51102b90657d57.jpg",
+        "https://telegra.ph/file/d77b3caee04a6f9a1f9ef.jpg",
+        "https://telegra.ph/file/c2ea729d5848e7642e3fa.jpg"
+    ]
+};

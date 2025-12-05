@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1521,
+    "title": "口内射精しないと死ぬ病気に掛かったＰ& 授乳手コキしてもらわないと死ぬ病気に掛かったＰ(アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/口内射精しないと死ぬ病気に掛かったＰ-授乳手コキしてもらわないと死ぬ病気に掛かったＰアイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/da08a5731a9575613be5b.jpg",
+        "https://telegra.ph/file/a733253ac556d9b317ad3.jpg",
+        "https://telegra.ph/file/7f73478060306f8645615.jpg",
+        "https://telegra.ph/file/1808257ea83e80270534e.jpg",
+        "https://telegra.ph/file/0037804f353fcdf1d119b.jpg",
+        "https://telegra.ph/file/8e8b64489edb3b5fcec00.jpg",
+        "https://telegra.ph/file/fbf4aefe42df17534ff48.jpg",
+        "https://telegra.ph/file/44ef3823bbe4e6e549872.jpg",
+        "https://telegra.ph/file/d02a789511026516add73.jpg",
+        "https://telegra.ph/file/1371dd72fb03c9bb9d424.jpg",
+        "https://telegra.ph/file/513e651dd894b065b6452.jpg",
+        "https://telegra.ph/file/d88a9a6721841e1e47e72.jpg",
+        "https://telegra.ph/file/fdf8b05a2460c918a9832.jpg",
+        "https://telegra.ph/file/3e1dba271bbeaf9253889.jpg",
+        "https://telegra.ph/file/7f30dfc5bd76b0eeca2f5.jpg",
+        "https://telegra.ph/file/6605f7bef9575e6acf2ba.jpg",
+        "https://telegra.ph/file/10e5225da20d60d42469a.jpg",
+        "https://telegra.ph/file/4ca1302af33f0f185b7bd.jpg",
+        "https://telegra.ph/file/05dbc11d63ec50248a2c3.jpg",
+        "https://telegra.ph/file/6b4987a221b4b5578d91e.jpg",
+        "https://telegra.ph/file/003d501bde66bd53a5e97.jpg",
+        "https://telegra.ph/file/e26a036552ff57903344b.jpg",
+        "https://telegra.ph/file/0c61496fe321d55868e64.jpg",
+        "https://telegra.ph/file/08ce87265af73b3fb52f9.jpg",
+        "https://telegra.ph/file/7da835987cfe70a1de51b.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7309,
+    "title": "センチメントの季節",
+    "sourceUrl": "https://telegra.ph/センチメントの季節-08-31",
+    "images": [
+        "https://telegra.ph/file/20e0986bc4b67c9fa1ecd.jpg",
+        "https://telegra.ph/file/a49616079305e117d5a4f.jpg",
+        "https://telegra.ph/file/d41563eba5a6ed1b24cbf.jpg",
+        "https://telegra.ph/file/3134ab93f98909c588375.jpg",
+        "https://telegra.ph/file/bcb83d5769b22d7593d9b.jpg",
+        "https://telegra.ph/file/f8f57ad24cee7135729ce.jpg",
+        "https://telegra.ph/file/742e75aad816b01f508ed.jpg",
+        "https://telegra.ph/file/16edfa0cc2ea4fe621b2e.jpg",
+        "https://telegra.ph/file/6e759679afefdf89433b3.jpg",
+        "https://telegra.ph/file/760fefd491a90a5cc790e.jpg",
+        "https://telegra.ph/file/07cb4bc16bb1d1449834f.jpg",
+        "https://telegra.ph/file/a98880383d6ca1973f45a.jpg",
+        "https://telegra.ph/file/20df1681effa18c14d0c0.jpg",
+        "https://telegra.ph/file/8fed4fa6ef70665e75bea.jpg",
+        "https://telegra.ph/file/5e0b32e14c44a70e43477.jpg",
+        "https://telegra.ph/file/78c8bedc1db6ebca03cad.jpg",
+        "https://telegra.ph/file/54a14c512446f032ff77c.jpg",
+        "https://telegra.ph/file/7aa4efbc0f052fa03456f.jpg",
+        "https://telegra.ph/file/14042347317256eec3d06.jpg",
+        "https://telegra.ph/file/94e72933a370c0de1fada.jpg",
+        "https://telegra.ph/file/0653b8fb1b6df2cae3a96.jpg",
+        "https://telegra.ph/file/831a72101a73e312f6bd2.jpg",
+        "https://telegra.ph/file/66ffa27666666a320818c.jpg",
+        "https://telegra.ph/file/b3c8de92ef5ab32f5f1a9.jpg",
+        "https://telegra.ph/file/ac54d0df2a6c2a585f4e8.jpg"
+    ]
+};

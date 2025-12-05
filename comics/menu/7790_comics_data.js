@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7790,
+    "title": "琴舎",
+    "sourceUrl": "https://telegra.ph/琴舎-08-31",
+    "images": [
+        "https://telegra.ph/file/48264748c68c9e23c07d6.jpg",
+        "https://telegra.ph/file/511786b8321cc6ecd4c41.jpg",
+        "https://telegra.ph/file/89073ece0c89844447618.jpg",
+        "https://telegra.ph/file/0c878f8bf0656e74da03b.jpg",
+        "https://telegra.ph/file/996b2a1ad7a52541320c1.jpg",
+        "https://telegra.ph/file/7a39575ba1fc75509e4f1.jpg",
+        "https://telegra.ph/file/eb00110c3983cd4d7067a.jpg",
+        "https://telegra.ph/file/d563e859df397ac6ffc47.jpg",
+        "https://telegra.ph/file/c43603185cdffa9eca25b.jpg",
+        "https://telegra.ph/file/cf8ca9dda0ff48bffc3b8.jpg",
+        "https://telegra.ph/file/5bce33463ec16863af269.jpg",
+        "https://telegra.ph/file/7f39a80b1297d8514b070.jpg",
+        "https://telegra.ph/file/5f996f2d6d42072e3e465.jpg",
+        "https://telegra.ph/file/2f28071be805f13a015be.jpg",
+        "https://telegra.ph/file/83417f0d256daf216158d.jpg",
+        "https://telegra.ph/file/28b53fec08082020a766b.jpg",
+        "https://telegra.ph/file/7de853911a5e802b82114.jpg",
+        "https://telegra.ph/file/f562dac83c7895c59a45e.jpg",
+        "https://telegra.ph/file/719fc93d85b0e181dc91a.jpg",
+        "https://telegra.ph/file/41ad5f5d40362e639cde1.jpg",
+        "https://telegra.ph/file/8b46702f51e12c25885d7.jpg",
+        "https://telegra.ph/file/8e5b0c4c2cb5b4266e9ff.jpg",
+        "https://telegra.ph/file/702c57aae3b4c82b170a2.jpg",
+        "https://telegra.ph/file/524ce125b756f049aad8d.jpg",
+        "https://telegra.ph/file/5a739e571cc7bc2bcdf00.jpg"
+    ]
+};

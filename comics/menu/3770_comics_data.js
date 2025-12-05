@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3770,
+    "title": "[羽月ユウト] 立花先生の秘密 (COMIC 快楽天ビースト 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/羽月ユウト-立花先生の秘密-COMIC-快楽天ビースト-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/8e4a03781e83347005462.jpg",
+        "https://telegra.ph/file/175cf5ddbce3a7f7912b7.jpg",
+        "https://telegra.ph/file/1c523422a1eeb70e4c67f.jpg",
+        "https://telegra.ph/file/d42b9764993579ff18d57.jpg",
+        "https://telegra.ph/file/5bc0737411d03faf881ff.jpg",
+        "https://telegra.ph/file/1c1d6bb249fd3d03bc310.jpg",
+        "https://telegra.ph/file/070d56ae457bfd1af4056.jpg",
+        "https://telegra.ph/file/163ff307ca7dec6c177bf.jpg",
+        "https://telegra.ph/file/eb5439b39089fd3e68c60.jpg",
+        "https://telegra.ph/file/06fd180b4e411a7e3ed7b.jpg",
+        "https://telegra.ph/file/09d2ccd8f3bd82899961a.jpg",
+        "https://telegra.ph/file/c7a5c52703d7ed011ebe5.jpg",
+        "https://telegra.ph/file/0621c34901d10ed0bdc21.jpg",
+        "https://telegra.ph/file/cba87dcee6b1841223cfe.jpg",
+        "https://telegra.ph/file/daf9b22396cd22703aa0d.jpg",
+        "https://telegra.ph/file/f7077bfe4646530f3ef6e.jpg",
+        "https://telegra.ph/file/c4cbc19ac08f6afed42e1.jpg",
+        "https://telegra.ph/file/ab73cb6d6f222456393f9.jpg",
+        "https://telegra.ph/file/d121912e416c38db19cbb.jpg",
+        "https://telegra.ph/file/daa9641676356e6d2a5b3.jpg",
+        "https://telegra.ph/file/c1a580df7210f05a0d202.jpg",
+        "https://telegra.ph/file/9d3977607f93a99c46187.jpg",
+        "https://telegra.ph/file/fd890c956d9b6548dc1f6.jpg",
+        "https://telegra.ph/file/05c5b7adfe574923fc83d.jpg"
+    ]
+};

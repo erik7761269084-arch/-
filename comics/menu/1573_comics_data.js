@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1573,
+    "title": "[kuretudenn] 家出少年を拾ったら実は女の子でした (COMIC 阿吽 改 Vol.17)",
+    "sourceUrl": "https://telegra.ph/kuretudenn-家出少年を拾ったら実は女の子でした-COMIC-阿吽-改-Vol17-08-31",
+    "images": [
+        "https://telegra.ph/file/398ea989c04ec65dbeb7a.jpg",
+        "https://telegra.ph/file/69d4589f08b1e3a2b0618.jpg",
+        "https://telegra.ph/file/196f1b291dc6639817eb0.jpg",
+        "https://telegra.ph/file/9dde5e57367d058d47f03.jpg",
+        "https://telegra.ph/file/000cbd7723b78cc7e0f07.jpg",
+        "https://telegra.ph/file/928a8102df673a31f3a68.jpg",
+        "https://telegra.ph/file/bac90f198dba9d06a7246.jpg",
+        "https://telegra.ph/file/37ad81c9c3387f83ce392.jpg",
+        "https://telegra.ph/file/24c0a8029e1085a40473f.jpg",
+        "https://telegra.ph/file/192f204195e165ca2acec.jpg",
+        "https://telegra.ph/file/7c007ca7f3d98cf0a6caa.jpg",
+        "https://telegra.ph/file/3ec5e87e9b18a9b9e11a3.jpg",
+        "https://telegra.ph/file/1c7b938e27df33dc920a5.jpg",
+        "https://telegra.ph/file/c82e84eada81a58ed6c81.jpg",
+        "https://telegra.ph/file/621d21c27cf08beeddd7f.jpg",
+        "https://telegra.ph/file/37fd8515f905e40eb47cb.jpg",
+        "https://telegra.ph/file/36847bae444d9b489eb7f.jpg",
+        "https://telegra.ph/file/5ff20344d56639d2f3096.jpg",
+        "https://telegra.ph/file/6f7539eb451767e3c367a.jpg",
+        "https://telegra.ph/file/73526d66f8bc2138fe0fe.jpg",
+        "https://telegra.ph/file/4b13d63953c6a9863c3f6.jpg",
+        "https://telegra.ph/file/26d936feea3a605dc0700.jpg",
+        "https://telegra.ph/file/2f9fab4722750ad8775f4.jpg",
+        "https://telegra.ph/file/8abb013967d34955c1720.jpg",
+        "https://telegra.ph/file/7a86f08cd2eeae2b6e120.jpg",
+        "https://telegra.ph/file/b6802dd11092178416e69.jpg"
+    ]
+};

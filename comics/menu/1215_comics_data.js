@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1215,
+    "title": "[広弥] 酔いの花 (コミック エグゼ 21)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/広弥-酔いの花-コミック-エグゼ-21-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/c878ea01d097a629ef960.jpg",
+        "https://telegra.ph/file/ad2766649c99dbe84519b.jpg",
+        "https://telegra.ph/file/c18e6505438eb7c0eb3c3.jpg",
+        "https://telegra.ph/file/202fe3347dbbaa85819ba.jpg",
+        "https://telegra.ph/file/5fb5aae5a246f2a0914ff.jpg",
+        "https://telegra.ph/file/d59d2d70649e7d0a47900.jpg",
+        "https://telegra.ph/file/bb4454526a3626d378817.jpg",
+        "https://telegra.ph/file/91e3de14f8d13d5af83b0.jpg",
+        "https://telegra.ph/file/f263cb3eccc424c28e642.jpg",
+        "https://telegra.ph/file/e466fc384f32cdbad1e5d.jpg",
+        "https://telegra.ph/file/78279a045cc47489efcfe.jpg",
+        "https://telegra.ph/file/1fcd934d0b01e0ece5578.jpg",
+        "https://telegra.ph/file/b5169f26277c91eaf880c.jpg",
+        "https://telegra.ph/file/7b7bb8a80f736db7c6293.jpg",
+        "https://telegra.ph/file/a4709d4c49593112d1519.jpg",
+        "https://telegra.ph/file/b8bc3170341fa58a321a4.jpg",
+        "https://telegra.ph/file/36b7648de03da3cefe5a4.jpg",
+        "https://telegra.ph/file/d356a9f6c547f53cf422b.jpg",
+        "https://telegra.ph/file/2c8673040ca871be20f19.jpg",
+        "https://telegra.ph/file/a2d6aefc542ca0523aad2.jpg",
+        "https://telegra.ph/file/4211ce65c21ddfab5534c.jpg",
+        "https://telegra.ph/file/562b4bfc65569fff30026.jpg",
+        "https://telegra.ph/file/bf6ddcd8cd72f262e6f56.jpg",
+        "https://telegra.ph/file/94dc09655d2c0b976d200.jpg",
+        "https://telegra.ph/file/0a04b21179fbc674051f4.jpg"
+    ]
+};

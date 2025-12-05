@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6009,
+    "title": "[橘由宇] 凹凸カ・ン・ケ・イ",
+    "sourceUrl": "https://telegra.ph/橘由宇-凹凸カンケイ-08-31",
+    "images": [
+        "https://telegra.ph/file/ef687be0d22ac1ab5ba36.jpg",
+        "https://telegra.ph/file/49236fcac10c431d9916a.jpg",
+        "https://telegra.ph/file/38812d3dc94c1470b2fc7.jpg",
+        "https://telegra.ph/file/8baf99f5ecb9d61887c45.jpg",
+        "https://telegra.ph/file/5c8508d95bc7981490f07.jpg",
+        "https://telegra.ph/file/a7e100d82446109658223.jpg",
+        "https://telegra.ph/file/f628a53eec6b6218bcb5c.jpg",
+        "https://telegra.ph/file/425a388782ce2ddb261ee.jpg",
+        "https://telegra.ph/file/37844fab7925f7d4ccaee.jpg",
+        "https://telegra.ph/file/dd18b4ac19d4d07922f8a.jpg",
+        "https://telegra.ph/file/4033658b5ac25dce8a68f.jpg",
+        "https://telegra.ph/file/e78fe4547fe1be857fa42.jpg",
+        "https://telegra.ph/file/a047aa5c7c01bbd9dba27.jpg",
+        "https://telegra.ph/file/521cbdcfe972550a500d4.jpg",
+        "https://telegra.ph/file/433b14c6555ce7ff3ea15.jpg",
+        "https://telegra.ph/file/22b2207b64e1ff088a71e.jpg",
+        "https://telegra.ph/file/0335d8f05bfac77770b57.jpg",
+        "https://telegra.ph/file/1bfb2d630fc33e950e82f.jpg",
+        "https://telegra.ph/file/87d2e1d9e73f003e7b04a.jpg",
+        "https://telegra.ph/file/3b993142dbbb2b0edcd83.jpg",
+        "https://telegra.ph/file/af77b8b68b5a19eaa6be2.jpg",
+        "https://telegra.ph/file/698ba5876d10b4a8c2d48.jpg",
+        "https://telegra.ph/file/3c455aafecfc2481befbf.jpg",
+        "https://telegra.ph/file/db0d2880f2223b69b54e4.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1108,
+    "title": "[あやね] まきこみ 第4話 (永遠娘 12)",
+    "sourceUrl": "https://telegra.ph/あやね-まきこみ-第4話-永遠娘-12-08-31",
+    "images": [
+        "https://telegra.ph/file/7c6c03e43254e2b60a3c0.jpg",
+        "https://telegra.ph/file/b6670f5544b24d5dd15a3.jpg",
+        "https://telegra.ph/file/de0d7b701e81f8c106b39.jpg",
+        "https://telegra.ph/file/42895ef79fdd7e94bf718.jpg",
+        "https://telegra.ph/file/25eda548d644c928cfd44.jpg",
+        "https://telegra.ph/file/b1f74c69070c9fddab527.jpg",
+        "https://telegra.ph/file/0137e8e1678fc1dd92905.jpg",
+        "https://telegra.ph/file/415b541017e84d288d19b.jpg",
+        "https://telegra.ph/file/bbad482f750a75de11d3b.jpg",
+        "https://telegra.ph/file/1cb00b873358369521fd8.jpg",
+        "https://telegra.ph/file/efab33cef5b36c9bfc450.jpg",
+        "https://telegra.ph/file/789a8029d0f1aab4f4854.jpg",
+        "https://telegra.ph/file/0be4384efe419ee85f464.jpg",
+        "https://telegra.ph/file/e6a50864e9b1ac6298ce8.jpg",
+        "https://telegra.ph/file/d7806aa309a8c2b034018.jpg",
+        "https://telegra.ph/file/d3eda806bccdb8bac6008.jpg",
+        "https://telegra.ph/file/c87ba2798a691b0f477fa.jpg",
+        "https://telegra.ph/file/e9534024eef50b9e42e34.jpg",
+        "https://telegra.ph/file/d3ea68c67a81046e5c500.jpg",
+        "https://telegra.ph/file/a3abe9ff012f17c9d299b.jpg",
+        "https://telegra.ph/file/9d4b6cec3723229ee3bf9.jpg",
+        "https://telegra.ph/file/b75afcd987455f81e4c56.jpg",
+        "https://telegra.ph/file/044b566f4c47c9fd3924b.jpg",
+        "https://telegra.ph/file/68cbe4f8e33810ce1740c.jpg",
+        "https://telegra.ph/file/fad243ea6953183709021.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3057,
+    "title": "[玉乃井ぺろめくり] 放課後にはこういうコトもまれによくある (COMIC LO 2017年10月号)",
+    "sourceUrl": "https://telegra.ph/玉乃井ぺろめくり-放課後にはこういうコトもまれによくある-COMIC-LO-2017年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/06ec732f43d660fe1cd62.jpg",
+        "https://telegra.ph/file/6a036a2c175379cfc98d0.jpg",
+        "https://telegra.ph/file/5d404113d50787ebe1c28.jpg",
+        "https://telegra.ph/file/5d2c04e24200f6e6dfe1a.jpg",
+        "https://telegra.ph/file/6ec52cbd7afda1d2ac602.jpg",
+        "https://telegra.ph/file/b0f357b68ed3181d2fab7.jpg",
+        "https://telegra.ph/file/e17f86b911bbdf8f9ebf8.jpg",
+        "https://telegra.ph/file/ee71361225885e982484f.jpg",
+        "https://telegra.ph/file/77f80c0feb0bfdfe4ce86.jpg",
+        "https://telegra.ph/file/ee2cf61e5483d28e0e54c.jpg",
+        "https://telegra.ph/file/719d6c9adf42a4710541f.jpg",
+        "https://telegra.ph/file/310a9bc2016651718aa00.jpg",
+        "https://telegra.ph/file/4212961aa81a5bcf8118f.jpg",
+        "https://telegra.ph/file/bb675cbb70962c521b3c2.jpg",
+        "https://telegra.ph/file/b19e0c7004e7d164dfc53.jpg",
+        "https://telegra.ph/file/fc08368261c6b903257dd.jpg",
+        "https://telegra.ph/file/d81af50701bc2c4bb284a.jpg",
+        "https://telegra.ph/file/e9c0e22d90920a30b3b43.jpg",
+        "https://telegra.ph/file/a0ff3c0da769284ea167a.jpg",
+        "https://telegra.ph/file/a9a217f7bfcda8c8ea338.jpg",
+        "https://telegra.ph/file/36e087b87291f93bfe1a9.jpg",
+        "https://telegra.ph/file/6a84e887185b5a3ca6e0e.jpg",
+        "https://telegra.ph/file/210de5a942fd8440def5a.jpg",
+        "https://telegra.ph/file/e77c85d6610317cbb1735.jpg",
+        "https://telegra.ph/file/ed66412aae80190c314e1.jpg",
+        "https://telegra.ph/file/5cb92c0670de9f7e26e37.jpg"
+    ]
+};

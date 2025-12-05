@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3234,
+    "title": "(C96) [DROP DEAD!! (水瀬修)] 幸福論でちゅっちゅっちゅ (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C96-DROP-DEAD-水瀬修-幸福論でちゅっちゅっちゅ-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/130a18eee47bfa761e1a9.jpg",
+        "https://telegra.ph/file/cb712b5463a3247d1304a.jpg",
+        "https://telegra.ph/file/0f79ae396bcbea1d94514.jpg",
+        "https://telegra.ph/file/7d08833a4f335684cec69.png",
+        "https://telegra.ph/file/6f393f315ece52ad67aa1.jpg",
+        "https://telegra.ph/file/4b3723ac2fcf146571eef.jpg",
+        "https://telegra.ph/file/e22b5257bf7dc31107d6a.jpg",
+        "https://telegra.ph/file/c647182f90ea48af05878.jpg",
+        "https://telegra.ph/file/7d430816941fb08f1d4e9.jpg",
+        "https://telegra.ph/file/619c2416a75eb5b4946e7.jpg",
+        "https://telegra.ph/file/c64c5fcb93050f9fc423d.jpg",
+        "https://telegra.ph/file/eb689ae7ee0ee1b601dc1.jpg",
+        "https://telegra.ph/file/13186c03ded2843821070.jpg",
+        "https://telegra.ph/file/4c274a837ae12d8278d2b.jpg",
+        "https://telegra.ph/file/10135600d867fa195bb44.jpg",
+        "https://telegra.ph/file/04e370d529434a57c4181.jpg",
+        "https://telegra.ph/file/e36b921037bd994daf6c5.jpg",
+        "https://telegra.ph/file/2e21d7e0d0f6d2bcf3e23.jpg",
+        "https://telegra.ph/file/c7422580468eed6bf02e8.jpg",
+        "https://telegra.ph/file/6e0b8a8a27e0b324623e5.jpg",
+        "https://telegra.ph/file/adb71c2e4bfce476b4a89.png",
+        "https://telegra.ph/file/f7a6663271b135828c0a2.jpg",
+        "https://telegra.ph/file/21c3861fd85a2250e189a.png"
+    ]
+};

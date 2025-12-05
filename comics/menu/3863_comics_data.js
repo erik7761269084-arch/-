@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3863,
+    "title": "(例大祭15) [Right away (坂井みなと)] 催犬注意 (東方Project)",
+    "sourceUrl": "https://telegra.ph/例大祭15-Right-away-坂井みなと-催犬注意-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/934efa4da47973ff2dc0a.jpg",
+        "https://telegra.ph/file/804ad8e3f014cf7fae2dd.jpg",
+        "https://telegra.ph/file/cc877f48c820db32c9c53.jpg",
+        "https://telegra.ph/file/b116ce3d1ea984b292baf.jpg",
+        "https://telegra.ph/file/0478eabdca80a349e3cb9.jpg",
+        "https://telegra.ph/file/31f3a1f00a595e3bb97a0.jpg",
+        "https://telegra.ph/file/5da175c4ce5c7f3594561.jpg",
+        "https://telegra.ph/file/185586e12e51c393f6def.jpg",
+        "https://telegra.ph/file/2ee8ff6369fa837ad8c18.jpg",
+        "https://telegra.ph/file/0a0c10a7a7bb9055b37b4.jpg",
+        "https://telegra.ph/file/34d4d043c0b20b384e9cc.jpg",
+        "https://telegra.ph/file/d4e5c13224ffce5e8554d.jpg",
+        "https://telegra.ph/file/f57ffa7dd9ff3ba2f4dd5.jpg",
+        "https://telegra.ph/file/2091e0dccc5047c5a0411.jpg",
+        "https://telegra.ph/file/21bf14019bfcd52e67b84.jpg",
+        "https://telegra.ph/file/519256835911559facdc0.jpg",
+        "https://telegra.ph/file/44b38408d5e630288eae5.jpg",
+        "https://telegra.ph/file/61f2fdf89594936ea370d.jpg",
+        "https://telegra.ph/file/e8ab73ebb7c26ca2fab55.jpg",
+        "https://telegra.ph/file/22d358b5e2e5910261920.jpg",
+        "https://telegra.ph/file/dff6245aec5a01962c529.jpg",
+        "https://telegra.ph/file/cadfe07a25f5c6a8a072b.jpg",
+        "https://telegra.ph/file/12f11869073f9e588f00f.jpg",
+        "https://telegra.ph/file/8f44cafc76adaa7e1472c.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg"
+    ]
+};

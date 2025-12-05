@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2828,
+    "title": "[こしの] ホールインワン (COMIC BAVEL 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/こしの-ホールインワン-COMIC-BAVEL-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7b9e96e205ec4776e91fd.jpg",
+        "https://telegra.ph/file/be109be888df92b7cd5c2.jpg",
+        "https://telegra.ph/file/5651a3e986bd73f71493a.jpg",
+        "https://telegra.ph/file/e88761cf3c17d99c02c62.jpg",
+        "https://telegra.ph/file/67cc23d22569d2d20e712.jpg",
+        "https://telegra.ph/file/d4fa570afc85674ea2ce4.jpg",
+        "https://telegra.ph/file/180ac479c2843a6673f45.jpg",
+        "https://telegra.ph/file/83610400047184529b161.jpg",
+        "https://telegra.ph/file/940ce2775ee9a96ef0969.jpg",
+        "https://telegra.ph/file/5c0d8b2ad2032b1e3a9b4.jpg",
+        "https://telegra.ph/file/970d65c4756855a85114c.jpg",
+        "https://telegra.ph/file/1d783bb9aa1b835de7a17.jpg",
+        "https://telegra.ph/file/9c68cc2df0601d2423f3d.jpg",
+        "https://telegra.ph/file/b356126b9fe3728f97203.jpg",
+        "https://telegra.ph/file/525556015acdba93669c7.jpg",
+        "https://telegra.ph/file/0c0986d8cf9067533d638.jpg",
+        "https://telegra.ph/file/17a0f5053f7e9ce04ce9e.jpg",
+        "https://telegra.ph/file/5dc9bbe22095d0e8d78d7.jpg",
+        "https://telegra.ph/file/65105624e1f53b94b24be.jpg",
+        "https://telegra.ph/file/1b2290f8fc3cfd47f429f.jpg",
+        "https://telegra.ph/file/05fd5f8cf614f34495b01.jpg",
+        "https://telegra.ph/file/e7489c4109cbdf1c70af2.jpg",
+        "https://telegra.ph/file/e0b4cbde3131cd0dc71ec.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

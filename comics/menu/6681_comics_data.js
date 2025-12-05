@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6681,
+    "title": "文サンノ気マグレ (東方Project)",
+    "sourceUrl": "https://telegra.ph/文サンノ気マグレ-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/ccb4998273a25bc260e49.jpg",
+        "https://telegra.ph/file/1bad0dee3353e287ebd1d.jpg",
+        "https://telegra.ph/file/00a7b72526ad7e9109715.jpg",
+        "https://telegra.ph/file/0cd55d86501cb419cce3f.jpg",
+        "https://telegra.ph/file/fdc7e853eec7ac95ac13d.jpg",
+        "https://telegra.ph/file/df5a66410ffc7282954b4.jpg",
+        "https://telegra.ph/file/d6eb520061c3cb18efbcb.jpg",
+        "https://telegra.ph/file/d5ad746e9a0627cef743c.jpg",
+        "https://telegra.ph/file/64887ab4359d0e9c7beeb.jpg",
+        "https://telegra.ph/file/e94285b5cf4ce0bc781b5.jpg",
+        "https://telegra.ph/file/fa8f7623fe225b471cc3b.jpg",
+        "https://telegra.ph/file/81e1253f8702dc06c437c.jpg",
+        "https://telegra.ph/file/3153614033ea0d0fb0a2c.jpg",
+        "https://telegra.ph/file/6340bd466058a9cad1931.jpg",
+        "https://telegra.ph/file/87812aa3511d678618a55.jpg",
+        "https://telegra.ph/file/bc3a6188293a5494d0061.jpg",
+        "https://telegra.ph/file/970af2c89309c870d8d36.jpg",
+        "https://telegra.ph/file/82c0d160535ac7deff825.jpg",
+        "https://telegra.ph/file/a7de87bc1bb960bff221c.jpg",
+        "https://telegra.ph/file/a216aac800cafd5b848a8.jpg",
+        "https://telegra.ph/file/971d030883e8d4be90288.jpg",
+        "https://telegra.ph/file/4148671957abdf56f9502.jpg",
+        "https://telegra.ph/file/457ea19b87755da6bb1bf.jpg"
+    ]
+};

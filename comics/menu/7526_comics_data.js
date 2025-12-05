@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7526,
+    "title": "種付けメイド食べ放題♥",
+    "sourceUrl": "https://telegra.ph/種付けメイド食べ放題-08-31",
+    "images": [
+        "https://telegra.ph/file/694f7f5c0695241ef2e82.jpg",
+        "https://telegra.ph/file/2d299469ee30fcf6619bc.jpg",
+        "https://telegra.ph/file/6d0f5b1c9b500fcfd69c7.jpg",
+        "https://telegra.ph/file/e220d0082d368c1dfadd0.jpg",
+        "https://telegra.ph/file/37a7aba9d4a8760697b40.jpg",
+        "https://telegra.ph/file/ce496b8bef6299bccfd9d.jpg",
+        "https://telegra.ph/file/1a125493cd2e2a6790c00.jpg",
+        "https://telegra.ph/file/6ab748bacc75fcea87371.jpg",
+        "https://telegra.ph/file/9d06e6b2820e0a4fc5c62.jpg",
+        "https://telegra.ph/file/66c4b6497b5dd31800cd0.jpg",
+        "https://telegra.ph/file/80d09afc222bdfafc7a52.jpg",
+        "https://telegra.ph/file/b243b58dc951a7be006a8.jpg",
+        "https://telegra.ph/file/cd3ee7ab3b9c74c8ff891.jpg",
+        "https://telegra.ph/file/b29f3542a1555ec349227.jpg",
+        "https://telegra.ph/file/fe2882f6b0a615a5d8e2a.jpg",
+        "https://telegra.ph/file/5c78d5773d8bc0adca963.jpg",
+        "https://telegra.ph/file/cc2c65e6f3084d84f182c.jpg",
+        "https://telegra.ph/file/0bc40c63384e120df1f64.jpg",
+        "https://telegra.ph/file/4efa215b2b8f85113e2f2.jpg",
+        "https://telegra.ph/file/0e4540b2f261cb64b3432.jpg",
+        "https://telegra.ph/file/cf39c40bf830dfa606e70.jpg",
+        "https://telegra.ph/file/013e418a659493a771336.jpg",
+        "https://telegra.ph/file/4248772cfbaf43f645f6b.jpg",
+        "https://telegra.ph/file/1c77037a79c19142c9288.jpg"
+    ]
+};

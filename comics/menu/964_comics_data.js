@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 964,
+    "title": "[茨芽ヒサ] 陥没ちゃんは見せたくない！ (COMIC BAVEL 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/茨芽ヒサ-陥没ちゃんは見せたくない-COMIC-BAVEL-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0c29b96e5a855fed863ce.jpg",
+        "https://telegra.ph/file/21bcb2dd3543da672de7b.jpg",
+        "https://telegra.ph/file/273337dec83db49c55498.jpg",
+        "https://telegra.ph/file/0fb449778af26494aa466.jpg",
+        "https://telegra.ph/file/bd530ed6eeade538672e9.jpg",
+        "https://telegra.ph/file/c9cbb1ef909e9674eff75.jpg",
+        "https://telegra.ph/file/5195caea49a834a279758.jpg",
+        "https://telegra.ph/file/64bd0693d69efdbb2bb2d.jpg",
+        "https://telegra.ph/file/43c2cc5685c4efe3b71f2.jpg",
+        "https://telegra.ph/file/b0d697b8ebdadc42888f6.jpg",
+        "https://telegra.ph/file/43c6e2b8905070b2c6d9f.jpg",
+        "https://telegra.ph/file/ffcc855b547b84a3ad1b2.jpg",
+        "https://telegra.ph/file/4cce40d88b91fb2ad5373.jpg",
+        "https://telegra.ph/file/77f896c5805e2f19b7b45.jpg",
+        "https://telegra.ph/file/badc1ba49712977faa568.jpg",
+        "https://telegra.ph/file/51ee096f59e908a0c0e10.jpg",
+        "https://telegra.ph/file/38b3cf9c60557456299e4.jpg",
+        "https://telegra.ph/file/fb596934490d284c169c4.jpg",
+        "https://telegra.ph/file/4816351843a02d3de37f2.jpg",
+        "https://telegra.ph/file/e1323391237e4e854e93f.jpg",
+        "https://telegra.ph/file/fba453ae43b1b605e3023.jpg",
+        "https://telegra.ph/file/2457f23e292cb784fe6f2.jpg",
+        "https://telegra.ph/file/6c411f9148ca3afa97622.jpg",
+        "https://telegra.ph/file/1c44b8c672f2ff9c3d278.jpg"
+    ]
+};

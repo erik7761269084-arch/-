@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7747,
+    "title": "[猫御所 (ヤナギユウ)] Neko Neko Note 4b",
+    "sourceUrl": "https://telegra.ph/猫御所-ヤナギユウ-Neko-Neko-Note-4b-08-31",
+    "images": [
+        "https://telegra.ph/file/b2f1ae26a1a96e317bcda.jpg",
+        "https://telegra.ph/file/04d84709e1e2e0aefea17.jpg",
+        "https://telegra.ph/file/b88ddd77791e6bf1d82fb.jpg",
+        "https://telegra.ph/file/35bf1f697e877937c1ece.jpg",
+        "https://telegra.ph/file/ef4fce4d09cb629a619d9.jpg",
+        "https://telegra.ph/file/0c009c7cc1d6f6ff42f8c.jpg",
+        "https://telegra.ph/file/6e069802446d0a34e6b1b.jpg",
+        "https://telegra.ph/file/519c4d81b9d330c053c8e.jpg",
+        "https://telegra.ph/file/fd946662242cc5aa01e94.jpg",
+        "https://telegra.ph/file/08f16743f26a598d03e12.jpg",
+        "https://telegra.ph/file/23d285091adcd7f009882.jpg",
+        "https://telegra.ph/file/924ce5f35df34d26bee17.jpg",
+        "https://telegra.ph/file/ca723b08d54cbc5cf1466.jpg",
+        "https://telegra.ph/file/8bdf5f7908cb32f521120.jpg",
+        "https://telegra.ph/file/3d13fb5e90672900e3312.jpg",
+        "https://telegra.ph/file/cb913cb904c0a68070d50.jpg",
+        "https://telegra.ph/file/2b90c450b8ba6e5648687.jpg",
+        "https://telegra.ph/file/b2ebd6b066e00464af86a.jpg",
+        "https://telegra.ph/file/98321b5c2b87d5d2770ed.jpg",
+        "https://telegra.ph/file/d3c7e2f6b982e2cef14b1.jpg",
+        "https://telegra.ph/file/f51f43cc8e5eb96691c58.jpg",
+        "https://telegra.ph/file/1243dbf189fa12ba6ad1b.jpg",
+        "https://telegra.ph/file/c5b874df1c4bf515ca01c.jpg",
+        "https://telegra.ph/file/903b00df998c3c6a6f178.jpg",
+        "https://telegra.ph/file/edf81d2bf909879e8756b.jpg",
+        "https://telegra.ph/file/0f18eaccc9aada8b6f5dc.jpg"
+    ]
+};

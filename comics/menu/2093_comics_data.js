@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2093,
+    "title": "[雛咲葉] 藤色むすめ (COMIC 快楽天ビースト 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/雛咲葉-藤色むすめ-COMIC-快楽天ビースト-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/efb07ac51ebe123f8772e.jpg",
+        "https://telegra.ph/file/0c28214c5dd14e1e28c90.jpg",
+        "https://telegra.ph/file/ed849c92f7a301fd285fe.jpg",
+        "https://telegra.ph/file/0409eb3c3b8fc1c8ab1dc.jpg",
+        "https://telegra.ph/file/7c66ef6cb416bc625349b.jpg",
+        "https://telegra.ph/file/c6f99be629ca7e6c2dd15.jpg",
+        "https://telegra.ph/file/dd35e22e58af20629726a.jpg",
+        "https://telegra.ph/file/b50f20e98005ecb10f915.jpg",
+        "https://telegra.ph/file/33b1dc15df1fc5c6b5d90.jpg",
+        "https://telegra.ph/file/f75641e0c7295d12b896e.jpg",
+        "https://telegra.ph/file/bc4034a29923ff3a7385a.jpg",
+        "https://telegra.ph/file/d78c4fad395e4d89148d0.jpg",
+        "https://telegra.ph/file/c50d581ce92bf80b0392e.jpg",
+        "https://telegra.ph/file/41b0dc8ef9765d75806f8.jpg",
+        "https://telegra.ph/file/af2afbd4063c121d98da8.jpg",
+        "https://telegra.ph/file/16ffd4932c136f0b95119.jpg",
+        "https://telegra.ph/file/9df1718f5abcf63cdf371.jpg",
+        "https://telegra.ph/file/8bea5e4a543fd2d67d774.jpg",
+        "https://telegra.ph/file/9e152f20ccdfe949faab8.jpg",
+        "https://telegra.ph/file/2b564dcc16a15540f8cbf.jpg",
+        "https://telegra.ph/file/bd8c9e0b21aa69b964a7b.jpg",
+        "https://telegra.ph/file/0200ce74c090a38b0c1c2.jpg",
+        "https://telegra.ph/file/5a4e538c1e2a3995f6713.jpg",
+        "https://telegra.ph/file/43d64340b8737b1d15407.jpg",
+        "https://telegra.ph/file/7aa01af07a44f0a154584.jpg",
+        "https://telegra.ph/file/9496326ea1b83c5289603.jpg"
+    ]
+};

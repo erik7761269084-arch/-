@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1321,
+    "title": "[ミスターほっけ (ZION)] 天才パイロットを性的に支配する女軍人",
+    "sourceUrl": "https://telegra.ph/ミスターほっけ-ZION-天才パイロットを性的に支配する女軍人-08-31",
+    "images": [
+        "https://telegra.ph/file/3ca5a0cff1c8134969499.jpg",
+        "https://telegra.ph/file/0af17c843626352b896e3.jpg",
+        "https://telegra.ph/file/c5785cedfe97d29e9ddf2.jpg",
+        "https://telegra.ph/file/00f7b5f72840bf0fc5b22.jpg",
+        "https://telegra.ph/file/bc2dac57a69d5bfadf159.jpg",
+        "https://telegra.ph/file/553e37ca33e79e28940cc.jpg",
+        "https://telegra.ph/file/05697a993ecdcced54c64.jpg",
+        "https://telegra.ph/file/8517a663bb7382b653168.jpg",
+        "https://telegra.ph/file/7c0f674958554cf4aa68f.jpg",
+        "https://telegra.ph/file/5cc85d76fe10e8c60cbeb.jpg",
+        "https://telegra.ph/file/7b0e2a78b8e46bcdd0e11.jpg",
+        "https://telegra.ph/file/d2e8be5a3f826237d1ab0.jpg",
+        "https://telegra.ph/file/5e6cd5cc873fcfbd98182.jpg",
+        "https://telegra.ph/file/acba7e71b4a7c48c3993b.jpg",
+        "https://telegra.ph/file/855d507bea34404acded3.jpg",
+        "https://telegra.ph/file/3a9ea1412b6c7917c2e43.jpg",
+        "https://telegra.ph/file/19e2ba35b548a13aca7ba.jpg",
+        "https://telegra.ph/file/84e575f448d782692d38d.jpg",
+        "https://telegra.ph/file/b7b1a2fac81e0e85b11f5.jpg",
+        "https://telegra.ph/file/bd8a68dec09c67e972726.jpg",
+        "https://telegra.ph/file/8cf90c1f48bce4aec4531.jpg",
+        "https://telegra.ph/file/1710dd9dbed17953ed78f.jpg",
+        "https://telegra.ph/file/350c1809c1a6fb32a94dd.jpg"
+    ]
+};

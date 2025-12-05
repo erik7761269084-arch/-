@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1987,
+    "title": "[オオサキ] 大当たり！？ (COMIC 失楽天 2021年8月号)",
+    "sourceUrl": "https://telegra.ph/オオサキ-大当たり-COMIC-失楽天-2021年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/05b4a6c6fdfd7983b3bb2.jpg",
+        "https://telegra.ph/file/1718d0ca2cbe02e1c457f.jpg",
+        "https://telegra.ph/file/fecbd3ed6c062109f37ac.jpg",
+        "https://telegra.ph/file/af7c1b63d731ffaaa1905.jpg",
+        "https://telegra.ph/file/80f88b45c9ced7f72099e.jpg",
+        "https://telegra.ph/file/f059dbf9e59d47d3cfd26.jpg",
+        "https://telegra.ph/file/cdea79caa10d4b06ca6c5.jpg",
+        "https://telegra.ph/file/05eb4f95b451fd640417a.jpg",
+        "https://telegra.ph/file/d93b84fc0d04dff36266f.jpg",
+        "https://telegra.ph/file/6f5b28ab874789ce2ca5c.jpg",
+        "https://telegra.ph/file/ed55b5a0c88876db8bc50.jpg",
+        "https://telegra.ph/file/2843078afbbf4bce0ec67.jpg",
+        "https://telegra.ph/file/52cf3edd8733d3d4ecfe8.jpg",
+        "https://telegra.ph/file/9c15a331e8cf8f5d5cff0.jpg",
+        "https://telegra.ph/file/ee2d9321ce47e03d21fff.jpg",
+        "https://telegra.ph/file/1df67f7930d78eed552d6.jpg",
+        "https://telegra.ph/file/3420824a9636355b63cff.jpg",
+        "https://telegra.ph/file/9a1e801585c08d230b6b5.jpg",
+        "https://telegra.ph/file/2ae8b4cbdf9aa8f297a48.jpg",
+        "https://telegra.ph/file/382a7ec6869788c4453a2.jpg",
+        "https://telegra.ph/file/cee7d8df4e2e6bf26df1a.jpg",
+        "https://telegra.ph/file/ec792f085754ddb65ce0e.jpg",
+        "https://telegra.ph/file/cfd787a2f8eaf78c3a873.jpg"
+    ]
+};

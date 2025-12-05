@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3555,
+    "title": "[OVing (おぶい)] 爆乳2人をひたすらハメながら乳揉み (ラストオリジン)",
+    "sourceUrl": "https://telegra.ph/OVing-おぶい-爆乳2人をひたすらハメながら乳揉み-ラストオリジン-08-31",
+    "images": [
+        "https://telegra.ph/file/dab504580dc865bd168ce.jpg",
+        "https://telegra.ph/file/8bbee42a7e4eaab1d7d62.jpg",
+        "https://telegra.ph/file/940a39ae3267de9b243bb.jpg",
+        "https://telegra.ph/file/4a995909795bc4db55d93.jpg",
+        "https://telegra.ph/file/e5a975579c298f27a7a48.jpg",
+        "https://telegra.ph/file/d907b4c94c86aee5962c3.jpg",
+        "https://telegra.ph/file/5fc7ef42c77afecf3ed7e.jpg",
+        "https://telegra.ph/file/ff09631845678ed95aa31.jpg",
+        "https://telegra.ph/file/7774db6b9bd80c99cc082.jpg",
+        "https://telegra.ph/file/040db9d523343105376a9.jpg",
+        "https://telegra.ph/file/2573e76c81daaf29f5b25.jpg",
+        "https://telegra.ph/file/977899ef12ddd609c3300.jpg",
+        "https://telegra.ph/file/f5c028ed0c2fd448cb750.jpg",
+        "https://telegra.ph/file/54677bce53373feb363c5.jpg",
+        "https://telegra.ph/file/41550df78ee8521d8af9e.jpg",
+        "https://telegra.ph/file/3543a93c2d1c6ab4d3c07.jpg",
+        "https://telegra.ph/file/2620a7cbe1bb014026298.jpg",
+        "https://telegra.ph/file/d34e81256a2e979e55a68.jpg",
+        "https://telegra.ph/file/abb1605167ce692264b27.jpg",
+        "https://telegra.ph/file/ef8c90bf83bb1100c154f.jpg",
+        "https://telegra.ph/file/be13647ffc0708293e962.jpg",
+        "https://telegra.ph/file/31c2dc75018613599a020.jpg",
+        "https://telegra.ph/file/e5bc660e9fdce32cf985b.jpg",
+        "https://telegra.ph/file/72c4fdb64a86b74239bd0.jpg",
+        "https://telegra.ph/file/8de835a2593e7df88d6b1.jpg",
+        "https://telegra.ph/file/082c06c4d44e84b4e74ea.jpg"
+    ]
+};

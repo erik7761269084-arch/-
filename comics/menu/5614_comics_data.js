@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5614,
+    "title": "[黒青郎君] 永世の舞 後篇",
+    "sourceUrl": "https://telegra.ph/黒青郎君-永世の舞-後篇-08-31",
+    "images": [
+        "https://telegra.ph/file/1eab764030bdbf03db997.jpg",
+        "https://telegra.ph/file/f561c38d60584dbd5b4d2.jpg",
+        "https://telegra.ph/file/02eaf0d38884ef076ea81.jpg",
+        "https://telegra.ph/file/afcaccb367343f94a9525.jpg",
+        "https://telegra.ph/file/ecf5df1fc2d8a8acd112e.jpg",
+        "https://telegra.ph/file/8b9c8e82ccdc8880c77b5.jpg",
+        "https://telegra.ph/file/27e50d5b299fd9c9f533b.jpg",
+        "https://telegra.ph/file/005ff3a1f2eb00ad30bf1.jpg",
+        "https://telegra.ph/file/ca4fae98a065ccc528fc3.jpg",
+        "https://telegra.ph/file/770e301c902a3fe6b687b.jpg",
+        "https://telegra.ph/file/5bb38e22d19e847d32e14.jpg",
+        "https://telegra.ph/file/d699c93381b85a249646b.jpg",
+        "https://telegra.ph/file/fe7c9d992739afdbca542.jpg",
+        "https://telegra.ph/file/dbb7c6d7c5e0130a56c12.jpg",
+        "https://telegra.ph/file/67379c238ce9e25163603.jpg",
+        "https://telegra.ph/file/42a8bb53ac8ce1bb3e57e.jpg",
+        "https://telegra.ph/file/4069bb1eb6b91790dc27a.jpg",
+        "https://telegra.ph/file/5e24eed9e60b17e3cb83c.jpg",
+        "https://telegra.ph/file/581e6dee34541504afe40.jpg",
+        "https://telegra.ph/file/95e9c627ce27a65e29a4d.jpg",
+        "https://telegra.ph/file/bba6fcf39bd53fe8483a8.jpg",
+        "https://telegra.ph/file/32a58acfb634db9fd2c87.jpg",
+        "https://telegra.ph/file/d9bbe787cd3649f89bcb2.jpg"
+    ]
+};

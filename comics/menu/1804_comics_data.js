@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1804,
+    "title": "[ワラビモチー] HEROINE LOSE 純潔の退魔師アキナVS触手服怪人ベララー",
+    "sourceUrl": "https://telegra.ph/ワラビモチー-HEROINE-LOSE-純潔の退魔師アキナVS触手服怪人ベララー-08-31",
+    "images": [
+        "https://telegra.ph/file/97007bb9b6a3d890d22e3.jpg",
+        "https://telegra.ph/file/ed66b794d425738335f1c.jpg",
+        "https://telegra.ph/file/c2f474c6ff22f436ea4df.jpg",
+        "https://telegra.ph/file/cfdaf1b0993e9b42de02d.jpg",
+        "https://telegra.ph/file/6b3d2b4410f46910c5797.jpg",
+        "https://telegra.ph/file/2d6278b8a440cb9932001.jpg",
+        "https://telegra.ph/file/04b18142a5a38d5c748ca.jpg",
+        "https://telegra.ph/file/6f0994712f9df017abb9e.jpg",
+        "https://telegra.ph/file/072e208f430aafe158ad8.jpg",
+        "https://telegra.ph/file/b7d20dd88eb0fc6eaaccf.jpg",
+        "https://telegra.ph/file/7805d62aa6757445edbeb.jpg",
+        "https://telegra.ph/file/50b3be28d14c695a15cf7.jpg",
+        "https://telegra.ph/file/3a77f00959677c97a0f39.jpg",
+        "https://telegra.ph/file/f59227fc69c21a4c64ecf.jpg",
+        "https://telegra.ph/file/3293bfdecfc6a6e52369c.jpg",
+        "https://telegra.ph/file/426714fdb48deb83c459b.jpg",
+        "https://telegra.ph/file/a1cfd0f5394ab70a15e1e.jpg",
+        "https://telegra.ph/file/55cf72282028ccdf5e53b.jpg",
+        "https://telegra.ph/file/d7b9552d65d112ff8aa52.jpg",
+        "https://telegra.ph/file/5aceee221f5addca40d0d.jpg",
+        "https://telegra.ph/file/43b251620bbc852e930bc.jpg",
+        "https://telegra.ph/file/693a7a448356467734ecf.jpg",
+        "https://telegra.ph/file/225d236e00a4408523feb.jpg",
+        "https://telegra.ph/file/137735a6620b16fca8bfa.jpg"
+    ]
+};

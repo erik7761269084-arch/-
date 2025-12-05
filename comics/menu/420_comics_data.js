@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 420,
+    "title": "[CANずめ] 雷電将軍 (原神)",
+    "sourceUrl": "https://telegra.ph/CANずめ-雷電将軍-原神-08-31-2",
+    "images": [
+        "https://telegra.ph/file/92e92ba84ab8a54917f4e.jpg",
+        "https://telegra.ph/file/a018f39ce221021758f20.jpg",
+        "https://telegra.ph/file/91f57a20473d33844e6ed.jpg",
+        "https://telegra.ph/file/4922ae233081173311d61.jpg",
+        "https://telegra.ph/file/638d4642e1dc4ef9d8209.jpg",
+        "https://telegra.ph/file/09eef9252b56380f446f5.jpg",
+        "https://telegra.ph/file/e23c8b5ef422822f6e41b.jpg",
+        "https://telegra.ph/file/d131e5aad30586e79afc2.jpg",
+        "https://telegra.ph/file/c5d24e419a93363f9a877.jpg",
+        "https://telegra.ph/file/0b07119f4068d7765660c.jpg",
+        "https://telegra.ph/file/8095581e7a19fd024017d.jpg",
+        "https://telegra.ph/file/885f7b00eb6e0cb698eec.jpg",
+        "https://telegra.ph/file/027e38b40953fc8486a17.jpg",
+        "https://telegra.ph/file/5f073e7491d377a1c6bdf.jpg",
+        "https://telegra.ph/file/0d1c87ef3fda43fa6f51a.jpg",
+        "https://telegra.ph/file/384196c6c23b74a184bb5.jpg",
+        "https://telegra.ph/file/3e4b7b432b9ddfbb2e9a6.jpg",
+        "https://telegra.ph/file/155955db2b5ece589b192.jpg",
+        "https://telegra.ph/file/45d2f74a21914ec91972e.jpg",
+        "https://telegra.ph/file/a2fcd754cd8893ff600c5.jpg",
+        "https://telegra.ph/file/575dcb78d718a959aa203.jpg",
+        "https://telegra.ph/file/667524a84cd1b81b733cb.jpg",
+        "https://telegra.ph/file/ade08d7de77ef50f34ecd.jpg",
+        "https://telegra.ph/file/fa9547851d374111725a0.jpg",
+        "https://telegra.ph/file/b10d7673cb2c60e728ae6.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 776,
+    "title": "[でんぱゆっくり] 魔法少女マジピュア ～NTR調教に堕ちるW魔法少女～ THE COMIC 第1話 (二次元ドリームマガジン Vol.118)",
+    "sourceUrl": "https://telegra.ph/でんぱゆっくり-魔法少女マジピュア-NTR調教に堕ちるW魔法少女-THE-COMIC-第1話-二次元ドリームマガジン-Vol118-08-31",
+    "images": [
+        "https://telegra.ph/file/fd89d1c5308a5e598c901.jpg",
+        "https://telegra.ph/file/3c399224cc308a288ad4c.jpg",
+        "https://telegra.ph/file/3ad33cc31488d2ac0200a.jpg",
+        "https://telegra.ph/file/2b01a46ab1e5448a1237e.jpg",
+        "https://telegra.ph/file/5d125430ed571a01bbdbf.jpg",
+        "https://telegra.ph/file/00b8f756521f5e33e9fb0.jpg",
+        "https://telegra.ph/file/f86ac44ddd283be01172e.jpg",
+        "https://telegra.ph/file/007ee9df76c37868199a6.jpg",
+        "https://telegra.ph/file/d0d484f5ed7c972e0fb1c.jpg",
+        "https://telegra.ph/file/5f5039344b97c4f298626.jpg",
+        "https://telegra.ph/file/67f57f3665d91799ac0cc.jpg",
+        "https://telegra.ph/file/e108553450a1c4734ccb4.jpg",
+        "https://telegra.ph/file/684ddbe83a2c53a359efb.jpg",
+        "https://telegra.ph/file/554d69bd48015e7999732.jpg",
+        "https://telegra.ph/file/61b0c88bb72d4a34cd869.jpg",
+        "https://telegra.ph/file/3623788bd8a4ef4dc9e7b.jpg",
+        "https://telegra.ph/file/498040f7467847b26e55d.jpg",
+        "https://telegra.ph/file/407d133c076f5520fa137.jpg",
+        "https://telegra.ph/file/a45f5ca09467b44b937e1.jpg",
+        "https://telegra.ph/file/468ead25b66586b7d00b3.jpg",
+        "https://telegra.ph/file/958b786e9027389f22d01.jpg",
+        "https://telegra.ph/file/96e8f17a76cbfe95d577b.jpg",
+        "https://telegra.ph/file/87d2affa573329f0eff02.jpg",
+        "https://telegra.ph/file/12a205a5d8e9d9e5a4fd7.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2486,
+    "title": "[水龍敬] ラブスレイヴ 15 (コミックめづ 2022-02-11)",
+    "sourceUrl": "https://telegra.ph/水龍敬-ラブスレイヴ-15-コミックめづ-2022-02-11-08-31",
+    "images": [
+        "https://telegra.ph/file/7b0393e8edebf0bdbb207.jpg",
+        "https://telegra.ph/file/070563b3195cc25150e11.jpg",
+        "https://telegra.ph/file/da0ffdcf3dad2834baef1.jpg",
+        "https://telegra.ph/file/7661c54e9fc4e2eb58f33.jpg",
+        "https://telegra.ph/file/3696ca1c9ded6b6cdc975.jpg",
+        "https://telegra.ph/file/918665f363d4a811e74a5.jpg",
+        "https://telegra.ph/file/3291509f9d4f7659b3b31.jpg",
+        "https://telegra.ph/file/70567201990c0e73da89e.jpg",
+        "https://telegra.ph/file/073a4935da24fae60fc6c.jpg",
+        "https://telegra.ph/file/da9af03916ddcd0122ee0.jpg",
+        "https://telegra.ph/file/34f7ad24226838b37c972.jpg",
+        "https://telegra.ph/file/1b105ca9015e60c1f11b1.jpg",
+        "https://telegra.ph/file/d8a5382ce906e48638016.jpg",
+        "https://telegra.ph/file/ace6ae2fd95d721a05e53.jpg",
+        "https://telegra.ph/file/46a227e7559af8b928017.jpg",
+        "https://telegra.ph/file/5d3c5bb0fcd8da45ef71f.jpg",
+        "https://telegra.ph/file/f7f55fae5530167ae9a0b.jpg",
+        "https://telegra.ph/file/9beeaf80d234708376bad.jpg",
+        "https://telegra.ph/file/93da215113bca69683bdc.jpg",
+        "https://telegra.ph/file/db1447bcb02e7ffcc52a3.jpg",
+        "https://telegra.ph/file/eec6d29435e30bd7126c2.jpg",
+        "https://telegra.ph/file/8d4f8f88bd002a9b6c92b.jpg",
+        "https://telegra.ph/file/6a7749bbf3824c360ba51.jpg",
+        "https://telegra.ph/file/6daa4fe96f162f2a41e76.jpg"
+    ]
+};

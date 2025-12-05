@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 833,
+    "title": "[あや鳥] お試し恋心 (COMIC BAVEL 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/あや鳥-お試し恋心-COMIC-BAVEL-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a91aa68b84ac58963e716.jpg",
+        "https://telegra.ph/file/611d9f2650032e36e1cef.jpg",
+        "https://telegra.ph/file/25bb38596b074a8e04175.jpg",
+        "https://telegra.ph/file/a5c1d55b1f774fe9e3994.jpg",
+        "https://telegra.ph/file/ea453fd87b92a6641da05.jpg",
+        "https://telegra.ph/file/b0802e6fd6999febefa5f.jpg",
+        "https://telegra.ph/file/a07e0b1c28301d9e5d0bf.jpg",
+        "https://telegra.ph/file/87d1b24761b74530e16c0.jpg",
+        "https://telegra.ph/file/e67aa4ab8e45394b73f02.jpg",
+        "https://telegra.ph/file/b92e1ab0be6aa26c433ed.jpg",
+        "https://telegra.ph/file/6ee5539626a3335a18fa4.jpg",
+        "https://telegra.ph/file/4c043ca3386d1ef015dbb.jpg",
+        "https://telegra.ph/file/2d063d575baa9be6f54cf.jpg",
+        "https://telegra.ph/file/7ebf51e0b9605d108e651.jpg",
+        "https://telegra.ph/file/0385fe57f93b2df6b3ed8.jpg",
+        "https://telegra.ph/file/7724875c3e4b11824af3e.jpg",
+        "https://telegra.ph/file/d74b4a66cf487431221aa.jpg",
+        "https://telegra.ph/file/ead3cfd6d5232acabaafd.jpg",
+        "https://telegra.ph/file/3a1b5d4aa23d35583ad35.jpg",
+        "https://telegra.ph/file/93de9cb7c3bb2bb07738e.jpg",
+        "https://telegra.ph/file/c31723a275ab05bb51597.jpg",
+        "https://telegra.ph/file/7746734b06d7fe9c5b848.jpg",
+        "https://telegra.ph/file/f66ce4e53604d745a6872.jpg",
+        "https://telegra.ph/file/f688d25e757c2afc31eb9.jpg",
+        "https://telegra.ph/file/274dc595b93cf1964cc12.jpg"
+    ]
+};

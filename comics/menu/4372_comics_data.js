@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4372,
+    "title": "[INAGO] 黒く染められたキャンバス (COMIC BAVEL 2015年6月号)",
+    "sourceUrl": "https://telegra.ph/INAGO-黒く染められたキャンバス-COMIC-BAVEL-2015年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/b2bec38d9c92b9ebede44.jpg",
+        "https://telegra.ph/file/36d15c5110af553f8e983.jpg",
+        "https://telegra.ph/file/e0f0b4def8e3968427093.jpg",
+        "https://telegra.ph/file/f363c8f7fdb2966ed4fea.jpg",
+        "https://telegra.ph/file/015a793c035c7f5b9b0f0.jpg",
+        "https://telegra.ph/file/b6b114d49b6176cc9a50d.jpg",
+        "https://telegra.ph/file/291b2d19bb1faf9948354.jpg",
+        "https://telegra.ph/file/9b89d9e61daca4a8400ee.jpg",
+        "https://telegra.ph/file/871aa3ce348bec2b7bf9d.jpg",
+        "https://telegra.ph/file/d20e1a8bf47a9874125d8.jpg",
+        "https://telegra.ph/file/ca84396df425bae1249e4.jpg",
+        "https://telegra.ph/file/572a3e4cf6f1e3740e144.jpg",
+        "https://telegra.ph/file/f44d97ccd757b189ab7d6.jpg",
+        "https://telegra.ph/file/f10ab4f7f547893d3d407.jpg",
+        "https://telegra.ph/file/0ba7832994ef2898de010.jpg",
+        "https://telegra.ph/file/c2c5ba85807503ae51b54.jpg",
+        "https://telegra.ph/file/7f36d5c6d9905da12c0fc.jpg",
+        "https://telegra.ph/file/64844ca2d72c285adad7a.jpg",
+        "https://telegra.ph/file/3c2baf25c06ec83abb010.jpg",
+        "https://telegra.ph/file/ac457c15e8b643732bbcd.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/7d2442dca710ab10252af.png"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2888,
+    "title": "(C94) [毒電波受信中 (炉心)] ちはやさんと楽しいコスプレ撮影会",
+    "sourceUrl": "https://telegra.ph/C94-毒電波受信中-炉心-ちはやさんと楽しいコスプレ撮影会-08-31",
+    "images": [
+        "https://telegra.ph/file/c656bdf1ab0a7e933464f.jpg",
+        "https://telegra.ph/file/212791ad51f0b152ace33.jpg",
+        "https://telegra.ph/file/971b7eec83a884bf80906.jpg",
+        "https://telegra.ph/file/337849a1cad628baaf49b.jpg",
+        "https://telegra.ph/file/f8410b92a49fe37540069.jpg",
+        "https://telegra.ph/file/9840d7b1bd940bf0c4066.jpg",
+        "https://telegra.ph/file/97ecf296a8004ee9047d2.jpg",
+        "https://telegra.ph/file/5bc9dda75830cf056cf8d.jpg",
+        "https://telegra.ph/file/0ae0231af41370f14bbcf.jpg",
+        "https://telegra.ph/file/5ee5230531761d5128cea.jpg",
+        "https://telegra.ph/file/4b7f1784f0a30649d1bd2.jpg",
+        "https://telegra.ph/file/df89258eadab05204fa58.jpg",
+        "https://telegra.ph/file/ce885b55a71247e52a6a3.jpg",
+        "https://telegra.ph/file/590ae62dbc1901982612f.jpg",
+        "https://telegra.ph/file/5215ec0bbfa78bc790249.jpg",
+        "https://telegra.ph/file/2fa8c38d40e85ea3a6a1d.jpg",
+        "https://telegra.ph/file/0e865a150d8d9f8de336a.jpg",
+        "https://telegra.ph/file/fbfc0b570e4b7888926c8.jpg",
+        "https://telegra.ph/file/aca10d79051db44612a51.jpg",
+        "https://telegra.ph/file/d041e484c7ac03287cf41.jpg",
+        "https://telegra.ph/file/d8f740542768fcc6ef670.jpg",
+        "https://telegra.ph/file/005fa5cb18482efe42a66.jpg",
+        "https://telegra.ph/file/cca17ac54368e75dedecd.jpg",
+        "https://telegra.ph/file/d3147936eef5460186ee0.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7650,
+    "title": "じゅりざんまい",
+    "sourceUrl": "https://telegra.ph/じゅりざんまい-08-31",
+    "images": [
+        "https://telegra.ph/file/67ec8624d79e680904134.jpg",
+        "https://telegra.ph/file/2bb2a044ef405e08eb372.jpg",
+        "https://telegra.ph/file/4f4843584d95441fdf773.jpg",
+        "https://telegra.ph/file/49d71a803954e050c24d7.jpg",
+        "https://telegra.ph/file/841c20acadb0e86460ae5.jpg",
+        "https://telegra.ph/file/ef38e768a70e83059d065.jpg",
+        "https://telegra.ph/file/fe3e9e0871d2ee3a97bb3.jpg",
+        "https://telegra.ph/file/1d72d38b744ecaef8c970.jpg",
+        "https://telegra.ph/file/d04016887943d2f797a83.jpg",
+        "https://telegra.ph/file/dc2e049b248525af3a575.jpg",
+        "https://telegra.ph/file/a56993c95e70ea788e11a.jpg",
+        "https://telegra.ph/file/9153d96d2a2a656e0773a.jpg",
+        "https://telegra.ph/file/36f7b06d2908dab37f85b.jpg",
+        "https://telegra.ph/file/c2069c66095129001439a.jpg",
+        "https://telegra.ph/file/19b560a9c9a2fe6164870.jpg",
+        "https://telegra.ph/file/1ba58231293c3e43daec7.jpg",
+        "https://telegra.ph/file/b7d156dbb924c101eb4ab.jpg",
+        "https://telegra.ph/file/04485c44d0fa7cfcc1e5e.jpg",
+        "https://telegra.ph/file/1688a5862bd374a274acb.jpg",
+        "https://telegra.ph/file/efad9e3bb864a49cd946d.jpg",
+        "https://telegra.ph/file/057d75c7b7f0afae40334.jpg",
+        "https://telegra.ph/file/70490b6cc3e0e1904b6ca.png",
+        "https://telegra.ph/file/38fffd00ce1474c5ef108.png",
+        "https://telegra.ph/file/36bbbd657a84d168fff09.jpg"
+    ]
+};

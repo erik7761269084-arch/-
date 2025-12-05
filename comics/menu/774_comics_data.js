@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 774,
+    "title": "[あおむし] 全年齢版 第3話 前篇",
+    "sourceUrl": "https://telegra.ph/あおむし-全年齢版-第3話-前篇-08-31",
+    "images": [
+        "https://telegra.ph/file/84b0ff58bb742357aef54.jpg",
+        "https://telegra.ph/file/9620a04b17096e8408f09.jpg",
+        "https://telegra.ph/file/1f25dff4daeab04446ba2.jpg",
+        "https://telegra.ph/file/617c587512d7642a6b2b9.jpg",
+        "https://telegra.ph/file/982be4b380ef72703b0e0.jpg",
+        "https://telegra.ph/file/d998231ff99f6489ce332.jpg",
+        "https://telegra.ph/file/3f76c7b878d2db765e5f3.jpg",
+        "https://telegra.ph/file/43b982cf5aef7f9c12121.jpg",
+        "https://telegra.ph/file/0baacaf28d3c4f694c128.jpg",
+        "https://telegra.ph/file/549cf9df22d42507c2161.jpg",
+        "https://telegra.ph/file/37e128f440fd29906b400.jpg",
+        "https://telegra.ph/file/2641e840e25ea25030339.jpg",
+        "https://telegra.ph/file/7967cd58dfe3a08a6660e.jpg",
+        "https://telegra.ph/file/f0d6b61ef593d0f96169f.jpg",
+        "https://telegra.ph/file/0abf5fae70782b8f7f273.jpg",
+        "https://telegra.ph/file/c2cbbb32261c46636ed4c.jpg",
+        "https://telegra.ph/file/f030475faba3f0505c32e.jpg",
+        "https://telegra.ph/file/7cd91000da958c15e8d6e.jpg",
+        "https://telegra.ph/file/fdfc9f78e96c4b8f70fc7.jpg",
+        "https://telegra.ph/file/a07e6835529ecae47b5cb.jpg",
+        "https://telegra.ph/file/53325233e6e7f53036df9.jpg",
+        "https://telegra.ph/file/67fea4447cc992ec17f07.jpg",
+        "https://telegra.ph/file/c0033c1e9ff620b7d25af.jpg",
+        "https://telegra.ph/file/8881c7dbd3d6967f07454.jpg",
+        "https://telegra.ph/file/0024fdc80c645f77874f8.jpg"
+    ]
+};

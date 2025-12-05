@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 346,
+    "title": "[mogg] 異世界通信 -前編- (COMIC 快楽天 2022年6月号)",
+    "sourceUrl": "https://telegra.ph/mogg-異世界通信--前編--COMIC-快楽天-2022年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/912cb529e1b015f120874.jpg",
+        "https://telegra.ph/file/eb9a79ebe53920eb1f734.jpg",
+        "https://telegra.ph/file/b5b09beeca9bdfc5b1b78.jpg",
+        "https://telegra.ph/file/e110dfbe125a4a59f18a7.jpg",
+        "https://telegra.ph/file/e2216c942a56d477790d0.jpg",
+        "https://telegra.ph/file/3be58765b94e17671dcb7.jpg",
+        "https://telegra.ph/file/a05f076a8f8470b5e898f.jpg",
+        "https://telegra.ph/file/e1cfc980362cec6db08df.jpg",
+        "https://telegra.ph/file/60a7ea5d301da2b63cd0f.jpg",
+        "https://telegra.ph/file/9422c71909ca3d02a42b5.jpg",
+        "https://telegra.ph/file/9ccc65172f49f803c4a2d.jpg",
+        "https://telegra.ph/file/2ff4312ec7cae87ac686f.jpg",
+        "https://telegra.ph/file/b3bc37b6729d4821986fe.jpg",
+        "https://telegra.ph/file/dc3da1c05ac93aaf1a148.jpg",
+        "https://telegra.ph/file/99849354bc43a67f67d85.jpg",
+        "https://telegra.ph/file/67bc8cf00d0570db7d1ec.jpg",
+        "https://telegra.ph/file/406794e44f19401203e75.jpg",
+        "https://telegra.ph/file/82c18a1692b2e5755aeb2.jpg",
+        "https://telegra.ph/file/40af2ae8418843b8ba9c2.jpg",
+        "https://telegra.ph/file/cd94c4873efb66cfe8979.jpg",
+        "https://telegra.ph/file/b31ab7ec79e74b262aaf4.jpg",
+        "https://telegra.ph/file/81d3959f2a2e094325823.jpg",
+        "https://telegra.ph/file/eb9771f6cb23b7485c5c4.jpg",
+        "https://telegra.ph/file/284aec8d85bf52fb7652e.jpg",
+        "https://telegra.ph/file/6de3bf4dbda02fd37ecd1.jpg"
+    ]
+};

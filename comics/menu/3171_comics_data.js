@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3171,
+    "title": "[復八磨直兎] 催眠天国 Challenge 05 (COMIC BAVEL 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/復八磨直兎-催眠天国-Challenge-05-COMIC-BAVEL-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/e50d5bcf5b6adb1e8176a.jpg",
+        "https://telegra.ph/file/755db618a17687c45195e.jpg",
+        "https://telegra.ph/file/cccb9d17f15587e7748ae.jpg",
+        "https://telegra.ph/file/751c9209896005e38b031.jpg",
+        "https://telegra.ph/file/9cc77c02c076b327d5b84.jpg",
+        "https://telegra.ph/file/631a12b4bd420456154f6.jpg",
+        "https://telegra.ph/file/3599f7440b29ecc90db76.jpg",
+        "https://telegra.ph/file/b5e374b953d2a35034281.jpg",
+        "https://telegra.ph/file/abf4a80372c7d58512a22.jpg",
+        "https://telegra.ph/file/760698a6fb8b6a27d8d01.jpg",
+        "https://telegra.ph/file/b30e79508b14e71a57b0d.jpg",
+        "https://telegra.ph/file/b440d324a9541bb8b6c66.jpg",
+        "https://telegra.ph/file/c14cabdd2853f848b571b.jpg",
+        "https://telegra.ph/file/dbe209369fc47400bdfc2.jpg",
+        "https://telegra.ph/file/cd7f441e58b30f037583e.jpg",
+        "https://telegra.ph/file/c46db96600bb7a0d30432.jpg",
+        "https://telegra.ph/file/77b5e5956354f5347a183.jpg",
+        "https://telegra.ph/file/bfb530ed45d92746cd94a.jpg",
+        "https://telegra.ph/file/37062de12a046108b3f3b.jpg",
+        "https://telegra.ph/file/62754ab85872158737352.jpg",
+        "https://telegra.ph/file/50202dbf02c0e8d4e729f.jpg",
+        "https://telegra.ph/file/e8fc3a6fb13f1c0a3dcaf.jpg",
+        "https://telegra.ph/file/947588fa9d23057e8c9dd.jpg",
+        "https://telegra.ph/file/2ec4e3386e66715e704b1.jpg",
+        "https://telegra.ph/file/8fdb30a85201684207fdd.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 529,
+    "title": "[たんこぶ堂 (ねぎたまま)] 地味子のコスプレ裏アカ事情",
+    "sourceUrl": "https://telegra.ph/たんこぶ堂-ねぎたまま-地味子のコスプレ裏アカ事情-08-31",
+    "images": [
+        "https://telegra.ph/file/3e09e9023397d18b70272.jpg",
+        "https://telegra.ph/file/4b8f0a2aa3fff353603a8.jpg",
+        "https://telegra.ph/file/060b8dc251c787b5cfd81.jpg",
+        "https://telegra.ph/file/8cd33345602b193a17441.jpg",
+        "https://telegra.ph/file/ab2d6af6e4f47282d0290.jpg",
+        "https://telegra.ph/file/74cde415394ba63aea95b.jpg",
+        "https://telegra.ph/file/debd35baba8b33d889d2b.jpg",
+        "https://telegra.ph/file/32feedaa0bc13fee52388.jpg",
+        "https://telegra.ph/file/a2c2f087311cb27904a48.jpg",
+        "https://telegra.ph/file/2260e10544f6d18439312.jpg",
+        "https://telegra.ph/file/6337bfc765fbaa42ff268.jpg",
+        "https://telegra.ph/file/59a9c8118c89b678dd882.jpg",
+        "https://telegra.ph/file/7c76896ff5ea2c1aab3f4.jpg",
+        "https://telegra.ph/file/964bd8424578a5b975538.jpg",
+        "https://telegra.ph/file/5ea783b3e13baba86b6f3.jpg",
+        "https://telegra.ph/file/463dbe23f8ac8e3c10935.jpg",
+        "https://telegra.ph/file/5a101ee1d6ec9b1305e19.jpg",
+        "https://telegra.ph/file/2ee31c8e6a0f522d83c99.jpg",
+        "https://telegra.ph/file/bfb6beee2fef24d30d1b0.jpg",
+        "https://telegra.ph/file/a723d5e254f0c66f9b229.jpg",
+        "https://telegra.ph/file/6c1d8fb4a3330e8c44d18.jpg",
+        "https://telegra.ph/file/e14936eacf07969221f89.jpg",
+        "https://telegra.ph/file/56a1874ee4c10a5ad66d6.jpg",
+        "https://telegra.ph/file/f20c26a4644f21a78ba42.jpg",
+        "https://telegra.ph/file/93f16c53027b6abd89f45.jpg",
+        "https://telegra.ph/file/b9585c34cbe09968c11f6.jpg"
+    ]
+};

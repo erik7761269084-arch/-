@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5272,
+    "title": "[創攻線 (ぴざぬこ)] 聖と性な妹と。",
+    "sourceUrl": "https://telegra.ph/創攻線-ぴざぬこ-聖と性な妹と-08-31",
+    "images": [
+        "https://telegra.ph/file/5110a8e93c44b12b00116.jpg",
+        "https://telegra.ph/file/1c94be9513889def1108d.jpg",
+        "https://telegra.ph/file/de711ce3e30841b95acd5.jpg",
+        "https://telegra.ph/file/243dae75a4f8ad98f6214.jpg",
+        "https://telegra.ph/file/6fb14d2aa37bc95e4ed86.jpg",
+        "https://telegra.ph/file/82b245eca4dcbec598b5c.jpg",
+        "https://telegra.ph/file/bc76bd753a286c729f6b9.jpg",
+        "https://telegra.ph/file/8f220cceb80e5c18d807b.jpg",
+        "https://telegra.ph/file/9b6ca77ac803f8d7e9695.jpg",
+        "https://telegra.ph/file/9795575096511fcee55ec.jpg",
+        "https://telegra.ph/file/a9b9b3c7cf7e4c95ccb95.jpg",
+        "https://telegra.ph/file/d8631c6fff4383055e874.jpg",
+        "https://telegra.ph/file/b9c5bdc83c5dbdb2b939d.jpg",
+        "https://telegra.ph/file/8bf73f81580f0bcd7d157.jpg",
+        "https://telegra.ph/file/15133efb78ce0637e8823.jpg",
+        "https://telegra.ph/file/89a6b6bbe8beee2977a77.jpg",
+        "https://telegra.ph/file/607ede6deaaa3982b00d5.jpg",
+        "https://telegra.ph/file/3b1221a884c626977ca29.jpg",
+        "https://telegra.ph/file/8e18a003e73bdd4179f27.jpg",
+        "https://telegra.ph/file/dbf0ff73f599f67a0403f.jpg",
+        "https://telegra.ph/file/5b318829d00a20363ccab.jpg",
+        "https://telegra.ph/file/00773e412a9263879e445.jpg",
+        "https://telegra.ph/file/189e1e84c23820e93cd6e.jpg",
+        "https://telegra.ph/file/6452c5bea3292c6ce9810.jpg"
+    ]
+};

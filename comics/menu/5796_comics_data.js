@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5796,
+    "title": "[消火器] 恋雨ドルチェ",
+    "sourceUrl": "https://telegra.ph/消火器-恋雨ドルチェ-08-31",
+    "images": [
+        "https://telegra.ph/file/ccf97db8e45b8e8aa8b1c.jpg",
+        "https://telegra.ph/file/fcc5cf27bb1346aeffa9c.jpg",
+        "https://telegra.ph/file/1b39df4a577fa737ce337.jpg",
+        "https://telegra.ph/file/8a91d25a743b53ab990c9.jpg",
+        "https://telegra.ph/file/918338d8a8d73cba21c4f.jpg",
+        "https://telegra.ph/file/5658ac25a08a762adfb9f.jpg",
+        "https://telegra.ph/file/922700b71ef416a975b00.jpg",
+        "https://telegra.ph/file/6f4aad1a474980ed95222.jpg",
+        "https://telegra.ph/file/fefac8d94dca6363c7263.jpg",
+        "https://telegra.ph/file/3f242035411e9f3d8b72b.jpg",
+        "https://telegra.ph/file/931be829db5b3a946d9fd.jpg",
+        "https://telegra.ph/file/a3f5df2b7b7d8ab6a11de.jpg",
+        "https://telegra.ph/file/a5b28e0646fb992dd0670.jpg",
+        "https://telegra.ph/file/d84edc0fe43d779c8e8a5.jpg",
+        "https://telegra.ph/file/07070737a3fd3d42b0157.jpg",
+        "https://telegra.ph/file/c06afc5016720ef6b8fed.jpg",
+        "https://telegra.ph/file/aaf5677dca3a3ce84f545.jpg",
+        "https://telegra.ph/file/4f11b0f80d73336d0a78e.jpg",
+        "https://telegra.ph/file/16f0a43bd9b16f490be19.jpg",
+        "https://telegra.ph/file/4e084a75566695ec87ab4.jpg",
+        "https://telegra.ph/file/c1d91e4a1f03a0d051137.jpg",
+        "https://telegra.ph/file/8e4cecb87f028523d40b4.jpg",
+        "https://telegra.ph/file/9c1807a589e58060cee0e.jpg",
+        "https://telegra.ph/file/c71a6ba207ecbd7189612.jpg"
+    ]
+};

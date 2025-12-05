@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1644,
+    "title": "[山石18] けっこうエロ医 (COMIC 快楽天ビースト 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/山石18-けっこうエロ医-COMIC-快楽天ビースト-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/59cbb6477f1f16dae01fa.jpg",
+        "https://telegra.ph/file/675710be5f21f89aee1d2.jpg",
+        "https://telegra.ph/file/66097438dd9bdf7851691.jpg",
+        "https://telegra.ph/file/09067699deb7f02f0bb2b.jpg",
+        "https://telegra.ph/file/9cf0e5dd6d4e3598893cc.jpg",
+        "https://telegra.ph/file/c4a484045937feea31c26.jpg",
+        "https://telegra.ph/file/862c6d4dd2a7865aab902.jpg",
+        "https://telegra.ph/file/ff60e0445cc6e58c79e17.jpg",
+        "https://telegra.ph/file/6b80a762476be64c21e42.jpg",
+        "https://telegra.ph/file/4876bce1abdcdc183f866.jpg",
+        "https://telegra.ph/file/bf053fb907d2b2bdb2a19.jpg",
+        "https://telegra.ph/file/d4923532e0b82108181a3.jpg",
+        "https://telegra.ph/file/f845ff59d12e8a8daad1f.jpg",
+        "https://telegra.ph/file/cdbca1d67fd9cf31b4451.jpg",
+        "https://telegra.ph/file/0752a0bb7f58c3b3d97da.jpg",
+        "https://telegra.ph/file/dee46ea754e2b06aece6a.jpg",
+        "https://telegra.ph/file/9671733b00c1c8dcf870f.jpg",
+        "https://telegra.ph/file/7d8e84bfcfcf160b707a0.jpg",
+        "https://telegra.ph/file/73b16b9621063b9e4e748.jpg",
+        "https://telegra.ph/file/3b9d8e8d04fa43b3bed24.jpg",
+        "https://telegra.ph/file/c3c60470f0c47c16decb8.jpg",
+        "https://telegra.ph/file/4233188c05dc284e1cec3.jpg",
+        "https://telegra.ph/file/7436063a407562a315577.jpg",
+        "https://telegra.ph/file/b89ad4f9a8fc1c51f77d9.jpg"
+    ]
+};

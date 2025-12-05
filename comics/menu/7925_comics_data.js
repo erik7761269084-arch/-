@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7925,
+    "title": "夏あそび",
+    "sourceUrl": "https://telegra.ph/夏あそび-08-31",
+    "images": [
+        "https://telegra.ph/file/8337b845273aadefe27db.jpg",
+        "https://telegra.ph/file/cfe49a6452fc441d24df0.jpg",
+        "https://telegra.ph/file/e9d776f612e63d5bb2356.jpg",
+        "https://telegra.ph/file/fb59562840cc002378aba.jpg",
+        "https://telegra.ph/file/41546331a9547f2930a6c.jpg",
+        "https://telegra.ph/file/0912c3eb343b5f5bfd08c.jpg",
+        "https://telegra.ph/file/bb80fc0ea0dd49da45f11.jpg",
+        "https://telegra.ph/file/d160d1a790f6289d9a825.jpg",
+        "https://telegra.ph/file/887dd26574e79298af686.jpg",
+        "https://telegra.ph/file/9a71db6d71dc25db5c303.jpg",
+        "https://telegra.ph/file/cf4d05bb63ba1fc00558b.jpg",
+        "https://telegra.ph/file/55b00209931a444599bc0.jpg",
+        "https://telegra.ph/file/0165b9cd5a5d778c77402.jpg",
+        "https://telegra.ph/file/164020764d140c23d77f8.jpg",
+        "https://telegra.ph/file/a2b708b3725f46254db70.jpg",
+        "https://telegra.ph/file/f36b7a6022db81d7c82b3.jpg",
+        "https://telegra.ph/file/dd9585c800eb90d2536ff.jpg",
+        "https://telegra.ph/file/71c4a79e7561107953291.jpg",
+        "https://telegra.ph/file/4dc486a277b665ca0fbd3.jpg",
+        "https://telegra.ph/file/a9cff4cf2cc864fc444cd.jpg",
+        "https://telegra.ph/file/243a974a278dfbde54e3b.jpg",
+        "https://telegra.ph/file/06248d629810889abdaa8.jpg",
+        "https://telegra.ph/file/873888c5dec2a9edf7e04.jpg",
+        "https://telegra.ph/file/f49c9e5903b36aa2bf830.jpg"
+    ]
+};

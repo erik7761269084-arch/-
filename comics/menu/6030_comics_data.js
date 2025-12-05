@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6030,
+    "title": "[源五郎] かわらないもの",
+    "sourceUrl": "https://telegra.ph/源五郎-かわらないもの-08-31",
+    "images": [
+        "https://telegra.ph/file/57ee3dca26f70f3f073b0.png",
+        "https://telegra.ph/file/8c3d0bee75f15cbc4a30c.png",
+        "https://telegra.ph/file/1e4fcc12be2f62ab4506d.png",
+        "https://telegra.ph/file/8c72c4656a62e41846c37.png",
+        "https://telegra.ph/file/5f25f63313d5b62737e25.png",
+        "https://telegra.ph/file/cbfe5761308a5379b2246.png",
+        "https://telegra.ph/file/d759955ab9d76ed94cee1.png",
+        "https://telegra.ph/file/6e39162cf18a58cf7d43d.png",
+        "https://telegra.ph/file/02c2fcaa21a1e9982ae72.png",
+        "https://telegra.ph/file/30d26b7cc2a94977ba762.png",
+        "https://telegra.ph/file/34caa4fea19ed67977b34.png",
+        "https://telegra.ph/file/aa39e47b7ccef7130324c.png",
+        "https://telegra.ph/file/6a85c2a69f6cb1c38cc84.png",
+        "https://telegra.ph/file/69a2f94fac40f045c68ae.png",
+        "https://telegra.ph/file/10d0fe915867c8aed83d6.png",
+        "https://telegra.ph/file/d3ab297947c11fa67d0fe.png",
+        "https://telegra.ph/file/f886c5d01e3b33bc53aef.png",
+        "https://telegra.ph/file/756428ff3b6fbbd7fc1d3.png",
+        "https://telegra.ph/file/2e8d711fc797d604ca6b7.png",
+        "https://telegra.ph/file/d77313257dc09b9880a92.png",
+        "https://telegra.ph/file/0466060f57114661cb664.png",
+        "https://telegra.ph/file/1743d0c7908428ccc0c49.png",
+        "https://telegra.ph/file/9968ecd2596b11a3ce5d6.png",
+        "https://telegra.ph/file/49f1da868b49c6f90ace3.png"
+    ]
+};

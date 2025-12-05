@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5136,
+    "title": "(C100) [MAPLER (まぷる)] おみあしトレーニング",
+    "sourceUrl": "https://telegra.ph/C100-MAPLER-まぷる-おみあしトレーニング-08-31-2",
+    "images": [
+        "https://telegra.ph/file/f929f23a76572503568c3.png",
+        "https://telegra.ph/file/8f07d8145f7a720ef2868.png",
+        "https://telegra.ph/file/aca91147ba8f895ebe679.png",
+        "https://telegra.ph/file/065167dc2131ebaeb1778.png",
+        "https://telegra.ph/file/615c1915ef428b4d54c8a.png",
+        "https://telegra.ph/file/f086638130eaf74569ae1.png",
+        "https://telegra.ph/file/7d063246642305e5cc1e9.png",
+        "https://telegra.ph/file/17cd934291937b15b52a2.png",
+        "https://telegra.ph/file/9d5ab9af0b4b5339e7727.png",
+        "https://telegra.ph/file/87073cd0392471674e2f8.png",
+        "https://telegra.ph/file/e29c71ff53fe7db286748.png",
+        "https://telegra.ph/file/bccfdebb9e4c375c5d890.png",
+        "https://telegra.ph/file/dfebf28a4816411e52afa.png",
+        "https://telegra.ph/file/1034c3ae51f841b4284e9.png",
+        "https://telegra.ph/file/c2c20faadf082ef3be188.png",
+        "https://telegra.ph/file/0825f5822b9fb245bd831.png",
+        "https://telegra.ph/file/e1ce3996c5c3868b6dbc8.png",
+        "https://telegra.ph/file/40aa2dbb722fb800d4881.png",
+        "https://telegra.ph/file/e37159dd9b5ecfaaf13dd.png",
+        "https://telegra.ph/file/369322f0180c57f1e1459.png",
+        "https://telegra.ph/file/7cad8ea694b5da7928c56.png",
+        "https://telegra.ph/file/82f95cc11dd211fe6d1ad.png",
+        "https://telegra.ph/file/01fa9ad9c14e5c1746900.png",
+        "https://telegra.ph/file/aa280e9d1208b12c00e89.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3921,
+    "title": "井上对魔忍",
+    "sourceUrl": "https://telegra.ph/井上对魔忍-08-31",
+    "images": [
+        "https://telegra.ph/file/b95e0e7ff5c336b14047f.jpg",
+        "https://telegra.ph/file/0a8fc47fa6941f0202704.jpg",
+        "https://telegra.ph/file/6af294132ba35fe8accef.jpg",
+        "https://telegra.ph/file/f49d2dc04909067f419a5.jpg",
+        "https://telegra.ph/file/6b01875517c0d2b0e0371.jpg",
+        "https://telegra.ph/file/6c8aee10e1f5379418eae.jpg",
+        "https://telegra.ph/file/a1a8402bf9f9d841d8117.jpg",
+        "https://telegra.ph/file/99fae6e9e90f9821987da.jpg",
+        "https://telegra.ph/file/71f55e54a2b2123d07388.jpg",
+        "https://telegra.ph/file/27d22b2e7e5bc4a68a6e2.jpg",
+        "https://telegra.ph/file/b89985c4d25738b13972d.jpg",
+        "https://telegra.ph/file/d18b53c374935c80979e9.jpg",
+        "https://telegra.ph/file/6b33c6b4306860fce4a28.jpg",
+        "https://telegra.ph/file/629a7c9e455125a6b7428.jpg",
+        "https://telegra.ph/file/6d1d8c480222cda7fbf10.jpg",
+        "https://telegra.ph/file/e236cc681d37e7b61090e.jpg",
+        "https://telegra.ph/file/4e39c01d1b1e0e97c13b6.jpg",
+        "https://telegra.ph/file/2cd8f21ac57484a93bf8b.jpg",
+        "https://telegra.ph/file/53f4822a4118084cdf614.jpg",
+        "https://telegra.ph/file/f43efbe9cc6a6a66f806d.jpg",
+        "https://telegra.ph/file/903a1d3a1b10c02d9f57a.jpg",
+        "https://telegra.ph/file/aa0f991f0de2ac243bc4d.jpg",
+        "https://telegra.ph/file/0e1f4111571585d4fbbe9.jpg",
+        "https://telegra.ph/file/b7ecdbc6b66defe4e9c45.jpg"
+    ]
+};

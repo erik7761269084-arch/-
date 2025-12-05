@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4634,
+    "title": "(こみトレ35) [特盛アヒージョ (佐藤八千流)] カーミラさんを崩したい。 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/こみトレ35-特盛アヒージョ-佐藤八千流-カーミラさんを崩したい-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/11894bb8015c946fa4551.jpg",
+        "https://telegra.ph/file/df46e5946f251ec16fc85.jpg",
+        "https://telegra.ph/file/4f98ce81a1694582044b0.jpg",
+        "https://telegra.ph/file/ceb21b7ea4424481816db.jpg",
+        "https://telegra.ph/file/7afa0a72f26a30b32b27b.jpg",
+        "https://telegra.ph/file/38ab2b47fd824671d714d.jpg",
+        "https://telegra.ph/file/d9c8d575501caa05cb106.jpg",
+        "https://telegra.ph/file/302095c6cea8cc4fac87d.jpg",
+        "https://telegra.ph/file/bcdd50d947f37058fc93b.jpg",
+        "https://telegra.ph/file/6fbab18362974b6baca49.jpg",
+        "https://telegra.ph/file/dadf5bf920ee6d6f1553b.jpg",
+        "https://telegra.ph/file/169128f54a5c5376f6edd.jpg",
+        "https://telegra.ph/file/74fa415e71600d7edf5fc.jpg",
+        "https://telegra.ph/file/7c17d4dda5435c9ebaeb2.jpg",
+        "https://telegra.ph/file/356e527a23427b26589ae.jpg",
+        "https://telegra.ph/file/be6f178f85497923199c6.jpg",
+        "https://telegra.ph/file/49b4589b4a9dc701e37b0.jpg",
+        "https://telegra.ph/file/8bce5b03e33921853081f.jpg",
+        "https://telegra.ph/file/ac355fbe40d0bb65c7998.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/a6938183cc703e094fc5b.jpg",
+        "https://telegra.ph/file/93ee85bd2b0783a72f17d.jpg"
+    ]
+};

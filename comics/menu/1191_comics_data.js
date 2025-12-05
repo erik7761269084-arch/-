@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1191,
+    "title": "[情緒安定 (情緒)] ボテ腹娼婦俱楽部",
+    "sourceUrl": "https://telegra.ph/情緒安定-情緒-ボテ腹娼婦俱楽部-08-31",
+    "images": [
+        "https://telegra.ph/file/1510ece7f1a00e7e5648e.jpg",
+        "https://telegra.ph/file/46c7558db7c7b4910dc22.jpg",
+        "https://telegra.ph/file/1ecd60a9bb86332ab428c.jpg",
+        "https://telegra.ph/file/0bf74c05258d49736a665.jpg",
+        "https://telegra.ph/file/a308011f6ae922135fb5f.jpg",
+        "https://telegra.ph/file/5bef504c766825ee8e75b.jpg",
+        "https://telegra.ph/file/a89f52c82d1ee431a907b.jpg",
+        "https://telegra.ph/file/0308af521e0a947285d63.jpg",
+        "https://telegra.ph/file/b843caf193255803d06b3.jpg",
+        "https://telegra.ph/file/54a347bc7bfdcdfd70c03.jpg",
+        "https://telegra.ph/file/16f6e9e156a429b6567d1.jpg",
+        "https://telegra.ph/file/ba1c2b4162461e8440f26.jpg",
+        "https://telegra.ph/file/3dee01e294b8fd7a01115.jpg",
+        "https://telegra.ph/file/4ea38db84f1731a82d724.jpg",
+        "https://telegra.ph/file/32938cfd8c322c84b0bdb.jpg",
+        "https://telegra.ph/file/1a6224d576ab8463f3685.jpg",
+        "https://telegra.ph/file/c5e584b40da068b59f29b.jpg",
+        "https://telegra.ph/file/b62e12a3693fcd43edb03.jpg",
+        "https://telegra.ph/file/34e29ebbd91ca7b6faf2a.jpg",
+        "https://telegra.ph/file/d32eca2cb428f6a53b7e4.jpg",
+        "https://telegra.ph/file/e665232436689f8ba6409.jpg",
+        "https://telegra.ph/file/0ea0c70f261e4b97a9f70.jpg",
+        "https://telegra.ph/file/60df5807e3364b2ccc770.jpg",
+        "https://telegra.ph/file/9e7642b1392fe7ea7cc39.jpg",
+        "https://telegra.ph/file/7b35450ee180b867c2599.jpg"
+    ]
+};

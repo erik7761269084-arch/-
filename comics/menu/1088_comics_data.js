@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1088,
+    "title": "[雲丹ピアノ楽団 (雲丹ピアノ)] ふたなりおばさんバ先のメスガキとベロチューセックス",
+    "sourceUrl": "https://telegra.ph/雲丹ピアノ楽団-雲丹ピアノ-ふたなりおばさんバ先のメスガキとベロチューセックス-08-31",
+    "images": [
+        "https://telegra.ph/file/edac8449d1e8e171c2ee0.jpg",
+        "https://telegra.ph/file/4fab86e14fe9a5e95d1a8.jpg",
+        "https://telegra.ph/file/9a6a5d8a0651a20db1e1d.jpg",
+        "https://telegra.ph/file/32c4ce35b45a6f75e01e3.jpg",
+        "https://telegra.ph/file/ef5f9d8c9eb8243da7fec.jpg",
+        "https://telegra.ph/file/08f68bc95f7055ba013e7.jpg",
+        "https://telegra.ph/file/22875cb458104533d0aad.jpg",
+        "https://telegra.ph/file/b20e36a1cf5044884d9e8.jpg",
+        "https://telegra.ph/file/09105ba2abada8b123a14.jpg",
+        "https://telegra.ph/file/5c841dbb9f8aa7e77c1dd.jpg",
+        "https://telegra.ph/file/d06f657a217bed1bc622c.jpg",
+        "https://telegra.ph/file/7967f6d5203ddb7d3f1f9.jpg",
+        "https://telegra.ph/file/0858e86c610eb513e4086.jpg",
+        "https://telegra.ph/file/acc2b381afabf9ab3db43.jpg",
+        "https://telegra.ph/file/0efcc93bf3898d4e1faef.jpg",
+        "https://telegra.ph/file/0b84a0ed90826f218f290.jpg",
+        "https://telegra.ph/file/9ecf299d985f6cb1332fc.jpg",
+        "https://telegra.ph/file/752315156e94821c21d30.jpg",
+        "https://telegra.ph/file/b63b064c50d7a5d727ddc.jpg",
+        "https://telegra.ph/file/4c9bd5c38a8a369246312.jpg",
+        "https://telegra.ph/file/adb2f6f7ffef14a9ead1d.jpg",
+        "https://telegra.ph/file/cc6b68a45ced05522d42d.jpg",
+        "https://telegra.ph/file/4a3dd0ca1768e3a81dc6c.jpg",
+        "https://telegra.ph/file/5b61a2e06016a7d2a4a08.jpg"
+    ]
+};

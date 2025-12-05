@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3825,
+    "title": "[TreeDrop (葉月琥珀)] 僕の従者が、最近おかしい。 (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/TreeDrop-葉月琥珀-僕の従者が最近おかしい-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/4cf563fcb7a6f002e719d.jpg",
+        "https://telegra.ph/file/288caa7381f69209e9e63.jpg",
+        "https://telegra.ph/file/f8b60a3ae2b63888df240.jpg",
+        "https://telegra.ph/file/3206f24e2b88478705d4d.jpg",
+        "https://telegra.ph/file/81aeacef431a1628f7a21.jpg",
+        "https://telegra.ph/file/9ce129e105de1f4cd3394.jpg",
+        "https://telegra.ph/file/1ffa42e09d09e6b59b4c7.jpg",
+        "https://telegra.ph/file/97792a3958a410713d0af.jpg",
+        "https://telegra.ph/file/4fa42e44a154828f4bd97.jpg",
+        "https://telegra.ph/file/56db8b6ac65277b042f46.jpg",
+        "https://telegra.ph/file/094b4e7d3ada6ec7f5208.jpg",
+        "https://telegra.ph/file/faa5a3d901ca62dd5de0d.jpg",
+        "https://telegra.ph/file/0fd1e5909c5d2f3dcafd1.jpg",
+        "https://telegra.ph/file/8618104c0fb6fd205e5c2.jpg",
+        "https://telegra.ph/file/38f2ecd1eeae8bd79cbfd.jpg",
+        "https://telegra.ph/file/49c6948fa57e7862ccbc8.jpg",
+        "https://telegra.ph/file/614cf6679626293eb2d80.jpg",
+        "https://telegra.ph/file/4ec2b03031eb009533b45.jpg",
+        "https://telegra.ph/file/d608de36cd9bb138a4aeb.jpg",
+        "https://telegra.ph/file/765a774f3a13879e95b76.jpg",
+        "https://telegra.ph/file/af34024d11efffd914e65.jpg",
+        "https://telegra.ph/file/cb9ab2bb1db5eaba1a07f.jpg",
+        "https://telegra.ph/file/1bb9b583a22ca4814e903.jpg",
+        "https://telegra.ph/file/2557b645ad844c6033263.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

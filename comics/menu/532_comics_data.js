@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 532,
+    "title": "[ジョン・K・ペー太] 営業・悶絶24時！ (コミックマグナム Vol.95)",
+    "sourceUrl": "https://telegra.ph/ジョンKペー太-営業悶絶24時-コミックマグナム-Vol95-08-31",
+    "images": [
+        "https://telegra.ph/file/eac52073737356c998342.jpg",
+        "https://telegra.ph/file/7fcc36785e000927aa87d.jpg",
+        "https://telegra.ph/file/532b76949aad3f09ec4f4.jpg",
+        "https://telegra.ph/file/1ff5c24ecdb96b6a8eef5.jpg",
+        "https://telegra.ph/file/2525adc7479adcb120887.jpg",
+        "https://telegra.ph/file/b95ee8fbdacd51e98cdab.jpg",
+        "https://telegra.ph/file/8221494663625412573f1.jpg",
+        "https://telegra.ph/file/73dbe4826185c8e88fa1b.jpg",
+        "https://telegra.ph/file/9c29d4889e05d9ac5952c.jpg",
+        "https://telegra.ph/file/16ead2995f6d2f871ab46.jpg",
+        "https://telegra.ph/file/3555cd7b6300c7ff4957d.jpg",
+        "https://telegra.ph/file/86ffaa48529fd9222319e.jpg",
+        "https://telegra.ph/file/e132e52723b4cf0ff6d43.jpg",
+        "https://telegra.ph/file/f4e5256d61f08e114c93a.jpg",
+        "https://telegra.ph/file/571f05584b26d96225cd5.jpg",
+        "https://telegra.ph/file/1a70d8483a99cda9a7a15.jpg",
+        "https://telegra.ph/file/444152e4d1d0382231618.jpg",
+        "https://telegra.ph/file/d586c10763af511d222e1.jpg",
+        "https://telegra.ph/file/6d5e7d90be431da1811f6.jpg",
+        "https://telegra.ph/file/71852f40d73a36e8d4007.jpg",
+        "https://telegra.ph/file/1b56d4af7f01e8c7f4227.jpg",
+        "https://telegra.ph/file/cd9d49391202a1ea57499.jpg",
+        "https://telegra.ph/file/93a8f053572948811692b.jpg",
+        "https://telegra.ph/file/150fea31085ef51f65b1f.jpg"
+    ]
+};

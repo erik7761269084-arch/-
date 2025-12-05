@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3467,
+    "title": "[セブンデイズホリディ (篠川あるみ、古我望)] 姉の代わりに生意気な双子姉妹を再教育?",
+    "sourceUrl": "https://telegra.ph/セブンデイズホリディ-篠川あるみ古我望-姉の代わりに生意気な双子姉妹を再教育-08-31",
+    "images": [
+        "https://telegra.ph/file/86d4ca8e20f05eb396fae.jpg",
+        "https://telegra.ph/file/2718ebd10e395729d7384.jpg",
+        "https://telegra.ph/file/d1f583742bbe05c5816f5.jpg",
+        "https://telegra.ph/file/b52a1b53d222c2dea0084.jpg",
+        "https://telegra.ph/file/96754384b0a95c25a4f68.jpg",
+        "https://telegra.ph/file/ea1338f32edbfa22746a9.jpg",
+        "https://telegra.ph/file/c605f039f0460871c48ee.jpg",
+        "https://telegra.ph/file/cad5bb131b10577f6b9c0.jpg",
+        "https://telegra.ph/file/d282b481dcaf1dcf19de7.jpg",
+        "https://telegra.ph/file/66b25145eeaa4bb9be912.jpg",
+        "https://telegra.ph/file/a7039876a984b0a87c950.jpg",
+        "https://telegra.ph/file/1cc8e9fdd3cfa4925af86.jpg",
+        "https://telegra.ph/file/4ec80fc4226b58f3a53ec.jpg",
+        "https://telegra.ph/file/e76a08b28dff9d15173a3.jpg",
+        "https://telegra.ph/file/376557a419940ad47e722.jpg",
+        "https://telegra.ph/file/25be1a0ad8769afb9e2e2.jpg",
+        "https://telegra.ph/file/cd777a651296a1b0de516.jpg",
+        "https://telegra.ph/file/7b6ca5898f1c129cf6dc7.jpg",
+        "https://telegra.ph/file/5daddb799cb9ba68c692c.jpg",
+        "https://telegra.ph/file/9bb01129cec4ea2d9b4f0.jpg",
+        "https://telegra.ph/file/3746babdd560d37704efe.jpg",
+        "https://telegra.ph/file/bcd02ca3ae713c78532cc.jpg",
+        "https://telegra.ph/file/082a1c8994b543a3a589c.jpg",
+        "https://telegra.ph/file/520d32dc4ddd07c7b2443.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

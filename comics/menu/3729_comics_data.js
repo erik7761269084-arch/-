@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3729,
+    "title": "[く～へんしろっぷ (にのパル)] えっちな花ちゃん本 (VOICEROID)",
+    "sourceUrl": "https://telegra.ph/くへんしろっぷ-にのパル-えっちな花ちゃん本-VOICEROID-08-31",
+    "images": [
+        "https://telegra.ph/file/d12f1ab219a3b91c17b4e.jpg",
+        "https://telegra.ph/file/43bdbe18417d9c37c75bf.jpg",
+        "https://telegra.ph/file/d4904e589c894fba389a7.jpg",
+        "https://telegra.ph/file/b2a61b7f8ac0a7d5dadf9.jpg",
+        "https://telegra.ph/file/6d7aaec3cfdff6672cce5.jpg",
+        "https://telegra.ph/file/54ef312bc82792d6eb70d.jpg",
+        "https://telegra.ph/file/4fe23c354b9989cfa80bc.jpg",
+        "https://telegra.ph/file/961f3c47719ade76c264f.jpg",
+        "https://telegra.ph/file/3d1859ee8af68e86e03f6.jpg",
+        "https://telegra.ph/file/d0f7cd2b5f9c8d2c69885.jpg",
+        "https://telegra.ph/file/82adbc31a0a1f52964590.jpg",
+        "https://telegra.ph/file/3847e17085e6edd2bb23d.jpg",
+        "https://telegra.ph/file/2b8d13c70a5851aa66a6c.jpg",
+        "https://telegra.ph/file/e1b9e694b5560378e46a2.jpg",
+        "https://telegra.ph/file/099398054ac5b49589840.jpg",
+        "https://telegra.ph/file/6067983b44194777b85dc.jpg",
+        "https://telegra.ph/file/3959f940815d92422e7c2.jpg",
+        "https://telegra.ph/file/7060f70366806dea482f4.jpg",
+        "https://telegra.ph/file/1e3d174288f8fd9a962a9.jpg",
+        "https://telegra.ph/file/7b612f3704a069bfa5427.jpg",
+        "https://telegra.ph/file/998df411ad902fcfc99a5.jpg",
+        "https://telegra.ph/file/7607112093b2cc98616da.jpg",
+        "https://telegra.ph/file/ca8f4997a4256ca7fa3c8.jpg",
+        "https://telegra.ph/file/9b05f884d3b3f028f0fca.jpg",
+        "https://telegra.ph/file/33996b5fcc1a2a8ed8b3f.jpg"
+    ]
+};

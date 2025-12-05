@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6924,
+    "title": "ホーム セクシャリティーチャー",
+    "sourceUrl": "https://telegra.ph/ホーム-セクシャリティーチャー-08-31",
+    "images": [
+        "https://telegra.ph/file/5f5237ed99dee3e4abade.jpg",
+        "https://telegra.ph/file/c71144a487a35b691e57f.jpg",
+        "https://telegra.ph/file/b54df8df546c269395d64.jpg",
+        "https://telegra.ph/file/5384572ae9b3bfd332298.jpg",
+        "https://telegra.ph/file/c53a41d5b82ca12ad558a.jpg",
+        "https://telegra.ph/file/e4a7aa43f902272cceddc.jpg",
+        "https://telegra.ph/file/340d928298c006984cfa1.jpg",
+        "https://telegra.ph/file/fed0cb2586936b811a5c1.jpg",
+        "https://telegra.ph/file/16df15d4e2605174aeb9e.jpg",
+        "https://telegra.ph/file/72cde1860189999834092.jpg",
+        "https://telegra.ph/file/664086e993d588f5cf835.jpg",
+        "https://telegra.ph/file/efe48a5a449850aeaea78.jpg",
+        "https://telegra.ph/file/e6ad39cbc4f66f83e5ed6.jpg",
+        "https://telegra.ph/file/23c15314b93fdf512bd97.jpg",
+        "https://telegra.ph/file/89d324fe2d9c9e82a84de.jpg",
+        "https://telegra.ph/file/0496587115fa7e8b9d8c2.jpg",
+        "https://telegra.ph/file/a606713e2094c3b5b1b63.jpg",
+        "https://telegra.ph/file/47fab7b25027178b63b8a.jpg",
+        "https://telegra.ph/file/35a976a2b673209f39129.jpg",
+        "https://telegra.ph/file/d8449702f7bf1918e9c5a.jpg",
+        "https://telegra.ph/file/b85dc2f1062ebdd2ed50e.jpg",
+        "https://telegra.ph/file/06c5ef45f2b48b3ded895.jpg",
+        "https://telegra.ph/file/85b832a325eaf38446d17.jpg",
+        "https://telegra.ph/file/f8c2c18097904e799dbe8.jpg"
+    ]
+};

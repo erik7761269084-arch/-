@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7672,
+    "title": "みにくいビッチな娘",
+    "sourceUrl": "https://telegra.ph/みにくいビッチな娘-08-31-2",
+    "images": [
+        "https://telegra.ph/file/0cea91438f4b9fc880a6c.jpg",
+        "https://telegra.ph/file/82db458e52b864c851f12.jpg",
+        "https://telegra.ph/file/0083500eba1f89208bcc6.jpg",
+        "https://telegra.ph/file/fa0c5ee3e96be65ba8c8b.jpg",
+        "https://telegra.ph/file/61b92a960028493ce6873.jpg",
+        "https://telegra.ph/file/28ee9f0b87ccad9b8f173.jpg",
+        "https://telegra.ph/file/269c58965a2839fdee362.jpg",
+        "https://telegra.ph/file/4e977bffa7c3c7fbd7526.jpg",
+        "https://telegra.ph/file/dc9313412d3f297613fbb.jpg",
+        "https://telegra.ph/file/257130c08040f3ae9b1db.jpg",
+        "https://telegra.ph/file/9097f2344b7b9227f82ac.jpg",
+        "https://telegra.ph/file/896b583714a09bf9a1229.jpg",
+        "https://telegra.ph/file/c9b1976385dff1fd1b728.jpg",
+        "https://telegra.ph/file/89899c0a4cb7b2d3eeb01.jpg",
+        "https://telegra.ph/file/871dfd70dc4fdc87f4aa2.jpg",
+        "https://telegra.ph/file/51870af60b5901b201f70.jpg",
+        "https://telegra.ph/file/adc2fd7c97175c7add436.jpg",
+        "https://telegra.ph/file/98bd247f4402c9b4b41e6.jpg",
+        "https://telegra.ph/file/bd05d750753e2a14ecb83.jpg",
+        "https://telegra.ph/file/ae4aed978857e08cbae15.jpg",
+        "https://telegra.ph/file/6467cf3978f32890b526e.jpg",
+        "https://telegra.ph/file/fbb355c3cd0aa8c38a26f.jpg",
+        "https://telegra.ph/file/349c1bafbb73dfe40f149.jpg",
+        "https://telegra.ph/file/b9651e04bb33427357dbe.jpg",
+        "https://telegra.ph/file/a6af9ba5b085b21f7cd3b.jpg",
+        "https://telegra.ph/file/ad1a302afb5ff97f25554.jpg"
+    ]
+};

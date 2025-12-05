@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4187,
+    "title": "(C95) [Garimpeiro (まめでんきゅう)] 心心恋慕 (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C95-Garimpeiro-まめでんきゅう-心心恋慕-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/2940f357208fa95db5311.jpg",
+        "https://telegra.ph/file/7d171c779ff6ced4a45a3.jpg",
+        "https://telegra.ph/file/b8bdf3388d4e8c856621d.jpg",
+        "https://telegra.ph/file/65c801be8fbb3b02dabfa.jpg",
+        "https://telegra.ph/file/68e71c7e7a844a37a2027.jpg",
+        "https://telegra.ph/file/0e80b06d2876ad733a319.jpg",
+        "https://telegra.ph/file/cf957f3fbd01b625313b9.jpg",
+        "https://telegra.ph/file/a373a41b38805a792282c.jpg",
+        "https://telegra.ph/file/21fab0618c1be204fbf3c.jpg",
+        "https://telegra.ph/file/6d4bc130791bbe4f2055c.jpg",
+        "https://telegra.ph/file/94bdfa1909a2d0c522c78.jpg",
+        "https://telegra.ph/file/ab63c488fc9543e640f30.jpg",
+        "https://telegra.ph/file/c18d37e4794da511ebdcb.jpg",
+        "https://telegra.ph/file/88c2bde8f77a14f3812b4.jpg",
+        "https://telegra.ph/file/f33c6ee8b977931cf44f8.jpg",
+        "https://telegra.ph/file/c12f8fcdccfdde4b70120.jpg",
+        "https://telegra.ph/file/6ec269d7cf014e921e340.jpg",
+        "https://telegra.ph/file/f5d9c19725d045535d20d.jpg",
+        "https://telegra.ph/file/3b456c5b2f9d8b1597155.jpg",
+        "https://telegra.ph/file/4562cb948f5b54db7800c.jpg",
+        "https://telegra.ph/file/12c11db2e0010651642cf.jpg",
+        "https://telegra.ph/file/8f1f42485526f40c87b2c.jpg",
+        "https://telegra.ph/file/fc8eed3fcbd386e7e3334.jpg"
+    ]
+};

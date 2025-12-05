@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7318,
+    "title": "雨明かりのデジャヴ",
+    "sourceUrl": "https://telegra.ph/雨明かりのデジャヴ-08-31",
+    "images": [
+        "https://telegra.ph/file/7b4d572f0875048dd4cc0.jpg",
+        "https://telegra.ph/file/67086be367ce2d80fe2e5.jpg",
+        "https://telegra.ph/file/e3dc1210078c4a6e93c89.jpg",
+        "https://telegra.ph/file/be43ae9a24037d2935c1d.jpg",
+        "https://telegra.ph/file/d9abcc2566aba4dc528f0.jpg",
+        "https://telegra.ph/file/fc4f58535b5e2f9e4e1de.jpg",
+        "https://telegra.ph/file/bd0f1d140e9559fe6e1a5.jpg",
+        "https://telegra.ph/file/65b6c03f83b97790ca7a0.jpg",
+        "https://telegra.ph/file/6e85e840b1d25e2b72423.jpg",
+        "https://telegra.ph/file/9f933de095b0c6602897d.jpg",
+        "https://telegra.ph/file/fd3f32ab68ac80cd17df5.jpg",
+        "https://telegra.ph/file/d2b8cf06d683a016b741b.jpg",
+        "https://telegra.ph/file/e270bf009d0674439d5a8.jpg",
+        "https://telegra.ph/file/6e1b4b66af14b1cebc9c4.jpg",
+        "https://telegra.ph/file/bc3decc362adae32e4720.jpg",
+        "https://telegra.ph/file/b3c690e36f5b1267dabd5.jpg",
+        "https://telegra.ph/file/cdb6b6d3b6d8fe3c1d17c.jpg",
+        "https://telegra.ph/file/87ff9ebaed0f1c74f23b7.jpg",
+        "https://telegra.ph/file/d4f4a46be39d4e53e802f.jpg",
+        "https://telegra.ph/file/9cb10b1f1b378bc9f0efa.jpg",
+        "https://telegra.ph/file/46401e69cde9ecff02e32.jpg",
+        "https://telegra.ph/file/37d0d8b3e5292abd9f49b.jpg",
+        "https://telegra.ph/file/c3e255b6438672ab5867b.jpg",
+        "https://telegra.ph/file/94235de301ee2c5eaf6f5.jpg"
+    ]
+};

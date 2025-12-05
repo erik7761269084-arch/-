@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5878,
+    "title": "[彦馬ヒロユキ] ツンギレ",
+    "sourceUrl": "https://telegra.ph/彦馬ヒロユキ-ツンギレ-08-31",
+    "images": [
+        "https://telegra.ph/file/44ff00a31573167902d00.jpg",
+        "https://telegra.ph/file/e603fd96fe789faaed00b.jpg",
+        "https://telegra.ph/file/62ed054193912fc809ccd.jpg",
+        "https://telegra.ph/file/7f1d28760cd254df2c17b.jpg",
+        "https://telegra.ph/file/17e53299e2ce1dac3ef89.jpg",
+        "https://telegra.ph/file/e5fcc34295480f4a91d61.jpg",
+        "https://telegra.ph/file/787f50510a0cd0cb75eca.jpg",
+        "https://telegra.ph/file/9a5bed8c95db118495d6a.jpg",
+        "https://telegra.ph/file/b24fd454f86cec32fe67b.jpg",
+        "https://telegra.ph/file/e20cc3938307ea3cf3637.jpg",
+        "https://telegra.ph/file/703c78aecbf43bd07e643.jpg",
+        "https://telegra.ph/file/fb9a83b23d1fd5356e771.jpg",
+        "https://telegra.ph/file/30427d9edc728396c6f88.jpg",
+        "https://telegra.ph/file/91e42b85cd5c9c532c3b2.jpg",
+        "https://telegra.ph/file/c95c5d526df859e1e5ab2.jpg",
+        "https://telegra.ph/file/a7daa59cc56e6d2d4994b.jpg",
+        "https://telegra.ph/file/165e1a60e67e182884372.jpg",
+        "https://telegra.ph/file/cf728d72cc37921858c82.jpg",
+        "https://telegra.ph/file/5c228181042453ad78e07.jpg",
+        "https://telegra.ph/file/487b8d054b431e2f9eed7.jpg",
+        "https://telegra.ph/file/9e83b23e7d37f7a24873c.jpg",
+        "https://telegra.ph/file/5dc58dca500f367df0ab5.jpg",
+        "https://telegra.ph/file/ba279259f248b8f1ea63b.jpg",
+        "https://telegra.ph/file/213f6d32dfcfa2bae628e.jpg"
+    ]
+};

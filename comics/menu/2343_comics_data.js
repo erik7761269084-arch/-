@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2343,
+    "title": "[逆又練物] メスガキわからせ塾 第1話 (コミック Mate legend Vol.43 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/逆又練物-メスガキわからせ塾-第1話-コミック-Mate-legend-Vol43-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c306c552ea54896772e88.jpg",
+        "https://telegra.ph/file/5540504a196c111dfbee2.jpg",
+        "https://telegra.ph/file/ec31347c7cf89a97b5bfd.jpg",
+        "https://telegra.ph/file/9b65bcfd6cead57df645d.jpg",
+        "https://telegra.ph/file/ad87b46bf1a1dca752816.jpg",
+        "https://telegra.ph/file/a5f5ce99236ed2ea35423.jpg",
+        "https://telegra.ph/file/b4a8e4bf95da3e6a4f6fe.jpg",
+        "https://telegra.ph/file/d70ec80b6978690beda68.jpg",
+        "https://telegra.ph/file/67dd60c8a3cd4082b6454.jpg",
+        "https://telegra.ph/file/1d567859a424a30b9f9ad.jpg",
+        "https://telegra.ph/file/350531cf782a43b696290.jpg",
+        "https://telegra.ph/file/f6269fcdb27a3a21e3eab.jpg",
+        "https://telegra.ph/file/b0a7b977a86c3df70194c.jpg",
+        "https://telegra.ph/file/5b22638a700a347215e8b.jpg",
+        "https://telegra.ph/file/39454993935f6dbb099bd.jpg",
+        "https://telegra.ph/file/7bd09ef9313c6e200a975.jpg",
+        "https://telegra.ph/file/93b3fb2be77ff562b27ac.jpg",
+        "https://telegra.ph/file/bb4fd4f2311bce51dc3c6.jpg",
+        "https://telegra.ph/file/acf329698600db9d64e7d.jpg",
+        "https://telegra.ph/file/2d8121f5eddc027546e58.jpg",
+        "https://telegra.ph/file/ce667b366eb23ff33ccbf.jpg",
+        "https://telegra.ph/file/ae2a915dbe1396fe5d40e.jpg",
+        "https://telegra.ph/file/dcc19a8329b53ae701674.jpg",
+        "https://telegra.ph/file/f46688986b887af0e7087.jpg",
+        "https://telegra.ph/file/b8c69c0af3f8ae812611c.jpg"
+    ]
+};

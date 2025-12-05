@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6877,
+    "title": "ついんず♥はらすめんと～おかわり～",
+    "sourceUrl": "https://telegra.ph/ついんずはらすめんとおかわり-08-31",
+    "images": [
+        "https://telegra.ph/file/ce6049b8441cacfbe7259.jpg",
+        "https://telegra.ph/file/2cf3ab90d1879688a4576.jpg",
+        "https://telegra.ph/file/625fc3a199c28fe66fa1c.jpg",
+        "https://telegra.ph/file/722ef57ed862d8cf481dd.jpg",
+        "https://telegra.ph/file/78f72c6148a89ec6c7c20.jpg",
+        "https://telegra.ph/file/49d58bf664c977255ed53.jpg",
+        "https://telegra.ph/file/50e44b4d1351855128601.jpg",
+        "https://telegra.ph/file/1b076ac655285069c7aa8.jpg",
+        "https://telegra.ph/file/5067cb30c798263a96dac.jpg",
+        "https://telegra.ph/file/198e7ca76b3f55422b78b.jpg",
+        "https://telegra.ph/file/5a9d3609f197a5c761474.jpg",
+        "https://telegra.ph/file/43fd43c298e1d089114cf.jpg",
+        "https://telegra.ph/file/539cc8236204e2ce75e7b.jpg",
+        "https://telegra.ph/file/4c5354b3d155dfc4c1647.jpg",
+        "https://telegra.ph/file/714842490c2fc454e8b64.jpg",
+        "https://telegra.ph/file/4dc303f8655b403e076e5.jpg",
+        "https://telegra.ph/file/0385665fd88e1e797b3c6.jpg",
+        "https://telegra.ph/file/2f048320348578b76ef44.jpg",
+        "https://telegra.ph/file/16cb85288d6fe8fa5eeb2.jpg",
+        "https://telegra.ph/file/eda97dc889706067d6154.jpg",
+        "https://telegra.ph/file/56347969b0e45fa5cade1.jpg",
+        "https://telegra.ph/file/7f61d27f6821ca4d657f7.jpg",
+        "https://telegra.ph/file/b133f0f7b00466fa7c8cc.jpg",
+        "https://telegra.ph/file/32f6f63491f5236298df1.jpg",
+        "https://telegra.ph/file/74e6550c5c60f7cd414a0.jpg",
+        "https://telegra.ph/file/bf1f5b332b50966caabed.jpg"
+    ]
+};

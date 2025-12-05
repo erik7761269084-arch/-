@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6565,
+    "title": "風俗金星と恋愛木星 (美少女戦士セーラームーン)",
+    "sourceUrl": "https://telegra.ph/風俗金星と恋愛木星-美少女戦士セーラームーン-08-31",
+    "images": [
+        "https://telegra.ph/file/2de404b06b4511a6e89d1.jpg",
+        "https://telegra.ph/file/06cd1e127bc11d2cd23a9.jpg",
+        "https://telegra.ph/file/59322e85c0efaa4a2948e.jpg",
+        "https://telegra.ph/file/b7c5ca6321ff4320e435a.jpg",
+        "https://telegra.ph/file/a7ab6088a889caea76f51.jpg",
+        "https://telegra.ph/file/e35229157be1ac8bb4f82.jpg",
+        "https://telegra.ph/file/af40003824d012667c78e.jpg",
+        "https://telegra.ph/file/5617fcb716df3c6e85a08.jpg",
+        "https://telegra.ph/file/a7d3c8fa472f98e9ae676.jpg",
+        "https://telegra.ph/file/8cf6517d33bfe34d73e35.jpg",
+        "https://telegra.ph/file/3ea0099301d2d153e98f8.jpg",
+        "https://telegra.ph/file/fac7f1aed74a60bb1a453.jpg",
+        "https://telegra.ph/file/80d8e71666f750de4e8e4.jpg",
+        "https://telegra.ph/file/77beea2df0951490a6c7f.jpg",
+        "https://telegra.ph/file/85306be19e8eb2ebb39a3.jpg",
+        "https://telegra.ph/file/6d21e2e05380a79986108.jpg",
+        "https://telegra.ph/file/3c6b6708c0106addcacb7.jpg",
+        "https://telegra.ph/file/b49d52757ee5c91802a1c.jpg",
+        "https://telegra.ph/file/22298cdd9a3e91cc7fa71.jpg",
+        "https://telegra.ph/file/b02b9ef39e3a928e26dbb.jpg",
+        "https://telegra.ph/file/1573a32ba95d05b228e97.jpg",
+        "https://telegra.ph/file/624e3440c0ead775f2c97.jpg",
+        "https://telegra.ph/file/e610ca35bc6795b80e292.jpg",
+        "https://telegra.ph/file/c5a4f179277de34c27059.jpg"
+    ]
+};

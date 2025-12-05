@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4093,
+    "title": "[たねなしくりぼ] JK愛玩痴育日誌 3話",
+    "sourceUrl": "https://telegra.ph/たねなしくりぼ-JK愛玩痴育日誌-3話-08-31",
+    "images": [
+        "https://telegra.ph/file/b2556716b302dba377f40.jpg",
+        "https://telegra.ph/file/d1e5f47acd43a3ffb723d.jpg",
+        "https://telegra.ph/file/e8e4a064e7adf58d9c182.jpg",
+        "https://telegra.ph/file/2b4fbf14bb39406009a06.jpg",
+        "https://telegra.ph/file/2af1dd5c39550d308a1c8.jpg",
+        "https://telegra.ph/file/6bae8ed6f5edeced9d33c.jpg",
+        "https://telegra.ph/file/561e21a83cc25ee118559.jpg",
+        "https://telegra.ph/file/dc2b28c9ef6c09f6443e1.jpg",
+        "https://telegra.ph/file/d4e019a06753f670a4f0b.jpg",
+        "https://telegra.ph/file/589c4c9f25e95268a6557.jpg",
+        "https://telegra.ph/file/fae09f870867511ab8e49.jpg",
+        "https://telegra.ph/file/c64497606653bbd6bf673.jpg",
+        "https://telegra.ph/file/642664d36468a8ef7d952.jpg",
+        "https://telegra.ph/file/bf16a924f56bba1009e4c.jpg",
+        "https://telegra.ph/file/1667544b11a4f4e35520b.jpg",
+        "https://telegra.ph/file/b6c993ee69e0553f30461.jpg",
+        "https://telegra.ph/file/c4ea1d3fa54e94a4e845c.jpg",
+        "https://telegra.ph/file/a14c5783a6351bde5db00.jpg",
+        "https://telegra.ph/file/93d6d21158bb0bdfe8984.jpg",
+        "https://telegra.ph/file/6d9f033c08211d1e70eb5.jpg",
+        "https://telegra.ph/file/58e49207189ca015d38fd.jpg",
+        "https://telegra.ph/file/0717cb2f7fdceb64dc84d.jpg",
+        "https://telegra.ph/file/51e3a12e8bf13f530456c.jpg",
+        "https://telegra.ph/file/9281abf0c1f5aec31fd4d.jpg",
+        "https://telegra.ph/file/96d2101660334cbdc3057.jpg",
+        "https://telegra.ph/file/347273f612a315703bcb9.jpg"
+    ]
+};

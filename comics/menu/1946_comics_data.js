@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1946,
+    "title": "[YU] おマセな妹 (COMIC LO 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/YU-おマセな妹-COMIC-LO-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/9217d3582712c127a229f.jpg",
+        "https://telegra.ph/file/0543c3ec96fec94c45a6d.jpg",
+        "https://telegra.ph/file/ed7d8cc70418770f511bf.jpg",
+        "https://telegra.ph/file/6033d391618cb1871190d.jpg",
+        "https://telegra.ph/file/bc997b834b76b3af8f048.jpg",
+        "https://telegra.ph/file/3e4085b228831e51aca91.jpg",
+        "https://telegra.ph/file/a847b98b6541312182988.jpg",
+        "https://telegra.ph/file/1913eb6d317ee540ed51b.jpg",
+        "https://telegra.ph/file/36951c097dc04e3173bcc.jpg",
+        "https://telegra.ph/file/38e5bffc440a9336a0148.jpg",
+        "https://telegra.ph/file/dcb9b29581de098c40b63.jpg",
+        "https://telegra.ph/file/aa48e2136d1613af5688e.jpg",
+        "https://telegra.ph/file/9fae8314d1870e8f89c49.jpg",
+        "https://telegra.ph/file/c1c8be6c7ada24d9db319.jpg",
+        "https://telegra.ph/file/a36c53fdff51ed3aaf5a5.jpg",
+        "https://telegra.ph/file/261bca11889a9fdb9b6f8.jpg",
+        "https://telegra.ph/file/90ea0c495bbaf7e902bb1.jpg",
+        "https://telegra.ph/file/a68d8809f48f296fb938d.jpg",
+        "https://telegra.ph/file/35c4b2a36d61df73534ae.jpg",
+        "https://telegra.ph/file/e05132dbc8ceea9ba8249.jpg",
+        "https://telegra.ph/file/8234eabce26ab99aabff1.jpg",
+        "https://telegra.ph/file/eead97fb134d35d2ad606.jpg",
+        "https://telegra.ph/file/6dd461e793593fae48acb.jpg",
+        "https://telegra.ph/file/5906b681e482db076f29c.jpg",
+        "https://telegra.ph/file/8e9c89d5cb9fee3b539e7.jpg",
+        "https://telegra.ph/file/61113daecd44858242a7d.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4293,
+    "title": "[Corundum] 妖ランに魔力供給してみた (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/Corundum-妖ランに魔力供給してみた-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/1d0db670128927e0c9847.jpg",
+        "https://telegra.ph/file/34a57221e66c490470300.jpg",
+        "https://telegra.ph/file/b81ec5cbf27ba4cbc0ec0.jpg",
+        "https://telegra.ph/file/a27907563cedc8b8e8fbd.jpg",
+        "https://telegra.ph/file/d28143e63304556bd2297.jpg",
+        "https://telegra.ph/file/287eeedf9d74d16fbc0db.jpg",
+        "https://telegra.ph/file/3fcd55c4bf5138dce229e.jpg",
+        "https://telegra.ph/file/08061e32233b4df39dacd.jpg",
+        "https://telegra.ph/file/d6f26ce4b83ba3031d63a.jpg",
+        "https://telegra.ph/file/55161fbeccba174e29b4a.jpg",
+        "https://telegra.ph/file/aef4c38047a8e5709ea4f.jpg",
+        "https://telegra.ph/file/d41365db1ceae0ed9c29a.jpg",
+        "https://telegra.ph/file/1caeb542d423830ef4ee9.jpg",
+        "https://telegra.ph/file/a53ffc985d89e14327f72.jpg",
+        "https://telegra.ph/file/f45141bc5400f41257198.jpg",
+        "https://telegra.ph/file/cedfee5ae0c34c9b62832.jpg",
+        "https://telegra.ph/file/a773efaf110c4fa1105a4.jpg",
+        "https://telegra.ph/file/ca1baaa53377eae628eaf.jpg",
+        "https://telegra.ph/file/f6439bfb5430857eef2e6.jpg",
+        "https://telegra.ph/file/08c7887c7f12bd3da46bd.jpg",
+        "https://telegra.ph/file/a077b2b12e15e26a921a9.jpg",
+        "https://telegra.ph/file/03ba20c19f250841cca2f.jpg",
+        "https://telegra.ph/file/05cbdd5bf01b2650ac0f8.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6474,
+    "title": "放課後特別催眠学習",
+    "sourceUrl": "https://telegra.ph/放課後特別催眠学習-08-31",
+    "images": [
+        "https://telegra.ph/file/24491b7fe828e2e6c6d20.jpg",
+        "https://telegra.ph/file/dde7947b171b01b7ca2b4.jpg",
+        "https://telegra.ph/file/073fb1133d3489832494f.jpg",
+        "https://telegra.ph/file/a510ba54311324c57c449.jpg",
+        "https://telegra.ph/file/1608d9657bec29bfa43b9.jpg",
+        "https://telegra.ph/file/13869c8b7ec21af47ea7d.jpg",
+        "https://telegra.ph/file/c8624693779ed5b6bc0e0.jpg",
+        "https://telegra.ph/file/54fa30a10d351fb0234e6.jpg",
+        "https://telegra.ph/file/4e8f633659d8bb589658d.jpg",
+        "https://telegra.ph/file/464e36bd819d177f6196d.jpg",
+        "https://telegra.ph/file/a7ce2a33f3dd0451d5744.jpg",
+        "https://telegra.ph/file/af57cb068fc02893f8ae5.jpg",
+        "https://telegra.ph/file/506b596729e7cd8cbb6e8.jpg",
+        "https://telegra.ph/file/5e39429a97252707635e4.jpg",
+        "https://telegra.ph/file/82bd03ee2efcb794a4dba.jpg",
+        "https://telegra.ph/file/756baaad21007bf4b5dc2.jpg",
+        "https://telegra.ph/file/98a33ea8e77f781ba0182.jpg",
+        "https://telegra.ph/file/a15e2c33f0d583f2e5f1d.jpg",
+        "https://telegra.ph/file/6ad4a066233d84d8d5225.jpg",
+        "https://telegra.ph/file/edfae585242b616faafd9.jpg",
+        "https://telegra.ph/file/5758037f26b7a94041859.jpg",
+        "https://telegra.ph/file/d71f22aacac9a0bb4d3f7.jpg",
+        "https://telegra.ph/file/d4cea1f754194df7f0bcc.jpg",
+        "https://telegra.ph/file/29f8762ee37b8bda4b840.jpg"
+    ]
+};

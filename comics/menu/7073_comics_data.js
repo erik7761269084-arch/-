@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7073,
+    "title": "Teach two candies",
+    "sourceUrl": "https://telegra.ph/Teach-two-candies-08-31",
+    "images": [
+        "https://telegra.ph/file/caefe6efae18e7da7dc54.jpg",
+        "https://telegra.ph/file/2c61c521fc4efb200a98f.jpg",
+        "https://telegra.ph/file/96d90c9dc059623287abc.jpg",
+        "https://telegra.ph/file/0efabc8587b0ddfb4cd3b.jpg",
+        "https://telegra.ph/file/ac9a0b3ad5f4f5a3b4880.jpg",
+        "https://telegra.ph/file/9637afa0be62d05ba173e.jpg",
+        "https://telegra.ph/file/1b113e06eed264657292e.jpg",
+        "https://telegra.ph/file/76d373410a72eb82a7f0f.jpg",
+        "https://telegra.ph/file/0b5e8a7a3881e6c9bf646.jpg",
+        "https://telegra.ph/file/b4713b71dca49b7ee89cd.jpg",
+        "https://telegra.ph/file/eb250275dab880ac46558.jpg",
+        "https://telegra.ph/file/57226013899a5206f7b70.jpg",
+        "https://telegra.ph/file/aefa91ade210e4805fff7.jpg",
+        "https://telegra.ph/file/e5687578c8bef0b5eb415.jpg",
+        "https://telegra.ph/file/c9a6cc89c2bf08d9ecaee.jpg",
+        "https://telegra.ph/file/e046d739e83212af46cad.jpg",
+        "https://telegra.ph/file/abc3c51db31499f7078ff.jpg",
+        "https://telegra.ph/file/b4ec163388fe3acea96dc.jpg",
+        "https://telegra.ph/file/86c73786e18a3ed263b5b.jpg",
+        "https://telegra.ph/file/57dc75447b254b3453638.jpg",
+        "https://telegra.ph/file/efe277085b3a5ca09a5c0.jpg",
+        "https://telegra.ph/file/348d6e32765e7273871c8.jpg",
+        "https://telegra.ph/file/75d8b0b77de15efcc87ae.jpg",
+        "https://telegra.ph/file/e91fc8cf573bcbc7d05e6.jpg"
+    ]
+};

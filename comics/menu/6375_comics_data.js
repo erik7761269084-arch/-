@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6375,
+    "title": "慰安戦艦ヤマト2199",
+    "sourceUrl": "https://telegra.ph/慰安戦艦ヤマト2199-08-31",
+    "images": [
+        "https://telegra.ph/file/5a0dd351fc5421b4282d9.jpg",
+        "https://telegra.ph/file/f45cfcdd3c7faffaafae1.jpg",
+        "https://telegra.ph/file/434f20baeaf2b82252a86.jpg",
+        "https://telegra.ph/file/1ba602233e8f2a3239076.jpg",
+        "https://telegra.ph/file/8869b4ee34238df52c657.jpg",
+        "https://telegra.ph/file/d89cea0f76d34c796f3bb.jpg",
+        "https://telegra.ph/file/65731f2532d85c19a0fbd.jpg",
+        "https://telegra.ph/file/cb56fa7f9536e6b719e66.jpg",
+        "https://telegra.ph/file/dc640e74faa907f88c1ec.jpg",
+        "https://telegra.ph/file/1bae8d06dd5c2c9a42ec3.jpg",
+        "https://telegra.ph/file/5055018aa7cb488633998.jpg",
+        "https://telegra.ph/file/7ce77e94c8e47965bb49a.jpg",
+        "https://telegra.ph/file/746935223b90da88a4c65.jpg",
+        "https://telegra.ph/file/107717d427ee9d9f36b79.jpg",
+        "https://telegra.ph/file/e1d522c7b7e2316d8ff54.jpg",
+        "https://telegra.ph/file/bff333d9dddba128b16c5.jpg",
+        "https://telegra.ph/file/cb058f9459c25f9bda7fb.jpg",
+        "https://telegra.ph/file/a6b067bed8697b5aad31b.jpg",
+        "https://telegra.ph/file/5c7d9619189f8d29982f4.jpg",
+        "https://telegra.ph/file/cbc296fbb72985983ad4a.jpg",
+        "https://telegra.ph/file/894d2ea5e01682e6e94bd.jpg",
+        "https://telegra.ph/file/d534ca69f175bd1c63a8c.jpg",
+        "https://telegra.ph/file/3670ffa87fcdace43751f.jpg",
+        "https://telegra.ph/file/08def6b7f1ec2693fca98.jpg",
+        "https://telegra.ph/file/000292039793995742380.jpg",
+        "https://telegra.ph/file/4ef98e0ba2061df199b43.jpg"
+    ]
+};

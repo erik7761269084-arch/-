@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 162,
+    "title": "(C99) [DeepSilky (夢月あき)] 魔王様は情欲を抑えられない (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-DeepSilky-夢月あき-魔王様は情欲を抑えられない-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/c17b1631ca6d0cc0621fc.jpg",
+        "https://telegra.ph/file/9e6cfa0bd3d93c41e9d96.jpg",
+        "https://telegra.ph/file/8fbacdf0b50f498fe4e7d.jpg",
+        "https://telegra.ph/file/edb44ab9385c1b179c4bd.jpg",
+        "https://telegra.ph/file/e4251a005c19c652647ae.jpg",
+        "https://telegra.ph/file/0e5b3dce02be538485811.jpg",
+        "https://telegra.ph/file/fc98b3474b748572e82be.jpg",
+        "https://telegra.ph/file/1235c6a7290d343ed53fb.jpg",
+        "https://telegra.ph/file/09ce27ffb5a1f3f5b6c3f.jpg",
+        "https://telegra.ph/file/24eb269a1807476bda290.jpg",
+        "https://telegra.ph/file/e5382d1276eadc25c9bfb.jpg",
+        "https://telegra.ph/file/cd520585de7677c4b6447.jpg",
+        "https://telegra.ph/file/e98aac825418bfcf77e6c.jpg",
+        "https://telegra.ph/file/7587720df246ed6bb71a3.jpg",
+        "https://telegra.ph/file/3341a9799a7d5bac47217.jpg",
+        "https://telegra.ph/file/5facf9e14b30814572a71.jpg",
+        "https://telegra.ph/file/a8a98c7fe8a00102af049.jpg",
+        "https://telegra.ph/file/1800bcb35f088f750a2b4.jpg",
+        "https://telegra.ph/file/a82a796af9d5605360602.jpg",
+        "https://telegra.ph/file/784e57305a1858dee4390.jpg",
+        "https://telegra.ph/file/527e6e28a1ddf32724dab.jpg",
+        "https://telegra.ph/file/02c71ce92d43886c534e2.jpg",
+        "https://telegra.ph/file/b091b0457e4444020a49b.jpg",
+        "https://telegra.ph/file/2bb4fc79de4de6bb09c10.jpg",
+        "https://telegra.ph/file/dabfe3fc82c38c63971e3.jpg"
+    ]
+};

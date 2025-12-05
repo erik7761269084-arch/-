@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 268,
+    "title": "[ベコ太郎] 恋するダブルドリブル (COMIC 快楽天ビースト 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/ベコ太郎-恋するダブルドリブル-COMIC-快楽天ビースト-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0dd10e89e494d888d5579.jpg",
+        "https://telegra.ph/file/970fdc0590e5794904f8d.jpg",
+        "https://telegra.ph/file/97966c2616dee2c3af2c2.jpg",
+        "https://telegra.ph/file/39255b38d445c67578035.jpg",
+        "https://telegra.ph/file/b43fbc24a3dcdb7786593.jpg",
+        "https://telegra.ph/file/131b8bb28bc5bd7cdc469.jpg",
+        "https://telegra.ph/file/bd49667aa9a9e6daf577e.jpg",
+        "https://telegra.ph/file/08bcab4e90a7946091b20.jpg",
+        "https://telegra.ph/file/e46374a0e285646ea46db.jpg",
+        "https://telegra.ph/file/921d5fd39884b751fe9e8.jpg",
+        "https://telegra.ph/file/82535386582f9dc921e61.jpg",
+        "https://telegra.ph/file/1300fea25f212182167fc.jpg",
+        "https://telegra.ph/file/92786aca3ce086e5e2c32.jpg",
+        "https://telegra.ph/file/824aa39ed42ad44b0f14e.jpg",
+        "https://telegra.ph/file/7682aa445ec9c0a1a8de9.jpg",
+        "https://telegra.ph/file/3e72310192d83423a230d.jpg",
+        "https://telegra.ph/file/1b330f7f5a81c5ad813a8.jpg",
+        "https://telegra.ph/file/96123cde4fbc0e7d56af7.jpg",
+        "https://telegra.ph/file/99442986a126b8e9c7965.jpg",
+        "https://telegra.ph/file/be162d7c4dee3623b8eb7.jpg",
+        "https://telegra.ph/file/abf4fc990f23e133507d5.jpg",
+        "https://telegra.ph/file/4c17eceab074652e005a0.jpg",
+        "https://telegra.ph/file/6de3bf4dbda02fd37ecd1.jpg"
+    ]
+};

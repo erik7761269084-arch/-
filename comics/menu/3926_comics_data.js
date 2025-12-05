@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3926,
+    "title": "[hudak] Gwen (League of Legends)",
+    "sourceUrl": "https://telegra.ph/hudak-Gwen-League-of-Legends-08-31",
+    "images": [
+        "https://telegra.ph/file/a571ab558ebfff94d7dfd.png",
+        "https://telegra.ph/file/cd6dae5cc53c6af5dbcd0.png",
+        "https://telegra.ph/file/deaf643144e0249df8e4e.jpg",
+        "https://telegra.ph/file/6695f7d920f1e9b37d608.jpg",
+        "https://telegra.ph/file/4c98377d77ca870886735.jpg",
+        "https://telegra.ph/file/2a397be381e3e85486f9c.jpg",
+        "https://telegra.ph/file/47f3e56c3c335125c2933.jpg",
+        "https://telegra.ph/file/f65e7e88c3568ca47e6d0.jpg",
+        "https://telegra.ph/file/530cdec0e9fad68736075.jpg",
+        "https://telegra.ph/file/7ba30d2f6b2ad41aa59c8.jpg",
+        "https://telegra.ph/file/12582107a9733c04fe7c6.jpg",
+        "https://telegra.ph/file/c32e1ca9f41cf6a7ca117.jpg",
+        "https://telegra.ph/file/edf68fcf268b9ed078312.jpg",
+        "https://telegra.ph/file/6b64a0bb09fa9905ca10d.jpg",
+        "https://telegra.ph/file/2617a6742b353f2a4c290.jpg",
+        "https://telegra.ph/file/0a16d42a978d82124a1ad.jpg",
+        "https://telegra.ph/file/71dcdbdbf8e8511dd024b.jpg",
+        "https://telegra.ph/file/54d9276b0910a22f44cfa.jpg",
+        "https://telegra.ph/file/a1420b4a6d3511b08149b.jpg",
+        "https://telegra.ph/file/6c086f768edd35e820543.jpg",
+        "https://telegra.ph/file/f22891ce4c07175c08db3.jpg",
+        "https://telegra.ph/file/0bd77dbf501a062954754.jpg",
+        "https://telegra.ph/file/ad51832a681ff2b87dbb9.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3241,
+    "title": "[だんれんじ] 少女汚染 (WEEKLY快楽天 2021 No.26)",
+    "sourceUrl": "https://telegra.ph/だんれんじ-少女汚染-WEEKLY快楽天-2021-No26-08-31",
+    "images": [
+        "https://telegra.ph/file/376a54d2f3558c1db03c0.jpg",
+        "https://telegra.ph/file/7753efcdbd5820e14bb25.jpg",
+        "https://telegra.ph/file/9bef700656d98579e89d5.jpg",
+        "https://telegra.ph/file/4e777a385f2ccfbe400f2.jpg",
+        "https://telegra.ph/file/20e9e233c1d3c426e8cdb.jpg",
+        "https://telegra.ph/file/6c05052502e7854988594.jpg",
+        "https://telegra.ph/file/a93a332fb1d3ed30e7046.jpg",
+        "https://telegra.ph/file/859e3c40f62bc91bd00d1.jpg",
+        "https://telegra.ph/file/3fc0f266109e8b8e056b0.jpg",
+        "https://telegra.ph/file/c9754fad7ba60d9cda8b0.jpg",
+        "https://telegra.ph/file/02f1ad5fb8cd21ec36e77.jpg",
+        "https://telegra.ph/file/50252838d5843c459bb56.jpg",
+        "https://telegra.ph/file/891b49eb370c445fa012e.jpg",
+        "https://telegra.ph/file/f93f895a57507121c3fd1.jpg",
+        "https://telegra.ph/file/be86cae638ff09b887d04.jpg",
+        "https://telegra.ph/file/86a388297876cd4109c58.jpg",
+        "https://telegra.ph/file/a9a61b15f1bebb5e044fe.jpg",
+        "https://telegra.ph/file/30c0f63cb200d00d46b63.jpg",
+        "https://telegra.ph/file/63a79c07388866e210f31.jpg",
+        "https://telegra.ph/file/e976deddfb81f2769828e.jpg",
+        "https://telegra.ph/file/714dd5eb33fd0272430fc.jpg",
+        "https://telegra.ph/file/00db781e1acef68efdf41.jpg",
+        "https://telegra.ph/file/7e24fe665e082c0b5e682.jpg",
+        "https://telegra.ph/file/27f91e3754f1510440810.jpg",
+        "https://telegra.ph/file/cc876645ea22be1aedb7e.jpg"
+    ]
+};

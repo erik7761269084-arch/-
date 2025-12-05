@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6023,
+    "title": "[冥茶] サキュパニ",
+    "sourceUrl": "https://telegra.ph/冥茶-サキュパニ-08-31",
+    "images": [
+        "https://telegra.ph/file/6874cdef652de58d27447.jpg",
+        "https://telegra.ph/file/97753798340d0ba587fec.jpg",
+        "https://telegra.ph/file/4d765d4d6d7c7e7f4545e.jpg",
+        "https://telegra.ph/file/4fbc8a0496a491e21fe24.jpg",
+        "https://telegra.ph/file/0485d882352edf4678424.jpg",
+        "https://telegra.ph/file/21022d94ea017d8d36aca.jpg",
+        "https://telegra.ph/file/7e1f4a3a0bf33dca6212a.jpg",
+        "https://telegra.ph/file/747e188a532deee98022c.jpg",
+        "https://telegra.ph/file/9a7541223d9eca95ba50a.jpg",
+        "https://telegra.ph/file/baec150e36e2d392d8749.jpg",
+        "https://telegra.ph/file/179cb862c9c56feb00fa2.jpg",
+        "https://telegra.ph/file/b73f4f63165e5e307b485.jpg",
+        "https://telegra.ph/file/7f94e5ddaca6174585cbf.jpg",
+        "https://telegra.ph/file/7e8a13bd037158e863797.jpg",
+        "https://telegra.ph/file/4bd3015d336d8369d0a19.jpg",
+        "https://telegra.ph/file/010e78bc1760707f45784.jpg",
+        "https://telegra.ph/file/141cf35b84590faa65ee5.jpg",
+        "https://telegra.ph/file/d4ea04afb3dd5a1e92303.jpg",
+        "https://telegra.ph/file/b452bcb74228454f03836.jpg",
+        "https://telegra.ph/file/155affde0f6162af81879.jpg",
+        "https://telegra.ph/file/1fc015704b07dd66b9f63.jpg",
+        "https://telegra.ph/file/24b4007daecd7be8f305c.jpg",
+        "https://telegra.ph/file/f8384f8f64a7f37f78d76.jpg",
+        "https://telegra.ph/file/8c3cf922f136ba06c79ff.jpg",
+        "https://telegra.ph/file/26402b519b5bcd94d58a2.jpg"
+    ]
+};

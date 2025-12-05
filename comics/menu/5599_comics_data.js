@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5599,
+    "title": "[シュガーミルク] trochos",
+    "sourceUrl": "https://telegra.ph/シュガーミルク-trochos-08-31",
+    "images": [
+        "https://telegra.ph/file/52d295c75bf066a1e85a4.jpg",
+        "https://telegra.ph/file/29e11f5448f672408d56a.jpg",
+        "https://telegra.ph/file/9f25fb11c57b8e1d6eb75.jpg",
+        "https://telegra.ph/file/2748345e209ce7f93db2c.jpg",
+        "https://telegra.ph/file/8eaa357634e65904c0966.jpg",
+        "https://telegra.ph/file/262ab57593d3fb3004fed.jpg",
+        "https://telegra.ph/file/ce84a19f7aa1a9f390090.jpg",
+        "https://telegra.ph/file/b4a453782beb9dfa14fb8.jpg",
+        "https://telegra.ph/file/58adcc25f918f9490957e.jpg",
+        "https://telegra.ph/file/3d1f70c94879fecb328f9.jpg",
+        "https://telegra.ph/file/b90293711ce24b5a30af0.jpg",
+        "https://telegra.ph/file/63f9fc3a6d9032db7e3e4.jpg",
+        "https://telegra.ph/file/4f6191a83f1542af84690.jpg",
+        "https://telegra.ph/file/679f08e39063e82cc7c53.jpg",
+        "https://telegra.ph/file/a4144ef283bea79c5d248.jpg",
+        "https://telegra.ph/file/2317f11f60955259310bf.jpg",
+        "https://telegra.ph/file/fc9cd2b0a93773ddd9732.jpg",
+        "https://telegra.ph/file/1d5efa4f3c271e5a42c29.jpg",
+        "https://telegra.ph/file/7a7682815fa98e0d1468a.jpg",
+        "https://telegra.ph/file/7053d0764757bb0311c89.jpg",
+        "https://telegra.ph/file/76d7de8601f0161ecbeca.jpg",
+        "https://telegra.ph/file/daa7a3efabe63418977b5.jpg",
+        "https://telegra.ph/file/246a4a0102e87e24d989b.jpg",
+        "https://telegra.ph/file/485cf6edae99c17f82db8.jpg",
+        "https://telegra.ph/file/623a314946dabcd0b0c04.jpg",
+        "https://telegra.ph/file/7ab6bce6bdc8d74b0293e.jpg"
+    ]
+};

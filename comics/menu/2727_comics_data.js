@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2727,
+    "title": "[V-SLASH (夕霧)] 快楽触手ラボラトリー",
+    "sourceUrl": "https://telegra.ph/V-SLASH-夕霧-快楽触手ラボラトリー-08-31",
+    "images": [
+        "https://telegra.ph/file/823f5b93743dfd86b93a5.jpg",
+        "https://telegra.ph/file/659a57743da254f4c2bbb.jpg",
+        "https://telegra.ph/file/931d4451796acf3a28625.jpg",
+        "https://telegra.ph/file/d10db9305545fe2efb476.jpg",
+        "https://telegra.ph/file/baed9c69de5959edb4e9e.jpg",
+        "https://telegra.ph/file/c99573ff8283579fc9726.jpg",
+        "https://telegra.ph/file/0aac9c61efa43c886f5d8.jpg",
+        "https://telegra.ph/file/3a81b1d6eac0ad57b322c.jpg",
+        "https://telegra.ph/file/31056ee1e1bc6f2c47598.jpg",
+        "https://telegra.ph/file/3d5586b68bfe160957aed.jpg",
+        "https://telegra.ph/file/9350ef533edd5f9ae5568.jpg",
+        "https://telegra.ph/file/82fa9dd9d69db3679afd6.jpg",
+        "https://telegra.ph/file/893b9a4cb290ae478330e.jpg",
+        "https://telegra.ph/file/33628f9ff76305033d15f.jpg",
+        "https://telegra.ph/file/dd667bba6e7150abfda81.jpg",
+        "https://telegra.ph/file/1357e596803b963a52991.jpg",
+        "https://telegra.ph/file/f3c3a5e84367982a09e78.jpg",
+        "https://telegra.ph/file/331fece3a22056c478b35.jpg",
+        "https://telegra.ph/file/78c1b5e94b576c222e855.jpg",
+        "https://telegra.ph/file/af6522abcf8119a9c590c.jpg",
+        "https://telegra.ph/file/5a9c243234ae8cf4b96e9.jpg",
+        "https://telegra.ph/file/ab9315613ea521faed27d.jpg",
+        "https://telegra.ph/file/8426fd66bae7d09fa3d99.jpg",
+        "https://telegra.ph/file/c5a2cc8bc2ddc127aba1a.jpg",
+        "https://telegra.ph/file/6968c58523317b52312d6.jpg"
+    ]
+};

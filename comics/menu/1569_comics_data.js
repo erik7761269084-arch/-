@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1569,
+    "title": "[SOULFLY (ムサシマル)] SOULFLY 7",
+    "sourceUrl": "https://telegra.ph/SOULFLY-ムサシマル-SOULFLY-7-08-31",
+    "images": [
+        "https://telegra.ph/file/77aefe19140dd22a5d283.jpg",
+        "https://telegra.ph/file/1d48d5de91b1af1077bbb.jpg",
+        "https://telegra.ph/file/b372f6c29b4c0928d8447.jpg",
+        "https://telegra.ph/file/a7c9df2f4db6bbcfca2dc.jpg",
+        "https://telegra.ph/file/4545bf780c25a3fa844ac.jpg",
+        "https://telegra.ph/file/d3ad55ba7ec0e82b8f37b.jpg",
+        "https://telegra.ph/file/ea940964d8464c3aea6fe.jpg",
+        "https://telegra.ph/file/78e785a7821f777cbf9b4.jpg",
+        "https://telegra.ph/file/e8188c53722fd1068dd4d.jpg",
+        "https://telegra.ph/file/8c654f8801ca132861c11.jpg",
+        "https://telegra.ph/file/19756e5b3c1cbef6383fd.jpg",
+        "https://telegra.ph/file/ba26906bfa2674b6b5bce.jpg",
+        "https://telegra.ph/file/ac3cb8e9d204cbd5ec39c.jpg",
+        "https://telegra.ph/file/1868f3e887820edfbc24a.jpg",
+        "https://telegra.ph/file/f4e047fa147bf78e51068.jpg",
+        "https://telegra.ph/file/4b41d1ad2e185da8c6f51.jpg",
+        "https://telegra.ph/file/ddff42f2c5a83bb9601d1.jpg",
+        "https://telegra.ph/file/67d3450078b1ff73b1c5b.jpg",
+        "https://telegra.ph/file/588812b783822e63796f9.jpg",
+        "https://telegra.ph/file/c8f9c18792320fe749083.jpg",
+        "https://telegra.ph/file/6f37cd8e79d037b043320.jpg",
+        "https://telegra.ph/file/da54f4ae53f9ee28895d8.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

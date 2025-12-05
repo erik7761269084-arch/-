@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1964,
+    "title": "[jaguchi] 初雪が溶ける頃 (COMIC アオハ 2021冬)",
+    "sourceUrl": "https://telegra.ph/jaguchi-初雪が溶ける頃-COMIC-アオハ-2021冬-08-31",
+    "images": [
+        "https://telegra.ph/file/635f1133ec99437646759.jpg",
+        "https://telegra.ph/file/328bbc19071839156fdb0.jpg",
+        "https://telegra.ph/file/0a5d9fc754ec6cc3d4ac8.jpg",
+        "https://telegra.ph/file/0d27d9a9c4ebff6d7b301.jpg",
+        "https://telegra.ph/file/8c8dea1b8eb28da44e114.jpg",
+        "https://telegra.ph/file/4abf128db4fbfef2d2e00.jpg",
+        "https://telegra.ph/file/e4f0aa9945f9e6005ca4b.jpg",
+        "https://telegra.ph/file/e2e34bd07b177506feffb.jpg",
+        "https://telegra.ph/file/25a35207c66d5ae3ffb56.jpg",
+        "https://telegra.ph/file/3323e3acd20a781680e6c.jpg",
+        "https://telegra.ph/file/fe2c5d1c1f1818b347115.jpg",
+        "https://telegra.ph/file/1cb97516ebf10aa90f8b2.jpg",
+        "https://telegra.ph/file/83ab1c9e807019583955d.jpg",
+        "https://telegra.ph/file/a79faed69b4b29c81a597.jpg",
+        "https://telegra.ph/file/9fda560449aae8eea91cc.jpg",
+        "https://telegra.ph/file/b9197baffb3d74ad32050.jpg",
+        "https://telegra.ph/file/b775d0e42532721255730.jpg",
+        "https://telegra.ph/file/3f295e3dd778b114aa3a7.jpg",
+        "https://telegra.ph/file/ae767ce74a76302262af9.jpg",
+        "https://telegra.ph/file/41d3892f5632435526a2f.jpg",
+        "https://telegra.ph/file/9e3cd26ae11ba09821c8c.jpg",
+        "https://telegra.ph/file/3cb49d20e78d056577fdb.jpg",
+        "https://telegra.ph/file/2ccd639561bfbd176aab6.jpg",
+        "https://telegra.ph/file/7c186b5a1bd8f0a9f2fc6.jpg"
+    ]
+};

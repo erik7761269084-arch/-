@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6029,
+    "title": "[ピジャ] ある暑い日の二人",
+    "sourceUrl": "https://telegra.ph/ピジャ-ある暑い日の二人-08-31",
+    "images": [
+        "https://telegra.ph/file/19895fd4d4b53e38117fe.jpg",
+        "https://telegra.ph/file/d4fbe2bba9685fb79718f.jpg",
+        "https://telegra.ph/file/6f7d1989efd91e47064f2.jpg",
+        "https://telegra.ph/file/f5f829cc5ffbf983807e3.jpg",
+        "https://telegra.ph/file/5902a89dd209b0db34133.jpg",
+        "https://telegra.ph/file/75e6f0e4c065c98e8a5b1.jpg",
+        "https://telegra.ph/file/425622b96c671b32f2301.jpg",
+        "https://telegra.ph/file/ad6c81b650c9c56751250.jpg",
+        "https://telegra.ph/file/2456b72927677da5c6e88.jpg",
+        "https://telegra.ph/file/903034c69cf38aa5715e3.jpg",
+        "https://telegra.ph/file/c08d6c2acf2ab7532736b.jpg",
+        "https://telegra.ph/file/a7068db881ab4b6b86541.jpg",
+        "https://telegra.ph/file/e0f492d5beab6b46b2b5e.jpg",
+        "https://telegra.ph/file/e79d7873bf1c887d24fc5.jpg",
+        "https://telegra.ph/file/1e9f78d88d0ea12652c86.jpg",
+        "https://telegra.ph/file/d5cc428f6a060b7ae73dd.jpg",
+        "https://telegra.ph/file/fbe67be3b071d51ae7d8d.jpg",
+        "https://telegra.ph/file/f75e020d5b9de02520b5a.jpg",
+        "https://telegra.ph/file/386853797ba1d9dc4581b.jpg",
+        "https://telegra.ph/file/b081170267a8260f3a9e9.jpg",
+        "https://telegra.ph/file/bc507fe4ce0fc973a3874.jpg",
+        "https://telegra.ph/file/63f3903533f97cb608b15.jpg",
+        "https://telegra.ph/file/f043b73f36ceb051a5367.jpg",
+        "https://telegra.ph/file/83f70374982f0ff4ad915.jpg",
+        "https://telegra.ph/file/6652313e63af5a16800e4.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 183,
+    "title": "[ちんちん亭 (chin)] 死神羽交い締め (東方Project)",
+    "sourceUrl": "https://telegra.ph/ちんちん亭-chin-死神羽交い締め-東方Project-08-31-2",
+    "images": [
+        "https://telegra.ph/file/168cb8ff3a2435e6cf6ef.png",
+        "https://telegra.ph/file/1b33bedb0ff0ea65a00cc.png",
+        "https://telegra.ph/file/608a3ec57fe0f18ca2b76.jpg",
+        "https://telegra.ph/file/b3ae27616eb2c634dc375.jpg",
+        "https://telegra.ph/file/40d6d2a8ff7d3bc1fc76f.jpg",
+        "https://telegra.ph/file/3dd659b0a1c9f409cbcde.jpg",
+        "https://telegra.ph/file/93d44074c84ab44a6c051.jpg",
+        "https://telegra.ph/file/7a953e31d04a1acea2f86.jpg",
+        "https://telegra.ph/file/470250bc1f08c11d2ed68.jpg",
+        "https://telegra.ph/file/d964f70719c8b1a6784a9.jpg",
+        "https://telegra.ph/file/45f22ba15350c8be71f93.jpg",
+        "https://telegra.ph/file/12c3439f62fdd173a2fe5.jpg",
+        "https://telegra.ph/file/1880af34254d722ce05bd.jpg",
+        "https://telegra.ph/file/6859f85c2a67318da26f1.jpg",
+        "https://telegra.ph/file/086424a28c1a0b608f21a.jpg",
+        "https://telegra.ph/file/7411deb2114dbf9493c6e.jpg",
+        "https://telegra.ph/file/0946d6fa1a981f8901ba4.jpg",
+        "https://telegra.ph/file/cb764f23022b3e6c476f6.jpg",
+        "https://telegra.ph/file/ae2f790b51e18a18486cb.jpg",
+        "https://telegra.ph/file/9f6d74b888605b9a8ecda.jpg",
+        "https://telegra.ph/file/c84579a6503ae61db7512.jpg",
+        "https://telegra.ph/file/7b87cdfe8f5ed8ec6f31f.jpg",
+        "https://telegra.ph/file/9a2d32dd60ca9989fce8b.jpg",
+        "https://telegra.ph/file/b22d442e0e91fe1a9c04c.jpg",
+        "https://telegra.ph/file/a310312bcb3d1884efadf.jpg",
+        "https://telegra.ph/file/d7a27837ff19dbfc454ce.jpg"
+    ]
+};

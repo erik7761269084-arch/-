@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3185,
+    "title": "[Reco] 白い菫 (COMIC 快楽天 2021年6月号)",
+    "sourceUrl": "https://telegra.ph/Reco-白い菫-COMIC-快楽天-2021年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1b24ce85f40bbf37b35a9.jpg",
+        "https://telegra.ph/file/f49804a98c3251cc34f0b.jpg",
+        "https://telegra.ph/file/990416aef27b722b283bd.jpg",
+        "https://telegra.ph/file/0c1d727b4dc5e692c156c.jpg",
+        "https://telegra.ph/file/0a1c5a2cd57f42c006391.jpg",
+        "https://telegra.ph/file/76dd3a4243f7a741eaf72.jpg",
+        "https://telegra.ph/file/cc13f0ea2be73ad9a2bbd.jpg",
+        "https://telegra.ph/file/12a69c4b396c2dbbfea2b.jpg",
+        "https://telegra.ph/file/0abd64b6637c062f34cde.jpg",
+        "https://telegra.ph/file/863c6675ec9dc345ccca7.jpg",
+        "https://telegra.ph/file/be07067d59f1b36c03e3c.jpg",
+        "https://telegra.ph/file/83ef4d7cbb6b4c3647310.jpg",
+        "https://telegra.ph/file/2012662c52a381c5727fc.jpg",
+        "https://telegra.ph/file/5b24a31796379388eaeb6.jpg",
+        "https://telegra.ph/file/3ec2b7ef1b989b6357cdf.jpg",
+        "https://telegra.ph/file/a53890763f65098e17266.jpg",
+        "https://telegra.ph/file/e88dd01d5f032e793ce8a.jpg",
+        "https://telegra.ph/file/8a68853787b4a68b4f01c.jpg",
+        "https://telegra.ph/file/df7531936c55ba9af677b.jpg",
+        "https://telegra.ph/file/f6a457a7a6921cd2b88b0.jpg",
+        "https://telegra.ph/file/24a5962190ab17968d437.jpg",
+        "https://telegra.ph/file/261b44c53a0dbf590d3b7.jpg",
+        "https://telegra.ph/file/041e870c0d4f9afbde3f2.jpg",
+        "https://telegra.ph/file/0e385ec98987d632e23e1.jpg",
+        "https://telegra.ph/file/d35216f9de10d501da5b2.jpg",
+        "https://telegra.ph/file/ac7e273720ba4fe128e33.png"
+    ]
+};

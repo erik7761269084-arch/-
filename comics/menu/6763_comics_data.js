@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6763,
+    "title": "[篠塚裕志] ニガテな同級生",
+    "sourceUrl": "https://telegra.ph/篠塚裕志-ニガテな同級生-08-31",
+    "images": [
+        "https://telegra.ph/file/aaebbaa53164014c12c1e.jpg",
+        "https://telegra.ph/file/737e381fd03e35ac1f829.jpg",
+        "https://telegra.ph/file/485e4409ee53963ba3c23.jpg",
+        "https://telegra.ph/file/bc7ee0f278102ecca8d90.jpg",
+        "https://telegra.ph/file/d1cb4c160c69f3a15352f.jpg",
+        "https://telegra.ph/file/2a237fb05f7a13ace07ef.jpg",
+        "https://telegra.ph/file/a45a69efaf0f826d2bd27.jpg",
+        "https://telegra.ph/file/edde298e09358c1684200.jpg",
+        "https://telegra.ph/file/536456afc6c3a115183bf.jpg",
+        "https://telegra.ph/file/86ac4b4a792be47101c91.jpg",
+        "https://telegra.ph/file/6fbe7b74d48c2996c1ae2.jpg",
+        "https://telegra.ph/file/aed1ab51e90dd37dbc99e.jpg",
+        "https://telegra.ph/file/8ca60ca06f60710d086c5.jpg",
+        "https://telegra.ph/file/d4c05eb29dc6efd0971e8.jpg",
+        "https://telegra.ph/file/c9ef8c1188e8b6e504196.jpg",
+        "https://telegra.ph/file/7b8aab7273d82692068b1.jpg",
+        "https://telegra.ph/file/5c9ba2a930c0193d762b9.jpg",
+        "https://telegra.ph/file/459fd4834c69cbe7f5b14.jpg",
+        "https://telegra.ph/file/14d301b774b9aa654e07f.jpg",
+        "https://telegra.ph/file/f61897dc720a519bae2a2.jpg",
+        "https://telegra.ph/file/2c5a1147556160378db40.jpg",
+        "https://telegra.ph/file/4ad2658da6068bb6c8938.jpg",
+        "https://telegra.ph/file/59ddfd94d854b4bb53044.jpg",
+        "https://telegra.ph/file/77d9558fc0b49f5e8e913.jpg"
+    ]
+};

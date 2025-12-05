@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4608,
+    "title": "[あいらんどう] 先生おちんちん見せてください! (COMIC LO 2021年7月号)",
+    "sourceUrl": "https://telegra.ph/あいらんどう-先生おちんちん見せてください-COMIC-LO-2021年7月号-08-31",
+    "images": [
+        "https://telegra.ph/file/2a1af4b38d6777f60ce22.jpg",
+        "https://telegra.ph/file/53798240830144b0f9b3e.jpg",
+        "https://telegra.ph/file/00639fe0a172ec55da124.jpg",
+        "https://telegra.ph/file/76b532d81f73b3f95ff53.jpg",
+        "https://telegra.ph/file/753bbb0d23d2662643e21.jpg",
+        "https://telegra.ph/file/308938fcd1759519c2c9f.jpg",
+        "https://telegra.ph/file/03d7bb18876dcfda45704.jpg",
+        "https://telegra.ph/file/985f747afd89cd012b984.jpg",
+        "https://telegra.ph/file/8ff6472dfd0c9f4aac210.jpg",
+        "https://telegra.ph/file/e9083ebf39b1de94547ad.jpg",
+        "https://telegra.ph/file/e7e16827cee3882bff5e0.jpg",
+        "https://telegra.ph/file/5c796bdebd7a8148f1e4d.jpg",
+        "https://telegra.ph/file/bcb6894682d82194189f0.jpg",
+        "https://telegra.ph/file/841e8abdc10c28212d09d.jpg",
+        "https://telegra.ph/file/b0692252a5f4e9d5a9ced.jpg",
+        "https://telegra.ph/file/8ce39b0fa97144328fa13.jpg",
+        "https://telegra.ph/file/6ced4599a9450753e4446.jpg",
+        "https://telegra.ph/file/c65577adc8a747642ec35.jpg",
+        "https://telegra.ph/file/f6b98c2796ce630458cbd.jpg",
+        "https://telegra.ph/file/90fcf760a7bfcaa08ccb5.jpg",
+        "https://telegra.ph/file/648d603c6f7a9ae30904d.jpg",
+        "https://telegra.ph/file/b7efeee0aaf3454b137a4.jpg",
+        "https://telegra.ph/file/795d2bca865ec6b699c54.jpg",
+        "https://telegra.ph/file/e1e3e51139b4f9e631a8f.jpg",
+        "https://telegra.ph/file/bbbfda2f999f341797d09.jpg",
+        "https://telegra.ph/file/c67953a11e74ff1c30398.jpg"
+    ]
+};

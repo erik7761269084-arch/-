@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2070,
+    "title": "[カシスかぼす (ありあ。)] ナツメづくし",
+    "sourceUrl": "https://telegra.ph/カシスかぼす-ありあ-ナツメづくし-08-31",
+    "images": [
+        "https://telegra.ph/file/6e3a714844cc88a438b39.jpg",
+        "https://telegra.ph/file/5dcd5c003ebcaca2b8a0f.jpg",
+        "https://telegra.ph/file/25e4648a30925b5274296.jpg",
+        "https://telegra.ph/file/189cc4407ab64e60d9d9a.jpg",
+        "https://telegra.ph/file/805a42625dce50d1c505d.jpg",
+        "https://telegra.ph/file/67b52d621fd0cc6bd72f2.jpg",
+        "https://telegra.ph/file/1c6dd725e770e3e6f9893.jpg",
+        "https://telegra.ph/file/b43dd2420595f65c897f8.jpg",
+        "https://telegra.ph/file/adc50d4b31d86b9c67766.jpg",
+        "https://telegra.ph/file/d28d5674da0c1d1144539.jpg",
+        "https://telegra.ph/file/d79d3bc43de703ca4a986.jpg",
+        "https://telegra.ph/file/b885b7c23b6a69650b074.jpg",
+        "https://telegra.ph/file/3090c2d3f167190ea0c60.jpg",
+        "https://telegra.ph/file/65e1cc4e203c04111f008.jpg",
+        "https://telegra.ph/file/a8efebeb4b5f6971c3593.jpg",
+        "https://telegra.ph/file/74981922f4534e6b54818.jpg",
+        "https://telegra.ph/file/fd3776267afb66886360e.jpg",
+        "https://telegra.ph/file/bedba91598e934083ac9c.jpg",
+        "https://telegra.ph/file/65c51a64555e5c6986ef7.jpg",
+        "https://telegra.ph/file/1098715de2609bb430268.jpg",
+        "https://telegra.ph/file/b602d5258d5a4f051f7f8.jpg",
+        "https://telegra.ph/file/69d192c319b433eed4098.jpg",
+        "https://telegra.ph/file/4bc7ccdafe07afc936686.jpg",
+        "https://telegra.ph/file/29c760516e8529a18104f.jpg",
+        "https://telegra.ph/file/efddb01d4f9dd4000fdaf.jpg",
+        "https://telegra.ph/file/7f910435fd3692355bbb1.jpg"
+    ]
+};

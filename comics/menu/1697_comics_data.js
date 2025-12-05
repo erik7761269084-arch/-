@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1697,
+    "title": "[生ナマシャンディガフ (nf4)] あとらんてぃす Investigation (ワトソン・アメリア、がうる・ぐら)",
+    "sourceUrl": "https://telegra.ph/生ナマシャンディガフ-nf4-あとらんてぃす-Investigation-ワトソンアメリアがうるぐら-08-31",
+    "images": [
+        "https://telegra.ph/file/c584994deb1b3ccf03f3a.jpg",
+        "https://telegra.ph/file/cf6ae283dfe27a0b979de.jpg",
+        "https://telegra.ph/file/2d124ccd19e5fdf40e8a6.jpg",
+        "https://telegra.ph/file/cd852dfbe809fc0a6d24f.jpg",
+        "https://telegra.ph/file/9b41e4ad72ed9dfc92d12.jpg",
+        "https://telegra.ph/file/00634aaef0b363a8c3ff3.jpg",
+        "https://telegra.ph/file/a1ae8dd9d27b784c3df76.jpg",
+        "https://telegra.ph/file/bce172fa12692103a7cb7.jpg",
+        "https://telegra.ph/file/83b5f3f14e0fefd9b4727.jpg",
+        "https://telegra.ph/file/98af55ee048b36a524a28.jpg",
+        "https://telegra.ph/file/daa3344de132c5881c654.jpg",
+        "https://telegra.ph/file/1c5230fa51ba26937aa58.jpg",
+        "https://telegra.ph/file/982613ff56ed56f2a34c4.jpg",
+        "https://telegra.ph/file/22e15fb5d49449c9f0345.jpg",
+        "https://telegra.ph/file/cbec387d3e7e8371564f5.jpg",
+        "https://telegra.ph/file/a85e74fc3d86900e7de54.jpg",
+        "https://telegra.ph/file/d4cfaebb23bc3975590f8.jpg",
+        "https://telegra.ph/file/3009c12d5225a7512553b.jpg",
+        "https://telegra.ph/file/2d30ec436e628a2da17b1.jpg",
+        "https://telegra.ph/file/be6a98749a37aef9deb2a.jpg",
+        "https://telegra.ph/file/c029d1b1cc16125f46f66.jpg",
+        "https://telegra.ph/file/52dff15a23dd1a6364147.jpg",
+        "https://telegra.ph/file/7ac5efb48e30c9bd7861a.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

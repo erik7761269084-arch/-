@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7177,
+    "title": "ご主人様と奴隷の妻",
+    "sourceUrl": "https://telegra.ph/ご主人様と奴隷の妻-08-31",
+    "images": [
+        "https://telegra.ph/file/12178692dc199984dfa78.jpg",
+        "https://telegra.ph/file/40e4c84abcb1dd3769a4f.jpg",
+        "https://telegra.ph/file/0b1d33f73406da08d316a.jpg",
+        "https://telegra.ph/file/e67a172f54fcef158a8c7.jpg",
+        "https://telegra.ph/file/bd61289036b94d460989a.jpg",
+        "https://telegra.ph/file/e8dba55aacca454861ff1.jpg",
+        "https://telegra.ph/file/bae7ec27691ee5ce4d9db.jpg",
+        "https://telegra.ph/file/afd6e5952c68626518240.jpg",
+        "https://telegra.ph/file/9621f8c3f9125cf2e5191.jpg",
+        "https://telegra.ph/file/bffa0acfc126dbb507045.jpg",
+        "https://telegra.ph/file/fae131c70049421a61748.jpg",
+        "https://telegra.ph/file/b5c697e37f0e9bbc8e953.jpg",
+        "https://telegra.ph/file/339ae81f47e149dc10f87.jpg",
+        "https://telegra.ph/file/ca5db1b425715004b104f.jpg",
+        "https://telegra.ph/file/9298a0a88bdcbbafba19e.jpg",
+        "https://telegra.ph/file/eeeaf7f83d385f764fdac.jpg",
+        "https://telegra.ph/file/9580c4d1ca4e487226d68.jpg",
+        "https://telegra.ph/file/8f4332c4577c0e3fae51b.jpg",
+        "https://telegra.ph/file/6cead2b328144257027fa.jpg",
+        "https://telegra.ph/file/5965f0d5ee091d4dfa154.jpg",
+        "https://telegra.ph/file/91361ab5edae87d8c832e.jpg",
+        "https://telegra.ph/file/df3b02dde256d335e2776.jpg",
+        "https://telegra.ph/file/8e047bbd396128e5e778f.jpg",
+        "https://telegra.ph/file/9ab93d62ef947042681c7.jpg"
+    ]
+};

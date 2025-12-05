@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5424,
+    "title": "[箕山] 戀の病",
+    "sourceUrl": "https://telegra.ph/箕山-戀の病-08-31",
+    "images": [
+        "https://telegra.ph/file/e92292d8e96e7ef26143e.jpg",
+        "https://telegra.ph/file/451874e487ee743c6a2aa.jpg",
+        "https://telegra.ph/file/51bc5404e0edee58c48c7.jpg",
+        "https://telegra.ph/file/1876f246d9550ca005608.jpg",
+        "https://telegra.ph/file/7198d2f0abb2b59b21212.jpg",
+        "https://telegra.ph/file/b1274c99caef199473274.jpg",
+        "https://telegra.ph/file/854520db84e311095fd72.jpg",
+        "https://telegra.ph/file/29cf0eca2b8b7a1852c86.jpg",
+        "https://telegra.ph/file/8a35f90fe8bf181be25b4.jpg",
+        "https://telegra.ph/file/20711b0941de84e76c5ba.jpg",
+        "https://telegra.ph/file/47136dcffc57934ed6e57.jpg",
+        "https://telegra.ph/file/27a49e2c77fd9a2348c58.jpg",
+        "https://telegra.ph/file/25c5085819da4b75e9d41.jpg",
+        "https://telegra.ph/file/4b69e56ca280838a77c83.jpg",
+        "https://telegra.ph/file/8a410aeeba342a6eb2d09.jpg",
+        "https://telegra.ph/file/495a5bc1e51e052cfe323.jpg",
+        "https://telegra.ph/file/009eb3fd3d337214930ff.jpg",
+        "https://telegra.ph/file/cca0013855a6ec3f67bf5.jpg",
+        "https://telegra.ph/file/42f175ede523ec0202809.jpg",
+        "https://telegra.ph/file/25c9f347a0f2375035508.jpg",
+        "https://telegra.ph/file/54d6e7c384b2e1fd93d23.jpg",
+        "https://telegra.ph/file/67f9470679cad7cb8c8d6.jpg",
+        "https://telegra.ph/file/ffe3d610c2fb5b7b3e6c4.jpg",
+        "https://telegra.ph/file/438bacaa6a3e544c75ccd.jpg",
+        "https://telegra.ph/file/08c23264a743045b01007.jpg",
+        "https://telegra.ph/file/5a76b0f813bed35d81299.jpg"
+    ]
+};

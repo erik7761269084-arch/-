@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6347,
+    "title": "[でこちんハンマー] Olet nubes -匂い立つは思春期少女-",
+    "sourceUrl": "https://telegra.ph/でこちんハンマー-Olet-nubes--匂い立つは思春期少女-08-31",
+    "images": [
+        "https://telegra.ph/file/6b39169b023c3768f4d9d.png",
+        "https://telegra.ph/file/4bce1d571206ca03bb562.png",
+        "https://telegra.ph/file/62b7ac8e77f661752f1de.png",
+        "https://telegra.ph/file/5f3d2d57f00929338e4ff.png",
+        "https://telegra.ph/file/aa0b63eadf10c0a463bbb.png",
+        "https://telegra.ph/file/25c399a644ba692cdb756.png",
+        "https://telegra.ph/file/3a15cf6cf9dec2218b2e4.png",
+        "https://telegra.ph/file/0383f1c432536350b6d27.png",
+        "https://telegra.ph/file/27f00fb038439c910d033.png",
+        "https://telegra.ph/file/66f6212567abc3c00302f.png",
+        "https://telegra.ph/file/8de963c672be6fec4b39e.png",
+        "https://telegra.ph/file/8880fae5b60aae2b1fa5a.png",
+        "https://telegra.ph/file/f8d1da38cbfaec3ba4d42.png",
+        "https://telegra.ph/file/82063775e771b4341f4a5.png",
+        "https://telegra.ph/file/68c2169931d38e06e98b6.png",
+        "https://telegra.ph/file/b4042fab77edd40accae8.png",
+        "https://telegra.ph/file/a47dd39f9cb3c2c9e050d.png",
+        "https://telegra.ph/file/6a55d1cd845269b25ccef.png",
+        "https://telegra.ph/file/9d5529aeb5f52c4c8dad7.png",
+        "https://telegra.ph/file/e8cb80562a6907b604e3b.png",
+        "https://telegra.ph/file/9c002ba7df3d4d12a3fda.png",
+        "https://telegra.ph/file/f857c96f68c24d7e148f1.png",
+        "https://telegra.ph/file/2e03bfadbcb28d7e75899.png",
+        "https://telegra.ph/file/d2ed48895c7585473c182.png"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3345,
+    "title": "[砂漠] 妹のともだち Homecoming (COMIC LO 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/砂漠-妹のともだち-Homecoming-COMIC-LO-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7cd03bf9aa1f3e60a29e6.jpg",
+        "https://telegra.ph/file/c8f72add2c2f63144c845.jpg",
+        "https://telegra.ph/file/130764826cbe0ec335660.jpg",
+        "https://telegra.ph/file/c909584772f3f9f3926f2.jpg",
+        "https://telegra.ph/file/93784e9a9d152478b556b.jpg",
+        "https://telegra.ph/file/4815c8080f5800b6d331a.jpg",
+        "https://telegra.ph/file/7458181f7e8a2fff89446.jpg",
+        "https://telegra.ph/file/db33d1a23f3aae268826f.jpg",
+        "https://telegra.ph/file/73a0f795457acacbcdb0a.jpg",
+        "https://telegra.ph/file/59ede8b4b21ca9b783fc1.jpg",
+        "https://telegra.ph/file/023a6d9a32e67796b059d.jpg",
+        "https://telegra.ph/file/a68e2b2a6eb122664d31e.jpg",
+        "https://telegra.ph/file/1029932c24d0055380758.jpg",
+        "https://telegra.ph/file/72bc0f8624428af20c94c.jpg",
+        "https://telegra.ph/file/33a358384c4e417a2ccd8.jpg",
+        "https://telegra.ph/file/53b06024799b2d14826f9.jpg",
+        "https://telegra.ph/file/8a3b6882e06c47678ea30.jpg",
+        "https://telegra.ph/file/c0670740fd1ecc3612c11.jpg",
+        "https://telegra.ph/file/fee179f3291696fbb89c1.jpg",
+        "https://telegra.ph/file/b3acd671104a91bde22c7.jpg",
+        "https://telegra.ph/file/2c90427a969161870320c.jpg",
+        "https://telegra.ph/file/eeb0ea373cd282a428033.jpg",
+        "https://telegra.ph/file/db5878a4834de97f6ecf9.jpg",
+        "https://telegra.ph/file/f8c4f559d14af60a83229.jpg",
+        "https://telegra.ph/file/e3f72c79636ae21c70587.jpg",
+        "https://telegra.ph/file/f84f8e759c8c47c002bca.jpg"
+    ]
+};

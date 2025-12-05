@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6626,
+    "title": "ようこそ超川内特区 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/ようこそ超川内特区-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/7229f25d2b244ec742893.jpg",
+        "https://telegra.ph/file/a0140c25075f227504062.jpg",
+        "https://telegra.ph/file/f981f48f8b084a862ccd6.jpg",
+        "https://telegra.ph/file/0343aae0a463d89a87e39.jpg",
+        "https://telegra.ph/file/9e875ef474b2ca12bcfda.jpg",
+        "https://telegra.ph/file/774f0689acfe660d6bde8.jpg",
+        "https://telegra.ph/file/ba01f81b062a0059f986d.jpg",
+        "https://telegra.ph/file/b4e5a50b591c6d510c624.jpg",
+        "https://telegra.ph/file/e1713f7a40cb07759e450.jpg",
+        "https://telegra.ph/file/a8cb7a65b29a9ed3fdc48.jpg",
+        "https://telegra.ph/file/d28af98a53d21dc0ef3ed.jpg",
+        "https://telegra.ph/file/86c65a9b3c3fb30963a5c.jpg",
+        "https://telegra.ph/file/61121807d57fb6f3b855f.jpg",
+        "https://telegra.ph/file/292814910d27670e6a16d.jpg",
+        "https://telegra.ph/file/395bac493d9e07cd7faa8.jpg",
+        "https://telegra.ph/file/b2d5a962d132793187ba0.jpg",
+        "https://telegra.ph/file/e8635a95e83c158d5b38a.jpg",
+        "https://telegra.ph/file/68c56df58951790970af6.jpg",
+        "https://telegra.ph/file/f335d6d534c0bf2586f02.jpg",
+        "https://telegra.ph/file/e1957ea4fd75cbb2cc63b.jpg",
+        "https://telegra.ph/file/6abc72201c73012722ea7.jpg",
+        "https://telegra.ph/file/da672cc16d3cd9871462e.jpg",
+        "https://telegra.ph/file/3c27e414536a1cfb7d638.jpg",
+        "https://telegra.ph/file/586910ad6f3039fcd2da4.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6074,
+    "title": "[Cuvie] うそつきにはナニ飲ます-",
+    "sourceUrl": "https://telegra.ph/Cuvie-うそつきにはナニ飲ます-08-31",
+    "images": [
+        "https://telegra.ph/file/4526dfd6b20648a6257c6.jpg",
+        "https://telegra.ph/file/58f2c6c67bf964a7bdb75.jpg",
+        "https://telegra.ph/file/0559180dc0bd3165f3cb8.jpg",
+        "https://telegra.ph/file/902dc062c02183ac15361.jpg",
+        "https://telegra.ph/file/92b9c2e569b053101dc9d.jpg",
+        "https://telegra.ph/file/27c4fb32ef8d9ffb3b57d.jpg",
+        "https://telegra.ph/file/e916ce46e0e2e714b92ba.jpg",
+        "https://telegra.ph/file/1bede31e794ca32d8fc76.jpg",
+        "https://telegra.ph/file/0b233a198e13fac3073e3.jpg",
+        "https://telegra.ph/file/250bad9142d684c2cd6a5.jpg",
+        "https://telegra.ph/file/65748a25f5a6be6069287.jpg",
+        "https://telegra.ph/file/baec729ff520e52023b45.jpg",
+        "https://telegra.ph/file/d41bb27002dbf96454902.jpg",
+        "https://telegra.ph/file/9b53a9ed33a1c70d4b393.jpg",
+        "https://telegra.ph/file/7f939defe48227e697476.jpg",
+        "https://telegra.ph/file/d198ac216d9ae81d257e5.jpg",
+        "https://telegra.ph/file/a021cee3be715f851f2b5.jpg",
+        "https://telegra.ph/file/6439c3465ccc73c770050.jpg",
+        "https://telegra.ph/file/3266a47efb1d0e7b8f8bb.jpg",
+        "https://telegra.ph/file/95c2cf2d0c21abc219ca6.jpg",
+        "https://telegra.ph/file/9f28e7137976276f2636a.jpg",
+        "https://telegra.ph/file/a48505f9178ffb72b1b02.jpg",
+        "https://telegra.ph/file/8a05ab772ecbf384fb865.jpg",
+        "https://telegra.ph/file/10deaf2fc4479dd4213c5.jpg",
+        "https://telegra.ph/file/4ee46a96a2085c31b8332.jpg",
+        "https://telegra.ph/file/5dd0be93dbbd7d1c8d542.jpg"
+    ]
+};

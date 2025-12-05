@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4901,
+    "title": "[越後屋タケル] 遊撃少女アタルちゃん (COMIC アンスリウム 2018年8月号)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/越後屋タケル-遊撃少女アタルちゃん-COMIC-アンスリウム-2018年8月号-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/e168548b0e655ae19c3f3.jpg",
+        "https://telegra.ph/file/6f2f9aa7d54aec378ef14.jpg",
+        "https://telegra.ph/file/858922f2bf2c80fa7c2d9.jpg",
+        "https://telegra.ph/file/d03232bb0e651d30987bb.jpg",
+        "https://telegra.ph/file/00426cd199d16cd044c95.jpg",
+        "https://telegra.ph/file/2370d1a0aae3464d15ac4.jpg",
+        "https://telegra.ph/file/45c442c39eaefd62b6a53.jpg",
+        "https://telegra.ph/file/1df36ed09dcf9149f342e.jpg",
+        "https://telegra.ph/file/d3749a4b4a8ec7ef6ce07.jpg",
+        "https://telegra.ph/file/30c523318e1f8af82882d.jpg",
+        "https://telegra.ph/file/0afb984e4cc2a32f21eda.jpg",
+        "https://telegra.ph/file/a5b55d0ca427f4fa1e430.jpg",
+        "https://telegra.ph/file/5e02216c1c0f543b2a696.jpg",
+        "https://telegra.ph/file/85dde6c69c38a2fdc9707.jpg",
+        "https://telegra.ph/file/d2c639cc1bee23c9f0017.jpg",
+        "https://telegra.ph/file/ad14e80d4f333651e0a9c.jpg",
+        "https://telegra.ph/file/17ff2ce38da2662de9364.jpg",
+        "https://telegra.ph/file/14d2870bc462e0baff4c0.jpg",
+        "https://telegra.ph/file/2f86445e1eb547f8acf61.jpg",
+        "https://telegra.ph/file/b1d0842a567480f1956d2.jpg",
+        "https://telegra.ph/file/71789b4b83020754f328c.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ]
+};

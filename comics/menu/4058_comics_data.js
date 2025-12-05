@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4058,
+    "title": "[Pixiv] さとうちーふ (FGO部分汉化) (2881905)",
+    "sourceUrl": "https://telegra.ph/Pixiv-さとうちーふ-FGO部分汉化-2881905-08-31",
+    "images": [
+        "https://telegra.ph/file/44e3b2488c84f1cd4c52c.jpg",
+        "https://telegra.ph/file/beff93f3758da983cf437.jpg",
+        "https://telegra.ph/file/65756fe917bed0c3ae26e.jpg",
+        "https://telegra.ph/file/14ab1c39301e8347400ee.jpg",
+        "https://telegra.ph/file/72db2b815a3952c659662.jpg",
+        "https://telegra.ph/file/3adfb9d636e9b6cf47ffa.jpg",
+        "https://telegra.ph/file/134c761fd94f4e88af4c0.jpg",
+        "https://telegra.ph/file/797df964b8a78cd086d5c.jpg",
+        "https://telegra.ph/file/6116849bdc061b80b149f.jpg",
+        "https://telegra.ph/file/aabf3aa72186421c420bc.jpg",
+        "https://telegra.ph/file/89e21a5c634f2acc46f9e.jpg",
+        "https://telegra.ph/file/37e6c1cc77980d739f15f.jpg",
+        "https://telegra.ph/file/43c5917d913db41cac7f6.jpg",
+        "https://telegra.ph/file/9c0bcaa49c8b8cd447b92.jpg",
+        "https://telegra.ph/file/eb7e6ec92f0b066c0d9d3.jpg",
+        "https://telegra.ph/file/12168fa93abb9600f5801.jpg",
+        "https://telegra.ph/file/222bc95be2f6019407f95.jpg",
+        "https://telegra.ph/file/8c6bb6b6185da6e5b14cd.jpg",
+        "https://telegra.ph/file/77494f6a4bb869558b407.jpg",
+        "https://telegra.ph/file/45f93fb3f397af506a6d3.jpg",
+        "https://telegra.ph/file/0e326314d3367d2c86e05.jpg",
+        "https://telegra.ph/file/f4061a1dde2786f419055.jpg",
+        "https://telegra.ph/file/efdc32d2fe55ee76a08d4.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ]
+};

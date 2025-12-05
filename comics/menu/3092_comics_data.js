@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3092,
+    "title": "[久川ちん] スケベな騎士団があらわれた! (コミック エグゼ 34)",
+    "sourceUrl": "https://telegra.ph/久川ちん-スケベな騎士団があらわれた-コミック-エグゼ-34-08-31",
+    "images": [
+        "https://telegra.ph/file/3ea06f32a363a0d2fdea8.jpg",
+        "https://telegra.ph/file/69a9ac77e1fa173512ee3.jpg",
+        "https://telegra.ph/file/27430b6798ab53f314dce.jpg",
+        "https://telegra.ph/file/218cdb43e52ff282499af.jpg",
+        "https://telegra.ph/file/ae54cee7b26606fd3c548.jpg",
+        "https://telegra.ph/file/2bbb2d54f4fc8b4376b8c.jpg",
+        "https://telegra.ph/file/bf1e3e57a9ccded2d0bfd.jpg",
+        "https://telegra.ph/file/8cbd7bc75780dfa8eb58a.jpg",
+        "https://telegra.ph/file/1e0af43e19be14abc6850.jpg",
+        "https://telegra.ph/file/7c0185c3636d974bbfa42.jpg",
+        "https://telegra.ph/file/d016b83ad9c49afe1df84.jpg",
+        "https://telegra.ph/file/383fbbe6a2d1709e9a963.jpg",
+        "https://telegra.ph/file/93845d3914e1047d15e4b.jpg",
+        "https://telegra.ph/file/44dded4804b9c618e14d7.jpg",
+        "https://telegra.ph/file/ce20914e91de51be768da.jpg",
+        "https://telegra.ph/file/665026d4c97c4c9cd119b.jpg",
+        "https://telegra.ph/file/39fe814e9c81992e68883.jpg",
+        "https://telegra.ph/file/5fce24d3d6c1c7f387e80.jpg",
+        "https://telegra.ph/file/9ba13a17600f6a4bb3d5f.jpg",
+        "https://telegra.ph/file/f53452ab69f2067de5c0c.jpg",
+        "https://telegra.ph/file/5444c370c61e707c880c7.jpg",
+        "https://telegra.ph/file/4980f9f97e71be914ca36.jpg",
+        "https://telegra.ph/file/9685a6dfa97e45ca270c0.jpg",
+        "https://telegra.ph/file/edc1f2a25edf389a96705.jpg"
+    ]
+};

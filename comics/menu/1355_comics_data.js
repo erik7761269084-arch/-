@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1355,
+    "title": "[まめぞう] やったらやっぱりすごかった (COMIC LO 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/まめぞう-やったらやっぱりすごかった-COMIC-LO-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/e9b9a897e4ff93a7f39b9.jpg",
+        "https://telegra.ph/file/b6e233a877d33906e0f67.jpg",
+        "https://telegra.ph/file/a20d04301876f642753bf.jpg",
+        "https://telegra.ph/file/d50fe11ce6214eaf78153.jpg",
+        "https://telegra.ph/file/a0d6ee7e7a2db7f8ea332.jpg",
+        "https://telegra.ph/file/4abd410a0438f3cfee4d2.jpg",
+        "https://telegra.ph/file/3253f39265b3dcd882033.jpg",
+        "https://telegra.ph/file/1e839c1bc49b4e5a52973.jpg",
+        "https://telegra.ph/file/30cf05c68157885c8d261.jpg",
+        "https://telegra.ph/file/fb29d0eeb478061b6d7d5.jpg",
+        "https://telegra.ph/file/8854d9f0e1995fe291dc5.jpg",
+        "https://telegra.ph/file/ee1a3e4f87c6a00657dd3.jpg",
+        "https://telegra.ph/file/290edbf4cb550f9f6b9ef.jpg",
+        "https://telegra.ph/file/fa9fd515759a5bbfac0e1.jpg",
+        "https://telegra.ph/file/3482c53eee5e433058a86.jpg",
+        "https://telegra.ph/file/ca8d5670c6481a314ad15.jpg",
+        "https://telegra.ph/file/220cd50c9eb5a080eebd9.jpg",
+        "https://telegra.ph/file/a4a8952b6280de7bbf76d.jpg",
+        "https://telegra.ph/file/085374e17c09c7ef6d58b.jpg",
+        "https://telegra.ph/file/32931ffa626d85701cac5.jpg",
+        "https://telegra.ph/file/acbe979c639c30715c138.jpg",
+        "https://telegra.ph/file/036303ad292b8cd415968.jpg",
+        "https://telegra.ph/file/0997fad87b9f96719b6c4.jpg",
+        "https://telegra.ph/file/4726b41bc4419be47c6cd.jpg",
+        "https://telegra.ph/file/43b056c40c94a72a41f02.jpg",
+        "https://telegra.ph/file/4ec1f7fbcae73e23ba297.jpg"
+    ]
+};

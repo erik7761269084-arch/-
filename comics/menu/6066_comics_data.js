@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6066,
+    "title": "[四方塚ツカサ] 倒錯ヘヴン",
+    "sourceUrl": "https://telegra.ph/四方塚ツカサ-倒錯ヘヴン-08-31-2",
+    "images": [
+        "https://telegra.ph/file/7d11867a00d36248c895f.jpg",
+        "https://telegra.ph/file/2f125d912d9ed8d12640f.jpg",
+        "https://telegra.ph/file/79027131be55d812f7a4d.jpg",
+        "https://telegra.ph/file/cedcd5a228cc627409e1b.jpg",
+        "https://telegra.ph/file/bbe4494ac5aca522b6b88.jpg",
+        "https://telegra.ph/file/e9ab114687e817276445d.jpg",
+        "https://telegra.ph/file/8135da273ab0b69ac7b08.jpg",
+        "https://telegra.ph/file/075c45d0136818c5bca61.jpg",
+        "https://telegra.ph/file/62861559d80de37b4bdbd.jpg",
+        "https://telegra.ph/file/023ee45e5be6eaa1e5d0e.jpg",
+        "https://telegra.ph/file/6ebcf7400db48435a0607.jpg",
+        "https://telegra.ph/file/8ae5e10c15205d2c25a59.jpg",
+        "https://telegra.ph/file/9410fb7baf80bb88a226e.jpg",
+        "https://telegra.ph/file/0880676b7d900c051f961.jpg",
+        "https://telegra.ph/file/4af1d81a5436d272e2b8d.jpg",
+        "https://telegra.ph/file/24fbd1433e787e5357732.jpg",
+        "https://telegra.ph/file/9a1a5cea0bb354780abe5.jpg",
+        "https://telegra.ph/file/c675e6445267d273956fc.jpg",
+        "https://telegra.ph/file/f4cdabf73e6d1581f111c.jpg",
+        "https://telegra.ph/file/3b6e48d620acff2881f40.jpg",
+        "https://telegra.ph/file/30487ac6fcfb4f6cbba76.jpg",
+        "https://telegra.ph/file/b41e903bdd14540b564fd.jpg",
+        "https://telegra.ph/file/9fbe64bf0f73c1f889c0b.jpg",
+        "https://telegra.ph/file/f1063df317df95b19f1a1.jpg"
+    ]
+};

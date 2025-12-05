@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2955,
+    "title": "[ヘリを] ラストチャンス! (コミック エグゼ 34)",
+    "sourceUrl": "https://telegra.ph/ヘリを-ラストチャンス-コミック-エグゼ-34-08-31",
+    "images": [
+        "https://telegra.ph/file/db00478fccb15769aafe0.png",
+        "https://telegra.ph/file/b633b385b1566aa4dec5c.jpg",
+        "https://telegra.ph/file/386f76a9152f666e69cb3.jpg",
+        "https://telegra.ph/file/00fca2cccc71d1935568a.jpg",
+        "https://telegra.ph/file/6f31d08bc4a53fc98b77c.jpg",
+        "https://telegra.ph/file/cfa0c9324dd9e78850889.jpg",
+        "https://telegra.ph/file/a71eb3d98d550168d6d53.png",
+        "https://telegra.ph/file/1db68358a6954b1caa559.jpg",
+        "https://telegra.ph/file/b3017636f2bc0fc1abafc.jpg",
+        "https://telegra.ph/file/bb59de13c5f40e313b7d6.jpg",
+        "https://telegra.ph/file/47d310441d04cea9aaadf.jpg",
+        "https://telegra.ph/file/10e210418bd721929ec68.jpg",
+        "https://telegra.ph/file/ac830feb63e73c126de7b.jpg",
+        "https://telegra.ph/file/e1ed6053572be0f5917f3.jpg",
+        "https://telegra.ph/file/32a74d6950f770672845f.jpg",
+        "https://telegra.ph/file/d861756369a36f9dbb9e9.jpg",
+        "https://telegra.ph/file/d4e3a781249ea12d6b127.jpg",
+        "https://telegra.ph/file/fcff370b7172bf3773535.jpg",
+        "https://telegra.ph/file/0b3924b58f55d5a645b3e.jpg",
+        "https://telegra.ph/file/157b3c449e2193c9df252.jpg",
+        "https://telegra.ph/file/94a73a32156f314becec7.jpg",
+        "https://telegra.ph/file/fc99e65c92d4ded65f99d.jpg",
+        "https://telegra.ph/file/a577e8ab3d1d2737d53cc.jpg",
+        "https://telegra.ph/file/521f0590ba8e4eedf4780.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

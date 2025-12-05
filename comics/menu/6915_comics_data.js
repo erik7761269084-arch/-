@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6915,
+    "title": "again -アゲイン-",
+    "sourceUrl": "https://telegra.ph/again--アゲイン-08-31",
+    "images": [
+        "https://telegra.ph/file/a5bdf5e6c46135c799571.jpg",
+        "https://telegra.ph/file/c2aa95de81524cf84ecb1.jpg",
+        "https://telegra.ph/file/aff4274494f55d9edb599.jpg",
+        "https://telegra.ph/file/a6d46ef58150ec4deabb8.jpg",
+        "https://telegra.ph/file/3f3406f76b3f346363ee3.jpg",
+        "https://telegra.ph/file/b7d9c903d9cecda82e4c4.jpg",
+        "https://telegra.ph/file/29a87b9e0cd48e425ab9c.jpg",
+        "https://telegra.ph/file/4c4c375ecb8fb95461fc8.jpg",
+        "https://telegra.ph/file/04396faa8427935968eda.jpg",
+        "https://telegra.ph/file/3117522d01c6ab9b04193.jpg",
+        "https://telegra.ph/file/83732e837f476cbb896de.jpg",
+        "https://telegra.ph/file/c1ebb6df547fdbcf3546f.jpg",
+        "https://telegra.ph/file/b1cf82b327a707b91f56f.jpg",
+        "https://telegra.ph/file/3220811dcdb38f7b66054.jpg",
+        "https://telegra.ph/file/8e23cc0e6fea16952f547.jpg",
+        "https://telegra.ph/file/7e38eca529814d801b399.jpg",
+        "https://telegra.ph/file/0f5714145b3a35a42460a.jpg",
+        "https://telegra.ph/file/b4ff0297bc0d38d2e36b7.jpg",
+        "https://telegra.ph/file/72d30df1d331540b26d1f.jpg",
+        "https://telegra.ph/file/b14e66d1fcf2e9381dd19.jpg",
+        "https://telegra.ph/file/b9bc3866f36188ab319e2.jpg",
+        "https://telegra.ph/file/3ce1f4a498a692d45905f.jpg",
+        "https://telegra.ph/file/bb4af63430d98a6ffaf5a.jpg",
+        "https://telegra.ph/file/e1048c451aa3b280e01d0.jpg",
+        "https://telegra.ph/file/c11f46a8315b0f5b6c6d5.jpg",
+        "https://telegra.ph/file/3caba640339b56d7f690a.jpg"
+    ]
+};

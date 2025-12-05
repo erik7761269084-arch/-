@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5989,
+    "title": "[青点] 新歓ダイアゴナル",
+    "sourceUrl": "https://telegra.ph/青点-新歓ダイアゴナル-08-31",
+    "images": [
+        "https://telegra.ph/file/6bf44dbe9048e2bbaac17.jpg",
+        "https://telegra.ph/file/3432efdb88f5c69eeed2d.jpg",
+        "https://telegra.ph/file/e14122409a591965ce340.jpg",
+        "https://telegra.ph/file/ad1da67354fc806d7ea43.jpg",
+        "https://telegra.ph/file/9497309318f0874a41f64.jpg",
+        "https://telegra.ph/file/89cd50322200273c62ffc.jpg",
+        "https://telegra.ph/file/aea78bb6c7427a84f1058.jpg",
+        "https://telegra.ph/file/04a012392571e0b74a2ef.jpg",
+        "https://telegra.ph/file/cf3e2bd70b0c3e22ed20d.jpg",
+        "https://telegra.ph/file/50dab1318dfec1dfc5d6c.jpg",
+        "https://telegra.ph/file/aafeaf8a4f4c46cfa0924.jpg",
+        "https://telegra.ph/file/e579819c8bfe99e752109.jpg",
+        "https://telegra.ph/file/253f9988901e65c33213c.jpg",
+        "https://telegra.ph/file/7bdff9494a96cb2cc59a5.jpg",
+        "https://telegra.ph/file/c6f922b1e161a7b0a11f4.jpg",
+        "https://telegra.ph/file/70c46ac1a3f285731fb8e.jpg",
+        "https://telegra.ph/file/3158048f11dd1ee4f68c4.jpg",
+        "https://telegra.ph/file/0747984aa5dcdd2643b67.jpg",
+        "https://telegra.ph/file/05880c3cbfb9031de68f6.jpg",
+        "https://telegra.ph/file/f2d5dca530d2375abf01b.jpg",
+        "https://telegra.ph/file/be34f3393934e47bef727.jpg",
+        "https://telegra.ph/file/49fa1e989e2fae8419ee3.jpg",
+        "https://telegra.ph/file/61d2297a4801c1d16dd20.jpg",
+        "https://telegra.ph/file/cfc71ee2c7e331ec9c3b1.jpg"
+    ]
+};

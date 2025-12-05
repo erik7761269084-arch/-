@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1669,
+    "title": "(C94) [甘蜜博士 (甘蜜こうすけ)] 妹紅おねぇちゃんとショタがえっちする本7 (東方Project)",
+    "sourceUrl": "https://telegra.ph/C94-甘蜜博士-甘蜜こうすけ-妹紅おねぇちゃんとショタがえっちする本7-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/d2660455eccd8d3478e9d.jpg",
+        "https://telegra.ph/file/e96a156b0d30051338dac.jpg",
+        "https://telegra.ph/file/fda6c5e613f78a446e72a.jpg",
+        "https://telegra.ph/file/6065beff840d0ea728af4.jpg",
+        "https://telegra.ph/file/2846669a4ae394704f97a.jpg",
+        "https://telegra.ph/file/77aa129b2f5950b3e58c9.jpg",
+        "https://telegra.ph/file/e16d70b913b15011c361b.jpg",
+        "https://telegra.ph/file/6156329df72e5f60ce7ca.jpg",
+        "https://telegra.ph/file/6bf68806b7e6c6dee70e9.jpg",
+        "https://telegra.ph/file/881153869fc8da1654060.jpg",
+        "https://telegra.ph/file/34f4ad5d265bb1e4b8cd9.jpg",
+        "https://telegra.ph/file/00766d5b35b7027732d41.jpg",
+        "https://telegra.ph/file/772a3fe9d31fa9f054b94.jpg",
+        "https://telegra.ph/file/372135e75fe0f18aca671.jpg",
+        "https://telegra.ph/file/40ef3f015ea2222d97bc2.jpg",
+        "https://telegra.ph/file/09b5958985fbcd6ba086e.jpg",
+        "https://telegra.ph/file/76bb5b37ac711bcc8e2d0.jpg",
+        "https://telegra.ph/file/d79869e6a4a58b7afe279.jpg",
+        "https://telegra.ph/file/8fe60254036737b2ca32e.jpg",
+        "https://telegra.ph/file/dd00cab1b43bcc7e479e0.jpg",
+        "https://telegra.ph/file/02e2ba524c7407b2a101f.jpg",
+        "https://telegra.ph/file/6f83a426b7ef32b2e6d12.jpg",
+        "https://telegra.ph/file/a1e71f3007d9b0a9d2009.jpg"
+    ]
+};

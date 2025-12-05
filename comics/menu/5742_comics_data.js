@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5742,
+    "title": "[鶴田文学] ハツタイケン",
+    "sourceUrl": "https://telegra.ph/鶴田文学-ハツタイケン-08-31",
+    "images": [
+        "https://telegra.ph/file/3f120fc1a2f47e88a3fcf.jpg",
+        "https://telegra.ph/file/62797f90a3d02a98c3b84.jpg",
+        "https://telegra.ph/file/35502b9da29aaec0de4e2.jpg",
+        "https://telegra.ph/file/d076406526c0092cf9e14.jpg",
+        "https://telegra.ph/file/e64ce42e15332b4b73cc9.jpg",
+        "https://telegra.ph/file/f2ac68c77c3ddce1f52ef.jpg",
+        "https://telegra.ph/file/a64554656e738ccc0211f.jpg",
+        "https://telegra.ph/file/69101479de5449ae0dd6e.jpg",
+        "https://telegra.ph/file/1aa10d267df478c770121.jpg",
+        "https://telegra.ph/file/9965933655ea97df61b14.jpg",
+        "https://telegra.ph/file/b8ebbe7e776fa2028a4be.jpg",
+        "https://telegra.ph/file/433989b078ece37fa2cc4.jpg",
+        "https://telegra.ph/file/9148d82fc4eed8d81964c.jpg",
+        "https://telegra.ph/file/405c06c1928ed04c2c9a5.jpg",
+        "https://telegra.ph/file/d5138fcea01b9848cef0c.jpg",
+        "https://telegra.ph/file/d511a7e68d7da6a387b50.jpg",
+        "https://telegra.ph/file/204a853634c285cc51a21.jpg",
+        "https://telegra.ph/file/7cba94906d2aba6e50e44.jpg",
+        "https://telegra.ph/file/14c288fb1ced3b64756d8.jpg",
+        "https://telegra.ph/file/3555f6b900889885e15d4.jpg",
+        "https://telegra.ph/file/101b2d32fa1afcde9f971.jpg",
+        "https://telegra.ph/file/12ac7f61c6c9f6f1a0c35.jpg",
+        "https://telegra.ph/file/3adb7354153a3a730ee5b.jpg",
+        "https://telegra.ph/file/2f5b0f366b6048a1948cb.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 505,
+    "title": "[だにまる] 悪い子の躾 (COMIC アンスリウム 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/だにまる-悪い子の躾-COMIC-アンスリウム-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a569fd33e8ba56be5f691.jpg",
+        "https://telegra.ph/file/86355607a6baacd2cb1a0.jpg",
+        "https://telegra.ph/file/1797ba36668ece74d1143.jpg",
+        "https://telegra.ph/file/9c4c6454de3d6612b8281.jpg",
+        "https://telegra.ph/file/14e7eb814f9f24c4cdb01.jpg",
+        "https://telegra.ph/file/b29b519a940a52f7807e5.jpg",
+        "https://telegra.ph/file/5c16571e52753a33a4e87.jpg",
+        "https://telegra.ph/file/130799dce893468fe53e8.jpg",
+        "https://telegra.ph/file/0f4e22f6ccf572df02b4e.jpg",
+        "https://telegra.ph/file/4e94390c282cb65d57225.jpg",
+        "https://telegra.ph/file/9c9ec145a6b2e701a51df.jpg",
+        "https://telegra.ph/file/e85d275130c2e15fa1f3b.jpg",
+        "https://telegra.ph/file/291c03fd3893bc2546ef6.jpg",
+        "https://telegra.ph/file/ea5f5afe68bf94ef4d4d4.jpg",
+        "https://telegra.ph/file/63aea52d7763291a0b3c2.jpg",
+        "https://telegra.ph/file/f6128c2fbd836c8777bf8.jpg",
+        "https://telegra.ph/file/863584e9003b36c9ff384.jpg",
+        "https://telegra.ph/file/aad34460c2dcefe6ed67b.jpg",
+        "https://telegra.ph/file/fde85dd4f68d986ed45e1.jpg",
+        "https://telegra.ph/file/6c20065e757825219d2b6.jpg",
+        "https://telegra.ph/file/0f546c549a842dbd22bc5.jpg",
+        "https://telegra.ph/file/d27e51594db2468772efd.jpg",
+        "https://telegra.ph/file/c26b7ea8ca6e39404f46c.jpg",
+        "https://telegra.ph/file/9e95a047b3bda70f6e1de.jpg",
+        "https://telegra.ph/file/d4ee82c70fce5d4791391.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

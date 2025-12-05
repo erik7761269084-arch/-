@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7141,
+    "title": "squeeze it!",
+    "sourceUrl": "https://telegra.ph/squeeze-it-08-31",
+    "images": [
+        "https://telegra.ph/file/2aeebbff01fd2e58c7e7d.jpg",
+        "https://telegra.ph/file/df019159aff0644213fc8.jpg",
+        "https://telegra.ph/file/faf1b6ee56474dde616d8.jpg",
+        "https://telegra.ph/file/567a3aaca8914abc1baa3.jpg",
+        "https://telegra.ph/file/df757bcc29b18e837d9b4.jpg",
+        "https://telegra.ph/file/aab1f0549cdb50d3f36ad.jpg",
+        "https://telegra.ph/file/3347479d9ec5d9da4a0c8.jpg",
+        "https://telegra.ph/file/eb587e8af83eb2359cabd.jpg",
+        "https://telegra.ph/file/f5e02034bcb369bda2fba.jpg",
+        "https://telegra.ph/file/5062ccf9388813eb5ec8b.jpg",
+        "https://telegra.ph/file/48b1a53f2be179250483f.jpg",
+        "https://telegra.ph/file/06fac8054bbb88f2725f3.jpg",
+        "https://telegra.ph/file/3b1bafbd00bf15c170c72.jpg",
+        "https://telegra.ph/file/f846dd12f1d6bb08ec678.jpg",
+        "https://telegra.ph/file/adbf23c2cf2719e05f6d3.jpg",
+        "https://telegra.ph/file/8f4071c4602ef90c54e2f.jpg",
+        "https://telegra.ph/file/622945d5d21e250428a19.jpg",
+        "https://telegra.ph/file/084c0c53e6b6ea2c90644.jpg",
+        "https://telegra.ph/file/8102fd0992160cf7615b0.jpg",
+        "https://telegra.ph/file/0cf56436fdaa33f45feaf.jpg",
+        "https://telegra.ph/file/5668f6758cdee99aecda0.jpg",
+        "https://telegra.ph/file/f613bcb4ca386cb4723bc.jpg",
+        "https://telegra.ph/file/3c6366ae805d9e1735070.jpg",
+        "https://telegra.ph/file/d419fe8186a06324ced2f.jpg",
+        "https://telegra.ph/file/ee094554d03984a0860c3.jpg",
+        "https://telegra.ph/file/eb82e0f3b6315e353665e.jpg"
+    ]
+};

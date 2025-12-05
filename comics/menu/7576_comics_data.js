@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7576,
+    "title": "愛人契約温泉旅行",
+    "sourceUrl": "https://telegra.ph/愛人契約温泉旅行-08-31",
+    "images": [
+        "https://telegra.ph/file/4cc6f9e25cb858436b197.jpg",
+        "https://telegra.ph/file/23ff5575fb47e4e1d4883.jpg",
+        "https://telegra.ph/file/cfea163a52c3d20c2cabf.jpg",
+        "https://telegra.ph/file/0ede342b39494c254cd3e.jpg",
+        "https://telegra.ph/file/0f1a9348842334069aa41.jpg",
+        "https://telegra.ph/file/27a0cd44dd02615598c77.jpg",
+        "https://telegra.ph/file/1c1c334b49f08f1db9e5b.jpg",
+        "https://telegra.ph/file/bf7aa6d16d448b0a05a21.jpg",
+        "https://telegra.ph/file/7420f907caab40272bd16.jpg",
+        "https://telegra.ph/file/3d423edae4facb37d33fd.jpg",
+        "https://telegra.ph/file/1fa3ebb67dc5c68fe6be7.jpg",
+        "https://telegra.ph/file/b7618f715feab036efbf7.jpg",
+        "https://telegra.ph/file/fbf795f377df835e4187d.jpg",
+        "https://telegra.ph/file/326aa1a0a2e65c9773066.jpg",
+        "https://telegra.ph/file/ed376a43df6b21bdbde67.jpg",
+        "https://telegra.ph/file/8ae401080478c75182caa.jpg",
+        "https://telegra.ph/file/39f521cf599876772344f.jpg",
+        "https://telegra.ph/file/ebffd29a912c729bbf600.jpg",
+        "https://telegra.ph/file/79c36c406fca1b633b66d.jpg",
+        "https://telegra.ph/file/4dc381289de6c03b9c85d.jpg",
+        "https://telegra.ph/file/364654844ce6098ba7787.jpg",
+        "https://telegra.ph/file/bc49375520553edf6aa2c.jpg",
+        "https://telegra.ph/file/4bb97edb046bf7fca2683.jpg"
+    ]
+};

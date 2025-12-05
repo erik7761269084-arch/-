@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 279,
+    "title": "[海通信 (なまもななせ)] 陵辱田舎少女3",
+    "sourceUrl": "https://telegra.ph/海通信-なまもななせ-陵辱田舎少女3-08-31",
+    "images": [
+        "https://telegra.ph/file/49461817a4768cae1c947.jpg",
+        "https://telegra.ph/file/351b34a7a9ddecba8b2e3.jpg",
+        "https://telegra.ph/file/e1e1edccb0cdb79c89af5.jpg",
+        "https://telegra.ph/file/706668ce5026a5c53655e.jpg",
+        "https://telegra.ph/file/17e6c0ac792f3d537075b.jpg",
+        "https://telegra.ph/file/0421408b661da320d065b.jpg",
+        "https://telegra.ph/file/2f702772e37c9bf63c799.jpg",
+        "https://telegra.ph/file/aba7114ac186356f16e71.jpg",
+        "https://telegra.ph/file/45a39095aa152ed6d4bb0.jpg",
+        "https://telegra.ph/file/91098c5a5163b18591487.jpg",
+        "https://telegra.ph/file/ab8e891a34c4b733729bb.jpg",
+        "https://telegra.ph/file/d4aa7a9a47192dac8eda1.jpg",
+        "https://telegra.ph/file/b5cc91fbc40fcd9175c98.jpg",
+        "https://telegra.ph/file/05eaf6599c845cb8f625e.jpg",
+        "https://telegra.ph/file/e6660ba0c69b10b0ab663.jpg",
+        "https://telegra.ph/file/aba155254bc752f260174.jpg",
+        "https://telegra.ph/file/12c63225b1ae83d09793f.jpg",
+        "https://telegra.ph/file/2e3cb69264e1e5f9574bd.jpg",
+        "https://telegra.ph/file/3951e64ed6fce0cd42053.jpg",
+        "https://telegra.ph/file/ddc2b58b9e3161d06292c.jpg",
+        "https://telegra.ph/file/ceddfd5ccab8283899ded.jpg",
+        "https://telegra.ph/file/7acc1bfff4edc50f8dce2.jpg",
+        "https://telegra.ph/file/3f3b5750afb5002dd840e.jpg"
+    ]
+};

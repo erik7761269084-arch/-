@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6541,
+    "title": "T MOON COMPLEX APO (Fate Apocrypha)",
+    "sourceUrl": "https://telegra.ph/T-MOON-COMPLEX-APO-Fate-Apocrypha-08-31",
+    "images": [
+        "https://telegra.ph/file/32fd1e6b08b1ab01dfb4e.jpg",
+        "https://telegra.ph/file/ee7ba1b1aa6afc80a225e.jpg",
+        "https://telegra.ph/file/d5b5ff189cd5e8e93e403.jpg",
+        "https://telegra.ph/file/dbdb2ca61d51eac95aaf0.jpg",
+        "https://telegra.ph/file/ff567a81c3b10bc377974.jpg",
+        "https://telegra.ph/file/4de67bf2c7e1c07f96045.jpg",
+        "https://telegra.ph/file/018cad76e6f00df1db662.jpg",
+        "https://telegra.ph/file/5583304401d1d013016a5.jpg",
+        "https://telegra.ph/file/a9dacbbd74f46fd7efa5d.jpg",
+        "https://telegra.ph/file/9d873669f90edb7b1a0b7.jpg",
+        "https://telegra.ph/file/c28f9cd3270f691ba2c0d.jpg",
+        "https://telegra.ph/file/b555f445e141afc7bd659.jpg",
+        "https://telegra.ph/file/9198765ce8cd069fcfcee.jpg",
+        "https://telegra.ph/file/01ea2590cf8d54dd9ef64.jpg",
+        "https://telegra.ph/file/5e64081a67f6c867b6a06.jpg",
+        "https://telegra.ph/file/c9b55381be1b316619238.jpg",
+        "https://telegra.ph/file/4f59ac033ef0e5df67dd0.jpg",
+        "https://telegra.ph/file/da45138c8c4931e6958e9.jpg",
+        "https://telegra.ph/file/d64e76e9c039192a79b16.jpg",
+        "https://telegra.ph/file/7a0877ddbef20ba5afb11.jpg",
+        "https://telegra.ph/file/8e01bfd510ded9874a0d5.jpg",
+        "https://telegra.ph/file/7d7f27fe580272712663f.jpg",
+        "https://telegra.ph/file/77cc6804b35424bc03507.jpg"
+    ]
+};

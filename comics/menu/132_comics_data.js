@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 132,
+    "title": "(C99) [CLUTCH SHOT KING (滑空)] 水陸両用女王BEHAVIOR (トロピカル～ジュ!プリキュア)",
+    "sourceUrl": "https://telegra.ph/C99-CLUTCH-SHOT-KING-滑空-水陸両用女王BEHAVIOR-トロピカルジュプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/f5040f60cd555b280c9b3.jpg",
+        "https://telegra.ph/file/8a34abe718c874a1567d8.jpg",
+        "https://telegra.ph/file/e3bbfc6d69d08e47d17bb.jpg",
+        "https://telegra.ph/file/23b19e537be0f7e89c0a2.jpg",
+        "https://telegra.ph/file/2ebec6b9ee379472a5502.jpg",
+        "https://telegra.ph/file/0d84011c17c8d72e8bcbd.jpg",
+        "https://telegra.ph/file/985b92a639463ac11eefb.jpg",
+        "https://telegra.ph/file/8e5e72649cfe4cfeb4018.jpg",
+        "https://telegra.ph/file/76462ab26b6afb06da428.jpg",
+        "https://telegra.ph/file/785b7940cfbce1f9f3e97.jpg",
+        "https://telegra.ph/file/1ad8222c839943009bb79.jpg",
+        "https://telegra.ph/file/ffd6a9d0d1e2da0d90350.jpg",
+        "https://telegra.ph/file/d53f5b93c2a9a2884c829.jpg",
+        "https://telegra.ph/file/5719aa8112c685713a00d.jpg",
+        "https://telegra.ph/file/2ed281f94f5b41d04d419.jpg",
+        "https://telegra.ph/file/b787ad739bdeb02759cfc.jpg",
+        "https://telegra.ph/file/900eb10dc1576a60c40ad.jpg",
+        "https://telegra.ph/file/1bf8f432117b3eefa8193.jpg",
+        "https://telegra.ph/file/404ec3914ac79d4b38879.jpg",
+        "https://telegra.ph/file/8e146ff57818d2be4d9a4.jpg",
+        "https://telegra.ph/file/f88a8e4a1e82ddb0414cb.jpg",
+        "https://telegra.ph/file/6a52621eedcf79052203f.jpg",
+        "https://telegra.ph/file/0a19c0aca2e127c84167c.jpg",
+        "https://telegra.ph/file/3b80d05b9b22f84d3f2bb.jpg",
+        "https://telegra.ph/file/7e335fe738ed962d3d408.jpg",
+        "https://telegra.ph/file/c1f9e85a5af52c4d0bde2.jpg"
+    ]
+};

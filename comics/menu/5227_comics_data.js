@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5227,
+    "title": "[きのこのみ (konomi)] TSあきら君の性生活 4",
+    "sourceUrl": "https://telegra.ph/きのこのみ-konomi-TSあきら君の性生活-4-08-31",
+    "images": [
+        "https://telegra.ph/file/7fcc2da7f89d1decb587c.jpg",
+        "https://telegra.ph/file/882023d7b9b86943bc6e1.jpg",
+        "https://telegra.ph/file/4cdfa62421941a898bea3.jpg",
+        "https://telegra.ph/file/3be027c54b5879883047d.jpg",
+        "https://telegra.ph/file/29870e5ae2243127fb17d.jpg",
+        "https://telegra.ph/file/044368d02d1ed0ff3822b.jpg",
+        "https://telegra.ph/file/ad0f2423eec86516745be.jpg",
+        "https://telegra.ph/file/b97f462ffa92beb15565f.jpg",
+        "https://telegra.ph/file/d5e855367ee58419ab453.jpg",
+        "https://telegra.ph/file/5aeacfad206557ba5167d.jpg",
+        "https://telegra.ph/file/b94a683809d37d6e1d139.jpg",
+        "https://telegra.ph/file/24cecfd7c444218b81e07.jpg",
+        "https://telegra.ph/file/dbbf3c5a2cf6b425425cf.jpg",
+        "https://telegra.ph/file/9658eccd27c7b12c31b5c.jpg",
+        "https://telegra.ph/file/36d9c1e6d44f820f12b6d.jpg",
+        "https://telegra.ph/file/c102747dd2b75e7af8096.jpg",
+        "https://telegra.ph/file/bd891973b0db8bc58af2b.jpg",
+        "https://telegra.ph/file/008029f848598c4f9b173.jpg",
+        "https://telegra.ph/file/ec6a836edd3c0e065548b.jpg",
+        "https://telegra.ph/file/3ed32bb657d09e55a5266.jpg",
+        "https://telegra.ph/file/6a6d66a33e003faa3a906.jpg",
+        "https://telegra.ph/file/fd65f34d45402546b125a.jpg",
+        "https://telegra.ph/file/ff0b909633d7431d02b0c.jpg"
+    ]
+};

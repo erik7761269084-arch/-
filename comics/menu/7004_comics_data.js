@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7004,
+    "title": "アタシじゃないのに…",
+    "sourceUrl": "https://telegra.ph/アタシじゃないのに-08-31",
+    "images": [
+        "https://telegra.ph/file/d760b0ccff7a63330c837.png",
+        "https://telegra.ph/file/994babe6301cfe7699a03.png",
+        "https://telegra.ph/file/b6a6b4448d84faf38d932.png",
+        "https://telegra.ph/file/f1ba76ec9b0177769587c.png",
+        "https://telegra.ph/file/426034be1792761d48735.png",
+        "https://telegra.ph/file/e5abd1cb1e80f825cd43c.png",
+        "https://telegra.ph/file/32416aadb8b508c08ebec.png",
+        "https://telegra.ph/file/c35665bedf472ec3e72d8.png",
+        "https://telegra.ph/file/fee00cbbb504b0fab7b49.png",
+        "https://telegra.ph/file/f6fcda7a14dad141343d0.png",
+        "https://telegra.ph/file/d356f0dc2d1956f969c4f.png",
+        "https://telegra.ph/file/5af96ccbf3fcc827868eb.png",
+        "https://telegra.ph/file/6b7fd701e9905db9d3cc5.png",
+        "https://telegra.ph/file/54e066d8afda760912598.png",
+        "https://telegra.ph/file/b63601c0693f60c35e0b0.png",
+        "https://telegra.ph/file/aec0b4c3687801f742671.png",
+        "https://telegra.ph/file/a2f5a355cabecbe37c766.png",
+        "https://telegra.ph/file/8a0ca062d861a3e0cc2ae.png",
+        "https://telegra.ph/file/dd44be70a2cc0d5567fee.png",
+        "https://telegra.ph/file/3121b5db073c4d3fa14a3.png",
+        "https://telegra.ph/file/0292c5f0a977ce6192e1c.png",
+        "https://telegra.ph/file/269725c82ecc3ab17177c.png",
+        "https://telegra.ph/file/0ad4b2eba67ba749b69de.png",
+        "https://telegra.ph/file/36928162b3e6074331936.png",
+        "https://telegra.ph/file/be50562ced08dc35263f7.png",
+        "https://telegra.ph/file/ae8a37b3568ae9751395a.png"
+    ]
+};

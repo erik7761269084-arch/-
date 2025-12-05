@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3778,
+    "title": "(C97) [MISSING PARK (チサト)] 犬猫姉妹 (ゲゲゲの鬼太郎)",
+    "sourceUrl": "https://telegra.ph/C97-MISSING-PARK-チサト-犬猫姉妹-ゲゲゲの鬼太郎-08-31",
+    "images": [
+        "https://telegra.ph/file/7523789ecc38b007d0e21.jpg",
+        "https://telegra.ph/file/216d77621486a6825f3fe.jpg",
+        "https://telegra.ph/file/b43acac77d0347f6163b8.jpg",
+        "https://telegra.ph/file/03a6c99c2a0eb2b8929de.jpg",
+        "https://telegra.ph/file/42e255dfbc40761e5d2b5.jpg",
+        "https://telegra.ph/file/61e0d3c6b5ef844dd6a03.jpg",
+        "https://telegra.ph/file/fcfa7e99ebec66594a5e7.jpg",
+        "https://telegra.ph/file/9e71bb842b2c64f1100aa.jpg",
+        "https://telegra.ph/file/a4bb6a9e698d77e4ccc46.jpg",
+        "https://telegra.ph/file/7194fedf79a609d2e4410.jpg",
+        "https://telegra.ph/file/472070859966a76c996ba.jpg",
+        "https://telegra.ph/file/9b3776d3cea7aff714248.jpg",
+        "https://telegra.ph/file/9a3bae1ad9f2b22780792.jpg",
+        "https://telegra.ph/file/670361f07777c30d1f236.jpg",
+        "https://telegra.ph/file/faa5db0d8227a14a7cfcf.jpg",
+        "https://telegra.ph/file/1a55b314800a24d90ff92.jpg",
+        "https://telegra.ph/file/2606ef40428468a5cd327.jpg",
+        "https://telegra.ph/file/af35b99c23abd640d8a14.jpg",
+        "https://telegra.ph/file/2423a0af8bf4d8b1f2268.jpg",
+        "https://telegra.ph/file/198d61dbeceac1596774f.jpg",
+        "https://telegra.ph/file/c9685e8e541f0ee022d05.jpg",
+        "https://telegra.ph/file/5e549955238cb5519d664.jpg",
+        "https://telegra.ph/file/6dd2edc4e11a6bb558bdf.jpg",
+        "https://telegra.ph/file/b0fc15ef38f2dd1e7e83c.jpg",
+        "https://telegra.ph/file/853e23b8ae3fad7feb8a5.jpg",
+        "https://telegra.ph/file/cc27f4e48594d870207b7.jpg"
+    ]
+};

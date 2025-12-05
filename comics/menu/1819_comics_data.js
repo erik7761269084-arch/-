@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1819,
+    "title": "[背中が尻] スポットライトの下で咲く (COMIC アオハ 2021 夏)",
+    "sourceUrl": "https://telegra.ph/背中が尻-スポットライトの下で咲く-COMIC-アオハ-2021-夏-08-31",
+    "images": [
+        "https://telegra.ph/file/4f3b21dbb74b20041de19.jpg",
+        "https://telegra.ph/file/c83c5914a3acd9ae1d4cf.jpg",
+        "https://telegra.ph/file/57bb87abae09975db1b09.jpg",
+        "https://telegra.ph/file/78d11fd3adeaf4218e0a1.jpg",
+        "https://telegra.ph/file/ff5169d8b33c340c2f11f.jpg",
+        "https://telegra.ph/file/9aafd03ebcfd143da6655.jpg",
+        "https://telegra.ph/file/c0af4d8d989aab496c89b.jpg",
+        "https://telegra.ph/file/03c8b60e59f385278e0b5.jpg",
+        "https://telegra.ph/file/88837e690aa6a3921ad5b.jpg",
+        "https://telegra.ph/file/2bfa09b73cbd75ccf0626.jpg",
+        "https://telegra.ph/file/b32ef39a5499fd17b21cb.jpg",
+        "https://telegra.ph/file/8d1259172f02efdf2f667.jpg",
+        "https://telegra.ph/file/ec6b8fc8931e9f5815190.jpg",
+        "https://telegra.ph/file/01f2b22b2c47b37129649.jpg",
+        "https://telegra.ph/file/6af59f804c589a46f5a8b.jpg",
+        "https://telegra.ph/file/c199d2cf37a7be236a7f5.jpg",
+        "https://telegra.ph/file/5a405792c11a7a72f7837.jpg",
+        "https://telegra.ph/file/e8e436205c7857019b55f.jpg",
+        "https://telegra.ph/file/d40d7e723e0f35a7f72ee.jpg",
+        "https://telegra.ph/file/8de039afb7a77c6ecfa29.jpg",
+        "https://telegra.ph/file/3644e3efc3cca50f47c69.jpg",
+        "https://telegra.ph/file/4b824a24e5045d936a022.jpg",
+        "https://telegra.ph/file/b8fdd5be767c576941747.jpg",
+        "https://telegra.ph/file/0b38b77689ecae70b0ceb.jpg",
+        "https://telegra.ph/file/76a58ca506f08fbe4b966.jpg",
+        "https://telegra.ph/file/620d5f3fb0eb7d7440141.jpg"
+    ]
+};

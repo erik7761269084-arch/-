@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3330,
+    "title": "[わとちっぷめろんぱん (わとす)] メリュジーヌといろいろえっち本 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/わとちっぷめろんぱん-わとす-メリュジーヌといろいろえっち本-FateGrand-Order-08-31-2",
+    "images": [
+        "https://telegra.ph/file/f4905b3a377d5267af60d.jpg",
+        "https://telegra.ph/file/1db895ee90190d126bf1c.jpg",
+        "https://telegra.ph/file/a3be94df3c14c6530ca59.jpg",
+        "https://telegra.ph/file/a653184da53126cb241bf.jpg",
+        "https://telegra.ph/file/85be533929ea9ae8ae53c.jpg",
+        "https://telegra.ph/file/a5bcfc7da63a83cdcccad.jpg",
+        "https://telegra.ph/file/0a440bb522e18c0b9447e.jpg",
+        "https://telegra.ph/file/4d74754e18d26b40a487f.jpg",
+        "https://telegra.ph/file/528b23238ee65fee13108.jpg",
+        "https://telegra.ph/file/018ad57658efe268de6e7.jpg",
+        "https://telegra.ph/file/aafaf85eeb74d62a95d88.jpg",
+        "https://telegra.ph/file/72f2afe06780826a9ed11.jpg",
+        "https://telegra.ph/file/270230b12e170ca9099de.jpg",
+        "https://telegra.ph/file/2c064aa5a63ed1def35a4.jpg",
+        "https://telegra.ph/file/3c4d0c8f3d39d926c1320.jpg",
+        "https://telegra.ph/file/88444016b2e2b0c811b9c.jpg",
+        "https://telegra.ph/file/ca5ac9a6e887eae842c65.jpg",
+        "https://telegra.ph/file/78bf69a745d1f2676f39c.jpg",
+        "https://telegra.ph/file/7a0cc7346654a709c70b8.jpg",
+        "https://telegra.ph/file/a79b03967dd677ee67ed9.jpg",
+        "https://telegra.ph/file/41dcbb282b14f741fcb4a.jpg",
+        "https://telegra.ph/file/4c242c7300d481f7b34ba.jpg",
+        "https://telegra.ph/file/152f867b5fedee5cfaeb6.jpg",
+        "https://telegra.ph/file/551ec82d331affdfa8eab.jpg",
+        "https://telegra.ph/file/b3789b6c16901df4ca8fc.jpg"
+    ]
+};

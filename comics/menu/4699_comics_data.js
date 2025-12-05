@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4699,
+    "title": "[むげんWORKS (秋月秋名)] ご主人様といっしょ♡ (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/むげんWORKS-秋月秋名-ご主人様といっしょ-ブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/186d1203a16b96aed9362.jpg",
+        "https://telegra.ph/file/ff944dce4e876795b97e6.jpg",
+        "https://telegra.ph/file/e889c40dae8a4a9f1469b.jpg",
+        "https://telegra.ph/file/a95aa5870f45420daeb18.jpg",
+        "https://telegra.ph/file/30f5b23affdb81d83f18f.jpg",
+        "https://telegra.ph/file/833b264282af36ef9e643.jpg",
+        "https://telegra.ph/file/27b53afc39e33f2f2fb0b.jpg",
+        "https://telegra.ph/file/f289339fdf737c916fdc7.jpg",
+        "https://telegra.ph/file/c4f0e669848b1d8ef439c.jpg",
+        "https://telegra.ph/file/c55271f87d70f1297d147.jpg",
+        "https://telegra.ph/file/34cf5b2cd6d469a97f238.jpg",
+        "https://telegra.ph/file/fdfa24b5e1b6738fb18e5.jpg",
+        "https://telegra.ph/file/32fb58678352ea634a6bb.jpg",
+        "https://telegra.ph/file/402ce050c8bab239a824d.jpg",
+        "https://telegra.ph/file/8788accf199816e31d9a9.jpg",
+        "https://telegra.ph/file/fb79e3df044d4f7961189.jpg",
+        "https://telegra.ph/file/fce614c896bfe0b2fa5e5.jpg",
+        "https://telegra.ph/file/3f1f052f54bafabd03437.jpg",
+        "https://telegra.ph/file/0f5580de7ca8f10f03078.jpg",
+        "https://telegra.ph/file/5707fd10f2390407c9359.jpg",
+        "https://telegra.ph/file/71123da4f8bac289bc3ee.jpg",
+        "https://telegra.ph/file/881c8eded697263257059.jpg",
+        "https://telegra.ph/file/a1a0495dd99662e37b217.jpg",
+        "https://telegra.ph/file/87ec2d58f6cc4894cdaf6.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

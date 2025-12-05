@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6091,
+    "title": "[ゲズンタイト] 委員長 vs The World",
+    "sourceUrl": "https://telegra.ph/ゲズンタイト-委員長-vs-The-World-08-31",
+    "images": [
+        "https://telegra.ph/file/8843c34e9b3538a67315c.jpg",
+        "https://telegra.ph/file/8b574b0b5e060cd067990.jpg",
+        "https://telegra.ph/file/330cb6e128a2ddb28f276.jpg",
+        "https://telegra.ph/file/65f79d339d34bcaba81da.jpg",
+        "https://telegra.ph/file/dab5c0ebdad6437bb5ed6.jpg",
+        "https://telegra.ph/file/6794c3dab06ea492e98ae.jpg",
+        "https://telegra.ph/file/58d7c205ea26e5df58c20.jpg",
+        "https://telegra.ph/file/1cf50de1e30ce11aac84b.jpg",
+        "https://telegra.ph/file/1576a9513f399f4db5727.jpg",
+        "https://telegra.ph/file/16697854224f43bf5cc31.jpg",
+        "https://telegra.ph/file/2c8d56fad60d7fb931771.jpg",
+        "https://telegra.ph/file/5115570652462048fbd1d.jpg",
+        "https://telegra.ph/file/bc38395372b48f4334012.jpg",
+        "https://telegra.ph/file/576a74765084b8c2251d0.jpg",
+        "https://telegra.ph/file/a1f5b58b6560b8b846328.jpg",
+        "https://telegra.ph/file/327c33a7f56da6289c7cf.jpg",
+        "https://telegra.ph/file/1e1c1db1bcc08557ef9a7.jpg",
+        "https://telegra.ph/file/5fc2c6378e75a172e0136.jpg",
+        "https://telegra.ph/file/f25bd7a8dda988108b315.jpg",
+        "https://telegra.ph/file/f8fc8520521823f92bae7.jpg",
+        "https://telegra.ph/file/0b6d9b84048735950fceb.jpg",
+        "https://telegra.ph/file/30456ac5b571cca93775e.jpg",
+        "https://telegra.ph/file/8bb083e3fb2320cd92350.jpg",
+        "https://telegra.ph/file/3d967a9379f6429d35e11.jpg"
+    ]
+};

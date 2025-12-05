@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4376,
+    "title": "(COMIC1☆17) [OrangeMaru (YD)] Nightmare (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/COMIC117-OrangeMaru-YD-Nightmare-FateGrand-Order-08-31-2",
+    "images": [
+        "https://telegra.ph/file/fd865ea0cf1d6c0fbe78a.jpg",
+        "https://telegra.ph/file/fecbe138bffa53e12bef9.jpg",
+        "https://telegra.ph/file/33845aba3ac34e57bfb9b.jpg",
+        "https://telegra.ph/file/4a2578c54c0d6cd90441f.jpg",
+        "https://telegra.ph/file/bf6877760fd69aa292466.jpg",
+        "https://telegra.ph/file/b8fab490f8ea1d2a3532f.jpg",
+        "https://telegra.ph/file/343830b1216b733a8298c.jpg",
+        "https://telegra.ph/file/376a7ea3e6066f5a95dbb.jpg",
+        "https://telegra.ph/file/61f1069b0861d15dff23e.jpg",
+        "https://telegra.ph/file/53eb8e5373e2d60efdc3e.jpg",
+        "https://telegra.ph/file/678ecef8af04b3ed6a336.jpg",
+        "https://telegra.ph/file/6c9519bedd70c839c6042.jpg",
+        "https://telegra.ph/file/044b6c631cf51103f4cc0.jpg",
+        "https://telegra.ph/file/03c765359795cc3737747.jpg",
+        "https://telegra.ph/file/d0875ad65d8a5f4a366c8.jpg",
+        "https://telegra.ph/file/f572dc323f0051a57c895.jpg",
+        "https://telegra.ph/file/de990fded7864bd39e621.jpg",
+        "https://telegra.ph/file/dfb65ef2161f1cd71c314.jpg",
+        "https://telegra.ph/file/ee984cf326c6f51c54f45.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/cf02526977df0af5557c0.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/f27e1bf1a5a4ba0aad9a8.jpg"
+    ]
+};

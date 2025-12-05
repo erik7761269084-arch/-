@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3244,
+    "title": "[すばちきゅ! (すばち)] かわいそうはかわいい",
+    "sourceUrl": "https://telegra.ph/すばちきゅ-すばち-かわいそうはかわいい-08-31",
+    "images": [
+        "https://telegra.ph/file/25cb7a4c51faa01ad822b.jpg",
+        "https://telegra.ph/file/615eba6bc524193f462e9.jpg",
+        "https://telegra.ph/file/9f84e6979b036d0ebd72d.jpg",
+        "https://telegra.ph/file/37133ef4fe04a0295525f.jpg",
+        "https://telegra.ph/file/0f7cd10499cb0119c84d4.jpg",
+        "https://telegra.ph/file/a716cd610af8bcb6b0dc5.jpg",
+        "https://telegra.ph/file/4dbab48ae3c9fcc3987ef.jpg",
+        "https://telegra.ph/file/1be01c1d3f1b0519088e5.jpg",
+        "https://telegra.ph/file/b77b99d16c41dc2698913.jpg",
+        "https://telegra.ph/file/534712e37415d946e4e54.jpg",
+        "https://telegra.ph/file/c29b48c8c3de534636f97.jpg",
+        "https://telegra.ph/file/eece0a9b47b9f08a7b740.jpg",
+        "https://telegra.ph/file/2ab065487fd4736760515.jpg",
+        "https://telegra.ph/file/fd809df03aeedcbef5bde.jpg",
+        "https://telegra.ph/file/2a4a2f98b8b32358a08c3.jpg",
+        "https://telegra.ph/file/c6ab020fc136fff930c5d.jpg",
+        "https://telegra.ph/file/436b611fc2964ea944a67.jpg",
+        "https://telegra.ph/file/99d7330267efb9f97b873.jpg",
+        "https://telegra.ph/file/911c728c010808d288b26.jpg",
+        "https://telegra.ph/file/2e2c96bfb348706de4d38.jpg",
+        "https://telegra.ph/file/2162468db14ed05c5a055.jpg",
+        "https://telegra.ph/file/400446b55247cf05dad80.jpg",
+        "https://telegra.ph/file/2557b645ad844c6033263.jpg",
+        "https://telegra.ph/file/75b67577c8ab675cdcc01.jpg"
+    ]
+};

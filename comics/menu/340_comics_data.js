@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 340,
+    "title": "(C99) [やみつき本舗 (ワイズスピーク)] 良妻おねショタ玉藻ちゃん♡ (Fate/EXTRA)",
+    "sourceUrl": "https://telegra.ph/C99-やみつき本舗-ワイズスピーク-良妻おねショタ玉藻ちゃん-FateEXTRA-08-31",
+    "images": [
+        "https://telegra.ph/file/a64371eef792a904321ee.jpg",
+        "https://telegra.ph/file/d28c834206c5dc9ada2a1.jpg",
+        "https://telegra.ph/file/a3485659c70f39d5fc13b.jpg",
+        "https://telegra.ph/file/659d3cc337885d6a0e73b.jpg",
+        "https://telegra.ph/file/36a95862249ec93b5cbb0.jpg",
+        "https://telegra.ph/file/c2ea1e8f041c0e95eda13.jpg",
+        "https://telegra.ph/file/4a692da336e9fa3872610.jpg",
+        "https://telegra.ph/file/0ed3b1016360502170e7e.jpg",
+        "https://telegra.ph/file/9e6db17aba9fff8de48ff.jpg",
+        "https://telegra.ph/file/3d8c286ca991b9418cbd5.jpg",
+        "https://telegra.ph/file/2260344423dc47964f047.jpg",
+        "https://telegra.ph/file/13645c352f75c8fd47e3a.jpg",
+        "https://telegra.ph/file/c6fa6191284426e51767d.jpg",
+        "https://telegra.ph/file/dafd968fc71ef66e6a640.jpg",
+        "https://telegra.ph/file/3232da2bb392a961de69e.jpg",
+        "https://telegra.ph/file/edf4778241f6addbf24c4.jpg",
+        "https://telegra.ph/file/fc3f1e74c62b294cef543.jpg",
+        "https://telegra.ph/file/1b04b14a8c1027b6caef5.jpg",
+        "https://telegra.ph/file/acce58a22f43b7dd673be.jpg",
+        "https://telegra.ph/file/e5a1adaa4f2868bf2c536.jpg",
+        "https://telegra.ph/file/1a91de9f5e7c919649ac4.jpg",
+        "https://telegra.ph/file/b2015a0d041ca56433f7e.jpg",
+        "https://telegra.ph/file/642f70895d2655356d77c.jpg",
+        "https://telegra.ph/file/fa37404195bea4b29c65c.jpg",
+        "https://telegra.ph/file/3d49d9e35c4ed5e858f21.jpg",
+        "https://telegra.ph/file/f3593b15355ad20ae58e8.jpg"
+    ]
+};

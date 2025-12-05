@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2071,
+    "title": "[無色三太郎] 魔族令嬢の催眠授業（初等編） (二次元コミックマガジン メスガキ催眠制裁エッチ!Vol.1)",
+    "sourceUrl": "https://telegra.ph/無色三太郎-魔族令嬢の催眠授業初等編-二次元コミックマガジン-メスガキ催眠制裁エッチVol1-08-31",
+    "images": [
+        "https://telegra.ph/file/fe070f0b8a539ed10de94.jpg",
+        "https://telegra.ph/file/db69b116d5358a4409228.jpg",
+        "https://telegra.ph/file/1fff580f65588a942bb2b.jpg",
+        "https://telegra.ph/file/e65833512b9c75146054f.jpg",
+        "https://telegra.ph/file/b8d0a00afcd3b74843852.jpg",
+        "https://telegra.ph/file/f2c329fc2626e8382685d.jpg",
+        "https://telegra.ph/file/f47489d5b3e197fd85afd.jpg",
+        "https://telegra.ph/file/6696da9cdb3feb6071adf.jpg",
+        "https://telegra.ph/file/7c4efb6fff4e87f1eb339.jpg",
+        "https://telegra.ph/file/09d90d3098d76b4a3978f.jpg",
+        "https://telegra.ph/file/7318004dad2f0d7c7f051.jpg",
+        "https://telegra.ph/file/5f6b1f07ff3eda0b8e355.jpg",
+        "https://telegra.ph/file/9d114a43e3b85235b1344.jpg",
+        "https://telegra.ph/file/b8f441b215df96819bffe.jpg",
+        "https://telegra.ph/file/358e3460b3e6f75c3729f.jpg",
+        "https://telegra.ph/file/6dd56257038039a93cdb4.jpg",
+        "https://telegra.ph/file/b9298fae3065478a12314.jpg",
+        "https://telegra.ph/file/890eb614bed4c86ba763c.jpg",
+        "https://telegra.ph/file/3df2f7f26617705da094d.jpg",
+        "https://telegra.ph/file/6d08568a4c2c486b76e17.jpg",
+        "https://telegra.ph/file/5920dfb5ffc25f083a08e.jpg",
+        "https://telegra.ph/file/b7e3925a972dd84f4e55a.jpg",
+        "https://telegra.ph/file/228333ec9054474b1c528.jpg",
+        "https://telegra.ph/file/1073ef62e29a72bc948a9.jpg",
+        "https://telegra.ph/file/2557b645ad844c6033263.jpg",
+        "https://telegra.ph/file/12a205a5d8e9d9e5a4fd7.jpg"
+    ]
+};

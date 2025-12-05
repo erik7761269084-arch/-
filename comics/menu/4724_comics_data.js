@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4724,
+    "title": "[にゅくす堂 (雨山電信)] あけびの山",
+    "sourceUrl": "https://telegra.ph/にゅくす堂-雨山電信-あけびの山-08-31",
+    "images": [
+        "https://telegra.ph/file/6d650cadd050188835976.jpg",
+        "https://telegra.ph/file/803bf6040928df534c7f4.jpg",
+        "https://telegra.ph/file/caf6a6420765c5e55ec02.jpg",
+        "https://telegra.ph/file/0e8193e47a33abfe7118c.jpg",
+        "https://telegra.ph/file/321c3be28fee86a83df02.jpg",
+        "https://telegra.ph/file/92f3309e995fa17aadb39.jpg",
+        "https://telegra.ph/file/7ad4d44eb9c9408fed568.jpg",
+        "https://telegra.ph/file/a743e330f73d3f16af010.jpg",
+        "https://telegra.ph/file/c07d7067bd4e0fc7429ca.jpg",
+        "https://telegra.ph/file/bda568cb0d2cafb4f71de.jpg",
+        "https://telegra.ph/file/78250b047716e077a136f.jpg",
+        "https://telegra.ph/file/d9446cab87dd3f5001b15.jpg",
+        "https://telegra.ph/file/a05deb5afdadc525dfc30.jpg",
+        "https://telegra.ph/file/31f7c228d4a4204035e3c.jpg",
+        "https://telegra.ph/file/0ae957c9688dbe141606d.jpg",
+        "https://telegra.ph/file/5d1c3442b7fa061c217a1.jpg",
+        "https://telegra.ph/file/dfa29366b380da55aeb3d.jpg",
+        "https://telegra.ph/file/7849dc07b6c7ebea8968e.jpg",
+        "https://telegra.ph/file/209c1bd60b46daff93ae9.jpg",
+        "https://telegra.ph/file/6fa0f76aea733583c10fc.jpg",
+        "https://telegra.ph/file/90891d78f7535cf8eef39.jpg",
+        "https://telegra.ph/file/4ca961a543c0efd0a7309.jpg",
+        "https://telegra.ph/file/f08e70bb9d03487849211.jpg",
+        "https://telegra.ph/file/ad81a98eb4a48218a9aeb.jpg"
+    ]
+};

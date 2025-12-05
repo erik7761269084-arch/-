@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7287,
+    "title": "OLケンタウロスと後輩君",
+    "sourceUrl": "https://telegra.ph/OLケンタウロスと後輩君-08-31",
+    "images": [
+        "https://telegra.ph/file/a09b727d5ed3a7d088e9d.jpg",
+        "https://telegra.ph/file/ac481fc7177711a108cf5.jpg",
+        "https://telegra.ph/file/8d4a7ea3fd6285cb5d834.jpg",
+        "https://telegra.ph/file/5c79267d2da9bfb55bf29.jpg",
+        "https://telegra.ph/file/1c8554e02086ede464f23.jpg",
+        "https://telegra.ph/file/1fd1cb73825a2c8da1656.jpg",
+        "https://telegra.ph/file/d6fc942ac5a1698aca9ea.jpg",
+        "https://telegra.ph/file/9be9845e35e6626d8d389.jpg",
+        "https://telegra.ph/file/fcd6fb234d43657116e0a.jpg",
+        "https://telegra.ph/file/e06e5bc1738a1e3df68d2.jpg",
+        "https://telegra.ph/file/28f0fe3a8ef425dfb8025.jpg",
+        "https://telegra.ph/file/d0d7ffec7b814771dbaeb.jpg",
+        "https://telegra.ph/file/04a823231c372428a6019.jpg",
+        "https://telegra.ph/file/c778893d161f757cee8ae.jpg",
+        "https://telegra.ph/file/5cdaf9b36b56b83239a2b.jpg",
+        "https://telegra.ph/file/5c266caaef3ea408ce497.jpg",
+        "https://telegra.ph/file/254ce55bdcc00d5aa4ded.jpg",
+        "https://telegra.ph/file/10127b17f8d33e971f8f3.jpg",
+        "https://telegra.ph/file/5a447f4b415631407c723.jpg",
+        "https://telegra.ph/file/50fb1c750457ceafb4552.jpg",
+        "https://telegra.ph/file/bf1391099d592e3c7c121.jpg",
+        "https://telegra.ph/file/610b3e3eda22b4d747df6.jpg",
+        "https://telegra.ph/file/a527d497c9c011ac70a46.jpg"
+    ]
+};

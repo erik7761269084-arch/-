@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7475,
+    "title": "裏 Birthday",
+    "sourceUrl": "https://telegra.ph/裏-Birthday-08-31",
+    "images": [
+        "https://telegra.ph/file/0068f4c0d3413eea43cd6.jpg",
+        "https://telegra.ph/file/d11b50f2abec6bd2433c8.jpg",
+        "https://telegra.ph/file/51b4f4b67f64eed6da6cb.jpg",
+        "https://telegra.ph/file/bf8e9d3dc9ef2020f0a07.jpg",
+        "https://telegra.ph/file/774306187332a31c21748.jpg",
+        "https://telegra.ph/file/32eeff49b6414b49c9e3d.jpg",
+        "https://telegra.ph/file/2e7c468f08191ce8de17d.jpg",
+        "https://telegra.ph/file/de92407b1eb22627c54f6.jpg",
+        "https://telegra.ph/file/7b31259d237153ef5a2dc.jpg",
+        "https://telegra.ph/file/2d2c009e2a9224d9e7e83.jpg",
+        "https://telegra.ph/file/a76f6a634e0c4d2c0e094.jpg",
+        "https://telegra.ph/file/7d345f47d47abf70821ae.jpg",
+        "https://telegra.ph/file/9a496890cda70a3ebd07e.jpg",
+        "https://telegra.ph/file/61036e79082c3ce5d68cd.jpg",
+        "https://telegra.ph/file/33dd6cd979aa3dd2cac57.jpg",
+        "https://telegra.ph/file/df6e27334a47580e5a0d5.jpg",
+        "https://telegra.ph/file/15ddafa8d990c2461a278.jpg",
+        "https://telegra.ph/file/ddc367017b3f6850207a3.jpg",
+        "https://telegra.ph/file/4d08d0561d934da2bea98.jpg",
+        "https://telegra.ph/file/9829a1a4f5572664682b3.jpg",
+        "https://telegra.ph/file/9b520beea1c113fa1fff7.jpg",
+        "https://telegra.ph/file/607bd23a1e6fbab958bf4.jpg",
+        "https://telegra.ph/file/45e9259239c0ec8479e24.jpg",
+        "https://telegra.ph/file/5741f8bb0be225008befa.jpg"
+    ]
+};

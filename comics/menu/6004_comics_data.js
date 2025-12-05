@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6004,
+    "title": "[小島紗] 神山さんと僕",
+    "sourceUrl": "https://telegra.ph/小島紗-神山さんと僕-08-31",
+    "images": [
+        "https://telegra.ph/file/eba555be48bfdfbef9e67.png",
+        "https://telegra.ph/file/92f0cc91f29496232cb68.png",
+        "https://telegra.ph/file/b24c895a194b0ef9bb486.png",
+        "https://telegra.ph/file/bbeb44b020730808dbdae.png",
+        "https://telegra.ph/file/eb0b72b56f48da4173685.png",
+        "https://telegra.ph/file/f96e852294d02ef035232.png",
+        "https://telegra.ph/file/ed5111df9a1f64099515e.png",
+        "https://telegra.ph/file/935b5896f89f0c1406c5f.png",
+        "https://telegra.ph/file/b91343cf3e883e1b35101.png",
+        "https://telegra.ph/file/37ba3ee7efc343d233616.png",
+        "https://telegra.ph/file/8be93f28f090221e8ef02.png",
+        "https://telegra.ph/file/f02d39fc6641b673b0d4e.png",
+        "https://telegra.ph/file/e76f9dd68ab769fb4504e.png",
+        "https://telegra.ph/file/fce8f76151eb8fabfa3b3.png",
+        "https://telegra.ph/file/e650b94994315cdb9533e.png",
+        "https://telegra.ph/file/0327e1520b7f9aa0dff49.png",
+        "https://telegra.ph/file/dfec96967c5a23330d5c2.png",
+        "https://telegra.ph/file/1b134267757d2c908bc66.png",
+        "https://telegra.ph/file/917987b1232ed7d06b728.png",
+        "https://telegra.ph/file/bfd89fec5e03fad0b30a6.png",
+        "https://telegra.ph/file/80e7234c6c3cd0806480a.png",
+        "https://telegra.ph/file/c7a94a8efb317efbcf66b.png",
+        "https://telegra.ph/file/8add93bd8dd1307e2a61f.png",
+        "https://telegra.ph/file/58d12e952e523f1f8f3b1.png"
+    ]
+};

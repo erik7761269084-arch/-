@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3699,
+    "title": "[三船誠二郎] 续篇+后日谈 巨乳精灵产子契约 [中国翻译]",
+    "sourceUrl": "https://telegra.ph/三船誠二郎-续篇后日谈-巨乳精灵产子契约-中国翻译-08-31",
+    "images": [
+        "https://telegra.ph/file/da41efc49411ecf5a51a7.jpg",
+        "https://telegra.ph/file/469f891c7a002ee59e1e6.jpg",
+        "https://telegra.ph/file/c2d3d5a6d85e0cab36edf.jpg",
+        "https://telegra.ph/file/1bcfc40089be2f6feca66.jpg",
+        "https://telegra.ph/file/5a2b9cd28669400bd4cfc.jpg",
+        "https://telegra.ph/file/3807f1d65e28820669c07.jpg",
+        "https://telegra.ph/file/d7903e8705b349d3701d7.jpg",
+        "https://telegra.ph/file/202b8a5842689236fedfe.jpg",
+        "https://telegra.ph/file/e9c27cacbf33b87e79753.jpg",
+        "https://telegra.ph/file/ce714d7c502b76cf662ef.jpg",
+        "https://telegra.ph/file/bf5ed27a61f7728d1bd13.jpg",
+        "https://telegra.ph/file/92bcc8b47d028f0ecef59.jpg",
+        "https://telegra.ph/file/8245aabc2a4527704d9c0.jpg",
+        "https://telegra.ph/file/793c298cd06f2e94aeb51.jpg",
+        "https://telegra.ph/file/bc287ae8e6b9b1618c4b6.jpg",
+        "https://telegra.ph/file/46f9b59f01da4add6379e.jpg",
+        "https://telegra.ph/file/7e5d8a52c9e28488c3224.jpg",
+        "https://telegra.ph/file/c6bf4a93e2ba3a9c23a7b.jpg",
+        "https://telegra.ph/file/a9ccbaf2a6c6e437b991b.jpg",
+        "https://telegra.ph/file/8a2fbc569881c404bc030.jpg",
+        "https://telegra.ph/file/79c40646d538a1ac3c109.jpg",
+        "https://telegra.ph/file/71983d65472572a475162.jpg",
+        "https://telegra.ph/file/2d420ceaeae85e79479ec.jpg",
+        "https://telegra.ph/file/cee3e2670419aa00a4898.jpg",
+        "https://telegra.ph/file/3c232c23f62fa4a3b0035.jpg",
+        "https://telegra.ph/file/443faa5edabd4ce9ee028.jpg"
+    ]
+};

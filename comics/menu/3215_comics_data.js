@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3215,
+    "title": "[平沢Zen] クリスマスモルガンさん＋ラフ",
+    "sourceUrl": "https://telegra.ph/平沢Zen-クリスマスモルガンさんラフ-08-31",
+    "images": [
+        "https://telegra.ph/file/3458e219dde381cf21d38.jpg",
+        "https://telegra.ph/file/8ea7abf340deaf5116377.jpg",
+        "https://telegra.ph/file/ff3323ce2f522b41c49cd.jpg",
+        "https://telegra.ph/file/ea06071ff7f23bbc13db8.jpg",
+        "https://telegra.ph/file/f8389162d75bac83669af.jpg",
+        "https://telegra.ph/file/21a23adb388781ff162a8.jpg",
+        "https://telegra.ph/file/2d1481bb2abc1308f56c3.jpg",
+        "https://telegra.ph/file/b5541451aaa20a2488a53.jpg",
+        "https://telegra.ph/file/46d6018dfe37af1529bb9.jpg",
+        "https://telegra.ph/file/1c2cd3d34ee0e6f09fd19.jpg",
+        "https://telegra.ph/file/3efd44f8a901e31cf182c.jpg",
+        "https://telegra.ph/file/a03da85ef5dfb705b4898.jpg",
+        "https://telegra.ph/file/5b6e65ac034a679f469bb.jpg",
+        "https://telegra.ph/file/c682595c96ca0b9799cdf.jpg",
+        "https://telegra.ph/file/b580aed3da3c86309d141.jpg",
+        "https://telegra.ph/file/1752450ca374d9c45422e.jpg",
+        "https://telegra.ph/file/11e5c08aaa0153fd22b15.jpg",
+        "https://telegra.ph/file/f23f0af3b37e7cceebc4a.jpg",
+        "https://telegra.ph/file/0aea40884a8e59cea9399.jpg",
+        "https://telegra.ph/file/0772b1c7b0f433c4d7d88.jpg",
+        "https://telegra.ph/file/1144fadaec2d1ba6a7390.jpg",
+        "https://telegra.ph/file/4be3e6e48a6c0ff6f72f8.jpg",
+        "https://telegra.ph/file/ce9f44f3a07aa27e22ea1.jpg"
+    ]
+};

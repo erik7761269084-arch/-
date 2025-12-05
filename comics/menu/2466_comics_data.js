@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2466,
+    "title": "(C99) [鮭缶メモリアル (ソロピップB)] Lymphae -リンファエ-",
+    "sourceUrl": "https://telegra.ph/C99-鮭缶メモリアル-ソロピップB-Lymphae--リンファエ-08-31",
+    "images": [
+        "https://telegra.ph/file/3fcea67140fab64cf0393.jpg",
+        "https://telegra.ph/file/19c33177e0380b8a673fe.jpg",
+        "https://telegra.ph/file/68fa876c4b291d6ed8fd1.jpg",
+        "https://telegra.ph/file/58e6456eadced720f61cb.jpg",
+        "https://telegra.ph/file/249d38f558359480b0721.jpg",
+        "https://telegra.ph/file/71178717ecb0acc56c643.jpg",
+        "https://telegra.ph/file/fe9bf850a54f2bf7146e0.jpg",
+        "https://telegra.ph/file/c110c83b9c5ec75c33bdf.jpg",
+        "https://telegra.ph/file/ab68965bfc576c1412ad6.jpg",
+        "https://telegra.ph/file/77eb21488a112fc617bd5.jpg",
+        "https://telegra.ph/file/1ebb71fefeb0b50da87f0.jpg",
+        "https://telegra.ph/file/971a9ac2dbcdf4ae7cad8.jpg",
+        "https://telegra.ph/file/deade14607f79f2440e5e.jpg",
+        "https://telegra.ph/file/2407ad33edaee9531223d.jpg",
+        "https://telegra.ph/file/e11dd807514ed706a1639.jpg",
+        "https://telegra.ph/file/3bd4737b76c6ff3c0f5ac.jpg",
+        "https://telegra.ph/file/61130b032985a6c24bcee.jpg",
+        "https://telegra.ph/file/06e8f690c8561cac92292.jpg",
+        "https://telegra.ph/file/3e49f4546f85c50dc9e81.jpg",
+        "https://telegra.ph/file/83e109e4d4ddf3c3173f0.jpg",
+        "https://telegra.ph/file/49dea80ca76112be7ca79.jpg",
+        "https://telegra.ph/file/4e4a531cee583ba8a58cc.jpg",
+        "https://telegra.ph/file/4a0be82f0defee9bfd413.jpg",
+        "https://telegra.ph/file/cca2e277e85e99b338fe0.jpg",
+        "https://telegra.ph/file/afc5cc5caab6cb6aee20a.jpg"
+    ]
+};

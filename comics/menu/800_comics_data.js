@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 800,
+    "title": "[haku89] 影の秘密伝説任務 間章 (原神) [中国語、日語]",
+    "sourceUrl": "https://telegra.ph/haku89-影の秘密伝説任務-間章-原神-中国語日語-08-31",
+    "images": [
+        "https://telegra.ph/file/b24ac93e775bc6232cf35.jpg",
+        "https://telegra.ph/file/6d85bfc2a620ad426d67a.jpg",
+        "https://telegra.ph/file/bd32ca5c3934f74f756de.jpg",
+        "https://telegra.ph/file/907399bd0dfa2a69dbb47.jpg",
+        "https://telegra.ph/file/fd823f4fb9c27749d89c2.jpg",
+        "https://telegra.ph/file/3166cfb6ecba0df42f010.jpg",
+        "https://telegra.ph/file/a3e42c83a8a855267055a.jpg",
+        "https://telegra.ph/file/6253c9560ed134d8a7346.jpg",
+        "https://telegra.ph/file/1b10d098512a34a28635c.jpg",
+        "https://telegra.ph/file/b87e775d9bc6c0572989c.jpg",
+        "https://telegra.ph/file/66ffe6851a4c467924ac7.jpg",
+        "https://telegra.ph/file/64ef43062d5bec50c8513.jpg",
+        "https://telegra.ph/file/04e0bddfe29118d268cd7.jpg",
+        "https://telegra.ph/file/9e32221382556f6f5d222.jpg",
+        "https://telegra.ph/file/81d43066e0b0b622b6228.jpg",
+        "https://telegra.ph/file/9d860937e29f6cc3f60f9.jpg",
+        "https://telegra.ph/file/abae97fef7c3072fa5c64.jpg",
+        "https://telegra.ph/file/c59eefd56537392321ec4.jpg",
+        "https://telegra.ph/file/5b47ae5dfd8df65dcafa8.jpg",
+        "https://telegra.ph/file/dfce2ca05461a96499988.jpg",
+        "https://telegra.ph/file/c007fd1d8eb05e7c192ee.jpg",
+        "https://telegra.ph/file/3e7acc1c2eb6d01335505.jpg",
+        "https://telegra.ph/file/0b1ed244ac32156d26e47.jpg"
+    ]
+};

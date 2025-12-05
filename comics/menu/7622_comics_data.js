@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7622,
+    "title": "黒ギャル部長奮闘記!",
+    "sourceUrl": "https://telegra.ph/黒ギャル部長奮闘記-08-31",
+    "images": [
+        "https://telegra.ph/file/ca42587a12790892c8f13.jpg",
+        "https://telegra.ph/file/04890737c667f5183575c.jpg",
+        "https://telegra.ph/file/d9787d5c8f43a00926d9b.jpg",
+        "https://telegra.ph/file/0633a5d10083b5416e55f.jpg",
+        "https://telegra.ph/file/71926c9af563e1b1dfb08.jpg",
+        "https://telegra.ph/file/ed9b34d0bec88b2a105a1.jpg",
+        "https://telegra.ph/file/20b286bc2d581a7d2aac9.jpg",
+        "https://telegra.ph/file/587d26d217c75f2b6f3b8.jpg",
+        "https://telegra.ph/file/aaed8a1bca8442f3dcff1.jpg",
+        "https://telegra.ph/file/3cf0de4b28bb55a06a861.jpg",
+        "https://telegra.ph/file/c1c4fbfbe92210d13297e.jpg",
+        "https://telegra.ph/file/7f8f6e25ccb7f91214190.jpg",
+        "https://telegra.ph/file/5e4d92f15c54384b61339.jpg",
+        "https://telegra.ph/file/d4b079301355abd62f44b.jpg",
+        "https://telegra.ph/file/b5d4e0154cb71646c0f7e.jpg",
+        "https://telegra.ph/file/c67eb81bcee9c0121b2e2.jpg",
+        "https://telegra.ph/file/73bf234ba00dc97c54c9e.jpg",
+        "https://telegra.ph/file/21528b51184902120f36e.jpg",
+        "https://telegra.ph/file/8a0342b2da8591248a607.jpg",
+        "https://telegra.ph/file/a8e366c54cc2960457a9e.jpg",
+        "https://telegra.ph/file/a9aa70ce2be520322a17a.jpg",
+        "https://telegra.ph/file/bc9008bb5d04cc4844e43.jpg",
+        "https://telegra.ph/file/a84bc90bd3b54cde6053d.jpg",
+        "https://telegra.ph/file/3d1b8985e87a5c6debd82.jpg"
+    ]
+};

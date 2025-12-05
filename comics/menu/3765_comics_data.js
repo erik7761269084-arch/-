@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3765,
+    "title": "(C99) [桃色双六 (シスイ青)] 船長の出航乱交本 (宝鐘マリン)",
+    "sourceUrl": "https://telegra.ph/C99-桃色双六-シスイ青-船長の出航乱交本-宝鐘マリン-08-31",
+    "images": [
+        "https://telegra.ph/file/726ae56d8bf85bafd9d3e.jpg",
+        "https://telegra.ph/file/2dc40bb57a00753e53167.jpg",
+        "https://telegra.ph/file/69250af0ac8313cb6999e.jpg",
+        "https://telegra.ph/file/262fcdebc714c83bc0ff6.jpg",
+        "https://telegra.ph/file/c41368fc4f7e256917f39.jpg",
+        "https://telegra.ph/file/a8526dd123a32706c0772.jpg",
+        "https://telegra.ph/file/582a966b92c3f3d23cb98.jpg",
+        "https://telegra.ph/file/de57c6856b8c4bddf6389.jpg",
+        "https://telegra.ph/file/83bbc50e8df7be6af4c3d.jpg",
+        "https://telegra.ph/file/a7a4669260d69c35351fb.jpg",
+        "https://telegra.ph/file/0805e9f09f47ce49b4fd1.jpg",
+        "https://telegra.ph/file/79caf41e3634790a487c5.jpg",
+        "https://telegra.ph/file/b00351370d4de001f2799.jpg",
+        "https://telegra.ph/file/47605e0b87a9e21647615.jpg",
+        "https://telegra.ph/file/ba44e4524f45c12f014fc.jpg",
+        "https://telegra.ph/file/f1ec309e66e33225b805a.jpg",
+        "https://telegra.ph/file/e34c27cd0e7192c4f3906.jpg",
+        "https://telegra.ph/file/54b5c23854ce7a216ae9d.jpg",
+        "https://telegra.ph/file/605104889c5d97d7c6e14.jpg",
+        "https://telegra.ph/file/7b727c386d09574d663c6.jpg",
+        "https://telegra.ph/file/61a65648f485df2aec7ea.jpg",
+        "https://telegra.ph/file/9f6f0ce9966dae19a3319.jpg",
+        "https://telegra.ph/file/ab9adef0a48920a563135.jpg",
+        "https://telegra.ph/file/cda751e1828144a30f47e.jpg"
+    ]
+};

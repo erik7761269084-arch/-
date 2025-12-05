@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3326,
+    "title": "(C99) [黒白デザイア (秋月からす)] 上上下下乳上乳上 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-黒白デザイア-秋月からす-上上下下乳上乳上-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/b8bb11870bff15ca74696.jpg",
+        "https://telegra.ph/file/39ab80dc7c23dfef6a5e1.jpg",
+        "https://telegra.ph/file/f5a48a4f5f6c1671ff9f2.jpg",
+        "https://telegra.ph/file/b365fbac023be7aa4b970.jpg",
+        "https://telegra.ph/file/8f40a53ed91d8292cca03.jpg",
+        "https://telegra.ph/file/74e80fcc27dbef9008ac8.jpg",
+        "https://telegra.ph/file/3ac73c808ee65bbd1c968.jpg",
+        "https://telegra.ph/file/9ec634619fc521170fe81.jpg",
+        "https://telegra.ph/file/fe9c6b3a624deacd18a91.jpg",
+        "https://telegra.ph/file/185ca1a0055215916f874.jpg",
+        "https://telegra.ph/file/df0dfbc495863f4cf0d7a.jpg",
+        "https://telegra.ph/file/e48b1d9b599cc0e917e47.jpg",
+        "https://telegra.ph/file/a26a05c83d11df18130d3.jpg",
+        "https://telegra.ph/file/0c62a229cc07d479dd59e.jpg",
+        "https://telegra.ph/file/8ba13277baccf1a5ed944.jpg",
+        "https://telegra.ph/file/f84d816f6186dbe6e1329.jpg",
+        "https://telegra.ph/file/ecacb9e62ca4f8ea97e03.jpg",
+        "https://telegra.ph/file/0a79ba1d735516d765544.jpg",
+        "https://telegra.ph/file/b9a0bc05c26b1d6f0380b.jpg",
+        "https://telegra.ph/file/2a1a7e420f51e2a10795b.jpg",
+        "https://telegra.ph/file/c86dfff94ce413e3e7e0a.jpg",
+        "https://telegra.ph/file/e1e8022ab13b3999d35f2.jpg",
+        "https://telegra.ph/file/62d3bc5e2cfe88d78bbc0.jpg",
+        "https://telegra.ph/file/44c9604b331cbf58dab4e.jpg",
+        "https://telegra.ph/file/16e8980576ab8df43b5e5.jpg",
+        "https://telegra.ph/file/cafb7221a00d80fb33a5a.jpg"
+    ]
+};

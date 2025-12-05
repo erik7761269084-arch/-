@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1353,
+    "title": "[星井情] 好きなんだもん (WEEKLY快楽天 2022 No.08)",
+    "sourceUrl": "https://telegra.ph/星井情-好きなんたもん-WEEKLY快楽天-2022-No08-08-31",
+    "images": [
+        "https://telegra.ph/file/d74be37640fec287fcae0.jpg",
+        "https://telegra.ph/file/c9461f76a7f5963fdbd23.jpg",
+        "https://telegra.ph/file/03ad3ae7739a3161d75f0.jpg",
+        "https://telegra.ph/file/657f4f35507b7ecff46d6.jpg",
+        "https://telegra.ph/file/6b1444d09ba0636fa5e0f.jpg",
+        "https://telegra.ph/file/4b5a8d042e4b5405d5915.jpg",
+        "https://telegra.ph/file/60f285f1ccdcef74d5511.jpg",
+        "https://telegra.ph/file/18e7f4389c03b0647adba.jpg",
+        "https://telegra.ph/file/d01d4422b5564de15d7ae.jpg",
+        "https://telegra.ph/file/d982957c4d7641c742971.jpg",
+        "https://telegra.ph/file/012d43865a40845667c90.jpg",
+        "https://telegra.ph/file/dff9a4ccb71759a84361e.jpg",
+        "https://telegra.ph/file/b490ae8c010aceeb7bfbc.jpg",
+        "https://telegra.ph/file/d25147a16ed48e8bed2f1.jpg",
+        "https://telegra.ph/file/827b882b55204d5428297.jpg",
+        "https://telegra.ph/file/2292f24a0ee0dd24e9ab9.jpg",
+        "https://telegra.ph/file/68d4d00ed832e092ec4f4.jpg",
+        "https://telegra.ph/file/d44fe0583dd40491a6cc0.jpg",
+        "https://telegra.ph/file/c6cd1f7494595bc9cea94.jpg",
+        "https://telegra.ph/file/a681ff131caf23967804f.jpg",
+        "https://telegra.ph/file/0596470717fc60afa0fe1.jpg",
+        "https://telegra.ph/file/de934c6af88dd780aba24.jpg",
+        "https://telegra.ph/file/7691758a3e87ac8ba9898.jpg",
+        "https://telegra.ph/file/78f44df6b1e534255473e.jpg"
+    ]
+};

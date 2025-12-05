@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3246,
+    "title": "[宮本りず] 不運ギャル女子大生がまっすぐな彼に出逢ったら (コミックトリガー vol.02)",
+    "sourceUrl": "https://telegra.ph/宮本りず-不運ギャル女子大生がまっすぐな彼に出逢ったら-コミックトリガー-vol02-08-31",
+    "images": [
+        "https://telegra.ph/file/66f24e5a7d310e06604f4.jpg",
+        "https://telegra.ph/file/5b44d5b6ed5e3e3bff0a2.jpg",
+        "https://telegra.ph/file/fa1b31a556280e8c61d95.jpg",
+        "https://telegra.ph/file/0fe6ed2084abcce1ac9bb.jpg",
+        "https://telegra.ph/file/a1dd988cf2dd9f43593fe.jpg",
+        "https://telegra.ph/file/8d0a9a3627874260b4fc8.jpg",
+        "https://telegra.ph/file/e76f76b1ea0ce403deb4b.jpg",
+        "https://telegra.ph/file/9eb910bda2ca5b3711091.jpg",
+        "https://telegra.ph/file/65bf72415717fe0a437bf.jpg",
+        "https://telegra.ph/file/825477bbbdfe0c5d35355.jpg",
+        "https://telegra.ph/file/dab16f1cfdf6403251ae2.jpg",
+        "https://telegra.ph/file/378f919b53fff782161fb.jpg",
+        "https://telegra.ph/file/84585dd03c098e7f7639f.jpg",
+        "https://telegra.ph/file/a08fac0e81abd7aa16d5d.jpg",
+        "https://telegra.ph/file/69911a0ce65b02a5e885c.jpg",
+        "https://telegra.ph/file/073face710a45040a4592.jpg",
+        "https://telegra.ph/file/e4a5ac3605ae61916e8c2.jpg",
+        "https://telegra.ph/file/9d2ddde94ea29b99e0e7b.jpg",
+        "https://telegra.ph/file/8be22191cf700db4d0939.jpg",
+        "https://telegra.ph/file/47db852da31d7943de76a.jpg",
+        "https://telegra.ph/file/6314c8375021c2784a92a.jpg",
+        "https://telegra.ph/file/6a9057c0d4e60529cc2ce.jpg",
+        "https://telegra.ph/file/9249c49450bf6d55845f7.jpg",
+        "https://telegra.ph/file/7ebe3f0bc56816b6bc43c.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

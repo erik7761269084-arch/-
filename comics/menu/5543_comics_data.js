@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5543,
+    "title": "[木谷椎] ひめはじめ",
+    "sourceUrl": "https://telegra.ph/木谷椎-ひめはじめ-08-31",
+    "images": [
+        "https://telegra.ph/file/f27bd24af8012a6a21662.jpg",
+        "https://telegra.ph/file/076018ff2a9ab6197f53f.jpg",
+        "https://telegra.ph/file/211f1085925537553d48b.jpg",
+        "https://telegra.ph/file/bfc0cc7e96f19af424fef.jpg",
+        "https://telegra.ph/file/c77eda3c43c6e34d93724.jpg",
+        "https://telegra.ph/file/a9556db87ee9953399120.jpg",
+        "https://telegra.ph/file/c868d20f0c2f3604644c7.jpg",
+        "https://telegra.ph/file/e7ab078f0718f330f1847.jpg",
+        "https://telegra.ph/file/9c7d45321992d7d7d5839.jpg",
+        "https://telegra.ph/file/383db60c24c46a477cbb6.jpg",
+        "https://telegra.ph/file/b1df9536c92eb6d35e13b.jpg",
+        "https://telegra.ph/file/bca7c761e82515ed32055.jpg",
+        "https://telegra.ph/file/6ec673b0cbf69a8de8e22.jpg",
+        "https://telegra.ph/file/a94297460a98490f56d23.jpg",
+        "https://telegra.ph/file/4fb9fa9e970562d2bcfa6.jpg",
+        "https://telegra.ph/file/c8bbcccb9155e690a653b.jpg",
+        "https://telegra.ph/file/36b1ffde8b73dec29e109.jpg",
+        "https://telegra.ph/file/3a1d52a69a8effc63f877.jpg",
+        "https://telegra.ph/file/7dfe52954515a6b021635.jpg",
+        "https://telegra.ph/file/2b3b1d0f7351d45e7044b.jpg",
+        "https://telegra.ph/file/572ec08803bcb4e414b89.jpg",
+        "https://telegra.ph/file/7659691a5b80e28b34074.jpg",
+        "https://telegra.ph/file/502d94e1a7b846d24675d.jpg",
+        "https://telegra.ph/file/92082cabf61539f78c3bd.jpg",
+        "https://telegra.ph/file/3c5c7c1e3f3913f7800f5.jpg"
+    ]
+};

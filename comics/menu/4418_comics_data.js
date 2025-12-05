@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4418,
+    "title": "(サンクリ56) [Tridisaster (さいだ一明)] 魔睡 (Another)",
+    "sourceUrl": "https://telegra.ph/サンクリ56-Tridisaster-さいだ一明-魔睡-Another-08-31",
+    "images": [
+        "https://telegra.ph/file/cde0a735c0723960ee691.jpg",
+        "https://telegra.ph/file/f1122f7edbcf75921f368.jpg",
+        "https://telegra.ph/file/8d43393179ee29e0f4283.jpg",
+        "https://telegra.ph/file/2b223cb833f5e4027d9da.jpg",
+        "https://telegra.ph/file/c85713f6bad8551c05d09.jpg",
+        "https://telegra.ph/file/a6a30d865f7d83a770efd.jpg",
+        "https://telegra.ph/file/1f9487f514f16a70064df.jpg",
+        "https://telegra.ph/file/13bed1f1d2b3ac6f344cb.jpg",
+        "https://telegra.ph/file/60c13392d45530451c2a0.jpg",
+        "https://telegra.ph/file/20212e87aeca933eb8a7c.jpg",
+        "https://telegra.ph/file/0f03e42e3e5a8eafe8dde.jpg",
+        "https://telegra.ph/file/41e6d482e07981c0fe526.jpg",
+        "https://telegra.ph/file/bb5c2ddd4dd0a39f57e50.jpg",
+        "https://telegra.ph/file/bfb287e497e2c6c4e103c.jpg",
+        "https://telegra.ph/file/65f446021e296fcea2acd.jpg",
+        "https://telegra.ph/file/66d0699d125f8fbc240b6.jpg",
+        "https://telegra.ph/file/cd767e1f3c136708ce794.jpg",
+        "https://telegra.ph/file/6a7762798926f93af345f.jpg",
+        "https://telegra.ph/file/e948a1cfb1a446056a63b.jpg",
+        "https://telegra.ph/file/29095553182b27cb9669e.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/993f07f1c165f24f54716.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/b15058f85a77c7486c310.jpg"
+    ]
+};

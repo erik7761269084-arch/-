@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7441,
+    "title": "ウラ学園祭で脱童貞！！",
+    "sourceUrl": "https://telegra.ph/ウラ学園祭で脱童貞-08-31",
+    "images": [
+        "https://telegra.ph/file/928fa96f29e25f2eff880.png",
+        "https://telegra.ph/file/b42ad96a0587b3c41ab41.png",
+        "https://telegra.ph/file/83a9c9abab72d2e509ad9.png",
+        "https://telegra.ph/file/927be6363e6c31a17e2b7.png",
+        "https://telegra.ph/file/bc6a1938a7b3f83e69249.png",
+        "https://telegra.ph/file/d498021a712d560528941.png",
+        "https://telegra.ph/file/16cea9c920fccfbca0d67.png",
+        "https://telegra.ph/file/e18458acaee5b10c23ea5.png",
+        "https://telegra.ph/file/1b904e7fe33863718dcd8.png",
+        "https://telegra.ph/file/c06130c7ee8376ec068ef.png",
+        "https://telegra.ph/file/26a6fd955a988961a9b79.png",
+        "https://telegra.ph/file/b5e8a92eb405f3700ce05.png",
+        "https://telegra.ph/file/473e50eae5f4cc632436f.png",
+        "https://telegra.ph/file/3f3828f222348ba75393c.png",
+        "https://telegra.ph/file/3cabc265dee81619b5203.png",
+        "https://telegra.ph/file/a7d0bf1800f77e5b43606.png",
+        "https://telegra.ph/file/2c486b4ea9f770549e3f3.png",
+        "https://telegra.ph/file/0be4d29cb8fc036d2b5b4.png",
+        "https://telegra.ph/file/898d44d4be3d4334474cb.png",
+        "https://telegra.ph/file/196dacbd78e2060d66175.png",
+        "https://telegra.ph/file/d8d855182fb5ec4cd509c.png",
+        "https://telegra.ph/file/511d65566b59b1b27c52a.png",
+        "https://telegra.ph/file/74d82c03539404b08e6ac.png"
+    ]
+};

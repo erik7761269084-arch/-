@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4711,
+    "title": "(COMIC1☆15) [Nameless (鬼針草)] メルトリリスの被虐記録 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/COMIC115-Nameless-鬼針草-メルトリリスの被虐記録-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/24bda714b414d6cac3438.jpg",
+        "https://telegra.ph/file/d4760e2eb802c4e6ad876.jpg",
+        "https://telegra.ph/file/f7a0b6f1bc59434a8b638.jpg",
+        "https://telegra.ph/file/5909c520cdbc26a04f1a1.jpg",
+        "https://telegra.ph/file/155a24f2fd85014a76288.jpg",
+        "https://telegra.ph/file/c9eeb3ac1f02b3162b5a1.jpg",
+        "https://telegra.ph/file/5a62488b3808128c536e1.jpg",
+        "https://telegra.ph/file/5ab87124a6854334a28ac.jpg",
+        "https://telegra.ph/file/57c695679accc9b2e121f.jpg",
+        "https://telegra.ph/file/399fa7f6fc3e67d28d0bf.jpg",
+        "https://telegra.ph/file/ac9c8785b17863725afa7.jpg",
+        "https://telegra.ph/file/ed23c324f7918d40254fc.jpg",
+        "https://telegra.ph/file/b7d15231267e5f6ff980b.jpg",
+        "https://telegra.ph/file/2204c016218a01fa37a8b.jpg",
+        "https://telegra.ph/file/03a6548cf914d78c8ba83.jpg",
+        "https://telegra.ph/file/2fd31dc065dff3df5f30a.jpg",
+        "https://telegra.ph/file/2bafb4e1e9944194316e0.jpg",
+        "https://telegra.ph/file/6dd779287a5dacdaeb2a2.jpg",
+        "https://telegra.ph/file/69f0223fc2b6dc58948ee.jpg",
+        "https://telegra.ph/file/ec93601f2085c1a2c0e83.jpg",
+        "https://telegra.ph/file/e3bac69201cd5e44950fc.jpg",
+        "https://telegra.ph/file/57e1e28cb223a03bd8e38.jpg",
+        "https://telegra.ph/file/355cbcdcf13971cd66116.jpg",
+        "https://telegra.ph/file/9ae7444d50c73557eae1a.jpg",
+        "https://telegra.ph/file/558e71cac135481f3eb4e.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2540,
+    "title": "[おつきみ工房 (秋空もみぢ)] 秘孔整体で性感度MAX施術されちゃうJK",
+    "sourceUrl": "https://telegra.ph/おつきみ工房-秋空もみぢ-秘孔整体で性感度MAX施術されちゃうJK-08-31",
+    "images": [
+        "https://telegra.ph/file/4be3ba077d1e75843cbcb.jpg",
+        "https://telegra.ph/file/da7a4fb6c69c8ad7d5c5e.jpg",
+        "https://telegra.ph/file/edef565b16ddfad0e9c48.jpg",
+        "https://telegra.ph/file/9b766856384ddb4e3d74b.jpg",
+        "https://telegra.ph/file/04527f45e9e1ae39c66fa.jpg",
+        "https://telegra.ph/file/8b1310e407ddf361e85fa.jpg",
+        "https://telegra.ph/file/60b42bcdc92ff3bb28513.jpg",
+        "https://telegra.ph/file/178501bf94e8086dd3260.jpg",
+        "https://telegra.ph/file/d91a32821a1017bc0eadc.jpg",
+        "https://telegra.ph/file/c4677fb08a6c866d33c4c.jpg",
+        "https://telegra.ph/file/8f83b376efe48a58de803.jpg",
+        "https://telegra.ph/file/56a3a2abaf8d2f9d5258a.jpg",
+        "https://telegra.ph/file/32b096e0fb175e2e0a61e.jpg",
+        "https://telegra.ph/file/c3a1259c8ab9fcb4fd4e1.jpg",
+        "https://telegra.ph/file/8e40ceb0ec56dbc4ded97.jpg",
+        "https://telegra.ph/file/0d11b42176a88dc9f1675.jpg",
+        "https://telegra.ph/file/4dc3d7d5978acc483424e.jpg",
+        "https://telegra.ph/file/147b2dc0d2ae7c905aa84.jpg",
+        "https://telegra.ph/file/3d948d3553deefdb3949b.jpg",
+        "https://telegra.ph/file/57b3ab0a1ec44f3c64cc4.jpg",
+        "https://telegra.ph/file/d4ed716997a34701a79c9.jpg",
+        "https://telegra.ph/file/3f182c1e33ac7927b015a.jpg",
+        "https://telegra.ph/file/503d83560a1f97f07f4b1.jpg",
+        "https://telegra.ph/file/d97f1a01160430599deca.jpg",
+        "https://telegra.ph/file/1812be1ff738211080744.jpg",
+        "https://telegra.ph/file/53118e585ce5665b53070.jpg"
+    ]
+};

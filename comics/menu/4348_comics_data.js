@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4348,
+    "title": "[大林森] イタズラ未亡人 (ANGEL 倶楽部 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/大林森-イタズラ未亡人-ANGEL-倶楽部-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/fa312802e5840bb034416.jpg",
+        "https://telegra.ph/file/33b06142f5747546d5475.jpg",
+        "https://telegra.ph/file/94931777696cd1c14c8ce.jpg",
+        "https://telegra.ph/file/616ca34f2d9fd6c63b57c.jpg",
+        "https://telegra.ph/file/fa6550b49e274903c763e.jpg",
+        "https://telegra.ph/file/c8ce3e89260e20fc50cdd.jpg",
+        "https://telegra.ph/file/f444d77e858d250b44069.jpg",
+        "https://telegra.ph/file/5a8f9d86e8ac33c4cf3f3.jpg",
+        "https://telegra.ph/file/4bf7eb9dc1c97dc83024d.jpg",
+        "https://telegra.ph/file/8f2403551f9c0d66d4a6b.jpg",
+        "https://telegra.ph/file/b76cff0e3f770861e1c0b.jpg",
+        "https://telegra.ph/file/ea7fcd9ba4b7c9d3dc2c6.jpg",
+        "https://telegra.ph/file/96b599e01c5d827ba99c1.jpg",
+        "https://telegra.ph/file/b9086c24f04ceeb75899a.jpg",
+        "https://telegra.ph/file/363147d8e627fb2128a41.jpg",
+        "https://telegra.ph/file/07f00eb5525e0e28f64cf.jpg",
+        "https://telegra.ph/file/877cddb96babd5d6c5ba9.jpg",
+        "https://telegra.ph/file/2aa462b1eac6469464796.jpg",
+        "https://telegra.ph/file/ca4fac32e51986dc307b1.jpg",
+        "https://telegra.ph/file/e2f2e9cf9400f6bca4963.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/7d2442dca710ab10252af.png",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3667,
+    "title": "(C86) [裏方本舗 (SINK)] ウラバンビvol.49 母さんは僕が知らない内にオマ○コにドハマりしてました。 (ガンダムビルドファイターズ)",
+    "sourceUrl": "https://telegra.ph/C86-裏方本舗-SINK-ウラバンビvol49-母さんは僕が知らない内にオマコにドハマりしてました-ガンダムビルドファイターズ-08-31-2",
+    "images": [
+        "https://telegra.ph/file/eb7ca8f9753ccd68719f5.jpg",
+        "https://telegra.ph/file/b1f4883d0214bd95db7e3.jpg",
+        "https://telegra.ph/file/0043b259a1be40072232e.jpg",
+        "https://telegra.ph/file/1c8a91bceba25a30f0157.jpg",
+        "https://telegra.ph/file/c7751461ca5adf18cbb4b.jpg",
+        "https://telegra.ph/file/dda13804cc8ecad64b17e.jpg",
+        "https://telegra.ph/file/52e8f8162b97f04afb437.jpg",
+        "https://telegra.ph/file/678de559399559ebca6cb.jpg",
+        "https://telegra.ph/file/1e7bed1585c7ba7f3bc55.jpg",
+        "https://telegra.ph/file/180d6c2ee12a7f39de162.jpg",
+        "https://telegra.ph/file/7ca21652f0e72f70ebd7d.jpg",
+        "https://telegra.ph/file/254376840817f561abd5c.jpg",
+        "https://telegra.ph/file/b62d9a6c063728e093d03.jpg",
+        "https://telegra.ph/file/be4993ff821cbd4b54080.jpg",
+        "https://telegra.ph/file/09499bb60414e9aa38622.jpg",
+        "https://telegra.ph/file/a43b000b3cb948fa26b73.jpg",
+        "https://telegra.ph/file/7b02cb8d0f2a40cb4759d.jpg",
+        "https://telegra.ph/file/36fafe0df8bda05739d7d.jpg",
+        "https://telegra.ph/file/5611ebb2e32c76d1adbf6.jpg",
+        "https://telegra.ph/file/0e6c9303620e990ff8e9f.jpg",
+        "https://telegra.ph/file/7ea7ec9cb41232f5e1521.jpg",
+        "https://telegra.ph/file/65c7bf8a1fb30fb359995.jpg",
+        "https://telegra.ph/file/9f75edc137f98ccefee3d.jpg",
+        "https://telegra.ph/file/3f242432be7d41aca1000.jpg",
+        "https://telegra.ph/file/393cd08af415f9e17128f.jpg",
+        "https://telegra.ph/file/430e406bb82195b2dd8b3.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4659,
+    "title": "[ちょりもっき] 優しく奪って (COMIC 快楽天 2021年8月号)",
+    "sourceUrl": "https://telegra.ph/ちょりもっき-優しく奪って-COMIC-快楽天-2021年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7a614ae6452d2b2a56cac.jpg",
+        "https://telegra.ph/file/460c6b8a62f9538c1cb70.jpg",
+        "https://telegra.ph/file/97c2e6fe4ac27e6b989d5.jpg",
+        "https://telegra.ph/file/61b691c6b5c65f82e63fa.jpg",
+        "https://telegra.ph/file/c43b3cfb30dd7010800be.jpg",
+        "https://telegra.ph/file/f3d6b347d05fb70b4b842.jpg",
+        "https://telegra.ph/file/e00107705b9c04b2c2f46.jpg",
+        "https://telegra.ph/file/46ead1da7874bf177d5a3.jpg",
+        "https://telegra.ph/file/ae62ca2a28489f1242a06.jpg",
+        "https://telegra.ph/file/61daf912c4634a19f767c.jpg",
+        "https://telegra.ph/file/42709e771194d91143349.jpg",
+        "https://telegra.ph/file/e443897becb20ac2956fb.jpg",
+        "https://telegra.ph/file/52bc4cd586f61a8857d7a.jpg",
+        "https://telegra.ph/file/0eee324098b8b6db4179a.jpg",
+        "https://telegra.ph/file/b14847ff518e20cffebe1.jpg",
+        "https://telegra.ph/file/b4dc80c5949b8f3b773df.jpg",
+        "https://telegra.ph/file/317d3f3919e76f119c261.jpg",
+        "https://telegra.ph/file/37702827e515a7c803888.jpg",
+        "https://telegra.ph/file/1d51a4b18c3f9e4ac7d43.jpg",
+        "https://telegra.ph/file/f98eea18083764f512f0d.jpg",
+        "https://telegra.ph/file/bc3c813200c61eabc52dc.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/ed8c50f90f950b3fd8a60.jpg",
+        "https://telegra.ph/file/f967b1defaadb6d21c016.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/a8bb1510d150914c398f6.jpg"
+    ]
+};

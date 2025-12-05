@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 94,
+    "title": "[あずせ] 今日から家族、そして恋人。 第4話 (アナンガ・ランガ Vol. 83)",
+    "sourceUrl": "https://telegra.ph/あずせ-今日から家族そして恋人-第4話-アナンガランガ-Vol-83-08-31",
+    "images": [
+        "https://telegra.ph/file/3ce905b8adfa1334a2e3f.jpg",
+        "https://telegra.ph/file/1d00e927ae814a29d1e5f.jpg",
+        "https://telegra.ph/file/60c777156988ec30e1b21.jpg",
+        "https://telegra.ph/file/cb509c92b5b971f916fec.jpg",
+        "https://telegra.ph/file/22e2ed816c6c4e6c63acc.jpg",
+        "https://telegra.ph/file/8e7ac66966af829c510bc.jpg",
+        "https://telegra.ph/file/3f73f69ba473750ab0fea.jpg",
+        "https://telegra.ph/file/0c55aeb2e96ca87f1a76f.jpg",
+        "https://telegra.ph/file/41b2afcec990f68850dfb.jpg",
+        "https://telegra.ph/file/da2628d81450a0638bc67.jpg",
+        "https://telegra.ph/file/2096c1a85ef595c948ca9.jpg",
+        "https://telegra.ph/file/5642994e95ebd91a4d54b.jpg",
+        "https://telegra.ph/file/10a3ea4edcdf9b617ffb5.jpg",
+        "https://telegra.ph/file/e88f6e60eba62ad84a9f1.jpg",
+        "https://telegra.ph/file/d8da242b9fd84d15dead5.jpg",
+        "https://telegra.ph/file/27b0f1e1661fb941bc426.jpg",
+        "https://telegra.ph/file/568bd21e8b1b79906f0c8.jpg",
+        "https://telegra.ph/file/24975223118038e8ab3ed.jpg",
+        "https://telegra.ph/file/33972d4ac1b356b4dc78e.jpg",
+        "https://telegra.ph/file/09728a891ab281d60697d.jpg",
+        "https://telegra.ph/file/2b5627927dc72f4b29c7b.jpg",
+        "https://telegra.ph/file/2d5c05ef4c41b4a6f05c4.jpg",
+        "https://telegra.ph/file/e6d2ad9f1c3e446d5834f.jpg",
+        "https://telegra.ph/file/46d1fdfb8ea298fae163c.jpg",
+        "https://telegra.ph/file/87ffc261d4017f2b58ae4.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4035,
+    "title": "[ベコ太郎] 素直にわんわん! (COMIC 快楽天ビースト 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/ベコ太郎-素直にわんわん-COMIC-快楽天ビースト-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0ad4bc71627e2eaed25f9.jpg",
+        "https://telegra.ph/file/f2b7bb9ae14a09eb2902a.jpg",
+        "https://telegra.ph/file/917c1d2faf7719ac6e3d6.jpg",
+        "https://telegra.ph/file/c7c332f4ddc74c6efa471.jpg",
+        "https://telegra.ph/file/faf0edf7b81d4121e0b44.jpg",
+        "https://telegra.ph/file/a58e59e73b8de9d9d5931.jpg",
+        "https://telegra.ph/file/36be1ef04c06dca9cd19f.jpg",
+        "https://telegra.ph/file/7caaf8ef676d53e6ea603.jpg",
+        "https://telegra.ph/file/dff9c40ea934c0610a763.jpg",
+        "https://telegra.ph/file/5807f6bdddcfc54609166.jpg",
+        "https://telegra.ph/file/0886d302e971da21f00a2.jpg",
+        "https://telegra.ph/file/ed701cce8cfbb822c0426.jpg",
+        "https://telegra.ph/file/a70a992dbd762fa1df8f5.jpg",
+        "https://telegra.ph/file/9243dd95faf7f2c63629a.jpg",
+        "https://telegra.ph/file/ff76989ad4679d9a9b133.jpg",
+        "https://telegra.ph/file/279dad7ec690748f5393e.jpg",
+        "https://telegra.ph/file/b98287b608b74f3dfe08c.jpg",
+        "https://telegra.ph/file/d47dfa6e44f8e833bca06.jpg",
+        "https://telegra.ph/file/8179d3b900987fdc8c7ad.jpg",
+        "https://telegra.ph/file/323f60b3e0867c3f7ced9.jpg",
+        "https://telegra.ph/file/aa973f21840d69771b6c5.jpg",
+        "https://telegra.ph/file/0883257904d3e175b1e54.jpg",
+        "https://telegra.ph/file/7c716935b79f5dccf40c1.jpg"
+    ]
+};

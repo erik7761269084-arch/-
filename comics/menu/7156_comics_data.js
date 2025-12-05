@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7156,
+    "title": "ともだち",
+    "sourceUrl": "https://telegra.ph/ともだち-08-31",
+    "images": [
+        "https://telegra.ph/file/75a3d5c324e6cfdfef1c7.png",
+        "https://telegra.ph/file/40accc23161d22f52f4ff.jpg",
+        "https://telegra.ph/file/3bd1f0f08318b3973903e.jpg",
+        "https://telegra.ph/file/707edc7f0508118f6aba2.jpg",
+        "https://telegra.ph/file/720ca6525aa6a2c17d237.jpg",
+        "https://telegra.ph/file/9258daa92f9697e387928.jpg",
+        "https://telegra.ph/file/241591756d0f0eae0b15d.jpg",
+        "https://telegra.ph/file/145822b4c31100a5069d5.jpg",
+        "https://telegra.ph/file/340389de154533ef244e9.jpg",
+        "https://telegra.ph/file/2956b00c852347dd37253.jpg",
+        "https://telegra.ph/file/5ec80ae456394f5c417a5.jpg",
+        "https://telegra.ph/file/81f6ba6abbba9b75cc997.jpg",
+        "https://telegra.ph/file/84bdbebf3cb4efda5c5bd.jpg",
+        "https://telegra.ph/file/10862a5c44862d2dcc84b.jpg",
+        "https://telegra.ph/file/5205d0eb082e6456e19f4.jpg",
+        "https://telegra.ph/file/af06d5d73cb7ae8346c4e.jpg",
+        "https://telegra.ph/file/72fdbbcf9d07902afbc49.jpg",
+        "https://telegra.ph/file/a6d1f304d827d4b020f95.jpg",
+        "https://telegra.ph/file/91b474ca6b237fefbe832.jpg",
+        "https://telegra.ph/file/c3c1dbc60c5d54050b7a4.jpg",
+        "https://telegra.ph/file/b5e4ea992cee8f27d9c75.jpg",
+        "https://telegra.ph/file/b2aea4b4601b81b396e8f.jpg",
+        "https://telegra.ph/file/f2eef884e58d4f44784d4.jpg",
+        "https://telegra.ph/file/67bb72d0b855fa050c96f.jpg"
+    ]
+};

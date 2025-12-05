@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3050,
+    "title": "[騎士二千] 小哥～想不想嚐嚐…母女丼的滋味？JK和人妻竟搶著跟我做愛!? 1話",
+    "sourceUrl": "https://telegra.ph/騎士二千-小哥想不想嚐嚐母女丼的滋味JK和人妻竟搶著跟我做愛-1話-08-31",
+    "images": [
+        "https://telegra.ph/file/96ecda03c12867a87e3bb.jpg",
+        "https://telegra.ph/file/72f6fd171465ab9436050.jpg",
+        "https://telegra.ph/file/34d6b5be37addbbe80364.jpg",
+        "https://telegra.ph/file/3248cfa8fec10b9005ca8.jpg",
+        "https://telegra.ph/file/68918bf1216fea7764899.jpg",
+        "https://telegra.ph/file/6eb79ceffce73ad92cead.jpg",
+        "https://telegra.ph/file/d2ebd0bd6842a091d5d97.jpg",
+        "https://telegra.ph/file/ec4b566a31543c25d4673.jpg",
+        "https://telegra.ph/file/00dba982237010059d574.jpg",
+        "https://telegra.ph/file/9db1a8deb3ca7945c42d3.jpg",
+        "https://telegra.ph/file/41f6a3b05a38483198ef6.jpg",
+        "https://telegra.ph/file/b827ec7420a13c9a31eb6.jpg",
+        "https://telegra.ph/file/981cf471cd46136c1c256.jpg",
+        "https://telegra.ph/file/415564232a8926a1e2c01.jpg",
+        "https://telegra.ph/file/aad0e7fe094ae7601d471.jpg",
+        "https://telegra.ph/file/8a3fe42989ef492a4a4b6.jpg",
+        "https://telegra.ph/file/60cbf0134b2c51047f937.jpg",
+        "https://telegra.ph/file/d158fe0e527c504a1f458.jpg",
+        "https://telegra.ph/file/8e9082536865142effe74.jpg",
+        "https://telegra.ph/file/21e9d45894599662ab3f3.jpg",
+        "https://telegra.ph/file/75a93657b2e7066b1f671.jpg",
+        "https://telegra.ph/file/304c7a48ad1f4ff949b18.jpg",
+        "https://telegra.ph/file/9e5770cda75c08b34fbe5.jpg",
+        "https://telegra.ph/file/25c37c9532e87c6b20ea4.jpg",
+        "https://telegra.ph/file/4754fafa667b2d99a4018.jpg"
+    ]
+};

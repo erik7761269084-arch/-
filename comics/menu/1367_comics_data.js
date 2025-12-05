@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1367,
+    "title": "[尻戦車] 聖煌戦姫ジュエルルミナス 乙女ふたり堕つる時 最終話 渇愛 (くっ殺ヒロインズ Vol.15)",
+    "sourceUrl": "https://telegra.ph/尻戦車-聖煌戦姫ジュエルルミナス-乙女ふたり堕つる時-最終話-渇愛-くっ殺ヒロインズ-Vol15-08-31",
+    "images": [
+        "https://telegra.ph/file/edddf974770c7b55002da.jpg",
+        "https://telegra.ph/file/ad91b4002cdeea3b29b42.jpg",
+        "https://telegra.ph/file/e4eb2362f3d9033026dfa.jpg",
+        "https://telegra.ph/file/bd8011fc7bd9d3e503b86.jpg",
+        "https://telegra.ph/file/9e41559c79a5f79e26962.jpg",
+        "https://telegra.ph/file/246f81e4b3ed7fc0a7690.jpg",
+        "https://telegra.ph/file/a5a4ecf019b608819a870.jpg",
+        "https://telegra.ph/file/eadf77d2047521ecc0736.jpg",
+        "https://telegra.ph/file/ed218c4a743109ac43edc.jpg",
+        "https://telegra.ph/file/3b2441376987a3eeaf0ae.jpg",
+        "https://telegra.ph/file/d0d29c1f7d643f29773c4.jpg",
+        "https://telegra.ph/file/7d0d05da076e1a9743e68.jpg",
+        "https://telegra.ph/file/d21abed7179fcc7920853.jpg",
+        "https://telegra.ph/file/dbdd504d2b612e30326ca.jpg",
+        "https://telegra.ph/file/f8e0d2376cc7be938facb.jpg",
+        "https://telegra.ph/file/418922d8c60c24afa8cba.jpg",
+        "https://telegra.ph/file/f74c8e43173eab913ba0b.jpg",
+        "https://telegra.ph/file/3547e119712832791b6b2.jpg",
+        "https://telegra.ph/file/ccb29ae0e0a17d557b529.jpg",
+        "https://telegra.ph/file/2023a283318ac8f4eb032.jpg",
+        "https://telegra.ph/file/2088037ee13ece0f247f1.jpg",
+        "https://telegra.ph/file/09ab85340db0cbbec1977.jpg",
+        "https://telegra.ph/file/c3d5e7fffce873537e696.jpg",
+        "https://telegra.ph/file/617ac862f20f48e022e00.jpg"
+    ]
+};

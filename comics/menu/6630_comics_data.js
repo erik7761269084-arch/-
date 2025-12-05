@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6630,
+    "title": "あさダさんアサダサン (ソードアート·オンライン)",
+    "sourceUrl": "https://telegra.ph/あさダさんアサダサン-ソードアートオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/556d6229d7c33330f7ffa.jpg",
+        "https://telegra.ph/file/94139ac2eb17ea2841c23.jpg",
+        "https://telegra.ph/file/e3f092ea2b5637cc90dee.jpg",
+        "https://telegra.ph/file/c7b52c52a5258a980f156.jpg",
+        "https://telegra.ph/file/07510160766e1b5bdc955.jpg",
+        "https://telegra.ph/file/36f2729cda29f20f5b75c.jpg",
+        "https://telegra.ph/file/f3cf696ae7106c037c757.jpg",
+        "https://telegra.ph/file/8b9a5dd3ba41d09b6abef.jpg",
+        "https://telegra.ph/file/28766b76cfd2679ac1320.jpg",
+        "https://telegra.ph/file/7cd964d3e33c2788df611.jpg",
+        "https://telegra.ph/file/8b6e6237d8086b4c77cca.jpg",
+        "https://telegra.ph/file/2a78c480300dd40438d2f.jpg",
+        "https://telegra.ph/file/f7abfa41626f55c3688af.jpg",
+        "https://telegra.ph/file/55f6f6e586ae0f56b46f7.jpg",
+        "https://telegra.ph/file/2179b76ea7d4a68be48f3.jpg",
+        "https://telegra.ph/file/640a92a05970d06caeb3c.jpg",
+        "https://telegra.ph/file/8bab417e6bff2724c12d5.jpg",
+        "https://telegra.ph/file/c5696798466a8f57896a8.jpg",
+        "https://telegra.ph/file/f48a831b4bc5dc7125f36.jpg",
+        "https://telegra.ph/file/41399178644e82632f1f4.jpg",
+        "https://telegra.ph/file/f12089373d75984c426f3.jpg",
+        "https://telegra.ph/file/68ee3399e4097b596743c.jpg",
+        "https://telegra.ph/file/36a925c1ce80f036ea14c.jpg"
+    ]
+};

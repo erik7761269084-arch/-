@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5890,
+    "title": "[井上巧] 弟のオンナはオレのモノ",
+    "sourceUrl": "https://telegra.ph/井上巧-弟のオンナはオレのモノ-08-31",
+    "images": [
+        "https://telegra.ph/file/1e3bcee772c993428596d.jpg",
+        "https://telegra.ph/file/de1e299f0e9721771ee3c.jpg",
+        "https://telegra.ph/file/93fd55c1ccddd25c51d3c.jpg",
+        "https://telegra.ph/file/924c30e63f5621786119c.jpg",
+        "https://telegra.ph/file/c8b583631ea538ec8365d.jpg",
+        "https://telegra.ph/file/0132be82b04d6f53aa551.jpg",
+        "https://telegra.ph/file/e5d2ab3f1d979c2d4bedd.jpg",
+        "https://telegra.ph/file/e1c5b1afc183cc8403117.jpg",
+        "https://telegra.ph/file/429b8bd9c8b203d594183.jpg",
+        "https://telegra.ph/file/198d02d6214d8293e257c.jpg",
+        "https://telegra.ph/file/6f40e049335c1e0a67daf.jpg",
+        "https://telegra.ph/file/d7aa302622dd7ff4e424c.jpg",
+        "https://telegra.ph/file/d6938c389274ac977f64a.jpg",
+        "https://telegra.ph/file/0fae98c9dc25346e8d8ec.jpg",
+        "https://telegra.ph/file/b45e3705a866e88f1cc00.jpg",
+        "https://telegra.ph/file/f94d718e0743965b77d9d.jpg",
+        "https://telegra.ph/file/7dfb7f3491345021f7472.jpg",
+        "https://telegra.ph/file/d5f6f186d5064c92566bb.jpg",
+        "https://telegra.ph/file/694faabb61d18b69f93ae.jpg",
+        "https://telegra.ph/file/86640eb009aa8c9793f9d.jpg",
+        "https://telegra.ph/file/d93db1050fab3a15f9e75.jpg",
+        "https://telegra.ph/file/a915cd07e291ce29a696c.jpg",
+        "https://telegra.ph/file/4c0ac4e5763e64800f72e.jpg",
+        "https://telegra.ph/file/55900a7456b6cb090afaf.jpg"
+    ]
+};

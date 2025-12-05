@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7000,
+    "title": "勇気をあげたい",
+    "sourceUrl": "https://telegra.ph/勇気をあげたい-08-31",
+    "images": [
+        "https://telegra.ph/file/867d4c269df88a09c5602.jpg",
+        "https://telegra.ph/file/8a07dab6160bef41a95c8.jpg",
+        "https://telegra.ph/file/ac0caaf90d5bd53e25717.jpg",
+        "https://telegra.ph/file/c29352451a45a5aa2c46b.jpg",
+        "https://telegra.ph/file/27e5f39bbb20d21d0d482.jpg",
+        "https://telegra.ph/file/4d86e3181897666f01c93.jpg",
+        "https://telegra.ph/file/75044c0eb352d82d6b078.jpg",
+        "https://telegra.ph/file/ba422920d2be51cff910e.jpg",
+        "https://telegra.ph/file/370200998f17754367fbb.jpg",
+        "https://telegra.ph/file/bd728ee5c4bb883b762ce.jpg",
+        "https://telegra.ph/file/8746b901c50f88201b4d2.jpg",
+        "https://telegra.ph/file/316e1c818b2f8b7b561bb.jpg",
+        "https://telegra.ph/file/d7ce4dc0837c8dfa594ca.jpg",
+        "https://telegra.ph/file/0291bda5c41d7b7920c7a.jpg",
+        "https://telegra.ph/file/035df0fff4e55ddc12611.jpg",
+        "https://telegra.ph/file/734e948e81c45c2fa5502.jpg",
+        "https://telegra.ph/file/a5b283317f926ee272d2f.jpg",
+        "https://telegra.ph/file/e76731135a75cf9a782cb.jpg",
+        "https://telegra.ph/file/0df6177f9ada7d3c7e173.jpg",
+        "https://telegra.ph/file/a4c7f05ddf86d43b77a96.jpg",
+        "https://telegra.ph/file/d3c20fa350fcbe50bfb31.jpg",
+        "https://telegra.ph/file/fc609b70da5a17d077ada.jpg",
+        "https://telegra.ph/file/d488560a77f7901eab587.jpg",
+        "https://telegra.ph/file/45a0f58bfa9ea749642ee.jpg",
+        "https://telegra.ph/file/1e55675fa0913f16c4a77.jpg",
+        "https://telegra.ph/file/6f98d8f77059fa63a7c35.jpg"
+    ]
+};

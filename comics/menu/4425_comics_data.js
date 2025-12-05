@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4425,
+    "title": "(C97) [むしゃぶる (武者サブ)] 補習が必要な私ら",
+    "sourceUrl": "https://telegra.ph/C97-むしゃぶる-武者サブ-補習が必要な私ら-08-31",
+    "images": [
+        "https://telegra.ph/file/fce392284a8f40459e6db.jpg",
+        "https://telegra.ph/file/fd2b242fab25f1d644a02.jpg",
+        "https://telegra.ph/file/110a3f8862fa5d193c8d3.jpg",
+        "https://telegra.ph/file/afc1e458dd8e11e7ff4fe.jpg",
+        "https://telegra.ph/file/6a1ed6855bfb1a01b82de.jpg",
+        "https://telegra.ph/file/1e7a44e1b864d5a942953.jpg",
+        "https://telegra.ph/file/b0cf7fbb5a810113235c7.jpg",
+        "https://telegra.ph/file/746c8266feeb5c6851811.jpg",
+        "https://telegra.ph/file/cafffa96f964e7a69c8e3.jpg",
+        "https://telegra.ph/file/f8f85016ac5df4bf1e35b.jpg",
+        "https://telegra.ph/file/0c0e3468b43528ac3a356.jpg",
+        "https://telegra.ph/file/f9648bf3c19321e09cc25.jpg",
+        "https://telegra.ph/file/5f1b10bb21b3564353957.jpg",
+        "https://telegra.ph/file/938fa9f79297ff0c8318f.jpg",
+        "https://telegra.ph/file/f0d87b7d17d302393a44b.jpg",
+        "https://telegra.ph/file/8546f1dd2c947896af8b8.jpg",
+        "https://telegra.ph/file/e87843a9f22d94c654be0.jpg",
+        "https://telegra.ph/file/a1c3cadb64eb1a545e431.jpg",
+        "https://telegra.ph/file/11091e2ddcec11decff16.jpg",
+        "https://telegra.ph/file/0a839e22a3957b05c263a.jpg",
+        "https://telegra.ph/file/bafef79925eceddad4504.jpg",
+        "https://telegra.ph/file/d3c84a3eb5d3f3c327a56.jpg",
+        "https://telegra.ph/file/ca5d35fc1192defbb03ac.jpg"
+    ]
+};

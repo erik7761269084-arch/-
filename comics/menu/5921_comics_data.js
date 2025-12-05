@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5921,
+    "title": "[タイラメ] であいの魔王城",
+    "sourceUrl": "https://telegra.ph/タイラメ-であいの魔王城-08-31",
+    "images": [
+        "https://telegra.ph/file/dab39f7922c885cae6466.jpg",
+        "https://telegra.ph/file/ce9d5872e338f78bd16de.jpg",
+        "https://telegra.ph/file/d522a26f12a46e24eec40.jpg",
+        "https://telegra.ph/file/cf341a225c2552b2cd0e8.jpg",
+        "https://telegra.ph/file/8115aba9625391ce0c580.jpg",
+        "https://telegra.ph/file/6209833cb701a528cfe8d.jpg",
+        "https://telegra.ph/file/419533c11287f25f50b9a.jpg",
+        "https://telegra.ph/file/d94517e87eac362c1c3ef.jpg",
+        "https://telegra.ph/file/a2521f78d52ead22904cf.jpg",
+        "https://telegra.ph/file/cda20610dfeec0f95043e.jpg",
+        "https://telegra.ph/file/130d25ec8fe02133c72fd.jpg",
+        "https://telegra.ph/file/0d89a8dd316b9553519a4.jpg",
+        "https://telegra.ph/file/705f2546422042dbb7bd4.jpg",
+        "https://telegra.ph/file/16b97dcf3d88d8d9b61ad.jpg",
+        "https://telegra.ph/file/79388ab925a6db912991a.jpg",
+        "https://telegra.ph/file/b668fa209e8a7efb733f1.jpg",
+        "https://telegra.ph/file/ee29478baecc4b3cc3f5c.jpg",
+        "https://telegra.ph/file/b0fdf11d7762ec08c5f0d.jpg",
+        "https://telegra.ph/file/f0b55ad6f7b36c0122258.jpg",
+        "https://telegra.ph/file/81e98b0156fb3cc2b9a03.jpg",
+        "https://telegra.ph/file/e5de2ac36484d12792ad7.jpg",
+        "https://telegra.ph/file/1033bc22d50ac55ba9920.jpg",
+        "https://telegra.ph/file/5e8f4169e2dd4147b550d.jpg",
+        "https://telegra.ph/file/8bfa5e500c3785049d606.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 886,
+    "title": "[聖水BAR] SKBなVtuberとHするだけ (にじさんじ)",
+    "sourceUrl": "https://telegra.ph/聖水BAR-SKBなVtuberとHするだけ-にじさんじ-08-31",
+    "images": [
+        "https://telegra.ph/file/f60bf775086a69d907f48.jpg",
+        "https://telegra.ph/file/1ccaf7762ada9511b2399.jpg",
+        "https://telegra.ph/file/f58221c4bfd7b6d84d639.jpg",
+        "https://telegra.ph/file/f699eafb2b4499c84739d.jpg",
+        "https://telegra.ph/file/707d330ca6104aabb0c98.jpg",
+        "https://telegra.ph/file/3fe6aa5110c9601e24da8.jpg",
+        "https://telegra.ph/file/246323c278a27b6a1ca6d.jpg",
+        "https://telegra.ph/file/dcd0fc74e12b571de3a53.jpg",
+        "https://telegra.ph/file/ec70d6b7cbde05306a0b6.jpg",
+        "https://telegra.ph/file/2161566c92c3aa9814a89.jpg",
+        "https://telegra.ph/file/f55da48b448ac3ce85901.jpg",
+        "https://telegra.ph/file/8cd38010b97fa9a3ab628.jpg",
+        "https://telegra.ph/file/ab75cb586637fbfef3a04.jpg",
+        "https://telegra.ph/file/d9f62b9480da9d41a4f52.jpg",
+        "https://telegra.ph/file/8e78118c77dfceca366eb.jpg",
+        "https://telegra.ph/file/1b7399292c06974447a9e.jpg",
+        "https://telegra.ph/file/92734652873d6971514b0.jpg",
+        "https://telegra.ph/file/4a8185ef18562392594fb.jpg",
+        "https://telegra.ph/file/677637f5d30504c4e453b.jpg",
+        "https://telegra.ph/file/42bb731c8f51b2ea4f750.jpg",
+        "https://telegra.ph/file/e8f04907830ea8d19ea97.jpg",
+        "https://telegra.ph/file/27ba08bc9e1b2e98f4570.jpg",
+        "https://telegra.ph/file/8ba6c09109ff677446e57.jpg",
+        "https://telegra.ph/file/63f681d557ccd6e6aad21.jpg",
+        "https://telegra.ph/file/895ca071915e59a3b2522.jpg"
+    ]
+};

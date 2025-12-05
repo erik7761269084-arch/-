@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4078,
+    "title": "(Cute Star Festivl 03) [転寝屋敷 (デコスケ)] 卯月と夜のビーチセックス (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/Cute-Star-Festivl-03-転寝屋敷-デコスケ-卯月と夜のビーチセックス-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/4cfe14f1f706208d17441.jpg",
+        "https://telegra.ph/file/55fcd2ee75bc950a868c2.jpg",
+        "https://telegra.ph/file/6b1a82c3690b9c203f893.jpg",
+        "https://telegra.ph/file/2a50ceacbd3c250118ac2.jpg",
+        "https://telegra.ph/file/56973b1deff3570628fc5.jpg",
+        "https://telegra.ph/file/df7d57cd38fe6da6a7079.jpg",
+        "https://telegra.ph/file/802238e7e76c05d764c40.jpg",
+        "https://telegra.ph/file/c26557864a4458a7193c4.jpg",
+        "https://telegra.ph/file/6c80a222abbd65b5598e3.jpg",
+        "https://telegra.ph/file/c729c4dfc09a7833cc0ce.jpg",
+        "https://telegra.ph/file/647fcd731006cf1c63dc2.jpg",
+        "https://telegra.ph/file/a5796bafd6aecadf29041.jpg",
+        "https://telegra.ph/file/f65958c13cf5bf2a4d8ac.jpg",
+        "https://telegra.ph/file/c3fa2804c620641c5cfc0.jpg",
+        "https://telegra.ph/file/32fe47c1497238a274b78.jpg",
+        "https://telegra.ph/file/3f49aab6f49519a2e4e0a.jpg",
+        "https://telegra.ph/file/71b78918aefd13cf8becb.jpg",
+        "https://telegra.ph/file/884ffcfe9ee214f291feb.jpg",
+        "https://telegra.ph/file/ae64916cd777a0696f8e3.jpg",
+        "https://telegra.ph/file/dbfbacd685568e73907fa.jpg",
+        "https://telegra.ph/file/3323ef8a2592ff80f4240.jpg",
+        "https://telegra.ph/file/bb08f7f24cf666c0e64fb.png",
+        "https://telegra.ph/file/4b51de4e6cf250719b347.png",
+        "https://telegra.ph/file/d8e380e0a6bd4ee834937.jpg"
+    ]
+};

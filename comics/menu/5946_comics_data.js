@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5946,
+    "title": "[みなすきぽぷり] ジグザグ線",
+    "sourceUrl": "https://telegra.ph/みなすきぽぷり-ジグザグ線-08-31",
+    "images": [
+        "https://telegra.ph/file/db35cbb3d0dcd3b9f855a.jpg",
+        "https://telegra.ph/file/c91f50aa61d825e5fec9e.jpg",
+        "https://telegra.ph/file/486fa7232b37eb8ade45a.jpg",
+        "https://telegra.ph/file/8482432f317b09c61edf1.jpg",
+        "https://telegra.ph/file/6f0e5608646a14423d533.jpg",
+        "https://telegra.ph/file/2a37d77f53c0d3a7039eb.jpg",
+        "https://telegra.ph/file/3523268275a9e396d2e56.jpg",
+        "https://telegra.ph/file/08badac39ad2629c823d7.jpg",
+        "https://telegra.ph/file/569f1d1bece5fb0fb4399.jpg",
+        "https://telegra.ph/file/6196f1710b6bb1248bd6f.jpg",
+        "https://telegra.ph/file/ce91d256299d9fe6bdf06.jpg",
+        "https://telegra.ph/file/4fa18a0f87fb08c92faa3.jpg",
+        "https://telegra.ph/file/fe7ed4bcd514a4c4439db.jpg",
+        "https://telegra.ph/file/46b1b22a9040a985e1f0a.jpg",
+        "https://telegra.ph/file/e505510d7999097079952.jpg",
+        "https://telegra.ph/file/e4969da55565fba8c96ff.jpg",
+        "https://telegra.ph/file/eb29f0a5e07fa086c7dc1.jpg",
+        "https://telegra.ph/file/77282936d71d93e8fd929.jpg",
+        "https://telegra.ph/file/a3c3948ebc11e18e32c7f.jpg",
+        "https://telegra.ph/file/880b78da8f8c1e51ecf1d.jpg",
+        "https://telegra.ph/file/542dd096887bf6e60eac9.jpg",
+        "https://telegra.ph/file/b262ab34e75638873e58e.jpg",
+        "https://telegra.ph/file/4f614aea1ddb45cf90e94.jpg",
+        "https://telegra.ph/file/49337e8c80ee6dc57c886.jpg",
+        "https://telegra.ph/file/0e7c923101f9d6d370815.jpg",
+        "https://telegra.ph/file/be3dbc2c2b35de746d1e6.jpg"
+    ]
+};

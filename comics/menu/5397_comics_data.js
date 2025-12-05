@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5397,
+    "title": "(C102) [fuka2yun (ふかゆん)] 悪魔の契約 (魔王城でおやすみ) [24P]",
+    "sourceUrl": "https://telegra.ph/C102-fuka2yun-ふかゆん-悪魔の契約-魔王城でおやすみ-24P-08-31-3",
+    "images": [
+        "https://i2.iciallo.uk/mangz/ZZ/9e21b4545975ddca929a1ece005499cb2/2.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/8a3fb5893af592a948a12d4f2d1465b63/3.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/abbe2140f3c62803bf42d127d89255314/4.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/3aa547cf0723cc0946123f00684dce1a5/5.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/86370914707622ef1512a5e1446ad7516/6.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/3a92fd10d0e8dda20f0f88075bc647117/7.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/6c4ac7a9a990d738960511029b9839b38/8.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/fee0af6501f387fa335fbfcf8412fa109/9.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/5f7b7753bf7b6874c0a842db602cc86510/10.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/c0d4e9e51b65841b25df4e421e2527fa11/11.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/affe6202d45f3d642b06c0b857351c2e12/12.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/6bce2f73c53602aa272c6c511ef2374913/13.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/98ea23b0e336fb5534d76d3a0e46283014/14.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/9582d7b2641f30cb4cc3fb6a594817e015/15.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/5a407f1820163b9658aabb1b588bf98216/16.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/ea7e4c697fd6d1de3d827c9d921544d217/17.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/6cc386779bb0972204bfdf4c489fa6bf18/18.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/8632740605e7eaa1938f78f6de9f70b319/19.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/d98e21173eeaddea3449da718385581e20/20.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/b67b412fa42d038d006cc115fb7b2f3d21/21.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/cb58bc4fc6e11197d2cd95d962aacf1d22/22.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/debfa754cf9cbd028eee415425d073ff23/23.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f0bd486699c75df6c26d00a22d961d7124/24.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f5f8697ac0ca1045ca933bfb60dba5921/1.jpg"
+    ]
+};

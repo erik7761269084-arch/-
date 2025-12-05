@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6549,
+    "title": "呂玲綺無惨 (真·三國無双シリーズ)",
+    "sourceUrl": "https://telegra.ph/呂玲綺無惨-真三國無双シリーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/1e54b745dcbccedfdc4b7.jpg",
+        "https://telegra.ph/file/29b9e96e6cf16584d7235.jpg",
+        "https://telegra.ph/file/2fc3b5ad951566bbaf7ad.jpg",
+        "https://telegra.ph/file/68b744edafab6ec7b317b.jpg",
+        "https://telegra.ph/file/ba2ddfc7e3eb0d5245a19.jpg",
+        "https://telegra.ph/file/514530c0e2584cbd96813.jpg",
+        "https://telegra.ph/file/3921010f17fd5f37fb033.jpg",
+        "https://telegra.ph/file/012bf24e1752d56bacecb.jpg",
+        "https://telegra.ph/file/d151c57b55e5c8365d668.jpg",
+        "https://telegra.ph/file/9e651c2550aaba0df18b0.jpg",
+        "https://telegra.ph/file/37092919246b8b26a9e57.jpg",
+        "https://telegra.ph/file/787e79f681e453f8d5f86.jpg",
+        "https://telegra.ph/file/b3d82ce87a2c176aeb001.jpg",
+        "https://telegra.ph/file/eb5ecc5d401ae42d77d0e.jpg",
+        "https://telegra.ph/file/0ecf1486b09c4319c91b6.jpg",
+        "https://telegra.ph/file/0f2e5a25d349d4ef8ab38.jpg",
+        "https://telegra.ph/file/156f4b978e241ef2d68ca.jpg",
+        "https://telegra.ph/file/820d7efad7df61c5e57a0.jpg",
+        "https://telegra.ph/file/70f640c5be1d9f47cc228.jpg",
+        "https://telegra.ph/file/85e9652a76ffbf2d0e9d4.jpg",
+        "https://telegra.ph/file/f2e4fe3ab3560a25c4c1b.jpg",
+        "https://telegra.ph/file/5e7cc8783cff1222422e8.jpg",
+        "https://telegra.ph/file/04ba9098e0af3d1d42201.jpg",
+        "https://telegra.ph/file/010362aca27717584ed7f.jpg",
+        "https://telegra.ph/file/ce210a4e938379f0bc3ce.jpg",
+        "https://telegra.ph/file/17b9e84136a7973f5dfdb.jpg"
+    ]
+};

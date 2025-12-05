@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4429,
+    "title": "[雪咲MIALE] 俺は今日からシンデレラ相手は男。オレは女!? 第7話 (COMIC アナンガ・ランガ Vol.37)",
+    "sourceUrl": "https://telegra.ph/雪咲MIALE-俺は今日からシンデレラ相手は男オレは女-第7話-COMIC-アナンガランガ-Vol37-08-31",
+    "images": [
+        "https://telegra.ph/file/a53538b7d2ee5cc967fcd.jpg",
+        "https://telegra.ph/file/190aadc1868b3689a20fb.jpg",
+        "https://telegra.ph/file/784b01940c157b34dd90a.jpg",
+        "https://telegra.ph/file/578abc61b7941cc3702ef.jpg",
+        "https://telegra.ph/file/6a7e9df98cf673c3abb62.jpg",
+        "https://telegra.ph/file/57b067de6b42df6cea5ec.jpg",
+        "https://telegra.ph/file/5fff62b6a7a90f0f78fc0.jpg",
+        "https://telegra.ph/file/0e04bffdd59a4f90c064e.jpg",
+        "https://telegra.ph/file/76b62f7cd30303cf473be.jpg",
+        "https://telegra.ph/file/44b4746c126eafcfd2d03.jpg",
+        "https://telegra.ph/file/0a1a64e85a8ca7c77e54a.jpg",
+        "https://telegra.ph/file/f89c521a729f00ceecb9a.jpg",
+        "https://telegra.ph/file/1df7f07475fcfcd0ec98a.jpg",
+        "https://telegra.ph/file/47af35e335cef6d04d5c6.jpg",
+        "https://telegra.ph/file/a625e628eecbcf76668c1.jpg",
+        "https://telegra.ph/file/c110b8ddbf4fbad7cd99d.jpg",
+        "https://telegra.ph/file/a7c533a43b23524e90907.jpg",
+        "https://telegra.ph/file/1bf3033575233e1c4f336.jpg",
+        "https://telegra.ph/file/ec0b2d3773059836aba22.jpg",
+        "https://telegra.ph/file/9f07a1f1f775a59dc6e47.jpg",
+        "https://telegra.ph/file/c07a500f4855b7e411ca5.jpg",
+        "https://telegra.ph/file/7090dcfdd840041223be7.jpg",
+        "https://telegra.ph/file/d76ac8f4291d2e21c5609.jpg",
+        "https://telegra.ph/file/82da49c8a72b8144866e6.jpg",
+        "https://telegra.ph/file/0f22e9a8a9c49a22c4286.jpg"
+    ]
+};

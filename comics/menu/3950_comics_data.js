@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3950,
+    "title": "[Rush Rise Line (キツネノネ)] 獣感 伍 後編",
+    "sourceUrl": "https://telegra.ph/Rush-Rise-Line-キツネノネ-獣感-伍-後編-08-31",
+    "images": [
+        "https://telegra.ph/file/0526393309a0d46b22e79.jpg",
+        "https://telegra.ph/file/271245e594255a0c76c71.jpg",
+        "https://telegra.ph/file/c868928de49ddee3c9ca4.jpg",
+        "https://telegra.ph/file/a495a98f69cc81a8fc753.jpg",
+        "https://telegra.ph/file/b2495e0292bd9f9f12d4b.jpg",
+        "https://telegra.ph/file/92af682d1f83063ffe0da.jpg",
+        "https://telegra.ph/file/28cd2341395d2cee88da4.jpg",
+        "https://telegra.ph/file/0e76aa92f02d54d53527f.jpg",
+        "https://telegra.ph/file/4d4a8deef8970a5a8e39c.jpg",
+        "https://telegra.ph/file/b88758c0df78620a9734a.jpg",
+        "https://telegra.ph/file/a6219050e1ecabf71aaa0.jpg",
+        "https://telegra.ph/file/982961ac36b1c89ca1aca.jpg",
+        "https://telegra.ph/file/e432c9899c92cadc0f55e.jpg",
+        "https://telegra.ph/file/cad2cfb32c538fcbc73a0.jpg",
+        "https://telegra.ph/file/4114ab111c982b3fa764f.jpg",
+        "https://telegra.ph/file/15758682bbd2c31cc685d.jpg",
+        "https://telegra.ph/file/0116cd5351d9fb5a9b3ac.jpg",
+        "https://telegra.ph/file/6e106b90d7be0a756119f.jpg",
+        "https://telegra.ph/file/23ab2516d779f18baa80f.jpg",
+        "https://telegra.ph/file/8116b81757c388b130c9c.jpg",
+        "https://telegra.ph/file/dff6245aec5a01962c529.jpg",
+        "https://telegra.ph/file/cadfe07a25f5c6a8a072b.jpg",
+        "https://telegra.ph/file/12f11869073f9e588f00f.jpg",
+        "https://telegra.ph/file/8f44cafc76adaa7e1472c.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg"
+    ]
+};

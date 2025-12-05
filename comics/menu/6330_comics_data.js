@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6330,
+    "title": "思い出のやり直し",
+    "sourceUrl": "https://telegra.ph/思い出のやり直し-08-31",
+    "images": [
+        "https://telegra.ph/file/ff999ec5534fef8073a25.png",
+        "https://telegra.ph/file/4f16eb78942a907797849.png",
+        "https://telegra.ph/file/147b74cb8f73416b9610e.png",
+        "https://telegra.ph/file/8b9164f35bdf52f5c10eb.png",
+        "https://telegra.ph/file/8579ef940c51befe30937.png",
+        "https://telegra.ph/file/6aa816b896b218c35097e.png",
+        "https://telegra.ph/file/462f7a58fcc86153fe4ea.png",
+        "https://telegra.ph/file/9bd502699cd66ad700af9.png",
+        "https://telegra.ph/file/7c1c0ef87575fbeaff3ff.png",
+        "https://telegra.ph/file/7ee261ad2cac7cd60633c.png",
+        "https://telegra.ph/file/457647f24e7e0fa5d5ab0.png",
+        "https://telegra.ph/file/f2ac4503e42c3fb93f2d0.png",
+        "https://telegra.ph/file/f044401cc7ebfdc5924d1.png",
+        "https://telegra.ph/file/7aca75473eb135b6920b0.png",
+        "https://telegra.ph/file/d54a28bd269bc69efaeba.png",
+        "https://telegra.ph/file/b85c7a84ba08df7ac2018.png",
+        "https://telegra.ph/file/de036db687ea53e44aa7a.png",
+        "https://telegra.ph/file/41de061af369fa6da333b.png",
+        "https://telegra.ph/file/1b8b9ffc186805b1577ed.png",
+        "https://telegra.ph/file/b20b0fda435b6fc6d03ed.png",
+        "https://telegra.ph/file/443df1bddb3d76e8cfa54.png",
+        "https://telegra.ph/file/a207f0775523596addb17.png",
+        "https://telegra.ph/file/6172625a827ed089507ee.png",
+        "https://telegra.ph/file/366ccc5c1cb18837c292a.png"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 747,
+    "title": "[原茂之] パンスト保険契約 (コミック刺激的SQUIRT!! Vol.24)",
+    "sourceUrl": "https://telegra.ph/原茂之-パンスト保険契約-コミック刺激的SQUIRT-Vol24-08-31",
+    "images": [
+        "https://telegra.ph/file/f747bf62f8449cb1696df.jpg",
+        "https://telegra.ph/file/c99833982f25111be4ece.jpg",
+        "https://telegra.ph/file/a2755d95447fe3096804c.jpg",
+        "https://telegra.ph/file/aa9e910f6a4bb40f53b55.jpg",
+        "https://telegra.ph/file/139aa9bdb03e0622b724d.jpg",
+        "https://telegra.ph/file/9465cd90c309bc72b4bc3.jpg",
+        "https://telegra.ph/file/45badb362a522bd0b323b.jpg",
+        "https://telegra.ph/file/3cf78ab336fa3f8558dc9.jpg",
+        "https://telegra.ph/file/ed5b883c8b5de7e0a7c2e.jpg",
+        "https://telegra.ph/file/2273124217c53877e2651.jpg",
+        "https://telegra.ph/file/de2d3199b958aa46632fd.jpg",
+        "https://telegra.ph/file/573dc301834ae498194b6.jpg",
+        "https://telegra.ph/file/397446913e6e50defd83b.jpg",
+        "https://telegra.ph/file/0fd232da5aad5a881d978.jpg",
+        "https://telegra.ph/file/43b92722102b4eb9e1175.jpg",
+        "https://telegra.ph/file/9f60d5913a29d67ae325f.jpg",
+        "https://telegra.ph/file/6821ea12666d90c583b1a.jpg",
+        "https://telegra.ph/file/4648d1bcc4315b8600ede.jpg",
+        "https://telegra.ph/file/9f8a191e6c1c71ba4ce90.jpg",
+        "https://telegra.ph/file/2b771200ca8676144e628.jpg",
+        "https://telegra.ph/file/a92591f6adc55ac30be02.jpg",
+        "https://telegra.ph/file/741913a9d1cdd40a134a2.jpg",
+        "https://telegra.ph/file/5c6db20c731cf7125bdd3.jpg",
+        "https://telegra.ph/file/5a8b9c199efe03122adf3.jpg"
+    ]
+};

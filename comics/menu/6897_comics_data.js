@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6897,
+    "title": "誇大妄想狂",
+    "sourceUrl": "https://telegra.ph/誇大妄想狂-08-31",
+    "images": [
+        "https://telegra.ph/file/024fd37396cbda9f3b2e2.png",
+        "https://telegra.ph/file/e2398b75a1e421444f5c1.png",
+        "https://telegra.ph/file/4e67ce9b22e421b939c07.png",
+        "https://telegra.ph/file/62e6c2ea3fbe3ed22b23e.png",
+        "https://telegra.ph/file/f6c3f4011323b9fb759ee.png",
+        "https://telegra.ph/file/0c2035737a17e0cae656c.png",
+        "https://telegra.ph/file/5b74adbcd214923d63c36.png",
+        "https://telegra.ph/file/8ed261a3b3cb26adf60a4.png",
+        "https://telegra.ph/file/78540b683d8a23d872609.png",
+        "https://telegra.ph/file/a065303216994d848f807.png",
+        "https://telegra.ph/file/92c6069901b3b93dbaae6.png",
+        "https://telegra.ph/file/f573b4eacbed0e180a060.png",
+        "https://telegra.ph/file/e70c0d85f1ffa9c60eee0.png",
+        "https://telegra.ph/file/17c16cc523180bc01576c.png",
+        "https://telegra.ph/file/45e74dcba3aeb61414cb1.png",
+        "https://telegra.ph/file/4c854267fe6b5cacc7804.png",
+        "https://telegra.ph/file/2c64195ee4014c7c380aa.png",
+        "https://telegra.ph/file/80fdb43677fcda59b54dc.png",
+        "https://telegra.ph/file/e42b9ff0ec0c24f6ebe8a.png",
+        "https://telegra.ph/file/2c49252c0cd29ae75aa3d.png",
+        "https://telegra.ph/file/3c9af11ca32825c1b313a.png",
+        "https://telegra.ph/file/49b31f432a99dd89bb4e8.png",
+        "https://telegra.ph/file/71f77507e06b8098d62b2.png",
+        "https://telegra.ph/file/33270a478f067603595af.png"
+    ]
+};

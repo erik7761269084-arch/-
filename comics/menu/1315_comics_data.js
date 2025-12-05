@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1315,
+    "title": "(C94) [TIES (タケイオーキ)] COCOLOG",
+    "sourceUrl": "https://telegra.ph/C94-TIES-タケイオーキ-COCOLOG-08-31",
+    "images": [
+        "https://telegra.ph/file/5dff78ca395572e1ad37f.jpg",
+        "https://telegra.ph/file/ab17390d44017ef17123b.jpg",
+        "https://telegra.ph/file/2851c20bbd995b9a3701d.jpg",
+        "https://telegra.ph/file/5a2319c78a362968abb01.jpg",
+        "https://telegra.ph/file/8c3e063dd678f136aee6e.jpg",
+        "https://telegra.ph/file/95271c9d09160170e7aef.jpg",
+        "https://telegra.ph/file/8ad8dcdda628e13c5cf18.jpg",
+        "https://telegra.ph/file/bff3c3b0893c059429a29.jpg",
+        "https://telegra.ph/file/4a072b24011f0b34d9428.jpg",
+        "https://telegra.ph/file/cd97653434bafe158bb28.jpg",
+        "https://telegra.ph/file/0f2f1e4cd024934b822a9.jpg",
+        "https://telegra.ph/file/f73647d4b2764f849ae11.jpg",
+        "https://telegra.ph/file/130caf9d2ac4fb3161dc6.jpg",
+        "https://telegra.ph/file/b8379b5f20d4e4a2bc34a.jpg",
+        "https://telegra.ph/file/dcfbace0bfd7fc02b6e08.jpg",
+        "https://telegra.ph/file/30df67390a9997e2080bb.jpg",
+        "https://telegra.ph/file/658967a42a6621e5f8680.jpg",
+        "https://telegra.ph/file/46486caf7f4837c9aeec4.jpg",
+        "https://telegra.ph/file/749cb3ff55183e2c07491.jpg",
+        "https://telegra.ph/file/ecf8842520a148973af5e.jpg",
+        "https://telegra.ph/file/620c795f892ffcbaef2fd.jpg",
+        "https://telegra.ph/file/124cc4db0bf43c5e9026e.jpg",
+        "https://telegra.ph/file/b91b8b9eaafc8e76fcd33.jpg",
+        "https://telegra.ph/file/a856fac21d3a4822a2d62.jpg",
+        "https://telegra.ph/file/afc568de3912af2329175.jpg"
+    ]
+};

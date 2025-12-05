@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1534,
+    "title": "[熟成角砂糖 (sugarBt)] 出会った記憶なんてなかった (トロピカル～ジュ!プリキュア)",
+    "sourceUrl": "https://telegra.ph/熟成角砂糖-sugarBt-出会った記憶なんてなかった-トロピカルジュプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/f3c56b50fdb4996dc6a25.jpg",
+        "https://telegra.ph/file/d653afa4a3d12d41dd910.jpg",
+        "https://telegra.ph/file/94b2e31aac4e7c760c41b.jpg",
+        "https://telegra.ph/file/bf1576c9ce4100ddb8a8a.jpg",
+        "https://telegra.ph/file/9df602fe04f7ab14dbae3.jpg",
+        "https://telegra.ph/file/7fa0ae4613ba4ddc4e4ac.jpg",
+        "https://telegra.ph/file/8eef0c1cced4982ee8f22.jpg",
+        "https://telegra.ph/file/43689838579a0412b8885.jpg",
+        "https://telegra.ph/file/15ef8ede0139943d0a767.jpg",
+        "https://telegra.ph/file/edc391b9ba59c03f12772.jpg",
+        "https://telegra.ph/file/863ae1f08981851e919a1.jpg",
+        "https://telegra.ph/file/04ae33e806ff62e8fd4a0.jpg",
+        "https://telegra.ph/file/0b00a1ae42ecb3cafaa6b.jpg",
+        "https://telegra.ph/file/9cc30afd8eb66114f415a.jpg",
+        "https://telegra.ph/file/5f9d6f2140476a1fad854.jpg",
+        "https://telegra.ph/file/c0e82b289e82327f8d5a1.jpg",
+        "https://telegra.ph/file/05feb2b3048a5be694ff6.jpg",
+        "https://telegra.ph/file/ab937560c42f7f49c88b9.jpg",
+        "https://telegra.ph/file/0e954f208a17dca524e24.jpg",
+        "https://telegra.ph/file/55c57b99c850660a785b0.jpg",
+        "https://telegra.ph/file/f744a3487acfef170beb3.jpg",
+        "https://telegra.ph/file/4fcbc7d4e4f9ae82bfaa4.jpg",
+        "https://telegra.ph/file/f66bedd79f3ee9b6bbdd4.jpg",
+        "https://telegra.ph/file/a08c769a6dfc66bed2ffd.jpg",
+        "https://telegra.ph/file/b3310ab45067668983ded.jpg"
+    ]
+};

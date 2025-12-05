@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5384,
+    "title": "(C104) [ものくろサーキット (racer)] イブキとなにしてあそぼっか (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/C104-ものくろサーキット-racer-イブキとなにしてあそぼっか-ブルーアーカイブ-08-31-4",
+    "images": [
+        "https://i2.iciallo.uk/mangz/ZZ/fe86a152754ad865422abdf7cffba9981/1.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/30890a5bc692b76722476292da9a824d2/2.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/d2b07b1276b8de29f3e0c5b22ce02f523/3.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f8e7a7682462195f03ed4d5eb718ae8e4/4.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/820a98ca426547dfe8e3fd169d76917b5/5.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/bf52e5124de1f67d0a6699619394f87f6/6.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/a31d6db1b524a2dd35b9c946957d39497/7.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/9b692a9aa2d7e822f4479ed9561aa63d8/8.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/d0ef2e8074d24f1d2bc69fefbba03c9b9/9.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/23962a1b2e1e2b4173707a6db0e07ec110/10.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/da38c08696eec521bffea77645705cd811/11.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/ec39bfa7dd91f706fade6803d3d1bca912/12.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/0116d325190ddcd8763ecadbb170815f13/13.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/8431c3229762f51047ff5a2e9f0b62d814/14.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/075f71d1b8f0043998bfe3930b11393315/15.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/3344a928cbf35c46491ebeb7d5e9ecc116/16.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/22547077eac439ca2301e4fb6a99a67317/17.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/5840d35663041f4a962bae8bf738347418/18.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/4160fe772b3b6f3488707c47a43707ce19/19.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/0289f52003f2cd4276dffcc3b7ce53bf20/20.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/7df4cf64d6e1160c056f7165b82b8ed521/21.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/6685210c62d2a0523e9e3d529e50686222/22.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/06b96909eb7307a7dbffc93ee4948dd323/23.jpg"
+    ]
+};

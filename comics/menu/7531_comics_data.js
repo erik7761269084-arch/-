@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7531,
+    "title": "かていきょーし！",
+    "sourceUrl": "https://telegra.ph/かていきょーし-08-31",
+    "images": [
+        "https://telegra.ph/file/30533c992ccce10eda88f.png",
+        "https://telegra.ph/file/9dc663b03a113b9f3f52c.png",
+        "https://telegra.ph/file/2e4c2464cdb462b846442.png",
+        "https://telegra.ph/file/7ae562aacb9bdf5a3b58a.png",
+        "https://telegra.ph/file/b81aa70ed6238cfa38565.png",
+        "https://telegra.ph/file/933288d3214c767eedc19.png",
+        "https://telegra.ph/file/ea33cf87ee958046ba079.png",
+        "https://telegra.ph/file/72dcf8242407824c44182.png",
+        "https://telegra.ph/file/82f03f84bce04ab08543c.png",
+        "https://telegra.ph/file/7815653296afb60aadc7f.png",
+        "https://telegra.ph/file/9193dfea00f987cec99db.png",
+        "https://telegra.ph/file/67a10b95499e43dfa41ae.png",
+        "https://telegra.ph/file/93db605294754565c73ca.png",
+        "https://telegra.ph/file/895c8191cbcb76154308b.png",
+        "https://telegra.ph/file/3bffccf43b98841caab31.png",
+        "https://telegra.ph/file/9aaf9ab789297c1cdbda3.png",
+        "https://telegra.ph/file/80bd0fcafbd76ae776253.png",
+        "https://telegra.ph/file/44819b081c70f60116ed2.png",
+        "https://telegra.ph/file/2f31ae585614d1be4f8b1.png",
+        "https://telegra.ph/file/689f087678b7506093a1f.png",
+        "https://telegra.ph/file/a69af01b0e5f66dd929ef.png",
+        "https://telegra.ph/file/e6cd2eacbe7021dcfb79e.png",
+        "https://telegra.ph/file/cae3df09c5cce33a04412.png",
+        "https://telegra.ph/file/7b38ecf1caaef945dccf2.png",
+        "https://telegra.ph/file/aebfb3fab31fb17bd96d6.png",
+        "https://telegra.ph/file/e6d05130ae4045abe9eeb.png"
+    ]
+};

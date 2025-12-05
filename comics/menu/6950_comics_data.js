@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6950,
+    "title": "姉妹協定",
+    "sourceUrl": "https://telegra.ph/姉妹協定-08-31",
+    "images": [
+        "https://telegra.ph/file/72f68a95bb0c78bb88431.jpg",
+        "https://telegra.ph/file/d0ffb68738c2998c70f36.jpg",
+        "https://telegra.ph/file/0841ee9bf54539c649f3d.jpg",
+        "https://telegra.ph/file/7a3315ce4c67003d8a70f.jpg",
+        "https://telegra.ph/file/4271d5411d99e898a4f21.jpg",
+        "https://telegra.ph/file/92bb900b02e1ed6f88ba0.jpg",
+        "https://telegra.ph/file/615020f9be953676b32be.jpg",
+        "https://telegra.ph/file/5accb3411381ff5c8aa2b.jpg",
+        "https://telegra.ph/file/2b437e4338e5d13a04743.jpg",
+        "https://telegra.ph/file/77331104ab664c5b58d83.jpg",
+        "https://telegra.ph/file/406a9f89ad0ff27ca37c4.jpg",
+        "https://telegra.ph/file/0143930b02c0abf466a6d.jpg",
+        "https://telegra.ph/file/e33154ae3c94b96095e07.jpg",
+        "https://telegra.ph/file/332e6cdbbfc7a70ca8807.jpg",
+        "https://telegra.ph/file/fc48779c773d2a65b2445.jpg",
+        "https://telegra.ph/file/c453481393732b3aff456.jpg",
+        "https://telegra.ph/file/0c23ff375971b3268a10e.jpg",
+        "https://telegra.ph/file/e8da499039f23ac354d86.jpg",
+        "https://telegra.ph/file/8fe6c73ae9797b567e236.jpg",
+        "https://telegra.ph/file/c0c097d275c0f08668b71.jpg",
+        "https://telegra.ph/file/38ae214536041a30a90a2.jpg",
+        "https://telegra.ph/file/f7935ba5654a92c8ceaa2.jpg",
+        "https://telegra.ph/file/6fbe9e040f1a06e0d14e0.jpg",
+        "https://telegra.ph/file/416857f51893188edea75.jpg"
+    ]
+};

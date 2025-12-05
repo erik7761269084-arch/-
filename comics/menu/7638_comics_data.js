@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7638,
+    "title": "消えないアヤマチ",
+    "sourceUrl": "https://telegra.ph/消えないアヤマチ-08-31",
+    "images": [
+        "https://telegra.ph/file/2516f61aa5976bd309699.jpg",
+        "https://telegra.ph/file/69fc0d82442bba789b3fa.jpg",
+        "https://telegra.ph/file/a7fcda684a26fccc4b959.jpg",
+        "https://telegra.ph/file/e874f13319c84ac419d45.jpg",
+        "https://telegra.ph/file/1e7fb90393b9497b1627f.jpg",
+        "https://telegra.ph/file/6a18ecfe4109989932fd8.jpg",
+        "https://telegra.ph/file/593027238feeb52ced852.jpg",
+        "https://telegra.ph/file/23fc070e3890111cad6d4.jpg",
+        "https://telegra.ph/file/e763303893fdd905eff65.jpg",
+        "https://telegra.ph/file/4a36d0a0baeecc7b3f778.jpg",
+        "https://telegra.ph/file/8a5b70f9032887a50b3ef.jpg",
+        "https://telegra.ph/file/7471101270e0194d7b2e3.jpg",
+        "https://telegra.ph/file/5034cbd9fdd2acb30218c.jpg",
+        "https://telegra.ph/file/f712b759fbeb2668d12b9.jpg",
+        "https://telegra.ph/file/dd91aa04b31b4958225da.jpg",
+        "https://telegra.ph/file/5588e597b3325a41e1096.jpg",
+        "https://telegra.ph/file/142d31cbeb963b526e948.jpg",
+        "https://telegra.ph/file/476eef5d3977c5c6d4c75.jpg",
+        "https://telegra.ph/file/17c777128474f869c4a32.jpg",
+        "https://telegra.ph/file/ca27bbbfc864392fa7de7.jpg",
+        "https://telegra.ph/file/5ba66039eb57a99ac4282.jpg",
+        "https://telegra.ph/file/cd8e5fccd08079bd05250.jpg",
+        "https://telegra.ph/file/65d5ed198c9af7d6861fe.jpg",
+        "https://telegra.ph/file/1feccf2eaf277b802289a.jpg",
+        "https://telegra.ph/file/cba1045db7694e159a27d.jpg",
+        "https://telegra.ph/file/243a26cbea5b588f1132e.jpg"
+    ]
+};

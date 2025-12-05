@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4168,
+    "title": "[Seven Deadly Sins (homu)] 私と円香とプロデューサー (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/Seven-Deadly-Sins-homu-私と円香とプロデューサー-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/c7792be6cb2c93aeb2c91.jpg",
+        "https://telegra.ph/file/302f38fdd0bc7947e4bff.jpg",
+        "https://telegra.ph/file/3c82a0625388676a591fc.jpg",
+        "https://telegra.ph/file/d9dce366acd4a2a82914e.jpg",
+        "https://telegra.ph/file/b370f42ebe4b4f40947af.jpg",
+        "https://telegra.ph/file/cda64d5906b6eaebbf81e.jpg",
+        "https://telegra.ph/file/bc85b7ee5c2f57b5bd6b0.jpg",
+        "https://telegra.ph/file/5bf8a63ee1e67b6438b10.jpg",
+        "https://telegra.ph/file/7a9daf1d815bae9033306.jpg",
+        "https://telegra.ph/file/091ef2fde191037d8cb0d.jpg",
+        "https://telegra.ph/file/beb10f10e5a0140d2824f.jpg",
+        "https://telegra.ph/file/4ad233cd7131e46d79878.jpg",
+        "https://telegra.ph/file/d1d5b9ebe70d5b0b6294c.jpg",
+        "https://telegra.ph/file/ad1018611c8cca38eda60.jpg",
+        "https://telegra.ph/file/d8062bbae8a72baa14fb4.jpg",
+        "https://telegra.ph/file/170f8d92698221d4432b5.jpg",
+        "https://telegra.ph/file/cfea85b5da5283b1a9372.jpg",
+        "https://telegra.ph/file/482086616758209c6016a.jpg",
+        "https://telegra.ph/file/44d8df0ac7cf689c9c681.jpg",
+        "https://telegra.ph/file/968735afd2a9edb255646.jpg",
+        "https://telegra.ph/file/d2e34fa49fc70d4af024c.jpg",
+        "https://telegra.ph/file/03fb0ff249390d308d683.jpg",
+        "https://telegra.ph/file/abb67729355d7b884c59a.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6558,
+    "title": "山姫ノ繭",
+    "sourceUrl": "https://telegra.ph/山姫ノ繭-08-31",
+    "images": [
+        "https://telegra.ph/file/75ba18adbd105ac75dff9.jpg",
+        "https://telegra.ph/file/b385828957458b1cf0d8e.jpg",
+        "https://telegra.ph/file/cfc3dc6b5bc385855ea92.jpg",
+        "https://telegra.ph/file/61e01767499a94ced5389.jpg",
+        "https://telegra.ph/file/726370a269af8a8700e76.jpg",
+        "https://telegra.ph/file/af48a775a6504da04da83.jpg",
+        "https://telegra.ph/file/cf5350d92e8023fe45f39.jpg",
+        "https://telegra.ph/file/eb0169fa85ffc1fc380de.jpg",
+        "https://telegra.ph/file/bb2c0fb3ce0ac5d3d7ca3.jpg",
+        "https://telegra.ph/file/f8267fd4a8ed23d889876.jpg",
+        "https://telegra.ph/file/c892a402b4fc057b9a269.jpg",
+        "https://telegra.ph/file/8c8aadfdf6031f0837dc7.jpg",
+        "https://telegra.ph/file/c9182f7416c28aa70506a.jpg",
+        "https://telegra.ph/file/46ba18c0d1402eb3d7b6e.jpg",
+        "https://telegra.ph/file/7e5c3ed0140bbf3e802d6.jpg",
+        "https://telegra.ph/file/3c3b67dd118d327f359a4.jpg",
+        "https://telegra.ph/file/b443e4ec60b7eddb0f45c.jpg",
+        "https://telegra.ph/file/6f59ea5b91629e26d6d97.jpg",
+        "https://telegra.ph/file/2119621368f861c2bc3df.jpg",
+        "https://telegra.ph/file/fea1faaf9f23666c82787.jpg",
+        "https://telegra.ph/file/f76dce8d73551cfc83391.jpg",
+        "https://telegra.ph/file/9c390f63ad26c6c38a4b6.jpg",
+        "https://telegra.ph/file/d3ade718c40a139b94bdb.jpg"
+    ]
+};

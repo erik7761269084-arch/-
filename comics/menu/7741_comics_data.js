@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7741,
+    "title": "寝取られ妻",
+    "sourceUrl": "https://telegra.ph/寝取られ妻-08-31",
+    "images": [
+        "https://telegra.ph/file/5b1d8bc183aff28e00455.jpg",
+        "https://telegra.ph/file/a5677781b4c2a52d80efe.jpg",
+        "https://telegra.ph/file/f5a49d05ddfb3e1881cd4.jpg",
+        "https://telegra.ph/file/50d1fd5f9c43ae2bd6ad8.jpg",
+        "https://telegra.ph/file/8e1880e8bc5f376ef84eb.jpg",
+        "https://telegra.ph/file/c190b514133deb7b472e9.jpg",
+        "https://telegra.ph/file/ec73824adda5d8867acda.jpg",
+        "https://telegra.ph/file/cefe3e3595fded9f38ac4.jpg",
+        "https://telegra.ph/file/504c1fd654ca3aa61df6e.jpg",
+        "https://telegra.ph/file/58b6ce0d4732591121f42.jpg",
+        "https://telegra.ph/file/59b604a8aaf48b3b853e9.jpg",
+        "https://telegra.ph/file/9aedb2cc53d7c5c09b6d0.jpg",
+        "https://telegra.ph/file/9775f83be99885dc5dbe0.jpg",
+        "https://telegra.ph/file/365504957c88ab88677be.jpg",
+        "https://telegra.ph/file/3ddedf770387590c098c2.jpg",
+        "https://telegra.ph/file/80719d04775237e9a1d41.jpg",
+        "https://telegra.ph/file/a69c39669da822b0d34e2.jpg",
+        "https://telegra.ph/file/5e4f284f873f60fe22092.jpg",
+        "https://telegra.ph/file/9082de6111a3c96b40e2a.jpg",
+        "https://telegra.ph/file/997bb78534eadbc7468b2.jpg",
+        "https://telegra.ph/file/f9967956a658e66822135.jpg",
+        "https://telegra.ph/file/ae2845246d6b1fcaa4332.jpg",
+        "https://telegra.ph/file/80cd12f004bcab3f71263.jpg",
+        "https://telegra.ph/file/d1b770403eb1507ee34b3.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6843,
+    "title": "淫♥ファイト",
+    "sourceUrl": "https://telegra.ph/淫ファイト-08-31",
+    "images": [
+        "https://telegra.ph/file/bce97a3060d8c72ec277b.jpg",
+        "https://telegra.ph/file/7fd4db667f1a2915c94e2.jpg",
+        "https://telegra.ph/file/8343d02fff80ab417a391.jpg",
+        "https://telegra.ph/file/88410d0ea171ba621d20a.jpg",
+        "https://telegra.ph/file/ac68475b042f9964feb01.jpg",
+        "https://telegra.ph/file/d520fd257dbe892970983.jpg",
+        "https://telegra.ph/file/fd22640cf2e77b8287be7.jpg",
+        "https://telegra.ph/file/8ef86415c0d2c35a804e0.jpg",
+        "https://telegra.ph/file/222009fd4e9a8cbc14f2e.jpg",
+        "https://telegra.ph/file/eca736f47d2de75612c52.jpg",
+        "https://telegra.ph/file/f19b039cf6baae35fd16e.jpg",
+        "https://telegra.ph/file/2bb03b1362c9c19c076d6.jpg",
+        "https://telegra.ph/file/ec8945132b5c2e7dfa437.jpg",
+        "https://telegra.ph/file/f29d22596fbb4c6edb1ce.jpg",
+        "https://telegra.ph/file/bd1ec42ae501db6928fa3.jpg",
+        "https://telegra.ph/file/7eb420fe3f0610f2a4e0e.jpg",
+        "https://telegra.ph/file/402984cd5f479e8431c62.jpg",
+        "https://telegra.ph/file/f43f1d572d68d81efbb86.jpg",
+        "https://telegra.ph/file/0a74be9d20a5c64ae634d.jpg",
+        "https://telegra.ph/file/ab9c448a0fb31b2f6455c.jpg",
+        "https://telegra.ph/file/4774e1f7be98fafcc2f1d.jpg",
+        "https://telegra.ph/file/16c324ce966ba2ef9697e.jpg",
+        "https://telegra.ph/file/6cada37f100c5347cdca4.jpg",
+        "https://telegra.ph/file/cb04fd45c77a144b96f8a.jpg",
+        "https://telegra.ph/file/a91c111ed09d9569240ac.jpg",
+        "https://telegra.ph/file/841ea740f7dcaa149c870.jpg"
+    ]
+};

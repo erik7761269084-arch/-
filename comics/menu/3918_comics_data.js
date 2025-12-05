@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3918,
+    "title": "(C95) [MUSES GARDEN (早川あかり)] 46億年分強くて可愛い高雄 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C95-MUSES-GARDEN-早川あかり-46億年分強くて可愛い高雄-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/31d214e9026c81e69a5b0.jpg",
+        "https://telegra.ph/file/a29551b00e0fb9bf934aa.jpg",
+        "https://telegra.ph/file/9c78e8a62244e23c4beec.jpg",
+        "https://telegra.ph/file/898e967677a49793b2cb6.jpg",
+        "https://telegra.ph/file/0920798d83f3b6b0808c3.jpg",
+        "https://telegra.ph/file/89c0ef32b16e1cd0aab53.jpg",
+        "https://telegra.ph/file/db4391e22ae3e3037a0fe.jpg",
+        "https://telegra.ph/file/e3041aa6351aeeef9a225.jpg",
+        "https://telegra.ph/file/6c2d90b648185c66a741c.jpg",
+        "https://telegra.ph/file/de3edbc67416aff032980.jpg",
+        "https://telegra.ph/file/af57d3b5814cac6447b08.jpg",
+        "https://telegra.ph/file/24319f5365c05024a634f.jpg",
+        "https://telegra.ph/file/f97d7374872703f2c2b10.jpg",
+        "https://telegra.ph/file/6268209a14e75cb5aa668.jpg",
+        "https://telegra.ph/file/5090423c3078bb5b013cf.jpg",
+        "https://telegra.ph/file/bd76d720b9d5885ea0efa.jpg",
+        "https://telegra.ph/file/95ab6cced83cc9fc12fa6.jpg",
+        "https://telegra.ph/file/ff65582709e7a16d1d2ff.jpg",
+        "https://telegra.ph/file/5c83e043265f13f26f01b.jpg",
+        "https://telegra.ph/file/e0b09cce5da729cd981c2.jpg",
+        "https://telegra.ph/file/90b4b92a5fe9ca3e021e7.jpg",
+        "https://telegra.ph/file/20a677c94475afd147591.jpg",
+        "https://telegra.ph/file/348a530763bf8a49753b1.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

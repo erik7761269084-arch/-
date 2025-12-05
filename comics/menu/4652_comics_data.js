@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4652,
+    "title": "重口慎入！(C78) [ネコネコ・パンチュッ! (ねこねこぱんちゅっ)] 三姉妹調教遊戯【由香里編】ゆかりちゃんの豚鼻家畜調教【アナル被虐授業】",
+    "sourceUrl": "https://telegra.ph/重口慎入C78-ネコネコパンチュッ-ねこねこぱんちゅっ-三姉妹調教遊戯由香里編ゆかりちゃんの豚鼻家畜調教アナル被虐授業-08-31",
+    "images": [
+        "https://telegra.ph/file/a1031199c0bb31b79ec67.jpg",
+        "https://telegra.ph/file/1d0c6f3bdfd2f2e5b6462.jpg",
+        "https://telegra.ph/file/7fad5396c3eacf8ca1c00.jpg",
+        "https://telegra.ph/file/5e44d2265b233ff8322be.jpg",
+        "https://telegra.ph/file/f2b78a3ab123fb95e5593.jpg",
+        "https://telegra.ph/file/c40d4fbfb533e6788a466.jpg",
+        "https://telegra.ph/file/360a5899a570caf6c29b0.jpg",
+        "https://telegra.ph/file/1ac84f2ea9552fffb021e.jpg",
+        "https://telegra.ph/file/b27f7b173ca4d104d2300.jpg",
+        "https://telegra.ph/file/69dedeb42fd66777ac3bb.jpg",
+        "https://telegra.ph/file/f5edc6ebfc2adb51f0633.jpg",
+        "https://telegra.ph/file/e775a7953e5717db50ea6.jpg",
+        "https://telegra.ph/file/d2ba0228375f75e9601f0.jpg",
+        "https://telegra.ph/file/108354ae55fa534d5b2f4.jpg",
+        "https://telegra.ph/file/4545ae59788277f25ebe4.jpg",
+        "https://telegra.ph/file/ea8cccafa02f5306c958d.jpg",
+        "https://telegra.ph/file/4cc9d53521be910ce5325.jpg",
+        "https://telegra.ph/file/0b9e11b90ed89ca262cee.jpg",
+        "https://telegra.ph/file/bacad066a881fbe6b7628.jpg",
+        "https://telegra.ph/file/6c1923cdfe6781e500fa9.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg",
+        "https://telegra.ph/file/6615ebbbc95483e2412f0.jpg",
+        "https://telegra.ph/file/a5b783d5a4ccea7e67d63.png"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 580,
+    "title": "[CANずめ] 申鶴 (原神)",
+    "sourceUrl": "https://telegra.ph/CANずめ-申鶴-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/e1fe872d8ba3895adbc6b.jpg",
+        "https://telegra.ph/file/3ba78594ca747a26ead33.jpg",
+        "https://telegra.ph/file/41c7f2be274b8f88fc5bb.jpg",
+        "https://telegra.ph/file/ad8b6ef06f52120717546.jpg",
+        "https://telegra.ph/file/cf8c8d29c39763aecd94f.jpg",
+        "https://telegra.ph/file/f11e3f22bd60717b10367.jpg",
+        "https://telegra.ph/file/e71bced934009578b2f74.jpg",
+        "https://telegra.ph/file/c1df1f63a6e7961edd224.jpg",
+        "https://telegra.ph/file/d6f81ee16ab14c37bf748.jpg",
+        "https://telegra.ph/file/291c4b09e44ad8d28ed60.jpg",
+        "https://telegra.ph/file/a5ef7c7dca1f012ff522c.jpg",
+        "https://telegra.ph/file/2e394b28756576fe28d03.jpg",
+        "https://telegra.ph/file/274e494157bf3841eee0b.jpg",
+        "https://telegra.ph/file/431f11ecf801ef0b2ffb1.jpg",
+        "https://telegra.ph/file/a685fcbadb43e3df779dc.jpg",
+        "https://telegra.ph/file/38ba2a5a963d643cd3271.jpg",
+        "https://telegra.ph/file/9655ea3d3d4563cf36d23.jpg",
+        "https://telegra.ph/file/0f886b3eb76f059d99c99.jpg",
+        "https://telegra.ph/file/54baacd9e0783562bf99f.jpg",
+        "https://telegra.ph/file/e4337a097c68d93e54066.jpg",
+        "https://telegra.ph/file/242ae56ef702a171ffbd2.jpg",
+        "https://telegra.ph/file/2876d24ebe44f38689087.jpg",
+        "https://telegra.ph/file/00ad71102b5e2a3b2eb2f.jpg",
+        "https://telegra.ph/file/b4e8bb417765bf70ce60a.jpg",
+        "https://telegra.ph/file/52e686899f5c2db7ec676.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7507,
+    "title": "社畜の幸せ",
+    "sourceUrl": "https://telegra.ph/社畜の幸せ-08-31",
+    "images": [
+        "https://telegra.ph/file/24c49fd550949b60e1e23.jpg",
+        "https://telegra.ph/file/9abd8d8e48bc4b8d2e495.jpg",
+        "https://telegra.ph/file/598db75ba4e9b3b0b88e0.jpg",
+        "https://telegra.ph/file/c9db5c9ec58fa079c0a6d.jpg",
+        "https://telegra.ph/file/87dcb07cd0aba5b231d5a.jpg",
+        "https://telegra.ph/file/92704174530b23a1b3f80.jpg",
+        "https://telegra.ph/file/3d0f3b3be7dd86bfd39e1.jpg",
+        "https://telegra.ph/file/5770114c1eb5cc1d93113.jpg",
+        "https://telegra.ph/file/64265e0398e33a6a6767b.jpg",
+        "https://telegra.ph/file/4a0e4e6063091562282cc.jpg",
+        "https://telegra.ph/file/198778c5ae9506ca1e890.jpg",
+        "https://telegra.ph/file/e24c4d52ebbb01ed31416.jpg",
+        "https://telegra.ph/file/d30d2a96fee5be8b64b3e.jpg",
+        "https://telegra.ph/file/b1f4e4d6f556da3b96ab0.jpg",
+        "https://telegra.ph/file/1f5467e8601f5c39b5ed1.jpg",
+        "https://telegra.ph/file/96480da9326fc536f7ad3.jpg",
+        "https://telegra.ph/file/983c856bf2f3e3f667609.jpg",
+        "https://telegra.ph/file/044c1c6bf49f53962cb47.jpg",
+        "https://telegra.ph/file/fe443ace3fd501950b7e1.jpg",
+        "https://telegra.ph/file/1e6601f876f1a05d01f74.jpg",
+        "https://telegra.ph/file/f964b9add9313c5506a29.jpg",
+        "https://telegra.ph/file/8e6708752c82b31a8142f.jpg",
+        "https://telegra.ph/file/1ff543675e40aaa92e813.jpg",
+        "https://telegra.ph/file/217b6751cabadd41b90d7.jpg"
+    ]
+};

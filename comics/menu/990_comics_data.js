@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 990,
+    "title": "(C97) [毒電波通信 (千国AKY)] 杜野凛世の恋愛学 (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C97-毒電波通信-千国AKY-杜野凛世の恋愛学-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/f4cf6f3cc06cd8774854b.jpg",
+        "https://telegra.ph/file/5a1a716b2080c7ebf9f1c.jpg",
+        "https://telegra.ph/file/88474fd0a67df02d0341f.jpg",
+        "https://telegra.ph/file/7e47d6fc7838be2c626a6.jpg",
+        "https://telegra.ph/file/17e29ceae64c996d61e45.jpg",
+        "https://telegra.ph/file/8441541ad1a4d80136a5a.jpg",
+        "https://telegra.ph/file/a05a05e66053342e5ba54.jpg",
+        "https://telegra.ph/file/12d2a5f77b5bf5ef30313.jpg",
+        "https://telegra.ph/file/7f674a3abfae6648f9aac.jpg",
+        "https://telegra.ph/file/d082babe6ae905a1ee551.jpg",
+        "https://telegra.ph/file/40bd5595a88be71b024c0.jpg",
+        "https://telegra.ph/file/c8de0b953f92b95b7bc02.jpg",
+        "https://telegra.ph/file/39634eddddaa5480301ee.jpg",
+        "https://telegra.ph/file/72464951b39df8dc3d0b1.jpg",
+        "https://telegra.ph/file/e1526ff90ae119f0e184b.jpg",
+        "https://telegra.ph/file/bb56109d502678008e783.jpg",
+        "https://telegra.ph/file/d3fb01bc2d3aa63ead8ba.jpg",
+        "https://telegra.ph/file/16aa1fe676978d663d421.jpg",
+        "https://telegra.ph/file/d445d5c5bba85a302ee30.jpg",
+        "https://telegra.ph/file/7a09e272e4804fe208b13.jpg",
+        "https://telegra.ph/file/3273c49d66020a4b25808.jpg",
+        "https://telegra.ph/file/3a117f58048d17baa546f.jpg",
+        "https://telegra.ph/file/d821cab6ef4c3df701f8b.jpg"
+    ]
+};

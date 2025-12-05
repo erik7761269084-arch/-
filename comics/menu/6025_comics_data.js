@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6025,
+    "title": "[空巣] Love Potion ～極楽ツアーへようこそ～",
+    "sourceUrl": "https://telegra.ph/空巣-Love-Potion-極楽ツアーへようこそ-08-31",
+    "images": [
+        "https://telegra.ph/file/e735ae7b9149acb60938d.jpg",
+        "https://telegra.ph/file/f411a59cbb32d5d838402.jpg",
+        "https://telegra.ph/file/6649be4a8ff5f9d4bb2a5.jpg",
+        "https://telegra.ph/file/fc5953389f7f2f3f28cba.jpg",
+        "https://telegra.ph/file/c542a6839d37a2273eea9.jpg",
+        "https://telegra.ph/file/01b9a24212f4213883373.jpg",
+        "https://telegra.ph/file/a9fbdfc1aaa0e46151d74.jpg",
+        "https://telegra.ph/file/0da86a5cf788dccf0341e.jpg",
+        "https://telegra.ph/file/fa72683268e1df961faae.jpg",
+        "https://telegra.ph/file/0350d01c54d641ccbba30.jpg",
+        "https://telegra.ph/file/b0c33611d7b7729752e4d.jpg",
+        "https://telegra.ph/file/d5e3f7d32f39a72443974.jpg",
+        "https://telegra.ph/file/5f92620cadef7eb05e142.jpg",
+        "https://telegra.ph/file/4a2125624b775cf896353.jpg",
+        "https://telegra.ph/file/aa11b7c856d4eb2b1b9de.jpg",
+        "https://telegra.ph/file/c9fccd85d7ca34699cb95.jpg",
+        "https://telegra.ph/file/b5514864f3d8bcde5963d.jpg",
+        "https://telegra.ph/file/cdb57183ed9aff8564a1c.jpg",
+        "https://telegra.ph/file/0672c9825c774e07256ea.jpg",
+        "https://telegra.ph/file/ff71f0f57ee801cf37f9b.jpg",
+        "https://telegra.ph/file/db5051f4e5aae97e1a71d.jpg",
+        "https://telegra.ph/file/b7087c03860834255920f.jpg",
+        "https://telegra.ph/file/bb9ccb789ee672ef38531.jpg",
+        "https://telegra.ph/file/a5e211ac5b44d3327b182.jpg"
+    ]
+};

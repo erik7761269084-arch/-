@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 858,
+    "title": "[てるてるがーる (天乃輝)] 蟲姦風俗店 II",
+    "sourceUrl": "https://telegra.ph/てるてるがーる-天乃輝-蟲姦風俗店-II-08-31",
+    "images": [
+        "https://telegra.ph/file/69dcd6ea7eabd9c65c646.jpg",
+        "https://telegra.ph/file/9cc2ba00cf5d3563de2eb.jpg",
+        "https://telegra.ph/file/ec1e96f1df2d12142a99e.jpg",
+        "https://telegra.ph/file/04fc20bc81fe835e12afe.jpg",
+        "https://telegra.ph/file/31dc47dd4f26403e05b48.jpg",
+        "https://telegra.ph/file/5097844bf3bc15c17a12f.jpg",
+        "https://telegra.ph/file/aaea39fa72db300237fd2.jpg",
+        "https://telegra.ph/file/0db50ae1a4316cc532426.jpg",
+        "https://telegra.ph/file/35ad7f1dac2e739e5340b.jpg",
+        "https://telegra.ph/file/95eb9e29d6f7596730ddf.jpg",
+        "https://telegra.ph/file/5d330fe092fb5f7df8796.jpg",
+        "https://telegra.ph/file/b6542963fb7fc84e19a2a.jpg",
+        "https://telegra.ph/file/67894241f8f691b708bdb.jpg",
+        "https://telegra.ph/file/a0b0f91186b3dcd510b69.jpg",
+        "https://telegra.ph/file/9e3a47e639bb8a5b161d5.jpg",
+        "https://telegra.ph/file/f65f88052b439bb86f7a0.jpg",
+        "https://telegra.ph/file/a439ab95bd32cef29f5c3.jpg",
+        "https://telegra.ph/file/8fa8862fe70840823fa76.jpg",
+        "https://telegra.ph/file/b90e579d63ef249bb0ae6.jpg",
+        "https://telegra.ph/file/c81f97721c7c49c0bab73.jpg",
+        "https://telegra.ph/file/b17fcdb96986255ba78ca.jpg",
+        "https://telegra.ph/file/988516e3d5dd314b2234c.jpg",
+        "https://telegra.ph/file/d56f1d5c468b2a56aaaf3.jpg",
+        "https://telegra.ph/file/a88f0119b988652aca0ca.jpg",
+        "https://telegra.ph/file/726d0ec2cd4980dac09ea.jpg"
+    ]
+};

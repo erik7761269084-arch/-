@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2862,
+    "title": "(COMIC1☆11) [ブロンコ一人旅 (内々けやき)] Beast Sex Friends (キラキラ☆プリキュア アラモード)",
+    "sourceUrl": "https://telegra.ph/COMIC111-ブロンコ一人旅-内々けやき-Beast-Sex-Friends-キラキラプリキュア-アラモード-08-31",
+    "images": [
+        "https://telegra.ph/file/8947a00e47f76e38658fe.jpg",
+        "https://telegra.ph/file/dee73cdeeae9ccd66f230.jpg",
+        "https://telegra.ph/file/8250208b1e7b9fed00f7b.jpg",
+        "https://telegra.ph/file/7865b6bf7f48cd4a546c4.jpg",
+        "https://telegra.ph/file/a8cafde81b39381d7cb12.jpg",
+        "https://telegra.ph/file/bf445697dd9acb3a5cdc3.jpg",
+        "https://telegra.ph/file/5c6398e6ffa2dee2568da.jpg",
+        "https://telegra.ph/file/126365e2d690de0828511.jpg",
+        "https://telegra.ph/file/252d47b276ee6ddf72c51.jpg",
+        "https://telegra.ph/file/1e27f0e2f8f18273e13e7.jpg",
+        "https://telegra.ph/file/7dbfa23b8412d6cdd4811.jpg",
+        "https://telegra.ph/file/d9608bf9f8dfa99d49a6e.jpg",
+        "https://telegra.ph/file/97b60f756fec4098b5e31.jpg",
+        "https://telegra.ph/file/921893ec5d16628cd499e.jpg",
+        "https://telegra.ph/file/8de8c926a0b2f795376ba.jpg",
+        "https://telegra.ph/file/4f8a1daa8d610d56eb488.jpg",
+        "https://telegra.ph/file/2cea33f95c583024f15d3.jpg",
+        "https://telegra.ph/file/aefcd185e57969717ca53.jpg",
+        "https://telegra.ph/file/b95c5d230a42bd9714585.jpg",
+        "https://telegra.ph/file/26cea4123abdf95d9fe9e.jpg",
+        "https://telegra.ph/file/9678b89e9d30816beba58.jpg",
+        "https://telegra.ph/file/134d95ec6edbbfa94a761.jpg",
+        "https://telegra.ph/file/c9a59717d3df9e2510dec.jpg",
+        "https://telegra.ph/file/fbbf9d258b09b3304af49.jpg"
+    ]
+};

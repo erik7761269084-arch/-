@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1558,
+    "title": "[ひやかけごはん (小矢部亮)] 現パロハーヴィンハーレムアパート日常編 (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/ひやかけごはん-小矢部亮-現パロハーヴィンハーレムアパート日常編-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/70466ae9769c4ed056659.jpg",
+        "https://telegra.ph/file/fa41b38638cb3b1a3f37f.jpg",
+        "https://telegra.ph/file/9289de0e2db1fe2df7bfd.jpg",
+        "https://telegra.ph/file/3dd0566b516f892927643.jpg",
+        "https://telegra.ph/file/86d7c44f2e59f08664308.jpg",
+        "https://telegra.ph/file/1dc9295cc42508f6a16af.jpg",
+        "https://telegra.ph/file/3f13cf72dcd531f3174d5.jpg",
+        "https://telegra.ph/file/ac96fe741f2d9c89e1d23.jpg",
+        "https://telegra.ph/file/500fa67b4e30ea3770156.jpg",
+        "https://telegra.ph/file/5767610de7fb29450ce5b.jpg",
+        "https://telegra.ph/file/46a24cd0343c33251d476.jpg",
+        "https://telegra.ph/file/d1d905e4db21f18b1b9ce.jpg",
+        "https://telegra.ph/file/f0be2cec2a77a563f04b7.jpg",
+        "https://telegra.ph/file/6ba25978b2c999f9be537.jpg",
+        "https://telegra.ph/file/b37a81fb409df805115b7.jpg",
+        "https://telegra.ph/file/fcc06e77144aa70aac37b.jpg",
+        "https://telegra.ph/file/2b8618b4be5f9c1375cec.jpg",
+        "https://telegra.ph/file/5fe54bbef2be3f16eddeb.jpg",
+        "https://telegra.ph/file/685a5739f7701f3472ec1.jpg",
+        "https://telegra.ph/file/98aa5c7e7acd01528dcdb.jpg",
+        "https://telegra.ph/file/e0ad19cb37773a78058bc.jpg",
+        "https://telegra.ph/file/7347acc655d3eb262b044.jpg",
+        "https://telegra.ph/file/f28e023e311888edf7e41.jpg",
+        "https://telegra.ph/file/5399d796630f1bee5c816.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

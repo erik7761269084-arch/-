@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 488,
+    "title": "[安藤裕行] 雌豚(ドスケベ)チ♂ポ奴隷 ～妖怪 猫又～ (COMIC クリベロン DUMA 2022年4月号 Vol.35)",
+    "sourceUrl": "https://telegra.ph/安藤裕行-雌豚ドスケベチポ奴隷-妖怪-猫又-COMIC-クリベロン-DUMA-2022年4月号-Vol35-08-31-2",
+    "images": [
+        "https://telegra.ph/file/9c2081ec6ff4a5f3329aa.jpg",
+        "https://telegra.ph/file/02854e9eaf2b9d6431309.jpg",
+        "https://telegra.ph/file/ff7d1aa348d7a1d943618.jpg",
+        "https://telegra.ph/file/3959802b91a8701738810.jpg",
+        "https://telegra.ph/file/430ecd0d9fbd696aea1d4.jpg",
+        "https://telegra.ph/file/9f74b1436eee7984b740a.jpg",
+        "https://telegra.ph/file/2c401c63c1e8bfbcac1e2.jpg",
+        "https://telegra.ph/file/91635b55459e5cebcff97.jpg",
+        "https://telegra.ph/file/367651259ffc7cf9a4d4c.jpg",
+        "https://telegra.ph/file/fbac8dd7d05d1812a8a38.jpg",
+        "https://telegra.ph/file/889233792224f3e81f65a.jpg",
+        "https://telegra.ph/file/504905f583dd976b26522.jpg",
+        "https://telegra.ph/file/079d25bb347b955a510fa.jpg",
+        "https://telegra.ph/file/5bee75bef49ce0fde551a.jpg",
+        "https://telegra.ph/file/cee99656f79c9f7489471.jpg",
+        "https://telegra.ph/file/c007b4c32fe08c0886260.jpg",
+        "https://telegra.ph/file/053785bd0657371f6c771.jpg",
+        "https://telegra.ph/file/0d62574ebb120b98c3e11.jpg",
+        "https://telegra.ph/file/18d790b0903eca77492a8.jpg",
+        "https://telegra.ph/file/66b7abbca3963c3f31b36.jpg",
+        "https://telegra.ph/file/98a1391ec1b4948220b55.jpg",
+        "https://telegra.ph/file/fa48d1a0b83f6ba1db0d4.jpg",
+        "https://telegra.ph/file/0be613a64da1d72ee0744.jpg",
+        "https://telegra.ph/file/6884890e203f31f4f05fe.jpg"
+    ]
+};

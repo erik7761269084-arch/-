@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6967,
+    "title": "柚と竹彦の事情 1",
+    "sourceUrl": "https://telegra.ph/柚と竹彦の事情-1-08-31",
+    "images": [
+        "https://telegra.ph/file/6e2a53ebaf4a411f88645.jpg",
+        "https://telegra.ph/file/5ee5cba26a738b6cf3a5c.jpg",
+        "https://telegra.ph/file/1bf64ee4ba6333303ade4.jpg",
+        "https://telegra.ph/file/7913f647912b275ee78af.jpg",
+        "https://telegra.ph/file/ef76199cac82a89758f15.jpg",
+        "https://telegra.ph/file/5c6f69aef0639d5fdd6ee.jpg",
+        "https://telegra.ph/file/b9b1ac672d709fd2bd013.jpg",
+        "https://telegra.ph/file/087a02fd82b447ace535e.jpg",
+        "https://telegra.ph/file/2cafa1a5c327bba392865.jpg",
+        "https://telegra.ph/file/b67cfdf3223924c05a539.jpg",
+        "https://telegra.ph/file/28a076a18eed5fa68e32d.jpg",
+        "https://telegra.ph/file/32d52564d3368cfb577b7.jpg",
+        "https://telegra.ph/file/28935e9023d36363c8a66.jpg",
+        "https://telegra.ph/file/e0d1447ce86fd3f407702.jpg",
+        "https://telegra.ph/file/f5ba3c949106bba84200b.jpg",
+        "https://telegra.ph/file/d125ee13587a09e6eca5e.jpg",
+        "https://telegra.ph/file/02d0c7a3cb1b97aa6f891.jpg",
+        "https://telegra.ph/file/fe00e49a50ab1281f98eb.jpg",
+        "https://telegra.ph/file/8eed1eec1170d7153d05e.jpg",
+        "https://telegra.ph/file/a21680d46e028118dfd91.jpg",
+        "https://telegra.ph/file/b23151c6ac8cc7634ef8a.jpg",
+        "https://telegra.ph/file/bed0b13263cef08e0b763.jpg",
+        "https://telegra.ph/file/90296f67df6cafd5b757d.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 249,
+    "title": "[mogg] 地球で一番暑い日 (COMIC 快楽天 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/mogg-地球で一番暑い日-COMIC-快楽天-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/76ceefa7a3c4c714b0e79.jpg",
+        "https://telegra.ph/file/919acba6965de2a0c52f1.jpg",
+        "https://telegra.ph/file/41b8b3e7e084039687349.jpg",
+        "https://telegra.ph/file/a6a82b96773bde93c0327.jpg",
+        "https://telegra.ph/file/7cd4b46ed558a6f1cef38.jpg",
+        "https://telegra.ph/file/45a0369a4253294134d7f.jpg",
+        "https://telegra.ph/file/2e5cee5eb8418e6bfff1f.jpg",
+        "https://telegra.ph/file/7165b4f15e23024a572fc.jpg",
+        "https://telegra.ph/file/c49554ef49d82e4e69b02.jpg",
+        "https://telegra.ph/file/6b5efa433184af3f0fff4.jpg",
+        "https://telegra.ph/file/d68267b6114a8d5554715.jpg",
+        "https://telegra.ph/file/54f6b0ed5fa16354d7432.jpg",
+        "https://telegra.ph/file/cbd80a56e2b933f502f61.jpg",
+        "https://telegra.ph/file/2a1833e8db36f8dd5d252.jpg",
+        "https://telegra.ph/file/036d2d831e06a9643b096.jpg",
+        "https://telegra.ph/file/58c0d29757de8fbd314a1.jpg",
+        "https://telegra.ph/file/800db1f59f2c515ee015f.jpg",
+        "https://telegra.ph/file/16ec2e2c187206fd9a02a.jpg",
+        "https://telegra.ph/file/bf85498b1d97e88435240.jpg",
+        "https://telegra.ph/file/b0f931f93b9d4e6ac958b.jpg",
+        "https://telegra.ph/file/2a1974e09079032db7f99.jpg",
+        "https://telegra.ph/file/330983066e773b9c796ea.jpg",
+        "https://telegra.ph/file/af3fc90445e2b6305a102.jpg",
+        "https://telegra.ph/file/d3768495ee3157b51fc90.jpg",
+        "https://telegra.ph/file/649fa7d91027432d745ea.jpg"
+    ]
+};

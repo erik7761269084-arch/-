@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5970,
+    "title": "[タイラメ] おるすばん☆ぱにっく！",
+    "sourceUrl": "https://telegra.ph/タイラメ-おるすばんぱにっく-08-31",
+    "images": [
+        "https://telegra.ph/file/62b74fe9fb801f1c15d7b.jpg",
+        "https://telegra.ph/file/fcb8faa163085230e31a8.jpg",
+        "https://telegra.ph/file/c1ee3cba51b81d317af4f.jpg",
+        "https://telegra.ph/file/9d035e5f27bb414f352f9.jpg",
+        "https://telegra.ph/file/b21325a6ab7045b96c448.jpg",
+        "https://telegra.ph/file/f0f8f7c45a115d4c98d7d.jpg",
+        "https://telegra.ph/file/4e3864d44cd239bae8591.jpg",
+        "https://telegra.ph/file/c0928f4d6287d42498daa.jpg",
+        "https://telegra.ph/file/764cb8487e3d603307ac6.jpg",
+        "https://telegra.ph/file/359c4ee34b39de1af1bef.jpg",
+        "https://telegra.ph/file/eddf8736906d53d453605.jpg",
+        "https://telegra.ph/file/95714693ddef1e41d97fe.jpg",
+        "https://telegra.ph/file/aa6a59516d850c679ffaf.jpg",
+        "https://telegra.ph/file/c5801261a80e43a626df4.jpg",
+        "https://telegra.ph/file/30776f96416731a028b8e.jpg",
+        "https://telegra.ph/file/d4f5ba5794eccac502401.jpg",
+        "https://telegra.ph/file/0ca161a75317030929713.jpg",
+        "https://telegra.ph/file/f7b5a9037f41a7f707cd2.jpg",
+        "https://telegra.ph/file/8d97487de660971e25cbd.jpg",
+        "https://telegra.ph/file/762fd2cd2021099bab561.jpg",
+        "https://telegra.ph/file/bb9a836aba045ed935d5a.jpg",
+        "https://telegra.ph/file/16c0234bd78db98552c7e.jpg",
+        "https://telegra.ph/file/f1ca3e973b4360c39ed4d.jpg",
+        "https://telegra.ph/file/b1f6e4827c5f071018b78.jpg",
+        "https://telegra.ph/file/a5af0f30454f6fae36b8f.jpg"
+    ]
+};

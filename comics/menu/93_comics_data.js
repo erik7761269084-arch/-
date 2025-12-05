@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 93,
+    "title": "mana_刻晴02",
+    "sourceUrl": "https://telegra.ph/mana-刻晴02-08-31",
+    "images": [
+        "https://telegra.ph/file/88039172ea8fa4e20d86c.jpg",
+        "https://telegra.ph/file/fd03bba594b5b219ab167.jpg",
+        "https://telegra.ph/file/43aa5b120e8ec109cebd9.jpg",
+        "https://telegra.ph/file/19c605afb1ac40eda2a57.jpg",
+        "https://telegra.ph/file/33ed9edcb9f5be12521ab.jpg",
+        "https://telegra.ph/file/3a3d501bc4f0fdb1ead95.jpg",
+        "https://telegra.ph/file/849d71719798ca64382fc.jpg",
+        "https://telegra.ph/file/aa04a3cae3b9035dc172b.jpg",
+        "https://telegra.ph/file/f2bafc0c39dcffd0eb3d3.jpg",
+        "https://telegra.ph/file/ea7f7ff866d6531ebdbd3.jpg",
+        "https://telegra.ph/file/b0087d2562b05d1f3720a.jpg",
+        "https://telegra.ph/file/b8fd6ca7641e81a4fcb54.jpg",
+        "https://telegra.ph/file/e90b94d20b38255fc90e6.jpg",
+        "https://telegra.ph/file/91cd7323f4944427b8c77.jpg",
+        "https://telegra.ph/file/6459e8c85e9fdaa263905.jpg",
+        "https://telegra.ph/file/dba76030ec5e03aa4c282.jpg",
+        "https://telegra.ph/file/6f5ebbea1009dbaf42ba6.jpg",
+        "https://telegra.ph/file/632cdb9dd896c8b73e2dd.jpg",
+        "https://telegra.ph/file/3ffe5981b233dd654b74d.jpg",
+        "https://telegra.ph/file/f0878ce1dd5787be46f22.jpg",
+        "https://telegra.ph/file/99f9f8c2b20be86a512ea.jpg",
+        "https://telegra.ph/file/b432d8d651d53d4849307.jpg",
+        "https://telegra.ph/file/281d58207206cd21cc676.jpg",
+        "https://telegra.ph/file/25b80ab91e59dcbcc898a.jpg"
+    ]
+};

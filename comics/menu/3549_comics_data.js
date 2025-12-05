@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3549,
+    "title": "[senファンクラブ (sen)] 恵まれないペ〇ス救済に尽力する敬虔な”ぴっちり”シスター。その 6",
+    "sourceUrl": "https://telegra.ph/senファンクラブ-sen-恵まれないペス救済に尽力する敬虔なぴっちりシスターその-6-08-31",
+    "images": [
+        "https://telegra.ph/file/8b17b500b712ecf946832.jpg",
+        "https://telegra.ph/file/8097d5398ad1212db1b22.jpg",
+        "https://telegra.ph/file/94f3586a889d5066da253.jpg",
+        "https://telegra.ph/file/5f584195c7c74aacc9ff9.jpg",
+        "https://telegra.ph/file/a3d7135f04c4f86515af8.jpg",
+        "https://telegra.ph/file/d90d65806f96e7dee065f.jpg",
+        "https://telegra.ph/file/c1196d885225ad0a30b81.jpg",
+        "https://telegra.ph/file/8f4e48f95734f2c738847.jpg",
+        "https://telegra.ph/file/4b183028f7b65832599a7.jpg",
+        "https://telegra.ph/file/978f6f2ac3d5b576173d0.jpg",
+        "https://telegra.ph/file/9fe8041c8753fc35a6220.jpg",
+        "https://telegra.ph/file/7a3ef99f9cbd98f2b559a.jpg",
+        "https://telegra.ph/file/d951828006c9dec7a2411.jpg",
+        "https://telegra.ph/file/671ae9e994133d0c93896.jpg",
+        "https://telegra.ph/file/b706560d091b8bac1e820.jpg",
+        "https://telegra.ph/file/753e505c0aedf0f0325bb.jpg",
+        "https://telegra.ph/file/d0ea64f7e15a6310c0e19.jpg",
+        "https://telegra.ph/file/77b48069cebe78667c0c9.jpg",
+        "https://telegra.ph/file/c3dc31ab4213e85548410.jpg",
+        "https://telegra.ph/file/d41aab73994ce7e1b07d5.jpg",
+        "https://telegra.ph/file/795a866bb7fffd18ef5ca.jpg",
+        "https://telegra.ph/file/9a95a2a46e0c628487135.jpg",
+        "https://telegra.ph/file/7e38ab412b88835e6e406.jpg"
+    ]
+};

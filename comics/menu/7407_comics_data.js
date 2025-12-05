@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7407,
+    "title": "こすとらっぷ",
+    "sourceUrl": "https://telegra.ph/こすとらっぷ-08-31",
+    "images": [
+        "https://telegra.ph/file/1cfe154fd9c504c17f431.jpg",
+        "https://telegra.ph/file/ba56a8da9f258f4f14042.jpg",
+        "https://telegra.ph/file/b0d2dbdb9ad240175883d.jpg",
+        "https://telegra.ph/file/d56079fe7ef63eea1612f.jpg",
+        "https://telegra.ph/file/000eba19224d939fa1ccc.jpg",
+        "https://telegra.ph/file/28834881ea628a93813dd.jpg",
+        "https://telegra.ph/file/63374ec5469ba8147fa59.jpg",
+        "https://telegra.ph/file/d0be74432dfb6ec307f0d.jpg",
+        "https://telegra.ph/file/878279fd4adfe3f3af184.jpg",
+        "https://telegra.ph/file/df9772636a06a72eaa9ce.jpg",
+        "https://telegra.ph/file/2263e946c28075a1e7ade.jpg",
+        "https://telegra.ph/file/87d820403c48f8e905aa0.jpg",
+        "https://telegra.ph/file/f91ab5edfdcb98480c244.jpg",
+        "https://telegra.ph/file/a937cd5384110e997d005.jpg",
+        "https://telegra.ph/file/07140781599fdc04c2524.jpg",
+        "https://telegra.ph/file/755c3ff0111930323fb33.jpg",
+        "https://telegra.ph/file/f64872ccd514a7bb5d379.jpg",
+        "https://telegra.ph/file/d661a98ff99ebb777b7be.jpg",
+        "https://telegra.ph/file/7290167c01badbc94fe26.jpg",
+        "https://telegra.ph/file/268407adddfdb9aae5e77.jpg",
+        "https://telegra.ph/file/e6c29e41c31de3782ff2c.jpg",
+        "https://telegra.ph/file/5ec8311d758818aac8874.jpg",
+        "https://telegra.ph/file/65ec039ebef832d634076.jpg",
+        "https://telegra.ph/file/82b6cf8a7095f0abbb02c.jpg"
+    ]
+};

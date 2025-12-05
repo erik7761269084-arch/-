@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6930,
+    "title": "[中村葛湯] LOOP",
+    "sourceUrl": "https://telegra.ph/中村葛湯-LOOP-08-31",
+    "images": [
+        "https://telegra.ph/file/93f1961d16daaf687cacc.jpg",
+        "https://telegra.ph/file/5552dbe8f42f0214a680a.jpg",
+        "https://telegra.ph/file/c2726312752721e4c2601.jpg",
+        "https://telegra.ph/file/1d9fc683b0c0957ed6f7e.jpg",
+        "https://telegra.ph/file/4086cb569ac64e537d7df.jpg",
+        "https://telegra.ph/file/560b347746e1ccf8a279d.jpg",
+        "https://telegra.ph/file/7fb2e766372727725cb88.jpg",
+        "https://telegra.ph/file/09b203196eae358c3f5d8.jpg",
+        "https://telegra.ph/file/3b51c5ff742321c414612.jpg",
+        "https://telegra.ph/file/0dcf53f0f48f2acb2523e.jpg",
+        "https://telegra.ph/file/174780ae1b1d4c1478539.jpg",
+        "https://telegra.ph/file/6af561d3db8e5223fc351.jpg",
+        "https://telegra.ph/file/4f8a45279f7d80cb7b1f0.jpg",
+        "https://telegra.ph/file/b4161624f0a7133b5848a.jpg",
+        "https://telegra.ph/file/118a5a99e9081a4cc3906.jpg",
+        "https://telegra.ph/file/41275b6b7496a14d9b370.jpg",
+        "https://telegra.ph/file/ab99c26bdd1be7d68b705.jpg",
+        "https://telegra.ph/file/3d320b820b3dda3bf31b3.jpg",
+        "https://telegra.ph/file/f4e5217cadcc4bb59c8df.jpg",
+        "https://telegra.ph/file/a552016086b0ea214e719.jpg",
+        "https://telegra.ph/file/b50222573b6f5e343837f.jpg",
+        "https://telegra.ph/file/e59a927ec26be0301b512.jpg",
+        "https://telegra.ph/file/8b6aa52937f4666867870.jpg",
+        "https://telegra.ph/file/e1dc7e853278f6c643b25.jpg",
+        "https://telegra.ph/file/328b297a4189190fb82b5.jpg",
+        "https://telegra.ph/file/0c24c9517d5c7ba3a43fe.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1169,
+    "title": "(C99) [いとのうり (hemachi)] 堕ちゆく薔薇のデビュタント (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/C99-いとのうり-hemachi-堕ちゆく薔薇のデビュタント-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/7d6de6145fe3798b46cc4.jpg",
+        "https://telegra.ph/file/e127a6df986620e403174.jpg",
+        "https://telegra.ph/file/2dd23efaf3efa72400b0c.jpg",
+        "https://telegra.ph/file/fa598aa8d611991e399b8.jpg",
+        "https://telegra.ph/file/33d9839719b7a7ae4bb30.jpg",
+        "https://telegra.ph/file/a7a6456472fc473e7e761.jpg",
+        "https://telegra.ph/file/3951bf27516266adfd23a.jpg",
+        "https://telegra.ph/file/8c617c6f4d5f71528f5bd.jpg",
+        "https://telegra.ph/file/97e54a88e7eb62246225b.jpg",
+        "https://telegra.ph/file/81e786bc38e0128a969fc.jpg",
+        "https://telegra.ph/file/3c64c2886aceb712b8c8a.jpg",
+        "https://telegra.ph/file/d3ee97455fce7efce52f6.jpg",
+        "https://telegra.ph/file/80c1475bbbfa2857621ac.jpg",
+        "https://telegra.ph/file/9cc829aaf5e1531ba9fd5.jpg",
+        "https://telegra.ph/file/659be6e8e5c48a6d4fb99.jpg",
+        "https://telegra.ph/file/37d6ff8f1fa385d1ad4be.jpg",
+        "https://telegra.ph/file/78757b6413011800c93bf.jpg",
+        "https://telegra.ph/file/0512042e45db4d4599533.jpg",
+        "https://telegra.ph/file/83244c164eaef71cf3337.jpg",
+        "https://telegra.ph/file/775d42514dfc9c43d590c.jpg",
+        "https://telegra.ph/file/46ba26afe11b31801f7a6.jpg",
+        "https://telegra.ph/file/646a45f4c1e1a6b01ed1f.jpg",
+        "https://telegra.ph/file/7bb1bbfec5f22cd92286d.jpg"
+    ]
+};

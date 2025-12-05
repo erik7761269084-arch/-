@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7694,
+    "title": "おしかけ妖狐さま",
+    "sourceUrl": "https://telegra.ph/おしかけ妖狐さま-08-31-2",
+    "images": [
+        "https://telegra.ph/file/d984a347b5397941d34cc.jpg",
+        "https://telegra.ph/file/4b051e9591eaa2d3a2ec2.jpg",
+        "https://telegra.ph/file/f7a813d8864a31af42b08.jpg",
+        "https://telegra.ph/file/80d2c0ad121e4c111bf61.jpg",
+        "https://telegra.ph/file/04ec0ccd662ef3a5488c6.jpg",
+        "https://telegra.ph/file/fb9f37da389750c881417.jpg",
+        "https://telegra.ph/file/d371b9e4f5fe0b9d94ab3.jpg",
+        "https://telegra.ph/file/2340d6f51cbb92e756505.jpg",
+        "https://telegra.ph/file/de19946517d79f9b060bf.jpg",
+        "https://telegra.ph/file/9d01b4b728607451e2326.jpg",
+        "https://telegra.ph/file/24437be7a43b865a69e9b.jpg",
+        "https://telegra.ph/file/ec9c50887dc1afb211504.jpg",
+        "https://telegra.ph/file/3e0c44685e0dee43deaed.jpg",
+        "https://telegra.ph/file/0ba27a05c2b7ea4b26f37.jpg",
+        "https://telegra.ph/file/929c78a25648a303c6134.jpg",
+        "https://telegra.ph/file/f5ff616703f5e723ad14b.jpg",
+        "https://telegra.ph/file/feafe7e91901587b5a847.jpg",
+        "https://telegra.ph/file/153943be1c89bb429b200.jpg",
+        "https://telegra.ph/file/d4af5571cc41e6b07cf33.jpg",
+        "https://telegra.ph/file/a15a6a0abbc9ee4b95a6a.jpg",
+        "https://telegra.ph/file/b31b8c0e71dabdfb09a0e.jpg",
+        "https://telegra.ph/file/adc4358b0da1c4609139b.jpg",
+        "https://telegra.ph/file/5330e8ad3de2953462b87.jpg",
+        "https://telegra.ph/file/87b551479dd66a389252a.jpg"
+    ]
+};

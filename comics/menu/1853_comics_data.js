@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1853,
+    "title": "[せぶんがー] 粗チンから女の子を救う会 (コミックホットミルク 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/せぶんがー-粗チンから女の子を救う会-コミックホットミルク-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1ec59a4b7f01ea0e10222.jpg",
+        "https://telegra.ph/file/f470373d0a00ddbd9adc3.jpg",
+        "https://telegra.ph/file/8190fafc17edd25845fca.jpg",
+        "https://telegra.ph/file/2b3592480e1103ee60e4a.jpg",
+        "https://telegra.ph/file/0910c909e12f1f8aa1ab7.jpg",
+        "https://telegra.ph/file/12b7f07e09842de345faf.jpg",
+        "https://telegra.ph/file/7af134a28318a143f2be8.jpg",
+        "https://telegra.ph/file/e1cd6c0cae68f0961aaff.jpg",
+        "https://telegra.ph/file/25a37ed95ba97d12265b8.jpg",
+        "https://telegra.ph/file/6623adf01bf2e9ac458f8.jpg",
+        "https://telegra.ph/file/7b5dade654d3f739fc0a0.jpg",
+        "https://telegra.ph/file/1c2f339e7cc4b94dd4cf5.jpg",
+        "https://telegra.ph/file/6fe89157d33edf8692545.jpg",
+        "https://telegra.ph/file/361356785cde34b4dabf7.jpg",
+        "https://telegra.ph/file/8112384769d59eea3e763.jpg",
+        "https://telegra.ph/file/fefb3a9ad3c47ddedc58e.jpg",
+        "https://telegra.ph/file/a951dab8b5ea3318a5405.jpg",
+        "https://telegra.ph/file/6e55730e7acc45ff7a750.jpg",
+        "https://telegra.ph/file/dff828ceb2a7beb1d0418.jpg",
+        "https://telegra.ph/file/e16492ea7f495c40753b7.jpg",
+        "https://telegra.ph/file/42689d10a00205db7c030.jpg",
+        "https://telegra.ph/file/b6c9e4e478765f62227e2.jpg",
+        "https://telegra.ph/file/a61850b14c18419b647f5.jpg",
+        "https://telegra.ph/file/3bc3c663268fec8dfe1c2.jpg",
+        "https://telegra.ph/file/6b546f9bde4cbc7573478.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 582,
+    "title": "[サゲジョー (sage・ジョー)] 入部したらオレ以外全員エロROMレイヤーだった",
+    "sourceUrl": "https://telegra.ph/サゲジョー-sageジョー-入部したらオレ以外全員エロROMレイヤーだった-08-31",
+    "images": [
+        "https://telegra.ph/file/72f7f4e5ef34655e81a03.jpg",
+        "https://telegra.ph/file/dd5c8ccde96d9cf285091.jpg",
+        "https://telegra.ph/file/0496f442959430bb48f3e.jpg",
+        "https://telegra.ph/file/cc56b5593f1d4a79a814e.jpg",
+        "https://telegra.ph/file/442b814c78108453b5c3e.jpg",
+        "https://telegra.ph/file/478c3a8709db58bd534e6.jpg",
+        "https://telegra.ph/file/4152bd4683a5460682d95.jpg",
+        "https://telegra.ph/file/eb50961ff4afd4c7c03d8.jpg",
+        "https://telegra.ph/file/1684877e0b4175afdc80e.jpg",
+        "https://telegra.ph/file/001b132be6763bb23a24a.jpg",
+        "https://telegra.ph/file/48f6ffb0549324c5f0885.jpg",
+        "https://telegra.ph/file/42b7bf085f8efffcaf0c9.jpg",
+        "https://telegra.ph/file/fd757dda441eba30dab40.jpg",
+        "https://telegra.ph/file/ff8bc8a32046c96d13042.jpg",
+        "https://telegra.ph/file/3b5ebfbaf8109caf67d7c.jpg",
+        "https://telegra.ph/file/382674527d0691ee66670.jpg",
+        "https://telegra.ph/file/a747c03d58fd59525d97e.jpg",
+        "https://telegra.ph/file/d74547ebd169cd180778a.jpg",
+        "https://telegra.ph/file/b424152c4ef997e8a0dfc.jpg",
+        "https://telegra.ph/file/4cefd92cf3205e85a048d.jpg",
+        "https://telegra.ph/file/87506f3cf6dd64544899d.jpg",
+        "https://telegra.ph/file/98f6b7c4c130b4ff964ba.jpg",
+        "https://telegra.ph/file/0d39653c0e3df15f57adf.jpg",
+        "https://telegra.ph/file/317dc3c499c19b5a0ca03.jpg",
+        "https://telegra.ph/file/ea8efb73a71ff8730f658.jpg",
+        "https://telegra.ph/file/b1bd57bf815142dfe4cbc.jpg"
+    ]
+};

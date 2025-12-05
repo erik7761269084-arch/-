@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5919,
+    "title": "[アガタ] 公衆浴情 姉の湯",
+    "sourceUrl": "https://telegra.ph/アガタ-公衆浴情-姉の湯-08-31",
+    "images": [
+        "https://telegra.ph/file/b6219a0aa37377c737a28.jpg",
+        "https://telegra.ph/file/948f5891daac0b48177d5.jpg",
+        "https://telegra.ph/file/3cbfa5d9f7fc6697f4ab0.jpg",
+        "https://telegra.ph/file/93f0202d32890b18514d5.jpg",
+        "https://telegra.ph/file/165375e3f3431e0b46ab4.jpg",
+        "https://telegra.ph/file/be4ab8ffa67174adbbdf4.jpg",
+        "https://telegra.ph/file/da1632a2a1cb0a3a1a8a8.jpg",
+        "https://telegra.ph/file/9f10fcdd12ecba5e46cfb.jpg",
+        "https://telegra.ph/file/33f0173026d887efd53cb.jpg",
+        "https://telegra.ph/file/c3326fa71fcdf360ae701.jpg",
+        "https://telegra.ph/file/fb5f17dd7befc058e39f6.jpg",
+        "https://telegra.ph/file/273f2932a8ad5e0ebdb71.jpg",
+        "https://telegra.ph/file/48786f2c8476bf43504fe.jpg",
+        "https://telegra.ph/file/b5a23282e4cfe136d0488.jpg",
+        "https://telegra.ph/file/addbec771015cea7d43b6.jpg",
+        "https://telegra.ph/file/7f35c0708036624a840fb.jpg",
+        "https://telegra.ph/file/6df62e6b514f5e0395a5c.jpg",
+        "https://telegra.ph/file/8baf7a4f3196adeffd5e0.jpg",
+        "https://telegra.ph/file/c92a62beb395a7db9fe3a.jpg",
+        "https://telegra.ph/file/07ea50d598b58e2cbbdd4.jpg",
+        "https://telegra.ph/file/0e3a3950777ce5cf2a1dd.jpg",
+        "https://telegra.ph/file/fc1b06fd1c21a1d5c8cf5.jpg",
+        "https://telegra.ph/file/d03c8baf997cd66bce5b7.jpg",
+        "https://telegra.ph/file/6f51e71e45a241189e971.jpg",
+        "https://telegra.ph/file/3b3dcf218c712606d0b02.jpg",
+        "https://telegra.ph/file/fd9a5a96a556b2281e208.jpg"
+    ]
+};

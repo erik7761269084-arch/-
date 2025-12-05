@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 756,
+    "title": "(C90) [witch's marionette (井藤ななみ)] MILK×MILK",
+    "sourceUrl": "https://telegra.ph/C90-witchs-marionette-井藤ななみ-MILKMILK-08-31",
+    "images": [
+        "https://telegra.ph/file/15f69acf4c1944f8fdb1d.jpg",
+        "https://telegra.ph/file/0e41f55a28f56e2d714d8.jpg",
+        "https://telegra.ph/file/8877892446646dbab2b75.jpg",
+        "https://telegra.ph/file/7e8a17996fe58e5ef5e39.jpg",
+        "https://telegra.ph/file/ac80b32495a573638a346.jpg",
+        "https://telegra.ph/file/5a25fae3bad65f47e7e09.jpg",
+        "https://telegra.ph/file/39096b4c262d90d807bb7.jpg",
+        "https://telegra.ph/file/b89bc627c720042eaec4e.jpg",
+        "https://telegra.ph/file/06a2225ad2526e6300cba.jpg",
+        "https://telegra.ph/file/973ae66ce6da181ed3d42.jpg",
+        "https://telegra.ph/file/264e223d0d6d5c228c6d3.jpg",
+        "https://telegra.ph/file/381e4439604d9ce8e1d9c.jpg",
+        "https://telegra.ph/file/f1778cba4353db998d3fd.jpg",
+        "https://telegra.ph/file/8646f6d2f3f0c8b44f983.jpg",
+        "https://telegra.ph/file/a71d7405b1941ae581901.jpg",
+        "https://telegra.ph/file/f3af4eec44e6326ee6d79.jpg",
+        "https://telegra.ph/file/5fc661cdff607b7dc9d0e.jpg",
+        "https://telegra.ph/file/9223873d8082b0028b9fa.jpg",
+        "https://telegra.ph/file/95d9e13b116fb6ba29b11.jpg",
+        "https://telegra.ph/file/50214060d94ae8c87faee.jpg",
+        "https://telegra.ph/file/6a84215ef6212466c892a.jpg",
+        "https://telegra.ph/file/32b6d2f9c70d5e662784a.jpg",
+        "https://telegra.ph/file/77305d7f8d81996395e52.jpg",
+        "https://telegra.ph/file/a9c52921c366345c41198.jpg",
+        "https://telegra.ph/file/2ccc55a266d5eeec741c4.jpg",
+        "https://telegra.ph/file/d3147936eef5460186ee0.jpg"
+    ]
+};

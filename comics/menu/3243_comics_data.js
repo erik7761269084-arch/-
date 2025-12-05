@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3243,
+    "title": "[鉢本] ズッ友 (COMIC BAVEL 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/鉢本-ズッ友-COMIC-BAVEL-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f8dc333485addaacdd4da.jpg",
+        "https://telegra.ph/file/7691ec1bf0b446b31ef43.jpg",
+        "https://telegra.ph/file/90ee000e8ab2921f4f9cd.jpg",
+        "https://telegra.ph/file/a3bb830c205233f78f5e9.jpg",
+        "https://telegra.ph/file/695e356df1475a636e0a1.jpg",
+        "https://telegra.ph/file/6f54453f5c5cf49588e05.jpg",
+        "https://telegra.ph/file/f22a4dd98b36edc1216f5.jpg",
+        "https://telegra.ph/file/6df45b992767c3fbdd839.jpg",
+        "https://telegra.ph/file/83b68d8db10ba22a483a3.jpg",
+        "https://telegra.ph/file/48779dd5431aec18cbe14.jpg",
+        "https://telegra.ph/file/3d2b4a34d0c008e6a9e91.jpg",
+        "https://telegra.ph/file/1968b5e246aaf02cb606e.jpg",
+        "https://telegra.ph/file/7d4acd8e81cd110e85032.jpg",
+        "https://telegra.ph/file/3af66c63654d6fc9b8f2a.jpg",
+        "https://telegra.ph/file/38f26d25bdc9b5822720d.jpg",
+        "https://telegra.ph/file/39a89b786a4ea0a545a9f.jpg",
+        "https://telegra.ph/file/8eb6b884916f7c3dbd0e5.jpg",
+        "https://telegra.ph/file/e8ac8010a0d337b94ff19.jpg",
+        "https://telegra.ph/file/96751ef9a0f37d6fd4191.jpg",
+        "https://telegra.ph/file/2c054ad8ea4c994fc4f3f.jpg",
+        "https://telegra.ph/file/f3cc28accc49eca3a1e37.jpg",
+        "https://telegra.ph/file/d0d592f45938958e92f9c.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

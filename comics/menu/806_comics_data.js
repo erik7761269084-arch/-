@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 806,
+    "title": "(C89) [チデヂ (オヤヂ)] 落魄せしもの (うたわれるもの 偽りの仮面)",
+    "sourceUrl": "https://telegra.ph/C89-チデヂ-オヤヂ-落魄せしもの-うたわれるもの-偽りの仮面-08-31",
+    "images": [
+        "https://telegra.ph/file/7673d982cc908918ddaec.jpg",
+        "https://telegra.ph/file/b254344f3c81ccc5f21ed.jpg",
+        "https://telegra.ph/file/9c8c7c33d69c0fed1276e.jpg",
+        "https://telegra.ph/file/08052dbb06e291f51d053.jpg",
+        "https://telegra.ph/file/a121f13e23525bab3a5b0.jpg",
+        "https://telegra.ph/file/dd6fa458e6057f83eb17b.jpg",
+        "https://telegra.ph/file/fcbfd9ce6b0e3bf619fc1.jpg",
+        "https://telegra.ph/file/046147a9d644438c513c6.jpg",
+        "https://telegra.ph/file/766a0422d5462af75795e.jpg",
+        "https://telegra.ph/file/fda31f0321ec2bdda2c64.jpg",
+        "https://telegra.ph/file/65d198872eb0d1f4fa71f.jpg",
+        "https://telegra.ph/file/a20b688b1cc75f7a4ecda.jpg",
+        "https://telegra.ph/file/6b25683653fcfb021f289.jpg",
+        "https://telegra.ph/file/0742e2edb43bd50bf91cc.jpg",
+        "https://telegra.ph/file/d9a1f28d9142e951023fe.jpg",
+        "https://telegra.ph/file/7caa788aa670259821da4.jpg",
+        "https://telegra.ph/file/0a441a79870036b6a8915.jpg",
+        "https://telegra.ph/file/0293ca3697248d7a0cd3a.jpg",
+        "https://telegra.ph/file/a0242b9b1336ed535e36f.jpg",
+        "https://telegra.ph/file/d086c34becd89a0da2251.jpg",
+        "https://telegra.ph/file/4ed804819541b02d38222.jpg",
+        "https://telegra.ph/file/a1f262075535f78301f2e.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg",
+        "https://telegra.ph/file/76e59bdcedd15f760cac5.jpg"
+    ]
+};

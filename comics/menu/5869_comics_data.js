@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5869,
+    "title": "[かかし朝浩] 博士の異常な欲情",
+    "sourceUrl": "https://telegra.ph/かかし朝浩-博士の異常な欲情-08-31",
+    "images": [
+        "https://telegra.ph/file/7cdf433981f3994085e3d.jpg",
+        "https://telegra.ph/file/afeb298b8f3e709c5972b.jpg",
+        "https://telegra.ph/file/895758922061b3e2fde0d.jpg",
+        "https://telegra.ph/file/c324e892f20305e71de64.jpg",
+        "https://telegra.ph/file/8e46d8c02b0d3bc148faf.jpg",
+        "https://telegra.ph/file/02444622bb7b7bc50aae2.jpg",
+        "https://telegra.ph/file/c401cf5577c9651f99d8c.jpg",
+        "https://telegra.ph/file/cdbbd5bcfeed995a1c206.jpg",
+        "https://telegra.ph/file/122e6aa2c6df26128f71d.jpg",
+        "https://telegra.ph/file/ee6563c475ad2cd62762e.jpg",
+        "https://telegra.ph/file/29b4591a158efc2810bb5.jpg",
+        "https://telegra.ph/file/7b77de35f990d32830814.jpg",
+        "https://telegra.ph/file/9893f2ba5837c3660b64e.jpg",
+        "https://telegra.ph/file/072323185adb4f8d4f8dd.jpg",
+        "https://telegra.ph/file/96f6d60b77f10aefbac7c.jpg",
+        "https://telegra.ph/file/6a56a87243f0748704e06.jpg",
+        "https://telegra.ph/file/9f9d7bf23dd77bface285.jpg",
+        "https://telegra.ph/file/7561698a29f4b4e284085.jpg",
+        "https://telegra.ph/file/7facc20d80755e3528309.jpg",
+        "https://telegra.ph/file/5d94ad62176b3c49f55e3.jpg",
+        "https://telegra.ph/file/240a7a57a25c9f2feded1.jpg",
+        "https://telegra.ph/file/7dc7aa18c5fb6510a4e76.jpg",
+        "https://telegra.ph/file/a43968b1c0e1e3c0c0bc2.jpg",
+        "https://telegra.ph/file/e1b8282cdaec6b8211bfe.jpg"
+    ]
+};

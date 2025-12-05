@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6927,
+    "title": "セックスコミュニケーション",
+    "sourceUrl": "https://telegra.ph/セックスコミュニケーション-08-31",
+    "images": [
+        "https://telegra.ph/file/c1ca5756f4be0dcab5d80.jpg",
+        "https://telegra.ph/file/a0e24755ff01103695d8b.jpg",
+        "https://telegra.ph/file/07e6f97b0370ac3b4c376.jpg",
+        "https://telegra.ph/file/7457fc088a2f41f2e0e69.jpg",
+        "https://telegra.ph/file/0861c5c70d782c1e5ce64.jpg",
+        "https://telegra.ph/file/28a2b91656acf3147beb5.jpg",
+        "https://telegra.ph/file/1068f8e25afb82d1308de.jpg",
+        "https://telegra.ph/file/a67bc5512319d7eebc777.jpg",
+        "https://telegra.ph/file/d39fd0454c93c14847a3a.jpg",
+        "https://telegra.ph/file/d1c5f05da99133313da2e.jpg",
+        "https://telegra.ph/file/57bcdc22f939f57bf5bfe.jpg",
+        "https://telegra.ph/file/1680b6ac653963e768fb6.jpg",
+        "https://telegra.ph/file/f9f9a486f072ae8065e1b.jpg",
+        "https://telegra.ph/file/d797e834e4b8e0182c2a5.jpg",
+        "https://telegra.ph/file/aff9637a1d6d91cd51ee0.jpg",
+        "https://telegra.ph/file/408e1054bb4a66ce4fa75.jpg",
+        "https://telegra.ph/file/989092385b0c38c826218.jpg",
+        "https://telegra.ph/file/43a7f5c4b4961021b9b94.jpg",
+        "https://telegra.ph/file/977326426dc0c074b10fe.jpg",
+        "https://telegra.ph/file/646abbf9416aa46213ef0.jpg",
+        "https://telegra.ph/file/fb6ee569fc640ba91e353.jpg",
+        "https://telegra.ph/file/7ea39fc78643d120821e8.jpg",
+        "https://telegra.ph/file/745bd0ec0fe81bd4ba9b3.jpg",
+        "https://telegra.ph/file/10c545144c921bf44297f.jpg"
+    ]
+};

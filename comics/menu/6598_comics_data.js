@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6598,
+    "title": "銀河系赤○祭 (宇宙戦艦ヤマト2199)",
+    "sourceUrl": "https://telegra.ph/銀河系赤祭-宇宙戦艦ヤマト2199-08-31",
+    "images": [
+        "https://telegra.ph/file/b660fb52f3a9db7dd67d0.jpg",
+        "https://telegra.ph/file/8da88f359973d120c37b5.jpg",
+        "https://telegra.ph/file/5094866bb438fefdc7562.jpg",
+        "https://telegra.ph/file/89f7a45757184f450c2fb.jpg",
+        "https://telegra.ph/file/b57cd70afdb131807c5f4.jpg",
+        "https://telegra.ph/file/e9d29c62be411b80a6da9.jpg",
+        "https://telegra.ph/file/21ba678d7342cf683eecd.jpg",
+        "https://telegra.ph/file/af192ada965b9ec3166e9.jpg",
+        "https://telegra.ph/file/a24dee86906b5015486f4.jpg",
+        "https://telegra.ph/file/0ed5e8387fd226f702c63.jpg",
+        "https://telegra.ph/file/7bc60180a74276c844a13.jpg",
+        "https://telegra.ph/file/54cb59eaf870ce53ca73c.jpg",
+        "https://telegra.ph/file/303d4bee38aa9cd6fce59.jpg",
+        "https://telegra.ph/file/4f9fc1ce0557359645132.jpg",
+        "https://telegra.ph/file/fb2cca9edc295f3780c2f.jpg",
+        "https://telegra.ph/file/83a0ed2efa1228c5678ce.jpg",
+        "https://telegra.ph/file/5f74607113bd712f50f31.jpg",
+        "https://telegra.ph/file/6979cf0eef3eee2692885.jpg",
+        "https://telegra.ph/file/87c63779747a52ae269e5.jpg",
+        "https://telegra.ph/file/5ef5262c0b4bd188c4a58.jpg",
+        "https://telegra.ph/file/5758f4a278aa30d719228.jpg",
+        "https://telegra.ph/file/3ad66860f9e826e57431c.jpg",
+        "https://telegra.ph/file/ef7285c7b2fbe91890fc3.jpg",
+        "https://telegra.ph/file/245eab210d246b0efacce.jpg",
+        "https://telegra.ph/file/98f6eba27edbd89dd11cc.jpg",
+        "https://telegra.ph/file/3834beeefd8cd73736470.jpg"
+    ]
+};

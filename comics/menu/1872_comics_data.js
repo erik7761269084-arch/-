@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1872,
+    "title": "[シャモナベ] two tails (COMIC 快楽天 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/シャモナベ-two-tails-COMIC-快楽天-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d800c9bbcecaa78a81888.jpg",
+        "https://telegra.ph/file/b3b09509e171bb978fc34.jpg",
+        "https://telegra.ph/file/3be42a25e19cc8dc5975e.jpg",
+        "https://telegra.ph/file/3edd4c0ef87e6dcfba60c.jpg",
+        "https://telegra.ph/file/138e7885e6386adf71e27.jpg",
+        "https://telegra.ph/file/4992f968be416cdd384b7.jpg",
+        "https://telegra.ph/file/3ad0fca65ddeba38a88b4.jpg",
+        "https://telegra.ph/file/c0e27ce13a72e68c3fd9b.jpg",
+        "https://telegra.ph/file/e9e738ed673de8a6c041e.jpg",
+        "https://telegra.ph/file/2e7372fab76158a8ccb6e.jpg",
+        "https://telegra.ph/file/15d6c5e72fe8a182854b3.jpg",
+        "https://telegra.ph/file/9ce126423ffad75f53fca.jpg",
+        "https://telegra.ph/file/e7b944a19245421ac8d04.jpg",
+        "https://telegra.ph/file/10c44a693e8bf3ac9c5bb.jpg",
+        "https://telegra.ph/file/91966166027ff71b96ea6.jpg",
+        "https://telegra.ph/file/024f4edf9d14bfc914200.jpg",
+        "https://telegra.ph/file/c05dd2408c6936738a710.jpg",
+        "https://telegra.ph/file/e406b2110a96375072965.jpg",
+        "https://telegra.ph/file/f361d132e740ed9268fb8.jpg",
+        "https://telegra.ph/file/3b463514828aa67802521.jpg",
+        "https://telegra.ph/file/4da57ef8c190204de65b9.jpg",
+        "https://telegra.ph/file/65b8df554d253f0695fb7.jpg",
+        "https://telegra.ph/file/c8d9ee9ac32315b063a0b.jpg",
+        "https://telegra.ph/file/7b7d2607d5e99f176abc1.jpg",
+        "https://telegra.ph/file/719b5cba1f5aeacc164e0.jpg"
+    ]
+};

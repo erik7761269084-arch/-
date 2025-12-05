@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1162,
+    "title": "[えーすけ] あうとろ♡ (COMIC 快楽天 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/えーすけ-あうとろ-COMIC-快楽天-2022年5月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/d21f81d83b94fa3edcbca.jpg",
+        "https://telegra.ph/file/bf9049ef3ab0141cbd148.jpg",
+        "https://telegra.ph/file/e0d2e80cf0bd23db8c244.jpg",
+        "https://telegra.ph/file/1992c34cf7cb558c00c93.jpg",
+        "https://telegra.ph/file/062c3e4f1c5d2a8ce5b4c.jpg",
+        "https://telegra.ph/file/d209f383080f97248053d.jpg",
+        "https://telegra.ph/file/7f5ceded82c36517f8b29.jpg",
+        "https://telegra.ph/file/986af139617c5559f07bf.jpg",
+        "https://telegra.ph/file/445347b45c6855321a1e4.jpg",
+        "https://telegra.ph/file/a4b9686ac2ec9e1a38fba.jpg",
+        "https://telegra.ph/file/37b036eb178aa584244b0.jpg",
+        "https://telegra.ph/file/0d5c22e05c7481cac0794.jpg",
+        "https://telegra.ph/file/07fb436d0c41919fae3a8.jpg",
+        "https://telegra.ph/file/383a4880d803941eb62e7.jpg",
+        "https://telegra.ph/file/bbc6e84168fdb38bcaabc.jpg",
+        "https://telegra.ph/file/f3bf492f6d92208b0ca75.jpg",
+        "https://telegra.ph/file/1b335f92159e8bb9a4300.jpg",
+        "https://telegra.ph/file/62d838c3fb15aac1df77a.jpg",
+        "https://telegra.ph/file/f25738d4815d34bbbc2b2.jpg",
+        "https://telegra.ph/file/5f4e8a990873531125693.jpg",
+        "https://telegra.ph/file/5e4e6f71e5832f4231931.jpg",
+        "https://telegra.ph/file/80aa2b24d4afd1237f2fd.jpg",
+        "https://telegra.ph/file/eef7b20b0987221f94e01.jpg",
+        "https://telegra.ph/file/581e720f278be3aeaae4b.jpg",
+        "https://telegra.ph/file/d14963d03a85261844f05.jpg",
+        "https://telegra.ph/file/22fcd3b9e9d997f86c336.jpg"
+    ]
+};

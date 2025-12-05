@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5402,
+    "title": "[tsuniverse (ゆにば)] 夏の憑依",
+    "sourceUrl": "https://telegra.ph/tsuniverse-ゆにば-夏の憑依-08-31",
+    "images": [
+        "https://telegra.ph/file/b08d3dc99083bda54a46c.jpg",
+        "https://telegra.ph/file/5d8bd32c81f43355dbb22.jpg",
+        "https://telegra.ph/file/271e6154539495d097750.jpg",
+        "https://telegra.ph/file/a53aa13f2e784f6ecdd79.jpg",
+        "https://telegra.ph/file/710e4ecf4f3ab163593e3.jpg",
+        "https://telegra.ph/file/fffa6ff1be904212be797.jpg",
+        "https://telegra.ph/file/42e5541a43645e0e07061.jpg",
+        "https://telegra.ph/file/d92459841e6342ae00c41.jpg",
+        "https://telegra.ph/file/7154f2cb73f935cd6a9fe.jpg",
+        "https://telegra.ph/file/f03d2cfd5c8849b546c35.jpg",
+        "https://telegra.ph/file/3d47fc39a5da5249f083d.jpg",
+        "https://telegra.ph/file/92d5dba76637644463c61.jpg",
+        "https://telegra.ph/file/caa036a8e233070528406.jpg",
+        "https://telegra.ph/file/231272aaa101b6daab7bc.jpg",
+        "https://telegra.ph/file/63f539821ae757833366e.jpg",
+        "https://telegra.ph/file/5752251dea68df87dc2d2.jpg",
+        "https://telegra.ph/file/f859af34526b7fdb24216.jpg",
+        "https://telegra.ph/file/fd2ebd2ea476467629a80.jpg",
+        "https://telegra.ph/file/6ead5bab5f817237a1ce3.jpg",
+        "https://telegra.ph/file/edcebd841f29efd3f1188.jpg",
+        "https://telegra.ph/file/b75e5e59c30f2ebe2c574.jpg",
+        "https://telegra.ph/file/7e39226d88e0b0eeccf1d.jpg",
+        "https://telegra.ph/file/3d30a013967b072a8b1d2.jpg",
+        "https://telegra.ph/file/893f26c0da6d12292a2c5.jpg"
+    ]
+};

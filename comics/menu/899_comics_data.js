@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 899,
+    "title": "[りとるほっぱー+Ziggurat (橋広こう)] あいかと叔父さん～寝ている間に花嫁修行～03",
+    "sourceUrl": "https://telegra.ph/りとるほっぱーZiggurat-橋広こう-あいかと叔父さん寝ている間に花嫁修行03-08-31",
+    "images": [
+        "https://telegra.ph/file/684a2319bb2b161b2cc05.jpg",
+        "https://telegra.ph/file/b942bacd98e128e9153ad.jpg",
+        "https://telegra.ph/file/d1abcde8860bfe71304e9.jpg",
+        "https://telegra.ph/file/3d5d10c5beee9344a733f.jpg",
+        "https://telegra.ph/file/4e3a48bd1ae6d9bd36982.jpg",
+        "https://telegra.ph/file/2999f8e24844a01a63147.jpg",
+        "https://telegra.ph/file/102c3227fb7121a3d17d9.jpg",
+        "https://telegra.ph/file/42cfc0851bde83aeb4e53.jpg",
+        "https://telegra.ph/file/0d3301dd1399771f87972.jpg",
+        "https://telegra.ph/file/7eb4a5b81a6f6fed93379.jpg",
+        "https://telegra.ph/file/ce59049b3a9d9662c734a.jpg",
+        "https://telegra.ph/file/c92dcc08fafc20e74ba69.jpg",
+        "https://telegra.ph/file/6da9589b23773720bac55.jpg",
+        "https://telegra.ph/file/c1e5c4b66dd137c819a15.jpg",
+        "https://telegra.ph/file/463f100f327b495d1e21e.jpg",
+        "https://telegra.ph/file/2cec0cd918efa39ad7668.jpg",
+        "https://telegra.ph/file/a34de9a045dad32e00e6f.jpg",
+        "https://telegra.ph/file/2056e0601b41df64df674.jpg",
+        "https://telegra.ph/file/d4425536217be56034135.jpg",
+        "https://telegra.ph/file/2899ae9894f616780704b.jpg",
+        "https://telegra.ph/file/bc14ced3ce6ba6ebbebad.jpg",
+        "https://telegra.ph/file/300f382bb7bec9f5601cd.jpg",
+        "https://telegra.ph/file/7b7f5c4c3518a1cba1d5f.jpg",
+        "https://telegra.ph/file/2b935b3d077a97b606a53.jpg",
+        "https://telegra.ph/file/faa2608f653888325b971.jpg"
+    ]
+};

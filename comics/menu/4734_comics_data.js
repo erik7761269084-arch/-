@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4734,
+    "title": "[菅野タカシ] 産卵! 出産! アクメファーム",
+    "sourceUrl": "https://telegra.ph/菅野タカシ-産卵-出産-アクメファーム-08-31",
+    "images": [
+        "https://telegra.ph/file/36e75c83e9cca0ea0743e.jpg",
+        "https://telegra.ph/file/729bfea9ea53abe7a340f.jpg",
+        "https://telegra.ph/file/e8fc4a0d8840647229b81.jpg",
+        "https://telegra.ph/file/20c406b8c7ee89159baa6.jpg",
+        "https://telegra.ph/file/1cb603e3f3140a9484830.jpg",
+        "https://telegra.ph/file/6e1c912ae5e3e092ac3aa.jpg",
+        "https://telegra.ph/file/ce418df29b5278875eb5d.jpg",
+        "https://telegra.ph/file/b4a5ccc8f41a212a32428.jpg",
+        "https://telegra.ph/file/164d04dd4913759f24132.jpg",
+        "https://telegra.ph/file/b74a0017223fdb172cbc9.jpg",
+        "https://telegra.ph/file/487e54c1e50056a493133.jpg",
+        "https://telegra.ph/file/8166d867541be6a639d35.jpg",
+        "https://telegra.ph/file/8e6a910bd947986e0ecce.jpg",
+        "https://telegra.ph/file/7b28e92fe22c83622ea13.jpg",
+        "https://telegra.ph/file/b5aed5f216798260c486e.jpg",
+        "https://telegra.ph/file/c1ab3ec6ccb125ad6359c.jpg",
+        "https://telegra.ph/file/1de45713729b1a316deb8.jpg",
+        "https://telegra.ph/file/17fd49df225c5f7404855.jpg",
+        "https://telegra.ph/file/dcd0e1ff20a5b64cba0d2.jpg",
+        "https://telegra.ph/file/b9e7f461f40c482adb3f4.jpg",
+        "https://telegra.ph/file/d7cb878f494d5d109228a.jpg",
+        "https://telegra.ph/file/615d6e69b45f7c198ffba.jpg",
+        "https://telegra.ph/file/2f819b6000e30c374b8c6.jpg"
+    ]
+};

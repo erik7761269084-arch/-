@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5661,
+    "title": "[くろふーど] 生徒会長イブキ！",
+    "sourceUrl": "https://telegra.ph/くろふーど-生徒会長イブキ-08-31",
+    "images": [
+        "https://telegra.ph/file/72b226a77fe75e337f7f4.jpg",
+        "https://telegra.ph/file/b1c2d0befe6fbd1e5492a.jpg",
+        "https://telegra.ph/file/d4e67b308fefc69338f46.jpg",
+        "https://telegra.ph/file/d467a2cb3c4836633e7a4.jpg",
+        "https://telegra.ph/file/f5f29fb20bfd59bfb1876.jpg",
+        "https://telegra.ph/file/ce15f3d3b7ca8a1d24951.jpg",
+        "https://telegra.ph/file/d34acacb0cd4c9a342921.jpg",
+        "https://telegra.ph/file/8ce098f9bf35e5e1300ae.jpg",
+        "https://telegra.ph/file/f689a58d1d2e0cdb42e5c.jpg",
+        "https://telegra.ph/file/d4ca8e3e2cccfdbc2c60f.jpg",
+        "https://telegra.ph/file/5b7174902639b09d612df.jpg",
+        "https://telegra.ph/file/078af354726a4459b05b1.jpg",
+        "https://telegra.ph/file/b0c12e0faabd889c093d4.jpg",
+        "https://telegra.ph/file/173b6545e53a4428a06f0.jpg",
+        "https://telegra.ph/file/d318aa22729a479682bcd.jpg",
+        "https://telegra.ph/file/e3021921c1409af7607b6.jpg",
+        "https://telegra.ph/file/8ebaa083d9f73b97257e0.jpg",
+        "https://telegra.ph/file/2b16a1c99b9aace595901.jpg",
+        "https://telegra.ph/file/f23b5dd6598b247383847.jpg",
+        "https://telegra.ph/file/d1a148ca8fc612c51371e.jpg",
+        "https://telegra.ph/file/b0fc20a595af39fe4d483.jpg",
+        "https://telegra.ph/file/5f5ef7a3bbb45238adbda.jpg",
+        "https://telegra.ph/file/5539665ef9151c13627ca.jpg",
+        "https://telegra.ph/file/0b4430c304add44d3d9d8.jpg"
+    ]
+};

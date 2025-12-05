@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1876,
+    "title": "[楝蛙] 猫宮さん (COMIC 快楽天 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/楝蛙-猫宮さん-COMIC-快楽天-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/cf4dd3d0f818d761ecfa6.jpg",
+        "https://telegra.ph/file/fac0fbc21168441a9c505.jpg",
+        "https://telegra.ph/file/0bf53064392ed83380936.jpg",
+        "https://telegra.ph/file/7bba6302304dd5e2b1013.jpg",
+        "https://telegra.ph/file/4dd0c3caf274d3b478084.jpg",
+        "https://telegra.ph/file/1c431708c25d679a3d4c3.jpg",
+        "https://telegra.ph/file/ccaccbd6e2a1c52961bd2.jpg",
+        "https://telegra.ph/file/a4737a78857adc77c862a.jpg",
+        "https://telegra.ph/file/5430cb29aca51146baf31.jpg",
+        "https://telegra.ph/file/56aa94c43f7aa2cb249f3.jpg",
+        "https://telegra.ph/file/d92b9409605fad58904eb.jpg",
+        "https://telegra.ph/file/7ff8c3bd6233e8a44bda1.jpg",
+        "https://telegra.ph/file/cad958af9fc77f7f49e33.jpg",
+        "https://telegra.ph/file/85f7b65210bf1af26bd7d.jpg",
+        "https://telegra.ph/file/8558ac4eb3ea7c88f7cca.jpg",
+        "https://telegra.ph/file/2277253dd527c7318254c.jpg",
+        "https://telegra.ph/file/ce5a9733fa33c61f859f1.jpg",
+        "https://telegra.ph/file/fa4dc94026bc833905789.jpg",
+        "https://telegra.ph/file/e9871b370b40f3e8d3a7c.jpg",
+        "https://telegra.ph/file/b1ae253e8cae3c40d77a7.jpg",
+        "https://telegra.ph/file/21ee71118c2ae3393ec84.jpg",
+        "https://telegra.ph/file/c4b0e00c8344222ad0aa7.jpg",
+        "https://telegra.ph/file/6a8ff75ec1f70808d8373.jpg"
+    ]
+};

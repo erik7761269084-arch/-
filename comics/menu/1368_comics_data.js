@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1368,
+    "title": "[オギノサトシ] 女上司(若妻)を押し倒せ!! (COMIC 真激 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/オギノサトシ-女上司若妻を押し倒せ-COMIC-真激-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7d5bb5d7d4e11b512f15a.jpg",
+        "https://telegra.ph/file/f56abc4d46e35c4adb1fe.jpg",
+        "https://telegra.ph/file/8e913388b1dbe28a9ee5f.jpg",
+        "https://telegra.ph/file/4604f001cafb9222385a0.jpg",
+        "https://telegra.ph/file/8e2d0b373abe4b89503cc.jpg",
+        "https://telegra.ph/file/65157dce99a8ef185542c.jpg",
+        "https://telegra.ph/file/7d2c38202d7d137e404f1.jpg",
+        "https://telegra.ph/file/d10186e4a01da7fbd5a30.jpg",
+        "https://telegra.ph/file/e3a438a96f1a2307fb619.jpg",
+        "https://telegra.ph/file/663bd2b335cde65b7fe3c.jpg",
+        "https://telegra.ph/file/aa9f367d1aad907a16d7c.jpg",
+        "https://telegra.ph/file/5872eff9531e331e69a7a.jpg",
+        "https://telegra.ph/file/0d8680ee6f128ceb77d57.jpg",
+        "https://telegra.ph/file/e29d0434573fd9f71021f.jpg",
+        "https://telegra.ph/file/2ec4e72d86aa6da4b4b9a.jpg",
+        "https://telegra.ph/file/71c96b2df11ae10c708d2.jpg",
+        "https://telegra.ph/file/9d515bdc7b56b7134b344.jpg",
+        "https://telegra.ph/file/6ee055aaacff615742ad4.jpg",
+        "https://telegra.ph/file/e12bf059de36e41b05bd8.jpg",
+        "https://telegra.ph/file/b9eed7e88eea2848be825.jpg",
+        "https://telegra.ph/file/89151fe6932f12a08a615.jpg",
+        "https://telegra.ph/file/7650aadf3464fac69a261.jpg",
+        "https://telegra.ph/file/bcc2f670db8c3309d1ab9.jpg",
+        "https://telegra.ph/file/bb71322ccd92106a1cf5c.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

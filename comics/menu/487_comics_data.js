@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 487,
+    "title": "[ハイソン] ヒト目ヒト科ヒトデナシ亜種の2「九十九里のリンちゃん」 (COMIC 夢幻転生 2020年10月号)",
+    "sourceUrl": "https://telegra.ph/ハイソン-ヒト目ヒト科ヒトデナシ亜種の2九十九里のリンちゃん-COMIC-夢幻転生-2020年10月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/39d7b312ed03819b58ab8.jpg",
+        "https://telegra.ph/file/7342e9e9793f4474957a4.jpg",
+        "https://telegra.ph/file/681578db77fa5583c98b4.jpg",
+        "https://telegra.ph/file/d9b52e148d53e8f04cee1.jpg",
+        "https://telegra.ph/file/8f7a011dc8f48697a940c.jpg",
+        "https://telegra.ph/file/5d5539241a20208e43480.jpg",
+        "https://telegra.ph/file/0fb39643bc542f4177a53.jpg",
+        "https://telegra.ph/file/8e789bb42c8510beb7fa4.jpg",
+        "https://telegra.ph/file/b346d0c8a95eb13fec01e.jpg",
+        "https://telegra.ph/file/c3a0540371d02aea73881.jpg",
+        "https://telegra.ph/file/75ec72ae6287c6f4e8a84.jpg",
+        "https://telegra.ph/file/754e36d5b82e9e163e613.jpg",
+        "https://telegra.ph/file/9909c548b36d537d15e1f.jpg",
+        "https://telegra.ph/file/cac84adaed5ae07504149.jpg",
+        "https://telegra.ph/file/69fb3062b62ba3382b777.jpg",
+        "https://telegra.ph/file/db6cd69f590e0afa017a3.jpg",
+        "https://telegra.ph/file/43a2c69119923b3aa5648.jpg",
+        "https://telegra.ph/file/5e0afebb7215a5c7d8653.jpg",
+        "https://telegra.ph/file/8d94927e0f5e077335d88.jpg",
+        "https://telegra.ph/file/ab491713bcdc9ef37ce8d.jpg",
+        "https://telegra.ph/file/8523f47df416917705808.jpg",
+        "https://telegra.ph/file/32634eb5880b1497d978d.jpg",
+        "https://telegra.ph/file/553fc67dcdc709560152b.jpg",
+        "https://telegra.ph/file/bff0c1f8679b75dc7508c.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg",
+        "https://telegra.ph/file/4ec1f7fbcae73e23ba297.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6882,
+    "title": "ハメハメ動画♥おんえあ〜",
+    "sourceUrl": "https://telegra.ph/ハメハメ動画おんえあ-08-31",
+    "images": [
+        "https://telegra.ph/file/69eb00bfaee607cd8085a.jpg",
+        "https://telegra.ph/file/06be6ca6f1850aa0ee151.jpg",
+        "https://telegra.ph/file/9524e5ed6094d65a2fdb4.jpg",
+        "https://telegra.ph/file/920c8d28b768268db17a9.jpg",
+        "https://telegra.ph/file/65e3eee16449bbb1040fb.jpg",
+        "https://telegra.ph/file/ff007d9c7a120cf6557c0.jpg",
+        "https://telegra.ph/file/cb9343b9b7974cd9084e5.jpg",
+        "https://telegra.ph/file/5df46f3d3d07f75312377.jpg",
+        "https://telegra.ph/file/e380d98462d76e5143527.jpg",
+        "https://telegra.ph/file/20657e7678c2d3b698a7b.jpg",
+        "https://telegra.ph/file/475f4fa411fd88d686600.jpg",
+        "https://telegra.ph/file/ed770b278fbeec31320a6.jpg",
+        "https://telegra.ph/file/8c026c94a30ad1678a0da.jpg",
+        "https://telegra.ph/file/bbb33a9bb95016c3f2e5f.jpg",
+        "https://telegra.ph/file/df6da15ac26a47448e585.jpg",
+        "https://telegra.ph/file/87ec127f67c2315a53538.jpg",
+        "https://telegra.ph/file/14406ed764ca4ae9bfb0c.jpg",
+        "https://telegra.ph/file/2880971fb6a6027c0cbcf.jpg",
+        "https://telegra.ph/file/0c78a03ed81b7308f713b.jpg",
+        "https://telegra.ph/file/546b655756f43f17ec21d.jpg",
+        "https://telegra.ph/file/c20405233f823a9424986.jpg",
+        "https://telegra.ph/file/b575bc8fdfe9c60a98346.jpg",
+        "https://telegra.ph/file/dfafbff25dcdbc39df945.jpg",
+        "https://telegra.ph/file/508cf84f89ed14498d44d.jpg"
+    ]
+};

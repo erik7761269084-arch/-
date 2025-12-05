@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2927,
+    "title": "[純銀星 (たかしな浅妃)] 幼馴染で恋人の彼女とこたつでいちゃいちゃ",
+    "sourceUrl": "https://telegra.ph/純銀星-たかしな浅妃-幼馴染で恋人の彼女とこたつでいちゃいちゃ-08-31",
+    "images": [
+        "https://telegra.ph/file/0cdb468b5fd9aa7498953.jpg",
+        "https://telegra.ph/file/b65384183d97833419e1f.jpg",
+        "https://telegra.ph/file/9d9c19cb9be175054f6fe.jpg",
+        "https://telegra.ph/file/f555e09138d7c8b6e9a9d.jpg",
+        "https://telegra.ph/file/b6c54b2f608a644b39729.jpg",
+        "https://telegra.ph/file/5b751f732be598c6ca4c1.jpg",
+        "https://telegra.ph/file/09a008fd2cf6620798e8d.jpg",
+        "https://telegra.ph/file/50291005f3c0b90790a18.jpg",
+        "https://telegra.ph/file/e440bf0c24a612e1f0344.jpg",
+        "https://telegra.ph/file/915f238436672135f7ec5.jpg",
+        "https://telegra.ph/file/06bee33936bd7ea0f7052.jpg",
+        "https://telegra.ph/file/039ea84af5f1dcde782c4.jpg",
+        "https://telegra.ph/file/6af653abd6a2f8da78161.jpg",
+        "https://telegra.ph/file/5a001be04e683be60527d.jpg",
+        "https://telegra.ph/file/840e9e418e97b3cf9beb9.jpg",
+        "https://telegra.ph/file/db21fe0092e782a2ff2ae.jpg",
+        "https://telegra.ph/file/31bb3bdace4f10142027e.jpg",
+        "https://telegra.ph/file/5accafafa76584620a9ed.jpg",
+        "https://telegra.ph/file/43e108449bdbc657dd23b.jpg",
+        "https://telegra.ph/file/515012d2c4e1d469305af.jpg",
+        "https://telegra.ph/file/72be8c2d1c4e2ae64dbe7.jpg",
+        "https://telegra.ph/file/8980ada604c58f26bb616.jpg",
+        "https://telegra.ph/file/5ea8353abf8da9516df92.jpg"
+    ]
+};

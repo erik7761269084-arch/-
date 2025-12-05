@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6781,
+    "title": "妹にしてあげる!",
+    "sourceUrl": "https://telegra.ph/妹にしてあげる-08-31",
+    "images": [
+        "https://telegra.ph/file/e84860bd6f90369077cdc.jpg",
+        "https://telegra.ph/file/ac7ddef4dcdb3ac3e23f1.jpg",
+        "https://telegra.ph/file/ee1277bc1d9d8869cdaf2.jpg",
+        "https://telegra.ph/file/e1df10fd004a7b597c99a.jpg",
+        "https://telegra.ph/file/5bb302fd25e4cc9128216.jpg",
+        "https://telegra.ph/file/718966ed9e712cb135a68.jpg",
+        "https://telegra.ph/file/09cd4702cd1a2da1d40f9.jpg",
+        "https://telegra.ph/file/afa18b4ca34a40c54eb50.jpg",
+        "https://telegra.ph/file/70fe04b2d2e71ad1c69af.jpg",
+        "https://telegra.ph/file/14a6f34938104ae060cdf.jpg",
+        "https://telegra.ph/file/d76bb71dab1c12b008015.jpg",
+        "https://telegra.ph/file/b3e4d7fb4a6d8ace13da8.jpg",
+        "https://telegra.ph/file/e7f5ca85e577c39555d25.jpg",
+        "https://telegra.ph/file/50d976081ecc608416eab.jpg",
+        "https://telegra.ph/file/fc3dc3dc310178e147afe.jpg",
+        "https://telegra.ph/file/92e2b496fb5c594cd59e1.jpg",
+        "https://telegra.ph/file/7c2b8931258228a94b8af.jpg",
+        "https://telegra.ph/file/ae14ee166152eab589bfa.jpg",
+        "https://telegra.ph/file/20a7428e960128c0eadf4.jpg",
+        "https://telegra.ph/file/a2ad922cf259c0b4bcaf7.jpg",
+        "https://telegra.ph/file/6b989f3623a0722bac503.jpg",
+        "https://telegra.ph/file/75acd6c3619782bfc120b.jpg",
+        "https://telegra.ph/file/f0a48d56d6a11618b3f00.jpg",
+        "https://telegra.ph/file/e73e1ef7cf303021346ab.jpg",
+        "https://telegra.ph/file/1cd7636bc4898d5cda551.jpg",
+        "https://telegra.ph/file/815fcc3c9f21627d64590.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6399,
+    "title": "アイドルは大なんてしない",
+    "sourceUrl": "https://telegra.ph/アイドルは大なんてしない-08-31",
+    "images": [
+        "https://telegra.ph/file/13d3ab3a5ba38d0f2b1d1.jpg",
+        "https://telegra.ph/file/0b45ba8e6d081458bde51.jpg",
+        "https://telegra.ph/file/96bd9d68642cfc0cc8cd9.jpg",
+        "https://telegra.ph/file/8c5d8e01902e1f961c23e.jpg",
+        "https://telegra.ph/file/4e08e3a568b2d36506e29.jpg",
+        "https://telegra.ph/file/9efa55b5f9d39df23a3c1.jpg",
+        "https://telegra.ph/file/30207b01069358207e37b.jpg",
+        "https://telegra.ph/file/d3dc9b0f7df356c235931.jpg",
+        "https://telegra.ph/file/48fdd5de6eb0c52703c56.jpg",
+        "https://telegra.ph/file/6cb222339822fd243762f.jpg",
+        "https://telegra.ph/file/2efacb5c6a2afa08779cd.jpg",
+        "https://telegra.ph/file/1b38650379ee89ad2fabd.jpg",
+        "https://telegra.ph/file/a91b1581f77e6402e6576.jpg",
+        "https://telegra.ph/file/b5330493c2dfa758efa60.jpg",
+        "https://telegra.ph/file/9faeb8199890c9f7b2faa.jpg",
+        "https://telegra.ph/file/2e357b16e0843432056bb.jpg",
+        "https://telegra.ph/file/880cefba298fb3e68c7b3.jpg",
+        "https://telegra.ph/file/034259a7c2b5802db30a5.jpg",
+        "https://telegra.ph/file/cf1898b09bd6481201278.jpg",
+        "https://telegra.ph/file/0fce596b874ff3c5d362f.jpg",
+        "https://telegra.ph/file/807a41fe80ebd5a2c36f8.jpg",
+        "https://telegra.ph/file/889818bdc04cc96832edd.jpg",
+        "https://telegra.ph/file/569ec76422f979758b357.jpg",
+        "https://telegra.ph/file/e457c77f83f81580b853e.jpg",
+        "https://telegra.ph/file/d7eb2ac92692ed9d58849.jpg"
+    ]
+};

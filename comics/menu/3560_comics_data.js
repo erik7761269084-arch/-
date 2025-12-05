@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3560,
+    "title": "[ちうさんキングダム (かざみちう)] バニ上様のおもてなし (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ちうさんキングダム-かざみちう-バニ上様のおもてなし-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/e6f2d843af6b3dbe9acb2.jpg",
+        "https://telegra.ph/file/a00957a35450fb85e1c4b.jpg",
+        "https://telegra.ph/file/01e4c3b1f760455ec6eb9.jpg",
+        "https://telegra.ph/file/bf3a521c90c53f93348f2.jpg",
+        "https://telegra.ph/file/030a9eba54c786863c41c.jpg",
+        "https://telegra.ph/file/67d5d162bc55b335f3000.jpg",
+        "https://telegra.ph/file/c8b7c2badcce4fe08e9f4.jpg",
+        "https://telegra.ph/file/b0b1c50a7fc0a6cea16e9.jpg",
+        "https://telegra.ph/file/888cbd4eef3aea6bb6514.jpg",
+        "https://telegra.ph/file/1f3f9f4b3a7beb7d2559d.jpg",
+        "https://telegra.ph/file/f5e467284071fb0f4f448.jpg",
+        "https://telegra.ph/file/2b99243a1373a8525041b.jpg",
+        "https://telegra.ph/file/3013cb9a3a3aba4fc7dfe.jpg",
+        "https://telegra.ph/file/9e9e9a267ee95323c83fa.jpg",
+        "https://telegra.ph/file/c1cb1add6e5ea458f4b81.jpg",
+        "https://telegra.ph/file/1da97790f3a04cf2f7a2d.jpg",
+        "https://telegra.ph/file/6620415a43852b1976a24.jpg",
+        "https://telegra.ph/file/0eef1456f47914c5fd9aa.jpg",
+        "https://telegra.ph/file/0256f8a70693c132a89ca.jpg",
+        "https://telegra.ph/file/c7e4dc5900c9fa7e52785.jpg",
+        "https://telegra.ph/file/6a8d15308d49e9f7f8854.jpg",
+        "https://telegra.ph/file/0ce6f743476e90947186e.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4009,
+    "title": "[アキカン (rikazu)] 長門ちゃんが提督一筋だったので、寝とって孕ませ妊娠させるお ざまぁ笑 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/アキカン-rikazu-長門ちゃんが提督一筋だったので寝とって孕ませ妊娠させるお-ざまぁ笑-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/69ac17a9bfc22442f3a8e.jpg",
+        "https://telegra.ph/file/772f9d85e9b03902efd44.jpg",
+        "https://telegra.ph/file/615aa72f7e5afadffa5cc.jpg",
+        "https://telegra.ph/file/5185ce36e4f0250216f9f.jpg",
+        "https://telegra.ph/file/cadbdb3c17b8463c52313.jpg",
+        "https://telegra.ph/file/fdea38b8127a08af77e4b.jpg",
+        "https://telegra.ph/file/7f9db8086af20500928cb.jpg",
+        "https://telegra.ph/file/30f3d9dcf8d9f1bf4f561.jpg",
+        "https://telegra.ph/file/5ca2f74178007fb23593c.jpg",
+        "https://telegra.ph/file/f3775f7e35d081aa6f6e4.jpg",
+        "https://telegra.ph/file/97d791c36a7d5f34ea842.jpg",
+        "https://telegra.ph/file/828d71c44de5b23ce1d50.jpg",
+        "https://telegra.ph/file/558dc548cc5e9a97fc6d1.jpg",
+        "https://telegra.ph/file/145477f9dfce232885401.jpg",
+        "https://telegra.ph/file/1845d63bf68828099d628.jpg",
+        "https://telegra.ph/file/81bd4374c8ffa9e2479fd.jpg",
+        "https://telegra.ph/file/130df22a24bee082f5579.jpg",
+        "https://telegra.ph/file/42d7fef43e3302e0fb04e.jpg",
+        "https://telegra.ph/file/8e6160974a3f3da11b379.jpg",
+        "https://telegra.ph/file/4307ac24afc178a83c93a.jpg",
+        "https://telegra.ph/file/024a30db0125d3748d4a0.jpg",
+        "https://telegra.ph/file/4a25570580c13792f27a4.jpg",
+        "https://telegra.ph/file/5a90325863882a4630806.jpg",
+        "https://telegra.ph/file/eaf51264b50c412821963.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

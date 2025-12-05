@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7450,
+    "title": "（日吉ハナ）アマデウス",
+    "sourceUrl": "https://telegra.ph/日吉ハナアマデウス-08-31",
+    "images": [
+        "https://telegra.ph/file/e55fb45a2b4302817618c.jpg",
+        "https://telegra.ph/file/f4f582e3877a45ff66259.jpg",
+        "https://telegra.ph/file/11bbb02462e2e2f8bb5c3.jpg",
+        "https://telegra.ph/file/65c2fecbc43a27ebd46f2.jpg",
+        "https://telegra.ph/file/e36de0cdabeb15a1c355d.jpg",
+        "https://telegra.ph/file/8c03e0adc1375805ed4e1.jpg",
+        "https://telegra.ph/file/6c7ffc97fce29ddd13a24.jpg",
+        "https://telegra.ph/file/bfb748763e7b5c74900e9.jpg",
+        "https://telegra.ph/file/9cea90a57709d88dc97a6.jpg",
+        "https://telegra.ph/file/13dcd09e79383bd8c600b.jpg",
+        "https://telegra.ph/file/a9fde9f06e32a57f1286c.jpg",
+        "https://telegra.ph/file/08a37d26c9fe30cded393.jpg",
+        "https://telegra.ph/file/6edb6d96a313f3ab32041.jpg",
+        "https://telegra.ph/file/8a8c90b710b4b6e40ee76.jpg",
+        "https://telegra.ph/file/f65cbb567559c053ccb8c.jpg",
+        "https://telegra.ph/file/69d9edc1fbd47ee30a046.jpg",
+        "https://telegra.ph/file/f8175f01a8fc1dfc1bac0.jpg",
+        "https://telegra.ph/file/ab1b12f5bf8fd6a70dc54.jpg",
+        "https://telegra.ph/file/42fda42b9ef8e89992e34.jpg",
+        "https://telegra.ph/file/8bf57a50082ff941e808c.jpg",
+        "https://telegra.ph/file/b6efc84978fa5da86868a.jpg",
+        "https://telegra.ph/file/6027c2201204ee39efcbd.jpg",
+        "https://telegra.ph/file/582e47f0ee86b991154c1.jpg",
+        "https://telegra.ph/file/3496784a6653cffc74bd6.jpg",
+        "https://telegra.ph/file/5b88d21e74c2771a8f70c.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4533,
+    "title": "[PIえろ] チチカメ (コミックプリズム Vol.3 2011年 SUMMER)",
+    "sourceUrl": "https://telegra.ph/PIえろ-チチカメ-コミックプリズム-Vol3-2011年-SUMMER-08-31",
+    "images": [
+        "https://telegra.ph/file/4b17110edec3dc5f2fe53.jpg",
+        "https://telegra.ph/file/6d054bb6b96fcb2be4712.jpg",
+        "https://telegra.ph/file/b963fbce9d2c57c318d2b.jpg",
+        "https://telegra.ph/file/8045d603fe3d84d111f44.jpg",
+        "https://telegra.ph/file/9803de50b1041bbee3d12.jpg",
+        "https://telegra.ph/file/3d76d9e7972f2d5563295.jpg",
+        "https://telegra.ph/file/3dd9364ec33db91d107dd.jpg",
+        "https://telegra.ph/file/9162d2e90363b89f9723f.jpg",
+        "https://telegra.ph/file/d6cd250c1dad09bebcd9b.jpg",
+        "https://telegra.ph/file/d1f141805acf09c29a351.jpg",
+        "https://telegra.ph/file/d2507cc5e3437bd735aab.jpg",
+        "https://telegra.ph/file/23a046cace689fa946eb9.jpg",
+        "https://telegra.ph/file/905063ac12ce0d6802e5c.jpg",
+        "https://telegra.ph/file/46e9d1f2d2ddbffb58e4e.jpg",
+        "https://telegra.ph/file/cf981f77523a65368518a.jpg",
+        "https://telegra.ph/file/0d1befda95de79fef37fd.jpg",
+        "https://telegra.ph/file/a008602558e3ac44a5dac.jpg",
+        "https://telegra.ph/file/53d9cc05912792075b8b9.jpg",
+        "https://telegra.ph/file/caa214c7c59380fc3c7f8.jpg",
+        "https://telegra.ph/file/0be274f8199ac4b16deba.jpg",
+        "https://telegra.ph/file/067d07bc2532a66c21cbd.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/9c929984989d801422ecf.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 954,
+    "title": "[さがみおきば (さがみゆき)] 男の子さらって女装させる部 ～可愛い男の子を女装男子に目覚めさせよう！～",
+    "sourceUrl": "https://telegra.ph/さがみおきば-さがみゆき-男の子さらって女装させる部-可愛い男の子を女装男子に目覚めさせよう-08-31",
+    "images": [
+        "https://telegra.ph/file/0340a2822b9d7dc4b822e.jpg",
+        "https://telegra.ph/file/17795c8409f0360352794.jpg",
+        "https://telegra.ph/file/ae065522778da1414efa1.jpg",
+        "https://telegra.ph/file/b5b0f13c5c7b37c1b7331.jpg",
+        "https://telegra.ph/file/99efe8da8be1aca075cc0.jpg",
+        "https://telegra.ph/file/18d29bd6c95b6db102f00.jpg",
+        "https://telegra.ph/file/99eac8fa326a30c393eae.jpg",
+        "https://telegra.ph/file/9ff30c6676b958ff338bc.jpg",
+        "https://telegra.ph/file/4b0f853a029aeca9887e4.jpg",
+        "https://telegra.ph/file/ca89ecd3021493e653c9d.jpg",
+        "https://telegra.ph/file/358d74fe6b18e1d285c84.jpg",
+        "https://telegra.ph/file/743f93ebdc7d48ddecd26.jpg",
+        "https://telegra.ph/file/17210cae5123d52a75006.jpg",
+        "https://telegra.ph/file/95921bf874e1d9f1d3315.jpg",
+        "https://telegra.ph/file/7885ac351ca6c4840e9e1.jpg",
+        "https://telegra.ph/file/f1ca1191002d65e4077a3.jpg",
+        "https://telegra.ph/file/02e58905805062013bf57.jpg",
+        "https://telegra.ph/file/e6c81d535a4613749b9eb.jpg",
+        "https://telegra.ph/file/43a2579b876eff3c07aa5.jpg",
+        "https://telegra.ph/file/e4e8fe21ee12dcfb53043.jpg",
+        "https://telegra.ph/file/b217e810362f5d1460f32.jpg",
+        "https://telegra.ph/file/6eae47a8b3f3cfc92f152.jpg",
+        "https://telegra.ph/file/8fe271d29319ed37bcba3.jpg",
+        "https://telegra.ph/file/b1505fe9a9607d1763cdd.jpg",
+        "https://telegra.ph/file/35d42beab2c64b209a03a.jpg"
+    ]
+};

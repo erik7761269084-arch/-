@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1499,
+    "title": "[逆又練物] 豚の交尾 第3話 (コミック刺激的SQUIRT!! Vol.27)",
+    "sourceUrl": "https://telegra.ph/逆又練物-豚の交尾-第3話-コミック刺激的SQUIRT-Vol27-08-31",
+    "images": [
+        "https://telegra.ph/file/9a4ab40ea729cdbf5e66a.jpg",
+        "https://telegra.ph/file/47e87b89441c43e0775b5.jpg",
+        "https://telegra.ph/file/491df31feecb6d1d0e40a.jpg",
+        "https://telegra.ph/file/65d3dbd19cb19ed0f8b68.jpg",
+        "https://telegra.ph/file/6f1bfad6a84a5f5cbd3f6.jpg",
+        "https://telegra.ph/file/eb19f279519c74567fed1.jpg",
+        "https://telegra.ph/file/cd5127a4ee5cf1bc30550.jpg",
+        "https://telegra.ph/file/51dc004b8232c246954a7.jpg",
+        "https://telegra.ph/file/ffbe82c9729f0cc899042.jpg",
+        "https://telegra.ph/file/fd90a026e9cabdcda8e54.jpg",
+        "https://telegra.ph/file/08879ac34c1f9d57317b8.jpg",
+        "https://telegra.ph/file/48a446aa9cfe155c405a0.jpg",
+        "https://telegra.ph/file/2dc4e32c6df4b20b0b4ac.jpg",
+        "https://telegra.ph/file/f96740ceccfe3a962b25b.jpg",
+        "https://telegra.ph/file/653ea2e28c31f5623a569.jpg",
+        "https://telegra.ph/file/cf9f34b459efecbc068e0.jpg",
+        "https://telegra.ph/file/645e096eda9f46365a2a5.jpg",
+        "https://telegra.ph/file/4d97649c7b3c1dc2e39da.jpg",
+        "https://telegra.ph/file/154b13c4b1af1bfa3e61f.jpg",
+        "https://telegra.ph/file/416431189de2a7c396764.jpg",
+        "https://telegra.ph/file/83fea9ff853467b132db2.jpg",
+        "https://telegra.ph/file/d2f7641950dc5a867b74b.jpg",
+        "https://telegra.ph/file/fde56b7194a4952bbbc50.jpg",
+        "https://telegra.ph/file/7add9e2a34639a9524eab.jpg"
+    ]
+};

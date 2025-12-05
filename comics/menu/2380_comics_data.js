@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2380,
+    "title": "[18マスター] 僕が欲しかったもの",
+    "sourceUrl": "https://telegra.ph/18マスター-僕が欲しかったもの-08-31",
+    "images": [
+        "https://telegra.ph/file/07c43566e8dce32eec7d4.jpg",
+        "https://telegra.ph/file/3ccc452b972816d082c22.png",
+        "https://telegra.ph/file/170310ae2dcbb92a766e5.png",
+        "https://telegra.ph/file/aaf3db5603e859bace013.png",
+        "https://telegra.ph/file/66d1a5494cce0261047bf.jpg",
+        "https://telegra.ph/file/0f4f9354cd2524ba0e808.jpg",
+        "https://telegra.ph/file/4738054d710d7036ace48.png",
+        "https://telegra.ph/file/790447794c27f36a19883.png",
+        "https://telegra.ph/file/0c7bb26becece47d766ef.png",
+        "https://telegra.ph/file/5a43dff3c4cec890e8f72.png",
+        "https://telegra.ph/file/1c650140e219682469b9a.jpg",
+        "https://telegra.ph/file/c892986a718afe27cfc5c.jpg",
+        "https://telegra.ph/file/2d1b4d146c0bd0d4a1ff0.jpg",
+        "https://telegra.ph/file/cd20b26f1347b2b0a92bc.jpg",
+        "https://telegra.ph/file/7f843707ee4d5fae0dae1.png",
+        "https://telegra.ph/file/aae68cc167a29b802d805.png",
+        "https://telegra.ph/file/d62a806677de6117cd6f7.png",
+        "https://telegra.ph/file/2c96b6857f9dd6b31a052.png",
+        "https://telegra.ph/file/e6daac4fc3fcf0690922c.jpg",
+        "https://telegra.ph/file/844eaa99e051d2e7afe84.png",
+        "https://telegra.ph/file/dcf98f45305752e55f2a3.jpg",
+        "https://telegra.ph/file/3d157edef0957502bf1cf.jpg",
+        "https://telegra.ph/file/9a5f46a8eacd73bc4f718.png"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4231,
+    "title": "[Cuvie] 並行世界の俺にえろかわ彼女がいた件について (COMIC ペンギンクラブ 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/Cuvie-並行世界の俺にえろかわ彼女がいた件について-COMIC-ペンギンクラブ-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a5d13a6dd420cd3b4345b.jpg",
+        "https://telegra.ph/file/3188b0aaa85f4cfac6058.jpg",
+        "https://telegra.ph/file/5dad7db16d075794445fe.jpg",
+        "https://telegra.ph/file/161ab1cb86f9c09a87f5d.jpg",
+        "https://telegra.ph/file/141363076305b1fb8aa32.jpg",
+        "https://telegra.ph/file/9f2ead4d09d3ab251cbbd.jpg",
+        "https://telegra.ph/file/5b7fcad0c97442f3c0d1e.jpg",
+        "https://telegra.ph/file/dcb4a9584ca2a183f665e.jpg",
+        "https://telegra.ph/file/92ad0707127b4249123f0.jpg",
+        "https://telegra.ph/file/766bbfe602b47551eb108.jpg",
+        "https://telegra.ph/file/dfc0f04075cdbaf28b57d.jpg",
+        "https://telegra.ph/file/2e3eb1624b181e7b17edc.jpg",
+        "https://telegra.ph/file/dcb9eb59631b45c074048.jpg",
+        "https://telegra.ph/file/d9467d07a1c1f49cb014d.jpg",
+        "https://telegra.ph/file/b12290eee6783dfa5a984.jpg",
+        "https://telegra.ph/file/43337f3fe6262f65083ca.jpg",
+        "https://telegra.ph/file/9c7c8c43041cb9b3e6486.jpg",
+        "https://telegra.ph/file/186da67ad2ced6877c8d6.jpg",
+        "https://telegra.ph/file/c3f56c3efd0da73ebb1df.jpg",
+        "https://telegra.ph/file/11509ccc229ac86d0e364.jpg",
+        "https://telegra.ph/file/28ebcdb144b6e68fe1b62.jpg",
+        "https://telegra.ph/file/d50b90d01c35cbf9b7310.jpg",
+        "https://telegra.ph/file/b55301bc658b59a639419.jpg",
+        "https://telegra.ph/file/f96173ec478afd50931a7.jpg",
+        "https://telegra.ph/file/b34e2bad7b04ae498f46b.jpg",
+        "https://telegra.ph/file/aa9d08d2989c97ab9f41a.jpg"
+    ]
+};

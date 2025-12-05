@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6111,
+    "title": "[丸居まる] ねこカフェ発情中!",
+    "sourceUrl": "https://telegra.ph/丸居まる-ねこカフェ発情中-08-31",
+    "images": [
+        "https://telegra.ph/file/d6524d2d0ae7375da649f.jpg",
+        "https://telegra.ph/file/1ba1ed9cd9391dbb31249.jpg",
+        "https://telegra.ph/file/fc41f353a65fdddd97d38.jpg",
+        "https://telegra.ph/file/5320c07a0f4328bd2b771.jpg",
+        "https://telegra.ph/file/b489b79b520fc301cf072.jpg",
+        "https://telegra.ph/file/2bd22bc9ae2bce88247fd.jpg",
+        "https://telegra.ph/file/d6019b22b403bc71bf01d.jpg",
+        "https://telegra.ph/file/3019a874f9b016e4636d3.jpg",
+        "https://telegra.ph/file/d17a4bed615fc6b5dbbd3.jpg",
+        "https://telegra.ph/file/46667779d122860dd9a17.jpg",
+        "https://telegra.ph/file/0e8a63f423af273fdee20.jpg",
+        "https://telegra.ph/file/b73c897b9939c1796e301.jpg",
+        "https://telegra.ph/file/4f67916f54657ad8ac51d.jpg",
+        "https://telegra.ph/file/befce02dcbe741986d264.jpg",
+        "https://telegra.ph/file/08228a48b36b11d74210c.jpg",
+        "https://telegra.ph/file/55533578d4fb06e13f3e4.jpg",
+        "https://telegra.ph/file/58bae86fd42e67d97b4f9.jpg",
+        "https://telegra.ph/file/c26d8f76b54aad037813e.jpg",
+        "https://telegra.ph/file/a51746dfe1a2f54264754.jpg",
+        "https://telegra.ph/file/f29d932074a93e05e6f6b.jpg",
+        "https://telegra.ph/file/bca49b78201782b564ba4.jpg",
+        "https://telegra.ph/file/0f78a3eb228339f990d3c.jpg",
+        "https://telegra.ph/file/f58845c7d78cb15eeb5a8.jpg",
+        "https://telegra.ph/file/fd9a26a9459151668f2e6.jpg"
+    ]
+};

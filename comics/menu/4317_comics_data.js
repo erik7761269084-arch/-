@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4317,
+    "title": "[に向思考 (貓崎葵)] 為惠惠獻上華麗的爆射! (この素晴らしい世界に祝福を!)",
+    "sourceUrl": "https://telegra.ph/に向思考-貓崎葵-為惠惠獻上華麗的爆射-この素晴らしい世界に祝福を-08-31",
+    "images": [
+        "https://telegra.ph/file/aabcb2bc98f99245bdee6.jpg",
+        "https://telegra.ph/file/fa1277aa7b9cfe00959d3.jpg",
+        "https://telegra.ph/file/50cf94dce96639988180a.jpg",
+        "https://telegra.ph/file/3a935afaebc8662226f83.jpg",
+        "https://telegra.ph/file/a3820d94ef6422e46ff9c.jpg",
+        "https://telegra.ph/file/c23833e98eadf678247e8.jpg",
+        "https://telegra.ph/file/5f4df70b9c773bd65d183.jpg",
+        "https://telegra.ph/file/e5890013e2c287864e436.jpg",
+        "https://telegra.ph/file/4ff5943f0b35696878835.jpg",
+        "https://telegra.ph/file/d056c554dfb9fea4ba63f.jpg",
+        "https://telegra.ph/file/3caf82ea282c3a42d6355.jpg",
+        "https://telegra.ph/file/2b6b679989e8fc7dd14d9.jpg",
+        "https://telegra.ph/file/adf3fa066d2e181d23225.jpg",
+        "https://telegra.ph/file/bc484e92ce811a0877d8d.jpg",
+        "https://telegra.ph/file/00fab1f056389721548a8.jpg",
+        "https://telegra.ph/file/3f74d0200d85ae07d35e4.jpg",
+        "https://telegra.ph/file/58e0955e8d23c3afe9973.jpg",
+        "https://telegra.ph/file/6961ef81d2d9453232a9f.jpg",
+        "https://telegra.ph/file/154abd386914f57432f02.jpg",
+        "https://telegra.ph/file/ab5f8a4cf4496ed22350d.jpg",
+        "https://telegra.ph/file/3bf03017482841f69fd02.jpg",
+        "https://telegra.ph/file/e9366372616437aeeb259.jpg",
+        "https://telegra.ph/file/ac0cec50b619b7dc78102.jpg",
+        "https://telegra.ph/file/b64699deda859f1f394af.jpg"
+    ]
+};

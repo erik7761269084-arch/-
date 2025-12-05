@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3843,
+    "title": "(C99) [わたくび (笹井さじ)] 双子姉妹の満たし方1～もしもしえっち編～",
+    "sourceUrl": "https://telegra.ph/C99-わたくび-笹井さじ-双子姉妹の満たし方1もしもしえっち編-08-31",
+    "images": [
+        "https://telegra.ph/file/994a94fa3fdf5ba8cdc88.jpg",
+        "https://telegra.ph/file/2909010b661e8c88a2a11.jpg",
+        "https://telegra.ph/file/6f45ba913e10594a81fca.jpg",
+        "https://telegra.ph/file/404aa91adf074e032dadb.jpg",
+        "https://telegra.ph/file/e503780d116c3f6d5e70d.jpg",
+        "https://telegra.ph/file/e9f02577622d07644b185.jpg",
+        "https://telegra.ph/file/80d88ab8393acfccb4d77.jpg",
+        "https://telegra.ph/file/4a605ddb13987f4a3dbd0.jpg",
+        "https://telegra.ph/file/99556b7c550177c0b3aca.jpg",
+        "https://telegra.ph/file/3d909ea9445209bbc241a.jpg",
+        "https://telegra.ph/file/b33dbe1d5dd4062810c22.jpg",
+        "https://telegra.ph/file/97dd11a422145a989eab7.jpg",
+        "https://telegra.ph/file/648ca798c0dc51b76d1fa.jpg",
+        "https://telegra.ph/file/af36481babfc250e8e532.jpg",
+        "https://telegra.ph/file/fc145fcda08f85dc7d3be.jpg",
+        "https://telegra.ph/file/fba8b5c9e15c3e032ea37.jpg",
+        "https://telegra.ph/file/ebd1960aa43703002c17b.jpg",
+        "https://telegra.ph/file/ec5b4e15f85427aa2018e.jpg",
+        "https://telegra.ph/file/ed0410f0117c725d5939a.jpg",
+        "https://telegra.ph/file/e210ca70c304db49e6ac5.jpg",
+        "https://telegra.ph/file/82327369662aa7b41bbc1.jpg",
+        "https://telegra.ph/file/7050f0cc417e97630e356.jpg",
+        "https://telegra.ph/file/1954e923fb72e986dbac3.jpg",
+        "https://telegra.ph/file/5cf7b6df453100cd2bba1.jpg",
+        "https://telegra.ph/file/e51d2cde69f9a89f93609.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

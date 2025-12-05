@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3069,
+    "title": "[朝月堂 (夜歌)] お兄ちゃんひなのおっぱいで元気だして♪",
+    "sourceUrl": "https://telegra.ph/朝月堂-夜歌-お兄ちゃんひなのおっぱいで元気だして-08-31",
+    "images": [
+        "https://telegra.ph/file/8bee0982941493e15e199.jpg",
+        "https://telegra.ph/file/6d25a923ec15cbbaa149b.jpg",
+        "https://telegra.ph/file/66b2de9bbce7e27f99392.jpg",
+        "https://telegra.ph/file/bd35899fe19402f9ec293.jpg",
+        "https://telegra.ph/file/d5b9139b1b9af904dae52.jpg",
+        "https://telegra.ph/file/66c61f4bfba99b4906a6f.jpg",
+        "https://telegra.ph/file/b4168f6a8031035845c92.jpg",
+        "https://telegra.ph/file/918dc486c43df00143053.jpg",
+        "https://telegra.ph/file/5db90d607119cd9de0a69.jpg",
+        "https://telegra.ph/file/d3a74bcd5059886205aa6.jpg",
+        "https://telegra.ph/file/6bcd3bf67f84ce989f227.jpg",
+        "https://telegra.ph/file/c54b4a7fbebe759c09f2a.jpg",
+        "https://telegra.ph/file/4faee30f03f9d35213e25.jpg",
+        "https://telegra.ph/file/cc906c0c842e947ff5204.jpg",
+        "https://telegra.ph/file/31e28d5d895638a974fe2.jpg",
+        "https://telegra.ph/file/85a64722c93a46a13f5b2.jpg",
+        "https://telegra.ph/file/127b9ee4aa5df609ba776.jpg",
+        "https://telegra.ph/file/0cf117314fa26865ff644.jpg",
+        "https://telegra.ph/file/ae0737c48acea4ae4b5a2.jpg",
+        "https://telegra.ph/file/a4f05d038e2d3e282f9f3.jpg",
+        "https://telegra.ph/file/da03e935faf74a7bf6bbe.jpg",
+        "https://telegra.ph/file/d845e8bed83f1e9e80b14.jpg",
+        "https://telegra.ph/file/5714b9999a32eace5f9fd.jpg",
+        "https://telegra.ph/file/bcbe8a2288e765e2fd08d.jpg",
+        "https://telegra.ph/file/558e71cac135481f3eb4e.jpg"
+    ]
+};

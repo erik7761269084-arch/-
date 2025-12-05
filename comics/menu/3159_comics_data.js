@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3159,
+    "title": "[しらすどん] 清楚人妻、隣人に寝取られる",
+    "sourceUrl": "https://telegra.ph/しらすどん-清楚人妻隣人に寝取られる-08-31",
+    "images": [
+        "https://telegra.ph/file/b7b6e86795e4b14059fe0.jpg",
+        "https://telegra.ph/file/9505986a0d850a5283f68.jpg",
+        "https://telegra.ph/file/40db81ad51a95586b5d77.jpg",
+        "https://telegra.ph/file/3133e97294101bc3a2c0f.jpg",
+        "https://telegra.ph/file/238ab9d147175b6d14cc8.jpg",
+        "https://telegra.ph/file/8d640083b5c3eb2d29dcf.jpg",
+        "https://telegra.ph/file/46b4c0bed560817739980.jpg",
+        "https://telegra.ph/file/dbaa10b281350b1b8023c.jpg",
+        "https://telegra.ph/file/fb9bc3f9de2d0e015f590.jpg",
+        "https://telegra.ph/file/abaab86a45ea8e12db580.jpg",
+        "https://telegra.ph/file/cfbdb1ece9a6b12b61a0d.jpg",
+        "https://telegra.ph/file/01b0dc7cb577cf1d03497.jpg",
+        "https://telegra.ph/file/77eb52c581686b096f584.jpg",
+        "https://telegra.ph/file/ac8d095841468855800f4.jpg",
+        "https://telegra.ph/file/852f62350bfb0446bb55e.jpg",
+        "https://telegra.ph/file/5b4c7abad4d12434d6653.jpg",
+        "https://telegra.ph/file/d2a3ec92fd3b03ece68c7.jpg",
+        "https://telegra.ph/file/ff15cc3a2371008ae418f.jpg",
+        "https://telegra.ph/file/dc1073c4126ef915774a6.jpg",
+        "https://telegra.ph/file/c3f7b96001848625e43c5.jpg",
+        "https://telegra.ph/file/9403340fd4c9b451dd180.jpg",
+        "https://telegra.ph/file/d69b3a667dc1c2c42a96a.jpg",
+        "https://telegra.ph/file/6fa626a7ddb0e879f937e.jpg",
+        "https://telegra.ph/file/aad4ef24084beee7c293a.jpg",
+        "https://telegra.ph/file/5ae2b743d35fe37f68ec2.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

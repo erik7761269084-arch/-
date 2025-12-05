@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26,
+    "title": "[ほりえろす] 性指導  [天希个人汉化]",
+    "sourceUrl": "https://telegra.ph/ほりえろす-性指導-天希个人汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/018c4b706905a03124a62.jpg",
+        "https://telegra.ph/file/71729f9e3ec97c5770303.jpg",
+        "https://telegra.ph/file/973b5c038456ff96012f9.jpg",
+        "https://telegra.ph/file/9cff5416eae9a77e11d44.jpg",
+        "https://telegra.ph/file/9bec2e3eb670dff4eb4a1.jpg",
+        "https://telegra.ph/file/d8ff2a95944b75fe0646c.jpg",
+        "https://telegra.ph/file/ee7ff2755afc551234e85.jpg",
+        "https://telegra.ph/file/d932061cd6cca66c52ad8.jpg",
+        "https://telegra.ph/file/0f5300a0521b11af2e846.jpg",
+        "https://telegra.ph/file/10e0a596f4c5f65104c7c.jpg",
+        "https://telegra.ph/file/bc7d65e851a9d5ae799b4.jpg",
+        "https://telegra.ph/file/e36ba98c1b1ea14410b4b.jpg",
+        "https://telegra.ph/file/9f757c052653f9d5c7145.jpg",
+        "https://telegra.ph/file/e719f873f19b261533236.jpg",
+        "https://telegra.ph/file/9627135093b3c22fcb4ff.jpg",
+        "https://telegra.ph/file/3408ab75de189ecf37855.jpg",
+        "https://telegra.ph/file/37af4948eacc8b225788b.jpg",
+        "https://telegra.ph/file/c4f8c97692cf97cae3871.jpg",
+        "https://telegra.ph/file/775abc4db7d4286d807fb.jpg",
+        "https://telegra.ph/file/f3fe140bfda5aeb3bc0c2.jpg",
+        "https://telegra.ph/file/931a1789e90460ceed53f.jpg",
+        "https://telegra.ph/file/54af5524410ed540e2dad.jpg",
+        "https://telegra.ph/file/f9e8ede1ff397a9546790.jpg",
+        "https://telegra.ph/file/665f527032102f2ef0d3c.jpg",
+        "https://telegra.ph/file/5b7b9a89cff19509ae33b.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5801,
+    "title": "[ぴりりねぎ] 倒錯の綻び",
+    "sourceUrl": "https://telegra.ph/ぴりりねぎ-倒錯の綻び-08-31",
+    "images": [
+        "https://telegra.ph/file/32a8f2a0b1f6dcd4cbe34.jpg",
+        "https://telegra.ph/file/87857aaedf5baebc1d9a9.jpg",
+        "https://telegra.ph/file/9ae3a1995d7497c5687b4.jpg",
+        "https://telegra.ph/file/96c49efd52d075e3fb11a.jpg",
+        "https://telegra.ph/file/9e112184b5e6105a1034b.jpg",
+        "https://telegra.ph/file/bd215ca072bba6a8863a1.jpg",
+        "https://telegra.ph/file/523243a4185154f57339c.jpg",
+        "https://telegra.ph/file/d7ec94748306b810b4605.jpg",
+        "https://telegra.ph/file/d1189046b8c4683804bf0.jpg",
+        "https://telegra.ph/file/8bb8a69a54a6b6504062b.jpg",
+        "https://telegra.ph/file/7d19a8ef68ff667705d0c.jpg",
+        "https://telegra.ph/file/78fbf0646dba13f69bd01.jpg",
+        "https://telegra.ph/file/434b2c2f157395ff91846.jpg",
+        "https://telegra.ph/file/ff7c2d3cddfd6188cde18.jpg",
+        "https://telegra.ph/file/f248daaf231c213c3c995.jpg",
+        "https://telegra.ph/file/abe8ad73af8ef0c6142a5.jpg",
+        "https://telegra.ph/file/1d620ab2c8222074735e0.jpg",
+        "https://telegra.ph/file/a3fd2d6066501ee752e4c.jpg",
+        "https://telegra.ph/file/eb8acc28298a82bbc4d5b.jpg",
+        "https://telegra.ph/file/9539953862b25a68730be.jpg",
+        "https://telegra.ph/file/a20b4c107fb47dee07765.jpg",
+        "https://telegra.ph/file/cee59957b5eb7d35918a9.jpg",
+        "https://telegra.ph/file/6000f9d188610fe6925c4.jpg",
+        "https://telegra.ph/file/19d377d8302227df1c3cd.jpg",
+        "https://telegra.ph/file/220a853906bdc88cac061.jpg",
+        "https://telegra.ph/file/4846b4cbc37a02bec54e5.jpg"
+    ]
+};

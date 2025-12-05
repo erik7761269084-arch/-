@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6929,
+    "title": "とっぴんぐ♥えんじぇるず",
+    "sourceUrl": "https://telegra.ph/とっぴんぐえんじぇるず-08-31",
+    "images": [
+        "https://telegra.ph/file/146ac51f31a32fd3fbceb.jpg",
+        "https://telegra.ph/file/3a852f4e174c00430adf0.jpg",
+        "https://telegra.ph/file/cb4768782cede81926352.jpg",
+        "https://telegra.ph/file/4a36dd0e06f5220868dd0.jpg",
+        "https://telegra.ph/file/d9dab82ddb06efc637e60.jpg",
+        "https://telegra.ph/file/b6179601b0ac54ac7cc35.jpg",
+        "https://telegra.ph/file/ff3f565d7f0ba2b068b2b.jpg",
+        "https://telegra.ph/file/418df204d5c250403db1a.jpg",
+        "https://telegra.ph/file/44882632548015aa0053b.jpg",
+        "https://telegra.ph/file/006e311d7a81f5aea8d8f.jpg",
+        "https://telegra.ph/file/3cf36ca0b336e9ea15db5.jpg",
+        "https://telegra.ph/file/f48227244be04def2aede.jpg",
+        "https://telegra.ph/file/3d2fb6c8dee40eb3bcd48.jpg",
+        "https://telegra.ph/file/f3a60987ddaf117a461fb.jpg",
+        "https://telegra.ph/file/31e863a55cc6ec5a3010e.jpg",
+        "https://telegra.ph/file/2981beb9bff2bcdc2ece4.jpg",
+        "https://telegra.ph/file/62e83ec12e4a1a316563a.jpg",
+        "https://telegra.ph/file/ccf6b135f15be0f054864.jpg",
+        "https://telegra.ph/file/19f8d863645b673f46245.jpg",
+        "https://telegra.ph/file/3630ea7163e2261741655.jpg",
+        "https://telegra.ph/file/a3deaddea5607afad8834.jpg",
+        "https://telegra.ph/file/587c93da87877c2e9598f.jpg",
+        "https://telegra.ph/file/47fe610d71463013831c4.jpg",
+        "https://telegra.ph/file/27b6dea7b3924e79a7cba.jpg"
+    ]
+};

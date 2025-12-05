@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3692,
+    "title": "[くろこ屋 (式神くろ子)] 全員!あの世イキ (原神)",
+    "sourceUrl": "https://telegra.ph/くろこ屋-式神くろ子-全員あの世イキ-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/f6a2cc4c4f38522fb77bd.jpg",
+        "https://telegra.ph/file/08ba6f35ca01402de6bfb.jpg",
+        "https://telegra.ph/file/bfdd8041e710567703e5d.jpg",
+        "https://telegra.ph/file/100048565b3290f3a3e6b.jpg",
+        "https://telegra.ph/file/02b85daeebf18b72caa0e.jpg",
+        "https://telegra.ph/file/10a2dafbe636840168007.jpg",
+        "https://telegra.ph/file/c8ec7f2b0d35bd7bccc58.jpg",
+        "https://telegra.ph/file/cb61850f446376debfc42.jpg",
+        "https://telegra.ph/file/114fd43aebe73f4e2b82b.jpg",
+        "https://telegra.ph/file/595b3e907ddb5accd5218.jpg",
+        "https://telegra.ph/file/1352ec8ed0af328aef0b6.jpg",
+        "https://telegra.ph/file/48727e614f81370a08fb9.jpg",
+        "https://telegra.ph/file/f6b84703903c8191a4288.jpg",
+        "https://telegra.ph/file/1c4120caaac0c6e92ebee.jpg",
+        "https://telegra.ph/file/c696aa4bd7a944db1c837.jpg",
+        "https://telegra.ph/file/6f2dc9fc96bf9b3e657c6.jpg",
+        "https://telegra.ph/file/948f0ccc11499273a4509.jpg",
+        "https://telegra.ph/file/d8e6d1d2184db302ac3f4.jpg",
+        "https://telegra.ph/file/b8fae043315d66a190fc8.jpg",
+        "https://telegra.ph/file/b31e834d9150ef9705af3.jpg",
+        "https://telegra.ph/file/e4443ded828e621aed8c6.jpg",
+        "https://telegra.ph/file/29e0291c092f60f86f1e7.jpg",
+        "https://telegra.ph/file/064945192343c9fa41655.jpg",
+        "https://telegra.ph/file/efdf0a69b467bd1e7de23.jpg",
+        "https://telegra.ph/file/79405ca14fd19636144a9.jpg",
+        "https://telegra.ph/file/a1903978c3277272dcb09.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5734,
+    "title": "[みちのくアタミ] 第一步要從裡面開始",
+    "sourceUrl": "https://telegra.ph/みちのくアタミ-第一步要從裡面開始-08-31",
+    "images": [
+        "https://telegra.ph/file/469207355fe76425da1d4.jpg",
+        "https://telegra.ph/file/4710fd15e005acd7394db.jpg",
+        "https://telegra.ph/file/a9e9f475d018637dffec7.jpg",
+        "https://telegra.ph/file/bda7150d830201b86196d.jpg",
+        "https://telegra.ph/file/152cc35ddbfcf01658cfa.jpg",
+        "https://telegra.ph/file/bf723ab72bb2ec27d74d3.jpg",
+        "https://telegra.ph/file/f6e1f73c87a15e9c37e18.jpg",
+        "https://telegra.ph/file/ed464ceacdba4f4c65da4.jpg",
+        "https://telegra.ph/file/d91b7407909c42470d5da.jpg",
+        "https://telegra.ph/file/76ee7ccf0d1bc54961c51.jpg",
+        "https://telegra.ph/file/a65ce09fec17004bb3a6b.jpg",
+        "https://telegra.ph/file/f826b6127322623e580ba.jpg",
+        "https://telegra.ph/file/2bd7fbe31145a2c256203.jpg",
+        "https://telegra.ph/file/d4b42f5a711c0af20555d.jpg",
+        "https://telegra.ph/file/2f3ef4e32dd5848da2cd6.jpg",
+        "https://telegra.ph/file/cd5fff9aef5e66626c33e.jpg",
+        "https://telegra.ph/file/24b3a082ed5feaa4073f7.jpg",
+        "https://telegra.ph/file/5b38b91eb4b0f6ce87de2.jpg",
+        "https://telegra.ph/file/94d81c48c7ab0e1f2cee4.jpg",
+        "https://telegra.ph/file/655b996157a5e4b789c3b.jpg",
+        "https://telegra.ph/file/8d912cef41ffc30a9a5b5.jpg",
+        "https://telegra.ph/file/b723fb9cee41e9fd7a83a.jpg",
+        "https://telegra.ph/file/a7e99b6bb40406fd86006.jpg",
+        "https://telegra.ph/file/de6b6404283ab9d3a78d2.jpg"
+    ]
+};

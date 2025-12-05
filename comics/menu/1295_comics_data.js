@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1295,
+    "title": "[ナギヤマスギ (那岐山)] 東方陵辱49咲夜 (東方Project)",
+    "sourceUrl": "https://telegra.ph/ナギヤマスギ-那岐山-東方陵辱49咲夜-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/548ce8da61611ab502cdb.jpg",
+        "https://telegra.ph/file/73929ced52764f50ef498.jpg",
+        "https://telegra.ph/file/7887676fca7c972f8e374.jpg",
+        "https://telegra.ph/file/f38526328b9edcea595ad.jpg",
+        "https://telegra.ph/file/bb9d813ea5aba19f71fc9.jpg",
+        "https://telegra.ph/file/b3a206ef368af6496df7e.jpg",
+        "https://telegra.ph/file/8577aa1bd26d934382652.jpg",
+        "https://telegra.ph/file/f2c3db293a09341bd9f1e.jpg",
+        "https://telegra.ph/file/4cfd7937229473ce4fc8c.jpg",
+        "https://telegra.ph/file/fc4b84c3003783ccc5d6a.jpg",
+        "https://telegra.ph/file/16cd165a7fa87bf9aaf3f.jpg",
+        "https://telegra.ph/file/8a7ac389d06b1eb771218.jpg",
+        "https://telegra.ph/file/b95aec3c91f265f898a78.jpg",
+        "https://telegra.ph/file/d8201cea2c8761715f876.jpg",
+        "https://telegra.ph/file/57bfef787fd437ca9a553.jpg",
+        "https://telegra.ph/file/08202f652c58f8c43677c.jpg",
+        "https://telegra.ph/file/efe85d1eef6561f8de089.jpg",
+        "https://telegra.ph/file/acc3df5801a57ff60912f.jpg",
+        "https://telegra.ph/file/6fe835eb8db3ea1697ed4.jpg",
+        "https://telegra.ph/file/3b89af069ee3bfac71efa.jpg",
+        "https://telegra.ph/file/263aa4c947658d2417bd6.jpg",
+        "https://telegra.ph/file/da7ecd8c7de879b7501cf.jpg",
+        "https://telegra.ph/file/0709a660b8117b90e805f.jpg",
+        "https://telegra.ph/file/dbd46b85b38e10dfe7c68.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7549,
+    "title": "母子DESTINY",
+    "sourceUrl": "https://telegra.ph/母子DESTINY-08-31-2",
+    "images": [
+        "https://telegra.ph/file/c93146be97eb8860b1d46.jpg",
+        "https://telegra.ph/file/65078da7945f018c62780.jpg",
+        "https://telegra.ph/file/67798b729ef3b64f967e3.jpg",
+        "https://telegra.ph/file/3df6e7256373fa6692df9.jpg",
+        "https://telegra.ph/file/8b47d33df05e2d59ce812.jpg",
+        "https://telegra.ph/file/63ac010d3e081a9f36ba7.jpg",
+        "https://telegra.ph/file/8287ee447fa554c7d383b.jpg",
+        "https://telegra.ph/file/c9926322fc63a795ba70c.jpg",
+        "https://telegra.ph/file/f785fe38738bd981d4815.jpg",
+        "https://telegra.ph/file/75b7675956e811084a985.jpg",
+        "https://telegra.ph/file/d45b813db718daaca04b4.jpg",
+        "https://telegra.ph/file/1ab86841a7b226a78e6fd.jpg",
+        "https://telegra.ph/file/d212499684a1c204506ff.jpg",
+        "https://telegra.ph/file/a96f8d389f2eef55a2201.jpg",
+        "https://telegra.ph/file/4ef88cc7cb45d3394f8db.jpg",
+        "https://telegra.ph/file/55cff9de079b38edf9c54.jpg",
+        "https://telegra.ph/file/9330277b8853e8ecb05ed.jpg",
+        "https://telegra.ph/file/aba16916a10e98ee1935f.jpg",
+        "https://telegra.ph/file/bce117527c09ffc35bb99.jpg",
+        "https://telegra.ph/file/92c13ed02927434fd49b5.jpg",
+        "https://telegra.ph/file/5117c9275adc2b9895552.jpg",
+        "https://telegra.ph/file/ebd59ccb992b5421a6e0d.jpg",
+        "https://telegra.ph/file/f640347b430f86ca61539.jpg",
+        "https://telegra.ph/file/1e665452b178ed3a4b8ff.jpg"
+    ]
+};

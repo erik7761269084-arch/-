@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6355,
+    "title": "[ちるまくろ] 銭湯ひとりむすめ",
+    "sourceUrl": "https://telegra.ph/ちるまくろ-銭湯ひとりむすめ-08-31",
+    "images": [
+        "https://telegra.ph/file/53a576985bdca843ea76f.jpg",
+        "https://telegra.ph/file/cc530f0aec6a1d5c38576.jpg",
+        "https://telegra.ph/file/13a545a5d7941a853b345.jpg",
+        "https://telegra.ph/file/a2f14a190e366fe7c5cda.jpg",
+        "https://telegra.ph/file/f5eb121c67f7badb7467c.jpg",
+        "https://telegra.ph/file/699ed2e28959f1c9b7e9c.jpg",
+        "https://telegra.ph/file/aa3366e0450c9eb466751.jpg",
+        "https://telegra.ph/file/bca775db1c8c1667149bf.jpg",
+        "https://telegra.ph/file/29efb4add438969c146ac.jpg",
+        "https://telegra.ph/file/5db138ba8dec506dc7197.jpg",
+        "https://telegra.ph/file/cbc72b64b2a03f8940981.jpg",
+        "https://telegra.ph/file/2380631614683b2f2a3c8.jpg",
+        "https://telegra.ph/file/9c019bb87ed9283764d35.jpg",
+        "https://telegra.ph/file/1ef1d102cb4bce6db844b.jpg",
+        "https://telegra.ph/file/9eea1e08babfc72a18fad.jpg",
+        "https://telegra.ph/file/4e46160257e3337ef3562.jpg",
+        "https://telegra.ph/file/39eec1ecac21858c2c1d4.jpg",
+        "https://telegra.ph/file/56f62cb388681bc5ba092.jpg",
+        "https://telegra.ph/file/45098700747f6e4d7e43e.jpg",
+        "https://telegra.ph/file/6fd7aa43b37f35e91df57.jpg",
+        "https://telegra.ph/file/97c73f9feccc06cd03ccf.jpg",
+        "https://telegra.ph/file/14b685c3b2e916443f82e.jpg",
+        "https://telegra.ph/file/aa10f7824fe8bcf80ba7b.jpg",
+        "https://telegra.ph/file/fb7a6b626761db629b9df.jpg"
+    ]
+};

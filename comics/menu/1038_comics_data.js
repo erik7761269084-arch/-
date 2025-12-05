@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1038,
+    "title": "[某人間] 叔母と淑母 (COMIC 天魔 2010年5月号)",
+    "sourceUrl": "https://telegra.ph/某人間-叔母と淑母-COMIC-天魔-2010年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7c50b70d772539f78c1e4.jpg",
+        "https://telegra.ph/file/7607b83a6d38eb38b2127.jpg",
+        "https://telegra.ph/file/4ab79acc533f8a121d415.jpg",
+        "https://telegra.ph/file/79f8ce64b0e34d847524e.jpg",
+        "https://telegra.ph/file/bc00a6562d4a158c55b33.jpg",
+        "https://telegra.ph/file/33d3db5f38b37aa5f7817.jpg",
+        "https://telegra.ph/file/29363b3892cbe59720f14.jpg",
+        "https://telegra.ph/file/045dd0c56ba8a8b3b9160.jpg",
+        "https://telegra.ph/file/cf4b4ea86bf8bd91d6779.jpg",
+        "https://telegra.ph/file/63450bfb2a3ecafb1485a.jpg",
+        "https://telegra.ph/file/4db603d8d65296d6a5795.jpg",
+        "https://telegra.ph/file/d034b1c5f72104d5ccabd.jpg",
+        "https://telegra.ph/file/2ca9e34b01d9630dd7ff6.jpg",
+        "https://telegra.ph/file/f71f1f5bbeaee3cab6608.jpg",
+        "https://telegra.ph/file/03d4489c7f173309e823e.jpg",
+        "https://telegra.ph/file/78871d6d049054981042d.jpg",
+        "https://telegra.ph/file/48deda0eed1d42094aa93.jpg",
+        "https://telegra.ph/file/079d56227c40e6c46ea52.jpg",
+        "https://telegra.ph/file/ff99117c6e2e74d93da02.jpg",
+        "https://telegra.ph/file/cc5ab72c5d681031cb05f.jpg",
+        "https://telegra.ph/file/57afbbc63d72a43e0d826.jpg",
+        "https://telegra.ph/file/746a7473f94384b5eedf8.jpg",
+        "https://telegra.ph/file/de94341f2a14212236eaa.jpg",
+        "https://telegra.ph/file/0e9cd681d97fd9dc1e986.jpg",
+        "https://telegra.ph/file/01a6cba7d9a22e042f048.jpg",
+        "https://telegra.ph/file/e3fa274c87833fb6eaa6b.jpg"
+    ]
+};

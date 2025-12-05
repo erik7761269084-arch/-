@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1302,
+    "title": "[いわお] 織姫寝取られ・・・？ とよくあるやつ (ブリーチ)",
+    "sourceUrl": "https://telegra.ph/いわお-織姫寝取られ-とよくあるやつ-ブリーチ-08-31",
+    "images": [
+        "https://telegra.ph/file/22c8d26076969130128d4.jpg",
+        "https://telegra.ph/file/e851629470f13c144df70.jpg",
+        "https://telegra.ph/file/11f16305c31aa97b7e917.jpg",
+        "https://telegra.ph/file/8b19afa982ea12b940e3d.jpg",
+        "https://telegra.ph/file/5f5786a2c5b2c339b6b0f.jpg",
+        "https://telegra.ph/file/e26e333e9c40cd02b4ae9.jpg",
+        "https://telegra.ph/file/1eb52990de9f2313d5814.jpg",
+        "https://telegra.ph/file/d1c210ddb9e69734c9023.jpg",
+        "https://telegra.ph/file/c94036a28e13e9eafff09.jpg",
+        "https://telegra.ph/file/67abbe5d7658754233b86.jpg",
+        "https://telegra.ph/file/7157df0ef119ab8fcab33.jpg",
+        "https://telegra.ph/file/f0494d9b0a127a202a7a3.jpg",
+        "https://telegra.ph/file/4b3da73c7e4af09a41fb0.jpg",
+        "https://telegra.ph/file/f181f07ef2c567b6c91dd.jpg",
+        "https://telegra.ph/file/e790f947fd3c9c3a80e1a.jpg",
+        "https://telegra.ph/file/4b574102769b71a93be8f.jpg",
+        "https://telegra.ph/file/be0c754a741476fb9a327.jpg",
+        "https://telegra.ph/file/d19433b037cccbb610702.jpg",
+        "https://telegra.ph/file/342e9843a83ce5eefb1a0.jpg",
+        "https://telegra.ph/file/e52f21fc77b4f6b10b905.jpg",
+        "https://telegra.ph/file/643ee56695d6048b2e528.jpg",
+        "https://telegra.ph/file/b5f60b93dac0456eb0518.jpg",
+        "https://telegra.ph/file/182a3e010c8138cab280f.jpg",
+        "https://telegra.ph/file/f801400f74ea6f5f609a5.jpg",
+        "https://telegra.ph/file/d5b3467d7b7f3fcf1fe47.jpg",
+        "https://telegra.ph/file/f12ffd3429f32be4aa20e.jpg"
+    ]
+};

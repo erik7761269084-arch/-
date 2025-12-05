@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5309,
+    "title": "(C97) えっちゃんとイチャラブおくちえっち! (Fate Grand Order) [奧日個人漢化]",
+    "sourceUrl": "https://telegra.ph/C97-えっちゃんとイチャラブおくちえっち-Fate-Grand-Order-奧日個人漢化-08-31",
+    "images": [
+        "https://telegra.ph/file/c5c82b4fbc7bac1e045ed.jpg",
+        "https://telegra.ph/file/943b6e4b703b748a4de7b.jpg",
+        "https://telegra.ph/file/c598c8c78992e19866e4a.jpg",
+        "https://telegra.ph/file/d8bc73c451ee52796e18d.jpg",
+        "https://telegra.ph/file/f1f177f620119ba2c6302.jpg",
+        "https://telegra.ph/file/4f6004da458eb7fe897b1.jpg",
+        "https://telegra.ph/file/cf35aaf351c90773d260b.jpg",
+        "https://telegra.ph/file/6d59d09196ed1d9e7165c.jpg",
+        "https://telegra.ph/file/d9e2086dcad945271d7fe.jpg",
+        "https://telegra.ph/file/fe4bf203b43f672d86239.jpg",
+        "https://telegra.ph/file/e4bac6dd050201b39ef22.jpg",
+        "https://telegra.ph/file/3345c45c7a106e4d7830a.jpg",
+        "https://telegra.ph/file/a9873af028cc477b8d5db.jpg",
+        "https://telegra.ph/file/b9d290420c4a00398db48.jpg",
+        "https://telegra.ph/file/bf963ae9edff74a74be0d.jpg",
+        "https://telegra.ph/file/6680440a2eff0a218aeb3.jpg",
+        "https://telegra.ph/file/e31e68be86997add73faa.jpg",
+        "https://telegra.ph/file/ddbe33d1df3a162e0a2e4.jpg",
+        "https://telegra.ph/file/3861f553a1ae55c6840dc.jpg",
+        "https://telegra.ph/file/f8cc3c4aea2bcfee1e9bc.jpg",
+        "https://telegra.ph/file/e121e564ec057ba2de8c8.jpg",
+        "https://telegra.ph/file/c77b73e1b5be69e8b7ab4.jpg",
+        "https://telegra.ph/file/5fe2da9a37590989513bf.jpg",
+        "https://telegra.ph/file/bd7b6d670196458680171.jpg",
+        "https://telegra.ph/file/1ef57d4b17cec06bfc6dd.jpg"
+    ]
+};

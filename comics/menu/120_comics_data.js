@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 120,
+    "title": "[ヒューマン・ハイライト・フィルム (塩鯖ッ)] 七瀬リコの膣内マッサージ",
+    "sourceUrl": "https://telegra.ph/ヒューマンハイライトフィルム-塩鯖ッ-七瀬リコの膣内マッサージ-08-31",
+    "images": [
+        "https://telegra.ph/file/ff8db80ff5d61e96d6a99.jpg",
+        "https://telegra.ph/file/ab403958976f03c87b253.jpg",
+        "https://telegra.ph/file/403ee5a0f509ddbcbe2ed.jpg",
+        "https://telegra.ph/file/6e3f05aa96f4c75150b99.jpg",
+        "https://telegra.ph/file/01d663aa307806218c1a6.jpg",
+        "https://telegra.ph/file/7960b3befd82eec09f5c5.jpg",
+        "https://telegra.ph/file/5ec45b106080fbd5ba5cf.jpg",
+        "https://telegra.ph/file/f8220ac43165ef6479f4a.jpg",
+        "https://telegra.ph/file/921c17cb301a3ac0980c8.jpg",
+        "https://telegra.ph/file/83ce0f423ec64d76dd2b8.jpg",
+        "https://telegra.ph/file/f061686e2785e4c0bfd4c.jpg",
+        "https://telegra.ph/file/b61c48f5feab14e647318.jpg",
+        "https://telegra.ph/file/0e8972887faf84cb77212.jpg",
+        "https://telegra.ph/file/9dfb682f1ee374c148ae9.jpg",
+        "https://telegra.ph/file/06c3c83f00ced7e1c0e1f.jpg",
+        "https://telegra.ph/file/5ba48fbbcfee835330249.jpg",
+        "https://telegra.ph/file/9ba06cef1f421d88777fa.jpg",
+        "https://telegra.ph/file/9a3be0a66d3dd0dc4f375.jpg",
+        "https://telegra.ph/file/406286c4477edcbd43559.jpg",
+        "https://telegra.ph/file/4a2efe29fd99c060eb96c.jpg",
+        "https://telegra.ph/file/b5c3033f01b1c4b5b82ee.jpg",
+        "https://telegra.ph/file/07eeddd43c6348756e9ba.jpg",
+        "https://telegra.ph/file/c0575010b8055c9b4948a.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5805,
+    "title": "[レオパルド] 金髮ツインテール (ふたり嫁)",
+    "sourceUrl": "https://telegra.ph/レオパルド-金髮ツインテール-ふたり嫁-08-31",
+    "images": [
+        "https://telegra.ph/file/2e8602bc13abaae75ee8e.jpg",
+        "https://telegra.ph/file/045c0fe4460e28cd80033.jpg",
+        "https://telegra.ph/file/c5604616d06899393aaf4.jpg",
+        "https://telegra.ph/file/89100e9acbb2980ec4d77.jpg",
+        "https://telegra.ph/file/529c08ba59661f7ad4896.jpg",
+        "https://telegra.ph/file/8a75c9a7434ee44bda58d.jpg",
+        "https://telegra.ph/file/a22779ac173f41e406186.jpg",
+        "https://telegra.ph/file/819103a205885c124d172.jpg",
+        "https://telegra.ph/file/2c4e1a4c74d88498f2a06.jpg",
+        "https://telegra.ph/file/e873d46646e7b08f4651f.jpg",
+        "https://telegra.ph/file/2fd93432669165d90bcdc.jpg",
+        "https://telegra.ph/file/65ad5b2592a7eb8b5da06.jpg",
+        "https://telegra.ph/file/f03b7ec32c650a75bdb7e.jpg",
+        "https://telegra.ph/file/d88ebc888d61a33585e93.jpg",
+        "https://telegra.ph/file/5c873e8db57b0b53373df.jpg",
+        "https://telegra.ph/file/2f6d8f64c2f01beefbaef.jpg",
+        "https://telegra.ph/file/f63b504edcffc764caa6c.jpg",
+        "https://telegra.ph/file/de1df32a4c69784cce0f5.jpg",
+        "https://telegra.ph/file/86784c87b19184847cc0f.jpg",
+        "https://telegra.ph/file/49d100b700aafe3ba679c.jpg",
+        "https://telegra.ph/file/fbd4bc5d2e55350837698.jpg",
+        "https://telegra.ph/file/e3a5e5438866b8c9b07d6.jpg",
+        "https://telegra.ph/file/263150b4eb9a274936551.jpg",
+        "https://telegra.ph/file/b9d46bc9e18f4e165e8fe.jpg",
+        "https://telegra.ph/file/3a5e7e537f2b3db4173de.jpg",
+        "https://telegra.ph/file/684b6b7d3c4696578c56f.jpg"
+    ]
+};

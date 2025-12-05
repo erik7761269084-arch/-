@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7817,
+    "title": "神境へようこそ (咲 -Saki-)",
+    "sourceUrl": "https://telegra.ph/神境へようこそ-咲--Saki-08-31",
+    "images": [
+        "https://telegra.ph/file/41d280c57c1cf312eed57.jpg",
+        "https://telegra.ph/file/694ddb7b8e440f1baba3f.jpg",
+        "https://telegra.ph/file/44134ad316a1082df801d.jpg",
+        "https://telegra.ph/file/e84c35c82255a67921277.jpg",
+        "https://telegra.ph/file/3b290aa0b446039b37698.jpg",
+        "https://telegra.ph/file/2d67b395e8eb2cddf8876.jpg",
+        "https://telegra.ph/file/182030f47f9dea377215d.jpg",
+        "https://telegra.ph/file/4221e242324ce872e1965.jpg",
+        "https://telegra.ph/file/850d4b59683394265ac81.jpg",
+        "https://telegra.ph/file/1db8e68457b658695441c.jpg",
+        "https://telegra.ph/file/05ee7648c4034496602b2.jpg",
+        "https://telegra.ph/file/bdbf44950125eaac33bf4.jpg",
+        "https://telegra.ph/file/9488b30d8f0f31d0b59ae.jpg",
+        "https://telegra.ph/file/c5b1b80e1eb85b67e37b2.jpg",
+        "https://telegra.ph/file/a2144fe609df80908f24c.jpg",
+        "https://telegra.ph/file/5b7df2fc648d401493c37.jpg",
+        "https://telegra.ph/file/1c96532ee30e86dd30ab7.jpg",
+        "https://telegra.ph/file/9ea48f8e788ceb383092f.jpg",
+        "https://telegra.ph/file/be5dda1588b3650d13882.jpg",
+        "https://telegra.ph/file/2e0278b6c9fdd4142229d.jpg",
+        "https://telegra.ph/file/8bff59d723a3f37f77bd7.jpg",
+        "https://telegra.ph/file/003214605e6c2fd2a24d4.jpg",
+        "https://telegra.ph/file/58b54feca6d5ec56051e6.jpg",
+        "https://telegra.ph/file/80bb5696b1b97934554c3.jpg",
+        "https://telegra.ph/file/aed70348b5bbed776d167.jpg"
+    ]
+};

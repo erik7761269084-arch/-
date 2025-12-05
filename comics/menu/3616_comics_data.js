@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3616,
+    "title": "(この声届け、月までも 五) [く～へんしろっぷ (にのパル)] トークキャラクターおくちオンリーぶっく (VOICEROID)",
+    "sourceUrl": "https://telegra.ph/この声届け月までも-五-くへんしろっぷ-にのパル-トークキャラクターおくちオンリーぶっく-VOICEROID-08-31",
+    "images": [
+        "https://telegra.ph/file/be92798322f78d52ee563.jpg",
+        "https://telegra.ph/file/217513f42614bc0b104cb.jpg",
+        "https://telegra.ph/file/ec812b11e5c10ff06dbf4.jpg",
+        "https://telegra.ph/file/541441eb78670f2bff3c6.jpg",
+        "https://telegra.ph/file/6c99459c2cb2fb058d28c.jpg",
+        "https://telegra.ph/file/943f248dc2f1b68dee9cf.jpg",
+        "https://telegra.ph/file/1d52740a97fb599569c64.jpg",
+        "https://telegra.ph/file/76d96b3485565c0ec7baa.jpg",
+        "https://telegra.ph/file/a5870cdc80962da128677.jpg",
+        "https://telegra.ph/file/2f42a0e66dbaf6a754baf.jpg",
+        "https://telegra.ph/file/4b0fb646c210f718af8ec.jpg",
+        "https://telegra.ph/file/bf4f4c476c7de12d827a2.jpg",
+        "https://telegra.ph/file/ee80fcd78ba778a4b7219.jpg",
+        "https://telegra.ph/file/7314ad52b2ca97be99c70.jpg",
+        "https://telegra.ph/file/dbc7ad65c1b79d6a3a0f9.jpg",
+        "https://telegra.ph/file/68d97849ce8596af168ba.jpg",
+        "https://telegra.ph/file/d64f2791ab4d10a235d9f.jpg",
+        "https://telegra.ph/file/631b9b90c8b3900d2bded.jpg",
+        "https://telegra.ph/file/5c0b94dc454bac786c2f6.jpg",
+        "https://telegra.ph/file/576c8e01bd2e359f8fcc0.jpg",
+        "https://telegra.ph/file/e1a7977e535281375b6ef.jpg",
+        "https://telegra.ph/file/735fa2209073bbaa0af5e.jpg",
+        "https://telegra.ph/file/33996b5fcc1a2a8ed8b3f.jpg"
+    ]
+};

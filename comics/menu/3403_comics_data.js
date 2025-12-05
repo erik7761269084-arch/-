@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3403,
+    "title": "[ゆうさりつかた (淡夢)] 後輩は小悪魔マ!?",
+    "sourceUrl": "https://telegra.ph/ゆうさりつかた-淡夢-後輩は小悪魔マ-08-31",
+    "images": [
+        "https://telegra.ph/file/cec383a1b4e0d4fa0696f.jpg",
+        "https://telegra.ph/file/307a11586c33930f89c1d.jpg",
+        "https://telegra.ph/file/a7b0271ce104b36c26542.jpg",
+        "https://telegra.ph/file/416e573f304d8dc7a654d.jpg",
+        "https://telegra.ph/file/3f7e3c4eded9fc410a366.jpg",
+        "https://telegra.ph/file/984b1e06e0a612a26b924.jpg",
+        "https://telegra.ph/file/791bc6323353aec251ca5.jpg",
+        "https://telegra.ph/file/a15fdfcf09d060e6b12c0.jpg",
+        "https://telegra.ph/file/712e4e12810f3a8375553.jpg",
+        "https://telegra.ph/file/d67e1d3528d77254f66d9.jpg",
+        "https://telegra.ph/file/a3b85eb58e8d060cf9693.jpg",
+        "https://telegra.ph/file/09d24c08f721a02804403.jpg",
+        "https://telegra.ph/file/0efae1ff55b34fd54e93d.jpg",
+        "https://telegra.ph/file/3720e3f7879f0b9afa87e.jpg",
+        "https://telegra.ph/file/257c933c34518c943b0de.jpg",
+        "https://telegra.ph/file/bb2969b20808f988a8186.jpg",
+        "https://telegra.ph/file/9e88e65d8bed4bb80fb66.jpg",
+        "https://telegra.ph/file/39208aefbc3f89456ecf1.jpg",
+        "https://telegra.ph/file/a243e435b5faf9d297e93.jpg",
+        "https://telegra.ph/file/9355a588407e7cced24ad.jpg",
+        "https://telegra.ph/file/e7e733adadf0c6cfeb5bd.jpg",
+        "https://telegra.ph/file/b148387ab562e93a79631.jpg",
+        "https://telegra.ph/file/ad27f80db6229b2f0bebc.jpg",
+        "https://telegra.ph/file/8d60ddf1ef734f45ae314.jpg"
+    ]
+};

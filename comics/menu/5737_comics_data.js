@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5737,
+    "title": "[凪市] キャプテンファイト!",
+    "sourceUrl": "https://telegra.ph/凪市-キャプテンファイト-08-31",
+    "images": [
+        "https://telegra.ph/file/aeda3818cef3c1a2cea02.jpg",
+        "https://telegra.ph/file/0e728c02f61a3ae69b020.jpg",
+        "https://telegra.ph/file/175cf05b70a07cdeb21fe.jpg",
+        "https://telegra.ph/file/944c911a1ec70c7f42934.jpg",
+        "https://telegra.ph/file/f232936a45313a18865b0.jpg",
+        "https://telegra.ph/file/f4fad24d4f93af0af1c7a.jpg",
+        "https://telegra.ph/file/bb8bccbbda052b855c72d.jpg",
+        "https://telegra.ph/file/9270b0d648a2a71ffd02c.jpg",
+        "https://telegra.ph/file/19fadbc46296ad6589e22.jpg",
+        "https://telegra.ph/file/4461f5a566e6d54c04021.jpg",
+        "https://telegra.ph/file/90447244708cc58d41562.jpg",
+        "https://telegra.ph/file/999194b612c6602e78801.jpg",
+        "https://telegra.ph/file/5b4f4b2b9698ec3896af9.jpg",
+        "https://telegra.ph/file/6a1259c8c04f8ead15e75.jpg",
+        "https://telegra.ph/file/112e9143e92ec6a556155.jpg",
+        "https://telegra.ph/file/f42fbe0e9c2aff26b21b9.jpg",
+        "https://telegra.ph/file/76d1aa5a28262f7622d47.jpg",
+        "https://telegra.ph/file/c6b48e4f9767090c9eaf9.jpg",
+        "https://telegra.ph/file/9877e6b7116b01b9130a7.jpg",
+        "https://telegra.ph/file/cdb57989e8605cade5eb4.jpg",
+        "https://telegra.ph/file/d108d8b7e155518ca0248.jpg",
+        "https://telegra.ph/file/46e9c1b05d7dfff0dc124.png",
+        "https://telegra.ph/file/7737a87c3cc11d41ffe8a.png"
+    ]
+};

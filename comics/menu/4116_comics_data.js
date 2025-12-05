@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4116,
+    "title": "(COMIC1☆11) [拡張パーツ (遠藤良危)] スカサハ師匠に犯される本 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/COMIC111-拡張パーツ-遠藤良危-スカサハ師匠に犯される本-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/eee8dfa3d2a4483c590bd.jpg",
+        "https://telegra.ph/file/503cc97132df9b8c591c4.jpg",
+        "https://telegra.ph/file/016b06d480afe94b2babc.jpg",
+        "https://telegra.ph/file/fc987a92a2a4316b2332a.jpg",
+        "https://telegra.ph/file/969bd14f862e580cc7a04.jpg",
+        "https://telegra.ph/file/cfa838976bf774249fe7d.jpg",
+        "https://telegra.ph/file/8fbeaa4a86b4e01480459.jpg",
+        "https://telegra.ph/file/498138f83a170e02d03a5.jpg",
+        "https://telegra.ph/file/87ac7046d58e82f40de6b.jpg",
+        "https://telegra.ph/file/350b3072339e9f870ec09.jpg",
+        "https://telegra.ph/file/45914e9e7691b464d629f.jpg",
+        "https://telegra.ph/file/eb6a0b1efebb7dfa26f46.jpg",
+        "https://telegra.ph/file/92d926d2208c712a129c7.jpg",
+        "https://telegra.ph/file/d2ca4043c3907af638106.jpg",
+        "https://telegra.ph/file/934c1738c90a94adf63a9.jpg",
+        "https://telegra.ph/file/212ce17b1efa1cc7db3b5.jpg",
+        "https://telegra.ph/file/97c3ff7963a587a8213a7.jpg",
+        "https://telegra.ph/file/970e11608afd505e3698b.jpg",
+        "https://telegra.ph/file/9432bc072a94652a28728.jpg",
+        "https://telegra.ph/file/ada52d80ac5e4d1fee868.jpg",
+        "https://telegra.ph/file/dd8f34288bcbffbbef0b6.jpg",
+        "https://telegra.ph/file/6a8e6cef0140f1ff8192d.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ]
+};

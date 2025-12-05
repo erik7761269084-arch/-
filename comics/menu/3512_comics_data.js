@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3512,
+    "title": "(C99) [帰宅時間 (きたく)] レズ風俗へようこそ!～延長しました～ (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "sourceUrl": "https://telegra.ph/C99-帰宅時間-きたく-レズ風俗へようこそ延長しました-ラブライブ-虹ヶ咲学園スクールアイドル同好会-08-31",
+    "images": [
+        "https://telegra.ph/file/ed069abb11da2db0cc01c.jpg",
+        "https://telegra.ph/file/64d8838f5a0ab287e01e8.jpg",
+        "https://telegra.ph/file/7b381209d63321c1c23d5.jpg",
+        "https://telegra.ph/file/d96d90ee3072d463fecc4.jpg",
+        "https://telegra.ph/file/30b2c0053734e5027a2c4.jpg",
+        "https://telegra.ph/file/feb0045c00625e37adade.jpg",
+        "https://telegra.ph/file/0173d5871af4fcc978510.jpg",
+        "https://telegra.ph/file/37b7cb5fe4ec4d5a51786.jpg",
+        "https://telegra.ph/file/9b1512251f42c0da45a4c.jpg",
+        "https://telegra.ph/file/299b073b578bfa4b318f7.jpg",
+        "https://telegra.ph/file/9d09556978535fdd3ee63.jpg",
+        "https://telegra.ph/file/5466d6f29fb0030503e2f.jpg",
+        "https://telegra.ph/file/f3054c3845e525bbd800d.jpg",
+        "https://telegra.ph/file/f6d1d30d3389431f36629.jpg",
+        "https://telegra.ph/file/36dc761565ad1ee459774.jpg",
+        "https://telegra.ph/file/1610486e9ff59ff32736b.jpg",
+        "https://telegra.ph/file/20bd84c209e8d4f445279.jpg",
+        "https://telegra.ph/file/07f57e5cf2ca89aade0d4.jpg",
+        "https://telegra.ph/file/1c9987ad51e514d3bdaa9.jpg",
+        "https://telegra.ph/file/3b1bef3533454c974f356.jpg",
+        "https://telegra.ph/file/452299c11cd90a26c601c.jpg",
+        "https://telegra.ph/file/9a1b9811a3bf88769aa46.jpg",
+        "https://telegra.ph/file/aae5146718fcf8ea21bfe.jpg",
+        "https://telegra.ph/file/6f3096908ab57a7402ab8.jpg",
+        "https://telegra.ph/file/ad2efae3e3aa372f812c7.jpg"
+    ]
+};

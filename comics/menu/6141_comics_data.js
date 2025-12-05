@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6141,
+    "title": "[えすお] りっきん ♡ もんすたぁ",
+    "sourceUrl": "https://telegra.ph/えすお-りっきん--もんすたぁ-08-31",
+    "images": [
+        "https://telegra.ph/file/426ba57ec6009fb5464aa.jpg",
+        "https://telegra.ph/file/437a60cdd9bb135c3ccf3.jpg",
+        "https://telegra.ph/file/a2cf85f54023c0179b4a9.jpg",
+        "https://telegra.ph/file/437f9e5d5b9e973a4c46c.jpg",
+        "https://telegra.ph/file/c2ecd2d5b8c6aaffc6a3b.jpg",
+        "https://telegra.ph/file/5693f61463ea1b3c13249.jpg",
+        "https://telegra.ph/file/e8c564556677ad82c927c.jpg",
+        "https://telegra.ph/file/f4732a5a8568ce298fa3a.jpg",
+        "https://telegra.ph/file/c6d5bec9ece2135e60070.jpg",
+        "https://telegra.ph/file/5f880a069d05d1493e965.jpg",
+        "https://telegra.ph/file/124aea214140e1a5da5ae.jpg",
+        "https://telegra.ph/file/b03a25390c22d344978ad.jpg",
+        "https://telegra.ph/file/744c6e6bd7ac448074768.jpg",
+        "https://telegra.ph/file/0c3bfb7be2fb3e06aa3a8.jpg",
+        "https://telegra.ph/file/e370d5b6d4101a558b85e.jpg",
+        "https://telegra.ph/file/3a82e0973e29445b1dfac.jpg",
+        "https://telegra.ph/file/e0b23bb33d504b8f3f36b.jpg",
+        "https://telegra.ph/file/5b255a3e83c6a7d58c606.jpg",
+        "https://telegra.ph/file/789baed9408bec4f1ee0d.jpg",
+        "https://telegra.ph/file/0b7ecbcf81a50df3a677b.jpg",
+        "https://telegra.ph/file/4d5f2f070beaf75f3b30f.jpg",
+        "https://telegra.ph/file/194f6ed957182f591f94b.jpg",
+        "https://telegra.ph/file/0dd11d49ca9b7370866f8.jpg",
+        "https://telegra.ph/file/e78cd67ad6ccbc7619208.jpg"
+    ]
+};

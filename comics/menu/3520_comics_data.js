@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3520,
+    "title": "[桃吹リオ] 深淵への誘い (COMIC阿吽 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/桃吹リオ-深淵への誘い-COMIC阿吽-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f715e57e61fcacb4b3465.jpg",
+        "https://telegra.ph/file/8e6911e9f88f6202fde05.jpg",
+        "https://telegra.ph/file/1a5e80734158f229c263f.jpg",
+        "https://telegra.ph/file/07515136e91fdeaacbe99.jpg",
+        "https://telegra.ph/file/0e868771fc5af93616e74.jpg",
+        "https://telegra.ph/file/055b760596532666b678b.jpg",
+        "https://telegra.ph/file/2d91cb25b128a900cd4a1.jpg",
+        "https://telegra.ph/file/5f2747577cdd16ea683af.jpg",
+        "https://telegra.ph/file/20172b6bc4eee1ae151fb.jpg",
+        "https://telegra.ph/file/14a3de51037788d85abc5.jpg",
+        "https://telegra.ph/file/a0fbf735e14ac2c7236de.jpg",
+        "https://telegra.ph/file/9e7dc1ac5d06f1b0ffd2d.jpg",
+        "https://telegra.ph/file/a552d2784cceebd93685c.jpg",
+        "https://telegra.ph/file/9f8a13b2bea07db4aad5e.jpg",
+        "https://telegra.ph/file/3c8d60b7cdd78d933cfab.jpg",
+        "https://telegra.ph/file/f1d5dfc82063263cd9978.jpg",
+        "https://telegra.ph/file/a65332a323f2e390e9a2d.jpg",
+        "https://telegra.ph/file/cfe8d77b2f5c324276e55.jpg",
+        "https://telegra.ph/file/aacf4ea1d5777f4d6b36a.jpg",
+        "https://telegra.ph/file/1c69ddc19bc43cb6a18a6.jpg",
+        "https://telegra.ph/file/5698f459e41084604f1eb.jpg",
+        "https://telegra.ph/file/de77185bc5bb005725ceb.jpg",
+        "https://telegra.ph/file/50e5e8b61e6ce490658d4.jpg",
+        "https://telegra.ph/file/44919ce86467fcf1a463c.jpg",
+        "https://telegra.ph/file/237cb63a83030be26c6e9.jpg",
+        "https://telegra.ph/file/67d75f2e25434085c55ff.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6536,
+    "title": "リン子イキマス!! (ガンダムビルドファイターズ)",
+    "sourceUrl": "https://telegra.ph/リン子イキマス-ガンダムビルドファイターズ-08-31",
+    "images": [
+        "https://telegra.ph/file/01ac87b2da28cf748160f.jpg",
+        "https://telegra.ph/file/e7e2d799c8046eb504b09.jpg",
+        "https://telegra.ph/file/4cbcbe58594538e9a3ece.jpg",
+        "https://telegra.ph/file/d5dd047f339f6a405e1ed.jpg",
+        "https://telegra.ph/file/29907e116252f10eddf1c.jpg",
+        "https://telegra.ph/file/c8c079951bf216faa899e.jpg",
+        "https://telegra.ph/file/8decc74dd7c15324ead54.jpg",
+        "https://telegra.ph/file/a02a3dc869d9c923f2cd1.jpg",
+        "https://telegra.ph/file/2a7f242eca3427c72557c.jpg",
+        "https://telegra.ph/file/02d171b7722f9be99dc00.jpg",
+        "https://telegra.ph/file/e35d7a90d9953b89788f1.jpg",
+        "https://telegra.ph/file/59300fde1e7e5045934bb.jpg",
+        "https://telegra.ph/file/07815a9d84957b404287b.jpg",
+        "https://telegra.ph/file/7238ef7b3761eb7b3918c.jpg",
+        "https://telegra.ph/file/dbcb2b28cf3a40b17ce4f.jpg",
+        "https://telegra.ph/file/bbc5689e810b7bfbf6cc8.jpg",
+        "https://telegra.ph/file/74f184025be6f613b7b85.jpg",
+        "https://telegra.ph/file/0f64f69478263d177b0cf.jpg",
+        "https://telegra.ph/file/1db0324df6ffdd3ed3300.jpg",
+        "https://telegra.ph/file/796bf50bbfdf3e60bff91.jpg",
+        "https://telegra.ph/file/928cd88348607f1b79443.jpg",
+        "https://telegra.ph/file/c2837005a2adabc210728.jpg",
+        "https://telegra.ph/file/077896658b55322293138.jpg",
+        "https://telegra.ph/file/316f8dd048807e7aa09c5.jpg"
+    ]
+};

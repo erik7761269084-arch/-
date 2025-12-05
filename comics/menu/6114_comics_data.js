@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6114,
+    "title": "[はるきち] 二人の距離",
+    "sourceUrl": "https://telegra.ph/はるきち-二人の距離-08-31",
+    "images": [
+        "https://telegra.ph/file/64fe907d547590d03b6c9.jpg",
+        "https://telegra.ph/file/76400871e5ea7ac2afc0c.jpg",
+        "https://telegra.ph/file/c1b8a19896fb163322599.jpg",
+        "https://telegra.ph/file/f9daf51af5c79a42464db.jpg",
+        "https://telegra.ph/file/09501dc63f857746c0988.jpg",
+        "https://telegra.ph/file/b06e6bf77f51ff13cd1cd.jpg",
+        "https://telegra.ph/file/244053a9e05992396e6ad.jpg",
+        "https://telegra.ph/file/93409d11f60796b7a8393.jpg",
+        "https://telegra.ph/file/eb086960592a6c08aadb2.jpg",
+        "https://telegra.ph/file/ddcc8a6fede630b873554.jpg",
+        "https://telegra.ph/file/7b423afb23ac066de803e.jpg",
+        "https://telegra.ph/file/56cd393880f033f6582e8.jpg",
+        "https://telegra.ph/file/8572be796051152bb2c6b.jpg",
+        "https://telegra.ph/file/6b924af6e60f30b43935e.jpg",
+        "https://telegra.ph/file/be67bf6162a004d78fc26.jpg",
+        "https://telegra.ph/file/1faa0a84ecaa7836191f3.jpg",
+        "https://telegra.ph/file/a93eb9367c92f2b70724b.jpg",
+        "https://telegra.ph/file/780517458cb7d75267e28.jpg",
+        "https://telegra.ph/file/b2954ff166592647b68b3.jpg",
+        "https://telegra.ph/file/e0aa71276b59ed3874b22.jpg",
+        "https://telegra.ph/file/abbd4405dbee78ef48abf.jpg",
+        "https://telegra.ph/file/ebcace4db7fe5a4f9471b.jpg",
+        "https://telegra.ph/file/309000944f428b4f527d2.jpg",
+        "https://telegra.ph/file/46d7a83e619ed67e7cb5a.jpg"
+    ]
+};

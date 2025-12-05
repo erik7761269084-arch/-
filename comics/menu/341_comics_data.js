@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 341,
+    "title": "[スミヤ] おさがりセックスフレンド (COMIC 快楽天 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/スミヤ-おさがりセックスフレンド-COMIC-快楽天-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/6595f8788017b15963237.jpg",
+        "https://telegra.ph/file/6312a1c795ad7ad859090.jpg",
+        "https://telegra.ph/file/1810a0b790d001d6e4f7e.jpg",
+        "https://telegra.ph/file/85f1f02e1293f4720f21d.jpg",
+        "https://telegra.ph/file/8c11ad6fa06b3b8277074.jpg",
+        "https://telegra.ph/file/bc80bddad54bc1374ce5f.jpg",
+        "https://telegra.ph/file/0ad74e8d03095dd54e9f6.jpg",
+        "https://telegra.ph/file/4cc31365d90d6ad180eff.jpg",
+        "https://telegra.ph/file/2ccd478f3f1c9aabd28b2.jpg",
+        "https://telegra.ph/file/baed8e43c1fa4acaf1483.jpg",
+        "https://telegra.ph/file/62cda1e6719b5c7bbe90f.jpg",
+        "https://telegra.ph/file/829877fd9a0b0e76c7e91.jpg",
+        "https://telegra.ph/file/08ac431436a099da912e3.jpg",
+        "https://telegra.ph/file/caaffc82881b135f3d924.jpg",
+        "https://telegra.ph/file/ab8ee99641296325dbd53.jpg",
+        "https://telegra.ph/file/56e1fbafe8991e1162d99.jpg",
+        "https://telegra.ph/file/d5c3f9c0755b30f668b1b.jpg",
+        "https://telegra.ph/file/a621ca4bd404effeda3fc.jpg",
+        "https://telegra.ph/file/e37bd01b1cd92eb233813.jpg",
+        "https://telegra.ph/file/00cb5ce1b98da893aa72a.jpg",
+        "https://telegra.ph/file/5cff232500255defc2cca.jpg",
+        "https://telegra.ph/file/6ce34029fc3174d5103b4.jpg",
+        "https://telegra.ph/file/15176377d3585e6be795c.jpg",
+        "https://telegra.ph/file/27d6aff80ca4b50191e5e.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6366,
+    "title": "[腹痛起こす (悔王)] おくすりおねえさん (東方Project)",
+    "sourceUrl": "https://telegra.ph/腹痛起こす-悔王-おくすりおねえさん-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/7926e61dd212f455098bd.jpg",
+        "https://telegra.ph/file/f5987cb5acee01ceed204.jpg",
+        "https://telegra.ph/file/f51e24c6226abb07e1a00.jpg",
+        "https://telegra.ph/file/2d6b56e05e031a045a493.jpg",
+        "https://telegra.ph/file/12c3b5ccb478e9f213767.jpg",
+        "https://telegra.ph/file/b14a246b5ed000cb089d9.jpg",
+        "https://telegra.ph/file/7093c1d1f9a66ababf862.jpg",
+        "https://telegra.ph/file/5eb84c2bec8b028b4e82a.jpg",
+        "https://telegra.ph/file/bb223d0d3e666b4ab9aa2.jpg",
+        "https://telegra.ph/file/4cb48b0aa9202f8c86e98.jpg",
+        "https://telegra.ph/file/f54e5c5ea84e6e3863f04.jpg",
+        "https://telegra.ph/file/12536d3dc938e3c118b89.jpg",
+        "https://telegra.ph/file/90b4629cef0f2fa44dca0.jpg",
+        "https://telegra.ph/file/b80e1d4ca3e6acb9f0c46.jpg",
+        "https://telegra.ph/file/149caa1f0e52c03df452b.jpg",
+        "https://telegra.ph/file/853f82c84acbfa14755c3.jpg",
+        "https://telegra.ph/file/56baa4ae47b0546c56980.jpg",
+        "https://telegra.ph/file/8c57819968108e3ab1b95.jpg",
+        "https://telegra.ph/file/27cb2313c9c1e86ebfc6a.jpg",
+        "https://telegra.ph/file/753975db085755a2019f2.jpg",
+        "https://telegra.ph/file/87c0bcb07a430158bb0dc.jpg",
+        "https://telegra.ph/file/97508abd6334a3bff3ce7.jpg",
+        "https://telegra.ph/file/5a90cc24ff987adcf4589.jpg",
+        "https://telegra.ph/file/e1a004233e1d4e9c823fe.jpg"
+    ]
+};

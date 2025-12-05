@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1207,
+    "title": "(C96) [禍葬現実 (支倉ノイズ)] 孕殖龍魚 (東方Project)",
+    "sourceUrl": "https://telegra.ph/C96-禍葬現実-支倉ノイズ-孕殖龍魚-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/8cf26160d663476d99b82.jpg",
+        "https://telegra.ph/file/eced54d936949c3a2063a.jpg",
+        "https://telegra.ph/file/f2a59b541386c78103e1c.jpg",
+        "https://telegra.ph/file/31eb997ace4e446dbb5ae.jpg",
+        "https://telegra.ph/file/1be802adcaae27da24f8d.jpg",
+        "https://telegra.ph/file/a0ee519fbb054f947b303.jpg",
+        "https://telegra.ph/file/c66670172b902eaf77d89.jpg",
+        "https://telegra.ph/file/f356840b996541c8b07db.jpg",
+        "https://telegra.ph/file/45578e86923cea9d3d2c8.jpg",
+        "https://telegra.ph/file/d8767b01b42528ee4eea9.jpg",
+        "https://telegra.ph/file/bbd3e3200ca7156382de9.jpg",
+        "https://telegra.ph/file/38ee2744e0b78c86ab5c4.jpg",
+        "https://telegra.ph/file/2a94914951247a59480a3.jpg",
+        "https://telegra.ph/file/8f047d3e88d7bc857e4e5.jpg",
+        "https://telegra.ph/file/ef4bfaf77dc0421dedf0d.jpg",
+        "https://telegra.ph/file/3cd37ee1190007f64e106.jpg",
+        "https://telegra.ph/file/7ffba935b26de93abd025.jpg",
+        "https://telegra.ph/file/c186ed397f4b098bf8961.jpg",
+        "https://telegra.ph/file/f1937fec3f5f1391cfaa6.jpg",
+        "https://telegra.ph/file/e19749171e9447e58402b.jpg",
+        "https://telegra.ph/file/d1e04fbc8d265092bc9cc.jpg",
+        "https://telegra.ph/file/d383c8ed27c9b7dfc3260.jpg",
+        "https://telegra.ph/file/f3593b15355ad20ae58e8.jpg"
+    ]
+};

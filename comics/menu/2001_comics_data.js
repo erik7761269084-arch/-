@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2001,
+    "title": "(ぷにケット39) [WICKED HEART (ZooTAN)] 宇宙人のひみつ (スター☆トゥインクルプリキュア)",
+    "sourceUrl": "https://telegra.ph/ぷにケット39-WICKED-HEART-ZooTAN-宇宙人のひみつ-スタートゥインクルプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/0454d5e089927e02dc782.jpg",
+        "https://telegra.ph/file/0e1d46d8278a3db62b50b.jpg",
+        "https://telegra.ph/file/fe2ded2bd34826f681235.jpg",
+        "https://telegra.ph/file/91686c6b4884c6e5b6a21.jpg",
+        "https://telegra.ph/file/986d7f659f64cb4a66a5d.jpg",
+        "https://telegra.ph/file/068727fd57439aa27850e.jpg",
+        "https://telegra.ph/file/0c731b0bce5c14eb66a73.jpg",
+        "https://telegra.ph/file/c31163e636fcfb2137fb4.jpg",
+        "https://telegra.ph/file/30b7ddb82e1a9e8b9de1d.jpg",
+        "https://telegra.ph/file/be0eada9b0c7c1e0c063b.jpg",
+        "https://telegra.ph/file/78f76b70b9a551b957aa8.jpg",
+        "https://telegra.ph/file/160e883dc47e4eeb5fbb2.jpg",
+        "https://telegra.ph/file/35dff1f58a13c64ddbf08.jpg",
+        "https://telegra.ph/file/885ab839b3da94bdb89d6.jpg",
+        "https://telegra.ph/file/1f2baac05b61eac8b31a4.jpg",
+        "https://telegra.ph/file/873a32291b6ccf4185379.jpg",
+        "https://telegra.ph/file/d142370c98558f17cade9.jpg",
+        "https://telegra.ph/file/734f859814196c0d5738e.jpg",
+        "https://telegra.ph/file/72dd67c49a91648f2695e.jpg",
+        "https://telegra.ph/file/e64bf7d8bafe2e75afb55.jpg",
+        "https://telegra.ph/file/7055750fb84b009c3da27.jpg",
+        "https://telegra.ph/file/51651c6db909afa3cca42.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg",
+        "https://telegra.ph/file/b6dfabed6c4f7df7e4afe.jpg"
+    ]
+};

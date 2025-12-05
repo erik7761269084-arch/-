@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6096,
+    "title": "[sugarBt] 教えて！コーチ",
+    "sourceUrl": "https://telegra.ph/sugarBt-教えてコーチ-08-31",
+    "images": [
+        "https://telegra.ph/file/44d5ae8ba610477e01c16.jpg",
+        "https://telegra.ph/file/0c5d659dac29391f9654f.jpg",
+        "https://telegra.ph/file/e103f5c9e95ed9a8948f1.jpg",
+        "https://telegra.ph/file/a2a2e0935f5ef8dd25622.jpg",
+        "https://telegra.ph/file/a8d15c250425c80fda29c.jpg",
+        "https://telegra.ph/file/d0e5a7c69483ec062807f.jpg",
+        "https://telegra.ph/file/390755dc743e9dd9fc54a.jpg",
+        "https://telegra.ph/file/7aac02190d39b13d373a8.jpg",
+        "https://telegra.ph/file/5ac83df73566865d50880.jpg",
+        "https://telegra.ph/file/364cbce69ba8338c98c61.jpg",
+        "https://telegra.ph/file/8d38958aa83573a971a26.jpg",
+        "https://telegra.ph/file/a32471e9c5e36c8116b3f.jpg",
+        "https://telegra.ph/file/59b4e72ead14ee4a7b703.jpg",
+        "https://telegra.ph/file/c81b361ee9a2701f661c6.jpg",
+        "https://telegra.ph/file/f2c63aaf757f90b44bef0.jpg",
+        "https://telegra.ph/file/af6a587d85150ccb69637.jpg",
+        "https://telegra.ph/file/54e2e3802ae5735ee060e.jpg",
+        "https://telegra.ph/file/c36fd3a721555376b179b.jpg",
+        "https://telegra.ph/file/0e4ce723ad9c9762dae5f.jpg",
+        "https://telegra.ph/file/51c92a6ab38f35a9c7880.jpg",
+        "https://telegra.ph/file/5a21d149d1df27f397ced.jpg",
+        "https://telegra.ph/file/1086d6f2360cc2eca66fe.jpg",
+        "https://telegra.ph/file/c856f87056213d95fb209.jpg",
+        "https://telegra.ph/file/3c5a9f6b4a57525f3cde5.jpg"
+    ]
+};

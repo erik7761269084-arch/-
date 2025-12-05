@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7300,
+    "title": "天使と悪魔",
+    "sourceUrl": "https://telegra.ph/天使と悪魔-08-31",
+    "images": [
+        "https://telegra.ph/file/42cb0f0e395280ebb9e0f.jpg",
+        "https://telegra.ph/file/45f03cdcf8a65d4d941d5.jpg",
+        "https://telegra.ph/file/abae8b3ec53209be7038e.jpg",
+        "https://telegra.ph/file/cf87dcfa2a28918ab68ad.jpg",
+        "https://telegra.ph/file/72eac0bc5a5da8b585e61.jpg",
+        "https://telegra.ph/file/990354ac753f18dae7990.jpg",
+        "https://telegra.ph/file/aa9c499d70925d2e93852.jpg",
+        "https://telegra.ph/file/d2f1551350c318dc269d2.jpg",
+        "https://telegra.ph/file/88ac354cf5e07bf795b1d.jpg",
+        "https://telegra.ph/file/2a0f9b35a7ccaea1f2f88.jpg",
+        "https://telegra.ph/file/51e5bcafb155a6cce8811.jpg",
+        "https://telegra.ph/file/5690956b7cb0ffd52c83d.jpg",
+        "https://telegra.ph/file/111c7b4e39989ea14d6b7.jpg",
+        "https://telegra.ph/file/b6969342c0da2919e35f0.jpg",
+        "https://telegra.ph/file/f8d5b2172be50ca5b9837.jpg",
+        "https://telegra.ph/file/b75524c583bfb12338306.jpg",
+        "https://telegra.ph/file/7d0ebd90670490c53d3f9.jpg",
+        "https://telegra.ph/file/3aa34ae6311bd2a1ac76c.jpg",
+        "https://telegra.ph/file/0bddfd055928c6fe8096c.jpg",
+        "https://telegra.ph/file/9f0e50f2a18521519273e.jpg",
+        "https://telegra.ph/file/3b2826bd49b0fbe12e41f.jpg",
+        "https://telegra.ph/file/54ed7ebfd11300baa314e.jpg",
+        "https://telegra.ph/file/df0d1566bde6c90b00178.jpg",
+        "https://telegra.ph/file/9fa6bb087414eb5b2a21f.jpg"
+    ]
+};

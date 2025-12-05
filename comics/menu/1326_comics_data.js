@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1326,
+    "title": "[とらのえのまきもの (トラノエ)] 月川ちりと婚前旅行 二隠 (プリパラ)",
+    "sourceUrl": "https://telegra.ph/とらのえのまきもの-トラノエ-月川ちりと婚前旅行-二隠-プリパラ-08-31",
+    "images": [
+        "https://telegra.ph/file/f2886cb9db754b3745df6.jpg",
+        "https://telegra.ph/file/7703c96c2bdec67710102.jpg",
+        "https://telegra.ph/file/5dc087d43a0881334a95a.jpg",
+        "https://telegra.ph/file/bd4acf13dc3a14f8aac4e.jpg",
+        "https://telegra.ph/file/d36012c4a61e44c05e6fe.jpg",
+        "https://telegra.ph/file/08d27add89ec24c3c89dd.jpg",
+        "https://telegra.ph/file/0fab33dee9ce1619a684f.jpg",
+        "https://telegra.ph/file/522c1f70895fc35f6696a.jpg",
+        "https://telegra.ph/file/c2b3a345a790dfbe9c622.jpg",
+        "https://telegra.ph/file/04082d9ad63fc5851e95e.jpg",
+        "https://telegra.ph/file/9906dc15c828e02065e26.jpg",
+        "https://telegra.ph/file/c848a805c5646824ffb11.jpg",
+        "https://telegra.ph/file/8f6fc7e0879303581f7e7.jpg",
+        "https://telegra.ph/file/7582ee841f223d0a0d730.jpg",
+        "https://telegra.ph/file/60a13e38bf8d4492bc5cb.jpg",
+        "https://telegra.ph/file/e1be18d871d8f2a00a606.jpg",
+        "https://telegra.ph/file/da6977c3e4adeefa80d70.jpg",
+        "https://telegra.ph/file/2e9f5164d782ff9d4896b.jpg",
+        "https://telegra.ph/file/edf8f88a958fc47dafe57.jpg",
+        "https://telegra.ph/file/d7a0458adf8a68fad880b.jpg",
+        "https://telegra.ph/file/499933a63de2f091494ae.jpg",
+        "https://telegra.ph/file/c8998fbc6a2036fc46080.jpg",
+        "https://telegra.ph/file/df06411db051877ba0ce0.jpg",
+        "https://telegra.ph/file/65359760d704a787a717b.jpg",
+        "https://telegra.ph/file/b4255a7b428cb81f0b414.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

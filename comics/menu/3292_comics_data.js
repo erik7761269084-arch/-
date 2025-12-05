@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3292,
+    "title": "(C91) [8cm (8000)] 清霜のいちばん長い夜 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C91-8cm-8000-清霜のいちばん長い夜-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/11635e6d46c1a89b56955.jpg",
+        "https://telegra.ph/file/d041366a685481d0b5a74.jpg",
+        "https://telegra.ph/file/39a4b2b2f7cc76f2da494.jpg",
+        "https://telegra.ph/file/813af0837b3378030ddeb.jpg",
+        "https://telegra.ph/file/e8a6e5ba1f63ed723dce5.jpg",
+        "https://telegra.ph/file/7f74d990ba5150d0ff1db.jpg",
+        "https://telegra.ph/file/598e002ce41dcd95e7a8b.jpg",
+        "https://telegra.ph/file/a40d6baa654d29b5ac3d9.jpg",
+        "https://telegra.ph/file/324bea3edc4ae9df7eaff.jpg",
+        "https://telegra.ph/file/5f3c2c791979fef100392.jpg",
+        "https://telegra.ph/file/db736110058df16a68c0a.jpg",
+        "https://telegra.ph/file/b8c61b45acbd012583f05.jpg",
+        "https://telegra.ph/file/9903529a8b3b646d84566.jpg",
+        "https://telegra.ph/file/1d7024f8dcb0592844e18.jpg",
+        "https://telegra.ph/file/81d4f5daf4e151a795b03.jpg",
+        "https://telegra.ph/file/93d197875a956a51916cc.jpg",
+        "https://telegra.ph/file/d9cd1d1297a7b8dc70b93.jpg",
+        "https://telegra.ph/file/03806648d176269be95f9.jpg",
+        "https://telegra.ph/file/f5dc04f79ea19128e65c5.jpg",
+        "https://telegra.ph/file/3801f26ef0becef8b2b25.jpg",
+        "https://telegra.ph/file/7ad1ac6d8f1b7d72c9b2e.jpg",
+        "https://telegra.ph/file/d08170d2b85b853c40c00.jpg",
+        "https://telegra.ph/file/45f7d853614635e8e50ad.jpg",
+        "https://telegra.ph/file/250a26090cdb12eac3373.jpg",
+        "https://telegra.ph/file/719779e2def3bb1591265.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1703,
+    "title": "[ジロウ] 続・催眠上司 (COMIC オルガ vol.26)",
+    "sourceUrl": "https://telegra.ph/ジロウ-続催眠上司-COMIC-オルガ-vol26-08-31",
+    "images": [
+        "https://telegra.ph/file/7bda8c5fcd89f701fea92.jpg",
+        "https://telegra.ph/file/e7e1ea7b17150052fcdd2.jpg",
+        "https://telegra.ph/file/ce37b3887c9e50004ed57.jpg",
+        "https://telegra.ph/file/4ba3d7e3ad56a7453cfba.jpg",
+        "https://telegra.ph/file/ccbbf4d203fef0d3d9136.jpg",
+        "https://telegra.ph/file/31507cc34b5125bb84733.jpg",
+        "https://telegra.ph/file/d99aba0fedf1950c65cfb.jpg",
+        "https://telegra.ph/file/d20e62af014412842d6b1.jpg",
+        "https://telegra.ph/file/28e5708ea77944d201a72.jpg",
+        "https://telegra.ph/file/d9661df5250f2a6f39b6d.jpg",
+        "https://telegra.ph/file/8e484950bc09d0b017ab1.jpg",
+        "https://telegra.ph/file/b8e7408578aa693dc8e63.jpg",
+        "https://telegra.ph/file/78695467ac8755f537c8a.jpg",
+        "https://telegra.ph/file/da8b972e6a29bb982175b.jpg",
+        "https://telegra.ph/file/905fa4f406321fe9c641a.jpg",
+        "https://telegra.ph/file/b65d5b94433a98311be84.jpg",
+        "https://telegra.ph/file/0542b966af05769205e83.jpg",
+        "https://telegra.ph/file/6ea8212993be648e55c61.jpg",
+        "https://telegra.ph/file/1398cd449ea8482709799.jpg",
+        "https://telegra.ph/file/c3878e09482c7431cc10a.jpg",
+        "https://telegra.ph/file/5164e331408d6606630ed.jpg",
+        "https://telegra.ph/file/7df217b07db274fbbb6ac.jpg",
+        "https://telegra.ph/file/2ca7d15e734e149002dc8.jpg",
+        "https://telegra.ph/file/11f55fecf2465c56b25a1.jpg",
+        "https://telegra.ph/file/b8477cc96b3cabf42a9d9.jpg"
+    ]
+};

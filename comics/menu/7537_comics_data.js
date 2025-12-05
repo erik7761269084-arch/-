@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7537,
+    "title": "キミとリトライ",
+    "sourceUrl": "https://telegra.ph/キミとリトライ-08-31",
+    "images": [
+        "https://telegra.ph/file/69eb1acea1972cfdaf0cd.png",
+        "https://telegra.ph/file/2845138a5dc8f8d597d11.png",
+        "https://telegra.ph/file/1d79ed4723c83dc6210f6.png",
+        "https://telegra.ph/file/31b1fda16f93234ceb4c4.png",
+        "https://telegra.ph/file/15bd1ef768072b31ca1a8.png",
+        "https://telegra.ph/file/fe3c9717be34f63fac307.png",
+        "https://telegra.ph/file/426d2b59cccf3ffe89a0b.png",
+        "https://telegra.ph/file/f630ca2ef49e3aa2e5f09.png",
+        "https://telegra.ph/file/b7f5e2086bfe510183c0f.png",
+        "https://telegra.ph/file/ba7f5ff2fc184ecec704b.png",
+        "https://telegra.ph/file/bb63d2bee7fbc2d973a3c.png",
+        "https://telegra.ph/file/bf711659bacec61cac4ff.png",
+        "https://telegra.ph/file/af9287f914ab657afff1a.png",
+        "https://telegra.ph/file/1cc5926921cf38b22a475.png",
+        "https://telegra.ph/file/5ae12f73cb591fb7bad1c.png",
+        "https://telegra.ph/file/5a867dd0e96e58dab7515.png",
+        "https://telegra.ph/file/9122acc7ed33f87d11de9.png",
+        "https://telegra.ph/file/2b64cd9aa146e386fee0e.png",
+        "https://telegra.ph/file/01673eec454568bec97f2.png",
+        "https://telegra.ph/file/ffab2167e5e099a621115.png",
+        "https://telegra.ph/file/82f98d44f94ac55b62fa0.png",
+        "https://telegra.ph/file/895c209965f5284f8cfb8.png",
+        "https://telegra.ph/file/7460b1f6c8a00652ac9d1.png",
+        "https://telegra.ph/file/f9ec7fd39b02c3728a6aa.png"
+    ]
+};

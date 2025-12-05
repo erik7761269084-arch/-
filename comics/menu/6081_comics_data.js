@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6081,
+    "title": "[彦馬ヒロユキ] パパのとちがうっ",
+    "sourceUrl": "https://telegra.ph/彦馬ヒロユキ-パパのとちがうっ-08-31",
+    "images": [
+        "https://telegra.ph/file/43b450adc05406315af42.jpg",
+        "https://telegra.ph/file/a5a23220f0de47d450743.jpg",
+        "https://telegra.ph/file/fa77468d9b724d4db8d4b.jpg",
+        "https://telegra.ph/file/b386c08bea339ba3a8767.jpg",
+        "https://telegra.ph/file/4f1e1d152aa7577035dc8.jpg",
+        "https://telegra.ph/file/57fe700a14391e7d55db8.jpg",
+        "https://telegra.ph/file/1ecf3e40f17fab84a2dc1.jpg",
+        "https://telegra.ph/file/8b29a745db573e7918be6.jpg",
+        "https://telegra.ph/file/6c947324f034ceaae4a74.jpg",
+        "https://telegra.ph/file/03d7b2b59c0fc82ab657b.jpg",
+        "https://telegra.ph/file/5f6d961ec7ebb650f7938.jpg",
+        "https://telegra.ph/file/79064e08265bff82abc59.jpg",
+        "https://telegra.ph/file/5268d71c4fa61a72c3601.jpg",
+        "https://telegra.ph/file/2adf1637f3e9fa216a26d.jpg",
+        "https://telegra.ph/file/6daef4344b78514585947.jpg",
+        "https://telegra.ph/file/c00a160466700a95d0615.jpg",
+        "https://telegra.ph/file/7cffd87183b5b3492879e.jpg",
+        "https://telegra.ph/file/d83953c9688ced8a488c9.jpg",
+        "https://telegra.ph/file/53475520fce2f6146713e.jpg",
+        "https://telegra.ph/file/11f49c0a1fdaef4da50dc.jpg",
+        "https://telegra.ph/file/a779b96470c16939ca138.jpg",
+        "https://telegra.ph/file/2afa41babf1848b9491a4.jpg",
+        "https://telegra.ph/file/2af2532043ccc0ce52e7e.jpg",
+        "https://telegra.ph/file/66053d85e46b801653786.jpg"
+    ]
+};

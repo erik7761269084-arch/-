@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 187,
+    "title": "[いわお] ギャルビッチあなるちゃんと援交おじさん といろいろ（Chinese）",
+    "sourceUrl": "https://telegra.ph/いわお-ギャルビッチあなるちゃんと援交おじさん-といろいろChinese-08-31",
+    "images": [
+        "https://telegra.ph/file/9796c7af562f506288555.jpg",
+        "https://telegra.ph/file/12aa1c2d4c8ffd672c5dc.jpg",
+        "https://telegra.ph/file/52272c2e0b6b1479b3822.jpg",
+        "https://telegra.ph/file/9298c1e32bde9b229c024.jpg",
+        "https://telegra.ph/file/af172133bfd8f56a92bbb.jpg",
+        "https://telegra.ph/file/3f60e08a2c4a55e0122a9.jpg",
+        "https://telegra.ph/file/88c1f44170ee52b1d2dc6.jpg",
+        "https://telegra.ph/file/ba4090e07456197e672fd.jpg",
+        "https://telegra.ph/file/bcf2ebb2b6e29f10694ff.jpg",
+        "https://telegra.ph/file/126b9a16d4727806779b4.jpg",
+        "https://telegra.ph/file/cdd68cde8dc96fcdcfbae.jpg",
+        "https://telegra.ph/file/c419128434e4b9db9cd45.jpg",
+        "https://telegra.ph/file/68c28e591c6e9a32f8bc3.jpg",
+        "https://telegra.ph/file/40895fa869d938c5955d8.jpg",
+        "https://telegra.ph/file/3198c6fdbfdf1e90209af.jpg",
+        "https://telegra.ph/file/0f4d235b5008f04cfbd09.jpg",
+        "https://telegra.ph/file/c1908df53791283fe100a.jpg",
+        "https://telegra.ph/file/e857719f2a6a7e3eb38b2.jpg",
+        "https://telegra.ph/file/b1ce750dc891009146cb4.jpg",
+        "https://telegra.ph/file/ad96fb7af3c33d3756397.jpg",
+        "https://telegra.ph/file/6810ae0bb10adfb0ced66.jpg",
+        "https://telegra.ph/file/434618de0893e3ddf6e6f.jpg",
+        "https://telegra.ph/file/be1e191e39344ee424959.jpg",
+        "https://telegra.ph/file/9e10bec643a8afb177856.jpg",
+        "https://telegra.ph/file/b723082d818acd2eba4fe.jpg",
+        "https://telegra.ph/file/db5936feb2ce4e95650f4.gif"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6859,
+    "title": "ぬばたまの夢",
+    "sourceUrl": "https://telegra.ph/ぬばたまの夢-08-31",
+    "images": [
+        "https://telegra.ph/file/9f6371bbe828bd87a8462.jpg",
+        "https://telegra.ph/file/42e02b67a50cdfb8b14e5.jpg",
+        "https://telegra.ph/file/a7777d4672887159aa1a2.jpg",
+        "https://telegra.ph/file/1badd854affd006eb4475.jpg",
+        "https://telegra.ph/file/e069731cea7e60fe90167.jpg",
+        "https://telegra.ph/file/a2fd9647a56666832bcd5.jpg",
+        "https://telegra.ph/file/245f775e17a642ec70564.jpg",
+        "https://telegra.ph/file/5f174ebc02045d80fd435.jpg",
+        "https://telegra.ph/file/ba97015b6b17231540b74.jpg",
+        "https://telegra.ph/file/70df5befcf7e578fe84ce.jpg",
+        "https://telegra.ph/file/9c50eefb5c6d52203e8b9.jpg",
+        "https://telegra.ph/file/526e19a7eaa1d00c6c9e8.jpg",
+        "https://telegra.ph/file/dd582228ecddf466a6bdc.jpg",
+        "https://telegra.ph/file/b84281f877851cc8221c2.jpg",
+        "https://telegra.ph/file/0d9fdec6628d949372ce7.jpg",
+        "https://telegra.ph/file/abb25bccdfb8d460f332a.jpg",
+        "https://telegra.ph/file/91b3a5adc4335bee19020.jpg",
+        "https://telegra.ph/file/2be9139df70dee3289597.jpg",
+        "https://telegra.ph/file/9ad799a35c7dd8a8f44ea.jpg",
+        "https://telegra.ph/file/b3c18df27ba8b769b51e4.jpg",
+        "https://telegra.ph/file/36a1d5391b0453a1ec667.jpg",
+        "https://telegra.ph/file/e47e32532b8d70c90b648.jpg",
+        "https://telegra.ph/file/5c6257442e28c0525a95b.jpg",
+        "https://telegra.ph/file/34083b76745a9265c9ab9.jpg",
+        "https://telegra.ph/file/251b7fe6ba7ea947adfee.jpg",
+        "https://telegra.ph/file/59e9026f4354f72e44f24.jpg"
+    ]
+};

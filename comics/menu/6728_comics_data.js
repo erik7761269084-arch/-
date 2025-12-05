@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6728,
+    "title": "五十鈴育乳日誌 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/五十鈴育乳日誌-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/82de036387e46b0bed86a.jpg",
+        "https://telegra.ph/file/7fb59f8d434e7ef918bc9.jpg",
+        "https://telegra.ph/file/71390900f7eb363794b83.jpg",
+        "https://telegra.ph/file/0b0bc76003943147c05ec.jpg",
+        "https://telegra.ph/file/f16cbb999a2b7c6e5fdbf.jpg",
+        "https://telegra.ph/file/f991bdbd198998e89bdf1.jpg",
+        "https://telegra.ph/file/f9a1edeae261e11997dcd.jpg",
+        "https://telegra.ph/file/f842196af56934122a869.jpg",
+        "https://telegra.ph/file/e7ae285d50ad9070ce9f9.jpg",
+        "https://telegra.ph/file/3a5dc4c48fd9003eb6303.jpg",
+        "https://telegra.ph/file/df7043cedb9e093026484.jpg",
+        "https://telegra.ph/file/5c41d317b27a43af286eb.jpg",
+        "https://telegra.ph/file/fcf77fd63a399eeae1663.jpg",
+        "https://telegra.ph/file/4a93dc1dd73546291571a.jpg",
+        "https://telegra.ph/file/f84c53a119844be3cfd9a.jpg",
+        "https://telegra.ph/file/38a98429f24f075ed5741.jpg",
+        "https://telegra.ph/file/e52bc01a44ed3bcbf1bc7.jpg",
+        "https://telegra.ph/file/63624ee668c369f80b580.jpg",
+        "https://telegra.ph/file/721b77db64e7bbc4a9fd8.jpg",
+        "https://telegra.ph/file/4f948871254c4b44ab216.jpg",
+        "https://telegra.ph/file/3348f49fc5d27709be9d0.jpg",
+        "https://telegra.ph/file/425b6600434c6a26736ca.jpg",
+        "https://telegra.ph/file/59e3d605c81ec915588bc.jpg",
+        "https://telegra.ph/file/29a738a2f60b5dd74b695.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6011,
+    "title": "[みたらし侯成] 騙し会い",
+    "sourceUrl": "https://telegra.ph/みたらし侯成-騙し会い-08-31",
+    "images": [
+        "https://telegra.ph/file/cbaf91dccb7c2e0c4db3e.jpg",
+        "https://telegra.ph/file/3708ad362597ee40169f0.jpg",
+        "https://telegra.ph/file/f4b2d98d122230907976b.jpg",
+        "https://telegra.ph/file/aeee4ad98f48dc790d5e7.jpg",
+        "https://telegra.ph/file/2e9a4dd47fc25144709b3.jpg",
+        "https://telegra.ph/file/c3eedffde4f698bfa989e.jpg",
+        "https://telegra.ph/file/a3d00c773e9888940303e.jpg",
+        "https://telegra.ph/file/dc793c5e464426f6cc849.jpg",
+        "https://telegra.ph/file/c4c44cc7becb555a68dfa.jpg",
+        "https://telegra.ph/file/7f69a0353f681f3ce33e6.jpg",
+        "https://telegra.ph/file/eec65a5c761ccbaac4674.jpg",
+        "https://telegra.ph/file/051a5bd4eb338631845dc.jpg",
+        "https://telegra.ph/file/2b1ff82c464793182bebf.jpg",
+        "https://telegra.ph/file/e0d7df89116e5bde303e1.jpg",
+        "https://telegra.ph/file/f41a55adbe113d34d8bf7.jpg",
+        "https://telegra.ph/file/886460c9d117acbada340.jpg",
+        "https://telegra.ph/file/87a09151abc16a36fe948.jpg",
+        "https://telegra.ph/file/04f6789d206c82781cbe6.jpg",
+        "https://telegra.ph/file/1180c837618fe9841c1d7.jpg",
+        "https://telegra.ph/file/b1a2749fa88b89894f46a.jpg",
+        "https://telegra.ph/file/b6ee637d2ac63330b2265.jpg",
+        "https://telegra.ph/file/2e879738e507b3d801731.jpg",
+        "https://telegra.ph/file/c479e22a2af27d3ed19bd.jpg",
+        "https://telegra.ph/file/1344d5f64a93ef91ca541.jpg"
+    ]
+};

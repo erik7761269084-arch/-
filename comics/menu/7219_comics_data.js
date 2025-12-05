@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7219,
+    "title": "悪魔百禍 〜淫蕩の申し子達",
+    "sourceUrl": "https://telegra.ph/悪魔百禍-淫蕩の申し子達-08-31",
+    "images": [
+        "https://telegra.ph/file/c6fa4996058cf9a6aa9e1.jpg",
+        "https://telegra.ph/file/46a854437302463ffedb7.jpg",
+        "https://telegra.ph/file/6190ce4e2e09af2fbb672.jpg",
+        "https://telegra.ph/file/010328e956f7139932967.jpg",
+        "https://telegra.ph/file/4ca34a626e8cf5de104bd.jpg",
+        "https://telegra.ph/file/f70af6763489055101cc7.jpg",
+        "https://telegra.ph/file/2c6da0a9567656e7d5cac.jpg",
+        "https://telegra.ph/file/60bb88974e9dc4d0d5c1d.jpg",
+        "https://telegra.ph/file/e3dd8ee72dcb1fdd5e3d4.jpg",
+        "https://telegra.ph/file/3dac8fa1025f325c33b56.jpg",
+        "https://telegra.ph/file/0d063d721879fa62f1c4d.jpg",
+        "https://telegra.ph/file/3b7186b7143fe4609370c.jpg",
+        "https://telegra.ph/file/a943ec83a474451dcec3c.jpg",
+        "https://telegra.ph/file/ff9124af9535b7d605f1e.jpg",
+        "https://telegra.ph/file/71ec177c6d41b0ffe8a80.jpg",
+        "https://telegra.ph/file/2518eb7e2c781d62e72f4.jpg",
+        "https://telegra.ph/file/b42d8d91ec9f4a8882448.jpg",
+        "https://telegra.ph/file/95b0549fb49e83c4ea7fb.jpg",
+        "https://telegra.ph/file/5ae5986a1c21abcc5b014.jpg",
+        "https://telegra.ph/file/f4ff25c4bd12dcf1abe80.jpg",
+        "https://telegra.ph/file/506015a4812fdee9dbba5.jpg",
+        "https://telegra.ph/file/139dc4a7f794201f50428.jpg",
+        "https://telegra.ph/file/661319116555d44a642d2.jpg"
+    ]
+};

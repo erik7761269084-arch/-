@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6059,
+    "title": "[幾花にいろ] 秘密",
+    "sourceUrl": "https://telegra.ph/幾花にいろ-秘密-08-31",
+    "images": [
+        "https://telegra.ph/file/ac452ea78b80072d2a03b.jpg",
+        "https://telegra.ph/file/79bc350c0be70a601e0e3.jpg",
+        "https://telegra.ph/file/74b4b817192cce8597e1f.jpg",
+        "https://telegra.ph/file/3bb1af0f758e49f5d9a76.jpg",
+        "https://telegra.ph/file/9e0f50650675481391200.jpg",
+        "https://telegra.ph/file/c261f5dc8ce942b186d4c.jpg",
+        "https://telegra.ph/file/01bb7e3dbcb36400351a2.jpg",
+        "https://telegra.ph/file/9dae7f520540e29328e5e.jpg",
+        "https://telegra.ph/file/daf3af5d5d7676ad64a9e.jpg",
+        "https://telegra.ph/file/cc186c77d821340655a02.jpg",
+        "https://telegra.ph/file/a6453121ff6b8733b4fb6.jpg",
+        "https://telegra.ph/file/c9f39a3aa4a7bcb5be912.jpg",
+        "https://telegra.ph/file/51400d612680d89307a10.jpg",
+        "https://telegra.ph/file/1a5b3080a32164ec657a6.jpg",
+        "https://telegra.ph/file/b90fee12e86de5b8a9e16.jpg",
+        "https://telegra.ph/file/915db49b288bc4c9f7790.jpg",
+        "https://telegra.ph/file/2351ad4f1ed5afe5102d7.jpg",
+        "https://telegra.ph/file/08b17a88f4f78f1a5b99f.jpg",
+        "https://telegra.ph/file/e31f9abd12e47c0d75adc.jpg",
+        "https://telegra.ph/file/0f858f5ef4990a4fa2a82.jpg",
+        "https://telegra.ph/file/65dea18b02b0407de2193.jpg",
+        "https://telegra.ph/file/301168ad9b2bafda52ae8.jpg",
+        "https://telegra.ph/file/bb83c35f408685b59c0ee.jpg",
+        "https://telegra.ph/file/8275ed31c455421c443dd.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6278,
+    "title": "[Touhayami]爸爸看到了!!霞的第一次暨经验♥",
+    "sourceUrl": "https://telegra.ph/Touhayami爸爸看到了霞的第一次暨经验-08-31",
+    "images": [
+        "https://telegra.ph/file/62c75fbbb086a44a4bd08.jpg",
+        "https://telegra.ph/file/68c9189398071a3b50ca8.jpg",
+        "https://telegra.ph/file/4cff7c4db06cd47a72ee5.jpg",
+        "https://telegra.ph/file/7f52f30885c221f0b8a09.jpg",
+        "https://telegra.ph/file/d13c99ac6d49ce143fce3.jpg",
+        "https://telegra.ph/file/22e381b1cc15e464c19a9.jpg",
+        "https://telegra.ph/file/982eee53134595db63a63.jpg",
+        "https://telegra.ph/file/7f6a775a1c6032b6ab3be.jpg",
+        "https://telegra.ph/file/2dbd9ff37a27ae648d661.jpg",
+        "https://telegra.ph/file/bc9fb9440896fcbcd2f61.jpg",
+        "https://telegra.ph/file/69a88d69d506ec0549103.jpg",
+        "https://telegra.ph/file/22ae25b83b01661be5ea1.jpg",
+        "https://telegra.ph/file/3139b6797c870141ffe70.jpg",
+        "https://telegra.ph/file/3df2645a9a2ec52c80a02.jpg",
+        "https://telegra.ph/file/dd4bef02c8905dbec40b3.jpg",
+        "https://telegra.ph/file/904b9db73f4049e2cbebe.jpg",
+        "https://telegra.ph/file/bbdb5817e436fca9d68ec.jpg",
+        "https://telegra.ph/file/bca8dc4e34c4896b76cbb.jpg",
+        "https://telegra.ph/file/55db3b02a5f227aa60466.jpg",
+        "https://telegra.ph/file/6171eb55d60c020aa4202.jpg",
+        "https://telegra.ph/file/f4eebc2492026174340a2.jpg",
+        "https://telegra.ph/file/9e921f5d95398f28fc08a.jpg",
+        "https://telegra.ph/file/e6dc7f3515f17aacf921b.jpg",
+        "https://telegra.ph/file/e596be7eb0c6bfc593a06.jpg"
+    ]
+};

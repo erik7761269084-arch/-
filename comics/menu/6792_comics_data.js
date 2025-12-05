@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6792,
+    "title": "ナデシコヒヨリ #7",
+    "sourceUrl": "https://telegra.ph/ナデシコヒヨリ-7-08-31",
+    "images": [
+        "https://telegra.ph/file/1807c0f781897fe53968c.jpg",
+        "https://telegra.ph/file/a76283ef7a694f0ff49c3.jpg",
+        "https://telegra.ph/file/e30d1b2209035186acd41.jpg",
+        "https://telegra.ph/file/807c8069c9e03bf80e65b.jpg",
+        "https://telegra.ph/file/446410c725ee0fa340387.jpg",
+        "https://telegra.ph/file/799fa65b36a527d5d7d30.jpg",
+        "https://telegra.ph/file/4a741adb1191db9425f25.jpg",
+        "https://telegra.ph/file/9277f8a1fa7699eb04a67.jpg",
+        "https://telegra.ph/file/47ed8f218c4b05dc2040b.jpg",
+        "https://telegra.ph/file/7de085f50050e3669c37d.jpg",
+        "https://telegra.ph/file/039ddb983b68e4bdaf16c.jpg",
+        "https://telegra.ph/file/27ceb005cd7773e6d231d.jpg",
+        "https://telegra.ph/file/49e475abd11b096a447c7.jpg",
+        "https://telegra.ph/file/bff739b3fd36dac997e39.jpg",
+        "https://telegra.ph/file/831c1d49420e8fbd2b3bf.jpg",
+        "https://telegra.ph/file/b637f065f57b36550ec9d.jpg",
+        "https://telegra.ph/file/f8809ca19c5105c3b1237.jpg",
+        "https://telegra.ph/file/5400d05494f476993292f.jpg",
+        "https://telegra.ph/file/87acf4a40dabd63071145.jpg",
+        "https://telegra.ph/file/80977512c8a6ea9982aec.jpg",
+        "https://telegra.ph/file/880943c3dcb65929c0e09.jpg",
+        "https://telegra.ph/file/621afd38de845dfdd9301.jpg",
+        "https://telegra.ph/file/30568d6283dcea2d55a59.jpg"
+    ]
+};

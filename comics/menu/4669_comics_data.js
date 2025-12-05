@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4669,
+    "title": "[ICE] 淫姦オークション 後編 (穢されグラマラス)",
+    "sourceUrl": "https://telegra.ph/ICE-淫姦オークション-後編-穢されグラマラス-08-31",
+    "images": [
+        "https://telegra.ph/file/cfcbddaa8f7819054fea3.jpg",
+        "https://telegra.ph/file/a50ae2b971a9069e28e7a.jpg",
+        "https://telegra.ph/file/405b8907c04f76a00c086.jpg",
+        "https://telegra.ph/file/ca16136ac9bb9e0c88550.jpg",
+        "https://telegra.ph/file/0f3de42ee34de90b09876.jpg",
+        "https://telegra.ph/file/c64f5d4926244159b8c2f.jpg",
+        "https://telegra.ph/file/399bff0c9924d20c97dec.jpg",
+        "https://telegra.ph/file/64f6cae7949e54afe6a22.jpg",
+        "https://telegra.ph/file/bcc48d511687efe9522b3.jpg",
+        "https://telegra.ph/file/dbc14480d300a789c6002.jpg",
+        "https://telegra.ph/file/6984da080bb6e10f753cb.jpg",
+        "https://telegra.ph/file/57204ea52c51488c95670.jpg",
+        "https://telegra.ph/file/e0f51935cfb54804de17d.jpg",
+        "https://telegra.ph/file/d3491f465612f63eb80a0.jpg",
+        "https://telegra.ph/file/10be5be547f7996a18a46.jpg",
+        "https://telegra.ph/file/7293ff970555f1383b89e.jpg",
+        "https://telegra.ph/file/b53063a7d6c2a82a4d6e7.jpg",
+        "https://telegra.ph/file/bed031190299bde3aa286.jpg",
+        "https://telegra.ph/file/58e021c4fa5e5b617bb67.jpg",
+        "https://telegra.ph/file/4334cc9e5638f3588dd1d.jpg",
+        "https://telegra.ph/file/0d01ca07a694a830b6fce.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/33bdabe903e1ca04cc292.jpg"
+    ]
+};

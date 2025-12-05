@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6284,
+    "title": "[折口] オタサーの姫",
+    "sourceUrl": "https://telegra.ph/折口-オタサーの姫-08-31",
+    "images": [
+        "https://telegra.ph/file/874af78b13c1f5957c642.jpg",
+        "https://telegra.ph/file/b50ed5a4ec63421439f14.jpg",
+        "https://telegra.ph/file/fbf43db2475746743135a.jpg",
+        "https://telegra.ph/file/60585a505d8f952e79a8e.jpg",
+        "https://telegra.ph/file/8e1c49d73e1070f573499.jpg",
+        "https://telegra.ph/file/a0ada8e9e534349009e4f.jpg",
+        "https://telegra.ph/file/870f4401801675f92f25c.jpg",
+        "https://telegra.ph/file/d5b52af4cebe8dc6e9a44.jpg",
+        "https://telegra.ph/file/1fbfc2cd60278417e3e96.jpg",
+        "https://telegra.ph/file/c0a71aede1b6df74abae1.jpg",
+        "https://telegra.ph/file/82b6fbb195cabfb54381b.jpg",
+        "https://telegra.ph/file/b382e4a8c04ee337b8fb4.jpg",
+        "https://telegra.ph/file/cc5fba102c5e2201ac1f4.jpg",
+        "https://telegra.ph/file/aa6006f88508a51c2833a.jpg",
+        "https://telegra.ph/file/233a5c965ead00c253c92.jpg",
+        "https://telegra.ph/file/c5294b40e1aa4bb0374b6.jpg",
+        "https://telegra.ph/file/da7da18f6bcf0701b2209.jpg",
+        "https://telegra.ph/file/683cd9555792e5c62ad8c.jpg",
+        "https://telegra.ph/file/e43f642957b5f7f94d5c4.jpg",
+        "https://telegra.ph/file/8ae1686bec967a42b9b6a.jpg",
+        "https://telegra.ph/file/2162107678ffe62abe406.jpg",
+        "https://telegra.ph/file/761ee5ab2d068344dac61.jpg",
+        "https://telegra.ph/file/9711e5da32482a512b847.jpg",
+        "https://telegra.ph/file/5e5b02dfd6c864616107e.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6604,
+    "title": "提督の檻 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/提督の檻-艦隊これくしょん--艦これ-08-31-2",
+    "images": [
+        "https://telegra.ph/file/8f78f12afdb96df6be912.jpg",
+        "https://telegra.ph/file/28a29dac76cfc5575eb32.jpg",
+        "https://telegra.ph/file/c3826364010eb3992f244.jpg",
+        "https://telegra.ph/file/ed00053c9e8ba90414508.jpg",
+        "https://telegra.ph/file/119abc2de85d32ce10c4a.jpg",
+        "https://telegra.ph/file/8ed70241021ae6863d909.jpg",
+        "https://telegra.ph/file/8db0447096240ff6857c7.jpg",
+        "https://telegra.ph/file/a08103d89983a30ba6dd2.jpg",
+        "https://telegra.ph/file/858a01eb72ac29b0d40ca.jpg",
+        "https://telegra.ph/file/eac02474a3ab2d9ff160a.jpg",
+        "https://telegra.ph/file/9ffd6b2b36ac8920a13f1.jpg",
+        "https://telegra.ph/file/84c12b448c361bda68e21.jpg",
+        "https://telegra.ph/file/931b303fca0b5ea367534.jpg",
+        "https://telegra.ph/file/961abd366ac71d1ef015d.jpg",
+        "https://telegra.ph/file/e3cb5a64187d605ed23e7.jpg",
+        "https://telegra.ph/file/9f4c8fe633d08c8e6b476.jpg",
+        "https://telegra.ph/file/4317f34c12adac5b09968.jpg",
+        "https://telegra.ph/file/fd796dcee889b8d8c61da.jpg",
+        "https://telegra.ph/file/dda90d3526ff6fe23fdda.jpg",
+        "https://telegra.ph/file/07ed3bf634535af4cc3b8.jpg",
+        "https://telegra.ph/file/c6195d0062252321a0e80.jpg",
+        "https://telegra.ph/file/e4ac58bcd0c993e98f9e6.jpg",
+        "https://telegra.ph/file/b40232356ff705562e1b7.jpg",
+        "https://telegra.ph/file/e43b6de22cf37c8b1b8ea.jpg"
+    ]
+};

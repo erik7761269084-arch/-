@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3418,
+    "title": "[佐々城九遠] 復讐! ナマイキ幼馴染JK (コミックマショウ 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/佐々城九遠-復讐-ナマイキ幼馴染JK-コミックマショウ-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7ba8a359c41051c5b7224.jpg",
+        "https://telegra.ph/file/abed9e7eba3825941b177.jpg",
+        "https://telegra.ph/file/d07adbfae4b09c3db128c.jpg",
+        "https://telegra.ph/file/f4239b430ac1a57a5a109.jpg",
+        "https://telegra.ph/file/3876ab64e4f1c2ae3021c.jpg",
+        "https://telegra.ph/file/59225a74b3430705e5ed7.jpg",
+        "https://telegra.ph/file/75e5d69eeeff7ba4b1fec.jpg",
+        "https://telegra.ph/file/83c52fd263a169aa4afce.jpg",
+        "https://telegra.ph/file/01368eeea88cbc7073d4f.jpg",
+        "https://telegra.ph/file/560ac508928b145830148.jpg",
+        "https://telegra.ph/file/63bd87b59fde775df021c.jpg",
+        "https://telegra.ph/file/104668c6d7703a7ecae6e.jpg",
+        "https://telegra.ph/file/fb27988ba8f59cd5ec55d.jpg",
+        "https://telegra.ph/file/a1b1a66f40222d7bd1ad8.jpg",
+        "https://telegra.ph/file/11481b68f4aaef021a518.jpg",
+        "https://telegra.ph/file/34a13f992ebbf9ef1f30c.jpg",
+        "https://telegra.ph/file/96ad88d78dea42f338579.jpg",
+        "https://telegra.ph/file/28f48870be3cd343959ce.jpg",
+        "https://telegra.ph/file/d40d5e6bd79cf2874ed66.jpg",
+        "https://telegra.ph/file/6989182b99b63f1967e26.jpg",
+        "https://telegra.ph/file/c9b1d76e9745d598348e7.jpg",
+        "https://telegra.ph/file/5d2b8a05ac64693c54d0a.jpg",
+        "https://telegra.ph/file/46dfff634eb652c9bb83d.jpg",
+        "https://telegra.ph/file/7849cfa1e2723dd4b69df.jpg"
+    ]
+};

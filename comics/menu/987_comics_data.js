@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 987,
+    "title": "[水面ルリ] 僕の彼女を寝取らせてみた",
+    "sourceUrl": "https://telegra.ph/水面ルリ-僕の彼女を寝取らせてみた-08-31",
+    "images": [
+        "https://telegra.ph/file/29af89522d9b4ed74eff0.jpg",
+        "https://telegra.ph/file/764f7438c6804a9353e2c.jpg",
+        "https://telegra.ph/file/497c48464f58123cb2563.jpg",
+        "https://telegra.ph/file/d6a1a05a1bd37e9740da8.jpg",
+        "https://telegra.ph/file/c0005dbfa2e52ea430095.jpg",
+        "https://telegra.ph/file/685bb2212bd5514dc10ad.jpg",
+        "https://telegra.ph/file/32b3e8680df66f5d8d610.jpg",
+        "https://telegra.ph/file/f276a0776d0562ae4e982.jpg",
+        "https://telegra.ph/file/0ce4426cd83df4fdbd711.jpg",
+        "https://telegra.ph/file/9102fe7f1edcd6b9bc800.jpg",
+        "https://telegra.ph/file/32ab3192b12e81d7e3c54.jpg",
+        "https://telegra.ph/file/eaae1a1f7a6407f793d4b.jpg",
+        "https://telegra.ph/file/4f79d3df243853ac113ac.jpg",
+        "https://telegra.ph/file/90a738890851d6c1313cd.jpg",
+        "https://telegra.ph/file/43f116794319c52587c23.jpg",
+        "https://telegra.ph/file/539749db51b3bd0db92e4.jpg",
+        "https://telegra.ph/file/507ad3a5357871a9ab7ed.jpg",
+        "https://telegra.ph/file/c8c1f793859052e569d90.jpg",
+        "https://telegra.ph/file/e535e3d0d83e788dcd992.jpg",
+        "https://telegra.ph/file/20090fa9adb396718ed1c.jpg",
+        "https://telegra.ph/file/7bf0a6101e18f9427ce9b.jpg",
+        "https://telegra.ph/file/8a43eca3bf4c6dd1e739e.jpg",
+        "https://telegra.ph/file/e7374fe4558ff9cf6234f.jpg",
+        "https://telegra.ph/file/04e6df31a8a57d33b41bb.jpg",
+        "https://telegra.ph/file/cc3f56d4386252ba8bb71.jpg",
+        "https://telegra.ph/file/9821890dedcddec9273e0.jpg"
+    ]
+};

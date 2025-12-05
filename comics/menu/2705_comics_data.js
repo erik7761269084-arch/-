@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2705,
+    "title": "[柴犬五郎] なぎ先輩のイ・タ・ズ・ラ♥!? (COMIC アオハ 2020冬)",
+    "sourceUrl": "https://telegra.ph/柴犬五郎-なぎ先輩のイタズラ-COMIC-アオハ-2020冬-08-31",
+    "images": [
+        "https://telegra.ph/file/038b6e6a3432656a9d1f9.jpg",
+        "https://telegra.ph/file/7b4d31ac1f5e9920535c4.jpg",
+        "https://telegra.ph/file/667152f0ac787f67cfa63.jpg",
+        "https://telegra.ph/file/8333fd26a6f851db192bd.jpg",
+        "https://telegra.ph/file/a7d34a03218f9e299905d.jpg",
+        "https://telegra.ph/file/ac9b7cd26db55232a2ffb.jpg",
+        "https://telegra.ph/file/81750d897df7b729733f4.jpg",
+        "https://telegra.ph/file/841ebfefff1eb69c10885.jpg",
+        "https://telegra.ph/file/56263781f5fa2de22b7f3.jpg",
+        "https://telegra.ph/file/1654b61b2b89a6b106990.jpg",
+        "https://telegra.ph/file/771c4eabd00e6d1b3ca13.jpg",
+        "https://telegra.ph/file/6e918e1769192a551c96c.jpg",
+        "https://telegra.ph/file/a4854cdc446b90fa4e855.jpg",
+        "https://telegra.ph/file/2e18ef6ba128ea127741c.jpg",
+        "https://telegra.ph/file/d05f2eb91484c57a63c54.jpg",
+        "https://telegra.ph/file/280b6d05d1af70ae357bc.jpg",
+        "https://telegra.ph/file/a2fb7a1343b4acf7b734b.jpg",
+        "https://telegra.ph/file/ad44019bbae8dd786518b.jpg",
+        "https://telegra.ph/file/bc0f70a4b8ebd0b09922e.jpg",
+        "https://telegra.ph/file/a6df289100d06791853e6.jpg",
+        "https://telegra.ph/file/cc9f801b92756f21e63d6.jpg",
+        "https://telegra.ph/file/7c102035c262dc4876365.jpg",
+        "https://telegra.ph/file/ab202fb1c03dbfd5ba809.jpg",
+        "https://telegra.ph/file/ca7b00f2f5bc173b2e56f.jpg",
+        "https://telegra.ph/file/5ba704333afa4cc3c45a7.jpg",
+        "https://telegra.ph/file/71da6e5135f417484a85c.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6006,
+    "title": "[メネア・ザ・ドッグ] ピナパコ",
+    "sourceUrl": "https://telegra.ph/メネアザドッグ-ピナパコ-08-31",
+    "images": [
+        "https://telegra.ph/file/7323418af8120ee004512.jpg",
+        "https://telegra.ph/file/62213612f98c93bbffbc9.jpg",
+        "https://telegra.ph/file/d109a7cff9999414bbed2.jpg",
+        "https://telegra.ph/file/f73a0e5ed727ac66ac3d5.jpg",
+        "https://telegra.ph/file/5f8aadd22f560f61c7e2f.jpg",
+        "https://telegra.ph/file/146d5d589e241ece99e8a.jpg",
+        "https://telegra.ph/file/b94f178dc5e98f122e107.jpg",
+        "https://telegra.ph/file/880bcb10c11d794bd032c.jpg",
+        "https://telegra.ph/file/6f3f69ed1037190f61485.jpg",
+        "https://telegra.ph/file/90aeae346b91723ef67ce.jpg",
+        "https://telegra.ph/file/1e44497c2fcec73994f9a.jpg",
+        "https://telegra.ph/file/0a2e2beb5897ac7b30601.jpg",
+        "https://telegra.ph/file/1b9736a4912ad771df24f.jpg",
+        "https://telegra.ph/file/891412c0b18a2b367207e.jpg",
+        "https://telegra.ph/file/ee4372cf80ad9249be1aa.jpg",
+        "https://telegra.ph/file/cec0c998870ce6e9b28f6.jpg",
+        "https://telegra.ph/file/000f3b14c1a89d9bdb283.jpg",
+        "https://telegra.ph/file/fb2162129f85e27a297b0.jpg",
+        "https://telegra.ph/file/e4477a592e496d532fe12.jpg",
+        "https://telegra.ph/file/bbb86cea9a900e3c46ead.jpg",
+        "https://telegra.ph/file/71caf9273e5827cc24ccc.jpg",
+        "https://telegra.ph/file/af12306ed069d60426c97.jpg",
+        "https://telegra.ph/file/2c4562c1963fd9fe20bb2.jpg",
+        "https://telegra.ph/file/c05fcdae4a51444fefa6d.jpg",
+        "https://telegra.ph/file/c8b385c7dd337f3fd6215.jpg",
+        "https://telegra.ph/file/be7aadeed675d9b31ee85.jpg"
+    ]
+};

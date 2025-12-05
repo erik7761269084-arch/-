@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7165,
+    "title": "わがまま- いいなり!- 催眠デート!",
+    "sourceUrl": "https://telegra.ph/わがまま--いいなり--催眠デート-08-31",
+    "images": [
+        "https://telegra.ph/file/7449c9b3c07db09512d86.jpg",
+        "https://telegra.ph/file/c1bb2d5bce36343db5cdf.jpg",
+        "https://telegra.ph/file/132d25b897186a3f41077.jpg",
+        "https://telegra.ph/file/7007b9f784d82214a3368.jpg",
+        "https://telegra.ph/file/6996152eb50cce01be3ab.jpg",
+        "https://telegra.ph/file/03d1fcf9eee8a495b892e.jpg",
+        "https://telegra.ph/file/1c290e1eba58059a73ff0.jpg",
+        "https://telegra.ph/file/682c09f074873920e8cff.jpg",
+        "https://telegra.ph/file/734374a8ffd0f24a06f69.jpg",
+        "https://telegra.ph/file/43c38b8b0fce03938da4b.jpg",
+        "https://telegra.ph/file/505712d707ee401ef3c1b.jpg",
+        "https://telegra.ph/file/11aace918e6b560490fb4.jpg",
+        "https://telegra.ph/file/c40b5683a3b844779937d.jpg",
+        "https://telegra.ph/file/a1fcf594398b44ccf3474.jpg",
+        "https://telegra.ph/file/a5dcd2088fc0f1cebc565.jpg",
+        "https://telegra.ph/file/9debd98c7718bd5be1022.jpg",
+        "https://telegra.ph/file/e7188b0d1992854162e64.jpg",
+        "https://telegra.ph/file/54178058365aedca784f9.jpg",
+        "https://telegra.ph/file/e86e3411fa92ce2682e95.jpg",
+        "https://telegra.ph/file/d01a92414317333ebe35f.jpg",
+        "https://telegra.ph/file/ad0f46ddbf15e5fa39ba8.jpg",
+        "https://telegra.ph/file/1d19b090b160383187289.jpg",
+        "https://telegra.ph/file/60588e2ee75a7ddbefb9d.jpg",
+        "https://telegra.ph/file/354e296e856cce9248879.jpg"
+    ]
+};

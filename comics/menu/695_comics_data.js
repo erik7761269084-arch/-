@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 695,
+    "title": "[栗原ケンシロウ] お姉ちゃんは心配性 (コミック エグゼ 26)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/栗原ケンシロウ-お姉ちゃんは心配性-コミック-エグゼ-26-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/03621615270d21b7ba17f.jpg",
+        "https://telegra.ph/file/d1c69d676c3ba9451c543.jpg",
+        "https://telegra.ph/file/7e5200e9de5a5ff2a5f8a.jpg",
+        "https://telegra.ph/file/03516240c269faf0943a4.jpg",
+        "https://telegra.ph/file/7cedf9fa3a27f124f76ba.jpg",
+        "https://telegra.ph/file/263ef639227d10eb8d9d0.jpg",
+        "https://telegra.ph/file/86f4cd72fcd5cf59dec48.jpg",
+        "https://telegra.ph/file/12a31b4a7caaa845f349e.jpg",
+        "https://telegra.ph/file/53391b0560030091f0f08.jpg",
+        "https://telegra.ph/file/b23ef8ab3fafe7825846b.jpg",
+        "https://telegra.ph/file/ec8c950501abdab5c560f.jpg",
+        "https://telegra.ph/file/c5936412dd515b0cc354b.jpg",
+        "https://telegra.ph/file/d841520b154f2b84061f9.jpg",
+        "https://telegra.ph/file/121e4f1333ef262d00e2d.jpg",
+        "https://telegra.ph/file/923c8c3266154d5eb0548.jpg",
+        "https://telegra.ph/file/924670534f02f9ff7adce.jpg",
+        "https://telegra.ph/file/6388a290371933b1b9995.jpg",
+        "https://telegra.ph/file/8e116befbdb9496ac93c3.jpg",
+        "https://telegra.ph/file/7e9998cad1d6aa5889d55.jpg",
+        "https://telegra.ph/file/8b9d6b6b3a29079a51dbc.jpg",
+        "https://telegra.ph/file/9c97259da93e43b06dfe5.jpg",
+        "https://telegra.ph/file/cd7ff29516472d1904187.jpg",
+        "https://telegra.ph/file/8692c16981f688c0e3cdc.jpg",
+        "https://telegra.ph/file/e6a2cf2d7a6481d3dfd5d.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 208,
+    "title": "[研そうげん] better than sex vol.4 (COMIC アンスリウム 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/研そうげん-better-than-sex-vol4-COMIC-アンスリウム-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/6d0203791ed170bf20e0c.jpg",
+        "https://telegra.ph/file/59521011842ab32b7c12d.jpg",
+        "https://telegra.ph/file/df082100f4424cadba04a.jpg",
+        "https://telegra.ph/file/7b3a4d5117b82285becb0.jpg",
+        "https://telegra.ph/file/2813f3f7fb15206e1f417.jpg",
+        "https://telegra.ph/file/0c6d69b10e57124f3ff6f.jpg",
+        "https://telegra.ph/file/80395ffc5bb3d5ea5fd81.jpg",
+        "https://telegra.ph/file/c353e05320675273d4fe0.jpg",
+        "https://telegra.ph/file/bd6acbc60f32f5140e5f1.jpg",
+        "https://telegra.ph/file/92c8c94768e0c2249dd5a.jpg",
+        "https://telegra.ph/file/5def9757fb5f0f33b933d.jpg",
+        "https://telegra.ph/file/c8f1384d5bc197704abbf.jpg",
+        "https://telegra.ph/file/8d7932b78cabd8a5bedf2.jpg",
+        "https://telegra.ph/file/73657dfdb60433fbe4991.jpg",
+        "https://telegra.ph/file/8756f388f4aa764ba728f.jpg",
+        "https://telegra.ph/file/29ef85e792bbd4b5a3bf4.jpg",
+        "https://telegra.ph/file/0d3424a4a0fb2c0984fd9.jpg",
+        "https://telegra.ph/file/e184bffe9dbda996df123.jpg",
+        "https://telegra.ph/file/a971c64e2068dddc52e84.jpg",
+        "https://telegra.ph/file/d865eb0596aa8e44c5062.jpg",
+        "https://telegra.ph/file/a91deb7443921522e8883.jpg",
+        "https://telegra.ph/file/bb09403c8e5b1a0b5c706.jpg",
+        "https://telegra.ph/file/4de2a68a5073e8df0d23a.jpg",
+        "https://telegra.ph/file/cb71770151919af56fd5d.jpg"
+    ]
+};

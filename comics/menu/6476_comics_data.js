@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6476,
+    "title": "マシュマロミスチーフ (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/マシュマロミスチーフ-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/8a8b84290513ef5476c2c.jpg",
+        "https://telegra.ph/file/ee10a88a273504d0560e9.jpg",
+        "https://telegra.ph/file/2c7ab0f190b3723b41715.jpg",
+        "https://telegra.ph/file/d252f4941a0d9ee8ca53d.jpg",
+        "https://telegra.ph/file/9879a94d576681eba1487.jpg",
+        "https://telegra.ph/file/cd408ee7248c8abcf2b66.jpg",
+        "https://telegra.ph/file/84e3a21a2d8d9da418ba1.jpg",
+        "https://telegra.ph/file/cfbd78b961e936cdba2f4.jpg",
+        "https://telegra.ph/file/ca27c58885cc7b0dc911d.jpg",
+        "https://telegra.ph/file/2cb486ea8d4d229388bb7.jpg",
+        "https://telegra.ph/file/ba7bde14061060c109c1b.jpg",
+        "https://telegra.ph/file/d8a304d5ffce0652cee2f.jpg",
+        "https://telegra.ph/file/570daa3f42d675ce3145d.jpg",
+        "https://telegra.ph/file/95c9bc12d564843ff136d.jpg",
+        "https://telegra.ph/file/6a05cc9fbb4da547d5b7e.jpg",
+        "https://telegra.ph/file/49db0e2a0037c92ee26e9.jpg",
+        "https://telegra.ph/file/df0b7e5ae22c3ab840fcf.jpg",
+        "https://telegra.ph/file/baa436c3d6c7524ef14d9.jpg",
+        "https://telegra.ph/file/f93a9bf09b7f18d40bffd.jpg",
+        "https://telegra.ph/file/84d9fc6e62f03e221e1f7.jpg",
+        "https://telegra.ph/file/203298abe37d0dcb16490.jpg",
+        "https://telegra.ph/file/a7c31094346dcdb724073.jpg",
+        "https://telegra.ph/file/350a6c5caf3ba2a6fa76c.jpg"
+    ]
+};

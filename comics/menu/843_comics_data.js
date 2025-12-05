@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 843,
+    "title": "(C90) [CELLULOID-ACME (チバトシロウ)] POPPIN' GIRLS (僕のヒーローアカデミア)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/C90-CELLULOID-ACME-チバトシロウ-POPPIN-GIRLS-僕のヒーローアカデミア-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/038dc8b4b1b53da381937.jpg",
+        "https://telegra.ph/file/7e38b8cfdb011c09f68d9.jpg",
+        "https://telegra.ph/file/856ebeabd511ffa554476.jpg",
+        "https://telegra.ph/file/b59a9885f06a5e5ec5de3.jpg",
+        "https://telegra.ph/file/cc4300475456014830c5f.jpg",
+        "https://telegra.ph/file/2aa2372364a8472be557a.jpg",
+        "https://telegra.ph/file/426ecc194d3403632618f.jpg",
+        "https://telegra.ph/file/935839e8a30f653550217.jpg",
+        "https://telegra.ph/file/d07740875b74f4dad3ec9.jpg",
+        "https://telegra.ph/file/4bd4af328653a32921ecd.jpg",
+        "https://telegra.ph/file/c3f501d454d7fd47b0764.jpg",
+        "https://telegra.ph/file/7ff59cbd33ecef08d3de7.jpg",
+        "https://telegra.ph/file/d66477e56e95004a8673a.jpg",
+        "https://telegra.ph/file/513385caf4b1effc2f45a.jpg",
+        "https://telegra.ph/file/500606d56b5fb2d13e198.jpg",
+        "https://telegra.ph/file/769b4ff7d29eef844b54b.jpg",
+        "https://telegra.ph/file/694bee8889407b53f8b44.jpg",
+        "https://telegra.ph/file/5cfad47e977c04f3886ed.jpg",
+        "https://telegra.ph/file/e549cd83810e800a934d4.jpg",
+        "https://telegra.ph/file/4111901ba6dfd48f7927f.jpg",
+        "https://telegra.ph/file/1d81f9474ed10db6259a0.jpg",
+        "https://telegra.ph/file/936f45de536ac085d9ade.jpg",
+        "https://telegra.ph/file/2b912f2b8a3a1d2f4f15e.jpg",
+        "https://telegra.ph/file/28f65f8c903def61d048c.jpg",
+        "https://telegra.ph/file/9514c3d81ef9b468fe9bf.jpg"
+    ]
+};

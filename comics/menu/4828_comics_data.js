@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4828,
+    "title": "(C97) [Cherish (西村にけ)] 秘書艦のおしごと (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C97-Cherish-西村にけ-秘書艦のおしごと-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/94dcaf92b2bb2429da742.jpg",
+        "https://telegra.ph/file/10f6edc77ed68de0aa88b.jpg",
+        "https://telegra.ph/file/47523b943e44c99e3a54f.jpg",
+        "https://telegra.ph/file/7178278b52c64ed0c0796.jpg",
+        "https://telegra.ph/file/ff52fdc4b1d79135039f8.jpg",
+        "https://telegra.ph/file/af1a126069322705102c8.jpg",
+        "https://telegra.ph/file/dbcf35afd539372cdde44.jpg",
+        "https://telegra.ph/file/92efd2d45f92702790e3e.jpg",
+        "https://telegra.ph/file/7c0151f9e2cad93994a12.jpg",
+        "https://telegra.ph/file/07b02ffc5e521ed19fc91.jpg",
+        "https://telegra.ph/file/9c3056813e88906259bc1.jpg",
+        "https://telegra.ph/file/a32d94f94d39ed9836c2d.jpg",
+        "https://telegra.ph/file/a16d8373ec5245f0c2934.jpg",
+        "https://telegra.ph/file/e178a03539b6a018cf68c.jpg",
+        "https://telegra.ph/file/79f9a56a9a1a43d2a787a.jpg",
+        "https://telegra.ph/file/eaac84dd50a9f33a61dfa.jpg",
+        "https://telegra.ph/file/2d9b08fd48ad494f63941.jpg",
+        "https://telegra.ph/file/36d2269efdfa6217c9ba1.jpg",
+        "https://telegra.ph/file/1700fcf10097ebf0824d8.jpg",
+        "https://telegra.ph/file/af93f712e3a341a399851.jpg",
+        "https://telegra.ph/file/3dcc7c4164b73fec56135.jpg",
+        "https://telegra.ph/file/0c9aa963a8a299cbbf20c.jpg",
+        "https://telegra.ph/file/f18f6600b2957eb816edd.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4510,
+    "title": "(COMIC1☆11) [瞬間最大風速 (ポニーR)] ブーディカママとのぬきぬき生活 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/COMIC111-瞬間最大風速-ポニーR-ブーディカママとのぬきぬき生活-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/d9b7572cd21834bde6d07.jpg",
+        "https://telegra.ph/file/4050925e827c740aa851d.jpg",
+        "https://telegra.ph/file/54989bd9609659f06347e.jpg",
+        "https://telegra.ph/file/3b70ca45c2d309fa184c8.jpg",
+        "https://telegra.ph/file/e4a174dad025b5fe645e1.jpg",
+        "https://telegra.ph/file/cba054f750da62a4a55c7.jpg",
+        "https://telegra.ph/file/553197d5d001435d3f5fe.jpg",
+        "https://telegra.ph/file/0b3657461c17b666f5409.jpg",
+        "https://telegra.ph/file/4c8520b1b3eeb200704f2.jpg",
+        "https://telegra.ph/file/956100dd5c62ec4dcbba5.jpg",
+        "https://telegra.ph/file/48e78b6d7289a55efde56.jpg",
+        "https://telegra.ph/file/ffbc9ab299e9298681a53.jpg",
+        "https://telegra.ph/file/987c8e8adeeceb9cc7e28.jpg",
+        "https://telegra.ph/file/cbf901a8716b68b5f60fe.jpg",
+        "https://telegra.ph/file/a14ec4630db12f6ef85d6.jpg",
+        "https://telegra.ph/file/0115b34f187bdf0db0cd9.jpg",
+        "https://telegra.ph/file/d1239d8ff0c514f944dfc.jpg",
+        "https://telegra.ph/file/cdc9dbc88b67e2d7672c2.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/14538a11b71af851d2a89.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/f967b1defaadb6d21c016.jpg"
+    ]
+};

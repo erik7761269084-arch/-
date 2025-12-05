@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7715,
+    "title": "父子の絆の深め方",
+    "sourceUrl": "https://telegra.ph/父子の絆の深め方-08-31-2",
+    "images": [
+        "https://telegra.ph/file/467e616da081133e7efdc.jpg",
+        "https://telegra.ph/file/42aebaa5eff0444e71eca.jpg",
+        "https://telegra.ph/file/14c97edead9a41484d5d7.jpg",
+        "https://telegra.ph/file/920aceae89cfc63b3fa30.jpg",
+        "https://telegra.ph/file/b57570b7a202e11ef99ee.jpg",
+        "https://telegra.ph/file/0e6ff4e0cb3f68d836ec3.jpg",
+        "https://telegra.ph/file/fe63b7a128b19185eb9bf.jpg",
+        "https://telegra.ph/file/38edc16e3208064ea1778.jpg",
+        "https://telegra.ph/file/1a9ece84ed21dbde455cb.jpg",
+        "https://telegra.ph/file/18525155968360ebdb18d.jpg",
+        "https://telegra.ph/file/1627fe0239af5232a1269.jpg",
+        "https://telegra.ph/file/7108ddad4470ffb612bf6.jpg",
+        "https://telegra.ph/file/f04a75f48056f18d8d586.jpg",
+        "https://telegra.ph/file/852da8854f8533d15cdad.jpg",
+        "https://telegra.ph/file/731e8596e3b3357d24a2d.jpg",
+        "https://telegra.ph/file/3e9264b4318a20134f08c.jpg",
+        "https://telegra.ph/file/690e43a28769b823430f3.jpg",
+        "https://telegra.ph/file/434c02a0bf5fc5e053a09.jpg",
+        "https://telegra.ph/file/4a41ae4e3d1569613ad64.jpg",
+        "https://telegra.ph/file/845d2ec57508de826bc9d.jpg",
+        "https://telegra.ph/file/f5acd6609c1ab4e445284.jpg",
+        "https://telegra.ph/file/ff451742ee65089fbc990.jpg",
+        "https://telegra.ph/file/105b43f3e3b5644fb7dc3.jpg",
+        "https://telegra.ph/file/ee0259e624db454c1ce57.jpg"
+    ]
+};

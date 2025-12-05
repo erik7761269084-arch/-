@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6206,
+    "title": "[中村葛湯] frog",
+    "sourceUrl": "https://telegra.ph/中村葛湯-frog-08-31",
+    "images": [
+        "https://telegra.ph/file/f38f363c641672a966ca0.png",
+        "https://telegra.ph/file/debd535df6112122f7c5f.png",
+        "https://telegra.ph/file/b69da170f1dbc75f4db79.png",
+        "https://telegra.ph/file/ecdf5a96ba0d3c09551f0.png",
+        "https://telegra.ph/file/08a22409d79507ddcd05b.png",
+        "https://telegra.ph/file/edd43ecbcb2d572b0621d.png",
+        "https://telegra.ph/file/1593e37b056877f774eb4.png",
+        "https://telegra.ph/file/4111a97aefcf608695f8b.png",
+        "https://telegra.ph/file/596795920d5d517b05ede.png",
+        "https://telegra.ph/file/629e45c15508acb4927fd.png",
+        "https://telegra.ph/file/5454ac735ca28a6bb7636.png",
+        "https://telegra.ph/file/cf7372ca5b4e49bdd0238.png",
+        "https://telegra.ph/file/62246818f5a57a9d008ef.png",
+        "https://telegra.ph/file/7cc3cae1948cc4fb06adc.png",
+        "https://telegra.ph/file/baebb6a9fda78751a821b.png",
+        "https://telegra.ph/file/da7e3f8b75747b38815a4.png",
+        "https://telegra.ph/file/533c756e3d10a5b9d7329.png",
+        "https://telegra.ph/file/e4919434b9cf9bb4ad5ee.png",
+        "https://telegra.ph/file/84222f40fe961a3614463.png",
+        "https://telegra.ph/file/5c30b8486a42a4ba79e1f.png",
+        "https://telegra.ph/file/5a5c7861bcf038c224eab.png",
+        "https://telegra.ph/file/490ae75534edaf8ec2d32.png",
+        "https://telegra.ph/file/fe16cd3be01d7b2dcf534.png",
+        "https://telegra.ph/file/349b54f5ba877781ea80d.png",
+        "https://telegra.ph/file/3e9e91c5a948763f7d036.png",
+        "https://telegra.ph/file/45c800a2e38cfa8f167cc.png"
+    ]
+};

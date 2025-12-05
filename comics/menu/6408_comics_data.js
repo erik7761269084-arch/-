@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6408,
+    "title": "しゅうかんリミット",
+    "sourceUrl": "https://telegra.ph/しゅうかんリミット-08-31",
+    "images": [
+        "https://telegra.ph/file/f3105eead889d65d4f8b4.jpg",
+        "https://telegra.ph/file/af2e60f35bfd0f59f79f4.jpg",
+        "https://telegra.ph/file/813a61d71c7914630eabd.jpg",
+        "https://telegra.ph/file/08a15f9bb429a80248c0f.jpg",
+        "https://telegra.ph/file/8639bd02ac7d32b9be994.jpg",
+        "https://telegra.ph/file/c2b6c310dea89bd3cf749.jpg",
+        "https://telegra.ph/file/1e51d8b9e3c8087951628.jpg",
+        "https://telegra.ph/file/b59b211156b485f1b4233.jpg",
+        "https://telegra.ph/file/4b0dccbea006d92912401.jpg",
+        "https://telegra.ph/file/d072de5d699c83a7ae22e.jpg",
+        "https://telegra.ph/file/065d006d8eccf08232c82.jpg",
+        "https://telegra.ph/file/9137f16468671d3febf30.jpg",
+        "https://telegra.ph/file/0751c4e555b7d4eebe671.jpg",
+        "https://telegra.ph/file/c22b9406d44155ae49d81.jpg",
+        "https://telegra.ph/file/8926039a1990da7481752.jpg",
+        "https://telegra.ph/file/5e8f323f20eb2f9650937.jpg",
+        "https://telegra.ph/file/e49ba09581a159b70fe03.jpg",
+        "https://telegra.ph/file/3bef0fb935f85cc801e06.jpg",
+        "https://telegra.ph/file/e0dd101ed47c71b20dfc6.jpg",
+        "https://telegra.ph/file/603770d78de69c03d789d.jpg",
+        "https://telegra.ph/file/52d0eb67b41ef278f225e.jpg",
+        "https://telegra.ph/file/4278e8cf2f8986e37beb0.jpg",
+        "https://telegra.ph/file/46c221fb80c76d73ec719.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1896,
+    "title": "[QBLADE] ギレーヌ発情解消法 (無職転生 ～異世界行ったら本気だす～)",
+    "sourceUrl": "https://telegra.ph/QBLADE-ギレーヌ発情解消法-無職転生-異世界行ったら本気だす-08-31",
+    "images": [
+        "https://telegra.ph/file/b8d61c639ab1ea01978dc.jpg",
+        "https://telegra.ph/file/d01ffb7828eade0eb81ed.jpg",
+        "https://telegra.ph/file/c5b259d71e8060789626d.jpg",
+        "https://telegra.ph/file/f8de383a84207791fe204.jpg",
+        "https://telegra.ph/file/3b4bcfb58532e5b190d95.jpg",
+        "https://telegra.ph/file/12ba7c7b0785d38793698.jpg",
+        "https://telegra.ph/file/6b849674be50eeb4229dd.jpg",
+        "https://telegra.ph/file/cfbf97db1c8fb223064d1.jpg",
+        "https://telegra.ph/file/1a7ec8cc63aa634dcc6a5.jpg",
+        "https://telegra.ph/file/6854060ebcf430e8d88fe.jpg",
+        "https://telegra.ph/file/9bb391626f32504e8d788.jpg",
+        "https://telegra.ph/file/3d97d2e649df77e6cb9f7.jpg",
+        "https://telegra.ph/file/67a3b29f00f394394f33e.jpg",
+        "https://telegra.ph/file/91c9e149fe3d0c9336b15.jpg",
+        "https://telegra.ph/file/d1daf6baf89cef24bd8b9.jpg",
+        "https://telegra.ph/file/570dec7d8168f17ca63ff.jpg",
+        "https://telegra.ph/file/2fabd5329c2ebd3e19295.jpg",
+        "https://telegra.ph/file/f22eb8b20190ec4c80877.jpg",
+        "https://telegra.ph/file/c9c8110c90085b157960a.jpg",
+        "https://telegra.ph/file/c50bc96b77e256d218297.jpg",
+        "https://telegra.ph/file/9cbbdd05ce03f33e0b945.jpg",
+        "https://telegra.ph/file/9b5ff100886d440ae6f79.jpg",
+        "https://telegra.ph/file/2f250c06c8de348d0e3fe.jpg",
+        "https://telegra.ph/file/db406c2ea4441d64c52c8.jpg"
+    ]
+};

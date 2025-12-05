@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 58,
+    "title": "[凸傘 (サガッとる)] オリュンポス創世記/双性器 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/凸傘-サガッとる-オリュンポス創世記双性器-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/62c1d8da4924ecafcb922.jpg",
+        "https://telegra.ph/file/0658cb4aef63cc680fa96.jpg",
+        "https://telegra.ph/file/e2002fceb0e809e732034.jpg",
+        "https://telegra.ph/file/b3091aa856650e8a1e806.jpg",
+        "https://telegra.ph/file/5831413527bb6a9d43db3.jpg",
+        "https://telegra.ph/file/5e4d0bc3aaaef620017a9.jpg",
+        "https://telegra.ph/file/662a3088d00be7a7e9300.jpg",
+        "https://telegra.ph/file/7ea0275f89a75cfc56b06.jpg",
+        "https://telegra.ph/file/3af7ba1b2481dec271d6c.jpg",
+        "https://telegra.ph/file/bc796435ab8a017c2dcbd.jpg",
+        "https://telegra.ph/file/2236ab9f770f8ae22b770.jpg",
+        "https://telegra.ph/file/28e4da1957fab58592a81.jpg",
+        "https://telegra.ph/file/590e68ea46e51ccf37701.jpg",
+        "https://telegra.ph/file/1eb9b63eb4b1daa7d662b.jpg",
+        "https://telegra.ph/file/bff571841e56671048ace.jpg",
+        "https://telegra.ph/file/0ad92a7a255c30738781b.jpg",
+        "https://telegra.ph/file/3ba5864f52cb83769a40d.jpg",
+        "https://telegra.ph/file/0fa3b5175acea5f543d0a.jpg",
+        "https://telegra.ph/file/6cebcf55b4ce40fb435e8.jpg",
+        "https://telegra.ph/file/0b02d5da1906539ceeb6a.jpg",
+        "https://telegra.ph/file/4d46abaee4375f2011b78.jpg",
+        "https://telegra.ph/file/5c68b8a27c21985bee432.jpg",
+        "https://telegra.ph/file/303915e86e2a75361a671.jpg",
+        "https://telegra.ph/file/5881520da9f5c73ca816a.jpg",
+        "https://telegra.ph/file/cf03756282cb2dc19bca4.jpg",
+        "https://telegra.ph/file/7e7b3c3752c6c841f42b0.jpg"
+    ]
+};

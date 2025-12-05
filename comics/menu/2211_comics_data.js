@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2211,
+    "title": "[ぐれーともす] やられたらヤリかえす! (COMIC 天魔 2016年1月号)",
+    "sourceUrl": "https://telegra.ph/ぐれーともす-やられたらヤリかえす-COMIC-天魔-2016年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a27704dfb41f8cf28d986.jpg",
+        "https://telegra.ph/file/55f3877fc09473f65c162.jpg",
+        "https://telegra.ph/file/fa7fb86f17064c4bd1ceb.jpg",
+        "https://telegra.ph/file/2f55423643c6719b4dcd5.jpg",
+        "https://telegra.ph/file/dc90970e1d4442751709e.jpg",
+        "https://telegra.ph/file/0c2167ddb5ef3351254d3.jpg",
+        "https://telegra.ph/file/de38eb158a9fa7b28a796.jpg",
+        "https://telegra.ph/file/1bb556ff381c3170a046a.jpg",
+        "https://telegra.ph/file/8ed33ac0aee13c632fc1e.jpg",
+        "https://telegra.ph/file/953e62b2cef38a04e8610.jpg",
+        "https://telegra.ph/file/46769781d46ba7664e6a7.jpg",
+        "https://telegra.ph/file/8bcb43e7b60835ee99a2b.jpg",
+        "https://telegra.ph/file/57e2ae8226c66ac2f839a.jpg",
+        "https://telegra.ph/file/ca8b263973f6cbe35bffb.jpg",
+        "https://telegra.ph/file/353b1624a2e6b7d58a99e.jpg",
+        "https://telegra.ph/file/96556749152102c71be43.jpg",
+        "https://telegra.ph/file/f8baf341b753574c73e72.jpg",
+        "https://telegra.ph/file/7aa36542c52474877c9ec.jpg",
+        "https://telegra.ph/file/c0cfb4c152f2b43b6439c.jpg",
+        "https://telegra.ph/file/bdeb646dbd844ef8adfaf.jpg",
+        "https://telegra.ph/file/49efcf7731b58df942f29.jpg",
+        "https://telegra.ph/file/4a918c5ab96c4506c6396.jpg",
+        "https://telegra.ph/file/86ed6cdc403da9d8885b5.jpg",
+        "https://telegra.ph/file/542daf3140c667219d5d9.jpg"
+    ]
+};

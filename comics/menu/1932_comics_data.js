@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1932,
+    "title": "[ぽぽちち (八尋ぽち)] レンタル彼女お触りします05 (レンタル彼女お触りします総集編+05) (彼女、お借りします)",
+    "sourceUrl": "https://telegra.ph/ぽぽちち-八尋ぽち-レンタル彼女お触りします05-レンタル彼女お触りします総集編05-彼女お借りします-08-31",
+    "images": [
+        "https://telegra.ph/file/61314946afa57c38960f5.jpg",
+        "https://telegra.ph/file/daa23b125bfa04afb0853.jpg",
+        "https://telegra.ph/file/2f382e7743c7f5def8508.jpg",
+        "https://telegra.ph/file/c20b1519d21ba64005db3.jpg",
+        "https://telegra.ph/file/ce28bdcce389e31b9d163.jpg",
+        "https://telegra.ph/file/66e9831fed5faf37a93ca.jpg",
+        "https://telegra.ph/file/b31bd165a9bdf7f872a4d.jpg",
+        "https://telegra.ph/file/ed0233b777cac62e3d796.jpg",
+        "https://telegra.ph/file/8a601bbb5977aa5ec0e87.jpg",
+        "https://telegra.ph/file/651b368bd27415211f4be.jpg",
+        "https://telegra.ph/file/4e3fae70a010a3502bedd.jpg",
+        "https://telegra.ph/file/024fad21d5565c2653c1a.jpg",
+        "https://telegra.ph/file/8a0c3ee3e672c1feb3613.jpg",
+        "https://telegra.ph/file/f7f09f27013c7a4eb4d4a.jpg",
+        "https://telegra.ph/file/bb242ebdf1b53f18d8559.jpg",
+        "https://telegra.ph/file/5214089425f9ff670c0e8.jpg",
+        "https://telegra.ph/file/00d14a6d76eaf0d2e3e70.jpg",
+        "https://telegra.ph/file/e4348aeac9eec4aa0e462.jpg",
+        "https://telegra.ph/file/5f2236ea776257ca8f2c6.jpg",
+        "https://telegra.ph/file/3444cb05292b3dc6fed44.jpg",
+        "https://telegra.ph/file/14755b4a5b1fe003ec392.jpg",
+        "https://telegra.ph/file/f5775e619e4d87d82ee42.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7703,
+    "title": "美脚とは太く逞しく",
+    "sourceUrl": "https://telegra.ph/美脚とは太く逞しく-08-31-2",
+    "images": [
+        "https://telegra.ph/file/fea13f7c6286ec56c1967.jpg",
+        "https://telegra.ph/file/d631b908784924a8ed52a.jpg",
+        "https://telegra.ph/file/49bd87acbe20155834927.jpg",
+        "https://telegra.ph/file/d705a0b624a7ee769603f.jpg",
+        "https://telegra.ph/file/826957043a2a952604520.jpg",
+        "https://telegra.ph/file/0c98d220e688ab36f3f8d.jpg",
+        "https://telegra.ph/file/db7938a41de9998de6bbf.jpg",
+        "https://telegra.ph/file/5797f53724e24e4187675.jpg",
+        "https://telegra.ph/file/e85f8b74668ac71513276.jpg",
+        "https://telegra.ph/file/c037aa2548fe5431553d8.jpg",
+        "https://telegra.ph/file/c284245529a42c47d097e.jpg",
+        "https://telegra.ph/file/af8cb818a97a2841a6fbe.jpg",
+        "https://telegra.ph/file/774dda9ba4c0105c5dba2.jpg",
+        "https://telegra.ph/file/29868adab17a2cf7bf7a0.jpg",
+        "https://telegra.ph/file/d3cea54401c6206301d9a.jpg",
+        "https://telegra.ph/file/6b9738d0c91be9b943c93.jpg",
+        "https://telegra.ph/file/d36f6686f87b8acf362a4.jpg",
+        "https://telegra.ph/file/2a393a61aa282a301621c.jpg",
+        "https://telegra.ph/file/5511eb84281c7d7ac9999.jpg",
+        "https://telegra.ph/file/eb35e64029f7cd6f9178d.jpg",
+        "https://telegra.ph/file/01ca33e8914b1d2d62671.jpg",
+        "https://telegra.ph/file/40c2aba1ca6c11ad9ff00.jpg",
+        "https://telegra.ph/file/f913fad1f15006840da4b.jpg",
+        "https://telegra.ph/file/81b99b088fe5dbe7f9fe4.jpg"
+    ]
+};

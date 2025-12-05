@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7081,
+    "title": "芍薬の花",
+    "sourceUrl": "https://telegra.ph/芍薬の花-08-31",
+    "images": [
+        "https://telegra.ph/file/80aae580c703189bdf538.jpg",
+        "https://telegra.ph/file/01d72de61f0063da5312d.jpg",
+        "https://telegra.ph/file/b3440e580beb3f1b178d2.jpg",
+        "https://telegra.ph/file/92790f4d1b194ef5bd4ac.jpg",
+        "https://telegra.ph/file/85c723c9dd7248f82596f.jpg",
+        "https://telegra.ph/file/b8d969d1cbd7568952ccf.jpg",
+        "https://telegra.ph/file/44767086ed0655817fc14.jpg",
+        "https://telegra.ph/file/85ea9fb717e3caacbc691.jpg",
+        "https://telegra.ph/file/dbec3ce572f41a00c8e23.jpg",
+        "https://telegra.ph/file/61e457e7331e7a4f5d1b4.jpg",
+        "https://telegra.ph/file/b28e266f9f3b2e8f65ce4.jpg",
+        "https://telegra.ph/file/8ed030eb4e2fb1b631ee0.jpg",
+        "https://telegra.ph/file/403575a2357f44d764da7.jpg",
+        "https://telegra.ph/file/5fc89aa35ccb9219e1561.jpg",
+        "https://telegra.ph/file/6b065bc2f7f6218e2ae0b.jpg",
+        "https://telegra.ph/file/993bc0e84dd9d64270c29.jpg",
+        "https://telegra.ph/file/14b85f719c991e3013d1c.jpg",
+        "https://telegra.ph/file/213238bd049cb70f3d438.jpg",
+        "https://telegra.ph/file/c5b64ac3ce4b725aa53b9.jpg",
+        "https://telegra.ph/file/f2aaa0ac2939e56294103.jpg",
+        "https://telegra.ph/file/74a28f4c55fd02265a09a.jpg",
+        "https://telegra.ph/file/3cf4a3aa15a3bc813c275.jpg",
+        "https://telegra.ph/file/f80a5323b28be50807b32.jpg",
+        "https://telegra.ph/file/ea018d3f1146a65d6b391.jpg"
+    ]
+};

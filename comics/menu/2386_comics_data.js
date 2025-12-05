@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2386,
+    "title": "(C99) [AERODOG (inu)] 千雪さんのえっちな応援団 (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C99-AERODOG-inu-千雪さんのえっちな応援団-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/6d9e80b410ce527eeda1a.jpg",
+        "https://telegra.ph/file/6fa8b37bb0c5b9e22179e.jpg",
+        "https://telegra.ph/file/4cc10bec2686aa37d1c2c.jpg",
+        "https://telegra.ph/file/2a0acf48415ccf15598e2.jpg",
+        "https://telegra.ph/file/9ae2be3dc8ef9337e3f4e.jpg",
+        "https://telegra.ph/file/40bdf17eae303b89e4e7f.jpg",
+        "https://telegra.ph/file/de94caeaba9bd1ee15f45.jpg",
+        "https://telegra.ph/file/165f0cd84353558d06741.jpg",
+        "https://telegra.ph/file/011cc011e5c53c46c462f.jpg",
+        "https://telegra.ph/file/be186c0a70b3145d44793.jpg",
+        "https://telegra.ph/file/74ff70153139e69747826.jpg",
+        "https://telegra.ph/file/a7f484739f6c2d8405f1d.jpg",
+        "https://telegra.ph/file/bc4e9b8d5027a845ca5b5.jpg",
+        "https://telegra.ph/file/78024a93c9fdbcab0d378.jpg",
+        "https://telegra.ph/file/889dfb05d5df1c5575bd9.jpg",
+        "https://telegra.ph/file/c0d14feffd81a95738a2f.jpg",
+        "https://telegra.ph/file/cb29d42716747330ce895.jpg",
+        "https://telegra.ph/file/1dc92bc369db314c2523d.jpg",
+        "https://telegra.ph/file/94aab03f75fc715a0b603.jpg",
+        "https://telegra.ph/file/6fe1c5ac1f0737d7ab11c.jpg",
+        "https://telegra.ph/file/ce14f5f14b5bbdb0f4dba.jpg",
+        "https://telegra.ph/file/939cbbbaa494e297ba731.jpg",
+        "https://telegra.ph/file/412bec97a6fc66cce3c74.jpg"
+    ]
+};

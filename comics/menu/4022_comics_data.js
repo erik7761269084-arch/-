@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4022,
+    "title": "[てるてるがーる (天乃輝)] 増殖タピオカでタピオカ産卵プレイをするお話",
+    "sourceUrl": "https://telegra.ph/てるてるがーる-天乃輝-増殖タピオカでタピオカ産卵プレイをするお話-08-31",
+    "images": [
+        "https://telegra.ph/file/f35a25c3067401f9bb31c.jpg",
+        "https://telegra.ph/file/24a09185efc883e27ffc0.jpg",
+        "https://telegra.ph/file/8a2cda73f3cbe522afa5c.jpg",
+        "https://telegra.ph/file/ff24853b63b3fbb521eda.jpg",
+        "https://telegra.ph/file/84f6c54dc9c5b6203db89.jpg",
+        "https://telegra.ph/file/63db6a177c45ee85c8d3e.jpg",
+        "https://telegra.ph/file/3879c6df9bf3346537f0b.jpg",
+        "https://telegra.ph/file/d67c61ac3787e03191324.jpg",
+        "https://telegra.ph/file/c82cc9703f6447852c04e.jpg",
+        "https://telegra.ph/file/3f200b9f0ec60492fbd3a.jpg",
+        "https://telegra.ph/file/3b592bbd89844558fe7a8.jpg",
+        "https://telegra.ph/file/f49f84c433c1fa2c6782c.jpg",
+        "https://telegra.ph/file/fd226190c3f63394b804e.jpg",
+        "https://telegra.ph/file/cb69886e6388d0cc2c874.jpg",
+        "https://telegra.ph/file/79b42e77c04ac19b18c45.jpg",
+        "https://telegra.ph/file/33f8c40c50e268c03a28e.jpg",
+        "https://telegra.ph/file/52560a109e639b33bc185.jpg",
+        "https://telegra.ph/file/a76cb4559c045db8ca158.jpg",
+        "https://telegra.ph/file/67af51c064cec4b40df6d.jpg",
+        "https://telegra.ph/file/b56ad480af4c6e9e74dbf.jpg",
+        "https://telegra.ph/file/e9150f5df9b7a7db516e4.jpg",
+        "https://telegra.ph/file/24ec80e2f326f0860ee4b.jpg",
+        "https://telegra.ph/file/04fa3b17589093451896b.jpg",
+        "https://telegra.ph/file/65ff96126327a794135b1.jpg",
+        "https://telegra.ph/file/26237506c0c8e72cf75d4.jpg",
+        "https://telegra.ph/file/ebce54b68823145a4ca9a.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1869,
+    "title": "(C99) [金揚尾 (フライデイ)] 肛虐輪姦でちゃいマシュ! (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-金揚尾-フライデイ-肛虐輪姦でちゃいマシュ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/2d56fdb9236d8bc5f8508.jpg",
+        "https://telegra.ph/file/8dd1ba669c35e076591b0.jpg",
+        "https://telegra.ph/file/9c23e008b83804c9ab6ef.jpg",
+        "https://telegra.ph/file/3da30375b980587b08baa.jpg",
+        "https://telegra.ph/file/94e9b5f2f334b4ea95032.jpg",
+        "https://telegra.ph/file/57879f86f828111e9ba1f.jpg",
+        "https://telegra.ph/file/279c6ee87cf222101dbe8.jpg",
+        "https://telegra.ph/file/bb5ca7e3b43db44176ce1.jpg",
+        "https://telegra.ph/file/4a7a1227a997491355d96.jpg",
+        "https://telegra.ph/file/d0ed3a691b25576f8af74.jpg",
+        "https://telegra.ph/file/10a840a8dc405f2cacf0f.jpg",
+        "https://telegra.ph/file/81ff797d695a690e893cd.jpg",
+        "https://telegra.ph/file/83ff8f7e79f883ca9c441.jpg",
+        "https://telegra.ph/file/a0ed718559d62f826a271.jpg",
+        "https://telegra.ph/file/0a2e05165269379cd0a42.jpg",
+        "https://telegra.ph/file/1741ced6e658c8d832e01.jpg",
+        "https://telegra.ph/file/0699d2c6b814c214a8ae9.jpg",
+        "https://telegra.ph/file/09d6625f0a9bc37150055.jpg",
+        "https://telegra.ph/file/3c404d23d2035489aeb5f.jpg",
+        "https://telegra.ph/file/a658bc5445f0038c77f2c.jpg",
+        "https://telegra.ph/file/1ad6161100728a1a34eef.jpg",
+        "https://telegra.ph/file/47c94ce84f7e39b14723f.jpg",
+        "https://telegra.ph/file/952125ed4601055a49b01.jpg",
+        "https://telegra.ph/file/4c45f5ba14d3fbeb33780.jpg",
+        "https://telegra.ph/file/722e013aefb1bff997d78.jpg",
+        "https://telegra.ph/file/6a221059ed7ddf2e32591.jpg"
+    ]
+};

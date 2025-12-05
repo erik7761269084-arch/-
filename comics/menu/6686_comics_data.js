@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6686,
+    "title": "MERCURY SHADOW5 (美少女戦士セーラームーン)",
+    "sourceUrl": "https://telegra.ph/MERCURY-SHADOW5-美少女戦士セーラームーン-08-31",
+    "images": [
+        "https://telegra.ph/file/72578a58562f5c1029d68.jpg",
+        "https://telegra.ph/file/44808156550ec090c7f59.jpg",
+        "https://telegra.ph/file/3daf77d8669c70eb88eea.jpg",
+        "https://telegra.ph/file/0bcc20015991456a957da.jpg",
+        "https://telegra.ph/file/8bd318357a25d3e275c97.jpg",
+        "https://telegra.ph/file/79fb15dd952c155f04eed.jpg",
+        "https://telegra.ph/file/410bbc1ffb1b1a29777eb.jpg",
+        "https://telegra.ph/file/717452bfe3bf044fe92ef.jpg",
+        "https://telegra.ph/file/da5f16098f760f99bff07.jpg",
+        "https://telegra.ph/file/4035cf7a99ed615c91a09.jpg",
+        "https://telegra.ph/file/17dfa178801cc66e37ef3.jpg",
+        "https://telegra.ph/file/8005b671d23826d490395.jpg",
+        "https://telegra.ph/file/341e56de4b9bc69dc6832.jpg",
+        "https://telegra.ph/file/04f6639d89431e8812150.jpg",
+        "https://telegra.ph/file/6b150a1ed9c6932cdac91.jpg",
+        "https://telegra.ph/file/3a799b4b22ec1fe2ee445.jpg",
+        "https://telegra.ph/file/8d65ad516fa8841fe64d3.jpg",
+        "https://telegra.ph/file/f8cac92113d839d812a49.jpg",
+        "https://telegra.ph/file/c6c4dd867091254e9f004.jpg",
+        "https://telegra.ph/file/66017fac74d8adb6f25fb.jpg",
+        "https://telegra.ph/file/625bdca0b4dd3e77cb735.jpg",
+        "https://telegra.ph/file/617b74d62f0ddeca0d4df.jpg",
+        "https://telegra.ph/file/033b791275e900d0d5f87.jpg",
+        "https://telegra.ph/file/2addfffe89492ea2d30b6.jpg"
+    ]
+};

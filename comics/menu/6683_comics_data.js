@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6683,
+    "title": "油照紙束 No.03 あくま○こ (ワンピース)",
+    "sourceUrl": "https://telegra.ph/油照紙束-No03-あくまこ-ワンピース-08-31",
+    "images": [
+        "https://telegra.ph/file/c596f5173969b54b576df.jpg",
+        "https://telegra.ph/file/492a239a5b172d4f32d2d.jpg",
+        "https://telegra.ph/file/385d85542517fdd537938.jpg",
+        "https://telegra.ph/file/44930deb0e82c2e98b344.jpg",
+        "https://telegra.ph/file/cb58640b1ced866835084.jpg",
+        "https://telegra.ph/file/eb9c6c079b749a07a3d86.jpg",
+        "https://telegra.ph/file/ec57e98aa0645066aed54.jpg",
+        "https://telegra.ph/file/9e59b7bc19be194c541ec.jpg",
+        "https://telegra.ph/file/fa872a7d937cc89ba3436.jpg",
+        "https://telegra.ph/file/e09b87c5e4b58a19c05b8.jpg",
+        "https://telegra.ph/file/5170aaa10297c8bf2b641.jpg",
+        "https://telegra.ph/file/6c3d3802b36bd96e13586.jpg",
+        "https://telegra.ph/file/5bcbdd588a344d50199ea.jpg",
+        "https://telegra.ph/file/c81f65a3baa3aef1fabcc.jpg",
+        "https://telegra.ph/file/bc34e3f9704aef21ed576.jpg",
+        "https://telegra.ph/file/ab0f874ba8e80f06df6b3.jpg",
+        "https://telegra.ph/file/7ef40524e00cd1749b8c7.jpg",
+        "https://telegra.ph/file/049d727af67c26c9fd935.jpg",
+        "https://telegra.ph/file/79726d2750611e4c156ef.jpg",
+        "https://telegra.ph/file/20e0c9a11531572b40be0.jpg",
+        "https://telegra.ph/file/c8ea78f4138fe4ef5d2d6.jpg",
+        "https://telegra.ph/file/00d01754c16d66eb639a7.jpg",
+        "https://telegra.ph/file/a4c9e542d12d9f52dd07b.jpg",
+        "https://telegra.ph/file/3744cf63e333fc0111eef.jpg",
+        "https://telegra.ph/file/16f166a9eda4390c8ee7e.jpg",
+        "https://telegra.ph/file/96e53f805046b5692fea6.jpg"
+    ]
+};

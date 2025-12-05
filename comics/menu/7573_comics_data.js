@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7573,
+    "title": "清楚ビッチと純情ギャル2 カラオケボックスでエロカラしよっ♥",
+    "sourceUrl": "https://telegra.ph/清楚ビッチと純情ギャル2-カラオケボックスでエロカラしよっ-08-31",
+    "images": [
+        "https://telegra.ph/file/d58e6056c793e47c19f54.jpg",
+        "https://telegra.ph/file/cc78669d3b3f66f283747.jpg",
+        "https://telegra.ph/file/6be11a2a2bb185a8d858f.jpg",
+        "https://telegra.ph/file/1decc3634b6fa2a530ac2.jpg",
+        "https://telegra.ph/file/33d719a3866d4f0228969.jpg",
+        "https://telegra.ph/file/bfff0d20e8de8bc13768f.jpg",
+        "https://telegra.ph/file/a9be2a1e8dcefdf850f2f.jpg",
+        "https://telegra.ph/file/24c24434656410b920b6c.jpg",
+        "https://telegra.ph/file/4f3ac5bbb4bbb3ab97020.jpg",
+        "https://telegra.ph/file/5841580d293a4c6f1f2a4.jpg",
+        "https://telegra.ph/file/d10826fc69e34f4781e38.jpg",
+        "https://telegra.ph/file/3e5e8104b5245d4291d37.jpg",
+        "https://telegra.ph/file/7f3e9282ee713a0e8571d.jpg",
+        "https://telegra.ph/file/94a6f9798249a49a41d33.jpg",
+        "https://telegra.ph/file/7c07eb0414b70c725c335.jpg",
+        "https://telegra.ph/file/67a0027b0507dff0aa65c.jpg",
+        "https://telegra.ph/file/5f83db523ea44ef980363.jpg",
+        "https://telegra.ph/file/a9cff890ece7e85f6fbb1.jpg",
+        "https://telegra.ph/file/553006dba334bfad5d5eb.jpg",
+        "https://telegra.ph/file/aaae3ee1e15e7536f7f48.jpg",
+        "https://telegra.ph/file/eb2656c486b62a9967c5c.jpg",
+        "https://telegra.ph/file/e139cb735aed6e842f286.jpg",
+        "https://telegra.ph/file/172026f0efd41c7fdef28.jpg",
+        "https://telegra.ph/file/0ad9640f6c6f490ffc6b5.jpg"
+    ]
+};

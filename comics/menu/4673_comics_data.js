@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4673,
+    "title": "[室永叉焼] 先輩!練習より本番ッス♥ (義母さんの埋もれたい肉)",
+    "sourceUrl": "https://telegra.ph/室永叉焼-先輩練習より本番ッス-義母さんの埋もれたい肉-08-31",
+    "images": [
+        "https://telegra.ph/file/13b2e6de67eb2bba69398.jpg",
+        "https://telegra.ph/file/dd3fb9bc4aecc472a959b.jpg",
+        "https://telegra.ph/file/c43c45f0d25d217e2db87.jpg",
+        "https://telegra.ph/file/c59a218cf14921e60eb62.jpg",
+        "https://telegra.ph/file/7ba8824091e282c916d16.jpg",
+        "https://telegra.ph/file/dbb3d776e668937591d78.jpg",
+        "https://telegra.ph/file/57ef6a7c6fe9727f51584.jpg",
+        "https://telegra.ph/file/b1c4e0c09c6b93733f155.jpg",
+        "https://telegra.ph/file/dc700bd7a12fd7ac6d41e.jpg",
+        "https://telegra.ph/file/56ab57befd21c67dcc5f7.jpg",
+        "https://telegra.ph/file/4d1402d64fe762887c5b3.jpg",
+        "https://telegra.ph/file/f11310329ceb7ac235f9d.jpg",
+        "https://telegra.ph/file/43a914906f55c0ba0a074.jpg",
+        "https://telegra.ph/file/be8c17ac8a45bf94a671b.jpg",
+        "https://telegra.ph/file/65be11dfa35d7aab5c573.jpg",
+        "https://telegra.ph/file/b113566006f10771ffd7a.jpg",
+        "https://telegra.ph/file/18d26239a5d337a54160f.jpg",
+        "https://telegra.ph/file/06944b294350013aad4a4.jpg",
+        "https://telegra.ph/file/131cc1eb4b6eba9d96602.jpg",
+        "https://telegra.ph/file/05f0f01dce143714b0eaa.jpg",
+        "https://telegra.ph/file/0d01ca07a694a830b6fce.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/33bdabe903e1ca04cc292.jpg"
+    ]
+};

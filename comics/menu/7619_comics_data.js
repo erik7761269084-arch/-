@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7619,
+    "title": "叔父さんにされた夏休みのコト",
+    "sourceUrl": "https://telegra.ph/叔父さんにされた夏休みのコト-08-31",
+    "images": [
+        "https://telegra.ph/file/447e65e902cc8c0efd3f7.jpg",
+        "https://telegra.ph/file/cb7c7920a64ffb564edcc.jpg",
+        "https://telegra.ph/file/1e3c162762210a232cbbd.jpg",
+        "https://telegra.ph/file/1e68a4241ae6c19976ab3.jpg",
+        "https://telegra.ph/file/2aff0c6368579e815f3bb.jpg",
+        "https://telegra.ph/file/48b051bbb56000c0e26cc.jpg",
+        "https://telegra.ph/file/72395eb510210b51f0031.jpg",
+        "https://telegra.ph/file/574cc1830c03654a83ee9.jpg",
+        "https://telegra.ph/file/bbb673ba8a3a09016aacf.jpg",
+        "https://telegra.ph/file/35d1ec02100b3884ef280.jpg",
+        "https://telegra.ph/file/de0c45551c7f64ff82adf.jpg",
+        "https://telegra.ph/file/275d8d46e481959187dc6.jpg",
+        "https://telegra.ph/file/55ea2c2a071973ec8f4e5.jpg",
+        "https://telegra.ph/file/0c869e5dc1f3b8ab2a260.jpg",
+        "https://telegra.ph/file/370585673a8baf0535bfa.jpg",
+        "https://telegra.ph/file/4d49cb7be251217fc8034.jpg",
+        "https://telegra.ph/file/41d52708920bf85549561.jpg",
+        "https://telegra.ph/file/4299324834888b769d66a.jpg",
+        "https://telegra.ph/file/3c3fe4ad0e78eba786216.jpg",
+        "https://telegra.ph/file/f450489f2873769b749ff.jpg",
+        "https://telegra.ph/file/be3685530c97e4ba3e088.jpg",
+        "https://telegra.ph/file/d0955293e800b320a3d2f.jpg",
+        "https://telegra.ph/file/5fcd9259fd66245e21779.jpg",
+        "https://telegra.ph/file/1ef8138f73b0775139b52.jpg",
+        "https://telegra.ph/file/c96d9f9f636862637ecda.jpg"
+    ]
+};

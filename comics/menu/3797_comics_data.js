@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3797,
+    "title": "[あとりえスターズ (有都あらゆる)] 家出少女結川さん",
+    "sourceUrl": "https://telegra.ph/あとりえスターズ-有都あらゆる-家出少女結川さん-08-31",
+    "images": [
+        "https://telegra.ph/file/0dc295bbfd961ffd0b07a.jpg",
+        "https://telegra.ph/file/d808e3d4fa0b248125004.jpg",
+        "https://telegra.ph/file/94606d4789bf9fef99718.jpg",
+        "https://telegra.ph/file/05a98e14048d0d359d044.jpg",
+        "https://telegra.ph/file/e855b9ea622e205909012.jpg",
+        "https://telegra.ph/file/b9c2ff55f2bdfa7c6fb04.jpg",
+        "https://telegra.ph/file/03c03f5a1304b8c7ee379.jpg",
+        "https://telegra.ph/file/d940df5f8ea25b1e3ef9d.jpg",
+        "https://telegra.ph/file/e78231bc8b970e8ecdd32.jpg",
+        "https://telegra.ph/file/cc32e831b6c7be94d0bc6.jpg",
+        "https://telegra.ph/file/a4b1a5ac2f4b20f981fb5.jpg",
+        "https://telegra.ph/file/eaf7341393bfd1c8910d4.jpg",
+        "https://telegra.ph/file/06e7ff60b4a8165bf97b5.jpg",
+        "https://telegra.ph/file/9757e3401c8d2c042bc36.jpg",
+        "https://telegra.ph/file/5599f731e71328d0db834.jpg",
+        "https://telegra.ph/file/1c63ddbb4a94998646661.jpg",
+        "https://telegra.ph/file/38dae3c8ba08bb18049e3.jpg",
+        "https://telegra.ph/file/eb2f755f3b0c79191c07c.jpg",
+        "https://telegra.ph/file/c913d02b77edecea1bce1.jpg",
+        "https://telegra.ph/file/e5f0e54736008a67814a7.jpg",
+        "https://telegra.ph/file/f783ab3eca021dcc041b0.jpg",
+        "https://telegra.ph/file/ab43da35a02dab0dcbe29.jpg",
+        "https://telegra.ph/file/c402f8ee7a86091916123.jpg",
+        "https://telegra.ph/file/f431efc8b63b1f8b774e8.jpg",
+        "https://telegra.ph/file/9df0a170770ec954ca8cd.jpg"
+    ]
+};

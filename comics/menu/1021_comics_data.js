@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1021,
+    "title": "[Bonsketch (ぼんすけ)] 匂い立つ汗臭ヘルス～沙江子～",
+    "sourceUrl": "https://telegra.ph/Bonsketch-ぼんすけ-匂い立つ汗臭ヘルス沙江子-08-31",
+    "images": [
+        "https://telegra.ph/file/5938139a9964346841bab.jpg",
+        "https://telegra.ph/file/8782c560e08a4050e7211.jpg",
+        "https://telegra.ph/file/7b5b4ae3bdfb56b2c79df.jpg",
+        "https://telegra.ph/file/63850fddd97fbc108557e.jpg",
+        "https://telegra.ph/file/9b62b720a7b8af2d17d99.jpg",
+        "https://telegra.ph/file/9e617c6dcd872400b4faf.jpg",
+        "https://telegra.ph/file/4d26f79377b8ebbc4a0e0.jpg",
+        "https://telegra.ph/file/c4b33eb804f0c501ddc51.jpg",
+        "https://telegra.ph/file/4ef83c54ba5a5961182f5.jpg",
+        "https://telegra.ph/file/f647a566731ee5a0c9cc5.jpg",
+        "https://telegra.ph/file/be9615dea95778cdfb887.jpg",
+        "https://telegra.ph/file/d3fd91d2b132e48465632.jpg",
+        "https://telegra.ph/file/69b5f6abc949b8fb5fbe6.jpg",
+        "https://telegra.ph/file/732ba5c3fdcfb15488f40.jpg",
+        "https://telegra.ph/file/0ed0cce61864961a9d6c3.jpg",
+        "https://telegra.ph/file/bf5822719b281bda388cd.jpg",
+        "https://telegra.ph/file/07bde3248363cf199e21a.jpg",
+        "https://telegra.ph/file/e49d9297a7b0c025eb75f.jpg",
+        "https://telegra.ph/file/930aa23e3b1e01d0dd868.jpg",
+        "https://telegra.ph/file/e358531d660bb9fbae73f.jpg",
+        "https://telegra.ph/file/25f8b76803d89354cc7f9.jpg",
+        "https://telegra.ph/file/81a4f91a8fa53fef489cd.jpg",
+        "https://telegra.ph/file/918802ecdef3094d9ad89.jpg"
+    ]
+};

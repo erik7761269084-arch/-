@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3791,
+    "title": "[pastime774] ユニークジョブ【種付けおじさん】を獲得しました 1",
+    "sourceUrl": "https://telegra.ph/pastime774-ユニークジョブ種付けおじさんを獲得しました-1-08-31",
+    "images": [
+        "https://telegra.ph/file/10b9d18ab34884402f3e6.jpg",
+        "https://telegra.ph/file/42de79bbefcfc109cb06a.jpg",
+        "https://telegra.ph/file/74c3c334369310bf057d3.jpg",
+        "https://telegra.ph/file/9300ffdcac7457f4f5ef1.jpg",
+        "https://telegra.ph/file/6f4a393d7752045f00384.jpg",
+        "https://telegra.ph/file/7aac8b32ac43d07b6665b.jpg",
+        "https://telegra.ph/file/4516e098f774b502a3bf4.jpg",
+        "https://telegra.ph/file/df38a325f02a2da504784.jpg",
+        "https://telegra.ph/file/c2fe6759d626d4f5faab9.jpg",
+        "https://telegra.ph/file/262345080700c24b3a20d.jpg",
+        "https://telegra.ph/file/d40cf6cc52220c35318ba.jpg",
+        "https://telegra.ph/file/1e88b0ca3ff5d4f70f14c.jpg",
+        "https://telegra.ph/file/9589185b2e7e1495e6eb3.jpg",
+        "https://telegra.ph/file/5975c2d1c10b11c1c50e2.jpg",
+        "https://telegra.ph/file/5c24d98a7c94468468a43.jpg",
+        "https://telegra.ph/file/9a6517e0eb76477dfc73d.jpg",
+        "https://telegra.ph/file/6d512d37f79d068ad1e1a.jpg",
+        "https://telegra.ph/file/058264bb57683e99019f1.jpg",
+        "https://telegra.ph/file/19b426ce498fa570098f3.jpg",
+        "https://telegra.ph/file/1b67875eb11c278457fc0.jpg",
+        "https://telegra.ph/file/9e70bde98a3885297fd22.jpg",
+        "https://telegra.ph/file/0e2571e8c5e3b918abd22.jpg",
+        "https://telegra.ph/file/689a7fa6eecf4dab57e61.jpg",
+        "https://telegra.ph/file/7d022882f2b389d98f699.jpg",
+        "https://telegra.ph/file/5435d8ec89d3e759eaa44.jpg",
+        "https://telegra.ph/file/44af3f3b812b0e87ca6db.jpg"
+    ]
+};

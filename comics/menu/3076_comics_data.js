@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3076,
+    "title": "(FF37) [四季注意 (四季)] 你媽是可可蘿！我媽也是可可蘿！我幹你娘也沒差吧！ (プリンセスコネクト!Re:Dive) [中國語]",
+    "sourceUrl": "https://telegra.ph/FF37-四季注意-四季-你媽是可可蘿我媽也是可可蘿我幹你娘也沒差吧-プリンセスコネクトReDive-中國語-08-31",
+    "images": [
+        "https://telegra.ph/file/48d5697ad5f12424a5763.jpg",
+        "https://telegra.ph/file/8645cbd9adbb485a66f3a.jpg",
+        "https://telegra.ph/file/f8db095cf583e3284f17d.jpg",
+        "https://telegra.ph/file/7298b15cbcfb5153470fb.jpg",
+        "https://telegra.ph/file/4ee8c505b406ee08a5e57.jpg",
+        "https://telegra.ph/file/45afa1703b2c75345237c.jpg",
+        "https://telegra.ph/file/25a892d9e4fd1e6c18574.jpg",
+        "https://telegra.ph/file/6e379f97915b09a6b1d29.jpg",
+        "https://telegra.ph/file/93b8086737d970458ea89.jpg",
+        "https://telegra.ph/file/b99278021917da5f00e7b.jpg",
+        "https://telegra.ph/file/9151246fde83bd03c4c78.jpg",
+        "https://telegra.ph/file/5e4ff14e429fca0252c82.jpg",
+        "https://telegra.ph/file/612c03083cbcdcfbbd2d9.jpg",
+        "https://telegra.ph/file/0c94cbf76cd280f26bf44.jpg",
+        "https://telegra.ph/file/60a2d4e2e8b3b35fa2a25.jpg",
+        "https://telegra.ph/file/28f0c1ca6f085a4ce066c.jpg",
+        "https://telegra.ph/file/a0dcf8648faac3bf3ff95.jpg",
+        "https://telegra.ph/file/17f91f0c9e7f43e4b8002.jpg",
+        "https://telegra.ph/file/89bdfbdf2b6c3364c5948.jpg",
+        "https://telegra.ph/file/401445bc36033d143fd72.jpg",
+        "https://telegra.ph/file/5f63ea5878a21eb24cc53.jpg",
+        "https://telegra.ph/file/aac7a0f8f774c709aa2c2.jpg",
+        "https://telegra.ph/file/0fae414380de9e7894cbb.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 944,
+    "title": "(C97) [ダシガラ100% (民兵一号)] 大波に乗ろう! (ワンピース)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/C97-ダシガラ100-民兵一号-大波に乗ろう-ワンピース-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/17a47abb37d6768be2aaf.jpg",
+        "https://telegra.ph/file/1505f44a923637d954d36.jpg",
+        "https://telegra.ph/file/fa4d1a50790f5cc9a6f33.jpg",
+        "https://telegra.ph/file/3dedec964f95326fa0f55.jpg",
+        "https://telegra.ph/file/eb9b310a17e2a25dd4011.jpg",
+        "https://telegra.ph/file/4a84b3e70c9c1409382b2.jpg",
+        "https://telegra.ph/file/86ab8e2f1fe2d3092dde4.jpg",
+        "https://telegra.ph/file/2fab10ebf3f40388521f4.jpg",
+        "https://telegra.ph/file/700a2db98ec04077d7a10.jpg",
+        "https://telegra.ph/file/a175e7e78de1f38a6a796.jpg",
+        "https://telegra.ph/file/05511bd1a966fa210c89d.jpg",
+        "https://telegra.ph/file/dd6c05967180e1d9cfa6d.jpg",
+        "https://telegra.ph/file/a2d3397c82d72d6b5a30e.jpg",
+        "https://telegra.ph/file/427086b4c479c7d32d9ca.jpg",
+        "https://telegra.ph/file/8a1a1fbb1f752bf0892ba.jpg",
+        "https://telegra.ph/file/64d360d6692acd1e4e57d.jpg",
+        "https://telegra.ph/file/80318ad5484484ed664b2.jpg",
+        "https://telegra.ph/file/e074318bdba46f62bcce3.jpg",
+        "https://telegra.ph/file/1d3e50d01804b74d68136.jpg",
+        "https://telegra.ph/file/a3e1fa1ed59213c29c734.jpg",
+        "https://telegra.ph/file/f267f9cb94baaadaa1c72.jpg",
+        "https://telegra.ph/file/25317afa7e9c591d4dab3.jpg",
+        "https://telegra.ph/file/a85862f2fbe3ff5d8ab0a.jpg",
+        "https://telegra.ph/file/1977d53ce6927a11abf86.jpg",
+        "https://telegra.ph/file/697e2ba2b49ba020554bb.jpg",
+        "https://telegra.ph/file/7aad54dfb3eecac33e791.jpg"
+    ]
+};

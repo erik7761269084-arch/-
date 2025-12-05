@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 782,
+    "title": "[cham22] Poppy Manga (League of Legends) 波比的漫畫[chinese]",
+    "sourceUrl": "https://telegra.ph/cham22-Poppy-Manga-League-of-Legends-波比的漫畫chinese-08-31",
+    "images": [
+        "https://telegra.ph/file/61867c5c58a965c684e42.jpg",
+        "https://telegra.ph/file/143c5ba2e513f236e834b.jpg",
+        "https://telegra.ph/file/d2aa1df66493c94b77d05.jpg",
+        "https://telegra.ph/file/96d979ed20ddbe17277ec.jpg",
+        "https://telegra.ph/file/c6939522b2d10439096e8.jpg",
+        "https://telegra.ph/file/2458d8a20a81cb4f4fd07.jpg",
+        "https://telegra.ph/file/ffdfa688280290660d86e.jpg",
+        "https://telegra.ph/file/9c0357104a97dce603bd7.jpg",
+        "https://telegra.ph/file/24eeb0295c7b0c75a11f4.jpg",
+        "https://telegra.ph/file/65889220fc62d91028cf7.jpg",
+        "https://telegra.ph/file/2adbbda7fc704c8e49998.jpg",
+        "https://telegra.ph/file/70394555f62281ed62259.jpg",
+        "https://telegra.ph/file/5e3c511c491faa2fd523b.jpg",
+        "https://telegra.ph/file/e1cc44684f5b4b9e6e6a7.jpg",
+        "https://telegra.ph/file/16831a339cb9385780614.jpg",
+        "https://telegra.ph/file/1b35f43c6a6dbdf63b773.jpg",
+        "https://telegra.ph/file/b434325ac6b460060243a.jpg",
+        "https://telegra.ph/file/3cc9e23c57acb02ea091e.jpg",
+        "https://telegra.ph/file/b676cb4ea58695158ce5c.jpg",
+        "https://telegra.ph/file/b08cc02ef3256d90432b9.jpg",
+        "https://telegra.ph/file/e7358d2d94d062d318a3b.jpg",
+        "https://telegra.ph/file/773500ce8f8b5011837c0.jpg",
+        "https://telegra.ph/file/db58bcc61a3e31e5e586f.jpg",
+        "https://telegra.ph/file/1c4e8588138eb14708832.jpg",
+        "https://telegra.ph/file/d142c7596e76e7123c59c.jpg"
+    ]
+};

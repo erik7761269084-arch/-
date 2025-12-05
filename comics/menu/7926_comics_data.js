@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7926,
+    "title": "Commensalism 2",
+    "sourceUrl": "https://telegra.ph/Commensalism-2-08-31",
+    "images": [
+        "https://telegra.ph/file/f6b1d0d78724ae1b28181.jpg",
+        "https://telegra.ph/file/8a3025ff27fbbda5c1c2f.jpg",
+        "https://telegra.ph/file/ce406b6f74795d8952d1b.jpg",
+        "https://telegra.ph/file/5d7c4589fa09ab81fa8eb.jpg",
+        "https://telegra.ph/file/1a282c2f6c4de5787a0fa.jpg",
+        "https://telegra.ph/file/91c57eec0950efc26a017.jpg",
+        "https://telegra.ph/file/4fd15116abbcd0dec6dd3.jpg",
+        "https://telegra.ph/file/64b60c4f74ff71799bb34.jpg",
+        "https://telegra.ph/file/e81638030f0949e9bf6c5.jpg",
+        "https://telegra.ph/file/692a96683ab12be93b135.jpg",
+        "https://telegra.ph/file/90e492e0243175b3736bd.jpg",
+        "https://telegra.ph/file/dca7fb40a41497d86ac25.jpg",
+        "https://telegra.ph/file/0d5618ddff31fdd44370c.jpg",
+        "https://telegra.ph/file/f0c2691eab75993c67f20.jpg",
+        "https://telegra.ph/file/e2b85073f39ee2647b4bd.jpg",
+        "https://telegra.ph/file/5119e29b00d466b7c12c5.jpg",
+        "https://telegra.ph/file/bcdaabb7e12291a9cd2f1.jpg",
+        "https://telegra.ph/file/204704a1b47e40de8fd94.jpg",
+        "https://telegra.ph/file/af36ff823742909d75e48.jpg",
+        "https://telegra.ph/file/ddfb8d362d42a612b7bfe.jpg",
+        "https://telegra.ph/file/4e8fe210a528d3be000f6.jpg",
+        "https://telegra.ph/file/e03fc9df8c5c2309ca70e.jpg",
+        "https://telegra.ph/file/074e2c0fa982ca1fd01ba.jpg",
+        "https://telegra.ph/file/d599d2c817d3782af8bd2.jpg",
+        "https://telegra.ph/file/cdf7d02a3e3634dbd3b98.jpg"
+    ]
+};

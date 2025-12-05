@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1185,
+    "title": "[翁賀馬乃助] メルティドール (COMIC 快楽天 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/翁賀馬乃助-メルティドール-COMIC-快楽天-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/fcae9e92533f796ff7c07.jpg",
+        "https://telegra.ph/file/c3313c96d4283f3752fa0.jpg",
+        "https://telegra.ph/file/060dfee2c28d7c267aa4a.jpg",
+        "https://telegra.ph/file/0b1126f3348ac87d5780c.jpg",
+        "https://telegra.ph/file/331b9f0ed803c8161a30a.jpg",
+        "https://telegra.ph/file/a7a3c33cd8ba4a834694e.jpg",
+        "https://telegra.ph/file/ae3ca13ac3bc4f9993098.jpg",
+        "https://telegra.ph/file/542a68a946a134e0593a1.jpg",
+        "https://telegra.ph/file/b2bebec39ec03b1a1e705.jpg",
+        "https://telegra.ph/file/03bccf8ce594547b06cf1.jpg",
+        "https://telegra.ph/file/86ef484b33e85dd3e331a.jpg",
+        "https://telegra.ph/file/c8153bd0594b0cd3d3be7.jpg",
+        "https://telegra.ph/file/eee42423995e021d05474.jpg",
+        "https://telegra.ph/file/4613de8e9aecb086cc59b.jpg",
+        "https://telegra.ph/file/3d08b0e94107be77c9ab6.jpg",
+        "https://telegra.ph/file/578677ca7975390553339.jpg",
+        "https://telegra.ph/file/67a6dd5cfb56fbcb8a86e.jpg",
+        "https://telegra.ph/file/2ad11a2ecc035f4605d70.jpg",
+        "https://telegra.ph/file/0e3d391a5fc0c8dd50c0c.jpg",
+        "https://telegra.ph/file/21a99166e72637dfb4b74.jpg",
+        "https://telegra.ph/file/953fe443b18892b9d2034.jpg",
+        "https://telegra.ph/file/62e8427c6bbd255a56a07.jpg",
+        "https://telegra.ph/file/414b462bbcd679df2caec.jpg",
+        "https://telegra.ph/file/6351d1f9e396c32b2e8dc.jpg",
+        "https://telegra.ph/file/0a0677f3156a670806d35.jpg"
+    ]
+};

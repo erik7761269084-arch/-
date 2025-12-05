@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1363,
+    "title": "[玉ぼん] イキリ矯正・処女(?)ビッチ! (COMIC 快楽天 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/玉ぼん-イキリ矯正処女ビッチ-COMIC-快楽天-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7144f0033a74e27e74de3.jpg",
+        "https://telegra.ph/file/8f2dea4f9b1866c915b56.jpg",
+        "https://telegra.ph/file/5e7ce8888b3efa851f3ea.jpg",
+        "https://telegra.ph/file/4e9abfefb7b40aab5ab13.jpg",
+        "https://telegra.ph/file/eb7a8a0dcfe5a2b25a622.jpg",
+        "https://telegra.ph/file/b940d9348bbd8386101bd.jpg",
+        "https://telegra.ph/file/5aa487ade9deeb674b431.jpg",
+        "https://telegra.ph/file/fdafd725a9005bf57deaa.jpg",
+        "https://telegra.ph/file/4f97b1703b5920a2726b9.jpg",
+        "https://telegra.ph/file/8fd8bea3ef4a074125c18.jpg",
+        "https://telegra.ph/file/fb389298628e672df4e64.jpg",
+        "https://telegra.ph/file/63ed58b7999822d0b3d18.jpg",
+        "https://telegra.ph/file/cadbe477649c2490237d9.jpg",
+        "https://telegra.ph/file/0c2bfe17706fb28c0e667.jpg",
+        "https://telegra.ph/file/00e616dc27fe446aafe7c.jpg",
+        "https://telegra.ph/file/aab9007eec35d8e1b61cf.jpg",
+        "https://telegra.ph/file/7cd42cab4a26756af488b.jpg",
+        "https://telegra.ph/file/ecc6849473ac790d220da.jpg",
+        "https://telegra.ph/file/1ae2a56c4dc703bcb5d45.jpg",
+        "https://telegra.ph/file/f00592eec48ccf483b144.jpg",
+        "https://telegra.ph/file/52dd8ecb4f7a16a210813.jpg",
+        "https://telegra.ph/file/d1ac13fe5f7c91c4cd768.jpg",
+        "https://telegra.ph/file/305233dc9a9d7c11cba68.jpg"
+    ]
+};

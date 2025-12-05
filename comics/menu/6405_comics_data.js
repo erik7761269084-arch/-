@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6405,
+    "title": "Dragon Cream!! (ドラゴンズクラウン)",
+    "sourceUrl": "https://telegra.ph/Dragon-Cream-ドラゴンズクラウン-08-31",
+    "images": [
+        "https://telegra.ph/file/d174a67d13adb9e795506.jpg",
+        "https://telegra.ph/file/cc4bfcc3cb80bf9e665f3.jpg",
+        "https://telegra.ph/file/0d44b6ccbbdc7139bf329.jpg",
+        "https://telegra.ph/file/c3ef13d852b99e46b20d8.jpg",
+        "https://telegra.ph/file/be1a86c881a9f32f6398f.jpg",
+        "https://telegra.ph/file/412e766172d4c0f6991d0.jpg",
+        "https://telegra.ph/file/932a33ee71f03d89d6f04.jpg",
+        "https://telegra.ph/file/47c7ede42e9b762c66e3f.jpg",
+        "https://telegra.ph/file/fc81f353eada749b49707.jpg",
+        "https://telegra.ph/file/27e083233259bb29311c1.jpg",
+        "https://telegra.ph/file/68daadac6dec77c79e7e6.jpg",
+        "https://telegra.ph/file/faa29e59cf11d35cbfa6d.jpg",
+        "https://telegra.ph/file/15df5f802ac518fbf27c8.jpg",
+        "https://telegra.ph/file/cdd4705545d091df8c18d.jpg",
+        "https://telegra.ph/file/5ef12ea8af5274d24c402.jpg",
+        "https://telegra.ph/file/1d45aaa0aa948efaaa0b6.jpg",
+        "https://telegra.ph/file/6553172c76f0ffa57a15f.jpg",
+        "https://telegra.ph/file/57fde9cdfb410445447a7.jpg",
+        "https://telegra.ph/file/23ad557823a483e7d64e6.jpg",
+        "https://telegra.ph/file/262538c73848d67f2604a.jpg",
+        "https://telegra.ph/file/8d8aafba80ce73c362338.jpg",
+        "https://telegra.ph/file/3e636390ee600fe4f89d0.jpg",
+        "https://telegra.ph/file/96623a0fc887c0e0ff2bb.jpg",
+        "https://telegra.ph/file/4063dae2dc59f755b9b46.jpg",
+        "https://telegra.ph/file/31d369429c19ca2ffc516.jpg"
+    ]
+};

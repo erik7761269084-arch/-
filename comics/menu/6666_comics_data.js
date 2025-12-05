@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6666,
+    "title": "妖夢ちゃんラブラブせっくす (東方Project)",
+    "sourceUrl": "https://telegra.ph/妖夢ちゃんラブラブせっくす-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/055f01744810a2af3c71d.jpg",
+        "https://telegra.ph/file/6e30752e6ebaebded6ec8.jpg",
+        "https://telegra.ph/file/e16a90bb4ab05ebcdb740.jpg",
+        "https://telegra.ph/file/d357301ac25d416d6791a.jpg",
+        "https://telegra.ph/file/293fa42c6a8fb5ac81687.jpg",
+        "https://telegra.ph/file/943b8a40b3bdccdc65a02.jpg",
+        "https://telegra.ph/file/4a05232a30eb7f8cea799.jpg",
+        "https://telegra.ph/file/239493710a8d1f2daa989.jpg",
+        "https://telegra.ph/file/0f36056f308b511aff615.jpg",
+        "https://telegra.ph/file/77b1d83f6dfc2dc088f60.jpg",
+        "https://telegra.ph/file/9f125aac4877912cd8962.jpg",
+        "https://telegra.ph/file/cdb887811ada2505a137a.jpg",
+        "https://telegra.ph/file/634418c3329d148d339a1.jpg",
+        "https://telegra.ph/file/e936cf5cfe8c3bc137911.jpg",
+        "https://telegra.ph/file/d8a4987a9f930715691c3.jpg",
+        "https://telegra.ph/file/c5089a6c5fb8ee867f2e0.jpg",
+        "https://telegra.ph/file/b361e479b54ea71b38e6d.jpg",
+        "https://telegra.ph/file/226800141ac3466d8a992.jpg",
+        "https://telegra.ph/file/029038e08cf7a577f1e57.jpg",
+        "https://telegra.ph/file/eb8bcace78aec01bdec8a.jpg",
+        "https://telegra.ph/file/8dbb80e8b5d459ec74b11.jpg",
+        "https://telegra.ph/file/69460ac822f76f37b013e.jpg",
+        "https://telegra.ph/file/a380e049f1c0bc18a0b8e.jpg"
+    ]
+};

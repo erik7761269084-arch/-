@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4721,
+    "title": "[みるきーすふれ (ししょー)] 甘堕。～ぷにサキュバスの搾精ペットになりました～",
+    "sourceUrl": "https://telegra.ph/みるきーすふれ-ししょー-甘堕ぷにサキュバスの搾精ペットになりました-08-31",
+    "images": [
+        "https://telegra.ph/file/306402f129437d5ff2cbe.jpg",
+        "https://telegra.ph/file/c8a41d5193cc38e1a1237.jpg",
+        "https://telegra.ph/file/af3234b745846d9f7bb11.jpg",
+        "https://telegra.ph/file/293bec86932d4b132720a.jpg",
+        "https://telegra.ph/file/2a90437db1de412e48819.jpg",
+        "https://telegra.ph/file/35dde098f94fd1291f7b2.jpg",
+        "https://telegra.ph/file/021598a726ea1dcfdcd38.jpg",
+        "https://telegra.ph/file/70675584bb61859a1108c.jpg",
+        "https://telegra.ph/file/f0e8d5305f77e6fe0bc5c.jpg",
+        "https://telegra.ph/file/336ccbcf13d41d1ee4833.jpg",
+        "https://telegra.ph/file/65bca28826b378f2bfc95.jpg",
+        "https://telegra.ph/file/4cc1e7f2b7299111cb13d.jpg",
+        "https://telegra.ph/file/3caef5ca9fe95745718a8.jpg",
+        "https://telegra.ph/file/84084659e86a4b07c964c.jpg",
+        "https://telegra.ph/file/212e025f2f7f4d3651ecc.jpg",
+        "https://telegra.ph/file/4f28a593b38d0bd95e832.jpg",
+        "https://telegra.ph/file/84454519411c72df17caa.jpg",
+        "https://telegra.ph/file/0885b2b4462b6e736db65.jpg",
+        "https://telegra.ph/file/5c3eda33fe2e3ed1d183f.jpg",
+        "https://telegra.ph/file/747799fbab7f4f72b4f07.jpg",
+        "https://telegra.ph/file/d8be2b64542469caa93a8.jpg",
+        "https://telegra.ph/file/1694216c526dcd8b59c3f.jpg",
+        "https://telegra.ph/file/0445d4417c7f41ec22b87.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/cc7975790e2be5b5b863e.jpg",
+        "https://telegra.ph/file/e6ac3d89fe4ba71eb0d1e.jpg"
+    ]
+};

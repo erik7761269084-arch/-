@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5463,
+    "title": "[羅ぶい] 欲望ラブプリンセス",
+    "sourceUrl": "https://telegra.ph/羅ぶい-欲望ラブプリンセス-08-31",
+    "images": [
+        "https://telegra.ph/file/730e2e39e768c2da3b4f3.jpg",
+        "https://telegra.ph/file/d66c9f2792ac49368ee3d.jpg",
+        "https://telegra.ph/file/d31fc97f9db55f911e56b.jpg",
+        "https://telegra.ph/file/cc04b507ef57bc6aa4466.jpg",
+        "https://telegra.ph/file/9c34b05f6bd000e5065cd.jpg",
+        "https://telegra.ph/file/46cfda0056f1bffa7b354.jpg",
+        "https://telegra.ph/file/d5d58e57be9b9f58f9c10.jpg",
+        "https://telegra.ph/file/4af9cc8db75429c8ec0f9.jpg",
+        "https://telegra.ph/file/b6d391bd235caa104f30d.jpg",
+        "https://telegra.ph/file/79d3bbb158bf69b0394ad.jpg",
+        "https://telegra.ph/file/5d35162dbe98464aac609.jpg",
+        "https://telegra.ph/file/85094904d6a8bd4ba027f.jpg",
+        "https://telegra.ph/file/621b9ee33c84571aade26.jpg",
+        "https://telegra.ph/file/945637915f24419022a25.jpg",
+        "https://telegra.ph/file/4f3b682279100f363a8ae.jpg",
+        "https://telegra.ph/file/450b011daca412b814e3e.jpg",
+        "https://telegra.ph/file/feac5441f9c39e74724f2.jpg",
+        "https://telegra.ph/file/b958137d54414535ba0a3.jpg",
+        "https://telegra.ph/file/bf1bff4f3c4795234a85a.jpg",
+        "https://telegra.ph/file/a0c6db44b3dd6303f5ebb.jpg",
+        "https://telegra.ph/file/ac46d0e7001aed808a41e.jpg",
+        "https://telegra.ph/file/76715edf38c7aaddae8a4.jpg",
+        "https://telegra.ph/file/33f84c78f0e2b05fe2d70.jpg",
+        "https://telegra.ph/file/2904f5192d46ceed00f08.jpg"
+    ]
+};

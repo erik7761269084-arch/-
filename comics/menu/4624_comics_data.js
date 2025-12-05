@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4624,
+    "title": "[すこぶるやま (イトハナ)] 先輩!もっと俺にご褒美ください!",
+    "sourceUrl": "https://telegra.ph/すこぶるやま-イトハナ-先輩もっと俺にご褒美ください-08-31",
+    "images": [
+        "https://telegra.ph/file/5c7271917b5f296f812b1.jpg",
+        "https://telegra.ph/file/8055fbe08b879f00b7c6c.jpg",
+        "https://telegra.ph/file/13b65d0efdb04f22e173b.jpg",
+        "https://telegra.ph/file/a37abf73b0ffb0b706461.jpg",
+        "https://telegra.ph/file/d459fc83e5aeb4b4f5260.jpg",
+        "https://telegra.ph/file/1023d1bcf5eb4706490b9.jpg",
+        "https://telegra.ph/file/4a95708d5ed4c8e395058.jpg",
+        "https://telegra.ph/file/e2601891ddbec653d076c.jpg",
+        "https://telegra.ph/file/48f57b2fbadd45cf487d2.jpg",
+        "https://telegra.ph/file/6ba745ed5fe5ea8b1b829.jpg",
+        "https://telegra.ph/file/cdd89039fa25c3e1f014c.jpg",
+        "https://telegra.ph/file/2a70872729e06dda5a2ea.jpg",
+        "https://telegra.ph/file/4c4b7fe6210403631e111.jpg",
+        "https://telegra.ph/file/c47c40b88072e0a8284b8.jpg",
+        "https://telegra.ph/file/da0e7749c47770c81a24c.jpg",
+        "https://telegra.ph/file/bc53f18bf14e9966d95da.jpg",
+        "https://telegra.ph/file/54e5cb6eb4bbf4bd37b28.jpg",
+        "https://telegra.ph/file/a4b1b3b2a46b5f7e28d1e.jpg",
+        "https://telegra.ph/file/9ea91973a5a4080f2f5f5.jpg",
+        "https://telegra.ph/file/6f89a0da3058f42cd2314.jpg",
+        "https://telegra.ph/file/9c7a78344db5b0b2a03e5.jpg",
+        "https://telegra.ph/file/4f062b04f8d167868e1c5.jpg",
+        "https://telegra.ph/file/13ea866b0456b2544dbf7.jpg",
+        "https://telegra.ph/file/8749e81da2d0f71f4cc4b.jpg",
+        "https://telegra.ph/file/e24bab7dcbcff406a7758.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6747,
+    "title": "ほむほむを全裸でコンビニへ行かせる本 (魔法少女まどか☆マギカ)",
+    "sourceUrl": "https://telegra.ph/ほむほむを全裸でコンビニへ行かせる本-魔法少女まどかマギカ-08-31",
+    "images": [
+        "https://telegra.ph/file/d304dc7aad6b701942b6e.png",
+        "https://telegra.ph/file/6099062bf6fe4aa591899.png",
+        "https://telegra.ph/file/00686da2c8d9b12964793.png",
+        "https://telegra.ph/file/efa17b6f820eafcbb78da.png",
+        "https://telegra.ph/file/5dbda2a04dd02c5cb6f75.png",
+        "https://telegra.ph/file/8f186766110fababe9716.png",
+        "https://telegra.ph/file/ba2664c5edbcd931cd524.png",
+        "https://telegra.ph/file/1e2aef6e639b8a0c5b564.png",
+        "https://telegra.ph/file/0e07d1bfb52726c4541fb.png",
+        "https://telegra.ph/file/32b154296c625fbe57b2d.png",
+        "https://telegra.ph/file/bd38c08fe293bd4d4a3bd.png",
+        "https://telegra.ph/file/9f7e3c9e02dc3abcfb59e.png",
+        "https://telegra.ph/file/5f277999b102a66323795.png",
+        "https://telegra.ph/file/970d5e526e634ddf40ef9.png",
+        "https://telegra.ph/file/a8cfe3a4cf03555748c82.png",
+        "https://telegra.ph/file/728c3142e57d385136118.png",
+        "https://telegra.ph/file/dce0254d99685b63f1a93.png",
+        "https://telegra.ph/file/fef36e02bdfccb1cac6a9.png",
+        "https://telegra.ph/file/8ab36ee3f9e5de17963f9.png",
+        "https://telegra.ph/file/abe1021839c85508eb43f.png",
+        "https://telegra.ph/file/c7fe1d7a640ca5894fc43.png",
+        "https://telegra.ph/file/0e3645668004394b67a30.png",
+        "https://telegra.ph/file/87782fac0f83fe801d69a.png",
+        "https://telegra.ph/file/47653ec7df479d6f2a562.png"
+    ]
+};

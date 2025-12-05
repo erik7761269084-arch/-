@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5049,
+    "title": "(サンクリ2017 Winter) がまんして、ほしがって。(やはり俺の青春ラブコメはまちがっている。)",
+    "sourceUrl": "https://telegra.ph/サンクリ2017-Winter-がまんしてほしがってやはり俺の青春ラブコメはまちがっている-08-31-2",
+    "images": [
+        "https://telegra.ph/file/645b8713b206b8a9aa7e0.jpg",
+        "https://telegra.ph/file/ace4177e50e705e4dbf37.jpg",
+        "https://telegra.ph/file/35b85126faaf4dcd28185.jpg",
+        "https://telegra.ph/file/5212ce773b43098026ef7.jpg",
+        "https://telegra.ph/file/e5f8efc3f78a45ca2b632.jpg",
+        "https://telegra.ph/file/28e262d6fe8854ffea69e.jpg",
+        "https://telegra.ph/file/bc6063d1938c113e4b0c3.jpg",
+        "https://telegra.ph/file/1b6627073f3c7604297be.jpg",
+        "https://telegra.ph/file/2071ade117d0759945781.jpg",
+        "https://telegra.ph/file/b8469ce8f504628774ded.jpg",
+        "https://telegra.ph/file/df2dad188df4d27f498f1.jpg",
+        "https://telegra.ph/file/716cedcca79ba7ea6fb96.jpg",
+        "https://telegra.ph/file/d8966287e6e3b6437badd.jpg",
+        "https://telegra.ph/file/7e6167a09e11b016b4fdc.jpg",
+        "https://telegra.ph/file/e96b64ff1d8f3aa3b245d.jpg",
+        "https://telegra.ph/file/38f2906115e4c44886caf.jpg",
+        "https://telegra.ph/file/8ed5bef3b97dd908379b7.jpg",
+        "https://telegra.ph/file/ee586b24331085e28bf5c.jpg",
+        "https://telegra.ph/file/029009a6e94df5ef763da.jpg",
+        "https://telegra.ph/file/6cae9dc951176ec860e90.jpg",
+        "https://telegra.ph/file/93d65ac062f2aafe35ec4.jpg",
+        "https://telegra.ph/file/3b53d4f03feec03589aad.jpg",
+        "https://telegra.ph/file/8829f495d13c228f42906.jpg",
+        "https://telegra.ph/file/ba135f3dba9cad84fe011.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7278,
+    "title": "初めての想い人",
+    "sourceUrl": "https://telegra.ph/初めての想い人-08-31",
+    "images": [
+        "https://telegra.ph/file/56999a9108a0ba2e89e47.jpg",
+        "https://telegra.ph/file/c4062ab5d07291cc12884.jpg",
+        "https://telegra.ph/file/ba32eba8df2644fb65cf1.jpg",
+        "https://telegra.ph/file/ab964a8f395de5c85f132.jpg",
+        "https://telegra.ph/file/080b57994d0e5107843f6.jpg",
+        "https://telegra.ph/file/577c84f14bea3565fe05a.jpg",
+        "https://telegra.ph/file/6f7e9df789d4542b7b7dd.jpg",
+        "https://telegra.ph/file/d38e66dac7fb676bfcfe7.jpg",
+        "https://telegra.ph/file/454cab380617d9d0e0602.jpg",
+        "https://telegra.ph/file/1ff74580c6468b228639c.jpg",
+        "https://telegra.ph/file/97c20929b954c8618c8a8.jpg",
+        "https://telegra.ph/file/feb6b587f80c3df471ae3.jpg",
+        "https://telegra.ph/file/0412b8092e55526d12407.jpg",
+        "https://telegra.ph/file/bf6e8049d6f98339b71f4.jpg",
+        "https://telegra.ph/file/2fe713fa2b461ed50346c.jpg",
+        "https://telegra.ph/file/dbed45820df1f9cd976eb.jpg",
+        "https://telegra.ph/file/ed60f37df1edd718f7564.jpg",
+        "https://telegra.ph/file/130354bfa0fe9c4631cc3.jpg",
+        "https://telegra.ph/file/47011432eb13f1f119eb8.jpg",
+        "https://telegra.ph/file/f9330f9fac41fcc8ec027.jpg",
+        "https://telegra.ph/file/4d082d71aeb876065f13c.jpg",
+        "https://telegra.ph/file/2d5675ddbfa284343b972.jpg",
+        "https://telegra.ph/file/86b407f48933dd39de864.jpg",
+        "https://telegra.ph/file/02778b0db1018e4e3fefa.jpg",
+        "https://telegra.ph/file/eb66dccd3d512a7614cc5.jpg"
+    ]
+};

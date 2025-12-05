@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7232,
+    "title": "パパの面影 + パパの面影 プラス",
+    "sourceUrl": "https://telegra.ph/パパの面影--パパの面影-プラス-08-31",
+    "images": [
+        "https://telegra.ph/file/f4e5711a4f14f2d09249b.jpg",
+        "https://telegra.ph/file/85d3053db02b1c0f4fa94.jpg",
+        "https://telegra.ph/file/e418b51e3371ddf0c740b.jpg",
+        "https://telegra.ph/file/f03a7e4369a82b88c66c0.jpg",
+        "https://telegra.ph/file/0b9c705cef22b15d6300e.jpg",
+        "https://telegra.ph/file/1a6f03b372b86008f76ed.jpg",
+        "https://telegra.ph/file/4aae3ea75ba8d97cd33a7.jpg",
+        "https://telegra.ph/file/78c568018e21a9cf5989a.jpg",
+        "https://telegra.ph/file/333dd1e3148726b669c6d.jpg",
+        "https://telegra.ph/file/50f70e7a31b3188147834.jpg",
+        "https://telegra.ph/file/47dedbbf34b162aeef19c.jpg",
+        "https://telegra.ph/file/f32104f66e4945b5a2fba.jpg",
+        "https://telegra.ph/file/5a18fdf889b2fb3dd6b5f.jpg",
+        "https://telegra.ph/file/828304bc601a54e91fe60.jpg",
+        "https://telegra.ph/file/95931fc50786e2f8ffe5a.jpg",
+        "https://telegra.ph/file/205c20d6196d05332ec50.jpg",
+        "https://telegra.ph/file/02cf0a44d73bbedd1a777.jpg",
+        "https://telegra.ph/file/43b2141b6624884f60801.jpg",
+        "https://telegra.ph/file/e6193386bb68b22aeac11.jpg",
+        "https://telegra.ph/file/3fff2beb0389a06de63e1.jpg",
+        "https://telegra.ph/file/79b67797ceb65c715d7ab.jpg",
+        "https://telegra.ph/file/560086d94524be84f60d5.jpg",
+        "https://telegra.ph/file/914c11db24fbf2d96c49d.jpg",
+        "https://telegra.ph/file/612b1a5399e43add2a579.jpg"
+    ]
+};

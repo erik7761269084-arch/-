@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5662,
+    "title": "[睦月] 意識の境界線",
+    "sourceUrl": "https://telegra.ph/睦月-意識の境界線-08-31",
+    "images": [
+        "https://telegra.ph/file/02fcc75fbb05159abef0b.jpg",
+        "https://telegra.ph/file/4bfdf27e2cc0f5d74ab7e.jpg",
+        "https://telegra.ph/file/56fbf39ff55910dc74bab.jpg",
+        "https://telegra.ph/file/3fd33b60f39585c715860.jpg",
+        "https://telegra.ph/file/edc97c30f73e44a2e5202.jpg",
+        "https://telegra.ph/file/1c66c7b7712160c04a37c.jpg",
+        "https://telegra.ph/file/4e01bb424ec023c14b190.jpg",
+        "https://telegra.ph/file/a45cacb53bdab9bce4bf2.jpg",
+        "https://telegra.ph/file/b240dd11cf36d450e83f1.jpg",
+        "https://telegra.ph/file/211059d994229eab74936.jpg",
+        "https://telegra.ph/file/e28f021253a4c03ad6ce9.jpg",
+        "https://telegra.ph/file/42606460889dc2372fbf4.jpg",
+        "https://telegra.ph/file/b8f4d8ace5e4a75317329.jpg",
+        "https://telegra.ph/file/d5b504fa5cbd7e2dcf4d4.jpg",
+        "https://telegra.ph/file/e4c60c4420b9ad2f7c4c3.jpg",
+        "https://telegra.ph/file/3f8ceb12787a3899f1496.jpg",
+        "https://telegra.ph/file/89bf68a0176ac25fa6d25.jpg",
+        "https://telegra.ph/file/b27d2c26f32e78dfe99dc.jpg",
+        "https://telegra.ph/file/88b0e51d160e55d2e4b3f.jpg",
+        "https://telegra.ph/file/f946a3f4de0d8e311f859.jpg",
+        "https://telegra.ph/file/59afafdc76e2c7deacba9.jpg",
+        "https://telegra.ph/file/07501dd7dbbab370cbcfa.jpg",
+        "https://telegra.ph/file/cd68fe2f1fdad32edc47f.jpg",
+        "https://telegra.ph/file/38360ea2a796038bfba14.jpg"
+    ]
+};

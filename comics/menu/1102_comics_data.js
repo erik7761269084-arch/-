@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1102,
+    "title": "(C99) [サークル浪漫飛行 (太平天極)] いっぱい浮気SEXしよっ (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/C99-サークル浪漫飛行-太平天極-いっぱい浮気SEXしよっ-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/539745310918a193048e2.jpg",
+        "https://telegra.ph/file/b6575acbd17b5771d1240.jpg",
+        "https://telegra.ph/file/e9d0e7c1bdab56c5c92a9.jpg",
+        "https://telegra.ph/file/a7707379dd0415e3f6412.jpg",
+        "https://telegra.ph/file/b081ebd80ff5b4b761d24.jpg",
+        "https://telegra.ph/file/02e212cef2250f857a847.jpg",
+        "https://telegra.ph/file/34bb0c30186d1271c2aa1.jpg",
+        "https://telegra.ph/file/5a4901c6dda3f0525467a.jpg",
+        "https://telegra.ph/file/b1064f989a5f8bd4cbcea.jpg",
+        "https://telegra.ph/file/e7c57ebb863ff64847500.jpg",
+        "https://telegra.ph/file/dc220ba385f3c668af913.jpg",
+        "https://telegra.ph/file/92b641be34f9bc0fe58b0.jpg",
+        "https://telegra.ph/file/8447ee18d1c2896222def.jpg",
+        "https://telegra.ph/file/b83e974dd87f3e6b2aef6.jpg",
+        "https://telegra.ph/file/ba18d290f4ca040724c8d.jpg",
+        "https://telegra.ph/file/0c6afcfec5383222dfb54.jpg",
+        "https://telegra.ph/file/44a26a53a43ef62db3a23.jpg",
+        "https://telegra.ph/file/e03ae46ceb9a51817d8d5.jpg",
+        "https://telegra.ph/file/e088e8e3574b0ac6abef9.jpg",
+        "https://telegra.ph/file/bbaddceca32c079768039.jpg",
+        "https://telegra.ph/file/c6568f11f4bd305c9ba0a.jpg",
+        "https://telegra.ph/file/a423160dc03a6914ccfae.jpg",
+        "https://telegra.ph/file/e7d0f1aef8b36957107e7.jpg",
+        "https://telegra.ph/file/49a3d15223c0c05e490c0.jpg",
+        "https://telegra.ph/file/3e8265464ff7d022ef458.jpg",
+        "https://telegra.ph/file/f84abcddfb3a643e9bb2e.jpg"
+    ]
+};

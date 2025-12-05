@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 857,
+    "title": "[ro] ケモロリメス箱ルウちゃんの初仕事",
+    "sourceUrl": "https://telegra.ph/ro-ケモロリメス箱ルウちゃんの初仕事-08-31",
+    "images": [
+        "https://telegra.ph/file/5eebf855c0d9980d038b2.jpg",
+        "https://telegra.ph/file/3f6adf4d6045cccfae876.jpg",
+        "https://telegra.ph/file/600eff4734282eb890c0c.jpg",
+        "https://telegra.ph/file/f4ae543b45152ee2ec506.jpg",
+        "https://telegra.ph/file/32d6fe6d2e19dcafdfeec.jpg",
+        "https://telegra.ph/file/57945763d60be352bfb69.jpg",
+        "https://telegra.ph/file/ca3a8319fcfa3ef260f1f.jpg",
+        "https://telegra.ph/file/2d9c9e578b2b6777f3289.jpg",
+        "https://telegra.ph/file/c67a6b2fbe406489f9fb1.jpg",
+        "https://telegra.ph/file/e224a745e1423f11eacdb.jpg",
+        "https://telegra.ph/file/7b2e2c2f2d19609f9a100.jpg",
+        "https://telegra.ph/file/dc1d79ad7d3c3bcae6703.jpg",
+        "https://telegra.ph/file/cd329c28e3f5ae5eca61a.jpg",
+        "https://telegra.ph/file/8f41cd6fa76d24f438b0d.jpg",
+        "https://telegra.ph/file/a5253195de3283f8b3193.jpg",
+        "https://telegra.ph/file/715c2f1c4173b19d44c27.jpg",
+        "https://telegra.ph/file/af2346675f0f8fb907729.jpg",
+        "https://telegra.ph/file/0ec15e7ac0f07cf59cb0a.jpg",
+        "https://telegra.ph/file/c1238907bb1fe2ee7d2ba.jpg",
+        "https://telegra.ph/file/ba82803bf9c05bf7e1e8c.jpg",
+        "https://telegra.ph/file/189d8174cacdbb3dd7e9e.jpg",
+        "https://telegra.ph/file/ab497ee606c676520abca.jpg",
+        "https://telegra.ph/file/9e7a73053db8ef7be6581.jpg",
+        "https://telegra.ph/file/230f0c5475067ef6efe55.jpg"
+    ]
+};

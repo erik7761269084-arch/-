@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4352,
+    "title": "[fu-ta] 小悪魔タッチ (COMIC BAVEL 2018年5月号)",
+    "sourceUrl": "https://telegra.ph/fu-ta-小悪魔タッチ-COMIC-BAVEL-2018年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ca1e24e82a2b59eed0725.jpg",
+        "https://telegra.ph/file/0c7319698916149a28de4.jpg",
+        "https://telegra.ph/file/60c3c648f426f7ddac0a1.jpg",
+        "https://telegra.ph/file/ea5223e88799ca42a1457.jpg",
+        "https://telegra.ph/file/82d6740908ced57f37ac6.jpg",
+        "https://telegra.ph/file/e6c996844f504752f893e.jpg",
+        "https://telegra.ph/file/671af364f220cec14595e.jpg",
+        "https://telegra.ph/file/e812c8a8bb988f1a0a1b5.jpg",
+        "https://telegra.ph/file/33edbb1c805f5dee75f6c.jpg",
+        "https://telegra.ph/file/2871eed9942025d478fe2.jpg",
+        "https://telegra.ph/file/b58313395965cc57c18f2.jpg",
+        "https://telegra.ph/file/b4b850d08deb1074fa5eb.jpg",
+        "https://telegra.ph/file/76e7346a34f3e5c63f742.jpg",
+        "https://telegra.ph/file/74e6996a9ca68e28c98cd.jpg",
+        "https://telegra.ph/file/43f188414e26b92f585da.jpg",
+        "https://telegra.ph/file/3bdfe9ce204479d5f4545.jpg",
+        "https://telegra.ph/file/b89bd27b70314a39d57eb.jpg",
+        "https://telegra.ph/file/547aaa77e0d7f0af1d7b2.jpg",
+        "https://telegra.ph/file/a99511933fc09024d6653.jpg",
+        "https://telegra.ph/file/5a8538d00b5b4d9322d3a.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ]
+};

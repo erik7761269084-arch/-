@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7235,
+    "title": "放課後ももいろサロン",
+    "sourceUrl": "https://telegra.ph/放課後ももいろサロン-08-31",
+    "images": [
+        "https://telegra.ph/file/044a90ea2bcc062f14796.jpg",
+        "https://telegra.ph/file/90954d3bc221a6e7e2969.jpg",
+        "https://telegra.ph/file/3b806b117deb690d0b347.jpg",
+        "https://telegra.ph/file/06bbe14e75a0c9eea9f32.jpg",
+        "https://telegra.ph/file/14f6da2fce512eaf86eb7.jpg",
+        "https://telegra.ph/file/532a0c24bd62985b96cd7.jpg",
+        "https://telegra.ph/file/865e2df7caf498c9485f2.jpg",
+        "https://telegra.ph/file/1a0ecf484a17baf6b3a0c.jpg",
+        "https://telegra.ph/file/7bf68713db7284dc3af6e.jpg",
+        "https://telegra.ph/file/30435bc7e5a18dd3e29d2.jpg",
+        "https://telegra.ph/file/7aa3d1910dda3d4047fff.jpg",
+        "https://telegra.ph/file/70af2bdcf63bf44119f66.jpg",
+        "https://telegra.ph/file/c7d9a6f1c5d2ef9b03c35.jpg",
+        "https://telegra.ph/file/fd0c3410ee50afad1a2bd.jpg",
+        "https://telegra.ph/file/9aceaa9322f439887d74b.jpg",
+        "https://telegra.ph/file/697a49061a04a4eca0c00.jpg",
+        "https://telegra.ph/file/e3cd6e30bfd368cb77e8d.jpg",
+        "https://telegra.ph/file/dd27d726198e79de20656.jpg",
+        "https://telegra.ph/file/10ec08477d68bcac2d0bd.jpg",
+        "https://telegra.ph/file/e779095e63d79fb67ec18.jpg",
+        "https://telegra.ph/file/a762517a4013f90b63856.jpg",
+        "https://telegra.ph/file/930f6143309a7ece8a0ec.jpg",
+        "https://telegra.ph/file/b51d71d2527abf268f972.jpg",
+        "https://telegra.ph/file/33b74f4c36b2cd468fdbb.jpg",
+        "https://telegra.ph/file/ea02a71051b2116b712c8.jpg"
+    ]
+};

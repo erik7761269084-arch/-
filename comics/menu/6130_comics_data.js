@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6130,
+    "title": "[小路あゆむ] 六年目の恋心",
+    "sourceUrl": "https://telegra.ph/小路あゆむ-六年目の恋心-08-31",
+    "images": [
+        "https://telegra.ph/file/981c77ac472736dc0d7f9.jpg",
+        "https://telegra.ph/file/40d4960f24aadc8e563a1.jpg",
+        "https://telegra.ph/file/559cd529ebc1ae8a4d60e.jpg",
+        "https://telegra.ph/file/4ea6bdc0094bfe3b25759.jpg",
+        "https://telegra.ph/file/c6c071e24fe2b3f433028.jpg",
+        "https://telegra.ph/file/541a504e5ce2bac990fab.jpg",
+        "https://telegra.ph/file/ff72bf83896f6fb07e206.jpg",
+        "https://telegra.ph/file/2814a6f1e1649cc4240c4.jpg",
+        "https://telegra.ph/file/c7bdd5ea8f6d4f90fa996.jpg",
+        "https://telegra.ph/file/c6e2170b8906974cd3411.jpg",
+        "https://telegra.ph/file/a7c64a80d687c030dd454.jpg",
+        "https://telegra.ph/file/7eebe1639c59dd3cb732d.jpg",
+        "https://telegra.ph/file/3c9f9710bf0914b67be6f.jpg",
+        "https://telegra.ph/file/d538ff99a30827ea9d8a2.jpg",
+        "https://telegra.ph/file/640dbcc00047151968d68.jpg",
+        "https://telegra.ph/file/085bc64f89d64c1cbf144.jpg",
+        "https://telegra.ph/file/59bcdad4c57fa065ee82d.jpg",
+        "https://telegra.ph/file/c59a619b3e96d51d6de0a.jpg",
+        "https://telegra.ph/file/148f2ad353530405367dc.jpg",
+        "https://telegra.ph/file/ea7558cec6e4414d316a3.jpg",
+        "https://telegra.ph/file/d2b6af724fe320967534b.jpg",
+        "https://telegra.ph/file/105effc6232e3a6f92362.jpg",
+        "https://telegra.ph/file/3572f87904936068fe719.jpg"
+    ]
+};

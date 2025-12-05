@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5605,
+    "title": "[虎助遥人] Shake Love",
+    "sourceUrl": "https://telegra.ph/虎助遥人-Shake-Love-08-31",
+    "images": [
+        "https://telegra.ph/file/541314d32b1c2cc70fd72.jpg",
+        "https://telegra.ph/file/4add0f416dcc9feb9c86e.jpg",
+        "https://telegra.ph/file/9814a942c4c1f05404655.jpg",
+        "https://telegra.ph/file/a82d417ea36b3427c45f7.jpg",
+        "https://telegra.ph/file/e2b4f9f282b8a356787bf.jpg",
+        "https://telegra.ph/file/ad1a7adff4bbd8755d5e5.jpg",
+        "https://telegra.ph/file/ff3629c5db22a97eb0fd8.jpg",
+        "https://telegra.ph/file/0ed18cf72b7b7959df93f.jpg",
+        "https://telegra.ph/file/ce3237ef351873bbdd992.jpg",
+        "https://telegra.ph/file/c17465acc0afe52e5f7db.jpg",
+        "https://telegra.ph/file/becb630cb01c6c72c0bda.jpg",
+        "https://telegra.ph/file/7c56fb0b6bb141f836b01.jpg",
+        "https://telegra.ph/file/93f5565b30f829c7bc5fe.jpg",
+        "https://telegra.ph/file/ada3de2ec8ad30c7ed765.jpg",
+        "https://telegra.ph/file/5a190f2720d1a4f082519.jpg",
+        "https://telegra.ph/file/b3445fc6269b85300c02f.jpg",
+        "https://telegra.ph/file/4665b783ee869c6b440c6.jpg",
+        "https://telegra.ph/file/c72894259963444555dc9.jpg",
+        "https://telegra.ph/file/b48660492c2dea39a6d09.jpg",
+        "https://telegra.ph/file/0ad49c622bff9907d60a8.jpg",
+        "https://telegra.ph/file/29e7ec949055ee398a2a8.jpg",
+        "https://telegra.ph/file/ccbcfb2f251e5731a8928.jpg",
+        "https://telegra.ph/file/8185606c8ae29b3e7ce0c.jpg",
+        "https://telegra.ph/file/b833cdf6dcc35d5072904.jpg",
+        "https://telegra.ph/file/568a7fce069f54a244350.jpg"
+    ]
+};

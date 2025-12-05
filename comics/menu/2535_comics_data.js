@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2535,
+    "title": "[としゃぴんく (ちめだ)] ふたなり先生の非・教育的指導",
+    "sourceUrl": "https://telegra.ph/としゃぴんく-ちめだ-ふたなり先生の非教育的指導-08-31",
+    "images": [
+        "https://telegra.ph/file/c61c6e2efb9dfab90aad2.jpg",
+        "https://telegra.ph/file/b150331b5e493411b3efd.jpg",
+        "https://telegra.ph/file/4f75941e56c974d6c407d.jpg",
+        "https://telegra.ph/file/3008ea999bf13d7666f63.jpg",
+        "https://telegra.ph/file/0ad15bdf604fcc619de29.jpg",
+        "https://telegra.ph/file/21b8ba11589a7b321aafa.jpg",
+        "https://telegra.ph/file/3f3f1aed3113268123e96.jpg",
+        "https://telegra.ph/file/a1ed44aeb905aee385de4.jpg",
+        "https://telegra.ph/file/a1f181e6dee06407d2f9b.jpg",
+        "https://telegra.ph/file/0d6b7c089c39b514ffcf7.jpg",
+        "https://telegra.ph/file/ae340edf587f7a2f71824.jpg",
+        "https://telegra.ph/file/a0f858e50d703ca8bad53.jpg",
+        "https://telegra.ph/file/7dd61fd54a5735bda35f2.jpg",
+        "https://telegra.ph/file/aeaad9e5cc971b9229a56.jpg",
+        "https://telegra.ph/file/d05b12cd929fa77921b8c.jpg",
+        "https://telegra.ph/file/1ba7b30715bd236be53ed.jpg",
+        "https://telegra.ph/file/3b4548a1c50fa9c7e9b52.jpg",
+        "https://telegra.ph/file/6af6c13f70cb5401f740c.jpg",
+        "https://telegra.ph/file/caa198e64c6933b9f09e6.jpg",
+        "https://telegra.ph/file/bc8dcbdb8db6923fee53b.jpg",
+        "https://telegra.ph/file/f76c649fc3c7d052bc92d.jpg",
+        "https://telegra.ph/file/a3877653b0413f0baf996.jpg",
+        "https://telegra.ph/file/e8f4246ef2af7c6df78ed.jpg",
+        "https://telegra.ph/file/32d31e5f6f0fc10e0d40e.jpg",
+        "https://telegra.ph/file/be282e97ab8efd9a91c44.jpg",
+        "https://telegra.ph/file/2431626887a3e44d54051.jpg"
+    ]
+};

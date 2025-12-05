@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4412,
+    "title": "[みんとあお (しくろ)] 姪っ子睡姦記録",
+    "sourceUrl": "https://telegra.ph/みんとあお-しくろ-姪っ子睡姦記録-08-31",
+    "images": [
+        "https://telegra.ph/file/d5e40cffb222ef2666217.jpg",
+        "https://telegra.ph/file/538302cf263091b18e3c9.jpg",
+        "https://telegra.ph/file/eb0208604157c5f63e752.jpg",
+        "https://telegra.ph/file/a30ffa6efbc87a3db8758.jpg",
+        "https://telegra.ph/file/d9a0fb5a4f166da11fbd0.jpg",
+        "https://telegra.ph/file/930a6be57e5fb41394e23.jpg",
+        "https://telegra.ph/file/a4216a1a5511c401b32e4.jpg",
+        "https://telegra.ph/file/f2785eb834d13ed0011a6.jpg",
+        "https://telegra.ph/file/911c6311ff06122bc9c33.jpg",
+        "https://telegra.ph/file/104f4a1e8021702ee6b5b.jpg",
+        "https://telegra.ph/file/15f41615ce7ef6267a232.jpg",
+        "https://telegra.ph/file/98b9659f6c954f6cbadbd.jpg",
+        "https://telegra.ph/file/1370968b0e8f7da94876f.jpg",
+        "https://telegra.ph/file/a25b893e91be9059ab33a.jpg",
+        "https://telegra.ph/file/056ca8136c0817c8c96dd.jpg",
+        "https://telegra.ph/file/1a3c9e4f520caeeb16c9d.jpg",
+        "https://telegra.ph/file/adf623f4bd49ab04aa848.jpg",
+        "https://telegra.ph/file/6a7034ec8204be4347f25.jpg",
+        "https://telegra.ph/file/b7681a54d7e1efd614230.jpg",
+        "https://telegra.ph/file/fb4a8f17d7f412faa6a1f.jpg",
+        "https://telegra.ph/file/466d4b158c90271fa810a.jpg",
+        "https://telegra.ph/file/61b32700596058174cc5f.jpg",
+        "https://telegra.ph/file/5f22b9e79e20883558e53.jpg",
+        "https://telegra.ph/file/c292c733c8173cfcbbcf6.jpg"
+    ]
+};

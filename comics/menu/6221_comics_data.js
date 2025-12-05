@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6221,
+    "title": "[鶴田文学] コタツのマモノ",
+    "sourceUrl": "https://telegra.ph/鶴田文学-コタツのマモノ-08-31",
+    "images": [
+        "https://telegra.ph/file/5f67d11b64091b5e1ed40.jpg",
+        "https://telegra.ph/file/1d2b63489b2c05187d8e8.jpg",
+        "https://telegra.ph/file/34823126e6512d2c13d37.jpg",
+        "https://telegra.ph/file/95dcd0ef133b496b81698.jpg",
+        "https://telegra.ph/file/212d38642f8b55fcce999.jpg",
+        "https://telegra.ph/file/7dd97bf6842c51a9e32e5.jpg",
+        "https://telegra.ph/file/3da8002b5c8e3440d428d.jpg",
+        "https://telegra.ph/file/5f78d7bd0be1c03eb183b.jpg",
+        "https://telegra.ph/file/a14a65a434d1828c8df42.jpg",
+        "https://telegra.ph/file/16bc4e0e3517269efa403.jpg",
+        "https://telegra.ph/file/8f234472206972601315f.jpg",
+        "https://telegra.ph/file/4a59f688ac05300d813d1.jpg",
+        "https://telegra.ph/file/a362807d594822cc88d1d.jpg",
+        "https://telegra.ph/file/7df9ce8575a459f655df0.jpg",
+        "https://telegra.ph/file/1d83d96b4d83d560cd299.jpg",
+        "https://telegra.ph/file/159db9de22c83b6e1eeaa.jpg",
+        "https://telegra.ph/file/2f175ca02f23b404882b1.jpg",
+        "https://telegra.ph/file/e124043e1d9f937224388.jpg",
+        "https://telegra.ph/file/7aacd86ec52f5415cc801.jpg",
+        "https://telegra.ph/file/9bbbae397fbaa71fc595f.jpg",
+        "https://telegra.ph/file/eb28c8de3a83487dbd59c.jpg",
+        "https://telegra.ph/file/c5d0d8fecc58e3dc3368b.jpg",
+        "https://telegra.ph/file/9e1cc35686b714c88211e.jpg",
+        "https://telegra.ph/file/b2184434a4f54d16ec330.jpg"
+    ]
+};

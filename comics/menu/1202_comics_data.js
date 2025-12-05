@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1202,
+    "title": "[鬼束直] チエコちゃんとタイツ (うぇるかむ☆ほーむ)",
+    "sourceUrl": "https://telegra.ph/鬼束直-チエコちゃんとタイツ-うぇるかむほーむ-08-31",
+    "images": [
+        "https://telegra.ph/file/d066107a151c8e1f412d8.jpg",
+        "https://telegra.ph/file/4c1377e2546d960661271.jpg",
+        "https://telegra.ph/file/d66086780ef9952bae9e4.jpg",
+        "https://telegra.ph/file/f3b5d60f09915ef6eb818.jpg",
+        "https://telegra.ph/file/da05ae7969fc7e6d6583c.jpg",
+        "https://telegra.ph/file/df4249890fe2f55c94ad7.jpg",
+        "https://telegra.ph/file/bdb0adf95332e62cc73bd.jpg",
+        "https://telegra.ph/file/def1751ed2a9048949e50.jpg",
+        "https://telegra.ph/file/eab0c9a3e7cbe6aac72aa.jpg",
+        "https://telegra.ph/file/8620e698743cdacccd5ba.jpg",
+        "https://telegra.ph/file/b906c6a626a392de24dc0.jpg",
+        "https://telegra.ph/file/b387a6507bc40f1ae8bff.jpg",
+        "https://telegra.ph/file/d8e823459f0bb467c5fa0.jpg",
+        "https://telegra.ph/file/ad8d4f8ebbcf0aa30c0b1.jpg",
+        "https://telegra.ph/file/b56c691636f384b2a4f7a.jpg",
+        "https://telegra.ph/file/d03d2af47ba3080fff2c7.jpg",
+        "https://telegra.ph/file/03f887fc0a82ff5577986.jpg",
+        "https://telegra.ph/file/9add9a982a45a3af9377b.jpg",
+        "https://telegra.ph/file/359aba7842ab0cff91dcb.jpg",
+        "https://telegra.ph/file/c1d40d04f96c712fcd579.jpg",
+        "https://telegra.ph/file/d3ef37313d4013519bf78.jpg",
+        "https://telegra.ph/file/e8e606d14a6ffa1a01b02.jpg",
+        "https://telegra.ph/file/a673eddc33228413fa442.jpg",
+        "https://telegra.ph/file/14f37f9380fe175d79e75.jpg"
+    ]
+};

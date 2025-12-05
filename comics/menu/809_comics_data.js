@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 809,
+    "title": "(C76) [シュート・ザ・ムーン (フエタキシ)] rapture rose (ああっ女神さまっ)",
+    "sourceUrl": "https://telegra.ph/C76-シュートザムーン-フエタキシ-rapture-rose-ああっ女神さまっ-08-31",
+    "images": [
+        "https://telegra.ph/file/0d0243a78108ef36137ed.jpg",
+        "https://telegra.ph/file/44340b2965393e03aafee.jpg",
+        "https://telegra.ph/file/f5fb4f78b615f2c07b107.jpg",
+        "https://telegra.ph/file/8817154d85e34f3892ce3.jpg",
+        "https://telegra.ph/file/d15b01f4baeca48d48a9f.jpg",
+        "https://telegra.ph/file/75b4c6bc9bdaaff1fb102.jpg",
+        "https://telegra.ph/file/acffe033de4439b678dbc.jpg",
+        "https://telegra.ph/file/23e3a993b8f3bf2675b13.jpg",
+        "https://telegra.ph/file/5db92db9120d1d7f7decb.jpg",
+        "https://telegra.ph/file/cbb36246089dc186358fb.jpg",
+        "https://telegra.ph/file/527209f6f817e7e52038e.jpg",
+        "https://telegra.ph/file/4b017e92b154b0ca6aec9.jpg",
+        "https://telegra.ph/file/1b5c1dc518ce2588b422b.jpg",
+        "https://telegra.ph/file/a54410637daa18ec5ca96.jpg",
+        "https://telegra.ph/file/d5cbd82e311308faf4b74.jpg",
+        "https://telegra.ph/file/726f6919094acbb23be9a.jpg",
+        "https://telegra.ph/file/54d28d6da1af27bd77550.jpg",
+        "https://telegra.ph/file/1ce52bb86a837bd5eacf8.jpg",
+        "https://telegra.ph/file/0d4a2aadf6b27a1d130af.jpg",
+        "https://telegra.ph/file/d7a3ae6c7bc8e8906ec65.jpg",
+        "https://telegra.ph/file/e05f715e1d1feef136ab9.jpg",
+        "https://telegra.ph/file/c4384a09ce98b06c3ef1d.jpg",
+        "https://telegra.ph/file/7dd129f668ecccb84eb61.jpg",
+        "https://telegra.ph/file/4372d4df72b009dbe20de.jpg",
+        "https://telegra.ph/file/f8e8e535805e63fcd5964.jpg",
+        "https://telegra.ph/file/3a8e17751fc6fd2ec8f0d.jpg"
+    ]
+};

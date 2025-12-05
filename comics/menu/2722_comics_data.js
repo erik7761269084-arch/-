@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2722,
+    "title": "[海通信 (なまもななせ)] 文化祭DEうさぎ狩り",
+    "sourceUrl": "https://telegra.ph/海通信-なまもななせ-文化祭DEうさぎ狩り-08-31",
+    "images": [
+        "https://telegra.ph/file/41587f1615ec6a1dd3576.jpg",
+        "https://telegra.ph/file/5613eb8eb01bea0368d01.jpg",
+        "https://telegra.ph/file/e4629dc43aac7c100e82d.jpg",
+        "https://telegra.ph/file/03ac5f9960118da23163f.jpg",
+        "https://telegra.ph/file/3d1488d75b5c485a847d5.jpg",
+        "https://telegra.ph/file/7fee1a87e59c04a2b563a.jpg",
+        "https://telegra.ph/file/a9d295fd17b2093f46ab4.jpg",
+        "https://telegra.ph/file/263392f8d557070e0ef48.jpg",
+        "https://telegra.ph/file/159625db2e72c1bc5bd23.jpg",
+        "https://telegra.ph/file/20819dd3751219a018532.jpg",
+        "https://telegra.ph/file/c67640236bbf2e0f43945.jpg",
+        "https://telegra.ph/file/c87b53c25e6d26d4b453c.jpg",
+        "https://telegra.ph/file/42e062fbfdc2f0ea0eb8c.jpg",
+        "https://telegra.ph/file/4d48c077ec1a435c920e0.jpg",
+        "https://telegra.ph/file/8647c57c2b2a4dbf68e6a.jpg",
+        "https://telegra.ph/file/09c84b19a9e82d0222c8f.jpg",
+        "https://telegra.ph/file/8ce5a0130b50dddd95e96.jpg",
+        "https://telegra.ph/file/8b5abbfc03d8e5e20f61b.jpg",
+        "https://telegra.ph/file/429a365592a0a78ff0542.jpg",
+        "https://telegra.ph/file/5307670d1ac2db1800a44.jpg",
+        "https://telegra.ph/file/183bd9f0d0bad7136dca0.jpg",
+        "https://telegra.ph/file/4e0767cf84e302e46a0bf.jpg",
+        "https://telegra.ph/file/b3be5b57fc47c1d58f625.jpg",
+        "https://telegra.ph/file/1e9567cfc081f0e9448e9.jpg",
+        "https://telegra.ph/file/76e59bdcedd15f760cac5.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

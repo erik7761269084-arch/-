@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3291,
+    "title": "[スタジオN.BALL (針玉ヒロキ)] チョロい、上司/4",
+    "sourceUrl": "https://telegra.ph/スタジオNBALL-針玉ヒロキ-チョロい上司4-08-31",
+    "images": [
+        "https://telegra.ph/file/b994fff2d48e54b227f48.jpg",
+        "https://telegra.ph/file/d18cfc68a547d91c30d20.jpg",
+        "https://telegra.ph/file/7c47b91bb71a4f8e0deb2.jpg",
+        "https://telegra.ph/file/242299bb774ef807969f3.jpg",
+        "https://telegra.ph/file/fe76c0f1c43b156332e2a.jpg",
+        "https://telegra.ph/file/e30aaad8c4b841999af0c.jpg",
+        "https://telegra.ph/file/b5c2865c2bd5043f98739.jpg",
+        "https://telegra.ph/file/6a4667368e56064b45690.jpg",
+        "https://telegra.ph/file/936e945910b8810f0f1a5.jpg",
+        "https://telegra.ph/file/6fcbeb4b5519d33e3e49d.jpg",
+        "https://telegra.ph/file/1e41805b164faba531375.jpg",
+        "https://telegra.ph/file/536fcfb6e43c6527591b3.jpg",
+        "https://telegra.ph/file/9906f4cbc45798417acc4.jpg",
+        "https://telegra.ph/file/34df6333d3a267ed9a28f.jpg",
+        "https://telegra.ph/file/a4ab4f0721381820bcf40.jpg",
+        "https://telegra.ph/file/7a9a1555069ff4440172e.jpg",
+        "https://telegra.ph/file/1cbffb4922ee5d6c22cbe.jpg",
+        "https://telegra.ph/file/584bc5d5f709d380b3b81.jpg",
+        "https://telegra.ph/file/4e220c1b9aabc871a1d2e.jpg",
+        "https://telegra.ph/file/c698e66a64f4b35a6946e.jpg",
+        "https://telegra.ph/file/1c09e583970a9d38128e4.jpg",
+        "https://telegra.ph/file/5776cd97ed58d82b3f845.jpg",
+        "https://telegra.ph/file/e9cddb1c8bc506516f75a.jpg",
+        "https://telegra.ph/file/d2c4ad1fb910354909073.jpg",
+        "https://telegra.ph/file/4ca226fa459ebb6dd3d92.jpg",
+        "https://telegra.ph/file/732107502635ce64b6ade.jpg"
+    ]
+};

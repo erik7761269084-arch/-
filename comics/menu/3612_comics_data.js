@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3612,
+    "title": "[れぐでく] ケモミミの占術師  ～踊り子来襲～ (異世快楽天 Vol.5)",
+    "sourceUrl": "https://telegra.ph/れぐでく-ケモミミの占術師-踊り子来襲-異世快楽天-Vol5-08-31",
+    "images": [
+        "https://telegra.ph/file/1f886e83daaf4cafe91e0.jpg",
+        "https://telegra.ph/file/01d0755af71c0dc694e00.jpg",
+        "https://telegra.ph/file/2753b68e5840a627e2842.jpg",
+        "https://telegra.ph/file/98d00be48c86c505f511d.jpg",
+        "https://telegra.ph/file/932cda0777980e432e52c.jpg",
+        "https://telegra.ph/file/f099ffedc4878d4b9c28f.jpg",
+        "https://telegra.ph/file/798b9c1d03e38be697308.jpg",
+        "https://telegra.ph/file/c4bdc6891cdc03b75495f.jpg",
+        "https://telegra.ph/file/706d52e1644cb31001f6d.jpg",
+        "https://telegra.ph/file/11631d407fe49b2a70c45.jpg",
+        "https://telegra.ph/file/cd46801a987b215402f7d.jpg",
+        "https://telegra.ph/file/d16550ee23282a25ead3b.jpg",
+        "https://telegra.ph/file/cad481141d4caa0c2493e.jpg",
+        "https://telegra.ph/file/c3b323d8df9443167d058.jpg",
+        "https://telegra.ph/file/f938af2c758b5d62d2773.jpg",
+        "https://telegra.ph/file/86cf2bd87e31892c5b730.jpg",
+        "https://telegra.ph/file/faf0bae149e4919b99bdf.jpg",
+        "https://telegra.ph/file/4df503c7b087319bb383e.jpg",
+        "https://telegra.ph/file/2f890cb1e28898065fcb4.jpg",
+        "https://telegra.ph/file/fb8433109e44e24d398b9.jpg",
+        "https://telegra.ph/file/e72884306c4c69916c18b.jpg",
+        "https://telegra.ph/file/ee5a3438b436d2a5d6fbb.jpg",
+        "https://telegra.ph/file/65b16b6ad401179e02785.jpg",
+        "https://telegra.ph/file/833c9dc2e8e0e68d74c9d.jpg",
+        "https://telegra.ph/file/2662a9fb720892bc45c58.jpg",
+        "https://telegra.ph/file/1a343302ae1b0d05cbedc.jpg"
+    ]
+};

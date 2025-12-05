@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 700,
+    "title": "[オオカミうお] 覗く人、覗かれる人 (ふくらみかけの見せたがり願望)",
+    "sourceUrl": "https://telegra.ph/オオカミうお-覗く人覗かれる人-ふくらみかけの見せたがり願望-08-31",
+    "images": [
+        "https://telegra.ph/file/f16b79026806a6b78ac75.jpg",
+        "https://telegra.ph/file/f9cd4e9d0cec2f377c69f.jpg",
+        "https://telegra.ph/file/515646843077c6e62250f.jpg",
+        "https://telegra.ph/file/a715fafca1d8a7dbccc39.jpg",
+        "https://telegra.ph/file/c45480e7e5237ea71ebff.jpg",
+        "https://telegra.ph/file/72aa45429a58c32c3d11a.jpg",
+        "https://telegra.ph/file/c80dcb0b5374d09689c51.jpg",
+        "https://telegra.ph/file/1e454f6964564881eab23.jpg",
+        "https://telegra.ph/file/27d00a7e3887d4e227937.jpg",
+        "https://telegra.ph/file/45f372ba6c6e3c0f935ec.jpg",
+        "https://telegra.ph/file/9cc1d70311732ad3ecc78.jpg",
+        "https://telegra.ph/file/9140cbae3b85a3465beb5.jpg",
+        "https://telegra.ph/file/4e0f1ed6301f22e7eee2a.jpg",
+        "https://telegra.ph/file/14f42465f4377ed4cfa45.jpg",
+        "https://telegra.ph/file/a1b763eaaa26e9410690d.jpg",
+        "https://telegra.ph/file/4386c968412fb25cb1919.jpg",
+        "https://telegra.ph/file/72ae70cb1ea68af03a56d.jpg",
+        "https://telegra.ph/file/a225e61edcec6cd0b5c84.jpg",
+        "https://telegra.ph/file/c222a9e3fc55ac1252be0.jpg",
+        "https://telegra.ph/file/9f3f0886435b624fe2762.jpg",
+        "https://telegra.ph/file/be5128900ce01e0bf0732.jpg",
+        "https://telegra.ph/file/f088c44781b41fb3e2d6f.jpg",
+        "https://telegra.ph/file/61de9d2976bbd586961b2.jpg",
+        "https://telegra.ph/file/0d2ccfac70120877f2bb1.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1882,
+    "title": "(C99) [マシュマロ風船 (かゆみ止め)] 鹿島の夜這い大作戦 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C99-マシュマロ風船-かゆみ止め-鹿島の夜這い大作戦-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/80d0099d86991b720014f.jpg",
+        "https://telegra.ph/file/0927fa8f6dc26239f0cde.jpg",
+        "https://telegra.ph/file/00527a1ccb55eb26d49a0.jpg",
+        "https://telegra.ph/file/89e2db9965dcda2f68f9d.jpg",
+        "https://telegra.ph/file/d8f4d0bdadc5c02ef4d72.jpg",
+        "https://telegra.ph/file/a659b8b30bb3a399762a5.jpg",
+        "https://telegra.ph/file/5179c7008bdef2f607b7e.jpg",
+        "https://telegra.ph/file/551ff70ce61b07f1f3582.jpg",
+        "https://telegra.ph/file/1d4ea1198b7e2992e3dda.jpg",
+        "https://telegra.ph/file/994c39b06caa261ca6b11.jpg",
+        "https://telegra.ph/file/40048194610dfae1f9419.jpg",
+        "https://telegra.ph/file/11e48acbdd0052adf2f5d.jpg",
+        "https://telegra.ph/file/4e0f0f423d57da2ae087d.jpg",
+        "https://telegra.ph/file/597b156509b4352477385.jpg",
+        "https://telegra.ph/file/e9e94ed6945a534b7b472.jpg",
+        "https://telegra.ph/file/c22e6dd00094688fa7031.jpg",
+        "https://telegra.ph/file/7b4d1c3972470027ee4a4.jpg",
+        "https://telegra.ph/file/2364920a7e02bde6c1649.jpg",
+        "https://telegra.ph/file/e90cfb9f70e9386df4075.jpg",
+        "https://telegra.ph/file/2361f30ec6671b59b31bd.jpg",
+        "https://telegra.ph/file/0c5ddca187f7dd3fafc77.jpg",
+        "https://telegra.ph/file/d56fa5293be735838635b.jpg",
+        "https://telegra.ph/file/1896cc672f40000ed963a.jpg",
+        "https://telegra.ph/file/22886b0052ff8d2abaf6f.jpg",
+        "https://telegra.ph/file/7adfe9fff0aa06754123d.jpg",
+        "https://telegra.ph/file/53fbf217d4ae9bf49b3c4.jpg"
+    ]
+};

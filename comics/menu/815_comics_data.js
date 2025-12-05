@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 815,
+    "title": "[銀色ノエル (ゆーま)] 雨降るあくる日あの子をうちに",
+    "sourceUrl": "https://telegra.ph/銀色ノエル-ゆーま-雨降るあくる日あの子をうちに-08-31",
+    "images": [
+        "https://telegra.ph/file/f6694242284dcfdfcf74d.jpg",
+        "https://telegra.ph/file/f559f98c85a527ed95758.jpg",
+        "https://telegra.ph/file/84b208c51ab5181da5b2c.jpg",
+        "https://telegra.ph/file/d88d56925f2487edb262b.jpg",
+        "https://telegra.ph/file/8eca9201861e3b57becfb.jpg",
+        "https://telegra.ph/file/e212a746b22bb3d056b70.jpg",
+        "https://telegra.ph/file/03a9cf3e5d1150c4a3359.jpg",
+        "https://telegra.ph/file/4449335ec4d9aa5f474a2.jpg",
+        "https://telegra.ph/file/194d5e9ff9371f162b980.jpg",
+        "https://telegra.ph/file/dcba2cc7bfb160bc667f4.jpg",
+        "https://telegra.ph/file/a305751dd20f4138f215c.jpg",
+        "https://telegra.ph/file/71e56d1238fe89a32425d.jpg",
+        "https://telegra.ph/file/3e6829e1f204b02bc998d.jpg",
+        "https://telegra.ph/file/eb6b72f385d5c41d92792.jpg",
+        "https://telegra.ph/file/9be620729fc4c6405333d.jpg",
+        "https://telegra.ph/file/8099411d06935b01c458a.jpg",
+        "https://telegra.ph/file/fe0b69352ce75f12051b6.jpg",
+        "https://telegra.ph/file/40ce7b0353b8013678c4d.jpg",
+        "https://telegra.ph/file/4eac62aebe35a1c40cb69.jpg",
+        "https://telegra.ph/file/cef63b996cb5aea6cc3e9.jpg",
+        "https://telegra.ph/file/2497ae3aa9944c0927c49.jpg",
+        "https://telegra.ph/file/8df12102481c5eaeac7b3.jpg",
+        "https://telegra.ph/file/fbb30c61a63d8f09a23a6.jpg",
+        "https://telegra.ph/file/6628ae50b624c1803ba0b.jpg",
+        "https://telegra.ph/file/8977449a36d65092e46a8.jpg"
+    ]
+};

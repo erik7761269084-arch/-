@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4145,
+    "title": "[Xぴえろ] 白宮さんのえちえち奴隷",
+    "sourceUrl": "https://telegra.ph/Xぴえろ-白宮さんのえちえち奴隷-08-31",
+    "images": [
+        "https://telegra.ph/file/ae9eb177a9aa3803c665b.jpg",
+        "https://telegra.ph/file/004640712af0e1bd4bc0b.jpg",
+        "https://telegra.ph/file/9f1bb6a8884b848734550.jpg",
+        "https://telegra.ph/file/70dcc4524fbd00b1cc3de.jpg",
+        "https://telegra.ph/file/0f51f9a3cec171dc2baba.jpg",
+        "https://telegra.ph/file/6485d612b381f1f3c5799.jpg",
+        "https://telegra.ph/file/88f9548408ee8a1c6eac5.jpg",
+        "https://telegra.ph/file/4e04c8020d635cc33e5ae.jpg",
+        "https://telegra.ph/file/00c563d703b411034ab46.jpg",
+        "https://telegra.ph/file/9449756b60bdfb2a37f25.jpg",
+        "https://telegra.ph/file/c1e9d2aed72b9f7726865.jpg",
+        "https://telegra.ph/file/7fdf22c3981c865bedee8.jpg",
+        "https://telegra.ph/file/4d27f72c8fdb2e8241036.jpg",
+        "https://telegra.ph/file/6634e7dddccb059e56c1b.jpg",
+        "https://telegra.ph/file/d88fbf03858147ad3743c.jpg",
+        "https://telegra.ph/file/d29ff3ebab3514c1c0fdc.jpg",
+        "https://telegra.ph/file/23429873c75cf66a878b6.jpg",
+        "https://telegra.ph/file/921b6de891af7f361403b.jpg",
+        "https://telegra.ph/file/92a33648486f71514d694.jpg",
+        "https://telegra.ph/file/b7d964b6284f05344b4d6.jpg",
+        "https://telegra.ph/file/41e03f191d79328009cbb.jpg",
+        "https://telegra.ph/file/7f16bdb656c7dd8aa52a7.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

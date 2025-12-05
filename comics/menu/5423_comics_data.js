@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5423,
+    "title": "[さいもん] Love & Sick",
+    "sourceUrl": "https://telegra.ph/さいもん-Love--Sick-08-31",
+    "images": [
+        "https://telegra.ph/file/0dbf266f577e9ae73262e.jpg",
+        "https://telegra.ph/file/816ef277fa43d608e103a.jpg",
+        "https://telegra.ph/file/ca1771937255d79a0e1fd.jpg",
+        "https://telegra.ph/file/c655527be65aca2c71bb2.jpg",
+        "https://telegra.ph/file/c0778c372c0883b234f0b.jpg",
+        "https://telegra.ph/file/2509671a0123d5b95dce9.jpg",
+        "https://telegra.ph/file/a23d188e5d054fd9c3b4a.jpg",
+        "https://telegra.ph/file/8508beb15430204c7254d.jpg",
+        "https://telegra.ph/file/889548c65202432623dd2.jpg",
+        "https://telegra.ph/file/20586b430d41772bc171a.jpg",
+        "https://telegra.ph/file/8d058009167873403ec38.jpg",
+        "https://telegra.ph/file/0703993b62d5d47fa2b03.jpg",
+        "https://telegra.ph/file/c874e0a29e0404367cee4.jpg",
+        "https://telegra.ph/file/c7aa7fe993a3acec760d7.jpg",
+        "https://telegra.ph/file/c04beb760f5023a29f919.jpg",
+        "https://telegra.ph/file/cb2111a3306a634200978.jpg",
+        "https://telegra.ph/file/6bd33d6f34233be53292e.jpg",
+        "https://telegra.ph/file/6821ea184b4795d79f121.jpg",
+        "https://telegra.ph/file/85925bb42ccdac71dea1b.jpg",
+        "https://telegra.ph/file/a665ccd3430c1bd689732.jpg",
+        "https://telegra.ph/file/8814d41cbe2b81e77eab5.jpg",
+        "https://telegra.ph/file/e8c0f70c15755222907d1.jpg",
+        "https://telegra.ph/file/7a5f8afc43ce8bba76f20.jpg"
+    ]
+};

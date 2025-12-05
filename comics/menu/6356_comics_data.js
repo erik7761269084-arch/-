@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6356,
+    "title": "[冬野みかん] まゆちゃんの頼みごと",
+    "sourceUrl": "https://telegra.ph/冬野みかん-まゆちゃんの頼みごと-08-31",
+    "images": [
+        "https://telegra.ph/file/56885f76ea996319caf61.jpg",
+        "https://telegra.ph/file/6e8e9d876f7e4de76e9ce.jpg",
+        "https://telegra.ph/file/b136f7ff88dde0c48e846.jpg",
+        "https://telegra.ph/file/63785ed16b5b3b35a5a1b.jpg",
+        "https://telegra.ph/file/b16e0449f57dc7ca7b8f6.jpg",
+        "https://telegra.ph/file/c83b5ffeb54252e296368.jpg",
+        "https://telegra.ph/file/f9854d67c164b14f8de51.jpg",
+        "https://telegra.ph/file/c269d3c59ca881da7fcc2.jpg",
+        "https://telegra.ph/file/3dce88665a69e593ce7c8.jpg",
+        "https://telegra.ph/file/288c98184df41327300b5.jpg",
+        "https://telegra.ph/file/0334e9bcf5c8008118120.jpg",
+        "https://telegra.ph/file/c0e4e0b4d739b7b76f2d4.jpg",
+        "https://telegra.ph/file/0ef9ff372fa3bc38419f4.jpg",
+        "https://telegra.ph/file/b12749936f0f2e30594fa.jpg",
+        "https://telegra.ph/file/b26fa3bd233f7d253cade.jpg",
+        "https://telegra.ph/file/75f693bacb1fe5e938c7d.jpg",
+        "https://telegra.ph/file/dfc8bf19dab5fa673f63e.jpg",
+        "https://telegra.ph/file/a5c6b144b94b9b5e86718.jpg",
+        "https://telegra.ph/file/4548c60947edb83f85c5c.jpg",
+        "https://telegra.ph/file/a2924610b4e09bb2afaae.jpg",
+        "https://telegra.ph/file/0050795d77dc47da2f6f9.jpg",
+        "https://telegra.ph/file/e30a432664293ffb4c8d0.jpg",
+        "https://telegra.ph/file/1bbd1d8dd7212172ec53c.jpg"
+    ]
+};

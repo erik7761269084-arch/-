@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5885,
+    "title": "[ピジャ] ビンカン♥補習",
+    "sourceUrl": "https://telegra.ph/ピジャ-ビンカン補習-08-31",
+    "images": [
+        "https://telegra.ph/file/8506648431d56444af356.png",
+        "https://telegra.ph/file/36460474985078574fc89.png",
+        "https://telegra.ph/file/d1b2c0eae73cafe2086db.png",
+        "https://telegra.ph/file/e9f98ff8873248a55b4c5.png",
+        "https://telegra.ph/file/a447e84e4205c0466c08a.png",
+        "https://telegra.ph/file/ff07c4093a0777ebc19ee.png",
+        "https://telegra.ph/file/27e735b0aef3fce0e2fe8.png",
+        "https://telegra.ph/file/b59bb6b31d8ee805ad51a.png",
+        "https://telegra.ph/file/a35d9e3851319520cb296.png",
+        "https://telegra.ph/file/c0f07cc896f1f286f84cc.png",
+        "https://telegra.ph/file/c39cc4b8f131c1cc58305.png",
+        "https://telegra.ph/file/7758ab29d1f270baabcb4.png",
+        "https://telegra.ph/file/34d10abece9e98aeb5711.png",
+        "https://telegra.ph/file/a79649a86d497f1838c45.png",
+        "https://telegra.ph/file/c0be112cd0dd6064e304a.png",
+        "https://telegra.ph/file/a53e6606262338c6b8a0a.png",
+        "https://telegra.ph/file/5941bc907cc38cf42e67c.png",
+        "https://telegra.ph/file/3771a269e9e39a6c344c3.png",
+        "https://telegra.ph/file/d74fb934257bce3fb8918.png",
+        "https://telegra.ph/file/3441a226cde73b365df52.png",
+        "https://telegra.ph/file/5dea0fa42bb08a85a0f0e.png",
+        "https://telegra.ph/file/b398e0a0d39e1b87d280f.png",
+        "https://telegra.ph/file/4b7b45a516247b932f6e3.png",
+        "https://telegra.ph/file/a075a1df38a88aa617670.png"
+    ]
+};

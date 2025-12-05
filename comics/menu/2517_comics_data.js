@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2517,
+    "title": "[毎日健康生活 (ヘルシーマン)] 7歳③",
+    "sourceUrl": "https://telegra.ph/毎日健康生活-ヘルシーマン-7歳-08-31",
+    "images": [
+        "https://telegra.ph/file/bec0f2513f7e2fc01c06a.jpg",
+        "https://telegra.ph/file/d465c42c7e57ab655fae4.jpg",
+        "https://telegra.ph/file/d6fe5a9091c510967200f.jpg",
+        "https://telegra.ph/file/35138c964ed3cb4a62853.jpg",
+        "https://telegra.ph/file/cad288cf252b496e77a6b.jpg",
+        "https://telegra.ph/file/fc4bc713f8778845726dc.jpg",
+        "https://telegra.ph/file/6a3358183e01ac684a451.jpg",
+        "https://telegra.ph/file/38040e5c023f0b66eaee9.jpg",
+        "https://telegra.ph/file/a011f518d3ac47249556f.jpg",
+        "https://telegra.ph/file/ef7712794a56c399eac3f.jpg",
+        "https://telegra.ph/file/e956c841415c77b2c6987.jpg",
+        "https://telegra.ph/file/fbb8f7a311dcfe7a4d3f3.jpg",
+        "https://telegra.ph/file/fa819eba7f997e3d39add.jpg",
+        "https://telegra.ph/file/96e1f084647e930a96b83.jpg",
+        "https://telegra.ph/file/2bdf94d7e0741ec652cd9.jpg",
+        "https://telegra.ph/file/71d5bf21f20193b677291.jpg",
+        "https://telegra.ph/file/fe407aaabe975e9cbeede.jpg",
+        "https://telegra.ph/file/13014a71b2b413d076aac.jpg",
+        "https://telegra.ph/file/e6e5fd3a15d25221c4b24.jpg",
+        "https://telegra.ph/file/ebe59bd59ea5e3cdf31fb.jpg",
+        "https://telegra.ph/file/0c4210f24812b3d91d46b.jpg",
+        "https://telegra.ph/file/d472d0173d5489703539e.jpg",
+        "https://telegra.ph/file/938dfd8a1020c6c8199e9.jpg"
+    ]
+};

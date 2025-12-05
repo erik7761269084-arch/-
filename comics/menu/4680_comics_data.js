@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4680,
+    "title": "(メガ秋葉原同人祭 第3回) [RedDelicious (Sha)] 竜人双子のおもてなし (モンスターハンターライズ)",
+    "sourceUrl": "https://telegra.ph/メガ秋葉原同人祭-第3回-RedDelicious-Sha-竜人双子のおもてなし-モンスターハンターライズ-08-31",
+    "images": [
+        "https://telegra.ph/file/dbbf68e4d87ae235a435f.jpg",
+        "https://telegra.ph/file/1177e58dd09df10e6708a.jpg",
+        "https://telegra.ph/file/abcf3b5a28377f972c73c.jpg",
+        "https://telegra.ph/file/c85a875e7fe9148e7710d.jpg",
+        "https://telegra.ph/file/27d24840a9d6218631d9b.jpg",
+        "https://telegra.ph/file/677d8806c8f4722c26924.jpg",
+        "https://telegra.ph/file/eefe5e5a6d21f08a51cae.jpg",
+        "https://telegra.ph/file/5781507ba1c3819b55086.jpg",
+        "https://telegra.ph/file/15d02e57baf2095836d12.jpg",
+        "https://telegra.ph/file/0c639e33e7b89ce512739.jpg",
+        "https://telegra.ph/file/20e4a143c3fc5df7f6806.jpg",
+        "https://telegra.ph/file/bf13397281cb116773ac3.jpg",
+        "https://telegra.ph/file/e5a32122c45f1ecec1ef8.jpg",
+        "https://telegra.ph/file/d0f431f8eae025634042c.jpg",
+        "https://telegra.ph/file/d1ab87f85c98160f74387.jpg",
+        "https://telegra.ph/file/e2c17e3f8044d9f77fc49.jpg",
+        "https://telegra.ph/file/d16c6c279e0918cc32bbe.jpg",
+        "https://telegra.ph/file/29728ed4c35b77c11a3b0.jpg",
+        "https://telegra.ph/file/50750a11e5057286f2f45.jpg",
+        "https://telegra.ph/file/429161b3f55211fbfa9c0.jpg",
+        "https://telegra.ph/file/5c5a6f37fec1b0e3d27d3.jpg",
+        "https://telegra.ph/file/7b1694891a3b62d9d2134.jpg",
+        "https://telegra.ph/file/6eb14ac33162654f878f1.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

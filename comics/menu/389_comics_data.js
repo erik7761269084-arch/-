@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 389,
+    "title": "[歩かせ屋 (Arkas)] ニーミちゃんはHだなぁ (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/歩かせ屋-Arkas-ニーミちゃんはHだなぁ-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/2e44090254da4e1774a8d.jpg",
+        "https://telegra.ph/file/b43cbf5f80863fc39a9c4.jpg",
+        "https://telegra.ph/file/829ec8570ef2b001815ac.jpg",
+        "https://telegra.ph/file/c53fb87eeddac3e8029ff.jpg",
+        "https://telegra.ph/file/b869038b6e8d3faec2447.jpg",
+        "https://telegra.ph/file/372855330eef9dd0063b6.jpg",
+        "https://telegra.ph/file/e9faadeed180153211944.jpg",
+        "https://telegra.ph/file/6a40d7710da6b729869fd.jpg",
+        "https://telegra.ph/file/f22e2399af0bdb4de0504.jpg",
+        "https://telegra.ph/file/b674569b7cb0074b9e739.jpg",
+        "https://telegra.ph/file/3485698e52d8c302ac0dc.jpg",
+        "https://telegra.ph/file/e99433629712a84ea48d6.jpg",
+        "https://telegra.ph/file/110740e5696a2ab7c9c33.jpg",
+        "https://telegra.ph/file/b8575a4c7de07873f11ed.jpg",
+        "https://telegra.ph/file/238aa5c7fd4070b7918d6.jpg",
+        "https://telegra.ph/file/b173a094a54ac4928431e.jpg",
+        "https://telegra.ph/file/817a65f1193197d39795e.jpg",
+        "https://telegra.ph/file/4de9e531ce119c7a97e59.jpg",
+        "https://telegra.ph/file/8e267d2952a5a03047e2a.jpg",
+        "https://telegra.ph/file/d45d2c387bee8b39bd140.jpg",
+        "https://telegra.ph/file/76b66b0a9021e641d6cbd.jpg",
+        "https://telegra.ph/file/cb193d4dfb056909ecabe.jpg",
+        "https://telegra.ph/file/cca59ea7b380566e0cb1b.jpg"
+    ]
+};

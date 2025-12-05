@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7217,
+    "title": "巫女少年～",
+    "sourceUrl": "https://telegra.ph/巫女少年-08-31",
+    "images": [
+        "https://telegra.ph/file/2b5a05e4f8b25ab38edc6.jpg",
+        "https://telegra.ph/file/7fbf1d4584f667729d64c.jpg",
+        "https://telegra.ph/file/9eca06931df241cac9906.jpg",
+        "https://telegra.ph/file/49b609cf90db15c99bb85.jpg",
+        "https://telegra.ph/file/923291430cb374152fea8.jpg",
+        "https://telegra.ph/file/ce4fccb7df292adbbeff1.jpg",
+        "https://telegra.ph/file/24fee8eb5206e48a1d395.jpg",
+        "https://telegra.ph/file/1460c454041d6217ca815.jpg",
+        "https://telegra.ph/file/e9bcf7a949d9f0886b9b6.jpg",
+        "https://telegra.ph/file/3ec080d205d6af7b287ce.jpg",
+        "https://telegra.ph/file/d07b387d77e81fd7eaa5e.jpg",
+        "https://telegra.ph/file/33a0912e2eac3d7bbe58e.jpg",
+        "https://telegra.ph/file/bd0640707145f23830912.jpg",
+        "https://telegra.ph/file/baad76e580a1c6dd99b5d.jpg",
+        "https://telegra.ph/file/34c071dfa4b987ae54db7.jpg",
+        "https://telegra.ph/file/8b92fc89665fb9657375a.jpg",
+        "https://telegra.ph/file/15b7806540f6f918458ed.jpg",
+        "https://telegra.ph/file/75e105ce8dc4a49ddcf98.jpg",
+        "https://telegra.ph/file/3c5027382ad0e23d53f89.jpg",
+        "https://telegra.ph/file/b9bcaa9f5bf72aae225f8.jpg",
+        "https://telegra.ph/file/c764216e2c01e21ee5b67.jpg",
+        "https://telegra.ph/file/19dee5ce30531de964938.jpg",
+        "https://telegra.ph/file/efbf09fa01654f6059443.jpg",
+        "https://telegra.ph/file/adb70c53fe9176db5c7b3.jpg"
+    ]
+};

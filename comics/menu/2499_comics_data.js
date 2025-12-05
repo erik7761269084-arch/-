@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2499,
+    "title": "[早乙女もんどのすけ] 褐色人妻K・Eさんアルバイト先で排泄調教+ (黄金のソナタXXX その八)",
+    "sourceUrl": "https://telegra.ph/早乙女もんどのすけ-褐色人妻KEさんアルバイト先で排泄調教-黄金のソナタXXX-その八-08-31",
+    "images": [
+        "https://telegra.ph/file/ea69e58dec627aea97b21.jpg",
+        "https://telegra.ph/file/fb95fd6fecaee02753078.jpg",
+        "https://telegra.ph/file/ca313f4494a36ba8678b6.jpg",
+        "https://telegra.ph/file/8e66efc253369e05b5ca2.jpg",
+        "https://telegra.ph/file/4208f839db419f1c91180.jpg",
+        "https://telegra.ph/file/f7dced11e20ab59a213bf.jpg",
+        "https://telegra.ph/file/5ed8335edf9f350e47e77.jpg",
+        "https://telegra.ph/file/ed90cf3ced0f0b46f4df8.jpg",
+        "https://telegra.ph/file/d1c6ba51e3a01234a1474.jpg",
+        "https://telegra.ph/file/b58b076f83ea3e2307ad8.jpg",
+        "https://telegra.ph/file/7af5ba82b4b884b8f2e73.jpg",
+        "https://telegra.ph/file/2e01d62702d8fe6c203ed.jpg",
+        "https://telegra.ph/file/95ea3d212929160e64f3b.jpg",
+        "https://telegra.ph/file/ef8e8e6369bd913038577.jpg",
+        "https://telegra.ph/file/568ebdfb00e58a2acb9f2.jpg",
+        "https://telegra.ph/file/a413fea9e5a16042d4019.jpg",
+        "https://telegra.ph/file/fbaf306f33031b4437416.jpg",
+        "https://telegra.ph/file/1bdadca040da77db56743.jpg",
+        "https://telegra.ph/file/6a9f07d4a845465dd067f.jpg",
+        "https://telegra.ph/file/d1215d273de11c0fc3d54.jpg",
+        "https://telegra.ph/file/9c50cee6b21821711c9a7.jpg",
+        "https://telegra.ph/file/899c3e1faa45379957499.jpg",
+        "https://telegra.ph/file/6f412e22af5a0eefbbe01.jpg",
+        "https://telegra.ph/file/6ef2e90056c9c318b5f2e.jpg",
+        "https://telegra.ph/file/84d621226c66311643e35.jpg",
+        "https://telegra.ph/file/5b61a2e06016a7d2a4a08.jpg"
+    ]
+};

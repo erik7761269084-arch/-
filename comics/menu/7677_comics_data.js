@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7677,
+    "title": "暗く、そして濁った…",
+    "sourceUrl": "https://telegra.ph/暗くそして濁った-08-31",
+    "images": [
+        "https://telegra.ph/file/2dcfc09f74ed99ebdefdc.png",
+        "https://telegra.ph/file/548bfc1a08531572e82d8.png",
+        "https://telegra.ph/file/376e67f5203ae187ac5b6.png",
+        "https://telegra.ph/file/5c77638a92e7bd65acc57.png",
+        "https://telegra.ph/file/06b43e7ba0eddec122c2f.png",
+        "https://telegra.ph/file/431e02b699ca3635715c1.png",
+        "https://telegra.ph/file/4051bb7b9c85951102fd4.png",
+        "https://telegra.ph/file/0f75b757fd60339768c73.png",
+        "https://telegra.ph/file/78ce37e71e06cb27dd078.png",
+        "https://telegra.ph/file/56964e33be39058f36b0a.png",
+        "https://telegra.ph/file/e3e7bf13b377e566e0185.png",
+        "https://telegra.ph/file/8b94629606d5441a564fb.png",
+        "https://telegra.ph/file/ff5da14c1d36cca05fc5d.png",
+        "https://telegra.ph/file/1b52f1146907672856ac2.png",
+        "https://telegra.ph/file/9aed2774af9d875def161.png",
+        "https://telegra.ph/file/b2a176f21a1573f3225f1.png",
+        "https://telegra.ph/file/f2dbfaadaf7ece4533345.png",
+        "https://telegra.ph/file/47c9ed03b99a0eebb4d37.png",
+        "https://telegra.ph/file/978764250ce38ce2359ab.png",
+        "https://telegra.ph/file/ce7c6f8f0995306334ebf.png",
+        "https://telegra.ph/file/6d4cdcfba746a35dac673.png",
+        "https://telegra.ph/file/e1fa1692e7b59f8667600.png",
+        "https://telegra.ph/file/0b0adde91200deaa2ad8f.png",
+        "https://telegra.ph/file/7e87141462a4bbb95d349.png",
+        "https://telegra.ph/file/64dde43ae1482fb56d0dd.png",
+        "https://telegra.ph/file/c56ffffeb374662af9ff2.png"
+    ]
+};

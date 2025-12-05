@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2252,
+    "title": "(C92) [Sugar＊Berry＊Syrup (クロエ)] マッキー♥好き♥好き♥ (機動戦士ガンダム 鉄血のオルフェンズ)",
+    "sourceUrl": "https://telegra.ph/C92-SugarBerrySyrup-クロエ-マッキー好き好き-機動戦士ガンダム-鉄血のオルフェンズ-08-31",
+    "images": [
+        "https://telegra.ph/file/406f406904cf9b1c4af61.jpg",
+        "https://telegra.ph/file/17b07a8ed4c1e0defc455.jpg",
+        "https://telegra.ph/file/489127d2d699f1c6a026d.jpg",
+        "https://telegra.ph/file/ee6069bb08eadc932b3d8.jpg",
+        "https://telegra.ph/file/7ac3642f64a80990142cd.jpg",
+        "https://telegra.ph/file/b8b026a72db1d962e0893.jpg",
+        "https://telegra.ph/file/d9c366941da1b45a79580.jpg",
+        "https://telegra.ph/file/591c81d677d5a996914ee.jpg",
+        "https://telegra.ph/file/d3580de17f7f74b0566da.jpg",
+        "https://telegra.ph/file/b3dc989a002623605300f.jpg",
+        "https://telegra.ph/file/bd47b6b70b5b454fb98e7.jpg",
+        "https://telegra.ph/file/5250a450473fea009a734.jpg",
+        "https://telegra.ph/file/fd738c0bea961f2001141.jpg",
+        "https://telegra.ph/file/49fe5f948414cabe48c50.jpg",
+        "https://telegra.ph/file/93693547e623782d435e0.jpg",
+        "https://telegra.ph/file/98858a30f090ec972f6e3.jpg",
+        "https://telegra.ph/file/22d5f89b8e34339c9342b.jpg",
+        "https://telegra.ph/file/ea9957a5f1b092c1f7b3a.jpg",
+        "https://telegra.ph/file/6da46b5105ae8d994d210.jpg",
+        "https://telegra.ph/file/6e6836b8d7318e6892e30.jpg",
+        "https://telegra.ph/file/f24576f376909398554b1.jpg",
+        "https://telegra.ph/file/60b25189fab9b650de042.jpg",
+        "https://telegra.ph/file/003eeb75d597149b5fe19.jpg",
+        "https://telegra.ph/file/49e08b58bb1f73918ac6c.jpg",
+        "https://telegra.ph/file/824ae830983aaf0ca9b63.jpg",
+        "https://telegra.ph/file/975b98ef0f9faffcf6995.jpg"
+    ]
+};

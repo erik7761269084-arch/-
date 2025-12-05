@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6635,
+    "title": "私の希 (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/私の希-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/4eac9ef9d4b6d1137106b.jpg",
+        "https://telegra.ph/file/80650d2c0c24a8037e48f.jpg",
+        "https://telegra.ph/file/727827617d5ef1ddc5fa6.jpg",
+        "https://telegra.ph/file/295c31418fd58fcb8ca82.jpg",
+        "https://telegra.ph/file/a9bae651289d3f421fff8.jpg",
+        "https://telegra.ph/file/d1f9a1915fc748977fa33.jpg",
+        "https://telegra.ph/file/d6ab37d6165f17a7645e3.jpg",
+        "https://telegra.ph/file/d4fa1c7a673879bffef6d.jpg",
+        "https://telegra.ph/file/a6fab3d1ee9b33864f771.jpg",
+        "https://telegra.ph/file/02951ef478481d077a965.jpg",
+        "https://telegra.ph/file/f229c0058413ef26838f6.jpg",
+        "https://telegra.ph/file/fff74fd86979ad328148e.jpg",
+        "https://telegra.ph/file/febf11c4847d83ceacd7e.jpg",
+        "https://telegra.ph/file/52dc548e98745dfc185af.jpg",
+        "https://telegra.ph/file/3a554f6a83b4a740e7d7f.jpg",
+        "https://telegra.ph/file/ac43c9cb01d2e5b28732d.jpg",
+        "https://telegra.ph/file/ec995c719c67b0dc11a5d.jpg",
+        "https://telegra.ph/file/522c37a8c58e8ddfa9316.jpg",
+        "https://telegra.ph/file/8f02601b5aba3154ddd01.jpg",
+        "https://telegra.ph/file/048e5c8721749daafeb64.jpg",
+        "https://telegra.ph/file/7e8e39b6a8a6b78b88f2a.jpg",
+        "https://telegra.ph/file/339fe24bbbb3b845de2c6.jpg",
+        "https://telegra.ph/file/ba8851ba5c3e69f220fde.jpg",
+        "https://telegra.ph/file/874d0e6feaebc801d9540.jpg",
+        "https://telegra.ph/file/48814b2fa2663e01fe9f6.jpg",
+        "https://telegra.ph/file/964a3967313684592f903.jpg"
+    ]
+};

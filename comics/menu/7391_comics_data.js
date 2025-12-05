@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7391,
+    "title": "童貞から始める異世界性服",
+    "sourceUrl": "https://telegra.ph/童貞から始める異世界性服-08-31-2",
+    "images": [
+        "https://telegra.ph/file/e55b59671d63c0686dc78.jpg",
+        "https://telegra.ph/file/75f55d6604d881dc5510f.jpg",
+        "https://telegra.ph/file/1d53e5d77ff057b2199c6.jpg",
+        "https://telegra.ph/file/c1b6a6ae509a8b71e5f04.jpg",
+        "https://telegra.ph/file/dff6e27e3ca91c3a0bb6c.jpg",
+        "https://telegra.ph/file/7ceb991a82feca039d88e.jpg",
+        "https://telegra.ph/file/7d4b87dd012a4b446ab90.jpg",
+        "https://telegra.ph/file/d40af182ca7e670267eb9.jpg",
+        "https://telegra.ph/file/c7ab642acc5a83761efe8.jpg",
+        "https://telegra.ph/file/4d540a797e3c0da8232df.jpg",
+        "https://telegra.ph/file/44d2c3fcd5c8c474d81c3.jpg",
+        "https://telegra.ph/file/e8a50d296f54e251c1d0d.jpg",
+        "https://telegra.ph/file/e3cb746597c4edde8896f.jpg",
+        "https://telegra.ph/file/9189d6657af9ecc8b2867.jpg",
+        "https://telegra.ph/file/08f536726c25e4f28a3f0.jpg",
+        "https://telegra.ph/file/ba53317c1f4fc70256b1c.jpg",
+        "https://telegra.ph/file/b64e7ea7cf07461f1f031.jpg",
+        "https://telegra.ph/file/ebfd97d538bab9d982333.jpg",
+        "https://telegra.ph/file/893eacb0e26cc5298a0d2.jpg",
+        "https://telegra.ph/file/b308852ed4dd8afa8e8f1.jpg",
+        "https://telegra.ph/file/c4412baaed825824ba7bf.jpg",
+        "https://telegra.ph/file/28670f2a0ade185576d51.jpg",
+        "https://telegra.ph/file/c82d342cc188a4de3bc0e.jpg",
+        "https://telegra.ph/file/7617a91f6eebbe3d626ba.jpg"
+    ]
+};

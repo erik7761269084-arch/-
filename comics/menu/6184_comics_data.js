@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6184,
+    "title": "[黒龍眼] シンデレラにお願い！",
+    "sourceUrl": "https://telegra.ph/黒龍眼-シンデレラにお願い-08-31",
+    "images": [
+        "https://telegra.ph/file/f3ce5351e2b24c5044576.jpg",
+        "https://telegra.ph/file/d6fc83c9ac7d7f49b58c5.jpg",
+        "https://telegra.ph/file/61ae94bab1ab5de786f5e.jpg",
+        "https://telegra.ph/file/ef837222f917ddf245f5e.jpg",
+        "https://telegra.ph/file/b07f852f4b7dd3e3ab135.jpg",
+        "https://telegra.ph/file/442fcbc21b3248587b5be.jpg",
+        "https://telegra.ph/file/22a328bb38845f34cf502.jpg",
+        "https://telegra.ph/file/277250627b1c6a1857803.jpg",
+        "https://telegra.ph/file/50d1b859e5daa31398af5.jpg",
+        "https://telegra.ph/file/19a8030701ad8a1257ef1.jpg",
+        "https://telegra.ph/file/886eab0a325d184166ca2.jpg",
+        "https://telegra.ph/file/afc9c87d6f41faba191a2.jpg",
+        "https://telegra.ph/file/9c60ac55093e3d3c3a13b.jpg",
+        "https://telegra.ph/file/a6b1c014f99dc50de670b.jpg",
+        "https://telegra.ph/file/382546323464c698807e5.jpg",
+        "https://telegra.ph/file/e92f7f55371a5988f50b4.jpg",
+        "https://telegra.ph/file/83270168de82adca65342.jpg",
+        "https://telegra.ph/file/df82216b951d17bf450ba.jpg",
+        "https://telegra.ph/file/13b6ff7bf5fb7bfbd157c.jpg",
+        "https://telegra.ph/file/f0bce1acf26a6f98c5fab.jpg",
+        "https://telegra.ph/file/3ab8854545c94eb2a9570.jpg",
+        "https://telegra.ph/file/dbf17972fc85e3e8bd12f.jpg",
+        "https://telegra.ph/file/c5445147e890a26453c89.jpg",
+        "https://telegra.ph/file/f3941fa4559a08225eadf.jpg",
+        "https://telegra.ph/file/a175d02061c798164566c.jpg",
+        "https://telegra.ph/file/5bf9dbf2c239c4ac42503.jpg"
+    ]
+};

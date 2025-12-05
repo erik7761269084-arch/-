@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2901,
+    "title": "(C97) [ざっはとるて (森永らむね)] 邪ンヌの本４(Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-ざっはとるて-森永らむね-邪ンヌの本４FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/0e6a564dfa69a59a4cad9.jpg",
+        "https://telegra.ph/file/f1faee1537544d91e8c70.jpg",
+        "https://telegra.ph/file/63a5d4b0adf215234476c.jpg",
+        "https://telegra.ph/file/e7c4ab8f2dc79de146925.jpg",
+        "https://telegra.ph/file/9cfe8bc68bca17d245729.jpg",
+        "https://telegra.ph/file/2e8b520b4fe6c9d5e8770.jpg",
+        "https://telegra.ph/file/8ea604a3425e63e1c081f.jpg",
+        "https://telegra.ph/file/335ed7e5489f94c8ddf15.jpg",
+        "https://telegra.ph/file/cb5b8076e14b554437c77.jpg",
+        "https://telegra.ph/file/2aeef99a0e68b52bacfe6.jpg",
+        "https://telegra.ph/file/931a9cfaea1bc725f3cc7.jpg",
+        "https://telegra.ph/file/43c46ca42f9e5464a3871.jpg",
+        "https://telegra.ph/file/3b70ebc89df0679d763bb.jpg",
+        "https://telegra.ph/file/d0f9b2c115697974b10c6.jpg",
+        "https://telegra.ph/file/2387c574b2e448fec81e7.jpg",
+        "https://telegra.ph/file/344dd113df02f9c043376.jpg",
+        "https://telegra.ph/file/f544ece82e29fd55551ca.jpg",
+        "https://telegra.ph/file/16af3b783074268a60342.jpg",
+        "https://telegra.ph/file/e026e4a2f9f0ef090156e.jpg",
+        "https://telegra.ph/file/f364c625c0b384e109c8a.jpg",
+        "https://telegra.ph/file/f8355bf3d3c11501bf440.jpg",
+        "https://telegra.ph/file/fb4d7f9ea79a0725d8fb9.jpg",
+        "https://telegra.ph/file/b943d9e33475e36aa3214.jpg",
+        "https://telegra.ph/file/86c54403afd9da8253c24.jpg",
+        "https://telegra.ph/file/0ee2ad562325ffbf3226d.jpg",
+        "https://telegra.ph/file/0b5caa623f33d5542711f.jpg"
+    ]
+};

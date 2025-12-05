@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 584,
+    "title": "[茶々らん] キミのこと好きなんだ♡ (COMIC アンスリウム 2018年11月号)",
+    "sourceUrl": "https://telegra.ph/茶々らん-キミのこと好きなんだ-COMIC-アンスリウム-2018年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/6834918389690c91b4f86.jpg",
+        "https://telegra.ph/file/7861e7031d343b512d17a.jpg",
+        "https://telegra.ph/file/ab6fa8fc3a2deb796bead.jpg",
+        "https://telegra.ph/file/3ff3b01e053c3e0156bbd.jpg",
+        "https://telegra.ph/file/1f830de97dc0a83659f5a.jpg",
+        "https://telegra.ph/file/3cf8f9ba0e220ebc70185.jpg",
+        "https://telegra.ph/file/123338bc16dfff637fa68.jpg",
+        "https://telegra.ph/file/e850a596f51243a387e24.jpg",
+        "https://telegra.ph/file/24d1daeb347ffaea03e22.jpg",
+        "https://telegra.ph/file/dfe447ef161cebd644ff2.jpg",
+        "https://telegra.ph/file/12bf18c076e20c661972c.jpg",
+        "https://telegra.ph/file/2e0f75ec5612c1d65bda0.jpg",
+        "https://telegra.ph/file/db7b920988e5fe6211998.jpg",
+        "https://telegra.ph/file/56dbca04445cd4c053d0e.jpg",
+        "https://telegra.ph/file/8b4462e75b168c12015e1.jpg",
+        "https://telegra.ph/file/0b3423094b1488a20b4cf.jpg",
+        "https://telegra.ph/file/b87aa096d08a67a2b05a8.jpg",
+        "https://telegra.ph/file/45ba29a95b8d384e341ce.jpg",
+        "https://telegra.ph/file/8137e7a5b026273144961.jpg",
+        "https://telegra.ph/file/660298e697835d7686f28.jpg",
+        "https://telegra.ph/file/fb43597d147bcc6587632.jpg",
+        "https://telegra.ph/file/421e355da90c960da41d6.jpg",
+        "https://telegra.ph/file/494088c8f585f4948fd5b.jpg",
+        "https://telegra.ph/file/e4f19e35157239a00e9af.jpg"
+    ]
+};

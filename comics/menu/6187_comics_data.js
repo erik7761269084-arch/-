@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6187,
+    "title": "[あるぷ] SHOW MUST GO ON!",
+    "sourceUrl": "https://telegra.ph/あるぷ-SHOW-MUST-GO-ON-08-31",
+    "images": [
+        "https://telegra.ph/file/ec6cf7d576b80fed6ee64.jpg",
+        "https://telegra.ph/file/ac63893b0566dc7b903de.jpg",
+        "https://telegra.ph/file/66d54ee89393f87624c43.jpg",
+        "https://telegra.ph/file/09292d43b6de52bfa2b54.jpg",
+        "https://telegra.ph/file/a29d4215e8a27bf171700.jpg",
+        "https://telegra.ph/file/21ea86012141a39e407b6.jpg",
+        "https://telegra.ph/file/11751b41d65d5a112856f.jpg",
+        "https://telegra.ph/file/f69ba6911e4c3822995ad.jpg",
+        "https://telegra.ph/file/6e548e2a30b2581ce9c61.jpg",
+        "https://telegra.ph/file/378dca7aa1a5aa0af3b7c.jpg",
+        "https://telegra.ph/file/2d5cf1eb88b1de970cbfd.jpg",
+        "https://telegra.ph/file/3ab382b2736ca514bc5ff.jpg",
+        "https://telegra.ph/file/a44c88f0c6b84946ac9df.jpg",
+        "https://telegra.ph/file/7d8e8bccf0b7e52faa2b2.jpg",
+        "https://telegra.ph/file/fd1237a4fdccf605be873.jpg",
+        "https://telegra.ph/file/6483273cd81fd2462be82.jpg",
+        "https://telegra.ph/file/22bd18f0cd613ca53df93.jpg",
+        "https://telegra.ph/file/ec974b25fbff689b0f230.jpg",
+        "https://telegra.ph/file/c7d3097f6f4174559a7db.jpg",
+        "https://telegra.ph/file/db316cd1a966940ac6990.jpg",
+        "https://telegra.ph/file/f6368ce2b5cf3637f3f34.jpg",
+        "https://telegra.ph/file/d1b4a8c4f093c51d5d972.jpg",
+        "https://telegra.ph/file/240335199ba0d46e39f8c.jpg",
+        "https://telegra.ph/file/495eaf0c0238df98c521f.jpg"
+    ]
+};

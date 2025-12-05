@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7019,
+    "title": "[山田の性活が第一] スクラム]",
+    "sourceUrl": "https://telegra.ph/山田の性活が第一-スクラム-08-31",
+    "images": [
+        "https://telegra.ph/file/3863dfafaf6be3a7fef89.jpg",
+        "https://telegra.ph/file/991a6cbdad2ce755057be.jpg",
+        "https://telegra.ph/file/687c08657f63ceae8fd9f.jpg",
+        "https://telegra.ph/file/647dab02922dc24f09b09.jpg",
+        "https://telegra.ph/file/0cf2cd2c09c85e4a7dd6c.jpg",
+        "https://telegra.ph/file/afb8ca739de3837ee7914.jpg",
+        "https://telegra.ph/file/c342738c6034358c0423e.jpg",
+        "https://telegra.ph/file/96fcb7b8f6dcd9ac23f24.jpg",
+        "https://telegra.ph/file/06f114771e1bc34ef8ae2.jpg",
+        "https://telegra.ph/file/32ed083c6ec2940dc8661.jpg",
+        "https://telegra.ph/file/df9a6ef06780edfa9ffeb.jpg",
+        "https://telegra.ph/file/9e0cd9fcc0b9f0d64b87a.jpg",
+        "https://telegra.ph/file/c94a3feb63a992a1d5be2.jpg",
+        "https://telegra.ph/file/17551148520cef220552f.jpg",
+        "https://telegra.ph/file/180bec258e1e11b7e43c8.jpg",
+        "https://telegra.ph/file/45898e734bdebdff53e48.jpg",
+        "https://telegra.ph/file/a8062172359a5c36cb4e6.jpg",
+        "https://telegra.ph/file/fffba3fd6e5d17596cb7c.jpg",
+        "https://telegra.ph/file/f8afb5006cfc031da1595.jpg",
+        "https://telegra.ph/file/46380cc1ba2cb2db1fd16.jpg",
+        "https://telegra.ph/file/ed9decdea843248104d02.jpg",
+        "https://telegra.ph/file/a5eef87edc39fb6043a57.jpg",
+        "https://telegra.ph/file/b875fa4bab89439f5ef0d.jpg",
+        "https://telegra.ph/file/5a74ec2182137ff1f1621.jpg",
+        "https://telegra.ph/file/9a404076e71e3f6c91fd2.jpg"
+    ]
+};

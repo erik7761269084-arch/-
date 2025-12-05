@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5110,
+    "title": "(C100) [きのこむ神 (きのこむし)] 先生で、栄養補給シたいなあっ (ブルーアーカイブ)  [v3]",
+    "sourceUrl": "https://telegra.ph/C100-きのこむ神-きのこむし-先生で栄養補給シたいなあっ-ブルーアーカイブ-v3-08-31-3",
+    "images": [
+        "https://telegra.ph/file/96ef62e19ee2b2e8b82fc.png",
+        "https://telegra.ph/file/65767de6edad139554ae0.png",
+        "https://telegra.ph/file/7a02562b72370f188fd63.png",
+        "https://telegra.ph/file/5c797dae3015687fe6124.png",
+        "https://telegra.ph/file/bf90d85646bdc5a050b69.png",
+        "https://telegra.ph/file/cda622390ad5d0975ff53.png",
+        "https://telegra.ph/file/b902e786d6356c0e59683.png",
+        "https://telegra.ph/file/ec6f0d65a3ee9d4d480e4.png",
+        "https://telegra.ph/file/dba8fec64c552b446a9ab.png",
+        "https://telegra.ph/file/dfdf42cb69223e9fcf0d2.png",
+        "https://telegra.ph/file/e68772db6554b28296702.png",
+        "https://telegra.ph/file/3ef00a0ac706eb224a6ee.png",
+        "https://telegra.ph/file/60e32597976f34a8f5170.png",
+        "https://telegra.ph/file/5d991418d1c10b61ddb16.png",
+        "https://telegra.ph/file/4c8fc1941567854ae7583.png",
+        "https://telegra.ph/file/0f37fb84b63d5a9707a75.png",
+        "https://telegra.ph/file/daadfec1a1cb7ef8f0e08.png",
+        "https://telegra.ph/file/e037d6f1e59c056dbd73a.png",
+        "https://telegra.ph/file/7ea4f054f6c302024806a.png",
+        "https://telegra.ph/file/98d32947cfe0e47e6e51b.png",
+        "https://telegra.ph/file/dc9e9e23631ab82af8cc3.png",
+        "https://telegra.ph/file/b365a693ae1ec7644c61c.png",
+        "https://telegra.ph/file/7f59350f9d19732943e0d.png",
+        "https://telegra.ph/file/c1de8bbc96d7d8b9bab6f.png",
+        "https://telegra.ph/file/b9313afddb362782b10e4.png"
+    ]
+};

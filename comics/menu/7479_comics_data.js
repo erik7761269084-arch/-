@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7479,
+    "title": "べんきょう好きの女の子",
+    "sourceUrl": "https://telegra.ph/べんきょう好きの女の子-08-31",
+    "images": [
+        "https://telegra.ph/file/edd086177c3dc287d8629.jpg",
+        "https://telegra.ph/file/f914ba277180a13b87f69.jpg",
+        "https://telegra.ph/file/f88f95fe42973e871bb9c.jpg",
+        "https://telegra.ph/file/b8943f16bf827d006a706.jpg",
+        "https://telegra.ph/file/2ed08d9f1478e2999593f.jpg",
+        "https://telegra.ph/file/8a64c0763f7f54a7cec85.jpg",
+        "https://telegra.ph/file/2325b030cf3868fe731c4.jpg",
+        "https://telegra.ph/file/fdcd5e50b16d8d596261c.jpg",
+        "https://telegra.ph/file/5c152e7a5e9fa877e9081.jpg",
+        "https://telegra.ph/file/f1e505e214044aff99dab.jpg",
+        "https://telegra.ph/file/3401e3dcbbba85c3f2f3f.jpg",
+        "https://telegra.ph/file/2b4a558d8ff24e6214ab0.jpg",
+        "https://telegra.ph/file/91adebce0c5a6831b54a1.jpg",
+        "https://telegra.ph/file/22d7b7314ca577b74a2c9.jpg",
+        "https://telegra.ph/file/da288e1dc0bc2c5f5be82.jpg",
+        "https://telegra.ph/file/d1f9620621cd08ab1cd49.jpg",
+        "https://telegra.ph/file/68065730368b653a69268.jpg",
+        "https://telegra.ph/file/803246e2785dc5ceb3465.jpg",
+        "https://telegra.ph/file/bc93d567a568cbd7fdacf.jpg",
+        "https://telegra.ph/file/bb392fb0a9d9cb2d31d21.jpg",
+        "https://telegra.ph/file/e94314eddcb08fc4c2227.jpg",
+        "https://telegra.ph/file/d565c4befce49674a510e.jpg",
+        "https://telegra.ph/file/3afcbb5b6cbbc15fb7d81.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2959,
+    "title": "(コミティア138) [TwinBox (花花捲、草草饅)] 君のことが好きだから",
+    "sourceUrl": "https://telegra.ph/コミティア138-TwinBox-花花捲草草饅-君のことが好きだから-08-31",
+    "images": [
+        "https://telegra.ph/file/a29c783c86e8419d19795.jpg",
+        "https://telegra.ph/file/0099494b959a4cd8f01e8.jpg",
+        "https://telegra.ph/file/167f70341ecec877e2100.jpg",
+        "https://telegra.ph/file/774c5a52c4ef75d4dfca2.jpg",
+        "https://telegra.ph/file/b7870832976d7c7f7de99.jpg",
+        "https://telegra.ph/file/5737761dab2abb6bfe656.jpg",
+        "https://telegra.ph/file/26be05e3f82e412ac402e.jpg",
+        "https://telegra.ph/file/0b488cc0417e6c4b0766c.jpg",
+        "https://telegra.ph/file/87b6c41333de586779e0d.jpg",
+        "https://telegra.ph/file/5c971690fb56486d11d6e.jpg",
+        "https://telegra.ph/file/920741e47c63413d882a9.jpg",
+        "https://telegra.ph/file/953cebb2c00ef69ece559.jpg",
+        "https://telegra.ph/file/0984c21586227e8a61098.jpg",
+        "https://telegra.ph/file/9b005a5ac546d191bdc4b.jpg",
+        "https://telegra.ph/file/808352a7efe6bc028ac70.jpg",
+        "https://telegra.ph/file/34086035d61a2fbcc70e4.jpg",
+        "https://telegra.ph/file/ae6edcf5993e52ae7c129.jpg",
+        "https://telegra.ph/file/01ac1fd7f699023311702.jpg",
+        "https://telegra.ph/file/c06335e08a68f73b33955.jpg",
+        "https://telegra.ph/file/e727b65cd310d77ee49a5.jpg",
+        "https://telegra.ph/file/4feaf689c66b666d25d21.jpg",
+        "https://telegra.ph/file/0bebaa393e15ac4f4a1c5.jpg",
+        "https://telegra.ph/file/bdb8224cc6011d45fe4df.jpg"
+    ]
+};

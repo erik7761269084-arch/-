@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5060,
+    "title": "[木瀬樹] (WEEKLY快楽天 2021 No.38) アイドル・プランニング",
+    "sourceUrl": "https://telegra.ph/木瀬樹-WEEKLY快楽天-2021-No38-アイドルプランニング-08-31-3",
+    "images": [
+        "https://telegra.ph/file/120be3f5fc85f2a70231a.png",
+        "https://telegra.ph/file/12b0eba9c5b10cabe04d6.png",
+        "https://telegra.ph/file/23b111c25a5fd737402ca.png",
+        "https://telegra.ph/file/e08764b2eccff99d547a8.png",
+        "https://telegra.ph/file/b62b0537cd37cf9121b25.png",
+        "https://telegra.ph/file/188ede4ff8f45c14c223f.png",
+        "https://telegra.ph/file/35f0cda6fccb21474aa32.png",
+        "https://telegra.ph/file/a94767224a022f03034a8.png",
+        "https://telegra.ph/file/998490a2c954c340e8f52.png",
+        "https://telegra.ph/file/dd2e4346a6a026624fc08.png",
+        "https://telegra.ph/file/6e700a30cd537e42f6dcd.png",
+        "https://telegra.ph/file/9bfa3066e446ecbfd6c22.png",
+        "https://telegra.ph/file/a1c5c2955acc6463985c1.png",
+        "https://telegra.ph/file/99d286bf0e4987aecbb94.png",
+        "https://telegra.ph/file/659cc1aa07e64d8439606.png",
+        "https://telegra.ph/file/1fb647543f7db1579af66.png",
+        "https://telegra.ph/file/2f3b728a74e5696fc05f0.png",
+        "https://telegra.ph/file/c13f30b681b2c13174ec0.png",
+        "https://telegra.ph/file/5d1011f1a03d99312eeed.png",
+        "https://telegra.ph/file/31da1ab39b1bb4c91852d.png",
+        "https://telegra.ph/file/5ce5e2a8c6f93a3dc66c6.png",
+        "https://telegra.ph/file/850eb0183d8d2da2c81f0.png",
+        "https://telegra.ph/file/787d1007e835065aa5c2c.png"
+    ]
+};

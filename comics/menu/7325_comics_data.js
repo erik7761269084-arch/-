@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7325,
+    "title": "銀色ネクサス",
+    "sourceUrl": "https://telegra.ph/銀色ネクサス-08-31",
+    "images": [
+        "https://telegra.ph/file/5afae6cbde1f869dbe95b.jpg",
+        "https://telegra.ph/file/cd1b6baedac6f2d5ba5f2.jpg",
+        "https://telegra.ph/file/3f6bde9ce2365b0600ecb.jpg",
+        "https://telegra.ph/file/812068379f6a15823088e.jpg",
+        "https://telegra.ph/file/5ac0ccf0a8b1edaf01b5c.jpg",
+        "https://telegra.ph/file/aed8a86538a762ffde94c.jpg",
+        "https://telegra.ph/file/04e13ad47efc7ab9dbb94.jpg",
+        "https://telegra.ph/file/21ef00d42462eb688af88.jpg",
+        "https://telegra.ph/file/b510a9c7a7a7fc2ec0e1f.jpg",
+        "https://telegra.ph/file/434c2965777d55ef01d0e.jpg",
+        "https://telegra.ph/file/f6346f46267d2b893d0ed.jpg",
+        "https://telegra.ph/file/087748dd7f9bb39a49d92.jpg",
+        "https://telegra.ph/file/d63f8bbf3194a7cb550d1.jpg",
+        "https://telegra.ph/file/49f327c62d03577fa1c15.jpg",
+        "https://telegra.ph/file/542428b69f8641adbc402.jpg",
+        "https://telegra.ph/file/447d1e26f69d2129a16f3.jpg",
+        "https://telegra.ph/file/8b73585dab13f10f0efd5.jpg",
+        "https://telegra.ph/file/ad3fe42c6e662bd9ffe45.jpg",
+        "https://telegra.ph/file/b029d231b9c27867db841.jpg",
+        "https://telegra.ph/file/0ccf95cf00848a3c5a466.jpg",
+        "https://telegra.ph/file/f81a8d1d3349cc14a4e28.jpg",
+        "https://telegra.ph/file/680b24ba911546b80d9b1.jpg",
+        "https://telegra.ph/file/33e11867aee64949d5f32.jpg",
+        "https://telegra.ph/file/9f98df83cce43c8b42496.jpg"
+    ]
+};

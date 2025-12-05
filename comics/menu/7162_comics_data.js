@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7162,
+    "title": "発表会の前に",
+    "sourceUrl": "https://telegra.ph/発表会の前に-08-31",
+    "images": [
+        "https://telegra.ph/file/52a9e28a00d4de5357127.jpg",
+        "https://telegra.ph/file/093927ff00ad56deac22e.jpg",
+        "https://telegra.ph/file/fd192254023b59d18d020.jpg",
+        "https://telegra.ph/file/f02137842ea6ab9578afa.jpg",
+        "https://telegra.ph/file/2b287040509cdc2ae24dc.png",
+        "https://telegra.ph/file/e35e56dedd181e8b0b33e.jpg",
+        "https://telegra.ph/file/27f5f8f925ce9ce45e066.jpg",
+        "https://telegra.ph/file/5364be8a3d699d5cad832.jpg",
+        "https://telegra.ph/file/3b144cf9b19a942a0cc23.jpg",
+        "https://telegra.ph/file/75017c882840716138217.jpg",
+        "https://telegra.ph/file/4f44e9d8890c1367eb995.jpg",
+        "https://telegra.ph/file/c85dbea89d9df80ed0da7.jpg",
+        "https://telegra.ph/file/96a92228e00afa3c5fe22.jpg",
+        "https://telegra.ph/file/62233ee29d048e06c5c72.jpg",
+        "https://telegra.ph/file/ec26cec802db131c32380.jpg",
+        "https://telegra.ph/file/e585960008b4d11be1f99.jpg",
+        "https://telegra.ph/file/3d364910368b7f2630775.jpg",
+        "https://telegra.ph/file/d908d32912a793186a5b0.jpg",
+        "https://telegra.ph/file/999d7bfea0e908c75c5ca.jpg",
+        "https://telegra.ph/file/a9a00cdf2b4ef2122e4a6.jpg",
+        "https://telegra.ph/file/ca603cf1659ca0678da66.jpg",
+        "https://telegra.ph/file/c8c278630b20be5931c10.jpg",
+        "https://telegra.ph/file/eca23813dc2a1e35deedc.jpg",
+        "https://telegra.ph/file/0b9b9d74a9e228f6227da.jpg"
+    ]
+};

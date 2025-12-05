@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6390,
+    "title": "ひみつのはなしを聞きたいそうです (魔法少女まどか☆マギカ)",
+    "sourceUrl": "https://telegra.ph/ひみつのはなしを聞きたいそうです-魔法少女まどかマギカ-08-31",
+    "images": [
+        "https://telegra.ph/file/97bbb24c8288adcf57d6f.jpg",
+        "https://telegra.ph/file/2e02ed17e3504e1f0aa2b.jpg",
+        "https://telegra.ph/file/b0041886c24a3ced57c99.jpg",
+        "https://telegra.ph/file/1c0d0ee51718a6dc3a6dd.jpg",
+        "https://telegra.ph/file/bbee332760953e36279e2.jpg",
+        "https://telegra.ph/file/99547a904c18258e3457a.jpg",
+        "https://telegra.ph/file/66c8da0d43f44a58cca28.jpg",
+        "https://telegra.ph/file/ebfb4d9e8a729c391b181.jpg",
+        "https://telegra.ph/file/b362dc037d8b0b551a3a8.jpg",
+        "https://telegra.ph/file/bc20f0363bd9c037f70fb.jpg",
+        "https://telegra.ph/file/fbffb68b2ae5f71b7b9ea.jpg",
+        "https://telegra.ph/file/efe650ce14bd7658fc4b8.jpg",
+        "https://telegra.ph/file/0da62b21930269a2f55c8.jpg",
+        "https://telegra.ph/file/f71003b8370ba787565b6.jpg",
+        "https://telegra.ph/file/b67508f243f02918948e2.jpg",
+        "https://telegra.ph/file/222f64c5cc76a74fdc48f.jpg",
+        "https://telegra.ph/file/0d9c7809bb7ab43e2b9ba.jpg",
+        "https://telegra.ph/file/55bf5af8d287d53fce4e5.jpg",
+        "https://telegra.ph/file/13b3cf848de6cea08f6df.jpg",
+        "https://telegra.ph/file/6b9b302614b0ba3230e47.jpg",
+        "https://telegra.ph/file/25edd3cd67909932717ff.jpg",
+        "https://telegra.ph/file/7dc0379c5f9bc52193842.jpg",
+        "https://telegra.ph/file/d2a32f0659733a88f9e73.jpg",
+        "https://telegra.ph/file/e0e806b6467ad0b35963d.jpg",
+        "https://telegra.ph/file/d90e0894d89065a904429.jpg",
+        "https://telegra.ph/file/b198edb3447bb337aed2a.jpg"
+    ]
+};

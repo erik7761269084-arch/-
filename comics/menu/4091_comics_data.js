@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4091,
+    "title": "[久川ちん] スケベなエルフがあらわれた！ (コミック エグゼ 32)",
+    "sourceUrl": "https://telegra.ph/久川ちん-スケベなエルフがあらわれた-コミック-エグゼ-32-08-31",
+    "images": [
+        "https://telegra.ph/file/7aa6170a43d41ecb32b9a.jpg",
+        "https://telegra.ph/file/282b1ad7d403185e69783.jpg",
+        "https://telegra.ph/file/ee00e04904f875f254d9e.jpg",
+        "https://telegra.ph/file/6bf490980c4abbc5027af.jpg",
+        "https://telegra.ph/file/9417bd6d5ab76e8f8d8fe.jpg",
+        "https://telegra.ph/file/14883d73c60357abe6585.jpg",
+        "https://telegra.ph/file/91e84667c699b4c7a6e19.jpg",
+        "https://telegra.ph/file/5ccd360b0ed4617f1fe0d.jpg",
+        "https://telegra.ph/file/d8122f81b6b77d7ec3e19.jpg",
+        "https://telegra.ph/file/1bd90f348e6289c74567f.jpg",
+        "https://telegra.ph/file/96643ee5a1285086de470.jpg",
+        "https://telegra.ph/file/bd4bb88b113ce68f89f41.jpg",
+        "https://telegra.ph/file/2ca55994c2df7648fd1cc.jpg",
+        "https://telegra.ph/file/8c3a482060d01ceae09df.jpg",
+        "https://telegra.ph/file/27158c833240f48a6a3a0.jpg",
+        "https://telegra.ph/file/a511138b8a88101254cae.jpg",
+        "https://telegra.ph/file/dea2b84c8e694a5857b78.jpg",
+        "https://telegra.ph/file/daa4b90e0b9eb2b691747.jpg",
+        "https://telegra.ph/file/6463a153dd5614f5a973c.jpg",
+        "https://telegra.ph/file/260cb2980021ef7356149.jpg",
+        "https://telegra.ph/file/e48cb7d40e3159987ce06.jpg",
+        "https://telegra.ph/file/a17cd23ea032ab2d6ba33.jpg",
+        "https://telegra.ph/file/9d4759a3c15f9d62abffb.jpg",
+        "https://telegra.ph/file/c1ad054c0b2a450bd6e93.jpg"
+    ]
+};

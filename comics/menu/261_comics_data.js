@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 261,
+    "title": "[青木幹治] 法的に問題ない姉との関係 (コミックグレープ Vol.100)",
+    "sourceUrl": "https://telegra.ph/青木幹治-法的に問題ない姉との関係-コミックグレープ-Vol100-08-31",
+    "images": [
+        "https://telegra.ph/file/816f8424abe0b22ab4abe.jpg",
+        "https://telegra.ph/file/1ff664b1165a50aa223b2.jpg",
+        "https://telegra.ph/file/deaf9fb567a4fab357f16.jpg",
+        "https://telegra.ph/file/2a5d5ab7f929ecedd1894.jpg",
+        "https://telegra.ph/file/1ae459267c7f6da037690.png",
+        "https://telegra.ph/file/6e497053adf431a7846ea.jpg",
+        "https://telegra.ph/file/08df621a0ccb5401caf26.jpg",
+        "https://telegra.ph/file/e13e703d91450fac2b58d.jpg",
+        "https://telegra.ph/file/4e809d9a3f08a63b0837e.jpg",
+        "https://telegra.ph/file/c028e7219c53a55ce23c9.jpg",
+        "https://telegra.ph/file/6e67a3695e02bc82d7827.jpg",
+        "https://telegra.ph/file/29f01243c862f356b43e1.jpg",
+        "https://telegra.ph/file/90db0fdb9933818117140.jpg",
+        "https://telegra.ph/file/1a842357b62a56cfa9288.jpg",
+        "https://telegra.ph/file/cd19e1b93785fc44146b0.jpg",
+        "https://telegra.ph/file/7c979d413e5f4f95fb6bf.jpg",
+        "https://telegra.ph/file/3349411d27753e054a981.jpg",
+        "https://telegra.ph/file/d3b07684ae61d39e65a75.jpg",
+        "https://telegra.ph/file/d081de932f6e30a10f088.jpg",
+        "https://telegra.ph/file/bd5484dfc99535a5541eb.jpg",
+        "https://telegra.ph/file/cf46dab7a70c90a3bdee7.jpg",
+        "https://telegra.ph/file/61a31f063f197d1e2c386.jpg",
+        "https://telegra.ph/file/d1eab5a532656586ad24a.jpg"
+    ]
+};

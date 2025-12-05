@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1135,
+    "title": "[にぎりうさぎ] 患者のメンタルケア【全話】",
+    "sourceUrl": "https://telegra.ph/にぎりうさぎ-患者のメンタルケア全話-08-31",
+    "images": [
+        "https://telegra.ph/file/ad40cce2ef9b3e769ab1f.jpg",
+        "https://telegra.ph/file/d51d3af0ef635b93bd003.jpg",
+        "https://telegra.ph/file/450ed9e1d3ccce65a8370.jpg",
+        "https://telegra.ph/file/810c543ca389574a8f0de.jpg",
+        "https://telegra.ph/file/feeb97fc757cd536c6462.jpg",
+        "https://telegra.ph/file/2d50189c8157d32a07055.jpg",
+        "https://telegra.ph/file/297d7e577b7804ea393df.jpg",
+        "https://telegra.ph/file/873971e451c2bf54adb34.jpg",
+        "https://telegra.ph/file/404525e4f3af1f1cdad2f.jpg",
+        "https://telegra.ph/file/c0653aa034c3eab3abe08.jpg",
+        "https://telegra.ph/file/b572e70b3c7843c5825a9.jpg",
+        "https://telegra.ph/file/85f75aae8b5564bb75089.jpg",
+        "https://telegra.ph/file/dcd2d79917fbc11f14e96.jpg",
+        "https://telegra.ph/file/ac2fb32bcaba480df9dc6.jpg",
+        "https://telegra.ph/file/2ab6034493bd97b4e7ce3.jpg",
+        "https://telegra.ph/file/35fdc7efdf5850efa6a48.jpg",
+        "https://telegra.ph/file/db388b091110ab8915b45.jpg",
+        "https://telegra.ph/file/4137c6454c9f835ebaa25.jpg",
+        "https://telegra.ph/file/199266377761937f4206c.jpg",
+        "https://telegra.ph/file/ec4324bb8f061a9297609.jpg",
+        "https://telegra.ph/file/2a112020111909e0f8dd4.jpg",
+        "https://telegra.ph/file/713c093b24ea9171d6c9d.jpg",
+        "https://telegra.ph/file/d2063024ce06221c2c8a7.jpg",
+        "https://telegra.ph/file/3c4af1488ef3683899340.jpg",
+        "https://telegra.ph/file/799f29a5b0d68786c293c.jpg",
+        "https://telegra.ph/file/4c2ebcbcae791dffe943c.jpg"
+    ]
+};

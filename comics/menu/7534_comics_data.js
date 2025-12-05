@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7534,
+    "title": "斑声-ムラゴエ-",
+    "sourceUrl": "https://telegra.ph/斑声-ムラゴエ-08-31",
+    "images": [
+        "https://telegra.ph/file/c7826a3a1365418a1caf2.jpg",
+        "https://telegra.ph/file/8674c45bf74bcb27507e4.jpg",
+        "https://telegra.ph/file/e28ede0a3677f1c94ea23.jpg",
+        "https://telegra.ph/file/b6d4f98ec4098283e835c.jpg",
+        "https://telegra.ph/file/8c88c2287bf75e4b0b080.jpg",
+        "https://telegra.ph/file/30946fd0a84e1bf352d54.jpg",
+        "https://telegra.ph/file/b98a0290210b9b41dbb9d.jpg",
+        "https://telegra.ph/file/5a7f3e11023f580cf5f42.jpg",
+        "https://telegra.ph/file/fa8469127797208a4e872.jpg",
+        "https://telegra.ph/file/40f041cdb89fe6b0965ff.jpg",
+        "https://telegra.ph/file/5a0523c9aed2bfe0797fc.jpg",
+        "https://telegra.ph/file/bcd29a979d8a301ae30e3.jpg",
+        "https://telegra.ph/file/3b31f9e9963cba041a425.jpg",
+        "https://telegra.ph/file/34992639c6ea4b172da9f.jpg",
+        "https://telegra.ph/file/d91e4ad924f81dc6cae0e.jpg",
+        "https://telegra.ph/file/83c11d46ada3c36f6fb3a.jpg",
+        "https://telegra.ph/file/79aced25240093afdb5e9.jpg",
+        "https://telegra.ph/file/30f97c64644ffbfe3f9f8.jpg",
+        "https://telegra.ph/file/30971b27da40d202a4dcf.jpg",
+        "https://telegra.ph/file/2c7f47bb01bb54bf3f67e.jpg",
+        "https://telegra.ph/file/f30c9fc5bab76e14686ae.jpg",
+        "https://telegra.ph/file/157ea7ed3daa4de3e26d1.jpg",
+        "https://telegra.ph/file/92830a3c1632488cc56ad.jpg",
+        "https://telegra.ph/file/08af3096b1971a19571af.jpg",
+        "https://telegra.ph/file/5b4e78ed39edd4fb50245.jpg",
+        "https://telegra.ph/file/b3fb787f6183c8cf8e18e.jpg"
+    ]
+};

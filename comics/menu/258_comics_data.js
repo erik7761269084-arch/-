@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 258,
+    "title": "(C99) [ケダモノ屋さん (真っ赤なケダモノ)] Connect with you (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-ケダモノ屋さん-真っ赤なケダモノ-Connect-with-you-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/b6bb9e4b8b70107be33e3.jpg",
+        "https://telegra.ph/file/b5a64d88a256aa20aa11c.jpg",
+        "https://telegra.ph/file/5a6996fccd46724c5d1a4.jpg",
+        "https://telegra.ph/file/3eee05c40de4ea1ea33ff.jpg",
+        "https://telegra.ph/file/5eef0ebe42f580e7e6ea1.jpg",
+        "https://telegra.ph/file/5562e9fd48986c07e5a8e.jpg",
+        "https://telegra.ph/file/f8bebef983e603514bf05.jpg",
+        "https://telegra.ph/file/2e9aaf8e715445a55c433.jpg",
+        "https://telegra.ph/file/46b50ebe9630d2549ce7c.jpg",
+        "https://telegra.ph/file/23ba9c7200dc2981e9fdf.jpg",
+        "https://telegra.ph/file/ad58f13f1e4c22e31ad3f.jpg",
+        "https://telegra.ph/file/973da35a451f93155966c.jpg",
+        "https://telegra.ph/file/22cff22bcf6c4cb116ef9.jpg",
+        "https://telegra.ph/file/bace1a071c1591b2c5ee0.jpg",
+        "https://telegra.ph/file/76892d2e799bef3ddddb5.jpg",
+        "https://telegra.ph/file/6e5cb53ef7ba9f48006af.jpg",
+        "https://telegra.ph/file/63d0a12d14906df6d1c01.jpg",
+        "https://telegra.ph/file/95ce1a4c93d2386f315e9.jpg",
+        "https://telegra.ph/file/b8f7aeddca6029898dafc.jpg",
+        "https://telegra.ph/file/978e232613fb88ead4d69.jpg",
+        "https://telegra.ph/file/ad726aa91eb12ea9ef6cf.jpg",
+        "https://telegra.ph/file/5da4c089e72dda6edc0c1.jpg",
+        "https://telegra.ph/file/f02c88f6a6d9819464443.jpg",
+        "https://telegra.ph/file/ff115346d235fc2ea38d6.jpg",
+        "https://telegra.ph/file/32430bea98fbdb4a634b9.jpg",
+        "https://telegra.ph/file/ad96d5a800d2666fdc3a0.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6591,
+    "title": "Okodukai no Hani de Asobimashou",
+    "sourceUrl": "https://telegra.ph/Okodukai-no-Hani-de-Asobimashou-08-31",
+    "images": [
+        "https://telegra.ph/file/100a016798b5149bccbdf.jpg",
+        "https://telegra.ph/file/fca2779982065cfb0b265.jpg",
+        "https://telegra.ph/file/d6aef7d42b4db70d71fc1.jpg",
+        "https://telegra.ph/file/44d522d9d91f025305af5.jpg",
+        "https://telegra.ph/file/297ac2b96ae7ee21466f0.jpg",
+        "https://telegra.ph/file/97a384f4ae360c26797e1.jpg",
+        "https://telegra.ph/file/ba794ffd60a04d218e42c.jpg",
+        "https://telegra.ph/file/85dbd0b8a61beedef5449.jpg",
+        "https://telegra.ph/file/a1f071a28343af202dd6d.jpg",
+        "https://telegra.ph/file/afb099f84944f036b557c.jpg",
+        "https://telegra.ph/file/fb8a00469ee8fc4720d93.jpg",
+        "https://telegra.ph/file/ca7f571180fd1a5fac1d3.jpg",
+        "https://telegra.ph/file/034efc2fbaefe72e43252.jpg",
+        "https://telegra.ph/file/e64920752b486e12922a2.jpg",
+        "https://telegra.ph/file/5ef3ff80dedf80b4250c6.jpg",
+        "https://telegra.ph/file/402929fcff30a24aa1889.jpg",
+        "https://telegra.ph/file/f6437d0552295d9849bc1.jpg",
+        "https://telegra.ph/file/8f0738212452c6369c97d.jpg",
+        "https://telegra.ph/file/9d512e9c40757129f5e42.jpg",
+        "https://telegra.ph/file/0c15d5f2346a08b617194.jpg",
+        "https://telegra.ph/file/751fb2dd6bb23b17aa93d.jpg",
+        "https://telegra.ph/file/eb79fecef891209817301.jpg",
+        "https://telegra.ph/file/c0b6de991a6cabe71f41b.jpg",
+        "https://telegra.ph/file/a57e047ab27a0462d7039.jpg",
+        "https://telegra.ph/file/b639edab3c2c3e298b513.jpg",
+        "https://telegra.ph/file/54727ceba9e9adac5500d.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1183,
+    "title": "[はんぺん] 八重神子のえっちな絵 (原神)",
+    "sourceUrl": "https://telegra.ph/はんぺん-八重神子のえっちな絵-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/6a08319dcd31e56cdfd56.jpg",
+        "https://telegra.ph/file/be06077c866d7e5c38f24.jpg",
+        "https://telegra.ph/file/40e95552b18aafca9c92f.jpg",
+        "https://telegra.ph/file/efa6c2a797b4b10e0268f.jpg",
+        "https://telegra.ph/file/8fc25fe9ba45da25e3797.jpg",
+        "https://telegra.ph/file/d08e9d3b05d889a9e036d.jpg",
+        "https://telegra.ph/file/ab8f53576c947df3117ca.jpg",
+        "https://telegra.ph/file/04d1362d210c946c8b8f3.jpg",
+        "https://telegra.ph/file/31a7c904e05fb3ef409fc.jpg",
+        "https://telegra.ph/file/c6249435b9ce282c8f35b.jpg",
+        "https://telegra.ph/file/3c31c84c1511e570c6e37.jpg",
+        "https://telegra.ph/file/60664fe531023a3aaa36c.jpg",
+        "https://telegra.ph/file/e953380ab2d86b55d1e28.jpg",
+        "https://telegra.ph/file/77f797c971c009fde4220.jpg",
+        "https://telegra.ph/file/ca80f17e134c28f028c3c.jpg",
+        "https://telegra.ph/file/64524861d3563127ad006.jpg",
+        "https://telegra.ph/file/4b4933db94f584865c1dd.jpg",
+        "https://telegra.ph/file/f6ba0a50a98ec7f6f8744.jpg",
+        "https://telegra.ph/file/9b0829130b93f759893fb.jpg",
+        "https://telegra.ph/file/207b7e8f099731ffe767a.jpg",
+        "https://telegra.ph/file/65addbbadf83e9d5b7fa8.jpg",
+        "https://telegra.ph/file/7fd0a7c93308fb17ee1e2.jpg",
+        "https://telegra.ph/file/2260b60b022f60b017ee0.jpg"
+    ]
+};

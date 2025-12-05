@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5467,
+    "title": "[きょくちょ] 楓と鈴",
+    "sourceUrl": "https://telegra.ph/きょくちょ-楓と鈴-08-31",
+    "images": [
+        "https://telegra.ph/file/3c3dd6dd789c500bdc6d0.jpg",
+        "https://telegra.ph/file/38c088062ee77fde37a43.jpg",
+        "https://telegra.ph/file/681b87cfbf0e42ab00ab8.jpg",
+        "https://telegra.ph/file/792ce7b52f46c03f83a3f.jpg",
+        "https://telegra.ph/file/c52612ba3ff0b018f8eee.jpg",
+        "https://telegra.ph/file/91cab614032f0cde8fb24.jpg",
+        "https://telegra.ph/file/fc252c2db217ab945ec10.jpg",
+        "https://telegra.ph/file/d2b0af3f06b39d1aa6a29.jpg",
+        "https://telegra.ph/file/07efe6f80b0170b16f7ae.jpg",
+        "https://telegra.ph/file/73f7d2ca6c59bb1fb1b1f.jpg",
+        "https://telegra.ph/file/233c758a0af1f0cd8e86a.jpg",
+        "https://telegra.ph/file/175cbd4f68fadca378f9b.jpg",
+        "https://telegra.ph/file/e7fafff130ff48f8f3721.jpg",
+        "https://telegra.ph/file/0ed3a5def0907a4607c27.jpg",
+        "https://telegra.ph/file/8b0feb1c25284fcdadaea.jpg",
+        "https://telegra.ph/file/1f39f6f86ef84f5ca1ef4.jpg",
+        "https://telegra.ph/file/ecbd3fac665819a288ba5.jpg",
+        "https://telegra.ph/file/671422a69adc0841c3b90.jpg",
+        "https://telegra.ph/file/2ce1b3135df096d8cb3fd.jpg",
+        "https://telegra.ph/file/466cbaf3428af6217843a.jpg",
+        "https://telegra.ph/file/5a02054d7c55d7c2ff7c3.jpg",
+        "https://telegra.ph/file/b1e38a58698e7e7337c28.jpg",
+        "https://telegra.ph/file/18316135a5cece5544592.jpg",
+        "https://telegra.ph/file/fe72e601de1397192ba43.jpg",
+        "https://telegra.ph/file/941607287ddbf388a8dac.png"
+    ]
+};

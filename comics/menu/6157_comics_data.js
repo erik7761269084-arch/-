@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6157,
+    "title": "[しんどう] ないしょのゆりねさん",
+    "sourceUrl": "https://telegra.ph/しんどう-ないしょのゆりねさん-08-31",
+    "images": [
+        "https://telegra.ph/file/9c75dc43f7bbbde266b7b.jpg",
+        "https://telegra.ph/file/4b9503b647950bbb7de7c.jpg",
+        "https://telegra.ph/file/b06a5ce2136a2582dd1b9.jpg",
+        "https://telegra.ph/file/bcf30035dc7bcf2da71eb.jpg",
+        "https://telegra.ph/file/e407b0ab95b4ab28dcfbc.jpg",
+        "https://telegra.ph/file/86f86f3f9aa0fa53da38b.jpg",
+        "https://telegra.ph/file/4c3b94b98d6f8ee07598d.jpg",
+        "https://telegra.ph/file/87fcc587f5f68ffb5b2d2.jpg",
+        "https://telegra.ph/file/d50348d1d64c8c54a5d95.jpg",
+        "https://telegra.ph/file/50d6db637f0bc6c778d08.jpg",
+        "https://telegra.ph/file/6c16d379f323f329bd539.jpg",
+        "https://telegra.ph/file/d4a37f96c16d9323a1db3.jpg",
+        "https://telegra.ph/file/843e9eb5e8539fdddb0bd.jpg",
+        "https://telegra.ph/file/93e88eae714cffbf02161.jpg",
+        "https://telegra.ph/file/0e877e829d2f1057ee068.jpg",
+        "https://telegra.ph/file/c57aa59515348e6eae058.jpg",
+        "https://telegra.ph/file/73e985639584e42a9fe80.jpg",
+        "https://telegra.ph/file/e9fe9197539b4f2304dd3.jpg",
+        "https://telegra.ph/file/f83af0968e9405a10701d.jpg",
+        "https://telegra.ph/file/31aafcc3aec03d4051cb0.jpg",
+        "https://telegra.ph/file/6d68983f619ce9fcc2a33.jpg",
+        "https://telegra.ph/file/69000f3e1adf58c428eed.jpg",
+        "https://telegra.ph/file/7bf86972d1b09a3ff26c8.jpg",
+        "https://telegra.ph/file/93d4da46c9879781964ef.jpg"
+    ]
+};

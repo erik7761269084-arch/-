@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 444,
+    "title": "[堀博昭] 真っ白に壊れた先に (COMIC 失楽天 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/堀博昭-真っ白に壊れた先に-COMIC-失楽天-2021年12月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/120bfd17bea040511af37.jpg",
+        "https://telegra.ph/file/1db789ae2bc143ddcdfc5.jpg",
+        "https://telegra.ph/file/eeffcb25f73879f0c64a2.jpg",
+        "https://telegra.ph/file/47b2a0d0bddc66a5bfaf9.jpg",
+        "https://telegra.ph/file/0e668a4faa10489241e52.jpg",
+        "https://telegra.ph/file/f674864a0f3488d2f63b6.jpg",
+        "https://telegra.ph/file/3e45fcde7e16fe86eee22.jpg",
+        "https://telegra.ph/file/71a35f2cdf1b2942c910b.jpg",
+        "https://telegra.ph/file/5daa59e8c16a076d91535.jpg",
+        "https://telegra.ph/file/e7e61294c9dbb8c4b258c.jpg",
+        "https://telegra.ph/file/88d3a26840e83fb7dcbcc.jpg",
+        "https://telegra.ph/file/46f6ea45003f44fce21e3.jpg",
+        "https://telegra.ph/file/dd1d5a3164149d23c5e3f.jpg",
+        "https://telegra.ph/file/69106f3de1e73cc40635c.jpg",
+        "https://telegra.ph/file/818f9681ea41adeeb0f0f.jpg",
+        "https://telegra.ph/file/dde92b01f8ecef1cb0bbd.jpg",
+        "https://telegra.ph/file/fc166eb78d1395d300364.jpg",
+        "https://telegra.ph/file/67da747890ec991bb3f2f.jpg",
+        "https://telegra.ph/file/24086dd41d72a391f2cc7.jpg",
+        "https://telegra.ph/file/dab13286647c273eebfcb.jpg",
+        "https://telegra.ph/file/7398f2091767225af0af9.jpg",
+        "https://telegra.ph/file/6f3677069de19fa1327bd.jpg",
+        "https://telegra.ph/file/61a0951733ab2d14c7ac9.jpg",
+        "https://telegra.ph/file/cee697c64a9cc7ad81537.jpg"
+    ]
+};

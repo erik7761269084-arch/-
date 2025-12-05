@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 723,
+    "title": "[甘露アメ] 愛し愛されおさなづま(仮) 後編 (COMIC LO 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/甘露アメ-愛し愛されおさなづま仮-後編-COMIC-LO-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7faf51f1bf938cd35d1ab.jpg",
+        "https://telegra.ph/file/db8302bee4cdadc38378c.jpg",
+        "https://telegra.ph/file/3939cf57c44e20bd8cc41.jpg",
+        "https://telegra.ph/file/920f643c39d7d93eae5b7.jpg",
+        "https://telegra.ph/file/0af99f537e66057258bb9.jpg",
+        "https://telegra.ph/file/00b38fc46f7fa769e6757.jpg",
+        "https://telegra.ph/file/19f15cab345c47594f34f.jpg",
+        "https://telegra.ph/file/852f671750a659e8ecb02.jpg",
+        "https://telegra.ph/file/089d3fa19da7f3dbeed81.jpg",
+        "https://telegra.ph/file/0e725402f6481fc2048a8.jpg",
+        "https://telegra.ph/file/6259e1e69e99000ca934e.jpg",
+        "https://telegra.ph/file/0d1070fc0516b6c0aad20.jpg",
+        "https://telegra.ph/file/3a74bb5eb919d04867464.jpg",
+        "https://telegra.ph/file/e3a875a727a4070597352.jpg",
+        "https://telegra.ph/file/22d45ce1c0ae333eb2c5c.jpg",
+        "https://telegra.ph/file/1a4d411859e1ccd2be459.jpg",
+        "https://telegra.ph/file/e1389fb45c609b2451d4a.jpg",
+        "https://telegra.ph/file/199531bac6ad5095a935b.jpg",
+        "https://telegra.ph/file/411b20c45da289e3c67a0.jpg",
+        "https://telegra.ph/file/eb95fb3269ecd42cf124b.jpg",
+        "https://telegra.ph/file/ea6ebef760709e6f485da.jpg",
+        "https://telegra.ph/file/0a0a2ab944becd77723b6.jpg",
+        "https://telegra.ph/file/1a15b9a9db42e9ee36e32.jpg",
+        "https://telegra.ph/file/451ca237e11539191afd1.jpg",
+        "https://telegra.ph/file/c67953a11e74ff1c30398.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3180,
+    "title": "(COMIC1☆16) [remora field (remora)] あまあまあまつかぜ (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/COMIC116-remora-field-remora-あまあまあまつかぜ-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/7d3b84f2dcfd7689f4aa7.jpg",
+        "https://telegra.ph/file/c1c85a322ddbc1f946ccd.jpg",
+        "https://telegra.ph/file/023970625b67b0f9a17ed.jpg",
+        "https://telegra.ph/file/39fb39955a6b0dbd50052.jpg",
+        "https://telegra.ph/file/e095898b6f2bf92f5cc86.jpg",
+        "https://telegra.ph/file/cb95932b8ea4362c7cbdc.jpg",
+        "https://telegra.ph/file/fa8773c2ebe531011e417.jpg",
+        "https://telegra.ph/file/05fa2e0705bd088e70576.jpg",
+        "https://telegra.ph/file/9c41dea4c2139332b5f33.jpg",
+        "https://telegra.ph/file/d2c59f5eb22f8a4f732bb.jpg",
+        "https://telegra.ph/file/f854472f03549729e4b1b.jpg",
+        "https://telegra.ph/file/fb090539709b537abdc18.jpg",
+        "https://telegra.ph/file/769a2d3cbe0e59d502403.jpg",
+        "https://telegra.ph/file/b69e467e78b66f2ee2df3.jpg",
+        "https://telegra.ph/file/14c890fe88acfabe87fe6.jpg",
+        "https://telegra.ph/file/896b79dbc89b572ce8d89.jpg",
+        "https://telegra.ph/file/0db9eada889e49ae401e4.jpg",
+        "https://telegra.ph/file/ebd7ab1a779a6664a5330.jpg",
+        "https://telegra.ph/file/7bc0aa376f8c867f64479.jpg",
+        "https://telegra.ph/file/bb5bb14c8cd10696952f9.jpg",
+        "https://telegra.ph/file/a4a381ace810eb23e5d4f.jpg",
+        "https://telegra.ph/file/751c597c5dd25d850b98b.jpg",
+        "https://telegra.ph/file/5455437fac7b0e9d7bfee.jpg",
+        "https://telegra.ph/file/e326a008bd8b09e11b022.jpg"
+    ]
+};

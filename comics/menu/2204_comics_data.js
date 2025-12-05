@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2204,
+    "title": "[イゲドアハ] ちょろいもんだぜ! (COMIC 快楽天ビースト 2021年6月号)",
+    "sourceUrl": "https://telegra.ph/イゲドアハ-ちょろいもんだぜ-COMIC-快楽天ビースト-2021年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/203cfadaf1415ff1893c7.jpg",
+        "https://telegra.ph/file/6ba458e3f636287b05875.jpg",
+        "https://telegra.ph/file/e8016b44e5c16cc322334.jpg",
+        "https://telegra.ph/file/c23b029366feec703a1cd.jpg",
+        "https://telegra.ph/file/7c36b2c6958594766f4a8.jpg",
+        "https://telegra.ph/file/3d5722ef543d2bccdb525.jpg",
+        "https://telegra.ph/file/6146d5b34d62bbd0a4ea2.jpg",
+        "https://telegra.ph/file/1b080f5cf15eb5093b8c6.jpg",
+        "https://telegra.ph/file/e093a05e40ed09ed49e62.jpg",
+        "https://telegra.ph/file/a10bd408c8cbd16925639.jpg",
+        "https://telegra.ph/file/0b3a8744f445a5d4089a8.jpg",
+        "https://telegra.ph/file/f55f672fbe907e0ac2350.jpg",
+        "https://telegra.ph/file/233a1678013f02623882e.jpg",
+        "https://telegra.ph/file/e5f902b714982c973dfaa.jpg",
+        "https://telegra.ph/file/129aab7bb4f45c785455c.jpg",
+        "https://telegra.ph/file/421f3f39d6ac4e0abac13.jpg",
+        "https://telegra.ph/file/2fc95fe560b26f104fa46.jpg",
+        "https://telegra.ph/file/2fea2a4c8bb8be7eb57e9.jpg",
+        "https://telegra.ph/file/72ee57c518ea175b37c75.jpg",
+        "https://telegra.ph/file/fd77d2dabd456416f53ba.jpg",
+        "https://telegra.ph/file/c7da771cc15dfa745a83a.jpg",
+        "https://telegra.ph/file/4757027384fddb257f91f.jpg",
+        "https://telegra.ph/file/cc077f3350c1d9bf92d50.jpg",
+        "https://telegra.ph/file/ae4cb246d5963cb1db4cc.jpg"
+    ]
+};

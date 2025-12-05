@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2924,
+    "title": "[花札さくらの] みのりちゃん家 その2 (COMIC BAVEL 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/花札さくらの-みのりちゃん家-その2-COMIC-BAVEL-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/558006aadc7764a0777c1.jpg",
+        "https://telegra.ph/file/9821a7e8fa9bb5827d6af.jpg",
+        "https://telegra.ph/file/729eec76f96e6bed66b3e.jpg",
+        "https://telegra.ph/file/864b3cba2948cb509963c.jpg",
+        "https://telegra.ph/file/1e7675eb8f2100927f51d.jpg",
+        "https://telegra.ph/file/400cac2a661b3109042f5.jpg",
+        "https://telegra.ph/file/cffb9e49a3084f198c8b7.jpg",
+        "https://telegra.ph/file/4553ab08313551cd06a9a.jpg",
+        "https://telegra.ph/file/99972690779f1aa045886.jpg",
+        "https://telegra.ph/file/4ebb4673ba023f70e1554.jpg",
+        "https://telegra.ph/file/0201e26fbb5cf97e9952c.jpg",
+        "https://telegra.ph/file/4854a10605ad6ce005983.jpg",
+        "https://telegra.ph/file/c05914a83602b58230647.jpg",
+        "https://telegra.ph/file/9c3fb036341c989e62ae4.jpg",
+        "https://telegra.ph/file/5acaf8e4adb2fdd8cf8e4.jpg",
+        "https://telegra.ph/file/31e0a3f452907d7b55d74.jpg",
+        "https://telegra.ph/file/3e6211b2e4cb62d2d385f.jpg",
+        "https://telegra.ph/file/1fb956d69a3b733fc0a4a.jpg",
+        "https://telegra.ph/file/136a629c351a61c48ecd3.jpg",
+        "https://telegra.ph/file/7feefd7fa23c0f121c285.jpg",
+        "https://telegra.ph/file/3fb02832bc0645eb5787d.jpg",
+        "https://telegra.ph/file/c106182c6523573d0139a.jpg",
+        "https://telegra.ph/file/3279cb84d6a59dfe1a6cf.jpg",
+        "https://telegra.ph/file/7211df0a759723a440279.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

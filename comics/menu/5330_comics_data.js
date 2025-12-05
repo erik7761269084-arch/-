@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5330,
+    "title": "今日も西片君は高木さんに見透かされてる 7 (からかい上手の高木さん) (C94)",
+    "sourceUrl": "https://telegra.ph/今日も西片君は高木さんに見透かされてる-7-からかい上手の高木さん-C94-08-31-4",
+    "images": [
+        "https://telegra.ph/file/72b5e3068de200971c52a.jpg",
+        "https://telegra.ph/file/44ba37f38c27b20ff3314.jpg",
+        "https://telegra.ph/file/28f24f9510ca819a90a5e.jpg",
+        "https://telegra.ph/file/70e66754be897291663be.jpg",
+        "https://telegra.ph/file/6a3b9c4550266fad1a529.jpg",
+        "https://telegra.ph/file/db625dfc916d9a0157f8a.jpg",
+        "https://telegra.ph/file/a9e5bee35632013921910.jpg",
+        "https://telegra.ph/file/816afb5c3fcb3731497f8.jpg",
+        "https://telegra.ph/file/645256ede5f827a2ab610.jpg",
+        "https://telegra.ph/file/b0eac5904e96fb6c4de78.jpg",
+        "https://telegra.ph/file/2464fbb927ba381ab74b4.jpg",
+        "https://telegra.ph/file/3200432782d55ac486267.jpg",
+        "https://telegra.ph/file/ea2b4885e947770c64c13.jpg",
+        "https://telegra.ph/file/c16d7e4b856312d3e5548.jpg",
+        "https://telegra.ph/file/adc1d24c6a0650914aa6d.jpg",
+        "https://telegra.ph/file/e1656390114359c42b126.jpg",
+        "https://telegra.ph/file/8f252f9001a933a6023cc.jpg",
+        "https://telegra.ph/file/ca9961f13ebec3da83f57.jpg",
+        "https://telegra.ph/file/8cf261e948c592a5fab3f.jpg",
+        "https://telegra.ph/file/62afc00f236730089402d.jpg",
+        "https://telegra.ph/file/8071e2f75dce7b7a61e3c.jpg",
+        "https://telegra.ph/file/aa3e7c2d811391138c678.jpg",
+        "https://telegra.ph/file/b8dcfc493ffe458738ae4.jpg"
+    ]
+};

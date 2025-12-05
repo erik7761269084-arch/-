@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1719,
+    "title": "(COMIC1☆13) [ガガガ本舗 (ガー)] ジュリちゃんといちゃラブする本 (ストリートファイター)",
+    "sourceUrl": "https://telegra.ph/COMIC113-ガガガ本舗-ガー-ジュリちゃんといちゃラブする本-ストリートファイター-08-31",
+    "images": [
+        "https://telegra.ph/file/b4d320259261a62f7d4bf.jpg",
+        "https://telegra.ph/file/fdfca7705a0092a6426a3.png",
+        "https://telegra.ph/file/73f51dafce3e270b9371d.png",
+        "https://telegra.ph/file/f5592154b3565440f365f.jpg",
+        "https://telegra.ph/file/b800dc825eaec75843270.jpg",
+        "https://telegra.ph/file/b279f0bfd12cc79bfb8c3.jpg",
+        "https://telegra.ph/file/9905a4109dd58d5e19411.jpg",
+        "https://telegra.ph/file/8fecd891fca400281e9bf.jpg",
+        "https://telegra.ph/file/68d4e57d709fe2d1dc2a0.jpg",
+        "https://telegra.ph/file/d5f94510072e7b2820995.jpg",
+        "https://telegra.ph/file/47271420e6852755a34f4.jpg",
+        "https://telegra.ph/file/2f8c5c49740096621f9a8.jpg",
+        "https://telegra.ph/file/65ee2ab29053c298d3c2a.jpg",
+        "https://telegra.ph/file/af95db068b2aa208b0dce.jpg",
+        "https://telegra.ph/file/e3c5b318939dd032475cc.jpg",
+        "https://telegra.ph/file/b841d57d0541130d8f379.jpg",
+        "https://telegra.ph/file/9847fbb814658e1cff0b9.jpg",
+        "https://telegra.ph/file/559ec29c2139abe45c4dc.jpg",
+        "https://telegra.ph/file/dfb13b2f7437626c5d7cb.jpg",
+        "https://telegra.ph/file/dd537c47df19b6cba406b.jpg",
+        "https://telegra.ph/file/40228b7912cf7200bb97c.jpg",
+        "https://telegra.ph/file/be57996cdad84c3d09e55.png",
+        "https://telegra.ph/file/9438294957c923bdaa6e8.png",
+        "https://telegra.ph/file/a911324c214595eeb23fc.png",
+        "https://telegra.ph/file/22559ab432c2c8ef488e3.png"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3534,
+    "title": "[陸の孤島亭 (しゃよー)] マスターは私がいなきゃだめなんだから (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/陸の孤島亭-しゃよー-マスターは私がいなきゃだめなんだから-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/b9a7f40088256a10b9695.jpg",
+        "https://telegra.ph/file/11d61fcca3fa757a9371d.jpg",
+        "https://telegra.ph/file/831f512ddb42067d2f1b5.jpg",
+        "https://telegra.ph/file/052714c554452f2385607.jpg",
+        "https://telegra.ph/file/2f61494bd2763b15394b5.jpg",
+        "https://telegra.ph/file/bb8a8270cb2837518ecc4.jpg",
+        "https://telegra.ph/file/37974435b5e87b409bd09.jpg",
+        "https://telegra.ph/file/d4cacb3c8db2a0a861b68.jpg",
+        "https://telegra.ph/file/86c9f2e7d1aaa7a6db646.jpg",
+        "https://telegra.ph/file/10f12aa81d2025ce5b0f7.jpg",
+        "https://telegra.ph/file/62eb05a928087bbfc1621.jpg",
+        "https://telegra.ph/file/4976358e9ff5d4cca8e0f.jpg",
+        "https://telegra.ph/file/df24baf395667f75466b2.jpg",
+        "https://telegra.ph/file/bb4198fa49d9739021335.jpg",
+        "https://telegra.ph/file/bf5ea560ea306b8fc7a32.jpg",
+        "https://telegra.ph/file/f025ab401c9def4417f54.jpg",
+        "https://telegra.ph/file/1c884d9e58d0ca75323be.jpg",
+        "https://telegra.ph/file/966c693c6772c9103d0fd.jpg",
+        "https://telegra.ph/file/89b32e0a6db60b86941f3.jpg",
+        "https://telegra.ph/file/266f39c2cf8169bb0aa44.jpg",
+        "https://telegra.ph/file/7f844f9703525184a6e88.jpg",
+        "https://telegra.ph/file/bd581cfd7605b2856e419.jpg",
+        "https://telegra.ph/file/d6c0dd43c17f00f4eacb5.jpg",
+        "https://telegra.ph/file/93b6d428118be5f009ad0.jpg",
+        "https://telegra.ph/file/d1cb33b3dead6c79dd0d7.jpg"
+    ]
+};

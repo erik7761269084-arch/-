@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7532,
+    "title": "マルミのナイショ♥",
+    "sourceUrl": "https://telegra.ph/マルミのナイショ-08-31",
+    "images": [
+        "https://telegra.ph/file/995166304424b03e3a3bc.jpg",
+        "https://telegra.ph/file/ba3643217cfb847c64321.jpg",
+        "https://telegra.ph/file/a57a48624961695a291e9.jpg",
+        "https://telegra.ph/file/61582112050a79a6679b2.jpg",
+        "https://telegra.ph/file/a67952016e81a9811f93a.jpg",
+        "https://telegra.ph/file/a40bda0acb62205a0adb6.jpg",
+        "https://telegra.ph/file/6dcb3c557e5c6c718e0b9.jpg",
+        "https://telegra.ph/file/e779bc88b4a853cb6772d.jpg",
+        "https://telegra.ph/file/4a610330f47db758f21b2.jpg",
+        "https://telegra.ph/file/f558fddcda2bda200d9e5.jpg",
+        "https://telegra.ph/file/5d1819fb5b0f3d1917f76.jpg",
+        "https://telegra.ph/file/4f84cb051b88a54e4ae30.jpg",
+        "https://telegra.ph/file/f33491ed04eaf9218831d.jpg",
+        "https://telegra.ph/file/2a18cae43b341374dbc61.jpg",
+        "https://telegra.ph/file/c220dc401d3c03bc9015a.jpg",
+        "https://telegra.ph/file/0bc7b8ba9de4634f5e825.jpg",
+        "https://telegra.ph/file/b3b8277b6a77699dbda01.jpg",
+        "https://telegra.ph/file/2fd96394505ef2e226127.jpg",
+        "https://telegra.ph/file/24877136987ce8191653d.jpg",
+        "https://telegra.ph/file/365c3a355a6bb0dcfabd3.jpg",
+        "https://telegra.ph/file/022049c4cd29fb974019d.jpg",
+        "https://telegra.ph/file/998e2e926f12b1be84b5f.jpg",
+        "https://telegra.ph/file/e5773378eefe733841035.jpg",
+        "https://telegra.ph/file/5611ba8511ff2afffcc15.jpg"
+    ]
+};

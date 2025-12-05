@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3138,
+    "title": "(C92) [らふれしあ (キャンベル議長)] 紅魔館の言いなりメイド (東方Project)",
+    "sourceUrl": "https://telegra.ph/C92-らふれしあ-キャンベル議長-紅魔館の言いなりメイド-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/7040ff55fe3a93679a044.jpg",
+        "https://telegra.ph/file/ea19a1b433f64f8c49b2d.jpg",
+        "https://telegra.ph/file/49e0e133be0d60ef7cb35.jpg",
+        "https://telegra.ph/file/f6fc83f0ea80fb4d55b7d.jpg",
+        "https://telegra.ph/file/8dedd4fd3bbcf61156ab6.jpg",
+        "https://telegra.ph/file/8d067b41e8c1683b472ce.jpg",
+        "https://telegra.ph/file/1e7f0bad7f8b98e04c621.jpg",
+        "https://telegra.ph/file/e0129115b56c6e65d608c.jpg",
+        "https://telegra.ph/file/2a439a8b5ebddeda6f9ff.jpg",
+        "https://telegra.ph/file/86fd6de4edf443714c464.jpg",
+        "https://telegra.ph/file/3f2876dad03f6db9069db.jpg",
+        "https://telegra.ph/file/35250e5b054e509034fa9.jpg",
+        "https://telegra.ph/file/b937a5f03e5393a081240.jpg",
+        "https://telegra.ph/file/1b38b658a8a1b6ae6bdbb.jpg",
+        "https://telegra.ph/file/3b20031c139308aded954.jpg",
+        "https://telegra.ph/file/8be4a69f1ac2242ee8aa9.jpg",
+        "https://telegra.ph/file/691cedf3300bf26a38489.jpg",
+        "https://telegra.ph/file/d3e3003a248607fb28658.jpg",
+        "https://telegra.ph/file/9b1df46379e98eb6d4e80.jpg",
+        "https://telegra.ph/file/45a2d54b71f8d037408f9.jpg",
+        "https://telegra.ph/file/e820707dd0b3cdd261e55.jpg",
+        "https://telegra.ph/file/334eec6510fe7a0ddf155.jpg",
+        "https://telegra.ph/file/632a4ae6b62cb87416f54.jpg",
+        "https://telegra.ph/file/67690dc1ee268213fada8.jpg",
+        "https://telegra.ph/file/caec61f33e29f1e2d439b.jpg"
+    ]
+};

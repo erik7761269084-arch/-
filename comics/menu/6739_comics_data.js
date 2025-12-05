@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6739,
+    "title": "マイクローンマガジン",
+    "sourceUrl": "https://telegra.ph/マイクローンマガジン-08-31",
+    "images": [
+        "https://telegra.ph/file/71ee9dc1a16685b924214.jpg",
+        "https://telegra.ph/file/d2d3cc65f6a4b37b1d934.jpg",
+        "https://telegra.ph/file/71d9367a5a88eb57191ea.jpg",
+        "https://telegra.ph/file/b353fe6debe61c79495a2.jpg",
+        "https://telegra.ph/file/e977297a7ec5d2265770e.jpg",
+        "https://telegra.ph/file/c29452e7dd489ed316e6c.jpg",
+        "https://telegra.ph/file/7e73b5db029338c2aefce.jpg",
+        "https://telegra.ph/file/b449faeea554116709137.jpg",
+        "https://telegra.ph/file/5479599fc45dc97aac6aa.jpg",
+        "https://telegra.ph/file/809044fbbd0541acd607c.jpg",
+        "https://telegra.ph/file/5c8024823e0c36aa4b08a.jpg",
+        "https://telegra.ph/file/bbd0755c107bd2684f591.jpg",
+        "https://telegra.ph/file/dbdd3a2e8d99e917861e1.jpg",
+        "https://telegra.ph/file/a8dda4d9019b3439b3675.jpg",
+        "https://telegra.ph/file/73399fa37998430871e7b.jpg",
+        "https://telegra.ph/file/6e44b859f190dd129e7d5.jpg",
+        "https://telegra.ph/file/987f4603fe50a216aab13.jpg",
+        "https://telegra.ph/file/ee272f5b2898cd5b7a7a2.jpg",
+        "https://telegra.ph/file/a592801fca04c31bb260c.jpg",
+        "https://telegra.ph/file/80226dcb0ba738ea697d2.jpg",
+        "https://telegra.ph/file/a55e89e29acce806216d8.jpg",
+        "https://telegra.ph/file/f0667edb4bc0e17ad0138.jpg",
+        "https://telegra.ph/file/0ae2ac5d2e3bcfea5e445.jpg",
+        "https://telegra.ph/file/8be26d3f01a88e9230c24.jpg",
+        "https://telegra.ph/file/21f27491b86da2d800c5a.jpg",
+        "https://telegra.ph/file/8aa92c1e48ecbc13fa5a7.jpg"
+    ]
+};

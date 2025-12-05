@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6105,
+    "title": "[大嘘] オシオキあんよ",
+    "sourceUrl": "https://telegra.ph/大嘘-オシオキあんよ-08-31",
+    "images": [
+        "https://telegra.ph/file/1edb89149a3c6ea76761c.jpg",
+        "https://telegra.ph/file/c1994a9e0171f53bef0fc.jpg",
+        "https://telegra.ph/file/3854e6b262fe8717ebc4c.jpg",
+        "https://telegra.ph/file/68b0ec2140478461e9d36.jpg",
+        "https://telegra.ph/file/95beced4c525ba16a42f1.jpg",
+        "https://telegra.ph/file/cb10004dfd57b96f9b8c5.jpg",
+        "https://telegra.ph/file/567defb0f1ea8cd3dd7c7.jpg",
+        "https://telegra.ph/file/a5e76ceb637cabf274909.jpg",
+        "https://telegra.ph/file/2eec80f780e9b9c87be86.jpg",
+        "https://telegra.ph/file/2e191a8f49b8891282db0.jpg",
+        "https://telegra.ph/file/7f288499d6200f4b2b216.jpg",
+        "https://telegra.ph/file/e45e3ee978d169835fc7a.jpg",
+        "https://telegra.ph/file/8f531a8048e054993f70f.jpg",
+        "https://telegra.ph/file/128c02c5ea718eb8b34fa.jpg",
+        "https://telegra.ph/file/5132d9362c0e6ff9c7b0e.jpg",
+        "https://telegra.ph/file/d6cb5d6c669e4b6a956ec.jpg",
+        "https://telegra.ph/file/7711b55030e5d9b259b50.jpg",
+        "https://telegra.ph/file/c827fcbe7bf0a26eb118b.jpg",
+        "https://telegra.ph/file/132a0b50d775d26e92c2c.jpg",
+        "https://telegra.ph/file/48850bfc7e20ba51e14b8.jpg",
+        "https://telegra.ph/file/ed4a2a247b068b9951d1c.jpg",
+        "https://telegra.ph/file/10d5db299af0f1b4ac5ea.jpg",
+        "https://telegra.ph/file/be60311672fc22d856813.jpg",
+        "https://telegra.ph/file/fbcf678b31a59944e1d3a.jpg"
+    ]
+};

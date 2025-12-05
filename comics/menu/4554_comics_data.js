@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4554,
+    "title": "[グラナダの空 (十はやみ)] かてーないイメクラ",
+    "sourceUrl": "https://telegra.ph/グラナダの空-十はやみ-かてーないイメクラ-08-31",
+    "images": [
+        "https://telegra.ph/file/17ce24f1049ee70dc279f.jpg",
+        "https://telegra.ph/file/5e41a2d24d51433154b24.jpg",
+        "https://telegra.ph/file/8644c85b8d88dbefb22da.jpg",
+        "https://telegra.ph/file/d7f8857edc5d9969dbca7.jpg",
+        "https://telegra.ph/file/7729370a4ef848e23d76d.jpg",
+        "https://telegra.ph/file/00e692616f7843bfb7d77.jpg",
+        "https://telegra.ph/file/cdbc2df282a73015a36e2.jpg",
+        "https://telegra.ph/file/0bbfd9c4c42442cd2ef05.jpg",
+        "https://telegra.ph/file/8f50b6596787a10fe5847.jpg",
+        "https://telegra.ph/file/8e372e3b75f0bdb4e9f64.jpg",
+        "https://telegra.ph/file/38caf0290f588f503c27c.jpg",
+        "https://telegra.ph/file/a71c72d10726e2009de4f.jpg",
+        "https://telegra.ph/file/189c84650e8d68aa64b1f.jpg",
+        "https://telegra.ph/file/b5ff5a989e6aa3a1577b8.jpg",
+        "https://telegra.ph/file/b96e7e507669b19d7e0d0.jpg",
+        "https://telegra.ph/file/79731b92c3fa3f6c21f67.jpg",
+        "https://telegra.ph/file/351c2c1c57a218b078f58.jpg",
+        "https://telegra.ph/file/b56532d9bfa53c9e1d31c.jpg",
+        "https://telegra.ph/file/99b5986b8ff61e6fe67b8.jpg",
+        "https://telegra.ph/file/98e20385483019a5b8973.jpg",
+        "https://telegra.ph/file/9a9e1862b2fd62b9dcdc5.jpg",
+        "https://telegra.ph/file/bda7b5b0bf459daabb49d.jpg",
+        "https://telegra.ph/file/8c66c56c168394fcbce90.jpg",
+        "https://telegra.ph/file/83a0fd4958f4c6c645b32.jpg",
+        "https://telegra.ph/file/83a8a353aa40e84397b34.jpg",
+        "https://telegra.ph/file/84ca17d9864ff15f737e4.jpg"
+    ]
+};

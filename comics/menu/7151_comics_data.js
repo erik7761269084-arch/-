@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7151,
+    "title": "明日、世界が終わるなら",
+    "sourceUrl": "https://telegra.ph/明日世界が終わるなら-08-31",
+    "images": [
+        "https://telegra.ph/file/d8502bd4880854752597e.jpg",
+        "https://telegra.ph/file/0728ae7861c53f7beedf7.jpg",
+        "https://telegra.ph/file/05607983d584b5dec0e19.jpg",
+        "https://telegra.ph/file/dc2c542b5f473fc6c18a1.jpg",
+        "https://telegra.ph/file/6a979c523a9dd6a0e8fbd.jpg",
+        "https://telegra.ph/file/b6139b76194927ff22f84.jpg",
+        "https://telegra.ph/file/7eaf8e34b7d0d27d4f602.jpg",
+        "https://telegra.ph/file/49a4e7b7a47e81164022a.jpg",
+        "https://telegra.ph/file/4ebee44648285b8f50cf9.jpg",
+        "https://telegra.ph/file/b81a03b2f0d781c7a01e8.jpg",
+        "https://telegra.ph/file/e2812a44e65545b6242fb.jpg",
+        "https://telegra.ph/file/ba0ea15c3e007f4484256.jpg",
+        "https://telegra.ph/file/db82f1a79eb1058da7366.jpg",
+        "https://telegra.ph/file/0fc4561579683a190cac5.jpg",
+        "https://telegra.ph/file/7ac1fbfa30207408b1317.jpg",
+        "https://telegra.ph/file/5a6a6ee3eb4d743e7ae1a.jpg",
+        "https://telegra.ph/file/49eaa6e8f1eb481b466ac.jpg",
+        "https://telegra.ph/file/463ac132f9da21c1d76d3.jpg",
+        "https://telegra.ph/file/1d592baf058f5fceff22a.jpg",
+        "https://telegra.ph/file/532677cd26372a8ea742d.jpg",
+        "https://telegra.ph/file/eac86667f8de6c4186257.jpg",
+        "https://telegra.ph/file/cbda8ff72fc22a3988f18.jpg",
+        "https://telegra.ph/file/834d3222b8e378e7ee4a3.jpg",
+        "https://telegra.ph/file/bc95a5cb344ebf069e961.jpg",
+        "https://telegra.ph/file/e0a9383c098410b04d939.jpg",
+        "https://telegra.ph/file/5c26eada2d0b1fde7e6ac.jpg"
+    ]
+};

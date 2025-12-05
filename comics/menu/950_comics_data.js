@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 950,
+    "title": "[原茂之] エクストラバージンママ (Web コミックトウテツ Vol.46)",
+    "sourceUrl": "https://telegra.ph/原茂之-エクストラバージンママ-Web-コミックトウテツ-Vol46-08-31",
+    "images": [
+        "https://telegra.ph/file/3c0dbd56d0f3ba05d169a.jpg",
+        "https://telegra.ph/file/9f6844960641d2e46379f.jpg",
+        "https://telegra.ph/file/fe580dc9be84b78a99e54.jpg",
+        "https://telegra.ph/file/1be011521a74e13955563.jpg",
+        "https://telegra.ph/file/9403d3af3be117d807404.jpg",
+        "https://telegra.ph/file/7547ff760b3d0eaf4a1e3.jpg",
+        "https://telegra.ph/file/d2c8c447244a01e0dbf99.jpg",
+        "https://telegra.ph/file/17f5045b26508b6dafad2.jpg",
+        "https://telegra.ph/file/87a74713e7b3d87664251.jpg",
+        "https://telegra.ph/file/1f17d450c47087812f9f2.jpg",
+        "https://telegra.ph/file/82c18e1da8bd593465c8f.jpg",
+        "https://telegra.ph/file/e74f43cf3cf1274443e27.jpg",
+        "https://telegra.ph/file/dcc4df8c36dad0dd73554.jpg",
+        "https://telegra.ph/file/6cd178fda3d6452967b77.jpg",
+        "https://telegra.ph/file/8dda92f8893dae6f31f7b.jpg",
+        "https://telegra.ph/file/fe3cecb93fd85077f613c.jpg",
+        "https://telegra.ph/file/5b7b5289ad89c7fbe8fd2.jpg",
+        "https://telegra.ph/file/acd59baa4d3c5d7c1134d.jpg",
+        "https://telegra.ph/file/216dd3ad35a7c80770420.jpg",
+        "https://telegra.ph/file/568a9aded3093e30085e3.jpg",
+        "https://telegra.ph/file/ec757cb97a140484b8ca3.jpg",
+        "https://telegra.ph/file/e4c4eb33e74df4acddf3b.jpg",
+        "https://telegra.ph/file/08d91131b1e636e546f3b.jpg",
+        "https://telegra.ph/file/0cc665383d730565df2e6.jpg"
+    ]
+};

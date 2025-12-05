@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4490,
+    "title": "[史本] File No.1 Amiya (明日方舟)  [見本]",
+    "sourceUrl": "https://telegra.ph/史本-File-No1-Amiya-明日方舟-見本-08-31",
+    "images": [
+        "https://telegra.ph/file/63f222236a0c712c3b530.jpg",
+        "https://telegra.ph/file/a5361ca512842db605955.jpg",
+        "https://telegra.ph/file/2337749e62f4c431c5048.jpg",
+        "https://telegra.ph/file/ca53936ca39451561a0ad.jpg",
+        "https://telegra.ph/file/2d7c9b9e88dd1e5ff8ba9.jpg",
+        "https://telegra.ph/file/432bd4adb5cd861c6afd7.jpg",
+        "https://telegra.ph/file/2bcead9d70bc041a836fb.jpg",
+        "https://telegra.ph/file/a0e9c6a99417a1ad69cc2.jpg",
+        "https://telegra.ph/file/6c56b9a4078e77dc4b515.jpg",
+        "https://telegra.ph/file/ed1344841e9617d0aa53f.jpg",
+        "https://telegra.ph/file/a1c751567c875283464db.jpg",
+        "https://telegra.ph/file/93d14f2cdea0e29429f7f.jpg",
+        "https://telegra.ph/file/cabc2800f604dd5511c92.jpg",
+        "https://telegra.ph/file/cb3b04fbe7e2a736b87ca.jpg",
+        "https://telegra.ph/file/3cfbcaad364390c177a01.jpg",
+        "https://telegra.ph/file/725f4bbaa488a8f99627e.jpg",
+        "https://telegra.ph/file/bf4ed996adf47c4d18abf.jpg",
+        "https://telegra.ph/file/a385c30395a39f2bb7fec.jpg",
+        "https://telegra.ph/file/e10a97807a02a13ef71ee.jpg",
+        "https://telegra.ph/file/45854d8995fcef8d0e5f1.jpg",
+        "https://telegra.ph/file/dd6281afd3f1639e5414f.jpg",
+        "https://telegra.ph/file/390827da70c9a3db98302.jpg",
+        "https://telegra.ph/file/bb8d0a95dfd897c6c7a5f.jpg",
+        "https://telegra.ph/file/021c5be3389a3a4d2e771.jpg",
+        "https://telegra.ph/file/bfda37940febb3bc8f10d.jpg"
+    ]
+};

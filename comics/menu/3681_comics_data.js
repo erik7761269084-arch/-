@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3681,
+    "title": "[牛乳茶屋 (牛乳左衛門)]  紫式部 vs クソガキ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/牛乳茶屋-牛乳左衛門-紫式部-vs-クソガキ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/45c7872e4ca4be7376410.jpg",
+        "https://telegra.ph/file/c70b7619f07017c41d121.jpg",
+        "https://telegra.ph/file/9940014d93b36bd641f99.jpg",
+        "https://telegra.ph/file/8677ed691bbbe890ed8f4.jpg",
+        "https://telegra.ph/file/2fc0df8037234e03032aa.jpg",
+        "https://telegra.ph/file/0128848eaf639af9e1ab0.jpg",
+        "https://telegra.ph/file/3839c6a3203990e5b7ce6.jpg",
+        "https://telegra.ph/file/62151856b94874feeebd7.jpg",
+        "https://telegra.ph/file/166d2c2ede52a53a56a27.jpg",
+        "https://telegra.ph/file/79aaa9c09d1c20641ad14.jpg",
+        "https://telegra.ph/file/0c42fcd2b01407322fb50.jpg",
+        "https://telegra.ph/file/f3336101c2dc302a8768b.jpg",
+        "https://telegra.ph/file/666d75b347c6baee7b343.jpg",
+        "https://telegra.ph/file/5e83fcaa7a86c56341be8.jpg",
+        "https://telegra.ph/file/c6a90bfe3d0b5aa57b70c.jpg",
+        "https://telegra.ph/file/a3559f7df2dceb5fb7c09.jpg",
+        "https://telegra.ph/file/1ce7c883e87986b79f6d6.jpg",
+        "https://telegra.ph/file/53783d6304eb8942cfdfe.jpg",
+        "https://telegra.ph/file/782a09da3f343ddffd5c0.jpg",
+        "https://telegra.ph/file/2be1131f66832fde9f00f.jpg",
+        "https://telegra.ph/file/3ef6610e59ea4133270b5.jpg",
+        "https://telegra.ph/file/be0e6ba6ba92dec188f36.jpg",
+        "https://telegra.ph/file/f9ff7641106d0f3b9d98f.jpg",
+        "https://telegra.ph/file/0f464395a8c3b7d1b85b7.jpg",
+        "https://telegra.ph/file/c07f768e8ccaf2e2d1f21.jpg",
+        "https://telegra.ph/file/31090c02e0fef00e058c9.jpg"
+    ]
+};

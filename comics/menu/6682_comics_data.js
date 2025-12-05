@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6682,
+    "title": "Project Peach (ToLOVEる-とらぶる-)",
+    "sourceUrl": "https://telegra.ph/Project-Peach-ToLOVEる-とらぶる-08-31",
+    "images": [
+        "https://telegra.ph/file/c3696f6ca4d4b7d085d89.jpg",
+        "https://telegra.ph/file/b346b2dee68a7e25673f4.jpg",
+        "https://telegra.ph/file/2c28730ba7d31f62739f3.jpg",
+        "https://telegra.ph/file/7b26b4a99ce473ba9272d.jpg",
+        "https://telegra.ph/file/34d24d6256b01e901ec4b.jpg",
+        "https://telegra.ph/file/1381602311c334338fd68.jpg",
+        "https://telegra.ph/file/92843cf0d981df3996787.jpg",
+        "https://telegra.ph/file/701abdcb6d5d473ba49dd.jpg",
+        "https://telegra.ph/file/52e4a0ad381025f45164b.jpg",
+        "https://telegra.ph/file/8b41672bb9319cb2cf604.jpg",
+        "https://telegra.ph/file/9537f3abdb10e2a475dcb.jpg",
+        "https://telegra.ph/file/13db91924ec94bc092e12.jpg",
+        "https://telegra.ph/file/aa33a296ef1fbcbf689be.jpg",
+        "https://telegra.ph/file/b07b5f0e9a15288186e7d.jpg",
+        "https://telegra.ph/file/63df34a6836f0eaed8257.jpg",
+        "https://telegra.ph/file/4d1cc8f1a9b49ae4aee32.jpg",
+        "https://telegra.ph/file/5fe51a602fe15d6447c47.jpg",
+        "https://telegra.ph/file/02297bb7753d0e9e8b301.jpg",
+        "https://telegra.ph/file/c0d54aecac46b279d30b3.jpg",
+        "https://telegra.ph/file/6983397f0f1c0338f3086.jpg",
+        "https://telegra.ph/file/e6eda3b76b051bece7d12.jpg",
+        "https://telegra.ph/file/62e0608edcefd9019dfda.jpg",
+        "https://telegra.ph/file/f81459ff37beee4ff8099.jpg"
+    ]
+};

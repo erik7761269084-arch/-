@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5400,
+    "title": "(C105) [アサツキミント (みんとあいす)] 悪魔なイブキの精液タンク (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/C105-アサツキミント-みんとあいす-悪魔なイブキの精液タンク-ブルーアーカイブ-08-31-3",
+    "images": [
+        "https://i2.iciallo.uk/mangz/ZZ/a23eb254c42cd84d8f67e880318f97781/1.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/417dbdc856daf63e45473d14a9c63c7c2/2.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/39ed5fdf21209375aee1b8e94556b3893/3.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/8b88d3c0a6dde3a2d6230ea239f9f9c74/4.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/517cc905b3681841a60a68644cc95ff95/5.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/9c4dce1b5d0ce595e276e4918d0267e06/6.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f29d088aa5ff994fa237e1db391560177/7.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/156df8bce5ffe0a04954ae0409115bae8/8.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/17812b053c96768af24de4dfac4f76329/9.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/e63aa7c2c95fd463cd682518aa45f04d10/10.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/18e3731bb77d3ebdf1854e9322202cb211/11.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/27e69bfa055071537b1a7bed3b2781bc12/12.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/1fb6ae584c684ae2994a0f301410202313/13.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/1e5fd13cb5f57a89b17557e4096a6ca914/14.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/e07e61497d353fd7da0c8a37a303639c15/15.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/0aa7d8c5c47d5d4f424482940b6fb40c16/16.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/baeaedd6d9924ee37962cc34d80c1b2417/17.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f74ff4bf6b57fa172978183603d46a2f18/18.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/0d656d697d39b9fb9d99b4ec71f581ba19/19.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/7811f9bc4c82540d2e8f7e868383593420/20.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/4a36a93b92b9b3c6baf4b47d0284703721/21.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/97d1f08818f836df90f1779b6250991d22/22.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f95f0e4c95b9c1a86ee9ff867ec1463623/23.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/c1f41d34d507b734c2959e139573e77f24/24.jpg"
+    ]
+};

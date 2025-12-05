@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4704,
+    "title": "[みなとみらい (湊ゆう)] 人妻お姉さんお取り寄せ",
+    "sourceUrl": "https://telegra.ph/みなとみらい-湊ゆう-人妻お姉さんお取り寄せ-08-31",
+    "images": [
+        "https://telegra.ph/file/e1206bc5486aea60db9f8.jpg",
+        "https://telegra.ph/file/775ccaf5bc1c947386dd7.jpg",
+        "https://telegra.ph/file/5757b8e96e5c122b45dae.jpg",
+        "https://telegra.ph/file/054a16316b9ad7eb04d7d.jpg",
+        "https://telegra.ph/file/59b765e6ae7713fd76f6d.jpg",
+        "https://telegra.ph/file/09c14e8ea20ef79f3e732.jpg",
+        "https://telegra.ph/file/0d7b59c7e2521b2b92d0b.jpg",
+        "https://telegra.ph/file/6b0210f98ed1e922d6a20.jpg",
+        "https://telegra.ph/file/813de646ec29c653fda20.jpg",
+        "https://telegra.ph/file/74476da4cb3998d2b86de.jpg",
+        "https://telegra.ph/file/a91f7d4c4d3865ca22f55.jpg",
+        "https://telegra.ph/file/83dd8320f8cde65a4d690.jpg",
+        "https://telegra.ph/file/5a64f2895d42cc96d37cc.jpg",
+        "https://telegra.ph/file/f3c001b9e61416309ee9a.jpg",
+        "https://telegra.ph/file/41c1554856e640c416f50.jpg",
+        "https://telegra.ph/file/6a96c0b6c817d5a5a6790.jpg",
+        "https://telegra.ph/file/de7924a953e42e39ebc87.jpg",
+        "https://telegra.ph/file/12e9b9fb111040fdff2ca.jpg",
+        "https://telegra.ph/file/0c82a0a97a22eae46803b.jpg",
+        "https://telegra.ph/file/c6d89a4377c1bd7214bc1.jpg",
+        "https://telegra.ph/file/ce232af29372b22b828c5.jpg",
+        "https://telegra.ph/file/b8561fc3a0602ced2ec59.jpg",
+        "https://telegra.ph/file/6712cd80938a3e6922c56.jpg",
+        "https://telegra.ph/file/3bb8670fc850e48e5c4ca.jpg",
+        "https://telegra.ph/file/ee668166877e373a61a02.jpg",
+        "https://telegra.ph/file/e47e9e6b60bfff850c04f.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1915,
+    "title": "[ばつま亭 (ばつま)] もう駄目だ確実に妹が世界一かわいいし嫁になってもらおう",
+    "sourceUrl": "https://telegra.ph/ばつま亭-ばつま-もう駄目だ確実に妹が世界一かわいいし嫁になってもらおう-08-31",
+    "images": [
+        "https://telegra.ph/file/18caa5966239b57087c1c.jpg",
+        "https://telegra.ph/file/25cdec8d402c0083d83d4.jpg",
+        "https://telegra.ph/file/bd91a126c828be4d6309c.jpg",
+        "https://telegra.ph/file/b736097310cb64cbd0502.jpg",
+        "https://telegra.ph/file/50beaba701fdc10059676.jpg",
+        "https://telegra.ph/file/2c6fa8331830c3e36de0a.jpg",
+        "https://telegra.ph/file/66939bb1d490487d86d86.jpg",
+        "https://telegra.ph/file/23c32cb41d207ad7160c2.jpg",
+        "https://telegra.ph/file/af33363b26b4ad80dee64.jpg",
+        "https://telegra.ph/file/9e9829bbc2df94f9981ec.jpg",
+        "https://telegra.ph/file/90d9d86e6146093815c4b.jpg",
+        "https://telegra.ph/file/e3f672444e5b4ca652217.jpg",
+        "https://telegra.ph/file/394a4e0ec0c75630b913c.jpg",
+        "https://telegra.ph/file/7ce344c6f005a24b4b21a.jpg",
+        "https://telegra.ph/file/6d1024793d1c86a2e7093.jpg",
+        "https://telegra.ph/file/e852e369ecb4036cc34a2.jpg",
+        "https://telegra.ph/file/4f1b0c693fba5e2d4f690.jpg",
+        "https://telegra.ph/file/fa0ec894395eaa83813f7.jpg",
+        "https://telegra.ph/file/2447a446d60a6d7ad1b5e.jpg",
+        "https://telegra.ph/file/a45f866177a8186799036.jpg",
+        "https://telegra.ph/file/d1be825e021406a5d65b0.jpg",
+        "https://telegra.ph/file/712a22ea6b826e239a834.jpg",
+        "https://telegra.ph/file/447d7403faf04f8ebe73e.jpg",
+        "https://telegra.ph/file/fd7143a8cf0057ccb01b1.jpg",
+        "https://telegra.ph/file/5f62a25d7161fd9855e62.jpg",
+        "https://telegra.ph/file/73a5c5b14bff4a110d133.jpg"
+    ]
+};

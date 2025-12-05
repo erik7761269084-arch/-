@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5996,
+    "title": "[田辺京] りる✩まい✩すたー✩",
+    "sourceUrl": "https://telegra.ph/田辺京-りるまいすたー-08-31",
+    "images": [
+        "https://telegra.ph/file/f04a86971272923378157.png",
+        "https://telegra.ph/file/739bc0cce82ab31e5bda9.png",
+        "https://telegra.ph/file/4fdd406954ee8123c0a41.png",
+        "https://telegra.ph/file/9f06214008eda95f082e6.png",
+        "https://telegra.ph/file/58cd496e71e9dd9a5af7c.png",
+        "https://telegra.ph/file/9e636c8281debc5cc777c.png",
+        "https://telegra.ph/file/692058858f5ac4a47283f.png",
+        "https://telegra.ph/file/7018f89af8e0c2eb380c5.png",
+        "https://telegra.ph/file/3c1c95e6db59bf6dc8877.png",
+        "https://telegra.ph/file/2f94da34271bbac2093a0.png",
+        "https://telegra.ph/file/0e1a44b2e460e2c3a385e.png",
+        "https://telegra.ph/file/4f651e17b53b4a32a1135.png",
+        "https://telegra.ph/file/61ffaa16c24626b106471.png",
+        "https://telegra.ph/file/20c432bec893a1c274d9d.png",
+        "https://telegra.ph/file/374f2fd966d132d8ed88a.png",
+        "https://telegra.ph/file/6a0d849107d401208e912.png",
+        "https://telegra.ph/file/820e22da61bcdd0360d18.png",
+        "https://telegra.ph/file/d8f8b903fca11d9b91d4b.png",
+        "https://telegra.ph/file/922dcbc52bc40c12f6a25.png",
+        "https://telegra.ph/file/fb487d0f1c7a17ff2704a.png",
+        "https://telegra.ph/file/0eef5eb5f93eb4d8c745f.png",
+        "https://telegra.ph/file/e61b6cb9beef8f07e1ce7.png",
+        "https://telegra.ph/file/873c2385ebdb324284dca.png",
+        "https://telegra.ph/file/0f40df8994f4ee4814bed.png"
+    ]
+};

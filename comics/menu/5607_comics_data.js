@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5607,
+    "title": "[locon] 勤労娼年 (きゃわたま 1ST 絶対服従男の娘。)",
+    "sourceUrl": "https://telegra.ph/locon-勤労娼年-きゃわたま-1ST-絶対服従男の娘-08-31",
+    "images": [
+        "https://telegra.ph/file/0d0109adc2263a6c9e7c1.jpg",
+        "https://telegra.ph/file/e21c4704874010f62f231.png",
+        "https://telegra.ph/file/c10792d71290d4929a5d6.png",
+        "https://telegra.ph/file/8a777981a765cc0f83513.png",
+        "https://telegra.ph/file/4e4fb1b535df648778da6.png",
+        "https://telegra.ph/file/d216f56b95264a01e88e8.png",
+        "https://telegra.ph/file/98184314aaf4779d2e0c4.png",
+        "https://telegra.ph/file/824a76818c12a562cb71b.png",
+        "https://telegra.ph/file/e07504671e0574573d307.png",
+        "https://telegra.ph/file/3f44ac2997eb3c7c620af.png",
+        "https://telegra.ph/file/c299cf3eba56e4f1241ee.png",
+        "https://telegra.ph/file/15b57ce8d246f2ca669e3.png",
+        "https://telegra.ph/file/94ba415dc3254ecd7b194.png",
+        "https://telegra.ph/file/85dc5fa860ee4a60a06b2.png",
+        "https://telegra.ph/file/f87a185a5f0bb24e80290.png",
+        "https://telegra.ph/file/7c382a746e36914524678.png",
+        "https://telegra.ph/file/4887e7f0e9e2f2818892c.png",
+        "https://telegra.ph/file/7a5a37e324bf4fa31c207.png",
+        "https://telegra.ph/file/f2bd54ad8bd2462c2f42a.png",
+        "https://telegra.ph/file/4abd5ebd5d49ededa2f9d.png",
+        "https://telegra.ph/file/311559657f64e11e8f484.png",
+        "https://telegra.ph/file/cbc7255f145b7ac9f88ae.png",
+        "https://telegra.ph/file/8b16698020ef611ddea5a.png",
+        "https://telegra.ph/file/acefe91c08c28ff45121c.png",
+        "https://telegra.ph/file/a753658fdc8c183dbd0e7.png"
+    ]
+};

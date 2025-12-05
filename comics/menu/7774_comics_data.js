@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7774,
+    "title": "我的休学旅行",
+    "sourceUrl": "https://telegra.ph/我的休学旅行-08-31",
+    "images": [
+        "https://telegra.ph/file/329ea56d1b41ab3b61a0c.jpg",
+        "https://telegra.ph/file/15d0eca80ebf8a764a56d.jpg",
+        "https://telegra.ph/file/0b890873a337b09f98122.jpg",
+        "https://telegra.ph/file/55b4c4902c8b6d34a3535.jpg",
+        "https://telegra.ph/file/5216d70b3c310d5d5f139.jpg",
+        "https://telegra.ph/file/f7adefd21d5b86d9a3dfe.jpg",
+        "https://telegra.ph/file/23d67ea623ce99b2afadd.jpg",
+        "https://telegra.ph/file/bc037629afc405ddfcf20.jpg",
+        "https://telegra.ph/file/f9aa770ffc2f8ecf2b261.jpg",
+        "https://telegra.ph/file/5b5664fb8884a704a55d9.jpg",
+        "https://telegra.ph/file/49922d323b69158c5050e.jpg",
+        "https://telegra.ph/file/2ac402711af8aaabc66ec.jpg",
+        "https://telegra.ph/file/79c8a318dbb9981285d34.jpg",
+        "https://telegra.ph/file/4a9a47d71c59fccb58845.jpg",
+        "https://telegra.ph/file/6653590d8cad9643582e4.jpg",
+        "https://telegra.ph/file/9fdcedc451d88040649b9.jpg",
+        "https://telegra.ph/file/3dbfb2c09aa2159a5bf90.jpg",
+        "https://telegra.ph/file/36d9d99f0ad8c576027f9.jpg",
+        "https://telegra.ph/file/1e1e55ed1c06afe803b32.jpg",
+        "https://telegra.ph/file/2d7530e8868421bd7bb29.jpg",
+        "https://telegra.ph/file/4d698814c6967f97583ec.jpg",
+        "https://telegra.ph/file/bb1a142f7291b5da6b643.jpg",
+        "https://telegra.ph/file/fcbfdaee55238d348b459.jpg",
+        "https://telegra.ph/file/f5cab5d3c8e47f474aa47.jpg",
+        "https://telegra.ph/file/e5f62ea7da4b20858fa0f.jpg"
+    ]
+};

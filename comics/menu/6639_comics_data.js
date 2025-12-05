@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6639,
+    "title": "Lovely Girls Lily vol.10 (魔法少女まどか☆マギカ)",
+    "sourceUrl": "https://telegra.ph/Lovely-Girls-Lily-vol10-魔法少女まどかマギカ-08-31",
+    "images": [
+        "https://telegra.ph/file/73d16c09be854b9e8c7b9.jpg",
+        "https://telegra.ph/file/0966c380b82f47489f47e.jpg",
+        "https://telegra.ph/file/e3383ad3a88d883b87191.jpg",
+        "https://telegra.ph/file/189186568e6b7e23e0130.jpg",
+        "https://telegra.ph/file/2c23afaf75f9901697e4d.jpg",
+        "https://telegra.ph/file/0e9e6315bc2ce31e490ed.jpg",
+        "https://telegra.ph/file/aad426f616f8b0e486085.jpg",
+        "https://telegra.ph/file/f84d5191364445b5737e3.jpg",
+        "https://telegra.ph/file/c63f520dbc6f81e547131.jpg",
+        "https://telegra.ph/file/68e0369bce3fd0b12c6f4.jpg",
+        "https://telegra.ph/file/98101dfcd2ed0ba751590.jpg",
+        "https://telegra.ph/file/70076f354b2ae1ae2977f.jpg",
+        "https://telegra.ph/file/9e8981391cf609b7c01bc.jpg",
+        "https://telegra.ph/file/ac5d6dfebecbf9b746a85.jpg",
+        "https://telegra.ph/file/4c6d2ff0927b9a91a3cc1.jpg",
+        "https://telegra.ph/file/5d356d8dbfecb8c713277.jpg",
+        "https://telegra.ph/file/1b687c7eba0087524a7f9.jpg",
+        "https://telegra.ph/file/b915ec92f8edce79177d8.jpg",
+        "https://telegra.ph/file/4793818ffcd36a69051e4.jpg",
+        "https://telegra.ph/file/3e8ad20f462b8cfb811b9.jpg",
+        "https://telegra.ph/file/021209835375481223d66.jpg",
+        "https://telegra.ph/file/e279114b7c8ec752112b3.jpg",
+        "https://telegra.ph/file/ea86304166e8d7c93b76b.jpg",
+        "https://telegra.ph/file/4613c140a745af61d27c2.jpg",
+        "https://telegra.ph/file/8f7e636be11904c72bf25.jpg"
+    ]
+};

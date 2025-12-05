@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4052,
+    "title": "[まんぷち (ねこでる)] Prison if...",
+    "sourceUrl": "https://telegra.ph/まんぷち-ねこでる-Prison-if-08-31",
+    "images": [
+        "https://telegra.ph/file/25db97e2269e49d74d80f.jpg",
+        "https://telegra.ph/file/abd68e4ec2d4c3e438b8d.jpg",
+        "https://telegra.ph/file/6de8012809d98cc1efc0f.jpg",
+        "https://telegra.ph/file/9522b97b40eccec54af9f.jpg",
+        "https://telegra.ph/file/dae8b7f2226f1b079a575.jpg",
+        "https://telegra.ph/file/70c8212da08bd2dcd8a1f.jpg",
+        "https://telegra.ph/file/6a9b1f3a0f0ddc3aea6e9.jpg",
+        "https://telegra.ph/file/a3f1af47812eb41fedf73.jpg",
+        "https://telegra.ph/file/7dcea477db80f98d63ee6.jpg",
+        "https://telegra.ph/file/e1ab2e58ae0dae5f47cfb.jpg",
+        "https://telegra.ph/file/71e9240f0241a254581e8.jpg",
+        "https://telegra.ph/file/d97079d07582ea5ee60be.jpg",
+        "https://telegra.ph/file/d7f1ee92f3b7fd190e41a.jpg",
+        "https://telegra.ph/file/c0496b422bb151dc364c8.jpg",
+        "https://telegra.ph/file/46b74f24c46039a535785.jpg",
+        "https://telegra.ph/file/5105d07c03e39cefd051d.jpg",
+        "https://telegra.ph/file/0f988444bafa7700b184d.jpg",
+        "https://telegra.ph/file/8a5dc7403bcfee432a508.jpg",
+        "https://telegra.ph/file/29095553182b27cb9669e.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/993f07f1c165f24f54716.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/b15058f85a77c7486c310.jpg"
+    ]
+};

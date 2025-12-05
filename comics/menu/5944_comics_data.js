@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5944,
+    "title": "[大嘘] 百年熟女 (永遠娘 壱)",
+    "sourceUrl": "https://telegra.ph/大嘘-百年熟女-永遠娘-壱-08-31",
+    "images": [
+        "https://telegra.ph/file/010d87b7bb6c3fe040fa2.jpg",
+        "https://telegra.ph/file/4df57ee1322bf2f807800.jpg",
+        "https://telegra.ph/file/127485943da8297a8a49a.jpg",
+        "https://telegra.ph/file/d77b25bb48d3d489bbb8c.jpg",
+        "https://telegra.ph/file/7b521bfad465414ad74af.jpg",
+        "https://telegra.ph/file/d798dc6b8a1a07a40b5c3.jpg",
+        "https://telegra.ph/file/f477c8c8b8b5f78299002.jpg",
+        "https://telegra.ph/file/d533e553dc49817468d4d.jpg",
+        "https://telegra.ph/file/fa3d8d41740f0d7efc247.jpg",
+        "https://telegra.ph/file/b26e342c2393d81b8a77d.jpg",
+        "https://telegra.ph/file/946dbd67afe8bdbb09d7c.jpg",
+        "https://telegra.ph/file/72f36b04c6517e28f4daf.jpg",
+        "https://telegra.ph/file/252548842dfee2abb301c.jpg",
+        "https://telegra.ph/file/96fea1ec67764b37a2504.jpg",
+        "https://telegra.ph/file/7d3a80854d0ede16951fc.jpg",
+        "https://telegra.ph/file/81b1780024894ec9caa49.jpg",
+        "https://telegra.ph/file/f3fed55265a47cbbd3837.jpg",
+        "https://telegra.ph/file/68bc38a5f89f60c458068.jpg",
+        "https://telegra.ph/file/2defda78c1b7780ec2289.jpg",
+        "https://telegra.ph/file/1852c203f1601e39e0323.jpg",
+        "https://telegra.ph/file/c48c06d9f5c40a4e2fbc8.jpg",
+        "https://telegra.ph/file/8b3120f3c2458b28adc34.jpg",
+        "https://telegra.ph/file/26cadf571b12e91a3577b.jpg",
+        "https://telegra.ph/file/6ea112fbafa7c6cf9163b.jpg",
+        "https://telegra.ph/file/9337c59517c9054933c3d.jpg",
+        "https://telegra.ph/file/6c3ed8b3fb071dec94823.jpg"
+    ]
+};

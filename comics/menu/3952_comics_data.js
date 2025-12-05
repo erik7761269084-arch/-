@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3952,
+    "title": "[吉村竜巻] いんばいと (COMIC 真激 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/吉村竜巻-いんばいと-COMIC-真激-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/b50febe52f7491a88cae4.jpg",
+        "https://telegra.ph/file/6afff08375143a5af751b.jpg",
+        "https://telegra.ph/file/30143067e2eb228066944.jpg",
+        "https://telegra.ph/file/a33c200b9f243670471c1.jpg",
+        "https://telegra.ph/file/846b625f5449b9ee19bc8.jpg",
+        "https://telegra.ph/file/0cc7b76535efb1a479759.jpg",
+        "https://telegra.ph/file/b4bbf326aabaecbb42c6d.jpg",
+        "https://telegra.ph/file/1e610ca494e6e5ac5dff6.jpg",
+        "https://telegra.ph/file/d89a569db67f1d02f2671.jpg",
+        "https://telegra.ph/file/2f38c1b1c1bf326804a79.jpg",
+        "https://telegra.ph/file/a6d2839baef9961410d60.jpg",
+        "https://telegra.ph/file/6e570d82cd28853accfd9.jpg",
+        "https://telegra.ph/file/0a0ed8266b2c0e7c657bc.jpg",
+        "https://telegra.ph/file/539781cc02956bba94b71.jpg",
+        "https://telegra.ph/file/cb4c3b6ecd384a988e34e.jpg",
+        "https://telegra.ph/file/ff098837e942acd019a0d.jpg",
+        "https://telegra.ph/file/d99111deb2d0e501a3a7d.jpg",
+        "https://telegra.ph/file/3405b75fe71d3b172f644.jpg",
+        "https://telegra.ph/file/4e6221f3795a488eced06.jpg",
+        "https://telegra.ph/file/c488635d4492bfec1a9c0.jpg",
+        "https://telegra.ph/file/990ba39bc39c4a74344c0.jpg",
+        "https://telegra.ph/file/9ac2aecfa9aef7d3c643d.jpg",
+        "https://telegra.ph/file/14086abbfe2b607777839.jpg",
+        "https://telegra.ph/file/8e4dce334d07386635b07.jpg",
+        "https://telegra.ph/file/8f89ca4b5eae1f3cfc2c7.jpg",
+        "https://telegra.ph/file/a95da7f2b9410442ca78b.jpg"
+    ]
+};

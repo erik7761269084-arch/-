@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2482,
+    "title": "(C91) [LongHornTrain (ちょちょ)] こづくり☆ミトメール!! (魔法つかいプリキュア!)",
+    "sourceUrl": "https://telegra.ph/C91-LongHornTrain-ちょちょ-こづくりミトメール-魔法つかいプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/5c94b9f3a18fea702575a.jpg",
+        "https://telegra.ph/file/b172659a41807594f7248.jpg",
+        "https://telegra.ph/file/73c6e17361ff181567798.jpg",
+        "https://telegra.ph/file/4f36b549a2a21f5663e28.jpg",
+        "https://telegra.ph/file/de532bce69d749f66e633.jpg",
+        "https://telegra.ph/file/cb0684afa1ebac64ff734.jpg",
+        "https://telegra.ph/file/b0ef63dc5ecb91e1ccf4b.jpg",
+        "https://telegra.ph/file/ab86817302d6c9947824f.jpg",
+        "https://telegra.ph/file/d3888cfdf54656c8078c0.jpg",
+        "https://telegra.ph/file/32a9bfa55a8e92e2df8fc.jpg",
+        "https://telegra.ph/file/8aece0dfccda7ae6edc47.jpg",
+        "https://telegra.ph/file/bd54afa37a88f2ead4c80.jpg",
+        "https://telegra.ph/file/08dc1314a6fc54955f75e.jpg",
+        "https://telegra.ph/file/3752db7ab8398836c102c.jpg",
+        "https://telegra.ph/file/508e32232674a5874df7e.jpg",
+        "https://telegra.ph/file/7c90f063ec210a5787aa6.jpg",
+        "https://telegra.ph/file/f319f586ddc89c54a0084.jpg",
+        "https://telegra.ph/file/6a036b74d60c536c590bf.jpg",
+        "https://telegra.ph/file/fe4352d1bfe8824dc5637.jpg",
+        "https://telegra.ph/file/07c95fd6cd73f1953b17f.jpg",
+        "https://telegra.ph/file/2d047afe3bada30203be9.jpg",
+        "https://telegra.ph/file/2b45d93f6494a51c1efaa.jpg",
+        "https://telegra.ph/file/76e59bdcedd15f760cac5.jpg"
+    ]
+};

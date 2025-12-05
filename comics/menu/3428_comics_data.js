@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3428,
+    "title": "[Clochette (咲良ゆき)] 梱包少女11",
+    "sourceUrl": "https://telegra.ph/Clochette-咲良ゆき-梱包少女11-08-31",
+    "images": [
+        "https://telegra.ph/file/f199f1364057ce9bba33f.jpg",
+        "https://telegra.ph/file/680b5a88dfca462ccc9f6.jpg",
+        "https://telegra.ph/file/ca4155fb8c5161e837c12.jpg",
+        "https://telegra.ph/file/46de45ce8780a796c9ffb.jpg",
+        "https://telegra.ph/file/ea93cfa1ed420b79ad899.jpg",
+        "https://telegra.ph/file/a4fe0c2c7562ef31006c1.jpg",
+        "https://telegra.ph/file/5a746ba01e097ae8e6f75.jpg",
+        "https://telegra.ph/file/3d2e01402968457292888.jpg",
+        "https://telegra.ph/file/818c95adf9b548148a217.jpg",
+        "https://telegra.ph/file/bd68ff3798051aee618fd.jpg",
+        "https://telegra.ph/file/9fe0da45da739d72d2aa6.jpg",
+        "https://telegra.ph/file/22a47904b18013cbd88c2.jpg",
+        "https://telegra.ph/file/aff4499262babcf307f39.jpg",
+        "https://telegra.ph/file/586f44c01a35f065ca28a.jpg",
+        "https://telegra.ph/file/de1326c43c2f4cdd07882.jpg",
+        "https://telegra.ph/file/f8b83ff1f9e2e8934e9fb.jpg",
+        "https://telegra.ph/file/29cbfbe04b57742d2c641.jpg",
+        "https://telegra.ph/file/2d927b19b94a4c15671dc.jpg",
+        "https://telegra.ph/file/af39ac2422663d3370f2f.jpg",
+        "https://telegra.ph/file/06df85f31f27968f8e664.jpg",
+        "https://telegra.ph/file/ecb549ce4f7d2f034da73.jpg",
+        "https://telegra.ph/file/5fed1d4c2ed91dbd4c774.jpg",
+        "https://telegra.ph/file/bfe9dab365116fad8749e.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

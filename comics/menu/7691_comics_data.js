@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7691,
+    "title": "サセ男の瀬尾くん",
+    "sourceUrl": "https://telegra.ph/サセ男の瀬尾くん-08-31-2",
+    "images": [
+        "https://telegra.ph/file/367f30719af10091eb165.jpg",
+        "https://telegra.ph/file/77b80776fe5f24e440433.jpg",
+        "https://telegra.ph/file/532a1af3882069896446b.jpg",
+        "https://telegra.ph/file/5d8ae262cf1fbbbfd2905.jpg",
+        "https://telegra.ph/file/76022477b22d7ee3112b5.jpg",
+        "https://telegra.ph/file/60d089a46bd713f009a3a.jpg",
+        "https://telegra.ph/file/2dc61e42d03981404a729.jpg",
+        "https://telegra.ph/file/139102ca78cd8f5357b26.jpg",
+        "https://telegra.ph/file/20eff763417a33381f5f0.jpg",
+        "https://telegra.ph/file/a53320a6a5282113b4b03.jpg",
+        "https://telegra.ph/file/b1886a6bd943d8a3ae608.jpg",
+        "https://telegra.ph/file/c3941deb0e5517f3dd44d.jpg",
+        "https://telegra.ph/file/3e37a7b3676d35f0f3bd4.jpg",
+        "https://telegra.ph/file/9615ab62e8e10dee9e6b2.jpg",
+        "https://telegra.ph/file/b9fbbb5ffae9dfb81c716.jpg",
+        "https://telegra.ph/file/dca77e1984a60371fa61c.jpg",
+        "https://telegra.ph/file/dd02cc5986c941bd40763.jpg",
+        "https://telegra.ph/file/ce0c7c97f47e149d967f9.jpg",
+        "https://telegra.ph/file/aab6ecb1f99a9c30180a2.jpg",
+        "https://telegra.ph/file/6bc1916e49606788328e0.jpg",
+        "https://telegra.ph/file/d917cba8a4010d8daa20d.jpg",
+        "https://telegra.ph/file/3240c401e227c34eac323.jpg",
+        "https://telegra.ph/file/7d2c58bfbbf1b464c8c8c.jpg",
+        "https://telegra.ph/file/78cc04ee68dec987d8a78.jpg"
+    ]
+};

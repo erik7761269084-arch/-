@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2676,
+    "title": "[雲呑めお] ご奉仕ウララちゃん (COMIC 快楽天 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/雲呑めお-ご奉仕ウララちゃん-COMIC-快楽天-2022年4月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/386bd3e4a76087ba3e55b.jpg",
+        "https://telegra.ph/file/55d44623adfa2a26c8b06.jpg",
+        "https://telegra.ph/file/22c7e07f8fd6d460ae2f5.jpg",
+        "https://telegra.ph/file/8c0103eb0a4188490581c.jpg",
+        "https://telegra.ph/file/e07babd64fe48e54f6a6f.jpg",
+        "https://telegra.ph/file/14cda3d6d87217c4e717e.jpg",
+        "https://telegra.ph/file/ebc944b75fa8cb5cbe2c2.jpg",
+        "https://telegra.ph/file/dcc3f9f1872dd38336815.jpg",
+        "https://telegra.ph/file/4b8deb5ff7522fc81b26b.jpg",
+        "https://telegra.ph/file/f6d991dabf801fe11ff33.jpg",
+        "https://telegra.ph/file/da3d677b07e810d63afbe.jpg",
+        "https://telegra.ph/file/fcf88e19e37c69ae27224.jpg",
+        "https://telegra.ph/file/4726854f8061a665e025c.jpg",
+        "https://telegra.ph/file/c08d4275c79c57a9b1cce.jpg",
+        "https://telegra.ph/file/998828db7a8147be4c88e.jpg",
+        "https://telegra.ph/file/5cd7b71473d3fbdc24225.jpg",
+        "https://telegra.ph/file/8883a37bf927c778ee624.jpg",
+        "https://telegra.ph/file/18509e7e830908ccadb8c.jpg",
+        "https://telegra.ph/file/28f84dccde373549a6ac9.jpg",
+        "https://telegra.ph/file/c923be6d7ed292681fc26.jpg",
+        "https://telegra.ph/file/f426334320be067ff2141.jpg",
+        "https://telegra.ph/file/8bed263e589b57f80b813.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ]
+};

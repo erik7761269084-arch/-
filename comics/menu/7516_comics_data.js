@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7516,
+    "title": "清楚ビッチと純情ギャル1 女子更衣室で隠れ3P!",
+    "sourceUrl": "https://telegra.ph/清楚ビッチと純情ギャル1-女子更衣室で隠れ3P-08-31",
+    "images": [
+        "https://telegra.ph/file/a0d2793c69e964151f880.jpg",
+        "https://telegra.ph/file/5466ba0a197d7f9b19c7b.jpg",
+        "https://telegra.ph/file/4527cd39314928a94fd33.jpg",
+        "https://telegra.ph/file/66ba9333700cee15c2d28.jpg",
+        "https://telegra.ph/file/a876213ff1e6df767a8fe.jpg",
+        "https://telegra.ph/file/df4f962d85480b307d425.jpg",
+        "https://telegra.ph/file/12833a2c84fcf77cab759.jpg",
+        "https://telegra.ph/file/8219e62047b4108398e0b.jpg",
+        "https://telegra.ph/file/da147ee27f2a4b7319109.jpg",
+        "https://telegra.ph/file/f765920163afee56b536a.jpg",
+        "https://telegra.ph/file/70c029a4dcb19af1528eb.jpg",
+        "https://telegra.ph/file/ec9bef65b57d38e5b1678.jpg",
+        "https://telegra.ph/file/af88ff79e09e8236f9294.jpg",
+        "https://telegra.ph/file/c76acaa4efc88c3ae6b0a.jpg",
+        "https://telegra.ph/file/1e23742494e59cf13ff20.jpg",
+        "https://telegra.ph/file/f13edd6e566b689464aa4.jpg",
+        "https://telegra.ph/file/3ac5784c986698a163f6b.jpg",
+        "https://telegra.ph/file/d5aae23a2f8f602d043e1.jpg",
+        "https://telegra.ph/file/5f744b969407d9909f034.jpg",
+        "https://telegra.ph/file/ff26954cab3f357de4186.jpg",
+        "https://telegra.ph/file/c3caeff7d2cdf72902b68.jpg",
+        "https://telegra.ph/file/1f5cb70255f046c4f658f.jpg",
+        "https://telegra.ph/file/fab1ba9b62ed2bc2e6da7.jpg",
+        "https://telegra.ph/file/01f07d35bd79968f319e0.jpg"
+    ]
+};

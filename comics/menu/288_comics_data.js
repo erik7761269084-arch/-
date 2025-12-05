@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 288,
+    "title": "[catastrophe. (ハルサワ)] あなたの親友に抱かれて2",
+    "sourceUrl": "https://telegra.ph/catastrophe-ハルサワ-あなたの親友に抱かれて2-08-31",
+    "images": [
+        "https://telegra.ph/file/f173a88f3ffc857a88fd3.jpg",
+        "https://telegra.ph/file/46fb6489af2b1962bbde6.jpg",
+        "https://telegra.ph/file/32409cd50b7d503ab31d7.jpg",
+        "https://telegra.ph/file/0da91a22621d198bf7b2a.jpg",
+        "https://telegra.ph/file/e253fe87dd8b7242faebe.jpg",
+        "https://telegra.ph/file/2c0d0c4bcdaf93eb1d9ef.jpg",
+        "https://telegra.ph/file/4fb0c884d3a86bb497154.jpg",
+        "https://telegra.ph/file/df543c1dce96d734336ed.jpg",
+        "https://telegra.ph/file/08c79af1ef9a70b13270c.jpg",
+        "https://telegra.ph/file/b3a5be004c7d4de94bcae.jpg",
+        "https://telegra.ph/file/044324f3548245a643456.jpg",
+        "https://telegra.ph/file/3b663d0514d5f1bbfd775.jpg",
+        "https://telegra.ph/file/1925ee5a83585d97d7aca.jpg",
+        "https://telegra.ph/file/faec2127e4a591664267a.jpg",
+        "https://telegra.ph/file/9d6d086db668bf6cb9e64.jpg",
+        "https://telegra.ph/file/12d79bb0008f277d67e19.jpg",
+        "https://telegra.ph/file/6717fa078c47b00bcdc4c.jpg",
+        "https://telegra.ph/file/97d277f6e5851be43f80e.jpg",
+        "https://telegra.ph/file/ecd9ab0097e6affdb5216.jpg",
+        "https://telegra.ph/file/8b5ab6a8c173cea25ebd5.jpg",
+        "https://telegra.ph/file/b1292bcd503ff1e810b03.jpg",
+        "https://telegra.ph/file/7c64a08ad52c80e383703.jpg",
+        "https://telegra.ph/file/2639d0260ba1674787467.jpg",
+        "https://telegra.ph/file/3200070341a349c3a76c9.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6005,
+    "title": "[中田モデム] のぞきサプライズ!",
+    "sourceUrl": "https://telegra.ph/中田モデム-のぞきサプライズ-08-31",
+    "images": [
+        "https://telegra.ph/file/6acbb5d5fdeb4e6512621.jpg",
+        "https://telegra.ph/file/3ecc2e00ec9c42f042821.jpg",
+        "https://telegra.ph/file/c4e685c3ab577a68a3ecb.jpg",
+        "https://telegra.ph/file/d685dc3a483a3c013c80d.jpg",
+        "https://telegra.ph/file/c2ac7b4b6df0aedc46a1c.jpg",
+        "https://telegra.ph/file/ae37a52ad5ee15dc6e362.jpg",
+        "https://telegra.ph/file/41001dff009f05c0b2a29.jpg",
+        "https://telegra.ph/file/8278c607bdc41a7fdb6ef.jpg",
+        "https://telegra.ph/file/f5d3c7fea16cf9bb30c82.jpg",
+        "https://telegra.ph/file/d46337b6414a03d9b8ce3.jpg",
+        "https://telegra.ph/file/461ef5a0869e9c3aa8d25.jpg",
+        "https://telegra.ph/file/2d8f7af525a2db1d14be8.jpg",
+        "https://telegra.ph/file/d01e7b2165a816ef263c1.jpg",
+        "https://telegra.ph/file/1e45f8e7fd77c985684ab.jpg",
+        "https://telegra.ph/file/f6b000e3ba54f9b3b47ec.jpg",
+        "https://telegra.ph/file/08f2f9c4604d261075dcc.jpg",
+        "https://telegra.ph/file/956a604c939374f256cff.jpg",
+        "https://telegra.ph/file/3fad07045b2d8e775c00d.jpg",
+        "https://telegra.ph/file/6165d86b5f93251200a5b.jpg",
+        "https://telegra.ph/file/70a32ec6a801f16617895.jpg",
+        "https://telegra.ph/file/962c62e8e7ee2cf79b9b8.jpg",
+        "https://telegra.ph/file/bf5a87fc4cd7e90199360.jpg",
+        "https://telegra.ph/file/85246925ec6bb18c00d9b.jpg",
+        "https://telegra.ph/file/2358b7a2f1563d75cb085.jpg"
+    ]
+};

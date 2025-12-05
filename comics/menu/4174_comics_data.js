@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4174,
+    "title": "(C97) [絶対領域 (はげ)] 噂の美人OL ジャンヌ・ダルク 激アツ天然汁マシマシ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-絶対領域-はげ-噂の美人OL-ジャンヌダルク-激アツ天然汁マシマシ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/75095c89666cffa9039cb.jpg",
+        "https://telegra.ph/file/4cdaa84ed834ec44a5f47.jpg",
+        "https://telegra.ph/file/6d863f21476c1636874aa.jpg",
+        "https://telegra.ph/file/d569d5670793695bfbbf4.jpg",
+        "https://telegra.ph/file/5ffa90c8650ec9a049238.jpg",
+        "https://telegra.ph/file/d4fd0a9f904130746ba96.jpg",
+        "https://telegra.ph/file/ccecf97f997796f50e4a6.jpg",
+        "https://telegra.ph/file/3e67890fac0d3227a9b2c.jpg",
+        "https://telegra.ph/file/d7b0e7a099a460433d21d.jpg",
+        "https://telegra.ph/file/1a416f3fe2e1c476c3eda.jpg",
+        "https://telegra.ph/file/f84872d12cf156587408f.jpg",
+        "https://telegra.ph/file/eea6cac36780d4ea9676a.jpg",
+        "https://telegra.ph/file/da3362593675f6bfc05b5.jpg",
+        "https://telegra.ph/file/5467431bb3a4d4d6b2012.jpg",
+        "https://telegra.ph/file/a64ba697cf0ccfdecebc5.jpg",
+        "https://telegra.ph/file/ccba0aac051b81778ee04.jpg",
+        "https://telegra.ph/file/51da789b96ff98537c00c.jpg",
+        "https://telegra.ph/file/ecb03da61b1ec4986e177.jpg",
+        "https://telegra.ph/file/5e2ad61e5e81b1f9bff6b.jpg",
+        "https://telegra.ph/file/3a3c3a0fadb3ba1ecba14.jpg",
+        "https://telegra.ph/file/4e0ec0b54b846ea2801a1.jpg",
+        "https://telegra.ph/file/0d80007dbee9d9c18c4e2.jpg",
+        "https://telegra.ph/file/a4b788228b1bf488eecac.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ]
+};

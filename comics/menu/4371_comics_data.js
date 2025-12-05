@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4371,
+    "title": "[シュガーミルク] シスターぷろでゅーす (COMIC BAVEL 2015年6月号)",
+    "sourceUrl": "https://telegra.ph/シュガーミルク-シスターぷろでゅーす-COMIC-BAVEL-2015年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/83cda996eca50d02dab31.jpg",
+        "https://telegra.ph/file/eb13378ec3da49118ab77.jpg",
+        "https://telegra.ph/file/b051d0fc62a922b60d134.jpg",
+        "https://telegra.ph/file/be0c2bc3a488dbe929276.jpg",
+        "https://telegra.ph/file/4435835542fecaca5b01d.jpg",
+        "https://telegra.ph/file/d34860254c8e3fa287eae.jpg",
+        "https://telegra.ph/file/f9ee238c6c5e231ce7e20.jpg",
+        "https://telegra.ph/file/1e847d2779501699896cc.jpg",
+        "https://telegra.ph/file/346ab61a5baf03d1d60d2.jpg",
+        "https://telegra.ph/file/9b3220901ae42356c22f6.jpg",
+        "https://telegra.ph/file/5bef8703528d0e941788d.jpg",
+        "https://telegra.ph/file/e97657d2eaacfe0bc4ae4.jpg",
+        "https://telegra.ph/file/29f7d46c8928832727428.jpg",
+        "https://telegra.ph/file/3555bfc6c1025144cf16a.jpg",
+        "https://telegra.ph/file/9b259e8b6d544726a62f3.jpg",
+        "https://telegra.ph/file/eab0a2795bddb59830cb2.jpg",
+        "https://telegra.ph/file/58694c65f86711ab1c1a4.jpg",
+        "https://telegra.ph/file/d0d6dd62cadfabad803dc.jpg",
+        "https://telegra.ph/file/7614c077c02493992299c.jpg",
+        "https://telegra.ph/file/21236c4403fc66d493168.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/7d2442dca710ab10252af.png"
+    ]
+};

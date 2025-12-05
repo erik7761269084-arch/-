@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6564,
+    "title": "かな子のふわふわダイエット",
+    "sourceUrl": "https://telegra.ph/かな子のふわふわダイエット-08-31",
+    "images": [
+        "https://telegra.ph/file/9a0d1330a2c1ea54e6a46.jpg",
+        "https://telegra.ph/file/30e779ea7e52822858318.jpg",
+        "https://telegra.ph/file/665eb8f61510599a3d1fe.jpg",
+        "https://telegra.ph/file/bb00d258cf5bbe229fe82.jpg",
+        "https://telegra.ph/file/1f5ebefe4390ae796643d.jpg",
+        "https://telegra.ph/file/8bba6f90bea1bc99bc142.jpg",
+        "https://telegra.ph/file/abcc1c20d2b73d5f4b142.jpg",
+        "https://telegra.ph/file/0dc284880c5f4a0efc04c.jpg",
+        "https://telegra.ph/file/99cc87e09e5fd152fe08b.jpg",
+        "https://telegra.ph/file/4427e249ea25f98b0d13b.jpg",
+        "https://telegra.ph/file/66b768a3027985bf51470.jpg",
+        "https://telegra.ph/file/52cd15f2642bf1ded51c1.jpg",
+        "https://telegra.ph/file/f307df9d31375c1298535.jpg",
+        "https://telegra.ph/file/c15e3f2efda5163068440.jpg",
+        "https://telegra.ph/file/94ce7c5b46c73ec53e018.jpg",
+        "https://telegra.ph/file/4d71af8566756464fcfd1.jpg",
+        "https://telegra.ph/file/96ce8f94bc941a9ae59f6.jpg",
+        "https://telegra.ph/file/7a95c8305ee0b49310234.jpg",
+        "https://telegra.ph/file/f10252628aa342825a775.jpg",
+        "https://telegra.ph/file/5c685ed077c6ed9069338.jpg",
+        "https://telegra.ph/file/10c119d4b036409977968.jpg",
+        "https://telegra.ph/file/889af0081581a5bde360a.jpg",
+        "https://telegra.ph/file/f9156bf6fcbb8cc4ebde8.jpg",
+        "https://telegra.ph/file/32379a57fc148f047c1d4.jpg"
+    ]
+};

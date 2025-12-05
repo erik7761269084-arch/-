@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1251,
+    "title": "[shakestyle (ShAKe)] SLAVE ASUNA ONLINE 2 (ソードアート・オンライン)",
+    "sourceUrl": "https://telegra.ph/shakestyle-ShAKe-SLAVE-ASUNA-ONLINE-2-ソードアートオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/b53f9c7249dad472b74cd.jpg",
+        "https://telegra.ph/file/ad09fd85f3bfac518390e.jpg",
+        "https://telegra.ph/file/a5404b847cd85d375b93f.jpg",
+        "https://telegra.ph/file/fa45f81f973fe7837e234.jpg",
+        "https://telegra.ph/file/f5caed28095d75d5fe9df.jpg",
+        "https://telegra.ph/file/9a31fe72c37b80abd0d18.jpg",
+        "https://telegra.ph/file/1266a30f08450d711151b.jpg",
+        "https://telegra.ph/file/0077edffd6cc0de52bfac.jpg",
+        "https://telegra.ph/file/84405764bfc6e124f1f7d.jpg",
+        "https://telegra.ph/file/5bd84681a1f38f8c4bfd4.jpg",
+        "https://telegra.ph/file/b1795de7d4bfedfd561ce.jpg",
+        "https://telegra.ph/file/7edfcca87561ca6f041e9.jpg",
+        "https://telegra.ph/file/dfa3e8b086b7e3218d519.jpg",
+        "https://telegra.ph/file/c0d72618dd0eb66e8d6bd.jpg",
+        "https://telegra.ph/file/1296d281cb501af796465.jpg",
+        "https://telegra.ph/file/14494ebf15756380f25cb.jpg",
+        "https://telegra.ph/file/d11a4e8f4cb75bb83ec5f.jpg",
+        "https://telegra.ph/file/72327b341dd82d2cab6f8.jpg",
+        "https://telegra.ph/file/75f3ff8facd52cff67b85.jpg",
+        "https://telegra.ph/file/ef98aeedc577a15648226.jpg",
+        "https://telegra.ph/file/81d4c1728b9ebfac6646b.jpg",
+        "https://telegra.ph/file/6a3c2d9c722681cf5a6c8.jpg",
+        "https://telegra.ph/file/81caea990588447b60620.jpg",
+        "https://telegra.ph/file/40805150a95a0551e43aa.jpg"
+    ]
+};

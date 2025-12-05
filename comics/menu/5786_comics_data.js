@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5786,
+    "title": "[メトニウム] 桃尻オーシャン!!",
+    "sourceUrl": "https://telegra.ph/メトニウム-桃尻オーシャン-08-31",
+    "images": [
+        "https://telegra.ph/file/7e262fedc98886ce4b6e2.jpg",
+        "https://telegra.ph/file/cd25da8d5701bba8ca0a7.jpg",
+        "https://telegra.ph/file/2975238bb7a2bd5cd7ea2.jpg",
+        "https://telegra.ph/file/33ff636ebfe8808719b8e.jpg",
+        "https://telegra.ph/file/950d64b85eeaef3e46843.jpg",
+        "https://telegra.ph/file/64751771a4353b94ae985.jpg",
+        "https://telegra.ph/file/55e2e62bf00191bfd0d07.jpg",
+        "https://telegra.ph/file/da06c08b4016b75a3a8d0.jpg",
+        "https://telegra.ph/file/766e8a7d290be43bd2c8b.jpg",
+        "https://telegra.ph/file/3d114e9005d4d41a3975a.jpg",
+        "https://telegra.ph/file/26af5eed8d3592ff928bc.jpg",
+        "https://telegra.ph/file/54876116bf3ac030e83b8.jpg",
+        "https://telegra.ph/file/36d40a15ce0c2dc597562.jpg",
+        "https://telegra.ph/file/e2fb2c18e24a23f755f12.jpg",
+        "https://telegra.ph/file/0e128a56162d8e67cefb2.jpg",
+        "https://telegra.ph/file/ab7bee6e21281f4bbb27f.jpg",
+        "https://telegra.ph/file/21d9dbe353b697ff6fc5e.jpg",
+        "https://telegra.ph/file/dbabe02b2849d56242367.jpg",
+        "https://telegra.ph/file/669feda21b63a4d89592d.jpg",
+        "https://telegra.ph/file/e4d223cc66b318e5f5dc5.jpg",
+        "https://telegra.ph/file/c22093d9f2dca01c6636c.jpg",
+        "https://telegra.ph/file/455ef20482745c629fc6d.jpg",
+        "https://telegra.ph/file/a10ab09a6fdb9631eae86.jpg",
+        "https://telegra.ph/file/4b8f3a57a0feb9a842423.jpg",
+        "https://telegra.ph/file/2406a138c85e4c0b819eb.jpg"
+    ]
+};

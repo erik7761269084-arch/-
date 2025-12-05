@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3488,
+    "title": "[ぶじである] らこすりっぷ！ (COMIC LO 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/ぶじである-らこすりっぷ-COMIC-LO-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/3a57c78e31ab0b4005a70.jpg",
+        "https://telegra.ph/file/4d2e433c3a29cea8f879b.jpg",
+        "https://telegra.ph/file/5d571afcd9f32ec143c22.jpg",
+        "https://telegra.ph/file/0e980d35f51bad7de8352.jpg",
+        "https://telegra.ph/file/58bda7ad963fe3b09ea1d.jpg",
+        "https://telegra.ph/file/d0754fa5c921f21d56bfa.jpg",
+        "https://telegra.ph/file/6b6dea2a38752b0a65420.jpg",
+        "https://telegra.ph/file/200414b9478f403842986.jpg",
+        "https://telegra.ph/file/30835c20670aee9c8d360.jpg",
+        "https://telegra.ph/file/877a6349a422672235482.jpg",
+        "https://telegra.ph/file/2e76aa08f0973d0e8cfee.jpg",
+        "https://telegra.ph/file/9ea14a657211a7bb2c3a1.jpg",
+        "https://telegra.ph/file/b156b0d5f14d2afcb9c97.jpg",
+        "https://telegra.ph/file/3f6290d39f446d3961cf6.jpg",
+        "https://telegra.ph/file/8aecfeaab6ba4c946b4c6.jpg",
+        "https://telegra.ph/file/bd5c5481d73dfb5a7a7a6.jpg",
+        "https://telegra.ph/file/bbc6481111d9120f27633.jpg",
+        "https://telegra.ph/file/90bcb1774e2ffe1b0112f.jpg",
+        "https://telegra.ph/file/e4c32fd91f2aced6eadf6.jpg",
+        "https://telegra.ph/file/5923b1114c568728c913e.jpg",
+        "https://telegra.ph/file/74dee707f2d9713e53b8a.jpg",
+        "https://telegra.ph/file/d30b623c096576e21713c.jpg",
+        "https://telegra.ph/file/825348b26f825a0a14743.jpg",
+        "https://telegra.ph/file/59f8802efa03a1ae65a3f.jpg",
+        "https://telegra.ph/file/15bb679c4e6965a8171d5.jpg",
+        "https://telegra.ph/file/c67953a11e74ff1c30398.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6780,
+    "title": "Smile & Peace",
+    "sourceUrl": "https://telegra.ph/Smile--Peace-08-31",
+    "images": [
+        "https://telegra.ph/file/c5c2c295b2a65d5cb1263.jpg",
+        "https://telegra.ph/file/3a56fd2f5c07b9ccb4a42.jpg",
+        "https://telegra.ph/file/dd6566ffbe9549f0a0f93.jpg",
+        "https://telegra.ph/file/67b4e3a8481a759972e34.jpg",
+        "https://telegra.ph/file/c81c3f55e7973ffe45f21.jpg",
+        "https://telegra.ph/file/382f15add3fa2b591d425.jpg",
+        "https://telegra.ph/file/812e8a7998a780a18c620.jpg",
+        "https://telegra.ph/file/a35183836118a475c6c25.jpg",
+        "https://telegra.ph/file/a0c769b5ed62379f566a5.jpg",
+        "https://telegra.ph/file/62c1f1e869dd703162da8.jpg",
+        "https://telegra.ph/file/b2a07800567af5ed18f13.jpg",
+        "https://telegra.ph/file/7198a195fd5f521b3bedd.jpg",
+        "https://telegra.ph/file/5e9b3637dff5f7edd1466.jpg",
+        "https://telegra.ph/file/d6f15469f30931bbd55a9.jpg",
+        "https://telegra.ph/file/18e8db9e4a0f4c48f64ef.jpg",
+        "https://telegra.ph/file/e902e83c391a95a900493.jpg",
+        "https://telegra.ph/file/d2fa6f26b12d3a3b81856.jpg",
+        "https://telegra.ph/file/4f890acdb7b20b5697c5c.jpg",
+        "https://telegra.ph/file/a3236b8b1166b627b0025.jpg",
+        "https://telegra.ph/file/d174c54b190fd2fb2bf12.jpg",
+        "https://telegra.ph/file/7d4ecacc37782a7803d03.jpg",
+        "https://telegra.ph/file/206c41b98f308ae837d67.jpg",
+        "https://telegra.ph/file/2370da2e90579e53b552a.jpg",
+        "https://telegra.ph/file/faf15af1431ec811f8468.jpg",
+        "https://telegra.ph/file/03da57822961841a05904.jpg",
+        "https://telegra.ph/file/bcf715b225ca9b4c23267.jpg"
+    ]
+};

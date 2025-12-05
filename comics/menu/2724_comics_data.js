@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2724,
+    "title": "[hentaiworks (あるま)] 悪いふたなり幹部に負けて改造装置に繋がれちゃうヒーローさんの話。剛鉄のダガー 2話",
+    "sourceUrl": "https://telegra.ph/hentaiworks-あるま-悪いふたなり幹部に負けて改造装置に繋がれちゃうヒーローさんの話剛鉄のダガー-2話-08-31",
+    "images": [
+        "https://telegra.ph/file/b08b23f16c871e182a2fd.jpg",
+        "https://telegra.ph/file/7a3d539d9e7987201974b.jpg",
+        "https://telegra.ph/file/1aade5abf5701bdf68c26.jpg",
+        "https://telegra.ph/file/55c1fac7ad037375dbef6.jpg",
+        "https://telegra.ph/file/a2b4812f6622748612cd8.jpg",
+        "https://telegra.ph/file/d1213071190cae4debbea.jpg",
+        "https://telegra.ph/file/d42467c73197bce13f430.jpg",
+        "https://telegra.ph/file/255f48ce25af07f9181e8.jpg",
+        "https://telegra.ph/file/d99bf186ba25ed6c59af0.jpg",
+        "https://telegra.ph/file/f06f2e25379149833e808.jpg",
+        "https://telegra.ph/file/a3997ce4133d407038ad9.jpg",
+        "https://telegra.ph/file/c0f64d7a3beb2e9f5832a.jpg",
+        "https://telegra.ph/file/eb48918f8d1515c5933e8.jpg",
+        "https://telegra.ph/file/354d57a309b6ccbec125a.jpg",
+        "https://telegra.ph/file/47ae3440399acb66258fe.jpg",
+        "https://telegra.ph/file/74495b78ecc176181d6a3.jpg",
+        "https://telegra.ph/file/db658c83c913d4af32800.jpg",
+        "https://telegra.ph/file/092cdbd605c5b64cdd2df.jpg",
+        "https://telegra.ph/file/92b80457265daef3e6681.jpg",
+        "https://telegra.ph/file/b89c0e5a83820f2c0fba5.jpg",
+        "https://telegra.ph/file/ad4d0a44913c8294346b3.jpg",
+        "https://telegra.ph/file/5e2c5f2fde36ab211b277.jpg",
+        "https://telegra.ph/file/8f60eec05be17ce923f08.jpg",
+        "https://telegra.ph/file/eb0c58d5670dde35ad0e8.jpg",
+        "https://telegra.ph/file/a0ee51cd59e8211157a37.jpg"
+    ]
+};

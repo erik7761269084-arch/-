@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5748,
+    "title": "[しーあーる] ALP -Arms Live Project-",
+    "sourceUrl": "https://telegra.ph/しーあーる-ALP--Arms-Live-Project-08-31",
+    "images": [
+        "https://telegra.ph/file/aa867cad419758d932203.jpg",
+        "https://telegra.ph/file/13b326893a96aa06ffe86.jpg",
+        "https://telegra.ph/file/681ca45f2f6e7e66c46e5.jpg",
+        "https://telegra.ph/file/c22b5b3a58c005fbab2b8.jpg",
+        "https://telegra.ph/file/e07cfcb2f0d1cb5c38504.jpg",
+        "https://telegra.ph/file/1a86f6e389a3a238ffc8a.jpg",
+        "https://telegra.ph/file/77341ce66b64c9e812238.jpg",
+        "https://telegra.ph/file/05dff4407f6dafdd19a4b.jpg",
+        "https://telegra.ph/file/8acc490d939c938699fb6.jpg",
+        "https://telegra.ph/file/43f0ae0824edd346c4c6c.jpg",
+        "https://telegra.ph/file/602b964710082dff4812d.jpg",
+        "https://telegra.ph/file/521e10209d1dbb3cdf35f.jpg",
+        "https://telegra.ph/file/25bd7ea32053b0d9bd70f.jpg",
+        "https://telegra.ph/file/19cff69540654bb6786e8.jpg",
+        "https://telegra.ph/file/b2907e2f26c6017fe9ffd.jpg",
+        "https://telegra.ph/file/d15cb6a29de42dd67c9a5.jpg",
+        "https://telegra.ph/file/47547c935f562ca2dd164.jpg",
+        "https://telegra.ph/file/af11d23ab989d34e882ce.jpg",
+        "https://telegra.ph/file/e64d984ac29aea4891be7.jpg",
+        "https://telegra.ph/file/c7105d4464dea15e84f93.jpg",
+        "https://telegra.ph/file/556f8a6209f470179868f.jpg",
+        "https://telegra.ph/file/9801169241982d6a2eb20.jpg",
+        "https://telegra.ph/file/fa44c7e665956ae7348d1.jpg",
+        "https://telegra.ph/file/90045f9465eb8ff342190.jpg"
+    ]
+};

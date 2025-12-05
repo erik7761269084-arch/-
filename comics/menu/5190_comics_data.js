@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5190,
+    "title": "[半里バード] ナマイキお嬢～フェリシア編～ (COMIC快楽天ビースト 2021年1月号) [MJK-22-Z2724]",
+    "sourceUrl": "https://telegra.ph/半里バード-ナマイキお嬢フェリシア編-COMIC快楽天ビースト-2021年1月号-MJK-22-Z2724-08-31-2",
+    "images": [
+        "https://telegra.ph/file/a5b7ba012c2b260170ac8.png",
+        "https://telegra.ph/file/8371ff373f140351af5fa.png",
+        "https://telegra.ph/file/d190b25dcd0b595697a96.png",
+        "https://telegra.ph/file/b89860a6f8152e6c4debf.png",
+        "https://telegra.ph/file/c55abf67dcf6bd2f27143.png",
+        "https://telegra.ph/file/8c469d1eb9a38e2033e97.png",
+        "https://telegra.ph/file/56f0f278c1d7c6422369d.png",
+        "https://telegra.ph/file/50813a9164ad67a19b6ba.png",
+        "https://telegra.ph/file/a9d13085b3190e7dde109.png",
+        "https://telegra.ph/file/f34576223b3b1cdb5a7ba.png",
+        "https://telegra.ph/file/fac5c28ac4700284c914c.png",
+        "https://telegra.ph/file/477aaf3d6d37e663899fa.png",
+        "https://telegra.ph/file/b762ac9c92ffca2a9d7d6.png",
+        "https://telegra.ph/file/48cad5e18a9edb0e47c48.png",
+        "https://telegra.ph/file/0d024a3a203a6d6620365.png",
+        "https://telegra.ph/file/7803931752548d384abb0.png",
+        "https://telegra.ph/file/97d760ef99ae1c348cb4b.png",
+        "https://telegra.ph/file/80afac4e2927935e9c546.png",
+        "https://telegra.ph/file/3fe514e8e768fc4be1dba.png",
+        "https://telegra.ph/file/f24982ef017abc778540d.png",
+        "https://telegra.ph/file/5aa176d83693bb05de279.png",
+        "https://telegra.ph/file/acf708610340e8fed60b0.png",
+        "https://telegra.ph/file/310376ac8e9c9a48c56f5.png",
+        "https://telegra.ph/file/0051821cb36a3302d6079.png",
+        "https://telegra.ph/file/84d387df5c0b3c23a5ce3.png"
+    ]
+};

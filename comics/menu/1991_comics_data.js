@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1991,
+    "title": "[SeN] ぷりーずほーるどみー (comicアンスリウム 001 2013年5月号)",
+    "sourceUrl": "https://telegra.ph/SeN-ぷりーずほーるどみー-comicアンスリウム-001-2013年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/4f52bbcfecc84f8d46867.jpg",
+        "https://telegra.ph/file/b2b841e9ce3b4c5ad0cd6.jpg",
+        "https://telegra.ph/file/04f70e5fe679b044cdebb.jpg",
+        "https://telegra.ph/file/896919a93d61608523728.jpg",
+        "https://telegra.ph/file/97e6b1325689160b658a0.jpg",
+        "https://telegra.ph/file/99f1e55e4cad18638ede5.jpg",
+        "https://telegra.ph/file/c120a09bc03125fbe956c.jpg",
+        "https://telegra.ph/file/b656b1877ef6378580c7a.jpg",
+        "https://telegra.ph/file/03256fdcfc1856efbc5fb.jpg",
+        "https://telegra.ph/file/15009e16c07b5e7fefc6f.jpg",
+        "https://telegra.ph/file/ba77e8a3be28520ca225f.jpg",
+        "https://telegra.ph/file/8661496b2134035394647.jpg",
+        "https://telegra.ph/file/c22ba8f08f5811d4442b8.jpg",
+        "https://telegra.ph/file/c203cc3ceff88782411af.jpg",
+        "https://telegra.ph/file/a9dcfac107536a7158491.jpg",
+        "https://telegra.ph/file/a310d3c207376e48fa507.jpg",
+        "https://telegra.ph/file/745e174c131085769498b.jpg",
+        "https://telegra.ph/file/f4a095f8711e21ec680db.jpg",
+        "https://telegra.ph/file/0ef1d76276425af4027c8.jpg",
+        "https://telegra.ph/file/e581fb420a9768dfa506e.jpg",
+        "https://telegra.ph/file/d2354665f1da5c3d32c0f.jpg",
+        "https://telegra.ph/file/819a76478b22d393f861a.jpg",
+        "https://telegra.ph/file/ff0b73bf0575f54d598a1.jpg",
+        "https://telegra.ph/file/1d0ac1f2e5333dac310b1.jpg",
+        "https://telegra.ph/file/8694dea74a07a627c345e.png"
+    ]
+};

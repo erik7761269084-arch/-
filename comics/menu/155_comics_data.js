@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 155,
+    "title": "[koccハウス (nama)] Heart♡Throb 2",
+    "sourceUrl": "https://telegra.ph/koccハウス-nama-HeartThrob-2-08-31",
+    "images": [
+        "https://telegra.ph/file/4a0095c0de01fa50d2fbd.jpg",
+        "https://telegra.ph/file/8641bdce8ba1dff2741b1.jpg",
+        "https://telegra.ph/file/bc0dc9c0868d16224e79c.jpg",
+        "https://telegra.ph/file/3c10169953bb761d948d7.jpg",
+        "https://telegra.ph/file/5cdcc1cad4768ad0870eb.jpg",
+        "https://telegra.ph/file/187a143e012be2545640a.jpg",
+        "https://telegra.ph/file/bd5196b8ad32e93b1b893.jpg",
+        "https://telegra.ph/file/913f20b1e61f271e8a81b.jpg",
+        "https://telegra.ph/file/e37a2de8a7f54b4ac8e32.jpg",
+        "https://telegra.ph/file/66267653fbd914e90e477.jpg",
+        "https://telegra.ph/file/3485310383cccddf3e9b9.jpg",
+        "https://telegra.ph/file/4f81908008ebd0969312f.jpg",
+        "https://telegra.ph/file/8f5f78c58516e3458c490.jpg",
+        "https://telegra.ph/file/9d2cbc7f58dffd137e453.jpg",
+        "https://telegra.ph/file/51cbc339cd4c61012cc04.jpg",
+        "https://telegra.ph/file/d26f1bcbb268fed56a1b9.jpg",
+        "https://telegra.ph/file/c40d5fda006cb5847d774.jpg",
+        "https://telegra.ph/file/13ccfb744aa256d4d1952.jpg",
+        "https://telegra.ph/file/b6a2e0e4a6baa9cd7a35a.jpg",
+        "https://telegra.ph/file/c57be204b2e98bada5a97.jpg",
+        "https://telegra.ph/file/699aaf75fbdff45339222.jpg",
+        "https://telegra.ph/file/568816c14e05dc3886d12.jpg",
+        "https://telegra.ph/file/143d7b3f8a1f8d377a3e6.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

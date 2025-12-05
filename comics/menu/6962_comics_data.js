@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6962,
+    "title": "晒名読子は見られたい",
+    "sourceUrl": "https://telegra.ph/晒名読子は見られたい-08-31",
+    "images": [
+        "https://telegra.ph/file/2f28631f5ce9697150183.jpg",
+        "https://telegra.ph/file/018c55f6b491402d00aa9.jpg",
+        "https://telegra.ph/file/8fe182b0680ff4810d15c.jpg",
+        "https://telegra.ph/file/c1e1b3721010c204f1893.jpg",
+        "https://telegra.ph/file/bd1454c8505fc75bee2fb.jpg",
+        "https://telegra.ph/file/cc66f789c45b2f119a694.jpg",
+        "https://telegra.ph/file/5ca9813ba317624b06be4.jpg",
+        "https://telegra.ph/file/2472bd90e66bb645bd7a5.jpg",
+        "https://telegra.ph/file/756d1ac950933785f3326.jpg",
+        "https://telegra.ph/file/db6c7a76b606f11304429.jpg",
+        "https://telegra.ph/file/b6e9a5c9765aef4fe84df.jpg",
+        "https://telegra.ph/file/860fc6f9e8868359d2647.jpg",
+        "https://telegra.ph/file/9c39c0a99e918f0185c25.jpg",
+        "https://telegra.ph/file/895a587b33aec4bbfb382.jpg",
+        "https://telegra.ph/file/63c4f7ddbf46c41db4cea.jpg",
+        "https://telegra.ph/file/877d64533af18834b27fe.jpg",
+        "https://telegra.ph/file/e4049655769f8cc6fdae0.jpg",
+        "https://telegra.ph/file/2a0917d900551add80d0c.jpg",
+        "https://telegra.ph/file/48edb55a25022728ebc96.jpg",
+        "https://telegra.ph/file/ff10a64a167e812785f42.jpg",
+        "https://telegra.ph/file/d313451e4b09ee87312c7.jpg",
+        "https://telegra.ph/file/99b20f92ae669952b1ba7.jpg",
+        "https://telegra.ph/file/ef5c6725bce48e79c3b3c.jpg",
+        "https://telegra.ph/file/52ff41459475cb2944d91.jpg",
+        "https://telegra.ph/file/a8073f58b967e07929328.jpg",
+        "https://telegra.ph/file/3a86ce36caa09c84bff0f.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7377,
+    "title": "花ちゃん奮闘記",
+    "sourceUrl": "https://telegra.ph/花ちゃん奮闘記-08-31",
+    "images": [
+        "https://telegra.ph/file/2407aaff8eedf67441737.jpg",
+        "https://telegra.ph/file/f8d66f1e15c444905dec6.jpg",
+        "https://telegra.ph/file/e90460f810fbe3aa2d7b9.jpg",
+        "https://telegra.ph/file/4a2c4c0d56dc55721c343.jpg",
+        "https://telegra.ph/file/1817c637c7c421412f790.jpg",
+        "https://telegra.ph/file/0f906408a8142e9d61c82.jpg",
+        "https://telegra.ph/file/4ff86316ffb2e151d4dd4.jpg",
+        "https://telegra.ph/file/40baa828228ae2a8f08f8.jpg",
+        "https://telegra.ph/file/d4deb5062ae7106963f68.jpg",
+        "https://telegra.ph/file/8c69e9f6b8ee0cf2e42c2.jpg",
+        "https://telegra.ph/file/ef56e9a74cb81b4e7867a.jpg",
+        "https://telegra.ph/file/7398d81a50bbf8ef2da77.jpg",
+        "https://telegra.ph/file/1dc2283600b02d18eff02.jpg",
+        "https://telegra.ph/file/4293e3e54f3a3b050a058.jpg",
+        "https://telegra.ph/file/cd7f90b788057479b26a9.jpg",
+        "https://telegra.ph/file/321fe2a5cb0a027b17fd2.jpg",
+        "https://telegra.ph/file/1bfcdf7946f5f54a2563c.jpg",
+        "https://telegra.ph/file/f5ba26c491d316b1b29e3.jpg",
+        "https://telegra.ph/file/c335790fb9eb261d3026c.jpg",
+        "https://telegra.ph/file/8384e0128593a4642b688.jpg",
+        "https://telegra.ph/file/92e91096cdf4e148ee8c0.jpg",
+        "https://telegra.ph/file/866cfe7e2009769ac5e9b.jpg",
+        "https://telegra.ph/file/9257d6d3d195f8fb4b6a3.jpg",
+        "https://telegra.ph/file/466435aa651dffb0c3bf1.jpg"
+    ]
+};

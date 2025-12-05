@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4848,
+    "title": "[むた] 水着アナスタシア (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/むた-水着アナスタシア-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/9e9bd440db8a6566a7799.jpg",
+        "https://telegra.ph/file/f48cdc824a1da5bd14ea4.jpg",
+        "https://telegra.ph/file/61f40e99a3f5eb50d3604.jpg",
+        "https://telegra.ph/file/2c468ddfa400abd276eee.jpg",
+        "https://telegra.ph/file/a2b8e3573f3013f23c287.jpg",
+        "https://telegra.ph/file/4d44fd5ab244bba3abe23.jpg",
+        "https://telegra.ph/file/2f43d35eb4da63a7e6a4b.jpg",
+        "https://telegra.ph/file/f92772af60012750202c3.jpg",
+        "https://telegra.ph/file/49a08751d73bb87756f48.jpg",
+        "https://telegra.ph/file/5d6bfa2929a85ee803027.jpg",
+        "https://telegra.ph/file/2125536d2519f178bdb1a.jpg",
+        "https://telegra.ph/file/e42469d4d6eb0015df8f1.jpg",
+        "https://telegra.ph/file/f7f0a99625749bdb994a0.jpg",
+        "https://telegra.ph/file/03d4dfc2db36d20947318.jpg",
+        "https://telegra.ph/file/747acb6a92d129177e87e.jpg",
+        "https://telegra.ph/file/7880e19025ebf4547e492.jpg",
+        "https://telegra.ph/file/f3c8a05b60f490c46692d.jpg",
+        "https://telegra.ph/file/01ebaba33555560c228de.jpg",
+        "https://telegra.ph/file/e0dd11d0861d7cf097030.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/14538a11b71af851d2a89.jpg",
+        "https://telegra.ph/file/f967b1defaadb6d21c016.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg"
+    ]
+};

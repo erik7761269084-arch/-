@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6793,
+    "title": "マッドストラングル",
+    "sourceUrl": "https://telegra.ph/マッドストラングル-08-31",
+    "images": [
+        "https://telegra.ph/file/f332b12bd7ccb16945644.jpg",
+        "https://telegra.ph/file/feac55f9c551a3943d5ce.jpg",
+        "https://telegra.ph/file/945df707b7edb0d918476.jpg",
+        "https://telegra.ph/file/7cf1575f98ef10a402e2a.jpg",
+        "https://telegra.ph/file/2a2f82621bad951df863e.jpg",
+        "https://telegra.ph/file/3795d34a84f2788532e47.jpg",
+        "https://telegra.ph/file/65c6803b159ca8a76b915.jpg",
+        "https://telegra.ph/file/5caae44d308efa50019f3.jpg",
+        "https://telegra.ph/file/79bb58722930110f83efc.jpg",
+        "https://telegra.ph/file/7e5d34c546e7bd2612f61.jpg",
+        "https://telegra.ph/file/cf98c808af66a0c3eac3b.jpg",
+        "https://telegra.ph/file/d4176412734998674caac.jpg",
+        "https://telegra.ph/file/388bb860f61e3d92dd024.jpg",
+        "https://telegra.ph/file/23c2c65a17831d610712a.jpg",
+        "https://telegra.ph/file/6d50d61dc51780e694c69.jpg",
+        "https://telegra.ph/file/598395d9bb8accc634cbd.jpg",
+        "https://telegra.ph/file/25004849751393b3f6a06.jpg",
+        "https://telegra.ph/file/f0b84bbe56dbd9d54aa4e.jpg",
+        "https://telegra.ph/file/0819fb30bea183ed47f62.jpg",
+        "https://telegra.ph/file/789bf4d031dadefe47d44.jpg",
+        "https://telegra.ph/file/56c787ce6be26b11690b2.jpg",
+        "https://telegra.ph/file/8640493a8e1bb3f9ad4fb.jpg",
+        "https://telegra.ph/file/8fe7bc75776be298dba0f.jpg",
+        "https://telegra.ph/file/d0f8a647893d6eb8ad80b.jpg"
+    ]
+};

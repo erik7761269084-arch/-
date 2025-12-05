@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5546,
+    "title": "[ごばん] Please kiss me",
+    "sourceUrl": "https://telegra.ph/ごばん-Please-kiss-me-08-31",
+    "images": [
+        "https://telegra.ph/file/b7e7ad5f4e01ac85fff7a.jpg",
+        "https://telegra.ph/file/2c73b05a2dc027525ce40.jpg",
+        "https://telegra.ph/file/1dc8de79d61d46867ef6c.jpg",
+        "https://telegra.ph/file/6f1291ea2e3f84839692c.jpg",
+        "https://telegra.ph/file/fb96f7ed9c4a9d23a7b39.jpg",
+        "https://telegra.ph/file/a6347b922b8fa0cc8e058.jpg",
+        "https://telegra.ph/file/8940fc4c6d32824ade507.jpg",
+        "https://telegra.ph/file/9334176b5c8dab18a41b1.jpg",
+        "https://telegra.ph/file/b80b1f9d39100df95a0bf.jpg",
+        "https://telegra.ph/file/5de32992927ec125ce024.jpg",
+        "https://telegra.ph/file/5329895098d951295a8c6.jpg",
+        "https://telegra.ph/file/f444060a0d29faac8881e.jpg",
+        "https://telegra.ph/file/241db9301f17217fb0f0b.jpg",
+        "https://telegra.ph/file/7d366d0db7719755b18d5.jpg",
+        "https://telegra.ph/file/a3c97e90a6a1787f9c82e.jpg",
+        "https://telegra.ph/file/880b7413837ec8c19afca.jpg",
+        "https://telegra.ph/file/279d13b576b31ce6da4d9.jpg",
+        "https://telegra.ph/file/dd8febb6963763fc9f7c4.jpg",
+        "https://telegra.ph/file/3800fc4edeb0eadcbd15f.jpg",
+        "https://telegra.ph/file/8df6e1ba02bcd323448d6.jpg",
+        "https://telegra.ph/file/39b5a12abb8b4f3877433.jpg",
+        "https://telegra.ph/file/40bd0b58c3b8dc2564d87.jpg",
+        "https://telegra.ph/file/7bca7a524913bdb35d1c0.jpg",
+        "https://telegra.ph/file/20b8bda2f7496b83859d3.jpg"
+    ]
+};

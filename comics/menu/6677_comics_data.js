@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6677,
+    "title": "「しろ…きょうからこどもおなほに、なる」 (ノーゲーム・ノーライフ)",
+    "sourceUrl": "https://telegra.ph/しろきょうからこどもおなほになる-ノーゲームノーライフ-08-31",
+    "images": [
+        "https://telegra.ph/file/f58d2e9e0b6bd04c59087.jpg",
+        "https://telegra.ph/file/0bae5750a24ad9a6ccf08.jpg",
+        "https://telegra.ph/file/cd2bb5cc3960ddb6cad6b.jpg",
+        "https://telegra.ph/file/4b46668ab81188c7fd3b0.jpg",
+        "https://telegra.ph/file/1634cea7a666501bea49c.jpg",
+        "https://telegra.ph/file/56a2f5bb9f72c39cfc073.jpg",
+        "https://telegra.ph/file/f1142d3e87de8c7c9478a.jpg",
+        "https://telegra.ph/file/285d5abf1bc57599bc1bf.jpg",
+        "https://telegra.ph/file/19d82ae26fbec3cab3f54.jpg",
+        "https://telegra.ph/file/47aee4827e89b8bd2bcea.jpg",
+        "https://telegra.ph/file/e4f2ce33076208fea0c62.jpg",
+        "https://telegra.ph/file/64ab525f6a1702531a229.jpg",
+        "https://telegra.ph/file/2c1e1c9563a622dc0ac7a.jpg",
+        "https://telegra.ph/file/d32ff05556f25dcb16d32.jpg",
+        "https://telegra.ph/file/5c997281d9d37a8864493.jpg",
+        "https://telegra.ph/file/a6f17f2f57430a4cc0586.jpg",
+        "https://telegra.ph/file/cc9ad50b4378568aca77a.jpg",
+        "https://telegra.ph/file/d6b5925058e7d0796b294.jpg",
+        "https://telegra.ph/file/9048600a10054ec8c4f35.jpg",
+        "https://telegra.ph/file/47ed2eb7ef50d3f0d8ef7.jpg",
+        "https://telegra.ph/file/79d57265459ee0aef7d26.jpg",
+        "https://telegra.ph/file/b3f4e4eb096eaa958e9b7.jpg",
+        "https://telegra.ph/file/fa1d35944a5b61b16c017.jpg"
+    ]
+};

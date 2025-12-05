@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6986,
+    "title": "密着エロ漫画家24時",
+    "sourceUrl": "https://telegra.ph/密着エロ漫画家24時-08-31",
+    "images": [
+        "https://telegra.ph/file/9645497d999f32fac6b76.jpg",
+        "https://telegra.ph/file/73f83968412032314c164.jpg",
+        "https://telegra.ph/file/bc86ca06ff60b522dc839.jpg",
+        "https://telegra.ph/file/9a42de0276c6ca1f707d3.jpg",
+        "https://telegra.ph/file/e6819e292bc5f68c71585.jpg",
+        "https://telegra.ph/file/958a3bfafbc5aecf1dec7.jpg",
+        "https://telegra.ph/file/54d2968268ce66e0146b4.jpg",
+        "https://telegra.ph/file/2864d66159bf48dc803a7.jpg",
+        "https://telegra.ph/file/cd2fcdedb44ce1e42b7d3.jpg",
+        "https://telegra.ph/file/6aa106a06b4625bcfeb2a.jpg",
+        "https://telegra.ph/file/5e5cc69ac9083ea75d1de.jpg",
+        "https://telegra.ph/file/5682513f0ea26ff407573.jpg",
+        "https://telegra.ph/file/7ef65bf942f77b642c614.jpg",
+        "https://telegra.ph/file/830e0724084475049daf1.jpg",
+        "https://telegra.ph/file/0510287095c087109efce.jpg",
+        "https://telegra.ph/file/cd27d072aa3a49e4d5c11.jpg",
+        "https://telegra.ph/file/bd1be17705102fe2d06f9.jpg",
+        "https://telegra.ph/file/f5c44574092d945e3cdee.jpg",
+        "https://telegra.ph/file/e9c8eed2c19acc1eecbb8.jpg",
+        "https://telegra.ph/file/bac333216e6af498e1d7d.jpg",
+        "https://telegra.ph/file/b120d0520f330bfdafb85.jpg",
+        "https://telegra.ph/file/813dbbd1c06c5ae62b737.jpg",
+        "https://telegra.ph/file/f0893e5e70d5e162e336f.jpg",
+        "https://telegra.ph/file/ddd7d998ceb8d0a31a5e5.jpg"
+    ]
+};

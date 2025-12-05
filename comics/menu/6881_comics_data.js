@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6881,
+    "title": "ふつつかまじょですが…",
+    "sourceUrl": "https://telegra.ph/ふつつかまじょですが-08-31",
+    "images": [
+        "https://telegra.ph/file/bb17283812f4eead2d963.jpg",
+        "https://telegra.ph/file/b22d77caeabddea34101a.jpg",
+        "https://telegra.ph/file/02b751eb4c27ace16dd8d.jpg",
+        "https://telegra.ph/file/7412a7dbe02039ef7d345.jpg",
+        "https://telegra.ph/file/8bdd4c75d3bbb78b46ad4.jpg",
+        "https://telegra.ph/file/2f5c38fe461698243d894.jpg",
+        "https://telegra.ph/file/853db882437e1b3e96304.jpg",
+        "https://telegra.ph/file/6ba6e67ab926b13323a90.jpg",
+        "https://telegra.ph/file/41077fb51cdf54c8c3c66.jpg",
+        "https://telegra.ph/file/40284c4993d0d057fc859.jpg",
+        "https://telegra.ph/file/123536abc15add6da167a.jpg",
+        "https://telegra.ph/file/748a7ebf2949edb3ff8d3.jpg",
+        "https://telegra.ph/file/5260426b2064a4a5e47a0.jpg",
+        "https://telegra.ph/file/91a0172632ed69b84a5cd.jpg",
+        "https://telegra.ph/file/74e754c3d62e1ba5e3a38.jpg",
+        "https://telegra.ph/file/e79cfc2012f7be445597c.jpg",
+        "https://telegra.ph/file/f8e6e72587dc1c34f93cc.jpg",
+        "https://telegra.ph/file/b68e3288f97cb7fa95a12.jpg",
+        "https://telegra.ph/file/b862d057cde4ed770b599.jpg",
+        "https://telegra.ph/file/083ab2015b73fec51a70b.jpg",
+        "https://telegra.ph/file/69da789b5c720725b87d6.jpg",
+        "https://telegra.ph/file/005706919eeb5ee586828.jpg",
+        "https://telegra.ph/file/2bd6a0536f84664808cd3.jpg",
+        "https://telegra.ph/file/77cfa77d36c3ff1a465d5.jpg",
+        "https://telegra.ph/file/f82e53dfcb5ea6fbe8a21.jpg",
+        "https://telegra.ph/file/88bcaca942c6ab2523c02.jpg"
+    ]
+};

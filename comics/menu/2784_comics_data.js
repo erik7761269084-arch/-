@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2784,
+    "title": "[りんごくらぶ (tea/pot)] シャニ×ズリ×まとめ本 (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/りんごくらぶ-teapot-シャニズリまとめ本-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/027029e0b920e25d72de9.jpg",
+        "https://telegra.ph/file/94a55785586dd2046be64.jpg",
+        "https://telegra.ph/file/eb3b5e90689883855feb8.jpg",
+        "https://telegra.ph/file/b666a7b354ecdba78269c.jpg",
+        "https://telegra.ph/file/a57dae74d550391637384.jpg",
+        "https://telegra.ph/file/18e49295136fcf92b1b43.jpg",
+        "https://telegra.ph/file/53fcf7681a314640c570c.png",
+        "https://telegra.ph/file/91a9378708efb9357d1c9.jpg",
+        "https://telegra.ph/file/a93538b095556c2a9b579.jpg",
+        "https://telegra.ph/file/9940b4548fb86f712fd08.jpg",
+        "https://telegra.ph/file/08ad55afc94b559e19e63.jpg",
+        "https://telegra.ph/file/b1b0a99a066a2dea5e985.jpg",
+        "https://telegra.ph/file/a6e389cd660b79498228c.jpg",
+        "https://telegra.ph/file/ba5e04c78c753478ea9a8.jpg",
+        "https://telegra.ph/file/fe1464bf847d8146d4278.jpg",
+        "https://telegra.ph/file/546ec21180e15fb276851.jpg",
+        "https://telegra.ph/file/5b6ae9a78072b5b1c78b8.png",
+        "https://telegra.ph/file/5978dee7377731109a1b1.jpg",
+        "https://telegra.ph/file/3553c2cec4022703df7d3.jpg",
+        "https://telegra.ph/file/14c004e230e303d02d52a.jpg",
+        "https://telegra.ph/file/311afba17eef4121d87ff.jpg",
+        "https://telegra.ph/file/c2ac8217d9fd0fc425f16.jpg",
+        "https://telegra.ph/file/033ec3edb5610575978bb.jpg",
+        "https://telegra.ph/file/dc52e4f617b435fa5fe3b.png",
+        "https://telegra.ph/file/9eca5278e7733e78a8337.png",
+        "https://telegra.ph/file/fba82736f97392601d760.jpg"
+    ]
+};

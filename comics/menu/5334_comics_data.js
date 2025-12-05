@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5334,
+    "title": "[2022.01] その着せ替え人形はHをする 1 (その着せ替え人形は恋をする)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/202201-その着せ替え人形はHをする-1-その着せ替え人形は恋をする-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/38520ec712f793d729ff5.jpg",
+        "https://telegra.ph/file/f44521042fc85a48627fc.jpg",
+        "https://telegra.ph/file/98a1f270982fe609d72c5.jpg",
+        "https://telegra.ph/file/4d7d8209c70a839a656ae.jpg",
+        "https://telegra.ph/file/98a9a39ac8edc83ec0ca3.jpg",
+        "https://telegra.ph/file/19fdef9ae5a60fe78a8da.jpg",
+        "https://telegra.ph/file/1874bc4fd4605c19677f8.jpg",
+        "https://telegra.ph/file/64b716a0800dadab60378.jpg",
+        "https://telegra.ph/file/be6544069692576570c8c.jpg",
+        "https://telegra.ph/file/77e90b5010485050df4a1.jpg",
+        "https://telegra.ph/file/39ae8902deb896c828644.jpg",
+        "https://telegra.ph/file/01825c0627f8da1211f32.jpg",
+        "https://telegra.ph/file/101b2c1bd594d7d4f33ff.jpg",
+        "https://telegra.ph/file/d9580dcf1da3a01f53a06.jpg",
+        "https://telegra.ph/file/4b703293ffc1221c3705e.jpg",
+        "https://telegra.ph/file/a67d05c2b63f7f51b4338.jpg",
+        "https://telegra.ph/file/585c4da2fcc44d7b07884.jpg",
+        "https://telegra.ph/file/318bf1b7a6cf752846869.jpg",
+        "https://telegra.ph/file/313862d5fafa95969fb62.jpg",
+        "https://telegra.ph/file/02e1d3fdcecbfd315d146.jpg",
+        "https://telegra.ph/file/90dbf47eae59e743e6fa0.jpg",
+        "https://telegra.ph/file/df5170b5cf5b563f60001.jpg",
+        "https://telegra.ph/file/0d52e86520cce5df90e2a.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5135,
+    "title": "[2017.08] My Little Maid 4 (C92) [山樱汉化]",
+    "sourceUrl": "https://telegra.ph/201708-My-Little-Maid-4-C92-山樱汉化-08-31-2",
+    "images": [
+        "https://telegra.ph/file/30acbc63365fe2cee9534.png",
+        "https://telegra.ph/file/7a8114a387fa34cf82648.png",
+        "https://telegra.ph/file/a977c510115b54d596068.png",
+        "https://telegra.ph/file/c00a4344b8540db4d598b.png",
+        "https://telegra.ph/file/484878ceebb05480e4a87.png",
+        "https://telegra.ph/file/62fcda13c74de716273a9.png",
+        "https://telegra.ph/file/4a0da676a19af36b42ed5.png",
+        "https://telegra.ph/file/f49b8085dad85746ad5d9.png",
+        "https://telegra.ph/file/e748cbd3eb6bf691d014f.png",
+        "https://telegra.ph/file/1ece138b6ac549509417d.png",
+        "https://telegra.ph/file/92aa955a8cd08ef6eb060.png",
+        "https://telegra.ph/file/aa73f3b46dac607331835.png",
+        "https://telegra.ph/file/7432d252c43019966721c.png",
+        "https://telegra.ph/file/8b6f517b20fd7cb0ddcc3.png",
+        "https://telegra.ph/file/4a44a6f7f9b51e6d9fa8b.png",
+        "https://telegra.ph/file/515df2d2119e08bfaa7a0.png",
+        "https://telegra.ph/file/58fb3736590e94e746b79.png",
+        "https://telegra.ph/file/e8488bfffaf17071ff977.png",
+        "https://telegra.ph/file/b4c5dc1fe422a378f3cc0.png",
+        "https://telegra.ph/file/26d096c3716186bb75850.png",
+        "https://telegra.ph/file/d376822ca5a5a783fd878.png",
+        "https://telegra.ph/file/22aeabb3cdba69e5fea7f.png",
+        "https://telegra.ph/file/113a1ffa27a6bd3617b21.png",
+        "https://telegra.ph/file/e02be676f1affdb356611.png",
+        "https://telegra.ph/file/687fa56c53b2ca8d5399b.png"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1430,
+    "title": "[ニャリャポンガ (世界最速のパンダ)] 事務的に処理してくれる艦護師さん (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ニャリャポンガ-世界最速のパンダ-事務的に処理してくれる艦護師さん-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/44330e59fa8b9aa0e6172.jpg",
+        "https://telegra.ph/file/50bf4fe54990704d25d00.jpg",
+        "https://telegra.ph/file/598429f501ecdd2e233c2.jpg",
+        "https://telegra.ph/file/5dbf246507e142b8e2c68.jpg",
+        "https://telegra.ph/file/b5f7fb627013f2a744504.jpg",
+        "https://telegra.ph/file/aa41765f904aaedf1bbd5.jpg",
+        "https://telegra.ph/file/edf5a2007582ac67cf864.jpg",
+        "https://telegra.ph/file/eb25ef2eb4945a14526f5.jpg",
+        "https://telegra.ph/file/da0685229033bedf9c794.jpg",
+        "https://telegra.ph/file/2ab17fc9caf3c7433a357.jpg",
+        "https://telegra.ph/file/5d6d0a91b198eb27e43ee.jpg",
+        "https://telegra.ph/file/34b13e2f5e9bd6103efd2.jpg",
+        "https://telegra.ph/file/6fe792b2f23962842f60c.jpg",
+        "https://telegra.ph/file/8ac1ea72ba6d6c69779b1.jpg",
+        "https://telegra.ph/file/e14148d5eed98ea2d6b5b.jpg",
+        "https://telegra.ph/file/054afe2af3893bc27acfb.jpg",
+        "https://telegra.ph/file/d7fc9329350d7e54b4710.jpg",
+        "https://telegra.ph/file/195451aab6ed6bd594371.jpg",
+        "https://telegra.ph/file/7ecf6ec1bfc99fc70b18d.jpg",
+        "https://telegra.ph/file/2e364db40203bf907868c.jpg",
+        "https://telegra.ph/file/4ecf5464d297f96036f52.jpg",
+        "https://telegra.ph/file/530db85bc7ca9745a26ed.jpg",
+        "https://telegra.ph/file/21fea2a6d751b16f8d9e6.jpg"
+    ]
+};

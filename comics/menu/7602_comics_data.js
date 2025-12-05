@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7602,
+    "title": "聖天姫堕つ",
+    "sourceUrl": "https://telegra.ph/聖天姫堕つ-08-31",
+    "images": [
+        "https://telegra.ph/file/c72518b6b6e926b3331d8.png",
+        "https://telegra.ph/file/096cef3f7ce89782e78b5.png",
+        "https://telegra.ph/file/69141e24bca46bd626779.png",
+        "https://telegra.ph/file/e25d8ae0b0524e3526174.png",
+        "https://telegra.ph/file/22085bcca3ee1b33a44d5.png",
+        "https://telegra.ph/file/eb71935e045a0e7a5395f.png",
+        "https://telegra.ph/file/08b629a1267b8ec9f60ab.png",
+        "https://telegra.ph/file/8e27a1dcefc6693bf75f3.png",
+        "https://telegra.ph/file/e87458b338e811459405c.png",
+        "https://telegra.ph/file/b2dac578bb04b29e83de2.png",
+        "https://telegra.ph/file/ab766ae83802a6489b99f.png",
+        "https://telegra.ph/file/462cddb4210d3a8ca4e51.png",
+        "https://telegra.ph/file/4a12f467319c6a6482a5c.png",
+        "https://telegra.ph/file/2793a96148bb2a9813e6a.png",
+        "https://telegra.ph/file/62bae1ba0cf1c52a2fb34.png",
+        "https://telegra.ph/file/69feff8e3665dc319fd17.png",
+        "https://telegra.ph/file/b3ef474d2645cd4625fe3.png",
+        "https://telegra.ph/file/b1bab1a114e673d89133f.png",
+        "https://telegra.ph/file/7052c5a395c1a070a1e60.png",
+        "https://telegra.ph/file/9f8a81f8d856f7d59821f.png",
+        "https://telegra.ph/file/e0344cf38e157e6bd8ea4.png",
+        "https://telegra.ph/file/5a5c01fdfd84e32c5762c.png",
+        "https://telegra.ph/file/9a03419b4410bdbd8a94d.png",
+        "https://telegra.ph/file/64c03c1c0c6939e169a78.png"
+    ]
+};

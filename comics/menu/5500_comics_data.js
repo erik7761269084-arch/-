@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5500,
+    "title": "[メネア・ザ・ドッグ] マヨちゅっちゅ",
+    "sourceUrl": "https://telegra.ph/メネアザドッグ-マヨちゅっちゅ-08-31",
+    "images": [
+        "https://telegra.ph/file/6a62467c5e0471c0a9a60.jpg",
+        "https://telegra.ph/file/f983b645ba20ee06158b7.jpg",
+        "https://telegra.ph/file/85e627ce034cdbfe69990.jpg",
+        "https://telegra.ph/file/96dc61aeb01ea77678a3e.jpg",
+        "https://telegra.ph/file/fae1c68c62aab22df6a01.jpg",
+        "https://telegra.ph/file/84883f8cdcb14c5cb8e9f.jpg",
+        "https://telegra.ph/file/86d25828a4ee0ae509fba.jpg",
+        "https://telegra.ph/file/ce564b61bd61a25c5fc7e.jpg",
+        "https://telegra.ph/file/8ebf12dee418635a45fe8.jpg",
+        "https://telegra.ph/file/9408733ddf4114d470954.jpg",
+        "https://telegra.ph/file/dcff4e04e2a1ad714ccae.jpg",
+        "https://telegra.ph/file/366c09c194604800cf50a.jpg",
+        "https://telegra.ph/file/65046b0e76ac6e49aed04.jpg",
+        "https://telegra.ph/file/b5f23fac858670af487a4.jpg",
+        "https://telegra.ph/file/9841e3b2330a588e16c8c.jpg",
+        "https://telegra.ph/file/e72a32e816ccfef06092b.jpg",
+        "https://telegra.ph/file/2c0cc8d11b4256387ec2c.jpg",
+        "https://telegra.ph/file/44459ad8d3e777d96cfc3.jpg",
+        "https://telegra.ph/file/4bed48c7ad49838e03085.jpg",
+        "https://telegra.ph/file/f3fa5c5a9d700b3f06b1d.jpg",
+        "https://telegra.ph/file/2b2d92d291584af359371.jpg",
+        "https://telegra.ph/file/d89b9f3c12cab73a5aeda.jpg",
+        "https://telegra.ph/file/4bbd5222e85b918a75744.jpg",
+        "https://telegra.ph/file/01fdb1b021051be39c3d0.jpg"
+    ]
+};

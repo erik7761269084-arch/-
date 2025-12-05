@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2276,
+    "title": "[CELLULOID-ACME (チバトシロウ)] 竜のまじない (モンスターハンターライズ)",
+    "sourceUrl": "https://telegra.ph/CELLULOID-ACME-チバトシロウ-竜のまじない-モンスターハンターライズ-08-31",
+    "images": [
+        "https://telegra.ph/file/10160f7d4bd964c1b8357.jpg",
+        "https://telegra.ph/file/f1d65fa41dc84dcd4532f.jpg",
+        "https://telegra.ph/file/ac8f101a97dd82200e6ba.jpg",
+        "https://telegra.ph/file/dd815d5b9700dd1da235e.jpg",
+        "https://telegra.ph/file/d348d02ce8b3f059db348.jpg",
+        "https://telegra.ph/file/1405fa5fb3d2d5e878717.jpg",
+        "https://telegra.ph/file/6baf6e0645ed9dac32b3f.jpg",
+        "https://telegra.ph/file/3cd4d99e1e1fcfab6cadc.jpg",
+        "https://telegra.ph/file/ca44f3f0d10b9e437f602.jpg",
+        "https://telegra.ph/file/18e139acd84ca5fafe954.jpg",
+        "https://telegra.ph/file/8d29dd8cb02dbd1da221e.jpg",
+        "https://telegra.ph/file/8c32744fac6f4ca1fc3bc.jpg",
+        "https://telegra.ph/file/28645b8a4b29a8c9c5569.jpg",
+        "https://telegra.ph/file/e4d4f017df3a7fad1fef1.jpg",
+        "https://telegra.ph/file/61ce43de48f72876a639a.jpg",
+        "https://telegra.ph/file/055373e53309ba57c5d24.jpg",
+        "https://telegra.ph/file/6293b38df1a20d8658d96.jpg",
+        "https://telegra.ph/file/220fe88e11eaa9d685578.jpg",
+        "https://telegra.ph/file/29f30595cd5e51b5e144c.jpg",
+        "https://telegra.ph/file/b9614d2d047ceb5e90e6a.jpg",
+        "https://telegra.ph/file/10c4e1e275eec3eedcf3a.jpg",
+        "https://telegra.ph/file/2f13a1ea6d85e4f8aec54.jpg",
+        "https://telegra.ph/file/cdfd4101ebcf8a1887a6d.jpg",
+        "https://telegra.ph/file/e6cb8e1c1a8ab02bd9212.jpg"
+    ]
+};

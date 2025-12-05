@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7544,
+    "title": "HARVEST",
+    "sourceUrl": "https://telegra.ph/HARVEST-08-31-5",
+    "images": [
+        "https://telegra.ph/file/51076147aa6f6a34b1aa8.jpg",
+        "https://telegra.ph/file/cb888614e25e5f924c0a9.jpg",
+        "https://telegra.ph/file/c34b71b395ed2dc6fb4a0.jpg",
+        "https://telegra.ph/file/71c82fcb86dbf368df105.jpg",
+        "https://telegra.ph/file/4d6152987594de3352507.jpg",
+        "https://telegra.ph/file/5521b31f0b26f5441030d.jpg",
+        "https://telegra.ph/file/8be8db0618d651f490144.jpg",
+        "https://telegra.ph/file/64bfe8de889792d4ba63f.jpg",
+        "https://telegra.ph/file/c7a4b8ebd972c3cdfc63e.jpg",
+        "https://telegra.ph/file/ca3cea34775bf4077758e.jpg",
+        "https://telegra.ph/file/ea671578d5bf8f64cf1fc.jpg",
+        "https://telegra.ph/file/0f5681fde5d7ba824f674.jpg",
+        "https://telegra.ph/file/01c127ca7a33cf569ac1e.jpg",
+        "https://telegra.ph/file/c46683809e11395f70d42.jpg",
+        "https://telegra.ph/file/26154cdc73c5002c8f8d6.jpg",
+        "https://telegra.ph/file/fc1cf73a4f31a0b545ec6.jpg",
+        "https://telegra.ph/file/2221751b6bda972e9c503.jpg",
+        "https://telegra.ph/file/55b7b84aa55cd0a700e8b.jpg",
+        "https://telegra.ph/file/9168644752f48ea696980.jpg",
+        "https://telegra.ph/file/3e398d4933d5a2c5b5bd7.jpg",
+        "https://telegra.ph/file/00e07052779553bc7cabf.jpg",
+        "https://telegra.ph/file/c4de30d2cfccae7df8a01.jpg",
+        "https://telegra.ph/file/71d135107756cc4f0b3c8.jpg",
+        "https://telegra.ph/file/d96902eb08210ecb95337.jpg",
+        "https://telegra.ph/file/004528921efde3d14509a.jpg"
+    ]
+};

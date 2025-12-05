@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3401,
+    "title": "(C99) [C.R's NEST (しーあーる)] ♥世話焼き上手のブレマートンさん2♥ (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C99-CRs-NEST-しーあーる-世話焼き上手のブレマートンさん2-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/8ff5b96b159c7051b22ad.jpg",
+        "https://telegra.ph/file/a679f6caca3651c120676.jpg",
+        "https://telegra.ph/file/8173e19078236ef5ed64a.jpg",
+        "https://telegra.ph/file/1c789765b9ecbbf5d0f8b.jpg",
+        "https://telegra.ph/file/e5e6923cdd358914ada86.jpg",
+        "https://telegra.ph/file/6798240fa8f19ea7749c5.jpg",
+        "https://telegra.ph/file/9385b87bec94e24bf525d.jpg",
+        "https://telegra.ph/file/9702f9f99ee002c43e0bc.jpg",
+        "https://telegra.ph/file/3059e3d2a26c1c75e57ab.jpg",
+        "https://telegra.ph/file/8a9c0e23d786443f2401f.jpg",
+        "https://telegra.ph/file/1494e31f96dbf9ff11ec7.jpg",
+        "https://telegra.ph/file/3829b7c394bcad24b6f1a.jpg",
+        "https://telegra.ph/file/145e4da433e32d6bb9a2d.jpg",
+        "https://telegra.ph/file/64262682cb786907bb66a.jpg",
+        "https://telegra.ph/file/e5a5db3c0f50c2f41f5f7.jpg",
+        "https://telegra.ph/file/187fca92417be05442104.jpg",
+        "https://telegra.ph/file/d49b95660713b5632bd0b.jpg",
+        "https://telegra.ph/file/6f1842c8430c3eb8770a8.jpg",
+        "https://telegra.ph/file/82f27e380b1daffc9887a.jpg",
+        "https://telegra.ph/file/f03128450c159c120c01b.jpg",
+        "https://telegra.ph/file/f35ff0c27ba46dc3c975e.jpg",
+        "https://telegra.ph/file/6a1fa3f0446c126482f3a.jpg",
+        "https://telegra.ph/file/42b097d163f0f572e664b.jpg",
+        "https://telegra.ph/file/e04bb038f99dba206f0a7.jpg",
+        "https://telegra.ph/file/e7a29cf24a5f9cd05dba1.jpg"
+    ]
+};

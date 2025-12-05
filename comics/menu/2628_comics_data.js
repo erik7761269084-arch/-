@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2628,
+    "title": "[Kanbe] 父の娘 (COMIC 快楽天 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/Kanbe-父の娘-COMIC-快楽天-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/24276461f207ab4a57a57.jpg",
+        "https://telegra.ph/file/024f5396a189fc564ced5.jpg",
+        "https://telegra.ph/file/1cab177fbd65b9f2cf8ee.jpg",
+        "https://telegra.ph/file/f3e191fba7e6a4e02455e.jpg",
+        "https://telegra.ph/file/55149d7e6b738ab1a071d.jpg",
+        "https://telegra.ph/file/a6dcb144345f004753bba.jpg",
+        "https://telegra.ph/file/594ee25b7f9f7fb85474e.jpg",
+        "https://telegra.ph/file/87166b919d81d6f4e0f50.jpg",
+        "https://telegra.ph/file/f69e54a2ead2826ce5f60.jpg",
+        "https://telegra.ph/file/4c0e79a6114c83b143663.jpg",
+        "https://telegra.ph/file/8e3d9bd1f3d2fb992deb5.jpg",
+        "https://telegra.ph/file/f4fa59187b629e1ac751c.jpg",
+        "https://telegra.ph/file/2899aa3b6b9b0770e2dd4.jpg",
+        "https://telegra.ph/file/0e27a3161d39715ab7be6.jpg",
+        "https://telegra.ph/file/f7c8b9dcd3c5c5b47f4ca.jpg",
+        "https://telegra.ph/file/c38bae295d3a21ef5fcb0.jpg",
+        "https://telegra.ph/file/536e70186f9ebcc8871de.jpg",
+        "https://telegra.ph/file/1fb686e01652e64264dd8.jpg",
+        "https://telegra.ph/file/4433fad2c990a65b0ddf2.jpg",
+        "https://telegra.ph/file/e2d469a7506e05be478a2.jpg",
+        "https://telegra.ph/file/5dc837bf667ed3e5a8fa4.jpg",
+        "https://telegra.ph/file/fd16b8991c6e750bbdf2b.jpg",
+        "https://telegra.ph/file/5db19778ead1b056b4284.jpg",
+        "https://telegra.ph/file/9fc57701ae84315fdf57d.jpg",
+        "https://telegra.ph/file/2557b645ad844c6033263.jpg",
+        "https://telegra.ph/file/12a205a5d8e9d9e5a4fd7.jpg"
+    ]
+};

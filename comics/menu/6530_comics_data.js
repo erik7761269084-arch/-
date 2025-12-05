@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6530,
+    "title": "ガハラ語 (化物語)",
+    "sourceUrl": "https://telegra.ph/ガハラ語-化物語-08-31",
+    "images": [
+        "https://telegra.ph/file/bd269634690ab6e8f07c0.jpg",
+        "https://telegra.ph/file/f2a8c1e928a6a61ae7a0c.jpg",
+        "https://telegra.ph/file/97cfdd53f0dad5c445de0.jpg",
+        "https://telegra.ph/file/24179fad359706c3c6116.jpg",
+        "https://telegra.ph/file/2367e4972816cb6b650d7.jpg",
+        "https://telegra.ph/file/0390531903cc93367bbc5.jpg",
+        "https://telegra.ph/file/340a51b59961ecd6839ae.jpg",
+        "https://telegra.ph/file/0a2a94778ff73240b6322.jpg",
+        "https://telegra.ph/file/7699fb438cfcbddaf6631.jpg",
+        "https://telegra.ph/file/aca10c83a5fc30d1324d2.jpg",
+        "https://telegra.ph/file/26c123e98e86a21e3d8b8.jpg",
+        "https://telegra.ph/file/c27c82d2de63b00d80d82.jpg",
+        "https://telegra.ph/file/2d9dada0170c60055306c.jpg",
+        "https://telegra.ph/file/f606b863a2942521d5091.jpg",
+        "https://telegra.ph/file/ee96a756561685227393f.jpg",
+        "https://telegra.ph/file/11a51570514bf62a59513.jpg",
+        "https://telegra.ph/file/033e0947b1766ab27253e.jpg",
+        "https://telegra.ph/file/08c3cd04802873d09f157.jpg",
+        "https://telegra.ph/file/32ea8408d97477333e145.jpg",
+        "https://telegra.ph/file/6e2b016ff821ef9dcebf1.jpg",
+        "https://telegra.ph/file/f3000048528761e300856.jpg",
+        "https://telegra.ph/file/59277e228add3a763923b.jpg",
+        "https://telegra.ph/file/550425cac7786490f57dd.jpg",
+        "https://telegra.ph/file/7b7ee1d349eddb3792873.jpg"
+    ]
+};

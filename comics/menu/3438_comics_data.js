@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3438,
+    "title": "(C97) [魔空軍団 (しのづかあつと)] 北斎ちゃんのジジョウ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-魔空軍団-しのづかあつと-北斎ちゃんのジジョウ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/07e051c4e56474db338ee.jpg",
+        "https://telegra.ph/file/fd0607309bb24273bae6b.jpg",
+        "https://telegra.ph/file/929ccfc0a5f7e4d30139c.jpg",
+        "https://telegra.ph/file/268f2c73540ec91597257.jpg",
+        "https://telegra.ph/file/622983428ec2769e04372.jpg",
+        "https://telegra.ph/file/0367c8e9a5999c68e5d87.jpg",
+        "https://telegra.ph/file/6dd2eb6fd5ea6ea86829d.jpg",
+        "https://telegra.ph/file/38deaa3165773a1ddaf63.jpg",
+        "https://telegra.ph/file/a7cd6c3f934f9a38a1d25.jpg",
+        "https://telegra.ph/file/1d38e992efeb0cd78a974.jpg",
+        "https://telegra.ph/file/56ea81ab65d6cc5719e51.jpg",
+        "https://telegra.ph/file/902b72d359cc049d337d2.jpg",
+        "https://telegra.ph/file/31459ff71101f1a7719f4.jpg",
+        "https://telegra.ph/file/d3b6df0d5e61e7db2ab09.jpg",
+        "https://telegra.ph/file/edd38516c400127d8363d.jpg",
+        "https://telegra.ph/file/b7bfbaacb40d50205605d.jpg",
+        "https://telegra.ph/file/3a3e4270c5204293a41b0.jpg",
+        "https://telegra.ph/file/1bf9889473a35454f0dd3.jpg",
+        "https://telegra.ph/file/943cb8274d34a6a3fa131.jpg",
+        "https://telegra.ph/file/ecba0d7d9f67a1524c29e.jpg",
+        "https://telegra.ph/file/be3d55241c45bdf94f638.jpg",
+        "https://telegra.ph/file/5352b59b19c383eb9cd1d.jpg",
+        "https://telegra.ph/file/87baa9588b043afdb6264.jpg",
+        "https://telegra.ph/file/d33339cfbc60866a7c2d1.jpg",
+        "https://telegra.ph/file/9086839bdbc1834df570e.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1264,
+    "title": "[YellowSeed (イエローシード)] 404消滅 (少女前線)",
+    "sourceUrl": "https://telegra.ph/YellowSeed-イエローシード-404消滅-少女前線-08-31",
+    "images": [
+        "https://telegra.ph/file/571e673dd122cf2e7ce9f.jpg",
+        "https://telegra.ph/file/538be57cf2443b327e9ec.jpg",
+        "https://telegra.ph/file/992b6f160b49e5ecf63b8.jpg",
+        "https://telegra.ph/file/d7d5eadeabae1614789e1.jpg",
+        "https://telegra.ph/file/e96a131e4ae65f8b11049.jpg",
+        "https://telegra.ph/file/32f33fab1b37609b420d7.jpg",
+        "https://telegra.ph/file/80bc561abb8dee8bf5a44.jpg",
+        "https://telegra.ph/file/e32e8a4b97e2814c08de8.jpg",
+        "https://telegra.ph/file/0c8be44542f55e77347dd.jpg",
+        "https://telegra.ph/file/d2b8fec6baf6b56abc989.jpg",
+        "https://telegra.ph/file/35a8ad7de0966b6a0edcb.jpg",
+        "https://telegra.ph/file/e6475414ee4d50bc829c0.jpg",
+        "https://telegra.ph/file/0b759a075cbe6a513d623.jpg",
+        "https://telegra.ph/file/a8f3f0419040f6599116a.jpg",
+        "https://telegra.ph/file/b78132628479f7e6240c4.jpg",
+        "https://telegra.ph/file/a51ca8fab9871801bf2bd.jpg",
+        "https://telegra.ph/file/22a1d2974e00677ae6fa8.jpg",
+        "https://telegra.ph/file/e40204d5de107ee2c4861.jpg",
+        "https://telegra.ph/file/4c93e4c8bd977a30f0893.jpg",
+        "https://telegra.ph/file/57e1f47de8c06fbdd3ee1.jpg",
+        "https://telegra.ph/file/08449e223f7b892a5a315.jpg",
+        "https://telegra.ph/file/530a181ae76299b3d97db.jpg",
+        "https://telegra.ph/file/a57a1ef122715293deee4.jpg",
+        "https://telegra.ph/file/56fdc00e84ebe7846c02f.jpg"
+    ]
+};

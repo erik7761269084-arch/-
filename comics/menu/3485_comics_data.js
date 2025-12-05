@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3485,
+    "title": "[MISS BLACK OFFLINE (MISS BLACK)] 情欲狂想組曲 第一楽章 Revival (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/MISS-BLACK-OFFLINE-MISS-BLACK-情欲狂想組曲-第一楽章-Revival-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/80fe141bdf82a37b24338.jpg",
+        "https://telegra.ph/file/8fcfbdc4928f45764a7e1.jpg",
+        "https://telegra.ph/file/dd3cf79610eb8989d099e.jpg",
+        "https://telegra.ph/file/4e3ad95db462d61cfa93c.jpg",
+        "https://telegra.ph/file/fcd9c98e4cf287528a6f6.jpg",
+        "https://telegra.ph/file/763c01a055329ae416150.jpg",
+        "https://telegra.ph/file/174318634a1135f17a09b.jpg",
+        "https://telegra.ph/file/f6b0f77a274160e60d6e9.jpg",
+        "https://telegra.ph/file/c46a5d3b6284996b7cc70.jpg",
+        "https://telegra.ph/file/8aa9276a3734fac145132.jpg",
+        "https://telegra.ph/file/c41f1d183dd0a0d1fddc1.jpg",
+        "https://telegra.ph/file/0c00054ee7ff9545a3c89.jpg",
+        "https://telegra.ph/file/1359a24f36961d77a14ea.jpg",
+        "https://telegra.ph/file/6d7355decc558907f3fa8.jpg",
+        "https://telegra.ph/file/39ec663ce09b6a8b24723.jpg",
+        "https://telegra.ph/file/09013e35a04aa03585b60.jpg",
+        "https://telegra.ph/file/625711e6f06d8a8b8035e.jpg",
+        "https://telegra.ph/file/5190569b51add045f3808.jpg",
+        "https://telegra.ph/file/04e2084f1a59d8acc907d.jpg",
+        "https://telegra.ph/file/7caea584729e2d2103272.jpg",
+        "https://telegra.ph/file/4fd1f53591d5edbda384f.jpg",
+        "https://telegra.ph/file/2afc8effbb2f6e9e92382.jpg",
+        "https://telegra.ph/file/d5d76380c69d51253f657.jpg",
+        "https://telegra.ph/file/6bca85904d2eb8dcf8ae6.jpg",
+        "https://telegra.ph/file/95314eddf95fc2d5af502.jpg",
+        "https://telegra.ph/file/dadb3cedbf07c5224558f.jpg"
+    ]
+};

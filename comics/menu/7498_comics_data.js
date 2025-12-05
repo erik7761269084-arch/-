@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7498,
+    "title": "ダブルレッスン",
+    "sourceUrl": "https://telegra.ph/ダブルレッスン-08-31",
+    "images": [
+        "https://telegra.ph/file/6e73cd12ff225b93de20e.jpg",
+        "https://telegra.ph/file/fa2a0cd69c1ef2fb0c825.jpg",
+        "https://telegra.ph/file/e0e48f614a2b9e4c7b373.jpg",
+        "https://telegra.ph/file/d019d7644454fbf022de4.jpg",
+        "https://telegra.ph/file/0ab40ce4c3afd222d29f9.jpg",
+        "https://telegra.ph/file/cb2fe09ac7294e4a6510c.jpg",
+        "https://telegra.ph/file/8a2f3070b1d09f97fb084.jpg",
+        "https://telegra.ph/file/01be3830a6e8ab5652503.jpg",
+        "https://telegra.ph/file/36cb25c3615f3006ff2d4.jpg",
+        "https://telegra.ph/file/7e34bfd260c78734d2e55.jpg",
+        "https://telegra.ph/file/4313b3f8018bd4057cfd8.jpg",
+        "https://telegra.ph/file/cc41d4a1e922e6a720c18.jpg",
+        "https://telegra.ph/file/88690c9c5c7e97e6afb1e.jpg",
+        "https://telegra.ph/file/eafd09e673e41d61a3eac.jpg",
+        "https://telegra.ph/file/319acc1a55ec438739fae.jpg",
+        "https://telegra.ph/file/7f29522fef609937b74c0.jpg",
+        "https://telegra.ph/file/90ebf01a64cfbb7dc8459.jpg",
+        "https://telegra.ph/file/a6b5b37513c9b487ea91b.jpg",
+        "https://telegra.ph/file/445a667f80ce0c41238a9.jpg",
+        "https://telegra.ph/file/d4339f7aacb58bf1275de.jpg",
+        "https://telegra.ph/file/63689054152809f48cc58.jpg",
+        "https://telegra.ph/file/10deb55066fa748812f2f.jpg",
+        "https://telegra.ph/file/8f540191419d9cbbf7fd4.jpg",
+        "https://telegra.ph/file/2fc2740fc84ca810b369e.jpg",
+        "https://telegra.ph/file/14f9585da3c9f8491e1ee.jpg",
+        "https://telegra.ph/file/9255b2a1c4381f2fcc610.jpg"
+    ]
+};

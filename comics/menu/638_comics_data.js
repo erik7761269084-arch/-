@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 638,
+    "title": "[さくらがーでん (しろすず)] かるでああうとどあちゃれんじ アビーちゃんと一緒3 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/さくらがーでん-しろすず-かるでああうとどあちゃれんじ-アビーちゃんと一緒3-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/ea66bc67c902cc5c627d7.jpg",
+        "https://telegra.ph/file/9be94ec0e98567d5313c0.jpg",
+        "https://telegra.ph/file/2e2359622e9e98879eb73.jpg",
+        "https://telegra.ph/file/fd6bfefbcacbb8d5b8e83.jpg",
+        "https://telegra.ph/file/ec3b8eb90a8ffe512336a.jpg",
+        "https://telegra.ph/file/696d151b21e5122fa0824.jpg",
+        "https://telegra.ph/file/d13d57aecc5232b44a521.jpg",
+        "https://telegra.ph/file/3fd3a46a3c2a57021650a.jpg",
+        "https://telegra.ph/file/719112d557340f1b13083.jpg",
+        "https://telegra.ph/file/9ff9de30639ef3ae8a103.jpg",
+        "https://telegra.ph/file/bb5775109ee6704de0e4f.jpg",
+        "https://telegra.ph/file/9c34bf591d5a1f1829903.jpg",
+        "https://telegra.ph/file/7bdfb780e5d8fd7a687c2.jpg",
+        "https://telegra.ph/file/7630e48e8048ede40367d.jpg",
+        "https://telegra.ph/file/6e6657ef389243853814e.jpg",
+        "https://telegra.ph/file/860ef77d8cde06fabd864.jpg",
+        "https://telegra.ph/file/12df40ae05d4d59108d81.jpg",
+        "https://telegra.ph/file/d67715028480c420c9fe7.jpg",
+        "https://telegra.ph/file/bb2ef170ddc9bc55e1a1c.jpg",
+        "https://telegra.ph/file/0de4adb7a23ec6ac76619.jpg",
+        "https://telegra.ph/file/a3537889f5e1b9b75eae0.jpg",
+        "https://telegra.ph/file/5101215f1a9c3770303b9.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

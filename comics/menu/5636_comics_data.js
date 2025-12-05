@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5636,
+    "title": "[オオカミうお] 援々助ショウジョ",
+    "sourceUrl": "https://telegra.ph/オオカミうお-援々助ショウジョ-08-31",
+    "images": [
+        "https://telegra.ph/file/649b4f94361f8d8c4a9fe.jpg",
+        "https://telegra.ph/file/b0cc315d4ff595a58de3f.jpg",
+        "https://telegra.ph/file/95c778970f7554092bdcb.jpg",
+        "https://telegra.ph/file/d0a5218133ff359a1b362.jpg",
+        "https://telegra.ph/file/4832f7d3a3f370a913cec.jpg",
+        "https://telegra.ph/file/60c3993e3205fb0488b1d.jpg",
+        "https://telegra.ph/file/39ff7e415f280f8ac0941.jpg",
+        "https://telegra.ph/file/c3efaac7e680808a2ecc3.jpg",
+        "https://telegra.ph/file/a14f081b2c6269a0af30e.jpg",
+        "https://telegra.ph/file/4acdc9e38a52f873951e0.jpg",
+        "https://telegra.ph/file/993a1e49115fe093049a8.jpg",
+        "https://telegra.ph/file/ffc803578a7dd655ad33c.jpg",
+        "https://telegra.ph/file/e3e3395f4d74ad09cbdea.jpg",
+        "https://telegra.ph/file/aa32b1d64d56ab627cf16.jpg",
+        "https://telegra.ph/file/1e2f8cfc0028823f3813b.jpg",
+        "https://telegra.ph/file/11d926206daecb1e6b733.jpg",
+        "https://telegra.ph/file/ceec8873f114cce0384d0.jpg",
+        "https://telegra.ph/file/dbc485441bfe3b4b60c6c.jpg",
+        "https://telegra.ph/file/8d7aa386d3519025d2655.jpg",
+        "https://telegra.ph/file/824987dd4c13ad16434c4.jpg",
+        "https://telegra.ph/file/984f49b41b1317bbeb256.jpg",
+        "https://telegra.ph/file/32a6beda3ab381a5012f4.jpg",
+        "https://telegra.ph/file/ac30956c3466dbdfe4316.jpg"
+    ]
+};

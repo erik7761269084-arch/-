@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7743,
+    "title": "[OrangeMaru (YD)] XX ROM (FateGrand Order)",
+    "sourceUrl": "https://telegra.ph/OrangeMaru-YD-XX-ROM-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/59a0c8784a247b3bcaf85.jpg",
+        "https://telegra.ph/file/542558334e6c9e6b93132.jpg",
+        "https://telegra.ph/file/6c8c67c18c26545c8b3cb.jpg",
+        "https://telegra.ph/file/f4cf94787c8d8bea48a65.jpg",
+        "https://telegra.ph/file/949ae0e17db9fb8b0de8f.jpg",
+        "https://telegra.ph/file/85c4b719ed3662646a0f0.jpg",
+        "https://telegra.ph/file/1e733e43f6354c3dbeca5.jpg",
+        "https://telegra.ph/file/2b6f2ebadbe6ec1b827d7.jpg",
+        "https://telegra.ph/file/6924d08b10ce8ba4a7a87.jpg",
+        "https://telegra.ph/file/d2c2effce80bba718d7a2.jpg",
+        "https://telegra.ph/file/84615094f9fa54864a522.jpg",
+        "https://telegra.ph/file/0e28203471c833b1c9f40.jpg",
+        "https://telegra.ph/file/dc0d9113d66f2b0f44472.jpg",
+        "https://telegra.ph/file/f86cf6133ce28951e4ff2.jpg",
+        "https://telegra.ph/file/c2c3989e9ee905d61d0bd.jpg",
+        "https://telegra.ph/file/0efc41e1e6636f5bd8a8c.jpg",
+        "https://telegra.ph/file/b2e9685da3b2b6af04bfe.jpg",
+        "https://telegra.ph/file/4fae313a2d0eaa55f75bd.jpg",
+        "https://telegra.ph/file/e72706df7cbf35bd6b36f.jpg",
+        "https://telegra.ph/file/3f303417c60cba785d03b.jpg",
+        "https://telegra.ph/file/6d761fdfdce1d55815be0.jpg",
+        "https://telegra.ph/file/94984532dd608428ab691.jpg",
+        "https://telegra.ph/file/54139cbf962ece6d0821f.jpg",
+        "https://telegra.ph/file/5ae00d3e66e3610ba28be.jpg",
+        "https://telegra.ph/file/8aa4740e158a65c39b06b.jpg",
+        "https://telegra.ph/file/e7c7819ee34ec02592279.jpg"
+    ]
+};

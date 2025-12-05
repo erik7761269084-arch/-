@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1696,
+    "title": "[森島コン] ムラムラしたらおねーさんがすぐ駆けつけてくれる島",
+    "sourceUrl": "https://telegra.ph/森島コン-ムラムラしたらおねーさんがすぐ駆けつけてくれる島-08-31",
+    "images": [
+        "https://telegra.ph/file/ee7c4a3b8091842905bcc.jpg",
+        "https://telegra.ph/file/7c932c8478e0e032656bd.jpg",
+        "https://telegra.ph/file/6b459eaf779f2ece2f332.jpg",
+        "https://telegra.ph/file/6c3d8f04eeebb0b2a96c1.jpg",
+        "https://telegra.ph/file/04315aa708d76f29b70df.jpg",
+        "https://telegra.ph/file/e706674ad5d9876a64445.jpg",
+        "https://telegra.ph/file/4b2b79afc4cf33af5c859.jpg",
+        "https://telegra.ph/file/0fa7c34c76d78dc28362e.jpg",
+        "https://telegra.ph/file/f0b3f84d76f72cbb35729.jpg",
+        "https://telegra.ph/file/78e11ee78ebdcd4a996b4.jpg",
+        "https://telegra.ph/file/be6041b731339a4570862.jpg",
+        "https://telegra.ph/file/3843c593af7e8ef79c6ff.jpg",
+        "https://telegra.ph/file/dd4d3f1c3d739b4f4a173.jpg",
+        "https://telegra.ph/file/99a190e7279bec6d250ea.jpg",
+        "https://telegra.ph/file/be94f5895ac16d171ec59.jpg",
+        "https://telegra.ph/file/69eeaf5bbd5c2e714d3f9.jpg",
+        "https://telegra.ph/file/d783929bbc6a717fb9171.jpg",
+        "https://telegra.ph/file/ccadff2da697ef5e08a9b.jpg",
+        "https://telegra.ph/file/b924ece46a3c45aa6729f.jpg",
+        "https://telegra.ph/file/fee3411ac1f3e51f435e8.jpg",
+        "https://telegra.ph/file/1834c47060c46daa470d5.jpg",
+        "https://telegra.ph/file/1ba0cb55d2a385402a9cc.jpg",
+        "https://telegra.ph/file/61ca219399d662e4dd327.jpg",
+        "https://telegra.ph/file/221442f01e88a966b51ff.jpg"
+    ]
+};

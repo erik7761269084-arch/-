@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 881,
+    "title": "[きょくちょ] 楓と鈴 6 (COMIC BAVEL 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/きょくちょ-楓と鈴-6-COMIC-BAVEL-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/fea08c9319dcfb862f29d.jpg",
+        "https://telegra.ph/file/3451f382f50bd9a2abe49.jpg",
+        "https://telegra.ph/file/d2e1abf11bad3c54c8643.jpg",
+        "https://telegra.ph/file/e977c8982eab98a092e3c.jpg",
+        "https://telegra.ph/file/8b13f2c7e673be050d202.jpg",
+        "https://telegra.ph/file/5fef664de4ce3aedf53b2.jpg",
+        "https://telegra.ph/file/01c94396e5de50c44eb95.jpg",
+        "https://telegra.ph/file/4148d378f09be0d611c87.jpg",
+        "https://telegra.ph/file/822e88b65b50b4b5c57b7.jpg",
+        "https://telegra.ph/file/aa5ff324d73f643c6064f.jpg",
+        "https://telegra.ph/file/960c8aeffe9859c97cc6c.jpg",
+        "https://telegra.ph/file/168c1f39acad2106ea314.jpg",
+        "https://telegra.ph/file/ec889f7232a8178d98431.jpg",
+        "https://telegra.ph/file/d684e4c926dc38f965b6d.jpg",
+        "https://telegra.ph/file/37ac103df732c76d65d39.jpg",
+        "https://telegra.ph/file/9116b5e0f2e8a8efef0b7.jpg",
+        "https://telegra.ph/file/84a9cb7f949395759fd7b.jpg",
+        "https://telegra.ph/file/778ec955521faaea1680c.jpg",
+        "https://telegra.ph/file/fa2a4f05df39d3a50f178.jpg",
+        "https://telegra.ph/file/56df4e6b60d830783bca4.jpg",
+        "https://telegra.ph/file/366509511b4640f461456.jpg",
+        "https://telegra.ph/file/497b82211a611c5ed5cf7.jpg",
+        "https://telegra.ph/file/4cbc97c0689fce9577789.jpg",
+        "https://telegra.ph/file/01b3ce3433ad14231baaf.jpg",
+        "https://telegra.ph/file/de2fe2198314e15b49313.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ]
+};

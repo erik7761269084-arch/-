@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4671,
+    "title": "[砂川多良] 罪悪感と快楽主義 (若妻蟻地獄)",
+    "sourceUrl": "https://telegra.ph/砂川多良-罪悪感と快楽主義-若妻蟻地獄-08-31",
+    "images": [
+        "https://telegra.ph/file/be8067228b010da53cb93.jpg",
+        "https://telegra.ph/file/63acf145a30fea7a179a8.jpg",
+        "https://telegra.ph/file/50ab4b1c1d4da0205881d.jpg",
+        "https://telegra.ph/file/155a547ac27ae7218fc58.jpg",
+        "https://telegra.ph/file/995a48f2f0c91b68170df.jpg",
+        "https://telegra.ph/file/c78082c6778ec7710f869.jpg",
+        "https://telegra.ph/file/224bbb5122c98f2261ca9.jpg",
+        "https://telegra.ph/file/df458c959dea4bd402801.jpg",
+        "https://telegra.ph/file/2ee72c9ffa5246da1243f.jpg",
+        "https://telegra.ph/file/4c3fffeb3ead3683d949e.jpg",
+        "https://telegra.ph/file/70a94c23c08788441159c.jpg",
+        "https://telegra.ph/file/33e2a8a55b898a6d4dd45.jpg",
+        "https://telegra.ph/file/45184568cfc8d1a980f96.jpg",
+        "https://telegra.ph/file/50268ef1c7a8a2af0307a.jpg",
+        "https://telegra.ph/file/da027c7bcfad6f472139b.jpg",
+        "https://telegra.ph/file/e05a59affdd79263adff4.jpg",
+        "https://telegra.ph/file/46468b99360f695c49271.jpg",
+        "https://telegra.ph/file/80d5f150b5688ebbca1d0.jpg",
+        "https://telegra.ph/file/5ad33a057cabd80400cdc.jpg",
+        "https://telegra.ph/file/d406afe8eeb3193114f26.jpg",
+        "https://telegra.ph/file/0d01ca07a694a830b6fce.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/33bdabe903e1ca04cc292.jpg"
+    ]
+};

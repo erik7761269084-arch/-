@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5518,
+    "title": "[緑いろ] 人目を気にして手つなぎデート",
+    "sourceUrl": "https://telegra.ph/緑いろ-人目を気にして手つなぎデート-08-31",
+    "images": [
+        "https://telegra.ph/file/a53771577729e27cea785.jpg",
+        "https://telegra.ph/file/4301e9620cb5ef70f6590.jpg",
+        "https://telegra.ph/file/d4a5f674d622dec7d3ea2.jpg",
+        "https://telegra.ph/file/08e7bb16d0e59a75f30bd.jpg",
+        "https://telegra.ph/file/51827bab9f33856a0e1c2.jpg",
+        "https://telegra.ph/file/5f5894c6217ea6469237c.jpg",
+        "https://telegra.ph/file/c8b3ef755e455b6870f60.jpg",
+        "https://telegra.ph/file/a96d0368682c6839ca06a.jpg",
+        "https://telegra.ph/file/f5a25e4565181abb20d2c.jpg",
+        "https://telegra.ph/file/626b205d145d33361578e.jpg",
+        "https://telegra.ph/file/a2df2719e06d306a3f2e9.jpg",
+        "https://telegra.ph/file/1802e04a9421c509b08fd.jpg",
+        "https://telegra.ph/file/663112c4ab7beade2ff6e.jpg",
+        "https://telegra.ph/file/37093c423e054995ebb05.jpg",
+        "https://telegra.ph/file/685a272ced2c7c9f85459.jpg",
+        "https://telegra.ph/file/3ed64ed96fa0becb90168.jpg",
+        "https://telegra.ph/file/15edd364ce1227cd6fd5e.jpg",
+        "https://telegra.ph/file/2d45951cb45b1f7affe13.jpg",
+        "https://telegra.ph/file/4361f7edaaa944415a7cd.jpg",
+        "https://telegra.ph/file/deaa3974f9f1e12a84c29.jpg",
+        "https://telegra.ph/file/d5a757d9561b2132a4e26.jpg",
+        "https://telegra.ph/file/b344d73a3e94d7244b160.jpg",
+        "https://telegra.ph/file/a8735d78727f633d22380.jpg",
+        "https://telegra.ph/file/45558a83deac24fd15db5.jpg"
+    ]
+};

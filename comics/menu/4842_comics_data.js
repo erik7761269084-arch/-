@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4842,
+    "title": "[ロリっ子大好きクラブ] 眠ル鯨 (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/ロリっ子大好きクラブ-眠ル鯨-ブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/3750ace8e181a77c09b94.jpg",
+        "https://telegra.ph/file/c8a13285cb82c6335e230.jpg",
+        "https://telegra.ph/file/14425a39f333220d45204.jpg",
+        "https://telegra.ph/file/150f7464ec5b272383558.jpg",
+        "https://telegra.ph/file/66a93e4656f0164d736c2.jpg",
+        "https://telegra.ph/file/ef77a5c2f6e499996621f.jpg",
+        "https://telegra.ph/file/fa7cb3b43018a5a59e367.jpg",
+        "https://telegra.ph/file/5a7908cbd9c68f5531c0d.jpg",
+        "https://telegra.ph/file/4fdd87ac34186181126ca.jpg",
+        "https://telegra.ph/file/d698c2e157d69467ba7e8.jpg",
+        "https://telegra.ph/file/0384038cca95482512bc1.jpg",
+        "https://telegra.ph/file/944753ecd2099dbb23d27.jpg",
+        "https://telegra.ph/file/216db2b5d3ec99db61970.jpg",
+        "https://telegra.ph/file/8ca78ffc7959836c55bd7.jpg",
+        "https://telegra.ph/file/953ec6419d04e5928158c.jpg",
+        "https://telegra.ph/file/afb652e5f1fe32479e93b.jpg",
+        "https://telegra.ph/file/efbdee6a637cc5b8ec855.jpg",
+        "https://telegra.ph/file/ebe20e84ab5a2f81e733d.jpg",
+        "https://telegra.ph/file/b99abb75126a4790b5026.jpg",
+        "https://telegra.ph/file/660ec57f5070bc7270916.jpg",
+        "https://telegra.ph/file/7f8ff8106bb9411c99ee8.jpg",
+        "https://telegra.ph/file/073f057c3b8db6159b0d3.jpg",
+        "https://telegra.ph/file/ac8437638161a304cb67c.jpg",
+        "https://telegra.ph/file/5b2789ea732ee5181812d.jpg",
+        "https://telegra.ph/file/a68786fe7524f996df968.jpg",
+        "https://telegra.ph/file/f6b2c22f84bbfb0bd4fca.jpg"
+    ]
+};

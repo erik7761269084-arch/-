@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5359,
+    "title": "[カムリズム (鬼頭サケル)] 雌猫吐息 (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/カムリズム-鬼頭サケル-雌猫吐息-ブルーアーカイブ-08-31-3",
+    "images": [
+        "https://telegra.ph/file/68e68c28754971b4b230d.jpg",
+        "https://telegra.ph/file/41315058a10fff6db4cb8.jpg",
+        "https://telegra.ph/file/53c2abab8ed4823a54536.png",
+        "https://telegra.ph/file/e4a071d9ca73f736ea396.png",
+        "https://telegra.ph/file/1d9f256079e2b88057dc9.png",
+        "https://telegra.ph/file/fda5810e923e388123f1e.png",
+        "https://telegra.ph/file/b6f4b97fa4ce6ee92f8aa.png",
+        "https://telegra.ph/file/d82dc0d9fdd05aca85c65.png",
+        "https://telegra.ph/file/16b4c55cd81754e70fd9d.png",
+        "https://telegra.ph/file/a631138a1b60912b9ff65.png",
+        "https://telegra.ph/file/becfbaadd40e832c132f5.png",
+        "https://telegra.ph/file/291e7071cb4d19df896a0.png",
+        "https://telegra.ph/file/bbd339fc784a93bdc7ca2.png",
+        "https://telegra.ph/file/96e445fc20f4d12f3d536.png",
+        "https://telegra.ph/file/8e49e912a55d6f37ed46f.png",
+        "https://telegra.ph/file/a80cb3142f9444f808a7c.png",
+        "https://telegra.ph/file/b3e727f744fe56acb0a1e.png",
+        "https://telegra.ph/file/4dfbcc5195e31c76a1724.png",
+        "https://telegra.ph/file/656038f7985e4ba073ff6.png",
+        "https://telegra.ph/file/26e3e1ee8274969acf456.jpg",
+        "https://telegra.ph/file/1d7076ac3abcfdcf33021.jpg",
+        "https://telegra.ph/file/0c8902c14b31c78b9b58a.png",
+        "https://telegra.ph/file/f0e0b46b5d16b41735453.png",
+        "https://telegra.ph/file/76d28b75913b5256211b7.png",
+        "https://telegra.ph/file/5c85d6e14baa63101a7f9.jpg",
+        "https://telegra.ph/file/4f61105301623a129f111.png"
+    ]
+};

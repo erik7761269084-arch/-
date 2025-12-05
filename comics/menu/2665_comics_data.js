@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2665,
+    "title": "(秋葉原超同人祭) [ディオゲネスクラブ (灰川ヘムレン)] ひびきと汗だくトレーニング (ダンベル何キロ持てる?)",
+    "sourceUrl": "https://telegra.ph/秋葉原超同人祭-ディオゲネスクラブ-灰川ヘムレン-ひびきと汗だくトレーニング-ダンベル何キロ持てる-08-31",
+    "images": [
+        "https://telegra.ph/file/1fce0f260bae11227cb15.jpg",
+        "https://telegra.ph/file/dc0ed6cb937c843892693.jpg",
+        "https://telegra.ph/file/50ad0ce8c06122a3d749b.jpg",
+        "https://telegra.ph/file/21546956f681e3b93777c.jpg",
+        "https://telegra.ph/file/39dc9a88397ea339bce80.jpg",
+        "https://telegra.ph/file/3c00059e482796f9f224a.jpg",
+        "https://telegra.ph/file/fa00addc1b349f9d25bdf.jpg",
+        "https://telegra.ph/file/55232fc085b915027ce37.jpg",
+        "https://telegra.ph/file/a9b339e8bb154eaa7835d.jpg",
+        "https://telegra.ph/file/f12d3b01c2e156a82ab27.jpg",
+        "https://telegra.ph/file/d285f736cf737cccdf142.jpg",
+        "https://telegra.ph/file/707beaa5e80224879735b.jpg",
+        "https://telegra.ph/file/76c4d0e030ee915132342.jpg",
+        "https://telegra.ph/file/3e1685f8006dd65a3b71a.jpg",
+        "https://telegra.ph/file/485017a8f6b13ba6a33f1.jpg",
+        "https://telegra.ph/file/9b456b84bdf8cdf299813.jpg",
+        "https://telegra.ph/file/e44a9932c8a4f4856349b.jpg",
+        "https://telegra.ph/file/1f90b5859fb4f11cb3f8e.jpg",
+        "https://telegra.ph/file/393f7e3a53304fdd781d4.jpg",
+        "https://telegra.ph/file/290e6f7ed434c46926bad.jpg",
+        "https://telegra.ph/file/c24355a38f8155d78f9c2.jpg",
+        "https://telegra.ph/file/97416c9917ebefc450e40.jpg",
+        "https://telegra.ph/file/be0b5530ff47c14e316e1.jpg",
+        "https://telegra.ph/file/9abb182222311c0e9b912.jpg",
+        "https://telegra.ph/file/6f710b09df59987eedd8e.jpg",
+        "https://telegra.ph/file/d9c5dd869f91c0dbaf0eb.jpg"
+    ]
+};

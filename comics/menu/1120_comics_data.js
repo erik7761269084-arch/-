@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1120,
+    "title": "[虎マシーン (春日部太郎)] 淫乱風紀指導 (ToLOVEる -とらぶる-)",
+    "sourceUrl": "https://telegra.ph/虎マシーン-春日部太郎-淫乱風紀指導-ToLOVEる--とらぶる-08-31",
+    "images": [
+        "https://telegra.ph/file/10fe8273e2f6fa1fc6270.jpg",
+        "https://telegra.ph/file/75f38c5f3adf2f28b78e8.jpg",
+        "https://telegra.ph/file/b4521e337a125ebe7ae9c.jpg",
+        "https://telegra.ph/file/2777d0c03fe2a350b327e.jpg",
+        "https://telegra.ph/file/726f804507d468597a362.jpg",
+        "https://telegra.ph/file/2e6bb282a62a4d0c77f0c.jpg",
+        "https://telegra.ph/file/c0c2c10b1f2b1cf79625d.jpg",
+        "https://telegra.ph/file/f75e493824d5b5d6719c1.jpg",
+        "https://telegra.ph/file/e97c030c4c26608f58a87.jpg",
+        "https://telegra.ph/file/8fb38a1c676e9fbdc979a.jpg",
+        "https://telegra.ph/file/3189f48059ee0fde0192d.jpg",
+        "https://telegra.ph/file/2e03b0e867a5421ff88cc.jpg",
+        "https://telegra.ph/file/deee9a2fa27bdc3c59d25.jpg",
+        "https://telegra.ph/file/0544c951652f3116ca55a.jpg",
+        "https://telegra.ph/file/2e82a7ec209159fc54d71.jpg",
+        "https://telegra.ph/file/133b01675790b0995ae59.jpg",
+        "https://telegra.ph/file/676697f32ea54e65f86a4.jpg",
+        "https://telegra.ph/file/8f55db059fdfcbefda207.jpg",
+        "https://telegra.ph/file/a53b4dee2e3445f2b7bf5.jpg",
+        "https://telegra.ph/file/618c612816cae950df4ff.jpg",
+        "https://telegra.ph/file/0497fc504c6adabb51e01.jpg",
+        "https://telegra.ph/file/9b54e956c25bb1e978f20.jpg",
+        "https://telegra.ph/file/3800ebca8e5587356db48.jpg",
+        "https://telegra.ph/file/f9208a9b50c548d81cdd6.jpg"
+    ]
+};

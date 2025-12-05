@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6860,
+    "title": "ツラいもん",
+    "sourceUrl": "https://telegra.ph/ツラいもん-08-31",
+    "images": [
+        "https://telegra.ph/file/16759863571dcb1ac8828.jpg",
+        "https://telegra.ph/file/8c21ed3b4ae533d9c5660.jpg",
+        "https://telegra.ph/file/3c093285db9065cf7b5ad.jpg",
+        "https://telegra.ph/file/e52a9a8db66ee55e1c1bd.jpg",
+        "https://telegra.ph/file/a8bbcedfe291c8a709de2.jpg",
+        "https://telegra.ph/file/6326ef36d002fd1192ec4.jpg",
+        "https://telegra.ph/file/9608151926b7cace29b18.jpg",
+        "https://telegra.ph/file/54f5c5b04c595f0be7b40.jpg",
+        "https://telegra.ph/file/ea6eb605ad3ebe54a2de3.jpg",
+        "https://telegra.ph/file/47f5420ae47dfec2dc6f6.jpg",
+        "https://telegra.ph/file/0c00de4ffc25cd6c2b5da.jpg",
+        "https://telegra.ph/file/4b4b3256f9e9d0db3a301.jpg",
+        "https://telegra.ph/file/4ec01cf5a81e1223f39c0.jpg",
+        "https://telegra.ph/file/7d05625c776ae2f92ef61.jpg",
+        "https://telegra.ph/file/57e6f63b4e5e968425ab3.jpg",
+        "https://telegra.ph/file/73944ebd6f96be316bd8f.jpg",
+        "https://telegra.ph/file/1859336976bfe5389169c.jpg",
+        "https://telegra.ph/file/43a6de0c61f5032efc031.jpg",
+        "https://telegra.ph/file/267ed642091f48aa2a90d.jpg",
+        "https://telegra.ph/file/c2ee48f0580c44a5066a5.jpg",
+        "https://telegra.ph/file/0a0a2d3bace12e13273c1.jpg",
+        "https://telegra.ph/file/a76fd2420fe570a77a5ed.jpg",
+        "https://telegra.ph/file/3bc5de4693573ef6165f6.jpg",
+        "https://telegra.ph/file/690ad788072d321b18f59.jpg"
+    ]
+};

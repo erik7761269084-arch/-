@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 222,
+    "title": "[EBA] ラブホイール 最終話 (COMIC アンスリウム 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/EBA-ラブホイール-最終話-COMIC-アンスリウム-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/920334d183312ccc76390.jpg",
+        "https://telegra.ph/file/03953fad6c34101299bf4.jpg",
+        "https://telegra.ph/file/c1f40314682eed8423aa5.jpg",
+        "https://telegra.ph/file/83ea1b456103636958e51.jpg",
+        "https://telegra.ph/file/e87f6b9d592cb84459557.jpg",
+        "https://telegra.ph/file/35c0d1df65f5cd15c7b77.jpg",
+        "https://telegra.ph/file/3eefeb90bcecca7953813.jpg",
+        "https://telegra.ph/file/e2938b9f666e94c898bb2.jpg",
+        "https://telegra.ph/file/a256473b573481a548e23.jpg",
+        "https://telegra.ph/file/b1ddc147512d2e9e40a07.jpg",
+        "https://telegra.ph/file/2da28d1304769759ac23a.jpg",
+        "https://telegra.ph/file/1554ed2fe032b6026c1fb.jpg",
+        "https://telegra.ph/file/3045ce517f0ef330370d7.jpg",
+        "https://telegra.ph/file/0972593ced6757a3ffa7b.jpg",
+        "https://telegra.ph/file/91f45ea3697e3b48aee19.jpg",
+        "https://telegra.ph/file/5d5fc5f63b10576b402d6.jpg",
+        "https://telegra.ph/file/d39b7c4cbd0bb52f7bcd2.jpg",
+        "https://telegra.ph/file/d9c0e25e4d28284c347dd.jpg",
+        "https://telegra.ph/file/2a9975d48f6f70f39b8bb.jpg",
+        "https://telegra.ph/file/fa68491b70e305275b4b0.jpg",
+        "https://telegra.ph/file/db1cbe514de071463fec5.jpg",
+        "https://telegra.ph/file/0a38f4a1c9a795358848a.jpg",
+        "https://telegra.ph/file/560eb1e00f9aac74cefc4.jpg",
+        "https://telegra.ph/file/e9e3bf1f9547db93a44b5.jpg"
+    ]
+};

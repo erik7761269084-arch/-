@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3310,
+    "title": "[まめぞう] 続・ビジネスライクな妹 (COMIC LO 2019年9月号)",
+    "sourceUrl": "https://telegra.ph/まめぞう-続ビジネスライクな妹-COMIC-LO-2019年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/cc0dd33bf2229f7afd546.jpg",
+        "https://telegra.ph/file/a1af3793fabaef6f99a0b.jpg",
+        "https://telegra.ph/file/fdab10ef03b8571c634fb.jpg",
+        "https://telegra.ph/file/1eea07c29a39a52391512.jpg",
+        "https://telegra.ph/file/9b3461f5b88a63318d478.jpg",
+        "https://telegra.ph/file/a11f67366164cd7ce3e4c.jpg",
+        "https://telegra.ph/file/f725a57c2df1b8d5788e4.jpg",
+        "https://telegra.ph/file/eaad2321941e4168ed699.jpg",
+        "https://telegra.ph/file/a1f1ef08215b870d7e69a.jpg",
+        "https://telegra.ph/file/754857536a1daaba82860.jpg",
+        "https://telegra.ph/file/1777d661d9fe93c8f6667.jpg",
+        "https://telegra.ph/file/d0f25997a123051072c9a.jpg",
+        "https://telegra.ph/file/2940a0ff1553cee43a584.jpg",
+        "https://telegra.ph/file/bc9c58cb1ca1fcf268a06.jpg",
+        "https://telegra.ph/file/37654cb8f503c1426a311.jpg",
+        "https://telegra.ph/file/9c610ae107f2328b60a1c.jpg",
+        "https://telegra.ph/file/43cda68a6991b0148acd4.jpg",
+        "https://telegra.ph/file/0c9cd3aea2e2d60b09620.jpg",
+        "https://telegra.ph/file/4210593e4f02c53e7c577.jpg",
+        "https://telegra.ph/file/be3fb7982b2635e0a7dae.jpg",
+        "https://telegra.ph/file/050927e27b1762fdb1469.jpg",
+        "https://telegra.ph/file/08da1b7217f98690b26d5.jpg",
+        "https://telegra.ph/file/75b67577c8ab675cdcc01.jpg"
+    ]
+};

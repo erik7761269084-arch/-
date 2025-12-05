@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4299,
+    "title": "(FF31) [くみこ] DoubleSex (モンスターハンター)",
+    "sourceUrl": "https://telegra.ph/FF31-くみこ-DoubleSex-モンスターハンター-08-31",
+    "images": [
+        "https://telegra.ph/file/f2000f04ac8a95b271fda.jpg",
+        "https://telegra.ph/file/144f8f57ec931b8ceca8d.jpg",
+        "https://telegra.ph/file/631653c2d0140f3776273.jpg",
+        "https://telegra.ph/file/04cbd044d9ee9e20589cc.jpg",
+        "https://telegra.ph/file/65a1e1a19874c65adf35f.jpg",
+        "https://telegra.ph/file/a78a491d0a6ef86813bbf.jpg",
+        "https://telegra.ph/file/7f31800c465df78b0cdde.jpg",
+        "https://telegra.ph/file/f941281d1356031803807.jpg",
+        "https://telegra.ph/file/fe80a17378e245fc9047f.jpg",
+        "https://telegra.ph/file/64d1bb3204409c0d38c37.jpg",
+        "https://telegra.ph/file/eff61d059b2a7522d2f66.jpg",
+        "https://telegra.ph/file/f983dbfef94f060c2564b.jpg",
+        "https://telegra.ph/file/5399c327d20e1beaa2485.jpg",
+        "https://telegra.ph/file/d56b751717456ca95869b.jpg",
+        "https://telegra.ph/file/5df7ebad06fa3ff50f396.jpg",
+        "https://telegra.ph/file/7cf39e356731cac9eaa51.jpg",
+        "https://telegra.ph/file/6e4f7eea573010330f19b.jpg",
+        "https://telegra.ph/file/f14c156cc7e23a331e9d4.jpg",
+        "https://telegra.ph/file/6597d22ca05c4c394fdcf.jpg",
+        "https://telegra.ph/file/7ce185ca0bf6b36347991.jpg",
+        "https://telegra.ph/file/4e9d56e4ff89af8cd6493.jpg",
+        "https://telegra.ph/file/add15143d70f4cb2d2d22.jpg",
+        "https://telegra.ph/file/618eec2112ca6295a5ea8.jpg",
+        "https://telegra.ph/file/181ea3d84f0d6f966622d.jpg",
+        "https://telegra.ph/file/81ca9ece59d370d0c7bfe.jpg",
+        "https://telegra.ph/file/47e05f4c85f7fde82e556.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2925,
+    "title": "[BRLL] 魔物のごちそう (二次元コミックマガジン 弱体化陵辱 成り下がった雑魚ヒロインにヤりたい放題！Vol.2)",
+    "sourceUrl": "https://telegra.ph/BRLL-魔物のごちそう-二次元コミックマガジン-弱体化陵辱-成り下がった雑魚ヒロインにヤりたい放題Vol2-08-31",
+    "images": [
+        "https://telegra.ph/file/76eb1a97e67bf17116d67.jpg",
+        "https://telegra.ph/file/f0cdde5a03b3df7707fad.jpg",
+        "https://telegra.ph/file/2bd10a0cfc7ed7cbe622a.jpg",
+        "https://telegra.ph/file/336b857e41b1c0eceb25e.jpg",
+        "https://telegra.ph/file/efc4a811d30dc753a2189.jpg",
+        "https://telegra.ph/file/28ae2d9b0f526ed366b6d.jpg",
+        "https://telegra.ph/file/9770c5d07c9073621f97f.jpg",
+        "https://telegra.ph/file/14281c60b9f5250660a75.jpg",
+        "https://telegra.ph/file/e1fad188068b744105d7d.jpg",
+        "https://telegra.ph/file/e746c4100683bef1a2386.jpg",
+        "https://telegra.ph/file/2b0b16d242ddc279a3053.jpg",
+        "https://telegra.ph/file/8d2c0c6c7748ac49f2f26.jpg",
+        "https://telegra.ph/file/64927104d6d285ea2476d.jpg",
+        "https://telegra.ph/file/c192c687b7db8c903eec9.jpg",
+        "https://telegra.ph/file/7cf2626ad70152fa05196.jpg",
+        "https://telegra.ph/file/80e447eef3173344d0d98.jpg",
+        "https://telegra.ph/file/f4c398b3cc9e13e4aec54.jpg",
+        "https://telegra.ph/file/79fabe285113e92e1f114.jpg",
+        "https://telegra.ph/file/f24e4223c0ca321710850.jpg",
+        "https://telegra.ph/file/101ed7aa29872fa7a20ea.jpg",
+        "https://telegra.ph/file/9d1199b3bde7d52921476.jpg",
+        "https://telegra.ph/file/d33339cfbc60866a7c2d1.jpg",
+        "https://telegra.ph/file/9086839bdbc1834df570e.jpg"
+    ]
+};

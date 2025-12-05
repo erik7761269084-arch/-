@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6920,
+    "title": "初めての献精",
+    "sourceUrl": "https://telegra.ph/初めての献精-08-31",
+    "images": [
+        "https://telegra.ph/file/d370acc8cd93226058df0.jpg",
+        "https://telegra.ph/file/2117ebd4f616c9f9dcc38.jpg",
+        "https://telegra.ph/file/e5880a3d179221708a2e1.jpg",
+        "https://telegra.ph/file/f87db49341a61da79d00f.jpg",
+        "https://telegra.ph/file/6977a5fdc0741b0e38dd6.jpg",
+        "https://telegra.ph/file/fb92983d057a616d9ade7.jpg",
+        "https://telegra.ph/file/9e5b58521946732feaa35.jpg",
+        "https://telegra.ph/file/97abf60b9fbd70dd31444.jpg",
+        "https://telegra.ph/file/6bbe1b4cc0b87f7a02b71.jpg",
+        "https://telegra.ph/file/cb65db5c84ed2837cf5c2.jpg",
+        "https://telegra.ph/file/27543a01dd1da94303b4a.jpg",
+        "https://telegra.ph/file/1fdbe3c0a72c7aac6d543.jpg",
+        "https://telegra.ph/file/5ebfac0c0377519bd8ae7.jpg",
+        "https://telegra.ph/file/ec974d8ab11b0f71497b8.jpg",
+        "https://telegra.ph/file/b7c271f3234170b0228d0.jpg",
+        "https://telegra.ph/file/9d0a61bc0dcd8e43bfcdc.jpg",
+        "https://telegra.ph/file/24ba021fcbcebd745e082.jpg",
+        "https://telegra.ph/file/a4e6269b721d3f45aed0a.jpg",
+        "https://telegra.ph/file/6205146cb115a468a954e.jpg",
+        "https://telegra.ph/file/0121310911785507cb6d5.jpg",
+        "https://telegra.ph/file/9523f2d447996f04fc802.jpg",
+        "https://telegra.ph/file/6d43bfba558cec7eec45e.jpg",
+        "https://telegra.ph/file/0f68f034443b7dad4adc0.jpg",
+        "https://telegra.ph/file/51bcfd40ebd21c1eb8a21.jpg"
+    ]
+};

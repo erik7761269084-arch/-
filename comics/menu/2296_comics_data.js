@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2296,
+    "title": "(秋季例大祭8) [Home Sweet Home (ししき)] 妖夢ちゃんがアダルトグッズのレビューをする話 (東方Project)",
+    "sourceUrl": "https://telegra.ph/秋季例大祭8-Home-Sweet-Home-ししき-妖夢ちゃんがアダルトグッズのレビューをする話-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/275866874e75bd53c0029.jpg",
+        "https://telegra.ph/file/6755ef4c0982be796532e.jpg",
+        "https://telegra.ph/file/41a607031486649949fff.jpg",
+        "https://telegra.ph/file/8df27341154c327f5ac3f.jpg",
+        "https://telegra.ph/file/a3c0aff06fb25fd7939be.jpg",
+        "https://telegra.ph/file/4e37c822570eb09aa06f7.jpg",
+        "https://telegra.ph/file/4ae60ef487deb434e9ad0.jpg",
+        "https://telegra.ph/file/c676e42b1392db40f2783.jpg",
+        "https://telegra.ph/file/8e6a8cbe35a2d876743e0.jpg",
+        "https://telegra.ph/file/a7e18751b1e68614f15e7.jpg",
+        "https://telegra.ph/file/89a510e6ea8643d5adfbe.jpg",
+        "https://telegra.ph/file/3a0456f5f394162a6aed8.jpg",
+        "https://telegra.ph/file/3f6169e2e44bf9045d9b7.jpg",
+        "https://telegra.ph/file/5492cd7b90e723a73369e.jpg",
+        "https://telegra.ph/file/367dda4d7ad2133cada5f.jpg",
+        "https://telegra.ph/file/293380246d9ae744ae275.jpg",
+        "https://telegra.ph/file/4a9d5d31fce0e99ebcabf.jpg",
+        "https://telegra.ph/file/118a7bb26208dd5dce1de.jpg",
+        "https://telegra.ph/file/efa46daf8570e2ed361e6.jpg",
+        "https://telegra.ph/file/ba97ad164a5042a57b65c.jpg",
+        "https://telegra.ph/file/c65a892a9e3497e87a17e.jpg",
+        "https://telegra.ph/file/967c86c24c8d0f45850af.jpg",
+        "https://telegra.ph/file/6b89f2d558cae45eb713a.jpg",
+        "https://telegra.ph/file/4e9248f6f8448d3e1abb7.jpg",
+        "https://telegra.ph/file/88ffb5267f79c93e010d9.jpg",
+        "https://telegra.ph/file/e5a08719c2db03e39f4ad.jpg"
+    ]
+};

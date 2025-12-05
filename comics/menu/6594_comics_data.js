@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6594,
+    "title": "大和とケッコンしますた! (艦隊これくしょん-艦これ-)",
+    "sourceUrl": "https://telegra.ph/大和とケッコンしますた-艦隊これくしょん-艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/88eae0719517089652245.jpg",
+        "https://telegra.ph/file/05d8ca81d3ba444c07a70.jpg",
+        "https://telegra.ph/file/dfb5899af63eba7d89362.jpg",
+        "https://telegra.ph/file/ba01a63afea39ad856c72.jpg",
+        "https://telegra.ph/file/ee51eef24e8e22d6e0124.jpg",
+        "https://telegra.ph/file/808df7909f39e8272f887.jpg",
+        "https://telegra.ph/file/ece7193d825adca50d648.jpg",
+        "https://telegra.ph/file/12b88521698f9e6b116dc.jpg",
+        "https://telegra.ph/file/2cfb5e8938239865a0a3d.jpg",
+        "https://telegra.ph/file/cf4bbe6a9abbc2d3e9bd3.jpg",
+        "https://telegra.ph/file/88f21ba463965ddf35516.jpg",
+        "https://telegra.ph/file/fe5e39785ad905e3f300b.jpg",
+        "https://telegra.ph/file/1ca6b260e953ef5fbd6b8.jpg",
+        "https://telegra.ph/file/3f8055aac5a882359efd3.jpg",
+        "https://telegra.ph/file/05dbe149b16970a9b746d.jpg",
+        "https://telegra.ph/file/29077c92039ca8643bc97.jpg",
+        "https://telegra.ph/file/ff1e56000ce301c62ce9a.jpg",
+        "https://telegra.ph/file/0e4fc7ab569c64ee82c2f.jpg",
+        "https://telegra.ph/file/b73c8d4a1c3c6c92acda7.jpg",
+        "https://telegra.ph/file/4cff0762b38088fde4782.jpg",
+        "https://telegra.ph/file/4939b7ce1273eba82fb89.jpg",
+        "https://telegra.ph/file/1bc1e8e73f0f296962401.jpg",
+        "https://telegra.ph/file/706862f1e32c5b5a6b73d.jpg",
+        "https://telegra.ph/file/c8bc1dbab94e4483625aa.jpg",
+        "https://telegra.ph/file/733c3cd7c75ce99f88867.jpg"
+    ]
+};

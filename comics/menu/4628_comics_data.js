@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4628,
+    "title": "[赤セイリュウ] 初売り(COMIC 快楽天 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/赤セイリュウ-初売りCOMIC-快楽天-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ae1164f83f2d9e0366f78.jpg",
+        "https://telegra.ph/file/db158e93fcd96f1f6b699.jpg",
+        "https://telegra.ph/file/7b7b9fb421adfc6f0fdd5.jpg",
+        "https://telegra.ph/file/8fc5c2c7be90579aa4330.jpg",
+        "https://telegra.ph/file/1e341cc67187cb67704f8.jpg",
+        "https://telegra.ph/file/7a17b1dacbec791c96362.jpg",
+        "https://telegra.ph/file/d3c679b9c26dc6dd11f4a.jpg",
+        "https://telegra.ph/file/90916c22c85f0fa3f941b.jpg",
+        "https://telegra.ph/file/0704c190bc55e79da4f98.jpg",
+        "https://telegra.ph/file/5bbfbd96761d5d5c6d1be.jpg",
+        "https://telegra.ph/file/225492ed8a925b47f6c7e.jpg",
+        "https://telegra.ph/file/2d645226d04d9fd32167e.jpg",
+        "https://telegra.ph/file/221bc7a925e77ae0fb854.jpg",
+        "https://telegra.ph/file/7864a751867396c8ac701.jpg",
+        "https://telegra.ph/file/03483760671499f55f8e0.jpg",
+        "https://telegra.ph/file/45164811b203f4d8f843d.jpg",
+        "https://telegra.ph/file/d4da58a96668c008cda3b.jpg",
+        "https://telegra.ph/file/cfde741e9efa1c285b2e3.jpg",
+        "https://telegra.ph/file/e69a289baf04cb076d075.jpg",
+        "https://telegra.ph/file/1a46f43af5360dd24c05f.jpg",
+        "https://telegra.ph/file/df0f98d2c11c1d63b1742.jpg",
+        "https://telegra.ph/file/cac0e56099649184b5c75.jpg",
+        "https://telegra.ph/file/48ef8073c47b50768bb8a.jpg",
+        "https://telegra.ph/file/b4f2b6947cd9489b9de0e.jpg"
+    ]
+};

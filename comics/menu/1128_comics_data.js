@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1128,
+    "title": "[菜さん] 豚奴娼館雷電ブタ (原神)",
+    "sourceUrl": "https://telegra.ph/菜さん-豚奴娼館雷電ブタ-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/d6e95e2a21129299cbbba.jpg",
+        "https://telegra.ph/file/2ce14111050e945b64422.jpg",
+        "https://telegra.ph/file/798deab935c4a0d74bb66.jpg",
+        "https://telegra.ph/file/39ee69f3508602a6a7c7a.jpg",
+        "https://telegra.ph/file/f5d6fe34da2657b0960c2.jpg",
+        "https://telegra.ph/file/7c5430a73e4f7c75234c7.jpg",
+        "https://telegra.ph/file/618226508654c4325ce8a.jpg",
+        "https://telegra.ph/file/5a315edd02cf219319251.jpg",
+        "https://telegra.ph/file/8c98a7b510df0e3cfe11b.jpg",
+        "https://telegra.ph/file/d665159f3e1b7343d9d68.jpg",
+        "https://telegra.ph/file/fce4ce6d3055618959566.jpg",
+        "https://telegra.ph/file/7654aadccdf70c355af31.jpg",
+        "https://telegra.ph/file/dffbcc4186ebbf162dae7.jpg",
+        "https://telegra.ph/file/4726a19d26136d77269b6.jpg",
+        "https://telegra.ph/file/f21958a48a01e2770e869.jpg",
+        "https://telegra.ph/file/18f5b73f3d4dd43fc4bf8.jpg",
+        "https://telegra.ph/file/edcd6828cd7840d4f8752.jpg",
+        "https://telegra.ph/file/0bfe01cda475e4bab6895.jpg",
+        "https://telegra.ph/file/e87e1e348f3eb71efab4b.jpg",
+        "https://telegra.ph/file/ded1f9344bc7ffe34f7b5.jpg",
+        "https://telegra.ph/file/ad91c9a8bed8effcc1922.jpg",
+        "https://telegra.ph/file/c37e541105333a18b18de.jpg",
+        "https://telegra.ph/file/328255e70b2d16665e1f0.jpg",
+        "https://telegra.ph/file/1c65bcae619c3cdbb0159.jpg",
+        "https://telegra.ph/file/614435a9def7c8332b6c9.jpg",
+        "https://telegra.ph/file/7604688139d220b2528d1.jpg"
+    ]
+};

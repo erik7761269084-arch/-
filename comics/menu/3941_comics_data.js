@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3941,
+    "title": "[紫☆にゃ〜] 淫魔警察―耐性感トランスパンツ― (コミックアンリアル 2021年8月号 Vol.92)",
+    "sourceUrl": "https://telegra.ph/紫にゃ-淫魔警察耐性感トランスパンツ-コミックアンリアル-2021年8月号-Vol92-08-31",
+    "images": [
+        "https://telegra.ph/file/a6820685b33f16f6f4b8f.jpg",
+        "https://telegra.ph/file/94dab2963b18918cdd518.jpg",
+        "https://telegra.ph/file/b14b48c15fe747d3f4c98.jpg",
+        "https://telegra.ph/file/214c33ebe59bbf48dd708.jpg",
+        "https://telegra.ph/file/67056c06112bb2340077b.jpg",
+        "https://telegra.ph/file/32d3eccb1042dbbd1a522.jpg",
+        "https://telegra.ph/file/7347590bd250d36f41529.jpg",
+        "https://telegra.ph/file/363aa8cf87ad4f9e63e90.jpg",
+        "https://telegra.ph/file/72c3d9da6a91661bc35e9.jpg",
+        "https://telegra.ph/file/44efcffc2100dea125059.jpg",
+        "https://telegra.ph/file/676e01f6ff6ecdf562664.jpg",
+        "https://telegra.ph/file/9d55d1e2345589ddc72f6.jpg",
+        "https://telegra.ph/file/e2bed2b5bebbad114c821.jpg",
+        "https://telegra.ph/file/c327aec1b4f246a387c57.jpg",
+        "https://telegra.ph/file/020a01ca0c3888358bc43.jpg",
+        "https://telegra.ph/file/698230dda9492a7f332fa.jpg",
+        "https://telegra.ph/file/a9056b08537932c152ab6.jpg",
+        "https://telegra.ph/file/a8632f84bbeb076b3cef4.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/739cfa05d0bdd035b18bd.png",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/f27e1bf1a5a4ba0aad9a8.jpg"
+    ]
+};

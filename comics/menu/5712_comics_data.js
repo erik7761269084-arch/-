@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5712,
+    "title": "[オオカミうお] 義父",
+    "sourceUrl": "https://telegra.ph/オオカミうお-義父-08-31",
+    "images": [
+        "https://telegra.ph/file/2c445eabc9be17d48e61b.jpg",
+        "https://telegra.ph/file/4d4a36c8ab52a6c7fa36a.jpg",
+        "https://telegra.ph/file/23c29fac2f42e2eee801e.jpg",
+        "https://telegra.ph/file/3e6e00b37b24a272868b2.jpg",
+        "https://telegra.ph/file/89a1aa31aaf5c2f24c401.jpg",
+        "https://telegra.ph/file/3f81d19feb4312cd329f9.jpg",
+        "https://telegra.ph/file/2817af3dabe1217a36edc.jpg",
+        "https://telegra.ph/file/a5ae47f6386c7b339dd50.jpg",
+        "https://telegra.ph/file/91b50d35e2783ea8a42db.jpg",
+        "https://telegra.ph/file/3997f1d3b8579101634c8.jpg",
+        "https://telegra.ph/file/ad30ee47e55b844017eed.jpg",
+        "https://telegra.ph/file/09187231dcd13528c79c4.jpg",
+        "https://telegra.ph/file/027bf7de5c19ac2cac300.jpg",
+        "https://telegra.ph/file/8c51cd43e67247d23f802.jpg",
+        "https://telegra.ph/file/54c716e82b5e2651212cb.jpg",
+        "https://telegra.ph/file/029d41b15444ddc0b1810.jpg",
+        "https://telegra.ph/file/dc137b3232fd363429793.jpg",
+        "https://telegra.ph/file/9ead212a5aadf426b0755.jpg",
+        "https://telegra.ph/file/b79b7d9d44d956f87f686.jpg",
+        "https://telegra.ph/file/2b865a4bbcaca44cfc6c9.jpg",
+        "https://telegra.ph/file/8a921802e2c244dbdc808.jpg",
+        "https://telegra.ph/file/848b729e32dfe3e24ad1f.jpg",
+        "https://telegra.ph/file/8b4f789dabcbfc8ba2e7a.jpg",
+        "https://telegra.ph/file/8457c4d67fdae9abd0439.jpg"
+    ]
+};

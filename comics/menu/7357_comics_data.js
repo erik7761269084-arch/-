@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7357,
+    "title": "Nylon Bitch Trap 深夜のコンビニにて…",
+    "sourceUrl": "https://telegra.ph/Nylon-Bitch-Trap-深夜のコンビニにて-08-31",
+    "images": [
+        "https://telegra.ph/file/96c1305dad8499b9dd880.jpg",
+        "https://telegra.ph/file/72e4747c9cc503e5b0f97.jpg",
+        "https://telegra.ph/file/80413fb16abe4a18261f8.jpg",
+        "https://telegra.ph/file/4c9e4d22edc6973ec8917.jpg",
+        "https://telegra.ph/file/5ee8af3df91a22fc110cd.jpg",
+        "https://telegra.ph/file/4222a8245b113409cee4a.jpg",
+        "https://telegra.ph/file/8c259b80d6db23abb2255.jpg",
+        "https://telegra.ph/file/9a625c9646caa83cbfe5d.jpg",
+        "https://telegra.ph/file/6baae3d74f62b73628694.jpg",
+        "https://telegra.ph/file/7e2c3fc0c10322cf65b69.jpg",
+        "https://telegra.ph/file/91ee72848ec2e722eec8c.jpg",
+        "https://telegra.ph/file/f3b07629ef10f0d545695.jpg",
+        "https://telegra.ph/file/2e30e1789b5ffdc7c9ad4.jpg",
+        "https://telegra.ph/file/2a8b736992969c423a1e6.jpg",
+        "https://telegra.ph/file/cd64ac1dabb7bcde74982.jpg",
+        "https://telegra.ph/file/f4239e5b1bd05aeac6d1b.jpg",
+        "https://telegra.ph/file/0b4b5cddcf4adb1df4136.jpg",
+        "https://telegra.ph/file/98a55d5fc3f27fb77088a.jpg",
+        "https://telegra.ph/file/e69f973b8af799d0447c1.jpg",
+        "https://telegra.ph/file/45b1fce6dd182c64397be.jpg",
+        "https://telegra.ph/file/c2468ec1ce058acc25586.jpg",
+        "https://telegra.ph/file/1f39ec770a7000ba579f6.jpg",
+        "https://telegra.ph/file/6af9e3d87cf5d3b59c77d.jpg",
+        "https://telegra.ph/file/49f446592d19be8125d0d.jpg"
+    ]
+};

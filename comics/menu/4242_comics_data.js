@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4242,
+    "title": "(FF37) [鉛筆盒、魚乾] 御主什麼的才不喜歡呢 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/FF37-鉛筆盒魚乾-御主什麼的才不喜歡呢-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/d650c88c7940d2f412341.jpg",
+        "https://telegra.ph/file/dfd9ec03e7e5f1ef41971.jpg",
+        "https://telegra.ph/file/bccfd42d2356d179c34ed.jpg",
+        "https://telegra.ph/file/7f92c79f657b7cb346357.jpg",
+        "https://telegra.ph/file/b1ecdd8492756e7ded4b3.jpg",
+        "https://telegra.ph/file/2ceea360eeb7a6ddb7047.jpg",
+        "https://telegra.ph/file/5f013476a0e0c1a4a08ac.jpg",
+        "https://telegra.ph/file/52da17e014f994c8f060e.jpg",
+        "https://telegra.ph/file/23f5813420c499379b8f1.jpg",
+        "https://telegra.ph/file/90039e5db2b2a04df2e28.jpg",
+        "https://telegra.ph/file/c0f9f7bbc44c8a6f4c239.jpg",
+        "https://telegra.ph/file/8c9a1398c5f8f85e80f43.jpg",
+        "https://telegra.ph/file/49315508a795d9d016447.jpg",
+        "https://telegra.ph/file/6ceef097eafcbb34c6c91.jpg",
+        "https://telegra.ph/file/7278eb7b9d2866271852e.jpg",
+        "https://telegra.ph/file/d172ed000c8519833512c.jpg",
+        "https://telegra.ph/file/856feae679decb84c0945.jpg",
+        "https://telegra.ph/file/add57524b08c6d64d890b.jpg",
+        "https://telegra.ph/file/258bb39746cd575b26ee0.jpg",
+        "https://telegra.ph/file/ebab2d2473ee5091f392c.jpg",
+        "https://telegra.ph/file/0ba44f2bc3248d0a01eb1.jpg",
+        "https://telegra.ph/file/4963cffa678c5e9a092cd.jpg",
+        "https://telegra.ph/file/30e739491c4027f1e99ff.jpg",
+        "https://telegra.ph/file/4003b0d2b43f44ac18451.jpg",
+        "https://telegra.ph/file/44cc665353aad84eea173.jpg",
+        "https://telegra.ph/file/4e3c8ff93078fb60b756c.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1526,
+    "title": "(C99) [むげんWORKS (秋月秋名)] 鈴谷とあやしい催眠アプリ (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C99-むげんWORKS-秋月秋名-鈴谷とあやしい催眠アプリ-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/a0437813a9c9709ace729.jpg",
+        "https://telegra.ph/file/770a1e8466c5d0e24bdf8.jpg",
+        "https://telegra.ph/file/1e72d1b3d52d6f3b3885b.jpg",
+        "https://telegra.ph/file/97a2ca1d37447154f99b0.jpg",
+        "https://telegra.ph/file/eb655bb5732b6a26d9737.jpg",
+        "https://telegra.ph/file/51f17b6f494a5cce05e75.jpg",
+        "https://telegra.ph/file/e9cb69a73e9415d8d2681.jpg",
+        "https://telegra.ph/file/929c267579b29a2f3ac1b.jpg",
+        "https://telegra.ph/file/a677471513950e4b67a3c.jpg",
+        "https://telegra.ph/file/53ee135277a8c65dbf6bf.jpg",
+        "https://telegra.ph/file/a4da99c8a31e3d26c40c3.jpg",
+        "https://telegra.ph/file/2f52d271e7e4b72209177.jpg",
+        "https://telegra.ph/file/e4f47e9432021e14b13d5.jpg",
+        "https://telegra.ph/file/73e97d45ed24ca226ddee.jpg",
+        "https://telegra.ph/file/a18270724d41b6a1248c6.jpg",
+        "https://telegra.ph/file/68a2d5a5123bb733a7067.jpg",
+        "https://telegra.ph/file/b14f2793ddd1210bcf2e3.jpg",
+        "https://telegra.ph/file/05e24e6428887b78d1a20.jpg",
+        "https://telegra.ph/file/d2fabd59fe7522109e84e.jpg",
+        "https://telegra.ph/file/bd01cce08afe1864183e5.jpg",
+        "https://telegra.ph/file/1baede221d883575d807f.jpg",
+        "https://telegra.ph/file/c9c1aba649b46dbfc29f0.jpg",
+        "https://telegra.ph/file/7a4a26d94b9735d74019a.jpg",
+        "https://telegra.ph/file/1a74bccb54990ee7c7355.jpg",
+        "https://telegra.ph/file/7ad0c18cc5365fe6e2295.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

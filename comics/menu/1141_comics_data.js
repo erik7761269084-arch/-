@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1141,
+    "title": "[岩男] ナミとチョッパーがセックスしまくる本 (ワンピース)",
+    "sourceUrl": "https://telegra.ph/岩男-ナミとチョッパーがセックスしまくる本-ワンピース-08-31",
+    "images": [
+        "https://telegra.ph/file/9e5a307296edd5a262430.jpg",
+        "https://telegra.ph/file/faac897ad132c892ea16e.jpg",
+        "https://telegra.ph/file/71bfad43f032f62602151.jpg",
+        "https://telegra.ph/file/6b3e07cdd7502a22199b2.jpg",
+        "https://telegra.ph/file/87c638a764061aba3f1a8.jpg",
+        "https://telegra.ph/file/0e02fc6185e21f7c052ed.jpg",
+        "https://telegra.ph/file/9e9157e2c72dc4286b368.jpg",
+        "https://telegra.ph/file/a0d0c9edc6f32ae8c4ab1.jpg",
+        "https://telegra.ph/file/717dfd6cdb9a15cf19917.jpg",
+        "https://telegra.ph/file/6c19b31c21a7cae74adde.jpg",
+        "https://telegra.ph/file/0a45d513b5cef53bbc8d2.jpg",
+        "https://telegra.ph/file/84936f0a2c458200ae629.jpg",
+        "https://telegra.ph/file/8d50240377dccbb716ed9.jpg",
+        "https://telegra.ph/file/a92d0a48eef88f4c28ff4.jpg",
+        "https://telegra.ph/file/022e9b52cf1193be6b6bc.jpg",
+        "https://telegra.ph/file/eefa35fae224b1d022245.jpg",
+        "https://telegra.ph/file/50f5ec5e090367ba404f1.jpg",
+        "https://telegra.ph/file/76f0c667c6552f64e204b.jpg",
+        "https://telegra.ph/file/557cb763177ec1e9ae7da.jpg",
+        "https://telegra.ph/file/110e35ec939dade0e0639.jpg",
+        "https://telegra.ph/file/9a6e757e52a3286ec3adb.jpg",
+        "https://telegra.ph/file/b76dca5219eddc72c4f65.jpg",
+        "https://telegra.ph/file/975ea0e21557cb2f23025.jpg",
+        "https://telegra.ph/file/068d9bc448708992d282a.jpg"
+    ]
+};

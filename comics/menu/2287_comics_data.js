@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2287,
+    "title": "[BUTA] Teddy Steady わんもあ!! (コミックホットミルク 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/BUTA-Teddy-Steady-わんもあ-コミックホットミルク-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1550f2b87e0857689d456.jpg",
+        "https://telegra.ph/file/c2a98791f9b269bcd14d5.jpg",
+        "https://telegra.ph/file/6bb3eae692fb99228a45e.jpg",
+        "https://telegra.ph/file/8e93d23114440b78955cf.jpg",
+        "https://telegra.ph/file/d9b332357db49f225ad49.jpg",
+        "https://telegra.ph/file/76943083eff7ddf2c4c1c.jpg",
+        "https://telegra.ph/file/27925e351d6121c4f1716.jpg",
+        "https://telegra.ph/file/f274785e275759599f9c6.jpg",
+        "https://telegra.ph/file/3b1cceba401409895d139.jpg",
+        "https://telegra.ph/file/7ff2a16bded0845d17caa.jpg",
+        "https://telegra.ph/file/7ef52a78fdae6c8dc6f1d.jpg",
+        "https://telegra.ph/file/c4d8607469e0b27381c0a.jpg",
+        "https://telegra.ph/file/861faf9f597da3e8e99d3.jpg",
+        "https://telegra.ph/file/d1eda0380eb2a83e807f4.jpg",
+        "https://telegra.ph/file/e93d2c29d5b7942834028.jpg",
+        "https://telegra.ph/file/b8a54bc43bed3bc3af9f4.jpg",
+        "https://telegra.ph/file/bc6d7dc48f9634f4d1578.jpg",
+        "https://telegra.ph/file/097a8b0fc2f8121a4215a.jpg",
+        "https://telegra.ph/file/48654e13c4e9e92ee53c4.jpg",
+        "https://telegra.ph/file/f8f7e09c6060f2f10abe6.jpg",
+        "https://telegra.ph/file/22a61c778ecb99358b67a.jpg",
+        "https://telegra.ph/file/9b57704d0f88961557e1f.jpg",
+        "https://telegra.ph/file/49648e70d246c138ee838.jpg",
+        "https://telegra.ph/file/80bd2444945b113652a2f.jpg",
+        "https://telegra.ph/file/4ae5a468880bfd20ba476.jpg",
+        "https://telegra.ph/file/615be47c520af45a293a2.jpg"
+    ]
+};

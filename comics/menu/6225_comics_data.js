@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6225,
+    "title": "[ゲズンタイト] 深層心理ランデブー",
+    "sourceUrl": "https://telegra.ph/ゲズンタイト-深層心理ランデブー-08-31",
+    "images": [
+        "https://telegra.ph/file/823a32f86dacf3e4d0ef4.jpg",
+        "https://telegra.ph/file/ad39a6ffc71a98d336682.jpg",
+        "https://telegra.ph/file/be11d56757dd82dade336.jpg",
+        "https://telegra.ph/file/87a93b37f936dac17471d.jpg",
+        "https://telegra.ph/file/c3c51ee9244a1f2ebf1fc.jpg",
+        "https://telegra.ph/file/84e129f94d12a0d90e578.jpg",
+        "https://telegra.ph/file/ec2e069099538c52becdb.jpg",
+        "https://telegra.ph/file/ca4d65e22c3ee216d7899.jpg",
+        "https://telegra.ph/file/acab626c2825c1e1cc87b.jpg",
+        "https://telegra.ph/file/097efb4dc4d8221ff4cae.jpg",
+        "https://telegra.ph/file/4bbf25088ec288b94abe6.jpg",
+        "https://telegra.ph/file/df961c6bcf12495695553.jpg",
+        "https://telegra.ph/file/d5dfb9a5346fad1d2b5bf.jpg",
+        "https://telegra.ph/file/6526d1ba90ab8385d94a8.jpg",
+        "https://telegra.ph/file/ce471ad938f30ef57914e.jpg",
+        "https://telegra.ph/file/402a5591f391c45da13dd.jpg",
+        "https://telegra.ph/file/8e30d9303d7027ff43de6.jpg",
+        "https://telegra.ph/file/0a6c817c8cc2d9dc6c18c.jpg",
+        "https://telegra.ph/file/c2a6bb10ef6c9abb33f9d.jpg",
+        "https://telegra.ph/file/96966c44d26c8ec5f09e7.jpg",
+        "https://telegra.ph/file/d7d8f7fc7eb9db3075c3f.jpg",
+        "https://telegra.ph/file/cb186113e402c0dd1a5d6.jpg",
+        "https://telegra.ph/file/d5f7b99fa242d8a3e7f35.jpg",
+        "https://telegra.ph/file/be883483fced160587ac2.jpg"
+    ]
+};

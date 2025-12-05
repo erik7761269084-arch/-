@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1116,
+    "title": "[ふじたじゅん] 隷属のカテキョ 〜人妻家庭教師〜 (Web コミックトウテツ Vol.70)",
+    "sourceUrl": "https://telegra.ph/ふじたじゅん-隷属のカテキョ-人妻家庭教師-Web-コミックトウテツ-Vol70-08-31",
+    "images": [
+        "https://telegra.ph/file/29a3e9498b54621a78893.jpg",
+        "https://telegra.ph/file/c5b6e3787c02978b4e5ad.jpg",
+        "https://telegra.ph/file/ad6dc74c32cf219904664.jpg",
+        "https://telegra.ph/file/2148192cdfa1ecb178860.jpg",
+        "https://telegra.ph/file/3a1c9a038cd9e2cec536a.jpg",
+        "https://telegra.ph/file/8fad8bde5138fa8707239.jpg",
+        "https://telegra.ph/file/b44d342c7feef692d0012.jpg",
+        "https://telegra.ph/file/a4c9958fef506b60f2a65.jpg",
+        "https://telegra.ph/file/e45e8115f40603f984fa3.jpg",
+        "https://telegra.ph/file/2489484693654b29caff8.jpg",
+        "https://telegra.ph/file/2b2d7e615f8c6b879b36f.jpg",
+        "https://telegra.ph/file/53afbc226e93d4d982096.jpg",
+        "https://telegra.ph/file/4bdaf3eb51634f336f5a5.jpg",
+        "https://telegra.ph/file/4d2bdadbfe4176da950f6.jpg",
+        "https://telegra.ph/file/78b8e56e528d055b1c075.jpg",
+        "https://telegra.ph/file/65d977d9353b743d7c7a8.jpg",
+        "https://telegra.ph/file/a80a59053f38d57faa763.jpg",
+        "https://telegra.ph/file/28eba29b4a55479403d70.jpg",
+        "https://telegra.ph/file/93b3d81ecacd97e9d5073.jpg",
+        "https://telegra.ph/file/5dbf0282d78e363d26a3e.jpg",
+        "https://telegra.ph/file/8a65a78d0d612138f701b.jpg",
+        "https://telegra.ph/file/c24a1d70b99ec107a6c16.jpg",
+        "https://telegra.ph/file/bf5aa8e662cd0b17d80a0.jpg",
+        "https://telegra.ph/file/46085d8a6a2d6f7043738.jpg"
+    ]
+};

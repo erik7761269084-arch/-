@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 961,
+    "title": "[見影 (全紅白子、クルー)] ダンジョンの蜜穴園 (ダンジョンに出会いを求めるのは間違っているだろうか)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/見影-全紅白子クルー-ダンジョンの蜜穴園-ダンジョンに出会いを求めるのは間違っているだろうか-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/8b3267c71219a7632bb26.jpg",
+        "https://telegra.ph/file/9e1229b29085a57d40e5a.jpg",
+        "https://telegra.ph/file/53a38f1b93c59a042aeb1.jpg",
+        "https://telegra.ph/file/730028ae2634728d8c89b.jpg",
+        "https://telegra.ph/file/77b93705d6610658c2848.jpg",
+        "https://telegra.ph/file/af715703a1c67e55052ac.jpg",
+        "https://telegra.ph/file/bf0b51784226af0df75f6.jpg",
+        "https://telegra.ph/file/b1fd3362ce4ae1e124b2d.jpg",
+        "https://telegra.ph/file/cc9ff4087ddf2a7375817.jpg",
+        "https://telegra.ph/file/10eaa626a238fa5efc378.jpg",
+        "https://telegra.ph/file/d6306560481f42cf89cb4.jpg",
+        "https://telegra.ph/file/a2bbc0af4897dc23dd8fb.jpg",
+        "https://telegra.ph/file/33f04a1488f0462b4d213.jpg",
+        "https://telegra.ph/file/45ec16522e4fe52ec13e1.jpg",
+        "https://telegra.ph/file/7f849d26f6f0d9febc0b2.jpg",
+        "https://telegra.ph/file/8c6a7da170ec6a23878af.jpg",
+        "https://telegra.ph/file/c5163c894bb32ac8a0eb2.jpg",
+        "https://telegra.ph/file/69141912b54b04a2a2134.jpg",
+        "https://telegra.ph/file/1c9476429b70c39362374.jpg",
+        "https://telegra.ph/file/3d3a16f8a14673a4952f4.jpg",
+        "https://telegra.ph/file/16fba789574730bcdd82d.jpg",
+        "https://telegra.ph/file/f6f135ce1e7067097e502.jpg",
+        "https://telegra.ph/file/9514c3d81ef9b468fe9bf.jpg"
+    ]
+};

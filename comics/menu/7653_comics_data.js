@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7653,
+    "title": "ひとりとふたり",
+    "sourceUrl": "https://telegra.ph/ひとりとふたり-08-31",
+    "images": [
+        "https://telegra.ph/file/3acf73e71079b3e800884.jpg",
+        "https://telegra.ph/file/1f48accf63aed5115b0e9.jpg",
+        "https://telegra.ph/file/0868602cb61efb1f1e1cf.jpg",
+        "https://telegra.ph/file/d12077652639785be741f.jpg",
+        "https://telegra.ph/file/422dbae8fa5560c6f0afe.jpg",
+        "https://telegra.ph/file/aafd87e4da0778d542b5f.jpg",
+        "https://telegra.ph/file/495227132689bb190415e.jpg",
+        "https://telegra.ph/file/49cd42f2ad9f43902a3f4.jpg",
+        "https://telegra.ph/file/f5f341d877f761502f7e4.jpg",
+        "https://telegra.ph/file/9ee965503c22f3521e44a.jpg",
+        "https://telegra.ph/file/367bcffe63b05dac2831e.jpg",
+        "https://telegra.ph/file/66d84e118ea072e05b9b0.jpg",
+        "https://telegra.ph/file/3fbdf340965b01efb808c.jpg",
+        "https://telegra.ph/file/0568b7b05fa535237b4d8.jpg",
+        "https://telegra.ph/file/39a9fabda419afabb4a41.jpg",
+        "https://telegra.ph/file/ad084bce1811c2e095e44.jpg",
+        "https://telegra.ph/file/d770596d873b48f9a2262.jpg",
+        "https://telegra.ph/file/b635230d41459884f3df9.jpg",
+        "https://telegra.ph/file/df88186a381de1b004fdc.jpg",
+        "https://telegra.ph/file/c9709fc69a3d75fa17630.jpg",
+        "https://telegra.ph/file/33174ba3f913f7b63a28b.jpg",
+        "https://telegra.ph/file/9b8f1e029c97e24ae2eaa.jpg",
+        "https://telegra.ph/file/b9175aa9ea81cbd6b636e.jpg",
+        "https://telegra.ph/file/52fede1e2ef1aea0cd4a1.jpg"
+    ]
+};

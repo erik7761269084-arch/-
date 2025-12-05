@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1007,
+    "title": "[むた] 水着ダヴィンチちゃん (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/むた-水着ダヴィンチちゃん-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/a6d5193a6a7e206a7cd14.jpg",
+        "https://telegra.ph/file/2b3c14f625ad2fbe4122a.jpg",
+        "https://telegra.ph/file/74e681d5f6e0299ca60f2.jpg",
+        "https://telegra.ph/file/e562617c3bd99fca8c5e7.jpg",
+        "https://telegra.ph/file/35a8b5453997c87d46aa0.jpg",
+        "https://telegra.ph/file/dce4ee9f2882452960d2c.jpg",
+        "https://telegra.ph/file/19cbf9da84b8313c4170e.jpg",
+        "https://telegra.ph/file/786be2563091204879b4d.jpg",
+        "https://telegra.ph/file/f98c57678a27c31b55cf0.jpg",
+        "https://telegra.ph/file/57cba4fd50e09d8c99a10.jpg",
+        "https://telegra.ph/file/4c2a36ad436902ea4b361.jpg",
+        "https://telegra.ph/file/b4c71d46c78c2e97cd1bd.jpg",
+        "https://telegra.ph/file/7d434f9f6e75cf17e5f40.jpg",
+        "https://telegra.ph/file/ac4962bc540b5c58ad69c.jpg",
+        "https://telegra.ph/file/f2b504bb9524d7567cf20.jpg",
+        "https://telegra.ph/file/04819d529fc0bbfcf8313.jpg",
+        "https://telegra.ph/file/959b2985fdadfab1062c2.jpg",
+        "https://telegra.ph/file/251a5f1e01d84cfffc488.jpg",
+        "https://telegra.ph/file/81dfb2cbe045b3ee4ede4.jpg",
+        "https://telegra.ph/file/fe2faaf659ce29eac6efb.jpg",
+        "https://telegra.ph/file/ecd4bcd0d77d2a3fe7726.jpg",
+        "https://telegra.ph/file/07a78701c28751589cf41.jpg",
+        "https://telegra.ph/file/dca2eca16742f70159c88.jpg",
+        "https://telegra.ph/file/28d32853aaee58b95de29.jpg",
+        "https://telegra.ph/file/6d944abb528ab590e2389.jpg",
+        "https://telegra.ph/file/f60c768957c11041363ba.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6444,
+    "title": "浜と海とおもらし",
+    "sourceUrl": "https://telegra.ph/浜と海とおもらし-08-31",
+    "images": [
+        "https://telegra.ph/file/fd6e4e3e97eddd8ddec83.jpg",
+        "https://telegra.ph/file/8177f9f25234a1fbbdacf.jpg",
+        "https://telegra.ph/file/a38ccac2efcaa1ff7683e.jpg",
+        "https://telegra.ph/file/0ddef0ae696874cb5c1ad.jpg",
+        "https://telegra.ph/file/da97c0c8cfc3db2776863.jpg",
+        "https://telegra.ph/file/016a7f228da6dfd52273c.jpg",
+        "https://telegra.ph/file/903bab1adcbca1cc79b4f.jpg",
+        "https://telegra.ph/file/251268dbad14de7802d3d.jpg",
+        "https://telegra.ph/file/054a603997faa9cb4bd8b.jpg",
+        "https://telegra.ph/file/53b62708b6c348a777cf2.jpg",
+        "https://telegra.ph/file/6eb054c46f4430448dfd0.jpg",
+        "https://telegra.ph/file/079290a87c08526daf1b2.jpg",
+        "https://telegra.ph/file/a174d4b2c31bc07b59b62.jpg",
+        "https://telegra.ph/file/0403ff07c62d9818baa94.jpg",
+        "https://telegra.ph/file/07deabad9457db59d2d98.jpg",
+        "https://telegra.ph/file/ebb74d95557a694f76654.jpg",
+        "https://telegra.ph/file/e2ab4468fe8b936146d60.jpg",
+        "https://telegra.ph/file/fe77193027c6408130767.jpg",
+        "https://telegra.ph/file/79212fe18d83636f0a6f4.jpg",
+        "https://telegra.ph/file/00a631c68f661faa12a25.jpg",
+        "https://telegra.ph/file/b308a4038b6199f582440.jpg",
+        "https://telegra.ph/file/ae12eab34753d03fbe1dc.jpg",
+        "https://telegra.ph/file/0a1f8a87d36672f6b01c0.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6637,
+    "title": "高尾部長と付き合うことになりました",
+    "sourceUrl": "https://telegra.ph/高尾部長と付き合うことになりました-08-31",
+    "images": [
+        "https://telegra.ph/file/a760466dd9a2f07ce55d0.jpg",
+        "https://telegra.ph/file/088f5e1df476459986632.jpg",
+        "https://telegra.ph/file/710e11b8868a4dd839f3f.jpg",
+        "https://telegra.ph/file/e753f168db9f6fe512e03.jpg",
+        "https://telegra.ph/file/44d2e513afb07b4a572ea.jpg",
+        "https://telegra.ph/file/2d96db4b53b9f44688fca.jpg",
+        "https://telegra.ph/file/5bfc7b319cdcaaf01f83b.jpg",
+        "https://telegra.ph/file/cd97973a564b0547f3ebe.jpg",
+        "https://telegra.ph/file/8cc67df7cdb0844caef69.jpg",
+        "https://telegra.ph/file/185913a782c1d6bb5f340.jpg",
+        "https://telegra.ph/file/2a3f8be55cd010cec96f0.jpg",
+        "https://telegra.ph/file/bdaeb8ffed95143dff274.jpg",
+        "https://telegra.ph/file/592bc868248f3d96a057b.jpg",
+        "https://telegra.ph/file/3176fea4172ca2bf176b7.jpg",
+        "https://telegra.ph/file/86bc81d470aa34aed5aa8.jpg",
+        "https://telegra.ph/file/055cccd1ff3ccdaea1d7d.jpg",
+        "https://telegra.ph/file/1b7ec03660e50eca4fba4.jpg",
+        "https://telegra.ph/file/eaf5e1bb13ccef13a9b04.jpg",
+        "https://telegra.ph/file/fe4e093e7cf2d43560967.jpg",
+        "https://telegra.ph/file/9ad8d0ab8f346cc7a888c.jpg",
+        "https://telegra.ph/file/876c9bfa2a1c11eb1e656.jpg",
+        "https://telegra.ph/file/ad29785ad6aace7f40e9a.jpg",
+        "https://telegra.ph/file/7b7751e645b61aa0467b5.jpg",
+        "https://telegra.ph/file/5a254f5b8d34bf66b7dc4.jpg"
+    ]
+};

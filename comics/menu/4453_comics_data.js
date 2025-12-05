@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4453,
+    "title": "[ぽんぽんダンジョン] TSVR",
+    "sourceUrl": "https://telegra.ph/ぽんぽんダンジョン-TSVR-08-31",
+    "images": [
+        "https://telegra.ph/file/fca0cbaf9206e2e144808.jpg",
+        "https://telegra.ph/file/0d1b9a63ea1982349c3e7.jpg",
+        "https://telegra.ph/file/98b714a35963958494bed.jpg",
+        "https://telegra.ph/file/e190af74ecf94240a1f45.jpg",
+        "https://telegra.ph/file/c325bec821af5bf9da194.jpg",
+        "https://telegra.ph/file/9005a94b5ce3b7d1f1e24.jpg",
+        "https://telegra.ph/file/e7df13495818660321a3b.jpg",
+        "https://telegra.ph/file/9f93e88ec36907921e159.jpg",
+        "https://telegra.ph/file/0515848bd1d6e253b9029.jpg",
+        "https://telegra.ph/file/6e3293f090785e15c6442.jpg",
+        "https://telegra.ph/file/3880d129389d9bdc6888b.jpg",
+        "https://telegra.ph/file/3f8d6a885fc2312bb3a60.jpg",
+        "https://telegra.ph/file/c7de32a8478e42fc93a7d.jpg",
+        "https://telegra.ph/file/d8de948b1da744b408a43.jpg",
+        "https://telegra.ph/file/70aa8be53122bcc66961b.jpg",
+        "https://telegra.ph/file/24934494907ab64f1d040.jpg",
+        "https://telegra.ph/file/ae961bb2234e3872a79e8.jpg",
+        "https://telegra.ph/file/a85adbf118645c8b157a1.jpg",
+        "https://telegra.ph/file/21e6a9d953d146bd19cdb.jpg",
+        "https://telegra.ph/file/b2b23a724a6507ac1914d.jpg",
+        "https://telegra.ph/file/e54a1051907c64c1b9ebe.jpg",
+        "https://telegra.ph/file/5b35ea3bfd13d8edb3e65.jpg",
+        "https://telegra.ph/file/c990cf10179da93f68a8a.jpg",
+        "https://telegra.ph/file/b8ea22f8676a995626426.jpg"
+    ]
+};

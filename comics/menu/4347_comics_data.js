@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4347,
+    "title": "[孫陽州] 触囚娼姫 前編 (くっ殺ヒロインズ Vol.11)",
+    "sourceUrl": "https://telegra.ph/孫陽州-触囚娼姫-前編-くっ殺ヒロインズ-Vol11-08-31",
+    "images": [
+        "https://telegra.ph/file/8fc2551e7e98eeca70220.jpg",
+        "https://telegra.ph/file/b6a63058b080e3b2c4203.jpg",
+        "https://telegra.ph/file/c4bbe0c61ac0671082b9f.jpg",
+        "https://telegra.ph/file/f8e9bbb5da8928d164329.jpg",
+        "https://telegra.ph/file/fe4d75c2174c90dc95d08.jpg",
+        "https://telegra.ph/file/dc5a03d09e14e0dfe6aff.jpg",
+        "https://telegra.ph/file/98a90b28d509ae4cf8b8c.jpg",
+        "https://telegra.ph/file/ca7a0564742f01ec76173.jpg",
+        "https://telegra.ph/file/40c79cf1baf5f44ffab1a.jpg",
+        "https://telegra.ph/file/2bd1f444bc2f9991b303c.jpg",
+        "https://telegra.ph/file/843b840b1034d44280054.jpg",
+        "https://telegra.ph/file/3df9b2232d9ba811dda9e.jpg",
+        "https://telegra.ph/file/8c742c72b6f185d4519aa.jpg",
+        "https://telegra.ph/file/80696c4fd1dd48cc6af6d.jpg",
+        "https://telegra.ph/file/a1c79a682ac7c3f2191d1.jpg",
+        "https://telegra.ph/file/a21365cd0c962ba813e91.jpg",
+        "https://telegra.ph/file/9d622d9fc0569c75d85e0.jpg",
+        "https://telegra.ph/file/82a7eb4323bcb126f03ef.jpg",
+        "https://telegra.ph/file/5b97ec16943f438e842c4.jpg",
+        "https://telegra.ph/file/2368c5b35ad396c84a623.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ]
+};

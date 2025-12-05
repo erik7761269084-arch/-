@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5499,
+    "title": "[鈴月あこに] ガンカケ",
+    "sourceUrl": "https://telegra.ph/鈴月あこに-ガンカケ-08-31",
+    "images": [
+        "https://telegra.ph/file/71b6b3037f5fb5d3304ab.jpg",
+        "https://telegra.ph/file/fd66b1253b74cd322d4ea.jpg",
+        "https://telegra.ph/file/09baec908d3fff5058114.jpg",
+        "https://telegra.ph/file/5ae771def8cfd155029a0.jpg",
+        "https://telegra.ph/file/978e5c72b336cf2b7355c.jpg",
+        "https://telegra.ph/file/360064496d84b65809163.jpg",
+        "https://telegra.ph/file/5e398cf993f7f90802c53.jpg",
+        "https://telegra.ph/file/77741d9492186a8ce8116.jpg",
+        "https://telegra.ph/file/3a7da159f833f5a73f4a9.jpg",
+        "https://telegra.ph/file/ca094b32586e86a7ca814.jpg",
+        "https://telegra.ph/file/77add617a425af788458d.jpg",
+        "https://telegra.ph/file/1b45d74f9064d46c58b2c.jpg",
+        "https://telegra.ph/file/642dc5ee5abee406d44a4.jpg",
+        "https://telegra.ph/file/44c26cbc647898a4b9155.jpg",
+        "https://telegra.ph/file/1fe78862d9edda501c138.jpg",
+        "https://telegra.ph/file/4ed111c5b31532b1f3a55.jpg",
+        "https://telegra.ph/file/1552ed465bdc81d02ad37.jpg",
+        "https://telegra.ph/file/debbaa415567acb4496ad.jpg",
+        "https://telegra.ph/file/53bc2facdb1a847a6d908.jpg",
+        "https://telegra.ph/file/6bdb456ca19cb71b8c988.jpg",
+        "https://telegra.ph/file/8255b7f74edf632def39e.jpg",
+        "https://telegra.ph/file/fdd4debc24291700d3c75.jpg",
+        "https://telegra.ph/file/621e3b969428bc0ed7829.jpg",
+        "https://telegra.ph/file/2e3d80cef471ae6ca4d40.jpg",
+        "https://telegra.ph/file/50b87f8f87bbf8723c85e.png",
+        "https://telegra.ph/file/b80fb2785b25edcc6638c.jpg"
+    ]
+};

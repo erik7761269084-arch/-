@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5055,
+    "title": "(Key Island) [林檎のなるき (木瀬 樹)] Kud After (リトルバスターズ!)",
+    "sourceUrl": "https://telegra.ph/Key-Island-林檎のなるき-木瀬-樹-Kud-After-リトルバスターズ-08-31-3",
+    "images": [
+        "https://telegra.ph/file/2c024713113d81d1d8913.jpg",
+        "https://telegra.ph/file/cf09e527922505da39255.jpg",
+        "https://telegra.ph/file/524b4c379ba87fc72708a.jpg",
+        "https://telegra.ph/file/9e2f76a9b0ecb74f335de.jpg",
+        "https://telegra.ph/file/ec67abee65c5950595abe.jpg",
+        "https://telegra.ph/file/8a465a89930c8738c08b1.jpg",
+        "https://telegra.ph/file/b25b81c6eead145406c0d.jpg",
+        "https://telegra.ph/file/5cb66de7cdf28fc5507ec.jpg",
+        "https://telegra.ph/file/427872968be4437e86620.jpg",
+        "https://telegra.ph/file/a1e465a1aa6ebc4a82b10.jpg",
+        "https://telegra.ph/file/1f73198f2f12657f614d5.jpg",
+        "https://telegra.ph/file/5b8383b35e0002396aa96.jpg",
+        "https://telegra.ph/file/dbc7367c37335e8e0205f.jpg",
+        "https://telegra.ph/file/2cf168a6e10fb72926d0b.jpg",
+        "https://telegra.ph/file/346e52b1ea160fc909bde.jpg",
+        "https://telegra.ph/file/13fa083892785ebdbf2af.jpg",
+        "https://telegra.ph/file/4f856e45d51fa39558cfc.jpg",
+        "https://telegra.ph/file/23683fa6bfd5156e9e008.jpg",
+        "https://telegra.ph/file/fa074370f6a5977751cca.jpg",
+        "https://telegra.ph/file/a04fb1d74db0d3b8b9292.jpg",
+        "https://telegra.ph/file/5f05f7e537711ea052fe5.jpg",
+        "https://telegra.ph/file/f85ff072dcf7cdb4e6d82.jpg",
+        "https://telegra.ph/file/372c2f442b07f6ce5e0e0.jpg",
+        "https://telegra.ph/file/07be434ed4496f3e41a30.jpg"
+    ]
+};

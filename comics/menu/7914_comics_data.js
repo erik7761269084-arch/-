@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7914,
+    "title": "ぱい☆パニック ～挟まれたデカぱい～",
+    "sourceUrl": "https://telegra.ph/ぱいパニック-挟まれたデカぱい-08-31",
+    "images": [
+        "https://telegra.ph/file/d1b74353cc43639c405f6.jpg",
+        "https://telegra.ph/file/c952a3d2cbf928aff0fac.jpg",
+        "https://telegra.ph/file/5d166b9959080bc8edaf1.jpg",
+        "https://telegra.ph/file/dd8a94efb75b7186d3ab2.jpg",
+        "https://telegra.ph/file/f80b12bbd37018d2344d9.jpg",
+        "https://telegra.ph/file/ec0f225fb846fc3784366.jpg",
+        "https://telegra.ph/file/4b983c4153845084f16f1.jpg",
+        "https://telegra.ph/file/6a49b2e372f3917864052.jpg",
+        "https://telegra.ph/file/08dca1a3caec555adf7c9.jpg",
+        "https://telegra.ph/file/af0ebf78693f9d279a703.jpg",
+        "https://telegra.ph/file/0506a79756d6d82cde995.jpg",
+        "https://telegra.ph/file/e61a424da5e1dc9cf62f4.jpg",
+        "https://telegra.ph/file/4555385b5b78252ee5b39.jpg",
+        "https://telegra.ph/file/3a827849e9ecbbb1b7cf1.jpg",
+        "https://telegra.ph/file/5fccdf86aa2f6079350e2.jpg",
+        "https://telegra.ph/file/993a74910cd2c5b8a0a50.jpg",
+        "https://telegra.ph/file/0ea37bbe3df59523522e7.jpg",
+        "https://telegra.ph/file/b4c0cfcf46a815de54606.jpg",
+        "https://telegra.ph/file/40e93fef04c55c0dc8176.jpg",
+        "https://telegra.ph/file/268645edca12c6547576d.jpg",
+        "https://telegra.ph/file/b4bca06017e58ee0d5fc4.jpg",
+        "https://telegra.ph/file/f88e685a058b6b8c1836e.jpg",
+        "https://telegra.ph/file/a1efda6f253d6c47db79b.jpg",
+        "https://telegra.ph/file/187a0f6258557b7d14bff.jpg"
+    ]
+};

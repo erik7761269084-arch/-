@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6115,
+    "title": "[7zu7] ビッグ・バグ・ラヴァーズ",
+    "sourceUrl": "https://telegra.ph/7zu7-ビッグバグラヴァーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/e19e4a89716d497667bee.jpg",
+        "https://telegra.ph/file/d1b4146972d63a0afdf9f.jpg",
+        "https://telegra.ph/file/87df83ecca7675a462364.jpg",
+        "https://telegra.ph/file/1b59ff8ce42cf36af800c.jpg",
+        "https://telegra.ph/file/336b46730818c7974444a.jpg",
+        "https://telegra.ph/file/918ede5b984eab08f21bf.jpg",
+        "https://telegra.ph/file/a1cd0533059634b0d0956.jpg",
+        "https://telegra.ph/file/a21998591572a9c53356a.jpg",
+        "https://telegra.ph/file/4409ff483a1defd552895.jpg",
+        "https://telegra.ph/file/c07a863b308c512d717b1.jpg",
+        "https://telegra.ph/file/72d6c58f19a5d851e2c4e.jpg",
+        "https://telegra.ph/file/abb9103dcfeff3e8798a1.jpg",
+        "https://telegra.ph/file/249b922d63ef16d3288b7.jpg",
+        "https://telegra.ph/file/ed6de5c79d7f6ed23b67f.jpg",
+        "https://telegra.ph/file/b07ecc3a18281a8512a3e.jpg",
+        "https://telegra.ph/file/95bf73f41ab69033f17a3.jpg",
+        "https://telegra.ph/file/67210894ee506bbdf2b67.jpg",
+        "https://telegra.ph/file/6c79c2cb096cad4870c32.jpg",
+        "https://telegra.ph/file/754b694a4267514e00f78.jpg",
+        "https://telegra.ph/file/a372134ec2fe50f50a44e.jpg",
+        "https://telegra.ph/file/a7b45457596450f3c1ea6.jpg",
+        "https://telegra.ph/file/e5a593035dffe27851ad6.jpg",
+        "https://telegra.ph/file/9200412bad6449304541b.jpg",
+        "https://telegra.ph/file/5e8f18deb5ec36a7e024f.jpg",
+        "https://telegra.ph/file/90a5228afd06bced8e68f.jpg"
+    ]
+};

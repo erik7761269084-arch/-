@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1774,
+    "title": "[平屋のぼり] 団地少女 Wonderful Environment (COMIC LO 2020年10月号)",
+    "sourceUrl": "https://telegra.ph/平屋のぼり-団地少女-Wonderful-Environment-COMIC-LO-2020年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0564c21c1f56b1ce36ed6.jpg",
+        "https://telegra.ph/file/70eab70051614d2c9030f.jpg",
+        "https://telegra.ph/file/b07d8d0c336cc559e1f59.jpg",
+        "https://telegra.ph/file/0cb695745abde9c2e0019.jpg",
+        "https://telegra.ph/file/e0b1f21a407feb3887be7.jpg",
+        "https://telegra.ph/file/ba39f55b18f48001acce6.jpg",
+        "https://telegra.ph/file/87b5488a829520f29572d.jpg",
+        "https://telegra.ph/file/14bbbad81a83d38bf7a47.jpg",
+        "https://telegra.ph/file/7208e5b4817dbf21cb936.jpg",
+        "https://telegra.ph/file/a71e8206afde830cb294d.jpg",
+        "https://telegra.ph/file/c7f2050187559eb0ccaad.jpg",
+        "https://telegra.ph/file/4bec1c7534d12e081a898.jpg",
+        "https://telegra.ph/file/52d9764ff03d21f0764f9.jpg",
+        "https://telegra.ph/file/441a97daae981e7b60f36.jpg",
+        "https://telegra.ph/file/928cd87afa1d9f5b20746.jpg",
+        "https://telegra.ph/file/078abe8fb05355628599e.jpg",
+        "https://telegra.ph/file/bed6cf40a0f1a973e99de.jpg",
+        "https://telegra.ph/file/8723f24c436d5075aeeb5.jpg",
+        "https://telegra.ph/file/c270c708ef0e05df8ce74.jpg",
+        "https://telegra.ph/file/649bba2e7bb9d394b9cd9.jpg",
+        "https://telegra.ph/file/ecaeb3e9a991b8d8cd3af.jpg",
+        "https://telegra.ph/file/93377b5d42ae1cc7877d8.jpg",
+        "https://telegra.ph/file/c6ae8af68dfe88a480cd5.jpg",
+        "https://telegra.ph/file/d50569da38860a00ab23b.jpg"
+    ]
+};

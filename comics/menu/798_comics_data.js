@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 798,
+    "title": "[近江訓] 実録・大家さん (コミックゼロス #95)",
+    "sourceUrl": "https://telegra.ph/近江訓-実録大家さん-コミックゼロス-95-08-31",
+    "images": [
+        "https://telegra.ph/file/e66e86a5223adf04c5a43.jpg",
+        "https://telegra.ph/file/03a9e7bc981e46d753b59.jpg",
+        "https://telegra.ph/file/20214c033ecc4cc81d8e9.jpg",
+        "https://telegra.ph/file/bb57187574644c5ba45d3.jpg",
+        "https://telegra.ph/file/8eb08846a6949c8c64af2.jpg",
+        "https://telegra.ph/file/3edb67698a9ac7f5f5b6d.jpg",
+        "https://telegra.ph/file/38235f1a2790e9f6c0cdc.jpg",
+        "https://telegra.ph/file/cdf8171d65347fe5d6feb.jpg",
+        "https://telegra.ph/file/3464ff4ddd49cb2745657.jpg",
+        "https://telegra.ph/file/e00cd3dddb84cc83dc73e.jpg",
+        "https://telegra.ph/file/c4c58ad77c5f39f7ff126.jpg",
+        "https://telegra.ph/file/0ce2ba22c501db61a6f43.jpg",
+        "https://telegra.ph/file/b26a719a60a3b3b30c25c.jpg",
+        "https://telegra.ph/file/72b2693cfd7cd6a777cd8.jpg",
+        "https://telegra.ph/file/181768c62141ffb56da7a.jpg",
+        "https://telegra.ph/file/e902ce6b9dd23a34ba810.jpg",
+        "https://telegra.ph/file/4c66ba771b7884da03c93.jpg",
+        "https://telegra.ph/file/e8831df360fb634a7e174.jpg",
+        "https://telegra.ph/file/60bbd07acb064f445e408.jpg",
+        "https://telegra.ph/file/e9c44b37668daec12ed4e.jpg",
+        "https://telegra.ph/file/f872af7328b4278b89d91.jpg",
+        "https://telegra.ph/file/b4a7f961d51fea6480395.jpg",
+        "https://telegra.ph/file/7929ac80a47abc7aa248e.jpg",
+        "https://telegra.ph/file/8773f59040f65f26ea1a0.jpg",
+        "https://telegra.ph/file/6a8ff75ec1f70808d8373.jpg"
+    ]
+};

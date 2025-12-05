@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7468,
+    "title": "素直になれた日",
+    "sourceUrl": "https://telegra.ph/素直になれた日-08-31",
+    "images": [
+        "https://telegra.ph/file/9019fe71598447cd20c8d.jpg",
+        "https://telegra.ph/file/419002a662ccfc65d95f5.jpg",
+        "https://telegra.ph/file/d9a34cddaef6f97dc3a1c.jpg",
+        "https://telegra.ph/file/778d39be6269f63129587.jpg",
+        "https://telegra.ph/file/9251a2d25924a793cbcc4.jpg",
+        "https://telegra.ph/file/50702a2733aa8f4ab2f09.jpg",
+        "https://telegra.ph/file/d27714897fb543eec4ece.jpg",
+        "https://telegra.ph/file/d78803e8104214f6a355f.jpg",
+        "https://telegra.ph/file/afa8771a7dd143f3441ff.jpg",
+        "https://telegra.ph/file/6bf3cc161cab51e4cfe2e.jpg",
+        "https://telegra.ph/file/bebc0c96315ddf5568b6f.jpg",
+        "https://telegra.ph/file/61c084f13c03f8a913809.jpg",
+        "https://telegra.ph/file/5f692af13c98d167378eb.jpg",
+        "https://telegra.ph/file/8696608f6e54dd54f639a.jpg",
+        "https://telegra.ph/file/ed85cadce97a68dee65f8.jpg",
+        "https://telegra.ph/file/bee81f2fd38ee85d55d4b.jpg",
+        "https://telegra.ph/file/7c62798b4577d186f6aa8.jpg",
+        "https://telegra.ph/file/0aaec3997a2da98743c25.jpg",
+        "https://telegra.ph/file/c386fe9200fb4e83e20ff.jpg",
+        "https://telegra.ph/file/65305de06f3b6ae805e5f.jpg",
+        "https://telegra.ph/file/d76f1932287ebba506e6b.jpg",
+        "https://telegra.ph/file/f9988563f20a70eadab05.jpg",
+        "https://telegra.ph/file/4cc25ad4637983159bef9.jpg",
+        "https://telegra.ph/file/a148c76fd55f492f582ed.jpg",
+        "https://telegra.ph/file/3791d1c9c134c9c2d867c.jpg",
+        "https://telegra.ph/file/8ff76be203510ff8ae0c6.jpg"
+    ]
+};

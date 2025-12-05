@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6219,
+    "title": "[ぶぶづけ] ハイ・キュー・アイ",
+    "sourceUrl": "https://telegra.ph/ぶぶづけ-ハイキューアイ-08-31",
+    "images": [
+        "https://telegra.ph/file/95efdc67fa06c92e6895d.jpg",
+        "https://telegra.ph/file/1b88ff68c4527cc2f8214.jpg",
+        "https://telegra.ph/file/44c1e52bf732dd5d07c8c.jpg",
+        "https://telegra.ph/file/492f55450dc2c1c23e5b6.jpg",
+        "https://telegra.ph/file/21770ef47aaa55fbb8c26.jpg",
+        "https://telegra.ph/file/eb2512ad425f40c07bb40.jpg",
+        "https://telegra.ph/file/9077b7c1ba92f8f126123.jpg",
+        "https://telegra.ph/file/da28f6a1c4cc793fa2389.jpg",
+        "https://telegra.ph/file/ab36db02c8796d61bd155.jpg",
+        "https://telegra.ph/file/8b22028da3b38b65256bb.jpg",
+        "https://telegra.ph/file/403b9a5652ec6aa4cc76a.jpg",
+        "https://telegra.ph/file/b67f60a7d0360a7398b58.jpg",
+        "https://telegra.ph/file/a70e7aa98c24041f8f3ea.jpg",
+        "https://telegra.ph/file/fbe2df7e862d0f20ffa11.jpg",
+        "https://telegra.ph/file/6487eb7796843cdce957d.jpg",
+        "https://telegra.ph/file/c386dcd0b164304e2a6d9.jpg",
+        "https://telegra.ph/file/c079852a3fb7c4f68b615.jpg",
+        "https://telegra.ph/file/c37b889f73b10aeb5d082.jpg",
+        "https://telegra.ph/file/2f9afa6b6fbe1ae4d4fc6.jpg",
+        "https://telegra.ph/file/528d5c3b5566cdcce71ea.jpg",
+        "https://telegra.ph/file/9343eaca40056874ee745.jpg",
+        "https://telegra.ph/file/f007a1b7614caee3453bf.jpg",
+        "https://telegra.ph/file/2bc511eee8c851b263c98.jpg",
+        "https://telegra.ph/file/051b395f704bf1ed04a4d.jpg"
+    ]
+};

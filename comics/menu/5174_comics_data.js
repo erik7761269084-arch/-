@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5174,
+    "title": "[きょくちょ] シノ様はご立腹♥2 (COMIC BAVEL 2022年2月号) [MJK-22-Z2727]",
+    "sourceUrl": "https://telegra.ph/きょくちょ-シノ様はご立腹2-COMIC-BAVEL-2022年2月号-MJK-22-Z2727-08-31-4",
+    "images": [
+        "https://telegra.ph/file/1224fd378393accb9e221.png",
+        "https://telegra.ph/file/82516b57f33f0f685e707.png",
+        "https://telegra.ph/file/f854feedfedf1d77b2509.png",
+        "https://telegra.ph/file/47a2c8a0d3eff7c61a189.png",
+        "https://telegra.ph/file/cb2668a14d7081184ebfd.png",
+        "https://telegra.ph/file/64051b48d4dd1350b5914.png",
+        "https://telegra.ph/file/b2a590fc7dd3ad426120b.png",
+        "https://telegra.ph/file/16a66fe71db68235e29a5.png",
+        "https://telegra.ph/file/1dc055b69650bb5725534.png",
+        "https://telegra.ph/file/7b4ee1c4c758038a47c61.png",
+        "https://telegra.ph/file/0e99ac8aaca6eb7f61b5e.png",
+        "https://telegra.ph/file/d52b3a22bf191d6d4cd4d.png",
+        "https://telegra.ph/file/784d994030cea03c5cfdc.png",
+        "https://telegra.ph/file/d16a2a8c93dd08b43d8d2.png",
+        "https://telegra.ph/file/58c7cebf0426912b235a2.png",
+        "https://telegra.ph/file/ca580414d940dcae4e242.png",
+        "https://telegra.ph/file/f49528ae2f1e6e2b58980.png",
+        "https://telegra.ph/file/246425a0cf20372410114.png",
+        "https://telegra.ph/file/5cdcdf41bb53525a04dc7.png",
+        "https://telegra.ph/file/d96c02638d5404c6aa27d.png",
+        "https://telegra.ph/file/9317f70ebd342d67badff.png",
+        "https://telegra.ph/file/1c4dbad89889c61c252bb.png",
+        "https://telegra.ph/file/46b77df9e46103a6f6675.png",
+        "https://telegra.ph/file/ef7fdd99bde65ed533a98.png",
+        "https://telegra.ph/file/c4bb667112ce5a5408364.png",
+        "https://telegra.ph/file/dde8b939cb4bfb7c6f7d3.png"
+    ]
+};

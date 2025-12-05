@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 915,
+    "title": "[みつどうえ] 蛇神様と… (COMIC 真激 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/みつどうえ-蛇神様と-COMIC-真激-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/86197b7470a03c7b42277.jpg",
+        "https://telegra.ph/file/05ad8a4082c5d7952f7e9.jpg",
+        "https://telegra.ph/file/0fb68387733180ffb0566.jpg",
+        "https://telegra.ph/file/f96bbc6272149531b6e32.jpg",
+        "https://telegra.ph/file/e5e3066f511b7d2463067.jpg",
+        "https://telegra.ph/file/be557b9d4d4adc18adb81.jpg",
+        "https://telegra.ph/file/389a40d92b43c5d9bf1ab.jpg",
+        "https://telegra.ph/file/71a9eae8ef766d0f238e0.jpg",
+        "https://telegra.ph/file/c35c129a7ece4929e8598.jpg",
+        "https://telegra.ph/file/51ef4720614952a48f8c9.jpg",
+        "https://telegra.ph/file/44114e808577be039d886.jpg",
+        "https://telegra.ph/file/48c5e1ebec17ca8df71ec.jpg",
+        "https://telegra.ph/file/2808427d0ccdf6e2585ed.jpg",
+        "https://telegra.ph/file/d9206544a95e07350c7ae.jpg",
+        "https://telegra.ph/file/9ebbeac9cd834e268745e.jpg",
+        "https://telegra.ph/file/4d0c95ab3f8fe54528261.jpg",
+        "https://telegra.ph/file/b50e1cd48208e489b2e3d.jpg",
+        "https://telegra.ph/file/b342f13cfa7c2b6644801.jpg",
+        "https://telegra.ph/file/1e25a5656ccbc915521d8.jpg",
+        "https://telegra.ph/file/5378c2429bc9f64a6b7e5.jpg",
+        "https://telegra.ph/file/0aa33611e2a53a519ec07.jpg",
+        "https://telegra.ph/file/490243961d2854d21b194.jpg",
+        "https://telegra.ph/file/964e506211d51afec7543.jpg",
+        "https://telegra.ph/file/2cf4a22df75125a1cd224.jpg",
+        "https://telegra.ph/file/6e64e3df0a95b9527bc04.jpg"
+    ]
+};

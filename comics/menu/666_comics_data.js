@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 666,
+    "title": "[玉ぼん] 純血少女と雑種犬。 (COMIC 快楽天 2022年6月号)",
+    "sourceUrl": "https://telegra.ph/玉ぼん-純血少女と雑種犬-COMIC-快楽天-2022年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1083ef240e0187b36a975.jpg",
+        "https://telegra.ph/file/d2717ccc458fe794196d7.jpg",
+        "https://telegra.ph/file/baabe56399d7140ad3e82.jpg",
+        "https://telegra.ph/file/bcf08168da040e38deff0.jpg",
+        "https://telegra.ph/file/299d6e173133acab6a8fe.jpg",
+        "https://telegra.ph/file/12756426b1c2d87d9eeb9.jpg",
+        "https://telegra.ph/file/a6c3f9bfc8a6080c0cbf8.jpg",
+        "https://telegra.ph/file/d74a5e2a5bf3b0a732f32.jpg",
+        "https://telegra.ph/file/4b6b010296a4a9dccbf69.jpg",
+        "https://telegra.ph/file/6fab485ef160693fcfb63.jpg",
+        "https://telegra.ph/file/d260d7fca3e640eaff73c.jpg",
+        "https://telegra.ph/file/fe38ec91c05b55dc9ba8e.jpg",
+        "https://telegra.ph/file/d261027e720a8d811872e.jpg",
+        "https://telegra.ph/file/eb338c40557ad9c6a86f4.jpg",
+        "https://telegra.ph/file/e5a12fbdad5d7917c26d4.jpg",
+        "https://telegra.ph/file/7425627df5e51f530fb06.jpg",
+        "https://telegra.ph/file/284a0eea8d122d977ab98.jpg",
+        "https://telegra.ph/file/62d8d3f053d32aab4809c.jpg",
+        "https://telegra.ph/file/1a135b7addde55fb329fd.jpg",
+        "https://telegra.ph/file/fc4de86c7c49180993f00.jpg",
+        "https://telegra.ph/file/eb0bede9ad7285a678bde.jpg",
+        "https://telegra.ph/file/e88e37ff423b674111624.jpg",
+        "https://telegra.ph/file/f3d304302cbcfa725cb5d.jpg",
+        "https://telegra.ph/file/b4d81957cb79084decab1.jpg",
+        "https://telegra.ph/file/29af5c56f8095872e4616.jpg"
+    ]
+};

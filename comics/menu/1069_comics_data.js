@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1069,
+    "title": "(C99) [Seven Deadly Sins (homu)] 樋口のとある一日 (アイドルマスターシャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C99-Seven-Deadly-Sins-homu-樋口のとある一日-アイドルマスターシャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/aee04b03cc7ccd40f6090.jpg",
+        "https://telegra.ph/file/76df156f92a90b2052635.jpg",
+        "https://telegra.ph/file/80114169565c3bdb56cd6.jpg",
+        "https://telegra.ph/file/032ab7583c32114c58fd3.jpg",
+        "https://telegra.ph/file/42a02d6b0b15acfabedc0.jpg",
+        "https://telegra.ph/file/3ef666ac85d3e51098ebe.jpg",
+        "https://telegra.ph/file/1851951e3b48a4cb7a773.jpg",
+        "https://telegra.ph/file/5171c5609354a9955618c.jpg",
+        "https://telegra.ph/file/70babb7a7c23cea66007b.jpg",
+        "https://telegra.ph/file/b7852ea2763b88954bbe1.jpg",
+        "https://telegra.ph/file/729116321696d8b58fd04.jpg",
+        "https://telegra.ph/file/1201f1c1c0639453b9c2e.jpg",
+        "https://telegra.ph/file/1d422fac1689902ce9531.jpg",
+        "https://telegra.ph/file/8a4cb348ccbc9711aec39.jpg",
+        "https://telegra.ph/file/576388169d3599f8c5380.jpg",
+        "https://telegra.ph/file/9fc3d7243d2bc6f745e48.jpg",
+        "https://telegra.ph/file/aff977724d3a0f8d8131e.jpg",
+        "https://telegra.ph/file/8a3462a133b60343500bf.jpg",
+        "https://telegra.ph/file/abb6f62cdc8c6c70513c7.jpg",
+        "https://telegra.ph/file/4ad002393eeddaae6639d.jpg",
+        "https://telegra.ph/file/1c345622722fc14781a73.jpg",
+        "https://telegra.ph/file/662888cc32664e08c10fb.jpg",
+        "https://telegra.ph/file/6153b9a811aea987502ca.jpg",
+        "https://telegra.ph/file/72e01182ab6694adf1acb.jpg",
+        "https://telegra.ph/file/8ae61fb5f74aa06533c3b.jpg",
+        "https://telegra.ph/file/a32bb2678d0cc13ca68aa.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3632,
+    "title": "[ぷちめいぷる (ひさぎ)] 後輩男子に寝取られSEX 3",
+    "sourceUrl": "https://telegra.ph/ぷちめいぷる-ひさぎ-後輩男子に寝取られSEX-3-08-31",
+    "images": [
+        "https://telegra.ph/file/ed7c6b50b9cf7dfa8599b.jpg",
+        "https://telegra.ph/file/20afd2bdebb1c9b151459.jpg",
+        "https://telegra.ph/file/ae84fe65a584991ada2b8.jpg",
+        "https://telegra.ph/file/a8a98f162511b8ae3237c.jpg",
+        "https://telegra.ph/file/758eecb17b22849f4a615.jpg",
+        "https://telegra.ph/file/d137fcbcc38088d659c7e.jpg",
+        "https://telegra.ph/file/4bc393fc33b793d565bd9.jpg",
+        "https://telegra.ph/file/ebd42b804babc75a95569.jpg",
+        "https://telegra.ph/file/ec32252a2ced53af0a33c.jpg",
+        "https://telegra.ph/file/5bacd45d49ad2dfb09947.jpg",
+        "https://telegra.ph/file/637ff72393e4ef4752d29.jpg",
+        "https://telegra.ph/file/ab2e8c8d3c51ced3a495c.jpg",
+        "https://telegra.ph/file/9d8ef32e81eae9e48260a.jpg",
+        "https://telegra.ph/file/ba823edd5f454e3dec050.jpg",
+        "https://telegra.ph/file/6089bdc510c4858b73d66.jpg",
+        "https://telegra.ph/file/10da3d580b9d2ba64dfae.jpg",
+        "https://telegra.ph/file/563cb2b96cbb0f7f0a6f3.jpg",
+        "https://telegra.ph/file/45318af2de20627483c3f.jpg",
+        "https://telegra.ph/file/99f9902454730971f90e1.jpg",
+        "https://telegra.ph/file/b1528a73db7c8d2b4f749.jpg",
+        "https://telegra.ph/file/bd76ec81375700df9fbc5.jpg",
+        "https://telegra.ph/file/b0e581a57d00ea65497cc.jpg",
+        "https://telegra.ph/file/568a260572d04eebcd710.jpg",
+        "https://telegra.ph/file/f99b84ab8dc3878d710b5.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

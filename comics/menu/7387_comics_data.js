@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7387,
+    "title": "反抗期ヌキのススメ♡",
+    "sourceUrl": "https://telegra.ph/反抗期ヌキのススメ-08-31",
+    "images": [
+        "https://telegra.ph/file/1e8f2937c84058362fa00.jpg",
+        "https://telegra.ph/file/004a1356cd42b16a64fc0.jpg",
+        "https://telegra.ph/file/f0175dc624af5d235cba6.jpg",
+        "https://telegra.ph/file/ec88ed1b06cab4c173741.jpg",
+        "https://telegra.ph/file/04165d34899caa58d3633.jpg",
+        "https://telegra.ph/file/503b9c3e9053b80a14fe9.jpg",
+        "https://telegra.ph/file/8e2917855d50764826697.jpg",
+        "https://telegra.ph/file/7f6345407424f1e5e2b16.jpg",
+        "https://telegra.ph/file/b242854116bbb8ec57c67.jpg",
+        "https://telegra.ph/file/3152f9d71cb49356deaf4.jpg",
+        "https://telegra.ph/file/3bc19deb6a8e1764bdf56.jpg",
+        "https://telegra.ph/file/b4281bfc2dafcfa74acb8.jpg",
+        "https://telegra.ph/file/f8b883b7fe968174ff563.jpg",
+        "https://telegra.ph/file/3ead85debb20d9485d169.jpg",
+        "https://telegra.ph/file/89b7a9cfb76931dcba14e.jpg",
+        "https://telegra.ph/file/d9ada8c73c567749b5268.jpg",
+        "https://telegra.ph/file/e9bf6a36f264055509703.jpg",
+        "https://telegra.ph/file/5235bf3e700ed26928998.jpg",
+        "https://telegra.ph/file/23b1e63531689426ff0ca.jpg",
+        "https://telegra.ph/file/c8fc0f32f49cd3f59d009.jpg",
+        "https://telegra.ph/file/f8f64a0317d83597f1253.jpg",
+        "https://telegra.ph/file/c763c83f85d1a384ebfa7.jpg",
+        "https://telegra.ph/file/6eeaad0b0d7d734ed44bb.jpg",
+        "https://telegra.ph/file/feb296ec106175e314c33.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1548,
+    "title": "[狛形] リバーシブル (COMIC X-EROS #06)",
+    "sourceUrl": "https://telegra.ph/狛形-リバーシブル-COMIC-X-EROS-06-08-31",
+    "images": [
+        "https://telegra.ph/file/d2ab283382dd2cbc9a557.jpg",
+        "https://telegra.ph/file/f5e95954f1656fd79047a.jpg",
+        "https://telegra.ph/file/72a4118bf2ccb76bd296a.jpg",
+        "https://telegra.ph/file/16daaa94e97b228a771f8.jpg",
+        "https://telegra.ph/file/3872478c91dcae987c938.jpg",
+        "https://telegra.ph/file/fe8c96f95b43335a1f4bb.jpg",
+        "https://telegra.ph/file/db6f0d705eb4e27419781.jpg",
+        "https://telegra.ph/file/6dd95f7c33be3d60f16f0.jpg",
+        "https://telegra.ph/file/63dcf57781ed74c4f6b87.jpg",
+        "https://telegra.ph/file/5819527afcb7cdd6e401a.jpg",
+        "https://telegra.ph/file/c4152176346aaac1fca0f.jpg",
+        "https://telegra.ph/file/397b28593613491acaa7b.jpg",
+        "https://telegra.ph/file/43cf940814aa3fcc3ec81.jpg",
+        "https://telegra.ph/file/b9f6508cd7a2bffdb9327.jpg",
+        "https://telegra.ph/file/2357d1affbb7e7e8934b9.jpg",
+        "https://telegra.ph/file/fc0e1ea76dd117e8cdc64.jpg",
+        "https://telegra.ph/file/27b7b53ca1c07b45e9f32.jpg",
+        "https://telegra.ph/file/7f37971fd8de57d48f6ef.jpg",
+        "https://telegra.ph/file/c48edc03d4c8cc78274ae.jpg",
+        "https://telegra.ph/file/d6da155a54f6a32267b0b.jpg",
+        "https://telegra.ph/file/2898c16797ffe91fe34db.jpg",
+        "https://telegra.ph/file/0e810e7b2aec3f3fa55a9.jpg",
+        "https://telegra.ph/file/9f54a267ec5c45e63f728.jpg",
+        "https://telegra.ph/file/85c1fe5722355413a0660.jpg"
+    ]
+};

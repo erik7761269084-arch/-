@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1781,
+    "title": "[白銀木犀 (ぽし)] 親愛度最大の白雪千夜ちゃん (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/白銀木犀-ぽし-親愛度最大の白雪千夜ちゃん-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/8b424c7f283b1abd8b5ef.jpg",
+        "https://telegra.ph/file/b802ea1b01fcafa7e5d7f.jpg",
+        "https://telegra.ph/file/0b28ec06e9195c509d7d1.jpg",
+        "https://telegra.ph/file/f631488c7f4cf7010f333.jpg",
+        "https://telegra.ph/file/5be11ff3aee679a592fb8.jpg",
+        "https://telegra.ph/file/cbc255935f79e0e775238.jpg",
+        "https://telegra.ph/file/d3ba651fde95798785c66.jpg",
+        "https://telegra.ph/file/36e28acb55b3c65055103.jpg",
+        "https://telegra.ph/file/3d6c79c8b4e3a705e1bd0.jpg",
+        "https://telegra.ph/file/ee4b13573b8d5f56d8513.jpg",
+        "https://telegra.ph/file/a7d9fd8ef36bbdc77b3aa.jpg",
+        "https://telegra.ph/file/9b930404774e197fda406.jpg",
+        "https://telegra.ph/file/1c30b8ed198cc899ecd40.jpg",
+        "https://telegra.ph/file/96b102641cb75c7edeaf2.jpg",
+        "https://telegra.ph/file/ed147b2957644850d6fcf.jpg",
+        "https://telegra.ph/file/579680c41998fb615d952.jpg",
+        "https://telegra.ph/file/fb30b4fa0d5acf70748c4.jpg",
+        "https://telegra.ph/file/e2be110a69880e5fe86c5.jpg",
+        "https://telegra.ph/file/ed9146eeb8c75cc85504a.jpg",
+        "https://telegra.ph/file/efdf9383ceaa49cec0585.jpg",
+        "https://telegra.ph/file/fc19d0ddd484c11cdc1f9.jpg",
+        "https://telegra.ph/file/b3b09e7d3d14514d42d54.jpg",
+        "https://telegra.ph/file/ddd6c2a7fc87350640adc.jpg",
+        "https://telegra.ph/file/3ed4c286af6e3e527a932.jpg"
+    ]
+};

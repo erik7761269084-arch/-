@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2709,
+    "title": "[ichiro] 幼なじみ (COMIC アンスリウム 2020年11月号)",
+    "sourceUrl": "https://telegra.ph/ichiro-幼なじみ-COMIC-アンスリウム-2020年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f3bce00618edd1437e759.jpg",
+        "https://telegra.ph/file/6f101504e5192857004a8.jpg",
+        "https://telegra.ph/file/e1b705765f887535e09c7.jpg",
+        "https://telegra.ph/file/629661f558c0cbef68ecc.jpg",
+        "https://telegra.ph/file/61acf39680fe41d7ec388.jpg",
+        "https://telegra.ph/file/5d6be0d686d75606e2e07.jpg",
+        "https://telegra.ph/file/9bfc78b0d654fbed16bee.jpg",
+        "https://telegra.ph/file/2577095128e45d5cb051d.jpg",
+        "https://telegra.ph/file/49b206b0d16e122df3533.jpg",
+        "https://telegra.ph/file/c0efe3a2adfcb4a38f636.jpg",
+        "https://telegra.ph/file/7000c38952b8f1f118425.jpg",
+        "https://telegra.ph/file/e769712bd5dfee97a189f.jpg",
+        "https://telegra.ph/file/9ccc2648dbffe290cdfef.jpg",
+        "https://telegra.ph/file/7513c93cffa10c59148ef.jpg",
+        "https://telegra.ph/file/b77412773ae1ef61194a4.jpg",
+        "https://telegra.ph/file/01b6c511a110ee85b060e.jpg",
+        "https://telegra.ph/file/c26de70ac0941c44abc83.jpg",
+        "https://telegra.ph/file/d1f15a4cd866ccea33534.jpg",
+        "https://telegra.ph/file/d601ab329d6a50c12423d.jpg",
+        "https://telegra.ph/file/15eb82b274ea866a09d1d.jpg",
+        "https://telegra.ph/file/b4c8badb75df8668dc51a.jpg",
+        "https://telegra.ph/file/3baabf0f7caa3f39fc554.jpg",
+        "https://telegra.ph/file/9704cea2d141bb38dd200.jpg",
+        "https://telegra.ph/file/29379e86ccbbd4d39dbb1.jpg"
+    ]
+};

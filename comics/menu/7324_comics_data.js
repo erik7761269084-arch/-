@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7324,
+    "title": "アナラーアイドル",
+    "sourceUrl": "https://telegra.ph/アナラーアイドル-08-31",
+    "images": [
+        "https://telegra.ph/file/3cd0db734447567e25d0b.jpg",
+        "https://telegra.ph/file/e5fc48b3d8f5316bfbd1d.jpg",
+        "https://telegra.ph/file/0a589d077dbf1320a725a.jpg",
+        "https://telegra.ph/file/6fe93ce7141ccb5110113.jpg",
+        "https://telegra.ph/file/3fe959707490e49496ae9.jpg",
+        "https://telegra.ph/file/e8c037e40a504917a84f6.jpg",
+        "https://telegra.ph/file/b9d31b284b0d99a9d244a.jpg",
+        "https://telegra.ph/file/19fb579012fe30659807f.jpg",
+        "https://telegra.ph/file/008d9068f19c2c226e70c.jpg",
+        "https://telegra.ph/file/13282a2a0a2ed7a8124c5.jpg",
+        "https://telegra.ph/file/1dff8d19b6e7d568322e2.jpg",
+        "https://telegra.ph/file/a8f5e549ba9f0c847d503.jpg",
+        "https://telegra.ph/file/659cee73c1bedf62c9aa4.jpg",
+        "https://telegra.ph/file/f551a842bbb73ef7b43e5.jpg",
+        "https://telegra.ph/file/ecee5ed2e4a575d379a79.jpg",
+        "https://telegra.ph/file/bd47a89d83e5b264d9c5e.jpg",
+        "https://telegra.ph/file/4f08b27c9103b95c6d0e9.jpg",
+        "https://telegra.ph/file/1583c1d9aa287504461a8.jpg",
+        "https://telegra.ph/file/84c4d4e490d5bfe300a3f.jpg",
+        "https://telegra.ph/file/a33d05af9cbfff979f86b.jpg",
+        "https://telegra.ph/file/aebc5a6f962c8c2709ef2.jpg",
+        "https://telegra.ph/file/9adcfd23b0667f8dad3f5.jpg",
+        "https://telegra.ph/file/2f2567e7acd538074c41c.jpg",
+        "https://telegra.ph/file/1d89e6fa384517a0cc318.jpg",
+        "https://telegra.ph/file/afcbdf062cc35cf3f2743.jpg",
+        "https://telegra.ph/file/92b839ac77b7fa00ed77e.jpg"
+    ]
+};

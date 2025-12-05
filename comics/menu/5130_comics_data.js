@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5130,
+    "title": "(C100) [むらさきいろのよる (むらさき )] パパ活初心者桐花ちゃん",
+    "sourceUrl": "https://telegra.ph/C100-むらさきいろのよる-むらさき--パパ活初心者桐花ちゃん-08-31-2",
+    "images": [
+        "https://telegra.ph/file/fc367a4569054aadaaf29.jpg",
+        "https://telegra.ph/file/cc9ac4e9099d3b3bd0483.jpg",
+        "https://telegra.ph/file/9cddae9da6bf5efff292e.jpg",
+        "https://telegra.ph/file/c1300bfd198ed10c70397.jpg",
+        "https://telegra.ph/file/bbad730572d78a568a003.jpg",
+        "https://telegra.ph/file/c5076024ca814fbb56d0f.jpg",
+        "https://telegra.ph/file/36c07dc360f910d850d12.jpg",
+        "https://telegra.ph/file/22df9964ac7e9c2230df6.jpg",
+        "https://telegra.ph/file/59883b3afb1e22a018c47.jpg",
+        "https://telegra.ph/file/c101c42ef57eee1abb632.jpg",
+        "https://telegra.ph/file/8a9797bf9da577c35bf55.jpg",
+        "https://telegra.ph/file/36363a3771111446ce3b5.jpg",
+        "https://telegra.ph/file/e19dd5b3e4dcae1df4278.jpg",
+        "https://telegra.ph/file/392a1e13b99001d707968.jpg",
+        "https://telegra.ph/file/1daa1eb8b374c458d5292.jpg",
+        "https://telegra.ph/file/45d1c98a670bb36cc8559.jpg",
+        "https://telegra.ph/file/6616e18eac3c001b86a7e.jpg",
+        "https://telegra.ph/file/ffd485d2c731978dd52de.jpg",
+        "https://telegra.ph/file/9fa13ac4e343a0bbae353.jpg",
+        "https://telegra.ph/file/4933bb27d52ee33792aee.jpg",
+        "https://telegra.ph/file/ce2bdb2afea2d27b02818.jpg",
+        "https://telegra.ph/file/943104e582a185a9ba561.jpg",
+        "https://telegra.ph/file/3ac01cdaf94ce9f97001d.jpg"
+    ]
+};

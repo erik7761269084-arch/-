@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7113,
+    "title": "魔法少女ブレイブハーツ",
+    "sourceUrl": "https://telegra.ph/魔法少女ブレイブハーツ-08-31",
+    "images": [
+        "https://telegra.ph/file/ccad454a80fa5acaa263e.jpg",
+        "https://telegra.ph/file/15a149279b6ec5d08a6d8.jpg",
+        "https://telegra.ph/file/fe8e3d4e457f384afd564.jpg",
+        "https://telegra.ph/file/cdcc97e46eb6d62fe20f1.jpg",
+        "https://telegra.ph/file/163d6324ca3a3329275a2.jpg",
+        "https://telegra.ph/file/cb43375d9232a652965b8.jpg",
+        "https://telegra.ph/file/a1c451e9df13417f66c07.jpg",
+        "https://telegra.ph/file/573aaacd8035ce939fd5e.jpg",
+        "https://telegra.ph/file/1e64d333969db7b56703f.jpg",
+        "https://telegra.ph/file/9afa5164ab68273c93346.jpg",
+        "https://telegra.ph/file/e11f93f9cf539eb29f560.jpg",
+        "https://telegra.ph/file/0363c4b4e574749a2a64b.jpg",
+        "https://telegra.ph/file/8fc40f482929f5369f111.jpg",
+        "https://telegra.ph/file/6cb5efe701dc55f172a62.jpg",
+        "https://telegra.ph/file/68f478fd5461f5e67b66e.jpg",
+        "https://telegra.ph/file/bfa7ad9d96a300263ebb7.jpg",
+        "https://telegra.ph/file/f85fb2319234862aa474d.jpg",
+        "https://telegra.ph/file/550dcea2d996ec3449ece.jpg",
+        "https://telegra.ph/file/61df2d908068f124ce095.jpg",
+        "https://telegra.ph/file/c85c6e8e84e0c7d80d20b.jpg",
+        "https://telegra.ph/file/76861fe86c102ea621fb7.jpg",
+        "https://telegra.ph/file/2dda232d5bcd29b140eff.jpg",
+        "https://telegra.ph/file/0a303b01538687977aba7.jpg"
+    ]
+};

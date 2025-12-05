@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1366,
+    "title": "[かに村えびお] とろけるカラダ (COMICグーチョ vol.7)",
+    "sourceUrl": "https://telegra.ph/かに村えびお-とろけるカラダ-COMICグーチョ-vol7-08-31",
+    "images": [
+        "https://telegra.ph/file/0d6f2aa24aa5da6206f99.jpg",
+        "https://telegra.ph/file/b9995635b2461c2a383c5.jpg",
+        "https://telegra.ph/file/076549ce0d64e754017e4.jpg",
+        "https://telegra.ph/file/af99c7b975d6277ba6fd9.jpg",
+        "https://telegra.ph/file/9b63719cdb32597a17e76.jpg",
+        "https://telegra.ph/file/c5322fcfd0a64d364c701.jpg",
+        "https://telegra.ph/file/28f0a2a6d3dc36d5e43ce.jpg",
+        "https://telegra.ph/file/d9a3bc8f99e6ea852ca94.jpg",
+        "https://telegra.ph/file/3c43b14474fd06750e388.jpg",
+        "https://telegra.ph/file/f40a1d5e093a5c0d39a64.jpg",
+        "https://telegra.ph/file/1a54e62aed3745eb9013b.jpg",
+        "https://telegra.ph/file/104409a2806c643cad689.jpg",
+        "https://telegra.ph/file/990ebfba45fff14b639d9.jpg",
+        "https://telegra.ph/file/d14924a5708c5b918b2bf.jpg",
+        "https://telegra.ph/file/d2748ee00c7c4abe775b4.jpg",
+        "https://telegra.ph/file/6173667a1eb99c47c8504.jpg",
+        "https://telegra.ph/file/419e1f5ce797d8e0fd6b4.jpg",
+        "https://telegra.ph/file/1a4d9b7a2d471715506f0.jpg",
+        "https://telegra.ph/file/26bdd71afc3c0fb208fea.jpg",
+        "https://telegra.ph/file/79504e2c934b73b45ff0a.jpg",
+        "https://telegra.ph/file/8a251fec58ae16902a208.jpg",
+        "https://telegra.ph/file/882be8b20dbd2709d2083.jpg",
+        "https://telegra.ph/file/008f1d8c0af390f3b9662.jpg",
+        "https://telegra.ph/file/50aa27738ace3b46d59fc.jpg",
+        "https://telegra.ph/file/dfbb990e842a33e4836f0.jpg",
+        "https://telegra.ph/file/66a887c52cd37d88c09a7.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7599,
+    "title": "すきよすきよもスキのうち",
+    "sourceUrl": "https://telegra.ph/すきよすきよもスキのうち-08-31",
+    "images": [
+        "https://telegra.ph/file/ac0f25d8a67ba42adb379.jpg",
+        "https://telegra.ph/file/d7b341bdfd3cc0e650f90.jpg",
+        "https://telegra.ph/file/226575c0efdc7e7c4a81c.jpg",
+        "https://telegra.ph/file/8a62ac0d871fa19703e26.jpg",
+        "https://telegra.ph/file/2535f489060071347254f.jpg",
+        "https://telegra.ph/file/f992162032587a09e9cbd.jpg",
+        "https://telegra.ph/file/3636510379d7f1444f421.jpg",
+        "https://telegra.ph/file/45d4ef9c1a4c159807dc2.jpg",
+        "https://telegra.ph/file/e78876f834f992b46d07d.jpg",
+        "https://telegra.ph/file/c89de485b3fcd99b35236.jpg",
+        "https://telegra.ph/file/4b8b860b0f184768cae97.jpg",
+        "https://telegra.ph/file/f3f00724f8673729a79f8.jpg",
+        "https://telegra.ph/file/cb5216dfbf90d7d8758da.jpg",
+        "https://telegra.ph/file/b4d8fd80e484274d15d45.jpg",
+        "https://telegra.ph/file/9ec93b98f601c450e9800.jpg",
+        "https://telegra.ph/file/2d2e1a01cdd1188111b64.jpg",
+        "https://telegra.ph/file/821fa075205d733445c17.jpg",
+        "https://telegra.ph/file/21ee9f4364fc1fbb400b4.jpg",
+        "https://telegra.ph/file/0fc35fa82b6ee2364b5b8.jpg",
+        "https://telegra.ph/file/76be1f4ec9a12b86689dc.jpg",
+        "https://telegra.ph/file/987eada9f4e792215f1e3.jpg",
+        "https://telegra.ph/file/36288f24791f62d686fe7.jpg",
+        "https://telegra.ph/file/b5691ca33bf2563e38355.jpg",
+        "https://telegra.ph/file/50c7157eb3d8f63623302.jpg"
+    ]
+};

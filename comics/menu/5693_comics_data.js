@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5693,
+    "title": "[藍夜] 逃避行の果てに",
+    "sourceUrl": "https://telegra.ph/藍夜-逃避行の果てに-08-31",
+    "images": [
+        "https://telegra.ph/file/7f8a2a8ec0400e624e2dd.jpg",
+        "https://telegra.ph/file/2cdd78990566b6435b0f0.jpg",
+        "https://telegra.ph/file/c0da1a06d33851af1d8b0.jpg",
+        "https://telegra.ph/file/c56cd08522e1f8108daea.jpg",
+        "https://telegra.ph/file/84bc0962de293bb0dcd5a.jpg",
+        "https://telegra.ph/file/984a49b5d227ce200e000.jpg",
+        "https://telegra.ph/file/c2b3bae3fd1f1b213eac7.jpg",
+        "https://telegra.ph/file/e0ce173de07c2f51c360c.jpg",
+        "https://telegra.ph/file/8fabf7d5b3bae2ae9caed.jpg",
+        "https://telegra.ph/file/68cb8e042f31531494ed1.jpg",
+        "https://telegra.ph/file/b0e92a73fa8e9d00add78.jpg",
+        "https://telegra.ph/file/8ef5456ab3b0818aabd28.jpg",
+        "https://telegra.ph/file/c61719fda5fa851a441e6.jpg",
+        "https://telegra.ph/file/c4e6d2a4b6e47871e5771.jpg",
+        "https://telegra.ph/file/9255cd7718b71b99c8c0e.jpg",
+        "https://telegra.ph/file/1c967728ebcb6da1a05c8.jpg",
+        "https://telegra.ph/file/50a870a60057e7b9bd87a.jpg",
+        "https://telegra.ph/file/3889c4a869bfc4cff1ac0.jpg",
+        "https://telegra.ph/file/385e92f86cc276d1f05b9.jpg",
+        "https://telegra.ph/file/1bf59ed358ad5050e8904.jpg",
+        "https://telegra.ph/file/146a5fc8948d897cc2055.jpg",
+        "https://telegra.ph/file/21d044fd9fecd901e95b6.jpg",
+        "https://telegra.ph/file/6f53e9734b22b17da780d.jpg",
+        "https://telegra.ph/file/04c5fb950c2bf6feadb90.jpg",
+        "https://telegra.ph/file/429ca8230fce76080e8b6.jpg",
+        "https://telegra.ph/file/8732cceff90d76938c7fc.jpg"
+    ]
+};

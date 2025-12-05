@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6376,
+    "title": "Unreasonable world",
+    "sourceUrl": "https://telegra.ph/Unreasonable-world-08-31",
+    "images": [
+        "https://telegra.ph/file/95c2e8f37f28239b3d24d.jpg",
+        "https://telegra.ph/file/5665355a6f177d355eb13.jpg",
+        "https://telegra.ph/file/f8fc7ea0d72ae5e779efe.jpg",
+        "https://telegra.ph/file/7376bfdd32731002eb451.jpg",
+        "https://telegra.ph/file/c93bdc5414a9d86e9dae0.jpg",
+        "https://telegra.ph/file/5a0779b7129eb52984f8d.jpg",
+        "https://telegra.ph/file/4b8b872d1adf7e7ae9035.jpg",
+        "https://telegra.ph/file/ff23b758fb4eaac240a78.jpg",
+        "https://telegra.ph/file/4b7e0f9391833cb2442b1.jpg",
+        "https://telegra.ph/file/d2f247672a5d7e5781e6a.jpg",
+        "https://telegra.ph/file/34b203d8b079135d5a87d.jpg",
+        "https://telegra.ph/file/10ef6dc4cd85cf26d9197.jpg",
+        "https://telegra.ph/file/562ab4949f598e158ce2a.jpg",
+        "https://telegra.ph/file/16b0fdffefa6333184530.jpg",
+        "https://telegra.ph/file/69482d8633716106a5fff.jpg",
+        "https://telegra.ph/file/fa5d85fc2d2cfba35024b.jpg",
+        "https://telegra.ph/file/6fc95c6634b5381d2fb71.jpg",
+        "https://telegra.ph/file/288f56e7b79c55da3e0bd.jpg",
+        "https://telegra.ph/file/862e91752ec761d888958.jpg",
+        "https://telegra.ph/file/2b9b7a088f6843faf3137.jpg",
+        "https://telegra.ph/file/a44b803bc71a66e283d60.jpg",
+        "https://telegra.ph/file/0d04a046c3cd2a961e335.jpg",
+        "https://telegra.ph/file/23b071db0afc80b189705.jpg"
+    ]
+};

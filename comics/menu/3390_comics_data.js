@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3390,
+    "title": "[つくてん (円つくも)] 甘えさせてっ長門さま (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/つくてん-円つくも-甘えさせてっ長門さま-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/446f1df7e9f5a96b370a6.jpg",
+        "https://telegra.ph/file/68d45b7d7c487ca821a15.jpg",
+        "https://telegra.ph/file/340f50a1a042706644dd1.jpg",
+        "https://telegra.ph/file/b72f4ee9e9e731d1aeea6.jpg",
+        "https://telegra.ph/file/66cd80aced0dc92f85d70.jpg",
+        "https://telegra.ph/file/d5e66722a4ffe62bb4c08.jpg",
+        "https://telegra.ph/file/513ccbbe6bc1a43a1d4ef.jpg",
+        "https://telegra.ph/file/c76796a27446e29f61436.jpg",
+        "https://telegra.ph/file/212a5e6b5fb7fbf9367cf.jpg",
+        "https://telegra.ph/file/88c5815948a1c8291ebb1.jpg",
+        "https://telegra.ph/file/f698081cecc9cc7a91257.jpg",
+        "https://telegra.ph/file/ba70569935ba97bfbc215.jpg",
+        "https://telegra.ph/file/e45b0472718717e798da1.jpg",
+        "https://telegra.ph/file/add8a19dee0de8b368a58.jpg",
+        "https://telegra.ph/file/0fda393f432176c77094f.jpg",
+        "https://telegra.ph/file/26e536e8ad437c3e38be4.jpg",
+        "https://telegra.ph/file/ad4f2fb5548c7f853f796.jpg",
+        "https://telegra.ph/file/d07f8034f2c27296bdb88.jpg",
+        "https://telegra.ph/file/5a4ca36c308fb3015b8b8.jpg",
+        "https://telegra.ph/file/62de2c1bfc75565c235f5.jpg",
+        "https://telegra.ph/file/ae298f5c788148d149125.jpg",
+        "https://telegra.ph/file/2f50448bc6c0f197823a0.jpg",
+        "https://telegra.ph/file/9cc67f5b740bbbe69d070.jpg",
+        "https://telegra.ph/file/4c59ca15da694c44fa5b9.jpg",
+        "https://telegra.ph/file/c32c2fa3899f52ec2f0dd.jpg",
+        "https://telegra.ph/file/27bf799ee0cf1ef041772.jpg"
+    ]
+};

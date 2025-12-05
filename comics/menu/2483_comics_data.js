@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2483,
+    "title": "[浦瀬しおじ] 妖女館の日常 第四話",
+    "sourceUrl": "https://telegra.ph/浦瀬しおじ-妖女館の日常-第四話-08-31",
+    "images": [
+        "https://telegra.ph/file/77b560ed0cf050b7291f3.jpg",
+        "https://telegra.ph/file/ddecd11c84f8372d70f21.jpg",
+        "https://telegra.ph/file/0dba2c5a13e75d591c6dc.jpg",
+        "https://telegra.ph/file/4f14dbb4f9c201eba2225.jpg",
+        "https://telegra.ph/file/04fb7fa2bc44ebb816393.jpg",
+        "https://telegra.ph/file/2bbdece4ac1d1f2bcd23b.jpg",
+        "https://telegra.ph/file/9a0998aca64a4e5e00021.jpg",
+        "https://telegra.ph/file/da6c5714b0d762d508aaa.jpg",
+        "https://telegra.ph/file/efbf0b923061e0db8ddb7.jpg",
+        "https://telegra.ph/file/cde08b1161f1283bf64ef.jpg",
+        "https://telegra.ph/file/233ff90bda1df09107a61.jpg",
+        "https://telegra.ph/file/88e91dd04f3ebe88376b9.jpg",
+        "https://telegra.ph/file/ada05f4e19b4004ef38c6.jpg",
+        "https://telegra.ph/file/700bcd61bddbb794a9c65.jpg",
+        "https://telegra.ph/file/d845881db8cbabb3a5ed2.jpg",
+        "https://telegra.ph/file/d8a951666bea712fa4e16.jpg",
+        "https://telegra.ph/file/6890039ba8b85baf12ac1.jpg",
+        "https://telegra.ph/file/55f88e996641ad63a84a4.jpg",
+        "https://telegra.ph/file/0af72ed60a94c8a6910d7.jpg",
+        "https://telegra.ph/file/5a993d02ed0e456a961a5.jpg",
+        "https://telegra.ph/file/d2ae231a67a76921cae5c.jpg",
+        "https://telegra.ph/file/e85b5ad7c0e111d046578.jpg",
+        "https://telegra.ph/file/a2428945a7d4291a5f53b.jpg",
+        "https://telegra.ph/file/d4d48a9b4da95a91b3a01.jpg",
+        "https://telegra.ph/file/788cd4a2a7422d10f9c58.jpg"
+    ]
+};

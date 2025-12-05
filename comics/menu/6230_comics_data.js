@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6230,
+    "title": "[みたらし侯成] 大人への階段",
+    "sourceUrl": "https://telegra.ph/みたらし侯成-大人への階段-08-31",
+    "images": [
+        "https://telegra.ph/file/240596b1942a03502e793.png",
+        "https://telegra.ph/file/32842f7700d3dcaa210e6.png",
+        "https://telegra.ph/file/aeb09385a835aa0e1bc90.png",
+        "https://telegra.ph/file/71023d3c9a847456366ac.png",
+        "https://telegra.ph/file/4bd1a9971e8b8bc063c36.png",
+        "https://telegra.ph/file/cef5c2cf3a1e41a343844.png",
+        "https://telegra.ph/file/f9c44bcdf26bb865b6175.png",
+        "https://telegra.ph/file/233013ae32549eb4f0f78.png",
+        "https://telegra.ph/file/a5043139f50519f6a8b0b.png",
+        "https://telegra.ph/file/cb8d40bb418ca33fbb207.png",
+        "https://telegra.ph/file/cf3e5ecbb59f1e0a6f8ad.png",
+        "https://telegra.ph/file/acc8b14e0c68e3d0f2693.png",
+        "https://telegra.ph/file/e8e6251dd4645b19d8c33.png",
+        "https://telegra.ph/file/4d9a85eb85c2fd21bafd9.png",
+        "https://telegra.ph/file/d5cc1da16e487b74eecd7.png",
+        "https://telegra.ph/file/429151c9ea95f20ef3857.png",
+        "https://telegra.ph/file/aeeb58e4973939b1a3512.png",
+        "https://telegra.ph/file/87a3fc4f162460b33f160.png",
+        "https://telegra.ph/file/13b6cbc36bfe5fd0406ee.png",
+        "https://telegra.ph/file/4b3c29dbb3eb8ae088c93.png",
+        "https://telegra.ph/file/3418d66776e6ff754e4e4.png",
+        "https://telegra.ph/file/b4dbbd4e438a036e202c8.png",
+        "https://telegra.ph/file/27dacb25d361d66b1a5ed.png",
+        "https://telegra.ph/file/4d6cdabe3bd4e4840573b.png"
+    ]
+};

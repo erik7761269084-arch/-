@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6454,
+    "title": "ままぞん (クイーンズブレイド)",
+    "sourceUrl": "https://telegra.ph/ままぞん-クイーンズブレイド-08-31",
+    "images": [
+        "https://telegra.ph/file/061ad1e94380d0a13605a.jpg",
+        "https://telegra.ph/file/4ba3f1fd9c637dcedb771.jpg",
+        "https://telegra.ph/file/bd79111e11dab310a11bf.jpg",
+        "https://telegra.ph/file/bfdfb0755b6475bc0b8f0.jpg",
+        "https://telegra.ph/file/a628ff64fb37718f51446.jpg",
+        "https://telegra.ph/file/b996f378eddb6d977252f.jpg",
+        "https://telegra.ph/file/037bc44e67ffbdbda92f6.jpg",
+        "https://telegra.ph/file/defa6a7d92210fd22fe8c.jpg",
+        "https://telegra.ph/file/2730d0c772d06037ca8f0.jpg",
+        "https://telegra.ph/file/7e884b388582f8035c265.jpg",
+        "https://telegra.ph/file/bf6505c557cf7039af465.jpg",
+        "https://telegra.ph/file/008d1dfe3109bfa95799e.jpg",
+        "https://telegra.ph/file/7620c48c6cc457ae97eff.jpg",
+        "https://telegra.ph/file/0cfcdaaf8f95f42a32ebc.jpg",
+        "https://telegra.ph/file/57f3264f75ad5cc65c2f5.jpg",
+        "https://telegra.ph/file/ffad406879be9d3d6fee7.jpg",
+        "https://telegra.ph/file/1123afbfeb8899567d2e0.jpg",
+        "https://telegra.ph/file/fb20ab3de40d1bb631099.jpg",
+        "https://telegra.ph/file/73aeeb8828c533e689ef5.jpg",
+        "https://telegra.ph/file/eff23f035aa4aa8b85623.jpg",
+        "https://telegra.ph/file/7ff23ead3f99a297f3ebe.jpg",
+        "https://telegra.ph/file/49bf27e30ec84c0e82896.jpg",
+        "https://telegra.ph/file/aacd86d6a463433bbccfd.jpg"
+    ]
+};

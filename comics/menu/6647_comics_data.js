@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6647,
+    "title": "恋色模様8 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/恋色模様8-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/7e726a617b28ca78f5e49.jpg",
+        "https://telegra.ph/file/732391e05efa35897d214.jpg",
+        "https://telegra.ph/file/24baf1ad0bbd87e482d0e.jpg",
+        "https://telegra.ph/file/52527fb9261ae4aa02ebc.jpg",
+        "https://telegra.ph/file/5b4fe4bf394f603607cb6.jpg",
+        "https://telegra.ph/file/ed4044d4b8c3942993997.jpg",
+        "https://telegra.ph/file/090e305d183bccc70902e.jpg",
+        "https://telegra.ph/file/d063e9bb003ad2d5c0410.jpg",
+        "https://telegra.ph/file/f308392ad1d6042b25620.jpg",
+        "https://telegra.ph/file/6cf3de26ffc3565f26666.jpg",
+        "https://telegra.ph/file/d8f79ddcb295814a24eec.jpg",
+        "https://telegra.ph/file/39d507c11ea6bcaae1883.jpg",
+        "https://telegra.ph/file/a37a7a2cf742dd1ced6d2.jpg",
+        "https://telegra.ph/file/46c64ce67eab9c649f4fc.jpg",
+        "https://telegra.ph/file/2546d4ae581e6420425a3.jpg",
+        "https://telegra.ph/file/d9e4e8c94f2f8946bb1bf.jpg",
+        "https://telegra.ph/file/fa88887db62136f617b75.jpg",
+        "https://telegra.ph/file/2a7d55b6be4857fe02363.jpg",
+        "https://telegra.ph/file/e16120a9f4ec63374c317.jpg",
+        "https://telegra.ph/file/c27fbaf6e9465d14c831a.jpg",
+        "https://telegra.ph/file/f51c8e4eb9bbf2c548594.jpg",
+        "https://telegra.ph/file/86bf62a5f58119c0d5fb4.jpg",
+        "https://telegra.ph/file/e86cb62d83340631ccd76.jpg",
+        "https://telegra.ph/file/fdc761f56cd0841b63a96.jpg",
+        "https://telegra.ph/file/0fa5d8f270b78930549cc.jpg"
+    ]
+};

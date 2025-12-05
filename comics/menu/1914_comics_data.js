@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1914,
+    "title": "(C99) [マキノ事務所 (滝美梨香)] SISTERS ～隠された記憶～ ACT.12 AKIKO Ⅵ + おまけ (SISTERS ～夏の最後の日～)",
+    "sourceUrl": "https://telegra.ph/C99-マキノ事務所-滝美梨香-SISTERS-隠された記憶-ACT12-AKIKO---おまけ-SISTERS-夏の最後の日-08-31",
+    "images": [
+        "https://telegra.ph/file/ac917f41a49a3ad9bdf65.jpg",
+        "https://telegra.ph/file/4b92400c4fbf6747835f1.jpg",
+        "https://telegra.ph/file/a577d775df08c88240627.jpg",
+        "https://telegra.ph/file/190e4245bc6452b860f10.jpg",
+        "https://telegra.ph/file/36bb233dd7a0ba8c690ca.jpg",
+        "https://telegra.ph/file/62aaa996d8c61ab7b74bb.jpg",
+        "https://telegra.ph/file/e658ac343ed206710e895.jpg",
+        "https://telegra.ph/file/584982fdc59d77a3d2e42.jpg",
+        "https://telegra.ph/file/7abca01cbb24661078f66.jpg",
+        "https://telegra.ph/file/516d2e817a574a69310c0.jpg",
+        "https://telegra.ph/file/6d8b3e9b780f02165c5e2.jpg",
+        "https://telegra.ph/file/8bae333ce6ae4c98d6593.jpg",
+        "https://telegra.ph/file/d5ca445d92c4c587047c7.jpg",
+        "https://telegra.ph/file/eb5f7bcbf43ee96fae3e3.jpg",
+        "https://telegra.ph/file/d47b3e307375cfaf0cac6.jpg",
+        "https://telegra.ph/file/26a580f2a12c8f447425c.jpg",
+        "https://telegra.ph/file/ec0ca06920d0c5e132bcd.jpg",
+        "https://telegra.ph/file/f975668f086dd37cfbb9b.jpg",
+        "https://telegra.ph/file/b480b8fffc7ed82cc5fa6.jpg",
+        "https://telegra.ph/file/73b16c5f3580ffee2119c.jpg",
+        "https://telegra.ph/file/c256770b91ee5d1b77047.jpg",
+        "https://telegra.ph/file/62e634459b18652ac2a7e.jpg",
+        "https://telegra.ph/file/382fb30a8640642fb31b5.jpg",
+        "https://telegra.ph/file/60e13f09c126acff826a6.jpg",
+        "https://telegra.ph/file/13d8b0777206b332e3314.jpg",
+        "https://telegra.ph/file/d8103398649a5623b74eb.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7092,
+    "title": "股間心霊スポット!科学で気持ちいい除霊!-",
+    "sourceUrl": "https://telegra.ph/股間心霊スポット科学で気持ちいい除霊-08-31",
+    "images": [
+        "https://telegra.ph/file/6f9ae4d0346a0bafaebcd.jpg",
+        "https://telegra.ph/file/20d7997f587aadee96b06.jpg",
+        "https://telegra.ph/file/a8daa83afaa27341ebded.jpg",
+        "https://telegra.ph/file/062e6ba259a8eec562b95.jpg",
+        "https://telegra.ph/file/24fd87d391c2111986e34.jpg",
+        "https://telegra.ph/file/d3d6344361bdf899fa4bd.jpg",
+        "https://telegra.ph/file/f50f4b774eca9aec33a87.jpg",
+        "https://telegra.ph/file/165906af6385f0b3aeb6e.jpg",
+        "https://telegra.ph/file/7f78acfcd00d2c030c6ea.jpg",
+        "https://telegra.ph/file/480048993e1fb8a3711a1.jpg",
+        "https://telegra.ph/file/db1590fd7951646b33e3c.jpg",
+        "https://telegra.ph/file/0471e95845ce07d838e3f.jpg",
+        "https://telegra.ph/file/c696cc44c501e4112cc4c.jpg",
+        "https://telegra.ph/file/72b48d96da523d3c50db6.jpg",
+        "https://telegra.ph/file/6b5380df0ebc244bed7f8.jpg",
+        "https://telegra.ph/file/4afa4979f6ffc94abd9bb.jpg",
+        "https://telegra.ph/file/40d44e77df4eb3cb52736.jpg",
+        "https://telegra.ph/file/13d051c45eff0272756f3.jpg",
+        "https://telegra.ph/file/ca4378d12ea1602c7fb0b.jpg",
+        "https://telegra.ph/file/45448925f0c1c04249c40.jpg",
+        "https://telegra.ph/file/a4b87477037b4574cc1f2.jpg",
+        "https://telegra.ph/file/fcb336b9820ce6278ad2a.jpg",
+        "https://telegra.ph/file/207fadeea36af0cedeabd.jpg",
+        "https://telegra.ph/file/ea0ac23b1c2bc145eb2f6.jpg"
+    ]
+};

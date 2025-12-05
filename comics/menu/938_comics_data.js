@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 938,
+    "title": "[ひとのふんどし (ゆきよし真水)] 隣のJKに脅されて入り浸られてます(泣 2",
+    "sourceUrl": "https://telegra.ph/ひとのふんどし-ゆきよし真水-隣のJKに脅されて入り浸られてます泣-2-08-31",
+    "images": [
+        "https://telegra.ph/file/a339f7b888f0c5d625256.jpg",
+        "https://telegra.ph/file/9195680a0d23b06785744.jpg",
+        "https://telegra.ph/file/4088c87ac954465be894e.jpg",
+        "https://telegra.ph/file/4ee6483f9337faaca0e3d.jpg",
+        "https://telegra.ph/file/2b66111fcc43cb3379714.jpg",
+        "https://telegra.ph/file/05f6c6f7cacb1f9d1d51d.jpg",
+        "https://telegra.ph/file/392c731bc2412235b8603.jpg",
+        "https://telegra.ph/file/943df3ed834872c805067.jpg",
+        "https://telegra.ph/file/14c15d4575e20db315158.jpg",
+        "https://telegra.ph/file/21cc1f090819ac1887e53.jpg",
+        "https://telegra.ph/file/5f1aecf043e8ea3a4fa50.jpg",
+        "https://telegra.ph/file/0bef7fa00035636074f95.jpg",
+        "https://telegra.ph/file/80051be0dc0dad9d06129.jpg",
+        "https://telegra.ph/file/b8dd7ea9b35daa487b547.jpg",
+        "https://telegra.ph/file/3a16af9a4b0e21fac378c.jpg",
+        "https://telegra.ph/file/bf2def824a964fd02b240.jpg",
+        "https://telegra.ph/file/f65ffbf838c11a44bceeb.jpg",
+        "https://telegra.ph/file/b4807552c8d346aa0307c.jpg",
+        "https://telegra.ph/file/6f6e0f21a7ff61c54a084.jpg",
+        "https://telegra.ph/file/27c35376f2a6ad0ca58b6.jpg",
+        "https://telegra.ph/file/cdfc5bc3bec05d414f3e3.jpg",
+        "https://telegra.ph/file/6cdcc9bd927531a297ee6.jpg",
+        "https://telegra.ph/file/343f135b69675879e1813.jpg",
+        "https://telegra.ph/file/b2a00d8be055d10d73a08.jpg",
+        "https://telegra.ph/file/7124f69c5fb474cf8acde.jpg",
+        "https://telegra.ph/file/f393ef1e50d6ce8954a12.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7099,
+    "title": "ヤる気スイッチの入れ方",
+    "sourceUrl": "https://telegra.ph/ヤる気スイッチの入れ方-08-31",
+    "images": [
+        "https://telegra.ph/file/38a125bc1ae8fddea17ed.jpg",
+        "https://telegra.ph/file/80dbf64b993b1f2a3f7b3.jpg",
+        "https://telegra.ph/file/ba99aec46f3c264286782.jpg",
+        "https://telegra.ph/file/f8ed1b96f173cce25cb09.jpg",
+        "https://telegra.ph/file/3a4df9ee7dc7420047a52.jpg",
+        "https://telegra.ph/file/82e96c5ed077ae26fd36d.jpg",
+        "https://telegra.ph/file/c8721ca953b66bc68ce16.jpg",
+        "https://telegra.ph/file/6ce3a364fe515aff07322.jpg",
+        "https://telegra.ph/file/73638985a3f16200b9939.jpg",
+        "https://telegra.ph/file/1c6f249b77c28d9fc1dba.jpg",
+        "https://telegra.ph/file/c40404a60ddd86ce4166e.jpg",
+        "https://telegra.ph/file/823a9eca63f064f987c21.jpg",
+        "https://telegra.ph/file/68f36a74c0ac73f7e0fbe.jpg",
+        "https://telegra.ph/file/00b971eee902a65ad7f09.jpg",
+        "https://telegra.ph/file/2e6a090e6d31d23bb7ae0.jpg",
+        "https://telegra.ph/file/14dd7be9203b425a252f0.jpg",
+        "https://telegra.ph/file/57de1016d2eeeca07e441.jpg",
+        "https://telegra.ph/file/f125a6f0443a7a26492bb.jpg",
+        "https://telegra.ph/file/a549a0cfc9da94dc3338a.jpg",
+        "https://telegra.ph/file/fde34da790b2a127e3179.jpg",
+        "https://telegra.ph/file/134600125a2270297b2ee.jpg",
+        "https://telegra.ph/file/a8442f7ce7b6510930f1c.jpg",
+        "https://telegra.ph/file/a43a60d658b40a222c368.jpg",
+        "https://telegra.ph/file/52d3b9b6711d1b7a754fa.jpg"
+    ]
+};

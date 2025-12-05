@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6237,
+    "title": "[マガタマ] TIME SLOT",
+    "sourceUrl": "https://telegra.ph/マガタマ-TIME-SLOT-08-31",
+    "images": [
+        "https://telegra.ph/file/8e8c0dfbaa84d63ca6d15.jpg",
+        "https://telegra.ph/file/9e8cff817c85e27e62a48.jpg",
+        "https://telegra.ph/file/1b159cb86b63352a6c2de.jpg",
+        "https://telegra.ph/file/2268c4656717d7541c5fd.jpg",
+        "https://telegra.ph/file/3276530b47f606b539762.jpg",
+        "https://telegra.ph/file/5b0aaf628e5469b4e2d1e.jpg",
+        "https://telegra.ph/file/d6548531301fd059ae993.jpg",
+        "https://telegra.ph/file/6b1620a6dd9f548a6f191.jpg",
+        "https://telegra.ph/file/96e95f4c7fa4e3d21c707.jpg",
+        "https://telegra.ph/file/213ac713d767f8fcbd434.jpg",
+        "https://telegra.ph/file/c74e81397b007c222fa2c.jpg",
+        "https://telegra.ph/file/72231b8a9c3aa4f2c6087.jpg",
+        "https://telegra.ph/file/edc048d9343e46f439b06.jpg",
+        "https://telegra.ph/file/bc18ef7b68dbe670ccc2f.jpg",
+        "https://telegra.ph/file/e01bc8564bf552ad5ea27.jpg",
+        "https://telegra.ph/file/cde8b010a44834924e826.jpg",
+        "https://telegra.ph/file/07d6ad90fd8b0b4f32a10.jpg",
+        "https://telegra.ph/file/b3ef42c0776c34e6388e1.jpg",
+        "https://telegra.ph/file/c44116f95b4d8388c8851.jpg",
+        "https://telegra.ph/file/226535dd6803178e76821.jpg",
+        "https://telegra.ph/file/e3c8c6a2d881ce5848130.jpg",
+        "https://telegra.ph/file/8cba3b6886a737013747c.jpg",
+        "https://telegra.ph/file/7f8b8d15b5a5a9aec5971.jpg",
+        "https://telegra.ph/file/f74ad9d2178f0449d061c.jpg"
+    ]
+};

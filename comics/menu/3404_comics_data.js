@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3404,
+    "title": "[桜湯ハル] キラキラ 雑踏ツインテール (COMIC 真激 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/桜湯ハル-キラキラ-雑踏ツインテール-COMIC-真激-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/5ce2ced3a8b3df5f43bda.jpg",
+        "https://telegra.ph/file/f60fe69fe8ea71d1f50ac.jpg",
+        "https://telegra.ph/file/5a56fb661fe2da1f943a8.jpg",
+        "https://telegra.ph/file/ebea41c3ad5597ea02776.jpg",
+        "https://telegra.ph/file/ade4171dd99b773aaa8ea.jpg",
+        "https://telegra.ph/file/4d20ab3487764d0efd39b.jpg",
+        "https://telegra.ph/file/6a81d47af07408e8c5392.jpg",
+        "https://telegra.ph/file/2d4bd2ee023757e67bc21.jpg",
+        "https://telegra.ph/file/5f278e47c4939df439f49.jpg",
+        "https://telegra.ph/file/2460f1411412584766ef1.jpg",
+        "https://telegra.ph/file/4999c156f8aa2c6c19d85.jpg",
+        "https://telegra.ph/file/67d552598bf1838c52742.jpg",
+        "https://telegra.ph/file/919526c91d05e4a0e6351.jpg",
+        "https://telegra.ph/file/136a3ee1b578c5560fc9a.jpg",
+        "https://telegra.ph/file/443cb59fbd9beb77eb67d.jpg",
+        "https://telegra.ph/file/5389389b153da9dbad6ae.jpg",
+        "https://telegra.ph/file/509ffe48c873cd9d9a110.jpg",
+        "https://telegra.ph/file/c05346b524feaafa1b662.jpg",
+        "https://telegra.ph/file/add37604266ea75d3e099.jpg",
+        "https://telegra.ph/file/721f4275f56ccb5814e4d.jpg",
+        "https://telegra.ph/file/37d6567682dc60fdb7282.jpg",
+        "https://telegra.ph/file/ddba11735f1f15c4e64e5.jpg",
+        "https://telegra.ph/file/8bf0734b3daeb04a91e7b.jpg",
+        "https://telegra.ph/file/dcacd30073e71d3a139e5.jpg"
+    ]
+};

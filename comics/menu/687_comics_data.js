@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 687,
+    "title": "[ふぇると工房 (Flugel)] メイドのG36 (少女前線)",
+    "sourceUrl": "https://telegra.ph/ふぇると工房-Flugel-メイドのG36-少女前線-08-31",
+    "images": [
+        "https://telegra.ph/file/5944414c231280b3be9ff.jpg",
+        "https://telegra.ph/file/925d06b4e5a056c9e479d.jpg",
+        "https://telegra.ph/file/e85d3f50a7097b401b9ce.jpg",
+        "https://telegra.ph/file/8d06ed4cf203734b60cc9.jpg",
+        "https://telegra.ph/file/54d4ba579974ec9fc3438.jpg",
+        "https://telegra.ph/file/f6bcc39da226d3eea3e47.jpg",
+        "https://telegra.ph/file/a5e2642b357213e94bcad.jpg",
+        "https://telegra.ph/file/962517967828a98d95029.jpg",
+        "https://telegra.ph/file/3da1a18c074a186738882.jpg",
+        "https://telegra.ph/file/367f7c186310f077d8948.jpg",
+        "https://telegra.ph/file/a455cbcc47a267be5e055.jpg",
+        "https://telegra.ph/file/bbc1d717b0705d469c6e0.jpg",
+        "https://telegra.ph/file/941ed69b9be1771155b8d.jpg",
+        "https://telegra.ph/file/7f09e54c9b1de70cf20bc.jpg",
+        "https://telegra.ph/file/4a7ee31f562451fc86e87.jpg",
+        "https://telegra.ph/file/61736ef0a1482463cf67e.jpg",
+        "https://telegra.ph/file/80705908f3f2912160b5a.jpg",
+        "https://telegra.ph/file/d0174c92dfb78e2909aed.jpg",
+        "https://telegra.ph/file/a01fec604ce738189a4ed.jpg",
+        "https://telegra.ph/file/c0dffb7756f75c17b34e8.jpg",
+        "https://telegra.ph/file/fd280b2ddbd726f7813c9.jpg",
+        "https://telegra.ph/file/ae5e975ee521b5c7479bb.jpg",
+        "https://telegra.ph/file/56fdc00e84ebe7846c02f.jpg"
+    ]
+};

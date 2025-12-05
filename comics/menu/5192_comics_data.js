@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5192,
+    "title": "[楝蛙] たべかけ (COMIC快楽天 2022年10月号) [MJK-22-Z2836]",
+    "sourceUrl": "https://telegra.ph/楝蛙-たべかけ-COMIC快楽天-2022年10月号-MJK-22-Z2836-08-31-2",
+    "images": [
+        "https://telegra.ph/file/6139eceb8349badcfb020.png",
+        "https://telegra.ph/file/20a4631a83ad368805879.png",
+        "https://telegra.ph/file/a78c7578d8bc3ec0cf68e.png",
+        "https://telegra.ph/file/7101fe7cf7b9fbf70a313.png",
+        "https://telegra.ph/file/0c8dff811538bc4072cbe.png",
+        "https://telegra.ph/file/487b81031854fe3ae2aa3.png",
+        "https://telegra.ph/file/bff44046c87d13f5e45a3.png",
+        "https://telegra.ph/file/0c11f9e3d581241c2da20.png",
+        "https://telegra.ph/file/e90c9879c6bc62306287c.png",
+        "https://telegra.ph/file/4475d6e4fcb1502a46862.png",
+        "https://telegra.ph/file/8c282d73e9dae024ab0b7.png",
+        "https://telegra.ph/file/6794a816b5a253a360e68.png",
+        "https://telegra.ph/file/10b776a49e1f815c393b7.png",
+        "https://telegra.ph/file/4570bef5997124034fc69.png",
+        "https://telegra.ph/file/f3411252666846fa0d55a.png",
+        "https://telegra.ph/file/827934c6058d82864cb41.png",
+        "https://telegra.ph/file/201c107b707a842614e95.png",
+        "https://telegra.ph/file/9b6fe6d496437885d3c4a.png",
+        "https://telegra.ph/file/f815419d57329315b156f.png",
+        "https://telegra.ph/file/d9169e9ca08f84e2e65c1.png",
+        "https://telegra.ph/file/ea8b43dc0998fe8200483.png",
+        "https://telegra.ph/file/ef52583236fbe5882bc07.png",
+        "https://telegra.ph/file/c1a10ff32132e156797e8.png",
+        "https://telegra.ph/file/a033847ee3548a84d77e2.png",
+        "https://telegra.ph/file/a1055201bb97d095055f3.png",
+        "https://telegra.ph/file/5e2e8657cff9a332f95a3.png"
+    ]
+};

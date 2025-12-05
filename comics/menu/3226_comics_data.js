@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3226,
+    "title": "[あまくち少女 (うまくち醤油)] 時雨ベッドウェッタ3 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/あまくち少女-うまくち醤油-時雨ベッドウェッタ3-艦隊これくしょん--艦これ-08-31-2",
+    "images": [
+        "https://telegra.ph/file/900ca4f72591aaa4f3962.jpg",
+        "https://telegra.ph/file/4c83b6e6b240fed3e0f22.jpg",
+        "https://telegra.ph/file/ce6f63109755567e02b55.jpg",
+        "https://telegra.ph/file/e585b12ac8196ced0fa7b.jpg",
+        "https://telegra.ph/file/52c2d3c018b4a9b10319d.jpg",
+        "https://telegra.ph/file/815df69d39709040b08c3.jpg",
+        "https://telegra.ph/file/63b34c19843789ff57537.jpg",
+        "https://telegra.ph/file/60ee8830783ec78d83daf.jpg",
+        "https://telegra.ph/file/58458eafdfe245f38638f.jpg",
+        "https://telegra.ph/file/af2ce298555897cc1d795.jpg",
+        "https://telegra.ph/file/e4c88c3e6b57deccdf684.jpg",
+        "https://telegra.ph/file/59d8916410df2e569b778.jpg",
+        "https://telegra.ph/file/a566f2a1bbfa60361863f.jpg",
+        "https://telegra.ph/file/5aa4c899adc2d73e57f0b.jpg",
+        "https://telegra.ph/file/dd29b9f5721fa83099f1b.jpg",
+        "https://telegra.ph/file/69458ff4801bb47dbcc8f.jpg",
+        "https://telegra.ph/file/3c6f7c6b83ec1a3281fea.jpg",
+        "https://telegra.ph/file/38be8d083b5fc10e21d8c.jpg",
+        "https://telegra.ph/file/d728e0dd363dbcaef0d10.jpg",
+        "https://telegra.ph/file/d63c68fb2f7ccac392a72.jpg",
+        "https://telegra.ph/file/18b5692355afcdd44ea76.jpg",
+        "https://telegra.ph/file/9eda2ba5f2bd75bd7ed6f.jpg",
+        "https://telegra.ph/file/1f5f1f1a15f0680ebe928.jpg",
+        "https://telegra.ph/file/056da5e58265f9b38fda4.jpg",
+        "https://telegra.ph/file/8b1cba943c68befcd89d2.jpg",
+        "https://telegra.ph/file/a4583b94b65d5c1450477.jpg"
+    ]
+};

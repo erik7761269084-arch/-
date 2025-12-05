@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1898,
+    "title": "[もやしばーすと] ドキドキ露出デート",
+    "sourceUrl": "https://telegra.ph/もやしばーすと-ドキドキ露出デート-08-31",
+    "images": [
+        "https://telegra.ph/file/ab0cd3671700c4b61dbd8.jpg",
+        "https://telegra.ph/file/cb1227f2ec239d230e490.jpg",
+        "https://telegra.ph/file/a0cf18d98ae19efb353ff.jpg",
+        "https://telegra.ph/file/083db10422f01cc8b7783.jpg",
+        "https://telegra.ph/file/155fef28b4ad29b9645eb.jpg",
+        "https://telegra.ph/file/b78afa6a9d63833c5b330.jpg",
+        "https://telegra.ph/file/e237d4c28538344f5db77.jpg",
+        "https://telegra.ph/file/d4d5955608f63f3f35291.jpg",
+        "https://telegra.ph/file/b2ce29015093ba1273a49.jpg",
+        "https://telegra.ph/file/148d5efc4daeedee017e2.jpg",
+        "https://telegra.ph/file/680bfac143f305af3297a.jpg",
+        "https://telegra.ph/file/29c4b477262cc91a419b3.jpg",
+        "https://telegra.ph/file/054b01be5836994fd03a6.jpg",
+        "https://telegra.ph/file/5f00d6e9522553be7f4e7.jpg",
+        "https://telegra.ph/file/dffa39d6530249ca991e5.jpg",
+        "https://telegra.ph/file/02e7ad1c46ff27c9a9eb3.jpg",
+        "https://telegra.ph/file/b9ac8219194417aa7ca97.jpg",
+        "https://telegra.ph/file/c0d349e95cde51083f51d.jpg",
+        "https://telegra.ph/file/7a7b88daa64d383e3483d.jpg",
+        "https://telegra.ph/file/1e42191121a014dc1b0e9.jpg",
+        "https://telegra.ph/file/2a4a18e668aa6d5740fcd.jpg",
+        "https://telegra.ph/file/32a89855bd5d48ade7d4e.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg",
+        "https://telegra.ph/file/29aca786d346e72fc81aa.jpg"
+    ]
+};

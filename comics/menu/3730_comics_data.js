@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3730,
+    "title": "[Little Note (鈴梨れい)] お兄ちゃんだけのえっちな妹ちゃんっ!!",
+    "sourceUrl": "https://telegra.ph/Little-Note-鈴梨れい-お兄ちゃんだけのえっちな妹ちゃんっ-08-31",
+    "images": [
+        "https://telegra.ph/file/e103b9623603a3048a523.jpg",
+        "https://telegra.ph/file/1ec4bdbaea2f879c99c9c.jpg",
+        "https://telegra.ph/file/8f760f9a4feaffcb0e299.jpg",
+        "https://telegra.ph/file/d630d2318e1737b05822e.jpg",
+        "https://telegra.ph/file/fe0192c6a125c275da54d.jpg",
+        "https://telegra.ph/file/a56bec7a5a8501eee12e3.jpg",
+        "https://telegra.ph/file/2aa738005c818015cc61d.jpg",
+        "https://telegra.ph/file/921d50da6d3399fa6bc2f.jpg",
+        "https://telegra.ph/file/fda08d6b80fb5750857fb.jpg",
+        "https://telegra.ph/file/c4ccceb28b62f62ac006a.jpg",
+        "https://telegra.ph/file/614703c932624b03aa5b6.jpg",
+        "https://telegra.ph/file/7639f6302303d6377d761.jpg",
+        "https://telegra.ph/file/d9b308803a18ee40ad92d.jpg",
+        "https://telegra.ph/file/917650f1268d1267dffa7.jpg",
+        "https://telegra.ph/file/2caf8f0cd13a70b8b5952.jpg",
+        "https://telegra.ph/file/717f332c00b7f148603f2.jpg",
+        "https://telegra.ph/file/f6044aee2e674e13fd3e5.jpg",
+        "https://telegra.ph/file/3ad73903f5916b3f61d7f.jpg",
+        "https://telegra.ph/file/b29d6974fac2fcc515610.jpg",
+        "https://telegra.ph/file/41dce8af4fd5b41ac2b9d.jpg",
+        "https://telegra.ph/file/ce2892b05e24e7950baec.jpg",
+        "https://telegra.ph/file/daa159fa0ae335dad558e.jpg",
+        "https://telegra.ph/file/503d8634cf5b83d3febc6.jpg",
+        "https://telegra.ph/file/c70f0012f1033ea634522.jpg",
+        "https://telegra.ph/file/a58ab1f93ed78e9167b2e.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

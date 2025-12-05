@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1097,
+    "title": "[鶴山ミト] お嬢様のイケない面接 (COMIC BAVEL 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/鶴山ミト-お嬢様のイケない面接-COMIC-BAVEL-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/36046cba7e92cbcbd842e.jpg",
+        "https://telegra.ph/file/2b35fe015ea83fb7996d3.jpg",
+        "https://telegra.ph/file/ffe0318b12f31eb0521af.jpg",
+        "https://telegra.ph/file/5b20f5e07689b39e6a353.jpg",
+        "https://telegra.ph/file/ed11e97465b6809a40fdd.jpg",
+        "https://telegra.ph/file/c5eee5405ccdc03f2ffcc.jpg",
+        "https://telegra.ph/file/e4a5627e8f3756c2f8eb2.jpg",
+        "https://telegra.ph/file/98349696b89e1441567e3.jpg",
+        "https://telegra.ph/file/013a196fa5cc457b59bb0.jpg",
+        "https://telegra.ph/file/b849afe19a0f817bd7a58.jpg",
+        "https://telegra.ph/file/502ff88caaed3eefd642c.jpg",
+        "https://telegra.ph/file/050bfc6fa2a166b055494.jpg",
+        "https://telegra.ph/file/2893e6f533f2e373f6fc0.jpg",
+        "https://telegra.ph/file/8a5adbdee25652139b9ca.jpg",
+        "https://telegra.ph/file/902396ac2673feed6a4fc.jpg",
+        "https://telegra.ph/file/94828e633b3a583f20d4f.jpg",
+        "https://telegra.ph/file/bed0f3a06531814d7bb5d.jpg",
+        "https://telegra.ph/file/214143db0bd479dc22dd6.jpg",
+        "https://telegra.ph/file/aea0f1ce8c83cb41ee2c7.jpg",
+        "https://telegra.ph/file/7ecd0aa64e500edc72208.jpg",
+        "https://telegra.ph/file/0c79f2e2108d487a48008.jpg",
+        "https://telegra.ph/file/bd742f0901480ebc048fc.jpg",
+        "https://telegra.ph/file/4b7f18742107633d3670c.jpg"
+    ]
+};

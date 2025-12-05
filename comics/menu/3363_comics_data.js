@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3363,
+    "title": "[sironora]绫波NTR[一只麻利的鸽子汉化]",
+    "sourceUrl": "https://telegra.ph/sironora绫波NTR一只麻利的鸽子汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/87feb943cd26b0fddec1d.jpg",
+        "https://telegra.ph/file/79f0624b07aa3c8d27363.jpg",
+        "https://telegra.ph/file/20215bde30da824439c20.jpg",
+        "https://telegra.ph/file/c0fa5a7ccce97da80241b.jpg",
+        "https://telegra.ph/file/00260159a44bbc8b5cbbd.jpg",
+        "https://telegra.ph/file/842e869c6f13b3c265be6.jpg",
+        "https://telegra.ph/file/66f8311ef74c0b3067da7.jpg",
+        "https://telegra.ph/file/06708762fbde14da548d6.jpg",
+        "https://telegra.ph/file/7d807c72d9cc6e9417532.jpg",
+        "https://telegra.ph/file/6b4a8abb3d651ec840883.jpg",
+        "https://telegra.ph/file/2d008769ee54d78b1fa31.jpg",
+        "https://telegra.ph/file/70642c90917291138c08d.jpg",
+        "https://telegra.ph/file/a4f586ce6358db36124dd.jpg",
+        "https://telegra.ph/file/66ae6bbadf7fd04a109d2.jpg",
+        "https://telegra.ph/file/4cd831e3c52e62b5196d7.jpg",
+        "https://telegra.ph/file/5c022b5d8c696d4339604.jpg",
+        "https://telegra.ph/file/78f9424f04ed6260932a3.jpg",
+        "https://telegra.ph/file/3897298c8380ac3adf3f7.jpg",
+        "https://telegra.ph/file/7c6df7fc9ce60eebd28be.jpg",
+        "https://telegra.ph/file/3618e4a6d183bb2e996c6.jpg",
+        "https://telegra.ph/file/95314951a31b771b3af89.jpg",
+        "https://telegra.ph/file/d8c830976495e51c28738.jpg",
+        "https://telegra.ph/file/28b3829d00bf62bd1761f.jpg",
+        "https://telegra.ph/file/d5e5d69773d1b8422c2af.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

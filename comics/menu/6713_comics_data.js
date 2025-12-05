@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6713,
+    "title": "ひろったララフェルと暮らしま専科 (ファイナルファンタジー XIV)",
+    "sourceUrl": "https://telegra.ph/ひろったララフェルと暮らしま専科-ファイナルファンタジー-XIV-08-31",
+    "images": [
+        "https://telegra.ph/file/f70cf9600887e233c808d.jpg",
+        "https://telegra.ph/file/9360a2d4e423871693848.jpg",
+        "https://telegra.ph/file/0c8b02fc93d3cf5392f36.jpg",
+        "https://telegra.ph/file/f4e5c3cf9f4af5ee6d263.jpg",
+        "https://telegra.ph/file/a9f86b9ad84da0fb4a529.jpg",
+        "https://telegra.ph/file/0f52e433512edd1451d29.jpg",
+        "https://telegra.ph/file/7236730e16395a391a757.jpg",
+        "https://telegra.ph/file/621d0b410ee0a7296fad3.jpg",
+        "https://telegra.ph/file/488e95b8a2c92c31669d4.jpg",
+        "https://telegra.ph/file/ae6a76a877bdd35744b7e.jpg",
+        "https://telegra.ph/file/8ba0b1bae006fdae22633.jpg",
+        "https://telegra.ph/file/474e391698fcf5951a8c6.jpg",
+        "https://telegra.ph/file/265bb25afacf97b65d5be.jpg",
+        "https://telegra.ph/file/8ff0514e0ef5ba88d63e1.jpg",
+        "https://telegra.ph/file/49468bac3936daaaed675.jpg",
+        "https://telegra.ph/file/1fbaf70672172ed64f4d5.jpg",
+        "https://telegra.ph/file/0b68e6e668dc38a2de6b5.jpg",
+        "https://telegra.ph/file/2c22362a625e517a52372.jpg",
+        "https://telegra.ph/file/92073898a26047bfb480b.jpg",
+        "https://telegra.ph/file/aa22835b475086aa4f756.jpg",
+        "https://telegra.ph/file/25147f7388c7453573d5a.jpg",
+        "https://telegra.ph/file/774820a0366ca7ef5402e.jpg",
+        "https://telegra.ph/file/74a3989968034a0c82543.jpg",
+        "https://telegra.ph/file/9848edbfeb20e1db5cd16.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5426,
+    "title": "[はるさめすぅぷ (あつとく)] 朝起きたら早霜が妹になっていましたー",
+    "sourceUrl": "https://telegra.ph/はるさめすぅぷ-あつとく-朝起きたら早霜が妹になっていましたー-08-31",
+    "images": [
+        "https://telegra.ph/file/21d95d70792fcb4d82fa1.jpg",
+        "https://telegra.ph/file/d49e3f9b8c39e15447dcb.jpg",
+        "https://telegra.ph/file/74db5abc407334587ef23.jpg",
+        "https://telegra.ph/file/724061977ef97c8fccff7.jpg",
+        "https://telegra.ph/file/c67d6018fcd2bbadb3714.jpg",
+        "https://telegra.ph/file/d08a605570b14da7b15e5.jpg",
+        "https://telegra.ph/file/c91f49f259e8fad11b99a.jpg",
+        "https://telegra.ph/file/f1ddaee85418996e3cfea.jpg",
+        "https://telegra.ph/file/9178cae708a4463b16d13.jpg",
+        "https://telegra.ph/file/c171aa5c96f41e30a0fc5.jpg",
+        "https://telegra.ph/file/5ad8beb79c7771077e377.jpg",
+        "https://telegra.ph/file/b87c2fe097c586d2e4f70.jpg",
+        "https://telegra.ph/file/5d0e6ad3c728d864eae8b.jpg",
+        "https://telegra.ph/file/7f2cc40057f1dc73ac3fa.jpg",
+        "https://telegra.ph/file/5b35a95b3fc2a74395801.jpg",
+        "https://telegra.ph/file/09e381db5ad90fe39b752.jpg",
+        "https://telegra.ph/file/08848a349c347a459fce0.jpg",
+        "https://telegra.ph/file/f6eb4045aca087ff8a22d.jpg",
+        "https://telegra.ph/file/f7008f21ff18ad141e5e7.jpg",
+        "https://telegra.ph/file/1ba3c9b2ae28b4f003cce.jpg",
+        "https://telegra.ph/file/1467820dd09704a58fe9a.jpg",
+        "https://telegra.ph/file/45cb9c01c57a4151123e3.jpg",
+        "https://telegra.ph/file/8027367207e684564ee43.jpg",
+        "https://telegra.ph/file/d1db1a734568b92c71037.jpg",
+        "https://telegra.ph/file/b08033993b12eb3dc7b67.jpg"
+    ]
+};

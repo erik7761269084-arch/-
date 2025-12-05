@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5387,
+    "title": "[アカマツ (レッド松)] お姉ちゃんと甘々エッチ (学園アイドルマスター)",
+    "sourceUrl": "https://telegra.ph/アカマツ-レッド松-お姉ちゃんと甘々エッチ-学園アイドルマスター-08-31-4",
+    "images": [
+        "https://i2.iciallo.uk/mangz/ZZ/3f1223a708c694d39c805e579f887dec1/1.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/309ccb42fe5cdb380d26a47eb891adaf2/2.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/33dd32dcea163c65bf3691c4b1e00d553/3.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/69e1f30c611d42911fd97819f8030a784/4.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/440d8323b5f49623d29e7331807f32235/5.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/29e1ccecbf323960c323203adc395a706/6.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/3d46decc5a14729781d45eb8f6cb8d657/7.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/bff5a5b8d8cc28d81d2ad495b592cd318/8.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/51025be2add4905bf4eaf28df72240349/9.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/08330d4d528eaa92d2348fea9d8ec60c10/10.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/a7ac7a832fd4e533dc39ffe59cd28f8311/11.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/57b47ad05d4fcd5a4b8b5b634612e03c12/12.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/0e5578125046f85c34f0934abba33c3913/13.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/a9115ddb285390b32233acc1bab9755814/14.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/4ac33810849ddcc4593a6066014eff0b15/15.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/cb80aa22cdb8360842ad3a0ac070343c16/16.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/eec66f31dfe74793f265b184ceaa927717/17.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/7216dd263904b2f21d106feeb1aa202e18/18.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/7d8efafc3a6a60bf526c546b2cfaf61419/19.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/aa3a1eb0cae17628fc289f9e522c1cf620/20.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/dd3e712d8082c9618e4e0ee00a750eef21/21.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/5b3cbed8653c16b072dd928083bede6f22/22.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f45e4b3247e6537039e17156cb458a7023/23.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/d9af2288f4246c789f712884c6c6da6624/24.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f9a2fe028175f1484fb6b97119c11de825/25.jpg"
+    ]
+};

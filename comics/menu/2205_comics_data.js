@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2205,
+    "title": "[雛咲葉] みだれて天使 (COMIC 快楽天ビースト 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/雛咲葉-みだれて天使-COMIC-快楽天ビースト-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/08016d36ac9886d62fd9c.jpg",
+        "https://telegra.ph/file/f83cf61369d865934b019.jpg",
+        "https://telegra.ph/file/4953b17ac6efcb6d04057.jpg",
+        "https://telegra.ph/file/57e17273213e4cbb7b418.jpg",
+        "https://telegra.ph/file/5d162cf8d7e9443ceba13.jpg",
+        "https://telegra.ph/file/51dc399501d02079a1cd6.jpg",
+        "https://telegra.ph/file/d88cb2455b2eced0678e9.jpg",
+        "https://telegra.ph/file/8981f7594c952f64a950b.jpg",
+        "https://telegra.ph/file/6b44432bf7ba2af30eafe.jpg",
+        "https://telegra.ph/file/69db80607f1139c406b12.jpg",
+        "https://telegra.ph/file/c1dd858a42cc0fad2cd81.jpg",
+        "https://telegra.ph/file/2cdb009b78946d0c5db82.jpg",
+        "https://telegra.ph/file/25fbbf4fcadba09b5c0fa.jpg",
+        "https://telegra.ph/file/dcce67069faaf2eede605.jpg",
+        "https://telegra.ph/file/6fc219b57ee1927667751.jpg",
+        "https://telegra.ph/file/514eeab8c30d6100ab469.jpg",
+        "https://telegra.ph/file/035671c0dfa49066b367a.jpg",
+        "https://telegra.ph/file/3e02a4d3e07c10f466b04.jpg",
+        "https://telegra.ph/file/f111a95dbd37c66949b70.jpg",
+        "https://telegra.ph/file/b16bffd3cb435156af21c.jpg",
+        "https://telegra.ph/file/2ccce71a6dc73fed0b700.jpg",
+        "https://telegra.ph/file/34083f2b889334eac8892.jpg",
+        "https://telegra.ph/file/331f132b89162480aad4e.jpg",
+        "https://telegra.ph/file/b956291dfde2b433be227.jpg"
+    ]
+};

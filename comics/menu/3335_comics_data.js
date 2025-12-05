@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3335,
+    "title": "[ダシガラ100% (民兵一号)] ナミに乗ろうっ!! 2YEARS LATER (ワンピース) [カラー化]",
+    "sourceUrl": "https://telegra.ph/ダシガラ100-民兵一号-ナミに乗ろうっ-2YEARS-LATER-ワンピース-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/c82f91f4c0f6cd72d4439.jpg",
+        "https://telegra.ph/file/b8e1917482a0d9a6bcc92.jpg",
+        "https://telegra.ph/file/06ae4b86e33f744ec29be.jpg",
+        "https://telegra.ph/file/f7216546a7aae6b800650.jpg",
+        "https://telegra.ph/file/917179cb65d9ae6dafabc.jpg",
+        "https://telegra.ph/file/edb0fca7e1a700f8328dd.jpg",
+        "https://telegra.ph/file/b7d28288eb650bc639736.jpg",
+        "https://telegra.ph/file/c0466c4188740afa7c473.jpg",
+        "https://telegra.ph/file/097c95802fd61e3efa327.jpg",
+        "https://telegra.ph/file/8a9ee6018e6ae0f27626f.jpg",
+        "https://telegra.ph/file/d80a467da0056eaeb14f1.jpg",
+        "https://telegra.ph/file/16269f2da04e7ff9f1092.jpg",
+        "https://telegra.ph/file/692d43ffd99af75c71341.jpg",
+        "https://telegra.ph/file/e46e2ade6dd3f3a569f83.jpg",
+        "https://telegra.ph/file/390c10fb89aa5a078328e.jpg",
+        "https://telegra.ph/file/b0e9365bd8a2c96483050.jpg",
+        "https://telegra.ph/file/0576727715311e7bc4e45.jpg",
+        "https://telegra.ph/file/924404099a0ef646f668d.jpg",
+        "https://telegra.ph/file/f6b750f3f7e73727a23ee.jpg",
+        "https://telegra.ph/file/b12cef85f658bb251718e.jpg",
+        "https://telegra.ph/file/0f701bf6ba2b47638983d.jpg",
+        "https://telegra.ph/file/3c3aec4fcee34990ac998.jpg",
+        "https://telegra.ph/file/c502585a91e77c75475a0.jpg",
+        "https://telegra.ph/file/0632f32a5d59fc8643ba0.jpg"
+    ]
+};

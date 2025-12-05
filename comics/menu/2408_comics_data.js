@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2408,
+    "title": "[澤野明] カエルバショ (コミックメガストアDEEP Vol.8)",
+    "sourceUrl": "https://telegra.ph/澤野明-カエルバショ-コミックメガストアDEEP-Vol8-08-31",
+    "images": [
+        "https://telegra.ph/file/c02db5702125d7df918db.jpg",
+        "https://telegra.ph/file/6b2710ce4e027be443deb.jpg",
+        "https://telegra.ph/file/5bc9dd146de296b5440f5.jpg",
+        "https://telegra.ph/file/54d1ee8ac93f6662a5825.jpg",
+        "https://telegra.ph/file/64046ce76416c3b233ddf.jpg",
+        "https://telegra.ph/file/709f487bf7864d3a02e9d.jpg",
+        "https://telegra.ph/file/7d969f97adab47ac7c6ef.jpg",
+        "https://telegra.ph/file/f04e1307545a77d253bae.jpg",
+        "https://telegra.ph/file/de5b0012361d7a219fcb5.jpg",
+        "https://telegra.ph/file/31c05c3884d68aabe0c42.jpg",
+        "https://telegra.ph/file/d84ba6e724fa2484f06fa.jpg",
+        "https://telegra.ph/file/1b76ef1a6933e3ab81aca.jpg",
+        "https://telegra.ph/file/79fff6c37b3cc9f87e9bf.jpg",
+        "https://telegra.ph/file/05d3e0dff2011b0aba891.jpg",
+        "https://telegra.ph/file/63202d9def4c3d4202dc9.jpg",
+        "https://telegra.ph/file/2629f3d45a3338df3d5d5.jpg",
+        "https://telegra.ph/file/270836a6c673c464e4dbb.jpg",
+        "https://telegra.ph/file/0219d3d9c13cd91296006.jpg",
+        "https://telegra.ph/file/97de5b05afca8e0bbbe91.jpg",
+        "https://telegra.ph/file/2ce9141b4e7a012983da5.jpg",
+        "https://telegra.ph/file/aa9dc87b4074b85a15f86.jpg",
+        "https://telegra.ph/file/b078bef9e1f4ac319de11.jpg",
+        "https://telegra.ph/file/9c08eaadbae7c367675b0.jpg",
+        "https://telegra.ph/file/a80350e58aeab5acebaa2.jpg",
+        "https://telegra.ph/file/9ccc2cc9a23bf46185d95.jpg"
+    ]
+};

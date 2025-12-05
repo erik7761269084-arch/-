@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4159,
+    "title": "(C89) [HONEY QP (命わずか)] 家畜少年射精管理 (デビルサマナー ソウルハッカーズ)",
+    "sourceUrl": "https://telegra.ph/C89-HONEY-QP-命わずか-家畜少年射精管理-デビルサマナー-ソウルハッカーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/f02d416b757423d3e60bf.jpg",
+        "https://telegra.ph/file/1ac33b1212045350e881b.jpg",
+        "https://telegra.ph/file/bf3317591c2c875083a89.jpg",
+        "https://telegra.ph/file/71f5b6c5cbb68dad9f99d.jpg",
+        "https://telegra.ph/file/88d1259494f3611633e5e.jpg",
+        "https://telegra.ph/file/037e0244560ed03479b1f.jpg",
+        "https://telegra.ph/file/4e50ffee638bcecf73232.jpg",
+        "https://telegra.ph/file/4b8b0790cb8bac915d015.jpg",
+        "https://telegra.ph/file/7676c7292016f890fc36d.jpg",
+        "https://telegra.ph/file/8a45cf379806a805301bd.jpg",
+        "https://telegra.ph/file/ebe8fde8ab0263389918d.jpg",
+        "https://telegra.ph/file/4bdf49b10d7577cbeedb0.jpg",
+        "https://telegra.ph/file/ad07c3ac06253df3036e4.jpg",
+        "https://telegra.ph/file/326bff5b8527d0823042c.jpg",
+        "https://telegra.ph/file/d01c890da1c4a5b3c6f83.jpg",
+        "https://telegra.ph/file/880f84a8bf1a38692913d.jpg",
+        "https://telegra.ph/file/3320816fee222910c3673.jpg",
+        "https://telegra.ph/file/4f0c69dc68b85bff8f658.jpg",
+        "https://telegra.ph/file/a8e434fe72bde0f8d5d7b.jpg",
+        "https://telegra.ph/file/7869afd6ee77252e08342.jpg",
+        "https://telegra.ph/file/41e03f191d79328009cbb.jpg",
+        "https://telegra.ph/file/7f16bdb656c7dd8aa52a7.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 986,
+    "title": "(C99) [MAIDOLL (飛燕)] 六番街の嬢 蜜蜂の館性奉侍編 (ファイナルファンタジーVII)",
+    "sourceUrl": "https://telegra.ph/C99-MAIDOLL-飛燕-六番街の嬢-蜜蜂の館性奉侍編-ファイナルファンタジーVII-08-31",
+    "images": [
+        "https://telegra.ph/file/c2eed4344d9db5299bc65.jpg",
+        "https://telegra.ph/file/67ac0d0438f224cc2ffcd.jpg",
+        "https://telegra.ph/file/e6f2a5bbfd0c0a1197dd0.jpg",
+        "https://telegra.ph/file/0c17fdfbd63e94e5fb9f6.jpg",
+        "https://telegra.ph/file/932229297e0aadb83edc5.jpg",
+        "https://telegra.ph/file/863329de830372dbc2254.jpg",
+        "https://telegra.ph/file/db82bf2768b633b79898d.jpg",
+        "https://telegra.ph/file/08c613f1189a3cd8e1d78.jpg",
+        "https://telegra.ph/file/d74b7c3a64f34e8ddcd0c.jpg",
+        "https://telegra.ph/file/5cf68b555399049d760f5.jpg",
+        "https://telegra.ph/file/854296a0d12475da31c3a.jpg",
+        "https://telegra.ph/file/0ce2bc17a75969f126d13.jpg",
+        "https://telegra.ph/file/c715495007f1b8eda926a.jpg",
+        "https://telegra.ph/file/79c2b368f86d34abba42f.jpg",
+        "https://telegra.ph/file/0d2ba8a586a14cb452690.jpg",
+        "https://telegra.ph/file/f80d074cd18aa0dd55d62.jpg",
+        "https://telegra.ph/file/c25a1827badb7cf79513b.jpg",
+        "https://telegra.ph/file/66759343ff64f07e44317.jpg",
+        "https://telegra.ph/file/033ba5695df3e3003eb63.jpg",
+        "https://telegra.ph/file/4a635b8624b0a784d2cda.jpg",
+        "https://telegra.ph/file/c0165b505e698fd435b4f.jpg",
+        "https://telegra.ph/file/0eca7e153105e2f47f61a.jpg",
+        "https://telegra.ph/file/09be0b5008f874fe71852.jpg",
+        "https://telegra.ph/file/ecc4535e46449204cde5b.jpg",
+        "https://telegra.ph/file/4689445cce7d2c1c0cf6a.jpg"
+    ]
+};

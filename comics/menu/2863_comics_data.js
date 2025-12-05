@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2863,
+    "title": "[ストロングERO] 秘密の性活指導～巨乳清楚系彼女が教師のチ◯ポに堕ちるまで～",
+    "sourceUrl": "https://telegra.ph/ストロングERO-秘密の性活指導巨乳清楚系彼女が教師のチポに堕ちるまで-08-31",
+    "images": [
+        "https://telegra.ph/file/d0c7c69e20f61b6d75232.jpg",
+        "https://telegra.ph/file/d54e8e4bf20d14e3b181e.jpg",
+        "https://telegra.ph/file/e28d2bfa9b966288eaae8.jpg",
+        "https://telegra.ph/file/86203abe811556ae3189a.jpg",
+        "https://telegra.ph/file/b01f43ae19596ca03147b.jpg",
+        "https://telegra.ph/file/fb14347a8355cee4f6c44.jpg",
+        "https://telegra.ph/file/acb37d7c9694a067f49ab.jpg",
+        "https://telegra.ph/file/f4ad30dd2aabc7f2cf0f2.jpg",
+        "https://telegra.ph/file/a53cc493aab91122f8133.jpg",
+        "https://telegra.ph/file/1864b090038229817b700.jpg",
+        "https://telegra.ph/file/64eed6f38c0105ba4c710.jpg",
+        "https://telegra.ph/file/1752317dc33d24ce606df.jpg",
+        "https://telegra.ph/file/1841df7fce39c00b12ba5.jpg",
+        "https://telegra.ph/file/d75a953ea0da1f093e529.jpg",
+        "https://telegra.ph/file/936adb2d515ffc3a3abf6.jpg",
+        "https://telegra.ph/file/89ce925121496062ac7e6.jpg",
+        "https://telegra.ph/file/adacd78eebfa4fba5f691.jpg",
+        "https://telegra.ph/file/e1a8b18b114d0882122b4.jpg",
+        "https://telegra.ph/file/ba1661e3d4afa0b8054e1.jpg",
+        "https://telegra.ph/file/ee343bda2b0fd6c010df7.jpg",
+        "https://telegra.ph/file/c8b6f1d1b024fe3d89400.jpg",
+        "https://telegra.ph/file/4f62a869cfbef8ecfa006.jpg",
+        "https://telegra.ph/file/a3987b2143cf6cbcf5abd.jpg",
+        "https://telegra.ph/file/01e08bafdf72a4fd078cb.jpg",
+        "https://telegra.ph/file/abd78cb0409b42e92d317.jpg"
+    ]
+};

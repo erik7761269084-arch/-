@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2765,
+    "title": "[ニーチェ] SK-H ZIP 淡",
+    "sourceUrl": "https://telegra.ph/ニーチェ-SK-H-ZIP-淡-08-31",
+    "images": [
+        "https://telegra.ph/file/e49faaf042f0dd789b95e.jpg",
+        "https://telegra.ph/file/ad2d7f229d811a630fc4f.jpg",
+        "https://telegra.ph/file/cdfb5ee18477975b01e45.jpg",
+        "https://telegra.ph/file/807843409521f105a8e93.jpg",
+        "https://telegra.ph/file/9ef990c1dd49c3a9518d6.jpg",
+        "https://telegra.ph/file/639c6efe27ac23d70b7cc.jpg",
+        "https://telegra.ph/file/a2fc1b5e441df051e0882.jpg",
+        "https://telegra.ph/file/f44669fc25f4699a3ded2.jpg",
+        "https://telegra.ph/file/d92847003e4b57dd5c43f.jpg",
+        "https://telegra.ph/file/9c02f84aeb74651e11987.jpg",
+        "https://telegra.ph/file/426c08b2e95f8885e1bd2.jpg",
+        "https://telegra.ph/file/51a7d9b93984ee5817599.jpg",
+        "https://telegra.ph/file/fff7c3232b8cfd1d90daa.jpg",
+        "https://telegra.ph/file/896b5712ffe6470a1cd66.jpg",
+        "https://telegra.ph/file/dfa325536bfb97e9f7fa0.jpg",
+        "https://telegra.ph/file/4de22dc6afcf11e8da6e5.jpg",
+        "https://telegra.ph/file/ed7b6677bfebb34ef0f7c.jpg",
+        "https://telegra.ph/file/dc8b49b3e18d35f4d2dd8.jpg",
+        "https://telegra.ph/file/11a224baf23fddd3e3940.jpg",
+        "https://telegra.ph/file/f333da58dcccfda7207f6.jpg",
+        "https://telegra.ph/file/73d251bd73731ffc62657.jpg",
+        "https://telegra.ph/file/6901de1eca7f62da93e8c.jpg",
+        "https://telegra.ph/file/07390dc28f87ea35d8109.jpg",
+        "https://telegra.ph/file/31e57dc7ded3d668b7654.jpg"
+    ]
+};

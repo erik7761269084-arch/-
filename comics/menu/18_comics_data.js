@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 18,
+    "title": "[UC] 恋人は実母 (COMIC クリベロン DUMA 2022年3月号 Vol.34)",
+    "sourceUrl": "https://telegra.ph/UC-恋人は実母-COMIC-クリベロン-DUMA-2022年3月号-Vol34-08-31",
+    "images": [
+        "https://telegra.ph/file/6f18595c3132047287047.jpg",
+        "https://telegra.ph/file/99c84f903af20976e6102.jpg",
+        "https://telegra.ph/file/354f5adbb6c56786e0352.jpg",
+        "https://telegra.ph/file/9b0381ba8f276f3c03b14.jpg",
+        "https://telegra.ph/file/77bb19759c38759d8369f.jpg",
+        "https://telegra.ph/file/221937c7b458ec112fc34.jpg",
+        "https://telegra.ph/file/c3c6886458f1ed9376a35.jpg",
+        "https://telegra.ph/file/a2a4cf7fdee38dbeb0a51.jpg",
+        "https://telegra.ph/file/351ada42f7546c745abbf.jpg",
+        "https://telegra.ph/file/eedb4b8a3db11aac5c6cb.jpg",
+        "https://telegra.ph/file/a608df469d885b6d08bd6.jpg",
+        "https://telegra.ph/file/41c65fbc38303a536fc60.jpg",
+        "https://telegra.ph/file/25f505acc5702d06e89b8.jpg",
+        "https://telegra.ph/file/9e97c13f89c5a359b5571.jpg",
+        "https://telegra.ph/file/645080ee9de4120e803af.jpg",
+        "https://telegra.ph/file/934e0126b33da8c2d136d.jpg",
+        "https://telegra.ph/file/9821d95c82cb932c5d2db.jpg",
+        "https://telegra.ph/file/6699a20097cf284b97583.jpg",
+        "https://telegra.ph/file/3cca5ae46e9086fe2b232.jpg",
+        "https://telegra.ph/file/4c215f0ed128b1ac5371e.jpg",
+        "https://telegra.ph/file/3a27a844a9de716655136.jpg",
+        "https://telegra.ph/file/12abc5127a6fd5b2ad1ef.jpg",
+        "https://telegra.ph/file/affe6417f1bd71b8383df.jpg",
+        "https://telegra.ph/file/c08343258a0d11ab8420f.jpg",
+        "https://telegra.ph/file/4203ffc7165e548285465.jpg",
+        "https://telegra.ph/file/5a729c8b75967d60571b4.jpg"
+    ]
+};

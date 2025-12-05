@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5653,
+    "title": "[由上ゴーシュ] ヒート♥アイランド",
+    "sourceUrl": "https://telegra.ph/由上ゴーシュ-ヒートアイランド-08-31",
+    "images": [
+        "https://telegra.ph/file/421bd5ac0eab0ae5a99ed.jpg",
+        "https://telegra.ph/file/e4c3cc69a7b60ff2b7944.jpg",
+        "https://telegra.ph/file/700f42b99e2176e6e3f20.jpg",
+        "https://telegra.ph/file/a778d7e7cf776ec811cbf.jpg",
+        "https://telegra.ph/file/9a69767fff37d9aa6e6f6.jpg",
+        "https://telegra.ph/file/fe0af62a704006aee7e48.jpg",
+        "https://telegra.ph/file/9cec9fbdddbc0840b79d0.jpg",
+        "https://telegra.ph/file/a9f08aa41b00dc5f618a4.jpg",
+        "https://telegra.ph/file/4ca32a39a25b68407c718.jpg",
+        "https://telegra.ph/file/a2de4c3404351f3583982.jpg",
+        "https://telegra.ph/file/eece48c3e6498c3261aee.jpg",
+        "https://telegra.ph/file/3fe6bbca84d99a880ec81.jpg",
+        "https://telegra.ph/file/a825e63f9116f4a5d93ef.jpg",
+        "https://telegra.ph/file/90e250ecda06eb6c1b6e8.jpg",
+        "https://telegra.ph/file/856a30e1b032b10eabc0c.jpg",
+        "https://telegra.ph/file/bfe2946a7861b5209d7df.jpg",
+        "https://telegra.ph/file/7d331ec3aa0ca6469e22c.jpg",
+        "https://telegra.ph/file/ea4c7ef8509d37d42a09f.jpg",
+        "https://telegra.ph/file/56c4586633477cf999aa1.jpg",
+        "https://telegra.ph/file/27670baea3d45fcb0df08.jpg",
+        "https://telegra.ph/file/3f385ff6f5feb69acadb1.jpg",
+        "https://telegra.ph/file/472e90d8bc1492ff96019.jpg",
+        "https://telegra.ph/file/437e333d96c6d8fd65f89.jpg",
+        "https://telegra.ph/file/870237e110108cd79a6a0.jpg"
+    ]
+};

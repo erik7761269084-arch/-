@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6664,
+    "title": "放課後×自慰×体育倉庫",
+    "sourceUrl": "https://telegra.ph/放課後自慰体育倉庫-08-31",
+    "images": [
+        "https://telegra.ph/file/10b0587187fef9eaa799b.png",
+        "https://telegra.ph/file/48903587e73d48c590c8c.png",
+        "https://telegra.ph/file/1a705eb3232f6ffd17d02.png",
+        "https://telegra.ph/file/9a45820eb9e7a1d0603f8.png",
+        "https://telegra.ph/file/067de8e4126846b16c70c.png",
+        "https://telegra.ph/file/5ed2d14c41684714e1ab1.png",
+        "https://telegra.ph/file/dc35c13939c4dbb5debfb.png",
+        "https://telegra.ph/file/f8a0540fc18678b54f47c.png",
+        "https://telegra.ph/file/9f31b0a05796df03887c4.jpg",
+        "https://telegra.ph/file/de1783ef784e608f89852.png",
+        "https://telegra.ph/file/bfd7a47e17ffb244c7c15.png",
+        "https://telegra.ph/file/a449f6076e22e049f8ef3.png",
+        "https://telegra.ph/file/6a746511825484e8a8a15.png",
+        "https://telegra.ph/file/b0c40b200f164daa4eaec.png",
+        "https://telegra.ph/file/c1edf15b7d44071626c23.png",
+        "https://telegra.ph/file/20ab9f8f955a3cd9bf210.png",
+        "https://telegra.ph/file/a744eeea7e129c3afd6ef.png",
+        "https://telegra.ph/file/17d0450160b07757ccfef.png",
+        "https://telegra.ph/file/a4aedbb4349b33e041a2f.png",
+        "https://telegra.ph/file/06150e7082152012fb4d1.png",
+        "https://telegra.ph/file/e14608f0e0d78a94a80bf.png",
+        "https://telegra.ph/file/1263394bc2075cb67d437.png",
+        "https://telegra.ph/file/09f755f11d3531084aeec.png",
+        "https://telegra.ph/file/ed41e08c9a70a370cf96e.png"
+    ]
+};

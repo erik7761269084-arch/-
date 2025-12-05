@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2250,
+    "title": "[跳馬遊鹿] 母娘と性愛 ～梗花さんと～",
+    "sourceUrl": "https://telegra.ph/跳馬遊鹿-母娘と性愛-梗花さんと-08-31",
+    "images": [
+        "https://telegra.ph/file/7ae1e582d37ce71fbe294.jpg",
+        "https://telegra.ph/file/bd4ea2db046a9ef67492b.jpg",
+        "https://telegra.ph/file/734e545d084e34ab2a5a7.jpg",
+        "https://telegra.ph/file/4d6bf9f228fb3a19d8965.jpg",
+        "https://telegra.ph/file/5d220668112a0b3668e5c.jpg",
+        "https://telegra.ph/file/f2596b186965af0817ede.jpg",
+        "https://telegra.ph/file/dd4b906171f84b337d8c7.jpg",
+        "https://telegra.ph/file/7a0e3f8017242f779bbc7.jpg",
+        "https://telegra.ph/file/bfb29accf438ec3d0b6af.jpg",
+        "https://telegra.ph/file/e1d912bc0406499fd63c6.jpg",
+        "https://telegra.ph/file/10ef6bc6eaac07eac3206.jpg",
+        "https://telegra.ph/file/405c4f1b38cf0736a51f3.jpg",
+        "https://telegra.ph/file/5c783c156cc2e8fee99f9.jpg",
+        "https://telegra.ph/file/64b3c6b37d5ce44116f73.jpg",
+        "https://telegra.ph/file/8841e86d08255e348e9e3.jpg",
+        "https://telegra.ph/file/db7a80c3f87721e5b6593.jpg",
+        "https://telegra.ph/file/6d8366220f7ab995e850f.jpg",
+        "https://telegra.ph/file/7076963cf680d0f652668.jpg",
+        "https://telegra.ph/file/b64a62994a10787e84ded.jpg",
+        "https://telegra.ph/file/d25dad59228fbd3b720d5.jpg",
+        "https://telegra.ph/file/b28a9ed52dda7638e48bf.jpg",
+        "https://telegra.ph/file/ca9a3be87f7f392f2a25c.jpg",
+        "https://telegra.ph/file/b956291dfde2b433be227.jpg"
+    ]
+};

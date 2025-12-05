@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5398,
+    "title": "[えだまめ亭 (うこ)] 思い出のよるべを手繰って (ブルーアーカイブ)  [26P]",
+    "sourceUrl": "https://telegra.ph/えだまめ亭-うこ-思い出のよるべを手繰って-ブルーアーカイブ-26P-08-31-2",
+    "images": [
+        "https://i2.iciallo.uk/mangz/ZZ/48ad32e8848360ff7d6d05799e4437a52/2.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/ca829b3f2d26a35a71a90c3ee8701ac13/3.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/9129dccacd34e93bdabb6fea899d81574/4.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/4340290b2afbd73f87ce16627e81e2cc5/5.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/640d781d61dcfaf31625e8507c5f48e06/6.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/6e2b5607b4b7facb340203323a161a4e7/7.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/135e0d494c8fba32d38856eb3016d8658/8.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/dfdc999657c8adee38a509b1eeb7b88b9/9.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/4488cf4ddb4cd593bec4d0b4d1bafb9510/10.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/e5b3c6eefb674513e87dd871fd2d1c6611/11.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/1052e86cb22f6fd1a5d2574109c594b312/12.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/65e1ac0191005a44d750f752bcf460d613/13.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/4c952ba841c414ccc8c485ead88b86e814/14.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/304988b86c0e9cd0ce746297786bb2ae15/15.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/83ccf343b4bceb5cf0500512b9d8418316/16.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/038b78e9be74db25b16c2062f97488c617/17.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/9ed75ddc4e6ed488e4561097f673848c18/18.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/428ed0d485e5ed1de213d8af226b1b3919/19.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/540576e99e077822d1a81cb9998b0d1320/20.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/a3677831372addc5c68da83be2833b2f21/21.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/5db93d69051247f5c70ef4c442ea9eef22/22.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/8bddce106b52ee2b0592e81362e3f74b23/23.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/3af7f67e243e150f3a2304fff01b87d124/24.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/931f05654995cab250414868b1c7bed925/25.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/86a2693fe5b32db041267d5559b0012326/26.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/d65ad91847d3ce945f3ebc5af4b3ed351/1.jpg"
+    ]
+};

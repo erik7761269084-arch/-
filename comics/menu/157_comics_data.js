@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 157,
+    "title": "[ジョン・K・ペー太] 幻のサイキックホームラン (スーパーモンゼツメガビッチ)",
+    "sourceUrl": "https://telegra.ph/ジョンKペー太-幻のサイキックホームラン-スーパーモンゼツメガビッチ-08-31",
+    "images": [
+        "https://telegra.ph/file/d2a0e6410d576fa9de00f.jpg",
+        "https://telegra.ph/file/9aa6665a835cc86f9793b.jpg",
+        "https://telegra.ph/file/25c2a112f198bf58d1ef8.jpg",
+        "https://telegra.ph/file/72c67ad3595072bd01512.jpg",
+        "https://telegra.ph/file/afc12b344eb793efb276f.jpg",
+        "https://telegra.ph/file/d6e69aac60d470cd9d756.jpg",
+        "https://telegra.ph/file/dd65a8b1f57cd159f9857.jpg",
+        "https://telegra.ph/file/126c924b3880af903981d.jpg",
+        "https://telegra.ph/file/feb3e37b6474f52598de5.jpg",
+        "https://telegra.ph/file/c2bd66802036066398ca0.jpg",
+        "https://telegra.ph/file/06f530a72f231d17ec28b.jpg",
+        "https://telegra.ph/file/393fbd479b0fc0775dc1f.jpg",
+        "https://telegra.ph/file/4b6d5e2517c6e0b4ce651.jpg",
+        "https://telegra.ph/file/797e432c2766161669138.jpg",
+        "https://telegra.ph/file/b207674a56e1aa281baf3.jpg",
+        "https://telegra.ph/file/f45abf12d3d0bcf4dab9a.jpg",
+        "https://telegra.ph/file/f1b5e03e102d4a98905c2.jpg",
+        "https://telegra.ph/file/9eb5ba9e57dbbf4d4dd17.jpg",
+        "https://telegra.ph/file/d0300f9338054d609c2b3.jpg",
+        "https://telegra.ph/file/328bf913f9ae27ff97d9c.jpg",
+        "https://telegra.ph/file/d3e62c3ab9b0b11887df2.jpg",
+        "https://telegra.ph/file/dbc69779429c972eb5993.jpg",
+        "https://telegra.ph/file/9decdfb9bd05de7e9a8c1.jpg"
+    ]
+};

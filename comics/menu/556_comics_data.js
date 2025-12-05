@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 556,
+    "title": "[むらさきいろのよる (むらさき*)] 先生、これは2人だけのヒミツですよ～体育倉庫での秘密～",
+    "sourceUrl": "https://telegra.ph/むらさきいろのよる-むらさき-先生これは2人だけのヒミツですよ体育倉庫での秘密-08-31",
+    "images": [
+        "https://telegra.ph/file/602dbe30920ee21a80802.jpg",
+        "https://telegra.ph/file/63107e06da0ff0c479e48.jpg",
+        "https://telegra.ph/file/92ddc311488261f903486.jpg",
+        "https://telegra.ph/file/34b33ecaf9ada425dd24d.jpg",
+        "https://telegra.ph/file/718089b0db58fae804b12.jpg",
+        "https://telegra.ph/file/fb1d0036698ae776f476b.jpg",
+        "https://telegra.ph/file/ccb5ddbe8d7c67bf4e83e.jpg",
+        "https://telegra.ph/file/f47922acfba6515bf5668.jpg",
+        "https://telegra.ph/file/e04dc998ec2b17df24250.jpg",
+        "https://telegra.ph/file/399501339f3c860d9f9fe.jpg",
+        "https://telegra.ph/file/88565ddde9a0c48cf6529.jpg",
+        "https://telegra.ph/file/ac31267dfdb59eeefa0ae.jpg",
+        "https://telegra.ph/file/92f29b7e50b724257c8f4.jpg",
+        "https://telegra.ph/file/ab99b7ca3e108c1cdc05c.jpg",
+        "https://telegra.ph/file/ee2e683e973a82d7c7c9a.jpg",
+        "https://telegra.ph/file/d5e874a61d17bff4d9c5b.jpg",
+        "https://telegra.ph/file/fc08081ae1c627a8c8485.jpg",
+        "https://telegra.ph/file/647c07bb1c6a943077e1c.jpg",
+        "https://telegra.ph/file/ecb37ecd157559003e68a.jpg",
+        "https://telegra.ph/file/c04334bb492301fb5c91d.jpg",
+        "https://telegra.ph/file/731a565528bb1d0fd691a.jpg",
+        "https://telegra.ph/file/33f0bc502f42633930fc9.jpg",
+        "https://telegra.ph/file/f8a08b3585bc2936a2805.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

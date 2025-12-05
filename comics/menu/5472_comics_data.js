@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5472,
+    "title": "[川津健二朗] 恋花温泉",
+    "sourceUrl": "https://telegra.ph/川津健二朗-恋花温泉-08-31",
+    "images": [
+        "https://telegra.ph/file/d93151e0848c1ebd2f319.jpg",
+        "https://telegra.ph/file/2ecad4c81a64381b42605.jpg",
+        "https://telegra.ph/file/2b023ca43f05b5e8544b8.jpg",
+        "https://telegra.ph/file/2ad4b8c600092da7dac8b.jpg",
+        "https://telegra.ph/file/f57b97ca10cfca59f0c78.jpg",
+        "https://telegra.ph/file/771e6ad5fcb42b117d54a.jpg",
+        "https://telegra.ph/file/3f58ad3b919cf89f42e6a.jpg",
+        "https://telegra.ph/file/d42fefcc8a66fcccdb7d4.jpg",
+        "https://telegra.ph/file/de56bb14652b05e5abd86.jpg",
+        "https://telegra.ph/file/4f4e1dc0294b76d01410e.jpg",
+        "https://telegra.ph/file/4508d58ee577cfaa7efbc.jpg",
+        "https://telegra.ph/file/bb53501e40f45d0f71097.jpg",
+        "https://telegra.ph/file/14fa0904f228128d64231.jpg",
+        "https://telegra.ph/file/54f7bebfe1b459356e195.jpg",
+        "https://telegra.ph/file/f47e1588289882b9b3426.jpg",
+        "https://telegra.ph/file/9744a5b9627a545ad1cf6.jpg",
+        "https://telegra.ph/file/97a765cc2d8f6b00653cc.jpg",
+        "https://telegra.ph/file/e426671df9e3a2200c12f.jpg",
+        "https://telegra.ph/file/f7a3db63035558f2efc7c.jpg",
+        "https://telegra.ph/file/87e29b718ab9080bdc41a.jpg",
+        "https://telegra.ph/file/cab6e5f6a9dd0e4193c75.jpg",
+        "https://telegra.ph/file/71c3c7a95d5bae5a0b1ee.jpg",
+        "https://telegra.ph/file/4fc708c49c0511628d98b.jpg",
+        "https://telegra.ph/file/3e3a2699c191b44ffc181.jpg"
+    ]
+};

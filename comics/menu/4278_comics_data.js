@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4278,
+    "title": "[船堀斉晃] 輪姦!快楽タクシー (コミックホットミルク濃いめ vol.20)",
+    "sourceUrl": "https://telegra.ph/船堀斉晃-輪姦快楽タクシー-コミックホットミルク濃いめ-vol20-08-31",
+    "images": [
+        "https://telegra.ph/file/071f44ee0a206bd5412bf.jpg",
+        "https://telegra.ph/file/47ecca84e2156aa1627d2.jpg",
+        "https://telegra.ph/file/37754f61304f3fbb81748.jpg",
+        "https://telegra.ph/file/95010a3b93cbd68764e65.jpg",
+        "https://telegra.ph/file/ce23bf9f907cda95daf46.jpg",
+        "https://telegra.ph/file/e287a7bfe958da854f4c5.jpg",
+        "https://telegra.ph/file/a53b25860b6037bff5a1b.jpg",
+        "https://telegra.ph/file/dabf29a5e1d64329f8c25.jpg",
+        "https://telegra.ph/file/ca80bb87d5c3898b42f04.jpg",
+        "https://telegra.ph/file/7d9f04755516b444807e1.jpg",
+        "https://telegra.ph/file/10c174ba28d529687b2c8.jpg",
+        "https://telegra.ph/file/1a7105acaaaef7226161a.jpg",
+        "https://telegra.ph/file/687dee9baa8d2eceb7f5d.jpg",
+        "https://telegra.ph/file/dd6cbd4a3c487abf083ae.jpg",
+        "https://telegra.ph/file/4fed5223d6bf20ee6903a.jpg",
+        "https://telegra.ph/file/9a2081869dd6deb2b803d.jpg",
+        "https://telegra.ph/file/0de66e91e8b8cc5448748.jpg",
+        "https://telegra.ph/file/9643dc9466aa8964eef55.jpg",
+        "https://telegra.ph/file/78f8cdca1ccb7ce627fe6.jpg",
+        "https://telegra.ph/file/beaa27f819fd8da7731e8.jpg",
+        "https://telegra.ph/file/eaf51264b50c412821963.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7166,
+    "title": "ボクっ娘勇者の敗北",
+    "sourceUrl": "https://telegra.ph/ボクっ娘勇者の敗北-08-31",
+    "images": [
+        "https://telegra.ph/file/dee43b2c3ae6dab68bdfa.jpg",
+        "https://telegra.ph/file/14e66ef675997a2d0d4fb.jpg",
+        "https://telegra.ph/file/5f09e7ca1b3ce5746217c.jpg",
+        "https://telegra.ph/file/0be71c05d6d4742e71230.jpg",
+        "https://telegra.ph/file/078313a1caaab5b38bff0.jpg",
+        "https://telegra.ph/file/4002acf84500b764ed6a7.jpg",
+        "https://telegra.ph/file/da3e21624c03d0007d7f3.jpg",
+        "https://telegra.ph/file/05e193083d850bd16edb2.jpg",
+        "https://telegra.ph/file/7eade2618426a08db5190.jpg",
+        "https://telegra.ph/file/1e20e995d5d2ac74fc191.jpg",
+        "https://telegra.ph/file/d7bc48dfd01306b323840.jpg",
+        "https://telegra.ph/file/6ea4fa0e93337b437233b.jpg",
+        "https://telegra.ph/file/25e855c86cf91c79cc945.jpg",
+        "https://telegra.ph/file/0b59151a5ce6a1cbb9e64.jpg",
+        "https://telegra.ph/file/c676cdc24d99fc4b5dafc.jpg",
+        "https://telegra.ph/file/e05a5e00f8e185f4b0da3.jpg",
+        "https://telegra.ph/file/7487c253c9717e93bc250.jpg",
+        "https://telegra.ph/file/15243e2ca05e4f9269237.jpg",
+        "https://telegra.ph/file/000a1588ffa0a9bc1c775.jpg",
+        "https://telegra.ph/file/2ceb44649a439fb9a6743.jpg",
+        "https://telegra.ph/file/bc9eff0e56dce1ec965dc.jpg",
+        "https://telegra.ph/file/d339b07718e1aa2c655ef.jpg",
+        "https://telegra.ph/file/e083cf324ad547a975987.jpg",
+        "https://telegra.ph/file/94a6d1711d7757b361096.jpg",
+        "https://telegra.ph/file/d6115d85915f38aa4dd0a.jpg",
+        "https://telegra.ph/file/262030bc8d5c7e8323392.jpg"
+    ]
+};

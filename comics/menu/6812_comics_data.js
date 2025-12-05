@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6812,
+    "title": "カクレナグサ",
+    "sourceUrl": "https://telegra.ph/カクレナグサ-08-31",
+    "images": [
+        "https://telegra.ph/file/db8ee037378a97f15e032.jpg",
+        "https://telegra.ph/file/8f830639f2f520dabb24d.jpg",
+        "https://telegra.ph/file/94dc1c2854d70694a383d.jpg",
+        "https://telegra.ph/file/d8c76396e8225b1a6b0a8.jpg",
+        "https://telegra.ph/file/bca8c7380867779aa5e7b.jpg",
+        "https://telegra.ph/file/202d24b59aee688af2c90.jpg",
+        "https://telegra.ph/file/e56386d493be88c812ab5.jpg",
+        "https://telegra.ph/file/7e8dc089feedbee379cbe.jpg",
+        "https://telegra.ph/file/84444c29b7fb53b84fe09.jpg",
+        "https://telegra.ph/file/468cf24e926d2fe1813f3.jpg",
+        "https://telegra.ph/file/6272c02cc444f88c206a2.jpg",
+        "https://telegra.ph/file/69769eb8aa780add876d2.jpg",
+        "https://telegra.ph/file/e39734c95bf0d416bc322.jpg",
+        "https://telegra.ph/file/ff3cec316cd42cbba81a2.jpg",
+        "https://telegra.ph/file/5be20f408e1fe9e075812.jpg",
+        "https://telegra.ph/file/be8c1dbe4f85cfdbaa6c8.jpg",
+        "https://telegra.ph/file/a907c5d0bef065315c804.jpg",
+        "https://telegra.ph/file/18e60b64859d57d973c50.jpg",
+        "https://telegra.ph/file/da395904f85439d967ad6.jpg",
+        "https://telegra.ph/file/54a6414a0ec865a8c6759.jpg",
+        "https://telegra.ph/file/0fb1f2879f11b544b770b.jpg",
+        "https://telegra.ph/file/c0ef2846a38b0425d2e90.jpg",
+        "https://telegra.ph/file/88b33358e2f561407eedc.jpg",
+        "https://telegra.ph/file/8e6f088ff600675697dff.jpg",
+        "https://telegra.ph/file/b1cad9867fd71e29c5133.jpg",
+        "https://telegra.ph/file/3584711756a2d065a8ed3.jpg"
+    ]
+};

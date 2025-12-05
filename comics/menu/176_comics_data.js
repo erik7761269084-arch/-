@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 176,
+    "title": "(COMIC1☆20) [カチワリ実験室 (しノ)] 船長 オレら来ちゃいました (宝鐘マリン)",
+    "sourceUrl": "https://telegra.ph/COMIC120-カチワリ実験室-しノ-船長-オレら来ちゃいました-宝鐘マリン-08-31",
+    "images": [
+        "https://telegra.ph/file/c64f7092aab4bd7ed8afa.jpg",
+        "https://telegra.ph/file/20e875bb025e21f50b7e6.jpg",
+        "https://telegra.ph/file/14a7b86e56cdac33a0d51.jpg",
+        "https://telegra.ph/file/95e282eefd4bdcb889f15.jpg",
+        "https://telegra.ph/file/8d744940754fe23e9533d.jpg",
+        "https://telegra.ph/file/88453b8484ffc2523cb38.jpg",
+        "https://telegra.ph/file/74da9c3577c2cff0976fa.jpg",
+        "https://telegra.ph/file/ac710959c369f2dc96b9e.jpg",
+        "https://telegra.ph/file/3bfda40c46cdcab1ad2e9.jpg",
+        "https://telegra.ph/file/c5e36f24a6b91d990f5f5.jpg",
+        "https://telegra.ph/file/58befda761fda4d99293d.jpg",
+        "https://telegra.ph/file/1ece809d8061e0055b2d2.jpg",
+        "https://telegra.ph/file/e7ce6ea90e7ae629b1107.jpg",
+        "https://telegra.ph/file/e126e152fa38dfcf06821.jpg",
+        "https://telegra.ph/file/3aac012f807ac0f4f0941.jpg",
+        "https://telegra.ph/file/240e05141983e34e51b11.jpg",
+        "https://telegra.ph/file/7b9b2ba006509b49d9466.jpg",
+        "https://telegra.ph/file/39ea6494f90f0a2f1f012.jpg",
+        "https://telegra.ph/file/7ccf8a3095eb734f3cfb8.jpg",
+        "https://telegra.ph/file/d384fa4ad083eb7ce6683.jpg",
+        "https://telegra.ph/file/a39f4166b43630d8d5df2.jpg",
+        "https://telegra.ph/file/39d7a016333caf89d1dd6.jpg",
+        "https://telegra.ph/file/31fe73e9febc003ff83e2.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5977,
+    "title": "[ピジャ] わがまま彼氏とおっとり彼女",
+    "sourceUrl": "https://telegra.ph/ピジャ-わがまま彼氏とおっとり彼女-08-31",
+    "images": [
+        "https://telegra.ph/file/6d4d28b2bcdb6e03c3d11.jpg",
+        "https://telegra.ph/file/b8aac878dd3d83eefbea9.jpg",
+        "https://telegra.ph/file/9e6c37c0d59ab1ea41afd.jpg",
+        "https://telegra.ph/file/d92943556c0f27be25351.jpg",
+        "https://telegra.ph/file/bcf481bad237fb697260e.jpg",
+        "https://telegra.ph/file/38d1f7ab3ab708133a9db.jpg",
+        "https://telegra.ph/file/78f3a3caa5406f02302e5.jpg",
+        "https://telegra.ph/file/886fc01b17262b833cea1.jpg",
+        "https://telegra.ph/file/2ad24ba3151c4686610f6.jpg",
+        "https://telegra.ph/file/b2612b2d7344721c6d008.jpg",
+        "https://telegra.ph/file/941ade8ea6972a4c1ebf9.jpg",
+        "https://telegra.ph/file/0d162f3adae88ecea9504.jpg",
+        "https://telegra.ph/file/5e637f787da353913c4c8.jpg",
+        "https://telegra.ph/file/a0c266c9fe958408e0da1.jpg",
+        "https://telegra.ph/file/c9f6ca6fb037fc3ee10ff.jpg",
+        "https://telegra.ph/file/a1c27817dd2902fea990e.jpg",
+        "https://telegra.ph/file/5844a8e0ea7612a992d0f.jpg",
+        "https://telegra.ph/file/5a41447b3daf79cc2fc7f.jpg",
+        "https://telegra.ph/file/f39d8fa61e188f681c721.jpg",
+        "https://telegra.ph/file/256253f8d2f0f0e401881.jpg",
+        "https://telegra.ph/file/7cf1400acb494f59be5a1.jpg",
+        "https://telegra.ph/file/22592f7d723df2b631cf9.jpg",
+        "https://telegra.ph/file/c2f3f5fd5e05f6cb4a1d9.jpg",
+        "https://telegra.ph/file/e10c78c483dc7a1588dbd.jpg",
+        "https://telegra.ph/file/3dac69d954b154f3229a3.jpg",
+        "https://telegra.ph/file/29267d289a66c185eef5f.jpg"
+    ]
+};

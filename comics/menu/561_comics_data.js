@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 561,
+    "title": "[にーきゅー (る～く)] 変態教師&澪ちゃん",
+    "sourceUrl": "https://telegra.ph/にーきゅー-るく-変態教師澪ちゃん-08-31",
+    "images": [
+        "https://telegra.ph/file/f0f8d48a91ce9b1093ce1.jpg",
+        "https://telegra.ph/file/3ed6ccf12118b40721310.jpg",
+        "https://telegra.ph/file/63d864b4f8bc709e5bb30.jpg",
+        "https://telegra.ph/file/eed31deaeacfb84db7811.jpg",
+        "https://telegra.ph/file/b3a823d3f4a830f91a868.jpg",
+        "https://telegra.ph/file/841de896dcd1a39716e27.jpg",
+        "https://telegra.ph/file/b4ed308fe8fb933210045.jpg",
+        "https://telegra.ph/file/83fc24518585727762b23.jpg",
+        "https://telegra.ph/file/65f99baea539be9fc90ca.jpg",
+        "https://telegra.ph/file/bd12c68c69e6a96857c0a.jpg",
+        "https://telegra.ph/file/93cd10ce1a1dc5c7b7023.jpg",
+        "https://telegra.ph/file/75682fd59c9b84f4c1657.jpg",
+        "https://telegra.ph/file/cdb49855aa38b80aea807.jpg",
+        "https://telegra.ph/file/69c8412d9ddce6a1018aa.jpg",
+        "https://telegra.ph/file/9bcb402290891258acc28.jpg",
+        "https://telegra.ph/file/7feb7da4a893ccb09eba8.jpg",
+        "https://telegra.ph/file/43da2b60f68418db0726e.jpg",
+        "https://telegra.ph/file/42e5f5e23ae6d9270458d.jpg",
+        "https://telegra.ph/file/fda2fdff8804ada067ddf.jpg",
+        "https://telegra.ph/file/f0cba1b920990df4eb124.jpg",
+        "https://telegra.ph/file/3aa5753cd31c91a265288.jpg",
+        "https://telegra.ph/file/4414c1c6817be34c8869b.jpg",
+        "https://telegra.ph/file/838f6aacb5057a6db7cf9.jpg",
+        "https://telegra.ph/file/48662c363bd77bc7a2956.jpg"
+    ]
+};

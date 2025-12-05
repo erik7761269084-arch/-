@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7454,
+    "title": "道に迷った女の子と遭遇したら",
+    "sourceUrl": "https://telegra.ph/道に迷った女の子と遭遇したら-08-31",
+    "images": [
+        "https://telegra.ph/file/e795ba30a27d2ba8cfcaa.jpg",
+        "https://telegra.ph/file/a2898aaf3e546f4d1b1bd.jpg",
+        "https://telegra.ph/file/127f4531f3b09b26525cc.jpg",
+        "https://telegra.ph/file/a6d36a53c9c521dfcfae4.jpg",
+        "https://telegra.ph/file/9c38c454cac8c3d6566f7.jpg",
+        "https://telegra.ph/file/e36be2ad3d689e7c16e46.jpg",
+        "https://telegra.ph/file/f1a7b9469336a95ca373a.jpg",
+        "https://telegra.ph/file/ae96126250101cce092c8.jpg",
+        "https://telegra.ph/file/e14a0a0dc7096d28a6ee6.jpg",
+        "https://telegra.ph/file/dccab0a13975af9fcac8d.jpg",
+        "https://telegra.ph/file/7b6d1f0078f7907488292.jpg",
+        "https://telegra.ph/file/f1825af39cf4398e13d80.jpg",
+        "https://telegra.ph/file/eb97ad222676dad4d57b0.jpg",
+        "https://telegra.ph/file/f000c308942476833cbd3.jpg",
+        "https://telegra.ph/file/d5e567226e6037ed6f7ca.jpg",
+        "https://telegra.ph/file/532ed47269664a1602cc7.jpg",
+        "https://telegra.ph/file/c7a58ad9d39ad64895f29.jpg",
+        "https://telegra.ph/file/7f8654eb01788e846fa2c.jpg",
+        "https://telegra.ph/file/dadb7acd5bd021db9445a.jpg",
+        "https://telegra.ph/file/a4697e6a19048aafebb13.jpg",
+        "https://telegra.ph/file/bd33a6042bf78eac63f75.jpg",
+        "https://telegra.ph/file/471f1ef1eb99802a19532.jpg",
+        "https://telegra.ph/file/66a65f3daa665dd470bab.jpg",
+        "https://telegra.ph/file/f7a4c4c5685b557b8dffa.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6961,
+    "title": "スクールリフレ",
+    "sourceUrl": "https://telegra.ph/スクールリフレ-08-31",
+    "images": [
+        "https://telegra.ph/file/333ffd661cc046a0ac7dd.jpg",
+        "https://telegra.ph/file/ecf4389754675aff3be70.jpg",
+        "https://telegra.ph/file/267532678eeea113dfddc.jpg",
+        "https://telegra.ph/file/707783789fe4151000c0e.jpg",
+        "https://telegra.ph/file/33847c32e7579cc86f2b7.jpg",
+        "https://telegra.ph/file/d634a3edc7e387fb7e811.jpg",
+        "https://telegra.ph/file/fa812d952102a221852dd.jpg",
+        "https://telegra.ph/file/6774ec1a90eed46cc3007.jpg",
+        "https://telegra.ph/file/9abeae227e89f8c21be26.jpg",
+        "https://telegra.ph/file/5a16070a66c8cad6845f4.jpg",
+        "https://telegra.ph/file/3f0f7a14b86194950a84b.jpg",
+        "https://telegra.ph/file/d09b6989816c0b7b050cb.jpg",
+        "https://telegra.ph/file/8d5e36217b49433420cea.jpg",
+        "https://telegra.ph/file/296946b81e39c58202505.jpg",
+        "https://telegra.ph/file/0eb6bde87fe8945591787.jpg",
+        "https://telegra.ph/file/0870b2194bf8f6c275fe6.jpg",
+        "https://telegra.ph/file/dc81feaad9fdbfc82e624.jpg",
+        "https://telegra.ph/file/8a6aa968b49ebd7a7a19f.jpg",
+        "https://telegra.ph/file/6d24759a98eff9c4d809d.jpg",
+        "https://telegra.ph/file/d9676c3e7bcabd98231d9.jpg",
+        "https://telegra.ph/file/f50098c34b7d7b660182b.jpg",
+        "https://telegra.ph/file/24743d30a2444f4829b8e.jpg",
+        "https://telegra.ph/file/6a329cadd2e059437a652.jpg",
+        "https://telegra.ph/file/2f985349239306652e41a.jpg"
+    ]
+};

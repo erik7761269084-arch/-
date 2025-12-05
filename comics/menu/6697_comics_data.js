@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6697,
+    "title": "THE BROKEN KNIGHTMARE",
+    "sourceUrl": "https://telegra.ph/THE-BROKEN-KNIGHTMARE-08-31-2",
+    "images": [
+        "https://telegra.ph/file/8748af88e5b1fe138c6c6.jpg",
+        "https://telegra.ph/file/e644071ce5b7c908b0d61.jpg",
+        "https://telegra.ph/file/6b41f605a06a5016e0b99.jpg",
+        "https://telegra.ph/file/667907a160e0a2b5d069c.jpg",
+        "https://telegra.ph/file/dbb017d82d35390b73e9e.jpg",
+        "https://telegra.ph/file/581d3297042a63971b03d.jpg",
+        "https://telegra.ph/file/bab46956d292f6288f32d.jpg",
+        "https://telegra.ph/file/fb1790c3ebd3b7f792305.jpg",
+        "https://telegra.ph/file/dd2595d6f01b3df714078.jpg",
+        "https://telegra.ph/file/d42eeb08bf6421927a1c1.jpg",
+        "https://telegra.ph/file/68197aca5ff096e8ff3f9.jpg",
+        "https://telegra.ph/file/38f87cef94d3cb12fa950.jpg",
+        "https://telegra.ph/file/e5ab183489989016b4989.jpg",
+        "https://telegra.ph/file/d19cb95e77ea35743b259.jpg",
+        "https://telegra.ph/file/d015469938eb1620485ea.jpg",
+        "https://telegra.ph/file/6a47fbcad24da24dbf270.jpg",
+        "https://telegra.ph/file/b7f7b4efb11e2bc43b55b.jpg",
+        "https://telegra.ph/file/32ba1e30120317e3e76fb.jpg",
+        "https://telegra.ph/file/191fbcc094d09d67cf682.jpg",
+        "https://telegra.ph/file/7d4d830b23ad0302164fe.jpg",
+        "https://telegra.ph/file/46fcf0b980b4cb91ca1b6.jpg",
+        "https://telegra.ph/file/0fced9d444fab19e82ea7.jpg",
+        "https://telegra.ph/file/ab3b4119e76080a9b6282.jpg"
+    ]
+};

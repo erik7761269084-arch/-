@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1839,
+    "title": "[江鳥] アクマの宿屋にようこそ! (comic アンスリウム 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/江鳥-アクマの宿屋にようこそ-comic-アンスリウム-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1b97907746aa189b01c79.jpg",
+        "https://telegra.ph/file/c95c3efda85e1600b1ef1.jpg",
+        "https://telegra.ph/file/262750f65d771f69b0a07.jpg",
+        "https://telegra.ph/file/c4d94255bfb04552a245c.jpg",
+        "https://telegra.ph/file/1830b7b9a95904a1237e2.jpg",
+        "https://telegra.ph/file/c636ceabe2d54056be66d.jpg",
+        "https://telegra.ph/file/4fbbd85613d135e6f9e1e.jpg",
+        "https://telegra.ph/file/69273eef50994a4345dbe.jpg",
+        "https://telegra.ph/file/cfbae004cb7bc497b9c9f.jpg",
+        "https://telegra.ph/file/cc85fc73d032eb3059d0d.jpg",
+        "https://telegra.ph/file/587a29b98de2137fa0a29.jpg",
+        "https://telegra.ph/file/f285ef588d58a3b848781.jpg",
+        "https://telegra.ph/file/7a63430f0e33802bdd301.jpg",
+        "https://telegra.ph/file/61d71ac81af0e38d9674d.jpg",
+        "https://telegra.ph/file/a668957b73278d44f37ba.jpg",
+        "https://telegra.ph/file/db82fa904d8437f2ff41b.jpg",
+        "https://telegra.ph/file/090cf6283f18bf786725d.jpg",
+        "https://telegra.ph/file/1ee3def17c413cf910a00.jpg",
+        "https://telegra.ph/file/e7917c8d4c5a071cc6366.jpg",
+        "https://telegra.ph/file/07ac10fca541bc0c4b32d.jpg",
+        "https://telegra.ph/file/b803085ac13130beef747.jpg",
+        "https://telegra.ph/file/70451c11cf770fee5eb7d.jpg",
+        "https://telegra.ph/file/b6f7c7786fb0de296bea3.jpg",
+        "https://telegra.ph/file/57b77864b90cdba69066b.jpg"
+    ]
+};

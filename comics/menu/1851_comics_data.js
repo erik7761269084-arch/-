@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1851,
+    "title": "[YellowSeed (イエローシード)] 萬能ま○こ416ちゃん(イエローシード・インHK416) (少女前線) 【基德漢化組】",
+    "sourceUrl": "https://telegra.ph/YellowSeed-イエローシード-萬能まこ416ちゃんイエローシードインHK416-少女前線-基德漢化組-08-31",
+    "images": [
+        "https://telegra.ph/file/da96420dd9a9daf07302e.jpg",
+        "https://telegra.ph/file/540d695ef2eb895d620e1.jpg",
+        "https://telegra.ph/file/d0bd2844bc72a626601ee.jpg",
+        "https://telegra.ph/file/e7e5b6d047d6e3911eb02.jpg",
+        "https://telegra.ph/file/f70996adc8add1901bce4.jpg",
+        "https://telegra.ph/file/03d62fc14f82639602170.jpg",
+        "https://telegra.ph/file/4b0dce7c11c6d39f7869a.jpg",
+        "https://telegra.ph/file/c90f82a947240e35db984.jpg",
+        "https://telegra.ph/file/f93587d139ef9f82f82e9.jpg",
+        "https://telegra.ph/file/67c542396f515d10118a7.jpg",
+        "https://telegra.ph/file/b7d535f0ae03d5e327c67.jpg",
+        "https://telegra.ph/file/9fda3159684add00b11ed.jpg",
+        "https://telegra.ph/file/6890024f44035d931f0a9.jpg",
+        "https://telegra.ph/file/56dac00702b85a1aa4f19.jpg",
+        "https://telegra.ph/file/756c83ada921168154575.jpg",
+        "https://telegra.ph/file/4e847c93392639fcdd850.jpg",
+        "https://telegra.ph/file/821cce1ed0bd0c21e5f5e.jpg",
+        "https://telegra.ph/file/17855110b1b1fc97e834e.jpg",
+        "https://telegra.ph/file/0567fa40ea8da50f99e69.jpg",
+        "https://telegra.ph/file/a98384a6620d349406372.jpg",
+        "https://telegra.ph/file/f5b1bbaa3d313504dd4dd.jpg",
+        "https://telegra.ph/file/c0ac55f78f0d2252e102a.jpg",
+        "https://telegra.ph/file/29b110dc5694e8471a4a7.jpg"
+    ]
+};

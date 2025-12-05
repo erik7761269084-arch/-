@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1492,
+    "title": "(C99) [三毛猫飯店 (坂本カフカ)]クリちんぽ育成記",
+    "sourceUrl": "https://telegra.ph/C99-三毛猫飯店-坂本カフカクリちんぽ育成記-08-31",
+    "images": [
+        "https://telegra.ph/file/1bd57a75791756983f216.jpg",
+        "https://telegra.ph/file/a768d9504e95066ce43b3.jpg",
+        "https://telegra.ph/file/42a9d7e7e47a294db5415.jpg",
+        "https://telegra.ph/file/6f18d93cf7229d51aa0ec.jpg",
+        "https://telegra.ph/file/63924f3c3d1cba8cca7f0.jpg",
+        "https://telegra.ph/file/146698fb82a1712a20115.jpg",
+        "https://telegra.ph/file/134738a50f8e61a96fe51.jpg",
+        "https://telegra.ph/file/69c4eb92846e4aa4215bf.jpg",
+        "https://telegra.ph/file/fe26957e9591693dddfa3.jpg",
+        "https://telegra.ph/file/e5799b14c21c7b3b9ae9d.jpg",
+        "https://telegra.ph/file/f9051e02f49bd1e265a80.jpg",
+        "https://telegra.ph/file/5836ffe550e036af691b0.jpg",
+        "https://telegra.ph/file/d5942f897d8f8dc4d2b28.jpg",
+        "https://telegra.ph/file/0ebc0e3afd346f4af7a4e.jpg",
+        "https://telegra.ph/file/5c515c935894107912542.jpg",
+        "https://telegra.ph/file/046dbc9413a9ab52a7371.jpg",
+        "https://telegra.ph/file/03fae2495cf564ec8c5fc.jpg",
+        "https://telegra.ph/file/6518f46c23f0266154b5d.jpg",
+        "https://telegra.ph/file/8f0bf92bff8647575ee28.jpg",
+        "https://telegra.ph/file/c26510caf3dd19b3d97d5.jpg",
+        "https://telegra.ph/file/1084cbfba2e9ab6c576c5.jpg",
+        "https://telegra.ph/file/b7cd02e46f28d53f1d019.jpg",
+        "https://telegra.ph/file/96def6a5196b382412ed1.jpg",
+        "https://telegra.ph/file/84812fd6d475ae4f88a72.jpg",
+        "https://telegra.ph/file/d5b1a157c24d70b0ee22f.jpg",
+        "https://telegra.ph/file/920d0c845a645c03825d9.jpg"
+    ]
+};

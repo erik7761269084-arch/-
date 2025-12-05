@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 810,
+    "title": "[御姉狂 (ML)] 路地裏のメス猫 (ゲゲゲの鬼太郎)",
+    "sourceUrl": "https://telegra.ph/御姉狂-ML-路地裏のメス猫-ゲゲゲの鬼太郎-08-31",
+    "images": [
+        "https://telegra.ph/file/e235f4222ecc070e6102a.jpg",
+        "https://telegra.ph/file/bdbe8ac4d0b42f1b8753e.jpg",
+        "https://telegra.ph/file/0b61691995e8ae0ccb7ba.jpg",
+        "https://telegra.ph/file/68d8156e2048bd53bb526.jpg",
+        "https://telegra.ph/file/3a3d4a0e010741b197cac.jpg",
+        "https://telegra.ph/file/b52fcfe1f841cf70fa6ad.jpg",
+        "https://telegra.ph/file/5d413f68d7c411b740ac0.jpg",
+        "https://telegra.ph/file/5084c8d7d4e5674937da2.jpg",
+        "https://telegra.ph/file/6b4fcc16bb3ef6d713c4a.jpg",
+        "https://telegra.ph/file/69bdbb2601f2911baf124.jpg",
+        "https://telegra.ph/file/8c2ed4bed46b2b2f863c7.jpg",
+        "https://telegra.ph/file/211179ce3ac6f64fa5458.jpg",
+        "https://telegra.ph/file/e3fca049643cffec2d885.jpg",
+        "https://telegra.ph/file/5a5c5f54ac030a8b42f61.jpg",
+        "https://telegra.ph/file/5cd636c4e062a14456f21.jpg",
+        "https://telegra.ph/file/ea87323d8ec65cdfdb07a.jpg",
+        "https://telegra.ph/file/180c463244e42ab8fdd0f.jpg",
+        "https://telegra.ph/file/7154ff021fd3fff8ee791.jpg",
+        "https://telegra.ph/file/f66aac739251fbf9c720e.jpg",
+        "https://telegra.ph/file/c03f073938d4cbaea222a.jpg",
+        "https://telegra.ph/file/98058b101770b0bb4d253.jpg",
+        "https://telegra.ph/file/59febb235363bcda13a6e.jpg",
+        "https://telegra.ph/file/ea6081c5a5bc75388dbdc.jpg",
+        "https://telegra.ph/file/487a7650476af22ecb984.jpg",
+        "https://telegra.ph/file/72562993887d12d2b5244.jpg",
+        "https://telegra.ph/file/7d1fcce1d8fa20b73f40f.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4641,
+    "title": "[ぽぽちち (八尋ぽち)] 古見さんは、ビン感です。 (古見さんは、コミュ症です。)",
+    "sourceUrl": "https://telegra.ph/ぽぽちち-八尋ぽち-古見さんはビン感です-古見さんはコミュ症です-08-31",
+    "images": [
+        "https://telegra.ph/file/b46973e86133b135cb625.jpg",
+        "https://telegra.ph/file/0d341dcf5021a02673c23.jpg",
+        "https://telegra.ph/file/4dfa5d1f18e08a356316e.jpg",
+        "https://telegra.ph/file/01d1b7711735b376e5d28.jpg",
+        "https://telegra.ph/file/0d33a37b0fd57458b795b.jpg",
+        "https://telegra.ph/file/a6f94584614442e1a190c.jpg",
+        "https://telegra.ph/file/32a604ee91c46668c9099.jpg",
+        "https://telegra.ph/file/e3171e4f2d7360672c400.jpg",
+        "https://telegra.ph/file/0b6347e4e8091b443a9d4.jpg",
+        "https://telegra.ph/file/2959bfb162f77fbd17af1.jpg",
+        "https://telegra.ph/file/9ed6ad85223a78c94ef57.jpg",
+        "https://telegra.ph/file/63bd0eacba6e3a0883bdb.jpg",
+        "https://telegra.ph/file/192f86340bbe25dd0749d.jpg",
+        "https://telegra.ph/file/d0c35cf0fbf0b46ba1b80.jpg",
+        "https://telegra.ph/file/fdeef961315afc9c3f375.jpg",
+        "https://telegra.ph/file/33c45b1ec39e27fcde163.jpg",
+        "https://telegra.ph/file/ce2f80ee1da3bf071e77e.jpg",
+        "https://telegra.ph/file/995af0545258842204903.jpg",
+        "https://telegra.ph/file/5471228035bddf747fced.jpg",
+        "https://telegra.ph/file/095ddebc4f593e4aa7f5c.jpg",
+        "https://telegra.ph/file/6657908e0b3858f2489da.jpg",
+        "https://telegra.ph/file/cce0d4bc5a9b59ceaa239.jpg",
+        "https://telegra.ph/file/760adb7eb097b978eb522.jpg",
+        "https://telegra.ph/file/c573bb29b27c3f4cfec9c.jpg"
+    ]
+};

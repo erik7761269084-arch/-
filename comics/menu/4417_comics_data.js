@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4417,
+    "title": "[おおた堂 (おおたたけし)] みぃことながいパパ",
+    "sourceUrl": "https://telegra.ph/おおた堂-おおたたけし-みぃことながいパパ-08-31",
+    "images": [
+        "https://telegra.ph/file/db1cf0e6f03c4371c7991.jpg",
+        "https://telegra.ph/file/f99d73c75f25580921dd3.jpg",
+        "https://telegra.ph/file/caa83696f9b78573da8b8.jpg",
+        "https://telegra.ph/file/8f222635c2f99cfed9931.jpg",
+        "https://telegra.ph/file/5626586a436ecbb599f44.jpg",
+        "https://telegra.ph/file/c3498994c9dd3f5062cb5.jpg",
+        "https://telegra.ph/file/1657ec0b91fb445e40dea.jpg",
+        "https://telegra.ph/file/d083938ff1be875068d00.jpg",
+        "https://telegra.ph/file/b74b29f3f1725d9a9da06.jpg",
+        "https://telegra.ph/file/4885c8cd226bc80a8de7a.jpg",
+        "https://telegra.ph/file/cd76b24fdd6378bc55350.jpg",
+        "https://telegra.ph/file/1edffe6e11e21af47a8e7.jpg",
+        "https://telegra.ph/file/73f6dea1a5137c355d6e6.jpg",
+        "https://telegra.ph/file/7a73c1068fff48f6ce226.jpg",
+        "https://telegra.ph/file/a876c5ec486ce0e4c38db.jpg",
+        "https://telegra.ph/file/9ff5088ec6f9f2b57ab0d.jpg",
+        "https://telegra.ph/file/d5d442d61b39bb8e05b0f.jpg",
+        "https://telegra.ph/file/360e3578065371f36e411.jpg",
+        "https://telegra.ph/file/b403a105a99506ad99cd8.jpg",
+        "https://telegra.ph/file/a6b1f7b263904707914ee.jpg",
+        "https://telegra.ph/file/a991320844cd805999b93.jpg",
+        "https://telegra.ph/file/e4813f4fbd25a38255bc4.jpg",
+        "https://telegra.ph/file/375e3c08b7314a7263b39.jpg",
+        "https://telegra.ph/file/19f1b5a47ccd945b96d8c.jpg"
+    ]
+};

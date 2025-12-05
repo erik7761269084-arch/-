@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4474,
+    "title": "[満开开花] 催眠で家族でHなちゅーばー生活母娘でオナニー勉强会",
+    "sourceUrl": "https://telegra.ph/満开开花-催眠で家族でHなちゅーばー生活母娘でオナニー勉强会-08-31",
+    "images": [
+        "https://telegra.ph/file/6e85f92af1e136785ed5c.jpg",
+        "https://telegra.ph/file/fb8c62d02654c0c95bb7c.jpg",
+        "https://telegra.ph/file/bbc4b728b99fff8f4e20c.jpg",
+        "https://telegra.ph/file/f97b63aad595b1caafba0.jpg",
+        "https://telegra.ph/file/1c3ed8cc566d99f520431.jpg",
+        "https://telegra.ph/file/7185fc35ae5555f518c7b.jpg",
+        "https://telegra.ph/file/454be272316d4641bdecd.jpg",
+        "https://telegra.ph/file/e9f21b0d15cbd695e52ff.jpg",
+        "https://telegra.ph/file/2bf35289794623fe28c1f.jpg",
+        "https://telegra.ph/file/3dbff495ba6563d1971c4.jpg",
+        "https://telegra.ph/file/09046ae02fb10430b3523.jpg",
+        "https://telegra.ph/file/2a2d607a1f0068a3724d6.jpg",
+        "https://telegra.ph/file/d170c7410db616b47d67e.jpg",
+        "https://telegra.ph/file/6edfed450c9b43958b5be.jpg",
+        "https://telegra.ph/file/458450ff46cd84e8c0d6b.jpg",
+        "https://telegra.ph/file/d7aad1835343a8e534296.jpg",
+        "https://telegra.ph/file/a1b667fd3760bec91bd33.jpg",
+        "https://telegra.ph/file/1d9295ad2d3a5ee5600da.jpg",
+        "https://telegra.ph/file/9cbdc4e3660e3607ec303.jpg",
+        "https://telegra.ph/file/476057caca92343a26330.jpg",
+        "https://telegra.ph/file/d293a04b3c19b91251df4.jpg",
+        "https://telegra.ph/file/f589f5406f3e9b73d196f.jpg",
+        "https://telegra.ph/file/cc45a5c072f1655f2bc95.jpg"
+    ]
+};

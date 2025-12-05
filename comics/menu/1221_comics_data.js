@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1221,
+    "title": "[Fanbox] 豹紋院ござる NTR洗脳ユエ",
+    "sourceUrl": "https://telegra.ph/Fanbox-豹紋院ござる-NTR洗脳ユエ-08-31",
+    "images": [
+        "https://telegra.ph/file/45ffc2911e4963aba8742.jpg",
+        "https://telegra.ph/file/38713c760cd2fb42d63c4.jpg",
+        "https://telegra.ph/file/226a43ffbf45305ee01b9.jpg",
+        "https://telegra.ph/file/e356d86cc15c7c45cbd09.jpg",
+        "https://telegra.ph/file/6a68b5a089a9437c43983.jpg",
+        "https://telegra.ph/file/482e4cdc9432f8692ce3f.jpg",
+        "https://telegra.ph/file/0fe12ecdcdfd27f9e8253.jpg",
+        "https://telegra.ph/file/cbe0e12bd2ffdc725db22.jpg",
+        "https://telegra.ph/file/c70e3502f878fccd4c83f.jpg",
+        "https://telegra.ph/file/811556dadd87acd0d1ba3.jpg",
+        "https://telegra.ph/file/3b76cd5306960ab94a4cd.jpg",
+        "https://telegra.ph/file/9c8eacf534a2e53d04d99.jpg",
+        "https://telegra.ph/file/edc96a04092712b1c03e5.jpg",
+        "https://telegra.ph/file/c484959d458b16d08743a.jpg",
+        "https://telegra.ph/file/928e6026ca9f422dc049d.jpg",
+        "https://telegra.ph/file/1da2c8d22d76c6383493d.jpg",
+        "https://telegra.ph/file/bfd7be742847e2ab4a367.jpg",
+        "https://telegra.ph/file/c9f12fb355b94d5edff02.jpg",
+        "https://telegra.ph/file/344b778265565dcc851c0.jpg",
+        "https://telegra.ph/file/779c6b4bfcc227a0cecdd.jpg",
+        "https://telegra.ph/file/af73d5e8780fc6ef73df2.jpg",
+        "https://telegra.ph/file/04be5e281099e1d478c0d.jpg",
+        "https://telegra.ph/file/2d353912fae43d969ddd3.jpg",
+        "https://telegra.ph/file/8894cabd758ad752fac64.jpg",
+        "https://telegra.ph/file/cd0a3c85963d6155b41b5.jpg",
+        "https://telegra.ph/file/0dc75037b5670555ad8df.jpg"
+    ]
+};

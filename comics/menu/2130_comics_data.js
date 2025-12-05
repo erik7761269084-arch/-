@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2130,
+    "title": "(C97) [LemonMaiden (蒼海)] 霊基改造工房 (Fate/Grand Order, Fate/kaleid liner プリズマ☆イリヤ)",
+    "sourceUrl": "https://telegra.ph/C97-LemonMaiden-蒼海-霊基改造工房-FateGrand-Order-Fatekaleid-liner-プリズマイリヤ-08-31",
+    "images": [
+        "https://telegra.ph/file/ba77fb0b697daaaf81d2e.jpg",
+        "https://telegra.ph/file/799d66f3a473df44c1a18.jpg",
+        "https://telegra.ph/file/121ddba4915b1d2dab9b1.jpg",
+        "https://telegra.ph/file/2bc1462944c594f8b7434.jpg",
+        "https://telegra.ph/file/00b14f278e2a9c53ae407.jpg",
+        "https://telegra.ph/file/e38e5c1f0e3e92fa30634.jpg",
+        "https://telegra.ph/file/9880b0a9692baa6ed0d21.jpg",
+        "https://telegra.ph/file/6755cfed3d255da4e8569.jpg",
+        "https://telegra.ph/file/b4fff37a0b2fb54593f55.jpg",
+        "https://telegra.ph/file/73d321c4602ac71143e8b.jpg",
+        "https://telegra.ph/file/6bc545121b4db9217ed28.jpg",
+        "https://telegra.ph/file/a77c2cd99a1bbbb062d61.jpg",
+        "https://telegra.ph/file/1fb8afeed5c1106f010dd.jpg",
+        "https://telegra.ph/file/49a45bbdd2d00745cd13b.jpg",
+        "https://telegra.ph/file/063a098028627672437fd.jpg",
+        "https://telegra.ph/file/0675b4d7ab9c8082faab9.jpg",
+        "https://telegra.ph/file/a09249d42de1a74ca4b60.jpg",
+        "https://telegra.ph/file/c65325221889ec179aaa1.jpg",
+        "https://telegra.ph/file/1185a3b341d3f27994ff6.jpg",
+        "https://telegra.ph/file/c88fc2da079aa6aab4ac0.jpg",
+        "https://telegra.ph/file/d4e1aa0b034a9e14146ca.jpg",
+        "https://telegra.ph/file/3c50c8392ab2d2c95cdb3.jpg",
+        "https://telegra.ph/file/6e4f71c7b377b524dbf33.jpg",
+        "https://telegra.ph/file/1051c9e9c191593fceb31.jpg",
+        "https://telegra.ph/file/bd09820ab98767cf6484b.jpg",
+        "https://telegra.ph/file/b6dfabed6c4f7df7e4afe.jpg"
+    ]
+};

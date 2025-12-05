@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3405,
+    "title": "[じゃじゅじょ (じょぶじゅん。)] ディオナの秘蜜のカクテル (原神)",
+    "sourceUrl": "https://telegra.ph/じゃじゅじょ-じょぶじゅん-ディオナの秘蜜のカクテル-原神-08-31-2",
+    "images": [
+        "https://telegra.ph/file/46e1ffb0ce4048d3dab4f.jpg",
+        "https://telegra.ph/file/d8d82ea1387b381b42b7e.jpg",
+        "https://telegra.ph/file/63246599611c400dc25b6.jpg",
+        "https://telegra.ph/file/d9aed7ea73f9db01e5938.jpg",
+        "https://telegra.ph/file/49130da92f1b82f5cff05.jpg",
+        "https://telegra.ph/file/867ff13d081b5f38b1d8e.jpg",
+        "https://telegra.ph/file/f3df36d07861c8e3afaff.jpg",
+        "https://telegra.ph/file/7c84b78c43b1882a402af.jpg",
+        "https://telegra.ph/file/1ee5e0055afb215cb0a15.jpg",
+        "https://telegra.ph/file/c1dc9fa92ba7ed7555a11.jpg",
+        "https://telegra.ph/file/fd4fc190fcfa69a2f24a6.jpg",
+        "https://telegra.ph/file/2ee46b010b8bfdb6b2cdf.jpg",
+        "https://telegra.ph/file/9ae083f80baf5e4c9f287.jpg",
+        "https://telegra.ph/file/3a8a596b121a75e9e9f55.jpg",
+        "https://telegra.ph/file/a52ae24145b286c4f1234.jpg",
+        "https://telegra.ph/file/7ac9e579741d140d4d280.jpg",
+        "https://telegra.ph/file/6ebea8ebba3f9a7e1073e.jpg",
+        "https://telegra.ph/file/b2b8ce0f5ce9c1240da48.jpg",
+        "https://telegra.ph/file/bfa383cb395d37d176b3d.jpg",
+        "https://telegra.ph/file/f9605b5f597b939b2bb48.jpg",
+        "https://telegra.ph/file/55a4522d55dbeb4d1d794.jpg",
+        "https://telegra.ph/file/57f8053c6f3a384d73991.jpg",
+        "https://telegra.ph/file/78150cea93241fe28ac65.jpg",
+        "https://telegra.ph/file/1ff767432a90ff6de5488.jpg",
+        "https://telegra.ph/file/deaf1b34465ce430e6d28.jpg"
+    ]
+};

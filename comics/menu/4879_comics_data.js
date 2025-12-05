@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4879,
+    "title": "[にど] 常識改変 (リゼ・ヘルエスタ)",
+    "sourceUrl": "https://telegra.ph/にど-常識改変-リゼヘルエスタ-08-31",
+    "images": [
+        "https://telegra.ph/file/b616174721c8bcef67c08.jpg",
+        "https://telegra.ph/file/145bf347dab41b4887ee6.jpg",
+        "https://telegra.ph/file/78565b9b9d99df3049b96.jpg",
+        "https://telegra.ph/file/c6126523cba5605b04699.jpg",
+        "https://telegra.ph/file/82a21ddee9d2e3196b54b.jpg",
+        "https://telegra.ph/file/57dde1759e5bdf532025f.jpg",
+        "https://telegra.ph/file/9fb767611ea29a81381f2.jpg",
+        "https://telegra.ph/file/a6d53e05ffb3d8700d0ef.jpg",
+        "https://telegra.ph/file/d1774ce9b648ccc2a56bb.jpg",
+        "https://telegra.ph/file/3231188678633bc02c29b.jpg",
+        "https://telegra.ph/file/d6c09290c225f0724a600.jpg",
+        "https://telegra.ph/file/b5e1e00027b29f120ad4c.jpg",
+        "https://telegra.ph/file/0d07b90e654917ddc32be.jpg",
+        "https://telegra.ph/file/09100303795d1c4e3a80c.jpg",
+        "https://telegra.ph/file/c4acefdc875e403aa27bf.jpg",
+        "https://telegra.ph/file/4625871629bd4ece2aa3b.jpg",
+        "https://telegra.ph/file/1a4564edea27827591e0d.jpg",
+        "https://telegra.ph/file/5ad5319a2502f254c917f.jpg",
+        "https://telegra.ph/file/51155684ff85c6deb6aeb.jpg",
+        "https://telegra.ph/file/b568c4b1336661cb227b7.jpg",
+        "https://telegra.ph/file/898dba05c3ae9aa2548b9.jpg",
+        "https://telegra.ph/file/9e235f9d1ca3e1b362981.jpg",
+        "https://telegra.ph/file/41d94b5a649742c0c7c78.jpg",
+        "https://telegra.ph/file/77efcd8f1615301d15990.jpg"
+    ]
+};

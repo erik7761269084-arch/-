@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 595,
+    "title": "(C95) [ものくろサーキット (racer)] イリヤさんのどちゅどちゅ強化クエスト (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/C95-ものくろサーキット-racer-イリヤさんのどちゅどちゅ強化クエスト-Fate-Grand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/9e071b3e44932a85f7f3f.jpg",
+        "https://telegra.ph/file/0fcbd7b02169f518282c3.jpg",
+        "https://telegra.ph/file/ff433db429676462fa019.jpg",
+        "https://telegra.ph/file/bbe1b674198ae7ae22ad9.jpg",
+        "https://telegra.ph/file/5ae47f546bd62beb65c68.jpg",
+        "https://telegra.ph/file/9320562be2907e6a3bc00.jpg",
+        "https://telegra.ph/file/c429b5f57084380b16e0b.jpg",
+        "https://telegra.ph/file/72c2b6944d1433bd55aaa.jpg",
+        "https://telegra.ph/file/e97da53e5e649f06dd7bb.jpg",
+        "https://telegra.ph/file/241150c7bb3784122be57.jpg",
+        "https://telegra.ph/file/f516ca51f35f06eaac2f9.jpg",
+        "https://telegra.ph/file/baf0fb7486727844cec99.jpg",
+        "https://telegra.ph/file/67195c87d639f58ea0f54.jpg",
+        "https://telegra.ph/file/90ec51d93dd51cd34eb1e.jpg",
+        "https://telegra.ph/file/6416d0c960ef5ec0c588b.jpg",
+        "https://telegra.ph/file/56317cbe3f7e44b2dc401.jpg",
+        "https://telegra.ph/file/2affb002bda847d86d7ae.jpg",
+        "https://telegra.ph/file/b6e24eff2f5046ab24937.jpg",
+        "https://telegra.ph/file/5cfffc61ac3bcf1cb0904.jpg",
+        "https://telegra.ph/file/8eae6b453142ca0f50790.jpg",
+        "https://telegra.ph/file/0652c40e8a374143bd9ac.jpg",
+        "https://telegra.ph/file/eead1ebbff722f666989e.jpg",
+        "https://telegra.ph/file/c83e53d1b9fd046437f16.jpg",
+        "https://telegra.ph/file/4ec1f7fbcae73e23ba297.jpg"
+    ]
+};

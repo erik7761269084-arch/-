@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3868,
+    "title": "(C94) [Clochette (咲良ゆき)] 洗脳淫紋監獄 MA/STER (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C94-Clochette-咲良ゆき-洗脳淫紋監獄-MASTER-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/d3f33c8a0522207145462.jpg",
+        "https://telegra.ph/file/c216be96a5115c67da0a6.jpg",
+        "https://telegra.ph/file/3df2ee56520fdb8ed354a.jpg",
+        "https://telegra.ph/file/d8063c35fc8919a2f5186.jpg",
+        "https://telegra.ph/file/821e2233cca97ca9f781d.jpg",
+        "https://telegra.ph/file/9f0a641a9a9c7a1bbe37a.jpg",
+        "https://telegra.ph/file/831c4c502dd561775bf32.jpg",
+        "https://telegra.ph/file/6d3df3034941f80dd74f8.jpg",
+        "https://telegra.ph/file/c9f7453c5ba1c6cbca021.jpg",
+        "https://telegra.ph/file/0daeba12671d11dc59b29.jpg",
+        "https://telegra.ph/file/164a7d8d5615ac7e10583.jpg",
+        "https://telegra.ph/file/d891927f9fca7ae26b71d.jpg",
+        "https://telegra.ph/file/828ea1bcfd56124cc7333.jpg",
+        "https://telegra.ph/file/4c2eb57c153714c989127.jpg",
+        "https://telegra.ph/file/84e0ee903c4b169cd22d8.jpg",
+        "https://telegra.ph/file/fa77caece1c9cd26aa358.jpg",
+        "https://telegra.ph/file/63d029ecacf7402e200dc.jpg",
+        "https://telegra.ph/file/16a46cb21dddc0a9b90e1.jpg",
+        "https://telegra.ph/file/27386414024f1c24d2afc.jpg",
+        "https://telegra.ph/file/4f0326f1e4ccea982e25e.jpg",
+        "https://telegra.ph/file/f077a86588b52e65ee72b.jpg",
+        "https://telegra.ph/file/6de867bc193682282a0f2.jpg",
+        "https://telegra.ph/file/e7d83ef953a689fa831de.jpg",
+        "https://telegra.ph/file/2d2cafc3a99989f703db0.jpg",
+        "https://telegra.ph/file/f461c6f394d7e5c6f442f.jpg"
+    ]
+};

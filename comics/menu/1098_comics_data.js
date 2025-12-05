@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1098,
+    "title": "[だめなひ堂 (だめなひと)] GAME OVER (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/だめなひ堂-だめなひと-GAME-OVER-ブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/316eeadd4bc9594bb523b.jpg",
+        "https://telegra.ph/file/994b2ffa01f93703a173d.jpg",
+        "https://telegra.ph/file/15f9bfb0f79980ddf9b99.jpg",
+        "https://telegra.ph/file/022821b53701483a10faa.jpg",
+        "https://telegra.ph/file/3bc397aaf8e7d40fc67c0.jpg",
+        "https://telegra.ph/file/0d28c16f1c5c1072c3681.jpg",
+        "https://telegra.ph/file/fdc1751b4b0cc206bb16c.jpg",
+        "https://telegra.ph/file/ddd591930d8a6e955e486.jpg",
+        "https://telegra.ph/file/0df8b7cb9445070044c94.jpg",
+        "https://telegra.ph/file/1df7f1e8ed5abbbd8ffa8.jpg",
+        "https://telegra.ph/file/70e046d0d3e51cface04e.jpg",
+        "https://telegra.ph/file/fc620d12d36371a8afd8c.jpg",
+        "https://telegra.ph/file/797c992733c5c3737496b.jpg",
+        "https://telegra.ph/file/e7645ed07f33c95c67ec8.jpg",
+        "https://telegra.ph/file/82f7d441ea31a59b14b90.jpg",
+        "https://telegra.ph/file/71c8f5049c6f876628ab1.jpg",
+        "https://telegra.ph/file/ae032b7b98550a1f75d88.jpg",
+        "https://telegra.ph/file/b5d7ac8869db6a1e83de9.jpg",
+        "https://telegra.ph/file/ff43a74d2a8e239cc031f.jpg",
+        "https://telegra.ph/file/84d6762b469222bfab9f8.jpg",
+        "https://telegra.ph/file/787f5fb1334a0ee2217ad.jpg",
+        "https://telegra.ph/file/08f59b94ef6010f78c401.jpg",
+        "https://telegra.ph/file/a5c2adba5f19fdb5765be.jpg",
+        "https://telegra.ph/file/4b7f18742107633d3670c.jpg"
+    ]
+};

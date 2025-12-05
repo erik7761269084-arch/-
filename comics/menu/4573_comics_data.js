@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4573,
+    "title": "[寅乃檻 (酉寅)] 勇者大敗北EX (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/寅乃檻-酉寅-勇者大敗北EX-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/4ae5c4f2e22b42bfbcfea.jpg",
+        "https://telegra.ph/file/cb5c711eedba594b523e6.jpg",
+        "https://telegra.ph/file/1279b1ccfbc9aa988deb0.jpg",
+        "https://telegra.ph/file/f35430662f36f05078c56.jpg",
+        "https://telegra.ph/file/93120b3fecab0b2a3989b.jpg",
+        "https://telegra.ph/file/7ec323cbebb473ea3e497.jpg",
+        "https://telegra.ph/file/60c51d203760aef5100f3.jpg",
+        "https://telegra.ph/file/690073af72b79e111487a.jpg",
+        "https://telegra.ph/file/56944cbb1eb502895e579.jpg",
+        "https://telegra.ph/file/5cd15c4cfe4f2c547ae52.jpg",
+        "https://telegra.ph/file/878bfef6634b1bcd51054.jpg",
+        "https://telegra.ph/file/1d852ee9c0b7fbe17703d.jpg",
+        "https://telegra.ph/file/1e81b38221bc0254bc1cd.jpg",
+        "https://telegra.ph/file/ce50a32e1f4a70c33be0c.jpg",
+        "https://telegra.ph/file/7c8f945ad9883d7ef2ce9.jpg",
+        "https://telegra.ph/file/f434b33355d2089689ac2.jpg",
+        "https://telegra.ph/file/eb6791625e93851df98b8.jpg",
+        "https://telegra.ph/file/d6db8d455b4b9d4b143df.jpg",
+        "https://telegra.ph/file/205063bd781de6c0a5894.jpg",
+        "https://telegra.ph/file/0c102f9ab3f3523b1341f.jpg",
+        "https://telegra.ph/file/92663b79b0b0b5e9ae912.jpg",
+        "https://telegra.ph/file/fd4fc3e34b100dfc0bdaa.jpg",
+        "https://telegra.ph/file/71f3499cd39f894d0ac58.jpg"
+    ]
+};

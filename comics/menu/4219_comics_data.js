@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4219,
+    "title": "(C97) [はぶらえる] 武部沙織のエッチな女子力向上計画 (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/C97-はぶらえる-武部沙織のエッチな女子力向上計画-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/a1a35c4d591e51fc60b30.jpg",
+        "https://telegra.ph/file/3f5cbec01a828eddfc2a2.jpg",
+        "https://telegra.ph/file/a30a2236576455780d499.jpg",
+        "https://telegra.ph/file/0806aac4c9a2fef21fb89.jpg",
+        "https://telegra.ph/file/5784f39da41d4293f0d10.jpg",
+        "https://telegra.ph/file/6bbfed35b5149259ce94b.jpg",
+        "https://telegra.ph/file/0655fd900b1e70b472779.jpg",
+        "https://telegra.ph/file/1d56a9203d78c4cf5d6c4.jpg",
+        "https://telegra.ph/file/d568973dd5f458b912d2b.jpg",
+        "https://telegra.ph/file/3114172715fc9e6e1d12c.jpg",
+        "https://telegra.ph/file/25463e8cd691649167dc0.jpg",
+        "https://telegra.ph/file/e0f96274b00a824136e31.jpg",
+        "https://telegra.ph/file/73f2b47d27b03bce0c2e3.jpg",
+        "https://telegra.ph/file/b70dcf4648434295049cf.jpg",
+        "https://telegra.ph/file/9c818c53fb11a76e9ec7d.jpg",
+        "https://telegra.ph/file/add3fbe313837dd854576.jpg",
+        "https://telegra.ph/file/027597cb9176abb18b810.jpg",
+        "https://telegra.ph/file/c54658b2b5cc12e7701ae.jpg",
+        "https://telegra.ph/file/80ff7afc89428ee2325ed.jpg",
+        "https://telegra.ph/file/8ea2c54ec52a17ca5a19c.jpg",
+        "https://telegra.ph/file/b8cc20f6bae838629f411.jpg",
+        "https://telegra.ph/file/353bdbc5526c2f9d5548d.jpg",
+        "https://telegra.ph/file/c5b52ae0ffd5fec3fe617.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ]
+};

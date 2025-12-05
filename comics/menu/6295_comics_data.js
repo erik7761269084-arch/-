@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6295,
+    "title": "[イノウエマキト] ゲッカビジン",
+    "sourceUrl": "https://telegra.ph/イノウエマキト-ゲッカビジン-08-31",
+    "images": [
+        "https://telegra.ph/file/acc195fb9243e9a500450.jpg",
+        "https://telegra.ph/file/1cfbc9235b3c6ec91d3b0.jpg",
+        "https://telegra.ph/file/d24be1e917d7c1fa6752c.jpg",
+        "https://telegra.ph/file/6b56dc1e017953241f6a4.jpg",
+        "https://telegra.ph/file/b8134ce55556d38b8af5e.jpg",
+        "https://telegra.ph/file/97f500cb3fcdf75fd6622.jpg",
+        "https://telegra.ph/file/5b5dcb353b4e61f042439.jpg",
+        "https://telegra.ph/file/4500ece14b043daa5f5ae.jpg",
+        "https://telegra.ph/file/1608d10690acc1b72cffc.jpg",
+        "https://telegra.ph/file/0282a03dc0a38a67a4b92.jpg",
+        "https://telegra.ph/file/ca6ec73ac3f19a2437297.jpg",
+        "https://telegra.ph/file/1d9f4e661d6b806da692c.jpg",
+        "https://telegra.ph/file/bd067da91f1fa50e0d3ef.jpg",
+        "https://telegra.ph/file/c76336a3426cd637ecf6e.jpg",
+        "https://telegra.ph/file/4549d735f8258ff7c5d47.jpg",
+        "https://telegra.ph/file/c9c78582ae041619fef71.jpg",
+        "https://telegra.ph/file/3c67a86febd24609c0dc7.jpg",
+        "https://telegra.ph/file/0e17b96ba46d9657052d4.jpg",
+        "https://telegra.ph/file/08dd29d09ac9cf0bea9d2.jpg",
+        "https://telegra.ph/file/45f9a5b169288db0d83ea.jpg",
+        "https://telegra.ph/file/b660778dcb57e2c1110a0.jpg",
+        "https://telegra.ph/file/41833797eda701288b378.jpg",
+        "https://telegra.ph/file/42852cd149609faf284ed.jpg",
+        "https://telegra.ph/file/5513443205bfc5242410a.jpg"
+    ]
+};

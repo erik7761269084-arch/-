@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6277,
+    "title": "[狗的莫妮娅]最后机会！",
+    "sourceUrl": "https://telegra.ph/狗的莫妮娅最后机会-08-31",
+    "images": [
+        "https://telegra.ph/file/c675a4d55f1409bc50b2c.jpg",
+        "https://telegra.ph/file/baf3be399168de764c974.jpg",
+        "https://telegra.ph/file/23298574e0ed5ca88fb7c.jpg",
+        "https://telegra.ph/file/e3798fba8d44499272abc.jpg",
+        "https://telegra.ph/file/a9da29a8dfac6e0283c45.jpg",
+        "https://telegra.ph/file/ee7f397e08cab6cff0a98.jpg",
+        "https://telegra.ph/file/6d805464b3f79c27d0640.jpg",
+        "https://telegra.ph/file/21bb4c4085e4a90745fb7.jpg",
+        "https://telegra.ph/file/ce75ce4620f4447cb002f.jpg",
+        "https://telegra.ph/file/8a7c15eb468cc316fc469.jpg",
+        "https://telegra.ph/file/d316ee696bdc23b5b4fb2.jpg",
+        "https://telegra.ph/file/15c01b0a41d1a1cfc39a5.jpg",
+        "https://telegra.ph/file/f97b5e580ce8325c0515c.jpg",
+        "https://telegra.ph/file/88932660b2def34dedfe9.jpg",
+        "https://telegra.ph/file/70d0765b007af2f20ae58.jpg",
+        "https://telegra.ph/file/bd0a4989d76b5e2d63ad2.jpg",
+        "https://telegra.ph/file/7c355f24ae5241acd9064.jpg",
+        "https://telegra.ph/file/cb8df7010eeab2454e30e.jpg",
+        "https://telegra.ph/file/acc7a3cf503ea7eaeec1e.jpg",
+        "https://telegra.ph/file/0a7d72a025adb3f200150.jpg",
+        "https://telegra.ph/file/fdc73a3cb39d30aa95e85.jpg",
+        "https://telegra.ph/file/5250656fcd9bfd3fbab87.jpg",
+        "https://telegra.ph/file/a3b9b007d91365390ac63.jpg"
+    ]
+};

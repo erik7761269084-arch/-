@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5844,
+    "title": "[鬼束直] 真夏の温度",
+    "sourceUrl": "https://telegra.ph/鬼束直-真夏の温度-08-31",
+    "images": [
+        "https://telegra.ph/file/004833bacb778865bebdc.jpg",
+        "https://telegra.ph/file/27fe2c7988d270bca516c.jpg",
+        "https://telegra.ph/file/c4f341eae1cd4a68223e5.jpg",
+        "https://telegra.ph/file/de70909e9427c68a9e146.jpg",
+        "https://telegra.ph/file/fd27c1a7bc8089b7ceaba.jpg",
+        "https://telegra.ph/file/37f76cfb9adc0d7e539b4.jpg",
+        "https://telegra.ph/file/147f249a880d3210a5bfd.jpg",
+        "https://telegra.ph/file/aad90b9dfb7f624f1368a.jpg",
+        "https://telegra.ph/file/f41e803240a7649b10294.jpg",
+        "https://telegra.ph/file/603ecd832891001416724.jpg",
+        "https://telegra.ph/file/5972069030ece4a2ad1ca.jpg",
+        "https://telegra.ph/file/b6cb9253d5dd54f3da10d.jpg",
+        "https://telegra.ph/file/ac67bc3d425a6c9059ae0.jpg",
+        "https://telegra.ph/file/4c7b41fb03d9749c7996b.jpg",
+        "https://telegra.ph/file/0dcddc1d99114085d6e1e.jpg",
+        "https://telegra.ph/file/688718eff64daefea33f2.jpg",
+        "https://telegra.ph/file/990e21817fb3adb90c6da.jpg",
+        "https://telegra.ph/file/043acfda002d6f2eb21c1.jpg",
+        "https://telegra.ph/file/a876e3d01470710e65de8.jpg",
+        "https://telegra.ph/file/b1485d9e56e983ad8a524.jpg",
+        "https://telegra.ph/file/9f854dce191ae73d150c8.jpg",
+        "https://telegra.ph/file/bcb0e72598ea2756055c9.jpg",
+        "https://telegra.ph/file/f3382fda121b3c04f735d.jpg",
+        "https://telegra.ph/file/05e3030864357d8c395aa.jpg"
+    ]
+};

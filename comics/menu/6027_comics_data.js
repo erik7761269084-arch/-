@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6027,
+    "title": "[嶺本八美] いたずら好きの女の子",
+    "sourceUrl": "https://telegra.ph/嶺本八美-いたずら好きの女の子-08-31",
+    "images": [
+        "https://telegra.ph/file/8fa35ded46a8802324681.png",
+        "https://telegra.ph/file/3d6ca117951af7bbda52c.png",
+        "https://telegra.ph/file/fd1bd601b56e04d4efccb.png",
+        "https://telegra.ph/file/736105caa5a2995686a38.png",
+        "https://telegra.ph/file/99481b44fc2315bf9e434.png",
+        "https://telegra.ph/file/66901955c03a926122d6c.png",
+        "https://telegra.ph/file/b46222069073a986e6a1f.png",
+        "https://telegra.ph/file/78221b05fa37baebd78a9.png",
+        "https://telegra.ph/file/c7a65513d4b6978ac78a7.png",
+        "https://telegra.ph/file/c260b9d49b3adcad3b889.png",
+        "https://telegra.ph/file/b4d46b7802e95cabe9c68.png",
+        "https://telegra.ph/file/568afcf4782dbf1339a0c.png",
+        "https://telegra.ph/file/09f055cb67f3c92f2eee2.png",
+        "https://telegra.ph/file/a6c466db00e5f656205e9.png",
+        "https://telegra.ph/file/310cee2b495a14bd3c2eb.png",
+        "https://telegra.ph/file/60d2a58cdcacd728ddc9f.png",
+        "https://telegra.ph/file/21fad62bf66e718e06271.png",
+        "https://telegra.ph/file/a5a87f4aa67a2772a4204.png",
+        "https://telegra.ph/file/ba31e74d1f851c290fc2d.png",
+        "https://telegra.ph/file/9c2af98ca4b9115cfeafa.png",
+        "https://telegra.ph/file/68b7fb48f9a82caec271d.png",
+        "https://telegra.ph/file/41b2958de65513fb7a661.png",
+        "https://telegra.ph/file/6b653a4b2e75627ee8eec.png",
+        "https://telegra.ph/file/bf748aed7354bd6138cfe.png"
+    ]
+};

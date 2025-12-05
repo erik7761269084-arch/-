@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2810,
+    "title": "[花札さくらの] みのりちゃん家 その1 (COMIC BAVEL 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/花札さくらの-みのりちゃん家-その1-COMIC-BAVEL-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c0774fcbb7a76235dea98.jpg",
+        "https://telegra.ph/file/b900d3c19892babddfd5c.jpg",
+        "https://telegra.ph/file/c7599ad0b45906a53c1b4.jpg",
+        "https://telegra.ph/file/522ea79023da15c2ddfe9.jpg",
+        "https://telegra.ph/file/f5473d54e9e90a28bfb26.jpg",
+        "https://telegra.ph/file/b1582fa09606b9b17e319.jpg",
+        "https://telegra.ph/file/1557bb0f0cca2a6176230.jpg",
+        "https://telegra.ph/file/a34a07a60def3bcf9d086.jpg",
+        "https://telegra.ph/file/344c59a37b171f13f872a.jpg",
+        "https://telegra.ph/file/cf679bdcc50f12861ef6c.jpg",
+        "https://telegra.ph/file/67d812adab8fee301cb28.jpg",
+        "https://telegra.ph/file/93100a881a22d7c44c1e6.jpg",
+        "https://telegra.ph/file/dca2be294ff4edb150c7c.jpg",
+        "https://telegra.ph/file/0a39af02cab88282ee842.jpg",
+        "https://telegra.ph/file/4653b05951fbf5f675f68.jpg",
+        "https://telegra.ph/file/21f88ab1fe60d44ddbf68.jpg",
+        "https://telegra.ph/file/04588c8ee71309e50e045.jpg",
+        "https://telegra.ph/file/b66a161c2fc305bff51a3.jpg",
+        "https://telegra.ph/file/83b35386fe7a3a42c7048.jpg",
+        "https://telegra.ph/file/7308a0d5c13cd68b71b48.jpg",
+        "https://telegra.ph/file/88d1f26dd1f3cf6665c93.jpg",
+        "https://telegra.ph/file/cbd9dacd7d801434a6aee.jpg",
+        "https://telegra.ph/file/c3746fa3aaf3fce127418.jpg",
+        "https://telegra.ph/file/af5be4cd44a874e483552.jpg",
+        "https://telegra.ph/file/4518d8893c2dc6a503946.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

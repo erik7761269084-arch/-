@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6428,
+    "title": "星梨花と育と桃子のオトナの「せったい」",
+    "sourceUrl": "https://telegra.ph/星梨花と育と桃子のオトナのせったい-08-31",
+    "images": [
+        "https://telegra.ph/file/92ee6b54dfb6d2f7dbeda.jpg",
+        "https://telegra.ph/file/b83994a612ff8ac887e19.jpg",
+        "https://telegra.ph/file/025b3a6815d4d48cc2c9e.jpg",
+        "https://telegra.ph/file/04e39d57551ede9ad94d9.jpg",
+        "https://telegra.ph/file/92e0113bcebd4c92aba67.jpg",
+        "https://telegra.ph/file/e06f0457555684ee7a834.jpg",
+        "https://telegra.ph/file/c29bfc0e0409cbeaff10c.jpg",
+        "https://telegra.ph/file/773c02959f795baa64691.jpg",
+        "https://telegra.ph/file/1942b50e4e11e9112b01b.jpg",
+        "https://telegra.ph/file/a54577b7f973e3ff6deff.jpg",
+        "https://telegra.ph/file/bf33874c891e956f35b2f.jpg",
+        "https://telegra.ph/file/6d6d64c6aeabe4665550c.jpg",
+        "https://telegra.ph/file/619e6a055ad291e0fa02f.jpg",
+        "https://telegra.ph/file/e54be5ceb1e946fcc12e2.jpg",
+        "https://telegra.ph/file/d9e0e9745941f9128ff5c.jpg",
+        "https://telegra.ph/file/ac5a28782d1a080157799.jpg",
+        "https://telegra.ph/file/37a3adae731ac69645a9a.jpg",
+        "https://telegra.ph/file/dd9ccfcb2c9a81f60cbee.jpg",
+        "https://telegra.ph/file/6af33d82d7af8f10a77f8.jpg",
+        "https://telegra.ph/file/351257fc7d26755737bc9.jpg",
+        "https://telegra.ph/file/084967ba5a6c4fad59591.jpg",
+        "https://telegra.ph/file/82cddf74aac605b267634.jpg",
+        "https://telegra.ph/file/cc195d4b96ce57cb47088.jpg",
+        "https://telegra.ph/file/5df855a1a8d4f6acbeb2d.jpg",
+        "https://telegra.ph/file/a00d1c81afd9ae2058425.jpg",
+        "https://telegra.ph/file/70e3c4bebe372b8fd13cf.jpg"
+    ]
+};

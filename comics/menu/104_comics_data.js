@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 104,
+    "title": "[Kie] 将軍様のワカメ酒🍶💕💕💕💕 (原神)",
+    "sourceUrl": "https://telegra.ph/Kie-将軍様のワカメ酒-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/599e3a21b098cad3dc827.jpg",
+        "https://telegra.ph/file/8f29395b1e0090542def9.jpg",
+        "https://telegra.ph/file/fa896754e79432c11b3b9.jpg",
+        "https://telegra.ph/file/e54c743d616ba4928a2ac.jpg",
+        "https://telegra.ph/file/10c428003cac06e3dd8ec.jpg",
+        "https://telegra.ph/file/8dd1a351454499f12e9a6.jpg",
+        "https://telegra.ph/file/c9717e4d6e22a6e293723.jpg",
+        "https://telegra.ph/file/30b5ba0f2c251426fa939.jpg",
+        "https://telegra.ph/file/3e94ce6a16244a968c374.jpg",
+        "https://telegra.ph/file/af7fa56bd4493630bdf34.jpg",
+        "https://telegra.ph/file/926c2aaeaa7776735f929.jpg",
+        "https://telegra.ph/file/74df1758dff5507a2c20a.jpg",
+        "https://telegra.ph/file/4b8852fc805b2a160b2ab.jpg",
+        "https://telegra.ph/file/9167b51af31e6fd1c5d1f.jpg",
+        "https://telegra.ph/file/03e80204dc67c2ac366d0.jpg",
+        "https://telegra.ph/file/d79104ae1836132e6b912.jpg",
+        "https://telegra.ph/file/68d51d186f284bc05bbe9.jpg",
+        "https://telegra.ph/file/b678fa1a83eaaea99c95b.jpg",
+        "https://telegra.ph/file/e189dfe336cb9f752d4c0.jpg",
+        "https://telegra.ph/file/8e0e4ee75e671640fe609.jpg",
+        "https://telegra.ph/file/d2748840ecf2e5912467a.jpg",
+        "https://telegra.ph/file/3dc9dd96c4d46e439400d.jpg",
+        "https://telegra.ph/file/eec2e8c240e9a6caf2cb0.jpg"
+    ]
+};

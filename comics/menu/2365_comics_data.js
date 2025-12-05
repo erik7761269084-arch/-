@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2365,
+    "title": "[オクモト悠太] ストロングスタイル",
+    "sourceUrl": "https://telegra.ph/オクモト悠太-ストロングスタイル-08-31",
+    "images": [
+        "https://telegra.ph/file/6148068ad39c883de62f8.jpg",
+        "https://telegra.ph/file/3dd2b1730f4d8c5730791.jpg",
+        "https://telegra.ph/file/b49a3d49267315d96d2ec.jpg",
+        "https://telegra.ph/file/80adbfdb9b576a7a188c2.jpg",
+        "https://telegra.ph/file/1cd18d2329483a49a80e8.jpg",
+        "https://telegra.ph/file/7e71efe4a8ae1ef3ceb40.jpg",
+        "https://telegra.ph/file/375a5297639b71504b75f.jpg",
+        "https://telegra.ph/file/11ecf8652aa0ae717eb0b.jpg",
+        "https://telegra.ph/file/117a17144f20fc7e25a4c.jpg",
+        "https://telegra.ph/file/51207b06659a77014ac1e.jpg",
+        "https://telegra.ph/file/3a40a50451f4a842d6397.jpg",
+        "https://telegra.ph/file/28252ef797832aaf118f2.jpg",
+        "https://telegra.ph/file/aa4a4201f0998bb6ca617.jpg",
+        "https://telegra.ph/file/0f382d189e456e951efad.jpg",
+        "https://telegra.ph/file/f25fa2004482813e3fc55.jpg",
+        "https://telegra.ph/file/3830b7b4b00b677dddbbd.jpg",
+        "https://telegra.ph/file/372d004abab07398ae1f0.jpg",
+        "https://telegra.ph/file/fff291090eb966c64e134.jpg",
+        "https://telegra.ph/file/2b11204750b26ccbb07dd.jpg",
+        "https://telegra.ph/file/e133372bb09b1f1432980.jpg",
+        "https://telegra.ph/file/814bebfe6b058e1f6af82.jpg",
+        "https://telegra.ph/file/7b3a1b549dc45167ce511.jpg",
+        "https://telegra.ph/file/65e3198d0838b32af2d4c.jpg",
+        "https://telegra.ph/file/88b09aecd5888b7485eac.jpg"
+    ]
+};

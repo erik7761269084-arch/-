@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3767,
+    "title": "(C99) [麦わらクラブ (こむぎ)] 私とあのバカが海でシちゃった話など。 (ペルソナ5)",
+    "sourceUrl": "https://telegra.ph/C99-麦わらクラブ-こむぎ-私とあのバカが海でシちゃった話など-ペルソナ5-08-31",
+    "images": [
+        "https://telegra.ph/file/0ee0e012c8b9bae04182c.jpg",
+        "https://telegra.ph/file/b216c183b0e1bf7d7295e.jpg",
+        "https://telegra.ph/file/39f9fa4095698a8b9a836.jpg",
+        "https://telegra.ph/file/c948e0f3782900caffb8f.jpg",
+        "https://telegra.ph/file/3940ac175331aeab5526a.jpg",
+        "https://telegra.ph/file/682588b7f5b08c548aea2.jpg",
+        "https://telegra.ph/file/7eb4e049aa6b008d6d4c7.jpg",
+        "https://telegra.ph/file/f633e053cb8995c827304.jpg",
+        "https://telegra.ph/file/bc758c02ffd989c24e652.jpg",
+        "https://telegra.ph/file/24d993252e5c03a2ec430.jpg",
+        "https://telegra.ph/file/3257e9952dc14e790a9d1.jpg",
+        "https://telegra.ph/file/190b8f1a08cddd489a3df.jpg",
+        "https://telegra.ph/file/6b1a6237960a2f74b161a.jpg",
+        "https://telegra.ph/file/9b87f83dd0631f933cfe9.jpg",
+        "https://telegra.ph/file/3404861ca746360592d85.jpg",
+        "https://telegra.ph/file/9b70cffbcd2de199d4cb6.jpg",
+        "https://telegra.ph/file/7a6ca014809e7afe76019.jpg",
+        "https://telegra.ph/file/a9bc6377ea5b7ef03d3bf.jpg",
+        "https://telegra.ph/file/412fea5e7376662170a68.jpg",
+        "https://telegra.ph/file/799eb946e6a2241b15985.jpg",
+        "https://telegra.ph/file/3c99fbbb2baf020ebb1dc.jpg",
+        "https://telegra.ph/file/e692e27aca28343c4a3f1.jpg",
+        "https://telegra.ph/file/85ef15b59f7c7356610cb.jpg"
+    ]
+};

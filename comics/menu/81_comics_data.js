@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 81,
+    "title": "[ナスムスビム] 二人でハメコミ☆シスターズ 後編 (コミックホットミルク 2022年6月号)",
+    "sourceUrl": "https://telegra.ph/ナスムスビム-二人でハメコミシスターズ-後編-コミックホットミルク-2022年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c8b62df0b80e9225c76fb.jpg",
+        "https://telegra.ph/file/9f0880ca3267a04101c35.jpg",
+        "https://telegra.ph/file/53fa0d117053d22a90e51.jpg",
+        "https://telegra.ph/file/e25f6e51c999b1ef9f023.jpg",
+        "https://telegra.ph/file/21a3b0a34eeed0602e2f9.jpg",
+        "https://telegra.ph/file/ca1156cce55c8e425814e.jpg",
+        "https://telegra.ph/file/477ea1063efd255d9c366.jpg",
+        "https://telegra.ph/file/f80b8608bad08fafc6a63.jpg",
+        "https://telegra.ph/file/a32c0eb604f3d14ffd8c0.jpg",
+        "https://telegra.ph/file/c064f712fdf5331f214b2.jpg",
+        "https://telegra.ph/file/a80afd4f7d9d89021d4c7.jpg",
+        "https://telegra.ph/file/652e725ea9c13c3fb2afe.jpg",
+        "https://telegra.ph/file/1145f6bc994c296656e31.jpg",
+        "https://telegra.ph/file/6be4d5863a3a952f28b0e.jpg",
+        "https://telegra.ph/file/8a3f35dc9369803d7e587.jpg",
+        "https://telegra.ph/file/6999c08fc45787c1104c1.jpg",
+        "https://telegra.ph/file/47d61d5d570b6565d14e4.jpg",
+        "https://telegra.ph/file/0e8043f80f67f58bbf02a.jpg",
+        "https://telegra.ph/file/784fa1844e44755becca7.jpg",
+        "https://telegra.ph/file/517f63efedf2d9e7563aa.jpg",
+        "https://telegra.ph/file/9bc649b10e3c75962f9ba.jpg",
+        "https://telegra.ph/file/a1302d80064e827ba5feb.jpg",
+        "https://telegra.ph/file/67ac62201447155c46e13.jpg",
+        "https://telegra.ph/file/79cf24d0219682310e44f.jpg",
+        "https://telegra.ph/file/9b021dae792f2d4dbaf9b.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1861,
+    "title": "[三色坊 (黒青郎君)] 百華莊8《続 下女牡丹の憂鬱》",
+    "sourceUrl": "https://telegra.ph/三色坊-黒青郎君-百華莊8続-下女牡丹の憂鬱-08-31",
+    "images": [
+        "https://telegra.ph/file/3dc78a58cec61cd8fd367.jpg",
+        "https://telegra.ph/file/79484d8b61238077ed71b.jpg",
+        "https://telegra.ph/file/126e54d745f594d829d6b.jpg",
+        "https://telegra.ph/file/f84797c0a076b2094e526.jpg",
+        "https://telegra.ph/file/9340565b27f5a1c4f1a15.jpg",
+        "https://telegra.ph/file/0d174c3b59845049e36fe.jpg",
+        "https://telegra.ph/file/c1963400aa9711f461c7c.jpg",
+        "https://telegra.ph/file/076c1ab356f73fd70e1fe.jpg",
+        "https://telegra.ph/file/64895749cb285cb5a2147.jpg",
+        "https://telegra.ph/file/c991089fcb34004c028c2.jpg",
+        "https://telegra.ph/file/529f1a8be0495af689e12.jpg",
+        "https://telegra.ph/file/9c9598be5b9171babb8fd.jpg",
+        "https://telegra.ph/file/beab6e27bbbe51d013d86.jpg",
+        "https://telegra.ph/file/5be435d0c19da3bc2dabd.jpg",
+        "https://telegra.ph/file/ebd70417fb740c594cf87.jpg",
+        "https://telegra.ph/file/900125810c734f308d80c.jpg",
+        "https://telegra.ph/file/d60ee2b297f0c61a65017.jpg",
+        "https://telegra.ph/file/aee5064617164cac9248b.jpg",
+        "https://telegra.ph/file/b9d4d10853ae288e0f98b.jpg",
+        "https://telegra.ph/file/1198f92d2e36178bfded4.jpg",
+        "https://telegra.ph/file/42557498313d006b9effe.jpg",
+        "https://telegra.ph/file/d7be2b559ec0142bb983f.jpg",
+        "https://telegra.ph/file/32738482ee861c8df7619.jpg",
+        "https://telegra.ph/file/10d6982539917509edc78.jpg",
+        "https://telegra.ph/file/c07a206fab82f750bbd05.jpg",
+        "https://telegra.ph/file/df6570558ed984fc28001.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4449,
+    "title": "(C91) [白い闇 (K-you)] 夜行動で1more (ペルソナ5)",
+    "sourceUrl": "https://telegra.ph/C91-白い闇-K-you-夜行動で1more-ペルソナ5-08-31",
+    "images": [
+        "https://telegra.ph/file/e62889cd004e7de281765.jpg",
+        "https://telegra.ph/file/3b49642cc13694d96ce64.jpg",
+        "https://telegra.ph/file/d2390ababa4f9fc70cf8d.jpg",
+        "https://telegra.ph/file/aae561bea26083ebe1926.jpg",
+        "https://telegra.ph/file/a7206a4582991c2c55cfc.jpg",
+        "https://telegra.ph/file/13633d36c15fb72b2c96e.jpg",
+        "https://telegra.ph/file/5583bf42ff8657a94f74c.jpg",
+        "https://telegra.ph/file/6c34d7eef5a9e4d278214.jpg",
+        "https://telegra.ph/file/8fb068b24e9eb38276562.jpg",
+        "https://telegra.ph/file/e595d8ee908d61d756940.jpg",
+        "https://telegra.ph/file/43e5be3e31e8316c38d98.jpg",
+        "https://telegra.ph/file/53028d3a3e6179d1fbc89.jpg",
+        "https://telegra.ph/file/9486a47de7cb580bfcb98.jpg",
+        "https://telegra.ph/file/9b9f931467e7d57f3faff.jpg",
+        "https://telegra.ph/file/0d0b025acd9d7a4de9d4a.jpg",
+        "https://telegra.ph/file/1008686f9704ea6880cbd.jpg",
+        "https://telegra.ph/file/c82c0a363184ac9c63973.jpg",
+        "https://telegra.ph/file/5b0b00a5d7b90e21502de.jpg",
+        "https://telegra.ph/file/a8ae93a285f8fa317c05f.jpg",
+        "https://telegra.ph/file/29095553182b27cb9669e.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/993f07f1c165f24f54716.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/0b26119747798c54765cf.jpg",
+        "https://telegra.ph/file/285f982b7868818fc4f00.jpg"
+    ]
+};

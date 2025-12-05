@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2698,
+    "title": "[木瀬樹] 麦の恩返し (WEEKLY 快楽天 2022 No.09)",
+    "sourceUrl": "https://telegra.ph/木瀬樹-麦の恩返し-WEEKLY-快楽天-2022-No09-08-31",
+    "images": [
+        "https://telegra.ph/file/dc0c583ada01e3aa3f6ce.jpg",
+        "https://telegra.ph/file/a9619b46684cae2cebb10.jpg",
+        "https://telegra.ph/file/efe2bd6a39fce46d3373e.jpg",
+        "https://telegra.ph/file/3921632e53c9da1a22466.jpg",
+        "https://telegra.ph/file/2864d7c41d4eb76b94477.jpg",
+        "https://telegra.ph/file/cec725bef3b6b16affb25.jpg",
+        "https://telegra.ph/file/8f652dc3411aeb0d8a373.jpg",
+        "https://telegra.ph/file/91f5943e3aab78535e066.jpg",
+        "https://telegra.ph/file/57d3042ccd543215bbfb5.jpg",
+        "https://telegra.ph/file/0be31cf22e90db31cac2a.jpg",
+        "https://telegra.ph/file/d9b7a4566087e8d4e2dc2.jpg",
+        "https://telegra.ph/file/f6c73518ca151a5f75816.jpg",
+        "https://telegra.ph/file/f354870606dbc94017dea.jpg",
+        "https://telegra.ph/file/af7972d98ea5a7ce0e20f.jpg",
+        "https://telegra.ph/file/20c147e54972a6b2f89ca.jpg",
+        "https://telegra.ph/file/06646cba32be47bcf5ec0.jpg",
+        "https://telegra.ph/file/b1747088aa5c6ab50baec.jpg",
+        "https://telegra.ph/file/2f4a11210fc56194560ba.jpg",
+        "https://telegra.ph/file/f3f7424a952ec35b7f13b.jpg",
+        "https://telegra.ph/file/7bf2689a2b58c1e0f5a3c.jpg",
+        "https://telegra.ph/file/8b1da5d25631fcc63e95e.jpg",
+        "https://telegra.ph/file/7dbd85515b3d4b8379796.jpg",
+        "https://telegra.ph/file/37c4e5775c1a996a2f73d.jpg",
+        "https://telegra.ph/file/ad7097cdc137aa528a1ce.jpg",
+        "https://telegra.ph/file/857b4b49b1d30d50e35f8.jpg",
+        "https://telegra.ph/file/2bda8a93e7825d730420e.jpg"
+    ]
+};

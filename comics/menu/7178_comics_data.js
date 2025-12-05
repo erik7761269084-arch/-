@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7178,
+    "title": "Pet or Slave 暦家の場合",
+    "sourceUrl": "https://telegra.ph/Pet-or-Slave-暦家の場合-08-31",
+    "images": [
+        "https://telegra.ph/file/e16bcefdf356a50cda0c3.jpg",
+        "https://telegra.ph/file/0bcb8177c4f37f2073537.jpg",
+        "https://telegra.ph/file/bff757e6ba1bd290de9c7.jpg",
+        "https://telegra.ph/file/6907f9491e0bafc3d382a.jpg",
+        "https://telegra.ph/file/0c634dcff2029f4279703.jpg",
+        "https://telegra.ph/file/69e4d38e50813a626fc7a.jpg",
+        "https://telegra.ph/file/2d71d3f00127bd5cb220b.jpg",
+        "https://telegra.ph/file/2cd58a64c159c33d429c6.jpg",
+        "https://telegra.ph/file/de802a05a60afb4f71be8.jpg",
+        "https://telegra.ph/file/bfbb8220befe49718ae4e.jpg",
+        "https://telegra.ph/file/5e25cf6984383656b531e.jpg",
+        "https://telegra.ph/file/45a387be9bc231eb3c40f.jpg",
+        "https://telegra.ph/file/81f4af155af2bf900d97f.jpg",
+        "https://telegra.ph/file/7ab4fdf0209d1c18ea307.jpg",
+        "https://telegra.ph/file/f43bc30c98e8bcf39ee46.jpg",
+        "https://telegra.ph/file/908dc3ed74a6dcaecb480.jpg",
+        "https://telegra.ph/file/6d1cebf1e5e034a8d5ff0.jpg",
+        "https://telegra.ph/file/51e47ac66274c9fe2eec3.jpg",
+        "https://telegra.ph/file/f925b79256d563fa6fffa.jpg",
+        "https://telegra.ph/file/13565f955bdebfdff3bf2.jpg",
+        "https://telegra.ph/file/30621eaefb1d6c4b0a4b8.jpg",
+        "https://telegra.ph/file/d9efa2591a42828d68899.jpg",
+        "https://telegra.ph/file/9c8e484234d110f92fc62.jpg",
+        "https://telegra.ph/file/c045c54e9d0bbb641e588.jpg"
+    ]
+};

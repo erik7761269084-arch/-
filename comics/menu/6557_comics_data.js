@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6557,
+    "title": "白濁液幻想 ギャンバン・マーチ",
+    "sourceUrl": "https://telegra.ph/白濁液幻想-ギャンバンマーチ-08-31",
+    "images": [
+        "https://telegra.ph/file/0e924f3e7dbd64310b8cd.jpg",
+        "https://telegra.ph/file/dacef5a9dc0a94368c735.jpg",
+        "https://telegra.ph/file/72fc38a06d6b7c6277f5c.jpg",
+        "https://telegra.ph/file/502df9150428af62e7924.jpg",
+        "https://telegra.ph/file/d990ab138024010021673.jpg",
+        "https://telegra.ph/file/220cf9643877343d311fd.jpg",
+        "https://telegra.ph/file/93fe562a2ba737877364f.jpg",
+        "https://telegra.ph/file/c1e357ae19057b86b47ee.jpg",
+        "https://telegra.ph/file/3fbd301474f3bbda38609.jpg",
+        "https://telegra.ph/file/c34a0e37476d2d499ccec.jpg",
+        "https://telegra.ph/file/14886eccf86b1577aa82a.jpg",
+        "https://telegra.ph/file/0d20f816955da6e665dc8.jpg",
+        "https://telegra.ph/file/b023dd9c66942e2a72593.jpg",
+        "https://telegra.ph/file/6f7fabc9c09e116e10347.jpg",
+        "https://telegra.ph/file/0255b0ae86e4b35efbd3a.jpg",
+        "https://telegra.ph/file/78eeb1f5ee3aba788447a.jpg",
+        "https://telegra.ph/file/d582030da6d9d93ea2e64.jpg",
+        "https://telegra.ph/file/25b1369fd56f08e4505b2.jpg",
+        "https://telegra.ph/file/9aeb3816b29b4292dbb4f.jpg",
+        "https://telegra.ph/file/076c4978ba237e04eabeb.jpg",
+        "https://telegra.ph/file/e2e534391658d9728cec9.jpg",
+        "https://telegra.ph/file/b017665df815d81eceb2c.jpg",
+        "https://telegra.ph/file/f8a02ebb7997693e8d5ab.jpg",
+        "https://telegra.ph/file/8733c14ddf98ce81443de.jpg"
+    ]
+};

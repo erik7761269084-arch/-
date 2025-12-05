@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1977,
+    "title": "[桐野いつき] 妹の彼とのつきあい方 (COMIC グーチョ vol.8)",
+    "sourceUrl": "https://telegra.ph/桐野いつき-妹の彼とのつきあい方-COMIC-グーチョ-vol8-08-31",
+    "images": [
+        "https://telegra.ph/file/4e7ef2d04efb5a3d0e082.jpg",
+        "https://telegra.ph/file/6f887b59c487d1efe30d0.jpg",
+        "https://telegra.ph/file/3b6202bae2a4e18d26997.jpg",
+        "https://telegra.ph/file/7a0fe6eb45bbd33edfb8e.jpg",
+        "https://telegra.ph/file/baeaf5a0442acdc9b4420.jpg",
+        "https://telegra.ph/file/5d546d69d7f29d4fc56bb.jpg",
+        "https://telegra.ph/file/41f4825418896fd221ace.jpg",
+        "https://telegra.ph/file/f1f9669ac3b90f3e7e40a.jpg",
+        "https://telegra.ph/file/7483ba97d634202e3306e.jpg",
+        "https://telegra.ph/file/fe07f013de09f876c2f20.jpg",
+        "https://telegra.ph/file/6c30ec6c3673d6c3d9d94.jpg",
+        "https://telegra.ph/file/39a21a229d51f7c662171.jpg",
+        "https://telegra.ph/file/48a98c750fe6afa5609dd.jpg",
+        "https://telegra.ph/file/81eeb8218da0c8ff69d83.jpg",
+        "https://telegra.ph/file/7d360ca8ea0dc4a90393f.jpg",
+        "https://telegra.ph/file/54e4e0bb3e008af3b6fd4.jpg",
+        "https://telegra.ph/file/5910be08522955d5f7856.jpg",
+        "https://telegra.ph/file/113bfaf30fc88ae3880d8.jpg",
+        "https://telegra.ph/file/46b76c8316bca73c97bac.jpg",
+        "https://telegra.ph/file/2c0ee3d2868be1f83ad2c.jpg",
+        "https://telegra.ph/file/75537e5515a7ff3e0c4fb.jpg",
+        "https://telegra.ph/file/c819439601b7f206487ad.jpg",
+        "https://telegra.ph/file/61e9d5900288c0a4b18eb.jpg",
+        "https://telegra.ph/file/416502508e1523fa8c054.jpg",
+        "https://telegra.ph/file/666e6d3206d9180ca99f0.jpg"
+    ]
+};

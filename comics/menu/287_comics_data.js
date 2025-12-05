@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 287,
+    "title": "[DATE] 改変対象 最終話 (コミックアンリアル 2021年12月号 Vol.94)",
+    "sourceUrl": "https://telegra.ph/DATE-改変対象-最終話-コミックアンリアル-2021年12月号-Vol94-08-31",
+    "images": [
+        "https://telegra.ph/file/485e64ffb47f7b1a02f54.jpg",
+        "https://telegra.ph/file/2ca0b1758808657eba7df.jpg",
+        "https://telegra.ph/file/282325955e6fe16e2f811.jpg",
+        "https://telegra.ph/file/7b8f4b99875636f40b71e.jpg",
+        "https://telegra.ph/file/68ea8c6598ebdbd6ce97b.jpg",
+        "https://telegra.ph/file/f1ad490856c0df88942f7.jpg",
+        "https://telegra.ph/file/28a5943f773d4850b2eca.jpg",
+        "https://telegra.ph/file/04c34d6e14ca0330e81b5.jpg",
+        "https://telegra.ph/file/3d187f750ecba07a59c2b.jpg",
+        "https://telegra.ph/file/1cc30569a69e361a79209.jpg",
+        "https://telegra.ph/file/dad0c477bf637a30ea57f.jpg",
+        "https://telegra.ph/file/b7d7120f2f787d2f58c7c.jpg",
+        "https://telegra.ph/file/b5b0cba5693fdf24baebf.jpg",
+        "https://telegra.ph/file/32bc617c8dc3b216ff49c.jpg",
+        "https://telegra.ph/file/2b2455ee0188d02c1819d.jpg",
+        "https://telegra.ph/file/9d0b34a687480d76c6691.jpg",
+        "https://telegra.ph/file/dc7cedbcaec2b4d1a223b.jpg",
+        "https://telegra.ph/file/8212387e236c996a95d08.jpg",
+        "https://telegra.ph/file/a3e56451ddfe9492ad7c3.jpg",
+        "https://telegra.ph/file/c9041830ac62e7cf228c8.jpg",
+        "https://telegra.ph/file/ac1b26d09fcadf5936119.jpg",
+        "https://telegra.ph/file/9383ab316559a834aa0a0.jpg",
+        "https://telegra.ph/file/d2b683ed6cf0a0e4b29c4.jpg",
+        "https://telegra.ph/file/a8469bd8d3e0af0a9a3ad.jpg",
+        "https://telegra.ph/file/88a333345615778b87292.jpg",
+        "https://telegra.ph/file/2b3005d33ec0722ad77e5.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1543,
+    "title": "厕所肉便器",
+    "sourceUrl": "https://telegra.ph/厕所肉便器-08-31",
+    "images": [
+        "https://telegra.ph/file/8991fb7e5e03680916f58.jpg",
+        "https://telegra.ph/file/36cc84a9be99cbfab0e39.jpg",
+        "https://telegra.ph/file/c7a020417a3dd40d13388.jpg",
+        "https://telegra.ph/file/6059582648fa3a41846ba.jpg",
+        "https://telegra.ph/file/7528ad0a088033bd218b6.jpg",
+        "https://telegra.ph/file/f54418a3bccfc63fd6d22.jpg",
+        "https://telegra.ph/file/777ab6ade9c2109fbcd69.jpg",
+        "https://telegra.ph/file/d34e2e92b9610d567c7e0.jpg",
+        "https://telegra.ph/file/730b7f30693b5f0a65b57.jpg",
+        "https://telegra.ph/file/131c3213a66cdf768c0e6.jpg",
+        "https://telegra.ph/file/074c4c5c75c9b6c3bae01.jpg",
+        "https://telegra.ph/file/102ca32a341c872bf872b.jpg",
+        "https://telegra.ph/file/91984e721fbe4581ae452.jpg",
+        "https://telegra.ph/file/243650a33f3998c96296b.jpg",
+        "https://telegra.ph/file/953915c2034705c9a0ffe.jpg",
+        "https://telegra.ph/file/0e08966fe8dc1a814cec9.jpg",
+        "https://telegra.ph/file/1359a08cbb6043e3bee7f.jpg",
+        "https://telegra.ph/file/ac0d6f9f29d55bf437256.jpg",
+        "https://telegra.ph/file/01c484e646720993c968e.jpg",
+        "https://telegra.ph/file/340006e6b5552503e2253.jpg",
+        "https://telegra.ph/file/22f5860736b9a90898e79.jpg",
+        "https://telegra.ph/file/82c824ab2232d89d858bc.jpg",
+        "https://telegra.ph/file/7dd75ed95f902741908f8.jpg"
+    ]
+};

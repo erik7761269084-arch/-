@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3874,
+    "title": "[Fanbox] 隈吉",
+    "sourceUrl": "https://telegra.ph/Fanbox-隈吉-08-31",
+    "images": [
+        "https://telegra.ph/file/cc6167f0234105063c9b6.jpg",
+        "https://telegra.ph/file/46b94a803ac61561e0202.jpg",
+        "https://telegra.ph/file/a0ba0f94a474af341245b.jpg",
+        "https://telegra.ph/file/9a711f35072085c33f656.jpg",
+        "https://telegra.ph/file/133e74b02cacbdf03dff6.jpg",
+        "https://telegra.ph/file/8c0334cbad07b9a47334d.jpg",
+        "https://telegra.ph/file/2d2b84366cb34b675a24e.jpg",
+        "https://telegra.ph/file/c5573f31422a1bbf3a73e.jpg",
+        "https://telegra.ph/file/3172d3053dadf7e95b81d.jpg",
+        "https://telegra.ph/file/ee57c7fbd8eed2ac5efe0.jpg",
+        "https://telegra.ph/file/3c6d20176992efb41a4a0.jpg",
+        "https://telegra.ph/file/5991d346b3fc084e7efb4.jpg",
+        "https://telegra.ph/file/6c3bc916cc5cc1b00789a.jpg",
+        "https://telegra.ph/file/7b0df7ae5baefa17dec93.jpg",
+        "https://telegra.ph/file/997f27459fc04226807e3.jpg",
+        "https://telegra.ph/file/8d528c9663ee099952a5b.jpg",
+        "https://telegra.ph/file/b7f6f12b5afb8c15c230c.jpg",
+        "https://telegra.ph/file/5e90117431eadd0b64282.jpg",
+        "https://telegra.ph/file/cd589a82c0603f667b805.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/739cfa05d0bdd035b18bd.png",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/f27e1bf1a5a4ba0aad9a8.jpg"
+    ]
+};

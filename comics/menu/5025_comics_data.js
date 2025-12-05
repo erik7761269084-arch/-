@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5025,
+    "title": "[2015.07] Tiny Evil 1",
+    "sourceUrl": "https://telegra.ph/201507-Tiny-Evil-1-08-31-4",
+    "images": [
+        "https://telegra.ph/file/cd5607815451ac135d7d1.jpg",
+        "https://telegra.ph/file/cb4be6eef9b60f303bdf9.jpg",
+        "https://telegra.ph/file/9b6c6113b9dc9ee5ad379.jpg",
+        "https://telegra.ph/file/d6f2680ce9f64b7c75093.jpg",
+        "https://telegra.ph/file/3980100619ed31f1fd0b5.jpg",
+        "https://telegra.ph/file/f07676c1bffc1b273cc8f.jpg",
+        "https://telegra.ph/file/5078d689d1baaa58a792c.jpg",
+        "https://telegra.ph/file/d55c8e4ef20b152784614.jpg",
+        "https://telegra.ph/file/6162f19feeec71d6cc3a8.jpg",
+        "https://telegra.ph/file/7c92e5100db541a04205a.jpg",
+        "https://telegra.ph/file/4c47ece54903f95c7c0a1.jpg",
+        "https://telegra.ph/file/9d3d75fc2f4ef77000c59.jpg",
+        "https://telegra.ph/file/2004b2b7f54ea84519e3f.jpg",
+        "https://telegra.ph/file/e57acfe9948f401e142ec.jpg",
+        "https://telegra.ph/file/df5c2156177eb8cd71801.jpg",
+        "https://telegra.ph/file/5d3e4e1c563daf3270480.jpg",
+        "https://telegra.ph/file/2dd4aa8068903b756fd99.jpg",
+        "https://telegra.ph/file/e65479599f3c0b02f5bff.jpg",
+        "https://telegra.ph/file/c4d1e6c683174b63a1870.jpg",
+        "https://telegra.ph/file/0fd3e8394b51560ad3f5d.jpg",
+        "https://telegra.ph/file/9ee2f1bf9a7bee463b576.jpg",
+        "https://telegra.ph/file/092338fa78ca5b0af47d9.jpg",
+        "https://telegra.ph/file/6c814df681c3761f50504.jpg",
+        "https://telegra.ph/file/d02af820cc4c22d3dec66.jpg",
+        "https://telegra.ph/file/6cce5172e4eb9839141e0.jpg",
+        "https://telegra.ph/file/2ebb559865df60daf544b.jpg"
+    ]
+};

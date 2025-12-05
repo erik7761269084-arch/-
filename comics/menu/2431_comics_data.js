@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2431,
+    "title": "[山本善々] 抗え! 筋肉女のマウントポジション!! (COMIC アンスリウム 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/山本善々-抗え-筋肉女のマウントポジション-COMIC-アンスリウム-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/117169cc81b16a2bb1539.jpg",
+        "https://telegra.ph/file/896d0981dfe47e7310154.jpg",
+        "https://telegra.ph/file/9839fa7713def86c98bc9.jpg",
+        "https://telegra.ph/file/8af18145a620e25e1959c.jpg",
+        "https://telegra.ph/file/b21a5800d6a5dc7834652.jpg",
+        "https://telegra.ph/file/5e2ebc3102542ce654276.jpg",
+        "https://telegra.ph/file/89ad2c1a47c89da623ee9.jpg",
+        "https://telegra.ph/file/d00c111aacdca3f9b2f07.jpg",
+        "https://telegra.ph/file/651cfb0683a188f1d5b8a.jpg",
+        "https://telegra.ph/file/e52f79d4232513cf3ab40.jpg",
+        "https://telegra.ph/file/4231c10e91067eb0bf9d3.jpg",
+        "https://telegra.ph/file/929ab38b5f7fb53dfdd2c.jpg",
+        "https://telegra.ph/file/34e51ff08730e0527caf7.jpg",
+        "https://telegra.ph/file/0454f650b3495e4d3e8a8.jpg",
+        "https://telegra.ph/file/aa1858bc67a7add31d462.jpg",
+        "https://telegra.ph/file/4f3d9aee5dd614c72a953.jpg",
+        "https://telegra.ph/file/64a1629d3846fe32cf5a5.jpg",
+        "https://telegra.ph/file/7771f2db53db0ded26827.jpg",
+        "https://telegra.ph/file/45f7625c9d3e2863fa604.jpg",
+        "https://telegra.ph/file/9ab36d1cbb1572f35a346.jpg",
+        "https://telegra.ph/file/31a530133741927dd81bf.jpg",
+        "https://telegra.ph/file/628b4059e57c5afdedfa7.jpg",
+        "https://telegra.ph/file/412803aef9134f83e9b04.jpg",
+        "https://telegra.ph/file/38172306fab4e3794b68f.jpg",
+        "https://telegra.ph/file/58a389f6046cda74cd6b3.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6143,
+    "title": "[Cuvie] 軽はずみ",
+    "sourceUrl": "https://telegra.ph/Cuvie-軽はずみ-08-31",
+    "images": [
+        "https://telegra.ph/file/7e8285436111203cd80d1.jpg",
+        "https://telegra.ph/file/ab559eb7a2a98ea6458fc.jpg",
+        "https://telegra.ph/file/a08f0b1eb597fed8bdcaa.jpg",
+        "https://telegra.ph/file/478f27244fe9f0e5f2f08.jpg",
+        "https://telegra.ph/file/e6ffd51b4f4571d318291.jpg",
+        "https://telegra.ph/file/5918c424b53a09b70ff51.jpg",
+        "https://telegra.ph/file/a4f5847f3c6941b41839d.jpg",
+        "https://telegra.ph/file/515a91c88441c4c4ca38c.jpg",
+        "https://telegra.ph/file/9dae299ef39b4b66e2dc0.jpg",
+        "https://telegra.ph/file/e3175c0ae5e31b487ff16.jpg",
+        "https://telegra.ph/file/dfdbb94bd6ee2bb9ff7a6.jpg",
+        "https://telegra.ph/file/306d6ea7b9da8744f69e2.jpg",
+        "https://telegra.ph/file/bfb3c8e97ef630ecedbc8.jpg",
+        "https://telegra.ph/file/0c2da41895588e872a898.jpg",
+        "https://telegra.ph/file/8c1de8cb66e17efaf2b2c.jpg",
+        "https://telegra.ph/file/930d4f3a240de0a6a84b4.jpg",
+        "https://telegra.ph/file/44b490c189f55942587b4.jpg",
+        "https://telegra.ph/file/e4b26dc5c3672053ac9bc.jpg",
+        "https://telegra.ph/file/02de3ecc6420e04c7ebdb.jpg",
+        "https://telegra.ph/file/643aca6b83c07a7ef9b98.jpg",
+        "https://telegra.ph/file/8d58bc618343071f2c378.jpg",
+        "https://telegra.ph/file/60ea24d6ba8706fea6b70.jpg",
+        "https://telegra.ph/file/4f6b4bde467ded2b8ebe8.jpg",
+        "https://telegra.ph/file/65277d644e9276169751e.jpg",
+        "https://telegra.ph/file/d679ffee61d2abbdff7d4.jpg",
+        "https://telegra.ph/file/bd6397f6bdf830c498993.jpg"
+    ]
+};

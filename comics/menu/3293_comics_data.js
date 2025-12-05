@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3293,
+    "title": "(C94) [マシュマロ風船 (かゆみ止め)] ベルファストママの射精管理 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C94-マシュマロ風船-かゆみ止め-ベルファストママの射精管理-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/85e245b56f6ba4e06f3c8.jpg",
+        "https://telegra.ph/file/06dfb81eb31accdf47fd6.jpg",
+        "https://telegra.ph/file/5402ff6554ab1efca8086.jpg",
+        "https://telegra.ph/file/db92ed775e463d9c8a502.jpg",
+        "https://telegra.ph/file/eb1d7eab07a41d7444da6.jpg",
+        "https://telegra.ph/file/7c412284c5259e1466d64.jpg",
+        "https://telegra.ph/file/85b2ae6af66c6d0c3a70b.jpg",
+        "https://telegra.ph/file/78d44f397bcb211ae01a5.jpg",
+        "https://telegra.ph/file/e63aa05d1ff1949d06dcc.jpg",
+        "https://telegra.ph/file/287a5191050249d1b7082.jpg",
+        "https://telegra.ph/file/0c0aaa39ad8a00e927267.jpg",
+        "https://telegra.ph/file/4ff1c678cd6eaf67532ec.jpg",
+        "https://telegra.ph/file/4e8e1511b3ba48aaede9e.jpg",
+        "https://telegra.ph/file/2180afadc2ae914b66b10.jpg",
+        "https://telegra.ph/file/4673d40cd386bf2eb8282.jpg",
+        "https://telegra.ph/file/48870f3e7a485b641c0b7.jpg",
+        "https://telegra.ph/file/14f0ad1ed08895d38a5fa.jpg",
+        "https://telegra.ph/file/aa9f03f99eae7a5f773aa.jpg",
+        "https://telegra.ph/file/9ba933d82d82e4723a77f.jpg",
+        "https://telegra.ph/file/7ccbe94928ffd1cd65d88.jpg",
+        "https://telegra.ph/file/5e01cad79d95121d1d578.jpg",
+        "https://telegra.ph/file/bb14f3b6ff923a381e518.jpg",
+        "https://telegra.ph/file/c9f805c87b170b9fc6b36.jpg",
+        "https://telegra.ph/file/ce4583e95e2dee2743daa.jpg"
+    ]
+};

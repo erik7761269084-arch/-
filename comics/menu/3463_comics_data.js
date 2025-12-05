@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3463,
+    "title": "[丑露ムキ] あばら家のオンナノコたち (COMIC BAVEL 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/丑露ムキ-あばら家のオンナノコたち-COMIC-BAVEL-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/43f03d47cad670dc27d44.jpg",
+        "https://telegra.ph/file/969d2933bdb7b5b557ac9.jpg",
+        "https://telegra.ph/file/c2941e9aa6c641e2f1d60.jpg",
+        "https://telegra.ph/file/842068f476af70bb20635.jpg",
+        "https://telegra.ph/file/a2633e8c52be8e0554a10.jpg",
+        "https://telegra.ph/file/9ddbfcbf3cb957e632fda.jpg",
+        "https://telegra.ph/file/f009a2b72606a68893e52.jpg",
+        "https://telegra.ph/file/b70fcba31ed29484660ad.jpg",
+        "https://telegra.ph/file/824a555db389fb66fc612.jpg",
+        "https://telegra.ph/file/16f9a1d2186798ae6e987.jpg",
+        "https://telegra.ph/file/e78424c4e212af7ab81b4.jpg",
+        "https://telegra.ph/file/a8490f1e7746aa33b4594.jpg",
+        "https://telegra.ph/file/c1752f86a2de758d54c93.jpg",
+        "https://telegra.ph/file/0edc4912ba91a86b8a4f7.jpg",
+        "https://telegra.ph/file/add90e64c47f1879b8544.jpg",
+        "https://telegra.ph/file/7877ac1f0451a176ed059.jpg",
+        "https://telegra.ph/file/880831da88d144eb79076.jpg",
+        "https://telegra.ph/file/4c180c7f52000d3aa904e.jpg",
+        "https://telegra.ph/file/3453ef864a74a6f92ad6a.jpg",
+        "https://telegra.ph/file/550f45ca3a036e67be3db.jpg",
+        "https://telegra.ph/file/ac4cd5a8133867d1ede61.jpg",
+        "https://telegra.ph/file/7c1e7637e98681b84cf5c.jpg",
+        "https://telegra.ph/file/de3194e45c4652e90761b.jpg",
+        "https://telegra.ph/file/63ac295d7050c779a2cfc.jpg",
+        "https://telegra.ph/file/5208cf2a3cab851d1b866.jpg",
+        "https://telegra.ph/file/45fd181324c9a1d666f2c.jpg"
+    ]
+};

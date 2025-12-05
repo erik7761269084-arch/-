@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2573,
+    "title": "[なまつい] Heart Throb （50M版本）",
+    "sourceUrl": "https://telegra.ph/なまつい-Heart-Throb-50M版本-08-31",
+    "images": [
+        "https://telegra.ph/file/0f532e8ad872e5394d6e2.jpg",
+        "https://telegra.ph/file/f545994092e8418fc1bb7.jpg",
+        "https://telegra.ph/file/924a83e423c651df13923.jpg",
+        "https://telegra.ph/file/d4c97021eb1f85064a5db.jpg",
+        "https://telegra.ph/file/b6c40fda4f48cc7bb237f.jpg",
+        "https://telegra.ph/file/d794d62800790afbaacc1.jpg",
+        "https://telegra.ph/file/752421a7a4eec8b225ac1.jpg",
+        "https://telegra.ph/file/c0be7d27248fc0c5b9f1c.jpg",
+        "https://telegra.ph/file/776104e93addcfcd5cd38.jpg",
+        "https://telegra.ph/file/08b9eaef566edbbcd546c.jpg",
+        "https://telegra.ph/file/f5e0d12ebb385d7d64274.jpg",
+        "https://telegra.ph/file/82954bb594a74f2a03cc9.jpg",
+        "https://telegra.ph/file/fd479d8a3910e3c72dbf5.jpg",
+        "https://telegra.ph/file/ab96a07eb3b1a88ea463e.jpg",
+        "https://telegra.ph/file/896a1c5129b9ed5066664.jpg",
+        "https://telegra.ph/file/a8161d69e8f0972986305.jpg",
+        "https://telegra.ph/file/60a68de73b0720f2d7d6e.jpg",
+        "https://telegra.ph/file/18c71cfba67cdb0d86e48.jpg",
+        "https://telegra.ph/file/7afbe6b3174d4bce8838b.jpg",
+        "https://telegra.ph/file/a56809907cf91337819db.jpg",
+        "https://telegra.ph/file/f8263ca0e82b815d77381.jpg",
+        "https://telegra.ph/file/f8b80ee51ff9f261035c7.jpg",
+        "https://telegra.ph/file/c3de7c5d9caa8f51c41d6.jpg"
+    ]
+};

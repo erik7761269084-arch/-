@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7797,
+    "title": "[萌姫連合 (xin、obiwan)] カーニバル14-新米指揮官の学園性生活-",
+    "sourceUrl": "https://telegra.ph/萌姫連合-xinobiwan-カーニバル14-新米指揮官の学園性生活-08-31",
+    "images": [
+        "https://telegra.ph/file/27310e05311f9107d5d25.jpg",
+        "https://telegra.ph/file/a561a0beddc5d09eb2276.jpg",
+        "https://telegra.ph/file/85b8b69e48cd934819289.jpg",
+        "https://telegra.ph/file/2ce34bf74724331d363ab.jpg",
+        "https://telegra.ph/file/5d9abead17e58c7948cee.jpg",
+        "https://telegra.ph/file/a75722bda9fd4d13e6bdf.jpg",
+        "https://telegra.ph/file/6664444d34a8ee206ed93.jpg",
+        "https://telegra.ph/file/c3dcf05bb4939d9ee7ce0.jpg",
+        "https://telegra.ph/file/e8f33dfb0beb21e50daf6.jpg",
+        "https://telegra.ph/file/c3ff3cc269aeac3af5b90.jpg",
+        "https://telegra.ph/file/2ca0cb2ac4ffaf37a7b90.jpg",
+        "https://telegra.ph/file/1ff43374a7b49d2c929f6.jpg",
+        "https://telegra.ph/file/0597a59184f855040ea65.jpg",
+        "https://telegra.ph/file/b208db2b12a1b5599a6ad.jpg",
+        "https://telegra.ph/file/ff2a845fc6bcb3c738e89.jpg",
+        "https://telegra.ph/file/d6a44781f4aaa00358ebb.jpg",
+        "https://telegra.ph/file/990b20331a52482e95b95.jpg",
+        "https://telegra.ph/file/b3c1eb0a864afe699566d.jpg",
+        "https://telegra.ph/file/e176c88734bb3474ba229.jpg",
+        "https://telegra.ph/file/b4d190a5fa27977fe008e.jpg",
+        "https://telegra.ph/file/5aac7b28d58a430efe45b.jpg",
+        "https://telegra.ph/file/697d4c11b570a4fc80482.jpg",
+        "https://telegra.ph/file/fbcdfced3a5c474abb62b.jpg",
+        "https://telegra.ph/file/0e8d395c5c0204c595ce9.jpg",
+        "https://telegra.ph/file/6e68b73ecbc674620636d.jpg"
+    ]
+};

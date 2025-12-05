@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6839,
+    "title": "放課後ももか",
+    "sourceUrl": "https://telegra.ph/放課後ももか-08-31",
+    "images": [
+        "https://telegra.ph/file/c5fcbb72a9b7e8924cc51.jpg",
+        "https://telegra.ph/file/e37b624523c8ffebb1902.jpg",
+        "https://telegra.ph/file/9663e978db8aba47bce85.jpg",
+        "https://telegra.ph/file/94db77458e6b84c637e59.jpg",
+        "https://telegra.ph/file/e33dec019a58078064cc6.jpg",
+        "https://telegra.ph/file/abeebef82ff3d97292f5c.jpg",
+        "https://telegra.ph/file/0d410990f06f55e560f24.jpg",
+        "https://telegra.ph/file/853f2d08ca2e19b33c306.jpg",
+        "https://telegra.ph/file/71f4075da06b3ef1cc8c9.jpg",
+        "https://telegra.ph/file/d3f8c5d97a4ec3549fc17.jpg",
+        "https://telegra.ph/file/44eb26db83d1b081c0f42.jpg",
+        "https://telegra.ph/file/62bb3101cdde3d654dc61.jpg",
+        "https://telegra.ph/file/89c555d962353e975f079.jpg",
+        "https://telegra.ph/file/46c21defa3e70addfee07.jpg",
+        "https://telegra.ph/file/5cc75976c559c2fe5dcca.jpg",
+        "https://telegra.ph/file/76b6a90ad9d78d9adb6a7.jpg",
+        "https://telegra.ph/file/d33958ecd9be6ae281d61.jpg",
+        "https://telegra.ph/file/ed752cc3bf537d08e0e6b.jpg",
+        "https://telegra.ph/file/bc001cc787de9d21193a2.jpg",
+        "https://telegra.ph/file/425b2064e55ff44130583.jpg",
+        "https://telegra.ph/file/54c6f763e6fa4dae01465.jpg",
+        "https://telegra.ph/file/62804047e40c1d68eb9c1.jpg",
+        "https://telegra.ph/file/cc4b9b6c934558bbb4b78.jpg",
+        "https://telegra.ph/file/3f71b532af2942a395bdd.jpg"
+    ]
+};

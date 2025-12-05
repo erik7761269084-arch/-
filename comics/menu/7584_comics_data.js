@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7584,
+    "title": "獄城姦-鬼灯美代子・刑期5年6か月",
+    "sourceUrl": "https://telegra.ph/獄城姦-鬼灯美代子刑期5年6か月-08-31",
+    "images": [
+        "https://telegra.ph/file/2323e40e7447497af588b.jpg",
+        "https://telegra.ph/file/006e61900d1cdc7dc6a04.jpg",
+        "https://telegra.ph/file/80898851ec649c4a5d1f9.jpg",
+        "https://telegra.ph/file/4f3026163e2634d4de0f1.jpg",
+        "https://telegra.ph/file/3570594f188d02093f0ac.jpg",
+        "https://telegra.ph/file/e801e3eb130263320c6d0.jpg",
+        "https://telegra.ph/file/23a08db5170e0ee31f409.jpg",
+        "https://telegra.ph/file/c3d1df17de8f80229399b.jpg",
+        "https://telegra.ph/file/111867d6d08032e1e8efc.jpg",
+        "https://telegra.ph/file/3d71fad091fe17e04a73c.jpg",
+        "https://telegra.ph/file/3532bb1181d141c56e399.jpg",
+        "https://telegra.ph/file/6355b6fb67941aafd0dd9.jpg",
+        "https://telegra.ph/file/5e6f9aed50ba5bfb88147.jpg",
+        "https://telegra.ph/file/116cae4b161aa92107161.jpg",
+        "https://telegra.ph/file/a80c157454c734248f4e5.jpg",
+        "https://telegra.ph/file/5ada58811d9009c0c836f.jpg",
+        "https://telegra.ph/file/e8c16c965247216df82b3.jpg",
+        "https://telegra.ph/file/4fbbfba2ced1b62f009b2.jpg",
+        "https://telegra.ph/file/f421b5f2243eafac8ffe8.jpg",
+        "https://telegra.ph/file/c3e136ba4b01816141ecd.jpg",
+        "https://telegra.ph/file/6ef7fac16f5e3eb71d29a.jpg",
+        "https://telegra.ph/file/18a1666e1466985aea6e6.jpg",
+        "https://telegra.ph/file/7e180a02d43dd3a966d8e.jpg",
+        "https://telegra.ph/file/5183fb048ae26449fcdc2.jpg",
+        "https://telegra.ph/file/24e47469ceff9db083ea2.jpg",
+        "https://telegra.ph/file/0a6930ac32d432350a26d.jpg"
+    ]
+};

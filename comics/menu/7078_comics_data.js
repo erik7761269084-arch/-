@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7078,
+    "title": "オシアイ×トレイン？",
+    "sourceUrl": "https://telegra.ph/オシアイトレイン-08-31",
+    "images": [
+        "https://telegra.ph/file/cf56e510c55d6f1df2c3c.jpg",
+        "https://telegra.ph/file/30666819b250df1812498.jpg",
+        "https://telegra.ph/file/3d4f0fa9b889942644c9a.jpg",
+        "https://telegra.ph/file/44b62b20643326b3bef43.jpg",
+        "https://telegra.ph/file/90a27b6c7893418bfbcd9.jpg",
+        "https://telegra.ph/file/a695eebbac09e6494f551.jpg",
+        "https://telegra.ph/file/2f978ec0701844552c4d3.jpg",
+        "https://telegra.ph/file/9969e042778a873c6edeb.jpg",
+        "https://telegra.ph/file/c5f3c359e785b4acbd543.jpg",
+        "https://telegra.ph/file/cf915fcc98f62d885df2a.jpg",
+        "https://telegra.ph/file/8388963c4020564ef287b.jpg",
+        "https://telegra.ph/file/526bbc30d9554dff9498a.jpg",
+        "https://telegra.ph/file/e4cb8dd1144ca51fa7409.jpg",
+        "https://telegra.ph/file/726ffdf90da4ff8132044.jpg",
+        "https://telegra.ph/file/0309f5778d1d810c2d1c6.jpg",
+        "https://telegra.ph/file/d3ac97bb44edb6ee2637e.jpg",
+        "https://telegra.ph/file/f882ed60f978697ec3078.jpg",
+        "https://telegra.ph/file/48d5c8498dd26db813f14.jpg",
+        "https://telegra.ph/file/cc2f8750c05b87596535f.jpg",
+        "https://telegra.ph/file/2ba4bd5f80773ae6d7ee2.jpg",
+        "https://telegra.ph/file/ee0a6fb810f021458e474.jpg",
+        "https://telegra.ph/file/7ed1a46bcf280428d7d08.jpg",
+        "https://telegra.ph/file/e3a49b3d2fc88c86dd424.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 423,
+    "title": "[右脳] 宗明少年の可憐なる悩み ( むいちゃいました! )",
+    "sourceUrl": "https://telegra.ph/右脳-宗明少年の可憐なる悩み--むいちゃいました-08-31-2",
+    "images": [
+        "https://telegra.ph/file/ac1b59f1c3c9ea7ef8863.jpg",
+        "https://telegra.ph/file/ffdd007f74c75323da51a.jpg",
+        "https://telegra.ph/file/b57de8edf408e64e60253.jpg",
+        "https://telegra.ph/file/71712ae378df0e5652d48.jpg",
+        "https://telegra.ph/file/b404f04badcf2100f6f23.jpg",
+        "https://telegra.ph/file/5e58c1ad2c7beb5bff365.jpg",
+        "https://telegra.ph/file/d53b771a78928bdd5c714.jpg",
+        "https://telegra.ph/file/6444c48baa20f26a6014c.jpg",
+        "https://telegra.ph/file/88824db2f474b5ee05549.jpg",
+        "https://telegra.ph/file/6c560fe1203080b83fd41.jpg",
+        "https://telegra.ph/file/268d6100de94ed0d397a0.jpg",
+        "https://telegra.ph/file/33c4f0139a89f17264a36.jpg",
+        "https://telegra.ph/file/8b38db7b8900aca739530.jpg",
+        "https://telegra.ph/file/aaa12c86c4563e0ca4244.jpg",
+        "https://telegra.ph/file/4b29c034c19f84d53b3cb.jpg",
+        "https://telegra.ph/file/55430410947de4b85c70f.jpg",
+        "https://telegra.ph/file/b752a08567be42d1b8274.jpg",
+        "https://telegra.ph/file/ab1641addc728a4cd5a4e.jpg",
+        "https://telegra.ph/file/9a3a2401d8cb9ddedf4f6.jpg",
+        "https://telegra.ph/file/7abb5d5315ebabf3214cc.jpg",
+        "https://telegra.ph/file/ea7e81b066d13ddb71f69.jpg",
+        "https://telegra.ph/file/3f47cf83deeddf29d1c09.jpg",
+        "https://telegra.ph/file/e1676d7bfeba24a7abb1f.jpg",
+        "https://telegra.ph/file/ea04ecc9be7b12861612a.jpg",
+        "https://telegra.ph/file/23d04e58f3a425b5696bf.jpg",
+        "https://telegra.ph/file/74c7ee6abdfa61dccde57.jpg"
+    ]
+};

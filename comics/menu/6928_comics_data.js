@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6928,
+    "title": "ぼくはカワイイモンスター",
+    "sourceUrl": "https://telegra.ph/ぼくはカワイイモンスター-08-31",
+    "images": [
+        "https://telegra.ph/file/883d99f7aed667f48992f.jpg",
+        "https://telegra.ph/file/b6e1d673dcf89c611f4f3.jpg",
+        "https://telegra.ph/file/ddae63725ea92c2a8c6ce.jpg",
+        "https://telegra.ph/file/d874310579bb1f3438989.jpg",
+        "https://telegra.ph/file/3bc93b0154381c7650741.jpg",
+        "https://telegra.ph/file/8ad7da0581f83c3e4979b.jpg",
+        "https://telegra.ph/file/0082b1ea64a215413e3ec.jpg",
+        "https://telegra.ph/file/bbed9c0566929ab253b60.jpg",
+        "https://telegra.ph/file/b933a3a763f5620f1fbd0.jpg",
+        "https://telegra.ph/file/083189eb035158905661d.jpg",
+        "https://telegra.ph/file/929e3828a90abaf1e1da8.jpg",
+        "https://telegra.ph/file/7c3f7206ebcf0e9a18488.jpg",
+        "https://telegra.ph/file/08ce53ecf37e7db24f6b5.jpg",
+        "https://telegra.ph/file/0e975fa779ce752c8c1ce.jpg",
+        "https://telegra.ph/file/fb33784c8768b49cc3e7f.jpg",
+        "https://telegra.ph/file/b082dd90a2a2ce0c23921.jpg",
+        "https://telegra.ph/file/bffc73290364ace7f1954.jpg",
+        "https://telegra.ph/file/a7e4c40e94c9cf92366d5.jpg",
+        "https://telegra.ph/file/7914b91efd4f65acacb4f.jpg",
+        "https://telegra.ph/file/46587f1b200fbea35cd8f.jpg",
+        "https://telegra.ph/file/7dc48aba80caa1afbb276.jpg",
+        "https://telegra.ph/file/1c726b6cf4c7c9925d2ce.jpg",
+        "https://telegra.ph/file/23124353bc43655074cba.jpg",
+        "https://telegra.ph/file/4c8c45423fca289db04fd.jpg"
+    ]
+};

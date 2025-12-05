@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1749,
+    "title": "[Lapin gris (灰葉)] ハイエナふた娘 保健室の淫らな性活事情",
+    "sourceUrl": "https://telegra.ph/Lapin-gris-灰葉-ハイエナふた娘-保健室の淫らな性活事情-08-31",
+    "images": [
+        "https://telegra.ph/file/cc607d6047cbe2cfdcf9a.jpg",
+        "https://telegra.ph/file/26262d79fdca3e9c72a78.jpg",
+        "https://telegra.ph/file/7c184c8bad701fe15f777.jpg",
+        "https://telegra.ph/file/ee5b7dd8e796b68c6bff0.jpg",
+        "https://telegra.ph/file/5344e41fe14bfb3ad7894.jpg",
+        "https://telegra.ph/file/3cea83291952ec9354d80.jpg",
+        "https://telegra.ph/file/ac2560a81ced9741e7d01.jpg",
+        "https://telegra.ph/file/98aa78159f9511d827606.jpg",
+        "https://telegra.ph/file/b6a3ca7ee1afce8bcd673.jpg",
+        "https://telegra.ph/file/40385500637348a6bdd78.jpg",
+        "https://telegra.ph/file/de16757e912b296076bda.jpg",
+        "https://telegra.ph/file/4e2b8181127106565f983.jpg",
+        "https://telegra.ph/file/983e2b28ce253171964a2.jpg",
+        "https://telegra.ph/file/ebac145e8feb79dfe4dbd.jpg",
+        "https://telegra.ph/file/34ff35438c6c9836ea0b8.jpg",
+        "https://telegra.ph/file/582157486d5c04f3d51fa.jpg",
+        "https://telegra.ph/file/e082d6ce95764d17e634f.jpg",
+        "https://telegra.ph/file/2fb05a6d3d67177db51b9.jpg",
+        "https://telegra.ph/file/9bb74c4a2e9e8837819bf.jpg",
+        "https://telegra.ph/file/1efc4aec1be3c8b72f1c0.jpg",
+        "https://telegra.ph/file/03318fe57e840300871a2.jpg",
+        "https://telegra.ph/file/61f5f1ab145fef760278e.jpg",
+        "https://telegra.ph/file/5b24ee6730117951dbbec.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 217,
+    "title": "[Lithium] 元カノしぇありんぐ (COMIC 高 2017年5月号)",
+    "sourceUrl": "https://telegra.ph/Lithium-元カノしぇありんぐ-COMIC-高-2017年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0f7c6a484020ac0b96ecc.jpg",
+        "https://telegra.ph/file/7f3a6214453046134accd.jpg",
+        "https://telegra.ph/file/fd1d92ef682fe725bf267.jpg",
+        "https://telegra.ph/file/ff266ee5163beec84f461.jpg",
+        "https://telegra.ph/file/3b73695ac7087cf7dafb7.jpg",
+        "https://telegra.ph/file/acc902cf77bf9444a865c.jpg",
+        "https://telegra.ph/file/5a06c2f848207e3d2b530.jpg",
+        "https://telegra.ph/file/94f5a8a347ba2accbb8a7.jpg",
+        "https://telegra.ph/file/10c25084a6ba14a0807a7.jpg",
+        "https://telegra.ph/file/757d8e0c44cef761380ea.jpg",
+        "https://telegra.ph/file/655fc3002be41215cb2eb.jpg",
+        "https://telegra.ph/file/448d2bcba0a4ab9d64332.jpg",
+        "https://telegra.ph/file/7044a118893ee50409f45.jpg",
+        "https://telegra.ph/file/a2f4b9f60e261b8549f91.jpg",
+        "https://telegra.ph/file/b8bbac2c4a38327b49df3.jpg",
+        "https://telegra.ph/file/f657d8a1895cf9abb93f8.jpg",
+        "https://telegra.ph/file/84f5399a8e6626ebfb086.jpg",
+        "https://telegra.ph/file/f248d0130becc5bce4927.jpg",
+        "https://telegra.ph/file/ac3772cd4b5c38535fd84.jpg",
+        "https://telegra.ph/file/76d22bd17cf2393ffee78.jpg",
+        "https://telegra.ph/file/e4c6962692817535c3b2f.jpg",
+        "https://telegra.ph/file/1b1f5b961d69f7a29dece.jpg",
+        "https://telegra.ph/file/8db442d9be10749e4dd26.jpg",
+        "https://telegra.ph/file/a5e9631276a779e2c1a25.jpg",
+        "https://telegra.ph/file/67e18762abb33a122ba8b.jpg",
+        "https://telegra.ph/file/3544d14c5a32b881f234e.jpg"
+    ]
+};

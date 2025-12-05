@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3533,
+    "title": "(C96) [セルビッチ水産 (魚デニム)] 限りなく透明に近いB.B (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-セルビッチ水産-魚デニム-限りなく透明に近いBB-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/cff32290c35a820ef82a2.jpg",
+        "https://telegra.ph/file/6199fcb1417738fc8b8e6.jpg",
+        "https://telegra.ph/file/874ae1c3903596f9ddc8a.jpg",
+        "https://telegra.ph/file/26fea3802eb931a879693.jpg",
+        "https://telegra.ph/file/c953c56366d3d28d18548.jpg",
+        "https://telegra.ph/file/af982c6518cd758ca287a.jpg",
+        "https://telegra.ph/file/91093238960e31380ae2a.jpg",
+        "https://telegra.ph/file/8e37afb6adfd522676ff0.jpg",
+        "https://telegra.ph/file/30b23e14db07df7e5e166.jpg",
+        "https://telegra.ph/file/6d2714644f61c0af13af0.jpg",
+        "https://telegra.ph/file/d6c97e6da3286148f45c4.jpg",
+        "https://telegra.ph/file/7683ea63e174688f4ffd6.jpg",
+        "https://telegra.ph/file/7a3b24e2f8486601c9e44.jpg",
+        "https://telegra.ph/file/6c4394fff7f248352cf75.jpg",
+        "https://telegra.ph/file/8eee42e0ddb1a289c04a3.jpg",
+        "https://telegra.ph/file/edc90af13984ca5a68ca8.jpg",
+        "https://telegra.ph/file/d8ebd619674509273f873.jpg",
+        "https://telegra.ph/file/546712ab520f232527b9c.jpg",
+        "https://telegra.ph/file/28c770e77d738b4489041.jpg",
+        "https://telegra.ph/file/1a6f72676232e0ddfcf93.jpg",
+        "https://telegra.ph/file/a8526b7bb48a31c32c5e8.jpg",
+        "https://telegra.ph/file/3ef0b8873b4d7506255e0.jpg",
+        "https://telegra.ph/file/8447b55747e3e385f0216.jpg"
+    ]
+};

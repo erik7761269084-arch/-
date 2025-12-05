@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2367,
+    "title": "[ささちん] おしかけ×2♡ (COMIC BAVEL 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/ささちん-おしかけ2-COMIC-BAVEL-2022年4月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/17dfadbc0d086ca36c656.jpg",
+        "https://telegra.ph/file/b08f50e5154f6cf54ad58.jpg",
+        "https://telegra.ph/file/77f352c24bfd2d5eeb55f.jpg",
+        "https://telegra.ph/file/dc2f3529a99ca87a2e401.jpg",
+        "https://telegra.ph/file/f0389576699cdc6ef1227.jpg",
+        "https://telegra.ph/file/29f892395208245ec27fd.jpg",
+        "https://telegra.ph/file/4cd48fd432da151552e6c.jpg",
+        "https://telegra.ph/file/8a21f34c4e210cff8262c.jpg",
+        "https://telegra.ph/file/1402176d090b68ce3f200.jpg",
+        "https://telegra.ph/file/f27c3614bd5d5e8e6c954.jpg",
+        "https://telegra.ph/file/80d5ead44b050429458b3.jpg",
+        "https://telegra.ph/file/4c94d8460f4f7e9f25d8b.jpg",
+        "https://telegra.ph/file/3fbf6ac87c7a77c61bbff.jpg",
+        "https://telegra.ph/file/c694ef9bf8f2a72bd4509.jpg",
+        "https://telegra.ph/file/08ee15665d1ee8f25531f.jpg",
+        "https://telegra.ph/file/f0bec20c99b8c33da3227.jpg",
+        "https://telegra.ph/file/dbcd78a1970dc50c6e867.jpg",
+        "https://telegra.ph/file/c00796f32620c7fb2fd28.jpg",
+        "https://telegra.ph/file/9cccff3a5b7dff03621e2.jpg",
+        "https://telegra.ph/file/f982f71f5eb67db2e2412.jpg",
+        "https://telegra.ph/file/24edcf0b1ae18c20f9e2e.jpg",
+        "https://telegra.ph/file/e3725b43ba6252dda63ea.jpg",
+        "https://telegra.ph/file/311e4d0c9769e175b8204.jpg",
+        "https://telegra.ph/file/d784f9fa50f71788430f4.jpg",
+        "https://telegra.ph/file/fe8137e34b63ebd4a52ec.jpg",
+        "https://telegra.ph/file/b19554da0a9a7f5f8a632.jpg"
+    ]
+};

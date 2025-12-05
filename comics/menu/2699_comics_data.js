@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2699,
+    "title": "[桃吹リオ] 俺様のあそび (COMIC 阿吽 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/桃吹リオ-俺様のあそび-COMIC-阿吽-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/eabd20829ca5f4b268909.jpg",
+        "https://telegra.ph/file/9c40a536eca596564dde4.jpg",
+        "https://telegra.ph/file/60fc31ef895ba037986ac.jpg",
+        "https://telegra.ph/file/fb4b352214a33c8da83b6.jpg",
+        "https://telegra.ph/file/6d74f7170c19ec4ace4ee.jpg",
+        "https://telegra.ph/file/3c6b602fcbff431f3ed94.jpg",
+        "https://telegra.ph/file/99dfc47d6680e92f9f1c8.jpg",
+        "https://telegra.ph/file/aa98595b75c1cb7bf0833.jpg",
+        "https://telegra.ph/file/ef24a44013c12aada5362.jpg",
+        "https://telegra.ph/file/27db5a41e3bdcfd67597a.jpg",
+        "https://telegra.ph/file/2b0e6e8a39c01ca81b206.jpg",
+        "https://telegra.ph/file/724656790d2b9c843c23b.jpg",
+        "https://telegra.ph/file/6c35e0c064ea7f5f88b07.jpg",
+        "https://telegra.ph/file/9618490d01393300767f4.jpg",
+        "https://telegra.ph/file/df48674c9d44d8c2e4fe8.jpg",
+        "https://telegra.ph/file/a7da6dbe21a4faaff856f.jpg",
+        "https://telegra.ph/file/dbef89188b8a6a433e083.jpg",
+        "https://telegra.ph/file/2c3619cc0d6dac63a32a7.jpg",
+        "https://telegra.ph/file/b518b9aa547b7fbd84a84.jpg",
+        "https://telegra.ph/file/fa7b758eced6dece25ce1.jpg",
+        "https://telegra.ph/file/05476a60696a3982f74d0.jpg",
+        "https://telegra.ph/file/d60b13cdd988b31d287d9.jpg",
+        "https://telegra.ph/file/da7a4069d025dc798118f.jpg",
+        "https://telegra.ph/file/54ae5813c7bbb9d4f7cee.jpg"
+    ]
+};

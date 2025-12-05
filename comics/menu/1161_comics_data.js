@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1161,
+    "title": "[まめぞう] やってみないとわからない (COMIC LO 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/まめぞう-やってみないとわからない-COMIC-LO-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c0472068add2934c6857d.jpg",
+        "https://telegra.ph/file/e7b458429952b020c4609.jpg",
+        "https://telegra.ph/file/16f9cbb1b87e86d0e4436.jpg",
+        "https://telegra.ph/file/4c27cb37d80b581ef7cde.jpg",
+        "https://telegra.ph/file/73b48a110e31e23ede9e2.jpg",
+        "https://telegra.ph/file/dd2833cf5c0d5e29cf619.jpg",
+        "https://telegra.ph/file/c153359794ea8b5abb1d9.jpg",
+        "https://telegra.ph/file/0792f238239a17b1539ee.jpg",
+        "https://telegra.ph/file/ceb63983252984ac3eb9d.jpg",
+        "https://telegra.ph/file/4d9b8a279e94cfde6a38f.jpg",
+        "https://telegra.ph/file/4e8738067e4abf65d2317.jpg",
+        "https://telegra.ph/file/5b294a5553222cb23e41a.jpg",
+        "https://telegra.ph/file/67fb815197d7be60abdb8.jpg",
+        "https://telegra.ph/file/f9213598b4c9c641a4a09.jpg",
+        "https://telegra.ph/file/1b69a28a75331f36edd93.jpg",
+        "https://telegra.ph/file/3d8b62b683f9a145d643a.jpg",
+        "https://telegra.ph/file/599687c1dc16fc89f07c4.jpg",
+        "https://telegra.ph/file/c98956184e0816c356d77.jpg",
+        "https://telegra.ph/file/87fdb6289081329f5deee.jpg",
+        "https://telegra.ph/file/e70e440e2111fd802385e.jpg",
+        "https://telegra.ph/file/2ffbcbf10cd0878bc06e5.jpg",
+        "https://telegra.ph/file/9d8dc20da95853e9c7679.jpg",
+        "https://telegra.ph/file/1226b8f1fd930d4a28ffa.jpg",
+        "https://telegra.ph/file/c4e927c1425256156512e.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg",
+        "https://telegra.ph/file/4ec1f7fbcae73e23ba297.jpg"
+    ]
+};

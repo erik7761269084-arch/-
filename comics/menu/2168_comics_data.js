@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2168,
+    "title": "[MIGNON WORKS (mignon)] おなかづくし1+2 (ラブライブ! サンシャイン!!)",
+    "sourceUrl": "https://telegra.ph/MIGNON-WORKS-mignon-おなかづくし12-ラブライブ-サンシャイン-08-31",
+    "images": [
+        "https://telegra.ph/file/6fd8badcd173418ca651a.jpg",
+        "https://telegra.ph/file/f76dba7ce95fa6fa3bb6c.jpg",
+        "https://telegra.ph/file/4ec5c07645da70c391a18.jpg",
+        "https://telegra.ph/file/08213b1122a3e5a33a164.jpg",
+        "https://telegra.ph/file/7a0380a101c8c659b2880.jpg",
+        "https://telegra.ph/file/cb93a5dff9d439d3adf99.jpg",
+        "https://telegra.ph/file/768049213655bbc5c7513.jpg",
+        "https://telegra.ph/file/2524a9131ca2bad02f170.jpg",
+        "https://telegra.ph/file/a7248d92e6167088c89c0.jpg",
+        "https://telegra.ph/file/3ac60675fc08797e75bd4.jpg",
+        "https://telegra.ph/file/b4ace141bb2ea42448d4e.jpg",
+        "https://telegra.ph/file/47be0e11874894c9bc186.jpg",
+        "https://telegra.ph/file/4d2829679911fde15d661.jpg",
+        "https://telegra.ph/file/4b4b744c0ad672b3d0321.jpg",
+        "https://telegra.ph/file/94d907760d1eb7c75df17.jpg",
+        "https://telegra.ph/file/d721fa0a3ac40d83702af.jpg",
+        "https://telegra.ph/file/a9f527a05b3879ba05a51.jpg",
+        "https://telegra.ph/file/7d1dbe755500435584ff2.jpg",
+        "https://telegra.ph/file/2e2269e46a9be9956cbfd.jpg",
+        "https://telegra.ph/file/c0facc1451ecf57545b15.jpg",
+        "https://telegra.ph/file/c5bca6a229eef2b29fe1b.jpg",
+        "https://telegra.ph/file/8b514efe1cdff7a37e6f3.jpg",
+        "https://telegra.ph/file/45fd181324c9a1d666f2c.jpg"
+    ]
+};

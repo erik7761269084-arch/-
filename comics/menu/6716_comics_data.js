@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6716,
+    "title": "ケッコンカッコスミ (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/ケッコンカッコスミ-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/648913343b65892bd2553.jpg",
+        "https://telegra.ph/file/62316bb2247c305d5d466.jpg",
+        "https://telegra.ph/file/1b2a45c31e513bcc784c3.jpg",
+        "https://telegra.ph/file/e011bd93eb2d978a54fb2.jpg",
+        "https://telegra.ph/file/28ed63aa7438be8251b57.jpg",
+        "https://telegra.ph/file/f9977bf5ef3d429815ad6.jpg",
+        "https://telegra.ph/file/c6121239769d51d05e338.jpg",
+        "https://telegra.ph/file/ba0ac6a8ae66fc512ad49.jpg",
+        "https://telegra.ph/file/7a7a68352d52ab7589b39.jpg",
+        "https://telegra.ph/file/03512acab826dcb3de388.jpg",
+        "https://telegra.ph/file/beea6ce70af47523ec2a6.jpg",
+        "https://telegra.ph/file/5cbcd6a01564707c76992.jpg",
+        "https://telegra.ph/file/5498ca07687aa1e1d88e4.jpg",
+        "https://telegra.ph/file/0803ad7f2b436735207c5.jpg",
+        "https://telegra.ph/file/46ff31148ef41c51f4bbf.jpg",
+        "https://telegra.ph/file/618bb76c5f7dc74413363.jpg",
+        "https://telegra.ph/file/0f4b74c5adff18c28ee26.jpg",
+        "https://telegra.ph/file/9d07b0087db912f67d1b2.jpg",
+        "https://telegra.ph/file/f4b50b0fdeb8d57bbad5e.jpg",
+        "https://telegra.ph/file/62879eac7b8288522e4a5.jpg",
+        "https://telegra.ph/file/ffb16effa4e296f38fca5.jpg",
+        "https://telegra.ph/file/f1eac8e652e830f5421bb.jpg",
+        "https://telegra.ph/file/cb0f18f0dea91b2695c93.jpg"
+    ]
+};

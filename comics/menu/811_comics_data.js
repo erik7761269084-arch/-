@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 811,
+    "title": "[きのもと杏] あずなの夏休み (COMIC LO 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/きのもと杏-あずなの夏休み-COMIC-LO-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/baea771d007a3becb799f.jpg",
+        "https://telegra.ph/file/4e7c2c41ff1d4e486abb8.jpg",
+        "https://telegra.ph/file/9785180a54d11fae1f431.jpg",
+        "https://telegra.ph/file/3ffaf0d8961b74391a0da.jpg",
+        "https://telegra.ph/file/c80eee268d049ef319e5e.jpg",
+        "https://telegra.ph/file/4c26718707a414b0a2816.jpg",
+        "https://telegra.ph/file/fa82036c6ae930de1f540.jpg",
+        "https://telegra.ph/file/67234f3452c10a211be7e.jpg",
+        "https://telegra.ph/file/21b7387ca0570ff24f5e6.jpg",
+        "https://telegra.ph/file/28cc3ff7b43605afd3d8f.jpg",
+        "https://telegra.ph/file/4c5e69ecdd27f8cb8d3a7.jpg",
+        "https://telegra.ph/file/5ba2db35f91c00d275223.jpg",
+        "https://telegra.ph/file/1915a11045e2c27555306.jpg",
+        "https://telegra.ph/file/1cc6fb9a8618344cc7d3f.jpg",
+        "https://telegra.ph/file/f30041838e24d72d6e902.jpg",
+        "https://telegra.ph/file/a0df132bb2a37058ca422.jpg",
+        "https://telegra.ph/file/5dbe82818eeb59d79c0a3.jpg",
+        "https://telegra.ph/file/498ea23bb410b6f7c4fef.jpg",
+        "https://telegra.ph/file/506f8449c36f9b6353e32.jpg",
+        "https://telegra.ph/file/f7d004f7a2fdea8443016.jpg",
+        "https://telegra.ph/file/5cf9ee6f1a4478f13d0a3.jpg",
+        "https://telegra.ph/file/88e9fa6c272a42dfdff68.jpg",
+        "https://telegra.ph/file/3ba3538ff0cec59cff3b2.jpg",
+        "https://telegra.ph/file/8bd89f9573b09cff5440b.jpg",
+        "https://telegra.ph/file/c3b660313b08e3f8cbaae.jpg",
+        "https://telegra.ph/file/c67953a11e74ff1c30398.jpg"
+    ]
+};

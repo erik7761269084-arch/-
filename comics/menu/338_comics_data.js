@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 338,
+    "title": "[どじろー] むぼーび! (WEEKLY 快楽天 2022 No.17)",
+    "sourceUrl": "https://telegra.ph/どじろー-むぼーび-WEEKLY-快楽天-2022-No17-08-31",
+    "images": [
+        "https://telegra.ph/file/953a90924fed8a4b9e6c5.jpg",
+        "https://telegra.ph/file/65f6fc330789424e34343.jpg",
+        "https://telegra.ph/file/353d7edd511d202ef1f2a.jpg",
+        "https://telegra.ph/file/24c0722e19b632fa000b5.jpg",
+        "https://telegra.ph/file/c0b6eb66eea4915c8a6bd.jpg",
+        "https://telegra.ph/file/a01cb57599ee8882bc97e.jpg",
+        "https://telegra.ph/file/2006dd9da625b8aa95e25.jpg",
+        "https://telegra.ph/file/cbb8fc3c796f8ebdbbfa7.jpg",
+        "https://telegra.ph/file/82985e5234abdb36590fa.jpg",
+        "https://telegra.ph/file/78326871697e6f7f7b9d7.jpg",
+        "https://telegra.ph/file/a286638dae936fb7191a2.jpg",
+        "https://telegra.ph/file/c002069a5c26de4555f77.jpg",
+        "https://telegra.ph/file/ab3711ab98d504973125b.jpg",
+        "https://telegra.ph/file/1700f19505c2c69dc033a.jpg",
+        "https://telegra.ph/file/9edcdbad229c109cd7d9d.jpg",
+        "https://telegra.ph/file/91cb8e30526aae3f00fdc.jpg",
+        "https://telegra.ph/file/6cd849d5aa8244d8a9eb3.jpg",
+        "https://telegra.ph/file/f0981d95020e60a2ca218.jpg",
+        "https://telegra.ph/file/7ae200215cfc183bab0e0.jpg",
+        "https://telegra.ph/file/72a5cd3a0b15bdf3f017d.jpg",
+        "https://telegra.ph/file/349774636d47e144f448a.jpg",
+        "https://telegra.ph/file/ce573c5c268ce72fb1fb3.jpg",
+        "https://telegra.ph/file/e85cc7ab2e8113b83f84a.jpg",
+        "https://telegra.ph/file/6de3bf4dbda02fd37ecd1.jpg"
+    ]
+};

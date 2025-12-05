@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4986,
+    "title": "[もず] トイレのサセ子さん (COMIC 快楽天ビースト 2021年4月号)",
+    "sourceUrl": "https://telegra.ph/もず-トイレのサセ子さん-COMIC-快楽天ビースト-2021年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f030336fad2c378173ccf.jpg",
+        "https://telegra.ph/file/f702a9f29d886e4058a3c.jpg",
+        "https://telegra.ph/file/07f7beed87af868ade203.jpg",
+        "https://telegra.ph/file/ceb3810129748fa4218c0.jpg",
+        "https://telegra.ph/file/7e71901bf74cb7af30226.jpg",
+        "https://telegra.ph/file/ada6f3e5155a5246ec7a9.jpg",
+        "https://telegra.ph/file/d2dc19b9270bd60e3a611.jpg",
+        "https://telegra.ph/file/cd34db0b9693dcdda3ce5.jpg",
+        "https://telegra.ph/file/928d2dc46087b540cad5f.jpg",
+        "https://telegra.ph/file/b01c7d189413f21a94c5d.jpg",
+        "https://telegra.ph/file/3b451621f001c6324a814.jpg",
+        "https://telegra.ph/file/fdff8d79cd377f7329272.jpg",
+        "https://telegra.ph/file/56e62ba280fb1795f88ba.jpg",
+        "https://telegra.ph/file/de7cff71d688ff98dc3f5.jpg",
+        "https://telegra.ph/file/7b6c473c070077066abf4.jpg",
+        "https://telegra.ph/file/e33052910948046df08cf.jpg",
+        "https://telegra.ph/file/3b2c563159935503f1f85.jpg",
+        "https://telegra.ph/file/9b0fa53a791bed176e977.jpg",
+        "https://telegra.ph/file/06f25ffef32b2233cb1ef.jpg",
+        "https://telegra.ph/file/c9b655bfee737602e3692.jpg",
+        "https://telegra.ph/file/ec06031135c25f6cd1154.jpg",
+        "https://telegra.ph/file/94beb9a64182de96d5b32.jpg",
+        "https://telegra.ph/file/9a313417804677550f7ab.jpg",
+        "https://telegra.ph/file/6f78182b183b8feb3fd24.jpg"
+    ]
+};

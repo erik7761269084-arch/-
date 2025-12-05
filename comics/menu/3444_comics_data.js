@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3444,
+    "title": "Nyanners/Veibae | 鮭魚豆腐",
+    "sourceUrl": "https://telegra.ph/NyannersVeibae--鮭魚豆腐-08-31",
+    "images": [
+        "https://telegra.ph/file/531da1278bce51e6eb7e8.jpg",
+        "https://telegra.ph/file/1a6549dbb4b9194c2c9c7.jpg",
+        "https://telegra.ph/file/8132ebd70e68975803f30.jpg",
+        "https://telegra.ph/file/a3ff8d97d94041e800faf.jpg",
+        "https://telegra.ph/file/a79c01641db0cdbc2f3d9.jpg",
+        "https://telegra.ph/file/da56ec3d3f6b0c7fef2a6.jpg",
+        "https://telegra.ph/file/7c391bdc50dd6070e8217.jpg",
+        "https://telegra.ph/file/9310590a55e6e3a65b263.jpg",
+        "https://telegra.ph/file/48346c1b2cc8800a7140e.jpg",
+        "https://telegra.ph/file/9f7b26a56d4b4f5ddf0fb.jpg",
+        "https://telegra.ph/file/9595b6094f32e60bbcef3.jpg",
+        "https://telegra.ph/file/220a3073ab807f35488b2.jpg",
+        "https://telegra.ph/file/497ff1282e00be31ca04c.jpg",
+        "https://telegra.ph/file/44729812f5c3979e9b083.jpg",
+        "https://telegra.ph/file/835bd7f729ae6377d4fd9.jpg",
+        "https://telegra.ph/file/225f4e50e9b1e2fb45c53.jpg",
+        "https://telegra.ph/file/c8ec9e09b4fa231ba60a1.jpg",
+        "https://telegra.ph/file/19bb043d4d43cf2035724.jpg",
+        "https://telegra.ph/file/2b4cbd4929783e3baf79f.jpg",
+        "https://telegra.ph/file/fd48a4fc6e72c8a1a5bdc.jpg",
+        "https://telegra.ph/file/9c41395b31dbf09acb302.jpg",
+        "https://telegra.ph/file/5120c37b5f6f2bd87798e.jpg",
+        "https://telegra.ph/file/248dea9355305e76a8f7d.jpg"
+    ]
+};

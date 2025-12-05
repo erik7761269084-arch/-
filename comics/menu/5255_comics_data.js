@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5255,
+    "title": "[さいおがうま] とろネコメイドのエレーナさん (COMIC 快楽天ビースト 2023年5月号) 中文翻譯",
+    "sourceUrl": "https://telegra.ph/さいおがうま-とろネコメイドのエレーナさん-COMIC-快楽天ビースト-2023年5月号-中文翻譯-08-31",
+    "images": [
+        "https://telegra.ph/file/ebf794e6028944315ac81.jpg",
+        "https://telegra.ph/file/df1031a2cab774d932dec.jpg",
+        "https://telegra.ph/file/a1e50cf8d34d69b2863a6.jpg",
+        "https://telegra.ph/file/9e7d5d3e62c55ef2628b6.jpg",
+        "https://telegra.ph/file/02289ac438dcb4f2a7e99.jpg",
+        "https://telegra.ph/file/ec07a780ff0b1a619d922.jpg",
+        "https://telegra.ph/file/ea092fafe40ecb42067b8.jpg",
+        "https://telegra.ph/file/309535daa45cd7afa149a.jpg",
+        "https://telegra.ph/file/28c3a54d896c80b26748c.jpg",
+        "https://telegra.ph/file/357e4d663ab06811f98a9.jpg",
+        "https://telegra.ph/file/a2bf3994ff382faa9f905.jpg",
+        "https://telegra.ph/file/0a259b591d504e3d3e174.jpg",
+        "https://telegra.ph/file/7e05b5a79eae540eed19a.jpg",
+        "https://telegra.ph/file/e51f28efb76a29fcf843d.jpg",
+        "https://telegra.ph/file/69487a550f75cf22c5ff0.jpg",
+        "https://telegra.ph/file/44982c7735662dccadf5a.jpg",
+        "https://telegra.ph/file/d0b39dbc259fe8a3787a1.jpg",
+        "https://telegra.ph/file/e0451861c0edbee55ff0b.jpg",
+        "https://telegra.ph/file/e57e9a2b610b3a1b92077.jpg",
+        "https://telegra.ph/file/3dc441285cb8a11a958e7.jpg",
+        "https://telegra.ph/file/cda92d28d146fe566c12b.jpg",
+        "https://telegra.ph/file/2963501a764bfafac0041.jpg",
+        "https://telegra.ph/file/2505f86d79ab3fa1722e9.jpg",
+        "https://telegra.ph/file/9681d1284c29c81ff420b.jpg",
+        "https://telegra.ph/file/8e503ee803283ae9c12a9.jpg",
+        "https://telegra.ph/file/7eabff184d34fcd5cfd65.jpg"
+    ]
+};

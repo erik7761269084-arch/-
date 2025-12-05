@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 696,
+    "title": "(C82) [こはねと (桐野いつき)] 縁日に行ってみたら憧れのお姉さんが…",
+    "sourceUrl": "https://telegra.ph/C82-こはねと-桐野いつき-縁日に行ってみたら憧れのお姉さんが-08-31",
+    "images": [
+        "https://telegra.ph/file/c96a4431c55cb8bb296c6.jpg",
+        "https://telegra.ph/file/89ae12f669c8c5af12785.jpg",
+        "https://telegra.ph/file/e86432fae7467d21f16c5.jpg",
+        "https://telegra.ph/file/011b6bfb264d8e925e8bc.jpg",
+        "https://telegra.ph/file/71eea81f9f21a5ccfa062.jpg",
+        "https://telegra.ph/file/3904359c3182fcf6cbae1.jpg",
+        "https://telegra.ph/file/164832af5a27162a62969.jpg",
+        "https://telegra.ph/file/d96f269f903d63622be54.jpg",
+        "https://telegra.ph/file/19100c82a7590261f25b8.jpg",
+        "https://telegra.ph/file/cc0694147ce70a0efa530.jpg",
+        "https://telegra.ph/file/18f8c4d62c250f8eb0bc5.jpg",
+        "https://telegra.ph/file/e9beeb0a17b012cc846ba.jpg",
+        "https://telegra.ph/file/62fbd33b614f9dcc98fbb.jpg",
+        "https://telegra.ph/file/d129b7c84c2c4b9fac5f4.jpg",
+        "https://telegra.ph/file/bd26579e9dc7d279fb678.jpg",
+        "https://telegra.ph/file/61a5c13b3c2d0110141f3.jpg",
+        "https://telegra.ph/file/d0c16dd773ca48b53896e.jpg",
+        "https://telegra.ph/file/51825b9750cbd047b6890.jpg",
+        "https://telegra.ph/file/e100a967b28c8c42a716e.jpg",
+        "https://telegra.ph/file/144e2a35aa36615c1a801.jpg",
+        "https://telegra.ph/file/ef183965ae507b5e35c6b.jpg",
+        "https://telegra.ph/file/3a890430ecdd892c34293.jpg",
+        "https://telegra.ph/file/664e27cf4ca0690837a56.jpg",
+        "https://telegra.ph/file/10e85ff89cd46ff15734b.jpg",
+        "https://telegra.ph/file/a7f51ffa4aed85107efae.jpg",
+        "https://telegra.ph/file/479530f4349f3d84d4a63.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5718,
+    "title": "[長代ルージユ] 呪いの跡継ぎ",
+    "sourceUrl": "https://telegra.ph/長代ルージユ-呪いの跡継ぎ-08-31",
+    "images": [
+        "https://telegra.ph/file/530e0c66222dbb73fa3bb.jpg",
+        "https://telegra.ph/file/55ee5f9bcef5d6c2303e3.jpg",
+        "https://telegra.ph/file/54e998a1d49c953169b83.jpg",
+        "https://telegra.ph/file/534eae3522f40a7f482b8.jpg",
+        "https://telegra.ph/file/ef6920a883a90846024c0.jpg",
+        "https://telegra.ph/file/9811c7b8cdeed7a496aa4.jpg",
+        "https://telegra.ph/file/897a3ea20844969af2525.jpg",
+        "https://telegra.ph/file/512f8c775f0e451e04fd1.jpg",
+        "https://telegra.ph/file/663e7adeef0a404490226.jpg",
+        "https://telegra.ph/file/ed51959c8439d54df6d65.jpg",
+        "https://telegra.ph/file/7bfeefc46081ae3c1432e.jpg",
+        "https://telegra.ph/file/c185c7ac2650f7524ba08.jpg",
+        "https://telegra.ph/file/0c4ecfb6e99833db2beff.jpg",
+        "https://telegra.ph/file/58abc539bfd77373eb98b.jpg",
+        "https://telegra.ph/file/15d8f126542da13177029.jpg",
+        "https://telegra.ph/file/8543ed68e1ed920a1514a.jpg",
+        "https://telegra.ph/file/35e42aad2eb1782d81f24.jpg",
+        "https://telegra.ph/file/0d1ecae6486f235bf9340.jpg",
+        "https://telegra.ph/file/362af9bad45d8cd48ca57.jpg",
+        "https://telegra.ph/file/4046c95d66f677ce56336.jpg",
+        "https://telegra.ph/file/1fe52203012c233ed81ad.jpg",
+        "https://telegra.ph/file/c1ac46d80c48bf6f24bfd.jpg",
+        "https://telegra.ph/file/5d9bcdb26c598f10b1333.jpg"
+    ]
+};

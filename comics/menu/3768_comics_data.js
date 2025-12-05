@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3768,
+    "title": "[ディオゲネスクラブ (灰川ヘムレン)] 野薔薇ワカラセ (呪術廻戦)",
+    "sourceUrl": "https://telegra.ph/ディオゲネスクラブ-灰川ヘムレン-野薔薇ワカラセ-呪術廻戦-08-31",
+    "images": [
+        "https://telegra.ph/file/594a0f61754f6eb116b8f.jpg",
+        "https://telegra.ph/file/d9693a310a37f6cb5401b.jpg",
+        "https://telegra.ph/file/0d0c31145a5f1d027646d.jpg",
+        "https://telegra.ph/file/6d5c2a674a2123f519488.jpg",
+        "https://telegra.ph/file/f1d5ee4e5341427893b42.jpg",
+        "https://telegra.ph/file/9c147fb7be8f76f8bc11b.jpg",
+        "https://telegra.ph/file/b9d6ea9ce04274b61510f.jpg",
+        "https://telegra.ph/file/b564732527d849f67a239.jpg",
+        "https://telegra.ph/file/95b68eb71d513c70a26ba.jpg",
+        "https://telegra.ph/file/c92ef44f3da83ae6903a1.jpg",
+        "https://telegra.ph/file/651e103ce1ad36c484fe1.jpg",
+        "https://telegra.ph/file/cd61dcbc23991acfa9b8c.jpg",
+        "https://telegra.ph/file/faf86ca64840afa9a3a91.jpg",
+        "https://telegra.ph/file/4dcc2631d3be20106ebbb.jpg",
+        "https://telegra.ph/file/5b87b4aa58bc6e7da733e.jpg",
+        "https://telegra.ph/file/4ebaae45dc20442f8e874.jpg",
+        "https://telegra.ph/file/04a75c0a853cd5cfaffe0.jpg",
+        "https://telegra.ph/file/535b618d507bfaefb2374.jpg",
+        "https://telegra.ph/file/47b7adde0f966920b34b6.jpg",
+        "https://telegra.ph/file/8900cc0b13377a1f88856.jpg",
+        "https://telegra.ph/file/46e029bc21411952ba94f.jpg",
+        "https://telegra.ph/file/60f474b061625a6f0a689.jpg",
+        "https://telegra.ph/file/1416ca41fff0c47144e29.jpg",
+        "https://telegra.ph/file/07a6248835ee6f9db7fca.jpg",
+        "https://telegra.ph/file/1dbf535db22da305027f4.jpg"
+    ]
+};

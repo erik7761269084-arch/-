@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7022,
+    "title": "彼女はもうすぐママになる",
+    "sourceUrl": "https://telegra.ph/彼女はもうすぐママになる-08-31",
+    "images": [
+        "https://telegra.ph/file/985ecf49804eda0376feb.jpg",
+        "https://telegra.ph/file/16f3c3c0ff2f2fc717c5c.jpg",
+        "https://telegra.ph/file/00598c2558930612cff7a.jpg",
+        "https://telegra.ph/file/66e8917762020fe19c918.jpg",
+        "https://telegra.ph/file/57567045ef1945d9150c9.jpg",
+        "https://telegra.ph/file/e8c8393ac1f7e99bf7d5c.jpg",
+        "https://telegra.ph/file/207f3bf46cf14d49c182f.jpg",
+        "https://telegra.ph/file/aa9c6f275eb3e017c7c42.jpg",
+        "https://telegra.ph/file/912ae7222bb511cce64d9.jpg",
+        "https://telegra.ph/file/7cbc4d1883b1e40612168.jpg",
+        "https://telegra.ph/file/b7d8ad7e6314f3fdc9cb4.jpg",
+        "https://telegra.ph/file/4733824eacf89b312a972.jpg",
+        "https://telegra.ph/file/c0bc6bcfa320de6683ab0.jpg",
+        "https://telegra.ph/file/817aeeff841098991d50a.jpg",
+        "https://telegra.ph/file/6d2d2149e0bd70b055672.jpg",
+        "https://telegra.ph/file/87bbc73b88acaa6d173b5.jpg",
+        "https://telegra.ph/file/5336733ea38d868f947d9.jpg",
+        "https://telegra.ph/file/56795c2558af9f63d8442.jpg",
+        "https://telegra.ph/file/98f2b5617fb993a1560d6.jpg",
+        "https://telegra.ph/file/b2864800ac39e75519ede.jpg",
+        "https://telegra.ph/file/d2376846887303fcebd51.jpg",
+        "https://telegra.ph/file/f5f7656fc33d01dcbe02c.jpg",
+        "https://telegra.ph/file/e5f6eeede2c7cad173232.jpg"
+    ]
+};

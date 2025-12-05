@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6205,
+    "title": "[gemu555] パパとイっちゃう？",
+    "sourceUrl": "https://telegra.ph/gemu555-パパとイっちゃう-08-31",
+    "images": [
+        "https://telegra.ph/file/c3f13c0daae8686f88ef7.jpg",
+        "https://telegra.ph/file/8b8554b6350eac4fe858b.jpg",
+        "https://telegra.ph/file/b98bbb3c90a90c3cbe458.jpg",
+        "https://telegra.ph/file/5f4a85169d1012d6ef37f.jpg",
+        "https://telegra.ph/file/682eab7e30fb517c98922.jpg",
+        "https://telegra.ph/file/7ce43b24eb4430dc29004.jpg",
+        "https://telegra.ph/file/49e8978c6c95c03047915.jpg",
+        "https://telegra.ph/file/dfebd53df6345d172869e.jpg",
+        "https://telegra.ph/file/cc14d118735930fb14679.jpg",
+        "https://telegra.ph/file/9e301c503597ac872f5f0.jpg",
+        "https://telegra.ph/file/a0c7914fe0a60efd7c973.jpg",
+        "https://telegra.ph/file/4d9eadc0ff06ca75244c9.jpg",
+        "https://telegra.ph/file/16c491963742ba154aa01.jpg",
+        "https://telegra.ph/file/c032bb170ca4a43ab0168.jpg",
+        "https://telegra.ph/file/099d66c0739b5211bc87c.jpg",
+        "https://telegra.ph/file/3b8e455cc66b6eb5b1d4c.jpg",
+        "https://telegra.ph/file/502afdebff870f8b58a7e.jpg",
+        "https://telegra.ph/file/64243755914f04f75194a.jpg",
+        "https://telegra.ph/file/8679c4b47421e4f0b57ec.jpg",
+        "https://telegra.ph/file/1c05479718c9fd6153c63.jpg",
+        "https://telegra.ph/file/964f0db401d14c1f5823e.jpg",
+        "https://telegra.ph/file/1fee677f644dcba03b122.jpg",
+        "https://telegra.ph/file/5b47c1eed2bced9481b90.jpg",
+        "https://telegra.ph/file/e618af6f13df842d6780a.jpg"
+    ]
+};

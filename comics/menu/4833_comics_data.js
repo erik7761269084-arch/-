@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4833,
+    "title": "(C79) [秘密結社M (北原亜希)] 貨物船の公衆便女 (機動戦士ガンダムUC)",
+    "sourceUrl": "https://telegra.ph/C79-秘密結社M-北原亜希-貨物船の公衆便女-機動戦士ガンダムUC-08-31",
+    "images": [
+        "https://telegra.ph/file/f92c71a4f1cef5461ca90.jpg",
+        "https://telegra.ph/file/d66cf6c836c5f824c5b76.jpg",
+        "https://telegra.ph/file/b0ed710cbc949c2205e71.jpg",
+        "https://telegra.ph/file/c3ba7ca6143ab23990865.jpg",
+        "https://telegra.ph/file/732a3136124a1e6ee7e09.jpg",
+        "https://telegra.ph/file/1013c439113de05ac13d3.jpg",
+        "https://telegra.ph/file/9d59cb7f1ee7a8fdcd375.jpg",
+        "https://telegra.ph/file/1b3fe003d0198391edbac.jpg",
+        "https://telegra.ph/file/d066b852d2adedfc5a204.jpg",
+        "https://telegra.ph/file/3e7b9c9e84070ce37ce9b.jpg",
+        "https://telegra.ph/file/2c0471597a590212aeafd.jpg",
+        "https://telegra.ph/file/dfd25a80276c5e36f6b76.jpg",
+        "https://telegra.ph/file/7cb431aba9bba1ce15e28.jpg",
+        "https://telegra.ph/file/4663abe3131ceef1988ab.jpg",
+        "https://telegra.ph/file/7ff8fc5bde67e9b1a5609.jpg",
+        "https://telegra.ph/file/88de0c7f08d4108904e0d.jpg",
+        "https://telegra.ph/file/8e4ae2f5c43a51cb3c7b7.jpg",
+        "https://telegra.ph/file/f5de2262e0277ec9b9d5d.jpg",
+        "https://telegra.ph/file/8abed50bd9d5dc9821229.jpg",
+        "https://telegra.ph/file/43ded7e221a2bf0194ed3.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

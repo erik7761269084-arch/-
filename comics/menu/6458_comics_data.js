@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6458,
+    "title": "ガンガンいこうよっ!",
+    "sourceUrl": "https://telegra.ph/ガンガンいこうよっ-08-31",
+    "images": [
+        "https://telegra.ph/file/207c93ee93a12b694280b.jpg",
+        "https://telegra.ph/file/77ac159c7503c14f0ed2b.jpg",
+        "https://telegra.ph/file/643375c4572a53776dffb.jpg",
+        "https://telegra.ph/file/d72b1923604789c620871.jpg",
+        "https://telegra.ph/file/8ed987b70a6b3cad92fd4.jpg",
+        "https://telegra.ph/file/ccb2b9f6b4d18a895d9f2.jpg",
+        "https://telegra.ph/file/2ad836ea34e307c8d4d3a.jpg",
+        "https://telegra.ph/file/22fe4388fc7233157eef2.jpg",
+        "https://telegra.ph/file/b435a2cfcc11091772c8c.jpg",
+        "https://telegra.ph/file/e47f2d5af2fa6e72a1635.jpg",
+        "https://telegra.ph/file/bf65680cd5205f4dd47f2.jpg",
+        "https://telegra.ph/file/55540b6b722625e4331b6.jpg",
+        "https://telegra.ph/file/5362a2c6ab36b643b39b1.jpg",
+        "https://telegra.ph/file/f24f57a7f0b9893fd222e.jpg",
+        "https://telegra.ph/file/28cfbabbdf705d4575317.jpg",
+        "https://telegra.ph/file/240e69c9b2179e278b325.jpg",
+        "https://telegra.ph/file/3c115f2ae2e226f9ad9ca.jpg",
+        "https://telegra.ph/file/36b967ee577d27a8da407.jpg",
+        "https://telegra.ph/file/cf8fcaca7ad20a819a7d5.jpg",
+        "https://telegra.ph/file/ac10258fc5b703cd9dea6.jpg",
+        "https://telegra.ph/file/c6bcc844a844905c8193e.jpg",
+        "https://telegra.ph/file/1ff340713c9dc5d8ed509.jpg",
+        "https://telegra.ph/file/9eb1784c1c5b247f2437d.jpg"
+    ]
+};

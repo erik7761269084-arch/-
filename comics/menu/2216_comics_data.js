@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2216,
+    "title": "[18マスター] 大好きなお母さん",
+    "sourceUrl": "https://telegra.ph/18マスター-大好きなお母さん-08-31",
+    "images": [
+        "https://telegra.ph/file/f06f89e5ea381479658a2.jpg",
+        "https://telegra.ph/file/61e8ea177f4e72996108a.png",
+        "https://telegra.ph/file/3ba2c924038ad9b3772ac.png",
+        "https://telegra.ph/file/c606444ae92c26b2988e9.png",
+        "https://telegra.ph/file/b1cc433c2e74c65d9a526.png",
+        "https://telegra.ph/file/cb96158cc34ee4238ac77.png",
+        "https://telegra.ph/file/cde56b64183f6bd428c09.png",
+        "https://telegra.ph/file/0a1335550141bef040425.png",
+        "https://telegra.ph/file/d79f4caf2c563faee8bb0.png",
+        "https://telegra.ph/file/67cef3efdc43395697689.png",
+        "https://telegra.ph/file/87660f8f7365655973074.png",
+        "https://telegra.ph/file/58c5509c9e1274ca5db5e.png",
+        "https://telegra.ph/file/51a0f32fd937ca7b85a95.png",
+        "https://telegra.ph/file/e764bd4a3863afcab14d7.png",
+        "https://telegra.ph/file/0ceb0be7bf61e74c6a7e9.png",
+        "https://telegra.ph/file/42083c994f96bae718c84.png",
+        "https://telegra.ph/file/3fbcd2fd67d79e67769e0.png",
+        "https://telegra.ph/file/0df359e921355ad99b378.png",
+        "https://telegra.ph/file/88e4dc00e4e79d718652a.png",
+        "https://telegra.ph/file/e98bad5396900ed38fc9e.png",
+        "https://telegra.ph/file/e78fcec721c3e3fb5d4de.png",
+        "https://telegra.ph/file/037bd66ab147969cbb955.png",
+        "https://telegra.ph/file/ba1bb6348cd95a33c4c1c.png"
+    ]
+};

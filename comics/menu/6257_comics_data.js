@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6257,
+    "title": "[たにし] トラップ式はんてぃんぐ",
+    "sourceUrl": "https://telegra.ph/たにし-トラップ式はんてぃんぐ-08-31",
+    "images": [
+        "https://telegra.ph/file/a7ebf6699f20cbb89288d.jpg",
+        "https://telegra.ph/file/1ff8329a68c70667d085a.jpg",
+        "https://telegra.ph/file/d366c7f174ac3fd05e866.jpg",
+        "https://telegra.ph/file/0d2a8fab46a7e9412e7f8.jpg",
+        "https://telegra.ph/file/c8bb0cdad9fe05147c065.jpg",
+        "https://telegra.ph/file/b8baa23f53140bc8423d8.jpg",
+        "https://telegra.ph/file/f5a0f02e42834116c35c6.jpg",
+        "https://telegra.ph/file/fd21de80ffbcc9a64145a.jpg",
+        "https://telegra.ph/file/649b4f0ebae82742e75e9.jpg",
+        "https://telegra.ph/file/19dcc28aa47f02d57e737.jpg",
+        "https://telegra.ph/file/e14d653b77de185a710aa.jpg",
+        "https://telegra.ph/file/f9f8b325fbc231bf38adc.jpg",
+        "https://telegra.ph/file/fcbb3e1603c4074e8c28d.jpg",
+        "https://telegra.ph/file/fddf217377725eb938986.jpg",
+        "https://telegra.ph/file/1fb099f875a4a25b83b4f.jpg",
+        "https://telegra.ph/file/2527aac9bf990da826910.jpg",
+        "https://telegra.ph/file/548ad3c6a5ed86857a201.jpg",
+        "https://telegra.ph/file/644d043ea3dd8e6be4d35.jpg",
+        "https://telegra.ph/file/569e95432d9d75658394e.jpg",
+        "https://telegra.ph/file/a173839a225928f7f0d80.jpg",
+        "https://telegra.ph/file/0721afbe8a6f0a7c65271.jpg",
+        "https://telegra.ph/file/60852bf54713fa72d5362.jpg",
+        "https://telegra.ph/file/2f5706ba683e3ee92317d.jpg",
+        "https://telegra.ph/file/7b8d29f40255f814c398e.jpg"
+    ]
+};

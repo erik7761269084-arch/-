@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5582,
+    "title": "[印度カリー] 牧野さんは野外がお好き",
+    "sourceUrl": "https://telegra.ph/印度カリー-牧野さんは野外がお好き-08-31",
+    "images": [
+        "https://telegra.ph/file/95d137e785504e4e2696a.jpg",
+        "https://telegra.ph/file/79b6cec4d8e4011e96ceb.jpg",
+        "https://telegra.ph/file/1fb084bfbc2785cc93364.jpg",
+        "https://telegra.ph/file/3d3ae85472ebf4299476d.jpg",
+        "https://telegra.ph/file/d876f407541a39304f1df.jpg",
+        "https://telegra.ph/file/0a81fcea350a3bb322328.jpg",
+        "https://telegra.ph/file/cebbf2bcf7f56c1bb1b36.jpg",
+        "https://telegra.ph/file/f5fb9ae39504ce8297cfd.jpg",
+        "https://telegra.ph/file/43d234d6195b4d6a1d68f.jpg",
+        "https://telegra.ph/file/87239ed10399f225e3184.jpg",
+        "https://telegra.ph/file/b0e5946b7bb6038a199fd.jpg",
+        "https://telegra.ph/file/86cb9c0f2ea680a5d2ded.jpg",
+        "https://telegra.ph/file/159749b5a8942bcf56ea6.jpg",
+        "https://telegra.ph/file/819521b9b7c0fe77d9363.jpg",
+        "https://telegra.ph/file/d58929caab737be5c59b1.jpg",
+        "https://telegra.ph/file/52f67690944235947caf4.jpg",
+        "https://telegra.ph/file/18a90a9129e796e5f892d.jpg",
+        "https://telegra.ph/file/44fb2e95f37d4ec8c63e2.jpg",
+        "https://telegra.ph/file/f0a924ac68b4823331037.jpg",
+        "https://telegra.ph/file/007d0932d354206ba8fe8.jpg",
+        "https://telegra.ph/file/b75a81a6e06c7a20787ed.jpg",
+        "https://telegra.ph/file/f6e004ab261e241500134.jpg",
+        "https://telegra.ph/file/248feeac56e3a7725d202.jpg",
+        "https://telegra.ph/file/d29e81004428b729644c2.jpg"
+    ]
+};

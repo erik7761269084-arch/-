@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1639,
+    "title": "[千変万化式 (DATE)] 他人になるクスリ4",
+    "sourceUrl": "https://telegra.ph/千変万化式-DATE-他人になるクスリ4-08-31",
+    "images": [
+        "https://telegra.ph/file/468ce48ecf64537d52a7a.jpg",
+        "https://telegra.ph/file/4e6a78cbe3d2bde7cab11.jpg",
+        "https://telegra.ph/file/b14adaa749697171d41ad.jpg",
+        "https://telegra.ph/file/c250e9c082df25672be4d.jpg",
+        "https://telegra.ph/file/3f19dfd6f818b185e94bc.jpg",
+        "https://telegra.ph/file/0a91080af6b76fde3e4fd.jpg",
+        "https://telegra.ph/file/6766619678d292be7a323.jpg",
+        "https://telegra.ph/file/976d16a2ad67762e65ac4.jpg",
+        "https://telegra.ph/file/042077d1f40dff5ffef8d.jpg",
+        "https://telegra.ph/file/186d7f99d7399329742ea.jpg",
+        "https://telegra.ph/file/d0445399d6abb0d51cf14.jpg",
+        "https://telegra.ph/file/0573bc10016e9f8ae6691.jpg",
+        "https://telegra.ph/file/5636803e88af1b98abeda.jpg",
+        "https://telegra.ph/file/6cd20f9b9a5f5f6cd3b85.jpg",
+        "https://telegra.ph/file/5b461b208d4a0d3c5a143.jpg",
+        "https://telegra.ph/file/7cc5c555dc9f1e2aa58fb.jpg",
+        "https://telegra.ph/file/53034f14a875fbca2b080.jpg",
+        "https://telegra.ph/file/be82ae41f7d20fec91ce7.jpg",
+        "https://telegra.ph/file/06cbd3e600874cd44b69b.jpg",
+        "https://telegra.ph/file/7796a968ac5c331d9c73f.jpg",
+        "https://telegra.ph/file/43114a87647f6f50ca703.jpg",
+        "https://telegra.ph/file/7cf8e9831186e313f2f5a.jpg",
+        "https://telegra.ph/file/926c1ce03ce48ff6cef27.jpg"
+    ]
+};

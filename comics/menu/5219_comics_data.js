@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5219,
+    "title": "(サンクリ2019 Summer) ツンデレ彼女が素直になるまでえっち",
+    "sourceUrl": "https://telegra.ph/サンクリ2019-Summer-ツンデレ彼女が素直になるまでえっち-08-31-2",
+    "images": [
+        "https://telegra.ph/file/833e17a20266224c453e9.jpg",
+        "https://telegra.ph/file/fc140bd3c654cc2b925a5.jpg",
+        "https://telegra.ph/file/0910f5a43f55d130e9d3e.png",
+        "https://telegra.ph/file/0ff9579d5e85c723c0ccf.png",
+        "https://telegra.ph/file/770268c468fdc72a2ef52.png",
+        "https://telegra.ph/file/b0f3e971558e68f27ddb2.png",
+        "https://telegra.ph/file/5b5f14fc843845ed5acd6.png",
+        "https://telegra.ph/file/dab990a225ac445746294.png",
+        "https://telegra.ph/file/ddeb1e24f69d24876764a.png",
+        "https://telegra.ph/file/cc3b76dff08fdcecad06c.png",
+        "https://telegra.ph/file/2b2dbff3daa96bf977e08.png",
+        "https://telegra.ph/file/c68a0719183946b640090.png",
+        "https://telegra.ph/file/67f04b7f601f8212c918b.png",
+        "https://telegra.ph/file/50d294fd8b193136a2b0a.png",
+        "https://telegra.ph/file/1276b95079602743aadcf.png",
+        "https://telegra.ph/file/212df45bf4202401f9153.png",
+        "https://telegra.ph/file/25fd108883aadd2ebde6b.png",
+        "https://telegra.ph/file/470c3d4ce1f6a35ea514a.png",
+        "https://telegra.ph/file/5570cd0fccaff3bfe3945.png",
+        "https://telegra.ph/file/e44a00713cb0ccbe600eb.png",
+        "https://telegra.ph/file/ca74bead9051f6162759e.png",
+        "https://telegra.ph/file/6d7c78acda98da1aeb777.png",
+        "https://telegra.ph/file/3ae380d093cedef827cd9.png",
+        "https://telegra.ph/file/5b6313151dbd97771e9a2.png",
+        "https://telegra.ph/file/a7a02b9dc36c7d294b498.png",
+        "https://telegra.ph/file/c1d62f5542a00b97309b5.png"
+    ]
+};

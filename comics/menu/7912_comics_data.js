@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7912,
+    "title": "ニクドレ志願",
+    "sourceUrl": "https://telegra.ph/ニクドレ志願-08-31",
+    "images": [
+        "https://telegra.ph/file/ae62db41d73c95f906e31.jpg",
+        "https://telegra.ph/file/96e2d0df7a10b93c27ea9.jpg",
+        "https://telegra.ph/file/59d01712dfb19860819e4.jpg",
+        "https://telegra.ph/file/131b566427314502a65e4.jpg",
+        "https://telegra.ph/file/d1c2f666436d75545fdb4.jpg",
+        "https://telegra.ph/file/ded610c126c4ed1650211.jpg",
+        "https://telegra.ph/file/c0b2ba81465bd557f699d.jpg",
+        "https://telegra.ph/file/9822396ab61cea714a230.jpg",
+        "https://telegra.ph/file/0ea220b8803e62a7eb99a.jpg",
+        "https://telegra.ph/file/d251974cf7bde9c1563e2.jpg",
+        "https://telegra.ph/file/282160c4eac458072a7d7.jpg",
+        "https://telegra.ph/file/38add4673302b664569c0.jpg",
+        "https://telegra.ph/file/d9f3f29ded15323c009b0.jpg",
+        "https://telegra.ph/file/39f7ad55fb6bb664594e7.jpg",
+        "https://telegra.ph/file/fc043d161447cfc99a7dc.jpg",
+        "https://telegra.ph/file/70d8eac78aaa13fdc1d52.jpg",
+        "https://telegra.ph/file/46106e6742a60f2f12064.jpg",
+        "https://telegra.ph/file/990a1384442a74a7e7007.jpg",
+        "https://telegra.ph/file/bc074d8989d5d4f7b5f17.jpg",
+        "https://telegra.ph/file/0ed78ba054ea55f57a2fa.jpg",
+        "https://telegra.ph/file/5d654c693dc67fc13fd8e.jpg",
+        "https://telegra.ph/file/83e8a267e0e930b151bab.jpg",
+        "https://telegra.ph/file/5b716c21217bfa98bd2a5.jpg"
+    ]
+};

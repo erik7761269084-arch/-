@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 158,
+    "title": "[世を忍ぶ]４人のえち的なメガネたち (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/世を忍ぶ４人のえち的なメガネたち-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/1df326e9a79f82e1a0d58.jpg",
+        "https://telegra.ph/file/161adad2cd71cadb2f221.jpg",
+        "https://telegra.ph/file/79a106ba3b6d69c8beca9.jpg",
+        "https://telegra.ph/file/c73696f5c276d2fd41d1d.jpg",
+        "https://telegra.ph/file/af37a32eba5bd36f568fb.jpg",
+        "https://telegra.ph/file/352581d6748470f42d20c.jpg",
+        "https://telegra.ph/file/c6e91789ee801997f30a6.jpg",
+        "https://telegra.ph/file/1f79d26f7ee54a7eb074f.jpg",
+        "https://telegra.ph/file/9c3331d53f85160b333e3.jpg",
+        "https://telegra.ph/file/4ac7da748b726bb524f74.jpg",
+        "https://telegra.ph/file/18cccc642a6c53d527f8a.jpg",
+        "https://telegra.ph/file/b0080e6aa3834a99e4679.jpg",
+        "https://telegra.ph/file/1aa0d655cb4dba36daa34.jpg",
+        "https://telegra.ph/file/de4751ccd891c38dc9ac9.jpg",
+        "https://telegra.ph/file/8365b1953096b1a6fc83f.jpg",
+        "https://telegra.ph/file/e5df99513aa1bab2c1c5d.jpg",
+        "https://telegra.ph/file/f0f4e959ef66317c3725a.jpg",
+        "https://telegra.ph/file/21a06fbc8e5d300395b7b.jpg",
+        "https://telegra.ph/file/67046928a6175c1013ea3.jpg",
+        "https://telegra.ph/file/d908bc658872c2b482904.jpg",
+        "https://telegra.ph/file/729a537ad325967e401f9.jpg",
+        "https://telegra.ph/file/4710df2b2e741551b0888.jpg",
+        "https://telegra.ph/file/54b7eb9755abb5bca568f.jpg"
+    ]
+};

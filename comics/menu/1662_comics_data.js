@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1662,
+    "title": "[彩画堂 (彩画堂)] 地味子ダイアリーII",
+    "sourceUrl": "https://telegra.ph/彩画堂-彩画堂-地味子ダイアリーII-08-31",
+    "images": [
+        "https://telegra.ph/file/574df9fd4eb9a528d9ecd.jpg",
+        "https://telegra.ph/file/920ae4021aee5c7499de3.jpg",
+        "https://telegra.ph/file/316aaacf637d096f74d98.jpg",
+        "https://telegra.ph/file/6f99f86a9a2baa1fa5b8b.jpg",
+        "https://telegra.ph/file/8ce348d0d4ef0a4bc6077.jpg",
+        "https://telegra.ph/file/00d581203daefe29f8b5c.jpg",
+        "https://telegra.ph/file/79a195a5a891bf4ac9500.jpg",
+        "https://telegra.ph/file/7ad82fa44fdb409ec8312.jpg",
+        "https://telegra.ph/file/07efd928b9d49b634525e.jpg",
+        "https://telegra.ph/file/989465b685069b39bf6b9.jpg",
+        "https://telegra.ph/file/75e4276e5bb59a4975f48.jpg",
+        "https://telegra.ph/file/d7be21e5d77bee31dc586.jpg",
+        "https://telegra.ph/file/b16577c5e2f0690222a2a.jpg",
+        "https://telegra.ph/file/7a3ae547cd980edc39e5e.jpg",
+        "https://telegra.ph/file/e781d36e64997743d081f.jpg",
+        "https://telegra.ph/file/557de426e7c2637f0889c.jpg",
+        "https://telegra.ph/file/a7863da6223e65f631c94.jpg",
+        "https://telegra.ph/file/1de16cb40647a8a3a9a04.jpg",
+        "https://telegra.ph/file/bb12f82f737d3c309c7d7.jpg",
+        "https://telegra.ph/file/b734811544c7ae03eccca.jpg",
+        "https://telegra.ph/file/3281fd1e48d3632dfeea2.jpg",
+        "https://telegra.ph/file/8da85de899f6642c20bf7.jpg",
+        "https://telegra.ph/file/616e34fb08e5a66ad4162.jpg",
+        "https://telegra.ph/file/9b3320162130b71445ab5.jpg",
+        "https://telegra.ph/file/dbb4d652679ce0416a697.jpg",
+        "https://telegra.ph/file/40ac77c3f40807c7b84a5.jpg"
+    ]
+};

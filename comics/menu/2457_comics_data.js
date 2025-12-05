@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2457,
+    "title": "[エロマズン (まー九郎)] 胡蝶しのぶ姦 ～寝ている間におっさん鬼に犯される～ (鬼滅の刃)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/エロマズン-まー九郎-胡蝶しのぶ姦-寝ている間におっさん鬼に犯される-鬼滅の刃-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/9b4c32c2fa9759fa10e43.jpg",
+        "https://telegra.ph/file/f0bc8077d9b42ec5b9a14.jpg",
+        "https://telegra.ph/file/70732503c3480ccc6189b.jpg",
+        "https://telegra.ph/file/b2b34cbb653c0544a9617.jpg",
+        "https://telegra.ph/file/6216a6de0e45d7cdee51c.jpg",
+        "https://telegra.ph/file/93d108b7ddb920ab95749.jpg",
+        "https://telegra.ph/file/f4f9acd4509b3532f2449.jpg",
+        "https://telegra.ph/file/236e467308d8536a2cb8b.jpg",
+        "https://telegra.ph/file/1dc213cfd8ddf90d75417.jpg",
+        "https://telegra.ph/file/f041c9e86584d5c22cdc7.jpg",
+        "https://telegra.ph/file/1612b883eaf1b28a60b88.jpg",
+        "https://telegra.ph/file/836878e13f6a6db20446b.jpg",
+        "https://telegra.ph/file/7fc50b39f4c101e3b3b28.jpg",
+        "https://telegra.ph/file/eec59b8fe8e18f2af94f0.jpg",
+        "https://telegra.ph/file/08d1e2c09c212b28a7876.jpg",
+        "https://telegra.ph/file/754d19000ea42b6ecde6d.jpg",
+        "https://telegra.ph/file/c651fb3a609958c857167.jpg",
+        "https://telegra.ph/file/2940fa3b9a0dd955a455a.jpg",
+        "https://telegra.ph/file/e7a4f1679f1ef5667c58e.jpg",
+        "https://telegra.ph/file/fcfbd6910da8bdd9081cd.jpg",
+        "https://telegra.ph/file/30470cc2274648ff228ba.jpg",
+        "https://telegra.ph/file/7c05c34d83d6c42073632.jpg",
+        "https://telegra.ph/file/f70fd0918a8a22a023d8e.jpg",
+        "https://telegra.ph/file/39ee01a58a4b3a8e3d775.jpg",
+        "https://telegra.ph/file/a1f31a63dedbc6ed030c4.jpg",
+        "https://telegra.ph/file/ddf3258d8fd703ca2711b.jpg"
+    ]
+};

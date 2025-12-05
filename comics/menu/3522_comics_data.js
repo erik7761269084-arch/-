@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3522,
+    "title": "(C87) [LongHornTrain (ちょちょ)] プリティスリースターズ (ハピネスチャージプリキュア！)",
+    "sourceUrl": "https://telegra.ph/C87-LongHornTrain-ちょちょ-プリティスリースターズ-ハピネスチャージプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/5f49a01845a7c22c6423c.jpg",
+        "https://telegra.ph/file/55edcc38722eafd0c6d1c.jpg",
+        "https://telegra.ph/file/6be8ce51dd9061550204f.jpg",
+        "https://telegra.ph/file/d952358abbff8b05f0f76.jpg",
+        "https://telegra.ph/file/567497c40837e576469f8.jpg",
+        "https://telegra.ph/file/224f88d210cd6f24ca1b5.jpg",
+        "https://telegra.ph/file/9989efef12c962aa80907.jpg",
+        "https://telegra.ph/file/1397e7c6eac5cbb6b71a1.jpg",
+        "https://telegra.ph/file/7066a82c5ac9f637193da.jpg",
+        "https://telegra.ph/file/03689e0d85c6b9b7742eb.jpg",
+        "https://telegra.ph/file/ad22924ecab0d274b6078.jpg",
+        "https://telegra.ph/file/e15d8585682ae637a44b9.jpg",
+        "https://telegra.ph/file/a1810acc8b0dd31c39968.jpg",
+        "https://telegra.ph/file/b0ff21e7685e152dc12e7.jpg",
+        "https://telegra.ph/file/a31bc47d784afaddf7edf.jpg",
+        "https://telegra.ph/file/e47884332a1d43d065099.jpg",
+        "https://telegra.ph/file/ac87ef8cd7d2075a8f26a.jpg",
+        "https://telegra.ph/file/f257cfefa9a58bb59a9a3.jpg",
+        "https://telegra.ph/file/e6447742f765fc554955b.jpg",
+        "https://telegra.ph/file/54e04c0862d9fcfb8e356.jpg",
+        "https://telegra.ph/file/ecdcc852d96853cada307.jpg",
+        "https://telegra.ph/file/6abd14b4f3bec020dad37.jpg",
+        "https://telegra.ph/file/d735fed3617f1599c8aa6.jpg",
+        "https://telegra.ph/file/75b67577c8ab675cdcc01.jpg"
+    ]
+};

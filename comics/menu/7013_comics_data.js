@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7013,
+    "title": "プ痴♥トモ",
+    "sourceUrl": "https://telegra.ph/プ痴トモ-08-31",
+    "images": [
+        "https://telegra.ph/file/3e97626fe7993c8aeca4b.jpg",
+        "https://telegra.ph/file/76d89f10aa01f0604d165.jpg",
+        "https://telegra.ph/file/7b6039f57ec2c2ecabd70.jpg",
+        "https://telegra.ph/file/d64d0597d3d72fdf2c1ab.jpg",
+        "https://telegra.ph/file/73482638513a4b041d347.jpg",
+        "https://telegra.ph/file/7ce6649615015a07b5580.jpg",
+        "https://telegra.ph/file/2141d4c0812eff510228f.jpg",
+        "https://telegra.ph/file/61de06df126e2a6078f80.jpg",
+        "https://telegra.ph/file/da932a2a70d1be7f9c41f.jpg",
+        "https://telegra.ph/file/a556860f84ae1c3a013d5.jpg",
+        "https://telegra.ph/file/f3978e15734f69cf1162e.jpg",
+        "https://telegra.ph/file/60da98d83c8bf8e2e5fdb.jpg",
+        "https://telegra.ph/file/953dfffee25047a1bf1b8.jpg",
+        "https://telegra.ph/file/233642b875baed5c6574d.jpg",
+        "https://telegra.ph/file/c62d82fbbab44056bbe6e.jpg",
+        "https://telegra.ph/file/3ab4f59b1db27be9f2f69.jpg",
+        "https://telegra.ph/file/9a4ddc3d3f4543edef045.jpg",
+        "https://telegra.ph/file/384345fcecbbf982891e8.jpg",
+        "https://telegra.ph/file/d5ee3887c71c2dad3f7b1.jpg",
+        "https://telegra.ph/file/385904f591b2d8d8aa5e8.jpg",
+        "https://telegra.ph/file/edaf1760af586d15a2fe1.jpg",
+        "https://telegra.ph/file/d256bb461bbe15b71f3c0.jpg",
+        "https://telegra.ph/file/4e8abc16e63ca19b0430e.jpg",
+        "https://telegra.ph/file/c0bd2b642ecfec1dea04c.jpg",
+        "https://telegra.ph/file/9e863dec7b079838b7819.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2578,
+    "title": "[kocc House (Namatsui)] Heart Throb  [Digital]",
+    "sourceUrl": "https://telegra.ph/kocc-House-Namatsui-Heart-Throb-Digital-08-31",
+    "images": [
+        "https://telegra.ph/file/a30119cae3b554c336040.jpg",
+        "https://telegra.ph/file/f545994092e8418fc1bb7.jpg",
+        "https://telegra.ph/file/0bb5f13cd3bebe66fa92f.jpg",
+        "https://telegra.ph/file/f154d5aa64a4eb3aa9267.jpg",
+        "https://telegra.ph/file/3aa02ab314911c0d1aa4f.jpg",
+        "https://telegra.ph/file/ae01e4a6a404b2d56c57b.jpg",
+        "https://telegra.ph/file/b5448d3f3c35f7530b6f1.jpg",
+        "https://telegra.ph/file/740d800347721210ccf6e.jpg",
+        "https://telegra.ph/file/275e6abbb458ae9460ff7.jpg",
+        "https://telegra.ph/file/de1be32d41dfb335f6f4a.jpg",
+        "https://telegra.ph/file/24302131ceb3b57199fa6.jpg",
+        "https://telegra.ph/file/a572c7b64b1e26439f048.jpg",
+        "https://telegra.ph/file/693e44381e632a3b13a1b.jpg",
+        "https://telegra.ph/file/55a50002da967c67a315f.jpg",
+        "https://telegra.ph/file/d2d876a6db610e941ef62.jpg",
+        "https://telegra.ph/file/e3aab39da85ea472773b8.jpg",
+        "https://telegra.ph/file/5475649421fbaff371c07.jpg",
+        "https://telegra.ph/file/b910b7b89b0000b72baf8.jpg",
+        "https://telegra.ph/file/9d322b4123c5127cb89d5.jpg",
+        "https://telegra.ph/file/1a8a38af289c3b4aacf37.jpg",
+        "https://telegra.ph/file/f8263ca0e82b815d77381.jpg",
+        "https://telegra.ph/file/9a59f2c8d6829f31dec0c.jpg",
+        "https://telegra.ph/file/c3de7c5d9caa8f51c41d6.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

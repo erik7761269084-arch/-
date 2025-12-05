@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 717,
+    "title": "[フィアンセ戦車 (まつえー)] 元最強魔王現TS娼婦",
+    "sourceUrl": "https://telegra.ph/フィアンセ戦車-まつえー-元最強魔王現TS娼婦-08-31",
+    "images": [
+        "https://telegra.ph/file/0a6568bd90c28ff4633dd.jpg",
+        "https://telegra.ph/file/08d9b1464bc6d33f5ef54.jpg",
+        "https://telegra.ph/file/c01252372e248aa7e36e7.jpg",
+        "https://telegra.ph/file/b4474422420d63ef22e6f.jpg",
+        "https://telegra.ph/file/12a519cdd14b77ce3876a.jpg",
+        "https://telegra.ph/file/c31bc3bd4b1bdcc205fdc.jpg",
+        "https://telegra.ph/file/15ac0b359ba2386a0b29c.jpg",
+        "https://telegra.ph/file/5404ffc69bc4291c0041c.jpg",
+        "https://telegra.ph/file/f97b7b06fc6c80b6165d0.jpg",
+        "https://telegra.ph/file/c4e68c8b3720b8aca0a68.jpg",
+        "https://telegra.ph/file/37f45cd2dd2965e167805.jpg",
+        "https://telegra.ph/file/855856cd6101612192ca9.jpg",
+        "https://telegra.ph/file/df9ac510ef042f2bfc311.jpg",
+        "https://telegra.ph/file/9fe0e6ae47817ed8cc18c.jpg",
+        "https://telegra.ph/file/c39ba03048ecea5db6150.jpg",
+        "https://telegra.ph/file/93f46fb7398cd98bfebbd.jpg",
+        "https://telegra.ph/file/0cb5d465701210d5f0cda.jpg",
+        "https://telegra.ph/file/e4aa6f42a8037ab0a7313.jpg",
+        "https://telegra.ph/file/9310d408658f0018d0116.jpg",
+        "https://telegra.ph/file/e0956b3da08b7eb0de45d.jpg",
+        "https://telegra.ph/file/6e115e4a44034ba4d256b.jpg",
+        "https://telegra.ph/file/ae8d218790907323d974a.jpg",
+        "https://telegra.ph/file/57b77864b90cdba69066b.jpg"
+    ]
+};

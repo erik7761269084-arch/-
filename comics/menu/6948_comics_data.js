@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6948,
+    "title": "淫魔のミカタ ～休日は、休む時間が無いのです",
+    "sourceUrl": "https://telegra.ph/淫魔のミカタ-休日は休む時間が無いのです-08-31",
+    "images": [
+        "https://telegra.ph/file/02fff26c5a83e25696482.jpg",
+        "https://telegra.ph/file/d4eb1c913ce135eb5158d.jpg",
+        "https://telegra.ph/file/dfae2515e17d194c73267.jpg",
+        "https://telegra.ph/file/603abfe0ffeb2244929fb.jpg",
+        "https://telegra.ph/file/6489447755897398ddb01.jpg",
+        "https://telegra.ph/file/4503b0441f5b96dc15f95.jpg",
+        "https://telegra.ph/file/2668cba07841ea5742250.jpg",
+        "https://telegra.ph/file/8d3b6ec5cc2465b3ca55b.jpg",
+        "https://telegra.ph/file/2b151f501652100499e54.jpg",
+        "https://telegra.ph/file/44e2d946d9f3f1e937b3e.jpg",
+        "https://telegra.ph/file/7a05e8bc61726e76b68ec.jpg",
+        "https://telegra.ph/file/a2e423ca8cc27c2188b17.jpg",
+        "https://telegra.ph/file/e57775081eeaf958b1c66.jpg",
+        "https://telegra.ph/file/190c9d34208930b884ee4.jpg",
+        "https://telegra.ph/file/78dd08a01d6cf0903d9ed.jpg",
+        "https://telegra.ph/file/bba63b6409c30bb97a85b.jpg",
+        "https://telegra.ph/file/6603a64188cee0dfcf3b7.jpg",
+        "https://telegra.ph/file/7c75dcaa4548a9cfbd02d.jpg",
+        "https://telegra.ph/file/944adbe3dbe04fc73d719.jpg",
+        "https://telegra.ph/file/fff19825fef36da677d45.jpg",
+        "https://telegra.ph/file/0429483e49892c14c66e1.jpg",
+        "https://telegra.ph/file/fbf5f0c9140c9bb9ca8e2.jpg",
+        "https://telegra.ph/file/c39583d566c5ebc26abfa.jpg",
+        "https://telegra.ph/file/5d82778c736ae7e59a2bc.jpg"
+    ]
+};

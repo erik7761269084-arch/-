@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3020,
+    "title": "[憑依ラヴァー] 奪われる幼馴染",
+    "sourceUrl": "https://telegra.ph/憑依ラヴァー-奪われる幼馴染-08-31",
+    "images": [
+        "https://telegra.ph/file/743cc31e8a91dd0b2cfeb.jpg",
+        "https://telegra.ph/file/364dda7d6ee490caf2436.jpg",
+        "https://telegra.ph/file/a9bfa6c89bbb57fced4fa.jpg",
+        "https://telegra.ph/file/670d311e7ba2e4502b868.jpg",
+        "https://telegra.ph/file/81e211021494b6381d210.jpg",
+        "https://telegra.ph/file/1e73e3d4e30831f818f7c.jpg",
+        "https://telegra.ph/file/e8588e2a5eeb2e6a35fb9.jpg",
+        "https://telegra.ph/file/0047dff7263bec9869204.jpg",
+        "https://telegra.ph/file/2588d7dbc51bca4626ecb.jpg",
+        "https://telegra.ph/file/f90f8d538d018741e1728.jpg",
+        "https://telegra.ph/file/da3a25e2ef608b9ea6ad7.jpg",
+        "https://telegra.ph/file/a54ad15da5d45fdf0f8a3.jpg",
+        "https://telegra.ph/file/338b0b85ddc978cbdd4ae.jpg",
+        "https://telegra.ph/file/ebb9e04b95049a3b5cfa1.jpg",
+        "https://telegra.ph/file/25f2a33074c7586cb003f.jpg",
+        "https://telegra.ph/file/6ad31bab16f226d0c6bde.jpg",
+        "https://telegra.ph/file/e77a1b89d2efe258820e5.jpg",
+        "https://telegra.ph/file/42030140566d19ccb9262.jpg",
+        "https://telegra.ph/file/4320873ca57fd9c641a58.jpg",
+        "https://telegra.ph/file/f9c07e7b21db2686cb3fe.jpg",
+        "https://telegra.ph/file/bd76a56f464180b68230d.jpg",
+        "https://telegra.ph/file/5c19e4da0bdfb1c914523.jpg",
+        "https://telegra.ph/file/fc5b456826229866d39a0.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7527,
+    "title": "奥様はセックスフレンド",
+    "sourceUrl": "https://telegra.ph/奥様はセックスフレンド-08-31",
+    "images": [
+        "https://telegra.ph/file/5bacdbb20ab8604ba53c7.png",
+        "https://telegra.ph/file/abe8536419504a33995ef.png",
+        "https://telegra.ph/file/236b6bcee7631d256d42a.png",
+        "https://telegra.ph/file/8d6804eabf44ef348c6bc.png",
+        "https://telegra.ph/file/ee6ee20c6d68783033bf7.png",
+        "https://telegra.ph/file/391be934c6f58dc3d06ab.png",
+        "https://telegra.ph/file/62d0b413b49d01667796c.png",
+        "https://telegra.ph/file/ab90bde1904419bfd0dc3.png",
+        "https://telegra.ph/file/2eb74e901a44a1192806f.png",
+        "https://telegra.ph/file/2c76f117d388cf445ef1c.png",
+        "https://telegra.ph/file/55861ae56e484f5c81880.png",
+        "https://telegra.ph/file/41479e7ad2f9c44df835f.png",
+        "https://telegra.ph/file/fbb06e10c8145dad752fb.png",
+        "https://telegra.ph/file/fa2a89cbda19e2930a66b.png",
+        "https://telegra.ph/file/be6b0105a7a0e0bd6d33b.png",
+        "https://telegra.ph/file/d370f82ea25d17bb36b2d.png",
+        "https://telegra.ph/file/7c29777f8252159c97f11.png",
+        "https://telegra.ph/file/d22f0240be9143cfd577a.png",
+        "https://telegra.ph/file/9d2faee92148b3dcc97f5.png",
+        "https://telegra.ph/file/f0b4e232e26d0cafe8c3d.png",
+        "https://telegra.ph/file/f972a4cf0a5452c0bbce7.png",
+        "https://telegra.ph/file/96de50449b8d925938887.png",
+        "https://telegra.ph/file/89f8b7fe265b78585dc4a.png",
+        "https://telegra.ph/file/30cbb602465c5113a0bd6.png",
+        "https://telegra.ph/file/91452a3fa923df78525ec.png",
+        "https://telegra.ph/file/29020a0bc0a183e2956ec.png"
+    ]
+};

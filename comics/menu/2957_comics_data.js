@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2957,
+    "title": "[惑星的趣向 (ゆたかめ)] 異世界のママと僕",
+    "sourceUrl": "https://telegra.ph/惑星的趣向-ゆたかめ-異世界のママと僕-08-31",
+    "images": [
+        "https://telegra.ph/file/41e021fe18e856779314d.jpg",
+        "https://telegra.ph/file/0fc178bf9c134576b31e9.jpg",
+        "https://telegra.ph/file/0e2902ef1f51e355a6fa3.jpg",
+        "https://telegra.ph/file/d90c637a868a9953763a5.jpg",
+        "https://telegra.ph/file/1ce0eb166241d4255d34c.jpg",
+        "https://telegra.ph/file/d71702fad8351f84197ae.jpg",
+        "https://telegra.ph/file/5c025bf2398ac98d10b22.jpg",
+        "https://telegra.ph/file/abd6ae25fe1c5e6c69768.jpg",
+        "https://telegra.ph/file/7d2dc21fa1d77513e04a3.jpg",
+        "https://telegra.ph/file/3349b1565f0d82c24f788.jpg",
+        "https://telegra.ph/file/d46cbd18d83ea32e074ef.jpg",
+        "https://telegra.ph/file/fc6a11772bb8d47abae27.jpg",
+        "https://telegra.ph/file/3efa9b2d7f08cd5a3526a.jpg",
+        "https://telegra.ph/file/c84771ca0106258e90e65.jpg",
+        "https://telegra.ph/file/927dc51253b84cba60de6.jpg",
+        "https://telegra.ph/file/be8acc386ba7e13cba7af.jpg",
+        "https://telegra.ph/file/7d833de6bd6a39f5ef1a3.jpg",
+        "https://telegra.ph/file/43ffa212ddb1619282f87.jpg",
+        "https://telegra.ph/file/beb3905d6ac5d26568aae.jpg",
+        "https://telegra.ph/file/3e0a1f95161f88d452b0d.jpg",
+        "https://telegra.ph/file/c60470f959725b767137c.jpg",
+        "https://telegra.ph/file/9b9da15536eddc85c6517.jpg",
+        "https://telegra.ph/file/9adba5c7e2be92d4f5017.jpg",
+        "https://telegra.ph/file/01d9d22da228b89a2d7cb.jpg",
+        "https://telegra.ph/file/be5144d9ffb36b60981de.jpg",
+        "https://telegra.ph/file/eb0f85e6ac88377ba97e4.jpg"
+    ]
+};

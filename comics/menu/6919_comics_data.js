@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6919,
+    "title": "あいどりんぐ♥stop!",
+    "sourceUrl": "https://telegra.ph/あいどりんぐstop-08-31",
+    "images": [
+        "https://telegra.ph/file/3fa6867d91b2dcb7cba37.png",
+        "https://telegra.ph/file/81616ca1ee107a956a108.png",
+        "https://telegra.ph/file/fa602382ff16fe67d9c16.png",
+        "https://telegra.ph/file/a71c074131de015ffcfd9.png",
+        "https://telegra.ph/file/c1262a1b4ef6d3135ffeb.png",
+        "https://telegra.ph/file/99b3d6716d5f25c9ffdb3.png",
+        "https://telegra.ph/file/87affa2e3df9dd700b2be.png",
+        "https://telegra.ph/file/288fa4b7ff93c71d51b9c.png",
+        "https://telegra.ph/file/1ab17160592b396860464.png",
+        "https://telegra.ph/file/9519be7af22d4ab00b4dd.png",
+        "https://telegra.ph/file/1244de9ed2e2be36a03d4.png",
+        "https://telegra.ph/file/65bdff1f3fa6274a773cc.png",
+        "https://telegra.ph/file/749ffd22dcb73a5c09564.png",
+        "https://telegra.ph/file/471abc56d387bea453165.png",
+        "https://telegra.ph/file/77a77425d1e97351c62f4.png",
+        "https://telegra.ph/file/9d7ef4bfa55319a43d1ef.png",
+        "https://telegra.ph/file/3f6136753df616986dc32.png",
+        "https://telegra.ph/file/daa219efc65a99e785c9f.png",
+        "https://telegra.ph/file/8a5bd729027666bd0330a.png",
+        "https://telegra.ph/file/d6c6fb30cd77d523a2094.png",
+        "https://telegra.ph/file/59f46a37cf4d43c626d0c.png",
+        "https://telegra.ph/file/03589498477e035ce5082.png",
+        "https://telegra.ph/file/e871d255acc3c84c01914.png",
+        "https://telegra.ph/file/39ea3aca40fb7f015744b.png",
+        "https://telegra.ph/file/f10afa4124536e6f10f59.png",
+        "https://telegra.ph/file/221cb3fc992605ce51ae6.png"
+    ]
+};

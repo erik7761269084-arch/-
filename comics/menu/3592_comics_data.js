@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3592,
+    "title": "[さんじゅうろう]フラストレーション (コミックゼロス #94)",
+    "sourceUrl": "https://telegra.ph/さんじゅうろうフラストレーション-コミックゼロス-94-08-31",
+    "images": [
+        "https://telegra.ph/file/977e8b11190655daf6301.jpg",
+        "https://telegra.ph/file/546075f76fc1ced9020de.jpg",
+        "https://telegra.ph/file/207187a1b8829317e17b9.jpg",
+        "https://telegra.ph/file/43859553cf6efbe7dc102.jpg",
+        "https://telegra.ph/file/64139d29b65e7a2cb5e57.jpg",
+        "https://telegra.ph/file/5a817ec1032b876ea96a8.jpg",
+        "https://telegra.ph/file/c1435ea23b3b9366cabcb.jpg",
+        "https://telegra.ph/file/cfdf5e8e1b58cc8fa829a.jpg",
+        "https://telegra.ph/file/743c59b2d1cd07746b092.jpg",
+        "https://telegra.ph/file/db6a16491570c900da7bc.jpg",
+        "https://telegra.ph/file/d084f43ec93e17320c176.jpg",
+        "https://telegra.ph/file/c41957f21278dc5338e42.jpg",
+        "https://telegra.ph/file/8145d700002e37f996e27.jpg",
+        "https://telegra.ph/file/03b160ad649aacfc53269.jpg",
+        "https://telegra.ph/file/b4f935e0388ec5e8aac44.jpg",
+        "https://telegra.ph/file/6ab23604ba3f4151b65ec.jpg",
+        "https://telegra.ph/file/62ccb8ef4ca4a3a7d41a9.jpg",
+        "https://telegra.ph/file/b41c37d945611f09838e3.jpg",
+        "https://telegra.ph/file/706d0ddb0024d07b19c3a.jpg",
+        "https://telegra.ph/file/0c80e37e4b57ad1758223.jpg",
+        "https://telegra.ph/file/03cb296da4c0ce476a974.jpg",
+        "https://telegra.ph/file/3876c816698d9e3f23602.jpg",
+        "https://telegra.ph/file/e0453ade7e5630cbd7863.jpg",
+        "https://telegra.ph/file/9c79e3668ec7f5b33de92.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5825,
+    "title": "[むのめりくん] おとまり嫁",
+    "sourceUrl": "https://telegra.ph/むのめりくん-おとまり嫁-08-31",
+    "images": [
+        "https://telegra.ph/file/b71b339fd607c5e602db2.jpg",
+        "https://telegra.ph/file/f1e239414b442bef42bcd.jpg",
+        "https://telegra.ph/file/8a99f9112764425c3cf8d.jpg",
+        "https://telegra.ph/file/c669dca4a92df396c3349.jpg",
+        "https://telegra.ph/file/d5e5a5601646d7d9df835.jpg",
+        "https://telegra.ph/file/13b71f4b54581040d7ec5.jpg",
+        "https://telegra.ph/file/82a7075070a39c8f36e22.jpg",
+        "https://telegra.ph/file/38242ee5e68f8932b7b5a.jpg",
+        "https://telegra.ph/file/37d53d8263431a0d7ffb5.jpg",
+        "https://telegra.ph/file/896e8571e6e21782191a3.jpg",
+        "https://telegra.ph/file/4e9eef88bdfe7991b07f6.jpg",
+        "https://telegra.ph/file/a3a95407266d1de41184a.jpg",
+        "https://telegra.ph/file/c5d34df2e625ae0bc8710.jpg",
+        "https://telegra.ph/file/1690070d164e567e00ddc.jpg",
+        "https://telegra.ph/file/a71b3fda3348dbf3c7647.jpg",
+        "https://telegra.ph/file/b761edab2096ef73eb24e.jpg",
+        "https://telegra.ph/file/ae5c77ae4758453f4c741.jpg",
+        "https://telegra.ph/file/ce24080824816f3a624d6.jpg",
+        "https://telegra.ph/file/3c324dcf0caa0418b9c3e.jpg",
+        "https://telegra.ph/file/073f20ec7fcd5e17f5476.jpg",
+        "https://telegra.ph/file/768ba27289634969b7d62.jpg",
+        "https://telegra.ph/file/22eb68f747c3aa8bd03e1.jpg",
+        "https://telegra.ph/file/c3c69e97079be512bb6c6.jpg",
+        "https://telegra.ph/file/74e9ca503267c16d0ffcb.jpg"
+    ]
+};

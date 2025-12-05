@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6169,
+    "title": "[コインRAND] 生徒会長の秘蜜❤",
+    "sourceUrl": "https://telegra.ph/コインRAND-生徒会長の秘蜜-08-31",
+    "images": [
+        "https://telegra.ph/file/0779c43ed1042631e4a91.jpg",
+        "https://telegra.ph/file/fe94e076c3d7bd371b884.jpg",
+        "https://telegra.ph/file/50a919dfc80811a59bc2d.jpg",
+        "https://telegra.ph/file/8b769acbd3bd0e90dc133.jpg",
+        "https://telegra.ph/file/5b8c5ba7d5d551e162bc0.jpg",
+        "https://telegra.ph/file/f5644046796c533e311d0.jpg",
+        "https://telegra.ph/file/6dee62f52681f88bd606a.jpg",
+        "https://telegra.ph/file/4d6581874f1c21206b7f3.jpg",
+        "https://telegra.ph/file/8c0ea97d8cead290db762.jpg",
+        "https://telegra.ph/file/9c7bc604fd18b5122f87e.jpg",
+        "https://telegra.ph/file/310161aa90678f16c380b.jpg",
+        "https://telegra.ph/file/1816a4b60928c47c80874.jpg",
+        "https://telegra.ph/file/8d489038d79fd083fd49d.jpg",
+        "https://telegra.ph/file/c730613fb9f2f6df7902e.jpg",
+        "https://telegra.ph/file/10f7aa397511a2a6eb7f0.jpg",
+        "https://telegra.ph/file/170789f6d9491d578d98e.jpg",
+        "https://telegra.ph/file/ccf5be42f6918f59b9904.jpg",
+        "https://telegra.ph/file/c311504eb4b99313533ba.jpg",
+        "https://telegra.ph/file/58ef70880757a53141eea.jpg",
+        "https://telegra.ph/file/f91eaaead0f740eccff11.jpg",
+        "https://telegra.ph/file/5747cb9dcb308bfc87893.jpg",
+        "https://telegra.ph/file/ec7283a14f22ca0a1e012.jpg",
+        "https://telegra.ph/file/6cbffc5ca20fb63cea448.jpg",
+        "https://telegra.ph/file/db85bbe9be409dc4e5bcf.jpg",
+        "https://telegra.ph/file/fb3a75404f44fd8ba2084.jpg",
+        "https://telegra.ph/file/3308e80ebd746d6da71b8.jpg"
+    ]
+};

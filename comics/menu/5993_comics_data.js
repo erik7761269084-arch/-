@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5993,
+    "title": "[Sian]魅せハメ☆ギャルびっち",
+    "sourceUrl": "https://telegra.ph/Sian魅せハメギャルびっち-08-31",
+    "images": [
+        "https://telegra.ph/file/5994b65591b2780dc1b43.jpg",
+        "https://telegra.ph/file/4b6426509eb81ba48917f.jpg",
+        "https://telegra.ph/file/c3aec802cdad9885ac0ba.jpg",
+        "https://telegra.ph/file/6e5b3cd5d35d42f53dda8.jpg",
+        "https://telegra.ph/file/fa79b44d412f1c8ec03f5.jpg",
+        "https://telegra.ph/file/114707d211831e9c170d3.jpg",
+        "https://telegra.ph/file/df065e73657f7a0575b83.jpg",
+        "https://telegra.ph/file/facae22faf136eae00a1e.jpg",
+        "https://telegra.ph/file/72f17ff4e142a257dd724.jpg",
+        "https://telegra.ph/file/f8965fee57955315e4daf.jpg",
+        "https://telegra.ph/file/5f746a60d11411fe25b4e.jpg",
+        "https://telegra.ph/file/37800c86008db922fe582.jpg",
+        "https://telegra.ph/file/2a8a7e51ca6eb14f4680d.jpg",
+        "https://telegra.ph/file/2e3933eb2f6661e04cc06.jpg",
+        "https://telegra.ph/file/79ed2d0671dc37bd15fb6.jpg",
+        "https://telegra.ph/file/8228a57fae1fadeba2ea7.jpg",
+        "https://telegra.ph/file/efffd7f4ca89d2649d704.jpg",
+        "https://telegra.ph/file/28bdffd8012e462ab1a95.jpg",
+        "https://telegra.ph/file/e83c6f4c5aa77fe45eb16.jpg",
+        "https://telegra.ph/file/6e7f3d9aba65a30961e97.jpg",
+        "https://telegra.ph/file/c912c7b002c15afea5d24.jpg",
+        "https://telegra.ph/file/fa6aca324179067b4bf5c.jpg",
+        "https://telegra.ph/file/16222122ec2c7576f606b.jpg",
+        "https://telegra.ph/file/535d8b8cb49fc90d03ed8.jpg"
+    ]
+};

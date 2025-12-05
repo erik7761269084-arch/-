@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7787,
+    "title": "催眠2.5",
+    "sourceUrl": "https://telegra.ph/催眠25-08-31",
+    "images": [
+        "https://telegra.ph/file/715c577a5b949bf3f3a65.png",
+        "https://telegra.ph/file/a989dc3284faef54b8a65.png",
+        "https://telegra.ph/file/ad5a69c414279063f5613.png",
+        "https://telegra.ph/file/ae1d64945034175f96cc6.png",
+        "https://telegra.ph/file/69b8f95b8178a0b64957d.png",
+        "https://telegra.ph/file/45e935a964886edba58ad.png",
+        "https://telegra.ph/file/3cf8d6b747467669af4b9.png",
+        "https://telegra.ph/file/5cff69cfe321270454935.png",
+        "https://telegra.ph/file/91fd2aa653d66b97238c6.png",
+        "https://telegra.ph/file/a8771138ac80d7ea4c082.png",
+        "https://telegra.ph/file/89f17c54432806f015a6a.png",
+        "https://telegra.ph/file/3cecf3a53202e8f394500.png",
+        "https://telegra.ph/file/9b2221c1b082a26e0af4e.png",
+        "https://telegra.ph/file/22e717fe21ba315afc8e0.png",
+        "https://telegra.ph/file/40832ffa486dbabb7e6ad.png",
+        "https://telegra.ph/file/e367599923fe0ced03efe.png",
+        "https://telegra.ph/file/c3080ef23957834c3e36b.png",
+        "https://telegra.ph/file/298e3a343f26d35ab9845.png",
+        "https://telegra.ph/file/b53e4ea0e241645841bb0.png",
+        "https://telegra.ph/file/575d75c58452450261287.png",
+        "https://telegra.ph/file/b03ace0bfbd3a88494e64.png",
+        "https://telegra.ph/file/ba21a672c2d69bb2a9ba0.png",
+        "https://telegra.ph/file/c7764cc538331f78e3e16.png"
+    ]
+};

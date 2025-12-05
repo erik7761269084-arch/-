@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1930,
+    "title": "(C96) [grand-slum (キュアスラム)] 歩いてた摩美々を金で買ってみる本 (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C96-grand-slum-キュアスラム-歩いてた摩美々を金で買ってみる本-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/ab273db20049403a111e6.jpg",
+        "https://telegra.ph/file/4c78c6675878aae2e1fed.jpg",
+        "https://telegra.ph/file/f0c820f6b08bfa99bd83c.jpg",
+        "https://telegra.ph/file/3b9af67e9b428e950737d.jpg",
+        "https://telegra.ph/file/9d92216d7a4ee035b08b1.jpg",
+        "https://telegra.ph/file/649294764f4aabdf2b52f.jpg",
+        "https://telegra.ph/file/ea2658bfc9b2170827d6d.jpg",
+        "https://telegra.ph/file/5143636f928a8e5fa0e71.jpg",
+        "https://telegra.ph/file/482a0429567e9f2adba77.jpg",
+        "https://telegra.ph/file/1abced2d7508fe8d214cd.jpg",
+        "https://telegra.ph/file/a80ead02786a8f86bc3f3.jpg",
+        "https://telegra.ph/file/c471fa097e259ff787985.jpg",
+        "https://telegra.ph/file/d0d926b6fbc466d50d666.jpg",
+        "https://telegra.ph/file/c5ec19e390d8b18dca5e3.jpg",
+        "https://telegra.ph/file/99378a1058c1c7dc42377.jpg",
+        "https://telegra.ph/file/0eb23c9aa54fa5ae2a78e.jpg",
+        "https://telegra.ph/file/da46063e3782d51f66b99.jpg",
+        "https://telegra.ph/file/b65789d324908faed54b7.jpg",
+        "https://telegra.ph/file/29522447674c0a1ceb84a.jpg",
+        "https://telegra.ph/file/a26803bceb3dff1865351.jpg",
+        "https://telegra.ph/file/4c539c04c499fdca1905c.jpg",
+        "https://telegra.ph/file/3aca6a321f3790173370e.jpg",
+        "https://telegra.ph/file/6c4a8378cd3d27c6fcd62.jpg",
+        "https://telegra.ph/file/e4311fbad9458f6f8d38c.jpg",
+        "https://telegra.ph/file/d10f75edf9caaef13ac2c.jpg",
+        "https://telegra.ph/file/7137c81fbfc436a07efc1.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7453,
+    "title": "Amadeus -アマデウス- 〜十五夜〜",
+    "sourceUrl": "https://telegra.ph/Amadeus--アマデウス--十五夜-08-31",
+    "images": [
+        "https://telegra.ph/file/b632970d994f94fa8b660.jpg",
+        "https://telegra.ph/file/151040c2b0467dca9d551.jpg",
+        "https://telegra.ph/file/ba308709d5266dccc62e8.jpg",
+        "https://telegra.ph/file/b24021e2e552fc4ebcdfc.jpg",
+        "https://telegra.ph/file/40458b219aed0c8003f4c.jpg",
+        "https://telegra.ph/file/66f4d2883b5f4ed2e4972.jpg",
+        "https://telegra.ph/file/3e6b552a88fc40b9951e1.jpg",
+        "https://telegra.ph/file/93e40f606cfe0eb2e4276.jpg",
+        "https://telegra.ph/file/531ec24c86e4025fe3d2e.jpg",
+        "https://telegra.ph/file/84bbc8be185437fe5c6b1.jpg",
+        "https://telegra.ph/file/dfa16c4f2fee7d06b3811.jpg",
+        "https://telegra.ph/file/e87a92fe8f0d39c29be33.jpg",
+        "https://telegra.ph/file/6a56a94c74cfedb9b70cb.jpg",
+        "https://telegra.ph/file/2f5af8d9fba2224d5b7f0.jpg",
+        "https://telegra.ph/file/a14230ce92a2ba5b0357d.jpg",
+        "https://telegra.ph/file/2cce1a438bc5b3f394dc1.jpg",
+        "https://telegra.ph/file/babc60268d5f35d55de74.jpg",
+        "https://telegra.ph/file/7de55150cf2bb6f504676.jpg",
+        "https://telegra.ph/file/727b6bfff39a1f7463792.jpg",
+        "https://telegra.ph/file/25a0c6c20281f6f166b96.jpg",
+        "https://telegra.ph/file/403035996e6c2150e2881.jpg",
+        "https://telegra.ph/file/449ab7d290c98a4a297a3.jpg",
+        "https://telegra.ph/file/57df2c4a1a833fe071b38.jpg",
+        "https://telegra.ph/file/2a197235ec4e09fa8baf8.jpg",
+        "https://telegra.ph/file/81d15a3f9cdf4433da744.jpg"
+    ]
+};

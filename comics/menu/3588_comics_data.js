@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3588,
+    "title": "[墓場] 和美 (COMIC 夢幻転生 2019年4月号)",
+    "sourceUrl": "https://telegra.ph/墓場-和美-COMIC-夢幻転生-2019年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c16bbd52a68cf8f29db15.jpg",
+        "https://telegra.ph/file/dadbbe09df657876229f9.jpg",
+        "https://telegra.ph/file/ef6ea1f2ab3e6f8a8b475.jpg",
+        "https://telegra.ph/file/e6dce20cc42bcecc35e69.jpg",
+        "https://telegra.ph/file/bb5a066b95d2089542d46.jpg",
+        "https://telegra.ph/file/109a9dc17effd6534cb4c.jpg",
+        "https://telegra.ph/file/af95a9927b0e092def441.jpg",
+        "https://telegra.ph/file/633384a37f02c433fe5aa.jpg",
+        "https://telegra.ph/file/58ff8f12854283cd23dfd.jpg",
+        "https://telegra.ph/file/d5b2b101dc1141f5c29b5.jpg",
+        "https://telegra.ph/file/4ed2915f6fa87835a4946.jpg",
+        "https://telegra.ph/file/fc25e1efff4db571d0aee.jpg",
+        "https://telegra.ph/file/9c5a9fce2282b8835f7a6.jpg",
+        "https://telegra.ph/file/f18a248e8ce5dc3bd55d6.jpg",
+        "https://telegra.ph/file/634c384d9027175b1d993.jpg",
+        "https://telegra.ph/file/f1b2dcf77270ecdf18792.jpg",
+        "https://telegra.ph/file/0e626c5b5fdaba62e8115.jpg",
+        "https://telegra.ph/file/33bb4d2512ac73a226988.jpg",
+        "https://telegra.ph/file/7a62d017b4a5c09475fba.jpg",
+        "https://telegra.ph/file/d708ffae4651afec5b97a.jpg",
+        "https://telegra.ph/file/ae4ff2f0b411a71b4af0a.jpg",
+        "https://telegra.ph/file/bff0ba64985ec8f0ae9f7.jpg",
+        "https://telegra.ph/file/5b1e40ca167760acfaf83.jpg",
+        "https://telegra.ph/file/fbd63da927049e27b46bd.jpg",
+        "https://telegra.ph/file/53baea47bebe897c03b6e.jpg",
+        "https://telegra.ph/file/81975957ed35f40b56982.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4682,
+    "title": "[江森うき] 催眠アプリで始まる近親関係 (コミックホットミルク濃いめ vol.30)",
+    "sourceUrl": "https://telegra.ph/江森うき-催眠アプリで始まる近親関係-コミックホットミルク濃いめ-vol30-08-31",
+    "images": [
+        "https://telegra.ph/file/70ab021ca717aa55811f9.jpg",
+        "https://telegra.ph/file/39280256a02fc0de23b64.jpg",
+        "https://telegra.ph/file/41342e95fc55888b7ce66.jpg",
+        "https://telegra.ph/file/42d9e7e3108ba6cecd591.jpg",
+        "https://telegra.ph/file/85e82e66f849ead83a33c.jpg",
+        "https://telegra.ph/file/ed8931610cfaf1da9f10f.jpg",
+        "https://telegra.ph/file/3d0b1447ea135f9301147.jpg",
+        "https://telegra.ph/file/f0caf453b7c32cd2ada2a.jpg",
+        "https://telegra.ph/file/a5ffd76c358663b077dae.jpg",
+        "https://telegra.ph/file/b553c1b7a14b5f76bf9f8.jpg",
+        "https://telegra.ph/file/e2aeb89bd58ffb227ef18.jpg",
+        "https://telegra.ph/file/f0c9dcc36297e0c4899bc.jpg",
+        "https://telegra.ph/file/2717fafe3c4817897088b.jpg",
+        "https://telegra.ph/file/a5102604f59db1b54da12.jpg",
+        "https://telegra.ph/file/3fec2d8be21c2a17d0ecb.jpg",
+        "https://telegra.ph/file/429c262a63afc8d20a8d5.jpg",
+        "https://telegra.ph/file/c238bbfd0ed28fe292438.jpg",
+        "https://telegra.ph/file/99cebf7e6963099c17320.jpg",
+        "https://telegra.ph/file/841a9f4636586128386be.jpg",
+        "https://telegra.ph/file/0a675ace61e815d82d3bd.jpg",
+        "https://telegra.ph/file/7f78363bf169fdcfa44bf.jpg",
+        "https://telegra.ph/file/f6cbf58ec0ca288fad038.jpg",
+        "https://telegra.ph/file/a0c9aafc46153bd92a960.jpg",
+        "https://telegra.ph/file/cea4bfd57ed374b8b29f6.jpg"
+    ]
+};

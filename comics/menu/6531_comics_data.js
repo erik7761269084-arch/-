@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6531,
+    "title": "無題 (RΩ HARD CORE) (ラグナロクオンライン)",
+    "sourceUrl": "https://telegra.ph/無題-RΩ-HARD-CORE-ラグナロクオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/dfb5081a971f7fd693ab7.jpg",
+        "https://telegra.ph/file/fb77e7a306bbd59586043.jpg",
+        "https://telegra.ph/file/9c3d23db180e2b8b64f1c.jpg",
+        "https://telegra.ph/file/89e49563cc00aaad24ec1.jpg",
+        "https://telegra.ph/file/0e687e96d8a1ab17028da.jpg",
+        "https://telegra.ph/file/3db1ffafd4a84ff345caf.jpg",
+        "https://telegra.ph/file/2e0912ddd9385e542055a.jpg",
+        "https://telegra.ph/file/7620371d5500338a28cbf.jpg",
+        "https://telegra.ph/file/485c86fb1f7941116f76f.jpg",
+        "https://telegra.ph/file/f6bb47ac2e2d260231990.jpg",
+        "https://telegra.ph/file/7d9528085b6dc1eb306e3.jpg",
+        "https://telegra.ph/file/8e31505754e0cd2ea6892.jpg",
+        "https://telegra.ph/file/7f73dee2bb3c1d013b39d.jpg",
+        "https://telegra.ph/file/083a1710b5d7fd6f32812.jpg",
+        "https://telegra.ph/file/646642223d284acfa8a47.jpg",
+        "https://telegra.ph/file/dcc0f86dd2d8b9bcf3a90.jpg",
+        "https://telegra.ph/file/979faeaac01009ff90656.jpg",
+        "https://telegra.ph/file/7a77728dee01c90e22a85.jpg",
+        "https://telegra.ph/file/8262ffe19b87882707040.jpg",
+        "https://telegra.ph/file/b205e7d1dde3ecfa792a7.jpg",
+        "https://telegra.ph/file/bc574c3b824cbec35cf74.jpg",
+        "https://telegra.ph/file/f19bd5a5373ffd75ad8fc.jpg",
+        "https://telegra.ph/file/96b78d23b44af0c69bbbe.jpg"
+    ]
+};

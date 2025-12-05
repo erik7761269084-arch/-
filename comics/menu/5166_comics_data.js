@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5166,
+    "title": "[太平さんせっと] 自慰んたれすと (COMIC失楽天 2021年11月号) [MJK-22-Z2754]",
+    "sourceUrl": "https://telegra.ph/太平さんせっと-自慰んたれすと-COMIC失楽天-2021年11月号-MJK-22-Z2754-08-31-2",
+    "images": [
+        "https://telegra.ph/file/9909f450d0df28dd46f54.png",
+        "https://telegra.ph/file/0b27266c82f596b4868e4.png",
+        "https://telegra.ph/file/4eac21ef07d4d3b040a95.png",
+        "https://telegra.ph/file/f8fafcd89cf29f2be59ea.png",
+        "https://telegra.ph/file/b4d89a031afb33127aace.png",
+        "https://telegra.ph/file/ff3b92586c832c6a606d2.png",
+        "https://telegra.ph/file/3b69f0bd9fb6ed8856d44.png",
+        "https://telegra.ph/file/bd1f069cb5ee8035b63e7.png",
+        "https://telegra.ph/file/5729596957f54ceb9ce43.png",
+        "https://telegra.ph/file/7b0c80607b39e438bdeb4.png",
+        "https://telegra.ph/file/e49c1969a72c49143004a.png",
+        "https://telegra.ph/file/c10025340a2bdc14ac8c4.png",
+        "https://telegra.ph/file/7325f17aac1ab6d563b83.png",
+        "https://telegra.ph/file/0b77abed8ad81ffc66013.png",
+        "https://telegra.ph/file/d25a000e66af16d8f865a.png",
+        "https://telegra.ph/file/1531fa89ec0d62bc67c67.png",
+        "https://telegra.ph/file/fa223dd838d0a8286b514.png",
+        "https://telegra.ph/file/08aa2b7a628c7c4622144.png",
+        "https://telegra.ph/file/e6e809677c660e753c5b9.png",
+        "https://telegra.ph/file/b2667adc73b610e171067.png",
+        "https://telegra.ph/file/2e433f283d7f0da737a13.png",
+        "https://telegra.ph/file/ca531c806a927962b4fe6.png",
+        "https://telegra.ph/file/8b697a2faaa638afc7655.png",
+        "https://telegra.ph/file/01695666be41a91097c25.png",
+        "https://telegra.ph/file/2de1d4bf5058041453b39.png",
+        "https://telegra.ph/file/d3e2881ecaaa3c4ef5965.png"
+    ]
+};

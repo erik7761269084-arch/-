@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 82,
+    "title": "[ICE] 秘めたる雌の心を燈して (ANGEL倶楽部 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/ICE-秘めたる雌の心を燈して-ANGEL倶楽部-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f0a5128cd261b4dcb38a5.jpg",
+        "https://telegra.ph/file/6dea6d59369104a5ae868.jpg",
+        "https://telegra.ph/file/465f6dd87fc024380c697.jpg",
+        "https://telegra.ph/file/aaffead97851789617c8c.jpg",
+        "https://telegra.ph/file/87ea3a512cf572be48e2f.jpg",
+        "https://telegra.ph/file/1ece97aab22a3f45979c3.jpg",
+        "https://telegra.ph/file/9209f5b95990f7b57c683.jpg",
+        "https://telegra.ph/file/1b8cb76abd325d8a21ec6.jpg",
+        "https://telegra.ph/file/8f929beee418549a8ca6c.jpg",
+        "https://telegra.ph/file/97c39bcbf532b159340bd.jpg",
+        "https://telegra.ph/file/e048959ecd624669bcc23.jpg",
+        "https://telegra.ph/file/8dda1019bb96194ded9e2.jpg",
+        "https://telegra.ph/file/f3a8058aa87db30860d98.jpg",
+        "https://telegra.ph/file/bacfa1f2c8341b80ed959.jpg",
+        "https://telegra.ph/file/fa3dc2ab9e1cef526bcdd.jpg",
+        "https://telegra.ph/file/a58975318b94c87216fc8.jpg",
+        "https://telegra.ph/file/abf562d583ea53445e671.jpg",
+        "https://telegra.ph/file/b9ce080f6baea7bfbfa3e.jpg",
+        "https://telegra.ph/file/d3fceb6409a5d22fb8729.jpg",
+        "https://telegra.ph/file/f27f79c0d503bd960a9ab.jpg",
+        "https://telegra.ph/file/5bdbbd03a8117f0be9fda.jpg",
+        "https://telegra.ph/file/1f785587103f93ef3b65b.jpg",
+        "https://telegra.ph/file/ac3ff0b943fb817347ed3.jpg",
+        "https://telegra.ph/file/f2abbfb3bc80ff901c214.jpg"
+    ]
+};

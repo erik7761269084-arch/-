@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3247,
+    "title": "[てつのおとしご (チロリアン)] 成美ちゃんががんばる本 (東方Project)",
+    "sourceUrl": "https://telegra.ph/てつのおとしご-チロリアン-成美ちゃんががんばる本-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/703901edebc167f6feb3e.jpg",
+        "https://telegra.ph/file/2dc294d02c0916dee95fb.jpg",
+        "https://telegra.ph/file/74d7a3a7230a8c6b2dee7.jpg",
+        "https://telegra.ph/file/9f4a377ed359e3e03e8a8.jpg",
+        "https://telegra.ph/file/cd4ccacea45a75ddf4d68.jpg",
+        "https://telegra.ph/file/08d8a3ad6bf7a513bf7a9.jpg",
+        "https://telegra.ph/file/68068a1dd9ce17a3f17df.jpg",
+        "https://telegra.ph/file/f9579b90329c0b6b29d2e.jpg",
+        "https://telegra.ph/file/ab3ff97247840bddcff81.jpg",
+        "https://telegra.ph/file/563e423fc5578c2ce54a3.jpg",
+        "https://telegra.ph/file/219e1907aa7dba422c15c.jpg",
+        "https://telegra.ph/file/4fd9fa668fd2420796d94.jpg",
+        "https://telegra.ph/file/9d501b1ab93acaa04ab35.jpg",
+        "https://telegra.ph/file/02ff3c0344e35c73b1405.jpg",
+        "https://telegra.ph/file/52d4f1d771de43cea9134.jpg",
+        "https://telegra.ph/file/d3a999fed50471f94d4d1.jpg",
+        "https://telegra.ph/file/0a4fb3b1d2fae9031960d.jpg",
+        "https://telegra.ph/file/71a2736fca7399af32a82.jpg",
+        "https://telegra.ph/file/231d7a7a494cbbbb4cf28.jpg",
+        "https://telegra.ph/file/42e16a30ed92c5cdb85ef.jpg",
+        "https://telegra.ph/file/2741f7b8ac0a6a54d2727.jpg",
+        "https://telegra.ph/file/655193bea771720204d55.jpg",
+        "https://telegra.ph/file/7d59a68136c338ffd69dd.jpg",
+        "https://telegra.ph/file/989459a7bafafcc9cf79f.jpg",
+        "https://telegra.ph/file/277fe150bf21fdb8513c3.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

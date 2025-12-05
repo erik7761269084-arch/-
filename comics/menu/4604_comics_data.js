@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4604,
+    "title": "[てっこ] 「アソコのきゅんきゅんが止まらないのぉ…!」バレたらアウト!? 男装巨乳♀と痴漢満員電車 3",
+    "sourceUrl": "https://telegra.ph/てっこ-アソコのきゅんきゅんが止まらないのぉバレたらアウト-男装巨乳と痴漢満員電車-3-08-31",
+    "images": [
+        "https://telegra.ph/file/79b098e346d20c2c55c1f.jpg",
+        "https://telegra.ph/file/8e34d25b5c0eb7d0068be.jpg",
+        "https://telegra.ph/file/e3cfb95e6c6bde036147b.jpg",
+        "https://telegra.ph/file/83ae2896722d3976bb964.jpg",
+        "https://telegra.ph/file/e88eb3a937e7378474582.jpg",
+        "https://telegra.ph/file/c660b98a8a55fb1c80150.jpg",
+        "https://telegra.ph/file/1f53a84e1af7fc22932f5.jpg",
+        "https://telegra.ph/file/18056084ed193a43d1238.jpg",
+        "https://telegra.ph/file/afca0d8f409e90f1e80d7.jpg",
+        "https://telegra.ph/file/216d1bba3a3e29ff804f2.jpg",
+        "https://telegra.ph/file/06dd53985e46c85390dbe.jpg",
+        "https://telegra.ph/file/acc522f3c9920d1a050f3.jpg",
+        "https://telegra.ph/file/ef5051efe1309aabff287.jpg",
+        "https://telegra.ph/file/f17e0af09ba2e26ae16f2.jpg",
+        "https://telegra.ph/file/204c6e024d0eca2eb6d7e.jpg",
+        "https://telegra.ph/file/959202f60d2584d0b1ef3.jpg",
+        "https://telegra.ph/file/5316021b4243c5b1c5c6f.jpg",
+        "https://telegra.ph/file/4f59220edc0b7bbe044a8.jpg",
+        "https://telegra.ph/file/e8938f7c432e5f6d4d36f.jpg",
+        "https://telegra.ph/file/eaee89aa9090539837a07.jpg",
+        "https://telegra.ph/file/67af2975266cd4f958574.jpg",
+        "https://telegra.ph/file/15f3704f360300cc88d87.jpg",
+        "https://telegra.ph/file/e9ca8c72d27aabd5c0efa.jpg",
+        "https://telegra.ph/file/edffe12efba763bcc0ae3.jpg",
+        "https://telegra.ph/file/a7a2df78fbd8a4a7eb918.jpg",
+        "https://telegra.ph/file/d65e6557c91d4ba9f3481.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6311,
+    "title": "[丸居まる] 種付け♥とくたいせい",
+    "sourceUrl": "https://telegra.ph/丸居まる-種付けとくたいせい-08-31",
+    "images": [
+        "https://telegra.ph/file/6f86a3f7fd535c9ed82a9.jpg",
+        "https://telegra.ph/file/63b4d3301e8304f4840da.jpg",
+        "https://telegra.ph/file/95cce13327b3c5a0ad78e.jpg",
+        "https://telegra.ph/file/4173a023510f1960c798b.jpg",
+        "https://telegra.ph/file/cdd4f43a1b3404967b844.jpg",
+        "https://telegra.ph/file/c7ea0508ff01339053296.jpg",
+        "https://telegra.ph/file/8c6e8741b2d7081e0961b.jpg",
+        "https://telegra.ph/file/c81f3ffa6a4c51b4938cf.jpg",
+        "https://telegra.ph/file/8d85a8af6e5151861fdfe.jpg",
+        "https://telegra.ph/file/8b839a077bd260fd97391.jpg",
+        "https://telegra.ph/file/c7fb4ab5dc34ea2f33449.jpg",
+        "https://telegra.ph/file/ff97001f037f89818a6f5.jpg",
+        "https://telegra.ph/file/75fdcf21d62af60f36d5b.jpg",
+        "https://telegra.ph/file/a69d625b72e602a68bff9.jpg",
+        "https://telegra.ph/file/ae84a9b20d325fb5702a0.jpg",
+        "https://telegra.ph/file/6f73ad7f67de2e452ea29.jpg",
+        "https://telegra.ph/file/dcf2e3aca132c069bae7e.jpg",
+        "https://telegra.ph/file/8fd55ef9ee50f9defcede.jpg",
+        "https://telegra.ph/file/1444fc22a222dfe18af80.jpg",
+        "https://telegra.ph/file/0b7f131e71617f6d19204.jpg",
+        "https://telegra.ph/file/c4f49d091549e2b8007d7.jpg",
+        "https://telegra.ph/file/21ca0621ba1735784612c.jpg",
+        "https://telegra.ph/file/8017a4f05dd5d045b2e62.jpg",
+        "https://telegra.ph/file/55c364b3d0f28c049ef47.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3627,
+    "title": "[VYCMa] 蒙德温泉节",
+    "sourceUrl": "https://telegra.ph/VYCMa-蒙德温泉节-08-31",
+    "images": [
+        "https://telegra.ph/file/e4cf8d64c39095ce0d1d3.jpg",
+        "https://telegra.ph/file/f83851b61a5457f7da67e.jpg",
+        "https://telegra.ph/file/cbd9aa153617bd5b5fcaf.jpg",
+        "https://telegra.ph/file/47f4348004ee9eff8e525.jpg",
+        "https://telegra.ph/file/84bb90d51603a89efc583.jpg",
+        "https://telegra.ph/file/1d082c50ca13c5f1c48b1.jpg",
+        "https://telegra.ph/file/6cd12c550d5cac7e61f43.jpg",
+        "https://telegra.ph/file/32dc5916b2d9dfa2b5f45.jpg",
+        "https://telegra.ph/file/d3b4035e0d406a938ab47.jpg",
+        "https://telegra.ph/file/899886d9ecae804eca58b.jpg",
+        "https://telegra.ph/file/4f63e5d19ac04128972eb.jpg",
+        "https://telegra.ph/file/6a8297e155e1abdc6c032.jpg",
+        "https://telegra.ph/file/b23923181da8143b92a74.jpg",
+        "https://telegra.ph/file/0d2b563a809ad41d8a1f4.jpg",
+        "https://telegra.ph/file/70efa563c1ff275f17d9a.jpg",
+        "https://telegra.ph/file/e746297ef52a50dd68358.jpg",
+        "https://telegra.ph/file/a04f3603e8992ae217dcf.jpg",
+        "https://telegra.ph/file/33d2cde78d49623eeec64.jpg",
+        "https://telegra.ph/file/fcd3f6f3f4375dc0220f8.jpg",
+        "https://telegra.ph/file/d572d9dfc2d8b56f46ba8.jpg",
+        "https://telegra.ph/file/8fc66b41ef1ca5fe213ca.jpg",
+        "https://telegra.ph/file/7f4284a212db11eade058.jpg",
+        "https://telegra.ph/file/987ee0a8f84e6922a3bac.jpg"
+    ]
+};

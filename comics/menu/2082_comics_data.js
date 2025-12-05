@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2082,
+    "title": "[JJ.JJ] 57. \"Acerola and Lana\" (CN, Eng, JP, Kor, NoText)",
+    "sourceUrl": "https://telegra.ph/JJJJ-57-Acerola-and-Lana-CN-Eng-JP-Kor-NoText-08-31",
+    "images": [
+        "https://telegra.ph/file/0a0c3bb1d8198baef92bc.jpg",
+        "https://telegra.ph/file/edf9eff0f4f857accc75b.jpg",
+        "https://telegra.ph/file/63910451d7d4fca1d75fd.jpg",
+        "https://telegra.ph/file/1d24429bb0f6406647124.jpg",
+        "https://telegra.ph/file/1468c37c87a1462a7e4b0.jpg",
+        "https://telegra.ph/file/4e44f6890d5d6883dcd83.jpg",
+        "https://telegra.ph/file/83c8152b648214a560241.jpg",
+        "https://telegra.ph/file/69850674f008064be4b78.jpg",
+        "https://telegra.ph/file/df77c83b417532001291f.jpg",
+        "https://telegra.ph/file/b0cb41959dda5b1653f29.jpg",
+        "https://telegra.ph/file/0d8efdfd6144e313d2caa.jpg",
+        "https://telegra.ph/file/ab035f1d9f9ace7170f69.jpg",
+        "https://telegra.ph/file/354af21c66c9b559c8a5f.jpg",
+        "https://telegra.ph/file/d95739ee38714565e7179.jpg",
+        "https://telegra.ph/file/e4695319c0a1cc1e05120.jpg",
+        "https://telegra.ph/file/829679b604c68f8e4d94d.jpg",
+        "https://telegra.ph/file/800eac8cca6bb58927aa1.jpg",
+        "https://telegra.ph/file/2df5a4a29349e8057f9fb.jpg",
+        "https://telegra.ph/file/e8e4f24f3d488c4da5fcd.jpg",
+        "https://telegra.ph/file/4328c38d91b093cc11619.jpg",
+        "https://telegra.ph/file/ef60c001c9f0d3421773f.jpg",
+        "https://telegra.ph/file/7585297da963d23bceef9.jpg",
+        "https://telegra.ph/file/7fb231298e0466d4c9dd5.jpg",
+        "https://telegra.ph/file/eea6aed874b2a778d8499.jpg",
+        "https://telegra.ph/file/4607a6390d32480b39afe.jpg"
+    ]
+};

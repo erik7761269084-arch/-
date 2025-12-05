@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5419,
+    "title": "[シルエットさくら] Sirena (エログロス Vol.4)",
+    "sourceUrl": "https://telegra.ph/シルエットさくら-Sirena-エログロス-Vol4-08-31",
+    "images": [
+        "https://telegra.ph/file/852e80772e97ac19c128e.jpg",
+        "https://telegra.ph/file/c097e2acf693b91dad4ab.jpg",
+        "https://telegra.ph/file/8e6d9db38a64f154d7067.jpg",
+        "https://telegra.ph/file/a9cf116bb4187532872de.jpg",
+        "https://telegra.ph/file/9c122b21290098eac6834.jpg",
+        "https://telegra.ph/file/47158ff3c88441ba3bf45.jpg",
+        "https://telegra.ph/file/f0b9c964b93920ca5585e.jpg",
+        "https://telegra.ph/file/eb64e549644e2a5880a37.jpg",
+        "https://telegra.ph/file/82ce9f682ab58a8708a38.jpg",
+        "https://telegra.ph/file/68dba74496c70d07db379.jpg",
+        "https://telegra.ph/file/b5700ce17c24d9ecccd21.jpg",
+        "https://telegra.ph/file/73b658ba9c5fe21a348bc.jpg",
+        "https://telegra.ph/file/4fbaec753d6aa1c9923c9.jpg",
+        "https://telegra.ph/file/3882842c1c9d9dd9906d5.jpg",
+        "https://telegra.ph/file/45f1cf5099496aec9ff22.jpg",
+        "https://telegra.ph/file/862d96c13518684379636.jpg",
+        "https://telegra.ph/file/eaf475d1fcb831d92786c.jpg",
+        "https://telegra.ph/file/2cea4cedd0d0a8a48b673.jpg",
+        "https://telegra.ph/file/ca8bda8e1a5fb0e093bb0.jpg",
+        "https://telegra.ph/file/0d07043e56ea3c478462c.jpg",
+        "https://telegra.ph/file/4c63c1a20a7899de13e5b.jpg",
+        "https://telegra.ph/file/082138151db71b6ef7ed2.jpg",
+        "https://telegra.ph/file/bcf3fee3891825363d8b9.jpg",
+        "https://telegra.ph/file/270859f6428e813f91449.jpg"
+    ]
+};

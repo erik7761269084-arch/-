@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3003,
+    "title": "[東條土筆] 酩酊せんせい (COMIC BAVEL 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/東條土筆-酩酊せんせい-COMIC-BAVEL-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c317b8f99105ca2172ba2.jpg",
+        "https://telegra.ph/file/f6e3ba89efaab639dcb7b.jpg",
+        "https://telegra.ph/file/fefe57fb9d1eb88ad6a44.jpg",
+        "https://telegra.ph/file/10566356cc74d0f9a8f24.jpg",
+        "https://telegra.ph/file/f5aa3b75c0ea36415204f.jpg",
+        "https://telegra.ph/file/605ee66c9c9938a8c1500.jpg",
+        "https://telegra.ph/file/e15499ad660ad4d13940c.jpg",
+        "https://telegra.ph/file/c18d5bacebb0a27fb607f.jpg",
+        "https://telegra.ph/file/c38a3302e0af10b322271.jpg",
+        "https://telegra.ph/file/73020a629c9b1f16a5262.jpg",
+        "https://telegra.ph/file/951f278fc3ed70ffdb9f8.jpg",
+        "https://telegra.ph/file/e546f668b134ea378f651.jpg",
+        "https://telegra.ph/file/042930983e2c5d81cbed4.jpg",
+        "https://telegra.ph/file/e1dc0ef9ddafcb655202d.jpg",
+        "https://telegra.ph/file/366a851ee8a70a62fe584.jpg",
+        "https://telegra.ph/file/f7728a42a31ba4a6ece2e.jpg",
+        "https://telegra.ph/file/cce1b1461ac1ca0fb9e95.jpg",
+        "https://telegra.ph/file/0f86c4ed7fcf3d715c105.jpg",
+        "https://telegra.ph/file/cc8a352b2f32ef4f5932d.jpg",
+        "https://telegra.ph/file/f6997226ec5978a6d672a.jpg",
+        "https://telegra.ph/file/4310f25a19809bdf1b94e.jpg",
+        "https://telegra.ph/file/9bd8b2335454b635f5363.jpg",
+        "https://telegra.ph/file/dc0ec6e15d535d7ab2092.jpg",
+        "https://telegra.ph/file/53a183b1fba3258c23165.jpg",
+        "https://telegra.ph/file/2adbf20271477bdeaed17.jpg",
+        "https://telegra.ph/file/274dc595b93cf1964cc12.jpg"
+    ]
+};

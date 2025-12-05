@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1482,
+    "title": "[アヘ丸] 大切な2人を裏切るNTR (ANGEL 倶楽部 2021年5月号)",
+    "sourceUrl": "https://telegra.ph/アヘ丸-大切な2人を裏切るNTR-ANGEL-倶楽部-2021年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f78ae3be08eb9945bbc34.jpg",
+        "https://telegra.ph/file/e83b6301965b208e91251.jpg",
+        "https://telegra.ph/file/6662443f6330fef03c4d5.jpg",
+        "https://telegra.ph/file/b68ecf2d072bb4acdff26.jpg",
+        "https://telegra.ph/file/66f1db67fcfb07a5cc10e.jpg",
+        "https://telegra.ph/file/6995615aafb7c94cabccc.jpg",
+        "https://telegra.ph/file/bccd4e0f5568b4d7ec04a.jpg",
+        "https://telegra.ph/file/93d71aebab5dab1306906.jpg",
+        "https://telegra.ph/file/16d32ea01f661aa98be31.jpg",
+        "https://telegra.ph/file/d160539aeede57ab6a34a.jpg",
+        "https://telegra.ph/file/a162448d88c3e5acd31fd.jpg",
+        "https://telegra.ph/file/3a7261ed982b1f109e278.jpg",
+        "https://telegra.ph/file/8e59fb23006c1572b31c1.jpg",
+        "https://telegra.ph/file/947199328634f6476624a.jpg",
+        "https://telegra.ph/file/5f9784da30b0e566d4c68.jpg",
+        "https://telegra.ph/file/b326ebe2aaeed065a160a.jpg",
+        "https://telegra.ph/file/4b7e2a0d0032ed6a04c96.jpg",
+        "https://telegra.ph/file/feb4519c88986d5d1e6a8.jpg",
+        "https://telegra.ph/file/317b62aee0923766b9fb3.jpg",
+        "https://telegra.ph/file/ee16f63868621c287066a.jpg",
+        "https://telegra.ph/file/56d8f6873df73729e9d71.jpg",
+        "https://telegra.ph/file/ad3ae7e3152a642646da0.gif",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

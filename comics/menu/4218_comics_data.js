@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4218,
+    "title": "[はぴねすみるく (おびゃー)] BUKKAKE HAKUDAKU SUMIREKO (東方Project)",
+    "sourceUrl": "https://telegra.ph/はぴねすみるく-おびゃー-BUKKAKE-HAKUDAKU-SUMIREKO-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/b54aca1111f5a64d11f40.jpg",
+        "https://telegra.ph/file/cf66d73dba899316bdb2a.jpg",
+        "https://telegra.ph/file/8c997db040ea06bd22ca3.jpg",
+        "https://telegra.ph/file/5f62a426087b22c0aff96.jpg",
+        "https://telegra.ph/file/bb786c11804d9776443fb.jpg",
+        "https://telegra.ph/file/cfcbf1f0e14dfca0ccce2.jpg",
+        "https://telegra.ph/file/acf3e1414539f8e94d801.jpg",
+        "https://telegra.ph/file/d427867e04213441d0f54.jpg",
+        "https://telegra.ph/file/9bd152c22029b7f90e20c.jpg",
+        "https://telegra.ph/file/db514cb6d709571c10a14.jpg",
+        "https://telegra.ph/file/8acee44c0c1966928e587.jpg",
+        "https://telegra.ph/file/687f246dae5b8233f791b.jpg",
+        "https://telegra.ph/file/48c3557898ecb9cd113bb.jpg",
+        "https://telegra.ph/file/c743e42206db8526bfb2d.jpg",
+        "https://telegra.ph/file/0bb1f0775e1f546639bdb.jpg",
+        "https://telegra.ph/file/15a69c4a42d14a99ef483.jpg",
+        "https://telegra.ph/file/249303f2d499f0702e2e7.jpg",
+        "https://telegra.ph/file/3f216a486afd09679703a.jpg",
+        "https://telegra.ph/file/064d9b2c1ee1e3c81eb46.jpg",
+        "https://telegra.ph/file/7ff744bbcae7452add1c4.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/8aea9f418e1128f22b629.jpg",
+        "https://telegra.ph/file/e6ac3d89fe4ba71eb0d1e.jpg"
+    ]
+};

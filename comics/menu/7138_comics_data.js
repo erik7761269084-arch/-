@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7138,
+    "title": "桜流し",
+    "sourceUrl": "https://telegra.ph/桜流し-08-31",
+    "images": [
+        "https://telegra.ph/file/7dc73ae93856512475814.jpg",
+        "https://telegra.ph/file/8e1e2c14b60fd1750bfd4.jpg",
+        "https://telegra.ph/file/3517bbc59f6dfb075bc95.jpg",
+        "https://telegra.ph/file/5cbf66e65739078ec7fc2.jpg",
+        "https://telegra.ph/file/ef368add4662a659d839c.jpg",
+        "https://telegra.ph/file/13b5c1e1a77e0355a08d4.jpg",
+        "https://telegra.ph/file/6ae9eed8231da989b57a1.jpg",
+        "https://telegra.ph/file/7de74746f8bd43e1a407b.jpg",
+        "https://telegra.ph/file/517198ca3e447a00f4fb5.jpg",
+        "https://telegra.ph/file/5d09462fc5417a0a89b98.jpg",
+        "https://telegra.ph/file/9b19ba801e01a1582caf1.jpg",
+        "https://telegra.ph/file/95794c191047b3c804181.jpg",
+        "https://telegra.ph/file/28f61e306ccfb6e94dae2.jpg",
+        "https://telegra.ph/file/554b49dc77fc6bc8215d2.jpg",
+        "https://telegra.ph/file/bfc44c5b264bfaaf4bd6c.jpg",
+        "https://telegra.ph/file/1855ae8458c5650da4fa4.jpg",
+        "https://telegra.ph/file/038a5def69a7e1fe13c00.jpg",
+        "https://telegra.ph/file/1acb58cf0f32f362225a9.jpg",
+        "https://telegra.ph/file/8bf3b24b824f302e5e6ee.jpg",
+        "https://telegra.ph/file/bbddd5c8cdf84db387279.jpg",
+        "https://telegra.ph/file/adf8a8855ceb5aa787101.jpg",
+        "https://telegra.ph/file/f54bae92669b999950323.jpg",
+        "https://telegra.ph/file/d0f0611eec54c97c9f42a.jpg"
+    ]
+};

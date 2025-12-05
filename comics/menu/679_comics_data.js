@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 679,
+    "title": "(C93) [平成茶々丸堂 (N.O-茶々丸)] 帰宅巣挿",
+    "sourceUrl": "https://telegra.ph/C93-平成茶々丸堂-NO-茶々丸-帰宅巣挿-08-31",
+    "images": [
+        "https://telegra.ph/file/df8d358031a9d003d2b26.jpg",
+        "https://telegra.ph/file/fce1a8247389ab48b4e52.jpg",
+        "https://telegra.ph/file/d37ef06e974fb5fdf633f.jpg",
+        "https://telegra.ph/file/a7d6c26f660b5317aa379.jpg",
+        "https://telegra.ph/file/4a19910d963bc9e151e2f.jpg",
+        "https://telegra.ph/file/73a642849925418d630a9.jpg",
+        "https://telegra.ph/file/1a8f5290fb2425e625c54.jpg",
+        "https://telegra.ph/file/0a8f726c6d8ffa22c8b93.jpg",
+        "https://telegra.ph/file/2a6ceb85177d173642f32.jpg",
+        "https://telegra.ph/file/d98881b583f72f4f46651.jpg",
+        "https://telegra.ph/file/80b5c3278cb0461d46237.jpg",
+        "https://telegra.ph/file/fabb8392ba18fa79c4060.jpg",
+        "https://telegra.ph/file/2c1b55d29ac3d9b47629c.jpg",
+        "https://telegra.ph/file/ba561062eb4d1aa4dabfe.jpg",
+        "https://telegra.ph/file/10f8d19c18173434d4d3e.jpg",
+        "https://telegra.ph/file/895d243a7cbe65830010b.jpg",
+        "https://telegra.ph/file/c19c9cf41c9ba1ff70f96.jpg",
+        "https://telegra.ph/file/6784e1d9ee4a0de130d0f.jpg",
+        "https://telegra.ph/file/490aa7442327218446d66.jpg",
+        "https://telegra.ph/file/0df2f21d219f3ffa62670.jpg",
+        "https://telegra.ph/file/21c391a577e240d392e70.jpg",
+        "https://telegra.ph/file/76107d5dae688fcb0b611.jpg",
+        "https://telegra.ph/file/6abcf5013aa11eb13d7c4.jpg"
+    ]
+};

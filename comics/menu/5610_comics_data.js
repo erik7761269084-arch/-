@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5610,
+    "title": "[冬野みかん] ぷりてんどがーる",
+    "sourceUrl": "https://telegra.ph/冬野みかん-ふりてんとかーる-08-31",
+    "images": [
+        "https://telegra.ph/file/67985f024d22650984f18.jpg",
+        "https://telegra.ph/file/f5cc943d4dbbfa7e200cb.jpg",
+        "https://telegra.ph/file/3190ddff616a27a74804e.jpg",
+        "https://telegra.ph/file/58ddd2b24a78f4929b61d.jpg",
+        "https://telegra.ph/file/99341edb276a41c7623dc.jpg",
+        "https://telegra.ph/file/18c11487df4ef0d3f732d.jpg",
+        "https://telegra.ph/file/d95aa007545065993abb7.jpg",
+        "https://telegra.ph/file/301455c30ad8969f7577e.jpg",
+        "https://telegra.ph/file/e9d9707bb6d367bfb6e6e.jpg",
+        "https://telegra.ph/file/888db5b379762c3cf5d94.jpg",
+        "https://telegra.ph/file/5a98501e06efb0734f9c9.jpg",
+        "https://telegra.ph/file/9a5b20707431f253ee161.jpg",
+        "https://telegra.ph/file/9ee973722dd3cfbc78e03.jpg",
+        "https://telegra.ph/file/054d7f17d6ad095d40be0.jpg",
+        "https://telegra.ph/file/f5197b5a62cbc6a2f131a.jpg",
+        "https://telegra.ph/file/b646a7ff041c7d107434f.jpg",
+        "https://telegra.ph/file/21f7133508b5bdc382710.jpg",
+        "https://telegra.ph/file/f5a6aba1acb1f46fcf983.jpg",
+        "https://telegra.ph/file/7d8ed575ffc0207efa282.jpg",
+        "https://telegra.ph/file/3c2c14f533ef30cb3504e.jpg",
+        "https://telegra.ph/file/fe06e8aeb0ab48ac70d00.jpg",
+        "https://telegra.ph/file/56735d522c84d71e90916.jpg",
+        "https://telegra.ph/file/7b103c42005ba4f8ddb43.jpg",
+        "https://telegra.ph/file/e3d079f30b20c3217c997.jpg"
+    ]
+};

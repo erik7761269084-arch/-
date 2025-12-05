@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1800,
+    "title": "[皆瀬たまき] エミこん! (コミックアンリアル 2022年2月号 Vol.95)",
+    "sourceUrl": "https://telegra.ph/皆瀬たまき-エミこん-コミックアンリアル-2022年2月号-Vol95-08-31",
+    "images": [
+        "https://telegra.ph/file/22169ed692ee5df95069a.jpg",
+        "https://telegra.ph/file/511a610fd9d367a30ae21.jpg",
+        "https://telegra.ph/file/79623907b19fb5688d2c6.jpg",
+        "https://telegra.ph/file/8ff6b2805cbb554901b98.jpg",
+        "https://telegra.ph/file/709249e2bfc2134349923.jpg",
+        "https://telegra.ph/file/268f805c332780beae22f.jpg",
+        "https://telegra.ph/file/14c74b4ce4d4781217018.jpg",
+        "https://telegra.ph/file/5fb94573b8ea98d0c70fb.jpg",
+        "https://telegra.ph/file/058fd2b66263813d741ed.jpg",
+        "https://telegra.ph/file/f916130e54b4c6d76dea3.jpg",
+        "https://telegra.ph/file/23de0f614fd0e8de1d053.jpg",
+        "https://telegra.ph/file/2afa60126fc8560235c07.jpg",
+        "https://telegra.ph/file/f9d6218a106a9ac3f0d8f.jpg",
+        "https://telegra.ph/file/a6f10506b6724b543e0bd.jpg",
+        "https://telegra.ph/file/f902bcdfac14d07a21663.jpg",
+        "https://telegra.ph/file/b1186b52bbeb1bbf83431.jpg",
+        "https://telegra.ph/file/d8c65043d2996be666dcf.jpg",
+        "https://telegra.ph/file/f60784dd7e4c4a9190fa5.jpg",
+        "https://telegra.ph/file/91e284b61bea1a6da0ed1.jpg",
+        "https://telegra.ph/file/195a7c149e11f406d0ea8.jpg",
+        "https://telegra.ph/file/8979a1d384457d0a87108.jpg",
+        "https://telegra.ph/file/19c4487a3e8827daf7edd.jpg",
+        "https://telegra.ph/file/e8e657b04eb99241b3b11.jpg",
+        "https://telegra.ph/file/1921e5ab13f60da549eb5.jpg",
+        "https://telegra.ph/file/12a205a5d8e9d9e5a4fd7.jpg"
+    ]
+};

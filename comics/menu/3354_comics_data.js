@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3354,
+    "title": "[龍之咲 (全紅白子)] 天城の肉欲の夜 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/龍之咲-全紅白子-天城の肉欲の夜-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/ab93a5c917ac61d4a1c98.jpg",
+        "https://telegra.ph/file/bf9b580f0141de3470ffc.jpg",
+        "https://telegra.ph/file/8b2ade538a6fb5e1e9fcf.jpg",
+        "https://telegra.ph/file/04e3a821f3ebefcdc67e4.jpg",
+        "https://telegra.ph/file/ba05d8bd62c8f314a4b88.jpg",
+        "https://telegra.ph/file/6fdb2d55a31998119f504.jpg",
+        "https://telegra.ph/file/5b2f5663b19c81a46c753.jpg",
+        "https://telegra.ph/file/a813dd68bc58f17379185.jpg",
+        "https://telegra.ph/file/3c89f1b5d13d7cbe8108a.jpg",
+        "https://telegra.ph/file/e414a7e74b9021aa048ff.jpg",
+        "https://telegra.ph/file/fb83dd0f30c7aab8a7f26.jpg",
+        "https://telegra.ph/file/f4f317c90c31433b390ad.jpg",
+        "https://telegra.ph/file/1325fa2590ebfddfc5d88.jpg",
+        "https://telegra.ph/file/cd5bac2bba8564e54e7b9.jpg",
+        "https://telegra.ph/file/d86147f989bebb8e9b01d.jpg",
+        "https://telegra.ph/file/22f89811fc9ae1769ded6.jpg",
+        "https://telegra.ph/file/0bb316b393fcc169fd276.jpg",
+        "https://telegra.ph/file/4d1343c7ee0bf4e8f7b66.jpg",
+        "https://telegra.ph/file/8501935c83394cc179d43.jpg",
+        "https://telegra.ph/file/32edfad3248f7e77d3426.jpg",
+        "https://telegra.ph/file/a56b70824278bba98b432.jpg",
+        "https://telegra.ph/file/b11d5f760608249d7954c.jpg",
+        "https://telegra.ph/file/33760faa9e9da9963a870.jpg",
+        "https://telegra.ph/file/bf99da580363806dd5f81.jpg",
+        "https://telegra.ph/file/9eb0a6f05131d719f68b8.jpg",
+        "https://telegra.ph/file/d9a7ab80f224ffad5ef8c.jpg"
+    ]
+};

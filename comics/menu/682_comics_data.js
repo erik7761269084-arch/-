@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 682,
+    "title": "[珊瑚] 地味でビッチな女の売春",
+    "sourceUrl": "https://telegra.ph/珊瑚-地味でビッチな女の売春-08-31",
+    "images": [
+        "https://telegra.ph/file/5c098fcd034aa2945d853.jpg",
+        "https://telegra.ph/file/d11b52135fffe0aab7d81.jpg",
+        "https://telegra.ph/file/32c1b350f0fb053c94442.jpg",
+        "https://telegra.ph/file/748aa4c15b2ab137ab25f.jpg",
+        "https://telegra.ph/file/70d4faaff7562a8b276e2.jpg",
+        "https://telegra.ph/file/e454d3eff6592c1194a8c.jpg",
+        "https://telegra.ph/file/ed8e1202a1090fb6f959d.jpg",
+        "https://telegra.ph/file/dac187556d99d1804873e.jpg",
+        "https://telegra.ph/file/34c2b6a2d739c35742db4.jpg",
+        "https://telegra.ph/file/165428b02ee4e67f8f3e1.jpg",
+        "https://telegra.ph/file/19a87ad89f6c5e3cc8f68.jpg",
+        "https://telegra.ph/file/d9efcbf581cce54a809ab.jpg",
+        "https://telegra.ph/file/776d465a1a4162777e31a.jpg",
+        "https://telegra.ph/file/7ca5c38e1c09b956ac949.jpg",
+        "https://telegra.ph/file/aa1d2c6bb9089ad47c157.jpg",
+        "https://telegra.ph/file/591acc2055d560605b51c.jpg",
+        "https://telegra.ph/file/ff0842ebeea1099415cff.jpg",
+        "https://telegra.ph/file/53f5f343f3be5a4eb4269.jpg",
+        "https://telegra.ph/file/cf7431899068b228508fa.jpg",
+        "https://telegra.ph/file/eb5fb348a0a10e8175028.jpg",
+        "https://telegra.ph/file/f23b24776de32e6868925.jpg",
+        "https://telegra.ph/file/116f11f173634f3d8020c.jpg",
+        "https://telegra.ph/file/dcc427ed940b376a04027.jpg",
+        "https://telegra.ph/file/78b5c1613c48859cec042.jpg"
+    ]
+};

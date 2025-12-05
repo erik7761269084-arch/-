@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1925,
+    "title": "[アヘ丸] カーテン越しのケツ穴NTR (NTRな世界)",
+    "sourceUrl": "https://telegra.ph/アヘ丸-カーテン越しのケツ穴NTR-NTRな世界-08-31",
+    "images": [
+        "https://telegra.ph/file/4c91c94cf31377cfaf8fe.jpg",
+        "https://telegra.ph/file/b1081de174e99f447da6d.jpg",
+        "https://telegra.ph/file/ed3cdd7d204ff958562f6.jpg",
+        "https://telegra.ph/file/5a342a4fcfbdb199d75b7.jpg",
+        "https://telegra.ph/file/cbf5c6b6e1e43273db13f.jpg",
+        "https://telegra.ph/file/03a1d37bd7ab9e6cec1fc.jpg",
+        "https://telegra.ph/file/011940f15d6894f3b0e15.jpg",
+        "https://telegra.ph/file/b37059646829fe2f2c45a.jpg",
+        "https://telegra.ph/file/85ce2ec681f688845b50c.jpg",
+        "https://telegra.ph/file/e3aa1b055ea543185ee23.jpg",
+        "https://telegra.ph/file/bf3675cbdaa91c314c638.jpg",
+        "https://telegra.ph/file/fe9e1ca7d7de1f0a5debf.jpg",
+        "https://telegra.ph/file/66135318e7df6308be75f.jpg",
+        "https://telegra.ph/file/fab1ac9538e220e8bdd05.jpg",
+        "https://telegra.ph/file/2a77f8657b03e7849f6f2.jpg",
+        "https://telegra.ph/file/9f9c965e0a9a1fc4d4842.jpg",
+        "https://telegra.ph/file/440034570652c4811a1ec.jpg",
+        "https://telegra.ph/file/33adeecf146fdbe7577d2.jpg",
+        "https://telegra.ph/file/114f739aae15299765d20.jpg",
+        "https://telegra.ph/file/024567fecf21045055b92.jpg",
+        "https://telegra.ph/file/5a02d4d098c34746eee50.jpg",
+        "https://telegra.ph/file/a483622a21183193fbd07.jpg",
+        "https://telegra.ph/file/335aa77b07e666d111484.gif"
+    ]
+};

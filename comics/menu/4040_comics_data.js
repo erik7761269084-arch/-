@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4040,
+    "title": "(COMIC1☆17) [萌姫連合 (xin、obiwan)] カーニバル31-監禁特異点 サマーキャンプ快楽天 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/COMIC117-萌姫連合-xinobiwan-カーニバル31-監禁特異点-サマーキャンプ快楽天-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/374328a1eb06adea751af.jpg",
+        "https://telegra.ph/file/d4a6efb19af091bc7df0f.jpg",
+        "https://telegra.ph/file/99d2225b45171b1cd5836.jpg",
+        "https://telegra.ph/file/89cd2a2b45748cc497ce3.jpg",
+        "https://telegra.ph/file/2499e385f84e8853a6819.jpg",
+        "https://telegra.ph/file/36bf2ad027dd6f977b418.jpg",
+        "https://telegra.ph/file/31db113398ba828911ed6.jpg",
+        "https://telegra.ph/file/c04c63485ed65e0e81439.jpg",
+        "https://telegra.ph/file/4e6b6f3240dddd57cc616.jpg",
+        "https://telegra.ph/file/6bdc9020be64a59a937c9.jpg",
+        "https://telegra.ph/file/e841510c84faf892375e5.jpg",
+        "https://telegra.ph/file/351e6dc902cb16f108371.jpg",
+        "https://telegra.ph/file/75d10848d6958ba2ae50a.jpg",
+        "https://telegra.ph/file/e4ac84399a160213bfa4a.jpg",
+        "https://telegra.ph/file/811522b5f59f39be95c2d.jpg",
+        "https://telegra.ph/file/189296d433b704b77d0e6.jpg",
+        "https://telegra.ph/file/8c478f0ee298e47429dc7.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/739cfa05d0bdd035b18bd.png",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/f27e1bf1a5a4ba0aad9a8.jpg"
+    ]
+};

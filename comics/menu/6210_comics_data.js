@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6210,
+    "title": "[長代ルージュ] 奇跡の好きを遺したい",
+    "sourceUrl": "https://telegra.ph/長代ルージュ-奇跡の好きを遺したい-08-31",
+    "images": [
+        "https://telegra.ph/file/614e13a738ac725c79644.jpg",
+        "https://telegra.ph/file/e20f3ceb82751ac26282c.jpg",
+        "https://telegra.ph/file/7340327744259ccca75d7.jpg",
+        "https://telegra.ph/file/eccee6fd5afe951a62287.jpg",
+        "https://telegra.ph/file/334655af863246e2c4e73.jpg",
+        "https://telegra.ph/file/c00f811533882f28dc7ff.jpg",
+        "https://telegra.ph/file/9d2ae10ebd714d31a5b37.jpg",
+        "https://telegra.ph/file/f2f0af984978a55aebd1d.jpg",
+        "https://telegra.ph/file/85778fee1715832eb526a.jpg",
+        "https://telegra.ph/file/2a7110b75a9cc4d4c04e3.jpg",
+        "https://telegra.ph/file/15baa7193e1550e2d75b7.jpg",
+        "https://telegra.ph/file/7987c1a279662178a4548.jpg",
+        "https://telegra.ph/file/97aad3f1358fb1b5934ab.jpg",
+        "https://telegra.ph/file/1adbab1288859b5f6918e.jpg",
+        "https://telegra.ph/file/1faab172ed58c6dda0329.jpg",
+        "https://telegra.ph/file/2f24fcba256396ec39102.jpg",
+        "https://telegra.ph/file/6b833ae725696e37ec425.jpg",
+        "https://telegra.ph/file/25b66fe9fc8f997c27cbb.jpg",
+        "https://telegra.ph/file/1ac71ba707347cd07bbd8.jpg",
+        "https://telegra.ph/file/83d8de8b7836feaf7460d.jpg",
+        "https://telegra.ph/file/58172206e325027ecd319.jpg",
+        "https://telegra.ph/file/2554b27a8a44f4930c469.jpg",
+        "https://telegra.ph/file/5de46c683846c6f51be2a.jpg",
+        "https://telegra.ph/file/2157a04d8c683fbc3d9f3.jpg",
+        "https://telegra.ph/file/44333fe1c9cbff41f509b.jpg"
+    ]
+};

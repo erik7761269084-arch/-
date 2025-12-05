@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4824,
+    "title": "[もず] 凸凹コンプレックス (COMIC 快楽天ビースト 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/もず-凸凹コンプレックス-COMIC-快楽天ビースト-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/5cd61154bfff5f8ebc013.jpg",
+        "https://telegra.ph/file/17c132f67f8faa8ca7c11.jpg",
+        "https://telegra.ph/file/67ef3a3249b4f252619af.jpg",
+        "https://telegra.ph/file/29899ad6f63eb1ee9ca16.jpg",
+        "https://telegra.ph/file/12d0e7206f0b3a0e1a176.jpg",
+        "https://telegra.ph/file/1a6f80a5eb7957ff57d68.jpg",
+        "https://telegra.ph/file/c4071a6ddf035b815db4c.jpg",
+        "https://telegra.ph/file/589e2d1751263833f4ccf.jpg",
+        "https://telegra.ph/file/eae5f9661ed9a82ffc77b.jpg",
+        "https://telegra.ph/file/93cd30daa42162d464ef7.jpg",
+        "https://telegra.ph/file/fe26f8603e92d75a16ee2.jpg",
+        "https://telegra.ph/file/4f04fb6d3cf5938b6409a.jpg",
+        "https://telegra.ph/file/f411c937003e91a69289e.jpg",
+        "https://telegra.ph/file/efe0000ae74906270cf30.jpg",
+        "https://telegra.ph/file/c3d7f1e3404d6c23ac4a6.jpg",
+        "https://telegra.ph/file/3db81459ac6a5a6801603.jpg",
+        "https://telegra.ph/file/693b1b67cc91a8ed593f2.jpg",
+        "https://telegra.ph/file/3bef90e1e5fd7dce44e4a.jpg",
+        "https://telegra.ph/file/ae3da68e748c8f3dad914.jpg",
+        "https://telegra.ph/file/a887a0c28fae89db42a08.jpg",
+        "https://telegra.ph/file/4ce4d153eaa043dbfea3d.jpg",
+        "https://telegra.ph/file/280a57493fe1289b84be1.jpg",
+        "https://telegra.ph/file/036fdd32334459a0eff0a.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1729,
+    "title": "[桃汁庭園 (桃雲)] おとなのかいだん",
+    "sourceUrl": "https://telegra.ph/桃汁庭園-桃雲-おとなのかいだん-08-31-2",
+    "images": [
+        "https://telegra.ph/file/fad541df1cc44aad4f513.jpg",
+        "https://telegra.ph/file/97f2b98f6ea6e3e7231d5.jpg",
+        "https://telegra.ph/file/d026f717e947ac4211a38.jpg",
+        "https://telegra.ph/file/de16707b510e154cfe383.jpg",
+        "https://telegra.ph/file/e962371e1de54725a04a0.jpg",
+        "https://telegra.ph/file/8b6e34bdd3d83d73c207d.jpg",
+        "https://telegra.ph/file/abbaafb5e6aa2ef807463.jpg",
+        "https://telegra.ph/file/4e68b889bfc3f579db4d4.jpg",
+        "https://telegra.ph/file/fc78992816f7de1acb389.jpg",
+        "https://telegra.ph/file/473ce7dcacf283fd8b71a.jpg",
+        "https://telegra.ph/file/9f2e0691897673c137f56.jpg",
+        "https://telegra.ph/file/03a41e1ff5947a2d90cb7.jpg",
+        "https://telegra.ph/file/7eb169ac1a168084e5c6a.jpg",
+        "https://telegra.ph/file/fd747130bdaa7086d4276.jpg",
+        "https://telegra.ph/file/aead084cb7b12fb6b6034.jpg",
+        "https://telegra.ph/file/3a36ddc19af4d1a9d705b.jpg",
+        "https://telegra.ph/file/d54fbc96e95cec608a9d2.jpg",
+        "https://telegra.ph/file/6147693a31cec3eb23f90.jpg",
+        "https://telegra.ph/file/89900afa96467dd416d27.jpg",
+        "https://telegra.ph/file/5b0d2aaae8157a0ca38c9.jpg",
+        "https://telegra.ph/file/b4cc129834d0cbf00b01b.jpg",
+        "https://telegra.ph/file/5efd8f4e7448881d8312f.jpg",
+        "https://telegra.ph/file/d5de2d1534fc58ed3506e.jpg",
+        "https://telegra.ph/file/c35539b579ab195731c33.jpg",
+        "https://telegra.ph/file/cd96e7bac9fead4d4591a.jpg"
+    ]
+};

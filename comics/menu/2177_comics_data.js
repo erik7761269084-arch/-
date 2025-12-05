@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2177,
+    "title": "(C94) [あとりえひなた (ひなた悠)] ロリまん売買日記 さんにんめ",
+    "sourceUrl": "https://telegra.ph/C94-あとりえひなた-ひなた悠-ロリまん売買日記-さんにんめ-08-31",
+    "images": [
+        "https://telegra.ph/file/204c8d934c76df26f01b2.jpg",
+        "https://telegra.ph/file/55bec2e0abae44e9497f5.jpg",
+        "https://telegra.ph/file/3a75af238f3df332d9c61.jpg",
+        "https://telegra.ph/file/00968ece8361e37761ada.jpg",
+        "https://telegra.ph/file/abaabff7e3a0bcad69107.jpg",
+        "https://telegra.ph/file/fa27ebc2f631f65553cec.jpg",
+        "https://telegra.ph/file/3ad31bb5872e35b011f65.jpg",
+        "https://telegra.ph/file/24b0ea99e45eb82db5c22.jpg",
+        "https://telegra.ph/file/d65d8b49eddb9aafb24b3.jpg",
+        "https://telegra.ph/file/197933f20cd2af76d249d.jpg",
+        "https://telegra.ph/file/5e4c913df4e968abb36ff.jpg",
+        "https://telegra.ph/file/0a457bdf6b3be3081bea0.jpg",
+        "https://telegra.ph/file/291fb168e1b5a85a74dc2.jpg",
+        "https://telegra.ph/file/e5c4f229c6a8d45f32d6b.jpg",
+        "https://telegra.ph/file/734b55d6bded9ce5c7341.jpg",
+        "https://telegra.ph/file/be01c43270a9fbf439654.jpg",
+        "https://telegra.ph/file/749e3f21d7c312240eebd.jpg",
+        "https://telegra.ph/file/869d2f173961dc0dfe4c9.jpg",
+        "https://telegra.ph/file/333b64b2db279fc6e6860.jpg",
+        "https://telegra.ph/file/3451ea1bb9bfaf32728f8.jpg",
+        "https://telegra.ph/file/39ff0050c92e3baa732a0.jpg",
+        "https://telegra.ph/file/e9e0fbe7f04e91785f128.jpg",
+        "https://telegra.ph/file/19746a86fd8abaa10478c.jpg"
+    ]
+};

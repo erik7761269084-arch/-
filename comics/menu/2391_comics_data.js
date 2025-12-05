@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2391,
+    "title": "[ジュースボックス工場 (ジュナジュナジュース)] ドスケベドリンカ☆",
+    "sourceUrl": "https://telegra.ph/ジュースボックス工場-ジュナジュナジュース-ドスケベドリンカ-08-31",
+    "images": [
+        "https://telegra.ph/file/e0c577090e46f90e182c5.jpg",
+        "https://telegra.ph/file/4c04666d62629200b79be.jpg",
+        "https://telegra.ph/file/845c79d32f09a1fd83937.jpg",
+        "https://telegra.ph/file/a7666d48ea91410ea2a07.jpg",
+        "https://telegra.ph/file/e0af43006d961d6abee7b.jpg",
+        "https://telegra.ph/file/2be4e3ec7c197c5c0e2c6.jpg",
+        "https://telegra.ph/file/7add9e18ce0c0ff226c7a.jpg",
+        "https://telegra.ph/file/2d13ec1e8ee64ef3111b8.jpg",
+        "https://telegra.ph/file/d27a1a69460ad848f6960.jpg",
+        "https://telegra.ph/file/ae78f2dff41c20c648cfe.jpg",
+        "https://telegra.ph/file/ae05967564b10c41310fd.jpg",
+        "https://telegra.ph/file/e78d3bf97eb9e4d5f288d.jpg",
+        "https://telegra.ph/file/f525fc59b05f30c9ed13f.jpg",
+        "https://telegra.ph/file/049cb42c183170d016d1c.jpg",
+        "https://telegra.ph/file/099f84178571aad772c07.jpg",
+        "https://telegra.ph/file/4c44f732a0a86268b1a20.jpg",
+        "https://telegra.ph/file/9778389f7a4ced7655c19.jpg",
+        "https://telegra.ph/file/cbbab1c0c2ff7d33d5d32.jpg",
+        "https://telegra.ph/file/64f323a629565406740a2.jpg",
+        "https://telegra.ph/file/5a38f4a4fcc9c3c73dea2.jpg",
+        "https://telegra.ph/file/da1b867083162eb3b1ee1.jpg",
+        "https://telegra.ph/file/bff6925e7ba3bdeed2378.jpg",
+        "https://telegra.ph/file/1a97718d71908bf6c311f.jpg",
+        "https://telegra.ph/file/594448058e5c35f0a4239.jpg"
+    ]
+};

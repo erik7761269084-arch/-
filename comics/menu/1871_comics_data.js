@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1871,
+    "title": "[エリア14 (かせい)] 淫魔ちゃんはガマンできない",
+    "sourceUrl": "https://telegra.ph/エリア14-かせい-淫魔ちゃんはガマンできない-08-31",
+    "images": [
+        "https://telegra.ph/file/32bc61f50207f1eae6441.jpg",
+        "https://telegra.ph/file/ff8184fdcb09d3769a05c.jpg",
+        "https://telegra.ph/file/f9d228959fe6c25bf05ba.jpg",
+        "https://telegra.ph/file/9a2e0bd945b8881a3e384.jpg",
+        "https://telegra.ph/file/25d810659b064b1b3f3b9.jpg",
+        "https://telegra.ph/file/9c9c2a0c8f0c7b1ff2c3b.jpg",
+        "https://telegra.ph/file/ffbe02fa604ab0ea029d4.jpg",
+        "https://telegra.ph/file/346d12d082d1fdc0c20a9.jpg",
+        "https://telegra.ph/file/6b38d7a54603b03881813.jpg",
+        "https://telegra.ph/file/21e94326260c9c2bf73d7.jpg",
+        "https://telegra.ph/file/75f79fd07175ffc68e5c2.jpg",
+        "https://telegra.ph/file/edbe56b59f6cb41a31abe.jpg",
+        "https://telegra.ph/file/38bfb876b4debcc9d20c9.jpg",
+        "https://telegra.ph/file/3ded3c7d1fb159327ee2f.jpg",
+        "https://telegra.ph/file/f9d9d5ca6e40146a19e7d.jpg",
+        "https://telegra.ph/file/31431485858cb21fc7673.jpg",
+        "https://telegra.ph/file/9065ee021accce42191e8.jpg",
+        "https://telegra.ph/file/0b4b0dc6a4ea1723e924a.jpg",
+        "https://telegra.ph/file/d64f322b5a7e2a620a6b2.jpg",
+        "https://telegra.ph/file/b2323b8c6132e8c649f78.jpg",
+        "https://telegra.ph/file/649a6fdd01161c4393c14.jpg",
+        "https://telegra.ph/file/520cfb9ecd20e7bb4fab8.jpg",
+        "https://telegra.ph/file/0ac1092dfc66161cda0a6.jpg",
+        "https://telegra.ph/file/29318b2c232a96e3b202c.jpg",
+        "https://telegra.ph/file/b38ccd27df4985326ee7e.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3567,
+    "title": "[ウラマコト] 素人4人SM体験",
+    "sourceUrl": "https://telegra.ph/ウラマコト-素人4人SM体験-08-31",
+    "images": [
+        "https://telegra.ph/file/3b53924d314610e1aa90c.jpg",
+        "https://telegra.ph/file/cd6139ea6d4c8646dc97b.jpg",
+        "https://telegra.ph/file/2a5f0b15ec5f2a5085fa0.jpg",
+        "https://telegra.ph/file/32bccc5ff2237da72c2ca.jpg",
+        "https://telegra.ph/file/54dfd4d7bdff4deae3fcf.jpg",
+        "https://telegra.ph/file/40d1b5518b9867221092e.jpg",
+        "https://telegra.ph/file/f8001111f03ab15dae7c1.jpg",
+        "https://telegra.ph/file/732152897a04eb6134618.jpg",
+        "https://telegra.ph/file/8aa1fe8c91d8a4f3c0bc0.jpg",
+        "https://telegra.ph/file/0468f48ac9e435fa38ef8.jpg",
+        "https://telegra.ph/file/c1cacc795c26f26564d47.jpg",
+        "https://telegra.ph/file/92c9c4f0ad9fa6ee279ce.jpg",
+        "https://telegra.ph/file/d463414bf90dd54b5186e.jpg",
+        "https://telegra.ph/file/38617a043a1865c0cc1e8.jpg",
+        "https://telegra.ph/file/ccdc3faae92014b6fd980.jpg",
+        "https://telegra.ph/file/1b13ddaa104a76b7a64f8.jpg",
+        "https://telegra.ph/file/5b9ca0d71760f5d2e8aa1.jpg",
+        "https://telegra.ph/file/57e244f1be9bc0d5eac8e.jpg",
+        "https://telegra.ph/file/612490321c6d492347a6b.jpg",
+        "https://telegra.ph/file/fd16a48f7b950170084a6.jpg",
+        "https://telegra.ph/file/0e5cdebc1f943f160e1a2.jpg",
+        "https://telegra.ph/file/13c762b4e796153deb36a.jpg",
+        "https://telegra.ph/file/6bec93edbd2d7323cb62b.jpg",
+        "https://telegra.ph/file/48988609a165faf9dfbea.jpg"
+    ]
+};

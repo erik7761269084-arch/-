@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 89,
+    "title": "[一弘] 陰キャのくせに (コミックホットミルク 2020年9月号)",
+    "sourceUrl": "https://telegra.ph/一弘-陰キャのくせに-コミックホットミルク-2020年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/85b8f3cf04e75e7719db6.jpg",
+        "https://telegra.ph/file/5f6291d1e739d29de2b94.jpg",
+        "https://telegra.ph/file/8bde6114ff83448646dee.jpg",
+        "https://telegra.ph/file/109446d9b5aabd42cf6c6.jpg",
+        "https://telegra.ph/file/e1197b4ad0bfa7733643f.jpg",
+        "https://telegra.ph/file/d25b17e44742fb8a4de01.jpg",
+        "https://telegra.ph/file/4dc1d12050b90b5f36420.jpg",
+        "https://telegra.ph/file/81247be72f902e7f4f913.jpg",
+        "https://telegra.ph/file/28c895a31643781586a6b.jpg",
+        "https://telegra.ph/file/b0c7298eb13e1e31bb571.jpg",
+        "https://telegra.ph/file/d2e18f77ad36d462e3ea5.jpg",
+        "https://telegra.ph/file/3f74ec2b943915343e855.jpg",
+        "https://telegra.ph/file/e91fe5dc48d37fa312070.jpg",
+        "https://telegra.ph/file/5aa71bdc1ce65a0703fb1.jpg",
+        "https://telegra.ph/file/7a3e426f5a1b387de64ff.jpg",
+        "https://telegra.ph/file/a7cec9032b595b561cf0e.jpg",
+        "https://telegra.ph/file/d4d265d1656377d245e19.jpg",
+        "https://telegra.ph/file/2569cb862118941b7142a.jpg",
+        "https://telegra.ph/file/abd09cee4ca83ed3906b7.jpg",
+        "https://telegra.ph/file/ec0f41fad23a41311e4d5.jpg",
+        "https://telegra.ph/file/0a619db1f3a59644b4e43.jpg",
+        "https://telegra.ph/file/ffddebfafcb5b4ad4c1db.jpg",
+        "https://telegra.ph/file/7f248b35ba80f0d0ca093.jpg",
+        "https://telegra.ph/file/756efd2d06bc65c07d562.jpg",
+        "https://telegra.ph/file/408c154a9edd05fdd7d6e.jpg"
+    ]
+};

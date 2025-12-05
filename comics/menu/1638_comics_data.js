@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1638,
+    "title": "[夏中症 (雨存)] 憧れの慧音先生の身体 (東方Project)  業餘上色版",
+    "sourceUrl": "https://telegra.ph/夏中症-雨存-憧れの慧音先生の身体-東方Project-業餘上色版-08-31",
+    "images": [
+        "https://telegra.ph/file/e07341dfb7c79f3119283.jpg",
+        "https://telegra.ph/file/8e7a3b9740b78d2afba8c.jpg",
+        "https://telegra.ph/file/c19f8fc6c80c45b75725b.jpg",
+        "https://telegra.ph/file/20bc503761ff33b992964.jpg",
+        "https://telegra.ph/file/313f65f4e9641de87b545.jpg",
+        "https://telegra.ph/file/f4827472fdedeb8b41563.jpg",
+        "https://telegra.ph/file/0ae60389ca60b88b8dad6.jpg",
+        "https://telegra.ph/file/c7ae1f466494e0c996ea1.jpg",
+        "https://telegra.ph/file/bc98fb44c444b0cc4e0a1.jpg",
+        "https://telegra.ph/file/59110c91118580a5711f5.jpg",
+        "https://telegra.ph/file/b29c48d32708ed14aae93.jpg",
+        "https://telegra.ph/file/c9765b83637f3a01f0d42.jpg",
+        "https://telegra.ph/file/8201bef2f30ea9bc7a722.jpg",
+        "https://telegra.ph/file/b3c3d519e95bbe5b482e9.jpg",
+        "https://telegra.ph/file/073b8fc7b7e434f2f0c93.jpg",
+        "https://telegra.ph/file/637d29ac615f2e0dd3d59.jpg",
+        "https://telegra.ph/file/a2c0ad040a702053fe7d9.jpg",
+        "https://telegra.ph/file/7a1bd6704b6afd71b0afb.jpg",
+        "https://telegra.ph/file/2c843d958f8c6885fcf86.jpg",
+        "https://telegra.ph/file/fece2c5061996dc5c621f.jpg",
+        "https://telegra.ph/file/af01737d6fc7c98818316.jpg",
+        "https://telegra.ph/file/20f829a471b6f669173e2.jpg",
+        "https://telegra.ph/file/932877645d556ad2995cf.jpg",
+        "https://telegra.ph/file/a328e92adb268a57dfd70.jpg"
+    ]
+};

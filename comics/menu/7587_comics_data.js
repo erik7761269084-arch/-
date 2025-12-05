@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7587,
+    "title": "課長槍間繰子",
+    "sourceUrl": "https://telegra.ph/課長槍間繰子-08-31",
+    "images": [
+        "https://telegra.ph/file/5c73867cdaecbbf7a8d07.jpg",
+        "https://telegra.ph/file/3fb55da5a919a0c21b4f6.jpg",
+        "https://telegra.ph/file/52979935528b4ce0795ad.jpg",
+        "https://telegra.ph/file/29fe7e7003d7d1984f4b2.jpg",
+        "https://telegra.ph/file/1e832672af074216edc76.jpg",
+        "https://telegra.ph/file/3f323a70c0c213482fbf8.jpg",
+        "https://telegra.ph/file/259c70dbc5e48292fb1c9.jpg",
+        "https://telegra.ph/file/3b201015bc44ac7432f33.jpg",
+        "https://telegra.ph/file/028784118ad3fa8d8cad7.jpg",
+        "https://telegra.ph/file/6fd3e6dd5df7f9334fbf1.jpg",
+        "https://telegra.ph/file/66169ecd79d853b7c71a7.jpg",
+        "https://telegra.ph/file/f849e8b156bda8c253e2c.jpg",
+        "https://telegra.ph/file/bd779b8c87faaaf67c911.jpg",
+        "https://telegra.ph/file/513a13836ba003961c489.jpg",
+        "https://telegra.ph/file/998e363c316c98f1754b2.jpg",
+        "https://telegra.ph/file/27daca8076b6773ae97bf.jpg",
+        "https://telegra.ph/file/c3418a790a9a0a7df8378.jpg",
+        "https://telegra.ph/file/20207f8034f1abc09deb4.jpg",
+        "https://telegra.ph/file/9b42110a94a1eb6d4180d.jpg",
+        "https://telegra.ph/file/d81ec7611e148ee9723d1.jpg",
+        "https://telegra.ph/file/4bd6b7d2fe9181c374ac8.jpg",
+        "https://telegra.ph/file/40709c81631d88087b37d.jpg",
+        "https://telegra.ph/file/4ba699e042313ebaea16e.jpg"
+    ]
+};

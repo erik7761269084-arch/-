@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3827,
+    "title": "[木鈴亭 (木鈴カケル)] 無口でエッチなお姉さんにペット扱いされる僕",
+    "sourceUrl": "https://telegra.ph/木鈴亭-木鈴カケル-無口でエッチなお姉さんにペット扱いされる僕-08-31",
+    "images": [
+        "https://telegra.ph/file/427418b96ecff2b29fece.jpg",
+        "https://telegra.ph/file/157c4121afe38f289d6bf.jpg",
+        "https://telegra.ph/file/23d0a32187eeefd38384f.jpg",
+        "https://telegra.ph/file/40f1c198676285f990d20.jpg",
+        "https://telegra.ph/file/c46e84fd9c1dac3bb35ae.jpg",
+        "https://telegra.ph/file/b3279c6468622c6812646.jpg",
+        "https://telegra.ph/file/3190d81d96f47140f4f27.jpg",
+        "https://telegra.ph/file/7ae8efbe06a8024b0be2c.jpg",
+        "https://telegra.ph/file/03363f6bd99bfce64bfcd.jpg",
+        "https://telegra.ph/file/3f7c189f0b066257bb748.jpg",
+        "https://telegra.ph/file/2010c236430a1d8be3b2c.jpg",
+        "https://telegra.ph/file/94ff8c237065447f4dea5.jpg",
+        "https://telegra.ph/file/2c8ab683db6f28d9ec823.jpg",
+        "https://telegra.ph/file/f07f64c28b62af40c7a44.jpg",
+        "https://telegra.ph/file/43f8130fb3f82a14fd2be.jpg",
+        "https://telegra.ph/file/7072d931801652e59f95c.jpg",
+        "https://telegra.ph/file/9406603aed8224c3e88c1.jpg",
+        "https://telegra.ph/file/bc57d78434265f9b1458b.jpg",
+        "https://telegra.ph/file/5e5daf65a0d7d70bd50b9.jpg",
+        "https://telegra.ph/file/866add74e1c0084fcc803.jpg",
+        "https://telegra.ph/file/3c2cf9d74aa1f78094eee.jpg",
+        "https://telegra.ph/file/dfc70d7ce48bf836add64.jpg",
+        "https://telegra.ph/file/337eb4a58ac5cea0c5660.jpg",
+        "https://telegra.ph/file/9ba20a9cae6abae9dfa6a.jpg",
+        "https://telegra.ph/file/d6dcadec0726398ee2089.jpg",
+        "https://telegra.ph/file/53a476228ab81d90b1b9a.jpg"
+    ]
+};

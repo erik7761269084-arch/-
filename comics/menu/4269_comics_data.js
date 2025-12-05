@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4269,
+    "title": "[けもみみ駅] 魔物娘に犯されブック～サキュバス・バンシー・ダークエルフ編～",
+    "sourceUrl": "https://telegra.ph/けもみみ駅-魔物娘に犯されブックサキュバスバンシーダークエルフ編-08-31",
+    "images": [
+        "https://telegra.ph/file/d4daf5bb005e2182334eb.jpg",
+        "https://telegra.ph/file/f2a5a6d434e33073ff27d.jpg",
+        "https://telegra.ph/file/6f8884e6048d8cd9502af.jpg",
+        "https://telegra.ph/file/ea8d04df8f68b46ba59a1.jpg",
+        "https://telegra.ph/file/39da58525c41d2e958d7a.jpg",
+        "https://telegra.ph/file/9e0e816d94b01079462a5.jpg",
+        "https://telegra.ph/file/56486c8d94304daddcf85.jpg",
+        "https://telegra.ph/file/406016051f2cad0a0677f.jpg",
+        "https://telegra.ph/file/d0468d0baf0fc0a6ee8d4.jpg",
+        "https://telegra.ph/file/622549703d61a463263fc.jpg",
+        "https://telegra.ph/file/5ea3bca4e1e2652da8c5c.jpg",
+        "https://telegra.ph/file/34907849642c260ea1e53.jpg",
+        "https://telegra.ph/file/ff33fcf188464dd743987.jpg",
+        "https://telegra.ph/file/d69a60f583c7ca6a61e86.jpg",
+        "https://telegra.ph/file/0a35e96faa2a5633afc9f.jpg",
+        "https://telegra.ph/file/12903d83c37c4c8d5547b.jpg",
+        "https://telegra.ph/file/8ed5127078f6f2e879c98.jpg",
+        "https://telegra.ph/file/671db5d7932e82bf5876b.jpg",
+        "https://telegra.ph/file/84ea26ebd41790855f3e7.jpg",
+        "https://telegra.ph/file/3c520fcc1112692b36b06.jpg",
+        "https://telegra.ph/file/067c548bd469269b61ebe.jpg",
+        "https://telegra.ph/file/04b26ecc8b52ad43aea65.jpg",
+        "https://telegra.ph/file/558e71cac135481f3eb4e.jpg"
+    ]
+};

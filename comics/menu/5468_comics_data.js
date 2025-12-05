@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5468,
+    "title": "[きょくちょ] らぶりーあいなちゃん",
+    "sourceUrl": "https://telegra.ph/きょくちょ-らぶりーあいなちゃん-08-31",
+    "images": [
+        "https://telegra.ph/file/c56c0e01022c529f2ae71.jpg",
+        "https://telegra.ph/file/2de090247e8802620b424.jpg",
+        "https://telegra.ph/file/541b684d0ebe0561be1e4.jpg",
+        "https://telegra.ph/file/587718eb647086b8bb166.jpg",
+        "https://telegra.ph/file/92637c3bdebcadc946626.jpg",
+        "https://telegra.ph/file/86a9e9a9f9573e5636194.jpg",
+        "https://telegra.ph/file/456ab0bbd9a96bdc167b2.jpg",
+        "https://telegra.ph/file/57e6258c30f3d9afe072d.jpg",
+        "https://telegra.ph/file/47af77564113f1c832967.jpg",
+        "https://telegra.ph/file/9c933247591a618c6a37b.jpg",
+        "https://telegra.ph/file/aca5d3bda9983f0d55fd1.jpg",
+        "https://telegra.ph/file/a081e7d45986e4dc665f9.jpg",
+        "https://telegra.ph/file/cd7ee349f4fd68a84b269.jpg",
+        "https://telegra.ph/file/3e82b6fb0b3b8ea891efd.jpg",
+        "https://telegra.ph/file/346ba2c6487f658a15686.jpg",
+        "https://telegra.ph/file/2e5c4ee080ea982d23701.jpg",
+        "https://telegra.ph/file/9d8ecd367fc9dd09c6a37.jpg",
+        "https://telegra.ph/file/e1b14cf79086c33f11f4e.jpg",
+        "https://telegra.ph/file/8a27a94c3ada987cc553b.jpg",
+        "https://telegra.ph/file/82f022ef76c121f11f232.jpg",
+        "https://telegra.ph/file/4bf91e90cd05c5fca1a80.jpg",
+        "https://telegra.ph/file/0a5b96676e04486695296.jpg",
+        "https://telegra.ph/file/6bc547f3e4098cb777297.jpg",
+        "https://telegra.ph/file/bcf82c0bec6cd25a633fe.jpg"
+    ]
+};

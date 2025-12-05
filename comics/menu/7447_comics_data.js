@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7447,
+    "title": "飼い犬に噛まれる",
+    "sourceUrl": "https://telegra.ph/飼い犬に噛まれる-08-31",
+    "images": [
+        "https://telegra.ph/file/698b6fd5bef002d85b0d7.png",
+        "https://telegra.ph/file/d5bc3608582ba7099be65.png",
+        "https://telegra.ph/file/0017ed4c0dcb9e0318433.png",
+        "https://telegra.ph/file/da83dfce16c2115bee91e.png",
+        "https://telegra.ph/file/fc11ceb33798492d8d536.png",
+        "https://telegra.ph/file/ca13cafc8648f9fd9e1d0.png",
+        "https://telegra.ph/file/dd503462ba0121496e4d9.png",
+        "https://telegra.ph/file/30fa38476c8bb5106d30d.png",
+        "https://telegra.ph/file/d1cd8a92b1e2e06a776d4.png",
+        "https://telegra.ph/file/cf1e65e6b1de97ef87a80.png",
+        "https://telegra.ph/file/4c1d89424aeffb4363356.png",
+        "https://telegra.ph/file/834fccbb7c8f1412ef104.png",
+        "https://telegra.ph/file/fdaac168e6e0347a8a40a.png",
+        "https://telegra.ph/file/ed57133b46789a25d4d65.png",
+        "https://telegra.ph/file/196eac40ae8e7777d6b0a.png",
+        "https://telegra.ph/file/5c35504d612f134f57b3c.png",
+        "https://telegra.ph/file/941fd97660d2a96a0d724.png",
+        "https://telegra.ph/file/f5eea407fec089174995b.png",
+        "https://telegra.ph/file/3bb730e4e449b72802982.png",
+        "https://telegra.ph/file/63da3ce1d5439e6e3d2a8.png",
+        "https://telegra.ph/file/58b4d3f06ea0b85612340.png",
+        "https://telegra.ph/file/9de36e0062402f36ab544.png",
+        "https://telegra.ph/file/cb834e2defa101d81f180.png",
+        "https://telegra.ph/file/3aeee29e3d2216c1cad68.png"
+    ]
+};

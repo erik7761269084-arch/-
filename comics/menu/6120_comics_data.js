@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6120,
+    "title": "[hal] 土崩瓦解 前編",
+    "sourceUrl": "https://telegra.ph/hal-土崩瓦解-前編-08-31",
+    "images": [
+        "https://telegra.ph/file/89930ad28703cee17607f.png",
+        "https://telegra.ph/file/48da0043eeb83fc23de19.png",
+        "https://telegra.ph/file/e1cd0c97df1afecdf20a0.png",
+        "https://telegra.ph/file/65d6cf155cbf67295951d.png",
+        "https://telegra.ph/file/0171f9301c905d175b634.png",
+        "https://telegra.ph/file/2ee2303204dadec360425.png",
+        "https://telegra.ph/file/8646bd93206736b723c1a.png",
+        "https://telegra.ph/file/76e6de2919b0333ea6428.png",
+        "https://telegra.ph/file/dd4bdf146dd4b1c4990ef.png",
+        "https://telegra.ph/file/44e43552806b6afb0e9f7.png",
+        "https://telegra.ph/file/e30bee1f0822d141b8c55.png",
+        "https://telegra.ph/file/5a0bcdc5d2bcb1b04a987.png",
+        "https://telegra.ph/file/c4c8db77e59683d1748c6.png",
+        "https://telegra.ph/file/744d7d3affa60d5b59071.png",
+        "https://telegra.ph/file/2821e9ae7968e52b2d629.png",
+        "https://telegra.ph/file/e94c26e0d9b1054d5f5ed.png",
+        "https://telegra.ph/file/c78aeb44d707a2d40faf6.png",
+        "https://telegra.ph/file/f92d07f8b6d3370177056.png",
+        "https://telegra.ph/file/02bacd33c005ea9e2606b.png",
+        "https://telegra.ph/file/5f1a70f6c9673938eeb36.png",
+        "https://telegra.ph/file/3018be65601a257e1f4b4.png",
+        "https://telegra.ph/file/8c5396c63f08124c55aef.png",
+        "https://telegra.ph/file/00f7d4f1a6e600126ccf5.png",
+        "https://telegra.ph/file/9b830b907572fcaeae5fd.png"
+    ]
+};

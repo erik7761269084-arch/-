@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7630,
+    "title": "投げ銭￥交際",
+    "sourceUrl": "https://telegra.ph/投げ銭交際-08-31",
+    "images": [
+        "https://telegra.ph/file/6bb4ce2d71630ac526a46.jpg",
+        "https://telegra.ph/file/109df36032f31e1a50339.jpg",
+        "https://telegra.ph/file/8d00173e68a24741c2e21.jpg",
+        "https://telegra.ph/file/a3ec0b05ca06e31af6180.jpg",
+        "https://telegra.ph/file/f0a143b2aa918afdc716e.jpg",
+        "https://telegra.ph/file/029c8cfa3df8f9269a550.jpg",
+        "https://telegra.ph/file/e3809d2e0f06b944601fe.jpg",
+        "https://telegra.ph/file/e142835da10b8c6c8ffa9.jpg",
+        "https://telegra.ph/file/4a10e531d8ee770204f8d.jpg",
+        "https://telegra.ph/file/e5666dfeacc9b3d9ee42f.jpg",
+        "https://telegra.ph/file/4df4062bf9e1eb4784662.jpg",
+        "https://telegra.ph/file/e6385a83f3d1671a6edd5.jpg",
+        "https://telegra.ph/file/0311e4100107bb656f20b.jpg",
+        "https://telegra.ph/file/a46ee0780b0bf5c4f8634.jpg",
+        "https://telegra.ph/file/38d767eeacf75c624f68f.jpg",
+        "https://telegra.ph/file/9c7e29646d813fd95fc01.jpg",
+        "https://telegra.ph/file/13614cc85710c3bd20618.jpg",
+        "https://telegra.ph/file/12be5b26b23db48976519.jpg",
+        "https://telegra.ph/file/dfbf2bbee1af4daaf8d7f.jpg",
+        "https://telegra.ph/file/52321302ef731612ffe30.jpg",
+        "https://telegra.ph/file/b98ed86ab2416cb348850.jpg",
+        "https://telegra.ph/file/122783b192f7ebb2e3fc9.jpg",
+        "https://telegra.ph/file/bb86750e8c01796eb392d.jpg",
+        "https://telegra.ph/file/95f944bca413a9e91d256.jpg"
+    ]
+};

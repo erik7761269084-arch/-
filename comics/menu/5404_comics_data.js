@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5404,
+    "title": "[丸和太郎] みせられて…",
+    "sourceUrl": "https://telegra.ph/丸和太郎-みせられて-08-31",
+    "images": [
+        "https://telegra.ph/file/089ba5fb36b2230dbfb65.png",
+        "https://telegra.ph/file/b2f0a10b594d865e7bb8a.png",
+        "https://telegra.ph/file/ee3f37157629612f3a7ac.png",
+        "https://telegra.ph/file/c1651ec2cee3a8003825d.png",
+        "https://telegra.ph/file/d8a3fa4499cfd2541e8d9.png",
+        "https://telegra.ph/file/fd1c0800d51f3cd6fbc65.png",
+        "https://telegra.ph/file/4c5dc76c5fb1cac3657cb.png",
+        "https://telegra.ph/file/d94ca50fc55acc42ca4f8.png",
+        "https://telegra.ph/file/7608b1149bd00e8435676.png",
+        "https://telegra.ph/file/985fb069e0df34e6feabc.png",
+        "https://telegra.ph/file/754ffcc5b0056656ab972.png",
+        "https://telegra.ph/file/4566e001c7f2568cd868c.png",
+        "https://telegra.ph/file/aa0efff98bb911a0798c4.png",
+        "https://telegra.ph/file/0a1ef329b523e718fc931.png",
+        "https://telegra.ph/file/f9cc021c8f633cc8a15f8.png",
+        "https://telegra.ph/file/c642780b53e1981aa3ec2.png",
+        "https://telegra.ph/file/43ae392b82180a68dc8b5.png",
+        "https://telegra.ph/file/f7611734338bd7a57b665.png",
+        "https://telegra.ph/file/b5385ca235df6018f17b8.png",
+        "https://telegra.ph/file/f375f04c4b7bc48609096.png",
+        "https://telegra.ph/file/e3d6ee20892893026138c.png",
+        "https://telegra.ph/file/35f98b3cf8ba24ccebdf4.png",
+        "https://telegra.ph/file/9b8bee7826699c533fa6b.png",
+        "https://telegra.ph/file/afb68a32bc529f4b44bd3.png"
+    ]
+};

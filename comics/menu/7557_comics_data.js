@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7557,
+    "title": "いっぱいまわそ！",
+    "sourceUrl": "https://telegra.ph/いっぱいまわそ-08-31",
+    "images": [
+        "https://telegra.ph/file/a7bc7aec1e908805cbd0c.jpg",
+        "https://telegra.ph/file/6ea0df6131d2eb704963d.jpg",
+        "https://telegra.ph/file/e4c644c384f1ea10b7201.jpg",
+        "https://telegra.ph/file/80d2b7475b6cca955f4e2.jpg",
+        "https://telegra.ph/file/0fb7bf6cd78808488b3c5.jpg",
+        "https://telegra.ph/file/a97c2fca05967987116af.jpg",
+        "https://telegra.ph/file/146671e3dd8cfa38a4884.jpg",
+        "https://telegra.ph/file/db8f0422d59820c560e61.jpg",
+        "https://telegra.ph/file/25f5c47bb62c65441d046.jpg",
+        "https://telegra.ph/file/0597cfd2a4d5c700115f1.jpg",
+        "https://telegra.ph/file/1798882036ff2d5fdd4dc.jpg",
+        "https://telegra.ph/file/7559cbeb799e34b69f837.jpg",
+        "https://telegra.ph/file/d64c661e7bf567993b8fb.jpg",
+        "https://telegra.ph/file/9e38337c0f2ef4385400c.jpg",
+        "https://telegra.ph/file/55818493bc29a4863f9f0.jpg",
+        "https://telegra.ph/file/bf478c3935a07dbde32a2.jpg",
+        "https://telegra.ph/file/75bd5efe334e9c089b234.jpg",
+        "https://telegra.ph/file/e0e795142266a82eb541a.jpg",
+        "https://telegra.ph/file/c398698564b60aa64588e.jpg",
+        "https://telegra.ph/file/d9e46b79cffd612bbe8b2.jpg",
+        "https://telegra.ph/file/fbc55fa86f546bf4aa56d.jpg",
+        "https://telegra.ph/file/9869edc72694c487cd47f.jpg",
+        "https://telegra.ph/file/4635e660dadd1ec87984b.jpg",
+        "https://telegra.ph/file/d39821128aaba55bbc121.jpg"
+    ]
+};

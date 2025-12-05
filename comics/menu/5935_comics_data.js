@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5935,
+    "title": "[まじろー] ワルコール",
+    "sourceUrl": "https://telegra.ph/まじろー-ワルコール-08-31",
+    "images": [
+        "https://telegra.ph/file/6e9c1e91d2594b7e69100.jpg",
+        "https://telegra.ph/file/0436a7dcccd107d5cd428.jpg",
+        "https://telegra.ph/file/84d54d4c9b7e19ec9b817.jpg",
+        "https://telegra.ph/file/2ca503f89f54bb8994882.jpg",
+        "https://telegra.ph/file/495c4e055473d207e8779.jpg",
+        "https://telegra.ph/file/aa588c741870c0c976f53.jpg",
+        "https://telegra.ph/file/7ca6f8e9fcb22cac5b405.jpg",
+        "https://telegra.ph/file/39313ce5a28211d4e8e5c.jpg",
+        "https://telegra.ph/file/04ef290c96cc3c97fbecf.jpg",
+        "https://telegra.ph/file/1ca240277ccf21c98e7d5.jpg",
+        "https://telegra.ph/file/e03c7c4ba5a778b55f092.jpg",
+        "https://telegra.ph/file/5726eec5071a2c20c45b9.jpg",
+        "https://telegra.ph/file/90a7a005f3a63960c0bb2.jpg",
+        "https://telegra.ph/file/2c62c04a6bd98441943e6.jpg",
+        "https://telegra.ph/file/8b38587a5401ea4d31a65.jpg",
+        "https://telegra.ph/file/87df398ceb4e5625cfeef.jpg",
+        "https://telegra.ph/file/5de3cc4dbc768a2289491.jpg",
+        "https://telegra.ph/file/b13dead0962e7d84e0966.jpg",
+        "https://telegra.ph/file/b93362d6beafee043201f.jpg",
+        "https://telegra.ph/file/efe8c4153de4b8a46b0a2.jpg",
+        "https://telegra.ph/file/407a2e2dcfe43ca6b5866.jpg",
+        "https://telegra.ph/file/4f6bf79edfcc011ce4812.jpg",
+        "https://telegra.ph/file/4622bdd95ee26bd01f023.jpg",
+        "https://telegra.ph/file/3d3eaf9d068f365864806.jpg",
+        "https://telegra.ph/file/70a736b37f59f20f3fc56.jpg",
+        "https://telegra.ph/file/45dfaa797561c2fa1e6d9.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4472,
+    "title": "[おちちお (osisio)] あでやかナーシング",
+    "sourceUrl": "https://telegra.ph/おちちお-osisio-あでやかナーシング-08-31",
+    "images": [
+        "https://telegra.ph/file/2d640e0ef57a3ababaeea.jpg",
+        "https://telegra.ph/file/ad1fadb56096b21e1c0e7.jpg",
+        "https://telegra.ph/file/348544571e12caaf400c0.jpg",
+        "https://telegra.ph/file/b8acc2a49e10ce9c3104a.jpg",
+        "https://telegra.ph/file/e96724af67cc8abccaff6.jpg",
+        "https://telegra.ph/file/ac925e09bf42846f59c58.jpg",
+        "https://telegra.ph/file/933bd494ccb77de875ebd.jpg",
+        "https://telegra.ph/file/2182dd47298342e6f8ba2.jpg",
+        "https://telegra.ph/file/7d4eb3ff749a2a1070d5d.jpg",
+        "https://telegra.ph/file/5c74be8d593721c69e626.jpg",
+        "https://telegra.ph/file/d2c7b4627bdd1d44bc26f.jpg",
+        "https://telegra.ph/file/2a78e8db2a708608aca7a.jpg",
+        "https://telegra.ph/file/09b50241327144d6a3294.jpg",
+        "https://telegra.ph/file/8d4879528cd0ea740315f.jpg",
+        "https://telegra.ph/file/602c58c750d820f3c86f3.jpg",
+        "https://telegra.ph/file/56c2f691c355084990a9f.jpg",
+        "https://telegra.ph/file/823c3868b17550e3c03c5.jpg",
+        "https://telegra.ph/file/20179321e75a614596afd.jpg",
+        "https://telegra.ph/file/8045e162eccae4394cca1.jpg",
+        "https://telegra.ph/file/fd91fd0b87ae228c326d2.jpg",
+        "https://telegra.ph/file/82af247f1bc7f19c6f2e1.jpg",
+        "https://telegra.ph/file/593bf56bd980bf8d5e501.jpg",
+        "https://telegra.ph/file/d0e4d5193737ba4e2d74f.jpg",
+        "https://telegra.ph/file/1961e3af1db59316214da.jpg"
+    ]
+};

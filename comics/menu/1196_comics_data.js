@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1196,
+    "title": "[へんたいゑむぶれむ (魚頭骨)] ネトーラレーン Vol.2 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/へんたいゑむぶれむ-魚頭骨-ネトーラレーン-Vol2-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/1e5dcd1e0ece69d8042df.jpg",
+        "https://telegra.ph/file/f85912b7445658abb0a4b.jpg",
+        "https://telegra.ph/file/be8cc324712c54b8139eb.jpg",
+        "https://telegra.ph/file/df9742b7b28a34534cd94.jpg",
+        "https://telegra.ph/file/7ab5242d58397873139e4.jpg",
+        "https://telegra.ph/file/fa2e219f5e7e248f24862.jpg",
+        "https://telegra.ph/file/7401b705fa123773d6c09.jpg",
+        "https://telegra.ph/file/533a9a297ac46d46fe872.jpg",
+        "https://telegra.ph/file/a00352927ce68dc926e5c.jpg",
+        "https://telegra.ph/file/0000157b1bfa4dabfcafd.jpg",
+        "https://telegra.ph/file/d9453f7d58a8a146a6253.jpg",
+        "https://telegra.ph/file/52df12293b1e52e29a0c3.jpg",
+        "https://telegra.ph/file/377773a4446b9330f6c99.jpg",
+        "https://telegra.ph/file/cb10f90709828caee00c1.jpg",
+        "https://telegra.ph/file/6c63bf062200e480b2b7d.jpg",
+        "https://telegra.ph/file/9b56983de0456ece14726.jpg",
+        "https://telegra.ph/file/02e1e1b26d9222f353487.jpg",
+        "https://telegra.ph/file/e88c5ab9acbdf9c584028.jpg",
+        "https://telegra.ph/file/a541fa5600ddb7a69a0a4.jpg",
+        "https://telegra.ph/file/a690ff42c57a549229fd1.jpg",
+        "https://telegra.ph/file/ac41499c1472bf26e3df7.jpg",
+        "https://telegra.ph/file/957cd39cf736db30710e5.jpg",
+        "https://telegra.ph/file/5b1f1ab9cea3ab0cee2e6.png"
+    ]
+};

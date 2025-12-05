@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3262,
+    "title": "[よそ者] ギャル育成日記 (COMIC 阿吽 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/よそ者-ギャル育成日記-COMIC-阿吽-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/20642c9332a48e1a472eb.jpg",
+        "https://telegra.ph/file/b6aa6437356ac60331726.jpg",
+        "https://telegra.ph/file/3da06fca73f97f22956d5.jpg",
+        "https://telegra.ph/file/ccae4436dc4f496fa516b.jpg",
+        "https://telegra.ph/file/50f1d150d9cb6268f311e.jpg",
+        "https://telegra.ph/file/e948b54ab9a6a364b8c48.jpg",
+        "https://telegra.ph/file/c34313d1193ceb1859bcb.jpg",
+        "https://telegra.ph/file/844f591934c697485de54.jpg",
+        "https://telegra.ph/file/bec2792217d58701334ee.jpg",
+        "https://telegra.ph/file/44e36b6004d423ee4d5cf.jpg",
+        "https://telegra.ph/file/dd3b9fcf66383f6785841.jpg",
+        "https://telegra.ph/file/a12feb7e9e62802a180b8.jpg",
+        "https://telegra.ph/file/6dc59a91f03d4303b5733.jpg",
+        "https://telegra.ph/file/0209d4a5dfd2fa91cad83.jpg",
+        "https://telegra.ph/file/78f50dafa946a32683518.jpg",
+        "https://telegra.ph/file/e8718d1c4188486147e36.jpg",
+        "https://telegra.ph/file/c1dea94740eb1b4697032.jpg",
+        "https://telegra.ph/file/5426593587f25607cc700.jpg",
+        "https://telegra.ph/file/b141d82df953e0b2c4e79.jpg",
+        "https://telegra.ph/file/393de11e0a22c741e6001.jpg",
+        "https://telegra.ph/file/fdf58747672e3b09c11c4.jpg",
+        "https://telegra.ph/file/5e6a4df24667ddc4cb741.jpg",
+        "https://telegra.ph/file/b90349ab73177c9646e39.jpg",
+        "https://telegra.ph/file/7b022540cacef0c3f0acc.jpg"
+    ]
+};

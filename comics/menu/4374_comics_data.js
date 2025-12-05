@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4374,
+    "title": "[みくに瑞貴] Encounter + その後",
+    "sourceUrl": "https://telegra.ph/みくに瑞貴-Encounter--その後-08-31",
+    "images": [
+        "https://telegra.ph/file/c5330c518382d1e2352fb.jpg",
+        "https://telegra.ph/file/c37fdf47194e16c08bc4e.jpg",
+        "https://telegra.ph/file/05d90617534aedc34f72a.jpg",
+        "https://telegra.ph/file/4db13276eb76a77fdc20e.jpg",
+        "https://telegra.ph/file/f42a2531227ba9b4aa19c.jpg",
+        "https://telegra.ph/file/181dac7a1188397ffd90a.jpg",
+        "https://telegra.ph/file/ccc1762c34ff3c8774cdc.jpg",
+        "https://telegra.ph/file/a8d73ba601b6deac2b2e0.jpg",
+        "https://telegra.ph/file/d01b4b01b5bc199638187.jpg",
+        "https://telegra.ph/file/2e98d5a7ac73bca1d48b7.jpg",
+        "https://telegra.ph/file/725b645c65935c69e80d9.jpg",
+        "https://telegra.ph/file/0a9e6e1e513f734edcb3c.jpg",
+        "https://telegra.ph/file/7712f2cdbf6fecf9cedb3.jpg",
+        "https://telegra.ph/file/09cd5fbfde419c518ab9e.jpg",
+        "https://telegra.ph/file/447ef7a5026f49ab82a75.jpg",
+        "https://telegra.ph/file/fb2f59538a2603ae6fe6b.jpg",
+        "https://telegra.ph/file/aef2edb05125fe4db712f.jpg",
+        "https://telegra.ph/file/a510d342a4bb6764c4bfd.jpg",
+        "https://telegra.ph/file/4ebbb4bc9bcfee96da355.jpg",
+        "https://telegra.ph/file/9886b3c8beda2dc9d8f7f.jpg",
+        "https://telegra.ph/file/9ebae20d702e9d6efe92d.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ]
+};

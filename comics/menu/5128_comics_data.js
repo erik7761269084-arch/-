@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5128,
+    "title": "(C100) [ソチコチ (そらモチ)] 甘い雨と甘い香り (原神)",
+    "sourceUrl": "https://telegra.ph/C100-ソチコチ-そらモチ-甘い雨と甘い香り-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/726e2ea133dafd2ce2091.png",
+        "https://telegra.ph/file/3d49c7e07bd9a7031419f.jpg",
+        "https://telegra.ph/file/d5c9f2d15a59fdef44a49.jpg",
+        "https://telegra.ph/file/ce3c2d2c3b59f1d27a1aa.jpg",
+        "https://telegra.ph/file/20cd966e36282dc6adf09.jpg",
+        "https://telegra.ph/file/af227bb01c7888cf5db0a.jpg",
+        "https://telegra.ph/file/3a2a681902832e00f7b42.jpg",
+        "https://telegra.ph/file/f96d56e574ab185738a5a.jpg",
+        "https://telegra.ph/file/3d605253ff3c5f3902367.jpg",
+        "https://telegra.ph/file/b4fe43d442d53ac15cdf7.jpg",
+        "https://telegra.ph/file/610915f1bf41cea8296cd.jpg",
+        "https://telegra.ph/file/d777039e8c9773ca873d0.jpg",
+        "https://telegra.ph/file/fb1f7d16eb68f672ecbc2.jpg",
+        "https://telegra.ph/file/50926e12058ddc96b6743.jpg",
+        "https://telegra.ph/file/2d9a9cb23a49fc25418b4.jpg",
+        "https://telegra.ph/file/1611958eba3dbc6a6256c.jpg",
+        "https://telegra.ph/file/3251da36fdb5559158d4d.jpg",
+        "https://telegra.ph/file/97f79fe486fc456ad8463.jpg",
+        "https://telegra.ph/file/f6a68907f8a650300a5d6.jpg",
+        "https://telegra.ph/file/1d94f2d974f54b6f10a6c.jpg",
+        "https://telegra.ph/file/5bdb29f800033dc29ccfa.jpg",
+        "https://telegra.ph/file/87d0cebba71a133069206.jpg",
+        "https://telegra.ph/file/497586223ac314461e99b.jpg",
+        "https://telegra.ph/file/80d4e22e1e7672888472c.jpg",
+        "https://telegra.ph/file/c922c840eb13735018d1b.jpg",
+        "https://telegra.ph/file/3384dfe5492a2d6723012.jpg"
+    ]
+};

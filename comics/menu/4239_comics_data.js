@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4239,
+    "title": "[ReDrop] よく効く恋のおまじない! (コミックメガストア 2010年8月号)",
+    "sourceUrl": "https://telegra.ph/ReDrop-よく効く恋のおまじない-コミックメガストア-2010年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a62ceb4fbd6eb1d92f31e.jpg",
+        "https://telegra.ph/file/7caa89670d6e2578cf478.jpg",
+        "https://telegra.ph/file/dc5be1a59584cd19d1f86.jpg",
+        "https://telegra.ph/file/146896c91e3e328286ea8.jpg",
+        "https://telegra.ph/file/0bf8a01e6bbb83569732d.jpg",
+        "https://telegra.ph/file/61a91b96fb3102937b8ad.jpg",
+        "https://telegra.ph/file/c6301e7d545cb9740b4e6.jpg",
+        "https://telegra.ph/file/5e0e4895929221e0ec3b4.jpg",
+        "https://telegra.ph/file/41ca87335fee405aaa8c3.jpg",
+        "https://telegra.ph/file/6a9995a69075832a05837.jpg",
+        "https://telegra.ph/file/ed8d89f2984db85b6d5b3.jpg",
+        "https://telegra.ph/file/8494b32d7b20134066c12.jpg",
+        "https://telegra.ph/file/886a8d2766ccb5c71d695.jpg",
+        "https://telegra.ph/file/388c541159a3e3a054b74.jpg",
+        "https://telegra.ph/file/59eafca39a80f550e8627.jpg",
+        "https://telegra.ph/file/bc01e976d5a457977d4b9.jpg",
+        "https://telegra.ph/file/65b85f41176323cf9bae6.jpg",
+        "https://telegra.ph/file/04f67ccc2adec96172334.jpg",
+        "https://telegra.ph/file/396ae8738aa75d6d16f51.jpg",
+        "https://telegra.ph/file/19a0ba639e9cc6c41f2cd.jpg",
+        "https://telegra.ph/file/d935a34203ac1536a35e0.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3866,
+    "title": "(C97) [SicoSourCream (シコサワー)] Rance10 After Echi♥Echi Book (ランス10)",
+    "sourceUrl": "https://telegra.ph/C97-SicoSourCream-シコサワー-Rance10-After-EchiEchi-Book-ランス10-08-31",
+    "images": [
+        "https://telegra.ph/file/0892ad38ebf54521bd83b.jpg",
+        "https://telegra.ph/file/8e484d130e501f27b54c9.jpg",
+        "https://telegra.ph/file/d333d49e03e3cd259167e.jpg",
+        "https://telegra.ph/file/f216738e9f87d8bc8f6a6.jpg",
+        "https://telegra.ph/file/f299e3268e5d06db511ae.jpg",
+        "https://telegra.ph/file/83ea2cd02d52319714bdd.jpg",
+        "https://telegra.ph/file/8f553298e1933e0be0a91.jpg",
+        "https://telegra.ph/file/afdb8da169a3a667a92f4.jpg",
+        "https://telegra.ph/file/41dad29dffc9e8f8b16ef.jpg",
+        "https://telegra.ph/file/2c7b01024b0de29984e81.jpg",
+        "https://telegra.ph/file/e067dd62e616df6d46f15.jpg",
+        "https://telegra.ph/file/0f0565a2d603408798b00.jpg",
+        "https://telegra.ph/file/2352955f4754237418e48.jpg",
+        "https://telegra.ph/file/218ef21af3f605dba756e.jpg",
+        "https://telegra.ph/file/c6336e22aae838dce5077.jpg",
+        "https://telegra.ph/file/75b067d90e16fe77de4d9.jpg",
+        "https://telegra.ph/file/cf48127d31cd0b96de600.jpg",
+        "https://telegra.ph/file/6a402c1e00882f56e8bac.jpg",
+        "https://telegra.ph/file/d57cc9f16cc2ccb5bb14a.jpg",
+        "https://telegra.ph/file/cadfe07a25f5c6a8a072b.jpg",
+        "https://telegra.ph/file/41e03f191d79328009cbb.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

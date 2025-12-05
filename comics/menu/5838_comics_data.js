@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5838,
+    "title": "[十はやみ] 俺の先生がエロ過ぎて我慢できない",
+    "sourceUrl": "https://telegra.ph/十はやみ-俺の先生がエロ過ぎて我慢できない-08-31",
+    "images": [
+        "https://telegra.ph/file/dc5606a578e877ff3504b.jpg",
+        "https://telegra.ph/file/cb5b612ba544a9a5f6c22.jpg",
+        "https://telegra.ph/file/b6a70e7537a339e39004f.jpg",
+        "https://telegra.ph/file/e129b0ad16c7c20c381d4.jpg",
+        "https://telegra.ph/file/2ed7e9029f1bc0d16837d.jpg",
+        "https://telegra.ph/file/a5c7d7e1979c0439c44d3.jpg",
+        "https://telegra.ph/file/3111f72bb415ae2548751.jpg",
+        "https://telegra.ph/file/3b3ccf9472241f010934e.jpg",
+        "https://telegra.ph/file/4be7cbe7869f4f2a6a5b3.jpg",
+        "https://telegra.ph/file/035419c8583b31d27c6f1.jpg",
+        "https://telegra.ph/file/96f56b25e1a9dd7e0caa0.jpg",
+        "https://telegra.ph/file/ab30a90a9ca9b6c179654.jpg",
+        "https://telegra.ph/file/ead9ca2bc9705170b149b.jpg",
+        "https://telegra.ph/file/53cb0ea2110903f7cc020.jpg",
+        "https://telegra.ph/file/ebbde1b530d818993cc7c.jpg",
+        "https://telegra.ph/file/37285a3230b79b9a38763.jpg",
+        "https://telegra.ph/file/be85096ce12b70142729a.jpg",
+        "https://telegra.ph/file/3f770051bc8d535b2b25c.jpg",
+        "https://telegra.ph/file/4187e21e6b431e13fe67d.jpg",
+        "https://telegra.ph/file/b74002179885f893fefbc.jpg",
+        "https://telegra.ph/file/7eb2e79c26b1de81001a8.jpg",
+        "https://telegra.ph/file/e389b9936f3513dd6d982.jpg",
+        "https://telegra.ph/file/c87d3f060c66e9a15a9f0.jpg",
+        "https://telegra.ph/file/e529e6a7a553842a76a47.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 991,
+    "title": "[JOKERKIN]-(pixiv)  Bunny & tentacles[中文字幕］",
+    "sourceUrl": "https://telegra.ph/JOKERKIN-pixiv-Bunny--tentacles中文字幕-08-31",
+    "images": [
+        "https://telegra.ph/file/4280207cea9fa478380dc.jpg",
+        "https://telegra.ph/file/524d15e9af903a6274be7.jpg",
+        "https://telegra.ph/file/98078bf68bfcc05ff8e23.jpg",
+        "https://telegra.ph/file/6bea9d1c856dfbcd1b734.jpg",
+        "https://telegra.ph/file/491a54eb708c9f086d3bc.jpg",
+        "https://telegra.ph/file/8f9b51fbdab3db6507284.jpg",
+        "https://telegra.ph/file/ff83ec3406de50c80b873.jpg",
+        "https://telegra.ph/file/3bfc96af01f66dfe3b66f.jpg",
+        "https://telegra.ph/file/dd2b2fc3e841427ea7294.jpg",
+        "https://telegra.ph/file/9b374eab82c46f48341d0.jpg",
+        "https://telegra.ph/file/c79c5e7f65998799b7e47.jpg",
+        "https://telegra.ph/file/8e031ebe13d6723b0d5f3.jpg",
+        "https://telegra.ph/file/0454cc0fa37ebf9f2665d.jpg",
+        "https://telegra.ph/file/866de016bbcdd72f29bef.jpg",
+        "https://telegra.ph/file/f8b89493ccccd9a124642.jpg",
+        "https://telegra.ph/file/1aa617874c8a5528f0ea0.jpg",
+        "https://telegra.ph/file/7735dde9c46249fd8c3a2.jpg",
+        "https://telegra.ph/file/6178d42797ccd05499f23.jpg",
+        "https://telegra.ph/file/8e459804e4ea7ecb154f4.jpg",
+        "https://telegra.ph/file/19b07ca808ca2ebaea42e.jpg",
+        "https://telegra.ph/file/41f42a02abb56a59e24aa.jpg",
+        "https://telegra.ph/file/effffbd0b0463fd933895.jpg",
+        "https://telegra.ph/file/068560376754ea96531d3.jpg",
+        "https://telegra.ph/file/171255314457017c051fb.jpg",
+        "https://telegra.ph/file/0eb4d9cd8473344436729.jpg"
+    ]
+};

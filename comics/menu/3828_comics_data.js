@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3828,
+    "title": "[仲町まち] 溢れちゃう♡ (COMIC 快楽天ビースト 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/仲町まち-溢れちゃう-COMIC-快楽天ビースト-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/af68a21e360c1b5ad8e9f.jpg",
+        "https://telegra.ph/file/17c360eb8201c47de64ca.jpg",
+        "https://telegra.ph/file/5eee0d4d661362ef5c550.jpg",
+        "https://telegra.ph/file/a9b7952b655a0f5f80a1a.jpg",
+        "https://telegra.ph/file/68010dd468672068ef588.jpg",
+        "https://telegra.ph/file/f96b9a8f0b4e3bd3f2387.jpg",
+        "https://telegra.ph/file/dbc5b94fac76338019b0a.jpg",
+        "https://telegra.ph/file/81de3f2a7c44b80d95452.jpg",
+        "https://telegra.ph/file/a12854d7c57099ddd9912.jpg",
+        "https://telegra.ph/file/382633e2e60fc780ad56e.jpg",
+        "https://telegra.ph/file/c1596ab97b3c0f720c598.jpg",
+        "https://telegra.ph/file/eb4051c5f2463cf10b4fe.jpg",
+        "https://telegra.ph/file/d56c2bdbbe8f295f8a612.jpg",
+        "https://telegra.ph/file/940d219ec51908601b8b4.jpg",
+        "https://telegra.ph/file/b5caed255303eb1c83acd.jpg",
+        "https://telegra.ph/file/a28f9f160bdbbb8ed05dd.jpg",
+        "https://telegra.ph/file/eb4807c972a0a9076376e.jpg",
+        "https://telegra.ph/file/4a92a6aa8fb21ca99d196.jpg",
+        "https://telegra.ph/file/9fe24ff498567535f7628.jpg",
+        "https://telegra.ph/file/8f808da230e643b3166a3.jpg",
+        "https://telegra.ph/file/14c9a43b0fdf183784ce5.jpg",
+        "https://telegra.ph/file/36f30feb9f4d6912bbd90.jpg",
+        "https://telegra.ph/file/35bca8281d777de5c3c55.jpg",
+        "https://telegra.ph/file/111cfa5e39c35575a2987.jpg",
+        "https://telegra.ph/file/05c5b7adfe574923fc83d.jpg"
+    ]
+};

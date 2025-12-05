@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4817,
+    "title": "[グラナダの空 (十はやみ)] おやすみのあとで",
+    "sourceUrl": "https://telegra.ph/グラナダの空-十はやみ-おやすみのあとで-08-31",
+    "images": [
+        "https://telegra.ph/file/7bca0e63cc3f655fa193e.jpg",
+        "https://telegra.ph/file/23756ef5c30e5251f4f24.jpg",
+        "https://telegra.ph/file/745abefaba40211784cbf.jpg",
+        "https://telegra.ph/file/7c5661d89e3c4fe2b4b3a.jpg",
+        "https://telegra.ph/file/40c1249ee62a8ae9be4ae.jpg",
+        "https://telegra.ph/file/1f73d44f9264c5bb45212.jpg",
+        "https://telegra.ph/file/974e4ee9fce77cbf39b3e.jpg",
+        "https://telegra.ph/file/fd1c910abdaac1c766278.jpg",
+        "https://telegra.ph/file/7775ddbc78df935d8fee6.jpg",
+        "https://telegra.ph/file/7cdc82e6b9d0ac698fb1d.jpg",
+        "https://telegra.ph/file/0ddec83020732a5106328.jpg",
+        "https://telegra.ph/file/0e9150c39f23a9716a7ed.jpg",
+        "https://telegra.ph/file/f351a8dfb004f41ff51d2.jpg",
+        "https://telegra.ph/file/1e77557950d7e38ea8208.jpg",
+        "https://telegra.ph/file/dd2c37bad1550bdd42323.jpg",
+        "https://telegra.ph/file/f44673fe95bb89bac4769.jpg",
+        "https://telegra.ph/file/b82e2b678d2274cd4fe14.jpg",
+        "https://telegra.ph/file/76ce135acfde9d507613b.jpg",
+        "https://telegra.ph/file/22dca614cbc3b0cfa7739.jpg",
+        "https://telegra.ph/file/470d12f047ab2ceae5bb3.jpg",
+        "https://telegra.ph/file/42ba3e7413af95e136881.jpg",
+        "https://telegra.ph/file/c5e66ee2af858c60f1751.jpg",
+        "https://telegra.ph/file/4efb9cc086b57bf93b909.jpg",
+        "https://telegra.ph/file/59fa7a1bd517306716020.jpg",
+        "https://telegra.ph/file/c53bf3862957f0e435202.jpg"
+    ]
+};

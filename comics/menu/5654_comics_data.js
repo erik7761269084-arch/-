@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5654,
+    "title": "[加藤じゅん] アナザーアイランド",
+    "sourceUrl": "https://telegra.ph/加藤じゅん-アナザーアイランド-08-31",
+    "images": [
+        "https://telegra.ph/file/15782ecec658a207dc36b.jpg",
+        "https://telegra.ph/file/f6a33d2b5ba6c3876788e.jpg",
+        "https://telegra.ph/file/d767e12dd0c2af67c7088.jpg",
+        "https://telegra.ph/file/d44d3367f0427dcbabfc6.jpg",
+        "https://telegra.ph/file/9802701a1dad896ff224a.jpg",
+        "https://telegra.ph/file/65ead9690d0d3780e1741.jpg",
+        "https://telegra.ph/file/e659cebcd2f90c32c907e.jpg",
+        "https://telegra.ph/file/47ac9a36af88024befa30.jpg",
+        "https://telegra.ph/file/8328bf598b4063a164232.jpg",
+        "https://telegra.ph/file/9cc29f9c8a4712f9228d7.jpg",
+        "https://telegra.ph/file/32d359de73ba131aa017a.jpg",
+        "https://telegra.ph/file/76f055d78c48ec4040601.jpg",
+        "https://telegra.ph/file/20de9a10d5f5c46923de6.jpg",
+        "https://telegra.ph/file/de4260a8abf2b4f5644b2.jpg",
+        "https://telegra.ph/file/c2d380904fbd4ce2abdc6.jpg",
+        "https://telegra.ph/file/13f2c35919344a310f13c.jpg",
+        "https://telegra.ph/file/d77982e3481c6fc98488e.jpg",
+        "https://telegra.ph/file/eb76b9e6da1ef064eeef3.jpg",
+        "https://telegra.ph/file/3c02d1342c0b389bfc28a.jpg",
+        "https://telegra.ph/file/d6500820529213470015e.jpg",
+        "https://telegra.ph/file/6f745f6428413405c30cc.jpg",
+        "https://telegra.ph/file/5b5cce7fce113839ee585.jpg",
+        "https://telegra.ph/file/480432c8b53ae38c0f0cb.jpg",
+        "https://telegra.ph/file/216597d3bc8fcdac84f84.jpg"
+    ]
+};

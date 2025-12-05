@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4434,
+    "title": "[天のカツラ屋 (JJune)] K.Appeal (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/天のカツラ屋-JJune-KAppeal-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/3221fcbe4be1ae5a636a3.jpg",
+        "https://telegra.ph/file/f61bec1145620d5d642e0.jpg",
+        "https://telegra.ph/file/c8dd1fe15299ff0f75453.jpg",
+        "https://telegra.ph/file/ebdd76506eca46b706ec6.jpg",
+        "https://telegra.ph/file/89226d07cc30d5ffa5345.jpg",
+        "https://telegra.ph/file/ee8a0d4c3fff9bc29d0a8.jpg",
+        "https://telegra.ph/file/a41ef27151f7063bedef7.jpg",
+        "https://telegra.ph/file/d0c7e1af2822a4441a80f.jpg",
+        "https://telegra.ph/file/fb065e1dfb44ecf40b179.jpg",
+        "https://telegra.ph/file/979f672547176fdf3fe7a.jpg",
+        "https://telegra.ph/file/7b138f35bb83794e5aa4a.jpg",
+        "https://telegra.ph/file/fa2b3e5650379bbfca985.jpg",
+        "https://telegra.ph/file/0c8a1b1e5c993926070e2.jpg",
+        "https://telegra.ph/file/255f319cdd6e98f691ede.jpg",
+        "https://telegra.ph/file/9760175daeb4f294f9362.jpg",
+        "https://telegra.ph/file/863d13c13f36b9a1a4b81.jpg",
+        "https://telegra.ph/file/12b389219523169790580.jpg",
+        "https://telegra.ph/file/0a68a758520e2a8e7c974.jpg",
+        "https://telegra.ph/file/b1394848aaffddc0ba8e8.jpg",
+        "https://telegra.ph/file/2440e53c371c5b8cac1d0.jpg",
+        "https://telegra.ph/file/70e6479a9153002c48740.jpg",
+        "https://telegra.ph/file/cfd4aabf1ffd7a555671f.jpg",
+        "https://telegra.ph/file/977d85a9837fc6f5d3ebe.jpg",
+        "https://telegra.ph/file/f75c6c60dae8b8cc906f3.jpg",
+        "https://telegra.ph/file/7864aabdfe7513613285c.jpg",
+        "https://telegra.ph/file/dd5872aced46583d1e357.jpg"
+    ]
+};

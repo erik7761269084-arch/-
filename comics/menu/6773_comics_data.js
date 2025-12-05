@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6773,
+    "title": "しかたない3人",
+    "sourceUrl": "https://telegra.ph/しかたない3人-08-31",
+    "images": [
+        "https://telegra.ph/file/53431ba9906608dffcd41.jpg",
+        "https://telegra.ph/file/b84a8c9048a58846265cc.jpg",
+        "https://telegra.ph/file/78ff771329fad5450e326.jpg",
+        "https://telegra.ph/file/0984d1656b084ef066b54.jpg",
+        "https://telegra.ph/file/9351d1a55e1386ed1c25d.jpg",
+        "https://telegra.ph/file/aae0559fcd3ef30896ed9.jpg",
+        "https://telegra.ph/file/397524e70dd9ff2abb190.jpg",
+        "https://telegra.ph/file/2427ae165a045d1eb1718.jpg",
+        "https://telegra.ph/file/dc62c0a69f37fe0fbe7bf.jpg",
+        "https://telegra.ph/file/96b5195d9e996c7c7d123.jpg",
+        "https://telegra.ph/file/640f7f22ad6f8bcead162.jpg",
+        "https://telegra.ph/file/bc2b59f0c1889def6ad1b.jpg",
+        "https://telegra.ph/file/8ce8075e2e98fdb831ea7.jpg",
+        "https://telegra.ph/file/836b86b7aa84f35464bd8.jpg",
+        "https://telegra.ph/file/3853f70c6ce8b86413c7e.jpg",
+        "https://telegra.ph/file/6e7d7451c7d6d68b8a362.jpg",
+        "https://telegra.ph/file/5d6df4f2a20a619d1b0f1.jpg",
+        "https://telegra.ph/file/af21bb4681bfce2dc2b4a.jpg",
+        "https://telegra.ph/file/5ee55ab3658b1eaaf1c4c.jpg",
+        "https://telegra.ph/file/50a7eab5585ecf129e05a.jpg",
+        "https://telegra.ph/file/b24c31ee2e04cb50d685f.jpg",
+        "https://telegra.ph/file/caa02c1ad73dbc7a8c6c3.jpg",
+        "https://telegra.ph/file/4c4d738272e05d166a023.jpg",
+        "https://telegra.ph/file/09c42705f54ac902985fe.jpg"
+    ]
+};

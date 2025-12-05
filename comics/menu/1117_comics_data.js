@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1117,
+    "title": "[ブラックムーン (黒月)] 監禁の猫 番外篇",
+    "sourceUrl": "https://telegra.ph/ブラックムーン-黒月-監禁の猫-番外篇-08-31",
+    "images": [
+        "https://telegra.ph/file/b6d5d18260c0093073d7d.jpg",
+        "https://telegra.ph/file/3ea0096df044adcc1a065.jpg",
+        "https://telegra.ph/file/a794aaf75b579570ba0ad.jpg",
+        "https://telegra.ph/file/fe2391afa078d0eb5f17c.jpg",
+        "https://telegra.ph/file/9d60d3a2cbf48d35d62c7.jpg",
+        "https://telegra.ph/file/b83edaf7d94372cc4681a.jpg",
+        "https://telegra.ph/file/fae6faccb891c79e28486.jpg",
+        "https://telegra.ph/file/99fad77052e4d61de4cc3.jpg",
+        "https://telegra.ph/file/9504ca0293e2a1f18ad7c.jpg",
+        "https://telegra.ph/file/41e1732d346ed3bac4ee6.jpg",
+        "https://telegra.ph/file/274c35abf54ac88d95163.jpg",
+        "https://telegra.ph/file/af80cd070645bd6612350.jpg",
+        "https://telegra.ph/file/6d1fdc8898bff17a074e1.jpg",
+        "https://telegra.ph/file/4ebee3414abc6562c83ae.jpg",
+        "https://telegra.ph/file/a859bd390e89e8130d53f.jpg",
+        "https://telegra.ph/file/641ec3ab0b3c708853bef.jpg",
+        "https://telegra.ph/file/a7f3bab466c8bc6428b09.jpg",
+        "https://telegra.ph/file/93a5f951c6ef33284c3bf.jpg",
+        "https://telegra.ph/file/bc760370e7040d2754726.jpg",
+        "https://telegra.ph/file/e44795362e3eef492287d.jpg",
+        "https://telegra.ph/file/d4f67bb696dae4120b01c.jpg",
+        "https://telegra.ph/file/ef2612588c4038690d1ab.jpg",
+        "https://telegra.ph/file/d0443c7f7fd8b2ad1d4d6.jpg",
+        "https://telegra.ph/file/977ba39131ed5a4cc1f54.jpg",
+        "https://telegra.ph/file/01847250d48cbc066f8b3.jpg",
+        "https://telegra.ph/file/e2c75f9646deb989db94c.jpg"
+    ]
+};

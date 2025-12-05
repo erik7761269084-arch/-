@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2949,
+    "title": "[霜降りまぐろ] cr●ssi●k 配信部屋でお泊まりお仕置き百合えっち (白雪巴、健屋花那)",
+    "sourceUrl": "https://telegra.ph/霜降りまぐろ-crssik-配信部屋でお泊まりお仕置き百合えっち-白雪巴健屋花那-08-31-2",
+    "images": [
+        "https://telegra.ph/file/a4a3db54cbcb5d6b4f1b2.jpg",
+        "https://telegra.ph/file/7bd9339e28bb4b22d3b7e.jpg",
+        "https://telegra.ph/file/5f2c3f5964dd90bace52f.jpg",
+        "https://telegra.ph/file/e6911cc715e2f9848fdda.jpg",
+        "https://telegra.ph/file/a9a29e5e2ba7a3eeb3ab1.jpg",
+        "https://telegra.ph/file/762a94fec9fe19440f353.jpg",
+        "https://telegra.ph/file/8ba70597ded4ef0efcd2f.jpg",
+        "https://telegra.ph/file/90733f2ce1d5cc53b9161.jpg",
+        "https://telegra.ph/file/d0b30ff64ee9aab6ccae7.jpg",
+        "https://telegra.ph/file/7741d2fde7daff362745f.jpg",
+        "https://telegra.ph/file/2f27dd41912876931b059.jpg",
+        "https://telegra.ph/file/eaa313687ea137dfd9f1b.jpg",
+        "https://telegra.ph/file/882f53b77059b836de89a.jpg",
+        "https://telegra.ph/file/d49a52df72427c6378998.jpg",
+        "https://telegra.ph/file/f2bbce20dbbb33f6e6b48.jpg",
+        "https://telegra.ph/file/6f49a2583f286a8b830f3.jpg",
+        "https://telegra.ph/file/e5757cacd6b11b3cb39df.jpg",
+        "https://telegra.ph/file/623e30e5a73e9943089c2.jpg",
+        "https://telegra.ph/file/49dea639620726c8f3b1d.jpg",
+        "https://telegra.ph/file/15d284c9fefd879aaf295.jpg",
+        "https://telegra.ph/file/2cc036edf5a70ecf4b3f1.jpg",
+        "https://telegra.ph/file/2e31e692e0a23608d0be7.jpg",
+        "https://telegra.ph/file/ce604d8b8cbf22682c110.jpg",
+        "https://telegra.ph/file/ec9385cb9ae48bdf734f3.jpg",
+        "https://telegra.ph/file/19ad34b98d181cc4f793c.jpg",
+        "https://telegra.ph/file/328a2f17979296db9ffc0.jpg"
+    ]
+};

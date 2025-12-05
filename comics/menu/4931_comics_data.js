@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4931,
+    "title": "[児島未生] 帰郷 (俺の母さんがいつまでもエロすぎる)",
+    "sourceUrl": "https://telegra.ph/児島未生-帰郷-俺の母さんがいつまでもエロすぎる-08-31",
+    "images": [
+        "https://telegra.ph/file/6e960b4126282d7750048.jpg",
+        "https://telegra.ph/file/51e6ac723e378ba7add21.jpg",
+        "https://telegra.ph/file/0384e06f8be7b886ba6b4.jpg",
+        "https://telegra.ph/file/3ee0c61a6b0a05746a603.jpg",
+        "https://telegra.ph/file/d27d85b13f430732f0cda.jpg",
+        "https://telegra.ph/file/106b88190b226736cc5d2.jpg",
+        "https://telegra.ph/file/4a2a4ca899b09f4214fd5.jpg",
+        "https://telegra.ph/file/53c005c55e90d7640c114.jpg",
+        "https://telegra.ph/file/d203dd54be431d15bcdb6.jpg",
+        "https://telegra.ph/file/0b5232e41ea57f7267a1d.jpg",
+        "https://telegra.ph/file/a728923e4d5afb2eaf48c.jpg",
+        "https://telegra.ph/file/46b0ef7ed5649485c1125.jpg",
+        "https://telegra.ph/file/4c9a10e2f90bb87f4ac59.jpg",
+        "https://telegra.ph/file/a97db4f9e971fb9033038.jpg",
+        "https://telegra.ph/file/529d0962764c8026f225e.jpg",
+        "https://telegra.ph/file/de27653810eafc34463cd.jpg",
+        "https://telegra.ph/file/6593a7434f872683fdea8.jpg",
+        "https://telegra.ph/file/1448327b9f94c3fb010d9.jpg",
+        "https://telegra.ph/file/b3abdc64eff745126dfbc.jpg",
+        "https://telegra.ph/file/8775f416d763de6e5a470.jpg",
+        "https://telegra.ph/file/067d07bc2532a66c21cbd.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/9c929984989d801422ecf.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ]
+};

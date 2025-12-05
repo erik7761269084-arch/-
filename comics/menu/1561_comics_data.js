@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1561,
+    "title": "[液態水] 白濁的冠軍之戰!",
+    "sourceUrl": "https://telegra.ph/液態水-白濁的冠軍之戰-08-31",
+    "images": [
+        "https://telegra.ph/file/b5f8f2ac7face1c9770b0.jpg",
+        "https://telegra.ph/file/291e366ef528dcd316aa4.jpg",
+        "https://telegra.ph/file/568c5239a5b534a7b5abe.jpg",
+        "https://telegra.ph/file/212e7bb3ac3bf0daa0d80.jpg",
+        "https://telegra.ph/file/a7c76a1a2b80fb714244e.jpg",
+        "https://telegra.ph/file/e475f33199c015477ec08.jpg",
+        "https://telegra.ph/file/f6c05847e3854f79f8e46.jpg",
+        "https://telegra.ph/file/e23a7c65e1daa42ba5cdb.jpg",
+        "https://telegra.ph/file/689181fc2fe735c06a364.jpg",
+        "https://telegra.ph/file/7ed0a67194812988d2f78.jpg",
+        "https://telegra.ph/file/94f9b4b2acdf5d1769aaa.jpg",
+        "https://telegra.ph/file/0eee5622c9fd02ca99e35.jpg",
+        "https://telegra.ph/file/1ce0d164609e231a1188d.jpg",
+        "https://telegra.ph/file/cdc486538c9ffbea63836.jpg",
+        "https://telegra.ph/file/39b75a669890d8c18b0de.jpg",
+        "https://telegra.ph/file/0f1d87f811f1533ff15c5.jpg",
+        "https://telegra.ph/file/d3ab8c676de334764d3d8.jpg",
+        "https://telegra.ph/file/17c9fddf6da546ea6fc30.jpg",
+        "https://telegra.ph/file/f02d90708a6dc61fde700.jpg",
+        "https://telegra.ph/file/c1d987dc2c5eed6d643bf.jpg",
+        "https://telegra.ph/file/db43fb9da48b2122d171e.jpg",
+        "https://telegra.ph/file/062ee971be53ffc993c63.jpg",
+        "https://telegra.ph/file/5eb376853b00ed0a091dd.jpg",
+        "https://telegra.ph/file/e2c217c13e180e257efef.jpg",
+        "https://telegra.ph/file/8c2ab133d3b9bb8c6648e.jpg",
+        "https://telegra.ph/file/880ea93364590b44eb776.jpg"
+    ]
+};

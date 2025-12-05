@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6803,
+    "title": "ほどいて×しばって",
+    "sourceUrl": "https://telegra.ph/ほどいてしばって-08-31",
+    "images": [
+        "https://telegra.ph/file/e50686b18ada22c3e91a6.jpg",
+        "https://telegra.ph/file/6286535cc5e4940402dc7.jpg",
+        "https://telegra.ph/file/832b7475c2a7482c16e37.jpg",
+        "https://telegra.ph/file/60b70951d32dffa9480c0.jpg",
+        "https://telegra.ph/file/382bf53da5b1fbe5597e9.jpg",
+        "https://telegra.ph/file/7568db629aed8badda9da.jpg",
+        "https://telegra.ph/file/d4b4a21c461620f628d92.jpg",
+        "https://telegra.ph/file/ce0748ab06427ce6c370d.jpg",
+        "https://telegra.ph/file/61ade506f9ea2db68b259.jpg",
+        "https://telegra.ph/file/5ff815525751bd422e39b.jpg",
+        "https://telegra.ph/file/8ecb583d89c0ece6f533a.jpg",
+        "https://telegra.ph/file/b1bdded0ad21d14a6de21.jpg",
+        "https://telegra.ph/file/0013e617a62e8a50e9843.jpg",
+        "https://telegra.ph/file/cd10c8776e84312862871.jpg",
+        "https://telegra.ph/file/bd794a5862a94f9f8ceb7.jpg",
+        "https://telegra.ph/file/b4ebee8fa9c86f779802c.jpg",
+        "https://telegra.ph/file/f68746b98cd24faf12fb6.jpg",
+        "https://telegra.ph/file/cad91af69f853ee0b000d.jpg",
+        "https://telegra.ph/file/013ffc15b3685a4183147.jpg",
+        "https://telegra.ph/file/3c9593c1815262f3b93b4.jpg",
+        "https://telegra.ph/file/04694573e5516405141e0.jpg",
+        "https://telegra.ph/file/905c68e56d868ff632be0.jpg",
+        "https://telegra.ph/file/14204bbb0d50fddf38faf.jpg"
+    ]
+};

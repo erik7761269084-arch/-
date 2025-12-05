@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4475,
+    "title": "(C87) [ひとりようのポット (春日まゆ)] これが笑顔の魔法ですか (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/C87-ひとりようのポット-春日まゆ-これが笑顔の魔法ですか-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/59652c1fda96acd6f369d.jpg",
+        "https://telegra.ph/file/f59146c0ea29f707700e1.jpg",
+        "https://telegra.ph/file/63453391ce4cf66ed3410.jpg",
+        "https://telegra.ph/file/7c87e182492392e175cd2.jpg",
+        "https://telegra.ph/file/4feeafc90ec619fbd1639.jpg",
+        "https://telegra.ph/file/1d595c74e336db96f20c2.jpg",
+        "https://telegra.ph/file/ba73318bfa925049ea17a.jpg",
+        "https://telegra.ph/file/79f00c42b1fa0cfd49956.jpg",
+        "https://telegra.ph/file/02cbfe2416acb793d83b5.jpg",
+        "https://telegra.ph/file/b6f94634ee3eca135f9e1.jpg",
+        "https://telegra.ph/file/ad9174318a5755b6cb0f8.jpg",
+        "https://telegra.ph/file/e37b56822756603154b7c.jpg",
+        "https://telegra.ph/file/7a721556653459dc3b16d.jpg",
+        "https://telegra.ph/file/c08952689b192a03fe0ab.jpg",
+        "https://telegra.ph/file/92c5d5d704bbb51572de6.jpg",
+        "https://telegra.ph/file/b0104172d4cd2c9619366.jpg",
+        "https://telegra.ph/file/19173bc4085e3cb1a0de3.jpg",
+        "https://telegra.ph/file/e2da32e5636231ca2e3e3.jpg",
+        "https://telegra.ph/file/df50aa75d9440e7cd754d.jpg",
+        "https://telegra.ph/file/573c69f3b69ff6426f878.jpg",
+        "https://telegra.ph/file/ed5fc3b961ac2bb07a100.jpg",
+        "https://telegra.ph/file/6723d9669ba673bc37988.jpg",
+        "https://telegra.ph/file/ffaf9e9da40cf8369ae5d.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4764,
+    "title": "[えむお] 恋ギャルロッカーアタック! (COMIC アンスリウム 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/えむお-恋ギャルロッカーアタック-COMIC-アンスリウム-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/96f9a373dc273f4dbe3f1.jpg",
+        "https://telegra.ph/file/f8af1ea8b0f801ccc7e29.jpg",
+        "https://telegra.ph/file/77d0ed0d0341d1253415d.jpg",
+        "https://telegra.ph/file/784419a8c7bb4cdc389bb.jpg",
+        "https://telegra.ph/file/858bc73b91376f892eb9e.jpg",
+        "https://telegra.ph/file/8a658cf3b669fd258ad9c.jpg",
+        "https://telegra.ph/file/6260c71f7e8f19dcf8556.jpg",
+        "https://telegra.ph/file/3aaa5fc6021ab170e76d5.jpg",
+        "https://telegra.ph/file/fda22bb665bbb0ae61e5a.jpg",
+        "https://telegra.ph/file/fd58078718a31e021abef.jpg",
+        "https://telegra.ph/file/d03c6e6c8213bcb3603e4.jpg",
+        "https://telegra.ph/file/166d44d5081ecec761ab0.jpg",
+        "https://telegra.ph/file/b7c289b3535d1a661c91f.jpg",
+        "https://telegra.ph/file/7ce70cc5fb5984d510742.jpg",
+        "https://telegra.ph/file/18034ff0c8a6b274af4ad.jpg",
+        "https://telegra.ph/file/96a1cd277b2e3b38e335e.jpg",
+        "https://telegra.ph/file/25145f5164b1878172070.jpg",
+        "https://telegra.ph/file/d645763902e0e842b8939.jpg",
+        "https://telegra.ph/file/9ee10a5d494a5955e4190.jpg",
+        "https://telegra.ph/file/a3a982861d653f6874513.jpg",
+        "https://telegra.ph/file/5afc2d9197b67d75e0105.jpg",
+        "https://telegra.ph/file/16f5958029dabf34e321f.jpg",
+        "https://telegra.ph/file/31f211d78242f1bdc85e1.jpg",
+        "https://telegra.ph/file/5de7cd5fd4ff71f9a4a7f.jpg",
+        "https://telegra.ph/file/f077c7c5a690fd71e3b09.jpg",
+        "https://telegra.ph/file/23b63edfed7aef3034a8d.jpg"
+    ]
+};

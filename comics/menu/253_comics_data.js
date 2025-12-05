@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 253,
+    "title": "[紅涙] サキュバスの開花 (異世快楽天 Vol.1)",
+    "sourceUrl": "https://telegra.ph/紅涙-サキュバスの開花-異世快楽天-Vol1-08-31",
+    "images": [
+        "https://telegra.ph/file/637771becafee23ddb574.jpg",
+        "https://telegra.ph/file/abcb397aad0d17c36c975.jpg",
+        "https://telegra.ph/file/c67cc045bf6aecac6528b.jpg",
+        "https://telegra.ph/file/31f1577ce62612ae0a140.jpg",
+        "https://telegra.ph/file/486ce05d79ef9bcae3126.jpg",
+        "https://telegra.ph/file/7b5064f1f016c2fb9ff74.jpg",
+        "https://telegra.ph/file/a562417730986a7b0ac6b.jpg",
+        "https://telegra.ph/file/e090db5e0845bf6359d25.jpg",
+        "https://telegra.ph/file/c2a1ef1df4bc159007160.jpg",
+        "https://telegra.ph/file/dca61e8f6b4f8e42bed1a.jpg",
+        "https://telegra.ph/file/678823b1e1c4b9e8fb43c.jpg",
+        "https://telegra.ph/file/1d969436ea33bc42ac81e.jpg",
+        "https://telegra.ph/file/44321527d4a723896130b.jpg",
+        "https://telegra.ph/file/0a38ab10565520c8600be.jpg",
+        "https://telegra.ph/file/005fdc1a2dfb6a8e3ccb5.jpg",
+        "https://telegra.ph/file/509f7ef7f8ed0fa9c7e22.jpg",
+        "https://telegra.ph/file/412de0751e14dea651aa6.jpg",
+        "https://telegra.ph/file/859644f17b1840dd5826c.jpg",
+        "https://telegra.ph/file/16f6d3ae86124d18d207c.jpg",
+        "https://telegra.ph/file/f0a7a8230f9a37da9f8e0.jpg",
+        "https://telegra.ph/file/61778872ce78fce2f2345.jpg",
+        "https://telegra.ph/file/04d97ec662f2ec3372261.jpg",
+        "https://telegra.ph/file/ab3d39261b1aa9598a782.jpg",
+        "https://telegra.ph/file/db2405206cf8674b96594.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 891,
+    "title": "[卍天堂書店 (浪花道またたび)] 異聞火魅華伝 鬼艶草子",
+    "sourceUrl": "https://telegra.ph/卍天堂書店-浪花道またたび-異聞火魅華伝-鬼艶草子-08-31",
+    "images": [
+        "https://telegra.ph/file/d9d769ff57763bb70dc22.jpg",
+        "https://telegra.ph/file/6ef270491b658c0ee392f.jpg",
+        "https://telegra.ph/file/c73d559261e6be0a53430.jpg",
+        "https://telegra.ph/file/6c3dc586cb44b3e958588.jpg",
+        "https://telegra.ph/file/d9b6707a1ab5243b6f5e8.jpg",
+        "https://telegra.ph/file/ff8c7962ac9d2a0980927.jpg",
+        "https://telegra.ph/file/3f10ae4a934691aa75d11.jpg",
+        "https://telegra.ph/file/ff4dd203e9b0c005220e9.jpg",
+        "https://telegra.ph/file/871ff229d5f16d3d11c4b.jpg",
+        "https://telegra.ph/file/e005780d4e3d18711f013.jpg",
+        "https://telegra.ph/file/5059ca8b6d420900c3ff3.jpg",
+        "https://telegra.ph/file/6e48af7fd04d4a0a7d2eb.jpg",
+        "https://telegra.ph/file/3abe58e55356c246c6ff4.jpg",
+        "https://telegra.ph/file/ea0b1b2a8420d991d7dfe.jpg",
+        "https://telegra.ph/file/db0ca78b87461d262e23b.jpg",
+        "https://telegra.ph/file/645d3003db455076ef6ec.jpg",
+        "https://telegra.ph/file/5de84056230c165792aec.jpg",
+        "https://telegra.ph/file/25658d4c9c53a9f09b815.jpg",
+        "https://telegra.ph/file/75255cd3724c53698b099.jpg",
+        "https://telegra.ph/file/9171fcb9dff6725ccba86.jpg",
+        "https://telegra.ph/file/f5fe3ae60c2bfde413e2f.jpg",
+        "https://telegra.ph/file/66e565146d302dbdd1ea1.jpg",
+        "https://telegra.ph/file/eb28afdd8cf5b559b7ffe.jpg",
+        "https://telegra.ph/file/f49e02d3e90201063a8cf.jpg"
+    ]
+};

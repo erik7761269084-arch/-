@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6821,
+    "title": "only you！",
+    "sourceUrl": "https://telegra.ph/only-you-08-31-5",
+    "images": [
+        "https://telegra.ph/file/2aa563d0f3225529b94d3.jpg",
+        "https://telegra.ph/file/bc721a3edd3773840418d.jpg",
+        "https://telegra.ph/file/ce93025564650ae19bb3f.jpg",
+        "https://telegra.ph/file/bb1e90bf5ac2ac5f300b2.jpg",
+        "https://telegra.ph/file/eeed8aa492dbfa09bfcb2.jpg",
+        "https://telegra.ph/file/381c0d995bc886b078555.jpg",
+        "https://telegra.ph/file/0215d763ec4384a6c289c.jpg",
+        "https://telegra.ph/file/686fd0cdb1249e4907f8d.jpg",
+        "https://telegra.ph/file/51e967a67ae996cdc4734.jpg",
+        "https://telegra.ph/file/46fa6622e407dbde2448c.jpg",
+        "https://telegra.ph/file/e07e99d9e7beb94428c09.jpg",
+        "https://telegra.ph/file/c9637e8bc436bd8ae9d91.jpg",
+        "https://telegra.ph/file/f540b04f310539ff3bb0f.jpg",
+        "https://telegra.ph/file/58a32e86a8aad116c95e4.jpg",
+        "https://telegra.ph/file/e1eef8a18479d40fce2e1.jpg",
+        "https://telegra.ph/file/4954c1899796f3302a589.jpg",
+        "https://telegra.ph/file/d7db53a41e36715ef6467.jpg",
+        "https://telegra.ph/file/892da7e0638aa58544f22.jpg",
+        "https://telegra.ph/file/e32c082fe175c8dc51059.jpg",
+        "https://telegra.ph/file/a2db3e9e5a5bf357ad309.jpg",
+        "https://telegra.ph/file/8dc416ac6858a6d22582b.jpg",
+        "https://telegra.ph/file/46b963ed923a6852462ea.jpg",
+        "https://telegra.ph/file/7ab0072c13ce63167cfe3.jpg",
+        "https://telegra.ph/file/e67229b67b5baa3fff778.jpg",
+        "https://telegra.ph/file/4f9576c82b07d244bc727.jpg"
+    ]
+};

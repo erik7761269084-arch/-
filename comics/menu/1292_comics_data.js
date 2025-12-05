@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1292,
+    "title": "[武田弘光] オシエアイ (コミックメガストア 2009年4月号)",
+    "sourceUrl": "https://telegra.ph/武田弘光-オシエアイ-コミックメガストア-2009年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7761985f1ce4876ec86a0.jpg",
+        "https://telegra.ph/file/22c0a1f9dffc87815e8c6.jpg",
+        "https://telegra.ph/file/ad9fc7e9067c9f3042985.jpg",
+        "https://telegra.ph/file/c176694086fdacdf0efdb.jpg",
+        "https://telegra.ph/file/a0a0dc28744f7244fdd3d.jpg",
+        "https://telegra.ph/file/3026c40ac30df2497c9f5.jpg",
+        "https://telegra.ph/file/6d97af2f81c5b71b4884c.jpg",
+        "https://telegra.ph/file/a668eed1db7c7b472b023.jpg",
+        "https://telegra.ph/file/e37f744f4722b604deb39.jpg",
+        "https://telegra.ph/file/1a5206cb0f8a3432341d2.jpg",
+        "https://telegra.ph/file/bfc9c50adc681c5a53fef.jpg",
+        "https://telegra.ph/file/fdb9e95ffa080d182910f.jpg",
+        "https://telegra.ph/file/26c839f6ec3c88cfae19f.jpg",
+        "https://telegra.ph/file/e6ef6426941a2fe71176e.jpg",
+        "https://telegra.ph/file/2a157783e8dfa22b8181b.jpg",
+        "https://telegra.ph/file/a3286efbdf35d7409550c.jpg",
+        "https://telegra.ph/file/e285a53212c72f99d4727.jpg",
+        "https://telegra.ph/file/b2cd66385be0452a17aca.jpg",
+        "https://telegra.ph/file/10749868127b35474ef68.jpg",
+        "https://telegra.ph/file/2c1bf8792d53117bb4ebf.jpg",
+        "https://telegra.ph/file/cfaa21ee293be150d16c9.jpg",
+        "https://telegra.ph/file/44508bc607a8ad076be49.jpg",
+        "https://telegra.ph/file/e4f087b308b65e159ebc2.jpg",
+        "https://telegra.ph/file/288a27f1a84ea1718ebb3.jpg",
+        "https://telegra.ph/file/c71048ba3ae4207f70749.jpg",
+        "https://telegra.ph/file/ee82e44de7b4765c16c49.jpg"
+    ]
+};

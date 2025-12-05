@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2533,
+    "title": "[かえでもみじ (しじょっこ)] つよいお姉ちゃんが催眠香に抵抗する話",
+    "sourceUrl": "https://telegra.ph/かえでもみじ-しじょっこ-つよいお姉ちゃんが催眠香に抵抗する話-08-31",
+    "images": [
+        "https://telegra.ph/file/0cdba33199f0c858582eb.jpg",
+        "https://telegra.ph/file/0e3e99bf0ebf9fff1d800.jpg",
+        "https://telegra.ph/file/f5a9b31bcab78a8909d51.jpg",
+        "https://telegra.ph/file/876d88f07ebb41ef27d65.jpg",
+        "https://telegra.ph/file/083a777908dd9285c9265.jpg",
+        "https://telegra.ph/file/65aa23b3e85826d02ff9b.jpg",
+        "https://telegra.ph/file/99a032d18b2868a2e6807.jpg",
+        "https://telegra.ph/file/3a7412e2860e253c27153.jpg",
+        "https://telegra.ph/file/c080c2065db199d79b73f.jpg",
+        "https://telegra.ph/file/2e53cb08e0ca6d51238f6.jpg",
+        "https://telegra.ph/file/36d8e8ccd841687c6e91f.jpg",
+        "https://telegra.ph/file/fbed3ed42045d5cdef971.jpg",
+        "https://telegra.ph/file/015b0a2fa6500bf66d494.jpg",
+        "https://telegra.ph/file/d396d151a16439f860647.jpg",
+        "https://telegra.ph/file/50912a29ea1e27634158f.jpg",
+        "https://telegra.ph/file/321ace8c85a1fc9bcfbaf.jpg",
+        "https://telegra.ph/file/ad1385e5bad141441f197.jpg",
+        "https://telegra.ph/file/c4b4bb60a6ed1324e81ee.jpg",
+        "https://telegra.ph/file/97c891ac1f92d2c1a281e.jpg",
+        "https://telegra.ph/file/31af7f89852fbeeecef90.jpg",
+        "https://telegra.ph/file/720ab998219eee81e44e8.jpg",
+        "https://telegra.ph/file/f917f8b1b1d08cebd3040.jpg",
+        "https://telegra.ph/file/d46c99909414256d954bf.jpg",
+        "https://telegra.ph/file/976a5d842b0ec5c3dc05a.jpg",
+        "https://telegra.ph/file/87a664f2ecb34d0878329.jpg",
+        "https://telegra.ph/file/ba82ab808026b67fe1f1e.jpg"
+    ]
+};

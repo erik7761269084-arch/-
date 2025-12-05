@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4032,
+    "title": "[白野じん] 元気ハツラツ!お義父さん (コミックホットミルク濃いめ vol.20)",
+    "sourceUrl": "https://telegra.ph/白野じん-元気ハツラツお義父さん-コミックホットミルク濃いめ-vol20-08-31",
+    "images": [
+        "https://telegra.ph/file/dd1219138aa4d783cce4e.jpg",
+        "https://telegra.ph/file/351481f8659793c19916b.jpg",
+        "https://telegra.ph/file/516dbf65ef6b86b5af7b6.jpg",
+        "https://telegra.ph/file/7815679018b7f00aee74d.jpg",
+        "https://telegra.ph/file/f25b7ee9f8d6386c4ad48.jpg",
+        "https://telegra.ph/file/d2d0f42bb39f90d6e2a77.jpg",
+        "https://telegra.ph/file/fb48caa2e0a2362ec854d.jpg",
+        "https://telegra.ph/file/b207ccdcd490f6ec2b604.jpg",
+        "https://telegra.ph/file/ccf4365d5bd3399def13a.jpg",
+        "https://telegra.ph/file/ab2e8102f5dc006e1e879.jpg",
+        "https://telegra.ph/file/08703421a4683b2ba4ab3.jpg",
+        "https://telegra.ph/file/0c54b077776ad74070c23.jpg",
+        "https://telegra.ph/file/b374a7e5d84be5eb105ac.jpg",
+        "https://telegra.ph/file/bb3c8a51a4b15776d2333.jpg",
+        "https://telegra.ph/file/6aac8c06b052b0953c5b9.jpg",
+        "https://telegra.ph/file/f3886cdf281a2e3087846.jpg",
+        "https://telegra.ph/file/ffd1f415591409685da94.jpg",
+        "https://telegra.ph/file/cadfe07a25f5c6a8a072b.jpg",
+        "https://telegra.ph/file/41e03f191d79328009cbb.jpg",
+        "https://telegra.ph/file/182550ea40fe3af66bf0a.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3600,
+    "title": "[丑露ムキ] 優等生のオンナノコ (COMIC BAVEL 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/丑露ムキ-優等生のオンナノコ-COMIC-BAVEL-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d836f71adf83376233b58.jpg",
+        "https://telegra.ph/file/09834a50d7cc778f430e2.jpg",
+        "https://telegra.ph/file/6a4014fa157b5890655c8.jpg",
+        "https://telegra.ph/file/f1acf1560f1a4c7f2f149.jpg",
+        "https://telegra.ph/file/fb2946ff11e86ae34e997.jpg",
+        "https://telegra.ph/file/4b4352d9fc681afdacc61.jpg",
+        "https://telegra.ph/file/ce4084e2ed42ce647d71c.jpg",
+        "https://telegra.ph/file/27baa69e523112bd4e24b.jpg",
+        "https://telegra.ph/file/7a2db8856b4f6dc0ef052.jpg",
+        "https://telegra.ph/file/cfc630be0a3a71a8d380d.jpg",
+        "https://telegra.ph/file/9431896fc80188f0f1c51.jpg",
+        "https://telegra.ph/file/3debebf9cb401a43617e1.jpg",
+        "https://telegra.ph/file/182a882bd17bf6aed6c13.jpg",
+        "https://telegra.ph/file/7f9cab1037ec63c7fbbbc.jpg",
+        "https://telegra.ph/file/1ed9a127d46d60ee1b47f.jpg",
+        "https://telegra.ph/file/b8cdeddd104c7dbb52327.jpg",
+        "https://telegra.ph/file/151009c0471d0eebf186e.jpg",
+        "https://telegra.ph/file/07aac465be756a325b353.jpg",
+        "https://telegra.ph/file/b36c6f78277a5dcf4121c.jpg",
+        "https://telegra.ph/file/124421d308ac62d64ec84.jpg",
+        "https://telegra.ph/file/411f40783d17629da9606.jpg",
+        "https://telegra.ph/file/314eee5d51ae14320bda9.jpg",
+        "https://telegra.ph/file/0a775b37cc3677605ca6b.jpg",
+        "https://telegra.ph/file/d6bda044c031d09df00b1.jpg",
+        "https://telegra.ph/file/b3059b447c9fde3e002a3.jpg",
+        "https://telegra.ph/file/f53136db679d40c082611.jpg"
+    ]
+};

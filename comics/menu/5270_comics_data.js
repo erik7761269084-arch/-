@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5270,
+    "title": "[だめなひ堂 (だめなひと)] 色は匂へど (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/だめなひ堂-だめなひと-色は匂へど-ブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/bc92bc0e49945d879839b.jpg",
+        "https://telegra.ph/file/67a06c79cb41f58386993.jpg",
+        "https://telegra.ph/file/93daf571af11523db3652.jpg",
+        "https://telegra.ph/file/6669e6ffab8bbb8204306.jpg",
+        "https://telegra.ph/file/bc2203045b506e589f0c0.jpg",
+        "https://telegra.ph/file/bf3c995fbda3fd3cc1854.jpg",
+        "https://telegra.ph/file/4eb44bcdd6b5eae9ef40d.jpg",
+        "https://telegra.ph/file/be7cda9e6ac3672e142f4.jpg",
+        "https://telegra.ph/file/82fff306a9744e58dbe31.jpg",
+        "https://telegra.ph/file/059303d9b6924c7ae1fb3.jpg",
+        "https://telegra.ph/file/a91bdd222595914e2d929.jpg",
+        "https://telegra.ph/file/cb6a9e1f5b84ae50be227.jpg",
+        "https://telegra.ph/file/fa9f2861d0ce7aa727ede.jpg",
+        "https://telegra.ph/file/329d02332921ef7c4464e.jpg",
+        "https://telegra.ph/file/9e515b6c683e909ba85f6.jpg",
+        "https://telegra.ph/file/70f562c457441ae585f2d.jpg",
+        "https://telegra.ph/file/40cdad13da65582d0d318.jpg",
+        "https://telegra.ph/file/169754e527af55d7592e5.jpg",
+        "https://telegra.ph/file/6af68de278e54457921fe.jpg",
+        "https://telegra.ph/file/940e2ea15de6f79057bfb.jpg",
+        "https://telegra.ph/file/b119cf3d697eed55d0ce9.jpg",
+        "https://telegra.ph/file/144c9d4843ebf556bc076.jpg",
+        "https://telegra.ph/file/66f5a4ff7d5e97422d975.jpg"
+    ]
+};

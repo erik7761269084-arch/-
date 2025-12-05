@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3550,
+    "title": "[三巷文] 僕はその人をよく知らない (コミック エグゼ 34)",
+    "sourceUrl": "https://telegra.ph/三巷文-僕はその人をよく知らない-コミック-エグゼ-34-08-31",
+    "images": [
+        "https://telegra.ph/file/9996ef643304b9e53771e.jpg",
+        "https://telegra.ph/file/ff5e996c1de5b2556b99d.jpg",
+        "https://telegra.ph/file/50b2af4f520cd86406642.jpg",
+        "https://telegra.ph/file/b01e3982fc5dec2d2b1d6.jpg",
+        "https://telegra.ph/file/6c9d66c3cdf019c303604.jpg",
+        "https://telegra.ph/file/c094c5dbc2aae8fb7eb61.jpg",
+        "https://telegra.ph/file/f846a492109c977c3cf80.jpg",
+        "https://telegra.ph/file/7d31a8031cb07e1c5477c.jpg",
+        "https://telegra.ph/file/57868d6c8c52e80e83dae.jpg",
+        "https://telegra.ph/file/e48abdb61f27472ed7002.jpg",
+        "https://telegra.ph/file/202f185526d63e69603f1.jpg",
+        "https://telegra.ph/file/d632755556f53ed744b8f.jpg",
+        "https://telegra.ph/file/c63cc9e5ec326d96bad48.jpg",
+        "https://telegra.ph/file/714004e93bc21dc32e34e.jpg",
+        "https://telegra.ph/file/fbf52bfa1421823ce7c4e.jpg",
+        "https://telegra.ph/file/483cffd18a276f9877eb9.jpg",
+        "https://telegra.ph/file/359110ea60c62f3250068.jpg",
+        "https://telegra.ph/file/838aea48688839ca55c4e.jpg",
+        "https://telegra.ph/file/a43e37dd12add54860246.jpg",
+        "https://telegra.ph/file/e08b3b1371ca43e12e4c8.jpg",
+        "https://telegra.ph/file/e904ad16ad9b153f493c3.jpg",
+        "https://telegra.ph/file/1008abf240d1e503c8269.jpg",
+        "https://telegra.ph/file/001af92b1e84664971970.jpg",
+        "https://telegra.ph/file/40c4897ea6d2353673466.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2974,
+    "title": "[tsxy] 女性化兄から彼女を寝取っちゃえ!",
+    "sourceUrl": "https://telegra.ph/tsxy-女性化兄から彼女を寝取っちゃえ-08-31",
+    "images": [
+        "https://telegra.ph/file/15ba78594b3bce63e942e.jpg",
+        "https://telegra.ph/file/967deab49aaad7b467ba0.jpg",
+        "https://telegra.ph/file/a42965cad16c1f6497b47.jpg",
+        "https://telegra.ph/file/66355df694bb6e289f63c.jpg",
+        "https://telegra.ph/file/da17f6a7d28dff036b0b9.jpg",
+        "https://telegra.ph/file/fc7e9304bff85efe8d1dd.jpg",
+        "https://telegra.ph/file/579a89f51fb2aa74ab200.jpg",
+        "https://telegra.ph/file/16142e4f017e73bbe7090.jpg",
+        "https://telegra.ph/file/121032207e2160bf49573.jpg",
+        "https://telegra.ph/file/3a40d9d0529022bed8f61.jpg",
+        "https://telegra.ph/file/deda2222d1af5bb074ba2.jpg",
+        "https://telegra.ph/file/98002f1402985ee4a06a0.jpg",
+        "https://telegra.ph/file/43992ce76728761db0eff.jpg",
+        "https://telegra.ph/file/55853ba24b68629968ed7.jpg",
+        "https://telegra.ph/file/614507dccdd9b83a078c0.jpg",
+        "https://telegra.ph/file/622b84d094f756f172bd7.jpg",
+        "https://telegra.ph/file/8e575aee6a3856ed23191.jpg",
+        "https://telegra.ph/file/12d5755512b67d04300ad.jpg",
+        "https://telegra.ph/file/ab86e4ffc2fa6d7b16b3d.jpg",
+        "https://telegra.ph/file/e79a65c8d01e481d5f93f.jpg",
+        "https://telegra.ph/file/5175d410436bd85ab9ded.jpg",
+        "https://telegra.ph/file/01223347da499eac7f7cb.jpg",
+        "https://telegra.ph/file/2f9d1ab5f6c54d17dc64e.jpg",
+        "https://telegra.ph/file/db56711f047352c8eff18.jpg"
+    ]
+};

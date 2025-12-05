@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2322,
+    "title": "[マゼンダ] ブタさんに分からせされるBBちゃん (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/マゼンダ-ブタさんに分からせされるBBちゃん-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/1cc288d8e3c9256d4e841.jpg",
+        "https://telegra.ph/file/a502a855aa9842259c83c.jpg",
+        "https://telegra.ph/file/888ca010b3fc843af03df.jpg",
+        "https://telegra.ph/file/fb4915d367bfdb49591f6.jpg",
+        "https://telegra.ph/file/364257f0860c700193081.jpg",
+        "https://telegra.ph/file/89a6a92c9e5f42b5cdaba.jpg",
+        "https://telegra.ph/file/97d7705d1174ba950c993.jpg",
+        "https://telegra.ph/file/47877c01b5d8dbff05496.jpg",
+        "https://telegra.ph/file/8031998581f23a4668493.jpg",
+        "https://telegra.ph/file/195a71f7e15ff62a8a189.jpg",
+        "https://telegra.ph/file/4d21ea0da1bfd06068fad.jpg",
+        "https://telegra.ph/file/2bd093ae9dbc857173aa3.jpg",
+        "https://telegra.ph/file/624343e5477c9e2d677b0.jpg",
+        "https://telegra.ph/file/8a548d1d80a70937adba2.jpg",
+        "https://telegra.ph/file/b8069458d443cbe16fe85.jpg",
+        "https://telegra.ph/file/2bba7650fc1844849994c.jpg",
+        "https://telegra.ph/file/bde2d2603170f64725ae5.jpg",
+        "https://telegra.ph/file/6e0e40511fb6e89428dfb.jpg",
+        "https://telegra.ph/file/7e74694c85703611f4c02.jpg",
+        "https://telegra.ph/file/5e04a12f1a7559da214c7.jpg",
+        "https://telegra.ph/file/bfd637b4547ee15a0b854.jpg",
+        "https://telegra.ph/file/d43fc101b1d7d4186d0a4.jpg",
+        "https://telegra.ph/file/16dac34550e585063f318.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2185,
+    "title": "(第2回ウルトラサマーフェスタ) [CHOCOLATE CUBE (三輪フタバ)] お着替え日誌",
+    "sourceUrl": "https://telegra.ph/第2回ウルトラサマーフェスタ-CHOCOLATE-CUBE-三輪フタバ-お着替え日誌-08-31",
+    "images": [
+        "https://telegra.ph/file/2180cfb39651dffed7ee5.jpg",
+        "https://telegra.ph/file/e2edaf9eedd4d6a5498d7.jpg",
+        "https://telegra.ph/file/bc5cac0e2765fa4d7976a.jpg",
+        "https://telegra.ph/file/f5811fb3ccdddef2a9bc0.jpg",
+        "https://telegra.ph/file/24e35823c7084de53f1c8.jpg",
+        "https://telegra.ph/file/f8eb5f40f70f9b95f8108.jpg",
+        "https://telegra.ph/file/f2d32b87b965227a9c548.jpg",
+        "https://telegra.ph/file/3887bc40c957db65e0752.jpg",
+        "https://telegra.ph/file/e0606b668ce9b7514c99a.jpg",
+        "https://telegra.ph/file/84f1a2e2b5a8a0ddda322.jpg",
+        "https://telegra.ph/file/3e5c906709701f31e4171.jpg",
+        "https://telegra.ph/file/55cec7653620d8fb20911.jpg",
+        "https://telegra.ph/file/5c559710c193d5b73537a.jpg",
+        "https://telegra.ph/file/8e82a43af4c5c850e622b.jpg",
+        "https://telegra.ph/file/e3ce45b3c6af8d4626cfb.jpg",
+        "https://telegra.ph/file/8d4872fc07ae9c2e8f162.jpg",
+        "https://telegra.ph/file/848ad4d10d4ff0c367b61.jpg",
+        "https://telegra.ph/file/02f6fb8733661514c4fa0.jpg",
+        "https://telegra.ph/file/c44761ae408757d227516.jpg",
+        "https://telegra.ph/file/6ca7c830d3d8a8f3efcbb.jpg",
+        "https://telegra.ph/file/0ab90fafedae3407a8cfa.jpg",
+        "https://telegra.ph/file/61240115ae7f259868df6.jpg",
+        "https://telegra.ph/file/2be7220f108c5fd97e01a.jpg",
+        "https://telegra.ph/file/56e200813a3f47b7cd659.jpg",
+        "https://telegra.ph/file/9cc2daf4be9b94b080f77.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

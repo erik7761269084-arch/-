@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2237,
+    "title": "[半里バード] おかえりのえっち (COMIC 快楽天ビースト 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/半里バード-おかえりのえっち-COMIC-快楽天ビースト-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f072f8386ef364fd603b6.jpg",
+        "https://telegra.ph/file/afdfb087bef40e4081f3c.jpg",
+        "https://telegra.ph/file/56104c76d600e351abe23.jpg",
+        "https://telegra.ph/file/fa32957c6592f93698046.jpg",
+        "https://telegra.ph/file/a06122f3ea7e9f6399394.jpg",
+        "https://telegra.ph/file/0695684f28178932d0698.jpg",
+        "https://telegra.ph/file/f832f7c7097c2ca8e6d97.jpg",
+        "https://telegra.ph/file/92f6ad88726309f44749a.jpg",
+        "https://telegra.ph/file/d60d6b7f6926e6452acaf.jpg",
+        "https://telegra.ph/file/c7e45cbf3ea27a04847fa.jpg",
+        "https://telegra.ph/file/42fdcdd6f2b56b86a6b94.jpg",
+        "https://telegra.ph/file/fed00af15643c8f967b62.jpg",
+        "https://telegra.ph/file/905aa6bf0b18fe26d33eb.jpg",
+        "https://telegra.ph/file/1a3276bd3c4dbc21b4ee3.jpg",
+        "https://telegra.ph/file/c899eaab715d0b044179d.jpg",
+        "https://telegra.ph/file/3192f5aaa7edaad6cab4d.jpg",
+        "https://telegra.ph/file/23d34180db3ddfe765cd1.jpg",
+        "https://telegra.ph/file/d6d513eda0cf5c7b899f6.jpg",
+        "https://telegra.ph/file/005a4e8633f73f109f784.jpg",
+        "https://telegra.ph/file/ae1c8161eb31cbda60590.jpg",
+        "https://telegra.ph/file/36f7011b9ded7a7aa5e6c.jpg",
+        "https://telegra.ph/file/978446bc0bc22fb950162.jpg",
+        "https://telegra.ph/file/273a3a43ea12277b7d89b.jpg",
+        "https://telegra.ph/file/7abe99c29a7bb71b10401.jpg",
+        "https://telegra.ph/file/e1712e43442f67444610b.jpg",
+        "https://telegra.ph/file/a44ed7d09491d96992572.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3491,
+    "title": "[大仕掛け (山家大右衛門)] 凪と颯とひたすらイチャイチャでラブラブなHをする本 (アイドルマスターシンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/大仕掛け-山家大右衛門-凪と颯とひたすらイチャイチャでラブラブなHをする本-アイドルマスターシンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/0f80744fd26b40e15499d.jpg",
+        "https://telegra.ph/file/876ae14d2fb0c07899625.jpg",
+        "https://telegra.ph/file/3654b3c7c51110c73eec1.jpg",
+        "https://telegra.ph/file/b08187a02d94ac0967b15.jpg",
+        "https://telegra.ph/file/46697dc0027db81771c7a.jpg",
+        "https://telegra.ph/file/31e3dbe3a93ac9f6db0c4.jpg",
+        "https://telegra.ph/file/7e64ada03987f49a89c1c.jpg",
+        "https://telegra.ph/file/e22dd4881b9ab5527c84d.jpg",
+        "https://telegra.ph/file/e779969e5dcec90e67bce.jpg",
+        "https://telegra.ph/file/e6f1714fa3f55b1fbcf40.jpg",
+        "https://telegra.ph/file/6e8f80f80c555bdd38baf.jpg",
+        "https://telegra.ph/file/9bfe7b8f14772c4bafcfc.jpg",
+        "https://telegra.ph/file/3ac7c2ff608d5921ded61.jpg",
+        "https://telegra.ph/file/9ef0dac0e1cafad235f9d.jpg",
+        "https://telegra.ph/file/b99bf10a7f77a4edbbfe7.jpg",
+        "https://telegra.ph/file/64a3fd65ea4b0a189704d.jpg",
+        "https://telegra.ph/file/6a9de32e20392185a8485.jpg",
+        "https://telegra.ph/file/6b273ba68982093087037.jpg",
+        "https://telegra.ph/file/73ec9746b324d0d9a1a26.jpg",
+        "https://telegra.ph/file/6f019308ecfc4c343bad2.jpg",
+        "https://telegra.ph/file/ff5bd658617b0e6cb50bb.jpg",
+        "https://telegra.ph/file/7dd0ecc7c77c7f2d77ef8.jpg",
+        "https://telegra.ph/file/597503b8d4d4e0cb6b3ae.jpg"
+    ]
+};

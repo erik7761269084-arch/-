@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1012,
+    "title": "[KAROMIX (karory)] 妹と(催眠で)イチャイチャする本2",
+    "sourceUrl": "https://telegra.ph/KAROMIX-karory-妹と催眠でイチャイチャする本2-08-31",
+    "images": [
+        "https://telegra.ph/file/ab9f5815b5fed1fd68402.jpg",
+        "https://telegra.ph/file/379183ee4efde0f034f57.jpg",
+        "https://telegra.ph/file/fec3da2858b69547933df.jpg",
+        "https://telegra.ph/file/db8ee7d29caab24005275.jpg",
+        "https://telegra.ph/file/33729ab4fa73021291e00.jpg",
+        "https://telegra.ph/file/a05b46295825757589734.jpg",
+        "https://telegra.ph/file/a0994248c01e75be09475.jpg",
+        "https://telegra.ph/file/f0e7fc5226deeaed4a79a.jpg",
+        "https://telegra.ph/file/028db6ab37b1526f8ba60.jpg",
+        "https://telegra.ph/file/bf2fd2da3e05f661544b7.jpg",
+        "https://telegra.ph/file/38c730b741e67df6b3155.jpg",
+        "https://telegra.ph/file/6b243c687ba7c4d13b2b0.jpg",
+        "https://telegra.ph/file/ae100686ac432f7b88eac.jpg",
+        "https://telegra.ph/file/8f63ac61066677630344c.jpg",
+        "https://telegra.ph/file/9eec19856886d8155271a.jpg",
+        "https://telegra.ph/file/ccec660657a190c836b02.jpg",
+        "https://telegra.ph/file/3799b46802359c4811fb6.jpg",
+        "https://telegra.ph/file/a443fd4ef5be4d5729ec6.jpg",
+        "https://telegra.ph/file/4070704287ca4a0a68687.jpg",
+        "https://telegra.ph/file/33b0215a9b5fb7d881449.jpg",
+        "https://telegra.ph/file/dd2c96d153c63ce6771ae.jpg",
+        "https://telegra.ph/file/8943962c43b28cf190b76.jpg",
+        "https://telegra.ph/file/7df636a45d5c52768335e.jpg",
+        "https://telegra.ph/file/8eb29895b7e3858f65d09.jpg",
+        "https://telegra.ph/file/e2b35cdac256b1c63cfe5.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

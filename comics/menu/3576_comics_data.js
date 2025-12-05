@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3576,
+    "title": "(C99) [U.R.C (桃屋しょう猫)] フラミンゴを飼っています。 (トロピカル～ジュ!プリキュア)",
+    "sourceUrl": "https://telegra.ph/C99-URC-桃屋しょう猫-フラミンゴを飼っています-トロピカルジュプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/cf15b96d1730efd8894dc.jpg",
+        "https://telegra.ph/file/f2875ebfe47032dc19c40.jpg",
+        "https://telegra.ph/file/1b0077718feb6c134d810.jpg",
+        "https://telegra.ph/file/02c5384396a99e5d3542b.jpg",
+        "https://telegra.ph/file/672d1d34c3d0eb8bec4dc.jpg",
+        "https://telegra.ph/file/13fd61a32f4b9f78345a5.jpg",
+        "https://telegra.ph/file/ca1c3481bd01bf7ae32f7.jpg",
+        "https://telegra.ph/file/307d39a4b7de81a0d7ba5.jpg",
+        "https://telegra.ph/file/650adc0bb20719df5e042.jpg",
+        "https://telegra.ph/file/657aa97c168cc8dbce952.jpg",
+        "https://telegra.ph/file/cc41bdfd3720326c0a817.jpg",
+        "https://telegra.ph/file/fc0d3de394663d005d3ca.jpg",
+        "https://telegra.ph/file/13a667ff77b6fda1d0a81.jpg",
+        "https://telegra.ph/file/025ecf1c965544cd28120.jpg",
+        "https://telegra.ph/file/ad621ae0b7c5c31318d61.jpg",
+        "https://telegra.ph/file/7f3821a4ba0e566c1f1ab.jpg",
+        "https://telegra.ph/file/b03f604f9de67c7600dbc.jpg",
+        "https://telegra.ph/file/8ddc094c2761948ed08ca.jpg",
+        "https://telegra.ph/file/06fcee21a91468210da2e.jpg",
+        "https://telegra.ph/file/5d6dc1aa7098489f6a7c4.jpg",
+        "https://telegra.ph/file/8cf07e8bc0444d8ec74d1.jpg",
+        "https://telegra.ph/file/7cc4e0037a0cbe4767130.jpg",
+        "https://telegra.ph/file/06396cb5e60b4c6ca1b38.jpg",
+        "https://telegra.ph/file/1354763b3d226e07e8120.jpg",
+        "https://telegra.ph/file/1781f5bcb34f4f9ed7601.jpg",
+        "https://telegra.ph/file/56132154cea2ddf2fc128.jpg"
+    ]
+};

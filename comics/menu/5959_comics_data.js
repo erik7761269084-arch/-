@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5959,
+    "title": "[けものの★] きゅん♥きゅん♥クォーン",
+    "sourceUrl": "https://telegra.ph/けものの-きゅんきゅんクォーン-08-31",
+    "images": [
+        "https://telegra.ph/file/76e6c8fb5de0c9ddba5d1.jpg",
+        "https://telegra.ph/file/38c71529fe65d520dbe5f.jpg",
+        "https://telegra.ph/file/4d9353b561854d67eb8e9.jpg",
+        "https://telegra.ph/file/9883f82c535b2b3081c98.jpg",
+        "https://telegra.ph/file/421cefcd620e9d29368ed.jpg",
+        "https://telegra.ph/file/1906c97128b0395a6d7c5.jpg",
+        "https://telegra.ph/file/ae0172490efb480abf411.jpg",
+        "https://telegra.ph/file/9db4cb4307915e1495b47.jpg",
+        "https://telegra.ph/file/e00f7ae19a1a03a48a7d3.jpg",
+        "https://telegra.ph/file/0da738811f5a5fde6ce05.jpg",
+        "https://telegra.ph/file/b3e0fece0167cab9f345c.jpg",
+        "https://telegra.ph/file/2a3c300b7ba03c7b38dde.jpg",
+        "https://telegra.ph/file/8d045e0db460023eb9810.jpg",
+        "https://telegra.ph/file/254169d4d951703815c1d.jpg",
+        "https://telegra.ph/file/1c5e90bac40126bdf448a.jpg",
+        "https://telegra.ph/file/133e5dd6eef230f73264c.jpg",
+        "https://telegra.ph/file/06cd694d6b059af530242.jpg",
+        "https://telegra.ph/file/3336265d7ee47e97f6a4f.jpg",
+        "https://telegra.ph/file/43da180b9b6a08b1f4fc7.jpg",
+        "https://telegra.ph/file/b8d813f905257d7c341eb.jpg",
+        "https://telegra.ph/file/76cfb6302ac1e0a2e96e0.jpg",
+        "https://telegra.ph/file/bb66bb099b9ba93061cda.jpg",
+        "https://telegra.ph/file/5ecd67c738b070176795c.jpg",
+        "https://telegra.ph/file/376dbfa4f721d900a2643.jpg",
+        "https://telegra.ph/file/15fb109105a9494c86e51.jpg",
+        "https://telegra.ph/file/052fd55a6bc1ccd5d6793.jpg"
+    ]
+};

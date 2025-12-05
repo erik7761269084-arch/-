@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3474,
+    "title": "[こまねすと (クックロビン)] DokiDokiラブリーこいしちゃん! (東方Project)",
+    "sourceUrl": "https://telegra.ph/こまねすと-クックロビン-DokiDokiラブリーこいしちゃん-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/c999af683c1b753e15cc7.jpg",
+        "https://telegra.ph/file/79f1272c3fd7dc09e836a.jpg",
+        "https://telegra.ph/file/ec0ebdb8d3ad3a67aa1bf.jpg",
+        "https://telegra.ph/file/e66023e31ceae086781be.jpg",
+        "https://telegra.ph/file/5aa64017415bdb3ea6e7a.jpg",
+        "https://telegra.ph/file/2751fa294f26e7dcde1e8.jpg",
+        "https://telegra.ph/file/7e05ed8f1eab26851dada.jpg",
+        "https://telegra.ph/file/a811fd601d7fa20a39085.jpg",
+        "https://telegra.ph/file/511537453a12d10305edb.jpg",
+        "https://telegra.ph/file/955561c26f4099068e675.jpg",
+        "https://telegra.ph/file/915701623c072933ed7c3.jpg",
+        "https://telegra.ph/file/4ee5f82d7a67b8034028c.jpg",
+        "https://telegra.ph/file/ca24c88489b90193d6b0b.jpg",
+        "https://telegra.ph/file/e3803832c702923c0731f.jpg",
+        "https://telegra.ph/file/bcacc6b19fdd68e4e3d1f.jpg",
+        "https://telegra.ph/file/f544ba27c8d5e3fc34e34.jpg",
+        "https://telegra.ph/file/5f96a496e99d34fba9d3c.jpg",
+        "https://telegra.ph/file/0ebebc9b13cecdf863401.jpg",
+        "https://telegra.ph/file/2796d66a673a5aa14683b.jpg",
+        "https://telegra.ph/file/74ab3c2e5235f9e51c3e8.jpg",
+        "https://telegra.ph/file/b5d25e0d5926c4bfdd195.jpg",
+        "https://telegra.ph/file/82f4a5ab7102220b8e2b2.jpg",
+        "https://telegra.ph/file/b00c58edcec4b938066f3.jpg",
+        "https://telegra.ph/file/cea0fa88a7ef2c8081b5c.jpg",
+        "https://telegra.ph/file/5cb6bbdaa7f21195f0b22.jpg"
+    ]
+};

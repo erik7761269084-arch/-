@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5751,
+    "title": "[幾花にいろ] 開き直り",
+    "sourceUrl": "https://telegra.ph/幾花にいろ-開き直り-08-31",
+    "images": [
+        "https://telegra.ph/file/d3cc212eb1510c86e776f.jpg",
+        "https://telegra.ph/file/9b981ec196b9daaf2ee10.jpg",
+        "https://telegra.ph/file/60c31797aff598259b38d.jpg",
+        "https://telegra.ph/file/f8359990ad8c64c1518fc.jpg",
+        "https://telegra.ph/file/145fe064158b674fe509f.jpg",
+        "https://telegra.ph/file/73edf7023f4947fe76de1.jpg",
+        "https://telegra.ph/file/160ac323d8db636fd4df9.jpg",
+        "https://telegra.ph/file/de383c5ef3949d220dd35.jpg",
+        "https://telegra.ph/file/38224b57143e081ae6b47.jpg",
+        "https://telegra.ph/file/c7fbed96152b46215e727.jpg",
+        "https://telegra.ph/file/712694798321c01740ea4.jpg",
+        "https://telegra.ph/file/a5a1d2418c41ff5355eb6.jpg",
+        "https://telegra.ph/file/c073483892f1c466259e5.jpg",
+        "https://telegra.ph/file/aa11182895ea3bd758c96.jpg",
+        "https://telegra.ph/file/8f50e7a64d25df4652f6c.jpg",
+        "https://telegra.ph/file/f5024fc1d06c51d9beff3.jpg",
+        "https://telegra.ph/file/7ac9d2c18f65668f04fcb.jpg",
+        "https://telegra.ph/file/1f90dca2faece88b7a2f2.jpg",
+        "https://telegra.ph/file/f25c962cbd9fc17a4d582.jpg",
+        "https://telegra.ph/file/50354107583524b4d6831.jpg",
+        "https://telegra.ph/file/c96551b78a4643a177ccf.jpg",
+        "https://telegra.ph/file/ba726e5d6a61d27627add.jpg",
+        "https://telegra.ph/file/8df2f95782e8d63c47d4e.jpg",
+        "https://telegra.ph/file/ee389b59d955a20c4a6c0.jpg"
+    ]
+};

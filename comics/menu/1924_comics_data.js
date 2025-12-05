@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1924,
+    "title": "[うみのさち (水平線)] 私の彼はインキュバス",
+    "sourceUrl": "https://telegra.ph/うみのさち-水平線-私の彼はインキュバス-08-31",
+    "images": [
+        "https://telegra.ph/file/0dbe371a690a641b102b6.jpg",
+        "https://telegra.ph/file/3265877ae770ae5de170b.jpg",
+        "https://telegra.ph/file/1cef0656d941ef36d0ef6.jpg",
+        "https://telegra.ph/file/696e07e12e0281e2588ed.jpg",
+        "https://telegra.ph/file/801b488e13b9f3702adeb.jpg",
+        "https://telegra.ph/file/c199bc72f74e9ea161eb2.jpg",
+        "https://telegra.ph/file/0fc528778ac0fa3e58631.jpg",
+        "https://telegra.ph/file/dbec12002dc2473deae0a.jpg",
+        "https://telegra.ph/file/3c83990b6c718494f2c60.jpg",
+        "https://telegra.ph/file/9908f3b48ac29924fcef9.jpg",
+        "https://telegra.ph/file/b02409c1642c22d1880f9.jpg",
+        "https://telegra.ph/file/cf7b19018b2d35c8e2613.jpg",
+        "https://telegra.ph/file/ec43685729e1e92406fb0.jpg",
+        "https://telegra.ph/file/98fe29398e71e0c0d2a6c.jpg",
+        "https://telegra.ph/file/668d784320d0999d9e5ee.jpg",
+        "https://telegra.ph/file/0e5a947c5d506a1900f5d.jpg",
+        "https://telegra.ph/file/945c446ccff8b2c61829d.jpg",
+        "https://telegra.ph/file/358e7acb36e967c41cdd3.jpg",
+        "https://telegra.ph/file/10615b9c1cbf95b0afecc.jpg",
+        "https://telegra.ph/file/f1c16a15ad3c88be2a8d9.jpg",
+        "https://telegra.ph/file/f358e59383fbb1669900b.jpg",
+        "https://telegra.ph/file/27513e802ef3f2d0ab063.jpg",
+        "https://telegra.ph/file/a66ed2ec5db8619d71e55.jpg",
+        "https://telegra.ph/file/33fe59245fc381cf90dc2.jpg",
+        "https://telegra.ph/file/0911459e940acfd2c4533.jpg"
+    ]
+};

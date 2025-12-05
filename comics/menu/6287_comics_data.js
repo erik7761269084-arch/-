@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6287,
+    "title": "[仙道八] 友達100人出来るかな",
+    "sourceUrl": "https://telegra.ph/仙道八-友達100人出来るかな-08-31",
+    "images": [
+        "https://telegra.ph/file/40a24ae529721e7472a8c.jpg",
+        "https://telegra.ph/file/35a04e9d241ee8959224a.jpg",
+        "https://telegra.ph/file/a7c5c857b9138bf0b0e0d.jpg",
+        "https://telegra.ph/file/2964abcbfa9169da6634d.jpg",
+        "https://telegra.ph/file/329b22dd7647ad210ba5c.jpg",
+        "https://telegra.ph/file/93d17655eb1f6d1d8d4a9.jpg",
+        "https://telegra.ph/file/7a244fd20fceae052f19f.jpg",
+        "https://telegra.ph/file/eae8afcbf051d012641b8.jpg",
+        "https://telegra.ph/file/efb28213b440d92941060.jpg",
+        "https://telegra.ph/file/5a94213c7014624312af0.jpg",
+        "https://telegra.ph/file/455cd330d9b5df7a170ad.jpg",
+        "https://telegra.ph/file/bd0bcf7581e43500666cb.jpg",
+        "https://telegra.ph/file/a2e2db4510dfb6bbb4496.jpg",
+        "https://telegra.ph/file/2c71a538c6cfd533dd3eb.jpg",
+        "https://telegra.ph/file/cce6597ed0776fcea740c.jpg",
+        "https://telegra.ph/file/07982d251bea011c9cbba.jpg",
+        "https://telegra.ph/file/83632a85c00859bdd2eb3.jpg",
+        "https://telegra.ph/file/f749a49d10850f421b63b.jpg",
+        "https://telegra.ph/file/3b5ae3a67c6ed2a46704a.jpg",
+        "https://telegra.ph/file/3e373be478165dfb51afe.jpg",
+        "https://telegra.ph/file/8edbf1327527359e5b58f.jpg",
+        "https://telegra.ph/file/17db6fbcfb61f7b0ea9b0.jpg",
+        "https://telegra.ph/file/d90c8530bd6295d111361.jpg",
+        "https://telegra.ph/file/d994b126a5dafcce7f32a.jpg"
+    ]
+};

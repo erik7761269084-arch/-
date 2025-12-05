@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5694,
+    "title": "[音乃夏] 働く女の子 -女教師編1-",
+    "sourceUrl": "https://telegra.ph/音乃夏-働く女の子--女教師編1-08-31",
+    "images": [
+        "https://telegra.ph/file/b92328e1a19eebecfc93f.jpg",
+        "https://telegra.ph/file/ae707178bc8f6dd90d1da.jpg",
+        "https://telegra.ph/file/16b54f6cca61cc4d2ab4a.jpg",
+        "https://telegra.ph/file/1592bbb66c0c08870cc66.jpg",
+        "https://telegra.ph/file/d9cd197a73331583a1eda.jpg",
+        "https://telegra.ph/file/73c848527214c6e676e9a.jpg",
+        "https://telegra.ph/file/ce761a9868d2ff5ea57bb.jpg",
+        "https://telegra.ph/file/55262696ed83bd9d6edcf.jpg",
+        "https://telegra.ph/file/5a8b8578be8d9f413dcac.jpg",
+        "https://telegra.ph/file/88083b00660c918a0a5fd.jpg",
+        "https://telegra.ph/file/61ff1e3e5e085718e52ec.jpg",
+        "https://telegra.ph/file/98a572cb55228251fd9f9.jpg",
+        "https://telegra.ph/file/461e1ea62dead844d21a7.jpg",
+        "https://telegra.ph/file/867d928973d25b09cd65e.jpg",
+        "https://telegra.ph/file/66f150c80bade9e9793a9.jpg",
+        "https://telegra.ph/file/98fea34845362a0eee48e.jpg",
+        "https://telegra.ph/file/2e39406630ce529533c38.jpg",
+        "https://telegra.ph/file/300a28dabf0b5839c9936.jpg",
+        "https://telegra.ph/file/ca84dfe408d9ec644226a.jpg",
+        "https://telegra.ph/file/97633e08acf310561e9dd.jpg",
+        "https://telegra.ph/file/4b178694ca91685e2057f.jpg",
+        "https://telegra.ph/file/0563f0bafd404b387d4ec.jpg",
+        "https://telegra.ph/file/ebfa0983a33717c20d8fd.jpg",
+        "https://telegra.ph/file/d4471fef4c0c9bc7e9816.jpg",
+        "https://telegra.ph/file/4c562714125c21ca6066d.jpg",
+        "https://telegra.ph/file/0d6df3dd572179231c907.jpg"
+    ]
+};

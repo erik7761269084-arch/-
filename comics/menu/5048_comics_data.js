@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5048,
+    "title": "(C96) おはようございます、せんぱい! (やはり俺の青春ラブコメはまちがっている。)",
+    "sourceUrl": "https://telegra.ph/C96-おはようございますせんぱい-やはり俺の青春ラブコメはまちがっている-08-31-3",
+    "images": [
+        "https://telegra.ph/file/b8d107b60243e2fa2c271.png",
+        "https://telegra.ph/file/de5d59fbf65c89bffde24.png",
+        "https://telegra.ph/file/2b0d5ed888fab80f21b12.png",
+        "https://telegra.ph/file/bd09fce3369c945f4e2b2.png",
+        "https://telegra.ph/file/2362f86c61f7d6ed3ebc1.png",
+        "https://telegra.ph/file/13945976dbf5631ed1581.png",
+        "https://telegra.ph/file/1df98b79af47d66cd3daa.png",
+        "https://telegra.ph/file/74bf91c36cc7f41e0a839.png",
+        "https://telegra.ph/file/990f215cff694218142d4.png",
+        "https://telegra.ph/file/e137d3d6c4cae9cff41b0.png",
+        "https://telegra.ph/file/86d6fdff332fadfeb1481.png",
+        "https://telegra.ph/file/702a7f03ba7a923ca3112.png",
+        "https://telegra.ph/file/0e5ddef597a3870c3b0e6.png",
+        "https://telegra.ph/file/25548962b1db1d132f8f3.png",
+        "https://telegra.ph/file/ad82c6c42bd7cfecbfc5b.png",
+        "https://telegra.ph/file/1c4b0a48a59da47811ff8.png",
+        "https://telegra.ph/file/dcc6ca1a2cf23f5da9048.png",
+        "https://telegra.ph/file/26f1c37ae0918708c2416.png",
+        "https://telegra.ph/file/913c10afdaa9165b4b0ed.png",
+        "https://telegra.ph/file/353ea0eedab64ffc7716b.png",
+        "https://telegra.ph/file/93f3fafcb5e4fe6797cd5.png",
+        "https://telegra.ph/file/d54e3bea43f50885ed8b8.png",
+        "https://telegra.ph/file/185746ef0d94040b9a6b5.png"
+    ]
+};

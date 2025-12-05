@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 118,
+    "title": "[wakamaker (ワカメさん)] マキマVSチンポの悪魔 (チェンソーマン) [中國翻訳]",
+    "sourceUrl": "https://telegra.ph/wakamaker-ワカメさん-マキマVSチンポの悪魔-チェンソーマン-中國翻訳-08-31",
+    "images": [
+        "https://telegra.ph/file/5464712c36694989eabad.jpg",
+        "https://telegra.ph/file/04afb933df5312f1ccc74.jpg",
+        "https://telegra.ph/file/5f85f6a761126bd8cd6c7.jpg",
+        "https://telegra.ph/file/a841212d521ed06a9b8cc.jpg",
+        "https://telegra.ph/file/8c307dc8f711956fb0c10.jpg",
+        "https://telegra.ph/file/1a790fbe969098c0368de.jpg",
+        "https://telegra.ph/file/225030487dd95c77fd217.jpg",
+        "https://telegra.ph/file/0c0e6000804574430417f.jpg",
+        "https://telegra.ph/file/79b3c5c8b7e2e7ff92324.jpg",
+        "https://telegra.ph/file/d5ef05f13243e7ef83511.jpg",
+        "https://telegra.ph/file/20351c5c7a674530ee83d.jpg",
+        "https://telegra.ph/file/05b5e491480f5bdcaa658.jpg",
+        "https://telegra.ph/file/5ec5e52c51c3d18188593.jpg",
+        "https://telegra.ph/file/ce4c20ebadf1fa8705dc3.jpg",
+        "https://telegra.ph/file/236c8d8f9432a9abdad51.jpg",
+        "https://telegra.ph/file/9c4a90e5c100249092173.jpg",
+        "https://telegra.ph/file/0a391bfe3a3ae00ce0e2c.jpg",
+        "https://telegra.ph/file/8042bc57db12b9dae78b9.jpg",
+        "https://telegra.ph/file/86ac9b5c227b95f89ef12.jpg",
+        "https://telegra.ph/file/333e6b6569559a7fa5365.jpg",
+        "https://telegra.ph/file/ba3e6e5f406c0e77907dd.jpg",
+        "https://telegra.ph/file/83929fb4f6e60c96aec2b.jpg",
+        "https://telegra.ph/file/f557f7730707db6ebf5a3.jpg",
+        "https://telegra.ph/file/cef03ad38de7d2f62f994.jpg"
+    ]
+};

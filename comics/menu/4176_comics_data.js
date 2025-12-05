@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4176,
+    "title": "[TSFのF (F、四葉チカ)] TS魔法少女ひろみ 第3話",
+    "sourceUrl": "https://telegra.ph/TSFのF-F四葉チカ-TS魔法少女ひろみ-第3話-08-31",
+    "images": [
+        "https://telegra.ph/file/d71f928f85f02e22dd3f3.jpg",
+        "https://telegra.ph/file/39e3f2ede7025a8ee8bcb.jpg",
+        "https://telegra.ph/file/8fd73bebd0caeb3c54fe4.jpg",
+        "https://telegra.ph/file/3084adc826ead7dbdc1e6.jpg",
+        "https://telegra.ph/file/e82ce70e3efd823b7d5f2.jpg",
+        "https://telegra.ph/file/f7e3bdd2a0d13b09ceb2b.jpg",
+        "https://telegra.ph/file/2a2966bb6af672d9b6fdc.jpg",
+        "https://telegra.ph/file/3d7b5e660be14e4729849.jpg",
+        "https://telegra.ph/file/fd86bb75a1d445eb55ad7.jpg",
+        "https://telegra.ph/file/e7ffe970fe26ba6f63e7f.jpg",
+        "https://telegra.ph/file/7f134b407854fb926b498.jpg",
+        "https://telegra.ph/file/a933eed289b1f30172b0b.jpg",
+        "https://telegra.ph/file/357f68bced64fb8fe00de.jpg",
+        "https://telegra.ph/file/e26a5f9549e3d91ee3587.jpg",
+        "https://telegra.ph/file/7bf0c991ecf978f313340.jpg",
+        "https://telegra.ph/file/26a2eadc4ed60f7218067.jpg",
+        "https://telegra.ph/file/10144df25c78ac47ca5f3.jpg",
+        "https://telegra.ph/file/7fcdbb63e25c6e2e76e96.jpg",
+        "https://telegra.ph/file/6fe70657fc75caafcb627.jpg",
+        "https://telegra.ph/file/bcaa9cf37e4ff3901a88d.jpg",
+        "https://telegra.ph/file/49b7f7666df7546498dc0.jpg",
+        "https://telegra.ph/file/b17fb5edee230a7919eb0.jpg",
+        "https://telegra.ph/file/57b77864b90cdba69066b.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4350,
+    "title": "[バクシーシAT] 奥様はバーチャル魔女 (ANGEL 倶楽部 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/バクシーシAT-奥様はバーチャル魔女-ANGEL-倶楽部-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f6a40aef76758c1242583.jpg",
+        "https://telegra.ph/file/2c8558f7bcda98ee8f9ea.jpg",
+        "https://telegra.ph/file/3869640319bd70a9cae2b.jpg",
+        "https://telegra.ph/file/c9ae8578c6c2849e98e53.jpg",
+        "https://telegra.ph/file/4b68ba0e4f5e40037b978.jpg",
+        "https://telegra.ph/file/bb48b007a150a87a105d0.jpg",
+        "https://telegra.ph/file/9a000b28fd5cafa2365c1.jpg",
+        "https://telegra.ph/file/88e9ab8db1f64e112d2df.jpg",
+        "https://telegra.ph/file/b3cc5fa0b57350b91c604.jpg",
+        "https://telegra.ph/file/7550d5378a05ac495e3b6.jpg",
+        "https://telegra.ph/file/f0c26f98d90f8bc572f34.jpg",
+        "https://telegra.ph/file/c785cc3d1285a8c43e5ac.jpg",
+        "https://telegra.ph/file/58cc8d5eaf9d70565356b.jpg",
+        "https://telegra.ph/file/881afafe0ce80226f6b1e.jpg",
+        "https://telegra.ph/file/7f45fade29272535792c9.jpg",
+        "https://telegra.ph/file/7cd93819d8e8c4cb60763.jpg",
+        "https://telegra.ph/file/effe0949f0a5bf84a451b.jpg",
+        "https://telegra.ph/file/155305f17a158d396bbd5.jpg",
+        "https://telegra.ph/file/947fc280ab33b54a964b8.jpg",
+        "https://telegra.ph/file/2dd163c7e3564ae8f6af9.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ]
+};

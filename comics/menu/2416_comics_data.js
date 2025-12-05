@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2416,
+    "title": "[京極燈弥] 愚か者は猫耳奴隷に依存する～初めての調教生活～ 14",
+    "sourceUrl": "https://telegra.ph/京極燈弥-愚か者は猫耳奴隷に依存する初めての調教生活-14-08-31",
+    "images": [
+        "https://telegra.ph/file/7e703a06e80bc4974c65c.jpg",
+        "https://telegra.ph/file/c7430896b2d64b1816e0c.jpg",
+        "https://telegra.ph/file/af3771a59d2c24a6975bc.jpg",
+        "https://telegra.ph/file/941eb0f864e445d1feb66.jpg",
+        "https://telegra.ph/file/f3942d0cda7176671c433.jpg",
+        "https://telegra.ph/file/cdcf34f62639da728d454.jpg",
+        "https://telegra.ph/file/9dd22ca15377fb64a22c1.jpg",
+        "https://telegra.ph/file/82dd432ea2fec398b009e.jpg",
+        "https://telegra.ph/file/5a102859a70be90aa6d3b.jpg",
+        "https://telegra.ph/file/69047d3e45aaada657056.jpg",
+        "https://telegra.ph/file/5e4279033b28aaf4dbca3.jpg",
+        "https://telegra.ph/file/b8eb2c6484c67aa2fd3f6.jpg",
+        "https://telegra.ph/file/fbfc8fcdb5d12712ae44e.jpg",
+        "https://telegra.ph/file/fa50b05d64b7686564e38.jpg",
+        "https://telegra.ph/file/900bad2aa18645f3e6e12.jpg",
+        "https://telegra.ph/file/35a74e701d7ef79d22a11.jpg",
+        "https://telegra.ph/file/274ce3600f8b25f86ba97.jpg",
+        "https://telegra.ph/file/945d1fd60eee90546b59b.jpg",
+        "https://telegra.ph/file/17deb1507b92d5ab79659.jpg",
+        "https://telegra.ph/file/513037833a0b66875a35c.jpg",
+        "https://telegra.ph/file/8d2438cc33daab703698b.jpg",
+        "https://telegra.ph/file/70259d9662b0d3a2b0560.jpg",
+        "https://telegra.ph/file/870a467a856edc80f3953.jpg",
+        "https://telegra.ph/file/50fe196e26a908d1cfaca.jpg"
+    ]
+};

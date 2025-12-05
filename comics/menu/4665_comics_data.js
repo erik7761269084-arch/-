@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4665,
+    "title": "(C96) [リバ島 (矢島Index)] もっとくいこめ!ブルマにあむ (響け! ユーフォニアム)",
+    "sourceUrl": "https://telegra.ph/C96-リバ島-矢島Index-もっとくいこめブルマにあむ-響け-ユーフォニアム-08-31",
+    "images": [
+        "https://telegra.ph/file/3754699bf17e3994a2e0e.jpg",
+        "https://telegra.ph/file/7033efdae27a8d8a79da9.jpg",
+        "https://telegra.ph/file/a95589df5db801f2f5395.jpg",
+        "https://telegra.ph/file/e266573f3d5d07e6025fc.jpg",
+        "https://telegra.ph/file/d5929bd0d7520fbbe1281.jpg",
+        "https://telegra.ph/file/e0b4ab35a6f85e64e52e2.jpg",
+        "https://telegra.ph/file/d2676e08ee8163afb3462.jpg",
+        "https://telegra.ph/file/284fd941f53dec91ba64e.jpg",
+        "https://telegra.ph/file/dbc04287ae67f2f1b0141.jpg",
+        "https://telegra.ph/file/db814c3bd0f3a799658bd.jpg",
+        "https://telegra.ph/file/cb3920a0d691fc6a749c3.jpg",
+        "https://telegra.ph/file/a7b87b19db7ae5f6e080d.jpg",
+        "https://telegra.ph/file/10e0d9f2980d6bc978a48.jpg",
+        "https://telegra.ph/file/9c4e86be0bdc297783a20.jpg",
+        "https://telegra.ph/file/bdaf851583a6ba70e2bf7.jpg",
+        "https://telegra.ph/file/6a5e3698d0e6608c0bc1f.jpg",
+        "https://telegra.ph/file/d6b9f6d4f461eda493797.jpg",
+        "https://telegra.ph/file/02fc19ba1603af74cffb0.jpg",
+        "https://telegra.ph/file/0ac612c6b8a99cc9b133d.jpg",
+        "https://telegra.ph/file/ae0240b7f601ecd0beb15.jpg",
+        "https://telegra.ph/file/571b7fcfbf008e7df41c7.jpg",
+        "https://telegra.ph/file/51c83978d1faedc722769.jpg",
+        "https://telegra.ph/file/1ac220b1567f684b9c231.jpg",
+        "https://telegra.ph/file/c550efe0db59afb4eb2f3.jpg",
+        "https://telegra.ph/file/68adf320e5b2bc812c3ac.jpg",
+        "https://telegra.ph/file/bfbe7fb995b291e19e643.jpg"
+    ]
+};

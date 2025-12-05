@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6303,
+    "title": "[こっぽり生ビール] 宵のまにまに",
+    "sourceUrl": "https://telegra.ph/こっぽり生ビール-宵のまにまに-08-31",
+    "images": [
+        "https://telegra.ph/file/cf2c0f6c45fe03acac918.jpg",
+        "https://telegra.ph/file/1deaa433e54e04abc8cef.jpg",
+        "https://telegra.ph/file/7a258f5919c9e1d9dcaa6.jpg",
+        "https://telegra.ph/file/63a1199b4404ef2a46c99.jpg",
+        "https://telegra.ph/file/1caec8d15244a15aaf872.jpg",
+        "https://telegra.ph/file/9efd6f8af1456b2c414e5.jpg",
+        "https://telegra.ph/file/c454dc8ce19791d050849.jpg",
+        "https://telegra.ph/file/a9ea99c27ce408bf3408f.jpg",
+        "https://telegra.ph/file/7e1ab7b72814388b85c31.jpg",
+        "https://telegra.ph/file/e51f1ef9826bb1d561bdc.jpg",
+        "https://telegra.ph/file/d07ce5d08224343baeae9.jpg",
+        "https://telegra.ph/file/ab569a30ae817fda111d6.jpg",
+        "https://telegra.ph/file/1adbe9f1b24ef0a77fae1.jpg",
+        "https://telegra.ph/file/74f38caae1f5036f18f0b.jpg",
+        "https://telegra.ph/file/3ddebd02e5faddf5f5657.jpg",
+        "https://telegra.ph/file/ce0b7c07877569793b0a7.jpg",
+        "https://telegra.ph/file/5956f5c486d5f3eaeafc7.jpg",
+        "https://telegra.ph/file/d7e878f1a1ff93df62675.jpg",
+        "https://telegra.ph/file/65bc47512da8a835895c8.jpg",
+        "https://telegra.ph/file/b52ad582cfd78f4b3e7e8.jpg",
+        "https://telegra.ph/file/b728f67bcbf9807f43f5b.jpg",
+        "https://telegra.ph/file/336e04712425af94c0221.jpg",
+        "https://telegra.ph/file/6fbe9f87da3445607d06a.jpg",
+        "https://telegra.ph/file/070ee729e5462490da5f7.jpg"
+    ]
+};

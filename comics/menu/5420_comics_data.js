@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5420,
+    "title": "[はぐはぐ] ごっこ遊び",
+    "sourceUrl": "https://telegra.ph/はぐはぐ-ごっこ遊び-08-31",
+    "images": [
+        "https://telegra.ph/file/1c4ac5c423490fcf41d52.jpg",
+        "https://telegra.ph/file/24730a0d36d81c88e5b51.jpg",
+        "https://telegra.ph/file/d181e6d53a47860a05e72.jpg",
+        "https://telegra.ph/file/37a566157d8a78b61d132.jpg",
+        "https://telegra.ph/file/5f891e8e478d286529ab6.jpg",
+        "https://telegra.ph/file/83e9cc5537ca198948d80.jpg",
+        "https://telegra.ph/file/af9878cf0e738f678afca.jpg",
+        "https://telegra.ph/file/b5a6e3b9a743ade01c621.jpg",
+        "https://telegra.ph/file/6e7237606f562eb1e94df.jpg",
+        "https://telegra.ph/file/8893185cb5dec5ad4dc17.jpg",
+        "https://telegra.ph/file/6766114a1e47e3c3ad852.jpg",
+        "https://telegra.ph/file/0e2e064255ee333405b82.jpg",
+        "https://telegra.ph/file/990b81349737d3d09fb71.jpg",
+        "https://telegra.ph/file/6f8bcf25fa4992afcfcc7.jpg",
+        "https://telegra.ph/file/d521edd257b4d6d3e7b73.jpg",
+        "https://telegra.ph/file/7e600157232640e0f4f41.jpg",
+        "https://telegra.ph/file/178c05fc116ea288d1003.jpg",
+        "https://telegra.ph/file/8517e8a7c46d1a9b00d56.jpg",
+        "https://telegra.ph/file/c0481c0af2afa432d0ae3.jpg",
+        "https://telegra.ph/file/79000f4cedde36bbc5b1d.jpg",
+        "https://telegra.ph/file/0332cbbc3934ddbf25001.jpg",
+        "https://telegra.ph/file/8ec07975b3745e2df8c63.jpg",
+        "https://telegra.ph/file/3d881ea6b380f8f57407d.jpg",
+        "https://telegra.ph/file/7b80437421514183f1fca.jpg"
+    ]
+};

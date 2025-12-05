@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6383,
+    "title": "アンフォルメル (ジョジョの奇妙な冒険)",
+    "sourceUrl": "https://telegra.ph/アンフォルメル-ジョジョの奇妙な冒険-08-31",
+    "images": [
+        "https://telegra.ph/file/4e7c66d3a1268b9757db0.jpg",
+        "https://telegra.ph/file/478725c9865c0caf5841d.jpg",
+        "https://telegra.ph/file/f487c6a396a35140ab900.jpg",
+        "https://telegra.ph/file/e149e5c8dedd25511437a.jpg",
+        "https://telegra.ph/file/833b13d599f9669869ed8.jpg",
+        "https://telegra.ph/file/b34127c5fdbdf5d6e4447.jpg",
+        "https://telegra.ph/file/bb6e790fda362add21c64.jpg",
+        "https://telegra.ph/file/16f19e978dc8aac9485c1.jpg",
+        "https://telegra.ph/file/b4fc9f2f395cfe93a8f51.jpg",
+        "https://telegra.ph/file/bbd138e64f1ff67d1d86f.jpg",
+        "https://telegra.ph/file/350c1dc849da641e2f2f5.jpg",
+        "https://telegra.ph/file/3d6d094387e0aaa5c4b4d.jpg",
+        "https://telegra.ph/file/81aab7e156d31b7af3563.jpg",
+        "https://telegra.ph/file/1615a257b5915ffba2e89.jpg",
+        "https://telegra.ph/file/fa27e3db05635c7cf5720.jpg",
+        "https://telegra.ph/file/622d317128d63df67681e.jpg",
+        "https://telegra.ph/file/69665192bca3c30abfb1f.jpg",
+        "https://telegra.ph/file/296e933fa5db062fe02b0.jpg",
+        "https://telegra.ph/file/db5c345ceced69c552e50.jpg",
+        "https://telegra.ph/file/37ef1b99222b2b72cd2bb.jpg",
+        "https://telegra.ph/file/ba2d7def04eade650fafd.jpg",
+        "https://telegra.ph/file/8777395d59897ffa1dbd3.jpg",
+        "https://telegra.ph/file/63544785fdad192d453e7.jpg",
+        "https://telegra.ph/file/6a1f1ecf61e48e764adb2.jpg",
+        "https://telegra.ph/file/6ceeb96fbb9ad3c0f8ede.jpg",
+        "https://telegra.ph/file/3beea28efe4606f95a02c.jpg"
+    ]
+};

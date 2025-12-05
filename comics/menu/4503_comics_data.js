@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4503,
+    "title": "[Count2.4 (弐肆)] KOTOUMI (アイドルマスター ミリオンライブ!)",
+    "sourceUrl": "https://telegra.ph/Count24-弐肆-KOTOUMI-アイドルマスター-ミリオンライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/198dc63f2953c51a6652b.jpg",
+        "https://telegra.ph/file/79f41a1594daee143431d.jpg",
+        "https://telegra.ph/file/a616d1b027b66428f065c.jpg",
+        "https://telegra.ph/file/08d3244ccd382d3f2e294.jpg",
+        "https://telegra.ph/file/cf7625e76895cf78786f8.jpg",
+        "https://telegra.ph/file/dfd91b071e3f769a1b72e.jpg",
+        "https://telegra.ph/file/3abda4c563b8cdc5ed83e.jpg",
+        "https://telegra.ph/file/8fbccd7b6ee2da34881ac.jpg",
+        "https://telegra.ph/file/f3a1cf060bd2888d9f0b7.jpg",
+        "https://telegra.ph/file/cc5aafbc387c8b5f651e9.jpg",
+        "https://telegra.ph/file/4edf402db95b230d7d09e.jpg",
+        "https://telegra.ph/file/e04ae3404264f6fd5b1e6.jpg",
+        "https://telegra.ph/file/1f0e9fda7928abc7ff84c.jpg",
+        "https://telegra.ph/file/1ef65f35daea6f44eec0b.jpg",
+        "https://telegra.ph/file/f89fbb263dbaa588b1c2b.jpg",
+        "https://telegra.ph/file/20a5f5ff855cfdb1b0a50.jpg",
+        "https://telegra.ph/file/442ed886c46aa001f1b62.jpg",
+        "https://telegra.ph/file/b5a49aa771a2618f93887.jpg",
+        "https://telegra.ph/file/cb58818d8d0e7b82293e0.jpg",
+        "https://telegra.ph/file/303b00955809e78290238.jpg",
+        "https://telegra.ph/file/f6352a66161c1050d854d.jpg",
+        "https://telegra.ph/file/1e9116f13f7d749ec33a1.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3636,
+    "title": "(C99) [忘らるる手紙 (びんせん)] 例えばこんな奈緒シアター (アイドルマスターミリオンライブ!)",
+    "sourceUrl": "https://telegra.ph/C99-忘らるる手紙-びんせん-例えばこんな奈緒シアター-アイドルマスターミリオンライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/08ba0b8d397278273d327.jpg",
+        "https://telegra.ph/file/ffe6aa1b3e482c87325e5.jpg",
+        "https://telegra.ph/file/ea8399854a668f88799c0.jpg",
+        "https://telegra.ph/file/39ffc5b4a33b87e260d5a.jpg",
+        "https://telegra.ph/file/b819005d2a6edd426dcd4.jpg",
+        "https://telegra.ph/file/96cb0ce40bcecd2fce769.jpg",
+        "https://telegra.ph/file/89d3283d131d60df50f85.jpg",
+        "https://telegra.ph/file/69cd794eddc3845db8d4a.jpg",
+        "https://telegra.ph/file/490f05b394b5917407acd.jpg",
+        "https://telegra.ph/file/2f41ecf84c80258e154eb.jpg",
+        "https://telegra.ph/file/0c4ed0fd107eb2206e687.jpg",
+        "https://telegra.ph/file/c95ad3dd227dddf4c35e3.jpg",
+        "https://telegra.ph/file/e386e7080d0b049358d2f.jpg",
+        "https://telegra.ph/file/0dce50c0a9d49ceb2e51a.jpg",
+        "https://telegra.ph/file/a722443497dbeb8992006.jpg",
+        "https://telegra.ph/file/fb3ceb453b7caaa413c47.jpg",
+        "https://telegra.ph/file/a8ee6d5af032fb7e774c0.jpg",
+        "https://telegra.ph/file/a2756e3445210ccb284b0.jpg",
+        "https://telegra.ph/file/2553ca3517a2b10ad6e69.jpg",
+        "https://telegra.ph/file/bc06a0c428cdec7b32d51.jpg",
+        "https://telegra.ph/file/1818e00a78a840d8fb69e.jpg",
+        "https://telegra.ph/file/05d8d5ed843b0e36efc67.jpg",
+        "https://telegra.ph/file/c5727277bba1e48a69210.jpg",
+        "https://telegra.ph/file/3418b43388812c951c69c.jpg",
+        "https://telegra.ph/file/b8cc90a7a1c05e079abaa.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

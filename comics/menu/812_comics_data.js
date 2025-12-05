@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 812,
+    "title": "[スペースくじら (くじらジオ)] 人妻を催眠えっちで孕ませるまで",
+    "sourceUrl": "https://telegra.ph/スペースくじら-くじらジオ-人妻を催眠えっちで孕ませるまで-08-31",
+    "images": [
+        "https://telegra.ph/file/81dab2443e2df45ab7425.jpg",
+        "https://telegra.ph/file/27491a951e26e0a0ef603.jpg",
+        "https://telegra.ph/file/8ffd5403d3877928dd4c0.jpg",
+        "https://telegra.ph/file/b4ff876725814dc415361.jpg",
+        "https://telegra.ph/file/98d61147fafcf2340fa94.jpg",
+        "https://telegra.ph/file/a8fc4d6d1d6cb3d77067e.jpg",
+        "https://telegra.ph/file/d530eba5063697be3fbfb.jpg",
+        "https://telegra.ph/file/b675090c7040b7bc6077e.jpg",
+        "https://telegra.ph/file/33d761f43dcef4d99eb06.jpg",
+        "https://telegra.ph/file/bdda6075342f1e14bc74e.jpg",
+        "https://telegra.ph/file/7fcea833e465f99dd6279.jpg",
+        "https://telegra.ph/file/b314e6842bca1a798eec4.jpg",
+        "https://telegra.ph/file/9fdd3378370093228d67a.jpg",
+        "https://telegra.ph/file/997f54f9669f6d198b6cf.jpg",
+        "https://telegra.ph/file/e436c07dc347d4dbe6381.jpg",
+        "https://telegra.ph/file/f31f213491bec1e70cf31.jpg",
+        "https://telegra.ph/file/86c7d4d882bb2a75ced30.jpg",
+        "https://telegra.ph/file/a75b89802e48e3bfad02e.jpg",
+        "https://telegra.ph/file/615cd40f8c9d6eb716e16.jpg",
+        "https://telegra.ph/file/288a808198bf541f0c6f2.jpg",
+        "https://telegra.ph/file/73900f2db204977402928.jpg",
+        "https://telegra.ph/file/39a212d6d423be97a7726.jpg",
+        "https://telegra.ph/file/0e09ddc0d550d425eda3f.jpg",
+        "https://telegra.ph/file/37aab611617566bcf3fea.jpg",
+        "https://telegra.ph/file/6fef66aff62fde9638ac5.jpg"
+    ]
+};

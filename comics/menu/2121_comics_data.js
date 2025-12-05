@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2121,
+    "title": "[ふるるきゅぷり (北原エイジ)] ふたなりママと女装息子",
+    "sourceUrl": "https://telegra.ph/ふるるきゅぷり-北原エイジ-ふたなりママと女装息子-08-31",
+    "images": [
+        "https://telegra.ph/file/70a09fa7128c4982f8e7c.jpg",
+        "https://telegra.ph/file/d5e1d8afae9be31b9a385.jpg",
+        "https://telegra.ph/file/42ab6f1486d8fba3091b2.jpg",
+        "https://telegra.ph/file/2fece8fad5b4f78526722.jpg",
+        "https://telegra.ph/file/267daad9d188cef1f2b07.jpg",
+        "https://telegra.ph/file/7f0e0832cecd9ab77ea66.jpg",
+        "https://telegra.ph/file/9378b44142c4e0657e3dd.jpg",
+        "https://telegra.ph/file/e89308b059f78948e8849.jpg",
+        "https://telegra.ph/file/899b813a1e7958c553a44.jpg",
+        "https://telegra.ph/file/6e642ede97676f4de375c.jpg",
+        "https://telegra.ph/file/6b1dd06302f06b5d02da7.jpg",
+        "https://telegra.ph/file/11f64188b7f68f5acad1e.jpg",
+        "https://telegra.ph/file/7ab662cfd10326a0a608f.jpg",
+        "https://telegra.ph/file/ed6c1b9c69dcb19096a6d.jpg",
+        "https://telegra.ph/file/cc8ed075fed30f2734df3.jpg",
+        "https://telegra.ph/file/8542245372bfc5388135f.jpg",
+        "https://telegra.ph/file/6f6d2c02f9c58cd311b36.jpg",
+        "https://telegra.ph/file/68c16c967b4857c08709c.jpg",
+        "https://telegra.ph/file/d39ebd0126fda2bc67b73.jpg",
+        "https://telegra.ph/file/31fb937290a8d7769d064.jpg",
+        "https://telegra.ph/file/b00bf272b0f21d8b12c2f.jpg",
+        "https://telegra.ph/file/d0cb170a3335d53d14530.jpg",
+        "https://telegra.ph/file/5bc27068fcdb537ae3328.jpg"
+    ]
+};

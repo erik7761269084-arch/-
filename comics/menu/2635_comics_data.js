@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2635,
+    "title": "[小路あゆむ] おじさま 知ってますか? (COMIC LO 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/小路あゆむ-おじさま-知ってますか-COMIC-LO-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/02b9cc9c70298c3e46e81.jpg",
+        "https://telegra.ph/file/0141acb4e7444da3e0b03.jpg",
+        "https://telegra.ph/file/2ed278fcd53fde1509338.jpg",
+        "https://telegra.ph/file/8d6a3a8bf0f5e242742ef.jpg",
+        "https://telegra.ph/file/a84df5e82e20735579b60.jpg",
+        "https://telegra.ph/file/b9704cade7235169531e0.jpg",
+        "https://telegra.ph/file/ea080c54f2369152daf84.jpg",
+        "https://telegra.ph/file/ec64e30fef9efe2d730f0.jpg",
+        "https://telegra.ph/file/68f7fd31ae9c685ec2254.jpg",
+        "https://telegra.ph/file/9f19f6cc9650ed3d0b540.jpg",
+        "https://telegra.ph/file/25357919aa2864770ecd4.jpg",
+        "https://telegra.ph/file/6ff297a2513bbb38d39e4.jpg",
+        "https://telegra.ph/file/e14e1057edaa8207a0261.jpg",
+        "https://telegra.ph/file/fc97ade8fb489ab92346f.jpg",
+        "https://telegra.ph/file/7f0abdff38820596da644.jpg",
+        "https://telegra.ph/file/a8edb30ba2b77dd853fc8.jpg",
+        "https://telegra.ph/file/9f93d3b3b61539ea9ce50.jpg",
+        "https://telegra.ph/file/bd9f643b73c727db4f0a2.jpg",
+        "https://telegra.ph/file/797063572cd6561c5ab47.jpg",
+        "https://telegra.ph/file/bce702091cde0e92d2cff.jpg",
+        "https://telegra.ph/file/b800bfa980e68ec47b929.jpg",
+        "https://telegra.ph/file/8aa887b802dea6837dac9.jpg",
+        "https://telegra.ph/file/79a67d507868374aae5ca.jpg",
+        "https://telegra.ph/file/c67953a11e74ff1c30398.jpg"
+    ]
+};

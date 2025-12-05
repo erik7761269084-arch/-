@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7908,
+    "title": "天然天使の××れっすん",
+    "sourceUrl": "https://telegra.ph/天然天使のれっすん-08-31",
+    "images": [
+        "https://telegra.ph/file/3078e0b09c25eb8f36e21.jpg",
+        "https://telegra.ph/file/212c178a51ef55656c697.jpg",
+        "https://telegra.ph/file/2e017c22963a2ceb482b1.jpg",
+        "https://telegra.ph/file/8ab397b1dd0a823e0e14e.jpg",
+        "https://telegra.ph/file/0292ff6cdd8d8c3859518.jpg",
+        "https://telegra.ph/file/aa548fb13c653bc142cc3.jpg",
+        "https://telegra.ph/file/af019bffd718e501c3209.jpg",
+        "https://telegra.ph/file/f7d544800e009068b4653.jpg",
+        "https://telegra.ph/file/11a7d921794a6c28bbfeb.jpg",
+        "https://telegra.ph/file/ed4d02c8ceae189366ed8.jpg",
+        "https://telegra.ph/file/3a48f17b210c3d9cb985e.jpg",
+        "https://telegra.ph/file/0f78c83ec07c2a1f6b3fe.jpg",
+        "https://telegra.ph/file/ceb060cd265bff6c6dba8.jpg",
+        "https://telegra.ph/file/2961ad6c4ffe581e6d680.jpg",
+        "https://telegra.ph/file/b28fe4ca1574849eafbaf.jpg",
+        "https://telegra.ph/file/138fcf34c6d83ed12a8d2.jpg",
+        "https://telegra.ph/file/090dbd93694558681d54a.jpg",
+        "https://telegra.ph/file/ee0670cdfa8f46b70d549.jpg",
+        "https://telegra.ph/file/7d79686fd3719f41d794d.jpg",
+        "https://telegra.ph/file/ac2a93fedc76a3749f7c7.jpg",
+        "https://telegra.ph/file/5abe0ad3525c4fb47fa91.jpg",
+        "https://telegra.ph/file/13546ef7c435c5d291b88.jpg",
+        "https://telegra.ph/file/7a5b62ba4b2e996383383.jpg",
+        "https://telegra.ph/file/c9a061c7fc27300a2fe6b.jpg",
+        "https://telegra.ph/file/ae90f8325a1baa9500b1a.jpg",
+        "https://telegra.ph/file/8b8973b790f8f7d09460f.jpg"
+    ]
+};

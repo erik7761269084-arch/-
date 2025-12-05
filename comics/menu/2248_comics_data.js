@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2248,
+    "title": "[はめんず (SAKULA)] 妖魔摩天楼",
+    "sourceUrl": "https://telegra.ph/はめんず-SAKULA-妖魔摩天楼-08-31",
+    "images": [
+        "https://telegra.ph/file/e245997b7b85f14ecc9a1.jpg",
+        "https://telegra.ph/file/f43072b08c03809212a26.jpg",
+        "https://telegra.ph/file/9b7fcc5306a44dbcb9a7c.jpg",
+        "https://telegra.ph/file/06de272bafbcc5a814e94.jpg",
+        "https://telegra.ph/file/508b070d0ce47f8dedddb.jpg",
+        "https://telegra.ph/file/794f7ff6568382484e520.jpg",
+        "https://telegra.ph/file/bbba9ba58fca3f2bcbecf.jpg",
+        "https://telegra.ph/file/955cac3ba17ec4c1ae421.jpg",
+        "https://telegra.ph/file/ddca7153680db4bc428be.jpg",
+        "https://telegra.ph/file/d3990838bf2cb21d426e0.jpg",
+        "https://telegra.ph/file/e24a498e977a338c27c42.jpg",
+        "https://telegra.ph/file/f9da4e6c5d1b3f9b28ebd.jpg",
+        "https://telegra.ph/file/9a3fe9115e4a67e320f2d.jpg",
+        "https://telegra.ph/file/d0902881b9926056efbcc.jpg",
+        "https://telegra.ph/file/9febf45eea784b87a5c5f.jpg",
+        "https://telegra.ph/file/09457ae234b230a342ecd.jpg",
+        "https://telegra.ph/file/4974933f65ce3560b84f6.jpg",
+        "https://telegra.ph/file/9022f375d2abbd0887b32.jpg",
+        "https://telegra.ph/file/e42a5d0182ae461fc32d0.jpg",
+        "https://telegra.ph/file/71ea9b376f84180bc8aa5.jpg",
+        "https://telegra.ph/file/d88cd2dae0e80402de357.jpg",
+        "https://telegra.ph/file/b24b7dc44ec6e21386cd8.jpg",
+        "https://telegra.ph/file/ab3ac67ad2885060a5029.jpg"
+    ]
+};

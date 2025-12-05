@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2778,
+    "title": "痴漢 DEAD END 前編[栗子汉化]",
+    "sourceUrl": "https://telegra.ph/痴漢-DEAD-END-前編栗子汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/dcd6d0d62152df325caac.jpg",
+        "https://telegra.ph/file/c3361053f7d048eeceb73.jpg",
+        "https://telegra.ph/file/dde4fa4b3291ad341dd5f.png",
+        "https://telegra.ph/file/20e6244268a8af2f6c092.jpg",
+        "https://telegra.ph/file/d6a4f65bb7c72560e3bda.jpg",
+        "https://telegra.ph/file/a6b90d82e2a6204d14b20.jpg",
+        "https://telegra.ph/file/ede2247cdf3238e0b58de.jpg",
+        "https://telegra.ph/file/35a942a34925b725d1e73.jpg",
+        "https://telegra.ph/file/da688900bb88140d4b62c.jpg",
+        "https://telegra.ph/file/16669d19cd8276e2394ca.jpg",
+        "https://telegra.ph/file/10dea1965cc3c90873e90.jpg",
+        "https://telegra.ph/file/424bb0964617b4ad78db1.jpg",
+        "https://telegra.ph/file/0844fbcb7a6238732b299.jpg",
+        "https://telegra.ph/file/f3d06aeaa0c2d6feeb111.jpg",
+        "https://telegra.ph/file/11b11697ecc6e0bd8d30f.jpg",
+        "https://telegra.ph/file/6d4de105479ce3cc4502a.jpg",
+        "https://telegra.ph/file/1d5145d34436115768453.jpg",
+        "https://telegra.ph/file/13de466cb2bf85304193a.jpg",
+        "https://telegra.ph/file/aa100de18afb5440164c5.jpg",
+        "https://telegra.ph/file/65720a7a1ff378b18eed5.jpg",
+        "https://telegra.ph/file/76a3098f6ec3aa875a7ca.jpg",
+        "https://telegra.ph/file/f6abf5370f75dfa77cbb3.jpg",
+        "https://telegra.ph/file/e2259fd0182d2572cd7e8.jpg",
+        "https://telegra.ph/file/b6e6480a1fbbbeec006da.jpg",
+        "https://telegra.ph/file/6c76b7ab6615981adc36c.jpg"
+    ]
+};

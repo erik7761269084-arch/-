@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6241,
+    "title": "[アスヒロ] 狛木惟は止まれない",
+    "sourceUrl": "https://telegra.ph/アスヒロ-狛木惟は止まれない-08-31",
+    "images": [
+        "https://telegra.ph/file/2bbdff6ef853efcac6573.jpg",
+        "https://telegra.ph/file/2a70bbb1a65bf197ae55f.jpg",
+        "https://telegra.ph/file/9d2e3f3e34d8ccf9480bb.jpg",
+        "https://telegra.ph/file/b83c34eaa859261f634ac.jpg",
+        "https://telegra.ph/file/e2bc5ab55722a7979fa90.jpg",
+        "https://telegra.ph/file/eb7c736dc069482c03e39.jpg",
+        "https://telegra.ph/file/805af134a789df74441a5.jpg",
+        "https://telegra.ph/file/5ab4411c2974809129890.jpg",
+        "https://telegra.ph/file/aac8de6c5b7615abf739c.jpg",
+        "https://telegra.ph/file/99a4ead0130f4cf8e78fe.jpg",
+        "https://telegra.ph/file/3f1f223320355e602729c.jpg",
+        "https://telegra.ph/file/99035f5b82817a3a170f6.jpg",
+        "https://telegra.ph/file/09f9f8fbac68dbf40a220.jpg",
+        "https://telegra.ph/file/e363373defc3cfa2114c5.jpg",
+        "https://telegra.ph/file/b86df1c34646785fb3046.jpg",
+        "https://telegra.ph/file/1ff5f544aa3becf99ba3c.jpg",
+        "https://telegra.ph/file/8ae93566016454d718669.jpg",
+        "https://telegra.ph/file/e2a616c03792677fe7f15.jpg",
+        "https://telegra.ph/file/7839e96221e5189f07525.jpg",
+        "https://telegra.ph/file/7aacac324ef750a731f06.jpg",
+        "https://telegra.ph/file/5f722c6df13255ebaec5d.jpg",
+        "https://telegra.ph/file/3f9c114459681808b21ea.jpg",
+        "https://telegra.ph/file/ff6ec4f27c475088f4941.jpg",
+        "https://telegra.ph/file/4a949f28a0212f7d6c0d3.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5465,
+    "title": "[M-MAX] 僕の先生",
+    "sourceUrl": "https://telegra.ph/M-MAX-僕の先生-08-31",
+    "images": [
+        "https://telegra.ph/file/114acf9b32de4e9b0db2a.png",
+        "https://telegra.ph/file/6ec5f5ccf5656d7c2f73a.png",
+        "https://telegra.ph/file/37d5f57358849d1dac530.png",
+        "https://telegra.ph/file/4190e719cc416593a7e53.png",
+        "https://telegra.ph/file/3018076f95954433dc45d.png",
+        "https://telegra.ph/file/68320936f2e485909c08f.png",
+        "https://telegra.ph/file/dfdb0318514a7b2c94822.png",
+        "https://telegra.ph/file/5c57bc0b86200f7084483.png",
+        "https://telegra.ph/file/e9507aa4de5c60b390c19.png",
+        "https://telegra.ph/file/4390a5013c21cbfecd0fa.png",
+        "https://telegra.ph/file/dbb5492b2dd8eb5ca89d4.png",
+        "https://telegra.ph/file/bdb41009637c8dd504e56.png",
+        "https://telegra.ph/file/c49585c0cae3a09d110d1.png",
+        "https://telegra.ph/file/171ba088386fb3926b410.png",
+        "https://telegra.ph/file/1320004e5907ade590638.png",
+        "https://telegra.ph/file/0551d3fc882235f6369c2.png",
+        "https://telegra.ph/file/d6cf0512c90b7037e222a.png",
+        "https://telegra.ph/file/e293621e0742d8a0c7848.png",
+        "https://telegra.ph/file/13c454a689cc2862535d2.png",
+        "https://telegra.ph/file/fbedf1d36961fd39120ba.png",
+        "https://telegra.ph/file/2ae9a32692d10787314c9.png",
+        "https://telegra.ph/file/a55dd602579a885304496.png",
+        "https://telegra.ph/file/2c4543abc1a9e617cf725.png",
+        "https://telegra.ph/file/91ab9aa9439ae0ec740d9.png"
+    ]
+};

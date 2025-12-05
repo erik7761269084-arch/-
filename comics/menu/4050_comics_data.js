@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4050,
+    "title": "[Zerodo]常識改変(リゼ・ヘルエスタ)",
+    "sourceUrl": "https://telegra.ph/Zerodo常識改変リゼヘルエスタ-08-31",
+    "images": [
+        "https://telegra.ph/file/a0a93bf46909784e6ba32.jpg",
+        "https://telegra.ph/file/df1ac960bd4a27dd77bba.jpg",
+        "https://telegra.ph/file/7989cf83cf06b9a01ed6d.jpg",
+        "https://telegra.ph/file/0e9402a5fecdcd87ffe71.jpg",
+        "https://telegra.ph/file/455bb08dba04d204e0ae6.jpg",
+        "https://telegra.ph/file/f1e5c8f3201e5e3c92030.jpg",
+        "https://telegra.ph/file/8bac0fcf337deb85d68b3.jpg",
+        "https://telegra.ph/file/5a5a1029eccf38664620a.jpg",
+        "https://telegra.ph/file/f2c7e4d118f5dd838627a.jpg",
+        "https://telegra.ph/file/47991961e5ff97112a253.jpg",
+        "https://telegra.ph/file/0378b7cde070caff88501.jpg",
+        "https://telegra.ph/file/c4a8d4e2a5accad14a135.jpg",
+        "https://telegra.ph/file/511dbc3e57ea3dd1826ec.jpg",
+        "https://telegra.ph/file/7ec3a68f3c165668bc56c.jpg",
+        "https://telegra.ph/file/af46e149ca6f491625393.jpg",
+        "https://telegra.ph/file/72d6d3255bfada2560189.jpg",
+        "https://telegra.ph/file/8d7e36120a9a7a314e9cd.jpg",
+        "https://telegra.ph/file/b2d0d55d2d85ca4049694.jpg",
+        "https://telegra.ph/file/43a074b44cebe847fd3b6.jpg",
+        "https://telegra.ph/file/d2f0fe1b656366a633310.jpg",
+        "https://telegra.ph/file/9b0926d7f5a03977010ea.jpg",
+        "https://telegra.ph/file/f22eeb0a9e8db1108bdc4.jpg",
+        "https://telegra.ph/file/c662456537c19dc1455d7.jpg",
+        "https://telegra.ph/file/5ddbba0a9c7d4006cb2a6.jpg"
+    ]
+};

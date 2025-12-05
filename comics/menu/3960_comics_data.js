@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3960,
+    "title": "[みぞれ] 彼女がいるので邪悪な低身長Mカップ甘々イジワル教え子の誘惑には負けません。(COMIC 真激 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/みぞれ-彼女がいるので邪悪な低身長Mカップ甘々イジワル教え子の誘惑には負けませんCOMIC-真激-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/3a073670d1cd30e1c621d.jpg",
+        "https://telegra.ph/file/f3089181549df573193e8.jpg",
+        "https://telegra.ph/file/42976af89fd63e5dcd376.jpg",
+        "https://telegra.ph/file/731fa009b887f1c2005d1.jpg",
+        "https://telegra.ph/file/21f6f558530c9c03bcff5.jpg",
+        "https://telegra.ph/file/ee3999e4129a3815c8663.jpg",
+        "https://telegra.ph/file/dba2e2dc34c152847508c.jpg",
+        "https://telegra.ph/file/601649ee94e1b776c765f.jpg",
+        "https://telegra.ph/file/61ccf33d4afca37417aad.jpg",
+        "https://telegra.ph/file/03b76691ca702964866c7.jpg",
+        "https://telegra.ph/file/6cd4f7ebaca5167ee2c1f.jpg",
+        "https://telegra.ph/file/8678c898dff4316f4aae3.jpg",
+        "https://telegra.ph/file/3c5c179eb5719ae241712.jpg",
+        "https://telegra.ph/file/19a76ee7c1b45d7c6ba0d.jpg",
+        "https://telegra.ph/file/f333b852f7903031aefd7.jpg",
+        "https://telegra.ph/file/01493e6aa17d34628823f.jpg",
+        "https://telegra.ph/file/70e3840ea26a5f5b886bd.jpg",
+        "https://telegra.ph/file/e267cbd1bcf375c37ab9b.jpg",
+        "https://telegra.ph/file/d7af99399c9c2abbfd99f.jpg",
+        "https://telegra.ph/file/648e5ba352d9fbea09609.jpg",
+        "https://telegra.ph/file/f34ec4f26ccf43b36c342.jpg",
+        "https://telegra.ph/file/bfc42dba7b08929928db6.jpg",
+        "https://telegra.ph/file/86496fd38f39cd193ba27.jpg",
+        "https://telegra.ph/file/d5e9c89eaf0550acb7edc.jpg",
+        "https://telegra.ph/file/5b6abc08fd850619ece13.jpg"
+    ]
+};

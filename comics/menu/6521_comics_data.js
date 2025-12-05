@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6521,
+    "title": "総領娘様と僕。 (東方Project)",
+    "sourceUrl": "https://telegra.ph/総領娘様と僕-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/726feb91297d77f6b172e.jpg",
+        "https://telegra.ph/file/a846160d5aff6e8410890.jpg",
+        "https://telegra.ph/file/203a5d2f094507be944ca.jpg",
+        "https://telegra.ph/file/4dbbfdf8e57ee459ce12c.jpg",
+        "https://telegra.ph/file/6b9eff1da745743a87f39.jpg",
+        "https://telegra.ph/file/2357c90f5d0ed96160729.jpg",
+        "https://telegra.ph/file/9e9c99c118b29c5ecf6e6.jpg",
+        "https://telegra.ph/file/eecff1e5c3444686f1445.jpg",
+        "https://telegra.ph/file/a9ddc093a9b6b16c3f8d6.jpg",
+        "https://telegra.ph/file/b99415840324930c6ab1d.jpg",
+        "https://telegra.ph/file/b7ab54974c2329278c489.jpg",
+        "https://telegra.ph/file/07bb226ab0319561d9622.jpg",
+        "https://telegra.ph/file/547f58e68e41de947dbd1.jpg",
+        "https://telegra.ph/file/3546a52926494becbe3a7.jpg",
+        "https://telegra.ph/file/58ad8a4fd9e336da0e751.jpg",
+        "https://telegra.ph/file/32cea622872faa9b7be30.jpg",
+        "https://telegra.ph/file/d94f59c7c8a37ed129f30.jpg",
+        "https://telegra.ph/file/c600f1d03a3e3da3b1de5.jpg",
+        "https://telegra.ph/file/e2a300c6fe11f725fa836.jpg",
+        "https://telegra.ph/file/4897b26c34b6f64b471e2.jpg",
+        "https://telegra.ph/file/70dd1a2f97dca09a6781d.jpg",
+        "https://telegra.ph/file/c46bd1cb769712f740bfe.jpg",
+        "https://telegra.ph/file/15812d904aa880a3d3c3a.jpg"
+    ]
+};

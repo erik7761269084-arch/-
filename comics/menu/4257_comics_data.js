@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4257,
+    "title": "[シャモナベ] ぬかるみ (COMIC 快楽天 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/シャモナベ-ぬかるみ-COMIC-快楽天-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a2d182f6fe746e27810bb.jpg",
+        "https://telegra.ph/file/7d08b8cd7a898dbb29309.jpg",
+        "https://telegra.ph/file/6c881ba6258de2cf4bb06.jpg",
+        "https://telegra.ph/file/7392404887a43c1db98b6.jpg",
+        "https://telegra.ph/file/155b48bc27157113abcbe.jpg",
+        "https://telegra.ph/file/aab63c0090942ce26f934.jpg",
+        "https://telegra.ph/file/6fec9076f92201355b5ce.jpg",
+        "https://telegra.ph/file/b63bdd04e7dff62cc4116.jpg",
+        "https://telegra.ph/file/b19c02453f0c6d48c0ec6.jpg",
+        "https://telegra.ph/file/27ff62d0427f8d8c4a101.jpg",
+        "https://telegra.ph/file/17f44595cdd3c457926b9.jpg",
+        "https://telegra.ph/file/431eaff9cf5fc2f734df2.jpg",
+        "https://telegra.ph/file/595c8d8eb6bd851ede3b2.jpg",
+        "https://telegra.ph/file/c32a706d138fd4a44e32d.jpg",
+        "https://telegra.ph/file/fae62452873984ce78948.jpg",
+        "https://telegra.ph/file/4cc51a7260ee5d4c20678.jpg",
+        "https://telegra.ph/file/5e4b9146c28f6ce7f067a.jpg",
+        "https://telegra.ph/file/1bbf2947018293a51af36.jpg",
+        "https://telegra.ph/file/6cdfc5a38d755aa2471db.jpg",
+        "https://telegra.ph/file/fe58a5c570f42a750438a.jpg",
+        "https://telegra.ph/file/99905715984f6567c2da8.jpg",
+        "https://telegra.ph/file/fc591887e2621b7c72023.jpg",
+        "https://telegra.ph/file/706cabbf1143d64c03cb2.jpg",
+        "https://telegra.ph/file/0752c017b83cb278db725.jpg"
+    ]
+};

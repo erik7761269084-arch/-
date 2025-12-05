@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 319,
+    "title": "[さくらがーでん (しろすず)] マスターさんをこらしめ穴でおしおきしてあげまーす (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/さくらがーでん-しろすず-マスターさんをこらしめ穴でおしおきしてあげまーす-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/fc9ec1e31d2ffd0d65057.jpg",
+        "https://telegra.ph/file/5d005ed15ef8fceb8e630.jpg",
+        "https://telegra.ph/file/370b950fbe6ebd7474de3.jpg",
+        "https://telegra.ph/file/483404c08643813853a70.jpg",
+        "https://telegra.ph/file/a43ca7901e51587a71a81.jpg",
+        "https://telegra.ph/file/a9932daca796eeef65825.jpg",
+        "https://telegra.ph/file/1b3db6d5f47f4e7aff237.jpg",
+        "https://telegra.ph/file/f11f6f26993b4f9fa1893.jpg",
+        "https://telegra.ph/file/5194803a7ddfc5cfa1924.jpg",
+        "https://telegra.ph/file/a13f8b106cf75c0968e03.jpg",
+        "https://telegra.ph/file/d324ccd6b1263f5af3df9.jpg",
+        "https://telegra.ph/file/479d2ce7e866d6ddb5948.jpg",
+        "https://telegra.ph/file/cf2f17a53a01e1cf9fd9b.jpg",
+        "https://telegra.ph/file/f876594d75510b4455a3e.jpg",
+        "https://telegra.ph/file/8fefa625f04d5ad7b2956.jpg",
+        "https://telegra.ph/file/481bd0419b2f6df928cee.jpg",
+        "https://telegra.ph/file/4c9f68cee1162c208224e.jpg",
+        "https://telegra.ph/file/a567d566c05bb9635f6b0.jpg",
+        "https://telegra.ph/file/88089c17a4b97f79330d1.jpg",
+        "https://telegra.ph/file/85c655534139f0d1f4f66.jpg",
+        "https://telegra.ph/file/fef01e96948c6a07e99c9.jpg",
+        "https://telegra.ph/file/a908ab2f5cb3d4c9f9264.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3678,
+    "title": "[青ばなな] 爆乳垂れ乳虞美人パイセン母乳噴射乳首アクメ",
+    "sourceUrl": "https://telegra.ph/青ばなな-爆乳垂れ乳虞美人パイセン母乳噴射乳首アクメ-08-31",
+    "images": [
+        "https://telegra.ph/file/46feaddc01565b4aec844.jpg",
+        "https://telegra.ph/file/0a5664ab841efc11ebb85.jpg",
+        "https://telegra.ph/file/bbdd4436da188bfe80e3e.jpg",
+        "https://telegra.ph/file/966eb203e4769c0409967.jpg",
+        "https://telegra.ph/file/b5bc0ae1846ada1d82884.jpg",
+        "https://telegra.ph/file/94a26dc71ba8d210cb4c1.jpg",
+        "https://telegra.ph/file/70b8267885798e29a0991.jpg",
+        "https://telegra.ph/file/b9df6a2ded999cb0b59ef.jpg",
+        "https://telegra.ph/file/1cca61228c782ae61cc76.jpg",
+        "https://telegra.ph/file/b2fa17e9a1d9cf8f13af4.jpg",
+        "https://telegra.ph/file/9b9c6d9831f577e116ead.jpg",
+        "https://telegra.ph/file/5327e8e2399211988bac6.jpg",
+        "https://telegra.ph/file/6d35908300c50d15f3fc6.jpg",
+        "https://telegra.ph/file/af40e1dc2fc0209721bc2.jpg",
+        "https://telegra.ph/file/88304c6913454fcd76ff9.jpg",
+        "https://telegra.ph/file/eceb9f75181028fe988c1.jpg",
+        "https://telegra.ph/file/1721db373f886d3f60077.jpg",
+        "https://telegra.ph/file/7eafd59388ecdf7c262e9.jpg",
+        "https://telegra.ph/file/70d62eb0e24d347646580.jpg",
+        "https://telegra.ph/file/c55838d942cb8f4517491.jpg",
+        "https://telegra.ph/file/02180355d7404f88b6426.jpg",
+        "https://telegra.ph/file/67a977ab11e134ae9ee0a.jpg",
+        "https://telegra.ph/file/d4daadf2e10f6f24beb36.jpg",
+        "https://telegra.ph/file/158da71f135a0aa19b4c3.jpg",
+        "https://telegra.ph/file/e73cedffe7014d3ad2a18.jpg"
+    ]
+};

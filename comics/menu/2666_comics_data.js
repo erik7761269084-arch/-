@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2666,
+    "title": "[kakao] ピュアメイドサービス (COMIC 快楽天ビースト 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/kakao-ピュアメイドサービス-COMIC-快楽天ビースト-2022年4月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/9b5c988de412ad7485ace.jpg",
+        "https://telegra.ph/file/7ae0a68fd97b5f678a365.jpg",
+        "https://telegra.ph/file/eb8031685563e4f3b176c.jpg",
+        "https://telegra.ph/file/752b1bfa09c6050786542.jpg",
+        "https://telegra.ph/file/ccf0f0375a3a5a4f185a6.jpg",
+        "https://telegra.ph/file/3296cb3181f8c8cb87391.jpg",
+        "https://telegra.ph/file/e2a1abc08e456f300a473.jpg",
+        "https://telegra.ph/file/3180eb6184515598cc938.jpg",
+        "https://telegra.ph/file/2993c9c59437802cdbb18.jpg",
+        "https://telegra.ph/file/73301e427d9f66da47d07.jpg",
+        "https://telegra.ph/file/e5c82899dd3484a8cf46e.jpg",
+        "https://telegra.ph/file/cef041ae08870c4ee7415.jpg",
+        "https://telegra.ph/file/40907ab67e5e9ed1efa87.jpg",
+        "https://telegra.ph/file/e96af43f2ed3419059b9e.jpg",
+        "https://telegra.ph/file/5d5671a2b81b31a4fde99.jpg",
+        "https://telegra.ph/file/3f66ca17e620963d9e5a2.jpg",
+        "https://telegra.ph/file/3fb8a297c1e265a48e222.jpg",
+        "https://telegra.ph/file/14fb46d40270fb2642627.jpg",
+        "https://telegra.ph/file/eb550ccbd9e98ffb2ff3f.jpg",
+        "https://telegra.ph/file/189ebc029406ded0f206f.jpg",
+        "https://telegra.ph/file/0d77b59336b4f167abe42.jpg",
+        "https://telegra.ph/file/dd51dacb3787ee7e942fa.jpg",
+        "https://telegra.ph/file/2a70909469f8f7c5ec67e.jpg",
+        "https://telegra.ph/file/887bcfb07f3d37a59a477.jpg",
+        "https://telegra.ph/file/6d3f70089ffcb4a7caf31.jpg",
+        "https://telegra.ph/file/0b9bee4ffe2df40758fa5.jpg"
+    ]
+};

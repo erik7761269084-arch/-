@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 854,
+    "title": "[もものユーカ] ルナティック (COMIC アンスリウム 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/もものユーカ-ルナティック-COMIC-アンスリウム-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7d9b0f3bddd031d8c9b0e.jpg",
+        "https://telegra.ph/file/a229ee030b11ee1d7630f.jpg",
+        "https://telegra.ph/file/f32c6417e95a8031694de.jpg",
+        "https://telegra.ph/file/1feb1c9b0015baa84c815.jpg",
+        "https://telegra.ph/file/efc9f7b2cd968ecbc3b94.jpg",
+        "https://telegra.ph/file/19b5015372414bf726687.jpg",
+        "https://telegra.ph/file/8014169c3efe2f23b94e5.jpg",
+        "https://telegra.ph/file/31a72bd2dfa51fd49cd43.jpg",
+        "https://telegra.ph/file/a20d2721c7351416caf33.jpg",
+        "https://telegra.ph/file/8183bddde05c148ba0c59.jpg",
+        "https://telegra.ph/file/a0bd1a7822fa618ee5712.jpg",
+        "https://telegra.ph/file/44159ed1924d1b8c30c4b.jpg",
+        "https://telegra.ph/file/7dab59f3c79a8af18dc2b.jpg",
+        "https://telegra.ph/file/70f81d070f13a24ca8fde.jpg",
+        "https://telegra.ph/file/ee107b8552c258a7d16c6.jpg",
+        "https://telegra.ph/file/d09e6447c5f88c98dd255.jpg",
+        "https://telegra.ph/file/65a08416b7611a2ba1d4e.jpg",
+        "https://telegra.ph/file/62627cee2fe119ef8d028.jpg",
+        "https://telegra.ph/file/dcdd3c16d16cd81c43aa0.jpg",
+        "https://telegra.ph/file/b065cf3d8341a7cf51b2e.jpg",
+        "https://telegra.ph/file/01231537b8f18d7619733.jpg",
+        "https://telegra.ph/file/93812b25f635ec3459926.jpg",
+        "https://telegra.ph/file/cad9635a2b314cf741fbf.jpg",
+        "https://telegra.ph/file/baea2d68297d030087e47.jpg"
+    ]
+};

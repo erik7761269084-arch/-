@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 221,
+    "title": "(C97) [スタジオひとりぼっち (綾城大福)] ぷにきょがくえん",
+    "sourceUrl": "https://telegra.ph/C97-スタジオひとりぼっち-綾城大福-ぷにきょがくえん-08-31",
+    "images": [
+        "https://telegra.ph/file/acd9b1978cc0f910a988a.jpg",
+        "https://telegra.ph/file/224b27b2c3559cee9d278.jpg",
+        "https://telegra.ph/file/8000178b7ec7f0620d0d7.jpg",
+        "https://telegra.ph/file/2f5c145d8afe3277c3171.jpg",
+        "https://telegra.ph/file/8d4bbe08649a576cdfb7d.jpg",
+        "https://telegra.ph/file/3be72be5f3f9a8ed7c462.jpg",
+        "https://telegra.ph/file/c7fea0225e2091c18da59.jpg",
+        "https://telegra.ph/file/c61259661724f04d1b8a0.jpg",
+        "https://telegra.ph/file/c44601ffe145b7809eb3a.jpg",
+        "https://telegra.ph/file/3a45f4ae4688d46adf38d.jpg",
+        "https://telegra.ph/file/a0f95dbb4607cdb1edd77.jpg",
+        "https://telegra.ph/file/fd7ad1a33f7b790349d51.jpg",
+        "https://telegra.ph/file/40bf740022ef4b2013d59.jpg",
+        "https://telegra.ph/file/c3548c26f7a0b197be6b6.jpg",
+        "https://telegra.ph/file/390a45c51aaf7ffd908a7.jpg",
+        "https://telegra.ph/file/922fe57c40f5a12445a0d.jpg",
+        "https://telegra.ph/file/677e91c527e1a7d71a3a8.jpg",
+        "https://telegra.ph/file/4a59de43f2bc5fbde5718.jpg",
+        "https://telegra.ph/file/bf3f12b58530f4b364fe4.jpg",
+        "https://telegra.ph/file/07aebbc1b3df0d700b5fa.jpg",
+        "https://telegra.ph/file/9a39960db1e8c162ad79a.jpg",
+        "https://telegra.ph/file/a812bd56a63a10f4c95f9.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

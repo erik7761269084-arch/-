@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5904,
+    "title": "[みずゆき] 二人のナイショの×××",
+    "sourceUrl": "https://telegra.ph/みずゆき-二人のナイショの-08-31",
+    "images": [
+        "https://telegra.ph/file/acb74d28d013be8269f6c.png",
+        "https://telegra.ph/file/878148b77b86c4ec71a2c.png",
+        "https://telegra.ph/file/daa5906558408a6a3c356.png",
+        "https://telegra.ph/file/1998fbff6c455042e1d9c.png",
+        "https://telegra.ph/file/7f8ac4fdf14af80b481b7.png",
+        "https://telegra.ph/file/1e7afeef0941fdaf90689.png",
+        "https://telegra.ph/file/2783e29fa43c512ae0a33.png",
+        "https://telegra.ph/file/288146f5f3a4a8d29332a.png",
+        "https://telegra.ph/file/99f2bb65c214bd4478d49.png",
+        "https://telegra.ph/file/cbfc7887cefd952364bf6.png",
+        "https://telegra.ph/file/db77ec49e1a4588231bb3.png",
+        "https://telegra.ph/file/2c0225b4cf4f2da77abba.png",
+        "https://telegra.ph/file/b831fbedccdf70c61cd69.png",
+        "https://telegra.ph/file/2a61b68ffec7110bb3d4a.png",
+        "https://telegra.ph/file/4b4c0ea0e77f604deebec.png",
+        "https://telegra.ph/file/1264a7136b700063d59cb.png",
+        "https://telegra.ph/file/e8d9f4c58ad4cbc415a2a.png",
+        "https://telegra.ph/file/c5941f01f304e8cbaf5a8.png",
+        "https://telegra.ph/file/be0ac512425c7a6936073.png",
+        "https://telegra.ph/file/ca82a91f635dede990c97.png",
+        "https://telegra.ph/file/1a4589f68089707884802.png",
+        "https://telegra.ph/file/5116475da827912e1d677.png",
+        "https://telegra.ph/file/cc17ba83546f61b58ec91.png",
+        "https://telegra.ph/file/3def1ca797f0606f0fffa.png"
+    ]
+};

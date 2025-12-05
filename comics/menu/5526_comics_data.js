@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5526,
+    "title": "[玉之けだま] Charms Party",
+    "sourceUrl": "https://telegra.ph/玉之けだま-Charms-Party-08-31",
+    "images": [
+        "https://telegra.ph/file/4c85b0d2429668198d290.jpg",
+        "https://telegra.ph/file/00769073dcb2303d36287.jpg",
+        "https://telegra.ph/file/e72891f22001e29f40bed.jpg",
+        "https://telegra.ph/file/1b70ab208a841e7abe49e.jpg",
+        "https://telegra.ph/file/f1bd5227f38b71130afe8.jpg",
+        "https://telegra.ph/file/9d9bd19ba67a9f9364914.jpg",
+        "https://telegra.ph/file/67b4a35ab0e2e8d6e1f18.jpg",
+        "https://telegra.ph/file/6b984700cdab47be4bb18.jpg",
+        "https://telegra.ph/file/b7a98a69ca523e1ac1ab6.jpg",
+        "https://telegra.ph/file/5e626f2bbff50fde211ab.jpg",
+        "https://telegra.ph/file/09c68c2c6b7b968064c48.jpg",
+        "https://telegra.ph/file/ac9e5d544a02c44f54de0.jpg",
+        "https://telegra.ph/file/846c73330bc7b42916156.jpg",
+        "https://telegra.ph/file/cfcdd2c90687b7b8f6e57.jpg",
+        "https://telegra.ph/file/9ddf12eeef04de2677565.jpg",
+        "https://telegra.ph/file/98df3c250fa52ef8a0568.jpg",
+        "https://telegra.ph/file/f3ab87859e9a5ea28e9f3.jpg",
+        "https://telegra.ph/file/5fc750fb7d5c81a7b0c88.jpg",
+        "https://telegra.ph/file/a9fafd65fefcf2ec71e8c.jpg",
+        "https://telegra.ph/file/523ec76be0077330506a8.jpg",
+        "https://telegra.ph/file/0b310ab1626b9fcd07359.jpg",
+        "https://telegra.ph/file/e90dead81c3505a4b64e6.jpg",
+        "https://telegra.ph/file/b56d33fbbd9df18451825.jpg",
+        "https://telegra.ph/file/99b39b3b335c20ac94fea.jpg"
+    ]
+};

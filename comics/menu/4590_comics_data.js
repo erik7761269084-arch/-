@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4590,
+    "title": "[堺はまち] 隣のママは僕のセフレ (COMIC 阿吽 2021年8月号)",
+    "sourceUrl": "https://telegra.ph/堺はまち-隣のママは僕のセフレ-COMIC-阿吽-2021年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/bb745b4db6a6227d9e360.jpg",
+        "https://telegra.ph/file/ed9b9700b93923df20d11.jpg",
+        "https://telegra.ph/file/b56ee484bd75852144dec.jpg",
+        "https://telegra.ph/file/0328460c306f9e9e15d96.jpg",
+        "https://telegra.ph/file/6666a69ba38dc945d4766.jpg",
+        "https://telegra.ph/file/d53928d883313190a9fdc.jpg",
+        "https://telegra.ph/file/a92ab9e8b70d11c7f554f.jpg",
+        "https://telegra.ph/file/f0940ecaab02b0396a11f.jpg",
+        "https://telegra.ph/file/9ae0c369a5940ff0bd045.jpg",
+        "https://telegra.ph/file/70985c014f6a633cf6348.jpg",
+        "https://telegra.ph/file/d27ab4e4adcaa1bf62742.jpg",
+        "https://telegra.ph/file/12120ab12ee2f43fcb2c6.jpg",
+        "https://telegra.ph/file/da7e0decf4a719512eda3.jpg",
+        "https://telegra.ph/file/3f1b46036e77ccde39143.jpg",
+        "https://telegra.ph/file/c62f7867db833056b817f.jpg",
+        "https://telegra.ph/file/b30a4e46fb43e5e31c6c4.jpg",
+        "https://telegra.ph/file/75936403528c7638b4ddb.jpg",
+        "https://telegra.ph/file/e991bb823b26ccce53ed7.jpg",
+        "https://telegra.ph/file/585919f40da7e3deb32db.jpg",
+        "https://telegra.ph/file/cb365069a35439a7a04aa.jpg",
+        "https://telegra.ph/file/d84acdfbe5f616601b860.jpg",
+        "https://telegra.ph/file/a01457247903db9c8bf50.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ]
+};

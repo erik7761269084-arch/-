@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2397,
+    "title": "[みなすきぽぷり] せんせいきもい ( わたしたちのかえりみち)",
+    "sourceUrl": "https://telegra.ph/みなすきぽぷり-せんせいきもい--わたしたちのかえりみち-08-31",
+    "images": [
+        "https://telegra.ph/file/4b27a8ad92e7ebc444ede.jpg",
+        "https://telegra.ph/file/cf327128398d19d2c8350.jpg",
+        "https://telegra.ph/file/da54e33b4932fa2b5c060.jpg",
+        "https://telegra.ph/file/331b02477eca8a6cb4491.jpg",
+        "https://telegra.ph/file/3751d92b954caa96bd385.jpg",
+        "https://telegra.ph/file/db1ed8ca7dce21ecc3cfe.jpg",
+        "https://telegra.ph/file/97c5a5edd800cabc040d2.jpg",
+        "https://telegra.ph/file/e817b77773ad537b22304.jpg",
+        "https://telegra.ph/file/58539204dc75bc7a2b5da.jpg",
+        "https://telegra.ph/file/597144741f7d32c14a28f.jpg",
+        "https://telegra.ph/file/c95d52f16d28513e75676.jpg",
+        "https://telegra.ph/file/daebb264c04623bdb62c6.jpg",
+        "https://telegra.ph/file/45e6066af785a30ca7d47.jpg",
+        "https://telegra.ph/file/6a56540fb9a7bcb610841.jpg",
+        "https://telegra.ph/file/9e89543e4a81e345af3a5.jpg",
+        "https://telegra.ph/file/3225d4e2e9e058d2f4bc9.jpg",
+        "https://telegra.ph/file/e1e04d34e86aaf1a937e1.jpg",
+        "https://telegra.ph/file/209a727e991997a95e894.jpg",
+        "https://telegra.ph/file/5652100a09ee69697ced4.jpg",
+        "https://telegra.ph/file/41f1eea3b015c847cd653.jpg",
+        "https://telegra.ph/file/f1a38c3991ac675547e52.jpg",
+        "https://telegra.ph/file/e7fb889663d6b0f60cd84.jpg",
+        "https://telegra.ph/file/36aca32bffb12d85d2769.jpg",
+        "https://telegra.ph/file/290b0b538cade4ebe6ddb.jpg",
+        "https://telegra.ph/file/462e4fa6ccd9f36c85449.jpg"
+    ]
+};

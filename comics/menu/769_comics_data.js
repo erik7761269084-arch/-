@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 769,
+    "title": "[skyzen] 僵尸娘6",
+    "sourceUrl": "https://telegra.ph/skyzen-僵尸娘6-08-31",
+    "images": [
+        "https://telegra.ph/file/947668415d3ace25c1210.jpg",
+        "https://telegra.ph/file/0d8936fc7a0a7f9b1e647.jpg",
+        "https://telegra.ph/file/52fdbe81d6d8d855980d8.jpg",
+        "https://telegra.ph/file/c84feff3f29f9ea0dd3ea.jpg",
+        "https://telegra.ph/file/fedae359b6ba3ee2b3153.jpg",
+        "https://telegra.ph/file/9122669e87bd4c73770c6.jpg",
+        "https://telegra.ph/file/78b57f5ce9d9d7dbcb7f4.jpg",
+        "https://telegra.ph/file/0b62be78b4284f72d3c12.jpg",
+        "https://telegra.ph/file/c743d151a47c7352d362b.jpg",
+        "https://telegra.ph/file/3422818ddb525f1c2a318.jpg",
+        "https://telegra.ph/file/1be2d3a7b820ec75c0b51.jpg",
+        "https://telegra.ph/file/18513d4182d5d5f069128.jpg",
+        "https://telegra.ph/file/8b02edca83aab8a4cdddc.jpg",
+        "https://telegra.ph/file/783faae1be56182a49fb6.jpg",
+        "https://telegra.ph/file/25324de5c7cd0aee69da9.jpg",
+        "https://telegra.ph/file/e80e8c711acdb5143e48b.jpg",
+        "https://telegra.ph/file/c70214196f13798ed6520.jpg",
+        "https://telegra.ph/file/b6c804bfce17b7a36a33e.jpg",
+        "https://telegra.ph/file/14a29124d847bea3027ae.jpg",
+        "https://telegra.ph/file/fa37579cdad6ba86c4a6f.jpg",
+        "https://telegra.ph/file/65c5d479b1894efda8869.jpg",
+        "https://telegra.ph/file/33903aacb77b0f2ea9a11.jpg",
+        "https://telegra.ph/file/ef6824ecf523b2b82e54d.jpg",
+        "https://telegra.ph/file/164049f91906c296cc552.jpg"
+    ]
+};

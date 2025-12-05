@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5692,
+    "title": "[橘由宇] ハル咲くハナ",
+    "sourceUrl": "https://telegra.ph/橘由宇-ハル咲くハナ-08-31",
+    "images": [
+        "https://telegra.ph/file/769a055cceb51bcf81acf.jpg",
+        "https://telegra.ph/file/35e2676cab5e2f93a6f24.jpg",
+        "https://telegra.ph/file/024993bb1bbebbf922c02.jpg",
+        "https://telegra.ph/file/70994598a6026958ebf7d.jpg",
+        "https://telegra.ph/file/323c5116b244811a795cc.jpg",
+        "https://telegra.ph/file/dd3ee44d531f63bf7560a.jpg",
+        "https://telegra.ph/file/b30b1e3e69bca36bbb771.jpg",
+        "https://telegra.ph/file/96f6555e6aa3bb8445cf4.jpg",
+        "https://telegra.ph/file/b000fa6f52f6595c91212.jpg",
+        "https://telegra.ph/file/d537205953cce3288fa6c.jpg",
+        "https://telegra.ph/file/90c3032181b8bb5c7ef5f.jpg",
+        "https://telegra.ph/file/06cd5d487fd8a9f32a887.jpg",
+        "https://telegra.ph/file/c4f3eb40008a4a93ec668.jpg",
+        "https://telegra.ph/file/9bdfb1c7f37160d985f0a.jpg",
+        "https://telegra.ph/file/74cb401592091f9563d55.jpg",
+        "https://telegra.ph/file/c3d67afa6afd30aa5af02.jpg",
+        "https://telegra.ph/file/02269943b278abf1a4ff7.jpg",
+        "https://telegra.ph/file/9ed30f4b6cfceee400ef3.jpg",
+        "https://telegra.ph/file/2f8449a81d6fb3125c536.jpg",
+        "https://telegra.ph/file/dfa59f9d6bbe625541329.jpg",
+        "https://telegra.ph/file/0fc924945579792d759e6.jpg",
+        "https://telegra.ph/file/c49fc8fb6bdd7d3ba65f8.jpg",
+        "https://telegra.ph/file/fbfd71a6b8a82335bba37.jpg",
+        "https://telegra.ph/file/d091afad676c982f84c9e.jpg",
+        "https://telegra.ph/file/da5eac16f679ea01dd36f.jpg",
+        "https://telegra.ph/file/33eb6bf425593b9d81fa8.jpg"
+    ]
+};

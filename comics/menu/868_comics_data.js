@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 868,
+    "title": "[御歯黒溝] 私もう大人だから (COMIC LO 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/御歯黒溝-私もう大人だから-COMIC-LO-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/8be67b08fd5867ec07ac2.jpg",
+        "https://telegra.ph/file/408dc285939a05c300eda.jpg",
+        "https://telegra.ph/file/367eb34bd8ff60828d6f9.jpg",
+        "https://telegra.ph/file/64a0cd8cd3c31ac1e9075.jpg",
+        "https://telegra.ph/file/08448c7b3bb4e3b1fd3b8.jpg",
+        "https://telegra.ph/file/bf7f70b5f442dcd983ae6.jpg",
+        "https://telegra.ph/file/ca5b614aad50a75ca1f64.jpg",
+        "https://telegra.ph/file/7b1a44a37ff42ec7fa4fe.jpg",
+        "https://telegra.ph/file/389b11ba49b00363317b8.jpg",
+        "https://telegra.ph/file/2b6c92b837b9ccb793955.jpg",
+        "https://telegra.ph/file/b3be088922c51d150db81.jpg",
+        "https://telegra.ph/file/7c193dea72bea3859cbbb.jpg",
+        "https://telegra.ph/file/ba8fb455dcc88168fb57e.jpg",
+        "https://telegra.ph/file/4e453754baed1064a94df.jpg",
+        "https://telegra.ph/file/6cbd18225639df8311e15.jpg",
+        "https://telegra.ph/file/b2b3b26da48d808683455.jpg",
+        "https://telegra.ph/file/a27fb8a204a70771b9827.jpg",
+        "https://telegra.ph/file/c3d39a6cbdbaa5e6a9c6c.jpg",
+        "https://telegra.ph/file/e3d02d1137af7bf03f3db.jpg",
+        "https://telegra.ph/file/12fa4d2659642986436b2.jpg",
+        "https://telegra.ph/file/93a059e8d5b014897c6f5.jpg",
+        "https://telegra.ph/file/ad37a7f933ed49059800f.jpg",
+        "https://telegra.ph/file/f6fb2b408965571c18000.jpg",
+        "https://telegra.ph/file/617b1739177c0fd41dffb.jpg"
+    ]
+};

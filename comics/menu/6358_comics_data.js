@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6358,
+    "title": "(COMIC1☆8) [AMAYADORI+ (ハレノチアメ)]",
+    "sourceUrl": "https://telegra.ph/COMIC18-AMAYADORI-ハレノチアメ-08-31",
+    "images": [
+        "https://telegra.ph/file/95f6cb39840b383c1512e.jpg",
+        "https://telegra.ph/file/3d3f354149abae605909e.jpg",
+        "https://telegra.ph/file/3ddfa0f5356e39b8ffdad.jpg",
+        "https://telegra.ph/file/d04f7f47d66983f88b27d.jpg",
+        "https://telegra.ph/file/c40fdb18a417a7ad51585.jpg",
+        "https://telegra.ph/file/034f1e8b777f478f77ad7.jpg",
+        "https://telegra.ph/file/72047881f7d511c1130b7.jpg",
+        "https://telegra.ph/file/063d434187115cfa57e48.jpg",
+        "https://telegra.ph/file/b72ccabc3fff8ea230792.jpg",
+        "https://telegra.ph/file/757c4bdfae3b9b3fe955e.jpg",
+        "https://telegra.ph/file/4bf1eb70c66fe6b37f5e7.jpg",
+        "https://telegra.ph/file/a29790c7b561966c4b954.jpg",
+        "https://telegra.ph/file/9041a3c7c037cb91a81bf.jpg",
+        "https://telegra.ph/file/99f6054c894c529de9ea8.jpg",
+        "https://telegra.ph/file/3e42fa43fc7d2251999e0.jpg",
+        "https://telegra.ph/file/3c6dfed57907ea6b99cfc.jpg",
+        "https://telegra.ph/file/fd5197a9644c2d1744338.jpg",
+        "https://telegra.ph/file/c30bd449b85d3c9f721cb.jpg",
+        "https://telegra.ph/file/004857115a21b18fdefa2.jpg",
+        "https://telegra.ph/file/2dabf1c2bfaa062ca2bbe.jpg",
+        "https://telegra.ph/file/8febdafac1e273096099f.jpg",
+        "https://telegra.ph/file/d79009a0e41eb0a45bb4d.jpg",
+        "https://telegra.ph/file/de05f762f2bbd32eca3b5.jpg",
+        "https://telegra.ph/file/c80a7e23289898835bb41.jpg",
+        "https://telegra.ph/file/27fc77b957197655da707.jpg",
+        "https://telegra.ph/file/ed40483001cd048369f10.jpg"
+    ]
+};

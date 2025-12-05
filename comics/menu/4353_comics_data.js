@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4353,
+    "title": "[東磨樹] 歪にあるがまま (COMIC BAVEL 2018年5月号)",
+    "sourceUrl": "https://telegra.ph/東磨樹-歪にあるがまま-COMIC-BAVEL-2018年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c1dc3d100adf751a6a831.jpg",
+        "https://telegra.ph/file/2b21cb39bccaf8ac75e19.jpg",
+        "https://telegra.ph/file/b55e15f24b74c71e02656.jpg",
+        "https://telegra.ph/file/221f7280b7d66ac5c8500.jpg",
+        "https://telegra.ph/file/4eae9572a8b5cb5857058.jpg",
+        "https://telegra.ph/file/ddcc7c91874eb5ce50ba2.jpg",
+        "https://telegra.ph/file/cc1327a50d6d36279ece8.jpg",
+        "https://telegra.ph/file/b68343721de8b4e07c986.jpg",
+        "https://telegra.ph/file/cb783b0dfc17ab6b8f6b5.jpg",
+        "https://telegra.ph/file/2422185fa01f00cc497a6.jpg",
+        "https://telegra.ph/file/0c1c03ad4ce14928de772.jpg",
+        "https://telegra.ph/file/e88090d8bf4ce9e42e2f1.jpg",
+        "https://telegra.ph/file/c836c63551c6ad2922e3d.jpg",
+        "https://telegra.ph/file/80f170778a5bc20b2cdd9.jpg",
+        "https://telegra.ph/file/a0239ef177173ac2ae49e.jpg",
+        "https://telegra.ph/file/9e6804df638bd2275c506.jpg",
+        "https://telegra.ph/file/fc6fcc041f1874a1a1404.jpg",
+        "https://telegra.ph/file/7e4418a5fcc2d4f939a40.jpg",
+        "https://telegra.ph/file/58a6bd4f545d64a693ec3.jpg",
+        "https://telegra.ph/file/de682cb6552e8daddd96a.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/7d2442dca710ab10252af.png"
+    ]
+};

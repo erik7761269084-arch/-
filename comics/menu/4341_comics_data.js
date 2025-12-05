@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4341,
+    "title": "[AXZ (九手児)] さ〇か先生オカ釣りさお日誌 酔った勢いでチャラ男と部室乱交編 (放課後ていぼう日誌)",
+    "sourceUrl": "https://telegra.ph/AXZ-九手児-さか先生オカ釣りさお日誌-酔った勢いでチャラ男と部室乱交編-放課後ていぼう日誌-08-31",
+    "images": [
+        "https://telegra.ph/file/284ba02f2987ba6cc327b.jpg",
+        "https://telegra.ph/file/1466b84d4e24b6907c3f9.jpg",
+        "https://telegra.ph/file/68b94897bb1ec77e13e90.jpg",
+        "https://telegra.ph/file/7c27e2993ce5ff60a24d2.jpg",
+        "https://telegra.ph/file/642d1ee13d82f0f0d3b23.jpg",
+        "https://telegra.ph/file/df74ed41abe2692794119.jpg",
+        "https://telegra.ph/file/cec80380cb8dbb18fc93e.jpg",
+        "https://telegra.ph/file/11c9088498ec9efdcab3b.jpg",
+        "https://telegra.ph/file/bcb4125e077d56210f58c.jpg",
+        "https://telegra.ph/file/0c2caaf65e9940d05dcb6.jpg",
+        "https://telegra.ph/file/641d81e5aa169c3cfe6f0.jpg",
+        "https://telegra.ph/file/16cfebf87c82e2006651d.jpg",
+        "https://telegra.ph/file/243ea6993058008efde67.jpg",
+        "https://telegra.ph/file/c3e9e9ac084039627949e.jpg",
+        "https://telegra.ph/file/4933f8d5a787309a77a83.jpg",
+        "https://telegra.ph/file/513f3d86e02c5414ca2b7.jpg",
+        "https://telegra.ph/file/81c0e4f702d6b686b0ea4.jpg",
+        "https://telegra.ph/file/29e3e6658968bd42ce5bc.jpg",
+        "https://telegra.ph/file/75ec0b2fd6958e1c02b02.jpg",
+        "https://telegra.ph/file/7869afd6ee77252e08342.jpg",
+        "https://telegra.ph/file/41e03f191d79328009cbb.jpg",
+        "https://telegra.ph/file/7f16bdb656c7dd8aa52a7.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6945,
+    "title": "使徒の雌",
+    "sourceUrl": "https://telegra.ph/使徒の雌-08-31",
+    "images": [
+        "https://telegra.ph/file/7ef1620d7e42b56cad26d.jpg",
+        "https://telegra.ph/file/b2b91480832d520558e6d.jpg",
+        "https://telegra.ph/file/9723aa0b1f9196ba68e36.jpg",
+        "https://telegra.ph/file/e2d6b65c15e2dd3a580b7.jpg",
+        "https://telegra.ph/file/806011912c5971686050b.jpg",
+        "https://telegra.ph/file/9ffc4ab8d47c595d7a64e.jpg",
+        "https://telegra.ph/file/52ad4112fa974c85760a1.jpg",
+        "https://telegra.ph/file/672e66dd1a2720903f2dd.jpg",
+        "https://telegra.ph/file/2ac06952eca3269de211f.jpg",
+        "https://telegra.ph/file/527d8fa602bc29e86a036.jpg",
+        "https://telegra.ph/file/d699e33fe2bf4b6dd4ab7.jpg",
+        "https://telegra.ph/file/106ad5dbc485642c4b076.jpg",
+        "https://telegra.ph/file/4d9bf7fdbecc688fe5967.jpg",
+        "https://telegra.ph/file/04abbee1f2caea9fb55c1.jpg",
+        "https://telegra.ph/file/605c2d2ef2ef4be9869bd.jpg",
+        "https://telegra.ph/file/a8f3ef0ff450dc0c4bc6c.jpg",
+        "https://telegra.ph/file/fbb39539bbae3f851c15f.jpg",
+        "https://telegra.ph/file/5d95214d2fb19f90c834a.jpg",
+        "https://telegra.ph/file/598754c73010307de0a0d.jpg",
+        "https://telegra.ph/file/392a677d7a280efd98b15.jpg",
+        "https://telegra.ph/file/e96f3c7546f7d90dd85f7.jpg",
+        "https://telegra.ph/file/8423de03e5473442d1675.jpg",
+        "https://telegra.ph/file/6126f33f041693bc449b7.jpg",
+        "https://telegra.ph/file/eea17be502a91f5452328.jpg"
+    ]
+};

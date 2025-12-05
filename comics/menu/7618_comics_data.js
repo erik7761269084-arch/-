@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7618,
+    "title": "異文化ヲタ活はじめました",
+    "sourceUrl": "https://telegra.ph/異文化ヲタ活はじめました-08-31",
+    "images": [
+        "https://telegra.ph/file/af0ecafad1802ee5abc89.png",
+        "https://telegra.ph/file/5d08778ed4c670e6efee4.png",
+        "https://telegra.ph/file/8ea5aa8406dfb3e064c41.png",
+        "https://telegra.ph/file/ac018ccac5c9691e3058c.png",
+        "https://telegra.ph/file/c7ecbaad92ce6162e001b.png",
+        "https://telegra.ph/file/4eeb54880b49439a81ee1.png",
+        "https://telegra.ph/file/28803266bc7182c50f60c.png",
+        "https://telegra.ph/file/588bfb884579f14d638c1.png",
+        "https://telegra.ph/file/42b5d7363c4206620b666.png",
+        "https://telegra.ph/file/75571db915d5d4839bcbb.png",
+        "https://telegra.ph/file/2881f0e161cb4f8333118.png",
+        "https://telegra.ph/file/6b0f8b6ca06267bc79195.png",
+        "https://telegra.ph/file/67a789001683cb19021d5.png",
+        "https://telegra.ph/file/6092959ade9374ec6cc01.png",
+        "https://telegra.ph/file/73eef5fdbd8898786981f.png",
+        "https://telegra.ph/file/21b8f5e66b6e3a0a8159b.png",
+        "https://telegra.ph/file/0953b33956178aa02e13d.png",
+        "https://telegra.ph/file/0e5319728b03500c30b84.png",
+        "https://telegra.ph/file/00db436cfb87679a173e3.png",
+        "https://telegra.ph/file/18abc8c44830a79577a55.png",
+        "https://telegra.ph/file/c2654082ce7d8ecb8ae53.png",
+        "https://telegra.ph/file/9221d0cebb95f3a9251c1.jpg",
+        "https://telegra.ph/file/71e3df55e56437056b6b2.png",
+        "https://telegra.ph/file/9ccb37a125bdbf7565cd9.png"
+    ]
+};

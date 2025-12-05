@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6036,
+    "title": "[大嘘] カノトモあんよ",
+    "sourceUrl": "https://telegra.ph/大嘘-カノトモあんよ-08-31",
+    "images": [
+        "https://telegra.ph/file/aa9a1ef606eac82228c15.jpg",
+        "https://telegra.ph/file/763dd3c9f3c2a376cdb39.jpg",
+        "https://telegra.ph/file/2bca1a369e642c61544a4.jpg",
+        "https://telegra.ph/file/e59a3df58a133686f07e3.jpg",
+        "https://telegra.ph/file/32201176f90799107a3cc.jpg",
+        "https://telegra.ph/file/9c42afac449fe70601a74.jpg",
+        "https://telegra.ph/file/b72a4840261a055bfcf7a.jpg",
+        "https://telegra.ph/file/fdad76c4e6b23e34857bb.jpg",
+        "https://telegra.ph/file/2032b48099a2a6a82afcb.jpg",
+        "https://telegra.ph/file/1f84c9fb339850dead797.jpg",
+        "https://telegra.ph/file/67fef5f1243c523633265.jpg",
+        "https://telegra.ph/file/4e0960ce3999650eb7084.jpg",
+        "https://telegra.ph/file/ffd8d577add3b72d96112.jpg",
+        "https://telegra.ph/file/0a5717cef033a9ff6ee2a.jpg",
+        "https://telegra.ph/file/856cffaaa3c9305b1eef0.jpg",
+        "https://telegra.ph/file/4fa5709a4a190d9f8a950.jpg",
+        "https://telegra.ph/file/5d1d3bbee7e8caafb7c11.jpg",
+        "https://telegra.ph/file/f0fe09fd46064a4e27d07.jpg",
+        "https://telegra.ph/file/c638332f170960fd12252.jpg",
+        "https://telegra.ph/file/d03015975c1827d86c05f.jpg",
+        "https://telegra.ph/file/b4faa11e943f9670e1f10.jpg",
+        "https://telegra.ph/file/2b36d29b7dc6c2aa4538d.jpg",
+        "https://telegra.ph/file/5257729aa05e405b1a5a3.jpg"
+    ]
+};

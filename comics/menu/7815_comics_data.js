@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7815,
+    "title": "5○1 Maiden Flight (ストライクウィッチーズ)",
+    "sourceUrl": "https://telegra.ph/51-Maiden-Flight-ストライクウィッチーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/5e197407828a8132135e5.png",
+        "https://telegra.ph/file/f197e70f743c0f8c6614c.png",
+        "https://telegra.ph/file/e1bc7890711a1c60359d2.png",
+        "https://telegra.ph/file/313d585a6763fc74e0b1d.png",
+        "https://telegra.ph/file/665adc4dc79f725cab6a4.png",
+        "https://telegra.ph/file/b095d6d70adfc84be74ae.png",
+        "https://telegra.ph/file/f9adca3700688880b0aa3.png",
+        "https://telegra.ph/file/085b887e35ae6018ad3d3.png",
+        "https://telegra.ph/file/dace498a5f25246cee602.png",
+        "https://telegra.ph/file/9770cb18dc6b3c0c65172.png",
+        "https://telegra.ph/file/2fafb2a5b3dabb9ff49ae.png",
+        "https://telegra.ph/file/419dc12d89ff7279f643b.png",
+        "https://telegra.ph/file/b450737146157949d5162.png",
+        "https://telegra.ph/file/91ce6e3921d2be7b93b13.png",
+        "https://telegra.ph/file/dc1a0071c45e416311175.png",
+        "https://telegra.ph/file/02959dab25353178a7d9a.png",
+        "https://telegra.ph/file/6b5b9876d42cfa38709d2.png",
+        "https://telegra.ph/file/1ec71861b9408fa10e41f.png",
+        "https://telegra.ph/file/3c352c53a60009c8ef516.png",
+        "https://telegra.ph/file/a121716ea7b14b6dc2246.png",
+        "https://telegra.ph/file/f735ebf6434882df3fe0f.png",
+        "https://telegra.ph/file/939f26da6e81c2fc4923e.png",
+        "https://telegra.ph/file/e4a5e66733d63d89d16f6.png",
+        "https://telegra.ph/file/35591408dad93bb4fda89.png",
+        "https://telegra.ph/file/e2a657b8c7cdaa5a03615.png",
+        "https://telegra.ph/file/32a89a74ee9093e5dc827.png"
+    ]
+};

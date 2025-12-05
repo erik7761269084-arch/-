@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1635,
+    "title": "[ヒツジ企画 (むねしろ)] 乳侍 -チチサムライ‐ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ヒツジ企画-むねしろ-乳侍--チチサムライ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/572e8f763ebcfd9af6d3c.jpg",
+        "https://telegra.ph/file/c9b4d5cbf38d542eb3fdf.jpg",
+        "https://telegra.ph/file/dfe50b40f149762b4cacb.jpg",
+        "https://telegra.ph/file/68ab942cf9825e6c60531.jpg",
+        "https://telegra.ph/file/dfb1ab66b77ade3c571d8.jpg",
+        "https://telegra.ph/file/2dea01d40312f1617297e.jpg",
+        "https://telegra.ph/file/a2c47ddec2367ec91142a.jpg",
+        "https://telegra.ph/file/2393abaaabe8bb30ef549.jpg",
+        "https://telegra.ph/file/cea1e205fa488994df685.jpg",
+        "https://telegra.ph/file/5844910264d3cf5daea3d.jpg",
+        "https://telegra.ph/file/e6fb4940ce9c3d0882667.jpg",
+        "https://telegra.ph/file/9a6a19d13b9461e387065.jpg",
+        "https://telegra.ph/file/b6f5e9af9ea795efaf137.jpg",
+        "https://telegra.ph/file/42c058464ac8231b26504.jpg",
+        "https://telegra.ph/file/1ca5e7fda4d4719e57b86.jpg",
+        "https://telegra.ph/file/32ffcd91b77be8d149a31.jpg",
+        "https://telegra.ph/file/760097d66e763ef86f28b.jpg",
+        "https://telegra.ph/file/08975ef48971646861bd3.jpg",
+        "https://telegra.ph/file/6177f29359f83dd048372.jpg",
+        "https://telegra.ph/file/b626f8eaec14d08a8c503.jpg",
+        "https://telegra.ph/file/38104bdd4b580d8a8a5ad.jpg",
+        "https://telegra.ph/file/f585da7dbc2fcdb9a4574.jpg",
+        "https://telegra.ph/file/40543dd6e8f33fc94d960.jpg"
+    ]
+};

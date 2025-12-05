@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7541,
+    "title": "陰日向",
+    "sourceUrl": "https://telegra.ph/陰日向-08-31",
+    "images": [
+        "https://telegra.ph/file/92588e85c153927e97397.jpg",
+        "https://telegra.ph/file/f0d94e046a806969f6b04.jpg",
+        "https://telegra.ph/file/b547c8d19c5f2151969f6.jpg",
+        "https://telegra.ph/file/359ca668b78e4765bc48e.jpg",
+        "https://telegra.ph/file/726b3772c8eb9f8fca96d.jpg",
+        "https://telegra.ph/file/51efa70e8aa1c5606fbaf.jpg",
+        "https://telegra.ph/file/920ea528230bbc3caa70f.jpg",
+        "https://telegra.ph/file/2a66330e7d129cf86a285.jpg",
+        "https://telegra.ph/file/f6497ed6fc048c88dceca.jpg",
+        "https://telegra.ph/file/cafaccee31a9d0e6897a0.jpg",
+        "https://telegra.ph/file/2f44ce4cd7b6a1e0018ad.jpg",
+        "https://telegra.ph/file/e39512464dadcebbb1c4e.jpg",
+        "https://telegra.ph/file/284c174ac27de0357f1a6.jpg",
+        "https://telegra.ph/file/c7ef054f2e6f93bb80907.jpg",
+        "https://telegra.ph/file/1f990bb5b3e1d9faa6be8.jpg",
+        "https://telegra.ph/file/adf6a1dad6a51cd945a6c.jpg",
+        "https://telegra.ph/file/4aa342ad2dc1d56e6f7e2.jpg",
+        "https://telegra.ph/file/f7484d0f9218370633e06.jpg",
+        "https://telegra.ph/file/6cb7df978a81d9ea695c4.jpg",
+        "https://telegra.ph/file/c05ebf785fa5b0509bea0.jpg",
+        "https://telegra.ph/file/5b9436a41dfc6c0fd8048.jpg",
+        "https://telegra.ph/file/0131a2d9f0462a5ebf6d8.png",
+        "https://telegra.ph/file/e2b5e2ad4220946b336e4.jpg"
+    ]
+};

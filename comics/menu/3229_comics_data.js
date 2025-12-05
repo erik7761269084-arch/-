@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3229,
+    "title": "[ビルドテツ (二宮仁巳)] 矢矧もグラーフも正妻 前編 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/ビルドテツ-二宮仁巳-矢矧もグラーフも正妻-前編-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/e4539bac99bf3871ca9ef.jpg",
+        "https://telegra.ph/file/2566b02b15907cd1e96d6.jpg",
+        "https://telegra.ph/file/17cdfa6cc9f89c2789f0a.jpg",
+        "https://telegra.ph/file/8cd03e85cac09c4b336d6.jpg",
+        "https://telegra.ph/file/31761b106f8328bb00473.jpg",
+        "https://telegra.ph/file/4259a84e49dec53c030ec.jpg",
+        "https://telegra.ph/file/3134f95be181f55006a18.jpg",
+        "https://telegra.ph/file/73a3a7f47cfaf7428f80a.jpg",
+        "https://telegra.ph/file/64dea17fb2914a05b7607.jpg",
+        "https://telegra.ph/file/81249f4142b007fba02a6.jpg",
+        "https://telegra.ph/file/1c060c066884652244001.jpg",
+        "https://telegra.ph/file/d4a8784adc5da62c09e66.jpg",
+        "https://telegra.ph/file/aa738e1aa0a3572c4d5dd.jpg",
+        "https://telegra.ph/file/13f938e197550f340c955.jpg",
+        "https://telegra.ph/file/12cafc273ce69e9538a4f.jpg",
+        "https://telegra.ph/file/d6407475194d89f5d1454.jpg",
+        "https://telegra.ph/file/a578055f9a1e2ca70e5b0.jpg",
+        "https://telegra.ph/file/bd5367e1ce3d1b79b9f06.jpg",
+        "https://telegra.ph/file/239daece2897b213cfe1e.jpg",
+        "https://telegra.ph/file/70ff7c1c6299541f604cc.jpg",
+        "https://telegra.ph/file/478d13191874ef4ddef6a.jpg",
+        "https://telegra.ph/file/4a6a59552a688f0dd8a0f.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/cc7975790e2be5b5b863e.jpg",
+        "https://telegra.ph/file/e6ac3d89fe4ba71eb0d1e.jpg"
+    ]
+};

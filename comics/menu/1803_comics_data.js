@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1803,
+    "title": "[たまび] ベストカップルの条件 (COMIC アンスリウム 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/たまび-ベストカップルの条件-COMIC-アンスリウム-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c9823391f2478c95c5c5a.jpg",
+        "https://telegra.ph/file/25498cd53fb1e17ba348c.png",
+        "https://telegra.ph/file/f3432871191ce19a55c63.png",
+        "https://telegra.ph/file/d813ea36eb9a5fbe6e3ff.jpg",
+        "https://telegra.ph/file/00d4494278cf63b99cd08.jpg",
+        "https://telegra.ph/file/b19776382d1b16d72cb7b.png",
+        "https://telegra.ph/file/49300281c88986e3750ab.png",
+        "https://telegra.ph/file/46eee6d44eaaf000902d5.jpg",
+        "https://telegra.ph/file/c7df432b5e07c9dfa56a7.jpg",
+        "https://telegra.ph/file/4b5b45a364e1660180d85.jpg",
+        "https://telegra.ph/file/87fa7bdff372fb192bbff.jpg",
+        "https://telegra.ph/file/2eef3b2e1fd6620aeb5dc.jpg",
+        "https://telegra.ph/file/585b06b268bd5b72dab53.jpg",
+        "https://telegra.ph/file/fa1429133321b3c0768c7.png",
+        "https://telegra.ph/file/80443179d19bc9a115321.jpg",
+        "https://telegra.ph/file/b1d1726e5fe4b8b44f413.jpg",
+        "https://telegra.ph/file/5cab85dcfbdc554e0fc46.jpg",
+        "https://telegra.ph/file/99ee57fa36e540c417c81.jpg",
+        "https://telegra.ph/file/380a34050ccdb820a9c0f.jpg",
+        "https://telegra.ph/file/6c9b57b58f2fb94b93486.jpg",
+        "https://telegra.ph/file/e5415173bb6000a640fd0.jpg",
+        "https://telegra.ph/file/838040463296f40372754.jpg",
+        "https://telegra.ph/file/6a8ff75ec1f70808d8373.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7194,
+    "title": "ヌードデッサン",
+    "sourceUrl": "https://telegra.ph/ヌードデッサン-08-31",
+    "images": [
+        "https://telegra.ph/file/d208bf2e9eb3febee355b.jpg",
+        "https://telegra.ph/file/f138f242d576701ea18ce.jpg",
+        "https://telegra.ph/file/845abe1f237a5283835c0.jpg",
+        "https://telegra.ph/file/984b2d5a87a25c7772e01.jpg",
+        "https://telegra.ph/file/04d598606ac46db686ce1.jpg",
+        "https://telegra.ph/file/f20289797e23ee678235a.jpg",
+        "https://telegra.ph/file/e90a215087240e67f0a1b.jpg",
+        "https://telegra.ph/file/4c23fd16cc0e1d894ce9d.jpg",
+        "https://telegra.ph/file/290a3cad6efbca7fe358c.jpg",
+        "https://telegra.ph/file/f79385ca79c61bfdf51a8.jpg",
+        "https://telegra.ph/file/3745386c5bfac2456d4e7.jpg",
+        "https://telegra.ph/file/fc218522cdcbff0b0b39a.jpg",
+        "https://telegra.ph/file/af2cb4b614bde47282bfb.jpg",
+        "https://telegra.ph/file/c4f63f126be82dc0356bc.jpg",
+        "https://telegra.ph/file/40ed6db1fa801e8cd9f07.jpg",
+        "https://telegra.ph/file/46d523387477c2de00929.jpg",
+        "https://telegra.ph/file/464179fd71dff6d06c09e.jpg",
+        "https://telegra.ph/file/4f0a39eda59dfa35e0715.jpg",
+        "https://telegra.ph/file/8f303bd72fdb2e513fda4.jpg",
+        "https://telegra.ph/file/daa55f01dffd59bfc8b20.jpg",
+        "https://telegra.ph/file/b2d03eff0e4e4d710c665.jpg",
+        "https://telegra.ph/file/f2b15ca278d69418d5ac5.jpg",
+        "https://telegra.ph/file/fc351f163ccb6b3bcd4ff.jpg",
+        "https://telegra.ph/file/cedb8331b1564105c5ca2.jpg",
+        "https://telegra.ph/file/477666bb34925593cc49d.jpg"
+    ]
+};

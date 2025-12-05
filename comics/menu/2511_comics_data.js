@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2511,
+    "title": "[砂漠] 真夜中の夜子さん「夜子は何されちゃうのかしら」 (COMIC LO 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/砂漠-真夜中の夜子さん夜子は何されちゃうのかしら-COMIC-LO-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/9282d12ee93ac169e2f7a.jpg",
+        "https://telegra.ph/file/755616f647dea319d059e.jpg",
+        "https://telegra.ph/file/2eba8e4ea14a3273faad2.jpg",
+        "https://telegra.ph/file/e8531d3d9b24b5d829740.jpg",
+        "https://telegra.ph/file/9b559e0648aed182e0800.jpg",
+        "https://telegra.ph/file/811a8154c69a4712bc0e4.jpg",
+        "https://telegra.ph/file/6d132caaa5002e667ffd3.jpg",
+        "https://telegra.ph/file/5fe26c9e15c7a5aa0d73a.jpg",
+        "https://telegra.ph/file/8e159b002a59270e3e749.jpg",
+        "https://telegra.ph/file/8ca2d2b3ee69e2dbf15d6.jpg",
+        "https://telegra.ph/file/7d94bf9c7dd27efd19aca.jpg",
+        "https://telegra.ph/file/9428e13967c89e0858a4e.jpg",
+        "https://telegra.ph/file/5c4c819a429cb35d71aa9.jpg",
+        "https://telegra.ph/file/07013505cd270492d1094.jpg",
+        "https://telegra.ph/file/30e71c09cf39a4512593a.jpg",
+        "https://telegra.ph/file/1f2cd38241f0eb5760080.jpg",
+        "https://telegra.ph/file/c7329ef6439620a9b0d5b.jpg",
+        "https://telegra.ph/file/c81cd8a33db496a3c1c97.jpg",
+        "https://telegra.ph/file/e0d65551ffa9eba20139d.jpg",
+        "https://telegra.ph/file/3ba9eb8b0916dfcd1b6f2.jpg",
+        "https://telegra.ph/file/05885c0d606aac2cb8342.jpg",
+        "https://telegra.ph/file/975f23a5e05f2ecf899e4.jpg",
+        "https://telegra.ph/file/d2722e1b68aff604b53fb.jpg",
+        "https://telegra.ph/file/dbb04b0744fa867561fa0.jpg",
+        "https://telegra.ph/file/319a63741917e7877d3ad.jpg",
+        "https://telegra.ph/file/bb3e3e313119a7828f077.jpg"
+    ]
+};

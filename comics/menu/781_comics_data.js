@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 781,
+    "title": "[シャルロット・ココ (ゆきやなぎ)] ゆきやなぎの本35 午後は退屈な久美子 Another",
+    "sourceUrl": "https://telegra.ph/シャルロットココ-ゆきやなぎ-ゆきやなぎの本35-午後は退屈な久美子-Another-08-31",
+    "images": [
+        "https://telegra.ph/file/c6224c1d486a2d581a559.jpg",
+        "https://telegra.ph/file/68ac8df090e4b6400eba9.jpg",
+        "https://telegra.ph/file/9f6c6820797109efd5bec.jpg",
+        "https://telegra.ph/file/93b828c7af890e08bd0b0.jpg",
+        "https://telegra.ph/file/d3dd275d76fa7ea5cae1c.jpg",
+        "https://telegra.ph/file/e9fb05a54079e5012aa96.jpg",
+        "https://telegra.ph/file/6d8c5b06d128d33cec2a5.jpg",
+        "https://telegra.ph/file/38b58a79dca1b9194f411.jpg",
+        "https://telegra.ph/file/128750ebd8dc975034e6e.jpg",
+        "https://telegra.ph/file/e9d9d03e035c62aa765b9.jpg",
+        "https://telegra.ph/file/2068f9a6a1db046cdf691.jpg",
+        "https://telegra.ph/file/97e020eaef9714ff56a49.jpg",
+        "https://telegra.ph/file/af8784fe6b18523227400.jpg",
+        "https://telegra.ph/file/9923c37980cc3c4d5f2f2.jpg",
+        "https://telegra.ph/file/20191438cd6257608c47c.jpg",
+        "https://telegra.ph/file/99a036224a38efddfcfb7.jpg",
+        "https://telegra.ph/file/fdac08129e1ad032a9098.jpg",
+        "https://telegra.ph/file/18d713d12d65341835b9c.jpg",
+        "https://telegra.ph/file/dd2825fc9c30af39b58e3.jpg",
+        "https://telegra.ph/file/eb21963f4ff2b5b269b54.jpg",
+        "https://telegra.ph/file/a5ee84921c892c5f70e7c.jpg",
+        "https://telegra.ph/file/5753f21dfb42fe6cf8be8.jpg",
+        "https://telegra.ph/file/3e02ef57b6ad12fdb46ab.jpg",
+        "https://telegra.ph/file/768dfdbbe82262d8b0c9c.jpg"
+    ]
+};

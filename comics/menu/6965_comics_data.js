@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6965,
+    "title": "メリー子づくり！",
+    "sourceUrl": "https://telegra.ph/メリー子づくり-08-31",
+    "images": [
+        "https://telegra.ph/file/5e7bdbb050975354b4b89.jpg",
+        "https://telegra.ph/file/2f6550b9a02d54bb72ef8.jpg",
+        "https://telegra.ph/file/9398d7f09c780556e7270.jpg",
+        "https://telegra.ph/file/90e244bd0bf088236c8ed.jpg",
+        "https://telegra.ph/file/70d18950bf8f9b00ed0f4.jpg",
+        "https://telegra.ph/file/77bd87be0d8e01f063a68.jpg",
+        "https://telegra.ph/file/d03132d934e75840268e7.jpg",
+        "https://telegra.ph/file/772f84d1c300c83ca0b92.jpg",
+        "https://telegra.ph/file/cd100455fb9143be45fbb.jpg",
+        "https://telegra.ph/file/844d24dbd9ba97eaa589d.jpg",
+        "https://telegra.ph/file/679b5c611dd40e8b4ec3d.jpg",
+        "https://telegra.ph/file/062a13ac37f20cc96fa67.jpg",
+        "https://telegra.ph/file/4a896e8c738895b66ad3f.jpg",
+        "https://telegra.ph/file/d75b4214ea64a8ce14662.jpg",
+        "https://telegra.ph/file/9294fb412242b1fc317bf.jpg",
+        "https://telegra.ph/file/17d7c845dd97105187729.jpg",
+        "https://telegra.ph/file/b7db2250047a88a2228c0.jpg",
+        "https://telegra.ph/file/ad18b12a3ae2578712fcc.jpg",
+        "https://telegra.ph/file/1abcc13ace43a8ee82ed0.jpg",
+        "https://telegra.ph/file/8ad3193bcfbafe0280720.jpg",
+        "https://telegra.ph/file/3aaec2fe80d3a79836a58.jpg",
+        "https://telegra.ph/file/b660b1c04ceba08d7ba07.jpg",
+        "https://telegra.ph/file/86f70936acd7de27a6af8.jpg",
+        "https://telegra.ph/file/d6b8a0e54e06b7910ff3b.jpg"
+    ]
+};

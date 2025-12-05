@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5172,
+    "title": "[紺菓] 素直なキモチ♥ (COMIC BAVEL 2022年5月号) [MJK-22-Z2753]",
+    "sourceUrl": "https://telegra.ph/紺菓-素直なキモチ-COMIC-BAVEL-2022年5月号-MJK-22-Z2753-08-31-2",
+    "images": [
+        "https://telegra.ph/file/5b425e93772a47b2b5f88.png",
+        "https://telegra.ph/file/fec71ae0fa0681ea4f49a.png",
+        "https://telegra.ph/file/8a63e3ef4d91c5fb3ab6b.png",
+        "https://telegra.ph/file/39069e86bbb7c040f5e6b.png",
+        "https://telegra.ph/file/e13dcdcd2b30273972976.png",
+        "https://telegra.ph/file/0227ba20bc1ce4e4f6d3c.png",
+        "https://telegra.ph/file/d756d99f7172c5a7a8866.png",
+        "https://telegra.ph/file/a7da4a9885d501a1205f5.png",
+        "https://telegra.ph/file/270255e72a4c52ae5a9ad.png",
+        "https://telegra.ph/file/4f41201341577eed5f0aa.png",
+        "https://telegra.ph/file/3f12a097558fc31990ae6.png",
+        "https://telegra.ph/file/3afb0356b9ba915344814.png",
+        "https://telegra.ph/file/ea9a51bac9372df8a4d23.png",
+        "https://telegra.ph/file/e90eb930ab376365ff526.png",
+        "https://telegra.ph/file/67a8a02003f8e07b446a8.png",
+        "https://telegra.ph/file/abe57db0b5c420538dd3f.png",
+        "https://telegra.ph/file/fb383e61dffacf07b0a03.png",
+        "https://telegra.ph/file/4ebef87690326c7789ff6.png",
+        "https://telegra.ph/file/8a1bb17cfc83f80195e39.png",
+        "https://telegra.ph/file/ab632d6eb7a174afc72fd.png",
+        "https://telegra.ph/file/9ecf5e6afe54ca2aa741f.png",
+        "https://telegra.ph/file/a6b368551ad612a489cbe.png",
+        "https://telegra.ph/file/f4c354cc41e22957d5a23.png",
+        "https://telegra.ph/file/473b0847a3fc3aa12521d.png",
+        "https://telegra.ph/file/f57223e7524e1177f93c0.png",
+        "https://telegra.ph/file/69198e5db1d175a6750f7.png"
+    ]
+};

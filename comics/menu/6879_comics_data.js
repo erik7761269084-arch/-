@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6879,
+    "title": "憩いのひととき",
+    "sourceUrl": "https://telegra.ph/憩いのひととき-08-31",
+    "images": [
+        "https://telegra.ph/file/037af8e66488929f6537e.jpg",
+        "https://telegra.ph/file/0c778d0a08c50f892ac21.jpg",
+        "https://telegra.ph/file/82a643013d7b54dd9bbaf.jpg",
+        "https://telegra.ph/file/4b575f161f1f6b0469ac7.jpg",
+        "https://telegra.ph/file/8729eed0d63f1affe8f4f.jpg",
+        "https://telegra.ph/file/70acd94427d2647d5e33d.jpg",
+        "https://telegra.ph/file/125c13bdcb1a4ee8f9a73.jpg",
+        "https://telegra.ph/file/2974380d15adc77365ac4.jpg",
+        "https://telegra.ph/file/49f11f39591b1f4794017.jpg",
+        "https://telegra.ph/file/bb7146fb567a39d1e7206.jpg",
+        "https://telegra.ph/file/e23c4b2558a2048bb75ae.jpg",
+        "https://telegra.ph/file/8a2e06ca8f283e93c7386.jpg",
+        "https://telegra.ph/file/a29bc924fb49b6f98fc2b.jpg",
+        "https://telegra.ph/file/3cc0723387eb28db2a41c.jpg",
+        "https://telegra.ph/file/76dd6f8288c6c6a83736a.jpg",
+        "https://telegra.ph/file/d2c8e8849ee7e6d3e1ca1.jpg",
+        "https://telegra.ph/file/d380a3c4dcd6d860a9fc5.jpg",
+        "https://telegra.ph/file/eb6972cf9b32f5858b4b2.jpg",
+        "https://telegra.ph/file/389722192fad9c9a1450c.jpg",
+        "https://telegra.ph/file/7350c269eb43efb895d57.jpg",
+        "https://telegra.ph/file/7802c07e881b60ec3b6df.jpg",
+        "https://telegra.ph/file/c4ef2110f40d6f3ee83ab.jpg",
+        "https://telegra.ph/file/f714414cf63e0278e7bba.jpg",
+        "https://telegra.ph/file/e6cf77da74ae1492b43fd.jpg"
+    ]
+};

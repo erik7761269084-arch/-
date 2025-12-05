@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4563,
+    "title": "[れぐでく] ケモミミの占術師 (異世快楽天 Vol.1)",
+    "sourceUrl": "https://telegra.ph/れぐでく-ケモミミの占術師-異世快楽天-Vol1-08-31",
+    "images": [
+        "https://telegra.ph/file/1360d3889df184f92528e.jpg",
+        "https://telegra.ph/file/28b12c6bd85d9b3ef945a.jpg",
+        "https://telegra.ph/file/e748506f826a0f368330c.jpg",
+        "https://telegra.ph/file/27bbb261dd8290db50f43.jpg",
+        "https://telegra.ph/file/87bea6aab71f3b1809fce.jpg",
+        "https://telegra.ph/file/1dbe7ad1e112251497738.jpg",
+        "https://telegra.ph/file/a66988d120b38db7b5033.jpg",
+        "https://telegra.ph/file/966cbf1f4d41ef8079617.jpg",
+        "https://telegra.ph/file/771df38b7c7fabc8b8746.jpg",
+        "https://telegra.ph/file/682daaea72afaa95e91d6.jpg",
+        "https://telegra.ph/file/2eda52b2fb261436f6e34.jpg",
+        "https://telegra.ph/file/974f800e1232b64f53e01.jpg",
+        "https://telegra.ph/file/19d641c19b7c55b2b9fe0.jpg",
+        "https://telegra.ph/file/9d27de29479574ad39258.jpg",
+        "https://telegra.ph/file/6a47318d84c8450ae527a.jpg",
+        "https://telegra.ph/file/910943c443dfd985e3bd3.jpg",
+        "https://telegra.ph/file/168f5324e6a7af9dae0d0.jpg",
+        "https://telegra.ph/file/e38d1d81c76d8ed44e0ad.jpg",
+        "https://telegra.ph/file/e06591f131651e1f26438.jpg",
+        "https://telegra.ph/file/c866574eb1521f41fa038.jpg",
+        "https://telegra.ph/file/2cbe33ef55fc493739544.jpg",
+        "https://telegra.ph/file/926a49456838404b16edf.jpg",
+        "https://telegra.ph/file/ff859dc4a0ee89720cea1.jpg",
+        "https://telegra.ph/file/e76947ae3ff1ba7848a8c.jpg"
+    ]
+};

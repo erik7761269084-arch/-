@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6912,
+    "title": "SEXおーばーたいむ",
+    "sourceUrl": "https://telegra.ph/SEXおーばーたいむ-08-31",
+    "images": [
+        "https://telegra.ph/file/b7d82ebc046ddcd998749.jpg",
+        "https://telegra.ph/file/9b064cc3d0fe8b6fe0525.jpg",
+        "https://telegra.ph/file/c4d1391d5fd8a6c023842.jpg",
+        "https://telegra.ph/file/978cb9a83d9c0d2620825.jpg",
+        "https://telegra.ph/file/2b7b9fcbeadb27dbf4d09.jpg",
+        "https://telegra.ph/file/c74859725680a32edc5d8.jpg",
+        "https://telegra.ph/file/202935965a89e86cde5c6.jpg",
+        "https://telegra.ph/file/29f866bad7b39c5899a33.jpg",
+        "https://telegra.ph/file/3b96d12f306cc78a1b693.jpg",
+        "https://telegra.ph/file/2b0702638bb41e74ab0cb.jpg",
+        "https://telegra.ph/file/89b2a21fd55006576ed58.jpg",
+        "https://telegra.ph/file/e3962af33bf1d50850e9e.jpg",
+        "https://telegra.ph/file/36836c78a6261705e5569.jpg",
+        "https://telegra.ph/file/d42917c4bfc200fcacbe1.jpg",
+        "https://telegra.ph/file/26ff7fd4ef63518dad452.jpg",
+        "https://telegra.ph/file/e400e0285e5b34ccaccd4.jpg",
+        "https://telegra.ph/file/bb857793a33fb71378586.jpg",
+        "https://telegra.ph/file/dbfcc8def8863afea1c8f.jpg",
+        "https://telegra.ph/file/521eb0005dccb3a38af17.jpg",
+        "https://telegra.ph/file/3823bf577c39d3b8416b7.jpg",
+        "https://telegra.ph/file/f9c698488e0a16acc6e3a.jpg",
+        "https://telegra.ph/file/1350689576e0df6b0d42a.jpg",
+        "https://telegra.ph/file/f60fbb93b84e918718b4f.jpg",
+        "https://telegra.ph/file/1ec7fba3ae3e6eb9c866c.jpg"
+    ]
+};

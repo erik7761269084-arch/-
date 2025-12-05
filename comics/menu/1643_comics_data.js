@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1643,
+    "title": "[オクモト悠太] コスってみたい！！",
+    "sourceUrl": "https://telegra.ph/オクモト悠太-コスってみたい-08-31",
+    "images": [
+        "https://telegra.ph/file/752e5e0850acef884ba0c.jpg",
+        "https://telegra.ph/file/0c8fb9e4ffd1d0b9ebd3a.jpg",
+        "https://telegra.ph/file/516bbdbd6c1ca95ebcc8a.jpg",
+        "https://telegra.ph/file/a9675858dfae4766662dc.jpg",
+        "https://telegra.ph/file/60b073c1aafda2494faad.jpg",
+        "https://telegra.ph/file/b66e2dce570706a072e58.jpg",
+        "https://telegra.ph/file/c6ebbd4f88a366f1830d1.jpg",
+        "https://telegra.ph/file/b34a2ea6aa82bb15b248a.jpg",
+        "https://telegra.ph/file/2e6420abc20039e7ad14c.jpg",
+        "https://telegra.ph/file/02728298d1385ec2bd1d1.jpg",
+        "https://telegra.ph/file/95ad36717640c9bc6731a.jpg",
+        "https://telegra.ph/file/05119fd36ffd15deb8827.jpg",
+        "https://telegra.ph/file/6d7fb932b73efc5691ae0.jpg",
+        "https://telegra.ph/file/affaa37da373881fed7a4.jpg",
+        "https://telegra.ph/file/7906727425f7c97227e18.jpg",
+        "https://telegra.ph/file/c9100aeebeb9f0046e8af.jpg",
+        "https://telegra.ph/file/d1c9a0bbbfe408aae63d8.jpg",
+        "https://telegra.ph/file/06da9bab87095b61c1b48.jpg",
+        "https://telegra.ph/file/b06b2c5206006cdf1083c.jpg",
+        "https://telegra.ph/file/2d7addff0a1c77c30b3a2.jpg",
+        "https://telegra.ph/file/1f6c7ed71c53086dc8cff.jpg",
+        "https://telegra.ph/file/a9991a7ac19668d03ebcf.jpg",
+        "https://telegra.ph/file/2cc71c7625011de2fd99b.jpg",
+        "https://telegra.ph/file/2841e1e939ee4a66eea6d.jpg"
+    ]
+};

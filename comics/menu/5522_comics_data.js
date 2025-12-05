@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5522,
+    "title": "[成宮亨] リア充女見返したったwww",
+    "sourceUrl": "https://telegra.ph/成宮亨-リア充女見返したったwww-08-31",
+    "images": [
+        "https://telegra.ph/file/08b35707fda9fdfe2d4fb.png",
+        "https://telegra.ph/file/042bc31b4c0fb663ae4b0.png",
+        "https://telegra.ph/file/20c124c6ee07bea6b7c9c.png",
+        "https://telegra.ph/file/e431fa2b0dafb63d33c38.png",
+        "https://telegra.ph/file/fa3bfba13464d7cbb9413.png",
+        "https://telegra.ph/file/e3ac23c7b63e879a31dc3.png",
+        "https://telegra.ph/file/fd99da29e5a0589fce5b2.png",
+        "https://telegra.ph/file/c5eab5d8bbb9f10dcc542.png",
+        "https://telegra.ph/file/4ed30fe3ad61ac9b5b81d.png",
+        "https://telegra.ph/file/e287875dd141c3c6b5b21.png",
+        "https://telegra.ph/file/b8cafc35ede4a7c91ecd1.png",
+        "https://telegra.ph/file/6376b20dcdd11147367dc.png",
+        "https://telegra.ph/file/4c34ecc890e5cf855ab17.png",
+        "https://telegra.ph/file/37600d7c41e8203ce8a4d.png",
+        "https://telegra.ph/file/8ac63be136f6af1b102ea.png",
+        "https://telegra.ph/file/13cd5f4afc5238da7abb1.png",
+        "https://telegra.ph/file/a92a27b0a080ab9da7f78.png",
+        "https://telegra.ph/file/37fe682a90589eea99781.png",
+        "https://telegra.ph/file/37eaf1f01f8bb3fac1958.png",
+        "https://telegra.ph/file/1543caa17d719b09f7234.png",
+        "https://telegra.ph/file/7e1c2d402217979ba8369.png",
+        "https://telegra.ph/file/ecc6769b538bf036eef64.png",
+        "https://telegra.ph/file/972cdbe66ea99d5a2ccb3.png",
+        "https://telegra.ph/file/72c52d53ae53026ada184.png"
+    ]
+};

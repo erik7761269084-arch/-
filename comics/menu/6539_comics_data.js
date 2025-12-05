@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6539,
+    "title": "エリタマ！ eri love middleage",
+    "sourceUrl": "https://telegra.ph/エリタマ-eri-love-middleage-08-31",
+    "images": [
+        "https://telegra.ph/file/78607a019dbbf36b66506.jpg",
+        "https://telegra.ph/file/a7877d18aac670043f60e.jpg",
+        "https://telegra.ph/file/c95a726957ab0005dafb5.jpg",
+        "https://telegra.ph/file/242b2ed31ab50bd63c1f2.jpg",
+        "https://telegra.ph/file/0ef3a7df8520e023ca20a.jpg",
+        "https://telegra.ph/file/4b66fa3c793931cb2a655.jpg",
+        "https://telegra.ph/file/53bfae8fbb6c8beae3b1e.jpg",
+        "https://telegra.ph/file/930a011b55936da929db4.jpg",
+        "https://telegra.ph/file/25251ade524057ee3673a.jpg",
+        "https://telegra.ph/file/48d30287fbb60bfde2929.jpg",
+        "https://telegra.ph/file/5c8e21871beb6f3a885c5.jpg",
+        "https://telegra.ph/file/e05ae3f8a4b01c423173b.jpg",
+        "https://telegra.ph/file/a5326f77ce7bb7484e6e8.jpg",
+        "https://telegra.ph/file/34bad4ad1bca25a0c3db5.jpg",
+        "https://telegra.ph/file/149913c707051bc77f11a.jpg",
+        "https://telegra.ph/file/f69b2ba82069b1234d588.jpg",
+        "https://telegra.ph/file/41c1041c6270d1fcb3da0.jpg",
+        "https://telegra.ph/file/269c904a6a82e616fe88e.jpg",
+        "https://telegra.ph/file/1fcd549461d77f3070d0f.jpg",
+        "https://telegra.ph/file/d7e36aa5400c5a23cb061.jpg",
+        "https://telegra.ph/file/b390ff060a57e6299b422.jpg",
+        "https://telegra.ph/file/ba8c3f2c46abe106544ec.jpg",
+        "https://telegra.ph/file/ab03bbf13334832b1b221.jpg"
+    ]
+};

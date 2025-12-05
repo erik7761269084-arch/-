@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 765,
+    "title": "[Q同人] 爆乳鬼娘の初エッチ (ワンピース)",
+    "sourceUrl": "https://telegra.ph/Q同人-爆乳鬼娘の初エッチ-ワンピース-08-31",
+    "images": [
+        "https://telegra.ph/file/cf6eb765b0aafa806fa07.jpg",
+        "https://telegra.ph/file/c7ebbf3b070520056de27.jpg",
+        "https://telegra.ph/file/a4c50df168e5879c6361e.jpg",
+        "https://telegra.ph/file/e800025045c31d8d2bcac.jpg",
+        "https://telegra.ph/file/4b64307a7ae6cdd8bf5f5.jpg",
+        "https://telegra.ph/file/d1815a8a696f59a273cd4.jpg",
+        "https://telegra.ph/file/08194fa7db2c5544d354e.jpg",
+        "https://telegra.ph/file/88e13956b762bec2879b6.jpg",
+        "https://telegra.ph/file/d0d60d4bdb6d2a8fccf23.jpg",
+        "https://telegra.ph/file/efd9151fdfb9673850b1e.jpg",
+        "https://telegra.ph/file/f17ce8ff71d8036fd23e3.jpg",
+        "https://telegra.ph/file/f324b61416708580d7202.jpg",
+        "https://telegra.ph/file/b053a1729a46a01555740.jpg",
+        "https://telegra.ph/file/df402b74aefb099f8222a.jpg",
+        "https://telegra.ph/file/1fbdaf778be12555d4d60.jpg",
+        "https://telegra.ph/file/0d6791552b044f7217a2b.jpg",
+        "https://telegra.ph/file/82b43efbfb89518073c8e.jpg",
+        "https://telegra.ph/file/f8ec524992bd6a31a01cd.jpg",
+        "https://telegra.ph/file/902d92ef430fa98b98f38.jpg",
+        "https://telegra.ph/file/c51dcf7130e225ab10377.jpg",
+        "https://telegra.ph/file/3427279aa36ea6e970e7e.jpg",
+        "https://telegra.ph/file/904a310b7a06a0fffb2d9.jpg",
+        "https://telegra.ph/file/d61b1cce0b2de14e5ad6b.jpg"
+    ]
+};

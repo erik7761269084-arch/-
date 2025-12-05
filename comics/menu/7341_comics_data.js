@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7341,
+    "title": "裸体芸術部",
+    "sourceUrl": "https://telegra.ph/裸体芸術部-08-31",
+    "images": [
+        "https://telegra.ph/file/374db046698d5fccdeca6.jpg",
+        "https://telegra.ph/file/b9c4d1e6230a80cc08c32.jpg",
+        "https://telegra.ph/file/b280094756b1ced16ce8e.jpg",
+        "https://telegra.ph/file/7454ee102d7054473d538.jpg",
+        "https://telegra.ph/file/bc981451f55e32ca9c8b5.jpg",
+        "https://telegra.ph/file/834c9bdc2d1acbe36d5c4.jpg",
+        "https://telegra.ph/file/973be65bc9c69d3171ad1.jpg",
+        "https://telegra.ph/file/4c4d4e38b5b10b709add4.jpg",
+        "https://telegra.ph/file/979cb29e3eb26a568ba05.jpg",
+        "https://telegra.ph/file/5f14fcdd89f81c7ce2500.jpg",
+        "https://telegra.ph/file/cd74099e0b3462944ed0c.jpg",
+        "https://telegra.ph/file/41ddabe1bfd6287c7c090.jpg",
+        "https://telegra.ph/file/36530c84be667404f3ec0.jpg",
+        "https://telegra.ph/file/6666a1d10ba8c9a1eba1e.jpg",
+        "https://telegra.ph/file/a5cc3ad1dd10f431f706e.jpg",
+        "https://telegra.ph/file/95a31bb1bd344e47a0af6.jpg",
+        "https://telegra.ph/file/2be23b829130c51a0f198.jpg",
+        "https://telegra.ph/file/8340c4c1d30805198aecf.jpg",
+        "https://telegra.ph/file/b038aa40984ae040f6593.jpg",
+        "https://telegra.ph/file/b586906c1a5ac30307ca5.jpg",
+        "https://telegra.ph/file/51e30d4e17c0923093bd2.jpg",
+        "https://telegra.ph/file/32b557948646f34b2e742.jpg",
+        "https://telegra.ph/file/2e88e5989d7a82ce6183e.jpg",
+        "https://telegra.ph/file/dcfc13aec7a2ae6b3c758.jpg"
+    ]
+};

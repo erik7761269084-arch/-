@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7180,
+    "title": "陸上部の牛倉さん",
+    "sourceUrl": "https://telegra.ph/陸上部の牛倉さん-08-31",
+    "images": [
+        "https://telegra.ph/file/ea0bb863f8cab1d676041.jpg",
+        "https://telegra.ph/file/a147c1c7ec0ff601363ef.jpg",
+        "https://telegra.ph/file/7aa504b54abdc4ba4945d.jpg",
+        "https://telegra.ph/file/1168ea050bf1b90181095.jpg",
+        "https://telegra.ph/file/0b67acc8f1d9d99157579.jpg",
+        "https://telegra.ph/file/8991212254dc7e53caf02.jpg",
+        "https://telegra.ph/file/bd95e7d8e2b09e918b17c.jpg",
+        "https://telegra.ph/file/e69d24169ab4b8e989420.jpg",
+        "https://telegra.ph/file/26a35e6c787e2cfbbe034.jpg",
+        "https://telegra.ph/file/01a73df2c541ac0125887.jpg",
+        "https://telegra.ph/file/e0a052c0e4810af8d0b20.jpg",
+        "https://telegra.ph/file/0a55ad6ed87613feea582.jpg",
+        "https://telegra.ph/file/e90c8d312ec4504f9529a.jpg",
+        "https://telegra.ph/file/d1adde457a60912ff0509.jpg",
+        "https://telegra.ph/file/cc79df0dd0c9e1f4448b6.jpg",
+        "https://telegra.ph/file/980f8e2cf4ed5216506b5.jpg",
+        "https://telegra.ph/file/388097ed0db8346f04f83.jpg",
+        "https://telegra.ph/file/4a3732f21f90ff695f883.jpg",
+        "https://telegra.ph/file/f3c5ea8fff9e89b5b9362.jpg",
+        "https://telegra.ph/file/0901100b57d64915ae6b3.jpg",
+        "https://telegra.ph/file/907f758800eb2453e4585.jpg",
+        "https://telegra.ph/file/98ac5470621e98df9abc2.jpg",
+        "https://telegra.ph/file/7a0e10f5e57c67a38ae14.jpg",
+        "https://telegra.ph/file/1c4b0e45a234ab5147cfb.jpg"
+    ]
+};

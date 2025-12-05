@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6112,
+    "title": "[ディビ] エルフ村議会公式搾精マニュアル",
+    "sourceUrl": "https://telegra.ph/ディビ-エルフ村議会公式搾精マニュアル-08-31",
+    "images": [
+        "https://telegra.ph/file/bf7380f4b97cb66fc064c.jpg",
+        "https://telegra.ph/file/ffc818c1cc813cc27e6c0.jpg",
+        "https://telegra.ph/file/8f479832fea9892cd2a53.jpg",
+        "https://telegra.ph/file/982fd273b90d55f601921.jpg",
+        "https://telegra.ph/file/1ff543d8e90f0babf58e0.jpg",
+        "https://telegra.ph/file/ff9cb5e2f43de41f92e8f.jpg",
+        "https://telegra.ph/file/9224678d9da133aefcc9f.jpg",
+        "https://telegra.ph/file/23cfd3a4e50da6631fefb.jpg",
+        "https://telegra.ph/file/a6447cffd263f5aeabd96.jpg",
+        "https://telegra.ph/file/9cf11d461c83a4c6496cc.jpg",
+        "https://telegra.ph/file/de14fd031b9216836c2b2.jpg",
+        "https://telegra.ph/file/97f7149e40cf48ce8e396.jpg",
+        "https://telegra.ph/file/3d5854b93ae1e502fbf34.jpg",
+        "https://telegra.ph/file/4608814a2b75cc52d38fb.jpg",
+        "https://telegra.ph/file/fa883209a742ebd110229.jpg",
+        "https://telegra.ph/file/626f941fd744d12744a51.jpg",
+        "https://telegra.ph/file/bdf5c0066660c07560809.jpg",
+        "https://telegra.ph/file/37bec0a0e73f3bfa4ccd6.jpg",
+        "https://telegra.ph/file/759e7e78412068942ede9.jpg",
+        "https://telegra.ph/file/c90bb154d3b4cf7d954ed.jpg",
+        "https://telegra.ph/file/a1aeaee9520ecbf766759.jpg",
+        "https://telegra.ph/file/c701ff4f60e66fd16ebae.jpg",
+        "https://telegra.ph/file/170bc751e14f2897afec0.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1768,
+    "title": "[雛原えみ] アミちゃんのひみつ (COMIC 快楽天 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/雛原えみ-アミちゃんのひみつ-COMIC-快楽天-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/9362d4015006c5553b11f.jpg",
+        "https://telegra.ph/file/c8b4cd735ea55044a64e1.jpg",
+        "https://telegra.ph/file/4383dbe071f8a6db51385.jpg",
+        "https://telegra.ph/file/6910438bbdefdb6ef9248.jpg",
+        "https://telegra.ph/file/5dd6ec71f80f703077838.jpg",
+        "https://telegra.ph/file/76513d022e6bee2292e10.jpg",
+        "https://telegra.ph/file/43ac60138f46b1b0197a7.jpg",
+        "https://telegra.ph/file/f6953fce66740eb8c9976.jpg",
+        "https://telegra.ph/file/c53b42a8aab9d07b25625.jpg",
+        "https://telegra.ph/file/59cf7478aafb0a028e550.jpg",
+        "https://telegra.ph/file/b6e772ae153112db126f7.jpg",
+        "https://telegra.ph/file/17591cd6965afd338baa4.jpg",
+        "https://telegra.ph/file/890bb743e5ca44ff5b63e.jpg",
+        "https://telegra.ph/file/8696f1981963b61639ae0.jpg",
+        "https://telegra.ph/file/a1b7b08829db3cc00625a.jpg",
+        "https://telegra.ph/file/338d942d3513058cae85f.jpg",
+        "https://telegra.ph/file/308ea2b55c84cda942052.jpg",
+        "https://telegra.ph/file/15241b5e4bbc2fe629fc7.jpg",
+        "https://telegra.ph/file/df64cd73ede46fd68825d.jpg",
+        "https://telegra.ph/file/af114928baa2e0a8799f3.jpg",
+        "https://telegra.ph/file/010bd05f8aaeb6eb6458f.jpg",
+        "https://telegra.ph/file/0ab16f60c49071901c216.jpg",
+        "https://telegra.ph/file/99496d885563bfb1dbd21.jpg",
+        "https://telegra.ph/file/d91e08f87e0e9504bdbdd.jpg",
+        "https://telegra.ph/file/5a2ea3659ab2163b36c33.jpg",
+        "https://telegra.ph/file/05c5b7adfe574923fc83d.jpg"
+    ]
+};

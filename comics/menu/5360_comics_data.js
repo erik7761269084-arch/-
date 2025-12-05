@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5360,
+    "title": "[Usacastle (うさ城まに)] ××ぱーてぃ!",
+    "sourceUrl": "https://telegra.ph/Usacastle-うさ城まに-ぱーてぃ-08-31-3",
+    "images": [
+        "https://telegra.ph/file/494bf76be7e43e3d59d35.jpg",
+        "https://telegra.ph/file/20b540d94052aad8b633a.jpg",
+        "https://telegra.ph/file/42b9e7bdfce932365710b.jpg",
+        "https://telegra.ph/file/d0b7e36c99fbe7ee2acc3.jpg",
+        "https://telegra.ph/file/1e8b3061c0713201bdc17.jpg",
+        "https://telegra.ph/file/d6d186a6768ff0abe595a.jpg",
+        "https://telegra.ph/file/c048261be997163ee4e17.jpg",
+        "https://telegra.ph/file/19d397bbcf4e28315f5d6.jpg",
+        "https://telegra.ph/file/0b026c8afcc7c26de8e34.jpg",
+        "https://telegra.ph/file/e38e87de0d9558c8b6caa.jpg",
+        "https://telegra.ph/file/ea81652ecf28e09260edf.jpg",
+        "https://telegra.ph/file/daa0a34cdbd5c71235160.jpg",
+        "https://telegra.ph/file/5f7a6b413dcf333f08a83.jpg",
+        "https://telegra.ph/file/d6ac405ea2ec6dc216629.jpg",
+        "https://telegra.ph/file/e9cda6579611792ab4717.jpg",
+        "https://telegra.ph/file/072be60792fbe64a0caed.jpg",
+        "https://telegra.ph/file/4591e1b097eae85f17d0e.jpg",
+        "https://telegra.ph/file/6f399ce486536ab661521.jpg",
+        "https://telegra.ph/file/9253fbcfb32ac61650c99.jpg",
+        "https://telegra.ph/file/6cac06c8a1982cef02995.jpg",
+        "https://telegra.ph/file/e2f09daaff2cc3fb5f1db.jpg",
+        "https://telegra.ph/file/bf051617bb8d88768cd3c.jpg",
+        "https://telegra.ph/file/8a46f29454961a54201bf.jpg",
+        "https://telegra.ph/file/37db33135f333d0ab52fa.jpg",
+        "https://telegra.ph/file/0a3044bbef14d0c36ed15.jpg",
+        "https://telegra.ph/file/d592068d436e84dd3c076.jpg"
+    ]
+};

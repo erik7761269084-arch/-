@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5633,
+    "title": "[Clover] 回春りらくぜーしょん",
+    "sourceUrl": "https://telegra.ph/Clover-回春りらくぜーしょん-08-31",
+    "images": [
+        "https://telegra.ph/file/5ec933643f102a697ed2b.jpg",
+        "https://telegra.ph/file/82a087bd0e3f76fb7a998.jpg",
+        "https://telegra.ph/file/2e383f12317f732453c59.jpg",
+        "https://telegra.ph/file/e9e5545d56e7056d6c492.jpg",
+        "https://telegra.ph/file/42618cde5cbbf3b5a938f.jpg",
+        "https://telegra.ph/file/c45b698c147f105d50cb0.jpg",
+        "https://telegra.ph/file/6640bb6e145a801bf4826.jpg",
+        "https://telegra.ph/file/1ba459144fd849f1e4a77.jpg",
+        "https://telegra.ph/file/a2c0688966720eddae85d.jpg",
+        "https://telegra.ph/file/ae8287203194aeec2592e.jpg",
+        "https://telegra.ph/file/b87fdbf1f3fbec5605fbb.jpg",
+        "https://telegra.ph/file/314899b1a4c6e26796b9a.jpg",
+        "https://telegra.ph/file/c3342b9b3e7c3d74cdc8b.jpg",
+        "https://telegra.ph/file/2d5aa492dcac8196059ca.jpg",
+        "https://telegra.ph/file/962f611472a11a77f84f8.jpg",
+        "https://telegra.ph/file/b4b97f66ebd6ffc26049d.jpg",
+        "https://telegra.ph/file/95eaba560033567ea5725.jpg",
+        "https://telegra.ph/file/55b9e9fbfa0d97516d557.jpg",
+        "https://telegra.ph/file/b91959e19cb02e584f3b4.jpg",
+        "https://telegra.ph/file/6d411fb567f0312df775f.jpg",
+        "https://telegra.ph/file/6744d8d6d5f3c6a9b935d.jpg",
+        "https://telegra.ph/file/ea27fb67a9da8b8847206.jpg",
+        "https://telegra.ph/file/b5c847063a33ec0cb8dbc.jpg",
+        "https://telegra.ph/file/13e3042a51231d3815829.jpg",
+        "https://telegra.ph/file/2cfc9440eabd5bbda217e.jpg",
+        "https://telegra.ph/file/e4db0d14982f67694f6c3.jpg"
+    ]
+};

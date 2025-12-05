@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 917,
+    "title": "[ぷにぷにのほっぺ (かわよい)] 純粋な性徒の教育方法",
+    "sourceUrl": "https://telegra.ph/ぷにぷにのほっぺ-かわよい-純粋な性徒の教育方法-08-31",
+    "images": [
+        "https://telegra.ph/file/cad14336f2572c2a1faa4.jpg",
+        "https://telegra.ph/file/44c2a53ca988bd3e772fe.jpg",
+        "https://telegra.ph/file/cb4799d1c389f120cfdc9.jpg",
+        "https://telegra.ph/file/788261d00758cdb7b6bfe.jpg",
+        "https://telegra.ph/file/60c1401559cc8ec1b5b74.jpg",
+        "https://telegra.ph/file/35b0076807f1c9f0ab45d.jpg",
+        "https://telegra.ph/file/6920f1da9d518562359a0.jpg",
+        "https://telegra.ph/file/e32214257ce20590b0109.jpg",
+        "https://telegra.ph/file/5ab51c9fadb2d9e67dafb.jpg",
+        "https://telegra.ph/file/a20bc5eda185a447234bf.jpg",
+        "https://telegra.ph/file/9da11173ce8785ba01170.jpg",
+        "https://telegra.ph/file/ae5914d6c6fae7d756525.jpg",
+        "https://telegra.ph/file/617153c761b11bb198a79.jpg",
+        "https://telegra.ph/file/48ca378f7cd69497a1850.jpg",
+        "https://telegra.ph/file/cfdd5ba0c7e213d1860b3.jpg",
+        "https://telegra.ph/file/802f476b21411824d4b74.jpg",
+        "https://telegra.ph/file/51f2b54a1ca2bf6f0ab64.jpg",
+        "https://telegra.ph/file/f08018ca08e826dd21bf0.jpg",
+        "https://telegra.ph/file/0803a43d282597c89f5c9.jpg",
+        "https://telegra.ph/file/1ddf125b91c0af87073dc.jpg",
+        "https://telegra.ph/file/83185339d2b523d65a423.jpg",
+        "https://telegra.ph/file/677871dad5cd15c053ed1.jpg",
+        "https://telegra.ph/file/7ac465aa6f0333d9873fb.jpg",
+        "https://telegra.ph/file/aab929c7ac7a1bf519139.jpg",
+        "https://telegra.ph/file/5ec7f52339a237b8bdd52.jpg",
+        "https://telegra.ph/file/cf445fff40088b2a56ca2.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1887,
+    "title": "[もふもふ苑 (空色れん)] 水結様が騎乗位で…♥",
+    "sourceUrl": "https://telegra.ph/もふもふ苑-空色れん-水結様が騎乗位で-08-31",
+    "images": [
+        "https://telegra.ph/file/9b07cd75a7ebf126822ff.jpg",
+        "https://telegra.ph/file/a4ff2feaf9e005e757274.jpg",
+        "https://telegra.ph/file/9779efc0b3235fb8c73c3.jpg",
+        "https://telegra.ph/file/665db4eddd187c354233c.jpg",
+        "https://telegra.ph/file/06a33c6abd9ff417fd737.jpg",
+        "https://telegra.ph/file/4b4aedd8b75719b2b4d4c.jpg",
+        "https://telegra.ph/file/d14a60a553a34d41511ac.jpg",
+        "https://telegra.ph/file/5f8d3b4b39c83395550b2.jpg",
+        "https://telegra.ph/file/855a1126669e3b6ae5268.jpg",
+        "https://telegra.ph/file/93f445a0fde6c8c90e387.jpg",
+        "https://telegra.ph/file/928d65e2e2f0bb1d6d9a4.jpg",
+        "https://telegra.ph/file/2b3a7e4638637b96c2462.jpg",
+        "https://telegra.ph/file/ca2ba3831bd1645c3f9cd.jpg",
+        "https://telegra.ph/file/3c8f58493ad8bcaa94645.jpg",
+        "https://telegra.ph/file/9e801b4c2317da1009bfb.jpg",
+        "https://telegra.ph/file/35218289c0ecb3fa400eb.jpg",
+        "https://telegra.ph/file/64ac5efeed17e0ed406d2.jpg",
+        "https://telegra.ph/file/6eecf20721e101a97c3cb.jpg",
+        "https://telegra.ph/file/bd4df1aede76f1d5f2231.jpg",
+        "https://telegra.ph/file/8618b94222761e2f3b679.jpg",
+        "https://telegra.ph/file/9087a2f9b7c68701a9441.jpg",
+        "https://telegra.ph/file/d93143bb369371b9e7cc7.jpg",
+        "https://telegra.ph/file/b45310a28925bc48d9f3c.jpg",
+        "https://telegra.ph/file/93056239e28ec720afa20.jpg"
+    ]
+};

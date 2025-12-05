@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2277,
+    "title": "[跳馬遊鹿] 母娘と性愛 ～夏希ちゃんと～",
+    "sourceUrl": "https://telegra.ph/跳馬遊鹿-母娘と性愛-夏希ちゃんと-08-31",
+    "images": [
+        "https://telegra.ph/file/dacc996a2189e6f1ec0f1.jpg",
+        "https://telegra.ph/file/3fa7a92d4908a54c96445.jpg",
+        "https://telegra.ph/file/58d0e1216a5330c2956f1.jpg",
+        "https://telegra.ph/file/49a1da616f760dd926325.jpg",
+        "https://telegra.ph/file/31415d61ea71cfb64dad4.jpg",
+        "https://telegra.ph/file/fc8c99332d3671c3ade03.jpg",
+        "https://telegra.ph/file/9fdc2005316e54f7021d1.jpg",
+        "https://telegra.ph/file/e78256e0740d9892d0e8b.jpg",
+        "https://telegra.ph/file/2bad34817a4885b585c43.jpg",
+        "https://telegra.ph/file/c62d3bb4bafd7cf17bc99.jpg",
+        "https://telegra.ph/file/1f1e021c8b2c4d07942eb.jpg",
+        "https://telegra.ph/file/767af09b9d5dd23a1d306.jpg",
+        "https://telegra.ph/file/db8ad0363fd6adad72950.jpg",
+        "https://telegra.ph/file/9ebbd91085bfc1800bde6.jpg",
+        "https://telegra.ph/file/8e799b1de0c9e7f439e17.jpg",
+        "https://telegra.ph/file/67bc55fa6e6ccf490e2ad.jpg",
+        "https://telegra.ph/file/cfcc6248c4d4719f64e44.jpg",
+        "https://telegra.ph/file/d8c24275f69312a2c510e.jpg",
+        "https://telegra.ph/file/27affa7cb9ab984412e9e.jpg",
+        "https://telegra.ph/file/582986f36853f4067c64c.jpg",
+        "https://telegra.ph/file/8b948690ab76043122195.jpg",
+        "https://telegra.ph/file/fe66f3cae8887ede55c2e.jpg",
+        "https://telegra.ph/file/b956291dfde2b433be227.jpg"
+    ]
+};

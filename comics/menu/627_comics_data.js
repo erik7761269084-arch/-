@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 627,
+    "title": "[いわお] マッサージを受ける織姫 といろいろ (ブリーチ)",
+    "sourceUrl": "https://telegra.ph/いわお-マッサージを受ける織姫-といろいろ-ブリーチ-08-31",
+    "images": [
+        "https://telegra.ph/file/fddeb1baef19ebc63f6da.jpg",
+        "https://telegra.ph/file/c9fed4bb6e60dc5854bef.jpg",
+        "https://telegra.ph/file/9d4cfa20113dc47ef2be1.jpg",
+        "https://telegra.ph/file/d3b93bc6ff5971db969b7.jpg",
+        "https://telegra.ph/file/68d9efdfd28711aa2c508.jpg",
+        "https://telegra.ph/file/370c415c2de71b886e0d5.jpg",
+        "https://telegra.ph/file/1c5cab5479981a6bfbb08.jpg",
+        "https://telegra.ph/file/b5d5108d0ead4d244bf94.jpg",
+        "https://telegra.ph/file/aa523a6ff83fd1002f530.jpg",
+        "https://telegra.ph/file/9a4169fda46a014e626d8.jpg",
+        "https://telegra.ph/file/d6f5215243bb6f45bc57f.jpg",
+        "https://telegra.ph/file/d21aa8fe74b991fa40484.jpg",
+        "https://telegra.ph/file/1061106a84923f1e1db29.jpg",
+        "https://telegra.ph/file/30e69b0c65c5d44210644.jpg",
+        "https://telegra.ph/file/c65388fdf8ec28c1174a4.jpg",
+        "https://telegra.ph/file/da5898b0b6281f59538e1.jpg",
+        "https://telegra.ph/file/c064f2bd293783f7a4251.jpg",
+        "https://telegra.ph/file/f6b08204990ba345ca0a4.jpg",
+        "https://telegra.ph/file/f8a2172d072e3d6cbcdfe.jpg",
+        "https://telegra.ph/file/7ce68806e8403e35e4ce3.jpg",
+        "https://telegra.ph/file/2131473465d2773ba5b81.jpg",
+        "https://telegra.ph/file/ede845179dd967374c78a.jpg",
+        "https://telegra.ph/file/0512915c4c555e4a02bfe.jpg"
+    ]
+};

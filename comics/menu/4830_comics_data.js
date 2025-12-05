@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4830,
+    "title": "(C93) [ぽっぺんはいむ (紙石神井ゆべし)] マルティナ・邪 ～ちいさなメダル援交～ (ドラゴンクエストXI)",
+    "sourceUrl": "https://telegra.ph/C93-ぽっぺんはいむ-紙石神井ゆべし-マルティナ邪-ちいさなメダル援交-ドラゴンクエストXI-08-31",
+    "images": [
+        "https://telegra.ph/file/7496a2715464e30e4a86e.jpg",
+        "https://telegra.ph/file/840ad2ae61dbe5d33c4e7.jpg",
+        "https://telegra.ph/file/93c4bb985eccf0d44294b.jpg",
+        "https://telegra.ph/file/555a3df4618ef0f123880.jpg",
+        "https://telegra.ph/file/39fcfc8dc2ce0e569be9d.jpg",
+        "https://telegra.ph/file/e971bd9258795167d4054.jpg",
+        "https://telegra.ph/file/fe08e753f8ae56087ffc1.jpg",
+        "https://telegra.ph/file/9e4a586dcc8f9bcca53e8.jpg",
+        "https://telegra.ph/file/46ee904575674ed9814da.jpg",
+        "https://telegra.ph/file/6a4e379066980d5ced487.jpg",
+        "https://telegra.ph/file/18cef4cc633e293b3b35d.jpg",
+        "https://telegra.ph/file/b97439e9d951057781bc3.jpg",
+        "https://telegra.ph/file/3662ebfe61fc04f2e3bc1.jpg",
+        "https://telegra.ph/file/a09abfca26442e364d2c7.jpg",
+        "https://telegra.ph/file/4902ab02fba1ae636f364.jpg",
+        "https://telegra.ph/file/a9018a418ff301211cf13.jpg",
+        "https://telegra.ph/file/2b1ba3bc185e4ab5531ec.jpg",
+        "https://telegra.ph/file/d70057f1ad38e2f2ae8db.jpg",
+        "https://telegra.ph/file/96a7be8613356dcae1123.jpg",
+        "https://telegra.ph/file/4795b453ce4d5693ad952.jpg",
+        "https://telegra.ph/file/e8dc93eac5d0500d610fb.jpg",
+        "https://telegra.ph/file/61ae4f69f2f0aab750413.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

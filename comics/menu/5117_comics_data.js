@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5117,
+    "title": "(C100) [みまむぃ (VALRHONA)] 【メロン限定セット】NOT FOUND (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C100-みまむぃ-VALRHONA-メロン限定セットNOT-FOUND-艦隊これくしょん--艦これ-08-31-4",
+    "images": [
+        "https://telegra.ph/file/57133608189265c70b05e.jpg",
+        "https://telegra.ph/file/a5fa736a24ba140979c52.jpg",
+        "https://telegra.ph/file/f64eff3f3dbb141798493.jpg",
+        "https://telegra.ph/file/e3f82e365432630fc5292.jpg",
+        "https://telegra.ph/file/df2d1390e82f28aeeff3a.jpg",
+        "https://telegra.ph/file/6e60b0e12b1b55939cbaa.jpg",
+        "https://telegra.ph/file/f0d3ebfeb27cc491fcf81.jpg",
+        "https://telegra.ph/file/2f0dba51e272d45458cc7.jpg",
+        "https://telegra.ph/file/e4f97c6822ceca8e8b170.jpg",
+        "https://telegra.ph/file/432f08188487295616149.jpg",
+        "https://telegra.ph/file/34765bcd4a33a819bab6c.jpg",
+        "https://telegra.ph/file/dad544ff40cd96f6aba1f.jpg",
+        "https://telegra.ph/file/a08eaa5b442854201a82e.jpg",
+        "https://telegra.ph/file/2999dc847ec3fd96a28c0.jpg",
+        "https://telegra.ph/file/5fe000e10e4ffbc54ff84.jpg",
+        "https://telegra.ph/file/b1b7d20972b6430d1d34c.jpg",
+        "https://telegra.ph/file/e9b671d2aa7bfbb5f6129.jpg",
+        "https://telegra.ph/file/ec097021d7e33a9772947.jpg",
+        "https://telegra.ph/file/83e79de35d2972a106fb4.jpg",
+        "https://telegra.ph/file/ba9c36da872ae6606f7a3.jpg",
+        "https://telegra.ph/file/011e143ba26cb330876ea.jpg",
+        "https://telegra.ph/file/598d19b8fcedae06a73b7.jpg",
+        "https://telegra.ph/file/bd1904d93d0fd7a3f0718.jpg",
+        "https://telegra.ph/file/e749b09680a4eb42d803c.jpg"
+    ]
+};

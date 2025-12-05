@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2906,
+    "title": "[有間乃ユウキ] 鬼娘の愛棒 (COMIC 外楽 Vol.06)",
+    "sourceUrl": "https://telegra.ph/有間乃ユウキ-鬼娘の愛棒-COMIC-外楽-Vol06-08-31",
+    "images": [
+        "https://telegra.ph/file/df74bcb55c71d50416208.jpg",
+        "https://telegra.ph/file/7a3232657d61130aff2c6.jpg",
+        "https://telegra.ph/file/8259358159eb13494e252.jpg",
+        "https://telegra.ph/file/83512c347d96f8db270ac.jpg",
+        "https://telegra.ph/file/9c1e652b5ca747c72e177.jpg",
+        "https://telegra.ph/file/8eba3f7be5e1d0f88ea15.jpg",
+        "https://telegra.ph/file/dd087f45245d0024cab28.jpg",
+        "https://telegra.ph/file/5b03412151872a744478a.jpg",
+        "https://telegra.ph/file/4c1db7eb381ba0a996206.jpg",
+        "https://telegra.ph/file/5848d6b9d19e9cf9f690c.jpg",
+        "https://telegra.ph/file/996fa74f530f1dac0fa7e.jpg",
+        "https://telegra.ph/file/e1be6fb342dcb5f880554.jpg",
+        "https://telegra.ph/file/51b92bd2d1d70ff15b78a.jpg",
+        "https://telegra.ph/file/95c8036192f92989dbabb.jpg",
+        "https://telegra.ph/file/59ba41b1b0de6634a2283.jpg",
+        "https://telegra.ph/file/8c5d9f917daeaef107022.jpg",
+        "https://telegra.ph/file/51e1623f9197c312c7d95.jpg",
+        "https://telegra.ph/file/a9a768c970e3991af68f9.jpg",
+        "https://telegra.ph/file/e1d6982c7d9278e1ff218.jpg",
+        "https://telegra.ph/file/585c3bf0bf4c3b55fbee6.jpg",
+        "https://telegra.ph/file/8f02dc6be111e25c0e0e7.jpg",
+        "https://telegra.ph/file/16f1445ecd675e81e16d9.jpg",
+        "https://telegra.ph/file/85e68d8cba1f28a2ebb10.jpg",
+        "https://telegra.ph/file/818573748d49941a73786.jpg",
+        "https://telegra.ph/file/98a5a3dc5338ae4e5d153.jpg"
+    ]
+};

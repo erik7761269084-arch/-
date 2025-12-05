@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7152,
+    "title": "DOUBLE PEACE MAKER",
+    "sourceUrl": "https://telegra.ph/DOUBLE-PEACE-MAKER-08-31",
+    "images": [
+        "https://telegra.ph/file/e3ae95222ec01a1dac7f7.jpg",
+        "https://telegra.ph/file/76edd171c06b659fb7292.jpg",
+        "https://telegra.ph/file/cae11198a63c04201e1aa.jpg",
+        "https://telegra.ph/file/3053d07a786d5132e8443.jpg",
+        "https://telegra.ph/file/80a55c8a64d923e492eec.jpg",
+        "https://telegra.ph/file/18d2a8b9f2d82fbaa100e.jpg",
+        "https://telegra.ph/file/ca90cea76cb6f7e95e84c.jpg",
+        "https://telegra.ph/file/30a8889acfd2a893ff193.jpg",
+        "https://telegra.ph/file/73028119de86782209aab.jpg",
+        "https://telegra.ph/file/98c4c27daf78d6650f322.jpg",
+        "https://telegra.ph/file/4bd5548f8c2d7c0510f0a.jpg",
+        "https://telegra.ph/file/4cb1bbb1bdfc980b1ee9b.jpg",
+        "https://telegra.ph/file/46b09f995600dc68397ee.jpg",
+        "https://telegra.ph/file/94791727d258b8e4ce846.jpg",
+        "https://telegra.ph/file/321d38a27fbd4c6be0ae7.jpg",
+        "https://telegra.ph/file/6949e86422677b0f64bcb.jpg",
+        "https://telegra.ph/file/44928c0d94d11e6fcad68.jpg",
+        "https://telegra.ph/file/bbe1613884c69afc76a4a.jpg",
+        "https://telegra.ph/file/acf924a9ba35607b9a3b4.jpg",
+        "https://telegra.ph/file/b42b476fc9c2f5235bd21.jpg",
+        "https://telegra.ph/file/b07780cf3cef638b65ee8.jpg",
+        "https://telegra.ph/file/9e317619497e55135e24f.jpg",
+        "https://telegra.ph/file/51f6f916a2b745f05623c.jpg",
+        "https://telegra.ph/file/80cbceec5871f93c668cc.jpg"
+    ]
+};

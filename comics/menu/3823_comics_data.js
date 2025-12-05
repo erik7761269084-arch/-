@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3823,
+    "title": "[芽の里 (めりーべ)] ディオナちゃんの発情反応 (原神)",
+    "sourceUrl": "https://telegra.ph/芽の里-めりーべ-ディオナちゃんの発情反応-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/fac8f87cecb55b5f5c847.jpg",
+        "https://telegra.ph/file/e4b67c8fafd1d8365bb5d.jpg",
+        "https://telegra.ph/file/2534bb3ac0ddd063b2f9e.jpg",
+        "https://telegra.ph/file/7b49facb2e8482a62471d.jpg",
+        "https://telegra.ph/file/2f446bfecd25bb318fed4.jpg",
+        "https://telegra.ph/file/989b3c7294ffb063e869c.jpg",
+        "https://telegra.ph/file/621912ef39ebb060257a2.jpg",
+        "https://telegra.ph/file/6bd59cc83fb1f59703f1f.jpg",
+        "https://telegra.ph/file/484aede821c59a36d4534.jpg",
+        "https://telegra.ph/file/6554e0bfbe8d50df592ac.jpg",
+        "https://telegra.ph/file/dbdd1275577665d8fdd9a.jpg",
+        "https://telegra.ph/file/7dfc75b0b709db12e871e.jpg",
+        "https://telegra.ph/file/0aa01746c9f2016b5fb36.jpg",
+        "https://telegra.ph/file/8bf623e68e9162efc6443.jpg",
+        "https://telegra.ph/file/461afcc4d542f295acfb3.jpg",
+        "https://telegra.ph/file/6b31f9f8a814ea3694b1f.jpg",
+        "https://telegra.ph/file/b41239d080b0e835a4171.jpg",
+        "https://telegra.ph/file/39d5ef19936802d1da2a1.jpg",
+        "https://telegra.ph/file/32654be8cd0ea41458f25.jpg",
+        "https://telegra.ph/file/352b722b6067161c18b8c.jpg",
+        "https://telegra.ph/file/8029205d1182b8f2dc42a.jpg",
+        "https://telegra.ph/file/1bce536cc63acb4e95585.jpg",
+        "https://telegra.ph/file/e17e5ed005aa4597ba9ce.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ]
+};

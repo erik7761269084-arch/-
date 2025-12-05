@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4633,
+    "title": "[ワッフル同盟犬 (田中竕)] 催眠用務員",
+    "sourceUrl": "https://telegra.ph/ワッフル同盟犬-田中竕-催眠用務員-08-31-2",
+    "images": [
+        "https://telegra.ph/file/dc48e2bf3c056691d93e6.jpg",
+        "https://telegra.ph/file/4e8996d0a05c8a16d2eb4.jpg",
+        "https://telegra.ph/file/064c29f3bd0eaee77b898.jpg",
+        "https://telegra.ph/file/06957a3c448f91cc9e573.jpg",
+        "https://telegra.ph/file/726f80052db13beb41d06.jpg",
+        "https://telegra.ph/file/2be3ddb9ea6f995ac08ee.jpg",
+        "https://telegra.ph/file/0a9a6819a6da935fdee5b.jpg",
+        "https://telegra.ph/file/74772c498bcde51d5bec8.jpg",
+        "https://telegra.ph/file/4b933b3e099866d2c4967.jpg",
+        "https://telegra.ph/file/dea751baa0d6acc3d92d0.jpg",
+        "https://telegra.ph/file/e59e89062c9a2ca914f8a.jpg",
+        "https://telegra.ph/file/67a596220c2403e3b7b2b.jpg",
+        "https://telegra.ph/file/3b2f785837ff70bfdaa0d.jpg",
+        "https://telegra.ph/file/fb5e9d0ce38f37f3afb87.jpg",
+        "https://telegra.ph/file/9f4bc10a655bc5d925840.jpg",
+        "https://telegra.ph/file/ce95646264f484c71e9f3.jpg",
+        "https://telegra.ph/file/a124a00e5a98847439490.jpg",
+        "https://telegra.ph/file/148709074297858a97518.jpg",
+        "https://telegra.ph/file/75a83168b8285f82d893a.jpg",
+        "https://telegra.ph/file/c8284156214ad1ce23d70.jpg",
+        "https://telegra.ph/file/52cd5b7ccbb396ed25c3a.jpg",
+        "https://telegra.ph/file/7c019f59c28117f6640cd.jpg",
+        "https://telegra.ph/file/72c3da8db0fb9f3e8c1a9.jpg",
+        "https://telegra.ph/file/946283a18c8d61b0e5205.jpg",
+        "https://telegra.ph/file/c2073d1a77eb7922ebb61.jpg",
+        "https://telegra.ph/file/8e945acac2fe7daf39ba7.jpg"
+    ]
+};

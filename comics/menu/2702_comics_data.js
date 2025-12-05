@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2702,
+    "title": "[へろへろHospital (へろへろTom)] デブネコに愛されて",
+    "sourceUrl": "https://telegra.ph/へろへろHospital-へろへろTom-デブネコに愛されて-08-31",
+    "images": [
+        "https://telegra.ph/file/22532274f1f181be4232e.jpg",
+        "https://telegra.ph/file/66abdf6daf24f7126a0de.jpg",
+        "https://telegra.ph/file/7270f3b060ee4d33129c9.jpg",
+        "https://telegra.ph/file/401d161b02aab8c65a2b1.jpg",
+        "https://telegra.ph/file/ad6f33466b7bd5d1c3415.jpg",
+        "https://telegra.ph/file/4268bd2aa796424f08a3d.jpg",
+        "https://telegra.ph/file/6aefbd68f887a84678693.jpg",
+        "https://telegra.ph/file/08353298c225b35177358.jpg",
+        "https://telegra.ph/file/3ebc59874869a73e3dbe7.jpg",
+        "https://telegra.ph/file/5b7924a455fc5bbc53047.jpg",
+        "https://telegra.ph/file/417cc1fee3d15fc92135b.jpg",
+        "https://telegra.ph/file/4ff2593b2dd20943b9b16.jpg",
+        "https://telegra.ph/file/350622d01bd8f3074bd77.jpg",
+        "https://telegra.ph/file/7e58a540f1bfd5196488d.jpg",
+        "https://telegra.ph/file/8af4249da769e0b7261d5.jpg",
+        "https://telegra.ph/file/c203c5063975763a22ee9.jpg",
+        "https://telegra.ph/file/3acfdc5309cf891871fe8.jpg",
+        "https://telegra.ph/file/ae38a9c74a059104755df.jpg",
+        "https://telegra.ph/file/1b1f2a64f4592b03b2dfd.jpg",
+        "https://telegra.ph/file/88dd876a526d81640731e.jpg",
+        "https://telegra.ph/file/ed6a3058f1e0526ea8ebf.jpg",
+        "https://telegra.ph/file/6a00e1b0b1ee1bf8a9e4d.jpg",
+        "https://telegra.ph/file/c1a7ed6567b1607383d34.jpg",
+        "https://telegra.ph/file/42d813e570ebecd754625.jpg",
+        "https://telegra.ph/file/bf3d61471f9f99b4c13bc.jpg",
+        "https://telegra.ph/file/5b61a2e06016a7d2a4a08.jpg"
+    ]
+};

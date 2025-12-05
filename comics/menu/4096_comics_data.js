@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4096,
+    "title": "[はぴねすみるく (おびゃー)] すずあかん (東方Project)",
+    "sourceUrl": "https://telegra.ph/はぴねすみるく-おびゃー-すずあかん-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/0bb439e142d77137da06b.jpg",
+        "https://telegra.ph/file/828e8ce81ac8ca31fce61.jpg",
+        "https://telegra.ph/file/eda32b732fac4d8d60d81.jpg",
+        "https://telegra.ph/file/657c3395d28736b4b5bfe.jpg",
+        "https://telegra.ph/file/5c5d42a770cf01342e4ad.jpg",
+        "https://telegra.ph/file/89b3ec180028e9aef6019.jpg",
+        "https://telegra.ph/file/1850700765ebc8ab847e7.jpg",
+        "https://telegra.ph/file/091a60f81a1a9eb54584a.jpg",
+        "https://telegra.ph/file/79f606d8ceb03697758a3.jpg",
+        "https://telegra.ph/file/d404e33efd2910719bd46.jpg",
+        "https://telegra.ph/file/f540582933a752e64bc14.jpg",
+        "https://telegra.ph/file/c2bf3fcd5d1ff5cd061c2.jpg",
+        "https://telegra.ph/file/4ae1ce5cc0bc0b1958649.jpg",
+        "https://telegra.ph/file/50e2e24296b8bd4b720bc.jpg",
+        "https://telegra.ph/file/3f2c0c15f411db6e07e18.jpg",
+        "https://telegra.ph/file/9b4e3eb0bc65a920274b3.jpg",
+        "https://telegra.ph/file/f4869854d75b02f456b12.jpg",
+        "https://telegra.ph/file/689b70b2fa1c704effe98.jpg",
+        "https://telegra.ph/file/dda9eef7694f5464bb3c9.jpg",
+        "https://telegra.ph/file/51beef324007a3c019725.jpg",
+        "https://telegra.ph/file/c11af12fac5f205c3d018.jpg",
+        "https://telegra.ph/file/b14b832f863b49ffe3c15.jpg",
+        "https://telegra.ph/file/ba3341b1da74593ddb914.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/8aea9f418e1128f22b629.jpg",
+        "https://telegra.ph/file/e6ac3d89fe4ba71eb0d1e.jpg"
+    ]
+};

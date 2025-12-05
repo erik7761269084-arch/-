@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3471,
+    "title": "[夏のおやつ] Incestism 第2話 (COMIC クリベロン DUMA 2022年1月号 Vol.32)",
+    "sourceUrl": "https://telegra.ph/夏のおやつ-Incestism-第2話-COMIC-クリベロン-DUMA-2022年1月号-Vol32-08-31",
+    "images": [
+        "https://telegra.ph/file/179f34310afdf28f8b16a.jpg",
+        "https://telegra.ph/file/c5b84cfbca706c671a2ae.jpg",
+        "https://telegra.ph/file/a4e766e3ee1147e0453cc.jpg",
+        "https://telegra.ph/file/735b778ba17cc412154de.jpg",
+        "https://telegra.ph/file/a0b3805d7f9169f5adc43.jpg",
+        "https://telegra.ph/file/8db4b1c8fc21b0c38742f.jpg",
+        "https://telegra.ph/file/f1909b92ab5fa2b4b2206.jpg",
+        "https://telegra.ph/file/375ab4ff454df5e63f331.jpg",
+        "https://telegra.ph/file/a7e50a5609d5e29051d16.jpg",
+        "https://telegra.ph/file/a198174defb2be6cd966e.jpg",
+        "https://telegra.ph/file/e32944d69305f0fef22df.jpg",
+        "https://telegra.ph/file/40c2dd4ade55d28fae54f.jpg",
+        "https://telegra.ph/file/c4d8f4799ad70c2afd285.jpg",
+        "https://telegra.ph/file/6c4f741ab6063561fd0cd.jpg",
+        "https://telegra.ph/file/595a0fab56e2c6a8b864d.jpg",
+        "https://telegra.ph/file/a10881b77a6d185dabde6.jpg",
+        "https://telegra.ph/file/ad825e0e9ac99e7394a79.jpg",
+        "https://telegra.ph/file/ce86cb7aa0454d8bd4f9a.jpg",
+        "https://telegra.ph/file/80ce281489cae4fa2af8f.jpg",
+        "https://telegra.ph/file/804466edf6e909b4e117c.jpg",
+        "https://telegra.ph/file/b17417f922068a6e44980.jpg",
+        "https://telegra.ph/file/056881dc6a84c72ab5b86.jpg",
+        "https://telegra.ph/file/3960478b06132f10b3b5b.jpg",
+        "https://telegra.ph/file/e870fc1a6b3d3c165c631.jpg"
+    ]
+};

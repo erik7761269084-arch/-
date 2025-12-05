@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4869,
+    "title": "[越後屋タケル] TS魔性の館 (COMIC アンスリウム 2020年10月号)",
+    "sourceUrl": "https://telegra.ph/越後屋タケル-TS魔性の館-COMIC-アンスリウム-2020年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/8f2b2c6eb510d41acac06.jpg",
+        "https://telegra.ph/file/239c55338159c4e79ccd1.jpg",
+        "https://telegra.ph/file/c94d10fe9f1ae8bb84f83.jpg",
+        "https://telegra.ph/file/18b3a6deed21b721c42b9.jpg",
+        "https://telegra.ph/file/f6251b7cab4b9bcd70376.jpg",
+        "https://telegra.ph/file/29acc79961df7b3ddc54a.jpg",
+        "https://telegra.ph/file/730e12506bd0537d289f7.jpg",
+        "https://telegra.ph/file/263d9871a287e3f7ee845.jpg",
+        "https://telegra.ph/file/b04563526c9b7f357cfda.jpg",
+        "https://telegra.ph/file/3b6c314145bd4b6cef35a.jpg",
+        "https://telegra.ph/file/f667fea3bc4ff3229531d.jpg",
+        "https://telegra.ph/file/d9eb8e8c949f28f4fbfd3.jpg",
+        "https://telegra.ph/file/e63d01665a2cc2e7ebfc5.jpg",
+        "https://telegra.ph/file/106fe4bed3b92c9a7564e.jpg",
+        "https://telegra.ph/file/c86ccd62b99bfab880c68.jpg",
+        "https://telegra.ph/file/ebc172308f2e52ff4501f.jpg",
+        "https://telegra.ph/file/5aaa4f57c8cd66d18658e.jpg",
+        "https://telegra.ph/file/da920a2502b95f30003f8.jpg",
+        "https://telegra.ph/file/52860a855503ea490f317.jpg",
+        "https://telegra.ph/file/ed6e01224f0ed63e172e1.jpg",
+        "https://telegra.ph/file/15681b54947d16ce34f19.jpg",
+        "https://telegra.ph/file/29095553182b27cb9669e.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/993f07f1c165f24f54716.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/f4c81417157faf3d84e72.jpg"
+    ]
+};

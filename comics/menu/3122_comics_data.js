@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3122,
+    "title": "[尻戦車] 聖煌戦姫ジュエルツインズ ～イカロスの乙女たち～ (二次元コミックマガジン 淫紋悪堕ち 快楽によって正義を裏切る美少女たちVol.1)",
+    "sourceUrl": "https://telegra.ph/尻戦車-聖煌戦姫ジュエルツインズ-イカロスの乙女たち-二次元コミックマガジン-淫紋悪堕ち-快楽によって正義を裏切る美少女たちVol1-08-31",
+    "images": [
+        "https://telegra.ph/file/68e948fb1b866de1b2638.jpg",
+        "https://telegra.ph/file/292bd64d183b219ce6d33.jpg",
+        "https://telegra.ph/file/85fc93d13ff9db159edcd.jpg",
+        "https://telegra.ph/file/2d4e67af33c935cbaa398.jpg",
+        "https://telegra.ph/file/3678423beab3499f49b7b.jpg",
+        "https://telegra.ph/file/54836ef40f61ca971939f.jpg",
+        "https://telegra.ph/file/b2adde000c074e592e2f4.jpg",
+        "https://telegra.ph/file/704a481c3a1050ce4a7f2.jpg",
+        "https://telegra.ph/file/bd13d408ec291f60752dc.jpg",
+        "https://telegra.ph/file/68f727028841754ceb9b1.jpg",
+        "https://telegra.ph/file/6cd3ceba30f3b1415424f.jpg",
+        "https://telegra.ph/file/f45ec0c0577c8da335268.jpg",
+        "https://telegra.ph/file/e814fc182142518d6f73b.jpg",
+        "https://telegra.ph/file/f0c2e2b504b0683370878.jpg",
+        "https://telegra.ph/file/7936a0caa18087b407088.jpg",
+        "https://telegra.ph/file/32b687504e8f6abceca45.jpg",
+        "https://telegra.ph/file/aaa0377ea6fbc2a11d8b2.jpg",
+        "https://telegra.ph/file/daa57e685edd34ff16407.jpg",
+        "https://telegra.ph/file/3d6559307959f04d4835d.jpg",
+        "https://telegra.ph/file/38f688a8d6381a5e28ab3.jpg",
+        "https://telegra.ph/file/5757efb2e9889479d1305.jpg",
+        "https://telegra.ph/file/48f1d97f86f2e52ba1078.jpg",
+        "https://telegra.ph/file/628d375c327e463a00d3b.jpg",
+        "https://telegra.ph/file/4bb68a7782069d1ef01cb.jpg"
+    ]
+};

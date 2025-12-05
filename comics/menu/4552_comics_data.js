@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4552,
+    "title": "[あめじすとダークネス (エロッチ)] 迷子の子猫",
+    "sourceUrl": "https://telegra.ph/あめじすとダークネス-エロッチ-迷子の子猫-08-31",
+    "images": [
+        "https://telegra.ph/file/e7411ae350460645e0dea.jpg",
+        "https://telegra.ph/file/614d6c0cdbd0c93702eb6.jpg",
+        "https://telegra.ph/file/d5c3c9a68f6a20c258df3.jpg",
+        "https://telegra.ph/file/ecedd01038dccca0933e1.jpg",
+        "https://telegra.ph/file/2f214c1fe931c8fdd4fdf.jpg",
+        "https://telegra.ph/file/2c336d6453bca42bd9a6b.jpg",
+        "https://telegra.ph/file/ffc8946b8de33ca4b6eac.jpg",
+        "https://telegra.ph/file/483f88d10ee774ce8b502.jpg",
+        "https://telegra.ph/file/9790b78d4fce2ceab268d.jpg",
+        "https://telegra.ph/file/2aa2a9202ab7d30c31431.jpg",
+        "https://telegra.ph/file/cbac37b5bdf3f45dcfd51.jpg",
+        "https://telegra.ph/file/a91a4eb6bdfefd9f3ea25.jpg",
+        "https://telegra.ph/file/5e65cd00539b0a1d7be1b.jpg",
+        "https://telegra.ph/file/6772c43d684faa0605b30.jpg",
+        "https://telegra.ph/file/e9fb97cec2689d02a389a.jpg",
+        "https://telegra.ph/file/1cd54b7810bd159a31fb1.jpg",
+        "https://telegra.ph/file/c3d9c43e1043daef40e59.jpg",
+        "https://telegra.ph/file/b738d001ee31c287a6c29.jpg",
+        "https://telegra.ph/file/2a795567186c759b79080.jpg",
+        "https://telegra.ph/file/950faec5889a877775caa.jpg",
+        "https://telegra.ph/file/44945b281cc3d7c31216e.jpg",
+        "https://telegra.ph/file/1114c0a89a77e17d931a5.jpg",
+        "https://telegra.ph/file/583e9c2551ce7d698851e.jpg"
+    ]
+};

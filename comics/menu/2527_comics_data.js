@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2527,
+    "title": "[Monaim] DNF黑曜神",
+    "sourceUrl": "https://telegra.ph/Monaim-DNF黑曜神-08-31",
+    "images": [
+        "https://telegra.ph/file/3b8305fba2eb1d86153cf.jpg",
+        "https://telegra.ph/file/3b0146827a7a1bec876d0.jpg",
+        "https://telegra.ph/file/9b69d9a99b152f26080c3.jpg",
+        "https://telegra.ph/file/baba6bed30e33bdf1ebeb.jpg",
+        "https://telegra.ph/file/2c7c3f98e99d1283e7fca.jpg",
+        "https://telegra.ph/file/b35c13c70aec8ad23e178.jpg",
+        "https://telegra.ph/file/061ac16aa8b18601d0fbe.jpg",
+        "https://telegra.ph/file/38355a5b1576990e4adc3.jpg",
+        "https://telegra.ph/file/c52b264d88a8ee0ff3f70.jpg",
+        "https://telegra.ph/file/16eb2c8a83205e55fdb30.jpg",
+        "https://telegra.ph/file/3343f9248bd3e7c7963d9.jpg",
+        "https://telegra.ph/file/ed96d5f05437d2275f56c.jpg",
+        "https://telegra.ph/file/775f146a6bde22f177850.jpg",
+        "https://telegra.ph/file/17afae0f00e4035412193.jpg",
+        "https://telegra.ph/file/9823fe30874531c1b9e53.jpg",
+        "https://telegra.ph/file/19c3a5db1c1f28688a70b.jpg",
+        "https://telegra.ph/file/29e4c4870faee1b12ba63.jpg",
+        "https://telegra.ph/file/286c438c0f6f7092b0cc3.jpg",
+        "https://telegra.ph/file/582772960022c464183ca.jpg",
+        "https://telegra.ph/file/fe223ec6c11e2c0c700d1.jpg",
+        "https://telegra.ph/file/423719eadc174795b6260.jpg",
+        "https://telegra.ph/file/7682e83fd77225d56c3db.jpg",
+        "https://telegra.ph/file/311c3dc5a9d8c04063710.jpg"
+    ]
+};

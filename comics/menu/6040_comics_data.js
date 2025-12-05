@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6040,
+    "title": "[武藤まと] 飼い主のココロエ",
+    "sourceUrl": "https://telegra.ph/武藤まと-飼い主のココロエ-08-31",
+    "images": [
+        "https://telegra.ph/file/bd55cca2941b3a150522c.jpg",
+        "https://telegra.ph/file/ec8d6eff43c5cb47d7fa8.jpg",
+        "https://telegra.ph/file/f28c468e18d298b2f60e2.jpg",
+        "https://telegra.ph/file/81063f804fb4fd455195b.jpg",
+        "https://telegra.ph/file/f89491143f38fa4c214d5.jpg",
+        "https://telegra.ph/file/3bdadc8f8e0934de772d6.jpg",
+        "https://telegra.ph/file/f0cfc4284e5031a4d822a.jpg",
+        "https://telegra.ph/file/1c42e2e4366a2023b2dfb.jpg",
+        "https://telegra.ph/file/a84b2a08cd65b1112fbfa.jpg",
+        "https://telegra.ph/file/352c0a45bc7cb2d42c06a.jpg",
+        "https://telegra.ph/file/af7c6b75a9775f9b356d2.jpg",
+        "https://telegra.ph/file/f64043d3ea76207573653.jpg",
+        "https://telegra.ph/file/1b822c2e238c6dcc6969a.jpg",
+        "https://telegra.ph/file/25a871727671bae205ffc.jpg",
+        "https://telegra.ph/file/0775b991a502d53310967.jpg",
+        "https://telegra.ph/file/a68ebe09fd8fa2ca9cd83.jpg",
+        "https://telegra.ph/file/0930c131b77067a72a717.jpg",
+        "https://telegra.ph/file/95a0ef4c77e67690b4a60.jpg",
+        "https://telegra.ph/file/8cbfdc04f5e357b517784.jpg",
+        "https://telegra.ph/file/f7c84abdc222af9e0dea3.jpg",
+        "https://telegra.ph/file/705cabc7e41014324007b.jpg",
+        "https://telegra.ph/file/9f214f2f724971a4f27a8.jpg",
+        "https://telegra.ph/file/89e67e637704b45702f46.jpg",
+        "https://telegra.ph/file/6c526a7e00f1eec94e113.jpg",
+        "https://telegra.ph/file/ad74ea4a8f07de4359d5d.jpg"
+    ]
+};

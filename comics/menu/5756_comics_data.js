@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5756,
+    "title": "[しーあーる] 魔法少女フロイライン-ユミ",
+    "sourceUrl": "https://telegra.ph/しーあーる-魔法少女フロイライン-ユミ-08-31",
+    "images": [
+        "https://telegra.ph/file/bb866dcb5f6788df90d51.jpg",
+        "https://telegra.ph/file/f91a38d309c0f8188ffd1.jpg",
+        "https://telegra.ph/file/3868ceab768588eff6ed9.jpg",
+        "https://telegra.ph/file/039cde70544f7a51c294f.jpg",
+        "https://telegra.ph/file/34078e7f556907335756e.jpg",
+        "https://telegra.ph/file/3926aacf5263747b30015.jpg",
+        "https://telegra.ph/file/a3587c546a317dc057386.jpg",
+        "https://telegra.ph/file/e2a40abc448c1728c9c00.jpg",
+        "https://telegra.ph/file/4afa8af744d53b22ff614.jpg",
+        "https://telegra.ph/file/5c41794e134a36d62a0d3.jpg",
+        "https://telegra.ph/file/d9a72cce4317b9e8e670b.jpg",
+        "https://telegra.ph/file/35c2eb254cc0220192ac3.jpg",
+        "https://telegra.ph/file/144a01d4a711c1265f9fb.jpg",
+        "https://telegra.ph/file/651e437ed6f65456eed0e.jpg",
+        "https://telegra.ph/file/1e8295cefdac9b6afea89.jpg",
+        "https://telegra.ph/file/98af00f4c1404532def2d.jpg",
+        "https://telegra.ph/file/6545fff7a9d388e790e21.jpg",
+        "https://telegra.ph/file/dd89703b857372189a368.jpg",
+        "https://telegra.ph/file/1a79ad56f8689720c66db.jpg",
+        "https://telegra.ph/file/43e442c421d59e68635d8.jpg",
+        "https://telegra.ph/file/6cc39fd220da1200c6397.jpg",
+        "https://telegra.ph/file/a0c5915e4954ded75e4a4.jpg",
+        "https://telegra.ph/file/c52b57a5f00be93144f50.jpg",
+        "https://telegra.ph/file/0cdb2d81c5e0690aecd0a.jpg"
+    ]
+};

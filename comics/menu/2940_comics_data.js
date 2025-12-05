@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2940,
+    "title": "(コミティア138) [MochiPeach (桃豆こまもち)] 飼ってください、ご主人さま！",
+    "sourceUrl": "https://telegra.ph/コミティア138-MochiPeach-桃豆こまもち-飼ってくださいご主人さま-08-31",
+    "images": [
+        "https://telegra.ph/file/2fc7a4c9c183fa545d703.jpg",
+        "https://telegra.ph/file/1776ba85acc6d13ad50b5.jpg",
+        "https://telegra.ph/file/b3c68d86b36ec296489ea.jpg",
+        "https://telegra.ph/file/88e5734b3452eb722c744.jpg",
+        "https://telegra.ph/file/2e8e0ea9529db18e2e791.jpg",
+        "https://telegra.ph/file/279a3fef9636d9a9ce7d2.jpg",
+        "https://telegra.ph/file/a74c24cf0e011c2532af4.jpg",
+        "https://telegra.ph/file/438bf254f2da37f199555.jpg",
+        "https://telegra.ph/file/2111117eaa1dfce0a0847.jpg",
+        "https://telegra.ph/file/c3facec4cd71dec35bcae.jpg",
+        "https://telegra.ph/file/126d9ad5b69aeb8793c8b.jpg",
+        "https://telegra.ph/file/4dde1ff5060757fe499f9.jpg",
+        "https://telegra.ph/file/f932f1b0bc99efa53f1e3.jpg",
+        "https://telegra.ph/file/c552660c263d9e12a59ef.jpg",
+        "https://telegra.ph/file/9a2242a8a156052d0034a.jpg",
+        "https://telegra.ph/file/3cabc453046b0d9719533.jpg",
+        "https://telegra.ph/file/5ed79756a92dc9894e1f7.jpg",
+        "https://telegra.ph/file/87dccae145942e718d9f5.jpg",
+        "https://telegra.ph/file/b5328fa1b8bad590101db.jpg",
+        "https://telegra.ph/file/a8a1f1c788491fdb9ae60.jpg",
+        "https://telegra.ph/file/9925352ebec19d656371d.jpg",
+        "https://telegra.ph/file/5548710f1b3aad2b98c99.jpg",
+        "https://telegra.ph/file/0ece3461d1657a84457f9.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

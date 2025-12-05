@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4513,
+    "title": "[狭くて暗い (狭暗)] 優等遺伝子と劣等遺伝子による出産された子供の能力値測定実験および、雌の肉体的変化の記録 (東方Project)",
+    "sourceUrl": "https://telegra.ph/狭くて暗い-狭暗-優等遺伝子と劣等遺伝子による出産された子供の能力値測定実験および雌の肉体的変化の記録-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/794352e8336ddbdab1651.jpg",
+        "https://telegra.ph/file/f9dcc99e70724c74df268.jpg",
+        "https://telegra.ph/file/c7f636038d26bcc288647.jpg",
+        "https://telegra.ph/file/ddf270ece812756fe3304.jpg",
+        "https://telegra.ph/file/67e115ea23adde099277c.jpg",
+        "https://telegra.ph/file/6bdd2bc0825eb29d2b268.jpg",
+        "https://telegra.ph/file/5be80ced590ce935bd851.jpg",
+        "https://telegra.ph/file/6646cf8522a193cc45ac5.jpg",
+        "https://telegra.ph/file/4bddba44f3a961c69912e.jpg",
+        "https://telegra.ph/file/7a06f97e2f846a78e1683.jpg",
+        "https://telegra.ph/file/c60b6a0f92104afc62333.jpg",
+        "https://telegra.ph/file/1026cbb213ba757c1347e.jpg",
+        "https://telegra.ph/file/dcd7ef2a9fe1844eb704a.jpg",
+        "https://telegra.ph/file/ed575bc59fd61d8a346f4.jpg",
+        "https://telegra.ph/file/e164efb8a5eb964388659.jpg",
+        "https://telegra.ph/file/d9b228f2fd634e413e032.jpg",
+        "https://telegra.ph/file/3ca160ca1072145e37552.jpg",
+        "https://telegra.ph/file/ebccf3e39effa1f5164cd.jpg",
+        "https://telegra.ph/file/893fbf3f64b428b07bda4.jpg",
+        "https://telegra.ph/file/7b0873191d9a82326f1ea.jpg",
+        "https://telegra.ph/file/01b5502f3771a51b98ed0.jpg",
+        "https://telegra.ph/file/47ba5037e72b29da39b52.jpg",
+        "https://telegra.ph/file/0f3a69109c76dff1df745.jpg",
+        "https://telegra.ph/file/89ef6c2d9a58c353b7752.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3355,
+    "title": "(C99) [あやしい墓地 (PINTA)] ぽんぽこサマー・キャンプ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-あやしい墓地-PINTA-ぽんぽこサマーキャンプ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/d9467d7a289af0e5f6bb5.jpg",
+        "https://telegra.ph/file/026d396d4701829ca6f2e.jpg",
+        "https://telegra.ph/file/4d049b79654a6d7f5eb2c.jpg",
+        "https://telegra.ph/file/d3c71734d7263bec44ef7.jpg",
+        "https://telegra.ph/file/fae5a9b99e4d40c9c2508.jpg",
+        "https://telegra.ph/file/399de71942f26e6289cfd.jpg",
+        "https://telegra.ph/file/b4ff6b18f969e69c513ba.jpg",
+        "https://telegra.ph/file/b1b20d65b247314d709af.jpg",
+        "https://telegra.ph/file/d0a2136852775cef61dd7.jpg",
+        "https://telegra.ph/file/ca804a9224b31b59e7443.jpg",
+        "https://telegra.ph/file/87725c4bf7fd9f31e51ff.jpg",
+        "https://telegra.ph/file/f96bc6a8b5ac3564933b2.jpg",
+        "https://telegra.ph/file/8d7f0b1f05eed9f85ffe8.jpg",
+        "https://telegra.ph/file/68ba7da325573e5a1ced6.jpg",
+        "https://telegra.ph/file/0a70b34684df024ddfdb2.jpg",
+        "https://telegra.ph/file/418cb77e0949c2cb16962.jpg",
+        "https://telegra.ph/file/cca2ca55b8756c1429924.jpg",
+        "https://telegra.ph/file/8ddc44a690ea0e7048fa9.jpg",
+        "https://telegra.ph/file/e9f0ea8655cbab8c74245.jpg",
+        "https://telegra.ph/file/d580735cc6d598259629f.jpg",
+        "https://telegra.ph/file/ea6cee841758266c78c04.jpg",
+        "https://telegra.ph/file/9739a9b82e1a331d21bf6.jpg",
+        "https://telegra.ph/file/45a8354f57c97f188ce90.jpg"
+    ]
+};

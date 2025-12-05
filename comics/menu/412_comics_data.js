@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 412,
+    "title": "[ぷよちゃ] とりっくSister (COMIC BAVEL 2018年6月号)",
+    "sourceUrl": "https://telegra.ph/ぷよちゃ-とりっくSister-COMIC-BAVEL-2018年6月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/dbdb6fb45659e5d6bf911.jpg",
+        "https://telegra.ph/file/f49b90ce5774ba0e8d7b3.jpg",
+        "https://telegra.ph/file/239dbf3c1e3b41e967367.jpg",
+        "https://telegra.ph/file/e67b327414aacae0f7a55.jpg",
+        "https://telegra.ph/file/3b18cb13f9ef72ae6cee3.jpg",
+        "https://telegra.ph/file/bbfa34ba38ba4d6b3c627.jpg",
+        "https://telegra.ph/file/7d78a4bfb20106d69a298.jpg",
+        "https://telegra.ph/file/7d044d653402ca80193d9.jpg",
+        "https://telegra.ph/file/94eaf8649bb04c09a5a00.jpg",
+        "https://telegra.ph/file/fdbe390ccd0bbd58319ea.jpg",
+        "https://telegra.ph/file/f315b15b3e09dec88a07e.jpg",
+        "https://telegra.ph/file/b5c4843df48c38b0244df.jpg",
+        "https://telegra.ph/file/cff3830943cff2f4c7d78.jpg",
+        "https://telegra.ph/file/320fea9b21ebd09a06705.jpg",
+        "https://telegra.ph/file/fc95b119f6706869b350b.jpg",
+        "https://telegra.ph/file/5666ec1bc2a12c718b175.jpg",
+        "https://telegra.ph/file/990f037f6b5ddfd8e955e.jpg",
+        "https://telegra.ph/file/0603cbdf61796fac8bcda.jpg",
+        "https://telegra.ph/file/3e6caf099d8389da933cb.jpg",
+        "https://telegra.ph/file/1c3a333077a75281e1b5c.jpg",
+        "https://telegra.ph/file/001acfea0601ce0a63b1c.jpg",
+        "https://telegra.ph/file/9f95bd22cdf047f577a63.jpg",
+        "https://telegra.ph/file/51349f7bd0f97eebaf0ab.jpg"
+    ]
+};

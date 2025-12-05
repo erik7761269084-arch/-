@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1878,
+    "title": "[あいらんどう] 妹が負けるわけない! (COMIC LO 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/あいらんどう-妹が負けるわけない-COMIC-LO-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/25b03bfa4af4b45065b0d.jpg",
+        "https://telegra.ph/file/c1910730f70b2ea3d7f8a.jpg",
+        "https://telegra.ph/file/1819ee5a8e924ebaacc29.jpg",
+        "https://telegra.ph/file/113fdbebca79094d7991a.jpg",
+        "https://telegra.ph/file/72ce0ec497803d07af9a2.jpg",
+        "https://telegra.ph/file/c9357b15b076213bdf549.jpg",
+        "https://telegra.ph/file/4596d0d70eb3dffbd0414.jpg",
+        "https://telegra.ph/file/28e203762bfc50b4a13d2.jpg",
+        "https://telegra.ph/file/2d092cb8e4226ceb89e5c.jpg",
+        "https://telegra.ph/file/9f9a7a1f9e55ca07d7d4b.jpg",
+        "https://telegra.ph/file/857232896f499076c6072.jpg",
+        "https://telegra.ph/file/ff2226ba62cc600217ca9.jpg",
+        "https://telegra.ph/file/ba3e9fa52542e6679ecf8.jpg",
+        "https://telegra.ph/file/37ec9f1ee1ee981409193.jpg",
+        "https://telegra.ph/file/357a043362616643a77e4.jpg",
+        "https://telegra.ph/file/abac51cdebdef55a20ef2.jpg",
+        "https://telegra.ph/file/2e07deadca9969fe04244.jpg",
+        "https://telegra.ph/file/4e4355bf1e2b1e85f60b2.jpg",
+        "https://telegra.ph/file/526e3b7784812f8e6769a.jpg",
+        "https://telegra.ph/file/e0d1593c442a99932cd62.jpg",
+        "https://telegra.ph/file/9d2df73cdba8daa2f7b0e.jpg",
+        "https://telegra.ph/file/d43340436c118aa7b6c1e.jpg",
+        "https://telegra.ph/file/3b11b6a65a76934f83657.jpg",
+        "https://telegra.ph/file/acefd98287e7ac01bbaa0.jpg",
+        "https://telegra.ph/file/6f06839a90542fe3652bf.jpg"
+    ]
+};

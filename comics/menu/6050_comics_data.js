@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6050,
+    "title": "[市川劇版社 (市川和秀)] 突擊拉麺漢道",
+    "sourceUrl": "https://telegra.ph/市川劇版社-市川和秀-突擊拉麺漢道-08-31",
+    "images": [
+        "https://telegra.ph/file/46bcaae584549ff508aa3.jpg",
+        "https://telegra.ph/file/04713d66205105226a255.jpg",
+        "https://telegra.ph/file/f79300edc013e6a396a1e.jpg",
+        "https://telegra.ph/file/f7d4faae7c7575ae59445.jpg",
+        "https://telegra.ph/file/cc0f367481b6e3e394b2d.jpg",
+        "https://telegra.ph/file/58d7abe530b1fd0b2c9a1.jpg",
+        "https://telegra.ph/file/15b9589feb98aed881d6d.jpg",
+        "https://telegra.ph/file/ae5fcdc2b2dde1fda1519.jpg",
+        "https://telegra.ph/file/0ef47af75b09e841abde0.jpg",
+        "https://telegra.ph/file/90117751c615364b2515b.jpg",
+        "https://telegra.ph/file/43471a561f78524cf7939.jpg",
+        "https://telegra.ph/file/1c3342fdda4ff2d26a633.jpg",
+        "https://telegra.ph/file/02a3773aaca5e8f414455.jpg",
+        "https://telegra.ph/file/156b2ed0008137781eb7c.jpg",
+        "https://telegra.ph/file/65b4f0a36bf08795ecc83.jpg",
+        "https://telegra.ph/file/ec4fd0867d52fff0a4862.jpg",
+        "https://telegra.ph/file/1fd41d2fac65d0666a602.jpg",
+        "https://telegra.ph/file/8bd52e0b21e4be8cc0744.jpg",
+        "https://telegra.ph/file/bfd924e10e112b8b91b74.jpg",
+        "https://telegra.ph/file/29aa5d2660fd2dc293274.jpg",
+        "https://telegra.ph/file/00046a7332454521b8326.jpg",
+        "https://telegra.ph/file/d82259f4c0060bc1f6a53.jpg",
+        "https://telegra.ph/file/43a6347e1441f2743a51d.jpg",
+        "https://telegra.ph/file/cae0faf0bc536fbb5a53d.jpg"
+    ]
+};

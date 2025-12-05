@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7542,
+    "title": "純欲解放区 1号室",
+    "sourceUrl": "https://telegra.ph/純欲解放区-1号室-08-31",
+    "images": [
+        "https://telegra.ph/file/73af29a6f69de8be83257.jpg",
+        "https://telegra.ph/file/758f1e915e195710321e6.jpg",
+        "https://telegra.ph/file/2cd2d558c7f67e5ef8a4e.jpg",
+        "https://telegra.ph/file/a909121b0aaf809b61208.jpg",
+        "https://telegra.ph/file/08a1cf9f8baee8f1129c9.jpg",
+        "https://telegra.ph/file/435565807fac1ad67cd16.jpg",
+        "https://telegra.ph/file/d7427bcee12e44b82b250.jpg",
+        "https://telegra.ph/file/5b9e9ed5436b543cb70dd.jpg",
+        "https://telegra.ph/file/31aa789e0fe0f7c6820bf.jpg",
+        "https://telegra.ph/file/a504ad4734862591da33b.jpg",
+        "https://telegra.ph/file/29a84c5801de879800d47.jpg",
+        "https://telegra.ph/file/a4b50c015ef74f83d2f6b.jpg",
+        "https://telegra.ph/file/711197104dc7b28dc5070.jpg",
+        "https://telegra.ph/file/94e33af2b19900e4647c7.jpg",
+        "https://telegra.ph/file/1507d5f01d8ba43fee905.jpg",
+        "https://telegra.ph/file/1c5a0841f9b96c2dec2df.jpg",
+        "https://telegra.ph/file/3b82892c5b92adb1c3cbb.jpg",
+        "https://telegra.ph/file/f16960eafad28d6ad14e9.jpg",
+        "https://telegra.ph/file/c469794eb4b2b34683240.jpg",
+        "https://telegra.ph/file/9f34b5f4b5145735a4858.jpg",
+        "https://telegra.ph/file/db0e29f06778f05f3e697.jpg",
+        "https://telegra.ph/file/41fe25a0b261b11f6df9a.jpg",
+        "https://telegra.ph/file/2d4bbbc62475a2f2ebf10.jpg",
+        "https://telegra.ph/file/a51ecbb251bbbd6d2bf03.jpg"
+    ]
+};

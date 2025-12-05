@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4832,
+    "title": "(C83) [洋蘭堂 (すぎぢー)] もしかと もしもカトレアさんが隣に引っ越してきたら… (クイーンズブレイド)",
+    "sourceUrl": "https://telegra.ph/C83-洋蘭堂-すぎぢー-もしかと-もしもカトレアさんが隣に引っ越してきたら-クイーンズブレイド-08-31",
+    "images": [
+        "https://telegra.ph/file/102b48f3a788f2c52e1a1.jpg",
+        "https://telegra.ph/file/2d21f94726ead5edaab6a.jpg",
+        "https://telegra.ph/file/ecbde5c99e1de5cc76437.jpg",
+        "https://telegra.ph/file/96a6ef9c93496d5bb7452.jpg",
+        "https://telegra.ph/file/29dcfe3a62f3da6c6458d.jpg",
+        "https://telegra.ph/file/ee56bb733207fa808867a.jpg",
+        "https://telegra.ph/file/342d74397ccb3f0b3850d.jpg",
+        "https://telegra.ph/file/bb71f857f2a43b78d1086.jpg",
+        "https://telegra.ph/file/581f568c373f64aab1511.jpg",
+        "https://telegra.ph/file/d61da944548bc22745762.jpg",
+        "https://telegra.ph/file/7b96a83531c6adadadb51.jpg",
+        "https://telegra.ph/file/f928aefcdb9b7980fcbb2.jpg",
+        "https://telegra.ph/file/22ca2fb398b4608b77118.jpg",
+        "https://telegra.ph/file/be792d6b18dfe975213e2.jpg",
+        "https://telegra.ph/file/d577bc9a31d040a3c970c.jpg",
+        "https://telegra.ph/file/412ae16c6b411dffafeed.jpg",
+        "https://telegra.ph/file/bf682c07ce9acf265e434.jpg",
+        "https://telegra.ph/file/036cc6c7d259979675c0a.jpg",
+        "https://telegra.ph/file/7733ed883748b0119a009.jpg",
+        "https://telegra.ph/file/d731fb97afb6caf4efac9.jpg",
+        "https://telegra.ph/file/b09bd6128943641090eba.jpg",
+        "https://telegra.ph/file/e6f2626428cdf6572c6a1.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4448,
+    "title": "[秋草ぺぺろん] 逃げ切れない肉便器 (もっつぁれら)",
+    "sourceUrl": "https://telegra.ph/秋草ぺぺろん-逃げ切れない肉便器-もっつぁれら-08-31",
+    "images": [
+        "https://telegra.ph/file/7558b1787e94eb3c82fa0.jpg",
+        "https://telegra.ph/file/164229e790c98612b37eb.jpg",
+        "https://telegra.ph/file/30c68896b0bbf7aa08e70.jpg",
+        "https://telegra.ph/file/15126feae740a143bbc01.jpg",
+        "https://telegra.ph/file/aea96b04aaa2e643c3e0c.jpg",
+        "https://telegra.ph/file/d13bf7b897ad99899d525.jpg",
+        "https://telegra.ph/file/2831f7a549131b9551e01.jpg",
+        "https://telegra.ph/file/2adfbd4a0b2629e96649b.jpg",
+        "https://telegra.ph/file/d7a3f5e0aabe4019b7ea4.jpg",
+        "https://telegra.ph/file/5f26571717a8d2682eeef.jpg",
+        "https://telegra.ph/file/e1fd917d444be2ccf538c.jpg",
+        "https://telegra.ph/file/6ae8aaf6503a6836adbb0.jpg",
+        "https://telegra.ph/file/05f5b0ff529921913f679.jpg",
+        "https://telegra.ph/file/77afdfc24bf3b09e930f8.jpg",
+        "https://telegra.ph/file/f2f6fae36a26d48050b11.jpg",
+        "https://telegra.ph/file/34282dec7b6e1714b5ef4.jpg",
+        "https://telegra.ph/file/10958f02cf9dfc6a45b1c.jpg",
+        "https://telegra.ph/file/fa76792e21cc3b6c07af2.jpg",
+        "https://telegra.ph/file/4b4a3a58a81348eb6716f.jpg",
+        "https://telegra.ph/file/988998bf0d0383e6b4469.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

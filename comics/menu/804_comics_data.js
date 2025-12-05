@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 804,
+    "title": "[孝至] 怪盗少女ホーリールルナ (コミックアンリアル 2022年2月号 Vol.95)",
+    "sourceUrl": "https://telegra.ph/孝至-怪盗少女ホーリールルナ-コミックアンリアル-2022年2月号-Vol95-08-31",
+    "images": [
+        "https://telegra.ph/file/652f0a1ab6f9ed1ece417.jpg",
+        "https://telegra.ph/file/9b2b1771c05bee8665311.jpg",
+        "https://telegra.ph/file/1dc169773821d0f68ab5a.jpg",
+        "https://telegra.ph/file/edabaa5a4da48ee634995.jpg",
+        "https://telegra.ph/file/5593cbea001fa7f633bf3.jpg",
+        "https://telegra.ph/file/0811564214e8a992df470.jpg",
+        "https://telegra.ph/file/ea2baf1539d1a42859ede.jpg",
+        "https://telegra.ph/file/34115492abec3b2fa8a74.jpg",
+        "https://telegra.ph/file/c8b93fec74b6ff83991c0.jpg",
+        "https://telegra.ph/file/1ef4f94d4d0d0a69730e4.jpg",
+        "https://telegra.ph/file/6ef9e0627a2e213434a1d.jpg",
+        "https://telegra.ph/file/48ef1102a423b60b64aeb.jpg",
+        "https://telegra.ph/file/5a57e70e766ebcdc01e83.jpg",
+        "https://telegra.ph/file/f66b9c5b543d3a0986780.jpg",
+        "https://telegra.ph/file/6b93168bae8cd79e470b6.jpg",
+        "https://telegra.ph/file/68089a1b86c7b84bc0a22.jpg",
+        "https://telegra.ph/file/f5adbd2ef8885f83349cc.jpg",
+        "https://telegra.ph/file/2cf90f917355147ebf32d.jpg",
+        "https://telegra.ph/file/3403bac64fa65d0cccfd1.jpg",
+        "https://telegra.ph/file/9f0a995c8b07e8c6d86e5.jpg",
+        "https://telegra.ph/file/bd91c6622967dfddd45e4.jpg",
+        "https://telegra.ph/file/22f24e2c8cf166e8dd9e1.jpg",
+        "https://telegra.ph/file/d962f1f542655db5de5af.jpg",
+        "https://telegra.ph/file/68a89f39b65684272c1d6.jpg",
+        "https://telegra.ph/file/07b9328841552239864d8.jpg"
+    ]
+};

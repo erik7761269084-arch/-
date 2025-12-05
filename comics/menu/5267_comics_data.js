@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5267,
+    "title": "[あるるもらんど (あるるも)] 千鳥ミチルの房中術 (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/あるるもらんど-あるるも-千鳥ミチルの房中術-ブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/072765ecc79eaf2f2a690.jpg",
+        "https://telegra.ph/file/2feb8583aae97a8ec730f.jpg",
+        "https://telegra.ph/file/9b8b6c3979e86ca711e33.jpg",
+        "https://telegra.ph/file/c33ff8d35ee3e4b7b102f.jpg",
+        "https://telegra.ph/file/ed12d58d08bd7c7ca737b.jpg",
+        "https://telegra.ph/file/a608346588cb3d1a2cb0e.jpg",
+        "https://telegra.ph/file/a2b2aa4f8e1ba5f485fb8.jpg",
+        "https://telegra.ph/file/ba1446e81490730456186.jpg",
+        "https://telegra.ph/file/639fa4ba8fc1d189ce4c7.jpg",
+        "https://telegra.ph/file/5613b953f0830d690976b.jpg",
+        "https://telegra.ph/file/e7dd2ac259646523df004.jpg",
+        "https://telegra.ph/file/3828c22d5e325ce41aefd.jpg",
+        "https://telegra.ph/file/e43d7cc27bb344f46269f.jpg",
+        "https://telegra.ph/file/88087b150cb6662bcea4e.jpg",
+        "https://telegra.ph/file/7aa034552090b0184116c.jpg",
+        "https://telegra.ph/file/54767cbc7199541cfeef6.jpg",
+        "https://telegra.ph/file/9ed66c0e9cdd3b4f9803f.jpg",
+        "https://telegra.ph/file/b0b2a9dd9671ec1ce3544.jpg",
+        "https://telegra.ph/file/133ef18c3988098e81b69.jpg",
+        "https://telegra.ph/file/d21915967e84db5b38ff0.jpg",
+        "https://telegra.ph/file/993ac6dab0ec9783bbb2f.jpg",
+        "https://telegra.ph/file/0fcfe95a2debd637eeda6.jpg",
+        "https://telegra.ph/file/c3190a22eed7021c12391.jpg",
+        "https://telegra.ph/file/aa8a9589bc049f5e187ff.jpg"
+    ]
+};

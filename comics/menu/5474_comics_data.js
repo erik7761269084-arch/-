@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5474,
+    "title": "[丸居まる] おとな用過保護",
+    "sourceUrl": "https://telegra.ph/丸居まる-おとな用過保護-08-31",
+    "images": [
+        "https://telegra.ph/file/4d914ba576b6858ba9aa1.jpg",
+        "https://telegra.ph/file/3ec7af92eca3f21103760.jpg",
+        "https://telegra.ph/file/a5b9db47cfab3165d9d06.jpg",
+        "https://telegra.ph/file/98b8a85a3741c2e492a95.jpg",
+        "https://telegra.ph/file/175450b971ba2b085d89f.jpg",
+        "https://telegra.ph/file/f5424eb07d0499e01c748.jpg",
+        "https://telegra.ph/file/a86501df4a95d74da90cd.jpg",
+        "https://telegra.ph/file/2312570afcc02a7ec204d.jpg",
+        "https://telegra.ph/file/a9de9e18a8bb32aa54cfb.jpg",
+        "https://telegra.ph/file/eec576e95b92e269fd379.jpg",
+        "https://telegra.ph/file/b79d7a083fe357702d9dd.jpg",
+        "https://telegra.ph/file/07f40b1af474530f0e449.jpg",
+        "https://telegra.ph/file/7b560cd2b0a31f8b6ead2.jpg",
+        "https://telegra.ph/file/46ec5d00738191e77ee3a.jpg",
+        "https://telegra.ph/file/3fbd9c9266ceb49b8e32e.jpg",
+        "https://telegra.ph/file/6121bb441eadd9ce86b6b.jpg",
+        "https://telegra.ph/file/18299619eb37a9579c3de.jpg",
+        "https://telegra.ph/file/846868061c233bca08f96.jpg",
+        "https://telegra.ph/file/20f3e027ec891bd6b2f1a.jpg",
+        "https://telegra.ph/file/25d6d4878a974e411015e.jpg",
+        "https://telegra.ph/file/922352c57773e97390da6.jpg",
+        "https://telegra.ph/file/26cd0d0e2bf091eaac09c.jpg",
+        "https://telegra.ph/file/cf09201d87a2f6824e578.jpg",
+        "https://telegra.ph/file/bc8b8376363b0ebeff1a3.jpg",
+        "https://telegra.ph/file/36dbc5c04b5dfbc897708.jpg"
+    ]
+};

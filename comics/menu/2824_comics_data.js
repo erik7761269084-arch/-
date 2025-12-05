@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2824,
+    "title": "ウサJO][栗子汉化]Pixiv:67434721",
+    "sourceUrl": "https://telegra.ph/ウサJO栗子汉化Pixiv67434721-08-31",
+    "images": [
+        "https://telegra.ph/file/a52df0890671995db0d08.jpg",
+        "https://telegra.ph/file/763e3bbedfcd31843249f.jpg",
+        "https://telegra.ph/file/dc0e3b03011f07f90de65.jpg",
+        "https://telegra.ph/file/b5619809d048c52e4d70a.jpg",
+        "https://telegra.ph/file/f6aa5a629b32cf71a1e23.jpg",
+        "https://telegra.ph/file/643da18dc5872df19ff09.jpg",
+        "https://telegra.ph/file/cdc5831fda84442158272.jpg",
+        "https://telegra.ph/file/7dce1682ac31f52c505d0.jpg",
+        "https://telegra.ph/file/a4760750ae540a9cb93db.jpg",
+        "https://telegra.ph/file/757c0e2cf5e36a6742eaa.jpg",
+        "https://telegra.ph/file/f14e3c805d771e23b366f.jpg",
+        "https://telegra.ph/file/79f16d9c14195c562bdc9.jpg",
+        "https://telegra.ph/file/c691ed4fd8a177d7e771a.jpg",
+        "https://telegra.ph/file/f05edeee56d194fb5470e.jpg",
+        "https://telegra.ph/file/f95beeb25fe0443097ad8.jpg",
+        "https://telegra.ph/file/3d268a651955d8016463c.jpg",
+        "https://telegra.ph/file/fe6c77562dfdbaeb18037.jpg",
+        "https://telegra.ph/file/91620ea3d05082fb6c07a.jpg",
+        "https://telegra.ph/file/12f59a70edc1733cc2978.jpg",
+        "https://telegra.ph/file/2b010be93a8ba2fc9f057.jpg",
+        "https://telegra.ph/file/4e895e2e6d7ebfe5d869a.jpg",
+        "https://telegra.ph/file/e0c75dea0c22247441e1c.jpg",
+        "https://telegra.ph/file/d29abf7d391ae3a503633.jpg",
+        "https://telegra.ph/file/1178d1e39f806e75fff6c.jpg",
+        "https://telegra.ph/file/c7caa67f2a76f8136d547.jpg"
+    ]
+};

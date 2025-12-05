@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1262,
+    "title": "[ACはせべ] 実姉よしよし (COMIC 真激 2019年3月号)",
+    "sourceUrl": "https://telegra.ph/ACはせべ-実姉よしよし-COMIC-真激-2019年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/03460159b51f07d581a2d.jpg",
+        "https://telegra.ph/file/bd72b0581a18c9b3cfccc.jpg",
+        "https://telegra.ph/file/a3c286b9ce731c95e5a2f.jpg",
+        "https://telegra.ph/file/105f5045838927b22db59.jpg",
+        "https://telegra.ph/file/4ab7e8fe9f3cb782ccf11.jpg",
+        "https://telegra.ph/file/f610656f3213d0fc77d3a.jpg",
+        "https://telegra.ph/file/f6a0356e814b9b6aa4fc8.jpg",
+        "https://telegra.ph/file/5d4b862c8cc1e8608b3e0.jpg",
+        "https://telegra.ph/file/4d5e4509eba99fe830462.jpg",
+        "https://telegra.ph/file/ca7bd8354bbc6b01f4651.jpg",
+        "https://telegra.ph/file/4e8c49f60bf5edd91f0f3.jpg",
+        "https://telegra.ph/file/5c48f75bb69943f23cfbb.jpg",
+        "https://telegra.ph/file/4a542953f3251a846c3bd.jpg",
+        "https://telegra.ph/file/9a8c90c0374ce5d603035.jpg",
+        "https://telegra.ph/file/57d3097f4f022bf792672.jpg",
+        "https://telegra.ph/file/b774f28beebef10488053.jpg",
+        "https://telegra.ph/file/5c62d8f3a5393fcd96b0a.jpg",
+        "https://telegra.ph/file/4f23c5c1165fb6281fcb0.jpg",
+        "https://telegra.ph/file/639ae66bb0e7ac2c1f020.jpg",
+        "https://telegra.ph/file/d63c3d4d7a558b965cf4c.jpg",
+        "https://telegra.ph/file/8b6afbca3f3c54ea0b103.jpg",
+        "https://telegra.ph/file/30a45b40c87ad533a6c29.jpg",
+        "https://telegra.ph/file/cffca5a16a5929ddd173f.jpg",
+        "https://telegra.ph/file/0dee44c4285eac6ea466a.jpg"
+    ]
+};

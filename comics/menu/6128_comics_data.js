@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6128,
+    "title": "[しょむ] シン アウト！",
+    "sourceUrl": "https://telegra.ph/しょむ-シン-アウト-08-31",
+    "images": [
+        "https://telegra.ph/file/ae94c07796e89b77c279b.jpg",
+        "https://telegra.ph/file/a9f6a5b3963e99c3b9465.jpg",
+        "https://telegra.ph/file/48eb1ed9e3623f37947bd.jpg",
+        "https://telegra.ph/file/db2538d651c0866c2bc1b.jpg",
+        "https://telegra.ph/file/6169fc67b9988f5e5cab1.jpg",
+        "https://telegra.ph/file/c8374585e1c8246cae260.jpg",
+        "https://telegra.ph/file/d925a40db24bccb7d7be4.jpg",
+        "https://telegra.ph/file/291e9f57d5b718cab5c45.jpg",
+        "https://telegra.ph/file/6c93ed3dc1f37ca7bb3e9.jpg",
+        "https://telegra.ph/file/ffb7341acd8aefafc9ade.jpg",
+        "https://telegra.ph/file/3af3718ec759bdd9a7706.jpg",
+        "https://telegra.ph/file/901011110089ffd5e4335.jpg",
+        "https://telegra.ph/file/4ae863bae2b18b47eea14.jpg",
+        "https://telegra.ph/file/be1bc9b4f2f0defac807b.jpg",
+        "https://telegra.ph/file/810ecf1e74384fc8f6ca3.jpg",
+        "https://telegra.ph/file/474d6e3b6df4a5b329c73.jpg",
+        "https://telegra.ph/file/985d70910f0762fd66f99.jpg",
+        "https://telegra.ph/file/3e4d731d71a6d4c160293.jpg",
+        "https://telegra.ph/file/84dabe2de5c8ce05e2e27.jpg",
+        "https://telegra.ph/file/8f6158664b82598873579.jpg",
+        "https://telegra.ph/file/5f3377950e68563aee518.jpg",
+        "https://telegra.ph/file/02f0e09e61fd04fecce5e.jpg",
+        "https://telegra.ph/file/7bc478e860f3140c67929.jpg",
+        "https://telegra.ph/file/0e616cba0e1f4b9fac5d6.jpg"
+    ]
+};

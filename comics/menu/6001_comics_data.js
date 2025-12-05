@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6001,
+    "title": "[けものの★] シビりあん・コントロール (DOGGY♥MAGGY♥)",
+    "sourceUrl": "https://telegra.ph/けものの-シビりあんコントロール-DOGGYMAGGY-08-31",
+    "images": [
+        "https://telegra.ph/file/a787ab0c8614ee1944415.jpg",
+        "https://telegra.ph/file/e5803191b8e656b09bd9e.jpg",
+        "https://telegra.ph/file/f32574e1278473b481a8f.jpg",
+        "https://telegra.ph/file/5a628db308584dbd3c2f2.jpg",
+        "https://telegra.ph/file/be89c072a37b3fc755a23.jpg",
+        "https://telegra.ph/file/01220aa0bfb5dd5c428fe.jpg",
+        "https://telegra.ph/file/08003440f2fa211548f73.jpg",
+        "https://telegra.ph/file/8aae9befdc176e5be7131.jpg",
+        "https://telegra.ph/file/4e31fdd9307e30ff39a0b.jpg",
+        "https://telegra.ph/file/f3aed0cebee7894d4a039.jpg",
+        "https://telegra.ph/file/a492abfa29e5894f137bf.jpg",
+        "https://telegra.ph/file/7099a5fa61904d59748d2.jpg",
+        "https://telegra.ph/file/65ad5831ab02e8e69a921.jpg",
+        "https://telegra.ph/file/477707510c1dda1dc2b9c.jpg",
+        "https://telegra.ph/file/081c302de91d788c279ce.jpg",
+        "https://telegra.ph/file/d4a0efee123fd2ab5a52a.jpg",
+        "https://telegra.ph/file/87031a92c4f9709e4e961.jpg",
+        "https://telegra.ph/file/d8403c21a4ec3ff89c33a.jpg",
+        "https://telegra.ph/file/c9dde98e40946035bde1a.jpg",
+        "https://telegra.ph/file/9523931e645c9da480653.jpg",
+        "https://telegra.ph/file/0ac7724b61b2ed31f29ce.jpg",
+        "https://telegra.ph/file/b21c1b09e40a1c6c5b848.jpg",
+        "https://telegra.ph/file/f5ce158b1b5810f7a6df9.jpg",
+        "https://telegra.ph/file/db1c32ba174e8a52be487.jpg",
+        "https://telegra.ph/file/41ced2db9f6d6d0ff15a0.jpg",
+        "https://telegra.ph/file/4e77941de1eaf6ca8ee3c.jpg"
+    ]
+};

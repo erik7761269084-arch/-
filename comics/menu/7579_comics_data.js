@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7579,
+    "title": "歪愛",
+    "sourceUrl": "https://telegra.ph/歪愛-08-31",
+    "images": [
+        "https://telegra.ph/file/1d88d9c5e7d2092fc102a.jpg",
+        "https://telegra.ph/file/375fe0c6ff447a8313c24.jpg",
+        "https://telegra.ph/file/3ebbc12e9f5d0a93d4cb0.jpg",
+        "https://telegra.ph/file/016c0614eea5ad5603705.jpg",
+        "https://telegra.ph/file/412e1199725e01bbb6092.jpg",
+        "https://telegra.ph/file/0f116addb652c3decbeb6.jpg",
+        "https://telegra.ph/file/0d4e56f36cd17fa965aae.jpg",
+        "https://telegra.ph/file/c735f33e9568cc2d6e4f6.jpg",
+        "https://telegra.ph/file/b922067c99f48b84144e2.jpg",
+        "https://telegra.ph/file/6035e5a09d76a35308144.jpg",
+        "https://telegra.ph/file/4659d0ce401ee750bfeb6.jpg",
+        "https://telegra.ph/file/07d21c085de12b5f73b20.jpg",
+        "https://telegra.ph/file/e057776e7c2c661d97c8f.jpg",
+        "https://telegra.ph/file/06b1f99ead2a9d664251a.jpg",
+        "https://telegra.ph/file/91e22d24db5dfece25673.jpg",
+        "https://telegra.ph/file/91235f535b110e9abcab7.jpg",
+        "https://telegra.ph/file/0e221c1f4ec8c752bb722.jpg",
+        "https://telegra.ph/file/151b10604bfa9c1746907.jpg",
+        "https://telegra.ph/file/ca99136ad2cab073b4ebc.jpg",
+        "https://telegra.ph/file/9b29e22941c33ed82af10.jpg",
+        "https://telegra.ph/file/d2716182703204e8bb46b.jpg",
+        "https://telegra.ph/file/d41074f42ae60283a9ba7.jpg",
+        "https://telegra.ph/file/a1fbaa880403fead67f19.jpg",
+        "https://telegra.ph/file/75dfb8e1a51f0a84fdaf3.jpg"
+    ]
+};

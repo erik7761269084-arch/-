@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3192,
+    "title": "[EBA] ラブホイール 第二話 (COMIC アンスリウム 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/EBA-ラブホイール-第二話-COMIC-アンスリウム-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/8fdc8118f3aa1f4083dfd.jpg",
+        "https://telegra.ph/file/23b84b5932cd3e8bbed86.jpg",
+        "https://telegra.ph/file/2c2b0fc35743939e62ad2.jpg",
+        "https://telegra.ph/file/d03de4bb51a9029631b02.jpg",
+        "https://telegra.ph/file/ed6de40d437ad38d8a992.jpg",
+        "https://telegra.ph/file/b5f50ea41b2fa8c8d85f6.jpg",
+        "https://telegra.ph/file/58a34f4b0df54c1e57268.jpg",
+        "https://telegra.ph/file/48f5dd4cd3a8dbb09cbc4.jpg",
+        "https://telegra.ph/file/98a894e537b30dd09df3f.jpg",
+        "https://telegra.ph/file/4db073ae30446c69df321.jpg",
+        "https://telegra.ph/file/66af8890610f0119b9a07.jpg",
+        "https://telegra.ph/file/927db7fedc091419ec0bf.jpg",
+        "https://telegra.ph/file/e0e23dd48c8377aa12da4.jpg",
+        "https://telegra.ph/file/ba8d657c2c25f48809947.jpg",
+        "https://telegra.ph/file/9793bbcdadb7bede8b5c8.jpg",
+        "https://telegra.ph/file/0dca465389a79b27db3c9.jpg",
+        "https://telegra.ph/file/d48beedf4f7442dfc90cb.jpg",
+        "https://telegra.ph/file/db895f69606fc800fdc08.jpg",
+        "https://telegra.ph/file/02b5ca6088d9f9ced96e3.jpg",
+        "https://telegra.ph/file/a082f46907a4fe10bbc5b.jpg",
+        "https://telegra.ph/file/d34afd7f94d9f0d27854f.jpg",
+        "https://telegra.ph/file/ce0e0799eb43a9648c855.jpg",
+        "https://telegra.ph/file/e51a39a1a7d77d3bb484a.jpg",
+        "https://telegra.ph/file/2f046a712356e78f7f922.jpg"
+    ]
+};

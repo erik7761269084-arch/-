@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1597,
+    "title": "[Copin (藍沢ちひろ)] ツン子先生と編集くん",
+    "sourceUrl": "https://telegra.ph/Copin-藍沢ちひろ-ツン子先生と編集くん-08-31",
+    "images": [
+        "https://telegra.ph/file/c4e9268617e7a58a95846.jpg",
+        "https://telegra.ph/file/6c2877f4d9178aaf2e528.jpg",
+        "https://telegra.ph/file/1c5280012284fa6b4a50c.jpg",
+        "https://telegra.ph/file/27b410d54ef823fc582b1.jpg",
+        "https://telegra.ph/file/8326f2b93850b476cae1a.jpg",
+        "https://telegra.ph/file/da4d27fee6c3609badbbf.jpg",
+        "https://telegra.ph/file/19585b3832e30dc3b6881.jpg",
+        "https://telegra.ph/file/d964ac48955b5a0318105.jpg",
+        "https://telegra.ph/file/7c90136b09efa507d5a19.jpg",
+        "https://telegra.ph/file/ca96c0613b0db19b9af1f.jpg",
+        "https://telegra.ph/file/98cb490ea767c1b60b8ef.jpg",
+        "https://telegra.ph/file/15dffda22a4cbd26fbe40.jpg",
+        "https://telegra.ph/file/130fd8f3cf1c1f28ea5d7.jpg",
+        "https://telegra.ph/file/52141decaa2936b47e028.jpg",
+        "https://telegra.ph/file/95f9a802fccaa57dd33c8.jpg",
+        "https://telegra.ph/file/fd2becb1acde30a3df1f8.jpg",
+        "https://telegra.ph/file/bf2455b6843e94608328b.jpg",
+        "https://telegra.ph/file/7c93ede37325c20a64808.jpg",
+        "https://telegra.ph/file/e3758ca6f9696d2089ef9.jpg",
+        "https://telegra.ph/file/a8771fb43dde17e7624ff.jpg",
+        "https://telegra.ph/file/1c02f160f11c9e7958407.jpg",
+        "https://telegra.ph/file/f5a37302323924004819b.jpg",
+        "https://telegra.ph/file/b0c3b95736f27b4abdfdd.jpg",
+        "https://telegra.ph/file/8f6b5c20291a4f4df5037.jpg",
+        "https://telegra.ph/file/bc3e14456e23540df4ee6.jpg"
+    ]
+};

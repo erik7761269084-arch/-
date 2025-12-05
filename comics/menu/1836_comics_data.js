@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1836,
+    "title": "[俵緋龍] ビッチ熟女の小遣い稼ぎ (コミックグレープ Vol.88)",
+    "sourceUrl": "https://telegra.ph/俵緋龍-ビッチ熟女の小遣い稼ぎ-コミックグレープ-Vol88-08-31",
+    "images": [
+        "https://telegra.ph/file/bb5b9ebbff070d7a95d3e.jpg",
+        "https://telegra.ph/file/67cb04165c9317d24a7ca.jpg",
+        "https://telegra.ph/file/431be11d3c4fa129a7e3c.jpg",
+        "https://telegra.ph/file/c936cd41c9c45107edfc6.jpg",
+        "https://telegra.ph/file/77d5808e5fb25e9f6e303.jpg",
+        "https://telegra.ph/file/85b9288ebf7ea18df999f.jpg",
+        "https://telegra.ph/file/cc4ffe64342851564b90c.jpg",
+        "https://telegra.ph/file/ca3b8042a7379d3489ab6.jpg",
+        "https://telegra.ph/file/059f6fcceaef807905845.jpg",
+        "https://telegra.ph/file/48f153aabc3cda72aaec5.jpg",
+        "https://telegra.ph/file/87017af555beb0f484ad3.jpg",
+        "https://telegra.ph/file/26cdadb6c3fe4f81ef07b.jpg",
+        "https://telegra.ph/file/12c43044598d036a0f922.jpg",
+        "https://telegra.ph/file/415cf9311fea807bf357d.jpg",
+        "https://telegra.ph/file/3645afeaa26f2f693f7aa.jpg",
+        "https://telegra.ph/file/aa5290739c249d30e6c9b.jpg",
+        "https://telegra.ph/file/75ce552918f6877748216.jpg",
+        "https://telegra.ph/file/08fb86e1c2e1d988a15dd.jpg",
+        "https://telegra.ph/file/ef4da279329ca0e0cbb69.jpg",
+        "https://telegra.ph/file/f5c235a94ad38b7571ce4.jpg",
+        "https://telegra.ph/file/817665a59869e46761fc0.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg"
+    ]
+};

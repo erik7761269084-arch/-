@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5598,
+    "title": "[彦馬ヒロユキ] ネトリサス",
+    "sourceUrl": "https://telegra.ph/彦馬ヒロユキ-ネトリサス-08-31",
+    "images": [
+        "https://telegra.ph/file/3f4f5a209cedbe1d7872b.jpg",
+        "https://telegra.ph/file/a7177796ab06a3c222b1c.jpg",
+        "https://telegra.ph/file/e88f971061c4722f2b588.jpg",
+        "https://telegra.ph/file/e79b1fc27d8c269895b50.jpg",
+        "https://telegra.ph/file/87f9c8982376d192291ff.jpg",
+        "https://telegra.ph/file/152d0702f87f1951908ce.jpg",
+        "https://telegra.ph/file/4fc062b67cfbb372f3791.jpg",
+        "https://telegra.ph/file/9e32b1059b4a4d193d8f3.jpg",
+        "https://telegra.ph/file/dc940e1292cfcfbb4fdf7.jpg",
+        "https://telegra.ph/file/3244d2e906ebdb3f19931.jpg",
+        "https://telegra.ph/file/8c98018a3b67d8b1c4177.jpg",
+        "https://telegra.ph/file/ae0a33986391f5dd4fb75.jpg",
+        "https://telegra.ph/file/bdd8d8987a475558bcdf2.jpg",
+        "https://telegra.ph/file/0e38a5eff92dfeff7ae49.jpg",
+        "https://telegra.ph/file/6af4330163ea92868caa0.jpg",
+        "https://telegra.ph/file/20289bfa7bc605ebd06f5.jpg",
+        "https://telegra.ph/file/893541a6ac4f1b0e251a9.jpg",
+        "https://telegra.ph/file/fe42897653f9ed77ac172.jpg",
+        "https://telegra.ph/file/81268d5d041e12f17b890.jpg",
+        "https://telegra.ph/file/93a0cf9dc97c8c6e7c676.jpg",
+        "https://telegra.ph/file/29a98cb0d6b209307f319.jpg",
+        "https://telegra.ph/file/b4759a29b99e57c521bea.jpg",
+        "https://telegra.ph/file/79fe9289d3d39baa0070c.jpg",
+        "https://telegra.ph/file/2cf6d200d89ff5a4db4dd.jpg",
+        "https://telegra.ph/file/89b80deb0b3430a5ad38f.jpg",
+        "https://telegra.ph/file/2585c8e37777d7d199aa8.jpg"
+    ]
+};

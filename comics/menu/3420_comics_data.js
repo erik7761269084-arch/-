@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3420,
+    "title": "[楝蛙] 似た者どうし (COMIC 快楽天 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/楝蛙-似た者どうし-COMIC-快楽天-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c48721d6e269e997ac54f.jpg",
+        "https://telegra.ph/file/22db7f635162b229d06fe.jpg",
+        "https://telegra.ph/file/283205da0ae5ab59ec04a.jpg",
+        "https://telegra.ph/file/63a0642150271a8d357ce.jpg",
+        "https://telegra.ph/file/199bcca9a6fa8ca207748.jpg",
+        "https://telegra.ph/file/9f5023047ec25db118d4b.jpg",
+        "https://telegra.ph/file/d0169977ebc6c69cdf1a8.jpg",
+        "https://telegra.ph/file/7b27fc4f422dc61283a9e.jpg",
+        "https://telegra.ph/file/0f2c121561c84c0c72368.jpg",
+        "https://telegra.ph/file/1a7fc19f31b39f7d54513.jpg",
+        "https://telegra.ph/file/d95c69469115d3c487b30.jpg",
+        "https://telegra.ph/file/35393d5dc90fef268b6b0.jpg",
+        "https://telegra.ph/file/6136f2bb1a40bb1de3c13.jpg",
+        "https://telegra.ph/file/83db5982d757bdf12637d.jpg",
+        "https://telegra.ph/file/2b6ced70b090752b75b7a.jpg",
+        "https://telegra.ph/file/37a6caf06d02e8aec2340.jpg",
+        "https://telegra.ph/file/e29fbf4ee83aaad9a31ce.jpg",
+        "https://telegra.ph/file/3b0981788f525d67b1eca.jpg",
+        "https://telegra.ph/file/75cb380cbe7c5ea136df6.jpg",
+        "https://telegra.ph/file/7fc45d10da224d5b964e6.jpg",
+        "https://telegra.ph/file/c222f5e97daede1718cea.jpg",
+        "https://telegra.ph/file/fc7a5ba3a7f3f001fdbd7.jpg",
+        "https://telegra.ph/file/ed8a6c2817ece80e3b124.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

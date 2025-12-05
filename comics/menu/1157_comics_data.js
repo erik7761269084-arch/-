@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1157,
+    "title": "(C80) [B☆STROKE (ひじき)] ジンオウハザード (モンスターハンターポータブル3)",
+    "sourceUrl": "https://telegra.ph/C80-BSTROKE-ひじき-ジンオウハザード-モンスターハンターポータブル3-08-31",
+    "images": [
+        "https://telegra.ph/file/de17ce527e743daa1b320.jpg",
+        "https://telegra.ph/file/eb0c54d0fdb9db7641031.jpg",
+        "https://telegra.ph/file/21d7c0bc17c78ebec2af3.jpg",
+        "https://telegra.ph/file/6a726df94c1d606ee9cde.jpg",
+        "https://telegra.ph/file/6e9d17858ac76adcf10c8.jpg",
+        "https://telegra.ph/file/c5cdc320c283485dc09c7.jpg",
+        "https://telegra.ph/file/d6ce0c4130ea7b066d5e9.jpg",
+        "https://telegra.ph/file/17bfec6e65868aba82fc7.jpg",
+        "https://telegra.ph/file/712cf86bdaafdb533db28.jpg",
+        "https://telegra.ph/file/05b2dafcd2f06638dce11.jpg",
+        "https://telegra.ph/file/dd4937b33aa5f5e9b7038.jpg",
+        "https://telegra.ph/file/514e5aebf6adf93fe5c66.jpg",
+        "https://telegra.ph/file/bde5d296656d51e23d915.jpg",
+        "https://telegra.ph/file/e65067513d4341e48ad78.jpg",
+        "https://telegra.ph/file/5c8e11c443494fabf804b.jpg",
+        "https://telegra.ph/file/1383367bf344c1a3c177a.jpg",
+        "https://telegra.ph/file/3713278f744df255f9c08.jpg",
+        "https://telegra.ph/file/dc573ced65b9cf3b042ad.jpg",
+        "https://telegra.ph/file/6681c51e892f995251c3d.jpg",
+        "https://telegra.ph/file/e86f687356bf8d516ade3.jpg",
+        "https://telegra.ph/file/f8f1723901dc16db91ca5.jpg",
+        "https://telegra.ph/file/228bd72f24775f3aceb96.jpg",
+        "https://telegra.ph/file/f050085ae82813dda0634.jpg",
+        "https://telegra.ph/file/a6c7fb686fcabc68ce93d.jpg",
+        "https://telegra.ph/file/7e4d7cab5244b678fdcd7.jpg",
+        "https://telegra.ph/file/7e73b95c8bd3cdd52faa1.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7311,
+    "title": "なりきり資料撮影オフ",
+    "sourceUrl": "https://telegra.ph/なりきり資料撮影オフ-08-31",
+    "images": [
+        "https://telegra.ph/file/ef73e272e1e9b4489cd2c.jpg",
+        "https://telegra.ph/file/ed9595d600e8bfdaaf462.jpg",
+        "https://telegra.ph/file/153f3d3d7a35bcda0bb60.jpg",
+        "https://telegra.ph/file/65f74712d7bcf29429ca7.jpg",
+        "https://telegra.ph/file/ed765db7754607fa9f68f.jpg",
+        "https://telegra.ph/file/9593e19938b1c94deae8f.jpg",
+        "https://telegra.ph/file/d54d14fa7dae721378b1f.jpg",
+        "https://telegra.ph/file/32536f5ae7cc837276839.jpg",
+        "https://telegra.ph/file/c9879e2df4f786fb8be61.jpg",
+        "https://telegra.ph/file/8f9be5bbccdb26f7fb2a8.jpg",
+        "https://telegra.ph/file/89f11ea89b83ac71ab5b1.jpg",
+        "https://telegra.ph/file/7bb2ec7af0ffbb2e9c2a5.jpg",
+        "https://telegra.ph/file/55a3079991f0e6000397a.jpg",
+        "https://telegra.ph/file/ed71a32f2f6758991aa60.jpg",
+        "https://telegra.ph/file/f71a3c0e53bb4a01d61e2.jpg",
+        "https://telegra.ph/file/4ef05f73a5e6552e7c051.jpg",
+        "https://telegra.ph/file/1319e50bf370cca5d9ebb.jpg",
+        "https://telegra.ph/file/fd35008d169add0ed1840.jpg",
+        "https://telegra.ph/file/b9d836da88bcf96e0ef08.jpg",
+        "https://telegra.ph/file/f902742965eaa1c287c7e.jpg",
+        "https://telegra.ph/file/ea88d49bc7843d77710ea.jpg",
+        "https://telegra.ph/file/23e145f5e034c376035b2.jpg",
+        "https://telegra.ph/file/93413a3b9388702206c91.jpg",
+        "https://telegra.ph/file/dcd425de19a92975b5975.jpg"
+    ]
+};

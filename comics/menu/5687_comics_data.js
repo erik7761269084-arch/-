@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5687,
+    "title": "[彦馬ヒロユキ] 神様ぼしゅう",
+    "sourceUrl": "https://telegra.ph/彦馬ヒロユキ-神様ぼしゅう-08-31",
+    "images": [
+        "https://telegra.ph/file/6adf11df1ee1a8067554b.jpg",
+        "https://telegra.ph/file/d8151535c4464613ff959.jpg",
+        "https://telegra.ph/file/76a60e95bb9de071d7b6d.jpg",
+        "https://telegra.ph/file/180d3be623c22a0c431cb.jpg",
+        "https://telegra.ph/file/4a8e72ed8e0e9d19e4895.jpg",
+        "https://telegra.ph/file/44703f7fb0edb350d1176.jpg",
+        "https://telegra.ph/file/fcdd7c3e70250f158dae5.jpg",
+        "https://telegra.ph/file/28802b717f0fce71c7d15.jpg",
+        "https://telegra.ph/file/53dfe7894f0f0ddeae2a5.jpg",
+        "https://telegra.ph/file/f3eb04b8c96bf7eb87d77.jpg",
+        "https://telegra.ph/file/68c1a557eaff31ba76414.jpg",
+        "https://telegra.ph/file/7b00d5c150d3193e1831f.jpg",
+        "https://telegra.ph/file/fa40e0c63fa183b381b2b.jpg",
+        "https://telegra.ph/file/3a98819efafc9bf01ef75.jpg",
+        "https://telegra.ph/file/60de8275bd8a7050024a5.jpg",
+        "https://telegra.ph/file/e7aa19102067981bd7d31.jpg",
+        "https://telegra.ph/file/3c64ace000b12cc4c2f18.jpg",
+        "https://telegra.ph/file/e169de92bd8aa1e386f69.jpg",
+        "https://telegra.ph/file/745e467fe661716997420.jpg",
+        "https://telegra.ph/file/95bc0e64abbe4f1469127.jpg",
+        "https://telegra.ph/file/299a6be729b82ef860231.jpg",
+        "https://telegra.ph/file/c641446314fd42c4a8d7a.jpg",
+        "https://telegra.ph/file/f0a60e06acb7aa92a4e1a.jpg",
+        "https://telegra.ph/file/14bb1167908ce60e9eeed.jpg"
+    ]
+};

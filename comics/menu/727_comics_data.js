@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 727,
+    "title": "[緋乃ひの] 迷宮の小さな花嫁 (二次元コミックマガジン 縮小化ヒロイン強制オナホール計画 Vol. 2)",
+    "sourceUrl": "https://telegra.ph/緋乃ひの-迷宮の小さな花嫁-二次元コミックマガジン-縮小化ヒロイン強制オナホール計画-Vol-2-08-31",
+    "images": [
+        "https://telegra.ph/file/83d2d0d8eadd37acde766.jpg",
+        "https://telegra.ph/file/53a6e5d65a1cc4586547b.jpg",
+        "https://telegra.ph/file/1889b319da910169b7809.jpg",
+        "https://telegra.ph/file/7649d6f31b108c3316537.jpg",
+        "https://telegra.ph/file/72035a7b10f68dc257042.jpg",
+        "https://telegra.ph/file/6ba881c9123dec046845e.jpg",
+        "https://telegra.ph/file/a8fbbde83e7c2a2faeae6.jpg",
+        "https://telegra.ph/file/f7a0825765c5063bcace7.jpg",
+        "https://telegra.ph/file/a696d366a43755204e866.jpg",
+        "https://telegra.ph/file/747f5a6f214ca628ca947.jpg",
+        "https://telegra.ph/file/b08e01bacbe08dec8609c.jpg",
+        "https://telegra.ph/file/8087b96f8127e39036efe.jpg",
+        "https://telegra.ph/file/95098e87e1591dc9ea225.jpg",
+        "https://telegra.ph/file/7bdc71ff43ea8f67b78cb.jpg",
+        "https://telegra.ph/file/5d81935813926cc34350e.jpg",
+        "https://telegra.ph/file/b072dd194fa2bf47d2a56.jpg",
+        "https://telegra.ph/file/e50fc74e428fc4768063c.jpg",
+        "https://telegra.ph/file/ae0596e4ecf1bc896b3ed.jpg",
+        "https://telegra.ph/file/719a73f643fbec3270f8b.jpg",
+        "https://telegra.ph/file/c380d8af187e241fe6379.jpg",
+        "https://telegra.ph/file/f014bfd1c12ceb8d37014.jpg",
+        "https://telegra.ph/file/4e50a3e2acb1b7d4b063d.jpg",
+        "https://telegra.ph/file/91366803956bfd5890f5a.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg",
+        "https://telegra.ph/file/4ec1f7fbcae73e23ba297.jpg"
+    ]
+};

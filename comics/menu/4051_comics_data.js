@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4051,
+    "title": "[ドラムス] デュアルスワップ 前編 (WEEKLY快楽天 2021 No.29)",
+    "sourceUrl": "https://telegra.ph/ドラムス-デュアルスワップ-前編-WEEKLY快楽天-2021-No29-08-31",
+    "images": [
+        "https://telegra.ph/file/913eac3b17dc230be5f47.jpg",
+        "https://telegra.ph/file/9075c5de88c6e22b69fc5.jpg",
+        "https://telegra.ph/file/09ecb672e4a2b09362858.jpg",
+        "https://telegra.ph/file/dafa6146fb556736defc8.jpg",
+        "https://telegra.ph/file/cc7d46e5ba096e7eb1b01.jpg",
+        "https://telegra.ph/file/e046d7b56f67307d7d812.jpg",
+        "https://telegra.ph/file/daa588a52a75aaf7919ab.jpg",
+        "https://telegra.ph/file/681f5412ca9ec285be18c.jpg",
+        "https://telegra.ph/file/7809c6b1a40fdf63f919a.jpg",
+        "https://telegra.ph/file/02997efdf5e9b119e01c3.jpg",
+        "https://telegra.ph/file/a153a0306bd338d85d890.jpg",
+        "https://telegra.ph/file/55cbc7d45528d5761fc42.jpg",
+        "https://telegra.ph/file/2311a6d0f7fd4db2d19c4.jpg",
+        "https://telegra.ph/file/bc98eb8a294a52050a417.jpg",
+        "https://telegra.ph/file/be17877d72733f6349af7.jpg",
+        "https://telegra.ph/file/6e89213807eb739a2df11.jpg",
+        "https://telegra.ph/file/320a37f5449e0e11450af.jpg",
+        "https://telegra.ph/file/ff550edab74c5a671beb2.jpg",
+        "https://telegra.ph/file/309ef6d8b8e6220ed370e.jpg",
+        "https://telegra.ph/file/4c4753f7dd9b947d61413.jpg",
+        "https://telegra.ph/file/2ae155c9e35cfc80f6a30.jpg",
+        "https://telegra.ph/file/19c641b1b216424f146d7.jpg",
+        "https://telegra.ph/file/21fed1646ece958f3c6e4.jpg",
+        "https://telegra.ph/file/9614ef91d4da2a28d3da2.jpg"
+    ]
+};

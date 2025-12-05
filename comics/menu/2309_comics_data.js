@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2309,
+    "title": "[水谷屋 (みずたにりん)] 凜子パイセンがんばるっ! (対魔忍ユキカゼ)",
+    "sourceUrl": "https://telegra.ph/水谷屋-みずたにりん-凜子パイセンがんばるっ-対魔忍ユキカゼ-08-31",
+    "images": [
+        "https://telegra.ph/file/5ee117e3272f5757ad2aa.jpg",
+        "https://telegra.ph/file/e4648ea38c371ad6a9568.jpg",
+        "https://telegra.ph/file/4bdfdcf06727c6061a5a7.jpg",
+        "https://telegra.ph/file/9b96b16e95b3f2abfacfc.jpg",
+        "https://telegra.ph/file/edf6ce6fa555400c7e7d3.jpg",
+        "https://telegra.ph/file/ae438541cd8a117de2048.jpg",
+        "https://telegra.ph/file/7613dc9f95146f97c8764.jpg",
+        "https://telegra.ph/file/8dc1945b17b52caa37dfe.jpg",
+        "https://telegra.ph/file/0987f766b448f838e398d.jpg",
+        "https://telegra.ph/file/10ceea3cba5b6acef6792.jpg",
+        "https://telegra.ph/file/d4b1d845f8876a83c4bf5.jpg",
+        "https://telegra.ph/file/c318dd30548c6281cf81e.jpg",
+        "https://telegra.ph/file/447ef67379447d1f241bf.jpg",
+        "https://telegra.ph/file/af6ad862bfb93444d8cca.jpg",
+        "https://telegra.ph/file/64fc51beac79a1f5b162e.jpg",
+        "https://telegra.ph/file/c1bf2c9059c1b6c1b4474.jpg",
+        "https://telegra.ph/file/ec66433b3399cec052354.jpg",
+        "https://telegra.ph/file/92b8121e3817a0d8a2146.jpg",
+        "https://telegra.ph/file/56d63d6022c74210db2b9.jpg",
+        "https://telegra.ph/file/84073a02511741eed5849.jpg",
+        "https://telegra.ph/file/79359cda277b8f4020949.jpg",
+        "https://telegra.ph/file/2734424334535bf471aff.jpg",
+        "https://telegra.ph/file/d7927773572564b565290.jpg"
+    ]
+};

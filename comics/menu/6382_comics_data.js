@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6382,
+    "title": "Scarlet Heart Paradise",
+    "sourceUrl": "https://telegra.ph/Scarlet-Heart-Paradise-08-31",
+    "images": [
+        "https://telegra.ph/file/f13946d7b96cc80726be4.jpg",
+        "https://telegra.ph/file/345ffb44a9824a1107650.jpg",
+        "https://telegra.ph/file/b3a3ded0062f94b3457e8.jpg",
+        "https://telegra.ph/file/607cf35c2db8ee5fc941c.jpg",
+        "https://telegra.ph/file/b7ce0c732cd52ac3f113e.jpg",
+        "https://telegra.ph/file/5f28e945ec5faf1f6b68c.jpg",
+        "https://telegra.ph/file/1a1a0553b8e94150ad0ee.jpg",
+        "https://telegra.ph/file/58b925670641432c5adea.jpg",
+        "https://telegra.ph/file/468b78a9a0723d9a19ec5.jpg",
+        "https://telegra.ph/file/cca82f7b10194d61955de.jpg",
+        "https://telegra.ph/file/0c0618ef83c40527669fc.jpg",
+        "https://telegra.ph/file/f0a1aaeb3151fc757d2a8.jpg",
+        "https://telegra.ph/file/110bf41301042a0dd3c39.jpg",
+        "https://telegra.ph/file/3d48595877914d7e329cb.jpg",
+        "https://telegra.ph/file/e76efae91581b16ed20f1.jpg",
+        "https://telegra.ph/file/2d8c2afe84155e4a5e51b.jpg",
+        "https://telegra.ph/file/bfb4566f04e811f8149e7.jpg",
+        "https://telegra.ph/file/41c56c776abb4136d1514.jpg",
+        "https://telegra.ph/file/842a4ad519bff96c5ac6f.jpg",
+        "https://telegra.ph/file/08c5f54cbbea85d6ad60e.jpg",
+        "https://telegra.ph/file/f10e0bee48f617b01270e.jpg",
+        "https://telegra.ph/file/2c9d8da40e5840edcb3b5.jpg",
+        "https://telegra.ph/file/69d19776a07c71a063330.jpg",
+        "https://telegra.ph/file/6bd9271bb4a9646e290be.jpg"
+    ]
+};

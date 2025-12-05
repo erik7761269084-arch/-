@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6649,
+    "title": "たぶんソレがラブなんじゃなかろうか",
+    "sourceUrl": "https://telegra.ph/たぶんソレがラブなんじゃなかろうか-08-31",
+    "images": [
+        "https://telegra.ph/file/04a55025c796a7a58126e.png",
+        "https://telegra.ph/file/4b5935f0ae9d7161b9e85.png",
+        "https://telegra.ph/file/598a436dc950f01f6b023.png",
+        "https://telegra.ph/file/ec4ca4dbb07a628435c86.png",
+        "https://telegra.ph/file/db1d7f92bb0e217e26e38.png",
+        "https://telegra.ph/file/2ef1681945c86fe405444.png",
+        "https://telegra.ph/file/6a3fc1aa471cd29d42987.png",
+        "https://telegra.ph/file/5c9c77a48bb15e985eb05.png",
+        "https://telegra.ph/file/bb14a582153c945ed1acb.png",
+        "https://telegra.ph/file/1fae94701f72cdcf6b0c2.png",
+        "https://telegra.ph/file/ab0505b092aa9a010e553.png",
+        "https://telegra.ph/file/031e24ec8f0595dd6389e.png",
+        "https://telegra.ph/file/e7191dafeb3f4e1e0ee0f.png",
+        "https://telegra.ph/file/619bb3c4714a7795d0f38.png",
+        "https://telegra.ph/file/3cfcc9740d5de60e66a6c.png",
+        "https://telegra.ph/file/52fe6d77876f52c5ce696.png",
+        "https://telegra.ph/file/2dcd38d4b5031e35f260e.png",
+        "https://telegra.ph/file/8aed1dc9837a0907cba29.png",
+        "https://telegra.ph/file/d45a761196c94638bfc5b.png",
+        "https://telegra.ph/file/3228d6406af23fe38b784.png",
+        "https://telegra.ph/file/2eeb71d0357bfe795ffbf.png",
+        "https://telegra.ph/file/456073ad61bc44b667d61.png",
+        "https://telegra.ph/file/16429cc4da65a6e06625a.png",
+        "https://telegra.ph/file/ce85ef68995060ce6ca0f.png",
+        "https://telegra.ph/file/1bcf7589d8f80890dbfe1.png",
+        "https://telegra.ph/file/2ad2a9aecd9a4b0c62175.png"
+    ]
+};

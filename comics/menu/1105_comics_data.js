@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1105,
+    "title": "[テラスMC] 幼馴染のユキちゃんのまとめ",
+    "sourceUrl": "https://telegra.ph/テラスMC-幼馴染のユキちゃんのまとめ-08-31",
+    "images": [
+        "https://telegra.ph/file/1a3cc51265d68647b7211.jpg",
+        "https://telegra.ph/file/73e1e5df19119a79d8487.jpg",
+        "https://telegra.ph/file/a98ffe116dd8441205bab.jpg",
+        "https://telegra.ph/file/16eee82039476575877f7.jpg",
+        "https://telegra.ph/file/56add87979007a397a536.jpg",
+        "https://telegra.ph/file/e6d940865a6a7633f1130.jpg",
+        "https://telegra.ph/file/d0c76a63c80604c18e2be.jpg",
+        "https://telegra.ph/file/f1e9c100d2d5a49e2cb39.jpg",
+        "https://telegra.ph/file/b9d906cc13902355e1e00.jpg",
+        "https://telegra.ph/file/91e4aa0275a55054d4989.jpg",
+        "https://telegra.ph/file/723ae1d6b24dc345f4d32.jpg",
+        "https://telegra.ph/file/d81b2425027b983d5f95d.jpg",
+        "https://telegra.ph/file/6e429f6008e94e5c47f6e.jpg",
+        "https://telegra.ph/file/118c50389ff8287dc182c.jpg",
+        "https://telegra.ph/file/97b970b73bcb4624fe47d.jpg",
+        "https://telegra.ph/file/0b03d51ef0b1021cb261c.jpg",
+        "https://telegra.ph/file/b713c7734fb470d4d2463.jpg",
+        "https://telegra.ph/file/53197cd220732390766aa.jpg",
+        "https://telegra.ph/file/22cfcdb7bd387c78b970a.jpg",
+        "https://telegra.ph/file/eee0251e561d317cb9cca.jpg",
+        "https://telegra.ph/file/f26bf15b2e03396877982.jpg",
+        "https://telegra.ph/file/166d38307853a5a95e757.jpg",
+        "https://telegra.ph/file/08054c28e6c1b47d1457e.jpg",
+        "https://telegra.ph/file/875e51a191f1cf9911253.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ]
+};

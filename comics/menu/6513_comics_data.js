@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6513,
+    "title": "ネコカノジョ (カゲロウプロジェクト)",
+    "sourceUrl": "https://telegra.ph/ネコカノジョ-カゲロウプロジェクト-08-31",
+    "images": [
+        "https://telegra.ph/file/e6f90d917ec6dcae80acb.jpg",
+        "https://telegra.ph/file/dbd4b33388d07259d1492.jpg",
+        "https://telegra.ph/file/fb46383298107b22c927b.jpg",
+        "https://telegra.ph/file/f88db37db82fa1f03b45a.jpg",
+        "https://telegra.ph/file/785f103808c0a7b7bc103.jpg",
+        "https://telegra.ph/file/300a3de6ec3953741c7cf.jpg",
+        "https://telegra.ph/file/2a604e86b83a3faadac66.jpg",
+        "https://telegra.ph/file/0f24bd32178a0d57cd6ab.jpg",
+        "https://telegra.ph/file/9d6c7f31deb0c51959121.jpg",
+        "https://telegra.ph/file/2540f03dc00294e592af7.jpg",
+        "https://telegra.ph/file/6a142b1281a2a33839d9f.jpg",
+        "https://telegra.ph/file/77db614f5e9204a729ada.jpg",
+        "https://telegra.ph/file/ff4bc667361e323c84f65.jpg",
+        "https://telegra.ph/file/660d7d60d809a8cf74d35.jpg",
+        "https://telegra.ph/file/81f6602c8a088b47c6c7c.jpg",
+        "https://telegra.ph/file/045bd0c49e70f77ed422a.jpg",
+        "https://telegra.ph/file/67e616c5a6ebc3f7ca2e1.jpg",
+        "https://telegra.ph/file/32c8a50da5e586960ebf8.jpg",
+        "https://telegra.ph/file/96c0f880b86734460d6c7.jpg",
+        "https://telegra.ph/file/dc78e306e59ddfa4d91bf.jpg",
+        "https://telegra.ph/file/111326a4d65d07ca321f1.jpg",
+        "https://telegra.ph/file/473f6440b4f2f2d9297cf.jpg",
+        "https://telegra.ph/file/74f625b7de1926e3a3041.jpg",
+        "https://telegra.ph/file/78e42fed79e583f69639c.jpg"
+    ]
+};

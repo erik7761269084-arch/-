@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 173,
+    "title": "[彩画堂 (彩画堂)] 淑女モノローグ",
+    "sourceUrl": "https://telegra.ph/彩画堂-彩画堂-淑女モノローグ-08-31",
+    "images": [
+        "https://telegra.ph/file/53770094c62481d2853ac.jpg",
+        "https://telegra.ph/file/38243411e93d69e130e2a.jpg",
+        "https://telegra.ph/file/54c2c6cbd23bb72f05c94.jpg",
+        "https://telegra.ph/file/6d38c32593121e52a925e.jpg",
+        "https://telegra.ph/file/f40dbf6bc27ff42d0344b.jpg",
+        "https://telegra.ph/file/e9bfe7adfc5c810547b86.jpg",
+        "https://telegra.ph/file/875444d7b0f0a3dd774c4.jpg",
+        "https://telegra.ph/file/0ad235944ace041c4d432.jpg",
+        "https://telegra.ph/file/cfe289e59b104d1cd9e7b.jpg",
+        "https://telegra.ph/file/783d1abdadc80c255522b.jpg",
+        "https://telegra.ph/file/3a016786be640898ae293.jpg",
+        "https://telegra.ph/file/a32123328486cc80ed318.jpg",
+        "https://telegra.ph/file/474582e9b222c793ca78a.jpg",
+        "https://telegra.ph/file/75928702d9c2dfc7843e4.jpg",
+        "https://telegra.ph/file/537b64854ddf96f3401f1.jpg",
+        "https://telegra.ph/file/44761dd8e9de3cc2bddb1.jpg",
+        "https://telegra.ph/file/ec1e08162b7ecc4d83d12.jpg",
+        "https://telegra.ph/file/9c1314005b42501e4be86.jpg",
+        "https://telegra.ph/file/0a08798627cb20398cfe8.jpg",
+        "https://telegra.ph/file/0518cf71395f0b8621106.jpg",
+        "https://telegra.ph/file/cc23dfb964121f554c25b.jpg",
+        "https://telegra.ph/file/ffbba6599d8f485af9ccb.jpg",
+        "https://telegra.ph/file/092cf9bd3bfde93385927.jpg",
+        "https://telegra.ph/file/89bd73385be339f18f568.jpg",
+        "https://telegra.ph/file/98a47026a963d41a6f554.jpg",
+        "https://telegra.ph/file/c544bc9827d8120127851.jpg"
+    ]
+};

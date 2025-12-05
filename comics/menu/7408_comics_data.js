@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7408,
+    "title": "この状况で弟ルートがないのはおかしい！",
+    "sourceUrl": "https://telegra.ph/この状况で弟ルートがないのはおかしい-08-31-2",
+    "images": [
+        "https://telegra.ph/file/c253a6d45a8aa27f90b72.jpg",
+        "https://telegra.ph/file/49b1bad17bad19516179a.jpg",
+        "https://telegra.ph/file/03cd229d7a1ca1754df3a.jpg",
+        "https://telegra.ph/file/39cda8af299dbd3f37950.jpg",
+        "https://telegra.ph/file/d1408bac14fc4a21bb20a.jpg",
+        "https://telegra.ph/file/0297c00edfb734f152464.jpg",
+        "https://telegra.ph/file/74bbc58fe926aa50cbb27.jpg",
+        "https://telegra.ph/file/66238945817f3a711e1b4.jpg",
+        "https://telegra.ph/file/be89ca7082249306b2bc9.jpg",
+        "https://telegra.ph/file/55155cc158fb2b6b96f2d.jpg",
+        "https://telegra.ph/file/8286c3480a4818201e81d.jpg",
+        "https://telegra.ph/file/e1473234a10391c5304a5.jpg",
+        "https://telegra.ph/file/ea8a7ec91730b6ab81122.jpg",
+        "https://telegra.ph/file/0a6e91a238b2872f56e67.jpg",
+        "https://telegra.ph/file/8fea2e711c4d416018362.jpg",
+        "https://telegra.ph/file/bb1504fe54e17bed62b10.jpg",
+        "https://telegra.ph/file/ce33b9d53443eadde2a1d.jpg",
+        "https://telegra.ph/file/ec585b793e48979da0d3b.jpg",
+        "https://telegra.ph/file/ea6d9dc490a225c104af3.jpg",
+        "https://telegra.ph/file/f87f90d2bb34e0eed9e62.jpg",
+        "https://telegra.ph/file/388d844cf4ced60ebc581.jpg",
+        "https://telegra.ph/file/7d2e3da3d8c46fc83fe2b.jpg",
+        "https://telegra.ph/file/4f1405ecb2c19d82a59f4.jpg"
+    ]
+};

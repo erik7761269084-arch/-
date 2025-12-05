@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1686,
+    "title": "[テラスMC] 二次創作まとめ２０２２/１月号",
+    "sourceUrl": "https://telegra.ph/テラスMC-二次創作まとめ２０２２１月号-08-31",
+    "images": [
+        "https://telegra.ph/file/cfa9d358da06fc3411930.jpg",
+        "https://telegra.ph/file/a2b2e341380a4a2d7071f.jpg",
+        "https://telegra.ph/file/ad68be8bdb0f423312fd4.jpg",
+        "https://telegra.ph/file/424e05614db8d4a89b186.jpg",
+        "https://telegra.ph/file/162b79aa0016c96e14c83.jpg",
+        "https://telegra.ph/file/7ff2f40f450bf40c2404c.jpg",
+        "https://telegra.ph/file/3e6b6b35ef597fdff4ab8.jpg",
+        "https://telegra.ph/file/1c96def93b7a2d3e30f89.jpg",
+        "https://telegra.ph/file/a99e9eb5f07d6d201f133.jpg",
+        "https://telegra.ph/file/072c8ed28a0d15929985d.jpg",
+        "https://telegra.ph/file/bd4de5336fe309cfbf922.jpg",
+        "https://telegra.ph/file/1be3ffc5ce958b0caa506.jpg",
+        "https://telegra.ph/file/218ac15bd4864ca208590.jpg",
+        "https://telegra.ph/file/c081b4fc23129b311b246.jpg",
+        "https://telegra.ph/file/78c4f8cd93413878d34da.jpg",
+        "https://telegra.ph/file/de38b7b6daf1ef426d516.jpg",
+        "https://telegra.ph/file/3ac1b15a036cb3a071f83.jpg",
+        "https://telegra.ph/file/4bd640e949071bf0d473c.jpg",
+        "https://telegra.ph/file/82ca175fa44ba86ddaf43.jpg",
+        "https://telegra.ph/file/e7ce008c62639d03b4b8a.jpg",
+        "https://telegra.ph/file/23331fb33d13ef4595f16.jpg",
+        "https://telegra.ph/file/3ef183de192f87ea41d65.jpg",
+        "https://telegra.ph/file/859e8b9f689a2f0f0e656.jpg"
+    ]
+};

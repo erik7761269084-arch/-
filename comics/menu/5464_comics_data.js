@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5464,
+    "title": "[黒岩瑪瑙] In the School...",
+    "sourceUrl": "https://telegra.ph/黒岩瑪瑙-In-the-School-08-31",
+    "images": [
+        "https://telegra.ph/file/62d261ad0131339316216.jpg",
+        "https://telegra.ph/file/dc0ae0aa0c35aaf0b8bff.jpg",
+        "https://telegra.ph/file/dce7650ad69d73fc1dd6f.jpg",
+        "https://telegra.ph/file/ad85aac9270586c08c6df.jpg",
+        "https://telegra.ph/file/8af5313f8a9d7d0dd6cc5.jpg",
+        "https://telegra.ph/file/1a9d6e71000b73d492a79.jpg",
+        "https://telegra.ph/file/dfd797e18d27a7fdc8086.jpg",
+        "https://telegra.ph/file/af3d68fc48e4dc959570d.jpg",
+        "https://telegra.ph/file/93fbdb364088581c55b3e.jpg",
+        "https://telegra.ph/file/987dd4e9f9cac8ab0f66a.jpg",
+        "https://telegra.ph/file/9d129140ce3ec3d69bc3c.jpg",
+        "https://telegra.ph/file/7e3ecd43f27ccc3d464b9.jpg",
+        "https://telegra.ph/file/b36ab01ef68705bfd3779.jpg",
+        "https://telegra.ph/file/db470e6ff9083196a999b.jpg",
+        "https://telegra.ph/file/6240ab3e447f5d96933b5.jpg",
+        "https://telegra.ph/file/395f80cfe3f5cf27d92d7.jpg",
+        "https://telegra.ph/file/d2c5a94a18f2cd1fdeb57.jpg",
+        "https://telegra.ph/file/430d3cb83aada291188ac.jpg",
+        "https://telegra.ph/file/a5723e4d2e4ee98b9ff1e.jpg",
+        "https://telegra.ph/file/2af90049db517b62f1d27.jpg",
+        "https://telegra.ph/file/56c4385962e8db26b66a7.jpg",
+        "https://telegra.ph/file/3ef1c9a10e79b6cc07cd3.jpg",
+        "https://telegra.ph/file/c6f0eb444af9151986bd5.jpg",
+        "https://telegra.ph/file/54416028743aff6dd68fb.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5106,
+    "title": "(C100) [MIGNON WORKS (mignon)] 濡れおなか3",
+    "sourceUrl": "https://telegra.ph/C100-MIGNON-WORKS-mignon-濡れおなか3-08-31-3",
+    "images": [
+        "https://telegra.ph/file/5460fb875dd106d51ea81.png",
+        "https://telegra.ph/file/b15d6ba3fb052c9db3c47.png",
+        "https://telegra.ph/file/cd37d922de388b7782ac6.png",
+        "https://telegra.ph/file/afdc9803b7a82de76852a.png",
+        "https://telegra.ph/file/5fb96284791cc78bcc6d2.png",
+        "https://telegra.ph/file/82b0950cbdc43d29856e1.png",
+        "https://telegra.ph/file/08fcbedb39d05f3ef1d4b.png",
+        "https://telegra.ph/file/2229693c8f537218c57a5.png",
+        "https://telegra.ph/file/f2bb6bbfd2caf4e2fb241.png",
+        "https://telegra.ph/file/728989b3ea7491fadc1b2.png",
+        "https://telegra.ph/file/a3ed7320ffb5a79a07892.png",
+        "https://telegra.ph/file/c99980ea4632db0f68349.png",
+        "https://telegra.ph/file/89fa1f22e3a284d90e9d0.png",
+        "https://telegra.ph/file/aedf699df1f3f34ade748.png",
+        "https://telegra.ph/file/43ba01202f903b7b4fc43.png",
+        "https://telegra.ph/file/3e329a6389becc9742629.png",
+        "https://telegra.ph/file/f2881b99d1159276fb016.png",
+        "https://telegra.ph/file/e0447f1f650e98b7623b3.png",
+        "https://telegra.ph/file/b7cbedb90840c993f1b44.png",
+        "https://telegra.ph/file/6820bc7c060f75d26b00b.png",
+        "https://telegra.ph/file/ca6f53af08983319edf50.png",
+        "https://telegra.ph/file/f0f455cdd206c29b389a7.png",
+        "https://telegra.ph/file/a7907414860d3337ea1df.png",
+        "https://telegra.ph/file/948a8d808cb9b3e5aae9c.png"
+    ]
+};

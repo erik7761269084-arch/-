@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3402,
+    "title": "(僕らのラブライブ! 30) [帰宅時間 (きたく)] レズ風俗へようこそ! （）",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-30-帰宅時間-きたく-レズ風俗へようこそ-08-31",
+    "images": [
+        "https://telegra.ph/file/d1af94bd74297604f4af6.jpg",
+        "https://telegra.ph/file/dd821101d0c543a6ef5c1.jpg",
+        "https://telegra.ph/file/b782dc8fd66991596a26e.jpg",
+        "https://telegra.ph/file/bb422a3ef538ea27c25da.jpg",
+        "https://telegra.ph/file/1d687e768740ae0efca9e.jpg",
+        "https://telegra.ph/file/a19ccb63a4f0a58eb04c4.jpg",
+        "https://telegra.ph/file/644234e02803db7607808.jpg",
+        "https://telegra.ph/file/7f8a7d7118b3516b50e39.jpg",
+        "https://telegra.ph/file/50118a97eeb686793c313.jpg",
+        "https://telegra.ph/file/3a2e658dfb27419de01be.jpg",
+        "https://telegra.ph/file/930caea628b762ac8e78b.jpg",
+        "https://telegra.ph/file/14b4cfc2f9067ea51ba04.jpg",
+        "https://telegra.ph/file/6500ae91b7ab598502388.jpg",
+        "https://telegra.ph/file/d279763982f0301495679.jpg",
+        "https://telegra.ph/file/1b1b093468cbb92e25e66.jpg",
+        "https://telegra.ph/file/2bb06391de2cfafc19f94.jpg",
+        "https://telegra.ph/file/e0dad64d272090e059b19.jpg",
+        "https://telegra.ph/file/e61e47c8b62e31e844000.jpg",
+        "https://telegra.ph/file/19834a07867fa38773f78.jpg",
+        "https://telegra.ph/file/5d40ae11c9f11d0f6d653.jpg",
+        "https://telegra.ph/file/da590d2f122e292e96083.jpg",
+        "https://telegra.ph/file/91ac27b45ffca1e41c161.jpg",
+        "https://telegra.ph/file/1bb63fcf4fc4899c225bf.jpg",
+        "https://telegra.ph/file/0828454e56685c414bc85.jpg",
+        "https://telegra.ph/file/ceab0eba1f991076b4bfd.jpg",
+        "https://telegra.ph/file/5cfd8978de435dfbf75d2.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4829,
+    "title": "[くもえもん] 放課後輪姦クラブ (カリ挿れ姦済)",
+    "sourceUrl": "https://telegra.ph/くもえもん-放課後輪姦クラブ-カリ挿れ姦済-08-31",
+    "images": [
+        "https://telegra.ph/file/ab913b67c587db1d4ea32.jpg",
+        "https://telegra.ph/file/6993295be3335d206db0a.jpg",
+        "https://telegra.ph/file/7b43dad96f38359fcefe0.jpg",
+        "https://telegra.ph/file/0e1ec710130fdf0765af8.jpg",
+        "https://telegra.ph/file/a285a6dc6569108608f8d.jpg",
+        "https://telegra.ph/file/541a252cbd804c4164c97.jpg",
+        "https://telegra.ph/file/257e44cf943b9f2c49cdc.jpg",
+        "https://telegra.ph/file/8ed92250bc7099c34e5af.jpg",
+        "https://telegra.ph/file/e37b97b8fb42470ab2728.jpg",
+        "https://telegra.ph/file/5b0daa936d4c783d0c6cf.jpg",
+        "https://telegra.ph/file/3089d9769e4ecb27c26f8.jpg",
+        "https://telegra.ph/file/09ae9891ea45452916884.jpg",
+        "https://telegra.ph/file/5701b55f74acf55de5387.jpg",
+        "https://telegra.ph/file/09d7055feee9ae05c234e.jpg",
+        "https://telegra.ph/file/56d1aea55fad7a0ea4753.jpg",
+        "https://telegra.ph/file/fe7261034c1fecd35e3d2.jpg",
+        "https://telegra.ph/file/b1043a5f9bc9b5f8a06db.jpg",
+        "https://telegra.ph/file/5878af62da99719dc81dc.jpg",
+        "https://telegra.ph/file/3a3f796eae6083fa39087.jpg",
+        "https://telegra.ph/file/dfbcd39dee7e7fdd76057.jpg",
+        "https://telegra.ph/file/4ec4434ef56d0974511e0.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

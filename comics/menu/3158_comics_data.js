@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3158,
+    "title": "[LongHornTrain (ちょちょ)] マジカルピーチパイ (魔法つかいプリキュア!、フレッシュプリキュア!)",
+    "sourceUrl": "https://telegra.ph/LongHornTrain-ちょちょ-マジカルピーチパイ-魔法つかいプリキュアフレッシュプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/514f94156074f4b45ed55.jpg",
+        "https://telegra.ph/file/c0fd6f9cede826e4b794e.jpg",
+        "https://telegra.ph/file/ed24a73c65705d19eccb2.jpg",
+        "https://telegra.ph/file/13474a7cce5fb62ced1b3.jpg",
+        "https://telegra.ph/file/6d7802a617261d11afdc0.jpg",
+        "https://telegra.ph/file/95e432565353ab1ae40ba.jpg",
+        "https://telegra.ph/file/9ca567ff6dd1519b8c3df.jpg",
+        "https://telegra.ph/file/016a30df6dedafc955536.jpg",
+        "https://telegra.ph/file/0671295948d3298162ef7.jpg",
+        "https://telegra.ph/file/54d0a94b75595b9286ec6.jpg",
+        "https://telegra.ph/file/9c5e3965c37290c0681cc.jpg",
+        "https://telegra.ph/file/8b67a8a0e81a6ac593657.jpg",
+        "https://telegra.ph/file/b32681cb6ae3936eb0740.jpg",
+        "https://telegra.ph/file/feaf06c5f3633e4e58f33.jpg",
+        "https://telegra.ph/file/dac9aa0644ec9788723f2.jpg",
+        "https://telegra.ph/file/e4550892c0ddec933a363.jpg",
+        "https://telegra.ph/file/f423a896198769102a16e.jpg",
+        "https://telegra.ph/file/93b3c111a240a3adc4837.jpg",
+        "https://telegra.ph/file/85708d2fc9002ee249b47.jpg",
+        "https://telegra.ph/file/0f60436e73787d477f9d5.jpg",
+        "https://telegra.ph/file/ab5f735627925526a0772.jpg",
+        "https://telegra.ph/file/5698e472a70c7aaa04817.jpg",
+        "https://telegra.ph/file/ff33c236f2878ff7fd65a.jpg"
+    ]
+};

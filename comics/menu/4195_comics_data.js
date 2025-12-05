@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4195,
+    "title": "[なぱた] おさななじみ (COMIC快楽天 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/なぱた-おさななじみ-COMIC快楽天-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/6571962b1c3ff3c1f1ff2.jpg",
+        "https://telegra.ph/file/6ddcf636cb59a9ad8ebe5.jpg",
+        "https://telegra.ph/file/352ab8d85280f4463ee85.jpg",
+        "https://telegra.ph/file/0ed14ae49b72d4bdd916e.jpg",
+        "https://telegra.ph/file/2ff9d198f340905de5284.jpg",
+        "https://telegra.ph/file/203530675a9cd041cf91e.jpg",
+        "https://telegra.ph/file/6d978dbec305472ec4827.jpg",
+        "https://telegra.ph/file/51a4f075ff9ee41cc77b7.jpg",
+        "https://telegra.ph/file/7e40719a7bd69d71214bc.jpg",
+        "https://telegra.ph/file/1925fb95d59f8213e6a71.jpg",
+        "https://telegra.ph/file/294c5ceccba9c855cfc61.jpg",
+        "https://telegra.ph/file/f76335544f8e5aa1cf41a.jpg",
+        "https://telegra.ph/file/98cb27ce6380ca8a12dd1.jpg",
+        "https://telegra.ph/file/d51654537e7b08e57a87c.jpg",
+        "https://telegra.ph/file/cda989e9e117875cc85d2.jpg",
+        "https://telegra.ph/file/f3eb17ef9ea2631c2e5bf.jpg",
+        "https://telegra.ph/file/22f4a83ecb60f5ed8d921.jpg",
+        "https://telegra.ph/file/7e631dbe5eabc935506e7.jpg",
+        "https://telegra.ph/file/31a6eb5a72a7fc7895dcd.jpg",
+        "https://telegra.ph/file/6c7c5026f96c1d94eba94.jpg",
+        "https://telegra.ph/file/9daa4ffd2027d130ea250.jpg",
+        "https://telegra.ph/file/6287145d409e4c8f35b42.jpg",
+        "https://telegra.ph/file/fabf3db22e489c5c0c08e.jpg",
+        "https://telegra.ph/file/73d7f01fc630c88258ae8.jpg",
+        "https://telegra.ph/file/d35216f9de10d501da5b2.jpg"
+    ]
+};

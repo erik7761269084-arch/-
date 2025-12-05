@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 871,
+    "title": "[甘露アメ] ■■村淫習継承マニュアル",
+    "sourceUrl": "https://telegra.ph/甘露アメ-村淫習継承マニュアル-08-31",
+    "images": [
+        "https://telegra.ph/file/c3784ee677f269be45d1c.jpg",
+        "https://telegra.ph/file/fd4a8c276f7fdc73381aa.jpg",
+        "https://telegra.ph/file/e81d820333e9383aa46c7.jpg",
+        "https://telegra.ph/file/6008c307bf22a77199644.jpg",
+        "https://telegra.ph/file/9afa8032cbd4275ab8b6a.jpg",
+        "https://telegra.ph/file/c4a84a35942231ea13861.jpg",
+        "https://telegra.ph/file/8713197e56565b92d0e28.jpg",
+        "https://telegra.ph/file/f34b51d6f4ea318b79789.jpg",
+        "https://telegra.ph/file/2e5284e8c342b79c258a3.jpg",
+        "https://telegra.ph/file/fbc121517dfdd6563ece8.jpg",
+        "https://telegra.ph/file/f8f90c1e94a57a67fd26d.jpg",
+        "https://telegra.ph/file/0261551ff58112c543d7a.jpg",
+        "https://telegra.ph/file/4fe408f002da3e12e4fe6.jpg",
+        "https://telegra.ph/file/6965a379775b08c1a0f0c.jpg",
+        "https://telegra.ph/file/34f285cccf6c97cf388bc.jpg",
+        "https://telegra.ph/file/adee6f99a92a67aa628b3.jpg",
+        "https://telegra.ph/file/48059d2099dd5f1e6905c.jpg",
+        "https://telegra.ph/file/76361412ac1bff5388b88.jpg",
+        "https://telegra.ph/file/ee6dc88a954dbf3be0e76.jpg",
+        "https://telegra.ph/file/347255fca0b9792a0e725.jpg",
+        "https://telegra.ph/file/78a9e031cf009f2a2fa21.jpg",
+        "https://telegra.ph/file/1b7071dde712f97695809.jpg",
+        "https://telegra.ph/file/0bff330b7ad7f196f6053.jpg"
+    ]
+};

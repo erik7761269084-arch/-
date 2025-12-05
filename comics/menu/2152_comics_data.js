@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2152,
+    "title": "[ろんどんこ] 妹に着せてみた (COMIC LO 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/ろんどんこ-妹に着せてみた-COMIC-LO-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/e3fdb72cf3af4a376732c.jpg",
+        "https://telegra.ph/file/477ca96e7d76af006d59f.jpg",
+        "https://telegra.ph/file/c87cdafbbd8d9db7bfd11.jpg",
+        "https://telegra.ph/file/a40af3540ce1609d930c7.jpg",
+        "https://telegra.ph/file/1ac0cb2edfc71a87815c1.jpg",
+        "https://telegra.ph/file/00f2f93a569b65da43046.jpg",
+        "https://telegra.ph/file/15ed8f2429cfd7df404cc.jpg",
+        "https://telegra.ph/file/b5bf134bb879d80cdfb91.jpg",
+        "https://telegra.ph/file/26948693c1d4234c780e8.jpg",
+        "https://telegra.ph/file/5e25d384fffe39d37a214.jpg",
+        "https://telegra.ph/file/9d13116f6a6f7112e17df.jpg",
+        "https://telegra.ph/file/a040016afd658026ce7f2.jpg",
+        "https://telegra.ph/file/c766125c59075ab1ed69c.jpg",
+        "https://telegra.ph/file/f83eec085d2857cbaca5b.jpg",
+        "https://telegra.ph/file/ee0ab942b0d837a8a21d1.jpg",
+        "https://telegra.ph/file/c1dd2e68b09865d55cf38.jpg",
+        "https://telegra.ph/file/577e16c5f20fe57aa6db0.jpg",
+        "https://telegra.ph/file/8c4fbd084843927fab2c1.jpg",
+        "https://telegra.ph/file/da4584c4967bae7790b31.jpg",
+        "https://telegra.ph/file/b01dd6b4d5985ebce6d61.jpg",
+        "https://telegra.ph/file/81f14be4cf8eee13dcf65.jpg",
+        "https://telegra.ph/file/3913020a88d0c85baeea3.jpg",
+        "https://telegra.ph/file/98891c7d8298a58174476.jpg"
+    ]
+};

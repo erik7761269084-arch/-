@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 231,
+    "title": "[MC (影斬)] 本日、性交課に異動になりました。",
+    "sourceUrl": "https://telegra.ph/MC-影斬-本日性交課に異動になりました-08-31",
+    "images": [
+        "https://telegra.ph/file/4ea3408ce3f7d07e98c95.jpg",
+        "https://telegra.ph/file/bc205d50c201184ce5cf5.jpg",
+        "https://telegra.ph/file/4919166a96d86bcdb73c9.jpg",
+        "https://telegra.ph/file/2fc9265aa84d0ae2fe535.jpg",
+        "https://telegra.ph/file/3297463ce7a41d0d8b733.jpg",
+        "https://telegra.ph/file/f40a622d9b973794749bc.jpg",
+        "https://telegra.ph/file/5b7cac39fc531a3861c40.jpg",
+        "https://telegra.ph/file/9711783f4a465d35cb87e.jpg",
+        "https://telegra.ph/file/415a8c122c96a2b5bb18c.jpg",
+        "https://telegra.ph/file/6a35ae960a68d279fc25a.jpg",
+        "https://telegra.ph/file/72dc0ebfcb2cd990eb169.jpg",
+        "https://telegra.ph/file/3b39dcdfe7c7a819188c9.jpg",
+        "https://telegra.ph/file/2a8b2ddc3c3a809097394.jpg",
+        "https://telegra.ph/file/44ffb0e10db1be94463d8.jpg",
+        "https://telegra.ph/file/5d09d8ce70e225c9847d2.jpg",
+        "https://telegra.ph/file/050211e1912795625e0ad.jpg",
+        "https://telegra.ph/file/036fac64a4e2a9e838b0b.jpg",
+        "https://telegra.ph/file/929db720102b660a3ba9b.jpg",
+        "https://telegra.ph/file/ac3abc660a2572daa3329.jpg",
+        "https://telegra.ph/file/3a4e2329f455c5b73544c.jpg",
+        "https://telegra.ph/file/40567c92030f1d01d98e4.jpg",
+        "https://telegra.ph/file/33b46c316f4427b9c3b8e.jpg",
+        "https://telegra.ph/file/b47ff3743b554f3e0b411.jpg",
+        "https://telegra.ph/file/eee07d74c48263be9882a.jpg",
+        "https://telegra.ph/file/e7c4ab0ff744610b38d9f.jpg",
+        "https://telegra.ph/file/5b61a2e06016a7d2a4a08.jpg"
+    ]
+};

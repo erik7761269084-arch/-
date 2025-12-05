@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4630,
+    "title": "(C95) [nemuke？ (似せ)] 昔してた姉弟",
+    "sourceUrl": "https://telegra.ph/C95-nemuke-似せ-昔してた姉弟-08-31",
+    "images": [
+        "https://telegra.ph/file/aabcd2733bb22bf52a688.jpg",
+        "https://telegra.ph/file/bf5bd42665c721ddb5487.jpg",
+        "https://telegra.ph/file/9db038b68f2150326894e.jpg",
+        "https://telegra.ph/file/e756b4bef0c2e24970836.jpg",
+        "https://telegra.ph/file/b650a9f397aedbd1372ae.jpg",
+        "https://telegra.ph/file/8bf8a6e8c9087a0c4f384.jpg",
+        "https://telegra.ph/file/7a79e6174c7a8afcf3695.jpg",
+        "https://telegra.ph/file/4f576de59f768e9bb23c5.jpg",
+        "https://telegra.ph/file/3e163bd46dd598c5f3700.jpg",
+        "https://telegra.ph/file/a46b2a5b208336cb26075.jpg",
+        "https://telegra.ph/file/db46187e864cbd97e1d54.jpg",
+        "https://telegra.ph/file/9fec45000ef383d88cdc9.jpg",
+        "https://telegra.ph/file/cbd3538141a72a883ce2c.jpg",
+        "https://telegra.ph/file/d19736759bb6f1e175ff8.jpg",
+        "https://telegra.ph/file/9ea0271fad5a4c7186742.jpg",
+        "https://telegra.ph/file/0840bd406ca5441b67072.jpg",
+        "https://telegra.ph/file/e0d17216cc178866c5e91.jpg",
+        "https://telegra.ph/file/f7c7b309ff2a9c802210d.jpg",
+        "https://telegra.ph/file/fbc90efc94f13f7ee91c1.jpg",
+        "https://telegra.ph/file/806d957120da910e05a8b.jpg",
+        "https://telegra.ph/file/7b03d90ac6b7a200deb02.jpg",
+        "https://telegra.ph/file/f08a9bdb712c14d688535.jpg",
+        "https://telegra.ph/file/e49ed2f6d564ac781d8ca.jpg",
+        "https://telegra.ph/file/bc997ae98daac6240a787.jpg",
+        "https://telegra.ph/file/38d3b655da67b91075247.jpg",
+        "https://telegra.ph/file/e7dffa868bf810549580b.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7319,
+    "title": "西ノ宮センパイの闇トレ",
+    "sourceUrl": "https://telegra.ph/西ノ宮センパイの闇トレ-08-31",
+    "images": [
+        "https://telegra.ph/file/a1a5112fbb8c6396c870d.jpg",
+        "https://telegra.ph/file/cd2b4c27e1070421365f1.jpg",
+        "https://telegra.ph/file/59e57597a02b96a511b69.jpg",
+        "https://telegra.ph/file/230b524d1a0577cbf973a.jpg",
+        "https://telegra.ph/file/6dcfd3e42acc004895bba.jpg",
+        "https://telegra.ph/file/508c8d0c9f6497590b427.jpg",
+        "https://telegra.ph/file/782d2131e05a89e9f7aa2.jpg",
+        "https://telegra.ph/file/267fe801b2c9a8a53a6ba.jpg",
+        "https://telegra.ph/file/82c0d8457379b3c8eb70e.jpg",
+        "https://telegra.ph/file/4f00af33865bb583681a3.jpg",
+        "https://telegra.ph/file/032617e4917f56f9ce60b.jpg",
+        "https://telegra.ph/file/9c7ba0a03476cd6607213.jpg",
+        "https://telegra.ph/file/6812c2a13b8e1e95a5033.jpg",
+        "https://telegra.ph/file/7754e492c082019f46ff5.jpg",
+        "https://telegra.ph/file/27f231ea06d8510a0e2ae.jpg",
+        "https://telegra.ph/file/a619d12e77066e7da2b65.jpg",
+        "https://telegra.ph/file/00048d41ca27ea91c16f7.jpg",
+        "https://telegra.ph/file/06f8c822f6030fdb46a00.jpg",
+        "https://telegra.ph/file/fda6d2f45efd08c8986ff.jpg",
+        "https://telegra.ph/file/0aa6ced5f60d47dc1fdc0.jpg",
+        "https://telegra.ph/file/8411b1bf75cab01aaeca8.jpg",
+        "https://telegra.ph/file/e2498d816c293f75b220f.jpg",
+        "https://telegra.ph/file/2f1493f63eba8d4dc3836.jpg",
+        "https://telegra.ph/file/f342cd385858225998852.jpg",
+        "https://telegra.ph/file/e49972a4b4321940dec49.jpg",
+        "https://telegra.ph/file/a1dbdf11de5c89a0e2835.jpg"
+    ]
+};

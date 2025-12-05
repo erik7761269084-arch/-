@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1061,
+    "title": "(C89) [666PROTECT (甚六)] 転校生 JKエルフ ―放課後調教授業―",
+    "sourceUrl": "https://telegra.ph/C89-666PROTECT-甚六-転校生-JKエルフ-放課後調教授業-08-31",
+    "images": [
+        "https://telegra.ph/file/136429c8b19c62c3ca724.jpg",
+        "https://telegra.ph/file/6837513329e2455b16e2e.jpg",
+        "https://telegra.ph/file/aa2284c06f681b0fe661d.jpg",
+        "https://telegra.ph/file/bd7a8721b878c9bcb668c.jpg",
+        "https://telegra.ph/file/e7d98255a97e1192d5c85.jpg",
+        "https://telegra.ph/file/f97d418732121a2628b36.jpg",
+        "https://telegra.ph/file/a96cc8a4f9dcba639e84c.jpg",
+        "https://telegra.ph/file/736922c72b5c345ff2cc5.jpg",
+        "https://telegra.ph/file/27fae05de918bd5ee7f85.jpg",
+        "https://telegra.ph/file/302b7b7314723f455730d.jpg",
+        "https://telegra.ph/file/38d00039f56e79f1ed7cc.jpg",
+        "https://telegra.ph/file/a903bb366458d262d3804.jpg",
+        "https://telegra.ph/file/814552981164d60efc752.jpg",
+        "https://telegra.ph/file/2400690b35f5bf97e6cad.jpg",
+        "https://telegra.ph/file/b4cb8ef402db8f82250d7.jpg",
+        "https://telegra.ph/file/97cb60956ec0e1f5699c5.jpg",
+        "https://telegra.ph/file/0661440ebe74d8518fd6e.jpg",
+        "https://telegra.ph/file/e1e1889ca744179614e6c.jpg",
+        "https://telegra.ph/file/60655146dd8054a453f73.jpg",
+        "https://telegra.ph/file/207a7858d11406745684b.jpg",
+        "https://telegra.ph/file/9c43a8a356f1db51c143f.jpg",
+        "https://telegra.ph/file/cfa733420c36c3b25394f.jpg",
+        "https://telegra.ph/file/c07ae9dc890cfefb48426.jpg",
+        "https://telegra.ph/file/30c3cee68c08246c7c816.jpg",
+        "https://telegra.ph/file/fb96e5181b568982f79bf.jpg"
+    ]
+};

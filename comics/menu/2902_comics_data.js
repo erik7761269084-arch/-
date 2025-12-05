@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2902,
+    "title": "[雪咲みあれ] もっとヒドイのがいいの♡ (コミックホットミルク 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/雪咲みあれ-もっとヒドイのがいいの-コミックホットミルク-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0d758c9fde76720758ba0.jpg",
+        "https://telegra.ph/file/72157e7f56626c9cc2fd5.jpg",
+        "https://telegra.ph/file/96cb3b8cced33e4d60810.jpg",
+        "https://telegra.ph/file/d60d8e6178b176d93c805.jpg",
+        "https://telegra.ph/file/74dd5dcb154ede0518a80.jpg",
+        "https://telegra.ph/file/9c6205c24182f1d832a12.jpg",
+        "https://telegra.ph/file/e557c5b081ec2abe55aee.jpg",
+        "https://telegra.ph/file/706767433d0646a878dc1.jpg",
+        "https://telegra.ph/file/09c7036b21018fed8e63f.jpg",
+        "https://telegra.ph/file/9d6149d5fb6243d940619.jpg",
+        "https://telegra.ph/file/d93a4e6884b9cef9d8076.jpg",
+        "https://telegra.ph/file/6e338ae199c9ad4b92b40.jpg",
+        "https://telegra.ph/file/6890bc6fd8bb73e0cbd9a.jpg",
+        "https://telegra.ph/file/bbd674e8fa908b75a2905.jpg",
+        "https://telegra.ph/file/d3c9ac222a16bf915f46c.jpg",
+        "https://telegra.ph/file/5e4c443d92c94d0fa5c94.jpg",
+        "https://telegra.ph/file/64b0ea51c4b8f870b8153.jpg",
+        "https://telegra.ph/file/698638a3ba50a3484af11.jpg",
+        "https://telegra.ph/file/6f7fc133beb20c8ec9cc8.jpg",
+        "https://telegra.ph/file/db3dffa849da3f1e6f93f.jpg",
+        "https://telegra.ph/file/1ab5221e4c09e79776e47.jpg",
+        "https://telegra.ph/file/9077761025bc97876daf4.jpg",
+        "https://telegra.ph/file/c5c27d72cd1a371533600.jpg",
+        "https://telegra.ph/file/f728d5281227cccde24d2.jpg"
+    ]
+};

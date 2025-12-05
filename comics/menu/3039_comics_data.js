@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3039,
+    "title": "[憑依る抜け道 (まる寝子)] 皮替え姉妹",
+    "sourceUrl": "https://telegra.ph/憑依る抜け道-まる寝子-皮替え姉妹-08-31",
+    "images": [
+        "https://telegra.ph/file/6a7cc4bfc4a8ff4fe578c.jpg",
+        "https://telegra.ph/file/fe6ef128112736919149b.jpg",
+        "https://telegra.ph/file/2dfd1e8d6bda53b4a2387.jpg",
+        "https://telegra.ph/file/cbf9b493fa5fe78e0e2d5.jpg",
+        "https://telegra.ph/file/8714ea68ec943ca291169.jpg",
+        "https://telegra.ph/file/2286214b88ea89a67a5e5.jpg",
+        "https://telegra.ph/file/b7df909701f4ccf4c5c21.jpg",
+        "https://telegra.ph/file/b6155009047bcbc64e8a1.jpg",
+        "https://telegra.ph/file/9b53be0e03a021eb35516.jpg",
+        "https://telegra.ph/file/5be53922cfa12a26fa187.jpg",
+        "https://telegra.ph/file/04f880c5733584d862aef.jpg",
+        "https://telegra.ph/file/0b5def747a094a29d7b90.jpg",
+        "https://telegra.ph/file/49e5a35f3fe9c7d33e081.jpg",
+        "https://telegra.ph/file/e9965f57c372b189bdcc2.jpg",
+        "https://telegra.ph/file/6bde911360ec69cff146e.jpg",
+        "https://telegra.ph/file/c499c5c0d1e55f43dde19.jpg",
+        "https://telegra.ph/file/c64c74b24496dfb0d4ab3.jpg",
+        "https://telegra.ph/file/6f2066a4bfea1bef8d37d.jpg",
+        "https://telegra.ph/file/470caead493d73b042cc8.jpg",
+        "https://telegra.ph/file/50406a269be060eca3037.jpg",
+        "https://telegra.ph/file/f0fc6e52c8de17b89dcb3.jpg",
+        "https://telegra.ph/file/d8faaf9f1f6f51a19b5fa.jpg",
+        "https://telegra.ph/file/aabff869fbc978d1a72e7.jpg"
+    ]
+};

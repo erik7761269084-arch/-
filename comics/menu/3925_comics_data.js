@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3925,
+    "title": "(C95) [アイスクリウム (vanilla)] アンドロイドのわたしに燃料補給してくださいっ3",
+    "sourceUrl": "https://telegra.ph/C95-アイスクリウム-vanilla-アンドロイドのわたしに燃料補給してくださいっ3-08-31",
+    "images": [
+        "https://telegra.ph/file/c5b47ee07d5846b4ab2f6.jpg",
+        "https://telegra.ph/file/c7a510fbf0b37d22a7e58.jpg",
+        "https://telegra.ph/file/42b6038d521319f175377.jpg",
+        "https://telegra.ph/file/2df6712c54727c92b0e37.jpg",
+        "https://telegra.ph/file/683d190aed0d30e90fb37.jpg",
+        "https://telegra.ph/file/ad31f74e65e890d2352e0.jpg",
+        "https://telegra.ph/file/387f2bdf9e412e5f2201c.jpg",
+        "https://telegra.ph/file/0dfd0ebca078cfb2fe350.jpg",
+        "https://telegra.ph/file/9e54489df769dbc92f346.jpg",
+        "https://telegra.ph/file/065545243ad8615d04f48.jpg",
+        "https://telegra.ph/file/0f5e3abfed7b01762604f.jpg",
+        "https://telegra.ph/file/c02ddcd7bd05e1ba98949.jpg",
+        "https://telegra.ph/file/8b0f34586382613f4d83d.jpg",
+        "https://telegra.ph/file/1546509b2010375a6ca62.jpg",
+        "https://telegra.ph/file/b1c9f927197a93ed485a4.jpg",
+        "https://telegra.ph/file/69bf6596cd4c7f3943e6a.jpg",
+        "https://telegra.ph/file/221eef7b1daa20609ab86.jpg",
+        "https://telegra.ph/file/c580ace001c5f3b9f56e6.jpg",
+        "https://telegra.ph/file/a31fd2dd400f87477ac1c.jpg",
+        "https://telegra.ph/file/728f2992ef0dde59bedbe.jpg",
+        "https://telegra.ph/file/dd5592835a13327f54ddc.jpg",
+        "https://telegra.ph/file/764817f9880e7f2048b6a.jpg",
+        "https://telegra.ph/file/16edfa8b725b2594fbc74.jpg",
+        "https://telegra.ph/file/5c24093a3758b4181f3ce.jpg",
+        "https://telegra.ph/file/5ad57f3b34f891f1bc3a7.jpg"
+    ]
+};

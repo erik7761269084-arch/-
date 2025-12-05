@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4686,
+    "title": "[双葉八重] たった1人!?の性教育者 (COMIC 真激 2019年10月号)",
+    "sourceUrl": "https://telegra.ph/双葉八重-たった1人の性教育者-COMIC-真激-2019年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/4f85710add428547ee9dc.jpg",
+        "https://telegra.ph/file/792aac6c46ebd80d66dbb.jpg",
+        "https://telegra.ph/file/348b2c1a48e3fd38eef0d.jpg",
+        "https://telegra.ph/file/7aedd4eb41ccb38117878.jpg",
+        "https://telegra.ph/file/1e13da414c6f1b6b669f4.jpg",
+        "https://telegra.ph/file/3d7aad64039eadbe49300.jpg",
+        "https://telegra.ph/file/1b4234f78bffa3ce83db2.jpg",
+        "https://telegra.ph/file/a4071ca573635667bb540.jpg",
+        "https://telegra.ph/file/47ad1d8f852a0653a53f3.jpg",
+        "https://telegra.ph/file/f347c1df301b947ae9676.jpg",
+        "https://telegra.ph/file/cccf5831d66e589973e4e.jpg",
+        "https://telegra.ph/file/985dc0d810714e7f9522f.jpg",
+        "https://telegra.ph/file/ee5f0c0a653ae8a204540.jpg",
+        "https://telegra.ph/file/3d54d022eab36f2126e5a.jpg",
+        "https://telegra.ph/file/7bf47a15ef6d8afa55224.jpg",
+        "https://telegra.ph/file/e59bd148fb9fd057cdd68.jpg",
+        "https://telegra.ph/file/86b5b79268927ade2cd7e.jpg",
+        "https://telegra.ph/file/9658f3cb3ee2e12f753cd.jpg",
+        "https://telegra.ph/file/e799b41ed7864ab1723e0.jpg",
+        "https://telegra.ph/file/8ffaa3a0ff22d28265367.jpg",
+        "https://telegra.ph/file/07cdbfe447409265bb12e.jpg",
+        "https://telegra.ph/file/eef609fa4b223224cd2d4.jpg",
+        "https://telegra.ph/file/fb97fd697147e69838f66.jpg",
+        "https://telegra.ph/file/89a5e9376be9b1fb19be7.jpg",
+        "https://telegra.ph/file/ef82e200730edb421ed02.jpg",
+        "https://telegra.ph/file/203080fdbae294b4014d7.jpg"
+    ]
+};

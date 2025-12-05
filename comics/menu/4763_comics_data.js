@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4763,
+    "title": "(AC2) [RedDelicious (Sha)] 蝶々の戯れ (鬼滅の刃)",
+    "sourceUrl": "https://telegra.ph/AC2-RedDelicious-Sha-蝶々の戯れ-鬼滅の刃-08-31",
+    "images": [
+        "https://telegra.ph/file/c69a9021ea7e43fc5dde6.jpg",
+        "https://telegra.ph/file/d3619ddd8715b83ef67f5.jpg",
+        "https://telegra.ph/file/8f9c6dace38706c7017aa.jpg",
+        "https://telegra.ph/file/de29e432f79c5403705b6.jpg",
+        "https://telegra.ph/file/07888a3df024c889749b0.jpg",
+        "https://telegra.ph/file/f31282a390365b0701756.jpg",
+        "https://telegra.ph/file/0e5ea1bd708ef79bad5f5.jpg",
+        "https://telegra.ph/file/cf22848d7c8a0d114e7a1.jpg",
+        "https://telegra.ph/file/aec8c1faedd20f9d11b4e.jpg",
+        "https://telegra.ph/file/4b510198a8a47b08e8ca9.jpg",
+        "https://telegra.ph/file/a7c78be37b48005d03a4c.jpg",
+        "https://telegra.ph/file/c8483bdca24cc2be72c5b.jpg",
+        "https://telegra.ph/file/ebfd06f1eefa02368a8b7.jpg",
+        "https://telegra.ph/file/5be7ca7852b88687eac57.jpg",
+        "https://telegra.ph/file/da4d1017b8abdaf294e4d.jpg",
+        "https://telegra.ph/file/dc45548317af759a5213e.jpg",
+        "https://telegra.ph/file/c65fe32f28370dd7627f8.jpg",
+        "https://telegra.ph/file/22a3baba916d98cab4f45.jpg",
+        "https://telegra.ph/file/5a159c512b81df4535fba.jpg",
+        "https://telegra.ph/file/19d0ce21c0f5aadc8d9de.jpg",
+        "https://telegra.ph/file/0f28ac7f75d8b599ae354.jpg",
+        "https://telegra.ph/file/8f6206d5b25dd6ac523f8.jpg",
+        "https://telegra.ph/file/bf06caf0ac326e4485981.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

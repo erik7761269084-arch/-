@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4446,
+    "title": "[山芋とろろ] Heart Switch ～先生のお悩み編～ (COMIC 快楽天ビースト 2019年10月号)",
+    "sourceUrl": "https://telegra.ph/山芋とろろ-Heart-Switch-先生のお悩み編-COMIC-快楽天ビースト-2019年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1ef9d7dfeff37c9d083fe.jpg",
+        "https://telegra.ph/file/9a8bbe3ab9ffab97d9da0.jpg",
+        "https://telegra.ph/file/3d1b5a22d00ed0cf81c18.jpg",
+        "https://telegra.ph/file/cf131c3a8be017dfd0c7e.jpg",
+        "https://telegra.ph/file/31240a589873205c92f19.jpg",
+        "https://telegra.ph/file/16e9941dadba1317d27b0.jpg",
+        "https://telegra.ph/file/988201ac6b24f5cb76ce1.jpg",
+        "https://telegra.ph/file/81733fb64958f076da906.jpg",
+        "https://telegra.ph/file/4e6ce51a83e8fbc76cd68.jpg",
+        "https://telegra.ph/file/384e6e23d6f9203d17ade.jpg",
+        "https://telegra.ph/file/782fcc834da75d2f353bd.jpg",
+        "https://telegra.ph/file/d894a32760ccca2dd0e7e.jpg",
+        "https://telegra.ph/file/8ab20276afc5a8c4a8797.jpg",
+        "https://telegra.ph/file/7d95e05604e4be61890ab.jpg",
+        "https://telegra.ph/file/97641eba31ee17ffe2df6.jpg",
+        "https://telegra.ph/file/ea753c4ac5ac90d3c4c78.jpg",
+        "https://telegra.ph/file/e518952ee2bee662976ed.jpg",
+        "https://telegra.ph/file/c3dfe180acda9f81b4a4f.jpg",
+        "https://telegra.ph/file/46811c5a4a0d4cfedb71b.jpg",
+        "https://telegra.ph/file/d33ee4028c16c9df2ce7c.jpg",
+        "https://telegra.ph/file/f0e4450c9ca7076f31b6a.jpg",
+        "https://telegra.ph/file/78ffb6a9490ae737b52e8.jpg",
+        "https://telegra.ph/file/dd5872aced46583d1e357.jpg",
+        "https://telegra.ph/file/7864aabdfe7513613285c.jpg"
+    ]
+};

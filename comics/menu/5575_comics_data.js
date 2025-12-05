@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5575,
+    "title": "[高柳カツヤ] ちぐはぐな恋でもいいかなって",
+    "sourceUrl": "https://telegra.ph/高柳カツヤ-ちぐはぐな恋でもいいかなって-08-31",
+    "images": [
+        "https://telegra.ph/file/9284890a75dc6ac1f60c8.jpg",
+        "https://telegra.ph/file/b3c1eaadd4cb4c95cca86.jpg",
+        "https://telegra.ph/file/2f6fa115b5f9c554cf80b.jpg",
+        "https://telegra.ph/file/4a69759b6f1995aa00cd1.jpg",
+        "https://telegra.ph/file/f183a083ec1dcfe5de9e8.jpg",
+        "https://telegra.ph/file/6f22dd74dde8ead1abcbc.jpg",
+        "https://telegra.ph/file/c322467c42a627755ebb2.jpg",
+        "https://telegra.ph/file/43d1d1635773cdb331723.jpg",
+        "https://telegra.ph/file/ab42040f7b8a857437759.jpg",
+        "https://telegra.ph/file/c044c4c37247074572050.jpg",
+        "https://telegra.ph/file/54fdbe558b5bab7af5d2d.jpg",
+        "https://telegra.ph/file/9cea9e2e85b4b9b2fee29.jpg",
+        "https://telegra.ph/file/16addcdbdf62d960d1e70.jpg",
+        "https://telegra.ph/file/fc1dcbe13ec3f7022d65b.jpg",
+        "https://telegra.ph/file/9a5b32e95fde780f788b0.jpg",
+        "https://telegra.ph/file/9eb6df63ffb79ff53b483.jpg",
+        "https://telegra.ph/file/2cb2a1531668daec43613.jpg",
+        "https://telegra.ph/file/75e79ebef50b29d7f23d8.jpg",
+        "https://telegra.ph/file/aa0265bfd92883f08f372.jpg",
+        "https://telegra.ph/file/1bc46eb99af2839e4d024.jpg",
+        "https://telegra.ph/file/f3578132736da064477eb.jpg",
+        "https://telegra.ph/file/0949b74f2cfc2f4a3c59c.jpg",
+        "https://telegra.ph/file/a31f9e18a9233f2cfff47.jpg",
+        "https://telegra.ph/file/ff212fc1825c32817fbee.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5596,
+    "title": "[オオカミうお] 覗く目",
+    "sourceUrl": "https://telegra.ph/オオカミうお-覗く目-08-31",
+    "images": [
+        "https://telegra.ph/file/fd147244a85b0df878c70.jpg",
+        "https://telegra.ph/file/6153010e9b1d43d432b1f.jpg",
+        "https://telegra.ph/file/6b14c0d2a545dd06fdf17.jpg",
+        "https://telegra.ph/file/c0e8e1ba946aba8554435.jpg",
+        "https://telegra.ph/file/638215f6549452a69fad2.jpg",
+        "https://telegra.ph/file/71284a1e32492a18a677b.jpg",
+        "https://telegra.ph/file/78df85a6eea3120f3f234.jpg",
+        "https://telegra.ph/file/f64925029b94dc341cfce.jpg",
+        "https://telegra.ph/file/94e10c2932463ea3faf1f.jpg",
+        "https://telegra.ph/file/297ac3c8f30e65a0145b1.jpg",
+        "https://telegra.ph/file/63c2a828a954ace288488.jpg",
+        "https://telegra.ph/file/2892d53afc9e6aded6898.jpg",
+        "https://telegra.ph/file/94ccee6b9106f955f05de.jpg",
+        "https://telegra.ph/file/52c9f2d23d8d27160e2ba.jpg",
+        "https://telegra.ph/file/9160cae29653cdd93e6ca.jpg",
+        "https://telegra.ph/file/2d3a3601b094e304a5340.jpg",
+        "https://telegra.ph/file/fb92b9e3886170d393819.jpg",
+        "https://telegra.ph/file/3c55ce37aadacd8f3995e.jpg",
+        "https://telegra.ph/file/0ca7bf2a24193502a1088.jpg",
+        "https://telegra.ph/file/7b815646300f8f8ddb020.jpg",
+        "https://telegra.ph/file/f04449f7588172b42f051.jpg",
+        "https://telegra.ph/file/079cafc970afefe422223.jpg",
+        "https://telegra.ph/file/7b6d5fab8280947795848.jpg",
+        "https://telegra.ph/file/e851620b37338edf9834a.jpg"
+    ]
+};

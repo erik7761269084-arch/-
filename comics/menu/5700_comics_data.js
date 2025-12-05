@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5700,
+    "title": "[Cuvie] 春からの大進展性活",
+    "sourceUrl": "https://telegra.ph/Cuvie-春からの大進展性活-08-31",
+    "images": [
+        "https://telegra.ph/file/b120e73510d83945a3463.jpg",
+        "https://telegra.ph/file/f7d08df89d6b7a6bc8bfe.jpg",
+        "https://telegra.ph/file/62268f8c6f676dfc8c9df.jpg",
+        "https://telegra.ph/file/90f316f2ac45a7d6b32a4.jpg",
+        "https://telegra.ph/file/e3c7875e75fa26617c711.jpg",
+        "https://telegra.ph/file/1b4464b6f344e7dd6f7ed.jpg",
+        "https://telegra.ph/file/9ff921608972ae2019c71.jpg",
+        "https://telegra.ph/file/453b9ec7c262e18a37a3b.jpg",
+        "https://telegra.ph/file/3a08fa51c07f030092bbe.jpg",
+        "https://telegra.ph/file/c530c4b33ad9e0cd690d7.jpg",
+        "https://telegra.ph/file/0cad6967a8c0a1b8e3dcd.jpg",
+        "https://telegra.ph/file/bd2c387be0f75ac2db0ee.jpg",
+        "https://telegra.ph/file/3fb684b76c77c9b076c4d.jpg",
+        "https://telegra.ph/file/706eef7a0dfa9a3f1102d.jpg",
+        "https://telegra.ph/file/4bebd83efeb33216bd419.jpg",
+        "https://telegra.ph/file/dfe516e8997c80571ea44.jpg",
+        "https://telegra.ph/file/c216aa51ad1e68489ed7b.jpg",
+        "https://telegra.ph/file/3888b39485371fe32bca4.jpg",
+        "https://telegra.ph/file/f5a0455a00442505863f2.jpg",
+        "https://telegra.ph/file/49956a8f4a22f129f7ba8.jpg",
+        "https://telegra.ph/file/2ed2fa95d6d563c35252b.jpg",
+        "https://telegra.ph/file/2348b68cfa7921ee55ca3.jpg",
+        "https://telegra.ph/file/31dbd89b6974954c564ba.jpg",
+        "https://telegra.ph/file/d5d33774770b258077ecc.jpg",
+        "https://telegra.ph/file/1266a82983defeac3529c.jpg"
+    ]
+};

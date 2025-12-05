@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5053,
+    "title": "(COMIC1 BS祭 スペシャル) [林檎のなる木 (木瀬樹)] お兄ちゃんイリヤとしよ？ (Fate kaleid liner プリズマ☆イリヤ)",
+    "sourceUrl": "https://telegra.ph/COMIC1-BS祭-スペシャル-林檎のなる木-木瀬樹-お兄ちゃんイリヤとしよ-Fate-kaleid-liner-プリズマイリヤ-08-31-3",
+    "images": [
+        "https://telegra.ph/file/222b27cf7434febeae2c4.png",
+        "https://telegra.ph/file/62345aca9dc493f481bb4.png",
+        "https://telegra.ph/file/c658f0411b79dd74b0e3d.png",
+        "https://telegra.ph/file/92172afc69b5fe86badb9.png",
+        "https://telegra.ph/file/1f1dae88a0252ed2d2136.png",
+        "https://telegra.ph/file/0cb9aacc3fc3af29d6903.png",
+        "https://telegra.ph/file/f4cb0ce033ac3c5f72d4f.png",
+        "https://telegra.ph/file/1b93b6a7fd2a92474b569.png",
+        "https://telegra.ph/file/4944d492502e3e6c36056.png",
+        "https://telegra.ph/file/e7c352c956e1d524e57ed.png",
+        "https://telegra.ph/file/0fce5cb2d1262c99c134d.png",
+        "https://telegra.ph/file/ced7089d163c7735a4a1c.png",
+        "https://telegra.ph/file/d7c67d6b3ce0e4a9859d4.png",
+        "https://telegra.ph/file/7c9749834ae73bbf38eb7.png",
+        "https://telegra.ph/file/82a72705833033e9fde08.png",
+        "https://telegra.ph/file/a31e704c77c35c05e942d.png",
+        "https://telegra.ph/file/c6924ab50e82ed4624eba.png",
+        "https://telegra.ph/file/5c72a82ea995b0c1fa047.png",
+        "https://telegra.ph/file/f497b1cc8c716c04a9ac3.png",
+        "https://telegra.ph/file/4a8ccad5a7fa9509c59d3.png",
+        "https://telegra.ph/file/be2390a8867dec6e00b4b.png",
+        "https://telegra.ph/file/d4ee28c817753bb5b0120.png",
+        "https://telegra.ph/file/4bba5e3f39693709d90de.png",
+        "https://telegra.ph/file/89b7eff3d4c2597e26ad9.png",
+        "https://telegra.ph/file/865259e117be80f0df3cd.png",
+        "https://telegra.ph/file/d44001a11df5da21c176c.png"
+    ]
+};

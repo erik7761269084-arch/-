@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2991,
+    "title": "[筆鍋 (筆禍)] 実録!本当にあったVRChatのえっちな話",
+    "sourceUrl": "https://telegra.ph/筆鍋-筆禍-実録本当にあったVRChatのえっちな話-08-31",
+    "images": [
+        "https://telegra.ph/file/e6b1267c353496d410656.jpg",
+        "https://telegra.ph/file/038616007e16c8d0528c7.jpg",
+        "https://telegra.ph/file/41248fa4b6a33cfe78256.jpg",
+        "https://telegra.ph/file/f2523048dbbe51c59a20a.jpg",
+        "https://telegra.ph/file/c16c224b65d8c87db42df.jpg",
+        "https://telegra.ph/file/6bd6ad37775b58d1d9fb0.jpg",
+        "https://telegra.ph/file/87bf052df017a636655ea.jpg",
+        "https://telegra.ph/file/ec8f7bb893069db1e2f3d.jpg",
+        "https://telegra.ph/file/b29993093f00860999a86.jpg",
+        "https://telegra.ph/file/eb9b108c4304c442824c3.jpg",
+        "https://telegra.ph/file/dabbe045d0e87729f8ad0.jpg",
+        "https://telegra.ph/file/06d39fccfa9d0bb602cc8.jpg",
+        "https://telegra.ph/file/688d505adc78275c95ba0.jpg",
+        "https://telegra.ph/file/60f68217f6e8bbb961761.jpg",
+        "https://telegra.ph/file/a1b95c86767625b82d8e0.jpg",
+        "https://telegra.ph/file/0dc221233da5ba2dc91a1.jpg",
+        "https://telegra.ph/file/4db7649b8b195560ead6d.jpg",
+        "https://telegra.ph/file/75b11c3da194aeb29009f.jpg",
+        "https://telegra.ph/file/bf36c8c584403f46f495a.jpg",
+        "https://telegra.ph/file/458ec572332c51980f0bd.jpg",
+        "https://telegra.ph/file/420b3357b52f0afc62712.jpg",
+        "https://telegra.ph/file/ccbaa66c8aeb4f56069f5.jpg",
+        "https://telegra.ph/file/ecc239fcbae47dca20d65.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7635,
+    "title": "無口な彼女",
+    "sourceUrl": "https://telegra.ph/無口な彼女-08-31",
+    "images": [
+        "https://telegra.ph/file/35aa31a3712d6d48bea6f.jpg",
+        "https://telegra.ph/file/37b9abfc02bfafc02e28e.jpg",
+        "https://telegra.ph/file/250276095080a04e086ee.jpg",
+        "https://telegra.ph/file/3f4238a449f92b3df6602.jpg",
+        "https://telegra.ph/file/14571d2525d3266b84dca.jpg",
+        "https://telegra.ph/file/1f5eb1f64076f8715b77d.jpg",
+        "https://telegra.ph/file/f32989876de5a4ff2f484.jpg",
+        "https://telegra.ph/file/f68f77ba4b475ad9ce133.jpg",
+        "https://telegra.ph/file/34c5bc4079ba92a062e2e.jpg",
+        "https://telegra.ph/file/8b9a64b4e0829cfe8e11e.jpg",
+        "https://telegra.ph/file/7340d4d7ce73b855fc559.jpg",
+        "https://telegra.ph/file/42e7716b30cbce46199cd.jpg",
+        "https://telegra.ph/file/a74e129830698ab443c67.jpg",
+        "https://telegra.ph/file/759f6975985932a133b59.jpg",
+        "https://telegra.ph/file/dd65fbc5e7fea8ead802c.jpg",
+        "https://telegra.ph/file/6a5661e67e4f03a9a8380.jpg",
+        "https://telegra.ph/file/8eeda77638689b1e64390.jpg",
+        "https://telegra.ph/file/76e842daf8f96b828bf38.jpg",
+        "https://telegra.ph/file/edd380f8818b9f69de188.jpg",
+        "https://telegra.ph/file/f4497be12f88770717b49.jpg",
+        "https://telegra.ph/file/560561327a655228eb1c9.jpg",
+        "https://telegra.ph/file/74bae90d7077b777d0db3.jpg",
+        "https://telegra.ph/file/d0b0955fb8da8416aca60.jpg",
+        "https://telegra.ph/file/7f49a684a0758cceea8c9.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2327,
+    "title": "[白鷺六羽] カゴノアイ (COMIC 快楽天ビースト 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/白鷺六羽-カゴノアイ-COMIC-快楽天ビースト-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/31958924492f1f2967019.jpg",
+        "https://telegra.ph/file/100dbd24dbb6a1850473f.jpg",
+        "https://telegra.ph/file/d832cfbd0bfcad97fb405.jpg",
+        "https://telegra.ph/file/2ba59651762ec4c96fa65.jpg",
+        "https://telegra.ph/file/817d756048e052adfaea0.jpg",
+        "https://telegra.ph/file/42b464ca5811656555571.jpg",
+        "https://telegra.ph/file/b2da4f8025991b5f27fa0.jpg",
+        "https://telegra.ph/file/d30b9f04337744505740d.jpg",
+        "https://telegra.ph/file/d2c3e2966c45783c01ceb.jpg",
+        "https://telegra.ph/file/d7492e17912047514fffe.jpg",
+        "https://telegra.ph/file/c63468d64c495e9275af7.jpg",
+        "https://telegra.ph/file/57d2114f2fe069fc54147.jpg",
+        "https://telegra.ph/file/43a8b33fe7c48ce46f429.jpg",
+        "https://telegra.ph/file/37187a9652cbbe0c93839.jpg",
+        "https://telegra.ph/file/f4b5eeab42a6c68277243.jpg",
+        "https://telegra.ph/file/b3a20cd409585d50f2c11.jpg",
+        "https://telegra.ph/file/7c471df0b3aa1885d0c9d.jpg",
+        "https://telegra.ph/file/f1a66bc02493c435b9a36.jpg",
+        "https://telegra.ph/file/5ffa447f7a896e839f1ee.jpg",
+        "https://telegra.ph/file/c5e69c34f3dc6dc05af2d.jpg",
+        "https://telegra.ph/file/b0f76da453361a1cfaec4.jpg",
+        "https://telegra.ph/file/e4631b4952d5ef0d0cd70.jpg",
+        "https://telegra.ph/file/8d295b7d0218e489aedc8.jpg",
+        "https://telegra.ph/file/a7b65670185cccef7a385.jpg"
+    ]
+};

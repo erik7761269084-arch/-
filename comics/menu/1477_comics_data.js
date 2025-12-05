@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1477,
+    "title": "[にこびぃ] ちゃんといってよ (COMIC 快楽天ビースト 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/にこびぃ-ちゃんといってよ-COMIC-快楽天ビースト-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a6c70a9c2e3738de594f1.jpg",
+        "https://telegra.ph/file/79121ff1faedf73a68509.jpg",
+        "https://telegra.ph/file/08e64823c73149611a67a.jpg",
+        "https://telegra.ph/file/f5dc38ad843bf2c2f9231.jpg",
+        "https://telegra.ph/file/f0e953a094d7210529da3.jpg",
+        "https://telegra.ph/file/cb516e701aa0e41cd1114.jpg",
+        "https://telegra.ph/file/96d055c942f447bc5f13a.jpg",
+        "https://telegra.ph/file/030cf683ec3521774449b.jpg",
+        "https://telegra.ph/file/1a1b2143eee985e6e1a70.jpg",
+        "https://telegra.ph/file/2c77f2b177f9e4023e72e.jpg",
+        "https://telegra.ph/file/4af051189bceed5286ddd.jpg",
+        "https://telegra.ph/file/45647bcde0768cc1ac359.jpg",
+        "https://telegra.ph/file/2a1dba4087a66fbbcaf13.jpg",
+        "https://telegra.ph/file/74a26d6553473a1ab02f0.jpg",
+        "https://telegra.ph/file/23d607a165ae1cc2b5df6.jpg",
+        "https://telegra.ph/file/0915c11eb3f9df10a0cc5.jpg",
+        "https://telegra.ph/file/05a77d0791f4388268a28.jpg",
+        "https://telegra.ph/file/4cc7f2e07654bb2854ec8.jpg",
+        "https://telegra.ph/file/107203f783d5f46fc7397.jpg",
+        "https://telegra.ph/file/13e6746343c945645c38f.jpg",
+        "https://telegra.ph/file/942887372e838716b124e.jpg",
+        "https://telegra.ph/file/7bd19daad78485b901159.jpg",
+        "https://telegra.ph/file/9ba9c0f27921e41a21cc2.jpg",
+        "https://telegra.ph/file/05c5b7adfe574923fc83d.jpg"
+    ]
+};

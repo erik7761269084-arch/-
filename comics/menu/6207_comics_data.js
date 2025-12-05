@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6207,
+    "title": "[森島コン] お風呂とらぶるっ",
+    "sourceUrl": "https://telegra.ph/森島コン-お風呂とらぶるっ-08-31",
+    "images": [
+        "https://telegra.ph/file/0ae67507fa69b9d96be7f.jpg",
+        "https://telegra.ph/file/e86c34bfb486d35e40ff1.jpg",
+        "https://telegra.ph/file/dc72bfc18ee29940b7066.jpg",
+        "https://telegra.ph/file/bacdb8c22b9769546570d.jpg",
+        "https://telegra.ph/file/80267501ad4ff3241d49d.jpg",
+        "https://telegra.ph/file/26c558b20fec078b98c2a.jpg",
+        "https://telegra.ph/file/097d23481b3af60ef1fb0.jpg",
+        "https://telegra.ph/file/288ea8ff815604b2b27c7.jpg",
+        "https://telegra.ph/file/71d580a7c1d35b697858f.jpg",
+        "https://telegra.ph/file/26dc4d5d5f5a086182108.jpg",
+        "https://telegra.ph/file/38d3c8702ecc0c3bd17f7.jpg",
+        "https://telegra.ph/file/b30990cfc85ed086c39da.jpg",
+        "https://telegra.ph/file/5e588f45606b5f465ff27.jpg",
+        "https://telegra.ph/file/335d227771d0e206bda4a.jpg",
+        "https://telegra.ph/file/952e3dde1af0593e82ffe.jpg",
+        "https://telegra.ph/file/82a219dbd8283a722acba.jpg",
+        "https://telegra.ph/file/9a1843197f22ea31c55be.jpg",
+        "https://telegra.ph/file/063821395de796b0d7d80.jpg",
+        "https://telegra.ph/file/f7269c1693bc041e80ebe.jpg",
+        "https://telegra.ph/file/cd6ed1a91c414cf192831.jpg",
+        "https://telegra.ph/file/4c9594d2d7864af4983ee.jpg",
+        "https://telegra.ph/file/91a84d97747de88d43ce1.jpg",
+        "https://telegra.ph/file/a7fce7ad149803c466725.jpg",
+        "https://telegra.ph/file/1ac5024bb5151801348d9.jpg"
+    ]
+};

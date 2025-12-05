@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6436,
+    "title": "今日は温泉セックスをしました",
+    "sourceUrl": "https://telegra.ph/今日は温泉セックスをしました-08-31",
+    "images": [
+        "https://telegra.ph/file/06042bffc6181452bfc02.jpg",
+        "https://telegra.ph/file/83b75b66968b2dc124ebc.jpg",
+        "https://telegra.ph/file/7cc591d08ccda6e777dd9.jpg",
+        "https://telegra.ph/file/69a11197513fe23f66870.jpg",
+        "https://telegra.ph/file/7526e31c2ca369f0a53a0.jpg",
+        "https://telegra.ph/file/1a51258ae75a20280a77f.jpg",
+        "https://telegra.ph/file/e28f201824323daac63d8.jpg",
+        "https://telegra.ph/file/86908941955c5287ef569.jpg",
+        "https://telegra.ph/file/33f32d24a1ea410c7a39e.jpg",
+        "https://telegra.ph/file/74002eff0c801221e8dee.jpg",
+        "https://telegra.ph/file/142991244eb52b3e4203d.jpg",
+        "https://telegra.ph/file/a9fe17052d633578821b2.jpg",
+        "https://telegra.ph/file/bcf2a00a93e5bd47eb2f3.jpg",
+        "https://telegra.ph/file/4b3787eb60a707b1ce56f.jpg",
+        "https://telegra.ph/file/4eba7cc85bedda55b18a3.jpg",
+        "https://telegra.ph/file/790a402df81d0f36ef822.jpg",
+        "https://telegra.ph/file/28d40fd5d96499b79b315.jpg",
+        "https://telegra.ph/file/a2975e7c8ffdd5154dabd.jpg",
+        "https://telegra.ph/file/a75f845f450990a10d446.jpg",
+        "https://telegra.ph/file/ddbc9c3e03217a9bd81da.jpg",
+        "https://telegra.ph/file/6c2a2f77a7337bae3baf9.jpg",
+        "https://telegra.ph/file/cf98b90b67357c4303791.jpg",
+        "https://telegra.ph/file/228e884ef2bb06141d598.jpg",
+        "https://telegra.ph/file/4e7ac84effd42cc02572c.jpg"
+    ]
+};

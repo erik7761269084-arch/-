@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6657,
+    "title": "乙女心と一航戦 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/乙女心と一航戦-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/3bfd8cd53cbd1642aaf51.jpg",
+        "https://telegra.ph/file/336a9fa95e6d23e000a2b.jpg",
+        "https://telegra.ph/file/7cc9f41f30e944e7b4b3a.jpg",
+        "https://telegra.ph/file/aa02c8ecf3d40b27ba811.jpg",
+        "https://telegra.ph/file/19906b748ed6d5b7cab95.jpg",
+        "https://telegra.ph/file/39f1ef876746bf94d3361.jpg",
+        "https://telegra.ph/file/6e034e1512efff40b61be.jpg",
+        "https://telegra.ph/file/dce86636c38eb1f60b212.jpg",
+        "https://telegra.ph/file/0641f0c4cc271d7fcfd3b.jpg",
+        "https://telegra.ph/file/eb135007afb6951ae5f07.jpg",
+        "https://telegra.ph/file/9b766cd43e8b1805ea2f0.jpg",
+        "https://telegra.ph/file/94d396ad235eb106a887a.jpg",
+        "https://telegra.ph/file/f1ae5fe12faa2ca7f95ce.jpg",
+        "https://telegra.ph/file/ca230364c6740f00e2f15.jpg",
+        "https://telegra.ph/file/f1a902281a27a01d632f7.jpg",
+        "https://telegra.ph/file/cb258b9891b5096183ed7.jpg",
+        "https://telegra.ph/file/1157c1dcd6765d6f700b0.jpg",
+        "https://telegra.ph/file/a8848998b3622a41c23d8.jpg",
+        "https://telegra.ph/file/7c78f4fca9f5eb7cf465a.jpg",
+        "https://telegra.ph/file/4f78ff509a20aa094dd9b.jpg",
+        "https://telegra.ph/file/24bb5e4366409cae100ec.jpg",
+        "https://telegra.ph/file/c08049386054a955e5117.jpg",
+        "https://telegra.ph/file/7112e90b88910073f5aad.jpg",
+        "https://telegra.ph/file/46b95d2e5449169de7145.jpg"
+    ]
+};

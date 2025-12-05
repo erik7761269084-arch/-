@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7410,
+    "title": "秘湯妻",
+    "sourceUrl": "https://telegra.ph/秘湯妻-08-31",
+    "images": [
+        "https://telegra.ph/file/0f62c92455e754b017277.jpg",
+        "https://telegra.ph/file/0a5d25908f3b6d337602b.jpg",
+        "https://telegra.ph/file/37b1e120beaa06d36c313.jpg",
+        "https://telegra.ph/file/f3f98a7efc65b42d46d69.jpg",
+        "https://telegra.ph/file/e5f9e8f515b38ffea0fab.jpg",
+        "https://telegra.ph/file/b58fab5a4e915429b7c7b.jpg",
+        "https://telegra.ph/file/930052504eab7f7826641.jpg",
+        "https://telegra.ph/file/7ffbf138f559e4645e8d6.jpg",
+        "https://telegra.ph/file/790f208e2e6b053e2fa62.jpg",
+        "https://telegra.ph/file/6f0bdd276b3e354dad23b.jpg",
+        "https://telegra.ph/file/fc659eb93433f8a707325.jpg",
+        "https://telegra.ph/file/94d06c71db189acf9f128.jpg",
+        "https://telegra.ph/file/f9458bc52bd2cbfb73cf1.jpg",
+        "https://telegra.ph/file/9b6219a2c85bdff185a5f.jpg",
+        "https://telegra.ph/file/df8dfbf33bb4c2598b256.jpg",
+        "https://telegra.ph/file/ae479a499a5e77097e47e.jpg",
+        "https://telegra.ph/file/670465509802e2f3f5b83.jpg",
+        "https://telegra.ph/file/7a60c8263b961d5e0ae53.jpg",
+        "https://telegra.ph/file/4203eddf41542f6f9587f.jpg",
+        "https://telegra.ph/file/c495567343aacf5a1bdb5.jpg",
+        "https://telegra.ph/file/9dd0b154e92030d96d60f.jpg",
+        "https://telegra.ph/file/8578f630c504c193b570a.jpg",
+        "https://telegra.ph/file/cd669ccd94d5c893cf62b.jpg",
+        "https://telegra.ph/file/a6fcd5e2283b187e0ea71.jpg"
+    ]
+};

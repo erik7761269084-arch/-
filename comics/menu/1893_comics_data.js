@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1893,
+    "title": "[ゆずぽん酢 (ジセキ)] 腹ペコXXさんはデザート(ショタ)がお好き (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ゆずぽん酢-ジセキ-腹ペコXXさんはデザートショタがお好き-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/37b4d56bdf97bd29af57e.jpg",
+        "https://telegra.ph/file/473b6a6f95db80db85e4f.jpg",
+        "https://telegra.ph/file/56b8f2c01741ba394254d.jpg",
+        "https://telegra.ph/file/236011052dc1950e8aa79.jpg",
+        "https://telegra.ph/file/d15c9ec08bb46855467dd.jpg",
+        "https://telegra.ph/file/bbf68ba5598f02ce73c73.jpg",
+        "https://telegra.ph/file/8cfb78093ce96c4e5739e.jpg",
+        "https://telegra.ph/file/29c3cc825ac66e96668cf.jpg",
+        "https://telegra.ph/file/898d0656318718a29784b.jpg",
+        "https://telegra.ph/file/d30fb961dc33a56bd2dff.jpg",
+        "https://telegra.ph/file/d0b61b47db3972e235a9d.jpg",
+        "https://telegra.ph/file/ff06b3aa8f6951fbc384d.jpg",
+        "https://telegra.ph/file/263d95b5e3e49479e17a6.jpg",
+        "https://telegra.ph/file/7115753b0c739e0f9ddb7.jpg",
+        "https://telegra.ph/file/b83a34a5508180d594c52.jpg",
+        "https://telegra.ph/file/c69440051510ec406be84.jpg",
+        "https://telegra.ph/file/03ea97ce41ecb915bb80a.jpg",
+        "https://telegra.ph/file/075f754fdf5239c9dad1c.jpg",
+        "https://telegra.ph/file/d700aa89d55f3a059f544.jpg",
+        "https://telegra.ph/file/6c875abc3d000145e4085.jpg",
+        "https://telegra.ph/file/b2ea23c7948d899440896.jpg",
+        "https://telegra.ph/file/fcc95f4795bf4313ad38d.jpg",
+        "https://telegra.ph/file/d0d4da882b51794eabd38.jpg",
+        "https://telegra.ph/file/34b463167fb397a87409e.jpg",
+        "https://telegra.ph/file/c0b071c8f89fde486701d.jpg",
+        "https://telegra.ph/file/b700b9f38ba968e40b805.jpg"
+    ]
+};

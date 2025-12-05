@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7440,
+    "title": "Other・Sister",
+    "sourceUrl": "https://telegra.ph/OtherSister-08-31",
+    "images": [
+        "https://telegra.ph/file/c3d9ffa652ac42a8273fb.png",
+        "https://telegra.ph/file/fea18e748412a7bd29eab.png",
+        "https://telegra.ph/file/f6070b380475d0ea57e33.png",
+        "https://telegra.ph/file/fa0f2ce8e867415e7625f.png",
+        "https://telegra.ph/file/b9b42f3b38ce18933d1dd.png",
+        "https://telegra.ph/file/d10b7ac29191036c6d87c.png",
+        "https://telegra.ph/file/6cf1037c8219ac7eb7a4e.png",
+        "https://telegra.ph/file/c5816e69f2ba750d64cf6.png",
+        "https://telegra.ph/file/85c2e1328dc5428312c80.png",
+        "https://telegra.ph/file/e3453d95d40cd5d0c6024.png",
+        "https://telegra.ph/file/a560f315382fb58f5079a.png",
+        "https://telegra.ph/file/67758dfa5a2803998dfb4.png",
+        "https://telegra.ph/file/8b59ddd15c7551bd7d2e7.png",
+        "https://telegra.ph/file/f90bbfcd81526be02dc35.png",
+        "https://telegra.ph/file/f363d50ea9f1aecb82310.png",
+        "https://telegra.ph/file/989ddad340e7d0908b0dc.png",
+        "https://telegra.ph/file/14b67f0d15f9a983c7de9.png",
+        "https://telegra.ph/file/e4a1ea3580413d1bf08e2.png",
+        "https://telegra.ph/file/564b59e4f84e44c4f8fd0.png",
+        "https://telegra.ph/file/04a419ec654d5b29e984a.png",
+        "https://telegra.ph/file/1ea4af054dfc2ff6ce9d9.png",
+        "https://telegra.ph/file/bb18f1f92eaa43733baad.png",
+        "https://telegra.ph/file/f742074a3fed558cedde6.png",
+        "https://telegra.ph/file/3e6d4beed8934f4234acf.png"
+    ]
+};

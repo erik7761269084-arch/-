@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6618,
+    "title": "女戦士∞マドハンド地獄 (ドラゴンクエストIII)",
+    "sourceUrl": "https://telegra.ph/女戦士マドハンド地獄-ドラゴンクエストIII-08-31",
+    "images": [
+        "https://telegra.ph/file/30cc52616ebc13a350bf3.jpg",
+        "https://telegra.ph/file/56327bebdb0e24d9b5bcc.jpg",
+        "https://telegra.ph/file/a6a6a5df8a78812b075c4.jpg",
+        "https://telegra.ph/file/96878d46b34fa1b969b55.jpg",
+        "https://telegra.ph/file/98689c91aca9895bb471b.jpg",
+        "https://telegra.ph/file/b0073eeb5791dab7f2470.jpg",
+        "https://telegra.ph/file/651c129a1114050ee1480.jpg",
+        "https://telegra.ph/file/0c8df6715dae1c38567f7.jpg",
+        "https://telegra.ph/file/80135a891fe4c526761af.jpg",
+        "https://telegra.ph/file/0d9dc24735324f4c3781b.jpg",
+        "https://telegra.ph/file/1db42df2e101409872589.jpg",
+        "https://telegra.ph/file/633cf2c8a7bcfca68e870.jpg",
+        "https://telegra.ph/file/18ff78351676ae1929a1d.jpg",
+        "https://telegra.ph/file/cd2af982ff36e44ce169e.jpg",
+        "https://telegra.ph/file/fd753075a66281041a247.jpg",
+        "https://telegra.ph/file/4f1c15d67338a68450f36.jpg",
+        "https://telegra.ph/file/51e5b3f2468fb9ac263cc.jpg",
+        "https://telegra.ph/file/4714051dfe93df6652bc6.jpg",
+        "https://telegra.ph/file/6647170238f24c86a6c8f.jpg",
+        "https://telegra.ph/file/635c61c99dc611384ad15.jpg",
+        "https://telegra.ph/file/31286ac81b33506837134.jpg",
+        "https://telegra.ph/file/e433f9a5b8dee7c22863d.jpg",
+        "https://telegra.ph/file/039596dd43656d23de3c1.jpg",
+        "https://telegra.ph/file/d277f8dd6982fc00b4f65.jpg",
+        "https://telegra.ph/file/bd9ee65fa322d5effe128.jpg"
+    ]
+};

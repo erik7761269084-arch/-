@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4375,
+    "title": "[ブリッツクリーク (電池)] 優等生男子の堕とし方～夏休み～",
+    "sourceUrl": "https://telegra.ph/ブリッツクリーク-電池-優等生男子の堕とし方夏休み-08-31",
+    "images": [
+        "https://telegra.ph/file/33ee9c0f0561fe38b6846.jpg",
+        "https://telegra.ph/file/a068b7fee88e915c2638e.jpg",
+        "https://telegra.ph/file/d435e48ce5928dcf0ff6b.jpg",
+        "https://telegra.ph/file/ebb4d104a364510cbc4b2.jpg",
+        "https://telegra.ph/file/22ed922684fcc98428ffc.jpg",
+        "https://telegra.ph/file/153f14368d4ae9df6b8b8.jpg",
+        "https://telegra.ph/file/ee469f6430a3f04d1410d.jpg",
+        "https://telegra.ph/file/1e77ee9ed39f344d28d95.jpg",
+        "https://telegra.ph/file/cb1048e275150dfc748e9.jpg",
+        "https://telegra.ph/file/858f4f98d531ad797a23a.jpg",
+        "https://telegra.ph/file/419b3c0bfa69c0f08dee5.jpg",
+        "https://telegra.ph/file/9c274e6941a133bd347cc.jpg",
+        "https://telegra.ph/file/10b78f97d2eb36b9e0582.jpg",
+        "https://telegra.ph/file/09e7e47699fb23cbb2559.jpg",
+        "https://telegra.ph/file/0fca080167c87adff947a.jpg",
+        "https://telegra.ph/file/2c9c98d9c8e2a34f95937.jpg",
+        "https://telegra.ph/file/b0fd9be1b1d71cd07ba22.jpg",
+        "https://telegra.ph/file/167cd660e2f29d88aa2ad.jpg",
+        "https://telegra.ph/file/e5d6783ce9eff6e85478f.jpg",
+        "https://telegra.ph/file/c3222d323994dd8a7072a.jpg",
+        "https://telegra.ph/file/913e4de569234624c1399.jpg",
+        "https://telegra.ph/file/be3640b1332f784e03a1d.jpg",
+        "https://telegra.ph/file/a617f324804b320d9119f.jpg",
+        "https://telegra.ph/file/fb8d6ee30d06f78b8effb.jpg",
+        "https://telegra.ph/file/b15058f85a77c7486c310.jpg"
+    ]
+};

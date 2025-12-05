@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3951,
+    "title": "(COMIC1 BS祭 スペシャル) [ぱんのみみ (ぱん)] COLORFUL PANCAKE UNIFORM",
+    "sourceUrl": "https://telegra.ph/COMIC1-BS祭-スペシャル-ぱんのみみ-ぱん-COLORFUL-PANCAKE-UNIFORM-08-31",
+    "images": [
+        "https://telegra.ph/file/674a9f547a1e4fbde3d8f.jpg",
+        "https://telegra.ph/file/0abfdb5809efdbba3b45f.jpg",
+        "https://telegra.ph/file/28d27636d6ac75c5f0f0f.jpg",
+        "https://telegra.ph/file/62791ee79aee952a5730f.jpg",
+        "https://telegra.ph/file/fdf086e1b06caf8010a2e.jpg",
+        "https://telegra.ph/file/476a3e21b66f53c3d111f.jpg",
+        "https://telegra.ph/file/94c6b106c8890b5f9b513.jpg",
+        "https://telegra.ph/file/e0714023d1da33a19024d.jpg",
+        "https://telegra.ph/file/e8808f6356cb90f7f8206.jpg",
+        "https://telegra.ph/file/ff3dc31caa41f62746c47.jpg",
+        "https://telegra.ph/file/e006a1498c5d2203941f1.jpg",
+        "https://telegra.ph/file/3045eda381765bced3f43.jpg",
+        "https://telegra.ph/file/fc37f98e37f5d09c17556.jpg",
+        "https://telegra.ph/file/447ddd3fd721316d19219.jpg",
+        "https://telegra.ph/file/6a1ae80f530a5a9c58ed3.jpg",
+        "https://telegra.ph/file/eef720405f5a513508712.jpg",
+        "https://telegra.ph/file/930791d47ea51d907cbcf.jpg",
+        "https://telegra.ph/file/1f3f2336f8c83ea3d0030.jpg",
+        "https://telegra.ph/file/c26e3f594f7a6ad531402.jpg",
+        "https://telegra.ph/file/65084c78c5fe7a216ace6.jpg",
+        "https://telegra.ph/file/e11c055915d5e81bb4aac.jpg",
+        "https://telegra.ph/file/82c8d56f111447ffe436a.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

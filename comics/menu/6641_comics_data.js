@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6641,
+    "title": "IMAGINE!!～いいから想像して!!～ (IS＜インフィニット・ストラトス＞)",
+    "sourceUrl": "https://telegra.ph/IMAGINEいいから想像して-ISインフィニットストラトス-08-31",
+    "images": [
+        "https://telegra.ph/file/b509763e2c32a1cbdb12e.jpg",
+        "https://telegra.ph/file/e1cc6694ed865a01e496e.jpg",
+        "https://telegra.ph/file/fd08c61ae8290093b100f.jpg",
+        "https://telegra.ph/file/ae0a3454ff0795db76270.jpg",
+        "https://telegra.ph/file/3b2bc1c34b3eedf8cf41b.jpg",
+        "https://telegra.ph/file/c6a306a1810b19c59f628.jpg",
+        "https://telegra.ph/file/8af897d7ac46055ff06bd.jpg",
+        "https://telegra.ph/file/17d899154bd255b37ddd6.jpg",
+        "https://telegra.ph/file/9acced806c03096d55260.jpg",
+        "https://telegra.ph/file/c7bccebb493ca4bc45670.jpg",
+        "https://telegra.ph/file/0b4f022549dce46495135.jpg",
+        "https://telegra.ph/file/cd1cf3481bbe5b032de13.jpg",
+        "https://telegra.ph/file/04de49fa1a1e12339c571.jpg",
+        "https://telegra.ph/file/3efc8f904883a1a3207a0.jpg",
+        "https://telegra.ph/file/2a956c5b4996754b043c2.jpg",
+        "https://telegra.ph/file/14e6cd4ef82d4eef2efe9.jpg",
+        "https://telegra.ph/file/cf25aeeab6ace5d0ea9f0.jpg",
+        "https://telegra.ph/file/e57db2ed0477a3ba724f3.jpg",
+        "https://telegra.ph/file/ddd4e3078150e61b41762.jpg",
+        "https://telegra.ph/file/39451b5e6578167fa014e.jpg",
+        "https://telegra.ph/file/400b7af59dea11528b6aa.jpg",
+        "https://telegra.ph/file/45c963905f7450feb6477.jpg",
+        "https://telegra.ph/file/5cc6660deeedcdc15ca37.jpg"
+    ]
+};

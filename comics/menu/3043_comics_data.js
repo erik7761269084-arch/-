@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3043,
+    "title": "[恥辱庵] 背徳の百合園～妻を寝取った女上司に女性化調教される夫～",
+    "sourceUrl": "https://telegra.ph/恥辱庵-背徳の百合園妻を寝取った女上司に女性化調教される夫-08-31",
+    "images": [
+        "https://telegra.ph/file/d77f6ae4b3b666282b77a.jpg",
+        "https://telegra.ph/file/627f128f9938ae8dcece2.jpg",
+        "https://telegra.ph/file/2c1e0d3a4f3fa2554b774.jpg",
+        "https://telegra.ph/file/1a89344a9bfb91e15f267.jpg",
+        "https://telegra.ph/file/7c5db637d223157049cbb.jpg",
+        "https://telegra.ph/file/ffc526c41004fa7dfa39c.jpg",
+        "https://telegra.ph/file/9a2211705d130ff2c9e7f.jpg",
+        "https://telegra.ph/file/5e2436b4b9048ae463069.jpg",
+        "https://telegra.ph/file/7ae605771da2a69a86feb.jpg",
+        "https://telegra.ph/file/4f1f29cef8cca913e8e34.jpg",
+        "https://telegra.ph/file/59f937de352d18e3002e0.jpg",
+        "https://telegra.ph/file/920ba1fabbe13b0be09df.jpg",
+        "https://telegra.ph/file/22ec3902821eef1a2e38f.jpg",
+        "https://telegra.ph/file/c33f17c395b0c516836ab.jpg",
+        "https://telegra.ph/file/00333cd75766f235e15b5.jpg",
+        "https://telegra.ph/file/245bf0fd765fc179098ba.jpg",
+        "https://telegra.ph/file/b0b5b11cd5465de55a642.jpg",
+        "https://telegra.ph/file/cc88205e37abbe51d13de.jpg",
+        "https://telegra.ph/file/4353dd1496830daf0beb7.jpg",
+        "https://telegra.ph/file/c22750254fca15954c17c.jpg",
+        "https://telegra.ph/file/6e45c88c09aacc2224741.jpg",
+        "https://telegra.ph/file/34910c4e8ece17239a2e5.jpg",
+        "https://telegra.ph/file/c8562b9e366cc93ca3f5d.jpg",
+        "https://telegra.ph/file/788225cdffd3b215eee23.jpg",
+        "https://telegra.ph/file/8d8e44fb50edd39f8340b.jpg",
+        "https://telegra.ph/file/073315beb354130e6d535.jpg"
+    ]
+};

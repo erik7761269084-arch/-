@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6831,
+    "title": "種付寮へようこそ",
+    "sourceUrl": "https://telegra.ph/種付寮へようこそ-08-31",
+    "images": [
+        "https://telegra.ph/file/a1750f44e9c18eea64473.png",
+        "https://telegra.ph/file/f0178cbee316f8bde13c7.png",
+        "https://telegra.ph/file/3da6a28cb445747e902d4.png",
+        "https://telegra.ph/file/30dc6dc8f756eec8aa643.png",
+        "https://telegra.ph/file/802ccc96faf0a342bbc5d.png",
+        "https://telegra.ph/file/c2ad04699f6692b632861.png",
+        "https://telegra.ph/file/ec18510ab1266265610e1.png",
+        "https://telegra.ph/file/2e82642b310358ed5a664.png",
+        "https://telegra.ph/file/215742740c1e33c77ac8e.png",
+        "https://telegra.ph/file/7d1c87d7b891d6ce84f1d.png",
+        "https://telegra.ph/file/73401b9577847e4530405.png",
+        "https://telegra.ph/file/270471394a964026734bc.png",
+        "https://telegra.ph/file/0844a07242bf9ea3a6a2b.png",
+        "https://telegra.ph/file/68c617ddd5e8de08fb52f.png",
+        "https://telegra.ph/file/294db0d1aa8c26edb9289.png",
+        "https://telegra.ph/file/6335c92c088bd54a08154.png",
+        "https://telegra.ph/file/2234ad4a993379aab688e.png",
+        "https://telegra.ph/file/cb07d3b483e65ab35cd90.png",
+        "https://telegra.ph/file/60103f491c2acecc34049.png",
+        "https://telegra.ph/file/e800e5b54b6056206df15.png",
+        "https://telegra.ph/file/8b3e1adb10f1451e38342.png",
+        "https://telegra.ph/file/a8d5e4e5230b9918fdb0e.png",
+        "https://telegra.ph/file/8a9aa8a49a882e700ab66.png",
+        "https://telegra.ph/file/29bbbc24bd4048ab6cbbc.png"
+    ]
+};

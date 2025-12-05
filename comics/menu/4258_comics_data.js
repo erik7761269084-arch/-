@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4258,
+    "title": "[PIえろ] 七人のママ 最終話 (ANGEL 倶楽部 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/PIえろ-七人のママ-最終話-ANGEL-倶楽部-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/817c8a2c4b9436545b9cf.jpg",
+        "https://telegra.ph/file/51edcd8bdf6883d29c8f6.jpg",
+        "https://telegra.ph/file/3aa6ac1bdc89d030f4cbc.jpg",
+        "https://telegra.ph/file/d36c4954b3e4873c551a2.jpg",
+        "https://telegra.ph/file/f8825dd5c64726cc78b35.jpg",
+        "https://telegra.ph/file/7e48762364dcd1e0a0620.jpg",
+        "https://telegra.ph/file/ae76d5430291faa15dc57.jpg",
+        "https://telegra.ph/file/9b01cde0eaa08f3f2a55c.jpg",
+        "https://telegra.ph/file/1b2a6d5ef51c4cb298ee9.jpg",
+        "https://telegra.ph/file/8c222d4c97cfd63834733.jpg",
+        "https://telegra.ph/file/31e3433ab5889d1549374.jpg",
+        "https://telegra.ph/file/363f83f934db785084abe.jpg",
+        "https://telegra.ph/file/5c87ac050494a61a33c5a.jpg",
+        "https://telegra.ph/file/473fdfc505bd60292c089.jpg",
+        "https://telegra.ph/file/1b42a706a906704bb7302.jpg",
+        "https://telegra.ph/file/96f5df937bfc8a3198bc1.jpg",
+        "https://telegra.ph/file/b56c7e23e482db0ea4f7d.jpg",
+        "https://telegra.ph/file/4d6f5d7e26b927f41ce66.jpg",
+        "https://telegra.ph/file/22ad78f926fe7c5fc0ff3.jpg",
+        "https://telegra.ph/file/a2140b54e8040efca58ab.jpg",
+        "https://telegra.ph/file/65692992e20e193c06500.jpg",
+        "https://telegra.ph/file/f767f667b6b3119252ef3.jpg",
+        "https://telegra.ph/file/65e62855c8881c3822d5f.jpg",
+        "https://telegra.ph/file/15783cf1658cdab6b94fd.jpg",
+        "https://telegra.ph/file/f1052f0e5a4144008d1a6.jpg",
+        "https://telegra.ph/file/0a04b21179fbc674051f4.jpg"
+    ]
+};

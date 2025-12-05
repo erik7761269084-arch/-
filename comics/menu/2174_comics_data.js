@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2174,
+    "title": "[甘露アメ] クールな見た目ロリエルフがオホ声なんてあげるわけないだろって話",
+    "sourceUrl": "https://telegra.ph/甘露アメ-クールな見た目ロリエルフがオホ声なんてあげるわけないだろって話-08-31",
+    "images": [
+        "https://telegra.ph/file/567fc28ea096e095f6646.jpg",
+        "https://telegra.ph/file/9175fd7c92bd86312fb01.jpg",
+        "https://telegra.ph/file/c929884462f4215363b83.jpg",
+        "https://telegra.ph/file/6d6c5cc42cfed3b707d2b.jpg",
+        "https://telegra.ph/file/83d1835f49f14bf5d1751.jpg",
+        "https://telegra.ph/file/059c8af0092cf8e535a1e.jpg",
+        "https://telegra.ph/file/db42e8f27ef6e3b321861.jpg",
+        "https://telegra.ph/file/62903eb130887566c0b2f.jpg",
+        "https://telegra.ph/file/35ee7a56f6a4c3e180751.jpg",
+        "https://telegra.ph/file/e2e0e49f9d1271c6b6031.jpg",
+        "https://telegra.ph/file/74e162f929a5b08568f64.jpg",
+        "https://telegra.ph/file/d7c688ac163b71fea3263.jpg",
+        "https://telegra.ph/file/2912cdba20b314369d220.jpg",
+        "https://telegra.ph/file/30ca25a9588343c844027.jpg",
+        "https://telegra.ph/file/d8573d6df54d4fafc250e.jpg",
+        "https://telegra.ph/file/071f22ddec52beaf9163d.jpg",
+        "https://telegra.ph/file/647d0df51570349434240.jpg",
+        "https://telegra.ph/file/5425f3bdf10ee205466e1.jpg",
+        "https://telegra.ph/file/5f01b8a24d9cb3b66e9d1.jpg",
+        "https://telegra.ph/file/b2488b2125d0aa4d61410.jpg",
+        "https://telegra.ph/file/c7899115f5a5d39be21be.jpg",
+        "https://telegra.ph/file/02e93587f3f035ef10808.jpg",
+        "https://telegra.ph/file/7221c76c04b49f2a399e4.jpg",
+        "https://telegra.ph/file/1fb53d2c6a94af00341c4.jpg",
+        "https://telegra.ph/file/7ca988829667df50ed5b7.jpg",
+        "https://telegra.ph/file/6c8aece7a9a478aaa5a5a.jpg"
+    ]
+};

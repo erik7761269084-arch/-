@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5480,
+    "title": "[ゲズンタイト]ノーパンアンソロジー",
+    "sourceUrl": "https://telegra.ph/ゲズンタイトノーパンアンソロジー-08-31",
+    "images": [
+        "https://telegra.ph/file/c75c1501b00fd2f15de6c.jpg",
+        "https://telegra.ph/file/b28090a7a4785aafd47bb.jpg",
+        "https://telegra.ph/file/94260076d781c542e0412.jpg",
+        "https://telegra.ph/file/260fbecdc12b5be8926fa.jpg",
+        "https://telegra.ph/file/bf10683efad180909ebbd.jpg",
+        "https://telegra.ph/file/06961897d0b394eafb787.jpg",
+        "https://telegra.ph/file/1cc2473ce3ec0d86468a7.jpg",
+        "https://telegra.ph/file/f7aa90aef8a3b739866d4.jpg",
+        "https://telegra.ph/file/85f1e9a2e48eed9276389.jpg",
+        "https://telegra.ph/file/9fb932d095c043679d6b7.jpg",
+        "https://telegra.ph/file/3798759bd657a2d9baad5.jpg",
+        "https://telegra.ph/file/dab5a3f53494a03b78dee.jpg",
+        "https://telegra.ph/file/0553907b0d835458bddd4.jpg",
+        "https://telegra.ph/file/1938d8b27b37ba7475407.jpg",
+        "https://telegra.ph/file/3ed4129345ab4580d1fac.jpg",
+        "https://telegra.ph/file/bd2677ab295601815b107.jpg",
+        "https://telegra.ph/file/3036406191fe2d3a587dd.jpg",
+        "https://telegra.ph/file/fd4cad7d0e854d9714257.jpg",
+        "https://telegra.ph/file/a4f95375b4318319b6181.jpg",
+        "https://telegra.ph/file/8cfade8978dfa6ba423f7.jpg",
+        "https://telegra.ph/file/f2e7f46fe3e94d315728b.jpg",
+        "https://telegra.ph/file/37c1b4a6511780f41b824.jpg",
+        "https://telegra.ph/file/c91b9b2fa3dd2ded24cc7.jpg",
+        "https://telegra.ph/file/792aa5d5e98d32c2257a8.jpg"
+    ]
+};

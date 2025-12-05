@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2294,
+    "title": "(C99) [Twilight Road (ともー)] アリスもレベルアップしたいです! + ユズのフリーパスを使いますか．．．？(ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/C99-Twilight-Road-ともー-アリスもレベルアップしたいです--ユズのフリーパスを使いますかブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/2eed372653c5ffd6b0002.jpg",
+        "https://telegra.ph/file/bd83bd75018bc36980e75.jpg",
+        "https://telegra.ph/file/6b90aca82008892771027.jpg",
+        "https://telegra.ph/file/8f01babb254c8565d7667.jpg",
+        "https://telegra.ph/file/e36e539077d5c595a9247.jpg",
+        "https://telegra.ph/file/05ff79fc09c4cfcd69dff.jpg",
+        "https://telegra.ph/file/2538b11e93a7c14756225.jpg",
+        "https://telegra.ph/file/f336d6eb94c5015e9e116.jpg",
+        "https://telegra.ph/file/2b62a4eafbb25d88f2e0c.jpg",
+        "https://telegra.ph/file/736d4b054295e96925c87.jpg",
+        "https://telegra.ph/file/77760cfdc69dc96983127.jpg",
+        "https://telegra.ph/file/797be776300794cb5f015.jpg",
+        "https://telegra.ph/file/ea6a6288d9ed2268e6c2d.jpg",
+        "https://telegra.ph/file/b436a3e15aa1c7706b19d.jpg",
+        "https://telegra.ph/file/6f19997d8dc1394a3b86d.jpg",
+        "https://telegra.ph/file/f008f25cae87bdf039df4.jpg",
+        "https://telegra.ph/file/3fa2a71179a656b9935e6.jpg",
+        "https://telegra.ph/file/8cb5198e53c42288d8bcc.jpg",
+        "https://telegra.ph/file/ec0ef1a72038164610f2e.jpg",
+        "https://telegra.ph/file/798cc4a649fc4bbe328da.jpg",
+        "https://telegra.ph/file/90f18a075d6b33dac7248.jpg",
+        "https://telegra.ph/file/d6c8ab6560222314c5de9.jpg",
+        "https://telegra.ph/file/ac6018a98f6667470f2be.jpg",
+        "https://telegra.ph/file/05a543c60bb569e9ca8b9.jpg",
+        "https://telegra.ph/file/0706a8cc107fe3f912bf3.jpg"
+    ]
+};

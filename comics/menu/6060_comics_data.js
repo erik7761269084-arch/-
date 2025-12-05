@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6060,
+    "title": "[しはちろ] Ups and downs",
+    "sourceUrl": "https://telegra.ph/しはちろ-Ups-and-downs-08-31",
+    "images": [
+        "https://telegra.ph/file/404707c4f76023e566c5e.jpg",
+        "https://telegra.ph/file/16d51bc237d8d65e7f710.jpg",
+        "https://telegra.ph/file/ffae542f85ca06e23d188.jpg",
+        "https://telegra.ph/file/d6f84a52c03942ea67e5b.jpg",
+        "https://telegra.ph/file/b5564fba74ca9a3683b5c.jpg",
+        "https://telegra.ph/file/a836e9603409f44cc9a0b.jpg",
+        "https://telegra.ph/file/234fa7782cf9115212273.jpg",
+        "https://telegra.ph/file/fc4db534f1dee1dbbc081.jpg",
+        "https://telegra.ph/file/6a73cb19953e20d6bf2e1.jpg",
+        "https://telegra.ph/file/cb3eb9f10e05129d7e3c6.jpg",
+        "https://telegra.ph/file/15787f7ad811489e4c755.jpg",
+        "https://telegra.ph/file/c75c4352e40c8fd1ef6b5.jpg",
+        "https://telegra.ph/file/ad9600030096220b815af.jpg",
+        "https://telegra.ph/file/3aa5edb45949fcabeaa3b.jpg",
+        "https://telegra.ph/file/79f521b4696671f5e5ac5.jpg",
+        "https://telegra.ph/file/8311dde0c5e9abf9e8df5.jpg",
+        "https://telegra.ph/file/5ebdb92493bc73c930d8c.jpg",
+        "https://telegra.ph/file/5634a39245a4b5fd5119c.jpg",
+        "https://telegra.ph/file/2c9d52c0c7a65e89d6429.jpg",
+        "https://telegra.ph/file/32baedb4ea89b6a7ef846.jpg",
+        "https://telegra.ph/file/7137891b8c4de45a02c80.jpg",
+        "https://telegra.ph/file/3b8a6a7edb8e73ed0131b.jpg",
+        "https://telegra.ph/file/2cc447b6b0e88b3603b19.jpg",
+        "https://telegra.ph/file/da2c63c3155d1bd23c15e.jpg"
+    ]
+};

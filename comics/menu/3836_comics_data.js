@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3836,
+    "title": "[ゆるちん教祖] ツインズらぶ (COMIC LO 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/ゆるちん教祖-ツインズらぶ-COMIC-LO-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d6f1e6a9e19d0546bfcf7.jpg",
+        "https://telegra.ph/file/a831911fb3045d316eec9.jpg",
+        "https://telegra.ph/file/8a048f18528b32f408b77.jpg",
+        "https://telegra.ph/file/c82d2516530f2ebf35ca3.jpg",
+        "https://telegra.ph/file/2cbbbf39f26404c1ff116.jpg",
+        "https://telegra.ph/file/8c66ee1d45eb8ebccde71.jpg",
+        "https://telegra.ph/file/5a6c0c238cc27167aa792.jpg",
+        "https://telegra.ph/file/00b61bcdc806d168b95a2.jpg",
+        "https://telegra.ph/file/d0279b8e6e2130c5525da.jpg",
+        "https://telegra.ph/file/bcecb7693e28ad8e9b692.jpg",
+        "https://telegra.ph/file/23493bb346bec3b51c5e4.jpg",
+        "https://telegra.ph/file/2a6c99bdfbe9f95b7c1ce.jpg",
+        "https://telegra.ph/file/fb0b0bd163e2dce3b8535.jpg",
+        "https://telegra.ph/file/a20787711dc3aa0530215.jpg",
+        "https://telegra.ph/file/0c142eccd1f2e6b09988c.jpg",
+        "https://telegra.ph/file/a0230d462637667abef80.jpg",
+        "https://telegra.ph/file/7072484de75e160c1c98f.jpg",
+        "https://telegra.ph/file/334ed1021af1fcab854e0.jpg",
+        "https://telegra.ph/file/1b7bce47d25c81c2b302e.jpg",
+        "https://telegra.ph/file/0dcb84947b4a52629b697.jpg",
+        "https://telegra.ph/file/54e177336fc0fd0df74ca.jpg",
+        "https://telegra.ph/file/52130250c06e3832f44d8.jpg",
+        "https://telegra.ph/file/a45bf064bca24adf8685c.jpg",
+        "https://telegra.ph/file/c67953a11e74ff1c30398.jpg"
+    ]
+};

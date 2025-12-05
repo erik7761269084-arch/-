@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1829,
+    "title": "[山本善々] s県k市 社会人女子バレーボールサークルの事情 第14話 (COMIC クリベロン DUMA 2022年2月号 Vol.33)",
+    "sourceUrl": "https://telegra.ph/山本善々-s県k市-社会人女子バレーボールサークルの事情-第14話-COMIC-クリベロン-DUMA-2022年2月号-Vol33-08-31",
+    "images": [
+        "https://telegra.ph/file/d1184edb8ae7d526a4e64.jpg",
+        "https://telegra.ph/file/a49c008c2f0dc55d0059c.jpg",
+        "https://telegra.ph/file/97ab355f938509d2035aa.jpg",
+        "https://telegra.ph/file/38085587ddffaa7507004.jpg",
+        "https://telegra.ph/file/5ab624b84ee1b97d80a6a.jpg",
+        "https://telegra.ph/file/480a343afb46598dbfa5c.jpg",
+        "https://telegra.ph/file/396d9697b6f5c2058e03d.jpg",
+        "https://telegra.ph/file/ccdcd7d546a073ce17613.jpg",
+        "https://telegra.ph/file/2a9bd22fdb1e71040bb0d.jpg",
+        "https://telegra.ph/file/82385ee88161e525f99e2.jpg",
+        "https://telegra.ph/file/c2520edf171ae02b1840c.jpg",
+        "https://telegra.ph/file/456e5d6e0ba32f95eac80.jpg",
+        "https://telegra.ph/file/65c70a1981fb71d3fc363.jpg",
+        "https://telegra.ph/file/b52b880930ec36cc8d8df.jpg",
+        "https://telegra.ph/file/a40ef39248fb162ebc43b.jpg",
+        "https://telegra.ph/file/cd8c8f9e68aa8b8878a5b.jpg",
+        "https://telegra.ph/file/03c1e12dd6a78fc7a4cbf.jpg",
+        "https://telegra.ph/file/6980bf4e59c18a647979c.jpg",
+        "https://telegra.ph/file/8dd6b2d67f13ad1791c22.jpg",
+        "https://telegra.ph/file/65b8b6794f98dad014ef7.jpg",
+        "https://telegra.ph/file/85698b90b4aeea824e514.jpg",
+        "https://telegra.ph/file/0ecc66c64431e75f11778.jpg",
+        "https://telegra.ph/file/e3953807b4cf07553cf72.jpg",
+        "https://telegra.ph/file/0b5c0daa8bef987fb6419.jpg",
+        "https://telegra.ph/file/3b40ea0752faf4b938276.jpg"
+    ]
+};

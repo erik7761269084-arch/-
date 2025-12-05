@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5659,
+    "title": "[もくふう] プロジェクション・セックス",
+    "sourceUrl": "https://telegra.ph/もくふう-プロジェクションセックス-08-31",
+    "images": [
+        "https://telegra.ph/file/f2fe0cc18db8b5e4ecf8f.jpg",
+        "https://telegra.ph/file/a6898220c959467649455.jpg",
+        "https://telegra.ph/file/cf26c7a312affa50d9303.jpg",
+        "https://telegra.ph/file/d050f56fa6f26b82a490b.jpg",
+        "https://telegra.ph/file/a107062e2e002a8104927.jpg",
+        "https://telegra.ph/file/14bcd6f5bc8f67b10047e.jpg",
+        "https://telegra.ph/file/62de3b0d12930a322a38f.jpg",
+        "https://telegra.ph/file/f586fcee7c65b077935e1.jpg",
+        "https://telegra.ph/file/084f0ace3fe33eb57e010.jpg",
+        "https://telegra.ph/file/60cf24e84e8416aa90c56.jpg",
+        "https://telegra.ph/file/7b343cff7224c9c540873.jpg",
+        "https://telegra.ph/file/e9709c027ed354414d97f.jpg",
+        "https://telegra.ph/file/3494667cbfc927ab61d7c.jpg",
+        "https://telegra.ph/file/7f0e67169854fa2c88c23.jpg",
+        "https://telegra.ph/file/690e2315d05738ecaadeb.jpg",
+        "https://telegra.ph/file/32c03aa5621120725a5ce.jpg",
+        "https://telegra.ph/file/dc3e52612526fd75a26e6.jpg",
+        "https://telegra.ph/file/ada7585085740a9589652.jpg",
+        "https://telegra.ph/file/5fc05e85473ccc0221e20.jpg",
+        "https://telegra.ph/file/24bf38929d3c6a4c1e55a.jpg",
+        "https://telegra.ph/file/8e173ce1d6fec5c268382.jpg",
+        "https://telegra.ph/file/4f5ec932f278da10e5462.jpg",
+        "https://telegra.ph/file/35d1814e42b0a80a5a750.jpg",
+        "https://telegra.ph/file/1a69bcc85726ef3c0419c.jpg",
+        "https://telegra.ph/file/1660c890ac757b4685891.jpg",
+        "https://telegra.ph/file/1ee12c28f45627d3a1b07.jpg"
+    ]
+};

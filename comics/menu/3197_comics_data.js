@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3197,
+    "title": "[あとりえひなた (ひなた悠)] デレデレキャルちゃんと水着でえっち (プリンセスコネクト!ReDive)",
+    "sourceUrl": "https://telegra.ph/あとりえひなた-ひなた悠-デレデレキャルちゃんと水着でえっち-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/547810a409f90d9771c1e.jpg",
+        "https://telegra.ph/file/11a916c1a5165e9342479.jpg",
+        "https://telegra.ph/file/6b998cde32e74934d7b42.jpg",
+        "https://telegra.ph/file/301c7225f7872ec505124.jpg",
+        "https://telegra.ph/file/772fe5987d80d69fb38b2.jpg",
+        "https://telegra.ph/file/d7d67782537dc3e257260.jpg",
+        "https://telegra.ph/file/bfce48bfd41188fec6ed1.jpg",
+        "https://telegra.ph/file/86aa88168758ed39d977e.jpg",
+        "https://telegra.ph/file/b370b72b3a087de9849d5.jpg",
+        "https://telegra.ph/file/e125e9f574ee2595a794d.jpg",
+        "https://telegra.ph/file/b6e6fed4cd9182adb41aa.jpg",
+        "https://telegra.ph/file/cc66ba48000f89870db0f.jpg",
+        "https://telegra.ph/file/bd3b83eec22b1dc4d79dd.jpg",
+        "https://telegra.ph/file/42881fa2def837ea4f193.jpg",
+        "https://telegra.ph/file/7f95dc6dab876dea29f26.jpg",
+        "https://telegra.ph/file/65b561a97e5422bd83d1c.jpg",
+        "https://telegra.ph/file/38bda0760805e51097529.jpg",
+        "https://telegra.ph/file/cd118bb1a21b69fecb87c.jpg",
+        "https://telegra.ph/file/1601d68638851baa3bcf0.jpg",
+        "https://telegra.ph/file/57fb9d13cfa78d3739047.jpg",
+        "https://telegra.ph/file/eee1b55c5d5f60f8b0e2d.jpg",
+        "https://telegra.ph/file/a6f824cdf617a233dc610.jpg",
+        "https://telegra.ph/file/38f1b0d8fe4bb91a19622.jpg",
+        "https://telegra.ph/file/f359ce30cc74df559bc99.jpg",
+        "https://telegra.ph/file/c0267ece239c7a3ee8b96.jpg",
+        "https://telegra.ph/file/d3147936eef5460186ee0.jpg"
+    ]
+};

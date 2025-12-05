@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 937,
+    "title": "[くろふーど] 刺激欲求 (コミックホットミルク濃いめ vol.33)",
+    "sourceUrl": "https://telegra.ph/くろふーど-刺激欲求-コミックホットミルク濃いめ-vol33-08-31",
+    "images": [
+        "https://telegra.ph/file/84d1ea4531adcc95662e3.jpg",
+        "https://telegra.ph/file/30a9d11eb45f1a6aa3aa7.jpg",
+        "https://telegra.ph/file/a081b0ccd28b2d3f63f86.jpg",
+        "https://telegra.ph/file/47c1b4cb345170bd4b9be.jpg",
+        "https://telegra.ph/file/65b0d9b337f5ae6c08477.jpg",
+        "https://telegra.ph/file/07bd8a1d0e20f05fe8586.jpg",
+        "https://telegra.ph/file/0544fe0902ac3165dd9fb.jpg",
+        "https://telegra.ph/file/3fe2a542d39517fb084fe.jpg",
+        "https://telegra.ph/file/d24d7bce732557084972d.jpg",
+        "https://telegra.ph/file/ebd911fd2d3f863b4c520.jpg",
+        "https://telegra.ph/file/e4137b1423144db6961f3.jpg",
+        "https://telegra.ph/file/9787e5edb9fff80c73d04.jpg",
+        "https://telegra.ph/file/97ef9a0363db105c10f17.jpg",
+        "https://telegra.ph/file/e5183cd61e1bde0b61086.jpg",
+        "https://telegra.ph/file/3badc402bca8cdc7972dd.jpg",
+        "https://telegra.ph/file/419f500a8569d5164b78a.jpg",
+        "https://telegra.ph/file/bb9b90d9a4c8df7a60c9f.jpg",
+        "https://telegra.ph/file/8f0c318ee6c13e0460464.jpg",
+        "https://telegra.ph/file/7f751dcf0f3c0653904e7.jpg",
+        "https://telegra.ph/file/be0f186898d9c0906210f.jpg",
+        "https://telegra.ph/file/dc9d994b26a338fd758ad.jpg",
+        "https://telegra.ph/file/9a8a0ff65482831e1e0f9.jpg",
+        "https://telegra.ph/file/1bbfde13031bad591d1bf.jpg",
+        "https://telegra.ph/file/70c949ee0d0b2c0741fa3.jpg"
+    ]
+};

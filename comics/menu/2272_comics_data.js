@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2272,
+    "title": "(C99) [ろ～たり～Engine (神無月元史)] パコ推し! (ホロライブ)",
+    "sourceUrl": "https://telegra.ph/C99-ろたりEngine-神無月元史-パコ推し-ホロライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/520e6de5a8dd54c92637b.jpg",
+        "https://telegra.ph/file/f8861da2d15910a95389b.jpg",
+        "https://telegra.ph/file/0e9c5da7a44a54852ab3b.jpg",
+        "https://telegra.ph/file/e43a2214ae51bdcb67aef.jpg",
+        "https://telegra.ph/file/7b402f874f92ca452ff56.jpg",
+        "https://telegra.ph/file/e9870568f1e4b612be35c.jpg",
+        "https://telegra.ph/file/2b089e1ff08327bfc6122.jpg",
+        "https://telegra.ph/file/2a15d633c51f6cb788578.jpg",
+        "https://telegra.ph/file/388309145a954dc8f1b03.jpg",
+        "https://telegra.ph/file/a0ae354c41fc568d7a767.jpg",
+        "https://telegra.ph/file/5d0df552cbdf66695c8f4.jpg",
+        "https://telegra.ph/file/e7e69b9d217446203a755.jpg",
+        "https://telegra.ph/file/71eccc650f0bb3476bb5a.jpg",
+        "https://telegra.ph/file/86573944d292c11155f08.jpg",
+        "https://telegra.ph/file/78cef8e20774fd577f19e.jpg",
+        "https://telegra.ph/file/76757f1268baff1bf857a.jpg",
+        "https://telegra.ph/file/a14e3220de0058b776474.jpg",
+        "https://telegra.ph/file/ec3f808c17026e3387c6d.jpg",
+        "https://telegra.ph/file/0632acca1dcd3d5b15a26.jpg",
+        "https://telegra.ph/file/4f1ad61c5a9398d302f6b.jpg",
+        "https://telegra.ph/file/6cd94732ad4489b54d2c1.jpg",
+        "https://telegra.ph/file/f3d66ea653aa184f0e4f1.jpg",
+        "https://telegra.ph/file/aefbbe5cc2b6f523f78b0.jpg",
+        "https://telegra.ph/file/33e0f01675a3ee92e46b4.jpg"
+    ]
+};

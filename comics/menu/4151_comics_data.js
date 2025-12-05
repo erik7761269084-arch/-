@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4151,
+    "title": "[七尾ゆきじ] 双母相姦 第1話 (COMIC グーチョ vol.3)",
+    "sourceUrl": "https://telegra.ph/七尾ゆきじ-双母相姦-第1話-COMIC-グーチョ-vol3-08-31",
+    "images": [
+        "https://telegra.ph/file/7301579dd2f843e767fac.jpg",
+        "https://telegra.ph/file/39133c4bae042a623f789.jpg",
+        "https://telegra.ph/file/86734b9eb874fb212184a.jpg",
+        "https://telegra.ph/file/a8ae98df543bd2e50232f.jpg",
+        "https://telegra.ph/file/1ab5033b3d37a9f501e43.jpg",
+        "https://telegra.ph/file/5da32a55266be92a7ea5d.png",
+        "https://telegra.ph/file/a4cd56203228ead809641.jpg",
+        "https://telegra.ph/file/7dd1a5226dc19efad665f.jpg",
+        "https://telegra.ph/file/e04ace756204084e13345.jpg",
+        "https://telegra.ph/file/03770d275c0ff13ef466f.jpg",
+        "https://telegra.ph/file/4d49a4c24b58017cb9ef7.jpg",
+        "https://telegra.ph/file/c7e5f444860501d3e54a7.jpg",
+        "https://telegra.ph/file/d09e4766ee8bfca609882.jpg",
+        "https://telegra.ph/file/42a8c219f5f7f0eee08f0.jpg",
+        "https://telegra.ph/file/84299133574198377724a.jpg",
+        "https://telegra.ph/file/4f8bada07d9837fd60122.jpg",
+        "https://telegra.ph/file/eeadfb55a66bbcdf42396.jpg",
+        "https://telegra.ph/file/383b5dc608d2d39f1f046.jpg",
+        "https://telegra.ph/file/f8dd731276232eddb023d.jpg",
+        "https://telegra.ph/file/49792b5f057b348b05dbe.jpg",
+        "https://telegra.ph/file/aaae1cd4fcb780b669ed8.jpg",
+        "https://telegra.ph/file/be601989ea99e0ed2ff41.jpg",
+        "https://telegra.ph/file/cdfdcd0fae211025e5945.jpg",
+        "https://telegra.ph/file/5141f3b814b9931545621.jpg"
+    ]
+};

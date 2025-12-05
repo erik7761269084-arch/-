@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6776,
+    "title": "溺惑デスティネーション",
+    "sourceUrl": "https://telegra.ph/溺惑デスティネーション-08-31",
+    "images": [
+        "https://telegra.ph/file/e8998fb4600f4d94be4fe.jpg",
+        "https://telegra.ph/file/e09635fe605e543ecbdfe.jpg",
+        "https://telegra.ph/file/34b5df8fc27bcfaf1121c.jpg",
+        "https://telegra.ph/file/013a36576a6c158db0119.jpg",
+        "https://telegra.ph/file/158fc23855794219b0742.jpg",
+        "https://telegra.ph/file/49492ed9d3572e3683e5b.jpg",
+        "https://telegra.ph/file/382c4fdfeca1e93496ec4.jpg",
+        "https://telegra.ph/file/91a69262e68c4d625eae1.jpg",
+        "https://telegra.ph/file/6d8285ab9acb6e5b2ddb7.jpg",
+        "https://telegra.ph/file/085edc9c0e3f957317532.jpg",
+        "https://telegra.ph/file/6b2f9fc58f0b495fa0af5.jpg",
+        "https://telegra.ph/file/ff35b31c922f3d9c00831.jpg",
+        "https://telegra.ph/file/76f710bb49f26bdd8e655.jpg",
+        "https://telegra.ph/file/a5160880d6a82d5c9e79c.jpg",
+        "https://telegra.ph/file/36374d3933f8576c3a94a.jpg",
+        "https://telegra.ph/file/eda44b6fc2c8b04675637.jpg",
+        "https://telegra.ph/file/682137ea0357c76d8ea27.jpg",
+        "https://telegra.ph/file/78d46044b2037a7fb251f.jpg",
+        "https://telegra.ph/file/34d93057b884297e7785d.jpg",
+        "https://telegra.ph/file/27603920d771f13e7e67c.jpg",
+        "https://telegra.ph/file/4a4fdd5231acf2566d4e0.jpg",
+        "https://telegra.ph/file/78c501b2cef2693b913a1.jpg",
+        "https://telegra.ph/file/bb3faa775e20d8c97f992.jpg",
+        "https://telegra.ph/file/5895ec5d006a6e9198833.jpg"
+    ]
+};

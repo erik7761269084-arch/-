@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4530,
+    "title": "[ユウキレイ] ショタとアイランドサマービッチ! (コミック・マショウ 2015年9月号)",
+    "sourceUrl": "https://telegra.ph/ユウキレイ-ショタとアイランドサマービッチ-コミックマショウ-2015年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ca00ae20d028f48846861.jpg",
+        "https://telegra.ph/file/04ccb472ed35b0b7489b2.jpg",
+        "https://telegra.ph/file/8068dbdd5dfeaceae2aa5.jpg",
+        "https://telegra.ph/file/02c52b2f7bcadb2c8f234.jpg",
+        "https://telegra.ph/file/51f061495223eb377737e.jpg",
+        "https://telegra.ph/file/efd44b7824f40bc0fd841.jpg",
+        "https://telegra.ph/file/b983e9ad28808e9ed306d.jpg",
+        "https://telegra.ph/file/d30ff24f1f19aab0ee335.jpg",
+        "https://telegra.ph/file/de18d3fad7e026c3f1e66.jpg",
+        "https://telegra.ph/file/0dca154661e5b71720411.jpg",
+        "https://telegra.ph/file/17a30323ff75df7b29d9e.jpg",
+        "https://telegra.ph/file/fe244781889af6b7b18a5.jpg",
+        "https://telegra.ph/file/79c9e1981c13639c8360e.jpg",
+        "https://telegra.ph/file/90f2d14a91147ba5db269.jpg",
+        "https://telegra.ph/file/c2f7f6f3f5eb2b7f3b58f.jpg",
+        "https://telegra.ph/file/57ba0df082eaf239249d4.jpg",
+        "https://telegra.ph/file/dc50d8bb24db140455072.jpg",
+        "https://telegra.ph/file/b2a8901f0cd4c5f29db43.jpg",
+        "https://telegra.ph/file/187061486902a7fb89e49.jpg",
+        "https://telegra.ph/file/b5d79c3c4f55d46362d9c.jpg",
+        "https://telegra.ph/file/067d07bc2532a66c21cbd.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/627f29df941d4398398e7.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

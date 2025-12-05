@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6588,
+    "title": "頬の薄紅 褪せぬ間に",
+    "sourceUrl": "https://telegra.ph/頬の薄紅-褪せぬ間に-08-31",
+    "images": [
+        "https://telegra.ph/file/4cd123ea6d71f2afd643b.jpg",
+        "https://telegra.ph/file/6f552394be166fb67bfa7.jpg",
+        "https://telegra.ph/file/5ff68e1dc86d47e9b59d8.jpg",
+        "https://telegra.ph/file/a7822c89f2b6ee8e39242.jpg",
+        "https://telegra.ph/file/52fd1bb5cc26952e27d96.jpg",
+        "https://telegra.ph/file/656876dbd75b0d95d9ea2.jpg",
+        "https://telegra.ph/file/07370d36534c878ac1d90.jpg",
+        "https://telegra.ph/file/f385e4127ee04621c2cb6.jpg",
+        "https://telegra.ph/file/3100a812828ddf1ff0b5c.jpg",
+        "https://telegra.ph/file/5d01787cf93c463be58c3.jpg",
+        "https://telegra.ph/file/e4fb07b44b7231c4d8db9.jpg",
+        "https://telegra.ph/file/5298dff4872d32854bb9a.jpg",
+        "https://telegra.ph/file/d5019fb23c62ada2d6319.jpg",
+        "https://telegra.ph/file/01a91d9093266678b3b9b.jpg",
+        "https://telegra.ph/file/a4d954dc9489303fe5467.jpg",
+        "https://telegra.ph/file/1e063e57b6b7611f3e267.jpg",
+        "https://telegra.ph/file/063645727f8d5d20497c4.jpg",
+        "https://telegra.ph/file/51d57781f0aec69f29ac7.jpg",
+        "https://telegra.ph/file/1f129bf51abe24ee353dd.jpg",
+        "https://telegra.ph/file/320a6717440c7aa825d28.jpg",
+        "https://telegra.ph/file/73c741bfc04c5137d1af8.jpg",
+        "https://telegra.ph/file/d1ed8d0cc2e035849903e.jpg",
+        "https://telegra.ph/file/44019aa89e49071da155a.jpg"
+    ]
+};

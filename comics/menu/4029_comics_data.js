@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4029,
+    "title": "[まんす] ばすとしょっと! (コミックホットミルク 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/まんす-ばすとしょっと-コミックホットミルク-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/acbe437035d24b7cd7990.jpg",
+        "https://telegra.ph/file/214b07b4971f33f7235fd.jpg",
+        "https://telegra.ph/file/a63a74eba6ed59c5d92a9.jpg",
+        "https://telegra.ph/file/1d68a09eabfb15e9c5fad.jpg",
+        "https://telegra.ph/file/0b6419c0cf88ab20c9c52.jpg",
+        "https://telegra.ph/file/676feb53c9fac131baa97.jpg",
+        "https://telegra.ph/file/577fce06a95f97ef57b0e.jpg",
+        "https://telegra.ph/file/1a76bfdee0fff8958e684.jpg",
+        "https://telegra.ph/file/92bdbbe2ae45b099764e9.jpg",
+        "https://telegra.ph/file/700bfa5e31cb701a67e2c.jpg",
+        "https://telegra.ph/file/37266ccf055b8aca23710.jpg",
+        "https://telegra.ph/file/f46e742720c44a6a84bfa.jpg",
+        "https://telegra.ph/file/9c3fadd16ab9cb09c23d0.jpg",
+        "https://telegra.ph/file/8203530f7348fa72c6bcc.jpg",
+        "https://telegra.ph/file/3f86a0fcbd7c3c6d996bb.jpg",
+        "https://telegra.ph/file/6162b3ef21ae7505b9b51.jpg",
+        "https://telegra.ph/file/d815ac92e5af2c77ba4eb.jpg",
+        "https://telegra.ph/file/c30a9b6ff696763da1848.jpg",
+        "https://telegra.ph/file/294397cfb9a877e1a2d45.jpg",
+        "https://telegra.ph/file/1019813358a346a33898e.jpg",
+        "https://telegra.ph/file/92447362646f14c512ba6.jpg",
+        "https://telegra.ph/file/04870def38c507d73ee86.jpg",
+        "https://telegra.ph/file/d44baa48b86c08c815f3e.jpg",
+        "https://telegra.ph/file/c2401d73be7f5f0b8f605.jpg"
+    ]
+};

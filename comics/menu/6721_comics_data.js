@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6721,
+    "title": "ハメ撮りLOVE AYA -Hな文ちゃん好きですか？- (東方Project)",
+    "sourceUrl": "https://telegra.ph/ハメ撮りLOVE-AYA--Hな文ちゃん好きですか--東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/84789a4e3d37b3a2ea412.jpg",
+        "https://telegra.ph/file/153987645c52656d51d11.jpg",
+        "https://telegra.ph/file/f39224bf4b3d1c500a12a.jpg",
+        "https://telegra.ph/file/e8646996455bdcf3f509f.jpg",
+        "https://telegra.ph/file/6934f78e0011323644e61.jpg",
+        "https://telegra.ph/file/265237f8a811c70fbf0b0.jpg",
+        "https://telegra.ph/file/86de210a862bd82f7b78b.jpg",
+        "https://telegra.ph/file/6023b5f469555117828dd.jpg",
+        "https://telegra.ph/file/77b2e3c31f6dd6d267e5a.jpg",
+        "https://telegra.ph/file/a0eca77ddb1f611150979.jpg",
+        "https://telegra.ph/file/ed6a305c065ac99b79661.jpg",
+        "https://telegra.ph/file/9dac4b1524981efcc18d8.jpg",
+        "https://telegra.ph/file/e4c4b3ca70a0028eb5826.jpg",
+        "https://telegra.ph/file/6a4298231a36e94a968c4.jpg",
+        "https://telegra.ph/file/65bd75865544cd76b2b48.jpg",
+        "https://telegra.ph/file/94d4067d2b8eed0f932f5.jpg",
+        "https://telegra.ph/file/a0485a3d1c5f1b1ba225d.jpg",
+        "https://telegra.ph/file/9e8f00dc2da1a0091be0c.jpg",
+        "https://telegra.ph/file/fc9b757a9bc1a1f2398fe.jpg",
+        "https://telegra.ph/file/b81842f5535d2225a7902.jpg",
+        "https://telegra.ph/file/e70c21e844feb3b3da4f8.jpg",
+        "https://telegra.ph/file/24138f04c67605dd505b0.jpg",
+        "https://telegra.ph/file/fb018a185d3f81b846713.jpg",
+        "https://telegra.ph/file/5ec3be35af39fa3c66615.jpg"
+    ]
+};

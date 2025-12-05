@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3546,
+    "title": "(C99) [からきし傭兵団 真雅 (砂原渉)] ピンクのバカヂカラ (NARUTO -ナルト-、ドラゴンクエスト ダイの大冒険)",
+    "sourceUrl": "https://telegra.ph/C99-からきし傭兵団-真雅-砂原渉-ピンクのバカヂカラ-NARUTO--ナルト-ドラゴンクエスト-ダイの大冒険-08-31",
+    "images": [
+        "https://telegra.ph/file/1710f699673a1ca5152c2.jpg",
+        "https://telegra.ph/file/b1d5f22b8a90823e59ce2.jpg",
+        "https://telegra.ph/file/666e674ca65f9a6ee87fd.jpg",
+        "https://telegra.ph/file/0635addbeb257ab94c455.jpg",
+        "https://telegra.ph/file/ee43b0b56b51e243b0588.jpg",
+        "https://telegra.ph/file/6461aba915726c7ff36f0.jpg",
+        "https://telegra.ph/file/79da22ad0b4997c088168.jpg",
+        "https://telegra.ph/file/47d59e02dd7a8e3702b63.jpg",
+        "https://telegra.ph/file/69315fb519ed9e77347eb.jpg",
+        "https://telegra.ph/file/ff7e509034eade7097fcc.jpg",
+        "https://telegra.ph/file/3e4707e6f4a623f81c92e.jpg",
+        "https://telegra.ph/file/0ba0030ddc6c7ea70e177.jpg",
+        "https://telegra.ph/file/91e57237974dae7563f3f.jpg",
+        "https://telegra.ph/file/8af15bb3ab64b8ab76aa0.jpg",
+        "https://telegra.ph/file/f494249d31f7e06d5a56a.jpg",
+        "https://telegra.ph/file/d1843b6e65991d3c6fb76.jpg",
+        "https://telegra.ph/file/d23e71673cc79e20dc28d.jpg",
+        "https://telegra.ph/file/dbaa9ba4e280a3a7acea3.jpg",
+        "https://telegra.ph/file/24ab837b9366bf7889873.jpg",
+        "https://telegra.ph/file/453cf4f35b162f34e6fd7.jpg",
+        "https://telegra.ph/file/12635aaf41089ae572264.jpg",
+        "https://telegra.ph/file/0f41a1757ae8d55029c92.jpg",
+        "https://telegra.ph/file/8ba26ba1ca881e28c5299.jpg",
+        "https://telegra.ph/file/4365cc0a2d4498c6fcac7.jpg",
+        "https://telegra.ph/file/7c3442052e788a65b82e3.jpg",
+        "https://telegra.ph/file/933b0be6cc1361ed801c3.jpg"
+    ]
+};

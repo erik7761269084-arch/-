@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 906,
+    "title": "[オミズチヒロ] 親に捨てられたから、仕方なく身体売ってゲームする。",
+    "sourceUrl": "https://telegra.ph/オミズチヒロ-親に捨てられたから仕方なく身体売ってゲームする-08-31",
+    "images": [
+        "https://telegra.ph/file/5b68272f594d4fa32d97b.jpg",
+        "https://telegra.ph/file/37492e96ca128d6f4a8b3.jpg",
+        "https://telegra.ph/file/8d9e22f007bd37d0030d4.jpg",
+        "https://telegra.ph/file/19077820c5cf7e1701794.jpg",
+        "https://telegra.ph/file/02e05668fceb5b4c3d6e3.jpg",
+        "https://telegra.ph/file/8cacbcfdf3ae650f73b34.jpg",
+        "https://telegra.ph/file/af9b17747d5fae37de95d.jpg",
+        "https://telegra.ph/file/cba3dad085d53d6aaa454.jpg",
+        "https://telegra.ph/file/0bb409d5e67a200286031.jpg",
+        "https://telegra.ph/file/9e6cb939e8ce3d2400801.jpg",
+        "https://telegra.ph/file/9bd7c91edba023ba75b71.jpg",
+        "https://telegra.ph/file/dbb10ff8994004e4d4e55.jpg",
+        "https://telegra.ph/file/c296d5e693f7532a91627.jpg",
+        "https://telegra.ph/file/3347209d0af2c26bcebcb.jpg",
+        "https://telegra.ph/file/50247384363aebcfa38a9.jpg",
+        "https://telegra.ph/file/1aba3729b4877dfb57268.jpg",
+        "https://telegra.ph/file/beddc229ff5e03c270308.jpg",
+        "https://telegra.ph/file/3edb0cbc6872423f21f80.jpg",
+        "https://telegra.ph/file/7f5e4a22eabb4efbdda6b.jpg",
+        "https://telegra.ph/file/c5d40b1993b55a6252f1b.jpg",
+        "https://telegra.ph/file/833a21c8391bc25b24ddb.jpg",
+        "https://telegra.ph/file/c93cf4fb728b3bcf1cdb2.jpg",
+        "https://telegra.ph/file/8de08284a09457f3ad016.jpg",
+        "https://telegra.ph/file/dc332a4119c3655ec69b1.jpg"
+    ]
+};

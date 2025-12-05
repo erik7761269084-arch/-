@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3387,
+    "title": "[Mr.takealook] 女超人的秘密困境 【个人自费汉化】",
+    "sourceUrl": "https://telegra.ph/Mrtakealook-女超人的秘密困境-个人自费汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/76fb238c09b1b1fbf2bc2.jpg",
+        "https://telegra.ph/file/7d029d8febb1e44ccb79e.jpg",
+        "https://telegra.ph/file/f5aeff58d865279cd1884.jpg",
+        "https://telegra.ph/file/6fc9dbb9317f784327afa.jpg",
+        "https://telegra.ph/file/a378615398259e9dc7373.jpg",
+        "https://telegra.ph/file/6a68cb4dffdfd468aa716.jpg",
+        "https://telegra.ph/file/240956a7e60e543eaec6d.jpg",
+        "https://telegra.ph/file/d9da89ad9bdecfb6e20d1.jpg",
+        "https://telegra.ph/file/62dbe91803a84fe00d2e0.jpg",
+        "https://telegra.ph/file/046d15a30decd6df7ec85.jpg",
+        "https://telegra.ph/file/aa5232cf46181537ca013.jpg",
+        "https://telegra.ph/file/34a63763d847a871570a1.jpg",
+        "https://telegra.ph/file/b0815cad9be1a31d96ff6.jpg",
+        "https://telegra.ph/file/86fa3be1094f96228e617.jpg",
+        "https://telegra.ph/file/67afb699e83d63d92a791.jpg",
+        "https://telegra.ph/file/6da135f6d610311850d9b.jpg",
+        "https://telegra.ph/file/2f20e8462c1186370690e.jpg",
+        "https://telegra.ph/file/09e03a3440716aa4d0964.jpg",
+        "https://telegra.ph/file/6d0f44a55cc9b8eb91dbe.jpg",
+        "https://telegra.ph/file/49c2fdae33cb9c5b45160.jpg",
+        "https://telegra.ph/file/043115951637df097ab75.jpg",
+        "https://telegra.ph/file/475e9efefed92a7332629.jpg",
+        "https://telegra.ph/file/93f0827b69b791b669799.jpg"
+    ]
+};

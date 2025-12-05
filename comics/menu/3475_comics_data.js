@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3475,
+    "title": "[雲呑めお] レンアイ化学式 (COMIC 快楽天 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/雲呑めお-レンアイ化学式-COMIC-快楽天-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1b5034aedddda61190833.jpg",
+        "https://telegra.ph/file/92ff648a30e312732938a.jpg",
+        "https://telegra.ph/file/9ad24b17d39e530ead4da.jpg",
+        "https://telegra.ph/file/175c73414e30617c43961.jpg",
+        "https://telegra.ph/file/92b889441d5668ec317b1.jpg",
+        "https://telegra.ph/file/4ebb85fec2460b6755c42.jpg",
+        "https://telegra.ph/file/9ec7c3f1e203983185306.jpg",
+        "https://telegra.ph/file/a5d2c9a0b0c42fdb6f3c7.jpg",
+        "https://telegra.ph/file/b0c8165517a71dd09aa92.jpg",
+        "https://telegra.ph/file/a32bf5fd40e672fcc634a.jpg",
+        "https://telegra.ph/file/e6dd74f98a56975021f6e.jpg",
+        "https://telegra.ph/file/bddf7061b89c89dfe1158.jpg",
+        "https://telegra.ph/file/74c77ffd8cb467cc31dc2.jpg",
+        "https://telegra.ph/file/db5b35b9830a8e334f15d.jpg",
+        "https://telegra.ph/file/c2a53088abad702db8161.jpg",
+        "https://telegra.ph/file/dbc0c47168f2ca03bbbd5.jpg",
+        "https://telegra.ph/file/f93969532c5ac5e4b71b9.jpg",
+        "https://telegra.ph/file/c3b8f5b970d16d388d166.jpg",
+        "https://telegra.ph/file/551334906f0194e2147ac.jpg",
+        "https://telegra.ph/file/b550d1f6434fe6dbaeeaf.jpg",
+        "https://telegra.ph/file/437bd62c391c37ee85f26.jpg",
+        "https://telegra.ph/file/f216ab5bb5f1dc3aa6490.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

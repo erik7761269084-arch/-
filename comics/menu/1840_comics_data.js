@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1840,
+    "title": "[tomika堂 (tksand)] Hがしたい霊夢さんに媚薬を盛られる話 (東方Project)",
+    "sourceUrl": "https://telegra.ph/tomika堂-tksand-Hがしたい霊夢さんに媚薬を盛られる話-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/ad71d94315016027710b2.jpg",
+        "https://telegra.ph/file/90fae45475898795ee753.jpg",
+        "https://telegra.ph/file/a4453c8841cc99007785f.jpg",
+        "https://telegra.ph/file/cda095ff0254381d9dd43.jpg",
+        "https://telegra.ph/file/682140ddb516bc402540f.jpg",
+        "https://telegra.ph/file/0d31497247f8d776af4c1.jpg",
+        "https://telegra.ph/file/5345b2cc40134b53a7668.jpg",
+        "https://telegra.ph/file/c7e2fbd8ba1e7762d3382.jpg",
+        "https://telegra.ph/file/3509be3001662ac3fa587.jpg",
+        "https://telegra.ph/file/27cfc94780fdd5f4cb1bf.jpg",
+        "https://telegra.ph/file/3ec57f0a1273cee28906a.jpg",
+        "https://telegra.ph/file/667e6368ecc8d90a8c05d.jpg",
+        "https://telegra.ph/file/c9e9ab1f003f05dd9471e.jpg",
+        "https://telegra.ph/file/386ad6a317196d1c529af.jpg",
+        "https://telegra.ph/file/c389ed75e3378d49e1a88.jpg",
+        "https://telegra.ph/file/57ab477847631623aac4c.jpg",
+        "https://telegra.ph/file/824fe62dc12732d40c25c.jpg",
+        "https://telegra.ph/file/98fd01a53e328ff0f7a4c.jpg",
+        "https://telegra.ph/file/764d57e3dedda6172cccc.jpg",
+        "https://telegra.ph/file/15e10b7ad7889aa4551a8.jpg",
+        "https://telegra.ph/file/77fe8f854304e99bf637a.jpg",
+        "https://telegra.ph/file/a3c3be75cd46f7d179d69.jpg",
+        "https://telegra.ph/file/73b055c8061612775c161.jpg",
+        "https://telegra.ph/file/73a5c5b14bff4a110d133.jpg"
+    ]
+};

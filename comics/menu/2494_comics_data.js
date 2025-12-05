@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2494,
+    "title": "[stratus]年夕令三姐妹的子宫凌虐盛会！",
+    "sourceUrl": "https://telegra.ph/stratus年夕令三姐妹的子宫凌虐盛会-08-31",
+    "images": [
+        "https://telegra.ph/file/aebd6f6c3e9a065f7f915.jpg",
+        "https://telegra.ph/file/a0ab5ced2eef01e358170.jpg",
+        "https://telegra.ph/file/185c93e0e682cb8a8920b.jpg",
+        "https://telegra.ph/file/37181c67c389940d19c14.jpg",
+        "https://telegra.ph/file/3230047b1c8876003e5f3.jpg",
+        "https://telegra.ph/file/cc5c0e5f9f62fb4e4de59.jpg",
+        "https://telegra.ph/file/a709ffa2e20a0e4f13df7.jpg",
+        "https://telegra.ph/file/d276f999335459e4e097e.jpg",
+        "https://telegra.ph/file/9f2f5860d1b77942c851d.jpg",
+        "https://telegra.ph/file/7984f98c56ec0baa48918.jpg",
+        "https://telegra.ph/file/ae4e406d49debafc35441.jpg",
+        "https://telegra.ph/file/8f2ee52eb807947442c6c.jpg",
+        "https://telegra.ph/file/3e94977fb4b8cea2ba836.jpg",
+        "https://telegra.ph/file/e56013bdbb3efbaee3c45.jpg",
+        "https://telegra.ph/file/dcd8876e50a65229770db.jpg",
+        "https://telegra.ph/file/6a2eba7c0e4f2d9921b0a.jpg",
+        "https://telegra.ph/file/73ce6d2e6145790ab2ef1.jpg",
+        "https://telegra.ph/file/d4443d7c6cbcefd1ae07f.jpg",
+        "https://telegra.ph/file/49188a1ca144752cef3a4.jpg",
+        "https://telegra.ph/file/eb8553075706153b928ed.jpg",
+        "https://telegra.ph/file/60cb847a9e3886352d4b7.jpg",
+        "https://telegra.ph/file/ea8860e698fdcf9b74240.jpg",
+        "https://telegra.ph/file/86c034198ae0e4c14c065.jpg"
+    ]
+};

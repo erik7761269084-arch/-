@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5157,
+    "title": "[つかこ]でれしす～つよ☆しすのつづき～ (COMIC快楽天ビースト 2021年12月号) [MJK-22-Z2682]",
+    "sourceUrl": "https://telegra.ph/つかこでれしすつよしすのつづき-COMIC快楽天ビースト-2021年12月号-MJK-22-Z2682-08-31-2",
+    "images": [
+        "https://telegra.ph/file/9733dc843fec6a9f48376.png",
+        "https://telegra.ph/file/6e0eadb783813f3b24a3d.png",
+        "https://telegra.ph/file/bea09e582c549eab238bf.png",
+        "https://telegra.ph/file/2bfb2c9a40792721c834f.png",
+        "https://telegra.ph/file/484b1509c99c0b694369a.png",
+        "https://telegra.ph/file/fb5f5088e7d1a13d42413.png",
+        "https://telegra.ph/file/52a42779564a203105aed.png",
+        "https://telegra.ph/file/ffe338a60b563569ba652.png",
+        "https://telegra.ph/file/dee878560ff4577d7697e.png",
+        "https://telegra.ph/file/38311ce8bd5a9d531d54e.png",
+        "https://telegra.ph/file/17ea70d9fd195aac36d21.png",
+        "https://telegra.ph/file/c62be363c76fb43d1f710.png",
+        "https://telegra.ph/file/4664107f2030af921ec25.png",
+        "https://telegra.ph/file/f0fb2e6e6d165f04f9b21.png",
+        "https://telegra.ph/file/270e8e3741f74f1a6df19.png",
+        "https://telegra.ph/file/9e68cce07c2959c528ac4.png",
+        "https://telegra.ph/file/e3c9b4a244000ce594f47.png",
+        "https://telegra.ph/file/b25b93dc631db1a6f56f4.png",
+        "https://telegra.ph/file/653059ca6085b19952c9a.png",
+        "https://telegra.ph/file/99316b4545f65bcbcdb4f.png",
+        "https://telegra.ph/file/8f6c76741be6a43b33920.png",
+        "https://telegra.ph/file/4d3442d37a3bb0491084c.png",
+        "https://telegra.ph/file/891fcefbad123ac8de86b.png"
+    ]
+};

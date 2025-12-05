@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7015,
+    "title": "リベンジマッチ",
+    "sourceUrl": "https://telegra.ph/リベンジマッチ-08-31",
+    "images": [
+        "https://telegra.ph/file/7c07462934973c88870d4.jpg",
+        "https://telegra.ph/file/8a526af5a38efb06302fc.jpg",
+        "https://telegra.ph/file/646a970c79665b469ae84.jpg",
+        "https://telegra.ph/file/0cad9eb9325618c9d2ff7.jpg",
+        "https://telegra.ph/file/d9790edcfad35d8d386a7.jpg",
+        "https://telegra.ph/file/e7a247f41589978fcf5ad.jpg",
+        "https://telegra.ph/file/407f5fdbd887f4103d874.jpg",
+        "https://telegra.ph/file/4235f28dd5a29d89267e8.jpg",
+        "https://telegra.ph/file/d7be5ce8bc94e6ada26e3.jpg",
+        "https://telegra.ph/file/9a8dff779188eaf66d364.jpg",
+        "https://telegra.ph/file/841bb6c5e16267ed5bf34.jpg",
+        "https://telegra.ph/file/5a41b5766ec0d198229c6.jpg",
+        "https://telegra.ph/file/21d6bd17e4750a2426e96.jpg",
+        "https://telegra.ph/file/cf5e2d075e485849683d9.jpg",
+        "https://telegra.ph/file/34d3ea81d5e1734d829ec.jpg",
+        "https://telegra.ph/file/db95cfdb2b49e75b40276.jpg",
+        "https://telegra.ph/file/93a853bbdbe214933dcd3.jpg",
+        "https://telegra.ph/file/c103a62fafffb11b2dcb0.jpg",
+        "https://telegra.ph/file/eea4bf436916d2cbc80d2.jpg",
+        "https://telegra.ph/file/9806b38914afde185d977.jpg",
+        "https://telegra.ph/file/44cb7fb68c5f0cd044481.jpg",
+        "https://telegra.ph/file/b04731bdbdd7ae6005eb1.jpg",
+        "https://telegra.ph/file/e36a673d0f098dece082f.jpg",
+        "https://telegra.ph/file/d3f88017a5efa5ed5c3a5.jpg"
+    ]
+};

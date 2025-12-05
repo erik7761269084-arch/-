@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1078,
+    "title": "(C95) [H×3I (平野河重)] 能代セラピー (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C95-H3I-平野河重-能代セラピー-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/37a6fc50d0966cef4e1c8.jpg",
+        "https://telegra.ph/file/4ac9c8d8c61d9c36d37f7.jpg",
+        "https://telegra.ph/file/42781b36c02f8b58088ed.jpg",
+        "https://telegra.ph/file/09ea3030cccd67db34a2d.jpg",
+        "https://telegra.ph/file/d494f008100b0d4c8c901.jpg",
+        "https://telegra.ph/file/6e64c8ed71af06062d246.jpg",
+        "https://telegra.ph/file/87a5275ef8e9addc6af63.jpg",
+        "https://telegra.ph/file/0231212d8e72b1836e82b.jpg",
+        "https://telegra.ph/file/55b4a174cb3b618fcf208.jpg",
+        "https://telegra.ph/file/43844632f1357eb5e89bd.jpg",
+        "https://telegra.ph/file/8d4dfcff73049c6142d0b.jpg",
+        "https://telegra.ph/file/7c838dee4dc85b721b61c.jpg",
+        "https://telegra.ph/file/5d57efdb86795283e1f49.jpg",
+        "https://telegra.ph/file/6b990ba3afc46523bb57b.jpg",
+        "https://telegra.ph/file/820557ddac52f385b09bc.jpg",
+        "https://telegra.ph/file/a9e80698bcbd31704227c.jpg",
+        "https://telegra.ph/file/27fddd590c4c4fc288398.jpg",
+        "https://telegra.ph/file/48694b6bf8cc27fbdaf82.jpg",
+        "https://telegra.ph/file/38e781056930ed6a0c57c.jpg",
+        "https://telegra.ph/file/0ed8b5960d1fe26d56441.jpg",
+        "https://telegra.ph/file/21d2df358ae1107f262a8.jpg",
+        "https://telegra.ph/file/7dcbab746785cf023de51.jpg",
+        "https://telegra.ph/file/c9631963a1d3372a89fd6.jpg",
+        "https://telegra.ph/file/7899d273a9890517379b2.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6893,
+    "title": "デキる女のお礼の仕方",
+    "sourceUrl": "https://telegra.ph/デキる女のお礼の仕方-08-31",
+    "images": [
+        "https://telegra.ph/file/72b652ccb5f895a77ca62.png",
+        "https://telegra.ph/file/6e801fb3953cde2577504.png",
+        "https://telegra.ph/file/eaa347b17a4794f183bf9.png",
+        "https://telegra.ph/file/143c854d260951877f9c3.png",
+        "https://telegra.ph/file/eba88366f31d44988ba46.png",
+        "https://telegra.ph/file/d6a17b5a1dfe80fa19959.png",
+        "https://telegra.ph/file/feb142853dcddd3dcb5f7.png",
+        "https://telegra.ph/file/050d36cf6472251bedcd0.png",
+        "https://telegra.ph/file/f678cc0e1343914528fed.png",
+        "https://telegra.ph/file/d775f4242c5ab45450630.png",
+        "https://telegra.ph/file/2e9bcbbf9b92678997f44.png",
+        "https://telegra.ph/file/40e082d8681e9acc67290.png",
+        "https://telegra.ph/file/78db5ec1bb79593b8ec8a.png",
+        "https://telegra.ph/file/a3db35eaaa3559842f9f1.png",
+        "https://telegra.ph/file/f269c799c8fe6700314d6.png",
+        "https://telegra.ph/file/c75415d135bb8e02370d1.png",
+        "https://telegra.ph/file/22ddba37a02723886f797.png",
+        "https://telegra.ph/file/4f561bdb334f9065127ab.png",
+        "https://telegra.ph/file/b8bc27418319af155d45b.png",
+        "https://telegra.ph/file/c12b6914524c9f40b5858.png",
+        "https://telegra.ph/file/784c2a3e88aa0212e695d.png",
+        "https://telegra.ph/file/72ddfcf017d6faab3445a.png",
+        "https://telegra.ph/file/f4284a502d788ae899042.png",
+        "https://telegra.ph/file/e9f4d10d85a5a9cc39b54.png",
+        "https://telegra.ph/file/91db22b6b725959ecc1f4.png",
+        "https://telegra.ph/file/83ca052d46064e0a62d4b.png"
+    ]
+};

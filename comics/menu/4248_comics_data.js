@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4248,
+    "title": "[跳犬] ビッチのススメ～雌に目覚める生徒会長～ 第3話 (敗北乙女エクスタシー Vol.20)",
+    "sourceUrl": "https://telegra.ph/跳犬-ビッチのススメ雌に目覚める生徒会長-第3話-敗北乙女エクスタシー-Vol20-08-31",
+    "images": [
+        "https://telegra.ph/file/6c0ad8823b5eb588f3d24.jpg",
+        "https://telegra.ph/file/129d46f3ac489e41dca23.jpg",
+        "https://telegra.ph/file/e0807ef21c4e09726e99a.jpg",
+        "https://telegra.ph/file/ea3abaa372953c829350e.jpg",
+        "https://telegra.ph/file/d0bbf7b17b8d46ecc4175.jpg",
+        "https://telegra.ph/file/021b05cfc80fe822689e9.jpg",
+        "https://telegra.ph/file/e27ce26dfcde3a8bb7233.jpg",
+        "https://telegra.ph/file/2d75c1a78f3e8474fe275.jpg",
+        "https://telegra.ph/file/e65bf19c2e6654edb8677.jpg",
+        "https://telegra.ph/file/1f4e0eae2ba38ddc03f16.jpg",
+        "https://telegra.ph/file/01e77617fbd6b48d1546d.jpg",
+        "https://telegra.ph/file/ee652e659796f19e30b73.jpg",
+        "https://telegra.ph/file/2248c8af41d3f2ed3ffa8.jpg",
+        "https://telegra.ph/file/52bed220aa3f6f80a22ee.jpg",
+        "https://telegra.ph/file/05cc62d0646f916259ba5.jpg",
+        "https://telegra.ph/file/a90babfc7658888291779.jpg",
+        "https://telegra.ph/file/28e297cda488808c1207c.jpg",
+        "https://telegra.ph/file/148d93894f31da2a74133.jpg",
+        "https://telegra.ph/file/ee2bcd16b332e88f2c74b.jpg",
+        "https://telegra.ph/file/913b80538d6b7581e30bd.jpg",
+        "https://telegra.ph/file/f022b679a63003ffbaa72.jpg",
+        "https://telegra.ph/file/596c6b055fe13f89e976d.jpg",
+        "https://telegra.ph/file/fb8d6ee30d06f78b8effb.jpg",
+        "https://telegra.ph/file/b15058f85a77c7486c310.jpg"
+    ]
+};

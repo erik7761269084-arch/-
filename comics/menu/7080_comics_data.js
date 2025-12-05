@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7080,
+    "title": "人を信じる事なかれ",
+    "sourceUrl": "https://telegra.ph/人を信じる事なかれ-08-31",
+    "images": [
+        "https://telegra.ph/file/c7d5962140aaf5178f691.jpg",
+        "https://telegra.ph/file/6c0a131875cbaed9e8285.jpg",
+        "https://telegra.ph/file/081df6ae287429095afc2.jpg",
+        "https://telegra.ph/file/b3c1ee24537e3be4e2b86.jpg",
+        "https://telegra.ph/file/2401cda55daab0775a74b.jpg",
+        "https://telegra.ph/file/39d443274fcb0e4ed67b5.jpg",
+        "https://telegra.ph/file/6ebef1aeeed6f846ced5a.jpg",
+        "https://telegra.ph/file/ba08ee2c81d1ec6d6a07b.jpg",
+        "https://telegra.ph/file/b9e0be3434ee9a916ab7d.jpg",
+        "https://telegra.ph/file/71c5cca668a337c9d21ec.jpg",
+        "https://telegra.ph/file/f3db51467e9ab282ce2d1.jpg",
+        "https://telegra.ph/file/3be722a8c8dbd7b304e8e.jpg",
+        "https://telegra.ph/file/94696286f25ddca7f8902.jpg",
+        "https://telegra.ph/file/e124cd95e7f0d7f8a3af3.jpg",
+        "https://telegra.ph/file/fd2bfe2f9f73aec1a8825.jpg",
+        "https://telegra.ph/file/586fcbe0a66ba530e76dc.jpg",
+        "https://telegra.ph/file/f3dded35392fa94f5062b.jpg",
+        "https://telegra.ph/file/12d3b93edded2f2336788.jpg",
+        "https://telegra.ph/file/333a8701e0d538f4c336f.jpg",
+        "https://telegra.ph/file/596c35e873782533b7727.jpg",
+        "https://telegra.ph/file/be6692347da2c977144a0.jpg",
+        "https://telegra.ph/file/5c3df8e5128b39eb4383f.jpg",
+        "https://telegra.ph/file/42af6cc1450c39f836230.jpg",
+        "https://telegra.ph/file/40511f0f3f16bfedbccfa.jpg"
+    ]
+};

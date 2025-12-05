@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 538,
+    "title": "[安藤裕行] お肉の性女伝説 (パコパコビッチ☆ ～メガ盛り！ましまし！ドスケベ肉♥～)",
+    "sourceUrl": "https://telegra.ph/安藤裕行-お肉の性女伝説-パコパコビッチ-メガ盛りましましドスケベ肉-08-31",
+    "images": [
+        "https://telegra.ph/file/0d5eafdf802a6ce25b841.jpg",
+        "https://telegra.ph/file/0fc43c23d29213bd54158.jpg",
+        "https://telegra.ph/file/d751153cb9b1e6d619922.jpg",
+        "https://telegra.ph/file/ecb70dfd34bec3a4ec0d0.jpg",
+        "https://telegra.ph/file/6d94e0a2560d522ea09fd.jpg",
+        "https://telegra.ph/file/02eee163d984d3960d63c.jpg",
+        "https://telegra.ph/file/5edfa5811db29c0296117.jpg",
+        "https://telegra.ph/file/d754abb3bfefecfc77305.jpg",
+        "https://telegra.ph/file/8d27c4b3d47fdac0513f2.jpg",
+        "https://telegra.ph/file/2e848c57c1134519ec072.jpg",
+        "https://telegra.ph/file/6db2562e01fc423ad110a.jpg",
+        "https://telegra.ph/file/0b18404e53abf00c69233.jpg",
+        "https://telegra.ph/file/03c075a14f2a4d779fabb.jpg",
+        "https://telegra.ph/file/5664ffd6f2c84e1c80d7e.jpg",
+        "https://telegra.ph/file/c2e6815031edfcfe4cac6.jpg",
+        "https://telegra.ph/file/b783cd528bf6398df28e9.jpg",
+        "https://telegra.ph/file/66fa252fa83f5adc8d30b.jpg",
+        "https://telegra.ph/file/667885f0db229dcf30ec2.jpg",
+        "https://telegra.ph/file/b3206871bc685432f5527.jpg",
+        "https://telegra.ph/file/64a76319b3ac5120c34ab.jpg",
+        "https://telegra.ph/file/acd0ac19a4fa9fe2e906d.jpg",
+        "https://telegra.ph/file/759a305861ca7ccb76862.jpg",
+        "https://telegra.ph/file/0a73e909ab828ac11eb9c.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6107,
+    "title": "[7zu7] アンチェンジング♥ラブ",
+    "sourceUrl": "https://telegra.ph/7zu7-アンチェンジングラブ-08-31",
+    "images": [
+        "https://telegra.ph/file/1ac6da40f9c549d24453f.jpg",
+        "https://telegra.ph/file/387791c7f0beca8d53357.jpg",
+        "https://telegra.ph/file/048b6d61dca38845f0625.jpg",
+        "https://telegra.ph/file/1c83bba9eb97b244f058b.jpg",
+        "https://telegra.ph/file/e84b9cce74a45ca94b908.jpg",
+        "https://telegra.ph/file/84a76d97e08130563cc52.jpg",
+        "https://telegra.ph/file/41f8d062d9e992d35f258.jpg",
+        "https://telegra.ph/file/09f4a0e912716a934ebab.jpg",
+        "https://telegra.ph/file/4bfe155c774ff505d018c.jpg",
+        "https://telegra.ph/file/7f54953ff7f52a8455ea8.jpg",
+        "https://telegra.ph/file/fb81d580e3f725665e64f.jpg",
+        "https://telegra.ph/file/cdd351d185e90920e561a.jpg",
+        "https://telegra.ph/file/26f328ea6b6f272e67bfb.jpg",
+        "https://telegra.ph/file/0305b71529fc2cc58637b.jpg",
+        "https://telegra.ph/file/d32a9389ef7b53b514192.jpg",
+        "https://telegra.ph/file/777f76a62e43fae1f84cd.jpg",
+        "https://telegra.ph/file/5804e8d117ac8332a1523.jpg",
+        "https://telegra.ph/file/de915012695c9b0838f0f.jpg",
+        "https://telegra.ph/file/1b5612c4b66e9c26b4557.jpg",
+        "https://telegra.ph/file/f663de01f8cd199552d4d.jpg",
+        "https://telegra.ph/file/1da10e8a79762bf558c68.jpg",
+        "https://telegra.ph/file/2d2a8db0f337b870fc58d.jpg",
+        "https://telegra.ph/file/40c9a25488760c303d90b.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2819,
+    "title": "[江森うき] 叔母ちゃんの腋とお尻とetc... (COMIC クリベロン DUMA 2021年7月号 Vol.27)",
+    "sourceUrl": "https://telegra.ph/江森うき-叔母ちゃんの腋とお尻とetc-COMIC-クリベロン-DUMA-2021年7月号-Vol27-08-31",
+    "images": [
+        "https://telegra.ph/file/2f3d99364b047e1bb569a.jpg",
+        "https://telegra.ph/file/309672827f7af608453cd.jpg",
+        "https://telegra.ph/file/7ab096c92dd3d6e367b08.jpg",
+        "https://telegra.ph/file/eb1a3098dd2ed5fa696ac.jpg",
+        "https://telegra.ph/file/ffa9e10bfec80e86cbc96.jpg",
+        "https://telegra.ph/file/e7571f157e83e3e611982.jpg",
+        "https://telegra.ph/file/32c32010d259a2af18cdf.jpg",
+        "https://telegra.ph/file/134583abe0c847ce703b2.jpg",
+        "https://telegra.ph/file/8e5dd754b26ef409861bd.jpg",
+        "https://telegra.ph/file/5a942c54c895754da3e1a.jpg",
+        "https://telegra.ph/file/790420ffb93f2b5bf1ff0.jpg",
+        "https://telegra.ph/file/29b9178c00055cf8effd1.jpg",
+        "https://telegra.ph/file/e83d703b481534ea82864.jpg",
+        "https://telegra.ph/file/2d18ab065b465b943118f.jpg",
+        "https://telegra.ph/file/84896bd684b5eb81d481e.jpg",
+        "https://telegra.ph/file/be00b564d3812f1369076.jpg",
+        "https://telegra.ph/file/ceff09a8b03bc765b5858.jpg",
+        "https://telegra.ph/file/97decca626aef39d399a7.jpg",
+        "https://telegra.ph/file/e61c3b074d45382c453e2.jpg",
+        "https://telegra.ph/file/6f14a61bc98b10657ede3.jpg",
+        "https://telegra.ph/file/19a6f1cc765aef3508d4f.jpg",
+        "https://telegra.ph/file/9a65ae0902a4372eb264d.jpg",
+        "https://telegra.ph/file/4d595ee4fd574232c6be5.jpg",
+        "https://telegra.ph/file/dc9ffdf13f24ddeb6da56.jpg",
+        "https://telegra.ph/file/de68721b19f69ae8483a0.jpg"
+    ]
+};

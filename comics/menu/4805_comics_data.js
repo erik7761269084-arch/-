@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4805,
+    "title": "[双葉八重] サボって♡ハマッて♡ホシュウ授業♡ (COMIC 真激 2019年1月号)",
+    "sourceUrl": "https://telegra.ph/双葉八重-サボってハマッてホシュウ授業-COMIC-真激-2019年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/dbef05d04160750d5f246.jpg",
+        "https://telegra.ph/file/4f3aeff9fb02cc58cbe1f.jpg",
+        "https://telegra.ph/file/165bed51f38390561db36.jpg",
+        "https://telegra.ph/file/b0c8b2e77e77feca78d2e.jpg",
+        "https://telegra.ph/file/c2b9cc85ebaeed339e792.jpg",
+        "https://telegra.ph/file/7279b218e3fce44ee6447.jpg",
+        "https://telegra.ph/file/73570e9150c40125cad71.jpg",
+        "https://telegra.ph/file/22489b3925c8166a8d226.jpg",
+        "https://telegra.ph/file/9605f0e39d91a6beb759f.jpg",
+        "https://telegra.ph/file/45242be94dbe00afd940c.jpg",
+        "https://telegra.ph/file/1bb4f4c20475c53a231ac.jpg",
+        "https://telegra.ph/file/6961806342599988f7a29.jpg",
+        "https://telegra.ph/file/30e25f3b4b5bb6a2d80cf.jpg",
+        "https://telegra.ph/file/2a0f253a2065714e5ece3.jpg",
+        "https://telegra.ph/file/724f4a5dbd92d37412e97.jpg",
+        "https://telegra.ph/file/41a25a0911e3f6d90757d.jpg",
+        "https://telegra.ph/file/9b4a7fd12c2eb3e6de550.jpg",
+        "https://telegra.ph/file/39092db4ced51b9678f7e.jpg",
+        "https://telegra.ph/file/efac5ece5949bb02ab2eb.jpg",
+        "https://telegra.ph/file/c6dfd9afe2c9a86aca534.jpg",
+        "https://telegra.ph/file/0d6e7bf210ded8821e2c0.jpg",
+        "https://telegra.ph/file/77d9a6a77f6b18e49b0d5.jpg",
+        "https://telegra.ph/file/6474afda1b116be94a99a.jpg",
+        "https://telegra.ph/file/0752c017b83cb278db725.jpg"
+    ]
+};

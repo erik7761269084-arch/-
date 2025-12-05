@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4167,
+    "title": "[んみゅ (唐辛子ひでゆ)] なーちゃんおねつであっちっち。てんかうごきます。 (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/んみゅ-唐辛子ひでゆ-なーちゃんおねつであっちっちてんかうごきます-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/af3b43d69cb51bc7134c7.jpg",
+        "https://telegra.ph/file/d8b153efacd1f89927d83.jpg",
+        "https://telegra.ph/file/a10c7be9c1d84d436163a.jpg",
+        "https://telegra.ph/file/30d9259a5197d234650e7.jpg",
+        "https://telegra.ph/file/2bb73aacea92cc7f2bd52.jpg",
+        "https://telegra.ph/file/f5f7813d4c53d5b4bee3e.jpg",
+        "https://telegra.ph/file/6087dbd2301976926598d.jpg",
+        "https://telegra.ph/file/3b809bf3ad1e4e4cfc14c.jpg",
+        "https://telegra.ph/file/b6307ac3427ad8150a8d0.jpg",
+        "https://telegra.ph/file/cc75d2076c5fbad86486e.jpg",
+        "https://telegra.ph/file/f702c0be9655ad9a78223.jpg",
+        "https://telegra.ph/file/9d8a72272f9b2fe3bbefe.jpg",
+        "https://telegra.ph/file/404245399b04e072ceec9.jpg",
+        "https://telegra.ph/file/db66e6fee16351f0cce95.jpg",
+        "https://telegra.ph/file/f17795bbb3443286f6c58.jpg",
+        "https://telegra.ph/file/b39597d864fcc583d0790.jpg",
+        "https://telegra.ph/file/dafa638fdf90c30054ef7.jpg",
+        "https://telegra.ph/file/ff7e1a9401dc9ac5e7009.jpg",
+        "https://telegra.ph/file/4846e2aa6f9aa69e9b780.jpg",
+        "https://telegra.ph/file/05a126edaa1142363ccaa.jpg",
+        "https://telegra.ph/file/1a1c01f26f835efccc6d9.jpg",
+        "https://telegra.ph/file/147ebec2a768fe5024535.jpg",
+        "https://telegra.ph/file/8a4fe154df61b1b5ed717.jpg"
+    ]
+};

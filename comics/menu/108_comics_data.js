@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 108,
+    "title": "[JJ.JJ] Closers Futanari (CLOSERS)",
+    "sourceUrl": "https://telegra.ph/JJJJ-Closers-Futanari-CLOSERS-08-31",
+    "images": [
+        "https://telegra.ph/file/809bca9bd57a911c8089e.jpg",
+        "https://telegra.ph/file/c251ee3c62b72445ab667.jpg",
+        "https://telegra.ph/file/8edd3c771b74518e807f5.jpg",
+        "https://telegra.ph/file/c958127d9e350186a3147.jpg",
+        "https://telegra.ph/file/a5b31a3556cf2be3b765a.jpg",
+        "https://telegra.ph/file/59b89828b9fc95e314a9c.jpg",
+        "https://telegra.ph/file/2821f2204dde7f89eba27.jpg",
+        "https://telegra.ph/file/a76be903055a25ad70491.jpg",
+        "https://telegra.ph/file/ec1b915faae5409289dd9.jpg",
+        "https://telegra.ph/file/88eb1e16cc01b8933888b.jpg",
+        "https://telegra.ph/file/fe28db5eabe9bf030bc11.jpg",
+        "https://telegra.ph/file/0285892edf107acdfe382.jpg",
+        "https://telegra.ph/file/e8f925bb65d9221cbb5d8.jpg",
+        "https://telegra.ph/file/4f47c263a9b91ff0368c9.jpg",
+        "https://telegra.ph/file/f4334420f0bef96d1b3d6.jpg",
+        "https://telegra.ph/file/d6d4e0a9f078b7f1c1595.jpg",
+        "https://telegra.ph/file/3b4251fb56b1eedf049a7.jpg",
+        "https://telegra.ph/file/c8aef1560342155eb5720.jpg",
+        "https://telegra.ph/file/d36feb3597cc213c1dd5d.jpg",
+        "https://telegra.ph/file/84e812cf885afeb812e66.jpg",
+        "https://telegra.ph/file/d560bc5ec7a4010958ea7.jpg",
+        "https://telegra.ph/file/cb8b1b81a68c2121d72fe.jpg",
+        "https://telegra.ph/file/068fd8705a0422b9adc74.jpg",
+        "https://telegra.ph/file/564b382d0559e4639554c.jpg",
+        "https://telegra.ph/file/0f286169a83825f6789eb.jpg",
+        "https://telegra.ph/file/af3f32f9f3e45cefb7ea9.jpg"
+    ]
+};

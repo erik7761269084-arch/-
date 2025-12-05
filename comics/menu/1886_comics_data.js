@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 1886,
+    "title": "[木静謙二] Intention (コミックホットミルク濃いめ vol.1)",
+    "sourceUrl": "https://telegra.ph/木静謙二-Intention-コミックホットミルク濃いめ-vol1-08-31",
+    "images": [
+        "https://telegra.ph/file/7cd4fbe855aacef4a4fdb.jpg",
+        "https://telegra.ph/file/70caa7b4a35b611ea0bf7.jpg",
+        "https://telegra.ph/file/9307954c647d3d1c21cea.jpg",
+        "https://telegra.ph/file/b88b235215cb080aa885c.jpg",
+        "https://telegra.ph/file/4db8edc5eb9d1be617112.jpg",
+        "https://telegra.ph/file/4ef868196463ac8310d10.jpg",
+        "https://telegra.ph/file/5a3e5ed4a76871f976b20.jpg",
+        "https://telegra.ph/file/3420a1c1d073f1ec363d7.jpg",
+        "https://telegra.ph/file/290ccf82b7986c3d70e41.jpg",
+        "https://telegra.ph/file/ab3c73ec391c9eef24c07.jpg",
+        "https://telegra.ph/file/b261b93a45f72c1c9fdd4.jpg",
+        "https://telegra.ph/file/f75cc6a49c94fb52ebe65.jpg",
+        "https://telegra.ph/file/e5a6e8a14585075374d9d.jpg",
+        "https://telegra.ph/file/15f5a944540bd0d1df44b.jpg",
+        "https://telegra.ph/file/09c3a05fc17b2a49218ec.jpg",
+        "https://telegra.ph/file/e950d9a534dfc270d52ef.jpg",
+        "https://telegra.ph/file/164dfb06cbe702e4ec24d.jpg",
+        "https://telegra.ph/file/5dcc3caabd1c4ebf11e6b.jpg",
+        "https://telegra.ph/file/f389fd1f30e65036a17c6.jpg",
+        "https://telegra.ph/file/3029e3bcbe80ff8f408d5.jpg",
+        "https://telegra.ph/file/10d4b8a22845d88107ecd.jpg",
+        "https://telegra.ph/file/897084cebb7d928c847d0.jpg",
+        "https://telegra.ph/file/c84ddb7b5d691f4c6b804.jpg"
+    ]
+};

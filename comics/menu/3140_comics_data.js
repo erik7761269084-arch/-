@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3140,
+    "title": "[まめぞう] 世界一の男 (COMIC LO 2021年4月号)",
+    "sourceUrl": "https://telegra.ph/まめぞう-世界一の男-COMIC-LO-2021年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d2a65bea6823725d18d0b.jpg",
+        "https://telegra.ph/file/1a0981d1f1e746e14b414.jpg",
+        "https://telegra.ph/file/5264ee88b8edfe9f4a4bc.jpg",
+        "https://telegra.ph/file/2358b16542e3a3de3425f.jpg",
+        "https://telegra.ph/file/74da4bd97dbe0aad0c02f.jpg",
+        "https://telegra.ph/file/5e8d7f2eb2c18035c4363.jpg",
+        "https://telegra.ph/file/ae501c9df35a2ff1e5fb9.jpg",
+        "https://telegra.ph/file/282f50a8c1976284caad0.jpg",
+        "https://telegra.ph/file/fccc270d0e7349f9698f8.jpg",
+        "https://telegra.ph/file/e52062a42f86306fd42ae.jpg",
+        "https://telegra.ph/file/0829e32999340884e8e3d.jpg",
+        "https://telegra.ph/file/dfc4c6c79d7086bdd4de3.jpg",
+        "https://telegra.ph/file/a96ac1867ecb021a4c190.jpg",
+        "https://telegra.ph/file/76b1ade2c4d4e639346be.jpg",
+        "https://telegra.ph/file/aab32c354b029d5b589d9.jpg",
+        "https://telegra.ph/file/7f6bb02a3531f029775cc.jpg",
+        "https://telegra.ph/file/30b042c9e1f346ab184ba.jpg",
+        "https://telegra.ph/file/f5b24c1bbe182d210b12a.jpg",
+        "https://telegra.ph/file/e78124365f2216a8a011b.jpg",
+        "https://telegra.ph/file/ed9c2422b7d42cb1ef6d1.jpg",
+        "https://telegra.ph/file/43ff411e653499c30c66c.jpg",
+        "https://telegra.ph/file/2399a2121eedf6c791237.jpg",
+        "https://telegra.ph/file/3219568681e2ba9873b76.jpg",
+        "https://telegra.ph/file/3cc6f4317310f5530fbd0.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

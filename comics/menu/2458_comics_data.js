@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2458,
+    "title": "[エロマズン (まー九郎)] カナヲ無表情姦 (鬼滅の刃)    [カラー化]",
+    "sourceUrl": "https://telegra.ph/エロマズン-まー九郎-カナヲ無表情姦-鬼滅の刃-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/e5cb1933621102bc43e2d.jpg",
+        "https://telegra.ph/file/cce03be3752642049c4fa.jpg",
+        "https://telegra.ph/file/33a5f2f4409c672614a93.jpg",
+        "https://telegra.ph/file/acf746a005413eaeccb78.jpg",
+        "https://telegra.ph/file/d071997a8cc5e282fb777.jpg",
+        "https://telegra.ph/file/d1a9bb7a9aab6aa3a4f68.jpg",
+        "https://telegra.ph/file/7ecc02adf3e019743f1dc.jpg",
+        "https://telegra.ph/file/7885253fef1e5996be043.jpg",
+        "https://telegra.ph/file/2d9682990e834c9a29976.jpg",
+        "https://telegra.ph/file/bf691232b06da5486939f.jpg",
+        "https://telegra.ph/file/8ff15ef97ba2a0fc6b24c.jpg",
+        "https://telegra.ph/file/264085eff1eb8aae37d27.jpg",
+        "https://telegra.ph/file/af0248e5a1b067bb37f66.jpg",
+        "https://telegra.ph/file/5fdcb0b2a29437e0624f9.jpg",
+        "https://telegra.ph/file/2133446e9a52879cb1741.jpg",
+        "https://telegra.ph/file/5867b870d63d156d2aaab.jpg",
+        "https://telegra.ph/file/69cda7fa36de20c352798.jpg",
+        "https://telegra.ph/file/9d18ef992154ac6a736be.jpg",
+        "https://telegra.ph/file/0702273d44ec78358b6a3.jpg",
+        "https://telegra.ph/file/e8fb48b1c0878755b58f9.jpg",
+        "https://telegra.ph/file/f68b164532a4b89250ace.jpg",
+        "https://telegra.ph/file/a1f31a63dedbc6ed030c4.jpg",
+        "https://telegra.ph/file/dd42d08ded81d9409bad7.jpg"
+    ]
+};

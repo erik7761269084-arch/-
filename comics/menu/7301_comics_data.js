@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7301,
+    "title": "一夜の魔法",
+    "sourceUrl": "https://telegra.ph/一夜の魔法-08-31",
+    "images": [
+        "https://telegra.ph/file/249eeb4f7fc2c210d3eee.jpg",
+        "https://telegra.ph/file/cff799ed6fcf002b84ba5.jpg",
+        "https://telegra.ph/file/69c7edd1ebe09be6bd78d.jpg",
+        "https://telegra.ph/file/19055439b00c27a27782a.jpg",
+        "https://telegra.ph/file/15a57e3c9fc3f2201518a.jpg",
+        "https://telegra.ph/file/ef94d8669bfc1d2e8fd1a.jpg",
+        "https://telegra.ph/file/c81639ba60b034bb4c63a.jpg",
+        "https://telegra.ph/file/9ea265a3ae443d39210d9.jpg",
+        "https://telegra.ph/file/6c6115801e5a62eb10271.jpg",
+        "https://telegra.ph/file/059b6cd5428b1138cab08.jpg",
+        "https://telegra.ph/file/9acb5fff4aebb73a42ddc.jpg",
+        "https://telegra.ph/file/858c5819be5d4d56cfdb7.jpg",
+        "https://telegra.ph/file/c125d30b91398644b0d27.jpg",
+        "https://telegra.ph/file/d38674440e68be651246c.jpg",
+        "https://telegra.ph/file/db10d259a6b7bd59fe56d.jpg",
+        "https://telegra.ph/file/c41d476ef5d5481d7b0b0.jpg",
+        "https://telegra.ph/file/ef6d3112ef483a6e3145c.jpg",
+        "https://telegra.ph/file/d960c626fc19c4a82ea83.jpg",
+        "https://telegra.ph/file/f329ac4d4a0ee68a41e80.jpg",
+        "https://telegra.ph/file/b9b9510b8b9538b5e771f.jpg",
+        "https://telegra.ph/file/213da4341ff1f658c6138.jpg",
+        "https://telegra.ph/file/5633f368fa12230519d5f.jpg",
+        "https://telegra.ph/file/1e235f2501d203717d810.jpg",
+        "https://telegra.ph/file/1a9c0a7d7c0f6c90b67a4.jpg"
+    ]
+};

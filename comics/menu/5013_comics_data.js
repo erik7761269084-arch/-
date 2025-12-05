@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5013,
+    "title": "DID部 VS BDSM部 部落争夺战 [ura_macoto] DID club VS BDSM club・club room battle (DID part) [起落委托|阿卡姆汉化]",
+    "sourceUrl": "https://telegra.ph/DID部-VS-BDSM部-部落争夺战-ura-macoto-DID-club-VS-BDSM-clubclub-room-battle-DID-part-起落委托阿卡姆汉化-08-28",
+    "images": [
+        "https://telegra.ph/file/e4a74eb80dcdf13019bf9.jpg",
+        "https://telegra.ph/file/c95d73bf5c265e88b6743.jpg",
+        "https://telegra.ph/file/bb97be21240fb79562f5c.jpg",
+        "https://telegra.ph/file/e662d17432d0a134222ce.jpg",
+        "https://telegra.ph/file/f3c89a14befb99bcd5360.jpg",
+        "https://telegra.ph/file/c03852481cb40406170e7.jpg",
+        "https://telegra.ph/file/cfa3e9c72834800407b89.jpg",
+        "https://telegra.ph/file/1179e9e2edda4631b1c42.jpg",
+        "https://telegra.ph/file/152e5df70c9404dedf21b.jpg",
+        "https://telegra.ph/file/3687e0a11ecde83046fdc.jpg",
+        "https://telegra.ph/file/7b3d9196d52cd4bc3d3a3.jpg",
+        "https://telegra.ph/file/07500fe8c873f2f3f9319.jpg",
+        "https://telegra.ph/file/e25ae764a234a0973e26c.jpg",
+        "https://telegra.ph/file/7e4d6d6f5189b9cfe5792.jpg",
+        "https://telegra.ph/file/ccbb9a2c7953ae5e33462.jpg",
+        "https://telegra.ph/file/534882b7d56201642f90e.jpg",
+        "https://telegra.ph/file/9e312957f5a8f669da27c.jpg",
+        "https://telegra.ph/file/03ce91dac825f9b033cc3.jpg",
+        "https://telegra.ph/file/551ff516d9d98af379743.jpg",
+        "https://telegra.ph/file/fa11abaa60e89f14411ed.jpg",
+        "https://telegra.ph/file/3aaf329398870dafb799f.jpg",
+        "https://telegra.ph/file/59c0e1ba9cd57c48a97e5.jpg",
+        "https://telegra.ph/file/b21ac919f4d1b55612a39.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 167,
+    "title": "(砲雷撃戦!よーい!六十三戦目) [翔玄亭 (久遠)] しんしゅ (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/砲雷撃戦よーい六十三戦目-翔玄亭-久遠-しんしゅ-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/c5d9e2fdd7f18945564d6.jpg",
+        "https://telegra.ph/file/028306a701982080f2359.jpg",
+        "https://telegra.ph/file/23d26b253cfdcac9a0a01.jpg",
+        "https://telegra.ph/file/6a06f44e5a6168eba5f37.jpg",
+        "https://telegra.ph/file/298e6faf9d479fd5ffbd0.jpg",
+        "https://telegra.ph/file/7ed26a29bf095f3f8aa84.jpg",
+        "https://telegra.ph/file/b1bc6827089d7ee19f161.jpg",
+        "https://telegra.ph/file/de018623f19175e10ed45.jpg",
+        "https://telegra.ph/file/bbac21c92cf5b511c286a.jpg",
+        "https://telegra.ph/file/575f6885c3bab4e92fe9e.jpg",
+        "https://telegra.ph/file/1facf431fc9098c99f97e.jpg",
+        "https://telegra.ph/file/9bf11667da938f89d594b.jpg",
+        "https://telegra.ph/file/b3a006570917dc30baa8e.jpg",
+        "https://telegra.ph/file/450f5e35aff0fbaf2d28d.jpg",
+        "https://telegra.ph/file/50f2e984bd910e3d48170.jpg",
+        "https://telegra.ph/file/674dad487530606960a74.jpg",
+        "https://telegra.ph/file/b13277bc9dc0f1c550251.jpg",
+        "https://telegra.ph/file/d25bc4a63ad27bc250d71.jpg",
+        "https://telegra.ph/file/9a5050c9b0888d91d4bac.jpg",
+        "https://telegra.ph/file/64d16a44c9434161f9e27.jpg",
+        "https://telegra.ph/file/f35e85a7590e955bebc5d.jpg",
+        "https://telegra.ph/file/2739fa6f8c9d8ea7d6d86.jpg",
+        "https://telegra.ph/file/67d17132111bfe938e02f.jpg",
+        "https://telegra.ph/file/2a1a1cdf39ec284994417.jpg",
+        "https://telegra.ph/file/c136848e31ee11c95af39.jpg",
+        "https://telegra.ph/file/b730ad16d2e67f18d9b02.jpg"
+    ]
+};

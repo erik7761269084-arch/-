@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7661,
+    "title": "おっぱい包囲網 後編",
+    "sourceUrl": "https://telegra.ph/おっぱい包囲網-後編-08-31-2",
+    "images": [
+        "https://telegra.ph/file/007afd614d37737480871.jpg",
+        "https://telegra.ph/file/569bc2b64019a87caf374.png",
+        "https://telegra.ph/file/a6b3969fba31ad5ca3814.jpg",
+        "https://telegra.ph/file/ae1fae1c7b3de6cf3b10a.jpg",
+        "https://telegra.ph/file/d19bd4b7c7955f8d553b7.jpg",
+        "https://telegra.ph/file/95d50c9f9f025f3bf06e4.jpg",
+        "https://telegra.ph/file/958cd5457ec2acbfaef20.jpg",
+        "https://telegra.ph/file/121bd0779459b6fd3ba3f.jpg",
+        "https://telegra.ph/file/d2550a8fb33337ed0b120.jpg",
+        "https://telegra.ph/file/fee43dfc799e3acee036b.jpg",
+        "https://telegra.ph/file/0b73e32091fca71ec8321.jpg",
+        "https://telegra.ph/file/a7d1b5e5d65eb52f8a6af.jpg",
+        "https://telegra.ph/file/88a1a307c4491893f52c2.jpg",
+        "https://telegra.ph/file/c7cc65388b4d72d64928f.jpg",
+        "https://telegra.ph/file/9ee4f51541aed2df1efd9.jpg",
+        "https://telegra.ph/file/6972f202d3bc159364a7a.jpg",
+        "https://telegra.ph/file/885ab1aff764f9084047e.jpg",
+        "https://telegra.ph/file/13ff3a4178e43b0f99b46.jpg",
+        "https://telegra.ph/file/311f0e86a45315f8a92b2.jpg",
+        "https://telegra.ph/file/5c721f1e23055dbaab102.jpg",
+        "https://telegra.ph/file/fcc03b6f89fe77673310d.jpg",
+        "https://telegra.ph/file/80b4a5acfeed66e34e382.jpg",
+        "https://telegra.ph/file/cc9d8e9026950132f88e4.jpg",
+        "https://telegra.ph/file/03b08278fffc582d5980e.jpg",
+        "https://telegra.ph/file/d1158f2ba5adc119fc38c.jpg",
+        "https://telegra.ph/file/627c9da1c1b2e23226835.jpg"
+    ]
+};

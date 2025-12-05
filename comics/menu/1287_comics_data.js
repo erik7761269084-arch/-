@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1287,
+    "title": "[しろくろうさ (スギユウ)] 戦いに負けた少女の記録 ～カオリ編～ (プリンセスコネクト!ReDive)",
+    "sourceUrl": "https://telegra.ph/しろくろうさ-スギユウ-戦いに負けた少女の記録-カオリ編-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/623e389040cb0d357ff17.jpg",
+        "https://telegra.ph/file/ab81e6c1a94e23fd4f8cf.jpg",
+        "https://telegra.ph/file/b9c154f1d7935b455461b.jpg",
+        "https://telegra.ph/file/d47160daab30962a01016.jpg",
+        "https://telegra.ph/file/4d049ebe73ab705171727.jpg",
+        "https://telegra.ph/file/b9ba9df77b25557a8d005.jpg",
+        "https://telegra.ph/file/edeb5cd529cde4c8e346b.jpg",
+        "https://telegra.ph/file/9d7f5930c362fcf60501f.jpg",
+        "https://telegra.ph/file/7622601e560a930bb1b5a.jpg",
+        "https://telegra.ph/file/a65dec6bfedfc6d31994b.jpg",
+        "https://telegra.ph/file/c823a51774e53e001c011.jpg",
+        "https://telegra.ph/file/40583709c99084b9f5c7a.jpg",
+        "https://telegra.ph/file/9c4b55336c13d224f4d3c.jpg",
+        "https://telegra.ph/file/9fd4b07ec75942710027c.jpg",
+        "https://telegra.ph/file/4bc5c9d7a2dd8e3bc6273.jpg",
+        "https://telegra.ph/file/0ce98d04738df5d4c9e6c.jpg",
+        "https://telegra.ph/file/a362d978e430aa95bf26a.jpg",
+        "https://telegra.ph/file/6b9d80e5b93a10792f3d3.jpg",
+        "https://telegra.ph/file/1cfd474014297b849bc3c.jpg",
+        "https://telegra.ph/file/9f28cd25466700e8992fd.jpg",
+        "https://telegra.ph/file/fe4f6cf480c9224c3fb99.jpg",
+        "https://telegra.ph/file/8c23d5eeeca9f1906b365.jpg",
+        "https://telegra.ph/file/2557b645ad844c6033263.jpg",
+        "https://telegra.ph/file/75b67577c8ab675cdcc01.jpg"
+    ]
+};

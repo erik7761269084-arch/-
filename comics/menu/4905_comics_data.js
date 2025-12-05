@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4905,
+    "title": "(C92) [NOSEBLEED (宮元一佐)] むっつり乳上とろとろ交尾 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C92-NOSEBLEED-宮元一佐-むっつり乳上とろとろ交尾-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/fb5c7f1ca7b0bf7fad2ed.jpg",
+        "https://telegra.ph/file/4caf25c3b9ee4f3ad9056.jpg",
+        "https://telegra.ph/file/a56e1317ca1f81c534a61.jpg",
+        "https://telegra.ph/file/0d88dabc4aebf290dbf19.jpg",
+        "https://telegra.ph/file/787f12e0bea63d7d90766.jpg",
+        "https://telegra.ph/file/57af76931eee4fbe3654b.jpg",
+        "https://telegra.ph/file/4cd2930ce91eebbc9d57e.jpg",
+        "https://telegra.ph/file/a23cdfb20fa8bb6c041a2.jpg",
+        "https://telegra.ph/file/2eaa6ff6a9a790d689c77.jpg",
+        "https://telegra.ph/file/074123ee5ecfb48e0a7be.jpg",
+        "https://telegra.ph/file/956d24dd5df887b84a86f.jpg",
+        "https://telegra.ph/file/829c10d1d38af080fb754.jpg",
+        "https://telegra.ph/file/12eb2034354bbae44e19a.jpg",
+        "https://telegra.ph/file/755153aeb6258f132f417.jpg",
+        "https://telegra.ph/file/8b48d88fc74abd990c7c6.jpg",
+        "https://telegra.ph/file/ca3b85504b6ea71b07444.jpg",
+        "https://telegra.ph/file/6de42989680a9a2625bcc.jpg",
+        "https://telegra.ph/file/bb99854116bdb5a8052b2.jpg",
+        "https://telegra.ph/file/f22880245b29267a0c9d0.jpg",
+        "https://telegra.ph/file/56af8d929ac12da1c6fa5.jpg",
+        "https://telegra.ph/file/aa39014f2c61db88d890a.jpg",
+        "https://telegra.ph/file/a7880cf625fcea4d1d055.jpg",
+        "https://telegra.ph/file/a019f8ef62a29868edf7b.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ]
+};

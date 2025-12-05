@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1375,
+    "title": "[すぎぢー] しょうじきなカラダ (コミックホットミルク 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/すぎぢー-しょうじきなカラダ-コミックホットミルク-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/671e41da34ef0bf1e1efd.jpg",
+        "https://telegra.ph/file/8a0615c09e92f4f3cf220.jpg",
+        "https://telegra.ph/file/b0e85f352d03379593108.jpg",
+        "https://telegra.ph/file/7dcdf64fa748b33779f5e.jpg",
+        "https://telegra.ph/file/190149535944d9eb93415.jpg",
+        "https://telegra.ph/file/c802619371eb89761065c.jpg",
+        "https://telegra.ph/file/43bac0ad62017a44a7fdc.jpg",
+        "https://telegra.ph/file/7526b595c41f1893d8369.jpg",
+        "https://telegra.ph/file/046545bb533fe6e65e46c.jpg",
+        "https://telegra.ph/file/3a05e31dcbb5aec836dc6.jpg",
+        "https://telegra.ph/file/400aafab9c3a0fa85e326.jpg",
+        "https://telegra.ph/file/55862f15cd2c191b10461.jpg",
+        "https://telegra.ph/file/6817e8d508fffb665038c.jpg",
+        "https://telegra.ph/file/c638bc240c668a8f88510.jpg",
+        "https://telegra.ph/file/4b7d29cd87c8c52514117.jpg",
+        "https://telegra.ph/file/566d6270730df9a8e19e5.jpg",
+        "https://telegra.ph/file/90c423fef30009184dbdc.jpg",
+        "https://telegra.ph/file/4708d0924aff93392cb2e.jpg",
+        "https://telegra.ph/file/0e1855ac1c9460ed989e2.jpg",
+        "https://telegra.ph/file/2fb25739894db4d2ffe61.jpg",
+        "https://telegra.ph/file/703b82deece9b6df5834f.jpg",
+        "https://telegra.ph/file/94a071f26017e4e72f260.jpg",
+        "https://telegra.ph/file/e409a7a723479fa5ebfba.jpg",
+        "https://telegra.ph/file/db1925d60553e66e7c85e.jpg",
+        "https://telegra.ph/file/f40d7c6d156ac485639f3.jpg",
+        "https://telegra.ph/file/6fa3055bd34eeb0bd5f7f.jpg"
+    ]
+};

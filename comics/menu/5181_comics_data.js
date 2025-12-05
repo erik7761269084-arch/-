@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5181,
+    "title": "[ごさいじ] アマイアイマイ -後編- (COMIC快楽天 2022年4月号) [MJK-22-Z2758]",
+    "sourceUrl": "https://telegra.ph/ごさいじ-アマイアイマイ--後編--COMIC快楽天-2022年4月号-MJK-22-Z2758-08-31-2",
+    "images": [
+        "https://telegra.ph/file/03690b1623f18017aa216.png",
+        "https://telegra.ph/file/82d6fb42e75fbd92060f8.png",
+        "https://telegra.ph/file/abd91acafd21f5ab1d230.png",
+        "https://telegra.ph/file/7a3ed7b7305121d511f86.png",
+        "https://telegra.ph/file/19dcd06025188a9603c1b.png",
+        "https://telegra.ph/file/5fda94d04a4aa5776d425.png",
+        "https://telegra.ph/file/bc5b1e32acce3903ecdb4.png",
+        "https://telegra.ph/file/492af8495ed601b6b0340.png",
+        "https://telegra.ph/file/c6f4931ddd1b33da5e5d6.png",
+        "https://telegra.ph/file/00611ca6f53cc81475df4.png",
+        "https://telegra.ph/file/c85cb47eb0c2428078e1c.png",
+        "https://telegra.ph/file/89c8b20b01d13f6d36f4a.png",
+        "https://telegra.ph/file/208ee3f8121a58951ce6f.png",
+        "https://telegra.ph/file/00b2a63d9ffa1b87e994d.png",
+        "https://telegra.ph/file/10c7897a3148782fdc34b.png",
+        "https://telegra.ph/file/c1e874734c75322bd0f55.png",
+        "https://telegra.ph/file/57a965cc42046f22e64e2.png",
+        "https://telegra.ph/file/7055de25149902845dfdc.png",
+        "https://telegra.ph/file/86eca557b1aacbc9b3926.png",
+        "https://telegra.ph/file/3d48e4927eedd75bfb79f.png",
+        "https://telegra.ph/file/7194ebcf53c0867ad6dd4.png",
+        "https://telegra.ph/file/7796738b010b0963a0ba1.png",
+        "https://telegra.ph/file/94f11f56719bb41d48f8a.png",
+        "https://telegra.ph/file/00f671f19f63ca31743a6.png",
+        "https://telegra.ph/file/94560bdcf68cd3eeebce3.png",
+        "https://telegra.ph/file/cc14c722a4228277ba8eb.png"
+    ]
+};

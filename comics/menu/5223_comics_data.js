@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5223,
+    "title": "[甜族星人出资x一只麻利的鸽子汉化] [きのこのみ (kino)] 放課後 バニーガール",
+    "sourceUrl": "https://telegra.ph/甜族星人出资x一只麻利的鸽子汉化-きのこのみ-kino-放課後-バニーガール-08-31",
+    "images": [
+        "https://telegra.ph/file/ee522a9f4ba49733a953c.jpg",
+        "https://telegra.ph/file/927121d80de4a5f7aa1de.jpg",
+        "https://telegra.ph/file/1e0e4126b1e1a184bd06f.jpg",
+        "https://telegra.ph/file/9c23d14e2928c75262c44.jpg",
+        "https://telegra.ph/file/7d7e7c9edb810ca1fa183.jpg",
+        "https://telegra.ph/file/a604517bead4606d120a5.jpg",
+        "https://telegra.ph/file/ee529c768ae455be01949.jpg",
+        "https://telegra.ph/file/a1576d29f509393b2013a.jpg",
+        "https://telegra.ph/file/0a4d0c8119e0660631417.jpg",
+        "https://telegra.ph/file/1329fc8f12927891a35a2.jpg",
+        "https://telegra.ph/file/e59e395bda82d41ee849c.jpg",
+        "https://telegra.ph/file/62c92f022694650bee7ea.jpg",
+        "https://telegra.ph/file/e0f3f6aa31717a40f9e4a.jpg",
+        "https://telegra.ph/file/f7d8df2bc3ec51358753e.jpg",
+        "https://telegra.ph/file/adf2ef6042fcb5d279691.jpg",
+        "https://telegra.ph/file/0d059f34080ea6fc5083a.jpg",
+        "https://telegra.ph/file/5f46ed5c09175cc4c23a5.jpg",
+        "https://telegra.ph/file/f3e7321ed28525a0daf50.jpg",
+        "https://telegra.ph/file/10dcbcec5da3ea4a13e25.jpg",
+        "https://telegra.ph/file/f53bb175a5c41db76ef58.jpg",
+        "https://telegra.ph/file/0ec3b237a9dc750f395e7.jpg",
+        "https://telegra.ph/file/32f843e7bc5d3a6d58267.jpg",
+        "https://telegra.ph/file/cb4fda7ca26198a8559c9.jpg",
+        "https://telegra.ph/file/740fe402e79251f1d3eb3.jpg"
+    ]
+};

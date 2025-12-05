@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7388,
+    "title": "花は転じて咲き乱れ",
+    "sourceUrl": "https://telegra.ph/花は転じて咲き乱れ-08-31",
+    "images": [
+        "https://telegra.ph/file/be38c352c7d89df5fa8c4.jpg",
+        "https://telegra.ph/file/2b601e95f8b444509e63e.jpg",
+        "https://telegra.ph/file/d3d738ab8001b1906695b.jpg",
+        "https://telegra.ph/file/7d7fdbf7e3d289e286fad.jpg",
+        "https://telegra.ph/file/d076362761aa57ef52c82.jpg",
+        "https://telegra.ph/file/d229b012752864508e438.jpg",
+        "https://telegra.ph/file/7ff357ed91c93aa80799e.jpg",
+        "https://telegra.ph/file/79fe8c12a44339aee925a.jpg",
+        "https://telegra.ph/file/da8b9dc731aafe76debb2.jpg",
+        "https://telegra.ph/file/a8126ccc4b1e68000d1cb.jpg",
+        "https://telegra.ph/file/de1f1207653d6f04c5322.jpg",
+        "https://telegra.ph/file/73c9c4bbffe4c9f8779a4.jpg",
+        "https://telegra.ph/file/c12cb38f71c7cbc87f1a3.jpg",
+        "https://telegra.ph/file/0fe1335fec45d7423c892.jpg",
+        "https://telegra.ph/file/2be8d2f4750b80067dd96.jpg",
+        "https://telegra.ph/file/00666931b4e226768054d.jpg",
+        "https://telegra.ph/file/9236c29946952959faeb7.jpg",
+        "https://telegra.ph/file/2c6cd03cffcf3d3acec58.jpg",
+        "https://telegra.ph/file/b40143951dc90d7af3e64.jpg",
+        "https://telegra.ph/file/4e5a82deca9811ce7453e.jpg",
+        "https://telegra.ph/file/41f95f7da0710baf4314f.jpg",
+        "https://telegra.ph/file/cc1cdaeaaa1f8aee7e501.jpg",
+        "https://telegra.ph/file/5f96c150f8a7daf103553.jpg",
+        "https://telegra.ph/file/f19f4e269fa74fa3d8889.jpg"
+    ]
+};

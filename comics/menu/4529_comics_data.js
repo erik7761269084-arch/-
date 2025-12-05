@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4529,
+    "title": "[傷希レイ] One Coin (コミック・マショウ 2015年9月号)",
+    "sourceUrl": "https://telegra.ph/傷希レイ-One-Coin-コミックマショウ-2015年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/e412a546c47ecb6fb3adb.jpg",
+        "https://telegra.ph/file/0753443a0afed0b58ed5a.jpg",
+        "https://telegra.ph/file/9fbde1f4010361518af98.jpg",
+        "https://telegra.ph/file/68844aa010543c7c301e0.jpg",
+        "https://telegra.ph/file/d39253d3c9e53fa1c36e0.jpg",
+        "https://telegra.ph/file/80393ad74eb0b39e424ed.jpg",
+        "https://telegra.ph/file/5c9c950ab0ab99ff199d8.jpg",
+        "https://telegra.ph/file/7d51cf4764bf6531ec33e.jpg",
+        "https://telegra.ph/file/7b150ae3af66b4ab4f752.jpg",
+        "https://telegra.ph/file/81b27f38a21ee1195b5af.jpg",
+        "https://telegra.ph/file/ebf6f96a5cdc34cccc7d9.jpg",
+        "https://telegra.ph/file/d18c5387eed2171f5e0ea.jpg",
+        "https://telegra.ph/file/ee89da270e9f5e85f5aba.jpg",
+        "https://telegra.ph/file/28c01d1f760895e232176.jpg",
+        "https://telegra.ph/file/85f276f621a865ae3ca46.jpg",
+        "https://telegra.ph/file/809e68782c1392e3f5eb6.jpg",
+        "https://telegra.ph/file/a8ad60c9e0e7357cd8aa5.jpg",
+        "https://telegra.ph/file/ddd9cdfb41ffb18e56fd7.jpg",
+        "https://telegra.ph/file/98d26942420a9011c73ff.jpg",
+        "https://telegra.ph/file/2d60a5b1d269ebb1e152c.jpg",
+        "https://telegra.ph/file/067d07bc2532a66c21cbd.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/627f29df941d4398398e7.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

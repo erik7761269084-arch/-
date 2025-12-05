@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 768,
+    "title": "(C94) [やだぽっと (やだぽてと)] 海で猫を拾った。",
+    "sourceUrl": "https://telegra.ph/C94-やだぽっと-やだぽてと-海で猫を拾った-08-31",
+    "images": [
+        "https://telegra.ph/file/6c92908859ec1cf4c05c1.jpg",
+        "https://telegra.ph/file/562e4f54abb97d53fe588.jpg",
+        "https://telegra.ph/file/5af7cbc5304c8ce9e2b0d.jpg",
+        "https://telegra.ph/file/cf03a3cc019a231b74107.jpg",
+        "https://telegra.ph/file/6e249ba6cd24f81c1aff1.jpg",
+        "https://telegra.ph/file/873e2b288efeaa6cbc8a7.jpg",
+        "https://telegra.ph/file/ad8e0a44b2eff327fddd1.jpg",
+        "https://telegra.ph/file/fcb87bf05236c41e724c2.jpg",
+        "https://telegra.ph/file/05b8403b0a690945415e4.jpg",
+        "https://telegra.ph/file/2fc9c450df1adf3514c95.jpg",
+        "https://telegra.ph/file/8bb546e970bd9363eb5d7.jpg",
+        "https://telegra.ph/file/6e956c7f3ceb82f41e6f0.jpg",
+        "https://telegra.ph/file/9718ac0d18da34716f101.jpg",
+        "https://telegra.ph/file/090862485ac88a5278e27.jpg",
+        "https://telegra.ph/file/ea4898d865d1d63fe98f7.jpg",
+        "https://telegra.ph/file/f21c1f0b9a2f59f5fea45.jpg",
+        "https://telegra.ph/file/9430cbe4a6f439f88670f.jpg",
+        "https://telegra.ph/file/1465c0434a539abde5894.jpg",
+        "https://telegra.ph/file/5059e3fd43c441e9d61a8.jpg",
+        "https://telegra.ph/file/8f78e0eeef717436f75b2.jpg",
+        "https://telegra.ph/file/ef962fec2c42ec361e32f.jpg",
+        "https://telegra.ph/file/0cc5c9573ec789deb99e9.jpg",
+        "https://telegra.ph/file/7aa01de5546bb3a280e4d.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ]
+};

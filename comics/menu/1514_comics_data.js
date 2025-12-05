@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1514,
+    "title": "[黒礫] 宝盗団に捕まったフータオ",
+    "sourceUrl": "https://telegra.ph/黒礫-宝盗団に捕まったフータオ-08-31",
+    "images": [
+        "https://telegra.ph/file/4c6e3f8679605ed3ab68e.jpg",
+        "https://telegra.ph/file/8c599173c6210d2921a69.jpg",
+        "https://telegra.ph/file/4e22de03881f54b7d9dd6.jpg",
+        "https://telegra.ph/file/6f0de25c5943264613d61.jpg",
+        "https://telegra.ph/file/9ea0f9adbbe6ead7abe8c.jpg",
+        "https://telegra.ph/file/a17857c1bcde5eebdbf12.jpg",
+        "https://telegra.ph/file/b795c9e3485d73a6353cf.jpg",
+        "https://telegra.ph/file/872e0941d9c76d869db3f.jpg",
+        "https://telegra.ph/file/f9edde4adf64df2df9d2b.jpg",
+        "https://telegra.ph/file/a9734755755a7f8b7be88.jpg",
+        "https://telegra.ph/file/4bc1ebc38d1f572bdd3b6.jpg",
+        "https://telegra.ph/file/b94d86aa497f120b9bd81.jpg",
+        "https://telegra.ph/file/72f07eae55cedd91e8e80.jpg",
+        "https://telegra.ph/file/1d6bc82bd36ab1f227935.jpg",
+        "https://telegra.ph/file/4dbe2a175a2d0bc257981.jpg",
+        "https://telegra.ph/file/270640eea6252e59bf2ca.jpg",
+        "https://telegra.ph/file/48af3a185e8f783ad0bfc.jpg",
+        "https://telegra.ph/file/568b8f1041f8dd30fcf5b.jpg",
+        "https://telegra.ph/file/7b1ecafd4edd737c9728a.jpg",
+        "https://telegra.ph/file/cca670f85f37c362ec521.jpg",
+        "https://telegra.ph/file/e224ede9da46b1bbd0d97.jpg",
+        "https://telegra.ph/file/a8b8f7b6b1adf97b3d841.jpg",
+        "https://telegra.ph/file/0933b2dda2683baf762d5.jpg",
+        "https://telegra.ph/file/c76db8a79b877c7da827d.jpg",
+        "https://telegra.ph/file/2d0a678de3a74abaea3ce.jpg",
+        "https://telegra.ph/file/a7ca66aadd639fe2b9d56.jpg"
+    ]
+};

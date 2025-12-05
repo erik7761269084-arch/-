@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7570,
+    "title": "搾精お姉ちゃん",
+    "sourceUrl": "https://telegra.ph/搾精お姉ちゃん-08-31",
+    "images": [
+        "https://telegra.ph/file/e773a9b118d8670c1af43.png",
+        "https://telegra.ph/file/c9c5f329debff9427637d.png",
+        "https://telegra.ph/file/e5d12be898a7e80e29c42.png",
+        "https://telegra.ph/file/b993f0b8967c7c185e446.png",
+        "https://telegra.ph/file/7a28da7689b1e4b95f88d.png",
+        "https://telegra.ph/file/fb2b0c7ea98486f412f65.png",
+        "https://telegra.ph/file/4007727b299b305042d9c.png",
+        "https://telegra.ph/file/ab6e25c1de6ba8d1c157c.png",
+        "https://telegra.ph/file/0608134b5e002976cbebe.png",
+        "https://telegra.ph/file/9dbe816a7d18f8e023f15.png",
+        "https://telegra.ph/file/c02c53e9722d0058e2727.png",
+        "https://telegra.ph/file/6e1582f61b9c67f2223f3.png",
+        "https://telegra.ph/file/dad68f8620072f39ed2ea.png",
+        "https://telegra.ph/file/f53e1662108b1c9d0dfa6.png",
+        "https://telegra.ph/file/876ec17661b41fc96a274.png",
+        "https://telegra.ph/file/1d39f56933c271673980f.png",
+        "https://telegra.ph/file/9e248ae5ade720c512c6a.png",
+        "https://telegra.ph/file/5f22e68d72c30975298b9.png",
+        "https://telegra.ph/file/0279c9f7f18ba998cc8d5.png",
+        "https://telegra.ph/file/5346cebdc9e19aeede682.png",
+        "https://telegra.ph/file/a94b6b01256eefa7ed256.png",
+        "https://telegra.ph/file/1014a3c79690a8dca5017.png",
+        "https://telegra.ph/file/718f74dd3db940faff69b.png",
+        "https://telegra.ph/file/1da926fbe476c6af01add.png"
+    ]
+};

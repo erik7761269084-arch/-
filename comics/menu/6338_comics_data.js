@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6338,
+    "title": "大好き。",
+    "sourceUrl": "https://telegra.ph/大好き-08-31",
+    "images": [
+        "https://telegra.ph/file/b7e38e0baaaa66f8453aa.png",
+        "https://telegra.ph/file/2797dbe51a7f150094bd9.png",
+        "https://telegra.ph/file/3aba3785bd368bc8f9c12.png",
+        "https://telegra.ph/file/9eb841f0e65505306926e.png",
+        "https://telegra.ph/file/b92f398fb175bdee57301.png",
+        "https://telegra.ph/file/6a212338822af849568db.png",
+        "https://telegra.ph/file/3a4eb4228919477bf6574.png",
+        "https://telegra.ph/file/53b87c82e016720283521.png",
+        "https://telegra.ph/file/4d3de0b44e30c61387bb5.png",
+        "https://telegra.ph/file/3cd43e9180bc382a56f58.png",
+        "https://telegra.ph/file/d51df5b8a77289f2584d4.png",
+        "https://telegra.ph/file/c0108f4d9cb0f3b6fd23b.png",
+        "https://telegra.ph/file/a82d9087e16da21f84198.png",
+        "https://telegra.ph/file/90af83f3560ec7111cac9.png",
+        "https://telegra.ph/file/eb75262638ba5b9c7a2b8.png",
+        "https://telegra.ph/file/020d7cd8496c7417c3dd8.png",
+        "https://telegra.ph/file/30e767dfa015e636b26f7.png",
+        "https://telegra.ph/file/36bed9a75a802ecf2165a.png",
+        "https://telegra.ph/file/d4860a4fdf13895686bd7.png",
+        "https://telegra.ph/file/ad4202297187b7f0fc288.png",
+        "https://telegra.ph/file/7bb99e706d6b06e6f67d9.png",
+        "https://telegra.ph/file/4dc2da60cc491d597037d.png",
+        "https://telegra.ph/file/b9f9b43da2b0b84672fc9.png",
+        "https://telegra.ph/file/b53e3e7f498063be017cb.png"
+    ]
+};

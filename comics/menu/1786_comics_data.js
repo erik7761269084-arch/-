@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1786,
+    "title": "(C99) [聖性屋 (聖シロー)] 浜辺の童貞狩り聖女 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-聖性屋-聖シロー-浜辺の童貞狩り聖女-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/3384762dd22a18908e8ad.jpg",
+        "https://telegra.ph/file/813fb6ed6d289c63b7153.jpg",
+        "https://telegra.ph/file/9007cb2ce1469b36734cf.jpg",
+        "https://telegra.ph/file/9f8cddd8f7d9576643ce0.jpg",
+        "https://telegra.ph/file/7a13248baf2e186f85b1e.jpg",
+        "https://telegra.ph/file/3cec619f6d01584dd8906.jpg",
+        "https://telegra.ph/file/041f3e5fc6e2bff95df15.jpg",
+        "https://telegra.ph/file/23bd096020aa8fd4d3ccf.jpg",
+        "https://telegra.ph/file/dcbbf3c98bdc2afd77e96.jpg",
+        "https://telegra.ph/file/697b98aa6dc61ffb3fc0b.jpg",
+        "https://telegra.ph/file/127864034dd12375353fc.jpg",
+        "https://telegra.ph/file/c041c4f1f2787053fae05.jpg",
+        "https://telegra.ph/file/66103cb0f4b9cf5e4bff9.jpg",
+        "https://telegra.ph/file/868f5c943ad594a9bd0bd.jpg",
+        "https://telegra.ph/file/20829dcdbc8d3db128dde.jpg",
+        "https://telegra.ph/file/02a52bf1e56df146fd696.jpg",
+        "https://telegra.ph/file/b75a2cb2da66ba97d46e6.jpg",
+        "https://telegra.ph/file/664a069a429665ec04864.jpg",
+        "https://telegra.ph/file/06ab8d2d93beda4dbb1c6.jpg",
+        "https://telegra.ph/file/7804eeba68320c4551d77.jpg",
+        "https://telegra.ph/file/a2050fff79d2d03222aee.jpg",
+        "https://telegra.ph/file/fec44d8855f862a7a03c1.jpg",
+        "https://telegra.ph/file/284847a8585d840910de3.jpg",
+        "https://telegra.ph/file/6e7e44f886aa776373630.jpg",
+        "https://telegra.ph/file/352c194a486866b8b6660.jpg",
+        "https://telegra.ph/file/388b630f96d018830a786.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7655,
+    "title": "春の卒業式",
+    "sourceUrl": "https://telegra.ph/春の卒業式-08-31",
+    "images": [
+        "https://telegra.ph/file/3f1a01aaffc750c462efc.png",
+        "https://telegra.ph/file/f09700683e8d16363ce2a.png",
+        "https://telegra.ph/file/717f3848c194415099453.png",
+        "https://telegra.ph/file/4419c6ac82a518161eada.png",
+        "https://telegra.ph/file/1751e96ac36d55d53c09f.png",
+        "https://telegra.ph/file/98ffb6befb267f0ff0710.png",
+        "https://telegra.ph/file/d5f049892aa88b943ea42.png",
+        "https://telegra.ph/file/68a1ddfa68282b62697a6.png",
+        "https://telegra.ph/file/14a48c18bdc498d2f243f.png",
+        "https://telegra.ph/file/521e7e7c73fd5b0581c97.png",
+        "https://telegra.ph/file/8be5fd09155d673749fd6.png",
+        "https://telegra.ph/file/2eb43f64e6a20302a47b2.png",
+        "https://telegra.ph/file/b22fc2a7c930899cf0b89.png",
+        "https://telegra.ph/file/9f39aa849affbbe218b94.png",
+        "https://telegra.ph/file/b3b85542ee950812a76ce.png",
+        "https://telegra.ph/file/e4f835fd5efc62a96f655.png",
+        "https://telegra.ph/file/fc465e40b9d9fb2a5b553.png",
+        "https://telegra.ph/file/69f059545b1303fe57b4f.png",
+        "https://telegra.ph/file/7bab809f90f1c52d93213.png",
+        "https://telegra.ph/file/24b4b50d41ceed30bb20b.png",
+        "https://telegra.ph/file/192806884684b89b235ae.png",
+        "https://telegra.ph/file/5f9d34e26ea16834d731e.png",
+        "https://telegra.ph/file/8a039d177541d22e51e04.png",
+        "https://telegra.ph/file/cf892a0f8065ed82551d4.png"
+    ]
+};

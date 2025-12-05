@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5570,
+    "title": "[kiasa] 陰日向のひなた",
+    "sourceUrl": "https://telegra.ph/kiasa-陰日向のひなた-08-31",
+    "images": [
+        "https://telegra.ph/file/c02475e887e731f30ace0.jpg",
+        "https://telegra.ph/file/c5f33f9e1a9ecf18eb9ef.jpg",
+        "https://telegra.ph/file/7d756cefcdb850a0ada26.jpg",
+        "https://telegra.ph/file/7ca5373d9c4b48e9b15f4.jpg",
+        "https://telegra.ph/file/7e786641f5e9a63d7f3de.jpg",
+        "https://telegra.ph/file/54f997e7cb1a9b03546de.jpg",
+        "https://telegra.ph/file/0c740d131986c2b64b125.jpg",
+        "https://telegra.ph/file/c1b8400756727f4e1156a.jpg",
+        "https://telegra.ph/file/1093e3872a7dd71b318ed.jpg",
+        "https://telegra.ph/file/1cb9d4bb5fd0f98828687.jpg",
+        "https://telegra.ph/file/ecf7e6895a68f630c7670.jpg",
+        "https://telegra.ph/file/752240efe0fd0c101dd25.jpg",
+        "https://telegra.ph/file/7108dab908614ee635a5a.jpg",
+        "https://telegra.ph/file/7fd21c7a4250c0e2e4686.jpg",
+        "https://telegra.ph/file/a8ca380661938ebb3698d.jpg",
+        "https://telegra.ph/file/37f6108e3cd9e39b4be7d.jpg",
+        "https://telegra.ph/file/9aafc76a4cacb41881446.jpg",
+        "https://telegra.ph/file/6538e644d6bce3f4df189.jpg",
+        "https://telegra.ph/file/ccc1f87bf645735a4855f.jpg",
+        "https://telegra.ph/file/48600caea1b593757fb6d.jpg",
+        "https://telegra.ph/file/f46905268302f1ee3d38f.jpg",
+        "https://telegra.ph/file/d2ebd99d696befee63bd5.jpg",
+        "https://telegra.ph/file/300704bcbbe43cc1cb957.jpg",
+        "https://telegra.ph/file/ace5d512c0fb4b3b3c529.jpg"
+    ]
+};

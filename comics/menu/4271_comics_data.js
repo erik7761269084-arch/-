@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4271,
+    "title": "[まきお] 永遠の肖像 (COMIC LO 2013年9月号)",
+    "sourceUrl": "https://telegra.ph/まきお-永遠の肖像-COMIC-LO-2013年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/80892279cfd9f620e9864.jpg",
+        "https://telegra.ph/file/61baf4ce96feaa31774a9.jpg",
+        "https://telegra.ph/file/332474499ca797a66200d.jpg",
+        "https://telegra.ph/file/c86a5138a69013eb21abe.jpg",
+        "https://telegra.ph/file/7c940a6674e96f0f10f1c.jpg",
+        "https://telegra.ph/file/e9f9ed99ffb140289511e.jpg",
+        "https://telegra.ph/file/58e43051b348ceefa141c.jpg",
+        "https://telegra.ph/file/f6b81ea2f54af6ded5331.jpg",
+        "https://telegra.ph/file/ddc13f48f629916bb5a2d.jpg",
+        "https://telegra.ph/file/843076e4bd9cbad745768.jpg",
+        "https://telegra.ph/file/d49b399500573c1dab50f.jpg",
+        "https://telegra.ph/file/dd0d90c057c975c707506.jpg",
+        "https://telegra.ph/file/c9cb8fa3aa42fd59dcfe1.jpg",
+        "https://telegra.ph/file/0a2cc8deb176380a67a25.jpg",
+        "https://telegra.ph/file/8af928b6e6aa191f46cd3.jpg",
+        "https://telegra.ph/file/099884786e95a2d79dc51.jpg",
+        "https://telegra.ph/file/ab9d1cbd3c61a7e1a67da.jpg",
+        "https://telegra.ph/file/e0393dac1b6be33b617c7.jpg",
+        "https://telegra.ph/file/a35a89c7a1fefbf875f6d.jpg",
+        "https://telegra.ph/file/6886094a2a8db1ebe46cb.jpg",
+        "https://telegra.ph/file/e401baf69d893f0a2820f.jpg",
+        "https://telegra.ph/file/1a077203e2c959ab9d13d.jpg",
+        "https://telegra.ph/file/2ebd71a5143c359995adf.jpg",
+        "https://telegra.ph/file/4dd63f5c77b998bca07d2.jpg",
+        "https://telegra.ph/file/331d3258b589a4ec4b9bc.jpg",
+        "https://telegra.ph/file/b18eec94d6773cb1e759f.jpg"
+    ]
+};

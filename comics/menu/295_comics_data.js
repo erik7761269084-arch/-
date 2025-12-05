@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 295,
+    "title": "(C96) [あらと屋 (あらと安里)] まぐわい上手のシリアスさん (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C96-あらと屋-あらと安里-まぐわい上手のシリアスさん-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/ca279d9ea8a34826c272b.jpg",
+        "https://telegra.ph/file/110768a516d1d4b457e69.jpg",
+        "https://telegra.ph/file/1c459ff206a934a6fcefe.jpg",
+        "https://telegra.ph/file/9a1c667ae5ebf2936adb6.jpg",
+        "https://telegra.ph/file/ee1f250050e00bbc60499.jpg",
+        "https://telegra.ph/file/16e3aa660e59182a9415f.jpg",
+        "https://telegra.ph/file/06906ee616a5b3e21a1e9.jpg",
+        "https://telegra.ph/file/a564687695ce7c22d1b06.jpg",
+        "https://telegra.ph/file/d5e0fae7c6d0a675c3d9d.jpg",
+        "https://telegra.ph/file/cebf3803c7a581648b293.jpg",
+        "https://telegra.ph/file/e312cdcf7c14bd02f6bd7.jpg",
+        "https://telegra.ph/file/b5c7fd3dec9772fa55736.jpg",
+        "https://telegra.ph/file/0ee4d23bad998e8f2f362.jpg",
+        "https://telegra.ph/file/a5735ef39c7b971ee7899.jpg",
+        "https://telegra.ph/file/999c8c936e6c1dd027f85.jpg",
+        "https://telegra.ph/file/2f63857087563ad5dbc20.jpg",
+        "https://telegra.ph/file/ffbc882f35090cee46220.jpg",
+        "https://telegra.ph/file/6d00440fe0b6ed6f9ffa9.jpg",
+        "https://telegra.ph/file/4e1a642024988abcfd6c3.jpg",
+        "https://telegra.ph/file/83d9116168b36b661fd82.jpg",
+        "https://telegra.ph/file/19d512005975287bfea78.jpg",
+        "https://telegra.ph/file/02f78ab3cf722bb3efc18.jpg",
+        "https://telegra.ph/file/6de3bf4dbda02fd37ecd1.jpg"
+    ]
+};

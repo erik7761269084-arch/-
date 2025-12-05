@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7958,
+    "title": "XX ROM",
+    "sourceUrl": "https://telegra.ph/XX-ROM-08-31",
+    "images": [
+        "https://telegra.ph/file/6f672f526cb51140a3b90.png",
+        "https://telegra.ph/file/5a55bf68f84be71743c12.png",
+        "https://telegra.ph/file/d0b406a2f9a821b65c796.png",
+        "https://telegra.ph/file/6a5c4f04c55dc390741fd.png",
+        "https://telegra.ph/file/568bbed8c357b6cbe6272.jpg",
+        "https://telegra.ph/file/0cb32e0ece3793acc9d7b.jpg",
+        "https://telegra.ph/file/10b7cc4dda2847b4908ec.jpg",
+        "https://telegra.ph/file/69c322bb791626a33591a.jpg",
+        "https://telegra.ph/file/10291358931796e970293.jpg",
+        "https://telegra.ph/file/04c9b5d858655b1ae7d2d.jpg",
+        "https://telegra.ph/file/c47696008e7e191e08146.jpg",
+        "https://telegra.ph/file/3d1014a869c57c1471311.jpg",
+        "https://telegra.ph/file/03cf6f3a760c80d3a5956.jpg",
+        "https://telegra.ph/file/dce19b4e606c6ace005ac.jpg",
+        "https://telegra.ph/file/c1649fc441aa3baa197ab.jpg",
+        "https://telegra.ph/file/1cfa46c653b66ee9282de.jpg",
+        "https://telegra.ph/file/096f0ce0a475d92e7de73.jpg",
+        "https://telegra.ph/file/794884b20b42136402a05.jpg",
+        "https://telegra.ph/file/d0d39cbeb69fe4de54665.jpg",
+        "https://telegra.ph/file/10999ce95b34e20fe1c16.jpg",
+        "https://telegra.ph/file/8a53ff6b7c9c7a9ea0309.jpg",
+        "https://telegra.ph/file/8c91a95c0b2d96f2969c7.jpg",
+        "https://telegra.ph/file/078662b730ddbbf9b32b5.jpg",
+        "https://telegra.ph/file/cd2760ea9cb7184b77f12.jpg"
+    ]
+};

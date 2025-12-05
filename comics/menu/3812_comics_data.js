@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3812,
+    "title": "(C99) [すてらどろっぷ (皐月ゆきみ)] ユニコーンちゃんと秘密のお勉強会 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C99-すてらどろっぷ-皐月ゆきみ-ユニコーンちゃんと秘密のお勉強会-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/b604fafc5db870617d12b.jpg",
+        "https://telegra.ph/file/639764f8b732cedff72f8.jpg",
+        "https://telegra.ph/file/5a0213b15b3868cb5c8f5.jpg",
+        "https://telegra.ph/file/e2a858cc78b37a9e3bb26.jpg",
+        "https://telegra.ph/file/c7ba5b52d14c65ccdd084.jpg",
+        "https://telegra.ph/file/8f881078d9c7a04b293c9.jpg",
+        "https://telegra.ph/file/ba2d7d98e110adc6782de.jpg",
+        "https://telegra.ph/file/77072fa0d40c7eb1582ff.jpg",
+        "https://telegra.ph/file/accb7fd23e4971366217d.jpg",
+        "https://telegra.ph/file/a41d8c96f53eee923aa81.jpg",
+        "https://telegra.ph/file/1dc775c211edf76683000.jpg",
+        "https://telegra.ph/file/f7cb2770032cd1f5a6618.jpg",
+        "https://telegra.ph/file/a2e6b5e20f4926d4cb8bf.jpg",
+        "https://telegra.ph/file/de6b70fd6adf549e0e759.jpg",
+        "https://telegra.ph/file/0c1f9ff85b3f99116759b.jpg",
+        "https://telegra.ph/file/7560def3ec984fe6a8384.jpg",
+        "https://telegra.ph/file/7afdcdd40b9ff31b31390.jpg",
+        "https://telegra.ph/file/b9e42501a1ef6c38a2be8.jpg",
+        "https://telegra.ph/file/b545799202592269c16e1.jpg",
+        "https://telegra.ph/file/6191ce772e84667c3d924.jpg",
+        "https://telegra.ph/file/71c0a4242e557055ea8c7.jpg",
+        "https://telegra.ph/file/3b9d45f75cd4161794b7c.jpg",
+        "https://telegra.ph/file/c47996de4a4429b63c35a.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ]
+};

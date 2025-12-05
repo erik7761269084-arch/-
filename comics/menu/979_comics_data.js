@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 979,
+    "title": "[御姉狂 (ML)] 悪いギャルに捕まった",
+    "sourceUrl": "https://telegra.ph/御姉狂-ML-悪いギャルに捕まった-08-31",
+    "images": [
+        "https://telegra.ph/file/ae8ede33d02bbbf19cb7a.jpg",
+        "https://telegra.ph/file/faace05180e1314cc4066.jpg",
+        "https://telegra.ph/file/0b459c5f7adbcb7a8020a.jpg",
+        "https://telegra.ph/file/bab2e585871d58bf61cdf.jpg",
+        "https://telegra.ph/file/f5aecf5a6f359b3cae047.jpg",
+        "https://telegra.ph/file/15f9f9c590e5ceeae3ae8.jpg",
+        "https://telegra.ph/file/fb18cd95f1e00799fe05b.jpg",
+        "https://telegra.ph/file/8f6e74d120d874904671c.jpg",
+        "https://telegra.ph/file/69dd427798c63a7677333.jpg",
+        "https://telegra.ph/file/fed5be76fdc66f0a82818.jpg",
+        "https://telegra.ph/file/016f7555edd7b63c0c933.jpg",
+        "https://telegra.ph/file/cd625feb9426acd52f5cb.jpg",
+        "https://telegra.ph/file/838250a67f638465b2210.jpg",
+        "https://telegra.ph/file/7a982f9438d35c0d6859f.jpg",
+        "https://telegra.ph/file/394faf0e8aad5ae381dc0.jpg",
+        "https://telegra.ph/file/87c27c2823474b58721d0.jpg",
+        "https://telegra.ph/file/31db602ff67d58cfae7aa.jpg",
+        "https://telegra.ph/file/d2f38cd0f571fba815325.jpg",
+        "https://telegra.ph/file/76283faae1f611297d988.jpg",
+        "https://telegra.ph/file/bd59dd8a443baff7bc614.jpg",
+        "https://telegra.ph/file/33e6cef9645c6e0c2962b.jpg",
+        "https://telegra.ph/file/952c07b61de0f5276c6d5.jpg",
+        "https://telegra.ph/file/0b56554c26e3edfe47b81.jpg",
+        "https://telegra.ph/file/ccc0e25624b9d793c1414.jpg",
+        "https://telegra.ph/file/dc6c8a3744bd126f60119.jpg",
+        "https://telegra.ph/file/2affe545fb044c0d2bdb8.jpg"
+    ]
+};

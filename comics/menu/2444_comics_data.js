@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2444,
+    "title": "[Contamination (eigetu)] 弟の彼女",
+    "sourceUrl": "https://telegra.ph/Contamination-eigetu-弟の彼女-08-31",
+    "images": [
+        "https://telegra.ph/file/a1e47a0d025469961a4d0.jpg",
+        "https://telegra.ph/file/6401cee3fd51f889e358c.jpg",
+        "https://telegra.ph/file/092e1c561953573ee4c0d.jpg",
+        "https://telegra.ph/file/f4774286dd2c992ce114b.jpg",
+        "https://telegra.ph/file/487d444687a5df8bd64a8.jpg",
+        "https://telegra.ph/file/01d1503b3ade604dda978.jpg",
+        "https://telegra.ph/file/fb02dd3bb67480e4a5250.jpg",
+        "https://telegra.ph/file/b79ac03b0e38636acd312.jpg",
+        "https://telegra.ph/file/c43d89f8cc0cb1f777685.jpg",
+        "https://telegra.ph/file/922e4a62d7e09c46e86a1.jpg",
+        "https://telegra.ph/file/0900aea191acb57ce68ae.jpg",
+        "https://telegra.ph/file/61e8a503bf24c6887e2f9.jpg",
+        "https://telegra.ph/file/6e649ed3acbb71636f566.jpg",
+        "https://telegra.ph/file/b08808de2a0b9edf2383c.jpg",
+        "https://telegra.ph/file/e4bf27de8c7485db926dd.jpg",
+        "https://telegra.ph/file/27110986bc41b92d1185d.jpg",
+        "https://telegra.ph/file/18b6b81781b1a0c424ab3.jpg",
+        "https://telegra.ph/file/31a072eae93ffc709726e.jpg",
+        "https://telegra.ph/file/bade8bf03c0e5de5e7b15.jpg",
+        "https://telegra.ph/file/a51d5876259ba3bd0a6ab.jpg",
+        "https://telegra.ph/file/49b849ece0a2f9057afe5.jpg",
+        "https://telegra.ph/file/14e085ab430fd7887f923.jpg",
+        "https://telegra.ph/file/cd422473d255b7ced69d1.jpg",
+        "https://telegra.ph/file/b51654fa734d173442867.jpg"
+    ]
+};

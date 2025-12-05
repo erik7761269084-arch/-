@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3847,
+    "title": "[アジサイデンデン (川上六角、小鳥遊レイ)] わっちとしっぽり毛づくろい本 (狼と香辛料)   [加筆修正版]",
+    "sourceUrl": "https://telegra.ph/アジサイデンデン-川上六角小鳥遊レイ-わっちとしっぽり毛づくろい本-狼と香辛料-加筆修正版-08-31",
+    "images": [
+        "https://telegra.ph/file/2562fa4dccb1aa1c20229.jpg",
+        "https://telegra.ph/file/db3b5323231eacc128913.jpg",
+        "https://telegra.ph/file/e15e74dfeda7f390d9634.jpg",
+        "https://telegra.ph/file/ec2313fce96823aacc372.jpg",
+        "https://telegra.ph/file/6e38988ec9191a7938de1.jpg",
+        "https://telegra.ph/file/3bb5c042cefc1b4c92aa4.jpg",
+        "https://telegra.ph/file/f368fe0ed9289343146a9.jpg",
+        "https://telegra.ph/file/161a0ba358c2e0bc94c5c.jpg",
+        "https://telegra.ph/file/a720aa728652aa3154e13.jpg",
+        "https://telegra.ph/file/538365bc37d05c0b79a28.jpg",
+        "https://telegra.ph/file/c5ce6eae229b0486fe89e.jpg",
+        "https://telegra.ph/file/bb626e87e335225f2a961.jpg",
+        "https://telegra.ph/file/06502a6ee4c8e765f2369.jpg",
+        "https://telegra.ph/file/736272aa55c7a0f39d4d3.jpg",
+        "https://telegra.ph/file/e5bc66bb6462ac04b4c98.jpg",
+        "https://telegra.ph/file/7ceaf3d74fd6717474906.jpg",
+        "https://telegra.ph/file/c56f71e181ac428930f4c.jpg",
+        "https://telegra.ph/file/d7fffa342073b3e83e657.jpg",
+        "https://telegra.ph/file/7d4a58f9e263e0440e39b.jpg",
+        "https://telegra.ph/file/cc46b3f0b5c36a5b2b1aa.jpg",
+        "https://telegra.ph/file/fbe197b3d3c98ebd4336f.jpg",
+        "https://telegra.ph/file/cd1d132a9e4a6c36594e0.jpg",
+        "https://telegra.ph/file/0132b743c6f1c73f1fc9a.jpg",
+        "https://telegra.ph/file/50e7bf1c22d7c7682aa98.jpg",
+        "https://telegra.ph/file/9398362a3d744082117f9.jpg"
+    ]
+};

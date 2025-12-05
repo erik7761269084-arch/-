@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6389,
+    "title": "飛行甲板は超デリケート (艦隊これくしょん-艦これ-)",
+    "sourceUrl": "https://telegra.ph/飛行甲板は超デリケート-艦隊これくしょん-艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/238c0d941d105d8a694ae.jpg",
+        "https://telegra.ph/file/393f49e78146ebff2a2bb.jpg",
+        "https://telegra.ph/file/95f8a34c998a9772368c3.jpg",
+        "https://telegra.ph/file/ab094243e20327bdb5d2b.jpg",
+        "https://telegra.ph/file/7c708b56c7a525ebdb15e.jpg",
+        "https://telegra.ph/file/b8b91c8c2876a74fb88cf.jpg",
+        "https://telegra.ph/file/e5ec338612ca61e282947.jpg",
+        "https://telegra.ph/file/395f31838fd72c2c4590d.jpg",
+        "https://telegra.ph/file/764bc53c8c59c57bae48d.jpg",
+        "https://telegra.ph/file/6f11dbd35b86b7081b96e.jpg",
+        "https://telegra.ph/file/c2650f09f716196cc2630.jpg",
+        "https://telegra.ph/file/d5989f861a90f94b362d7.jpg",
+        "https://telegra.ph/file/90677cf3815df35f6a933.jpg",
+        "https://telegra.ph/file/1435f369436eba5c324ad.jpg",
+        "https://telegra.ph/file/34102f58320301187cd2e.jpg",
+        "https://telegra.ph/file/ba2376e8c4ad457a95163.jpg",
+        "https://telegra.ph/file/db67018715489f739c2f1.jpg",
+        "https://telegra.ph/file/92d269d6c539399368352.jpg",
+        "https://telegra.ph/file/df10edb40371392f14f6a.jpg",
+        "https://telegra.ph/file/734c9fb1c61d3db7ed860.jpg",
+        "https://telegra.ph/file/b7034eadf030ab97b54d2.jpg",
+        "https://telegra.ph/file/077cba866ada76d7df687.jpg",
+        "https://telegra.ph/file/6a6769224b0546c7c2f27.jpg"
+    ]
+};

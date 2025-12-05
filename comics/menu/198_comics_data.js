@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 198,
+    "title": "[駄菓子] いつもの係長 後編 (いつもの…)",
+    "sourceUrl": "https://telegra.ph/駄菓子-いつもの係長-後編-いつもの-08-31",
+    "images": [
+        "https://telegra.ph/file/cac1e59d34a83e08008a0.jpg",
+        "https://telegra.ph/file/4289a9ae62a273a68bfa8.jpg",
+        "https://telegra.ph/file/0e94a67352e1cbe0bc6bb.jpg",
+        "https://telegra.ph/file/e823b2b20763f1fb510bb.jpg",
+        "https://telegra.ph/file/38d3cf0f000d3743c78d2.jpg",
+        "https://telegra.ph/file/994c87bc108b4d15708ba.jpg",
+        "https://telegra.ph/file/b4e31fe6042ec390dcf9a.jpg",
+        "https://telegra.ph/file/738a46af7ed11a8fed705.jpg",
+        "https://telegra.ph/file/6a51e4ce0f1585b3e9be1.jpg",
+        "https://telegra.ph/file/375d68a570a1bfd5f1a1c.jpg",
+        "https://telegra.ph/file/22d3de9b9ed7008218cc7.jpg",
+        "https://telegra.ph/file/283ff1fc1b6044e97eba7.jpg",
+        "https://telegra.ph/file/9d952cd42d23e66c3fa37.jpg",
+        "https://telegra.ph/file/1e68bad85aacd703d2b9f.jpg",
+        "https://telegra.ph/file/4e72ad634e25cb7404b1d.jpg",
+        "https://telegra.ph/file/fed5702f9b77e5a1222c0.jpg",
+        "https://telegra.ph/file/9899fbe15634b27dcb22b.jpg",
+        "https://telegra.ph/file/107c01be8ca4a1446a100.jpg",
+        "https://telegra.ph/file/d1e9a39754e2060bbfc45.jpg",
+        "https://telegra.ph/file/bf4c0be8ced8d7025f3af.jpg",
+        "https://telegra.ph/file/109c79207d8a57120c028.jpg",
+        "https://telegra.ph/file/12e447328b376bbe8303c.jpg",
+        "https://telegra.ph/file/b56e7fc69518f011fd0dc.jpg",
+        "https://telegra.ph/file/08e4ba416f816f2fed777.jpg",
+        "https://telegra.ph/file/56192a293c36f0454ed3b.jpg",
+        "https://telegra.ph/file/0ab7897c8c05f022d455e.jpg"
+    ]
+};

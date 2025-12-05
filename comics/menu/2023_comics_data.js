@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2023,
+    "title": "(to infinity) [空想休暇 (未琴圭)] 特濃!暴風魔素 (転生したらスライムだった件)",
+    "sourceUrl": "https://telegra.ph/to-infinity-空想休暇-未琴圭-特濃暴風魔素-転生したらスライムだった件-08-31",
+    "images": [
+        "https://telegra.ph/file/58d309d4ba50a690815c1.jpg",
+        "https://telegra.ph/file/ab0b115c360e3ae43d29a.jpg",
+        "https://telegra.ph/file/f430b2472ac6ebf117c7e.jpg",
+        "https://telegra.ph/file/db2acbff50f7edf6e7b64.jpg",
+        "https://telegra.ph/file/3dd6c61df7cdba610cc95.jpg",
+        "https://telegra.ph/file/c4d96d9875b05674ee0ff.jpg",
+        "https://telegra.ph/file/7ee0eb8f05003a4050138.jpg",
+        "https://telegra.ph/file/2d9b5378c5825a2929c4a.jpg",
+        "https://telegra.ph/file/f80b81fada4803eb2f778.jpg",
+        "https://telegra.ph/file/55533c287a5c91efc464a.jpg",
+        "https://telegra.ph/file/1eb22207a2f83bdd47b7f.jpg",
+        "https://telegra.ph/file/a6a692516efc5a4219318.jpg",
+        "https://telegra.ph/file/d28097554db70ca7ac8ef.jpg",
+        "https://telegra.ph/file/39f8ce027aab7278867d6.jpg",
+        "https://telegra.ph/file/c69e8035e22321b106666.jpg",
+        "https://telegra.ph/file/f33b7991fa03344a240df.jpg",
+        "https://telegra.ph/file/cbb9e5aad1086d5727aa2.jpg",
+        "https://telegra.ph/file/5c0d97743ed2742f83c41.jpg",
+        "https://telegra.ph/file/0e4c03ca433d81924c717.jpg",
+        "https://telegra.ph/file/9cd3cd41098cd818cf0eb.jpg",
+        "https://telegra.ph/file/a62667e02f8a2dce1926c.jpg",
+        "https://telegra.ph/file/70d5ea57e37fe1ec3e6cb.jpg",
+        "https://telegra.ph/file/fceb8a9efcef54ff0bf6f.jpg",
+        "https://telegra.ph/file/b11bf94bb492ed08885f0.jpg"
+    ]
+};

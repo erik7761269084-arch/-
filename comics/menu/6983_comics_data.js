@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6983,
+    "title": "ホクトノゲンコ",
+    "sourceUrl": "https://telegra.ph/ホクトノゲンコ-08-31",
+    "images": [
+        "https://telegra.ph/file/97f19dce9614721b52fb6.jpg",
+        "https://telegra.ph/file/71d7615cee4844dad882a.jpg",
+        "https://telegra.ph/file/1293997c35ecbd0be9662.jpg",
+        "https://telegra.ph/file/8584b0fa0e4ff6800d222.jpg",
+        "https://telegra.ph/file/cf8433138922d3c53bad2.jpg",
+        "https://telegra.ph/file/586a8514e68352cd6f33c.jpg",
+        "https://telegra.ph/file/30ce5c0756fd6b2d0b873.jpg",
+        "https://telegra.ph/file/b47d12a2a28907dc2abd0.jpg",
+        "https://telegra.ph/file/5229f91c260c113526e85.jpg",
+        "https://telegra.ph/file/c58630b3662fcb8e96bbb.jpg",
+        "https://telegra.ph/file/ffd733c7dfefd5a3c096b.jpg",
+        "https://telegra.ph/file/a362de5387fb058c4fb52.jpg",
+        "https://telegra.ph/file/9a5766161797168a3a03b.jpg",
+        "https://telegra.ph/file/d25eed95e587c68c88327.jpg",
+        "https://telegra.ph/file/27f67e3c7dffcb45c1c34.jpg",
+        "https://telegra.ph/file/1c5946d7d48d383cb404f.jpg",
+        "https://telegra.ph/file/2e5b7f91819e63c2b56f3.jpg",
+        "https://telegra.ph/file/e883e6ea823d47d7e17a3.jpg",
+        "https://telegra.ph/file/d05d1d6cb70bbb82bb291.jpg",
+        "https://telegra.ph/file/997501203dd0e935542e0.jpg",
+        "https://telegra.ph/file/a70fc57bbf199e2950b27.jpg",
+        "https://telegra.ph/file/9260a8e74eac3327fc2a5.jpg",
+        "https://telegra.ph/file/cec9408ce2c25261025d6.jpg",
+        "https://telegra.ph/file/adfd1cf18b9dda3321800.jpg",
+        "https://telegra.ph/file/b519dda08070da431e859.jpg"
+    ]
+};

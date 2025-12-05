@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5802,
+    "title": "[師走の翁] B(asebal)L",
+    "sourceUrl": "https://telegra.ph/師走の翁-BasebalL-08-31",
+    "images": [
+        "https://telegra.ph/file/13f6df3cfe4c49decfffa.png",
+        "https://telegra.ph/file/cc44688ded7a7a1da448c.png",
+        "https://telegra.ph/file/95c718b9fe736fc13a422.png",
+        "https://telegra.ph/file/d0f7025609793bcc2adda.png",
+        "https://telegra.ph/file/b4eca1dc6f0c46a23b29d.png",
+        "https://telegra.ph/file/7b6dd77305e73cb6d0e5b.png",
+        "https://telegra.ph/file/a5c53d9c11c78c515a239.png",
+        "https://telegra.ph/file/93b5d14f908264d78a46d.png",
+        "https://telegra.ph/file/b53c9784b0e94ed9f482f.png",
+        "https://telegra.ph/file/ad10b9a94e1e2abeeab6a.png",
+        "https://telegra.ph/file/e3c88856f721286a972a9.png",
+        "https://telegra.ph/file/27e68bcf46b67898c6402.png",
+        "https://telegra.ph/file/6f96b4cb4ee16f47efb6e.png",
+        "https://telegra.ph/file/c2300e39e07afb30c3c07.png",
+        "https://telegra.ph/file/7b65e3545a2bea79b4b33.png",
+        "https://telegra.ph/file/ad7c9ed40e7a5463fdb51.png",
+        "https://telegra.ph/file/b6d6428d36b1d1bf008c9.png",
+        "https://telegra.ph/file/439d878828fca6b42eb9f.png",
+        "https://telegra.ph/file/fe493736c7010a423d491.png",
+        "https://telegra.ph/file/cd0ac28a505cb98dce789.png",
+        "https://telegra.ph/file/b7a152b0dfbe954b27595.png",
+        "https://telegra.ph/file/59339fb6bf075678cc5aa.png",
+        "https://telegra.ph/file/724b6be3d8155eaa2bc59.png",
+        "https://telegra.ph/file/0788bf2be2bcf26e4220f.png",
+        "https://telegra.ph/file/3413859b3d009c0e39e4e.png",
+        "https://telegra.ph/file/e9a2b3752c78e30effde3.png"
+    ]
+};

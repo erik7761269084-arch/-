@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1194,
+    "title": "[ななもと] 白ギャルを追いかけて (コミックゼロス #93)",
+    "sourceUrl": "https://telegra.ph/ななもと-白ギャルを追いかけて-コミックゼロス-93-08-31",
+    "images": [
+        "https://telegra.ph/file/c3e2049cb49dd7cec51c8.jpg",
+        "https://telegra.ph/file/4e2f37f581c091e48ac79.jpg",
+        "https://telegra.ph/file/872f6d270eb7803cbb909.jpg",
+        "https://telegra.ph/file/dd13bf8ac62997102e7b7.jpg",
+        "https://telegra.ph/file/aa928ebed8047874e6078.jpg",
+        "https://telegra.ph/file/8429fa133ed148338ab42.jpg",
+        "https://telegra.ph/file/f65b94294281d6ee6ec3e.jpg",
+        "https://telegra.ph/file/124430644e086c16a53f2.jpg",
+        "https://telegra.ph/file/6ebbdeccc3d0f805f3131.jpg",
+        "https://telegra.ph/file/2cdd50ff07a03ee28aa48.jpg",
+        "https://telegra.ph/file/1c6290067128f688d0b6c.jpg",
+        "https://telegra.ph/file/f72b68adb18ea67de975a.jpg",
+        "https://telegra.ph/file/39b1c86c515ecc2b38d42.jpg",
+        "https://telegra.ph/file/c99dc87d3fdf7bc877b85.jpg",
+        "https://telegra.ph/file/2665e29375dad00fe806e.jpg",
+        "https://telegra.ph/file/0413dd111c11d5841c509.jpg",
+        "https://telegra.ph/file/c4db557f4609db0218123.jpg",
+        "https://telegra.ph/file/76ba164d529cba4bf2fa7.jpg",
+        "https://telegra.ph/file/99c7ce5fc07830dca46b3.jpg",
+        "https://telegra.ph/file/286ed9ce6bd949ad5220c.jpg",
+        "https://telegra.ph/file/a7e7fe195af14e87b00cd.jpg",
+        "https://telegra.ph/file/e5aaae857ef0301c79544.jpg",
+        "https://telegra.ph/file/c60ff345dc5f4c5e6dc95.jpg",
+        "https://telegra.ph/file/a889d4355042432e2e549.jpg",
+        "https://telegra.ph/file/9ef700d3361eff8e4c109.jpg",
+        "https://telegra.ph/file/6a8ff75ec1f70808d8373.jpg"
+    ]
+};

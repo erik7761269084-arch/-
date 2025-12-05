@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2106,
+    "title": "[EBA] ラブホイール 第四話 (COMIC アンスリウム 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/EBA-ラブホイール-第四話-COMIC-アンスリウム-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/37c2626d843fbbf4b7309.jpg",
+        "https://telegra.ph/file/1fbdbacd60953f73db63c.jpg",
+        "https://telegra.ph/file/5fa139eec46876b2f2b8a.jpg",
+        "https://telegra.ph/file/14559c2a5be5d2ee12f53.jpg",
+        "https://telegra.ph/file/4c24fd15077e7db9859f4.jpg",
+        "https://telegra.ph/file/f18fafad5a3797cfc414c.jpg",
+        "https://telegra.ph/file/82d3db71722f66c191a1a.jpg",
+        "https://telegra.ph/file/22cc506ce3a0801c00669.jpg",
+        "https://telegra.ph/file/15129ad86ccade726809c.jpg",
+        "https://telegra.ph/file/13280b1acc1b9934d3f8e.jpg",
+        "https://telegra.ph/file/6a1d56b7fcc517d40d5ec.jpg",
+        "https://telegra.ph/file/c0f1abc985fcf42a5df88.jpg",
+        "https://telegra.ph/file/c942364a2ca1e29db7c42.jpg",
+        "https://telegra.ph/file/61510c3ddda27f88e9133.jpg",
+        "https://telegra.ph/file/21f063f52ca1b5f407448.jpg",
+        "https://telegra.ph/file/3315b5dbd293698909219.jpg",
+        "https://telegra.ph/file/df5de4fc10c18e2a2c8de.jpg",
+        "https://telegra.ph/file/5141acf35a01690874450.jpg",
+        "https://telegra.ph/file/79d1f7b3fb0dc7d1f8d87.jpg",
+        "https://telegra.ph/file/151b40d284e7d0cbc8cfb.jpg",
+        "https://telegra.ph/file/7eba883f9c394d93753da.jpg",
+        "https://telegra.ph/file/2586f7f0d503d88aaca4f.jpg",
+        "https://telegra.ph/file/404d7a4f4018cba7ed460.jpg",
+        "https://telegra.ph/file/522f51cc114c90cd095dd.jpg"
+    ]
+};

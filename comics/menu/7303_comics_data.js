@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7303,
+    "title": "プち妻おもちゃ箱",
+    "sourceUrl": "https://telegra.ph/プち妻おもちゃ箱-08-31",
+    "images": [
+        "https://telegra.ph/file/e4305bab1c5a3d2d11494.jpg",
+        "https://telegra.ph/file/dae1fba8c9784b1eb3fd9.jpg",
+        "https://telegra.ph/file/00fc90f30f9d1670c2040.jpg",
+        "https://telegra.ph/file/a2654e357b6853453dd42.jpg",
+        "https://telegra.ph/file/9c5ada8a9827a1d0e90b9.jpg",
+        "https://telegra.ph/file/883b170fc239199783e85.jpg",
+        "https://telegra.ph/file/4f46c2995cd99c2a665b0.jpg",
+        "https://telegra.ph/file/c806a61c2a088f714f5bc.jpg",
+        "https://telegra.ph/file/639a6eca0dbc8a73755bd.jpg",
+        "https://telegra.ph/file/7407c8a12c0889058f004.jpg",
+        "https://telegra.ph/file/c52615aaa93056d2b0a59.jpg",
+        "https://telegra.ph/file/77320d41388af6ae70542.jpg",
+        "https://telegra.ph/file/3d5ba5afb03a6d133c032.jpg",
+        "https://telegra.ph/file/64d5494e8d99797958b82.jpg",
+        "https://telegra.ph/file/6b70361adbe0b9e3eaed1.jpg",
+        "https://telegra.ph/file/06110f3be36ac1ae8d961.jpg",
+        "https://telegra.ph/file/bb707babe8fc1821274bd.jpg",
+        "https://telegra.ph/file/ec2ea13fed07428edd4c0.jpg",
+        "https://telegra.ph/file/3e0bef26fa4457d1bbcb4.jpg",
+        "https://telegra.ph/file/88eba3216d400e8442d68.jpg",
+        "https://telegra.ph/file/12420439fedf65cd9c514.jpg",
+        "https://telegra.ph/file/8d1310464cc85ee2a7a09.jpg",
+        "https://telegra.ph/file/129fa2bdaae48f7214d52.jpg",
+        "https://telegra.ph/file/3099f571b795cd3cb48cf.jpg"
+    ]
+};

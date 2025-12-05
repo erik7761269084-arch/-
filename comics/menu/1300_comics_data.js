@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1300,
+    "title": "[らっそん] 黒ギャル妻の浮気の始め方 (ビッチフレンド 寝取りの作法)",
+    "sourceUrl": "https://telegra.ph/らっそん-黒ギャル妻の浮気の始め方-ビッチフレンド-寝取りの作法-08-31",
+    "images": [
+        "https://telegra.ph/file/619a8fddb0799393d2a83.jpg",
+        "https://telegra.ph/file/ad6777218d8a92db1043f.jpg",
+        "https://telegra.ph/file/db41012d1ef44fae8c854.jpg",
+        "https://telegra.ph/file/ca6384110925345365155.jpg",
+        "https://telegra.ph/file/96f0c2030f50feb9a66a9.jpg",
+        "https://telegra.ph/file/0b813ac67427d90e5472f.jpg",
+        "https://telegra.ph/file/337c104f9e5068e61489f.jpg",
+        "https://telegra.ph/file/e552f97e329ef5a723756.jpg",
+        "https://telegra.ph/file/bbb095ebf7f0551358feb.jpg",
+        "https://telegra.ph/file/032080b9751845f7d5b90.jpg",
+        "https://telegra.ph/file/02c72aaf09a676193bd3e.jpg",
+        "https://telegra.ph/file/d75a257ba4d2b99663ef2.jpg",
+        "https://telegra.ph/file/7813740d52946ed9ed108.jpg",
+        "https://telegra.ph/file/312b996ad1e242ba6baf3.jpg",
+        "https://telegra.ph/file/cce13809712c0d142ee07.jpg",
+        "https://telegra.ph/file/058d19f1b41287661e899.jpg",
+        "https://telegra.ph/file/5f2bb56d193308b133715.jpg",
+        "https://telegra.ph/file/2617caddfff101a65574b.jpg",
+        "https://telegra.ph/file/3badde34f0e995aba3d78.jpg",
+        "https://telegra.ph/file/08273c4b9c3b4dca50d69.jpg",
+        "https://telegra.ph/file/b8eaff23ec26bf4e0973a.jpg",
+        "https://telegra.ph/file/470e88a830c247b04863d.jpg",
+        "https://telegra.ph/file/031b64603eb132630f4d2.jpg",
+        "https://telegra.ph/file/b7a018e825650988a4e62.jpg",
+        "https://telegra.ph/file/de80e8e08ca2bc4a6a56b.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5201,
+    "title": "[だいじ] 傍惚れにつき (COMIC快楽天 2022年3月号) [MJK-22-Z2772]",
+    "sourceUrl": "https://telegra.ph/だいじ-傍惚れにつき-COMIC快楽天-2022年3月号-MJK-22-Z2772-08-31-2",
+    "images": [
+        "https://telegra.ph/file/f69ab1f3406580a2f5074.png",
+        "https://telegra.ph/file/98a1a64c24a292f32063d.png",
+        "https://telegra.ph/file/9ff9ff1d73a142fc86034.png",
+        "https://telegra.ph/file/9e1369006fb66dd468222.png",
+        "https://telegra.ph/file/9957d05b424ce0b15b68f.png",
+        "https://telegra.ph/file/b98d24caac616126adb9f.png",
+        "https://telegra.ph/file/b1506f59f3d75f7a4fcdb.png",
+        "https://telegra.ph/file/ce939b9e6f68f7840fbe3.png",
+        "https://telegra.ph/file/6a425a5e5ac2fea00fbbe.png",
+        "https://telegra.ph/file/3711628d79096253ff22a.png",
+        "https://telegra.ph/file/fc745b616c07cf014151b.png",
+        "https://telegra.ph/file/782d8114eb1e201d3ee03.png",
+        "https://telegra.ph/file/42222d615ea3799504443.png",
+        "https://telegra.ph/file/726c3a255e4d3299ff9a8.png",
+        "https://telegra.ph/file/3c24dcb06786f91f1fbfd.png",
+        "https://telegra.ph/file/a001d5218d9683bd55644.png",
+        "https://telegra.ph/file/1d28530e9b87e2993ed37.png",
+        "https://telegra.ph/file/5208d027a18aaf2f40f07.png",
+        "https://telegra.ph/file/2fdf64252b01a07d58d86.png",
+        "https://telegra.ph/file/22f0b1c274e8b43910a4c.png",
+        "https://telegra.ph/file/918b89a9c15231b0a4233.png",
+        "https://telegra.ph/file/2818612223587d3fb6d32.png",
+        "https://telegra.ph/file/201dd595ac6fab82d3915.png"
+    ]
+};

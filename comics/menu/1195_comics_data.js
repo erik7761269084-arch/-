@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1195,
+    "title": "[いとうえい] お嬢様、お手をどうぞ (リトルガールストライク Vol.16)",
+    "sourceUrl": "https://telegra.ph/いとうえい-お嬢様お手をどうぞ-リトルガールストライク-Vol16-08-31",
+    "images": [
+        "https://telegra.ph/file/47936abc19786a7b874fc.jpg",
+        "https://telegra.ph/file/d142c82116310a9282a74.jpg",
+        "https://telegra.ph/file/d97be0488d9c751fbd974.jpg",
+        "https://telegra.ph/file/1666743fbaf1e6c8ff554.jpg",
+        "https://telegra.ph/file/114d709e9fef0daae5332.jpg",
+        "https://telegra.ph/file/2ac2aee1ad47e203526b4.jpg",
+        "https://telegra.ph/file/7acb5e70d348d83ccd7dc.jpg",
+        "https://telegra.ph/file/965ffa00183e99276a48e.jpg",
+        "https://telegra.ph/file/d0a89265505f1b551a598.jpg",
+        "https://telegra.ph/file/ee40caf73942fa8d3617a.jpg",
+        "https://telegra.ph/file/2329dcdbe24fb01a2fc4b.jpg",
+        "https://telegra.ph/file/8c62e228b0cc39330b5fd.jpg",
+        "https://telegra.ph/file/811268df6fcb74f3d8af4.jpg",
+        "https://telegra.ph/file/b43d41f132ed3256e5452.jpg",
+        "https://telegra.ph/file/ef442cb81ce4baa99920c.jpg",
+        "https://telegra.ph/file/5efd2c12c817bc06632fc.jpg",
+        "https://telegra.ph/file/54aea3aadf8eccd6f3fe6.jpg",
+        "https://telegra.ph/file/c57355468f0fd2292c139.jpg",
+        "https://telegra.ph/file/9ce1a1bdf4f50ed780882.jpg",
+        "https://telegra.ph/file/90921ca85c192e629e7e2.jpg",
+        "https://telegra.ph/file/a66ba26bfd38e98230d97.jpg",
+        "https://telegra.ph/file/ea05ab92ff3a8d34b55a0.jpg",
+        "https://telegra.ph/file/d68fa8bf252c8ecba067b.jpg",
+        "https://telegra.ph/file/d5a1bb46358ef828b9b14.jpg"
+    ]
+};

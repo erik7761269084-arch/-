@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2094,
+    "title": "(レインボーフレーバー20) [ ワールドオブピュア (ネゴム)] ANGEL (HUGっと!プリキュア)",
+    "sourceUrl": "https://telegra.ph/レインボーフレーバー20--ワールドオブピュア-ネゴム-ANGEL-HUGっとプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/f25dffc9a063fc1311b2c.jpg",
+        "https://telegra.ph/file/a162a03c6ee560bde77e8.jpg",
+        "https://telegra.ph/file/cdaebbd7b130cc244f0ba.jpg",
+        "https://telegra.ph/file/bb64251fc076bdb3dcce5.jpg",
+        "https://telegra.ph/file/48aaf5e5b1a3ef357fc6c.jpg",
+        "https://telegra.ph/file/339c453c79f479c3bb196.jpg",
+        "https://telegra.ph/file/62d91227a330ccdf55ab8.jpg",
+        "https://telegra.ph/file/8937af42570b903603c10.jpg",
+        "https://telegra.ph/file/9af57d01339547a9777c4.jpg",
+        "https://telegra.ph/file/6737ab0540497d16b8291.jpg",
+        "https://telegra.ph/file/3623414cf20892bc06df2.jpg",
+        "https://telegra.ph/file/213628385bf69bbc34613.jpg",
+        "https://telegra.ph/file/0f990ad471c36742e7f9c.jpg",
+        "https://telegra.ph/file/7dd7e420653fe08f402f4.jpg",
+        "https://telegra.ph/file/d791591ce6ff446990922.jpg",
+        "https://telegra.ph/file/c40ef00c6a42b560ad14d.jpg",
+        "https://telegra.ph/file/8d59115cdab449aeaa767.jpg",
+        "https://telegra.ph/file/15724077e2790f8319b06.jpg",
+        "https://telegra.ph/file/cc663afeb6541f72ceb53.jpg",
+        "https://telegra.ph/file/5d24a202f6b24944921c6.jpg",
+        "https://telegra.ph/file/1547022a04c18e99804c6.jpg",
+        "https://telegra.ph/file/3c53df5a7eb07772425a3.jpg",
+        "https://telegra.ph/file/8c251594f96e3164dd70d.jpg",
+        "https://telegra.ph/file/a52c5231d7938e73d821c.jpg",
+        "https://telegra.ph/file/5bc0aa0ddef719f2822f7.jpg"
+    ]
+};

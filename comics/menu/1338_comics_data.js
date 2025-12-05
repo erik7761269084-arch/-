@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1338,
+    "title": "[空住キオ] ちょっとタリナイ (COMIC 快楽天ビースト 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/空住キオ-ちょっとタリナイ-COMIC-快楽天ビースト-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/cab196d04b704fc531ffb.jpg",
+        "https://telegra.ph/file/53cdb1d143e8aba7a2618.jpg",
+        "https://telegra.ph/file/6350f83123a2e9eae0506.jpg",
+        "https://telegra.ph/file/85b28f2ad8d1c763f4e43.jpg",
+        "https://telegra.ph/file/717ce28df940da7769943.jpg",
+        "https://telegra.ph/file/80dffb0bd72ac3cafcff0.jpg",
+        "https://telegra.ph/file/dc0bd3d198ca55cb00864.jpg",
+        "https://telegra.ph/file/4ecb112c559c6b8d8e363.jpg",
+        "https://telegra.ph/file/ac18d8eb9e6d80c1b173e.jpg",
+        "https://telegra.ph/file/d0887f6cd1734d5c01428.jpg",
+        "https://telegra.ph/file/560168e20678c8a1a93f1.jpg",
+        "https://telegra.ph/file/b1eb2c548751f7d30a06a.jpg",
+        "https://telegra.ph/file/40ce422d8b4242e357647.jpg",
+        "https://telegra.ph/file/22dd838ffb5403d4023e9.jpg",
+        "https://telegra.ph/file/2fd349690bf07606b4678.jpg",
+        "https://telegra.ph/file/c983056ad2326ad60f856.jpg",
+        "https://telegra.ph/file/a0050098ec74bda69de53.jpg",
+        "https://telegra.ph/file/0d69895bc7a3a2dcc9c68.jpg",
+        "https://telegra.ph/file/6bfde0783fc4e4207cf00.jpg",
+        "https://telegra.ph/file/63680ab9d2a9f13e83dd3.jpg",
+        "https://telegra.ph/file/2df11e0c96740628a96c1.jpg",
+        "https://telegra.ph/file/c9c95502effc9b4264a13.jpg",
+        "https://telegra.ph/file/4ec1f7fbcae73e23ba297.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3174,
+    "title": "[みぃとばん] EYE・I・愛 (COMIC 外楽 Vol.08)",
+    "sourceUrl": "https://telegra.ph/みぃとばん-EYEI愛-COMIC-外楽-Vol08-08-31",
+    "images": [
+        "https://telegra.ph/file/16c4e0ad0746636a0da7e.jpg",
+        "https://telegra.ph/file/040feeaca0a11f21e734f.jpg",
+        "https://telegra.ph/file/08940a4c71819597616e9.jpg",
+        "https://telegra.ph/file/9a0d82c1bb02095bbeb93.jpg",
+        "https://telegra.ph/file/bcbcbe73c840698a84da3.jpg",
+        "https://telegra.ph/file/d0aecfd054e44ee057509.jpg",
+        "https://telegra.ph/file/8868f1dc7f80ae13611b8.jpg",
+        "https://telegra.ph/file/650380c5ee45021c5022f.jpg",
+        "https://telegra.ph/file/e7b2ca08a2d7c2eaecff4.jpg",
+        "https://telegra.ph/file/35ad0398e57b09e108d1d.jpg",
+        "https://telegra.ph/file/5b2f6f0686b3e16d9ff10.jpg",
+        "https://telegra.ph/file/64b7940cb4646f3edc9ca.jpg",
+        "https://telegra.ph/file/bb10ee12725c7ea47cae4.jpg",
+        "https://telegra.ph/file/7d0a04bf4b4293638eb95.jpg",
+        "https://telegra.ph/file/f17048f1947b563e555d5.jpg",
+        "https://telegra.ph/file/561b21d5713d603d0e921.jpg",
+        "https://telegra.ph/file/4423fb9a6337c77e199cd.jpg",
+        "https://telegra.ph/file/efb86228566746c3542c5.jpg",
+        "https://telegra.ph/file/95c002486c7044e2f2e43.jpg",
+        "https://telegra.ph/file/a334c2c76197887c29290.jpg",
+        "https://telegra.ph/file/3ed459073b06363c3e974.jpg",
+        "https://telegra.ph/file/a60cf414ab897901f6c41.jpg",
+        "https://telegra.ph/file/eed25123e67421b9ffa90.jpg",
+        "https://telegra.ph/file/8f1a1c1f29873d3c9ba3f.jpg",
+        "https://telegra.ph/file/11e90cabd86f8b6902c02.jpg"
+    ]
+};

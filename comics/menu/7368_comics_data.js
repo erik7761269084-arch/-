@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7368,
+    "title": "1スキュラパニック",
+    "sourceUrl": "https://telegra.ph/1スキュラパニック-08-31",
+    "images": [
+        "https://telegra.ph/file/900f836bbe78dde74a58d.jpg",
+        "https://telegra.ph/file/e3fff8b80c9854d43a6f6.jpg",
+        "https://telegra.ph/file/67312e983ba6bc7cdbd57.jpg",
+        "https://telegra.ph/file/20474b9397068cdc951a0.jpg",
+        "https://telegra.ph/file/ca7b00894879efae3154d.jpg",
+        "https://telegra.ph/file/90cfcca44924d5935545e.jpg",
+        "https://telegra.ph/file/b57d1704ae79d4698ab60.jpg",
+        "https://telegra.ph/file/17293fe635a00b1c52d27.jpg",
+        "https://telegra.ph/file/901e08f07122e98ab922d.jpg",
+        "https://telegra.ph/file/568c47622765a1e442659.jpg",
+        "https://telegra.ph/file/71fdaa4e5f1abfe767267.jpg",
+        "https://telegra.ph/file/2b1761f9b5dee2b431676.jpg",
+        "https://telegra.ph/file/a7ddfa092041c77e5a255.jpg",
+        "https://telegra.ph/file/3c05b913eb41bdac1e82e.jpg",
+        "https://telegra.ph/file/2081b54dafd1ece8907d3.jpg",
+        "https://telegra.ph/file/760ba5c74b74da342f9af.jpg",
+        "https://telegra.ph/file/cee869642f27106e1459d.jpg",
+        "https://telegra.ph/file/37e8dc61bc31c9f49f77d.jpg",
+        "https://telegra.ph/file/baaf69f40f45972a713b5.jpg",
+        "https://telegra.ph/file/be63133cac0d294aaaa06.jpg",
+        "https://telegra.ph/file/7af063351afed980da751.jpg",
+        "https://telegra.ph/file/5157ebec64e48388c1012.jpg",
+        "https://telegra.ph/file/bcf11122243412dd7688d.jpg",
+        "https://telegra.ph/file/cd9a779faa44c395ed216.jpg"
+    ]
+};

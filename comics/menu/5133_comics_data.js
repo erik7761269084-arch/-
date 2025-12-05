@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5133,
+    "title": "(C100) [remora field (remora)] ニーアちゃんとイチャイチャする本 (グランブルーファンタジー)  [MJK-22-T2805]",
+    "sourceUrl": "https://telegra.ph/C100-remora-field-remora-ニーアちゃんとイチャイチャする本-グランブルーファンタジー-MJK-22-T2805-08-31-2",
+    "images": [
+        "https://telegra.ph/file/497cb937c16f6158e72c7.png",
+        "https://telegra.ph/file/13c76fa323d29bf0b67bd.png",
+        "https://telegra.ph/file/1db6f79a7ac76c46334ff.png",
+        "https://telegra.ph/file/b32e1a22f6fed763a6581.png",
+        "https://telegra.ph/file/d56b2fd0026f454953665.png",
+        "https://telegra.ph/file/ffec5efcce3eb75d23993.png",
+        "https://telegra.ph/file/8d0db6eba1147dc4f7815.png",
+        "https://telegra.ph/file/effd9da2a77a9f297f0b0.png",
+        "https://telegra.ph/file/bc7c459d574a4f82f355b.png",
+        "https://telegra.ph/file/57ff7adbb7d56c6999619.png",
+        "https://telegra.ph/file/6b56605c3390cdaa9cf64.png",
+        "https://telegra.ph/file/7b08adff1ec66dedc63ed.png",
+        "https://telegra.ph/file/62cb360bdb441c60caa68.png",
+        "https://telegra.ph/file/8736bc74ae75eb715fe85.png",
+        "https://telegra.ph/file/201b46a054b466885c8d1.png",
+        "https://telegra.ph/file/d7d0a4064bdbae414b784.png",
+        "https://telegra.ph/file/cad2e0d2e5f786806f9a7.png",
+        "https://telegra.ph/file/dec797266d2ab4ff062e9.png",
+        "https://telegra.ph/file/8fb123e12eeb39b908d0c.png",
+        "https://telegra.ph/file/010eff550dcb4a5fc907c.png",
+        "https://telegra.ph/file/a383f147e877253b16fa2.png",
+        "https://telegra.ph/file/1fdbc1b54701d10adba50.png",
+        "https://telegra.ph/file/23f93f79e2e673bd44c7a.png"
+    ]
+};

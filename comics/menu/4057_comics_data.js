@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4057,
+    "title": "(C94) [らぼまじ! (武田あらのぶ)] 自分にまるで興味がない師匠にコスプレSEXで女の悦びを刺し穿っていく性活 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C94-らぼまじ-武田あらのぶ-自分にまるで興味がない師匠にコスプレSEXで女の悦びを刺し穿っていく性活-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/8af407fd64e3fd286582d.jpg",
+        "https://telegra.ph/file/fe735588854d77b394037.jpg",
+        "https://telegra.ph/file/f3c63be2b32c2f59fc934.jpg",
+        "https://telegra.ph/file/391b5d08337688dc9f5a6.jpg",
+        "https://telegra.ph/file/1dbeff76ed5383e5917bd.jpg",
+        "https://telegra.ph/file/5190c270c51c83e87b70f.jpg",
+        "https://telegra.ph/file/823cc29e30db8e61f2f46.jpg",
+        "https://telegra.ph/file/cd6234f8b2c8e6db5026b.jpg",
+        "https://telegra.ph/file/afc82bc014e4c3584c93f.jpg",
+        "https://telegra.ph/file/142b42c4549df4ee35a4f.jpg",
+        "https://telegra.ph/file/4a8562e2045a9313e5691.jpg",
+        "https://telegra.ph/file/c8df387e6baf135e75e47.jpg",
+        "https://telegra.ph/file/555a924571af5a41bcdb1.jpg",
+        "https://telegra.ph/file/90dc3e8efbf8122e62898.jpg",
+        "https://telegra.ph/file/ce402db13fc1eab326ba9.jpg",
+        "https://telegra.ph/file/90fefc2120df3b5e15c56.jpg",
+        "https://telegra.ph/file/276f6ee4c046732b633d5.jpg",
+        "https://telegra.ph/file/2cda7dcddc9105dc38c04.jpg",
+        "https://telegra.ph/file/a5a89bc38af6b446b86ea.jpg",
+        "https://telegra.ph/file/12db3ce9758221b962a3b.jpg",
+        "https://telegra.ph/file/6e4ba4bb61d65e1cb1e0b.jpg",
+        "https://telegra.ph/file/a141264582fda534e1085.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5916,
+    "title": "[東野みかん] お弁当と小春ちゃん",
+    "sourceUrl": "https://telegra.ph/東野みかん-お弁当と小春ちゃん-08-31",
+    "images": [
+        "https://telegra.ph/file/4d4f0e0d316efcc7a4956.jpg",
+        "https://telegra.ph/file/9317cb4cb4e3e57410fda.jpg",
+        "https://telegra.ph/file/9cbc0a9d738dcc742b07e.jpg",
+        "https://telegra.ph/file/2325abb66aa1c3d21b4b6.jpg",
+        "https://telegra.ph/file/5181b0d417dd5f3864c65.jpg",
+        "https://telegra.ph/file/cad9d53124f218d7cef7a.jpg",
+        "https://telegra.ph/file/52c8f17845b839440ef51.jpg",
+        "https://telegra.ph/file/39b313276a31c8db39fcc.jpg",
+        "https://telegra.ph/file/d10ae421ae01ec6cef566.jpg",
+        "https://telegra.ph/file/57f4f8b3ea03b5b4c305b.jpg",
+        "https://telegra.ph/file/0063e1b5bffa11438d9b5.jpg",
+        "https://telegra.ph/file/0fd5b496b3322a2028cd3.jpg",
+        "https://telegra.ph/file/73f7c93b829c91a9ce583.jpg",
+        "https://telegra.ph/file/f9f4822a245c9e9632b4b.jpg",
+        "https://telegra.ph/file/fd9e46a59d64dbfb5ebb8.jpg",
+        "https://telegra.ph/file/dfa9dc23bda2040157bad.jpg",
+        "https://telegra.ph/file/4ada73f753075fa64056b.jpg",
+        "https://telegra.ph/file/15decdb8d0c520c73558f.jpg",
+        "https://telegra.ph/file/73ea841ed7e46ca881687.jpg",
+        "https://telegra.ph/file/52d532ee52ac652aa7050.jpg",
+        "https://telegra.ph/file/5fd362dba27c70b8a6cfe.jpg",
+        "https://telegra.ph/file/fc98bc7507762586d50e1.jpg",
+        "https://telegra.ph/file/ef626b38702483c58cb7c.jpg",
+        "https://telegra.ph/file/626bf079f351f905e522e.jpg"
+    ]
+};

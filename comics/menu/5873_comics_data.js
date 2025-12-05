@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5873,
+    "title": "[御免なさい] さわらぬ神(○リ)にたたりなし",
+    "sourceUrl": "https://telegra.ph/御免なさい-さわらぬ神リにたたりなし-08-31",
+    "images": [
+        "https://telegra.ph/file/837aa0fd3066f9451f79f.png",
+        "https://telegra.ph/file/98a52a032215301ed28f3.png",
+        "https://telegra.ph/file/5beda9d286e88037c5c52.png",
+        "https://telegra.ph/file/9023adbc6d249e2fa0b9c.png",
+        "https://telegra.ph/file/7651dab9f48a0bbc7fb6e.png",
+        "https://telegra.ph/file/2c1b1f0212f8d05b57155.png",
+        "https://telegra.ph/file/9bc575bd9da56cf4f59a3.png",
+        "https://telegra.ph/file/e1d2c4185375ed6794169.png",
+        "https://telegra.ph/file/2da4fcf66c1b417f7874a.png",
+        "https://telegra.ph/file/afb9155aa829716fd81ff.png",
+        "https://telegra.ph/file/1093fa74b5a5d6c9fb085.png",
+        "https://telegra.ph/file/8d4e1083132880b7c9daf.png",
+        "https://telegra.ph/file/bdc4b5ae78369d0902527.png",
+        "https://telegra.ph/file/d3f096917586451f74d85.png",
+        "https://telegra.ph/file/998bd17d983185a711ac2.png",
+        "https://telegra.ph/file/37d926deba34a0965173e.png",
+        "https://telegra.ph/file/5e41cc5d122a94eba59af.png",
+        "https://telegra.ph/file/3e7bec059dd888868969d.png",
+        "https://telegra.ph/file/5c234179ae7363206e5a1.png",
+        "https://telegra.ph/file/d6af794e59ec2898d99f9.png",
+        "https://telegra.ph/file/11b5c79ddfc911fae19a2.png",
+        "https://telegra.ph/file/c0b334d009c5e96385f3c.png",
+        "https://telegra.ph/file/579bf672b9b7b159ab238.png",
+        "https://telegra.ph/file/86e3ea57be3ebead3f475.png",
+        "https://telegra.ph/file/f80968eb7b896d01e2493.png"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5650,
+    "title": "[シュガーミルク] お姉さんと遊ぼう♥",
+    "sourceUrl": "https://telegra.ph/シュガーミルク-お姉さんと遊ぼう-08-31",
+    "images": [
+        "https://telegra.ph/file/e52936c9e207524282912.jpg",
+        "https://telegra.ph/file/abf77b4c0c7223b722e29.jpg",
+        "https://telegra.ph/file/1edeb52470862f0ca4e7f.jpg",
+        "https://telegra.ph/file/0ae1801fbaa44df3e3b5a.jpg",
+        "https://telegra.ph/file/5a319d9ff6c7118259afa.jpg",
+        "https://telegra.ph/file/7f679af82e4f4493e5000.jpg",
+        "https://telegra.ph/file/91ad12b0c306368130986.jpg",
+        "https://telegra.ph/file/2bd2296b8d128d5527e6a.jpg",
+        "https://telegra.ph/file/009741852a1b4d570d460.jpg",
+        "https://telegra.ph/file/2d49ebe105f526b332279.jpg",
+        "https://telegra.ph/file/26702440a7c4a6166b722.jpg",
+        "https://telegra.ph/file/ca3045b1c58191c9b5581.jpg",
+        "https://telegra.ph/file/92627619551277dd85d1e.jpg",
+        "https://telegra.ph/file/07859ae331cfa379ac383.jpg",
+        "https://telegra.ph/file/008db42764c9fd841befd.jpg",
+        "https://telegra.ph/file/68b72c9e0d391fab9c52a.jpg",
+        "https://telegra.ph/file/06678a22256585846d463.jpg",
+        "https://telegra.ph/file/9de46f7f84e87346767ab.jpg",
+        "https://telegra.ph/file/5e2a50eb8f6dfafa2a671.jpg",
+        "https://telegra.ph/file/1e9ad7194bec6e1fb86ad.jpg",
+        "https://telegra.ph/file/52eb15214e947d0e5f508.jpg",
+        "https://telegra.ph/file/475d401fa5e9903f94bfc.jpg",
+        "https://telegra.ph/file/509498d963ae9b971fa33.jpg",
+        "https://telegra.ph/file/73be89e6169a50ca7c21d.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3201,
+    "title": "[きよたろ] 君の心を覗かせて (コミック エグゼ 34)",
+    "sourceUrl": "https://telegra.ph/きよたろ-君の心を覗かせて-コミック-エグゼ-34-08-31-2",
+    "images": [
+        "https://telegra.ph/file/ce8a46eb703d26c0312fb.jpg",
+        "https://telegra.ph/file/6da73a4b74016208262c0.jpg",
+        "https://telegra.ph/file/882e8963ebd7f2a05a74d.jpg",
+        "https://telegra.ph/file/e3158a4e8f89ffd2fc140.jpg",
+        "https://telegra.ph/file/0972609a8a89e4b02aaac.jpg",
+        "https://telegra.ph/file/fcfc0d999e8769ca7cf82.jpg",
+        "https://telegra.ph/file/6991bad5e261f53dbf22c.jpg",
+        "https://telegra.ph/file/b5ce6e8cae89341a8d0db.jpg",
+        "https://telegra.ph/file/3a65265cca0cc0c3e902a.jpg",
+        "https://telegra.ph/file/ff4add2661dac33f545a2.jpg",
+        "https://telegra.ph/file/e9347d10440709a2f7c22.jpg",
+        "https://telegra.ph/file/f5a867a11e39c006b6151.jpg",
+        "https://telegra.ph/file/e5fd09387fe46ddf99206.jpg",
+        "https://telegra.ph/file/0a57d6d32954e1591d2fa.jpg",
+        "https://telegra.ph/file/7abac3c96b6959f66455f.jpg",
+        "https://telegra.ph/file/a71fde120b05e94b0e125.jpg",
+        "https://telegra.ph/file/7380b4c7bd7066413012d.jpg",
+        "https://telegra.ph/file/f65a72e684afb5665b4ad.jpg",
+        "https://telegra.ph/file/3523f4a1ce2947e00fe10.jpg",
+        "https://telegra.ph/file/4c491ac05be7a0a64f4f3.jpg",
+        "https://telegra.ph/file/c4784a6b080fbd1c63240.jpg",
+        "https://telegra.ph/file/8277c5b841ca86c077a29.jpg",
+        "https://telegra.ph/file/cc1fb3fb1e1927a3e9538.jpg",
+        "https://telegra.ph/file/d1b50a17619474b962235.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

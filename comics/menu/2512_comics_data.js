@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2512,
+    "title": "(C83) [フニフニラボ (たまごろー)] チチッコビッチ3 (フェアリーテイル)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/C83-フニフニラボ-たまごろー-チチッコビッチ3-フェアリーテイル-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/5c5a59168b96917a304ee.jpg",
+        "https://telegra.ph/file/91b77edbce659f3bf9946.jpg",
+        "https://telegra.ph/file/478e94fca8332df08b9c4.jpg",
+        "https://telegra.ph/file/771aee19bcb4acb9f230b.jpg",
+        "https://telegra.ph/file/fdf3ef90a6c6cc4c642f7.jpg",
+        "https://telegra.ph/file/d671144e93ede25140684.jpg",
+        "https://telegra.ph/file/5c15a848e410e1e3d40f4.jpg",
+        "https://telegra.ph/file/78855208ae390efafb604.jpg",
+        "https://telegra.ph/file/4cc36e3ccb4f93b4954d7.jpg",
+        "https://telegra.ph/file/ff06bb44fbb819a045719.jpg",
+        "https://telegra.ph/file/64ad0b5b5f82d05c60959.jpg",
+        "https://telegra.ph/file/4581084f99ffe2d08a3e9.jpg",
+        "https://telegra.ph/file/8d12931366437930d7953.jpg",
+        "https://telegra.ph/file/c3be5a5a08156f362e03a.jpg",
+        "https://telegra.ph/file/4d84f9d761bbfe4ad4feb.jpg",
+        "https://telegra.ph/file/16ddac0a1431804fafd1b.jpg",
+        "https://telegra.ph/file/a083d81b813a1c6350706.jpg",
+        "https://telegra.ph/file/f750e6d47da10728e8ef8.jpg",
+        "https://telegra.ph/file/d5d37d519dc1f7e5606a1.jpg",
+        "https://telegra.ph/file/a72439e3a9797782e895a.jpg",
+        "https://telegra.ph/file/1c2a67258bd19c63dfc66.jpg",
+        "https://telegra.ph/file/1d19daca4d6ea19138cf0.jpg",
+        "https://telegra.ph/file/d01853f351da087b1e4fb.jpg",
+        "https://telegra.ph/file/3ef1f107983bed2c38149.jpg",
+        "https://telegra.ph/file/d7b403abd66e335a637d3.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5444,
+    "title": "[松河] オトナになった君へ",
+    "sourceUrl": "https://telegra.ph/松河-オトナになった君へ-08-31",
+    "images": [
+        "https://telegra.ph/file/dfa98cc2e5d259e11a6a3.png",
+        "https://telegra.ph/file/3514af9246ab1809a2a58.png",
+        "https://telegra.ph/file/92d775f509f2afbcc5854.png",
+        "https://telegra.ph/file/d21f252e2a1eca8d41360.png",
+        "https://telegra.ph/file/8f971104112083a7d2a6c.png",
+        "https://telegra.ph/file/aef583d0fe5dcf60455c7.png",
+        "https://telegra.ph/file/0b16759d7cc8f1b21d53c.png",
+        "https://telegra.ph/file/18e147aa0884d513b02d2.png",
+        "https://telegra.ph/file/fe05485c08a05fa1f9e9d.png",
+        "https://telegra.ph/file/e5fc5963e523b2cc40cda.png",
+        "https://telegra.ph/file/72037a49ff5f5c480fc50.png",
+        "https://telegra.ph/file/84da684ded6bdf751835d.png",
+        "https://telegra.ph/file/82c0f0e34b460430137b3.png",
+        "https://telegra.ph/file/cd747b4a1f048ab5e4202.png",
+        "https://telegra.ph/file/d41f7dae7d291c6c924e9.png",
+        "https://telegra.ph/file/2e1f66c471638d7970b0e.png",
+        "https://telegra.ph/file/bcc6b927fa7c25cba800f.png",
+        "https://telegra.ph/file/30741a8edc5959f793efc.png",
+        "https://telegra.ph/file/d3b58a07e8ff2c6c70f27.png",
+        "https://telegra.ph/file/d0480c032f0bb3807eacb.png",
+        "https://telegra.ph/file/5edb66f5682c3161f51da.png",
+        "https://telegra.ph/file/e4d9cebeb5de21ed7138d.png",
+        "https://telegra.ph/file/ffff95a514020542a298a.png",
+        "https://telegra.ph/file/04e9da1458e5c00b033fa.png"
+    ]
+};

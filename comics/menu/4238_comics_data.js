@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4238,
+    "title": "(シンデレラ☆ステージ5STEP) [白猫一族 (まうめん)] あやかし狐と幻想一夜 (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/シンデレラステージ5STEP-白猫一族-まうめん-あやかし狐と幻想一夜-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/531ac4edd1de322a08fbb.jpg",
+        "https://telegra.ph/file/83363b3b8437da56ff270.jpg",
+        "https://telegra.ph/file/c25f9a046a92687226be0.jpg",
+        "https://telegra.ph/file/d20cf086eb5837078b650.jpg",
+        "https://telegra.ph/file/153633ece63ee816919c0.jpg",
+        "https://telegra.ph/file/98acaccc5ccc034e18031.jpg",
+        "https://telegra.ph/file/fb37b9c04302d92b2e97a.jpg",
+        "https://telegra.ph/file/12c54877a32edec91664a.jpg",
+        "https://telegra.ph/file/7afc8fddaf7eae796de37.jpg",
+        "https://telegra.ph/file/40341c704d89748215916.jpg",
+        "https://telegra.ph/file/91b920a1387520ab171a0.jpg",
+        "https://telegra.ph/file/70a536f38ff146aa48e77.jpg",
+        "https://telegra.ph/file/45531d85778368c21411c.jpg",
+        "https://telegra.ph/file/181dcd56eee3c7595e0e1.jpg",
+        "https://telegra.ph/file/5d9c61d8ba8a03a877658.jpg",
+        "https://telegra.ph/file/b58899cde6122714fbde2.jpg",
+        "https://telegra.ph/file/81579c2d44d03122a82e8.jpg",
+        "https://telegra.ph/file/47597b00565d21da9c106.jpg",
+        "https://telegra.ph/file/2b9e600665d09c985561b.jpg",
+        "https://telegra.ph/file/7869afd6ee77252e08342.jpg",
+        "https://telegra.ph/file/41e03f191d79328009cbb.jpg",
+        "https://telegra.ph/file/182550ea40fe3af66bf0a.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

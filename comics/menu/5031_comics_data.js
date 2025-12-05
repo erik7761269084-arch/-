@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5031,
+    "title": "[16.01] キュピプリ -Cupid Princesses- (二次元コミックマガジン 悪堕ち逆レイプで悶絶快楽! Vol.3)",
+    "sourceUrl": "https://telegra.ph/1601-キュピプリ--Cupid-Princesses--二次元コミックマガジン-悪堕ち逆レイプで悶絶快楽-Vol3-08-31-3",
+    "images": [
+        "https://telegra.ph/file/12c435f444358894839c2.jpg",
+        "https://telegra.ph/file/8b5f65b8ff1c745c4123e.jpg",
+        "https://telegra.ph/file/4cafc6df98488cf5e509e.jpg",
+        "https://telegra.ph/file/9f0fd23421bf72a646e3d.jpg",
+        "https://telegra.ph/file/d4451504afb1900c0d62d.jpg",
+        "https://telegra.ph/file/ff38b1684c8bff11cceb5.jpg",
+        "https://telegra.ph/file/3a513662c5643ab3ffee8.jpg",
+        "https://telegra.ph/file/808aa346485a382c7fea2.jpg",
+        "https://telegra.ph/file/81f268d37a42c74d3bfe6.jpg",
+        "https://telegra.ph/file/4af574b2a3b01e623c053.jpg",
+        "https://telegra.ph/file/c75049f0302710c8e2a60.jpg",
+        "https://telegra.ph/file/336b18be3a07355e33f79.jpg",
+        "https://telegra.ph/file/be07dfd90b0911fe79ce1.jpg",
+        "https://telegra.ph/file/a9962aeed03189cf2657b.jpg",
+        "https://telegra.ph/file/875e40348c13936bda4d1.jpg",
+        "https://telegra.ph/file/cbc81537a50e15fa68c00.jpg",
+        "https://telegra.ph/file/0f35c77fc90f6ff4d31d7.jpg",
+        "https://telegra.ph/file/e0d87a8bd0a5e4b94bc01.jpg",
+        "https://telegra.ph/file/f0b7def9450c56a39f369.jpg",
+        "https://telegra.ph/file/8940c8020fd6746112a57.jpg",
+        "https://telegra.ph/file/8dc990c93ba8a2aabff38.jpg",
+        "https://telegra.ph/file/86c0fba41383e9b52102b.jpg",
+        "https://telegra.ph/file/957a2365380f49f184302.jpg",
+        "https://telegra.ph/file/04a3d939fcb0ff2e97786.jpg"
+    ]
+};

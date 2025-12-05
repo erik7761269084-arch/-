@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6367,
+    "title": "[なかよひモグダン (モグダン)] 綾波第1回",
+    "sourceUrl": "https://telegra.ph/なかよひモグダン-モグダン-綾波第1回-08-31",
+    "images": [
+        "https://telegra.ph/file/d2a527084448513939433.jpg",
+        "https://telegra.ph/file/bf09e9162676f808705dd.jpg",
+        "https://telegra.ph/file/a48c1fa04c4df94e6eebd.jpg",
+        "https://telegra.ph/file/7ce3ef6bf07db2cd53650.jpg",
+        "https://telegra.ph/file/d8b99c2a0978385582f7a.jpg",
+        "https://telegra.ph/file/22cb48646d1f41ef1b432.jpg",
+        "https://telegra.ph/file/6dd4f8d5e09b15d45b7db.jpg",
+        "https://telegra.ph/file/e047c755a995966b9c046.jpg",
+        "https://telegra.ph/file/389290a3407fdccb0a108.jpg",
+        "https://telegra.ph/file/dcd44ad8a740d582d6179.jpg",
+        "https://telegra.ph/file/b0caafad3a4478680aded.jpg",
+        "https://telegra.ph/file/d5eb99d9aad7b68bd6f2c.jpg",
+        "https://telegra.ph/file/9534d46fbf8c29a26dd54.jpg",
+        "https://telegra.ph/file/fc377dab489323bb15bf7.jpg",
+        "https://telegra.ph/file/7d6a2c6983d6f26ccbb9b.jpg",
+        "https://telegra.ph/file/eba8a03b05d39e080ef4a.jpg",
+        "https://telegra.ph/file/e6c40a3688176eef2feb6.jpg",
+        "https://telegra.ph/file/3211aee6aa06854b06496.jpg",
+        "https://telegra.ph/file/062b12c6b2baf78a7b8cd.jpg",
+        "https://telegra.ph/file/7b3b5eaee062947d0aa65.jpg",
+        "https://telegra.ph/file/e96fdf61ea600b0eebbd5.jpg",
+        "https://telegra.ph/file/a3c12c5c728291d6de04a.jpg",
+        "https://telegra.ph/file/d5d45b06c33a91ec90679.jpg"
+    ]
+};

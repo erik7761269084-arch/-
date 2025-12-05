@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4196,
+    "title": "[きょくちょ] 恋ひ恋ふ (COMIC BAVEL 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/きょくちょ-恋ひ恋ふ-COMIC-BAVEL-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/40794cdba12de98e4bae4.jpg",
+        "https://telegra.ph/file/b138b1b76bc6543d9474b.jpg",
+        "https://telegra.ph/file/72b06138940b305d408e9.jpg",
+        "https://telegra.ph/file/813f7ad07e54710322872.jpg",
+        "https://telegra.ph/file/19b0c7262fc05a4a68604.jpg",
+        "https://telegra.ph/file/7607a491813651d6e0f42.jpg",
+        "https://telegra.ph/file/b695bb3f7446e86a341eb.jpg",
+        "https://telegra.ph/file/a27c676146e901ca773c5.jpg",
+        "https://telegra.ph/file/9ec3dfb57e6c1d5848230.jpg",
+        "https://telegra.ph/file/4d843b3b809d4afd9b56f.jpg",
+        "https://telegra.ph/file/b7559b9f682c25b5f2c8d.jpg",
+        "https://telegra.ph/file/924827eaced6419fcfab8.jpg",
+        "https://telegra.ph/file/e7a0e3433bff62a340e09.jpg",
+        "https://telegra.ph/file/adff80604e51429a281e0.jpg",
+        "https://telegra.ph/file/88af110f8400ae7944437.jpg",
+        "https://telegra.ph/file/6df1b61af745bda881f4d.jpg",
+        "https://telegra.ph/file/2ef73534681be28cc9f14.jpg",
+        "https://telegra.ph/file/e4bb668a07607be572ecd.jpg",
+        "https://telegra.ph/file/d00d83d863bd697f98f82.jpg",
+        "https://telegra.ph/file/58dbd725bdc11da7ff041.jpg",
+        "https://telegra.ph/file/b0a51f4ad4e3429f2718c.jpg",
+        "https://telegra.ph/file/162af4cf33750a4219718.jpg",
+        "https://telegra.ph/file/b8f39d67047635414f982.jpg",
+        "https://telegra.ph/file/a0bdb45597c3ade8bc6ee.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ]
+};

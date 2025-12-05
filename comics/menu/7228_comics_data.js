@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7228,
+    "title": "性的えでゅけーしょん",
+    "sourceUrl": "https://telegra.ph/性的えでゅけーしょん-08-31",
+    "images": [
+        "https://telegra.ph/file/895e1a86842db95c0bb4b.png",
+        "https://telegra.ph/file/a1cf7cd8615f355696cd8.png",
+        "https://telegra.ph/file/11df48caf09bf0757dad0.png",
+        "https://telegra.ph/file/74964e617c5b69ae4982b.png",
+        "https://telegra.ph/file/e6c0ab67d9224dcf32acf.png",
+        "https://telegra.ph/file/f7d283d1749358eba7ea5.png",
+        "https://telegra.ph/file/5fa7ccaa121b72e52fa82.png",
+        "https://telegra.ph/file/7e9fc4b610934a4f7cbfc.png",
+        "https://telegra.ph/file/175a433bf80043d5208e4.png",
+        "https://telegra.ph/file/aa45ef5a67874f4bdeca7.png",
+        "https://telegra.ph/file/df41c30730ed2c8afd94e.png",
+        "https://telegra.ph/file/b03768221b2184de1c9c0.png",
+        "https://telegra.ph/file/2c113444fd02482dc24a1.png",
+        "https://telegra.ph/file/d4943ee9dbd406df94517.png",
+        "https://telegra.ph/file/e1915c50a30ce6b4da56f.png",
+        "https://telegra.ph/file/6574a0c157d6fc0793784.png",
+        "https://telegra.ph/file/9d32301a48c461949c06e.png",
+        "https://telegra.ph/file/9a3d9b1da99b2af6ac8b2.png",
+        "https://telegra.ph/file/e7c21ea8da09c5248aa40.png",
+        "https://telegra.ph/file/ec7c460bc44a5fba84038.png",
+        "https://telegra.ph/file/9d5c1e03cea252f68bc2b.png",
+        "https://telegra.ph/file/c47e6b558212092e5de9d.png",
+        "https://telegra.ph/file/670b8b484ff6acdb604d8.png"
+    ]
+};

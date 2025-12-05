@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3257,
+    "title": "[トーティシェル (きんく)] 種付け孤児院",
+    "sourceUrl": "https://telegra.ph/トーティシェル-きんく-種付け孤児院-08-31",
+    "images": [
+        "https://telegra.ph/file/1b0a86d484f031fcafcdf.jpg",
+        "https://telegra.ph/file/15dca7a06c93766f6de58.jpg",
+        "https://telegra.ph/file/87195f705072206a16007.jpg",
+        "https://telegra.ph/file/d10ee67369f77f1bc6aed.jpg",
+        "https://telegra.ph/file/4ba03d55b7ec637df08ef.jpg",
+        "https://telegra.ph/file/5cbda05d017e2450f54eb.jpg",
+        "https://telegra.ph/file/e15ce98d9255a776110d9.jpg",
+        "https://telegra.ph/file/dbcee8b3bc5c5129829d9.jpg",
+        "https://telegra.ph/file/734ad708133a68a839197.jpg",
+        "https://telegra.ph/file/8540be6e61bd42764b9bf.jpg",
+        "https://telegra.ph/file/5166a35c56977293993a0.jpg",
+        "https://telegra.ph/file/4280d998dad508c98c870.jpg",
+        "https://telegra.ph/file/41162af793e178d2376e7.jpg",
+        "https://telegra.ph/file/13fef053a24045d2e54e1.jpg",
+        "https://telegra.ph/file/ebb0967202059992b815b.jpg",
+        "https://telegra.ph/file/75249d2df508f82452d4b.jpg",
+        "https://telegra.ph/file/d13006d422a04f76e7656.jpg",
+        "https://telegra.ph/file/b6e760e42068bf4352d22.jpg",
+        "https://telegra.ph/file/1a81a637f3d810b90f57f.jpg",
+        "https://telegra.ph/file/fc464657008de38b18224.jpg",
+        "https://telegra.ph/file/0439e166a50826b712e6c.jpg",
+        "https://telegra.ph/file/2d831db9e35acbabdae42.jpg",
+        "https://telegra.ph/file/b10f012f227b492c33b03.jpg",
+        "https://telegra.ph/file/be96cc44d3e01d622dafe.jpg",
+        "https://telegra.ph/file/d3147936eef5460186ee0.jpg"
+    ]
+};

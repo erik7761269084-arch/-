@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 960,
+    "title": "[ピロコボ (Piro)] 駄女神様は飲み過ぎにご注意を! (この素晴らしい世界に祝福を!)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/ピロコボ-Piro-駄女神様は飲み過ぎにご注意を-この素晴らしい世界に祝福を-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/97518ebbcc787f262c41e.jpg",
+        "https://telegra.ph/file/2206268522754174730c1.jpg",
+        "https://telegra.ph/file/afe81293f2f61d7f3f065.jpg",
+        "https://telegra.ph/file/0d4ec45eac3a4128f5374.jpg",
+        "https://telegra.ph/file/5094277979b05c7dbe64f.jpg",
+        "https://telegra.ph/file/07d1ae1d795991cb1e9f8.jpg",
+        "https://telegra.ph/file/4e8e0bf7a7b069877b05c.jpg",
+        "https://telegra.ph/file/7670c19e8a067bc1a3224.jpg",
+        "https://telegra.ph/file/4dac69263fbff959d8dba.jpg",
+        "https://telegra.ph/file/3280e43bfdef39e03b2b6.jpg",
+        "https://telegra.ph/file/baf7128136d121e4e2905.jpg",
+        "https://telegra.ph/file/9b921b74ae04daa4b8c56.jpg",
+        "https://telegra.ph/file/bc4ab6d5f2d1eac3c000a.jpg",
+        "https://telegra.ph/file/19d17967b45911cc46af3.jpg",
+        "https://telegra.ph/file/055e978639d27998ba19a.jpg",
+        "https://telegra.ph/file/ddadb11088316dc6bbe9f.jpg",
+        "https://telegra.ph/file/6579d3b2492d399c8f57b.jpg",
+        "https://telegra.ph/file/fbff8671f65b3b3ae65dd.jpg",
+        "https://telegra.ph/file/f3a2f430abbec0f956f93.jpg",
+        "https://telegra.ph/file/4a5b556dd976ad93e526c.jpg",
+        "https://telegra.ph/file/0a6b3921594b3e243498e.jpg",
+        "https://telegra.ph/file/e14f54fb6576a522d2214.jpg",
+        "https://telegra.ph/file/59bfa9fcd74bca27cca7d.jpg",
+        "https://telegra.ph/file/af2362457f8d5a256a77e.jpg",
+        "https://telegra.ph/file/2c38d598e6e9482fbc6ce.jpg",
+        "https://telegra.ph/file/9514c3d81ef9b468fe9bf.jpg"
+    ]
+};

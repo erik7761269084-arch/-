@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4384,
+    "title": "[Rhasta] Pearl‘s Mentoring",
+    "sourceUrl": "https://telegra.ph/Rhasta-Pearls-Mentoring-08-31",
+    "images": [
+        "https://telegra.ph/file/553211e6b4f5eb88b741a.jpg",
+        "https://telegra.ph/file/e8f57aff9b1425cf3d94a.jpg",
+        "https://telegra.ph/file/b84197323e2a75455608f.jpg",
+        "https://telegra.ph/file/88a99296a79801da9a5ae.jpg",
+        "https://telegra.ph/file/21ae2c418ce21576916f0.jpg",
+        "https://telegra.ph/file/bc312457b7a7fe7e2bd3d.jpg",
+        "https://telegra.ph/file/4f5e107e964a373754b07.jpg",
+        "https://telegra.ph/file/7a73d6db9401cbb658a6c.jpg",
+        "https://telegra.ph/file/021dcbdec2b40385a055d.jpg",
+        "https://telegra.ph/file/1ab43abbdd8d62ddb7fff.jpg",
+        "https://telegra.ph/file/21f7b5ce9b058a797bad1.jpg",
+        "https://telegra.ph/file/bd8ca9847aa3ad8bdc364.jpg",
+        "https://telegra.ph/file/e7136ccdd50e43ce2c045.jpg",
+        "https://telegra.ph/file/0c57e21ae0172151d7706.jpg",
+        "https://telegra.ph/file/9a85e6dc4ba37388d21f9.jpg",
+        "https://telegra.ph/file/44ca1e34998da8dbf6385.jpg",
+        "https://telegra.ph/file/a0144e578b70e7a762163.jpg",
+        "https://telegra.ph/file/4827fa1da07b6864c7b03.jpg",
+        "https://telegra.ph/file/32ff8fc24a83e04901c9f.jpg",
+        "https://telegra.ph/file/9a2a01e66e73ca76b9d85.jpg",
+        "https://telegra.ph/file/7b2c8438fa185ebc4d4ad.jpg",
+        "https://telegra.ph/file/c701d9c42cd819c7c2266.jpg",
+        "https://telegra.ph/file/92ba0ae45db19df6f284e.jpg",
+        "https://telegra.ph/file/4ce1c6dff449e18629f37.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6374,
+    "title": "[白液書房 (A輝廃都)] 牝豚 ART IFLINE",
+    "sourceUrl": "https://telegra.ph/白液書房-A輝廃都-牝豚-ART-IFLINE-08-31",
+    "images": [
+        "https://telegra.ph/file/7ab8b4a71e57bd46b6599.jpg",
+        "https://telegra.ph/file/ac10e0a4028cf952d9855.jpg",
+        "https://telegra.ph/file/786a4b294a9b3ecf58697.jpg",
+        "https://telegra.ph/file/b063dbe41806b9cee1358.jpg",
+        "https://telegra.ph/file/d7f2e1aa9b4d1beb7114e.jpg",
+        "https://telegra.ph/file/d5997c7e2f62dce018dae.jpg",
+        "https://telegra.ph/file/ac41b62e32bf0e1442b8c.jpg",
+        "https://telegra.ph/file/eb3c3f3945999f0e7f4e5.jpg",
+        "https://telegra.ph/file/3c4a1ead8f59c444d3ce3.jpg",
+        "https://telegra.ph/file/3ad57e7b1c56716afdb1b.jpg",
+        "https://telegra.ph/file/2bd6facf1c16f0e77b0c3.jpg",
+        "https://telegra.ph/file/e84d23eba3bc1ec818bc7.jpg",
+        "https://telegra.ph/file/990bceb024ab37c5870a4.jpg",
+        "https://telegra.ph/file/7af8ac71f533e08e315c6.jpg",
+        "https://telegra.ph/file/212146a5c1d3ac21791e8.jpg",
+        "https://telegra.ph/file/76a48413146ab8c0f87f9.jpg",
+        "https://telegra.ph/file/b2a3f1f1e971c6b7caf06.jpg",
+        "https://telegra.ph/file/2a2fd06d7d0b67efd3809.jpg",
+        "https://telegra.ph/file/c1c23db1a96aa3347177e.jpg",
+        "https://telegra.ph/file/f67d40cb0f72ea3342f9e.jpg",
+        "https://telegra.ph/file/7bc6b7224b6322f0a793d.jpg",
+        "https://telegra.ph/file/d32455e5381d756e347de.jpg",
+        "https://telegra.ph/file/4408904cccf2d08fa8968.jpg"
+    ]
+};

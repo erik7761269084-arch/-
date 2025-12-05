@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3107,
+    "title": "[亜美寿真] かんこう (COMIC 快楽天 2020年2月号)",
+    "sourceUrl": "https://telegra.ph/亜美寿真-かんこう-COMIC-快楽天-2020年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/6310ec2ec72633900a3f7.jpg",
+        "https://telegra.ph/file/655408566425ef2b4f4c6.jpg",
+        "https://telegra.ph/file/604c865fd4c79f053b412.jpg",
+        "https://telegra.ph/file/1b1ea771d67365edf17f7.jpg",
+        "https://telegra.ph/file/cde449989497850250a49.jpg",
+        "https://telegra.ph/file/6f83d676943ea3573ac98.jpg",
+        "https://telegra.ph/file/55507fbf8599e323d1293.jpg",
+        "https://telegra.ph/file/749af7dfeadf475511add.jpg",
+        "https://telegra.ph/file/6e45f560f181f184db0fa.jpg",
+        "https://telegra.ph/file/eb957a4fd74308a889355.jpg",
+        "https://telegra.ph/file/6da469fe5ee5efe947bd1.jpg",
+        "https://telegra.ph/file/82fd6ed106b8c04bfa3af.jpg",
+        "https://telegra.ph/file/bb6582bd94496c42b56a9.jpg",
+        "https://telegra.ph/file/64b66e164b0e7f1b68a3d.jpg",
+        "https://telegra.ph/file/9fab8cb46b72cdd8dcbfe.jpg",
+        "https://telegra.ph/file/ba43c9c303fc46784c86a.jpg",
+        "https://telegra.ph/file/6df0bb8955f07d127928d.jpg",
+        "https://telegra.ph/file/d5b032a1a624f4884181d.jpg",
+        "https://telegra.ph/file/f79039d5815a536d5725a.jpg",
+        "https://telegra.ph/file/8310e1cd647d1447254e8.jpg",
+        "https://telegra.ph/file/b0f047e79048937260925.jpg",
+        "https://telegra.ph/file/14f38fd2a51f779649932.jpg",
+        "https://telegra.ph/file/f62d36404aeb45df8ba00.jpg",
+        "https://telegra.ph/file/f5dae56fad8a63ab76f8e.jpg",
+        "https://telegra.ph/file/6ee21b4dd3a5d10d0950b.jpg"
+    ]
+};

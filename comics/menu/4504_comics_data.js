@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4504,
+    "title": "[くもえもん] 借金JK姦済録 ～後編～ (カリ挿れ姦済)",
+    "sourceUrl": "https://telegra.ph/くもえもん-借金JK姦済録-後編-カリ挿れ姦済-08-31",
+    "images": [
+        "https://telegra.ph/file/b0e6229389c4cd8f46a08.jpg",
+        "https://telegra.ph/file/399d2702c6dbf3f57d644.jpg",
+        "https://telegra.ph/file/229b1812466c5bb8a4ab0.jpg",
+        "https://telegra.ph/file/e4045b6402d659f58a09a.jpg",
+        "https://telegra.ph/file/5286680934effd228110a.jpg",
+        "https://telegra.ph/file/53aff1605347156df6ace.jpg",
+        "https://telegra.ph/file/466ca19c72901a388c9ef.jpg",
+        "https://telegra.ph/file/b15129b799dd0e0a31bec.jpg",
+        "https://telegra.ph/file/2ee5d0fda1859746d45fa.jpg",
+        "https://telegra.ph/file/de69957a854b2741b99a7.jpg",
+        "https://telegra.ph/file/4196d5bdeea31d881390b.jpg",
+        "https://telegra.ph/file/34fa51112008fbfa133f9.jpg",
+        "https://telegra.ph/file/44c9db1fa724c1a0be4a0.jpg",
+        "https://telegra.ph/file/dc6015364ecde20fdb5d6.jpg",
+        "https://telegra.ph/file/2f874a502a90bb6b8fed7.jpg",
+        "https://telegra.ph/file/7244c70000c03da5cd992.jpg",
+        "https://telegra.ph/file/8496d0b7cef1b4dd88ec4.jpg",
+        "https://telegra.ph/file/4fca918700a042010e8ed.jpg",
+        "https://telegra.ph/file/cfded93d52a127af7d003.jpg",
+        "https://telegra.ph/file/5cc736e10b308de5bf8c9.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

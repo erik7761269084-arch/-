@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2308,
+    "title": "[跳馬遊鹿] 母娘と性愛 ～三人で～",
+    "sourceUrl": "https://telegra.ph/跳馬遊鹿-母娘と性愛-三人で-08-31",
+    "images": [
+        "https://telegra.ph/file/0040b3eb3adf9cc3d2891.jpg",
+        "https://telegra.ph/file/ec1391878b12be76cc91c.jpg",
+        "https://telegra.ph/file/327a539893987782218ac.jpg",
+        "https://telegra.ph/file/b34f2d168d69dc13838fe.jpg",
+        "https://telegra.ph/file/15852922f189d3a49dac7.jpg",
+        "https://telegra.ph/file/b9aafe004a78807be6165.jpg",
+        "https://telegra.ph/file/c5187684e0423dafa8796.jpg",
+        "https://telegra.ph/file/7da39c397c3b0e8747b14.jpg",
+        "https://telegra.ph/file/9d060fdbe35fa544f5245.jpg",
+        "https://telegra.ph/file/10f5fd27c5146824d33e9.jpg",
+        "https://telegra.ph/file/f746cbcfccfd400a82689.jpg",
+        "https://telegra.ph/file/b71ca89b6c5092be7b533.jpg",
+        "https://telegra.ph/file/8a0e8c6679a14c602c889.jpg",
+        "https://telegra.ph/file/b82165d70e822da53c490.jpg",
+        "https://telegra.ph/file/87065780bbb32828bc7c3.jpg",
+        "https://telegra.ph/file/b293bca59c12bd46f356b.jpg",
+        "https://telegra.ph/file/757d4e9d9d4c4cf182458.jpg",
+        "https://telegra.ph/file/85f9e03aabb82177bbf8a.jpg",
+        "https://telegra.ph/file/9cd232d2ddb6ad470b9fb.jpg",
+        "https://telegra.ph/file/9b449caddc3c6790596ca.jpg",
+        "https://telegra.ph/file/acb8e074b4750e4d28ad8.jpg",
+        "https://telegra.ph/file/0259e05ad18bf23fca9bc.jpg",
+        "https://telegra.ph/file/918802ecdef3094d9ad89.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2453,
+    "title": "[スライムイール (ヌタウナギ)] 僕と乗っ取りヴィラン膣内射精ミア Vol.2 (僕のヒーローアカデミア)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/スライムイール-ヌタウナギ-僕と乗っ取りヴィラン膣内射精ミア-Vol2-僕のヒーローアカデミア-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/a6dc60894535679996a6c.jpg",
+        "https://telegra.ph/file/d0040b4678e8390d1b01a.jpg",
+        "https://telegra.ph/file/dd8570763326f53f348c5.jpg",
+        "https://telegra.ph/file/e25145c00fa0be85c3b20.jpg",
+        "https://telegra.ph/file/47c71033935991af3931f.jpg",
+        "https://telegra.ph/file/2c747154c09e4122f66b9.jpg",
+        "https://telegra.ph/file/c7c79516089c47472fac4.jpg",
+        "https://telegra.ph/file/fdcfddd6035fb113ad557.jpg",
+        "https://telegra.ph/file/2539cceb61f544af1b1b0.jpg",
+        "https://telegra.ph/file/8076283432a3574f89712.jpg",
+        "https://telegra.ph/file/a6741b325857bd7f8f3c9.jpg",
+        "https://telegra.ph/file/43b133a3bfd6192b0d6b9.jpg",
+        "https://telegra.ph/file/6f0f9f70e73908087c5d5.jpg",
+        "https://telegra.ph/file/0fc9c621c4e80285ea58c.jpg",
+        "https://telegra.ph/file/5e6ca4a86278c69a68a89.jpg",
+        "https://telegra.ph/file/18676e58b3fa94f367089.jpg",
+        "https://telegra.ph/file/567375a799b2101074845.jpg",
+        "https://telegra.ph/file/df9a1547efa4504b4f63e.jpg",
+        "https://telegra.ph/file/24052d33069806b8a04e8.jpg",
+        "https://telegra.ph/file/f12c22e00274a1efd49ce.jpg",
+        "https://telegra.ph/file/c05cf4d7a7e0e50677bb6.jpg",
+        "https://telegra.ph/file/ec2bef3df630d7fa66be7.jpg",
+        "https://telegra.ph/file/292c763a794e58d79d5ad.jpg",
+        "https://telegra.ph/file/a1f31a63dedbc6ed030c4.jpg"
+    ]
+};

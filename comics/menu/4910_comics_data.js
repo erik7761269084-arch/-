@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4910,
+    "title": "(COMIC1☆8) [オザ式 (砂川多良)] 俺専用秘書 (ガンダムビルドファイターズ)",
+    "sourceUrl": "https://telegra.ph/COMIC18-オザ式-砂川多良-俺専用秘書-ガンダムビルドファイターズ-08-31",
+    "images": [
+        "https://telegra.ph/file/99194dc56691d2e430904.jpg",
+        "https://telegra.ph/file/ffd43b4b7e34a75a3d406.jpg",
+        "https://telegra.ph/file/b9078379184aa8e12ef97.jpg",
+        "https://telegra.ph/file/87e6a000163985b69c7d1.jpg",
+        "https://telegra.ph/file/53106eef17a60f4aa729d.jpg",
+        "https://telegra.ph/file/2a816d189ac4cfe485a81.jpg",
+        "https://telegra.ph/file/8cdadc12c0322a36fb300.jpg",
+        "https://telegra.ph/file/46cd6687caa7d9909b9e8.jpg",
+        "https://telegra.ph/file/c4d3119c4bb8ad4f332b6.jpg",
+        "https://telegra.ph/file/324a075a2b6ef1e73075c.jpg",
+        "https://telegra.ph/file/08199e00bc920891c0ec8.jpg",
+        "https://telegra.ph/file/c4dc59b8ea75855ae1638.jpg",
+        "https://telegra.ph/file/1f6fa87a01f5216026af6.jpg",
+        "https://telegra.ph/file/ce74ce69024519c6e523b.jpg",
+        "https://telegra.ph/file/2e42d8b61b1b3a8d5b0b6.jpg",
+        "https://telegra.ph/file/0089b72e781ebfe19222b.jpg",
+        "https://telegra.ph/file/710c0f5cb4069d5bae68c.jpg",
+        "https://telegra.ph/file/952663f0b50ea1f429cb0.jpg",
+        "https://telegra.ph/file/f93d106a701cd4a2b43b5.jpg",
+        "https://telegra.ph/file/4d9af4fff4ff8dfaa4056.jpg",
+        "https://telegra.ph/file/693bdb235937308eeb9fb.jpg",
+        "https://telegra.ph/file/218ea83cccef21bb80fd3.jpg",
+        "https://telegra.ph/file/625ed2af42cc44eb31baf.jpg",
+        "https://telegra.ph/file/5e90c88005859e877f123.png",
+        "https://telegra.ph/file/0fa89194a7c4d473c6d6c.jpg"
+    ]
+};

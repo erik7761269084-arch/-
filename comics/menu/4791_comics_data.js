@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4791,
+    "title": "[逆又練物] ヒプノブリンク 14 (コミック Mate legend Vol.39 2021年6月号)",
+    "sourceUrl": "https://telegra.ph/逆又練物-ヒプノブリンク-14-コミック-Mate-legend-Vol39-2021年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a28a23bf4e5332e1e2337.jpg",
+        "https://telegra.ph/file/b1ff2ca1d08cb579d769d.jpg",
+        "https://telegra.ph/file/96bfa6b55dc268c8ed986.jpg",
+        "https://telegra.ph/file/04876853697ad6afec726.jpg",
+        "https://telegra.ph/file/fa2eaec56c79def33c2f7.jpg",
+        "https://telegra.ph/file/6174e433574ad38928289.jpg",
+        "https://telegra.ph/file/8d34ba0dea7d5c60b50ea.jpg",
+        "https://telegra.ph/file/831c137cbc34c95c6629e.jpg",
+        "https://telegra.ph/file/84bc712529b557500a8a2.jpg",
+        "https://telegra.ph/file/92129adf92ae0f3a93828.jpg",
+        "https://telegra.ph/file/512a2643db494b1f59db6.jpg",
+        "https://telegra.ph/file/1f7f914560520f51bb0b9.jpg",
+        "https://telegra.ph/file/6e716e4237a07b57eb365.jpg",
+        "https://telegra.ph/file/53693b39910cab46cbd24.jpg",
+        "https://telegra.ph/file/5dc8626f35baba13bde34.jpg",
+        "https://telegra.ph/file/ea298dbb3639e7d2ffa3b.jpg",
+        "https://telegra.ph/file/21f61e96534d449c5015b.jpg",
+        "https://telegra.ph/file/092a353a6e3124097f865.jpg",
+        "https://telegra.ph/file/92a200cf90c9c72ee5b13.jpg",
+        "https://telegra.ph/file/328f4709131fa2338ac6f.jpg",
+        "https://telegra.ph/file/9ca750e9340664c1ea8f9.jpg",
+        "https://telegra.ph/file/e5a14eaf7627d3fbbdbe9.jpg",
+        "https://telegra.ph/file/28291c332de0c4594d662.jpg",
+        "https://telegra.ph/file/d8726a8039b25ebd71541.jpg"
+    ]
+};

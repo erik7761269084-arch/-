@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7386,
+    "title": "キミの目を惹きたい",
+    "sourceUrl": "https://telegra.ph/キミの目を惹きたい-08-31",
+    "images": [
+        "https://telegra.ph/file/bce24f35d8bf1a8b46424.jpg",
+        "https://telegra.ph/file/f9b084e2a0156972c689a.jpg",
+        "https://telegra.ph/file/ad41099f4dca7359e6847.jpg",
+        "https://telegra.ph/file/488c9bc957d2fbaeb7cd6.jpg",
+        "https://telegra.ph/file/71d6da8afeaddf93df55c.jpg",
+        "https://telegra.ph/file/cc83d539f3a46208339b8.jpg",
+        "https://telegra.ph/file/d4d529965593237afd592.jpg",
+        "https://telegra.ph/file/ef7e48f43f42f7c5a25cc.jpg",
+        "https://telegra.ph/file/aed8e08e8595a2d11e135.jpg",
+        "https://telegra.ph/file/adbfbf390b4dcd5661bda.jpg",
+        "https://telegra.ph/file/af6d5b13a7dc1619851ad.jpg",
+        "https://telegra.ph/file/2f340b332d710d7e48dd6.jpg",
+        "https://telegra.ph/file/a179fc18164eb3f448374.jpg",
+        "https://telegra.ph/file/db51d3043ce7ea07104a8.jpg",
+        "https://telegra.ph/file/180bad247391cef76d9ef.jpg",
+        "https://telegra.ph/file/f9bc01b8f63cc79e48c42.jpg",
+        "https://telegra.ph/file/0d9c37f00d24b0c33fdf3.jpg",
+        "https://telegra.ph/file/7b8b2d04130e93dbd3c0b.jpg",
+        "https://telegra.ph/file/fda69c812cd69f2b3b11e.jpg",
+        "https://telegra.ph/file/407d00e9377281fddea82.jpg",
+        "https://telegra.ph/file/9a165b53579085fca822a.jpg",
+        "https://telegra.ph/file/f276d6866614a382d2846.jpg",
+        "https://telegra.ph/file/96aa3b8dff44cc8187022.jpg",
+        "https://telegra.ph/file/e5f8a457f5847614fe4c7.jpg"
+    ]
+};

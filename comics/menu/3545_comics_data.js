@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3545,
+    "title": "[きい] つめたい雨、やさしい君 (群青ノイズ)",
+    "sourceUrl": "https://telegra.ph/きい-つめたい雨やさしい君-群青ノイズ-08-31",
+    "images": [
+        "https://telegra.ph/file/834b63b96caf8a767d8d5.png",
+        "https://telegra.ph/file/3c136cb3d79331e2a3b39.png",
+        "https://telegra.ph/file/3e6be3bc3ede4d4673ba5.png",
+        "https://telegra.ph/file/33c6cf832da64467da6c9.png",
+        "https://telegra.ph/file/0169f66a49f416c94999b.png",
+        "https://telegra.ph/file/46908359e40f8ce08fa87.png",
+        "https://telegra.ph/file/feb9dfcbe5bbe60b7b56c.png",
+        "https://telegra.ph/file/fd572c34a0f111def59f8.png",
+        "https://telegra.ph/file/20d2b02534f82ed1b3960.png",
+        "https://telegra.ph/file/5a85c501da9c0cd638421.jpg",
+        "https://telegra.ph/file/d7e0fd33b551fa315e4e4.jpg",
+        "https://telegra.ph/file/88215cd2c29ac07f329fa.png",
+        "https://telegra.ph/file/9c237e7cc2ff86db2642a.jpg",
+        "https://telegra.ph/file/60d6c3ef79f289aaff4cd.png",
+        "https://telegra.ph/file/066f827fe1bf0452d95d6.png",
+        "https://telegra.ph/file/25c90b08f03fc058ed5b8.png",
+        "https://telegra.ph/file/420b1b2c04fdd5994289e.png",
+        "https://telegra.ph/file/c0839dc8e78a3b361f25c.png",
+        "https://telegra.ph/file/d1e6839c721cb6dd6f33b.jpg",
+        "https://telegra.ph/file/d76ab6b7bea6d70c7b905.jpg",
+        "https://telegra.ph/file/18a4f46dd95d0f154315f.jpg",
+        "https://telegra.ph/file/43a233e49c19becb92738.jpg",
+        "https://telegra.ph/file/d35216f9de10d501da5b2.jpg"
+    ]
+};

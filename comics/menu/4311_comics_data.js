@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4311,
+    "title": "[満開開花] 巫女バイト中にお小遣い稼ぎに輪姦される委員長",
+    "sourceUrl": "https://telegra.ph/満開開花-巫女バイト中にお小遣い稼ぎに輪姦される委員長-08-31",
+    "images": [
+        "https://telegra.ph/file/eefd0c03afc0a606f4a04.jpg",
+        "https://telegra.ph/file/c5c5667135b9fd5d6fde0.jpg",
+        "https://telegra.ph/file/2c4441579a92da168cb6b.jpg",
+        "https://telegra.ph/file/ab05a2b5c38ff00eb7b65.jpg",
+        "https://telegra.ph/file/f3460cb8efe9027453bfd.jpg",
+        "https://telegra.ph/file/53cef8e262ee520f3d96b.jpg",
+        "https://telegra.ph/file/e9e9ba0f759def3e0c922.jpg",
+        "https://telegra.ph/file/c1dba0fcdf1dad88e940e.jpg",
+        "https://telegra.ph/file/6d699206e8800610d74ce.jpg",
+        "https://telegra.ph/file/391110727e8d532a7369d.jpg",
+        "https://telegra.ph/file/04bb7282fe0877775be03.jpg",
+        "https://telegra.ph/file/314fa43fbc288570b1bdb.jpg",
+        "https://telegra.ph/file/eec444f1acd7fef53b4d3.jpg",
+        "https://telegra.ph/file/8cc886bdf7536484cb6e5.jpg",
+        "https://telegra.ph/file/a78933bc1d1e0f97ac376.jpg",
+        "https://telegra.ph/file/35153b61e17da31e60229.jpg",
+        "https://telegra.ph/file/807cb4386c95e1e6b9f3f.jpg",
+        "https://telegra.ph/file/7432fa084d548aff32a10.jpg",
+        "https://telegra.ph/file/dff6245aec5a01962c529.jpg",
+        "https://telegra.ph/file/7869afd6ee77252e08342.jpg",
+        "https://telegra.ph/file/12f11869073f9e588f00f.jpg",
+        "https://telegra.ph/file/8f44cafc76adaa7e1472c.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1773,
+    "title": "(C99) [花尾娼家 (柳瀬こたつ)] この本に本番行為は一切ありません (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-花尾娼家-柳瀬こたつ-この本に本番行為は一切ありません-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/f795b419a75934d5ed932.jpg",
+        "https://telegra.ph/file/ec154366c49147ec117b4.jpg",
+        "https://telegra.ph/file/f80fb607b77c17f02cb52.jpg",
+        "https://telegra.ph/file/c61ebc65a1722196f203d.jpg",
+        "https://telegra.ph/file/62ec8058363e46545fb6f.jpg",
+        "https://telegra.ph/file/2617cd18405b2e3e2c6fe.jpg",
+        "https://telegra.ph/file/c05fd22b6f8daa6077243.jpg",
+        "https://telegra.ph/file/1fc989718075e1d48e564.jpg",
+        "https://telegra.ph/file/6a8cf3749080db1eb8dd3.jpg",
+        "https://telegra.ph/file/0b84aca2586b0628ba47c.jpg",
+        "https://telegra.ph/file/0e5a0e72023fb4ea9a0e4.jpg",
+        "https://telegra.ph/file/475098290105826711b23.jpg",
+        "https://telegra.ph/file/f0e1a5fb981d8bc4a82f6.jpg",
+        "https://telegra.ph/file/fec8c7382a2f2eba7d400.jpg",
+        "https://telegra.ph/file/c29259efff9443bbd376f.jpg",
+        "https://telegra.ph/file/87e1c0150b4a0b7313d55.jpg",
+        "https://telegra.ph/file/d2409bd308081623b76b4.jpg",
+        "https://telegra.ph/file/e9659f683be057f78df1d.jpg",
+        "https://telegra.ph/file/595d0ae842ec7346f0640.jpg",
+        "https://telegra.ph/file/c4f37c1593189e963e2e3.jpg",
+        "https://telegra.ph/file/25b55d19443840aaa6588.jpg",
+        "https://telegra.ph/file/2d9db5ec2a35f98cc6fb4.jpg",
+        "https://telegra.ph/file/c89010dd79726944a0715.jpg",
+        "https://telegra.ph/file/61347f1e5dc9b711b8ebb.jpg"
+    ]
+};

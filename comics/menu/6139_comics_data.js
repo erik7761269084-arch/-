@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6139,
+    "title": "[田辺京] プチ♥ビッチ",
+    "sourceUrl": "https://telegra.ph/田辺京-プチビッチ-08-31",
+    "images": [
+        "https://telegra.ph/file/7e5338462b280cec32803.png",
+        "https://telegra.ph/file/993158f2e06c61c93a5a1.png",
+        "https://telegra.ph/file/5a4af8f9145a2d503cb3a.png",
+        "https://telegra.ph/file/7128b70bd8e09a4a0d973.png",
+        "https://telegra.ph/file/2813a8c5750468e76f4be.png",
+        "https://telegra.ph/file/50ae219aad16edc6259ad.png",
+        "https://telegra.ph/file/bfedb8c264f1f24204499.png",
+        "https://telegra.ph/file/9815b774b04510732d221.png",
+        "https://telegra.ph/file/65adb7eda1dba6a708295.png",
+        "https://telegra.ph/file/fa807c33728e2f35a906b.png",
+        "https://telegra.ph/file/5992b6fac963270b16379.png",
+        "https://telegra.ph/file/cc08d85417454f03750cc.png",
+        "https://telegra.ph/file/749fbc96e85904b412afc.png",
+        "https://telegra.ph/file/ab798b3a07866f6841219.png",
+        "https://telegra.ph/file/eb351012e88516f71feb5.png",
+        "https://telegra.ph/file/7a281d576d3b8428e8cbf.png",
+        "https://telegra.ph/file/d9dc98bff1699aae5b88f.png",
+        "https://telegra.ph/file/936f3d578c920f77fd651.png",
+        "https://telegra.ph/file/32f64981b3c9ec3c136b5.png",
+        "https://telegra.ph/file/8e5de0b0ffad9073e0f28.png",
+        "https://telegra.ph/file/a588bdfdbcb0c5b36b769.png",
+        "https://telegra.ph/file/d19599fc207ac16cd0b92.png",
+        "https://telegra.ph/file/0501045ed97fadeb6fa9a.png",
+        "https://telegra.ph/file/c8e6a60c7bc6c89bf2abc.png"
+    ]
+};

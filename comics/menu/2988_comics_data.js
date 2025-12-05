@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2988,
+    "title": "[kakao] メタモルフォーゼ (COMIC 快楽天ビースト 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/kakao-メタモルフォーゼ-COMIC-快楽天ビースト-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/220ce9881cd2f0d97c460.jpg",
+        "https://telegra.ph/file/d9406ae5e6aaa700bf8ed.jpg",
+        "https://telegra.ph/file/0ef3c436c542a59a54c7d.jpg",
+        "https://telegra.ph/file/d4f6c8ca6f682fa45b771.jpg",
+        "https://telegra.ph/file/779a2aa02ad5c88481ef2.jpg",
+        "https://telegra.ph/file/f7c57b0f0be271cb5a431.jpg",
+        "https://telegra.ph/file/3464272ecc27b768cd803.jpg",
+        "https://telegra.ph/file/cd33d87eb2063fe89e2fb.jpg",
+        "https://telegra.ph/file/148694388544f114fb7fb.jpg",
+        "https://telegra.ph/file/5578e86099044e6b4491b.jpg",
+        "https://telegra.ph/file/cbfd80ad4e159473fac27.jpg",
+        "https://telegra.ph/file/d3267ff0c9b934d640807.jpg",
+        "https://telegra.ph/file/6204f6d40596193c7c879.jpg",
+        "https://telegra.ph/file/de41f42906f2a98c38755.jpg",
+        "https://telegra.ph/file/4869441ede525b0ca38fa.jpg",
+        "https://telegra.ph/file/58413f7398c5a66f075c0.jpg",
+        "https://telegra.ph/file/1dfc7d3737053acba19b4.jpg",
+        "https://telegra.ph/file/abb4277a251d9b136ca1e.jpg",
+        "https://telegra.ph/file/3efc824ac9fdba47b4091.jpg",
+        "https://telegra.ph/file/5942ef0b87263f8c87df8.jpg",
+        "https://telegra.ph/file/37fb7c8825d93f046e6fa.jpg",
+        "https://telegra.ph/file/416d3e7784e7a0bd627e7.jpg",
+        "https://telegra.ph/file/e449e9a9d021815dd4568.jpg",
+        "https://telegra.ph/file/e3e65188627e86f884d05.jpg",
+        "https://telegra.ph/file/d35216f9de10d501da5b2.jpg",
+        "https://telegra.ph/file/ac7e273720ba4fe128e33.png"
+    ]
+};

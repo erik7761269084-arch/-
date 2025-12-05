@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1841,
+    "title": "[かに村えびお] 愛Doll堕とし (COMIC グーチョ vol.3)",
+    "sourceUrl": "https://telegra.ph/かに村えびお-愛Doll堕とし-COMIC-グーチョ-vol3-08-31",
+    "images": [
+        "https://telegra.ph/file/2951e190bd30adeaf21c0.jpg",
+        "https://telegra.ph/file/2a73bf3f4b0f3abbc63f1.jpg",
+        "https://telegra.ph/file/bdc5c5d41ef2442d32bee.jpg",
+        "https://telegra.ph/file/8aa1edfdf991ef946800a.jpg",
+        "https://telegra.ph/file/2ae98620bdaab5df5d12a.jpg",
+        "https://telegra.ph/file/27786473b760fee64600c.jpg",
+        "https://telegra.ph/file/b3554299c53bfa1ef735a.jpg",
+        "https://telegra.ph/file/450da1701af5a9185def7.jpg",
+        "https://telegra.ph/file/bdd2532b1971b2f12ac43.jpg",
+        "https://telegra.ph/file/ceb2c2770cdd3d00d641c.jpg",
+        "https://telegra.ph/file/4468e7ebcdd3dd1fe35ae.jpg",
+        "https://telegra.ph/file/20bdd45ea3529e6033e93.jpg",
+        "https://telegra.ph/file/03c54a5a24def0d2f3d01.jpg",
+        "https://telegra.ph/file/1bc9558feb96393934ede.jpg",
+        "https://telegra.ph/file/3a693819f21bba3ca5609.jpg",
+        "https://telegra.ph/file/0b384c3b445d334858c26.jpg",
+        "https://telegra.ph/file/0456985e5f4f79731221d.jpg",
+        "https://telegra.ph/file/e14efbcb6727b8a0bea40.jpg",
+        "https://telegra.ph/file/0ffb9e47d63bab1c88383.jpg",
+        "https://telegra.ph/file/10ece661e3d85c4128bdc.jpg",
+        "https://telegra.ph/file/0c3eb901f7af00d8a5b5c.jpg",
+        "https://telegra.ph/file/13df4ed8a6b1af5678978.jpg",
+        "https://telegra.ph/file/b1db832438d5dca399fad.jpg",
+        "https://telegra.ph/file/01e575fb0eed476e55b0b.jpg",
+        "https://telegra.ph/file/d762a4ee1f14f9b558735.jpg",
+        "https://telegra.ph/file/33e0f01675a3ee92e46b4.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6308,
+    "title": "[彩社長] 若者と至",
+    "sourceUrl": "https://telegra.ph/彩社長-若者と至-08-31",
+    "images": [
+        "https://telegra.ph/file/19f84f51ab84bbfd15293.jpg",
+        "https://telegra.ph/file/a096f95adcd4e478521ea.jpg",
+        "https://telegra.ph/file/d93fb65cb655b9002cb0b.jpg",
+        "https://telegra.ph/file/85906239c59419ecf1c4a.jpg",
+        "https://telegra.ph/file/dc0cfd9aaeddcf6db0a40.jpg",
+        "https://telegra.ph/file/055b9fd5f91c54e90e2a3.jpg",
+        "https://telegra.ph/file/bdc011c57e1d737a00d56.jpg",
+        "https://telegra.ph/file/130ee9c1e1deb2092c407.jpg",
+        "https://telegra.ph/file/5a2e36d285b80b0a30d33.jpg",
+        "https://telegra.ph/file/0be439ad7abd6b78b9a41.jpg",
+        "https://telegra.ph/file/955ff61b06d997876143e.jpg",
+        "https://telegra.ph/file/77ea39fd98b2a75ee7947.jpg",
+        "https://telegra.ph/file/d3d5fca5e6b6b4b83bfde.jpg",
+        "https://telegra.ph/file/0d024b37c2218983b6d6f.jpg",
+        "https://telegra.ph/file/e597a8d443a0082753097.jpg",
+        "https://telegra.ph/file/758527da9770bd8c338ac.jpg",
+        "https://telegra.ph/file/86d5f013bb9aaa3ee3dc4.jpg",
+        "https://telegra.ph/file/d9aad874634ba6e6e893f.jpg",
+        "https://telegra.ph/file/95e6cb10f0e17a286657f.jpg",
+        "https://telegra.ph/file/db8f428d05c3fefb7dee3.jpg",
+        "https://telegra.ph/file/b42e0509847babd218bb5.jpg",
+        "https://telegra.ph/file/24fa8967f2acd72d3c974.jpg",
+        "https://telegra.ph/file/be4b94faa75b9d9f10b5e.png",
+        "https://telegra.ph/file/f5808959b449219b1b7ca.jpg"
+    ]
+};

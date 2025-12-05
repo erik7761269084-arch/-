@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7224,
+    "title": "甥っ子を預かってみた！",
+    "sourceUrl": "https://telegra.ph/甥っ子を預かってみた-08-31",
+    "images": [
+        "https://telegra.ph/file/b5ccd5ce12752442b65ef.jpg",
+        "https://telegra.ph/file/c835770f77affc4ec55d7.jpg",
+        "https://telegra.ph/file/3c53d95faeb55ca7c0018.jpg",
+        "https://telegra.ph/file/c631db1c11c7c83341871.jpg",
+        "https://telegra.ph/file/506f5311dbe6023fcd35a.jpg",
+        "https://telegra.ph/file/eafbe475ea35ad605d46e.jpg",
+        "https://telegra.ph/file/d0e03e8bcff1f1455aaba.jpg",
+        "https://telegra.ph/file/934c257dd3cfee25e65bb.jpg",
+        "https://telegra.ph/file/93577541e863dbe9f0821.jpg",
+        "https://telegra.ph/file/c8db88d185019d20f68dd.jpg",
+        "https://telegra.ph/file/0e67a3bd1976a1af43413.jpg",
+        "https://telegra.ph/file/0797a78d3754c7fd8c4f1.jpg",
+        "https://telegra.ph/file/da9ed5d63da39eff8f252.jpg",
+        "https://telegra.ph/file/22d7b6837fc8e5ba5fc7a.jpg",
+        "https://telegra.ph/file/1c2a50b814e30b4afb49c.jpg",
+        "https://telegra.ph/file/9c0d7b4ae60deb33cfe88.jpg",
+        "https://telegra.ph/file/d95f5d35321fa33220414.jpg",
+        "https://telegra.ph/file/0cd14407104957760d79a.jpg",
+        "https://telegra.ph/file/cf2af3b4b98f166a6673f.jpg",
+        "https://telegra.ph/file/c8f126c8390a30a899faa.jpg",
+        "https://telegra.ph/file/27177d48f928b20d559f5.jpg",
+        "https://telegra.ph/file/13b33e7f94b213f59bf77.jpg",
+        "https://telegra.ph/file/5aff5db1fd738eaf78b80.jpg",
+        "https://telegra.ph/file/7de0bf667b80e2d404e89.jpg"
+    ]
+};

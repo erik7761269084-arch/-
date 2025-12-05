@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6868,
+    "title": "少女悲惨録",
+    "sourceUrl": "https://telegra.ph/少女悲惨録-08-31",
+    "images": [
+        "https://telegra.ph/file/43e3f9d846d489f6527f5.png",
+        "https://telegra.ph/file/c908aa6a8afc6e4ab73d3.png",
+        "https://telegra.ph/file/a19e3fb467832c8a92664.png",
+        "https://telegra.ph/file/d3e85b39c29d284bce476.png",
+        "https://telegra.ph/file/63c45080829f07e1f6f0d.png",
+        "https://telegra.ph/file/59649aeb0a1e037b33187.png",
+        "https://telegra.ph/file/92a84ca2d6e3d80721658.png",
+        "https://telegra.ph/file/cb0d90246d2b470dea1f3.png",
+        "https://telegra.ph/file/d9c4780e19b19a39abfcb.png",
+        "https://telegra.ph/file/fec8636edb7b0a5f46f81.png",
+        "https://telegra.ph/file/8dd5d02507b5d268ff3cd.png",
+        "https://telegra.ph/file/9c3deb2303292d7d25550.png",
+        "https://telegra.ph/file/ce66ea79ca3ca8a656ef7.png",
+        "https://telegra.ph/file/3aa2458c917d742b6826d.png",
+        "https://telegra.ph/file/1a4fd84f12f752c1e06c9.png",
+        "https://telegra.ph/file/fa0fa7af80d87086316d1.png",
+        "https://telegra.ph/file/df267b9bb059453cb916e.png",
+        "https://telegra.ph/file/9d1ca69a7927aa5354050.png",
+        "https://telegra.ph/file/067852f40c7b2599cc177.png",
+        "https://telegra.ph/file/5b4238bf2a7836efbcf4b.png",
+        "https://telegra.ph/file/6044d7f1d6541913031cf.png",
+        "https://telegra.ph/file/d56d1d1572247b7da1edb.png",
+        "https://telegra.ph/file/063168ba359adfa5bba31.png",
+        "https://telegra.ph/file/1236f2282d1696d8cf7f4.png"
+    ]
+};

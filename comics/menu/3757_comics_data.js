@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3757,
+    "title": "[半里バード] サースティーラブ (COMIC 快楽天ビースト 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/半里バード-サースティーラブ-COMIC-快楽天ビースト-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c1f2034b825317dd4eb41.jpg",
+        "https://telegra.ph/file/cb0466ca2d374009bf80c.jpg",
+        "https://telegra.ph/file/4752e9604a4dd8d087497.jpg",
+        "https://telegra.ph/file/5f372333b668144943586.jpg",
+        "https://telegra.ph/file/0a189d89319eaccde6ec0.jpg",
+        "https://telegra.ph/file/f98dd26e5123bafe657b0.jpg",
+        "https://telegra.ph/file/8b347fbe3d90fabef819d.jpg",
+        "https://telegra.ph/file/299be3ade0e94fb58e078.jpg",
+        "https://telegra.ph/file/755be18e842fcb33f6341.jpg",
+        "https://telegra.ph/file/ed6ae7e1d554404eb4cec.jpg",
+        "https://telegra.ph/file/e99344369b6d8e4d006d0.jpg",
+        "https://telegra.ph/file/7cb9ebf786ae578a5394b.jpg",
+        "https://telegra.ph/file/f0cac7ed52cd45fdee852.jpg",
+        "https://telegra.ph/file/a40f0ee743302018418ed.jpg",
+        "https://telegra.ph/file/921b469943a8313783ee2.jpg",
+        "https://telegra.ph/file/0fe4df466238a376fe026.jpg",
+        "https://telegra.ph/file/29868281faddf7c0902f3.jpg",
+        "https://telegra.ph/file/7d09f3cdd73738dd25a3e.jpg",
+        "https://telegra.ph/file/79b2e42534433960ca301.jpg",
+        "https://telegra.ph/file/a61963f4c9a106d00fb07.jpg",
+        "https://telegra.ph/file/c5ddd35b7473cf3d33c28.jpg",
+        "https://telegra.ph/file/c22de99ff3b23d9a56be7.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ]
+};

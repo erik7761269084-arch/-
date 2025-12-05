@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3468,
+    "title": "[龍之咲 (全紅白子)] ザラの性福セット (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/龍之咲-全紅白子-ザラの性福セット-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/eb3b8604c2acae0453314.jpg",
+        "https://telegra.ph/file/80c1987536da2bba1e8df.jpg",
+        "https://telegra.ph/file/bde8135ab064d65965ec9.jpg",
+        "https://telegra.ph/file/9d9a870b131f1727a9c94.jpg",
+        "https://telegra.ph/file/d9a2a36a7506be9255162.jpg",
+        "https://telegra.ph/file/7fd72742bebb4988c1327.jpg",
+        "https://telegra.ph/file/28163a2cc713645cfa22e.jpg",
+        "https://telegra.ph/file/47335d7c5f282ac0d93ba.jpg",
+        "https://telegra.ph/file/2a2726bf24af4332e6ec9.jpg",
+        "https://telegra.ph/file/478d07336ce175f91c642.jpg",
+        "https://telegra.ph/file/2fa14aa39cfe3aae46fce.jpg",
+        "https://telegra.ph/file/7a27ecef6bb03fb98a4ee.jpg",
+        "https://telegra.ph/file/77587fb32d3ea8e24d673.jpg",
+        "https://telegra.ph/file/e8efa627398cdc96a2b6b.jpg",
+        "https://telegra.ph/file/d8a43fd4ea8308d0cc3c3.jpg",
+        "https://telegra.ph/file/0e1dd8e8ed9c1e554556f.jpg",
+        "https://telegra.ph/file/230500e3fffccb8bcd631.jpg",
+        "https://telegra.ph/file/2ba176377a6f71c9073eb.jpg",
+        "https://telegra.ph/file/71c901ba0cb74f47b96f5.jpg",
+        "https://telegra.ph/file/cbaf2bf72e98f63bc9352.jpg",
+        "https://telegra.ph/file/a57ae1d72047c4e011d2c.jpg",
+        "https://telegra.ph/file/fd33703e6c5fe7185d730.jpg",
+        "https://telegra.ph/file/0390605f01d3c8510ce16.jpg",
+        "https://telegra.ph/file/9dc1a77715e76ed846fb4.jpg",
+        "https://telegra.ph/file/4af542366966c754811db.jpg",
+        "https://telegra.ph/file/405f9ac819c7dfc3dc144.jpg"
+    ]
+};

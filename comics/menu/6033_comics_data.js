@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6033,
+    "title": "[strelka] ポッキチヌッコ島へようこそ！",
+    "sourceUrl": "https://telegra.ph/strelka-ポッキチヌッコ島へようこそ-08-31",
+    "images": [
+        "https://telegra.ph/file/c226c58b68e079cd838cc.jpg",
+        "https://telegra.ph/file/7803d58b547ab825d59c2.jpg",
+        "https://telegra.ph/file/bae3b371338602ddaecba.jpg",
+        "https://telegra.ph/file/2b08c790e18977b5d8c8e.jpg",
+        "https://telegra.ph/file/708d0db09e0a23b27c149.jpg",
+        "https://telegra.ph/file/97441071f0fd65671881c.jpg",
+        "https://telegra.ph/file/991a2b52a542d10beaa28.jpg",
+        "https://telegra.ph/file/db2877920331a7f2b14ba.jpg",
+        "https://telegra.ph/file/88ce743672b2724ddeeb8.jpg",
+        "https://telegra.ph/file/c938535aaeddeb625ad3a.jpg",
+        "https://telegra.ph/file/cbb5f0b405702ce8a168f.jpg",
+        "https://telegra.ph/file/5f33df57ccc81a7e9215f.jpg",
+        "https://telegra.ph/file/1097d56c8e235acd0e09a.jpg",
+        "https://telegra.ph/file/9d2012459ec6e3fbd3e7a.jpg",
+        "https://telegra.ph/file/dadecd243c13656640352.jpg",
+        "https://telegra.ph/file/fcf31b525ca16761f4220.jpg",
+        "https://telegra.ph/file/a760de968150f3bf42b36.jpg",
+        "https://telegra.ph/file/00a67c3a7d27634208e02.jpg",
+        "https://telegra.ph/file/ea7a9ee2caa91721992f2.jpg",
+        "https://telegra.ph/file/248770baa01fd9254fac4.jpg",
+        "https://telegra.ph/file/b0ee7c469cc387e7550b5.jpg",
+        "https://telegra.ph/file/90a84ec8728d7b6a75a3e.jpg",
+        "https://telegra.ph/file/6065929cc939d0c6eb0f7.jpg",
+        "https://telegra.ph/file/c69c1a89fcb96f6cc2867.jpg"
+    ]
+};

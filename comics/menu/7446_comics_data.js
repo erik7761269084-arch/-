@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7446,
+    "title": "恋にならない",
+    "sourceUrl": "https://telegra.ph/恋にならない-08-31",
+    "images": [
+        "https://telegra.ph/file/2a5ab539dfe1fde0e1f25.png",
+        "https://telegra.ph/file/172c15657f1b5c78a0dcf.png",
+        "https://telegra.ph/file/3ff645d6e64990475d9be.png",
+        "https://telegra.ph/file/59398127c663a02a4918f.png",
+        "https://telegra.ph/file/7dcdabeb0ddbe96296caa.png",
+        "https://telegra.ph/file/83f751184a67699228a61.png",
+        "https://telegra.ph/file/3f46dda55f87325f2ba01.png",
+        "https://telegra.ph/file/282035e9e367f8dc50259.png",
+        "https://telegra.ph/file/d421b3f2b741ceddd6cb6.png",
+        "https://telegra.ph/file/21ad8ef27a85429eecb1a.png",
+        "https://telegra.ph/file/547ccf974202f22a9f036.png",
+        "https://telegra.ph/file/e95eabd8ea1da7f03e426.png",
+        "https://telegra.ph/file/13c6c54d73d1b3beb614e.png",
+        "https://telegra.ph/file/0c16e293125f485128e60.png",
+        "https://telegra.ph/file/fff8356d931e9f3eaf476.png",
+        "https://telegra.ph/file/06831765cf4bdc86eb9d8.png",
+        "https://telegra.ph/file/56774c05bb363f3897d80.png",
+        "https://telegra.ph/file/383f374a87377a91de689.png",
+        "https://telegra.ph/file/8e9bb8e207fe370da0141.png",
+        "https://telegra.ph/file/9784ef6b8752769d6019b.png",
+        "https://telegra.ph/file/fda719bb3029a9a505672.png",
+        "https://telegra.ph/file/5f925bdf4cb08d17b0a8c.png",
+        "https://telegra.ph/file/fe30b842a07c434a485ba.png",
+        "https://telegra.ph/file/7bca7d7052c4d30fe883a.png"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 65,
+    "title": "[Hamao] かわいいひと (COMIC 快楽天 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/Hamao-かわいいひと-COMIC-快楽天-2022年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/37636718f4ffbfb4fad79.jpg",
+        "https://telegra.ph/file/f7ba1b2f38d5ea9547c4a.jpg",
+        "https://telegra.ph/file/f7f6d45f3d1c0d4f0b0b3.jpg",
+        "https://telegra.ph/file/194a8373804c1cab0ba62.jpg",
+        "https://telegra.ph/file/7646b9ccecd986f9ee766.jpg",
+        "https://telegra.ph/file/47409638f15e4bba4bb61.jpg",
+        "https://telegra.ph/file/b00cb64a44c1c45fe37e2.jpg",
+        "https://telegra.ph/file/466244a3575ebe7b2e931.jpg",
+        "https://telegra.ph/file/4c8fc0b29b549358dc4b2.jpg",
+        "https://telegra.ph/file/5257bf960fe998bdd9113.jpg",
+        "https://telegra.ph/file/03be02089585114786c9e.jpg",
+        "https://telegra.ph/file/0cfd116cc5fae909b6f2d.jpg",
+        "https://telegra.ph/file/b7858a571b0e248a43546.jpg",
+        "https://telegra.ph/file/a4b3a3dc1aa0eedeae2d1.jpg",
+        "https://telegra.ph/file/7dd70bd1a9c720968fb34.jpg",
+        "https://telegra.ph/file/d8ffb1bd2d572754261cc.jpg",
+        "https://telegra.ph/file/670beca7e014217a643c8.jpg",
+        "https://telegra.ph/file/039f82ea5745c35f3fb05.jpg",
+        "https://telegra.ph/file/8fe650fd8973307c6371b.jpg",
+        "https://telegra.ph/file/2cfc0a86e679351c16242.jpg",
+        "https://telegra.ph/file/ced7ad071cade32bdd0ff.jpg",
+        "https://telegra.ph/file/b854b40e8d1ae17ee4c02.jpg",
+        "https://telegra.ph/file/ac4055ae39da3f7635f11.jpg",
+        "https://telegra.ph/file/6de3bf4dbda02fd37ecd1.jpg"
+    ]
+};

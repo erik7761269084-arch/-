@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2193,
+    "title": "[あるたな (薙派)] マキちゃんとエッチでハプニングな生活 (VOICEROID)",
+    "sourceUrl": "https://telegra.ph/あるたな-薙派-マキちゃんとエッチでハプニングな生活-VOICEROID-08-31",
+    "images": [
+        "https://telegra.ph/file/ca91680793884545bd339.jpg",
+        "https://telegra.ph/file/77e4d1103fc757d17828a.jpg",
+        "https://telegra.ph/file/783997efbf9ddc48602b7.jpg",
+        "https://telegra.ph/file/153fb4294a12c4e0b798d.jpg",
+        "https://telegra.ph/file/309a9d8bd86dd01985954.jpg",
+        "https://telegra.ph/file/920041644da632fbe04a2.jpg",
+        "https://telegra.ph/file/3a1f79dd6096786b7206c.jpg",
+        "https://telegra.ph/file/f277eeeb3ed9be40e22b5.jpg",
+        "https://telegra.ph/file/dd7c7f1023c92800ae65d.jpg",
+        "https://telegra.ph/file/59b61c43836a9afab996b.jpg",
+        "https://telegra.ph/file/b10ac10e30a8232d0acbe.jpg",
+        "https://telegra.ph/file/5391052da695c176aa0bf.jpg",
+        "https://telegra.ph/file/af0aa039b167b949131b5.jpg",
+        "https://telegra.ph/file/5dbf295cf139ca449a04c.jpg",
+        "https://telegra.ph/file/0c469434b7c956e2e2dab.jpg",
+        "https://telegra.ph/file/888a9757284d27d44f534.jpg",
+        "https://telegra.ph/file/4fde15de6eb5c8863935c.jpg",
+        "https://telegra.ph/file/181d387409ee580e5e040.jpg",
+        "https://telegra.ph/file/738ed8ae12f638944bbbf.jpg",
+        "https://telegra.ph/file/49afa4a38c2dc35998b9c.jpg",
+        "https://telegra.ph/file/9df0c6dc3ed3a4607603d.jpg",
+        "https://telegra.ph/file/2315cc1f07f3295d3ddd5.jpg",
+        "https://telegra.ph/file/503dc1aa09c4ea05cfe2f.jpg",
+        "https://telegra.ph/file/78a9905631b0b68abd685.jpg",
+        "https://telegra.ph/file/941f42e7334ad859e680a.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

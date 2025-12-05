@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7643,
+    "title": "派遣便女員～入社テスト編",
+    "sourceUrl": "https://telegra.ph/派遣便女員入社テスト編-08-31",
+    "images": [
+        "https://telegra.ph/file/69f3c74ce6d14a36106df.jpg",
+        "https://telegra.ph/file/cff44c59daf237060993b.jpg",
+        "https://telegra.ph/file/ba83aadf4a5152885a6a6.jpg",
+        "https://telegra.ph/file/8352fa5ea279ddd123405.jpg",
+        "https://telegra.ph/file/e09bc6923eb2d95171d10.jpg",
+        "https://telegra.ph/file/6faa5be665ed5893e0fc7.jpg",
+        "https://telegra.ph/file/3c3659c5bafef47b76575.jpg",
+        "https://telegra.ph/file/bd3cf2402ff8ee9adfa88.jpg",
+        "https://telegra.ph/file/4f99c3e3369752f82aad9.jpg",
+        "https://telegra.ph/file/f9b9decca166acacfc418.jpg",
+        "https://telegra.ph/file/614269e6c8916c0607c88.jpg",
+        "https://telegra.ph/file/2f4e493fd7a68bd96673b.jpg",
+        "https://telegra.ph/file/65e6fa34eed83b3debece.jpg",
+        "https://telegra.ph/file/459e02dcc0da683404cd7.jpg",
+        "https://telegra.ph/file/88f2e0db4232963c925b6.jpg",
+        "https://telegra.ph/file/056ad089f95136fa841f0.jpg",
+        "https://telegra.ph/file/8cc0a3b814ff67d6fb7bf.jpg",
+        "https://telegra.ph/file/0927afb0d97cb600b55ad.jpg",
+        "https://telegra.ph/file/755bae79c6f23bfaaf5ba.jpg",
+        "https://telegra.ph/file/82e6205224b639c8005a6.jpg",
+        "https://telegra.ph/file/f9a7b3e634822a9d1e950.jpg",
+        "https://telegra.ph/file/c6ef03c323c134e5c67d6.jpg",
+        "https://telegra.ph/file/a63e8cb67a353c87331b6.jpg"
+    ]
+};

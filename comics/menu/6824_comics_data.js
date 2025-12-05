@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6824,
+    "title": "好きになってほしイモ",
+    "sourceUrl": "https://telegra.ph/好きになってほしイモ-08-31",
+    "images": [
+        "https://telegra.ph/file/b2bf120429a4f3c449718.jpg",
+        "https://telegra.ph/file/d7d24f8c2c6e5d31d50b6.jpg",
+        "https://telegra.ph/file/0428fb7b4deb7e775a0a3.jpg",
+        "https://telegra.ph/file/d0bdadfc432eddf7bf76e.jpg",
+        "https://telegra.ph/file/ed0c8eba026467437fcc6.jpg",
+        "https://telegra.ph/file/41d161a04e47c68c52f06.jpg",
+        "https://telegra.ph/file/7da0dd6383fcbcb2af362.jpg",
+        "https://telegra.ph/file/47dddc82a8ce63e96b874.jpg",
+        "https://telegra.ph/file/0739c7b82248d66be5873.jpg",
+        "https://telegra.ph/file/300f1fcae93e8174061cd.jpg",
+        "https://telegra.ph/file/8e74199c9afb1e0a4ca1f.jpg",
+        "https://telegra.ph/file/9717357875168bc2ad85a.jpg",
+        "https://telegra.ph/file/61ebbc22623dede9fbbb8.jpg",
+        "https://telegra.ph/file/ce26171e83907096c1096.jpg",
+        "https://telegra.ph/file/5d39aeb0717af1e47e457.jpg",
+        "https://telegra.ph/file/82318b63c627f27ffac76.jpg",
+        "https://telegra.ph/file/2b17f7a1efa9e5ddea6b3.jpg",
+        "https://telegra.ph/file/0ff040baed4d8e3ec57a3.jpg",
+        "https://telegra.ph/file/398d2df6c0e6fe4838172.jpg",
+        "https://telegra.ph/file/815ee2a72cfe4f01b3d0a.jpg",
+        "https://telegra.ph/file/3f3ab10ea59a5bccd6e24.jpg",
+        "https://telegra.ph/file/9e40b0df15458cbb2a767.jpg",
+        "https://telegra.ph/file/962c3013ea2513969ee90.jpg",
+        "https://telegra.ph/file/ec159e6eb8bacb35eece0.jpg"
+    ]
+};

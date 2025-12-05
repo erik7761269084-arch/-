@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7196,
+    "title": "女装でも愛して",
+    "sourceUrl": "https://telegra.ph/女装でも愛して-08-31",
+    "images": [
+        "https://telegra.ph/file/6f9f7ff6b2e09e5947c57.jpg",
+        "https://telegra.ph/file/931103b4c6e84e830eda4.jpg",
+        "https://telegra.ph/file/e06c9543e2ac5bf55536a.jpg",
+        "https://telegra.ph/file/589390e73a525ad4274bc.jpg",
+        "https://telegra.ph/file/8ce66ae6fc36526998980.jpg",
+        "https://telegra.ph/file/1ffdcab9eacac01c99d0c.jpg",
+        "https://telegra.ph/file/09ef4070a30cbb2edd881.jpg",
+        "https://telegra.ph/file/f6a329f8f2bfd8d050be7.jpg",
+        "https://telegra.ph/file/1faada2b98b7dafd699b8.jpg",
+        "https://telegra.ph/file/cf0d67c9c28fdf81b4530.jpg",
+        "https://telegra.ph/file/f944e6391f7fac9bbf466.jpg",
+        "https://telegra.ph/file/813e646ea10cc89783531.jpg",
+        "https://telegra.ph/file/1254c64ad6d0aa20dacf0.jpg",
+        "https://telegra.ph/file/fcc657af1bd8d2c12ce1d.jpg",
+        "https://telegra.ph/file/7d95305bb8fd0ee3926e0.jpg",
+        "https://telegra.ph/file/e1b89145df51937a196e0.jpg",
+        "https://telegra.ph/file/1faaf30044b490e15dcb6.jpg",
+        "https://telegra.ph/file/2688f5e2deb5dd8ee57de.jpg",
+        "https://telegra.ph/file/e7afa380aeda0ca836477.jpg",
+        "https://telegra.ph/file/ae7c5591ff0b3c72599eb.jpg",
+        "https://telegra.ph/file/7c752a992a9462927f75d.jpg",
+        "https://telegra.ph/file/25074c4f77dbf171a57b6.jpg",
+        "https://telegra.ph/file/44f81b9bb024b780a6ea6.jpg",
+        "https://telegra.ph/file/458d29db868a4ba84e01d.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1555,
+    "title": "[つくすん] フキちゃんは不機嫌 (コミック Mate legend Vol.43 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/つくすん-フキちゃんは不機嫌-コミック-Mate-legend-Vol43-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/19f382583bb7a40361776.jpg",
+        "https://telegra.ph/file/b081f3a7ea19ea576d715.jpg",
+        "https://telegra.ph/file/7906382bd56eabb1e8c6e.jpg",
+        "https://telegra.ph/file/0fdcd14465a5652ca311a.jpg",
+        "https://telegra.ph/file/8aedeb2c75cd7330f4a82.jpg",
+        "https://telegra.ph/file/126754015078d526d91ce.jpg",
+        "https://telegra.ph/file/385feb65c4b3f2c66a465.jpg",
+        "https://telegra.ph/file/aacb2d3395c02c6073c98.jpg",
+        "https://telegra.ph/file/c27a72f016b2ed371c973.jpg",
+        "https://telegra.ph/file/0f81e6b0fc5bbc4884219.jpg",
+        "https://telegra.ph/file/40f96e0295b1d545558da.jpg",
+        "https://telegra.ph/file/60b8e91f13f19baa40b48.jpg",
+        "https://telegra.ph/file/c2a7fa8cccb034e533ea2.jpg",
+        "https://telegra.ph/file/79f838932cbc2dff1e09b.jpg",
+        "https://telegra.ph/file/c57498aba7cb70769e042.jpg",
+        "https://telegra.ph/file/0c97b25687260f44f8a2c.jpg",
+        "https://telegra.ph/file/ee975c60db566e7a44944.jpg",
+        "https://telegra.ph/file/c71c3cc98f9c0bdb1819d.jpg",
+        "https://telegra.ph/file/1da108ee78c848083acb4.jpg",
+        "https://telegra.ph/file/abf1f9af4339c50693dde.jpg",
+        "https://telegra.ph/file/55eeee30a0e2ace51b561.jpg",
+        "https://telegra.ph/file/4395036cb00afdc9bb2f1.jpg",
+        "https://telegra.ph/file/dd3c7fadbf529e94d2428.jpg",
+        "https://telegra.ph/file/81f189083ed6e1e71cb88.jpg",
+        "https://telegra.ph/file/4cfe255ea0ba86eace1d0.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4507,
+    "title": "(C94) [せとらん、110 (イトウせと、タンノらん)] ご主人様、甘あまHのお時間ですー母乳メイド長のお誘いー (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C94-せとらん110-イトウせとタンノらん-ご主人様甘あまHのお時間ですー母乳メイド長のお誘いー-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/176e092517be91befb7e2.jpg",
+        "https://telegra.ph/file/02dbc11dc6f45b9cb0ccd.jpg",
+        "https://telegra.ph/file/d41ac9fff18ec139cec4d.jpg",
+        "https://telegra.ph/file/2703b55de679bfa0834e4.jpg",
+        "https://telegra.ph/file/cd7b0218d2c97c824654b.jpg",
+        "https://telegra.ph/file/23c904e6bc8bc0fa823d4.jpg",
+        "https://telegra.ph/file/4f2b2d2d0f358741a023a.jpg",
+        "https://telegra.ph/file/8d6b50db01da35d991af6.jpg",
+        "https://telegra.ph/file/f3d1c30ea626ee0feaeb2.jpg",
+        "https://telegra.ph/file/9a64413497f1c3b840a7e.jpg",
+        "https://telegra.ph/file/61abe4c357a23f0b9b1a7.jpg",
+        "https://telegra.ph/file/7f3fdd92933ef9ff54c47.jpg",
+        "https://telegra.ph/file/c7a58481821875e5bc398.jpg",
+        "https://telegra.ph/file/78a3eb6c4353ba2af0ce6.jpg",
+        "https://telegra.ph/file/6fb436d18f3fbfdeef98a.jpg",
+        "https://telegra.ph/file/d41b1d39d06ed3ecea368.jpg",
+        "https://telegra.ph/file/1a2aa6a733ff03692dad1.jpg",
+        "https://telegra.ph/file/1538d00af504272cb5ff3.jpg",
+        "https://telegra.ph/file/156802f5c8c25dd525aee.jpg",
+        "https://telegra.ph/file/fd5095a64f5e8177cd92c.jpg",
+        "https://telegra.ph/file/fa82838c81479de55027e.jpg",
+        "https://telegra.ph/file/8f44cafc76adaa7e1472c.jpg",
+        "https://telegra.ph/file/12f11869073f9e588f00f.jpg"
+    ]
+};

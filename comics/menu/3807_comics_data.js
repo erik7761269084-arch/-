@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3807,
+    "title": "(C99) [地下7cm (wasavi_8)] ハマカゼトリートバニー (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C99-地下7cm-wasavi-8-ハマカゼトリートバニー-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/afa9b8b5c4ba32163fb45.jpg",
+        "https://telegra.ph/file/408a0ea55ef632ac56b6e.jpg",
+        "https://telegra.ph/file/6681d67b485bbe9a691ec.jpg",
+        "https://telegra.ph/file/7a2a198b8958ca1937a33.jpg",
+        "https://telegra.ph/file/fb8ae876ab85d986daba6.jpg",
+        "https://telegra.ph/file/95a41c361b527afd68bf1.jpg",
+        "https://telegra.ph/file/9dd20a108da4066efdacc.jpg",
+        "https://telegra.ph/file/b93943938cdf008e445d7.jpg",
+        "https://telegra.ph/file/1c00a4612467033459b5e.jpg",
+        "https://telegra.ph/file/83fc929dc36e7db66a83d.jpg",
+        "https://telegra.ph/file/6a0fed6a104ceeba16a29.jpg",
+        "https://telegra.ph/file/f92e4d5f878b070903640.jpg",
+        "https://telegra.ph/file/4a7acc46f1da894a4254c.jpg",
+        "https://telegra.ph/file/da4f7451f57db98f0f8d8.jpg",
+        "https://telegra.ph/file/6a39081c677f8b4c5cc0b.jpg",
+        "https://telegra.ph/file/a4e1999cedb742cd78665.jpg",
+        "https://telegra.ph/file/2967b03e419a6297ab4c4.jpg",
+        "https://telegra.ph/file/a2ed8e7f4eb266cc0b81a.jpg",
+        "https://telegra.ph/file/1759b689bec9a7e20b77a.jpg",
+        "https://telegra.ph/file/1845fd11ddc5226888523.jpg",
+        "https://telegra.ph/file/dbf1e58a8ddbe2764e143.jpg",
+        "https://telegra.ph/file/9db92e603725ec8244a71.jpg",
+        "https://telegra.ph/file/2a65b302b18b72d0eedcf.jpg",
+        "https://telegra.ph/file/af5caf36d9b27c4bd3ea7.jpg"
+    ]
+};

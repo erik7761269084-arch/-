@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 14,
+    "title": "[いーむす・アキ] はじめてのおかーさん (やわはだおとめ)",
+    "sourceUrl": "https://telegra.ph/いーむすアキ-はじめてのおかーさん-やわはだおとめ-08-31",
+    "images": [
+        "https://telegra.ph/file/8c2b9b73c207f548438e8.jpg",
+        "https://telegra.ph/file/e1e3bf73e28683abeb5a1.jpg",
+        "https://telegra.ph/file/f1f529bbc21c446fc3d0b.jpg",
+        "https://telegra.ph/file/ad41ae63584b5a5d4c927.jpg",
+        "https://telegra.ph/file/e88f936cb22da40cf063c.jpg",
+        "https://telegra.ph/file/d78c43e890bf230621f2e.jpg",
+        "https://telegra.ph/file/ff4ece06c5ca860bbb5f1.jpg",
+        "https://telegra.ph/file/9dde01d9cd505bd343b92.jpg",
+        "https://telegra.ph/file/55c452dbdaf5d43b332e4.jpg",
+        "https://telegra.ph/file/f73cd20bafbf88ef9296a.jpg",
+        "https://telegra.ph/file/af216a2727a0cee913797.jpg",
+        "https://telegra.ph/file/d9f401111f46f28b04649.jpg",
+        "https://telegra.ph/file/e57f904c3db72b84b534a.jpg",
+        "https://telegra.ph/file/2787fb1479825b9d6bca3.jpg",
+        "https://telegra.ph/file/32c4da3a09a3ca40a033a.jpg",
+        "https://telegra.ph/file/ef99a3c0b1bbadf36b30f.png",
+        "https://telegra.ph/file/93d624cfb26fba52bc731.jpg",
+        "https://telegra.ph/file/c39c959bea4469377f04d.jpg",
+        "https://telegra.ph/file/2eaeca8211742a794a176.jpg",
+        "https://telegra.ph/file/748103a71062fdaa789dd.jpg",
+        "https://telegra.ph/file/cf27fa5a54c844a89b0c8.jpg",
+        "https://telegra.ph/file/ba587d48881d21d1bfdbf.jpg",
+        "https://telegra.ph/file/e5b232105b72721cc938c.jpg",
+        "https://telegra.ph/file/54e2410c711c20c675336.jpg"
+    ]
+};

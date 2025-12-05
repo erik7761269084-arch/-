@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4538,
+    "title": "(C95) [+Elegy (mt)] 最愛の最優 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C95-Elegy-mt-最愛の最優-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/4b8aaaaa93e18a85e0d5f.jpg",
+        "https://telegra.ph/file/95faa152e187c8c9fc7d4.jpg",
+        "https://telegra.ph/file/abf36a3e1a569aabcd761.jpg",
+        "https://telegra.ph/file/b484a2e4dea61f61e0cad.jpg",
+        "https://telegra.ph/file/e5340b4bfadf040444fce.jpg",
+        "https://telegra.ph/file/34e8d0a9c5e12cd6c95cb.jpg",
+        "https://telegra.ph/file/168380ddc8c331e5913b3.jpg",
+        "https://telegra.ph/file/391ef3f0379d207ce9f41.jpg",
+        "https://telegra.ph/file/0a0e4b29bdb37b07fb17b.jpg",
+        "https://telegra.ph/file/fdd81e3d4f7ae2e08592d.jpg",
+        "https://telegra.ph/file/973db4d5519e8a790c9fa.jpg",
+        "https://telegra.ph/file/a60b56eb5fd501a3ec06d.jpg",
+        "https://telegra.ph/file/33f755e6038f0ca388585.jpg",
+        "https://telegra.ph/file/eedb3e4c60c594b126886.jpg",
+        "https://telegra.ph/file/230228035fdab9abc5732.jpg",
+        "https://telegra.ph/file/e30a80f266ffce737cb18.jpg",
+        "https://telegra.ph/file/8d1dd0f1330543364a8ce.jpg",
+        "https://telegra.ph/file/91ebe572809597cdb10ff.jpg",
+        "https://telegra.ph/file/22493b798f121c7aeaa4c.jpg",
+        "https://telegra.ph/file/b7501b49b60c7a1bf5fec.jpg",
+        "https://telegra.ph/file/492dfa4bc9bd266ffa74e.jpg",
+        "https://telegra.ph/file/b8bbc226a69d86f043e62.jpg",
+        "https://telegra.ph/file/5dc519acfa3996574dfc0.jpg",
+        "https://telegra.ph/file/74ad043c0abf20394eb30.jpg",
+        "https://telegra.ph/file/2280e46f1ae4c3d179312.jpg",
+        "https://telegra.ph/file/931628bf92050e976d73c.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6600,
+    "title": "小さな屋根の下 (ぱにぽにだっしゅ！)",
+    "sourceUrl": "https://telegra.ph/小さな屋根の下-ぱにぽにだっしゅ-08-31",
+    "images": [
+        "https://telegra.ph/file/4163ac3d02e772ac2edd8.jpg",
+        "https://telegra.ph/file/f68edf08419c20de78e74.jpg",
+        "https://telegra.ph/file/294e0eb996255e1aeb592.jpg",
+        "https://telegra.ph/file/aace00ec8e4af1889e47c.jpg",
+        "https://telegra.ph/file/491db95af1c90fabecb60.jpg",
+        "https://telegra.ph/file/2f893b95897896d4e6388.jpg",
+        "https://telegra.ph/file/65510c878271b7b3b0ce6.jpg",
+        "https://telegra.ph/file/26d00b89afda4fcaccf6b.jpg",
+        "https://telegra.ph/file/d5e11ba8131460b2fc8a3.jpg",
+        "https://telegra.ph/file/0f27b10642a0e2ef8def5.jpg",
+        "https://telegra.ph/file/631f9ffd3ea1da7873894.jpg",
+        "https://telegra.ph/file/4c06f35fa02de1ce3cbc3.jpg",
+        "https://telegra.ph/file/9c4457190187fdcb2ae8d.jpg",
+        "https://telegra.ph/file/09085fb7090847220e67a.jpg",
+        "https://telegra.ph/file/45ffaa8f89b4a7aaff36e.jpg",
+        "https://telegra.ph/file/bdbdac636e01d408bbb5b.jpg",
+        "https://telegra.ph/file/8931119b149c11c9cdb96.jpg",
+        "https://telegra.ph/file/9243e13b21b5a02acf10b.jpg",
+        "https://telegra.ph/file/e3c4cb8629852505b922c.jpg",
+        "https://telegra.ph/file/09649ec313f68ad125f18.jpg",
+        "https://telegra.ph/file/cf121c3177fc4b7a779e6.jpg",
+        "https://telegra.ph/file/efcfc0ed12f1897496f63.jpg",
+        "https://telegra.ph/file/7d3de0eeedf7016ce56c9.jpg"
+    ]
+};

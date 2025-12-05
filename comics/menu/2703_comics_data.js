@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2703,
+    "title": "[めーすけ] おねショタナマ配信中! (コミックホットミルク 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/めーすけ-おねショタナマ配信中-コミックホットミルク-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7e1e03bb5b9fe82be3dd2.jpg",
+        "https://telegra.ph/file/59bf3c2b6ea711a769ad2.jpg",
+        "https://telegra.ph/file/a6b554276c597f8c83254.jpg",
+        "https://telegra.ph/file/f8c20d98bdde9f8f1c251.jpg",
+        "https://telegra.ph/file/72d778ab58e5a70c55404.jpg",
+        "https://telegra.ph/file/c70e89edead8de4153f0b.jpg",
+        "https://telegra.ph/file/ea62cf3ad64907ad92f3f.jpg",
+        "https://telegra.ph/file/89f80ed49b9beb8a55e50.jpg",
+        "https://telegra.ph/file/d06ec8d251c317d683e36.jpg",
+        "https://telegra.ph/file/e3f0514d0d6819791190d.jpg",
+        "https://telegra.ph/file/a6ffb3107d693f145b3c7.jpg",
+        "https://telegra.ph/file/cd0cae7e8ad9f7a38aa34.jpg",
+        "https://telegra.ph/file/1f682dd2ceaf9cfd319ad.jpg",
+        "https://telegra.ph/file/3e7b8fa65cdb1dba10b6c.jpg",
+        "https://telegra.ph/file/ff62a87751acadd7e15c1.jpg",
+        "https://telegra.ph/file/b373b5f0d0f247130caf9.jpg",
+        "https://telegra.ph/file/393bf85d26d0f252ade42.jpg",
+        "https://telegra.ph/file/a4d2780fd1dffd361d343.jpg",
+        "https://telegra.ph/file/0cf71b40787ac7f5126c3.jpg",
+        "https://telegra.ph/file/2f6ce13f49e0b9d0fdf09.jpg",
+        "https://telegra.ph/file/58ecd1d902540d43e6e32.jpg",
+        "https://telegra.ph/file/e6db12db33b3bc153ab96.jpg",
+        "https://telegra.ph/file/8d51923a21ec89a36d1ae.jpg",
+        "https://telegra.ph/file/405bc5b78188b6c4e9bd4.jpg",
+        "https://telegra.ph/file/0e17fbe58f657fc3e702e.jpg"
+    ]
+};

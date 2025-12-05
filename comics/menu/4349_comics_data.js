@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4349,
+    "title": "[アヤノミツカ] 女教師♥秘密の性活指導 (ANGEL 倶楽部 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/アヤノミツカ-女教師秘密の性活指導-ANGEL-倶楽部-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/fdd65c3d876dbdd829198.jpg",
+        "https://telegra.ph/file/02ac120e1e1fe89d8d979.jpg",
+        "https://telegra.ph/file/b866a5d21fd349c86437c.jpg",
+        "https://telegra.ph/file/88942cd7cdc6362888783.jpg",
+        "https://telegra.ph/file/997392a73337002f01241.jpg",
+        "https://telegra.ph/file/3e43f2324bba037d32f6f.jpg",
+        "https://telegra.ph/file/43c3ca3783aaea42a36ff.jpg",
+        "https://telegra.ph/file/d9ad2734ae5f7a47c3531.jpg",
+        "https://telegra.ph/file/f4325d5c9d5308e0df381.jpg",
+        "https://telegra.ph/file/2e4f17ba71f5c274ddcb8.jpg",
+        "https://telegra.ph/file/fe4db3531afdaab9355b8.jpg",
+        "https://telegra.ph/file/8aef863b527e7d9f0a7fb.jpg",
+        "https://telegra.ph/file/c1c13241525bec0a7a147.jpg",
+        "https://telegra.ph/file/81a01915690514924ae4d.jpg",
+        "https://telegra.ph/file/b8548821f1abb1af1cd52.jpg",
+        "https://telegra.ph/file/0816b4c942d5b370b5232.jpg",
+        "https://telegra.ph/file/c5ce8cbdc6d772d75d5cb.jpg",
+        "https://telegra.ph/file/85692d19b2265682262df.jpg",
+        "https://telegra.ph/file/88480ddb35e530addd2b0.jpg",
+        "https://telegra.ph/file/c2a9380f93784c2c53360.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ]
+};

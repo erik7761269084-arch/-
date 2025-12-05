@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6061,
+    "title": "[yumoteliuce] Re-carsex♥",
+    "sourceUrl": "https://telegra.ph/yumoteliuce-Re-carsex-08-31",
+    "images": [
+        "https://telegra.ph/file/c819f7d93ed4069351f41.jpg",
+        "https://telegra.ph/file/799a3620fdfa166e2f72e.jpg",
+        "https://telegra.ph/file/9be9de58ef075ea0f46f9.jpg",
+        "https://telegra.ph/file/3f003219f0fb4aa176e72.jpg",
+        "https://telegra.ph/file/5d8baaf3a0cc120469efd.jpg",
+        "https://telegra.ph/file/e6433c5c686795a8f60fa.jpg",
+        "https://telegra.ph/file/f2ae83c53e0930ebb4ef0.jpg",
+        "https://telegra.ph/file/b3ed3a9470d18a131af07.jpg",
+        "https://telegra.ph/file/75c1711a2659f90e6db89.jpg",
+        "https://telegra.ph/file/314dff334396f36eeb3dd.jpg",
+        "https://telegra.ph/file/949fee094dd15de299285.jpg",
+        "https://telegra.ph/file/619cb594f28946f4dae50.jpg",
+        "https://telegra.ph/file/3308f7d675ffd31e8f279.jpg",
+        "https://telegra.ph/file/802c6718b2b8f8635058b.jpg",
+        "https://telegra.ph/file/363f5435a95e77eb1d18b.jpg",
+        "https://telegra.ph/file/fd1dabf805bf480a18af8.jpg",
+        "https://telegra.ph/file/1868e9c9051b61bd2ecf5.jpg",
+        "https://telegra.ph/file/9b345e1bcb18dd0819bb6.jpg",
+        "https://telegra.ph/file/b341b463b050c224f5f68.jpg",
+        "https://telegra.ph/file/b78ac236f06718d6da3e8.jpg",
+        "https://telegra.ph/file/35ec0348bbc4c9e48e23f.jpg",
+        "https://telegra.ph/file/2fd063741e1a6554bdcd7.jpg",
+        "https://telegra.ph/file/da9f445b37708b3492587.jpg",
+        "https://telegra.ph/file/41f8c0cdee19916e79128.jpg"
+    ]
+};

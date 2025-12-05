@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 299,
+    "title": "[前島龍] 蜜と蝶 (COMIC LO 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/前島龍-蜜と蝶-COMIC-LO-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d15035daee1749bb91d50.jpg",
+        "https://telegra.ph/file/58e67a7814c71bc06f9d0.jpg",
+        "https://telegra.ph/file/7b5ea66ab340435085d2e.jpg",
+        "https://telegra.ph/file/b6963ad2220c71acc5fea.jpg",
+        "https://telegra.ph/file/9acd1f30765dbbab1401a.jpg",
+        "https://telegra.ph/file/05f0234fb654ebf9b3e55.jpg",
+        "https://telegra.ph/file/13e93eba7190e8f168e7c.jpg",
+        "https://telegra.ph/file/8a6ba2369c1f993396747.jpg",
+        "https://telegra.ph/file/065f644d5bfb76eee35a5.jpg",
+        "https://telegra.ph/file/53fb0db2b777c6cf211be.jpg",
+        "https://telegra.ph/file/bb5c4e839c56b75f332c9.jpg",
+        "https://telegra.ph/file/c679c33de0ffca5cc49e6.jpg",
+        "https://telegra.ph/file/eed5756f820de75be2d3a.jpg",
+        "https://telegra.ph/file/bfa393d82fe656f64a482.jpg",
+        "https://telegra.ph/file/f8efc540d86dc27482065.jpg",
+        "https://telegra.ph/file/c94bd3cc270f4b8cac4a4.jpg",
+        "https://telegra.ph/file/1db1c39629418cd225895.jpg",
+        "https://telegra.ph/file/f5ad857e81e5fe7b5dfba.jpg",
+        "https://telegra.ph/file/91ef59d86700a745bf91a.jpg",
+        "https://telegra.ph/file/5792c024bb22fd6ff5e8d.jpg",
+        "https://telegra.ph/file/8db989a9cda7cc5606bf2.jpg",
+        "https://telegra.ph/file/cd550319977b63fb1b87d.jpg",
+        "https://telegra.ph/file/60913aeaa9d578eb2cf8c.jpg",
+        "https://telegra.ph/file/3f8eef094dfb08216a2d8.jpg",
+        "https://telegra.ph/file/ec550575d8cecdf197ace.jpg",
+        "https://telegra.ph/file/a103b40ff966d92e55bae.jpg"
+    ]
+};

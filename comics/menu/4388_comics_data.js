@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4388,
+    "title": "(C96) [玉子房 (隈吉)] 愛しのえっちな騎士王様 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-玉子房-隈吉-愛しのえっちな騎士王様-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/5d56b296d268bcd887e39.jpg",
+        "https://telegra.ph/file/c915dee22ae3ada822107.jpg",
+        "https://telegra.ph/file/60e9a1bb0615dec640b7f.jpg",
+        "https://telegra.ph/file/9f1915ae61e66b9169984.jpg",
+        "https://telegra.ph/file/8cd85273b9ebaf52efb48.jpg",
+        "https://telegra.ph/file/e04e1ba544b9d4f973f32.jpg",
+        "https://telegra.ph/file/d2c1f64a5d5db96c5b0e2.jpg",
+        "https://telegra.ph/file/71ce944062ab4ce699302.jpg",
+        "https://telegra.ph/file/6d0e82e16b81ba79b5b9f.jpg",
+        "https://telegra.ph/file/c9d92fc5cc3c62bdf37c8.jpg",
+        "https://telegra.ph/file/4cd53bac2a4f5dac22be0.jpg",
+        "https://telegra.ph/file/a71299caed41707eeafd0.jpg",
+        "https://telegra.ph/file/47e8f6ceed5c9d775a8be.jpg",
+        "https://telegra.ph/file/357f53753befca8e4e78c.jpg",
+        "https://telegra.ph/file/5375572a2218dcd165481.jpg",
+        "https://telegra.ph/file/90d22ef929185564e6bc2.jpg",
+        "https://telegra.ph/file/7ac19e03ebf217a00ef63.jpg",
+        "https://telegra.ph/file/de99a9ac63085eee9019a.jpg",
+        "https://telegra.ph/file/f4d80989ab6ee18bd15ba.jpg",
+        "https://telegra.ph/file/fd43b4afa01788f252dfc.jpg",
+        "https://telegra.ph/file/68ebd7d86e13e6dbf09de.jpg",
+        "https://telegra.ph/file/b22b6968aa374bacb08bc.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4602,
+    "title": "[ドラチェフ] ママさんバレーのスケベな昼下がり (交尾のお時間)",
+    "sourceUrl": "https://telegra.ph/ドラチェフ-ママさんバレーのスケベな昼下がり-交尾のお時間-08-31",
+    "images": [
+        "https://telegra.ph/file/d28bc607606e6904563bb.jpg",
+        "https://telegra.ph/file/5bd7e0258c13723e051c5.jpg",
+        "https://telegra.ph/file/1f67a230df1f7a43fb778.jpg",
+        "https://telegra.ph/file/e60ea466acaf78a8b96e8.jpg",
+        "https://telegra.ph/file/703d6995d7487a899edca.jpg",
+        "https://telegra.ph/file/6b3a8c9db31aede5d680d.jpg",
+        "https://telegra.ph/file/1ed689a368fd52ca88266.jpg",
+        "https://telegra.ph/file/b1397db1547bb8fbaa936.jpg",
+        "https://telegra.ph/file/5e27942a0fe60d0d5ce7e.jpg",
+        "https://telegra.ph/file/e36b97616ba6cbbea0ae8.jpg",
+        "https://telegra.ph/file/ed4c459c17f90fdd85c2a.jpg",
+        "https://telegra.ph/file/33a41e5a6af839b91b58e.jpg",
+        "https://telegra.ph/file/f04c6bc4076c6d09f4ec9.jpg",
+        "https://telegra.ph/file/a813da838916b2f29a62a.jpg",
+        "https://telegra.ph/file/1a60252bfaffdcaf53b25.jpg",
+        "https://telegra.ph/file/05271e9a987a92fd34f4c.jpg",
+        "https://telegra.ph/file/354e0d782d96afa1b3d34.jpg",
+        "https://telegra.ph/file/fd00ffb956de9046ecded.jpg",
+        "https://telegra.ph/file/c4ad13bed84bd4d5cafff.jpg",
+        "https://telegra.ph/file/6426808f85dda45c33fae.jpg",
+        "https://telegra.ph/file/b2f4b594d5b8d17077df4.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/ed8c50f90f950b3fd8a60.jpg",
+        "https://telegra.ph/file/f967b1defaadb6d21c016.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/a8bb1510d150914c398f6.jpg"
+    ]
+};

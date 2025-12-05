@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7624,
+    "title": "敗北催淫-霧雨魔理沙編-",
+    "sourceUrl": "https://telegra.ph/敗北催淫-霧雨魔理沙編-08-31",
+    "images": [
+        "https://telegra.ph/file/2772ea15b4690a9548ea6.jpg",
+        "https://telegra.ph/file/109eaefe56d6d7db3cc88.jpg",
+        "https://telegra.ph/file/55eed5ffae141d2d3de51.jpg",
+        "https://telegra.ph/file/c10887e968618b0876b62.jpg",
+        "https://telegra.ph/file/a0c26f6f26b5192e4083d.jpg",
+        "https://telegra.ph/file/5cad7e32f782905ffa6c0.jpg",
+        "https://telegra.ph/file/eca66af09347109605668.jpg",
+        "https://telegra.ph/file/3440684fe9b8e852754f2.jpg",
+        "https://telegra.ph/file/77d2c97ca51e08fe3c38f.jpg",
+        "https://telegra.ph/file/56c335830927b91128bf5.jpg",
+        "https://telegra.ph/file/1172834bd0903efbfe021.jpg",
+        "https://telegra.ph/file/4f56cb611e94a3a3158f4.jpg",
+        "https://telegra.ph/file/1e590ce32b81d03f33446.jpg",
+        "https://telegra.ph/file/d2e08521e21283698ca15.jpg",
+        "https://telegra.ph/file/5ec68a1d72f09cdf81f28.jpg",
+        "https://telegra.ph/file/4d49ba626541d4753b604.jpg",
+        "https://telegra.ph/file/f37e29ac0bb25ee792646.jpg",
+        "https://telegra.ph/file/1ec573075c29bcc251a0e.jpg",
+        "https://telegra.ph/file/891880f84b8040435c7ce.jpg",
+        "https://telegra.ph/file/28a0f70c60c29aae0a560.jpg",
+        "https://telegra.ph/file/df5c50aa7ecab7299c22b.jpg",
+        "https://telegra.ph/file/5b7127a0c40722eec7de1.jpg",
+        "https://telegra.ph/file/b2f8fec747bb521fb7987.jpg",
+        "https://telegra.ph/file/8d2b5c70720ab1bdd0194.jpg"
+    ]
+};

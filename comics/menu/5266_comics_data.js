@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5266,
+    "title": "[TRY] 聽說新任風紀委員長胸部很大這回事   [Non-glasses]",
+    "sourceUrl": "https://telegra.ph/TRY-聽說新任風紀委員長胸部很大這回事-Non-glasses-08-31",
+    "images": [
+        "https://telegra.ph/file/63767c652f6fe93afb05b.jpg",
+        "https://telegra.ph/file/23e063a5013d712f5bcd5.jpg",
+        "https://telegra.ph/file/7bd94572d2994d26b7842.jpg",
+        "https://telegra.ph/file/37f8e5e47a096e6b6cfa2.jpg",
+        "https://telegra.ph/file/45632af2a53adc52dbad5.jpg",
+        "https://telegra.ph/file/4c1c2eca714d93e2fb7ec.jpg",
+        "https://telegra.ph/file/c5b05e11cdd5e0e9b54b4.jpg",
+        "https://telegra.ph/file/6697a0a41c918d07c3046.jpg",
+        "https://telegra.ph/file/12d58d5a9f8ae7624ca53.jpg",
+        "https://telegra.ph/file/1baac91aa93ff17c28a31.jpg",
+        "https://telegra.ph/file/901f51802bf5fedfc4bcd.jpg",
+        "https://telegra.ph/file/4670926ff3c85746cd9f3.jpg",
+        "https://telegra.ph/file/8b167e4b1321de5516e49.jpg",
+        "https://telegra.ph/file/6dff0f706716776a64b8e.jpg",
+        "https://telegra.ph/file/d8c712579c2c598f3be30.jpg",
+        "https://telegra.ph/file/52b4298305e7e362c38bb.jpg",
+        "https://telegra.ph/file/cd14aa2dd4dde31dc6a5a.jpg",
+        "https://telegra.ph/file/f9bb36670eb57a145807d.jpg",
+        "https://telegra.ph/file/17f805d7adc5a32990024.jpg",
+        "https://telegra.ph/file/93735716aa44e12bb929e.jpg",
+        "https://telegra.ph/file/77ef50a3f6f12466e752b.jpg",
+        "https://telegra.ph/file/aea4af89bed696ff86a53.jpg",
+        "https://telegra.ph/file/c4404f89765b1fa3fd805.jpg",
+        "https://telegra.ph/file/c0047f7fe039ad6fb62e4.jpg",
+        "https://telegra.ph/file/9d22179c2fb7a3ebf122e.jpg"
+    ]
+};

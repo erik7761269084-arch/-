@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4907,
+    "title": "(ふたけっと13.5) [グラナダの空 (十はやみ)] ぼくのせんせい",
+    "sourceUrl": "https://telegra.ph/ふたけっと135-グラナダの空-十はやみ-ぼくのせんせい-08-31",
+    "images": [
+        "https://telegra.ph/file/140a865c1f84d207f702d.jpg",
+        "https://telegra.ph/file/5eb49a107ce387a217cbf.jpg",
+        "https://telegra.ph/file/0f97f212457a16100a53d.jpg",
+        "https://telegra.ph/file/9e7d0b88e2b312a327152.jpg",
+        "https://telegra.ph/file/1da990b0dbe92dd437635.jpg",
+        "https://telegra.ph/file/26b673946a8fe449181c8.jpg",
+        "https://telegra.ph/file/0bf2b22627b182c00eaad.jpg",
+        "https://telegra.ph/file/4f5a9006e9861a8908604.jpg",
+        "https://telegra.ph/file/74f1a8306dafa26df9db6.jpg",
+        "https://telegra.ph/file/4a7691d811bfc50d4ca9d.jpg",
+        "https://telegra.ph/file/102ef4b5982f63684abca.jpg",
+        "https://telegra.ph/file/eec13d95bc6e551473443.jpg",
+        "https://telegra.ph/file/660e3d43a463286759218.jpg",
+        "https://telegra.ph/file/ab2814e3c001dc3725ca0.jpg",
+        "https://telegra.ph/file/fd36787472d9728245bf0.jpg",
+        "https://telegra.ph/file/ae1cef5db13bc7cc7d50c.jpg",
+        "https://telegra.ph/file/db5211e0f8c538a435eda.jpg",
+        "https://telegra.ph/file/51b161905d6561f44a6bd.jpg",
+        "https://telegra.ph/file/5a1219e48f44fcf14810c.jpg",
+        "https://telegra.ph/file/f8a0045fde5bac526c111.jpg",
+        "https://telegra.ph/file/694e57469b660047c049a.jpg",
+        "https://telegra.ph/file/a45e5cfb29483aee51d13.jpg",
+        "https://telegra.ph/file/cf5ba9b5a6990adc5a693.jpg",
+        "https://telegra.ph/file/94a63d24262e929154df6.jpg",
+        "https://telegra.ph/file/80ece0da80dfc8b1e1c42.jpg",
+        "https://telegra.ph/file/c5c90598cf00aaa698941.jpg"
+    ]
+};

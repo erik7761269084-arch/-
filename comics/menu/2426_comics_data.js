@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2426,
+    "title": "[スタジオ尋問時計(もろみ涼成)] 腹黒美青年と生ハメしちゃう巨乳人妻",
+    "sourceUrl": "https://telegra.ph/スタジオ尋問時計もろみ涼成-腹黒美青年と生ハメしちゃう巨乳人妻-08-31",
+    "images": [
+        "https://telegra.ph/file/9f89e953a5344da0512a1.jpg",
+        "https://telegra.ph/file/ef466dd4be0f5e4ac6a79.jpg",
+        "https://telegra.ph/file/66269446dfbda541e053e.jpg",
+        "https://telegra.ph/file/642c35433067669f37b51.jpg",
+        "https://telegra.ph/file/14d4655c9004d904123a9.jpg",
+        "https://telegra.ph/file/2173f7cb29779d6b26042.jpg",
+        "https://telegra.ph/file/cdb80f6d4196b491bdb5b.jpg",
+        "https://telegra.ph/file/ef4b05228593e9788617a.jpg",
+        "https://telegra.ph/file/56b01e36dac85330064b9.jpg",
+        "https://telegra.ph/file/d27f9abff9f16cc1e85ac.jpg",
+        "https://telegra.ph/file/282db606d96a5a6f4546e.jpg",
+        "https://telegra.ph/file/dd6eb968a551e07598dd9.jpg",
+        "https://telegra.ph/file/f17c5499ae8401fb16ed2.jpg",
+        "https://telegra.ph/file/53544b5c0672ae7b13a66.jpg",
+        "https://telegra.ph/file/4b81fef8c7553998159ef.jpg",
+        "https://telegra.ph/file/aafaa04af9c98c9b66f03.jpg",
+        "https://telegra.ph/file/bf1243ea63f4a4513ba8b.jpg",
+        "https://telegra.ph/file/811715cc4c22ab6cc2d17.jpg",
+        "https://telegra.ph/file/151ee43dd8cb7f6514a75.jpg",
+        "https://telegra.ph/file/67d4a1d5dc70c86825b4f.jpg",
+        "https://telegra.ph/file/c3b9c2bf026fe220a56e8.jpg",
+        "https://telegra.ph/file/455c5c29de9e9a651934f.jpg",
+        "https://telegra.ph/file/e55f88059a6f04225d6d2.jpg",
+        "https://telegra.ph/file/2b812009d0d24e98b3ec4.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6244,
+    "title": "[けんじ] 裸体芸術部 ～堕ちろ、生徒会！",
+    "sourceUrl": "https://telegra.ph/けんじ-裸体芸術部-堕ちろ生徒会-08-31",
+    "images": [
+        "https://telegra.ph/file/8f054d134d72d7f987865.jpg",
+        "https://telegra.ph/file/409d910d95434b4a67967.jpg",
+        "https://telegra.ph/file/63c6910debf4f6458a70c.jpg",
+        "https://telegra.ph/file/12b96908be528fb0c25e7.jpg",
+        "https://telegra.ph/file/fb53d1a71a79a3c5e1162.jpg",
+        "https://telegra.ph/file/39baa4c3dbf0e42d4ce64.jpg",
+        "https://telegra.ph/file/eb288a1a0f9c051b95dba.jpg",
+        "https://telegra.ph/file/f040e9dc033fcca4443b4.jpg",
+        "https://telegra.ph/file/51d598c444aaa36aa7b72.jpg",
+        "https://telegra.ph/file/336b9fbe63acfa311cf2c.jpg",
+        "https://telegra.ph/file/ff636f8e3d26be31eda90.jpg",
+        "https://telegra.ph/file/2735aeb11ad9e013c6a87.jpg",
+        "https://telegra.ph/file/cb273623d8a02f8dce184.jpg",
+        "https://telegra.ph/file/83844c424a751c77f9263.jpg",
+        "https://telegra.ph/file/90a75e38bd38397bd166b.jpg",
+        "https://telegra.ph/file/686179e517d472ed0003e.jpg",
+        "https://telegra.ph/file/a5683b12d9daa1fce32b5.jpg",
+        "https://telegra.ph/file/43fe9b5b9556a8cb101cc.jpg",
+        "https://telegra.ph/file/d05906869cebc29243ced.jpg",
+        "https://telegra.ph/file/c4b81eb7cb0341bc132b7.jpg",
+        "https://telegra.ph/file/83f458ae31aa815d5c7cc.jpg",
+        "https://telegra.ph/file/1031d670454f283a1aab5.jpg",
+        "https://telegra.ph/file/2778a9d7bd7d929ad88b6.jpg",
+        "https://telegra.ph/file/3eeb8810a10754893bcd9.jpg"
+    ]
+};

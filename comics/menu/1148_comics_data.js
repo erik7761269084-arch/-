@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1148,
+    "title": "[ちんちん亭 (chin)] 火焔猫燐集団愛撫 (東方Project)",
+    "sourceUrl": "https://telegra.ph/ちんちん亭-chin-火焔猫燐集団愛撫-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/e098d9cd0e0b7792c2155.jpg",
+        "https://telegra.ph/file/f0c78f9d635f6f0544455.jpg",
+        "https://telegra.ph/file/312e41f85f5764a8afb19.jpg",
+        "https://telegra.ph/file/9e56a4eee4737b70a5b27.jpg",
+        "https://telegra.ph/file/3639b7b300a9813d8c91e.jpg",
+        "https://telegra.ph/file/ac509a8a84ea3ccfc3018.jpg",
+        "https://telegra.ph/file/4099b2136d4a491c6dd67.jpg",
+        "https://telegra.ph/file/2de5c44e5dc43bb5eeb79.jpg",
+        "https://telegra.ph/file/4dd5d38c645f32eccf131.jpg",
+        "https://telegra.ph/file/57ade663863888b714b27.jpg",
+        "https://telegra.ph/file/b97e1665c88ed62a839f3.jpg",
+        "https://telegra.ph/file/f4f79540b4f875c0d12cf.jpg",
+        "https://telegra.ph/file/610ce1a66e7568a592869.jpg",
+        "https://telegra.ph/file/2cd81b336efcfd58943fe.jpg",
+        "https://telegra.ph/file/5c7b96cef7ce340ad5f5f.jpg",
+        "https://telegra.ph/file/a4ddf2fb5bd0bbb859e32.jpg",
+        "https://telegra.ph/file/6e24ae0fc79a9b6380fdc.jpg",
+        "https://telegra.ph/file/a80e079679899c3528728.jpg",
+        "https://telegra.ph/file/15714ea5388efb3610a89.jpg",
+        "https://telegra.ph/file/01327973078f90b23d104.jpg",
+        "https://telegra.ph/file/cac5632d06ba7b64099b4.jpg",
+        "https://telegra.ph/file/9465a45ef328ae7bad8ba.jpg",
+        "https://telegra.ph/file/81f22f16c79d157c05543.jpg",
+        "https://telegra.ph/file/668adb24626a45dc916e7.jpg",
+        "https://telegra.ph/file/7727e1cae76fa98677baf.jpg",
+        "https://telegra.ph/file/bc3c11812317f0833c0c7.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4621,
+    "title": "[トリブリ] あいつはスカートを履く (COMIC LO 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/トリブリ-あいつはスカートを履く-COMIC-LO-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/72e6d08d4ae061d92efb5.jpg",
+        "https://telegra.ph/file/5b2f57e18e823f3130f5c.jpg",
+        "https://telegra.ph/file/d10ab1bfb879361b4ee0b.jpg",
+        "https://telegra.ph/file/cc0b406af2fc4b3e5b443.jpg",
+        "https://telegra.ph/file/ee8077388371efdea6bb8.jpg",
+        "https://telegra.ph/file/8c1ec030dbb2a2d18dcb3.jpg",
+        "https://telegra.ph/file/b58e399d42bf459f2139c.jpg",
+        "https://telegra.ph/file/20e00a2cddd3f4cfd5635.jpg",
+        "https://telegra.ph/file/3c86ed8d14ffb57485149.jpg",
+        "https://telegra.ph/file/e26961dbfbd89f236e07f.jpg",
+        "https://telegra.ph/file/f57041f02c30944a27543.jpg",
+        "https://telegra.ph/file/dcb0edda139ae667cca5a.jpg",
+        "https://telegra.ph/file/4de59cf3a8332823da315.jpg",
+        "https://telegra.ph/file/985962baef5863f6e4a89.jpg",
+        "https://telegra.ph/file/539da9d84ddbee3b34606.jpg",
+        "https://telegra.ph/file/464bb42ba6c82b268912d.jpg",
+        "https://telegra.ph/file/539eb949f41d2e5f66831.jpg",
+        "https://telegra.ph/file/0209b1377ad9fd39d06b7.jpg",
+        "https://telegra.ph/file/73df7e0fb0ca74de563f9.jpg",
+        "https://telegra.ph/file/f7477768b26e89ad6d4c1.jpg",
+        "https://telegra.ph/file/cb503d437eb5123b46432.jpg",
+        "https://telegra.ph/file/32634df70732f316df5b2.jpg",
+        "https://telegra.ph/file/8a947b26778d9b0916894.jpg",
+        "https://telegra.ph/file/7839699afa1f2396e27a5.jpg",
+        "https://telegra.ph/file/70dcd7fa7127102fe65d0.jpg",
+        "https://telegra.ph/file/8be0eeba24082ef930e05.jpg"
+    ]
+};

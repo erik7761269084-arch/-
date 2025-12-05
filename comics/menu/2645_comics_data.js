@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2645,
+    "title": "[珊瑚] 睡姦ヒーロー～帰り道に爆乳ヒーローが倒れていたからお持ち帰りした～",
+    "sourceUrl": "https://telegra.ph/珊瑚-睡姦ヒーロー帰り道に爆乳ヒーローが倒れていたからお持ち帰りした-08-31",
+    "images": [
+        "https://telegra.ph/file/6b4a09abc6198aca35c70.jpg",
+        "https://telegra.ph/file/a50f43d54c2ef457c575e.jpg",
+        "https://telegra.ph/file/d1eccd1ba351f75b7ab09.jpg",
+        "https://telegra.ph/file/14580770c0983c5ad8b95.jpg",
+        "https://telegra.ph/file/0410d2506ae0b95f991d2.jpg",
+        "https://telegra.ph/file/e1646ee0b6fdf02aa748a.jpg",
+        "https://telegra.ph/file/3c2148abff76ce173c278.jpg",
+        "https://telegra.ph/file/abe6f1defd518c818acd0.jpg",
+        "https://telegra.ph/file/4766f614e7866d77c4022.jpg",
+        "https://telegra.ph/file/0e88716daedb835090954.jpg",
+        "https://telegra.ph/file/21604c3eeba2fd0225e35.jpg",
+        "https://telegra.ph/file/25d6cbf5223c1b66d8304.jpg",
+        "https://telegra.ph/file/77f6fe54f20b33d51732b.jpg",
+        "https://telegra.ph/file/ec366182f60959de0ec38.jpg",
+        "https://telegra.ph/file/2aa34c4be93fba916a7cf.jpg",
+        "https://telegra.ph/file/459571cc17e72668b9964.jpg",
+        "https://telegra.ph/file/dd67731e437caf55ab47f.jpg",
+        "https://telegra.ph/file/6490ba2c19a292def9cc5.jpg",
+        "https://telegra.ph/file/b09749e58243f381eeb63.jpg",
+        "https://telegra.ph/file/af63f83daaa6e4bac1046.jpg",
+        "https://telegra.ph/file/383b9b7fce33982896a34.jpg",
+        "https://telegra.ph/file/5282346290708f950cd52.jpg",
+        "https://telegra.ph/file/8e1d5cf9c4ba8db0353d8.jpg",
+        "https://telegra.ph/file/6ab3f1f7f0aadd4f40884.jpg",
+        "https://telegra.ph/file/6eb27558cf5c9eefd75ab.jpg"
+    ]
+};

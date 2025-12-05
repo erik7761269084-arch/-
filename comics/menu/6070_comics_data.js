@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6070,
+    "title": "[きいろいたまご] とらカブり？？",
+    "sourceUrl": "https://telegra.ph/きいろいたまご-とらカブり-08-31",
+    "images": [
+        "https://telegra.ph/file/d21b8bdb21685208ca5b1.jpg",
+        "https://telegra.ph/file/4d077dc978b85a9ecfea7.jpg",
+        "https://telegra.ph/file/f323b21980372b8013486.jpg",
+        "https://telegra.ph/file/b56369475389d1e43b111.jpg",
+        "https://telegra.ph/file/f0c0abe3d60da65c36e24.jpg",
+        "https://telegra.ph/file/54f18815095e872c3303d.jpg",
+        "https://telegra.ph/file/195764267f898bc2464a2.jpg",
+        "https://telegra.ph/file/8a0808ca4c10a251f378d.jpg",
+        "https://telegra.ph/file/5155bf88067f70ad563f9.jpg",
+        "https://telegra.ph/file/367f9b75614ca00c96aa1.jpg",
+        "https://telegra.ph/file/096403c4dd3b2d62f00cb.jpg",
+        "https://telegra.ph/file/065122d5a991c56d7020f.jpg",
+        "https://telegra.ph/file/f80a20c50fdb04bc89f32.jpg",
+        "https://telegra.ph/file/6342086e58926e92cf974.jpg",
+        "https://telegra.ph/file/61490856e3732c61a43e1.jpg",
+        "https://telegra.ph/file/4da5188d049cc93597411.jpg",
+        "https://telegra.ph/file/6aaa7a94f1ea9b2afc018.jpg",
+        "https://telegra.ph/file/4e7dea8a7410ce81dc570.jpg",
+        "https://telegra.ph/file/0c9a07896ee2cb55bf3ab.jpg",
+        "https://telegra.ph/file/40a68583aac249b869e07.jpg",
+        "https://telegra.ph/file/da50f432c9e1c90cc1e42.jpg",
+        "https://telegra.ph/file/9109758bd1c5c8c1424ad.jpg",
+        "https://telegra.ph/file/79587721f1b013820b0a7.jpg",
+        "https://telegra.ph/file/3bf2cd58645d2bf6d12e6.jpg"
+    ]
+};

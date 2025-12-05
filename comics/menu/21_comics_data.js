@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 21,
+    "title": "[YUE C] 空のNTR ファンタジー-雷電将軍 編 (原神)",
+    "sourceUrl": "https://telegra.ph/YUE-C-空のNTR-ファンタジー-雷電将軍-編-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/1c720f11efc1dfc8d83dc.jpg",
+        "https://telegra.ph/file/b69e88c4e10ddd476348d.jpg",
+        "https://telegra.ph/file/b0eb74d03ffc32da4306b.jpg",
+        "https://telegra.ph/file/5015b8e1ab79e7fd5ba34.jpg",
+        "https://telegra.ph/file/9b849aaab5bd6654a5a4b.jpg",
+        "https://telegra.ph/file/208975dc1fa8fc82c6125.jpg",
+        "https://telegra.ph/file/9f0c116ec29c8933fe961.jpg",
+        "https://telegra.ph/file/061c3b98780b68161ab69.jpg",
+        "https://telegra.ph/file/a6feb0d17754ddb9b699e.jpg",
+        "https://telegra.ph/file/aaea990ad7e9bcfaeff06.jpg",
+        "https://telegra.ph/file/ac23a862b3246256bc7d7.jpg",
+        "https://telegra.ph/file/db70592d3138dabe79fe5.jpg",
+        "https://telegra.ph/file/f68cfde72812994848c27.jpg",
+        "https://telegra.ph/file/535b60ff7a82c04bfa512.jpg",
+        "https://telegra.ph/file/fe2728a66ebe28ccdafb4.jpg",
+        "https://telegra.ph/file/a011c63aa16fa8bc6ca2a.jpg",
+        "https://telegra.ph/file/b277a6e2cf7ace39c8a42.jpg",
+        "https://telegra.ph/file/59ff13679e174e8353a44.jpg",
+        "https://telegra.ph/file/9c3caaa80177a7398ef1c.jpg",
+        "https://telegra.ph/file/8fddda106bd3a6bb34f95.jpg",
+        "https://telegra.ph/file/a26d35269d1af219e7eb3.jpg",
+        "https://telegra.ph/file/6d0c7770f37ad0172532c.jpg",
+        "https://telegra.ph/file/303d681dfd7a3cd884915.jpg",
+        "https://telegra.ph/file/d31b75582180e34b305a3.jpg"
+    ]
+};

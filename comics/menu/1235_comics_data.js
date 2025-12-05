@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 1235,
+    "title": "[P.A.Project (てるき熊)] おやつのじかん。",
+    "sourceUrl": "https://telegra.ph/PAProject-てるき熊-おやつのじかん-08-31",
+    "images": [
+        "https://telegra.ph/file/ff44aacd6c5944b54c804.jpg",
+        "https://telegra.ph/file/54b3919a2b54b8a3a3dec.jpg",
+        "https://telegra.ph/file/10f84e6556a64816b0b40.jpg",
+        "https://telegra.ph/file/d06fbe126d637f206d910.jpg",
+        "https://telegra.ph/file/d115a7a2ca52476ee2da7.jpg",
+        "https://telegra.ph/file/accf95e3a522b8b178d87.jpg",
+        "https://telegra.ph/file/2eb2ca349f249dd7086b8.jpg",
+        "https://telegra.ph/file/ee067d756415a7b2fea87.jpg",
+        "https://telegra.ph/file/9b34ed6af5c9094e31f91.jpg",
+        "https://telegra.ph/file/1f099d6397a8ebcddf003.jpg",
+        "https://telegra.ph/file/dbac7494fa6999508141b.jpg",
+        "https://telegra.ph/file/808c2125193fc025d7ec5.jpg",
+        "https://telegra.ph/file/b263316ee00382d19b522.jpg",
+        "https://telegra.ph/file/b469db005ac61338a0ef5.jpg",
+        "https://telegra.ph/file/c5a2d9b90c5fdc62b919f.jpg",
+        "https://telegra.ph/file/d8ecbb16351d0d27e975b.jpg",
+        "https://telegra.ph/file/dd175d631d5e9b4163fc5.jpg",
+        "https://telegra.ph/file/4aaccf64d63eab875fbfc.jpg",
+        "https://telegra.ph/file/7932e41350aca8f21e645.jpg",
+        "https://telegra.ph/file/e62e5c7da754eea085a0b.jpg",
+        "https://telegra.ph/file/a927df82a8e5c4156363c.jpg",
+        "https://telegra.ph/file/a3895f9f252472e4174f5.jpg",
+        "https://telegra.ph/file/15b169bcc4bc3b185f650.jpg",
+        "https://telegra.ph/file/be9738c2dc54987a2fe93.jpg",
+        "https://telegra.ph/file/f320797580e31703b18fa.jpg"
+    ]
+};

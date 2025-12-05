@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6745,
+    "title": "不完全肯定 (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/不完全肯定-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/60880be4ee7c488854963.jpg",
+        "https://telegra.ph/file/438be46d98922e3f039b9.jpg",
+        "https://telegra.ph/file/5ec6b7f7b837323313021.jpg",
+        "https://telegra.ph/file/31358b77d1fd9e22b98a7.jpg",
+        "https://telegra.ph/file/7ab69bcdd1911b9c4a5c2.jpg",
+        "https://telegra.ph/file/44af9cf50666a2bea50b1.jpg",
+        "https://telegra.ph/file/9122fed93410dfe7a8b0a.jpg",
+        "https://telegra.ph/file/34a2b8bd46b4a61028303.jpg",
+        "https://telegra.ph/file/8266818b5f641d9322508.jpg",
+        "https://telegra.ph/file/01d9264dc2c9bafa62e40.jpg",
+        "https://telegra.ph/file/554ea0fe3d0475dcc3d2a.jpg",
+        "https://telegra.ph/file/1536687efc6757aa8bfe4.jpg",
+        "https://telegra.ph/file/4bd4f39c93bb225d60cb5.jpg",
+        "https://telegra.ph/file/b20a74916d7ca36543804.jpg",
+        "https://telegra.ph/file/74eccc299637339690cbf.jpg",
+        "https://telegra.ph/file/544567fc8fd8ac940fe0e.jpg",
+        "https://telegra.ph/file/f7e0a0f7c78cc53401d4e.jpg",
+        "https://telegra.ph/file/7ddf985355427faaa02cc.jpg",
+        "https://telegra.ph/file/61e397b97f4268517b35a.jpg",
+        "https://telegra.ph/file/f31aa281109730ec0755a.jpg",
+        "https://telegra.ph/file/f9e9fde01086adbccf164.jpg",
+        "https://telegra.ph/file/37d702f534d4671ae585d.jpg",
+        "https://telegra.ph/file/1f515cb043e0bb08df5fb.jpg",
+        "https://telegra.ph/file/8e92580da792f2c94395a.jpg"
+    ]
+};

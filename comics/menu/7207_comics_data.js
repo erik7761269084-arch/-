@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7207,
+    "title": "チャイナオ～クション",
+    "sourceUrl": "https://telegra.ph/チャイナオクション-08-31",
+    "images": [
+        "https://telegra.ph/file/2b16f0ec9765f2ba886cd.jpg",
+        "https://telegra.ph/file/947a4caf5e5000eab2db5.jpg",
+        "https://telegra.ph/file/2919235c843d0e3c6ee32.jpg",
+        "https://telegra.ph/file/34750e5eaf52cd020a621.jpg",
+        "https://telegra.ph/file/10d7caefa0ac8fb71b1d3.jpg",
+        "https://telegra.ph/file/c0e43849bd76d8774f968.jpg",
+        "https://telegra.ph/file/766d0809a3bd39046f760.jpg",
+        "https://telegra.ph/file/3f4b607b0997ef5d90400.jpg",
+        "https://telegra.ph/file/7122af7e67c290ca96efa.jpg",
+        "https://telegra.ph/file/627ba0978bbb1299e5fb0.jpg",
+        "https://telegra.ph/file/7dd3600e1f9a02dc862aa.jpg",
+        "https://telegra.ph/file/0c9e46b330e9ea9da165c.jpg",
+        "https://telegra.ph/file/9962fda38a11ac4545bf3.jpg",
+        "https://telegra.ph/file/9d171b6f89fffd7388202.jpg",
+        "https://telegra.ph/file/202c9767c44b14fd5319b.jpg",
+        "https://telegra.ph/file/b24b6d1365bfe466009a4.jpg",
+        "https://telegra.ph/file/2c30783d068dddbfab46e.jpg",
+        "https://telegra.ph/file/73f07757c4e114dab7a02.jpg",
+        "https://telegra.ph/file/72d6971f913546971a6dd.jpg",
+        "https://telegra.ph/file/ae3b3567bb1c9f560e28a.jpg",
+        "https://telegra.ph/file/546aa122236f96c159e87.jpg",
+        "https://telegra.ph/file/57207b219f7480efb734f.jpg",
+        "https://telegra.ph/file/8d521c564e46aa94c753b.jpg",
+        "https://telegra.ph/file/434a3536f483991828eba.jpg",
+        "https://telegra.ph/file/f9421bfbe58fded77552a.jpg",
+        "https://telegra.ph/file/cad167f48a011524b2a86.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5017,
+    "title": "(C105) [さらさらちゃづけ (さちゃ)] ニヤニヤ教授に理解らせ (られ) たい (ブルーアーカイブ)  - Page 1",
+    "sourceUrl": "https://telegra.ph/C105-さらさらちゃづけ-さちゃ-ニヤニヤ教授に理解らせ-られ-たい-ブルーアーカイブ---Page-1-08-28",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFzZoqwvK6OsMizwaKIYwHPaxxJw4_wACuh0AAktRWVVNLo3j0DZ8ZDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFzdoqwvMAfJT67a9NgABwTWLHcmmB6wAArsdAAJLUVlV6szqUuut7vw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFzhoqwvNN_yM_5w0cgIc0G-s8pNC1QACvB0AAktRWVVofve1HCaf8jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFzloqwvPJyD1sIdwp0kTfIa7bV22JAACvR0AAktRWVVzP0K4ibQnRDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFzpoqwvRzMh82IKpRgawEAEYOwYQTwACvh0AAktRWVV25hG8fkmvgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFztoqwvTGbpobos-Ii5x_FNkmeGBQgACvx0AAktRWVWwPBhnwpRHATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFzxoqwvUtm022RcyhGpAMFhtrIgfxAACwB0AAktRWVWQbZP4KJClMDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFz1oqwvWWQP0ykC3JHIDM4nDiYuriAACwR0AAktRWVWfZsD6T6RGzzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFz5oqwvYYOHnBsskfJ_Cy9A7_VcGTgACwh0AAktRWVVqdRhaxW5v7DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQFz9oqwvZ1QbXf_GIocgxaALEnuU-qwACwx0AAktRWVXf4jVybbECZDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0BoqwvbD8B_wiEUHXU325kAAU1djv0AAsQdAAJLUVlV5Kx1MbdqlCw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0FoqwvdEEkYBD5t0vHsLBjQ-JFqWgACxR0AAktRWVUQRyuQkuleNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0JoqwvfVrlFGCIC97dI7MJ3_MQgIwACxh0AAktRWVWNS5RNIJnrlTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0NoqwvgBNwfDvwvDt24Y2RUOnn9TAACxx0AAktRWVVKlR5eOlzJmzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0RoqwvirlZhXwABZpj5NPaAh67cVVEAAsgdAAJLUVlVr8CZJPfqWUI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0Voqwvk59CF-MYAASx6Ty8wVvmg0wkAAskdAAJLUVlV9qlljsYmZl02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0ZoqwvlBM7gw5oPXaygXlDjFEhcMQACyh0AAktRWVXPFCbMDB0SzDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0doqwvnWEZKqFVP6-qsWvWWS65NSQACyx0AAktRWVUFR1dVAkDquTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0hoqwvpy3c1EUnpHbYsQHfZRw7IkwACzB0AAktRWVW-U0bHgmruTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0loqwvraRGereSnVjhHHU4tjG7E9QACzR0AAktRWVVxotRRd1dJDjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0poqwvsMDLUt1ODAAHlE6ieOnZdVmMAAs4dAAJLUVlV1fpb6tdJel42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0toqwvug4aM46LjVYHJTyAjwxLmrQACzx0AAktRWVWiESegHNLKdzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF0xoqwvvGMxyxunedld8rNh03BfTkQAC0B0AAktRWVW4BXTDT_dJCTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF01oqwwveHUb4Mh9uEONqGrA_swCtAAC0h0AAktRWVUv4xWtZtBwTDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF05oqwwx-dtSaGRxSAPc4DCW4ugzrAAC0x0AAktRWVUmWhpLBGGOXDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQF09oqwwyH5Nfk1dZ1mWkN8u9bixDEAAC1B0AAktRWVXL8NpKPyeapjYE"
+    ]
+};

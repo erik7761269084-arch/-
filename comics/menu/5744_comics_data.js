@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5744,
+    "title": "[剛田ナギ] 秘密のトカゲ姫",
+    "sourceUrl": "https://telegra.ph/剛田ナギ-秘密のトカゲ姫-08-31-2",
+    "images": [
+        "https://telegra.ph/file/09b3ed29342a6e030c7fc.jpg",
+        "https://telegra.ph/file/0c3c6a9c6a84fcffdf869.jpg",
+        "https://telegra.ph/file/f840a0b69e246fb6c90a4.jpg",
+        "https://telegra.ph/file/5c4d18df590011ae92d45.jpg",
+        "https://telegra.ph/file/a8978bb475337367530ad.jpg",
+        "https://telegra.ph/file/994baf80571bd182f1569.jpg",
+        "https://telegra.ph/file/9c52f41fc2d28f23c6787.jpg",
+        "https://telegra.ph/file/ee86309ed33cf9ab36964.jpg",
+        "https://telegra.ph/file/74ae7697b50741e9f512a.jpg",
+        "https://telegra.ph/file/465ea84dc3f2bb272ae70.jpg",
+        "https://telegra.ph/file/91ffc7236012db7c7cb65.jpg",
+        "https://telegra.ph/file/39ed5b4699d2caf39fc0f.jpg",
+        "https://telegra.ph/file/6ddbd550233c78e322b37.jpg",
+        "https://telegra.ph/file/f03ef5c92bdc57d6ef3bf.jpg",
+        "https://telegra.ph/file/db7caf4c912f5a130464a.jpg",
+        "https://telegra.ph/file/778f76cb4a5ec0228c254.jpg",
+        "https://telegra.ph/file/4c434d3072e8b07f2ce13.jpg",
+        "https://telegra.ph/file/229d3857c7a3e36603b1f.jpg",
+        "https://telegra.ph/file/7b6bbf04975479a3427a3.jpg",
+        "https://telegra.ph/file/0cc59feab0f5eaa7c48be.jpg",
+        "https://telegra.ph/file/acbd73df169c63ccb9790.jpg",
+        "https://telegra.ph/file/e8af35934fadd2bf49bea.jpg",
+        "https://telegra.ph/file/509fb29edb7478de35629.jpg"
+    ]
+};

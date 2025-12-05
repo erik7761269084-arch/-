@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4387,
+    "title": "[山田タヒチ] 母娘豚舎 (獣DIRECT 3)",
+    "sourceUrl": "https://telegra.ph/山田タヒチ-母娘豚舎-獣DIRECT-3-08-31",
+    "images": [
+        "https://telegra.ph/file/45561d130c70b90e40b0f.jpg",
+        "https://telegra.ph/file/162abd0b9111dbab8fddf.jpg",
+        "https://telegra.ph/file/523ade6b74707448c4d82.jpg",
+        "https://telegra.ph/file/643a5f1f39500a6e0c291.jpg",
+        "https://telegra.ph/file/28ef2af99b57ae7c0c7e2.jpg",
+        "https://telegra.ph/file/2794a95722d580c8f3f35.jpg",
+        "https://telegra.ph/file/148622b940e67eebbfdc4.jpg",
+        "https://telegra.ph/file/12ec6cbde6dd7e6c546a7.jpg",
+        "https://telegra.ph/file/d79da327dbde4502b8454.jpg",
+        "https://telegra.ph/file/a7082d19b114a2205b9ed.jpg",
+        "https://telegra.ph/file/a1090a70e3492d6f1b438.jpg",
+        "https://telegra.ph/file/c7c74c60951193d29f1fe.jpg",
+        "https://telegra.ph/file/da17c6065ecd5397d4155.jpg",
+        "https://telegra.ph/file/c25b6316ef10a9b1b853f.jpg",
+        "https://telegra.ph/file/d260847d947e8fa03fedd.jpg",
+        "https://telegra.ph/file/14596d932a72395ee410d.jpg",
+        "https://telegra.ph/file/eb8e484c5ba457034c439.jpg",
+        "https://telegra.ph/file/8350382005d0000f932ac.jpg",
+        "https://telegra.ph/file/dac25cc453546cf0b5dcf.jpg",
+        "https://telegra.ph/file/9f6b29460da90edef12c8.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/c69b66bc95ac1e0b20de0.jpg",
+        "https://telegra.ph/file/d3309564c894ab06c9c77.jpg",
+        "https://telegra.ph/file/c5adb11c3b5385eaf73cc.png",
+        "https://telegra.ph/file/27fb2da798879a5ef7fc0.jpg",
+        "https://telegra.ph/file/019cc9b74612882df8410.jpg"
+    ]
+};

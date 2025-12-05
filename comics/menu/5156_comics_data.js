@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5156,
+    "title": "[関谷あさみ] メタモルフォーゼ (COMIC BAVEL 2021年5月号) [MJK-22-Z2659]",
+    "sourceUrl": "https://telegra.ph/関谷あさみ-メタモルフォーゼ-COMIC-BAVEL-2021年5月号-MJK-22-Z2659-08-31-2",
+    "images": [
+        "https://telegra.ph/file/c70e95a91f959bce95c25.png",
+        "https://telegra.ph/file/e5baaae4bca1a3c36f5ff.png",
+        "https://telegra.ph/file/d8ae0a7b2c628163013d8.png",
+        "https://telegra.ph/file/0d8344afd32f58b70dbd9.png",
+        "https://telegra.ph/file/645ba3015fd05e1882e79.png",
+        "https://telegra.ph/file/4c70943ed1a5833c73d12.png",
+        "https://telegra.ph/file/3fb40de3488f7e4e44493.png",
+        "https://telegra.ph/file/2ff137cb2553a1304bd16.png",
+        "https://telegra.ph/file/b63af4c0412b13116509e.png",
+        "https://telegra.ph/file/236d19e3d9597f675b2a8.png",
+        "https://telegra.ph/file/dd5a782b12da4218ce303.png",
+        "https://telegra.ph/file/b2760c6e332f9f3d9c795.png",
+        "https://telegra.ph/file/a8ab7ef11e928ec19d3ac.png",
+        "https://telegra.ph/file/a3e5dd144cea5ae488999.png",
+        "https://telegra.ph/file/f476d0feae6772b6b5828.png",
+        "https://telegra.ph/file/840fb7bf1e3aa92c20dd1.png",
+        "https://telegra.ph/file/813fcc6e7a9a38b64156d.png",
+        "https://telegra.ph/file/742d352f002fe3875380e.png",
+        "https://telegra.ph/file/9509f9233937f307aa30d.png",
+        "https://telegra.ph/file/782b8ba03f0d238087d68.png",
+        "https://telegra.ph/file/e36b0a500abc55acbbe3c.png",
+        "https://telegra.ph/file/b3e520d804a8d4c1a46d2.png",
+        "https://telegra.ph/file/0fa3fc2458042553c1658.png",
+        "https://telegra.ph/file/9c68bd9f420434d42d507.png",
+        "https://telegra.ph/file/c800d43104631ed1c0b8d.png",
+        "https://telegra.ph/file/0c4207fcbccc1492576f3.png"
+    ]
+};

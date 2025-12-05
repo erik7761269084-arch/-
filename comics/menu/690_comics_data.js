@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 690,
+    "title": "[MANA] 八重神子 1-4 (原神)",
+    "sourceUrl": "https://telegra.ph/MANA-八重神子-1-4-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/bc0c1bc1cee474170abd3.jpg",
+        "https://telegra.ph/file/6c918aaad7fe8baf8772e.jpg",
+        "https://telegra.ph/file/0d673df8cf1417c5eca2d.jpg",
+        "https://telegra.ph/file/efb0c7983bcc6190e692b.jpg",
+        "https://telegra.ph/file/9c93b5513707995226926.jpg",
+        "https://telegra.ph/file/beaf36ffddabc53f08ea1.jpg",
+        "https://telegra.ph/file/6e9618b3014870605c547.jpg",
+        "https://telegra.ph/file/f05b3eaacb72f2702a63e.jpg",
+        "https://telegra.ph/file/8c8453c3d90dadb544b74.jpg",
+        "https://telegra.ph/file/1e70407ec1d899ec46ee8.jpg",
+        "https://telegra.ph/file/92abcbc4aa4a7fdca8a66.jpg",
+        "https://telegra.ph/file/cdf4f09e5a617e278fcbf.jpg",
+        "https://telegra.ph/file/7e321532cf55e6162dfdc.jpg",
+        "https://telegra.ph/file/32fadd0069703ebded219.jpg",
+        "https://telegra.ph/file/7c7041f0a04448cbdebd2.jpg",
+        "https://telegra.ph/file/b708382c398dbfdc84598.jpg",
+        "https://telegra.ph/file/deac3c49813a08bf8983d.jpg",
+        "https://telegra.ph/file/2c4b56241715732530449.jpg",
+        "https://telegra.ph/file/23176c63feae2b4285537.jpg",
+        "https://telegra.ph/file/482eb6f7fe6d463c89fc9.jpg",
+        "https://telegra.ph/file/6d253303d5c94a97a1a27.jpg",
+        "https://telegra.ph/file/e3f82b43003da7d44e2a6.jpg",
+        "https://telegra.ph/file/161cbfa438a02119e493d.jpg",
+        "https://telegra.ph/file/ab5fd96f4de48d7213640.jpg",
+        "https://telegra.ph/file/8940abc3dceac88737861.jpg"
+    ]
+};

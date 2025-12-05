@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5612,
+    "title": "[メネア・ザ・ドッグ] 瑞葉はいじっぱり",
+    "sourceUrl": "https://telegra.ph/メネアザドッグ-瑞葉はいじっぱり-08-31",
+    "images": [
+        "https://telegra.ph/file/b6432290b6355e8a1eec2.jpg",
+        "https://telegra.ph/file/a99d532ee321cb61d0b2c.jpg",
+        "https://telegra.ph/file/cb45a09f6a51bc20c6270.jpg",
+        "https://telegra.ph/file/b1d1254de45c321db0f2d.jpg",
+        "https://telegra.ph/file/e6140c2500c0db49f7a9c.jpg",
+        "https://telegra.ph/file/260ea646e85aef13ed466.jpg",
+        "https://telegra.ph/file/7b2d288e923b31ad2f1d7.jpg",
+        "https://telegra.ph/file/c357a5e7d1677f0c8963a.jpg",
+        "https://telegra.ph/file/cdff3ade5b3b82bc8bfb0.jpg",
+        "https://telegra.ph/file/33857399faa2844db178b.jpg",
+        "https://telegra.ph/file/8768fb567b2beb3ad15e8.jpg",
+        "https://telegra.ph/file/c027eb98e58ca30861bb5.jpg",
+        "https://telegra.ph/file/f4b7793a097947eab2a0f.jpg",
+        "https://telegra.ph/file/9f283625e17a7cc31f0d7.jpg",
+        "https://telegra.ph/file/6526532642b7f51b678fd.jpg",
+        "https://telegra.ph/file/ccebdd42cdcac8aeacccb.jpg",
+        "https://telegra.ph/file/6225155c1b033ec565fcb.jpg",
+        "https://telegra.ph/file/f59e57637da4b0b2d6c8b.jpg",
+        "https://telegra.ph/file/3f2bb3e9da129fa8db9a8.jpg",
+        "https://telegra.ph/file/273dc94f67e67ab70b25a.jpg",
+        "https://telegra.ph/file/a1b6ee1b7b939dd2bd299.jpg",
+        "https://telegra.ph/file/cf0c51cf07f2172bf4dc7.jpg",
+        "https://telegra.ph/file/31695ae8ef37050a3b29b.jpg",
+        "https://telegra.ph/file/f8bcca0e997f9bdcf96b5.jpg",
+        "https://telegra.ph/file/af66118c28897f73b70bb.jpg",
+        "https://telegra.ph/file/cb0696efe7ae96c2d139e.jpg"
+    ]
+};

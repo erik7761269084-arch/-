@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6370,
+    "title": "留守番艦 長門",
+    "sourceUrl": "https://telegra.ph/留守番艦-長門-08-31",
+    "images": [
+        "https://telegra.ph/file/52c01a353cab86fafff2f.jpg",
+        "https://telegra.ph/file/deadaa99d691c506f679a.jpg",
+        "https://telegra.ph/file/70e0f3c2947813994918e.jpg",
+        "https://telegra.ph/file/f359b5914849d5d2f808f.jpg",
+        "https://telegra.ph/file/09353faf8f1f10161ca58.jpg",
+        "https://telegra.ph/file/7178b42f01275c1089339.jpg",
+        "https://telegra.ph/file/12a0d2d618a62f7bd0e52.jpg",
+        "https://telegra.ph/file/856e27f1ec250061bbf6b.jpg",
+        "https://telegra.ph/file/f2fbff41618fe2ca4e674.jpg",
+        "https://telegra.ph/file/954225b520492d8ed3063.jpg",
+        "https://telegra.ph/file/046e4e15d8afb33729bc5.jpg",
+        "https://telegra.ph/file/31ad7bfd6ff1590e85c55.jpg",
+        "https://telegra.ph/file/217478cb6bc5d90e687d3.jpg",
+        "https://telegra.ph/file/948dd3d3c77a3dd45fd03.jpg",
+        "https://telegra.ph/file/526061b9ca1740ed4627e.jpg",
+        "https://telegra.ph/file/233c3af339f71aa23e808.jpg",
+        "https://telegra.ph/file/3741cbaa04b76240382d0.jpg",
+        "https://telegra.ph/file/e0dd528e7209dbe1ea2d2.jpg",
+        "https://telegra.ph/file/b744c29d095781d3a62cf.jpg",
+        "https://telegra.ph/file/1c4b41d7b104760981a20.jpg",
+        "https://telegra.ph/file/41f8b5af7090809018071.jpg",
+        "https://telegra.ph/file/07b376891f10cc5b05d88.jpg",
+        "https://telegra.ph/file/45f3acedc7a020fd17ab7.jpg",
+        "https://telegra.ph/file/b51accc2bfccd169efe68.jpg"
+    ]
+};

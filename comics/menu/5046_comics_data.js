@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5046,
+    "title": "(C92) やはり俺は一色いろはの掌上で踊りつづける。(やはり俺の青春ラブコメはまちがっている。)",
+    "sourceUrl": "https://telegra.ph/C92-やはり俺は一色いろはの掌上で踊りつづけるやはり俺の青春ラブコメはまちがっている-08-31-2",
+    "images": [
+        "https://telegra.ph/file/15e1399a44eea90782fe8.jpg",
+        "https://telegra.ph/file/074ed4206a89cfa0a08c6.jpg",
+        "https://telegra.ph/file/a7b01f3d43561056b6630.jpg",
+        "https://telegra.ph/file/218327c8413a2ac1831c8.jpg",
+        "https://telegra.ph/file/38bfd29652dfa6bb00a08.jpg",
+        "https://telegra.ph/file/4d7f488fe0a7062b14c20.jpg",
+        "https://telegra.ph/file/e2ea7fc2cc75f503edbec.jpg",
+        "https://telegra.ph/file/6aab838c9d09ceb49ab84.jpg",
+        "https://telegra.ph/file/19d1e0bde18986fe8f0fb.jpg",
+        "https://telegra.ph/file/6a3d40c024f68a389ce4a.jpg",
+        "https://telegra.ph/file/410e7c1c1d310c7b44865.jpg",
+        "https://telegra.ph/file/a56ba2e405d26abed62dc.jpg",
+        "https://telegra.ph/file/6ad9689d98ca1db52e88d.jpg",
+        "https://telegra.ph/file/7d4af54650d3e85bfe33f.jpg",
+        "https://telegra.ph/file/ce63623da9340c5068562.jpg",
+        "https://telegra.ph/file/52fc780102e672e62e215.jpg",
+        "https://telegra.ph/file/33b5237a8ff3d55a1366d.jpg",
+        "https://telegra.ph/file/1de2f8659ba5933760551.jpg",
+        "https://telegra.ph/file/ec9a0779bc3792766609b.jpg",
+        "https://telegra.ph/file/961ea2628b23bb4ec435a.jpg",
+        "https://telegra.ph/file/fa3c303a7b456c9229de4.jpg",
+        "https://telegra.ph/file/b4ceba1de81d8151307fa.jpg",
+        "https://telegra.ph/file/031add384858e9635cb1b.jpg"
+    ]
+};

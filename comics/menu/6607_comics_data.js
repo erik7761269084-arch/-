@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6607,
+    "title": "のうりん牧場へようこそ (のうりん)",
+    "sourceUrl": "https://telegra.ph/のうりん牧場へようこそ-のうりん-08-31",
+    "images": [
+        "https://telegra.ph/file/28e8f335a22751a7dafbe.jpg",
+        "https://telegra.ph/file/d35fc5dff46ef6d50817a.jpg",
+        "https://telegra.ph/file/609126d7378af30177b23.jpg",
+        "https://telegra.ph/file/d50e9e2c94f9e39e55d7d.jpg",
+        "https://telegra.ph/file/1af4816b74aa423dd00ca.jpg",
+        "https://telegra.ph/file/0266b80569d44701359a2.jpg",
+        "https://telegra.ph/file/75ad623bc93a3f0c13cab.jpg",
+        "https://telegra.ph/file/f981880dbdbdce906cfe0.jpg",
+        "https://telegra.ph/file/be5b55f744f6b2bfd5244.jpg",
+        "https://telegra.ph/file/8e8609a4b9b47d4d91731.jpg",
+        "https://telegra.ph/file/62f1eaa981ca92d34bbc8.jpg",
+        "https://telegra.ph/file/a47a30dee19920c55b1d6.jpg",
+        "https://telegra.ph/file/54e6dd1944783a55a304d.jpg",
+        "https://telegra.ph/file/413057ae12df94a71af27.jpg",
+        "https://telegra.ph/file/229472f5678ca29a518f7.jpg",
+        "https://telegra.ph/file/a13c7adcb20a8a50787b5.jpg",
+        "https://telegra.ph/file/7aa95cdf89b3109f685af.jpg",
+        "https://telegra.ph/file/24ad7ca1014376541c368.jpg",
+        "https://telegra.ph/file/dcda0bd7302750c157d89.jpg",
+        "https://telegra.ph/file/0dfa48bda19e868538213.jpg",
+        "https://telegra.ph/file/4a96a896eadec764cef56.jpg",
+        "https://telegra.ph/file/d8568309f88b014aab3a4.jpg",
+        "https://telegra.ph/file/c710995bc3b41cdbaaf90.jpg",
+        "https://telegra.ph/file/df621e3511de8becf7c69.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4942,
+    "title": "[たまび] 怖がりはどっち？ (COMIC アンスリウム 2021年8月号)",
+    "sourceUrl": "https://telegra.ph/たまび-怖がりはどっち-COMIC-アンスリウム-2021年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f54e4c83aed283a646dad.png",
+        "https://telegra.ph/file/e8ed2c9a7c72b94834f21.jpg",
+        "https://telegra.ph/file/931120a8e6273a1460794.jpg",
+        "https://telegra.ph/file/78bb0900538e90218062a.jpg",
+        "https://telegra.ph/file/1d338b67c7673c0b6aad8.jpg",
+        "https://telegra.ph/file/84df4c010344b06991ed1.jpg",
+        "https://telegra.ph/file/106f98e9fe8262a03691b.jpg",
+        "https://telegra.ph/file/a14e345e889d78d91e909.jpg",
+        "https://telegra.ph/file/cb9aeb3d61755b9960195.jpg",
+        "https://telegra.ph/file/53c66d9308c408e28da42.jpg",
+        "https://telegra.ph/file/61b847c429d062bb6f1fc.jpg",
+        "https://telegra.ph/file/502de01d401437e9b98da.jpg",
+        "https://telegra.ph/file/3176ca45fa824692a1d8f.jpg",
+        "https://telegra.ph/file/1d299a96095c69faee718.jpg",
+        "https://telegra.ph/file/ed13a3c20d3b830648670.jpg",
+        "https://telegra.ph/file/05b54bfb8167767c232ea.jpg",
+        "https://telegra.ph/file/b8a10ff548c439410211b.jpg",
+        "https://telegra.ph/file/4c296c9a8c5b3889f20ec.jpg",
+        "https://telegra.ph/file/6dc82041c3a6dbc559410.jpg",
+        "https://telegra.ph/file/7f36bfd085592909fcd2c.jpg",
+        "https://telegra.ph/file/7f9bc723eb86312d41aff.jpg",
+        "https://telegra.ph/file/7355ce3374dcc195466c9.jpg",
+        "https://telegra.ph/file/022e91ef44dd8eb818d30.jpg",
+        "https://telegra.ph/file/f313280d10f82863c370d.jpg"
+    ]
+};

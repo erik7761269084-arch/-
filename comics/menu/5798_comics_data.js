@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5798,
+    "title": "[桜桃千絵里] 学校の快談",
+    "sourceUrl": "https://telegra.ph/桜桃千絵里-学校の快談-08-31",
+    "images": [
+        "https://telegra.ph/file/ee19c3d387338a13c1d70.jpg",
+        "https://telegra.ph/file/4f8d736feb074d2c56119.jpg",
+        "https://telegra.ph/file/234e1f8fde05721527619.jpg",
+        "https://telegra.ph/file/b6c139d729650a9cffab3.jpg",
+        "https://telegra.ph/file/8705ec487e11e0eade336.jpg",
+        "https://telegra.ph/file/8b0f2924c80a83a0a602f.jpg",
+        "https://telegra.ph/file/c8f61f3109e03bcf94957.jpg",
+        "https://telegra.ph/file/d2064fba4af78d28f9876.jpg",
+        "https://telegra.ph/file/bde23a585e2aa243eefd6.jpg",
+        "https://telegra.ph/file/1679d6c428ba3ff5832e8.jpg",
+        "https://telegra.ph/file/502357523a3a2a2c1a9cc.jpg",
+        "https://telegra.ph/file/991a33ab8084e318a6e7f.jpg",
+        "https://telegra.ph/file/66808964f689b313e6fe9.jpg",
+        "https://telegra.ph/file/734d951c444e8a7685781.jpg",
+        "https://telegra.ph/file/eecce72e97a0aaeb7cac7.jpg",
+        "https://telegra.ph/file/1e1911e70294b56d3043d.jpg",
+        "https://telegra.ph/file/43a0acfe6de15ab2a9d4e.jpg",
+        "https://telegra.ph/file/133bdd86e4a1a8bfa64a1.jpg",
+        "https://telegra.ph/file/43d576bd7a7b5116776ce.jpg",
+        "https://telegra.ph/file/c055299481e4705584220.jpg",
+        "https://telegra.ph/file/731727a3dad8935b8726b.jpg",
+        "https://telegra.ph/file/d4c58182d6317b2a1a8db.jpg",
+        "https://telegra.ph/file/f3211aa51c9950d1e4823.jpg"
+    ]
+};

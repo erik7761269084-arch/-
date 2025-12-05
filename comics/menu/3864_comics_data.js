@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3864,
+    "title": "[やまこんぶ] 秘事 (COMIC アンスリウム 2021年7月号)",
+    "sourceUrl": "https://telegra.ph/やまこんぶ-秘事-COMIC-アンスリウム-2021年7月号-08-31",
+    "images": [
+        "https://telegra.ph/file/2c7eee6248f33fa2eb30d.jpg",
+        "https://telegra.ph/file/ca84b60073eaefc7f5b10.jpg",
+        "https://telegra.ph/file/4bb3adf48c1b56f2bf33d.jpg",
+        "https://telegra.ph/file/ab1b814edde507dd8acb6.jpg",
+        "https://telegra.ph/file/8a23e56370fea5d144f27.jpg",
+        "https://telegra.ph/file/e0cf5cbd51145c5b9056e.jpg",
+        "https://telegra.ph/file/12335e97ffa985d8b3cae.jpg",
+        "https://telegra.ph/file/619894a958a546f087b1c.jpg",
+        "https://telegra.ph/file/7d5d22f41b3fa058c30f2.jpg",
+        "https://telegra.ph/file/3607c25221aaca1914565.jpg",
+        "https://telegra.ph/file/838c27ca6307caf03a5a7.jpg",
+        "https://telegra.ph/file/68f9adcf53241f44712d6.jpg",
+        "https://telegra.ph/file/aa6e26d7bde1fa0a03231.jpg",
+        "https://telegra.ph/file/892b8e4669c69c54f9340.jpg",
+        "https://telegra.ph/file/4ec1eecfc8252f5c468d7.jpg",
+        "https://telegra.ph/file/1902457b97999cdf3370f.jpg",
+        "https://telegra.ph/file/565b53b861a1677a0f327.jpg",
+        "https://telegra.ph/file/08e83f23027c3759d4f69.jpg",
+        "https://telegra.ph/file/cdaf5cdd0b4590d779fdc.jpg",
+        "https://telegra.ph/file/738351382731e5841062d.jpg",
+        "https://telegra.ph/file/c4aaf4f83abccf484802f.jpg",
+        "https://telegra.ph/file/c274205f3ed1e331b23cf.jpg",
+        "https://telegra.ph/file/73b1c06f4a79a28ff1f8a.jpg",
+        "https://telegra.ph/file/6715900d89f1d64cbe6d2.jpg"
+    ]
+};

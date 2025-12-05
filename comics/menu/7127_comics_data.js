@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7127,
+    "title": "ごっこ",
+    "sourceUrl": "https://telegra.ph/ごっこ-08-31",
+    "images": [
+        "https://telegra.ph/file/ef70bc10be5656993b709.jpg",
+        "https://telegra.ph/file/8339e6c6ac4f19e647f92.jpg",
+        "https://telegra.ph/file/b14686ccbc134e6444258.jpg",
+        "https://telegra.ph/file/59361eb5040f722cc7496.jpg",
+        "https://telegra.ph/file/bd1a2b5da6ec563565232.jpg",
+        "https://telegra.ph/file/455551d733560dfd09321.jpg",
+        "https://telegra.ph/file/09e373fcb7c4ed4bb4120.jpg",
+        "https://telegra.ph/file/16f399947e50b53bc2978.jpg",
+        "https://telegra.ph/file/6fe4fb0a6f1cfe6f75da4.jpg",
+        "https://telegra.ph/file/30f8b1212bb9927e7a794.jpg",
+        "https://telegra.ph/file/d134a8eff76ba877d8971.jpg",
+        "https://telegra.ph/file/d4cc7fe28acd0e216f454.jpg",
+        "https://telegra.ph/file/20c1509341cb12fef5757.jpg",
+        "https://telegra.ph/file/251f85faa0a218fdc4e24.jpg",
+        "https://telegra.ph/file/5e2d3e4403d54314be149.jpg",
+        "https://telegra.ph/file/042cd2116f02a0c1ccaaa.jpg",
+        "https://telegra.ph/file/2df9e42e28513014c4285.jpg",
+        "https://telegra.ph/file/52594c72cb4f7c6ac2396.jpg",
+        "https://telegra.ph/file/a3616fac46454bdaa90b1.jpg",
+        "https://telegra.ph/file/aba8ff46ee3c0142bd77c.jpg",
+        "https://telegra.ph/file/9034c7a4f9f05686b0e6e.jpg",
+        "https://telegra.ph/file/ba80e72c07861b81ad9c1.jpg",
+        "https://telegra.ph/file/7dfc60b5060c8cafbd3eb.jpg",
+        "https://telegra.ph/file/df622527db90819e77ebe.jpg",
+        "https://telegra.ph/file/1e4d0cb5aeb01cfe9a7bc.jpg",
+        "https://telegra.ph/file/4fbc49b7796805a6df4ab.jpg"
+    ]
+};

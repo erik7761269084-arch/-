@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7321,
+    "title": "ゆりかご",
+    "sourceUrl": "https://telegra.ph/ゆりかご-08-31",
+    "images": [
+        "https://telegra.ph/file/b20ea377b92da6e092d59.jpg",
+        "https://telegra.ph/file/4589c8ad73876a0020f0c.jpg",
+        "https://telegra.ph/file/d19a639aafadc306b7230.jpg",
+        "https://telegra.ph/file/a91c0db1858e1ddd37092.jpg",
+        "https://telegra.ph/file/4e683b618e3879f11b9d1.jpg",
+        "https://telegra.ph/file/32296d910cb22276d3c89.jpg",
+        "https://telegra.ph/file/ce573f003cdd1baaa7696.jpg",
+        "https://telegra.ph/file/09b1b2ce543d24c2cfedf.jpg",
+        "https://telegra.ph/file/a3fe2adc83ed7af4e10ba.jpg",
+        "https://telegra.ph/file/c75d8946ffb92129c7f38.jpg",
+        "https://telegra.ph/file/df5e07ef13db1d98c16ad.jpg",
+        "https://telegra.ph/file/f438e6fa9065c58eea6b8.jpg",
+        "https://telegra.ph/file/7a582c0efb7575ced6293.jpg",
+        "https://telegra.ph/file/c5e1887f19e622e802edb.jpg",
+        "https://telegra.ph/file/9fe752c72ea25fecde559.jpg",
+        "https://telegra.ph/file/e546be288bc2e56965bfb.jpg",
+        "https://telegra.ph/file/bcb2d7dcd1df4d8611181.jpg",
+        "https://telegra.ph/file/869ffaa98a1b3ac917ab9.jpg",
+        "https://telegra.ph/file/8db63568ca8e3e8cf0dc2.jpg",
+        "https://telegra.ph/file/33318c65589cbccb19e1f.jpg",
+        "https://telegra.ph/file/e2bc758e25004c4393dae.jpg",
+        "https://telegra.ph/file/81444e09eb0a6675f4529.jpg",
+        "https://telegra.ph/file/ee29bdb008c187a3550c3.jpg",
+        "https://telegra.ph/file/28587b6e41de0a580612f.jpg"
+    ]
+};

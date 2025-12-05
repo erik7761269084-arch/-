@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7552,
+    "title": "姫の過去",
+    "sourceUrl": "https://telegra.ph/姫の過去-08-31",
+    "images": [
+        "https://telegra.ph/file/97c492d130174fda38f69.jpg",
+        "https://telegra.ph/file/e7f16aa94a14804f06aed.jpg",
+        "https://telegra.ph/file/b2bff2e572ba4fd4474c7.jpg",
+        "https://telegra.ph/file/3af8d66d7aa057cf095aa.jpg",
+        "https://telegra.ph/file/df285546b062ddb9c0dba.jpg",
+        "https://telegra.ph/file/acc937502bf295140b421.jpg",
+        "https://telegra.ph/file/dc42af1a216ee6f84e052.jpg",
+        "https://telegra.ph/file/b8f5f305c2809cce67f77.jpg",
+        "https://telegra.ph/file/0653d03b3d026a57e1c81.jpg",
+        "https://telegra.ph/file/fd80196a94627ef7f3749.jpg",
+        "https://telegra.ph/file/b0d9fe09725b569e4b54f.jpg",
+        "https://telegra.ph/file/b8f30b94696dd2f2755c8.jpg",
+        "https://telegra.ph/file/6092413eeae4146fafe69.jpg",
+        "https://telegra.ph/file/3d812978905e1a8f109a3.jpg",
+        "https://telegra.ph/file/41c8a14c6feb5c7420876.jpg",
+        "https://telegra.ph/file/471cfb2f7ada490aed3c2.jpg",
+        "https://telegra.ph/file/5526baac0c0467d4e684b.jpg",
+        "https://telegra.ph/file/ad27a12336639f5a8ae77.jpg",
+        "https://telegra.ph/file/6abc1ffef8520be5ffb53.jpg",
+        "https://telegra.ph/file/7f9315c25c3a3bc27021b.jpg",
+        "https://telegra.ph/file/89445b18cca56f973986e.jpg",
+        "https://telegra.ph/file/bfd7e863bb4f70da7dac2.jpg",
+        "https://telegra.ph/file/a084c4f1c4ade5087d254.jpg",
+        "https://telegra.ph/file/fffdbaca16b8bcdab4f27.jpg",
+        "https://telegra.ph/file/0342a148454d18a472f0d.jpg",
+        "https://telegra.ph/file/762671ee816d4efc618d1.jpg"
+    ]
+};

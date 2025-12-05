@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4245,
+    "title": "[冬野みかん] peeing (はつじょう がーるず)",
+    "sourceUrl": "https://telegra.ph/冬野みかん-peeing-はつじょう-がーるず-08-31",
+    "images": [
+        "https://telegra.ph/file/7a5f3b2484d96a9de2caa.jpg",
+        "https://telegra.ph/file/f38c385b1440b1b41895e.jpg",
+        "https://telegra.ph/file/4b9f1cda39bc11040d58e.jpg",
+        "https://telegra.ph/file/6c9cda68092e273a40887.jpg",
+        "https://telegra.ph/file/b5a82bd3a378dd5b23912.jpg",
+        "https://telegra.ph/file/204878d5bff2d9304da86.jpg",
+        "https://telegra.ph/file/d40abf1ace7570be711b3.jpg",
+        "https://telegra.ph/file/5caa8bd7b6b918867c100.jpg",
+        "https://telegra.ph/file/87bf2b3c3535404e43538.jpg",
+        "https://telegra.ph/file/74ae20bd5b39fb6ccdca9.jpg",
+        "https://telegra.ph/file/be4c46efb9b9023ad57c1.jpg",
+        "https://telegra.ph/file/0e45f38bf2aa08383dd02.jpg",
+        "https://telegra.ph/file/1ea5d6cc6ca463cb4991e.jpg",
+        "https://telegra.ph/file/452f300758cbc89dcc9a8.jpg",
+        "https://telegra.ph/file/9b125f29cf2106b9a58a9.jpg",
+        "https://telegra.ph/file/25fb583dd64536422bd31.jpg",
+        "https://telegra.ph/file/af28b7a049f2b923a47e5.jpg",
+        "https://telegra.ph/file/b262f998e8b6eb73875ad.jpg",
+        "https://telegra.ph/file/07b793b635d3dfede3793.jpg",
+        "https://telegra.ph/file/f0fdc2f633fa959c24e24.jpg",
+        "https://telegra.ph/file/076037473697fbd44be36.jpg",
+        "https://telegra.ph/file/842e3ef8b8c2596a3d848.jpg",
+        "https://telegra.ph/file/38f542230be981e02cc10.jpg",
+        "https://telegra.ph/file/3011ba7883f81554bc1da.jpg"
+    ]
+};

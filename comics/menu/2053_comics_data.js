@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2053,
+    "title": "[葵ヒトリ] 気弱な部下の育て方 前編 (疼く女上司を舐め寝取り)",
+    "sourceUrl": "https://telegra.ph/葵ヒトリ-気弱な部下の育て方-前編-疼く女上司を舐め寝取り-08-31",
+    "images": [
+        "https://telegra.ph/file/eba0080e9dca8d657020e.jpg",
+        "https://telegra.ph/file/d241164f2674034baef09.jpg",
+        "https://telegra.ph/file/67bdbd7c8deb821ba1d7a.jpg",
+        "https://telegra.ph/file/ea9db5622953b6d583e78.jpg",
+        "https://telegra.ph/file/44fcde5b52cfbc8d6d454.jpg",
+        "https://telegra.ph/file/083f23dbcebbbe19385f4.jpg",
+        "https://telegra.ph/file/571d3d10871549a3380c8.jpg",
+        "https://telegra.ph/file/e4536b48372f52eb17d04.jpg",
+        "https://telegra.ph/file/003d9d06023fd168569fb.jpg",
+        "https://telegra.ph/file/cb14ecf1d3df120103bad.jpg",
+        "https://telegra.ph/file/ef3aa0e9e2ca6af7422e4.jpg",
+        "https://telegra.ph/file/a9e0b2c718f0b074b4c4d.jpg",
+        "https://telegra.ph/file/337a5cb8a7e0f6708afb0.jpg",
+        "https://telegra.ph/file/79e108547fa81a3d250fa.jpg",
+        "https://telegra.ph/file/06ac894afe79c6df7c8d4.jpg",
+        "https://telegra.ph/file/1dcb9d2b6ad9d3efee54c.jpg",
+        "https://telegra.ph/file/44e067f8cb4f86a5fafd8.jpg",
+        "https://telegra.ph/file/8a21ae500e0849ab66e77.jpg",
+        "https://telegra.ph/file/6d3ffc610e4992e12d171.jpg",
+        "https://telegra.ph/file/849f6186b9cebfebab4ba.jpg",
+        "https://telegra.ph/file/8fb6d01866d29d62b3d14.jpg",
+        "https://telegra.ph/file/be80654394ce143c2c1a5.jpg",
+        "https://telegra.ph/file/fd78b0e94c1fefdeeba59.jpg"
+    ]
+};

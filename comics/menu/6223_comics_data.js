@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6223,
+    "title": "[ぶぶづけ] 斯くして一夜のサポリーマン",
+    "sourceUrl": "https://telegra.ph/ぶぶづけ-斯くして一夜のサポリーマン-08-31",
+    "images": [
+        "https://telegra.ph/file/e71f459097ee0309e34c2.jpg",
+        "https://telegra.ph/file/a6bf5f980f992f9b9b526.jpg",
+        "https://telegra.ph/file/c723a7a32c95803d3a9b2.jpg",
+        "https://telegra.ph/file/7848ef355229bf8d4bc11.jpg",
+        "https://telegra.ph/file/b371fe8e029abd31f70f9.jpg",
+        "https://telegra.ph/file/8ddfeb6f062f33408e980.jpg",
+        "https://telegra.ph/file/542da49d88a827dad4b66.jpg",
+        "https://telegra.ph/file/4e3bd2e194b11652fa6b9.jpg",
+        "https://telegra.ph/file/94f9cd52872e10792ca68.jpg",
+        "https://telegra.ph/file/b08175c0b8c1cf56aa42f.jpg",
+        "https://telegra.ph/file/cf528c3960807ad9ebb91.jpg",
+        "https://telegra.ph/file/e8e5d225f2472ff29a4ee.jpg",
+        "https://telegra.ph/file/7642aa78561a59818ab1e.jpg",
+        "https://telegra.ph/file/28830dd5f99bc2ca369ad.jpg",
+        "https://telegra.ph/file/b89c0a2b61987927dfa2a.jpg",
+        "https://telegra.ph/file/de8912d68d2deef6785fd.jpg",
+        "https://telegra.ph/file/8e26c1cff4b32fd668012.jpg",
+        "https://telegra.ph/file/6b889d00eb5472af07e70.jpg",
+        "https://telegra.ph/file/e8c3effd610d25c3dc01b.jpg",
+        "https://telegra.ph/file/34cfbc89ebeaa3a32edc2.jpg",
+        "https://telegra.ph/file/a6a9774c0d1cefc97eee0.jpg",
+        "https://telegra.ph/file/46efaebc50b937b42e6ca.jpg",
+        "https://telegra.ph/file/52221fadedfbb3c7ad84c.jpg",
+        "https://telegra.ph/file/bf45bc79cce6d529ec087.jpg"
+    ]
+};

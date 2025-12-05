@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2081,
+    "title": "(C91) [あずれ別館 (紺野あずれ)] 白蘭 天然性感マッサージ専門店",
+    "sourceUrl": "https://telegra.ph/C91-あずれ別館-紺野あずれ-白蘭-天然性感マッサージ専門店-08-31",
+    "images": [
+        "https://telegra.ph/file/01c6abc3e03bb7a531f59.jpg",
+        "https://telegra.ph/file/dfb5c641c768e78731d58.jpg",
+        "https://telegra.ph/file/4bc1ded72fa104f9d10a2.jpg",
+        "https://telegra.ph/file/f388053270e74bace5b84.jpg",
+        "https://telegra.ph/file/b8787a254807a4f094b5e.jpg",
+        "https://telegra.ph/file/7aa4f726dc0deb9ec2fb8.jpg",
+        "https://telegra.ph/file/6d61c701e6de1241166c6.jpg",
+        "https://telegra.ph/file/6d2a32896df677ee8d022.jpg",
+        "https://telegra.ph/file/abbe025addaf86cd86685.jpg",
+        "https://telegra.ph/file/99dd2e83769c20f7fa4b8.jpg",
+        "https://telegra.ph/file/48e2301df38f2755ddbae.jpg",
+        "https://telegra.ph/file/891b2040f82aa49c33614.jpg",
+        "https://telegra.ph/file/68d029bbd5cfeb40af95f.jpg",
+        "https://telegra.ph/file/207fd6a94756624952b8b.jpg",
+        "https://telegra.ph/file/c494eaaa0fd6aaa78ceab.jpg",
+        "https://telegra.ph/file/568025c04f9ac5ea9b754.jpg",
+        "https://telegra.ph/file/747a74f86dafc9af46571.jpg",
+        "https://telegra.ph/file/ec7ec757f560f60380a12.jpg",
+        "https://telegra.ph/file/0c2d26669e7adf3ef93b3.jpg",
+        "https://telegra.ph/file/7438ceea4b7b409f17006.jpg",
+        "https://telegra.ph/file/7b9917a7c3a83301951da.jpg",
+        "https://telegra.ph/file/11c82565bfabfdf93ff2f.jpg",
+        "https://telegra.ph/file/99be5d373d3c54ccfa4e2.jpg",
+        "https://telegra.ph/file/e33cd8418bfb5ab7a7a06.jpg",
+        "https://telegra.ph/file/0ba9f12eade4aa4cffdf4.jpg",
+        "https://telegra.ph/file/223201411159f1f3ed9b8.jpg"
+    ]
+};

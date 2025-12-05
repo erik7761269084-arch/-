@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 197,
+    "title": "(プリズム☆ジャンプ24) [サークルとこまや (とこまやけいた)] 萌黄丼 (キラッとプリ☆チャン)",
+    "sourceUrl": "https://telegra.ph/プリズムジャンプ24-サークルとこまや-とこまやけいた-萌黄丼-キラッとプリチャン-08-31",
+    "images": [
+        "https://telegra.ph/file/6b846801e88406204085d.jpg",
+        "https://telegra.ph/file/dd39b7308d2c655d19f77.jpg",
+        "https://telegra.ph/file/5217094f206ee8017648d.jpg",
+        "https://telegra.ph/file/555de30bb5afafbbdc39f.jpg",
+        "https://telegra.ph/file/ca420cda32806aaad4dac.jpg",
+        "https://telegra.ph/file/b04daa2f7255ee444790b.jpg",
+        "https://telegra.ph/file/959b06806308abf0d2dbc.jpg",
+        "https://telegra.ph/file/68396d219bbbe06b8ff45.jpg",
+        "https://telegra.ph/file/ad0054e50a70cbdada4df.jpg",
+        "https://telegra.ph/file/e7473cfdb4a195e71293f.jpg",
+        "https://telegra.ph/file/493c7e8377b0aad5d68fc.jpg",
+        "https://telegra.ph/file/3eebac2749d58aeb15355.jpg",
+        "https://telegra.ph/file/af1ad9b555d6f34672f8c.jpg",
+        "https://telegra.ph/file/b5a9cbcda9afc1b67e570.jpg",
+        "https://telegra.ph/file/c9ad5aa6ab9e624f1e3bf.jpg",
+        "https://telegra.ph/file/c042db968ce81caa38d38.jpg",
+        "https://telegra.ph/file/51e4368431a03baa41970.jpg",
+        "https://telegra.ph/file/22a5fd006864572ec4a4a.jpg",
+        "https://telegra.ph/file/0107798765fa6470aa47e.jpg",
+        "https://telegra.ph/file/1fc4d43293f1ed1446e80.jpg",
+        "https://telegra.ph/file/73f783e50ebe30cca89fb.jpg",
+        "https://telegra.ph/file/1b709770d972b1e3bd46b.jpg",
+        "https://telegra.ph/file/0628acf805261f66ea19b.jpg",
+        "https://telegra.ph/file/4403f3d74bc8a57296b34.jpg",
+        "https://telegra.ph/file/8096f8f69f605c91d19a1.jpg",
+        "https://telegra.ph/file/47d776990319a8fe4c7fa.jpg"
+    ]
+};

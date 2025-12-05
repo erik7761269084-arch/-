@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3907,
+    "title": "[ビフィダス] アカネおばさんの夏 (ANGEL 倶楽部 2020年9月号)",
+    "sourceUrl": "https://telegra.ph/ビフィダス-アカネおばさんの夏-ANGEL-倶楽部-2020年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d5a092db3fbf912a88aea.jpg",
+        "https://telegra.ph/file/527d0b26b3480b7636ac5.jpg",
+        "https://telegra.ph/file/8ea91be2704a7d18b4e46.jpg",
+        "https://telegra.ph/file/7e5cc572e3788daf53b8c.jpg",
+        "https://telegra.ph/file/7fa3a06dc766fa79acc70.jpg",
+        "https://telegra.ph/file/6d6d2522801f8729467f2.jpg",
+        "https://telegra.ph/file/0c80dd271129491fc5b23.jpg",
+        "https://telegra.ph/file/504fba613a5e57240ddfc.jpg",
+        "https://telegra.ph/file/752fae4d14146c3741524.jpg",
+        "https://telegra.ph/file/9d821d0b6fb680570295c.jpg",
+        "https://telegra.ph/file/37dc9bece853823cb3691.jpg",
+        "https://telegra.ph/file/3a30ed0de6aeabc073af1.jpg",
+        "https://telegra.ph/file/02e29a586cae3673688c1.jpg",
+        "https://telegra.ph/file/f74968dbefe8401bd9512.jpg",
+        "https://telegra.ph/file/457bfb220c97b63481546.jpg",
+        "https://telegra.ph/file/18b2bac86ce87ce1e5781.jpg",
+        "https://telegra.ph/file/dd17ada742cedf265def0.jpg",
+        "https://telegra.ph/file/fb1c7d37bcfe304e5087a.jpg",
+        "https://telegra.ph/file/281f74000d3d81316cf77.jpg",
+        "https://telegra.ph/file/7ab162bec41a9680caf59.jpg",
+        "https://telegra.ph/file/430537299c25a2449670c.jpg",
+        "https://telegra.ph/file/cadfe07a25f5c6a8a072b.jpg",
+        "https://telegra.ph/file/41e03f191d79328009cbb.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4527,
+    "title": "[伊翁] 望んでいた日常 (COMIC クリベロン DUMA 2021年7月号 Vol.27)",
+    "sourceUrl": "https://telegra.ph/伊翁-望んでいた日常-COMIC-クリベロン-DUMA-2021年7月号-Vol27-08-31",
+    "images": [
+        "https://telegra.ph/file/6e22c7e396af8f8ab2709.jpg",
+        "https://telegra.ph/file/71e9ad1dbf01d52d2e26a.jpg",
+        "https://telegra.ph/file/2c32cbc8068678abe2b51.jpg",
+        "https://telegra.ph/file/bb3df56528cd5545ed1ad.jpg",
+        "https://telegra.ph/file/24aff69157d8dfd060134.jpg",
+        "https://telegra.ph/file/f5fe9baa3807a0a2b49a6.jpg",
+        "https://telegra.ph/file/4fcf117dbcb1ac0d1f89a.jpg",
+        "https://telegra.ph/file/8d065065d860f2989dd46.jpg",
+        "https://telegra.ph/file/5b59c8d30ab28fa80dfcc.jpg",
+        "https://telegra.ph/file/37205ce20cbb0309055a9.jpg",
+        "https://telegra.ph/file/42bcb97aac1b50be397ab.jpg",
+        "https://telegra.ph/file/6f68f2fab0c7ddc96fdc6.jpg",
+        "https://telegra.ph/file/c1ae3e96782029829987f.jpg",
+        "https://telegra.ph/file/86e92bf96568040de471d.jpg",
+        "https://telegra.ph/file/a2cb0e041ed2b6b2920ca.jpg",
+        "https://telegra.ph/file/d816ef818a38e84dbaaa7.jpg",
+        "https://telegra.ph/file/d225a0c8b20ff07a616ed.jpg",
+        "https://telegra.ph/file/bb389c23b44be20f19f56.jpg",
+        "https://telegra.ph/file/ecf935596c866bbb9d7d0.jpg",
+        "https://telegra.ph/file/156802f5c8c25dd525aee.jpg",
+        "https://telegra.ph/file/907e1284f6ce1eeeca904.jpg",
+        "https://telegra.ph/file/7f16bdb656c7dd8aa52a7.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/ac55afdea095bdbd8aa54.jpg"
+    ]
+};

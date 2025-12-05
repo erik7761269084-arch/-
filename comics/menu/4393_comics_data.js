@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4393,
+    "title": "[こうきくう] 公認不倫 (ANGEL 倶楽部 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/こうきくう-公認不倫-ANGEL-倶楽部-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/679b5cee6403da7d37468.jpg",
+        "https://telegra.ph/file/89c0ef407d36a36332c3d.jpg",
+        "https://telegra.ph/file/321fde05e1ee022b3f788.jpg",
+        "https://telegra.ph/file/3135a97fdf3be06c75fc0.jpg",
+        "https://telegra.ph/file/69e28e28c6bb3826e1eb8.jpg",
+        "https://telegra.ph/file/bcd0d5f792fb3dc115dba.jpg",
+        "https://telegra.ph/file/7a89444fcdc51e62eb7d2.jpg",
+        "https://telegra.ph/file/604af460da07dc374662b.jpg",
+        "https://telegra.ph/file/e3644618974674b503ed1.jpg",
+        "https://telegra.ph/file/2744757fb182acf3d3da4.jpg",
+        "https://telegra.ph/file/a67160795ca9f92cd8f8e.jpg",
+        "https://telegra.ph/file/69a3e3a964f46cb9af141.jpg",
+        "https://telegra.ph/file/a75c2d627c3221cd09c9f.jpg",
+        "https://telegra.ph/file/04d6b955b6adf7c1ea2cf.jpg",
+        "https://telegra.ph/file/8db3541ef3e3651725467.jpg",
+        "https://telegra.ph/file/8057aa1da80a38e109c80.jpg",
+        "https://telegra.ph/file/13b326da57daab9c71216.jpg",
+        "https://telegra.ph/file/37b3b5665f00bf7280787.jpg",
+        "https://telegra.ph/file/1404cf089a7ae1adc11bc.jpg",
+        "https://telegra.ph/file/2f01801fd93870d8b7933.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/d07f3f1aa34c2718b50af.jpg",
+        "https://telegra.ph/file/7d2442dca710ab10252af.png",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4044,
+    "title": "[湯山チカ] 先生とぼく 第10話 後編 (アナンガ・ランガ Vol. 60)",
+    "sourceUrl": "https://telegra.ph/湯山チカ-先生とぼく-第10話-後編-アナンガランガ-Vol-60-08-31",
+    "images": [
+        "https://telegra.ph/file/c59ee60c576af9da8caa5.jpg",
+        "https://telegra.ph/file/e18e3131c291f58e5035b.jpg",
+        "https://telegra.ph/file/7046eda62193e7c1101e7.jpg",
+        "https://telegra.ph/file/909c4127b3f2745263453.jpg",
+        "https://telegra.ph/file/816e03d03fcaecbf4461c.jpg",
+        "https://telegra.ph/file/7924dfa8f864b0644e72e.jpg",
+        "https://telegra.ph/file/5474a6085ee9334f1fd42.jpg",
+        "https://telegra.ph/file/0ed50d5a4939213cddf17.jpg",
+        "https://telegra.ph/file/7a3fff3cdcb09a8596b1b.jpg",
+        "https://telegra.ph/file/28301f6c8a13175bb5f9f.jpg",
+        "https://telegra.ph/file/2031208cf403149a27ac4.jpg",
+        "https://telegra.ph/file/dda6d0b1a4723f9878794.jpg",
+        "https://telegra.ph/file/06ec9c63ec72a53ac4021.jpg",
+        "https://telegra.ph/file/b451f603d65b5769f79aa.jpg",
+        "https://telegra.ph/file/ed3f7c0c7f1f8aa52b3a7.jpg",
+        "https://telegra.ph/file/453376478e3180121ce09.jpg",
+        "https://telegra.ph/file/9b0b99c37c5778aadee3a.jpg",
+        "https://telegra.ph/file/1be26937c42462f820dc4.jpg",
+        "https://telegra.ph/file/b6de1146ce1bf349b0786.jpg",
+        "https://telegra.ph/file/3d7a3313ddcd59375f068.jpg",
+        "https://telegra.ph/file/5db55b553fca6f72b8d4f.jpg",
+        "https://telegra.ph/file/8834518f90eb20d81ddb2.jpg",
+        "https://telegra.ph/file/2131e6b8a907829871825.jpg"
+    ]
+};

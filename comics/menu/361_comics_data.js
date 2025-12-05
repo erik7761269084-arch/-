@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 361,
+    "title": "[F.W.ZHolic (FAN)] お隣さんは闇組織に肉体改造された元正義戦隊メンバーでした",
+    "sourceUrl": "https://telegra.ph/FWZHolic-FAN-お隣さんは闇組織に肉体改造された元正義戦隊メンバーでした-08-31",
+    "images": [
+        "https://telegra.ph/file/53041eaa81dfd7d4d27e1.jpg",
+        "https://telegra.ph/file/3a627c36bce098e684901.jpg",
+        "https://telegra.ph/file/213b813277623e3606a30.jpg",
+        "https://telegra.ph/file/5258ac00cd8fe28852431.jpg",
+        "https://telegra.ph/file/bcf399c25f53fa57046c5.jpg",
+        "https://telegra.ph/file/be75d904f2fb766d2cc72.jpg",
+        "https://telegra.ph/file/088c233b21b713760fd19.jpg",
+        "https://telegra.ph/file/f3b7aaccb527238211163.jpg",
+        "https://telegra.ph/file/893df27ae8e37dd5c1762.jpg",
+        "https://telegra.ph/file/337c08e4381bfd941210a.jpg",
+        "https://telegra.ph/file/0f6932f73df277243085f.jpg",
+        "https://telegra.ph/file/7ccc983c89a688d6601d9.jpg",
+        "https://telegra.ph/file/7a9f56e6d348aad4a767d.jpg",
+        "https://telegra.ph/file/8b8fc22972b187cf7f3f3.jpg",
+        "https://telegra.ph/file/1e24290ab94ccf7a54a9f.jpg",
+        "https://telegra.ph/file/0412d0c9f80e4a9b57a8e.jpg",
+        "https://telegra.ph/file/fd7088f418969769a40af.jpg",
+        "https://telegra.ph/file/8e074dad401fc9dd701ff.jpg",
+        "https://telegra.ph/file/97dfa722646531e37597f.jpg",
+        "https://telegra.ph/file/2262a066dcf4aed802887.jpg",
+        "https://telegra.ph/file/30d8a4359e1aceea7d16f.jpg",
+        "https://telegra.ph/file/81a90fb394f61cd4e2c48.jpg",
+        "https://telegra.ph/file/9100aa33b26c3fb09e7e5.jpg",
+        "https://telegra.ph/file/49923175f228b0db6ad56.jpg",
+        "https://telegra.ph/file/25015461b727d43f2560c.jpg"
+    ]
+};

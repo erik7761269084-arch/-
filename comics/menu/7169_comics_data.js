@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7169,
+    "title": "続・みつめていたい",
+    "sourceUrl": "https://telegra.ph/続みつめていたい-08-31",
+    "images": [
+        "https://telegra.ph/file/c2cc0df9c498aadb1bdbf.jpg",
+        "https://telegra.ph/file/23d5f246d12738a1fa4e4.jpg",
+        "https://telegra.ph/file/58b737ffb680e4365ea13.jpg",
+        "https://telegra.ph/file/8b42bd2102dd8ce6ee7e1.jpg",
+        "https://telegra.ph/file/6729370bf448ebdb9ad0c.jpg",
+        "https://telegra.ph/file/a3a62c38a260f13c3eaee.jpg",
+        "https://telegra.ph/file/3e8048ed3fcae6cbe1ac1.jpg",
+        "https://telegra.ph/file/99b55fe69063b65214fa8.jpg",
+        "https://telegra.ph/file/73d87c604341510f5ed65.jpg",
+        "https://telegra.ph/file/54c4df107cbf2b07171f4.jpg",
+        "https://telegra.ph/file/479ed4f18bd541a4ffee9.jpg",
+        "https://telegra.ph/file/2105cbc512a2a4a84f554.jpg",
+        "https://telegra.ph/file/e037ec7ea539b2e065eb0.jpg",
+        "https://telegra.ph/file/efe936e0a762e41b70825.jpg",
+        "https://telegra.ph/file/f138b122a7bda970904ea.jpg",
+        "https://telegra.ph/file/0946c4795d56fb94a51a8.jpg",
+        "https://telegra.ph/file/e332edca3ce15b867ea37.jpg",
+        "https://telegra.ph/file/311559ae43a1640722990.jpg",
+        "https://telegra.ph/file/166ea0b70c4a469c9feec.jpg",
+        "https://telegra.ph/file/7bddf63023f06433b4973.jpg",
+        "https://telegra.ph/file/debbf110fb99d65c55935.jpg",
+        "https://telegra.ph/file/292fd4b0f09ac4e42d6c5.jpg",
+        "https://telegra.ph/file/cc3edd5f4286f46056ea3.jpg",
+        "https://telegra.ph/file/fe3382b13f138a78bd717.jpg"
+    ]
+};

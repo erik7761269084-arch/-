@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 2013,
+    "title": "[かに村えびお] こじらせ魔女を討伐セヨ! (異世快楽天 Vol.3)",
+    "sourceUrl": "https://telegra.ph/かに村えびお-こじらせ魔女を討伐セヨ-異世快楽天-Vol3-08-31",
+    "images": [
+        "https://telegra.ph/file/bf3fc0f5f4344fbefb730.jpg",
+        "https://telegra.ph/file/3992be9aa5b0833f641a1.jpg",
+        "https://telegra.ph/file/c0bc6831a094bbb9a7b95.jpg",
+        "https://telegra.ph/file/56bc9f1453f054d7ff988.jpg",
+        "https://telegra.ph/file/c31362b2a7535537b18ae.jpg",
+        "https://telegra.ph/file/e6914737945fcd6504b6c.jpg",
+        "https://telegra.ph/file/5a2a9acb1fce83bee9b4b.jpg",
+        "https://telegra.ph/file/50034158899678db3ee69.jpg",
+        "https://telegra.ph/file/30323a6d796efed0c7f95.jpg",
+        "https://telegra.ph/file/1adcd9b363e6182e28cb0.jpg",
+        "https://telegra.ph/file/449fafe73e4cbb25121d1.jpg",
+        "https://telegra.ph/file/5909d8cbc4e2baf1ae2f0.jpg",
+        "https://telegra.ph/file/50664a06c2dd00d2cab6d.jpg",
+        "https://telegra.ph/file/9b61eb1db7a99bc413ce3.jpg",
+        "https://telegra.ph/file/3db8ddff1d1c95c1f54b2.jpg",
+        "https://telegra.ph/file/0d0ee43230cc0eb04030b.jpg",
+        "https://telegra.ph/file/5795a20f6f73195d79f3f.jpg",
+        "https://telegra.ph/file/25c3f475ee11da1d5ab8d.jpg",
+        "https://telegra.ph/file/c72925e515d63c0bb0911.jpg",
+        "https://telegra.ph/file/3091dc2a8ebc1a8e467eb.jpg",
+        "https://telegra.ph/file/125e42e313ec31a7addc2.jpg",
+        "https://telegra.ph/file/ed82dc0154769ea73eb42.jpg",
+        "https://telegra.ph/file/9b0559166444146951a1a.jpg",
+        "https://telegra.ph/file/6f06839a90542fe3652bf.jpg",
+        "https://telegra.ph/file/33e0f01675a3ee92e46b4.jpg"
+    ]
+};

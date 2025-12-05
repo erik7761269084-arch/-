@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 524,
+    "title": "[おりんぜ] 酔っていたエウルアをお持ち帰りしたい (原神)",
+    "sourceUrl": "https://telegra.ph/おりんぜ-酔っていたエウルアをお持ち帰りしたい-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/a06e5d34664bc315d8b67.jpg",
+        "https://telegra.ph/file/fd42378bcfe8dd4d17a0d.jpg",
+        "https://telegra.ph/file/35e6956d80172f49eb020.jpg",
+        "https://telegra.ph/file/d40c6ae99c5ec77ed7704.jpg",
+        "https://telegra.ph/file/afa34c87769e979a6f457.jpg",
+        "https://telegra.ph/file/d4a41cd78e8fe202f8fa5.jpg",
+        "https://telegra.ph/file/9aa36f28c7b4b8af52845.jpg",
+        "https://telegra.ph/file/b99a6c7bc1c82ee048b30.jpg",
+        "https://telegra.ph/file/4300db0c03f8072ca6f98.jpg",
+        "https://telegra.ph/file/b9d916e8eefef3394577c.jpg",
+        "https://telegra.ph/file/99c7a242bc2712e4c2fea.jpg",
+        "https://telegra.ph/file/b21e980443ac3aced1ff4.jpg",
+        "https://telegra.ph/file/a8d7289253ffe215dd19b.jpg",
+        "https://telegra.ph/file/40b35d09598ea28eadc7c.jpg",
+        "https://telegra.ph/file/be30c71fb1448a50402a8.jpg",
+        "https://telegra.ph/file/29a9e3679e6ce7da236c2.jpg",
+        "https://telegra.ph/file/b2cf3eb05402d1316bb4b.jpg",
+        "https://telegra.ph/file/632305b4c6385c6f4cd60.jpg",
+        "https://telegra.ph/file/a3c5dc5b4680fc0ab48fa.jpg",
+        "https://telegra.ph/file/37ca307186d1e6fab1f0d.jpg",
+        "https://telegra.ph/file/26c5a285dcd160f68a68a.jpg",
+        "https://telegra.ph/file/ad91d97baffe4b4497485.jpg",
+        "https://telegra.ph/file/dfd52487bfdd7aab413d1.jpg"
+    ]
+};

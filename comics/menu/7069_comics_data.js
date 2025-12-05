@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7069,
+    "title": "私立おちんちん学園",
+    "sourceUrl": "https://telegra.ph/私立おちんちん学園-08-31",
+    "images": [
+        "https://telegra.ph/file/1b3c2652371e607b23011.jpg",
+        "https://telegra.ph/file/5f5a0b0c180d635a84a51.jpg",
+        "https://telegra.ph/file/2d03bdefaa4563bab73a9.jpg",
+        "https://telegra.ph/file/441a7621d21b2613eced8.jpg",
+        "https://telegra.ph/file/4ac7525d2f5dbb17ca35d.jpg",
+        "https://telegra.ph/file/b03e79ad6cad17323599a.jpg",
+        "https://telegra.ph/file/a362577b33220ca2184e1.jpg",
+        "https://telegra.ph/file/918f9eb1dba100a0e68e3.jpg",
+        "https://telegra.ph/file/29d541f4774ba2cf56236.jpg",
+        "https://telegra.ph/file/7e7d447d51c9cf59b621e.jpg",
+        "https://telegra.ph/file/7eace036f7cfef3efe351.jpg",
+        "https://telegra.ph/file/5ae78cd34404b05f69aa8.jpg",
+        "https://telegra.ph/file/33e7a3a506aff575f193f.jpg",
+        "https://telegra.ph/file/031cc1b7cc1c68fab8e09.jpg",
+        "https://telegra.ph/file/bedd387e223fdb5c84e20.jpg",
+        "https://telegra.ph/file/d4a71457e40ac5f80eb24.jpg",
+        "https://telegra.ph/file/22abe92615dd17dc1720c.jpg",
+        "https://telegra.ph/file/ac64828efaa4ca61a0524.jpg",
+        "https://telegra.ph/file/f685cfe3ed4109fd19213.jpg",
+        "https://telegra.ph/file/9b76f4a21569d93f58da0.jpg",
+        "https://telegra.ph/file/5fa674188ff3872e490cf.jpg",
+        "https://telegra.ph/file/0655d41725e004d4b2ed9.jpg",
+        "https://telegra.ph/file/36a3f77fced321ef9f1de.jpg",
+        "https://telegra.ph/file/61c9d86fa697b07e65a31.jpg"
+    ]
+};

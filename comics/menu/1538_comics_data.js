@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1538,
+    "title": "(C99) [ものくろり (乙倉りんご)] Fantastic Bambi (アイドルマスターシンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/C99-ものくろり-乙倉りんご-Fantastic-Bambi-アイドルマスターシンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/3a41ebc58065df7fcad46.jpg",
+        "https://telegra.ph/file/901465dff3de8db5c1324.jpg",
+        "https://telegra.ph/file/29401b8ac3eacd3e7aaf9.jpg",
+        "https://telegra.ph/file/45e12ae1c50648697e70e.jpg",
+        "https://telegra.ph/file/83bf143980b8a872ec78a.jpg",
+        "https://telegra.ph/file/bd8099facf5d49f21713b.jpg",
+        "https://telegra.ph/file/1533f1d8cefd9efc32f55.jpg",
+        "https://telegra.ph/file/4ce264163c1f56eec97e2.jpg",
+        "https://telegra.ph/file/32453c429bc4c131a0f2c.jpg",
+        "https://telegra.ph/file/e99c832f80ac6415e833d.jpg",
+        "https://telegra.ph/file/127534d51f1c8251f9cca.jpg",
+        "https://telegra.ph/file/b1e7946ab505e4ff1ec7e.jpg",
+        "https://telegra.ph/file/f762fd3895b198f204d4e.jpg",
+        "https://telegra.ph/file/f4387a7abab40df5edabd.jpg",
+        "https://telegra.ph/file/c77075fd53065bdeb44a9.jpg",
+        "https://telegra.ph/file/f087d20da9696d4c2189b.jpg",
+        "https://telegra.ph/file/0a87c877421fe1096468c.jpg",
+        "https://telegra.ph/file/21999aeb3ffcfefd4a662.jpg",
+        "https://telegra.ph/file/bb642860272967da5326a.jpg",
+        "https://telegra.ph/file/6b11ecc805ce9e2116359.jpg",
+        "https://telegra.ph/file/e8273578010bf429781d6.jpg",
+        "https://telegra.ph/file/85192772f492397428dfa.jpg",
+        "https://telegra.ph/file/a3ca671e55967baaddb80.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

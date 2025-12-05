@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2304,
+    "title": "(C99) [怪盗紳士団 (カイシンシ)] ベストショットはーちゃん! (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/C99-怪盗紳士団-カイシンシ-ベストショットはーちゃん-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/06deca7ea183f7c0771e7.jpg",
+        "https://telegra.ph/file/d58666a5b6372e89b8bfd.jpg",
+        "https://telegra.ph/file/1468b3a8d6c53f84557d6.jpg",
+        "https://telegra.ph/file/3e005b66ac761ee8aa03a.jpg",
+        "https://telegra.ph/file/1c6e31ce06f4f7d56e81d.jpg",
+        "https://telegra.ph/file/43cc218896a8796cbae78.jpg",
+        "https://telegra.ph/file/881291c5d60e8365cc6b2.jpg",
+        "https://telegra.ph/file/0936d1f6b2ab2f70cfb3e.jpg",
+        "https://telegra.ph/file/0ec6bd278abbb518a4207.jpg",
+        "https://telegra.ph/file/71caed4d3bc264f0e98f0.jpg",
+        "https://telegra.ph/file/6a57506e4ff6a85c10fc0.jpg",
+        "https://telegra.ph/file/4ae0d6c4f0f4a5410a07f.jpg",
+        "https://telegra.ph/file/d1daf0e054e940f84ada5.jpg",
+        "https://telegra.ph/file/4be2ec29a68316089ad36.jpg",
+        "https://telegra.ph/file/eee58cd0a5a1e58e37070.jpg",
+        "https://telegra.ph/file/7e4a2d90c6d9cbcfe155c.jpg",
+        "https://telegra.ph/file/452a7ce438e4b81d627dc.jpg",
+        "https://telegra.ph/file/6ed095ba8199054930438.jpg",
+        "https://telegra.ph/file/1daa8efd1c0012cacae55.jpg",
+        "https://telegra.ph/file/c9d349cef479c1e3c03d6.jpg",
+        "https://telegra.ph/file/dece11e22dca5f7c82fe4.jpg",
+        "https://telegra.ph/file/fae91366df687d6f2702d.jpg",
+        "https://telegra.ph/file/c98478e5a14cdce2322bd.jpg"
+    ]
+};

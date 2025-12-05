@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6289,
+    "title": "[仙道八] お散歩メイドル",
+    "sourceUrl": "https://telegra.ph/仙道八-お散歩メイドル-08-31",
+    "images": [
+        "https://telegra.ph/file/f0b323445c51548195bbf.jpg",
+        "https://telegra.ph/file/b2708dbb12f96b0bee34e.jpg",
+        "https://telegra.ph/file/76d01a7e422f5f93100b6.jpg",
+        "https://telegra.ph/file/326e8b6f563f58fbc5b69.jpg",
+        "https://telegra.ph/file/ee9a33bba73a15bc82195.jpg",
+        "https://telegra.ph/file/d8ec55aee39222947fae0.jpg",
+        "https://telegra.ph/file/4026cbda41d1124063952.jpg",
+        "https://telegra.ph/file/95094aec2a155bf19e9c4.jpg",
+        "https://telegra.ph/file/a43ff11816514aed6d982.jpg",
+        "https://telegra.ph/file/d11e28c8f15027880717d.jpg",
+        "https://telegra.ph/file/531d84d792ff0d440d662.jpg",
+        "https://telegra.ph/file/f63315ee8d8c813235f96.jpg",
+        "https://telegra.ph/file/19cb334582e81c20761b0.jpg",
+        "https://telegra.ph/file/0bbbd60c836043f99084f.jpg",
+        "https://telegra.ph/file/77ebd68c7f7581a318d91.jpg",
+        "https://telegra.ph/file/053823a8e2dda55dc15c3.jpg",
+        "https://telegra.ph/file/297f11996dd18cefc7f0d.jpg",
+        "https://telegra.ph/file/1fb3860658398c32ff712.jpg",
+        "https://telegra.ph/file/3e493eb96cf11985f14d7.jpg",
+        "https://telegra.ph/file/86a87ca84afa8ef1b752a.jpg",
+        "https://telegra.ph/file/6cef4dbce4ebf7f6db028.jpg",
+        "https://telegra.ph/file/461bf1dbfa6788880ba36.jpg",
+        "https://telegra.ph/file/a9a28d5eab3a83bc1e714.jpg",
+        "https://telegra.ph/file/86e6ddc70c8659914891a.jpg"
+    ]
+};

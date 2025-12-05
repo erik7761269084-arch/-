@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3198,
+    "title": "[星名めいと] Fallen AngeL (二次元コミックマガジン 催眠強制和姦 弄られヒロイン牝恋アクメ! Vol.1)",
+    "sourceUrl": "https://telegra.ph/星名めいと-Fallen-AngeL-二次元コミックマガジン-催眠強制和姦-弄られヒロイン牝恋アクメ-Vol1-08-31",
+    "images": [
+        "https://telegra.ph/file/6cfa1e7920e3857898a61.jpg",
+        "https://telegra.ph/file/6136d4ee9f5293f502b01.jpg",
+        "https://telegra.ph/file/c97c76ff49ddd206f48be.jpg",
+        "https://telegra.ph/file/debe7dd90374f0e3f53cd.jpg",
+        "https://telegra.ph/file/a3244e49c0240058e786d.jpg",
+        "https://telegra.ph/file/b8b0f3baceef54f1932ce.jpg",
+        "https://telegra.ph/file/06ea0a628f6b1f55c61ed.jpg",
+        "https://telegra.ph/file/ed721f9906d84b057cc69.jpg",
+        "https://telegra.ph/file/a2771bcfd9ce072f44b3d.jpg",
+        "https://telegra.ph/file/fa2a22b706c60ec82d7b4.jpg",
+        "https://telegra.ph/file/583013b67f590f3e1ab68.jpg",
+        "https://telegra.ph/file/081ebc589c422c47b067a.jpg",
+        "https://telegra.ph/file/f81572407f9802cc9c110.jpg",
+        "https://telegra.ph/file/eaa2d34615a2fc9ed1631.jpg",
+        "https://telegra.ph/file/1723d248b99a9e6dfb1ba.jpg",
+        "https://telegra.ph/file/9043a346ee6a1a8d44fb8.jpg",
+        "https://telegra.ph/file/92789a02dea0e80d0c1cf.jpg",
+        "https://telegra.ph/file/806a16fc433ede7087973.jpg",
+        "https://telegra.ph/file/a39453ad1bf111263179f.jpg",
+        "https://telegra.ph/file/b822ab86c67a4f3273ae9.jpg",
+        "https://telegra.ph/file/c7eb50119e2826c65e906.jpg",
+        "https://telegra.ph/file/ed84f72cdcc6937995077.jpg",
+        "https://telegra.ph/file/0a500df291547353e1395.jpg"
+    ]
+};

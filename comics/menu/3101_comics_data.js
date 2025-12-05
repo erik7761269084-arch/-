@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3101,
+    "title": "(C94) [純銀星 (たかしな浅妃)] 幼馴染で恋人の彼女といっしょにプール",
+    "sourceUrl": "https://telegra.ph/C94-純銀星-たかしな浅妃-幼馴染で恋人の彼女といっしょにプール-08-31",
+    "images": [
+        "https://telegra.ph/file/c6dbfa457adcda247a855.jpg",
+        "https://telegra.ph/file/b65384183d97833419e1f.jpg",
+        "https://telegra.ph/file/f39c856500c00f070d81c.jpg",
+        "https://telegra.ph/file/81c693f135e73605eda94.jpg",
+        "https://telegra.ph/file/236e5cf823675c8328203.jpg",
+        "https://telegra.ph/file/5e5bf7aedf7376ea8b473.jpg",
+        "https://telegra.ph/file/ba5bcd4fe84592a559a72.jpg",
+        "https://telegra.ph/file/2fd2005833c977bc79755.jpg",
+        "https://telegra.ph/file/0997e77a1d9b91be6ec48.jpg",
+        "https://telegra.ph/file/c7121fa03619fdd6dc534.jpg",
+        "https://telegra.ph/file/4dcfd224c5c3ddf841945.jpg",
+        "https://telegra.ph/file/b1a24e7d4a753e5dad2a9.jpg",
+        "https://telegra.ph/file/3d9f7d6676ae308c413f2.jpg",
+        "https://telegra.ph/file/24af456e08bcc13b681c2.jpg",
+        "https://telegra.ph/file/14003664d9f5f15507dd5.jpg",
+        "https://telegra.ph/file/e74d3b64b9ba61f86f172.jpg",
+        "https://telegra.ph/file/1afb47262e039f5eb873a.jpg",
+        "https://telegra.ph/file/34cd864b2e1ec17c84f0c.jpg",
+        "https://telegra.ph/file/929f90b251375999580ff.jpg",
+        "https://telegra.ph/file/0a52f6b2d64a886933543.jpg",
+        "https://telegra.ph/file/094f41963b3955c6c1aef.jpg",
+        "https://telegra.ph/file/54e19d6cfe18240e25de9.jpg",
+        "https://telegra.ph/file/ae39eb2f2255c9de0c3fc.jpg"
+    ]
+};

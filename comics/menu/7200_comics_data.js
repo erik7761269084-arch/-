@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7200,
+    "title": "僕の知らない君の貌",
+    "sourceUrl": "https://telegra.ph/僕の知らない君の貌-08-31",
+    "images": [
+        "https://telegra.ph/file/b8fba0a2620077edf9ee9.jpg",
+        "https://telegra.ph/file/b44a381ff247263ef80a1.jpg",
+        "https://telegra.ph/file/6718a9d614a2b9388faea.jpg",
+        "https://telegra.ph/file/cd835f460739e96d45942.jpg",
+        "https://telegra.ph/file/1b33f10a83e5e48117e3b.jpg",
+        "https://telegra.ph/file/a69de9cc30051adecf5a4.jpg",
+        "https://telegra.ph/file/d4a6f87bc32e319fae5c6.jpg",
+        "https://telegra.ph/file/ea1f9d5c89a5881560e45.jpg",
+        "https://telegra.ph/file/480c1e1fff689780f0480.jpg",
+        "https://telegra.ph/file/18cac6f0496c46d118b44.jpg",
+        "https://telegra.ph/file/9f146760512928ea8672c.jpg",
+        "https://telegra.ph/file/0eb6981d60284f277d58c.jpg",
+        "https://telegra.ph/file/16ee83c6a07cb49d6924e.jpg",
+        "https://telegra.ph/file/82431103764769ce4d013.jpg",
+        "https://telegra.ph/file/e733109241022276ec7a0.jpg",
+        "https://telegra.ph/file/b71f2a0107a359cd1d3e0.jpg",
+        "https://telegra.ph/file/565fdf81cc888cd4d8c25.jpg",
+        "https://telegra.ph/file/287dab00561582423f3e9.jpg",
+        "https://telegra.ph/file/c105eaff4b55c521905b8.jpg",
+        "https://telegra.ph/file/0c639f06b75999a3e21f5.jpg",
+        "https://telegra.ph/file/9d5ed42ab494567bc8834.jpg",
+        "https://telegra.ph/file/287faf9e532e581073dcd.jpg",
+        "https://telegra.ph/file/444adfeae579a529a8ca1.jpg",
+        "https://telegra.ph/file/1c5e8244eb2412ec9a5d7.jpg",
+        "https://telegra.ph/file/9a5ffc721a431b0f7dd24.jpg",
+        "https://telegra.ph/file/96a2276863445d66a7396.jpg"
+    ]
+};

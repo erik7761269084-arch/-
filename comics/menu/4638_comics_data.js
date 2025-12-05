@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 4638,
+    "title": "[笹弘] いっつにょーたいむ! (COMIC アンスリウム 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/笹弘-いっつにょーたいむ-COMIC-アンスリウム-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7a26bce6c22eb4c56d057.jpg",
+        "https://telegra.ph/file/7d4d5106caed68f7b795c.jpg",
+        "https://telegra.ph/file/454107371cb673cdb06ed.jpg",
+        "https://telegra.ph/file/4e93606f1f3cf5eb7c2a0.jpg",
+        "https://telegra.ph/file/af2ef08b0d1bf990e1e2f.jpg",
+        "https://telegra.ph/file/40d5a6787ec9caec1df55.jpg",
+        "https://telegra.ph/file/ae8e0feb52687b5a013e4.jpg",
+        "https://telegra.ph/file/ddec249f3866b95813f31.jpg",
+        "https://telegra.ph/file/903aa3f566271428133ae.jpg",
+        "https://telegra.ph/file/02139d8a1e79f15af466a.jpg",
+        "https://telegra.ph/file/6d46d575cca7335ecc2e9.jpg",
+        "https://telegra.ph/file/e1041335909f044ca6be8.jpg",
+        "https://telegra.ph/file/565cc729f89f67d4cec12.jpg",
+        "https://telegra.ph/file/e9228113b4c702c5437b8.jpg",
+        "https://telegra.ph/file/1319a3a6c410292fac95c.jpg",
+        "https://telegra.ph/file/91fede318ab415ca2b659.jpg",
+        "https://telegra.ph/file/4432a46295d7ec4e7a241.jpg",
+        "https://telegra.ph/file/c7df29deb354111d43bb0.jpg",
+        "https://telegra.ph/file/6f8a367a2bc5c8113e5ce.jpg",
+        "https://telegra.ph/file/3a9ef232cf84d3b6b9f69.jpg",
+        "https://telegra.ph/file/32eaaf280aa269a701c17.jpg",
+        "https://telegra.ph/file/4889c7117d623f98a6f62.jpg",
+        "https://telegra.ph/file/f3f9f63c6bd04f9a104f8.jpg",
+        "https://telegra.ph/file/fc7338fb4180005ea6bc7.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5306,
+    "title": "(C86) 快賊触姦 (ギルティギア Xrd)",
+    "sourceUrl": "https://telegra.ph/C86-快賊触姦-ギルティギア-Xrd-08-31",
+    "images": [
+        "https://telegra.ph/file/6040daf95fcfdb9a6910c.jpg",
+        "https://telegra.ph/file/f274d68d063bd3b4bb0bf.jpg",
+        "https://telegra.ph/file/6e298194f3d47bd762978.jpg",
+        "https://telegra.ph/file/5187dd92024e426baab9c.jpg",
+        "https://telegra.ph/file/b9d51bed5e7eea0dd716e.jpg",
+        "https://telegra.ph/file/0748aa721cad7e6772510.jpg",
+        "https://telegra.ph/file/73c102241f063ea8e4f4a.jpg",
+        "https://telegra.ph/file/12364da64e5ce88d23efc.jpg",
+        "https://telegra.ph/file/0085809d04578c4dfc9bb.jpg",
+        "https://telegra.ph/file/85416a4d83fc8aa3fbb6d.jpg",
+        "https://telegra.ph/file/0912cf39a8c5a4eca36bf.jpg",
+        "https://telegra.ph/file/4e3594b6a031cdd8708c0.jpg",
+        "https://telegra.ph/file/1b8989f47504edd78a9af.jpg",
+        "https://telegra.ph/file/aca3b8f21a3a725cc4c4e.jpg",
+        "https://telegra.ph/file/2fe67909001937b438d6c.jpg",
+        "https://telegra.ph/file/dff16d12efdea480a4eb7.jpg",
+        "https://telegra.ph/file/275390545ed703cb1df42.jpg",
+        "https://telegra.ph/file/6e6c7e84c2acc87cc4461.jpg",
+        "https://telegra.ph/file/b4e6fe7b019a600f1995c.jpg",
+        "https://telegra.ph/file/30a6c02ddc2218b244380.jpg",
+        "https://telegra.ph/file/61f028e6750710c22f21e.jpg",
+        "https://telegra.ph/file/625a36058ff1ce09aaca6.jpg",
+        "https://telegra.ph/file/f56da4c43f2c077d6fd70.jpg",
+        "https://telegra.ph/file/13269426423db768d6589.jpg",
+        "https://telegra.ph/file/603cb7dddbadd34af5a16.jpg",
+        "https://telegra.ph/file/61eb89f74373ca019cc8f.jpg"
+    ]
+};

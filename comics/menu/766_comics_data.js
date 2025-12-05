@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 766,
+    "title": "[Q同人] 狙われた元奴隷の爆乳娘 (ワンピース)",
+    "sourceUrl": "https://telegra.ph/Q同人-狙われた元奴隷の爆乳娘-ワンピース-08-31",
+    "images": [
+        "https://telegra.ph/file/7af0c5f1e598420b62a84.jpg",
+        "https://telegra.ph/file/4954c4628a7d7d1747f04.jpg",
+        "https://telegra.ph/file/c3dd642d31f0565585de6.jpg",
+        "https://telegra.ph/file/d4691ae94eeda386d0f38.jpg",
+        "https://telegra.ph/file/720994783d6b17054766a.jpg",
+        "https://telegra.ph/file/2656fcdf0a891581b0007.jpg",
+        "https://telegra.ph/file/c5dcf87a9078f1927c718.jpg",
+        "https://telegra.ph/file/c293f2802673f09cb3d5e.jpg",
+        "https://telegra.ph/file/25197dbcdb9633df409f7.jpg",
+        "https://telegra.ph/file/1a8c0c52a973eafb89c2d.jpg",
+        "https://telegra.ph/file/e02576104ca160cb5a6ff.jpg",
+        "https://telegra.ph/file/8d48294d794b5089724ff.jpg",
+        "https://telegra.ph/file/d04c7d74ba949bc767d54.jpg",
+        "https://telegra.ph/file/8c9cd3398f625453fdcd8.jpg",
+        "https://telegra.ph/file/79926c439e7b2290a34ec.jpg",
+        "https://telegra.ph/file/37fbf9b417473322095e5.jpg",
+        "https://telegra.ph/file/431ed62b6adbe661587f7.jpg",
+        "https://telegra.ph/file/ed9902c4407cf2beb9569.jpg",
+        "https://telegra.ph/file/f98fbb0581be56b14f5f4.jpg",
+        "https://telegra.ph/file/4b14094c0a7a96511d742.jpg",
+        "https://telegra.ph/file/2d4fd00b475ca7a2b3779.jpg",
+        "https://telegra.ph/file/04ee18e0307b7a35b0178.jpg",
+        "https://telegra.ph/file/d61b1cce0b2de14e5ad6b.jpg"
+    ]
+};

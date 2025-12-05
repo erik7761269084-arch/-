@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1844,
+    "title": "[きいち] 逃れられない湯気の中 (コミックホットミルク 2022年3月号)",
+    "sourceUrl": "https://telegra.ph/きいち-逃れられない湯気の中-コミックホットミルク-2022年3月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/ef59552aa7ff9b5bc360f.jpg",
+        "https://telegra.ph/file/aa4133566df2538d3f8f8.jpg",
+        "https://telegra.ph/file/c9482fd5b94c3ec99fde4.jpg",
+        "https://telegra.ph/file/ac6824648839628bd3767.jpg",
+        "https://telegra.ph/file/691d9a2889d1a5483521a.jpg",
+        "https://telegra.ph/file/d00255b95e04e8d2bc6f1.jpg",
+        "https://telegra.ph/file/c6579b51eef8d4faf3077.jpg",
+        "https://telegra.ph/file/d08dfbf37e78f31758420.jpg",
+        "https://telegra.ph/file/4333ee46eb65fd1c7df5c.jpg",
+        "https://telegra.ph/file/b10d41f3bceb946de5d8a.jpg",
+        "https://telegra.ph/file/f7ccf1d12a22e18bc3df0.jpg",
+        "https://telegra.ph/file/e1851792cda23bd299156.jpg",
+        "https://telegra.ph/file/d5721e842f48a18fa861d.jpg",
+        "https://telegra.ph/file/2e017db3a1f1111fa9bfc.jpg",
+        "https://telegra.ph/file/d85193290e50748567758.jpg",
+        "https://telegra.ph/file/475bfe0cd04c24ccba412.jpg",
+        "https://telegra.ph/file/ef9dc53b7253a8ae27cc5.jpg",
+        "https://telegra.ph/file/725291a293bcee7104467.jpg",
+        "https://telegra.ph/file/3eb8ee4bf4c18b55b67f8.jpg",
+        "https://telegra.ph/file/3ca4f7c6c8f5fb8d0c0dd.jpg",
+        "https://telegra.ph/file/88a17e22b53cc2c1685cb.jpg",
+        "https://telegra.ph/file/cf7dd697db3d560e85a23.jpg",
+        "https://telegra.ph/file/90face258fa15f65e86a3.jpg",
+        "https://telegra.ph/file/4c4712a6aa43ac58afc7f.jpg",
+        "https://telegra.ph/file/1cf4f3503370e2b55af69.jpg",
+        "https://telegra.ph/file/26cfeef9b1deb257124ce.jpg"
+    ]
+};

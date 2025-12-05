@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6185,
+    "title": "[池下真上] 勇気を出してっ!",
+    "sourceUrl": "https://telegra.ph/池下真上-勇気を出してっ-08-31",
+    "images": [
+        "https://telegra.ph/file/7f6428fc09d5b6bf3b610.jpg",
+        "https://telegra.ph/file/e48fd0235d68a35d50fa9.jpg",
+        "https://telegra.ph/file/e825c98a49dc575174164.jpg",
+        "https://telegra.ph/file/03eb36717850dab26b5c2.jpg",
+        "https://telegra.ph/file/62ae1dd69f986e4d57529.jpg",
+        "https://telegra.ph/file/3e1bd005f8477ecbad03e.jpg",
+        "https://telegra.ph/file/143efc5e28e04111a9de1.jpg",
+        "https://telegra.ph/file/3b7a5eedf31895c5d3c57.jpg",
+        "https://telegra.ph/file/6de011ecf0233c1ce5b2d.jpg",
+        "https://telegra.ph/file/3d89c46a04d9c6d5490f5.jpg",
+        "https://telegra.ph/file/ffc0a42de7fca704db7d6.jpg",
+        "https://telegra.ph/file/d1a7fee7acf32fab25f73.jpg",
+        "https://telegra.ph/file/f71bb976421127fffb1e6.jpg",
+        "https://telegra.ph/file/acefeb1c18f41f08fa18e.jpg",
+        "https://telegra.ph/file/faf4857fb692c1e0fd6e6.jpg",
+        "https://telegra.ph/file/c9732e3d2aa778bea8159.jpg",
+        "https://telegra.ph/file/68df9c914645653cbf6e6.jpg",
+        "https://telegra.ph/file/66740318a9f1bf96da613.jpg",
+        "https://telegra.ph/file/02d2bd6e2be7f33b67df8.jpg",
+        "https://telegra.ph/file/cb33c1405ed28e0cc27f5.jpg",
+        "https://telegra.ph/file/ef5d9121880c473cd26fb.jpg",
+        "https://telegra.ph/file/4265016140798e04607a2.jpg",
+        "https://telegra.ph/file/edcdac7f9d7030c668883.jpg",
+        "https://telegra.ph/file/e87c9b1f360809b7c9543.jpg",
+        "https://telegra.ph/file/8032f5315cc6dc45ae89e.jpg",
+        "https://telegra.ph/file/1b4988d2da3650da06c4e.jpg"
+    ]
+};

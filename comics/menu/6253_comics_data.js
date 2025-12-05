@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6253,
+    "title": "[秋月伊槻] お菓子く犯して-",
+    "sourceUrl": "https://telegra.ph/秋月伊槻-お菓子く犯して-08-31",
+    "images": [
+        "https://telegra.ph/file/7f0961898fed71ab05ce7.jpg",
+        "https://telegra.ph/file/9b1a9835cce969d9c8c99.jpg",
+        "https://telegra.ph/file/94787413321e5ce9e985a.jpg",
+        "https://telegra.ph/file/3111ece4eee0b76ed2dd9.jpg",
+        "https://telegra.ph/file/eeb46c72e08c515b257ec.jpg",
+        "https://telegra.ph/file/19071fab21093ea46d17b.jpg",
+        "https://telegra.ph/file/c9147f3548f73e55a9127.jpg",
+        "https://telegra.ph/file/7345f1b712035f2000834.jpg",
+        "https://telegra.ph/file/d23b0ee53cf587c8d0fce.jpg",
+        "https://telegra.ph/file/01f85e6c47bd2fcc7422c.jpg",
+        "https://telegra.ph/file/dbd31dcf22c372f85076d.jpg",
+        "https://telegra.ph/file/04b2ec58b196910893e09.jpg",
+        "https://telegra.ph/file/ae244bed5781ea45bb127.jpg",
+        "https://telegra.ph/file/f65f52196aa393e31537f.jpg",
+        "https://telegra.ph/file/fc981d5263ee4252db916.jpg",
+        "https://telegra.ph/file/ad8dfd2085b0cc359cafb.jpg",
+        "https://telegra.ph/file/8c29c4e47b33fcbbddea8.jpg",
+        "https://telegra.ph/file/3b28490e9702e0eb5c300.jpg",
+        "https://telegra.ph/file/b1c4d342bf65f7b857508.jpg",
+        "https://telegra.ph/file/f1095515e20dab2646e1b.jpg",
+        "https://telegra.ph/file/d3e401ae5fa7bd82b01b7.jpg",
+        "https://telegra.ph/file/ba2f41ffe15e57851bfdf.jpg",
+        "https://telegra.ph/file/591b2d5ed9f84c36e81ba.jpg",
+        "https://telegra.ph/file/890da46d38532630e288e.jpg",
+        "https://telegra.ph/file/06e6ae9494a77064b8965.jpg",
+        "https://telegra.ph/file/c116ec61b1e08434f2f0c.jpg"
+    ]
+};

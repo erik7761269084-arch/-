@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3754,
+    "title": "[ちゅーりっぷ。] 西宮さんの射精管理R (コミックゼロス #90)",
+    "sourceUrl": "https://telegra.ph/ちゅーりっぷ-西宮さんの射精管理R-コミックゼロス-90-08-31",
+    "images": [
+        "https://telegra.ph/file/601636223a520d63f13cf.jpg",
+        "https://telegra.ph/file/461bd5fbdfa925a793b20.jpg",
+        "https://telegra.ph/file/844cc36ed39e8341ed597.jpg",
+        "https://telegra.ph/file/e282d489322ccf3b4a876.jpg",
+        "https://telegra.ph/file/e9046ff44ce22ef119912.jpg",
+        "https://telegra.ph/file/8109e01171c7e33f707ff.jpg",
+        "https://telegra.ph/file/10a4b2ea31d27c5119efc.jpg",
+        "https://telegra.ph/file/ccd4ccabd7f8d81f34537.jpg",
+        "https://telegra.ph/file/656cafabc2b4f24785261.jpg",
+        "https://telegra.ph/file/81f5cac0d54ec169004f6.jpg",
+        "https://telegra.ph/file/0a12a89516fbb28526227.jpg",
+        "https://telegra.ph/file/f73bb3d88865a1b6793ab.jpg",
+        "https://telegra.ph/file/97b1438120d0c1ae5e24e.jpg",
+        "https://telegra.ph/file/7127599016eb71398bed8.jpg",
+        "https://telegra.ph/file/fc82053946c75c337a604.jpg",
+        "https://telegra.ph/file/f16de7de97c42b4f61f56.jpg",
+        "https://telegra.ph/file/320f39e1386dbd719693e.jpg",
+        "https://telegra.ph/file/7db9b5d3f1b25c6378209.jpg",
+        "https://telegra.ph/file/c372d9bc308a0f8d52323.jpg",
+        "https://telegra.ph/file/5fafd3d88b9797a088236.jpg",
+        "https://telegra.ph/file/6e82a125653b5b061b4f6.jpg",
+        "https://telegra.ph/file/c5bde57a6ad2fc9800ac4.jpg",
+        "https://telegra.ph/file/e9a35b66f2942787aab91.jpg",
+        "https://telegra.ph/file/d209d3a4adb0062b7a424.jpg",
+        "https://telegra.ph/file/a5fc16293b78efaea9f92.jpg",
+        "https://telegra.ph/file/14096ce30558a6228e9fa.jpg"
+    ]
+};

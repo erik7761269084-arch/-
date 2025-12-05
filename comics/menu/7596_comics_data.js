@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7596,
+    "title": "ヤらない善よりヤる偽善",
+    "sourceUrl": "https://telegra.ph/ヤらない善よりヤる偽善-08-31",
+    "images": [
+        "https://telegra.ph/file/69a8515e7d998d1e5a88e.jpg",
+        "https://telegra.ph/file/acb831784e1a633aedeff.jpg",
+        "https://telegra.ph/file/312c56eaca1e36c02b8c2.jpg",
+        "https://telegra.ph/file/987593c1dbb009f19adea.jpg",
+        "https://telegra.ph/file/180e516c5dcff89c2961e.jpg",
+        "https://telegra.ph/file/9badc07427097d89b998d.jpg",
+        "https://telegra.ph/file/17b41fc7709b0b39677fa.jpg",
+        "https://telegra.ph/file/eff2a8777de34b3adb5c8.jpg",
+        "https://telegra.ph/file/7aa1fd5c2984b7d3b6401.jpg",
+        "https://telegra.ph/file/749ed7d683cfd672c794d.jpg",
+        "https://telegra.ph/file/23bd613bea837bb55b878.jpg",
+        "https://telegra.ph/file/bfeab72f32b7b0ce06580.jpg",
+        "https://telegra.ph/file/6ccca6bd4e98913c1ac85.jpg",
+        "https://telegra.ph/file/f8c1f481e1b2e724d5df7.jpg",
+        "https://telegra.ph/file/6d5706d75dc81caa0a1d9.jpg",
+        "https://telegra.ph/file/1bb982f15686a65b10760.jpg",
+        "https://telegra.ph/file/1f8e72731bb2a618bd97c.jpg",
+        "https://telegra.ph/file/64371e12cb1a2717370a1.jpg",
+        "https://telegra.ph/file/681c35514bc49c4e65a5c.jpg",
+        "https://telegra.ph/file/e35995079b1c0e7ac890d.jpg",
+        "https://telegra.ph/file/bb5139013372e9096a9fb.jpg",
+        "https://telegra.ph/file/3185a4382329da532bc66.jpg",
+        "https://telegra.ph/file/b99e1afeb39a2d5d9cfd5.jpg"
+    ]
+};

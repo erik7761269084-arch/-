@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2434,
+    "title": "[ディッコ] 今日も可愛い☆街すい☆いを滅茶苦茶イカせまくって雌になっていただくCG集 (星街すいせい)",
+    "sourceUrl": "https://telegra.ph/ディッコ-今日も可愛い街すいいを滅茶苦茶イカせまくって雌になっていただくCG集-星街すいせい-08-31",
+    "images": [
+        "https://telegra.ph/file/73416392a87ee880799c6.jpg",
+        "https://telegra.ph/file/de0caa73f6c639a03b1f4.jpg",
+        "https://telegra.ph/file/400ede1ddef5c96b65f23.jpg",
+        "https://telegra.ph/file/14c510eff3e5ed533dd2f.jpg",
+        "https://telegra.ph/file/bbd66a129f2c8709fb322.jpg",
+        "https://telegra.ph/file/eb3cf1432ca93621bdb7e.jpg",
+        "https://telegra.ph/file/8265ad3cef2e40d7a671f.jpg",
+        "https://telegra.ph/file/380ab6b4932ad3395f603.jpg",
+        "https://telegra.ph/file/f1b41358e638ebed40531.jpg",
+        "https://telegra.ph/file/77fba7b108e2233b4f7de.jpg",
+        "https://telegra.ph/file/d77ae745928a8db17fe9a.jpg",
+        "https://telegra.ph/file/453eac57a226ee7d10c60.jpg",
+        "https://telegra.ph/file/63c38c4d0f3f042788c94.jpg",
+        "https://telegra.ph/file/0c8b95309423f3f6fc885.jpg",
+        "https://telegra.ph/file/be7f57bd03b154b555dd6.jpg",
+        "https://telegra.ph/file/812cf4d0326e6f50fed42.jpg",
+        "https://telegra.ph/file/a994b8d37bbf75056f521.jpg",
+        "https://telegra.ph/file/ea922cbe012cbc76d8a17.jpg",
+        "https://telegra.ph/file/fb699132a6734a7f95871.jpg",
+        "https://telegra.ph/file/2936dea7be731e456c50d.jpg",
+        "https://telegra.ph/file/2ebf5da941f311108ae06.jpg",
+        "https://telegra.ph/file/89ff0f39cd426115f0a42.jpg",
+        "https://telegra.ph/file/62798ad8a0d3c441ad5ea.jpg",
+        "https://telegra.ph/file/12a205a5d8e9d9e5a4fd7.jpg"
+    ]
+};

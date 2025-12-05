@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6032,
+    "title": "[無洗米] 催眠危険注意報",
+    "sourceUrl": "https://telegra.ph/無洗米-催眠危険注意報-08-31",
+    "images": [
+        "https://telegra.ph/file/bebbbf176c2017a7353d2.jpg",
+        "https://telegra.ph/file/2ef72b069dc5e1cbb25f7.jpg",
+        "https://telegra.ph/file/fba6b7943e00cc75a4e73.jpg",
+        "https://telegra.ph/file/a3db9bbf0d5f987466ada.jpg",
+        "https://telegra.ph/file/834df446c5713cbf256c1.jpg",
+        "https://telegra.ph/file/819a2fedaf17f9af17736.jpg",
+        "https://telegra.ph/file/17207b753aeb5532ac7f9.jpg",
+        "https://telegra.ph/file/c519f02957d424ca1e27a.jpg",
+        "https://telegra.ph/file/623f2def1910f300fe02f.jpg",
+        "https://telegra.ph/file/97293a5f76f2dec445cb3.jpg",
+        "https://telegra.ph/file/9ba5c9a9b07bf098b8864.jpg",
+        "https://telegra.ph/file/5a175f767a3e68f0d74b6.jpg",
+        "https://telegra.ph/file/59f065da0e488e6295171.jpg",
+        "https://telegra.ph/file/d576d480662d5825c6043.jpg",
+        "https://telegra.ph/file/5f455cef55e010776abdb.jpg",
+        "https://telegra.ph/file/8c9ff396b97543ae44db5.jpg",
+        "https://telegra.ph/file/ea1129b93a34b03e6a15c.jpg",
+        "https://telegra.ph/file/6ce553b469efaf3c77af2.jpg",
+        "https://telegra.ph/file/5faf70052f4fc630d7ed8.jpg",
+        "https://telegra.ph/file/e5ac90c900b7bf81a283d.jpg",
+        "https://telegra.ph/file/8ffcdfe5daa91e9289f20.jpg",
+        "https://telegra.ph/file/8f2f941e3977d8c5b9ee2.jpg",
+        "https://telegra.ph/file/8affa44a1e7242765994d.jpg",
+        "https://telegra.ph/file/0d599ba0b340d40835822.jpg"
+    ]
+};

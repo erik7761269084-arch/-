@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3537,
+    "title": "[もやしばーすと] 処女を自ら差し出して (サイベリアマニアックス 催眠調教デラックス Vol.010)",
+    "sourceUrl": "https://telegra.ph/もやしばーすと-処女を自ら差し出して-サイベリアマニアックス-催眠調教デラックス-Vol010-08-31",
+    "images": [
+        "https://telegra.ph/file/dcee4a735e8c33773806e.jpg",
+        "https://telegra.ph/file/e718f53db8687ae3da939.jpg",
+        "https://telegra.ph/file/a156dfdc40448d9d51d68.jpg",
+        "https://telegra.ph/file/1fc611701a26f1fb26897.jpg",
+        "https://telegra.ph/file/db85e400b0a4a71fc1e60.jpg",
+        "https://telegra.ph/file/bd4336967f7287f62d75a.jpg",
+        "https://telegra.ph/file/a2023d24068c200d07082.jpg",
+        "https://telegra.ph/file/c49fb4ed7325600148fe5.jpg",
+        "https://telegra.ph/file/5360909b90ea7683f21b5.jpg",
+        "https://telegra.ph/file/f0a1e3b8d0cfd2434b0a0.jpg",
+        "https://telegra.ph/file/06d9790f7f82cca97a143.jpg",
+        "https://telegra.ph/file/f9feea78a2d8dbcf068a0.jpg",
+        "https://telegra.ph/file/24559c10f05eae258d381.jpg",
+        "https://telegra.ph/file/17ecba4ba5dc504da3ea4.jpg",
+        "https://telegra.ph/file/034c3d03c374f4b3c2959.jpg",
+        "https://telegra.ph/file/cea6a7fbd9e83b53dcae6.jpg",
+        "https://telegra.ph/file/74a681b77c2e25d8b4b20.jpg",
+        "https://telegra.ph/file/c383318d3fa4cd0d963cb.jpg",
+        "https://telegra.ph/file/58a9a24503ced0ca31c87.jpg",
+        "https://telegra.ph/file/1bd2a294e4965854affbb.jpg",
+        "https://telegra.ph/file/13277f23a13b376fda225.jpg",
+        "https://telegra.ph/file/a3932b6c6d59e6c369f38.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

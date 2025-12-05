@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6273,
+    "title": "[十はやみ]你喜欢你美丽的男姐姐吗-",
+    "sourceUrl": "https://telegra.ph/十はやみ你喜欢你美丽的男姐姐吗-08-31",
+    "images": [
+        "https://telegra.ph/file/fd6073fb8dbf54f232e43.jpg",
+        "https://telegra.ph/file/f57a71c337eb2717fcdf2.jpg",
+        "https://telegra.ph/file/701392e585d42f42b0120.jpg",
+        "https://telegra.ph/file/b61eab3b3c907a3063344.jpg",
+        "https://telegra.ph/file/d94b509429cf490629755.jpg",
+        "https://telegra.ph/file/388518651da4153469ab9.jpg",
+        "https://telegra.ph/file/807a36d4418943d2a8c98.jpg",
+        "https://telegra.ph/file/d1b5d561188ecf7f6305d.jpg",
+        "https://telegra.ph/file/290c82fa07cee8ab3b8ad.jpg",
+        "https://telegra.ph/file/70afe46ddd858acaa25d2.jpg",
+        "https://telegra.ph/file/773cef4250fdfef077e93.jpg",
+        "https://telegra.ph/file/9d86c8d4454b55b44fe0e.jpg",
+        "https://telegra.ph/file/670ac50c7011d8d310d32.jpg",
+        "https://telegra.ph/file/995639b203d9bfb7f8399.jpg",
+        "https://telegra.ph/file/d1610e3971d3b7f65b657.jpg",
+        "https://telegra.ph/file/6839e7b0327287d470889.jpg",
+        "https://telegra.ph/file/3858c90df5b0d8740c1fe.jpg",
+        "https://telegra.ph/file/da21087efde329afbf162.jpg",
+        "https://telegra.ph/file/11ada88118ade0416df81.jpg",
+        "https://telegra.ph/file/b5b64ec068b278f222d02.jpg",
+        "https://telegra.ph/file/d8cb0fc961c6a7397af94.jpg",
+        "https://telegra.ph/file/36ff2972ba8bb4bf3f978.jpg",
+        "https://telegra.ph/file/504bbc8dc7a1e860ed84a.jpg",
+        "https://telegra.ph/file/781320b77df17eba15c5f.jpg",
+        "https://telegra.ph/file/2121f5ff677b2dbaba6a8.jpg"
+    ]
+};

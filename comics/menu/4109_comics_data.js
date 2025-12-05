@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4109,
+    "title": "[MUGO] Raiden Shogun 原神 雷电将军 (Genshin Impact)  [Decensored]",
+    "sourceUrl": "https://telegra.ph/MUGO-Raiden-Shogun-原神-雷电将军-Genshin-Impact-Decensored-08-31",
+    "images": [
+        "https://telegra.ph/file/e56a2e8245f7a141ae9b0.jpg",
+        "https://telegra.ph/file/9e38928ac9b7ae4372da0.jpg",
+        "https://telegra.ph/file/f5d27c4858e57a7779ee6.jpg",
+        "https://telegra.ph/file/30616b02ba4b9d909d458.jpg",
+        "https://telegra.ph/file/36bfbe01e7eccd340f102.jpg",
+        "https://telegra.ph/file/52302d1b63782f009ee16.jpg",
+        "https://telegra.ph/file/48bf68f6ba7cc2b2d927d.jpg",
+        "https://telegra.ph/file/d5f85f2199286b9eeb219.jpg",
+        "https://telegra.ph/file/240343e0e4944ec99ae84.jpg",
+        "https://telegra.ph/file/ec727aeef2c99b808a2a0.jpg",
+        "https://telegra.ph/file/b7b3c1679dda8244c180e.jpg",
+        "https://telegra.ph/file/204cea38e2bb7baffb498.jpg",
+        "https://telegra.ph/file/4212986c3aacbdfe63dae.jpg",
+        "https://telegra.ph/file/3f23b203965d211584c8e.jpg",
+        "https://telegra.ph/file/6024a03caa9e6e96beb3a.jpg",
+        "https://telegra.ph/file/5b13d4d2990a64b1585d8.jpg",
+        "https://telegra.ph/file/34fd29116c09aa803c07b.jpg",
+        "https://telegra.ph/file/8307bd75d1c97a840c571.jpg",
+        "https://telegra.ph/file/dcfe1414c7940568ce1c3.jpg",
+        "https://telegra.ph/file/dea0a37d7936dd9c32878.jpg",
+        "https://telegra.ph/file/66fd123947871316656f4.jpg",
+        "https://telegra.ph/file/e941c9490a19d9af37117.jpg",
+        "https://telegra.ph/file/48961ccbfa983e7af11f5.jpg"
+    ]
+};

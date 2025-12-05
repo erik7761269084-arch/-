@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7792,
+    "title": "健気猫娘湯上がりえっち編ぷらす",
+    "sourceUrl": "https://telegra.ph/健気猫娘湯上がりえっち編ぷらす-08-31",
+    "images": [
+        "https://telegra.ph/file/cc7c65ff92e1cc71c9f0b.jpg",
+        "https://telegra.ph/file/803e426d9ee7df5f470df.jpg",
+        "https://telegra.ph/file/8d630794de2afe8c6d8ed.jpg",
+        "https://telegra.ph/file/061ce27735ab7cec43747.jpg",
+        "https://telegra.ph/file/617759cfe9aaea3cbaae1.jpg",
+        "https://telegra.ph/file/aa519e3081c739953bbe4.jpg",
+        "https://telegra.ph/file/cef74ac4ba5ac79c0fa0a.jpg",
+        "https://telegra.ph/file/551bae600cc537f9f9525.jpg",
+        "https://telegra.ph/file/a7b04abf454c0c27189f4.jpg",
+        "https://telegra.ph/file/6b7abd3fad4da6407770d.jpg",
+        "https://telegra.ph/file/a41061131c90acdf10d8f.jpg",
+        "https://telegra.ph/file/7a76f13999ad5000a1dcc.jpg",
+        "https://telegra.ph/file/22126d1ab5ba953a167b1.jpg",
+        "https://telegra.ph/file/2fcd8f9b00d9a68bc6fff.jpg",
+        "https://telegra.ph/file/781c1db1a78b8455c85ce.jpg",
+        "https://telegra.ph/file/655813bceabf201700209.jpg",
+        "https://telegra.ph/file/923d56b1856bc10c8872d.jpg",
+        "https://telegra.ph/file/169c3169f417a7f271fde.jpg",
+        "https://telegra.ph/file/cf0e20093ddc0bdbcd6c3.jpg",
+        "https://telegra.ph/file/2db18d95583787f7e89ea.jpg",
+        "https://telegra.ph/file/26cba3cc98bdf01f9966c.jpg",
+        "https://telegra.ph/file/5d488e62f4ee40bca79b3.jpg",
+        "https://telegra.ph/file/64c4e3238f38ad8ba71d2.jpg",
+        "https://telegra.ph/file/29a76f0a8e0b441a5bb1a.jpg"
+    ]
+};

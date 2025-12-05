@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29,
+    "title": "[からももたると (きんだつ)] その性癖 見えてますよ？2 (東方Project)",
+    "sourceUrl": "https://telegra.ph/からももたると-きんだつ-その性癖-見えてますよ2-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/f04e4f489c493d55505dd.jpg",
+        "https://telegra.ph/file/02a069f542e75eb5ebf7b.jpg",
+        "https://telegra.ph/file/f2b4bdd71ca21a6cbe2a7.jpg",
+        "https://telegra.ph/file/7c505d5fc39b6372fd6b3.jpg",
+        "https://telegra.ph/file/75c388827041d2a6f2f4a.jpg",
+        "https://telegra.ph/file/da3b2e25d6fa125c15185.jpg",
+        "https://telegra.ph/file/1d8c6a85540de916f14be.jpg",
+        "https://telegra.ph/file/d95201ba741c7ef20b6ce.jpg",
+        "https://telegra.ph/file/2f2a4fe732ecc9208756c.jpg",
+        "https://telegra.ph/file/7c1156e20f5074f71ebfc.jpg",
+        "https://telegra.ph/file/61a6b55770ff2b2741197.jpg",
+        "https://telegra.ph/file/b6e49ed860110679831bf.jpg",
+        "https://telegra.ph/file/0947eb1b2b8f1b2763a9c.jpg",
+        "https://telegra.ph/file/e8fc13d6417d4a0b1f0e4.jpg",
+        "https://telegra.ph/file/5c3eb1377a2f45c341c33.jpg",
+        "https://telegra.ph/file/cc5a286cef7a176b15e69.jpg",
+        "https://telegra.ph/file/b9404a209f497a3ea036b.jpg",
+        "https://telegra.ph/file/fcba763629ea64d271a60.jpg",
+        "https://telegra.ph/file/ce4b564ac2a4530e2da7b.jpg",
+        "https://telegra.ph/file/3e9075612eb303396a333.jpg",
+        "https://telegra.ph/file/e5bcd0c0aeb26a1b10845.jpg",
+        "https://telegra.ph/file/7f0f4e5750b3a30d28773.jpg",
+        "https://telegra.ph/file/ed3ea45be826ce7e6c7d1.jpg",
+        "https://telegra.ph/file/b6bbcaaa75e05e782233f.jpg",
+        "https://telegra.ph/file/7e9ea392478c13a93c1bd.jpg",
+        "https://telegra.ph/file/5832c0c89cdf6f009eb1f.jpg"
+    ]
+};

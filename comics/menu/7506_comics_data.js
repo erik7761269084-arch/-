@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7506,
+    "title": "影鏡",
+    "sourceUrl": "https://telegra.ph/影鏡-08-31",
+    "images": [
+        "https://telegra.ph/file/f08339186ca8164fc7756.jpg",
+        "https://telegra.ph/file/f8746bbe97d2571d45d59.jpg",
+        "https://telegra.ph/file/5b210e9de18e370f85fe1.jpg",
+        "https://telegra.ph/file/bcad95a0996282da64df5.jpg",
+        "https://telegra.ph/file/281d96c23ec5a50270ef4.jpg",
+        "https://telegra.ph/file/551a9e8e9e6809d065663.jpg",
+        "https://telegra.ph/file/68ecc766970c2d30a3e84.jpg",
+        "https://telegra.ph/file/330cf84ab9567a7b7ce34.jpg",
+        "https://telegra.ph/file/f8c365c05c5de3f877852.jpg",
+        "https://telegra.ph/file/b1cbe08659a3cde53744d.jpg",
+        "https://telegra.ph/file/4873bbee276b2e5efa3b2.jpg",
+        "https://telegra.ph/file/cbe0ba0010dac0d14bc7e.jpg",
+        "https://telegra.ph/file/dd54a524930cdd3e9a60c.jpg",
+        "https://telegra.ph/file/890c1b1615f751e872bfa.jpg",
+        "https://telegra.ph/file/5aa2eb4d8c9ec2da7ec11.jpg",
+        "https://telegra.ph/file/9b9b60115ef250336dc68.jpg",
+        "https://telegra.ph/file/c43fa23d401ca7e7f7765.jpg",
+        "https://telegra.ph/file/70c90e8a24612ad9318c8.jpg",
+        "https://telegra.ph/file/c335a20e282965058d495.jpg",
+        "https://telegra.ph/file/240c51f2547ad510e4b94.jpg",
+        "https://telegra.ph/file/46efdcbf8bc4810b4736e.jpg",
+        "https://telegra.ph/file/fc4c6a33bc8385381cf20.jpg",
+        "https://telegra.ph/file/34714eeb7c62d7f9c87d6.jpg",
+        "https://telegra.ph/file/734ca6fe90ae831e0f2df.jpg",
+        "https://telegra.ph/file/fb114e291b0959a1161cb.jpg",
+        "https://telegra.ph/file/dbabec71007108a7f855e.jpg"
+    ]
+};

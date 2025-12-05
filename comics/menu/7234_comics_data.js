@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7234,
+    "title": "プチスク妻サマ",
+    "sourceUrl": "https://telegra.ph/プチスク妻サマ-08-31",
+    "images": [
+        "https://telegra.ph/file/59b35ec1cbafb1d08c6f4.jpg",
+        "https://telegra.ph/file/43d8ee8aa8457bd6d4b3a.jpg",
+        "https://telegra.ph/file/1b15f172a1f7d54bdcbcd.jpg",
+        "https://telegra.ph/file/73bea43b422530169fc93.jpg",
+        "https://telegra.ph/file/ebb8017558b7c0c383385.jpg",
+        "https://telegra.ph/file/25122e524ba792e5c9397.jpg",
+        "https://telegra.ph/file/805fd187788dcad4f3107.jpg",
+        "https://telegra.ph/file/1ca006f7248cc18370ca4.jpg",
+        "https://telegra.ph/file/ab3897621db3e69c559ec.jpg",
+        "https://telegra.ph/file/95ef33fc8f0178d8284ac.jpg",
+        "https://telegra.ph/file/cca57b0576d2bc81bcdda.jpg",
+        "https://telegra.ph/file/3e9b6e5243e9062d04537.jpg",
+        "https://telegra.ph/file/a7b1d3e8b2ff70ebc8ab5.jpg",
+        "https://telegra.ph/file/ef318bc6700aff7d8650d.jpg",
+        "https://telegra.ph/file/7b63d2ef7385c1362e00b.jpg",
+        "https://telegra.ph/file/5bdfcfbc112874e70512e.jpg",
+        "https://telegra.ph/file/e33ca9538b99007f6daab.jpg",
+        "https://telegra.ph/file/6e67f0a1f44374edae32b.jpg",
+        "https://telegra.ph/file/6090d9ab8b57e6bd3cb6b.jpg",
+        "https://telegra.ph/file/c4de2b5b9c875ef344c6b.jpg",
+        "https://telegra.ph/file/5faa410c26bb8d2b2bdd8.jpg",
+        "https://telegra.ph/file/ebb7f697081f0ae69afed.jpg",
+        "https://telegra.ph/file/524c7cbe525645bc0ce7a.jpg",
+        "https://telegra.ph/file/0df8c1ec6c7db0615fdec.jpg"
+    ]
+};

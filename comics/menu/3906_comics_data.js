@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3906,
+    "title": "[もず] りとる☆びっちぇず アイラちゃん編 (COMIC 快楽天ビースト 2021年7月号)",
+    "sourceUrl": "https://telegra.ph/もず-りとるびっちぇず-アイラちゃん編-COMIC-快楽天ビースト-2021年7月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1e2416c5a3724ee6e7e3a.jpg",
+        "https://telegra.ph/file/cda31d0e5165fcba4710b.jpg",
+        "https://telegra.ph/file/ade182e33045a2230bd5f.jpg",
+        "https://telegra.ph/file/53ef4b626e2de146ce2d4.jpg",
+        "https://telegra.ph/file/bf91418b34c420835989f.jpg",
+        "https://telegra.ph/file/b96a6d8ad827bc4e41494.jpg",
+        "https://telegra.ph/file/819ee4574b101a8282a23.jpg",
+        "https://telegra.ph/file/69304dc67a781649e9691.jpg",
+        "https://telegra.ph/file/a8e477af0816d0d3da4c8.jpg",
+        "https://telegra.ph/file/b6d8a19df3a69ecff1173.jpg",
+        "https://telegra.ph/file/9e69dc9ef5771c6d8aa97.jpg",
+        "https://telegra.ph/file/eedcfc429005166e66657.jpg",
+        "https://telegra.ph/file/fbc3ff9e008fb562e7dbd.jpg",
+        "https://telegra.ph/file/e5a4950758f32f530ed20.jpg",
+        "https://telegra.ph/file/0bd9de63d92fce89badb6.jpg",
+        "https://telegra.ph/file/dbe8ee05ff27ea7fc9a95.jpg",
+        "https://telegra.ph/file/0675a329ecbdeb7f741a7.jpg",
+        "https://telegra.ph/file/afc1c747f3bbef5a6ff2d.jpg",
+        "https://telegra.ph/file/56883695b6c9c771a0bfe.jpg",
+        "https://telegra.ph/file/bda8c5f16e5b0ffad9df0.jpg",
+        "https://telegra.ph/file/8bd4cf59916d40edd8bc4.jpg",
+        "https://telegra.ph/file/513b98d0557990e8a81ae.jpg",
+        "https://telegra.ph/file/891084e10fa363e00da08.jpg",
+        "https://telegra.ph/file/86a826d368e302c6e4e11.jpg"
+    ]
+};

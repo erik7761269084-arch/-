@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7095,
+    "title": "偏愛彼女",
+    "sourceUrl": "https://telegra.ph/偏愛彼女-08-31",
+    "images": [
+        "https://telegra.ph/file/134c2f590eb64c3c145d2.jpg",
+        "https://telegra.ph/file/60a2c827795f2b9d123b3.jpg",
+        "https://telegra.ph/file/b7b284ca0c7279077dcac.jpg",
+        "https://telegra.ph/file/b7d96fef0b6db3841909e.jpg",
+        "https://telegra.ph/file/69c27276ccbf4b662eadc.jpg",
+        "https://telegra.ph/file/3117cbe46ab7eada3f023.jpg",
+        "https://telegra.ph/file/8acec9aa0aa05278428ac.jpg",
+        "https://telegra.ph/file/614e076c817f24af0718e.jpg",
+        "https://telegra.ph/file/b0f99db6fb9629db5012d.jpg",
+        "https://telegra.ph/file/496a28d1fcb99710a57f7.jpg",
+        "https://telegra.ph/file/c1f5dad10cfa447b7212d.jpg",
+        "https://telegra.ph/file/0fc277efdebf4982c78a6.jpg",
+        "https://telegra.ph/file/3a089ffbc5a9b81530e76.jpg",
+        "https://telegra.ph/file/040eac965f1e227e77a56.jpg",
+        "https://telegra.ph/file/76e7a9bcf1185d7a7eddc.jpg",
+        "https://telegra.ph/file/6b91950831cb5eb11eff1.jpg",
+        "https://telegra.ph/file/056d0e5c34a28828505f3.jpg",
+        "https://telegra.ph/file/938c1bfbc37e17ffcb8f8.jpg",
+        "https://telegra.ph/file/e5f78f83b9f19f62b2829.jpg",
+        "https://telegra.ph/file/edb7e5342e0d95fa9ebcb.jpg",
+        "https://telegra.ph/file/1a143de1f0d88b28cd266.jpg",
+        "https://telegra.ph/file/05735f2e53e0147a4bc24.jpg",
+        "https://telegra.ph/file/4057f8e69b3573b012f19.jpg",
+        "https://telegra.ph/file/e277633c4b99b4ca4cb4a.jpg"
+    ]
+};

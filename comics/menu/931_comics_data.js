@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 931,
+    "title": "[楝蛙] 運命のひと (COMIC 快楽天 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/楝蛙-運命のひと-COMIC-快楽天-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/171e63af2af05b6f2151c.jpg",
+        "https://telegra.ph/file/d71d0e6c385c52557152f.jpg",
+        "https://telegra.ph/file/5e61a87db57d037cc25be.jpg",
+        "https://telegra.ph/file/7640237627d900c1a8bb7.jpg",
+        "https://telegra.ph/file/5f41393fd472ea7120a7a.jpg",
+        "https://telegra.ph/file/b3c31a6e7933f1e1e887b.jpg",
+        "https://telegra.ph/file/29c81aad6f44ba9b74058.jpg",
+        "https://telegra.ph/file/4aa1b6af34ee2eb5c94eb.jpg",
+        "https://telegra.ph/file/de843c640f5837195931c.jpg",
+        "https://telegra.ph/file/c64b6b977ed75e9e4a12f.jpg",
+        "https://telegra.ph/file/b4f18f25f59189af9e73b.jpg",
+        "https://telegra.ph/file/1d4b4367bf2e35d35a9a6.jpg",
+        "https://telegra.ph/file/24fa33e5665c8b17ded8b.jpg",
+        "https://telegra.ph/file/b01ba42eee8bb778f94c2.jpg",
+        "https://telegra.ph/file/af5ec8542da4ef105d0b7.jpg",
+        "https://telegra.ph/file/a386c79fd46edcba277c2.jpg",
+        "https://telegra.ph/file/6495eb8e0c9c9cb3a063f.jpg",
+        "https://telegra.ph/file/1d85b907903173612a228.jpg",
+        "https://telegra.ph/file/b1d40bd742c5facec8da1.jpg",
+        "https://telegra.ph/file/3861ffdc2cc0c03f3bfcc.jpg",
+        "https://telegra.ph/file/1a96a834202ce18193801.jpg",
+        "https://telegra.ph/file/2c64fec161030c1edb4ea.jpg",
+        "https://telegra.ph/file/9ffabee650aaea0b7c97a.jpg",
+        "https://telegra.ph/file/96c39cf9f49e9f381f8d0.jpg"
+    ]
+};

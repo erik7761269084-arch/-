@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3712,
+    "title": "[Dikk0] 差分４６枚！白上Fbkちゃんといっぱい交尾しまくるCG集! (白上フブキ)",
+    "sourceUrl": "https://telegra.ph/Dikk0-差分４６枚白上Fbkちゃんといっぱい交尾しまくるCG集-白上フブキ-08-31",
+    "images": [
+        "https://telegra.ph/file/11e789a0f94d41ddae098.jpg",
+        "https://telegra.ph/file/cba4aa6a81bcf9334dcc1.jpg",
+        "https://telegra.ph/file/3c554e31c5797570cca8f.jpg",
+        "https://telegra.ph/file/bace0ff4405f1b032421b.jpg",
+        "https://telegra.ph/file/38c0f880ece3e88be5d89.jpg",
+        "https://telegra.ph/file/36d90891a250c2f3a2939.jpg",
+        "https://telegra.ph/file/68b5d53c9c8ae1501c36c.jpg",
+        "https://telegra.ph/file/b5aeb8ae0957382f1828c.jpg",
+        "https://telegra.ph/file/d91b83a0382e5e8b95ae1.jpg",
+        "https://telegra.ph/file/ed1dd1ec6e72ab8d16496.jpg",
+        "https://telegra.ph/file/e5d3d06d805f433f59b98.jpg",
+        "https://telegra.ph/file/e4c0365dbd48f7952de75.jpg",
+        "https://telegra.ph/file/e44ec500af284177c1a6a.jpg",
+        "https://telegra.ph/file/cabd3469da533417367c5.jpg",
+        "https://telegra.ph/file/bcc6a707adc02c81a1c4e.jpg",
+        "https://telegra.ph/file/d17225c3319797d75c4ea.jpg",
+        "https://telegra.ph/file/060f68ed72935bf26df46.jpg",
+        "https://telegra.ph/file/250c8218676be33293bac.jpg",
+        "https://telegra.ph/file/c63d2ec4bbfa91b32afb2.jpg",
+        "https://telegra.ph/file/2ddeb0fc6de87e442ffc4.jpg",
+        "https://telegra.ph/file/b287ed7226b7461530c93.jpg",
+        "https://telegra.ph/file/54044835edb468f032171.jpg",
+        "https://telegra.ph/file/b288c5d35935f836173ce.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

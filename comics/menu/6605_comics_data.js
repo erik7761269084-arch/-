@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6605,
+    "title": "提督のご趣味 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/提督のご趣味-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/5e19011d4e2bc687ef091.jpg",
+        "https://telegra.ph/file/2f36606cc24b59f457dfe.jpg",
+        "https://telegra.ph/file/1c4131d37cf09f878f944.jpg",
+        "https://telegra.ph/file/3ca73772b65808447ccbb.jpg",
+        "https://telegra.ph/file/4cc5699e9186aad0ad2cd.jpg",
+        "https://telegra.ph/file/646bb52b62f472a417fa8.jpg",
+        "https://telegra.ph/file/ff70c760fd5162acadf22.jpg",
+        "https://telegra.ph/file/28954f7c53032c2625a03.jpg",
+        "https://telegra.ph/file/d2ec9a004bb8926ea36b0.jpg",
+        "https://telegra.ph/file/96d9ea3fe559e1c65d597.jpg",
+        "https://telegra.ph/file/c9d1acf5dd01b1cb3cc86.jpg",
+        "https://telegra.ph/file/45901a0ab119a226430ec.jpg",
+        "https://telegra.ph/file/1700229f53ef526c6ddb5.jpg",
+        "https://telegra.ph/file/ec6b6b7f3e188d2072ef0.jpg",
+        "https://telegra.ph/file/05787761f8f07fd827575.jpg",
+        "https://telegra.ph/file/4569d496af1b67fc0fa76.jpg",
+        "https://telegra.ph/file/b0bffc442098f1f13f1b7.jpg",
+        "https://telegra.ph/file/6d6cf80072a6ee89cc148.jpg",
+        "https://telegra.ph/file/d90cd576ba30d099895b9.jpg",
+        "https://telegra.ph/file/75f26b08f6ca872af7ed0.jpg",
+        "https://telegra.ph/file/8beb5c5edaba08e52c5b0.jpg",
+        "https://telegra.ph/file/76bf609699be248e9ff36.jpg",
+        "https://telegra.ph/file/2f866a5ebd9bbd997b177.jpg",
+        "https://telegra.ph/file/a48f3524e025a6f81f512.jpg"
+    ]
+};

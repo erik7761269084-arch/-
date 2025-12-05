@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 975,
+    "title": "(C99) [ぷにぽんや (kupala)] 婦長のちょっと強引な性教育。 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-ぷにぽんや-kupala-婦長のちょっと強引な性教育-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/a3a2cf99512770942f0f0.jpg",
+        "https://telegra.ph/file/039d967bfaafdd1901021.jpg",
+        "https://telegra.ph/file/1241e1ac1e00b2acd93a3.jpg",
+        "https://telegra.ph/file/9f7699acfaeaa26e55bf5.jpg",
+        "https://telegra.ph/file/27ac90cea8c4bd0f4bbb6.jpg",
+        "https://telegra.ph/file/e524173871dc99c1f9700.jpg",
+        "https://telegra.ph/file/d4821e805ec7613aa88b8.jpg",
+        "https://telegra.ph/file/dabd28d94e66fdcb0c094.jpg",
+        "https://telegra.ph/file/675aae093c42e788df431.jpg",
+        "https://telegra.ph/file/28d4f59879512161468c2.jpg",
+        "https://telegra.ph/file/693e826b33336a9772ab1.jpg",
+        "https://telegra.ph/file/9debdbbb1a04fa3162be4.jpg",
+        "https://telegra.ph/file/d09faf56f4d1b9e0d440f.jpg",
+        "https://telegra.ph/file/51f7e9ad862b808049857.jpg",
+        "https://telegra.ph/file/6b2efdc15de04155a9754.jpg",
+        "https://telegra.ph/file/757dbb41ca60912e989d6.jpg",
+        "https://telegra.ph/file/245653da22523e2494e5c.jpg",
+        "https://telegra.ph/file/2fc183adfc7f9da577da4.jpg",
+        "https://telegra.ph/file/dec79dcb609486cc64e6a.jpg",
+        "https://telegra.ph/file/b286b72761e87afde18d4.jpg",
+        "https://telegra.ph/file/4b44d7ed010a7a3d231a8.jpg",
+        "https://telegra.ph/file/648f2d9754d74d85df130.jpg",
+        "https://telegra.ph/file/dd623ab8a0604dc06919c.jpg",
+        "https://telegra.ph/file/f55293f934c0fe72d551a.jpg",
+        "https://telegra.ph/file/33ac544cd5c202855e233.jpg",
+        "https://telegra.ph/file/5484bfb464803bc4d9a06.jpg"
+    ]
+};

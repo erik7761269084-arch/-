@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3532,
+    "title": "[MISS BLACK OFFLINE (MISS BLACK)] 情欲狂想組曲 第二楽章 Revival (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/MISS-BLACK-OFFLINE-MISS-BLACK-情欲狂想組曲-第二楽章-Revival-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/75b51378219c75e6b1b4c.jpg",
+        "https://telegra.ph/file/5d7d261b3f263c645bf4e.jpg",
+        "https://telegra.ph/file/edb3a4aeb891ab0691255.jpg",
+        "https://telegra.ph/file/aaf9cd10b72c9474cfc2f.jpg",
+        "https://telegra.ph/file/3ef2e983edd73adff2c02.jpg",
+        "https://telegra.ph/file/b11cadc33d5edaadaaf9f.jpg",
+        "https://telegra.ph/file/fccf6682828ebaaf4905b.jpg",
+        "https://telegra.ph/file/a84b98c2af994f936352a.jpg",
+        "https://telegra.ph/file/519e63821bde4ef8b1f25.jpg",
+        "https://telegra.ph/file/6570d1421cf112802a08b.jpg",
+        "https://telegra.ph/file/c154bc687bc022918999c.jpg",
+        "https://telegra.ph/file/4a39696c7d447524811d2.jpg",
+        "https://telegra.ph/file/5b08c8d44919f9e1853fc.jpg",
+        "https://telegra.ph/file/f8887c69c20445b825789.jpg",
+        "https://telegra.ph/file/9a11c85be4d0c00c3671c.jpg",
+        "https://telegra.ph/file/2f8e4a84ef9e6986688f2.jpg",
+        "https://telegra.ph/file/c62892ca1686b0889253b.jpg",
+        "https://telegra.ph/file/ddcf64e0e8321a735846a.jpg",
+        "https://telegra.ph/file/3f50211d69e5c8f324538.jpg",
+        "https://telegra.ph/file/1c9f8a82c159dce751084.jpg",
+        "https://telegra.ph/file/d0c9f802eda61854e6720.jpg",
+        "https://telegra.ph/file/705ef23bff84d0a1bd2b5.jpg",
+        "https://telegra.ph/file/7b7190c966fbc5d97e3b5.jpg",
+        "https://telegra.ph/file/8f252b118e8e90364c305.jpg",
+        "https://telegra.ph/file/8db0a7b6a0513cc562d3d.jpg",
+        "https://telegra.ph/file/62f3677e9b5df5c1ce146.jpg"
+    ]
+};

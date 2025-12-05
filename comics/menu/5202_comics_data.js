@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5202,
+    "title": "[ごさいじ] 卒業reward ~fin~ (COMIC快楽天 2021年3月号) [MJK-22-Z2762]",
+    "sourceUrl": "https://telegra.ph/ごさいじ-卒業reward-fin-COMIC快楽天-2021年3月号-MJK-22-Z2762-08-31-2",
+    "images": [
+        "https://telegra.ph/file/ff111f25bd3d3044932f1.png",
+        "https://telegra.ph/file/305e36cfb091bf9fcdce5.png",
+        "https://telegra.ph/file/003adba445010d27be19c.png",
+        "https://telegra.ph/file/e111aeea58edef05d715a.png",
+        "https://telegra.ph/file/f3da1463d2a80a8245fc6.png",
+        "https://telegra.ph/file/b4e6102066ea6be99ab94.png",
+        "https://telegra.ph/file/2a1f8587f40123752c08b.png",
+        "https://telegra.ph/file/21db37b1b953ebf5b2142.png",
+        "https://telegra.ph/file/e729f7456904608784745.png",
+        "https://telegra.ph/file/b70ba85fcb7bb9ce32329.png",
+        "https://telegra.ph/file/df68091bba1fb6bab03e6.png",
+        "https://telegra.ph/file/a7af8180262a384ac35f3.png",
+        "https://telegra.ph/file/05dba3f1090eaa87339d3.png",
+        "https://telegra.ph/file/ab9d4615a4581a01f0d2d.png",
+        "https://telegra.ph/file/fa3c01069f9e1a087b706.png",
+        "https://telegra.ph/file/b1328fd3054178c4e78b9.png",
+        "https://telegra.ph/file/7f02fdb5e28d723a1072c.png",
+        "https://telegra.ph/file/0dabe227c4d3a6a13245c.png",
+        "https://telegra.ph/file/94808312a98a665bf81fd.png",
+        "https://telegra.ph/file/b20ea9f379b82fd2a7c34.png",
+        "https://telegra.ph/file/e32f5f93dab60da7c3112.png",
+        "https://telegra.ph/file/99fdd17e743a3b6bf626d.png",
+        "https://telegra.ph/file/51a5336d4cbd951fb3514.png",
+        "https://telegra.ph/file/fd3f1b6f92370753958e0.png"
+    ]
+};

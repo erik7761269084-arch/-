@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4565,
+    "title": "[ぶたちゃんぐ] 異世界でショタに犯されるやつ",
+    "sourceUrl": "https://telegra.ph/ぶたちゃんぐ-異世界でショタに犯されるやつ-08-31-2",
+    "images": [
+        "https://telegra.ph/file/6efc9553021abef219eea.jpg",
+        "https://telegra.ph/file/4966b8f59cbd6e28cd3dd.jpg",
+        "https://telegra.ph/file/ff7cc1aa07ea77847b259.jpg",
+        "https://telegra.ph/file/728cf968e43ca92be4ddc.jpg",
+        "https://telegra.ph/file/5026f78d0fb0a1b913e7d.jpg",
+        "https://telegra.ph/file/4cb6523db4417cd9c715c.jpg",
+        "https://telegra.ph/file/c94dc1892f4f8b93be89b.jpg",
+        "https://telegra.ph/file/fd3a84a7a726e27f3e7bd.jpg",
+        "https://telegra.ph/file/5888dc7190b4eb9e0b491.jpg",
+        "https://telegra.ph/file/7ddfa7a27ddd134eb3842.jpg",
+        "https://telegra.ph/file/32bea680d2bb45670c64b.jpg",
+        "https://telegra.ph/file/bf17a27b6a2e7a36a6cd2.jpg",
+        "https://telegra.ph/file/45d11a2df00a636b8d11a.jpg",
+        "https://telegra.ph/file/0c736064630d73b5660d9.jpg",
+        "https://telegra.ph/file/b0c2525cb21272bfd25f0.jpg",
+        "https://telegra.ph/file/382e803cd66363e2ff6b4.jpg",
+        "https://telegra.ph/file/452ce1a554845768dcbab.jpg",
+        "https://telegra.ph/file/7e3a4db0bbab7ffbf2235.jpg",
+        "https://telegra.ph/file/5f919eb10a6dc167ae921.jpg",
+        "https://telegra.ph/file/49320fba47c96eddef81b.jpg",
+        "https://telegra.ph/file/5fdd240ceecda86caea53.jpg",
+        "https://telegra.ph/file/9b3e3fa7ec9efc65ed442.jpg",
+        "https://telegra.ph/file/d3769eaf2f64f1d90e690.jpg"
+    ]
+};

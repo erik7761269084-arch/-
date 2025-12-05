@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1383,
+    "title": "[ぽぽちち (八尋ぽち)] その着せ替え人形はHをする (その着せ替え人形は恋をする)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/ぽぽちち-八尋ぽち-その着せ替え人形はHをする-その着せ替え人形は恋をする-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/3c2b51b557ee8ce51979b.jpg",
+        "https://telegra.ph/file/5316c1c4a8972a978006b.jpg",
+        "https://telegra.ph/file/6a864d27b06b3f4e06160.jpg",
+        "https://telegra.ph/file/b82ea77e8b3d0b911a1bb.jpg",
+        "https://telegra.ph/file/ab2707f091f73b2adfb5a.jpg",
+        "https://telegra.ph/file/ad7c036f329b478cdc136.jpg",
+        "https://telegra.ph/file/0c48be0deb955e3be6061.jpg",
+        "https://telegra.ph/file/3b9a9d2d584421d627a11.jpg",
+        "https://telegra.ph/file/8c9dd13a0ef3d7feb295b.jpg",
+        "https://telegra.ph/file/bddbfd5abc8bf72417296.jpg",
+        "https://telegra.ph/file/cf34f9eba0dde04ba1b5b.jpg",
+        "https://telegra.ph/file/c538c0b4a68a32bf87af9.jpg",
+        "https://telegra.ph/file/64c9991ecd7ee5a73fcee.jpg",
+        "https://telegra.ph/file/3b81773bdcdf25c5a7489.jpg",
+        "https://telegra.ph/file/539be6724738a4575ec1c.jpg",
+        "https://telegra.ph/file/cc3e139d92bea8a8bb1c2.jpg",
+        "https://telegra.ph/file/0cf96880ede0b06cc04d0.jpg",
+        "https://telegra.ph/file/e0534da4e8c7d46c07fc6.jpg",
+        "https://telegra.ph/file/1305da3528c9f1a50097b.jpg",
+        "https://telegra.ph/file/21baf69e9ea8eb35ab826.jpg",
+        "https://telegra.ph/file/94b65fa03b49c4611109a.jpg",
+        "https://telegra.ph/file/1680a6516b252dd888f52.jpg",
+        "https://telegra.ph/file/cb4f2c65dbd94c6d0d93a.jpg",
+        "https://telegra.ph/file/9514c3d81ef9b468fe9bf.jpg"
+    ]
+};

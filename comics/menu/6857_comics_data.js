@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6857,
+    "title": "こたつでみかん",
+    "sourceUrl": "https://telegra.ph/こたつでみかん-08-31",
+    "images": [
+        "https://telegra.ph/file/c7d71a443f70da57ede48.jpg",
+        "https://telegra.ph/file/ef129828a86733d1a5fe7.jpg",
+        "https://telegra.ph/file/b4c32968ad29ae43d2a22.jpg",
+        "https://telegra.ph/file/d884caacda965734d85f4.jpg",
+        "https://telegra.ph/file/e691761c52cb16c45c78c.jpg",
+        "https://telegra.ph/file/e23e5e58859478897f9f2.jpg",
+        "https://telegra.ph/file/237a93481428007e9a637.jpg",
+        "https://telegra.ph/file/241e0a90ee6afb765076c.jpg",
+        "https://telegra.ph/file/90e98cbcd388ac6925f0e.jpg",
+        "https://telegra.ph/file/fab50011f024e7aa3aebb.jpg",
+        "https://telegra.ph/file/f8421929061c16cf0fec1.jpg",
+        "https://telegra.ph/file/69ca221029e4ae0fc8070.jpg",
+        "https://telegra.ph/file/520e1dd3bb4c3c18118b6.jpg",
+        "https://telegra.ph/file/cea693c5c7a360f22684a.jpg",
+        "https://telegra.ph/file/544e3b8a1dea28d4f4250.jpg",
+        "https://telegra.ph/file/68ae9d39e96dec8abbf08.jpg",
+        "https://telegra.ph/file/9cd892c5081105576a404.jpg",
+        "https://telegra.ph/file/40637cc3c45f2420fc9cd.jpg",
+        "https://telegra.ph/file/17d47a77e364551eff996.jpg",
+        "https://telegra.ph/file/06b4efdcb561d1f6af88a.jpg",
+        "https://telegra.ph/file/1fb3183c2922d60d222e5.jpg",
+        "https://telegra.ph/file/052d41027437ed829cb85.jpg",
+        "https://telegra.ph/file/b75d5d92504b02e22fb91.jpg",
+        "https://telegra.ph/file/bc532e929c32bdb93faa1.jpg"
+    ]
+};

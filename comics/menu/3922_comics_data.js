@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3922,
+    "title": "[OrangeMaru (雨)] かくしたいこと (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/OrangeMaru-雨-かくしたいこと-アイドルマスター-シャイニーカラーズ-08-31-3",
+    "images": [
+        "https://telegra.ph/file/a567010acfd5728a6908e.jpg",
+        "https://telegra.ph/file/c9a9d19ceabce9662847b.jpg",
+        "https://telegra.ph/file/564feceebc6f0710e39b2.jpg",
+        "https://telegra.ph/file/ce18ad34e7a78b3008683.jpg",
+        "https://telegra.ph/file/2e61a933e4556a0f213be.jpg",
+        "https://telegra.ph/file/e7df95c648da1399f4316.jpg",
+        "https://telegra.ph/file/a3b55b607b6981074ac14.jpg",
+        "https://telegra.ph/file/c1457a8fe2af497fabdb1.jpg",
+        "https://telegra.ph/file/b483e4a16b0d300b53486.jpg",
+        "https://telegra.ph/file/7d37dd7b9c3e5a4cb1e5c.jpg",
+        "https://telegra.ph/file/aa66edf0a9e4de052976d.jpg",
+        "https://telegra.ph/file/6ee718f0c0780d05993d6.jpg",
+        "https://telegra.ph/file/ef19c0c7395d3c0f05a8d.jpg",
+        "https://telegra.ph/file/179e037bd9943f542f15e.jpg",
+        "https://telegra.ph/file/1277e9433ee564e9744c7.jpg",
+        "https://telegra.ph/file/2bec5b6f5f9b28989d9f2.jpg",
+        "https://telegra.ph/file/83d16743544868a70d247.jpg",
+        "https://telegra.ph/file/b6b442edf1414a9f72fe6.jpg",
+        "https://telegra.ph/file/23163d482c6f74e04069c.jpg",
+        "https://telegra.ph/file/76e8d19f9decbd2efd0e1.jpg",
+        "https://telegra.ph/file/593170609fffcb8f89a94.jpg",
+        "https://telegra.ph/file/46f763ad1aa2361d85c25.jpg",
+        "https://telegra.ph/file/b626562a9f94060f2e29e.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

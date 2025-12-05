@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7601,
+    "title": "関銀屏無惨",
+    "sourceUrl": "https://telegra.ph/関銀屏無惨-08-31",
+    "images": [
+        "https://telegra.ph/file/aba842aa7ff86fc92684c.jpg",
+        "https://telegra.ph/file/082de6bbc56a6952f97bf.jpg",
+        "https://telegra.ph/file/bb1e30120c6a8eceec4a8.jpg",
+        "https://telegra.ph/file/dad8f35271ef3d638d3a2.jpg",
+        "https://telegra.ph/file/aa4e5f5df91d5f447b4a8.jpg",
+        "https://telegra.ph/file/c7635c8ba6d60aa8c7296.jpg",
+        "https://telegra.ph/file/ea2ddf26098721ad461f3.jpg",
+        "https://telegra.ph/file/521139b162aa234f1ab8b.jpg",
+        "https://telegra.ph/file/8f773d1d8fa8792b39834.jpg",
+        "https://telegra.ph/file/aff2769753fab69607790.jpg",
+        "https://telegra.ph/file/0d52d31b218ae41a58092.jpg",
+        "https://telegra.ph/file/9104817d04f3658d6030e.jpg",
+        "https://telegra.ph/file/b7f5d248dc4633b1b8e0c.jpg",
+        "https://telegra.ph/file/b237e1c876339cb6180e9.jpg",
+        "https://telegra.ph/file/d69e649c06d8caaf36b2c.jpg",
+        "https://telegra.ph/file/ecb515a3f1b990b2ec0b6.jpg",
+        "https://telegra.ph/file/6c11e9d068bdc03fc3535.jpg",
+        "https://telegra.ph/file/e3f5ec8f32204726ee9b1.jpg",
+        "https://telegra.ph/file/1de8a6fe836a417cf1fb8.jpg",
+        "https://telegra.ph/file/41e8874fffbbe4b33a9cd.jpg",
+        "https://telegra.ph/file/0b4ebdceb4e10e04f4151.jpg",
+        "https://telegra.ph/file/be97809aba3a4d862f357.jpg",
+        "https://telegra.ph/file/5cf216991ffa68d07caed.jpg",
+        "https://telegra.ph/file/c31f321e3bc1806536d4c.jpg",
+        "https://telegra.ph/file/0b88798bdd7c4f0cb1274.jpg",
+        "https://telegra.ph/file/ca2105c05ae1440fb9d0d.jpg"
+    ]
+};

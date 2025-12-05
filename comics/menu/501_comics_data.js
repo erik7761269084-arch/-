@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 501,
+    "title": "[無道叡智] プリーズリバースリトルラヴァーズ (COMIC LO 2022年5月号)",
+    "sourceUrl": "https://telegra.ph/無道叡智-プリーズリバースリトルラヴァーズ-COMIC-LO-2022年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a246e6965e0229869e1b8.jpg",
+        "https://telegra.ph/file/72021322cecb38fa56ea7.jpg",
+        "https://telegra.ph/file/336046806b152b26af8db.jpg",
+        "https://telegra.ph/file/5b7f5fc7286d11cf2de68.jpg",
+        "https://telegra.ph/file/cc54231ee68c47ed7b01c.jpg",
+        "https://telegra.ph/file/190d49b6e44cc32435cac.jpg",
+        "https://telegra.ph/file/f8cc7c470b92b925bdbe0.jpg",
+        "https://telegra.ph/file/dacb3ec263027a0d084f2.jpg",
+        "https://telegra.ph/file/7bea892df79cd2aa4bb8f.jpg",
+        "https://telegra.ph/file/6679d118e76f1ee0316e4.jpg",
+        "https://telegra.ph/file/a8cf058900d0d3c31c621.jpg",
+        "https://telegra.ph/file/4f325e0286c811309b132.jpg",
+        "https://telegra.ph/file/1292585aae5520a7cf197.jpg",
+        "https://telegra.ph/file/ef64336a39d13cf38fbda.jpg",
+        "https://telegra.ph/file/6ad91ba06fa48f7422cb1.jpg",
+        "https://telegra.ph/file/57978fdd13634f8d4ed12.jpg",
+        "https://telegra.ph/file/8774725c428156a2b7e82.jpg",
+        "https://telegra.ph/file/a21af27801f26da059284.jpg",
+        "https://telegra.ph/file/9a1b0111e8bb389551239.jpg",
+        "https://telegra.ph/file/70c104a4f21d84a8f0ea0.jpg",
+        "https://telegra.ph/file/2e0a799c37e908ee150d1.jpg",
+        "https://telegra.ph/file/2582a37a8fdbd5efd210b.jpg",
+        "https://telegra.ph/file/7bfed5f6a82358b65cc48.jpg",
+        "https://telegra.ph/file/4b6631b036a98e9813d02.jpg",
+        "https://telegra.ph/file/1d51e1e536f7ac07e6379.jpg",
+        "https://telegra.ph/file/12a205a5d8e9d9e5a4fd7.jpg"
+    ]
+};

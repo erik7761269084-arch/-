@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1557,
+    "title": "(C99) [るるえぱあにまーと (るるえぱ)] NO.1ピンサロ嬢アリスちゃん ~ネコチャン感謝デー~ (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/C99-るるえぱあにまーと-るるえぱ-NO1ピンサロ嬢アリスちゃん-ネコチャン感謝デー-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/38e5deb287b4b3eed9321.jpg",
+        "https://telegra.ph/file/55e0d2c49301540af659a.jpg",
+        "https://telegra.ph/file/1bd3f8b8a911fd59427b7.jpg",
+        "https://telegra.ph/file/e485e565534d0c8bac59b.jpg",
+        "https://telegra.ph/file/27b4d27857616aedd048e.jpg",
+        "https://telegra.ph/file/148e6f4d01e9a161045c2.jpg",
+        "https://telegra.ph/file/14a978b9d9d8edf2aa7cc.jpg",
+        "https://telegra.ph/file/bf28c330a861db69f7d73.jpg",
+        "https://telegra.ph/file/97ab810e0294c3880ea45.jpg",
+        "https://telegra.ph/file/580023cbcac21d1db3bae.jpg",
+        "https://telegra.ph/file/83d972c04cdf66808d8cd.jpg",
+        "https://telegra.ph/file/e2e666ebc898a4cde21d1.jpg",
+        "https://telegra.ph/file/cd43791f461f5c78a2507.jpg",
+        "https://telegra.ph/file/9f4f3cceb1d54cdb96b56.jpg",
+        "https://telegra.ph/file/1ea4bc199ef2ed6b3390b.jpg",
+        "https://telegra.ph/file/fe5217987dd0a328ccf69.jpg",
+        "https://telegra.ph/file/93506b1c35bf22822187c.jpg",
+        "https://telegra.ph/file/c5f10b9f689f6dfe3fa08.jpg",
+        "https://telegra.ph/file/1ab2b8d919f8327c4fb48.jpg",
+        "https://telegra.ph/file/d98a0d5f97f2310394d67.jpg",
+        "https://telegra.ph/file/8bb16ec0b7cd3175a86c6.jpg",
+        "https://telegra.ph/file/9202886116ce31dbd175d.jpg",
+        "https://telegra.ph/file/fd4b6469af3b7228b4a16.jpg",
+        "https://telegra.ph/file/27cfa4866ec1153023bca.jpg"
+    ]
+};

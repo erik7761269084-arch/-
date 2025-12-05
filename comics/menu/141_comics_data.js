@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 141,
+    "title": "[7Color (Form 404)] Altria肉体解呪 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/7Color-Form-404-Altria肉体解呪-FateGrand-Order-08-31-2",
+    "images": [
+        "https://telegra.ph/file/fdc42eeb45142d9b5d594.jpg",
+        "https://telegra.ph/file/5a96e4dbd277060818233.jpg",
+        "https://telegra.ph/file/ad42c1e97efdd45758363.jpg",
+        "https://telegra.ph/file/c92be3acf119ed46ccfa7.jpg",
+        "https://telegra.ph/file/7a260437825a74788bb8a.jpg",
+        "https://telegra.ph/file/aa5e47011ecdcb8f4bc9f.jpg",
+        "https://telegra.ph/file/61b5104a4f264c4ec535a.jpg",
+        "https://telegra.ph/file/1482fbc6853a6b3269e64.jpg",
+        "https://telegra.ph/file/8cc7314f3c0b9900f41ac.jpg",
+        "https://telegra.ph/file/74f0f8ff6ed95c82c3ac0.jpg",
+        "https://telegra.ph/file/368e5c7e230b270f767b8.jpg",
+        "https://telegra.ph/file/01c897fe83f1dca37c346.jpg",
+        "https://telegra.ph/file/5fa083bfeb94580af2527.jpg",
+        "https://telegra.ph/file/973a179928a89b32fa903.jpg",
+        "https://telegra.ph/file/1e7d880de0482652c904a.jpg",
+        "https://telegra.ph/file/615a87805f0b1b52f2ec4.jpg",
+        "https://telegra.ph/file/f1868e03899f98a7b9dac.jpg",
+        "https://telegra.ph/file/5abd79fb106304d1088c2.jpg",
+        "https://telegra.ph/file/e85afc2bf06291de6d833.jpg",
+        "https://telegra.ph/file/2763bd99b934324461994.jpg",
+        "https://telegra.ph/file/4fc9ebd500c4b38ee969f.jpg",
+        "https://telegra.ph/file/fa10a371c5923f3bfd9bc.jpg",
+        "https://telegra.ph/file/37cd6aa997a04d9be8729.jpg",
+        "https://telegra.ph/file/e1095e4e481810d218e35.jpg",
+        "https://telegra.ph/file/33ae8af825cd1cab7894b.jpg",
+        "https://telegra.ph/file/6624b618ad13e2edd8352.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7402,
+    "title": "チラリズムの終わり",
+    "sourceUrl": "https://telegra.ph/チラリズムの終わり-08-31",
+    "images": [
+        "https://telegra.ph/file/96d7fd14f770172fa470d.jpg",
+        "https://telegra.ph/file/3b60f2d5c2b011c16d235.jpg",
+        "https://telegra.ph/file/7672c6b3f72c439e14be4.jpg",
+        "https://telegra.ph/file/668b9030e6b266b9bd07a.jpg",
+        "https://telegra.ph/file/c6ab27efcad654a6c1eef.jpg",
+        "https://telegra.ph/file/d34ec4f9a73692408fbf1.jpg",
+        "https://telegra.ph/file/43c35c3a6edc36b719e47.jpg",
+        "https://telegra.ph/file/49433d7b50733b375601d.jpg",
+        "https://telegra.ph/file/c35dd146486d8d002aa5c.jpg",
+        "https://telegra.ph/file/9dd97c2933af96a4c5ccd.jpg",
+        "https://telegra.ph/file/53bdc65e4cbced13d8d8b.jpg",
+        "https://telegra.ph/file/c711d52ad43e06563c3b2.jpg",
+        "https://telegra.ph/file/10c9f41f2ce4b99944dd2.jpg",
+        "https://telegra.ph/file/873bddac7cbaeb696070f.jpg",
+        "https://telegra.ph/file/c4a1cea6c5769f614e9d6.jpg",
+        "https://telegra.ph/file/da980533b50d807376770.jpg",
+        "https://telegra.ph/file/6479e67c60f3f7e20c5c1.jpg",
+        "https://telegra.ph/file/243f8cc18b83b0be613bf.jpg",
+        "https://telegra.ph/file/2b6979b143fc9092879ca.jpg",
+        "https://telegra.ph/file/818c2826d1281f0f09958.jpg",
+        "https://telegra.ph/file/a844464166f9d87a814fb.jpg",
+        "https://telegra.ph/file/a288787e894658dc22879.jpg",
+        "https://telegra.ph/file/f4c77524073f19c544b63.jpg",
+        "https://telegra.ph/file/f642f819f19b69f691e9b.jpg",
+        "https://telegra.ph/file/3dffdf705ba41cf5ed18a.jpg",
+        "https://telegra.ph/file/75d98b85d9a77c42f3761.jpg"
+    ]
+};

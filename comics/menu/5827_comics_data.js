@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 5827,
+    "title": "[みぞね] 時給1500円!!漁業を手伝う簡単なお仕事です。",
+    "sourceUrl": "https://telegra.ph/みぞね-時給1500円漁業を手伝う簡単なお仕事です-08-31-2",
+    "images": [
+        "https://telegra.ph/file/c2f015a8d040613268bac.jpg",
+        "https://telegra.ph/file/8abaaca79bc88a4ac1eeb.jpg",
+        "https://telegra.ph/file/6435c8bc42aeffd3ff3e6.jpg",
+        "https://telegra.ph/file/27232eb2887537d2339c6.jpg",
+        "https://telegra.ph/file/6beb41586ce20cb45ad9c.jpg",
+        "https://telegra.ph/file/a6d48ecc3e914b3fb4353.jpg",
+        "https://telegra.ph/file/3ee5b9aadb5de868657a0.jpg",
+        "https://telegra.ph/file/c1b552bc95e81bff3f85f.jpg",
+        "https://telegra.ph/file/96ad345c4fdcd90f56fae.jpg",
+        "https://telegra.ph/file/e49fb0e9036a1ff031179.jpg",
+        "https://telegra.ph/file/0a60afe6def9a0a96a464.jpg",
+        "https://telegra.ph/file/c33b208c5271c97fb4863.jpg",
+        "https://telegra.ph/file/5f4babb936991abe5f665.jpg",
+        "https://telegra.ph/file/a4c7bd399d823546d524b.jpg",
+        "https://telegra.ph/file/a0ceace1b3a61e16379d2.jpg",
+        "https://telegra.ph/file/6274c38ae601f0977cd92.jpg",
+        "https://telegra.ph/file/3e173fd2a8fb6665b9158.jpg",
+        "https://telegra.ph/file/c171e71868f5f23353f9c.jpg",
+        "https://telegra.ph/file/b962c07b1b8efb0f552de.jpg",
+        "https://telegra.ph/file/3e900b2ccc1642af759cf.jpg",
+        "https://telegra.ph/file/d427f6a69525fcb412299.jpg",
+        "https://telegra.ph/file/11cb98a82e50b17a202b6.jpg",
+        "https://telegra.ph/file/3674d33fb159df634451e.jpg",
+        "https://telegra.ph/file/c48a68fe6ef6bde75e52c.jpg",
+        "https://telegra.ph/file/fd96fdcbc334748abbda7.jpg"
+    ]
+};

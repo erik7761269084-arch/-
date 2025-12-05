@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3973,
+    "title": "(COMIC1☆15) [ふなたいむ (幸奈ふな)] ラフィーちゃんの発情期… (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/COMIC115-ふなたいむ-幸奈ふな-ラフィーちゃんの発情期-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/f7578052e8e05d2a412e6.jpg",
+        "https://telegra.ph/file/0e57f033a3979bb592fc1.jpg",
+        "https://telegra.ph/file/aa234b664d2865639934e.jpg",
+        "https://telegra.ph/file/6ec42e59a98b1632921f0.jpg",
+        "https://telegra.ph/file/8bf2e63dd70072a77d532.jpg",
+        "https://telegra.ph/file/e9d23b04be78431b13f6d.jpg",
+        "https://telegra.ph/file/6dbd54f4b8488eca5c549.jpg",
+        "https://telegra.ph/file/dcee2b1dc7848f4ca1708.jpg",
+        "https://telegra.ph/file/9e7fb7a130f47395f3ac6.jpg",
+        "https://telegra.ph/file/1de5fe48a2a30f5ea347f.jpg",
+        "https://telegra.ph/file/4d8c6249828ee5bde5640.jpg",
+        "https://telegra.ph/file/00b2dc8f0ac6f6bdf5879.jpg",
+        "https://telegra.ph/file/45c02394d4cdfac1b8202.jpg",
+        "https://telegra.ph/file/f6a1bd43a57acaeba69f8.jpg",
+        "https://telegra.ph/file/9ace90b3f29b5483259be.jpg",
+        "https://telegra.ph/file/e43a335ef9a32e797725e.jpg",
+        "https://telegra.ph/file/70205e80d312e8c970f36.jpg",
+        "https://telegra.ph/file/2fb4e7aea14a51aca4f0c.jpg",
+        "https://telegra.ph/file/54db0738ab8ed5ff70284.jpg",
+        "https://telegra.ph/file/858de14176a017d7a0154.jpg",
+        "https://telegra.ph/file/6da083d2d19a31d2f4848.jpg",
+        "https://telegra.ph/file/8c2e825f332efd314fe0d.jpg",
+        "https://telegra.ph/file/0826fd263c771b83facc8.jpg",
+        "https://telegra.ph/file/558e71cac135481f3eb4e.jpg"
+    ]
+};

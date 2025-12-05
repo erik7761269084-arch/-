@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5964,
+    "title": "[みよし] エン女医！",
+    "sourceUrl": "https://telegra.ph/みよし-エン女医-08-31",
+    "images": [
+        "https://telegra.ph/file/f4c5c1bc167150b42bff0.jpg",
+        "https://telegra.ph/file/02820aa211d451f045030.jpg",
+        "https://telegra.ph/file/00f5dd15bd8878e607d42.jpg",
+        "https://telegra.ph/file/a0e4c73ee7545c69f3ba0.jpg",
+        "https://telegra.ph/file/3c678b891a83a2d6c3e99.jpg",
+        "https://telegra.ph/file/d8cdc7e6d8d604df1efa4.jpg",
+        "https://telegra.ph/file/4cfe1bf270950344640ff.jpg",
+        "https://telegra.ph/file/905f7c82acfb46e9b88fd.jpg",
+        "https://telegra.ph/file/b4f270d3c92aac5d0ed75.jpg",
+        "https://telegra.ph/file/1ddec9e78ffc719bdf78e.jpg",
+        "https://telegra.ph/file/7fb275f1b9f715587e6b3.jpg",
+        "https://telegra.ph/file/d85d4e2c47667c9b1bd86.jpg",
+        "https://telegra.ph/file/29594808c9ed86a619ebd.jpg",
+        "https://telegra.ph/file/14da33fa9ce486d002833.jpg",
+        "https://telegra.ph/file/0f1c8e3e9e01bf46f6297.jpg",
+        "https://telegra.ph/file/9a589fd64a56ffe4a5639.jpg",
+        "https://telegra.ph/file/69548eaa7a9911d08cc76.jpg",
+        "https://telegra.ph/file/b9b2f3e876d7c84c2dff5.jpg",
+        "https://telegra.ph/file/462df7cf297b7d9b91bfb.jpg",
+        "https://telegra.ph/file/61f122904b7c75bb8818f.jpg",
+        "https://telegra.ph/file/4ecfd98cae46a2aa1cc74.jpg",
+        "https://telegra.ph/file/f2c5127bdb2bde778b727.jpg",
+        "https://telegra.ph/file/b88697da563ecd2c4e831.jpg",
+        "https://telegra.ph/file/abfbe604190c3d55eae2c.jpg"
+    ]
+};

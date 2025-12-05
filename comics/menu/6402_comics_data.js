@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6402,
+    "title": "タイトロープ (魔法少女まどか☆マギカ)",
+    "sourceUrl": "https://telegra.ph/タイトロープ-魔法少女まどかマギカ-08-31",
+    "images": [
+        "https://telegra.ph/file/125a35208a93bdad7a31b.jpg",
+        "https://telegra.ph/file/3b1864a91c5565a556189.jpg",
+        "https://telegra.ph/file/79ca1594a656dd65fcaf4.jpg",
+        "https://telegra.ph/file/ac949f0476ba501cc7b2f.jpg",
+        "https://telegra.ph/file/41a038316eaba547fd394.jpg",
+        "https://telegra.ph/file/1cc5cbc5639308c660146.jpg",
+        "https://telegra.ph/file/a811be45b2109a95e4e36.jpg",
+        "https://telegra.ph/file/bd74846e0def49925b7ae.jpg",
+        "https://telegra.ph/file/cc652332e68efc0ce3ca6.jpg",
+        "https://telegra.ph/file/520ad48cd0313142d6d20.jpg",
+        "https://telegra.ph/file/700fa6c546df851df54d0.jpg",
+        "https://telegra.ph/file/77737ce1a13fd410621b4.jpg",
+        "https://telegra.ph/file/43955fe28147852661b7d.jpg",
+        "https://telegra.ph/file/d2c74d5a1b3ba4d023252.jpg",
+        "https://telegra.ph/file/79a8c0dcbfb1d8166e175.jpg",
+        "https://telegra.ph/file/b97c0d58c87901ba985a9.jpg",
+        "https://telegra.ph/file/1aeb592db9b15c0c27f71.jpg",
+        "https://telegra.ph/file/35810aa32149dee6d016c.jpg",
+        "https://telegra.ph/file/acedf98178946cab5b13e.jpg",
+        "https://telegra.ph/file/20febe29fa94a75690830.jpg",
+        "https://telegra.ph/file/81631fb2f1bb84f9716b9.jpg",
+        "https://telegra.ph/file/d4d73577328efff2aa854.jpg",
+        "https://telegra.ph/file/cd204d76820adb09a2f08.jpg",
+        "https://telegra.ph/file/ba0f3095fc5ed51c8a057.jpg"
+    ]
+};

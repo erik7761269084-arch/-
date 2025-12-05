@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6129,
+    "title": "[橋村青樹] オトコラシク",
+    "sourceUrl": "https://telegra.ph/橋村青樹-オトコラシク-08-31",
+    "images": [
+        "https://telegra.ph/file/d0c33999fe111e4bdbe02.jpg",
+        "https://telegra.ph/file/1925db98299c32e829143.jpg",
+        "https://telegra.ph/file/5dc49e013aac64029645d.jpg",
+        "https://telegra.ph/file/ed81745c918f32b1a3b32.jpg",
+        "https://telegra.ph/file/6f8f8181b4682f9bbaef9.jpg",
+        "https://telegra.ph/file/919cfcc86e6d48ce50f72.jpg",
+        "https://telegra.ph/file/619fc2e68dac33fdad84c.jpg",
+        "https://telegra.ph/file/ceb87f3a157d00e368321.jpg",
+        "https://telegra.ph/file/8590dcc18ff018f736b9d.jpg",
+        "https://telegra.ph/file/f1681cf4b782f8e96b802.jpg",
+        "https://telegra.ph/file/dc39d53c24587c06cf4a4.jpg",
+        "https://telegra.ph/file/1ee83ff2f468454a18460.jpg",
+        "https://telegra.ph/file/3a305bf8816d6f5d27914.jpg",
+        "https://telegra.ph/file/c2aeef05883e26622ad37.jpg",
+        "https://telegra.ph/file/cbdfb2ff6e26e3162e2a7.jpg",
+        "https://telegra.ph/file/4d2acf0dc169e9d1ba7c8.jpg",
+        "https://telegra.ph/file/9a7200f49e182fa844d6d.jpg",
+        "https://telegra.ph/file/6e2bf1a91aff157b8d97f.jpg",
+        "https://telegra.ph/file/0364feedac7b977b1927b.jpg",
+        "https://telegra.ph/file/aae5ac0bb86b4bdb33fd9.jpg",
+        "https://telegra.ph/file/8b9fd0afa7b00d33808b6.jpg",
+        "https://telegra.ph/file/860a4000610c142cdf01e.jpg",
+        "https://telegra.ph/file/2b7662c187ec6c68deaf7.jpg",
+        "https://telegra.ph/file/8dd533a3c55ff4d0dd2ac.jpg",
+        "https://telegra.ph/file/8ea22db5b2ef004a3220a.jpg",
+        "https://telegra.ph/file/b81c9e758e96f82f4a186.jpg"
+    ]
+};

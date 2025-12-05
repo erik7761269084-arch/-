@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 6633,
+    "title": "Bitch Up, Girls! (東方Project)",
+    "sourceUrl": "https://telegra.ph/Bitch-Up-Girls-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/bbaf6d46b56005da17cb2.jpg",
+        "https://telegra.ph/file/b416d5aacd04af5a6d61d.jpg",
+        "https://telegra.ph/file/0344abe5c76c6b7883724.jpg",
+        "https://telegra.ph/file/290996b09152571e8a647.jpg",
+        "https://telegra.ph/file/3ca6fe557b8e795730a08.jpg",
+        "https://telegra.ph/file/82503abc25539c058cf4c.jpg",
+        "https://telegra.ph/file/9bad65b8970360d64235f.jpg",
+        "https://telegra.ph/file/b40f60fb5c2c6490f4357.jpg",
+        "https://telegra.ph/file/ada666240ec950c0de2e9.jpg",
+        "https://telegra.ph/file/2962411260f39dc2cc454.jpg",
+        "https://telegra.ph/file/dccd7ab2793d2f35f0221.jpg",
+        "https://telegra.ph/file/a4ba6eff75b36358bc9b1.jpg",
+        "https://telegra.ph/file/042a10003557f904193ff.jpg",
+        "https://telegra.ph/file/b848b07ae44837fb50295.jpg",
+        "https://telegra.ph/file/3063e48efaa0fd3e23a24.jpg",
+        "https://telegra.ph/file/f8a547a131ad695ea233f.jpg",
+        "https://telegra.ph/file/ae97d1817c8f1d90e6cf8.jpg",
+        "https://telegra.ph/file/4f541af3d177d92d4c1c5.jpg",
+        "https://telegra.ph/file/01c166a5a31cabf08ab07.jpg",
+        "https://telegra.ph/file/064312f84be5731a7ca46.jpg",
+        "https://telegra.ph/file/c6c24144746eefa1963f8.jpg",
+        "https://telegra.ph/file/91d5f19601ae2397b5a4a.jpg",
+        "https://telegra.ph/file/712ae031c674342cfe6c3.jpg",
+        "https://telegra.ph/file/5a7592be7d316bd3df9d3.jpg",
+        "https://telegra.ph/file/d9a6cba155e048437f37c.jpg",
+        "https://telegra.ph/file/9885b976ef83fba5c5841.jpg"
+    ]
+};

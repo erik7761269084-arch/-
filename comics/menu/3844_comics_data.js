@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3844,
+    "title": "[八月九月 (八月九月)] アコガレノオワリ",
+    "sourceUrl": "https://telegra.ph/八月九月-八月九月-アコガレノオワリ-08-31",
+    "images": [
+        "https://telegra.ph/file/79de73ea03843115fb4e2.jpg",
+        "https://telegra.ph/file/e261c5ec4c38790ba5eaf.jpg",
+        "https://telegra.ph/file/da64dff3e4e622a8d8792.jpg",
+        "https://telegra.ph/file/2bae00dedfe95390b1820.jpg",
+        "https://telegra.ph/file/01d0555923d0bbe323c45.jpg",
+        "https://telegra.ph/file/90ef80193b19e3430d905.jpg",
+        "https://telegra.ph/file/8cc234ec8d080b01188f1.jpg",
+        "https://telegra.ph/file/ef01489ac3422addaa524.jpg",
+        "https://telegra.ph/file/812dce2838cc8909dd879.jpg",
+        "https://telegra.ph/file/6f0b54501c658bb0bae5a.jpg",
+        "https://telegra.ph/file/b2efe9589d89e4868d217.jpg",
+        "https://telegra.ph/file/97c82d88f20757e89c3a2.jpg",
+        "https://telegra.ph/file/0ed5e5f190585307765d0.jpg",
+        "https://telegra.ph/file/af010df4d6d75070c0e4c.jpg",
+        "https://telegra.ph/file/c012322e24ab3c2837c5b.jpg",
+        "https://telegra.ph/file/5c8b22f271257e6cfdebc.jpg",
+        "https://telegra.ph/file/a58675981941d0bc424c6.jpg",
+        "https://telegra.ph/file/fff2cfd4b0e54a409f530.jpg",
+        "https://telegra.ph/file/6fbb6034d8ea8ec3e3ded.jpg",
+        "https://telegra.ph/file/be54d5c5972f745343cfb.jpg",
+        "https://telegra.ph/file/271e2c8d5c1e7954baa0a.jpg",
+        "https://telegra.ph/file/5896e2becfdc7c397b502.jpg",
+        "https://telegra.ph/file/3c1b24f1e8545bdef8028.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ]
+};

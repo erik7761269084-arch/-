@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6552,
+    "title": "GREEN DAY (美少女戦士セーラームーン)",
+    "sourceUrl": "https://telegra.ph/GREEN-DAY-美少女戦士セーラームーン-08-31",
+    "images": [
+        "https://telegra.ph/file/7d32700735d80e8eb40a8.jpg",
+        "https://telegra.ph/file/52e1fb205106d8fc72a97.jpg",
+        "https://telegra.ph/file/2235401e8c7cbf2d884b5.jpg",
+        "https://telegra.ph/file/7c92f19b8f71f6bcecda3.jpg",
+        "https://telegra.ph/file/209c07c6ff9a8b620fc14.jpg",
+        "https://telegra.ph/file/5f0a95619b669eaac3283.jpg",
+        "https://telegra.ph/file/00d7e0675df84d648eb7c.jpg",
+        "https://telegra.ph/file/7a81b7bceba1dc66297e1.jpg",
+        "https://telegra.ph/file/c72e03025ab15a6936d7c.jpg",
+        "https://telegra.ph/file/05a0bf267e68fc55d8d99.jpg",
+        "https://telegra.ph/file/58d1eb185d33736aca193.jpg",
+        "https://telegra.ph/file/62a668c2aed40438f3198.jpg",
+        "https://telegra.ph/file/87e2f5e2d0cfa1cf61f0a.jpg",
+        "https://telegra.ph/file/fee6dcc207e713f54b944.jpg",
+        "https://telegra.ph/file/89e65252201ae40000e8c.jpg",
+        "https://telegra.ph/file/03073a7a968506d49f138.jpg",
+        "https://telegra.ph/file/d16e825cad68213c045df.jpg",
+        "https://telegra.ph/file/c14fd0b870c74718db3ed.jpg",
+        "https://telegra.ph/file/81193a6ce91f2c840a13d.jpg",
+        "https://telegra.ph/file/7e6b6bba3a78e7058a0d2.jpg",
+        "https://telegra.ph/file/1e8f26acbf7249649217d.jpg",
+        "https://telegra.ph/file/696ca4bdbf6a005564818.jpg",
+        "https://telegra.ph/file/efb3f6c5039f74bf815ee.jpg"
+    ]
+};

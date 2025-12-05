@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3775,
+    "title": "[Rev3 (もんちゃんrev3)] 夢で逢いましょう、女神様 (この素晴らしい世界に祝福を!)",
+    "sourceUrl": "https://telegra.ph/Rev3-もんちゃんrev3-夢で逢いましょう女神様-この素晴らしい世界に祝福を-08-31",
+    "images": [
+        "https://telegra.ph/file/e4b1c4997a5765512605a.jpg",
+        "https://telegra.ph/file/419f3689343640f16a81c.jpg",
+        "https://telegra.ph/file/11bd6477ad670f11c73cf.jpg",
+        "https://telegra.ph/file/360977c9e75481ba01e5f.jpg",
+        "https://telegra.ph/file/0348ebbbf8df1b0b578b9.jpg",
+        "https://telegra.ph/file/f79d0de9f2bf66f7163d0.jpg",
+        "https://telegra.ph/file/78cedededb6862f4efcc4.jpg",
+        "https://telegra.ph/file/056bad8b3bac424a95d13.jpg",
+        "https://telegra.ph/file/59d7b29d7339c61916cfe.jpg",
+        "https://telegra.ph/file/ae0a8d2792b9257659072.jpg",
+        "https://telegra.ph/file/9f35b9829cb3ce03dcf3a.jpg",
+        "https://telegra.ph/file/56c073ab69182a1e6b901.jpg",
+        "https://telegra.ph/file/a6c2936c7883bfc0d1bd1.jpg",
+        "https://telegra.ph/file/75d7038a0ea363aa2661d.jpg",
+        "https://telegra.ph/file/5ed8dbf11d87dc1a9b146.jpg",
+        "https://telegra.ph/file/3ae54200033ec37c14eee.jpg",
+        "https://telegra.ph/file/c10d1dc49c0daba63b7c9.jpg",
+        "https://telegra.ph/file/1e4d85f3f4903fc031bb4.jpg",
+        "https://telegra.ph/file/f6fb4298f83062bd47e5c.jpg",
+        "https://telegra.ph/file/15b9dad3a364272f919e7.jpg",
+        "https://telegra.ph/file/c83c8b1811786529f6d39.jpg",
+        "https://telegra.ph/file/06904f32aefe5b6cb6f72.jpg",
+        "https://telegra.ph/file/05c5b7adfe574923fc83d.jpg"
+    ]
+};

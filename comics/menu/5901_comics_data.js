@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 5901,
+    "title": "[Cuvie] ビブリオマニア！",
+    "sourceUrl": "https://telegra.ph/Cuvie-ビブリオマニア-08-31",
+    "images": [
+        "https://telegra.ph/file/57b920110256916c53c89.jpg",
+        "https://telegra.ph/file/19ab4cb3c2c507895fd84.jpg",
+        "https://telegra.ph/file/e0ca2e9a2c5dd01142b0d.jpg",
+        "https://telegra.ph/file/c585c16c2770c958c6a85.jpg",
+        "https://telegra.ph/file/c4c6e4369a829d460e9f8.jpg",
+        "https://telegra.ph/file/e49011de3de83ae28f88c.jpg",
+        "https://telegra.ph/file/9cf4b8fc0592a6d574b21.jpg",
+        "https://telegra.ph/file/f41f82d3d4cb93eca3502.jpg",
+        "https://telegra.ph/file/a66bd0e195ce481b332cc.jpg",
+        "https://telegra.ph/file/b3955bf87afc96eeb5ae9.jpg",
+        "https://telegra.ph/file/35a87afadcbece67c06a5.jpg",
+        "https://telegra.ph/file/1e7c78e52d2f1b4f2491e.jpg",
+        "https://telegra.ph/file/ee0db3d066d80bf42ddab.jpg",
+        "https://telegra.ph/file/3c16cda494f381c3cdd5a.jpg",
+        "https://telegra.ph/file/40d090a860ed633306202.jpg",
+        "https://telegra.ph/file/1fcae563856a7960b8abc.jpg",
+        "https://telegra.ph/file/371ab460516f6cb26e6a7.jpg",
+        "https://telegra.ph/file/99675fc6f2932385922c4.jpg",
+        "https://telegra.ph/file/b6e2be0751159816a43b8.jpg",
+        "https://telegra.ph/file/059f97eb7a1e97ae13bfb.jpg",
+        "https://telegra.ph/file/868b40bb17b44064db719.jpg",
+        "https://telegra.ph/file/29c77f6e5cf4f7d2412ee.jpg",
+        "https://telegra.ph/file/33136c521e6f4012e931c.jpg",
+        "https://telegra.ph/file/6ec43f50e18fac8ca88df.jpg",
+        "https://telegra.ph/file/25e03e662aafa6c017c61.jpg",
+        "https://telegra.ph/file/daafc1fd3025c7ae8e952.jpg"
+    ]
+};

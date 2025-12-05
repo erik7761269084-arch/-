@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 6645,
+    "title": "T-21 Sai Aaaark (ハピネスチャージプリキュア！)",
+    "sourceUrl": "https://telegra.ph/T-21-Sai-Aaaark-ハピネスチャージプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/36aa11436057ae07b57a5.jpg",
+        "https://telegra.ph/file/dbf70622d27c2e87f1c16.jpg",
+        "https://telegra.ph/file/9539edac70f8994cfcd02.jpg",
+        "https://telegra.ph/file/7326dafb992bed4b56bb0.jpg",
+        "https://telegra.ph/file/c2ff2c069444f2a17a9b7.jpg",
+        "https://telegra.ph/file/cbeda38f018f274a550b1.jpg",
+        "https://telegra.ph/file/7376f087567de9ffe438c.jpg",
+        "https://telegra.ph/file/498fa8ce5dfc1349a5af9.jpg",
+        "https://telegra.ph/file/ff1adaf6c9b68df89d96a.jpg",
+        "https://telegra.ph/file/96dae3764f035ed9cd1af.jpg",
+        "https://telegra.ph/file/1399caad6242f51b3c7ad.jpg",
+        "https://telegra.ph/file/71b3579cf979aa64d664e.jpg",
+        "https://telegra.ph/file/ac57fa32bd998453c8010.jpg",
+        "https://telegra.ph/file/d57b3227a74ad3ac40e5d.jpg",
+        "https://telegra.ph/file/15aae0b8a60839048aa6b.jpg",
+        "https://telegra.ph/file/16cd7f78aab373bad155d.jpg",
+        "https://telegra.ph/file/cdf1df49463627e7821be.jpg",
+        "https://telegra.ph/file/be6bcd79461279995f2bc.jpg",
+        "https://telegra.ph/file/5221360d2991b1dfc3d73.jpg",
+        "https://telegra.ph/file/6b8ffefc5c344191fbbcd.jpg",
+        "https://telegra.ph/file/ca050386f84ff386da7c2.jpg",
+        "https://telegra.ph/file/4608198f4f9b7048bffad.jpg",
+        "https://telegra.ph/file/12901b463fbf7ed610c88.jpg",
+        "https://telegra.ph/file/ea7bf21548b0f2a35c1a6.jpg"
+    ]
+};

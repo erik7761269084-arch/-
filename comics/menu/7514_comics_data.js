@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7514,
+    "title": "私の好きなモノ",
+    "sourceUrl": "https://telegra.ph/私の好きなモノ-08-31",
+    "images": [
+        "https://telegra.ph/file/26653ebf08a9da55dde82.jpg",
+        "https://telegra.ph/file/e6877241d9dbd9d42f714.jpg",
+        "https://telegra.ph/file/ea20a6c696ff991e111e1.jpg",
+        "https://telegra.ph/file/9dada3bcb92dab6cc5be5.jpg",
+        "https://telegra.ph/file/a6f70c07ef8c61cd31397.jpg",
+        "https://telegra.ph/file/dc148bdcfe141f3c9d894.jpg",
+        "https://telegra.ph/file/409b48acb5c410304e57a.jpg",
+        "https://telegra.ph/file/97dbe3614efe18dd9ba00.jpg",
+        "https://telegra.ph/file/ddf0ac84fd1185987b96d.jpg",
+        "https://telegra.ph/file/f96650a108b46796c8a75.jpg",
+        "https://telegra.ph/file/142bfd907cf689a2e0313.jpg",
+        "https://telegra.ph/file/e110f6fde7d90b5717c9c.jpg",
+        "https://telegra.ph/file/e3277dfe14733fa0c8beb.jpg",
+        "https://telegra.ph/file/f9c03e1a35b58321481f1.jpg",
+        "https://telegra.ph/file/8025ff5f189fe1f8a72b9.jpg",
+        "https://telegra.ph/file/a6114917da394838f2f09.jpg",
+        "https://telegra.ph/file/85b96dc32d82391953c6f.jpg",
+        "https://telegra.ph/file/a1c56d00b5d28306425b8.jpg",
+        "https://telegra.ph/file/70bbf7f04f5c5343d4629.jpg",
+        "https://telegra.ph/file/1dec8f7be05628d336c99.jpg",
+        "https://telegra.ph/file/251cd388b51da16c92951.jpg",
+        "https://telegra.ph/file/04f7bde42385bc8f587a9.jpg",
+        "https://telegra.ph/file/5f634a9eaa514d57a8ff7.jpg",
+        "https://telegra.ph/file/3f51e1de706df1b9a561c.jpg"
+    ]
+};

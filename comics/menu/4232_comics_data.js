@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4232,
+    "title": "[ぬんぬ] 引っ越しザーメンいかがですか？ (COMIC BAVEL 2021年10月号)",
+    "sourceUrl": "https://telegra.ph/ぬんぬ-引っ越しザーメンいかがですか-COMIC-BAVEL-2021年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/cc7e202f48c9d3c6da772.jpg",
+        "https://telegra.ph/file/a8ca0f2e252d992ad551f.jpg",
+        "https://telegra.ph/file/f8395dccc2d3e3311b615.jpg",
+        "https://telegra.ph/file/48b3e587d3172d6d57ea0.jpg",
+        "https://telegra.ph/file/181c1ac99eb5c9dbfed5b.jpg",
+        "https://telegra.ph/file/5f3b884958737a36dd52d.jpg",
+        "https://telegra.ph/file/2e3fed9bf1d0ee8e46be8.jpg",
+        "https://telegra.ph/file/b3507b343eaaece324fee.jpg",
+        "https://telegra.ph/file/ff5808399fc392033ef6c.jpg",
+        "https://telegra.ph/file/ab52463167c60bb8e6e70.jpg",
+        "https://telegra.ph/file/b6eb9f33a78b161dd14e0.jpg",
+        "https://telegra.ph/file/b5fef03fe8ba984ff5a14.jpg",
+        "https://telegra.ph/file/045024740b6d1ceea0451.jpg",
+        "https://telegra.ph/file/57237c0a8e49a81358760.jpg",
+        "https://telegra.ph/file/840982da22cbb3f1f874c.jpg",
+        "https://telegra.ph/file/d3e8a3d4a66ca9556772c.jpg",
+        "https://telegra.ph/file/f78b456ab923f6b1f337e.jpg",
+        "https://telegra.ph/file/c7ff96702d0393a525422.jpg",
+        "https://telegra.ph/file/aef0563541de5edfffc7d.jpg",
+        "https://telegra.ph/file/0c208abb8ed8b56b75e57.jpg",
+        "https://telegra.ph/file/c3b258a91fc5f0d9515d2.jpg",
+        "https://telegra.ph/file/eb430c2d558560c9b3af9.jpg",
+        "https://telegra.ph/file/a3a2779bf50f248b11a5e.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 966,
+    "title": "[オオサキ] 飲みすぎ注意！？ (COMIC 失楽天 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/オオサキ-飲みすぎ注意-COMIC-失楽天-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/393d574a3247921336c22.jpg",
+        "https://telegra.ph/file/e8f95a123ea062de4c6e0.jpg",
+        "https://telegra.ph/file/bf2a498d02e710502ed97.jpg",
+        "https://telegra.ph/file/72a527b686b4d44223de1.jpg",
+        "https://telegra.ph/file/56645379fa81fa058f24f.jpg",
+        "https://telegra.ph/file/f4c2ff4566f9846ac38e8.jpg",
+        "https://telegra.ph/file/f193d7b4f5e87572550f9.jpg",
+        "https://telegra.ph/file/5f587a730844bdca12402.jpg",
+        "https://telegra.ph/file/440b06ac9abe20e05f4a2.jpg",
+        "https://telegra.ph/file/85d943b284baa0cdb0143.jpg",
+        "https://telegra.ph/file/72c9cd8c002ad11044c5b.jpg",
+        "https://telegra.ph/file/e02ff20380caa73e2d8cc.jpg",
+        "https://telegra.ph/file/3cca41af5fbc8653218b7.jpg",
+        "https://telegra.ph/file/54391b5f66b95038bcd42.jpg",
+        "https://telegra.ph/file/e4d31f4a87b83c279c764.jpg",
+        "https://telegra.ph/file/c4b0175dfca3c70c33631.jpg",
+        "https://telegra.ph/file/fbbdff0308f95c55b069f.jpg",
+        "https://telegra.ph/file/d8680ee15f3a4b51c8e27.jpg",
+        "https://telegra.ph/file/19ee51283fb9fdc22e296.jpg",
+        "https://telegra.ph/file/6c91a76d2f409f740fc68.jpg",
+        "https://telegra.ph/file/e46dc49c43c3cfc830125.jpg",
+        "https://telegra.ph/file/6c401811ef6bf794513b9.jpg",
+        "https://telegra.ph/file/ea1f5cbbee6e5d31c216c.jpg"
+    ]
+};

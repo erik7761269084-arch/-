@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 2625,
+    "title": "(C99) [ZiP (萌木原ふみたけ)] 甘雨ちゃんは、ヌクモリティを待っている。 (原神)",
+    "sourceUrl": "https://telegra.ph/C99-ZiP-萌木原ふみたけ-甘雨ちゃんはヌクモリティを待っている-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/f2bea7660d375303f5445.jpg",
+        "https://telegra.ph/file/5054ae6e5c41c7a27c46a.jpg",
+        "https://telegra.ph/file/faa73423b434ca881fc74.jpg",
+        "https://telegra.ph/file/9b6b5a204a0f5c8ee3caf.jpg",
+        "https://telegra.ph/file/64de20639c72e53b543e4.jpg",
+        "https://telegra.ph/file/dc5ec36226efd3d9276a7.jpg",
+        "https://telegra.ph/file/d0bba8f87d097d24c5d66.jpg",
+        "https://telegra.ph/file/2bc01a3ba29f2e47a9004.jpg",
+        "https://telegra.ph/file/5f7234e838c8ae689da5b.jpg",
+        "https://telegra.ph/file/2518707642f01a076372c.jpg",
+        "https://telegra.ph/file/97ccff878d295265e3ca9.jpg",
+        "https://telegra.ph/file/1599e581508417d681733.jpg",
+        "https://telegra.ph/file/0b57fd0a56ca2992d916a.jpg",
+        "https://telegra.ph/file/5d9c33ac081f9dbbf16b7.jpg",
+        "https://telegra.ph/file/d67da049f28b4dd93ca76.jpg",
+        "https://telegra.ph/file/e76b3dd8023a33996ae18.jpg",
+        "https://telegra.ph/file/abf4986fdcb75ed8c0311.jpg",
+        "https://telegra.ph/file/d25564383a9fc0296856b.jpg",
+        "https://telegra.ph/file/10848d396fbc3f88f5c7a.jpg",
+        "https://telegra.ph/file/50563a6341d9f1125f109.jpg",
+        "https://telegra.ph/file/f4113267a3c12543f7f57.jpg",
+        "https://telegra.ph/file/ecf9de0c5c3a44ea79078.jpg",
+        "https://telegra.ph/file/e8479a28deff2e5cf2bad.jpg"
+    ]
+};

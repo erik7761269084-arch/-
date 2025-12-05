@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3618,
+    "title": "(C99) [さとうや (さとうちーふ)] えちえち交尾領域アヴァロンルフェ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C99-さとうや-さとうちーふ-えちえち交尾領域アヴァロンルフェ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/bf005540a97d269205463.jpg",
+        "https://telegra.ph/file/c959790bcd7e6e5ba19de.png",
+        "https://telegra.ph/file/cf315c697c2e376f0251e.jpg",
+        "https://telegra.ph/file/7e88895c9e7e15915c470.jpg",
+        "https://telegra.ph/file/6594f572cd6d6ee8fa90c.jpg",
+        "https://telegra.ph/file/bb9835c198c2349de73f2.jpg",
+        "https://telegra.ph/file/4a3451d7b9cc7d28d9c7d.jpg",
+        "https://telegra.ph/file/160d969fbe870ab7b3b60.jpg",
+        "https://telegra.ph/file/0cb07af4c8f916710778d.jpg",
+        "https://telegra.ph/file/8e06ddff2e7b8d30c3401.jpg",
+        "https://telegra.ph/file/b080f6734992d9b00c1d4.jpg",
+        "https://telegra.ph/file/627cceceb26b45ca9ecec.jpg",
+        "https://telegra.ph/file/903bf88d85d6e33ff172b.jpg",
+        "https://telegra.ph/file/1db86e1c76c7fa78b6a41.jpg",
+        "https://telegra.ph/file/9a19707a2ef4efe51b409.jpg",
+        "https://telegra.ph/file/d6738784e52d87708e1ff.jpg",
+        "https://telegra.ph/file/b45af9c142703b3115516.jpg",
+        "https://telegra.ph/file/046dc54a079245ae961cd.jpg",
+        "https://telegra.ph/file/ccfa6a4126691bedf450a.jpg",
+        "https://telegra.ph/file/438442fbd697fde437a60.jpg",
+        "https://telegra.ph/file/d271b1a65a135c90772a7.jpg",
+        "https://telegra.ph/file/7f5e9efd8e6820245059f.jpg",
+        "https://telegra.ph/file/1d9273772a1d9f50e7b93.png",
+        "https://telegra.ph/file/c2452fa603cd24006e8df.jpg"
+    ]
+};

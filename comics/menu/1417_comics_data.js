@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1417,
+    "title": "(ふぁーすと7) [ケモノ絵描きの光速2 (シンドール)] Re：Temptation (聖剣伝説 LEGEND OF MANA)",
+    "sourceUrl": "https://telegra.ph/ふぁーすと7-ケモノ絵描きの光速2-シンドール-ReTemptation-聖剣伝説-LEGEND-OF-MANA-08-31",
+    "images": [
+        "https://telegra.ph/file/7d30f57fab886d5474904.jpg",
+        "https://telegra.ph/file/b16e0ab9eb21adfdaf47b.jpg",
+        "https://telegra.ph/file/f4f4bad7b0c484e1588d1.jpg",
+        "https://telegra.ph/file/24ec90ace7737daf826a8.jpg",
+        "https://telegra.ph/file/e0abace6f6b35d9d7c03b.jpg",
+        "https://telegra.ph/file/44e899674e9eb064e8310.jpg",
+        "https://telegra.ph/file/228e10e1a6885ca934e16.jpg",
+        "https://telegra.ph/file/00ba4d46262d365412361.jpg",
+        "https://telegra.ph/file/ad3e1e03210b1e09efabb.jpg",
+        "https://telegra.ph/file/e1dfef75134346c8fceb6.jpg",
+        "https://telegra.ph/file/481be6eef6e9f7df32448.jpg",
+        "https://telegra.ph/file/b639e92124788a2b14978.jpg",
+        "https://telegra.ph/file/82356c3b6af11cdaf69e0.jpg",
+        "https://telegra.ph/file/4f0423353309165d559a0.jpg",
+        "https://telegra.ph/file/89b81db5702ee66fec8d8.jpg",
+        "https://telegra.ph/file/71e5210887a01ae474b7a.jpg",
+        "https://telegra.ph/file/7384914d6e6f7cc1e8307.jpg",
+        "https://telegra.ph/file/7ef1d1541dd30d1b03ddc.jpg",
+        "https://telegra.ph/file/a48b5efa77ab53194ad6e.jpg",
+        "https://telegra.ph/file/8ef2923b187924bf44119.jpg",
+        "https://telegra.ph/file/f89f9720d362e95d83f52.jpg",
+        "https://telegra.ph/file/1a3e6e353acfe0fa90f47.jpg",
+        "https://telegra.ph/file/1f4626152976f4cdffdfb.jpg",
+        "https://telegra.ph/file/bc59be3c699ee9be6e8ee.jpg",
+        "https://telegra.ph/file/928bb5ba95ed306341946.jpg",
+        "https://telegra.ph/file/12a205a5d8e9d9e5a4fd7.jpg"
+    ]
+};

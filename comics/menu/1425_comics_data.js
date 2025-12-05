@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1425,
+    "title": "[Satellites (サテツ)] 小悪魔ちゃんに催淫されたので搾精セックスで愛し合っちゃいました。",
+    "sourceUrl": "https://telegra.ph/Satellites-サテツ-小悪魔ちゃんに催淫されたので搾精セックスで愛し合っちゃいました-08-31",
+    "images": [
+        "https://telegra.ph/file/19f117bc78e9f5d2a128e.jpg",
+        "https://telegra.ph/file/731cd37ba6b74120db84b.jpg",
+        "https://telegra.ph/file/443dfadb41343e84b3447.jpg",
+        "https://telegra.ph/file/d502b8fe3bc6615b96286.jpg",
+        "https://telegra.ph/file/eeb117301765381a2a9db.jpg",
+        "https://telegra.ph/file/67110584fe4b77eb55bf7.jpg",
+        "https://telegra.ph/file/1019d38431e669318c9f9.jpg",
+        "https://telegra.ph/file/a452cf2c7265f354e17b4.jpg",
+        "https://telegra.ph/file/13b1e74cb951a5aee0d2f.jpg",
+        "https://telegra.ph/file/d0c7dedfa5bc2fe48c3de.jpg",
+        "https://telegra.ph/file/bdc1ea9a7f57fca95eb19.jpg",
+        "https://telegra.ph/file/1e1b0b8591a18da6e7f53.jpg",
+        "https://telegra.ph/file/06fac6076e6cb09074a6a.jpg",
+        "https://telegra.ph/file/3f90decb229ca12051444.jpg",
+        "https://telegra.ph/file/1db7ee76a23a675de6326.jpg",
+        "https://telegra.ph/file/d0a904938d367f3633552.jpg",
+        "https://telegra.ph/file/94f7d29d9621d4488c63a.jpg",
+        "https://telegra.ph/file/fd79d663300d66c6c5c7c.jpg",
+        "https://telegra.ph/file/76e6d0a0846bd245c8c8c.jpg",
+        "https://telegra.ph/file/06b5e76267cdadb415f3c.jpg",
+        "https://telegra.ph/file/6765066913bbd6e1452b0.jpg",
+        "https://telegra.ph/file/7d853d44a39ab35a7e56a.jpg",
+        "https://telegra.ph/file/513f0c2e779caf5482ba6.jpg",
+        "https://telegra.ph/file/e24bab7dcbcff406a7758.jpg"
+    ]
+};

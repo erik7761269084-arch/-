@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5875,
+    "title": "初めての約束",
+    "sourceUrl": "https://telegra.ph/初めての約束-08-31",
+    "images": [
+        "https://telegra.ph/file/470f29981c0087895e72a.jpg",
+        "https://telegra.ph/file/c726adc825c531ed6567e.jpg",
+        "https://telegra.ph/file/76554390f622267a66d1f.jpg",
+        "https://telegra.ph/file/e6cb2bf35891f3552192b.jpg",
+        "https://telegra.ph/file/76acc78818341fd8ec020.jpg",
+        "https://telegra.ph/file/086b24d7be101c4b279cb.jpg",
+        "https://telegra.ph/file/d91e094f49b67ac7a0bc2.jpg",
+        "https://telegra.ph/file/ae110cd37a753137f14a8.jpg",
+        "https://telegra.ph/file/b06484a985b28111b1600.jpg",
+        "https://telegra.ph/file/709b6c6da807b54915e25.jpg",
+        "https://telegra.ph/file/afc79ceb0d8ae122f3250.jpg",
+        "https://telegra.ph/file/e6d5122e4cf4298a76172.jpg",
+        "https://telegra.ph/file/71b9b5ee25795b2014e8d.jpg",
+        "https://telegra.ph/file/86034419bf8efb26f5ba2.jpg",
+        "https://telegra.ph/file/779d6e2523036f616c430.jpg",
+        "https://telegra.ph/file/efac78b97f5fe649c03e4.jpg",
+        "https://telegra.ph/file/1f6e57e0fe0a13d533ea7.jpg",
+        "https://telegra.ph/file/8705da749bb30e575eb1a.jpg",
+        "https://telegra.ph/file/556cbd9df9e9a5fde2ef4.jpg",
+        "https://telegra.ph/file/5b82f96b524b0ec662afe.jpg",
+        "https://telegra.ph/file/84aeb578f7aec52601f8a.jpg",
+        "https://telegra.ph/file/da6e0a34b2a413410b2a9.jpg",
+        "https://telegra.ph/file/a1c7a939a6bc8a8c49fd1.jpg",
+        "https://telegra.ph/file/92bd5c2b7260952d05ca2.jpg"
+    ]
+};

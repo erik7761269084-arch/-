@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5797,
+    "title": "[えいとまん] まってたよ",
+    "sourceUrl": "https://telegra.ph/えいとまん-まってたよ-08-31",
+    "images": [
+        "https://telegra.ph/file/e417e86057b372870a7d0.jpg",
+        "https://telegra.ph/file/fd6728781656c8a1d1ead.jpg",
+        "https://telegra.ph/file/20421efe2492f612f8e99.jpg",
+        "https://telegra.ph/file/77d246d2804c23888351a.jpg",
+        "https://telegra.ph/file/e15baa4062b0ea0f51a6a.jpg",
+        "https://telegra.ph/file/f7994e6ee4bf6ff549065.jpg",
+        "https://telegra.ph/file/b43aacdc5ae9605c3dc2c.jpg",
+        "https://telegra.ph/file/83b672ad341d3ffe30359.jpg",
+        "https://telegra.ph/file/ea1f27d94be80b37c096a.jpg",
+        "https://telegra.ph/file/cb9f45477450b26fd34c3.jpg",
+        "https://telegra.ph/file/bde35c801e0b292b290ef.jpg",
+        "https://telegra.ph/file/3aaa1bfcb8bf0c3eb93fc.jpg",
+        "https://telegra.ph/file/6ae196f68f9367ae76ce5.jpg",
+        "https://telegra.ph/file/d3e59b72369288b542da8.jpg",
+        "https://telegra.ph/file/d243153184a5b7d9c9651.jpg",
+        "https://telegra.ph/file/b22131872b0c1ce95d660.jpg",
+        "https://telegra.ph/file/c066628426eb1dcde60b2.jpg",
+        "https://telegra.ph/file/580fe2588d2b503ee55a1.jpg",
+        "https://telegra.ph/file/cba1553732d999218c0a3.jpg",
+        "https://telegra.ph/file/fd942c8cb4c21548b8f98.jpg",
+        "https://telegra.ph/file/bb31cc25b30116b7e3fb3.jpg",
+        "https://telegra.ph/file/0428e62bc338bdfe72c88.jpg",
+        "https://telegra.ph/file/05aa5f69d535ccf9fb207.jpg",
+        "https://telegra.ph/file/fc57700ba38ca5b108c4b.jpg"
+    ]
+};

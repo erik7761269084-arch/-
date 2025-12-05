@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 7603,
+    "title": "ストレンヂなカンケイ",
+    "sourceUrl": "https://telegra.ph/ストレンヂなカンケイ-08-31",
+    "images": [
+        "https://telegra.ph/file/fb0a0521c554812402546.jpg",
+        "https://telegra.ph/file/e1b17c3430dd9dbfd8b6e.jpg",
+        "https://telegra.ph/file/1210cc01a338beb04feab.jpg",
+        "https://telegra.ph/file/2b8bdea08713c0f9f7a5b.jpg",
+        "https://telegra.ph/file/68e3cc484b7c263418a88.jpg",
+        "https://telegra.ph/file/8522bac1cb1e25ac91ed2.jpg",
+        "https://telegra.ph/file/c069a106c91422bf0a436.jpg",
+        "https://telegra.ph/file/477211aa0735284070ca6.jpg",
+        "https://telegra.ph/file/4ffdafe3ea643224f3134.jpg",
+        "https://telegra.ph/file/0f0298d868b4f592b40ca.jpg",
+        "https://telegra.ph/file/d6522aa8ecc9be3621d82.jpg",
+        "https://telegra.ph/file/eb514c82fdfb6ec1c5f6e.jpg",
+        "https://telegra.ph/file/8b81c2e29ace9de65eb51.jpg",
+        "https://telegra.ph/file/153267bdb129f0053b773.jpg",
+        "https://telegra.ph/file/b212dfa2fb34ba6a969d7.jpg",
+        "https://telegra.ph/file/c56c643816b64f4b127a8.jpg",
+        "https://telegra.ph/file/5429c77b64da0507b2df3.jpg",
+        "https://telegra.ph/file/91df765a2a478073009ea.jpg",
+        "https://telegra.ph/file/302992cb5014afa4498be.jpg",
+        "https://telegra.ph/file/22cd61c444276a7119523.jpg",
+        "https://telegra.ph/file/77c7b67f257d03cf0b134.jpg",
+        "https://telegra.ph/file/165733229f3acccf8cfe4.jpg",
+        "https://telegra.ph/file/41754eefbf379a2e3e945.jpg"
+    ]
+};

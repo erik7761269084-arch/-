@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 536,
+    "title": "[長頼] Other side (WEEKLY快楽天 2022 No.13)",
+    "sourceUrl": "https://telegra.ph/長頼-Other-side-WEEKLY快楽天-2022-No13-08-31",
+    "images": [
+        "https://telegra.ph/file/344d868dea105925d9c4b.jpg",
+        "https://telegra.ph/file/d2d730b7139c077a7f603.jpg",
+        "https://telegra.ph/file/e50dac2744e7d95383700.jpg",
+        "https://telegra.ph/file/59b88843833c9c5ccae98.jpg",
+        "https://telegra.ph/file/bc4c9a757a09d9a0f1324.jpg",
+        "https://telegra.ph/file/6b1d73898551ffc9b6765.jpg",
+        "https://telegra.ph/file/4266cd0f06e8974b34f8d.jpg",
+        "https://telegra.ph/file/998fbe4bd5cb1c54bedd4.jpg",
+        "https://telegra.ph/file/8858d447cff793784f684.jpg",
+        "https://telegra.ph/file/b160f9209366e20a2cd8a.jpg",
+        "https://telegra.ph/file/b6f8320a7eb7086585677.jpg",
+        "https://telegra.ph/file/b5abba3e93a6b707fedc7.jpg",
+        "https://telegra.ph/file/b28b3df2ab525bcea22f9.jpg",
+        "https://telegra.ph/file/d936d3c20293b5d76236e.jpg",
+        "https://telegra.ph/file/a57027bd41b6305646c94.jpg",
+        "https://telegra.ph/file/7096d74ea23129e22c04a.jpg",
+        "https://telegra.ph/file/65269333dc5cba6452479.jpg",
+        "https://telegra.ph/file/f83aaba7d8c3492798133.jpg",
+        "https://telegra.ph/file/0b79e058aeba7dccac0c2.jpg",
+        "https://telegra.ph/file/be3f67ceef410a48494ea.jpg",
+        "https://telegra.ph/file/6e59c5c613f0cdee35d29.jpg",
+        "https://telegra.ph/file/f47912094c75597d1e66f.jpg",
+        "https://telegra.ph/file/6a8ff75ec1f70808d8373.jpg"
+    ]
+};

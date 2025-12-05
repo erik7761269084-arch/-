@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6544,
+    "title": "新妻希さんとひたすらイチャイチャラブラブセックスする本",
+    "sourceUrl": "https://telegra.ph/新妻希さんとひたすらイチャイチャラブラブセックスする本-08-31",
+    "images": [
+        "https://telegra.ph/file/13575bc2fcf2af34e50a9.jpg",
+        "https://telegra.ph/file/b23f1e14e9b4bb8bba25a.jpg",
+        "https://telegra.ph/file/b57f806be69948b9116e5.jpg",
+        "https://telegra.ph/file/ef33741e27800f64d83e0.jpg",
+        "https://telegra.ph/file/4e9fba071ae35176e88b4.jpg",
+        "https://telegra.ph/file/2e5aa428a261b61044cac.jpg",
+        "https://telegra.ph/file/b68f45ea797fde9f67d89.jpg",
+        "https://telegra.ph/file/4bcec4eb7b0dca0455098.jpg",
+        "https://telegra.ph/file/8b2c737f45ed39b436d20.jpg",
+        "https://telegra.ph/file/0ff177a2bcfb089f42cbc.jpg",
+        "https://telegra.ph/file/0a70bb7cf5d69f28ab875.jpg",
+        "https://telegra.ph/file/40f3efca9dbcb6785a182.jpg",
+        "https://telegra.ph/file/3963562f9cb0b2fc2d7a5.jpg",
+        "https://telegra.ph/file/ad328757b87627d4bb29f.jpg",
+        "https://telegra.ph/file/631a4d4c8a5a245b61190.jpg",
+        "https://telegra.ph/file/e8375c885fe9d7c865708.jpg",
+        "https://telegra.ph/file/3ad9e4da4992129170c27.jpg",
+        "https://telegra.ph/file/d7c18f7e70e4ae2abb232.jpg",
+        "https://telegra.ph/file/4608694159cfa95906d19.jpg",
+        "https://telegra.ph/file/bb298fef964c1fbd49a38.jpg",
+        "https://telegra.ph/file/a3b77964563a89b4d9d33.jpg",
+        "https://telegra.ph/file/dca49a99aed7901e9cc93.jpg",
+        "https://telegra.ph/file/97da0a103d299c4318b54.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 3621,
+    "title": "(COMIC1☆15) [70年式悠久機関 (おはぎさん)] シノワドール",
+    "sourceUrl": "https://telegra.ph/COMIC115-70年式悠久機関-おはぎさん-シノワドール-08-31",
+    "images": [
+        "https://telegra.ph/file/39556fdb10f4870883851.jpg",
+        "https://telegra.ph/file/2934af881199f9a4ac804.jpg",
+        "https://telegra.ph/file/9190b757a635b2adc40b9.jpg",
+        "https://telegra.ph/file/6aea5fe69957e3d661857.jpg",
+        "https://telegra.ph/file/94a09af939d8c220f9dea.jpg",
+        "https://telegra.ph/file/059176439b42c2b27d94d.jpg",
+        "https://telegra.ph/file/7dd5bd1bcaaf6ce298820.jpg",
+        "https://telegra.ph/file/c9bbae55f4a9c987c823c.jpg",
+        "https://telegra.ph/file/8eec079cf76d85a2320f3.jpg",
+        "https://telegra.ph/file/92e10efd164433ee4b2dc.jpg",
+        "https://telegra.ph/file/1e4289b1d84f3f27d6de0.jpg",
+        "https://telegra.ph/file/0e940dc7a540df6f33310.jpg",
+        "https://telegra.ph/file/fb6d51e6747a5914b896e.jpg",
+        "https://telegra.ph/file/76bc5e70ef16a9a70841d.jpg",
+        "https://telegra.ph/file/da645d869123c64ff93bc.jpg",
+        "https://telegra.ph/file/fcd98c00deb7f5e8cb421.jpg",
+        "https://telegra.ph/file/77f736a6560ccce4d91f8.jpg",
+        "https://telegra.ph/file/06755becf9150b853450b.jpg",
+        "https://telegra.ph/file/30dd4047988a64ed2fb28.jpg",
+        "https://telegra.ph/file/0a9cf299e24e8f82c7839.jpg",
+        "https://telegra.ph/file/8408903582ffec7b075af.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg",
+        "https://telegra.ph/file/54f2b890f43adb33f30ec.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 2298,
+    "title": "[18マスター] 母さんは無口で無表情で無抵抗",
+    "sourceUrl": "https://telegra.ph/18マスター-母さんは無口で無表情で無抵抗-08-31",
+    "images": [
+        "https://telegra.ph/file/02d319ba3b5a3ed199453.jpg",
+        "https://telegra.ph/file/3985ce3ec17489fd14d06.jpg",
+        "https://telegra.ph/file/f180bc67836101c879280.jpg",
+        "https://telegra.ph/file/9bd5ec42f09584d88d10b.jpg",
+        "https://telegra.ph/file/5098ec49f64a849cc67e9.jpg",
+        "https://telegra.ph/file/ac71c4c28dfb715ffaea8.jpg",
+        "https://telegra.ph/file/1f4f846b4328935143b6e.jpg",
+        "https://telegra.ph/file/406e0145aa27ef5f3b8f7.jpg",
+        "https://telegra.ph/file/26dbdea434109616ccdba.jpg",
+        "https://telegra.ph/file/1b997d51a2db080f7be11.jpg",
+        "https://telegra.ph/file/45e968b1a2d61fceb9155.jpg",
+        "https://telegra.ph/file/e8007d19e73924853ae3a.jpg",
+        "https://telegra.ph/file/21d19d528fa5466898b05.jpg",
+        "https://telegra.ph/file/96a187acce090441c4e2e.jpg",
+        "https://telegra.ph/file/134541e77e72e02b387ae.jpg",
+        "https://telegra.ph/file/dcabf1a88a03a831a1bf6.jpg",
+        "https://telegra.ph/file/15743250032211bac89d9.jpg",
+        "https://telegra.ph/file/2fc935ce486def81cffe7.jpg",
+        "https://telegra.ph/file/9b0b69cb9532cae640b74.jpg",
+        "https://telegra.ph/file/69d3c108ceca3a29cb8ff.jpg",
+        "https://telegra.ph/file/0ebe88ade0908d50a9131.jpg",
+        "https://telegra.ph/file/687f1010f71f20343c424.jpg",
+        "https://telegra.ph/file/db390be093daf0d738c4d.jpg",
+        "https://telegra.ph/file/e3dc26bffb1a5d01fcc36.jpg"
+    ]
+};

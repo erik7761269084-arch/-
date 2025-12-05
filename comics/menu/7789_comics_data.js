@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7789,
+    "title": "[遊人] みだらし男娘〜ボクの初めて奪われちゃった",
+    "sourceUrl": "https://telegra.ph/遊人-みだらし男娘ボクの初めて奪われちゃった-08-31",
+    "images": [
+        "https://telegra.ph/file/e68de790eee5761990b7e.jpg",
+        "https://telegra.ph/file/e241f02ed117a33340c8a.jpg",
+        "https://telegra.ph/file/c20085a335c6d06d7174a.jpg",
+        "https://telegra.ph/file/0888190a084afefd76529.jpg",
+        "https://telegra.ph/file/bb7a46fd8464816cdc84e.jpg",
+        "https://telegra.ph/file/421b3a8ff94d38ec041d9.jpg",
+        "https://telegra.ph/file/c27180fafa5c4422943c3.jpg",
+        "https://telegra.ph/file/d9dabf7d89af4dd68fabc.jpg",
+        "https://telegra.ph/file/242efce27d6e701e3538d.jpg",
+        "https://telegra.ph/file/40c1fa99aefb65cddaf61.jpg",
+        "https://telegra.ph/file/1d8e16acc8a3d741a4a2a.jpg",
+        "https://telegra.ph/file/f67cf7a263d26da276aaa.jpg",
+        "https://telegra.ph/file/631483db03bcb511ed2bf.jpg",
+        "https://telegra.ph/file/4ec54883bf0d4c5e88666.jpg",
+        "https://telegra.ph/file/7627883df3700674970da.jpg",
+        "https://telegra.ph/file/00f8d7ecf8ea1740a212f.jpg",
+        "https://telegra.ph/file/0fadb90a44643287250f0.jpg",
+        "https://telegra.ph/file/92e3fdbd1518173d653ff.jpg",
+        "https://telegra.ph/file/d9390da10a1cfce3901e3.jpg",
+        "https://telegra.ph/file/8707258f381d6c7748208.jpg",
+        "https://telegra.ph/file/e84735ad52b12425986c3.jpg",
+        "https://telegra.ph/file/984242026f0fc9cc71c91.jpg",
+        "https://telegra.ph/file/efd0abe8d03f859042c4f.jpg",
+        "https://telegra.ph/file/6553c1bb0d58b7b40b92a.jpg",
+        "https://telegra.ph/file/50b6244c73a3266a6cfe4.jpg"
+    ]
+};

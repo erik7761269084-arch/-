@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 993,
+    "title": "[大嘘] オナホ教室 -新学期-レッスン3",
+    "sourceUrl": "https://telegra.ph/大嘘-オナホ教室--新学期-レッスン3-08-31",
+    "images": [
+        "https://telegra.ph/file/50a0439ddf8cafde14ae2.jpg",
+        "https://telegra.ph/file/6c99d337dad6568fbfbc7.jpg",
+        "https://telegra.ph/file/51ea03b11337be4c560f2.jpg",
+        "https://telegra.ph/file/f346347800b00a7517525.jpg",
+        "https://telegra.ph/file/eab9483d0b60818b4eb3c.jpg",
+        "https://telegra.ph/file/87906028c1d69d60072db.jpg",
+        "https://telegra.ph/file/ae72203938f40a50be69f.jpg",
+        "https://telegra.ph/file/c112e597c16512f2b6aa0.jpg",
+        "https://telegra.ph/file/63f7c9aa88c70d2a2c8da.jpg",
+        "https://telegra.ph/file/b86b081b972c93f018118.jpg",
+        "https://telegra.ph/file/e317dc72f447fa899f882.jpg",
+        "https://telegra.ph/file/ca5e6f18563ccd63d02d0.jpg",
+        "https://telegra.ph/file/38bc3801d35519c38f646.jpg",
+        "https://telegra.ph/file/5d8c6539194910e634780.jpg",
+        "https://telegra.ph/file/2eac2919fa07e450e85ab.jpg",
+        "https://telegra.ph/file/b585d60c1da1ab1e97be3.jpg",
+        "https://telegra.ph/file/ad66c61e0042a21bef7de.jpg",
+        "https://telegra.ph/file/da9cce457bf6888bdf9ed.jpg",
+        "https://telegra.ph/file/20bf964e778556fe5e609.jpg",
+        "https://telegra.ph/file/14eb7731d8b43c6b59357.jpg",
+        "https://telegra.ph/file/6585693fde2ce0a5de39f.jpg",
+        "https://telegra.ph/file/d47b2d3fb7ee48952abed.jpg",
+        "https://telegra.ph/file/13af2fa489a0034c30208.jpg"
+    ]
+};

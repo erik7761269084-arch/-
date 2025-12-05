@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 3182,
+    "title": "[雷神会 (はるきゲにあ)] 宇崎柳ちゃんのアカンで! (宇崎ちゃんは遊びたい!)",
+    "sourceUrl": "https://telegra.ph/雷神会-はるきゲにあ-宇崎柳ちゃんのアカンで-宇崎ちゃんは遊びたい-08-31",
+    "images": [
+        "https://telegra.ph/file/94ead2d04291a9fb5a73c.jpg",
+        "https://telegra.ph/file/8d8c5bb6bc873badec549.jpg",
+        "https://telegra.ph/file/c9791105d198e7e63725c.jpg",
+        "https://telegra.ph/file/9e71729d6b1dcf6f66f7f.jpg",
+        "https://telegra.ph/file/035b547acf690984c1dc7.jpg",
+        "https://telegra.ph/file/2c7b4dd7c7299c90991ee.jpg",
+        "https://telegra.ph/file/a7a4948033f6f3e5c5bf7.jpg",
+        "https://telegra.ph/file/14a314b3eda16f3d64ca5.jpg",
+        "https://telegra.ph/file/f5cb34987853703f99fa1.jpg",
+        "https://telegra.ph/file/ab839cad7f1babd54ccec.jpg",
+        "https://telegra.ph/file/0109a9b472a547e19e470.jpg",
+        "https://telegra.ph/file/1d4c61f628c1ac4cbbcee.jpg",
+        "https://telegra.ph/file/b4d6ebc23aa88591a899e.jpg",
+        "https://telegra.ph/file/a84ea19b58e2519d97a55.jpg",
+        "https://telegra.ph/file/17298c273a1eefcd1353d.jpg",
+        "https://telegra.ph/file/834e0ed70ee9c9ae5d4da.jpg",
+        "https://telegra.ph/file/69c5c64a3ab6c3ce95dd9.jpg",
+        "https://telegra.ph/file/f57da8253861551ac2276.jpg",
+        "https://telegra.ph/file/bf1b10a682cb713fcd86e.jpg",
+        "https://telegra.ph/file/8d206973e0d11636f5905.jpg",
+        "https://telegra.ph/file/62c6caf2673915d8c059d.jpg",
+        "https://telegra.ph/file/06910775db715edbd1858.jpg",
+        "https://telegra.ph/file/7f8d88b413459958297c7.jpg",
+        "https://telegra.ph/file/0695a073bb5470d6fbdd5.jpg",
+        "https://telegra.ph/file/b60102bf06e9482b03dcd.jpg",
+        "https://telegra.ph/file/cc39b6f118fe5c8abbf3d.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3261,
+    "title": "[久我繭莉] わりゅいこ！しょこたん！ (コミックホットミルク 2021年7月号)",
+    "sourceUrl": "https://telegra.ph/久我繭莉-わりゅいこしょこたん-コミックホットミルク-2021年7月号-08-31",
+    "images": [
+        "https://telegra.ph/file/5c85114f9a6cc0a5eab7b.jpg",
+        "https://telegra.ph/file/fa3fb12b897b85988134a.jpg",
+        "https://telegra.ph/file/ad12abef047e39f8811c0.jpg",
+        "https://telegra.ph/file/fca78cc555d91425f8400.jpg",
+        "https://telegra.ph/file/4eb444e92f520431891f4.jpg",
+        "https://telegra.ph/file/b4cd7f857bce761ccc784.jpg",
+        "https://telegra.ph/file/b81f2798eb85dcb5ab3c2.jpg",
+        "https://telegra.ph/file/690b924973ac1f4888129.jpg",
+        "https://telegra.ph/file/cc292ec2781e05732a810.jpg",
+        "https://telegra.ph/file/43eeaa559e519708c0c18.jpg",
+        "https://telegra.ph/file/a3639a49df2fbf9278259.jpg",
+        "https://telegra.ph/file/646203cc2825412f8d82a.jpg",
+        "https://telegra.ph/file/51510214b396ec103ec2d.jpg",
+        "https://telegra.ph/file/8dd4f7b34f880cbeb7ffc.jpg",
+        "https://telegra.ph/file/2918b28fc107e6a4b7a2e.jpg",
+        "https://telegra.ph/file/8fee46e4507a38c039207.jpg",
+        "https://telegra.ph/file/476eefdc79891648cb173.jpg",
+        "https://telegra.ph/file/82ab2d3ef980199d5777a.jpg",
+        "https://telegra.ph/file/d9d55651cf0541bf4ec9a.jpg",
+        "https://telegra.ph/file/77e024257c0446c7b053a.jpg",
+        "https://telegra.ph/file/688619db537581582184f.jpg",
+        "https://telegra.ph/file/f0d0c930f3a3ed4a45a56.jpg",
+        "https://telegra.ph/file/948006ac64766587331dc.jpg",
+        "https://telegra.ph/file/f69647b0daab7efa9288d.jpg",
+        "https://telegra.ph/file/227409a2d481050e83a96.jpg"
+    ]
+};

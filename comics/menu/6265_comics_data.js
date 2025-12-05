@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 6265,
+    "title": "[黒岩瑪瑙] 夏の追憶",
+    "sourceUrl": "https://telegra.ph/黒岩瑪瑙-夏の追憶-08-31",
+    "images": [
+        "https://telegra.ph/file/b6a474c77048d2e58d29d.jpg",
+        "https://telegra.ph/file/69814f4ceb3618b436070.jpg",
+        "https://telegra.ph/file/1da4148565062c59179ac.jpg",
+        "https://telegra.ph/file/2ca240af0d98df7330a71.jpg",
+        "https://telegra.ph/file/9f5febfc89d3041e97b75.jpg",
+        "https://telegra.ph/file/b93a3c0087642259d7884.jpg",
+        "https://telegra.ph/file/265b998c258106b6c1588.jpg",
+        "https://telegra.ph/file/a6542edc51c0cb7361835.jpg",
+        "https://telegra.ph/file/1cab4b36736ce642d2756.jpg",
+        "https://telegra.ph/file/af74a20f24f0e5affa2e2.jpg",
+        "https://telegra.ph/file/ba5408d492c4a82028b8e.jpg",
+        "https://telegra.ph/file/69f7ec31e39ee396e8105.jpg",
+        "https://telegra.ph/file/c514e9185b4ae63a83b12.jpg",
+        "https://telegra.ph/file/2cbc333da1c2eb67494be.jpg",
+        "https://telegra.ph/file/06dbc4002dc9abe52a1ca.jpg",
+        "https://telegra.ph/file/cda69b372c015000ea898.jpg",
+        "https://telegra.ph/file/754038df34319dd247cd6.jpg",
+        "https://telegra.ph/file/fe760ada30dee6358127e.jpg",
+        "https://telegra.ph/file/8dca6fd1d0034e01aef5c.jpg",
+        "https://telegra.ph/file/cc5c4eb182a5f7c38a9d1.jpg",
+        "https://telegra.ph/file/9aaceb6cfc64c34be993c.jpg",
+        "https://telegra.ph/file/492dac31c45cd521d166b.jpg",
+        "https://telegra.ph/file/fda3255551247b8920e2d.jpg"
+    ]
+};

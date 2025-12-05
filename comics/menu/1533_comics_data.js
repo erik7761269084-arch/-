@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1533,
+    "title": "[ふみひこ] NO MONEY NO SEX (オタクに優しいギャルとか、巨乳の幼なじみとか。)",
+    "sourceUrl": "https://telegra.ph/ふみひこ-NO-MONEY-NO-SEX-オタクに優しいギャルとか巨乳の幼なじみとか-08-31",
+    "images": [
+        "https://telegra.ph/file/023f58835e746f21d2b58.jpg",
+        "https://telegra.ph/file/872ffb22a7031b6665310.jpg",
+        "https://telegra.ph/file/5466562c05b760b23545e.jpg",
+        "https://telegra.ph/file/24a4a1a0cfae3f34a94dd.jpg",
+        "https://telegra.ph/file/657c50997a9053f7bf6f9.jpg",
+        "https://telegra.ph/file/53847a9f4c004e37bbcba.jpg",
+        "https://telegra.ph/file/3e2a2e521d0308e8610e1.jpg",
+        "https://telegra.ph/file/dd76fb95d13d4dd75c0d9.jpg",
+        "https://telegra.ph/file/1ed242d095766d7769d3b.jpg",
+        "https://telegra.ph/file/0f0f8d9e25782f3b2f563.jpg",
+        "https://telegra.ph/file/4a7d7127984480ef0bf71.jpg",
+        "https://telegra.ph/file/be15e12d6463ce2737f73.jpg",
+        "https://telegra.ph/file/53c02d776bdd7d7a5caee.jpg",
+        "https://telegra.ph/file/58a487fe55b08f3d8720b.jpg",
+        "https://telegra.ph/file/59d87d79109b4952ba908.jpg",
+        "https://telegra.ph/file/af5cc2e70e1d70dc5b35f.jpg",
+        "https://telegra.ph/file/0f1422138e87b054f9e16.jpg",
+        "https://telegra.ph/file/0cf56eeba7d40b0f5295b.jpg",
+        "https://telegra.ph/file/dd7d88918607da00bf14a.jpg",
+        "https://telegra.ph/file/73a83d8eedb77a2c1a193.jpg",
+        "https://telegra.ph/file/8f0f2c18ff120eec21b40.jpg",
+        "https://telegra.ph/file/ef7d4de2de460ebfd3cc5.jpg",
+        "https://telegra.ph/file/6cf369383a34698a6c1bd.jpg",
+        "https://telegra.ph/file/d8803159c868c179db773.jpg",
+        "https://telegra.ph/file/fbe791b89ca914868711e.jpg",
+        "https://telegra.ph/file/ff043659d850df2b9a194.jpg"
+    ]
+};

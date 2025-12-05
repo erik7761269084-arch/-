@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7116,
+    "title": "ボクらの秘密",
+    "sourceUrl": "https://telegra.ph/ボクらの秘密-08-31",
+    "images": [
+        "https://telegra.ph/file/20c8001923fd646c40285.jpg",
+        "https://telegra.ph/file/2d53cd9c8c8e327b693f4.jpg",
+        "https://telegra.ph/file/db8ef5060f4d00970bde2.jpg",
+        "https://telegra.ph/file/caf6b24722531c2525dcc.jpg",
+        "https://telegra.ph/file/27302faacb0e129ebe590.jpg",
+        "https://telegra.ph/file/a7ff1026fce7bded511b8.jpg",
+        "https://telegra.ph/file/c15b702e96db577ab1521.jpg",
+        "https://telegra.ph/file/29255571faafeef734f20.jpg",
+        "https://telegra.ph/file/dbe342f7fd6aa87c3d9c4.jpg",
+        "https://telegra.ph/file/638d22cd45fc108ea8b1d.jpg",
+        "https://telegra.ph/file/68f998101b142bbcaf93d.jpg",
+        "https://telegra.ph/file/bf43343fbceb26d62e244.jpg",
+        "https://telegra.ph/file/ff28b2e473df38feb652a.jpg",
+        "https://telegra.ph/file/d49f8c94858624fd240ee.jpg",
+        "https://telegra.ph/file/f8666d1b17ee207f6c61b.jpg",
+        "https://telegra.ph/file/93c9953e15dfcefc01d7d.jpg",
+        "https://telegra.ph/file/bdc51cb72dc91de92a81b.jpg",
+        "https://telegra.ph/file/fb76b933a894ab7b30960.jpg",
+        "https://telegra.ph/file/bfe63851e8be89432f72e.jpg",
+        "https://telegra.ph/file/beaf01ba72907b9ee633e.jpg",
+        "https://telegra.ph/file/8eb86e6fa37f8b2c82fe8.jpg",
+        "https://telegra.ph/file/c965b608e3061a138517f.jpg",
+        "https://telegra.ph/file/37dedacf765e6e4a9bdea.jpg",
+        "https://telegra.ph/file/eb15c30b1e204e41ccbe3.jpg"
+    ]
+};

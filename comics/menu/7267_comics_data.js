@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 7267,
+    "title": "パパ活JKのエッチなバイト",
+    "sourceUrl": "https://telegra.ph/パパ活JKのエッチなバイト-08-31",
+    "images": [
+        "https://telegra.ph/file/95c0cc08fecc39cb0783f.png",
+        "https://telegra.ph/file/76e7bc965cadcdb08fbe0.png",
+        "https://telegra.ph/file/f100dfcc659fa89ab8f7b.png",
+        "https://telegra.ph/file/219d8137630183d62b666.png",
+        "https://telegra.ph/file/b534c856d9299681cb0ea.png",
+        "https://telegra.ph/file/bc8afce3dd71a75b6c8e3.png",
+        "https://telegra.ph/file/25d429a946c3a513730c2.png",
+        "https://telegra.ph/file/7c75795f5ba0fb3c8fd1b.png",
+        "https://telegra.ph/file/0cdff42b65d3477e6945b.png",
+        "https://telegra.ph/file/b8b433420ff64093e0765.png",
+        "https://telegra.ph/file/d6e910d668ddf3dfabd71.png",
+        "https://telegra.ph/file/f6a9e4430fd25564ea674.png",
+        "https://telegra.ph/file/0002428efeb8035b7f02a.png",
+        "https://telegra.ph/file/c2cc64d3f5b5b7ab644ca.png",
+        "https://telegra.ph/file/4ada5d22ddac851f41299.png",
+        "https://telegra.ph/file/87357029ba6e9ed1afc1d.png",
+        "https://telegra.ph/file/dfe6e93d045c00709c591.png",
+        "https://telegra.ph/file/af52c49465c0c36c1c008.png",
+        "https://telegra.ph/file/2d35a1d192941aab2db85.png",
+        "https://telegra.ph/file/b75258934fad92f51aa11.png",
+        "https://telegra.ph/file/987b676fa3c1e8c00ae8a.png",
+        "https://telegra.ph/file/cbb8f93eb721a46c39edf.png",
+        "https://telegra.ph/file/75e155e751669f109b926.png",
+        "https://telegra.ph/file/703412b27b8a235ed1b84.png"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 7636,
+    "title": "ミクロ決死隊",
+    "sourceUrl": "https://telegra.ph/ミクロ決死隊-08-31",
+    "images": [
+        "https://telegra.ph/file/e384074853ecaa4280d4a.jpg",
+        "https://telegra.ph/file/8a03da97ea98dfde0a3a5.jpg",
+        "https://telegra.ph/file/25c3f55ba87f9d3e4fcfd.jpg",
+        "https://telegra.ph/file/1c835d0d85824835428fd.jpg",
+        "https://telegra.ph/file/3921b97bf1702fe4196ff.jpg",
+        "https://telegra.ph/file/95b79916bb4e0c4012f05.jpg",
+        "https://telegra.ph/file/1dc29dc9a3f709ad9f6c7.jpg",
+        "https://telegra.ph/file/84ac598be2d9848e025b8.jpg",
+        "https://telegra.ph/file/d13fbe8cda4061109f30d.jpg",
+        "https://telegra.ph/file/bff9027f0e7787235f630.jpg",
+        "https://telegra.ph/file/5e3b7fa4365d1ce027c84.jpg",
+        "https://telegra.ph/file/ab8cc7f3c98aeea7efc3f.jpg",
+        "https://telegra.ph/file/9df6f6d160a811156d0b8.jpg",
+        "https://telegra.ph/file/fdfadcb18589729dcd1d8.jpg",
+        "https://telegra.ph/file/4aa3c08274be643b94cb5.jpg",
+        "https://telegra.ph/file/74b5957bc69163c451f9a.jpg",
+        "https://telegra.ph/file/4429d1347887ba4e84a5b.jpg",
+        "https://telegra.ph/file/a360b63e494740fcb9387.jpg",
+        "https://telegra.ph/file/937f5502464f919e32a51.jpg",
+        "https://telegra.ph/file/492c307e3b7a777fc8029.jpg",
+        "https://telegra.ph/file/e64c8fd6f812a09a768d0.jpg",
+        "https://telegra.ph/file/c932fdc49550e2eb73684.jpg",
+        "https://telegra.ph/file/085aaf2142a7f9c7096c3.jpg",
+        "https://telegra.ph/file/90cb919083053845f3e9d.jpg",
+        "https://telegra.ph/file/40fa2a02372d5740dd19c.jpg"
+    ]
+};

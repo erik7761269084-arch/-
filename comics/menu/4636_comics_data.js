@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4636,
+    "title": "(メガ秋葉原同人祭 第3回) [r.i.s factory (るしゅーと)] SEASIDE SARA (艦隊これくしょん-艦これ-)",
+    "sourceUrl": "https://telegra.ph/メガ秋葉原同人祭-第3回-ris-factory-るしゅーと-SEASIDE-SARA-艦隊これくしょん-艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/3b49cbf9dfec29969dad0.jpg",
+        "https://telegra.ph/file/807d75469071f496fa360.jpg",
+        "https://telegra.ph/file/e3f88fdb7a16a1e59f3ac.jpg",
+        "https://telegra.ph/file/c91f4578e60c989aa78a1.jpg",
+        "https://telegra.ph/file/2dc72b6ca7771110822dc.jpg",
+        "https://telegra.ph/file/337c3ed58f5715a718316.jpg",
+        "https://telegra.ph/file/711ee8d30dbde021ebbae.jpg",
+        "https://telegra.ph/file/3cb88840c566b0699d329.jpg",
+        "https://telegra.ph/file/c288c9ea89cc21ab6db64.jpg",
+        "https://telegra.ph/file/1f922410663b9a7a1dcc6.jpg",
+        "https://telegra.ph/file/b41ff8daa6bd152a4642f.jpg",
+        "https://telegra.ph/file/316c9f8fc811976f1ca49.jpg",
+        "https://telegra.ph/file/0e0444e0a1ac9b68b8451.jpg",
+        "https://telegra.ph/file/b7c442856676163a25f7b.jpg",
+        "https://telegra.ph/file/955090519c3b366af99a3.jpg",
+        "https://telegra.ph/file/79e5f902820b2169c9bf5.jpg",
+        "https://telegra.ph/file/c478ad2ec72736342d3b3.jpg",
+        "https://telegra.ph/file/ffe02d82464094ee5c888.jpg",
+        "https://telegra.ph/file/26a8ead3a3ccfa4d565a3.jpg",
+        "https://telegra.ph/file/f4c81417157faf3d84e72.jpg",
+        "https://telegra.ph/file/9c929984989d801422ecf.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ]
+};

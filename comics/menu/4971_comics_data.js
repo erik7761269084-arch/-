@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 4971,
+    "title": "(紅楼夢14) [一本杭 (一本杭)] 水着のてゐちゃんと浮気してセックスした (東方Project)",
+    "sourceUrl": "https://telegra.ph/紅楼夢14-一本杭-一本杭-水着のてゐちゃんと浮気してセックスした-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/d6c3977a5d5874cbd7a7b.jpg",
+        "https://telegra.ph/file/3cf0e155f887b6ae253a2.jpg",
+        "https://telegra.ph/file/7239cb0622fedab934f3b.jpg",
+        "https://telegra.ph/file/26ea7517f79fcf994791d.jpg",
+        "https://telegra.ph/file/0085e208a4ad63be479cb.jpg",
+        "https://telegra.ph/file/f65d56ac2766e47a6ef36.jpg",
+        "https://telegra.ph/file/619a9405817608d25ffce.jpg",
+        "https://telegra.ph/file/9d71460ad8c2f399f62bc.jpg",
+        "https://telegra.ph/file/c676d7726c7ad069e947c.jpg",
+        "https://telegra.ph/file/e06c5ae5f19cd22ecbc6e.jpg",
+        "https://telegra.ph/file/21606455545fa0a2ae074.jpg",
+        "https://telegra.ph/file/3e2ced35fbc9a7cd949a7.jpg",
+        "https://telegra.ph/file/dc26150abce63b1393879.jpg",
+        "https://telegra.ph/file/78760c23b5860ffe40249.jpg",
+        "https://telegra.ph/file/19722f52d8ffba62e1b3a.jpg",
+        "https://telegra.ph/file/67e76d1478386cb3eab0c.jpg",
+        "https://telegra.ph/file/d6749e584215a30a0718b.jpg",
+        "https://telegra.ph/file/9e04bcaa3613bd72c7728.jpg",
+        "https://telegra.ph/file/64562e0c5a71b1aac4f0b.jpg",
+        "https://telegra.ph/file/916477470424146c2941d.jpg",
+        "https://telegra.ph/file/cf46f1be50d753db2adf8.jpg",
+        "https://telegra.ph/file/16ddba0f6fc638ed31257.jpg",
+        "https://telegra.ph/file/0cc55c5aa22a606603a19.jpg",
+        "https://telegra.ph/file/036a9519ca1cd8395493a.jpg",
+        "https://telegra.ph/file/1308817d0b1b3d97983ea.jpg",
+        "https://telegra.ph/file/cc682c513a017bb922ae8.jpg"
+    ]
+};

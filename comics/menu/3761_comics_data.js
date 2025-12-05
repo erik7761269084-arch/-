@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 3761,
+    "title": "[宇宙烏賊] ランプで魔人でひきこもり (永遠娘 8)",
+    "sourceUrl": "https://telegra.ph/宇宙烏賊-ランプで魔人でひきこもり-永遠娘-8-08-31",
+    "images": [
+        "https://telegra.ph/file/21733932569fac13dce00.jpg",
+        "https://telegra.ph/file/d632a17a2235129156e17.jpg",
+        "https://telegra.ph/file/ef6ee277a8e280ac72346.jpg",
+        "https://telegra.ph/file/3cd29563f59810fa85817.jpg",
+        "https://telegra.ph/file/83781f01982eb6206124a.jpg",
+        "https://telegra.ph/file/865fed9ce76c0745dbb01.jpg",
+        "https://telegra.ph/file/d718891f8fd976d1b9d3c.jpg",
+        "https://telegra.ph/file/3e6d17a4959b7f5b60512.jpg",
+        "https://telegra.ph/file/f1191b407220f5f75cb14.jpg",
+        "https://telegra.ph/file/efeb1af0ee5365a981ace.jpg",
+        "https://telegra.ph/file/759e3aa3f76494966ae9e.jpg",
+        "https://telegra.ph/file/88a8a5533f387025e05bb.jpg",
+        "https://telegra.ph/file/f099da426bbdf848fea81.jpg",
+        "https://telegra.ph/file/397e3bd09ba57b82218e4.jpg",
+        "https://telegra.ph/file/7ba6cae2d33c3202b9493.jpg",
+        "https://telegra.ph/file/4dcc3d903ed1c723b6fdb.jpg",
+        "https://telegra.ph/file/8ba3cb9732662e5f882cf.jpg",
+        "https://telegra.ph/file/948497f2d6f9ee5eafc5a.jpg",
+        "https://telegra.ph/file/df7943f1d5187c54b421d.jpg",
+        "https://telegra.ph/file/11774e9c0f51f81e7d745.jpg",
+        "https://telegra.ph/file/420885b69131326eaae93.jpg",
+        "https://telegra.ph/file/ae68a3ed99eb04139c0c8.jpg",
+        "https://telegra.ph/file/6568b9392ffa3bb06219b.jpg",
+        "https://telegra.ph/file/eb7bb99c2eba484b15b4c.jpg"
+    ]
+};

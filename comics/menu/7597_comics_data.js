@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7597,
+    "title": "カユミドメ10ホウメ",
+    "sourceUrl": "https://telegra.ph/カユミドメ10ホウメ-08-31",
+    "images": [
+        "https://telegra.ph/file/d192809d4b161c70f1f02.jpg",
+        "https://telegra.ph/file/aeab3bf958a1915c30f4c.jpg",
+        "https://telegra.ph/file/5b1547cd39830c706ebd3.jpg",
+        "https://telegra.ph/file/883557b49a44343a1bfe6.jpg",
+        "https://telegra.ph/file/78ccabab4727067a132dc.jpg",
+        "https://telegra.ph/file/91045460bc0976da40e7a.jpg",
+        "https://telegra.ph/file/fccea756093948db98af0.jpg",
+        "https://telegra.ph/file/77e50fe3399479b08da24.jpg",
+        "https://telegra.ph/file/2837a4b7f8052f833c9df.jpg",
+        "https://telegra.ph/file/3d968037f4e0a6efa6a2d.jpg",
+        "https://telegra.ph/file/bc169c71200f64c500e7a.jpg",
+        "https://telegra.ph/file/78851a61c16139ed0799c.jpg",
+        "https://telegra.ph/file/4c1b1d503b4d9a07e5d68.jpg",
+        "https://telegra.ph/file/2f0df929df2ae1e7f3bcf.jpg",
+        "https://telegra.ph/file/a4ab4da88bb9340673cf5.jpg",
+        "https://telegra.ph/file/7c141f48bbcd217f186ce.jpg",
+        "https://telegra.ph/file/88bdf0ef5ebcd10852544.jpg",
+        "https://telegra.ph/file/f2155577e616887dae2a7.jpg",
+        "https://telegra.ph/file/576d1d6cd79b0f0d65de5.jpg",
+        "https://telegra.ph/file/326879f2d79072e4715e7.jpg",
+        "https://telegra.ph/file/cce5d547c060eb263c596.jpg",
+        "https://telegra.ph/file/3128f2e4937abc2d2159a.jpg",
+        "https://telegra.ph/file/8c67bb09ffd540cefb8e3.jpg",
+        "https://telegra.ph/file/1f348f87f460bddd8362a.jpg",
+        "https://telegra.ph/file/d58fb999550e442bc4e31.jpg",
+        "https://telegra.ph/file/85a06e972f381cacc27a0.jpg"
+    ]
+};

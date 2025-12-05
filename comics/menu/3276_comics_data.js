@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 3276,
+    "title": "(C99) [Number2 (たくじ)] パパ活パコリーヌ! (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/C99-Number2-たくじ-パパ活パコリーヌ-プリンセスコネクトReDive-08-31-2",
+    "images": [
+        "https://telegra.ph/file/c797e3ded96f98dbc3928.jpg",
+        "https://telegra.ph/file/1173698590331eb8cd611.jpg",
+        "https://telegra.ph/file/78e4137336902ac043e3a.jpg",
+        "https://telegra.ph/file/c48747807d0f49a66de6f.jpg",
+        "https://telegra.ph/file/a23f9e99fa10bd7622b2c.jpg",
+        "https://telegra.ph/file/0534bbd34a662a7a3c221.jpg",
+        "https://telegra.ph/file/3bd97ec209d45bd30a4fb.jpg",
+        "https://telegra.ph/file/a9a2fcf969e06f2e34415.jpg",
+        "https://telegra.ph/file/eaad51c77b194fee7fa0a.jpg",
+        "https://telegra.ph/file/07c82abda78a25a062bf4.jpg",
+        "https://telegra.ph/file/4fa586b7aaee2f5a1c510.jpg",
+        "https://telegra.ph/file/5aa9e029b673f46f101a3.jpg",
+        "https://telegra.ph/file/54d4be2081e106365c75c.jpg",
+        "https://telegra.ph/file/4620aebd1dcbec0d0adc5.jpg",
+        "https://telegra.ph/file/a57c46fd8d2e512d17540.jpg",
+        "https://telegra.ph/file/c4624f98bd33d3731c1b4.jpg",
+        "https://telegra.ph/file/f406b7c83cb502eef6e89.jpg",
+        "https://telegra.ph/file/00f0ce156afedbb697999.jpg",
+        "https://telegra.ph/file/b80df8a1916fb65af6a25.jpg",
+        "https://telegra.ph/file/942e5680e7f34157ec499.jpg",
+        "https://telegra.ph/file/7f632a007997c3d5f9c3f.jpg",
+        "https://telegra.ph/file/fe46da9f6c737f3cabe43.jpg",
+        "https://telegra.ph/file/7b1efa6ee09ff7ba09384.jpg",
+        "https://telegra.ph/file/1774b41ed5bb1aea37b30.jpg",
+        "https://telegra.ph/file/335af74fba3bddb6adeda.jpg"
+    ]
+};

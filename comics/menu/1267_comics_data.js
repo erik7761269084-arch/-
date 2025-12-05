@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1267,
+    "title": "[藍夜] のあはいしん (COMIC 快楽天 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/藍夜-のあはいしん-COMIC-快楽天-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ebea0a1faf87b4f71d952.jpg",
+        "https://telegra.ph/file/7f6e4131b2260f889441f.jpg",
+        "https://telegra.ph/file/d07b07bc83f6e4d298766.jpg",
+        "https://telegra.ph/file/8452fd0d1fd26661fc6d4.jpg",
+        "https://telegra.ph/file/8eef33fcad20805ced8f9.jpg",
+        "https://telegra.ph/file/b5d84b79a8a9cef67b044.jpg",
+        "https://telegra.ph/file/92c3ff9882962b942f97d.jpg",
+        "https://telegra.ph/file/d60ac5e179aebb34f6d31.jpg",
+        "https://telegra.ph/file/69e6c643757383883bf89.jpg",
+        "https://telegra.ph/file/47bb8ea60f46ff0f54891.jpg",
+        "https://telegra.ph/file/b336e9c97e7de3f1c3de4.jpg",
+        "https://telegra.ph/file/d6593a9c345cf66c348e8.jpg",
+        "https://telegra.ph/file/0dfd01af0157f40d7f5a4.jpg",
+        "https://telegra.ph/file/7bbf840ca8b0f0c98b0f5.jpg",
+        "https://telegra.ph/file/d2c9447df0eaa84383cc1.jpg",
+        "https://telegra.ph/file/f12376a5927239f5a6e8d.jpg",
+        "https://telegra.ph/file/73bacbda423e91b4accfd.jpg",
+        "https://telegra.ph/file/b28465869ac5b6a6333ec.jpg",
+        "https://telegra.ph/file/504e256defc1bef060075.jpg",
+        "https://telegra.ph/file/375ff87d584a99924fc1a.jpg",
+        "https://telegra.ph/file/a605f79d278d57a70ae6f.jpg",
+        "https://telegra.ph/file/01ffcc60c8f8e3cb0851c.jpg",
+        "https://telegra.ph/file/b34949439373c15a47a56.jpg",
+        "https://telegra.ph/file/a4395b148a1dd23d11a91.jpg",
+        "https://telegra.ph/file/a00ee9d3db7a2fc3f6da8.jpg",
+        "https://telegra.ph/file/f358728f8d53623423e8a.jpg"
+    ]
+};

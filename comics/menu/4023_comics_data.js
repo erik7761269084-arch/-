@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 4023,
+    "title": "(こみトレ34) [ムキぽめら (蚕堂j1)] 狂言のトニック (Dead by Daylight)",
+    "sourceUrl": "https://telegra.ph/こみトレ34-ムキぽめら-蚕堂j1-狂言のトニック-Dead-by-Daylight-08-31",
+    "images": [
+        "https://telegra.ph/file/b3961ce451f546077387f.jpg",
+        "https://telegra.ph/file/fcac0945a17bb7e5a59d6.jpg",
+        "https://telegra.ph/file/35c5e8265843453916846.jpg",
+        "https://telegra.ph/file/78318a5f8c236cb623ce9.jpg",
+        "https://telegra.ph/file/9b8c07eb7f0bbeea81bb7.jpg",
+        "https://telegra.ph/file/78782b632e0e21458b140.jpg",
+        "https://telegra.ph/file/ff55279c8b18849df88d9.jpg",
+        "https://telegra.ph/file/85b91d15e887a529285df.jpg",
+        "https://telegra.ph/file/581843d2a1c42250e8cf0.jpg",
+        "https://telegra.ph/file/167c327ffb3d63d8fcbae.jpg",
+        "https://telegra.ph/file/ea6d4409db52b33e4d1ad.jpg",
+        "https://telegra.ph/file/fc91ad8c6d449729d6589.jpg",
+        "https://telegra.ph/file/49e01fd0cfa37288ec0ec.jpg",
+        "https://telegra.ph/file/24e6dec3e176d771b0316.jpg",
+        "https://telegra.ph/file/67659d9e33e31c367a0d7.jpg",
+        "https://telegra.ph/file/0ee973f64292bcc403de2.jpg",
+        "https://telegra.ph/file/07cf8f96a297bad44b4b2.jpg",
+        "https://telegra.ph/file/064a2ae09ac8668e31b18.jpg",
+        "https://telegra.ph/file/7c53c5a245c8805167ec0.jpg",
+        "https://telegra.ph/file/fde1e6abd1ddcbe16b0dd.jpg",
+        "https://telegra.ph/file/397ffcb036dabe0e49214.jpg",
+        "https://telegra.ph/file/551a0671b81b031a02f78.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ]
+};

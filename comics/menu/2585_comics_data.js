@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2585,
+    "title": "[syou] 初めては記念日に。 (COMIC BAVEL 2021年7月号)",
+    "sourceUrl": "https://telegra.ph/syou-初めては記念日に-COMIC-BAVEL-2021年7月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/d7d1e3c47d9a5c6a84da9.jpg",
+        "https://telegra.ph/file/160bcc3e7e0d98c47a857.jpg",
+        "https://telegra.ph/file/935daec4ba4d302b5e028.jpg",
+        "https://telegra.ph/file/44a96ceaf0c10f1bf73ca.jpg",
+        "https://telegra.ph/file/e534cdc36a2b96c8fd308.jpg",
+        "https://telegra.ph/file/bb1bfcd1d0f45b7ae699a.jpg",
+        "https://telegra.ph/file/d2729ba94b8aa791c2260.jpg",
+        "https://telegra.ph/file/e64f3a7ce4c1347982b2c.jpg",
+        "https://telegra.ph/file/2ec74f0abbbe04c1a84c4.jpg",
+        "https://telegra.ph/file/35406111be2f8eef99696.jpg",
+        "https://telegra.ph/file/e26be6946e77f0480c260.jpg",
+        "https://telegra.ph/file/8c6439f61df19ea50f6cd.jpg",
+        "https://telegra.ph/file/a7c0ceaf19be9b8f0a71b.jpg",
+        "https://telegra.ph/file/d42424b584072507c0236.jpg",
+        "https://telegra.ph/file/9bf7801ce94223fdce208.jpg",
+        "https://telegra.ph/file/ec4c840f41a525b81ea22.jpg",
+        "https://telegra.ph/file/2f247f5594762422b0445.jpg",
+        "https://telegra.ph/file/c50164424f59aee943efe.jpg",
+        "https://telegra.ph/file/f7c335254613333c318d9.jpg",
+        "https://telegra.ph/file/966c496ff93daeff557a5.jpg",
+        "https://telegra.ph/file/ede795443bb6af8eb7444.jpg",
+        "https://telegra.ph/file/8aeafe53c7af9ed13ff6b.jpg",
+        "https://telegra.ph/file/19493b56e2d7860c53bbd.jpg",
+        "https://telegra.ph/file/6bcda84bf5c1709087527.jpg",
+        "https://telegra.ph/file/4cf6fee14e6b6e74a2a4d.jpg",
+        "https://telegra.ph/file/eeca5397d3e69b6f44756.jpg"
+    ]
+};

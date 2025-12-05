@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 2332,
+    "title": "[逆又練物] Virgin×Virgin 第4話 (コミック刺激的SQUIRT!! Vol.13)",
+    "sourceUrl": "https://telegra.ph/逆又練物-VirginVirgin-第4話-コミック刺激的SQUIRT-Vol13-08-31",
+    "images": [
+        "https://telegra.ph/file/10605e125f43c509bc834.jpg",
+        "https://telegra.ph/file/47b00d5d5a5152cbb1c9a.jpg",
+        "https://telegra.ph/file/9642c64f0bb344bf69af4.jpg",
+        "https://telegra.ph/file/689b2ba9101fb047d78cb.jpg",
+        "https://telegra.ph/file/f4366a78db775d7d0e577.jpg",
+        "https://telegra.ph/file/f9cd6613012dd07b403f7.jpg",
+        "https://telegra.ph/file/4f90e6dbf78a0882a97c6.jpg",
+        "https://telegra.ph/file/a0557edcf4bc75eb93383.jpg",
+        "https://telegra.ph/file/cec10326e0dae9526e3d8.jpg",
+        "https://telegra.ph/file/abd553988962f333db38d.jpg",
+        "https://telegra.ph/file/2e5c47e6092c012e71c32.jpg",
+        "https://telegra.ph/file/e37a63efae5e571a591d7.jpg",
+        "https://telegra.ph/file/df0d0d80975559249e057.jpg",
+        "https://telegra.ph/file/545034dce73f5255e9a65.jpg",
+        "https://telegra.ph/file/fc97bf0080f088cd5fb5f.jpg",
+        "https://telegra.ph/file/27e6889f835d386dd65ab.jpg",
+        "https://telegra.ph/file/b7b48395054b57f588a4e.jpg",
+        "https://telegra.ph/file/6faee32669f4179e9f767.jpg",
+        "https://telegra.ph/file/a6b1782d468fdaab7c949.jpg",
+        "https://telegra.ph/file/cf5ae3861054b1d90bb66.jpg",
+        "https://telegra.ph/file/49f0971a800fc3b2488f8.jpg",
+        "https://telegra.ph/file/6ceca56ea166e18135cba.jpg",
+        "https://telegra.ph/file/b995d58150ff4de82df81.jpg",
+        "https://telegra.ph/file/1f039f7d859373d7251eb.jpg",
+        "https://telegra.ph/file/d17987743cee8717a1821.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ]
+};

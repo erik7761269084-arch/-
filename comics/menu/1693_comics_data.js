@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 1693,
+    "title": "[やみなべ] なか〇し家族 (少女組曲 5)",
+    "sourceUrl": "https://telegra.ph/やみなべ-なかし家族-少女組曲-5-08-31",
+    "images": [
+        "https://telegra.ph/file/0b200912ea05b14695b42.jpg",
+        "https://telegra.ph/file/7561233e0d377f3158fb1.jpg",
+        "https://telegra.ph/file/04d169b1678285a78ca75.jpg",
+        "https://telegra.ph/file/01de252ee180307497c64.jpg",
+        "https://telegra.ph/file/2efd678b9961608e0e559.jpg",
+        "https://telegra.ph/file/54cd6e5a6498ec81c8bb5.jpg",
+        "https://telegra.ph/file/ef898b1bd13040d6a63c2.jpg",
+        "https://telegra.ph/file/bc33ef9c31fe205d8b34d.jpg",
+        "https://telegra.ph/file/4b2b348a8dc3ee62356ef.jpg",
+        "https://telegra.ph/file/abf765f578e2a0137d55b.jpg",
+        "https://telegra.ph/file/4e67520ed3fddb23c6f8f.jpg",
+        "https://telegra.ph/file/20986b553f07eafcc41d8.jpg",
+        "https://telegra.ph/file/5a8000272ddc7e1d16039.jpg",
+        "https://telegra.ph/file/f765f67fca7f6f22793a7.jpg",
+        "https://telegra.ph/file/2b732eeb45c4e71162a84.jpg",
+        "https://telegra.ph/file/fac59408b88522f46caf0.jpg",
+        "https://telegra.ph/file/d1089065ee116fa0b0f93.jpg",
+        "https://telegra.ph/file/8af9ebd8b0b334ce384fb.jpg",
+        "https://telegra.ph/file/311c085de72a7d9413683.jpg",
+        "https://telegra.ph/file/8fcf1440b80b96b1df79a.jpg",
+        "https://telegra.ph/file/35e6fca6f7b6947a9c71d.jpg",
+        "https://telegra.ph/file/d577527fd3fd0037a935e.jpg",
+        "https://telegra.ph/file/79e4392f2896d9b774a21.jpg",
+        "https://telegra.ph/file/7ab1ad2e52768601c72d3.jpg",
+        "https://telegra.ph/file/b6dfabed6c4f7df7e4afe.jpg",
+        "https://telegra.ph/file/6a46149dc954fc8805a41.jpg"
+    ]
+};

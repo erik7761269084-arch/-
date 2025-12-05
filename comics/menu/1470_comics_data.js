@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 1470,
+    "title": "[あらくれ] 紅色の囁き 第二章 (COMIC 失楽天 2022年2月号)",
+    "sourceUrl": "https://telegra.ph/あらくれ-紅色の囁き-第二章-COMIC-失楽天-2022年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/80b687f46f7c484171f1c.jpg",
+        "https://telegra.ph/file/81c18ff8b6f8a0e04009f.jpg",
+        "https://telegra.ph/file/e9df586d8eca0aca496d7.jpg",
+        "https://telegra.ph/file/986d591b5255fd0ac613e.jpg",
+        "https://telegra.ph/file/8d7f46997babc5f3e895d.jpg",
+        "https://telegra.ph/file/22df2be4bbd1f3b40b450.jpg",
+        "https://telegra.ph/file/f9f3be3727639b8e6b0fd.jpg",
+        "https://telegra.ph/file/b80bf9b0bfbfee8ad4974.jpg",
+        "https://telegra.ph/file/f7f9f4836819b84401b0d.jpg",
+        "https://telegra.ph/file/6e2272b3ae48b8a876326.jpg",
+        "https://telegra.ph/file/a0437bb0283de35be2b72.jpg",
+        "https://telegra.ph/file/80ce0e76b9641b0b81673.jpg",
+        "https://telegra.ph/file/af3d5472513e0f2546a1b.jpg",
+        "https://telegra.ph/file/6af82b69455f9a8a4d9eb.jpg",
+        "https://telegra.ph/file/6b118abeb14db58d5e10a.jpg",
+        "https://telegra.ph/file/c9e98aaf074e23fd05371.jpg",
+        "https://telegra.ph/file/7a9b413d9e484412727bb.jpg",
+        "https://telegra.ph/file/0049f78d70bab23965135.jpg",
+        "https://telegra.ph/file/845760d82ee9db657acf3.jpg",
+        "https://telegra.ph/file/11dcbea37820af4152e57.jpg",
+        "https://telegra.ph/file/059d2852410c97ffb8658.jpg",
+        "https://telegra.ph/file/5a0aa73c0749f45422966.jpg",
+        "https://telegra.ph/file/7c41d069ba6b46e4190e6.jpg",
+        "https://telegra.ph/file/ef0b8d1538543007d2aa1.jpg"
+    ]
+};

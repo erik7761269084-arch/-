@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 4591,
+    "title": "(COMIC1☆11) [ゆあさ連合 (ジャン·ルイ)] アローラ!シロナさんのアブない水着撮影 (ポケットモンスター)",
+    "sourceUrl": "https://telegra.ph/COMIC111-ゆあさ連合-ジャンルイ-アローラシロナさんのアブない水着撮影-ポケットモンスター-08-31",
+    "images": [
+        "https://telegra.ph/file/6c69b75cf0578f55b54d2.jpg",
+        "https://telegra.ph/file/cb6df5ca2bf99a1d6c844.jpg",
+        "https://telegra.ph/file/027b67c0e71adefd2f76a.jpg",
+        "https://telegra.ph/file/8c21f70805e02093d59d4.jpg",
+        "https://telegra.ph/file/9f43ea07b28b379f0b5d2.jpg",
+        "https://telegra.ph/file/09669e93312bec27f8702.jpg",
+        "https://telegra.ph/file/5ad736dc04fd16b2d7f62.jpg",
+        "https://telegra.ph/file/89e71373e3afda36b60fe.jpg",
+        "https://telegra.ph/file/7bc1ff5c05378e3de079b.jpg",
+        "https://telegra.ph/file/8252b7cc6dbb60a0dae8d.jpg",
+        "https://telegra.ph/file/146685bc97a80be559596.jpg",
+        "https://telegra.ph/file/93c4b7af44cd2babe316b.jpg",
+        "https://telegra.ph/file/4386c3249b443fc98a834.jpg",
+        "https://telegra.ph/file/975e53b2a7c73461f3504.jpg",
+        "https://telegra.ph/file/6bf8b421e000efa442166.jpg",
+        "https://telegra.ph/file/c73f4e503111dc53cdb17.jpg",
+        "https://telegra.ph/file/e24f03a7cf840687c516f.jpg",
+        "https://telegra.ph/file/0145fc0216e68143f3a2f.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/ed8c50f90f950b3fd8a60.jpg",
+        "https://telegra.ph/file/f967b1defaadb6d21c016.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/a8bb1510d150914c398f6.jpg"
+    ]
+};

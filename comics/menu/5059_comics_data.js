@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 5059,
+    "title": "[木瀬樹] (G-エッヂ Vol.014) 負けるな絶倫先生!",
+    "sourceUrl": "https://telegra.ph/木瀬樹-G-エッヂ-Vol014-負けるな絶倫先生-08-31-3",
+    "images": [
+        "https://telegra.ph/file/396b8879f2d06812f69d7.jpg",
+        "https://telegra.ph/file/50dedfd80da8fa9e04f43.jpg",
+        "https://telegra.ph/file/99ebb1ee8c81a2925ae8c.jpg",
+        "https://telegra.ph/file/754034713e88f295c3dd5.jpg",
+        "https://telegra.ph/file/a9e642cf5fd1612d55bae.jpg",
+        "https://telegra.ph/file/aaed0bb246ac0450e34d1.jpg",
+        "https://telegra.ph/file/2975715f7df2a0e71017f.jpg",
+        "https://telegra.ph/file/7eb4e23f721a6534a584a.jpg",
+        "https://telegra.ph/file/19b5a2500d593dc065e42.jpg",
+        "https://telegra.ph/file/f54620aad52a11718fa1b.jpg",
+        "https://telegra.ph/file/0a9b61f9c5bd3630fa836.jpg",
+        "https://telegra.ph/file/e8d406fedd9346cd2fe02.jpg",
+        "https://telegra.ph/file/47bd3a18fbc15075312d0.jpg",
+        "https://telegra.ph/file/d2eb03bd79b65c067f107.jpg",
+        "https://telegra.ph/file/d69de868b56ec52038dd0.jpg",
+        "https://telegra.ph/file/3b140874f60042c5e237a.jpg",
+        "https://telegra.ph/file/95cdc8fa25e07c42610ea.jpg",
+        "https://telegra.ph/file/69537ad4917ad5c2edb3c.jpg",
+        "https://telegra.ph/file/955f29815aa1f6b51a13b.jpg",
+        "https://telegra.ph/file/0a0c721ef49718d2ab69d.jpg",
+        "https://telegra.ph/file/bd6ad80ad260f84d342b1.jpg",
+        "https://telegra.ph/file/fb2bcb02d1282dac8127b.jpg",
+        "https://telegra.ph/file/d2c0fa4e7d764a1aa748c.jpg"
+    ]
+};

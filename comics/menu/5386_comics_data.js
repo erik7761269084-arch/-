@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5386,
+    "title": "[こくまろちょうせい豆乳 (オーマンズリーダス)] 透き通るような世界観なのに…Vol.04 (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/こくまろちょうせい豆乳-オーマンズリーダス-透き通るような世界観なのにVol04-ブルーアーカイブ-08-31-3",
+    "images": [
+        "https://i2.iciallo.uk/mangz/ZZ/dcf1cb9967abf821f09e61e3e39959b11/1.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/b4e17dc5748e5364aaba1e84fa8fd1192/2.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/f6baee6a86fc10cfc56fa13808d5d24b3/3.png",
+        "https://i2.iciallo.uk/mangz/ZZ/cbd2fa2f09a267eed445fd6812c3e7e74/4.png",
+        "https://i2.iciallo.uk/mangz/ZZ/b01c9f8d14efb1f495b8f7d41223bd915/5.png",
+        "https://i2.iciallo.uk/mangz/ZZ/8dff6bf70353ec09a321128d91844e7f6/6.png",
+        "https://i2.iciallo.uk/mangz/ZZ/e6e8819bd2868c0aa4cd9e6a34efa8f97/7.png",
+        "https://i2.iciallo.uk/mangz/ZZ/eef9d9a6636c75345fef6bc7870d47bb8/8.png",
+        "https://i2.iciallo.uk/mangz/ZZ/cf19dc85627a31f0595dd70bed4191559/9.png",
+        "https://i2.iciallo.uk/mangz/ZZ/b2e6a1aee68fb47bb350d07aaca9707610/10.png",
+        "https://i2.iciallo.uk/mangz/ZZ/cc667d6b5b8b87286bac55a11ef9a33d11/11.png",
+        "https://i2.iciallo.uk/mangz/ZZ/5ba54381b9975757f17035f4c63a5ee412/12.png",
+        "https://i2.iciallo.uk/mangz/ZZ/73dc5626093b2c31c4462124e973eb0c13/13.png",
+        "https://i2.iciallo.uk/mangz/ZZ/4336773e0069994c3400a50d9efc4c6e14/14.png",
+        "https://i2.iciallo.uk/mangz/ZZ/88b8bb41cd8fa97502dbc6b4b69ff0cc15/15.png",
+        "https://i2.iciallo.uk/mangz/ZZ/e531ec4a120f42b451c89e28d4c8f81a16/16.png",
+        "https://i2.iciallo.uk/mangz/ZZ/3d6a0c17e0aa177aa4e66a9e5348d5c017/17.png",
+        "https://i2.iciallo.uk/mangz/ZZ/2a17bcaeedc7724a0e71769583330a3118/18.png",
+        "https://i2.iciallo.uk/mangz/ZZ/41f25e0904fa69872de2c21cc1caec5e19/19.png",
+        "https://i2.iciallo.uk/mangz/ZZ/1f1ae21a8b97275456f9ed5b3df58cc820/20.png",
+        "https://i2.iciallo.uk/mangz/ZZ/9d9c2f7e199e0c7e0148a9ab2fc46ba321/21.png",
+        "https://i2.iciallo.uk/mangz/ZZ/f963b61c683bdca848e0b296fd45ad1622/22.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/b4e17dc5748e5364aaba1e84fa8fd11923/23.jpg",
+        "https://i2.iciallo.uk/mangz/ZZ/12dedf537a444de9408742fd641d6cef24/24.jpg"
+    ]
+};

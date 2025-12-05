@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 6357,
+    "title": "[まっさら島] 電脳恥帯",
+    "sourceUrl": "https://telegra.ph/まっさら島-電脳恥帯-08-31",
+    "images": [
+        "https://telegra.ph/file/f2e724bf5b640d4eaf922.jpg",
+        "https://telegra.ph/file/dc8d891f0ac3e7901fdb4.jpg",
+        "https://telegra.ph/file/461a1751b4c863f980af8.jpg",
+        "https://telegra.ph/file/5ae7149b4707ac2518dc6.jpg",
+        "https://telegra.ph/file/db37630be4e9aec8052a3.jpg",
+        "https://telegra.ph/file/6a3ced094e908ccea3e25.jpg",
+        "https://telegra.ph/file/9d6198bae9262adc2c4ec.jpg",
+        "https://telegra.ph/file/2afd1f94bd293a7ba64ee.jpg",
+        "https://telegra.ph/file/05b6bf23a1900906ed2bb.jpg",
+        "https://telegra.ph/file/a8749afb8c606af2e3306.jpg",
+        "https://telegra.ph/file/a14287f141b80f0c3fd21.jpg",
+        "https://telegra.ph/file/44ed42cfb223b64353184.jpg",
+        "https://telegra.ph/file/9a98b2dc06551663e6bbd.jpg",
+        "https://telegra.ph/file/372eaf67f71b281b19eb9.jpg",
+        "https://telegra.ph/file/d7a343ad647ba7707cb9b.jpg",
+        "https://telegra.ph/file/09de5f1b7434c9b1bf6c0.jpg",
+        "https://telegra.ph/file/a912cfe94e589e9f6f9e8.jpg",
+        "https://telegra.ph/file/c41773cc6d53aa2b9efd8.jpg",
+        "https://telegra.ph/file/943d2f838ef3286f03e15.jpg",
+        "https://telegra.ph/file/a0f7d084e18d381b609b2.jpg",
+        "https://telegra.ph/file/709cb3a225221cc6ed8f9.jpg",
+        "https://telegra.ph/file/e5af1c1294a0eca0d57a3.jpg",
+        "https://telegra.ph/file/e7370e2db5e4bb9a6385e.jpg",
+        "https://telegra.ph/file/768d27ffa691f94987854.jpg",
+        "https://telegra.ph/file/da4794edfa85d0b9961e6.jpg"
+    ]
+};

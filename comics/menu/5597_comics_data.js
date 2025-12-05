@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 5597,
+    "title": "[冬野みかん] お勉強はえっちの後で",
+    "sourceUrl": "https://telegra.ph/冬野みかん-お勉強はえっちの後で-08-31",
+    "images": [
+        "https://telegra.ph/file/23a25490743fb5cee9258.jpg",
+        "https://telegra.ph/file/51908b2d6e32f83b2155d.jpg",
+        "https://telegra.ph/file/7839767eeee98a57baab6.jpg",
+        "https://telegra.ph/file/a88a8c1f2a5f55bd947d0.jpg",
+        "https://telegra.ph/file/950405765deb0ced9cb00.jpg",
+        "https://telegra.ph/file/cffcb1afa0944eadfd4df.jpg",
+        "https://telegra.ph/file/442e3cd7f1c7d8b41b803.jpg",
+        "https://telegra.ph/file/fb09c1fa9f5ec40fde7a4.jpg",
+        "https://telegra.ph/file/3ad9d86fc72d13db97da9.jpg",
+        "https://telegra.ph/file/332840bf9b6b3058679ab.jpg",
+        "https://telegra.ph/file/c9201a6beb0308579b220.jpg",
+        "https://telegra.ph/file/f2cfa077882d591b1f7fe.jpg",
+        "https://telegra.ph/file/99bc0e3c6f5d2ae7492c0.jpg",
+        "https://telegra.ph/file/6468129736bd5e3a9613b.jpg",
+        "https://telegra.ph/file/ef60203953837ec4b1919.jpg",
+        "https://telegra.ph/file/3e5dce4dc314abb485897.jpg",
+        "https://telegra.ph/file/d7d32f5ab5ea75ca66c74.jpg",
+        "https://telegra.ph/file/f4805d8945ef527d72784.jpg",
+        "https://telegra.ph/file/fede0ff2e4c07925a832d.jpg",
+        "https://telegra.ph/file/ee30f88157b7446379d5c.jpg",
+        "https://telegra.ph/file/ab0e2b3d0ba268662687f.jpg",
+        "https://telegra.ph/file/7e8e4f8b6f01ad21018f5.jpg",
+        "https://telegra.ph/file/d97b3a466a75adccd9d39.jpg",
+        "https://telegra.ph/file/55491930810d892f3b79d.jpg"
+    ]
+};

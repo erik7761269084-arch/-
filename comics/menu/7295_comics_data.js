@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 7295,
+    "title": "非実在少年少女",
+    "sourceUrl": "https://telegra.ph/非実在少年少女-08-31",
+    "images": [
+        "https://telegra.ph/file/85772641b24017f042da5.jpg",
+        "https://telegra.ph/file/02ab0827e4880f23ce3cc.jpg",
+        "https://telegra.ph/file/5220e077277820a148e9f.jpg",
+        "https://telegra.ph/file/fde2c60d336b4dd6e0787.jpg",
+        "https://telegra.ph/file/686cc2318b3949c886a53.jpg",
+        "https://telegra.ph/file/38032f2451cfac298f5b1.jpg",
+        "https://telegra.ph/file/3f442b568053ec21df34f.jpg",
+        "https://telegra.ph/file/d76f320b9cacef0bb6298.jpg",
+        "https://telegra.ph/file/435584b068e7436f65b85.jpg",
+        "https://telegra.ph/file/70f9a6dd120bcce466d37.jpg",
+        "https://telegra.ph/file/83ce2c62503d811d89cb6.jpg",
+        "https://telegra.ph/file/6e7246c0dd87d0a101d23.jpg",
+        "https://telegra.ph/file/297c4954bcfa6995b76a4.jpg",
+        "https://telegra.ph/file/aef8a5ea57eb5b77239cd.jpg",
+        "https://telegra.ph/file/f7d8197f2d1a56298f8bb.jpg",
+        "https://telegra.ph/file/29697916ef25f73290f06.jpg",
+        "https://telegra.ph/file/93d0598fc03879f6cf0dd.jpg",
+        "https://telegra.ph/file/6f5a84fc93dd2c70dc1f1.jpg",
+        "https://telegra.ph/file/9a66beb4016815e07cd7a.jpg",
+        "https://telegra.ph/file/211613669e19b811675cb.jpg",
+        "https://telegra.ph/file/c2396a55d2f57099984ce.jpg",
+        "https://telegra.ph/file/6cf66fa39d4fca0b118ec.jpg",
+        "https://telegra.ph/file/68f7bfc4afc11ab7cbb42.jpg",
+        "https://telegra.ph/file/1668db617b4e68c4ca622.jpg",
+        "https://telegra.ph/file/60cc3ae33cc8144af4b7b.jpg",
+        "https://telegra.ph/file/51674e675bda48e68990c.jpg"
+    ]
+};
