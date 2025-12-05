@@ -1,5 +1,4 @@
-// 每个对象包含：title、cover_url、url
-const PAGE_DATA = [
+window.PAGE_DATA = [
     {
         "IDcode": 101,
         "title": "[菅野タカシ] エイリアンエクスペリメント (COMIC オルガ vol.01)",

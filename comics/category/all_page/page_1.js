@@ -1,5 +1,5 @@
 // 每个对象包含：title、cover_url、url
-const PAGE_DATA = [
+window.PAGE_DATA = [
     {
         "IDcode": 1,
         "title": "[23.4ド (イチリ)] ボクの理想の異世界生活 10",
