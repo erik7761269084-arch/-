@@ -1,0 +1,62 @@
+window.PAGE_DATA = [
+  {
+    "id": 8440,
+    "IDcode": "2716",
+    "title": "Yuki亭 - NO.01 01月fantia会员订阅合集 [76P-285MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/9ff09e1abad22a2743855.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 8439,
+    "IDcode": "2715",
+    "title": "Yuki亭 - NO.002 あめちゃん✝️",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/fdc1325087c07cde8cfee.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 8438,
+    "IDcode": "2714",
+    "title": "Yuki亭 - NO.003 ❄️甘雨メイド❄️",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"原神\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/991ea4d3a724cbb4c30f4.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 8437,
+    "IDcode": "2713",
+    "title": "Yuki亭 - NO.004 🌸八重神子🌸",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"原神\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/a7a08e6368924cb510cee.jpg",
+    "actress": [],
+    "title_play_url": null
+  }
+];

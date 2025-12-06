@@ -1,0 +1,62 @@
+window.PAGE_DATA = [
+  {
+    "id": 10978,
+    "IDcode": "4",
+    "title": "[BLUECAKE] Hikari - CUM RED+ [148P-4.25G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/705bdc40025e1a4e48ac3.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 9867,
+    "IDcode": "3",
+    "title": "[BLUECAKE] Hikari - Vol.06 - Deep inside me RED+SP [129P-2.33G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/02108b123ab41e584a912.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 8756,
+    "IDcode": "2",
+    "title": "[BLUECAKE] Hikari - Outdoor SM NUDE [110P-2.4G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/3d94be795d586c4766f0d.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 5360,
+    "IDcode": "1",
+    "title": "[BLUECAKE] Hikari Vol.8 - Home Sweet Home RED+ [110P-1.82G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/1171d0f80e32a793666de.jpg",
+    "actress": [],
+    "title_play_url": null
+  }
+];

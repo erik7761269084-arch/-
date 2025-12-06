@@ -1,0 +1,62 @@
+window.PAGE_DATA = [
+  {
+    "id": 8422,
+    "IDcode": "26",
+    "title": "Arty亚缇 - NO.15 FGO 埃列什基伽勒 [21P-56MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/bd2f77418d93a3910baf7.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 8311,
+    "IDcode": "25",
+    "title": "Arty亚缇 - NO.16 RE：从零开始的异世界生活 艾尔莎·葛兰西尔特(猎肠者) [52P-127MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/fd8ce66c61e685a6db2b1.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 8200,
+    "IDcode": "24",
+    "title": "Arty亚缇 22.03Tier.2",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/a0eaa4e5c1fd3e988d31d.jpg",
+    "actress": [],
+    "title_play_url": null
+  },
+  {
+    "id": 8089,
+    "IDcode": "23",
+    "title": "Arty亚缇 22.03Tier.1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+    "actress": [],
+    "title_play_url": null
+  }
+];
