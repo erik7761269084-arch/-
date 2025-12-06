@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12030,
+    "title": "[ratatatat74] Miruko & Ryukyu 2 (Boku no Hero Academia)",
+    "sourceUrl": "https://telegra.ph/ratatatat74-Miruko--Ryukyu-2-Boku-no-Hero-Academia-08-31",
+    "images": [
+        "https://telegra.ph/file/1a8a0c2b151f3bd24f976.jpg",
+        "https://telegra.ph/file/d44f54b04c602ef4a8abb.jpg",
+        "https://telegra.ph/file/dd4b3f20252d1dfae3a24.jpg",
+        "https://telegra.ph/file/fb75765813ad301315dbd.jpg",
+        "https://telegra.ph/file/8029db1a0b9431420d11b.jpg",
+        "https://telegra.ph/file/03aa2eb7af7d0ac9646da.jpg",
+        "https://telegra.ph/file/16309766b428f360629ac.jpg",
+        "https://telegra.ph/file/12d1d52e701ae39cf56d8.jpg",
+        "https://telegra.ph/file/7fc0ccb8d169310f0251c.jpg",
+        "https://telegra.ph/file/5e6b6fc98fb2fb2084bc5.jpg",
+        "https://telegra.ph/file/f22c0332d685e560bdb08.jpg",
+        "https://telegra.ph/file/21072cdce77c8aa57daf8.jpg",
+        "https://telegra.ph/file/318b817c61a24caf8f0d7.jpg",
+        "https://telegra.ph/file/d47b3cd4b78f964ab4cc7.jpg",
+        "https://telegra.ph/file/fbd82ab2ee5e6fdefb1e4.jpg",
+        "https://telegra.ph/file/bccf0ccca3dacef20e01e.jpg",
+        "https://telegra.ph/file/8023631e26e84153e29b7.jpg",
+        "https://telegra.ph/file/d212b713114a6069b3526.jpg",
+        "https://telegra.ph/file/dd2bcf176c1ec5fee5ac5.jpg",
+        "https://telegra.ph/file/c7c8ecb9c197d1044edb4.jpg",
+        "https://telegra.ph/file/93e2b5ca30b7afb8a8010.jpg",
+        "https://telegra.ph/file/7a8c8ba23b26ad42b0331.jpg",
+        "https://telegra.ph/file/80d7565039511ecb29ab6.jpg",
+        "https://telegra.ph/file/f93268eda31753c7a9ebf.jpg",
+        "https://telegra.ph/file/9a72d61397c01949d6683.jpg",
+        "https://telegra.ph/file/6f237a59c78359baede37.jpg",
+        "https://telegra.ph/file/6b3acb7e32dc855de41a1.jpg",
+        "https://telegra.ph/file/57221ac0d77e991991024.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/d3b6bab7002f984fa3558.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/7c8e13020b2fa5241d80b.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

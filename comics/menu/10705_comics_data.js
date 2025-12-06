@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10705,
+    "title": "(COMIC1☆17) [いもむや本舗 - Singleton (あずまゆき)] 過ちは秘事のはじまり3",
+    "sourceUrl": "https://telegra.ph/COMIC117-いもむや本舗---Singleton-あずまゆき-過ちは秘事のはじまり3-08-31",
+    "images": [
+        "https://telegra.ph/file/3b288b046ad91df0edf82.jpg",
+        "https://telegra.ph/file/0ca057b8acccbb96a2b27.jpg",
+        "https://telegra.ph/file/9e6ba8bf709d8d911e6e6.jpg",
+        "https://telegra.ph/file/20aed0f1207969a88f768.jpg",
+        "https://telegra.ph/file/2c5d8950770bd738e540c.jpg",
+        "https://telegra.ph/file/aab33faf99ce2b570ba26.jpg",
+        "https://telegra.ph/file/bca2cbb81b38b86177bf3.jpg",
+        "https://telegra.ph/file/ba935cf4dff21c884a04d.jpg",
+        "https://telegra.ph/file/c293ae127ea68504f460e.jpg",
+        "https://telegra.ph/file/c0e6fd8664fc5391f6b9f.jpg",
+        "https://telegra.ph/file/cfe65cf7a83a4e49eee7f.jpg",
+        "https://telegra.ph/file/5a7b7413e42963524879c.jpg",
+        "https://telegra.ph/file/eb48d80a2d3f5efab998b.jpg",
+        "https://telegra.ph/file/7f6fdb138f376debf31cd.jpg",
+        "https://telegra.ph/file/cee68e98e29bd0fb734ba.jpg",
+        "https://telegra.ph/file/d849d87aae4f612682500.jpg",
+        "https://telegra.ph/file/371f78f43d433e42cb61a.jpg",
+        "https://telegra.ph/file/f37fe257197dd087e9cdf.jpg",
+        "https://telegra.ph/file/95d00b77251185e76b774.jpg",
+        "https://telegra.ph/file/bc3117bd37febfc866257.jpg",
+        "https://telegra.ph/file/6dbd6af7d51ef416efbe4.jpg",
+        "https://telegra.ph/file/5984cd16c6b42965d23a6.jpg",
+        "https://telegra.ph/file/832092cfc3f6b6c33c2e7.jpg",
+        "https://telegra.ph/file/154e22e35f4dca00e0d67.jpg",
+        "https://telegra.ph/file/7666a9d8975446c2b0dcb.jpg",
+        "https://telegra.ph/file/07263ec4275f3011b51d0.jpg",
+        "https://telegra.ph/file/fa04fe252d77bbffafa96.jpg",
+        "https://telegra.ph/file/2c1ebc74b89d19ce384bf.jpg",
+        "https://telegra.ph/file/e61d6d528f25d14e4ac17.jpg",
+        "https://telegra.ph/file/1ab4a4c799d6b995f0b4d.jpg",
+        "https://telegra.ph/file/82bb59167056d4eef2a92.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

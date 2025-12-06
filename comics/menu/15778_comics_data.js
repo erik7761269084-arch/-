@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15778,
+    "title": "[桜ゆう (桜ゆう)] 返り討ち百合セ〇クス2 -Preview",
+    "sourceUrl": "https://telegra.ph/桜ゆう-桜ゆう-返り討ち百合セクス2--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/1e2bf3b161bb349d530f0.jpg",
+        "https://telegra.ph/file/8ea031d10597379745ac9.jpg",
+        "https://telegra.ph/file/57fbe61e35c6d7040af69.jpg",
+        "https://telegra.ph/file/0adbecdaea2ab568914d6.jpg",
+        "https://telegra.ph/file/469ae8aab2e6e7c2fe9f0.jpg",
+        "https://telegra.ph/file/bdd102402d7cfcb69f969.jpg",
+        "https://telegra.ph/file/31fa642fa3a758233618b.jpg",
+        "https://telegra.ph/file/82779ca966d593a372744.jpg",
+        "https://telegra.ph/file/a3145be973d9b27ec1d55.jpg",
+        "https://telegra.ph/file/9324bdd8627c2f8f16a6c.jpg",
+        "https://telegra.ph/file/c4c0d843cf523b6673f83.jpg",
+        "https://telegra.ph/file/a5282f6f7beff324d0f94.jpg",
+        "https://telegra.ph/file/bb7e81cf2258bc8260370.jpg",
+        "https://telegra.ph/file/1ddf904cc27af5de6c212.jpg",
+        "https://telegra.ph/file/0b33a5d03e0e2be9fe5f4.jpg",
+        "https://telegra.ph/file/b862dc656bc5bf4d9daa2.jpg",
+        "https://telegra.ph/file/8a9211d84ed5bb895fcae.jpg",
+        "https://telegra.ph/file/af2540933d07a8c74f654.jpg",
+        "https://telegra.ph/file/0b78710bb3c0e1ac01628.jpg",
+        "https://telegra.ph/file/5d44a247a6ea13a49f591.jpg",
+        "https://telegra.ph/file/91a4a387db8f9a430d659.jpg",
+        "https://telegra.ph/file/9d574c1268fa297e0ad2e.jpg",
+        "https://telegra.ph/file/c06ac094085e21d7563b0.jpg",
+        "https://telegra.ph/file/c08e28a29c6729aac7f5b.jpg",
+        "https://telegra.ph/file/0e1a73043eff7a48a525b.jpg",
+        "https://telegra.ph/file/9532e8d26bbe3115ccd03.jpg",
+        "https://telegra.ph/file/724c232d80f91334038f9.jpg",
+        "https://telegra.ph/file/ce745db8fbb8e1f36ff9a.jpg",
+        "https://telegra.ph/file/0fe116171659126d2e7f8.jpg",
+        "https://telegra.ph/file/7c69b5ab9a332bc011ce6.jpg",
+        "https://telegra.ph/file/2df42fb7ca9e0f0f2fabb.jpg",
+        "https://telegra.ph/file/11fdf322b8eefb7e29834.jpg",
+        "https://telegra.ph/file/863f148243713a18bab69.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

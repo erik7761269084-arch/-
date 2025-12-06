@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15907,
+    "title": "(C103) [めきめき亭 (めきめき)] 千束とたきなの初デート記念日 (リコリス・リコイル) -Preview",
+    "sourceUrl": "https://telegra.ph/C103-めきめき亭-めきめき-千束とたきなの初デート記念日-リコリスリコイル--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/2dced8b33c8e54eba0ac7.jpg",
+        "https://telegra.ph/file/2a1d83866381210f86333.jpg",
+        "https://telegra.ph/file/8750ee053a34d72a159ba.jpg",
+        "https://telegra.ph/file/a059e1f2a7870efb46b66.jpg",
+        "https://telegra.ph/file/1889ff1d4b60c77630287.jpg",
+        "https://telegra.ph/file/d57ccf0ba08b4c249cca7.jpg",
+        "https://telegra.ph/file/45f389813515ee221efe4.jpg",
+        "https://telegra.ph/file/29b01bff298c4974095d3.jpg",
+        "https://telegra.ph/file/2d2301e61ddc8102bec13.jpg",
+        "https://telegra.ph/file/86f5b8ee4aaef0d513287.jpg",
+        "https://telegra.ph/file/3cc9a2bd6c64ed76cec64.jpg",
+        "https://telegra.ph/file/fd972b8b04edc377a8694.jpg",
+        "https://telegra.ph/file/18ed0ac3bbda7aaba4854.jpg",
+        "https://telegra.ph/file/180955f22b6e113158670.jpg",
+        "https://telegra.ph/file/fe37e74eb75d8c80eba8b.jpg",
+        "https://telegra.ph/file/07fa538aab79974541bc6.jpg",
+        "https://telegra.ph/file/4af622efec751da548638.jpg",
+        "https://telegra.ph/file/7c176d961e4998ab1bef0.jpg",
+        "https://telegra.ph/file/2cdceb67f0d883ac8df2d.jpg",
+        "https://telegra.ph/file/16dcfb07312f8ec5a629c.jpg",
+        "https://telegra.ph/file/0fc8c503135c9949bb843.jpg",
+        "https://telegra.ph/file/be2e1995753a1334e54a3.jpg",
+        "https://telegra.ph/file/0252e15ce061561245d51.jpg",
+        "https://telegra.ph/file/65c8e894ce85e05963720.jpg",
+        "https://telegra.ph/file/5b7cd6d229eebf6dcf76c.jpg",
+        "https://telegra.ph/file/fd65d254e628b9b88c4ab.jpg",
+        "https://telegra.ph/file/da2039eb9d04adb9bdef9.jpg",
+        "https://telegra.ph/file/92a2f83877518e0b0f1d5.jpg",
+        "https://telegra.ph/file/d0159a10bf9e0c85efe3b.jpg",
+        "https://telegra.ph/file/1cae881f5d70979b08096.jpg",
+        "https://telegra.ph/file/c1a4ab5d75b628b3eee4f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

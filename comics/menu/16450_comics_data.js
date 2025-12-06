@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16450,
+    "title": "(C103)[ましましバター(ばたっち)]一晩接触禁止令! (崩壊スターレイル) -Preview",
+    "sourceUrl": "https://telegra.ph/C103ましましバターばたっち一晩接触禁止令-崩壊スターレイル--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13020.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13021.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13022.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13023.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13024.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13025.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13026.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13027.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13028.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13029.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13030.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13031.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13032.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13033.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13034.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13035.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13036.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13037.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13038.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13039.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13040.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13041.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13042.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13043.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13044.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13045.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13046.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13047.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13048.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13049.jpg",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/img13050.webp",
+        "https://i2.linghua.xyz/ex/3189234/48bc947b6b/.gif"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

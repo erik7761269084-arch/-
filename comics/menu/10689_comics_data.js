@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10689,
+    "title": "[宮部キウイ] シェアラブる 前編 (コミックホットミルク 2021年1月号)",
+    "sourceUrl": "https://telegra.ph/宮部キウイ-シェアラブる-前編-コミックホットミルク-2021年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/bdafcc1167fe97c13c203.jpg",
+        "https://telegra.ph/file/f49e6a99f86b122985caf.jpg",
+        "https://telegra.ph/file/bdeeb3d8506afd24c600d.jpg",
+        "https://telegra.ph/file/aecd069345268b0230d90.jpg",
+        "https://telegra.ph/file/622d796dcef2bd7a94ffc.jpg",
+        "https://telegra.ph/file/97f97f176b3169c7c0c55.jpg",
+        "https://telegra.ph/file/7d2ef183ac3cdf3ef65e7.jpg",
+        "https://telegra.ph/file/2c30672b0e6cc7e0bcab9.jpg",
+        "https://telegra.ph/file/dcb94e46551a09e2a2c34.jpg",
+        "https://telegra.ph/file/e77b8c9fc83e51b510e57.jpg",
+        "https://telegra.ph/file/c0a7059eb5b4a8eeb0e79.jpg",
+        "https://telegra.ph/file/bcab174411d9c9990ac66.jpg",
+        "https://telegra.ph/file/9076f5cea5cd383d8ccdd.jpg",
+        "https://telegra.ph/file/a53efcdfe58b35e6d0567.jpg",
+        "https://telegra.ph/file/59912a75c8a8a82338506.jpg",
+        "https://telegra.ph/file/0642a758e9dbaf08b7bc8.jpg",
+        "https://telegra.ph/file/951117f957d2371b6b7aa.jpg",
+        "https://telegra.ph/file/179474ebb08bf025859a0.jpg",
+        "https://telegra.ph/file/41209cc7e60bcf7233c51.jpg",
+        "https://telegra.ph/file/6c04f815f9e14411ea2e9.jpg",
+        "https://telegra.ph/file/01485ffa7eeaad0cdd6d7.jpg",
+        "https://telegra.ph/file/5746244af4ff34acf20d9.jpg",
+        "https://telegra.ph/file/518df70e24df03d8d5a6f.jpg",
+        "https://telegra.ph/file/ef3ef02e3c3fbd966a23c.jpg",
+        "https://telegra.ph/file/73de099ca546b4e347ee4.jpg",
+        "https://telegra.ph/file/e6e4bf9a46ff5f8db7933.jpg",
+        "https://telegra.ph/file/949efc6306f2e2730b2fb.jpg",
+        "https://telegra.ph/file/500e374c5fa16c2fefe56.jpg",
+        "https://telegra.ph/file/685fe218f2039518b5139.jpg",
+        "https://telegra.ph/file/bad9532f1cb439d2d9771.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

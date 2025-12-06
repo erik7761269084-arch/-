@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16310,
+    "title": "(僕らのラブライブ! 30) [B.Ren (びーれん)] 知らないココロ (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) [-Preview",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-30-BRen-びーれん-知らないココロ-ラブライブ-虹ヶ咲学園スクールアイドル同好会--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/01.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/02.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/03.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/04.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/05.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/06.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/07.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/08.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/09.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/10.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/11.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/12.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/13.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/14.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/15.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/16.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/17.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/18.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/19.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/20.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/21.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/22.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/23.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/24.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/25.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/26.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/27.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/28.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/29.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/30.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/31.jpg",
+        "https://i2.linghua.xyz/ex/2033811/40e04abd52/32.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

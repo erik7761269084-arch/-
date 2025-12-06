@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13692,
+    "title": "[山芋とろろ] 慰み者たち (COMIC 快楽天ビースト 2022年9月号)",
+    "sourceUrl": "https://telegra.ph/山芋とろろ-慰み者たち-COMIC-快楽天ビースト-2022年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7ddcd2e59b4a9a40994ec.jpg",
+        "https://telegra.ph/file/434f282b1f8bbaeec7153.jpg",
+        "https://telegra.ph/file/9ddaae16879f5445e336b.jpg",
+        "https://telegra.ph/file/dc26a8228063bdac7ddb9.jpg",
+        "https://telegra.ph/file/70604cf656a48db447251.jpg",
+        "https://telegra.ph/file/2841d8f37c04a384dffb0.jpg",
+        "https://telegra.ph/file/5ed301f2ea11f798e5f80.jpg",
+        "https://telegra.ph/file/765957b84350a629e340f.jpg",
+        "https://telegra.ph/file/010b1520e9c68b9be71aa.jpg",
+        "https://telegra.ph/file/15507f92839b4c5b2a1e0.jpg",
+        "https://telegra.ph/file/b5eada8628943673419e6.jpg",
+        "https://telegra.ph/file/e7240e6ce6fad0cb67f66.jpg",
+        "https://telegra.ph/file/25f009dc5dfd3666947cb.jpg",
+        "https://telegra.ph/file/1fb10837f2a0dda476b2f.jpg",
+        "https://telegra.ph/file/35e70f8c1f1504aafe2a2.jpg",
+        "https://telegra.ph/file/bfaa4f37245fe11df0947.jpg",
+        "https://telegra.ph/file/50939b76a39bfaeeb04ac.jpg",
+        "https://telegra.ph/file/16cb31742d15d7b17eefe.jpg",
+        "https://telegra.ph/file/93122a49b6eb0bcf4cf20.jpg",
+        "https://telegra.ph/file/631461ec204790a25529b.jpg",
+        "https://telegra.ph/file/e420b1c3b17946f690575.jpg",
+        "https://telegra.ph/file/889b1d782577437028ec0.jpg",
+        "https://telegra.ph/file/9d1a707c41f1b011b4dab.jpg",
+        "https://telegra.ph/file/c4f9b49da485e46449b03.jpg",
+        "https://telegra.ph/file/1d417d34c963fa45fd1a4.jpg",
+        "https://telegra.ph/file/c462302e9b5c417b270d6.jpg",
+        "https://telegra.ph/file/16e0161eb8fe266ca19aa.jpg",
+        "https://telegra.ph/file/58a3781db8ea6a2129e19.jpg",
+        "https://telegra.ph/file/75e80866941f0dbc23c2f.jpg",
+        "https://telegra.ph/file/56df639cd5a36b6f64bad.jpg",
+        "https://telegra.ph/file/2ee4dac311bab970d1930.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16580,
+    "title": "(C96) [ゆるり屋。 (ふゆつみ千明)] ろぜりあ夏合宿 (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/C96-ゆるり屋-ふゆつみ千明-ろぜりあ夏合宿-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/001_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/001.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/002_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/003_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/004_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/005_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/006_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/007_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/008_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/009_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/010_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/011_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/012_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/013_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/014_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/015_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/016_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/017_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/018_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/019_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/020_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/021_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/022_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/023_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/024_2.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/025_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/026_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/027_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/028_.webp",
+        "https://i2.linghua.xyz/ex/3376974/7a138f1fe2/z_CREDITS_copy_.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

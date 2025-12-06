@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15178,
+    "title": "(C96) [フレンチカンカン (千々石さわ)] そのとくべつを愛してる! (BanG Dream!)",
+    "sourceUrl": "https://telegra.ph/C96-フレンチカンカン-千々石さわ-そのとくべつを愛してる-BanG-Dream-08-31",
+    "images": [
+        "https://telegra.ph/file/630ba1240ba55c2871f8e.jpg",
+        "https://telegra.ph/file/5ebc9588a0589f43d0d81.jpg",
+        "https://telegra.ph/file/85fccbf0f5a7bbb748ba3.jpg",
+        "https://telegra.ph/file/6fc1e18c96f45d7703ce6.jpg",
+        "https://telegra.ph/file/4c7bb241640a36dd95f94.jpg",
+        "https://telegra.ph/file/ba788bd749af01c6292b6.jpg",
+        "https://telegra.ph/file/b57352126683e719479c4.jpg",
+        "https://telegra.ph/file/93621915c4a0f71a150c3.jpg",
+        "https://telegra.ph/file/672e786128818ce897259.jpg",
+        "https://telegra.ph/file/87eff396e17ba75d81390.jpg",
+        "https://telegra.ph/file/a0031f40da4383ba2e658.jpg",
+        "https://telegra.ph/file/b7cfa21c75505f1479a40.jpg",
+        "https://telegra.ph/file/48dc227e1633d412240da.jpg",
+        "https://telegra.ph/file/b9c9be7e4dd4b58d5b027.jpg",
+        "https://telegra.ph/file/a519f3396e872ac07f07d.jpg",
+        "https://telegra.ph/file/62bfc5efc80045b34828d.jpg",
+        "https://telegra.ph/file/8d8f91ab26eb1bd7044f8.jpg",
+        "https://telegra.ph/file/fc2d294b0a00a8f6f8ee4.jpg",
+        "https://telegra.ph/file/39f0894d6fe89304031cf.jpg",
+        "https://telegra.ph/file/cfc7dd434ebfd29ec0199.jpg",
+        "https://telegra.ph/file/0507fabace1ffcb35e02c.jpg",
+        "https://telegra.ph/file/e37f9cf45f8eaf6ca94c5.jpg",
+        "https://telegra.ph/file/827cb5f946a5046d6cce1.jpg",
+        "https://telegra.ph/file/7673980e9758f8d96e101.jpg",
+        "https://telegra.ph/file/38395d238a9358b9189ea.jpg",
+        "https://telegra.ph/file/1ecdb071998a5b628a5b2.jpg",
+        "https://telegra.ph/file/c09eaf84e48b6a2c5bd50.jpg",
+        "https://telegra.ph/file/b04c4765190d2fe38c8f8.jpg",
+        "https://telegra.ph/file/7e3402b59797c632ef7fc.jpg",
+        "https://telegra.ph/file/64a0d22ed8e5018243539.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

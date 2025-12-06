@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10168,
+    "title": "[Xration (mil)] フレイヤ神殿へようこそ補 (ラグナロクオンライン)",
+    "sourceUrl": "https://telegra.ph/Xration-mil-フレイヤ神殿へようこそ補-ラグナロクオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/35606cc78b2801af8fe7e.jpg",
+        "https://telegra.ph/file/dc3314d16c15238f5caa7.jpg",
+        "https://telegra.ph/file/f2dd32473ff64d8de2645.jpg",
+        "https://telegra.ph/file/34e4277ad7a146a6aa17b.jpg",
+        "https://telegra.ph/file/430b7886b2ef805681995.jpg",
+        "https://telegra.ph/file/d1a1ae44c6aa8eaeff227.jpg",
+        "https://telegra.ph/file/59cc50018d5274d5da1e0.jpg",
+        "https://telegra.ph/file/15b87727650094e24f8a9.jpg",
+        "https://telegra.ph/file/ab0dd0a181939d733e724.jpg",
+        "https://telegra.ph/file/e82eaf1343c53fa5bee83.jpg",
+        "https://telegra.ph/file/b3390dc38555a1df012d2.jpg",
+        "https://telegra.ph/file/a92891b9328852554a6ce.jpg",
+        "https://telegra.ph/file/544612f4c27c77667313e.jpg",
+        "https://telegra.ph/file/be8ed9a15e81f96b743b0.jpg",
+        "https://telegra.ph/file/651a6ed1f9fdf16dccd51.jpg",
+        "https://telegra.ph/file/2adc6f32df26fd9f4b578.jpg",
+        "https://telegra.ph/file/2a6509b44270e1a5cdd66.jpg",
+        "https://telegra.ph/file/a70c4969d8d23d444b61f.jpg",
+        "https://telegra.ph/file/a40f8d1f1ef53e12957dc.jpg",
+        "https://telegra.ph/file/f8856b69fabd350b61e1d.jpg",
+        "https://telegra.ph/file/651f0f5fd74a8a4ff929a.jpg",
+        "https://telegra.ph/file/742228a961946e3a8901a.jpg",
+        "https://telegra.ph/file/54d27d9e4968a192b131a.jpg",
+        "https://telegra.ph/file/cab45ee1b71419929a0f3.jpg",
+        "https://telegra.ph/file/90956ee333d2a2b7e3df9.jpg",
+        "https://telegra.ph/file/6d47066a58828166ac13d.jpg",
+        "https://telegra.ph/file/7dfafbdaf54817bd46cae.jpg",
+        "https://telegra.ph/file/05a083654194021873911.jpg",
+        "https://telegra.ph/file/cc33de0b5b801462d2dbd.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

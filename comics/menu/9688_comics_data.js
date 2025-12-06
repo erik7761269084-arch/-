@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9688,
+    "title": "(C93) [ぱいんとさいず (ヴァニラコーク、TKS)] 人間操作アプリ ヒプノシス ～序章～",
+    "sourceUrl": "https://telegra.ph/C93-ぱいんとさいず-ヴァニラコークTKS-人間操作アプリ-ヒプノシス-序章-08-31",
+    "images": [
+        "https://telegra.ph/file/54057064523611ea45ba5.jpg",
+        "https://telegra.ph/file/45bc163afb78e1f0af6cf.jpg",
+        "https://telegra.ph/file/c4addfb7618ee9873a297.jpg",
+        "https://telegra.ph/file/b3838829c9bb0706e04ec.jpg",
+        "https://telegra.ph/file/979e5246b8426d39a7b16.jpg",
+        "https://telegra.ph/file/26031e56fd8193d4c98f1.jpg",
+        "https://telegra.ph/file/7e54fe769e03ab8d3e3e6.jpg",
+        "https://telegra.ph/file/a7041ff4cfefdbf4d64e8.jpg",
+        "https://telegra.ph/file/cfcd578f477bcaff08520.jpg",
+        "https://telegra.ph/file/c647b5cf60e44c7279663.jpg",
+        "https://telegra.ph/file/b9bb09abbf3b6bcd7e538.jpg",
+        "https://telegra.ph/file/a5a28d18f196c2b1e6fa3.jpg",
+        "https://telegra.ph/file/ca81880caa6e655ee070b.jpg",
+        "https://telegra.ph/file/04b117473a2f643413882.jpg",
+        "https://telegra.ph/file/dd5afe7982971e6e7eceb.jpg",
+        "https://telegra.ph/file/1c0d39c52b1ddc3c96d0e.jpg",
+        "https://telegra.ph/file/ce083f39d1fce9f232607.jpg",
+        "https://telegra.ph/file/54f2953f1ad9ecd41cf1c.jpg",
+        "https://telegra.ph/file/1d3051b63609c52733e86.jpg",
+        "https://telegra.ph/file/9b5bbc6c424b0e10a6434.jpg",
+        "https://telegra.ph/file/2397d7cfaa8f93893b1bf.jpg",
+        "https://telegra.ph/file/c0fb4cea57aa0d03e3122.jpg",
+        "https://telegra.ph/file/5c88b2d5a18c5f0088b11.jpg",
+        "https://telegra.ph/file/8717d9c53c4b183c9f338.jpg",
+        "https://telegra.ph/file/fe1d6d056f686ade9c010.jpg",
+        "https://telegra.ph/file/d23dec239a6525625e8ab.jpg",
+        "https://telegra.ph/file/41d53fa3326f0fc04c36c.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

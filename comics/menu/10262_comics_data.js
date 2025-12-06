@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10262,
+    "title": "(C96) [マキ帝国 (巻)] 鯖巻 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-マキ帝国-巻-鯖巻-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/5965f99d3e287381a1cf3.jpg",
+        "https://telegra.ph/file/be3555a86bdaa83610f33.jpg",
+        "https://telegra.ph/file/ba1e363b2e03faac1cdb7.jpg",
+        "https://telegra.ph/file/9cf8602f4613616d02083.jpg",
+        "https://telegra.ph/file/a5d92fedae50f2a18f80a.jpg",
+        "https://telegra.ph/file/adf8163484075fad99bb8.jpg",
+        "https://telegra.ph/file/46bb8d87c2006243d376b.jpg",
+        "https://telegra.ph/file/76ba60114f09c948da5a9.jpg",
+        "https://telegra.ph/file/d1a58fb4d8c693107e560.jpg",
+        "https://telegra.ph/file/2fe40d8528865b81fb9ad.jpg",
+        "https://telegra.ph/file/25fc535d9e682ec7f8455.jpg",
+        "https://telegra.ph/file/6070035738eaa5c7879ac.jpg",
+        "https://telegra.ph/file/49711f06ae9a546b2e01b.jpg",
+        "https://telegra.ph/file/df2f372dac78f6c123db8.jpg",
+        "https://telegra.ph/file/5494422d397f3b9216ee6.jpg",
+        "https://telegra.ph/file/7e059123a058494c35ea0.jpg",
+        "https://telegra.ph/file/d8959787aaf2cd2627def.jpg",
+        "https://telegra.ph/file/e4e78da1b522c7db5cc23.jpg",
+        "https://telegra.ph/file/f221384dd4a5355527245.jpg",
+        "https://telegra.ph/file/a385f0332f97003e673b1.jpg",
+        "https://telegra.ph/file/a2208726712298a1cb80f.jpg",
+        "https://telegra.ph/file/285fce3b2d2855f0dc4e7.jpg",
+        "https://telegra.ph/file/5b37a6483810532a7d6e0.jpg",
+        "https://telegra.ph/file/29b95cc9ee1f94fce4ff2.jpg",
+        "https://telegra.ph/file/d2623a53a9a33eec2936d.jpg",
+        "https://telegra.ph/file/879eedf945f20ee460ca6.jpg",
+        "https://telegra.ph/file/871c5ce9c3a01729e355d.jpg",
+        "https://telegra.ph/file/374a317d40f63daf68ed3.jpg",
+        "https://telegra.ph/file/ea47c0cbeced43a5f6b63.jpg",
+        "https://telegra.ph/file/3bacaac26e39e2b170f15.jpg",
+        "https://telegra.ph/file/4e33dcaee87230a50b522.jpg",
+        "https://telegra.ph/file/7899d273a9890517379b2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

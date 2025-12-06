@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9402,
+    "title": "[あおむし] 古谷くんと小栗さん 最終話 (COMIC BAVEL 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/あおむし-古谷くんと小栗さん-最終話-COMIC-BAVEL-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/38d7148008f90fd071d40.jpg",
+        "https://telegra.ph/file/49c3d7ba691f4b1f24994.jpg",
+        "https://telegra.ph/file/408e4f44372eabbf9bf1e.jpg",
+        "https://telegra.ph/file/5c22162920128b5e785c8.jpg",
+        "https://telegra.ph/file/60344eb5f53b83b0a34d2.jpg",
+        "https://telegra.ph/file/1c91e574ef19875389cbd.jpg",
+        "https://telegra.ph/file/8ef23a56155ef2ed0bf2d.jpg",
+        "https://telegra.ph/file/361326b348af164780586.jpg",
+        "https://telegra.ph/file/0b7aa86532752a8a11989.jpg",
+        "https://telegra.ph/file/f183aa3d0f5a1461d780a.jpg",
+        "https://telegra.ph/file/424ab61efcf4c239cdfa9.jpg",
+        "https://telegra.ph/file/dd4025815d150985443ee.jpg",
+        "https://telegra.ph/file/d511d836bf698c2fc09f1.jpg",
+        "https://telegra.ph/file/c02058e000f5a58138f54.jpg",
+        "https://telegra.ph/file/b7088127761939b145116.jpg",
+        "https://telegra.ph/file/a316f618dfce62c83f33e.jpg",
+        "https://telegra.ph/file/9893ba12c1ec217c8e666.jpg",
+        "https://telegra.ph/file/8610e9ff53cd5e612fde2.jpg",
+        "https://telegra.ph/file/7c370ca925156cac05705.jpg",
+        "https://telegra.ph/file/772c74800588c03a7679f.jpg",
+        "https://telegra.ph/file/160b3c9265acc3cf6b2b2.jpg",
+        "https://telegra.ph/file/adab0d96e8cd69b5dbde5.jpg",
+        "https://telegra.ph/file/ea2239e6a84a5abd2213a.jpg",
+        "https://telegra.ph/file/434d4ea2d04081e3f1074.jpg",
+        "https://telegra.ph/file/37857ccf8003fc41e0b5e.jpg",
+        "https://telegra.ph/file/57dd46f185bdee6f66628.jpg",
+        "https://telegra.ph/file/aff7763feb9fcbf976416.jpg",
+        "https://telegra.ph/file/3488eca76999acc63fe63.jpg",
+        "https://telegra.ph/file/da1db08f06ed2c1c3cac5.jpg",
+        "https://telegra.ph/file/228578b96dd7052febd65.jpg",
+        "https://telegra.ph/file/8743f4f4fb7b98be7821d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16236,
+    "title": "[伊藤ハチ] 異世界花街御伽噺  -Preview",
+    "sourceUrl": "https://telegra.ph/伊藤ハチ-異世界花街御伽噺--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/1.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/2.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/3.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/4.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/5.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/6.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/7.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/8.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/9.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/10.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/11.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/12.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/13.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/14.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/15.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/16.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/17.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/18.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/19.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/20.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/21.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/22.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/23.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/24.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/25.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/26.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/27.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/28.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/29.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/30.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/31.jpg",
+        "https://i2.linghua.xyz/ex/3058027/4c5ed03353/32.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

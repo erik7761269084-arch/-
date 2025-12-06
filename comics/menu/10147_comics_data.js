@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10147,
+    "title": "[ひぐま屋 (野良ヒグマ)] 目立たない存在の僕が高嶺の花の先輩とエッチな関係になっちゃった話",
+    "sourceUrl": "https://telegra.ph/ひぐま屋-野良ヒグマ-目立たない存在の僕が高嶺の花の先輩とエッチな関係になっちゃった話-08-31",
+    "images": [
+        "https://telegra.ph/file/6ffaafe8fa2f196b3cdfd.jpg",
+        "https://telegra.ph/file/348db3c17a6b3b4efc903.jpg",
+        "https://telegra.ph/file/cf5fc0554f39b63072c05.jpg",
+        "https://telegra.ph/file/4544ca4e24cb7957ad9e0.jpg",
+        "https://telegra.ph/file/3169f33d091ac05eebddf.jpg",
+        "https://telegra.ph/file/7623a5d47c7a188ef8627.jpg",
+        "https://telegra.ph/file/0c33daf79c849bffe9785.jpg",
+        "https://telegra.ph/file/2f3951517063248ac3fbf.jpg",
+        "https://telegra.ph/file/9ce2be4356fd763c84007.jpg",
+        "https://telegra.ph/file/f9e61bb98588bc2889809.jpg",
+        "https://telegra.ph/file/0f39c60a4a34fe4e2fabb.jpg",
+        "https://telegra.ph/file/fd3a0ae74ae473cda4d69.jpg",
+        "https://telegra.ph/file/340d4d2bf830c4a5f3f67.jpg",
+        "https://telegra.ph/file/0fd1a2cb953c95b61c1fb.jpg",
+        "https://telegra.ph/file/7269e70491175d3d536bb.jpg",
+        "https://telegra.ph/file/4b3cdb83b68ebe4e878a5.jpg",
+        "https://telegra.ph/file/b0b02a0e73f081d19fb10.jpg",
+        "https://telegra.ph/file/797bf06b8d4f9f9b6ece7.jpg",
+        "https://telegra.ph/file/fdf83df0e5c16deb17d2b.jpg",
+        "https://telegra.ph/file/8e419896b3df34f04a780.jpg",
+        "https://telegra.ph/file/4347c906f8459ce25bea7.jpg",
+        "https://telegra.ph/file/723c2e36204adcaedfa02.jpg",
+        "https://telegra.ph/file/2125b7178756e998f1cb3.jpg",
+        "https://telegra.ph/file/b08a0e7d4d545f098e1bf.jpg",
+        "https://telegra.ph/file/5d3dd3dbb54d9f8a3ac85.jpg",
+        "https://telegra.ph/file/51b5ea6ad6265e62afe0b.jpg",
+        "https://telegra.ph/file/f875ae109e032a41a86d7.jpg",
+        "https://telegra.ph/file/3ed827f954e955d2cf0a9.jpg",
+        "https://telegra.ph/file/f78b2e9810912a6f0b36e.jpg",
+        "https://telegra.ph/file/a9e7e0bcf8e2be54da688.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

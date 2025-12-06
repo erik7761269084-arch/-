@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11725,
+    "title": "[お口の奥地 (渡薫)] 婦長と後輩のお射精地獄 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/お口の奥地-渡薫-婦長と後輩のお射精地獄-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/0131b66ba1f93c5dfb936.jpg",
+        "https://telegra.ph/file/5972bac110d51eb75b39f.jpg",
+        "https://telegra.ph/file/cd3ea9a49f8047398d632.jpg",
+        "https://telegra.ph/file/ff7e5f5eac5ad04449e99.jpg",
+        "https://telegra.ph/file/4c9bfc9940e356949880d.jpg",
+        "https://telegra.ph/file/66c39c3a51b501105aa3d.jpg",
+        "https://telegra.ph/file/618c7f140fb98354dfdb5.jpg",
+        "https://telegra.ph/file/98ff12ea4bbb12b8ccfe7.jpg",
+        "https://telegra.ph/file/bdb0f0fbb7bca4d0527ba.jpg",
+        "https://telegra.ph/file/b9a33d0f7d13f41960dbd.jpg",
+        "https://telegra.ph/file/3c70b2de6e47a972b9e21.jpg",
+        "https://telegra.ph/file/83e038083d7d3b45bc998.jpg",
+        "https://telegra.ph/file/94d67d2be3a8e53a7034e.jpg",
+        "https://telegra.ph/file/300382dfb20a6b4aed5d8.jpg",
+        "https://telegra.ph/file/bfa45e9c7c6089d3ae1d6.jpg",
+        "https://telegra.ph/file/8adb794ece4baffa1598e.jpg",
+        "https://telegra.ph/file/cf908a9d3edf92a0251a5.jpg",
+        "https://telegra.ph/file/a42cb2611a2a58eba5d79.jpg",
+        "https://telegra.ph/file/2b21db5c982e71ab91374.jpg",
+        "https://telegra.ph/file/45682245743390f02f758.jpg",
+        "https://telegra.ph/file/4d309c7154f241214dfb5.jpg",
+        "https://telegra.ph/file/eb1ec15b431f643960dc3.jpg",
+        "https://telegra.ph/file/e4aa93018c7d8458a9973.jpg",
+        "https://telegra.ph/file/13b3471f7ef600b878107.jpg",
+        "https://telegra.ph/file/6486a84ed9a22f270e107.jpg",
+        "https://telegra.ph/file/57221ac0d77e991991024.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/a2f9121d7333624a5efe2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

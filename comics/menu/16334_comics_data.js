@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16334,
+    "title": "[まぜもの (いちみ)] ぼ喜多未満～STARRY SESSION～ (ぼっち・ざ・ろっく!)  -Preview",
+    "sourceUrl": "https://telegra.ph/まぜもの-いちみ-ぼ喜多未満STARRY-SESSION-ぼっちざろっく--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/001_hyoushi.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/003.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/004.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/005.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/006.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/007.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/008.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/009.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/010.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/011.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/012.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/013.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/014.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/015.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/016.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/017.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/018.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/019.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/020.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/021.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/022.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/023.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/024.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/025.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/026.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/027.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/028.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/029.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/030.jpg",
+        "https://i2.linghua.xyz/ex/3096159/be2cffd85a/2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

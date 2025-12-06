@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16382,
+    "title": "(秋季例大祭10) [azmaya (あずまあや)] 上手に切ってね、紫 (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/秋季例大祭10-azmaya-あずまあや-上手に切ってね紫-東方Project--Preview-08-31-2",
+    "images": [
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_01.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_02.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_03.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_04.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_05.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_06.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_07.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_08.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_09.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_10.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_11.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_12.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_13.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_14.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_15.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_16.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_17.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_18.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_19.webp",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_20.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_21.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_22.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_23.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_24.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_25.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_26.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_27.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_28.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_29.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_30.jpg",
+        "https://i2.linghua.xyz/ex/3120162/0df152a420/_31.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

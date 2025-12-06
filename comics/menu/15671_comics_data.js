@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15671,
+    "title": "[無重力ばなな (蒼空キズナ)] 金色の星 前編 (東方Project)  -Preview",
+    "sourceUrl": "https://telegra.ph/無重力ばなな-蒼空キズナ-金色の星-前編-東方Project--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/0abb184a40235d1aad267.jpg",
+        "https://telegra.ph/file/89e02543c669468775d5f.jpg",
+        "https://telegra.ph/file/bc20e06c5244019cc55cb.jpg",
+        "https://telegra.ph/file/ac11ebe718cc1b557dd6b.jpg",
+        "https://telegra.ph/file/294b3adf759ace36de22a.jpg",
+        "https://telegra.ph/file/7e4e9aa0ab5b143577ad2.jpg",
+        "https://telegra.ph/file/23b26b573c53cac03583c.jpg",
+        "https://telegra.ph/file/2f6b704dda39ec69a09bf.jpg",
+        "https://telegra.ph/file/0ec1e263032154c1865a5.jpg",
+        "https://telegra.ph/file/18e337dd0b8226d15d788.jpg",
+        "https://telegra.ph/file/5c08adf96e8017dc235da.jpg",
+        "https://telegra.ph/file/83eb1be78e4dd921969ca.jpg",
+        "https://telegra.ph/file/ed70ac051a831d590ff8f.jpg",
+        "https://telegra.ph/file/5da8e49ce0e7b8cceac36.jpg",
+        "https://telegra.ph/file/55c54bb51a7c3ada4b4b8.jpg",
+        "https://telegra.ph/file/2c464292f2728ff9ce473.jpg",
+        "https://telegra.ph/file/73a9a669e03e1ca13a0f8.jpg",
+        "https://telegra.ph/file/a2dd1df111805411da2db.jpg",
+        "https://telegra.ph/file/dc4b3b58067dab4dd0676.jpg",
+        "https://telegra.ph/file/e2b5ce1b1302209d5a1d8.jpg",
+        "https://telegra.ph/file/d3a1718b7f5f0b21953b8.jpg",
+        "https://telegra.ph/file/6a557b8de4f7c5977793b.jpg",
+        "https://telegra.ph/file/a7047605edfa5410e4e3e.jpg",
+        "https://telegra.ph/file/089fd71c76ae9250463b9.jpg",
+        "https://telegra.ph/file/ddb17c38c26c8d7d4f20a.jpg",
+        "https://telegra.ph/file/c656afd5bd931ab92c4d3.jpg",
+        "https://telegra.ph/file/ab777c13e3248922a127f.jpg",
+        "https://telegra.ph/file/a1be963d1d962fb44232f.jpg",
+        "https://telegra.ph/file/6785c8b9febd2c3b0c720.jpg",
+        "https://telegra.ph/file/3af2c6e5ee89a95ee894d.jpg",
+        "https://telegra.ph/file/32230557230a5febd426d.jpg",
+        "https://telegra.ph/file/1310920f5a2d313aabeb7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

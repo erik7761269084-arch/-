@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10846,
+    "title": "[エレクトさわる] 雷光神姫アイギスマギア―PANDRA saga 3rd ignition― 第二十四節 (コミックアンリアル 2020年8月号 Vol.86)",
+    "sourceUrl": "https://telegra.ph/エレクトさわる-雷光神姫アイギスマギアPANDRA-saga-3rd-ignition-第二十四節-コミックアンリアル-2020年8月号-Vol86-08-31",
+    "images": [
+        "https://telegra.ph/file/a502c51f5d81052dcc8d6.jpg",
+        "https://telegra.ph/file/0d6bf8250dbbff8450677.jpg",
+        "https://telegra.ph/file/7410c680b7702f9c63462.jpg",
+        "https://telegra.ph/file/3b456b2d8e17109c5dca9.jpg",
+        "https://telegra.ph/file/f24809e6d4e53c96c7ac1.jpg",
+        "https://telegra.ph/file/0c6d4bec1c64073841dae.jpg",
+        "https://telegra.ph/file/ec1e7aa503e4a90defca1.jpg",
+        "https://telegra.ph/file/757ccb1b6c95e4614d160.jpg",
+        "https://telegra.ph/file/97485b7907cd0e36d5818.jpg",
+        "https://telegra.ph/file/cc45f1a5183ad4a373bad.jpg",
+        "https://telegra.ph/file/b9db0123e3c6e94ef123e.jpg",
+        "https://telegra.ph/file/e0b7b6c390b2a3fcb6c8e.jpg",
+        "https://telegra.ph/file/9b7d5e1ef5c0772bedec7.jpg",
+        "https://telegra.ph/file/19eac22134a68f388f9ec.jpg",
+        "https://telegra.ph/file/0f35de861d62fcaa58806.jpg",
+        "https://telegra.ph/file/72558502d37aa3274252d.jpg",
+        "https://telegra.ph/file/5e40b1cf49e3951b35341.jpg",
+        "https://telegra.ph/file/b6c3692eff46898a495e9.jpg",
+        "https://telegra.ph/file/a6116f0aae1442c0c88bb.jpg",
+        "https://telegra.ph/file/9693f954baa643f7a9da3.jpg",
+        "https://telegra.ph/file/21fe19d49565d5501a774.jpg",
+        "https://telegra.ph/file/d95e293c4ff1841993691.jpg",
+        "https://telegra.ph/file/0612fab1a458235f7254c.jpg",
+        "https://telegra.ph/file/cba97d09f6b23d89fd291.jpg",
+        "https://telegra.ph/file/d6bf50c602b3661a2bfce.jpg",
+        "https://telegra.ph/file/2450db83189e1246b0104.jpg",
+        "https://telegra.ph/file/a9a016b3f1db801c30337.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

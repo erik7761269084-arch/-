@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12241,
+    "title": "[STUDIO PAL (南野琴、犬崎みくり)] クソ上から目線の姪っ子を催眠術で恥かしいお仕置きをする。",
+    "sourceUrl": "https://telegra.ph/STUDIO-PAL-南野琴犬崎みくり-クソ上から目線の姪っ子を催眠術で恥かしいお仕置きをする-08-31",
+    "images": [
+        "https://telegra.ph/file/e7444bb7afa2993dd9c08.jpg",
+        "https://telegra.ph/file/402068116b488d3b47081.jpg",
+        "https://telegra.ph/file/e4454b6e27394e0d30125.jpg",
+        "https://telegra.ph/file/22fa6b449fb17095c8844.jpg",
+        "https://telegra.ph/file/9be68751489fa6f4743ec.jpg",
+        "https://telegra.ph/file/f2e10c1f0e04f93757adb.jpg",
+        "https://telegra.ph/file/4fe9261fdee7ef301ef05.jpg",
+        "https://telegra.ph/file/01c03179fd8b97a11de41.jpg",
+        "https://telegra.ph/file/7fd8810b699b0fccdd115.jpg",
+        "https://telegra.ph/file/fcdc34995a8f692b44932.jpg",
+        "https://telegra.ph/file/fd7cb9b90fffac4bcbd34.jpg",
+        "https://telegra.ph/file/7bac73963f524fb3e9e27.jpg",
+        "https://telegra.ph/file/94683dc6f4269fe9792d8.jpg",
+        "https://telegra.ph/file/5d5680fb5a50081f308ff.jpg",
+        "https://telegra.ph/file/9c64d973eb4cda9faef39.jpg",
+        "https://telegra.ph/file/ea4fab2378c1633ae2e10.jpg",
+        "https://telegra.ph/file/af4c14201c4294999cc15.jpg",
+        "https://telegra.ph/file/82b4a94f748b712b59da4.jpg",
+        "https://telegra.ph/file/83e6864d37d360866f7a4.jpg",
+        "https://telegra.ph/file/2dcd99061934c3a14b7d9.jpg",
+        "https://telegra.ph/file/f58308844a11948f31de4.jpg",
+        "https://telegra.ph/file/a1517cdf995520f254459.jpg",
+        "https://telegra.ph/file/4773d39f75c03a9b9d5b4.jpg",
+        "https://telegra.ph/file/6551a3a6dc9ab23c6d119.jpg",
+        "https://telegra.ph/file/7dc149835a7997a4c8489.jpg",
+        "https://telegra.ph/file/895c921067d5079877393.jpg",
+        "https://telegra.ph/file/935257a4856c68e48496a.jpg",
+        "https://telegra.ph/file/01ceffb5aa21bcf7f287e.jpg",
+        "https://telegra.ph/file/8e6e38f155b446b117c35.jpg",
+        "https://telegra.ph/file/0141fdc6170b78be88240.jpg",
+        "https://telegra.ph/file/75562e6b6991ac11da871.jpg",
+        "https://telegra.ph/file/b3a4cc7b757ead8a983a5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

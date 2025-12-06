@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16074,
+    "title": "(Amazon Kindle)[コナタエル]天使な幼女はおためしCHU！-Preview",
+    "sourceUrl": "https://telegra.ph/Amazon-Kindleコナタエル天使な幼女はおためしCHU-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/e8710aaac78cd1a2a3c5f.jpg",
+        "https://telegra.ph/file/1523bc76d94543acb533b.jpg",
+        "https://telegra.ph/file/01db803b2f71d0e53114e.jpg",
+        "https://telegra.ph/file/02942e61058688722a43c.jpg",
+        "https://telegra.ph/file/efccf7c57fc15413a1d37.jpg",
+        "https://telegra.ph/file/0f014fc3dd762cbce6754.jpg",
+        "https://telegra.ph/file/2997b11d8b936b599b1ed.jpg",
+        "https://telegra.ph/file/130ae24dc78e5d83c45e9.jpg",
+        "https://telegra.ph/file/c04f56b6f7a5ab49dccaa.jpg",
+        "https://telegra.ph/file/cc4f28db1a4c2ecf52546.jpg",
+        "https://telegra.ph/file/aabf5e719b83c87b29854.jpg",
+        "https://telegra.ph/file/fa147ffc93ac4a7712ec5.jpg",
+        "https://telegra.ph/file/13889d04dcb07ee75cbed.jpg",
+        "https://telegra.ph/file/6ae22dc0a1635dfeef797.jpg",
+        "https://telegra.ph/file/304bae95e37445622320b.jpg",
+        "https://telegra.ph/file/403b28e1962e3bd5b2ec8.jpg",
+        "https://telegra.ph/file/11c57e3e98fe34de12633.jpg",
+        "https://telegra.ph/file/f025067c8e4188e2c8d59.jpg",
+        "https://telegra.ph/file/f36ff5bbab730fb7faabe.jpg",
+        "https://telegra.ph/file/96262412922ab97c5eea2.jpg",
+        "https://telegra.ph/file/72e18e8d0717c930b6c26.jpg",
+        "https://telegra.ph/file/a4e2e2a1abd486f629adc.jpg",
+        "https://telegra.ph/file/fd86e43971d934b067f9e.jpg",
+        "https://telegra.ph/file/072f8dc7674ea5fbf7134.jpg",
+        "https://telegra.ph/file/317276c1046a1dbb85d52.jpg",
+        "https://telegra.ph/file/aa05e1d8a8c7df0e2e657.jpg",
+        "https://telegra.ph/file/01fa8f636920dd89f77c8.jpg",
+        "https://telegra.ph/file/b7d67c4e4e252a1a7130c.jpg",
+        "https://telegra.ph/file/f2e510c807dfe249b5358.jpg",
+        "https://telegra.ph/file/144a94fba87f0e8d501fa.jpg",
+        "https://telegra.ph/file/fa5be4c8a89af558fa9a9.png",
+        "https://telegra.ph/file/5506597b12abd2740c056.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

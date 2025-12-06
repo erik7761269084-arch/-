@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 14001,
+    "title": "[カームホワイト (真白しらこ)] おあずけフラストレーション (世界樹の迷宮V)",
+    "sourceUrl": "https://telegra.ph/カームホワイト-真白しらこ-おあずけフラストレーション-世界樹の迷宮V-08-31",
+    "images": [
+        "https://telegra.ph/file/03918f505df70b9473618.jpg",
+        "https://telegra.ph/file/27b01467c33c9487791f1.jpg",
+        "https://telegra.ph/file/710818ba4b7d8b1780255.jpg",
+        "https://telegra.ph/file/1a9dbe3bdd7ab5a18d792.jpg",
+        "https://telegra.ph/file/774e72c8c0bb84245ad2b.jpg",
+        "https://telegra.ph/file/a2c1e26e3ae955a1f65dc.jpg",
+        "https://telegra.ph/file/6174d7eecc8444806dc4d.jpg",
+        "https://telegra.ph/file/2d946b7c34e40b785290d.jpg",
+        "https://telegra.ph/file/a3d825115636909cd62d7.jpg",
+        "https://telegra.ph/file/e23c0f94a0d5fc6b90d14.jpg",
+        "https://telegra.ph/file/0772861e2187d80b1c90d.jpg",
+        "https://telegra.ph/file/ea4b9fb6f8a7b295312b7.jpg",
+        "https://telegra.ph/file/1f371681e897e55d6ebce.jpg",
+        "https://telegra.ph/file/238668757d62222e0e7bc.jpg",
+        "https://telegra.ph/file/c5ad9bf9f8b2c784babbb.jpg",
+        "https://telegra.ph/file/da7331686d73b3b3d8b8d.jpg",
+        "https://telegra.ph/file/f347f62d6086b71badf86.jpg",
+        "https://telegra.ph/file/9fc1f89e1026fb765db74.jpg",
+        "https://telegra.ph/file/c868777b2749cc5bfd3f3.jpg",
+        "https://telegra.ph/file/c5008146fa2be950653f3.jpg",
+        "https://telegra.ph/file/f63d84bc139a3de3bc40c.jpg",
+        "https://telegra.ph/file/668e9d2d1a9b8b166a143.jpg",
+        "https://telegra.ph/file/48d5d27f13b5bc47114bb.jpg",
+        "https://telegra.ph/file/48f2542c95a82456d1bdc.jpg",
+        "https://telegra.ph/file/32a70b6166f4ef6f4f964.jpg",
+        "https://telegra.ph/file/b3d5f22c6962585f6594b.jpg",
+        "https://telegra.ph/file/e26cd652253f7b4b0e9f7.jpg",
+        "https://telegra.ph/file/a2c84296ba3a5f98c4726.jpg",
+        "https://telegra.ph/file/aacaa39a5b929d1ed3404.jpg",
+        "https://telegra.ph/file/c2622f3f620a11ce0c252.jpg",
+        "https://telegra.ph/file/7eae6a796bf81821db9f0.jpg",
+        "https://telegra.ph/file/dfebe82dd2eb6cc003da0.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

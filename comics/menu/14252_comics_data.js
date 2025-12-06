@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14252,
+    "title": "[暮林あさ美] 1989 前編 (COMIC LO 2021年7月号)",
+    "sourceUrl": "https://telegra.ph/暮林あさ美-1989-前編-COMIC-LO-2021年7月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ea383b7e38b1e0e3c23cb.jpg",
+        "https://telegra.ph/file/e3eeecf866e8384c3538b.jpg",
+        "https://telegra.ph/file/e9c951814c637badd794a.jpg",
+        "https://telegra.ph/file/e1015a1bb495a80bafa3d.jpg",
+        "https://telegra.ph/file/4aa29924042a35c064c9b.jpg",
+        "https://telegra.ph/file/2b1e717b9c295e9101aea.jpg",
+        "https://telegra.ph/file/ca942f7c16a97fb2fc08c.jpg",
+        "https://telegra.ph/file/0eead0a46b51f045551db.jpg",
+        "https://telegra.ph/file/5e1034457932193119925.jpg",
+        "https://telegra.ph/file/28ca24348d975424059d5.jpg",
+        "https://telegra.ph/file/da5c2b7138936aa96a2b7.jpg",
+        "https://telegra.ph/file/b1757256c0f0115223fce.jpg",
+        "https://telegra.ph/file/94eb1e150fde1fadff794.jpg",
+        "https://telegra.ph/file/aecdb2bc89328f34731b9.jpg",
+        "https://telegra.ph/file/85f716a1bb1bc136ca44c.jpg",
+        "https://telegra.ph/file/a1228ef5ad5350e2b46df.jpg",
+        "https://telegra.ph/file/c26f3d5217b7519939416.jpg",
+        "https://telegra.ph/file/0b1e2b33d5c6add38e38f.jpg",
+        "https://telegra.ph/file/a2790a6cee22b03224b0c.jpg",
+        "https://telegra.ph/file/9b5049744adaf0ccc172f.jpg",
+        "https://telegra.ph/file/8cedd21b8b0d04a9d4895.jpg",
+        "https://telegra.ph/file/647498292b4b46089ac40.jpg",
+        "https://telegra.ph/file/8c5fe80ab828e1e1bbe76.jpg",
+        "https://telegra.ph/file/0310e41a98a8057beb0b0.jpg",
+        "https://telegra.ph/file/16758267765af64fa4c30.jpg",
+        "https://telegra.ph/file/56b20d0276aa225d9fc41.jpg",
+        "https://telegra.ph/file/0827ebe01d43192728895.jpg",
+        "https://telegra.ph/file/cd1cf797dc53d0c23564c.jpg",
+        "https://telegra.ph/file/033a3e3c2d4db69416800.jpg",
+        "https://telegra.ph/file/6ce9d2e941b4d39a126cd.jpg",
+        "https://telegra.ph/file/32993d8eae3adb12782d7.jpg",
+        "https://telegra.ph/file/2a3289cb74fb22109ae7d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

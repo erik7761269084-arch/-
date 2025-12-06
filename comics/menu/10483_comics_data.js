@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10483,
+    "title": "[吟醸マゴッツ (くろたま)] むちむち王元姫のボテ腹性活 (真・三國無双)",
+    "sourceUrl": "https://telegra.ph/吟醸マゴッツ-くろたま-むちむち王元姫のボテ腹性活-真三國無双-08-31",
+    "images": [
+        "https://telegra.ph/file/b78d0e3429038ed72e5a8.jpg",
+        "https://telegra.ph/file/5e8755bb6ab96309d53c9.jpg",
+        "https://telegra.ph/file/60c03aa6b2f4233195743.jpg",
+        "https://telegra.ph/file/9ed830adfb9ec30b3d426.jpg",
+        "https://telegra.ph/file/51fba1780d8352f1b1b1e.jpg",
+        "https://telegra.ph/file/bc3f5c9e20b1ad5e14713.jpg",
+        "https://telegra.ph/file/1de80d6346b278ad6c0ff.jpg",
+        "https://telegra.ph/file/124ffb4fd7f4f07575782.jpg",
+        "https://telegra.ph/file/e63bb64a37234b6025828.jpg",
+        "https://telegra.ph/file/bc072d8032da05a5a54e8.jpg",
+        "https://telegra.ph/file/b29151abd2296847814ee.jpg",
+        "https://telegra.ph/file/89d54c8ec2e1e1ef8e53f.jpg",
+        "https://telegra.ph/file/c359d89be5566ffddb85c.jpg",
+        "https://telegra.ph/file/4778050ae3126a2c63140.jpg",
+        "https://telegra.ph/file/ff941064073f7c8275be1.jpg",
+        "https://telegra.ph/file/9be06b3f01a3bedd000ea.jpg",
+        "https://telegra.ph/file/b9cde2b5315325138373f.jpg",
+        "https://telegra.ph/file/dba6d5bb009c33b117328.jpg",
+        "https://telegra.ph/file/4956ebae0dab78b980845.jpg",
+        "https://telegra.ph/file/43ceeea6f91cda1388c1b.jpg",
+        "https://telegra.ph/file/94015d0258218995d28a6.jpg",
+        "https://telegra.ph/file/55d87f860a503ea3d485f.jpg",
+        "https://telegra.ph/file/2dd31557a4cca64d90452.jpg",
+        "https://telegra.ph/file/dbbd86e6720b8208382c8.jpg",
+        "https://telegra.ph/file/eee9511d62ad470e8a1ec.jpg",
+        "https://telegra.ph/file/eced10d59bf1194082def.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

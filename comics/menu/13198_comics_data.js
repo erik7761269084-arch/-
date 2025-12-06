@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13198,
+    "title": "[山田一族。 (もきゅ、袋小路)] 彼女を抱くのは僕じゃない",
+    "sourceUrl": "https://telegra.ph/山田一族-もきゅ袋小路-彼女を抱くのは僕じゃない-08-31",
+    "images": [
+        "https://telegra.ph/file/fb399eab51aacb5b814bd.jpg",
+        "https://telegra.ph/file/fc78709ee202e85049485.jpg",
+        "https://telegra.ph/file/a701afdb28e21feb6830d.jpg",
+        "https://telegra.ph/file/e2d32e699c638504d4d66.jpg",
+        "https://telegra.ph/file/e467917c64ec5ee48c0c7.jpg",
+        "https://telegra.ph/file/44c4c0474b0b1f2e89105.jpg",
+        "https://telegra.ph/file/641c2058157493c29b21e.jpg",
+        "https://telegra.ph/file/3d0af710816f7200727d4.jpg",
+        "https://telegra.ph/file/c9a08dc1d35b3364b8e5f.jpg",
+        "https://telegra.ph/file/b65159d554cda50b908e4.jpg",
+        "https://telegra.ph/file/8fb73f924734e6b36bd61.jpg",
+        "https://telegra.ph/file/4c8f1d4c1ddf5f3aa6e29.jpg",
+        "https://telegra.ph/file/2d1b5a20629a4f0d9b6e6.jpg",
+        "https://telegra.ph/file/6ed47658312ca957dd7b7.jpg",
+        "https://telegra.ph/file/851a0d01c7497c955d5e6.jpg",
+        "https://telegra.ph/file/44dc7ce666027f7e2e3f4.jpg",
+        "https://telegra.ph/file/22a39bc14f4de1417c7ed.jpg",
+        "https://telegra.ph/file/4e169106c9a393c4c6980.jpg",
+        "https://telegra.ph/file/492ee191f6f08b76a5450.jpg",
+        "https://telegra.ph/file/e38abfe129e21d26011da.jpg",
+        "https://telegra.ph/file/d9e000ed57912fd154aa7.jpg",
+        "https://telegra.ph/file/bd3a815c3b37030c5d234.jpg",
+        "https://telegra.ph/file/9f4b6c8e28d098fe7db68.jpg",
+        "https://telegra.ph/file/b7b0c027d215ab4bdc655.jpg",
+        "https://telegra.ph/file/235a5afc9bdf25746dde5.jpg",
+        "https://telegra.ph/file/cd6924a16ae2d89d55471.jpg",
+        "https://telegra.ph/file/e25e7af4c000d57b72beb.jpg",
+        "https://telegra.ph/file/12d214a6b1ab83a554fe6.jpg",
+        "https://telegra.ph/file/3879cf1fa81facc76ddd1.jpg",
+        "https://telegra.ph/file/90764f91eba19cc963d4d.jpg",
+        "https://telegra.ph/file/4132024f49014098dff32.jpg",
+        "https://telegra.ph/file/fcfe2d61d0433032e5d74.jpg",
+        "https://telegra.ph/file/b0b076610aaf98291ec07.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

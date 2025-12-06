@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10334,
+    "title": "[ワラビモチー] ヒーローの憂鬱 淫乱リハビリテーション後編",
+    "sourceUrl": "https://telegra.ph/ワラビモチー-ヒーローの憂鬱-淫乱リハビリテーション後編-08-31",
+    "images": [
+        "https://telegra.ph/file/8980938ba47b0a05f496e.jpg",
+        "https://telegra.ph/file/1ed3b9e5bf358bccc6419.jpg",
+        "https://telegra.ph/file/ea27a9e281141984d304b.jpg",
+        "https://telegra.ph/file/ef7f777917844b896d6de.jpg",
+        "https://telegra.ph/file/790be28bb83a5621eff17.jpg",
+        "https://telegra.ph/file/38b41c887a108eeac8bd4.jpg",
+        "https://telegra.ph/file/e4ac9430e78dce32daa95.jpg",
+        "https://telegra.ph/file/17d2d04993f6b7eee58ff.jpg",
+        "https://telegra.ph/file/87b19653a30704b095184.jpg",
+        "https://telegra.ph/file/f6f88db7271ca5aeb4ec9.jpg",
+        "https://telegra.ph/file/5fce62b631a851d58204a.jpg",
+        "https://telegra.ph/file/5898bd2e8616b501ea49b.jpg",
+        "https://telegra.ph/file/be0e1b6940f41f8025fe1.jpg",
+        "https://telegra.ph/file/c1e182a65fa21ce6336e0.jpg",
+        "https://telegra.ph/file/e156c2a02b0bc3c2c573b.jpg",
+        "https://telegra.ph/file/906591026939262cda203.jpg",
+        "https://telegra.ph/file/6dd8a9dc853a969ba753d.jpg",
+        "https://telegra.ph/file/f2aeadd6144098625d2a6.jpg",
+        "https://telegra.ph/file/079de42a61565e2d75c9c.jpg",
+        "https://telegra.ph/file/b39f4fbca176c6c30ebfa.jpg",
+        "https://telegra.ph/file/c8060f5bb99f6291174f1.jpg",
+        "https://telegra.ph/file/8d2943afc1f7340fb0250.jpg",
+        "https://telegra.ph/file/a3c16a20603eb4aa995eb.jpg",
+        "https://telegra.ph/file/6f6f25e90a3764644622b.jpg",
+        "https://telegra.ph/file/2cb0b4850ebc6d70d9c5a.jpg",
+        "https://telegra.ph/file/c2bc48966a7e68b77d010.jpg",
+        "https://telegra.ph/file/2434b4587d942cdb8df76.jpg",
+        "https://telegra.ph/file/2cf2865d1541ba3762c06.jpg",
+        "https://telegra.ph/file/88efab6dd9f08eddea58e.jpg",
+        "https://telegra.ph/file/7f1413adf3d1d9531feb8.jpg",
+        "https://telegra.ph/file/21d29e79ae9e19c70692a.jpg",
+        "https://telegra.ph/file/e0b552065303cdba42e2a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

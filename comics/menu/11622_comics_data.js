@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11622,
+    "title": "[かえぬこ] 誘惑リフレ (COMIC 真激 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/かえぬこ-誘惑リフレ-COMIC-真激-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/93ae786f3a1837e7f57d9.jpg",
+        "https://telegra.ph/file/38d45dbf197dbad4562d5.jpg",
+        "https://telegra.ph/file/255fdd42908935354a180.jpg",
+        "https://telegra.ph/file/d499ae0912773b5bf647e.jpg",
+        "https://telegra.ph/file/bd2a5056e61462b574c1e.jpg",
+        "https://telegra.ph/file/92c5282cc96c935be6b0c.jpg",
+        "https://telegra.ph/file/b398a727adf3f24e7532f.jpg",
+        "https://telegra.ph/file/b2ff4f990982244aec685.jpg",
+        "https://telegra.ph/file/a20edeaf931b1c21e6752.jpg",
+        "https://telegra.ph/file/4468160a692062897d495.jpg",
+        "https://telegra.ph/file/3b83a240b3b7072872f8c.jpg",
+        "https://telegra.ph/file/05f26c237c1608e116355.jpg",
+        "https://telegra.ph/file/e1babf0ce7459bf48d7cc.jpg",
+        "https://telegra.ph/file/79d02bc3664fc69f14870.jpg",
+        "https://telegra.ph/file/0c9fe4476a3ab5f91dc34.jpg",
+        "https://telegra.ph/file/cbb341129f9c7e5757bb1.jpg",
+        "https://telegra.ph/file/29dc6f0451c951fbd18f9.jpg",
+        "https://telegra.ph/file/6118e6c18325ef949e0d7.jpg",
+        "https://telegra.ph/file/244b24a96fe4476522116.jpg",
+        "https://telegra.ph/file/bfa98237bd436d50a2ad6.jpg",
+        "https://telegra.ph/file/10cb0d191b4efb802db98.jpg",
+        "https://telegra.ph/file/6908386b67b36b21659c9.jpg",
+        "https://telegra.ph/file/ec56a7e8fc6d058cdf811.jpg",
+        "https://telegra.ph/file/baa1233a245f857864a10.jpg",
+        "https://telegra.ph/file/e569658f246c51af3d963.jpg",
+        "https://telegra.ph/file/7f731f2407b00e5157e17.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/8a27e08b9109ae20a28c0.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/8664818462199397a8fd1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

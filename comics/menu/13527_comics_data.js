@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13527,
+    "title": "(C100) [激浪Director (ヨシカ)] 北沢志保の痴漢本 (アイドルマスター ミリオンライブ!)",
+    "sourceUrl": "https://telegra.ph/C100-激浪Director-ヨシカ-北沢志保の痴漢本-アイドルマスター-ミリオンライブ-08-31-2",
+    "images": [
+        "https://telegra.ph/file/ecc67f82327af4a1b5269.jpg",
+        "https://telegra.ph/file/d43458bab47676d5ad035.jpg",
+        "https://telegra.ph/file/3a5230878d671f1d5bd94.jpg",
+        "https://telegra.ph/file/8508aa3741b6efb4e0668.jpg",
+        "https://telegra.ph/file/09026a712a6d0a5a4a855.jpg",
+        "https://telegra.ph/file/d0552e0cbe7b4db2d27a7.jpg",
+        "https://telegra.ph/file/9bab655fe10977ed7def8.jpg",
+        "https://telegra.ph/file/e8aed1b393ea289898783.jpg",
+        "https://telegra.ph/file/79e255fa3d4c301a8f241.jpg",
+        "https://telegra.ph/file/265fa81445a39e849de2f.jpg",
+        "https://telegra.ph/file/8fd1b2a8b45a902573973.jpg",
+        "https://telegra.ph/file/8569f558a5e8506276ba3.jpg",
+        "https://telegra.ph/file/bd522b70bb64abf939fca.jpg",
+        "https://telegra.ph/file/c4d8f5501b70c8d43ee05.jpg",
+        "https://telegra.ph/file/e9b006ffe592a22c3518c.jpg",
+        "https://telegra.ph/file/f3c82c5a82a6d778da1d2.jpg",
+        "https://telegra.ph/file/0c9587f4016c417bb2bfd.jpg",
+        "https://telegra.ph/file/df7dbe1b6bf195ffca557.jpg",
+        "https://telegra.ph/file/e58207f9a5d3dd4a381d6.jpg",
+        "https://telegra.ph/file/8224f6df0ca7009fed811.jpg",
+        "https://telegra.ph/file/3034b105d6c5cb21402bd.jpg",
+        "https://telegra.ph/file/f6726b14630150e72c3d9.jpg",
+        "https://telegra.ph/file/cb1f1b3e971d1ba97a9ac.jpg",
+        "https://telegra.ph/file/b9114d5266d911b0c949a.jpg",
+        "https://telegra.ph/file/4ed77ed55e6d8ed29ac81.jpg",
+        "https://telegra.ph/file/bb386a9ec96783c30aaab.jpg",
+        "https://telegra.ph/file/3398b1bbb4b33b136b43b.jpg",
+        "https://telegra.ph/file/21e78125ee83de8b05963.jpg",
+        "https://telegra.ph/file/e60397411b8dada2a5c8c.jpg",
+        "https://telegra.ph/file/4a9e27f3cde953cf95e82.jpg",
+        "https://telegra.ph/file/a81db2a4efb37ec76d1d1.jpg",
+        "https://telegra.ph/file/0053e0f7575e46346fcda.jpg",
+        "https://telegra.ph/file/58baa6da2b135606708d0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

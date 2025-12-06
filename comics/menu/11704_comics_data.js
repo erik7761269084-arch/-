@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11704,
+    "title": "[まんねんドコドコドンドドコ (とっととねろ太郎。)] ユウリちゃんのえっちなやつ (ポケットモンスター ソード・シールド)",
+    "sourceUrl": "https://telegra.ph/まんねんドコドコドンドドコ-とっととねろ太郎-ユウリちゃんのえっちなやつ-ポケットモンスター-ソードシールド-08-31",
+    "images": [
+        "https://telegra.ph/file/270755171eb193fd36f92.jpg",
+        "https://telegra.ph/file/cbc1f43b77532568f6b3f.jpg",
+        "https://telegra.ph/file/d1e0a7114a06e8b7cc302.jpg",
+        "https://telegra.ph/file/c126ad551c5902f412859.jpg",
+        "https://telegra.ph/file/4fd7b4829d295a440a9a7.jpg",
+        "https://telegra.ph/file/85e54a15435c4dc04cc0e.jpg",
+        "https://telegra.ph/file/62b75824b55b5f9830f11.jpg",
+        "https://telegra.ph/file/827bea65ba36d5f1372eb.jpg",
+        "https://telegra.ph/file/34982e401e024392c8fd4.jpg",
+        "https://telegra.ph/file/1c03d4eea10ec120d6ef5.jpg",
+        "https://telegra.ph/file/aa0e302e6a4a48f900260.jpg",
+        "https://telegra.ph/file/1ead21b481cddc12edb15.jpg",
+        "https://telegra.ph/file/a19e52a4b8e6d27685236.jpg",
+        "https://telegra.ph/file/e25a68911da679d653dfa.jpg",
+        "https://telegra.ph/file/81fcec078ab545d76a4f6.jpg",
+        "https://telegra.ph/file/c38cf733f0ecd02ca2be5.jpg",
+        "https://telegra.ph/file/837d3be4e60615fefd833.jpg",
+        "https://telegra.ph/file/75d264fa7a012bd802a4b.jpg",
+        "https://telegra.ph/file/1f17a3876dc7d57517199.jpg",
+        "https://telegra.ph/file/331a3315a993d46c7f30a.jpg",
+        "https://telegra.ph/file/a3d06602f122c3783af20.jpg",
+        "https://telegra.ph/file/d8431745d471b0404bde3.jpg",
+        "https://telegra.ph/file/ca8b2eaef75f581ed3e92.jpg",
+        "https://telegra.ph/file/378ec0920ca6b822c46f9.jpg",
+        "https://telegra.ph/file/21a436276a26ab4513dc6.jpg",
+        "https://telegra.ph/file/790cee0793248e1675c5f.jpg",
+        "https://telegra.ph/file/1389cad60f99d7a1a07f2.jpg",
+        "https://telegra.ph/file/7b8b2f4a85473759964c4.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/e8196c9bc09ab6a6cbe86.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

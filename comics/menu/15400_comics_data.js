@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15400,
+    "title": "[Energia (Pikachi)] Taion, Kodou | 体温、心跳 (Lycoris Recoil)  [柠檬花汉化组] [Digital]",
+    "sourceUrl": "https://telegra.ph/Energia-Pikachi-Taion-Kodou--体温心跳-Lycoris-Recoil-柠檬花汉化组-Digital-08-31",
+    "images": [
+        "https://telegra.ph/file/cd440eda6b9e5aab0d604.jpg",
+        "https://telegra.ph/file/f7dec279faf5c72875518.jpg",
+        "https://telegra.ph/file/be7e6bb6ab7482000b574.jpg",
+        "https://telegra.ph/file/4b34fc025539bdba1e747.jpg",
+        "https://telegra.ph/file/f7a7025fdab8e3c8d2fb9.jpg",
+        "https://telegra.ph/file/d7103b22809b956f4b190.jpg",
+        "https://telegra.ph/file/986325645954de6569503.jpg",
+        "https://telegra.ph/file/e9c7d27ab49c748b9743e.jpg",
+        "https://telegra.ph/file/5a24dd1d5fb9be72792ac.jpg",
+        "https://telegra.ph/file/64b46e701e497405e8e9b.jpg",
+        "https://telegra.ph/file/7c37968a6781aa1f63d13.jpg",
+        "https://telegra.ph/file/c9f9cc234e63c31ed57bf.jpg",
+        "https://telegra.ph/file/3b7377b56884c1583cb96.jpg",
+        "https://telegra.ph/file/b65b8fb4bd368fd5a21fd.jpg",
+        "https://telegra.ph/file/c19492b26c486d5ff4bb3.jpg",
+        "https://telegra.ph/file/6d9501d5658025d53d920.jpg",
+        "https://telegra.ph/file/a99e5b180fb48ec505254.jpg",
+        "https://telegra.ph/file/bd9a97b8cb15684b1aff5.jpg",
+        "https://telegra.ph/file/aad2ea50bfe2f866468a2.jpg",
+        "https://telegra.ph/file/d875d518eeee9394d6bb1.jpg",
+        "https://telegra.ph/file/33e85ec67677360cf5e3d.jpg",
+        "https://telegra.ph/file/b1af6d884ceb492c7409b.jpg",
+        "https://telegra.ph/file/30644d6efc2f026c9fe17.jpg",
+        "https://telegra.ph/file/c197284ff955e1f24b819.jpg",
+        "https://telegra.ph/file/130dbbcd6255f4af328ca.jpg",
+        "https://telegra.ph/file/3c05365fb46969f13b93b.jpg",
+        "https://telegra.ph/file/b53b22a0fee41103e5d03.jpg",
+        "https://telegra.ph/file/a612b3cbb3d0a73836cc9.jpg",
+        "https://telegra.ph/file/5e2a5745b413af9d837a3.jpg",
+        "https://telegra.ph/file/42d2fb6dc9044e59aa81e.jpg",
+        "https://telegra.ph/file/517de7a4c1b08a0193d51.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10594,
+    "title": "(C96) [マンガスーパー (猫井ミィ)] OYOME SAMBA (アイドルマスター ミリオンライブ!)",
+    "sourceUrl": "https://telegra.ph/C96-マンガスーパー-猫井ミィ-OYOME-SAMBA-アイドルマスター-ミリオンライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/157880525c494a61a134d.jpg",
+        "https://telegra.ph/file/4f0a06e337e4a1eac1412.jpg",
+        "https://telegra.ph/file/4c2f3cd283254cab35781.jpg",
+        "https://telegra.ph/file/837703b2594204845ba4b.jpg",
+        "https://telegra.ph/file/ed9e4a201ebcdb9f84706.jpg",
+        "https://telegra.ph/file/49d9c239955aa1bf990c1.jpg",
+        "https://telegra.ph/file/38338be3b7da059c1ec25.jpg",
+        "https://telegra.ph/file/251687c7108286cf01d99.jpg",
+        "https://telegra.ph/file/e9b3107b27a72d45004c8.jpg",
+        "https://telegra.ph/file/70621a70cf875d9dbed0c.jpg",
+        "https://telegra.ph/file/4b0344cf5827ab97e0e55.jpg",
+        "https://telegra.ph/file/1eb42aebd1926f9d1d280.jpg",
+        "https://telegra.ph/file/2a640b0af230fcdabc410.jpg",
+        "https://telegra.ph/file/4ea191249976772407b23.jpg",
+        "https://telegra.ph/file/43720d0dec54c0dcf0655.jpg",
+        "https://telegra.ph/file/a7b0adefaf87565ec1279.jpg",
+        "https://telegra.ph/file/857e24d0f7b7701f7c746.jpg",
+        "https://telegra.ph/file/574012d7f0a36be58f56d.jpg",
+        "https://telegra.ph/file/aa04523ed7ac8859f71bd.jpg",
+        "https://telegra.ph/file/1386bfeabe38723b3f0f4.jpg",
+        "https://telegra.ph/file/c1e3cb0434e6c11697e01.jpg",
+        "https://telegra.ph/file/575faa784fdc4191edf7c.jpg",
+        "https://telegra.ph/file/701877217f45b99f991c1.jpg",
+        "https://telegra.ph/file/9740fa0a03c7f283ba9ae.jpg",
+        "https://telegra.ph/file/6568be85aac1c2024aef8.jpg",
+        "https://telegra.ph/file/face4700d3fffde9bec66.jpg",
+        "https://telegra.ph/file/dad7925cb8e3e8041e54d.jpg",
+        "https://telegra.ph/file/14eb0e2f6bd1b15d83252.jpg",
+        "https://telegra.ph/file/285212482ca86fc95f203.jpg",
+        "https://telegra.ph/file/a75171dff5e8850a9876d.jpg",
+        "https://telegra.ph/file/c5f325cc1abfc56c05bc8.jpg",
+        "https://telegra.ph/file/20f533a95f76e579a3d2e.jpg",
+        "https://telegra.ph/file/ae6796416b0bbfcf16210.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

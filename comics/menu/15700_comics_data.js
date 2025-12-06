@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15700,
+    "title": "(秋季例大祭10) [干物屋 (飛者)] 心の中 (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/秋季例大祭10-干物屋-飛者-心の中-東方Project--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/47400f247ff66d0afa1cb.jpg",
+        "https://telegra.ph/file/d5f8fb4de47be1d8ffff5.jpg",
+        "https://telegra.ph/file/765844663565196cc5f64.jpg",
+        "https://telegra.ph/file/10c2eb519df0f5bdebe9b.jpg",
+        "https://telegra.ph/file/18041221da54e8c837199.jpg",
+        "https://telegra.ph/file/b7bbdf4c4b29080536b2c.jpg",
+        "https://telegra.ph/file/2ad7841fea9ddc5d97a7b.jpg",
+        "https://telegra.ph/file/c26e7f9c113089b7ef77d.jpg",
+        "https://telegra.ph/file/8b89a844e3efd2c6c25a9.jpg",
+        "https://telegra.ph/file/1e8da0a3bed83d3e21c55.jpg",
+        "https://telegra.ph/file/8c826bef0feb12263ca28.jpg",
+        "https://telegra.ph/file/7550d66b32914055f9e3a.jpg",
+        "https://telegra.ph/file/ef6ebc3d00f2fc42866b0.jpg",
+        "https://telegra.ph/file/1e3754b811a603a073336.jpg",
+        "https://telegra.ph/file/ab3c1ebd821ab4429763e.jpg",
+        "https://telegra.ph/file/dd575c9158c4c0c545a94.jpg",
+        "https://telegra.ph/file/aeede78785651e1774e7e.jpg",
+        "https://telegra.ph/file/473e5aa894d2af815d8a4.jpg",
+        "https://telegra.ph/file/25c67c25ebb430021f1f8.jpg",
+        "https://telegra.ph/file/cbb37f623f1ddf4c61949.jpg",
+        "https://telegra.ph/file/b9415d9df034f38b6d62b.jpg",
+        "https://telegra.ph/file/045a178576fc9c119ebe9.jpg",
+        "https://telegra.ph/file/a15693362071e0ffd660b.jpg",
+        "https://telegra.ph/file/9d800bea390916e5371e1.jpg",
+        "https://telegra.ph/file/552ab184d22f2624ca85f.jpg",
+        "https://telegra.ph/file/745e2d34dafad8c7be550.jpg",
+        "https://telegra.ph/file/b71aca33c58d5fe2941ee.jpg",
+        "https://telegra.ph/file/3fbbcdd1cfced798ecf4e.jpg",
+        "https://telegra.ph/file/1e897c42cfcd23cb0abba.jpg",
+        "https://telegra.ph/file/6d47102e0100d129b2646.jpg",
+        "https://telegra.ph/file/ef6881c42496d70994674.jpg",
+        "https://telegra.ph/file/10926d23810a6337d1bf2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

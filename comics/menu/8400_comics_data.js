@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8400,
+    "title": "[綺月さい] 色づく春と 前編 (コミックホットミルク 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/綺月さい-色づく春と-前編-コミックホットミルク-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/837da95f7792ca29badf4.jpg",
+        "https://telegra.ph/file/04934edd17ed6d17eb277.jpg",
+        "https://telegra.ph/file/208e3b98fcdccd5b629cd.jpg",
+        "https://telegra.ph/file/07e968cd6969b1d4eee46.jpg",
+        "https://telegra.ph/file/2c5642d118162913bf367.jpg",
+        "https://telegra.ph/file/99b652c1d7939b39041c9.jpg",
+        "https://telegra.ph/file/94c39da3e8035bbdb762b.jpg",
+        "https://telegra.ph/file/a3cc587aac21c715dda96.jpg",
+        "https://telegra.ph/file/80f8e73b07b6876c55ccc.jpg",
+        "https://telegra.ph/file/f48dc589ee491a7a92cb9.jpg",
+        "https://telegra.ph/file/48d9ec4c9a0e21477f8a3.jpg",
+        "https://telegra.ph/file/59f005d3d78606beae043.jpg",
+        "https://telegra.ph/file/c9eb91ad98286230e6688.jpg",
+        "https://telegra.ph/file/fea194c0f87fcb4d98adb.jpg",
+        "https://telegra.ph/file/c13b21ae2a773d7ebe6a8.jpg",
+        "https://telegra.ph/file/984bebe0c1bdb9d858db0.jpg",
+        "https://telegra.ph/file/97d11dd563b0ba044dc1c.jpg",
+        "https://telegra.ph/file/1bd08498f3f1bb9150ee5.jpg",
+        "https://telegra.ph/file/f128e887fe21efc9adbd2.jpg",
+        "https://telegra.ph/file/697ab11bd0a7b71f75b83.jpg",
+        "https://telegra.ph/file/0b252f297a3a3f3536415.jpg",
+        "https://telegra.ph/file/413837254569c2fc2ee06.jpg",
+        "https://telegra.ph/file/54b2645df201b54294e41.jpg",
+        "https://telegra.ph/file/0461fe39bd2f55c260ea4.jpg",
+        "https://telegra.ph/file/e1ea4a5e9d9b547394a8b.jpg",
+        "https://telegra.ph/file/061dc5de19a972cf32345.jpg",
+        "https://telegra.ph/file/ec99d72192fa459193134.jpg",
+        "https://telegra.ph/file/1219e601786cc2e20528d.jpg",
+        "https://telegra.ph/file/d5f6d6f0d88e9e668f926.jpg",
+        "https://telegra.ph/file/c573bb29b27c3f4cfec9c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

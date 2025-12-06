@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14201,
+    "title": "[野際かえで] ここより楽園 (COMIC LO 2021年8月号)",
+    "sourceUrl": "https://telegra.ph/野際かえで-ここより楽園-COMIC-LO-2021年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d96d606bb45445d5b326d.jpg",
+        "https://telegra.ph/file/78dcc0dc09c94d628a736.jpg",
+        "https://telegra.ph/file/1456b87562a549a4fc105.jpg",
+        "https://telegra.ph/file/fc795ff7a2b180adb36dc.jpg",
+        "https://telegra.ph/file/eccdbb63da457e3deaf4e.jpg",
+        "https://telegra.ph/file/b46f85deb1f4e1d5e205e.jpg",
+        "https://telegra.ph/file/53c54e31a3ed90c727f3c.jpg",
+        "https://telegra.ph/file/debe10af9a4d6b21a66ae.jpg",
+        "https://telegra.ph/file/24a146363720512418319.jpg",
+        "https://telegra.ph/file/4c07e7c7ad8e19cba9979.jpg",
+        "https://telegra.ph/file/1471ab98ab68aa1af4e5d.jpg",
+        "https://telegra.ph/file/e33e59961a993796435d8.jpg",
+        "https://telegra.ph/file/5c434a716061d487ed506.jpg",
+        "https://telegra.ph/file/a3536f54c87e31db84101.jpg",
+        "https://telegra.ph/file/38320e3a785d3d70f252c.jpg",
+        "https://telegra.ph/file/8c4838c8e5dd915e7609a.jpg",
+        "https://telegra.ph/file/f96813fc7b213480d9082.jpg",
+        "https://telegra.ph/file/a2fefb5f83393191c9e11.jpg",
+        "https://telegra.ph/file/ba48444943189f4746c19.jpg",
+        "https://telegra.ph/file/7c9373c63608a71dab7ff.jpg",
+        "https://telegra.ph/file/9f463fec051014db4ff0d.jpg",
+        "https://telegra.ph/file/27afd9baed8477de9a75c.jpg",
+        "https://telegra.ph/file/1cf8a300a5a1de8304d84.jpg",
+        "https://telegra.ph/file/66226224bd2c1734703b3.jpg",
+        "https://telegra.ph/file/240df827d4f362d2b7844.jpg",
+        "https://telegra.ph/file/bb2f0e544dd880965aaa8.jpg",
+        "https://telegra.ph/file/fa3e927872d07a0f6ba91.jpg",
+        "https://telegra.ph/file/59c763d2c1ab389585aed.jpg",
+        "https://telegra.ph/file/3bcb690b2cdf9daf61616.jpg",
+        "https://telegra.ph/file/b6616daedc67865c95f78.jpg",
+        "https://telegra.ph/file/c053f7e0c1919dffe8ce2.jpg",
+        "https://telegra.ph/file/29c3fc5f704b47c74f6d0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

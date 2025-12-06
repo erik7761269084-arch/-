@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16253,
+    "title": "[全力疾走猫 (まっしぐら)] ハートキネシス (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)  -Preview",
+    "sourceUrl": "https://telegra.ph/全力疾走猫-まっしぐら-ハートキネシス-ラブライブ-虹ヶ咲学園スクールアイドル同好会--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000001.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000002.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000003.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000004.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000005.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000006.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000007.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000008.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000009.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000010.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000011.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000012.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000013.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000014.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000015.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000016.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000017.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000018.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000019.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000020.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000021.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000022.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000023.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000024.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000025.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000026.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000027.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/00000028.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/29.jpg",
+        "https://i2.linghua.xyz/ex/2127101/b7978cff6b/64.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10403,
+    "title": "[ハトマメ (顎)] うちの娘。そのろく",
+    "sourceUrl": "https://telegra.ph/ハトマメ-顎-うちの娘そのろく-08-31",
+    "images": [
+        "https://telegra.ph/file/831bdfc20fcca0b7d6af3.jpg",
+        "https://telegra.ph/file/5000e3f6de905f4061234.jpg",
+        "https://telegra.ph/file/5893d493e4e5e93b35c74.jpg",
+        "https://telegra.ph/file/bc1c4281fea35e338cb57.jpg",
+        "https://telegra.ph/file/30684ec5ca5839de00eaa.jpg",
+        "https://telegra.ph/file/2d9c609549e6838025289.jpg",
+        "https://telegra.ph/file/d01ce60f3784446483bc3.jpg",
+        "https://telegra.ph/file/3ad79048cdb7b1b2f65d5.jpg",
+        "https://telegra.ph/file/a12fc56b3546bba10b405.jpg",
+        "https://telegra.ph/file/e960869653591080bfd7d.jpg",
+        "https://telegra.ph/file/f4f3f0e1cef686927cb27.jpg",
+        "https://telegra.ph/file/1b21b165d686bf888e6f5.jpg",
+        "https://telegra.ph/file/4a1251f8e3e903e72128a.jpg",
+        "https://telegra.ph/file/d57d6012c971fcfccd12d.jpg",
+        "https://telegra.ph/file/eb789d000787df8eb9b56.jpg",
+        "https://telegra.ph/file/ff73c6024b62d0a3e1437.jpg",
+        "https://telegra.ph/file/637334c94731e6202ba33.jpg",
+        "https://telegra.ph/file/d333f43c2885fade01c95.jpg",
+        "https://telegra.ph/file/316eff4660ea8d4172516.jpg",
+        "https://telegra.ph/file/0808737389f93b165dec5.jpg",
+        "https://telegra.ph/file/fbd6842d50064f8bc47db.jpg",
+        "https://telegra.ph/file/529b0e647333bbcfccfb0.jpg",
+        "https://telegra.ph/file/0276854bbe3eba5711e1e.jpg",
+        "https://telegra.ph/file/555c05c829e6c4c716b2b.jpg",
+        "https://telegra.ph/file/9cf9f5fcd9c7d0a3c4a77.jpg",
+        "https://telegra.ph/file/44d33238666efd4477b66.jpg",
+        "https://telegra.ph/file/4b591aff781bb9f745a36.jpg",
+        "https://telegra.ph/file/872ae6c92ff22fe493f52.jpg",
+        "https://telegra.ph/file/1cf49e838393877c133a8.jpg",
+        "https://telegra.ph/file/2d79704d4ae5ca2c07b0e.jpg",
+        "https://telegra.ph/file/f7b909614ed4fdded3bfe.jpg",
+        "https://telegra.ph/file/0020ec1e524c79017d99f.jpg",
+        "https://telegra.ph/file/02aace87ec2b0bc8b1250.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12128,
+    "title": "[C.R's NEST (しーあーる)] Cursed Holy Clothes",
+    "sourceUrl": "https://telegra.ph/CRs-NEST-しーあーる-Cursed-Holy-Clothes-08-31",
+    "images": [
+        "https://telegra.ph/file/296295281ad43b2c03cb8.jpg",
+        "https://telegra.ph/file/2a81720d825ea95926e12.jpg",
+        "https://telegra.ph/file/ea7b71b0f0932565221f3.jpg",
+        "https://telegra.ph/file/9c0fc27884e38e72beac0.jpg",
+        "https://telegra.ph/file/e854fba4f7509af739305.jpg",
+        "https://telegra.ph/file/4a064b3ae309d4df576f5.jpg",
+        "https://telegra.ph/file/a6f6c8bd88c71946f019e.jpg",
+        "https://telegra.ph/file/841a2e9f81f8f93ea019e.jpg",
+        "https://telegra.ph/file/0147934132e1c50d80286.jpg",
+        "https://telegra.ph/file/c6c15baaa9bf10436737f.jpg",
+        "https://telegra.ph/file/fc4be8adbfd51909c3de3.jpg",
+        "https://telegra.ph/file/83e7830d3e6fb98920165.jpg",
+        "https://telegra.ph/file/38a4fac1d80f39ecd00ca.jpg",
+        "https://telegra.ph/file/0e190100a0ce33b612098.jpg",
+        "https://telegra.ph/file/0b017ee13fcfafebf408c.jpg",
+        "https://telegra.ph/file/b5200d654d617c2f26caa.jpg",
+        "https://telegra.ph/file/01f114136c11af4fdf5e4.jpg",
+        "https://telegra.ph/file/1fbb1741b2bf8894e71f8.jpg",
+        "https://telegra.ph/file/0ecca4298f064efa13c6b.jpg",
+        "https://telegra.ph/file/962e1b709b799aeac9689.jpg",
+        "https://telegra.ph/file/377f8800bc2988949087b.jpg",
+        "https://telegra.ph/file/d249d9bd0a06b11d2ecc9.jpg",
+        "https://telegra.ph/file/85a6935b5f74c53ef6681.jpg",
+        "https://telegra.ph/file/48c829939886f0d5f6981.jpg",
+        "https://telegra.ph/file/5180c97b92b01ecaed46d.jpg",
+        "https://telegra.ph/file/1b1bc1ff344ff74f230fc.jpg",
+        "https://telegra.ph/file/1c8cc8729e1dc88439604.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

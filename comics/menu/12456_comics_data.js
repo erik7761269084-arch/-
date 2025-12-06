@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12456,
+    "title": "[狭くて暗い (狭暗)] NTR御前 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/狭くて暗い-狭暗-NTR御前-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/6df49f22f031e4767a4f1.jpg",
+        "https://telegra.ph/file/e72e8460bca76ea0f01c6.jpg",
+        "https://telegra.ph/file/8423da27318f30d8f5430.jpg",
+        "https://telegra.ph/file/a75baa74c4914391cb4d9.jpg",
+        "https://telegra.ph/file/ef5eeb26edcbf2db2ca15.jpg",
+        "https://telegra.ph/file/ea3890c34c7a19e703417.jpg",
+        "https://telegra.ph/file/eb174174b2e572a07e8a0.jpg",
+        "https://telegra.ph/file/9a88e25e212ceaa898838.jpg",
+        "https://telegra.ph/file/810b8cc22bec05dc4799b.jpg",
+        "https://telegra.ph/file/8cb41211aa4ad7ff0c9fa.jpg",
+        "https://telegra.ph/file/7a1df15bce434b02e30da.jpg",
+        "https://telegra.ph/file/b5d23122171edcd681696.jpg",
+        "https://telegra.ph/file/db3af1d3fc7c32934b118.jpg",
+        "https://telegra.ph/file/ad3e76f26084c34717f0c.jpg",
+        "https://telegra.ph/file/0a8c03dec1f5be4e134d3.jpg",
+        "https://telegra.ph/file/aaac326cd808a0c1fefa3.jpg",
+        "https://telegra.ph/file/2593eac27c2497d77f43e.jpg",
+        "https://telegra.ph/file/e0f116303bc266349d071.jpg",
+        "https://telegra.ph/file/36f97a153ebee8addb06c.jpg",
+        "https://telegra.ph/file/57157e05d40c09d69da1e.jpg",
+        "https://telegra.ph/file/58a58a12428c442a75346.jpg",
+        "https://telegra.ph/file/6f537e7de16915f9aa048.jpg",
+        "https://telegra.ph/file/6c0e73f3d617e43543f1d.jpg",
+        "https://telegra.ph/file/b6aec1d759229ba4ab8f3.jpg",
+        "https://telegra.ph/file/4f51e1baa74c645cd1e08.jpg",
+        "https://telegra.ph/file/002af6fde56b33186cbd9.jpg",
+        "https://telegra.ph/file/ba3edb152c2f3cf7c9ee4.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8141,
+    "title": "[あおすけのサークル (日向あお助)] バニーさんと野外えっち",
+    "sourceUrl": "https://telegra.ph/あおすけのサークル-日向あお助-バニーさんと野外えっち-08-31",
+    "images": [
+        "https://telegra.ph/file/8e6d83afc21a3271a3946.jpg",
+        "https://telegra.ph/file/7fd66dfb5826bf8944012.jpg",
+        "https://telegra.ph/file/ef8377c8df6292650cd0f.jpg",
+        "https://telegra.ph/file/e483e824c1893468ea321.jpg",
+        "https://telegra.ph/file/47f20490cb3f86ef2335c.jpg",
+        "https://telegra.ph/file/897ef890b909fe50c847a.jpg",
+        "https://telegra.ph/file/19ffa1ef45ab98c4bd01d.jpg",
+        "https://telegra.ph/file/4b667ddbf9d15319eed6f.jpg",
+        "https://telegra.ph/file/4ca797770474d24a862d0.jpg",
+        "https://telegra.ph/file/7bfa90b294d46f5f67ec2.jpg",
+        "https://telegra.ph/file/50fd4e9b3ba291a5cd6a8.jpg",
+        "https://telegra.ph/file/d9906ad774b68a79f30c9.jpg",
+        "https://telegra.ph/file/11c650920b3ef85766e02.jpg",
+        "https://telegra.ph/file/dd8f551b50ed48767b6c7.jpg",
+        "https://telegra.ph/file/b70b1ff0765d5229d1ba7.jpg",
+        "https://telegra.ph/file/c4c1c8718288ab5e62ac8.jpg",
+        "https://telegra.ph/file/86da094a8327344e6b9e0.jpg",
+        "https://telegra.ph/file/cef635a6899b6e656a393.jpg",
+        "https://telegra.ph/file/4d86baf6e58f51d398f5a.jpg",
+        "https://telegra.ph/file/9b2c39d0e59b6c96e764f.jpg",
+        "https://telegra.ph/file/4858ad9d5bc82ac29e2c2.jpg",
+        "https://telegra.ph/file/a73746ae4a7fc7d2a67c7.jpg",
+        "https://telegra.ph/file/bcf7aa76603fe047482c1.jpg",
+        "https://telegra.ph/file/8419367a2cd9c82845d29.jpg",
+        "https://telegra.ph/file/0106b23bf0d02ab6bb4f0.jpg",
+        "https://telegra.ph/file/bd9475a6c1c6209210c89.jpg",
+        "https://telegra.ph/file/cbe54a92e5ff757f383e8.jpg",
+        "https://telegra.ph/file/29095553182b27cb9669e.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/993f07f1c165f24f54716.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/f4c81417157faf3d84e72.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

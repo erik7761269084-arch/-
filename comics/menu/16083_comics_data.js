@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16083,
+    "title": "(MBFes TOKYO inプラザマーム) [徒歩二分 (茶戸)] 全力惚れ薬ムーブ (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "sourceUrl": "https://telegra.ph/MBFes-TOKYO-inプラザマーム-徒歩二分-茶戸-全力惚れ薬ムーブ-ラブライブ-虹ヶ咲学園スクールアイドル同好会--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/1dd2d2070585235ada89e.jpg",
+        "https://telegra.ph/file/09bed583a22ae6d32ad41.jpg",
+        "https://telegra.ph/file/76ba00f939519a78bf7fa.jpg",
+        "https://telegra.ph/file/7d0efffe06abfaf78b62e.jpg",
+        "https://telegra.ph/file/9fe91beb53caac3569ab6.jpg",
+        "https://telegra.ph/file/4b08f0cac4d886b742e92.jpg",
+        "https://telegra.ph/file/bf47ce670a356928eed2f.jpg",
+        "https://telegra.ph/file/b6dfa39092dac439eb800.jpg",
+        "https://telegra.ph/file/edfcf3a757d0b9d0803ad.jpg",
+        "https://telegra.ph/file/cb57e4f8d817e77299fd0.jpg",
+        "https://telegra.ph/file/9d4fc7276d3bcba5ea162.jpg",
+        "https://telegra.ph/file/50514fbaabe4bdfa5dc00.jpg",
+        "https://telegra.ph/file/b687aebd34cc8554b1bd9.jpg",
+        "https://telegra.ph/file/7f2db18eaacce12497cce.jpg",
+        "https://telegra.ph/file/649c4615e247d0d40de49.jpg",
+        "https://telegra.ph/file/882ba35930945edfb2040.jpg",
+        "https://telegra.ph/file/5a9152cf24e9f61b1462a.jpg",
+        "https://telegra.ph/file/cadcc83ffa434422e4500.jpg",
+        "https://telegra.ph/file/6d875a633fb52927aa9e7.jpg",
+        "https://telegra.ph/file/52e32226a1ed329ae231e.jpg",
+        "https://telegra.ph/file/b86612bab735c9987fb64.jpg",
+        "https://telegra.ph/file/a3691f7afbcb31068cd94.jpg",
+        "https://telegra.ph/file/78afd1182d85123be0a87.jpg",
+        "https://telegra.ph/file/177fa8d7821005bd1ec44.jpg",
+        "https://telegra.ph/file/7e48e5b610ede6ec489ec.jpg",
+        "https://telegra.ph/file/04a9c4f90b6d3e34d67a0.jpg",
+        "https://telegra.ph/file/51ffd9a4027bdd569c01b.jpg",
+        "https://telegra.ph/file/e71e2e77d8b52dde1d5a4.jpg",
+        "https://telegra.ph/file/0ad7ec96ef5884a37ba18.jpg",
+        "https://telegra.ph/file/51db963685563b8f359b3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

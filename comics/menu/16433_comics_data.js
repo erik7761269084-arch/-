@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16433,
+    "title": "(結束ロック! 2) [ふたりぼっちのSolitude (wano)] 流星群とはぐれた星をきっと見つけるよ。 (ぼっち・ざ・ろっく!) -Preview",
+    "sourceUrl": "https://telegra.ph/結束ロック-2-ふたりぼっちのSolitude-wano-流星群とはぐれた星をきっと見つけるよ-ぼっちざろっく--Preview-08-31-2",
+    "images": [
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/001.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/002.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/003.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/004.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/005.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/006.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/007.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/008.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/009.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/010.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/011.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/012.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/013.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/014.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/015.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/016.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/017.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/018.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/019.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/020.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/021.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/022.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/023.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/024.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/025.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/026.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/027.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/028.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/029.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/030.webp",
+        "https://i2.linghua.xyz/ex/3169988/e24364ede2/_.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

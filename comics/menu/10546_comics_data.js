@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10546,
+    "title": "[だいじ] キング・オブ・キングス (コミック エグゼ 27)",
+    "sourceUrl": "https://telegra.ph/だいじ-キングオブキングス-コミック-エグゼ-27-08-31",
+    "images": [
+        "https://telegra.ph/file/ef1144b9326fc0db49603.jpg",
+        "https://telegra.ph/file/4c7ade4e88e568dacf713.jpg",
+        "https://telegra.ph/file/be91d748d8254ecb5310a.jpg",
+        "https://telegra.ph/file/0a1490d4ec4d3dd99827f.jpg",
+        "https://telegra.ph/file/5e5aaa16a0b8da5c20e43.jpg",
+        "https://telegra.ph/file/b34cafe90ce703feeeb44.jpg",
+        "https://telegra.ph/file/a579b9cbaca3781f3feee.jpg",
+        "https://telegra.ph/file/2879422ed2a9902e28c58.jpg",
+        "https://telegra.ph/file/49433762bef881def01f7.jpg",
+        "https://telegra.ph/file/b753c81df3dcc3d049745.jpg",
+        "https://telegra.ph/file/3ee2754856b23f9e58b99.jpg",
+        "https://telegra.ph/file/35157ee64fe8aee300aa3.jpg",
+        "https://telegra.ph/file/e2e8be7dd590ec852e932.jpg",
+        "https://telegra.ph/file/c591b37d92a175ec93a37.jpg",
+        "https://telegra.ph/file/9c07e75232d21a3cac2da.jpg",
+        "https://telegra.ph/file/56431940a16d7b456dc18.jpg",
+        "https://telegra.ph/file/a6c76b3e56d09a210f7eb.jpg",
+        "https://telegra.ph/file/895a3adb058fb623641cb.jpg",
+        "https://telegra.ph/file/62db1b54e60218e2eb6eb.jpg",
+        "https://telegra.ph/file/f1e6a1c90f956c7e611e7.jpg",
+        "https://telegra.ph/file/439c6b6367181d12a0db5.jpg",
+        "https://telegra.ph/file/28779ecc0f17f4aca5efd.jpg",
+        "https://telegra.ph/file/7fe0ed89d508ad20c1638.jpg",
+        "https://telegra.ph/file/1e273d781e15ffee98a45.jpg",
+        "https://telegra.ph/file/8f3552e674764f2fd4236.jpg",
+        "https://telegra.ph/file/68af6dc7dd3bdfa7d0914.jpg",
+        "https://telegra.ph/file/2b580969bf83c51b17863.jpg",
+        "https://telegra.ph/file/454fcad07a1c1cc918320.jpg",
+        "https://telegra.ph/file/e978b1fedf89956c91828.jpg",
+        "https://telegra.ph/file/f79637e096cbb2441f1cf.jpg",
+        "https://telegra.ph/file/df832c3c240a8c2813ec0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

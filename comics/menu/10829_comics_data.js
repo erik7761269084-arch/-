@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10829,
+    "title": "[ちんちん亭 (chin)] 洗脳巫女と世継ぎをつくろう！ (東方Project)",
+    "sourceUrl": "https://telegra.ph/ちんちん亭-chin-洗脳巫女と世継ぎをつくろう-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/93b4609181d695f52ecb6.jpg",
+        "https://telegra.ph/file/ccf6397a3ac8769a347d1.jpg",
+        "https://telegra.ph/file/2712069bfda1151745813.jpg",
+        "https://telegra.ph/file/619f93bff39068fb28c97.jpg",
+        "https://telegra.ph/file/6746cb95c3075b155c86f.jpg",
+        "https://telegra.ph/file/9c442025031a9aca5e1d6.jpg",
+        "https://telegra.ph/file/03da653d8f14cce6ebc9c.jpg",
+        "https://telegra.ph/file/f13aff8d97b314ccef948.jpg",
+        "https://telegra.ph/file/65c437e3526f9919c5678.jpg",
+        "https://telegra.ph/file/b240510e74a977d0b22e1.jpg",
+        "https://telegra.ph/file/3d9e20b3c2d440c48776b.jpg",
+        "https://telegra.ph/file/031d47e697065364e160d.jpg",
+        "https://telegra.ph/file/162bb8843848665736969.jpg",
+        "https://telegra.ph/file/8d280aec0b02d32338004.jpg",
+        "https://telegra.ph/file/7b9bd47124df992892231.jpg",
+        "https://telegra.ph/file/1a31d189d2f8c94af4f20.jpg",
+        "https://telegra.ph/file/47c411761bd4fcf425636.jpg",
+        "https://telegra.ph/file/2213d7f1b012236015c39.jpg",
+        "https://telegra.ph/file/c1fae474c6420b270a003.jpg",
+        "https://telegra.ph/file/39052763fd23b6f29e318.jpg",
+        "https://telegra.ph/file/e3262a0258e91313628df.jpg",
+        "https://telegra.ph/file/99e60b2816924329b6de3.jpg",
+        "https://telegra.ph/file/2df181d91238ff8dc9f6d.jpg",
+        "https://telegra.ph/file/ddf04bb11923aed945bf9.jpg",
+        "https://telegra.ph/file/1d60d5482b3824f83d0ae.jpg",
+        "https://telegra.ph/file/093af78d5964af6a83104.jpg",
+        "https://telegra.ph/file/527f11b7024f483eb52aa.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

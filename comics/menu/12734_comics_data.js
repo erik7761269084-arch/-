@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12734,
+    "title": "(AC2) [Circle Eden (ヂイスケ)] 奥さんのおっぱいがデカすぎるのが悪い!3 (東方Project)",
+    "sourceUrl": "https://telegra.ph/AC2-Circle-Eden-ヂイスケ-奥さんのおっぱいがデカすぎるのが悪い3-東方Project-08-31-2",
+    "images": [
+        "https://telegra.ph/file/a5f09022225201d526715.jpg",
+        "https://telegra.ph/file/7a03c955589f2f04a2227.jpg",
+        "https://telegra.ph/file/512b2549442f83d20a0da.jpg",
+        "https://telegra.ph/file/77194c81f37abb2040e4e.jpg",
+        "https://telegra.ph/file/7945447c71e2107ef15d0.jpg",
+        "https://telegra.ph/file/00253e333bae96759d376.jpg",
+        "https://telegra.ph/file/8145d298ae07957dbbebe.jpg",
+        "https://telegra.ph/file/58e032decd43ca828d588.jpg",
+        "https://telegra.ph/file/c87f32c2dee5ad4f30ce9.jpg",
+        "https://telegra.ph/file/27781454e4acd2d488e22.jpg",
+        "https://telegra.ph/file/73dba014f4953305d4d82.jpg",
+        "https://telegra.ph/file/7102bb92314abad013b3c.jpg",
+        "https://telegra.ph/file/591bfbb0bc48bbb6d46d8.jpg",
+        "https://telegra.ph/file/9ad4725bb2cfadbfc38b7.jpg",
+        "https://telegra.ph/file/3760338b9d2fd36bc41cb.jpg",
+        "https://telegra.ph/file/6cc75706cc5e917b4ef11.jpg",
+        "https://telegra.ph/file/5e68c02452bfcbed95e8e.jpg",
+        "https://telegra.ph/file/647275da63854eb3c2d57.jpg",
+        "https://telegra.ph/file/4199339397b151fc13500.jpg",
+        "https://telegra.ph/file/b29f475036c83c2d8e81e.jpg",
+        "https://telegra.ph/file/862ffad832a845d35764b.jpg",
+        "https://telegra.ph/file/7c1b33965a65c9350262a.jpg",
+        "https://telegra.ph/file/14c7757eb6bc5cd8829fe.jpg",
+        "https://telegra.ph/file/758dd7fad248e15678757.jpg",
+        "https://telegra.ph/file/0d7e856eb05e46b5f335b.jpg",
+        "https://telegra.ph/file/7a8de6dd96d4dfd228ba4.jpg",
+        "https://telegra.ph/file/5a5df25dbcfe2af9f9da2.jpg",
+        "https://telegra.ph/file/f5c7f28d891ae8186b4c2.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

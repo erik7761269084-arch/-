@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11625,
+    "title": "[海ニューロン] ウォー様は性欲がつよい。 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/海ニューロン-ウォー様は性欲がつよい-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/536bea847133d03ec638c.jpg",
+        "https://telegra.ph/file/e358d6ac13892ef3f0a0a.jpg",
+        "https://telegra.ph/file/31e71c5388e8cc26cb927.jpg",
+        "https://telegra.ph/file/189775e2c6208172f7be9.jpg",
+        "https://telegra.ph/file/8fac480076a92c1bd2cb3.jpg",
+        "https://telegra.ph/file/0c6e946d9509de74eaa41.jpg",
+        "https://telegra.ph/file/112f07416a8ae17c0660f.jpg",
+        "https://telegra.ph/file/464425b018d0a5966fa11.jpg",
+        "https://telegra.ph/file/fc80006b791460a904234.jpg",
+        "https://telegra.ph/file/42d919f5360f009f34c2a.jpg",
+        "https://telegra.ph/file/432a9a32a6331122de42c.jpg",
+        "https://telegra.ph/file/6e65acced359cddd254a4.jpg",
+        "https://telegra.ph/file/993b30f0e1558abb89225.jpg",
+        "https://telegra.ph/file/7a670601390d55bd2a5ab.jpg",
+        "https://telegra.ph/file/a582b49c6d2dcdbad9dab.jpg",
+        "https://telegra.ph/file/90d5414bf3765c1db21e2.jpg",
+        "https://telegra.ph/file/37a8cb3ee8fbd9891ca80.jpg",
+        "https://telegra.ph/file/965d9329f26aae729c6f8.jpg",
+        "https://telegra.ph/file/fce3207a13be7927dbb22.jpg",
+        "https://telegra.ph/file/42dc327dc1bccfb52c8e7.jpg",
+        "https://telegra.ph/file/f28033e0adfa8f20c5644.jpg",
+        "https://telegra.ph/file/fb7be6a7aa3b7d5926bcc.jpg",
+        "https://telegra.ph/file/01538c03b43ff95dda9f7.jpg",
+        "https://telegra.ph/file/fcb7d97176c54defe8c09.jpg",
+        "https://telegra.ph/file/57ab6721a93f7cc05d4e3.jpg",
+        "https://telegra.ph/file/c89226d0d1654c6b4141d.jpg",
+        "https://telegra.ph/file/04f8daf9c3408ffa5695e.jpg",
+        "https://telegra.ph/file/e0f06f6486cc0a406be7f.jpg",
+        "https://telegra.ph/file/c3c475b61539808acce1a.jpg",
+        "https://telegra.ph/file/cca27d0b71db49d11b3cf.jpg",
+        "https://telegra.ph/file/4ac413a9dff55e327cc93.jpg",
+        "https://telegra.ph/file/703af27a0dba43fc0fd17.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

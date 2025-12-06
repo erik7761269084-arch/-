@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11267,
+    "title": "[ゆずぽん酢 (さこきち)] IN RAN-WOMEN2 怪人弩Sに敗北した姉妹 (ワンパンマン)",
+    "sourceUrl": "https://telegra.ph/ゆずぽん酢-さこきち-IN-RAN-WOMEN2-怪人弩Sに敗北した姉妹-ワンパンマン-08-31",
+    "images": [
+        "https://telegra.ph/file/fbbb2feee5ef2378d13b8.jpg",
+        "https://telegra.ph/file/d07ad384982db2a8b6fd9.jpg",
+        "https://telegra.ph/file/9d7e26a70ecce148a710b.jpg",
+        "https://telegra.ph/file/09998e6be042432022ba2.jpg",
+        "https://telegra.ph/file/17004729342c5bed0b75d.jpg",
+        "https://telegra.ph/file/a5eb0ec6b3dd093bd7f4a.jpg",
+        "https://telegra.ph/file/5f8ac3aa26eb51538d6ef.jpg",
+        "https://telegra.ph/file/75344aaef47e430c35524.jpg",
+        "https://telegra.ph/file/23ee958dbdaa4a266f932.jpg",
+        "https://telegra.ph/file/acb18530bf53cd0cc0688.jpg",
+        "https://telegra.ph/file/36a3929876ab5e1d7b103.jpg",
+        "https://telegra.ph/file/97be8b8eae7466010c86d.jpg",
+        "https://telegra.ph/file/a2f970d3d3221c1fa693f.jpg",
+        "https://telegra.ph/file/bf09564580ca0b8002833.jpg",
+        "https://telegra.ph/file/1afcb7571c2e1b5b7b2af.jpg",
+        "https://telegra.ph/file/13d8c9b2436f0bf6c2939.jpg",
+        "https://telegra.ph/file/b9cbd626bcf3684fe70a1.jpg",
+        "https://telegra.ph/file/4f9696b7afa12d45803ce.jpg",
+        "https://telegra.ph/file/1ef88c868d51316c8204e.jpg",
+        "https://telegra.ph/file/5b916ae74ebc3b9d4fdb6.jpg",
+        "https://telegra.ph/file/dcd9d64babc423bf84c79.jpg",
+        "https://telegra.ph/file/17871219de02f350b6a76.jpg",
+        "https://telegra.ph/file/222a938794fb9b1df197d.jpg",
+        "https://telegra.ph/file/0eb063617a09255da96d6.jpg",
+        "https://telegra.ph/file/75ce8533a8c6c5b284daa.jpg",
+        "https://telegra.ph/file/6b3d4e2e656a500d9f27f.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/b09400e379de049c90d99.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

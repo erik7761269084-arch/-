@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10138,
+    "title": "(C92) [KiraStar (M.vv)] 英梨々の秘密ダイアリー (冴えない彼女の育てかた)",
+    "sourceUrl": "https://telegra.ph/C92-KiraStar-Mvv-英梨々の秘密ダイアリー-冴えない彼女の育てかた-08-31",
+    "images": [
+        "https://telegra.ph/file/4e4abbaa56791f8809395.jpg",
+        "https://telegra.ph/file/99738cf38f1984b5605dd.jpg",
+        "https://telegra.ph/file/ecda3a0526d818b1ab405.jpg",
+        "https://telegra.ph/file/cfc310f76a47d27b9d616.jpg",
+        "https://telegra.ph/file/9a469f9a6803417e6abef.jpg",
+        "https://telegra.ph/file/73a4a12fe5a2fb24a1487.jpg",
+        "https://telegra.ph/file/e0d4e85346434e4e22aaa.jpg",
+        "https://telegra.ph/file/9b8468d9fd0acca769002.jpg",
+        "https://telegra.ph/file/c1cc512e8d2ddee4a6754.jpg",
+        "https://telegra.ph/file/2dfb31ca4699a1a89f9fe.jpg",
+        "https://telegra.ph/file/667c3bdc2932d6f8dc0bd.jpg",
+        "https://telegra.ph/file/e8bba267d745b7bd2e535.jpg",
+        "https://telegra.ph/file/6529b1c41183927a7eaa7.jpg",
+        "https://telegra.ph/file/68ab5234bee5c8b891183.jpg",
+        "https://telegra.ph/file/be58dbe04fb3061e28173.jpg",
+        "https://telegra.ph/file/6e0eb1b03cfe9ba233ea0.jpg",
+        "https://telegra.ph/file/ef4fc3978a19e55000464.jpg",
+        "https://telegra.ph/file/b873e90b2a68fd1df80d0.jpg",
+        "https://telegra.ph/file/65ce6309fd7a5660f036a.jpg",
+        "https://telegra.ph/file/8b0c476d250f7a776e38a.jpg",
+        "https://telegra.ph/file/44821cdc4b06de34761bb.jpg",
+        "https://telegra.ph/file/affe7a2c5aa5d545f6da0.jpg",
+        "https://telegra.ph/file/39e4a8b099f7be23c06b0.jpg",
+        "https://telegra.ph/file/e86ed154864738528c1c7.jpg",
+        "https://telegra.ph/file/893720c0f02287356beaa.jpg",
+        "https://telegra.ph/file/033c89366512cecb00233.jpg",
+        "https://telegra.ph/file/4103ccd23d077e308d073.jpg",
+        "https://telegra.ph/file/320f8f1459143f860a486.jpg",
+        "https://telegra.ph/file/8da91efbb9160d2c2db56.jpg",
+        "https://telegra.ph/file/9256154d10083f02087a8.jpg",
+        "https://telegra.ph/file/1df22208e3d1ef58727f0.jpg",
+        "https://telegra.ph/file/b88846edbbfebc57a8245.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

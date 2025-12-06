@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15900,
+    "title": "[テツガイ“я” (ブラズィ一 ル)] どり一む♡ぼ一しょん (ラブライブ! 蓮ノ空女学院スクールアイドルクラブ)  -Preview",
+    "sourceUrl": "https://telegra.ph/テツガイya-ブラズィ一-ル-どり一むぼ一しょん-ラブライブ-蓮ノ空女学院スクールアイドルクラブ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/07e57b61ab6160ee64019.jpg",
+        "https://telegra.ph/file/257c9471ab34a29e9097b.jpg",
+        "https://telegra.ph/file/feccc9a08396062ebf3f2.jpg",
+        "https://telegra.ph/file/91b426ef5f09d6e4c3762.jpg",
+        "https://telegra.ph/file/d1183538f0fdf3377e5a8.jpg",
+        "https://telegra.ph/file/6fa553f34d7f2f393d75b.jpg",
+        "https://telegra.ph/file/030af2f5795641d1b00c2.jpg",
+        "https://telegra.ph/file/939a3229b7255e6800953.jpg",
+        "https://telegra.ph/file/7b09d3cfa82ec34049e55.jpg",
+        "https://telegra.ph/file/02ba412510fda40ca17f7.jpg",
+        "https://telegra.ph/file/fa48caf58288d76a83b68.jpg",
+        "https://telegra.ph/file/9297ac2afe912115a7163.jpg",
+        "https://telegra.ph/file/6468e44cc9ac970e68b29.jpg",
+        "https://telegra.ph/file/09516eaf434eab5df4e99.jpg",
+        "https://telegra.ph/file/dfc9b3fb358f65ca6f0ca.jpg",
+        "https://telegra.ph/file/56dc9fd435dd3b5fadfcc.jpg",
+        "https://telegra.ph/file/1aefabe3963429bd18deb.jpg",
+        "https://telegra.ph/file/dfcdc6e8d4cf4b5eab16c.jpg",
+        "https://telegra.ph/file/2e5307380b17e016f3bf3.jpg",
+        "https://telegra.ph/file/cb96ada4923fb325440bf.jpg",
+        "https://telegra.ph/file/e536582816b113bd70b75.jpg",
+        "https://telegra.ph/file/6f24479a63c72d59afbfd.jpg",
+        "https://telegra.ph/file/1a05375a8a1323cc44ea8.jpg",
+        "https://telegra.ph/file/ac706c9d64e3c1cf0c648.jpg",
+        "https://telegra.ph/file/a87e110a72be19fa1356c.jpg",
+        "https://telegra.ph/file/b732527cfce74ea22062b.jpg",
+        "https://telegra.ph/file/2d2c291d1b7b54e27ac1b.jpg",
+        "https://telegra.ph/file/f78f3913053228b488463.jpg",
+        "https://telegra.ph/file/f1c4a51f13a46599fa834.jpg",
+        "https://telegra.ph/file/8e6c467ff0a15121bfcdd.jpg",
+        "https://telegra.ph/file/666da3630637bd6ba0058.jpg",
+        "https://telegra.ph/file/d2927ad151084545ba604.jpg",
+        "https://telegra.ph/file/6b5a44a410e4b550e8f16.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

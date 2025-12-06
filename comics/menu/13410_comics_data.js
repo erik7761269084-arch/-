@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13410,
+    "title": "男慣れしたい従姉妹にいっぱい♥♥♥気持ちいい♥えっち",
+    "sourceUrl": "https://telegra.ph/男慣れしたい従姉妹にいっぱい気持ちいいえっち-08-31",
+    "images": [
+        "https://telegra.ph/file/be7de20e617390fe331ee.jpg",
+        "https://telegra.ph/file/2755a79e8859bad3fc4d9.jpg",
+        "https://telegra.ph/file/863f34b5ea8e83d65f61b.jpg",
+        "https://telegra.ph/file/17b8b25c90d2f8be97cb5.jpg",
+        "https://telegra.ph/file/eca3c1cdee6a52ea47d84.jpg",
+        "https://telegra.ph/file/db69e14e45be8459ee0e4.jpg",
+        "https://telegra.ph/file/584946542346a6767491e.jpg",
+        "https://telegra.ph/file/d0a4d0a46908d605dd67b.jpg",
+        "https://telegra.ph/file/30f3eb36019fd242172ea.jpg",
+        "https://telegra.ph/file/3bb818763d210a4f58d64.jpg",
+        "https://telegra.ph/file/db5aebaf5a6d5ff8a369c.jpg",
+        "https://telegra.ph/file/dc46ec9594d03635f1191.jpg",
+        "https://telegra.ph/file/183ee19576bb90b9097d7.jpg",
+        "https://telegra.ph/file/84b88c414d6cba22c4f7c.jpg",
+        "https://telegra.ph/file/bcfb0edc4b0c21311145c.jpg",
+        "https://telegra.ph/file/d5f3a7dcbe99e4b6057f9.jpg",
+        "https://telegra.ph/file/0d04ec184bd6de1301d01.jpg",
+        "https://telegra.ph/file/5c25de2cfb83dc9942f83.jpg",
+        "https://telegra.ph/file/1b5b1ffc13e92f56aea51.jpg",
+        "https://telegra.ph/file/2095aa770893410842d1e.jpg",
+        "https://telegra.ph/file/638981a10eaf621765dca.jpg",
+        "https://telegra.ph/file/1bd5c19100ba2a0046365.jpg",
+        "https://telegra.ph/file/42f0afce860f9c6e73f44.jpg",
+        "https://telegra.ph/file/b87050872fab64c359d19.jpg",
+        "https://telegra.ph/file/3f90748970ecda050f01c.jpg",
+        "https://telegra.ph/file/0a9326cc6eb43ce7c17fd.jpg",
+        "https://telegra.ph/file/22e40bcd156ed66a247a2.jpg",
+        "https://telegra.ph/file/a89d7ac00f14455b113d3.jpg",
+        "https://telegra.ph/file/db82be69ee99fa9c115ae.jpg",
+        "https://telegra.ph/file/bd470c0ec54342929651b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

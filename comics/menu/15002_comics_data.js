@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15002,
+    "title": "(Reitaisai 16) [Mugendai (Humei)] Kono dokidoki wa koi janai (Touhou Project)  [南喵Scsyl个人汉化]",
+    "sourceUrl": "https://telegra.ph/Reitaisai-16-Mugendai-Humei-Kono-dokidoki-wa-koi-janai-Touhou-Project-南喵Scsyl个人汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/d3dbd6b554541ed92b0ee.jpg",
+        "https://telegra.ph/file/33887e097e2a5045bb38a.jpg",
+        "https://telegra.ph/file/a1b42efc70fd69424d24f.jpg",
+        "https://telegra.ph/file/4cf78615cac80d852a86f.jpg",
+        "https://telegra.ph/file/52fbb33e0b09eb43f8f0c.jpg",
+        "https://telegra.ph/file/a660fcc00ef1b16ff034b.jpg",
+        "https://telegra.ph/file/c1da66e6b038c251b5205.jpg",
+        "https://telegra.ph/file/b3f35f73149451d79f62b.jpg",
+        "https://telegra.ph/file/67bfac9aa8e1eba7f9890.jpg",
+        "https://telegra.ph/file/8bcc07562b180041339c0.jpg",
+        "https://telegra.ph/file/51740e18a043fb54d3315.jpg",
+        "https://telegra.ph/file/f12597d6b398555abf209.jpg",
+        "https://telegra.ph/file/2f9bc8fdbf5df3306926e.jpg",
+        "https://telegra.ph/file/774899cb3c469e7be76ee.jpg",
+        "https://telegra.ph/file/ea21ccac427a2f5caadf3.jpg",
+        "https://telegra.ph/file/045912ab7593261cf03f9.jpg",
+        "https://telegra.ph/file/2c05e13c0592fbd2f196e.jpg",
+        "https://telegra.ph/file/673c77a56f195f5c9c80a.jpg",
+        "https://telegra.ph/file/3d27b9ed41b35e31544ba.jpg",
+        "https://telegra.ph/file/b304d178290e2eeaf28f2.jpg",
+        "https://telegra.ph/file/29e73e209a1c06b291958.jpg",
+        "https://telegra.ph/file/698383f874a773921de11.jpg",
+        "https://telegra.ph/file/6bf63ea20b0f58c451287.jpg",
+        "https://telegra.ph/file/d69174b9edb4346e36218.jpg",
+        "https://telegra.ph/file/8ac6e8c4b8bf1e9643199.jpg",
+        "https://telegra.ph/file/e63c7ae24be598f8c2b69.jpg",
+        "https://telegra.ph/file/1aa355983f475ee0a5e54.jpg",
+        "https://telegra.ph/file/96124fd340cde54bbc3e5.jpg",
+        "https://telegra.ph/file/f6b32757a6645b7ed7351.jpg",
+        "https://telegra.ph/file/d86e68922f5990d4ad545.jpg",
+        "https://telegra.ph/file/175f07b9157bb6bd7ef03.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11801,
+    "title": "[LBL] ロリババお義母さんは押しに弱い",
+    "sourceUrl": "https://telegra.ph/LBL-ロリババお義母さんは押しに弱い-08-31-2",
+    "images": [
+        "https://telegra.ph/file/380c3fb3c1bfe61c9934d.jpg",
+        "https://telegra.ph/file/8b2e272aac04b1a350b18.jpg",
+        "https://telegra.ph/file/2409e250763209b0d71ff.jpg",
+        "https://telegra.ph/file/a8ac82199a4a20c709e23.jpg",
+        "https://telegra.ph/file/0370ad018891144c220e4.jpg",
+        "https://telegra.ph/file/8f782ca38205ee4254ad8.jpg",
+        "https://telegra.ph/file/e1b032f130f6fa5b53db3.jpg",
+        "https://telegra.ph/file/46443fea0749a9bbc504b.jpg",
+        "https://telegra.ph/file/2dae5afb1d0537f81455d.jpg",
+        "https://telegra.ph/file/1697f3d7101b9b679d3d8.jpg",
+        "https://telegra.ph/file/4a12c0836891310723b49.jpg",
+        "https://telegra.ph/file/81b6c728443ddf9419262.jpg",
+        "https://telegra.ph/file/5ee41b08c1f3c7b6173cc.jpg",
+        "https://telegra.ph/file/e002210882b51d9d15418.jpg",
+        "https://telegra.ph/file/d574ac605130699c29e31.jpg",
+        "https://telegra.ph/file/067cd291f7b87447e0e79.jpg",
+        "https://telegra.ph/file/42d1d561a62e9528cc8bc.jpg",
+        "https://telegra.ph/file/7edd8f0e02affdb47d382.jpg",
+        "https://telegra.ph/file/82274718c944617fe526b.jpg",
+        "https://telegra.ph/file/cc4105570224211d925fc.jpg",
+        "https://telegra.ph/file/f5824f7800bf068d2b8ce.jpg",
+        "https://telegra.ph/file/cf1ee0c0bdedf98d82321.jpg",
+        "https://telegra.ph/file/5737e0876204e44683990.jpg",
+        "https://telegra.ph/file/073afd8cd2f7782107eb8.jpg",
+        "https://telegra.ph/file/38bf4179c0d22c264c759.jpg",
+        "https://telegra.ph/file/1e484c15feb84dd16378f.jpg",
+        "https://telegra.ph/file/93ecb84ceec79b83ca32f.jpg",
+        "https://telegra.ph/file/8c4394109a432ee322e18.jpg",
+        "https://telegra.ph/file/c9589e3e7a291131c8990.jpg",
+        "https://telegra.ph/file/f3dceb97359c0ef7f6294.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

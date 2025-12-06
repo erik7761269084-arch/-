@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9645,
+    "title": "[虎助遥人] 口約束 (COMIC アンスリウム 2020年9月号)",
+    "sourceUrl": "https://telegra.ph/虎助遥人-口約束-COMIC-アンスリウム-2020年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/99796c9c593409659eb9d.jpg",
+        "https://telegra.ph/file/68a6917c18a5f3ed3db0d.jpg",
+        "https://telegra.ph/file/b3475bed9d53c9a427d29.png",
+        "https://telegra.ph/file/a82cda268b872032da9d0.jpg",
+        "https://telegra.ph/file/cf9aabaa3ca95656c3e09.jpg",
+        "https://telegra.ph/file/1b683163c305c4fcd96eb.png",
+        "https://telegra.ph/file/7a96f2ec54487883ae131.png",
+        "https://telegra.ph/file/a7765dd22e6a952a50546.png",
+        "https://telegra.ph/file/25e15660b9496b2ff2ffd.jpg",
+        "https://telegra.ph/file/74bf68c476a90668ef997.jpg",
+        "https://telegra.ph/file/3d6e14dddf91de6c02af2.jpg",
+        "https://telegra.ph/file/98229f78372a219b6a8ed.jpg",
+        "https://telegra.ph/file/fa29e89cf78e52eeab74f.jpg",
+        "https://telegra.ph/file/f33ed568ca420aa777de1.jpg",
+        "https://telegra.ph/file/a00b999394cdaedf458d2.jpg",
+        "https://telegra.ph/file/13d80e0dd3514d3e59477.jpg",
+        "https://telegra.ph/file/927e624a6ab6b74e35576.jpg",
+        "https://telegra.ph/file/8c1ec0f53c7d33936591d.png",
+        "https://telegra.ph/file/b61076e934f85057e8fe8.jpg",
+        "https://telegra.ph/file/b5d91f16f4ae7a6888373.jpg",
+        "https://telegra.ph/file/baf8e2770327a9ba82d6e.jpg",
+        "https://telegra.ph/file/e8c2ad7751e94ff309be1.jpg",
+        "https://telegra.ph/file/49e66f9d37d8039feab3f.jpg",
+        "https://telegra.ph/file/f84dffb3b3f6acc7a48d5.jpg",
+        "https://telegra.ph/file/6b1cd6de5c18e67489c79.jpg",
+        "https://telegra.ph/file/8c4551d90cb07137ee610.jpg",
+        "https://telegra.ph/file/329c259ba7ccf608b9cf4.jpg",
+        "https://telegra.ph/file/fe39e4fe33ee1d6471796.jpg",
+        "https://telegra.ph/file/1770565546f2a60c1ad36.jpg",
+        "https://telegra.ph/file/559d294cd06c2a14cb189.jpg",
+        "https://telegra.ph/file/557b3cb7b3d01cb923357.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

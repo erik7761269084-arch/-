@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9317,
+    "title": "[憑依(はい)る抜け道 (あるべんと、椎名悠輝)] 憑依汚染で百合えっち",
+    "sourceUrl": "https://telegra.ph/憑依はいる抜け道-あるべんと椎名悠輝-憑依汚染で百合えっち-08-31",
+    "images": [
+        "https://telegra.ph/file/50f1b31207e381c70fc09.jpg",
+        "https://telegra.ph/file/6723000f8aaba7bd23edb.jpg",
+        "https://telegra.ph/file/c94f63299b896f8b865e8.jpg",
+        "https://telegra.ph/file/f3d7839bfd7065d633929.jpg",
+        "https://telegra.ph/file/18ab5a3b54e284025acef.jpg",
+        "https://telegra.ph/file/d6a95738024e3ac845fa1.jpg",
+        "https://telegra.ph/file/211cb83d7c3db9c6a0aeb.jpg",
+        "https://telegra.ph/file/ebb2101cf488ee32aa66b.jpg",
+        "https://telegra.ph/file/577c4250b6edaa4ebdefe.jpg",
+        "https://telegra.ph/file/b63e60d653da8a1a4f0b2.jpg",
+        "https://telegra.ph/file/cb8f4ebf94122899e5f05.jpg",
+        "https://telegra.ph/file/f5644bb747f2565e10364.jpg",
+        "https://telegra.ph/file/eeb681ac8283ed85cd4a9.jpg",
+        "https://telegra.ph/file/45c0d206edff6a239aacd.jpg",
+        "https://telegra.ph/file/6367a7a5783004b227493.jpg",
+        "https://telegra.ph/file/af83ae1abd979933dcfb4.jpg",
+        "https://telegra.ph/file/fc1d41f081715a0754c7a.jpg",
+        "https://telegra.ph/file/dc8d8e2aa18cbfdb0102a.jpg",
+        "https://telegra.ph/file/eed2048e1b09daadc047e.jpg",
+        "https://telegra.ph/file/061f5e355631fd2cca0c8.jpg",
+        "https://telegra.ph/file/87a98d63808e4aa9fa645.jpg",
+        "https://telegra.ph/file/ecac364bf992096d86ad3.jpg",
+        "https://telegra.ph/file/b218f62e2bd2927e4b591.jpg",
+        "https://telegra.ph/file/ae2848aed7696895fb7a3.jpg",
+        "https://telegra.ph/file/77db2a14cd31c2f99033f.jpg",
+        "https://telegra.ph/file/eae568153404047cabf0a.jpg",
+        "https://telegra.ph/file/59907cffab1a84ed67cce.jpg",
+        "https://telegra.ph/file/69415a204472f8210d2d8.jpg",
+        "https://telegra.ph/file/3ad9d8f7ee0d7d270e25b.jpg",
+        "https://telegra.ph/file/881568e62eb5343de49e2.jpg",
+        "https://telegra.ph/file/b9fe458a253ab19af6c92.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

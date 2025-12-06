@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14213,
+    "title": "[kiasa] ナニしてもいいヒト (コミックホットミルク 2021年8月号)",
+    "sourceUrl": "https://telegra.ph/kiasa-ナニしてもいいヒト-コミックホットミルク-2021年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f69d5cc3714e6ad7fafbb.jpg",
+        "https://telegra.ph/file/6beefe0973474860f383c.jpg",
+        "https://telegra.ph/file/89160299641062659fc11.jpg",
+        "https://telegra.ph/file/82e587c392d3a5314de3c.jpg",
+        "https://telegra.ph/file/71807fc93970252f7a21c.jpg",
+        "https://telegra.ph/file/3e7d9badd56b49b6a4b1e.jpg",
+        "https://telegra.ph/file/8111a499fa00f122044f6.jpg",
+        "https://telegra.ph/file/ef6f3e28d681a25a3f5a9.jpg",
+        "https://telegra.ph/file/04cfe00760e404b1ae812.jpg",
+        "https://telegra.ph/file/fca763e652201efbad3a1.jpg",
+        "https://telegra.ph/file/7347c13ef774d4adee7cb.jpg",
+        "https://telegra.ph/file/fe15989e7451e8e338ce6.jpg",
+        "https://telegra.ph/file/eb15eb446c7e8e858749f.jpg",
+        "https://telegra.ph/file/a08a98ee5ba4f63969329.jpg",
+        "https://telegra.ph/file/83890bc0a49bcd7329bd3.jpg",
+        "https://telegra.ph/file/87be0e831c1522fe2c914.jpg",
+        "https://telegra.ph/file/359222414e8d6dae3efcc.jpg",
+        "https://telegra.ph/file/5982c70188fd3bfdb3ff0.jpg",
+        "https://telegra.ph/file/cfc07a793427d90fc5ca8.jpg",
+        "https://telegra.ph/file/ada2bc34785bcb479f042.jpg",
+        "https://telegra.ph/file/d6bcff80bc44571162037.jpg",
+        "https://telegra.ph/file/0686964f39888cbd6025a.jpg",
+        "https://telegra.ph/file/560d613ae0a3dee23546c.jpg",
+        "https://telegra.ph/file/5825c56ab39be6027cbda.jpg",
+        "https://telegra.ph/file/df02f024fa24d508504d3.jpg",
+        "https://telegra.ph/file/9b6f3320b9688636e0fb9.jpg",
+        "https://telegra.ph/file/e298febf5937e877dbb16.jpg",
+        "https://telegra.ph/file/6d99cb53f4a5a83e5df64.jpg",
+        "https://telegra.ph/file/8e0c1970cf9147d37c3d8.jpg",
+        "https://telegra.ph/file/c573bb29b27c3f4cfec9c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8711,
+    "title": "[ママの匂い] おち○ぽ馬鹿になったうちのお母さん3",
+    "sourceUrl": "https://telegra.ph/ママの匂い-おちぽ馬鹿になったうちのお母さん3-08-31",
+    "images": [
+        "https://telegra.ph/file/b505c754ba61cc2534b71.jpg",
+        "https://telegra.ph/file/265322fd67612e47c397c.jpg",
+        "https://telegra.ph/file/f7473d4b4f190219dbf58.jpg",
+        "https://telegra.ph/file/74b9ad3db279c6c7cd5bd.jpg",
+        "https://telegra.ph/file/215cdfebd2dd52e6ab4df.jpg",
+        "https://telegra.ph/file/92411700d89e4c884ebc7.jpg",
+        "https://telegra.ph/file/0605383088fe3dda057df.jpg",
+        "https://telegra.ph/file/16429bb969f38508058a0.jpg",
+        "https://telegra.ph/file/811f6e104a2343d732953.jpg",
+        "https://telegra.ph/file/69c40988695de41addf31.jpg",
+        "https://telegra.ph/file/3b8e0b486bb225158f1e9.jpg",
+        "https://telegra.ph/file/24c8dd8fe04465fdf6d0c.jpg",
+        "https://telegra.ph/file/53099684e763263bc91ab.jpg",
+        "https://telegra.ph/file/ba578dd6404a4de93373c.jpg",
+        "https://telegra.ph/file/4721a4e6de6f5764426c1.jpg",
+        "https://telegra.ph/file/94eb78283b8c06c883f62.jpg",
+        "https://telegra.ph/file/753b20ca529b4f5a945e4.jpg",
+        "https://telegra.ph/file/7e4bba61f577324042efd.jpg",
+        "https://telegra.ph/file/f6c67748fb8a816fa6f39.jpg",
+        "https://telegra.ph/file/2d32db576ff21a4c7356b.jpg",
+        "https://telegra.ph/file/bfb8a0f45850d750f64e9.jpg",
+        "https://telegra.ph/file/e8406277a4f227900d114.jpg",
+        "https://telegra.ph/file/3708cbc494c472bfee92a.jpg",
+        "https://telegra.ph/file/9ee3ed2d772ed0036c842.jpg",
+        "https://telegra.ph/file/7882c658a33b024278be9.jpg",
+        "https://telegra.ph/file/8c9e350287810fbabc3ef.jpg",
+        "https://telegra.ph/file/81478f5b8596be212bd98.jpg",
+        "https://telegra.ph/file/6e3f8606242b61b838fd3.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

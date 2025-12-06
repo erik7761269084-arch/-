@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9109,
+    "title": "[ロリの宴 (四万十川)] 陰キャな私友達100人出来なかったけど、セフレは100人出来ました",
+    "sourceUrl": "https://telegra.ph/ロリの宴-四万十川-陰キャな私友達100人出来なかったけどセフレは100人出来ました-08-31",
+    "images": [
+        "https://telegra.ph/file/98baf334886796e6744cc.jpg",
+        "https://telegra.ph/file/374f06f84a849a3d2e77e.jpg",
+        "https://telegra.ph/file/c47e1e5dcbfe5ea1ac929.jpg",
+        "https://telegra.ph/file/ff2065147c16948e928ad.jpg",
+        "https://telegra.ph/file/add309f27c1307e01ce83.jpg",
+        "https://telegra.ph/file/207b67ac2cb7424d6b23d.jpg",
+        "https://telegra.ph/file/247c8429e8b2467a316bc.jpg",
+        "https://telegra.ph/file/5b3de8404487f98357aab.jpg",
+        "https://telegra.ph/file/e11357536cd90644758b4.jpg",
+        "https://telegra.ph/file/6fb68902a7c2ed8e0b19b.jpg",
+        "https://telegra.ph/file/ed7a81ec731b8a47f37f4.jpg",
+        "https://telegra.ph/file/11349f1059e413e776846.jpg",
+        "https://telegra.ph/file/90ed8374fd546f431f459.jpg",
+        "https://telegra.ph/file/8c08e657d5a504da4c2e7.jpg",
+        "https://telegra.ph/file/de9c5e4ea3e54255d85ae.jpg",
+        "https://telegra.ph/file/40737c708a5a305e11769.jpg",
+        "https://telegra.ph/file/08e985f222e49648c109f.jpg",
+        "https://telegra.ph/file/8746c6f6ac80640f4941d.jpg",
+        "https://telegra.ph/file/5bd63e5d706e638956eae.jpg",
+        "https://telegra.ph/file/2880bc533602ed2097932.jpg",
+        "https://telegra.ph/file/84cd9b7f5b8013cdb3bb7.jpg",
+        "https://telegra.ph/file/9838cdf32873c5b996386.jpg",
+        "https://telegra.ph/file/6e5281ae5ac1a1aa8c843.jpg",
+        "https://telegra.ph/file/038e4d07b8ca3557d77d8.jpg",
+        "https://telegra.ph/file/ce2670c08c5239f22d0ee.jpg",
+        "https://telegra.ph/file/0585067170644777d912a.jpg",
+        "https://telegra.ph/file/86d82c86d87e1bcbb992e.jpg",
+        "https://telegra.ph/file/0bb9d349b72a75493d898.jpg",
+        "https://telegra.ph/file/32d6125070050d8180508.jpg",
+        "https://telegra.ph/file/571b331b632da6fe39a4c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

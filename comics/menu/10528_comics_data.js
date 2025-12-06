@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10528,
+    "title": "(C93) [L.G.C. (リブユウキ)] 擬似恋情的快癒療法 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C93-LGC-リブユウキ-擬似恋情的快癒療法-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/8e0104edc65ceb430f2bd.jpg",
+        "https://telegra.ph/file/67fb6874947d3f6873390.jpg",
+        "https://telegra.ph/file/f5d407d8562302f7de714.jpg",
+        "https://telegra.ph/file/4fcb9383ac93662c527db.jpg",
+        "https://telegra.ph/file/80578eb758383e79b0662.jpg",
+        "https://telegra.ph/file/f604d5f7ce33ddcf2f9e8.jpg",
+        "https://telegra.ph/file/da9e14a74a587a95f7519.jpg",
+        "https://telegra.ph/file/f016fcd69a6e7b42fc504.jpg",
+        "https://telegra.ph/file/d5d63aaba768f2041f603.jpg",
+        "https://telegra.ph/file/7a8153749e5ef404211fe.jpg",
+        "https://telegra.ph/file/85bb2a7debe0d9fef2acc.jpg",
+        "https://telegra.ph/file/428b540cca350d1a736a2.jpg",
+        "https://telegra.ph/file/3c13e310695e53b678921.jpg",
+        "https://telegra.ph/file/03f4e38968174c4886c3b.jpg",
+        "https://telegra.ph/file/b7705d04e349128a75448.jpg",
+        "https://telegra.ph/file/b611706a6e93e147c6550.jpg",
+        "https://telegra.ph/file/9a965b58beec6a6f4593a.jpg",
+        "https://telegra.ph/file/0f6b4dd24a0c7350c9d3d.jpg",
+        "https://telegra.ph/file/f2ab111daeac0ee52956d.jpg",
+        "https://telegra.ph/file/e2da0048fa1001b71215e.jpg",
+        "https://telegra.ph/file/c317da414af286759943f.jpg",
+        "https://telegra.ph/file/3e60b97aa7dcf79f8a6eb.jpg",
+        "https://telegra.ph/file/8e0a1a787dcc3636bdbba.jpg",
+        "https://telegra.ph/file/b8409764b96a10ccad75b.jpg",
+        "https://telegra.ph/file/7088322ac9620d3e3226a.jpg",
+        "https://telegra.ph/file/9818cb483e24a2d9376e6.jpg",
+        "https://telegra.ph/file/3fa5196448a9365dc453f.jpg",
+        "https://telegra.ph/file/aeb49d1db4a0cec40c601.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

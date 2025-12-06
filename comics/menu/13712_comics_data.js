@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13712,
+    "title": "[みぞね] 根っこまで愛して (COMIC BAVEL 2021年5月号)",
+    "sourceUrl": "https://telegra.ph/みぞね-根っこまで愛して-COMIC-BAVEL-2021年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/73b37258897b7a35520a0.jpg",
+        "https://telegra.ph/file/6b3b0c8e96e0bfe29fed6.jpg",
+        "https://telegra.ph/file/a56a2b1d793529d3b327e.jpg",
+        "https://telegra.ph/file/0208bd76a34d9e4465e24.jpg",
+        "https://telegra.ph/file/33c9bc1d4282a75bffe5d.jpg",
+        "https://telegra.ph/file/8b3ac65f545ecd7055853.jpg",
+        "https://telegra.ph/file/68b0bcc6021b60f42870a.jpg",
+        "https://telegra.ph/file/ac08639d1243b359d8ddf.jpg",
+        "https://telegra.ph/file/df1527f1c19d243fc2870.jpg",
+        "https://telegra.ph/file/967028ed67f1f21034de6.jpg",
+        "https://telegra.ph/file/6833adade22d9c1feaaa3.jpg",
+        "https://telegra.ph/file/046643e9626f6fad513a8.jpg",
+        "https://telegra.ph/file/20a05b63f66e02b04b15e.jpg",
+        "https://telegra.ph/file/cdf5230cc8e8120dd7b16.jpg",
+        "https://telegra.ph/file/a2f6672dbde1180ccca86.jpg",
+        "https://telegra.ph/file/183f8cb75f0161115c687.jpg",
+        "https://telegra.ph/file/801d517103c18f2edf08d.jpg",
+        "https://telegra.ph/file/4d62b0b957085934e0426.jpg",
+        "https://telegra.ph/file/94817971dcd665a348445.jpg",
+        "https://telegra.ph/file/a43fc094c8fe14d245fc1.jpg",
+        "https://telegra.ph/file/fc5834ac7efbfb555c392.jpg",
+        "https://telegra.ph/file/bb6db69e464b68c167505.jpg",
+        "https://telegra.ph/file/426d93f386a915e3f21be.jpg",
+        "https://telegra.ph/file/f382ab164725369c65dce.jpg",
+        "https://telegra.ph/file/cfd94cef59de773030b39.jpg",
+        "https://telegra.ph/file/8c7de82765ce261393391.jpg",
+        "https://telegra.ph/file/6923c840775f272a3a43c.jpg",
+        "https://telegra.ph/file/af11292501b143bbad450.jpg",
+        "https://telegra.ph/file/e670667ae44ed6637dd27.jpg",
+        "https://telegra.ph/file/7f7907446e5b926fbd5c2.jpg",
+        "https://telegra.ph/file/41ca0be3e0bd9417adf30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

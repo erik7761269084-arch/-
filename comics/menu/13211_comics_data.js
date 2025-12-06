@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13211,
+    "title": "(C97) [クレスタ (呉マサヒロ)] CL-orc02 ぱこフレ",
+    "sourceUrl": "https://telegra.ph/C97-クレスタ-呉マサヒロ-CL-orc02-ぱこフレ-08-31",
+    "images": [
+        "https://telegra.ph/file/8129a9e663b0c9aadd0f1.jpg",
+        "https://telegra.ph/file/bb5514fb5d30acbe4377e.jpg",
+        "https://telegra.ph/file/e3ec9187dc16de4a93bfe.jpg",
+        "https://telegra.ph/file/9944898ff029e28251d7d.jpg",
+        "https://telegra.ph/file/a4f20e0decd017118fc35.jpg",
+        "https://telegra.ph/file/122e7fbdb54eb9b1b96cb.jpg",
+        "https://telegra.ph/file/a6d20a16b08eaae030b1c.jpg",
+        "https://telegra.ph/file/84a54093499375873503b.jpg",
+        "https://telegra.ph/file/889c74fa6e18963c14efa.jpg",
+        "https://telegra.ph/file/737b545c5f4a0273a22a3.jpg",
+        "https://telegra.ph/file/a0f14abb6e303ae6b6a8b.jpg",
+        "https://telegra.ph/file/1da30c10c92dddc0a2a82.jpg",
+        "https://telegra.ph/file/b9e8c217051108af5bbac.jpg",
+        "https://telegra.ph/file/6de7c99c84e19e2ab11a5.jpg",
+        "https://telegra.ph/file/e9ebca9b8e869824626e3.jpg",
+        "https://telegra.ph/file/a07326b58e07a6329d16d.jpg",
+        "https://telegra.ph/file/cb8fd0a3388d101786717.jpg",
+        "https://telegra.ph/file/eaf203b957a16c29832a8.jpg",
+        "https://telegra.ph/file/47bf30920d273be58baad.jpg",
+        "https://telegra.ph/file/0b619d15b8a1e52415c40.jpg",
+        "https://telegra.ph/file/d50072f187b96a088ffad.jpg",
+        "https://telegra.ph/file/db888e3bb9dd54cb2c371.jpg",
+        "https://telegra.ph/file/f8d56f296a2a2bdf5acf8.jpg",
+        "https://telegra.ph/file/114f004b3800708aedd2b.jpg",
+        "https://telegra.ph/file/9e79c0a1dcb983c297b0c.jpg",
+        "https://telegra.ph/file/55baab0770b7d9a9fbf43.jpg",
+        "https://telegra.ph/file/100a539e798bb1de1bb6c.jpg",
+        "https://telegra.ph/file/ba79f62239c2870c49e8e.jpg",
+        "https://telegra.ph/file/bf24c3a39adc09cb668c1.jpg",
+        "https://telegra.ph/file/b7cfe2f94aa65b513333c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

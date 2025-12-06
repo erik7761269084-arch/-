@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12696,
+    "title": "[ひめぷち亭 (ハマブリッチ)] かぐや姫は甘やかしたい (東方Project)",
+    "sourceUrl": "https://telegra.ph/ひめぷち亭-ハマブリッチ-かぐや姫は甘やかしたい-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/a09c6ce395579ec410a37.jpg",
+        "https://telegra.ph/file/0d9f8e11a7624a12a122a.jpg",
+        "https://telegra.ph/file/cd8d58493449040269ef1.jpg",
+        "https://telegra.ph/file/3b0a1cc944d78bf875510.jpg",
+        "https://telegra.ph/file/899f5513bfbbab82fafe3.jpg",
+        "https://telegra.ph/file/5c10d40c56bc440580dde.jpg",
+        "https://telegra.ph/file/f55d65945f62004d0e2c1.jpg",
+        "https://telegra.ph/file/ef5bb2058d37cb6304583.jpg",
+        "https://telegra.ph/file/7980dd79670209580a04e.jpg",
+        "https://telegra.ph/file/9da106763e152bd3ed790.jpg",
+        "https://telegra.ph/file/2f5cb99679f0792a5b171.jpg",
+        "https://telegra.ph/file/491def322c7f7c0157524.jpg",
+        "https://telegra.ph/file/e81c1a3b749eefc543010.jpg",
+        "https://telegra.ph/file/09d7e8730842bd9e0488b.jpg",
+        "https://telegra.ph/file/42bbb83bdc87647e5ef1b.jpg",
+        "https://telegra.ph/file/919929a3d5b1a96ab2397.jpg",
+        "https://telegra.ph/file/b0d4e93d44304cbf85551.jpg",
+        "https://telegra.ph/file/83bbb4fc7b8f200a392ab.jpg",
+        "https://telegra.ph/file/789f4cbbe31d2cea5ae30.jpg",
+        "https://telegra.ph/file/3f38b0bf4cefceab24bb2.jpg",
+        "https://telegra.ph/file/b9bf782505dcf43945480.jpg",
+        "https://telegra.ph/file/47a0db9da89f050490db4.jpg",
+        "https://telegra.ph/file/7020ed83faa94ae4a5326.jpg",
+        "https://telegra.ph/file/4b2c17d94b6bdc5ce35ef.jpg",
+        "https://telegra.ph/file/abde59f0d67246d1e864b.jpg",
+        "https://telegra.ph/file/b4ae4beff5e5722c7dcd7.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

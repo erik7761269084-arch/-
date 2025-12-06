@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 16335,
+    "title": "[MILKPOP (レキシタイふのじ)] セキバクスペースソニック Vol.01 (東方Project)  -Preview",
+    "sourceUrl": "https://telegra.ph/MILKPOP-レキシタイふのじ-セキバクスペースソニック-Vol01-東方Project--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/001.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/002.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/003.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/004.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/005.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/006.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/007.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/008.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/009.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/010.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/011.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/012.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/013.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/014.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/015.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/016.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/017.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/018.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/019.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/020.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/021.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/022.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/023.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/024.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/025.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/026.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/027.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/028.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/029.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/030.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/031.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/032.jpg",
+        "https://i2.linghua.xyz/ex/3096959/79477e43b3/033.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

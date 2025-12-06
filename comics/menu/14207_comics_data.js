@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14207,
+    "title": "[ごさいじ] 同人作家はアフター3Pの夢を見るか (COMIC アンスリウム 2021年6月号)",
+    "sourceUrl": "https://telegra.ph/ごさいじ-同人作家はアフター3Pの夢を見るか-COMIC-アンスリウム-2021年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ff9f4a97048795cd9fbf2.jpg",
+        "https://telegra.ph/file/8c293d4708f86e92890ae.jpg",
+        "https://telegra.ph/file/ab9b78403464cf13066bd.jpg",
+        "https://telegra.ph/file/16ed3f71d2aaf9f6a109e.jpg",
+        "https://telegra.ph/file/2371d07100f77ec9e4e46.jpg",
+        "https://telegra.ph/file/6703827a70be339be003c.jpg",
+        "https://telegra.ph/file/4f96f47d7973c77186139.jpg",
+        "https://telegra.ph/file/5c7dd8f714fcb513cdee6.jpg",
+        "https://telegra.ph/file/a34a2831c934ec9b6e5bc.jpg",
+        "https://telegra.ph/file/f47d98d9f91a9646a8407.jpg",
+        "https://telegra.ph/file/70d546faf0adba35d369a.jpg",
+        "https://telegra.ph/file/7447b9c3f8862381adbc3.jpg",
+        "https://telegra.ph/file/6bc3fd5ce3063ba81e369.jpg",
+        "https://telegra.ph/file/f6f1f5ca11c67d248706c.jpg",
+        "https://telegra.ph/file/6fa72168f819fcdf71355.jpg",
+        "https://telegra.ph/file/4ccad8b2cfcf3abeccf0e.jpg",
+        "https://telegra.ph/file/aadbd4273cdb28d4ec4b7.jpg",
+        "https://telegra.ph/file/d6ef1b80aba222128a6f2.jpg",
+        "https://telegra.ph/file/c73a7ea2e4433cab581f7.jpg",
+        "https://telegra.ph/file/57074f97a6e49d136b4a8.jpg",
+        "https://telegra.ph/file/88d9dfc21d522d39f88e0.jpg",
+        "https://telegra.ph/file/2431761bdfaf0824704f7.jpg",
+        "https://telegra.ph/file/26b2aad4eda7cd47b1d09.jpg",
+        "https://telegra.ph/file/a1443d046918924d9bc44.jpg",
+        "https://telegra.ph/file/efc6d7b55094fb35f992f.jpg",
+        "https://telegra.ph/file/d10ffc6a687b76502a0ed.jpg",
+        "https://telegra.ph/file/3a70d869deb2bee426e46.jpg",
+        "https://telegra.ph/file/dd9f0f00ef3a88dc025b0.jpg",
+        "https://telegra.ph/file/56be71d9a8ace29ceae26.jpg",
+        "https://telegra.ph/file/d34c84a10fcd505815cad.jpg",
+        "https://telegra.ph/file/22e6aa623879d2c2459a8.jpg",
+        "https://telegra.ph/file/d75698db8deb225cd5e7a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

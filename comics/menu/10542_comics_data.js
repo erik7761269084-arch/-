@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10542,
+    "title": "(C96) [熊掌社 (俺正讀)] カルデアマニア・源頼光 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-熊掌社-俺正讀-カルデアマニア源頼光-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/2f0b15c08418b480adfc1.jpg",
+        "https://telegra.ph/file/0554564b8ea471bb5c60d.jpg",
+        "https://telegra.ph/file/464b95591da1e8dfc81ef.jpg",
+        "https://telegra.ph/file/f24f70720ea7a0ad79012.jpg",
+        "https://telegra.ph/file/e9e9d9cbe22591410b4d8.jpg",
+        "https://telegra.ph/file/3b681154875d486d066af.jpg",
+        "https://telegra.ph/file/7929c9ed9ee4ddc8fc8b1.jpg",
+        "https://telegra.ph/file/7845ae92620c003051c53.jpg",
+        "https://telegra.ph/file/2099c7c3751dad3525dd0.jpg",
+        "https://telegra.ph/file/3d0005ad7679c109555c0.jpg",
+        "https://telegra.ph/file/f1be34e8e424b1b9c4098.jpg",
+        "https://telegra.ph/file/6ddafb63572a158d7469b.jpg",
+        "https://telegra.ph/file/2f69ecf4c893a07a3c487.jpg",
+        "https://telegra.ph/file/0bdd55754604c299fc6e6.jpg",
+        "https://telegra.ph/file/4563046100e1feb195ac2.jpg",
+        "https://telegra.ph/file/8398fecccf540d8916481.jpg",
+        "https://telegra.ph/file/d4c837f53671ee6b54ae2.jpg",
+        "https://telegra.ph/file/3f0a477eaad48f1ec2bc4.jpg",
+        "https://telegra.ph/file/4d575ff70899315720a24.jpg",
+        "https://telegra.ph/file/b4ef7fdaeae27750c51a2.jpg",
+        "https://telegra.ph/file/25f94338152eedbedf3ce.jpg",
+        "https://telegra.ph/file/2eb25715cdf1520be4b94.jpg",
+        "https://telegra.ph/file/7ca171839ea740d3bfd1f.jpg",
+        "https://telegra.ph/file/bfcc991dc10256fba23ff.jpg",
+        "https://telegra.ph/file/dd3316728ed0c98e0cb66.jpg",
+        "https://telegra.ph/file/de09c694684f14468640f.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13149,
+    "title": "[Cior (Ken-1)] 夏日2 C-ori02",
+    "sourceUrl": "https://telegra.ph/Cior-Ken-1-夏日2-C-ori02-08-31",
+    "images": [
+        "https://telegra.ph/file/1542da9d8ca2fcccc109f.jpg",
+        "https://telegra.ph/file/42f474d4daf1e313682dc.jpg",
+        "https://telegra.ph/file/df30642583ed530a83c90.jpg",
+        "https://telegra.ph/file/d65b7a6176fed16afb84d.jpg",
+        "https://telegra.ph/file/2db9d68ddb3cd4ac7ca9d.jpg",
+        "https://telegra.ph/file/b385c051464c8b53cd812.jpg",
+        "https://telegra.ph/file/fdd7764b9b9aa249a9471.jpg",
+        "https://telegra.ph/file/20cd58e5ba80ed48bb72a.jpg",
+        "https://telegra.ph/file/330f3711178e4e01ef85e.jpg",
+        "https://telegra.ph/file/137ab7058784d5cb6d040.jpg",
+        "https://telegra.ph/file/65bbe0cba2b0d67887b86.jpg",
+        "https://telegra.ph/file/0e437823f97cb4a355afe.jpg",
+        "https://telegra.ph/file/0e222e932d5d9da467fbe.jpg",
+        "https://telegra.ph/file/282d864fae84c7a02aaa4.jpg",
+        "https://telegra.ph/file/531befc3bcf4b9a807227.jpg",
+        "https://telegra.ph/file/edaaf9e4f894a0709dbb4.jpg",
+        "https://telegra.ph/file/78eff8df97826953c1ee2.jpg",
+        "https://telegra.ph/file/58eea1ea14410cc18cdd0.jpg",
+        "https://telegra.ph/file/d10ca3c05afd17f1b9102.jpg",
+        "https://telegra.ph/file/9fec04ab62f8ed2520e1f.jpg",
+        "https://telegra.ph/file/f966fe0dfec9edf7abfa9.jpg",
+        "https://telegra.ph/file/68b80f7c27e0f3e8db200.jpg",
+        "https://telegra.ph/file/e38567dde05a9ce603a41.jpg",
+        "https://telegra.ph/file/accded5b6c390afacd593.jpg",
+        "https://telegra.ph/file/203464e3c66a0178bef5e.jpg",
+        "https://telegra.ph/file/291e9ab3484bec5ef5c38.jpg",
+        "https://telegra.ph/file/b492cd3351737de724d4c.jpg",
+        "https://telegra.ph/file/3bb6c6c4ade3e80c5e017.jpg",
+        "https://telegra.ph/file/6ef7b9e1e9b5ece2f5959.jpg",
+        "https://telegra.ph/file/c34e9c2c5d32c29bf62be.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

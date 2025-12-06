@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8686,
+    "title": "[山本善々] S県K市 社会人女子バレーボールサークルの事情 第10話 (COMIC クリベロン DUMA 2021年7月号 Vol.27)",
+    "sourceUrl": "https://telegra.ph/山本善々-S県K市-社会人女子バレーボールサークルの事情-第10話-COMIC-クリベロン-DUMA-2021年7月号-Vol27-08-31",
+    "images": [
+        "https://telegra.ph/file/a939eb8489d85dc12caa5.jpg",
+        "https://telegra.ph/file/e8712113d35d09a90e658.jpg",
+        "https://telegra.ph/file/236c67f96a0f9928171c3.jpg",
+        "https://telegra.ph/file/a2f05d65fb8967554241e.jpg",
+        "https://telegra.ph/file/9d7672a197d856c36b980.jpg",
+        "https://telegra.ph/file/cb893c65eb170db3de4c3.jpg",
+        "https://telegra.ph/file/9641bcf670d44ac53867d.jpg",
+        "https://telegra.ph/file/c069100f8bfe0fdeda20d.jpg",
+        "https://telegra.ph/file/618f1b2a7af4df77243c6.jpg",
+        "https://telegra.ph/file/ae796e5a42a0d78013abf.jpg",
+        "https://telegra.ph/file/fdce9dabb18c0781cd7da.jpg",
+        "https://telegra.ph/file/d303775f463ca63bf0161.jpg",
+        "https://telegra.ph/file/1cc873086851930dfd6f2.jpg",
+        "https://telegra.ph/file/5d4c190adebbb40aef322.jpg",
+        "https://telegra.ph/file/ed4addcfdd129409f6540.jpg",
+        "https://telegra.ph/file/2e3ea14f9a76ce619ffd3.jpg",
+        "https://telegra.ph/file/0b7d9d177ef5f516b7aba.jpg",
+        "https://telegra.ph/file/28c5a8965930dac3a58ee.jpg",
+        "https://telegra.ph/file/c745f52270080203c1737.jpg",
+        "https://telegra.ph/file/fac88af87476260d5d86f.jpg",
+        "https://telegra.ph/file/51ddc0091cc08569281c9.jpg",
+        "https://telegra.ph/file/dde1d24ac4f15c7d80c30.jpg",
+        "https://telegra.ph/file/0ce2ebecc4e14577c6248.jpg",
+        "https://telegra.ph/file/fc11d942c5a82686168d3.jpg",
+        "https://telegra.ph/file/b4c59fdeee180a59ce865.jpg",
+        "https://telegra.ph/file/2a111c50405a4d97a3bee.jpg",
+        "https://telegra.ph/file/a54e3dad0c2383e43bdbb.jpg",
+        "https://telegra.ph/file/bf623caceaa5b18f17bfd.jpg",
+        "https://telegra.ph/file/9e3d31c508da442688b40.jpg",
+        "https://telegra.ph/file/9bdc0d6fd3ed5b4ba6c91.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

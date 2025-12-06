@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9199,
+    "title": "(White Bank) 女武神捕获计划 2  (Honkai Impact 3rd)",
+    "sourceUrl": "https://telegra.ph/White-Bank-女武神捕获计划-2-Honkai-Impact-3rd-08-31",
+    "images": [
+        "https://telegra.ph/file/394c1398dc9a753eb3450.jpg",
+        "https://telegra.ph/file/3a47156bbbdf22814c52d.jpg",
+        "https://telegra.ph/file/3bd2541067ad15d285958.jpg",
+        "https://telegra.ph/file/77a59e252db7118b1f704.jpg",
+        "https://telegra.ph/file/8951e5a60d2690adb922e.jpg",
+        "https://telegra.ph/file/96d490d6448187e668880.jpg",
+        "https://telegra.ph/file/0bd9f91b3f519f5377fdd.jpg",
+        "https://telegra.ph/file/bfb4f2162c8d6ae7f18f7.jpg",
+        "https://telegra.ph/file/ee1b3754162107e22be8b.jpg",
+        "https://telegra.ph/file/632d3e203a9be11c53f0d.jpg",
+        "https://telegra.ph/file/2fcda8e0022d3c06aca2b.jpg",
+        "https://telegra.ph/file/8d7c851b31b82821ea95f.jpg",
+        "https://telegra.ph/file/9fe0dbb107d156c8343c8.jpg",
+        "https://telegra.ph/file/9dcee791b59ffe41f9ffb.jpg",
+        "https://telegra.ph/file/bfc3bd9b592da6885803d.jpg",
+        "https://telegra.ph/file/5b2197fed353cd587f14b.jpg",
+        "https://telegra.ph/file/2c60163aa4b888650cc86.jpg",
+        "https://telegra.ph/file/17469d504617648561404.jpg",
+        "https://telegra.ph/file/605a685ecdfd49dff9a4e.jpg",
+        "https://telegra.ph/file/c4e83adf5f509c54b8a51.jpg",
+        "https://telegra.ph/file/664fe0d11fcd7cffd5735.jpg",
+        "https://telegra.ph/file/e2d7d0a6b6d67b2af663c.jpg",
+        "https://telegra.ph/file/66c77e300c93876161cb5.jpg",
+        "https://telegra.ph/file/6c4dc1cbb453d17baee4f.jpg",
+        "https://telegra.ph/file/1642dc18249cce22f1fe0.jpg",
+        "https://telegra.ph/file/7d840188d6fe3802c039f.jpg",
+        "https://telegra.ph/file/537b8a4c93f183cd5cb2e.jpg",
+        "https://telegra.ph/file/709da5eda0dfba341ae67.jpg",
+        "https://telegra.ph/file/2235943dfd857a0a75a65.jpg",
+        "https://telegra.ph/file/05a2be48af4edde92009d.jpg",
+        "https://telegra.ph/file/019bae1806c38a424d10e.jpg",
+        "https://telegra.ph/file/9bb4ba83bf1f50f64a745.jpg",
+        "https://telegra.ph/file/71519311f7c5030de16f8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

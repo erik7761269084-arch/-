@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12909,
+    "title": "[皐月芋網] チョコレートクリームパイ (COMIC 失楽天 2022年4月号)",
+    "sourceUrl": "https://telegra.ph/皐月芋網-チョコレートクリームパイ-COMIC-失楽天-2022年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c6e44eb2cbfdda2f4d384.jpg",
+        "https://telegra.ph/file/70a261b3e1b421ca99be3.jpg",
+        "https://telegra.ph/file/6a70cefe5cec487784162.jpg",
+        "https://telegra.ph/file/6f2a4373172f4455c6c9e.jpg",
+        "https://telegra.ph/file/5e449de93165293275374.jpg",
+        "https://telegra.ph/file/e17d36e64dd08fc2dc791.jpg",
+        "https://telegra.ph/file/51f77be578625c57438c6.jpg",
+        "https://telegra.ph/file/5c7b8bf95dfa7d813620b.jpg",
+        "https://telegra.ph/file/b0405c475896136549eb4.jpg",
+        "https://telegra.ph/file/e9db722e0a2b953ff8405.jpg",
+        "https://telegra.ph/file/130c612c5a0288127c83a.jpg",
+        "https://telegra.ph/file/cb0b9f391686d38373d33.jpg",
+        "https://telegra.ph/file/1ca4491763d167f623f87.jpg",
+        "https://telegra.ph/file/291828a77ab27f1422e77.jpg",
+        "https://telegra.ph/file/0998b87ae37fbbaaa8f6c.jpg",
+        "https://telegra.ph/file/ec4796535cb6035df0646.jpg",
+        "https://telegra.ph/file/649cd2527cc3c19b6370a.jpg",
+        "https://telegra.ph/file/be4fbff42edffb7049fb6.jpg",
+        "https://telegra.ph/file/30eac3372ff220b519c57.jpg",
+        "https://telegra.ph/file/55a8331645a18b2815653.jpg",
+        "https://telegra.ph/file/4f3c70e216360c6597cb8.jpg",
+        "https://telegra.ph/file/f57a4f6f6eeeaddcff72a.jpg",
+        "https://telegra.ph/file/94dc696dc6f5605dbee5b.jpg",
+        "https://telegra.ph/file/19f674214586e4807cf2a.jpg",
+        "https://telegra.ph/file/dbb5ac4cf2b21a535bc57.jpg",
+        "https://telegra.ph/file/abbd45d5515135f126dda.jpg",
+        "https://telegra.ph/file/7d677669811aab4ab9264.jpg",
+        "https://telegra.ph/file/3b625f34cdb5a7a295f12.jpg",
+        "https://telegra.ph/file/effec6b1838da90ee60d2.png",
+        "https://telegra.ph/file/d35216f9de10d501da5b2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

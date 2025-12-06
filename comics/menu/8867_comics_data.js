@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8867,
+    "title": "[Apple Effect (紫御)] しんちゃんの超エロエロ本 (みつどもえ)",
+    "sourceUrl": "https://telegra.ph/Apple-Effect-紫御-しんちゃんの超エロエロ本-みつどもえ-08-31",
+    "images": [
+        "https://telegra.ph/file/bffc47b451d1f56044389.jpg",
+        "https://telegra.ph/file/f08c9516c32308b232024.jpg",
+        "https://telegra.ph/file/1301623449d5a5b7987f4.jpg",
+        "https://telegra.ph/file/0cc3f60443019e38838dc.jpg",
+        "https://telegra.ph/file/5a62b37a98aaa31009998.jpg",
+        "https://telegra.ph/file/4cce8df2c4b1bb38d730b.jpg",
+        "https://telegra.ph/file/4659e8d4bc7e1de448c0d.jpg",
+        "https://telegra.ph/file/393cb213256b39864e9ff.jpg",
+        "https://telegra.ph/file/406a7e3241b773429ab06.jpg",
+        "https://telegra.ph/file/09d7bfa05727c569293c8.jpg",
+        "https://telegra.ph/file/71c35dbd33daa26ad3153.jpg",
+        "https://telegra.ph/file/bfc80150d8101578c8be4.jpg",
+        "https://telegra.ph/file/4a21ff3f1d5e75366bd04.jpg",
+        "https://telegra.ph/file/2fd1237baa5631f4ac5b6.jpg",
+        "https://telegra.ph/file/12aabbc6d0fd45ec1886d.jpg",
+        "https://telegra.ph/file/3392727c6c8b32576aa3b.jpg",
+        "https://telegra.ph/file/60a29487db65423938c38.jpg",
+        "https://telegra.ph/file/809b8b271e92359dceccf.jpg",
+        "https://telegra.ph/file/b40fb0ca24f57c1976c98.jpg",
+        "https://telegra.ph/file/7eb7d66a1937da64a9ae0.jpg",
+        "https://telegra.ph/file/c298b769dd46c3fe9f275.jpg",
+        "https://telegra.ph/file/85e20fb2224ef0e2bb253.jpg",
+        "https://telegra.ph/file/58aa8f243361174eb9d0d.jpg",
+        "https://telegra.ph/file/949bf94f43e6bc2d1f2f4.jpg",
+        "https://telegra.ph/file/f89b77407f443061cd6ed.jpg",
+        "https://telegra.ph/file/7b9fcb79415edd643036d.jpg",
+        "https://telegra.ph/file/59bb76c2e1fb3f20aec03.jpg",
+        "https://telegra.ph/file/c1183f0a44fd08f7c4b36.jpg",
+        "https://telegra.ph/file/f5a8c75cb31057fe1efeb.jpg",
+        "https://telegra.ph/file/97d13caed6f3c5a9dc898.png",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

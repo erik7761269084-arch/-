@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11348,
+    "title": "[成海優] コワレタカンケイ (二次元コミックマガジン ケツマン調教で肛門ポルチオアクメ!Vol.2)",
+    "sourceUrl": "https://telegra.ph/成海優-コワレタカンケイ-二次元コミックマガジン-ケツマン調教で肛門ポルチオアクメVol2-08-31",
+    "images": [
+        "https://telegra.ph/file/13000417d5bf231de2bf4.jpg",
+        "https://telegra.ph/file/1971118c5a1eb2624c20d.jpg",
+        "https://telegra.ph/file/833943e49160f828f1bf8.jpg",
+        "https://telegra.ph/file/8bc2341f3cf4e90126c11.jpg",
+        "https://telegra.ph/file/203b3e127d1e0cc064b1b.jpg",
+        "https://telegra.ph/file/2ed8207ebfc184594d67c.jpg",
+        "https://telegra.ph/file/d96126512566325e8ed49.jpg",
+        "https://telegra.ph/file/7af586cf88e744cd80a53.jpg",
+        "https://telegra.ph/file/1b3dddb6ef2dca121cdbd.jpg",
+        "https://telegra.ph/file/3c9212827a246d31fa066.jpg",
+        "https://telegra.ph/file/947e0c28b9c257d3b1449.jpg",
+        "https://telegra.ph/file/cd76f8d65f41730f1a230.jpg",
+        "https://telegra.ph/file/ce9b28af8744b6e456125.jpg",
+        "https://telegra.ph/file/9c0888443fed2a9c12e9e.jpg",
+        "https://telegra.ph/file/85004a9715a601b6a3d32.jpg",
+        "https://telegra.ph/file/08c013151c9b8cf50a704.jpg",
+        "https://telegra.ph/file/e136d714d9ce32a1b6c41.jpg",
+        "https://telegra.ph/file/32e99a5ef3923fba78886.jpg",
+        "https://telegra.ph/file/4b7f2ec969ab316881539.jpg",
+        "https://telegra.ph/file/613cf747970e7dfceef5e.jpg",
+        "https://telegra.ph/file/a2498c5e5368931f57cbb.jpg",
+        "https://telegra.ph/file/858b0b381d06974673081.jpg",
+        "https://telegra.ph/file/3330ee0e0411a6761bd2c.jpg",
+        "https://telegra.ph/file/0479636935c39557a201d.jpg",
+        "https://telegra.ph/file/b3e43d9de2fa2fcd98c95.jpg",
+        "https://telegra.ph/file/18b7214b7c7573651f58a.jpg",
+        "https://telegra.ph/file/c39f664ca357f7f8081ad.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/c68ac75a958bdc6a3a122.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

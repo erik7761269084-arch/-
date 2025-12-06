@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11972,
+    "title": "[もっこリッチバニラ (もっこ・リッチー)] ギャルちゃんのチン活日記2-高橋はな編-",
+    "sourceUrl": "https://telegra.ph/もっこリッチバニラ-もっこリッチー-ギャルちゃんのチン活日記2-高橋はな編-08-31",
+    "images": [
+        "https://telegra.ph/file/aeb1d52a3674006162907.jpg",
+        "https://telegra.ph/file/17ddb63b369045bdec2c5.jpg",
+        "https://telegra.ph/file/2cc2511b4d57919ad1f88.jpg",
+        "https://telegra.ph/file/502565e054442cfc7a906.jpg",
+        "https://telegra.ph/file/995eae3135188365c7c60.jpg",
+        "https://telegra.ph/file/85c669bd6095523189b23.jpg",
+        "https://telegra.ph/file/2f22b54e681a6ce23fa9c.jpg",
+        "https://telegra.ph/file/dd9de31d2eca7cd70b85a.jpg",
+        "https://telegra.ph/file/6a1c6c805c44ecbebcf37.jpg",
+        "https://telegra.ph/file/265ba34ab05beab203fb2.jpg",
+        "https://telegra.ph/file/589b53329086024c21bad.jpg",
+        "https://telegra.ph/file/05838e1757e6e5492e612.jpg",
+        "https://telegra.ph/file/061391f3c8caf6f035d5c.jpg",
+        "https://telegra.ph/file/fbcc7ba2d4ad94da79b57.jpg",
+        "https://telegra.ph/file/4f68915f47a565579bd35.jpg",
+        "https://telegra.ph/file/4e7f0efbe360b1fde40de.jpg",
+        "https://telegra.ph/file/03f050400a99abe0bae00.jpg",
+        "https://telegra.ph/file/6747412c0b3c29a555c53.jpg",
+        "https://telegra.ph/file/773c7b10cf983b814013a.jpg",
+        "https://telegra.ph/file/d7ddc9862272ebdc5592a.jpg",
+        "https://telegra.ph/file/cadfe1c172a113e1dbbb5.jpg",
+        "https://telegra.ph/file/dae05f62768a5415739be.jpg",
+        "https://telegra.ph/file/351e11f07ca423d70cb81.jpg",
+        "https://telegra.ph/file/20906d717f6050ac0a3a6.jpg",
+        "https://telegra.ph/file/c6ec64519951d46a79e33.jpg",
+        "https://telegra.ph/file/03ef79947d0ca6a202b54.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

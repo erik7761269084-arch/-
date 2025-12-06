@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12311,
+    "title": "[六壱] そこに映る顔は (コミックホットミルク 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/六壱-そこに映る顔は-コミックホットミルク-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/5ceb5c886a2a11557a118.jpg",
+        "https://telegra.ph/file/4649eedf3a900a22cc4d1.jpg",
+        "https://telegra.ph/file/4ea89adeb17d8020b5fcb.jpg",
+        "https://telegra.ph/file/e0a2674c5fdc0858d9216.jpg",
+        "https://telegra.ph/file/fd399afe11cc1a732000b.jpg",
+        "https://telegra.ph/file/603ef0359ed5d28761f1d.jpg",
+        "https://telegra.ph/file/48e225c4886d67f37738e.jpg",
+        "https://telegra.ph/file/9ca378081c8cee6d85639.jpg",
+        "https://telegra.ph/file/cbb1be162f8fb69f5db1d.jpg",
+        "https://telegra.ph/file/7f40d775a1aef057ecc70.jpg",
+        "https://telegra.ph/file/4c890292cab2cbd8afbbd.jpg",
+        "https://telegra.ph/file/4bdea81ac5f11f86d6748.jpg",
+        "https://telegra.ph/file/8e6fdbcd7b5c30e690872.jpg",
+        "https://telegra.ph/file/eb209bacf2b109fd3ce50.jpg",
+        "https://telegra.ph/file/e98825b2fcd50dd455cf1.jpg",
+        "https://telegra.ph/file/036843c1f307b80e3f36d.jpg",
+        "https://telegra.ph/file/d8f0d66c2a036f07f3e26.jpg",
+        "https://telegra.ph/file/8f5aaa9271b5fcf4053b2.jpg",
+        "https://telegra.ph/file/0685eb1cc85f57df61c56.jpg",
+        "https://telegra.ph/file/4576ce5875156f584c69f.jpg",
+        "https://telegra.ph/file/39acc3db0570ca7fb4fbe.jpg",
+        "https://telegra.ph/file/8c35a1447fadd663f631b.jpg",
+        "https://telegra.ph/file/98d5497e5b0ff33580069.jpg",
+        "https://telegra.ph/file/7c8ed093253318c1a40d2.jpg",
+        "https://telegra.ph/file/b5df02aba177368de5bb5.jpg",
+        "https://telegra.ph/file/bf07fccbfcda7c06d3a23.jpg",
+        "https://telegra.ph/file/0e65ecc0ab77ca4acf8eb.jpg",
+        "https://telegra.ph/file/eef3904114e668d2c7185.jpg",
+        "https://telegra.ph/file/ad0d8bdfa57b9af6dd079.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/db3bf54a356b7373958d9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

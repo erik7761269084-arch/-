@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10861,
+    "title": "(C92) [gos to vi (歌麿)] 無垢な田舎娘がおじさんの浄化にハマるまで (モンスターハンター)",
+    "sourceUrl": "https://telegra.ph/C92-gos-to-vi-歌麿-無垢な田舎娘がおじさんの浄化にハマるまで-モンスターハンター-08-31",
+    "images": [
+        "https://telegra.ph/file/451b9c5f2e0ac9e4f0cd6.jpg",
+        "https://telegra.ph/file/3c52afcba9c7ed480410b.jpg",
+        "https://telegra.ph/file/89c08a64a369814301f44.jpg",
+        "https://telegra.ph/file/cd2281ee76d153af3f23d.jpg",
+        "https://telegra.ph/file/6ad6e179cac2e9050912b.jpg",
+        "https://telegra.ph/file/2dafe5fe7d64b9979ef29.jpg",
+        "https://telegra.ph/file/49f5c3488f6624c539f1c.jpg",
+        "https://telegra.ph/file/22daf6b8b17b4097ad6f1.jpg",
+        "https://telegra.ph/file/b0a3cb3b474ea3ecfc6f9.jpg",
+        "https://telegra.ph/file/118f4fe1d8ebe82bc2ff9.jpg",
+        "https://telegra.ph/file/433144878c68e2fe60891.jpg",
+        "https://telegra.ph/file/2ce2b929954cd2a6ff9e8.jpg",
+        "https://telegra.ph/file/30d8768a73bdfec9a9f94.jpg",
+        "https://telegra.ph/file/661ce84ffed16a67c33cd.jpg",
+        "https://telegra.ph/file/91865da87ca56dd1fc2a7.jpg",
+        "https://telegra.ph/file/e235f44e8fa31740373ba.jpg",
+        "https://telegra.ph/file/b29d4846d6d3bc8ed3c6d.jpg",
+        "https://telegra.ph/file/a74bf8969a5e85fcdb092.jpg",
+        "https://telegra.ph/file/1dbabf022565de4c3ccec.jpg",
+        "https://telegra.ph/file/a6fdde85756a9259f6bfc.jpg",
+        "https://telegra.ph/file/98bb7522cd3f8f1ab1bb6.jpg",
+        "https://telegra.ph/file/613d908d4644a7d7d4835.jpg",
+        "https://telegra.ph/file/470da695ff8a8e55286d5.jpg",
+        "https://telegra.ph/file/ef16e9dc48c393ca60bb9.jpg",
+        "https://telegra.ph/file/943243428516b4799f629.jpg",
+        "https://telegra.ph/file/cf4edd80e307ff292f576.jpg",
+        "https://telegra.ph/file/03b97ae6f0ad36277ed4f.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf0ceb9ee3187e5b166df.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

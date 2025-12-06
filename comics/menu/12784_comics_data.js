@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12784,
+    "title": "[The Dungeon In Yarn (与根金次)] 男湯にえっちな女の子が入ってきたら仲良くしたい本",
+    "sourceUrl": "https://telegra.ph/The-Dungeon-In-Yarn-与根金次-男湯にえっちな女の子が入ってきたら仲良くしたい本-08-31",
+    "images": [
+        "https://telegra.ph/file/da7e19f7497a94aa76806.jpg",
+        "https://telegra.ph/file/63f3ebbf02b48ae0b1c96.jpg",
+        "https://telegra.ph/file/309e401f255415111ed02.jpg",
+        "https://telegra.ph/file/abbb0a7b7c7722c2a9064.jpg",
+        "https://telegra.ph/file/b2b993c184dca9141777a.jpg",
+        "https://telegra.ph/file/9d50691bc8eb374f50b5c.jpg",
+        "https://telegra.ph/file/2f835d3f5f69821b47fb8.jpg",
+        "https://telegra.ph/file/840e60be3a9b4e5b639f5.jpg",
+        "https://telegra.ph/file/4cbf77e174da9c7e5e8d0.jpg",
+        "https://telegra.ph/file/d68aeefbfd6863cbd8d95.jpg",
+        "https://telegra.ph/file/78ce4f9d2ad3c91011857.jpg",
+        "https://telegra.ph/file/8108236a46c2c63c6f6a7.jpg",
+        "https://telegra.ph/file/f35d57fa62688df884e29.jpg",
+        "https://telegra.ph/file/19bba14a68a396e475834.jpg",
+        "https://telegra.ph/file/32241f6a70bbb5f0e95e8.jpg",
+        "https://telegra.ph/file/f53ab1094d56334f64026.jpg",
+        "https://telegra.ph/file/5dbed8dd5686152075586.jpg",
+        "https://telegra.ph/file/ab373cc5f8992fa603a07.jpg",
+        "https://telegra.ph/file/7751d57459f29bb5766b7.jpg",
+        "https://telegra.ph/file/34a170366e0078560422e.jpg",
+        "https://telegra.ph/file/a6bfaff5246748384fde6.jpg",
+        "https://telegra.ph/file/87af110b27fe5cffaacad.jpg",
+        "https://telegra.ph/file/9840681fad7c20fb15e79.jpg",
+        "https://telegra.ph/file/c5139d91d07398916b939.jpg",
+        "https://telegra.ph/file/1caea387600202dc1d1ab.jpg",
+        "https://telegra.ph/file/2eacce0ff5900768ee4f0.jpg",
+        "https://telegra.ph/file/3aa921d05abe869eda9c9.jpg",
+        "https://telegra.ph/file/3943fd0e8108108884273.jpg",
+        "https://telegra.ph/file/c09eaa18cc629f70d4253.jpg",
+        "https://telegra.ph/file/f5c7f28d891ae8186b4c2.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

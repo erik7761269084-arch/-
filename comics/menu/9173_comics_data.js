@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9173,
+    "title": "(コミティア139) [miyubi (きいち)] 角を曲がって",
+    "sourceUrl": "https://telegra.ph/コミティア139-miyubi-きいち-角を曲がって-08-31",
+    "images": [
+        "https://telegra.ph/file/1c6d3db0bc27a936dc2a1.jpg",
+        "https://telegra.ph/file/10b8dbd5c2ef3283f3928.jpg",
+        "https://telegra.ph/file/14c7844274557d8e8f17e.jpg",
+        "https://telegra.ph/file/d75368e7714a87f7cdbed.jpg",
+        "https://telegra.ph/file/bf5001895d6029dec8367.jpg",
+        "https://telegra.ph/file/fb4d6aede40a45a4655de.jpg",
+        "https://telegra.ph/file/0770b44087125ceef0a9f.jpg",
+        "https://telegra.ph/file/9c7ca796a6fa85dd6a5ab.jpg",
+        "https://telegra.ph/file/b8ebff5982a10fda70399.jpg",
+        "https://telegra.ph/file/ca76d5a91a74ba92ad149.jpg",
+        "https://telegra.ph/file/7ff05a69e1735b3b73b65.jpg",
+        "https://telegra.ph/file/c45b9abb33d3c1f75cdff.jpg",
+        "https://telegra.ph/file/1581055c1ce9f518145a2.jpg",
+        "https://telegra.ph/file/ddd6fcf9928a1a89967eb.jpg",
+        "https://telegra.ph/file/9d4612055a97a5eb8b6de.jpg",
+        "https://telegra.ph/file/b95a017010c61108f7a21.jpg",
+        "https://telegra.ph/file/4131677af994f13a8401c.jpg",
+        "https://telegra.ph/file/e7fdb4e9f2fa2353f5b07.jpg",
+        "https://telegra.ph/file/0a7d7f5fdc464c3146da9.jpg",
+        "https://telegra.ph/file/3c33f68e70109b4d8c9f4.jpg",
+        "https://telegra.ph/file/3209b79e0f94818718134.jpg",
+        "https://telegra.ph/file/f673ed5cbd2c1770e32c0.jpg",
+        "https://telegra.ph/file/6b5a7e94cc78dc94426e6.jpg",
+        "https://telegra.ph/file/96cef9b4532810472898a.jpg",
+        "https://telegra.ph/file/8ae0f23ed7846058e1e70.jpg",
+        "https://telegra.ph/file/bd0503f3bcbdb30f302e1.jpg",
+        "https://telegra.ph/file/a19b800fc97776413225d.jpg",
+        "https://telegra.ph/file/a4a8cf91bb436f606307d.jpg",
+        "https://telegra.ph/file/38534e10e3eddb30bba88.png",
+        "https://telegra.ph/file/2e73e67928d9c645f8663.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

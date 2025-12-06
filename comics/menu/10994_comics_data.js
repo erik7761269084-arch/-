@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10994,
+    "title": "[みずゆき] いつかまた 後編 (コミックホットミルク 2021年1月号)",
+    "sourceUrl": "https://telegra.ph/みずゆき-いつかまた-後編-コミックホットミルク-2021年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/b6d3c5984abf62ebf4365.jpg",
+        "https://telegra.ph/file/2853dee251e057f2b4ca6.jpg",
+        "https://telegra.ph/file/84efb45ab05705fecfc60.jpg",
+        "https://telegra.ph/file/89034bd879c2621cdbf9a.jpg",
+        "https://telegra.ph/file/ca9f6d6b77272fa090a88.jpg",
+        "https://telegra.ph/file/701bb13626d72e547cc95.jpg",
+        "https://telegra.ph/file/3596e5ae64fc5655c720f.jpg",
+        "https://telegra.ph/file/f5594e5c92288bf0f9ba1.jpg",
+        "https://telegra.ph/file/1fdb3dcc93307479070e5.jpg",
+        "https://telegra.ph/file/fb3284474ca775a6bd802.jpg",
+        "https://telegra.ph/file/c57d511d132048e9ca292.jpg",
+        "https://telegra.ph/file/e17d8042df09ea8e3d87c.jpg",
+        "https://telegra.ph/file/1a4f8dc0f8d78a465bb3a.jpg",
+        "https://telegra.ph/file/45ebeb0c9accaa4e48bd6.jpg",
+        "https://telegra.ph/file/ead7cc7a8c5940af77d5c.jpg",
+        "https://telegra.ph/file/bdefe9f140a6aadce061a.jpg",
+        "https://telegra.ph/file/66af49683d4fd332b8c7b.jpg",
+        "https://telegra.ph/file/22e3831c471145baa54c6.jpg",
+        "https://telegra.ph/file/e874c67f39a3173e23967.jpg",
+        "https://telegra.ph/file/1133690b63ef812041986.jpg",
+        "https://telegra.ph/file/4738334a7b8aee5eb2838.jpg",
+        "https://telegra.ph/file/8dded10f5535cb3dcb254.jpg",
+        "https://telegra.ph/file/61a9ad132a9c91d3f99df.jpg",
+        "https://telegra.ph/file/09a6abee78b26126713a6.jpg",
+        "https://telegra.ph/file/1e94aa93a572ac71b71b6.jpg",
+        "https://telegra.ph/file/4c786b3e9c9c244c331e5.jpg",
+        "https://telegra.ph/file/32e0455fe316d62191405.jpg",
+        "https://telegra.ph/file/4aa7c6226545d024894be.jpg",
+        "https://telegra.ph/file/2c3e6417d015261c2a0d7.jpg",
+        "https://telegra.ph/file/2819acf4dff35b9bcd17b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

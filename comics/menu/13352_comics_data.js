@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13352,
+    "title": "[ぼーかん] ザセントオブユー (Comic G-Es 01)",
+    "sourceUrl": "https://telegra.ph/ぼーかん-ザセントオブユー-Comic-G-Es-01-08-31",
+    "images": [
+        "https://telegra.ph/file/14734d2fdcb1857bcaf5f.jpg",
+        "https://telegra.ph/file/8fd358cc1c83e3875e752.jpg",
+        "https://telegra.ph/file/d53b555005caab7632edb.jpg",
+        "https://telegra.ph/file/4a71e128aba3100166543.jpg",
+        "https://telegra.ph/file/7f7f21f588e61be7a6135.jpg",
+        "https://telegra.ph/file/ffa71a0089720562936c9.jpg",
+        "https://telegra.ph/file/a77083e50fe1eeedeb5da.jpg",
+        "https://telegra.ph/file/46c5b9cfe8170796e324a.jpg",
+        "https://telegra.ph/file/89f26ab703e4ba0997b0e.jpg",
+        "https://telegra.ph/file/f9324e5198a9b402cae13.jpg",
+        "https://telegra.ph/file/7b16855a3b48f73d8f145.jpg",
+        "https://telegra.ph/file/33e59d84b4dcbbe926007.jpg",
+        "https://telegra.ph/file/c319e9d5c97ed86da55f5.jpg",
+        "https://telegra.ph/file/6a6dc03097183cc649d85.jpg",
+        "https://telegra.ph/file/acaed4dafc75572a0e234.jpg",
+        "https://telegra.ph/file/df1037696ce00bcd2b2a4.jpg",
+        "https://telegra.ph/file/e3b2edba1cb936c692ea6.jpg",
+        "https://telegra.ph/file/90551ded610bc2e23ff15.jpg",
+        "https://telegra.ph/file/15fa59af58f32125e6802.jpg",
+        "https://telegra.ph/file/77b5f4950ed13d1c70dfd.jpg",
+        "https://telegra.ph/file/7cfe9d1fa520b525ea5a0.jpg",
+        "https://telegra.ph/file/cc646fcf919090faad0df.jpg",
+        "https://telegra.ph/file/456b0dff7c65b88dda847.jpg",
+        "https://telegra.ph/file/b6a64bed66f869e639f8e.jpg",
+        "https://telegra.ph/file/56a295a9266cbf905e6ac.jpg",
+        "https://telegra.ph/file/bd1cd6babd6f197695859.jpg",
+        "https://telegra.ph/file/58a5ffaa5651198be0c7d.jpg",
+        "https://telegra.ph/file/363b56ba8db8c90ddea42.jpg",
+        "https://telegra.ph/file/a617b092150d755f33310.jpg",
+        "https://telegra.ph/file/af0f4f65ccfd14dda75f5.jpg",
+        "https://telegra.ph/file/cffe6f591c6b49ce278c7.jpg",
+        "https://telegra.ph/file/a16fb8b1dc04fdffb86d2.jpg",
+        "https://telegra.ph/file/37b92dfded451f347d6ff.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

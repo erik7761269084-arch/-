@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12943,
+    "title": "[kakao] バイタルヘブン (COMIC 快楽天ビースト 2022年6月号)",
+    "sourceUrl": "https://telegra.ph/kakao-バイタルヘブン-COMIC-快楽天ビースト-2022年6月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/ba9b93ed282097fa0866f.jpg",
+        "https://telegra.ph/file/e311c03f4fc859b82fde3.jpg",
+        "https://telegra.ph/file/b075de96093766ec27296.jpg",
+        "https://telegra.ph/file/34ff2342a84053a4c5914.jpg",
+        "https://telegra.ph/file/41b797ab389af33ab8db3.jpg",
+        "https://telegra.ph/file/2b9f2792fb2f0ab1a7584.jpg",
+        "https://telegra.ph/file/cc41479856e2e5274dd3c.jpg",
+        "https://telegra.ph/file/4df5ce8165d7f19fa1b52.jpg",
+        "https://telegra.ph/file/7796abe30a8a99998fe2b.jpg",
+        "https://telegra.ph/file/5a2fc301d65f94ea865f8.jpg",
+        "https://telegra.ph/file/e64e26df2dad473292256.jpg",
+        "https://telegra.ph/file/8dcdf8ffcd67368c5713f.jpg",
+        "https://telegra.ph/file/90191cd62642f72b47648.jpg",
+        "https://telegra.ph/file/04d23bb3dd19c16bd3f2c.jpg",
+        "https://telegra.ph/file/1db486b6a047be40e985a.jpg",
+        "https://telegra.ph/file/cfe311d5896e770e40dc2.jpg",
+        "https://telegra.ph/file/0bc8d62a63095c1a9a153.jpg",
+        "https://telegra.ph/file/48c1b861e891727d8307b.jpg",
+        "https://telegra.ph/file/a9bcfef0261a556d35ec9.jpg",
+        "https://telegra.ph/file/3ac82d8a5b231af53925d.jpg",
+        "https://telegra.ph/file/483010f0d1018e9adb583.jpg",
+        "https://telegra.ph/file/1b8d26dfa4d19c0b13036.jpg",
+        "https://telegra.ph/file/15994e205f9dc7c0ea366.jpg",
+        "https://telegra.ph/file/d519b4c2e3508df35df25.jpg",
+        "https://telegra.ph/file/c885f976b5d4678060ccf.jpg",
+        "https://telegra.ph/file/b5abb09a917bcefead1e3.jpg",
+        "https://telegra.ph/file/ec170e58fd46d92e019a6.jpg",
+        "https://telegra.ph/file/4efd75a6a089efba88967.jpg",
+        "https://telegra.ph/file/5f2961a3d903072201484.jpg",
+        "https://telegra.ph/file/0911459e940acfd2c4533.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

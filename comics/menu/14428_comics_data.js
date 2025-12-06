@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14428,
+    "title": "(関西!けもケット) [こおりぐも (KENN)] Repeat",
+    "sourceUrl": "https://telegra.ph/関西けもケット-こおりぐも-KENN-Repeat-08-31",
+    "images": [
+        "https://telegra.ph/file/ce027b8cc871347954809.jpg",
+        "https://telegra.ph/file/af35e4dbde0f102186da5.jpg",
+        "https://telegra.ph/file/04b440efd92ed4c608716.jpg",
+        "https://telegra.ph/file/d5dde604aea2368682a1c.jpg",
+        "https://telegra.ph/file/ea9a1c55086d880d06871.jpg",
+        "https://telegra.ph/file/3a7a879f55e42f40a1984.jpg",
+        "https://telegra.ph/file/6c941a61e68b053f65ff6.jpg",
+        "https://telegra.ph/file/9735886285b3dc4ef7f90.jpg",
+        "https://telegra.ph/file/d92e1e40e1457ec5de183.jpg",
+        "https://telegra.ph/file/937a517b5a307cd82a44a.jpg",
+        "https://telegra.ph/file/1fe808e96b3be6c3248da.jpg",
+        "https://telegra.ph/file/d63d81bf556a14ded0db8.jpg",
+        "https://telegra.ph/file/96dfa1db6820f36c6e65e.jpg",
+        "https://telegra.ph/file/2aa5acbf562683220871e.jpg",
+        "https://telegra.ph/file/51fadaca209eabcb423c0.jpg",
+        "https://telegra.ph/file/688569fc6ee95dfe69861.jpg",
+        "https://telegra.ph/file/dd68a08af8f5fc81b7859.jpg",
+        "https://telegra.ph/file/598f22cd4a449b76dc00f.jpg",
+        "https://telegra.ph/file/90bf901690159a08fe923.jpg",
+        "https://telegra.ph/file/18c97cda5d9a87104ef5e.jpg",
+        "https://telegra.ph/file/9f4eeefd2d33d0c9e3d6d.jpg",
+        "https://telegra.ph/file/3f7105fff439405ad1a79.jpg",
+        "https://telegra.ph/file/da29405dc763127f78d12.jpg",
+        "https://telegra.ph/file/ee7958d0e9a39503a84be.jpg",
+        "https://telegra.ph/file/63b75268c3983262b91bd.jpg",
+        "https://telegra.ph/file/a88bbe125c19e64b703ee.jpg",
+        "https://telegra.ph/file/226640ca32ebdf06031ea.jpg",
+        "https://telegra.ph/file/5de0279d23c2df07346d4.png",
+        "https://telegra.ph/file/fc136814b768769522689.png",
+        "https://telegra.ph/file/0ac2b77afce34656a7704.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

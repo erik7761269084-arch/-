@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10413,
+    "title": "(C97) [A・S・Gグループ (みそのう)] 生贄洗脳教室 (ドラゴンクエストV)",
+    "sourceUrl": "https://telegra.ph/C97-ASGグループ-みそのう-生贄洗脳教室-ドラゴンクエストV-08-31",
+    "images": [
+        "https://telegra.ph/file/460097ca9f1c8928e3d89.jpg",
+        "https://telegra.ph/file/a07e2b106fe449727bc38.jpg",
+        "https://telegra.ph/file/99a8ac1879e842372d843.jpg",
+        "https://telegra.ph/file/5e21e8161975f6f49c525.jpg",
+        "https://telegra.ph/file/91c813e13dc69532561bc.jpg",
+        "https://telegra.ph/file/722cda2775b9c9de2434c.jpg",
+        "https://telegra.ph/file/1e616d065fdfdf843fba7.jpg",
+        "https://telegra.ph/file/1929bb5bb52e4a98340d2.jpg",
+        "https://telegra.ph/file/9d8eb7d2d1ca002b0256d.jpg",
+        "https://telegra.ph/file/c5725c75b7d30e094dc02.jpg",
+        "https://telegra.ph/file/063a436e4727efbfc73f0.jpg",
+        "https://telegra.ph/file/4686520f585f8e498932c.jpg",
+        "https://telegra.ph/file/90d51cbc266d9bace6b63.jpg",
+        "https://telegra.ph/file/a3695918be455da80e16e.jpg",
+        "https://telegra.ph/file/e09a3efa9ef8b86c63648.jpg",
+        "https://telegra.ph/file/d94bc414764fc3008cdfd.jpg",
+        "https://telegra.ph/file/9e35d496da5bd583454f2.jpg",
+        "https://telegra.ph/file/44cdeaa6121f1d41ae554.jpg",
+        "https://telegra.ph/file/a7f56d887184c08185815.jpg",
+        "https://telegra.ph/file/fffc35bbe825d873d9f01.jpg",
+        "https://telegra.ph/file/8905e80857f0cc6f613f6.jpg",
+        "https://telegra.ph/file/854c5d15cbc99bc36c300.jpg",
+        "https://telegra.ph/file/faff2c7026de6da58f72a.jpg",
+        "https://telegra.ph/file/db8b0b44376bf2b9eef53.jpg",
+        "https://telegra.ph/file/596b4bdeef3814971734a.jpg",
+        "https://telegra.ph/file/fbbec41cda0bf5ecdec2b.jpg",
+        "https://telegra.ph/file/a1c6114a46b7246b37d38.jpg",
+        "https://telegra.ph/file/98066342c22fe4c31ccc1.jpg",
+        "https://telegra.ph/file/343a37963a78d6bfecfcc.jpg",
+        "https://telegra.ph/file/45a23643cc9e3a42665d9.jpg",
+        "https://telegra.ph/file/62ad74bfb8e186b443cb8.jpg",
+        "https://telegra.ph/file/b65d0dd807d6773733416.jpg",
+        "https://telegra.ph/file/8a288c4246023fd2c9292.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

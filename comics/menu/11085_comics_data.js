@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11085,
+    "title": "[塩ちょこ (ナハ78)] お待たせ!!カルデリバリー (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/塩ちょこ-ナハ78-お待たせカルデリバリー-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/a172d08cefd17dcb245bc.jpg",
+        "https://telegra.ph/file/8bad63761259950d6a8f7.jpg",
+        "https://telegra.ph/file/44334ade92b42156ac521.jpg",
+        "https://telegra.ph/file/ceba6bf0d5c4fb9d50beb.jpg",
+        "https://telegra.ph/file/4dad364e6927dcc0f8238.jpg",
+        "https://telegra.ph/file/2f78f8a46aba3eac2e453.jpg",
+        "https://telegra.ph/file/4c8b0bae6876ed6623059.jpg",
+        "https://telegra.ph/file/42dd78d11464494f696a5.jpg",
+        "https://telegra.ph/file/02d06879a7ea56baa7487.jpg",
+        "https://telegra.ph/file/b05a9f8ab8aba0b7c1ff6.jpg",
+        "https://telegra.ph/file/3fc5aaafa5c78cbe44133.jpg",
+        "https://telegra.ph/file/0b6c26c649d9eba12cad0.jpg",
+        "https://telegra.ph/file/f855c8e07dc182e6929f6.jpg",
+        "https://telegra.ph/file/1646ddf52e28948e56339.jpg",
+        "https://telegra.ph/file/3a0c85c715c6edd0a68ca.jpg",
+        "https://telegra.ph/file/30adfc5095ff2988cb42d.jpg",
+        "https://telegra.ph/file/17a96ce4bf1338df97018.jpg",
+        "https://telegra.ph/file/d0355bfbf3ffd1cf22333.jpg",
+        "https://telegra.ph/file/afa6e37594ae4e58af2a8.jpg",
+        "https://telegra.ph/file/d50f36f48c886b4b0e591.jpg",
+        "https://telegra.ph/file/6aede256d5c5eabd72f45.jpg",
+        "https://telegra.ph/file/7ad917dfd941708ca5230.jpg",
+        "https://telegra.ph/file/aefc4f99428e1078c9f36.jpg",
+        "https://telegra.ph/file/3764fdf5a10066ef2ce97.jpg",
+        "https://telegra.ph/file/31e9b9c88ddf0972b0bb4.jpg",
+        "https://telegra.ph/file/859fd5451b39812d81744.jpg",
+        "https://telegra.ph/file/73492ff078c30cf839436.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

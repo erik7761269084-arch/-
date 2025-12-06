@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9769,
+    "title": "[有馬紘一] 月夜に願いを込めて (COMIC アンスリウム 2020年9月号)",
+    "sourceUrl": "https://telegra.ph/有馬紘一-月夜に願いを込めて-COMIC-アンスリウム-2020年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/28c16188617524c197f18.jpg",
+        "https://telegra.ph/file/6b75d019f3e9cbd152957.jpg",
+        "https://telegra.ph/file/b36b2576d2201dfc53d95.jpg",
+        "https://telegra.ph/file/f62d76ef83bc363bfd068.jpg",
+        "https://telegra.ph/file/2051ba7dd333b9a183652.jpg",
+        "https://telegra.ph/file/614f3ceeeb3074cfc5395.jpg",
+        "https://telegra.ph/file/752fe244bff1d20bbe4ff.jpg",
+        "https://telegra.ph/file/57d2fc54bf4c15656ad04.jpg",
+        "https://telegra.ph/file/470865b11dc4473c952f7.jpg",
+        "https://telegra.ph/file/c3ac092c6cf06083ae8df.jpg",
+        "https://telegra.ph/file/15f118c281fb6b76343b9.jpg",
+        "https://telegra.ph/file/57156a2a95541632c715e.jpg",
+        "https://telegra.ph/file/59935136faeb9209bbed5.jpg",
+        "https://telegra.ph/file/cd124a89ce727793e194a.jpg",
+        "https://telegra.ph/file/41d62b8967eec2181f8c0.jpg",
+        "https://telegra.ph/file/f7fa5da8a630d6b560dc6.jpg",
+        "https://telegra.ph/file/21ea887aae12d5e78e695.jpg",
+        "https://telegra.ph/file/ff029455836432eeb5a0d.jpg",
+        "https://telegra.ph/file/12c0c170e1bcd82e7376f.jpg",
+        "https://telegra.ph/file/3d7305ae973ce720e0441.jpg",
+        "https://telegra.ph/file/53563c41b638d3565ae73.jpg",
+        "https://telegra.ph/file/3c3c420db7b5cd3bba4d5.jpg",
+        "https://telegra.ph/file/f0d5223c63af7f345a387.jpg",
+        "https://telegra.ph/file/50b0854e439679a4b24df.jpg",
+        "https://telegra.ph/file/721dafe5a0dd4f0d9e772.jpg",
+        "https://telegra.ph/file/fc65ce5aba47494da990f.jpg",
+        "https://telegra.ph/file/4b63fc93f19cb5bbd34c0.jpg",
+        "https://telegra.ph/file/9a1c7b99958234869fca3.jpg",
+        "https://telegra.ph/file/4dfd237d8e208fab032ff.jpg",
+        "https://telegra.ph/file/398c2d76135fa1a9f9c69.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

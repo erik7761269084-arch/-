@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15182,
+    "title": "(AC2) [sheepfold (sheepD)] 相容れない関係ですが・・・?!",
+    "sourceUrl": "https://telegra.ph/AC2-sheepfold-sheepD-相容れない関係ですが-08-31",
+    "images": [
+        "https://telegra.ph/file/282f0663bb6381c088e7f.jpg",
+        "https://telegra.ph/file/99e56a93004ee8ba5242d.jpg",
+        "https://telegra.ph/file/ca6cc1d32aee518a9d334.jpg",
+        "https://telegra.ph/file/e6b72ffa6b1115f18871e.jpg",
+        "https://telegra.ph/file/a03618e9632a0db8038da.jpg",
+        "https://telegra.ph/file/6afe1632cd740061ee5b0.jpg",
+        "https://telegra.ph/file/34c8b7b1a7925d774d96c.jpg",
+        "https://telegra.ph/file/c6b782252f482fde5c875.jpg",
+        "https://telegra.ph/file/2e48cd758c35e340fea7e.jpg",
+        "https://telegra.ph/file/eef0f1017e3cb06cc3911.jpg",
+        "https://telegra.ph/file/65d6bf42e0248976d96a6.jpg",
+        "https://telegra.ph/file/725e1b51f54027941aca0.jpg",
+        "https://telegra.ph/file/b83d35f2878c86535ae8e.jpg",
+        "https://telegra.ph/file/686090ca1668c6939f51f.jpg",
+        "https://telegra.ph/file/41850fe3566d144998484.jpg",
+        "https://telegra.ph/file/ed9cb8d12f21addfec3d2.jpg",
+        "https://telegra.ph/file/36963f89cc7e9a015b485.jpg",
+        "https://telegra.ph/file/2219ffd56a80f75170c99.jpg",
+        "https://telegra.ph/file/66ba52866ff200e9e596b.jpg",
+        "https://telegra.ph/file/1ef92359419d1531ede27.jpg",
+        "https://telegra.ph/file/96be2c6c4a1d2e03df313.jpg",
+        "https://telegra.ph/file/c97fa94df8aa305fbdf1f.jpg",
+        "https://telegra.ph/file/5049416f367bdda99805e.jpg",
+        "https://telegra.ph/file/c4d6c17eea07bfeda5c99.jpg",
+        "https://telegra.ph/file/f2358e15ef0ea82b283d8.jpg",
+        "https://telegra.ph/file/e377c95c9d94b54da4d16.jpg",
+        "https://telegra.ph/file/43ebe7a95b25b0a0548b8.jpg",
+        "https://telegra.ph/file/a14d7c5ba30804c6adbcd.jpg",
+        "https://telegra.ph/file/654fe68c33d3093a2556c.jpg",
+        "https://telegra.ph/file/ad29fd4f91d94b13f8e8a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

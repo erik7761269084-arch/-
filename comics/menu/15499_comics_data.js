@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15499,
+    "title": "[虎のおにぎり食堂 (米山ことら*)] レイマリ耳かき! (東方Project)  -Preview",
+    "sourceUrl": "https://telegra.ph/虎のおにぎり食堂-米山ことら-レイマリ耳かき-東方Project--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/f82f4785e184c1ad23128.jpg",
+        "https://telegra.ph/file/cb01f0265625940a825a0.jpg",
+        "https://telegra.ph/file/403c9de7d54501869bacf.jpg",
+        "https://telegra.ph/file/3437c42e74f850e87d8f2.jpg",
+        "https://telegra.ph/file/bd878f6edab248eb881cc.jpg",
+        "https://telegra.ph/file/aa1c6c2457f68f27850fa.jpg",
+        "https://telegra.ph/file/c03e5bf02fda4341623eb.jpg",
+        "https://telegra.ph/file/ba743cc185b87e93b3adc.jpg",
+        "https://telegra.ph/file/89c3b044ab3c57d194237.jpg",
+        "https://telegra.ph/file/169343ead2b18d8c9ddd5.jpg",
+        "https://telegra.ph/file/833c38eb36351318041a4.jpg",
+        "https://telegra.ph/file/e1d88bf2ec58135b460c7.jpg",
+        "https://telegra.ph/file/8c89e9c2adf90a386d927.jpg",
+        "https://telegra.ph/file/5d7156b01b382bff7895b.jpg",
+        "https://telegra.ph/file/558ac7980234b3216d62d.jpg",
+        "https://telegra.ph/file/2eee6e715a2408eba08e7.jpg",
+        "https://telegra.ph/file/20db7552595d46f4e9b46.jpg",
+        "https://telegra.ph/file/c20ea90d9e69a4ec0ec68.jpg",
+        "https://telegra.ph/file/d0860a604b9fb37699ffb.jpg",
+        "https://telegra.ph/file/27a9295d57e10df18feb9.jpg",
+        "https://telegra.ph/file/c91834136582be5920719.jpg",
+        "https://telegra.ph/file/34ad6c49341e59758c82f.jpg",
+        "https://telegra.ph/file/e76e7ca079227df71c160.jpg",
+        "https://telegra.ph/file/a72dd9c487a53ac26ab59.jpg",
+        "https://telegra.ph/file/90067879307a37ca6462c.jpg",
+        "https://telegra.ph/file/524d72f62545c61c6f55f.jpg",
+        "https://telegra.ph/file/b835d145d1a1eb68f635c.jpg",
+        "https://telegra.ph/file/4939a3b73470adbaba4ca.jpg",
+        "https://telegra.ph/file/6a0d1ad66e174c2d53b2d.jpg",
+        "https://telegra.ph/file/7520e0a34b99ed8da549b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8935,
+    "title": "[倉田むと] 好きのカタチはそれぞれ♥ 第二話 (コミックリブート Vol.30)",
+    "sourceUrl": "https://telegra.ph/倉田むと-好きのカタチはそれぞれ-第二話-コミックリブート-Vol30-08-31",
+    "images": [
+        "https://telegra.ph/file/b8a478aa2b612a8206961.jpg",
+        "https://telegra.ph/file/56fec396588e9dfe7b4b1.jpg",
+        "https://telegra.ph/file/71ed9566ec754493b9228.jpg",
+        "https://telegra.ph/file/4b718942680ea653e72c1.jpg",
+        "https://telegra.ph/file/bedc884faed6c80cb2c17.jpg",
+        "https://telegra.ph/file/118a1bdb31007b39a15fb.jpg",
+        "https://telegra.ph/file/2e995130f62ce229bb574.jpg",
+        "https://telegra.ph/file/0391fb9581f026404fc09.jpg",
+        "https://telegra.ph/file/26ea1ba4ad950523c568b.jpg",
+        "https://telegra.ph/file/3e9e50e97d3e8efe62ad4.jpg",
+        "https://telegra.ph/file/5644458818f3d14c529e0.jpg",
+        "https://telegra.ph/file/3b2cbb10ebcf28850d03f.jpg",
+        "https://telegra.ph/file/e64c105528219237dc8e8.jpg",
+        "https://telegra.ph/file/49d9eb9938164970e5d79.jpg",
+        "https://telegra.ph/file/3d0059fceb292ce79bd6b.jpg",
+        "https://telegra.ph/file/08739672d7bceb246c00a.jpg",
+        "https://telegra.ph/file/e0606797d6a3894ee344c.jpg",
+        "https://telegra.ph/file/cdc11afad43423c3ddfd8.jpg",
+        "https://telegra.ph/file/22aee8d6ae6445c9e4781.jpg",
+        "https://telegra.ph/file/4064d16fc0cfaa48f2070.jpg",
+        "https://telegra.ph/file/99ffc5552e6e3a04d4406.jpg",
+        "https://telegra.ph/file/7e85d5a2dd71fab701bf0.jpg",
+        "https://telegra.ph/file/2090cf00965e7ef5d128d.jpg",
+        "https://telegra.ph/file/852cb44cc9640b7d7d306.jpg",
+        "https://telegra.ph/file/42ea6b4fd2e3ab806e290.jpg",
+        "https://telegra.ph/file/534612856c08249dd2f4e.jpg",
+        "https://telegra.ph/file/fdb94e9f1dc15a039f188.jpg",
+        "https://telegra.ph/file/36b28ec2ec92b77889b1b.jpg",
+        "https://telegra.ph/file/a90c0da890cc1f2cd82bc.jpg",
+        "https://telegra.ph/file/312de769ab5da3eacc786.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

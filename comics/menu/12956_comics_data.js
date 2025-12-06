@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12956,
+    "title": "[一弘] あたしらDTだってPP活マジyo-you! (コミックホットミルク 2022年7月号)",
+    "sourceUrl": "https://telegra.ph/一弘-あたしらDTだってPP活マジyo-you-コミックホットミルク-2022年7月号-08-31",
+    "images": [
+        "https://telegra.ph/file/b1629d3987629d9d55822.jpg",
+        "https://telegra.ph/file/2f691db35f2ab41c0783f.jpg",
+        "https://telegra.ph/file/fdccf377260a90c5ac544.jpg",
+        "https://telegra.ph/file/318f7b2707590df1b2b90.jpg",
+        "https://telegra.ph/file/ea6513bc74951ae3f7fc1.jpg",
+        "https://telegra.ph/file/c7e8e1e20ac3e8b423060.jpg",
+        "https://telegra.ph/file/f6ecebe2764f3be25cca6.jpg",
+        "https://telegra.ph/file/027b7a752f92fd3c046d0.jpg",
+        "https://telegra.ph/file/d4488db2f6ffacb52328d.jpg",
+        "https://telegra.ph/file/b8a073457a719435ff15c.jpg",
+        "https://telegra.ph/file/5c0c51ee10327314c3145.jpg",
+        "https://telegra.ph/file/5c2c8c455f376178f2436.jpg",
+        "https://telegra.ph/file/11d89e7b60eaee48de379.jpg",
+        "https://telegra.ph/file/de582ffc20fe4d46abc21.jpg",
+        "https://telegra.ph/file/90be8962572ea19431875.jpg",
+        "https://telegra.ph/file/241d6e08df93de1b58d9e.jpg",
+        "https://telegra.ph/file/66fb8266f9c8c77058758.jpg",
+        "https://telegra.ph/file/e379b739615395363e07a.jpg",
+        "https://telegra.ph/file/38497969bfcc888428fbd.jpg",
+        "https://telegra.ph/file/7d353f9d45d143d868d0e.jpg",
+        "https://telegra.ph/file/d1acedc5ae7b71ee408d2.jpg",
+        "https://telegra.ph/file/1876bee200f7fc7b54c05.jpg",
+        "https://telegra.ph/file/e9facf307602dfab838ce.jpg",
+        "https://telegra.ph/file/af042db506ad0789a3e54.jpg",
+        "https://telegra.ph/file/e58f0987914e934d5c222.jpg",
+        "https://telegra.ph/file/99cbee581488fcfaca3b7.jpg",
+        "https://telegra.ph/file/b33c4a5d984a8b395e6ba.jpg",
+        "https://telegra.ph/file/40f58f13c86ab118ef8bc.jpg",
+        "https://telegra.ph/file/9daa146e0532d4333bee2.jpg",
+        "https://telegra.ph/file/fded7fae1eeb2f1177f26.jpg",
+        "https://telegra.ph/file/ce3bdd30d02b0a1a4c7de.jpg",
+        "https://telegra.ph/file/d9076b660cab4f19bdf66.jpg",
+        "https://telegra.ph/file/4d0f5ddf12c901dc8b565.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

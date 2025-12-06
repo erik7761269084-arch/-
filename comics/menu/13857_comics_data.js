@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13857,
+    "title": "(C97) [Z.A.P. (ズッキーニ)] アルトリアは負けられない。 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-ZAP-ズッキーニ-アルトリアは負けられない-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/5881d61bb1d6a0ed9fb51.jpg",
+        "https://telegra.ph/file/fa149b4a311a4f59182cd.jpg",
+        "https://telegra.ph/file/a2a6510782e2fb5bac72b.jpg",
+        "https://telegra.ph/file/2a81760f137d29ce772b5.jpg",
+        "https://telegra.ph/file/22afdab047361b09cc49c.jpg",
+        "https://telegra.ph/file/6811a86a282ba53e57b23.jpg",
+        "https://telegra.ph/file/bfb9737273bc91580f45a.jpg",
+        "https://telegra.ph/file/e8a24b432653309c94b40.jpg",
+        "https://telegra.ph/file/b4030c2eeafd90bb5211f.jpg",
+        "https://telegra.ph/file/8953345b5ae519c886b12.jpg",
+        "https://telegra.ph/file/b1ed7b212a0f756d76527.jpg",
+        "https://telegra.ph/file/42c3cc70ea51c198e6c95.jpg",
+        "https://telegra.ph/file/76243938915e8d50f1fcf.jpg",
+        "https://telegra.ph/file/2ec9a5cb9b4c0e3e4746a.jpg",
+        "https://telegra.ph/file/5a9491bc9ae95917ecb9b.jpg",
+        "https://telegra.ph/file/b6bce4c62106792494cbb.jpg",
+        "https://telegra.ph/file/fc6fe47553e7cdc454fda.jpg",
+        "https://telegra.ph/file/cadd1c17f47b5551df117.jpg",
+        "https://telegra.ph/file/4d61d505b07e7d19ae8bd.jpg",
+        "https://telegra.ph/file/8f4326784635dfdf160c2.jpg",
+        "https://telegra.ph/file/7167417ca6aea0ae55117.jpg",
+        "https://telegra.ph/file/185a3c486630ad3ba9873.jpg",
+        "https://telegra.ph/file/8ea78541a9fbdc4235cd3.jpg",
+        "https://telegra.ph/file/aebb24a458a20e3e68d9c.jpg",
+        "https://telegra.ph/file/fc9219e66579d7ef0d080.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

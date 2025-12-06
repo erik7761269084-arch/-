@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12376,
+    "title": "[ハロー!こんにゃく (藤家りりか)] 包茎だと学校卒業できない法律なので若いお義母さんが息子のチ〇〇を剥いてみた。",
+    "sourceUrl": "https://telegra.ph/ハローこんにゃく-藤家りりか-包茎だと学校卒業できない法律なので若いお義母さんが息子のチを剥いてみた-08-31",
+    "images": [
+        "https://telegra.ph/file/c092c08b75fac839b004e.jpg",
+        "https://telegra.ph/file/88aea8aee2ef327bd882f.jpg",
+        "https://telegra.ph/file/1230ee4eca153e8eac8c4.jpg",
+        "https://telegra.ph/file/2c9399cf16de0aba47461.jpg",
+        "https://telegra.ph/file/1790b055ffbd8a27f6152.jpg",
+        "https://telegra.ph/file/42fbd80b63c149f3e9097.jpg",
+        "https://telegra.ph/file/ac8c775cfafa9f5bff26a.jpg",
+        "https://telegra.ph/file/9d41ad26ab5732b76c676.jpg",
+        "https://telegra.ph/file/7848121e752035cd8dfc0.jpg",
+        "https://telegra.ph/file/00b59ac8d9c089637e67a.jpg",
+        "https://telegra.ph/file/b6863bece48920acb7d8d.jpg",
+        "https://telegra.ph/file/ba8a7b8c9f488362cc026.jpg",
+        "https://telegra.ph/file/feece499d7eb36ea94346.jpg",
+        "https://telegra.ph/file/f7a022925831fdcc314a2.jpg",
+        "https://telegra.ph/file/f1809495a284962f754d5.jpg",
+        "https://telegra.ph/file/c16b4f2c74be5e10c1ac4.jpg",
+        "https://telegra.ph/file/48b4b1bcc6dd9b513f731.jpg",
+        "https://telegra.ph/file/55b972cf5bb153e3be900.jpg",
+        "https://telegra.ph/file/8db40c5dcfc123c15ff8a.jpg",
+        "https://telegra.ph/file/85e8dd4c515593908a12d.jpg",
+        "https://telegra.ph/file/1369113e23f2cc3a6357d.jpg",
+        "https://telegra.ph/file/200627e924ae6d8147067.jpg",
+        "https://telegra.ph/file/5af1f7d8dc1da7d1971ec.jpg",
+        "https://telegra.ph/file/d053bbd404b30b9e0ffac.jpg",
+        "https://telegra.ph/file/e2ab518def698aa377e9e.jpg",
+        "https://telegra.ph/file/0e1683d3990f2918e5eb2.jpg",
+        "https://telegra.ph/file/e527b91b6bfaad523f2ca.jpg",
+        "https://telegra.ph/file/81bc86cbee7b7a3af8ad7.jpg",
+        "https://telegra.ph/file/7a6a4e6c2696c6d4b9edc.jpg",
+        "https://telegra.ph/file/52961e6e56e30802d1a53.jpg",
+        "https://telegra.ph/file/8c8eb0fc54d4d6d3f7435.jpg",
+        "https://telegra.ph/file/703af27a0dba43fc0fd17.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

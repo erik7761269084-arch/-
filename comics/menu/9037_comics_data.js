@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9037,
+    "title": "[ツキノウラガワ (ろみ)] その林檎の味は (アイドルマスターシンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/ツキノウラガワ-ろみ-その林檎の味は-アイドルマスターシンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/283073356d3762d0688d8.jpg",
+        "https://telegra.ph/file/a9dc0400999ddb770ccfa.jpg",
+        "https://telegra.ph/file/eff45965fe66f3f3fa284.jpg",
+        "https://telegra.ph/file/a804097b54f45f07bcae8.jpg",
+        "https://telegra.ph/file/8ff259fc5b7c68b7e880b.jpg",
+        "https://telegra.ph/file/65be1f2bb0fd7f5b4332f.jpg",
+        "https://telegra.ph/file/de0ae8b86a451fada3fe6.jpg",
+        "https://telegra.ph/file/87276ea28391f2bd1ac7a.jpg",
+        "https://telegra.ph/file/0dd5c1530129f177cc3bb.jpg",
+        "https://telegra.ph/file/0b25fb3025615c4c3e627.jpg",
+        "https://telegra.ph/file/96313d919e379740e2233.jpg",
+        "https://telegra.ph/file/96488b2343cac2b92bd34.jpg",
+        "https://telegra.ph/file/997a4b94ec853817fa8ab.jpg",
+        "https://telegra.ph/file/83be2ad72f04361326ba0.jpg",
+        "https://telegra.ph/file/e2ce24a8d0ccede25fd97.jpg",
+        "https://telegra.ph/file/9f8d731051fced9d86f3d.jpg",
+        "https://telegra.ph/file/edc224519caa46c03dfd1.jpg",
+        "https://telegra.ph/file/6eee69ca089497f53aa29.jpg",
+        "https://telegra.ph/file/1a8c80a261af4fc09f73b.jpg",
+        "https://telegra.ph/file/e8e3ab8e244099fde383b.jpg",
+        "https://telegra.ph/file/4ac2534a0d6be4d4f5c0b.jpg",
+        "https://telegra.ph/file/656fb513d9eda54a87de1.jpg",
+        "https://telegra.ph/file/c2e4a9375d48c7ba9525e.jpg",
+        "https://telegra.ph/file/b59fe5d77ef3a7f8e8187.jpg",
+        "https://telegra.ph/file/e091882c2a6b682c7e3f3.jpg",
+        "https://telegra.ph/file/e15b86c0e934588e60f02.jpg",
+        "https://telegra.ph/file/c004b554b4364a77d0f47.jpg",
+        "https://telegra.ph/file/5f4ebb3c9dd7e290b7428.jpg",
+        "https://telegra.ph/file/cb121673df1b13683d2ce.jpg",
+        "https://telegra.ph/file/176752c54c24be327ee20.jpg",
+        "https://telegra.ph/file/6de8d70431f542d08f2b3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

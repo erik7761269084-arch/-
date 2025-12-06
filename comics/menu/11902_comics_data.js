@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11902,
+    "title": "[やみなべ] 天才魔導少女の憂鬱 (少女組曲 15)",
+    "sourceUrl": "https://telegra.ph/やみなべ-天才魔導少女の憂鬱-少女組曲-15-08-31",
+    "images": [
+        "https://telegra.ph/file/b804dae00bd311f2e5dfa.jpg",
+        "https://telegra.ph/file/1aea7a9620ee94eb8b9b8.jpg",
+        "https://telegra.ph/file/fcaac7ea6001f8645e3e4.jpg",
+        "https://telegra.ph/file/3f7e185fb569ba754ee7e.jpg",
+        "https://telegra.ph/file/50aba5f7699fd390d27f1.jpg",
+        "https://telegra.ph/file/9bc7e824ea7d1120b8793.jpg",
+        "https://telegra.ph/file/c09270d76937dbe76df3b.jpg",
+        "https://telegra.ph/file/97145202b6912b1adbbfb.jpg",
+        "https://telegra.ph/file/3e83fb645af5ccc81b09d.jpg",
+        "https://telegra.ph/file/bc4fe41f5bbb6db1db74b.jpg",
+        "https://telegra.ph/file/d8a58eb954405ea58e3e5.jpg",
+        "https://telegra.ph/file/4ed14c8c4f604d50f91db.jpg",
+        "https://telegra.ph/file/c30e6bc13795e51363c65.jpg",
+        "https://telegra.ph/file/a1123e0e1f6da15883c22.jpg",
+        "https://telegra.ph/file/aab6122715b41e1f663a7.jpg",
+        "https://telegra.ph/file/7e3b49544e4fe9a8ea4d7.jpg",
+        "https://telegra.ph/file/dc7a3aee6d370bc005768.jpg",
+        "https://telegra.ph/file/4ebc63e4c4a7d3ff3c404.jpg",
+        "https://telegra.ph/file/57f9cd2a9eead593fea26.jpg",
+        "https://telegra.ph/file/d273b0fe3681c5eb85a18.jpg",
+        "https://telegra.ph/file/00353f1d150247b02a606.jpg",
+        "https://telegra.ph/file/dc8712de8eced9fabae80.jpg",
+        "https://telegra.ph/file/e043a48287848dfb6b36b.jpg",
+        "https://telegra.ph/file/20f066f00c8b4d30923e0.jpg",
+        "https://telegra.ph/file/b1b4881a4412a88ef07d7.jpg",
+        "https://telegra.ph/file/2135ff220b1d936bce52b.jpg",
+        "https://telegra.ph/file/2a48d5ba53e5c99cb385a.jpg",
+        "https://telegra.ph/file/ed6bf9646e6a6c5270c07.jpg",
+        "https://telegra.ph/file/0434a516cbccb02d7fbac.jpg",
+        "https://telegra.ph/file/61b8b5dbeec653ddad655.jpg",
+        "https://telegra.ph/file/e854337740e31e637cc45.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9896,
+    "title": "[薺屋本舗 (7zu7)] 少女の出る道",
+    "sourceUrl": "https://telegra.ph/薺屋本舗-7zu7-少女の出る道-08-31",
+    "images": [
+        "https://telegra.ph/file/3285a93836c17231b0479.jpg",
+        "https://telegra.ph/file/504125285ac8f2b3619cb.jpg",
+        "https://telegra.ph/file/e2d240e4183584e4517ef.jpg",
+        "https://telegra.ph/file/fde11845abf2b0cf1db0b.jpg",
+        "https://telegra.ph/file/3b37619b6dc9c6d15bcbf.jpg",
+        "https://telegra.ph/file/0c002e8440c8616066702.jpg",
+        "https://telegra.ph/file/42b92d2a3d2f82e931331.jpg",
+        "https://telegra.ph/file/47e7b4e2120c78147791c.jpg",
+        "https://telegra.ph/file/3d930a6cda29b05487d5d.jpg",
+        "https://telegra.ph/file/a0e5399135d138a348e95.jpg",
+        "https://telegra.ph/file/50a8d082b15b11875fcff.jpg",
+        "https://telegra.ph/file/9466b475092ca865f1f29.jpg",
+        "https://telegra.ph/file/dc9699ee58de626fd5bc1.jpg",
+        "https://telegra.ph/file/df2bf4fb4912285e242a9.jpg",
+        "https://telegra.ph/file/6b2c80bbbc710f9b6c1d0.jpg",
+        "https://telegra.ph/file/c41a0dc7d91dbe94179ff.jpg",
+        "https://telegra.ph/file/b87fbaf8f7d9d655f5f35.jpg",
+        "https://telegra.ph/file/290286d15ba9a576a49b9.jpg",
+        "https://telegra.ph/file/e99a2bb1a404c0c71f19e.jpg",
+        "https://telegra.ph/file/54173cc76523c7a5cd3e0.jpg",
+        "https://telegra.ph/file/76b33f2107a18aa49b61b.jpg",
+        "https://telegra.ph/file/5dc2e94267959ae6d8eed.jpg",
+        "https://telegra.ph/file/51f1205eafc1875ed412b.jpg",
+        "https://telegra.ph/file/7ff8ec3da35e4a5c11b7e.jpg",
+        "https://telegra.ph/file/fc73bc62dd4b7fd3a648d.jpg",
+        "https://telegra.ph/file/2c303339fe5347da35664.jpg",
+        "https://telegra.ph/file/1a351162c0e316fa9d712.jpg",
+        "https://telegra.ph/file/25bc0993e6b400e5e3b71.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

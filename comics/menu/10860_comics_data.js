@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10860,
+    "title": "[冷し中華おわりました (ズル)] 通り魔理沙にきをつけろ 其の弐 (東方Project)",
+    "sourceUrl": "https://telegra.ph/冷し中華おわりました-ズル-通り魔理沙にきをつけろ-其の弐-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/c846edb2f22a1250d5575.jpg",
+        "https://telegra.ph/file/e77cca93e899c4b6e7f61.jpg",
+        "https://telegra.ph/file/6e2c0e39c040a1dd48fb6.jpg",
+        "https://telegra.ph/file/6f904303ba48f1486a093.jpg",
+        "https://telegra.ph/file/f784169382653c99d00a1.jpg",
+        "https://telegra.ph/file/f880c5e1a71a592abe0c7.jpg",
+        "https://telegra.ph/file/d0c55dd7acbbf4ab3503d.jpg",
+        "https://telegra.ph/file/69efd30b7989008c6c782.jpg",
+        "https://telegra.ph/file/d805e97182649db819436.jpg",
+        "https://telegra.ph/file/986a12490faad5846a772.jpg",
+        "https://telegra.ph/file/7676bdb0b345ea4575acf.jpg",
+        "https://telegra.ph/file/2501ce20b463cf2ad5374.jpg",
+        "https://telegra.ph/file/b96471073401037599b80.jpg",
+        "https://telegra.ph/file/d57d5b30888e2132c9f19.jpg",
+        "https://telegra.ph/file/aaf08e10552a7ce99f7a8.jpg",
+        "https://telegra.ph/file/94d24bb922030abf0a42c.jpg",
+        "https://telegra.ph/file/78a027f105936d5bc448f.jpg",
+        "https://telegra.ph/file/c9785938daf8e534ac672.jpg",
+        "https://telegra.ph/file/38a7e83b9eff583de7f6e.jpg",
+        "https://telegra.ph/file/574502e21eceec9c19467.jpg",
+        "https://telegra.ph/file/e3932c3fada90272e5c94.jpg",
+        "https://telegra.ph/file/a60d0493c951b4a889560.jpg",
+        "https://telegra.ph/file/08c8a03af51e3f250238a.jpg",
+        "https://telegra.ph/file/ac3a90b04f32054e92cf5.jpg",
+        "https://telegra.ph/file/4db682fddba6790f0101c.jpg",
+        "https://telegra.ph/file/6426dcca19a50a9a32362.jpg",
+        "https://telegra.ph/file/c72d92ba71e731fc59358.jpg",
+        "https://telegra.ph/file/90b7050528cf910183c26.jpg",
+        "https://telegra.ph/file/2049604d49910c7a5091e.jpg",
+        "https://telegra.ph/file/d9531b3a7e63c70fbb178.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

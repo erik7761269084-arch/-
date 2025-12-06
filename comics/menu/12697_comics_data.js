@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12697,
+    "title": "[さんびー。 (伊藤隆生)] 迷宮世界の魔物使いばっどえんど sideK",
+    "sourceUrl": "https://telegra.ph/さんびー-伊藤隆生-迷宮世界の魔物使いばっどえんど-sideK-08-31",
+    "images": [
+        "https://telegra.ph/file/d740f3bbd36c66d6fcb32.jpg",
+        "https://telegra.ph/file/76a8127e9039226eadc0a.jpg",
+        "https://telegra.ph/file/c11aa54aeec091893f80e.jpg",
+        "https://telegra.ph/file/030b6b5e31c027354fd65.jpg",
+        "https://telegra.ph/file/c945529f2a25982f30958.jpg",
+        "https://telegra.ph/file/77c9a9ab64134f0f5b806.jpg",
+        "https://telegra.ph/file/66018a464238275d3df17.jpg",
+        "https://telegra.ph/file/0823ca754b6fac06ddd7c.jpg",
+        "https://telegra.ph/file/fc72e8930de3b503a01e5.jpg",
+        "https://telegra.ph/file/eb1d8ca31485134d5f821.jpg",
+        "https://telegra.ph/file/23941f665687351f9bc6f.jpg",
+        "https://telegra.ph/file/5cf297f43c42a2d89ca47.jpg",
+        "https://telegra.ph/file/f6c39a71d850635ce0c5d.jpg",
+        "https://telegra.ph/file/b768030e9c3e195909ea8.jpg",
+        "https://telegra.ph/file/8bd30604a35d40c5a32f7.jpg",
+        "https://telegra.ph/file/d349c5ac8be2bb4c6ca7f.jpg",
+        "https://telegra.ph/file/0a98c5ea432a209241740.jpg",
+        "https://telegra.ph/file/569d1483d9da4fd452ab6.jpg",
+        "https://telegra.ph/file/e5e4ac6bbeeea046ed11f.jpg",
+        "https://telegra.ph/file/093d9a1c1df1534b3305f.jpg",
+        "https://telegra.ph/file/6643780de49049ef58701.jpg",
+        "https://telegra.ph/file/c8f1bb9572258dcf3e9e2.jpg",
+        "https://telegra.ph/file/adaf9bcd42855824ed996.jpg",
+        "https://telegra.ph/file/40b3c791ac1c098b2d24f.jpg",
+        "https://telegra.ph/file/c59ec9b7abca9e0b58778.jpg",
+        "https://telegra.ph/file/ebc804c0eb80a13c7da1f.jpg",
+        "https://telegra.ph/file/726b9ac53476ff5d8ae7f.jpg",
+        "https://telegra.ph/file/a49bcd8c85fbac70f9029.jpg",
+        "https://telegra.ph/file/f1e3b932ab98c3468e357.jpg",
+        "https://telegra.ph/file/5e51bc33ed9e4c5913684.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

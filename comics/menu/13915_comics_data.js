@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13915,
+    "title": "[鶯屋 (鶯神楽)] Place your bets please (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/鶯屋-鶯神楽-Place-your-bets-please-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/8eac61bc54f340125d5a5.jpg",
+        "https://telegra.ph/file/1a7044978293db8e41bba.jpg",
+        "https://telegra.ph/file/7681ff31fb735a31ad238.jpg",
+        "https://telegra.ph/file/dee2de7aef434dcd16737.jpg",
+        "https://telegra.ph/file/cde933a9b350011f33cb8.jpg",
+        "https://telegra.ph/file/c945744abc7b7923063e6.jpg",
+        "https://telegra.ph/file/d6d7a8d93341585297da5.jpg",
+        "https://telegra.ph/file/073797ba81b5fe33f7bfa.jpg",
+        "https://telegra.ph/file/f3fa01b4bf5131df1e844.jpg",
+        "https://telegra.ph/file/8be36c869da3dfb41eda1.jpg",
+        "https://telegra.ph/file/f0af1fe8efd2e444f8636.jpg",
+        "https://telegra.ph/file/aaad9d2b4ad313d80aacb.jpg",
+        "https://telegra.ph/file/05fd361c552e6685476e0.jpg",
+        "https://telegra.ph/file/2b92b11797bfcbc1d0a99.jpg",
+        "https://telegra.ph/file/567bb5dc04e5f7281c5e0.jpg",
+        "https://telegra.ph/file/0648d86c367efbf8d26b8.jpg",
+        "https://telegra.ph/file/d030d0097b93fd638119b.jpg",
+        "https://telegra.ph/file/db322310e0cc0aac049c4.jpg",
+        "https://telegra.ph/file/acd77307d568b21c80dfb.jpg",
+        "https://telegra.ph/file/13e6b09649ecec54fa71c.jpg",
+        "https://telegra.ph/file/97c5eda3acd266942144a.jpg",
+        "https://telegra.ph/file/71c6c074f06e3012a6d8c.jpg",
+        "https://telegra.ph/file/03ff03fd9c66e29587550.jpg",
+        "https://telegra.ph/file/1fab13a8cc55ebf9b56a5.jpg",
+        "https://telegra.ph/file/99a1d59f18dfe1bb83dee.jpg",
+        "https://telegra.ph/file/8d415893eacd2ece1b080.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/36aaa10b157e8388a7aac.png",
+        "https://telegra.ph/file/d3b6bab7002f984fa3558.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

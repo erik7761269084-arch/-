@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9775,
+    "title": "[CHARAN PORAN (猫乃またたび)] ありす&文香 催眠Girls劇場 (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/CHARAN-PORAN-猫乃またたび-ありす文香-催眠Girls劇場-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/e87d4afbcf198e2d7d22f.jpg",
+        "https://telegra.ph/file/644cc0e22bdaa11831073.jpg",
+        "https://telegra.ph/file/9f53cf3185c1a889343e1.jpg",
+        "https://telegra.ph/file/15b1eb79d424d9c98eef2.jpg",
+        "https://telegra.ph/file/f07ae32c7d99e0cbea36b.jpg",
+        "https://telegra.ph/file/14f30c12d55cce6bb39a2.jpg",
+        "https://telegra.ph/file/340dbdd934fa0b98fcab0.jpg",
+        "https://telegra.ph/file/7c90355d1483baee548cb.jpg",
+        "https://telegra.ph/file/df667fb61c376d59884fa.jpg",
+        "https://telegra.ph/file/81cb5b852600024a261f9.jpg",
+        "https://telegra.ph/file/d07446f4f85ca61e2591c.jpg",
+        "https://telegra.ph/file/6a606229fd21d2ae112de.jpg",
+        "https://telegra.ph/file/77911d471196b0cd96f1b.jpg",
+        "https://telegra.ph/file/c0f5f6cb73f967a51d724.jpg",
+        "https://telegra.ph/file/dc9431fec48cd764bf913.jpg",
+        "https://telegra.ph/file/2a12eef8692ee91c092e8.jpg",
+        "https://telegra.ph/file/0b94284a3d4b3d59b1b2c.jpg",
+        "https://telegra.ph/file/befe2342e394e9fbf0a3d.jpg",
+        "https://telegra.ph/file/e42d6004f9f99d20ddab6.jpg",
+        "https://telegra.ph/file/2c6e00c36e4b931680b7e.jpg",
+        "https://telegra.ph/file/83119bb8fe5782744039e.jpg",
+        "https://telegra.ph/file/03d7cf80aee4bb78a714c.jpg",
+        "https://telegra.ph/file/017f6a7435f638355ba12.jpg",
+        "https://telegra.ph/file/1b645ad198acbfa7477e5.jpg",
+        "https://telegra.ph/file/f5b3f6a42d0983d7c2c8f.jpg",
+        "https://telegra.ph/file/5ecf87696ad589e1f32e0.jpg",
+        "https://telegra.ph/file/889ab3c019baa27526e49.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/93f850883f37c41474e6c.jpg",
+        "https://telegra.ph/file/b7684873a51de755531ed.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

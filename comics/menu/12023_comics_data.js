@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12023,
+    "title": "[秋月伊槻] 観られる私と魅る私 (COMIC 真激 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/秋月伊槻-観られる私と魅る私-COMIC-真激-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/2d72fba577be47260ff5c.jpg",
+        "https://telegra.ph/file/09ba407170e66885a23e5.jpg",
+        "https://telegra.ph/file/4e10a1d14a41fda0e1c32.jpg",
+        "https://telegra.ph/file/cef7800b4adafa5f80dea.jpg",
+        "https://telegra.ph/file/36ae61fd966111bd46386.jpg",
+        "https://telegra.ph/file/1b3b91585549a36cf6326.jpg",
+        "https://telegra.ph/file/793c95ff10cfbb6e4d897.jpg",
+        "https://telegra.ph/file/3fcf579cc5066b5168eb5.jpg",
+        "https://telegra.ph/file/e1ea8a359662b899736a0.jpg",
+        "https://telegra.ph/file/34d6e62899625ad1f1188.jpg",
+        "https://telegra.ph/file/371086487764cafcfb500.jpg",
+        "https://telegra.ph/file/8bc99889497ada0a2c4e3.jpg",
+        "https://telegra.ph/file/4da4822349254b5e7af7d.jpg",
+        "https://telegra.ph/file/a40a1637d78bbecfa5cbe.jpg",
+        "https://telegra.ph/file/61150b67fc0e7cd06b11e.jpg",
+        "https://telegra.ph/file/104d47bacea86b11ca07d.jpg",
+        "https://telegra.ph/file/844a9a346a509734a3fe1.jpg",
+        "https://telegra.ph/file/4fb5118378e20ebe51ca4.jpg",
+        "https://telegra.ph/file/68973e1d77cc09e23c584.jpg",
+        "https://telegra.ph/file/8766ce33acb8098c25923.jpg",
+        "https://telegra.ph/file/75b69071cfa541b190b88.jpg",
+        "https://telegra.ph/file/ba6346bfc1549244cdfe5.jpg",
+        "https://telegra.ph/file/f95aa3a538dc815439ffa.jpg",
+        "https://telegra.ph/file/333579bf4473e9fc72d79.jpg",
+        "https://telegra.ph/file/dadad3a12d181916beb3e.jpg",
+        "https://telegra.ph/file/97411f7e4ee47c705d49b.jpg",
+        "https://telegra.ph/file/9b31f40e107c6e8a38f91.jpg",
+        "https://telegra.ph/file/4cd7a1eb4a1ee8bd794c2.jpg",
+        "https://telegra.ph/file/68c074c88cec9c0d9546f.jpg",
+        "https://telegra.ph/file/2e1fa1b902cb25d644ecf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

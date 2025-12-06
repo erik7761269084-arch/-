@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11091,
+    "title": "(AC2) [ヒツジ企画 (むねしろ)] モナオチ (原神)",
+    "sourceUrl": "https://telegra.ph/AC2-ヒツジ企画-むねしろ-モナオチ-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/616a4d28c9164f9f4b041.jpg",
+        "https://telegra.ph/file/f49bdbe3cdf48e034f09c.jpg",
+        "https://telegra.ph/file/bbc4a9208bb37f2f75d4c.jpg",
+        "https://telegra.ph/file/a4cf0d741544f7a4ff46a.jpg",
+        "https://telegra.ph/file/cebe34121f8ed15873f37.jpg",
+        "https://telegra.ph/file/ee8f8163c5d7fd421f7ba.jpg",
+        "https://telegra.ph/file/4208bdb5cfda3fc67f259.jpg",
+        "https://telegra.ph/file/225a3c17091cb099e115f.jpg",
+        "https://telegra.ph/file/9fda24970c96ceef52c82.jpg",
+        "https://telegra.ph/file/38f6d92ccd05bb6ca85db.jpg",
+        "https://telegra.ph/file/c454dd49fa71465943b1b.jpg",
+        "https://telegra.ph/file/ef83b256d3af53963ce57.jpg",
+        "https://telegra.ph/file/9e087f0af236142ac3353.jpg",
+        "https://telegra.ph/file/bf41dd627d419ba967d74.jpg",
+        "https://telegra.ph/file/c548987121f2bb5eabd62.jpg",
+        "https://telegra.ph/file/66c05e973e743adf5d160.jpg",
+        "https://telegra.ph/file/416534c9490c02c627a17.jpg",
+        "https://telegra.ph/file/253fc6e0e218c6bc9040d.jpg",
+        "https://telegra.ph/file/d7894d5b7818476a63532.jpg",
+        "https://telegra.ph/file/a2f8d524f2df4413c2945.jpg",
+        "https://telegra.ph/file/4fc3d070ee1daf6dbf4cd.jpg",
+        "https://telegra.ph/file/8927f6994f47a7e822613.jpg",
+        "https://telegra.ph/file/06e16faed2de98f88285c.jpg",
+        "https://telegra.ph/file/3d890d53786a54de89bf3.jpg",
+        "https://telegra.ph/file/fd3b4e4363d69731c3e69.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

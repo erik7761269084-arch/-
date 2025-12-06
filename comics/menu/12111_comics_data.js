@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12111,
+    "title": "[アシズキ] 一泊二日逃避行 (COMIC アンスリウム 2021年3月号)",
+    "sourceUrl": "https://telegra.ph/アシズキ-一泊二日逃避行-COMIC-アンスリウム-2021年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/dc587f0d3bfd29c22e07c.jpg",
+        "https://telegra.ph/file/bad9109a1d6433a5c68c7.jpg",
+        "https://telegra.ph/file/d7f2cfd1807c908d04915.jpg",
+        "https://telegra.ph/file/f6ceedbdef2b8644e6348.jpg",
+        "https://telegra.ph/file/2c20ddc5cdd2934311929.jpg",
+        "https://telegra.ph/file/adf85012168b6536f5299.jpg",
+        "https://telegra.ph/file/77e5369129e80d098f424.jpg",
+        "https://telegra.ph/file/76670aec3c67759938925.jpg",
+        "https://telegra.ph/file/6159a2bc17edbafaf053c.jpg",
+        "https://telegra.ph/file/2adf4e0f4d7d2cbd629ac.jpg",
+        "https://telegra.ph/file/1cfa0c92d8703c752872b.jpg",
+        "https://telegra.ph/file/76d26647ca74f033d7b1a.jpg",
+        "https://telegra.ph/file/a9bdacf8a800a8d63f061.jpg",
+        "https://telegra.ph/file/59b6a6d27181285704ff8.jpg",
+        "https://telegra.ph/file/ac178e2f0e47d0fc0ae56.jpg",
+        "https://telegra.ph/file/4ded87c5d6024399a7548.jpg",
+        "https://telegra.ph/file/0eb6cd1c436fd2b2f86d1.jpg",
+        "https://telegra.ph/file/dd23b2a0ad33bd8d0c118.jpg",
+        "https://telegra.ph/file/3ff0d906aaff1be1b951f.jpg",
+        "https://telegra.ph/file/79106e4ee1af5963aca3a.jpg",
+        "https://telegra.ph/file/4011717f57b8535716eda.jpg",
+        "https://telegra.ph/file/67fd0270a9c7ff44ac47c.jpg",
+        "https://telegra.ph/file/8328c31191c23318d995d.jpg",
+        "https://telegra.ph/file/e09ba4680a78592945647.jpg",
+        "https://telegra.ph/file/9d8c941aef2f588ca60e4.jpg",
+        "https://telegra.ph/file/2162c651d70c28a95afd0.jpg",
+        "https://telegra.ph/file/1358b5c76045d388e54ca.jpg",
+        "https://telegra.ph/file/4f494e0c3e3d240c80f37.jpg",
+        "https://telegra.ph/file/126632fc6117c0ab1ac8d.jpg",
+        "https://telegra.ph/file/e6f9dfd7de03b68d9f4ed.jpg",
+        "https://telegra.ph/file/1d0f9556bcc3866d87916.jpg",
+        "https://telegra.ph/file/a9d186bc1773aa70c1114.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

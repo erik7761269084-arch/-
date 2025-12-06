@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8333,
+    "title": "[有限会社マッハスピン (ドリル汁)] 全頭マスク性欲スレイブ人妻○○さん",
+    "sourceUrl": "https://telegra.ph/有限会社マッハスピン-ドリル汁-全頭マスク性欲スレイブ人妻さん-08-31",
+    "images": [
+        "https://telegra.ph/file/61e48ae2ac21727fe4154.jpg",
+        "https://telegra.ph/file/1f7597901ceb42df64285.jpg",
+        "https://telegra.ph/file/7eb07ab4270cd29d0620e.jpg",
+        "https://telegra.ph/file/3cbba91c3d7933cb7b326.jpg",
+        "https://telegra.ph/file/2942e6cd3b8eea898d339.jpg",
+        "https://telegra.ph/file/74b1bb01b7ff26727ce7f.jpg",
+        "https://telegra.ph/file/73ef4bf91e9a7137c482b.jpg",
+        "https://telegra.ph/file/6e73e958efb9a17294b72.jpg",
+        "https://telegra.ph/file/53a6ce493043a97c3cc5d.jpg",
+        "https://telegra.ph/file/0a9b5dd46c7d6a2da1de5.jpg",
+        "https://telegra.ph/file/0035bb99e075813d7cb79.jpg",
+        "https://telegra.ph/file/c57118713236cd528eaa4.jpg",
+        "https://telegra.ph/file/419f2d3c6bf66635fd586.jpg",
+        "https://telegra.ph/file/87bdb0f66bb3db6113275.jpg",
+        "https://telegra.ph/file/ba1bb8e01410209e4f0cc.jpg",
+        "https://telegra.ph/file/dc28f334a10bdfb5643a9.jpg",
+        "https://telegra.ph/file/34d63c4cb4e752ce197a5.jpg",
+        "https://telegra.ph/file/0d516a4d02d84ece315b3.jpg",
+        "https://telegra.ph/file/31f8a5d53f8cd817c1f0d.jpg",
+        "https://telegra.ph/file/c6acd018100ce458496ba.jpg",
+        "https://telegra.ph/file/9e66a898885a1bd3e94ec.jpg",
+        "https://telegra.ph/file/705fbf3441f51c0912228.jpg",
+        "https://telegra.ph/file/79a830fb4cceacdd48379.jpg",
+        "https://telegra.ph/file/dbb1662a000b69e435537.jpg",
+        "https://telegra.ph/file/a71439423ae02feee8c99.jpg",
+        "https://telegra.ph/file/29095553182b27cb9669e.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/993f07f1c165f24f54716.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/f4c81417157faf3d84e72.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

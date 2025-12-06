@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8228,
+    "title": "[アキカン (rikazu)] 大人の人にはナイショ、実は僕…近所に住んでる双子のお姉ちゃんに、エッチな悪戯されてるんです。",
+    "sourceUrl": "https://telegra.ph/アキカン-rikazu-大人の人にはナイショ実は僕近所に住んでる双子のお姉ちゃんにエッチな悪戯されてるんです-08-31",
+    "images": [
+        "https://telegra.ph/file/82f90391c3d43b481daee.jpg",
+        "https://telegra.ph/file/2946f2dd11a70c010fbab.jpg",
+        "https://telegra.ph/file/52d7b31b77b53748c40ca.jpg",
+        "https://telegra.ph/file/798f271d6a0b529b93694.jpg",
+        "https://telegra.ph/file/ebae58edcc13e2ba4c6b2.jpg",
+        "https://telegra.ph/file/f946424ce9aac97d4ab2b.jpg",
+        "https://telegra.ph/file/e0b20c201a7b1a66afecc.jpg",
+        "https://telegra.ph/file/df3e0a6feeaef93c5fcc8.jpg",
+        "https://telegra.ph/file/a50acf93b8038ac1271d4.jpg",
+        "https://telegra.ph/file/f3042d4e6244a877ea99c.jpg",
+        "https://telegra.ph/file/eabb54f57604c27b79d7d.jpg",
+        "https://telegra.ph/file/698359a8f709c31b26ba2.jpg",
+        "https://telegra.ph/file/60a8ac3297b313fca79fe.jpg",
+        "https://telegra.ph/file/dc3506c0d8cb1f59f6606.jpg",
+        "https://telegra.ph/file/b744032dd811495c6d1b6.jpg",
+        "https://telegra.ph/file/7952089580855ed9065b7.jpg",
+        "https://telegra.ph/file/a5fce5b0b9d591088ac63.jpg",
+        "https://telegra.ph/file/4b1d760ed03ee647badbc.jpg",
+        "https://telegra.ph/file/232830f3becc9b5fcd854.jpg",
+        "https://telegra.ph/file/3f55a25c35d04af27f7f4.jpg",
+        "https://telegra.ph/file/2258e69ff67dbcbbef4f8.jpg",
+        "https://telegra.ph/file/66588c73dba24bc50d888.jpg",
+        "https://telegra.ph/file/15c5094e7772d00f0f402.jpg",
+        "https://telegra.ph/file/2839805ea4c011b8862bf.jpg",
+        "https://telegra.ph/file/37e1f251f5125a76bf5f8.jpg",
+        "https://telegra.ph/file/e341493546b9184dbaa94.jpg",
+        "https://telegra.ph/file/06c6ecaee96fc9d24e57b.jpg",
+        "https://telegra.ph/file/be231ef17fbef8b7a2f17.jpg",
+        "https://telegra.ph/file/c697f829e5a781be965ea.jpg",
+        "https://telegra.ph/file/de877e3237f1ddc2922ff.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

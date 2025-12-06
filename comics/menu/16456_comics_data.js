@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16456,
+    "title": "(科学世紀のカフェテラス 8)[AM:TIGER (とらん )] 視えざる境界 〜ヒト視覚識域外境界 (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/科学世紀のカフェテラス-8AMTIGER-とらん--視えざる境界-ヒト視覚識域外境界-東方Project--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/01.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/02.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/03.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/04.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/05.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/06.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/07.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/08.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/09.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/10.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/11.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/12.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/13.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/14.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/15.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/16.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/17.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/18.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/19.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/20.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/21.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/22.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/23.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/24.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/25.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/26.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/27.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/28.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/29.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/30.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/31.webp",
+        "https://i2.linghua.xyz/ex/3195910/8279f7996c/32.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

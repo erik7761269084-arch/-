@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10541,
+    "title": "(COMIC1☆17) [サークルフィオレ (えかきびと)] わたし、飼われます (彼女、お借りします)",
+    "sourceUrl": "https://telegra.ph/COMIC117-サークルフィオレ-えかきびと-わたし飼われます-彼女お借りします-08-31",
+    "images": [
+        "https://telegra.ph/file/36a5c97855079580b7c44.jpg",
+        "https://telegra.ph/file/9d22fc6198f16d10b7262.jpg",
+        "https://telegra.ph/file/db50d3c08a13f41ed1ccf.jpg",
+        "https://telegra.ph/file/fc4aaee2eb6c4cdd2cce9.jpg",
+        "https://telegra.ph/file/c438fb6d423869423fd94.jpg",
+        "https://telegra.ph/file/4fb56b3cf8ec4d6c83913.jpg",
+        "https://telegra.ph/file/e3b72d04a092a4abfac51.jpg",
+        "https://telegra.ph/file/739843624be6f749e3bd8.jpg",
+        "https://telegra.ph/file/d6da2b96e3ad5ecba852e.jpg",
+        "https://telegra.ph/file/864d5c063326718f3dc22.jpg",
+        "https://telegra.ph/file/57b59d3a5009b36d13483.jpg",
+        "https://telegra.ph/file/3c20b4927dd4c045944f0.jpg",
+        "https://telegra.ph/file/4f4eedce95d828c185c52.jpg",
+        "https://telegra.ph/file/69fee6e23a0f1fdd7fc46.jpg",
+        "https://telegra.ph/file/0acef62063818f977fcc9.jpg",
+        "https://telegra.ph/file/e21b6dbbcbac940aa5e3f.jpg",
+        "https://telegra.ph/file/34e890619db9ff416412b.jpg",
+        "https://telegra.ph/file/e757817f2b9ec6cd77b78.jpg",
+        "https://telegra.ph/file/735af17af15afbcdee4b2.jpg",
+        "https://telegra.ph/file/33aa9c2ec0dfbcc5d9775.jpg",
+        "https://telegra.ph/file/e8dd042ab5b78ef6fccfb.jpg",
+        "https://telegra.ph/file/7539c2c75afb675a9ce78.jpg",
+        "https://telegra.ph/file/188fad685f37c15885a4f.jpg",
+        "https://telegra.ph/file/f28373e970be42252b988.jpg",
+        "https://telegra.ph/file/2ef03a24ec1a00bdd9c9a.jpg",
+        "https://telegra.ph/file/198e0f0379d9f6cfc1530.jpg",
+        "https://telegra.ph/file/c4ce34dfd1f4e0e75eb6e.jpg",
+        "https://telegra.ph/file/6e6ef4cc19f311af8c7e1.jpg",
+        "https://telegra.ph/file/272e1241ff8bed4051a60.jpg",
+        "https://telegra.ph/file/fc878f43ba4decd5ae7b3.jpg",
+        "https://telegra.ph/file/6cea1bd7573ec43f0371c.jpg",
+        "https://telegra.ph/file/450e102362b4fede2f6c1.jpg",
+        "https://telegra.ph/file/2ca911c1a563e27b52e23.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10106,
+    "title": "[K0NG_] How 2 Use 9A-91& extra (Girls' Frontline)",
+    "sourceUrl": "https://telegra.ph/K0NG--How-2-Use-9A-91-extra-Girls-Frontline-08-31",
+    "images": [
+        "https://telegra.ph/file/4b07fd980fd800ecb36f0.jpg",
+        "https://telegra.ph/file/b4e6bbe327ade4e192968.jpg",
+        "https://telegra.ph/file/cfc15478b0b4355e0f745.jpg",
+        "https://telegra.ph/file/ff14ed69e62573dbdf7d0.jpg",
+        "https://telegra.ph/file/badfc1872faae4e851517.jpg",
+        "https://telegra.ph/file/a66b7061916124c2d8292.jpg",
+        "https://telegra.ph/file/53a91d71e2a470b14831a.jpg",
+        "https://telegra.ph/file/193a1699bbbe850f430fe.jpg",
+        "https://telegra.ph/file/e16fb00dfd80039ceabc1.jpg",
+        "https://telegra.ph/file/0c8346f5d31bb22431941.jpg",
+        "https://telegra.ph/file/2e6e89f2dc112e5b98aef.jpg",
+        "https://telegra.ph/file/6a3c48e10bd66205c74cb.jpg",
+        "https://telegra.ph/file/2d55174547043621922c4.jpg",
+        "https://telegra.ph/file/0cd4583aefda57cf3d471.jpg",
+        "https://telegra.ph/file/afc8268498bd99e7c0601.jpg",
+        "https://telegra.ph/file/8f3ca214f556edc4f424f.jpg",
+        "https://telegra.ph/file/5fe7902f249c1cad4985f.jpg",
+        "https://telegra.ph/file/8cfddc45123eabf4b49fc.jpg",
+        "https://telegra.ph/file/80309d7b678ae1a8af2db.jpg",
+        "https://telegra.ph/file/2788a32e3674d550e7da3.jpg",
+        "https://telegra.ph/file/f5a2f804a0f36573eda95.jpg",
+        "https://telegra.ph/file/532d536fd768465dc28d2.jpg",
+        "https://telegra.ph/file/4e4d95ef069988bd2cd08.jpg",
+        "https://telegra.ph/file/30e533cb784715f00c28b.jpg",
+        "https://telegra.ph/file/9c4c39d4deba47f72cd1e.jpg",
+        "https://telegra.ph/file/3d976e3d715ac8228d09e.jpg",
+        "https://telegra.ph/file/10df2bd293108d2c1329c.jpg",
+        "https://telegra.ph/file/3c25e538b006e1ef429c7.jpg",
+        "https://telegra.ph/file/c042f103aa4b3f72645ed.jpg",
+        "https://telegra.ph/file/7f3c22b4927af4299402c.jpg",
+        "https://telegra.ph/file/02bf8f30c66a255c34447.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

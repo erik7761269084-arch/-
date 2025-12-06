@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15174,
+    "title": "[戦いの軌跡 (戦友)] 週末二度目の (BanG Dream!)",
+    "sourceUrl": "https://telegra.ph/戦いの軌跡-戦友-週末二度目の-BanG-Dream-08-31",
+    "images": [
+        "https://telegra.ph/file/688dc752742ae5cdb752f.jpg",
+        "https://telegra.ph/file/3a4f521d4c945e41013bb.jpg",
+        "https://telegra.ph/file/9916ac61d46c38e56de31.jpg",
+        "https://telegra.ph/file/273c478b3ddf1c3ef7e34.jpg",
+        "https://telegra.ph/file/f70db5029db71e3c17b55.jpg",
+        "https://telegra.ph/file/ca1370e5ecbccabbfed7a.jpg",
+        "https://telegra.ph/file/79efb74dc0d1098af9087.jpg",
+        "https://telegra.ph/file/e7dae740c242be2a2a42d.jpg",
+        "https://telegra.ph/file/d93f034ca3205e60a478b.jpg",
+        "https://telegra.ph/file/73103a71446861e1fd7d0.jpg",
+        "https://telegra.ph/file/67c318fa3f8454573d154.jpg",
+        "https://telegra.ph/file/7c94eac94fb27f240edc3.jpg",
+        "https://telegra.ph/file/8a242204fec5b7313d598.jpg",
+        "https://telegra.ph/file/f734fbd6a61fbedb93f56.jpg",
+        "https://telegra.ph/file/c48f839d8fab843657b3f.jpg",
+        "https://telegra.ph/file/c2359036efb298b6cc9da.jpg",
+        "https://telegra.ph/file/c6f3db000c43b84a057d7.jpg",
+        "https://telegra.ph/file/24f7e8638a1a81aef5234.jpg",
+        "https://telegra.ph/file/0482a3fc26105400b25ab.jpg",
+        "https://telegra.ph/file/25d4522f5beb1d47e81a9.jpg",
+        "https://telegra.ph/file/c8e6a4ea7ae448fa7ded8.jpg",
+        "https://telegra.ph/file/39af332c9709cf053c374.jpg",
+        "https://telegra.ph/file/494f335703457861a3529.jpg",
+        "https://telegra.ph/file/1b73a009a69b5adfe22cf.jpg",
+        "https://telegra.ph/file/e456d7abefa032d1d901b.jpg",
+        "https://telegra.ph/file/51752d328fbc2bcd85489.jpg",
+        "https://telegra.ph/file/68c87f22cb4a225fbee36.jpg",
+        "https://telegra.ph/file/a7e07bcac5eae0962fdc4.jpg",
+        "https://telegra.ph/file/950e6a085b615b3ba5c63.jpg",
+        "https://telegra.ph/file/0db7e2fa82a5b4be3986e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

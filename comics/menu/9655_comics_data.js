@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9655,
+    "title": "(COMIC1☆15) [まごの亭 (夏庵)] カレシにナイショで2 ナマ乱交…しちゃいました。",
+    "sourceUrl": "https://telegra.ph/COMIC115-まごの亭-夏庵-カレシにナイショで2-ナマ乱交しちゃいました-08-31",
+    "images": [
+        "https://telegra.ph/file/7e1a16277bbf3906b1b5a.jpg",
+        "https://telegra.ph/file/87786f3b1224b95aa499b.jpg",
+        "https://telegra.ph/file/05f3f656a63c3f9c6811e.jpg",
+        "https://telegra.ph/file/e7eb8f0e013396fc04d8f.jpg",
+        "https://telegra.ph/file/d43f6749315df47020a41.jpg",
+        "https://telegra.ph/file/8c933225c2de8dbc26907.jpg",
+        "https://telegra.ph/file/95bb6d06273405e9f5287.jpg",
+        "https://telegra.ph/file/49225f4c893bfd89413b6.jpg",
+        "https://telegra.ph/file/fd224740f7c36f8b95f43.jpg",
+        "https://telegra.ph/file/6fe9df604c186141ade4b.jpg",
+        "https://telegra.ph/file/4fe80c7929743b6c79a6d.jpg",
+        "https://telegra.ph/file/9d91b13f75999db638838.jpg",
+        "https://telegra.ph/file/bea7dc304623fca8af33e.jpg",
+        "https://telegra.ph/file/c29a60d914e4a3c79f045.jpg",
+        "https://telegra.ph/file/00c9dd2138e6de9e65e82.jpg",
+        "https://telegra.ph/file/43de67e31c24823ada252.jpg",
+        "https://telegra.ph/file/d532778a728166e6f3866.jpg",
+        "https://telegra.ph/file/22d6726800127331ea304.jpg",
+        "https://telegra.ph/file/b30b815af874de27859e2.jpg",
+        "https://telegra.ph/file/0878ac641214d72be25c2.jpg",
+        "https://telegra.ph/file/57d33e7eaf38e1d4a2ee9.jpg",
+        "https://telegra.ph/file/3ffeaed07e9e9e656488c.jpg",
+        "https://telegra.ph/file/d1b4c4a1f196bbe0662c0.jpg",
+        "https://telegra.ph/file/7846c575aaf078095596d.jpg",
+        "https://telegra.ph/file/6fd5638bb980417770534.jpg",
+        "https://telegra.ph/file/2b3b900908d4896a04339.jpg",
+        "https://telegra.ph/file/295a6955b65af96c20495.jpg",
+        "https://telegra.ph/file/3671e05a69f8af29b542e.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

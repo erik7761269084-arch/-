@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11424,
+    "title": "[ねろましん] 豊穣の隷属エルフ〜淫獄に堕ちる母娘〜 第1話",
+    "sourceUrl": "https://telegra.ph/ねろましん-豊穣の隷属エルフ淫獄に堕ちる母娘-第1話-08-31",
+    "images": [
+        "https://telegra.ph/file/94284c9833b5a148dd37d.jpg",
+        "https://telegra.ph/file/5d7c3ecb10e616f5ed2a1.jpg",
+        "https://telegra.ph/file/56e464865fb8f9534d0db.jpg",
+        "https://telegra.ph/file/3e7604a667bfc63de1650.jpg",
+        "https://telegra.ph/file/4778b12e75c0a221725ea.jpg",
+        "https://telegra.ph/file/014014aff86e18880121b.jpg",
+        "https://telegra.ph/file/e6ff0c527590a565318f2.jpg",
+        "https://telegra.ph/file/0c1c5cb11340cf90d4086.jpg",
+        "https://telegra.ph/file/291dfab15729b919c3f13.jpg",
+        "https://telegra.ph/file/35c2e74033f90237f67d1.jpg",
+        "https://telegra.ph/file/22898ffef08a72d3dec70.jpg",
+        "https://telegra.ph/file/03096cd82bc7b8bd85132.jpg",
+        "https://telegra.ph/file/32fa327440d5eb436e38c.jpg",
+        "https://telegra.ph/file/c14640d3ab5fc267bc820.jpg",
+        "https://telegra.ph/file/95805d523ef7aabc0bdf5.jpg",
+        "https://telegra.ph/file/a0d8dfcf1dcbf8adf95e6.jpg",
+        "https://telegra.ph/file/417d726df7d9f9a304022.jpg",
+        "https://telegra.ph/file/c1d7aeb66b7c764ce7bd8.jpg",
+        "https://telegra.ph/file/36b2ec63ef707582f456c.jpg",
+        "https://telegra.ph/file/51f4d0835cf41dac361d2.jpg",
+        "https://telegra.ph/file/b52b61234f9a9cebe5d1b.jpg",
+        "https://telegra.ph/file/bfd5beeb3742a3b74e867.jpg",
+        "https://telegra.ph/file/1f6f55e34c196cdd6671d.jpg",
+        "https://telegra.ph/file/fa3000aaabb09b6116615.jpg",
+        "https://telegra.ph/file/039aa59e7324653eec2a5.jpg",
+        "https://telegra.ph/file/21369677ffb9b77f40288.jpg",
+        "https://telegra.ph/file/6b9b603604885d1c1a54f.jpg",
+        "https://telegra.ph/file/f6db2ac4182ef6dfaece4.jpg",
+        "https://telegra.ph/file/81db4e238a2b615cc84e2.jpg",
+        "https://telegra.ph/file/fba5a508b96276e9c8689.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

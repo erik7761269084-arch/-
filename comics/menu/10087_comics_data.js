@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10087,
+    "title": "[C.R's NEST (しーあーる)] 樫野のおっぱいで献身的にお世話される本 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/CRs-NEST-しーあーる-樫野のおっぱいで献身的にお世話される本-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/f2739dfe8def4063811da.jpg",
+        "https://telegra.ph/file/901cedcc8de32fa307707.jpg",
+        "https://telegra.ph/file/e579cb43ae43527b6834a.jpg",
+        "https://telegra.ph/file/80ded797668f2d86b87b4.jpg",
+        "https://telegra.ph/file/bc435a0cd9a7eaac98743.jpg",
+        "https://telegra.ph/file/4da1841983cc2a0e17e3c.jpg",
+        "https://telegra.ph/file/2746c8cefdb3c1dbfe268.jpg",
+        "https://telegra.ph/file/eb435ff60e434522d4307.jpg",
+        "https://telegra.ph/file/7b33a562d3449d46d8981.jpg",
+        "https://telegra.ph/file/605eb2bb71259df4f0daa.jpg",
+        "https://telegra.ph/file/dd5e30550d1e18323f834.jpg",
+        "https://telegra.ph/file/a0f7cf0a496e532ed8aaa.jpg",
+        "https://telegra.ph/file/c7a1b4324f2131bbd4082.jpg",
+        "https://telegra.ph/file/af880b8a55433acb8b25b.jpg",
+        "https://telegra.ph/file/328447dd82d825a62bd0d.jpg",
+        "https://telegra.ph/file/aa355713560fb18410783.jpg",
+        "https://telegra.ph/file/b2e8c666e7f4fe81de678.jpg",
+        "https://telegra.ph/file/cdb4509c915faaf9346b8.jpg",
+        "https://telegra.ph/file/77d9fa2a47f9372c9a3c1.jpg",
+        "https://telegra.ph/file/e025f54ba7a516b0f22ef.jpg",
+        "https://telegra.ph/file/46639b476b9ff9ba0cbd4.jpg",
+        "https://telegra.ph/file/f04b9b20304b0d909715f.jpg",
+        "https://telegra.ph/file/97eedf59ae027b9c9d537.jpg",
+        "https://telegra.ph/file/45d21d48cc1f56635646a.jpg",
+        "https://telegra.ph/file/91598dac588d280be5398.jpg",
+        "https://telegra.ph/file/3a41b891a54ed50fb962a.jpg",
+        "https://telegra.ph/file/65bfd3dc830fee618ddd3.jpg",
+        "https://telegra.ph/file/695692584e1382ad14bbb.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1a6757ebf9d62bc7f1113.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

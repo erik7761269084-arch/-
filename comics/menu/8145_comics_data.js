@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8145,
+    "title": "[蜂蜜ロマンス (榎ゆきみ)] ナツメキ (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/蜂蜜ロマンス-榎ゆきみ-ナツメキ-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/fa47cec1af448511396ef.jpg",
+        "https://telegra.ph/file/86c9771b7c0a680cfe15c.jpg",
+        "https://telegra.ph/file/5c6816088a92433332cfd.jpg",
+        "https://telegra.ph/file/d5b6dbbb0379b0d57f2ee.jpg",
+        "https://telegra.ph/file/4500316526b1db2e5959a.jpg",
+        "https://telegra.ph/file/eda818914a59a1cbb239b.jpg",
+        "https://telegra.ph/file/f81abb7914434c80d92e3.jpg",
+        "https://telegra.ph/file/e11935d574375d375b6a1.jpg",
+        "https://telegra.ph/file/65711e1ec275b753ace45.jpg",
+        "https://telegra.ph/file/ad56ca1c710fecf3ce4b9.jpg",
+        "https://telegra.ph/file/10aac9c3221e8e96bc157.jpg",
+        "https://telegra.ph/file/56aa22ee99c34b1138ec0.jpg",
+        "https://telegra.ph/file/28ea323054cc6b8076d4b.jpg",
+        "https://telegra.ph/file/92b848d081d707986831d.jpg",
+        "https://telegra.ph/file/8fd1bd0e7ebd5793cede4.jpg",
+        "https://telegra.ph/file/79e2dd503d52bd6e877fc.jpg",
+        "https://telegra.ph/file/ee60cd61da34142d3ba0c.jpg",
+        "https://telegra.ph/file/c0804dd22c7161a1df703.jpg",
+        "https://telegra.ph/file/3129bcb40f9acabf22d55.jpg",
+        "https://telegra.ph/file/067857644d0df98dce5bd.jpg",
+        "https://telegra.ph/file/9187a697410937860ba2c.jpg",
+        "https://telegra.ph/file/a4d61bb4a9cabc601d62c.jpg",
+        "https://telegra.ph/file/3912ae36c911c015bffbf.jpg",
+        "https://telegra.ph/file/16ed2fa40151a1aa7e139.jpg",
+        "https://telegra.ph/file/be3aa02369b4b39c57ce8.jpg",
+        "https://telegra.ph/file/2e4d3ac2fa05fc8d6a7d3.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/ed8c50f90f950b3fd8a60.jpg",
+        "https://telegra.ph/file/f967b1defaadb6d21c016.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/a8bb1510d150914c398f6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11501,
+    "title": "(C96) [愚者枢密院 (惡鬼外導丸)] Vつまみぐい (鷹宮リオン、名取さな、ディープウェブ・アンダーグラウンド)",
+    "sourceUrl": "https://telegra.ph/C96-愚者枢密院-惡鬼外導丸-Vつまみぐい-鷹宮リオン名取さなディープウェブアンダーグラウンド-08-31",
+    "images": [
+        "https://telegra.ph/file/9fdd56f72894d8e59342f.jpg",
+        "https://telegra.ph/file/3431199c160dbf61cc84a.jpg",
+        "https://telegra.ph/file/4cd608a5aa65bb926616b.jpg",
+        "https://telegra.ph/file/b2cbe12200566f50ea309.jpg",
+        "https://telegra.ph/file/38eda8bd8060d9ea1d39b.jpg",
+        "https://telegra.ph/file/42f652f232e5530319666.jpg",
+        "https://telegra.ph/file/e8d13d910878af6bf6f6a.jpg",
+        "https://telegra.ph/file/9a1c6b5d1b6dad584418d.jpg",
+        "https://telegra.ph/file/e2d67bac28938d2887aba.jpg",
+        "https://telegra.ph/file/45743a85b065d64df3396.jpg",
+        "https://telegra.ph/file/400935d21c0d6c0c74fc9.jpg",
+        "https://telegra.ph/file/14442cc5f74a365f11695.jpg",
+        "https://telegra.ph/file/3440d36e33a28fc37e701.jpg",
+        "https://telegra.ph/file/899a6181261ca55948323.jpg",
+        "https://telegra.ph/file/6b1b9c3cb24445df326eb.jpg",
+        "https://telegra.ph/file/c292866b781ada604d21e.jpg",
+        "https://telegra.ph/file/bf08bdcf8535822035d5e.jpg",
+        "https://telegra.ph/file/4b7986d6126a07c8b43e7.jpg",
+        "https://telegra.ph/file/a557e191d80eff72d82d3.jpg",
+        "https://telegra.ph/file/a07547bf78a6209edd0ad.jpg",
+        "https://telegra.ph/file/3311d514afe801fa467a4.jpg",
+        "https://telegra.ph/file/ffb6c248f99cb14f04c6b.jpg",
+        "https://telegra.ph/file/5ef97a662eb5f7a603a31.jpg",
+        "https://telegra.ph/file/7a07c013c56aab6158df2.jpg",
+        "https://telegra.ph/file/77b84d2b2dad0c7fc02de.jpg",
+        "https://telegra.ph/file/e6426e9e204d7f5a438bf.jpg",
+        "https://telegra.ph/file/317f16d5207633643424b.jpg",
+        "https://telegra.ph/file/75910705944285c410344.jpg",
+        "https://telegra.ph/file/befc20c15ab237f712996.jpg",
+        "https://telegra.ph/file/ed2fc2fa027ab0512b186.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/c5af3f8e11e17b057395f.jpg",
+        "https://telegra.ph/file/b7684873a51de755531ed.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

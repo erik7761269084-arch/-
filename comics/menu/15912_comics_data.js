@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15912,
+    "title": "(C103) [くまのりょういき (くまのり)] 今夜キミと大好きしよう (ラブライブ! スーパースター!!) -Preview",
+    "sourceUrl": "https://telegra.ph/C103-くまのりょういき-くまのり-今夜キミと大好きしよう-ラブライブ-スーパースター--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/828d065b60dacb37bc2ce.jpg",
+        "https://telegra.ph/file/3c911c70bcf4bff50f20e.jpg",
+        "https://telegra.ph/file/8000aeb11167ae53b5d97.jpg",
+        "https://telegra.ph/file/5e220ba07d83aafc14aff.jpg",
+        "https://telegra.ph/file/55f1853230d0d7111eb0f.jpg",
+        "https://telegra.ph/file/33b35781f8d2c6ad1cda5.jpg",
+        "https://telegra.ph/file/0a7d327fece9827a64a80.jpg",
+        "https://telegra.ph/file/f3baf0254852315a21884.jpg",
+        "https://telegra.ph/file/4d72998d2b63454908cdd.jpg",
+        "https://telegra.ph/file/656bae0d0defdb824c854.jpg",
+        "https://telegra.ph/file/e4508d5bc38af5ff7b9b4.jpg",
+        "https://telegra.ph/file/ad11ef7b9cdb2c7ba4812.jpg",
+        "https://telegra.ph/file/83238579e3f76c416aad6.jpg",
+        "https://telegra.ph/file/6fedc435235b2209ef46b.jpg",
+        "https://telegra.ph/file/3c17db366a6b08a020820.jpg",
+        "https://telegra.ph/file/84b06e73c534a330354b4.jpg",
+        "https://telegra.ph/file/5fcf7d54306ed27a3c69c.jpg",
+        "https://telegra.ph/file/4be0c070ce39875843147.jpg",
+        "https://telegra.ph/file/1707e481ed00c9712ea3c.jpg",
+        "https://telegra.ph/file/7cca2e635c506675bcab4.jpg",
+        "https://telegra.ph/file/80dabf4f7786f88125d83.jpg",
+        "https://telegra.ph/file/88af631a720d0492b8326.jpg",
+        "https://telegra.ph/file/58b9801e1b29f0210cd7a.jpg",
+        "https://telegra.ph/file/e77323fcac80432f20cfa.jpg",
+        "https://telegra.ph/file/47fcfc9e3c6a975a7c374.jpg",
+        "https://telegra.ph/file/700d0e01cff6d86527191.jpg",
+        "https://telegra.ph/file/ee83b1da3693dadcd53a2.jpg",
+        "https://telegra.ph/file/d5788c8be8c5e686caf37.jpg",
+        "https://telegra.ph/file/34cb5f32b348184231008.jpg",
+        "https://telegra.ph/file/2a9227dd9ea55d2320c4d.jpg",
+        "https://telegra.ph/file/51b960ef3cb521e546e60.jpg",
+        "https://telegra.ph/file/ebc864b24f7921ed974d2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

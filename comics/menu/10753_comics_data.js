@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10753,
+    "title": "(C94) [黄泉比良坂 (bbsacon)] 楽園淫姫II (ドラゴンクエストXI)",
+    "sourceUrl": "https://telegra.ph/C94-黄泉比良坂-bbsacon-楽園淫姫II-ドラゴンクエストXI-08-31",
+    "images": [
+        "https://telegra.ph/file/640e28be123fdf07a4c42.jpg",
+        "https://telegra.ph/file/2a2ba6b37f2ce2e2bee90.jpg",
+        "https://telegra.ph/file/8ad382e9b65be802083e3.jpg",
+        "https://telegra.ph/file/656348abf360f30b9b777.jpg",
+        "https://telegra.ph/file/5ccc1c7f0a2bccc9e07af.jpg",
+        "https://telegra.ph/file/e1449e2a67e04184507e8.jpg",
+        "https://telegra.ph/file/1ee678f46b023145e4dbd.jpg",
+        "https://telegra.ph/file/7af4ba9b3dd0f491e6cf6.jpg",
+        "https://telegra.ph/file/0aa645e89aebfa1eb9d47.jpg",
+        "https://telegra.ph/file/89adc9a080b08b9b2e06c.jpg",
+        "https://telegra.ph/file/88c320eb8a60fa92e2464.jpg",
+        "https://telegra.ph/file/f83cd6da64fdeab3be78a.jpg",
+        "https://telegra.ph/file/4e7e2e3603d048fe68933.jpg",
+        "https://telegra.ph/file/aac812cead01b02145401.jpg",
+        "https://telegra.ph/file/9c7698b13755e2c025c66.jpg",
+        "https://telegra.ph/file/3f25ab252becc3b68bf9c.jpg",
+        "https://telegra.ph/file/5f92a3fdc1f637961ab99.jpg",
+        "https://telegra.ph/file/aface2f80c909ca8c5713.jpg",
+        "https://telegra.ph/file/87062cbbb794e9f46c2db.jpg",
+        "https://telegra.ph/file/89ee106d4facff1f00962.jpg",
+        "https://telegra.ph/file/8d5a393cc103d1dbac4f6.jpg",
+        "https://telegra.ph/file/a823a10f43d1860fec635.jpg",
+        "https://telegra.ph/file/0c3c8f3681642e229bae6.jpg",
+        "https://telegra.ph/file/3b9c87595158254485d68.jpg",
+        "https://telegra.ph/file/47a61daffcb5213bf5818.jpg",
+        "https://telegra.ph/file/2e9b80e5ac9aa8ca8da92.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

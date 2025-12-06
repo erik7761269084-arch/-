@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12724,
+    "title": "友達のようなオタク後輩と泥酔えっち",
+    "sourceUrl": "https://telegra.ph/友達のようなオタク後輩と泥酔えっち-08-31",
+    "images": [
+        "https://telegra.ph/file/33eb55e6a2b928342ad3a.jpg",
+        "https://telegra.ph/file/08cf4f73bf9d8dbb53a44.jpg",
+        "https://telegra.ph/file/3f994be20af6a52bb9c0c.jpg",
+        "https://telegra.ph/file/c493990c804fadfbb074c.jpg",
+        "https://telegra.ph/file/dc84b9c5cc0ffe928a482.jpg",
+        "https://telegra.ph/file/feae1904ee4c44b408171.jpg",
+        "https://telegra.ph/file/88c0dea1650448afacbec.jpg",
+        "https://telegra.ph/file/a54c691699f08d740e576.jpg",
+        "https://telegra.ph/file/6130a0b3a75a76b3c768f.jpg",
+        "https://telegra.ph/file/462bd6ed183cef1fe4969.jpg",
+        "https://telegra.ph/file/bfdd2ead8af41e82a026d.jpg",
+        "https://telegra.ph/file/427f47044ac640b7da2d9.jpg",
+        "https://telegra.ph/file/8866982bb43d3eb776e4a.jpg",
+        "https://telegra.ph/file/5e9d9ec45cf297d0e81b6.jpg",
+        "https://telegra.ph/file/976140f114b6bea604aff.jpg",
+        "https://telegra.ph/file/7480373f8bff7ed968265.jpg",
+        "https://telegra.ph/file/fc0a007ac252be3a0e024.jpg",
+        "https://telegra.ph/file/bfd344fedefd39cea1ec1.jpg",
+        "https://telegra.ph/file/1fa5b655d4a05cf685544.jpg",
+        "https://telegra.ph/file/33a85a3faf76b27b48d4f.jpg",
+        "https://telegra.ph/file/b61a58bcf32b6b5b64636.jpg",
+        "https://telegra.ph/file/b4eaf95dbe1a7f64257da.jpg",
+        "https://telegra.ph/file/6f67c48f0be8b737c7909.jpg",
+        "https://telegra.ph/file/f2498d7d4c2302f872d94.jpg",
+        "https://telegra.ph/file/9c671c52ced37fc82611d.jpg",
+        "https://telegra.ph/file/57a39f89b5fb4c7655f1a.jpg",
+        "https://telegra.ph/file/bf25c671fd11d5eb634ec.jpg",
+        "https://telegra.ph/file/8940045731d26e3dfa34c.jpg",
+        "https://telegra.ph/file/a0bb5c7f2afb5e2988b04.jpg",
+        "https://telegra.ph/file/2819acf4dff35b9bcd17b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

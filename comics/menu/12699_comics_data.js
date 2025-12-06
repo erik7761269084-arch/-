@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12699,
+    "title": "[ほとりぼっち (桜去ほとり)] 妊孕性の高い7つ下の妹と2人めを拵える本",
+    "sourceUrl": "https://telegra.ph/ほとりぼっち-桜去ほとり-妊孕性の高い7つ下の妹と2人めを拵える本-08-31",
+    "images": [
+        "https://telegra.ph/file/244ca702bbc2677315c59.jpg",
+        "https://telegra.ph/file/7ed7a3db197ca36145780.jpg",
+        "https://telegra.ph/file/bb6d4a31efda3326165d5.jpg",
+        "https://telegra.ph/file/c09304453741990033c60.jpg",
+        "https://telegra.ph/file/7a4008a0b7498b852c030.jpg",
+        "https://telegra.ph/file/0ab43dee1d44b5e8db36f.jpg",
+        "https://telegra.ph/file/21664aec5c45f06079030.jpg",
+        "https://telegra.ph/file/5169f8db4d9e54cbf54f6.jpg",
+        "https://telegra.ph/file/59d863f4b0d42aee90bcf.jpg",
+        "https://telegra.ph/file/48cd7dd18d36989f06ea7.jpg",
+        "https://telegra.ph/file/2dff22666a6eaed26dfda.jpg",
+        "https://telegra.ph/file/6f3e94aa32b634ba97de0.jpg",
+        "https://telegra.ph/file/1fd7c9ef76634e8dc3165.jpg",
+        "https://telegra.ph/file/1ba48743a57664717e581.jpg",
+        "https://telegra.ph/file/2440a1b13a8158170e589.jpg",
+        "https://telegra.ph/file/18f8e5fa15f2a5efda7c6.jpg",
+        "https://telegra.ph/file/1f779c052a8ec84843d98.jpg",
+        "https://telegra.ph/file/c6048d79de83be739a126.jpg",
+        "https://telegra.ph/file/684e95aaf2d6aeb51de08.jpg",
+        "https://telegra.ph/file/d704338a25be2f2c919a5.jpg",
+        "https://telegra.ph/file/e9863099eff9df8f3d694.jpg",
+        "https://telegra.ph/file/cc3e2a115063f68d95314.jpg",
+        "https://telegra.ph/file/89ac86c9dad1ca1b164c7.jpg",
+        "https://telegra.ph/file/45aa8a5ff2bc206238628.jpg",
+        "https://telegra.ph/file/bc247f80a607667a1e7c7.jpg",
+        "https://telegra.ph/file/f92f23a7bb12b34bba640.jpg",
+        "https://telegra.ph/file/28b408de5ecc4b96de67a.jpg",
+        "https://telegra.ph/file/68fad63572a6eea6f0111.jpg",
+        "https://telegra.ph/file/04efcae19ffb4f3bc71ac.jpg",
+        "https://telegra.ph/file/7b8b296534814cbf35696.jpg",
+        "https://telegra.ph/file/de662adbaa6fcf7585ac4.jpg",
+        "https://telegra.ph/file/5189e20866abb532c8049.jpg",
+        "https://telegra.ph/file/7c4d1667db167ec871895.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

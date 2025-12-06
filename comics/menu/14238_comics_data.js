@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14238,
+    "title": "[Armadillo (練慈)] 逆寝取りは彼女の18番 2 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/Armadillo-練慈-逆寝取りは彼女の18番-2-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/4235b53ea5563042ad2de.jpg",
+        "https://telegra.ph/file/f1ac9da45ac1081d2c6c5.jpg",
+        "https://telegra.ph/file/a422284e25b6ad2065be1.jpg",
+        "https://telegra.ph/file/ac063d7bbd404e93fc443.jpg",
+        "https://telegra.ph/file/f05ad9d4b73f94114ee34.jpg",
+        "https://telegra.ph/file/cfb3cac3e0f45d241bbef.jpg",
+        "https://telegra.ph/file/0aaf807e3bba81b81bb37.jpg",
+        "https://telegra.ph/file/7447739a35709d968f670.jpg",
+        "https://telegra.ph/file/11a6af95a60ef101c3062.jpg",
+        "https://telegra.ph/file/435aa2343bfd19f026521.jpg",
+        "https://telegra.ph/file/6e8567d89759ccf0a0f91.jpg",
+        "https://telegra.ph/file/e29f53670b6c3fb1aed85.jpg",
+        "https://telegra.ph/file/b891f052a9a2a0269b5e2.jpg",
+        "https://telegra.ph/file/761f80fb8fca7dfa26154.jpg",
+        "https://telegra.ph/file/031c2c8529608407c8684.jpg",
+        "https://telegra.ph/file/ae1129e64a4854fbcf721.jpg",
+        "https://telegra.ph/file/8aa0ce0f89c19087903b5.jpg",
+        "https://telegra.ph/file/46e7464b03c5d112225dc.jpg",
+        "https://telegra.ph/file/52556cb990c5a299a3fe4.jpg",
+        "https://telegra.ph/file/3c286307f5284f3e1a45c.jpg",
+        "https://telegra.ph/file/901ff3b2c7b18c470fce3.jpg",
+        "https://telegra.ph/file/8fb81c26f6e9d1a0003ce.jpg",
+        "https://telegra.ph/file/0bf4d36b8fa057b2cec4c.jpg",
+        "https://telegra.ph/file/650cb6e0e7e7f31f0a07f.jpg",
+        "https://telegra.ph/file/eae3c990c751c46406262.jpg",
+        "https://telegra.ph/file/3f9a7b352509c8a13b24f.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/739cfa05d0bdd035b18bd.png",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/f27e1bf1a5a4ba0aad9a8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

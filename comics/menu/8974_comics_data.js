@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8974,
+    "title": "[青葉Q魔洞 (双葉淀夢)] 曲がりなりにもふたなりDAYS-凛々しき乙女の性器潤礼-",
+    "sourceUrl": "https://telegra.ph/青葉Q魔洞-双葉淀夢-曲がりなりにもふたなりDAYS-凛々しき乙女の性器潤礼-08-31",
+    "images": [
+        "https://telegra.ph/file/7e9e0fa5a0b8bcfe0a7d7.jpg",
+        "https://telegra.ph/file/4819b0f80ee0667d9d274.jpg",
+        "https://telegra.ph/file/2aedbde4ff10d40b87fd5.jpg",
+        "https://telegra.ph/file/2b0b231760278f6dec652.jpg",
+        "https://telegra.ph/file/38081356d5568d8383a69.jpg",
+        "https://telegra.ph/file/1a56e98de01785fef9f86.jpg",
+        "https://telegra.ph/file/20b2d5b63d452228e1d3a.jpg",
+        "https://telegra.ph/file/594753a7415964fda545f.jpg",
+        "https://telegra.ph/file/e32dd5df09093dcb9e9d2.jpg",
+        "https://telegra.ph/file/47992858b83f0615b1f0e.jpg",
+        "https://telegra.ph/file/23307dcb0028eb790514c.jpg",
+        "https://telegra.ph/file/dd230a1de9c54bf6948a5.jpg",
+        "https://telegra.ph/file/61770781ecd83a3249e7e.jpg",
+        "https://telegra.ph/file/6641f2ba0ac48542da143.jpg",
+        "https://telegra.ph/file/2e01d00235460b95fb058.jpg",
+        "https://telegra.ph/file/f0952d1664ad95fd6f132.jpg",
+        "https://telegra.ph/file/b96f436e5bf33c06e1b7a.jpg",
+        "https://telegra.ph/file/e3cacb5337c62b5e509e7.jpg",
+        "https://telegra.ph/file/1aeaa2496afde67321f3c.jpg",
+        "https://telegra.ph/file/08818d8e505dbcd3ba9a8.jpg",
+        "https://telegra.ph/file/3aee81cecb7a2ae1b154e.jpg",
+        "https://telegra.ph/file/ded955596b2623cbb1407.jpg",
+        "https://telegra.ph/file/6217946f1a760b8f30c5f.jpg",
+        "https://telegra.ph/file/a5083819314c5ec5b86b0.jpg",
+        "https://telegra.ph/file/bcbc3d88250c5eba16165.jpg",
+        "https://telegra.ph/file/3db6268617bcb4ed32bdc.jpg",
+        "https://telegra.ph/file/5bbc1723e0122b465fec9.jpg",
+        "https://telegra.ph/file/1897de5b347f4cde6ae5d.jpg",
+        "https://telegra.ph/file/1bcd25c09d493d160d844.jpg",
+        "https://telegra.ph/file/5bc57f314d064fab0363c.jpg",
+        "https://telegra.ph/file/2286df595d5e4fb94bfb0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

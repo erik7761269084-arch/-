@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9750,
+    "title": "[ぱいんとさいず (ヴァニラコーク、TKS)] 人間操作アプリ ヒプノシス ～第四章～",
+    "sourceUrl": "https://telegra.ph/ぱいんとさいず-ヴァニラコークTKS-人間操作アプリ-ヒプノシス-第四章-08-31",
+    "images": [
+        "https://telegra.ph/file/050d8e7c021531d36e8a7.jpg",
+        "https://telegra.ph/file/60058267fe471cfb0c944.jpg",
+        "https://telegra.ph/file/30be52a2b217c83f56057.jpg",
+        "https://telegra.ph/file/0c09ba9956bbd5462028f.jpg",
+        "https://telegra.ph/file/ce691dc869a9a70528d92.jpg",
+        "https://telegra.ph/file/2857d248b2ce639ad15f3.jpg",
+        "https://telegra.ph/file/6859eeed1badd441f155d.jpg",
+        "https://telegra.ph/file/d7574bf3164d2a93c86ee.jpg",
+        "https://telegra.ph/file/124c4f33ab431da867fb8.jpg",
+        "https://telegra.ph/file/47a7a7e1e0d21fcfcb346.jpg",
+        "https://telegra.ph/file/6efc5a962e8cf3acab7ab.jpg",
+        "https://telegra.ph/file/0fdc99948494b179203cd.jpg",
+        "https://telegra.ph/file/7e5fb0412d4f39911ed05.jpg",
+        "https://telegra.ph/file/6c7cb31743313fdb68f95.jpg",
+        "https://telegra.ph/file/702c01771813f8e146cec.jpg",
+        "https://telegra.ph/file/6ca688a8aafe80cd6fb5c.jpg",
+        "https://telegra.ph/file/9dbe0472c57980d1e5623.jpg",
+        "https://telegra.ph/file/b06e2040bd00300d4003c.jpg",
+        "https://telegra.ph/file/4410d9e3fa954665b4fd7.jpg",
+        "https://telegra.ph/file/aa82b7984733342f87ec2.jpg",
+        "https://telegra.ph/file/030c6d66c3fdb9fd44c1f.jpg",
+        "https://telegra.ph/file/a049fe79624a4f77d5453.jpg",
+        "https://telegra.ph/file/a6c8a86d6bf5104ee1ba0.jpg",
+        "https://telegra.ph/file/37d3b99c0476664ff029e.jpg",
+        "https://telegra.ph/file/fdfa0423458c40a611c80.jpg",
+        "https://telegra.ph/file/e12854880b571fd340787.jpg",
+        "https://telegra.ph/file/0a8925f62db425bfaac8d.jpg",
+        "https://telegra.ph/file/112299890500a4d43d29e.jpg",
+        "https://telegra.ph/file/41d53fa3326f0fc04c36c.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

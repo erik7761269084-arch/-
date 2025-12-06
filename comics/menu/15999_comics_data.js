@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15999,
+    "title": "(C81) [PURE (南方純)] 銀猫 (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/C81-PURE-南方純-銀猫-東方Project--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/750bd08b3d06c146e36f0.jpg",
+        "https://telegra.ph/file/14649514261446dcc781b.jpg",
+        "https://telegra.ph/file/2740ee0f8f6a5d37ecfe0.jpg",
+        "https://telegra.ph/file/645278e54025060512dff.jpg",
+        "https://telegra.ph/file/d0a5b3e5651c61b7deb9f.jpg",
+        "https://telegra.ph/file/a4062262363a898ffd3cf.jpg",
+        "https://telegra.ph/file/18684ae3859093dfcc33a.jpg",
+        "https://telegra.ph/file/9c8f5d95ba69c2bf06b05.jpg",
+        "https://telegra.ph/file/d6d5b821699008fc54d97.jpg",
+        "https://telegra.ph/file/0ddac0f392e5fd7a1e3c9.jpg",
+        "https://telegra.ph/file/a0498b904cad69a65ac64.jpg",
+        "https://telegra.ph/file/a9527e0686840ded4e793.jpg",
+        "https://telegra.ph/file/2488cf270f36f48adb9f8.jpg",
+        "https://telegra.ph/file/0988543a216e28f452cc6.jpg",
+        "https://telegra.ph/file/6fe6bbdf35d37bd118b59.jpg",
+        "https://telegra.ph/file/a8428e55ae28e8f64dd22.jpg",
+        "https://telegra.ph/file/a9604c5229929ea4851fb.jpg",
+        "https://telegra.ph/file/04d460b0126159a465760.jpg",
+        "https://telegra.ph/file/824119629855d36ccd0c2.jpg",
+        "https://telegra.ph/file/f8de79eb010ac6e95f530.jpg",
+        "https://telegra.ph/file/bcb82fe71f5e9bf47c709.jpg",
+        "https://telegra.ph/file/054b0369accb409733800.jpg",
+        "https://telegra.ph/file/41d06540b520de4ed04fe.jpg",
+        "https://telegra.ph/file/afc8feecb88bd297ca2e8.jpg",
+        "https://telegra.ph/file/a141b47df1f8aca3d3cf7.jpg",
+        "https://telegra.ph/file/e9d6c8a8cf04448762e9d.jpg",
+        "https://telegra.ph/file/67df86a864ab8a134520e.jpg",
+        "https://telegra.ph/file/8cc8a8bc7bfc720bace4b.jpg",
+        "https://telegra.ph/file/edf6be8aa75e250bd6ef6.jpg",
+        "https://telegra.ph/file/a55f61616baed564fd4a2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

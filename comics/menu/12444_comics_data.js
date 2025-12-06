@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12444,
+    "title": "[ななめの (おそまつ)] おにいちゃんの、せいだよ",
+    "sourceUrl": "https://telegra.ph/ななめの-おそまつ-おにいちゃんのせいだよ-08-31",
+    "images": [
+        "https://telegra.ph/file/210c4e73232949718dbc0.jpg",
+        "https://telegra.ph/file/4df73f351332ed359a6d3.jpg",
+        "https://telegra.ph/file/72443aa7f824a6c840d10.jpg",
+        "https://telegra.ph/file/2e16f137cc8f56f6bcca8.jpg",
+        "https://telegra.ph/file/fd57e0a4aaf8b887022e3.jpg",
+        "https://telegra.ph/file/8260a32dd8601234010df.jpg",
+        "https://telegra.ph/file/bb6eb994e58d6c45e7fa5.jpg",
+        "https://telegra.ph/file/a5b0d9110a221805d39ce.jpg",
+        "https://telegra.ph/file/d8777a26a35582d072b42.jpg",
+        "https://telegra.ph/file/c22ddf142c6c8925f0ade.jpg",
+        "https://telegra.ph/file/6d484eda9ed2f855e7e69.jpg",
+        "https://telegra.ph/file/d0880d51dc3e0bc5fff62.jpg",
+        "https://telegra.ph/file/973d5c4ff0e0de4eaa57a.jpg",
+        "https://telegra.ph/file/12a3555462f43675208e7.jpg",
+        "https://telegra.ph/file/a18687598c2b3be8e3fd5.jpg",
+        "https://telegra.ph/file/c1d74cd3074398ec85485.jpg",
+        "https://telegra.ph/file/da99724d0193ba8d9b43c.jpg",
+        "https://telegra.ph/file/7ec293eb702d68235a77a.jpg",
+        "https://telegra.ph/file/356c48418726b75547106.jpg",
+        "https://telegra.ph/file/3f3e3f05792621962b054.jpg",
+        "https://telegra.ph/file/442a85e139e2294a84222.jpg",
+        "https://telegra.ph/file/2442cb5be2d112f171af5.jpg",
+        "https://telegra.ph/file/42dbadab36473ef526a01.jpg",
+        "https://telegra.ph/file/668bbaec0f1e681fdc959.jpg",
+        "https://telegra.ph/file/69bc5d7a516c38fe5964e.jpg",
+        "https://telegra.ph/file/d13bcd1067899c9e9ea1e.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/54ec5de104641f95dfa89.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

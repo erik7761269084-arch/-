@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16313,
+    "title": "(HaruCC26) [その他大勢 (ゆかたろ)] 今日はわたしがするって言ったのに! (Fate/Grand Order)-Preview",
+    "sourceUrl": "https://telegra.ph/HaruCC26-その他大勢-ゆかたろ-今日はわたしがするって言ったのに-FateGrand-Order-Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/001a.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/001b.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/002.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/003.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/004.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/005.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/006.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/007.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/008.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/009.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/010.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/011.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/012.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/013.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/014.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/015.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/016.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/017.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/018.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/019.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/020.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/021.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/022.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/023.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/024.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/025.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/026.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/027.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/028.jpg",
+        "https://i2.linghua.xyz/ex/2061747/aba0a7c36b/029.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

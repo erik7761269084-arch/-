@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12841,
+    "title": "(C99) [常時無常 (篠塚醸二)] Fle★Pai USA (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C99-常時無常-篠塚醸二-FlePai-USA-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/d90140bbae31b95c94500.jpg",
+        "https://telegra.ph/file/4018d7ae79cbccca4f32c.jpg",
+        "https://telegra.ph/file/cbb1b3d85c0710ae20937.jpg",
+        "https://telegra.ph/file/3b0501d049c8929eafe3f.jpg",
+        "https://telegra.ph/file/d13f200f8db9cac32d81e.jpg",
+        "https://telegra.ph/file/0f289eb7fc63ce44e6eae.jpg",
+        "https://telegra.ph/file/ee6321cb4ae96c388befc.jpg",
+        "https://telegra.ph/file/afda3fc362a362c28f1dc.jpg",
+        "https://telegra.ph/file/a11aa2735ee3c07354667.jpg",
+        "https://telegra.ph/file/8f8a680f13d379fa4b193.jpg",
+        "https://telegra.ph/file/56a9495b603e707131ce0.jpg",
+        "https://telegra.ph/file/e47359a2e06b3fa80bfed.jpg",
+        "https://telegra.ph/file/6f6334f95e9302d80ad35.jpg",
+        "https://telegra.ph/file/d52a28333eae0ccd07c11.jpg",
+        "https://telegra.ph/file/7ab849997e8276e66bed0.jpg",
+        "https://telegra.ph/file/08f51ccc1b7ea6bbfe36d.jpg",
+        "https://telegra.ph/file/a405f2fe78110a18eb82a.jpg",
+        "https://telegra.ph/file/6a11fbd76c2eaac4db0ab.jpg",
+        "https://telegra.ph/file/2da242070ab3fc1066c90.jpg",
+        "https://telegra.ph/file/99dd820371a1b5aa85924.jpg",
+        "https://telegra.ph/file/ded32b871937f66e62f5e.jpg",
+        "https://telegra.ph/file/722feb98ff1bd7b33e750.jpg",
+        "https://telegra.ph/file/de3f3411fcf9c90fe61ad.jpg",
+        "https://telegra.ph/file/c716e16d986a6c0a1023a.jpg",
+        "https://telegra.ph/file/19b04e9a295cd090ad754.jpg",
+        "https://telegra.ph/file/9cbefbda108a404ef54a1.jpg",
+        "https://telegra.ph/file/2b163e5c932734d701970.jpg",
+        "https://telegra.ph/file/e05b71b85481a4f984427.jpg",
+        "https://telegra.ph/file/ecaace612b3b48446aba0.jpg",
+        "https://telegra.ph/file/1d5dda1f9cb9dae978aec.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

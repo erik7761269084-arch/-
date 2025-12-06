@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10163,
+    "title": "[Q同人] 女海賊が秘密の接待 (ワンピース)",
+    "sourceUrl": "https://telegra.ph/Q同人-女海賊が秘密の接待-ワンピース-08-31",
+    "images": [
+        "https://telegra.ph/file/af15458a3dda9c2b2a3f1.jpg",
+        "https://telegra.ph/file/107bdc904df0e19e3ecf6.jpg",
+        "https://telegra.ph/file/406c7359a51d29f02c871.jpg",
+        "https://telegra.ph/file/107c4078d4747330516b7.jpg",
+        "https://telegra.ph/file/a013092e76f2a3423efe7.jpg",
+        "https://telegra.ph/file/d8a878ea0bc0ef4caba10.jpg",
+        "https://telegra.ph/file/0cbeeb30f140122630a5b.jpg",
+        "https://telegra.ph/file/81201b92d5721154fa0f5.jpg",
+        "https://telegra.ph/file/cde32c6aa48bd63512fa5.jpg",
+        "https://telegra.ph/file/22bca8fbc93ecf43b3c45.jpg",
+        "https://telegra.ph/file/0497ca17b9c3685c55f90.jpg",
+        "https://telegra.ph/file/bb020e4691920308af71c.jpg",
+        "https://telegra.ph/file/236ba8bb99f454263ba80.jpg",
+        "https://telegra.ph/file/c213ca6a7b9a3d661f048.jpg",
+        "https://telegra.ph/file/6f3ba618b1bc155e4a29e.jpg",
+        "https://telegra.ph/file/8271b5dae76310c4295cb.jpg",
+        "https://telegra.ph/file/1dbf7ea1d69cd12197a11.jpg",
+        "https://telegra.ph/file/3ef2abbdb86c2ebd2edcb.jpg",
+        "https://telegra.ph/file/d3884debde31c133a644a.jpg",
+        "https://telegra.ph/file/d2b693f7c52ffb1588395.jpg",
+        "https://telegra.ph/file/6b0d520210666e7227d5f.jpg",
+        "https://telegra.ph/file/b24d4b230c312dd8480de.jpg",
+        "https://telegra.ph/file/bf511104f775fee40692d.jpg",
+        "https://telegra.ph/file/bfba506363f66acca7734.jpg",
+        "https://telegra.ph/file/5280ed01515adb75064b9.jpg",
+        "https://telegra.ph/file/ff29799e82a77b0e84059.jpg",
+        "https://telegra.ph/file/020eb732f77cc3d0e761e.jpg",
+        "https://telegra.ph/file/b25c01d69758cd5d1f4a5.jpg",
+        "https://telegra.ph/file/07e433ee69b9877c04a9c.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3ed41854a50eb8110c428.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

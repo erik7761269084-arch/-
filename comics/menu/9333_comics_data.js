@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9333,
+    "title": "[013] E4J轉身",
+    "sourceUrl": "https://telegra.ph/013-E4J轉身-08-31",
+    "images": [
+        "https://telegra.ph/file/df3552fa4e84822c42257.png",
+        "https://telegra.ph/file/414e87bc06a2ac7e4fc2a.png",
+        "https://telegra.ph/file/2f019255d4bdd0f73f1c6.png",
+        "https://telegra.ph/file/0e84c7d6b653f6de2a89e.png",
+        "https://telegra.ph/file/bc9a76f347b4cbce893ab.png",
+        "https://telegra.ph/file/900364882634a334327fd.jpg",
+        "https://telegra.ph/file/52a3e1b39ba2cf0fb399b.jpg",
+        "https://telegra.ph/file/0566e481306ca351e3a49.jpg",
+        "https://telegra.ph/file/7e8985a34b1022069528b.jpg",
+        "https://telegra.ph/file/96512a9ebf282caea8fc0.jpg",
+        "https://telegra.ph/file/2aa08bc786a03beabe7b9.jpg",
+        "https://telegra.ph/file/4206eaeae3d0b38b664b2.jpg",
+        "https://telegra.ph/file/6df246b16e9ecd8d30103.jpg",
+        "https://telegra.ph/file/6e633fad3a60ce9dc2eda.jpg",
+        "https://telegra.ph/file/fca2cb2adfc754882add7.jpg",
+        "https://telegra.ph/file/211c7d06691e9c2936c40.jpg",
+        "https://telegra.ph/file/495fd6889cdc38fbecce5.jpg",
+        "https://telegra.ph/file/5e55abfb7f508b6f7c84c.jpg",
+        "https://telegra.ph/file/38ab8ae86bdb6e8192c6e.jpg",
+        "https://telegra.ph/file/250d54a1600312d69f816.png",
+        "https://telegra.ph/file/6fe4fb3bb22c7044d095c.jpg",
+        "https://telegra.ph/file/ad9278178cc2129f45860.jpg",
+        "https://telegra.ph/file/955e30ec47f07b44c7b70.png",
+        "https://telegra.ph/file/bcdeac3ae409b8adb08a1.png",
+        "https://telegra.ph/file/e092919b88066e90d7851.png",
+        "https://telegra.ph/file/c1428e5b0dbe79f45ae81.png",
+        "https://telegra.ph/file/eb5a1bc13188212e4511c.png",
+        "https://telegra.ph/file/82e908b5b334d77e2eb6a.png",
+        "https://telegra.ph/file/3d51d8d7278795b50398e.jpg",
+        "https://telegra.ph/file/e9d0ae05acdd9a9886c7b.jpg",
+        "https://telegra.ph/file/007cd107425bd33b1e33f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

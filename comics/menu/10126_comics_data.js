@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10126,
+    "title": "[恥辱庵 (まれお)] 発情ふたなり娘とメス堕ちパパ",
+    "sourceUrl": "https://telegra.ph/恥辱庵-まれお-発情ふたなり娘とメス堕ちパパ-08-31",
+    "images": [
+        "https://telegra.ph/file/351a30b1d286d16c70174.jpg",
+        "https://telegra.ph/file/bc4f8efc8cfeda0a3b2e2.jpg",
+        "https://telegra.ph/file/4ea6b6af266163b2ddbe5.jpg",
+        "https://telegra.ph/file/d6bb54523d24e87f79882.jpg",
+        "https://telegra.ph/file/1eae852322b43adda7bc7.jpg",
+        "https://telegra.ph/file/4048700d3fa060d0ea4cf.jpg",
+        "https://telegra.ph/file/efa0383eec7eb7cf14f2e.jpg",
+        "https://telegra.ph/file/e9a5a65eda44974c4023c.jpg",
+        "https://telegra.ph/file/99a4a4735ef4dd3ee5ec3.jpg",
+        "https://telegra.ph/file/6ae02c1262ba2263acfce.jpg",
+        "https://telegra.ph/file/f644e20e5d60a595ff395.jpg",
+        "https://telegra.ph/file/a54aafc251cbfd31a99b0.jpg",
+        "https://telegra.ph/file/a2958ac6d8bc1f16dd567.jpg",
+        "https://telegra.ph/file/62856a60ed062290f71fa.jpg",
+        "https://telegra.ph/file/04d3151637a82eb312d58.jpg",
+        "https://telegra.ph/file/ace9748d4da2b1215a947.jpg",
+        "https://telegra.ph/file/a06679eab94a28b0c869d.jpg",
+        "https://telegra.ph/file/b2f9c47a6ac571ed3c30e.jpg",
+        "https://telegra.ph/file/4568db6830ed24452805b.jpg",
+        "https://telegra.ph/file/051a7e40518f924e08a96.jpg",
+        "https://telegra.ph/file/de1ae0a2eee1e43b87af2.jpg",
+        "https://telegra.ph/file/db4bfa1db178d58945a93.jpg",
+        "https://telegra.ph/file/4cc3a787c95fdb3fbb27d.jpg",
+        "https://telegra.ph/file/c2ed982da634869dc342d.jpg",
+        "https://telegra.ph/file/b544f8c3b71d4883f34c9.jpg",
+        "https://telegra.ph/file/e26b51566f5f174bd2df9.jpg",
+        "https://telegra.ph/file/04d383ac9357dfaf5f05e.jpg",
+        "https://telegra.ph/file/8610f152afaa7f3784281.jpg",
+        "https://telegra.ph/file/90bc46fc986867baa7723.jpg",
+        "https://telegra.ph/file/154baa77405a07a36134a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

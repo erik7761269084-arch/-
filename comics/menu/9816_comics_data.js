@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9816,
+    "title": "[えいとまん] 鬼手 -オニノテ- 後編 (本能)",
+    "sourceUrl": "https://telegra.ph/えいとまん-鬼手--オニノテ--後編-本能-08-31",
+    "images": [
+        "https://telegra.ph/file/50d8f9ba3aec1b2edffeb.jpg",
+        "https://telegra.ph/file/1301e680576b77a65e261.jpg",
+        "https://telegra.ph/file/42cc8af74043a953b45ba.jpg",
+        "https://telegra.ph/file/6c1e3d903f8c7ff71cdcb.jpg",
+        "https://telegra.ph/file/c2c7fd42bec1b5f064ecf.jpg",
+        "https://telegra.ph/file/3dda3862759f4e9813fcc.jpg",
+        "https://telegra.ph/file/1a4367aba2f2b5500ed3f.jpg",
+        "https://telegra.ph/file/f218d35670ebe45df324c.jpg",
+        "https://telegra.ph/file/09bd3b91fbe8e794d372f.jpg",
+        "https://telegra.ph/file/53568293f73043796f9d5.jpg",
+        "https://telegra.ph/file/6ebebb62204c9dbf99c37.jpg",
+        "https://telegra.ph/file/20e7bf218e7dedb17f4c8.jpg",
+        "https://telegra.ph/file/470b002e3073afe8cf6b1.jpg",
+        "https://telegra.ph/file/7712dd3e0dda369351b34.jpg",
+        "https://telegra.ph/file/4ead8b00f01ec60563ef8.jpg",
+        "https://telegra.ph/file/5ece23aefb5ee8e2fe69b.jpg",
+        "https://telegra.ph/file/f34b08162f236452db787.jpg",
+        "https://telegra.ph/file/76016b15422ce940c55d6.jpg",
+        "https://telegra.ph/file/cea572ce1f0120f851159.jpg",
+        "https://telegra.ph/file/7c0abee9ec42286910201.jpg",
+        "https://telegra.ph/file/9d79014d40f9d99db1b2a.jpg",
+        "https://telegra.ph/file/819a6af2dae4801c879d3.jpg",
+        "https://telegra.ph/file/7c6dca80d9663df067741.jpg",
+        "https://telegra.ph/file/f5b1138d6932a0df366cf.jpg",
+        "https://telegra.ph/file/972e6b66e2a392ef01696.jpg",
+        "https://telegra.ph/file/1a9b042e5e6949c88bb66.jpg",
+        "https://telegra.ph/file/f3b1b2285540536836497.jpg",
+        "https://telegra.ph/file/d1405835a48fe1fb999c1.jpg",
+        "https://telegra.ph/file/00913a674ba3390a15819.jpg",
+        "https://telegra.ph/file/34c24b2d96ddda5485a8d.jpg",
+        "https://telegra.ph/file/b0534ca8430142eb06ac8.jpg",
+        "https://telegra.ph/file/7899d273a9890517379b2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

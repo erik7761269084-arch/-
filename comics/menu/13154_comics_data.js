@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13154,
+    "title": "[せれいてる] 認識阻害アプリを使ってJKを犯してみた3-5",
+    "sourceUrl": "https://telegra.ph/せれいてる-認識阻害アプリを使ってJKを犯してみた3-5-08-31",
+    "images": [
+        "https://telegra.ph/file/9f54ace78b043398415fe.jpg",
+        "https://telegra.ph/file/24c1ca11c23e856b3b19a.jpg",
+        "https://telegra.ph/file/a75774e54369aba7ffde3.jpg",
+        "https://telegra.ph/file/bebcf5ae602f6ca7b587c.jpg",
+        "https://telegra.ph/file/bdbf5ea87736251ab7321.jpg",
+        "https://telegra.ph/file/90d03d5874d041688f891.jpg",
+        "https://telegra.ph/file/b7e23fa602efc48cf9f72.jpg",
+        "https://telegra.ph/file/da00b12bb6f84181a13ff.jpg",
+        "https://telegra.ph/file/dddac7605a12ede1c27d0.jpg",
+        "https://telegra.ph/file/6994dd6674b63224c6d73.jpg",
+        "https://telegra.ph/file/69ba59a0fc5851ce9ebbb.jpg",
+        "https://telegra.ph/file/1c4c8ddb6482f38d6b22d.jpg",
+        "https://telegra.ph/file/cdc22d781cf0463453c7b.jpg",
+        "https://telegra.ph/file/88e15b9f390c3a9f16384.jpg",
+        "https://telegra.ph/file/135e1d6d5ea390839ba57.jpg",
+        "https://telegra.ph/file/beb2cd6ac1bd1a0a1be48.jpg",
+        "https://telegra.ph/file/f6ef5ed4d594fc3f5215d.jpg",
+        "https://telegra.ph/file/c5daf844dbc2a7fb7e377.jpg",
+        "https://telegra.ph/file/6a7e5b2e101f642216e97.jpg",
+        "https://telegra.ph/file/a50cc39863c15793ec159.jpg",
+        "https://telegra.ph/file/b6256d46255d69dc57f36.jpg",
+        "https://telegra.ph/file/22eabf9850a4f94b18b3b.jpg",
+        "https://telegra.ph/file/04315a81039cafea8f934.jpg",
+        "https://telegra.ph/file/97a2f0f248697a67f2d82.jpg",
+        "https://telegra.ph/file/9620177082f57c75f3ea8.jpg",
+        "https://telegra.ph/file/e19708f74238bff510b06.jpg",
+        "https://telegra.ph/file/5aed7a343613b9e5b3eaa.jpg",
+        "https://telegra.ph/file/65c49222f3258f22b56f7.jpg",
+        "https://telegra.ph/file/a52d6dec3a6fbcf8d53e7.jpg",
+        "https://telegra.ph/file/9c18513d04f563ac55846.jpg",
+        "https://telegra.ph/file/1cac71d069f11dd4c8102.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

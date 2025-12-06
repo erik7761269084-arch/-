@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12133,
+    "title": "(C97) [ですぱら (鐶九朗)] 大井催眠Re:2 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C97-ですぱら-鐶九朗-大井催眠Re2-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/8fef12dfc0f96993084d5.jpg",
+        "https://telegra.ph/file/b7025a5d14772810ce04e.jpg",
+        "https://telegra.ph/file/98d74c751a937c5e0a7f2.jpg",
+        "https://telegra.ph/file/1e0340ea3ee5e164778d8.jpg",
+        "https://telegra.ph/file/4f0b7323c6c4da6510000.jpg",
+        "https://telegra.ph/file/3908610e2d4a751690a5a.jpg",
+        "https://telegra.ph/file/2878ad3592f58accf889b.jpg",
+        "https://telegra.ph/file/71a90ebe3701928ee5bf5.jpg",
+        "https://telegra.ph/file/d4c421fe67bc42c5ac99e.jpg",
+        "https://telegra.ph/file/57f46b89a6c785ab0b583.jpg",
+        "https://telegra.ph/file/040df3d36d3b187ff6747.jpg",
+        "https://telegra.ph/file/9ef9fdd7b0fb7bf4c745e.jpg",
+        "https://telegra.ph/file/12301bd8f27c528ceddae.jpg",
+        "https://telegra.ph/file/6b34e5be2d82381afe7e6.jpg",
+        "https://telegra.ph/file/459dbbad3c93d8e0a4884.jpg",
+        "https://telegra.ph/file/06fcbd7c88eb96e529cf0.jpg",
+        "https://telegra.ph/file/74e7485117f246d48c206.jpg",
+        "https://telegra.ph/file/5729a1a11f6c3230c70af.jpg",
+        "https://telegra.ph/file/2276c7232b03fd3ee775c.jpg",
+        "https://telegra.ph/file/d1cdb596a6d96a3a051d0.jpg",
+        "https://telegra.ph/file/a202bd83330ce08c78b53.jpg",
+        "https://telegra.ph/file/a488d295ba58c477ada9c.jpg",
+        "https://telegra.ph/file/dab2ef5f22b66f7ef7161.jpg",
+        "https://telegra.ph/file/31637c01227c64aa58326.jpg",
+        "https://telegra.ph/file/f57ad74d384d511711a69.jpg",
+        "https://telegra.ph/file/2385c2d43c128eb4a4d51.jpg",
+        "https://telegra.ph/file/9e5b3ac0d5b4b6ce15061.jpg",
+        "https://telegra.ph/file/fbadeeb6220cde2f5f1a7.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/45ab4e5d5b98c70b11608.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

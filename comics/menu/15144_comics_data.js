@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15144,
+    "title": "(LOVEインパクト!大阪4) [淡めのブルー (ななつのうみ)] Funny Bunny (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/LOVEインパクト大阪4-淡めのブルー-ななつのうみ-Funny-Bunny-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/5bb331fe30abec8312128.jpg",
+        "https://telegra.ph/file/851c40fc768648c0086dd.jpg",
+        "https://telegra.ph/file/343d8bb4601cd68b463bf.jpg",
+        "https://telegra.ph/file/7834e73c62eccd71329ab.jpg",
+        "https://telegra.ph/file/8fd21a11b465cd1d64e05.jpg",
+        "https://telegra.ph/file/a7db229442777af3e6e08.jpg",
+        "https://telegra.ph/file/b7b84c8133b4a79c3d0b8.jpg",
+        "https://telegra.ph/file/392523efe5e5832178d31.jpg",
+        "https://telegra.ph/file/3d20df15032d96849b7a4.jpg",
+        "https://telegra.ph/file/8c13d27859724d6cf0cc4.jpg",
+        "https://telegra.ph/file/f59b8ee30cd08b266fa16.jpg",
+        "https://telegra.ph/file/ae6bff702f5f37b74e48b.jpg",
+        "https://telegra.ph/file/55d406446c91e66c50c0f.jpg",
+        "https://telegra.ph/file/137d0a7f155e2c776ea28.jpg",
+        "https://telegra.ph/file/ede2e1de6951c58e5779d.jpg",
+        "https://telegra.ph/file/8cb3bfefe9f3711c9021e.jpg",
+        "https://telegra.ph/file/41692227d3b2b68d898e6.jpg",
+        "https://telegra.ph/file/4b05e86cc8ed551e86f12.jpg",
+        "https://telegra.ph/file/384d2a6a9a03de65f46fe.jpg",
+        "https://telegra.ph/file/59e594fd2fa002288fa52.jpg",
+        "https://telegra.ph/file/25e54e9ada4f8d9dafc9f.jpg",
+        "https://telegra.ph/file/b7b866479d066c30aae60.jpg",
+        "https://telegra.ph/file/c5716f8d84fa0833abb31.jpg",
+        "https://telegra.ph/file/9b850b1e275c2c0beec1e.jpg",
+        "https://telegra.ph/file/6da5abaafc689051d4eaf.jpg",
+        "https://telegra.ph/file/95dafffa0064e6c3d0860.jpg",
+        "https://telegra.ph/file/a8b1c9adaaf4655ff26a8.jpg",
+        "https://telegra.ph/file/62a140672072d3b920568.jpg",
+        "https://telegra.ph/file/9d94483ac32fbc31b1545.jpg",
+        "https://telegra.ph/file/6d085e6132b723b5b8c97.jpg",
+        "https://telegra.ph/file/99e3f1a6c96c54606051d.jpg",
+        "https://telegra.ph/file/302def4768ca23107b4b6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

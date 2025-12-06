@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11915,
+    "title": "(C95) [モンモー牧場 (ウーロン・レイ)] 生活リズムは朝潮型 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C95-モンモー牧場-ウーロンレイ-生活リズムは朝潮型-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/26786a025cd12c85d8792.jpg",
+        "https://telegra.ph/file/7fd0b05f758630beca7c3.jpg",
+        "https://telegra.ph/file/660ed3abca65889a52cee.jpg",
+        "https://telegra.ph/file/ceaf53b6db1b7c530d0dd.jpg",
+        "https://telegra.ph/file/d77da89fc2d1b431761b4.jpg",
+        "https://telegra.ph/file/ec35da2fda83856567d47.jpg",
+        "https://telegra.ph/file/352666559f6c032b4a6fb.jpg",
+        "https://telegra.ph/file/e5dda8b033b4415c764f2.jpg",
+        "https://telegra.ph/file/02503b259c52e8d3bd6b3.jpg",
+        "https://telegra.ph/file/0d63d9970d468bebb05bc.jpg",
+        "https://telegra.ph/file/486cfd758fe37fc0237e9.jpg",
+        "https://telegra.ph/file/4e263b30b838c8cab02bf.jpg",
+        "https://telegra.ph/file/b02d30c77ed7bafcf84f5.jpg",
+        "https://telegra.ph/file/730223bfe553871cac205.jpg",
+        "https://telegra.ph/file/9f74c5bd5e6b12214e0ba.jpg",
+        "https://telegra.ph/file/02b536b418673b9944c4d.jpg",
+        "https://telegra.ph/file/4c81282b9c27b3db4863b.jpg",
+        "https://telegra.ph/file/5f130fb73a5ee869d9dc1.jpg",
+        "https://telegra.ph/file/d5aaa1cc857ea1fcfac43.jpg",
+        "https://telegra.ph/file/3e32896e03ec5cc6e4de2.jpg",
+        "https://telegra.ph/file/7479b27077c63e223e0de.jpg",
+        "https://telegra.ph/file/9a25d0827643e9fee9747.jpg",
+        "https://telegra.ph/file/f298e75aee38c76d839a0.jpg",
+        "https://telegra.ph/file/3a8a01d6896c922a1138b.jpg",
+        "https://telegra.ph/file/7b694cbd17392103113f0.jpg",
+        "https://telegra.ph/file/c3144459a8a2a81bb9df7.jpg",
+        "https://telegra.ph/file/f3e1fa3bac8d53662ded0.jpg",
+        "https://telegra.ph/file/94ff85a678a3b15288cee.jpg",
+        "https://telegra.ph/file/86ba0e8d0ffb5172bbd73.jpg",
+        "https://telegra.ph/file/ef5d295441d34473bca45.jpg",
+        "https://telegra.ph/file/b30a59a0d191b73a35598.jpg",
+        "https://telegra.ph/file/c2d02a99cc907353eed13.jpg",
+        "https://telegra.ph/file/703af27a0dba43fc0fd17.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

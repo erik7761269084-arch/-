@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8340,
+    "title": "(メガ秋葉原同人祭 第3回) [いないうちに (居内)] 睡姦 雪音クリス (戦姫絶唱シンフォギア)",
+    "sourceUrl": "https://telegra.ph/メガ秋葉原同人祭-第3回-いないうちに-居内-睡姦-雪音クリス-戦姫絶唱シンフォギア-08-31",
+    "images": [
+        "https://telegra.ph/file/899ba2d1cb3583bf47a65.jpg",
+        "https://telegra.ph/file/1171d060c62511f637593.jpg",
+        "https://telegra.ph/file/3baa94745e4202fcf916a.jpg",
+        "https://telegra.ph/file/cf3d4e5befeaf143d020f.jpg",
+        "https://telegra.ph/file/96d7786b1fb0de7bdfd6d.jpg",
+        "https://telegra.ph/file/752768fba8cfb09b1c578.jpg",
+        "https://telegra.ph/file/310082ab567be21a445df.jpg",
+        "https://telegra.ph/file/0c5c0f87f7a1e8ad5d0d1.jpg",
+        "https://telegra.ph/file/ecba25a8d6055e2563f03.jpg",
+        "https://telegra.ph/file/1a5be3046eba8319edaa8.jpg",
+        "https://telegra.ph/file/a3ec20c83636e355dfdf5.jpg",
+        "https://telegra.ph/file/44934f657587b0586a4a6.jpg",
+        "https://telegra.ph/file/edf02eff4aea7b260dfc4.jpg",
+        "https://telegra.ph/file/22e08ff298ddda906c5b2.jpg",
+        "https://telegra.ph/file/5546011ae323f46edfae8.jpg",
+        "https://telegra.ph/file/a580cffe3789ccb986fcf.jpg",
+        "https://telegra.ph/file/16f13981bae8f31a53490.jpg",
+        "https://telegra.ph/file/f08cf793ca22fb7e39b94.jpg",
+        "https://telegra.ph/file/a442d50850b15181aa281.jpg",
+        "https://telegra.ph/file/83159e78eba04c8229b70.jpg",
+        "https://telegra.ph/file/d69d2fea0ba6492e6ed97.jpg",
+        "https://telegra.ph/file/94f42b545f2aa82795c55.jpg",
+        "https://telegra.ph/file/d2b917b69518377dfc335.jpg",
+        "https://telegra.ph/file/add8f60f92b88f5e4289f.jpg",
+        "https://telegra.ph/file/1d91383cc1d2afe085c09.jpg",
+        "https://telegra.ph/file/ac0bc56170d5107a26e08.jpg",
+        "https://telegra.ph/file/26a8ead3a3ccfa4d565a3.jpg",
+        "https://telegra.ph/file/a6938183cc703e094fc5b.jpg",
+        "https://telegra.ph/file/fd5095a64f5e8177cd92c.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15164,
+    "title": "(マイフレンド3) [お月見団子 (うるう)] スプリング・エフェメラル (東方Project)",
+    "sourceUrl": "https://telegra.ph/マイフレンド3-お月見団子-うるう-スプリングエフェメラル-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/c8a8cb2e9a778ab9d53ff.jpg",
+        "https://telegra.ph/file/d38135109e7e50705a8bc.jpg",
+        "https://telegra.ph/file/f1626f0576b733cbf4a68.jpg",
+        "https://telegra.ph/file/4892c4af7e7fec346093f.jpg",
+        "https://telegra.ph/file/0267ec5f2c5bb12f3dd79.jpg",
+        "https://telegra.ph/file/8d81b2d6f6c0ae670d5c4.jpg",
+        "https://telegra.ph/file/80858a610e9d2d31e467c.jpg",
+        "https://telegra.ph/file/d2461ce4ba39c00520ad0.jpg",
+        "https://telegra.ph/file/8defa151df02c5f4ac3eb.jpg",
+        "https://telegra.ph/file/78f268594de7f1425ab20.jpg",
+        "https://telegra.ph/file/f991eeb06a3e7660c042d.jpg",
+        "https://telegra.ph/file/b9a35dbee0012e9bd5266.jpg",
+        "https://telegra.ph/file/82cdbe269726700be9e6f.jpg",
+        "https://telegra.ph/file/c8d773c984bccb8eaf727.jpg",
+        "https://telegra.ph/file/3860d28a1e72b0ec74b75.jpg",
+        "https://telegra.ph/file/e5123b543fac8df7942fa.jpg",
+        "https://telegra.ph/file/1a5bb1f24029237312768.jpg",
+        "https://telegra.ph/file/9b2455c200efcd2f6ff9d.jpg",
+        "https://telegra.ph/file/ad9d053a34c237f180059.jpg",
+        "https://telegra.ph/file/e8d0e22b5ce3974439726.jpg",
+        "https://telegra.ph/file/b919e0304efc6385c4ed8.jpg",
+        "https://telegra.ph/file/934db4901e2623c978f8c.jpg",
+        "https://telegra.ph/file/a5011b0018e6b2af8ef20.jpg",
+        "https://telegra.ph/file/fb38cfae718f66fedb40f.jpg",
+        "https://telegra.ph/file/84cf07119562e3c207aab.jpg",
+        "https://telegra.ph/file/7bb6d8b359f77eb6114c5.jpg",
+        "https://telegra.ph/file/4a7fff63c238d902af718.jpg",
+        "https://telegra.ph/file/4d14ab6fda77362bb7cf0.jpg",
+        "https://telegra.ph/file/25a3bbfe2e2a2bb3c0dfe.jpg",
+        "https://telegra.ph/file/cdb26d7f2b597fb759371.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

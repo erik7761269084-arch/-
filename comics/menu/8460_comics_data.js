@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8460,
+    "title": "[夢茶会 (むちゃ)] ちーちゃん開発日記",
+    "sourceUrl": "https://telegra.ph/夢茶会-むちゃ-ちーちゃん開発日記-08-31",
+    "images": [
+        "https://telegra.ph/file/5b0749b99ee8d26134dcd.jpg",
+        "https://telegra.ph/file/795d2e32b44a7541541ee.jpg",
+        "https://telegra.ph/file/cfce1f3f16f94200c5870.jpg",
+        "https://telegra.ph/file/7de92123680bfa993cb8e.jpg",
+        "https://telegra.ph/file/012fbc3c50258c6662daf.jpg",
+        "https://telegra.ph/file/ebd72681b5c48d9ef00f4.jpg",
+        "https://telegra.ph/file/e671d29ac0c26786d4c1e.jpg",
+        "https://telegra.ph/file/103cc16204c756e7ed3d9.jpg",
+        "https://telegra.ph/file/14d42c9a263c24ace131c.jpg",
+        "https://telegra.ph/file/7a882483226e8c430970e.jpg",
+        "https://telegra.ph/file/0da48697d1453511c606b.jpg",
+        "https://telegra.ph/file/df8f2dc765adbd2479c48.jpg",
+        "https://telegra.ph/file/cd5a26c55f4e7073c7e64.jpg",
+        "https://telegra.ph/file/138d27032bac2428511a4.jpg",
+        "https://telegra.ph/file/fdebab3e3cfa7416e01c5.jpg",
+        "https://telegra.ph/file/9ebb3ee107d504aa43539.jpg",
+        "https://telegra.ph/file/a9e8ad5399f538b7a50e9.jpg",
+        "https://telegra.ph/file/086ac1a6924a6a0821835.jpg",
+        "https://telegra.ph/file/f6a2ba348a7cc6a1b4691.jpg",
+        "https://telegra.ph/file/e36234fd1aff8c859e98b.jpg",
+        "https://telegra.ph/file/210f2690013a5b906b2a7.jpg",
+        "https://telegra.ph/file/f240824136efe99b6a90b.jpg",
+        "https://telegra.ph/file/7955bec1ac409b303fe93.jpg",
+        "https://telegra.ph/file/aa7693ffe8a235e7347c5.jpg",
+        "https://telegra.ph/file/44658c9625ba8fe649be6.jpg",
+        "https://telegra.ph/file/b0d78ffa8cb2ee81e408f.jpg",
+        "https://telegra.ph/file/6b62a14d567842289118e.jpg",
+        "https://telegra.ph/file/58f9fa0adfc8ea05cb95e.jpg",
+        "https://telegra.ph/file/6ee21b4dd3a5d10d0950b.jpg",
+        "https://telegra.ph/file/bc3244a0261f2e3cf1b88.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

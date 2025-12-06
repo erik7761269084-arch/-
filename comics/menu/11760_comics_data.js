@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11760,
+    "title": "(C96) [闇夢館 (Darkmaya)] チ○ポを消せるマジックへようこそ (手品先輩)",
+    "sourceUrl": "https://telegra.ph/C96-闇夢館-Darkmaya-チポを消せるマジックへようこそ-手品先輩-08-31",
+    "images": [
+        "https://telegra.ph/file/f9ba1085107fd9ff72cf4.jpg",
+        "https://telegra.ph/file/126729da9c2976a90469d.jpg",
+        "https://telegra.ph/file/d2d0ebb89504c50636885.jpg",
+        "https://telegra.ph/file/3433c691608b26b159b1e.jpg",
+        "https://telegra.ph/file/0fee7b4562ebe6f902f4a.jpg",
+        "https://telegra.ph/file/b6ec361cf170a17d7206b.jpg",
+        "https://telegra.ph/file/702d4f48355e9c87d93c8.jpg",
+        "https://telegra.ph/file/f44a55e6285cda4092fdc.jpg",
+        "https://telegra.ph/file/266a901665e94f15b34f9.jpg",
+        "https://telegra.ph/file/157f2b7c6a7626e96d57b.jpg",
+        "https://telegra.ph/file/ac2fe0d0cb0653bd3552f.jpg",
+        "https://telegra.ph/file/caf909ad7037f2c242fa0.jpg",
+        "https://telegra.ph/file/e3b857711587c2b6712c9.jpg",
+        "https://telegra.ph/file/d1ec231af5b5f26e1fac5.jpg",
+        "https://telegra.ph/file/e5cfb1fd2edd5ee182845.jpg",
+        "https://telegra.ph/file/606c89dc0679855deb048.jpg",
+        "https://telegra.ph/file/e534a329eb14064537233.jpg",
+        "https://telegra.ph/file/423dc4f48c207958cb446.jpg",
+        "https://telegra.ph/file/38333a8c89af39c10fff6.jpg",
+        "https://telegra.ph/file/1673ef53f41ad2dd1c996.jpg",
+        "https://telegra.ph/file/14d36d29f954cf9b11112.jpg",
+        "https://telegra.ph/file/f2b24382e39ef8314cdad.jpg",
+        "https://telegra.ph/file/b2229fc0af1d6f6c8be7d.jpg",
+        "https://telegra.ph/file/e0f6d48f71db37bd958ee.jpg",
+        "https://telegra.ph/file/20b830b4f87f5df182bcd.jpg",
+        "https://telegra.ph/file/3a2a0725f5187bb13811e.jpg",
+        "https://telegra.ph/file/6c30b4686d397e86eb99b.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg",
+        "https://telegra.ph/file/8a27e08b9109ae20a28c0.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

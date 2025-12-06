@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9231,
+    "title": "[kakao] バイタルヘブン (COMIC 快楽天ビースト 2022年6月号)",
+    "sourceUrl": "https://telegra.ph/kakao-バイタルヘブン-COMIC-快楽天ビースト-2022年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/b0bb923dd56fe4e9f3bbf.jpg",
+        "https://telegra.ph/file/7d40930b6f97aa8c4cee4.jpg",
+        "https://telegra.ph/file/89d7d0c5ca20411d630ac.jpg",
+        "https://telegra.ph/file/b7dd6f62dac5582be9451.jpg",
+        "https://telegra.ph/file/0856aeb8c9500604d8c72.jpg",
+        "https://telegra.ph/file/39dc63ab37f8f587e0c02.jpg",
+        "https://telegra.ph/file/44a142f2e5e092640dd8c.jpg",
+        "https://telegra.ph/file/52a989e781f4bf65c2656.jpg",
+        "https://telegra.ph/file/698720cc148c84c172794.jpg",
+        "https://telegra.ph/file/cbe71bb4d0ca8f8122e99.jpg",
+        "https://telegra.ph/file/9755700eb0da639239460.jpg",
+        "https://telegra.ph/file/be50733783a84804bc64d.jpg",
+        "https://telegra.ph/file/1ff04d7b234ed75338f66.jpg",
+        "https://telegra.ph/file/3ed58516d652a46ca6d87.jpg",
+        "https://telegra.ph/file/a2f1c351e75abda5cde59.jpg",
+        "https://telegra.ph/file/8745aa75c476a46509d9a.jpg",
+        "https://telegra.ph/file/c8093905716db480c11c0.jpg",
+        "https://telegra.ph/file/ffd72f14cfcae3477f19a.jpg",
+        "https://telegra.ph/file/c49a8a6edc3d76edf97c5.jpg",
+        "https://telegra.ph/file/fd65e3c049e165432b223.jpg",
+        "https://telegra.ph/file/48575f79ca86df7713f8b.jpg",
+        "https://telegra.ph/file/966e36f070393b1cf40a6.jpg",
+        "https://telegra.ph/file/6cc297727cc11adabcbf6.jpg",
+        "https://telegra.ph/file/5cc15d417a8f717bef003.jpg",
+        "https://telegra.ph/file/e151f864be3e3d4ab2bb8.jpg",
+        "https://telegra.ph/file/6c05cf05c7b5f076758c1.jpg",
+        "https://telegra.ph/file/61ab248c18f30c1a71254.jpg",
+        "https://telegra.ph/file/66a972f40d477ef20cd94.jpg",
+        "https://telegra.ph/file/69921efa1f0b2ebd4a379.jpg",
+        "https://telegra.ph/file/6de3bf4dbda02fd37ecd1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12790,
+    "title": "[エクセシオ (獅月しんら)] 母娘のМ豚転落人生～おカネのために快楽に溺れていく母子家庭親子～",
+    "sourceUrl": "https://telegra.ph/エクセシオ-獅月しんら-母娘のM豚転落人生おカネのために快楽に溺れていく母子家庭親子-08-31",
+    "images": [
+        "https://telegra.ph/file/8cef0edb6b5d1ea446d71.jpg",
+        "https://telegra.ph/file/2b100b562e434951b2773.jpg",
+        "https://telegra.ph/file/3b05639aa0d040bbc395b.jpg",
+        "https://telegra.ph/file/0f935b572909d32540c6b.jpg",
+        "https://telegra.ph/file/1b9cf9dd8ee806995df99.jpg",
+        "https://telegra.ph/file/0d27b16b40b0f17eb2abb.jpg",
+        "https://telegra.ph/file/5265a67d473ffe5c27c17.jpg",
+        "https://telegra.ph/file/539218b95ac033e55baff.jpg",
+        "https://telegra.ph/file/41d172ba1aecdccae1d3a.jpg",
+        "https://telegra.ph/file/32738637e237d3958b7cd.jpg",
+        "https://telegra.ph/file/e9bc2aab03594f4381c40.jpg",
+        "https://telegra.ph/file/0aa80a54c83c24594485e.jpg",
+        "https://telegra.ph/file/5220b1373694b7196fafc.jpg",
+        "https://telegra.ph/file/507a11065e1f1b6ea6b3c.jpg",
+        "https://telegra.ph/file/70ca1d5cdaa980143d139.jpg",
+        "https://telegra.ph/file/b1cedf04884b2c9cd42d3.jpg",
+        "https://telegra.ph/file/f1af767af5af4e1ceedef.jpg",
+        "https://telegra.ph/file/e619c6fe2a2c77f7fbe53.jpg",
+        "https://telegra.ph/file/0ea381bfa598eb0a30c44.jpg",
+        "https://telegra.ph/file/74eb7d78ac982a0be771d.jpg",
+        "https://telegra.ph/file/b1b366eba3af659c846d9.jpg",
+        "https://telegra.ph/file/ec4feb66e8c518bd1fb78.jpg",
+        "https://telegra.ph/file/a922f9f3e39e70a3e480e.jpg",
+        "https://telegra.ph/file/b64cdbe707a84ff4eb00d.jpg",
+        "https://telegra.ph/file/f50884a0dec26e5ee507e.jpg",
+        "https://telegra.ph/file/7e9829d718e72b0ebf51e.jpg",
+        "https://telegra.ph/file/02df46f0ff7c3f4e51d4a.jpg",
+        "https://telegra.ph/file/8edc27bf5144b8939f43d.jpg",
+        "https://telegra.ph/file/f5c7f28d891ae8186b4c2.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

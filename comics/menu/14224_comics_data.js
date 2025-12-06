@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14224,
+    "title": "[Do well !!! (たつか)] 不確かな性春 day03 (22/7)",
+    "sourceUrl": "https://telegra.ph/Do-well--たつか-不確かな性春-day03-227-08-31",
+    "images": [
+        "https://telegra.ph/file/68739ae43c74bae1edaf5.jpg",
+        "https://telegra.ph/file/a3a2c254c533e4865730e.jpg",
+        "https://telegra.ph/file/a78c522681671ff989208.jpg",
+        "https://telegra.ph/file/f421ba2fcb271d819abda.jpg",
+        "https://telegra.ph/file/a3e9f90f5af4008500cc3.jpg",
+        "https://telegra.ph/file/e8197d41343a991b988d9.jpg",
+        "https://telegra.ph/file/3f5883b6e2674ced13236.jpg",
+        "https://telegra.ph/file/a9a7aed2cde5416a4244f.jpg",
+        "https://telegra.ph/file/65f5e04415b5b91fefec0.jpg",
+        "https://telegra.ph/file/b083d4635355b70c55110.jpg",
+        "https://telegra.ph/file/e90fa9e5a07f8e721d1e6.jpg",
+        "https://telegra.ph/file/51997a829579ad11fc943.jpg",
+        "https://telegra.ph/file/bcdd9d8cb317f79576be1.jpg",
+        "https://telegra.ph/file/4c6836a7a12ef2ce688f4.jpg",
+        "https://telegra.ph/file/10010f37ee963cc8d0799.jpg",
+        "https://telegra.ph/file/793bd5ef93b76b2fe7a5e.jpg",
+        "https://telegra.ph/file/84454655beafc970ff7c5.jpg",
+        "https://telegra.ph/file/46cddc65a5895aa57ede7.jpg",
+        "https://telegra.ph/file/22a8cc027cd9cccf2bc94.jpg",
+        "https://telegra.ph/file/5b4b492b50b8fe2c53898.jpg",
+        "https://telegra.ph/file/ef3ee9cf405b0c9e28bfc.jpg",
+        "https://telegra.ph/file/b8c0c6db9217daba7733e.jpg",
+        "https://telegra.ph/file/66ee6db63f5a15871448e.jpg",
+        "https://telegra.ph/file/2ab5f49d6e8e9b2e946f5.jpg",
+        "https://telegra.ph/file/27eaab83cdb955a7f7eb0.jpg",
+        "https://telegra.ph/file/bd7c6236cdc274d500fa0.jpg",
+        "https://telegra.ph/file/a882df4807e653dd033f1.jpg",
+        "https://telegra.ph/file/c2922a958697595a8ac62.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/a2e46cc0ddb3a6bc3dcee.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

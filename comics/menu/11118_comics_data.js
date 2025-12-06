@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11118,
+    "title": "[加護]  身為老祖宗的巨乳蘿莉要幫我生小孩 肆",
+    "sourceUrl": "https://telegra.ph/加護-身為老祖宗的巨乳蘿莉要幫我生小孩-肆-08-31",
+    "images": [
+        "https://telegra.ph/file/5c0bfca336ac1f8af8304.jpg",
+        "https://telegra.ph/file/3305943bae8d408cd3fb6.jpg",
+        "https://telegra.ph/file/f152eaccc4daa2f35eb3b.jpg",
+        "https://telegra.ph/file/4ba9d6fc46ac1455e661e.jpg",
+        "https://telegra.ph/file/81fad16f453b39b93d1f3.jpg",
+        "https://telegra.ph/file/01a9a8cf067ec12ef1a7e.jpg",
+        "https://telegra.ph/file/812a9a4933ad1c6f6297e.jpg",
+        "https://telegra.ph/file/94f91b00871e9cb7fd18b.jpg",
+        "https://telegra.ph/file/cacf89424cb987ce942d6.jpg",
+        "https://telegra.ph/file/179aaa0a8b9a190db2177.jpg",
+        "https://telegra.ph/file/6b0edf6a9136611edd09e.jpg",
+        "https://telegra.ph/file/2dab77ebce98c243258c2.jpg",
+        "https://telegra.ph/file/455306e830eb1e46c813f.jpg",
+        "https://telegra.ph/file/61684ac797bee048361f4.jpg",
+        "https://telegra.ph/file/c6ed70622b45abb979389.jpg",
+        "https://telegra.ph/file/293cca548877a84ae403d.jpg",
+        "https://telegra.ph/file/69aded63fb009b172a5ff.jpg",
+        "https://telegra.ph/file/fd133add7ffe52ce68a3b.jpg",
+        "https://telegra.ph/file/e852556eb297cb769a445.jpg",
+        "https://telegra.ph/file/2e2038e5e2bb2f86d4b3f.jpg",
+        "https://telegra.ph/file/640e489d666223e0a1e97.jpg",
+        "https://telegra.ph/file/6ad3b43cb086717918084.jpg",
+        "https://telegra.ph/file/d75d13c45af1b981af1e5.jpg",
+        "https://telegra.ph/file/78fe1571b1314491dbee3.jpg",
+        "https://telegra.ph/file/8f3a481ccd40c39cda852.jpg",
+        "https://telegra.ph/file/6cef58b16208c493087dd.jpg",
+        "https://telegra.ph/file/a5506b1096c363e96055b.jpg",
+        "https://telegra.ph/file/18731cd2ec6ad0ef09eca.jpg",
+        "https://telegra.ph/file/8514d91ddcf6dd0e4c156.jpg",
+        "https://telegra.ph/file/0ad3df69156e84eb45cfd.jpg",
+        "https://telegra.ph/file/e52c1d9436de5cde405b0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

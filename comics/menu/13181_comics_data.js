@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13181,
+    "title": "[玉ぼん] 愛梨ちゃんは寝取りたい! (COMIC 快楽天 2022年9月号)",
+    "sourceUrl": "https://telegra.ph/玉ぼん-愛梨ちゃんは寝取りたい-COMIC-快楽天-2022年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/3187ce16f74649c3c1eb2.jpg",
+        "https://telegra.ph/file/12e4826488c06ba29bbc8.jpg",
+        "https://telegra.ph/file/5428747c11f08183a46b6.jpg",
+        "https://telegra.ph/file/26fa1a2efbaef07dcb864.jpg",
+        "https://telegra.ph/file/a9aa26025e4397622d213.jpg",
+        "https://telegra.ph/file/d53276f5a9450fbcb452d.jpg",
+        "https://telegra.ph/file/301efc13f63024a2ead2d.jpg",
+        "https://telegra.ph/file/b8c3c1fc23511950c6569.jpg",
+        "https://telegra.ph/file/7ce2648763c0ee61a682f.jpg",
+        "https://telegra.ph/file/3d03da45d42c0d6f5bb21.jpg",
+        "https://telegra.ph/file/02364d4dd01d7d83d3673.jpg",
+        "https://telegra.ph/file/4c00a89080135701bf4b1.jpg",
+        "https://telegra.ph/file/77295d1ccb343be958676.jpg",
+        "https://telegra.ph/file/1f4d36a1148ec4d076903.jpg",
+        "https://telegra.ph/file/7dafc13d493a8d1520570.jpg",
+        "https://telegra.ph/file/7972be84ecf962708c53c.jpg",
+        "https://telegra.ph/file/d4b7d8d07992f3b8ab704.jpg",
+        "https://telegra.ph/file/0c53b59c77ae632c16c95.jpg",
+        "https://telegra.ph/file/42d7aa887a63b0ffd669a.jpg",
+        "https://telegra.ph/file/76dc6711240e841f31e30.jpg",
+        "https://telegra.ph/file/cf76f8314cdea04023f09.jpg",
+        "https://telegra.ph/file/c494a4ee6654a518fa5a2.jpg",
+        "https://telegra.ph/file/01a017c76963cb56ad602.jpg",
+        "https://telegra.ph/file/25192a15b52f9e7090248.jpg",
+        "https://telegra.ph/file/7dd17d24dbf6a8452c56f.jpg",
+        "https://telegra.ph/file/5db291c85757c1190e4b2.jpg",
+        "https://telegra.ph/file/66cc530b4dda44336a55e.jpg",
+        "https://telegra.ph/file/a603e8d38707c08e4abdc.jpg",
+        "https://telegra.ph/file/3fb962fcde91d1c600414.jpg",
+        "https://telegra.ph/file/340e322194e838efab026.jpg",
+        "https://telegra.ph/file/9f6f6c74582a8b42b6b52.jpg",
+        "https://telegra.ph/file/2ee4dac311bab970d1930.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

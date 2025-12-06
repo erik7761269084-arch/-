@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12461,
+    "title": "[Monaim] DNF死灵术士",
+    "sourceUrl": "https://telegra.ph/Monaim-DNF死灵术士-08-31",
+    "images": [
+        "https://telegra.ph/file/abe9037263c98b6886935.jpg",
+        "https://telegra.ph/file/782a3ddfc822eec1a2e9c.jpg",
+        "https://telegra.ph/file/5884d82cfa0f0f62354e9.jpg",
+        "https://telegra.ph/file/9b8efd67b4278dc90da64.jpg",
+        "https://telegra.ph/file/3f5e73141d4274ce7ab4b.jpg",
+        "https://telegra.ph/file/ae247032c4ab54907982c.jpg",
+        "https://telegra.ph/file/1d6eab40582a6e255508f.jpg",
+        "https://telegra.ph/file/3b89ed71cc1a70e84cf54.jpg",
+        "https://telegra.ph/file/5d74b71138cd5507adcd4.jpg",
+        "https://telegra.ph/file/1c8698c97942e5e559a08.jpg",
+        "https://telegra.ph/file/66de5dcf72a5c896cc1b7.jpg",
+        "https://telegra.ph/file/5b1843a0dffce22c26426.jpg",
+        "https://telegra.ph/file/4c9a373ddb98b20152173.jpg",
+        "https://telegra.ph/file/a017b417021106c73b409.jpg",
+        "https://telegra.ph/file/964954bd8b7c2736f4205.jpg",
+        "https://telegra.ph/file/f3d248ccf995ef0121a43.jpg",
+        "https://telegra.ph/file/162a8fda81ddcaa58ae24.jpg",
+        "https://telegra.ph/file/606d546676dfce108051d.jpg",
+        "https://telegra.ph/file/b9c7d555b5fc14587c927.jpg",
+        "https://telegra.ph/file/a8ee72768d26fafd1fe27.jpg",
+        "https://telegra.ph/file/5203bcf9362c0be899fe3.jpg",
+        "https://telegra.ph/file/5fbd4f603fa7d39e733e8.jpg",
+        "https://telegra.ph/file/e49dcb5c114d1a3f7cbb2.jpg",
+        "https://telegra.ph/file/f996223c2b8e5d886c13e.jpg",
+        "https://telegra.ph/file/47a9c20e057f3b9767b63.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

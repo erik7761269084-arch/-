@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10927,
+    "title": "(C76) [U.R.C (桃屋しょう猫)] 三蔵奉仕 (無双OROCHI Z)",
+    "sourceUrl": "https://telegra.ph/C76-URC-桃屋しょう猫-三蔵奉仕-無双OROCHI-Z-08-31",
+    "images": [
+        "https://telegra.ph/file/5d72add56afc89cdf0645.jpg",
+        "https://telegra.ph/file/11c2f67f17cf449e41a45.jpg",
+        "https://telegra.ph/file/89bad046aae7d4ff7349b.jpg",
+        "https://telegra.ph/file/5d94998c340b1d4a05361.jpg",
+        "https://telegra.ph/file/57df06b5986ae11b2907a.jpg",
+        "https://telegra.ph/file/5de785b23ebf12beb0ff0.jpg",
+        "https://telegra.ph/file/eeadf320e54c024a3cafb.jpg",
+        "https://telegra.ph/file/b2428e60db74d990c4a22.jpg",
+        "https://telegra.ph/file/4796bc01fd815b4be5459.jpg",
+        "https://telegra.ph/file/baf7e01d1cbf9e548a328.jpg",
+        "https://telegra.ph/file/1038181aceffa0f5d5e33.jpg",
+        "https://telegra.ph/file/621385f79cb8bb27f476a.jpg",
+        "https://telegra.ph/file/b835ff4bed5797fb557dc.jpg",
+        "https://telegra.ph/file/48d906a060de5457e78b0.jpg",
+        "https://telegra.ph/file/b0fe50d548a413d080995.jpg",
+        "https://telegra.ph/file/934bde83fceffdd5f7edc.jpg",
+        "https://telegra.ph/file/0a9a38298940b0c437970.jpg",
+        "https://telegra.ph/file/b4291f5ee6e16572714f4.jpg",
+        "https://telegra.ph/file/513b9d9542355993cbf37.jpg",
+        "https://telegra.ph/file/6f810efa1554200aa0eb6.jpg",
+        "https://telegra.ph/file/99d55a12337a99ae048b8.jpg",
+        "https://telegra.ph/file/120a8f263c7dcdff7c69c.jpg",
+        "https://telegra.ph/file/2a8f5dbdced0bac183bd8.jpg",
+        "https://telegra.ph/file/cd143d206f37bfee209b1.jpg",
+        "https://telegra.ph/file/ac1ae4791e9e218805118.jpg",
+        "https://telegra.ph/file/e40d322507fbf71e1bf17.jpg",
+        "https://telegra.ph/file/3d8ac171b666fe519f1cd.jpg",
+        "https://telegra.ph/file/e03b89544362ce19632ec.jpg",
+        "https://telegra.ph/file/83ce7e340f2ed29adc7cc.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/8664818462199397a8fd1.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

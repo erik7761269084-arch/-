@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13750,
+    "title": "[墓場] 肉便器設置法 (COMIC 夢幻転生 2018年6月号)",
+    "sourceUrl": "https://telegra.ph/墓場-肉便器設置法-COMIC-夢幻転生-2018年6月号-08-31-2",
+    "images": [
+        "https://telegra.ph/file/84d512a33e2adf28e3765.jpg",
+        "https://telegra.ph/file/a541c22007debf9c38d09.jpg",
+        "https://telegra.ph/file/5291e17a3d41612004796.jpg",
+        "https://telegra.ph/file/a1d4f8f3d2333b12ab96d.jpg",
+        "https://telegra.ph/file/ab39c013e7626ee37a531.jpg",
+        "https://telegra.ph/file/9ef3c95cb7a9b930d022e.jpg",
+        "https://telegra.ph/file/9b9388cbcbd7f52a377ef.jpg",
+        "https://telegra.ph/file/e83e88fa6f850eb1180fb.jpg",
+        "https://telegra.ph/file/72d83557398a7836458e0.jpg",
+        "https://telegra.ph/file/5205c02d91f187936f376.jpg",
+        "https://telegra.ph/file/efc9b92cf31c2e74dd871.jpg",
+        "https://telegra.ph/file/a536adce1885161a6ac7b.jpg",
+        "https://telegra.ph/file/11cb8f12db57bda7d1ee5.jpg",
+        "https://telegra.ph/file/c540df8cbbe774c25388f.jpg",
+        "https://telegra.ph/file/0b13d5d0236690125981c.jpg",
+        "https://telegra.ph/file/a67ebe4c3f7230df6f348.jpg",
+        "https://telegra.ph/file/a27684d1c784e9ed96cb7.jpg",
+        "https://telegra.ph/file/d8e5e26f899cf61b4755f.jpg",
+        "https://telegra.ph/file/38361bdcb955bdbc6576c.jpg",
+        "https://telegra.ph/file/d78f472977a9f0789d5b1.jpg",
+        "https://telegra.ph/file/2c5ca8f4ef0d050201cca.jpg",
+        "https://telegra.ph/file/22673a5b7743859003a76.jpg",
+        "https://telegra.ph/file/062ee84a1a59ddbb4bbc7.jpg",
+        "https://telegra.ph/file/0065e2a8cc1d16796a8d5.jpg",
+        "https://telegra.ph/file/f9647e1071db5d5b1c10c.jpg",
+        "https://telegra.ph/file/7a7cd50b4fc7fe81277f6.jpg",
+        "https://telegra.ph/file/58b4b1a9bc176fae591cb.jpg",
+        "https://telegra.ph/file/ad82c5185106a8cdc4cda.jpg",
+        "https://telegra.ph/file/6032f899628fa1894ef27.jpg",
+        "https://telegra.ph/file/99fecce78a59950c34449.jpg",
+        "https://telegra.ph/file/4e5ea7abe1e0a657ce84f.jpg",
+        "https://telegra.ph/file/f7f550975a4afd0480171.jpg",
+        "https://telegra.ph/file/86076742e3990389569cb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

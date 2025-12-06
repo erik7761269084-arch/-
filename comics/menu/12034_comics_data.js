@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12034,
+    "title": "[ぷちめいぷる (ひさぎ)] 後輩男子に寝取られSEX 2",
+    "sourceUrl": "https://telegra.ph/ぷちめいぷる-ひさぎ-後輩男子に寝取られSEX-2-08-31-2",
+    "images": [
+        "https://telegra.ph/file/16c2452861104b8edc439.jpg",
+        "https://telegra.ph/file/d79037a221824c3642681.jpg",
+        "https://telegra.ph/file/5bcdb61d5bdd8566a0775.jpg",
+        "https://telegra.ph/file/1c285d194ebc8f9a0af5c.jpg",
+        "https://telegra.ph/file/fe83d4f51c9ed846d3167.jpg",
+        "https://telegra.ph/file/dea439ae996390be7d12c.jpg",
+        "https://telegra.ph/file/f85e5b914c989a4f3ef42.jpg",
+        "https://telegra.ph/file/0cde4983ad43baf1fa53b.jpg",
+        "https://telegra.ph/file/24441480fbd5a6b97d6b1.jpg",
+        "https://telegra.ph/file/4b3eccf0ecee354160a7b.jpg",
+        "https://telegra.ph/file/2fefb271656bd05530422.jpg",
+        "https://telegra.ph/file/de4160987ec9299b410a0.jpg",
+        "https://telegra.ph/file/72daaa04133b18426b357.jpg",
+        "https://telegra.ph/file/8cc9bb29434d1c3687e42.jpg",
+        "https://telegra.ph/file/d2aa4ce4b8effaf8ad371.jpg",
+        "https://telegra.ph/file/ab4b02a234fcd0e955bc4.jpg",
+        "https://telegra.ph/file/749a313bd8d83f071e404.jpg",
+        "https://telegra.ph/file/7a88eb314ce31d976e02f.jpg",
+        "https://telegra.ph/file/e646cfaf43bcd373f97d6.jpg",
+        "https://telegra.ph/file/efe3944a04615f22622f4.jpg",
+        "https://telegra.ph/file/e58d38f8d9679149c7960.jpg",
+        "https://telegra.ph/file/58f220985383ba6b15157.jpg",
+        "https://telegra.ph/file/39d707bc86213a86a7450.jpg",
+        "https://telegra.ph/file/77a070f3f9aee5fb29a9d.jpg",
+        "https://telegra.ph/file/20fc1999e2db0a585e552.jpg",
+        "https://telegra.ph/file/ca55de25797ab6ac5aaec.jpg",
+        "https://telegra.ph/file/c160d2b5e216e818ac38f.jpg",
+        "https://telegra.ph/file/61502a2096d96e02d6d94.jpg",
+        "https://telegra.ph/file/a43a3caf828d0814d726a.jpg",
+        "https://telegra.ph/file/e67072b80fa037e2fa0af.jpg",
+        "https://telegra.ph/file/7a3e80f62d47eb33cdfb2.jpg",
+        "https://telegra.ph/file/69c049eaf62183e3e7e2e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

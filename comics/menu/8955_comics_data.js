@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8955,
+    "title": "(COMIC1☆15) [黒猫館モンプチ (ヤミザワ)] ろーちゃんの執務室で角オナ指令 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/COMIC115-黒猫館モンプチ-ヤミザワ-ろーちゃんの執務室で角オナ指令-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/8fbe8fa6bb2dc0be7810e.jpg",
+        "https://telegra.ph/file/ebbdbfaafbe9c47e38176.jpg",
+        "https://telegra.ph/file/0c5a0ac0f94955b31080a.jpg",
+        "https://telegra.ph/file/4036a11cd9766fa3f3ba8.jpg",
+        "https://telegra.ph/file/5563ad6422addc450a121.jpg",
+        "https://telegra.ph/file/9b5c80b9e5c5b36366a22.jpg",
+        "https://telegra.ph/file/e5902809d5bf275979cc5.jpg",
+        "https://telegra.ph/file/0601b3da1a3fb6f2c3b4a.jpg",
+        "https://telegra.ph/file/fbf373ba8de3ef7539979.jpg",
+        "https://telegra.ph/file/abe5e0d0e655cdfb094f9.jpg",
+        "https://telegra.ph/file/316e54f7ed270eb352ced.jpg",
+        "https://telegra.ph/file/1276ab7033035097d125e.jpg",
+        "https://telegra.ph/file/cd5f410a62be8d5abcabd.jpg",
+        "https://telegra.ph/file/534c754ec2d156c4161b6.jpg",
+        "https://telegra.ph/file/b35fbf40da5b99e0b2aa0.jpg",
+        "https://telegra.ph/file/80b244543580d2f63153e.jpg",
+        "https://telegra.ph/file/f9069ef125e5c4fe4428d.jpg",
+        "https://telegra.ph/file/7bfcde368d73c1d3b4d71.jpg",
+        "https://telegra.ph/file/5a9b6ea2af9602809a552.jpg",
+        "https://telegra.ph/file/1a6d8547f77c929e74916.jpg",
+        "https://telegra.ph/file/feeff14dd9f7d0b92b285.jpg",
+        "https://telegra.ph/file/b92dc8b5ab0b179dd4047.jpg",
+        "https://telegra.ph/file/ae90009c7248b539fe018.jpg",
+        "https://telegra.ph/file/31567d33b5a8633e22296.jpg",
+        "https://telegra.ph/file/5f04a0730e01d901e2305.jpg",
+        "https://telegra.ph/file/8b46d981700e1e01b36d9.jpg",
+        "https://telegra.ph/file/7970ab93717ecef871a12.jpg",
+        "https://telegra.ph/file/99475069b1e1112224c5e.jpg",
+        "https://telegra.ph/file/f641a96169727ba233911.jpg",
+        "https://telegra.ph/file/cf2e1045959bf4a4cf17e.jpg",
+        "https://telegra.ph/file/eb17106cf6006301f7354.jpg",
+        "https://telegra.ph/file/d3147936eef5460186ee0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

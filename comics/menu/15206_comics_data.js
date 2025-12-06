@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15206,
+    "title": "(C91) [KirororO (キレロ)] 君と過ごす365日を (東方Project)",
+    "sourceUrl": "https://telegra.ph/C91-KirororO-キレロ-君と過ごす365日を-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/87ec332a6f1e2c8ea88b5.jpg",
+        "https://telegra.ph/file/34c4cab287a9e35a71a9d.jpg",
+        "https://telegra.ph/file/b9982e2b186e106cf1daf.jpg",
+        "https://telegra.ph/file/6add725d386f90431c002.jpg",
+        "https://telegra.ph/file/6778c22770a2314f56163.jpg",
+        "https://telegra.ph/file/ee922f43b68c3572a6821.jpg",
+        "https://telegra.ph/file/69ccd4cc2eb1509267d11.jpg",
+        "https://telegra.ph/file/7a0e5e79f18c37c8e7b76.jpg",
+        "https://telegra.ph/file/d155004d4401320af244a.jpg",
+        "https://telegra.ph/file/e919c44463132d145805f.jpg",
+        "https://telegra.ph/file/78492af7a0bb228fc484f.jpg",
+        "https://telegra.ph/file/74e4b0ea92f1a0ca1a156.jpg",
+        "https://telegra.ph/file/a5afa13368fce0a388b9f.jpg",
+        "https://telegra.ph/file/e6eca3f2b0b2b5b816b87.jpg",
+        "https://telegra.ph/file/e8b62c8c7d64dabfe6caf.jpg",
+        "https://telegra.ph/file/6e86c4a342ea9e8efdecc.jpg",
+        "https://telegra.ph/file/7dc4313537cf44d3f2085.jpg",
+        "https://telegra.ph/file/68fff48709b1a4ad332ad.jpg",
+        "https://telegra.ph/file/6d2b7dd6fd7756cb563f3.jpg",
+        "https://telegra.ph/file/9c8c8a532ba0240df7c7c.jpg",
+        "https://telegra.ph/file/88d2245ed5c51bf14770e.jpg",
+        "https://telegra.ph/file/81f6d47b2c2ebdca20111.jpg",
+        "https://telegra.ph/file/ee75af7dc9d9a853598ae.jpg",
+        "https://telegra.ph/file/4dd2303d5c8c743a0bf2f.jpg",
+        "https://telegra.ph/file/7adc72c6b3defd19f8a19.jpg",
+        "https://telegra.ph/file/6aa9ba7806a5a2a6418eb.jpg",
+        "https://telegra.ph/file/65ed1c1ae16600adc4adf.jpg",
+        "https://telegra.ph/file/821ddaa652495f9bf0588.jpg",
+        "https://telegra.ph/file/bb6c52ffb6bd113c43205.jpg",
+        "https://telegra.ph/file/c842684d551b31b2d201b.jpg",
+        "https://telegra.ph/file/19bc9be7af3ea9c931d56.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

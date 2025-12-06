@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15594,
+    "title": "(GirlsLoveFestival 23) [Reflectia (新堂由樹)] LOVE STEP (ラブライブ!)-Preview",
+    "sourceUrl": "https://telegra.ph/GirlsLoveFestival-23-Reflectia-新堂由樹-LOVE-STEP-ラブライブ-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/99a7cf9d3038e9af1a31c.jpg",
+        "https://telegra.ph/file/6440071b6e92d5f168579.jpg",
+        "https://telegra.ph/file/402bfd0c5ad7eeaea059a.jpg",
+        "https://telegra.ph/file/8453cff681237be3c2178.jpg",
+        "https://telegra.ph/file/cf7c1e490c4305d878751.jpg",
+        "https://telegra.ph/file/efa4c337e810d3b3c26ed.jpg",
+        "https://telegra.ph/file/5d7bba0b757814afdfd60.jpg",
+        "https://telegra.ph/file/39c6eea663782d801e3c2.jpg",
+        "https://telegra.ph/file/57c6b8bb96c373ac09b72.jpg",
+        "https://telegra.ph/file/3042f955df7a4d6ad1b94.jpg",
+        "https://telegra.ph/file/bab426e249dbcbbbe2b00.jpg",
+        "https://telegra.ph/file/f519b050b4b266b07e0f4.jpg",
+        "https://telegra.ph/file/732fa2e7aa589b960e7fd.jpg",
+        "https://telegra.ph/file/cfa8f377e0eaadf7ec1cc.jpg",
+        "https://telegra.ph/file/7d7f4f97f1771d19fc6e4.jpg",
+        "https://telegra.ph/file/2669360edb64a1e6b55b1.jpg",
+        "https://telegra.ph/file/d1b3ba80ae90aebcc3b64.jpg",
+        "https://telegra.ph/file/2a50e7385d6d05c882c0b.jpg",
+        "https://telegra.ph/file/8c8fd4a21ca3e379cfc85.jpg",
+        "https://telegra.ph/file/4e6df66064ba52cddd033.jpg",
+        "https://telegra.ph/file/5c3c78ec01152791b460e.jpg",
+        "https://telegra.ph/file/4660be8a35280cc176b93.jpg",
+        "https://telegra.ph/file/e8f3a674caa9fe686f718.jpg",
+        "https://telegra.ph/file/524f3e48f0a929ff56042.jpg",
+        "https://telegra.ph/file/4523e928edec31b56848f.jpg",
+        "https://telegra.ph/file/0e5b94ab606c8a5bd2002.jpg",
+        "https://telegra.ph/file/b6e225979a88d5069ad60.jpg",
+        "https://telegra.ph/file/0df5dc342f1e29015c8be.jpg",
+        "https://telegra.ph/file/30bbd856e37a343502806.jpg",
+        "https://telegra.ph/file/9c5a40e89de032a650247.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15970,
+    "title": "[Cal7fa (雨)] ずっと(上篇) (ぼっち・ざ・ろっく!)  -Preview",
+    "sourceUrl": "https://telegra.ph/Cal7fa-雨-ずっと上篇-ぼっちざろっく--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/e55b0dcd30f7a58243519.jpg",
+        "https://telegra.ph/file/dc028ef49cdd542b25ee3.jpg",
+        "https://telegra.ph/file/921d207ec740facf4d8ff.jpg",
+        "https://telegra.ph/file/871bd1a3ad26cbfb18514.jpg",
+        "https://telegra.ph/file/ce04f4aa80cc92157c945.jpg",
+        "https://telegra.ph/file/fca738f34dabf85095107.jpg",
+        "https://telegra.ph/file/e9e26576f1cfa1259f40e.jpg",
+        "https://telegra.ph/file/fcab4d36768662a6364ee.jpg",
+        "https://telegra.ph/file/23e7830318ea3be844850.jpg",
+        "https://telegra.ph/file/10b6a2e3d337cf6864c4b.jpg",
+        "https://telegra.ph/file/94cf671deadc778be632d.jpg",
+        "https://telegra.ph/file/aa585cae44306bcf72da6.jpg",
+        "https://telegra.ph/file/85d7434dbf5993c50909c.jpg",
+        "https://telegra.ph/file/0f7ee0180e25e13558628.jpg",
+        "https://telegra.ph/file/383587240f3530e8fe3eb.jpg",
+        "https://telegra.ph/file/ed03818ff4f45f1ad0d92.jpg",
+        "https://telegra.ph/file/1c9f3fe73d165f581e1c0.jpg",
+        "https://telegra.ph/file/b17d142ca9c68251cdd93.jpg",
+        "https://telegra.ph/file/b23370a2f3f91f1cbea9b.jpg",
+        "https://telegra.ph/file/4d33c3b3ace3d0ff4c0fd.jpg",
+        "https://telegra.ph/file/bcc41daf3fcea3af723a4.jpg",
+        "https://telegra.ph/file/d17c713dbd23646842e2c.jpg",
+        "https://telegra.ph/file/7ac55f3c43c7707ba6605.jpg",
+        "https://telegra.ph/file/b65a671d1221244351b06.jpg",
+        "https://telegra.ph/file/22a89a4f0e295fe2f764d.jpg",
+        "https://telegra.ph/file/af47c1539e7af6a568ef1.jpg",
+        "https://telegra.ph/file/602f026f9ba988e6eb01d.jpg",
+        "https://telegra.ph/file/40d4c0362dad1d29a839b.jpg",
+        "https://telegra.ph/file/54385cf737438a9fe5558.jpg",
+        "https://telegra.ph/file/29e6f3c3a39b144f8908f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

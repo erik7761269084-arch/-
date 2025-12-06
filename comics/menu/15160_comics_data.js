@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15160,
+    "title": "[kanju] 夜は立場逆転する百合カップル",
+    "sourceUrl": "https://telegra.ph/kanju-夜は立場逆転する百合カップル-08-31",
+    "images": [
+        "https://telegra.ph/file/6e6ba75c422ceb61233fc.jpg",
+        "https://telegra.ph/file/b9dded12fee2348597633.jpg",
+        "https://telegra.ph/file/9acbccf17643a2ca3c6af.jpg",
+        "https://telegra.ph/file/4956c45fe2555382b7ee5.jpg",
+        "https://telegra.ph/file/da78dda510ce9d92c317f.jpg",
+        "https://telegra.ph/file/1178905c1bc741446762e.jpg",
+        "https://telegra.ph/file/42778adf63c246147a57f.jpg",
+        "https://telegra.ph/file/61e2ba49a9a1a3dd0da45.jpg",
+        "https://telegra.ph/file/41d48ba5df2f07cee7161.jpg",
+        "https://telegra.ph/file/2a007910e69cba35f9538.jpg",
+        "https://telegra.ph/file/eb84a33f9855deab5a8fe.jpg",
+        "https://telegra.ph/file/e4b67c85436640c2292bd.jpg",
+        "https://telegra.ph/file/57d3be1e42e86c1af927f.jpg",
+        "https://telegra.ph/file/491ab8839a5e167c5f1b1.jpg",
+        "https://telegra.ph/file/a63c0fb59388fdc0cc1d4.jpg",
+        "https://telegra.ph/file/febc97fc80e0c695f00fb.jpg",
+        "https://telegra.ph/file/ce5fb9d84775447f93cc3.jpg",
+        "https://telegra.ph/file/13be6ce77528f30cb536b.jpg",
+        "https://telegra.ph/file/55cdcfb78be139b414157.jpg",
+        "https://telegra.ph/file/1ae0169f6a7ac4f91eab5.jpg",
+        "https://telegra.ph/file/0f1bc8df57d4ef23781a4.jpg",
+        "https://telegra.ph/file/d8e9e17ca2c2d14332c90.jpg",
+        "https://telegra.ph/file/4c2d6e36cf8da8ee80637.jpg",
+        "https://telegra.ph/file/609de52ab59a05e846318.jpg",
+        "https://telegra.ph/file/a386e5390dfece811ff51.jpg",
+        "https://telegra.ph/file/96267a044485f06d6c685.jpg",
+        "https://telegra.ph/file/35c55a117d9f544814f17.jpg",
+        "https://telegra.ph/file/d5baa9c9ee86c4671c77f.jpg",
+        "https://telegra.ph/file/ae1203d65ba806eeb75f7.jpg",
+        "https://telegra.ph/file/9bbbec2f549f0822fda68.jpg",
+        "https://telegra.ph/file/145f0d721747e593b0810.jpg",
+        "https://telegra.ph/file/263fd11f782c33edf941e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

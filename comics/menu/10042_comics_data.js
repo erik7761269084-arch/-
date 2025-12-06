@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10042,
+    "title": "(#にじそうさく4) [珈琲幼女 (芽々ノ圭)] 濃精性活 (鷹宮リオン)",
+    "sourceUrl": "https://telegra.ph/にじそうさく4-珈琲幼女-芽々ノ圭-濃精性活-鷹宮リオン-08-31",
+    "images": [
+        "https://telegra.ph/file/93571ff99ec9ab4c6b92b.jpg",
+        "https://telegra.ph/file/e3f38e60bb2f201c13546.jpg",
+        "https://telegra.ph/file/45d51bf98706cc1d64900.jpg",
+        "https://telegra.ph/file/94b73fbee2376f0275ac2.jpg",
+        "https://telegra.ph/file/57932e4b2af53702a3f37.jpg",
+        "https://telegra.ph/file/0d3c913005578aa5eb00f.jpg",
+        "https://telegra.ph/file/be2cba220eb1252c906f7.jpg",
+        "https://telegra.ph/file/ea610f50ae7672dc70de6.jpg",
+        "https://telegra.ph/file/34c6d2b4933a4102decec.jpg",
+        "https://telegra.ph/file/45dad015961f9ffe1c749.jpg",
+        "https://telegra.ph/file/1c6977b95ae2824d1dd64.jpg",
+        "https://telegra.ph/file/d9e76ae051a58e1a2232b.jpg",
+        "https://telegra.ph/file/a235fa969f5755700844b.jpg",
+        "https://telegra.ph/file/059041fc796cf3ab93295.jpg",
+        "https://telegra.ph/file/f296fa4f7b75afa5f3d6c.jpg",
+        "https://telegra.ph/file/5ce94fa8bcd00aeb5a4e4.jpg",
+        "https://telegra.ph/file/b40ffbb420cc5655e141e.jpg",
+        "https://telegra.ph/file/312ea1cc718f6e95e1b08.jpg",
+        "https://telegra.ph/file/932d0de3bc97f1e198527.jpg",
+        "https://telegra.ph/file/c1b2227bf8ef7b8000533.jpg",
+        "https://telegra.ph/file/2dd60ac0c0d6344509ce1.jpg",
+        "https://telegra.ph/file/8c6ef809510d2bed9c7e8.jpg",
+        "https://telegra.ph/file/54a899ca60fa7b35f2922.jpg",
+        "https://telegra.ph/file/99c3c772bb25b68ec9f32.jpg",
+        "https://telegra.ph/file/db194d1fcd3ea72e3efca.jpg",
+        "https://telegra.ph/file/78b35f02c76c5e757ad58.jpg",
+        "https://telegra.ph/file/576e7b39fc50cf617e99b.jpg",
+        "https://telegra.ph/file/b1a06b7f34e97a77b80af.jpg",
+        "https://telegra.ph/file/98ed3260c04429bcf50ac.jpg",
+        "https://telegra.ph/file/ca3a150195c27198179c7.jpg",
+        "https://telegra.ph/file/5e6c7a394d24741c03b13.jpg",
+        "https://telegra.ph/file/b88846edbbfebc57a8245.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9867,
+    "title": "(C76) [みやんち (宮越良月)] ひるドラ！ (とらドラ！)",
+    "sourceUrl": "https://telegra.ph/C76-みやんち-宮越良月-ひるドラ-とらドラ-08-31",
+    "images": [
+        "https://telegra.ph/file/2b5d6623816fc75790774.jpg",
+        "https://telegra.ph/file/fdfaa42bed88d4f57adfb.jpg",
+        "https://telegra.ph/file/ca9bb448bc146d5b51e34.jpg",
+        "https://telegra.ph/file/bfe03ccf0f2bf01bfe9ee.jpg",
+        "https://telegra.ph/file/aaa1b1a1cb4416ec3aad3.jpg",
+        "https://telegra.ph/file/cc6296a795ee31f6fd489.jpg",
+        "https://telegra.ph/file/bfdea6dbdf0b79367c9cd.jpg",
+        "https://telegra.ph/file/b2f6becc9c177996e0406.jpg",
+        "https://telegra.ph/file/1d073161fbeea909370b3.jpg",
+        "https://telegra.ph/file/1cdad87bb43f342a69363.jpg",
+        "https://telegra.ph/file/d67ea65b6b2fdbfa21a88.jpg",
+        "https://telegra.ph/file/c344d28e33d37e3839b91.jpg",
+        "https://telegra.ph/file/72a3efa11e87d0e053eac.jpg",
+        "https://telegra.ph/file/5acb1f873f154a5367cb8.jpg",
+        "https://telegra.ph/file/85b3d671187d7be1a9102.jpg",
+        "https://telegra.ph/file/4c5359bae7740e50971aa.jpg",
+        "https://telegra.ph/file/85421a9d72f6686725795.jpg",
+        "https://telegra.ph/file/e954f7fb0ec0a5c6081a7.jpg",
+        "https://telegra.ph/file/039bf6dab28975f53b899.jpg",
+        "https://telegra.ph/file/8959a1c7ccfb2374104c2.jpg",
+        "https://telegra.ph/file/0a24a024153352f907fee.jpg",
+        "https://telegra.ph/file/862f7f714432ff5b9afa2.jpg",
+        "https://telegra.ph/file/ab83b146695f4bdd87443.jpg",
+        "https://telegra.ph/file/b3f0395f44b4694cb6827.jpg",
+        "https://telegra.ph/file/ab2fdd00a73436087b188.jpg",
+        "https://telegra.ph/file/4d9bcc5e442f50183846d.jpg",
+        "https://telegra.ph/file/7a27d9c4e1babf5249856.jpg",
+        "https://telegra.ph/file/5d1daf5eac3aa9476b7e3.jpg",
+        "https://telegra.ph/file/e62f230350ce0cc093867.jpg",
+        "https://telegra.ph/file/d3eb45cd460adb38ad0d2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

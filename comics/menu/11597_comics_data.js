@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11597,
+    "title": "(C93) [にくにくイタリアン (秋草ぺぺろん)] 包茎ちんぽでも問題NOTHING! (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/C93-にくにくイタリアン-秋草ぺぺろん-包茎ちんぽでも問題NOTHING-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/3f8a940fc4529301f3af1.jpg",
+        "https://telegra.ph/file/ef4dace64e2711e98b6c9.jpg",
+        "https://telegra.ph/file/3439d025a8065c2d148f9.jpg",
+        "https://telegra.ph/file/9e6c13b8a2111c78b531a.jpg",
+        "https://telegra.ph/file/91f8d1d9648832a536579.jpg",
+        "https://telegra.ph/file/3dcc5c57cfa5366fc78f2.jpg",
+        "https://telegra.ph/file/499a760471167515a0753.jpg",
+        "https://telegra.ph/file/aa769ffd1657e40cdcff7.jpg",
+        "https://telegra.ph/file/95129e12dd8d79bf43187.jpg",
+        "https://telegra.ph/file/1b61b5e06d21418574535.jpg",
+        "https://telegra.ph/file/b277e4eab2e4f1bffad65.jpg",
+        "https://telegra.ph/file/af2c9252cb7eadde32d73.jpg",
+        "https://telegra.ph/file/88a9b7d8c4d800c2c4433.jpg",
+        "https://telegra.ph/file/4bea7992a10302630774b.jpg",
+        "https://telegra.ph/file/3740092b8afc339681aec.jpg",
+        "https://telegra.ph/file/917022fa986a6a78fa420.jpg",
+        "https://telegra.ph/file/b09c3e27bad54a1c9d339.jpg",
+        "https://telegra.ph/file/3c887e0105f1405e79ab3.jpg",
+        "https://telegra.ph/file/37da9dd235cebaf5d6bf2.jpg",
+        "https://telegra.ph/file/db2f91ca69fbfbb85cc6a.jpg",
+        "https://telegra.ph/file/ab8c6e03adec5f3c9ec1e.jpg",
+        "https://telegra.ph/file/c1a3a4c1703590458530c.jpg",
+        "https://telegra.ph/file/b0cd6e76a51a1522a438e.jpg",
+        "https://telegra.ph/file/76956fe8d4c9af31d4d5d.jpg",
+        "https://telegra.ph/file/fee7f331602cb6250ca32.jpg",
+        "https://telegra.ph/file/3890f4941800f8f7b7fe8.jpg",
+        "https://telegra.ph/file/2dbf77229653bdf5a3f7a.jpg",
+        "https://telegra.ph/file/e4d616ea6083217cb4ca6.jpg",
+        "https://telegra.ph/file/a733449e32bd70394dec0.jpg",
+        "https://telegra.ph/file/c73ecf212c2c8d5496ebe.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11526,
+    "title": "[猫男爵] いもうとAV大作戦! (COMIC LO 2021年1月号)",
+    "sourceUrl": "https://telegra.ph/猫男爵-いもうとAV大作戦-COMIC-LO-2021年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/6f294d2e2a1ccc1a4c70c.jpg",
+        "https://telegra.ph/file/08847ea4e18445c203aa3.jpg",
+        "https://telegra.ph/file/2cbb63b4bc516cb3fcce1.jpg",
+        "https://telegra.ph/file/f733e5e3aa528ad9a776a.jpg",
+        "https://telegra.ph/file/3f523da65f47f38f82ecc.jpg",
+        "https://telegra.ph/file/49337d78ead8044652903.jpg",
+        "https://telegra.ph/file/cd1cc02a650779df8b24a.jpg",
+        "https://telegra.ph/file/05793819b4fa29bd79969.jpg",
+        "https://telegra.ph/file/4227ec27bba2ce7cc9b25.jpg",
+        "https://telegra.ph/file/257759a9454dc90830c85.jpg",
+        "https://telegra.ph/file/4577c8f6b5b1e9a48c805.jpg",
+        "https://telegra.ph/file/c72fe68f8cdf3dc95f354.jpg",
+        "https://telegra.ph/file/716837a2d72510310472a.jpg",
+        "https://telegra.ph/file/0f0dd4558a1006c421dae.jpg",
+        "https://telegra.ph/file/4242998ae6a824df93c6f.jpg",
+        "https://telegra.ph/file/b7d923bfa4bedb7982630.jpg",
+        "https://telegra.ph/file/8bca66c0265a331584498.jpg",
+        "https://telegra.ph/file/5854f919dd8661e11a624.jpg",
+        "https://telegra.ph/file/f251c5a7b24a89a467af3.jpg",
+        "https://telegra.ph/file/8e146714f8ea050401844.jpg",
+        "https://telegra.ph/file/8d92c8012ea0139a6dbe2.jpg",
+        "https://telegra.ph/file/ac3719b08412568332f24.jpg",
+        "https://telegra.ph/file/37872e89009a6ee2e3b82.jpg",
+        "https://telegra.ph/file/6e180d29673faf2fcc9f0.jpg",
+        "https://telegra.ph/file/b81954e1d3ae7b75dda97.jpg",
+        "https://telegra.ph/file/a26130f4a986555b4b774.jpg",
+        "https://telegra.ph/file/2073a782005de2af7ca1d.jpg",
+        "https://telegra.ph/file/009698e99682eeedd8629.jpg",
+        "https://telegra.ph/file/32336654f02f11161b02b.jpg",
+        "https://telegra.ph/file/c67953a11e74ff1c30398.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15129,
+    "title": "(ちだまりSA山2) [四方山 (金成)] 雨にとける嘘 (魔法少女まどか☆マギカ)",
+    "sourceUrl": "https://telegra.ph/ちだまりSA山2-四方山-金成-雨にとける嘘-魔法少女まどかマギカ-08-31",
+    "images": [
+        "https://telegra.ph/file/00db4557cca413593efb5.jpg",
+        "https://telegra.ph/file/94ca7870742ab8a93d5a6.jpg",
+        "https://telegra.ph/file/9da17a3850aaa7e848f4c.jpg",
+        "https://telegra.ph/file/4e977fc4114a5c4edc831.jpg",
+        "https://telegra.ph/file/c92cf700cff463eab89c9.jpg",
+        "https://telegra.ph/file/d79c3e1ee96a72b0b8563.jpg",
+        "https://telegra.ph/file/d5ab051af68437eb9b146.jpg",
+        "https://telegra.ph/file/877ea1d62cf713c963caf.jpg",
+        "https://telegra.ph/file/89dfb8401ba40e13d9b54.jpg",
+        "https://telegra.ph/file/d28f508f44ae2538cdeb0.jpg",
+        "https://telegra.ph/file/90c993f252240b18504e5.jpg",
+        "https://telegra.ph/file/146e2f18a10fc58e93dde.jpg",
+        "https://telegra.ph/file/1e736a4a39892b8aa3cee.jpg",
+        "https://telegra.ph/file/fecc89c592535877d10a7.jpg",
+        "https://telegra.ph/file/2f8c84da3e27598dfd466.jpg",
+        "https://telegra.ph/file/cfc20d15b1e39d7c49f46.jpg",
+        "https://telegra.ph/file/c5981f817c239c4d58dfb.jpg",
+        "https://telegra.ph/file/2cc22152e0e9e75069346.jpg",
+        "https://telegra.ph/file/e6c0fa47a87414f6522db.jpg",
+        "https://telegra.ph/file/69f2ddb5d67343ad21789.jpg",
+        "https://telegra.ph/file/7a37200fc1bb88f98a6ea.jpg",
+        "https://telegra.ph/file/ccc42314ff14c0b7a61eb.jpg",
+        "https://telegra.ph/file/285f507f0ffba86d42e36.jpg",
+        "https://telegra.ph/file/27401f3f05d36c8cea115.jpg",
+        "https://telegra.ph/file/7f0f81393225677b9f83c.jpg",
+        "https://telegra.ph/file/9da23b09f7833bd1fdc43.jpg",
+        "https://telegra.ph/file/291a85ccdc6d77ddf7bf1.jpg",
+        "https://telegra.ph/file/b0e4795eb96d40eeaf195.jpg",
+        "https://telegra.ph/file/d6d54a77fba11ac55eac3.jpg",
+        "https://telegra.ph/file/5399ce74ce5d59a6aa9b6.jpg",
+        "https://telegra.ph/file/a720f6054c1161ba29ceb.jpg",
+        "https://telegra.ph/file/7db9edd5782cab6de9a3d.jpg",
+        "https://telegra.ph/file/980d2adf905565bdfbbf7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

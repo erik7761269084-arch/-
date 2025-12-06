@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16217,
+    "title": "(秋季例大祭10) [azmaya (あずまあや)] 上手に切ってね、紫 (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/秋季例大祭10-azmaya-あずまあや-上手に切ってね紫-東方Project--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/bcd7cf03cf90de87375b6.jpg",
+        "https://telegra.ph/file/263407bc160071667b447.jpg",
+        "https://telegra.ph/file/a5a2df9ec6d3f3f194388.jpg",
+        "https://telegra.ph/file/a5b42088c7113d03fda04.jpg",
+        "https://telegra.ph/file/e9dd877d426d6e954b90d.jpg",
+        "https://telegra.ph/file/7d693d5957dad5261c61a.jpg",
+        "https://telegra.ph/file/75f8f9cb479d73d25be6e.jpg",
+        "https://telegra.ph/file/00f08882823f78f59c3e3.jpg",
+        "https://telegra.ph/file/72a6a85302b1f070932b4.jpg",
+        "https://telegra.ph/file/f9f4a85fbb60597916054.jpg",
+        "https://telegra.ph/file/b90e9c4bf9fe19a5bfd44.jpg",
+        "https://telegra.ph/file/689305c44d6b0ddbc03b8.jpg",
+        "https://telegra.ph/file/4524282f64013acdc3bb6.jpg",
+        "https://telegra.ph/file/904a4790e9372616c38cb.jpg",
+        "https://telegra.ph/file/484405f3ef4089b8ddf35.jpg",
+        "https://telegra.ph/file/15382452a13f439b7b62e.jpg",
+        "https://telegra.ph/file/dd2e00106f4ad872a0567.jpg",
+        "https://telegra.ph/file/ecfcbc4a96b265c64dfb8.jpg",
+        "https://telegra.ph/file/ca204b9f671b351618dfb.jpg",
+        "https://telegra.ph/file/6cd9bb47d5ff04ec8f923.jpg",
+        "https://telegra.ph/file/b6fa5a856da5cb345b728.jpg",
+        "https://telegra.ph/file/d5db5a79451f83fa746ce.jpg",
+        "https://telegra.ph/file/8fcde155ead951ea9ad34.jpg",
+        "https://telegra.ph/file/a56866cd84c07b81a570b.jpg",
+        "https://telegra.ph/file/87fea7243ee192138dea6.jpg",
+        "https://telegra.ph/file/50d12b9b493ad4e1ffabf.jpg",
+        "https://telegra.ph/file/1158986ba36afca578308.jpg",
+        "https://telegra.ph/file/40943b3577a0fffae2817.jpg",
+        "https://telegra.ph/file/d2b78efe08cfdc5c01c32.jpg",
+        "https://telegra.ph/file/9a211a032b029b72ecdee.jpg",
+        "https://telegra.ph/file/90340b641280cf71feb5d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

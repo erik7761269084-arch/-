@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10034,
+    "title": "[KAMINENDO.CORP (あかざわRED)] ぼうけんのしょシリーズ総集編 The Adventurer's Book has Perfect. Vol.1",
+    "sourceUrl": "https://telegra.ph/KAMINENDOCORP-あかざわRED-ぼうけんのしょシリーズ総集編-The-Adventurers-Book-has-Perfect-Vol1-08-31",
+    "images": [
+        "https://telegra.ph/file/f349affdd8b5b76a84d23.jpg",
+        "https://telegra.ph/file/f11bd51fa35d13983c992.jpg",
+        "https://telegra.ph/file/92f4a70d14180e4028202.jpg",
+        "https://telegra.ph/file/9a42195f1acb0e8504bd7.jpg",
+        "https://telegra.ph/file/9a72a594ee839b55d17d4.jpg",
+        "https://telegra.ph/file/6807d21b1b7b01e0ac445.jpg",
+        "https://telegra.ph/file/4ae475da412c86b1a6388.jpg",
+        "https://telegra.ph/file/b332644b70ae9a879d222.jpg",
+        "https://telegra.ph/file/e46b825a39a08393ef27b.jpg",
+        "https://telegra.ph/file/94f2218edbde12c6cdf3f.jpg",
+        "https://telegra.ph/file/cac0974c92e4ff48267d0.jpg",
+        "https://telegra.ph/file/06fe28c4d40975cc167ed.jpg",
+        "https://telegra.ph/file/bd31f179fd99914f7851b.jpg",
+        "https://telegra.ph/file/41b1f20a060bc872f5a43.jpg",
+        "https://telegra.ph/file/bde78ab5d53fd97b62e64.jpg",
+        "https://telegra.ph/file/912b65c3cd17d41a6c29c.jpg",
+        "https://telegra.ph/file/3a3456b20ac3074edbc5e.jpg",
+        "https://telegra.ph/file/2e3fbd7c6de653798c60f.jpg",
+        "https://telegra.ph/file/9391da88d95df4020db30.jpg",
+        "https://telegra.ph/file/0117f4db57f07df595733.jpg",
+        "https://telegra.ph/file/ed02d710358f21fc1aa6a.jpg",
+        "https://telegra.ph/file/8dfe731acf5728522bcbd.jpg",
+        "https://telegra.ph/file/66d1b73739d70601645a1.jpg",
+        "https://telegra.ph/file/7b62626661fe2aba49aad.jpg",
+        "https://telegra.ph/file/ac4bea896f8b01d5db2f9.jpg",
+        "https://telegra.ph/file/b653fb2ddbde38b2f23e4.jpg",
+        "https://telegra.ph/file/c49e5e05d87346c42f7e3.jpg",
+        "https://telegra.ph/file/e105eab9acb54b0667342.jpg",
+        "https://telegra.ph/file/f6b624f98a5297b544a33.jpg",
+        "https://telegra.ph/file/fe57c899d1c8914781efe.jpg",
+        "https://telegra.ph/file/af159e906f3c332d06fea.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13084,
+    "title": "akchu] ヒナちゃん",
+    "sourceUrl": "https://telegra.ph/akchu-ヒナちゃん-08-31",
+    "images": [
+        "https://telegra.ph/file/985962c226da8c2572532.jpg",
+        "https://telegra.ph/file/d43be0988459f856118a5.jpg",
+        "https://telegra.ph/file/8d94e1e39ab06e6092837.jpg",
+        "https://telegra.ph/file/2dbcb60e11c9b4b87269d.jpg",
+        "https://telegra.ph/file/7bb5387bcacfb289a9064.jpg",
+        "https://telegra.ph/file/d8f09d326ca8eda67d856.jpg",
+        "https://telegra.ph/file/84674b794befd6b50d9df.jpg",
+        "https://telegra.ph/file/6d7460e9f0559fc4b5385.jpg",
+        "https://telegra.ph/file/c1282803a9e6b0b506ea7.jpg",
+        "https://telegra.ph/file/6688a018eef195442b5b2.jpg",
+        "https://telegra.ph/file/8c1a5ec54577876292413.jpg",
+        "https://telegra.ph/file/43477a38d4f30937ce6e6.jpg",
+        "https://telegra.ph/file/1be739ae1a9d14754822f.jpg",
+        "https://telegra.ph/file/6ac57da4e51abaf5e43bd.jpg",
+        "https://telegra.ph/file/d003fc9e342eaed0a8978.jpg",
+        "https://telegra.ph/file/4d63588098c5c82d82dfd.jpg",
+        "https://telegra.ph/file/d064d8becbe883efaba71.jpg",
+        "https://telegra.ph/file/014abb10753879f2790ec.jpg",
+        "https://telegra.ph/file/161f26998bfb929eb9954.jpg",
+        "https://telegra.ph/file/18fcd2297e98114f8ac80.jpg",
+        "https://telegra.ph/file/2b6cfa08449473712f2c8.jpg",
+        "https://telegra.ph/file/b7247660fc7349aabd268.jpg",
+        "https://telegra.ph/file/44386cc7c177601c8221a.jpg",
+        "https://telegra.ph/file/9c20f45a5239ff3ddcbab.jpg",
+        "https://telegra.ph/file/8d0af8158ceb7dbca66f0.jpg",
+        "https://telegra.ph/file/510f092e0d9b61462b0d0.jpg",
+        "https://telegra.ph/file/fabd46e51cc2557b7f733.jpg",
+        "https://telegra.ph/file/d46be641a503b431d36ce.jpg",
+        "https://telegra.ph/file/dee1dda1442a34372ba8a.jpg",
+        "https://telegra.ph/file/0a04b21179fbc674051f4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

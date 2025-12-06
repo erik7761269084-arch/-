@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13981,
+    "title": "[Abathur‘s test] The fall of ghost 91",
+    "sourceUrl": "https://telegra.ph/Abathurs-test-The-fall-of-ghost-91-08-31",
+    "images": [
+        "https://telegra.ph/file/bb74663dd8c32128aa74a.jpg",
+        "https://telegra.ph/file/7a4f3b4fb2193749786c5.jpg",
+        "https://telegra.ph/file/8d127423d1416f619e580.jpg",
+        "https://telegra.ph/file/7f98c00e8a688235aac4c.jpg",
+        "https://telegra.ph/file/c7edee7e7f9411805a586.jpg",
+        "https://telegra.ph/file/f8c24d665007c914a9380.jpg",
+        "https://telegra.ph/file/71c3c67fc7296f7b0a233.jpg",
+        "https://telegra.ph/file/e812614446b0f94cef083.jpg",
+        "https://telegra.ph/file/62445e5d80000bab692da.jpg",
+        "https://telegra.ph/file/2022db01759dc1a40c3c1.jpg",
+        "https://telegra.ph/file/ca969d3e1b00da054f21d.jpg",
+        "https://telegra.ph/file/54e989cbe573013a0d0a8.jpg",
+        "https://telegra.ph/file/ff1c945df270b9a45f4ca.jpg",
+        "https://telegra.ph/file/e806cb438d01b9210bb73.jpg",
+        "https://telegra.ph/file/f033c777ccf1fad61036f.jpg",
+        "https://telegra.ph/file/602c40047ad5e0a93266a.jpg",
+        "https://telegra.ph/file/02021873fbf03665cc279.jpg",
+        "https://telegra.ph/file/f76176e023e588a30f920.jpg",
+        "https://telegra.ph/file/c4b91ff36aff481e2c750.jpg",
+        "https://telegra.ph/file/2232f2acc14a48a5b4914.jpg",
+        "https://telegra.ph/file/f4e1c7151e01f2525ccf4.jpg",
+        "https://telegra.ph/file/a845e6088933b662f8197.jpg",
+        "https://telegra.ph/file/95b02b2bd8a72c0fd2b5d.jpg",
+        "https://telegra.ph/file/ca37c6a79a21ecd5bbd80.jpg",
+        "https://telegra.ph/file/c89ac71860a35643c52e4.jpg",
+        "https://telegra.ph/file/5615c82fd2cf744097221.jpg",
+        "https://telegra.ph/file/aa942b911b3975eaf162c.jpg",
+        "https://telegra.ph/file/c4a75dac897c2e37b70ed.jpg",
+        "https://telegra.ph/file/6e38d3c339977414beda4.jpg",
+        "https://telegra.ph/file/b04e62f5379b11d71e104.jpg",
+        "https://telegra.ph/file/7c7b8c09d34fc4cc31b03.jpg",
+        "https://telegra.ph/file/d1c58cac7121ac530a93a.jpg",
+        "https://telegra.ph/file/78171febc3b1df95fc554.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

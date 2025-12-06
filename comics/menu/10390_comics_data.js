@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10390,
+    "title": "(C94) [SPT (こうぐちもと)] らくがき便所の女神ちゃん",
+    "sourceUrl": "https://telegra.ph/C94-SPT-こうぐちもと-らくがき便所の女神ちゃん-08-31",
+    "images": [
+        "https://telegra.ph/file/be1b0c21d70d9974dded6.jpg",
+        "https://telegra.ph/file/2bb192ee7bd1faf1fcaf7.jpg",
+        "https://telegra.ph/file/7b9950867b72970be2772.jpg",
+        "https://telegra.ph/file/ec36d37635b3cfcab3d6d.jpg",
+        "https://telegra.ph/file/3fb5c4ca41259e48eba5d.jpg",
+        "https://telegra.ph/file/9b25349cae6797133a60a.jpg",
+        "https://telegra.ph/file/3a67bb183e633defd50c8.jpg",
+        "https://telegra.ph/file/8889b49ab6bf1192f7c8c.jpg",
+        "https://telegra.ph/file/584c206a94e8b6e25243f.jpg",
+        "https://telegra.ph/file/942182afd56f6af0382a5.jpg",
+        "https://telegra.ph/file/3c15fbcd2a83eabd9f136.jpg",
+        "https://telegra.ph/file/97d7d67538300e7aa099f.jpg",
+        "https://telegra.ph/file/cf8bb348c465398cf6de9.jpg",
+        "https://telegra.ph/file/e44171aa5423bbde09061.jpg",
+        "https://telegra.ph/file/70bbfabe91dbebae1b93b.jpg",
+        "https://telegra.ph/file/f5311f6cf3552d4d0b6da.jpg",
+        "https://telegra.ph/file/670152ec3362b4a274a6d.jpg",
+        "https://telegra.ph/file/ab0ad6cfffa1f9a0edd59.jpg",
+        "https://telegra.ph/file/ed9ffdd4fd658cde9f31c.jpg",
+        "https://telegra.ph/file/dcd36951418cef362c8e8.jpg",
+        "https://telegra.ph/file/93235209a7a6c3cda3969.jpg",
+        "https://telegra.ph/file/1fa2f4907539ff7a1c447.jpg",
+        "https://telegra.ph/file/0e1e4cfd093897c2ef2ff.jpg",
+        "https://telegra.ph/file/5531fc5ac8adbf3ca2f71.jpg",
+        "https://telegra.ph/file/bcf0218725de809894ebd.jpg",
+        "https://telegra.ph/file/0c47aaea64fbe367d8b04.jpg",
+        "https://telegra.ph/file/d7697ce97af34f9b9c63f.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/8664818462199397a8fd1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

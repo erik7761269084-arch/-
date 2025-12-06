@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12572,
+    "title": "(AC2) [マキノ事務所 (滝美梨香)] SISTERS ～隠された記憶～ ACT.10 AKIKO IV (SISTERS ～夏の最後の日～)",
+    "sourceUrl": "https://telegra.ph/AC2-マキノ事務所-滝美梨香-SISTERS-隠された記憶-ACT10-AKIKO-IV-SISTERS-夏の最後の日-08-31",
+    "images": [
+        "https://telegra.ph/file/4b763704147de9eeef75a.jpg",
+        "https://telegra.ph/file/66fa61f3c1a3fa921f3b7.jpg",
+        "https://telegra.ph/file/f97e3ea52931e28a432c6.jpg",
+        "https://telegra.ph/file/9c38c2163e2d16f0b8dd1.jpg",
+        "https://telegra.ph/file/40560a75bcaccdefe8cd2.jpg",
+        "https://telegra.ph/file/a0ed9c4610aaecee5f8d9.jpg",
+        "https://telegra.ph/file/47a98b405fa9e18e1cb35.jpg",
+        "https://telegra.ph/file/ed6d092038f4befd51b3a.jpg",
+        "https://telegra.ph/file/dd35a46da61cd84119d2f.jpg",
+        "https://telegra.ph/file/2b5357c6d8e8ab694d5e0.jpg",
+        "https://telegra.ph/file/cd83b1b09a747cc339041.jpg",
+        "https://telegra.ph/file/5a7aa90294dde98995c1e.jpg",
+        "https://telegra.ph/file/7bdd00c878fcf06411363.jpg",
+        "https://telegra.ph/file/ebb248ab07e7bc30603a4.jpg",
+        "https://telegra.ph/file/a0c3e41e8daa2c79e225c.jpg",
+        "https://telegra.ph/file/6434cb19656cbc7353a6f.jpg",
+        "https://telegra.ph/file/c6cb7b4dc11d5095ffd4c.jpg",
+        "https://telegra.ph/file/4404fb0a75aab79525902.jpg",
+        "https://telegra.ph/file/f43c7aac08c5ceb232567.jpg",
+        "https://telegra.ph/file/03ffe736367933c05fc9d.jpg",
+        "https://telegra.ph/file/32501ed6ee2a81781a345.jpg",
+        "https://telegra.ph/file/01aeb7b329f7051505474.jpg",
+        "https://telegra.ph/file/7efa7464a98002295ccb6.jpg",
+        "https://telegra.ph/file/073f343324b5543101901.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

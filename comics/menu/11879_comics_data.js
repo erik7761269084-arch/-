@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11879,
+    "title": "[宮部キウイ] シェアラブる 後編 (コミックホットミルク 2021年3月号)",
+    "sourceUrl": "https://telegra.ph/宮部キウイ-シェアラブる-後編-コミックホットミルク-2021年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/cadcc775b0d71181058d5.jpg",
+        "https://telegra.ph/file/35da9c0554d4118b47282.jpg",
+        "https://telegra.ph/file/b4fc1325e09616ed67f5d.jpg",
+        "https://telegra.ph/file/e39d7e5f44472508e8c4a.jpg",
+        "https://telegra.ph/file/173160bf91a14b5045885.jpg",
+        "https://telegra.ph/file/0ce50c8f3799b84a64e98.jpg",
+        "https://telegra.ph/file/20ad37ce60c8608a96fae.jpg",
+        "https://telegra.ph/file/88093b6d33cd52271e450.jpg",
+        "https://telegra.ph/file/70302cfd9f9a8f8bd6b89.jpg",
+        "https://telegra.ph/file/96159abb8ef6d73be3a31.jpg",
+        "https://telegra.ph/file/d0bafed4a4ebbfb3f7cf1.jpg",
+        "https://telegra.ph/file/71676fc92a3cde13c313c.jpg",
+        "https://telegra.ph/file/280b5bfb71870f667ca11.jpg",
+        "https://telegra.ph/file/dc9345060a538ce0416e3.jpg",
+        "https://telegra.ph/file/af3e2221142fcd95c7e42.jpg",
+        "https://telegra.ph/file/d8f89322317d5870c10f4.jpg",
+        "https://telegra.ph/file/dfc64500f88f3db9eed93.jpg",
+        "https://telegra.ph/file/c921921554d57373f7b62.jpg",
+        "https://telegra.ph/file/0c476f3b28dc9ed4ad419.jpg",
+        "https://telegra.ph/file/475042a0fc48c76274a51.jpg",
+        "https://telegra.ph/file/d4ce3c5764b167c944e08.jpg",
+        "https://telegra.ph/file/27a0f4b5dc2d0deca2b5b.jpg",
+        "https://telegra.ph/file/e595401db840281eb3f73.jpg",
+        "https://telegra.ph/file/321ca17cecbebaac35bd4.jpg",
+        "https://telegra.ph/file/54e8b580ffcf8d6ca356f.jpg",
+        "https://telegra.ph/file/bece939be7789ce4c2ea2.jpg",
+        "https://telegra.ph/file/f62d29f29b5bc1fe83ffd.jpg",
+        "https://telegra.ph/file/14f151d671aff3a807f54.jpg",
+        "https://telegra.ph/file/4caab59eb2809c4264293.jpg",
+        "https://telegra.ph/file/ca5c4e04466c51695cb7f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

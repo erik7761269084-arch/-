@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12057,
+    "title": "[黒川おとぎ] お礼のできる子 (コミックホットミルク 2020年9月号)",
+    "sourceUrl": "https://telegra.ph/黒川おとぎ-お礼のできる子-コミックホットミルク-2020年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/660c060cdf04c4a4ce10f.jpg",
+        "https://telegra.ph/file/ca079fd989bdcf55d3ce1.jpg",
+        "https://telegra.ph/file/1623cf430d37495080916.jpg",
+        "https://telegra.ph/file/0995503ff643838c44577.jpg",
+        "https://telegra.ph/file/44a80287f82d5eaf6cf69.jpg",
+        "https://telegra.ph/file/55b30da4af650f4d93dd8.jpg",
+        "https://telegra.ph/file/a9f10b1f799c996f13c85.jpg",
+        "https://telegra.ph/file/53da36dbedc87fdf9e9f0.jpg",
+        "https://telegra.ph/file/cf4bd3657a1e053a1e595.jpg",
+        "https://telegra.ph/file/c5c91d612e0957ca865e8.jpg",
+        "https://telegra.ph/file/2f4998e211912de937107.jpg",
+        "https://telegra.ph/file/5acbec07dedfd729a2f28.jpg",
+        "https://telegra.ph/file/5a58637363e171c030390.jpg",
+        "https://telegra.ph/file/8d4bc5bb2c98fb2477deb.jpg",
+        "https://telegra.ph/file/84ac186e1f090e23c522d.jpg",
+        "https://telegra.ph/file/18f13ab1f2dc9709e558f.jpg",
+        "https://telegra.ph/file/611262a830d49918fa672.jpg",
+        "https://telegra.ph/file/620b3a12868315a683166.jpg",
+        "https://telegra.ph/file/7bd24a29bd352d5cee6e4.jpg",
+        "https://telegra.ph/file/1188bc878ff7ba7dd9874.jpg",
+        "https://telegra.ph/file/4706d75df2b16cf0ba4c2.jpg",
+        "https://telegra.ph/file/669d4b85476e74344b3ac.jpg",
+        "https://telegra.ph/file/7dc4e0d3667bd9df7624a.jpg",
+        "https://telegra.ph/file/0c99490261446f2bac656.jpg",
+        "https://telegra.ph/file/e7676eff0b97f5c064be9.jpg",
+        "https://telegra.ph/file/db08e8960280073ec9d8e.jpg",
+        "https://telegra.ph/file/b67b2b3ddbb9ffe0be9e2.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

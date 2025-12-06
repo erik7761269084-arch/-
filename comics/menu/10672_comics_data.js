@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10672,
+    "title": "[復八磨直兎] サキュバてぃっく 第一話 (コミックホットミルク 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/復八磨直兎-サキュバてぃっく-第一話-コミックホットミルク-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0ffd50d4c221a3f4d15ef.jpg",
+        "https://telegra.ph/file/d3ea9b7d524462c141b0d.jpg",
+        "https://telegra.ph/file/ec7c3b034d768f460e3ef.jpg",
+        "https://telegra.ph/file/a965d47ae6aa509412759.jpg",
+        "https://telegra.ph/file/6c51714ddf6a34d523460.jpg",
+        "https://telegra.ph/file/31ebf4603710129afb08f.jpg",
+        "https://telegra.ph/file/998900b10833ba31cc13f.jpg",
+        "https://telegra.ph/file/1e5b0f915cf6497bdeffa.jpg",
+        "https://telegra.ph/file/10ed2806d0b1e48b0c7ef.jpg",
+        "https://telegra.ph/file/1e34c5a9a783b94d7d3ab.jpg",
+        "https://telegra.ph/file/f989ce2564a48209e300c.jpg",
+        "https://telegra.ph/file/fc4ff57335b298d113274.jpg",
+        "https://telegra.ph/file/a51e0cad567281503e236.jpg",
+        "https://telegra.ph/file/57388a39b33db879b89bc.jpg",
+        "https://telegra.ph/file/deba91b5a1d9b0f494071.jpg",
+        "https://telegra.ph/file/06e85e6a430b060e440cd.jpg",
+        "https://telegra.ph/file/176f162b9d586c75324e7.jpg",
+        "https://telegra.ph/file/77610e2772d3a8da2978a.jpg",
+        "https://telegra.ph/file/abd810c187a2c25f082d7.jpg",
+        "https://telegra.ph/file/d79db88b9f711433fd7e3.jpg",
+        "https://telegra.ph/file/bd8973d13ee43ab273b37.jpg",
+        "https://telegra.ph/file/e0bcbf7c718777059aaf1.jpg",
+        "https://telegra.ph/file/2c3658520ee795c94d108.jpg",
+        "https://telegra.ph/file/482f594b3e3e440070768.jpg",
+        "https://telegra.ph/file/cad9a57898ee1108283d9.jpg",
+        "https://telegra.ph/file/a7ff65cba1b3fad561605.jpg",
+        "https://telegra.ph/file/e23d03d5628ca4e892877.jpg",
+        "https://telegra.ph/file/c8e3a28104f0ed181de67.jpg",
+        "https://telegra.ph/file/3266a7fe7724cc7479d5a.jpg",
+        "https://telegra.ph/file/b5537fa071a5defe2be37.jpg",
+        "https://telegra.ph/file/94f7a3d654dbbd2934fd2.jpg",
+        "https://telegra.ph/file/3efb6f054a35098ee3765.jpg",
+        "https://telegra.ph/file/0e34b2b4979f6c0b36eb9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13860,
+    "title": "[ナポ] 駄犬の正しい躾けかた (コミック エグゼ 30)",
+    "sourceUrl": "https://telegra.ph/ナポ-駄犬の正しい躾けかた-コミック-エグゼ-30-08-31",
+    "images": [
+        "https://telegra.ph/file/336c1af6c5fd82da00e17.jpg",
+        "https://telegra.ph/file/ef6294117b85d989c5026.jpg",
+        "https://telegra.ph/file/4bec5fd112e9683e4ed29.jpg",
+        "https://telegra.ph/file/35ffbdcfc8e8cf891e51b.jpg",
+        "https://telegra.ph/file/5f65f3aed6740f3cd0666.jpg",
+        "https://telegra.ph/file/3c687ff6c81c5087022a1.jpg",
+        "https://telegra.ph/file/9beded08fbc920b8d4425.jpg",
+        "https://telegra.ph/file/525f0d573ee9f9c2d0186.jpg",
+        "https://telegra.ph/file/e07cb92823af4791ae1d9.jpg",
+        "https://telegra.ph/file/90e57942edc75785fc930.jpg",
+        "https://telegra.ph/file/10767c9d7c4e6b6212d8a.jpg",
+        "https://telegra.ph/file/e84359c44a707ff3ec68d.jpg",
+        "https://telegra.ph/file/a35c74574a5c386b1a7a4.jpg",
+        "https://telegra.ph/file/69618f8c402d03177aa14.jpg",
+        "https://telegra.ph/file/bc335c912b5222d881924.jpg",
+        "https://telegra.ph/file/5f811e69c5fe3d3fb47ce.jpg",
+        "https://telegra.ph/file/f983ee0b6432b69e8f1b1.jpg",
+        "https://telegra.ph/file/e0d53bdae1a93f64e4c2b.jpg",
+        "https://telegra.ph/file/10555509d71ac77f4bec5.jpg",
+        "https://telegra.ph/file/39d4d8ce171c3726a8927.jpg",
+        "https://telegra.ph/file/59b4baaad4ecb28841509.jpg",
+        "https://telegra.ph/file/fa1e8da34462d7818ddc2.jpg",
+        "https://telegra.ph/file/76fb254a4087e734b589a.jpg",
+        "https://telegra.ph/file/3c8c7f6e8e1730546764e.jpg",
+        "https://telegra.ph/file/7562172b35937c6b51e57.jpg",
+        "https://telegra.ph/file/6ac64fb5118c00f90729f.jpg",
+        "https://telegra.ph/file/05dfc85eb9f21f1f370ee.jpg",
+        "https://telegra.ph/file/bc8b39603087e663e54a0.jpg",
+        "https://telegra.ph/file/1c15ada582012a3c9624f.jpg",
+        "https://telegra.ph/file/c84e3bc6729f901f6a60d.jpg",
+        "https://telegra.ph/file/ec2378205c3b9be3824ce.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

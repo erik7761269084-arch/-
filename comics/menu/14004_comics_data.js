@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14004,
+    "title": "(例大祭16) [NERCO (恋河ミノル)] 風見幽香 on the ワイヤートラップ (東方Project)",
+    "sourceUrl": "https://telegra.ph/例大祭16-NERCO-恋河ミノル-風見幽香-on-the-ワイヤートラップ-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/30a758433e3eee92eb720.jpg",
+        "https://telegra.ph/file/a5fa7ad38635ab7b30541.jpg",
+        "https://telegra.ph/file/4c33b40d28342686fefee.jpg",
+        "https://telegra.ph/file/49fbe22568eb73bebee86.jpg",
+        "https://telegra.ph/file/69057b33df96f47e4889e.jpg",
+        "https://telegra.ph/file/3fd0db31cddbb75cdc17a.jpg",
+        "https://telegra.ph/file/8bf40964187852c18e1f9.jpg",
+        "https://telegra.ph/file/205609d46222f0be9796e.jpg",
+        "https://telegra.ph/file/5467a263bb7483a21f5cb.jpg",
+        "https://telegra.ph/file/fac080b86b12eeba8ec21.jpg",
+        "https://telegra.ph/file/a892b3b8b611a0e2e9b8e.jpg",
+        "https://telegra.ph/file/bdbfc5aa31aa8142c6145.jpg",
+        "https://telegra.ph/file/952aed1aa422d77a66291.jpg",
+        "https://telegra.ph/file/deed53c51d835aa62242b.jpg",
+        "https://telegra.ph/file/d283ba2ebb50fd889027c.jpg",
+        "https://telegra.ph/file/9f9dca39ba40c9fa9e65a.jpg",
+        "https://telegra.ph/file/f3d25f72c9f1685341a46.jpg",
+        "https://telegra.ph/file/a5f566caecd876f9a904c.jpg",
+        "https://telegra.ph/file/08f27f84b6a47d3773391.jpg",
+        "https://telegra.ph/file/fe914c42aac829171da9b.jpg",
+        "https://telegra.ph/file/b6710c7aef0755df8254e.jpg",
+        "https://telegra.ph/file/f369b2c268d7546943cf4.jpg",
+        "https://telegra.ph/file/91f1cd6d94e44ffc9fcfc.jpg",
+        "https://telegra.ph/file/a43fdd2235855ce84b37a.jpg",
+        "https://telegra.ph/file/ca87f40b66a57c1f544a6.jpg",
+        "https://telegra.ph/file/fbbdf52c932126a1ec399.jpg",
+        "https://telegra.ph/file/24c5d254919541e41a659.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/8aea9f418e1128f22b629.jpg",
+        "https://telegra.ph/file/9c3bc989ad88799c06251.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

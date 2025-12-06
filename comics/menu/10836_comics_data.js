@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10836,
+    "title": "(C96) [ヘビツナガリ (えすじーけー)] エイダ・ウォンの色仕掛け完成版 (バイオハザード)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/C96-ヘビツナガリ-えすじーけー-エイダウォンの色仕掛け完成版-バイオハザード-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/a03824d30c2f56f053d47.jpg",
+        "https://telegra.ph/file/ded742d0ad6342b704d59.jpg",
+        "https://telegra.ph/file/8c728181d31668662511c.jpg",
+        "https://telegra.ph/file/becf589995096baf6fd35.jpg",
+        "https://telegra.ph/file/fde76344dec4d8d703802.jpg",
+        "https://telegra.ph/file/5ac8dd629eef7f4105dfe.jpg",
+        "https://telegra.ph/file/00a8ad43c76a1c0d920e5.jpg",
+        "https://telegra.ph/file/05fd1ce722ba7e943afd8.jpg",
+        "https://telegra.ph/file/3beecbc7a262009a575d1.jpg",
+        "https://telegra.ph/file/83204f4797923df1e06b8.jpg",
+        "https://telegra.ph/file/2ecec3eabc0848cefba39.jpg",
+        "https://telegra.ph/file/12419bfa36279335247f5.jpg",
+        "https://telegra.ph/file/64fa167f44514f5c517eb.jpg",
+        "https://telegra.ph/file/36b0393663e522a2dbf98.jpg",
+        "https://telegra.ph/file/4235a28cc2832dcb12225.jpg",
+        "https://telegra.ph/file/1a3460b0a82e03ded98c3.jpg",
+        "https://telegra.ph/file/fc21f86212b4681e57323.jpg",
+        "https://telegra.ph/file/a208cadc2618218de3e7e.jpg",
+        "https://telegra.ph/file/55056cdd4e8af9f1a658b.jpg",
+        "https://telegra.ph/file/1a296b42041e4da38639b.jpg",
+        "https://telegra.ph/file/af8ffcc9c02f5e5929264.jpg",
+        "https://telegra.ph/file/ca8aebf20bd3c4796e4c1.jpg",
+        "https://telegra.ph/file/9f9b4cd19c26eba505e26.jpg",
+        "https://telegra.ph/file/8925ec17be1cee436a999.jpg",
+        "https://telegra.ph/file/85dae3fdaa25c49b50f18.jpg",
+        "https://telegra.ph/file/6deae08108a4843b0686b.jpg",
+        "https://telegra.ph/file/2d8317785e871b2ce88b6.jpg",
+        "https://telegra.ph/file/2a4c74d9cc09ccf4dbb3a.jpg",
+        "https://telegra.ph/file/7b8dee9e1853b97e7c111.jpg",
+        "https://telegra.ph/file/15cbdcb3ae10f1e45b06f.jpg",
+        "https://telegra.ph/file/b65d0dd807d6773733416.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15419,
+    "title": "(C95) [Hatishiro (Itou Hachi)] Kinjo no Yasashii Onee-san  [某喵汉化]",
+    "sourceUrl": "https://telegra.ph/C95-Hatishiro-Itou-Hachi-Kinjo-no-Yasashii-Onee-san-某喵汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/bf87c00b3bd6204734bb3.jpg",
+        "https://telegra.ph/file/a06abb5788f4905fafcad.jpg",
+        "https://telegra.ph/file/3f35113bf08b0bf4d4776.jpg",
+        "https://telegra.ph/file/a4a03003a331b62404c2a.jpg",
+        "https://telegra.ph/file/46d0ca05e9ea7c051c026.jpg",
+        "https://telegra.ph/file/47b51d5a57ed8b63bf302.jpg",
+        "https://telegra.ph/file/94a3a33ca64c9d20fdc58.jpg",
+        "https://telegra.ph/file/6a634a8d6350db81a4381.jpg",
+        "https://telegra.ph/file/982c9e2cd63033b684615.jpg",
+        "https://telegra.ph/file/c851ce227c86cbbcce56b.jpg",
+        "https://telegra.ph/file/fabf25ad1ace2fe7f2ca7.jpg",
+        "https://telegra.ph/file/3a1cc751592ced09eb23f.jpg",
+        "https://telegra.ph/file/215c6dc4aae701e465b06.jpg",
+        "https://telegra.ph/file/f973627ddf3490c42b09e.jpg",
+        "https://telegra.ph/file/656b804967506ec0db0ca.jpg",
+        "https://telegra.ph/file/84d65c2538918655709f3.jpg",
+        "https://telegra.ph/file/4f95f666375844364baea.jpg",
+        "https://telegra.ph/file/22971c85daf7b4722e1cd.jpg",
+        "https://telegra.ph/file/7936f85b8276820b41235.jpg",
+        "https://telegra.ph/file/75a79d5b4671a9ff679a1.jpg",
+        "https://telegra.ph/file/e5d1fd75fc79c7b0e94b0.jpg",
+        "https://telegra.ph/file/60c88819acb9d1cb22707.jpg",
+        "https://telegra.ph/file/78d078ae224a04f8d71eb.jpg",
+        "https://telegra.ph/file/e2f0ff81ea9eed747e78e.jpg",
+        "https://telegra.ph/file/43e5168d13b8fedc41ec6.jpg",
+        "https://telegra.ph/file/c7dd7d0ba171da85cd607.jpg",
+        "https://telegra.ph/file/983e9af932b144168859d.jpg",
+        "https://telegra.ph/file/0b8e8d5a7ee063ef1b79b.jpg",
+        "https://telegra.ph/file/204c7aedbae05d27301d1.jpg",
+        "https://telegra.ph/file/5a4d87088aabab9a1971b.jpg",
+        "https://telegra.ph/file/92fb050749a84b5b40325.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10246,
+    "title": "(COMIC1☆17) [サークルフィオレ (えかきびと)] 青春の定義 (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/COMIC117-サークルフィオレ-えかきびと-青春の定義-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/69064bdca0fa08adc6718.jpg",
+        "https://telegra.ph/file/cd42b2a8038a93fd3e045.jpg",
+        "https://telegra.ph/file/957b304f402023d1e2269.jpg",
+        "https://telegra.ph/file/106305bb4b29a8bb7344b.jpg",
+        "https://telegra.ph/file/4da31d499a01a78f08211.jpg",
+        "https://telegra.ph/file/f903fb402f3662902a4cd.jpg",
+        "https://telegra.ph/file/8d3aba9727aa8c08faf3f.jpg",
+        "https://telegra.ph/file/fc9de1ee78527e4dac053.jpg",
+        "https://telegra.ph/file/1897ce40842aa2664066e.jpg",
+        "https://telegra.ph/file/d37aa5ad7a8b450982b96.jpg",
+        "https://telegra.ph/file/570cc0773cd8f016fb903.jpg",
+        "https://telegra.ph/file/ac2d0b6a0f747cd081e09.jpg",
+        "https://telegra.ph/file/d8cee4f06bbb17f8703a6.jpg",
+        "https://telegra.ph/file/1ffea4308e170c90da2cd.jpg",
+        "https://telegra.ph/file/da5789ae57aa0fa84aaad.jpg",
+        "https://telegra.ph/file/2ea364adccf1f7327479b.jpg",
+        "https://telegra.ph/file/903b9fba629429e89c3db.jpg",
+        "https://telegra.ph/file/ff9901126ddd0c77a8636.jpg",
+        "https://telegra.ph/file/db201a3c284e719da827a.jpg",
+        "https://telegra.ph/file/f5663141285f2ebf99d9b.jpg",
+        "https://telegra.ph/file/0df995255a96429318024.jpg",
+        "https://telegra.ph/file/91f56254fa3472b5b7f63.jpg",
+        "https://telegra.ph/file/506866cd54989c6069da7.jpg",
+        "https://telegra.ph/file/6e6a692c9aa899bd390bc.jpg",
+        "https://telegra.ph/file/0617a456032f1b6e90dfc.jpg",
+        "https://telegra.ph/file/a6e00e18a437d2597c740.jpg",
+        "https://telegra.ph/file/2e994c3e168ec3071f951.jpg",
+        "https://telegra.ph/file/0afa9a846ab6c89074ada.jpg",
+        "https://telegra.ph/file/593fc1eb353c5257a562a.jpg",
+        "https://telegra.ph/file/ff7d1321d51d4fb896d87.jpg",
+        "https://telegra.ph/file/c4e397f83cf5397a06bf3.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

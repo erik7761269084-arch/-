@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11863,
+    "title": "[染岡ゆすら] エルフのばぶばぶリフレ (COMIC アンスリウム 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/染岡ゆすら-エルフのばぶばぶリフレ-COMIC-アンスリウム-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/eb55cbf2a8ce0340ff283.jpg",
+        "https://telegra.ph/file/1da826425d9f4f5a39b0b.jpg",
+        "https://telegra.ph/file/5b4a6137bebbc9d888fa4.jpg",
+        "https://telegra.ph/file/abe5eb80d443d020b1008.jpg",
+        "https://telegra.ph/file/e5437cf38ad529c7789f8.jpg",
+        "https://telegra.ph/file/c25e05f3d0ff8392e0faf.jpg",
+        "https://telegra.ph/file/a42f34a65360da16c8e92.jpg",
+        "https://telegra.ph/file/4884661b9c46f953806d7.jpg",
+        "https://telegra.ph/file/c9804124f1214aaf4a6e9.jpg",
+        "https://telegra.ph/file/5dc9c7cc10952c1a19691.jpg",
+        "https://telegra.ph/file/c4ccd5ef23c0028def1b8.jpg",
+        "https://telegra.ph/file/c76c1fb0de07617b27af8.jpg",
+        "https://telegra.ph/file/f9c2d413b762a3b2c53a3.jpg",
+        "https://telegra.ph/file/54bbbc09350c0d2726322.jpg",
+        "https://telegra.ph/file/eab47b638188b3cf51980.jpg",
+        "https://telegra.ph/file/f459a016bea362576590a.jpg",
+        "https://telegra.ph/file/4b578675792d8ccf4918a.jpg",
+        "https://telegra.ph/file/c8794fa1acdeb2ab94b6b.jpg",
+        "https://telegra.ph/file/580cc980280a3f72c45a0.jpg",
+        "https://telegra.ph/file/a0d795dc3c7112fee856f.jpg",
+        "https://telegra.ph/file/8bd29abb1db6e32a38539.jpg",
+        "https://telegra.ph/file/7ff67af55207723fe5727.jpg",
+        "https://telegra.ph/file/d22fc1760bc58a59e1d15.jpg",
+        "https://telegra.ph/file/cf90b8d960c39059effcb.jpg",
+        "https://telegra.ph/file/c2e7c55a47e15d39681e5.jpg",
+        "https://telegra.ph/file/3f062d638c0ca34c805f9.jpg",
+        "https://telegra.ph/file/f8408a08f75346f079a35.jpg",
+        "https://telegra.ph/file/3618e363c195ce44e130b.jpg",
+        "https://telegra.ph/file/89e6490ea84319c287d6d.jpg",
+        "https://telegra.ph/file/b149263466c10b0e67961.jpg",
+        "https://telegra.ph/file/4c0009ff6decf3ca10be3.jpg",
+        "https://telegra.ph/file/55b621315a2188342e140.jpg",
+        "https://telegra.ph/file/313301aaf2916e22710fb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

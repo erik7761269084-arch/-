@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8444,
+    "title": "[だにまる] 後輩彼女辻中ちゃんのおしおき (COMIC アンスリウム 2021年11月号)",
+    "sourceUrl": "https://telegra.ph/だにまる-後輩彼女辻中ちゃんのおしおき-COMIC-アンスリウム-2021年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/10c30f9beff96fd5a449f.jpg",
+        "https://telegra.ph/file/2b7823220d8c049317112.jpg",
+        "https://telegra.ph/file/16727ef780101865037ac.jpg",
+        "https://telegra.ph/file/72584a027bfd9abb07fc6.jpg",
+        "https://telegra.ph/file/ad25cf4f4e4cdab72cb1f.jpg",
+        "https://telegra.ph/file/9379b3dec3b5663b10f1c.jpg",
+        "https://telegra.ph/file/659857d2496d05971eec6.jpg",
+        "https://telegra.ph/file/187ccf9ea391988ade564.jpg",
+        "https://telegra.ph/file/c299268c08a84b1d3f4ab.jpg",
+        "https://telegra.ph/file/b220594c5fd8f9460e9fc.jpg",
+        "https://telegra.ph/file/54ff70b53de1d16a4b8d0.jpg",
+        "https://telegra.ph/file/ba502ca4609a9b5534e91.jpg",
+        "https://telegra.ph/file/c6412a4a9af947e32621c.jpg",
+        "https://telegra.ph/file/f49e53d4d43b78ae35820.jpg",
+        "https://telegra.ph/file/70e439e84fa892d9de231.jpg",
+        "https://telegra.ph/file/adc81c25b42c8e43c00b0.jpg",
+        "https://telegra.ph/file/11ddcad4ce97f704bca83.jpg",
+        "https://telegra.ph/file/ce26da4124b65cf02947c.jpg",
+        "https://telegra.ph/file/7f4f684cf13962f45ac8d.jpg",
+        "https://telegra.ph/file/a6ae6019df9b2765f856f.jpg",
+        "https://telegra.ph/file/7ac89585108fbdb6cea86.jpg",
+        "https://telegra.ph/file/b0eec5cb1376ede0d0d3a.jpg",
+        "https://telegra.ph/file/8f791372fc303a9363852.jpg",
+        "https://telegra.ph/file/aba721a15544827622dcf.jpg",
+        "https://telegra.ph/file/9dda23116684ae78a7741.jpg",
+        "https://telegra.ph/file/bdd7663da55171290db30.jpg",
+        "https://telegra.ph/file/49ac94b4bc15e6523d7d5.jpg",
+        "https://telegra.ph/file/dfe3553de53744ec3d5f9.jpg",
+        "https://telegra.ph/file/779dd393f2eb2b7aac3ba.jpg",
+        "https://telegra.ph/file/1922b09e1f1a49dd5209e.jpg",
+        "https://telegra.ph/file/441b43c8c32fc9b88c86e.jpg",
+        "https://telegra.ph/file/c573bb29b27c3f4cfec9c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

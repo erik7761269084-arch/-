@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9320,
+    "title": "[LVIXXX (LVI)] 黒波さんはド変態です。",
+    "sourceUrl": "https://telegra.ph/LVIXXX-LVI-黒波さんはド変態です-08-31",
+    "images": [
+        "https://telegra.ph/file/32e27f85b876c1b29f907.jpg",
+        "https://telegra.ph/file/bf3eda7129b403937baed.jpg",
+        "https://telegra.ph/file/22b50748647c453e624f4.jpg",
+        "https://telegra.ph/file/f7a07b0e69ae7013add2a.jpg",
+        "https://telegra.ph/file/ad6c943cc405e56f647ea.jpg",
+        "https://telegra.ph/file/256c237077de74671e0ac.jpg",
+        "https://telegra.ph/file/15cb00916f835da067138.jpg",
+        "https://telegra.ph/file/475b5f75614c0e7a88a20.jpg",
+        "https://telegra.ph/file/a439aa9adca64c0057d19.jpg",
+        "https://telegra.ph/file/467ebe6507b30eb949d6f.jpg",
+        "https://telegra.ph/file/4ad46c6ca737c60120ee8.jpg",
+        "https://telegra.ph/file/2c216a25b575940971580.jpg",
+        "https://telegra.ph/file/bfc67c9e05d5a7252e130.jpg",
+        "https://telegra.ph/file/623f2afbd39a16f875491.jpg",
+        "https://telegra.ph/file/6587cbdcf89bbc3dfe8a0.jpg",
+        "https://telegra.ph/file/c441e7265a2e41a9f64f6.jpg",
+        "https://telegra.ph/file/8da81ab6345516fe1be57.jpg",
+        "https://telegra.ph/file/4a5368cf23bfab65bd2cf.jpg",
+        "https://telegra.ph/file/de813261d0287ced2352c.jpg",
+        "https://telegra.ph/file/fd960120099600cbe978d.jpg",
+        "https://telegra.ph/file/d68ae09aab50d563ca2cf.jpg",
+        "https://telegra.ph/file/1e6078dd54630a1fa9802.jpg",
+        "https://telegra.ph/file/eb16ed5497e0798383561.jpg",
+        "https://telegra.ph/file/d87c2d85e4110b79db8b1.jpg",
+        "https://telegra.ph/file/09c6febabd08c74ffd8e9.jpg",
+        "https://telegra.ph/file/4dc4b7a8d9afdde24de28.jpg",
+        "https://telegra.ph/file/6e61cdee32b89584913ac.jpg",
+        "https://telegra.ph/file/eb3003297232a712bce15.jpg",
+        "https://telegra.ph/file/0b740f77710139d2b5384.jpg",
+        "https://telegra.ph/file/619a64554703e36a2a232.jpg",
+        "https://telegra.ph/file/6c1dce00fb097eddcf4cc.jpg",
+        "https://telegra.ph/file/f9af95dac31016ca42bf0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

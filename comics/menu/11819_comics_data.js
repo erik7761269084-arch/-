@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11819,
+    "title": "(COMIC1☆17) [タナバタミルキーウェイ (月)] 主さま、ヌキヌキいたしましょう!  (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/COMIC117-タナバタミルキーウェイ-月-主さまヌキヌキいたしましょう-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/52d01f3c165565201db99.jpg",
+        "https://telegra.ph/file/e74e9952724243e3723c2.jpg",
+        "https://telegra.ph/file/04ae148bb5d664591cdc3.jpg",
+        "https://telegra.ph/file/1d63083fd4a363ff40f16.jpg",
+        "https://telegra.ph/file/c32b5d383af64235dcd4c.jpg",
+        "https://telegra.ph/file/e208d10ec429e9bf83db0.jpg",
+        "https://telegra.ph/file/e4f82e228aba2e5537d98.jpg",
+        "https://telegra.ph/file/eebe9b69003a59866a361.jpg",
+        "https://telegra.ph/file/fef64d5798844dc6b15be.jpg",
+        "https://telegra.ph/file/15dee25c4d53ae5818ea4.jpg",
+        "https://telegra.ph/file/f7ceddd0cdf87537d52ec.jpg",
+        "https://telegra.ph/file/42d0bb1e4830c03a55001.jpg",
+        "https://telegra.ph/file/29867d6e3e5a0937c2888.jpg",
+        "https://telegra.ph/file/73add2cb4bcc2d22ac41d.jpg",
+        "https://telegra.ph/file/6ad6932adfb249a225fee.jpg",
+        "https://telegra.ph/file/2e21b208b31278f953298.jpg",
+        "https://telegra.ph/file/0e9c3fba03811ef64fcdc.jpg",
+        "https://telegra.ph/file/aba6f66f30b249a5c9a6a.jpg",
+        "https://telegra.ph/file/e1d619d46a90cef8cc6de.jpg",
+        "https://telegra.ph/file/187d96d155d3859afd5b6.jpg",
+        "https://telegra.ph/file/bbb17fd6aff6b57d40cd8.jpg",
+        "https://telegra.ph/file/4bb305b14b77b23739d9d.jpg",
+        "https://telegra.ph/file/827ec8470e39f56c92f05.jpg",
+        "https://telegra.ph/file/587e8350357004810d30d.jpg",
+        "https://telegra.ph/file/b6b1a1f5de8a83ef56527.jpg",
+        "https://telegra.ph/file/ae74f2b4d47919f6c76c8.jpg",
+        "https://telegra.ph/file/f444d27b9ad3d0637042c.jpg",
+        "https://telegra.ph/file/a310e30e895e2da205a75.jpg",
+        "https://telegra.ph/file/74e8442aed9cafcdd2c28.jpg",
+        "https://telegra.ph/file/db7a509c242af9f0c2d3e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

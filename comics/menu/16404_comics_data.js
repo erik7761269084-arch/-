@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16404,
+    "title": "(Comic Horizon 16 －いつか一緒に輝いて－)[獅子犬毛茸茸(巧犬勇者)]調換(リコリス・リコイル)-Preview",
+    "sourceUrl": "https://telegra.ph/Comic-Horizon-16-いつか一緒に輝いて獅子犬毛茸茸巧犬勇者調換リコリスリコイル-Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/1_1.webp",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/2_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/3_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/4_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/5_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/6_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/7_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/8_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/9_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/10_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/11_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/12_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/13_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/14_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/15_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/16_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/17_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/18_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/19_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/20_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/21_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/22_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/23_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/24_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/25_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/26_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/27_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/28_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/29_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/30_1.jpg",
+        "https://i2.linghua.xyz/ex/3137126/b99283141b/31_1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

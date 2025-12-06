@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15922,
+    "title": "[偶像百合結婚事務所(摸魚企鵝)]Vivid Date-Preview",
+    "sourceUrl": "https://telegra.ph/偶像百合結婚事務所摸魚企鵝Vivid-Date-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/f7edc82f4ad5870fcee7c.jpg",
+        "https://telegra.ph/file/f6b01be0e88e97a6c3ba4.jpg",
+        "https://telegra.ph/file/0e8550138d6bf173eeca0.jpg",
+        "https://telegra.ph/file/ba2083f27b8c80b68478f.jpg",
+        "https://telegra.ph/file/d5c380ee2be484a2c1afa.jpg",
+        "https://telegra.ph/file/0657803b7290d4fe7956e.jpg",
+        "https://telegra.ph/file/4d766a6e21e1af33e6664.jpg",
+        "https://telegra.ph/file/e13903fcb66aeb8eb95a4.jpg",
+        "https://telegra.ph/file/7fe6f06e340a13ec0484e.jpg",
+        "https://telegra.ph/file/25d80026d2b3f4dffb62b.jpg",
+        "https://telegra.ph/file/94f59f39baab684d0fc5e.jpg",
+        "https://telegra.ph/file/30276a1fd0803e0485899.jpg",
+        "https://telegra.ph/file/8d6c173967463edbebe65.jpg",
+        "https://telegra.ph/file/76c08d9275d3ba4c677bb.jpg",
+        "https://telegra.ph/file/3fdfd10152ac658022eb8.jpg",
+        "https://telegra.ph/file/55b16202245b0a8bd4a2d.jpg",
+        "https://telegra.ph/file/28f71d9349495c1146239.jpg",
+        "https://telegra.ph/file/4c25edce7e0c0f9b41ee8.jpg",
+        "https://telegra.ph/file/89fa41348f13edc2965e7.jpg",
+        "https://telegra.ph/file/d2feab59fdd24c18fd028.jpg",
+        "https://telegra.ph/file/3028541780bb5b8d9f61c.jpg",
+        "https://telegra.ph/file/b625f26413296995ebd12.jpg",
+        "https://telegra.ph/file/84e3f7352caab6bf28a63.jpg",
+        "https://telegra.ph/file/3f6dab03acc41919f6ea1.jpg",
+        "https://telegra.ph/file/5f88d76da1de1ef1be87c.jpg",
+        "https://telegra.ph/file/aeb61cb9ca6712f1c3e67.jpg",
+        "https://telegra.ph/file/ed8bf614ed8eda0257888.jpg",
+        "https://telegra.ph/file/c92cac7e61d10dee31d6f.jpg",
+        "https://telegra.ph/file/e2e33cb77da8030ef5300.jpg",
+        "https://telegra.ph/file/3546f451eacbf1bcac8ca.jpg",
+        "https://telegra.ph/file/e71b6f7106f573fd1ca48.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

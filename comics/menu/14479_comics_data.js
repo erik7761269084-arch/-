@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14479,
+    "title": "[ターコイズ (アーセナル)] 叔父さん、JKの姪に課金することになる",
+    "sourceUrl": "https://telegra.ph/ターコイズ-アーセナル-叔父さんJKの姪に課金することになる-08-31",
+    "images": [
+        "https://telegra.ph/file/81de8a4688d54f2c52b0e.jpg",
+        "https://telegra.ph/file/9e0749ea902ef3d0f0a81.jpg",
+        "https://telegra.ph/file/5ddf04786fcf3c6274e78.jpg",
+        "https://telegra.ph/file/ed08a531d6ad8e16a0034.jpg",
+        "https://telegra.ph/file/4e21a3f39d9d52e334c0f.jpg",
+        "https://telegra.ph/file/689f566aa3718087510fc.jpg",
+        "https://telegra.ph/file/c7feb8dded0fc5c32f523.jpg",
+        "https://telegra.ph/file/abbc4626868e8bc0fecef.jpg",
+        "https://telegra.ph/file/b96c8f26a77c1b279549d.jpg",
+        "https://telegra.ph/file/580f192b1e2971d5a63a0.jpg",
+        "https://telegra.ph/file/75ca3c24e4f7d4b4ac6e0.jpg",
+        "https://telegra.ph/file/ef3526bf68d01cfa272b5.jpg",
+        "https://telegra.ph/file/017837df23c0c5e793202.jpg",
+        "https://telegra.ph/file/d27c08035884fe3412e13.jpg",
+        "https://telegra.ph/file/22ce76cf0a1a839ec9f55.jpg",
+        "https://telegra.ph/file/c8862f50681de5e4d7c5c.jpg",
+        "https://telegra.ph/file/558023f4431e898d2d5bc.jpg",
+        "https://telegra.ph/file/a1060c7c45101d6734236.jpg",
+        "https://telegra.ph/file/9b2205113d114ed7b6bb4.jpg",
+        "https://telegra.ph/file/b3dfa2b4cd60b22915aa4.jpg",
+        "https://telegra.ph/file/5651f7faaab0fcd269d4f.jpg",
+        "https://telegra.ph/file/7ab2332ef4f38e74ab7d1.jpg",
+        "https://telegra.ph/file/03425f52076ae8059c455.jpg",
+        "https://telegra.ph/file/4a77afc020967809528f4.jpg",
+        "https://telegra.ph/file/203f345e0e75201156a32.jpg",
+        "https://telegra.ph/file/931f725c1b34d432c72d7.jpg",
+        "https://telegra.ph/file/3991c710bd331df85f9f8.jpg",
+        "https://telegra.ph/file/2eeaa92e7b3bf6080adfc.jpg",
+        "https://telegra.ph/file/b63c3599205daf4b6d1ae.jpg",
+        "https://telegra.ph/file/2be9969741bf9569ffdd2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

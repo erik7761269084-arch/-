@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12283,
+    "title": "[おーえす (ばーるん)] 母の居ぬ間に義姉ちゃんと",
+    "sourceUrl": "https://telegra.ph/おーえす-ばーるん-母の居ぬ間に義姉ちゃんと-08-31-2",
+    "images": [
+        "https://telegra.ph/file/a0a6f1f05c88627a2ce1e.jpg",
+        "https://telegra.ph/file/68a8da9b7332d39c5ee68.jpg",
+        "https://telegra.ph/file/4d9a1bfba0ea46915a84b.png",
+        "https://telegra.ph/file/01b05debb8dd80b25208d.jpg",
+        "https://telegra.ph/file/65fe9023e64b56fa4cbbd.jpg",
+        "https://telegra.ph/file/bd678634ccdd88342b15c.jpg",
+        "https://telegra.ph/file/c118a0c4e670f16f7c7af.jpg",
+        "https://telegra.ph/file/b533632232a7021dd5bfb.jpg",
+        "https://telegra.ph/file/dd36501569feaab92a0cd.jpg",
+        "https://telegra.ph/file/64970a77b984b4a8c35cc.jpg",
+        "https://telegra.ph/file/b746c671afd952ed954e7.jpg",
+        "https://telegra.ph/file/aa77193fa4be449b6a5df.jpg",
+        "https://telegra.ph/file/fa43fd6492cebc3660feb.jpg",
+        "https://telegra.ph/file/382b75973e268c3657eb1.jpg",
+        "https://telegra.ph/file/efa80d45d0bbeef797c2f.jpg",
+        "https://telegra.ph/file/2587a6d55e7b97c233b88.jpg",
+        "https://telegra.ph/file/875270925a6275ab66e9c.jpg",
+        "https://telegra.ph/file/cd5bab1dfbbe87b8ea5f6.jpg",
+        "https://telegra.ph/file/f0a8b11380c8ccda962f5.jpg",
+        "https://telegra.ph/file/14af872a9894358b61427.jpg",
+        "https://telegra.ph/file/93fb4e6f5e10a89c03f42.jpg",
+        "https://telegra.ph/file/d40e7ec8bb97564467ac5.jpg",
+        "https://telegra.ph/file/a19f4554c0cb540204edd.jpg",
+        "https://telegra.ph/file/06398a810c751fa7efe11.png",
+        "https://telegra.ph/file/a693109897ef045e3ce07.png",
+        "https://telegra.ph/file/223c13aa33ccd372de5a2.png",
+        "https://telegra.ph/file/8f14c06b405142ae8af65.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

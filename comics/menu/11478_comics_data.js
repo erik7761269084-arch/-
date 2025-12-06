@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11478,
+    "title": "[あかあお (HiRoB816)] 久しぶりに会った妹の娘が巨乳でおすまし屋さんになってました。",
+    "sourceUrl": "https://telegra.ph/あかあお-HiRoB816-久しぶりに会った妹の娘が巨乳でおすまし屋さんになってました-08-31",
+    "images": [
+        "https://telegra.ph/file/fee7c39a4c655a141982e.jpg",
+        "https://telegra.ph/file/caf0a3b22f7f3a89d71a6.jpg",
+        "https://telegra.ph/file/0f2d9a2c9e5ed2c7e91b2.jpg",
+        "https://telegra.ph/file/de06b8acf2f78af51c26f.jpg",
+        "https://telegra.ph/file/530ca036593591a692684.jpg",
+        "https://telegra.ph/file/2c8d8ee6b4187e7d0c94a.jpg",
+        "https://telegra.ph/file/4e56979cdd411404ef58f.jpg",
+        "https://telegra.ph/file/a6aa7a30eaf2d50f9f62a.jpg",
+        "https://telegra.ph/file/5df77b8a1a16ec7533731.jpg",
+        "https://telegra.ph/file/e631dd407d93d657367f7.jpg",
+        "https://telegra.ph/file/6f39a36ea85d70aca7bda.jpg",
+        "https://telegra.ph/file/48b592e895a6b7f76847a.jpg",
+        "https://telegra.ph/file/11d5a7a612f77f121fef7.jpg",
+        "https://telegra.ph/file/68522cdc8440cade6a881.jpg",
+        "https://telegra.ph/file/80268ba7e1726adfb8a7c.jpg",
+        "https://telegra.ph/file/d34d459ab57b7cad27a69.jpg",
+        "https://telegra.ph/file/cd77a3017a68220b2c2ec.jpg",
+        "https://telegra.ph/file/5c19feb9b051944263c17.jpg",
+        "https://telegra.ph/file/26b905daf262839b99202.jpg",
+        "https://telegra.ph/file/2e8915fc8eb938a219158.jpg",
+        "https://telegra.ph/file/8c383a9575ebb9a9bfcd4.jpg",
+        "https://telegra.ph/file/4e450d84aa98dc6031884.jpg",
+        "https://telegra.ph/file/43045d5d39ec6f941aab9.jpg",
+        "https://telegra.ph/file/565085cc293df3aeff5a0.jpg",
+        "https://telegra.ph/file/9cd5bdb103046ed34a6bd.jpg",
+        "https://telegra.ph/file/224b19114fc6816e76d63.jpg",
+        "https://telegra.ph/file/f7f82887e0492c7c72095.jpg",
+        "https://telegra.ph/file/0ffeb11744057c7457863.jpg",
+        "https://telegra.ph/file/1c822537438d00129d313.jpg",
+        "https://telegra.ph/file/8614f3925db130d462834.jpg",
+        "https://telegra.ph/file/29b110dc5694e8471a4a7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

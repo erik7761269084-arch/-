@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10614,
+    "title": "[中村カンコ] 筆子さんの肖像 (COMIC LO 2012年5月号)",
+    "sourceUrl": "https://telegra.ph/中村カンコ-筆子さんの肖像-COMIC-LO-2012年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/aaa6901c5b1055707370f.jpg",
+        "https://telegra.ph/file/897aafaa8e04e67fb42b1.jpg",
+        "https://telegra.ph/file/5813b7f3e5c414cc8fa35.jpg",
+        "https://telegra.ph/file/a3061fad49b3a0fba6500.jpg",
+        "https://telegra.ph/file/1c6eeff3898f67f85fbd5.jpg",
+        "https://telegra.ph/file/c743bfbd92836dbed8d6e.jpg",
+        "https://telegra.ph/file/50423be450e4b29edb21b.jpg",
+        "https://telegra.ph/file/1ac286aa58fcd9ef66f23.jpg",
+        "https://telegra.ph/file/8e422064fc27ad46f2d8e.jpg",
+        "https://telegra.ph/file/cfbc8e246015046bee57b.jpg",
+        "https://telegra.ph/file/c43121db866bb9156eff1.jpg",
+        "https://telegra.ph/file/91f7175d032e7663a6e72.jpg",
+        "https://telegra.ph/file/77b8bf7f637dd31f75d19.jpg",
+        "https://telegra.ph/file/4e31364021f4c3a90e268.jpg",
+        "https://telegra.ph/file/bd836685892fcdfc48ed6.jpg",
+        "https://telegra.ph/file/f87b3c90ee29c9db2862c.jpg",
+        "https://telegra.ph/file/ceaaa41fc786783d5b878.jpg",
+        "https://telegra.ph/file/81aa53203e8c556dc4d13.jpg",
+        "https://telegra.ph/file/22b08601a5f1ac5e44a9c.jpg",
+        "https://telegra.ph/file/185d33a92c137b1c985c0.jpg",
+        "https://telegra.ph/file/be12de59ca4827eb3343a.jpg",
+        "https://telegra.ph/file/65f901b353897a0fcdd3b.jpg",
+        "https://telegra.ph/file/0e9bfeac9b1249c238827.jpg",
+        "https://telegra.ph/file/c1af010cbe9b0bd6394a1.jpg",
+        "https://telegra.ph/file/5627ec3b725889afd483d.jpg",
+        "https://telegra.ph/file/154c2de31fd55ad142a64.jpg",
+        "https://telegra.ph/file/ad1d8c635b7dd620f0c80.jpg",
+        "https://telegra.ph/file/42294ad7be7662e1bd977.jpg",
+        "https://telegra.ph/file/0378812dcbf601e18e596.jpg",
+        "https://telegra.ph/file/7a3144f2f57dfafea12e1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

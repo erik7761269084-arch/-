@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14216,
+    "title": "[サークルフィオレ (えかきびと)] 青春独占日 (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/サークルフィオレ-えかきびと-青春独占日-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/cc3f5e6215b7ad3089abd.jpg",
+        "https://telegra.ph/file/3bae16f7a147c196f58e5.jpg",
+        "https://telegra.ph/file/a6fee7c6cd3dccfd6c14d.jpg",
+        "https://telegra.ph/file/2e03320b7994680ca8788.jpg",
+        "https://telegra.ph/file/d5b0782b79dfc55955983.jpg",
+        "https://telegra.ph/file/d337baa6968ef27e30a57.jpg",
+        "https://telegra.ph/file/6fb8a57c15caf84a4a3f8.jpg",
+        "https://telegra.ph/file/ac3eefd6fd78bafbf7443.jpg",
+        "https://telegra.ph/file/90c199b58f308a46a2cf9.jpg",
+        "https://telegra.ph/file/d2ba82a8cb5d337006fc2.jpg",
+        "https://telegra.ph/file/0c6f87690f90c6b06f5b0.jpg",
+        "https://telegra.ph/file/c65304c6834e3cb77f91b.jpg",
+        "https://telegra.ph/file/c3e14e2f7eabf2f7481a4.jpg",
+        "https://telegra.ph/file/cd689a01d8f955920e396.jpg",
+        "https://telegra.ph/file/e7dc56a11ece4e5f20010.jpg",
+        "https://telegra.ph/file/0d9274823537d085d45a8.jpg",
+        "https://telegra.ph/file/8613780b07052ee14988c.jpg",
+        "https://telegra.ph/file/146d56c1dd312e2c6de99.jpg",
+        "https://telegra.ph/file/f190542b51ea89c6a18f1.jpg",
+        "https://telegra.ph/file/dbd143e2b8bfa93b110cd.jpg",
+        "https://telegra.ph/file/65f37ad20b7fcc6a5e5e5.jpg",
+        "https://telegra.ph/file/409d5156e5de0d9e4522a.jpg",
+        "https://telegra.ph/file/1403027630cf1c445fd2f.jpg",
+        "https://telegra.ph/file/2d9fea876ff097c660121.jpg",
+        "https://telegra.ph/file/96a16537fa371b9cd8efa.jpg",
+        "https://telegra.ph/file/ac41d5562c267112a560b.jpg",
+        "https://telegra.ph/file/4ad13f50ba4a3c8b056e7.jpg",
+        "https://telegra.ph/file/e21c06876e208a7d7731a.jpg",
+        "https://telegra.ph/file/40615e3ed5c5d1fae7f97.jpg",
+        "https://telegra.ph/file/0d4d58979cff536391c59.jpg",
+        "https://telegra.ph/file/878dae65f5dc5d11c6a0e.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12124,
+    "title": "[安藤裕行] 雌豚チ♂ポ奴隷 ～保科蓮子&文葉～ (COMIC クリベロン DUMA 2021年1月号 Vol.24)",
+    "sourceUrl": "https://telegra.ph/安藤裕行-雌豚チポ奴隷-保科蓮子文葉-COMIC-クリベロン-DUMA-2021年1月号-Vol24-08-31",
+    "images": [
+        "https://telegra.ph/file/9934a9a79d32d55701111.jpg",
+        "https://telegra.ph/file/ed5f977f3c84f260a0950.jpg",
+        "https://telegra.ph/file/fd983aab23439714b2bd6.jpg",
+        "https://telegra.ph/file/f96bb01525c2d345ffcc5.jpg",
+        "https://telegra.ph/file/dacca0e1206ab325ff7e3.jpg",
+        "https://telegra.ph/file/389eb35e027e075b4cab9.jpg",
+        "https://telegra.ph/file/62b0e06a82dcf7e9c057e.jpg",
+        "https://telegra.ph/file/7777c15947deafb37d9ce.jpg",
+        "https://telegra.ph/file/4744ada88dfa68db47f62.jpg",
+        "https://telegra.ph/file/d976d0fe3a3debb844cf3.jpg",
+        "https://telegra.ph/file/924cc7946bd31a5d974ff.jpg",
+        "https://telegra.ph/file/c505f9ca1a8a5caad13a3.jpg",
+        "https://telegra.ph/file/73382a35696b92114a42b.jpg",
+        "https://telegra.ph/file/fd83716f736c686944e14.jpg",
+        "https://telegra.ph/file/953bbb8536e6cb7f2756c.jpg",
+        "https://telegra.ph/file/0c34232e166e94bc70e4d.jpg",
+        "https://telegra.ph/file/f7f12c8b741e2e5d10fd6.jpg",
+        "https://telegra.ph/file/7d3431f22ee4a0359d0a1.jpg",
+        "https://telegra.ph/file/75e938b33f41223fd543d.jpg",
+        "https://telegra.ph/file/3a28756f0069eea07be9c.jpg",
+        "https://telegra.ph/file/32dfec515a4d09bccc6ee.jpg",
+        "https://telegra.ph/file/3d168219469bdcad8f424.jpg",
+        "https://telegra.ph/file/0919916ebc74f887b0dd5.jpg",
+        "https://telegra.ph/file/ffef6545415afe61fb89c.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

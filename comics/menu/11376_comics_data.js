@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11376,
+    "title": "[喘息全快。 (しのり)] 大鳳に搾り尽くされる本。 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/喘息全快-しのり-大鳳に搾り尽くされる本-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/4f4ddeef7bc13bf82fe23.jpg",
+        "https://telegra.ph/file/d925fa9efc6574a01fd95.jpg",
+        "https://telegra.ph/file/a7cc74815454148c76d4c.jpg",
+        "https://telegra.ph/file/db46811bf8ea3390976ed.jpg",
+        "https://telegra.ph/file/eadebaf5a7ae01a15d5ce.jpg",
+        "https://telegra.ph/file/e317704d21e3858efc96e.jpg",
+        "https://telegra.ph/file/89444ef40f84d4772e3fc.jpg",
+        "https://telegra.ph/file/cb6393ab5edf10aa5de97.jpg",
+        "https://telegra.ph/file/0fe06341448981ce04173.jpg",
+        "https://telegra.ph/file/482494eac29f287360c92.jpg",
+        "https://telegra.ph/file/20e7b55ef766522d352ef.jpg",
+        "https://telegra.ph/file/c0f4e02ff26b232047a5c.jpg",
+        "https://telegra.ph/file/03fb965fcbdaad7a462b7.jpg",
+        "https://telegra.ph/file/0f7d6e0c8907d44bea534.jpg",
+        "https://telegra.ph/file/ea22c5f860a44e796e4d8.jpg",
+        "https://telegra.ph/file/bcb7caa5d74a3d09d08c1.jpg",
+        "https://telegra.ph/file/be6a23dc760c3a6d89310.jpg",
+        "https://telegra.ph/file/f85859d275551ba7795f9.jpg",
+        "https://telegra.ph/file/ec8eb2e390f6bf899f997.jpg",
+        "https://telegra.ph/file/02fd87ea962f448f03209.jpg",
+        "https://telegra.ph/file/69f2b609038b828b6a005.jpg",
+        "https://telegra.ph/file/84019607b5f1ec0ae959f.jpg",
+        "https://telegra.ph/file/12d8bef6ef5c56fd317b3.jpg",
+        "https://telegra.ph/file/f68eb794acf39c300b0e9.jpg",
+        "https://telegra.ph/file/5f5cb353550c4935135c7.jpg",
+        "https://telegra.ph/file/73492ff078c30cf839436.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/1a6757ebf9d62bc7f1113.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

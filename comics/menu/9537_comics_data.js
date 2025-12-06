@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9537,
+    "title": "(COMIC1☆16) [どらやきや (井上たくや)] ヒカリちゃんのえっち本 (ゼノブレイド2)",
+    "sourceUrl": "https://telegra.ph/COMIC116-どらやきや-井上たくや-ヒカリちゃんのえっち本-ゼノブレイド2-08-31",
+    "images": [
+        "https://telegra.ph/file/ee6c863d9e3f61919d772.jpg",
+        "https://telegra.ph/file/a9380d647a5d2d0f0ba7a.jpg",
+        "https://telegra.ph/file/57db6e0b5bc601a8fba7c.jpg",
+        "https://telegra.ph/file/0147236c156c88ce23de0.jpg",
+        "https://telegra.ph/file/dd1aad2ad6cdf86107c3f.jpg",
+        "https://telegra.ph/file/236836711cdc9399246a3.jpg",
+        "https://telegra.ph/file/135af747c6201f136c81d.jpg",
+        "https://telegra.ph/file/fa599a2e9afd4ac7211f2.jpg",
+        "https://telegra.ph/file/d6f33a7185b4a8c0f13b4.jpg",
+        "https://telegra.ph/file/c7a5dea594f76728dc68f.jpg",
+        "https://telegra.ph/file/f9056816a2289e0fd1ad5.jpg",
+        "https://telegra.ph/file/0aca242a85cd0f6bd8ac9.jpg",
+        "https://telegra.ph/file/761881e66c436b003466b.jpg",
+        "https://telegra.ph/file/59472dafbd38823d677bf.jpg",
+        "https://telegra.ph/file/f91048527e6b5152ce894.jpg",
+        "https://telegra.ph/file/dc070ad8603a059b22abb.jpg",
+        "https://telegra.ph/file/3ba4a0952f339a3beba24.jpg",
+        "https://telegra.ph/file/aea9d3f5549205bc15374.jpg",
+        "https://telegra.ph/file/3ec7a982f2e6b23462344.jpg",
+        "https://telegra.ph/file/45bb9abdabf0ce307609e.jpg",
+        "https://telegra.ph/file/7e79878e4da8a9ef42f80.jpg",
+        "https://telegra.ph/file/299f89db3dbebeb4d4844.jpg",
+        "https://telegra.ph/file/5366773100eadfb9afe0b.jpg",
+        "https://telegra.ph/file/abdd92e2990d502f7fd6c.jpg",
+        "https://telegra.ph/file/01fc325f9e5f7d8034b6e.jpg",
+        "https://telegra.ph/file/c1ad5a4bd2b91c56ad16a.jpg",
+        "https://telegra.ph/file/03961d08ada3364ff16f3.jpg",
+        "https://telegra.ph/file/06c6338b3a5a3266e9f4b.jpg",
+        "https://telegra.ph/file/8e50d549b15a58803daa6.jpg",
+        "https://telegra.ph/file/da2b8f7009e9de0bb2107.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

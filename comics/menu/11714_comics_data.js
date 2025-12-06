@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11714,
+    "title": "[C.R's NEST (しーあーる)] こちら大鳳03 -狼牙mode- (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/CRs-NEST-しーあーる-こちら大鳳03--狼牙mode--アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/beba34b6115377b1a4440.jpg",
+        "https://telegra.ph/file/a2c997b099f9535ef3500.jpg",
+        "https://telegra.ph/file/f090f162a0a93153a0e9d.jpg",
+        "https://telegra.ph/file/49a013c86616872d3b323.jpg",
+        "https://telegra.ph/file/397550b43b2c1de2c4def.jpg",
+        "https://telegra.ph/file/dceef9e776a00198467c3.jpg",
+        "https://telegra.ph/file/5d88b23d0b65686604ef4.jpg",
+        "https://telegra.ph/file/24917ed6c49b2752cf7af.jpg",
+        "https://telegra.ph/file/d1c6894749f7964450aba.jpg",
+        "https://telegra.ph/file/50c71cca0a7f98526f51a.jpg",
+        "https://telegra.ph/file/e58c4509064fbbffa3307.jpg",
+        "https://telegra.ph/file/87ae553dd5dc38dae1899.jpg",
+        "https://telegra.ph/file/d96ae3f9cca51d37abbc6.jpg",
+        "https://telegra.ph/file/8ec0fd07733efac545ac0.jpg",
+        "https://telegra.ph/file/bd1402f35c70945e80d25.jpg",
+        "https://telegra.ph/file/eaf4437030867f14de63b.jpg",
+        "https://telegra.ph/file/ba948754c835104ff3342.jpg",
+        "https://telegra.ph/file/6474856e08e2428b73bbd.jpg",
+        "https://telegra.ph/file/4aeddf82cdee972b99110.jpg",
+        "https://telegra.ph/file/d0b2e8dc01d129053238b.jpg",
+        "https://telegra.ph/file/d2c3c76a9ec556c4091f9.jpg",
+        "https://telegra.ph/file/6bbba5509155c9d31b739.jpg",
+        "https://telegra.ph/file/3061e574cd21000daa83c.jpg",
+        "https://telegra.ph/file/f3aa3960061d61890c227.jpg",
+        "https://telegra.ph/file/b4ebc475787b0b19f86e1.jpg",
+        "https://telegra.ph/file/d5ad52874d5a551bac4c6.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

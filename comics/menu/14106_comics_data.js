@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 14106,
+    "title": "[ESSENTIA、Yan-Yam (藤真拓哉、Yan-Yam)] 御神体はてばなせないっ (無職転生 ～異世界行ったら本気だす～)",
+    "sourceUrl": "https://telegra.ph/ESSENTIAYan-Yam-藤真拓哉Yan-Yam-御神体はてばなせないっ-無職転生-異世界行ったら本気だす-08-31-2",
+    "images": [
+        "https://telegra.ph/file/a509a7310aab53f805617.jpg",
+        "https://telegra.ph/file/e1c273e7ecaec70ee9c90.jpg",
+        "https://telegra.ph/file/ed8e8d5e6fc4b98bf8e84.jpg",
+        "https://telegra.ph/file/824798a6bfa7eef5c3cb6.jpg",
+        "https://telegra.ph/file/a7c9db4e9d35bd3ed2043.jpg",
+        "https://telegra.ph/file/db1cc305d528f07f15f90.jpg",
+        "https://telegra.ph/file/a71bb6dc4e56438a30d04.jpg",
+        "https://telegra.ph/file/77cec4c19f0bb28c786ee.jpg",
+        "https://telegra.ph/file/a88fe431f27e51aa34ffc.jpg",
+        "https://telegra.ph/file/26e208c5663a276963eef.jpg",
+        "https://telegra.ph/file/1fe546906e6cf26665e63.jpg",
+        "https://telegra.ph/file/9b0a47b95ab3b27d4d2c8.jpg",
+        "https://telegra.ph/file/c9200c470e90bd39aaa95.jpg",
+        "https://telegra.ph/file/a5363237598f6ea76e858.jpg",
+        "https://telegra.ph/file/452b1d1bc2c8abeec3dcb.jpg",
+        "https://telegra.ph/file/2647dd6d629fa8a9ffeff.jpg",
+        "https://telegra.ph/file/6de575b012323969fa1c7.jpg",
+        "https://telegra.ph/file/1f5c120d59efb5d334248.jpg",
+        "https://telegra.ph/file/770efe74a5fc4b85aab0e.jpg",
+        "https://telegra.ph/file/77350574cfc9a88329998.jpg",
+        "https://telegra.ph/file/956f7d46a2b14f3c2b25b.jpg",
+        "https://telegra.ph/file/2d7b065e846dfbb40c2b0.jpg",
+        "https://telegra.ph/file/875598ebc967724a54acb.jpg",
+        "https://telegra.ph/file/1547a88dbd8a1ed2b1273.jpg",
+        "https://telegra.ph/file/b5a6473c27bd7592f6cae.jpg",
+        "https://telegra.ph/file/1913eed542a94b5d8b634.jpg",
+        "https://telegra.ph/file/80e42ecf92208c1f6233d.jpg",
+        "https://telegra.ph/file/e55acc373f4410843511d.jpg",
+        "https://telegra.ph/file/2ec9ec6e9778a1736e6e5.jpg",
+        "https://telegra.ph/file/4d9610f4efbd99225a717.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/8d415893eacd2ece1b080.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

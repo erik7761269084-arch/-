@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10911,
+    "title": "[きれかわ] 現実は裏垢よりえっちなり (COMIC 真激 2021年1月号)",
+    "sourceUrl": "https://telegra.ph/きれかわ-現実は裏垢よりえっちなり-COMIC-真激-2021年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7285bfc4345fd1a6e8975.jpg",
+        "https://telegra.ph/file/4408a2ac22e1e815f4f9f.jpg",
+        "https://telegra.ph/file/3b771adda7fd235c3f4fd.jpg",
+        "https://telegra.ph/file/bc28752fd656f7d2f7b3b.jpg",
+        "https://telegra.ph/file/674afa532cff6f0b0792d.jpg",
+        "https://telegra.ph/file/ff20a9fb350ec16bcb568.jpg",
+        "https://telegra.ph/file/bccb12582fd39013d69d3.jpg",
+        "https://telegra.ph/file/4919e6f38ddb56e3ed3c3.jpg",
+        "https://telegra.ph/file/3c7649b15332ccf200f3b.jpg",
+        "https://telegra.ph/file/df803694bf370f5e20206.jpg",
+        "https://telegra.ph/file/cb3a8f4176bf833fd7bb5.jpg",
+        "https://telegra.ph/file/8db857c59b6793edda48b.jpg",
+        "https://telegra.ph/file/dc947d199d3558ee8289f.jpg",
+        "https://telegra.ph/file/8e4305c0a51940110d4d8.jpg",
+        "https://telegra.ph/file/f0975d7fd53b531f6e2fa.jpg",
+        "https://telegra.ph/file/fab2fdeb5f79054e5336a.jpg",
+        "https://telegra.ph/file/fdd5bee90377196c48c94.jpg",
+        "https://telegra.ph/file/c878afed3e65e7946a00c.jpg",
+        "https://telegra.ph/file/0234b92cb0c5419dd6953.jpg",
+        "https://telegra.ph/file/b5f5dd2ea74625170f11c.jpg",
+        "https://telegra.ph/file/b136941332a825b5b0fed.jpg",
+        "https://telegra.ph/file/f2a078c0a3d03f93923ee.jpg",
+        "https://telegra.ph/file/76160858453a5769a30c6.jpg",
+        "https://telegra.ph/file/ebfb6f8057d67ef169e04.jpg",
+        "https://telegra.ph/file/3470d8c369e65b1123032.jpg",
+        "https://telegra.ph/file/4aa5930e8209e38d71d63.jpg",
+        "https://telegra.ph/file/98e016ea3da6d9507adcc.jpg",
+        "https://telegra.ph/file/e3ec539adf8ab2e629b3e.jpg",
+        "https://telegra.ph/file/090c483948d9b7f8fae98.jpg",
+        "https://telegra.ph/file/15c70f4c78173085b8537.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

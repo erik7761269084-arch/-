@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12391,
+    "title": "[macrown (秋月まく)] 閉所密着トラップ中に遠隔触手に弄られて箱内が完全にえっちな空気になっちゃいました (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/macrown-秋月まく-閉所密着トラップ中に遠隔触手に弄られて箱内が完全にえっちな空気になっちゃいました-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/8b2ee95dcd45a15657d01.jpg",
+        "https://telegra.ph/file/43ac6b46f7375c6517364.jpg",
+        "https://telegra.ph/file/cc8d16bb37761d94aff66.jpg",
+        "https://telegra.ph/file/ee05718aea6da33057ebd.jpg",
+        "https://telegra.ph/file/1153e1ec3a7cefbbc3c85.jpg",
+        "https://telegra.ph/file/c0ff7fd914c4341ef79a2.jpg",
+        "https://telegra.ph/file/64af693233fd1e897a956.jpg",
+        "https://telegra.ph/file/f7350aeb3486f493a2c8c.jpg",
+        "https://telegra.ph/file/a98cfc8a8ddc0fed25291.jpg",
+        "https://telegra.ph/file/1a10839d5e97848d87312.jpg",
+        "https://telegra.ph/file/6489e6163de8c6aad8e40.jpg",
+        "https://telegra.ph/file/620ea11f6bd1fa6929ca4.jpg",
+        "https://telegra.ph/file/16b19ce9ddcb2507fd077.jpg",
+        "https://telegra.ph/file/815eb38bf7c383574f6cd.jpg",
+        "https://telegra.ph/file/ea4a96d19a06ee763d42b.jpg",
+        "https://telegra.ph/file/5120ccedecd922050f506.jpg",
+        "https://telegra.ph/file/95b02d480680247f299fb.jpg",
+        "https://telegra.ph/file/141cefcf3d24f8224c5d1.jpg",
+        "https://telegra.ph/file/e0796b3bf1d483611338c.jpg",
+        "https://telegra.ph/file/5571e2d7edc24408827df.jpg",
+        "https://telegra.ph/file/b99edc05b5dbb99eb9d26.jpg",
+        "https://telegra.ph/file/47ac3288d29eae73b86f9.jpg",
+        "https://telegra.ph/file/6b6760e9827d23dad7aa6.jpg",
+        "https://telegra.ph/file/807ea995f2b1d7ee7f782.jpg",
+        "https://telegra.ph/file/48454585ce396cf3373f3.jpg",
+        "https://telegra.ph/file/fc9219e66579d7ef0d080.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

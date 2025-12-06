@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12602,
+    "title": "(C96) [寒天示現流 (寒天)] MILK CHRIS (戦姫絶唱シンフォギア)",
+    "sourceUrl": "https://telegra.ph/C96-寒天示現流-寒天-MILK-CHRIS-戦姫絶唱シンフォギア-08-31",
+    "images": [
+        "https://telegra.ph/file/facc5afcbe053d732d75d.jpg",
+        "https://telegra.ph/file/80ed7a7451b4208f4ac7d.jpg",
+        "https://telegra.ph/file/eb5da1144f4227d424b5e.jpg",
+        "https://telegra.ph/file/dad66e7b778f267ccc5bd.jpg",
+        "https://telegra.ph/file/1b3ecd99da4c4c11a1b7b.jpg",
+        "https://telegra.ph/file/37fb5513d44b39e304d4d.jpg",
+        "https://telegra.ph/file/61b3a92b306a044f2f943.jpg",
+        "https://telegra.ph/file/a382e551c082cab5454a3.jpg",
+        "https://telegra.ph/file/0efe971e0b64dd5352c5f.jpg",
+        "https://telegra.ph/file/cd68b6397ffc1578ebf07.jpg",
+        "https://telegra.ph/file/317c17f6011dd4d25deeb.jpg",
+        "https://telegra.ph/file/3ad34ed4d1fb849857787.jpg",
+        "https://telegra.ph/file/9d803463f74819f234bfe.jpg",
+        "https://telegra.ph/file/f1fd4076298c6cf4e52bc.jpg",
+        "https://telegra.ph/file/68c35f1574b263009d105.jpg",
+        "https://telegra.ph/file/b826fd7f09021cda9ce65.jpg",
+        "https://telegra.ph/file/42979077159ef3b3b8fea.jpg",
+        "https://telegra.ph/file/f5848620cc2c71a877db3.jpg",
+        "https://telegra.ph/file/4d7f72698f019f803787b.jpg",
+        "https://telegra.ph/file/fb98eff260e02defa2a1c.jpg",
+        "https://telegra.ph/file/5d788f1e7189fc00ae9bd.jpg",
+        "https://telegra.ph/file/5063fbd6c41dab2422479.jpg",
+        "https://telegra.ph/file/67435178c65a1c43dbe1d.jpg",
+        "https://telegra.ph/file/62db036e01d71cdec0c65.jpg",
+        "https://telegra.ph/file/36687cc023d5e18b86662.jpg",
+        "https://telegra.ph/file/3c8e2816bf2bb7eaf3b53.jpg",
+        "https://telegra.ph/file/d6d102c81a1f96a86e638.jpg",
+        "https://telegra.ph/file/2b68566a45c8ef53ea7c5.jpg",
+        "https://telegra.ph/file/405c3228443790423350e.jpg",
+        "https://telegra.ph/file/0f47eafbf86848fdd4dfb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13754,
+    "title": "[ドウガネブイブイ (あぶりだしざくろ)] 聖僧査官白蓮 3 家畜聖女 (東方Project)",
+    "sourceUrl": "https://telegra.ph/ドウガネブイブイ-あぶりだしざくろ-聖僧査官白蓮-3-家畜聖女-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/18cdb8a473282da88f2d0.jpg",
+        "https://telegra.ph/file/a5a611a781594b8945754.jpg",
+        "https://telegra.ph/file/d3b950a37961d3ae7fbf8.jpg",
+        "https://telegra.ph/file/727f5db56f60ffb567139.jpg",
+        "https://telegra.ph/file/215f058c4830bba5aa295.jpg",
+        "https://telegra.ph/file/d579056c297cd9cfd06b1.jpg",
+        "https://telegra.ph/file/c3033303036f44ab047c1.jpg",
+        "https://telegra.ph/file/bd8d04b4dc42319477e12.jpg",
+        "https://telegra.ph/file/41ac3ce8b53f5540cc5ba.jpg",
+        "https://telegra.ph/file/f39a6e8895fe12c37bb21.jpg",
+        "https://telegra.ph/file/d30b04c0ea4dc04fd99ed.jpg",
+        "https://telegra.ph/file/32279df5ba81b77c4e4dd.jpg",
+        "https://telegra.ph/file/845ebd91a5a4253809e52.jpg",
+        "https://telegra.ph/file/d0e3666991bdd24014ec0.jpg",
+        "https://telegra.ph/file/0ac7150556429b8bd5d87.jpg",
+        "https://telegra.ph/file/621903c7e08dca26dbf7c.jpg",
+        "https://telegra.ph/file/f3646b588a693ae0647a6.jpg",
+        "https://telegra.ph/file/de1f787eaf7af272dba3b.jpg",
+        "https://telegra.ph/file/1c399e25671f2db257494.jpg",
+        "https://telegra.ph/file/4ed3f9c4840d789453e41.jpg",
+        "https://telegra.ph/file/c8ba55d7b8b9c8aae3825.jpg",
+        "https://telegra.ph/file/6b120b4eb8f8641e965e8.jpg",
+        "https://telegra.ph/file/a02b028451a8dedb1d504.jpg",
+        "https://telegra.ph/file/77efa0a79b52c94407b4e.jpg",
+        "https://telegra.ph/file/abf8c5065c32fbd4746c5.jpg",
+        "https://telegra.ph/file/5625abcd9fd528b20427c.jpg",
+        "https://telegra.ph/file/815309516197a104ba7e9.jpg",
+        "https://telegra.ph/file/f5c7f28d891ae8186b4c2.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 14129,
+    "title": "[Poyeop] モナの日常(?) (原神)",
+    "sourceUrl": "https://telegra.ph/Poyeop-モナの日常-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/b699e5f6f4999572c4098.jpg",
+        "https://telegra.ph/file/f2ae35c260c1e28abc23f.jpg",
+        "https://telegra.ph/file/6bce09b23181603e39eab.jpg",
+        "https://telegra.ph/file/89aea3113470038dbe0e0.jpg",
+        "https://telegra.ph/file/ae23e0f7df273d7e1e9d5.jpg",
+        "https://telegra.ph/file/d672fb9e959b410aef8e9.jpg",
+        "https://telegra.ph/file/214d966dd2f1e0412bf7b.jpg",
+        "https://telegra.ph/file/8d7a94487c5664098df17.jpg",
+        "https://telegra.ph/file/4c128d398eef12f987166.jpg",
+        "https://telegra.ph/file/b679bdd14a8f16c39eafe.jpg",
+        "https://telegra.ph/file/673cca2e1f2c5a4b36540.jpg",
+        "https://telegra.ph/file/4a57d6e448d42e8b878cd.jpg",
+        "https://telegra.ph/file/8e0ed741972073c67ca44.jpg",
+        "https://telegra.ph/file/a7bb2fdb205ccb3e20f0f.jpg",
+        "https://telegra.ph/file/0d35da1b0bef5081f415c.jpg",
+        "https://telegra.ph/file/0d27a8c3041d20c73a7f0.jpg",
+        "https://telegra.ph/file/a58a2efa55a6decabd48c.jpg",
+        "https://telegra.ph/file/9a8fddeeae1bc37258c50.jpg",
+        "https://telegra.ph/file/33636e3ec92e5f62a1566.jpg",
+        "https://telegra.ph/file/86fca9436a206290c277a.jpg",
+        "https://telegra.ph/file/e10c0b9686940d8ad5d9a.jpg",
+        "https://telegra.ph/file/6eb8c8a495ac1a63357a6.jpg",
+        "https://telegra.ph/file/4c02fb8a086cd3d1878dd.jpg",
+        "https://telegra.ph/file/9f83ed0b94f3881bb571c.jpg",
+        "https://telegra.ph/file/b0b371df10f5c173e6637.jpg",
+        "https://telegra.ph/file/c9f084f5c1c50edc29be2.jpg",
+        "https://telegra.ph/file/8dce0ce3d586ca6fd4345.jpg",
+        "https://telegra.ph/file/3414c7a4d282c05a9818e.jpg",
+        "https://telegra.ph/file/0b8f1f44eef8cb4c48ff9.jpg",
+        "https://telegra.ph/file/43f63bf59e76f78cb9d5f.jpg",
+        "https://telegra.ph/file/c328d46552cbe010c0239.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12747,
+    "title": "(C97) [猛茸大収穫祭 (越後屋タケル)] 俺の紋章♂のせいで級長がヤバい (ファイアーエムブレム風花雪月)",
+    "sourceUrl": "https://telegra.ph/C97-猛茸大収穫祭-越後屋タケル-俺の紋章のせいで級長がヤバい-ファイアーエムブレム風花雪月-08-31",
+    "images": [
+        "https://telegra.ph/file/d2636f421d93ffa7cdf6e.jpg",
+        "https://telegra.ph/file/f5c7bfc7a96acc016e701.jpg",
+        "https://telegra.ph/file/bce604e75f7dcadc11dd0.jpg",
+        "https://telegra.ph/file/a4b7a0f5e10d10b6e8988.jpg",
+        "https://telegra.ph/file/c1095d6ee59bb8bdc020e.jpg",
+        "https://telegra.ph/file/ab4911f5d2aef3ca2717d.jpg",
+        "https://telegra.ph/file/cb0be4698fff2ec8b7cb4.jpg",
+        "https://telegra.ph/file/3c9ddea5352a1494d36e4.jpg",
+        "https://telegra.ph/file/bfdf649e39c9dee1c3aad.jpg",
+        "https://telegra.ph/file/5ce930ad710cd8bb12d43.jpg",
+        "https://telegra.ph/file/01578a97c3f0800d6cefb.jpg",
+        "https://telegra.ph/file/c7d89812d3713f87912e7.jpg",
+        "https://telegra.ph/file/277045447e70de87ca4e8.jpg",
+        "https://telegra.ph/file/2f47d5fff8026a4aee8a2.jpg",
+        "https://telegra.ph/file/165765dfe3efc0ffd349f.jpg",
+        "https://telegra.ph/file/c4fc88cabdc0f5701d4c3.jpg",
+        "https://telegra.ph/file/723d049d4a1604236ae9d.jpg",
+        "https://telegra.ph/file/baca0c1193f798b0667f4.jpg",
+        "https://telegra.ph/file/237f72f4f0775065baf6d.jpg",
+        "https://telegra.ph/file/9751cb186933db5b3a300.jpg",
+        "https://telegra.ph/file/6ff8112c6e2a30ff56090.jpg",
+        "https://telegra.ph/file/dbdc021530c4eb327084c.jpg",
+        "https://telegra.ph/file/26333d84f0496517d8ec7.jpg",
+        "https://telegra.ph/file/ba97190076796aae8124b.jpg",
+        "https://telegra.ph/file/cbf2b99d5347828093d42.jpg",
+        "https://telegra.ph/file/eaf8af7dea7ec6cf1ed6a.jpg",
+        "https://telegra.ph/file/4669e9ac520b4a4b18551.jpg",
+        "https://telegra.ph/file/dbbb8c52275e2f4d72b81.jpg",
+        "https://telegra.ph/file/d16e818b815247131577c.jpg",
+        "https://telegra.ph/file/c5d828c9001f5d83fdd07.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

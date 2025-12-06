@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15058,
+    "title": "(バンドリ!スターフェスティバル4) [にしはるカフェ (西沢はるな、ちーちゃん54)] 拘束 (BanG Dream!)",
+    "sourceUrl": "https://telegra.ph/バンドリスターフェスティバル4-にしはるカフェ-西沢はるなちーちゃん54-拘束-BanG-Dream-08-31",
+    "images": [
+        "https://telegra.ph/file/386262a981ab2e59d6fb3.jpg",
+        "https://telegra.ph/file/59be07538c05c2c077269.jpg",
+        "https://telegra.ph/file/a85557b3fb85bb9160296.jpg",
+        "https://telegra.ph/file/f560573be2237f37aa9dd.jpg",
+        "https://telegra.ph/file/7e60b66897210e01425b6.jpg",
+        "https://telegra.ph/file/073a4ca8d8d1a4ea5d38c.jpg",
+        "https://telegra.ph/file/a36e8ac8fee1a2415d07e.jpg",
+        "https://telegra.ph/file/b98175d8b48c20bfd4025.jpg",
+        "https://telegra.ph/file/124e4127ea257a3dc4b93.jpg",
+        "https://telegra.ph/file/63a36f1761f5042760f50.jpg",
+        "https://telegra.ph/file/7ca7ad9119e96cb8bacce.jpg",
+        "https://telegra.ph/file/b461edd551cf241b9c469.jpg",
+        "https://telegra.ph/file/d069f2c87cb369cff9e3e.jpg",
+        "https://telegra.ph/file/8003921ce88c8920b6528.jpg",
+        "https://telegra.ph/file/7e72510c9a3b435f73ef5.jpg",
+        "https://telegra.ph/file/a062e06ee180656cf37ab.jpg",
+        "https://telegra.ph/file/075b9bd1cc92cb2bbb3a4.jpg",
+        "https://telegra.ph/file/ec208fc5f5b052e8ae487.jpg",
+        "https://telegra.ph/file/fa4e331b6a45044a5b72d.jpg",
+        "https://telegra.ph/file/7ef8889d09342c7f78087.jpg",
+        "https://telegra.ph/file/72d938cb8c911195c7604.jpg",
+        "https://telegra.ph/file/9f0a976097f782980b47f.jpg",
+        "https://telegra.ph/file/43792fe83d0fd4e40aaff.jpg",
+        "https://telegra.ph/file/3f0f73b34abb3e70c54a5.jpg",
+        "https://telegra.ph/file/9cb36de10a9bc72f61aae.jpg",
+        "https://telegra.ph/file/8f7027ebf41dcda51713e.jpg",
+        "https://telegra.ph/file/63ccbebeddf0197be8fe6.jpg",
+        "https://telegra.ph/file/b026e21228ee97817d774.jpg",
+        "https://telegra.ph/file/98c813fc22571d3ee18ee.jpg",
+        "https://telegra.ph/file/85e72152715538e88c490.jpg",
+        "https://telegra.ph/file/10a9f2e53c270d19481c8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

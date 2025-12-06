@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13618,
+    "title": "[んつぁてぃむん (yurarin)] 小〇生で妊娠して赤ちゃん産んじゃいました♥",
+    "sourceUrl": "https://telegra.ph/んつぁてぃむん-yurarin-小生で妊娠して赤ちゃん産んじゃいました-08-31",
+    "images": [
+        "https://telegra.ph/file/adba74cbeeba685af0ce2.jpg",
+        "https://telegra.ph/file/98fd44f6bea761ac741f6.jpg",
+        "https://telegra.ph/file/377ca8363aaaebd2695fe.jpg",
+        "https://telegra.ph/file/d153c471de6749f2f3bf2.jpg",
+        "https://telegra.ph/file/3ef93d4a648cd44b7103a.jpg",
+        "https://telegra.ph/file/7cd46400159f6c2fa2d9e.jpg",
+        "https://telegra.ph/file/8c3137f11aeace5a817df.jpg",
+        "https://telegra.ph/file/ad4e69f47e3e6dcc56916.jpg",
+        "https://telegra.ph/file/af52d62552d838fcb744e.jpg",
+        "https://telegra.ph/file/45a67fc0da71cf20fdbca.jpg",
+        "https://telegra.ph/file/798304fbafa7ab7d10d1e.jpg",
+        "https://telegra.ph/file/4690ede1cd69739ecf0b0.jpg",
+        "https://telegra.ph/file/abf65a412690c707f5e4b.jpg",
+        "https://telegra.ph/file/c477f03f23826370c53f9.jpg",
+        "https://telegra.ph/file/138465d61a1710e9d0a41.jpg",
+        "https://telegra.ph/file/f1c9dbb251301f550346d.jpg",
+        "https://telegra.ph/file/125256ab75731dfa855b5.jpg",
+        "https://telegra.ph/file/1968df26018fb5649a20c.jpg",
+        "https://telegra.ph/file/a732f59513be88ca71810.jpg",
+        "https://telegra.ph/file/9673b7b313e6c1e1ca3d6.jpg",
+        "https://telegra.ph/file/4c3595d45fd3787f4ff44.jpg",
+        "https://telegra.ph/file/4ae4abf819609561f0ada.jpg",
+        "https://telegra.ph/file/c92f3c895b608e2bd32a6.jpg",
+        "https://telegra.ph/file/51b171fe864b356b67b02.jpg",
+        "https://telegra.ph/file/db9115c7b27fee5c0cb6b.jpg",
+        "https://telegra.ph/file/7817ac81142ce62e0c5bb.jpg",
+        "https://telegra.ph/file/63a7036742b168b627354.jpg",
+        "https://telegra.ph/file/6251c1c00f6b6ab9ea5d6.jpg",
+        "https://telegra.ph/file/343da8944bfbc26c5d495.jpg",
+        "https://telegra.ph/file/8cc66a4cc8bb88afa1b5e.jpg",
+        "https://telegra.ph/file/432f82314fa7812fe93f3.jpg",
+        "https://telegra.ph/file/0229d7f56b208501b5891.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

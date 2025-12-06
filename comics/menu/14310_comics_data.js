@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14310,
+    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない",
+    "sourceUrl": "https://telegra.ph/あわみく屋-あわみく-手だれの魔女にはかなわない-08-31",
+    "images": [
+        "https://telegra.ph/file/5b9cfe584d94d667f6566.jpg",
+        "https://telegra.ph/file/784467a1c31b978e5479a.jpg",
+        "https://telegra.ph/file/ac1ff4edd8529cfc08c4c.jpg",
+        "https://telegra.ph/file/2bcdc5ca893d795f1ce24.jpg",
+        "https://telegra.ph/file/6c9b381192f56fca97e01.jpg",
+        "https://telegra.ph/file/820e72fd964534adae051.jpg",
+        "https://telegra.ph/file/0cc1997f6276c23a25b08.jpg",
+        "https://telegra.ph/file/98d141440d9c9e54300d2.jpg",
+        "https://telegra.ph/file/952f92d4a2100ae9599ab.jpg",
+        "https://telegra.ph/file/eb29656a4d5f0b480d8e0.jpg",
+        "https://telegra.ph/file/bece503d852fd9da06760.jpg",
+        "https://telegra.ph/file/7c8fab26069e4be990b53.jpg",
+        "https://telegra.ph/file/a2041be1e5cace730b8af.jpg",
+        "https://telegra.ph/file/efc65d7cafd55bbe33581.jpg",
+        "https://telegra.ph/file/a9c0cb144282c406ec83c.jpg",
+        "https://telegra.ph/file/f0702f784729b620b223c.jpg",
+        "https://telegra.ph/file/d360ead3865a1cf73e2aa.jpg",
+        "https://telegra.ph/file/79147f923f83ae4888ea2.jpg",
+        "https://telegra.ph/file/43de0cf53032b6edc870e.jpg",
+        "https://telegra.ph/file/e5fa030a41420904ffa5e.jpg",
+        "https://telegra.ph/file/8905a120c457e74787f16.jpg",
+        "https://telegra.ph/file/b6f7f17a489163be00a3c.jpg",
+        "https://telegra.ph/file/0805e3f41c4e4938f9d7f.jpg",
+        "https://telegra.ph/file/82226a60b7e471f31f2ac.jpg",
+        "https://telegra.ph/file/8cfbf1ddf237afd53c228.jpg",
+        "https://telegra.ph/file/2296cfd184cd59867bb66.jpg",
+        "https://telegra.ph/file/dfec29480cba136844576.jpg",
+        "https://telegra.ph/file/96d1db6e59525258c52fa.jpg",
+        "https://telegra.ph/file/75c46ca87a8a97b0fa74e.jpg",
+        "https://telegra.ph/file/302f8e077f009fdd0d773.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11784,
+    "title": "[7連鎖 (荒巻越前)] おっきなさおりちゃんは不器用にえろい",
+    "sourceUrl": "https://telegra.ph/7連鎖-荒巻越前-おっきなさおりちゃんは不器用にえろい-08-31-2",
+    "images": [
+        "https://telegra.ph/file/8d9f8f4a3725b4fb94b6a.jpg",
+        "https://telegra.ph/file/a9a839fff801fbc384324.jpg",
+        "https://telegra.ph/file/8a99c8bbd72344480ebc8.jpg",
+        "https://telegra.ph/file/ac218cc2c11982d96ff96.jpg",
+        "https://telegra.ph/file/432d5c2f0557d63f54cf6.jpg",
+        "https://telegra.ph/file/3219f5933a5c50819f52e.jpg",
+        "https://telegra.ph/file/70837aabd3e3e2159c51b.jpg",
+        "https://telegra.ph/file/2094405ea732c847c08c7.jpg",
+        "https://telegra.ph/file/9d6e30629a51f6096c54c.jpg",
+        "https://telegra.ph/file/1e27234b786161f145254.jpg",
+        "https://telegra.ph/file/db5405958c9df84bf0f2e.jpg",
+        "https://telegra.ph/file/3727691dcd642b5eeb019.jpg",
+        "https://telegra.ph/file/1f2ac57d04282b914a24b.jpg",
+        "https://telegra.ph/file/6b73b4e70a7f32e234a46.jpg",
+        "https://telegra.ph/file/ebecdd302a9698df9d352.jpg",
+        "https://telegra.ph/file/f96e69e71aa5adfe8ecca.jpg",
+        "https://telegra.ph/file/1676257695d5c1d553106.jpg",
+        "https://telegra.ph/file/ce02e4859751e92af08b4.jpg",
+        "https://telegra.ph/file/332fa7723bcd6208a7a4d.jpg",
+        "https://telegra.ph/file/4b71f05218f86c60dea53.jpg",
+        "https://telegra.ph/file/e3d70bd7e5047de22b495.jpg",
+        "https://telegra.ph/file/cf471656deec63a82095a.jpg",
+        "https://telegra.ph/file/c25bfc57c48792f0091ce.jpg",
+        "https://telegra.ph/file/c0570b2fa5fabc37092ca.jpg",
+        "https://telegra.ph/file/38086078c4131f8a263b5.jpg",
+        "https://telegra.ph/file/d271681bae81f266750da.jpg",
+        "https://telegra.ph/file/9fd3f1c4dd70f2e4362c9.jpg",
+        "https://telegra.ph/file/52261d7223606f74c943d.jpg",
+        "https://telegra.ph/file/9ddbc89f53a0249a5829f.jpg",
+        "https://telegra.ph/file/ebd4fb85d39bc595d4190.jpg",
+        "https://telegra.ph/file/e441feea227a49e2d8f95.jpg",
+        "https://telegra.ph/file/9ee39ff6ba922be632ed6.jpg",
+        "https://telegra.ph/file/cfb964d741190086fb301.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

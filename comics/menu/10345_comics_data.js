@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10345,
+    "title": "[すみやお] 教授と化け猫 (永遠娘 九)",
+    "sourceUrl": "https://telegra.ph/すみやお-教授と化け猫-永遠娘-九-08-31",
+    "images": [
+        "https://telegra.ph/file/10faef7094b81b95011ed.jpg",
+        "https://telegra.ph/file/c529d04e70be9ce0312d1.jpg",
+        "https://telegra.ph/file/02a282afd497294ab678a.jpg",
+        "https://telegra.ph/file/0b08c55617110d6282a01.jpg",
+        "https://telegra.ph/file/f7b5ca753efedf90e2f96.jpg",
+        "https://telegra.ph/file/203e009af5ad677c41306.jpg",
+        "https://telegra.ph/file/18bdfaf98dc2a6476e534.jpg",
+        "https://telegra.ph/file/d422f62f2e437d3fe083c.jpg",
+        "https://telegra.ph/file/18d6791266caa32a3104a.jpg",
+        "https://telegra.ph/file/61e6a4f076a714b326174.jpg",
+        "https://telegra.ph/file/bf9ec05adae0816ed53ed.jpg",
+        "https://telegra.ph/file/ecf9cb3a40b2c2b660a97.jpg",
+        "https://telegra.ph/file/b371f686ecc79d04f0b2e.jpg",
+        "https://telegra.ph/file/70263e8484fd3b20a28fb.jpg",
+        "https://telegra.ph/file/f63ec747a827abb26cf96.jpg",
+        "https://telegra.ph/file/882bdc8372e4f777a2dbd.jpg",
+        "https://telegra.ph/file/cfb86a3c8152d5a3edea9.jpg",
+        "https://telegra.ph/file/9c0a430584b77978f2218.jpg",
+        "https://telegra.ph/file/71e4ec7ecd1e1bf3e57c3.jpg",
+        "https://telegra.ph/file/8882ad417668a4a52602e.jpg",
+        "https://telegra.ph/file/c50b1c6f8b62738920f50.jpg",
+        "https://telegra.ph/file/fa25f3b83e446b416a408.jpg",
+        "https://telegra.ph/file/5a968f15fb3e06f32ef8d.jpg",
+        "https://telegra.ph/file/c48977b716e69ce34c857.jpg",
+        "https://telegra.ph/file/b9253e718b0cc494cfb64.jpg",
+        "https://telegra.ph/file/6cf9c633ea78e3adf82c3.jpg",
+        "https://telegra.ph/file/b43623a6add8111be7a92.jpg",
+        "https://telegra.ph/file/8b0114dc4348b93a2d8eb.jpg",
+        "https://telegra.ph/file/a498b3dca1616f3f7e264.jpg",
+        "https://telegra.ph/file/d3147936eef5460186ee0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

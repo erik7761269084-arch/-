@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15908,
+    "title": "(C103) [サカナとタイガー (せた)] 3月のモーニングブレンド (響け!ユーフォニアム) -Preview",
+    "sourceUrl": "https://telegra.ph/C103-サカナとタイガー-せた-3月のモーニングブレンド-響けユーフォニアム--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/f850e56c103c9648d3a6a.jpg",
+        "https://telegra.ph/file/167351b95fcef0876ec3c.jpg",
+        "https://telegra.ph/file/0f514b63a24eb481a3f9f.jpg",
+        "https://telegra.ph/file/6b152f7e447ec84aa053d.jpg",
+        "https://telegra.ph/file/7918ed7404dab5782ae3f.jpg",
+        "https://telegra.ph/file/93b30a8de4943eeb15329.jpg",
+        "https://telegra.ph/file/72dba6553eb3395f4f900.jpg",
+        "https://telegra.ph/file/efd05cdb1cb4106c92921.jpg",
+        "https://telegra.ph/file/1d4719230b76fb284862b.jpg",
+        "https://telegra.ph/file/6c4af266b14bcbd7b38da.jpg",
+        "https://telegra.ph/file/bccae08406ca9125cd6de.jpg",
+        "https://telegra.ph/file/db22be134073e1da9d9cb.jpg",
+        "https://telegra.ph/file/4ecbd3bb2a00e902c34bc.jpg",
+        "https://telegra.ph/file/af6c876570b5bb1113596.jpg",
+        "https://telegra.ph/file/028e9ce344f4a2647f127.jpg",
+        "https://telegra.ph/file/13a86a45687f48fd690ab.jpg",
+        "https://telegra.ph/file/437ada3848b225fc7ac6d.jpg",
+        "https://telegra.ph/file/66073bbb33be59c15d8a3.jpg",
+        "https://telegra.ph/file/5fd74fe174650074d9ede.jpg",
+        "https://telegra.ph/file/9b4be38f626cd3425d41a.jpg",
+        "https://telegra.ph/file/25b93f5231084acbd8bb0.jpg",
+        "https://telegra.ph/file/c477d1ab101852183e15a.jpg",
+        "https://telegra.ph/file/1e7fa3a3ef898d56c8e93.jpg",
+        "https://telegra.ph/file/b257b4c1642695b9d71ce.jpg",
+        "https://telegra.ph/file/71405206ff579ecf33fe8.jpg",
+        "https://telegra.ph/file/3dd71373702c6d0effeed.jpg",
+        "https://telegra.ph/file/a907586f9cc9b36352c50.jpg",
+        "https://telegra.ph/file/1d8e59064ade62314a89d.jpg",
+        "https://telegra.ph/file/4deef100e6a88747da8d2.jpg",
+        "https://telegra.ph/file/2c698d47898ab3674618c.jpg",
+        "https://telegra.ph/file/58e80c8d2200bb178d4d8.jpg",
+        "https://telegra.ph/file/d66ce6fde7f5c109c8408.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

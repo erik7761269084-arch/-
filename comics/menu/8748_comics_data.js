@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8748,
+    "title": "[外道団 (外道男爵)] 魔法少女HDPart1ほむあん飼育編 (魔法少女まどか☆マギカ)",
+    "sourceUrl": "https://telegra.ph/外道団-外道男爵-魔法少女HDPart1ほむあん飼育編-魔法少女まどかマギカ-08-31",
+    "images": [
+        "https://telegra.ph/file/0907e722e9b69f56ed29b.jpg",
+        "https://telegra.ph/file/5aed83206c26674ce52e3.jpg",
+        "https://telegra.ph/file/d3a7f07ee7bdd78ca87ef.jpg",
+        "https://telegra.ph/file/c524410da3a1a4c694892.jpg",
+        "https://telegra.ph/file/c362e38046e0316ee5507.jpg",
+        "https://telegra.ph/file/696589090981d2370db16.jpg",
+        "https://telegra.ph/file/c1fa45a103707001d0b19.jpg",
+        "https://telegra.ph/file/2ccd431c6bf75ad0e31e2.jpg",
+        "https://telegra.ph/file/7471c8552490c12cfc5f6.jpg",
+        "https://telegra.ph/file/62fae81d6e7134bdc19d7.jpg",
+        "https://telegra.ph/file/6c1072c54aea6e3497e9c.jpg",
+        "https://telegra.ph/file/5ab9600bc63efc50ad70b.jpg",
+        "https://telegra.ph/file/0963361208a9adb10b5bc.jpg",
+        "https://telegra.ph/file/463a739349e746f2ad474.jpg",
+        "https://telegra.ph/file/3047006acf808571fef94.jpg",
+        "https://telegra.ph/file/a245d71aa908d033ae051.jpg",
+        "https://telegra.ph/file/d97fdd6fef5ffa42187ec.jpg",
+        "https://telegra.ph/file/d2a3f6a1695bfd8cfaa57.jpg",
+        "https://telegra.ph/file/7e37f4ce58ec025aab9fe.jpg",
+        "https://telegra.ph/file/ec9e7b59801a4eace2b40.jpg",
+        "https://telegra.ph/file/e91e483d4506cc1416b51.jpg",
+        "https://telegra.ph/file/657aac3b926c5e8eb3e17.jpg",
+        "https://telegra.ph/file/72d3c7c43550167835e7b.jpg",
+        "https://telegra.ph/file/79f3f109932ba372a5357.jpg",
+        "https://telegra.ph/file/6710fb8257dddb93fd9ae.jpg",
+        "https://telegra.ph/file/8eee42b1dec514f2ee86e.jpg",
+        "https://telegra.ph/file/f977925af0788a76d1241.jpg",
+        "https://telegra.ph/file/f5bcfe86f7dab4b2a9aad.jpg",
+        "https://telegra.ph/file/d4f502587fba899eb1410.jpg",
+        "https://telegra.ph/file/f12a89b103e46ae2fbdd2.jpg",
+        "https://telegra.ph/file/952db02981d58ca9afb52.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

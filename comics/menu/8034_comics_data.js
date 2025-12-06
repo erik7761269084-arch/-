@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8034,
+    "title": "[hentaiworks (あるま)] 悪いふたなり幹部に負けて改造装置に繋がれちゃうヒーローさんの話。剛鉄のダガー 1話",
+    "sourceUrl": "https://telegra.ph/hentaiworks-あるま-悪いふたなり幹部に負けて改造装置に繋がれちゃうヒーローさんの話剛鉄のダガー-1話-08-31",
+    "images": [
+        "https://telegra.ph/file/05ed72071bfcadf497a5c.jpg",
+        "https://telegra.ph/file/690b97951e53308eed476.jpg",
+        "https://telegra.ph/file/6b6d738ae23e5fd26798e.jpg",
+        "https://telegra.ph/file/ed213218e7009608fbc37.jpg",
+        "https://telegra.ph/file/a5beec29113d0d4a37c18.jpg",
+        "https://telegra.ph/file/b7eae9847bd561467e06a.jpg",
+        "https://telegra.ph/file/ab7153f95dcab22206c98.jpg",
+        "https://telegra.ph/file/091235855a8601e2403c3.jpg",
+        "https://telegra.ph/file/a6ff1bfc2d0cf209ad07f.jpg",
+        "https://telegra.ph/file/88df7d7693c6e58b894a6.jpg",
+        "https://telegra.ph/file/1de0f9f9465c643d1f215.jpg",
+        "https://telegra.ph/file/2491373d088d5fed08f51.jpg",
+        "https://telegra.ph/file/964ac0b80cfb2701dc7e2.jpg",
+        "https://telegra.ph/file/19e804b75c8ac576eeaa4.jpg",
+        "https://telegra.ph/file/8dfd7c841b0ba497c9999.jpg",
+        "https://telegra.ph/file/225b1cdf568854381777f.jpg",
+        "https://telegra.ph/file/943d044368f88478d0b2e.jpg",
+        "https://telegra.ph/file/12ae86c2df85f48031972.jpg",
+        "https://telegra.ph/file/6e18d2120081ed0faacd2.jpg",
+        "https://telegra.ph/file/da86f09af640a7cecf912.jpg",
+        "https://telegra.ph/file/b5ed60954a4474214ef44.jpg",
+        "https://telegra.ph/file/9dd2734cc901a154b108a.jpg",
+        "https://telegra.ph/file/1b94d9321d3980c255c29.jpg",
+        "https://telegra.ph/file/f984cce1bd32a004af8ee.jpg",
+        "https://telegra.ph/file/c3dba2a16fb6990331225.jpg",
+        "https://telegra.ph/file/1d66229ce8063e133d69f.jpg",
+        "https://telegra.ph/file/d492461a257812ac57031.jpg",
+        "https://telegra.ph/file/edc15075dd6ab75db016b.jpg",
+        "https://telegra.ph/file/58de90ca76cbc869760aa.jpg",
+        "https://telegra.ph/file/a6a45c19629e3b68c8af0.jpg",
+        "https://telegra.ph/file/ba34f6913419b6284c2b0.jpg",
+        "https://telegra.ph/file/a574428ddb7b9a938c6f4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

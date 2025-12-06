@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9352,
+    "title": "[しりあるヒプノ (しりあるヒプノLabo長、星名めいと)] どうあがいても絶頂…",
+    "sourceUrl": "https://telegra.ph/しりあるヒプノ-しりあるヒプノLabo長星名めいと-どうあがいても絶頂-08-31",
+    "images": [
+        "https://telegra.ph/file/a6fd2619c367a9b217d5e.jpg",
+        "https://telegra.ph/file/d97585d88b91e06db47b2.jpg",
+        "https://telegra.ph/file/8a47aae3de24d33686288.jpg",
+        "https://telegra.ph/file/5bec8f8656280298e6322.jpg",
+        "https://telegra.ph/file/48ae3af2bb4493de763dd.jpg",
+        "https://telegra.ph/file/0e7c4ce94860fdd114ff5.jpg",
+        "https://telegra.ph/file/9ef17cca67c4ca71bb226.jpg",
+        "https://telegra.ph/file/0fd32cb7a39e42fcb2a66.jpg",
+        "https://telegra.ph/file/5fd07d825cae52ecd347d.jpg",
+        "https://telegra.ph/file/8e51e213813a172f61aa3.jpg",
+        "https://telegra.ph/file/26cfb20d241788a514106.jpg",
+        "https://telegra.ph/file/ad77237c9b7996dfe28ab.jpg",
+        "https://telegra.ph/file/d1174b2f9f9fb92c80d00.jpg",
+        "https://telegra.ph/file/87179ca10c422c627fc5a.jpg",
+        "https://telegra.ph/file/8f0b602ca02e107a5ab31.jpg",
+        "https://telegra.ph/file/dcfbd2ec96dc2a0b2c230.jpg",
+        "https://telegra.ph/file/b14af3608a60ec7337d64.jpg",
+        "https://telegra.ph/file/64953199e02f3199e67ce.jpg",
+        "https://telegra.ph/file/bf4671756e28b89cb3d76.jpg",
+        "https://telegra.ph/file/5725e610d228e9a5730df.jpg",
+        "https://telegra.ph/file/358bf0e96f169a97291e5.jpg",
+        "https://telegra.ph/file/a93ca169f5e4ce059ec11.jpg",
+        "https://telegra.ph/file/6f8e53302f216b4228c8e.jpg",
+        "https://telegra.ph/file/c275f086f53a2fcf2411c.jpg",
+        "https://telegra.ph/file/58b9b4f78603389885ccd.jpg",
+        "https://telegra.ph/file/e09288a44efdcc8cb5b46.jpg",
+        "https://telegra.ph/file/72c31eed3bb3dbc18bd30.jpg",
+        "https://telegra.ph/file/d7e6e88153abece0eff31.jpg",
+        "https://telegra.ph/file/47076a61371ec823b2f7c.jpg",
+        "https://telegra.ph/file/3c2565a9d73b633490f28.jpg",
+        "https://telegra.ph/file/770eb5f437b6b688ab40d.jpg",
+        "https://telegra.ph/file/ad51832a681ff2b87dbb9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

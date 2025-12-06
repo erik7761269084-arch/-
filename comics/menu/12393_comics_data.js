@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12393,
+    "title": "[ふらいでぃっしゅ (じゃっこ)] お姉ちゃん達とあまあま受験勉強",
+    "sourceUrl": "https://telegra.ph/ふらいでぃっしゅ-じゃっこ-お姉ちゃん達とあまあま受験勉強-08-31",
+    "images": [
+        "https://telegra.ph/file/598562fe6039422d4e36a.jpg",
+        "https://telegra.ph/file/097de121a510c48f7e226.jpg",
+        "https://telegra.ph/file/ec96ce303731698a8354f.jpg",
+        "https://telegra.ph/file/53b4c51bb5fbd3981f655.jpg",
+        "https://telegra.ph/file/cc7828bf273d770080812.jpg",
+        "https://telegra.ph/file/89710a96358ebb40f5b18.jpg",
+        "https://telegra.ph/file/7d761ed5f7e18bfa708e0.jpg",
+        "https://telegra.ph/file/74d9d0c340eb7f3054340.jpg",
+        "https://telegra.ph/file/a6c21a699bdf8f9da7966.jpg",
+        "https://telegra.ph/file/2c454c81a24d20750ae34.jpg",
+        "https://telegra.ph/file/968ee44fa77f80ade82af.jpg",
+        "https://telegra.ph/file/2a0ea286ed4f8141fc4f4.jpg",
+        "https://telegra.ph/file/1e9c6bc9cd8da083d4260.jpg",
+        "https://telegra.ph/file/f80e21504feb434c0f6f9.jpg",
+        "https://telegra.ph/file/874350760f9bbcdf67137.jpg",
+        "https://telegra.ph/file/70accc8f1682d2c8180ca.jpg",
+        "https://telegra.ph/file/709be436ddd284be8f79f.jpg",
+        "https://telegra.ph/file/35d7ea0693a97a6c2aac0.jpg",
+        "https://telegra.ph/file/4b392bf1ce9223cfef25e.jpg",
+        "https://telegra.ph/file/1d347b7137a6a23285788.jpg",
+        "https://telegra.ph/file/b2ab21f75172cf33a713c.jpg",
+        "https://telegra.ph/file/c3a5d4db6ae3cd9a8477c.jpg",
+        "https://telegra.ph/file/7c1083c74b31541371a0c.jpg",
+        "https://telegra.ph/file/9eb4c80b93ba462e02266.jpg",
+        "https://telegra.ph/file/a5e58e88cecef55b5b02a.jpg",
+        "https://telegra.ph/file/8e778499a67845a78ae4a.jpg",
+        "https://telegra.ph/file/d5a668dc3ef62c8a3f132.jpg",
+        "https://telegra.ph/file/8d070babccfccdef6118b.jpg",
+        "https://telegra.ph/file/1625c8dddaafa7f11db54.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/8aea9f418e1128f22b629.jpg",
+        "https://telegra.ph/file/9c3bc989ad88799c06251.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

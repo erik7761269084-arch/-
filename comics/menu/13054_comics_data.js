@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13054,
+    "title": "[霧島鮎] おいでよ！八里木島 (COMIC 真激 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/霧島鮎-おいでよ八里木島-COMIC-真激-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/c06dffdc33fce257b0e7f.jpg",
+        "https://telegra.ph/file/df8255262ae318ca0fc3f.jpg",
+        "https://telegra.ph/file/2f8ea5701ec2e6de965da.jpg",
+        "https://telegra.ph/file/0770d975c8640ea58fabd.jpg",
+        "https://telegra.ph/file/6b2b4c152c6dafa745a72.jpg",
+        "https://telegra.ph/file/0c1a3778140feb8a8062f.jpg",
+        "https://telegra.ph/file/8f2daf2798e1ce011d564.jpg",
+        "https://telegra.ph/file/5398771af4011e9c4d606.jpg",
+        "https://telegra.ph/file/a628b8ad13f3df577cb66.jpg",
+        "https://telegra.ph/file/be8f9f54643480489a5a7.jpg",
+        "https://telegra.ph/file/e2d2359446719e2940987.jpg",
+        "https://telegra.ph/file/86040eb4d7a87a9ed550b.jpg",
+        "https://telegra.ph/file/ebf0de10fb2326dc77d37.jpg",
+        "https://telegra.ph/file/d30a84105599a7ffb6a14.jpg",
+        "https://telegra.ph/file/11d0170a49dff5c37d2ef.jpg",
+        "https://telegra.ph/file/ec82d6c48c890c862100e.jpg",
+        "https://telegra.ph/file/5a7ea11ff1783a36055ab.jpg",
+        "https://telegra.ph/file/bfad97f3dbce07bde4b9f.jpg",
+        "https://telegra.ph/file/bce5fdcbf9e3940b60de7.jpg",
+        "https://telegra.ph/file/a52bb4e34b8baa4f104bc.jpg",
+        "https://telegra.ph/file/0a0adba8bc8d864a5f4c5.jpg",
+        "https://telegra.ph/file/015737194acaa35a7b235.jpg",
+        "https://telegra.ph/file/d1fd9ecea8aa60ff14cf3.jpg",
+        "https://telegra.ph/file/6ae0df7794e2627bcc000.jpg",
+        "https://telegra.ph/file/117dd95379d9a614960bf.jpg",
+        "https://telegra.ph/file/e5be73eb8d0c49f3e14b1.jpg",
+        "https://telegra.ph/file/bc9e9a241237400647b5f.jpg",
+        "https://telegra.ph/file/5b9d97352ababc9990ccb.jpg",
+        "https://telegra.ph/file/8d7f5628597b7d95404e1.jpg",
+        "https://telegra.ph/file/80d33636fe0a2d9106e1b.jpg",
+        "https://telegra.ph/file/548a17f7eaab104d3d59c.jpg",
+        "https://telegra.ph/file/e571dfa63276df36f833b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

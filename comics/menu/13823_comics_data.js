@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13823,
+    "title": "[常磐緑] みんなでスケッチ (コミック エグゼ 30)",
+    "sourceUrl": "https://telegra.ph/常磐緑-みんなでスケッチ-コミック-エグゼ-30-08-31",
+    "images": [
+        "https://telegra.ph/file/d10fff3c83542b5acc350.jpg",
+        "https://telegra.ph/file/f350641a82d5e073467c9.jpg",
+        "https://telegra.ph/file/c55920eb7d4fda4573b42.jpg",
+        "https://telegra.ph/file/7ddc5b8b53021fbb4e342.jpg",
+        "https://telegra.ph/file/237394297f97cb9ba8e71.jpg",
+        "https://telegra.ph/file/1a5da3ebb7a1dab703d1f.jpg",
+        "https://telegra.ph/file/541af00c6f45a566f3707.jpg",
+        "https://telegra.ph/file/254536845940d393751c3.jpg",
+        "https://telegra.ph/file/338a1a5f31dd3c4bd4380.jpg",
+        "https://telegra.ph/file/919a87922268765ed8f59.jpg",
+        "https://telegra.ph/file/8b5d551a3b4fae7cb8bf1.jpg",
+        "https://telegra.ph/file/2bba2e0da86572fa65470.jpg",
+        "https://telegra.ph/file/e0a61c1812c87213cab6c.jpg",
+        "https://telegra.ph/file/2a0011d2a933775dc52fb.jpg",
+        "https://telegra.ph/file/5a2ec69bd20d5e646c41e.jpg",
+        "https://telegra.ph/file/84b5bc81ed9f4eafc14e9.jpg",
+        "https://telegra.ph/file/77104795c303f8c6bef04.jpg",
+        "https://telegra.ph/file/f9492c48f194a95a57036.jpg",
+        "https://telegra.ph/file/a6084dedfa0bf46e28039.jpg",
+        "https://telegra.ph/file/900602feead66e182eba2.jpg",
+        "https://telegra.ph/file/17866b1c3e93a6128f72e.jpg",
+        "https://telegra.ph/file/f978338355695c85f49bc.jpg",
+        "https://telegra.ph/file/494fff8446276f43124a2.jpg",
+        "https://telegra.ph/file/3ed5cc4fbacbcc423a41d.jpg",
+        "https://telegra.ph/file/7dbcad71d17bbc22886e7.jpg",
+        "https://telegra.ph/file/0a9e8784951c3455fd6bf.jpg",
+        "https://telegra.ph/file/f3d96310ac7da9d9b7ab7.jpg",
+        "https://telegra.ph/file/4566b94b86b7ceec5f6b4.jpg",
+        "https://telegra.ph/file/e23a82e2fc1c35a8c80a9.jpg",
+        "https://telegra.ph/file/cfb964d741190086fb301.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14475,
+    "title": "(C95) [みどりねこ (みどり)] ハクマヨスケジュールPM (東方Project)",
+    "sourceUrl": "https://telegra.ph/C95-みどりねこ-みどり-ハクマヨスケジュールPM-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/4f47528caf973a447598f.jpg",
+        "https://telegra.ph/file/9f69c8380852e0169faff.jpg",
+        "https://telegra.ph/file/a005d5c651579d51400c3.jpg",
+        "https://telegra.ph/file/b5c8fc734d11720acbd51.jpg",
+        "https://telegra.ph/file/8f6352e54ce99b59c9d95.jpg",
+        "https://telegra.ph/file/137c7a894bbd1429d19e7.jpg",
+        "https://telegra.ph/file/32ffb9c37f611b3894236.jpg",
+        "https://telegra.ph/file/931af1f160ad972536374.jpg",
+        "https://telegra.ph/file/85f54fe4a1952ed55fb54.jpg",
+        "https://telegra.ph/file/2d98c8ee4be1d0848bad9.jpg",
+        "https://telegra.ph/file/b4581c127115f269abcec.jpg",
+        "https://telegra.ph/file/3afe4ac79f74da52cf4ed.jpg",
+        "https://telegra.ph/file/a8c57b4441993c255c7c5.jpg",
+        "https://telegra.ph/file/699c7c6dff6173b355558.jpg",
+        "https://telegra.ph/file/8ac05d75f3b11038f6d80.jpg",
+        "https://telegra.ph/file/38c954a831bbf83f83c16.jpg",
+        "https://telegra.ph/file/e1599a156e46d61f1a027.jpg",
+        "https://telegra.ph/file/db9fc469daf0b057ed0f9.jpg",
+        "https://telegra.ph/file/e8b38a49a4484136a6a3a.jpg",
+        "https://telegra.ph/file/daa0b3049ed4bfb4b3d5c.jpg",
+        "https://telegra.ph/file/e223db71514ecd5adec3e.jpg",
+        "https://telegra.ph/file/3cbadd1bfbe3103d166b5.jpg",
+        "https://telegra.ph/file/e856af9c62585aeb4f77d.jpg",
+        "https://telegra.ph/file/f8cfc2a71febcec093a80.jpg",
+        "https://telegra.ph/file/b6a8f0c20ec29ba5b5bea.jpg",
+        "https://telegra.ph/file/d54225867f9de2f7d25a5.jpg",
+        "https://telegra.ph/file/705ba4f0a628ec18e1421.jpg",
+        "https://telegra.ph/file/fa4e29f10bedb86f06ba6.jpg",
+        "https://telegra.ph/file/5027cf24bbfd3fd31a36b.jpg",
+        "https://telegra.ph/file/e38f03ea86784608f8985.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

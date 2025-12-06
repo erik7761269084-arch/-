@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10000,
+    "title": "[霧咲白狐] エキドナ様のひまつぶし2 第一話",
+    "sourceUrl": "https://telegra.ph/霧咲白狐-エキドナ様のひまつぶし2-第一話-08-31",
+    "images": [
+        "https://telegra.ph/file/da496f787ecfa54c31f95.jpg",
+        "https://telegra.ph/file/95a1fbc53b359b3a8c7b3.jpg",
+        "https://telegra.ph/file/3b514f8aba314f4a0baf3.jpg",
+        "https://telegra.ph/file/1c4f781caae6e9ffba6de.jpg",
+        "https://telegra.ph/file/260e1896a897aab2a3320.jpg",
+        "https://telegra.ph/file/86ff125369f84061b3cd1.jpg",
+        "https://telegra.ph/file/a7af869ee6c80a65eca04.jpg",
+        "https://telegra.ph/file/dbd9d1dbe8469f6e3c12f.jpg",
+        "https://telegra.ph/file/ae1b24566e970ba2b0ae7.jpg",
+        "https://telegra.ph/file/764694cf5fdc7fecb4c66.jpg",
+        "https://telegra.ph/file/76fa92fe258bde7906f1b.jpg",
+        "https://telegra.ph/file/3cbacd84fb0f4b6aefaab.jpg",
+        "https://telegra.ph/file/97b2cd5bb034a5c184eee.jpg",
+        "https://telegra.ph/file/b1b7eef24617e886613ab.jpg",
+        "https://telegra.ph/file/f25694644dc1d5833529d.jpg",
+        "https://telegra.ph/file/13d87eba633dfc066ad1a.jpg",
+        "https://telegra.ph/file/b753cc169791df64bf6d1.jpg",
+        "https://telegra.ph/file/7a927b686eec3788f4a6a.jpg",
+        "https://telegra.ph/file/2de679d3d531b84e3e6dc.jpg",
+        "https://telegra.ph/file/716affddffc8ec4e09fc2.jpg",
+        "https://telegra.ph/file/24729ab442f97c7440c4c.jpg",
+        "https://telegra.ph/file/9956d73112b2fb368ca4e.jpg",
+        "https://telegra.ph/file/e9d138c89034c423e147e.jpg",
+        "https://telegra.ph/file/ecc1413c06647b5574883.jpg",
+        "https://telegra.ph/file/137fe03dfb4e80c01599d.jpg",
+        "https://telegra.ph/file/7f981c7e87f7abe75f7ba.jpg",
+        "https://telegra.ph/file/e681b4be24f830bc41102.png",
+        "https://telegra.ph/file/58197c6178ff7029353fe.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1a6757ebf9d62bc7f1113.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

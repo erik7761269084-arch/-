@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16479,
+    "title": "(秋季例大祭11) [骨付きフリル (石川スペアリブ)] 見ていて、星屑のかがやき、無辜のまぼろし。 (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/秋季例大祭11-骨付きフリル-石川スペアリブ-見ていて星屑のかがやき無辜のまぼろし-東方Project--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/00.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/01.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/02.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/03.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/04.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/05.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/06.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/07.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/08.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/09.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/10.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/11.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/12.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/13.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/14.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/15.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/16.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/17.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/18.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/19.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/20.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/21.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/22.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/23_24.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/25.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/26.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/27.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/28.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/29.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/30.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/31.webp",
+        "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/32.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15915,
+    "title": "[果物一途(律空Rikuu)]妳願意嫁給我嗎？-Preview",
+    "sourceUrl": "https://telegra.ph/果物一途律空Rikuu妳願意嫁給我嗎-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/11b8339a72a802afe53e5.jpg",
+        "https://telegra.ph/file/c5f887140fd1dac923679.jpg",
+        "https://telegra.ph/file/1599e9634ca5bb48cef36.jpg",
+        "https://telegra.ph/file/77c6ce4c82770c2ecbd2e.jpg",
+        "https://telegra.ph/file/751bf66b8f966af14ff18.jpg",
+        "https://telegra.ph/file/29fc8ee5af38e31bbe81b.jpg",
+        "https://telegra.ph/file/98393add2f0a98a173f19.jpg",
+        "https://telegra.ph/file/303939e8e3a4d2d36b70c.jpg",
+        "https://telegra.ph/file/7c275fe08894ea495965f.jpg",
+        "https://telegra.ph/file/5fb245c0c01bc41a0d86d.jpg",
+        "https://telegra.ph/file/13451ab2c73133ff1a87d.jpg",
+        "https://telegra.ph/file/a437991d1d159b4f66414.jpg",
+        "https://telegra.ph/file/2a0632fa791d8674d70f5.jpg",
+        "https://telegra.ph/file/a70752199ac25f0e8dd80.jpg",
+        "https://telegra.ph/file/3b7632674296f6ae7b797.jpg",
+        "https://telegra.ph/file/cb81e57aaaf09818ed09c.jpg",
+        "https://telegra.ph/file/d4b8930b0a497f775be76.jpg",
+        "https://telegra.ph/file/05c3054fcb82652fa2296.jpg",
+        "https://telegra.ph/file/b7d282c7f0df3ab0affc8.jpg",
+        "https://telegra.ph/file/b916c2fd4271fd6a8b91b.jpg",
+        "https://telegra.ph/file/692c024171e87d368a70c.jpg",
+        "https://telegra.ph/file/ed99bdb635c0457a02d68.jpg",
+        "https://telegra.ph/file/adcfd6202c5216c92c688.jpg",
+        "https://telegra.ph/file/1e1256790d6fc460eb153.jpg",
+        "https://telegra.ph/file/c050ee573b1b79ba2e758.jpg",
+        "https://telegra.ph/file/cf94e861e8dd046490c4c.jpg",
+        "https://telegra.ph/file/2c30501fa58cd32a6a034.jpg",
+        "https://telegra.ph/file/0b9c9d3e7b4c7e7793bf5.jpg",
+        "https://telegra.ph/file/ba900be8478bd90728416.jpg",
+        "https://telegra.ph/file/3a6ec4c25827876b1dc75.jpg",
+        "https://telegra.ph/file/bc782608477032f795082.jpg",
+        "https://telegra.ph/file/f0fd6a216ae177e934f75.jpg",
+        "https://telegra.ph/file/bf2c7d1053587d1f029d6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

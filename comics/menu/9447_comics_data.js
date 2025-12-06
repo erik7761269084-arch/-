@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9447,
+    "title": "[Rhasta]貴妃ちゃんの新年活動",
+    "sourceUrl": "https://telegra.ph/Rhasta貴妃ちゃんの新年活動-08-31",
+    "images": [
+        "https://telegra.ph/file/44131db5dc58c495ee35e.jpg",
+        "https://telegra.ph/file/0f1691ac3125809add317.jpg",
+        "https://telegra.ph/file/811e9192a4a460ba23e4c.jpg",
+        "https://telegra.ph/file/676f263f6dd10b0df2d3b.jpg",
+        "https://telegra.ph/file/d6976ba668d92c14298bf.jpg",
+        "https://telegra.ph/file/09d0b8b8c1a282811641b.jpg",
+        "https://telegra.ph/file/191123717ff0a135fe12c.jpg",
+        "https://telegra.ph/file/e5a99585555b3368c73ad.jpg",
+        "https://telegra.ph/file/4e60538e06b20cf766d06.jpg",
+        "https://telegra.ph/file/705e469754ca605ca72a9.jpg",
+        "https://telegra.ph/file/25a20ea01ebf5228995a2.jpg",
+        "https://telegra.ph/file/f785b5611782f5762ad52.jpg",
+        "https://telegra.ph/file/4b6ccd9ada84229028fa6.jpg",
+        "https://telegra.ph/file/84dcf32275eb8060eaf1e.jpg",
+        "https://telegra.ph/file/c9b21e08f1395104eb1f8.jpg",
+        "https://telegra.ph/file/be08bb58a731701af1e36.jpg",
+        "https://telegra.ph/file/50beac2d475e1371e0280.jpg",
+        "https://telegra.ph/file/5345b51199389049c2714.jpg",
+        "https://telegra.ph/file/1cdaa6723e55f6eeb6c43.jpg",
+        "https://telegra.ph/file/6e7496d1b46da7f43c684.jpg",
+        "https://telegra.ph/file/d45246d96861114160e60.jpg",
+        "https://telegra.ph/file/4c7fa06d5b3d6688c8d32.jpg",
+        "https://telegra.ph/file/ade8f9f6e543cb4964f42.jpg",
+        "https://telegra.ph/file/b9581389e63185dc626ff.jpg",
+        "https://telegra.ph/file/71db004abc688a8526b11.jpg",
+        "https://telegra.ph/file/3ef8de7065d2837e6939f.jpg",
+        "https://telegra.ph/file/5967f35bc5ad803854228.jpg",
+        "https://telegra.ph/file/a32269f1ec429d50c84f0.jpg",
+        "https://telegra.ph/file/3d5355010fb7b88531242.jpg",
+        "https://telegra.ph/file/c61a7731ba63239c78b1e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

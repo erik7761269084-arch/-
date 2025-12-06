@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15771,
+    "title": "(C102) [梟の郵便屋さん (上戸ルリ)] 百花侑乱-桜 (ラブライブ!虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "sourceUrl": "https://telegra.ph/C102-梟の郵便屋さん-上戸ルリ-百花侑乱-桜-ラブライブ虹ヶ咲学園スクールアイドル同好会--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/0db5f246766c4ff9e2d6f.jpg",
+        "https://telegra.ph/file/140c822b46fc727ae0881.jpg",
+        "https://telegra.ph/file/14038ac19a86e6cada786.jpg",
+        "https://telegra.ph/file/a97cd4e6468b07a5e4c58.jpg",
+        "https://telegra.ph/file/cb12ce97315d8488e0180.jpg",
+        "https://telegra.ph/file/da2fd76e3e169851d33ea.jpg",
+        "https://telegra.ph/file/a2006c66339ca9d87fe1e.jpg",
+        "https://telegra.ph/file/f74d9a106235ddb0d6f44.jpg",
+        "https://telegra.ph/file/289f2e050d498c1eb6a51.jpg",
+        "https://telegra.ph/file/19bd04c879ad981600bef.jpg",
+        "https://telegra.ph/file/a0e177bbc985f54461197.jpg",
+        "https://telegra.ph/file/46fd9232255a097957019.jpg",
+        "https://telegra.ph/file/0fc9c8e1c68d92d6ed17f.jpg",
+        "https://telegra.ph/file/2549c9b5663db1962f6c3.jpg",
+        "https://telegra.ph/file/9d4c6b1cec8d6171ffe10.jpg",
+        "https://telegra.ph/file/37200327c0875e255be88.jpg",
+        "https://telegra.ph/file/1f798891ead706996d9a0.jpg",
+        "https://telegra.ph/file/899864ae30f04da3c55b7.jpg",
+        "https://telegra.ph/file/ea4f37d9c901d6400fc4e.jpg",
+        "https://telegra.ph/file/cf58883426885b9429cdd.jpg",
+        "https://telegra.ph/file/52a0854abc0fe731fe89e.jpg",
+        "https://telegra.ph/file/9955ab9172db19e7c4f95.jpg",
+        "https://telegra.ph/file/8795d2d6fb576e4418dc2.jpg",
+        "https://telegra.ph/file/d11b0b3e9b82e3a915be7.jpg",
+        "https://telegra.ph/file/888c9b3c0a6e7c091fd7b.jpg",
+        "https://telegra.ph/file/365a60cb46db62de6c7fa.jpg",
+        "https://telegra.ph/file/11e7ce83787cb66a802ed.jpg",
+        "https://telegra.ph/file/f7beaea59de0dde7d2477.jpg",
+        "https://telegra.ph/file/582d13afb48ccff4962be.jpg",
+        "https://telegra.ph/file/4010a4c0673e2b076e584.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

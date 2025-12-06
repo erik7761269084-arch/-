@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13865,
+    "title": "[野石竹] 義姉がエロ水着で誘ってくる",
+    "sourceUrl": "https://telegra.ph/野石竹-義姉がエロ水着で誘ってくる-08-31",
+    "images": [
+        "https://telegra.ph/file/55a7e3830ffe1b83374c6.jpg",
+        "https://telegra.ph/file/99063cfdfb62fd5e4eeda.jpg",
+        "https://telegra.ph/file/7817ab0938350ff377e0e.jpg",
+        "https://telegra.ph/file/e58fd375684cfe507c3d2.jpg",
+        "https://telegra.ph/file/f566218d8bd38f5d1fca2.jpg",
+        "https://telegra.ph/file/876ff9bdfd30a7a804305.jpg",
+        "https://telegra.ph/file/ed5c5174e719199d0516b.jpg",
+        "https://telegra.ph/file/d114ce5af7609f02a1c65.jpg",
+        "https://telegra.ph/file/f51c0909891fb9fc481bc.jpg",
+        "https://telegra.ph/file/89fd9f34dd30a8ae5b078.jpg",
+        "https://telegra.ph/file/e132e94aeb583029852ae.jpg",
+        "https://telegra.ph/file/61062e1ca35de0d8116cb.jpg",
+        "https://telegra.ph/file/3425e5e4e11ca287fbfa9.jpg",
+        "https://telegra.ph/file/d470b64b0fc2afb61c066.jpg",
+        "https://telegra.ph/file/12dac4f9f8ecd1a256424.jpg",
+        "https://telegra.ph/file/2f8988b1cb28d82b55752.jpg",
+        "https://telegra.ph/file/642b70ce24304203f378d.jpg",
+        "https://telegra.ph/file/f5d59d22f1b44d695a25a.jpg",
+        "https://telegra.ph/file/d7b58ac741dddb44a2d31.jpg",
+        "https://telegra.ph/file/b4d1b08eafd5dfed447d5.jpg",
+        "https://telegra.ph/file/c370292c9b889bef920a7.jpg",
+        "https://telegra.ph/file/04c10fb5afc2c600f57d6.jpg",
+        "https://telegra.ph/file/0a88848612907f80488b6.jpg",
+        "https://telegra.ph/file/07d4a1fb6044f2debcf14.jpg",
+        "https://telegra.ph/file/e23049488c23c1af013a9.jpg",
+        "https://telegra.ph/file/b69d2e07826211268a392.jpg",
+        "https://telegra.ph/file/1adf91c11a3fe88dae257.jpg",
+        "https://telegra.ph/file/73be767c9f6991d286605.jpg",
+        "https://telegra.ph/file/3db77daf4ced0275255b5.jpg",
+        "https://telegra.ph/file/5d2a783529b8899846cee.jpg",
+        "https://telegra.ph/file/6a3006d8ce4df39d42a87.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

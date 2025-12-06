@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8001,
+    "title": "[すまいるふぉらんかんぱにぃ (むうつき、雪仁)] ワカラセ～黒ギャルアカネのカップル同時制裁～",
+    "sourceUrl": "https://telegra.ph/すまいるふぉらんかんぱにぃ-むうつき雪仁-ワカラセ黒ギャルアカネのカップル同時制裁-08-31",
+    "images": [
+        "https://telegra.ph/file/539ff280211804805aee6.jpg",
+        "https://telegra.ph/file/c6b3d1adf46c99a907db9.jpg",
+        "https://telegra.ph/file/934cd9537268490c468d1.jpg",
+        "https://telegra.ph/file/511eebaf990b9b39ce59b.jpg",
+        "https://telegra.ph/file/a3792a8e9caabdd483047.jpg",
+        "https://telegra.ph/file/de4ff12497b3fcf19a539.jpg",
+        "https://telegra.ph/file/5aeb50afd6650d49ab06c.jpg",
+        "https://telegra.ph/file/096308f4db86a6ccf36d0.jpg",
+        "https://telegra.ph/file/7ef603e6b5566f34854c4.jpg",
+        "https://telegra.ph/file/aa17c659a514c88e58348.jpg",
+        "https://telegra.ph/file/accea626565e41f1d01b8.jpg",
+        "https://telegra.ph/file/03b507e0435db90a7856f.jpg",
+        "https://telegra.ph/file/b60f349a8690a7d7b4ce9.jpg",
+        "https://telegra.ph/file/30aaeeef3945d4ce238b7.jpg",
+        "https://telegra.ph/file/5747b0ef1e601577f2d4b.jpg",
+        "https://telegra.ph/file/15e06ba248240ce79727d.jpg",
+        "https://telegra.ph/file/36b7cb1a725753d4badf5.jpg",
+        "https://telegra.ph/file/0b9b3fb1ec8d53df07ac3.jpg",
+        "https://telegra.ph/file/9074df3e62a06685ebcbd.jpg",
+        "https://telegra.ph/file/fce01718de9828b7acca2.jpg",
+        "https://telegra.ph/file/cbfdcf6b2df57c6e5135e.jpg",
+        "https://telegra.ph/file/522d33fcaba7d16ce25c3.jpg",
+        "https://telegra.ph/file/684ea71f73c736ab7feb2.jpg",
+        "https://telegra.ph/file/b0e3a187de44dc0fbabf3.jpg",
+        "https://telegra.ph/file/3d6741e83ef7001e03110.jpg",
+        "https://telegra.ph/file/ddab56c7ee654361275a9.jpg",
+        "https://telegra.ph/file/7bbf4030b79a37a8b876a.jpg",
+        "https://telegra.ph/file/7ab27021ebc72856f4dcf.jpg",
+        "https://telegra.ph/file/9fcc5a0bd0d8f27aec562.jpg",
+        "https://telegra.ph/file/2f625ad4b27c2d5b65c5c.jpg",
+        "https://telegra.ph/file/b4948c6dbf97a89500779.jpg",
+        "https://telegra.ph/file/21898b2a5a9546b046832.jpg",
+        "https://telegra.ph/file/b135d81169cfcb6af4eff.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

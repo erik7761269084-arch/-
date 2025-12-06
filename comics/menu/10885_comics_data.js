@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10885,
+    "title": "[山田タヒチ] 人妻通販 第6話 (Web コミックトウテツ Vol.43)",
+    "sourceUrl": "https://telegra.ph/山田タヒチ-人妻通販-第6話-Web-コミックトウテツ-Vol43-08-31",
+    "images": [
+        "https://telegra.ph/file/b758ecde0b5457c7673f1.jpg",
+        "https://telegra.ph/file/79ae968a7b79b730f14de.jpg",
+        "https://telegra.ph/file/eec6cc71537190b897359.jpg",
+        "https://telegra.ph/file/ace04c5afa039eb63465f.jpg",
+        "https://telegra.ph/file/ad362333456be3f5a256f.jpg",
+        "https://telegra.ph/file/ea19ea3dc373fefcd7760.jpg",
+        "https://telegra.ph/file/f8c3b26dce5a39afafdd4.jpg",
+        "https://telegra.ph/file/687354fdf36a37c6cbfb3.jpg",
+        "https://telegra.ph/file/b614beaf54f9dae86827d.jpg",
+        "https://telegra.ph/file/992c4e2aea4ad20cf1a88.jpg",
+        "https://telegra.ph/file/7b9ff51c7dfa16762f0ac.jpg",
+        "https://telegra.ph/file/db8f75cf531e870aaa2fa.jpg",
+        "https://telegra.ph/file/a5430babe65d823a07916.jpg",
+        "https://telegra.ph/file/9dc579dd94a7e47d05d32.jpg",
+        "https://telegra.ph/file/3414bc1f630d771828e95.jpg",
+        "https://telegra.ph/file/f6ed532c8c12cb304546e.jpg",
+        "https://telegra.ph/file/d64504c21772af6739c3e.jpg",
+        "https://telegra.ph/file/1af820f5fae3c5ebbc79c.jpg",
+        "https://telegra.ph/file/96b4d1b1fba2ca0881ff5.jpg",
+        "https://telegra.ph/file/6c231ac155130a8aa07fa.jpg",
+        "https://telegra.ph/file/d56c57c1933b6a077cd97.jpg",
+        "https://telegra.ph/file/fe83c5190f643afc59c62.jpg",
+        "https://telegra.ph/file/51ca78437ca5aa11656a1.jpg",
+        "https://telegra.ph/file/6f1145f5fa4432e9ffbdc.jpg",
+        "https://telegra.ph/file/a3b776049cffa88dc3bec.jpg",
+        "https://telegra.ph/file/2a4e1cb4f20d7bf01a763.jpg",
+        "https://telegra.ph/file/01a43ce6ddf0f480ff207.jpg",
+        "https://telegra.ph/file/393161820a46f15881a44.jpg",
+        "https://telegra.ph/file/7f1413adf3d1d9531feb8.jpg",
+        "https://telegra.ph/file/8620bdecaab8616775a15.jpg",
+        "https://telegra.ph/file/3bdcd0bf0b8cb0a17b268.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 14104,
+    "title": "[noah's room (noah12)] リゼるる催眠 (鈴原るる、リゼ・ヘルエスタ)",
+    "sourceUrl": "https://telegra.ph/noahs-room-noah12-リゼるる催眠-鈴原るるリゼヘルエスタ-08-31",
+    "images": [
+        "https://telegra.ph/file/05efb517ba7ec8e5cba5d.jpg",
+        "https://telegra.ph/file/e451fea0b28b885d330c6.jpg",
+        "https://telegra.ph/file/2ae62657477a60e232132.jpg",
+        "https://telegra.ph/file/d21e179a3161ba00f773d.jpg",
+        "https://telegra.ph/file/45d00019694034540d9c6.jpg",
+        "https://telegra.ph/file/d618669e490f9ddfd736d.jpg",
+        "https://telegra.ph/file/ce4813320423dc6e419da.jpg",
+        "https://telegra.ph/file/a56c01bd3447b4f14bd29.jpg",
+        "https://telegra.ph/file/607d3c0310d1303805f7a.jpg",
+        "https://telegra.ph/file/73055b42b2d95ea48ae32.jpg",
+        "https://telegra.ph/file/174742ffc1160182be8e6.jpg",
+        "https://telegra.ph/file/729eba0fc3ce6405a5cdc.jpg",
+        "https://telegra.ph/file/90a335f93e372da3a3fd7.jpg",
+        "https://telegra.ph/file/36b263d716847a0b1134a.jpg",
+        "https://telegra.ph/file/7f51851a441920bbf5c26.jpg",
+        "https://telegra.ph/file/195e6406e731bc969d97f.jpg",
+        "https://telegra.ph/file/6a376cd552906921e6cad.jpg",
+        "https://telegra.ph/file/965dc9f0b322230062002.jpg",
+        "https://telegra.ph/file/ab95a9ffdd97b72b55283.jpg",
+        "https://telegra.ph/file/95933ca4f262e6b0ee8c1.jpg",
+        "https://telegra.ph/file/012bfb40479d94215b7f2.jpg",
+        "https://telegra.ph/file/5e5ae513f82d981d8ccb3.jpg",
+        "https://telegra.ph/file/c7aa9ff996c94930aa323.jpg",
+        "https://telegra.ph/file/17cb17823b5e6dab14b0d.jpg",
+        "https://telegra.ph/file/aefab46f6efe104c481d5.jpg",
+        "https://telegra.ph/file/df11fb224525cd31cdc23.jpg",
+        "https://telegra.ph/file/e814cf08b358dc4841b21.jpg",
+        "https://telegra.ph/file/b77dc4fb2968a67262b14.jpg",
+        "https://telegra.ph/file/6ebfa11fb81b483c1af56.jpg",
+        "https://telegra.ph/file/dfea088379c41b4ccdf2c.jpg",
+        "https://telegra.ph/file/3378fa8b26bc20a528c77.jpg",
+        "https://telegra.ph/file/3d2d9448bcd4fb4b3405a.jpg",
+        "https://telegra.ph/file/0c132775b3c8c66070f9b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

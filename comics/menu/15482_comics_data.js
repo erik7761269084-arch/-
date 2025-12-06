@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15482,
+    "title": "(僕らのラブライブ! 37) [帰宅時間 (きたく)] 今宵はオイルマッサージ 同好会へ (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-37-帰宅時間-きたく-今宵はオイルマッサージ-同好会へ-ラブライブ-虹ヶ咲学園スクールアイドル同好会--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/936e338edbd4edc577d2c.jpg",
+        "https://telegra.ph/file/099c3d7875d261d3d6fcd.jpg",
+        "https://telegra.ph/file/c9db66f5d7c9ed115e6e3.jpg",
+        "https://telegra.ph/file/c3c5b76fbddf4ea8fe6bc.jpg",
+        "https://telegra.ph/file/80fb5249ebf0a5e46f70b.jpg",
+        "https://telegra.ph/file/869f2586348f1377b3df2.jpg",
+        "https://telegra.ph/file/93631a403dbef850f386d.jpg",
+        "https://telegra.ph/file/5fe62431a3dc51d4a6e3d.jpg",
+        "https://telegra.ph/file/00eb977024ffeed98278f.jpg",
+        "https://telegra.ph/file/e1286cca4f8d939f1fdbe.jpg",
+        "https://telegra.ph/file/7b88035aec75757de3aad.jpg",
+        "https://telegra.ph/file/a79ce35f4c477501d565c.jpg",
+        "https://telegra.ph/file/a70a19c7f3fb077cac506.jpg",
+        "https://telegra.ph/file/3503c06c27e2e213811a7.jpg",
+        "https://telegra.ph/file/044c6ecd05a080583ceac.jpg",
+        "https://telegra.ph/file/eb880c737ffbecbd69f6d.jpg",
+        "https://telegra.ph/file/37c04f6ca43f70a457b9d.jpg",
+        "https://telegra.ph/file/2510223a7bfe01af058e1.jpg",
+        "https://telegra.ph/file/4ad299db02ba0f6de17d7.jpg",
+        "https://telegra.ph/file/4c2c781ff4b06defb9001.jpg",
+        "https://telegra.ph/file/294329a53ff51895ccf6a.jpg",
+        "https://telegra.ph/file/2a44a6635bb4ae949513d.jpg",
+        "https://telegra.ph/file/d641bfbbbe89805fd719f.jpg",
+        "https://telegra.ph/file/caef40f6da3c35bd274a1.jpg",
+        "https://telegra.ph/file/7d0f64f1fe6c4176c82be.jpg",
+        "https://telegra.ph/file/c3abf4f57ef4dae537eef.jpg",
+        "https://telegra.ph/file/cd11e3ea0e953e76d964e.jpg",
+        "https://telegra.ph/file/e8a8de119a881a1ec1c62.jpg",
+        "https://telegra.ph/file/39689c99e97d7f6ce770b.jpg",
+        "https://telegra.ph/file/89c4a31df388a52325f46.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

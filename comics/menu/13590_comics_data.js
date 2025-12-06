@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13590,
+    "title": "(C100) [林檎のなる木 (木瀬樹)] はじめて名前で。 (To LOVEる -とらぶる-)",
+    "sourceUrl": "https://telegra.ph/C100-林檎のなる木-木瀬樹-はじめて名前で-To-LOVEる--とらぶる-08-31",
+    "images": [
+        "https://telegra.ph/file/266fdd4e9ef868ba2e823.jpg",
+        "https://telegra.ph/file/3a92e155ca8af466c947a.jpg",
+        "https://telegra.ph/file/2cf83cce630f3b1c20fed.jpg",
+        "https://telegra.ph/file/056d2e330f57d5006fd51.jpg",
+        "https://telegra.ph/file/acf75a1049c89c44a26a2.jpg",
+        "https://telegra.ph/file/d8b7117b5dcbaf6859e24.jpg",
+        "https://telegra.ph/file/1de424dede37902b96f5e.jpg",
+        "https://telegra.ph/file/cc5e1d4ffd6065b226ac8.jpg",
+        "https://telegra.ph/file/e8915061e65a306efd1d3.jpg",
+        "https://telegra.ph/file/f0529c966981c04ec3052.jpg",
+        "https://telegra.ph/file/31251a8ce99684dec1e6a.jpg",
+        "https://telegra.ph/file/52757022929e39f66a6b4.jpg",
+        "https://telegra.ph/file/56d21d78192715247bea2.jpg",
+        "https://telegra.ph/file/8a0fde92578fa9017982f.jpg",
+        "https://telegra.ph/file/62d0b3a008f70a6540926.jpg",
+        "https://telegra.ph/file/2dee3988039f99c466302.jpg",
+        "https://telegra.ph/file/25972546fd7d5c50dba14.jpg",
+        "https://telegra.ph/file/a73c2fa88285eac053a2f.jpg",
+        "https://telegra.ph/file/2ff6c2e2c3a9fcba0961b.jpg",
+        "https://telegra.ph/file/4ca450804860bdae12104.jpg",
+        "https://telegra.ph/file/7753300ac0f13345c5b47.jpg",
+        "https://telegra.ph/file/a5016bf8d86c58d7a790e.jpg",
+        "https://telegra.ph/file/539cd992ea622d183b3fa.jpg",
+        "https://telegra.ph/file/ca133b336315165c925b3.jpg",
+        "https://telegra.ph/file/f6484345dc8490df17950.jpg",
+        "https://telegra.ph/file/07c3ea5bb003942f035bf.jpg",
+        "https://telegra.ph/file/820951750053b58bf33b7.jpg",
+        "https://telegra.ph/file/f36756e21754ca26c8278.jpg",
+        "https://telegra.ph/file/52d51ce49373e80220511.jpg",
+        "https://telegra.ph/file/587bf335390394cf8099d.jpg",
+        "https://telegra.ph/file/a7c5abebe73aa8e656bb6.jpg",
+        "https://telegra.ph/file/7899d273a9890517379b2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

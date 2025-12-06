@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8647,
+    "title": "(C79) [みたらし倶楽部 (みたらし侯成)] 秋子さんといっしょ 7 (カノン)",
+    "sourceUrl": "https://telegra.ph/C79-みたらし倶楽部-みたらし侯成-秋子さんといっしょ-7-カノン-08-31",
+    "images": [
+        "https://telegra.ph/file/90e48583bcfec11bcd5dd.jpg",
+        "https://telegra.ph/file/ff20128347ce5d5827cc7.jpg",
+        "https://telegra.ph/file/634cecc5f82dcc6e4de10.jpg",
+        "https://telegra.ph/file/8ed3c189be6303c57bb29.jpg",
+        "https://telegra.ph/file/8daa371170e3c84eb1f6a.jpg",
+        "https://telegra.ph/file/cb391ff83c332a4a05048.jpg",
+        "https://telegra.ph/file/a1d53aa96a7e11fad6d6e.jpg",
+        "https://telegra.ph/file/d7c92cd9a57df52b85f5b.jpg",
+        "https://telegra.ph/file/dbc5c8d9f066f0db9a3b8.jpg",
+        "https://telegra.ph/file/9561b918deac1bac70bc2.jpg",
+        "https://telegra.ph/file/5956c4aaacc5ea8e28ae4.jpg",
+        "https://telegra.ph/file/758e5ebab0659b9315f51.jpg",
+        "https://telegra.ph/file/8dcc361769986afbd5223.jpg",
+        "https://telegra.ph/file/642df425c3f18b5b336c9.jpg",
+        "https://telegra.ph/file/796dd1ffd71c1b153ed2f.jpg",
+        "https://telegra.ph/file/bfbc5380efe512353a412.jpg",
+        "https://telegra.ph/file/455adee92e94563fe11e9.jpg",
+        "https://telegra.ph/file/c6b2e2acf13b1100a880c.jpg",
+        "https://telegra.ph/file/93329b58c95482f0f6b67.jpg",
+        "https://telegra.ph/file/85af5122c5dff43effe88.jpg",
+        "https://telegra.ph/file/c18d06f7ed1dd19a94496.jpg",
+        "https://telegra.ph/file/3c9fba4953c017d1baa3d.jpg",
+        "https://telegra.ph/file/72fa9ea7b644bc508b200.jpg",
+        "https://telegra.ph/file/3cf217477248bead21559.jpg",
+        "https://telegra.ph/file/c4e4b5177ccbe69ad461f.jpg",
+        "https://telegra.ph/file/e9bcaa220789957c26706.jpg",
+        "https://telegra.ph/file/59043a7dea30b173808e3.jpg",
+        "https://telegra.ph/file/51c96ef5dbaad350988d0.jpg",
+        "https://telegra.ph/file/9db4d5b44476ca63bc819.jpg",
+        "https://telegra.ph/file/5d27f1c6147022e94f8f5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

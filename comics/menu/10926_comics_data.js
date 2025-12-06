@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10926,
+    "title": "[小野いたる] おばさんの穴 第1-2話",
+    "sourceUrl": "https://telegra.ph/小野いたる-おばさんの穴-第1-2話-08-31",
+    "images": [
+        "https://telegra.ph/file/ea45ef4ef2ea1bedb608e.jpg",
+        "https://telegra.ph/file/de5fa098e6fa096946b52.jpg",
+        "https://telegra.ph/file/4fb6139870f3718b139b9.jpg",
+        "https://telegra.ph/file/08f5f5a605cf6ec079823.jpg",
+        "https://telegra.ph/file/5c428b19371505e145778.jpg",
+        "https://telegra.ph/file/e37ac14596280f8c4940f.jpg",
+        "https://telegra.ph/file/90c0ba3af92fae5990076.jpg",
+        "https://telegra.ph/file/f0681fafc189478facc92.jpg",
+        "https://telegra.ph/file/418d38d2e25b7e008867a.jpg",
+        "https://telegra.ph/file/69dd5793917a217b5cdc8.jpg",
+        "https://telegra.ph/file/e4810dba1d548b67d5b2d.jpg",
+        "https://telegra.ph/file/e1ace16875c24b33684f9.jpg",
+        "https://telegra.ph/file/3c87cea5925777f8d2804.jpg",
+        "https://telegra.ph/file/92c8ed4f0d6b7325144cb.jpg",
+        "https://telegra.ph/file/001b287c234d94c8ef8af.jpg",
+        "https://telegra.ph/file/77ce901b153eb477f69b8.jpg",
+        "https://telegra.ph/file/6dc82779b9d064cccfd97.jpg",
+        "https://telegra.ph/file/27abf0c94c70cd7920b01.jpg",
+        "https://telegra.ph/file/cc21aaa027c5b1e5b8264.jpg",
+        "https://telegra.ph/file/d6b9b9b153994ab06c011.jpg",
+        "https://telegra.ph/file/b4dbb5495e25041fe8e65.jpg",
+        "https://telegra.ph/file/252ac51a9489f9c1a6d5e.jpg",
+        "https://telegra.ph/file/e47107e9b0d27d6eabb7d.jpg",
+        "https://telegra.ph/file/d42640f7ff440f7a4a652.jpg",
+        "https://telegra.ph/file/953ba596abe11d89f61a9.jpg",
+        "https://telegra.ph/file/b6ed78890ab38d86c0e09.jpg",
+        "https://telegra.ph/file/fca601f7f00faa9e6777c.jpg",
+        "https://telegra.ph/file/4ff41227d01b022975956.jpg",
+        "https://telegra.ph/file/a35d63e61944933bf0be2.jpg",
+        "https://telegra.ph/file/810b5a0e15261ec5b000d.jpg",
+        "https://telegra.ph/file/494a0f60723e90a4196f2.jpg",
+        "https://telegra.ph/file/f93019475c6505cee2165.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

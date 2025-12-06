@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11151,
+    "title": "(C91) [アビオン村 (ジョニー)] パンプキンヘッドは二度嗤う (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/C91-アビオン村-ジョニー-パンプキンヘッドは二度嗤う-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/28a1631e0ea5a948d241a.jpg",
+        "https://telegra.ph/file/e63a332d9ce846f2346b8.jpg",
+        "https://telegra.ph/file/a8d783ad142cbb44d4d9a.jpg",
+        "https://telegra.ph/file/de8d37eedced2395a7a11.jpg",
+        "https://telegra.ph/file/ef973d55839a804fc9a18.jpg",
+        "https://telegra.ph/file/3f085543443d36efea405.jpg",
+        "https://telegra.ph/file/b0693d71f756a20565ad3.jpg",
+        "https://telegra.ph/file/33fb4eb949c8b8263505c.jpg",
+        "https://telegra.ph/file/dfc9bfc4324bf404a076c.jpg",
+        "https://telegra.ph/file/b4a483f5538c81a520eee.jpg",
+        "https://telegra.ph/file/9feb0c1ab7d60d5681356.jpg",
+        "https://telegra.ph/file/71ad01000ba7cb010a1ef.jpg",
+        "https://telegra.ph/file/386365c6ae72fd2272831.jpg",
+        "https://telegra.ph/file/6c6ed1ac19bb22b24a8f2.jpg",
+        "https://telegra.ph/file/419618c04a3ba9968d781.jpg",
+        "https://telegra.ph/file/1c6facc1900ab38aa1285.jpg",
+        "https://telegra.ph/file/4575fd31630825139eb29.jpg",
+        "https://telegra.ph/file/20117205db734eba149e6.jpg",
+        "https://telegra.ph/file/542b777b8c066a6553d59.jpg",
+        "https://telegra.ph/file/2204ce03c4d1e2fdadbc6.jpg",
+        "https://telegra.ph/file/c3a06a62fbfe114284abc.jpg",
+        "https://telegra.ph/file/3e3ff515b029d507190a7.jpg",
+        "https://telegra.ph/file/c91977229fe5e9ecb6fdd.jpg",
+        "https://telegra.ph/file/f9c2e96462c159f74e072.jpg",
+        "https://telegra.ph/file/98e3a776efcf0bc107bab.jpg",
+        "https://telegra.ph/file/53fab332137b06f9d2a01.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

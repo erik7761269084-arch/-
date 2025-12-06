@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11842,
+    "title": "[U羅漢] いいなり友だちママをサウナで乳弄り",
+    "sourceUrl": "https://telegra.ph/U羅漢-いいなり友だちママをサウナで乳弄り-08-31",
+    "images": [
+        "https://telegra.ph/file/5b75508796a5c8994ebd9.jpg",
+        "https://telegra.ph/file/72af70e928d7e7194581e.jpg",
+        "https://telegra.ph/file/bfc1a010117ee3e2cdc1c.jpg",
+        "https://telegra.ph/file/88af1b9e9f4c4c0320a5e.jpg",
+        "https://telegra.ph/file/d240c0e9e1ab0b3d4ed52.jpg",
+        "https://telegra.ph/file/a4fbcfa82175eaa890b21.jpg",
+        "https://telegra.ph/file/fd4db07657d7d78f1a925.jpg",
+        "https://telegra.ph/file/1b1abaacba3c7211acc00.jpg",
+        "https://telegra.ph/file/9d1a4e771f9d74dd5b417.jpg",
+        "https://telegra.ph/file/9760aac6c28e18c43a7d3.jpg",
+        "https://telegra.ph/file/9200f0658e88604821b49.jpg",
+        "https://telegra.ph/file/5b303b2f9e7a659ef8192.jpg",
+        "https://telegra.ph/file/340fc4364dd084738901b.jpg",
+        "https://telegra.ph/file/5e4b7507ac2574138fc15.jpg",
+        "https://telegra.ph/file/07f04e560002767de002a.jpg",
+        "https://telegra.ph/file/63769c4f54a7443112288.jpg",
+        "https://telegra.ph/file/058eeef42155d1f5f04b9.jpg",
+        "https://telegra.ph/file/7ec0821623db5235c32f1.jpg",
+        "https://telegra.ph/file/99343fa2e5b018206f93b.jpg",
+        "https://telegra.ph/file/b304c78d4b3da731bbdb0.jpg",
+        "https://telegra.ph/file/2197852dd433322de166a.jpg",
+        "https://telegra.ph/file/b7119803b5dad2e6c14b8.jpg",
+        "https://telegra.ph/file/b0bb21f8d33cd7bfb77c4.jpg",
+        "https://telegra.ph/file/40841f74a1fe9206baf64.jpg",
+        "https://telegra.ph/file/3e92d868e15fae2249865.jpg",
+        "https://telegra.ph/file/aa657e0ba44fb22fd0328.jpg",
+        "https://telegra.ph/file/e405b8776e364deff47c6.jpg",
+        "https://telegra.ph/file/b187d17316fbffb3e4bac.jpg",
+        "https://telegra.ph/file/6ed23a9a50ebd8fc09fab.jpg",
+        "https://telegra.ph/file/2839bde15fa6f45b6ca66.jpg",
+        "https://telegra.ph/file/381b7b34e40f9c7eaf884.jpg",
+        "https://telegra.ph/file/da781aec896606d56c5b3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10348,
+    "title": "[コブラノヲヤツ (こぶらっこ)] 白狐ノ宴 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/コブラノヲヤツ-こぶらっこ-白狐ノ宴-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/f69ad0fb26c038647d682.jpg",
+        "https://telegra.ph/file/76a9b5c9b8f2a31905493.jpg",
+        "https://telegra.ph/file/2ea87c004cbcc5604ee81.jpg",
+        "https://telegra.ph/file/c47c1b893d84a21dffc56.jpg",
+        "https://telegra.ph/file/e1ec6b8a97e6cc320044a.jpg",
+        "https://telegra.ph/file/894a5e7f982307666667a.jpg",
+        "https://telegra.ph/file/cca976555614e66651ce9.jpg",
+        "https://telegra.ph/file/e6a67374c3462fa9a4585.jpg",
+        "https://telegra.ph/file/04cf34abdbaf040770e93.jpg",
+        "https://telegra.ph/file/c739507cdf17c8b6500a3.jpg",
+        "https://telegra.ph/file/94de6e3c1689377c0b0ba.jpg",
+        "https://telegra.ph/file/776063ddefad98186f73c.jpg",
+        "https://telegra.ph/file/fdef1734661f746cd90f5.jpg",
+        "https://telegra.ph/file/08802ecadc358dde684ef.jpg",
+        "https://telegra.ph/file/5c015f281d4777f0b630a.jpg",
+        "https://telegra.ph/file/3b43615a178ce38aa2f90.jpg",
+        "https://telegra.ph/file/6ee18a2046b414a002feb.jpg",
+        "https://telegra.ph/file/a1a0354ea50d503adedbe.jpg",
+        "https://telegra.ph/file/09be64c1e5aab5809d1b6.jpg",
+        "https://telegra.ph/file/057e568d38040f8457f77.jpg",
+        "https://telegra.ph/file/e967d353d92784c989b31.jpg",
+        "https://telegra.ph/file/06384eb1c90a2bad635b2.jpg",
+        "https://telegra.ph/file/f3ccdc4a4b5985062df7d.jpg",
+        "https://telegra.ph/file/c46734598ace9c0f2d46f.jpg",
+        "https://telegra.ph/file/ae2816f5179bb92a9eda2.jpg",
+        "https://telegra.ph/file/16946cfdaf76fa7bd6112.jpg",
+        "https://telegra.ph/file/17b4b950287cd64f3da3e.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

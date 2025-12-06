@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10623,
+    "title": "[7×2] 遠い星を見る (COMIC 快楽天ビースト 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/72-遠い星を見る-COMIC-快楽天ビースト-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/fbd55a35a68d36d52fd8b.jpg",
+        "https://telegra.ph/file/0d3ec1d1549a65274948b.jpg",
+        "https://telegra.ph/file/2aa6bd8e5eebad1e7a137.jpg",
+        "https://telegra.ph/file/ca04e313d85920659a49a.jpg",
+        "https://telegra.ph/file/e3e0477537bd65cb861f2.jpg",
+        "https://telegra.ph/file/441fe7d09c83216e77ad9.jpg",
+        "https://telegra.ph/file/c4acff7552946eac107d3.jpg",
+        "https://telegra.ph/file/eee321a57a3d48fbf6280.jpg",
+        "https://telegra.ph/file/5a74f4802d5639c0b4719.jpg",
+        "https://telegra.ph/file/1839b2a8efc760848e93b.jpg",
+        "https://telegra.ph/file/0256ede9db4aeb3cdccc9.jpg",
+        "https://telegra.ph/file/edecf8721681c03f9d688.jpg",
+        "https://telegra.ph/file/f137a96eca43cac353c4a.jpg",
+        "https://telegra.ph/file/aec41432f0bca2e4f348e.jpg",
+        "https://telegra.ph/file/e10ef9e779428780330ee.jpg",
+        "https://telegra.ph/file/83b75711d211d30b57439.jpg",
+        "https://telegra.ph/file/cf7d914e24e7a16b0e05f.jpg",
+        "https://telegra.ph/file/2347e4186267b5fc75759.jpg",
+        "https://telegra.ph/file/8a103a6214d55da203dbc.jpg",
+        "https://telegra.ph/file/b6a1c84c77f956f5b5d1c.jpg",
+        "https://telegra.ph/file/e117cb3eaf30c187fd608.jpg",
+        "https://telegra.ph/file/ac966b8ec78291f2d95ba.jpg",
+        "https://telegra.ph/file/7728d8ef228a6d26b5364.jpg",
+        "https://telegra.ph/file/a980ba95bf4b007d8b2eb.jpg",
+        "https://telegra.ph/file/a5e9cf699ca07f3930038.jpg",
+        "https://telegra.ph/file/182410d6cbea0aec69ad2.jpg",
+        "https://telegra.ph/file/971531a9e3cd2cb9af6db.jpg",
+        "https://telegra.ph/file/b31e3f1142685eb5389a4.jpg",
+        "https://telegra.ph/file/505683bacc5eeb6cfab4e.jpg",
+        "https://telegra.ph/file/5e70706c72beafc4aca31.jpg",
+        "https://telegra.ph/file/2facec7b83a838cdf50cd.jpg",
+        "https://telegra.ph/file/c9d9eb634465dd67ecd30.jpg",
+        "https://telegra.ph/file/366a558d590faaa844d63.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

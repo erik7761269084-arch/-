@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 14067,
+    "title": "[すこぶるやま (イトハナ)] シークレットライナーSR1便～夜行バスの●校生痴女～",
+    "sourceUrl": "https://telegra.ph/すこぶるやま-イトハナ-シークレットライナーSR1便夜行バスの校生痴女-08-31",
+    "images": [
+        "https://telegra.ph/file/6a66f6483ac2fb9592ede.jpg",
+        "https://telegra.ph/file/28cd943ebb6d734321892.jpg",
+        "https://telegra.ph/file/90470f1514b16b05495e7.jpg",
+        "https://telegra.ph/file/4c11bac63b3d875d4392b.jpg",
+        "https://telegra.ph/file/bbdd1d7345854e68f7841.jpg",
+        "https://telegra.ph/file/0840d089c8931e5f8b22e.jpg",
+        "https://telegra.ph/file/2188fcd86249958f7a36a.jpg",
+        "https://telegra.ph/file/8083c5313d1edf3f98b1f.jpg",
+        "https://telegra.ph/file/cb70c80189dda5e9e0f5d.jpg",
+        "https://telegra.ph/file/8ca50d16b944da1907e02.jpg",
+        "https://telegra.ph/file/19334ea0f35021c3687fd.jpg",
+        "https://telegra.ph/file/a6e95c5b3e06a43e7aa6f.jpg",
+        "https://telegra.ph/file/ca958fc7629f73ad51eec.jpg",
+        "https://telegra.ph/file/01eb9dfacf67738eab115.jpg",
+        "https://telegra.ph/file/4d22554e9bb57969b2173.jpg",
+        "https://telegra.ph/file/58f671699dce78e8dc12e.jpg",
+        "https://telegra.ph/file/020bd7c43ec1ad26beeaf.jpg",
+        "https://telegra.ph/file/8c8a65439faf4089a4a12.jpg",
+        "https://telegra.ph/file/02764dfbdb5cd9aea94db.jpg",
+        "https://telegra.ph/file/95f676683f8eff6945343.jpg",
+        "https://telegra.ph/file/c0f656c7027e9fbc6ece7.jpg",
+        "https://telegra.ph/file/d5fc9e34b133bd926d1c3.jpg",
+        "https://telegra.ph/file/1cf53a7b8ccf2e7fc87c0.jpg",
+        "https://telegra.ph/file/29bf9526969763478ef21.jpg",
+        "https://telegra.ph/file/a11107e6b055818f1a676.jpg",
+        "https://telegra.ph/file/1799a8d55545df7d390f8.jpg",
+        "https://telegra.ph/file/2bfd0c5824c5a5ee85fab.jpg",
+        "https://telegra.ph/file/aec4fff68dc1faa42e212.jpg",
+        "https://telegra.ph/file/9fd853b610ea1770d7014.jpg",
+        "https://telegra.ph/file/8c8eb0fc54d4d6d3f7435.jpg",
+        "https://telegra.ph/file/703af27a0dba43fc0fd17.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

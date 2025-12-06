@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14280,
+    "title": "[ひぐま屋 (野良ヒグマ)] とある学校の筆下ろし事情",
+    "sourceUrl": "https://telegra.ph/ひぐま屋-野良ヒグマ-とある学校の筆下ろし事情-08-31-2",
+    "images": [
+        "https://telegra.ph/file/c904892bd91b6a75484a4.jpg",
+        "https://telegra.ph/file/ee2404a25c42d75be58da.jpg",
+        "https://telegra.ph/file/a269460935abc01859ed4.jpg",
+        "https://telegra.ph/file/418b5f55d630102881697.jpg",
+        "https://telegra.ph/file/c8ac852c24ae5361a6624.jpg",
+        "https://telegra.ph/file/b44a8e290400e6a2f8de6.jpg",
+        "https://telegra.ph/file/1286ebf60cadcb628c705.jpg",
+        "https://telegra.ph/file/811c73d42723c3213220f.jpg",
+        "https://telegra.ph/file/f151ff6fa19597b04c5cb.jpg",
+        "https://telegra.ph/file/780a6d39a0a572849ffde.jpg",
+        "https://telegra.ph/file/7e9e907234223daf0c10a.jpg",
+        "https://telegra.ph/file/584494d391bd17176a2e2.jpg",
+        "https://telegra.ph/file/d2de610901d1cc7fa7b18.jpg",
+        "https://telegra.ph/file/248778ddb3f4055558e2a.jpg",
+        "https://telegra.ph/file/3e212031eb80872060c72.jpg",
+        "https://telegra.ph/file/74baf72151a5687d4ff8b.jpg",
+        "https://telegra.ph/file/e8e1b701d9a1146600538.jpg",
+        "https://telegra.ph/file/71541f36e711cb15e2ab1.jpg",
+        "https://telegra.ph/file/db78f7fbf80c8ba5d23cb.jpg",
+        "https://telegra.ph/file/af2a337c4d0bfb9b37371.jpg",
+        "https://telegra.ph/file/eb4e9121bfa5fa05a4daa.jpg",
+        "https://telegra.ph/file/73220a73e9e56518ce7da.jpg",
+        "https://telegra.ph/file/fe10a1105840e07913983.jpg",
+        "https://telegra.ph/file/c3be713297f71c3be128f.jpg",
+        "https://telegra.ph/file/f7be6a755ba8876e1ca31.jpg",
+        "https://telegra.ph/file/98063dd0ed2c96500aef4.jpg",
+        "https://telegra.ph/file/9d5bb5e02c53a713cc43d.jpg",
+        "https://telegra.ph/file/ad6a5a6c44665e2143ec1.jpg",
+        "https://telegra.ph/file/00dce3a08889692b368f1.jpg",
+        "https://telegra.ph/file/f294b0450007df596a422.jpg",
+        "https://telegra.ph/file/540cee0afa3f4b0015519.jpg",
+        "https://telegra.ph/file/9978a32741ce5ef7fd708.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

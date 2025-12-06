@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9828,
+    "title": "[じゃがバター (九栗おいも)] 奏が水着に着がえたら (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/じゃがバター-九栗おいも-奏が水着に着がえたら-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/fa2aaab55aeabbacc26ac.jpg",
+        "https://telegra.ph/file/8243e43a1e4f117317644.jpg",
+        "https://telegra.ph/file/dba80e5b4e1740784423c.jpg",
+        "https://telegra.ph/file/6d56b015f86de4e739f3b.jpg",
+        "https://telegra.ph/file/00cbda24189322eca5b28.jpg",
+        "https://telegra.ph/file/92e083f7d356176f46104.jpg",
+        "https://telegra.ph/file/f575f481c92db79dca33b.jpg",
+        "https://telegra.ph/file/528f6c2d0a6f686c52f6a.jpg",
+        "https://telegra.ph/file/c86b25beddd34e880ea4b.jpg",
+        "https://telegra.ph/file/cdc4c8d639ea1b369c86b.jpg",
+        "https://telegra.ph/file/2b9df49dbb24ed3ffb473.jpg",
+        "https://telegra.ph/file/92d0105f78f25878fb89d.jpg",
+        "https://telegra.ph/file/c57f440a59db6c91e8657.jpg",
+        "https://telegra.ph/file/5ee15f8189616a0fd62d1.jpg",
+        "https://telegra.ph/file/23013c363d189d7e85f60.jpg",
+        "https://telegra.ph/file/658d88c7240ca8558fa37.jpg",
+        "https://telegra.ph/file/064e51b47a4fe365d8290.jpg",
+        "https://telegra.ph/file/726893944cb4f380b5437.jpg",
+        "https://telegra.ph/file/bee4a3958995dbfd767b3.jpg",
+        "https://telegra.ph/file/a2fc2cf78ae665bfa51f6.jpg",
+        "https://telegra.ph/file/f69b656ecb5dd134fb466.jpg",
+        "https://telegra.ph/file/d5b2be9d86a048de3f541.jpg",
+        "https://telegra.ph/file/1c184c5243f97b1338901.jpg",
+        "https://telegra.ph/file/0e3cf77093e3e5458bee4.jpg",
+        "https://telegra.ph/file/df6f004db26604b4611de.jpg",
+        "https://telegra.ph/file/6530eb302e9fc016a8813.jpg",
+        "https://telegra.ph/file/d456b92037d553f6e3c2d.jpg",
+        "https://telegra.ph/file/f8412219d04677f43ba77.jpg",
+        "https://telegra.ph/file/5ee1e89328e42581bc93c.jpg",
+        "https://telegra.ph/file/f472340613ecfd2e204e0.jpg",
+        "https://telegra.ph/file/29ce78b42a3050ee8c739.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

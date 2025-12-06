@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12462,
+    "title": "[もっこ] 初フーゾクはアイツとバッタリ 〜強制スキンシップで深まり過ぎるカンケイ〜 (コミックグレープ Vol.85)",
+    "sourceUrl": "https://telegra.ph/もっこ-初フーゾクはアイツとバッタリ-強制スキンシップで深まり過ぎるカンケイ-コミックグレープ-Vol85-08-31",
+    "images": [
+        "https://telegra.ph/file/99374f19a7175fe9d607d.jpg",
+        "https://telegra.ph/file/0d000b03d5342ad4e61af.jpg",
+        "https://telegra.ph/file/93c14c56dbe6274e0347d.jpg",
+        "https://telegra.ph/file/26903e881237ed0ea4803.jpg",
+        "https://telegra.ph/file/09fbbd0532e66c40130fb.jpg",
+        "https://telegra.ph/file/51565e1e3484b40a600c3.jpg",
+        "https://telegra.ph/file/3bb60208c6d159ae3a8ca.jpg",
+        "https://telegra.ph/file/983d1c5afd94282808d23.jpg",
+        "https://telegra.ph/file/e2519d3d5f4d0f6780821.jpg",
+        "https://telegra.ph/file/bd976d527222dfb7d29d2.jpg",
+        "https://telegra.ph/file/cc8e36d108a2d33d8e719.jpg",
+        "https://telegra.ph/file/da615b78107971bc07217.jpg",
+        "https://telegra.ph/file/a1a12e5f49b7ca3e90780.jpg",
+        "https://telegra.ph/file/a43ab71a96f57a19bbd73.jpg",
+        "https://telegra.ph/file/4fab31dbad0e78ca18e84.jpg",
+        "https://telegra.ph/file/22832704f4bf09b4689d0.jpg",
+        "https://telegra.ph/file/1b3f90e924c54907df8aa.jpg",
+        "https://telegra.ph/file/50691bc3749cdc6a78fe1.jpg",
+        "https://telegra.ph/file/00975c8f04031ceaa21e3.jpg",
+        "https://telegra.ph/file/e3b09c86b91f2ddcf0026.jpg",
+        "https://telegra.ph/file/84779b480916ca4911ca1.jpg",
+        "https://telegra.ph/file/ff8e61cde8f13510a4b97.jpg",
+        "https://telegra.ph/file/dbf552ebd7223069f399c.jpg",
+        "https://telegra.ph/file/a1d4c21cf0c19e2c2f194.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

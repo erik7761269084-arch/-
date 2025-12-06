@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9855,
+    "title": "[聖人エデン (葦上太桃)] MissingMoon2 (実況パワフルプロ野球)",
+    "sourceUrl": "https://telegra.ph/聖人エデン-葦上太桃-MissingMoon2-実況パワフルプロ野球-08-31",
+    "images": [
+        "https://telegra.ph/file/c7d0219fde81fbac6c274.jpg",
+        "https://telegra.ph/file/6d08bf95b3a60b772784c.jpg",
+        "https://telegra.ph/file/c3c7afc57b61bba4c5d8e.jpg",
+        "https://telegra.ph/file/262946515697ce1fa4012.jpg",
+        "https://telegra.ph/file/9f33d24cefc186aa4dd0b.jpg",
+        "https://telegra.ph/file/f66b35c88191950987ebc.jpg",
+        "https://telegra.ph/file/ffe9356adb4c09cfe13b0.jpg",
+        "https://telegra.ph/file/65a885ac8be9be3f5b8a7.jpg",
+        "https://telegra.ph/file/6f6d1a12525e978703a54.jpg",
+        "https://telegra.ph/file/166e232367b3cdf0fb513.jpg",
+        "https://telegra.ph/file/b057e1e3645a682da1753.jpg",
+        "https://telegra.ph/file/2cd8c0a8f5d3b8026f51b.jpg",
+        "https://telegra.ph/file/39cdfce250ae62ec778cc.jpg",
+        "https://telegra.ph/file/0ef74964f6646be258685.jpg",
+        "https://telegra.ph/file/0ef1642fe47f30286930c.jpg",
+        "https://telegra.ph/file/645bfae2baac84daaf826.jpg",
+        "https://telegra.ph/file/0bbc1cd67df753606222e.jpg",
+        "https://telegra.ph/file/0ba87f76250828bdff7a1.jpg",
+        "https://telegra.ph/file/84221f1f4929dfe03f648.jpg",
+        "https://telegra.ph/file/3c45be8d52a56bbe8fba6.jpg",
+        "https://telegra.ph/file/21c8955f059c61d297c0f.jpg",
+        "https://telegra.ph/file/83b42999b93ce22cff2b4.jpg",
+        "https://telegra.ph/file/995126a172dbbf1f9d616.jpg",
+        "https://telegra.ph/file/bbf27739cbec970cd8541.jpg",
+        "https://telegra.ph/file/08d798d9dff7ed8754b08.jpg",
+        "https://telegra.ph/file/1ec3d8b8fb9a29b693a9c.jpg",
+        "https://telegra.ph/file/edd082496876ac8df81d6.jpg",
+        "https://telegra.ph/file/750b3978ba52ce8f586aa.jpg",
+        "https://telegra.ph/file/e296bfb56dd71e1a54861.jpg",
+        "https://telegra.ph/file/aaa4cb603ac2e295c0113.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

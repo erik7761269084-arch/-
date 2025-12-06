@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10719,
+    "title": "[であすちーむ (うな丼)] 香子さんは勉強熱心 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/であすちーむ-うな丼-香子さんは勉強熱心-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/b014eb4060dd08b4e6c21.jpg",
+        "https://telegra.ph/file/85470a375890b41d59a02.jpg",
+        "https://telegra.ph/file/3a8f330420cfc233b62ea.jpg",
+        "https://telegra.ph/file/d3b5dffafe0cdaf8e650d.jpg",
+        "https://telegra.ph/file/037179b1a0b0a32c58772.jpg",
+        "https://telegra.ph/file/2d9881be47e3ffaf7abfe.jpg",
+        "https://telegra.ph/file/6e90d4257fea6448fc5f2.jpg",
+        "https://telegra.ph/file/6aef0b7f27d4030cc80c5.jpg",
+        "https://telegra.ph/file/58c18e3180748fdf0f9e5.jpg",
+        "https://telegra.ph/file/1f0a3ca9665e929db5f35.jpg",
+        "https://telegra.ph/file/7347e0b2e7280c924932f.jpg",
+        "https://telegra.ph/file/4de9b2ea911b9b27bb4af.jpg",
+        "https://telegra.ph/file/4b5354bf013bea07a031b.jpg",
+        "https://telegra.ph/file/437919547107656a664bd.jpg",
+        "https://telegra.ph/file/52b7731611cbc31bb0e56.jpg",
+        "https://telegra.ph/file/4922d379f6582b85f823b.jpg",
+        "https://telegra.ph/file/d706471409035b83e17ba.jpg",
+        "https://telegra.ph/file/77abd29ac542f2a7aaf42.jpg",
+        "https://telegra.ph/file/d5a64c2e1e18746324e11.jpg",
+        "https://telegra.ph/file/bea8b50e11cfc8a270a54.jpg",
+        "https://telegra.ph/file/0622b99326a651a51933d.jpg",
+        "https://telegra.ph/file/b92cff08996023931d790.jpg",
+        "https://telegra.ph/file/797008072ba936a6c3f31.jpg",
+        "https://telegra.ph/file/313fed13c7da720236eef.jpg",
+        "https://telegra.ph/file/76f5363b76582ed37f02a.jpg",
+        "https://telegra.ph/file/48e33e8cb11aa04a86d41.jpg",
+        "https://telegra.ph/file/9b616547d518b771c621b.jpg",
+        "https://telegra.ph/file/58197c6178ff7029353fe.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

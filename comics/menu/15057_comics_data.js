@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15057,
+    "title": "[ちーちゃん54] 朝比奈先生と宵崎さん (プロジェクトセカイ)",
+    "sourceUrl": "https://telegra.ph/ちーちゃん54-朝比奈先生と宵崎さん-プロジェクトセカイ-08-31",
+    "images": [
+        "https://telegra.ph/file/acda0b394dc6bc721458d.jpg",
+        "https://telegra.ph/file/6181626a9231d2621c4d9.jpg",
+        "https://telegra.ph/file/474064d6c47d4f7ad2479.jpg",
+        "https://telegra.ph/file/945a5340926c41b24799e.jpg",
+        "https://telegra.ph/file/56d2b982a6f08ba60d150.jpg",
+        "https://telegra.ph/file/c5396d015eb06033bfab1.jpg",
+        "https://telegra.ph/file/1875597dc77adea336c8a.jpg",
+        "https://telegra.ph/file/19a95400dc9ca67b5f1d3.jpg",
+        "https://telegra.ph/file/dbb0a644449eef014abb0.jpg",
+        "https://telegra.ph/file/d49c12ba55be1ce57399e.jpg",
+        "https://telegra.ph/file/e3b26847a31c16a805be3.jpg",
+        "https://telegra.ph/file/eb0811cecadbe7429458a.jpg",
+        "https://telegra.ph/file/2de7b6c8c5892b2e91091.jpg",
+        "https://telegra.ph/file/76513b2781b65423c1b0f.jpg",
+        "https://telegra.ph/file/5c8eaa01a1e6ef01342cc.jpg",
+        "https://telegra.ph/file/1214642a801507dedc7e7.jpg",
+        "https://telegra.ph/file/e894508323d8920ebd1c0.jpg",
+        "https://telegra.ph/file/60a2ec234b12098791355.jpg",
+        "https://telegra.ph/file/9265952d7a93a8cf64209.jpg",
+        "https://telegra.ph/file/7d753f60ce9bae521b1f3.jpg",
+        "https://telegra.ph/file/6218047a4a2a3e55f52e7.jpg",
+        "https://telegra.ph/file/d93440ae4c315a66ae1df.jpg",
+        "https://telegra.ph/file/2c4832c59c10d947b38c2.jpg",
+        "https://telegra.ph/file/6a164818ddcbb82200328.jpg",
+        "https://telegra.ph/file/4474e163109afbe1fcd8e.jpg",
+        "https://telegra.ph/file/7cfd8790abeac6e990b46.jpg",
+        "https://telegra.ph/file/58029fcc493a845c79f4b.jpg",
+        "https://telegra.ph/file/0348ee4cd66f1484d4a77.jpg",
+        "https://telegra.ph/file/f170533aee74a886b200f.jpg",
+        "https://telegra.ph/file/dc78692fd9e888a20663a.jpg",
+        "https://telegra.ph/file/9ca5ff4ce77e92e4681f6.jpg",
+        "https://telegra.ph/file/178185dcdf539845e0bf1.jpg",
+        "https://telegra.ph/file/c805a2a4516275a4a3c28.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

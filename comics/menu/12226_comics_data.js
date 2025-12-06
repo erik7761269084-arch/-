@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12226,
+    "title": "[守月史貴] 狐のヨメ入り 後篇",
+    "sourceUrl": "https://telegra.ph/守月史貴-狐のヨメ入り-後篇-08-31",
+    "images": [
+        "https://telegra.ph/file/16a6fddb1c5ebd830aaa0.jpg",
+        "https://telegra.ph/file/2eb3473393101d8729462.jpg",
+        "https://telegra.ph/file/1a4874b237ea66fc4c186.jpg",
+        "https://telegra.ph/file/57e6724b99541b38db98b.jpg",
+        "https://telegra.ph/file/7facbe54255f932319747.jpg",
+        "https://telegra.ph/file/103705590006045ce6559.jpg",
+        "https://telegra.ph/file/d7baec0a66807fb3eb511.jpg",
+        "https://telegra.ph/file/1532bcb4c58845da33f97.jpg",
+        "https://telegra.ph/file/d09ad1df1429207379026.jpg",
+        "https://telegra.ph/file/942d0c727dedf74dc8bc9.jpg",
+        "https://telegra.ph/file/b8227941a1eee48bebe80.jpg",
+        "https://telegra.ph/file/4781721d98206f3ebf768.jpg",
+        "https://telegra.ph/file/4bd0851793a0bfd1f1daf.jpg",
+        "https://telegra.ph/file/8d39e62cd71f54edbc24f.jpg",
+        "https://telegra.ph/file/6199da5594071596b6d5d.jpg",
+        "https://telegra.ph/file/f943f92fd1bd1b7316121.jpg",
+        "https://telegra.ph/file/1b5081dd35f935fc0bfee.jpg",
+        "https://telegra.ph/file/a45cae09b29fe31b55575.jpg",
+        "https://telegra.ph/file/370565e3dd22744818bc7.jpg",
+        "https://telegra.ph/file/6b93661871b14cfdba1b3.jpg",
+        "https://telegra.ph/file/ae6378ff204483a85f06a.jpg",
+        "https://telegra.ph/file/2f8a9bb4bd37fae826ac6.jpg",
+        "https://telegra.ph/file/d93b34eda795adfdd21f2.jpg",
+        "https://telegra.ph/file/c0bf36c7f52091a0626c3.jpg",
+        "https://telegra.ph/file/fe412146d40d608d9b6cf.jpg",
+        "https://telegra.ph/file/ed584bf142167f1d1a5c8.jpg",
+        "https://telegra.ph/file/77a3e03c92aa45b152127.jpg",
+        "https://telegra.ph/file/80c110dd2b116de6993fc.jpg",
+        "https://telegra.ph/file/77723a74b9643817d4771.jpg",
+        "https://telegra.ph/file/68227e4477572a06754b2.jpg",
+        "https://telegra.ph/file/ee83d93092b86b7453992.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

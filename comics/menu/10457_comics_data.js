@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10457,
+    "title": "[月夜のこねこ (こうきくう)] 無口で脱がない彼女の秘密",
+    "sourceUrl": "https://telegra.ph/月夜のこねこ-こうきくう-無口で脱がない彼女の秘密-08-31",
+    "images": [
+        "https://telegra.ph/file/c2428e74b230ace66f958.jpg",
+        "https://telegra.ph/file/68ed21972e7e51d8f6953.jpg",
+        "https://telegra.ph/file/358fd191c23660824eae6.jpg",
+        "https://telegra.ph/file/bab1355f77d71f11e8362.jpg",
+        "https://telegra.ph/file/f9e49ae24c3defff4ee6e.png",
+        "https://telegra.ph/file/fdcc8661aef6da6f22e2a.png",
+        "https://telegra.ph/file/242412c33096c7798ad07.png",
+        "https://telegra.ph/file/c5b679dc79228d90869fc.jpg",
+        "https://telegra.ph/file/7cd0e8365267ae305befc.jpg",
+        "https://telegra.ph/file/a4685121186eaac4ec1bc.png",
+        "https://telegra.ph/file/9dbfe2be74be146317ac1.png",
+        "https://telegra.ph/file/01bda32fa596d0a564b95.png",
+        "https://telegra.ph/file/d76a5d4c28e9d1f0dd1a3.png",
+        "https://telegra.ph/file/d84d199c768d85a05614d.png",
+        "https://telegra.ph/file/1d936120fbed554b58129.jpg",
+        "https://telegra.ph/file/de0e4db631a622b80537b.png",
+        "https://telegra.ph/file/f09546f6e9a05adce3148.jpg",
+        "https://telegra.ph/file/82f3480872702c93398ac.jpg",
+        "https://telegra.ph/file/a501c7932245591a9c52d.jpg",
+        "https://telegra.ph/file/7b2e078c8706cf58c83a3.jpg",
+        "https://telegra.ph/file/947a87d98e89751762352.png",
+        "https://telegra.ph/file/b6ae7f1681605c39bbc82.png",
+        "https://telegra.ph/file/244fb25751af1537ad85e.jpg",
+        "https://telegra.ph/file/fb86955486cc0a3b1353f.jpg",
+        "https://telegra.ph/file/7e08982c42f4839b431db.png",
+        "https://telegra.ph/file/1a7649c46ac7c226c3ad8.jpg",
+        "https://telegra.ph/file/1e6abc373953215ee293e.jpg",
+        "https://telegra.ph/file/c2af9a8ef55a42e9e9878.png",
+        "https://telegra.ph/file/450e102362b4fede2f6c1.jpg",
+        "https://telegra.ph/file/2ca911c1a563e27b52e23.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

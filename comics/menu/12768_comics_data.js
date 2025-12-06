@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12768,
+    "title": "[ぷっぷくぷー (可哀想)] 俗、退魔の母",
+    "sourceUrl": "https://telegra.ph/ぷっぷくぷー-可哀想-俗退魔の母-08-31",
+    "images": [
+        "https://telegra.ph/file/a9be9bd709c555ddbdde0.jpg",
+        "https://telegra.ph/file/16bad4f9c65836c425f48.jpg",
+        "https://telegra.ph/file/ee7a71d1012b31d330801.jpg",
+        "https://telegra.ph/file/efe5bec80d94478a98343.jpg",
+        "https://telegra.ph/file/25aeaf935ac02c73d5ce1.jpg",
+        "https://telegra.ph/file/b53fc2c81c4de432758c2.jpg",
+        "https://telegra.ph/file/bbb481a6a7d48a691e3aa.jpg",
+        "https://telegra.ph/file/6e4ac720acc5f1d626574.jpg",
+        "https://telegra.ph/file/a7be8349fb3404cebecc5.jpg",
+        "https://telegra.ph/file/5c5dd141a54f27a926d8d.jpg",
+        "https://telegra.ph/file/2cfc9c302d264e3116795.jpg",
+        "https://telegra.ph/file/e220683e82068b942f4f9.jpg",
+        "https://telegra.ph/file/844cdd74952abf163a555.jpg",
+        "https://telegra.ph/file/004c2d66509eb592959f8.jpg",
+        "https://telegra.ph/file/4a31c6c7d5497e923402d.jpg",
+        "https://telegra.ph/file/efe362afd751b86be15a7.jpg",
+        "https://telegra.ph/file/8219b8b4943762bc2150c.jpg",
+        "https://telegra.ph/file/1f1e68c97d2f4f407db93.jpg",
+        "https://telegra.ph/file/b2619dbf3daa700727efa.jpg",
+        "https://telegra.ph/file/d41536bd426dd66010647.jpg",
+        "https://telegra.ph/file/2f5c89f55a722dd1cfe02.jpg",
+        "https://telegra.ph/file/2209ea0c3f835b399eee4.jpg",
+        "https://telegra.ph/file/8b728eb797ea9f32106a1.jpg",
+        "https://telegra.ph/file/ae5ed776ef3260fa8b16a.jpg",
+        "https://telegra.ph/file/74c17c204657d602b6843.jpg",
+        "https://telegra.ph/file/4fe4dd3a33d851687fdd7.jpg",
+        "https://telegra.ph/file/d2c2d19f93539a8718cb8.jpg",
+        "https://telegra.ph/file/f5c7f28d891ae8186b4c2.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

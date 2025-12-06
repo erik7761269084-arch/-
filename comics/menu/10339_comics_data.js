@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10339,
+    "title": "[みぞね] 冒険者の恋路は獣道 (COMIC BAVEL 2020年11月号)",
+    "sourceUrl": "https://telegra.ph/みぞね-冒険者の恋路は獣道-COMIC-BAVEL-2020年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/48e6fab92c7d94165d348.jpg",
+        "https://telegra.ph/file/5494ba4b17931824ac2e3.jpg",
+        "https://telegra.ph/file/7de8a10f91eb5730c8b1a.jpg",
+        "https://telegra.ph/file/3b271c504ca0665be9aac.jpg",
+        "https://telegra.ph/file/8754045ce5614dab3eeca.jpg",
+        "https://telegra.ph/file/8949133de7ce9d1afe01a.jpg",
+        "https://telegra.ph/file/d5f5f7fb2b3b07c7723e6.jpg",
+        "https://telegra.ph/file/8e600d51bfffe87af5b4a.jpg",
+        "https://telegra.ph/file/111ab0a1f02fc1c964aef.jpg",
+        "https://telegra.ph/file/355d11b317314801febd1.jpg",
+        "https://telegra.ph/file/5d38d49a73860216df827.jpg",
+        "https://telegra.ph/file/2fa1f5e5f0018db61041f.jpg",
+        "https://telegra.ph/file/b2794042b1d66122e3aa0.jpg",
+        "https://telegra.ph/file/1325a38de7cfa5f6bd0b8.jpg",
+        "https://telegra.ph/file/0478d604713049673532f.jpg",
+        "https://telegra.ph/file/05edd086c3ebbedd44a38.jpg",
+        "https://telegra.ph/file/b30157b242d0eef51842c.jpg",
+        "https://telegra.ph/file/f49755704f074e5c68c5c.jpg",
+        "https://telegra.ph/file/6359018b3050bbe08db8b.jpg",
+        "https://telegra.ph/file/b05b330c57d9ea97408b5.jpg",
+        "https://telegra.ph/file/dea89231a4edc835cb130.jpg",
+        "https://telegra.ph/file/23b1fb7b4aea5c181e9c2.jpg",
+        "https://telegra.ph/file/3e8fb332f92ea71b18fba.jpg",
+        "https://telegra.ph/file/beb099b5b30191d4b254f.jpg",
+        "https://telegra.ph/file/fbdddabf82646fbc63153.jpg",
+        "https://telegra.ph/file/b7aa765c151697e6cb7ae.jpg",
+        "https://telegra.ph/file/89d04dc0b5edaae75d5c9.jpg",
+        "https://telegra.ph/file/0fd3cc337a80e6e79706d.jpg",
+        "https://telegra.ph/file/ea0e10cf049efc03a51f2.jpg",
+        "https://telegra.ph/file/6eec603ce914e26a79651.jpg",
+        "https://telegra.ph/file/5ebe923b289a8f2d8f222.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8153,
+    "title": "[田中家の鴨 (たなかあひる)] にじさん毛 (にじさんじ)",
+    "sourceUrl": "https://telegra.ph/田中家の鴨-たなかあひる-にじさん毛-にじさんじ-08-31-2",
+    "images": [
+        "https://telegra.ph/file/754fc77d1cbac29cdce59.jpg",
+        "https://telegra.ph/file/d47b2e529a1373af0ebc4.jpg",
+        "https://telegra.ph/file/b0752478ca2c3ee9aef38.jpg",
+        "https://telegra.ph/file/254649c4ddafa85a243fd.jpg",
+        "https://telegra.ph/file/9972b864b7e600dd74dc3.jpg",
+        "https://telegra.ph/file/709093b1f38d689258180.jpg",
+        "https://telegra.ph/file/61c573d7a27dd7812d62b.jpg",
+        "https://telegra.ph/file/0c160bc0ae748e91de4d2.jpg",
+        "https://telegra.ph/file/712cbb629fc5193981ce5.jpg",
+        "https://telegra.ph/file/7078d2575f3b9121cd373.jpg",
+        "https://telegra.ph/file/53011db17a82ef915b57e.jpg",
+        "https://telegra.ph/file/07a3713d48be68ec55b83.jpg",
+        "https://telegra.ph/file/7ccfae6d6329695ce32d8.jpg",
+        "https://telegra.ph/file/5ac6e756631fea4a0c419.jpg",
+        "https://telegra.ph/file/1fb3d1bac86b0cb61d847.jpg",
+        "https://telegra.ph/file/cd483edc560d0fab617bb.jpg",
+        "https://telegra.ph/file/38ec6f4ea0c41c381011e.jpg",
+        "https://telegra.ph/file/82baa9883c37564ad2d73.jpg",
+        "https://telegra.ph/file/c27228bd3fbb0b34b5604.jpg",
+        "https://telegra.ph/file/4bdd94c6f1012b55b8f20.jpg",
+        "https://telegra.ph/file/2e411e35b3a9560381a96.jpg",
+        "https://telegra.ph/file/72ce8e2740aac237448eb.jpg",
+        "https://telegra.ph/file/704e5575e9c88f00207f7.jpg",
+        "https://telegra.ph/file/5b3cb11d3e74aae6d45ab.jpg",
+        "https://telegra.ph/file/42d00633760ba5dcaea96.jpg",
+        "https://telegra.ph/file/cf4969e2c25e0abd482bf.jpg",
+        "https://telegra.ph/file/b59719c11de85e6d9325d.jpg",
+        "https://telegra.ph/file/57125bae513c94fd7520e.jpg",
+        "https://telegra.ph/file/601b49a0ee201d6b34eb1.jpg",
+        "https://telegra.ph/file/29b110dc5694e8471a4a7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

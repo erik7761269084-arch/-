@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16051,
+    "title": "[にらたま (せきはら、広人)] にしきの式発声練習 (ラブライブ!)  -Preview",
+    "sourceUrl": "https://telegra.ph/にらたま-せきはら広人-にしきの式発声練習-ラブライブ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/9235db92d138d3ebbb2fe.jpg",
+        "https://telegra.ph/file/254c5b06589a900bd0a44.jpg",
+        "https://telegra.ph/file/b00a2765d1825db6f95e9.jpg",
+        "https://telegra.ph/file/e0f93d8ccd2cc296c2092.jpg",
+        "https://telegra.ph/file/d2d784d231cd5cbf54554.jpg",
+        "https://telegra.ph/file/c5e373cfb1d5c78a9933d.jpg",
+        "https://telegra.ph/file/d7a180e4c0768065213d4.jpg",
+        "https://telegra.ph/file/5b29607d18745edb2c00b.jpg",
+        "https://telegra.ph/file/be3506e4ec97437c3d3d5.jpg",
+        "https://telegra.ph/file/f14dfd45465e9002c1a4c.jpg",
+        "https://telegra.ph/file/ae68b4ce6ec83156f08ec.jpg",
+        "https://telegra.ph/file/00c6a0538dc11dbfc0169.jpg",
+        "https://telegra.ph/file/da0b9f6eef500c5686b00.jpg",
+        "https://telegra.ph/file/c0a8f3a49c033810c65ac.jpg",
+        "https://telegra.ph/file/648dcfb1e659844b37d65.jpg",
+        "https://telegra.ph/file/5e230d3628fae7f53d081.jpg",
+        "https://telegra.ph/file/a4ed1336253113488b050.jpg",
+        "https://telegra.ph/file/2ac5c08286b4a67993253.jpg",
+        "https://telegra.ph/file/99504d2485ae9be02b325.jpg",
+        "https://telegra.ph/file/58290198132faee3a5a44.jpg",
+        "https://telegra.ph/file/99c2194eaf0a26a213d1e.jpg",
+        "https://telegra.ph/file/cc9def0a67cc5d3402941.jpg",
+        "https://telegra.ph/file/b2a75f200f6900c443b09.jpg",
+        "https://telegra.ph/file/050591c7456592f83ec74.jpg",
+        "https://telegra.ph/file/ac676c16c408107d6e268.jpg",
+        "https://telegra.ph/file/4cbf6c72072e55a2764d1.jpg",
+        "https://telegra.ph/file/3458ae242116aee3a5f2e.jpg",
+        "https://telegra.ph/file/ba1341c11e0688dfdc42c.jpg",
+        "https://telegra.ph/file/6a245a7fefe8075fd3ba2.jpg",
+        "https://telegra.ph/file/55b8b934987dab0262945.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

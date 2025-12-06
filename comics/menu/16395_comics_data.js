@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16395,
+    "title": "(C91) [流水苑 (Ume)] Merry Log 2 (艦隊これくしょん -艦これ-) -Preview",
+    "sourceUrl": "https://telegra.ph/C91-流水苑-Ume-Merry-Log-2-艦隊これくしょん--艦これ---Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img029_2.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img001.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img002.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img003.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img004.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img005.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img006.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img007.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img008.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img009.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img010.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img011.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img012.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img013.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img014.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img015.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img016.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img017.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img018.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img019.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img020.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img021.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img022.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img023.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img024.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img025.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img026.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img027.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/img028.webp",
+        "https://i2.linghua.xyz/ex/3126692/1b47ce546a/_.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

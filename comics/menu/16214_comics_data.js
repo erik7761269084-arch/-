@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16214,
+    "title": "(C104) [わたがし (よろず)] トゲトゲ! - GARU-KURA FAN BOOK - (ガールズバンドクライ) -Preview",
+    "sourceUrl": "https://telegra.ph/C104-わたがし-よろず-トゲトゲ---GARU-KURA-FAN-BOOK---ガールズバンドクライ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/a4d04ac46f8c0084a35b0.jpg",
+        "https://telegra.ph/file/416d8d6f5341b662afa34.jpg",
+        "https://telegra.ph/file/49e10bad74ec90da51787.jpg",
+        "https://telegra.ph/file/e0fd05d806fa2f5ec661f.jpg",
+        "https://telegra.ph/file/9abb9f0242fed54a46037.jpg",
+        "https://telegra.ph/file/5417b6cf4d65856abc37f.jpg",
+        "https://telegra.ph/file/6e05cc02b58088b54b317.jpg",
+        "https://telegra.ph/file/3bd83bb858bd4984ab602.jpg",
+        "https://telegra.ph/file/2530b097c60ef3b1297e6.jpg",
+        "https://telegra.ph/file/cb3a43962ad80472a4934.jpg",
+        "https://telegra.ph/file/4cefbda7fdc039592eb21.jpg",
+        "https://telegra.ph/file/fe403f0ec7fbb6ba00592.jpg",
+        "https://telegra.ph/file/e1f08a25a9109b2843dca.jpg",
+        "https://telegra.ph/file/214dca3b8408dd2ed50a8.jpg",
+        "https://telegra.ph/file/82c24cd87544e4803b752.jpg",
+        "https://telegra.ph/file/b2d16ea91cd32cf1d3da6.jpg",
+        "https://telegra.ph/file/4699353e9dae226353c57.jpg",
+        "https://telegra.ph/file/db9b164e38e5485043d4a.jpg",
+        "https://telegra.ph/file/4a2ddac2fa8c1d1e505dd.jpg",
+        "https://telegra.ph/file/d6ce5623f82490680e022.jpg",
+        "https://telegra.ph/file/46314d92a573151a84205.jpg",
+        "https://telegra.ph/file/6c8840d28e0abd5e7ee89.jpg",
+        "https://telegra.ph/file/8a5bd0d578731ba956f22.jpg",
+        "https://telegra.ph/file/b49401cd69f937e1410b3.jpg",
+        "https://telegra.ph/file/aa1cc42566ba2db432753.jpg",
+        "https://telegra.ph/file/1074bc07db84a0d18ceea.jpg",
+        "https://telegra.ph/file/91fe57db224528d9a6432.jpg",
+        "https://telegra.ph/file/eba923109fe304765faff.jpg",
+        "https://telegra.ph/file/aa5f0f923f2c631f44b1c.jpg",
+        "https://telegra.ph/file/03c863a52eff2ed95715f.jpg",
+        "https://telegra.ph/file/cc3c9de77dcc506f16422.jpg",
+        "https://telegra.ph/file/14d64cfdca0bb299e7837.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9987,
+    "title": "[65535あべぬー。 (赤人)] えっちなお店に電話したらクラスメイトが出てきた話",
+    "sourceUrl": "https://telegra.ph/65535あべぬー-赤人-えっちなお店に電話したらクラスメイトが出てきた話-08-31",
+    "images": [
+        "https://telegra.ph/file/b0487a538518fa2449a94.jpg",
+        "https://telegra.ph/file/f695d7bfdb7e7b9407687.jpg",
+        "https://telegra.ph/file/953e6296940a1536a0ae5.jpg",
+        "https://telegra.ph/file/0c5d011f02b9e95fbcc0a.jpg",
+        "https://telegra.ph/file/54ccf8ac5bb2c052ee575.jpg",
+        "https://telegra.ph/file/01d3085d4ea55626bb551.jpg",
+        "https://telegra.ph/file/e14c1679af794b4423fd5.jpg",
+        "https://telegra.ph/file/23e455d4a035af4b77b37.jpg",
+        "https://telegra.ph/file/35b3ac715e0dddcabc1f8.jpg",
+        "https://telegra.ph/file/f08ffa87bf8a6a78f517f.jpg",
+        "https://telegra.ph/file/40d809367057d51205d68.jpg",
+        "https://telegra.ph/file/79ee8b457942cda838166.jpg",
+        "https://telegra.ph/file/efed8e27251a55b6fbea3.jpg",
+        "https://telegra.ph/file/bf8d2370c7be31e89d408.jpg",
+        "https://telegra.ph/file/d9843d6bca366ce7e2b97.jpg",
+        "https://telegra.ph/file/5b0a76c9007b6b9451e73.jpg",
+        "https://telegra.ph/file/7aa28c894fe2984a2c232.jpg",
+        "https://telegra.ph/file/65881dd4e56f85d3a68b4.jpg",
+        "https://telegra.ph/file/66a790c56667afa136558.jpg",
+        "https://telegra.ph/file/2f1674e6eef3002405668.jpg",
+        "https://telegra.ph/file/601e99c12711008a338e6.jpg",
+        "https://telegra.ph/file/b19b1daac19d3630b94bc.jpg",
+        "https://telegra.ph/file/63ca53362d916b37dd8a4.jpg",
+        "https://telegra.ph/file/d2a755376d3a51448a116.jpg",
+        "https://telegra.ph/file/fb996c127cfb1e4127249.jpg",
+        "https://telegra.ph/file/adeb3715edec329480739.jpg",
+        "https://telegra.ph/file/6604276fd4ddea66d2ed4.jpg",
+        "https://telegra.ph/file/dcd0af00b491419bb97c7.jpg",
+        "https://telegra.ph/file/37d0846b534a110210c5e.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

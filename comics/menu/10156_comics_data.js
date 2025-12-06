@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10156,
+    "title": "[ひっさつわざ (ひっさつくん)] 無人駅II",
+    "sourceUrl": "https://telegra.ph/ひっさつわざ-ひっさつくん-無人駅II-08-31",
+    "images": [
+        "https://telegra.ph/file/9fcfba566c18fea700766.jpg",
+        "https://telegra.ph/file/70f7e0ede32b45a5db7ed.jpg",
+        "https://telegra.ph/file/4a437b00b182f554ad3d2.jpg",
+        "https://telegra.ph/file/ed85b5aa686586bda4ecf.jpg",
+        "https://telegra.ph/file/c034b19cddcc3f014f0f4.jpg",
+        "https://telegra.ph/file/da932ce99327531aa49ab.jpg",
+        "https://telegra.ph/file/c1a7dd75e5b54a8e35a33.jpg",
+        "https://telegra.ph/file/ec7a9820d7c409dbb8037.jpg",
+        "https://telegra.ph/file/a8cf394d6f00eb8eb9d32.jpg",
+        "https://telegra.ph/file/ec7c0ebc66d95ecce695b.jpg",
+        "https://telegra.ph/file/19a57cee5e9a9482e92db.jpg",
+        "https://telegra.ph/file/b7a15fbf3be4d81213669.jpg",
+        "https://telegra.ph/file/c83cc579b6befd52132c5.jpg",
+        "https://telegra.ph/file/8686caaebb8be2854c14f.jpg",
+        "https://telegra.ph/file/a16bbe4bd03cc21263781.jpg",
+        "https://telegra.ph/file/13bfc308ef2ac2ee615f8.jpg",
+        "https://telegra.ph/file/9c2a2d554e36cf388ca86.jpg",
+        "https://telegra.ph/file/ad6ad40f134baefe2ff3e.jpg",
+        "https://telegra.ph/file/cb627fbcac83e2e22336b.jpg",
+        "https://telegra.ph/file/c8c97b0e373e3468da9fb.jpg",
+        "https://telegra.ph/file/2f18168cdff09adebedfd.jpg",
+        "https://telegra.ph/file/5dcefbc94c161503412fd.jpg",
+        "https://telegra.ph/file/8b9d5c4be00adeee958fb.jpg",
+        "https://telegra.ph/file/418a7e13eac845cc479eb.jpg",
+        "https://telegra.ph/file/74f70625d3f410f3793c4.jpg",
+        "https://telegra.ph/file/f66c392a91e3adb030de7.jpg",
+        "https://telegra.ph/file/2978917558cb6d25706f4.jpg",
+        "https://telegra.ph/file/4e9faebb2a3a28b317c3f.jpg",
+        "https://telegra.ph/file/a75cd7bd5d60d4842e596.jpg",
+        "https://telegra.ph/file/b7684873a51de755531ed.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

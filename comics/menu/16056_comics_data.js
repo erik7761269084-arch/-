@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16056,
+    "title": "[ほうれん草メトロ (春日あえ)] ハイツしずかす (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "sourceUrl": "https://telegra.ph/ほうれん草メトロ-春日あえ-ハイツしずかす-ラブライブ-虹ヶ咲学園スクールアイドル同好会--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/93f4ebeb7e6aca31c34c2.jpg",
+        "https://telegra.ph/file/95f8cd91ba52aa5cd6e46.jpg",
+        "https://telegra.ph/file/423c7c5eb46316367ef7b.jpg",
+        "https://telegra.ph/file/c7c362c30d6b12cbe4782.jpg",
+        "https://telegra.ph/file/ca9c19b468a01ccc5ffcb.jpg",
+        "https://telegra.ph/file/adcf4ce8655c894086ae3.jpg",
+        "https://telegra.ph/file/e226299181643733b72ac.jpg",
+        "https://telegra.ph/file/4a8f26478ae1f49b26725.jpg",
+        "https://telegra.ph/file/2bf62ff89105740a26cfc.jpg",
+        "https://telegra.ph/file/e513af3a7d02788dac3cb.jpg",
+        "https://telegra.ph/file/7c63c5bb0f9fb9c8e3726.jpg",
+        "https://telegra.ph/file/a0d0cd08944997058bd15.jpg",
+        "https://telegra.ph/file/e5eee7f96ce3155cbdd48.jpg",
+        "https://telegra.ph/file/8d991c0e495ac93a67551.jpg",
+        "https://telegra.ph/file/1a1a959ade151c44076eb.jpg",
+        "https://telegra.ph/file/3a83fce182912a746be0c.jpg",
+        "https://telegra.ph/file/6669fdae52e153e2b9d64.jpg",
+        "https://telegra.ph/file/a1cc71d4f11fe60237cd1.jpg",
+        "https://telegra.ph/file/d6d690d6c95ac32b2b4cb.jpg",
+        "https://telegra.ph/file/033f6e6cb833d154641f2.jpg",
+        "https://telegra.ph/file/01bab2e8cdc2333bbbf2a.jpg",
+        "https://telegra.ph/file/739ffab4ef6893c9f4b1b.jpg",
+        "https://telegra.ph/file/949ca5dd8551e4e10dc10.jpg",
+        "https://telegra.ph/file/69f29986e0946988124b6.jpg",
+        "https://telegra.ph/file/3d1472d7b129aa758d1bc.jpg",
+        "https://telegra.ph/file/462eb987fa7a4d763235e.jpg",
+        "https://telegra.ph/file/41ca79b771bfaea056dd9.jpg",
+        "https://telegra.ph/file/13e32329a93298c82d123.jpg",
+        "https://telegra.ph/file/874f993237abc047301c1.jpg",
+        "https://telegra.ph/file/cb275ab42fe1c4c8394ae.jpg",
+        "https://telegra.ph/file/98a3f703a7113cb983b60.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

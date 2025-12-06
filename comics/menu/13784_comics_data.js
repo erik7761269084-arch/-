@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13784,
+    "title": "(C97) [メタボ喫茶異臭騒ぎ (いたちょう)] 廊下の娘03 (化物語)",
+    "sourceUrl": "https://telegra.ph/C97-メタボ喫茶異臭騒ぎ-いたちょう-廊下の娘03-化物語-08-31",
+    "images": [
+        "https://telegra.ph/file/70e41b09ae4f1edc587cb.jpg",
+        "https://telegra.ph/file/9c4777bdfb35ece635bcf.jpg",
+        "https://telegra.ph/file/85b0579b4fcf3f4b3b0eb.jpg",
+        "https://telegra.ph/file/99001cffb6835af9bce7a.jpg",
+        "https://telegra.ph/file/1da95899b8537f5eb1194.jpg",
+        "https://telegra.ph/file/0b6219f55959531c9ba18.jpg",
+        "https://telegra.ph/file/063ecbb873eebe692a925.jpg",
+        "https://telegra.ph/file/61fd34ac20a9ef362fac8.jpg",
+        "https://telegra.ph/file/59a927cfcffd78c38c22a.jpg",
+        "https://telegra.ph/file/0fffc2745bf46d027ae9e.jpg",
+        "https://telegra.ph/file/c23c35258001a051dea71.jpg",
+        "https://telegra.ph/file/1ea70d2a9fd52634320c0.jpg",
+        "https://telegra.ph/file/3b597139bdee369ed58ef.jpg",
+        "https://telegra.ph/file/683e0e14f1f4087cf9a6e.jpg",
+        "https://telegra.ph/file/2f6ba57174f61a8e63750.jpg",
+        "https://telegra.ph/file/56a2f12feead9ed9c5e18.jpg",
+        "https://telegra.ph/file/fe78d5d445acf383c2666.jpg",
+        "https://telegra.ph/file/bd236f6669677cb7af428.jpg",
+        "https://telegra.ph/file/21fe403a0af9161bd27ec.jpg",
+        "https://telegra.ph/file/ca4f94d3a335dfd4dccb2.jpg",
+        "https://telegra.ph/file/bb90c2cf9bdc30b994f06.jpg",
+        "https://telegra.ph/file/63e5aa443b635465ac807.jpg",
+        "https://telegra.ph/file/c8417f5339adedd732457.jpg",
+        "https://telegra.ph/file/88cb5c33cb046d19ce572.jpg",
+        "https://telegra.ph/file/2fca02d946fa04196d3ec.jpg",
+        "https://telegra.ph/file/e99d2cc9e4dcea0d1c985.jpg",
+        "https://telegra.ph/file/29c8ebb1e5429c368cd77.jpg",
+        "https://telegra.ph/file/fbadeeb6220cde2f5f1a7.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/45ab4e5d5b98c70b11608.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

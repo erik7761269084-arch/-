@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8488,
+    "title": "[エロ井ロエ] はっぴー♡マンドレイク農場 (異世快楽天 Vol.2)",
+    "sourceUrl": "https://telegra.ph/エロ井ロエ-はっぴーマンドレイク農場-異世快楽天-Vol2-08-31",
+    "images": [
+        "https://telegra.ph/file/a5f433d1d9d1d4d595e77.jpg",
+        "https://telegra.ph/file/ae3799165a1154b3e2e3f.jpg",
+        "https://telegra.ph/file/34aabdc9eda87b2f5ee1a.jpg",
+        "https://telegra.ph/file/2c1324119ffa9f7f6ec54.jpg",
+        "https://telegra.ph/file/28d08e37461db93ac45b9.jpg",
+        "https://telegra.ph/file/353d4698817c7aca14eba.jpg",
+        "https://telegra.ph/file/99ea0366866c16fdf0c78.jpg",
+        "https://telegra.ph/file/66760e768e6861a2ba486.jpg",
+        "https://telegra.ph/file/bd73354fd313cdea3a5bf.jpg",
+        "https://telegra.ph/file/03e0735e7433e9860441a.jpg",
+        "https://telegra.ph/file/7fe81b48b4f3b2f5a6623.jpg",
+        "https://telegra.ph/file/fbf12cef4d5ba2e0cddf3.jpg",
+        "https://telegra.ph/file/05d4210ee91cbbded6a0b.jpg",
+        "https://telegra.ph/file/ee535e5857f345154ee8a.jpg",
+        "https://telegra.ph/file/a01091f6cc241522a83b0.jpg",
+        "https://telegra.ph/file/8f093c67d379cd5e30ec5.jpg",
+        "https://telegra.ph/file/e0315bff45796440e471b.jpg",
+        "https://telegra.ph/file/80cfac4f4096e47b67502.jpg",
+        "https://telegra.ph/file/679d9d7359adbcae6b0ea.jpg",
+        "https://telegra.ph/file/ad132bd655c2cd3834cf1.jpg",
+        "https://telegra.ph/file/5c5091b41669d74bf5846.jpg",
+        "https://telegra.ph/file/83ede6a64b86bba3d5c59.jpg",
+        "https://telegra.ph/file/0c47a6b143c4ef654794a.jpg",
+        "https://telegra.ph/file/83261e13cc0da8e2aaa5d.jpg",
+        "https://telegra.ph/file/93736ff8487bc1e4433c4.jpg",
+        "https://telegra.ph/file/be25512366b0ea46618ed.jpg",
+        "https://telegra.ph/file/7755516426ab6a5b13697.jpg",
+        "https://telegra.ph/file/6bdd2c1c6e080985a7395.jpg",
+        "https://telegra.ph/file/382ea242655bb09a5bc8d.jpg",
+        "https://telegra.ph/file/0ffbfde2824073e1c48ff.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

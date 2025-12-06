@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11495,
+    "title": "[おせんべいの森 (だにまる)] 沖田さん我慢できません! (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/おせんべいの森-だにまる-沖田さん我慢できません-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/fb9c4103726748e00076c.jpg",
+        "https://telegra.ph/file/e286a492728cd0b33d1d3.jpg",
+        "https://telegra.ph/file/f89383c02fd74298587ee.jpg",
+        "https://telegra.ph/file/a85d7145e382a73861367.jpg",
+        "https://telegra.ph/file/e540f303467185960bb30.jpg",
+        "https://telegra.ph/file/1267c58948025e4903649.jpg",
+        "https://telegra.ph/file/e62a2887120ffb3b143a6.jpg",
+        "https://telegra.ph/file/84c7a62ad693f13ab741b.jpg",
+        "https://telegra.ph/file/98bd44de259db0ba8c02c.jpg",
+        "https://telegra.ph/file/ab2f00b1dd2ff02381055.jpg",
+        "https://telegra.ph/file/a699c3fd46ab4e1063ce3.jpg",
+        "https://telegra.ph/file/df3c15aa8b312692bee11.jpg",
+        "https://telegra.ph/file/dfd34ab722d03df76d382.jpg",
+        "https://telegra.ph/file/e2d326cd54966f7af8dbe.jpg",
+        "https://telegra.ph/file/397db8d557a226f589c5a.jpg",
+        "https://telegra.ph/file/888e18ba08830c4259614.jpg",
+        "https://telegra.ph/file/4e6a41eb0c7e519b6df59.jpg",
+        "https://telegra.ph/file/9df577706376c3e16a25f.jpg",
+        "https://telegra.ph/file/0b7e9227b6404dabd67c4.jpg",
+        "https://telegra.ph/file/6032d6b6c7f11d4f62a78.jpg",
+        "https://telegra.ph/file/8a4e24ea69c4ebe078b57.jpg",
+        "https://telegra.ph/file/71545acaadd85445c8bf0.jpg",
+        "https://telegra.ph/file/33469cdc00e7250b2c23b.jpg",
+        "https://telegra.ph/file/486fb672e9002b9f525f1.jpg",
+        "https://telegra.ph/file/a70c6fa63934225d7e370.jpg",
+        "https://telegra.ph/file/22b92bcb39994da20e802.jpg",
+        "https://telegra.ph/file/33c8c941c53190c20f505.jpg",
+        "https://telegra.ph/file/73492ff078c30cf839436.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

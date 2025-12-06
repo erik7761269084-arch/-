@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8930,
+    "title": "(C96) [Come Through (あづみ一樹)] 性楚な妹の愛で方",
+    "sourceUrl": "https://telegra.ph/C96-Come-Through-あづみ一樹-性楚な妹の愛で方-08-31",
+    "images": [
+        "https://telegra.ph/file/8aa80f13b56ff86200903.jpg",
+        "https://telegra.ph/file/33aa9298369cbdf5b378b.jpg",
+        "https://telegra.ph/file/a7d6a76f0243b13c59e13.jpg",
+        "https://telegra.ph/file/40f7349314fa575922ac5.jpg",
+        "https://telegra.ph/file/ca964de676ccdefe0fa6e.jpg",
+        "https://telegra.ph/file/17154e1405436552780a7.jpg",
+        "https://telegra.ph/file/0ecf2cf49230e4a4861d1.jpg",
+        "https://telegra.ph/file/060e0745ed4aa4386a5b5.jpg",
+        "https://telegra.ph/file/121ad2ad16df8681961bc.jpg",
+        "https://telegra.ph/file/9c7610b6614c209c71e5c.jpg",
+        "https://telegra.ph/file/539274eb80bebc56dbb0d.jpg",
+        "https://telegra.ph/file/038a4096344400e03b029.jpg",
+        "https://telegra.ph/file/783f49e5c860bbf45de75.jpg",
+        "https://telegra.ph/file/0cef9be497c91d6ea1aa7.jpg",
+        "https://telegra.ph/file/070cadef6e4eb4f044fed.jpg",
+        "https://telegra.ph/file/8551bbcbd4c59e49be729.jpg",
+        "https://telegra.ph/file/cc7ce67c7f6d59997b728.jpg",
+        "https://telegra.ph/file/54ab051b675f8c71f23d2.jpg",
+        "https://telegra.ph/file/0caa9c9aaec0242f5f559.jpg",
+        "https://telegra.ph/file/88d5e747a064ddce67cbc.jpg",
+        "https://telegra.ph/file/d4b81a7f023bb5c5ffb31.jpg",
+        "https://telegra.ph/file/c1a2e5227528d8f2d3f38.jpg",
+        "https://telegra.ph/file/70b67c9e1f30683442387.jpg",
+        "https://telegra.ph/file/e2cb139f3185eda06562a.jpg",
+        "https://telegra.ph/file/9a1cbf86c13eb8c1d8794.jpg",
+        "https://telegra.ph/file/1991aefc6879a425c6bc9.jpg",
+        "https://telegra.ph/file/25f2c5601dd5a57147e50.jpg",
+        "https://telegra.ph/file/611149d1f0d0d1eca26a3.jpg",
+        "https://telegra.ph/file/633a7ea05a61534751ad5.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

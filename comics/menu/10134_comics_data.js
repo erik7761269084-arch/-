@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10134,
+    "title": "(C91) [兔子老大 (半里バード9)] センちゃん! ニャンと言って (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/C91-兔子老大-半里バード9-センちゃん-ニャンと言って-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/711569609d38679252f5a.jpg",
+        "https://telegra.ph/file/d672108058bec1b239f59.jpg",
+        "https://telegra.ph/file/f7dacb0ef9a043dae7c98.jpg",
+        "https://telegra.ph/file/92fca6ce76ec64378a039.jpg",
+        "https://telegra.ph/file/010bf62eecd20d4b738e0.jpg",
+        "https://telegra.ph/file/630a93669853651f51f4a.jpg",
+        "https://telegra.ph/file/dca53104d612bbac26b76.jpg",
+        "https://telegra.ph/file/979a8f8ac8f8e3f860784.jpg",
+        "https://telegra.ph/file/23c24709ae8a7b17ccec0.jpg",
+        "https://telegra.ph/file/f78ae633befaebf6fbbbe.jpg",
+        "https://telegra.ph/file/2383057cb7a74bbdf1360.jpg",
+        "https://telegra.ph/file/eeafbde24dece68c075d5.jpg",
+        "https://telegra.ph/file/c1a943e2228e481593a72.jpg",
+        "https://telegra.ph/file/72e80039cbcf044d50e58.jpg",
+        "https://telegra.ph/file/a5ed25b9c7077c5acb913.jpg",
+        "https://telegra.ph/file/42df5e95417a50d7fd501.jpg",
+        "https://telegra.ph/file/f2cce61c9807ac77c0ef1.jpg",
+        "https://telegra.ph/file/053ed134260e9291d3a53.jpg",
+        "https://telegra.ph/file/205244034e55ac362e9a2.jpg",
+        "https://telegra.ph/file/1cc1ceeb6e3fc664b9237.jpg",
+        "https://telegra.ph/file/6d986edde88fe3a26142e.jpg",
+        "https://telegra.ph/file/02f6c4811717debc24c62.jpg",
+        "https://telegra.ph/file/d72ecc0a6f42671305ff7.jpg",
+        "https://telegra.ph/file/eb27fb73975ee5e5059a2.jpg",
+        "https://telegra.ph/file/5b46db0787f833d75a89e.jpg",
+        "https://telegra.ph/file/276c32837768f40b75ec2.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

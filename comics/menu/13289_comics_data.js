@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13289,
+    "title": "[はねっかえり (リコシェット)] その着せ替え人形は×××をする (その着せ替え人形は恋をする)",
+    "sourceUrl": "https://telegra.ph/はねっかえり-リコシェット-その着せ替え人形はをする-その着せ替え人形は恋をする-08-31",
+    "images": [
+        "https://telegra.ph/file/e7138608a9123305c95df.jpg",
+        "https://telegra.ph/file/142914a6ec157e62b7d82.jpg",
+        "https://telegra.ph/file/9aff05797234cd58a2211.jpg",
+        "https://telegra.ph/file/f92f9bfd87282a10bb704.jpg",
+        "https://telegra.ph/file/dce727b18cc7835d675e6.jpg",
+        "https://telegra.ph/file/0a6aec8fbcb38fd3ee724.jpg",
+        "https://telegra.ph/file/14cd119b09aebe2040a26.jpg",
+        "https://telegra.ph/file/6b8c765c154bb902ce38c.jpg",
+        "https://telegra.ph/file/d760f802347f0335d565e.jpg",
+        "https://telegra.ph/file/06a299cfa0d0666c8d2ba.jpg",
+        "https://telegra.ph/file/6574f776931a7830e1902.jpg",
+        "https://telegra.ph/file/b07a3c363933f48b00543.jpg",
+        "https://telegra.ph/file/1986764010b26692ee7fc.jpg",
+        "https://telegra.ph/file/e7492e7139f86aa1495bb.jpg",
+        "https://telegra.ph/file/9da6f58325becd7a194a1.jpg",
+        "https://telegra.ph/file/2e3fe3ccaa91e3ec353fd.jpg",
+        "https://telegra.ph/file/9b5295c2c4c8562dc4136.jpg",
+        "https://telegra.ph/file/4054f050b580151970637.jpg",
+        "https://telegra.ph/file/20e8d9821c8001b13a892.jpg",
+        "https://telegra.ph/file/1a9b75bc86db7fe4cf9b3.jpg",
+        "https://telegra.ph/file/4f942baef6e9c6ae611ee.jpg",
+        "https://telegra.ph/file/316d9aebd8f6249f9ac29.jpg",
+        "https://telegra.ph/file/afceadb2473dc53a9fdb0.jpg",
+        "https://telegra.ph/file/1bb4ebad45b98e7569cba.jpg",
+        "https://telegra.ph/file/e37e77c7d24c2fc68d6a6.jpg",
+        "https://telegra.ph/file/c8ebb8879f5eb91b1dca1.jpg",
+        "https://telegra.ph/file/2909730bb195ed561337b.jpg",
+        "https://telegra.ph/file/94fb5c82bdf817661f199.jpg",
+        "https://telegra.ph/file/9d40987f0a89ab3e414d2.jpg",
+        "https://telegra.ph/file/41791334cea399edef828.jpg",
+        "https://telegra.ph/file/c0235fb7a83b110eb57a0.jpg",
+        "https://telegra.ph/file/79735d0c05ead239f6306.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

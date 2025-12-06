@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13391,
+    "title": "[French letter (藤崎ひかり)] アイドル配信者しぐれうい -秘密の動画配信- (しぐれうい)",
+    "sourceUrl": "https://telegra.ph/French-letter-藤崎ひかり-アイドル配信者しぐれうい--秘密の動画配信--しぐれうい-08-31",
+    "images": [
+        "https://telegra.ph/file/6f679f0422487120407fc.jpg",
+        "https://telegra.ph/file/41b39b8ff440796436419.jpg",
+        "https://telegra.ph/file/4fa353b964aa4daa178aa.jpg",
+        "https://telegra.ph/file/92f56920111039e554d45.jpg",
+        "https://telegra.ph/file/a38c8a3f115d5d2f6bf97.jpg",
+        "https://telegra.ph/file/28263166e802cfa833fb9.jpg",
+        "https://telegra.ph/file/ce29e09a913dd29710cd0.jpg",
+        "https://telegra.ph/file/b21536b92b92af73f3c0c.jpg",
+        "https://telegra.ph/file/04e3d5d80f4e68bb8e33e.jpg",
+        "https://telegra.ph/file/c0552ba13a415c25e93b1.jpg",
+        "https://telegra.ph/file/6c5481a55024fc36d7a83.jpg",
+        "https://telegra.ph/file/65b00f88096b5d32ac997.jpg",
+        "https://telegra.ph/file/1753306cd1c7c8513b7b0.jpg",
+        "https://telegra.ph/file/5fe4719ffa4d42889e432.jpg",
+        "https://telegra.ph/file/66b491fd39664d9e3a035.jpg",
+        "https://telegra.ph/file/8a6c1c347a90182375809.jpg",
+        "https://telegra.ph/file/70bd933567365d104f5ee.jpg",
+        "https://telegra.ph/file/58dd2f95e591a712b94ec.jpg",
+        "https://telegra.ph/file/b9448c740c793ce0e112e.jpg",
+        "https://telegra.ph/file/df9cd05d8cc1510d92d39.jpg",
+        "https://telegra.ph/file/4e2693a34e1490b21f843.jpg",
+        "https://telegra.ph/file/1b58a2f5fabf4221b6372.jpg",
+        "https://telegra.ph/file/716380c56ac1d9282279f.jpg",
+        "https://telegra.ph/file/84abcb3e4659cf3856d8f.jpg",
+        "https://telegra.ph/file/c91174471469c9800e07d.jpg",
+        "https://telegra.ph/file/f2918a482c3d2a7493e54.jpg",
+        "https://telegra.ph/file/90e3861b7f29e9106d1c6.jpg",
+        "https://telegra.ph/file/b3210d158f8707e832c2a.jpg",
+        "https://telegra.ph/file/90d2cb4986d9f232a70c2.jpg",
+        "https://telegra.ph/file/e32be489ba5f6722e3059.jpg",
+        "https://telegra.ph/file/93add63bd6f85ea630f55.jpg",
+        "https://telegra.ph/file/aa64a4275f985b1a82208.jpg",
+        "https://telegra.ph/file/89e65ee1fe0010c60d8ea.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

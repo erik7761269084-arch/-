@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15834,
+    "title": "[美術部 (しづきみちる)] カーテシー倶楽部 (よろず)  -Preview",
+    "sourceUrl": "https://telegra.ph/美術部-しづきみちる-カーテシー倶楽部-よろず--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/511edba635f27dd2569b9.jpg",
+        "https://telegra.ph/file/69fae071dea0ae4a4a5a2.jpg",
+        "https://telegra.ph/file/8c03728fcb07ec0cf2b8b.jpg",
+        "https://telegra.ph/file/b36a6cc603edecc289e1f.jpg",
+        "https://telegra.ph/file/15f0a08d546559054461f.jpg",
+        "https://telegra.ph/file/65efad2079817e40cdc87.jpg",
+        "https://telegra.ph/file/412c221ac0a19971657e6.jpg",
+        "https://telegra.ph/file/52a8587da19e89ce9c580.jpg",
+        "https://telegra.ph/file/34d28d306854713965843.jpg",
+        "https://telegra.ph/file/ee3288c449d9e96534e28.jpg",
+        "https://telegra.ph/file/ece6880b9a2d063b64485.jpg",
+        "https://telegra.ph/file/c347477c3608f946444e8.jpg",
+        "https://telegra.ph/file/4dbd90ecc0cf11c00fc69.jpg",
+        "https://telegra.ph/file/a4fe4ebae3356d405cb39.jpg",
+        "https://telegra.ph/file/912a6c6902bb9f88bcd3e.jpg",
+        "https://telegra.ph/file/a26823da021b7af4c82c1.jpg",
+        "https://telegra.ph/file/d8933d574bb3299cee5ef.jpg",
+        "https://telegra.ph/file/1e0aeb6ed7905e3669f78.jpg",
+        "https://telegra.ph/file/244f7bb7d019657992bcf.jpg",
+        "https://telegra.ph/file/14e2029cb0102035b1a77.jpg",
+        "https://telegra.ph/file/f465cef7f4605b7d2b1eb.jpg",
+        "https://telegra.ph/file/aaa2772380c8fe03d8319.jpg",
+        "https://telegra.ph/file/f74a8525cffc9e83de52d.jpg",
+        "https://telegra.ph/file/2686772d931f80b7c7904.jpg",
+        "https://telegra.ph/file/00f45532b910197de403f.jpg",
+        "https://telegra.ph/file/f213268e28259a9432850.jpg",
+        "https://telegra.ph/file/e6229a56d26814c17fab6.jpg",
+        "https://telegra.ph/file/56cac1e51b5b74aaf7905.jpg",
+        "https://telegra.ph/file/0ad97cd38a67e88341f39.jpg",
+        "https://telegra.ph/file/a174f34dffc358553ecfd.jpg",
+        "https://telegra.ph/file/7890023e04c344c0b0dc1.jpg",
+        "https://telegra.ph/file/376fbee4fa124f6b1909a.jpg",
+        "https://telegra.ph/file/8528eb87fd889d937f30e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

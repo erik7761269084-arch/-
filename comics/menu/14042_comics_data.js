@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14042,
+    "title": "[squeezecandyheaven (いちはや)] あの子は問題児2",
+    "sourceUrl": "https://telegra.ph/squeezecandyheaven-いちはや-あの子は問題児2-08-31",
+    "images": [
+        "https://telegra.ph/file/08a66c09cc85d2b2a493c.jpg",
+        "https://telegra.ph/file/28770deb8d9356578c6ae.jpg",
+        "https://telegra.ph/file/23c441669156d0abfb4a0.jpg",
+        "https://telegra.ph/file/cea8c1743bb4de1e12af7.jpg",
+        "https://telegra.ph/file/a48a693a4d2d3270c6c19.jpg",
+        "https://telegra.ph/file/7c8d89471e391038657ea.jpg",
+        "https://telegra.ph/file/5cf9240a6b3d8a5427db8.jpg",
+        "https://telegra.ph/file/69f7d46fdba854709aacf.jpg",
+        "https://telegra.ph/file/6f87594054e55bed6bec8.jpg",
+        "https://telegra.ph/file/f1bf5e7753dd0064991f8.jpg",
+        "https://telegra.ph/file/7298a05d73a3048294a2f.jpg",
+        "https://telegra.ph/file/2203bfc8f4c3c3fe6e687.jpg",
+        "https://telegra.ph/file/cb4f66c7ca9933d5a33b0.jpg",
+        "https://telegra.ph/file/45f517a2e21fa1b64eaac.jpg",
+        "https://telegra.ph/file/b844e3cfa83139b0e6e8f.jpg",
+        "https://telegra.ph/file/4f90faf884191c3862e94.jpg",
+        "https://telegra.ph/file/c061a8da14458852de721.jpg",
+        "https://telegra.ph/file/24aebb112f97b12ba1c53.jpg",
+        "https://telegra.ph/file/a92b94dd7ebb9938111e6.jpg",
+        "https://telegra.ph/file/03296fa5cad8415846992.jpg",
+        "https://telegra.ph/file/4ecd3a5fbbfcb2d9afe67.jpg",
+        "https://telegra.ph/file/cf0aed3ffd809630ba92e.jpg",
+        "https://telegra.ph/file/c60653b0d02ce239d6ee3.jpg",
+        "https://telegra.ph/file/5f74d5d549b4cd18fea13.jpg",
+        "https://telegra.ph/file/08c690080441a3b61da45.jpg",
+        "https://telegra.ph/file/3b1c238d622d084a9dd07.jpg",
+        "https://telegra.ph/file/31e9e0b809f0940f5ecfb.jpg",
+        "https://telegra.ph/file/fae23dd535f4b6917d6a1.jpg",
+        "https://telegra.ph/file/4f07a89aaf63cf0c9f17c.jpg",
+        "https://telegra.ph/file/232859b47c323119f97ae.jpg",
+        "https://telegra.ph/file/fc45ebb8291e233a1ae24.jpg",
+        "https://telegra.ph/file/ca9e0fb9a6a48da309ad1.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

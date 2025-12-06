@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8320,
+    "title": "[ハチゴ (あやみ)] レムは24時間ハメ撮りしたい! (Re:ゼロから始める異世界生活)",
+    "sourceUrl": "https://telegra.ph/ハチゴ-あやみ-レムは24時間ハメ撮りしたい-Reゼロから始める異世界生活-08-31",
+    "images": [
+        "https://telegra.ph/file/7ccedfb28d71fea55c624.jpg",
+        "https://telegra.ph/file/f0515b6a3d0619bbea612.jpg",
+        "https://telegra.ph/file/46cd93694e9497e24f5d3.jpg",
+        "https://telegra.ph/file/14eb92f9aa18006abfc54.jpg",
+        "https://telegra.ph/file/533863f4d7181770de277.jpg",
+        "https://telegra.ph/file/030f1f78d2e2530bcc0b6.jpg",
+        "https://telegra.ph/file/e9883656da2e1e74d4bf8.jpg",
+        "https://telegra.ph/file/d74dcc8a8cce95e380fa7.jpg",
+        "https://telegra.ph/file/b26ff4685b2dec641f13f.jpg",
+        "https://telegra.ph/file/c606c73b3af8e74a07112.jpg",
+        "https://telegra.ph/file/b039d271063f709f7d577.jpg",
+        "https://telegra.ph/file/7583661a3041ca587c9c4.jpg",
+        "https://telegra.ph/file/a4153a04dba7f9a76f188.jpg",
+        "https://telegra.ph/file/e5a502526bd531eb86d4b.jpg",
+        "https://telegra.ph/file/e1d2ea8d84d40231f11be.jpg",
+        "https://telegra.ph/file/648b9c31bdfe0c86e1c15.jpg",
+        "https://telegra.ph/file/b89ebe7afa47baea6e1e5.jpg",
+        "https://telegra.ph/file/d0179d0cf2c7084db5ca1.jpg",
+        "https://telegra.ph/file/b648dc7536e7f690aa8a7.jpg",
+        "https://telegra.ph/file/b9f54603d20a504a57c7f.jpg",
+        "https://telegra.ph/file/fc63a4ac4a0eb3ba74ee0.jpg",
+        "https://telegra.ph/file/343e212ef15f65f8d85e0.jpg",
+        "https://telegra.ph/file/3c8b59dac57dfd2c7eeea.jpg",
+        "https://telegra.ph/file/d78d6daac9f657c2f5929.jpg",
+        "https://telegra.ph/file/5739eaa62ef60c52eed0f.jpg",
+        "https://telegra.ph/file/e0e862b8159cad94d3563.jpg",
+        "https://telegra.ph/file/4a372515374381a1ddc4b.jpg",
+        "https://telegra.ph/file/78316736a4dbe294b669e.jpg",
+        "https://telegra.ph/file/67e81bcdf6b6f96013c83.jpg",
+        "https://telegra.ph/file/6274451dc4ab28fc5d777.jpg",
+        "https://telegra.ph/file/1b583ce2840339db9e047.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

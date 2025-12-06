@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9804,
+    "title": "[スパイラルブレーン (暮古浪漫)] 世紀末オマ○コ学院 (世紀末オカルト学院)",
+    "sourceUrl": "https://telegra.ph/スパイラルブレーン-暮古浪漫-世紀末オマコ学院-世紀末オカルト学院-08-31",
+    "images": [
+        "https://telegra.ph/file/491b73364a90948b7808f.jpg",
+        "https://telegra.ph/file/06b8b1000621e057e2df9.jpg",
+        "https://telegra.ph/file/f11abd2d8a4d8c059d228.jpg",
+        "https://telegra.ph/file/b278f26d3e4360b7de38b.jpg",
+        "https://telegra.ph/file/41213f8267591bfcd3c68.jpg",
+        "https://telegra.ph/file/b378534999a37fa3d66d0.jpg",
+        "https://telegra.ph/file/b9d2f2c5f8407ea0513e5.jpg",
+        "https://telegra.ph/file/dd55c0ca4cd3bcbb92611.jpg",
+        "https://telegra.ph/file/61f6d9d94693ab43f0332.jpg",
+        "https://telegra.ph/file/3bc792da6431f196a0e31.jpg",
+        "https://telegra.ph/file/d3b6899ad3cf70d652fa4.jpg",
+        "https://telegra.ph/file/8cbf6b2dc56b991187036.jpg",
+        "https://telegra.ph/file/4240a5489379435dabd36.jpg",
+        "https://telegra.ph/file/963485deb90e7cb22f848.jpg",
+        "https://telegra.ph/file/5542acb99d44ff65ca290.jpg",
+        "https://telegra.ph/file/0e6c35fc818348e269dd0.jpg",
+        "https://telegra.ph/file/2f23ba9a515098cb45707.jpg",
+        "https://telegra.ph/file/6addf577a1966a9d3f2ad.jpg",
+        "https://telegra.ph/file/480c619b02f7ab1981dbf.jpg",
+        "https://telegra.ph/file/292a7690ff42774b0388e.jpg",
+        "https://telegra.ph/file/a2f4f79e82db0dd489ecd.jpg",
+        "https://telegra.ph/file/183b61cc875af02c94010.jpg",
+        "https://telegra.ph/file/3c8a1233363bbb33f38f5.jpg",
+        "https://telegra.ph/file/a61a4ffad3e85356693ec.jpg",
+        "https://telegra.ph/file/f23af6892a87e83463c35.jpg",
+        "https://telegra.ph/file/6b70d9c82ea105785720e.jpg",
+        "https://telegra.ph/file/e4b7293fe435072ad6e3b.jpg",
+        "https://telegra.ph/file/7f1413adf3d1d9531feb8.jpg",
+        "https://telegra.ph/file/a55787cbba0d6afb43706.jpg",
+        "https://telegra.ph/file/9fc5f25306be7a2cf8999.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

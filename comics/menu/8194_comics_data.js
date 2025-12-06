@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8194,
+    "title": "[かえでもみじ (しじょっこ)] つよいお姉ちゃんが催眠香に抵抗する話",
+    "sourceUrl": "https://telegra.ph/かえでもみじ-しじょっこ-つよいお姉ちゃんが催眠香に抵抗する話-08-31-2",
+    "images": [
+        "https://telegra.ph/file/9d838e3713194592b0db5.jpg",
+        "https://telegra.ph/file/c0c5d55992c119d6a811c.jpg",
+        "https://telegra.ph/file/c1524be890255d98709d3.jpg",
+        "https://telegra.ph/file/4c37688210f74bbc868d1.jpg",
+        "https://telegra.ph/file/f27139bb0f0400739e75c.jpg",
+        "https://telegra.ph/file/1a2b6ccf1f42f99b9d3bb.jpg",
+        "https://telegra.ph/file/49056301d768475436929.jpg",
+        "https://telegra.ph/file/3c84449022d608efcf29e.jpg",
+        "https://telegra.ph/file/a84e67a04ef2a651e169e.jpg",
+        "https://telegra.ph/file/42705f88b7e43034fcc61.jpg",
+        "https://telegra.ph/file/bb5d60d5b26d45eecdff4.jpg",
+        "https://telegra.ph/file/89837962946c8ab5ec5d6.jpg",
+        "https://telegra.ph/file/c01545095d365c84604ba.jpg",
+        "https://telegra.ph/file/7ed1399cc6ccf0d82d0b9.jpg",
+        "https://telegra.ph/file/a4297f05834b9f9027584.jpg",
+        "https://telegra.ph/file/5953c27a5d3654de96d81.jpg",
+        "https://telegra.ph/file/2aa5b95dae6fd25b62e27.jpg",
+        "https://telegra.ph/file/ae0789e3a24557912a2cc.jpg",
+        "https://telegra.ph/file/eaf57cb5c3ec1508104f3.jpg",
+        "https://telegra.ph/file/3cb228e1f77d63e2fea0c.jpg",
+        "https://telegra.ph/file/b099d866bdf46f54194f0.jpg",
+        "https://telegra.ph/file/9ae665bb3cb6cd78ac643.jpg",
+        "https://telegra.ph/file/26b671a51b503fa0ba4b5.jpg",
+        "https://telegra.ph/file/464b0a3112ff77911b1d9.jpg",
+        "https://telegra.ph/file/f3f8f512f20cd0befe0c2.jpg",
+        "https://telegra.ph/file/39340d69b70524b4a8e21.jpg",
+        "https://telegra.ph/file/94213bb1afd7afa6db5f9.jpg",
+        "https://telegra.ph/file/26a8ead3a3ccfa4d565a3.jpg",
+        "https://telegra.ph/file/a6938183cc703e094fc5b.jpg",
+        "https://telegra.ph/file/9c929984989d801422ecf.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

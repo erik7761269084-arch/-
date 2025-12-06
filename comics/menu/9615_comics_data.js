@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9615,
+    "title": "(C93) [ピアニッシモ (ピジャ)] 鷺沢文香はよくモテる (アイドルマスターシンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/C93-ピアニッシモ-ピジャ-鷺沢文香はよくモテる-アイドルマスターシンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/c9023b19def83e8de07ff.jpg",
+        "https://telegra.ph/file/9f547958681a614e75c58.jpg",
+        "https://telegra.ph/file/784c70d712ab0fefe60d4.jpg",
+        "https://telegra.ph/file/8941c1bfad33a32305f5b.jpg",
+        "https://telegra.ph/file/856c5d4c50e7a3f84fc64.jpg",
+        "https://telegra.ph/file/2bc281d21c9afb6e57527.jpg",
+        "https://telegra.ph/file/a61c25bb6eb30f3eaadf9.jpg",
+        "https://telegra.ph/file/0c585f5c542e371db8c5d.jpg",
+        "https://telegra.ph/file/a0c650919ce34c01bd153.jpg",
+        "https://telegra.ph/file/8f406ec2d3bf42ca7b816.jpg",
+        "https://telegra.ph/file/66e526b5362d0e8250f96.jpg",
+        "https://telegra.ph/file/ba88b9da9f499bab73438.jpg",
+        "https://telegra.ph/file/d4b911bd64353f544c023.jpg",
+        "https://telegra.ph/file/1c27d629592bbde7b4ff1.jpg",
+        "https://telegra.ph/file/92340dc193175ddd3f87c.jpg",
+        "https://telegra.ph/file/53ee4e53441131cf8a389.jpg",
+        "https://telegra.ph/file/81bf83b389b0a091fb24e.jpg",
+        "https://telegra.ph/file/223f2571d2d305cd5b58b.jpg",
+        "https://telegra.ph/file/32d77f908a91cf5d4e148.jpg",
+        "https://telegra.ph/file/d66339c5c40fd08771aba.jpg",
+        "https://telegra.ph/file/a0a37bc79110b1ddbf82e.jpg",
+        "https://telegra.ph/file/b955920d2876dbbb4dc9b.jpg",
+        "https://telegra.ph/file/3370306237fdff6602f4f.jpg",
+        "https://telegra.ph/file/7fef76ef57c4dedf44cd5.jpg",
+        "https://telegra.ph/file/8fecfc725115f7cdd4cb3.jpg",
+        "https://telegra.ph/file/628f3931fc5fc74f0d0ac.jpg",
+        "https://telegra.ph/file/8b3c039bcca2938b05751.jpg",
+        "https://telegra.ph/file/1f9124dca1e49dad097de.jpg",
+        "https://telegra.ph/file/917d046cbb0e718b2932e.jpg",
+        "https://telegra.ph/file/e626fb8bd516e77b5359f.jpg",
+        "https://telegra.ph/file/29ce78b42a3050ee8c739.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

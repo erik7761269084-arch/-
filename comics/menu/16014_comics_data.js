@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16014,
+    "title": "[わにわにぱにっく (わにたろー。)] ふたごのじかん (アイドルマスター シャイニーカラーズ)  -Preview",
+    "sourceUrl": "https://telegra.ph/わにわにぱにっく-わにたろー-ふたごのじかん-アイドルマスター-シャイニーカラーズ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/c6e23d9e706b3b7c48103.jpg",
+        "https://telegra.ph/file/df9980cf7308ef7384b72.jpg",
+        "https://telegra.ph/file/4a11852dcfd40344a453f.jpg",
+        "https://telegra.ph/file/81661d91126bb8e8efd3e.jpg",
+        "https://telegra.ph/file/eaa06cf4ddb7e5384ee7f.jpg",
+        "https://telegra.ph/file/38ba1af156fa630dcfc9e.jpg",
+        "https://telegra.ph/file/6d1a047495446962a03ee.jpg",
+        "https://telegra.ph/file/ac44fa80742b9d6e42604.jpg",
+        "https://telegra.ph/file/a90e353b1c16a99abd409.jpg",
+        "https://telegra.ph/file/b8219df509dd96b91c5df.jpg",
+        "https://telegra.ph/file/2ae7b773433df85bc671c.jpg",
+        "https://telegra.ph/file/00371b38df43265ee9e50.jpg",
+        "https://telegra.ph/file/389c93206713fee3b0c5d.jpg",
+        "https://telegra.ph/file/277b4dac9436a941d26d5.jpg",
+        "https://telegra.ph/file/91166e1bd62a8a89633c1.jpg",
+        "https://telegra.ph/file/d1468fbc06dfed0db6590.jpg",
+        "https://telegra.ph/file/f206c4056a03c09a43863.jpg",
+        "https://telegra.ph/file/e65bf4f5091e54855b0e2.jpg",
+        "https://telegra.ph/file/9f3a45475d7d8e192f983.jpg",
+        "https://telegra.ph/file/7510657a2e636557cc216.jpg",
+        "https://telegra.ph/file/eda7906ab1e83e9e6358b.jpg",
+        "https://telegra.ph/file/63188618c2bb163a991b1.jpg",
+        "https://telegra.ph/file/02261754a944ca1c46c0d.jpg",
+        "https://telegra.ph/file/29f8ecf0bc1f579db879d.jpg",
+        "https://telegra.ph/file/2132eb76f2b3bcb279fbb.jpg",
+        "https://telegra.ph/file/5d9cf9b033aaab5a296a7.jpg",
+        "https://telegra.ph/file/1c6ab04ae10a545617dae.jpg",
+        "https://telegra.ph/file/9285eca4192ccfa1b0a3c.jpg",
+        "https://telegra.ph/file/0a67c0f1cadeaa09042ad.jpg",
+        "https://telegra.ph/file/76f33ac090bedb017ab3f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

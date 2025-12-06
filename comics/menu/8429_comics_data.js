@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8429,
+    "title": "[井上よしひさ] 女スパイ淫縛拷問大作戦 MISSION:2 (COMIC 阿吽 2021年4月号)",
+    "sourceUrl": "https://telegra.ph/井上よしひさ-女スパイ淫縛拷問大作戦-MISSION2-COMIC-阿吽-2021年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/0617f681a523b0186c92a.jpg",
+        "https://telegra.ph/file/fc4058c5fdd847d27e10e.jpg",
+        "https://telegra.ph/file/80ac3807b0e287d9f9550.jpg",
+        "https://telegra.ph/file/272add0987e1ad915b981.jpg",
+        "https://telegra.ph/file/fe8b1e942f06088a7dd17.jpg",
+        "https://telegra.ph/file/32b92eb40fa7cf4518e31.jpg",
+        "https://telegra.ph/file/e0d7fe94f22a14d078a1e.jpg",
+        "https://telegra.ph/file/80bbfe257b90f21db23c2.jpg",
+        "https://telegra.ph/file/16fa3f99abcc489787257.jpg",
+        "https://telegra.ph/file/d778136c396806bf67de3.jpg",
+        "https://telegra.ph/file/e8de4499e518cdb1c0253.jpg",
+        "https://telegra.ph/file/9f7e17e8e875d374854b4.jpg",
+        "https://telegra.ph/file/8ce4582b73997ea74bc33.jpg",
+        "https://telegra.ph/file/76cb1651c5681c772ac8c.jpg",
+        "https://telegra.ph/file/382c17e520630bc6eed37.jpg",
+        "https://telegra.ph/file/696991a99ba9ab87e6526.jpg",
+        "https://telegra.ph/file/4d373f1dd56cdb017738e.jpg",
+        "https://telegra.ph/file/efc527a6e2b159caa4d00.jpg",
+        "https://telegra.ph/file/bcd257d2b28e0cb0de7d3.jpg",
+        "https://telegra.ph/file/49930e84479e8991200c2.jpg",
+        "https://telegra.ph/file/7cf47e7a6d4a01dbd5f90.jpg",
+        "https://telegra.ph/file/8fb55e3e4068ae4ec9199.jpg",
+        "https://telegra.ph/file/eb67b9abe1a3d0b07b29d.jpg",
+        "https://telegra.ph/file/e4df42f8d13f252c7f3b7.jpg",
+        "https://telegra.ph/file/2b704d3be376a7bf775c0.jpg",
+        "https://telegra.ph/file/98e528230d39d6eabd7aa.jpg",
+        "https://telegra.ph/file/c0bf4d29eb5012b4eb9d3.jpg",
+        "https://telegra.ph/file/8ef5c6926d054b53f9d36.jpg",
+        "https://telegra.ph/file/04053c645c1ad46469844.jpg",
+        "https://telegra.ph/file/5ce0f2f0511242b08cd6f.jpg",
+        "https://telegra.ph/file/967f4e61367348db65b66.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

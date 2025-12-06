@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11832,
+    "title": "(C91) [四畳半書房 (四畳半書房)] シンマザBitchのレイカちゃん序",
+    "sourceUrl": "https://telegra.ph/C91-四畳半書房-四畳半書房-シンマザBitchのレイカちゃん序-08-31",
+    "images": [
+        "https://telegra.ph/file/74b7465a4a2964db2b5a2.jpg",
+        "https://telegra.ph/file/d4c2bcb1bc0cec9b53626.jpg",
+        "https://telegra.ph/file/cd6922ff0564b3081eb38.jpg",
+        "https://telegra.ph/file/ef6e5c08f84b873fc1554.jpg",
+        "https://telegra.ph/file/e25d9b0d1bab25622fc88.jpg",
+        "https://telegra.ph/file/6a36166d9184f7702d95c.jpg",
+        "https://telegra.ph/file/e6bbf9257c6090dde506e.jpg",
+        "https://telegra.ph/file/44491dc3d613207818c88.jpg",
+        "https://telegra.ph/file/3aa947d21fc378beb6e27.jpg",
+        "https://telegra.ph/file/9dc4b3da3e2a91f160ef1.jpg",
+        "https://telegra.ph/file/665abbb9d2e5e61e31638.jpg",
+        "https://telegra.ph/file/d953481b5c29bbfdea4d4.jpg",
+        "https://telegra.ph/file/983f680d00db0cf94ac7d.jpg",
+        "https://telegra.ph/file/e20b71efd4f667ceb86b1.jpg",
+        "https://telegra.ph/file/33335e8e6e034ff9a2f26.jpg",
+        "https://telegra.ph/file/7540656be86f21f42d4d5.jpg",
+        "https://telegra.ph/file/e14cfe1be33642a0df41e.jpg",
+        "https://telegra.ph/file/3031702f50b8cf197da6d.jpg",
+        "https://telegra.ph/file/5d773ff546343c42e9a64.jpg",
+        "https://telegra.ph/file/f11fc6cd1b5bf2dd0404e.jpg",
+        "https://telegra.ph/file/acd851db8a371036a3c93.jpg",
+        "https://telegra.ph/file/1db292df901d38f1c3433.jpg",
+        "https://telegra.ph/file/0e0b5055aaeefa58c1cc4.jpg",
+        "https://telegra.ph/file/411bf9790f750a03a727b.jpg",
+        "https://telegra.ph/file/0c36d97c4fc1d279c7a18.jpg",
+        "https://telegra.ph/file/f9260c435b64738773bd7.jpg",
+        "https://telegra.ph/file/dfe1a6c4a1c7039b28ad1.jpg",
+        "https://telegra.ph/file/0dafa15ed219c6ad4792f.jpg",
+        "https://telegra.ph/file/c9d66dc12d4769d234c51.jpg",
+        "https://telegra.ph/file/d55f5cf775baa2a8bac3c.jpg",
+        "https://telegra.ph/file/bdb8ff038c8fc311d1083.jpg",
+        "https://telegra.ph/file/3af3c5023c74cf9e037ef.jpg",
+        "https://telegra.ph/file/9974ec7b8884888b25ec7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

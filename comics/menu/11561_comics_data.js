@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11561,
+    "title": "(C90) [白ネギ屋 (miya9)] アコプリ物語Ⅱ (ラグナロクオンライン)",
+    "sourceUrl": "https://telegra.ph/C90-白ネギ屋-miya9-アコプリ物語-ラグナロクオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/3de43008f3b9f4754fcc1.jpg",
+        "https://telegra.ph/file/5546af69e7f6d4fb506d1.jpg",
+        "https://telegra.ph/file/d9bd4a8e9de25b1608310.jpg",
+        "https://telegra.ph/file/dd4b2ea9bb1636e1a411f.jpg",
+        "https://telegra.ph/file/0b4bd2a635663f32b9947.jpg",
+        "https://telegra.ph/file/09bf6ac06c440ce658cc0.jpg",
+        "https://telegra.ph/file/39eb997e8d332ce32cde6.jpg",
+        "https://telegra.ph/file/8391b4d2f9b2335f90131.jpg",
+        "https://telegra.ph/file/a816401253b5ecb297306.jpg",
+        "https://telegra.ph/file/7beaf4721774ce98245d4.jpg",
+        "https://telegra.ph/file/86577144fa299082caa8e.jpg",
+        "https://telegra.ph/file/cc22899ac796d778dd2ec.jpg",
+        "https://telegra.ph/file/d14044dbe594b63faec07.jpg",
+        "https://telegra.ph/file/4fa32828064991b59f78f.jpg",
+        "https://telegra.ph/file/85c79f95277208c1ca5a2.jpg",
+        "https://telegra.ph/file/50c58e36c4c99e2e4d7e5.jpg",
+        "https://telegra.ph/file/96cbe9d8f40a22961ccbd.jpg",
+        "https://telegra.ph/file/09ac3cb026cdd2fe189c6.jpg",
+        "https://telegra.ph/file/555243b43ff68e248204c.jpg",
+        "https://telegra.ph/file/9c7d67d058fa02070dbcd.jpg",
+        "https://telegra.ph/file/849b05daab1c0527173c2.jpg",
+        "https://telegra.ph/file/2c8e1fd262da9f3a09a1b.jpg",
+        "https://telegra.ph/file/895cfcd0f797082030b24.jpg",
+        "https://telegra.ph/file/020c85e5fc44bbcdedb4c.jpg",
+        "https://telegra.ph/file/df9386e835943c8a180f7.jpg",
+        "https://telegra.ph/file/925f6f7e8bb2fb7a33af6.jpg",
+        "https://telegra.ph/file/5e7b1b48998548e284eeb.jpg",
+        "https://telegra.ph/file/e27933f59c55006a79222.jpg",
+        "https://telegra.ph/file/84c8f5916505b4a6f61de.jpg",
+        "https://telegra.ph/file/0c48cad2229a53372d68a.jpg",
+        "https://telegra.ph/file/e44be393124df95f8e41a.jpg",
+        "https://telegra.ph/file/a4ec198e69ea73bb5499d.jpg",
+        "https://telegra.ph/file/67783fb4cbd21a988aca2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

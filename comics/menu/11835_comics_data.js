@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11835,
+    "title": "[まゃ～吾郎] 堕チタ姫神～稲荷姫～ (二次元コミックマガジン 脳姦悪堕ち 洗脳快楽に侵された正義のヒロインVol.1)",
+    "sourceUrl": "https://telegra.ph/まゃ吾郎-堕チタ姫神稲荷姫-二次元コミックマガジン-脳姦悪堕ち-洗脳快楽に侵された正義のヒロインVol1-08-31",
+    "images": [
+        "https://telegra.ph/file/b21d5e97996e8f8c9f82b.jpg",
+        "https://telegra.ph/file/4907689f24d890b5a994f.jpg",
+        "https://telegra.ph/file/4f230c831a063e5c3fb14.jpg",
+        "https://telegra.ph/file/268447277424d5eb7cda5.jpg",
+        "https://telegra.ph/file/0e4b4988e3911888b75fb.jpg",
+        "https://telegra.ph/file/441f51950a643cb0471ff.jpg",
+        "https://telegra.ph/file/f0a54c828703448fbf470.jpg",
+        "https://telegra.ph/file/e5ab41a1ee4cd92cf7a14.jpg",
+        "https://telegra.ph/file/84ebccb8f75a1889559ec.jpg",
+        "https://telegra.ph/file/80b103201bcf2ae392907.jpg",
+        "https://telegra.ph/file/ab1d8b76546979c30f8e5.jpg",
+        "https://telegra.ph/file/94ea84d2123620fe4e8ff.jpg",
+        "https://telegra.ph/file/34889e118747bb82eef61.jpg",
+        "https://telegra.ph/file/a8e563ed80c9c9bb18716.jpg",
+        "https://telegra.ph/file/0bd5ef168a2674de68609.jpg",
+        "https://telegra.ph/file/d2a08e9304618393b7cf6.jpg",
+        "https://telegra.ph/file/53948f80e29581607f406.jpg",
+        "https://telegra.ph/file/786b52d579053eb91218b.jpg",
+        "https://telegra.ph/file/1bb75ef8b4f3d875733e1.jpg",
+        "https://telegra.ph/file/1954be34315dbb694b9b2.jpg",
+        "https://telegra.ph/file/ad399716dca831f5889ec.jpg",
+        "https://telegra.ph/file/563a8632357e244eb94f1.jpg",
+        "https://telegra.ph/file/aa581cd491bb9030605fb.jpg",
+        "https://telegra.ph/file/92e9825324187836c2997.jpg",
+        "https://telegra.ph/file/8eac43fc4eb9510e0d667.jpg",
+        "https://telegra.ph/file/b67b2b3ddbb9ffe0be9e2.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

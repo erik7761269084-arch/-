@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10739,
+    "title": "[珈琲幼女 (芽々ノ圭)] しずショタ!～待って!僕の睡眠時間。～ (静凛)",
+    "sourceUrl": "https://telegra.ph/珈琲幼女-芽々ノ圭-しずショタ待って僕の睡眠時間-静凛-08-31",
+    "images": [
+        "https://telegra.ph/file/31eb232f836a03e53a31c.jpg",
+        "https://telegra.ph/file/05dd68db9901b95e01e6c.jpg",
+        "https://telegra.ph/file/ef7aa523bf25efd2ef9b5.jpg",
+        "https://telegra.ph/file/304c9133af41187f21cc5.jpg",
+        "https://telegra.ph/file/240a855b42717dea998c2.jpg",
+        "https://telegra.ph/file/363c67b2cc1e937e7e6bd.jpg",
+        "https://telegra.ph/file/905fb1c7e43827f9fa21d.jpg",
+        "https://telegra.ph/file/76088a0a3dc4cb0a3f008.jpg",
+        "https://telegra.ph/file/24302b38c6b71faf0df23.jpg",
+        "https://telegra.ph/file/1d6467cd170417e598bb8.jpg",
+        "https://telegra.ph/file/d323096b550d337129c3f.jpg",
+        "https://telegra.ph/file/2c3fbeacf8cdda3b38d20.jpg",
+        "https://telegra.ph/file/d4a565421d6f99e448e99.jpg",
+        "https://telegra.ph/file/680659a7c82981235841c.jpg",
+        "https://telegra.ph/file/40bd5f7f32451f847a97c.jpg",
+        "https://telegra.ph/file/72ab57dc5fa4ec443ea0a.jpg",
+        "https://telegra.ph/file/1aaaf8537c21957e5ee27.jpg",
+        "https://telegra.ph/file/1883b6a7e08cdae5cb122.jpg",
+        "https://telegra.ph/file/863150cbdb499ead3a87f.jpg",
+        "https://telegra.ph/file/21520cf8ee3562fe662fe.jpg",
+        "https://telegra.ph/file/ad8c2cb8962f3fabff4bf.jpg",
+        "https://telegra.ph/file/ff807a469fbc61189ecca.jpg",
+        "https://telegra.ph/file/70f17fa90d6fb32cfaea5.jpg",
+        "https://telegra.ph/file/d7e0175ce7a3bcc808c24.jpg",
+        "https://telegra.ph/file/0754e5a362251c259c9d6.jpg",
+        "https://telegra.ph/file/89f29cb77ba13676b2d90.jpg",
+        "https://telegra.ph/file/cfab2d3a0274721623603.jpg",
+        "https://telegra.ph/file/9552ebae9e702c00a33b9.jpg",
+        "https://telegra.ph/file/465e2c55da415c353d95d.jpg",
+        "https://telegra.ph/file/cfd0b4f9d603f4d98faef.jpg",
+        "https://telegra.ph/file/8f063ddda484a595c9276.jpg",
+        "https://telegra.ph/file/6826fd26e32222b6c1de6.jpg",
+        "https://telegra.ph/file/e367ab1aa63a60d5abc32.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

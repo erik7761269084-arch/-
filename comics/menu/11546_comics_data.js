@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11546,
+    "title": "[火愚夜] 特務戦隊カラフル・フォース (二次元ドリームマガジン Vol.113)",
+    "sourceUrl": "https://telegra.ph/火愚夜-特務戦隊カラフルフォース-二次元ドリームマガジン-Vol113-08-31",
+    "images": [
+        "https://telegra.ph/file/7cf8df37d218cd974cd73.jpg",
+        "https://telegra.ph/file/3a5fe5115a7636cfb7e73.jpg",
+        "https://telegra.ph/file/9508ea15c0fae4560f72a.jpg",
+        "https://telegra.ph/file/9b06d79a5318ee5b2cd69.jpg",
+        "https://telegra.ph/file/f6c1dfd1b4f7630c49964.jpg",
+        "https://telegra.ph/file/4100813d8f9f88f506d39.jpg",
+        "https://telegra.ph/file/95e5873c98ab80b6a5162.jpg",
+        "https://telegra.ph/file/4f7405d9ccbcbfd7c817f.jpg",
+        "https://telegra.ph/file/e1a6cbf69fbf359752d35.jpg",
+        "https://telegra.ph/file/9a84ac7d89a95eae248aa.jpg",
+        "https://telegra.ph/file/931a67046e3c109e57a7e.jpg",
+        "https://telegra.ph/file/1fd2091fa67f0bacec99c.jpg",
+        "https://telegra.ph/file/0215c724487705ad1100f.jpg",
+        "https://telegra.ph/file/7c19bf46d23bb8512afb1.jpg",
+        "https://telegra.ph/file/fa80e37e266a2902f20cf.jpg",
+        "https://telegra.ph/file/0cfa132397c20676e1694.jpg",
+        "https://telegra.ph/file/d98159a39e3a527587b1a.jpg",
+        "https://telegra.ph/file/8480f729533a287b92f98.jpg",
+        "https://telegra.ph/file/535eb37a55a5cc670851b.jpg",
+        "https://telegra.ph/file/da03b700e17b760894111.jpg",
+        "https://telegra.ph/file/9fa67fedd0ae95e75b9bf.jpg",
+        "https://telegra.ph/file/c3458c7d99382a73d8c1f.jpg",
+        "https://telegra.ph/file/627aeaaf6e8cd7fb0ff94.jpg",
+        "https://telegra.ph/file/f0ea15a3f24815991c0b3.jpg",
+        "https://telegra.ph/file/e6a0168d7567142176185.jpg",
+        "https://telegra.ph/file/7f1449dd3fad096ee756a.jpg",
+        "https://telegra.ph/file/5abe421f99196ecba661a.jpg",
+        "https://telegra.ph/file/6e4a15c14fc0e5bbdc714.jpg",
+        "https://telegra.ph/file/64cc06ce94963a4d27627.jpg",
+        "https://telegra.ph/file/d38570e98ec666e8fbb00.jpg",
+        "https://telegra.ph/file/dc9933a7ba008ab1476d8.jpg",
+        "https://telegra.ph/file/f98a17ba05277cfa05dde.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11320,
+    "title": "[O.S (ばーるん)] メイド彼女と年下彼氏",
+    "sourceUrl": "https://telegra.ph/OS-ばーるん-メイド彼女と年下彼氏-08-31",
+    "images": [
+        "https://telegra.ph/file/a421abb5af8d4c95bce9e.jpg",
+        "https://telegra.ph/file/d0af1125c5a6f27415117.jpg",
+        "https://telegra.ph/file/31d5420924080d3587fd9.jpg",
+        "https://telegra.ph/file/cef5ea0a8ad646fcc5d43.jpg",
+        "https://telegra.ph/file/de5925aff6bafdc727b02.jpg",
+        "https://telegra.ph/file/8ae7a4cb31c86b31d4f0a.jpg",
+        "https://telegra.ph/file/147cd133d021afb7f0ef9.jpg",
+        "https://telegra.ph/file/ad2303ed5811b13b4c734.jpg",
+        "https://telegra.ph/file/720d6f2faac068a49ede4.jpg",
+        "https://telegra.ph/file/b372351597149a5ec85f2.jpg",
+        "https://telegra.ph/file/9977c54a61d649b833dab.jpg",
+        "https://telegra.ph/file/56b4b82f82eefe2e82eef.jpg",
+        "https://telegra.ph/file/0c6c6bda91d0164cb40f3.jpg",
+        "https://telegra.ph/file/966d4d292075b7e02e1cf.jpg",
+        "https://telegra.ph/file/4ed6eb0df34ecf57018ad.jpg",
+        "https://telegra.ph/file/e4faeb4b7bb093e30be95.jpg",
+        "https://telegra.ph/file/2bd63c5a0270ebd3dda09.jpg",
+        "https://telegra.ph/file/67c6d552d12c1f10c623a.jpg",
+        "https://telegra.ph/file/58f4d8f97309dc488a1e5.jpg",
+        "https://telegra.ph/file/b20f543a302feff08ba85.jpg",
+        "https://telegra.ph/file/e61af574e2336be744300.jpg",
+        "https://telegra.ph/file/fe986cd682af640a2e170.jpg",
+        "https://telegra.ph/file/38c47ce8b674b49794f5e.jpg",
+        "https://telegra.ph/file/cb4436ac4893b0c58c072.jpg",
+        "https://telegra.ph/file/cbb3281f9fd515c367ecf.jpg",
+        "https://telegra.ph/file/4c36d2dd842e5482bb614.jpg",
+        "https://telegra.ph/file/cf8c2e12a50c915f3dc2b.jpg",
+        "https://telegra.ph/file/485aa384f01cb892674b6.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/8664818462199397a8fd1.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

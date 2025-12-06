@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11831,
+    "title": "[きつね屋 (リーフィ)] カーマちゃんと愛の処方箋 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/きつね屋-リーフィ-カーマちゃんと愛の処方箋-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/fb00d812af5d6d44fb977.jpg",
+        "https://telegra.ph/file/f44e3976ca6ff181ee82e.jpg",
+        "https://telegra.ph/file/aa6e935e2eb94aa9997df.jpg",
+        "https://telegra.ph/file/3923e1a4f52f947b75344.jpg",
+        "https://telegra.ph/file/90ff8a739e41ce916d1ed.jpg",
+        "https://telegra.ph/file/c54e390a952b65f9dd442.jpg",
+        "https://telegra.ph/file/fd4041de849226cece7d5.jpg",
+        "https://telegra.ph/file/0c5234fa486e4f242e1b1.jpg",
+        "https://telegra.ph/file/a75cdd47d71007c296bbf.jpg",
+        "https://telegra.ph/file/970573cb3aef0d19b17b0.jpg",
+        "https://telegra.ph/file/2d335c0306dab0e22aabc.jpg",
+        "https://telegra.ph/file/b07182d1325664092311c.jpg",
+        "https://telegra.ph/file/69eb06760ba42fec87fcf.jpg",
+        "https://telegra.ph/file/3b29d3c0743e80a741a3b.jpg",
+        "https://telegra.ph/file/ba6960223f97ce7bd3894.jpg",
+        "https://telegra.ph/file/71220bf6726d62040ea4b.jpg",
+        "https://telegra.ph/file/d135b93df78bb34f2942b.jpg",
+        "https://telegra.ph/file/ecf2786dbb4c33528f3ec.jpg",
+        "https://telegra.ph/file/654627ed71d4530e65811.jpg",
+        "https://telegra.ph/file/509a930c9e19bd78694b2.jpg",
+        "https://telegra.ph/file/0c801e92d16e062be89b5.jpg",
+        "https://telegra.ph/file/c14b3756478b01f296c40.jpg",
+        "https://telegra.ph/file/b697ce45e8d3849de447b.jpg",
+        "https://telegra.ph/file/60ccdb9387b7c7eed4aa4.jpg",
+        "https://telegra.ph/file/4b37e1205b17903351dc4.jpg",
+        "https://telegra.ph/file/13221a6a8d7b646814b64.jpg",
+        "https://telegra.ph/file/676742414446762c34c12.jpg",
+        "https://telegra.ph/file/ae1abef67a2561b004495.jpg",
+        "https://telegra.ph/file/e07bc0267b21692c3ea1a.jpg",
+        "https://telegra.ph/file/30945cb8984c46d12e209.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

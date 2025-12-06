@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12265,
+    "title": "(C97) [黒い彗星 (しめじなめこ)] ぐりあろぱこぱこ (ボンバーガール)",
+    "sourceUrl": "https://telegra.ph/C97-黒い彗星-しめじなめこ-ぐりあろぱこぱこ-ボンバーガール-08-31",
+    "images": [
+        "https://telegra.ph/file/04c8c0feeb86ee686206a.jpg",
+        "https://telegra.ph/file/d92e712ad6542f5056ccd.jpg",
+        "https://telegra.ph/file/a1b01fd10bc10bb6ba69d.jpg",
+        "https://telegra.ph/file/8facf9d8d0002aa205712.jpg",
+        "https://telegra.ph/file/833dac2f57206f5a82fe5.jpg",
+        "https://telegra.ph/file/f4f9341906599aa418826.jpg",
+        "https://telegra.ph/file/c88bee633a421c2527645.jpg",
+        "https://telegra.ph/file/f34c058f41193868b8c0d.jpg",
+        "https://telegra.ph/file/226b9d32b41d242315811.jpg",
+        "https://telegra.ph/file/e0c19df35fb5c915fce33.jpg",
+        "https://telegra.ph/file/e8e22696590147cc5196e.jpg",
+        "https://telegra.ph/file/33b867f18a1240473598d.jpg",
+        "https://telegra.ph/file/5286eebd10222b830a839.jpg",
+        "https://telegra.ph/file/a0605ac4b9025e3157c13.jpg",
+        "https://telegra.ph/file/64bd122fe94a0f8ea9bd8.jpg",
+        "https://telegra.ph/file/7be2aa5c3be7d50905a74.jpg",
+        "https://telegra.ph/file/87f331a630bde4b0b7420.jpg",
+        "https://telegra.ph/file/87a64fc3bf7383c1c919f.jpg",
+        "https://telegra.ph/file/99630ddcc294d839b5141.jpg",
+        "https://telegra.ph/file/b4cd76219740781f3a3fe.jpg",
+        "https://telegra.ph/file/13d62b7d801edafe37ba0.jpg",
+        "https://telegra.ph/file/8aaa7cf35adede618b4db.jpg",
+        "https://telegra.ph/file/d17780763e0a045cf029a.jpg",
+        "https://telegra.ph/file/3c271fdec61b08d1e7d2f.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8746,
+    "title": "[広弥] ダスティーミラー (コミック エグゼ 33)",
+    "sourceUrl": "https://telegra.ph/広弥-ダスティーミラー-コミック-エグゼ-33-08-31",
+    "images": [
+        "https://telegra.ph/file/552a3b4dbe38439978cd7.jpg",
+        "https://telegra.ph/file/d3e8b6fd646f04699ce0d.jpg",
+        "https://telegra.ph/file/f190ac3ca86b8395bc09e.jpg",
+        "https://telegra.ph/file/6cba136a74c787ab6713e.jpg",
+        "https://telegra.ph/file/10fd796303673ea362a7d.jpg",
+        "https://telegra.ph/file/46a178b9aad8f80b81ac3.jpg",
+        "https://telegra.ph/file/e8d8d37a170d074f7246d.jpg",
+        "https://telegra.ph/file/d30504f3c79dcb3461f26.jpg",
+        "https://telegra.ph/file/f75cebd6b0246a723de66.jpg",
+        "https://telegra.ph/file/fd9da7e1f97cf0029bea6.jpg",
+        "https://telegra.ph/file/97f70da04ad1a7c2a47a2.jpg",
+        "https://telegra.ph/file/cb9dc12c93b1abf984e11.jpg",
+        "https://telegra.ph/file/079188b37945d40a377b0.jpg",
+        "https://telegra.ph/file/0e041d2f316f0b109f2f1.jpg",
+        "https://telegra.ph/file/a2c8c306253f923781bdb.jpg",
+        "https://telegra.ph/file/fa4a5904278ba1e21885a.jpg",
+        "https://telegra.ph/file/b547ec20e5374a3639ebb.jpg",
+        "https://telegra.ph/file/8d1b6096f87860b7036e9.jpg",
+        "https://telegra.ph/file/c2c64fccbf45450f12676.jpg",
+        "https://telegra.ph/file/1c6c18124867a640453e2.jpg",
+        "https://telegra.ph/file/4f0664eafaf1c73444adb.jpg",
+        "https://telegra.ph/file/aaa66c74e7786a52b7a78.jpg",
+        "https://telegra.ph/file/b97ed6472ade24a330314.jpg",
+        "https://telegra.ph/file/03bbf07e2560eeabd6e3f.jpg",
+        "https://telegra.ph/file/0fb084f762d8c94870fe2.jpg",
+        "https://telegra.ph/file/01cf4c14cc952fe2acb0d.jpg",
+        "https://telegra.ph/file/2d980b857be534eb33eac.jpg",
+        "https://telegra.ph/file/fb9c7783803d8e40d721b.jpg",
+        "https://telegra.ph/file/1e62b73d457b7c84a2564.jpg",
+        "https://telegra.ph/file/dbf2672e1284fc0fd14b8.jpg",
+        "https://telegra.ph/file/4485e180f11eb2446532d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

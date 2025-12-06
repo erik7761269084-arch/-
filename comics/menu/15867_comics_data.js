@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15867,
+    "title": "[大人の幼恥園 (某国大統領)] バスケ部の新米教師イジメ -Preview",
+    "sourceUrl": "https://telegra.ph/大人の幼恥園-某国大統領-バスケ部の新米教師イジメ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/07eaffb8e4af972633770.jpg",
+        "https://telegra.ph/file/47d20d30f2c07fa31a768.jpg",
+        "https://telegra.ph/file/d5dd74dc4b134fa511d05.jpg",
+        "https://telegra.ph/file/ac2c981ac4aa9774d7581.jpg",
+        "https://telegra.ph/file/3566d3cf4d29727087fcf.jpg",
+        "https://telegra.ph/file/981496eb875367fa5eb3c.jpg",
+        "https://telegra.ph/file/2c4de2e37827648f828f6.jpg",
+        "https://telegra.ph/file/0e2f8fbe13bbbac023a56.jpg",
+        "https://telegra.ph/file/e03cdbdd3aa91e9818de8.jpg",
+        "https://telegra.ph/file/c75ce139d0f279f46074e.jpg",
+        "https://telegra.ph/file/861124482067e5d01794a.jpg",
+        "https://telegra.ph/file/4aacf3980a085aec58772.jpg",
+        "https://telegra.ph/file/01f3687d850a9e6f854b9.jpg",
+        "https://telegra.ph/file/8a4ba2f6a53943fd09016.jpg",
+        "https://telegra.ph/file/e72a07169fdaf5e432c3f.jpg",
+        "https://telegra.ph/file/fa6815cc35fbaac4796d3.jpg",
+        "https://telegra.ph/file/fead40782fe12c3b9fbf8.jpg",
+        "https://telegra.ph/file/706b6fd19e684bda8cfdb.jpg",
+        "https://telegra.ph/file/57a3a84c35c3286b41d7c.jpg",
+        "https://telegra.ph/file/a3d7216f8e5a4e4e0d2c7.jpg",
+        "https://telegra.ph/file/520071c2c4a50f98c866a.jpg",
+        "https://telegra.ph/file/af76ec44221cbabc691c6.jpg",
+        "https://telegra.ph/file/9eaf8c127da729f223afa.jpg",
+        "https://telegra.ph/file/c67dafba0051c2894aec2.jpg",
+        "https://telegra.ph/file/3309f3fa30ec265a0c06b.jpg",
+        "https://telegra.ph/file/5e5bf5e242f0033edf2f6.jpg",
+        "https://telegra.ph/file/92362d69bffa871cd54db.jpg",
+        "https://telegra.ph/file/b2cc15f8c3689ee9d5022.jpg",
+        "https://telegra.ph/file/9d214f735cdea4f80c931.jpg",
+        "https://telegra.ph/file/0f5846eb648e05dc97b8b.jpg",
+        "https://telegra.ph/file/61584a8fdbdb755c72e58.jpg",
+        "https://telegra.ph/file/75cfa09e6a9240f0223f7.jpg",
+        "https://telegra.ph/file/e28ebdcdc15b9ea008245.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10107,
+    "title": "[ブッパスタジオ (マッパニナッタ)] 彼女には言えない…巨乳上司とハメまくりSEX残業",
+    "sourceUrl": "https://telegra.ph/ブッパスタジオ-マッパニナッタ-彼女には言えない巨乳上司とハメまくりSEX残業-08-31",
+    "images": [
+        "https://telegra.ph/file/83aa61f5ce670195cedc0.jpg",
+        "https://telegra.ph/file/cc8c861f90e0d3a80f072.jpg",
+        "https://telegra.ph/file/f3cec65848373f77a0e6a.jpg",
+        "https://telegra.ph/file/71e9c358108362c770759.jpg",
+        "https://telegra.ph/file/a39ea5ff8242086add4ad.jpg",
+        "https://telegra.ph/file/de9e9860793e49c055a92.jpg",
+        "https://telegra.ph/file/b217d1d61f540c4e9af8e.jpg",
+        "https://telegra.ph/file/8194cb4b2d50c04a2b9de.jpg",
+        "https://telegra.ph/file/46bfeb44d1d0823800f4d.jpg",
+        "https://telegra.ph/file/89cb4eefaba824e9621fd.jpg",
+        "https://telegra.ph/file/7c3c2f110e809294d2366.jpg",
+        "https://telegra.ph/file/464fac09f3dcd7b6067eb.jpg",
+        "https://telegra.ph/file/def1b0eee88433380d96c.jpg",
+        "https://telegra.ph/file/8b35b772ac173e6b0d3cd.jpg",
+        "https://telegra.ph/file/a4e4de49f6033340e93da.jpg",
+        "https://telegra.ph/file/aa7555db8a8fc5ac35237.jpg",
+        "https://telegra.ph/file/d591f949fb218696def0c.jpg",
+        "https://telegra.ph/file/da8aa35a371c76abf1a98.jpg",
+        "https://telegra.ph/file/567215d8b64c4f17cd715.jpg",
+        "https://telegra.ph/file/3a74126dee8af1a990e15.jpg",
+        "https://telegra.ph/file/812ee7c20a675d766a132.jpg",
+        "https://telegra.ph/file/204a2625734b630ac4fc9.jpg",
+        "https://telegra.ph/file/34986f268b52f100deba5.jpg",
+        "https://telegra.ph/file/b0397fedb9841d022ede1.jpg",
+        "https://telegra.ph/file/f94fc24fb625c1e06b856.jpg",
+        "https://telegra.ph/file/465c3bcd822a4cbf0d337.jpg",
+        "https://telegra.ph/file/d629898d3321455ec4254.jpg",
+        "https://telegra.ph/file/2fe5fa531c035ee4bccca.jpg",
+        "https://telegra.ph/file/044391021e6530551d4c6.jpg",
+        "https://telegra.ph/file/e79a0cd4f2b2fe9ffe4ad.jpg",
+        "https://telegra.ph/file/664ea9c8d4c9408d0e9c8.jpg",
+        "https://telegra.ph/file/307fedfb4fe8b1d81b367.jpg",
+        "https://telegra.ph/file/2ca911c1a563e27b52e23.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

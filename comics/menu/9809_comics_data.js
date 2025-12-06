@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9809,
+    "title": "(C95) [kuripod (たねなしくりぼ)] 浜風と。 終章 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C95-kuripod-たねなしくりぼ-浜風と-終章-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/b2c4bddf5e10dcaa4e3a8.jpg",
+        "https://telegra.ph/file/2c73ce755954114be317f.jpg",
+        "https://telegra.ph/file/4701c16d179da1c9a49c8.jpg",
+        "https://telegra.ph/file/4707a07d2c09c19d081c4.jpg",
+        "https://telegra.ph/file/b3b0f0b7af7ae21dc751d.jpg",
+        "https://telegra.ph/file/85e6d886c5c6beff1a394.jpg",
+        "https://telegra.ph/file/abdc1c179af1fdc092b7b.jpg",
+        "https://telegra.ph/file/11dff5db86a00ac6244aa.jpg",
+        "https://telegra.ph/file/fcf45a64f5cb9e8321355.jpg",
+        "https://telegra.ph/file/acd5c93fe6e5dfcd9025b.jpg",
+        "https://telegra.ph/file/5db884b7ec1e6485ac24d.jpg",
+        "https://telegra.ph/file/c3f9090dd584043069ade.jpg",
+        "https://telegra.ph/file/135295bc5e36c90df7d8b.jpg",
+        "https://telegra.ph/file/3e17c03284e4c0101a1c6.jpg",
+        "https://telegra.ph/file/f6e3640daedb39a25fa0b.jpg",
+        "https://telegra.ph/file/cf129f1914c1ac6cdf0d7.jpg",
+        "https://telegra.ph/file/e917f6d0b5ed3413a6179.jpg",
+        "https://telegra.ph/file/491e1ace74991626e9197.jpg",
+        "https://telegra.ph/file/bdad046e77724e0b02a6e.jpg",
+        "https://telegra.ph/file/1a108e127211bb0f84874.jpg",
+        "https://telegra.ph/file/51e518752fc8ed858425c.jpg",
+        "https://telegra.ph/file/8a8ef627261e238dfff90.jpg",
+        "https://telegra.ph/file/8b300f210a6c63aa93ab0.jpg",
+        "https://telegra.ph/file/88327bbaec5a5fe9e7cba.jpg",
+        "https://telegra.ph/file/8a3b4e2d2dfc4c12a05ae.jpg",
+        "https://telegra.ph/file/ac35c206d7aee42fedf9c.jpg",
+        "https://telegra.ph/file/af2ac64dc450284e4155b.jpg",
+        "https://telegra.ph/file/66009b541b426d9a4649a.jpg",
+        "https://telegra.ph/file/8cec7d18709f9006196d0.jpg",
+        "https://telegra.ph/file/8620bdecaab8616775a15.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

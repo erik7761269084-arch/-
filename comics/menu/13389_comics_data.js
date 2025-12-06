@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13389,
+    "title": "(C100) [玉子房 (隈吉)] 競泳特性のサーヴァントと2  (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C100-玉子房-隈吉-競泳特性のサーヴァントと2-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/d486c69fe3cb0d7d48df6.jpg",
+        "https://telegra.ph/file/c73cb7487bf8d5172743c.jpg",
+        "https://telegra.ph/file/3991975d0fd963345b000.jpg",
+        "https://telegra.ph/file/4a818aec8474bf2e5a27c.jpg",
+        "https://telegra.ph/file/bef13cb4e7f71e873213f.jpg",
+        "https://telegra.ph/file/c374a3b2d9df344fc9546.jpg",
+        "https://telegra.ph/file/0bef9a57a701834a541f6.jpg",
+        "https://telegra.ph/file/0d61f416d11b62d3b1270.jpg",
+        "https://telegra.ph/file/ca63798b1bf77f16c4ddd.jpg",
+        "https://telegra.ph/file/be65013e91292f8a5a266.jpg",
+        "https://telegra.ph/file/97983a885315845c3f528.jpg",
+        "https://telegra.ph/file/f2c4adcdc8cc3eb967a97.jpg",
+        "https://telegra.ph/file/de452297f03292d9b16da.jpg",
+        "https://telegra.ph/file/8a8cf4623015bfc35844d.jpg",
+        "https://telegra.ph/file/8b3b952aeef26c6b764c9.jpg",
+        "https://telegra.ph/file/b17eaade16d2140ea184a.jpg",
+        "https://telegra.ph/file/a99e7dce01a87bd67d099.jpg",
+        "https://telegra.ph/file/c378614d761c5244c8695.jpg",
+        "https://telegra.ph/file/75e0915baf32377d83322.jpg",
+        "https://telegra.ph/file/3435364dab0bd3a7d4da2.jpg",
+        "https://telegra.ph/file/a51120b08331914f499f0.jpg",
+        "https://telegra.ph/file/6721e81c437d97cf01e61.jpg",
+        "https://telegra.ph/file/336fa9c70e4b3075ecb55.jpg",
+        "https://telegra.ph/file/7f4e3b85071981569fbb9.jpg",
+        "https://telegra.ph/file/5a292e5ee9186c67cf418.jpg",
+        "https://telegra.ph/file/4ae4c99b5983366c4f455.jpg",
+        "https://telegra.ph/file/e2f2aad7e5b4421331ac0.jpg",
+        "https://telegra.ph/file/6c20e566f987ab46104d5.jpg",
+        "https://telegra.ph/file/321bf1b85adaad6dcbac2.jpg",
+        "https://telegra.ph/file/326ad510c5e7bc5580ea4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

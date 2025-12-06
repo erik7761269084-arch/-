@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9446,
+    "title": "[新羽隆秀] 犯された応援団",
+    "sourceUrl": "https://telegra.ph/新羽隆秀-犯された応援団-08-31",
+    "images": [
+        "https://telegra.ph/file/f3324ccfb594793101ce4.jpg",
+        "https://telegra.ph/file/801fba6486fbc5b5f7018.jpg",
+        "https://telegra.ph/file/d51aba7a12a420e37c055.jpg",
+        "https://telegra.ph/file/02c3fcef5cbb2379a5a98.jpg",
+        "https://telegra.ph/file/9f403ea1fe545b6048d19.jpg",
+        "https://telegra.ph/file/da4874a8b365b60d44abb.jpg",
+        "https://telegra.ph/file/47fc59ccc2d7f3a1a26aa.jpg",
+        "https://telegra.ph/file/c38da89aeedb54742a137.jpg",
+        "https://telegra.ph/file/b17610e29bd5592ca9d39.jpg",
+        "https://telegra.ph/file/4ccaa62541e4be35144e1.jpg",
+        "https://telegra.ph/file/f0b8fe6c608e44a3e8e22.jpg",
+        "https://telegra.ph/file/c9c8f3e53ae458d1b5606.jpg",
+        "https://telegra.ph/file/a79c26dc1a1aefe86a92b.jpg",
+        "https://telegra.ph/file/43c1c48b70b405c56ee59.jpg",
+        "https://telegra.ph/file/6db993f68dace7afcc043.jpg",
+        "https://telegra.ph/file/fc856f0a74e5a20bc136c.jpg",
+        "https://telegra.ph/file/f8a1b14f2aede6ac2759a.jpg",
+        "https://telegra.ph/file/9e0ee415e15ed405d6d76.jpg",
+        "https://telegra.ph/file/cf31ef354126862461edf.jpg",
+        "https://telegra.ph/file/d37899e5fb1840dac77bd.jpg",
+        "https://telegra.ph/file/db7faa13e2b9dad3c89bb.jpg",
+        "https://telegra.ph/file/70f00dfc71344d24fa334.jpg",
+        "https://telegra.ph/file/ef909fbfa700af44edc43.jpg",
+        "https://telegra.ph/file/b030b4b3748071d15cbdc.jpg",
+        "https://telegra.ph/file/5922d081a4e352609da0e.jpg",
+        "https://telegra.ph/file/5cd16afe43e39939067b4.jpg",
+        "https://telegra.ph/file/d394b88e709bd9689be27.jpg",
+        "https://telegra.ph/file/c378ebfee02e1324f56cf.jpg",
+        "https://telegra.ph/file/c7e932d641aecd55a3c36.jpg",
+        "https://telegra.ph/file/e0431fcf65f5368e3c85e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

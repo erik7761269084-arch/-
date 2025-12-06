@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10304,
+    "title": "(C96) [甘泉少女 (能都くるみ)] NEMURI x ITAZURA (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/C96-甘泉少女-能都くるみ-NEMURI-x-ITAZURA-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/6ab0a35ca5c3bd60416e3.jpg",
+        "https://telegra.ph/file/015e767884721b8c364dc.jpg",
+        "https://telegra.ph/file/f5fed1bf7e2b0a145c994.jpg",
+        "https://telegra.ph/file/20b20213acd868596b880.jpg",
+        "https://telegra.ph/file/19da31386ce0b641a1c04.jpg",
+        "https://telegra.ph/file/b1389e7aac5a3b6ab5971.jpg",
+        "https://telegra.ph/file/8226441c9b6e17f7b0b2d.jpg",
+        "https://telegra.ph/file/44c8a1f43559def9ae102.jpg",
+        "https://telegra.ph/file/ff8053d04d65247b2cf28.jpg",
+        "https://telegra.ph/file/ba2c52556fc1d790f4549.jpg",
+        "https://telegra.ph/file/678ee812c6f8fd55bf973.jpg",
+        "https://telegra.ph/file/b25e1e3499b919f93161c.jpg",
+        "https://telegra.ph/file/c75df5c884b2276fc4909.jpg",
+        "https://telegra.ph/file/0c437c7823e59d8b71bda.jpg",
+        "https://telegra.ph/file/26bbb24c73989a77da60a.jpg",
+        "https://telegra.ph/file/0ebf9c89fa40f3c17adb2.jpg",
+        "https://telegra.ph/file/3c8345786c489d07c1c56.jpg",
+        "https://telegra.ph/file/b92b338eb9b2e1d5eab7b.jpg",
+        "https://telegra.ph/file/5bac5bcbd16c8e7d5f3b4.jpg",
+        "https://telegra.ph/file/409e1c3ce16b696734d45.jpg",
+        "https://telegra.ph/file/adad0b78e962b30994054.jpg",
+        "https://telegra.ph/file/7b218a3669c27202f74f5.jpg",
+        "https://telegra.ph/file/91358e50545f688d06118.jpg",
+        "https://telegra.ph/file/5cc27a2460e55be3a7b8e.jpg",
+        "https://telegra.ph/file/c18069e76d1636cf66cb2.jpg",
+        "https://telegra.ph/file/0637878bba7a3ee4e333a.jpg",
+        "https://telegra.ph/file/03dbade8aa6336a1f3da2.jpg",
+        "https://telegra.ph/file/8499a49cc2281e7ad9260.jpg",
+        "https://telegra.ph/file/50a0f4da3dbde42e9d523.jpg",
+        "https://telegra.ph/file/9bc28a3bf4513a2641c9f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

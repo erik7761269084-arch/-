@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11533,
+    "title": "(AC2) [STUDIO TRIUMPH (むとうけいじ)] アストラルバウトVer.43 (ソードアート・オンライン)",
+    "sourceUrl": "https://telegra.ph/AC2-STUDIO-TRIUMPH-むとうけいじ-アストラルバウトVer43-ソードアートオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/2d8f1672b1e3354b7aa82.jpg",
+        "https://telegra.ph/file/f7e2542749341c92a4025.jpg",
+        "https://telegra.ph/file/ab281fe77673ef5ec7a59.jpg",
+        "https://telegra.ph/file/9a0405313f80e5dd1eb7e.jpg",
+        "https://telegra.ph/file/10f7ebfd3fa05ec7fcccc.jpg",
+        "https://telegra.ph/file/26c32912e6e6f42a49255.jpg",
+        "https://telegra.ph/file/321716d88c6c1edd0a55d.jpg",
+        "https://telegra.ph/file/7e8b50cfd87ca8160be52.jpg",
+        "https://telegra.ph/file/3212ebc1d2cc04327d50b.jpg",
+        "https://telegra.ph/file/2d886a70faa6b9361ae00.jpg",
+        "https://telegra.ph/file/cd6d027f7a46a12cb4a5a.jpg",
+        "https://telegra.ph/file/f7da588e96eda14d65d1c.jpg",
+        "https://telegra.ph/file/24ad2706210de0f029bdb.jpg",
+        "https://telegra.ph/file/b06e60191531a5c5ab15b.jpg",
+        "https://telegra.ph/file/eb52147a11d1692df0e39.jpg",
+        "https://telegra.ph/file/2a835d72f9656ecf0ef3e.jpg",
+        "https://telegra.ph/file/e67f29feb0cf6cd5da86f.jpg",
+        "https://telegra.ph/file/5b32ed9b5cda94d563ce2.jpg",
+        "https://telegra.ph/file/3fa4e24ace040d3639afd.jpg",
+        "https://telegra.ph/file/985de21102e93f2518d37.jpg",
+        "https://telegra.ph/file/d13f11d2140690eb009b8.jpg",
+        "https://telegra.ph/file/8603d4a9951483202b784.jpg",
+        "https://telegra.ph/file/59bb929a41ef2540e9f74.jpg",
+        "https://telegra.ph/file/8ac5f780e79617be1dba7.jpg",
+        "https://telegra.ph/file/066cda751770ba8986930.jpg",
+        "https://telegra.ph/file/c86d400855267ee21ec47.jpg",
+        "https://telegra.ph/file/2cac0731288f3e5b03780.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

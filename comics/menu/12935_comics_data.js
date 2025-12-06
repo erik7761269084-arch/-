@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12935,
+    "title": "[ほるもんカレー (鳶村)] 反逆溫泉2 (少女前線)",
+    "sourceUrl": "https://telegra.ph/ほるもんカレー-鳶村-反逆溫泉2-少女前線-08-31",
+    "images": [
+        "https://telegra.ph/file/0b4dea67322e0baf1c63a.jpg",
+        "https://telegra.ph/file/0ce919e79f88c914a1271.jpg",
+        "https://telegra.ph/file/bf41fa724b542ec77b741.jpg",
+        "https://telegra.ph/file/3b8c384e7bb8cd648d404.jpg",
+        "https://telegra.ph/file/f16eea44c610c92dec680.jpg",
+        "https://telegra.ph/file/95fdb71369ef30facf752.jpg",
+        "https://telegra.ph/file/ab1a9bc1503dfded2916e.jpg",
+        "https://telegra.ph/file/91c3c9748b275b68b7c1d.jpg",
+        "https://telegra.ph/file/bde1f95b3096d8b2a2085.jpg",
+        "https://telegra.ph/file/3115731775f9765529085.jpg",
+        "https://telegra.ph/file/809120c4326e3a8870303.jpg",
+        "https://telegra.ph/file/c9b6315ad7f4983017644.jpg",
+        "https://telegra.ph/file/a05b0ab87162ef148ce6b.jpg",
+        "https://telegra.ph/file/0746c2b32d8007e6dbc0f.jpg",
+        "https://telegra.ph/file/0d4d67f604046bd33b600.jpg",
+        "https://telegra.ph/file/7e29aa1bfa4192288a150.jpg",
+        "https://telegra.ph/file/035f4817ed9184da720d5.jpg",
+        "https://telegra.ph/file/d5dd59a6e015b6f8ce40a.jpg",
+        "https://telegra.ph/file/e243121db7dc8401a6a55.jpg",
+        "https://telegra.ph/file/23c3096929f0689c2868a.jpg",
+        "https://telegra.ph/file/f14c76dc39776adad86c1.jpg",
+        "https://telegra.ph/file/830795119ba732fa7cf49.jpg",
+        "https://telegra.ph/file/b2c912e2ef433511e2067.jpg",
+        "https://telegra.ph/file/c0eaa23305f6c43619000.jpg",
+        "https://telegra.ph/file/214f8e1ef6b171653e597.jpg",
+        "https://telegra.ph/file/58e228b68cd67836d97c3.jpg",
+        "https://telegra.ph/file/f2165b2afebc731d2b6b8.jpg",
+        "https://telegra.ph/file/48c71bace862cc69c7354.jpg",
+        "https://telegra.ph/file/6f4c3041b0b638a145b5f.jpg",
+        "https://telegra.ph/file/d71a1d80e894e63c1d620.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

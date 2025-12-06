@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9367,
+    "title": "[おるとろ] ワガママSTEADY (COMIC アンスリウム 027 2015年7月号)",
+    "sourceUrl": "https://telegra.ph/おるとろ-ワガママSTEADY-COMIC-アンスリウム-027-2015年7月号-08-31",
+    "images": [
+        "https://telegra.ph/file/35eaaf9d0fad770d71bd7.jpg",
+        "https://telegra.ph/file/39ced6f0fe25f6332bb96.jpg",
+        "https://telegra.ph/file/015aa0a8e35e8f6e5f94f.jpg",
+        "https://telegra.ph/file/2a0332a2257cdde007284.jpg",
+        "https://telegra.ph/file/ff45676d2c83924992194.jpg",
+        "https://telegra.ph/file/95cf4b19e2f6d992d850d.jpg",
+        "https://telegra.ph/file/e18ee0c548133b1aa1a06.jpg",
+        "https://telegra.ph/file/fb020ec419c76bd6c5faa.jpg",
+        "https://telegra.ph/file/6ba7e78dcb78eba64bb9f.jpg",
+        "https://telegra.ph/file/cf583fb777da3b66e2bcb.jpg",
+        "https://telegra.ph/file/7884303581f3b1f87b14b.jpg",
+        "https://telegra.ph/file/9a5ffed576ea27757784e.jpg",
+        "https://telegra.ph/file/cf8f698e041214b909642.jpg",
+        "https://telegra.ph/file/7532bba35d91acec124c5.jpg",
+        "https://telegra.ph/file/8bceb884916f1fd26ae80.jpg",
+        "https://telegra.ph/file/9a2af78191c1e70e75f75.jpg",
+        "https://telegra.ph/file/ebce65ee649493d3b8f51.jpg",
+        "https://telegra.ph/file/241c9423016cca500c86e.jpg",
+        "https://telegra.ph/file/c46807326a93d902406c8.jpg",
+        "https://telegra.ph/file/55d4f1f267f1567423741.jpg",
+        "https://telegra.ph/file/1a3758adaacab5902c1fb.jpg",
+        "https://telegra.ph/file/7592b98ec362eff39129c.jpg",
+        "https://telegra.ph/file/8fc2ca927cf50ca208ea6.jpg",
+        "https://telegra.ph/file/12fd1714cbc418a4c3ecc.jpg",
+        "https://telegra.ph/file/c47218ac69d8a6006079b.jpg",
+        "https://telegra.ph/file/bd23c3cffec0dbe9074ae.jpg",
+        "https://telegra.ph/file/e2e60100bc6f4fed7ceb2.jpg",
+        "https://telegra.ph/file/ee4381da4187cdb04eed9.jpg",
+        "https://telegra.ph/file/8ae36674bada8fae83f58.jpg",
+        "https://telegra.ph/file/08ce3f323dcbb273749d3.jpg",
+        "https://telegra.ph/file/c036734daf9a23bce077d.jpg",
+        "https://telegra.ph/file/41b711336457417dcfeb4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

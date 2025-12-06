@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12135,
+    "title": "[スタジオあるた (久水あるた)] 熟れた体を持て余した未亡人と即ハメできるSNSがあるって本当ですか?3 息子の目の前で犯されながらも嬌声を上げ続ける淫乱母編",
+    "sourceUrl": "https://telegra.ph/スタジオあるた-久水あるた-熟れた体を持て余した未亡人と即ハメできるSNSがあるって本当ですか3-息子の目の前で犯されながらも嬌声を上げ続ける淫乱母編-08-31",
+    "images": [
+        "https://telegra.ph/file/320ada8dce97d9335fadb.jpg",
+        "https://telegra.ph/file/7df4d46be9066df38be91.jpg",
+        "https://telegra.ph/file/5ebb8e270006c1dd7b117.jpg",
+        "https://telegra.ph/file/81bd70ae10c957bb36e5e.jpg",
+        "https://telegra.ph/file/e471ac2f8dfa9aab633ce.jpg",
+        "https://telegra.ph/file/60c69ad56f2b8fb2e18a8.jpg",
+        "https://telegra.ph/file/87ddc7e1e67adc3eee577.jpg",
+        "https://telegra.ph/file/b6370c68dabeca45f956e.jpg",
+        "https://telegra.ph/file/ebd842004276c8730f6de.jpg",
+        "https://telegra.ph/file/a3a862fdae2fd1a6217ce.jpg",
+        "https://telegra.ph/file/7bedd0d406e81ddaa8c75.jpg",
+        "https://telegra.ph/file/64274de6d2db0e94c362e.jpg",
+        "https://telegra.ph/file/3fdd6563567658f13f16d.jpg",
+        "https://telegra.ph/file/03c7be1414c6e14420fc3.jpg",
+        "https://telegra.ph/file/72addcc241f9ee51ed6c9.jpg",
+        "https://telegra.ph/file/14caa49e0c67ceb03531c.jpg",
+        "https://telegra.ph/file/7ef42411cacc8844d0183.jpg",
+        "https://telegra.ph/file/934e2a92cf92da2070b93.jpg",
+        "https://telegra.ph/file/6b5f0207686d1eb00762e.jpg",
+        "https://telegra.ph/file/ad1b4200017f777a9eefd.jpg",
+        "https://telegra.ph/file/ee98b44ceb17aa7d7296e.jpg",
+        "https://telegra.ph/file/8c9abadbc998a48e81f52.jpg",
+        "https://telegra.ph/file/8232509440761f8c7c36c.jpg",
+        "https://telegra.ph/file/f1046e2e7682229a4050e.jpg",
+        "https://telegra.ph/file/df593afa666775833e13c.jpg",
+        "https://telegra.ph/file/5d0a831b07b5f2f17cc62.jpg",
+        "https://telegra.ph/file/1d0635e90fc1891fc9973.jpg",
+        "https://telegra.ph/file/975145ec7fe510f0fc99a.jpg",
+        "https://telegra.ph/file/8c19f92f5f55b5e4ee7d3.jpg",
+        "https://telegra.ph/file/a811f23ce3f7e7b96d904.jpg",
+        "https://telegra.ph/file/7456c8a68272725399bea.jpg",
+        "https://telegra.ph/file/d7b475f74a3f1d622d937.jpg",
+        "https://telegra.ph/file/d61b1cce0b2de14e5ad6b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

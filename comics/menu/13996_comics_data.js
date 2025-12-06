@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13996,
+    "title": "(GW超同人祭) [りとる☆はむれっと (きぃら～☆)] 先生と私とネコミミパーカー",
+    "sourceUrl": "https://telegra.ph/GW超同人祭-りとるはむれっと-きぃら-先生と私とネコミミパーカー-08-31",
+    "images": [
+        "https://telegra.ph/file/67bbea3daa59bb73485cf.jpg",
+        "https://telegra.ph/file/bd2ed38b8b7a69dd44bd2.jpg",
+        "https://telegra.ph/file/69794fa4ec96dfda5ed94.jpg",
+        "https://telegra.ph/file/38bda5037a3d62793d5fa.jpg",
+        "https://telegra.ph/file/e1e7fab510e2866e7200a.jpg",
+        "https://telegra.ph/file/f3351298994c9b1e89af3.jpg",
+        "https://telegra.ph/file/db4b39b7e6f6d7fbbaa5d.jpg",
+        "https://telegra.ph/file/b150e4001f6ead2effc92.jpg",
+        "https://telegra.ph/file/164671c37f663b1330386.jpg",
+        "https://telegra.ph/file/3551f40368fd94d8ae5b6.jpg",
+        "https://telegra.ph/file/20f50a2113b41cf102e39.jpg",
+        "https://telegra.ph/file/5e16d9d7d1b273ead1429.jpg",
+        "https://telegra.ph/file/a3f70e29b5aece29620a1.jpg",
+        "https://telegra.ph/file/ae18b6f16a77618bf9e77.jpg",
+        "https://telegra.ph/file/82bf23f54e1734e5f58cb.jpg",
+        "https://telegra.ph/file/c81a7e559acb2c214e0e2.jpg",
+        "https://telegra.ph/file/a8482f20eb2cb0c369ce6.jpg",
+        "https://telegra.ph/file/f2aa205dab3ad01dac3d2.jpg",
+        "https://telegra.ph/file/e256a626ffcc83b12e7b5.jpg",
+        "https://telegra.ph/file/3488c9eb0be5435cd3533.jpg",
+        "https://telegra.ph/file/057fffd305d8f03b47bfb.jpg",
+        "https://telegra.ph/file/960c89c9a81e29a25cbcc.jpg",
+        "https://telegra.ph/file/ea8fa681fde58939c9b6a.jpg",
+        "https://telegra.ph/file/80efaa932bb4cc4edbfc7.jpg",
+        "https://telegra.ph/file/fbb1ec9c11edc6b1649d1.jpg",
+        "https://telegra.ph/file/0cc80010177c52e7d2594.jpg",
+        "https://telegra.ph/file/af31b28aa426f02a2c9a7.jpg",
+        "https://telegra.ph/file/687e8b9e525a7af78f211.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/7e7a47064dfb457957220.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

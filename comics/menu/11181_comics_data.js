@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11181,
+    "title": "(C96) [地下7cm (wasavi_8)] 浜風と鹿島と競泳水着な本。 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C96-地下7cm-wasavi-8-浜風と鹿島と競泳水着な本-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/e976eebf51b870e9d20b8.jpg",
+        "https://telegra.ph/file/5b6114f0e83d89d26c02a.jpg",
+        "https://telegra.ph/file/e307323e3e1c4cff0e326.jpg",
+        "https://telegra.ph/file/0740041454a6dd2bb7047.jpg",
+        "https://telegra.ph/file/00a0c2ab6b76ef6c90cfc.jpg",
+        "https://telegra.ph/file/829f9522fc967232372fe.jpg",
+        "https://telegra.ph/file/2e7192b02273f603b32b6.jpg",
+        "https://telegra.ph/file/34ecba113d689ca8aff74.jpg",
+        "https://telegra.ph/file/c7a952147924efa65b4fc.jpg",
+        "https://telegra.ph/file/3ab8bab1d0bb4efb660dd.jpg",
+        "https://telegra.ph/file/bd6c498720276df63f546.jpg",
+        "https://telegra.ph/file/ff5716d121facae3b455a.jpg",
+        "https://telegra.ph/file/154315a4c2a4f7de0be73.jpg",
+        "https://telegra.ph/file/8fa73caf54b8635a57574.jpg",
+        "https://telegra.ph/file/130d8a36aa18aad1b6c7d.jpg",
+        "https://telegra.ph/file/40b8d86c958288e44a2f9.jpg",
+        "https://telegra.ph/file/efa6dcc086eaf39b3e0ce.jpg",
+        "https://telegra.ph/file/1d82169795b9749d0c400.jpg",
+        "https://telegra.ph/file/9761e2b505972d8a06a03.jpg",
+        "https://telegra.ph/file/148f74f18ffadac9d13b2.jpg",
+        "https://telegra.ph/file/9abc0ecde722988f6e370.jpg",
+        "https://telegra.ph/file/bbeffa5c720121b821e74.jpg",
+        "https://telegra.ph/file/9fec1f59bec6c6c3dee76.jpg",
+        "https://telegra.ph/file/50a36fab6f432f858ef82.jpg",
+        "https://telegra.ph/file/7085ffaa29745788978de.jpg",
+        "https://telegra.ph/file/9a73cfa829c13cdd8f9b4.jpg",
+        "https://telegra.ph/file/f52d8843f5df4ef7fee8c.jpg",
+        "https://telegra.ph/file/94f2615fd9ab5cde97c36.jpg",
+        "https://telegra.ph/file/783687da5182455789fb0.jpg",
+        "https://telegra.ph/file/12d0d5061a1e4f98a61a8.jpg",
+        "https://telegra.ph/file/09e9552098f1d6852dd72.jpg",
+        "https://telegra.ph/file/8a288c4246023fd2c9292.jpg",
+        "https://telegra.ph/file/b65d0dd807d6773733416.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

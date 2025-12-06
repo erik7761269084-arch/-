@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16362,
+    "title": "[センテン] 百合サキュメイドの甘々ご奉仕 -Preview",
+    "sourceUrl": "https://telegra.ph/センテン-百合サキュメイドの甘々ご奉仕--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3107715/48120608de/000.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/001.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/002.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/003.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/004.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/005.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/006.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/007.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/008.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/009.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/010.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/011.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/012.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/013.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/014.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/015.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/016.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/017.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/018.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/019.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/020.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/021.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/022.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/023.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/024.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/025.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/026.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/027.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/028.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/029.jpg",
+        "https://i2.linghua.xyz/ex/3107715/48120608de/030.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

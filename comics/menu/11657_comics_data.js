@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11657,
+    "title": "[黒越陽] CATch Me☆ (コミック エグゼ 27)",
+    "sourceUrl": "https://telegra.ph/黒越陽-CATch-Me-コミック-エグゼ-27-08-31",
+    "images": [
+        "https://telegra.ph/file/1d5a3003fa557470cbe28.jpg",
+        "https://telegra.ph/file/50d85bbf627bc41e4643a.jpg",
+        "https://telegra.ph/file/06e8488299963bd74b9ee.jpg",
+        "https://telegra.ph/file/3191d8ebaa0e5084b6320.jpg",
+        "https://telegra.ph/file/f7236916c5da6dcfa2a80.jpg",
+        "https://telegra.ph/file/4483aa2687c80422bcaa0.jpg",
+        "https://telegra.ph/file/9c656ec6d04e0d4225df5.jpg",
+        "https://telegra.ph/file/42752bdec07209603a0a0.jpg",
+        "https://telegra.ph/file/585d4c25be3729461abf2.jpg",
+        "https://telegra.ph/file/cf7d365c2ef3bde28f716.jpg",
+        "https://telegra.ph/file/d5cb44702f2bd2077de78.jpg",
+        "https://telegra.ph/file/eb2c8f83faf24fe3a0dae.jpg",
+        "https://telegra.ph/file/a7f701e5b965526fff055.jpg",
+        "https://telegra.ph/file/8e48540f14284a2c9fb95.jpg",
+        "https://telegra.ph/file/eee679175a840acf3e618.jpg",
+        "https://telegra.ph/file/f979984807c34c66455f7.jpg",
+        "https://telegra.ph/file/60cbf007387d2faee014d.jpg",
+        "https://telegra.ph/file/10ea919d4654c81807a48.jpg",
+        "https://telegra.ph/file/0e94911cec0acc83b7ee1.jpg",
+        "https://telegra.ph/file/1e130efd7518658263fbf.jpg",
+        "https://telegra.ph/file/c2c7eeff0de7722df1093.jpg",
+        "https://telegra.ph/file/29dedf3b898b69f04b847.jpg",
+        "https://telegra.ph/file/c214d9b31743f0d1f21d8.jpg",
+        "https://telegra.ph/file/0a1275f0f7998b39c07be.jpg",
+        "https://telegra.ph/file/6afca2c444e6ff7e91c5f.jpg",
+        "https://telegra.ph/file/17b3f5c8b7941a6825c96.jpg",
+        "https://telegra.ph/file/915a8f9b09f8be5b81ce7.jpg",
+        "https://telegra.ph/file/502d892b5636b9ebb446a.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/623ce6a65de99396a91ad.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11574,
+    "title": "(AC2) [Chocolate Pepper. (野村輝弥)] SHORT&SHORT 05 (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/AC2-Chocolate-Pepper-野村輝弥-SHORTSHORT-05-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/fb3fcc7ded669d5366816.jpg",
+        "https://telegra.ph/file/74c67eff6985fecb6e13c.jpg",
+        "https://telegra.ph/file/fb67ebae6a080ceab8b12.jpg",
+        "https://telegra.ph/file/64193a263ac723457339b.jpg",
+        "https://telegra.ph/file/6e72196c8ee46aefdd909.jpg",
+        "https://telegra.ph/file/1bbe03483a34dd2e6b8fa.jpg",
+        "https://telegra.ph/file/fc9f7981cc7ca7b4b7da4.jpg",
+        "https://telegra.ph/file/ad7a481ab369a83765cfe.jpg",
+        "https://telegra.ph/file/2cc7cd68d96ce1da87dec.jpg",
+        "https://telegra.ph/file/9e566f211bbe7e071c227.jpg",
+        "https://telegra.ph/file/ae4e358fefbe30c5828b9.jpg",
+        "https://telegra.ph/file/acf94f37cfa27d37502c4.jpg",
+        "https://telegra.ph/file/88214a219470fad17678e.jpg",
+        "https://telegra.ph/file/1c7abba8752d46cec2e7d.jpg",
+        "https://telegra.ph/file/30a19f2522ca3e4d215fa.jpg",
+        "https://telegra.ph/file/87bd6f01ba69c5030eee3.jpg",
+        "https://telegra.ph/file/215ef9c726442436ba952.jpg",
+        "https://telegra.ph/file/b8dc7590685e71ebebc0e.jpg",
+        "https://telegra.ph/file/6d738537cee26805aafde.jpg",
+        "https://telegra.ph/file/34271ea26b6ddba677033.jpg",
+        "https://telegra.ph/file/6025b7b6aae300a8c14ea.jpg",
+        "https://telegra.ph/file/008b44064bfb729dbe536.jpg",
+        "https://telegra.ph/file/9b5debf0135f979ff4b86.jpg",
+        "https://telegra.ph/file/cf2fdab45a9505e98a8bd.jpg",
+        "https://telegra.ph/file/591c520af27a3c6fabfe3.jpg",
+        "https://telegra.ph/file/81c7c1ecfe27db650ff5d.jpg",
+        "https://telegra.ph/file/131d703b0b16c7e5e7613.jpg",
+        "https://telegra.ph/file/f1e1d913a59ac9c258478.jpg",
+        "https://telegra.ph/file/2469b0fb6cc816c29333a.jpg",
+        "https://telegra.ph/file/442705fe4da60cf70b460.jpg",
+        "https://telegra.ph/file/2b306620b5a51594ac494.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

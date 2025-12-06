@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10976,
+    "title": "[BINZOKO (しのびん)] 汗だくアローンウルフ (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/BINZOKO-しのびん-汗だくアローンウルフ-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/3a9bbc8d4032759bcb5c6.jpg",
+        "https://telegra.ph/file/5df8608edb4b044ab5163.jpg",
+        "https://telegra.ph/file/de71290ddf566141ef460.jpg",
+        "https://telegra.ph/file/36af32dfa77156eceedf8.jpg",
+        "https://telegra.ph/file/f40ef52434f662288668a.jpg",
+        "https://telegra.ph/file/9767159ce7dd88be6433b.jpg",
+        "https://telegra.ph/file/51b7c78cb91f734cd5c26.jpg",
+        "https://telegra.ph/file/56fd5a6f366c9764bf096.jpg",
+        "https://telegra.ph/file/3328984b64b45302cc23b.jpg",
+        "https://telegra.ph/file/7a8347564b4d471c4cdf4.jpg",
+        "https://telegra.ph/file/ad7c2d87e110104768c7d.jpg",
+        "https://telegra.ph/file/cc9fe653b0369900706cd.jpg",
+        "https://telegra.ph/file/bb6e646da7a624f95e894.jpg",
+        "https://telegra.ph/file/0f4c2f9111fc25f4c23c7.jpg",
+        "https://telegra.ph/file/3093d50654fcc39bc6f6c.jpg",
+        "https://telegra.ph/file/5339eadc1411af3c346f4.jpg",
+        "https://telegra.ph/file/92bf98567f4abd7be1bf6.jpg",
+        "https://telegra.ph/file/d67f10a04261c63d84b29.jpg",
+        "https://telegra.ph/file/c2847053d05e75b931c57.jpg",
+        "https://telegra.ph/file/0de2e5ae7efc02fc65cda.jpg",
+        "https://telegra.ph/file/87871e4319f43d166917a.jpg",
+        "https://telegra.ph/file/c867602fa1e1210311cb2.jpg",
+        "https://telegra.ph/file/060df4ab10239fb4280d3.jpg",
+        "https://telegra.ph/file/9570c5f816bbd63cfbe68.jpg",
+        "https://telegra.ph/file/e35e59924f823f259f932.jpg",
+        "https://telegra.ph/file/6d8cd2aa773643d1b2fc1.jpg",
+        "https://telegra.ph/file/760c14459701f7379c37d.jpg",
+        "https://telegra.ph/file/f34711ed5bd73d37052d3.jpg",
+        "https://telegra.ph/file/a26d9c76b90216a81b4b0.jpg",
+        "https://telegra.ph/file/ccbbf1af7c3e694c953a8.jpg",
+        "https://telegra.ph/file/ac39d203df9c118ac8029.jpg",
+        "https://telegra.ph/file/a4ec198e69ea73bb5499d.jpg",
+        "https://telegra.ph/file/67783fb4cbd21a988aca2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

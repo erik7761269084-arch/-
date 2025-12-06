@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10996,
+    "title": "[矢印キー (星名めいと)] 呪いの指輪でゲームオーバー 記憶改変集",
+    "sourceUrl": "https://telegra.ph/矢印キー-星名めいと-呪いの指輪でゲームオーバー-記憶改変集-08-31",
+    "images": [
+        "https://telegra.ph/file/ac1bd256073aec5ac9bb7.jpg",
+        "https://telegra.ph/file/f5a9d3ed19f8adb6f0ce1.jpg",
+        "https://telegra.ph/file/fc4b0c60e957dccd92515.jpg",
+        "https://telegra.ph/file/be0fe5ae386a3fc39caf0.jpg",
+        "https://telegra.ph/file/77f27c4b497bbc4c86e6d.jpg",
+        "https://telegra.ph/file/d2e9497206055a6d1dfac.jpg",
+        "https://telegra.ph/file/003d8ccd95e5573257b70.jpg",
+        "https://telegra.ph/file/63d83881732f72ad59739.jpg",
+        "https://telegra.ph/file/5f77312e3609b39bf1250.jpg",
+        "https://telegra.ph/file/33301282f3ff14f48dd2b.jpg",
+        "https://telegra.ph/file/f4fb69f1e6e5ba50adf6f.jpg",
+        "https://telegra.ph/file/60aecb0e87523c3414e4c.jpg",
+        "https://telegra.ph/file/cb02136e608ec262289ca.jpg",
+        "https://telegra.ph/file/6b00d521b0933785693f9.jpg",
+        "https://telegra.ph/file/d8e74a221c68f13d3d07b.jpg",
+        "https://telegra.ph/file/e0704390e0073b7beb889.jpg",
+        "https://telegra.ph/file/889bc9ee3974e20ab5ca5.jpg",
+        "https://telegra.ph/file/8450171212d3edf6d921d.jpg",
+        "https://telegra.ph/file/4f032de1142e0bdb2ffda.jpg",
+        "https://telegra.ph/file/dd632306c10c751f1f943.jpg",
+        "https://telegra.ph/file/d741efe599fa4dbaa8577.jpg",
+        "https://telegra.ph/file/d2c51f78c4175eb75b0f2.jpg",
+        "https://telegra.ph/file/e723b9699c886c1890296.jpg",
+        "https://telegra.ph/file/4c4f4ab09bb06faaace54.jpg",
+        "https://telegra.ph/file/87b33594db81b35c7cbc8.jpg",
+        "https://telegra.ph/file/df901b75badce67a9ecd4.jpg",
+        "https://telegra.ph/file/1fac3f4926774b34ec33b.jpg",
+        "https://telegra.ph/file/48d70459d9a5cd8982741.jpg",
+        "https://telegra.ph/file/087103bbd4422947d315c.jpg",
+        "https://telegra.ph/file/2ddd103bf8073a7c299db.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

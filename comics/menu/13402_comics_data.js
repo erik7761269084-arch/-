@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13402,
+    "title": "(C100) [ナズナソフト (桂ハルフミ)] イチャラブ甘々モルガン様 + おまけクリアファイル (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C100-ナズナソフト-桂ハルフミ-イチャラブ甘々モルガン様--おまけクリアファイル-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/a6d70925ce61267883963.jpg",
+        "https://telegra.ph/file/0a5b5f645c4c959eac6f8.jpg",
+        "https://telegra.ph/file/674a8b8168e11a9a0b859.jpg",
+        "https://telegra.ph/file/f9d5f08e4c5f51201d555.jpg",
+        "https://telegra.ph/file/e94a61cb72f254cea8fe7.jpg",
+        "https://telegra.ph/file/637a00ae2413e62497325.jpg",
+        "https://telegra.ph/file/73a00e2700cef8bf1add3.jpg",
+        "https://telegra.ph/file/beff3ed6428eabf793075.jpg",
+        "https://telegra.ph/file/0d52ac61470a982d3dfaf.jpg",
+        "https://telegra.ph/file/29e0426f97801c63b5aed.jpg",
+        "https://telegra.ph/file/ed45fadc104a1f67ba3c7.jpg",
+        "https://telegra.ph/file/188643d5c381503f36189.jpg",
+        "https://telegra.ph/file/057655e5a76b5da2f0519.jpg",
+        "https://telegra.ph/file/8d0a86723ccc13c531e8a.jpg",
+        "https://telegra.ph/file/364ca0a8c1ad238d6f2bc.jpg",
+        "https://telegra.ph/file/d3febffeed6340c35a1d1.jpg",
+        "https://telegra.ph/file/5baa2cc6c561b6a0fd0c5.jpg",
+        "https://telegra.ph/file/8ab39fa5574690642ae54.jpg",
+        "https://telegra.ph/file/195e5355b9cbfa143e660.jpg",
+        "https://telegra.ph/file/8dea85ed9403a524cee0c.jpg",
+        "https://telegra.ph/file/4c79649a6e394bc344ed4.jpg",
+        "https://telegra.ph/file/1e83e52b11abbd371eb09.jpg",
+        "https://telegra.ph/file/9778b941fe51b48765d1c.jpg",
+        "https://telegra.ph/file/265ddac720c9f32d5d16f.jpg",
+        "https://telegra.ph/file/3842e3b741b5ee375c7fb.jpg",
+        "https://telegra.ph/file/92f8d3d1cc655c804c236.jpg",
+        "https://telegra.ph/file/15048e635957268d1faa7.jpg",
+        "https://telegra.ph/file/feb2774d118ab5acf102d.jpg",
+        "https://telegra.ph/file/ee63c687ec2d574b6253b.jpg",
+        "https://telegra.ph/file/530155512a7c3954aad92.jpg",
+        "https://telegra.ph/file/b0b4de07c3acb4129bcc8.jpg",
+        "https://telegra.ph/file/d5c1bace23e6f8fe507c8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

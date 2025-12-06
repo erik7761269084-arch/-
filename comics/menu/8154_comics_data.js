@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8154,
+    "title": "[反転して回転 (つこ)] 痴○サークルの姫",
+    "sourceUrl": "https://telegra.ph/反転して回転-つこ-痴サークルの姫-08-31",
+    "images": [
+        "https://telegra.ph/file/4d543c6d95c5605dce2cb.jpg",
+        "https://telegra.ph/file/73e63e2292fc9618dfa85.jpg",
+        "https://telegra.ph/file/a372cc257e3f35bf305be.jpg",
+        "https://telegra.ph/file/325896b7acd9571c5cf6f.jpg",
+        "https://telegra.ph/file/b93d401881580dc0ad538.jpg",
+        "https://telegra.ph/file/415eff3208e79f0241a6b.jpg",
+        "https://telegra.ph/file/fee7aa684dbecadaf6565.jpg",
+        "https://telegra.ph/file/017420fba8e6e979b1cb8.jpg",
+        "https://telegra.ph/file/7de6232696f3217c19d54.jpg",
+        "https://telegra.ph/file/c9ed72f08059f65198f29.jpg",
+        "https://telegra.ph/file/d9aaada6952eaf5f51579.jpg",
+        "https://telegra.ph/file/6c5ce26bb8b5336fc0111.jpg",
+        "https://telegra.ph/file/092461aaa115d6b379c65.jpg",
+        "https://telegra.ph/file/80261e7a22d483764ed9e.jpg",
+        "https://telegra.ph/file/346dffbba0feb31be441d.jpg",
+        "https://telegra.ph/file/f78e0bacc63c068d429e0.jpg",
+        "https://telegra.ph/file/b6f1c2f0fbb19dce7d6f6.jpg",
+        "https://telegra.ph/file/f388d8f08d93416ea3779.jpg",
+        "https://telegra.ph/file/9be48f725e1e21c29227f.jpg",
+        "https://telegra.ph/file/f33c204260c72bfc0ded0.jpg",
+        "https://telegra.ph/file/a492c9db60d6a5aff644c.jpg",
+        "https://telegra.ph/file/571986a69ab15bc84ab86.jpg",
+        "https://telegra.ph/file/c296a9ebbef81e65a1cd6.jpg",
+        "https://telegra.ph/file/c61707c37712500217171.jpg",
+        "https://telegra.ph/file/8a303354004ca975ac880.jpg",
+        "https://telegra.ph/file/4ac045f2be75d493a5ee9.jpg",
+        "https://telegra.ph/file/c34cab6dff510686d321e.jpg",
+        "https://telegra.ph/file/9aeed491845a5317de946.jpg",
+        "https://telegra.ph/file/03b6e58748854703f06e7.jpg",
+        "https://telegra.ph/file/8f79c5b190dc233f87b51.jpg",
+        "https://telegra.ph/file/12044f96091f447fcaa08.jpg",
+        "https://telegra.ph/file/c1d83743fa3ba6f3aa2f3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

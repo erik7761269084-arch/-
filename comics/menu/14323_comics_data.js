@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 14323,
+    "title": "(COMIC1☆11) [OrangeMaru (JP06)] 初めては誰がいい? II (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/COMIC111-OrangeMaru-JP06-初めては誰がいい-II-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/99028b83ecc80e57aa998.jpg",
+        "https://telegra.ph/file/7ef373fd1dc34d86b5c26.jpg",
+        "https://telegra.ph/file/2b7d46eab7d8f18442b2f.jpg",
+        "https://telegra.ph/file/dfa4e1dd1f675a602f280.jpg",
+        "https://telegra.ph/file/284b787ffba9bcbaafa0d.jpg",
+        "https://telegra.ph/file/d4c88cbd77a4aeae8ed4d.jpg",
+        "https://telegra.ph/file/e0f8c669b9331ff9fec8a.jpg",
+        "https://telegra.ph/file/5fedb0eebc377ff1223b0.jpg",
+        "https://telegra.ph/file/58ce23e5037c6346eb2f0.jpg",
+        "https://telegra.ph/file/0a38f33f2053852f04362.jpg",
+        "https://telegra.ph/file/50c8a62e7cfd86d634b58.jpg",
+        "https://telegra.ph/file/c92a378342c60baf3e79d.jpg",
+        "https://telegra.ph/file/fa26de74b267e3684df78.jpg",
+        "https://telegra.ph/file/6e97c0c833934f63b1982.jpg",
+        "https://telegra.ph/file/dca1c372cbe97ddc4f6f1.jpg",
+        "https://telegra.ph/file/efd99afa513448f9f5803.jpg",
+        "https://telegra.ph/file/46116ac71fa387ffd2aa2.jpg",
+        "https://telegra.ph/file/555342c04379f86ede91b.jpg",
+        "https://telegra.ph/file/c94b05d5e2e446b32bf35.jpg",
+        "https://telegra.ph/file/958265d948d54ae29d1ce.jpg",
+        "https://telegra.ph/file/64c74114895b4594460b3.jpg",
+        "https://telegra.ph/file/0b435bfca2637f578d01e.jpg",
+        "https://telegra.ph/file/a3c3f002b78d980c6d182.jpg",
+        "https://telegra.ph/file/84695ea1e5018034a78aa.jpg",
+        "https://telegra.ph/file/689e1d19ce70f6f32bb9d.jpg",
+        "https://telegra.ph/file/78f87c08e8d3466b645f6.jpg",
+        "https://telegra.ph/file/6ad7086ea47618205f4c2.jpg",
+        "https://telegra.ph/file/96d997cd7e6e9f06af37c.jpg",
+        "https://telegra.ph/file/5c66697f7ea1ef1fd07c1.jpg",
+        "https://telegra.ph/file/32e59561070a811123931.jpg",
+        "https://telegra.ph/file/03b24459720c7b8a794b3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

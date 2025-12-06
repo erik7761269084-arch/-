@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 16080,
+    "title": "[犬は魚 (あゆ)] 恋ははれものさわるべからず  -Preview",
+    "sourceUrl": "https://telegra.ph/犬は魚-あゆ-恋ははれものさわるべからず--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/a85200023969122070125.jpg",
+        "https://telegra.ph/file/ac4e1e097677a042e6578.jpg",
+        "https://telegra.ph/file/42e9b3e0f9ccb100d6f35.jpg",
+        "https://telegra.ph/file/d81c3e9139fd68bd98f3f.jpg",
+        "https://telegra.ph/file/aa5d4d73f2c5cedb92dfc.jpg",
+        "https://telegra.ph/file/4c647f1171ff86a371fd0.jpg",
+        "https://telegra.ph/file/81dbf8e592664cb0013d1.jpg",
+        "https://telegra.ph/file/429cccb906f9a0b010a4e.jpg",
+        "https://telegra.ph/file/b7a2846a7120abefa1b5a.jpg",
+        "https://telegra.ph/file/8ae836bebf2f7e9763618.jpg",
+        "https://telegra.ph/file/777f379bc10fc85b430fa.jpg",
+        "https://telegra.ph/file/1c0b51e96f1dac0c203db.jpg",
+        "https://telegra.ph/file/f3ad4f178b88553028ffe.jpg",
+        "https://telegra.ph/file/873b83e583a3046bea52f.jpg",
+        "https://telegra.ph/file/ff6d541db99b0e488a622.jpg",
+        "https://telegra.ph/file/7ae8d071fbe5d3b2c7cd8.jpg",
+        "https://telegra.ph/file/e0526f8fb8a9b1a46dabf.jpg",
+        "https://telegra.ph/file/6dc931c9af317cc1e3540.jpg",
+        "https://telegra.ph/file/e1a15ea4817db136728b1.jpg",
+        "https://telegra.ph/file/301215f8626169c38ac68.jpg",
+        "https://telegra.ph/file/0c988ce68b58c5a5601a1.jpg",
+        "https://telegra.ph/file/083b0e09460e5d89f5d0c.jpg",
+        "https://telegra.ph/file/b48541dd4172c244150d5.jpg",
+        "https://telegra.ph/file/b831311a245459b12bc3d.jpg",
+        "https://telegra.ph/file/2bc5a831ec95d35c34b3b.jpg",
+        "https://telegra.ph/file/a1fbeadbaf47c682b393e.jpg",
+        "https://telegra.ph/file/70c236f1641d98d961074.jpg",
+        "https://telegra.ph/file/8639e8133a990b23efed6.jpg",
+        "https://telegra.ph/file/81f4eff1ae7b0904ab20a.jpg",
+        "https://telegra.ph/file/cbfdfa79ea303a4bdd9cb.jpg",
+        "https://telegra.ph/file/898d4a840feffc4ebf688.png",
+        "https://telegra.ph/file/98309df8137252d199f24.png",
+        "https://telegra.ph/file/e66c74aebe60a3df3478b.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

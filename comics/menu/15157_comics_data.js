@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15157,
+    "title": "(サンクリ62) [Cloud Palette (黒夢奈音, 紅薙ようと)] kiss or kiss? (東方Project)(中国翻译)",
+    "sourceUrl": "https://telegra.ph/サンクリ62-Cloud-Palette-黒夢奈音-紅薙ようと-kiss-or-kiss-東方Project中国翻译-08-31",
+    "images": [
+        "https://telegra.ph/file/5f49fcaa49a0f7aace80b.jpg",
+        "https://telegra.ph/file/67501a17df7d5d8717b4e.jpg",
+        "https://telegra.ph/file/d4168696bfff0c594ad22.jpg",
+        "https://telegra.ph/file/8775f5546b9860d1b8c90.jpg",
+        "https://telegra.ph/file/21c9d05def3c540573e12.jpg",
+        "https://telegra.ph/file/e0bcd36139175d05e49e3.jpg",
+        "https://telegra.ph/file/6a04634957c54b000d610.jpg",
+        "https://telegra.ph/file/248334509efaad3c4e4eb.jpg",
+        "https://telegra.ph/file/3006e2f766156b054f7e0.jpg",
+        "https://telegra.ph/file/12e7c5addf19ee6767129.jpg",
+        "https://telegra.ph/file/864ca2db11008783a7f45.jpg",
+        "https://telegra.ph/file/f88291240f7ea846152a3.jpg",
+        "https://telegra.ph/file/3dbeb15dd43386805097f.jpg",
+        "https://telegra.ph/file/889d8f96ba83c2d32c36d.jpg",
+        "https://telegra.ph/file/b2cecabcee0497cd711b4.jpg",
+        "https://telegra.ph/file/bb938df02c3c1da50705a.jpg",
+        "https://telegra.ph/file/c4428ceff40a5ebfd92a6.jpg",
+        "https://telegra.ph/file/988688aeaace0ea33c5c6.jpg",
+        "https://telegra.ph/file/40e5569c4531a9225ddbc.jpg",
+        "https://telegra.ph/file/df87ada0dfd9ec2b78580.jpg",
+        "https://telegra.ph/file/36c2f115eb4462f91b26f.jpg",
+        "https://telegra.ph/file/a4ed2860f8cb4df28771e.jpg",
+        "https://telegra.ph/file/c3a8d68253fe90b0645a8.jpg",
+        "https://telegra.ph/file/db9eee872e35d7a39d03f.jpg",
+        "https://telegra.ph/file/3f88186581c46d10bfd10.jpg",
+        "https://telegra.ph/file/eaeef93ea4198a33586b9.jpg",
+        "https://telegra.ph/file/edadbb66f6f895019134c.jpg",
+        "https://telegra.ph/file/2483ddf265cd8c05f34b7.jpg",
+        "https://telegra.ph/file/22cba5947594000c85dc2.jpg",
+        "https://telegra.ph/file/cceb58f3659742856d6fa.jpg",
+        "https://telegra.ph/file/9eb2129c6e76274f41faa.jpg",
+        "https://telegra.ph/file/a92e230f0eff0678eec03.jpg",
+        "https://telegra.ph/file/6cb9aa11ab54fb0490579.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

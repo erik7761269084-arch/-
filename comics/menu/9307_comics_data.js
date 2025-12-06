@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9307,
+    "title": "(C90) [エフ屋 (メッシィ)] Futanari Blend",
+    "sourceUrl": "https://telegra.ph/C90-エフ屋-メッシィ-Futanari-Blend-08-31",
+    "images": [
+        "https://telegra.ph/file/dd800921465754f771fd3.jpg",
+        "https://telegra.ph/file/4570747b43e684e723f6a.jpg",
+        "https://telegra.ph/file/2668d39e02c89836271de.jpg",
+        "https://telegra.ph/file/ac0e676d30045ddfe23ad.jpg",
+        "https://telegra.ph/file/d3801f9dd77034c87908d.jpg",
+        "https://telegra.ph/file/a5bc2d713ef8d54de5dfb.jpg",
+        "https://telegra.ph/file/3aabd881dae1cf87ca925.jpg",
+        "https://telegra.ph/file/1d56eb62778e6de0e8abc.jpg",
+        "https://telegra.ph/file/cea5bec1a10cec3702dbe.jpg",
+        "https://telegra.ph/file/4a845fff90944bb456d70.jpg",
+        "https://telegra.ph/file/b06a5c74c499b527902d9.jpg",
+        "https://telegra.ph/file/eeb5b2ef6c2230a5ad819.jpg",
+        "https://telegra.ph/file/239ac02bf8bfc85c112a9.jpg",
+        "https://telegra.ph/file/bf2c5f4becc10a3297662.jpg",
+        "https://telegra.ph/file/8fc502786f4dce2fd8adf.jpg",
+        "https://telegra.ph/file/54e91916f863527742961.jpg",
+        "https://telegra.ph/file/c6fbfa88edcff11e86b4a.jpg",
+        "https://telegra.ph/file/ae35285f9bda070c16eaf.jpg",
+        "https://telegra.ph/file/9bd7869b9407e9023fcc3.jpg",
+        "https://telegra.ph/file/5b8305f1220448a611063.jpg",
+        "https://telegra.ph/file/4fd46b7b8d06b1e175692.jpg",
+        "https://telegra.ph/file/0ff34ffc1b672175e840c.jpg",
+        "https://telegra.ph/file/523293f362a9160038b2d.jpg",
+        "https://telegra.ph/file/b5d5b6b19744f06053b3b.jpg",
+        "https://telegra.ph/file/133d5cb66bb762ac66b09.jpg",
+        "https://telegra.ph/file/f2fe17b780a37c9a47516.jpg",
+        "https://telegra.ph/file/79779f33e3ea249e19f03.jpg",
+        "https://telegra.ph/file/35db3164acfbeb581430a.jpg",
+        "https://telegra.ph/file/8b7e1d6b6503b19680174.jpg",
+        "https://telegra.ph/file/7a89ec0690850b7301b72.jpg",
+        "https://telegra.ph/file/b0ab4c9cb84f32856c865.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

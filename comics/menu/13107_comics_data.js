@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13107,
+    "title": "[冬空いずも] 女幽霊に堕とされる",
+    "sourceUrl": "https://telegra.ph/冬空いずも-女幽霊に堕とされる-08-31",
+    "images": [
+        "https://telegra.ph/file/b652e6d3a98b31bf7274c.jpg",
+        "https://telegra.ph/file/f41b191106d761e700ec3.jpg",
+        "https://telegra.ph/file/3fdb2c41816b6d13146c6.jpg",
+        "https://telegra.ph/file/4fcc028c20614589d1e98.jpg",
+        "https://telegra.ph/file/3167134452025b9c5e719.jpg",
+        "https://telegra.ph/file/0b7b64a40a89b51d924fe.jpg",
+        "https://telegra.ph/file/71f8791337b89ee6dc468.jpg",
+        "https://telegra.ph/file/8495da63657cc8b01a861.jpg",
+        "https://telegra.ph/file/8cda3bc11453f7501a7bb.jpg",
+        "https://telegra.ph/file/42db0851dd32a08a13df5.jpg",
+        "https://telegra.ph/file/664fd31974b24d530bada.jpg",
+        "https://telegra.ph/file/c44315a799499e0587b06.jpg",
+        "https://telegra.ph/file/211707319721bfe1cbcca.jpg",
+        "https://telegra.ph/file/52dd598d7cd4891651fc2.jpg",
+        "https://telegra.ph/file/6b12d41317bc0beefcd8d.jpg",
+        "https://telegra.ph/file/95c6c20cc3f0a27354a7f.jpg",
+        "https://telegra.ph/file/b109df170342025b7f36e.jpg",
+        "https://telegra.ph/file/a352c84b8102bd2b306b1.jpg",
+        "https://telegra.ph/file/5c5c9e491c0c63d240722.jpg",
+        "https://telegra.ph/file/e77df9eea019e7456d863.jpg",
+        "https://telegra.ph/file/5b4213fd0a895e3e616ee.jpg",
+        "https://telegra.ph/file/254bcb8ff750e829d887b.jpg",
+        "https://telegra.ph/file/ec5cb5c724cfa4b37143b.jpg",
+        "https://telegra.ph/file/e3e97ab1653fcdef49e5e.jpg",
+        "https://telegra.ph/file/1f986f48c97b943bca737.jpg",
+        "https://telegra.ph/file/032a26a12c4517f160228.jpg",
+        "https://telegra.ph/file/17e250cb658391de1c12a.jpg",
+        "https://telegra.ph/file/0f57ec082eebc3bf1c3eb.jpg",
+        "https://telegra.ph/file/0b9231248bb4fc8d9a7db.jpg",
+        "https://telegra.ph/file/0ed6ef7181155b483cd3a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

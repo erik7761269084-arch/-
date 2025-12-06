@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11572,
+    "title": "[NCP] エロ生メニューあります!おっぱい居酒屋のエロすぎる性サービス",
+    "sourceUrl": "https://telegra.ph/NCP-エロ生メニューありますおっぱい居酒屋のエロすぎる性サービス-08-31",
+    "images": [
+        "https://telegra.ph/file/0fcf91264eeacfd2cd394.jpg",
+        "https://telegra.ph/file/4ff4c25e44a1c2ee43bda.jpg",
+        "https://telegra.ph/file/b17cc37e073b3bc15d711.jpg",
+        "https://telegra.ph/file/d06df80a81f51693f4cb0.jpg",
+        "https://telegra.ph/file/fc1bc73538268cb41216f.jpg",
+        "https://telegra.ph/file/14f868579ff43a1c46e7c.jpg",
+        "https://telegra.ph/file/faefc2bec96f717a3a254.jpg",
+        "https://telegra.ph/file/49e54285ce68272025c2d.jpg",
+        "https://telegra.ph/file/e3d2d4c0a194f460d3b33.jpg",
+        "https://telegra.ph/file/19e540e76ec63bfcadf17.jpg",
+        "https://telegra.ph/file/79772a0401e3229494c3c.jpg",
+        "https://telegra.ph/file/90bdf634db7b62bd6cc27.jpg",
+        "https://telegra.ph/file/e559013794eea7f63ebe9.jpg",
+        "https://telegra.ph/file/cf737340dfb4d42a66086.jpg",
+        "https://telegra.ph/file/7da28123c9462fca83141.jpg",
+        "https://telegra.ph/file/87c23589dc6a11975f385.jpg",
+        "https://telegra.ph/file/ec7c013325ff10938c8ed.jpg",
+        "https://telegra.ph/file/acb3cef6e8a858f7fdd30.jpg",
+        "https://telegra.ph/file/dad033856633d734b85f9.jpg",
+        "https://telegra.ph/file/a31f0e304ad7972adf662.jpg",
+        "https://telegra.ph/file/83fbfcca96fb79cb69238.jpg",
+        "https://telegra.ph/file/0c9bb67fdbba8c6e16838.jpg",
+        "https://telegra.ph/file/a770506b0262bc09f44b9.jpg",
+        "https://telegra.ph/file/b502a07252636be4b8a63.jpg",
+        "https://telegra.ph/file/f521938ef0b99422bdb98.jpg",
+        "https://telegra.ph/file/e76cdc8159f4ff103ad3d.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

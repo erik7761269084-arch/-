@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16542,
+    "title": "Cか·素世伴音来，有妻冬恋红。（MYGO百合同人·LC整合汉化组X奥本海睦汉化组联合出品）-Preview",
+    "sourceUrl": "https://telegra.ph/Cか素世伴音来有妻冬恋红MYGO百合同人LC整合汉化组X奥本海睦汉化组联合出品-Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/54dd54b806f53c54af6d1939740faf21.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/9baff3d54962447faa0b912167815dde.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/831ac0741c3f1f5a7cb382e13bab8c82.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/29a8a6f7a9d9c08c26ac7ccf3f5cca09.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/d4d666c99b2bac64beb9053dd5cf4319.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/19e8703b76b344c93bcc0040aa78cbbc.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/bd2138c5137381d29d8d3973573e6a3f.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/b4bc56bd64f7eff4aea16f2b147bf36f.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/670aa8e84cfffa562c4a36ccc86b963b.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/d04284d0c140879ff55a18ccd5a6fb89.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/c47983449513c574171d5101b0365606.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/71188a467afeb3b229cceafaa86ed4e4.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/15b5c56d2a91b5fc7e84a8363a1a5a21.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/60272b3f02c33c40f531fba689c8200d.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/414f65192b7579f05079bc8732d90f83.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/fad21a7bca5e545c50da1d484943be3c.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/13388f8e7543eeb197d3c13ea0e3a9ef.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/ecf9ea9a52cd222905b9796aab3697a8.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/edfa2f57bf23ac39df58536d945b7114.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/9a3396807ceeebf2893c9390c5bac1a4.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/a280526b2aedd87216d075c888b62d8a.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/9b087f21c1b2e051467b28f417b23294.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/60700a2b79930709a63648d2680dce5e.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/530397413be99262292f4aa9481f543d.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/a6ad3b281ead9a7e05f63cc116f6029b.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/28692633526018fd312f92a74e8095e5.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/c2bfc62f668c78dd52e74c9af644e182.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/147e312e6b22a8ac88c8bca36e96718f.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/77c004760a94aff79927c065296d6d74.webp",
+        "https://i2.linghua.xyz/ex/3319112/91dfc675f9/5d25acfab362363dd72803e21a895407.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

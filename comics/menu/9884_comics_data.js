@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9884,
+    "title": "[ぶるーびーん (要青豆)] C2lemonMax 2 (コードギアス 反逆のルルーシュ)",
+    "sourceUrl": "https://telegra.ph/ぶるーびーん-要青豆-C2lemonMax-2-コードギアス-反逆のルルーシュ-08-31",
+    "images": [
+        "https://telegra.ph/file/f6f9fcffdb16f5d95215f.jpg",
+        "https://telegra.ph/file/17b761309d0f5e08465a3.jpg",
+        "https://telegra.ph/file/4a419b6084a6e0a7744f9.jpg",
+        "https://telegra.ph/file/b9e2ae00f548cbd7156f4.jpg",
+        "https://telegra.ph/file/718d9791fcc7f95c4e4e9.jpg",
+        "https://telegra.ph/file/de0aedd3df5181c9c64fa.jpg",
+        "https://telegra.ph/file/8be5abe768c916d667873.jpg",
+        "https://telegra.ph/file/491a056894e9750765621.jpg",
+        "https://telegra.ph/file/532ce32dfe2820667a7c9.jpg",
+        "https://telegra.ph/file/84560f28238fa55c58ad1.jpg",
+        "https://telegra.ph/file/6bf5c61ead335bf056807.jpg",
+        "https://telegra.ph/file/cf7d337e0ad00115f61c7.jpg",
+        "https://telegra.ph/file/6a3b16cfcf0726e2c222a.jpg",
+        "https://telegra.ph/file/2037ec206e87fd524bb19.jpg",
+        "https://telegra.ph/file/d1849b6849761a9cb010a.jpg",
+        "https://telegra.ph/file/94cdf517102ee94eb1a67.jpg",
+        "https://telegra.ph/file/7d09858064e78c318bb1b.jpg",
+        "https://telegra.ph/file/a27078615144cf548a48b.jpg",
+        "https://telegra.ph/file/4f112526bc9d8e23bed07.jpg",
+        "https://telegra.ph/file/6fe529ca5ccddb6c60ff3.jpg",
+        "https://telegra.ph/file/fd1e972a3c8317e3ab548.jpg",
+        "https://telegra.ph/file/32ff9a32c08b23ed1d3f8.jpg",
+        "https://telegra.ph/file/a1db3b21d09dd56430793.jpg",
+        "https://telegra.ph/file/3440627fe21e2adec4d43.jpg",
+        "https://telegra.ph/file/bbbfc73de9cadeb2ab838.jpg",
+        "https://telegra.ph/file/5af2f4e2bb74313944096.jpg",
+        "https://telegra.ph/file/e7d88a1cb95e761604eb9.jpg",
+        "https://telegra.ph/file/ac5b7d6aaca60f24613fe.jpg",
+        "https://telegra.ph/file/8d1912bf4e02f5b1508dc.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

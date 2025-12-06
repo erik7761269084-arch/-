@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10003,
+    "title": "(C97) [薺屋本舗 (7zu7)] 焦がれる君を搾りたい。",
+    "sourceUrl": "https://telegra.ph/C97-薺屋本舗-7zu7-焦がれる君を搾りたい-08-31",
+    "images": [
+        "https://telegra.ph/file/37f0a73896cecec45d81f.jpg",
+        "https://telegra.ph/file/7f38cfaf7c5a2cde85393.jpg",
+        "https://telegra.ph/file/e9a5921863692c1acb999.jpg",
+        "https://telegra.ph/file/c49a14fcf54a04b5fe7ef.jpg",
+        "https://telegra.ph/file/e944a84f30d713a25288e.jpg",
+        "https://telegra.ph/file/436426f16014d0940d9c6.jpg",
+        "https://telegra.ph/file/1e595c84fd4cf26208613.jpg",
+        "https://telegra.ph/file/f19217622c93a54ce3293.jpg",
+        "https://telegra.ph/file/1effcc57e6272b6e83e5a.jpg",
+        "https://telegra.ph/file/2a2a40e7b29b34f2b1b96.jpg",
+        "https://telegra.ph/file/e96968306016ad14ce484.jpg",
+        "https://telegra.ph/file/888d17ba9c96943550c78.jpg",
+        "https://telegra.ph/file/19087ed85e9945adde81d.jpg",
+        "https://telegra.ph/file/0cdd64bdbc0e704202429.jpg",
+        "https://telegra.ph/file/517756b2cbda5e994f50b.jpg",
+        "https://telegra.ph/file/38fccb407be6bf43f16bc.jpg",
+        "https://telegra.ph/file/c675935ebda67bf7cb921.jpg",
+        "https://telegra.ph/file/e127c7c4e84c116265613.jpg",
+        "https://telegra.ph/file/8b85899a3b85e70b98793.jpg",
+        "https://telegra.ph/file/debd98d963e1c04b3b2aa.jpg",
+        "https://telegra.ph/file/05fcbd7df1caa9ef7864a.jpg",
+        "https://telegra.ph/file/bcb49eeeacb3ba5576ff7.jpg",
+        "https://telegra.ph/file/c2aadd8546ec4289d288d.jpg",
+        "https://telegra.ph/file/a2f59d7a24c425c0483c6.jpg",
+        "https://telegra.ph/file/b0bc0273af781ede36245.jpg",
+        "https://telegra.ph/file/e63dff12762c2361309b1.jpg",
+        "https://telegra.ph/file/dc01d89697e11af7de0ec.jpg",
+        "https://telegra.ph/file/e72a2295f88e3c35c4964.jpg",
+        "https://telegra.ph/file/a819727d2d795b6520381.jpg",
+        "https://telegra.ph/file/628dd3a5054b86e0342a7.jpg",
+        "https://telegra.ph/file/d74493a16f03526565dcc.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

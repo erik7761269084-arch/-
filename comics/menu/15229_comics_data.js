@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15229,
+    "title": "[どよんど。 (たいやき)] 友愛 (アイカツスターズ!)",
+    "sourceUrl": "https://telegra.ph/どよんど-たいやき-友愛-アイカツスターズ-08-31",
+    "images": [
+        "https://telegra.ph/file/27630a3b1e207d5de836b.jpg",
+        "https://telegra.ph/file/5a749d9fc32a7408053b1.jpg",
+        "https://telegra.ph/file/5ccfa8dc0274f9fb9d56e.jpg",
+        "https://telegra.ph/file/ad4ce7fba9a1cb51009ec.jpg",
+        "https://telegra.ph/file/e3de1ecd3700773aee7d9.jpg",
+        "https://telegra.ph/file/73f8d3b6ec1cb8722b55f.jpg",
+        "https://telegra.ph/file/d021cb93be2a28585dfa3.jpg",
+        "https://telegra.ph/file/3fa1ee28f1930e8e9d084.jpg",
+        "https://telegra.ph/file/db9a12719af6b3954e40a.jpg",
+        "https://telegra.ph/file/5970bb1e30fe783b6017a.jpg",
+        "https://telegra.ph/file/e3dbdeea36f006f4dc53d.jpg",
+        "https://telegra.ph/file/3d96e829ee8a3bb134f97.jpg",
+        "https://telegra.ph/file/7e698c488598a244d313d.jpg",
+        "https://telegra.ph/file/3ba61bd28a82e3e1a3c21.jpg",
+        "https://telegra.ph/file/2b98e2c69f6e93b95dafc.jpg",
+        "https://telegra.ph/file/906fb6b43fdaa1d249473.jpg",
+        "https://telegra.ph/file/c951438a9209687443192.jpg",
+        "https://telegra.ph/file/edce88644c62e4418f4e6.jpg",
+        "https://telegra.ph/file/d623d787606f31550cecf.jpg",
+        "https://telegra.ph/file/93eca40c07f6a1177f48c.jpg",
+        "https://telegra.ph/file/a0902942bb4b0cc040ff7.jpg",
+        "https://telegra.ph/file/1b25e64f36109f1573cc1.jpg",
+        "https://telegra.ph/file/b379c5432b1ca1d6ab72e.jpg",
+        "https://telegra.ph/file/8b5fbb2ae7dbcdce5d3fa.jpg",
+        "https://telegra.ph/file/96d5bc51f3b3ef9875baf.jpg",
+        "https://telegra.ph/file/3a5db1dd254e15bcce64a.jpg",
+        "https://telegra.ph/file/a574bcbb7f0dfe3aca655.jpg",
+        "https://telegra.ph/file/427a4e55c5f1a3318d0f5.jpg",
+        "https://telegra.ph/file/92811c965a703e370091a.jpg",
+        "https://telegra.ph/file/5a83a254693f093601fba.jpg",
+        "https://telegra.ph/file/57a276602d3156f340775.jpg",
+        "https://telegra.ph/file/dee2cc8c14884fb59a78a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

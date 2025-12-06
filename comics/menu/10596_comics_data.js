@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10596,
+    "title": "[みぞれ鍋 (みぞれ)] あの～私たち悪いコスプレイヤーじゃないよ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/みぞれ鍋-みぞれ-あの私たち悪いコスプレイヤーじゃないよ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/e7cea666f21ebc53fa010.jpg",
+        "https://telegra.ph/file/4c06c6b4114d686ced2e1.jpg",
+        "https://telegra.ph/file/063a938f11d1dbc78c567.jpg",
+        "https://telegra.ph/file/6ad8d52f6f282d86d73cd.jpg",
+        "https://telegra.ph/file/172abb567c9babd15a7cf.jpg",
+        "https://telegra.ph/file/42e8c29620bb1e7a837a4.jpg",
+        "https://telegra.ph/file/ab62f4775f4591edbd950.jpg",
+        "https://telegra.ph/file/f0b38354d6eda144ebc36.jpg",
+        "https://telegra.ph/file/4ed65b8bd8e0b39dc7791.jpg",
+        "https://telegra.ph/file/5bc7d6e59024d733c547f.jpg",
+        "https://telegra.ph/file/5b2df2e5d48afe905350b.jpg",
+        "https://telegra.ph/file/6e3559943efad017f6d15.jpg",
+        "https://telegra.ph/file/c6b56aac004abc0d98607.jpg",
+        "https://telegra.ph/file/b324798786b69a354b466.jpg",
+        "https://telegra.ph/file/40cc91a7ca4f74a17ba78.jpg",
+        "https://telegra.ph/file/893bf097d49140d24b78b.jpg",
+        "https://telegra.ph/file/a600d50c68ee0e3d8c36c.jpg",
+        "https://telegra.ph/file/3f12305ecdea1e3492a0d.jpg",
+        "https://telegra.ph/file/c600c35c73489e8d12e3f.jpg",
+        "https://telegra.ph/file/cd6d8b9f9612662d2e8e6.jpg",
+        "https://telegra.ph/file/1d46708a20d92d559cbf0.jpg",
+        "https://telegra.ph/file/492dcd781e9e9fe78569f.jpg",
+        "https://telegra.ph/file/d5e451bc75694644face0.jpg",
+        "https://telegra.ph/file/116ebffbcd632957b99f6.jpg",
+        "https://telegra.ph/file/59c6e73a755f24ab497e0.jpg",
+        "https://telegra.ph/file/c564b5c5df04c8907ec57.jpg",
+        "https://telegra.ph/file/a69c46b14f5bef2b3786f.jpg",
+        "https://telegra.ph/file/8ed09f4eaca858d2f15be.jpg",
+        "https://telegra.ph/file/daab627a48b7ab1e3cae9.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

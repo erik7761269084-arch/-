@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11903,
+    "title": "[SUNCHILD (緑葉みんと)] ウサギモドキフレンズ",
+    "sourceUrl": "https://telegra.ph/SUNCHILD-緑葉みんと-ウサギモドキフレンズ-08-31",
+    "images": [
+        "https://telegra.ph/file/bfa118665b0fc2f45e253.jpg",
+        "https://telegra.ph/file/610c2276a0a22b1fc2ee6.jpg",
+        "https://telegra.ph/file/5c72c603c963711ac7fcc.jpg",
+        "https://telegra.ph/file/169bc77ebc0145e06afb1.jpg",
+        "https://telegra.ph/file/6c2895d9cec710bc92d42.jpg",
+        "https://telegra.ph/file/a08109906029e9905b496.jpg",
+        "https://telegra.ph/file/e65903c2daafe152af708.jpg",
+        "https://telegra.ph/file/163c66e872c973007a4ad.jpg",
+        "https://telegra.ph/file/b4b2fe6f8e5a53c0959e5.jpg",
+        "https://telegra.ph/file/057d6834f77ca6a936e75.jpg",
+        "https://telegra.ph/file/3c7ee12afc9b97cb13fe9.jpg",
+        "https://telegra.ph/file/9e7ebf3ede740d72019d9.jpg",
+        "https://telegra.ph/file/e5663d4908d3f0634d536.jpg",
+        "https://telegra.ph/file/a1be7604820bf89207928.jpg",
+        "https://telegra.ph/file/c5cd75abd2bdef9c37171.jpg",
+        "https://telegra.ph/file/ec8dbbf85fb4c66ed5801.jpg",
+        "https://telegra.ph/file/1d91ac5bc0fb0cc4f8731.jpg",
+        "https://telegra.ph/file/90c8d7f679a4f1446691d.jpg",
+        "https://telegra.ph/file/db187dcffd4106ff33894.jpg",
+        "https://telegra.ph/file/0d87021d2594ef2652cd2.jpg",
+        "https://telegra.ph/file/c744bb30cfea4046deb8f.jpg",
+        "https://telegra.ph/file/33943c53a7706dd2be66f.jpg",
+        "https://telegra.ph/file/15b5cd92a055cf6da4503.jpg",
+        "https://telegra.ph/file/625698615a6fce9d4d491.jpg",
+        "https://telegra.ph/file/309381965efeec10f0ba7.jpg",
+        "https://telegra.ph/file/f014fb1c4bea77716c67a.jpg",
+        "https://telegra.ph/file/deb07902740dbbba12a1a.jpg",
+        "https://telegra.ph/file/33055cd947c3c8b3e7957.jpg",
+        "https://telegra.ph/file/fcb27f29376c8fc9ca86f.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

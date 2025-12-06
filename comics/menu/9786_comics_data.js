@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9786,
+    "title": "(C96) [うーらる (山梨ユウヤ)] 褐色キメセクオールナイト (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-うーらる-山梨ユウヤ-褐色キメセクオールナイト-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/7b40732e8121fd7d0f5c1.jpg",
+        "https://telegra.ph/file/f2584148a3cc3fa01656d.jpg",
+        "https://telegra.ph/file/666d00927986f3aa0033a.jpg",
+        "https://telegra.ph/file/ee7c6b3350c52a4856f12.jpg",
+        "https://telegra.ph/file/e8d0ed5aaba5e414bb03c.jpg",
+        "https://telegra.ph/file/7f46bee6ddb0b275ce54f.jpg",
+        "https://telegra.ph/file/6bea81468000dda2b08a7.jpg",
+        "https://telegra.ph/file/c13659789e87e29fd083d.jpg",
+        "https://telegra.ph/file/7217b78aedc17592c204f.jpg",
+        "https://telegra.ph/file/0ce746dfd7115295e3955.jpg",
+        "https://telegra.ph/file/4f6b1c049a5331b3e92ae.jpg",
+        "https://telegra.ph/file/1eba222f415fd9aaff916.jpg",
+        "https://telegra.ph/file/296e5a92ed0fa15ce0b86.jpg",
+        "https://telegra.ph/file/25de553bb742c214311f1.jpg",
+        "https://telegra.ph/file/46bb95e74810b979676f1.jpg",
+        "https://telegra.ph/file/e3c25ca6dc6ff3e7083ba.jpg",
+        "https://telegra.ph/file/9506402b1dbeae5304734.jpg",
+        "https://telegra.ph/file/08f245755a141d5a0d607.jpg",
+        "https://telegra.ph/file/ea721d59caafa6082ce70.jpg",
+        "https://telegra.ph/file/e7bfe8c787ccd8771b435.jpg",
+        "https://telegra.ph/file/8948f29e6484d9bed2366.jpg",
+        "https://telegra.ph/file/75c2561d7d56d755766ff.jpg",
+        "https://telegra.ph/file/1b09006710778fa7f4d33.jpg",
+        "https://telegra.ph/file/420e6fe429565efab6edd.jpg",
+        "https://telegra.ph/file/5744a9633339eccb73163.jpg",
+        "https://telegra.ph/file/c7234043874924abc1d07.jpg",
+        "https://telegra.ph/file/9ca104191a06f2385ee51.jpg",
+        "https://telegra.ph/file/a90baa0bc9941ac9a75b3.jpg",
+        "https://telegra.ph/file/dbd8f6d59cb09fd60049f.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

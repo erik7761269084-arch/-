@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8815,
+    "title": "[tomika堂 (tksand)] えっちな天狗のお手伝いさん (東方Project)",
+    "sourceUrl": "https://telegra.ph/tomika堂-tksand-えっちな天狗のお手伝いさん-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/c7060a4e06d497a5445a8.jpg",
+        "https://telegra.ph/file/0e95a4d05510c715f3fe1.jpg",
+        "https://telegra.ph/file/b80c8656af4f4c3769b7a.jpg",
+        "https://telegra.ph/file/a92e18f8f0e4a25978ce1.jpg",
+        "https://telegra.ph/file/99edbd5183f736202ffb8.jpg",
+        "https://telegra.ph/file/bbb1c4362ead46809d10e.jpg",
+        "https://telegra.ph/file/2a6053924718bfdd193b7.jpg",
+        "https://telegra.ph/file/655840ba214b41ff6e3b8.jpg",
+        "https://telegra.ph/file/4972b237cf5e3ad59a445.jpg",
+        "https://telegra.ph/file/6b6745976533588044033.jpg",
+        "https://telegra.ph/file/c351a814e77ad32ed3bcc.jpg",
+        "https://telegra.ph/file/68dadcd94150f607bb10d.jpg",
+        "https://telegra.ph/file/b4319fe5bd2237fae1694.jpg",
+        "https://telegra.ph/file/89d439ce2f275027b3bda.jpg",
+        "https://telegra.ph/file/b65987626131fcdf47d7b.jpg",
+        "https://telegra.ph/file/2f91511eca62b9b07d4d0.jpg",
+        "https://telegra.ph/file/f36bcf2294628b17a06fd.jpg",
+        "https://telegra.ph/file/ba4be1f04f8c1dc843036.jpg",
+        "https://telegra.ph/file/031737fb622500b055921.jpg",
+        "https://telegra.ph/file/aef4b39fd182c9b51bfb6.jpg",
+        "https://telegra.ph/file/2fff0b611f94839601df3.jpg",
+        "https://telegra.ph/file/56015294bf66f01e67a20.jpg",
+        "https://telegra.ph/file/f5b9cc23d22aea8ddfef8.jpg",
+        "https://telegra.ph/file/faa57d6bf62e29ef615ef.jpg",
+        "https://telegra.ph/file/a08d7eb22b7a5f6556ea5.jpg",
+        "https://telegra.ph/file/4721e0bc9302c82f29489.jpg",
+        "https://telegra.ph/file/e6766a3fae5069162be25.jpg",
+        "https://telegra.ph/file/438c0b2ba3bbf77d95cc7.jpg",
+        "https://telegra.ph/file/2be1a59cb02fe11e1decc.jpg",
+        "https://telegra.ph/file/ff6249aa9fe976d4850c6.jpg",
+        "https://telegra.ph/file/15d67a920293bb27cd4d3.jpg",
+        "https://telegra.ph/file/1b99ae08fd7ce65eb082d.jpg",
+        "https://telegra.ph/file/b07e0cc4ed19bdbf587b8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

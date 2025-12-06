@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13658,
+    "title": "[団地の] リベンジヒプノ 1-2",
+    "sourceUrl": "https://telegra.ph/団地の-リベンジヒプノ-1-2-08-31",
+    "images": [
+        "https://telegra.ph/file/0a7c154500aac7b916cd9.jpg",
+        "https://telegra.ph/file/1ccdf446339fbe87ba4b8.jpg",
+        "https://telegra.ph/file/0d4afaba1e32c501c3ce1.jpg",
+        "https://telegra.ph/file/2908b0045c3352594856f.jpg",
+        "https://telegra.ph/file/feea5d367f5f9f93f9920.jpg",
+        "https://telegra.ph/file/ac8edf3b5f443dcf26ba3.jpg",
+        "https://telegra.ph/file/531249373e0ec7bf381ee.jpg",
+        "https://telegra.ph/file/f20abe083afca02c74245.jpg",
+        "https://telegra.ph/file/9bb6a35b8caad603766a3.jpg",
+        "https://telegra.ph/file/d6be9548c352cba911166.jpg",
+        "https://telegra.ph/file/a99c913d6413da2901332.jpg",
+        "https://telegra.ph/file/b005db86a806dc92d01e4.jpg",
+        "https://telegra.ph/file/347cf9b086ce9a9d26378.jpg",
+        "https://telegra.ph/file/81544188400dfd548b3aa.jpg",
+        "https://telegra.ph/file/254cf508fe2bb55c7fb3c.jpg",
+        "https://telegra.ph/file/0cb94bef7955a67c6231a.jpg",
+        "https://telegra.ph/file/99b5c44f153e6affcd066.jpg",
+        "https://telegra.ph/file/1ec8e36b55ce0f9d62336.jpg",
+        "https://telegra.ph/file/fc54afb06e26b65242fc9.jpg",
+        "https://telegra.ph/file/60c56fa6e5224a7e54c8d.jpg",
+        "https://telegra.ph/file/1faacf2ce3f0f6c53c08c.jpg",
+        "https://telegra.ph/file/dccdf8f02d28820969307.jpg",
+        "https://telegra.ph/file/c35d78be6c9e2a6b1ccbd.jpg",
+        "https://telegra.ph/file/0e8eca63e5d5a5309b03b.jpg",
+        "https://telegra.ph/file/d98a987e45448651fce80.jpg",
+        "https://telegra.ph/file/6e5675f89543201bca2cc.jpg",
+        "https://telegra.ph/file/98e55ecf8076c38e42280.jpg",
+        "https://telegra.ph/file/0a813f6fe53f804c6e231.jpg",
+        "https://telegra.ph/file/583c2a30580b19f28d591.jpg",
+        "https://telegra.ph/file/3847c8123bd2af1b90047.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

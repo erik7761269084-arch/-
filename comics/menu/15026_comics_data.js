@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15026,
+    "title": "(BanG Dreamer's Party! 4th STAGE) [こまどり農園 (秋野かぼちゃ)] 君に、四つ葉 (BanG Dream!)",
+    "sourceUrl": "https://telegra.ph/BanG-Dreamers-Party-4th-STAGE-こまどり農園-秋野かぼちゃ-君に四つ葉-BanG-Dream-08-31",
+    "images": [
+        "https://telegra.ph/file/dcc2f850a9c534450961a.jpg",
+        "https://telegra.ph/file/fe9fd39db764173374e03.jpg",
+        "https://telegra.ph/file/e25ad6c7e5e4313669e7b.jpg",
+        "https://telegra.ph/file/726ac69e244740b15bfb7.jpg",
+        "https://telegra.ph/file/e08f7b38858f7706b1d7d.jpg",
+        "https://telegra.ph/file/6d24ef20f33b169cbdeab.jpg",
+        "https://telegra.ph/file/bb312906c0701dff2c7ea.jpg",
+        "https://telegra.ph/file/c15eb8274d1ffe03133e0.jpg",
+        "https://telegra.ph/file/88864d56034ec0b41a3f6.jpg",
+        "https://telegra.ph/file/becd581228b0ceafc908b.jpg",
+        "https://telegra.ph/file/8c68f45ed216fd802d451.jpg",
+        "https://telegra.ph/file/e24483ab8bb5205bc324c.jpg",
+        "https://telegra.ph/file/ed0592f30b2622029dd30.jpg",
+        "https://telegra.ph/file/ad975c02b167ef3cb90ff.jpg",
+        "https://telegra.ph/file/8034ed5025ce59a96f387.jpg",
+        "https://telegra.ph/file/3e94f08dc3942aa1f6066.jpg",
+        "https://telegra.ph/file/ea777c4b52f7720d8cfe7.jpg",
+        "https://telegra.ph/file/b7b8e9ea556f32a9be61a.jpg",
+        "https://telegra.ph/file/30c13cccf5a67ae864267.jpg",
+        "https://telegra.ph/file/2178b6b55bacd0de7382d.jpg",
+        "https://telegra.ph/file/588ee571f8d6e94d88b10.jpg",
+        "https://telegra.ph/file/897eba3c65d12b58c8503.jpg",
+        "https://telegra.ph/file/3c21b7def14f8f4812614.jpg",
+        "https://telegra.ph/file/392d6404a776eafe87bad.jpg",
+        "https://telegra.ph/file/14da727a4c895685f3689.jpg",
+        "https://telegra.ph/file/13de9af88f543af9b075a.jpg",
+        "https://telegra.ph/file/ae25e3edc17ce39586267.jpg",
+        "https://telegra.ph/file/5dc46e076285608d921cc.jpg",
+        "https://telegra.ph/file/45626cee1645645f1b873.jpg",
+        "https://telegra.ph/file/68f15538759ec6a2991fb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

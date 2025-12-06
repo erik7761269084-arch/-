@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9929,
+    "title": "(こみトレ33) [SERIOUS GRAPHICS (ICE)] ICE BOXXX 24 (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/こみトレ33-SERIOUS-GRAPHICS-ICE-ICE-BOXXX-24-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/752d6f0b74ed9724daa29.jpg",
+        "https://telegra.ph/file/bb498ebb87e321a58bd3f.jpg",
+        "https://telegra.ph/file/c06e534c0bd934fbf2c74.jpg",
+        "https://telegra.ph/file/56a9e322318b98eebd16e.jpg",
+        "https://telegra.ph/file/2c9f27732aba3e5f22cac.jpg",
+        "https://telegra.ph/file/c83684254cb6ce0b55250.jpg",
+        "https://telegra.ph/file/59deff107f5a29c979b65.jpg",
+        "https://telegra.ph/file/2058d1d623aa534bce2d3.jpg",
+        "https://telegra.ph/file/d1d33093a937091fc50ea.jpg",
+        "https://telegra.ph/file/452bb9ed2f37206aaf9d4.jpg",
+        "https://telegra.ph/file/37fa12e7da4ef820cccae.jpg",
+        "https://telegra.ph/file/bb1b712b4faf0a5ee968d.jpg",
+        "https://telegra.ph/file/f97e34831a1e4f9c40b26.jpg",
+        "https://telegra.ph/file/475b1ad740ed1bc9dbd43.jpg",
+        "https://telegra.ph/file/04ff7d3c3dda68b245241.jpg",
+        "https://telegra.ph/file/04b139d3871bcacafed08.jpg",
+        "https://telegra.ph/file/20f2d8eb9e2c86ad95be4.jpg",
+        "https://telegra.ph/file/94c025001289e9c378907.jpg",
+        "https://telegra.ph/file/8756a0e00066c226c82a3.jpg",
+        "https://telegra.ph/file/eb0e3d6b4751171fa1f85.jpg",
+        "https://telegra.ph/file/036a7dce43add217fe691.jpg",
+        "https://telegra.ph/file/323aa7092552f208e947e.jpg",
+        "https://telegra.ph/file/2ca11725b2463eeb25c51.jpg",
+        "https://telegra.ph/file/4dbae4e114aa893ec827c.jpg",
+        "https://telegra.ph/file/5f7102459469a8fc3094b.jpg",
+        "https://telegra.ph/file/33494cdf51a3d760d51d1.jpg",
+        "https://telegra.ph/file/fe97f65cc63af67071d86.jpg",
+        "https://telegra.ph/file/3caa41eef70241780c12b.jpg",
+        "https://telegra.ph/file/90bb5157add56bc2e9b2c.jpg",
+        "https://telegra.ph/file/b6e57edc6bcd7aba18301.jpg",
+        "https://telegra.ph/file/7f1413adf3d1d9531feb8.jpg",
+        "https://telegra.ph/file/a55787cbba0d6afb43706.jpg",
+        "https://telegra.ph/file/5d3327e2566f9d8f4d503.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

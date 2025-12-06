@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13277,
+    "title": "[FLAT (悠久ポン酢)] 晩御飯のおすそわけ",
+    "sourceUrl": "https://telegra.ph/FLAT-悠久ポン酢-晩御飯のおすそわけ-08-31",
+    "images": [
+        "https://telegra.ph/file/061f3d019d8e8e94fcad0.jpg",
+        "https://telegra.ph/file/d6163c8cea233754a2079.png",
+        "https://telegra.ph/file/c74ec365527f4d36e1808.png",
+        "https://telegra.ph/file/b61c17b1624d75c431ce2.png",
+        "https://telegra.ph/file/cff7361bcab41112fff08.png",
+        "https://telegra.ph/file/f96c1dae1313625fc9972.png",
+        "https://telegra.ph/file/8760f14d4351a34189319.png",
+        "https://telegra.ph/file/7c8afda2183f5058b3741.png",
+        "https://telegra.ph/file/af479ba171d443338618b.png",
+        "https://telegra.ph/file/d67a1fdebf291ea59c714.png",
+        "https://telegra.ph/file/16e335457ca64b1540713.jpg",
+        "https://telegra.ph/file/705baddff3abecf5ad6fb.jpg",
+        "https://telegra.ph/file/4c33fb882c2e47d97d8c9.png",
+        "https://telegra.ph/file/0d454d3204c4271cbf93c.jpg",
+        "https://telegra.ph/file/4ea7dc8a08a9efb593896.png",
+        "https://telegra.ph/file/5ab1088d7c1e1a8dc961a.png",
+        "https://telegra.ph/file/2a5afd6c18649852d58b0.png",
+        "https://telegra.ph/file/36974d1d833f2f8c0102d.jpg",
+        "https://telegra.ph/file/34d7c254204d1bda48c5f.png",
+        "https://telegra.ph/file/d0d5c1e4510eb1ac07edd.png",
+        "https://telegra.ph/file/b0dc383ad68546d33b229.png",
+        "https://telegra.ph/file/f3a7f95bbe92466090a75.png",
+        "https://telegra.ph/file/b388e0cb2f326311644b6.png",
+        "https://telegra.ph/file/2c426b360effbf3028f0c.png",
+        "https://telegra.ph/file/36ca1b1d6a8d86634ee48.png",
+        "https://telegra.ph/file/239c00b3bb33c8c48c308.png",
+        "https://telegra.ph/file/fe21f4e7ebe50bf16c89a.png",
+        "https://telegra.ph/file/c08363186078cd084378a.png",
+        "https://telegra.ph/file/a66700182e2321617d6f5.png",
+        "https://telegra.ph/file/92724b72687ec2a77e694.png",
+        "https://telegra.ph/file/4d2ce9684a1aaae6154a3.png",
+        "https://telegra.ph/file/d1f9181ea1497428130b6.png",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

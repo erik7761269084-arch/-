@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11685,
+    "title": "(COMIC1☆13) [たまかけ屋 (たまかけ)] 近親葬送",
+    "sourceUrl": "https://telegra.ph/COMIC113-たまかけ屋-たまかけ-近親葬送-08-31",
+    "images": [
+        "https://telegra.ph/file/92a206d2203fdbe12e353.jpg",
+        "https://telegra.ph/file/c7201f426e36ecdb4ccf0.jpg",
+        "https://telegra.ph/file/0e4e7ad4743a191731369.jpg",
+        "https://telegra.ph/file/f1898f280d9051f1e96fc.jpg",
+        "https://telegra.ph/file/d4af40ce75727ad4fe53b.jpg",
+        "https://telegra.ph/file/2fbec33e0e88a07a32b9f.jpg",
+        "https://telegra.ph/file/c6c7054e9b8815310585f.jpg",
+        "https://telegra.ph/file/257ffb11d29e9740f96d4.jpg",
+        "https://telegra.ph/file/063b88f803b4453ce43d6.jpg",
+        "https://telegra.ph/file/6f2e2478e86a53e45aa8b.jpg",
+        "https://telegra.ph/file/cd7ba67355921f4d28854.jpg",
+        "https://telegra.ph/file/b3f3140f164f9afc03b59.jpg",
+        "https://telegra.ph/file/f282f7aab09628527e642.jpg",
+        "https://telegra.ph/file/420f1071a6ac70121c5a5.jpg",
+        "https://telegra.ph/file/f58453c0334f113778120.jpg",
+        "https://telegra.ph/file/2dddf0d977b8450a1691b.jpg",
+        "https://telegra.ph/file/e541561eb2187a2c68219.jpg",
+        "https://telegra.ph/file/e6d93dd41ce5fd7abf599.jpg",
+        "https://telegra.ph/file/a02280fd286d792d59a40.jpg",
+        "https://telegra.ph/file/6f36ca2194c94af046a74.jpg",
+        "https://telegra.ph/file/bc6de9d891c04e7a64717.jpg",
+        "https://telegra.ph/file/b027411d10d70f01ecb75.jpg",
+        "https://telegra.ph/file/0aa1d44ae3c669ab30a83.jpg",
+        "https://telegra.ph/file/948131bac54c3283903b5.jpg",
+        "https://telegra.ph/file/93c7a4184dd29db76cac7.jpg",
+        "https://telegra.ph/file/4a51dc6f55251191f70ab.jpg",
+        "https://telegra.ph/file/ec91b4c373a3d3695770c.jpg",
+        "https://telegra.ph/file/c7e4af4b73c7cf602722d.jpg",
+        "https://telegra.ph/file/9bea672c86cafc8d2d1e1.jpg",
+        "https://telegra.ph/file/11337029c17604af4ba26.jpg",
+        "https://telegra.ph/file/854c52d53ef5ec0db5a87.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

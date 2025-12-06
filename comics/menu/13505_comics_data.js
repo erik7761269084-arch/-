@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13505,
+    "title": "[でらうえあ] となりのサキュバスちゃん 最終話 (となりのサキュバスちゃん)",
+    "sourceUrl": "https://telegra.ph/でらうえあ-となりのサキュバスちゃん-最終話-となりのサキュバスちゃん-08-31",
+    "images": [
+        "https://telegra.ph/file/5c34ebee85f05487f77b1.jpg",
+        "https://telegra.ph/file/d6bf1ad33f5bed108fe68.jpg",
+        "https://telegra.ph/file/f0ed4f06184cb23fc162c.jpg",
+        "https://telegra.ph/file/f251684201eff40de38a6.jpg",
+        "https://telegra.ph/file/dfa490aa3acc02c89dde4.jpg",
+        "https://telegra.ph/file/926fa211945e12b22e321.jpg",
+        "https://telegra.ph/file/b68b4c11b98bd5624891e.jpg",
+        "https://telegra.ph/file/2e235cc6789d64f42b1f6.jpg",
+        "https://telegra.ph/file/c96d8f9ac0443bb87294f.jpg",
+        "https://telegra.ph/file/0d7fed22f2a5cf650a202.jpg",
+        "https://telegra.ph/file/a7a2b2b34fb49bc2ee716.jpg",
+        "https://telegra.ph/file/4dd5aa5d4cfb24e884381.jpg",
+        "https://telegra.ph/file/c17adfac657c0893608ef.jpg",
+        "https://telegra.ph/file/87d55a75fcd5e75e1a3ef.jpg",
+        "https://telegra.ph/file/4c721c935528797adeec5.jpg",
+        "https://telegra.ph/file/94ed7dc8fd4f30c2fae78.jpg",
+        "https://telegra.ph/file/dd83e02d3c476113fb943.jpg",
+        "https://telegra.ph/file/71a471e12485be7a0836f.jpg",
+        "https://telegra.ph/file/c5da63adbd70c2c1cfd05.jpg",
+        "https://telegra.ph/file/b2fea8a6733d5c020ec0b.jpg",
+        "https://telegra.ph/file/fb0dfbb84fd49fda8a737.jpg",
+        "https://telegra.ph/file/fa3b5d2b5ff1926fdcd63.jpg",
+        "https://telegra.ph/file/708ae22791df04159e258.jpg",
+        "https://telegra.ph/file/980b76eae6396249ce151.jpg",
+        "https://telegra.ph/file/e97e33b26d971f66b5337.jpg",
+        "https://telegra.ph/file/f3d4ebe32859cdebc69a6.jpg",
+        "https://telegra.ph/file/afd8a06a4cea304852142.jpg",
+        "https://telegra.ph/file/0f326d9e9935af10520ae.jpg",
+        "https://telegra.ph/file/de534cf85b72e1d430377.jpg",
+        "https://telegra.ph/file/1800aee41366ee66beac4.jpg",
+        "https://telegra.ph/file/646a99ee9d93a49609c58.jpg",
+        "https://telegra.ph/file/70973700450798a816c0f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

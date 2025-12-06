@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15960,
+    "title": "[桜ゆう] 触手少女拾いました。[鈽鐳鉻銻]  -Preview",
+    "sourceUrl": "https://telegra.ph/桜ゆう-触手少女拾いました鈽鐳鉻銻--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/b9b9cc5341e57cebed210.jpg",
+        "https://telegra.ph/file/213b2e02fe2d1faef8f94.jpg",
+        "https://telegra.ph/file/06ca877434b33bc21c7d7.jpg",
+        "https://telegra.ph/file/81c1d97645930250197d9.jpg",
+        "https://telegra.ph/file/400a9bf23c757ae47f7cf.jpg",
+        "https://telegra.ph/file/55df50145cb181a110be2.jpg",
+        "https://telegra.ph/file/2eaa90d47b38050f81886.jpg",
+        "https://telegra.ph/file/59928e583526b31dccd8f.jpg",
+        "https://telegra.ph/file/d914d413b92cc8c92a571.jpg",
+        "https://telegra.ph/file/c8e0589be461971c716b8.jpg",
+        "https://telegra.ph/file/518e7af08de04348e37cb.jpg",
+        "https://telegra.ph/file/ddafb758b0cfb6b64c9d5.jpg",
+        "https://telegra.ph/file/f7592112b74ce38321af6.jpg",
+        "https://telegra.ph/file/dd5eb6676a3c5288a8ea8.jpg",
+        "https://telegra.ph/file/3c143f1895212db412831.jpg",
+        "https://telegra.ph/file/1e41d6dd835ffd8d36341.jpg",
+        "https://telegra.ph/file/da226d50c821b4c73c84c.jpg",
+        "https://telegra.ph/file/93b841fdae638eca534d1.jpg",
+        "https://telegra.ph/file/14c4b36c86e90d1241b3e.jpg",
+        "https://telegra.ph/file/6ede7cf32338fa860a5a7.jpg",
+        "https://telegra.ph/file/b0dda0d0dd3d3edb7beb1.jpg",
+        "https://telegra.ph/file/8ce45bd9446dffb82b3ef.jpg",
+        "https://telegra.ph/file/131936acfe59b57e847b7.jpg",
+        "https://telegra.ph/file/ea3f8370f66f9882998cc.jpg",
+        "https://telegra.ph/file/ee0ae9287b75b787268bc.jpg",
+        "https://telegra.ph/file/518fe71b837862c064538.jpg",
+        "https://telegra.ph/file/e6e203843e0c6368f61bd.jpg",
+        "https://telegra.ph/file/6184690a5d8f144a28a50.jpg",
+        "https://telegra.ph/file/1b2d7c6f8bb471ce2d65c.jpg",
+        "https://telegra.ph/file/e5b5f8b95504d3c709dc4.jpg",
+        "https://telegra.ph/file/a0fbb6c203a6b6f4403d8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

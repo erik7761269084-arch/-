@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11777,
+    "title": "[東出イロドリ] レモネード (COMIC 失楽天 2020年8月号)",
+    "sourceUrl": "https://telegra.ph/東出イロドリ-レモネード-COMIC-失楽天-2020年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/4b278b9b4cb7ab30d7140.jpg",
+        "https://telegra.ph/file/a580c1766780d89f33273.jpg",
+        "https://telegra.ph/file/156443224146ffc120505.jpg",
+        "https://telegra.ph/file/dba5c7a11e2deb64b256a.jpg",
+        "https://telegra.ph/file/da201a99b2ce2e2e36a06.jpg",
+        "https://telegra.ph/file/f683446fe09dd4595fce9.jpg",
+        "https://telegra.ph/file/ed0cb1c9e8ef7bc8711a0.jpg",
+        "https://telegra.ph/file/d6ae785acb65a6997f0e3.jpg",
+        "https://telegra.ph/file/643d8a96796228b961a89.jpg",
+        "https://telegra.ph/file/5a117ca7c33711f087f16.jpg",
+        "https://telegra.ph/file/af99a43dc6ed8d3804063.jpg",
+        "https://telegra.ph/file/c59115a79d4f81b0af822.jpg",
+        "https://telegra.ph/file/6aaa25d70b12e5c4fe601.jpg",
+        "https://telegra.ph/file/20d124a34346f3c6b8a32.jpg",
+        "https://telegra.ph/file/11bb0debab77adca3deab.jpg",
+        "https://telegra.ph/file/d8c5acf9068d434bda35c.jpg",
+        "https://telegra.ph/file/83c1fd154558a8847d11c.jpg",
+        "https://telegra.ph/file/9c48ec649c43cd56d2f72.jpg",
+        "https://telegra.ph/file/ee542e5435c113512f92b.jpg",
+        "https://telegra.ph/file/87bb2fd679d0a16a25c9b.jpg",
+        "https://telegra.ph/file/c5b84cdb10cde23435013.jpg",
+        "https://telegra.ph/file/7645f9d3f5ae820d38fbf.jpg",
+        "https://telegra.ph/file/d6baad48e72c6ac992930.jpg",
+        "https://telegra.ph/file/99e64a748427b12fb7e88.jpg",
+        "https://telegra.ph/file/61e7373c75780cf199315.jpg",
+        "https://telegra.ph/file/95f350a032631d8fa3447.jpg",
+        "https://telegra.ph/file/80d57c1ff809ae1ac6de8.jpg",
+        "https://telegra.ph/file/866185e93306e6d13f9e5.jpg",
+        "https://telegra.ph/file/a5e2361e871b2f9d2a923.jpg",
+        "https://telegra.ph/file/924543ee0ae6b784bf4b8.jpg",
+        "https://telegra.ph/file/1de312024fbd7bd610352.jpg",
+        "https://telegra.ph/file/f53960ef69cec1a269335.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

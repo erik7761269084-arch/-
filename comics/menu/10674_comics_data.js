@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10674,
+    "title": "[エソラnote (間島白幸)] ニッタカッコオトウト (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/エソラnote-間島白幸-ニッタカッコオトウト-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/4f1953e26c6be32c401f6.jpg",
+        "https://telegra.ph/file/00f89745674ebdb1131e3.jpg",
+        "https://telegra.ph/file/083c9ff749be439df5436.jpg",
+        "https://telegra.ph/file/2f203388a2ae2634ea399.jpg",
+        "https://telegra.ph/file/4a7e56a08637e28877322.jpg",
+        "https://telegra.ph/file/b8755ea230d02fa5c8d49.jpg",
+        "https://telegra.ph/file/f2042a8823f5597239e77.jpg",
+        "https://telegra.ph/file/0ac4eedd9a3ef2c4e8f45.jpg",
+        "https://telegra.ph/file/9afcb2eba790ae2c065c3.jpg",
+        "https://telegra.ph/file/a3604f1ef972dd16aab33.jpg",
+        "https://telegra.ph/file/0733949bde185114dfbe4.jpg",
+        "https://telegra.ph/file/b7c5b740b222971577d3e.jpg",
+        "https://telegra.ph/file/fdd338bba6a8a546ac7c3.jpg",
+        "https://telegra.ph/file/7d4ca98a944612a529c22.jpg",
+        "https://telegra.ph/file/47a2babed6af7a49c0846.jpg",
+        "https://telegra.ph/file/dc7c446a36e72f2f6f21d.jpg",
+        "https://telegra.ph/file/9fb8d101ebe6edb5b085e.jpg",
+        "https://telegra.ph/file/65c1882cd55a808723f3a.jpg",
+        "https://telegra.ph/file/d3b8d75ae35c69da5d5c7.jpg",
+        "https://telegra.ph/file/882166d34e3a18e08c8a4.jpg",
+        "https://telegra.ph/file/0b914bb151e589aff6e12.jpg",
+        "https://telegra.ph/file/0632ed083a0761586ff70.jpg",
+        "https://telegra.ph/file/923c9724124e406c78217.jpg",
+        "https://telegra.ph/file/4191457abe07db729d7a4.jpg",
+        "https://telegra.ph/file/0343ac31320ca718b7db9.jpg",
+        "https://telegra.ph/file/fa93e7f9c3fa99e85a759.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8661,
+    "title": "[きい] 六月の雨の夜に (COMIC 快楽天 2021年12月号)",
+    "sourceUrl": "https://telegra.ph/きい-六月の雨の夜に-COMIC-快楽天-2021年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/1764dcaa834782726afb1.jpg",
+        "https://telegra.ph/file/df5856d5c4c7c5e4bfc1c.jpg",
+        "https://telegra.ph/file/0dfec8275eb749c45e64d.jpg",
+        "https://telegra.ph/file/470cb78006eaf6208eeb8.jpg",
+        "https://telegra.ph/file/67f2867d18a53a083b1e3.jpg",
+        "https://telegra.ph/file/1da44e45d98f5c0f9f202.jpg",
+        "https://telegra.ph/file/9fea882d997da144ad950.jpg",
+        "https://telegra.ph/file/7616aee96a6492ea16673.jpg",
+        "https://telegra.ph/file/277684f9904e3f142c3fe.jpg",
+        "https://telegra.ph/file/859a59922e3217700aa6f.jpg",
+        "https://telegra.ph/file/32d988f744ad0f60657b3.jpg",
+        "https://telegra.ph/file/34af623e8a50eda2b770e.jpg",
+        "https://telegra.ph/file/7b2a2bac518e04a1c0826.jpg",
+        "https://telegra.ph/file/b1771d60902eafd51d5ac.jpg",
+        "https://telegra.ph/file/1b4f01de7acc3099e88d5.jpg",
+        "https://telegra.ph/file/5fe756dbcd20c20b7e46c.jpg",
+        "https://telegra.ph/file/0c0d94cb05a6c5b6edbca.jpg",
+        "https://telegra.ph/file/b999127118ece2d1a965d.jpg",
+        "https://telegra.ph/file/d9cbeeb1cda79dc76e3c8.jpg",
+        "https://telegra.ph/file/6f8419bea6cd58d817cc4.jpg",
+        "https://telegra.ph/file/c8fe505ce292a03ef6755.jpg",
+        "https://telegra.ph/file/ab49983856b107141457a.jpg",
+        "https://telegra.ph/file/abb7ef505c22ab99c0dbd.jpg",
+        "https://telegra.ph/file/671525daf28af79a66ecd.jpg",
+        "https://telegra.ph/file/07c85c9f8a52c10f07173.jpg",
+        "https://telegra.ph/file/4946b69547ba38d530b93.jpg",
+        "https://telegra.ph/file/59b711e655d19a33f580d.jpg",
+        "https://telegra.ph/file/82de62981f0c899e9ca26.jpg",
+        "https://telegra.ph/file/89768e06de9ed59f539e5.jpg",
+        "https://telegra.ph/file/f0035e0c6fc341b2f27b0.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

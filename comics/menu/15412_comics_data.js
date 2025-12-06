@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15412,
+    "title": "(僕らのラブライブ! 36) [めざましセット (めざし)] 夢みるセカイはありえない!? (ラブライブ!スーパースター!!)",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-36-めざましセット-めざし-夢みるセカイはありえない-ラブライブスーパースター-08-31",
+    "images": [
+        "https://telegra.ph/file/4ee9b496625dd5ac4a70f.jpg",
+        "https://telegra.ph/file/7916a87269359898e0756.jpg",
+        "https://telegra.ph/file/0acb7f7feaaed1064912c.jpg",
+        "https://telegra.ph/file/6cfd5f695e76b250812ec.jpg",
+        "https://telegra.ph/file/9cf02d7e4b3ccc1e1c2a9.jpg",
+        "https://telegra.ph/file/95fffe525160cf8bb8617.jpg",
+        "https://telegra.ph/file/7fd2c969ddd0c843f1201.jpg",
+        "https://telegra.ph/file/f1be49911c92e225b9e23.jpg",
+        "https://telegra.ph/file/ca235b3fa4a560c633895.jpg",
+        "https://telegra.ph/file/819a1539e0031268663f8.jpg",
+        "https://telegra.ph/file/79c112ad85f2d349e2f11.jpg",
+        "https://telegra.ph/file/b2a6be5e86854ca207510.jpg",
+        "https://telegra.ph/file/57041a75a162a0a96fc97.jpg",
+        "https://telegra.ph/file/88c667426dddfd521edc1.jpg",
+        "https://telegra.ph/file/054f6e1b04d21583c6b8d.jpg",
+        "https://telegra.ph/file/94d04cef9481b52d89974.jpg",
+        "https://telegra.ph/file/8a40b696683d9ae11cedf.jpg",
+        "https://telegra.ph/file/b463f6a8e19822ebe3226.jpg",
+        "https://telegra.ph/file/b4cc741b8dcbd59c2ad6c.jpg",
+        "https://telegra.ph/file/0b2a3779b12a56eb1507d.jpg",
+        "https://telegra.ph/file/2f870c925453774cbf881.jpg",
+        "https://telegra.ph/file/7a5ccf91054bddd6d8741.jpg",
+        "https://telegra.ph/file/7c0f55db61ab31883c1ba.jpg",
+        "https://telegra.ph/file/a86815dba8f60542a6759.jpg",
+        "https://telegra.ph/file/0cfbf3cb43354a86dc90c.jpg",
+        "https://telegra.ph/file/bd628eb5f7c310ddbd016.jpg",
+        "https://telegra.ph/file/b2160e0829ffe86932b88.jpg",
+        "https://telegra.ph/file/b489b5c35525e9aad927f.jpg",
+        "https://telegra.ph/file/87dc878de57280449e59f.jpg",
+        "https://telegra.ph/file/53bf73a2580ab48baef73.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13911,
+    "title": "[きょくちょ局 (きょくちょ)] メイド教育。 -没落貴族 瑠璃川椿-",
+    "sourceUrl": "https://telegra.ph/きょくちょ局-きょくちょ-メイド教育--没落貴族-瑠璃川椿-08-31",
+    "images": [
+        "https://telegra.ph/file/e48ce912b5a4000e939f6.jpg",
+        "https://telegra.ph/file/04f102a058b9e15ea054d.jpg",
+        "https://telegra.ph/file/04d2395de21344a5e8e57.jpg",
+        "https://telegra.ph/file/80210d8e3b42c8f1e4f5a.jpg",
+        "https://telegra.ph/file/9e698fae84692b96891d8.jpg",
+        "https://telegra.ph/file/9b2a68260827144d6c972.jpg",
+        "https://telegra.ph/file/d587be88ed54f6277751e.jpg",
+        "https://telegra.ph/file/2d2e6ef4853730c922299.jpg",
+        "https://telegra.ph/file/60120593fdcbec7ce198c.jpg",
+        "https://telegra.ph/file/89a4f9536c83a61ef5cb5.jpg",
+        "https://telegra.ph/file/0f8a7143d7f2118efaf06.jpg",
+        "https://telegra.ph/file/3af51a0263f248c0d568c.jpg",
+        "https://telegra.ph/file/f100f48b1c1264f8235b9.jpg",
+        "https://telegra.ph/file/1d275e09a595bde41637f.jpg",
+        "https://telegra.ph/file/48646e051665ecb0a9a8b.jpg",
+        "https://telegra.ph/file/a383ea2f3feeef8dc6336.jpg",
+        "https://telegra.ph/file/97f66ddaf4417f494688d.jpg",
+        "https://telegra.ph/file/8e7ad9fc4c88bc6d43f61.jpg",
+        "https://telegra.ph/file/4be5f01734fc922510ca8.jpg",
+        "https://telegra.ph/file/516c81357cc511200acba.jpg",
+        "https://telegra.ph/file/263fb2919746b39aef677.jpg",
+        "https://telegra.ph/file/8575eac7b2b2a6733dfca.jpg",
+        "https://telegra.ph/file/e91539a1586ed90228ac0.jpg",
+        "https://telegra.ph/file/c69a9e350dacfcd178cff.jpg",
+        "https://telegra.ph/file/1dc4b9ef0c82cb3cbde9d.jpg",
+        "https://telegra.ph/file/28ef61c560afd81c3de0e.jpg",
+        "https://telegra.ph/file/f4e75a8b3bda15ad291c4.jpg",
+        "https://telegra.ph/file/c753b387cf80d6f4d5437.jpg",
+        "https://telegra.ph/file/863735eb67a09c57086c3.jpg",
+        "https://telegra.ph/file/b232208f641056f8da7ba.jpg",
+        "https://telegra.ph/file/e53ddc251012a89738a36.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

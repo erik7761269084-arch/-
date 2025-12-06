@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13247,
+    "title": "[Chung_Chung]그리폰 여름휴가",
+    "sourceUrl": "https://telegra.ph/Chung-Chung그리폰-여름휴가-08-31",
+    "images": [
+        "https://telegra.ph/file/c6079d5eeec38f478e816.jpg",
+        "https://telegra.ph/file/b868e80d868463020ad1e.jpg",
+        "https://telegra.ph/file/1e8d30c026ba2a8844760.jpg",
+        "https://telegra.ph/file/2aa0964e03001b4d5cd7e.jpg",
+        "https://telegra.ph/file/36d0a2be1885f33735ccc.jpg",
+        "https://telegra.ph/file/766e5dc873fa5fbcc9f7c.jpg",
+        "https://telegra.ph/file/34631df00b959860cb2db.jpg",
+        "https://telegra.ph/file/d5957573a7522eb3ed1ac.jpg",
+        "https://telegra.ph/file/8530081164bcff3ca7333.jpg",
+        "https://telegra.ph/file/1934094474aa6aa1d6de4.jpg",
+        "https://telegra.ph/file/552730b4efa671a48a47d.jpg",
+        "https://telegra.ph/file/b7dd134351f739aae7f5e.jpg",
+        "https://telegra.ph/file/329feeaf1e95b36e7fa82.jpg",
+        "https://telegra.ph/file/acbd744064821b7349595.jpg",
+        "https://telegra.ph/file/17fb702bc6cfb5fff6b81.jpg",
+        "https://telegra.ph/file/a67b0682efc4d0a133ee2.jpg",
+        "https://telegra.ph/file/88259287a0a1564736812.jpg",
+        "https://telegra.ph/file/016a9fa70f3a1d37844b4.jpg",
+        "https://telegra.ph/file/01ab7472636d6699780cf.jpg",
+        "https://telegra.ph/file/22c8c0d9fe2a753197833.jpg",
+        "https://telegra.ph/file/1e6c52202ce39cdf733e3.jpg",
+        "https://telegra.ph/file/f37fe5e9a3d4c8c759436.jpg",
+        "https://telegra.ph/file/70df5728babd3da67b999.jpg",
+        "https://telegra.ph/file/c50d770fee08b84580dcd.jpg",
+        "https://telegra.ph/file/00abf04750b5a7dc194a8.jpg",
+        "https://telegra.ph/file/5f811b1fc535892b86fdf.jpg",
+        "https://telegra.ph/file/98156de78969effb3cb5e.jpg",
+        "https://telegra.ph/file/f3f740ffcdfbc17b87b29.jpg",
+        "https://telegra.ph/file/4a11a93d60e74dda2903a.jpg",
+        "https://telegra.ph/file/20be9cae0462dd82e1446.jpg",
+        "https://telegra.ph/file/96f7c219c283c50646d97.png",
+        "https://telegra.ph/file/94d1229c6bb906478a7ac.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

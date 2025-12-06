@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13111,
+    "title": "(第2回ウルトラサマーフェスタ) [PLANT (鶴井)] 秋葉さまのプレゼント (月姫)",
+    "sourceUrl": "https://telegra.ph/第2回ウルトラサマーフェスタ-PLANT-鶴井-秋葉さまのプレゼント-月姫-08-31-2",
+    "images": [
+        "https://telegra.ph/file/3d4b95dee4ddb03538f39.jpg",
+        "https://telegra.ph/file/d108a0a4bcb3de095c910.jpg",
+        "https://telegra.ph/file/ff82d20f16395135debfe.jpg",
+        "https://telegra.ph/file/03ed97edb76acd2cde9f1.jpg",
+        "https://telegra.ph/file/d02f86243e9f1b81c9342.jpg",
+        "https://telegra.ph/file/e411d9731926f2ce1c5d5.jpg",
+        "https://telegra.ph/file/5b723132c3a4bb93dd053.jpg",
+        "https://telegra.ph/file/2a7afa496d60a464e28f0.jpg",
+        "https://telegra.ph/file/6e9b46b577dafcc9bd5cb.jpg",
+        "https://telegra.ph/file/a59e7d6f1902088ad4da2.jpg",
+        "https://telegra.ph/file/de451595807978385216a.jpg",
+        "https://telegra.ph/file/e87b0054fe1e9fa98c397.jpg",
+        "https://telegra.ph/file/efa7c86fb968df0d154b9.jpg",
+        "https://telegra.ph/file/a60cc81d0c9048256c493.jpg",
+        "https://telegra.ph/file/06deaae1895c5efa9af80.jpg",
+        "https://telegra.ph/file/120c8cfbeb03fc3046d03.jpg",
+        "https://telegra.ph/file/aa6f4be6db18ece65cb80.jpg",
+        "https://telegra.ph/file/d354def8f1e82a53550e9.jpg",
+        "https://telegra.ph/file/7e6c8d53cfad166d97a39.jpg",
+        "https://telegra.ph/file/91966c45c95e727ee08a9.jpg",
+        "https://telegra.ph/file/8fee0ae80d9378b0a0fe2.jpg",
+        "https://telegra.ph/file/44176b114a7e9d7509f65.jpg",
+        "https://telegra.ph/file/fb15a21675aa440ae3535.jpg",
+        "https://telegra.ph/file/08eae9adca175dfe5b683.jpg",
+        "https://telegra.ph/file/1f199dda83ca605cf1a56.jpg",
+        "https://telegra.ph/file/f9cf5641669c360abfa67.jpg",
+        "https://telegra.ph/file/773000a72381b79f18481.jpg",
+        "https://telegra.ph/file/b0f2ed2d7e199c4369fc7.jpg",
+        "https://telegra.ph/file/b5dcfc9b47e0721c07cd9.jpg",
+        "https://telegra.ph/file/9d5b5101457680bca3e21.jpg",
+        "https://telegra.ph/file/1b790fc96f61967c2b8aa.jpg",
+        "https://telegra.ph/file/49642d58972eb51b2bbe0.jpg",
+        "https://telegra.ph/file/e5af08c08551a9f3b5227.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

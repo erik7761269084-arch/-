@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9356,
+    "title": "[南方ヒトガクシキ (仲村レグラ)] 暗晦の海",
+    "sourceUrl": "https://telegra.ph/南方ヒトガクシキ-仲村レグラ-暗晦の海-08-31",
+    "images": [
+        "https://telegra.ph/file/ae257f1cd0fc7c382d43f.jpg",
+        "https://telegra.ph/file/7740e57824c37e8e200ff.jpg",
+        "https://telegra.ph/file/6879199afa9911b2fcf45.jpg",
+        "https://telegra.ph/file/fcd2dcd9d1bec2a97922f.jpg",
+        "https://telegra.ph/file/7fcfd79c5b6dc9348d034.jpg",
+        "https://telegra.ph/file/d1ecff64e98cf6bf003b8.jpg",
+        "https://telegra.ph/file/5fcd99c43dc9bcb54a89a.jpg",
+        "https://telegra.ph/file/003a60bd07f1421bda3e5.jpg",
+        "https://telegra.ph/file/98d4e9eef1f964f3e7d42.jpg",
+        "https://telegra.ph/file/abcaaad7b3e48bcec5b16.jpg",
+        "https://telegra.ph/file/c955030a9641d41545603.jpg",
+        "https://telegra.ph/file/2528f431a85e1624987c3.jpg",
+        "https://telegra.ph/file/02c49509cee838025fb88.jpg",
+        "https://telegra.ph/file/7cc24cc6ddd65e317d7df.jpg",
+        "https://telegra.ph/file/caacef7a47231b40844a7.jpg",
+        "https://telegra.ph/file/ed23b6b21a84b6df35015.jpg",
+        "https://telegra.ph/file/7483a7bb4e6a41e21546e.jpg",
+        "https://telegra.ph/file/1dbec4cf6f468e496af18.jpg",
+        "https://telegra.ph/file/dda852456db3c96740b9c.jpg",
+        "https://telegra.ph/file/7fc1d727d0c24e303d178.jpg",
+        "https://telegra.ph/file/7fda907d9625233ddf144.jpg",
+        "https://telegra.ph/file/d2b0f1da01719fc38d640.jpg",
+        "https://telegra.ph/file/46c1675218ccf134935d4.jpg",
+        "https://telegra.ph/file/626703ea3259ffe9660c4.jpg",
+        "https://telegra.ph/file/047c023b8955043142539.jpg",
+        "https://telegra.ph/file/c2407d8f5f2602b3e9fa4.jpg",
+        "https://telegra.ph/file/f244c9aa940d515ccae3e.jpg",
+        "https://telegra.ph/file/c2708fc31955a5013187a.jpg",
+        "https://telegra.ph/file/858558db955f6100fed8f.jpg",
+        "https://telegra.ph/file/f57b795a8fcbbabfac0f3.jpg",
+        "https://telegra.ph/file/bef3cdab7c2351c74b4d7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13866,
+    "title": "[kakao] アヤマチコマチ (COMIC 快楽天ビースト 2021年5月号)",
+    "sourceUrl": "https://telegra.ph/kakao-アヤマチコマチ-COMIC-快楽天ビースト-2021年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/d8f48a42636cb7134c312.jpg",
+        "https://telegra.ph/file/53ebcf5b8fbd419f7c246.jpg",
+        "https://telegra.ph/file/04d9b3b7ffb549fc44587.jpg",
+        "https://telegra.ph/file/e0acf08709f7eaedccc1f.jpg",
+        "https://telegra.ph/file/a2d75714d9604678f353f.jpg",
+        "https://telegra.ph/file/2ac990e566ffe8fd8a1b7.jpg",
+        "https://telegra.ph/file/1e16c8d1ba1dd11a9dd15.jpg",
+        "https://telegra.ph/file/21ea6669075e473ed1cca.jpg",
+        "https://telegra.ph/file/0a89b82b32c48c491775a.jpg",
+        "https://telegra.ph/file/fb81f95c5fb58693b3c29.jpg",
+        "https://telegra.ph/file/710cf3c3fa82e69dbcae4.jpg",
+        "https://telegra.ph/file/019bb76f31d0e9aaf9040.jpg",
+        "https://telegra.ph/file/6c5e7a7bccb8c849a6f37.jpg",
+        "https://telegra.ph/file/2d31c3651d3e55c9d4655.jpg",
+        "https://telegra.ph/file/3159416c7c73fcd15535e.jpg",
+        "https://telegra.ph/file/d2cad92e85fc96c31a910.jpg",
+        "https://telegra.ph/file/e9a060ba8b0dd39e4227f.jpg",
+        "https://telegra.ph/file/4f6460348ab1ef0e76458.jpg",
+        "https://telegra.ph/file/e2b38efcce4367742bf46.jpg",
+        "https://telegra.ph/file/60637d0505cf41da466e3.jpg",
+        "https://telegra.ph/file/eb573aa002cc3e5e57fae.jpg",
+        "https://telegra.ph/file/0ae032faac944f221bbc8.jpg",
+        "https://telegra.ph/file/f062f526b1c062ff5ade6.jpg",
+        "https://telegra.ph/file/d9089c2f038ab4d304288.jpg",
+        "https://telegra.ph/file/9124125f532976b55b59f.jpg",
+        "https://telegra.ph/file/771ae3b6980591f9c8b17.jpg",
+        "https://telegra.ph/file/16205c772c78f550cad4e.jpg",
+        "https://telegra.ph/file/951e08cfa249445888b99.jpg",
+        "https://telegra.ph/file/a72a4373ac1f78703fcd0.jpg",
+        "https://telegra.ph/file/2819acf4dff35b9bcd17b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

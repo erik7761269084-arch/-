@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13409,
+    "title": "【フルカラー版】ジト目メイドさんとラブラブえっち",
+    "sourceUrl": "https://telegra.ph/フルカラー版ジト目メイドさんとラブラブえっち-08-31",
+    "images": [
+        "https://telegra.ph/file/dd4a1520252145586a39b.jpg",
+        "https://telegra.ph/file/a8a4edec9903573d6b1b6.jpg",
+        "https://telegra.ph/file/ccdb37bad8bcd8b9cbed9.jpg",
+        "https://telegra.ph/file/1bd386dc723ea93e5f0f2.jpg",
+        "https://telegra.ph/file/9b63bc10d6497aaf1d725.jpg",
+        "https://telegra.ph/file/ec5b71a582f105e023173.jpg",
+        "https://telegra.ph/file/c29708145b809f39d5fe5.jpg",
+        "https://telegra.ph/file/d406af9dc6a68dc22b47b.jpg",
+        "https://telegra.ph/file/949e5dcf92269f24639ed.jpg",
+        "https://telegra.ph/file/ace10b298c6abaaaf6a11.jpg",
+        "https://telegra.ph/file/3032d308cbcd35d4f6c71.jpg",
+        "https://telegra.ph/file/fb759199451e319191c70.jpg",
+        "https://telegra.ph/file/ed486e74039a2fb263821.jpg",
+        "https://telegra.ph/file/d39bab764941689fe6619.jpg",
+        "https://telegra.ph/file/cfb6a461c05ed6aa176ec.jpg",
+        "https://telegra.ph/file/304b0d94f8dca64572307.jpg",
+        "https://telegra.ph/file/24b6d05b781488a5e5fd3.jpg",
+        "https://telegra.ph/file/e8458309467eabe1c45ef.jpg",
+        "https://telegra.ph/file/962180cb7730b78e07d30.jpg",
+        "https://telegra.ph/file/e47526f52865f4d97e1d3.jpg",
+        "https://telegra.ph/file/00298de0186fee8528e73.jpg",
+        "https://telegra.ph/file/e5e5dced7378b4f5466b5.jpg",
+        "https://telegra.ph/file/efa39a8040b409dbd0960.jpg",
+        "https://telegra.ph/file/2e78fe2fbb92d7da909c4.jpg",
+        "https://telegra.ph/file/4cc4736f580915b99e513.jpg",
+        "https://telegra.ph/file/fee987f40e364b477849d.jpg",
+        "https://telegra.ph/file/880f35436110d5ccc6d4b.jpg",
+        "https://telegra.ph/file/2849afd8af3bf31c129e7.jpg",
+        "https://telegra.ph/file/db82be69ee99fa9c115ae.jpg",
+        "https://telegra.ph/file/bd470c0ec54342929651b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

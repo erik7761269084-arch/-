@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11490,
+    "title": "[TSFのF (F、べってぃ)] 女になった俺は親友の理想のカノジョ?",
+    "sourceUrl": "https://telegra.ph/TSFのF-Fべってぃ-女になった俺は親友の理想のカノジョ-08-31",
+    "images": [
+        "https://telegra.ph/file/7a97ae9bf0a5748ad0f11.jpg",
+        "https://telegra.ph/file/f76855bf9ba69b645177e.jpg",
+        "https://telegra.ph/file/57c61a104f16c054cdc8a.jpg",
+        "https://telegra.ph/file/a0c6537a7cc71c52904b1.jpg",
+        "https://telegra.ph/file/a8b4ff5e73e3f143b3f33.jpg",
+        "https://telegra.ph/file/f3b341d9b40585566b1fc.jpg",
+        "https://telegra.ph/file/4cc935f63130860f1dbbb.jpg",
+        "https://telegra.ph/file/4909ba4817ce588d14cfb.jpg",
+        "https://telegra.ph/file/0d2b756c3a14a3fb6e460.jpg",
+        "https://telegra.ph/file/7b2555ab2cdc60ce51523.jpg",
+        "https://telegra.ph/file/89eabb97ac1daca2766df.jpg",
+        "https://telegra.ph/file/aaaefca0469a2519e8048.jpg",
+        "https://telegra.ph/file/7ca586fbc2db0bc29c292.jpg",
+        "https://telegra.ph/file/9cbd4b6df837c433ef9f5.jpg",
+        "https://telegra.ph/file/1ccae3d7ee0e91cd88b56.jpg",
+        "https://telegra.ph/file/ff5875eca4a2d27174f9f.jpg",
+        "https://telegra.ph/file/794e0c821578b14b66f56.jpg",
+        "https://telegra.ph/file/a786826357584a320365c.jpg",
+        "https://telegra.ph/file/969d50c0fb7baaaacd402.jpg",
+        "https://telegra.ph/file/0b5fbfaf246bdab8e8006.jpg",
+        "https://telegra.ph/file/9b0d875d8aa84db0e6a40.jpg",
+        "https://telegra.ph/file/b62beceec9faeee868c63.jpg",
+        "https://telegra.ph/file/44548e1e1779f73bd46b4.jpg",
+        "https://telegra.ph/file/af2d8696fef1de53ee2d2.jpg",
+        "https://telegra.ph/file/da3d0802614a5a85fbcb4.jpg",
+        "https://telegra.ph/file/545d39296f36bab22c847.jpg",
+        "https://telegra.ph/file/140b0369e88ac61d73dfe.jpg",
+        "https://telegra.ph/file/35f2b5c0c01fb60ff3906.jpg",
+        "https://telegra.ph/file/5212bb492d1f39c225952.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

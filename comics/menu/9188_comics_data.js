@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9188,
+    "title": "(C96) [その他大勢 (ゆかたろ)] あんおし、なかよく! (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/C96-その他大勢-ゆかたろ-あんおしなかよく-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/582b617cb1810d5227429.jpg",
+        "https://telegra.ph/file/db72f32283d1706eb0de3.jpg",
+        "https://telegra.ph/file/b78106ae4759a4a94b293.jpg",
+        "https://telegra.ph/file/d81200c192114a8d72d30.jpg",
+        "https://telegra.ph/file/114c4af6237427a4ad523.jpg",
+        "https://telegra.ph/file/617bd428bacf7dab564bc.jpg",
+        "https://telegra.ph/file/ffada2ea7f1fa530b3e85.jpg",
+        "https://telegra.ph/file/a4f36b505cccae9025726.jpg",
+        "https://telegra.ph/file/e968c064937aba012d598.jpg",
+        "https://telegra.ph/file/1a42e82eeed9038371118.jpg",
+        "https://telegra.ph/file/bdeb09d38c4637e50cbfc.jpg",
+        "https://telegra.ph/file/8776f9d5c004a87a10acf.jpg",
+        "https://telegra.ph/file/b67304e4a7b8a339bc1d1.jpg",
+        "https://telegra.ph/file/78d2e3d2dba87dae20960.jpg",
+        "https://telegra.ph/file/f609ddf916fb09c640459.jpg",
+        "https://telegra.ph/file/6df3c9e55e00b6aaebb89.jpg",
+        "https://telegra.ph/file/d08674d07bf8d9dff0ccd.jpg",
+        "https://telegra.ph/file/55a37c5b1f1e5ce433297.jpg",
+        "https://telegra.ph/file/febdb8325e1d630bda2c9.jpg",
+        "https://telegra.ph/file/021ae52e404d868b172b0.jpg",
+        "https://telegra.ph/file/a0e3b6c464064ebafdfdc.jpg",
+        "https://telegra.ph/file/1098cf03dec5c2ea03f0a.jpg",
+        "https://telegra.ph/file/27c505757993e73caf5d5.jpg",
+        "https://telegra.ph/file/8e42c0eba16567a639a2a.jpg",
+        "https://telegra.ph/file/bde82a05824634263fba9.jpg",
+        "https://telegra.ph/file/3eb7ece4d51c1aacbfb84.jpg",
+        "https://telegra.ph/file/3dce76f9a467f7ef67416.jpg",
+        "https://telegra.ph/file/41228007bbb8ba479c1d3.jpg",
+        "https://telegra.ph/file/a01d551c685e57aeabd30.jpg",
+        "https://telegra.ph/file/053357cffc6dc8105d93f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

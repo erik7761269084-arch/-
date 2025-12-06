@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8060,
+    "title": "[Aika ID_0v0] A Night for girls across the worlds[未名汉化组]",
+    "sourceUrl": "https://telegra.ph/Aika-ID-0v0-A-Night-for-girls-across-the-worlds未名汉化组-08-31",
+    "images": [
+        "https://telegra.ph/file/3206771644fe90b750028.jpg",
+        "https://telegra.ph/file/aa60662ae3ce16c10fcde.jpg",
+        "https://telegra.ph/file/f31c3ade4054ad4e75936.jpg",
+        "https://telegra.ph/file/80d38622e320b37d3a4b3.jpg",
+        "https://telegra.ph/file/ca3d2cb2616a9da29f75c.jpg",
+        "https://telegra.ph/file/40e015f514216073579b5.jpg",
+        "https://telegra.ph/file/da3246c2bd61b74c42aa8.jpg",
+        "https://telegra.ph/file/7f34315ee56c442a237b9.jpg",
+        "https://telegra.ph/file/3f690f2c007374e8753b2.jpg",
+        "https://telegra.ph/file/3dfd5534a13fc5504c6cf.jpg",
+        "https://telegra.ph/file/c8f2ce440b499b84940a5.jpg",
+        "https://telegra.ph/file/6a64401993c7217c2e225.jpg",
+        "https://telegra.ph/file/c5babc33ef8fd2c8df255.jpg",
+        "https://telegra.ph/file/65931844253f0ce7340c3.jpg",
+        "https://telegra.ph/file/bd2c7b5d8d3fe1b764a0c.jpg",
+        "https://telegra.ph/file/e9452c81e64fec37e38d6.jpg",
+        "https://telegra.ph/file/5b818f3284ff41787f652.jpg",
+        "https://telegra.ph/file/b2071af1c3e8b7fd62b2f.jpg",
+        "https://telegra.ph/file/2f7195f18943e08057d0c.jpg",
+        "https://telegra.ph/file/5212d830eaa03e09ab682.jpg",
+        "https://telegra.ph/file/c57478a9d36e4208efa49.jpg",
+        "https://telegra.ph/file/85cd6f52635fe0e02f141.jpg",
+        "https://telegra.ph/file/ef607b9c6deec6d6c5cfb.jpg",
+        "https://telegra.ph/file/261b8cc1752258ee1923a.jpg",
+        "https://telegra.ph/file/698ef6f69664f428bbc9c.jpg",
+        "https://telegra.ph/file/2291ad8aa5dfadbe17400.jpg",
+        "https://telegra.ph/file/8054868423641cf6af15a.jpg",
+        "https://telegra.ph/file/54497479455eb35843b39.jpg",
+        "https://telegra.ph/file/26a8ead3a3ccfa4d565a3.jpg",
+        "https://telegra.ph/file/a6938183cc703e094fc5b.jpg",
+        "https://telegra.ph/file/f4c81417157faf3d84e72.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/7d2442dca710ab10252af.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

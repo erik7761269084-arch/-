@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12689,
+    "title": "[H・B (B-RIVER)] 淫らな英霊ブーディカは何度でもハメられる (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/HB-B-RIVER-淫らな英霊ブーディカは何度でもハメられる-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/31d98e3adab467c9d5ae8.jpg",
+        "https://telegra.ph/file/f855407c2cdf773a4cb87.jpg",
+        "https://telegra.ph/file/d7580159d9b650020b29c.jpg",
+        "https://telegra.ph/file/848fcc085c772db5a62a0.jpg",
+        "https://telegra.ph/file/067cfcdd99486a0c817fd.jpg",
+        "https://telegra.ph/file/711b5d2d5bddb6113d986.jpg",
+        "https://telegra.ph/file/fbbc4435f8d1a7f264c1c.jpg",
+        "https://telegra.ph/file/ae0bece9b1300994b5aff.jpg",
+        "https://telegra.ph/file/5f2a7b8cb29b06855ac9e.jpg",
+        "https://telegra.ph/file/01ebbc69fc8df16bf7494.jpg",
+        "https://telegra.ph/file/660034e2f394a8d93b733.jpg",
+        "https://telegra.ph/file/b377712bb2918c9cb52cc.jpg",
+        "https://telegra.ph/file/830b8847c178fad01424f.jpg",
+        "https://telegra.ph/file/cde78e2f3e6f595eb26a4.jpg",
+        "https://telegra.ph/file/1c980d17c72b2b887aac7.jpg",
+        "https://telegra.ph/file/e9e0ec3d59bd94ce92eec.jpg",
+        "https://telegra.ph/file/bc2facf8ba8dfad32d31e.jpg",
+        "https://telegra.ph/file/10b6a9c175bbb1a3cc24b.jpg",
+        "https://telegra.ph/file/14b824c0798dc3b98ff36.jpg",
+        "https://telegra.ph/file/2466f9d4ec855ce739cc4.jpg",
+        "https://telegra.ph/file/6a9adfd84ac3904c49acb.jpg",
+        "https://telegra.ph/file/5dd4c9ff5474e67e5d203.jpg",
+        "https://telegra.ph/file/f466a4665b76ad0e23b38.jpg",
+        "https://telegra.ph/file/cf4a9ff4aa75f9d57529b.jpg",
+        "https://telegra.ph/file/a9a8a2e7ca3b12d682f93.jpg",
+        "https://telegra.ph/file/44f4cc84c697503b8d3a6.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15226,
+    "title": "(C95) [あいいろさくら (相川りょう)] わたしの可愛いなでしこ (ゆるキャン△)",
+    "sourceUrl": "https://telegra.ph/C95-あいいろさくら-相川りょう-わたしの可愛いなでしこ-ゆるキャン-08-31",
+    "images": [
+        "https://telegra.ph/file/c1cd49096ec6b830a7f41.jpg",
+        "https://telegra.ph/file/b1d6ef0f680e5e844ee2b.jpg",
+        "https://telegra.ph/file/746fcc119805a08e3a6a9.jpg",
+        "https://telegra.ph/file/1cc9bad7ada8ff54ec2d8.jpg",
+        "https://telegra.ph/file/ed272a077e27698246dda.jpg",
+        "https://telegra.ph/file/aac9e8f20598826170690.jpg",
+        "https://telegra.ph/file/dd69f81f1bf751af4f469.jpg",
+        "https://telegra.ph/file/9618a34045ef8cf4b72eb.jpg",
+        "https://telegra.ph/file/cf41059cf6ba95f731601.jpg",
+        "https://telegra.ph/file/864cef43923427c0f5620.jpg",
+        "https://telegra.ph/file/bee140544fa0eb0dbdedf.jpg",
+        "https://telegra.ph/file/2ab1c064578a54aaeddbf.jpg",
+        "https://telegra.ph/file/7f4df2905cf4b72529195.jpg",
+        "https://telegra.ph/file/b7a3658ce57a98ae1eddf.jpg",
+        "https://telegra.ph/file/51f8b9dd65c3ab1b4e002.jpg",
+        "https://telegra.ph/file/831dafb1ed0b63abcdf15.jpg",
+        "https://telegra.ph/file/00bda9c0dcaeabe371cf5.jpg",
+        "https://telegra.ph/file/237f766408dee9192f709.jpg",
+        "https://telegra.ph/file/d94c69929b76edf6d9e94.jpg",
+        "https://telegra.ph/file/74d869b558d4d8e1128bb.jpg",
+        "https://telegra.ph/file/3d1b22efa5eeb63f4a25f.jpg",
+        "https://telegra.ph/file/bb5ecb59f941a87dc8242.jpg",
+        "https://telegra.ph/file/bc283494ed5ca2f908c1c.jpg",
+        "https://telegra.ph/file/d9139a6efa72172d94712.jpg",
+        "https://telegra.ph/file/bca49b3b5acf65f3ae078.jpg",
+        "https://telegra.ph/file/b161f735df9f93239f0fc.jpg",
+        "https://telegra.ph/file/56b856a89ab6aaf00cd6e.jpg",
+        "https://telegra.ph/file/38af75b41eab08ed13a1a.jpg",
+        "https://telegra.ph/file/c437bdc48bb809f629d2c.jpg",
+        "https://telegra.ph/file/22e90eec20b2beccadc37.jpg",
+        "https://telegra.ph/file/159c5076b1bac4d61ef72.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

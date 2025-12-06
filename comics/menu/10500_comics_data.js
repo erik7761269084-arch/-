@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10500,
+    "title": "(C97) [ねこのこね (タケユウ)] 彼に催眠をかけたら子作りさせられた",
+    "sourceUrl": "https://telegra.ph/C97-ねこのこね-タケユウ-彼に催眠をかけたら子作りさせられた-08-31",
+    "images": [
+        "https://telegra.ph/file/6c992d02ec79083e62f63.jpg",
+        "https://telegra.ph/file/e385d861361a67fc056ec.jpg",
+        "https://telegra.ph/file/70e3bda35aae298acbf56.jpg",
+        "https://telegra.ph/file/139f1eda8ecdaa51776b5.jpg",
+        "https://telegra.ph/file/2ec94bcdcacd3b8ee09ca.jpg",
+        "https://telegra.ph/file/ecd0af77aba8b135933ee.jpg",
+        "https://telegra.ph/file/b419163c9f95525c08ecf.jpg",
+        "https://telegra.ph/file/a7213a563a7cb8702806e.jpg",
+        "https://telegra.ph/file/a4a9481d0cc039113b993.jpg",
+        "https://telegra.ph/file/11f2faac717a9899a7bcc.jpg",
+        "https://telegra.ph/file/af9a470503ef0e3a6dc43.jpg",
+        "https://telegra.ph/file/b5d41d2adf24fd898c4ce.jpg",
+        "https://telegra.ph/file/7eb3c296412400219355a.jpg",
+        "https://telegra.ph/file/18115c3cc4125399fe366.jpg",
+        "https://telegra.ph/file/46b77ce1d3ceba32b51da.jpg",
+        "https://telegra.ph/file/4c3e681403efce257cab5.jpg",
+        "https://telegra.ph/file/4efc40cdc3eb3b93d3392.jpg",
+        "https://telegra.ph/file/8847c235c257f42b2f9b2.jpg",
+        "https://telegra.ph/file/dcb2102ace2bd0ad4d079.jpg",
+        "https://telegra.ph/file/347399b193d207d7b1127.jpg",
+        "https://telegra.ph/file/9764dc9098ad18bf2adc7.jpg",
+        "https://telegra.ph/file/ef74fec20947cfaf443c5.jpg",
+        "https://telegra.ph/file/1d4d9d1293506647b5fff.jpg",
+        "https://telegra.ph/file/1c709b165716143d8ffc7.jpg",
+        "https://telegra.ph/file/021fbfa81479b41717412.jpg",
+        "https://telegra.ph/file/e8d64bc2cd138fe97cfdf.jpg",
+        "https://telegra.ph/file/0a2dc82051f9e1f784a03.jpg",
+        "https://telegra.ph/file/98f08aabbb6eede417cf2.jpg",
+        "https://telegra.ph/file/78f5805c3b7911c4e2fad.jpg",
+        "https://telegra.ph/file/e79c30fb69356aa7ce62b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

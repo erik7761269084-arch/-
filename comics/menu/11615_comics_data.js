@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11615,
+    "title": "[ど～なつ池 (はすの上梅津)] 催眠!!中華門番娘にガニ股アクメ (東方Project)",
+    "sourceUrl": "https://telegra.ph/どなつ池-はすの上梅津-催眠中華門番娘にガニ股アクメ-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/94f8bb91859ec83b74c05.jpg",
+        "https://telegra.ph/file/329b697ad4927ffd5e2df.jpg",
+        "https://telegra.ph/file/b38da52004c2cf1242453.jpg",
+        "https://telegra.ph/file/4f3c1f9997b8359ff4f13.jpg",
+        "https://telegra.ph/file/3cc373230b6837fb81497.jpg",
+        "https://telegra.ph/file/79e74af5218700d813685.jpg",
+        "https://telegra.ph/file/35cb707a1347aeec9d8d8.jpg",
+        "https://telegra.ph/file/be6ab671828c652bbec80.jpg",
+        "https://telegra.ph/file/8ab64306d1f0fa5656401.jpg",
+        "https://telegra.ph/file/895161b84c1efd6d4bcf9.jpg",
+        "https://telegra.ph/file/3dc4b722315b95e917a67.jpg",
+        "https://telegra.ph/file/43c08ef61d6d66044bdb7.jpg",
+        "https://telegra.ph/file/421c2732ca330e36bc7eb.jpg",
+        "https://telegra.ph/file/59f9b267c12a936244a86.jpg",
+        "https://telegra.ph/file/9c8089ddaa72ae6b64541.jpg",
+        "https://telegra.ph/file/f07d95d46980c0b8d892c.jpg",
+        "https://telegra.ph/file/90f0365105f109b684ec8.jpg",
+        "https://telegra.ph/file/0b34b4fa533d8297ed195.jpg",
+        "https://telegra.ph/file/8c030141002b7ed940c45.jpg",
+        "https://telegra.ph/file/660bf408220ca39973f06.jpg",
+        "https://telegra.ph/file/8250d9f8531b5a2c6d3bd.jpg",
+        "https://telegra.ph/file/b4d8c383670bccb3a07bc.jpg",
+        "https://telegra.ph/file/a85d2e5e7a0a7eea1f75e.jpg",
+        "https://telegra.ph/file/876e46d4e246409e2f19b.jpg",
+        "https://telegra.ph/file/c4d5442ecab6a71c403f8.jpg",
+        "https://telegra.ph/file/6648936ef7b9ec3ade386.jpg",
+        "https://telegra.ph/file/efefb9c4b1d4b306e06ea.jpg",
+        "https://telegra.ph/file/26e43729701bb77064523.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16015,
+    "title": "(CIRCLE Space Meeting 7th) [いしやきいも (いしだ)] ウザくないもん!! (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/CIRCLE-Space-Meeting-7th-いしやきいも-いしだ-ウザくないもん-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/3cf8cee12863f204db464.jpg",
+        "https://telegra.ph/file/c26220f3e383b2628019c.jpg",
+        "https://telegra.ph/file/ced866042eb3a11b48c13.jpg",
+        "https://telegra.ph/file/29c7442a5fe4ba6cbeb53.jpg",
+        "https://telegra.ph/file/4be54a7b5c376fa8744a0.jpg",
+        "https://telegra.ph/file/1f9439290a70d2a895e8a.jpg",
+        "https://telegra.ph/file/8f99f9baf602b4e643d36.jpg",
+        "https://telegra.ph/file/4580358051ce318dec05f.jpg",
+        "https://telegra.ph/file/fa38cc998d88046af29c1.jpg",
+        "https://telegra.ph/file/07615f3b69e68278d0f07.jpg",
+        "https://telegra.ph/file/364212c33edffbd8390fb.jpg",
+        "https://telegra.ph/file/a009ffdb1c1e311697912.jpg",
+        "https://telegra.ph/file/3074e76ebdc1fc11cff82.jpg",
+        "https://telegra.ph/file/05b69839d0eedbd0f9e70.jpg",
+        "https://telegra.ph/file/9ed1c097335582bb07d10.jpg",
+        "https://telegra.ph/file/3c1559ef92ff893448da2.jpg",
+        "https://telegra.ph/file/58f40998bcd18803e71ea.jpg",
+        "https://telegra.ph/file/f4b81b91db5487839525f.jpg",
+        "https://telegra.ph/file/431e0cab75f44ce388880.jpg",
+        "https://telegra.ph/file/03c5e56b1fa1e2518dfb1.jpg",
+        "https://telegra.ph/file/5c587044b42fa7574678c.jpg",
+        "https://telegra.ph/file/143f8dfa32a73c5c4fed9.jpg",
+        "https://telegra.ph/file/3d78b6d5c0291785b08cb.jpg",
+        "https://telegra.ph/file/e5e1e3df2a6aeefdde6f1.jpg",
+        "https://telegra.ph/file/fa0d63819a564e16514a2.jpg",
+        "https://telegra.ph/file/6769d4f10f3691c32e8d1.jpg",
+        "https://telegra.ph/file/c86b66005bbbd2a40c483.jpg",
+        "https://telegra.ph/file/9b110399e080e37a234e6.jpg",
+        "https://telegra.ph/file/d26a2b5330c42348b3e49.jpg",
+        "https://telegra.ph/file/82c92021305a147a86102.jpg",
+        "https://telegra.ph/file/660204123d0cbe5d4bf13.jpg",
+        "https://telegra.ph/file/62e3fe15be4fb37d723bc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

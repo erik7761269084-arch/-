@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8715,
+    "title": "[philanthropy] ゲームオーバー ○葉と明○奈の輪淫の宴 (ソードアート・オンライン)",
+    "sourceUrl": "https://telegra.ph/philanthropy-ゲームオーバー-葉と明奈の輪淫の宴-ソードアートオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/17f6371af4a60e935b77f.jpg",
+        "https://telegra.ph/file/6f194d04817975e0a07d6.jpg",
+        "https://telegra.ph/file/a73702d1d2590730d2b08.jpg",
+        "https://telegra.ph/file/19dd367bc7302d7077089.jpg",
+        "https://telegra.ph/file/4f8140367a57949fe1a0c.jpg",
+        "https://telegra.ph/file/04f5be4a8f3c7043edc79.jpg",
+        "https://telegra.ph/file/bce96e9df795b49f63fd7.jpg",
+        "https://telegra.ph/file/7d2801577b35a30e37f2f.jpg",
+        "https://telegra.ph/file/64733f8c667af9004d5f6.jpg",
+        "https://telegra.ph/file/c37f5b4303a49fa604e3b.jpg",
+        "https://telegra.ph/file/235345e85803cbf13ab23.jpg",
+        "https://telegra.ph/file/d0e56addbc10fd0dba767.jpg",
+        "https://telegra.ph/file/d75c38a427f3d97877a4f.jpg",
+        "https://telegra.ph/file/db06fa929c701d04657a5.jpg",
+        "https://telegra.ph/file/4e0afe2d51c56506fe3f3.jpg",
+        "https://telegra.ph/file/aa4f31bf177011815e11a.jpg",
+        "https://telegra.ph/file/b469eaf2c9d59cefb81aa.jpg",
+        "https://telegra.ph/file/795029c50b792ba545747.jpg",
+        "https://telegra.ph/file/297fa1dfefe59bb13d145.jpg",
+        "https://telegra.ph/file/71eabf2cb49a6a5d3897d.jpg",
+        "https://telegra.ph/file/6f56902b15642fd0eeed1.jpg",
+        "https://telegra.ph/file/8dfbcf914dd05c73b58df.jpg",
+        "https://telegra.ph/file/659e40758f9d8e42efabe.jpg",
+        "https://telegra.ph/file/6371f8fc43b6baa683719.jpg",
+        "https://telegra.ph/file/e90b992f62189b45bd275.jpg",
+        "https://telegra.ph/file/5737e16c1d72980dece6b.jpg",
+        "https://telegra.ph/file/df812b52d3b3a1cf2167b.jpg",
+        "https://telegra.ph/file/05d8dea9a08521b8481dc.jpg",
+        "https://telegra.ph/file/53bbaac12972157a30ffb.jpg",
+        "https://telegra.ph/file/a6e966a8302eb47372778.jpg",
+        "https://telegra.ph/file/804dc0ffd8796c58551e5.jpg",
+        "https://telegra.ph/file/30f6f362762711f6c3ddb.jpg",
+        "https://telegra.ph/file/564b6ef8023fd5d1438c1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

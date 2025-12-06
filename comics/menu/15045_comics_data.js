@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15045,
+    "title": "(C89)(同人誌) どうしようもないくらい (東方Project)(非エロ)[迷途竹林漢化]",
+    "sourceUrl": "https://telegra.ph/C89同人誌-どうしようもないくらい-東方Project非エロ迷途竹林漢化-08-31",
+    "images": [
+        "https://telegra.ph/file/5e23fad719a313a775faf.jpg",
+        "https://telegra.ph/file/55ba15d23f18c61349e6a.jpg",
+        "https://telegra.ph/file/ff5f4f097fa51b1eb3ff4.jpg",
+        "https://telegra.ph/file/fc3a408f5c891bbb853e4.jpg",
+        "https://telegra.ph/file/c037526760c64d4927646.jpg",
+        "https://telegra.ph/file/55a7dc66a56069443bb67.jpg",
+        "https://telegra.ph/file/1f1fbcd465e673591d609.jpg",
+        "https://telegra.ph/file/bde3b199ce349d1ebe88e.jpg",
+        "https://telegra.ph/file/6006a57a406f1d4b028eb.jpg",
+        "https://telegra.ph/file/b30d8642ed378ca5bbadb.jpg",
+        "https://telegra.ph/file/7614e92d0580e09290479.jpg",
+        "https://telegra.ph/file/a2ab0e3bd629120963e91.jpg",
+        "https://telegra.ph/file/a1e87b8d66b5bb96312df.jpg",
+        "https://telegra.ph/file/16b3303045c2d13f0af16.jpg",
+        "https://telegra.ph/file/034909cfa49d4f18edea1.jpg",
+        "https://telegra.ph/file/77c472eee9f094d31a6b5.jpg",
+        "https://telegra.ph/file/7536d2abf94517dedc0c9.jpg",
+        "https://telegra.ph/file/fceb8a60971132fb51d23.jpg",
+        "https://telegra.ph/file/e8f4c5850b96ec14ef332.jpg",
+        "https://telegra.ph/file/8b991e42ab6ef577cb65e.jpg",
+        "https://telegra.ph/file/616fa54d0afbffd85e061.jpg",
+        "https://telegra.ph/file/585c4157dec73bca2c36e.jpg",
+        "https://telegra.ph/file/d046c1fe2b63b8e1dd362.jpg",
+        "https://telegra.ph/file/46783cedf71d8ab3eb28e.jpg",
+        "https://telegra.ph/file/7d14d5afc0716f86397fa.jpg",
+        "https://telegra.ph/file/1d8e9b83658e3fbab6fca.jpg",
+        "https://telegra.ph/file/7439ea7653a50344456af.jpg",
+        "https://telegra.ph/file/a3c2a1d30739686a06254.jpg",
+        "https://telegra.ph/file/216a8be486e7e86a9feaf.jpg",
+        "https://telegra.ph/file/ba91de3e65859e5952d33.jpg",
+        "https://telegra.ph/file/8c8da212cff5d23fd1b30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

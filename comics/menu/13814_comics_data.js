@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13814,
+    "title": "(C95) [仔馬牧場 (ぼに～)] 朝陽の中へと (ゼノブレイド2)",
+    "sourceUrl": "https://telegra.ph/C95-仔馬牧場-ぼに-朝陽の中へと-ゼノブレイド2-08-31",
+    "images": [
+        "https://telegra.ph/file/955de5411ccb35dba7aa5.jpg",
+        "https://telegra.ph/file/3d07125988fa4ba903978.jpg",
+        "https://telegra.ph/file/203768a7c5d8bd9e18a6a.jpg",
+        "https://telegra.ph/file/22ef4a4865aa901629cfb.jpg",
+        "https://telegra.ph/file/d9e9f8687c864a5cc0554.jpg",
+        "https://telegra.ph/file/1b87c19228e617be4878f.jpg",
+        "https://telegra.ph/file/8dcaaf482da9b38fd1f6b.jpg",
+        "https://telegra.ph/file/2e918eecc1d537dcd2778.jpg",
+        "https://telegra.ph/file/45b01bee70b5615ed8d82.jpg",
+        "https://telegra.ph/file/6355cec9b3aa71f76fc1b.jpg",
+        "https://telegra.ph/file/93c89c10c60bb03744f3b.jpg",
+        "https://telegra.ph/file/a88ef0eda00cfa0223d5d.jpg",
+        "https://telegra.ph/file/5b912779db47a8798f514.jpg",
+        "https://telegra.ph/file/9b18488b0619675ce8f46.jpg",
+        "https://telegra.ph/file/9201203d987e78b31f4fd.jpg",
+        "https://telegra.ph/file/ceba779c78c18b1a57ee0.jpg",
+        "https://telegra.ph/file/e3f9756ad72cdf156d768.jpg",
+        "https://telegra.ph/file/229056029c40c9eab65ba.jpg",
+        "https://telegra.ph/file/92bbf6b6bd0e09ca7556c.jpg",
+        "https://telegra.ph/file/0620474c365fdd9dc330c.jpg",
+        "https://telegra.ph/file/4985b50b920113b18ebd8.jpg",
+        "https://telegra.ph/file/e920a95ea9271923ac443.jpg",
+        "https://telegra.ph/file/f6280e6fc9e8712401d7c.jpg",
+        "https://telegra.ph/file/3c0e75bb9f0ae5e630806.jpg",
+        "https://telegra.ph/file/cd800a928dd54cf56fd0a.jpg",
+        "https://telegra.ph/file/29137240499301a03ee65.jpg",
+        "https://telegra.ph/file/8f2060988465b960a780d.jpg",
+        "https://telegra.ph/file/8020c61cda8dceaba32b8.jpg",
+        "https://telegra.ph/file/0e6ba0141ba372d3b26dd.jpg",
+        "https://telegra.ph/file/c5718c772aa0e4b93d05f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

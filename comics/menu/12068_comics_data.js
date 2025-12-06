@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12068,
+    "title": "(バレンタインフェスタ第2回) [Tears39 (空維深夜)] 今夜、私が頂かれるのは…",
+    "sourceUrl": "https://telegra.ph/バレンタインフェスタ第2回-Tears39-空維深夜-今夜私が頂かれるのは-08-31",
+    "images": [
+        "https://telegra.ph/file/6d1fdb5851eb6370e7a58.jpg",
+        "https://telegra.ph/file/5ea71e90a523148d84fd4.jpg",
+        "https://telegra.ph/file/5150e924df9d5e021c989.jpg",
+        "https://telegra.ph/file/7736125898b1c8cb09963.jpg",
+        "https://telegra.ph/file/c8a33d04150dd77802f87.jpg",
+        "https://telegra.ph/file/b09a65f98be8274dca46a.jpg",
+        "https://telegra.ph/file/1063ce1b6ca11ff0b5d69.jpg",
+        "https://telegra.ph/file/2207292fdf430ee3e8659.jpg",
+        "https://telegra.ph/file/d6ce8ab85f6c7fe5c78d0.jpg",
+        "https://telegra.ph/file/f365104e1fadf9fb1e107.jpg",
+        "https://telegra.ph/file/5ded1a93b77fd5ca0ce2d.jpg",
+        "https://telegra.ph/file/dc158ae8ab00a394efe67.jpg",
+        "https://telegra.ph/file/d7e16135a501a8495cf9d.jpg",
+        "https://telegra.ph/file/de2d556985196c5a84a89.jpg",
+        "https://telegra.ph/file/0355aecf5f20423ca4928.jpg",
+        "https://telegra.ph/file/a96cce729dd62fadb7708.jpg",
+        "https://telegra.ph/file/cf4e590ef013b1aaa3aee.jpg",
+        "https://telegra.ph/file/86a915fe6d19aa0d0963a.jpg",
+        "https://telegra.ph/file/e5723384ae5a43ecab6d5.jpg",
+        "https://telegra.ph/file/77b55b2fe54a23c12dbe3.jpg",
+        "https://telegra.ph/file/6de511d79fe38ad79b0b3.jpg",
+        "https://telegra.ph/file/b9e501c5293c2b531f62b.jpg",
+        "https://telegra.ph/file/813f4c0ca6dcca6be9a79.jpg",
+        "https://telegra.ph/file/7e449ee5d9c3d3518f2f4.jpg",
+        "https://telegra.ph/file/b02e9db590cfe3c3caad3.jpg",
+        "https://telegra.ph/file/3a72a2fa6c1968ea76224.jpg",
+        "https://telegra.ph/file/e0d8bac54b5145d63806e.jpg",
+        "https://telegra.ph/file/393ed0028941a5bde50ef.jpg",
+        "https://telegra.ph/file/5332747c777dd2f4a8f48.jpg",
+        "https://telegra.ph/file/90467edc5e0fbb9f01955.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

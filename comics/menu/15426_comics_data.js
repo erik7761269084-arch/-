@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15426,
+    "title": "[カンブロパキコーペ (そそざぐり)]今夜は、ずっと、先輩と(1)",
+    "sourceUrl": "https://telegra.ph/カンブロパキコーペ-そそざぐり今夜はずっと先輩と1-08-31",
+    "images": [
+        "https://telegra.ph/file/e01c8eacce9dcc66d77ad.jpg",
+        "https://telegra.ph/file/2a54b350c40c639570787.jpg",
+        "https://telegra.ph/file/64f03cbadd41d8315d1cd.jpg",
+        "https://telegra.ph/file/818c8289f12c3714f8f62.jpg",
+        "https://telegra.ph/file/ca62ade30d5fcb300c111.jpg",
+        "https://telegra.ph/file/bc55252a8bb14fd8b7a5a.jpg",
+        "https://telegra.ph/file/b919ccfd9a88a9009b48b.jpg",
+        "https://telegra.ph/file/49d99e062786dcde2d60d.jpg",
+        "https://telegra.ph/file/cf5b4b97ec3f3166dffd5.jpg",
+        "https://telegra.ph/file/e05ce94462e57d0523d1d.jpg",
+        "https://telegra.ph/file/acc1184f80d55bda42b7d.jpg",
+        "https://telegra.ph/file/2258e7aaaa7d8192f3675.jpg",
+        "https://telegra.ph/file/b6d6294cc472a04eab808.jpg",
+        "https://telegra.ph/file/9e83a1cee8ddba0115d0b.jpg",
+        "https://telegra.ph/file/9ee6796607aabdd8e504f.jpg",
+        "https://telegra.ph/file/6ef79d207a9bc1f78da39.jpg",
+        "https://telegra.ph/file/79117ddb3a197af79735d.jpg",
+        "https://telegra.ph/file/f186fd0df4b0dfd1dd009.jpg",
+        "https://telegra.ph/file/26340dded56edec880dfb.jpg",
+        "https://telegra.ph/file/3c16a38709c351b98c80d.jpg",
+        "https://telegra.ph/file/ffeb7cd8d72e4507b562d.jpg",
+        "https://telegra.ph/file/3f54de36e565f1c751926.jpg",
+        "https://telegra.ph/file/e1cb84081784ed74deb19.jpg",
+        "https://telegra.ph/file/4c61e194532be7aee21f7.jpg",
+        "https://telegra.ph/file/0886ceb84b2e8e516f23e.jpg",
+        "https://telegra.ph/file/310ac26ba140e923a1576.jpg",
+        "https://telegra.ph/file/c2353613a786c673a783c.jpg",
+        "https://telegra.ph/file/bb55117a984dd46e727d0.jpg",
+        "https://telegra.ph/file/92072655026b73bd3fb9e.jpg",
+        "https://telegra.ph/file/12beb4ad38f6fc388d613.jpg",
+        "https://telegra.ph/file/dbe0b3286574e07eb0812.jpg",
+        "https://telegra.ph/file/d631d998672490e63e49e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

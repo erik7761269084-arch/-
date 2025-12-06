@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10616,
+    "title": "[九門りお (九門りお)] レイヤーみるるのイケない夏やすみ (牧場野みるる)",
+    "sourceUrl": "https://telegra.ph/九門りお-九門りお-レイヤーみるるのイケない夏やすみ-牧場野みるる-08-31",
+    "images": [
+        "https://telegra.ph/file/1ca2a5ffaf7c4a51c032d.jpg",
+        "https://telegra.ph/file/7e0226b5e906b68fc24f8.jpg",
+        "https://telegra.ph/file/50d8f1815ee8d2f2222ee.jpg",
+        "https://telegra.ph/file/022c60eab503618c761f7.jpg",
+        "https://telegra.ph/file/6096b07caaf30b2e6ed81.jpg",
+        "https://telegra.ph/file/7af737cdd3744998b021d.jpg",
+        "https://telegra.ph/file/fa3bf476b6f9eb302b5b7.jpg",
+        "https://telegra.ph/file/477f50bc1190918e32fe4.jpg",
+        "https://telegra.ph/file/e55ff9ee9ba9c749c82a3.jpg",
+        "https://telegra.ph/file/96ef6980cf2f818c31864.jpg",
+        "https://telegra.ph/file/65a31c20a05c2ed9c2bf6.jpg",
+        "https://telegra.ph/file/663f3539c2fc930eec2bd.jpg",
+        "https://telegra.ph/file/6962c5bff88a7515b8a27.jpg",
+        "https://telegra.ph/file/d973ffec7526c2a7856c9.jpg",
+        "https://telegra.ph/file/15e74c7f670cb6b7ec40f.jpg",
+        "https://telegra.ph/file/e69cc4ca3a6c6bf4a35d7.jpg",
+        "https://telegra.ph/file/6ae7c0d550a1452cc27bc.jpg",
+        "https://telegra.ph/file/220d1a5dca6d4da7c8912.jpg",
+        "https://telegra.ph/file/1112e2e343b9b6dcb8f2d.jpg",
+        "https://telegra.ph/file/649e7bb98110ea3d3e203.jpg",
+        "https://telegra.ph/file/fcd7235e35f74c64d0925.jpg",
+        "https://telegra.ph/file/5c5803569f6443e02120a.jpg",
+        "https://telegra.ph/file/a960840b6faea01a39cfe.jpg",
+        "https://telegra.ph/file/7ad8a21a68ec8c9952418.jpg",
+        "https://telegra.ph/file/10879c194f1a0daadb3c2.jpg",
+        "https://telegra.ph/file/eb6f49486934a1408143f.jpg",
+        "https://telegra.ph/file/5cc56c1765d5a18db6cf4.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/e8196c9bc09ab6a6cbe86.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

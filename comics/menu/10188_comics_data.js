@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10188,
+    "title": "[ハードボイルドよし子] おしかけサンシャワー 第1話 (永遠娘 七)  [ページ欠落]",
+    "sourceUrl": "https://telegra.ph/ハードボイルドよし子-おしかけサンシャワー-第1話-永遠娘-七-ページ欠落-08-31",
+    "images": [
+        "https://telegra.ph/file/989b520ae347558890039.jpg",
+        "https://telegra.ph/file/6408db7f5a50d11ec5642.jpg",
+        "https://telegra.ph/file/85b881fde5f865d48e1c5.jpg",
+        "https://telegra.ph/file/c155d8d526cc388f34903.jpg",
+        "https://telegra.ph/file/52460903f018859033543.jpg",
+        "https://telegra.ph/file/ebd2adcf80e4f9f52340d.jpg",
+        "https://telegra.ph/file/3f8e15bc1834588804876.jpg",
+        "https://telegra.ph/file/7a88ed665427daa43d795.jpg",
+        "https://telegra.ph/file/a274309ff81c6289ade7c.jpg",
+        "https://telegra.ph/file/111bdddb7a0c10ce6a99e.jpg",
+        "https://telegra.ph/file/91bacd3b0a8bc13e7e063.jpg",
+        "https://telegra.ph/file/52d08bace235eab58c3d7.jpg",
+        "https://telegra.ph/file/a54486cba9a04bac589e5.jpg",
+        "https://telegra.ph/file/7e5c97e23af167ffea7d8.jpg",
+        "https://telegra.ph/file/f6517d52f364087cecc9e.jpg",
+        "https://telegra.ph/file/4d7941a37b348e3c015dc.jpg",
+        "https://telegra.ph/file/4095b0981faca66767584.jpg",
+        "https://telegra.ph/file/18c5870a62e4676518f13.jpg",
+        "https://telegra.ph/file/59ab849429d28e06c4f93.jpg",
+        "https://telegra.ph/file/7191fe8548a0ee12f705e.jpg",
+        "https://telegra.ph/file/2f0ccb9f645f803c876c4.jpg",
+        "https://telegra.ph/file/af8738b1b6c810a0a469f.jpg",
+        "https://telegra.ph/file/142eab5b92d082117731e.jpg",
+        "https://telegra.ph/file/141d2e49f35657568938f.jpg",
+        "https://telegra.ph/file/003fd65430f628d20f1ed.jpg",
+        "https://telegra.ph/file/a392863f2804ea8567b95.jpg",
+        "https://telegra.ph/file/3e2d5583de1fe7316d5f0.jpg",
+        "https://telegra.ph/file/4649d083556e4bb046721.jpg",
+        "https://telegra.ph/file/c0485bec801b0c89437c7.jpg",
+        "https://telegra.ph/file/1e3aa5d9c3b6098a6c0f5.jpg",
+        "https://telegra.ph/file/488be8ca323f8ecd91e4b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12509,
+    "title": "(FF37) [ありすの宝箱 (水龍敬)] マリン船長は非合意の上で凌辱されたい (宝鐘マリン)",
+    "sourceUrl": "https://telegra.ph/FF37-ありすの宝箱-水龍敬-マリン船長は非合意の上で凌辱されたい-宝鐘マリン-08-31",
+    "images": [
+        "https://telegra.ph/file/14e0b9ec69a501d5bee0e.jpg",
+        "https://telegra.ph/file/71447b4ae30b6ec6c087e.jpg",
+        "https://telegra.ph/file/f8ab04af276e4b4458050.jpg",
+        "https://telegra.ph/file/80e953efb9173f4383be9.jpg",
+        "https://telegra.ph/file/d9f7b6ea5265c5d7a3448.jpg",
+        "https://telegra.ph/file/3b4aae49df8e18c121694.jpg",
+        "https://telegra.ph/file/8b0818df32a34301069f5.jpg",
+        "https://telegra.ph/file/2fc257787561d999b4007.jpg",
+        "https://telegra.ph/file/c9562d34a45c1595ed0ad.jpg",
+        "https://telegra.ph/file/92357dc57b99e285af5d8.jpg",
+        "https://telegra.ph/file/16365b15ee97cbc6ae124.jpg",
+        "https://telegra.ph/file/c772c08a3efc0badee09e.jpg",
+        "https://telegra.ph/file/aea1580ea9638b31a55bf.jpg",
+        "https://telegra.ph/file/dde8a5089d676d2473818.jpg",
+        "https://telegra.ph/file/524ec34b681501ede8aad.jpg",
+        "https://telegra.ph/file/5c427e9de4cef4ca46fe3.jpg",
+        "https://telegra.ph/file/9b6e93261f3bdcbc83657.jpg",
+        "https://telegra.ph/file/f14d9f8aac38cba22aa32.jpg",
+        "https://telegra.ph/file/9ca2f87c8a5b9f4be6d34.jpg",
+        "https://telegra.ph/file/5423d1906d2a22fc94483.jpg",
+        "https://telegra.ph/file/0222d9da904946f8c7131.jpg",
+        "https://telegra.ph/file/c36189e9b42ca070b0297.jpg",
+        "https://telegra.ph/file/15261f756d2d41153e5ad.jpg",
+        "https://telegra.ph/file/e032efb6cb33b5e2bd57e.jpg",
+        "https://telegra.ph/file/d65c7a9c1a7154652e6cb.jpg",
+        "https://telegra.ph/file/d6407ee5dc20bbf64090a.jpg",
+        "https://telegra.ph/file/8be731080c06db234f9a2.jpg",
+        "https://telegra.ph/file/b82c105ba367a7b087e70.jpg",
+        "https://telegra.ph/file/8345b0cbcc38fc9957de6.jpg",
+        "https://telegra.ph/file/7363b78b2275b9ab34357.jpg",
+        "https://telegra.ph/file/545b8e21c8d96ae736a88.jpg",
+        "https://telegra.ph/file/5e385dd2fd8043bf0cef1.jpg",
+        "https://telegra.ph/file/093202799d00fd1d83e81.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

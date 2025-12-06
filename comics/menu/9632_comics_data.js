@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9632,
+    "title": "(C95) [Dear Durandal (希日向ひろき)] 婦長に令呪であれこれしちゃう本 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C95-Dear-Durandal-希日向ひろき-婦長に令呪であれこれしちゃう本-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/c12c4e01148c41b12f2f9.jpg",
+        "https://telegra.ph/file/8e819bd644d18fc609eff.jpg",
+        "https://telegra.ph/file/cfd4ca3d07bc5ff8e2a3f.jpg",
+        "https://telegra.ph/file/50257d024c505239bff20.jpg",
+        "https://telegra.ph/file/06c2e2d00d1e18580ebef.jpg",
+        "https://telegra.ph/file/b8c8f605e76f574710b5a.jpg",
+        "https://telegra.ph/file/6a7cda73e89bc9f41d8bf.jpg",
+        "https://telegra.ph/file/8805c8e3ca6e23a8adb4e.jpg",
+        "https://telegra.ph/file/af2e1f5fbed0c2cb3a06c.jpg",
+        "https://telegra.ph/file/19ce4020766fc9107dc00.jpg",
+        "https://telegra.ph/file/80c59252e015a61652b7e.jpg",
+        "https://telegra.ph/file/8a34bde35cfb6670977b1.jpg",
+        "https://telegra.ph/file/5a0056fd3c615e8a9e1c4.jpg",
+        "https://telegra.ph/file/e133eb4f3446970dba3f9.jpg",
+        "https://telegra.ph/file/e58f8e2cb68ac947ad469.jpg",
+        "https://telegra.ph/file/283cc0c17d59b4a2964f9.jpg",
+        "https://telegra.ph/file/c90d03c93f535daba58f2.jpg",
+        "https://telegra.ph/file/041f999fc4005c4af4c71.jpg",
+        "https://telegra.ph/file/6ab9ecb2d123f67c52170.jpg",
+        "https://telegra.ph/file/5ba64316e8ade6fd7c7d1.jpg",
+        "https://telegra.ph/file/488c30a5ad6a3dab745d7.jpg",
+        "https://telegra.ph/file/b3d44c1d17df35fa044e3.jpg",
+        "https://telegra.ph/file/d3a8c669082fe26ee2938.jpg",
+        "https://telegra.ph/file/a55dd460b6c95ee475c66.jpg",
+        "https://telegra.ph/file/4c8fbfbc1a68b770a255e.jpg",
+        "https://telegra.ph/file/10df7d1963fc51aceca3e.jpg",
+        "https://telegra.ph/file/57416de4f5e8994330c69.jpg",
+        "https://telegra.ph/file/fa3e6f9b5cbd3e990f83f.jpg",
+        "https://telegra.ph/file/bfe2f2c8269b168955a80.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8602,
+    "title": "[こらんだむ] 妖精騎士トリスタンを徹底的にわからせてみた (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/こらんだむ-妖精騎士トリスタンを徹底的にわからせてみた-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/02848228d3e3aa5aa2fac.jpg",
+        "https://telegra.ph/file/1c9624150d27b12d69d7a.jpg",
+        "https://telegra.ph/file/ae500350ebf7d08afdedc.jpg",
+        "https://telegra.ph/file/641ad533e00ada236f650.jpg",
+        "https://telegra.ph/file/a9d817a9210923adf6361.jpg",
+        "https://telegra.ph/file/d232c2aa77b1b9bd0b19c.jpg",
+        "https://telegra.ph/file/ea4070b320297825bd341.jpg",
+        "https://telegra.ph/file/f08fcebd6b6ef3c135ae0.jpg",
+        "https://telegra.ph/file/849d3bc4c1bf441674e04.jpg",
+        "https://telegra.ph/file/29ff0fb5a8cf3425eca1f.jpg",
+        "https://telegra.ph/file/d03601a8f943e2da0a4d4.jpg",
+        "https://telegra.ph/file/af7718acc3ae54a3b7fa9.jpg",
+        "https://telegra.ph/file/79056b98ae2fbef631a0e.jpg",
+        "https://telegra.ph/file/99ef63917713344f231d0.jpg",
+        "https://telegra.ph/file/ce8c10fe4cae1c982470c.jpg",
+        "https://telegra.ph/file/b0e14bef11ff37afe393c.jpg",
+        "https://telegra.ph/file/a54654a05e6796193d29b.jpg",
+        "https://telegra.ph/file/95544bc8d5d2039616866.jpg",
+        "https://telegra.ph/file/e1f894359eaca3c48ee95.jpg",
+        "https://telegra.ph/file/fcddd270fb840aedf8a53.jpg",
+        "https://telegra.ph/file/dca74f8bc3b36a99744e2.jpg",
+        "https://telegra.ph/file/e6b1b3b9a0cba048a05e8.jpg",
+        "https://telegra.ph/file/cc1dc3bbd84ecc31ee35b.jpg",
+        "https://telegra.ph/file/2b49543e788944ba418f7.jpg",
+        "https://telegra.ph/file/16706576a244112306974.jpg",
+        "https://telegra.ph/file/95196dd6ae5de35344e59.jpg",
+        "https://telegra.ph/file/61d256426da5a7e5cb137.jpg",
+        "https://telegra.ph/file/76e371648244b2f1b0d71.jpg",
+        "https://telegra.ph/file/a7ff24af60b2c89abe699.jpg",
+        "https://telegra.ph/file/f94bb9b2c74c77b6e70f5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

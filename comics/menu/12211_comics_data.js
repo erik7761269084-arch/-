@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12211,
+    "title": "[チキン] ジャイアンと馬場 (COMIC アンスリウム 2021年3月号)",
+    "sourceUrl": "https://telegra.ph/チキン-ジャイアンと馬場-COMIC-アンスリウム-2021年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a2854a7388a28859813ad.jpg",
+        "https://telegra.ph/file/26348b8368359e2c799eb.jpg",
+        "https://telegra.ph/file/8f33d0d8fae0550ca14f0.jpg",
+        "https://telegra.ph/file/8d89de142fd09aa6a6d2d.jpg",
+        "https://telegra.ph/file/688b263b64df85cd2dc9c.jpg",
+        "https://telegra.ph/file/cd1cafa4122e516186bb0.jpg",
+        "https://telegra.ph/file/e29176d1ecffea23f25de.jpg",
+        "https://telegra.ph/file/9ffd2f902b1d32318e0b0.jpg",
+        "https://telegra.ph/file/6bd97f0255031e2c32c57.jpg",
+        "https://telegra.ph/file/57acfca9ac14969126203.jpg",
+        "https://telegra.ph/file/05021eca2cbdf7d745145.jpg",
+        "https://telegra.ph/file/f258f1b1dff33e4283a70.jpg",
+        "https://telegra.ph/file/26045a7d1ca0970e44b85.jpg",
+        "https://telegra.ph/file/b95892f7a93516dc8f6cb.jpg",
+        "https://telegra.ph/file/5da50316f0777dc163258.jpg",
+        "https://telegra.ph/file/d1bdc5b98a960add4846c.jpg",
+        "https://telegra.ph/file/8f7ae80482b0e5fc36e44.jpg",
+        "https://telegra.ph/file/09ee18dc274f3c7da8b43.jpg",
+        "https://telegra.ph/file/54ed176ac67bb62f5ed06.jpg",
+        "https://telegra.ph/file/f7a4df59fe9db7385c8e8.jpg",
+        "https://telegra.ph/file/f76600abcfc0bd2130236.jpg",
+        "https://telegra.ph/file/09ba5bb4f490f65ffc25a.jpg",
+        "https://telegra.ph/file/54dc4735a9a6fa51ba074.jpg",
+        "https://telegra.ph/file/f418796a80ada3e42ac79.jpg",
+        "https://telegra.ph/file/46835ff024269757ecf7e.jpg",
+        "https://telegra.ph/file/26dafd0549bcaed0a5a40.jpg",
+        "https://telegra.ph/file/3b2d376b272e2aea08f3c.jpg",
+        "https://telegra.ph/file/b6d31ec1e4a6d57c7fc80.jpg",
+        "https://telegra.ph/file/34e348ed3ab5da6729801.jpg",
+        "https://telegra.ph/file/dbb6e1747de970ade55a5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

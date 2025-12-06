@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11401,
+    "title": "(みんなで一緒においしいごはん) [サークルフィオレ (えかきびと)] 恋薬は口に甘し (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/みんなで一緒においしいごはん-サークルフィオレ-えかきびと-恋薬は口に甘し-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/78e933a4e438b913482d9.jpg",
+        "https://telegra.ph/file/4e5375630f8af6d23d693.jpg",
+        "https://telegra.ph/file/fdf4d9abd62e91ddc6639.jpg",
+        "https://telegra.ph/file/f3856cdfb3b1cf65c8f4e.jpg",
+        "https://telegra.ph/file/8f7fe440816163ceca0a7.jpg",
+        "https://telegra.ph/file/a3ee20b0212b40c597aeb.jpg",
+        "https://telegra.ph/file/bc047a2b003f88ef3b7dd.jpg",
+        "https://telegra.ph/file/2783796005b79aaa48507.jpg",
+        "https://telegra.ph/file/9199ee53d417a74d5b2f7.jpg",
+        "https://telegra.ph/file/cf759aa159c7e905604e8.jpg",
+        "https://telegra.ph/file/7fd3d5197b914630c5e0f.jpg",
+        "https://telegra.ph/file/e3542ef1419bd84c57ab3.jpg",
+        "https://telegra.ph/file/c7e98f345573e32145e6a.jpg",
+        "https://telegra.ph/file/64b7f4ea3d33f026fceab.jpg",
+        "https://telegra.ph/file/90982a2f03ff748d7bfa6.jpg",
+        "https://telegra.ph/file/ecf05700a989d90704fb4.jpg",
+        "https://telegra.ph/file/b7c9368b513323f10e46b.jpg",
+        "https://telegra.ph/file/a532c56bcb57ac96ef07c.jpg",
+        "https://telegra.ph/file/42e98eaede16e14f3c0fd.jpg",
+        "https://telegra.ph/file/f2f5c2c5b539a2c7cf27c.jpg",
+        "https://telegra.ph/file/c80d55e780b98cdd8b799.jpg",
+        "https://telegra.ph/file/8eb8e73cbc59d63051ee3.jpg",
+        "https://telegra.ph/file/6f964759d7d4337b6799b.jpg",
+        "https://telegra.ph/file/da001c0b5028a52a0ae5f.jpg",
+        "https://telegra.ph/file/61f5e41293a9617d787f7.jpg",
+        "https://telegra.ph/file/ba399486997abaf9372d7.jpg",
+        "https://telegra.ph/file/faa58936a99860a18a4a2.jpg",
+        "https://telegra.ph/file/f35d856137e75ef4e3cdd.jpg",
+        "https://telegra.ph/file/c2299c6be0f907a227a0a.jpg",
+        "https://telegra.ph/file/dc56cdd888998606260a5.jpg",
+        "https://telegra.ph/file/381a70d5c40dc52c526bb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

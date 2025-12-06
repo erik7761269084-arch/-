@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15963,
+    "title": "[果物一途 (黒川律空)] 感情遲鈍的女友和為此困擾的我  -Preview",
+    "sourceUrl": "https://telegra.ph/果物一途-黒川律空-感情遲鈍的女友和為此困擾的我--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/ea15f6b1bf2c54521c351.jpg",
+        "https://telegra.ph/file/bdb2c0803ef9517388085.jpg",
+        "https://telegra.ph/file/c5ceaaec7404fb7e17a03.jpg",
+        "https://telegra.ph/file/fe3dbbf8c88456fcebaa7.jpg",
+        "https://telegra.ph/file/af0a742489b8ae0664a9e.jpg",
+        "https://telegra.ph/file/bac9edf9b630ce9f0b5c2.jpg",
+        "https://telegra.ph/file/1ffb97063b654587ce01c.jpg",
+        "https://telegra.ph/file/6ea5b11e0d7326bac1193.jpg",
+        "https://telegra.ph/file/1cb078faa8012e408e41a.jpg",
+        "https://telegra.ph/file/a92c2f81351bc15aa805f.jpg",
+        "https://telegra.ph/file/1c232673bf4a4dffa1a22.jpg",
+        "https://telegra.ph/file/6634b2ed879da63aaf61e.jpg",
+        "https://telegra.ph/file/b554eaf705aded745fa4a.jpg",
+        "https://telegra.ph/file/73a6df100a8cf093567c5.jpg",
+        "https://telegra.ph/file/b3a43f99cd75f6e94961d.jpg",
+        "https://telegra.ph/file/1aeb6a330c5a4768de116.jpg",
+        "https://telegra.ph/file/ced4537d406cddf57d95a.jpg",
+        "https://telegra.ph/file/22f028b0ccbdf08e53834.jpg",
+        "https://telegra.ph/file/c18e94f4d98f50eacdd50.jpg",
+        "https://telegra.ph/file/1000db53e74200e29b900.jpg",
+        "https://telegra.ph/file/de61da36cbca180687196.jpg",
+        "https://telegra.ph/file/c5bfbd21413bbe6d04f14.jpg",
+        "https://telegra.ph/file/0c779dfc8eee50940c3da.jpg",
+        "https://telegra.ph/file/097eaa0b0cd5b9fe9d0cf.jpg",
+        "https://telegra.ph/file/e0f492b0c0946b07a4ff5.jpg",
+        "https://telegra.ph/file/69e81cd6d89146ece0d51.jpg",
+        "https://telegra.ph/file/71e6065c3f8fa46c57027.jpg",
+        "https://telegra.ph/file/be5a03ef20c9ee83acc68.jpg",
+        "https://telegra.ph/file/fce845205b663ccca8f75.jpg",
+        "https://telegra.ph/file/5cfccc07ee29bac67c5e1.jpg",
+        "https://telegra.ph/file/88371fe2abdcb2a2326eb.jpg",
+        "https://telegra.ph/file/782cf97390f531b166276.jpg",
+        "https://telegra.ph/file/9f437bf2f0b343b3f98ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

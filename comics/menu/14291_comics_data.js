@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 14291,
+    "title": "[倉田むと] 好きのカタチはそれぞれ♥ (コミックリブート Vol.28)",
+    "sourceUrl": "https://telegra.ph/倉田むと-好きのカタチはそれぞれ-コミックリブート-Vol28-08-31",
+    "images": [
+        "https://telegra.ph/file/1d3f3fdf24f1e18175549.jpg",
+        "https://telegra.ph/file/101864e4b43dca8463e4a.jpg",
+        "https://telegra.ph/file/6155970e02709648f2b7b.jpg",
+        "https://telegra.ph/file/32a3fb1b544ede4b3beff.jpg",
+        "https://telegra.ph/file/e41f2bfb0e731b82e7f4a.jpg",
+        "https://telegra.ph/file/edf75545de4ecaac0af8f.jpg",
+        "https://telegra.ph/file/cd20d5fbaf74960824a1f.jpg",
+        "https://telegra.ph/file/b08785bb7eb1c98ddd215.jpg",
+        "https://telegra.ph/file/b80a229391210f9be21b7.jpg",
+        "https://telegra.ph/file/a5007bd99500baf9c435a.jpg",
+        "https://telegra.ph/file/0fa63859ecb8e07c04170.jpg",
+        "https://telegra.ph/file/384a6c7c5f6955d426ba4.jpg",
+        "https://telegra.ph/file/6ce20cdfaaf3777ec17d9.jpg",
+        "https://telegra.ph/file/b24cbcaa217c4b55b50ee.jpg",
+        "https://telegra.ph/file/31c9c1d88cf18df7c7e97.jpg",
+        "https://telegra.ph/file/d0e57408f8096015136a0.jpg",
+        "https://telegra.ph/file/0c0a25b85a06f1cc9826c.jpg",
+        "https://telegra.ph/file/0e149a47ad95f01b861b0.jpg",
+        "https://telegra.ph/file/386dbb75968ef5a6ca1b5.jpg",
+        "https://telegra.ph/file/6f12d88463b46a08a13c8.jpg",
+        "https://telegra.ph/file/eb97dcb94a31616734aed.jpg",
+        "https://telegra.ph/file/0b032cd4917dd357624bc.jpg",
+        "https://telegra.ph/file/ac12791edfb698dcc967c.jpg",
+        "https://telegra.ph/file/d6376c230bd9de0cb6281.jpg",
+        "https://telegra.ph/file/aeae09a1ac6fc06e07ef5.jpg",
+        "https://telegra.ph/file/483caab5b3271f13ceb29.jpg",
+        "https://telegra.ph/file/5a90e1f4dc0e02a422139.jpg",
+        "https://telegra.ph/file/2d3be05e5e64f13d0f7e7.jpg",
+        "https://telegra.ph/file/2b642ff6e5e177db1ee1d.jpg",
+        "https://telegra.ph/file/f99a006cf0122575ffb29.jpg",
+        "https://telegra.ph/file/242e3e435c23e61916f2d.jpg",
+        "https://telegra.ph/file/2cb4a8f25ef98f17bc627.jpg",
+        "https://telegra.ph/file/3bf15636c45c009d3afad.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

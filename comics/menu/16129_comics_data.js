@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16129,
+    "title": "(秋季例大祭9) [矢ハイ (あおい)] 無かったことにしてあげる (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/秋季例大祭9-矢ハイ-あおい-無かったことにしてあげる-東方Project--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/514d668382d7b1591ec5f.jpg",
+        "https://telegra.ph/file/ac82e20cf614170698419.jpg",
+        "https://telegra.ph/file/3ee8aa807703044901763.jpg",
+        "https://telegra.ph/file/ff73bfaab7a4712821caf.jpg",
+        "https://telegra.ph/file/bd81e781fe5956e5d4e56.jpg",
+        "https://telegra.ph/file/1d9247c9bcdfd1d8b2c2f.jpg",
+        "https://telegra.ph/file/4a77e26d67e002bc96699.jpg",
+        "https://telegra.ph/file/7bb2c46b770f79d72db1d.jpg",
+        "https://telegra.ph/file/433fd2818fbad79aa93e2.jpg",
+        "https://telegra.ph/file/6546227cb8fc118c09fde.jpg",
+        "https://telegra.ph/file/fb2c7a87e97cd35804259.jpg",
+        "https://telegra.ph/file/bbd395197fecbeb5d05b1.jpg",
+        "https://telegra.ph/file/9c20b5073f2488b5a6cd1.jpg",
+        "https://telegra.ph/file/f9137c3dba3b8d3fbb4dd.jpg",
+        "https://telegra.ph/file/4854a2baccfec4eb7daee.jpg",
+        "https://telegra.ph/file/662e83ad33bd3fb09e2e9.jpg",
+        "https://telegra.ph/file/f0177d8d6e0964190db66.jpg",
+        "https://telegra.ph/file/2d791b8d18985348c1525.jpg",
+        "https://telegra.ph/file/52dde5425182d82113676.jpg",
+        "https://telegra.ph/file/d9bb94bf0ef0f0cb736b4.jpg",
+        "https://telegra.ph/file/c89c593f78a12720f0c76.jpg",
+        "https://telegra.ph/file/4529816ac6fc686a4f7e3.jpg",
+        "https://telegra.ph/file/8d2fc419f5d2c5fc08c4b.jpg",
+        "https://telegra.ph/file/6fd80d1ae4cf782d320e1.jpg",
+        "https://telegra.ph/file/f7135700758d6cd8f9b92.jpg",
+        "https://telegra.ph/file/08caaf61015d7443ce356.jpg",
+        "https://telegra.ph/file/e3d0dcec8043b4bb053da.jpg",
+        "https://telegra.ph/file/1bb7fd031b0bf7d6d89f9.jpg",
+        "https://telegra.ph/file/a82abe3a1a4f7bc2ebc6e.jpg",
+        "https://telegra.ph/file/c2ac838c17a83d1f473d9.jpg",
+        "https://telegra.ph/file/6e2cae70b4d899a7a0e0f.jpg",
+        "https://telegra.ph/file/f97d5480257157c880a09.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

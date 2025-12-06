@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11609,
+    "title": "[あずきこ] 僕のママカツ！④ ママ3人と休日デート (COMIC 阿吽 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/あずきこ-僕のママカツ-ママ3人と休日デート-COMIC-阿吽-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/2923316a412998e7a51f9.jpg",
+        "https://telegra.ph/file/07d961e93cec994e8c273.jpg",
+        "https://telegra.ph/file/537a041b23488e28cd630.jpg",
+        "https://telegra.ph/file/d93ba6e2d12c046cec47e.jpg",
+        "https://telegra.ph/file/cc44ce226a15883260830.jpg",
+        "https://telegra.ph/file/bca76add77c056aefee13.jpg",
+        "https://telegra.ph/file/af45911d4ac0859ee3b7c.jpg",
+        "https://telegra.ph/file/cdfd00818f672bbe6e70e.jpg",
+        "https://telegra.ph/file/8ea992360783cb4631a81.jpg",
+        "https://telegra.ph/file/a2cc37add005f71f4097d.jpg",
+        "https://telegra.ph/file/ef4dfe0ab1dde91beee30.jpg",
+        "https://telegra.ph/file/3fdd935286fa863a57491.jpg",
+        "https://telegra.ph/file/8ceadb07c1beb5d83c984.jpg",
+        "https://telegra.ph/file/c37f534e2f1eaa768ed10.jpg",
+        "https://telegra.ph/file/06cda6e6d84a2334c4239.jpg",
+        "https://telegra.ph/file/259c96bade96c5546b66d.jpg",
+        "https://telegra.ph/file/e89c22fdfd66565698d21.jpg",
+        "https://telegra.ph/file/a4d2154556e445bf96d26.jpg",
+        "https://telegra.ph/file/21f7f91d24b6c82bdc941.jpg",
+        "https://telegra.ph/file/377cebb188f11842a66d0.jpg",
+        "https://telegra.ph/file/d3e11d3dcc94c5436d5aa.jpg",
+        "https://telegra.ph/file/254f8a8af1b1d40af6410.jpg",
+        "https://telegra.ph/file/88b9498452ce6f60bcb6f.jpg",
+        "https://telegra.ph/file/6ac1a51f9ae4fff6577fd.jpg",
+        "https://telegra.ph/file/7eec4b5a8505d2f125806.jpg",
+        "https://telegra.ph/file/e19a7f34825699d7a56ff.jpg",
+        "https://telegra.ph/file/941f98f0e31f168c2ad3f.jpg",
+        "https://telegra.ph/file/fb66e9a9cd8a876598045.jpg",
+        "https://telegra.ph/file/f300817b552d752b8321a.jpg",
+        "https://telegra.ph/file/0fe34be4c3db9d339a44e.jpg",
+        "https://telegra.ph/file/ba7ce98559bf52f5c194b.jpg",
+        "https://telegra.ph/file/f773e642285a4974bb92d.jpg",
+        "https://telegra.ph/file/0a04b21179fbc674051f4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

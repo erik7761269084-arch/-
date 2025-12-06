@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11537,
+    "title": "(C91) [C.R's NEST (しーあーる)] 双極之巫女 (サムライスピリッツ)",
+    "sourceUrl": "https://telegra.ph/C91-CRs-NEST-しーあーる-双極之巫女-サムライスピリッツ-08-31",
+    "images": [
+        "https://telegra.ph/file/db13ae9f076beeeef8171.jpg",
+        "https://telegra.ph/file/a891154e8d0501696b7c6.jpg",
+        "https://telegra.ph/file/05e6331b1274a781a4035.jpg",
+        "https://telegra.ph/file/6b76dec6231d1b7e2e125.jpg",
+        "https://telegra.ph/file/a916adce7cf118e8ee33b.jpg",
+        "https://telegra.ph/file/7931d0d666c7cef6f5bc7.jpg",
+        "https://telegra.ph/file/c263612418a8554a322e2.jpg",
+        "https://telegra.ph/file/96dd2ca1d579ac662e6b0.jpg",
+        "https://telegra.ph/file/776abd3e46aece76ab78d.jpg",
+        "https://telegra.ph/file/b0d820476d51771826e16.jpg",
+        "https://telegra.ph/file/50852ef55efb3046764ca.jpg",
+        "https://telegra.ph/file/a1ddeda8dcd0695ce6221.jpg",
+        "https://telegra.ph/file/98ea74fcedb535e847f21.jpg",
+        "https://telegra.ph/file/d0540bdefb1554fc7ae8b.jpg",
+        "https://telegra.ph/file/39ff8d85c0abf40053704.jpg",
+        "https://telegra.ph/file/80a03dbba0b7302bdf633.jpg",
+        "https://telegra.ph/file/65a6447b3e60cb702b59a.jpg",
+        "https://telegra.ph/file/c09b44982021212f6abeb.jpg",
+        "https://telegra.ph/file/0f4051758cf8c9caae867.jpg",
+        "https://telegra.ph/file/67786d081b6cf628c817e.jpg",
+        "https://telegra.ph/file/6a0bf4cbf086adad6ebdf.jpg",
+        "https://telegra.ph/file/07084b878ca51c756eb67.jpg",
+        "https://telegra.ph/file/98834ef9f8a54608f89b8.jpg",
+        "https://telegra.ph/file/24137e51a1a5cf040d4d3.jpg",
+        "https://telegra.ph/file/adbc54eb047896aeb199d.jpg",
+        "https://telegra.ph/file/85c7b97b72a31c95c64d0.jpg",
+        "https://telegra.ph/file/12acbe4f1499eac3ee117.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

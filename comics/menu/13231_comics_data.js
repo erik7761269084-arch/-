@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13231,
+    "title": "[F.W.ZHolic (FAN)] お隣さんは闇組織に肉体改造された元正義戦隊メンバーでした2",
+    "sourceUrl": "https://telegra.ph/FWZHolic-FAN-お隣さんは闇組織に肉体改造された元正義戦隊メンバーでした2-08-31",
+    "images": [
+        "https://telegra.ph/file/2b81b2682bada5897ec04.jpg",
+        "https://telegra.ph/file/e611650ddb23539a1d951.jpg",
+        "https://telegra.ph/file/6e1f414570580b45130db.jpg",
+        "https://telegra.ph/file/ef37630e974301da31972.jpg",
+        "https://telegra.ph/file/2ff1b043d48eb5358460c.jpg",
+        "https://telegra.ph/file/cf1791b1aefadd9a4f2aa.jpg",
+        "https://telegra.ph/file/7df192dc179d294c8a8d5.jpg",
+        "https://telegra.ph/file/9da96e31a31068ef3f834.jpg",
+        "https://telegra.ph/file/d29afcce630d423f38fc9.jpg",
+        "https://telegra.ph/file/5bbb41fc24a07d2851de5.jpg",
+        "https://telegra.ph/file/cff9890f1502282982a14.jpg",
+        "https://telegra.ph/file/09b2aedb7c625f2d309f9.jpg",
+        "https://telegra.ph/file/f519e0b7a6f3390aba3f1.jpg",
+        "https://telegra.ph/file/4e58c87d7ff7433dffeb5.jpg",
+        "https://telegra.ph/file/8ece77ee8c704c9a49170.jpg",
+        "https://telegra.ph/file/6de522cd2b69cc797f3f2.jpg",
+        "https://telegra.ph/file/8ccb0378087516a31627c.jpg",
+        "https://telegra.ph/file/8ee8dca6507201fa41bca.jpg",
+        "https://telegra.ph/file/8f6cf291bb385d374650b.jpg",
+        "https://telegra.ph/file/ffc9404f6d8d5b2f486ae.jpg",
+        "https://telegra.ph/file/07c4a44c1744e7a1db745.jpg",
+        "https://telegra.ph/file/079bd2ea28995d613b3f2.jpg",
+        "https://telegra.ph/file/8297019e0266dd2f29a5f.jpg",
+        "https://telegra.ph/file/1aa931c72c4995279eaeb.jpg",
+        "https://telegra.ph/file/445aaacf55abfc850965a.jpg",
+        "https://telegra.ph/file/87ba9cc668191c7c4b201.jpg",
+        "https://telegra.ph/file/b44acdd74205fa00473ea.jpg",
+        "https://telegra.ph/file/33c8d5994daa8cd9bd15c.jpg",
+        "https://telegra.ph/file/bfae12431f00799a6dea1.jpg",
+        "https://telegra.ph/file/fe09e8447e84afcb51abd.jpg",
+        "https://telegra.ph/file/c52c7c57349702d675c9e.jpg",
+        "https://telegra.ph/file/76fd52952d25874b6a89d.jpg",
+        "https://telegra.ph/file/1ecd96e8ffaf6c834a39e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

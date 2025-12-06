@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8986,
+    "title": "無視せざるを得ぬ町・番外編！～新作7本セット集～ !! 本当はエロイ童話集",
+    "sourceUrl": "https://telegra.ph/無視せざるを得ぬ町番外編新作7本セット集--本当はエロイ童話集-08-31",
+    "images": [
+        "https://telegra.ph/file/713e59f76ab46cdccb860.jpg",
+        "https://telegra.ph/file/7727644f918162c2c6524.jpg",
+        "https://telegra.ph/file/c5d3289244cf8ce9da343.jpg",
+        "https://telegra.ph/file/418b3cf0cb36c8dff9dd7.jpg",
+        "https://telegra.ph/file/763e7620bde2db2333f38.jpg",
+        "https://telegra.ph/file/061fd48d825231cdbb800.jpg",
+        "https://telegra.ph/file/74e3417f3bc828d9d32e0.jpg",
+        "https://telegra.ph/file/0402af94f7ccef5d937a5.jpg",
+        "https://telegra.ph/file/ffb41c54d80c9f693d3ff.jpg",
+        "https://telegra.ph/file/c0505d37055d751112d61.jpg",
+        "https://telegra.ph/file/714f2202c6efc9b383ba3.jpg",
+        "https://telegra.ph/file/dd3f3c61c63b85c368545.jpg",
+        "https://telegra.ph/file/100a54b0e254a7186fcee.jpg",
+        "https://telegra.ph/file/1375d0b1e7b7395058cec.jpg",
+        "https://telegra.ph/file/944815195263bdd967ade.jpg",
+        "https://telegra.ph/file/d9c01011f31c237fe17d2.jpg",
+        "https://telegra.ph/file/8680439c0f99764f156ef.jpg",
+        "https://telegra.ph/file/3ce3eb8aeb88c98da18ae.jpg",
+        "https://telegra.ph/file/44a086618e40cb1f5d966.jpg",
+        "https://telegra.ph/file/a88caf7219c107ac774d2.jpg",
+        "https://telegra.ph/file/a91e886aa0c142d18a6cf.jpg",
+        "https://telegra.ph/file/eaa75e9f4d323f6f5935c.jpg",
+        "https://telegra.ph/file/3a215d54de1355fbe524b.jpg",
+        "https://telegra.ph/file/274a2de63e6de8b47f8f7.jpg",
+        "https://telegra.ph/file/3f44d17d179ccaa803fe9.jpg",
+        "https://telegra.ph/file/2bf671c97d208a7243a8b.jpg",
+        "https://telegra.ph/file/89bf2a298931cc69a04fb.jpg",
+        "https://telegra.ph/file/e68b63d8b76bd1cd70301.jpg",
+        "https://telegra.ph/file/522b2e449ad17cbb3e1d5.jpg",
+        "https://telegra.ph/file/0bf9badc67408316c3e0b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 14212,
+    "title": "(C95) [シンセカイセット (菖蒲)] 美食殿フルコース (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/C95-シンセカイセット-菖蒲-美食殿フルコース-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/0f43211a749ddadf296bb.jpg",
+        "https://telegra.ph/file/83b9a29807a50860eb40c.jpg",
+        "https://telegra.ph/file/a64a5b6a424d5a1be6729.jpg",
+        "https://telegra.ph/file/20af912fb2fcaeff73c1a.jpg",
+        "https://telegra.ph/file/642fe7f913291ab008239.jpg",
+        "https://telegra.ph/file/d9921816fc2be6529e772.jpg",
+        "https://telegra.ph/file/95806c09a6a1946dbdf45.jpg",
+        "https://telegra.ph/file/5b67e7d063dd5a492dc98.jpg",
+        "https://telegra.ph/file/d51b5abd20287b8a46324.jpg",
+        "https://telegra.ph/file/8d319c1b22a35f51fcce0.jpg",
+        "https://telegra.ph/file/b9f52438e91bd29784118.jpg",
+        "https://telegra.ph/file/c00c602426d760062e979.jpg",
+        "https://telegra.ph/file/92b07c7302e173ae96ccf.jpg",
+        "https://telegra.ph/file/a46c0138dc01f04c49c58.jpg",
+        "https://telegra.ph/file/bd8b6cc426248902c3f65.jpg",
+        "https://telegra.ph/file/38d3db4aacd22dd1731f3.jpg",
+        "https://telegra.ph/file/f78fb7cf41074316d5fea.jpg",
+        "https://telegra.ph/file/3c53b404d75a8b6bbddf2.jpg",
+        "https://telegra.ph/file/7fd5133237a49d06ca83d.jpg",
+        "https://telegra.ph/file/de739236076a3b067e8e0.jpg",
+        "https://telegra.ph/file/4076613f7ab6c51f9b41c.jpg",
+        "https://telegra.ph/file/ca793829efdfde4fd2114.jpg",
+        "https://telegra.ph/file/d3cc934defdcca4d2ccda.jpg",
+        "https://telegra.ph/file/ce2e653bf79e40ce1abfc.jpg",
+        "https://telegra.ph/file/e31edf65b4670f6f4dd4a.jpg",
+        "https://telegra.ph/file/4d70a28fac90df2df1d41.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

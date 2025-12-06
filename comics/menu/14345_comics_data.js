@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14345,
+    "title": "[源] モザイクリレーション (コミック エグゼ 33)",
+    "sourceUrl": "https://telegra.ph/源-モザイクリレーション-コミック-エグゼ-33-08-31-2",
+    "images": [
+        "https://telegra.ph/file/de0b18cbcabbd792a0817.jpg",
+        "https://telegra.ph/file/9aa119f399ae5ad437304.jpg",
+        "https://telegra.ph/file/39091a509e227c850f1a1.jpg",
+        "https://telegra.ph/file/55643272a1500dbc34b6f.jpg",
+        "https://telegra.ph/file/fe453ab3cb4120ed5f70f.jpg",
+        "https://telegra.ph/file/4a334f765ad3fbf7ef3d5.jpg",
+        "https://telegra.ph/file/d3662cdece0236d74b1c3.jpg",
+        "https://telegra.ph/file/1607355ea1339424214f7.jpg",
+        "https://telegra.ph/file/455f74e5245dfe8b91b75.jpg",
+        "https://telegra.ph/file/73418417dc6466e7fbe67.jpg",
+        "https://telegra.ph/file/493a68cbc900366d1645d.jpg",
+        "https://telegra.ph/file/6e5740ab74c16cd5db9f2.jpg",
+        "https://telegra.ph/file/09d39274666bb090bf217.jpg",
+        "https://telegra.ph/file/d2bc38c4c0b68c14093be.jpg",
+        "https://telegra.ph/file/2adf03b35db219064c654.jpg",
+        "https://telegra.ph/file/7145ba64a1306f3987f5c.jpg",
+        "https://telegra.ph/file/02128f469e6b62bcaf94b.jpg",
+        "https://telegra.ph/file/ab6e8cbb3bb46666c8943.jpg",
+        "https://telegra.ph/file/eac562decaf0e44fd3ecd.jpg",
+        "https://telegra.ph/file/f8db494d80c264325c0b1.jpg",
+        "https://telegra.ph/file/56279f5b8d87fdbf25e94.jpg",
+        "https://telegra.ph/file/f36771382776799fd8c15.jpg",
+        "https://telegra.ph/file/07e4c945f46a2accf5182.jpg",
+        "https://telegra.ph/file/bf2625e3f4a2f5fadb28d.jpg",
+        "https://telegra.ph/file/c20629caf30c63b89c7ea.jpg",
+        "https://telegra.ph/file/93183517bcb54a4b60e5f.jpg",
+        "https://telegra.ph/file/df9ea605167900f2b6c33.jpg",
+        "https://telegra.ph/file/dbe628ac07182539c6d0d.jpg",
+        "https://telegra.ph/file/aa6817ef71ec7ab3c0180.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10313,
+    "title": "[紳士交流区 (blade)] カルデアヘブン 師匠師匠 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/紳士交流区-blade-カルデアヘブン-師匠師匠-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/04c65c741900323b1e17c.jpg",
+        "https://telegra.ph/file/1c52a5ef393163bae957a.jpg",
+        "https://telegra.ph/file/7d35ead916f921b001839.jpg",
+        "https://telegra.ph/file/051a1027e9aa617fcf256.jpg",
+        "https://telegra.ph/file/38155dfb834e5faf6c9f5.jpg",
+        "https://telegra.ph/file/9b77c3a89c1523d133009.jpg",
+        "https://telegra.ph/file/1d94b2599e8ab654c7d72.jpg",
+        "https://telegra.ph/file/c3effaa9c17a841382f8b.jpg",
+        "https://telegra.ph/file/dd988c0a5e7e3577c7c01.jpg",
+        "https://telegra.ph/file/4bb713d618f22e4a806ed.jpg",
+        "https://telegra.ph/file/b8df31677860aa14b61bf.jpg",
+        "https://telegra.ph/file/3a3414bce74dd74dde101.jpg",
+        "https://telegra.ph/file/25db0996efa989b827f47.jpg",
+        "https://telegra.ph/file/e042af7f71fa25ca2325b.jpg",
+        "https://telegra.ph/file/9fc7c6e9b2d60dd8a819d.jpg",
+        "https://telegra.ph/file/87c6493ab5b2e0fcf6c54.jpg",
+        "https://telegra.ph/file/33952663ac87ccd135554.jpg",
+        "https://telegra.ph/file/384f001438473c1988176.jpg",
+        "https://telegra.ph/file/0a14590c30691dd3bd499.jpg",
+        "https://telegra.ph/file/953a7c019d0d3788ab126.jpg",
+        "https://telegra.ph/file/7af2fe0d874aabf9d220a.jpg",
+        "https://telegra.ph/file/6da72639b7e062b04338f.jpg",
+        "https://telegra.ph/file/9ad6c60f15a74dd1c7be7.jpg",
+        "https://telegra.ph/file/3014210a0b8fbc27440a9.jpg",
+        "https://telegra.ph/file/e9bc19bd5eb88aefb6b47.jpg",
+        "https://telegra.ph/file/efadc124774d16ad95baf.jpg",
+        "https://telegra.ph/file/92b3b55965f995e0b0354.jpg",
+        "https://telegra.ph/file/c005175f48a8cb6fac267.jpg",
+        "https://telegra.ph/file/f7be5f475de585575a529.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/a2f9121d7333624a5efe2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

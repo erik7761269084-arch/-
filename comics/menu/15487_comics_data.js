@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15487,
+    "title": "[あわみく屋 (あわみく)] 手だれの魔女にはかなわない -Preview",
+    "sourceUrl": "https://telegra.ph/あわみく屋-あわみく-手だれの魔女にはかなわない--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/7b6cf63d74dd1a18dbb86.jpg",
+        "https://telegra.ph/file/7ac713e0001a72a0381c5.jpg",
+        "https://telegra.ph/file/a14ea8f328c884d1fc08c.jpg",
+        "https://telegra.ph/file/422c0027e20e18be268ab.jpg",
+        "https://telegra.ph/file/5b40062a05c41c416c6fc.jpg",
+        "https://telegra.ph/file/85f919f523630df2cc205.jpg",
+        "https://telegra.ph/file/7e68b84f33e7d036f5c1d.jpg",
+        "https://telegra.ph/file/5e837f09c1eae69e10982.jpg",
+        "https://telegra.ph/file/8944afc4e8121f72803ad.jpg",
+        "https://telegra.ph/file/77cfd974bafc506ba2b25.jpg",
+        "https://telegra.ph/file/70a9650f57a0c8d985188.jpg",
+        "https://telegra.ph/file/82cb0a6d46cce6e181510.jpg",
+        "https://telegra.ph/file/0fb69601293004d585f4f.jpg",
+        "https://telegra.ph/file/1a1f4b989b90b5ff4a890.jpg",
+        "https://telegra.ph/file/83a0495778016c114d7b1.jpg",
+        "https://telegra.ph/file/fc01b4a9c62516b5c2e2d.jpg",
+        "https://telegra.ph/file/c88e6bee64f61af7092ee.jpg",
+        "https://telegra.ph/file/4526301baa1460c4bd04d.jpg",
+        "https://telegra.ph/file/671410353e33817d03c30.jpg",
+        "https://telegra.ph/file/733d8374333c24ba75610.jpg",
+        "https://telegra.ph/file/06871a198a5d0d0462c13.jpg",
+        "https://telegra.ph/file/d795cdbd2cbf7bca775e8.jpg",
+        "https://telegra.ph/file/4b9b2f4931d71b6466e26.jpg",
+        "https://telegra.ph/file/97ccaa2c814f3c6a8f356.jpg",
+        "https://telegra.ph/file/c0e6dedbb85b9e489336b.jpg",
+        "https://telegra.ph/file/e458e9c1775950be04c91.jpg",
+        "https://telegra.ph/file/7852dbae42701eec916f4.jpg",
+        "https://telegra.ph/file/829e586d17b57adae6072.jpg",
+        "https://telegra.ph/file/0237d464b914ccc3db343.jpg",
+        "https://telegra.ph/file/1952862aba1800c053478.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

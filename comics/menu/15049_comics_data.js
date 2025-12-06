@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15049,
+    "title": "(BanG Dreamer's Party! 7th STAGE) [箱庭 (えぬ)] Lemuria. (BanG Dream!)",
+    "sourceUrl": "https://telegra.ph/BanG-Dreamers-Party-7th-STAGE-箱庭-えぬ-Lemuria-BanG-Dream-08-31",
+    "images": [
+        "https://telegra.ph/file/d39f4a62d0e2316dcd991.jpg",
+        "https://telegra.ph/file/ff1cba18d63dbdc71519c.jpg",
+        "https://telegra.ph/file/f004ddf862685ee439c9b.jpg",
+        "https://telegra.ph/file/1cd746ee62c01260ef786.jpg",
+        "https://telegra.ph/file/b5dca5c6e7eb764095f44.jpg",
+        "https://telegra.ph/file/a93b622969984c9ff5d4c.jpg",
+        "https://telegra.ph/file/7f481355971d701668297.jpg",
+        "https://telegra.ph/file/50bb84edfa416912e81e9.jpg",
+        "https://telegra.ph/file/9a01e99d220169f304f29.jpg",
+        "https://telegra.ph/file/8ecffe6a5e2d1c24b8704.jpg",
+        "https://telegra.ph/file/35ee6b936af97511c4ad7.jpg",
+        "https://telegra.ph/file/ff28a83a775d784839cca.jpg",
+        "https://telegra.ph/file/5c1c00b52f9475c2b2cf7.jpg",
+        "https://telegra.ph/file/aab492661fae5b9ecffb5.jpg",
+        "https://telegra.ph/file/5564da15cdf50ee4eb386.jpg",
+        "https://telegra.ph/file/93f30741778a284c77b52.jpg",
+        "https://telegra.ph/file/20f466d894c58bf01efe6.jpg",
+        "https://telegra.ph/file/717b913657545af673e8d.jpg",
+        "https://telegra.ph/file/f22deb0bfa3a70751800c.jpg",
+        "https://telegra.ph/file/d0a62f81b338826cb3bd3.jpg",
+        "https://telegra.ph/file/5c92c770be29bccdbfd8c.jpg",
+        "https://telegra.ph/file/f89e03cb7bf50e3c66e41.jpg",
+        "https://telegra.ph/file/df3b161d9c278e478a238.jpg",
+        "https://telegra.ph/file/fb43c3a684b4c7654dff4.jpg",
+        "https://telegra.ph/file/1e3d5e2806d5cea8aafe6.jpg",
+        "https://telegra.ph/file/e0f597fca0bb6394e9b06.jpg",
+        "https://telegra.ph/file/873f151fcd60ee6dec9c6.jpg",
+        "https://telegra.ph/file/c457ba78e4d247e3c77cd.jpg",
+        "https://telegra.ph/file/bb38b17cc57f0e81a4900.jpg",
+        "https://telegra.ph/file/71ca85fa08f232cb74426.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

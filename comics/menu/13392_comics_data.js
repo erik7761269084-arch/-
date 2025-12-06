@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13392,
+    "title": "[あきのそら] 異世界召喚されたので鍛え上げた肉体を駆使してスケベしようと思う (コミックゼロス #97)",
+    "sourceUrl": "https://telegra.ph/あきのそら-異世界召喚されたので鍛え上げた肉体を駆使してスケベしようと思う-コミックゼロス-97-08-31",
+    "images": [
+        "https://telegra.ph/file/17ac1b5f8d00ad9766767.jpg",
+        "https://telegra.ph/file/f156e543af993804144f7.jpg",
+        "https://telegra.ph/file/1e7a51676d3872d89c974.jpg",
+        "https://telegra.ph/file/dbb214b1f954a967f8ee9.jpg",
+        "https://telegra.ph/file/f5ed4c5a117dc890d30d8.jpg",
+        "https://telegra.ph/file/0f48185004d4bfd89ed18.jpg",
+        "https://telegra.ph/file/02896c54e42f81074490d.jpg",
+        "https://telegra.ph/file/39e21a1243a94b825a73b.jpg",
+        "https://telegra.ph/file/ca71c9ef1356d0bb37ce5.jpg",
+        "https://telegra.ph/file/5395541baaf3fba37e1f7.jpg",
+        "https://telegra.ph/file/7bef88818b235e67657cd.jpg",
+        "https://telegra.ph/file/3cf368d2e19a19cb45484.jpg",
+        "https://telegra.ph/file/8e86b3bdeb707cb1ed763.jpg",
+        "https://telegra.ph/file/7815279c5df8d4ec6bf7d.jpg",
+        "https://telegra.ph/file/fcb1600e89896f3f5d7af.jpg",
+        "https://telegra.ph/file/e771ee01a76531ac65628.jpg",
+        "https://telegra.ph/file/dd7711cc51b7b857612f3.jpg",
+        "https://telegra.ph/file/482f228728564e4a8426c.jpg",
+        "https://telegra.ph/file/fc46bbc66dbba8e8ea97e.jpg",
+        "https://telegra.ph/file/73c5971f9f8b76877601a.jpg",
+        "https://telegra.ph/file/bebcff01734449623a78d.jpg",
+        "https://telegra.ph/file/ef165b746c6097a9b1215.jpg",
+        "https://telegra.ph/file/e30849f35a79b2481fb8f.jpg",
+        "https://telegra.ph/file/17a456838a7e9ef93f456.jpg",
+        "https://telegra.ph/file/df3d718b104a2e57d1b74.jpg",
+        "https://telegra.ph/file/feea5314249e1db627288.jpg",
+        "https://telegra.ph/file/b5815277e246ccd154270.jpg",
+        "https://telegra.ph/file/3060c81d93dc6e7bcb567.jpg",
+        "https://telegra.ph/file/355ff8917c78d7b43341f.jpg",
+        "https://telegra.ph/file/56afbc21c8a886fed748e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

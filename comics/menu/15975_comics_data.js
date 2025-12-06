@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15975,
+    "title": "[Waterfall (嵩乃朔)] OLさんが猫を拾う話。  -Preview",
+    "sourceUrl": "https://telegra.ph/Waterfall-嵩乃朔-OLさんが猫を拾う話--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/6bc07085996f085f29bcf.jpg",
+        "https://telegra.ph/file/3efc6fc43706b104e4bc7.jpg",
+        "https://telegra.ph/file/3b3e3e27ff1434914f750.jpg",
+        "https://telegra.ph/file/7a07c536bcc0ee169c476.jpg",
+        "https://telegra.ph/file/abfe04cd10ffd0e9f7d49.jpg",
+        "https://telegra.ph/file/6e25be57c4b4443e93e1c.jpg",
+        "https://telegra.ph/file/5e5d0a6231ea276ea0e92.jpg",
+        "https://telegra.ph/file/46d80d6e5716d0abf2ab9.jpg",
+        "https://telegra.ph/file/9b3283629c6e2406032a2.jpg",
+        "https://telegra.ph/file/d831f4468fb9eed086443.jpg",
+        "https://telegra.ph/file/e2677b78d62dcb5cc51a8.jpg",
+        "https://telegra.ph/file/1e1134639de04081f6bac.jpg",
+        "https://telegra.ph/file/c85fa44d2d85703552b6b.jpg",
+        "https://telegra.ph/file/d7bd7b690bc50dbcaa1e8.jpg",
+        "https://telegra.ph/file/eefe3c5380c83410b27df.jpg",
+        "https://telegra.ph/file/18740da8bb8c60d87bb58.jpg",
+        "https://telegra.ph/file/9e2c2f8e71d5fe12ce36c.jpg",
+        "https://telegra.ph/file/4195b372fbe70c0f03b2a.jpg",
+        "https://telegra.ph/file/bae13a2f88d8443acc801.jpg",
+        "https://telegra.ph/file/067f92fdc2b4da70be649.jpg",
+        "https://telegra.ph/file/211cfe74c736d2a116f0f.jpg",
+        "https://telegra.ph/file/e5ae0cd8a185df4e0571e.jpg",
+        "https://telegra.ph/file/9487f882ad530cc6ae130.jpg",
+        "https://telegra.ph/file/683d4dc0db5c6ba462d98.jpg",
+        "https://telegra.ph/file/52506d208a994c73c9f93.jpg",
+        "https://telegra.ph/file/d57e6e9515bbe970aabec.jpg",
+        "https://telegra.ph/file/17589cc79aa6a681e086f.jpg",
+        "https://telegra.ph/file/e0b77e960ea9c358ae6d2.jpg",
+        "https://telegra.ph/file/5e270d1714eaf3573283d.jpg",
+        "https://telegra.ph/file/290d2a4f3681771a24b85.jpg",
+        "https://telegra.ph/file/9a375a032c6b0a4f6b05d.jpg",
+        "https://telegra.ph/file/62ef1c015085794f14696.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

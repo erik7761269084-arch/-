@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11765,
+    "title": "[春昼 (鬼遍かっつぇ)] クラスカースト～MOB SIDE～",
+    "sourceUrl": "https://telegra.ph/春昼-鬼遍かっつぇ-クラスカーストMOB-SIDE-08-31",
+    "images": [
+        "https://telegra.ph/file/991f150f0913a13410b29.jpg",
+        "https://telegra.ph/file/f847a36f0f7a64e04f5b2.jpg",
+        "https://telegra.ph/file/f03ff9f3bdb8b8f3c30b9.jpg",
+        "https://telegra.ph/file/35e5c392885c429b75069.jpg",
+        "https://telegra.ph/file/1e706edb0a42537076452.jpg",
+        "https://telegra.ph/file/43f83de67fb06f8d1e9e6.jpg",
+        "https://telegra.ph/file/54c62b8e11f0712e46585.jpg",
+        "https://telegra.ph/file/efaf990f08105260740d7.jpg",
+        "https://telegra.ph/file/5de74a687f42fa088ab5c.jpg",
+        "https://telegra.ph/file/43a8f87ad8b3d90b88711.jpg",
+        "https://telegra.ph/file/0f81efba195f127090e30.jpg",
+        "https://telegra.ph/file/88048d0f34cd4f3c2b48d.jpg",
+        "https://telegra.ph/file/43a4c0ac7351d7659e4e5.jpg",
+        "https://telegra.ph/file/4dac6163afa7a7671c5e6.jpg",
+        "https://telegra.ph/file/8a1ec4f8af6dc1bfd76d3.jpg",
+        "https://telegra.ph/file/457e0cfc7220eee54a83f.jpg",
+        "https://telegra.ph/file/f5f5ec71caf7d91367f91.jpg",
+        "https://telegra.ph/file/71f560b80a11f2e2f6457.jpg",
+        "https://telegra.ph/file/7207fca60c5d3b11ba356.jpg",
+        "https://telegra.ph/file/48221247242dd6c2a6e67.jpg",
+        "https://telegra.ph/file/7ee249b1ad4879b839673.jpg",
+        "https://telegra.ph/file/5b1311a3408c675a602a9.jpg",
+        "https://telegra.ph/file/6f4661d8b4d7fa3ced7ab.jpg",
+        "https://telegra.ph/file/6bb7cf21b08e64e8bb5df.jpg",
+        "https://telegra.ph/file/17f16a34eac738fcd1c8c.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

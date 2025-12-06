@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14005,
+    "title": "(COMIC1☆13) [榎屋 (eno)] 騎士王様の淫欲解放室 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/COMIC113-榎屋-eno-騎士王様の淫欲解放室-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/f89d710ce204cfb15a665.jpg",
+        "https://telegra.ph/file/d6608394ff16dbef8242a.jpg",
+        "https://telegra.ph/file/e3543477d8fdce3eadda1.jpg",
+        "https://telegra.ph/file/857db032ee8438dcce28e.jpg",
+        "https://telegra.ph/file/0a0615040678cdeb43b73.jpg",
+        "https://telegra.ph/file/4d5173cfbb4a08c62949d.jpg",
+        "https://telegra.ph/file/51c6bfd4f13fbaed9fb5e.jpg",
+        "https://telegra.ph/file/b68b12bc317a48c6c5e67.jpg",
+        "https://telegra.ph/file/f6ee7a78057cc6a2ee851.jpg",
+        "https://telegra.ph/file/f8b4b25e67cb76bbf32c9.jpg",
+        "https://telegra.ph/file/75cefa487f66675a53c91.jpg",
+        "https://telegra.ph/file/9d182b2e45d69679c11bb.jpg",
+        "https://telegra.ph/file/46e3115b8c21cb87d6661.jpg",
+        "https://telegra.ph/file/436cde747d8757314e053.jpg",
+        "https://telegra.ph/file/4cf97d86053d66ed69e8e.jpg",
+        "https://telegra.ph/file/219909b84cfbbbab29ccc.jpg",
+        "https://telegra.ph/file/fc2f2348fb4e2d7b153df.jpg",
+        "https://telegra.ph/file/a055a36ae25fb382126d9.jpg",
+        "https://telegra.ph/file/22cb8cba184e1ab026ff0.jpg",
+        "https://telegra.ph/file/8cce46349991f65dd679c.jpg",
+        "https://telegra.ph/file/069f7ea2b78d0be343581.jpg",
+        "https://telegra.ph/file/e1ed8e2a775964967fa01.jpg",
+        "https://telegra.ph/file/ae0ddaf8f32ee615bab13.jpg",
+        "https://telegra.ph/file/e457c6b15f2714e823d6c.jpg",
+        "https://telegra.ph/file/c10a01cee3b9052a7b6be.jpg",
+        "https://telegra.ph/file/7e7a47064dfb457957220.png",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/8d415893eacd2ece1b080.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

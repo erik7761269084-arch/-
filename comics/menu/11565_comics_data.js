@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11565,
+    "title": "[江☆浪漫工房 (江戸川浪漫)] XXX～3人まとめてPさんの恋人でいいよね～ (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/江浪漫工房-江戸川浪漫-XXX3人まとめてPさんの恋人でいいよね-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/2b41849adb10c1332f444.jpg",
+        "https://telegra.ph/file/12c3d7811c9298b94656e.jpg",
+        "https://telegra.ph/file/670c67d0b73a52a1958fa.jpg",
+        "https://telegra.ph/file/954617067587a9804a0fb.jpg",
+        "https://telegra.ph/file/ebe79205da5fce10a8ab9.jpg",
+        "https://telegra.ph/file/4d4b273f7dd9bc2123275.jpg",
+        "https://telegra.ph/file/891e048b3fc60bf728c1e.jpg",
+        "https://telegra.ph/file/2a78341c19290b68d52ab.jpg",
+        "https://telegra.ph/file/4f0c76252f09db2eb27de.jpg",
+        "https://telegra.ph/file/c43e4e2a3c52387a800b3.jpg",
+        "https://telegra.ph/file/2568054d5b76962ed8a69.jpg",
+        "https://telegra.ph/file/55452b3f6d53027d6864c.jpg",
+        "https://telegra.ph/file/1ef1dff1e7eb173760490.jpg",
+        "https://telegra.ph/file/7f0752e232a9a5f87eb17.jpg",
+        "https://telegra.ph/file/745b2e68d6c76368230ba.jpg",
+        "https://telegra.ph/file/1e931c26ecb1688e085ba.jpg",
+        "https://telegra.ph/file/c44cc3e3268812ff73258.jpg",
+        "https://telegra.ph/file/810e4573bf7d2177e0c80.jpg",
+        "https://telegra.ph/file/3933c49b416655dc0b70e.jpg",
+        "https://telegra.ph/file/7f506ee86120600c0b0b3.jpg",
+        "https://telegra.ph/file/23d0694c28a8951642c6f.jpg",
+        "https://telegra.ph/file/1b84b691952625cb458aa.jpg",
+        "https://telegra.ph/file/bc0969713730faab7cb71.jpg",
+        "https://telegra.ph/file/36c9d9e6c74f1e2fa9234.jpg",
+        "https://telegra.ph/file/b809cc6cc4827d380fcda.jpg",
+        "https://telegra.ph/file/baaae08f83eb2c6762f35.jpg",
+        "https://telegra.ph/file/e1c776fb35291d79bbb8a.jpg",
+        "https://telegra.ph/file/e2ceadc71db2023ea1118.jpg",
+        "https://telegra.ph/file/5211a5589d4cd9b7403a4.png",
+        "https://telegra.ph/file/35ae6afb28ae3f6e78f03.jpg",
+        "https://telegra.ph/file/9092d9912544c814ca8f9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

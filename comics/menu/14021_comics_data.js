@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14021,
+    "title": "[レオナト] ユニちゃん先輩と聖学祭の裏で (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/レオナト-ユニちゃん先輩と聖学祭の裏で-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/881c0f30ea035097b6099.jpg",
+        "https://telegra.ph/file/4fb3ede0b609b1994b887.jpg",
+        "https://telegra.ph/file/8439d4de4608fb45ecec7.jpg",
+        "https://telegra.ph/file/5ebe90bf590f4b4d0e814.jpg",
+        "https://telegra.ph/file/830fd7235c332e9b77be4.jpg",
+        "https://telegra.ph/file/bb99fd81d74fefc479a39.jpg",
+        "https://telegra.ph/file/c447c8c5fac2cd69374c9.jpg",
+        "https://telegra.ph/file/16df260b5c82e89d0b26c.jpg",
+        "https://telegra.ph/file/da5cb53850c82543d5564.jpg",
+        "https://telegra.ph/file/b5be328a1aec75fd2b200.jpg",
+        "https://telegra.ph/file/8f9671ddfaa9e3db4ba2f.jpg",
+        "https://telegra.ph/file/2ee54aa7a1510b8e9385d.jpg",
+        "https://telegra.ph/file/5d35348037f64884483fc.jpg",
+        "https://telegra.ph/file/8f27585ad3c9e5aa94ad7.jpg",
+        "https://telegra.ph/file/b44572267dc28d2504fe3.jpg",
+        "https://telegra.ph/file/d528d86a2fbfb13303c3f.jpg",
+        "https://telegra.ph/file/769fe04b0065aa2360278.jpg",
+        "https://telegra.ph/file/e09f46ba812ace1ba3510.jpg",
+        "https://telegra.ph/file/0363fddfda7f2e111ecd1.jpg",
+        "https://telegra.ph/file/90b95b87d9081aa09163d.jpg",
+        "https://telegra.ph/file/2c4c3c2b8c1523f685499.jpg",
+        "https://telegra.ph/file/a7d73ad58c62c2531d40f.jpg",
+        "https://telegra.ph/file/c7de42aa3d55e4310ad60.jpg",
+        "https://telegra.ph/file/5ad0a09d7d1e0a96a3d5a.jpg",
+        "https://telegra.ph/file/fcce9a5dfbf7a51c0ab37.jpg",
+        "https://telegra.ph/file/cd953948fabee9a9d5854.jpg",
+        "https://telegra.ph/file/6b2978c214d2861508045.jpg",
+        "https://telegra.ph/file/2208fbb7f324ce16ec5bc.jpg",
+        "https://telegra.ph/file/fead643994618ac6687a3.jpg",
+        "https://telegra.ph/file/b0c6cd4fd657dab798aa3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

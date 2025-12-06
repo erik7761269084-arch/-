@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8309,
+    "title": "[春々春兎] ようこそキツネツキ村へ！ (永遠娘 11)",
+    "sourceUrl": "https://telegra.ph/春々春兎-ようこそキツネツキ村へ-永遠娘-11-08-31",
+    "images": [
+        "https://telegra.ph/file/18073f2f275c50ed06235.jpg",
+        "https://telegra.ph/file/7979bc52851dffd8e9252.jpg",
+        "https://telegra.ph/file/809379822f941da19bc88.jpg",
+        "https://telegra.ph/file/f5773204292112613a3bd.jpg",
+        "https://telegra.ph/file/c48540629261c27ee1c90.jpg",
+        "https://telegra.ph/file/49ad6c02b5373b1aa7087.jpg",
+        "https://telegra.ph/file/204c7df1c1d3781f4c9ce.jpg",
+        "https://telegra.ph/file/9592b7ecfd1393196138b.jpg",
+        "https://telegra.ph/file/0dcd5efe5defc76451ae0.jpg",
+        "https://telegra.ph/file/c0d5b45685941fa9a9969.jpg",
+        "https://telegra.ph/file/6d329fac89b5372e15b01.jpg",
+        "https://telegra.ph/file/86c4b6425789606ca1412.jpg",
+        "https://telegra.ph/file/7df30014e5b4e0b9e4511.jpg",
+        "https://telegra.ph/file/70efa2e8fc244a3b1ae46.jpg",
+        "https://telegra.ph/file/45430186b811bd6619a27.jpg",
+        "https://telegra.ph/file/9d2045ae82da5e5091980.jpg",
+        "https://telegra.ph/file/582dfa58900cee9f45431.jpg",
+        "https://telegra.ph/file/d3752ce932d7a1e98babf.jpg",
+        "https://telegra.ph/file/bd157cdae3f8ca195d7d6.jpg",
+        "https://telegra.ph/file/49fe784c46ac0c7520664.jpg",
+        "https://telegra.ph/file/2035f153eafb1f161ede1.jpg",
+        "https://telegra.ph/file/8a5740e08a3fd5adfed0d.jpg",
+        "https://telegra.ph/file/03894036b5b3906d5e651.jpg",
+        "https://telegra.ph/file/69bd775c77907d1c4f18d.jpg",
+        "https://telegra.ph/file/83a901ca42d438a9219de.jpg",
+        "https://telegra.ph/file/44ac5ddb1c87076e7fe05.jpg",
+        "https://telegra.ph/file/b7b077f51f6d2baca0975.jpg",
+        "https://telegra.ph/file/48f6a25476104cb22e3af.jpg",
+        "https://telegra.ph/file/f28426e6b4ecfc9ec5e89.jpg",
+        "https://telegra.ph/file/34c5fbb170b603347b031.jpg",
+        "https://telegra.ph/file/b8d4942f6347b4e1f39d5.jpg",
+        "https://telegra.ph/file/f6f9c37197ec0d476f881.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

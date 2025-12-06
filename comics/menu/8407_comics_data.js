@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8407,
+    "title": "[nemuke? (似せ)] おどおど姉弟のおどラブ射精管理",
+    "sourceUrl": "https://telegra.ph/nemuke-似せ-おどおど姉弟のおどラブ射精管理-08-31",
+    "images": [
+        "https://telegra.ph/file/6dd2f8c49ec2fe41d3609.jpg",
+        "https://telegra.ph/file/a0443e89ca07876847998.jpg",
+        "https://telegra.ph/file/ab9556252eb9e0a1fecfc.jpg",
+        "https://telegra.ph/file/3c789e584d082f60e85fa.jpg",
+        "https://telegra.ph/file/f446729a637b61a87b7af.jpg",
+        "https://telegra.ph/file/e00773ca6a1eea9d29fd0.jpg",
+        "https://telegra.ph/file/aced7def9e51fbe18fa36.jpg",
+        "https://telegra.ph/file/53aaa8bf91ad6d6aba878.jpg",
+        "https://telegra.ph/file/ef26a53b5ecf468fa4311.jpg",
+        "https://telegra.ph/file/8bacb212665c5efe86fae.jpg",
+        "https://telegra.ph/file/0d6c1c690ed34c745e931.jpg",
+        "https://telegra.ph/file/844599328eaaad2893bea.jpg",
+        "https://telegra.ph/file/ceed4bbb666d425a1446e.jpg",
+        "https://telegra.ph/file/e653e94115e9d410dbbec.jpg",
+        "https://telegra.ph/file/4d173e2a9d2859f6c6bbf.jpg",
+        "https://telegra.ph/file/fd8dc81534f621a00f9bc.jpg",
+        "https://telegra.ph/file/67a75c2d067642fbdd384.jpg",
+        "https://telegra.ph/file/8a992e835052faecb8356.jpg",
+        "https://telegra.ph/file/8fa430a765efc8a5e0def.jpg",
+        "https://telegra.ph/file/ba69063f319fc9f431a71.jpg",
+        "https://telegra.ph/file/4e5e578a7a11e5eb6e460.jpg",
+        "https://telegra.ph/file/3326298223973362b87bb.jpg",
+        "https://telegra.ph/file/2e936e54700fbb9c0ad4b.jpg",
+        "https://telegra.ph/file/b298d398cf70e9f2d285e.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/26a8ead3a3ccfa4d565a3.jpg",
+        "https://telegra.ph/file/f4c81417157faf3d84e72.jpg",
+        "https://telegra.ph/file/ac355fbe40d0bb65c7998.jpg",
+        "https://telegra.ph/file/9c929984989d801422ecf.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

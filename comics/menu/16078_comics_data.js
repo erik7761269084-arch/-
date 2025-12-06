@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16078,
+    "title": "[果物一途 (木子)] 女孩們的玩具初體驗  -Preview",
+    "sourceUrl": "https://telegra.ph/果物一途-木子-女孩們的玩具初體驗--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/e084c5c18ff8f1a0178f9.jpg",
+        "https://telegra.ph/file/db751cab2c23741d827b8.png",
+        "https://telegra.ph/file/fb8d8f2aca428cb5e775d.jpg",
+        "https://telegra.ph/file/056e2ce60964222a9eb35.jpg",
+        "https://telegra.ph/file/3a3334fd2b17a0c74a572.jpg",
+        "https://telegra.ph/file/98efc292d6cd18b82a6f2.jpg",
+        "https://telegra.ph/file/8f34a6db3b8b12d2bacb1.jpg",
+        "https://telegra.ph/file/0bed8fec801effe22b927.jpg",
+        "https://telegra.ph/file/dee988c7063cda7956eac.jpg",
+        "https://telegra.ph/file/81a9a1875108a73f371d3.jpg",
+        "https://telegra.ph/file/4a655bde33c84bc92c685.jpg",
+        "https://telegra.ph/file/4ca8bcb5ea4af6f6f6bad.jpg",
+        "https://telegra.ph/file/48efa20b53f979b1775e2.jpg",
+        "https://telegra.ph/file/7b347ec70aa49d8600b6e.jpg",
+        "https://telegra.ph/file/8270e66ea0f073b1867ad.jpg",
+        "https://telegra.ph/file/2e7688d3161f8a4e7ea89.jpg",
+        "https://telegra.ph/file/5162d847a166532f84187.jpg",
+        "https://telegra.ph/file/4de6d61af3eedf82d9969.jpg",
+        "https://telegra.ph/file/ada2085bc598fbf9cbebf.jpg",
+        "https://telegra.ph/file/1c51994e24314041ae12d.jpg",
+        "https://telegra.ph/file/6b4ba319c441d8b11a59b.jpg",
+        "https://telegra.ph/file/442079462ea3e802288a0.jpg",
+        "https://telegra.ph/file/8616dba55391fca930b01.jpg",
+        "https://telegra.ph/file/483058d1c4b091f2f3c04.jpg",
+        "https://telegra.ph/file/e1dab4134472e1f27f5aa.jpg",
+        "https://telegra.ph/file/f856d6e4f56029e77a291.jpg",
+        "https://telegra.ph/file/7e8fd6591ea9f5a877c63.jpg",
+        "https://telegra.ph/file/2c45936c2ea0b1d4d7b2c.jpg",
+        "https://telegra.ph/file/d864724023024bf1ddaa4.jpg",
+        "https://telegra.ph/file/d5eddf6f05b32baa28d1e.jpg",
+        "https://telegra.ph/file/fb3eea022a1ea43cd9997.jpg",
+        "https://telegra.ph/file/af046c0dbff3373b0aecf.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

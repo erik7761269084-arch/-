@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15738,
+    "title": "(HanDs UP♫ 2) [◆(クロダイヤ) (にゃ茶)] あたしのお嬢様。 (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/HanDs-UP-2-クロダイヤ-にゃ茶-あたしのお嬢様-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/3dd5f10c57e2eb38f00be.jpg",
+        "https://telegra.ph/file/bca62f4ea5604acdb447c.jpg",
+        "https://telegra.ph/file/fedad9e1caddb6130c6bb.jpg",
+        "https://telegra.ph/file/69c65bd372f34a97f7c7b.jpg",
+        "https://telegra.ph/file/dead28e575a85e6ef31ff.jpg",
+        "https://telegra.ph/file/a9b3fc539ac889985d332.jpg",
+        "https://telegra.ph/file/d54546fc21546de52eab8.jpg",
+        "https://telegra.ph/file/a3cf965f63de326a2783d.jpg",
+        "https://telegra.ph/file/3cd54e239b5f9da7d3144.jpg",
+        "https://telegra.ph/file/6b7323b49908c734497e7.jpg",
+        "https://telegra.ph/file/76943a063ad7d7ca677ca.jpg",
+        "https://telegra.ph/file/b3e7d8f08ef868f6b4337.jpg",
+        "https://telegra.ph/file/5b91d84a03c7bd764415c.jpg",
+        "https://telegra.ph/file/36423f08a6a66c19739bb.jpg",
+        "https://telegra.ph/file/8daff192ce1dcd4914327.jpg",
+        "https://telegra.ph/file/da4620684004fa118f2ef.jpg",
+        "https://telegra.ph/file/cf95731889284da211b86.jpg",
+        "https://telegra.ph/file/968cce52ab8910ddeaeaf.jpg",
+        "https://telegra.ph/file/e0345ccde9bcfd2b892b0.jpg",
+        "https://telegra.ph/file/d27b9b3657c87dbb18ccb.jpg",
+        "https://telegra.ph/file/b38c8bd21546857236381.jpg",
+        "https://telegra.ph/file/a26d93d5054186d7694e1.jpg",
+        "https://telegra.ph/file/91b7a0bffe3b36a67a967.jpg",
+        "https://telegra.ph/file/299ac0520f56f0712fc71.jpg",
+        "https://telegra.ph/file/a52d5990a7a99a997c1ad.jpg",
+        "https://telegra.ph/file/dbd1f761c686f740c51fa.jpg",
+        "https://telegra.ph/file/5ae780de920bc8f51988d.jpg",
+        "https://telegra.ph/file/0579c1d5be50dad89d288.jpg",
+        "https://telegra.ph/file/e15700f502902c0dd8531.jpg",
+        "https://telegra.ph/file/f3b937e8a82de1be8d29c.jpg",
+        "https://telegra.ph/file/6f4d01c2becd75f459c43.jpg",
+        "https://telegra.ph/file/1b04fa75a1152a95ab90e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

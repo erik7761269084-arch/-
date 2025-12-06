@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12228,
+    "title": "[ピアニッシモ (ピジャ)] 秘めごと小町 (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/ピアニッシモ-ピジャ-秘めごと小町-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/df38bc94b35149d330c1c.jpg",
+        "https://telegra.ph/file/5753b07c6da8e3798343c.jpg",
+        "https://telegra.ph/file/361115f09576bacb0433b.jpg",
+        "https://telegra.ph/file/940f6ee7f743d7e405c64.jpg",
+        "https://telegra.ph/file/5ede9ae9d90fd6e994f0d.jpg",
+        "https://telegra.ph/file/94868243424b3c3d0cd36.jpg",
+        "https://telegra.ph/file/97e896b4c3206eb62df8c.jpg",
+        "https://telegra.ph/file/1dabc5e97defc3e9c23a7.jpg",
+        "https://telegra.ph/file/c0ce2101bbbdf5f2d6373.jpg",
+        "https://telegra.ph/file/f596217cedf8624c0b5ff.jpg",
+        "https://telegra.ph/file/6380fc926f4b651c86ffa.jpg",
+        "https://telegra.ph/file/5d5fd95b961fb19ca4f71.jpg",
+        "https://telegra.ph/file/014d9873f545b486058e0.jpg",
+        "https://telegra.ph/file/d62d4f4f8d0a17eaf915e.jpg",
+        "https://telegra.ph/file/7a2e40f9ae469a0b0a290.jpg",
+        "https://telegra.ph/file/0c7580e205bfaf8ae8159.jpg",
+        "https://telegra.ph/file/33d8d929a2d0a07246ba5.jpg",
+        "https://telegra.ph/file/0b17df64b076215ac33cc.jpg",
+        "https://telegra.ph/file/08fb16d2f714ec8e45fff.jpg",
+        "https://telegra.ph/file/a923a0f3fe23dd548da9d.jpg",
+        "https://telegra.ph/file/7193dddf1c8164f68cde0.jpg",
+        "https://telegra.ph/file/d33306b8a08cc432f3773.jpg",
+        "https://telegra.ph/file/28cfdf1a21829d0a042dd.jpg",
+        "https://telegra.ph/file/d8088af58b017fa8f082b.jpg",
+        "https://telegra.ph/file/1673b4a9069b513caa1cc.jpg",
+        "https://telegra.ph/file/83a134bcce611947b1984.jpg",
+        "https://telegra.ph/file/646d5a16e2b8b3040f0b4.jpg",
+        "https://telegra.ph/file/167318268a6e7898793f2.jpg",
+        "https://telegra.ph/file/81727d6f2655f05757cc7.jpg",
+        "https://telegra.ph/file/247c33b1ee655d5982749.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15605,
+    "title": "[ぺどぺっとん] とらえたままで離さないで2 [中國翻訳]-Preview",
+    "sourceUrl": "https://telegra.ph/ぺどぺっとん-とらえたままで離さないで2-中國翻訳-Preview-08-31-2",
+    "images": [
+        "https://telegra.ph/file/bbc3b12f23a72fe155c7c.jpg",
+        "https://telegra.ph/file/4363ffdf0771a9525d63f.jpg",
+        "https://telegra.ph/file/6bb0015c4c120ca171875.jpg",
+        "https://telegra.ph/file/3af3b300046e95fdbd234.jpg",
+        "https://telegra.ph/file/77cd70d09dec0d30c1279.jpg",
+        "https://telegra.ph/file/5ed8571797cf8f5ecdc43.jpg",
+        "https://telegra.ph/file/5f6b50fe9faf3a161d884.jpg",
+        "https://telegra.ph/file/ec891702ee29e7b0cb926.jpg",
+        "https://telegra.ph/file/064a7ac931cc84fb73a91.jpg",
+        "https://telegra.ph/file/9f9bb1f2b97041e59cd75.jpg",
+        "https://telegra.ph/file/eb78c8d8e3ec3b18cda87.jpg",
+        "https://telegra.ph/file/65c6d604a5d199a14ed04.jpg",
+        "https://telegra.ph/file/6cedc77c501ca29db143e.jpg",
+        "https://telegra.ph/file/4679ff8e2c4cf40e52c44.jpg",
+        "https://telegra.ph/file/e1f8c06850ff7c8bc84e6.jpg",
+        "https://telegra.ph/file/2ed8131451e6101c88fde.jpg",
+        "https://telegra.ph/file/19b406ae353291a74fe28.jpg",
+        "https://telegra.ph/file/01b7255a8e1d66ae9f120.jpg",
+        "https://telegra.ph/file/63139ec4394a3cc917a0f.jpg",
+        "https://telegra.ph/file/5c312e295e2ff741764ef.jpg",
+        "https://telegra.ph/file/ea380e36005159f87ffd4.jpg",
+        "https://telegra.ph/file/0427933268a657fae736c.jpg",
+        "https://telegra.ph/file/5169d12e06d7c0da3bb89.jpg",
+        "https://telegra.ph/file/86fed2d4abe18bde18389.jpg",
+        "https://telegra.ph/file/dab677be639cd0e3c53a7.jpg",
+        "https://telegra.ph/file/de12b02c3ad6f032ca2e7.jpg",
+        "https://telegra.ph/file/3df123f2e30a22a88f67a.jpg",
+        "https://telegra.ph/file/80660c41d14bcddc565ae.jpg",
+        "https://telegra.ph/file/e7d08fc79fe587d18ede7.jpg",
+        "https://telegra.ph/file/223a6a5fc3dd3a0ba8491.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

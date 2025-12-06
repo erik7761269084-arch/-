@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12661,
+    "title": "[多摩尾庵 (たまび)] The Hardest Part Girl",
+    "sourceUrl": "https://telegra.ph/多摩尾庵-たまび-The-Hardest-Part-Girl-08-31",
+    "images": [
+        "https://telegra.ph/file/450c3704f1732f053eee7.jpg",
+        "https://telegra.ph/file/a511e801e0c300275c8e3.jpg",
+        "https://telegra.ph/file/be1b02c9c506475003d21.jpg",
+        "https://telegra.ph/file/365a6084e79be526b9e84.jpg",
+        "https://telegra.ph/file/ebae0cf7a8ff5d245c8e0.jpg",
+        "https://telegra.ph/file/dd3510d648566380c1a1a.jpg",
+        "https://telegra.ph/file/b60f14f0e60185046a05d.jpg",
+        "https://telegra.ph/file/7a92c33268a63ee721fbb.jpg",
+        "https://telegra.ph/file/68d5b86ab20c8bf1cfcf3.jpg",
+        "https://telegra.ph/file/300b1e52040d0589adf9c.jpg",
+        "https://telegra.ph/file/009b7e3f06326d6f0d2f5.jpg",
+        "https://telegra.ph/file/9086632d3bee1a9409685.jpg",
+        "https://telegra.ph/file/992896602c1e602f18cd2.jpg",
+        "https://telegra.ph/file/2e9dd3e9f140cc5a924b6.jpg",
+        "https://telegra.ph/file/ab5458f55857685ee8268.jpg",
+        "https://telegra.ph/file/50c38fa6cb85634cbf790.jpg",
+        "https://telegra.ph/file/2fbc7d90553a074226f70.jpg",
+        "https://telegra.ph/file/f1f5400f4ed1950bbc6a0.jpg",
+        "https://telegra.ph/file/01eb60eef9212c55e7116.jpg",
+        "https://telegra.ph/file/dcfa16549319231cd965e.jpg",
+        "https://telegra.ph/file/be9d5d9c1cb8a82e6d300.jpg",
+        "https://telegra.ph/file/b44c4dba09f32e0d04d9c.jpg",
+        "https://telegra.ph/file/8a73b16a756bf66150212.jpg",
+        "https://telegra.ph/file/75e227e7540c4a8a2df0f.jpg",
+        "https://telegra.ph/file/6d9b30d838df1be1a6e66.jpg",
+        "https://telegra.ph/file/3116e6fb304b4e4d30c60.jpg",
+        "https://telegra.ph/file/228aeae2478a600dd9901.jpg",
+        "https://telegra.ph/file/cb4523182331be4b9ccdf.jpg",
+        "https://telegra.ph/file/1d1c7eb55e62621c10b7f.jpg",
+        "https://telegra.ph/file/6a0b05df969dcda6bef01.jpg",
+        "https://telegra.ph/file/c60adab9dd5b4a54cfddc.jpg",
+        "https://telegra.ph/file/f430b687d0382b4dc4430.jpg",
+        "https://telegra.ph/file/cb25dfc2b76b286eaf380.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

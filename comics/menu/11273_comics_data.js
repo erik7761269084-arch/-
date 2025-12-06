@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11273,
+    "title": "[似せ]本当の僕(コミックホットミルク 2021年1月号)",
+    "sourceUrl": "https://telegra.ph/似せ本当の僕コミックホットミルク-2021年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/975e93ab4eb593f2411b7.jpg",
+        "https://telegra.ph/file/bade64eb9c36bb8fb5323.jpg",
+        "https://telegra.ph/file/6178c502f908e31ec246e.jpg",
+        "https://telegra.ph/file/06b73a5b5f0a3518c27c0.jpg",
+        "https://telegra.ph/file/0a6d2198dfae8898771ae.jpg",
+        "https://telegra.ph/file/f86ace4abd02c2563315c.jpg",
+        "https://telegra.ph/file/d18a3102547daa5330549.jpg",
+        "https://telegra.ph/file/f424db5c894a1eb22e4b0.jpg",
+        "https://telegra.ph/file/7717ae87932834aba750f.jpg",
+        "https://telegra.ph/file/8198f52e456b7a996d65b.jpg",
+        "https://telegra.ph/file/deb394dbcc41b2165a8cd.jpg",
+        "https://telegra.ph/file/45cb47438d569fdb12875.jpg",
+        "https://telegra.ph/file/a83220abc4bd1197fdace.jpg",
+        "https://telegra.ph/file/b7e17474a6c1c28f269cf.jpg",
+        "https://telegra.ph/file/12712a705f5f98863a9e5.jpg",
+        "https://telegra.ph/file/7d4903c9404df31b89f6b.jpg",
+        "https://telegra.ph/file/1059a4d3d594de8ee34fa.jpg",
+        "https://telegra.ph/file/7f991ad6719108ea01e84.jpg",
+        "https://telegra.ph/file/e08435def1c907ad77e0d.jpg",
+        "https://telegra.ph/file/dbad88e7a33eef20d5f17.jpg",
+        "https://telegra.ph/file/0b96f5ff3422482786110.jpg",
+        "https://telegra.ph/file/ffb2271237df5ec97af3e.jpg",
+        "https://telegra.ph/file/b6ccc9db7d443c188b6f4.jpg",
+        "https://telegra.ph/file/247a0a990e200e5d310f4.jpg",
+        "https://telegra.ph/file/9e0d7bbe758e80d4bc011.jpg",
+        "https://telegra.ph/file/12580013642e5014b3343.jpg",
+        "https://telegra.ph/file/0a7bda4379f58ace228b6.jpg",
+        "https://telegra.ph/file/451bf9cdb370af77b380a.jpg",
+        "https://telegra.ph/file/3422b123d094ccbb5561b.jpg",
+        "https://telegra.ph/file/d63b4f09513611a2a03df.jpg",
+        "https://telegra.ph/file/4a3aa39aa9f23991b40ef.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

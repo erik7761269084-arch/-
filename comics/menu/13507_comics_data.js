@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13507,
+    "title": "[kakao] 鰐ヶ丘学園女子水泳部にようこそ! (COMIC 快楽天ビースト 2022年10月号)",
+    "sourceUrl": "https://telegra.ph/kakao-鰐ヶ丘学園女子水泳部にようこそ-COMIC-快楽天ビースト-2022年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/add5597e7f759e88c2c6a.jpg",
+        "https://telegra.ph/file/17e49514845c91667cd6e.jpg",
+        "https://telegra.ph/file/001d3f3e68e49e79a7de4.jpg",
+        "https://telegra.ph/file/61fd8ec59621a2de6d3a9.jpg",
+        "https://telegra.ph/file/3999a27baf00c16b2f633.jpg",
+        "https://telegra.ph/file/0cf34a191480d6122f712.jpg",
+        "https://telegra.ph/file/00994696ea880edd3a26e.jpg",
+        "https://telegra.ph/file/1e5ac1b4981388d41fd04.jpg",
+        "https://telegra.ph/file/7c2d96c5ba95c76e1a2d1.jpg",
+        "https://telegra.ph/file/4522061ed6cd683ff37d2.jpg",
+        "https://telegra.ph/file/f0fc94144c2dc5055f5c3.jpg",
+        "https://telegra.ph/file/361e55b1d6556760aa7e3.jpg",
+        "https://telegra.ph/file/1f1c08d334781a10ce54b.jpg",
+        "https://telegra.ph/file/8784ed37267cdbb9ef618.jpg",
+        "https://telegra.ph/file/3279b9d9c216e0ff3645e.jpg",
+        "https://telegra.ph/file/27d1eda5543f7c75488d1.jpg",
+        "https://telegra.ph/file/aecc683ab3599ee2f5e8f.jpg",
+        "https://telegra.ph/file/b5d1453bccf0185c6cb16.jpg",
+        "https://telegra.ph/file/02773a5480d7dadd7f7ad.jpg",
+        "https://telegra.ph/file/e0e403e68ba33ef7c052d.jpg",
+        "https://telegra.ph/file/9fe66ab973c6fc48b0d6e.jpg",
+        "https://telegra.ph/file/03d13642dedec094d938f.jpg",
+        "https://telegra.ph/file/e150a1b899ca53aeb9406.jpg",
+        "https://telegra.ph/file/d71845f868cff99fb0ee4.jpg",
+        "https://telegra.ph/file/0ffa2d9b9e4ddd055926c.jpg",
+        "https://telegra.ph/file/48d6bd7e1d6115ee4ae4d.jpg",
+        "https://telegra.ph/file/7fd0463db8746d197fe16.jpg",
+        "https://telegra.ph/file/b913fe8d1f5cbb350961f.jpg",
+        "https://telegra.ph/file/09edb3e9beb2d068ecc6a.jpg",
+        "https://telegra.ph/file/4e46ddb2b6800907cb964.jpg",
+        "https://telegra.ph/file/9f922d737bae5a3d5710a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

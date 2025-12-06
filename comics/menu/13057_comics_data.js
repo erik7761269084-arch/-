@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13057,
+    "title": "[坂井] [pivix fanbox]性行為実習part.3",
+    "sourceUrl": "https://telegra.ph/坂井-pivix-fanbox性行為実習part3-08-31",
+    "images": [
+        "https://telegra.ph/file/19cf3c81bb0dbc991db83.jpg",
+        "https://telegra.ph/file/7c0cd95de226945c560c2.jpg",
+        "https://telegra.ph/file/9d34be9d0af5dcf85ae0a.jpg",
+        "https://telegra.ph/file/52b54ae33d99157604d67.jpg",
+        "https://telegra.ph/file/a3bc743a0c6a79ce57f16.jpg",
+        "https://telegra.ph/file/e54809b86f7d775ec0615.jpg",
+        "https://telegra.ph/file/dfe8cdd079d6ef3b5568c.jpg",
+        "https://telegra.ph/file/4a53b454eee8495c11b62.jpg",
+        "https://telegra.ph/file/b3f412cfeceabd5d776e0.jpg",
+        "https://telegra.ph/file/e08678a93d5bd39ff3bfe.jpg",
+        "https://telegra.ph/file/1e46b59fba798e351a28d.jpg",
+        "https://telegra.ph/file/4774c6a0a36a2c907909f.jpg",
+        "https://telegra.ph/file/fb8ed1efe1f83e19c7c12.jpg",
+        "https://telegra.ph/file/28dd6133970c52c069f3e.jpg",
+        "https://telegra.ph/file/28162a29fb3750127ba73.jpg",
+        "https://telegra.ph/file/49a7950b0bed3865d6b46.jpg",
+        "https://telegra.ph/file/3c57219b3eb7cc1dc5134.jpg",
+        "https://telegra.ph/file/9fc6bcbdb3396e622b5d8.jpg",
+        "https://telegra.ph/file/3a0349d36dda69a223a4c.jpg",
+        "https://telegra.ph/file/d23223fefaed01d2372aa.jpg",
+        "https://telegra.ph/file/7c25efe4db5e8fe69ce36.jpg",
+        "https://telegra.ph/file/b14e4e43ff59877c31629.jpg",
+        "https://telegra.ph/file/c4e5110b759f654c77562.jpg",
+        "https://telegra.ph/file/3037cd874133a4dcdfdb2.jpg",
+        "https://telegra.ph/file/e050670265afd8b00a11f.jpg",
+        "https://telegra.ph/file/fc1fcbb0fa18138a67ad1.jpg",
+        "https://telegra.ph/file/91517c55c924ba9212655.jpg",
+        "https://telegra.ph/file/408024fd1ea47a1a4f231.jpg",
+        "https://telegra.ph/file/1df1b1c35f3bf2a889ef4.jpg",
+        "https://telegra.ph/file/982a51b025dc7518b62ea.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

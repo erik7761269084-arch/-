@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8399,
+    "title": "[おとちち] 裏PTA～佳代子先生のぽってり唇オナホール～ (COMIC 夢幻転生 2021年9月号)",
+    "sourceUrl": "https://telegra.ph/おとちち-裏PTA佳代子先生のぽってり唇オナホール-COMIC-夢幻転生-2021年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/cb74d5d02d48f814358e9.jpg",
+        "https://telegra.ph/file/7fec0c4e44af3c3866422.jpg",
+        "https://telegra.ph/file/b520968387794ebbe1ae0.jpg",
+        "https://telegra.ph/file/e8abf1100df11c856e8b3.jpg",
+        "https://telegra.ph/file/9d5f3423f588d495b3e1e.jpg",
+        "https://telegra.ph/file/153afc91d944da7d3afac.jpg",
+        "https://telegra.ph/file/99e9252c5374c0b6ae950.jpg",
+        "https://telegra.ph/file/341d718a0db378316d671.jpg",
+        "https://telegra.ph/file/7a8f0bac3611055845b8a.jpg",
+        "https://telegra.ph/file/e225c3728ef53e4fbec45.jpg",
+        "https://telegra.ph/file/48edf13a190a5313566b1.jpg",
+        "https://telegra.ph/file/27390b4873bcfc21daca6.jpg",
+        "https://telegra.ph/file/32a1e48cff6aa9059278e.jpg",
+        "https://telegra.ph/file/b63fa6adfb96a3084dc78.jpg",
+        "https://telegra.ph/file/7a011084b0125e7505b59.jpg",
+        "https://telegra.ph/file/4f2c7a117af308584632c.jpg",
+        "https://telegra.ph/file/4fd24c33fe5100516a466.jpg",
+        "https://telegra.ph/file/f8e4f284ecfdb47960460.jpg",
+        "https://telegra.ph/file/bbea0358f2e776c5b0a40.jpg",
+        "https://telegra.ph/file/783ca57fa2a58920b8c36.jpg",
+        "https://telegra.ph/file/f2b95e08a4bc230dce2cc.jpg",
+        "https://telegra.ph/file/fa280275ca96241953085.jpg",
+        "https://telegra.ph/file/062006aa440a81d567423.jpg",
+        "https://telegra.ph/file/1fa842fbc396d7d2f4541.jpg",
+        "https://telegra.ph/file/3976da16bf7d3fac83c16.jpg",
+        "https://telegra.ph/file/dce1a7371732010612211.jpg",
+        "https://telegra.ph/file/f1b3bf20ffb53100070a7.jpg",
+        "https://telegra.ph/file/00bab8064459512cbf020.jpg",
+        "https://telegra.ph/file/16c2d10cb271f58516764.jpg",
+        "https://telegra.ph/file/8494c2a886e0a16e73f62.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

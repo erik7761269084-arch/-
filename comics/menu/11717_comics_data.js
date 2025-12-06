@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11717,
+    "title": "[あまくち少女 (うまくち醤油)] 時雨ベッドウェッタ (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/あまくち少女-うまくち醤油-時雨ベッドウェッタ-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/54ce110536ba63d0f8d93.jpg",
+        "https://telegra.ph/file/cbf356650d9906d267dc0.jpg",
+        "https://telegra.ph/file/a2e8f50a820e86cfcd7a0.jpg",
+        "https://telegra.ph/file/a7457bc87777b21e1f817.jpg",
+        "https://telegra.ph/file/bd7eff710f14b6bc7df20.jpg",
+        "https://telegra.ph/file/3810b046acab2701df7e9.jpg",
+        "https://telegra.ph/file/cc4cdaa6bc7968b96423d.jpg",
+        "https://telegra.ph/file/7e8c94908838440acf49c.jpg",
+        "https://telegra.ph/file/7fc3695f6b90276d0ee5b.jpg",
+        "https://telegra.ph/file/a09b3af40ea0bb030335d.jpg",
+        "https://telegra.ph/file/1d224acb847d4104d23cc.jpg",
+        "https://telegra.ph/file/6617f52a9731feb898d60.jpg",
+        "https://telegra.ph/file/fccbeb6f6c9dda3f8b511.jpg",
+        "https://telegra.ph/file/07c2169b75f2e8c9da0ac.jpg",
+        "https://telegra.ph/file/f0ccac3006cdc59c22439.jpg",
+        "https://telegra.ph/file/ec767368b93c767b10aa7.jpg",
+        "https://telegra.ph/file/0d97d04b186a18e91be50.jpg",
+        "https://telegra.ph/file/5234be74ddbae3bdeeeb3.jpg",
+        "https://telegra.ph/file/c24461ad728e1cd49e165.jpg",
+        "https://telegra.ph/file/84dd92a1f300c4a7e3e03.jpg",
+        "https://telegra.ph/file/9b0d6dc25956a0bdfa993.jpg",
+        "https://telegra.ph/file/3d59b6ee09aaa9b4a3823.jpg",
+        "https://telegra.ph/file/ba6941e5ae13c13482b09.jpg",
+        "https://telegra.ph/file/3d59aabfd0ae6d436af0c.jpg",
+        "https://telegra.ph/file/72b993d3ae3f6475e1b0f.jpg",
+        "https://telegra.ph/file/93dc1d4c07e0d73f24894.jpg",
+        "https://telegra.ph/file/d72751a860411a317984f.jpg",
+        "https://telegra.ph/file/c13fd3fd36a7cf5b8a326.jpg",
+        "https://telegra.ph/file/bec8f8c8c29bb15be1028.jpg",
+        "https://telegra.ph/file/aaa786b03a9452369604a.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

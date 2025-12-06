@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9604,
+    "title": "[妄想時計 (いわさきたかし)] 食蜂さんの5×0 (とある科学の超電磁砲)   [2013年8月25日]",
+    "sourceUrl": "https://telegra.ph/妄想時計-いわさきたかし-食蜂さんの50-とある科学の超電磁砲-2013年8月25日-08-31",
+    "images": [
+        "https://telegra.ph/file/9496b676232d7406cdd81.jpg",
+        "https://telegra.ph/file/76da0d8f0cfe3db61f94a.jpg",
+        "https://telegra.ph/file/b42690f1c1860cb28b737.jpg",
+        "https://telegra.ph/file/054516cfae3658b2407af.jpg",
+        "https://telegra.ph/file/283d48ea89d6dca4244b6.jpg",
+        "https://telegra.ph/file/c00289ad148a8bb4baba1.jpg",
+        "https://telegra.ph/file/82d0b287758cd0549bc23.jpg",
+        "https://telegra.ph/file/36ece6b62f4d6166c7168.jpg",
+        "https://telegra.ph/file/ca1e08c620b1c5c9afde0.jpg",
+        "https://telegra.ph/file/43fc2042a7fc4897a411a.jpg",
+        "https://telegra.ph/file/b191f84edefae9540c935.jpg",
+        "https://telegra.ph/file/08a4d547d0a98fdfaa036.jpg",
+        "https://telegra.ph/file/cd6ff23aecae758791730.jpg",
+        "https://telegra.ph/file/8de27f410be5e1f01c36d.jpg",
+        "https://telegra.ph/file/4fccffae73723c62cd1ce.jpg",
+        "https://telegra.ph/file/a069ca3d039602350df04.jpg",
+        "https://telegra.ph/file/2f294091765647080ca85.jpg",
+        "https://telegra.ph/file/14ea69bc46c0bf71c92ac.jpg",
+        "https://telegra.ph/file/f36d803996efac0685fbc.jpg",
+        "https://telegra.ph/file/28b247ecf5c636699e181.jpg",
+        "https://telegra.ph/file/6c204b6bdb486e703de65.jpg",
+        "https://telegra.ph/file/612dbbbcca09bfcb0dad2.jpg",
+        "https://telegra.ph/file/8e416ebfda2f7418ec594.jpg",
+        "https://telegra.ph/file/14f3b6b169bd823942e0d.jpg",
+        "https://telegra.ph/file/ddf0b9fda9e3e94f138fe.jpg",
+        "https://telegra.ph/file/34e608a384191d494a7e1.jpg",
+        "https://telegra.ph/file/aaa6cf6b7a01be17387b8.jpg",
+        "https://telegra.ph/file/36a175cbd8a7214db86fd.jpg",
+        "https://telegra.ph/file/d7b8d07d4ba874c2441e8.jpg",
+        "https://telegra.ph/file/a6d41fc2aa99c1fae405e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

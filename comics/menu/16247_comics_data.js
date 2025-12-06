@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16247,
+    "title": "[aoiro_050] うしろのくまさん (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/aoiro-050-うしろのくまさん-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000001.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000002.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000003.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000004.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000005.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000006.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000007.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000008.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000009.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000010.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000011.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000012.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000013.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000014.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000015.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000016.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000017.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000018.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000019.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000020.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000021.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000022.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000023.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000024.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000025.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000026.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000027.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/00000028.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/105.jpg",
+        "https://i2.linghua.xyz/ex/2242927/aeef63c739/30.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

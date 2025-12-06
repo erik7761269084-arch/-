@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 14050,
+    "title": "[CHARAN PORAN (猫乃またたび)] 退魔忍アリス (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/CHARAN-PORAN-猫乃またたび-退魔忍アリス-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/a96c4b985a82a706a2792.jpg",
+        "https://telegra.ph/file/7538a8b6cbf5da7e0c7bc.jpg",
+        "https://telegra.ph/file/bab31f37abab4f9802846.jpg",
+        "https://telegra.ph/file/a65eb0cfe05844105c17e.jpg",
+        "https://telegra.ph/file/3878ff866a663816acf48.jpg",
+        "https://telegra.ph/file/c291d7bf515d21ac597c7.jpg",
+        "https://telegra.ph/file/ebc9c07baf1d20db414bf.jpg",
+        "https://telegra.ph/file/58dc9c8af46c8a1f5b172.jpg",
+        "https://telegra.ph/file/9c8f7e9b98416e0b28d70.jpg",
+        "https://telegra.ph/file/7e257db9019a6f6a54e1f.jpg",
+        "https://telegra.ph/file/439c9d0e70c9cff4b6973.jpg",
+        "https://telegra.ph/file/089a7d18fc3920e68a651.jpg",
+        "https://telegra.ph/file/ba4aad4e12dad254c9fec.jpg",
+        "https://telegra.ph/file/fbbb83e178e5fb6604b69.jpg",
+        "https://telegra.ph/file/7fd6348ec4fe0cc0e28fc.jpg",
+        "https://telegra.ph/file/234ccb820f003e046c0f9.jpg",
+        "https://telegra.ph/file/f4f46f1e68b2443d1ea0b.jpg",
+        "https://telegra.ph/file/6b09f6e899657fec7d6d8.jpg",
+        "https://telegra.ph/file/1435cd5b6b8d2b379f61b.jpg",
+        "https://telegra.ph/file/fe47f736fa0cfd417784c.jpg",
+        "https://telegra.ph/file/7d18036eb725d0b594c54.jpg",
+        "https://telegra.ph/file/978bb93e4093ef904db3c.jpg",
+        "https://telegra.ph/file/8763c690a262d489dbc68.jpg",
+        "https://telegra.ph/file/a6cb1adbec3891c8552d7.jpg",
+        "https://telegra.ph/file/0497c1935a0e4e5d537ee.jpg",
+        "https://telegra.ph/file/72dcc9fe5fb09f8cd23dc.jpg",
+        "https://telegra.ph/file/e4c9d08424c3405a6efea.jpg",
+        "https://telegra.ph/file/405ea82e4ea7e33f68d9f.jpg",
+        "https://telegra.ph/file/7bfec14f31f67ef953159.jpg",
+        "https://telegra.ph/file/51141b9658a6bd4a51dc7.jpg",
+        "https://telegra.ph/file/9a4b4591b8cf4e6f04ac5.jpg",
+        "https://telegra.ph/file/77076b80a19f0170511d0.jpg",
+        "https://telegra.ph/file/a9848b0327d0bf5776569.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

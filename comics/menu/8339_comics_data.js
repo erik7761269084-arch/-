@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8339,
+    "title": "(C95) [アレクササンダー (荒草まほん)] いもうとはサキュバス",
+    "sourceUrl": "https://telegra.ph/C95-アレクササンダー-荒草まほん-いもうとはサキュバス-08-31",
+    "images": [
+        "https://telegra.ph/file/da3c913e0f4557bb8d8b2.jpg",
+        "https://telegra.ph/file/7e61875b0e499e309c0be.jpg",
+        "https://telegra.ph/file/03e6a9058de3a9b42da9d.jpg",
+        "https://telegra.ph/file/0db564ad4ce019bd84d1d.jpg",
+        "https://telegra.ph/file/5244d164d9a06872b776a.jpg",
+        "https://telegra.ph/file/9f799ff609cc62cae8b02.jpg",
+        "https://telegra.ph/file/15113e0c3a4c626cf3f68.jpg",
+        "https://telegra.ph/file/840ee4a0764e528cf2167.jpg",
+        "https://telegra.ph/file/fe9ec06ecae9938740598.jpg",
+        "https://telegra.ph/file/5c7d5861742b2f2c56163.jpg",
+        "https://telegra.ph/file/0521d64d3a5680562c76d.jpg",
+        "https://telegra.ph/file/9bfe386041070460b84c5.jpg",
+        "https://telegra.ph/file/bfb81336dc11fa23c06f1.jpg",
+        "https://telegra.ph/file/d533c45dc918e019a9a30.jpg",
+        "https://telegra.ph/file/c04f2a551642347b90680.jpg",
+        "https://telegra.ph/file/43c2e850074a89f75805d.jpg",
+        "https://telegra.ph/file/e8fd276785af63c1f51ae.jpg",
+        "https://telegra.ph/file/06243c3838e325ab03e3a.jpg",
+        "https://telegra.ph/file/4ad907ed5d28a1f3760b9.jpg",
+        "https://telegra.ph/file/f40b1a248aa3cf3216912.jpg",
+        "https://telegra.ph/file/618a67f2feb3854ebb991.jpg",
+        "https://telegra.ph/file/0ebce169de72fb6bfe005.jpg",
+        "https://telegra.ph/file/a4827eaa988b945c23a1a.jpg",
+        "https://telegra.ph/file/239aed81eedcc96444675.jpg",
+        "https://telegra.ph/file/e5d9c4d898c237038a304.jpg",
+        "https://telegra.ph/file/c0e4191d8bf6e770d47cf.jpg",
+        "https://telegra.ph/file/26a8ead3a3ccfa4d565a3.jpg",
+        "https://telegra.ph/file/a6938183cc703e094fc5b.jpg",
+        "https://telegra.ph/file/fd5095a64f5e8177cd92c.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

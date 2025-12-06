@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15728,
+    "title": "(C93) [ルミノシティ (かにビーム)] ルミノシティ19 ポトフちゃん、闇堕ち。 (よろず) -Preview",
+    "sourceUrl": "https://telegra.ph/C93-ルミノシティ-かにビーム-ルミノシティ19-ポトフちゃん闇堕ち-よろず--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/e18dde917decf42e8eb81.jpg",
+        "https://telegra.ph/file/3dfd99cbe9628631c7cfc.jpg",
+        "https://telegra.ph/file/cd5f57595ebff73549535.jpg",
+        "https://telegra.ph/file/3e799f017cd8274420b8e.jpg",
+        "https://telegra.ph/file/a25a086f9051d5528508e.jpg",
+        "https://telegra.ph/file/b206a74d9a26ebf2d0fe1.jpg",
+        "https://telegra.ph/file/bd1291a1b88fbb7771862.jpg",
+        "https://telegra.ph/file/679fdd03c926dec82d1ce.jpg",
+        "https://telegra.ph/file/51c6ab7e95ce096869ba2.jpg",
+        "https://telegra.ph/file/85ec3b933796246fdd1e5.jpg",
+        "https://telegra.ph/file/849518eb095845bf82aac.jpg",
+        "https://telegra.ph/file/0fecd72dce3f6b6aaa4d8.jpg",
+        "https://telegra.ph/file/e0dc58ae66f71f851df7e.jpg",
+        "https://telegra.ph/file/4449144d0b39f4af976cf.jpg",
+        "https://telegra.ph/file/80bc5b3bb1ae48e1028fa.jpg",
+        "https://telegra.ph/file/5b8241d117bbc34f35b3c.jpg",
+        "https://telegra.ph/file/b3082101d45e9bb906ab4.jpg",
+        "https://telegra.ph/file/8a20201dcc32581856bd7.jpg",
+        "https://telegra.ph/file/c53a2e726cb3a1775193b.jpg",
+        "https://telegra.ph/file/d09bd9e4cada5684c544e.jpg",
+        "https://telegra.ph/file/40642725eb593aa213485.jpg",
+        "https://telegra.ph/file/78bc11df9d4e6b6b3d65a.jpg",
+        "https://telegra.ph/file/6f18cfccf44ea73f721d6.jpg",
+        "https://telegra.ph/file/8521791769bfa51f691c0.jpg",
+        "https://telegra.ph/file/19ad292a82573d0a3159c.jpg",
+        "https://telegra.ph/file/5bf31d563e6423252dc41.jpg",
+        "https://telegra.ph/file/0b0eb05c621b31a185fb5.jpg",
+        "https://telegra.ph/file/34773be66b4d1ccdf3901.jpg",
+        "https://telegra.ph/file/289e5d3a069d015ca1d96.jpg",
+        "https://telegra.ph/file/920a6bdab71d1920373cf.jpg",
+        "https://telegra.ph/file/034b46749fea3427625c7.jpg",
+        "https://telegra.ph/file/3520d18876295e00cc487.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

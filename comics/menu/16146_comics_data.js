@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16146,
+    "title": "[百合畑牧場 (紺)] Obsessed02 (アイドルマスター シンデレラガールズ)  -Preview",
+    "sourceUrl": "https://telegra.ph/百合畑牧場-紺-Obsessed02-アイドルマスター-シンデレラガールズ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/4f544294d2fc8c7cf0c00.jpg",
+        "https://telegra.ph/file/bfe530b8f532fc3a5bf9e.jpg",
+        "https://telegra.ph/file/b5c4ca52ba6bc724fe33d.jpg",
+        "https://telegra.ph/file/ea80dbffa1f7e3ff3a0cf.jpg",
+        "https://telegra.ph/file/a211ad79088adc4f8b4a6.jpg",
+        "https://telegra.ph/file/bd59e19db209da9330b45.jpg",
+        "https://telegra.ph/file/800c6aedc7357dfd358b8.jpg",
+        "https://telegra.ph/file/91864e5a5c6a7935409f4.jpg",
+        "https://telegra.ph/file/50d4134f67184d46eca6a.jpg",
+        "https://telegra.ph/file/b61804c477ba54fd9bf59.jpg",
+        "https://telegra.ph/file/ce23e18719aac93b3ed12.jpg",
+        "https://telegra.ph/file/9b6a81647e5a9575b07d1.jpg",
+        "https://telegra.ph/file/bbd3ddaee37de79fbfc20.jpg",
+        "https://telegra.ph/file/cebe9a856967c2a61b9e8.jpg",
+        "https://telegra.ph/file/ec9cd020dcb35b08c17b6.jpg",
+        "https://telegra.ph/file/a09c680a409d929994d70.jpg",
+        "https://telegra.ph/file/c336fb41e5ce76e060e68.jpg",
+        "https://telegra.ph/file/d42f1cd0d60f621e74938.jpg",
+        "https://telegra.ph/file/9055aecaed1a18f3cac29.jpg",
+        "https://telegra.ph/file/2939b83c5fa7edff3f69d.jpg",
+        "https://telegra.ph/file/45e94fad3ecd8f6c5410b.jpg",
+        "https://telegra.ph/file/170c4a24b42364f94a17a.jpg",
+        "https://telegra.ph/file/86a9409fbbfc6e48c682c.jpg",
+        "https://telegra.ph/file/33864dec309804aa45a8e.jpg",
+        "https://telegra.ph/file/890814ad1e1928e313d98.jpg",
+        "https://telegra.ph/file/dc369383e4d5aa4891ab1.jpg",
+        "https://telegra.ph/file/eebe05ff9905a3dd99f29.jpg",
+        "https://telegra.ph/file/671cf0f20d913a1e9bba3.jpg",
+        "https://telegra.ph/file/755868b7633288ecd502c.jpg",
+        "https://telegra.ph/file/be3c692fc91c121f7e078.jpg",
+        "https://telegra.ph/file/35d333ca0bf61877d56ef.jpg",
+        "https://telegra.ph/file/765a36954c67aef21b873.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

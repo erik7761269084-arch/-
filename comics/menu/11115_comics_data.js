@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11115,
+    "title": "[狼狽亭 (atahuta)] 総集編 VIRTUAL TO HOLE (よろず)",
+    "sourceUrl": "https://telegra.ph/狼狽亭-atahuta-総集編-VIRTUAL-TO-HOLE-よろず-08-31",
+    "images": [
+        "https://telegra.ph/file/8e9ab0061512218c2b513.jpg",
+        "https://telegra.ph/file/e737e3cdde6b7de3fc16c.jpg",
+        "https://telegra.ph/file/19e18cc8085657c7aeac0.jpg",
+        "https://telegra.ph/file/d062dbdbe7d3590532d4a.jpg",
+        "https://telegra.ph/file/79c065b9bf7f958abc524.jpg",
+        "https://telegra.ph/file/f07082e628296b6c7ff95.jpg",
+        "https://telegra.ph/file/10c3851b5cf51c2cae9ec.jpg",
+        "https://telegra.ph/file/b52190af2188e06054e60.jpg",
+        "https://telegra.ph/file/4b10b7fb2345b04bf4d08.jpg",
+        "https://telegra.ph/file/84c4d042b3172224a6ce9.jpg",
+        "https://telegra.ph/file/e2d5ef29058967166799a.jpg",
+        "https://telegra.ph/file/192a741b18ef524f2cd3b.jpg",
+        "https://telegra.ph/file/4066797c6078f03fda58b.jpg",
+        "https://telegra.ph/file/7f4c06cfda4c634a8f44a.jpg",
+        "https://telegra.ph/file/1ff632a29c40f1616e25f.jpg",
+        "https://telegra.ph/file/8fceda47262567f5d03b1.jpg",
+        "https://telegra.ph/file/14311d33c45009f617fdc.jpg",
+        "https://telegra.ph/file/866ace50a6aa700ffdc15.jpg",
+        "https://telegra.ph/file/f07bafa1ee0267419fc85.jpg",
+        "https://telegra.ph/file/df715ce007698e887902b.jpg",
+        "https://telegra.ph/file/d18285f226b934964fbeb.jpg",
+        "https://telegra.ph/file/ffd9221cff18d7eae20d7.jpg",
+        "https://telegra.ph/file/90824b51396d2979cb41f.jpg",
+        "https://telegra.ph/file/f92e12c1ef686b6958e62.jpg",
+        "https://telegra.ph/file/dc397ed07ee9259ab6eac.jpg",
+        "https://telegra.ph/file/fa406572368d010f8ffeb.jpg",
+        "https://telegra.ph/file/3783f6632cb5d6caed7cd.jpg",
+        "https://telegra.ph/file/52ab55f17d8b102c5acae.jpg",
+        "https://telegra.ph/file/131de99e251d43934b319.jpg",
+        "https://telegra.ph/file/7f8e8ea2a695ad7a12aab.jpg",
+        "https://telegra.ph/file/514e4dec524670ba1cce0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

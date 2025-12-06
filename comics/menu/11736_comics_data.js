@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11736,
+    "title": "[ratatatat74] MY HERO Christmas HAREM (Boku no Hero Academia)  [GaLaSky個人漢化]",
+    "sourceUrl": "https://telegra.ph/ratatatat74-MY-HERO-Christmas-HAREM-Boku-no-Hero-Academia-GaLaSky個人漢化-08-31",
+    "images": [
+        "https://telegra.ph/file/e6cdbd4cd2cbad01b6cea.jpg",
+        "https://telegra.ph/file/a07242b50c6f5c0da7779.jpg",
+        "https://telegra.ph/file/050deb1cf74da1cc5483e.jpg",
+        "https://telegra.ph/file/c8774b18334288c3f30a4.jpg",
+        "https://telegra.ph/file/6df311f759e9b97664f40.jpg",
+        "https://telegra.ph/file/bf78f3a4472b1adec307b.jpg",
+        "https://telegra.ph/file/66ba6be0dd9d0e4671f95.jpg",
+        "https://telegra.ph/file/f3008bbb76a4d8b4bfdfb.jpg",
+        "https://telegra.ph/file/f5859fe32370543a8327e.jpg",
+        "https://telegra.ph/file/bed8cd9cecdcecc428cc0.jpg",
+        "https://telegra.ph/file/def6fb54e857f70ecb0ac.jpg",
+        "https://telegra.ph/file/acabce6dce617f374cb93.jpg",
+        "https://telegra.ph/file/9b347e364573a970658ab.jpg",
+        "https://telegra.ph/file/1939902ac3784d3b6124c.jpg",
+        "https://telegra.ph/file/c587d452bea3e5b64a56d.jpg",
+        "https://telegra.ph/file/5e50c0818e2ee61d4ac4b.jpg",
+        "https://telegra.ph/file/62c40084cf133d5d65591.jpg",
+        "https://telegra.ph/file/847f66803823e3c94060c.jpg",
+        "https://telegra.ph/file/c78e3afaef5a0a52c7f05.jpg",
+        "https://telegra.ph/file/8d08840068fc122dbadd3.jpg",
+        "https://telegra.ph/file/2a024809fd10ea0f74bc8.jpg",
+        "https://telegra.ph/file/fb7eae8e3b8c22195a5c1.jpg",
+        "https://telegra.ph/file/64c308cf5777fff455454.jpg",
+        "https://telegra.ph/file/ca97d738455ebac189e0c.jpg",
+        "https://telegra.ph/file/f2b9089ffbf5a4b96fcc2.jpg",
+        "https://telegra.ph/file/cb580dc57cfebaae4e07e.jpg",
+        "https://telegra.ph/file/c96941746da4504bc8af9.jpg",
+        "https://telegra.ph/file/69037aab514f2a78373cb.jpg",
+        "https://telegra.ph/file/cc7e82b128f613b00d3c8.jpg",
+        "https://telegra.ph/file/ab172607a57c2c49650d1.jpg",
+        "https://telegra.ph/file/9b2888ae69a902db0bf3c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

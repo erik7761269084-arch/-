@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9281,
+    "title": "[満開開花] ドSな百合カップルに強制オナニー催眠[画笔！臣服于我！个人汉化]",
+    "sourceUrl": "https://telegra.ph/満開開花-ドSな百合カップルに強制オナニー催眠画笔臣服于我个人汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/5a2c616429ca1575c1019.jpg",
+        "https://telegra.ph/file/a4a0d1233c198937ff3bc.jpg",
+        "https://telegra.ph/file/c070af6fd1245dfb2f579.jpg",
+        "https://telegra.ph/file/754340d07a09253553eff.jpg",
+        "https://telegra.ph/file/6cef992539f4fe7508ed9.jpg",
+        "https://telegra.ph/file/6b7d0c3a723e5c0e83d10.jpg",
+        "https://telegra.ph/file/13329f681cef92510bbfe.jpg",
+        "https://telegra.ph/file/692952380a56382e289b1.jpg",
+        "https://telegra.ph/file/04360fdfd849b06e5139d.jpg",
+        "https://telegra.ph/file/e8c4a3c40be2790ed84d9.jpg",
+        "https://telegra.ph/file/1f2182be6005958f40eb3.jpg",
+        "https://telegra.ph/file/de814bceb9be951ba4b18.jpg",
+        "https://telegra.ph/file/577985b5d81f857a83ebc.jpg",
+        "https://telegra.ph/file/8adf3725d1dfe2b20dc4c.jpg",
+        "https://telegra.ph/file/be4bfe6fa43a741bb2676.jpg",
+        "https://telegra.ph/file/01a1e2e5f512f67f42795.jpg",
+        "https://telegra.ph/file/8fff0b14277e94b4423df.jpg",
+        "https://telegra.ph/file/dd7eb445ff0836c181c33.jpg",
+        "https://telegra.ph/file/e3bbd75fb4b00f4b71bb0.jpg",
+        "https://telegra.ph/file/730260155a24cc2f16729.jpg",
+        "https://telegra.ph/file/38b93f32ff73a044d6f7d.jpg",
+        "https://telegra.ph/file/42f0c59c46d7dea4d947b.jpg",
+        "https://telegra.ph/file/8c6e010cf5490f5359ffe.jpg",
+        "https://telegra.ph/file/1799d5a384f6c39243e10.jpg",
+        "https://telegra.ph/file/74950610b13d5288aef91.jpg",
+        "https://telegra.ph/file/7597a9a19d98115c75bfb.jpg",
+        "https://telegra.ph/file/5cbf1980cfe39f56a13a7.jpg",
+        "https://telegra.ph/file/2b2c4e35dc22c09b008f3.jpg",
+        "https://telegra.ph/file/d13a7e2d36d0f4a3f87e7.jpg",
+        "https://telegra.ph/file/8ea035aa47470aac55ab7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

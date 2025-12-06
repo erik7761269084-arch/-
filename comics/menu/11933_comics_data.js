@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11933,
+    "title": "(C95) [OSTEREi] RICHELIEU MON AMOUR (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C95-OSTEREi-RICHELIEU-MON-AMOUR-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/010add1f7c117bc75678c.jpg",
+        "https://telegra.ph/file/3db21d9993e7004f25834.jpg",
+        "https://telegra.ph/file/cf8b53a4c918aabc79722.jpg",
+        "https://telegra.ph/file/79eb8368c967c6b2e744b.jpg",
+        "https://telegra.ph/file/af2ffca2bf677834cd487.jpg",
+        "https://telegra.ph/file/63b2384a595eaff6c9038.jpg",
+        "https://telegra.ph/file/81eece2aa6dca7b39c2c9.jpg",
+        "https://telegra.ph/file/d72286f4f740419727649.jpg",
+        "https://telegra.ph/file/77d7477599845d9191d4e.jpg",
+        "https://telegra.ph/file/7b672a0918efeec597840.jpg",
+        "https://telegra.ph/file/ef2055fcd374fb4f1a3e6.jpg",
+        "https://telegra.ph/file/8cf3fe50d0b2ee999b605.jpg",
+        "https://telegra.ph/file/cf7334a14b6b850242e27.jpg",
+        "https://telegra.ph/file/c21e7f3f312ebfed765ca.jpg",
+        "https://telegra.ph/file/dcbb265b258defedcd08a.jpg",
+        "https://telegra.ph/file/d3dfeb6fb2eb8c4902f9c.jpg",
+        "https://telegra.ph/file/f9a6255c8b5475d7ede6d.jpg",
+        "https://telegra.ph/file/8fb52902e5c0230d35586.jpg",
+        "https://telegra.ph/file/c33abd544bfe22b13b2b3.jpg",
+        "https://telegra.ph/file/a86510c747eff64c3822e.jpg",
+        "https://telegra.ph/file/9e20012826efbe720d381.jpg",
+        "https://telegra.ph/file/03bb75862d7f4b74430dc.jpg",
+        "https://telegra.ph/file/c64f1c78dbbbd5f75be8f.jpg",
+        "https://telegra.ph/file/bc704c4ba746ffb254762.jpg",
+        "https://telegra.ph/file/6de06bedeca5680a33163.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

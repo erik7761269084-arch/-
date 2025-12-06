@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12715,
+    "title": "[空維深夜] 狐の婿入り (コミックリブート Vol.22)",
+    "sourceUrl": "https://telegra.ph/空維深夜-狐の婿入り-コミックリブート-Vol22-08-31",
+    "images": [
+        "https://telegra.ph/file/3a242dddfda4183cb31c9.jpg",
+        "https://telegra.ph/file/78c931d464e8980703fa2.jpg",
+        "https://telegra.ph/file/bc0ad5f83099712b0eb2f.jpg",
+        "https://telegra.ph/file/8c8be234f4deee3bb6482.jpg",
+        "https://telegra.ph/file/12e916dad81524a00e677.jpg",
+        "https://telegra.ph/file/3b579a532b744305b6863.jpg",
+        "https://telegra.ph/file/f26543dc0a6160330bbb8.jpg",
+        "https://telegra.ph/file/f1e746d92c005227277a4.jpg",
+        "https://telegra.ph/file/0f41c008de2de1b502162.jpg",
+        "https://telegra.ph/file/ea8d3e6d2cf18c7e6cfc5.jpg",
+        "https://telegra.ph/file/aa645851e9c44b047aa75.jpg",
+        "https://telegra.ph/file/015861f27af63e6463853.jpg",
+        "https://telegra.ph/file/988b7c20677ca27951b6e.jpg",
+        "https://telegra.ph/file/c1e0637619331aa858499.jpg",
+        "https://telegra.ph/file/3d82e08ee0e88567c1987.jpg",
+        "https://telegra.ph/file/05c385fe6b835e53b2622.jpg",
+        "https://telegra.ph/file/400ac1322b5d39fd8fc16.jpg",
+        "https://telegra.ph/file/df141a3190bc2142d6f9c.jpg",
+        "https://telegra.ph/file/30fb590a3c83e17bead21.jpg",
+        "https://telegra.ph/file/194320d7d1e798751f654.jpg",
+        "https://telegra.ph/file/f7fed8f3379b8c147f910.jpg",
+        "https://telegra.ph/file/ffefbb5e24a73c9ff4e25.jpg",
+        "https://telegra.ph/file/eda31eb69c999a51c10e9.jpg",
+        "https://telegra.ph/file/0fdd9151f33b0c9a81368.jpg",
+        "https://telegra.ph/file/f9385ee54b05642a89249.jpg",
+        "https://telegra.ph/file/bdcdfe5ab721b46ac878e.jpg",
+        "https://telegra.ph/file/a650b04896bf8cacf7a04.jpg",
+        "https://telegra.ph/file/4687f141c2125c098dfd8.jpg",
+        "https://telegra.ph/file/4afd083bb6272a4a39d22.jpg",
+        "https://telegra.ph/file/7f2a49e9efe8e6f3b7ae6.jpg",
+        "https://telegra.ph/file/69d6f0674130d41af501b.jpg",
+        "https://telegra.ph/file/e9ae7f6725870b289e442.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11373,
+    "title": "[あきのそら] 異世界来たのでスケベスキルで全力謳歌しようと思う (コミック エグゼ 28)",
+    "sourceUrl": "https://telegra.ph/あきのそら-異世界来たのでスケベスキルで全力謳歌しようと思う-コミック-エグゼ-28-08-31",
+    "images": [
+        "https://telegra.ph/file/977321ed1d2c9c963ecd5.jpg",
+        "https://telegra.ph/file/28d1f6c2f78c96ff49c69.jpg",
+        "https://telegra.ph/file/c0b78b1622a5d91f93bf8.png",
+        "https://telegra.ph/file/5a34b4e07a500f48924ef.jpg",
+        "https://telegra.ph/file/3c793074c690e16815371.jpg",
+        "https://telegra.ph/file/2ed1fafa05eef1dd98aa7.jpg",
+        "https://telegra.ph/file/1bfe7744f4b294f852cba.png",
+        "https://telegra.ph/file/3b35e5bd85909dce0cf1a.jpg",
+        "https://telegra.ph/file/bca19d64960e041234f15.png",
+        "https://telegra.ph/file/f2e6a89ee59f35ff884fd.png",
+        "https://telegra.ph/file/ab0339ac1214639097c70.jpg",
+        "https://telegra.ph/file/4fcb556c97080066f5ce7.jpg",
+        "https://telegra.ph/file/1845097a688829e04e3fb.png",
+        "https://telegra.ph/file/183aec3d442db881b9a36.jpg",
+        "https://telegra.ph/file/17f2ae269f0b3320899c2.png",
+        "https://telegra.ph/file/38f29932144008019e2d3.jpg",
+        "https://telegra.ph/file/5c322e58e12306c5c053b.jpg",
+        "https://telegra.ph/file/7798c3fcdf452c6063c60.jpg",
+        "https://telegra.ph/file/079b054ae8e1a1c22184f.jpg",
+        "https://telegra.ph/file/a261421f4e28df2e1cb9f.jpg",
+        "https://telegra.ph/file/d5e4719caa9e58399b22b.jpg",
+        "https://telegra.ph/file/b94b9483b25f0cb1632be.png",
+        "https://telegra.ph/file/c917ca9222a7d7394054e.jpg",
+        "https://telegra.ph/file/d884887db957ec9fb6368.jpg",
+        "https://telegra.ph/file/ba96b6a2c492c51756a2b.jpg",
+        "https://telegra.ph/file/063a50c248e6c9c68b007.png",
+        "https://telegra.ph/file/1b79bf30b1cd24ed385ff.jpg",
+        "https://telegra.ph/file/ad1f31cac451b41170759.jpg",
+        "https://telegra.ph/file/cf0a627e7b7aef72a56ab.jpg",
+        "https://telegra.ph/file/5fd65a98ed5fab6a995bf.jpg",
+        "https://telegra.ph/file/ac76a7fca3d9e61ddb03a.png",
+        "https://telegra.ph/file/fc717bdfda63ba90e1eb5.jpg",
+        "https://telegra.ph/file/bededda0254286edba65d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

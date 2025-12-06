@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16263,
+    "title": "[まんまん屋 (チチヅキ)] 蕩かして壊れていって (Fate/Grand Order)   [進行中]-Preview",
+    "sourceUrl": "https://telegra.ph/まんまん屋-チチヅキ-蕩かして壊れていって-FateGrand-Order-進行中-Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_001a.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_001b.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_002.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_003.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_004.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_005.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_006.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_007.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_008.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_009.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_010.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_011.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_012.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_013.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_014.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_015.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_016.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_017.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_018.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_019.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_020.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/LOGO_2024_2.0.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_021.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_022.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_023.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_024.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_025.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_026.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_027.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_028.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_029.jpg",
+        "https://i2.linghua.xyz/ex/3070332/6b3198f5a1/torokasitekowareteitte_030.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

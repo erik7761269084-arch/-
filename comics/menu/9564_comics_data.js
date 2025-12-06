@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9564,
+    "title": "(C97) [OrangeMaru (YD)] もぐりこみ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-OrangeMaru-YD-もぐりこみ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/de076997827a46eb5d9e3.jpg",
+        "https://telegra.ph/file/c9aea8781e419e3f337a2.jpg",
+        "https://telegra.ph/file/b580b0a154f5659c0b5e7.jpg",
+        "https://telegra.ph/file/bb202ee4f70309bc2d3a2.jpg",
+        "https://telegra.ph/file/77de085520833e5cd2ede.jpg",
+        "https://telegra.ph/file/dd023c779d62e7e96b2dc.jpg",
+        "https://telegra.ph/file/3ed519a36ee71ca22c725.jpg",
+        "https://telegra.ph/file/43462ede21211b23d47e5.jpg",
+        "https://telegra.ph/file/62b52777b4043d09d9d7f.jpg",
+        "https://telegra.ph/file/958fdf09e2dbb1580f8ec.jpg",
+        "https://telegra.ph/file/8aa1bc29266aeeb184e5f.jpg",
+        "https://telegra.ph/file/046951339f8ae3dd1b898.jpg",
+        "https://telegra.ph/file/22eac92a916cc304e0f75.jpg",
+        "https://telegra.ph/file/a858fd61ae802570a04dc.jpg",
+        "https://telegra.ph/file/2f589e98b3677156d9006.jpg",
+        "https://telegra.ph/file/50e297b517f65a23efd8c.jpg",
+        "https://telegra.ph/file/fd76282ba1a3f0601bd79.jpg",
+        "https://telegra.ph/file/85925095557b74bb82727.jpg",
+        "https://telegra.ph/file/2127b8ed945c6d26507e5.jpg",
+        "https://telegra.ph/file/1a5cf8a0526adb9789c65.jpg",
+        "https://telegra.ph/file/bf825799e846a86b26c44.jpg",
+        "https://telegra.ph/file/16433843f5fa0da0a53ca.jpg",
+        "https://telegra.ph/file/4bdc3f1d80fe813b0bf70.jpg",
+        "https://telegra.ph/file/28396fcf772709e6e0474.jpg",
+        "https://telegra.ph/file/4d6356fb4599b075c203b.jpg",
+        "https://telegra.ph/file/4e8675501c18dec939df3.jpg",
+        "https://telegra.ph/file/7c9ad1712fe3fc108f2a7.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/bc8516605e1025fae339e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

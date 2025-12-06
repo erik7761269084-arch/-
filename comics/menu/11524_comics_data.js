@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11524,
+    "title": "[O.S (ばーるん)] メイドinロアナプラ (ブラック・ラグーン)",
+    "sourceUrl": "https://telegra.ph/OS-ばーるん-メイドinロアナプラ-ブラックラグーン-08-31",
+    "images": [
+        "https://telegra.ph/file/88335659146736c2ce32d.jpg",
+        "https://telegra.ph/file/982ebf1be471d2a04b9f3.jpg",
+        "https://telegra.ph/file/32743ed585324b418145d.jpg",
+        "https://telegra.ph/file/bdf4a649e2e2ec6937059.jpg",
+        "https://telegra.ph/file/af86d6609fe8ad88321d5.jpg",
+        "https://telegra.ph/file/4df926e87bc3603b2572e.jpg",
+        "https://telegra.ph/file/d3f555324bd90717da672.jpg",
+        "https://telegra.ph/file/6f9cc2bd10507747b7892.jpg",
+        "https://telegra.ph/file/3c93ba2593f9afdfa8386.jpg",
+        "https://telegra.ph/file/192e76b4fb02918333a90.jpg",
+        "https://telegra.ph/file/b1268d2f8c25d41ed092b.jpg",
+        "https://telegra.ph/file/a3b7e3a91a9f142e72f67.jpg",
+        "https://telegra.ph/file/d3568e3e67393d8fa0ed4.jpg",
+        "https://telegra.ph/file/de59d6fca38dc2e8fbd63.jpg",
+        "https://telegra.ph/file/8d160c1598804b73abc6d.jpg",
+        "https://telegra.ph/file/5d4ba8d069011e10a57be.jpg",
+        "https://telegra.ph/file/294cb00f8ee4b9ec25d06.jpg",
+        "https://telegra.ph/file/d450652d878969b9d7bc2.jpg",
+        "https://telegra.ph/file/7543f934c7c3b5cbbf7b4.jpg",
+        "https://telegra.ph/file/57c227497271de441ed1a.jpg",
+        "https://telegra.ph/file/ac0cb12332b6b270765fa.jpg",
+        "https://telegra.ph/file/17014e18f984edca02b2f.jpg",
+        "https://telegra.ph/file/3000f4bf6c3df0c3cf693.jpg",
+        "https://telegra.ph/file/efa2bc1bf9fa2cea0d093.jpg",
+        "https://telegra.ph/file/474d0b7c23de7909ed628.jpg",
+        "https://telegra.ph/file/9b6af04ccb81d46f03cfa.jpg",
+        "https://telegra.ph/file/3cfea6641a637c2ea1a2a.jpg",
+        "https://telegra.ph/file/04fed128259c2acd4d02e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

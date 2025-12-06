@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9797,
+    "title": "[2vs (椎名鯛)] 小悪魔なJKの性玩具になった僕",
+    "sourceUrl": "https://telegra.ph/2vs-椎名鯛-小悪魔なJKの性玩具になった僕-08-31",
+    "images": [
+        "https://telegra.ph/file/fd3dff784ba5f0ed6a0eb.jpg",
+        "https://telegra.ph/file/11a20318ea6d057150922.jpg",
+        "https://telegra.ph/file/af00482acefda8391ccc2.jpg",
+        "https://telegra.ph/file/4d178cd655273f0aa6f49.jpg",
+        "https://telegra.ph/file/f5155e93ab94372eecc0f.jpg",
+        "https://telegra.ph/file/3cfbe229cbd144bd363f1.jpg",
+        "https://telegra.ph/file/4a00d19b853ca8ec0c8be.jpg",
+        "https://telegra.ph/file/fb9c5deede5362c4983e5.jpg",
+        "https://telegra.ph/file/a0e037ffdc322ad7fdaed.jpg",
+        "https://telegra.ph/file/9a6564b343c580db6e289.jpg",
+        "https://telegra.ph/file/5a167baf07920c9cc08cf.jpg",
+        "https://telegra.ph/file/e8bf6e4653a6a19dab90c.jpg",
+        "https://telegra.ph/file/9b1ce430f0ac140da85ee.jpg",
+        "https://telegra.ph/file/4583b929edaf8664cf333.jpg",
+        "https://telegra.ph/file/e048117e645bc0ddce3c9.jpg",
+        "https://telegra.ph/file/c17b487e62b54f995ef00.jpg",
+        "https://telegra.ph/file/d6366a21b07651ad94955.jpg",
+        "https://telegra.ph/file/0a52517b8e7142cc8dcbc.jpg",
+        "https://telegra.ph/file/5321b49984985fdd210a5.jpg",
+        "https://telegra.ph/file/0481a2d4e5c9fc8a8621f.jpg",
+        "https://telegra.ph/file/8b8d6f90ed81c5567550e.jpg",
+        "https://telegra.ph/file/6c572955bd49ed14305d4.jpg",
+        "https://telegra.ph/file/742d65a0cf8693b66522a.jpg",
+        "https://telegra.ph/file/d6f42e6f9ce3a7b7d27ee.jpg",
+        "https://telegra.ph/file/d2785d34c1c8860168873.jpg",
+        "https://telegra.ph/file/51e5f294bbf4fed9f6fd5.jpg",
+        "https://telegra.ph/file/ff4ce04341e2d6b6e32ac.jpg",
+        "https://telegra.ph/file/4a81d6c744b0dad6156a0.jpg",
+        "https://telegra.ph/file/2cd2382ad297097c178fb.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

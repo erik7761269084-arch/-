@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8890,
+    "title": "[平沢Zen] 金色ビキニ特盛りオルタさん (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/平沢Zen-金色ビキニ特盛りオルタさん-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/2fe4c40f1cb81cbccd202.jpg",
+        "https://telegra.ph/file/7fc74f3f4498f9d67a77f.jpg",
+        "https://telegra.ph/file/a8b7e2587dc0117e701c5.jpg",
+        "https://telegra.ph/file/1399803dbecc2b79541af.jpg",
+        "https://telegra.ph/file/b28358917a8efa31eb38e.jpg",
+        "https://telegra.ph/file/a9d3e5e6607ed2c1299c6.jpg",
+        "https://telegra.ph/file/6baf54ddf44b8359b492e.jpg",
+        "https://telegra.ph/file/7501b2dfce41708455988.jpg",
+        "https://telegra.ph/file/ec17e5f92518c6d0e9339.jpg",
+        "https://telegra.ph/file/5ca483208d981028718d6.jpg",
+        "https://telegra.ph/file/58ba7e120c9e6cc46d9d3.jpg",
+        "https://telegra.ph/file/3861747ef7d627bfb8301.jpg",
+        "https://telegra.ph/file/14efefc764d1b3bfb554d.jpg",
+        "https://telegra.ph/file/660c5368c77707a00238c.jpg",
+        "https://telegra.ph/file/bc19b699d1a0ed765dce1.jpg",
+        "https://telegra.ph/file/2ffc546803d8381db5a83.jpg",
+        "https://telegra.ph/file/c17768f38ce4db3df9308.jpg",
+        "https://telegra.ph/file/9064ed1adc78ed05552a7.jpg",
+        "https://telegra.ph/file/30014fddc77fd785d94f9.jpg",
+        "https://telegra.ph/file/65d00bec11076641007ac.jpg",
+        "https://telegra.ph/file/37f958181072142dee2a9.jpg",
+        "https://telegra.ph/file/b64f7f2d5a501615620a3.jpg",
+        "https://telegra.ph/file/5b9c4a8ee8bf3b9a40ce2.jpg",
+        "https://telegra.ph/file/a2839ba04780568e32429.jpg",
+        "https://telegra.ph/file/7ec440de46e93a1711789.jpg",
+        "https://telegra.ph/file/fd313bc873d64d3d01ed3.jpg",
+        "https://telegra.ph/file/ff8ac2c17c72af3ae38e7.jpg",
+        "https://telegra.ph/file/c0ee207fce13736319b5f.jpg",
+        "https://telegra.ph/file/2bccbd3e4068f2ad9bd88.jpg",
+        "https://telegra.ph/file/00c2370025940cde5fb98.jpg",
+        "https://telegra.ph/file/5466548b89bd78369a889.jpg",
+        "https://telegra.ph/file/df93f99de7e89d19a7bc5.jpg",
+        "https://telegra.ph/file/12d79ab90ae4b494623d8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15221,
+    "title": "(C90) [しもやけ堂 (逢魔刻壱)] 甘い純潔 (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/C90-しもやけ堂-逢魔刻壱-甘い純潔-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/c184a8d11766f09007ba0.jpg",
+        "https://telegra.ph/file/89ca26f199c0268045bdb.jpg",
+        "https://telegra.ph/file/640ad275fbf644ce46b08.jpg",
+        "https://telegra.ph/file/3c01781ee2d2c6366bd07.jpg",
+        "https://telegra.ph/file/0bd369577548533c5df83.jpg",
+        "https://telegra.ph/file/772ca8bf907f353ea4918.jpg",
+        "https://telegra.ph/file/4792e438cd41651eacab2.jpg",
+        "https://telegra.ph/file/705c5ada60577e71c8ed0.jpg",
+        "https://telegra.ph/file/1cfc8dbf770e1bbfea1fc.jpg",
+        "https://telegra.ph/file/143b37720d3ecc7c5e9ec.jpg",
+        "https://telegra.ph/file/79ce17d3363d03d152d37.jpg",
+        "https://telegra.ph/file/1e3733a8d3f87620027c8.jpg",
+        "https://telegra.ph/file/b3fbfae2a166133911bba.jpg",
+        "https://telegra.ph/file/cd4ea95274b6b01038c4d.jpg",
+        "https://telegra.ph/file/5c1fac292103ea8b701d8.jpg",
+        "https://telegra.ph/file/d4b53456b45e6da6d966d.jpg",
+        "https://telegra.ph/file/f3b198290794a19878157.jpg",
+        "https://telegra.ph/file/57198c850b563dd10f9eb.jpg",
+        "https://telegra.ph/file/dc961f8fdf3f130dbceb2.jpg",
+        "https://telegra.ph/file/049fca34ffafa58b836eb.jpg",
+        "https://telegra.ph/file/85d3e6be653f51e0cd044.jpg",
+        "https://telegra.ph/file/c3b00986eaad0acddad8f.jpg",
+        "https://telegra.ph/file/7b1e95197f520b45c6db3.jpg",
+        "https://telegra.ph/file/8f7123a2bc5923725cc57.jpg",
+        "https://telegra.ph/file/a8b2e1ce97b70ece9e548.jpg",
+        "https://telegra.ph/file/a700dc5091bbe5d8b6f40.jpg",
+        "https://telegra.ph/file/8118184af80fdfc038160.jpg",
+        "https://telegra.ph/file/4e03fabe9527e73d6e24b.jpg",
+        "https://telegra.ph/file/0c25bf5966fd1272df23e.jpg",
+        "https://telegra.ph/file/66af070e27a5801eacffb.jpg",
+        "https://telegra.ph/file/01cc2e1838f433cca79b6.jpg",
+        "https://telegra.ph/file/b1ef56475f92cfc69559c.jpg",
+        "https://telegra.ph/file/36e01ffb19df48a1a19bc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

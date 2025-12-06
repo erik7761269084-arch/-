@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16361,
+    "title": "(僕らのラブライブ! 16) [Do well !!! (ながれぼし)] ご注文はエンドロールのあとに (ラブライブ!、ラブライブ! サンシャイン!!) -Preview",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-16-Do-well--ながれぼし-ご注文はエンドロールのあとに-ラブライブラブライブ-サンシャイン--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/000000011.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000001.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000002.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000003.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000004.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000005.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000006.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000007.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000008.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000009.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000010.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000011.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000012.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000013.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000014.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000015.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000016.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000017.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000018.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000019.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000020.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000021.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000022.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000023.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000024.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000025.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000026.png",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000027_.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000028.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000029.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000030.jpg",
+        "https://i2.linghua.xyz/ex/3107654/de0159ccb4/00000031.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

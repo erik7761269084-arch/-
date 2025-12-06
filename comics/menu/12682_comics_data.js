@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12682,
+    "title": "(C97) [ACID EATERS (和馬村政)] えれな先輩の災難 (スター☆トゥインクルプリキュア)",
+    "sourceUrl": "https://telegra.ph/C97-ACID-EATERS-和馬村政-えれな先輩の災難-スタートゥインクルプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/92f9df7c39a6bf144ec99.jpg",
+        "https://telegra.ph/file/372e3184d1b3df8b4f086.jpg",
+        "https://telegra.ph/file/d43f4840bd6e50c2fcbe3.jpg",
+        "https://telegra.ph/file/d8d7adee5f01f810ba0c7.jpg",
+        "https://telegra.ph/file/8dddeae06f49beb57996f.jpg",
+        "https://telegra.ph/file/120f55ba01856f4eb7aed.jpg",
+        "https://telegra.ph/file/f811f84e31c30fbecd837.jpg",
+        "https://telegra.ph/file/33c26980ed9767fc8183d.jpg",
+        "https://telegra.ph/file/da81f85bbc9662b2ad057.jpg",
+        "https://telegra.ph/file/ff01e0a71033efe12e987.jpg",
+        "https://telegra.ph/file/1fcc85327533e990111a2.jpg",
+        "https://telegra.ph/file/66344e6283ecd4bffdfbb.jpg",
+        "https://telegra.ph/file/67d8b3fae7424ab1cb22f.jpg",
+        "https://telegra.ph/file/a3dc6044a238b4802a64e.jpg",
+        "https://telegra.ph/file/0a63563cec013f9498824.jpg",
+        "https://telegra.ph/file/90a6a463c15379432951e.jpg",
+        "https://telegra.ph/file/f791567686bfb8ccfbf86.jpg",
+        "https://telegra.ph/file/9c54f5bbcf02aa6d3fe41.jpg",
+        "https://telegra.ph/file/c08d0dda967557d4fa9f2.jpg",
+        "https://telegra.ph/file/4cac3d0a5a7818416d875.jpg",
+        "https://telegra.ph/file/8bd563c31a68a0a20e22b.jpg",
+        "https://telegra.ph/file/35775fe77142a9d3fdc7e.jpg",
+        "https://telegra.ph/file/54f2571d71e7442346ef6.jpg",
+        "https://telegra.ph/file/e4c641d8ca79e89fcca67.jpg",
+        "https://telegra.ph/file/ed6af08719fe503f0e4a8.jpg",
+        "https://telegra.ph/file/ed7b7e6e7ad6dfb6d93e2.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/d3309564c894ab06c9c77.jpg",
+        "https://telegra.ph/file/399d7f27d7991ef78a412.jpg",
+        "https://telegra.ph/file/27fb2da798879a5ef7fc0.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

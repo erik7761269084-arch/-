@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16029,
+    "title": "[Black lacquer (黒漆)] そこまでやります? (栗駒こまる、春雨麗女)  -Preview",
+    "sourceUrl": "https://telegra.ph/Black-lacquer-黒漆-そこまでやります-栗駒こまる春雨麗女--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/ff7926820b1df4eb6b5f5.jpg",
+        "https://telegra.ph/file/6e25c2c2f6dcc35b2d988.jpg",
+        "https://telegra.ph/file/265e80d91364416007449.png",
+        "https://telegra.ph/file/592294b13043135c4050e.jpg",
+        "https://telegra.ph/file/3b420058dec0f6a597a87.jpg",
+        "https://telegra.ph/file/872f4bf05faf44a630d6a.jpg",
+        "https://telegra.ph/file/b1868fccd8de201977764.jpg",
+        "https://telegra.ph/file/08e3cbf0b0c3ffb86958d.jpg",
+        "https://telegra.ph/file/909c2b7440993256c22d6.jpg",
+        "https://telegra.ph/file/48d99f97acb74b49a0994.jpg",
+        "https://telegra.ph/file/cc47c41d01efe374578bf.jpg",
+        "https://telegra.ph/file/498230e737f3fb488adf8.jpg",
+        "https://telegra.ph/file/e115a8fc3b382ebca285b.jpg",
+        "https://telegra.ph/file/d88f0a48b05af1ede5141.jpg",
+        "https://telegra.ph/file/d9e028bc3fea0685eedc8.jpg",
+        "https://telegra.ph/file/7faa89006e55b17886194.jpg",
+        "https://telegra.ph/file/c310f7517285c19952976.jpg",
+        "https://telegra.ph/file/932001bd5e897d132d96d.jpg",
+        "https://telegra.ph/file/1104149c061ad84527ff2.jpg",
+        "https://telegra.ph/file/2e70a20db51ace204c1d2.jpg",
+        "https://telegra.ph/file/32522cf27839a9ed8ec94.jpg",
+        "https://telegra.ph/file/dced9b88e1b6122625a95.jpg",
+        "https://telegra.ph/file/98c3156c27cb3970fe5c6.jpg",
+        "https://telegra.ph/file/8b5fd832bfdfe6d9f4079.jpg",
+        "https://telegra.ph/file/53f62261a07c10d5d68da.jpg",
+        "https://telegra.ph/file/d0d290fb75f9262a9e5eb.jpg",
+        "https://telegra.ph/file/0c8382ff88b34b1e1c4ca.jpg",
+        "https://telegra.ph/file/86532ab1d13590cc8a918.jpg",
+        "https://telegra.ph/file/65a8611e72761d27c1530.png",
+        "https://telegra.ph/file/b41a3dad77aed6139511f.jpg",
+        "https://telegra.ph/file/75fc4b5011b4ea10043a7.jpg",
+        "https://telegra.ph/file/bd8d0e15625a9e4db77c9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

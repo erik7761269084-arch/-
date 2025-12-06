@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11143,
+    "title": "[猫八営業部 (猫サム雷)] とりかえっ妹～水城ノア編～",
+    "sourceUrl": "https://telegra.ph/猫八営業部-猫サム雷-とりかえっ妹水城ノア編-08-31",
+    "images": [
+        "https://telegra.ph/file/d1b6bfc62ca553b7695de.jpg",
+        "https://telegra.ph/file/cd6325ff68229f29f8e0a.jpg",
+        "https://telegra.ph/file/3a7d82c365f455c1c0140.jpg",
+        "https://telegra.ph/file/4d0cf21a5493692895a87.jpg",
+        "https://telegra.ph/file/f028187f55cc7cff01a59.jpg",
+        "https://telegra.ph/file/e7b1c8e329506552b5e1b.jpg",
+        "https://telegra.ph/file/3595c2a8a0d3ee94f31cb.jpg",
+        "https://telegra.ph/file/9a03085f098b2e8b323a2.jpg",
+        "https://telegra.ph/file/b387e31ef487674004d43.jpg",
+        "https://telegra.ph/file/5596ef10d4179ae4608ad.jpg",
+        "https://telegra.ph/file/ba536105cb900ecf0388d.jpg",
+        "https://telegra.ph/file/d9c05c7f01a549a8c0e0c.jpg",
+        "https://telegra.ph/file/eb9617da6e9508f399051.jpg",
+        "https://telegra.ph/file/c16055acd85635c633881.jpg",
+        "https://telegra.ph/file/450c78eb1ff518e503512.jpg",
+        "https://telegra.ph/file/aec4dc060a98146ba17b6.jpg",
+        "https://telegra.ph/file/bb4df5216ca88f255b392.jpg",
+        "https://telegra.ph/file/72b9716e48cde3ac5baad.jpg",
+        "https://telegra.ph/file/5463ae4654654fe8bcbff.jpg",
+        "https://telegra.ph/file/32cf9b8a1c9a901da8083.jpg",
+        "https://telegra.ph/file/3c739fcf5952636b8c4b2.jpg",
+        "https://telegra.ph/file/995abf9082d968da5fbba.jpg",
+        "https://telegra.ph/file/7dc6492395d42a1dc7438.jpg",
+        "https://telegra.ph/file/db9fe7fdf8c0edadaadaa.jpg",
+        "https://telegra.ph/file/e23046e910c1506982d5a.jpg",
+        "https://telegra.ph/file/0d97fe73a0faff4eb14ec.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

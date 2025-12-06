@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15911,
+    "title": "(コミックマーケット86) [むしやき!!(上林眞)] キミイロ -Preview",
+    "sourceUrl": "https://telegra.ph/コミックマーケット86-むしやき上林眞-キミイロ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/3ad022d3490dc020e26ed.jpg",
+        "https://telegra.ph/file/c498d6fb80b6877cb7a12.jpg",
+        "https://telegra.ph/file/6306aef8fe5fd297b65d4.jpg",
+        "https://telegra.ph/file/ed779ee54021df1525ba4.jpg",
+        "https://telegra.ph/file/c07ea81a30683951558d6.jpg",
+        "https://telegra.ph/file/3a50e4f6057fbd46f2a55.jpg",
+        "https://telegra.ph/file/41984796622e582daf00e.jpg",
+        "https://telegra.ph/file/2d3b9d2f8efcb4c6ca9f6.jpg",
+        "https://telegra.ph/file/ca1bf745299129408230f.jpg",
+        "https://telegra.ph/file/d7b8de1c79d08634e49b5.jpg",
+        "https://telegra.ph/file/785de94478a143897fa10.jpg",
+        "https://telegra.ph/file/aad040288f08fc0ca67be.jpg",
+        "https://telegra.ph/file/d0376e886178a33ab19f4.jpg",
+        "https://telegra.ph/file/9679ec4d0d482dc5117b6.jpg",
+        "https://telegra.ph/file/e770cdd1cfe858500182c.jpg",
+        "https://telegra.ph/file/88840fc42f320c73dc3fe.jpg",
+        "https://telegra.ph/file/f036b8ba223f87dd76ab3.jpg",
+        "https://telegra.ph/file/12b4a90dbf4b4a4418715.jpg",
+        "https://telegra.ph/file/338e009780610cf301cb2.jpg",
+        "https://telegra.ph/file/5191a96104a6da06b3f95.jpg",
+        "https://telegra.ph/file/a9715d71647df61e9f81d.jpg",
+        "https://telegra.ph/file/7cf5cde893d6d95541b4c.jpg",
+        "https://telegra.ph/file/4b0e0ac3dac9970f43d13.jpg",
+        "https://telegra.ph/file/2f849b15e1037c3610372.jpg",
+        "https://telegra.ph/file/4909fd7cf7385aec0c894.jpg",
+        "https://telegra.ph/file/00ad9e09817e472b71c1e.jpg",
+        "https://telegra.ph/file/87760a1b59247862edfa2.jpg",
+        "https://telegra.ph/file/ec7e6ea43b1ee957e64ee.jpg",
+        "https://telegra.ph/file/3cf76573e8655f85378f3.jpg",
+        "https://telegra.ph/file/76583b307b54a1fcb6d00.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

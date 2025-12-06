@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13424,
+    "title": "[テラスMC] 水着武蔵に貢がされた上に黒人デカチンポNTR動画でメイヴにチンポしばかれる漫画＋その他 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/テラスMC-水着武蔵に貢がされた上に黒人デカチンポNTR動画でメイヴにチンポしばかれる漫画その他-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/665038ffe8f4c99f5c307.jpg",
+        "https://telegra.ph/file/1152d4e453275e625a7a6.jpg",
+        "https://telegra.ph/file/868e67c9f161b8524cc1f.jpg",
+        "https://telegra.ph/file/1a359dc4a1a73060c6a70.jpg",
+        "https://telegra.ph/file/88263511a16015fa9c84d.jpg",
+        "https://telegra.ph/file/64da3ca0ac7fc28b9b913.jpg",
+        "https://telegra.ph/file/de5617f76f2b2905b701b.jpg",
+        "https://telegra.ph/file/173c83de02e5e38f0cf9e.jpg",
+        "https://telegra.ph/file/3b90e9f09b9dc6b70405e.jpg",
+        "https://telegra.ph/file/e1ce07db0390cb1d0f46f.jpg",
+        "https://telegra.ph/file/5e6a1bddb3bc9472e5a08.jpg",
+        "https://telegra.ph/file/d240335c88140605ed026.jpg",
+        "https://telegra.ph/file/3f3085238e84afe9169c1.jpg",
+        "https://telegra.ph/file/4593182bc5a31342fb7aa.jpg",
+        "https://telegra.ph/file/9803ebef36a51fd3c7eba.jpg",
+        "https://telegra.ph/file/6254a33e62067624db874.jpg",
+        "https://telegra.ph/file/10ff48e0dda953c42f6bb.jpg",
+        "https://telegra.ph/file/bf7ae14eca9105d380f0e.jpg",
+        "https://telegra.ph/file/e6f7c1ecd25250ab6e66e.jpg",
+        "https://telegra.ph/file/a12c2aefa320bd2340d54.jpg",
+        "https://telegra.ph/file/66aac3d184c9d79794a86.jpg",
+        "https://telegra.ph/file/8258f16a72bd79d6c3223.jpg",
+        "https://telegra.ph/file/87d7215fd096f33988c67.jpg",
+        "https://telegra.ph/file/ffa0c5c9ab1012b2ddf65.jpg",
+        "https://telegra.ph/file/1465c833d68a0697956a3.jpg",
+        "https://telegra.ph/file/337c44fd1468af08acc0d.jpg",
+        "https://telegra.ph/file/d2277fa0ebbf4b49c78f2.jpg",
+        "https://telegra.ph/file/ca3b14a54026b1c69eb1d.jpg",
+        "https://telegra.ph/file/493729f9471804a115c11.jpg",
+        "https://telegra.ph/file/7b5674bfad42e15fab5f1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

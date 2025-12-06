@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13831,
+    "title": "[なしぱすた] 彼女がメスになった日 (コミック エグゼ 30)",
+    "sourceUrl": "https://telegra.ph/なしぱすた-彼女がメスになった日-コミック-エグゼ-30-08-31",
+    "images": [
+        "https://telegra.ph/file/e13a61042f1d23203fd3c.jpg",
+        "https://telegra.ph/file/c46ed26a907db427c790e.jpg",
+        "https://telegra.ph/file/e13e0474cbb77a7a27878.jpg",
+        "https://telegra.ph/file/bc949f659773fd22e3019.jpg",
+        "https://telegra.ph/file/cefb5593582f097611e93.jpg",
+        "https://telegra.ph/file/e95b0560c7d50f5577b52.jpg",
+        "https://telegra.ph/file/003cc891030d11fd93bb3.jpg",
+        "https://telegra.ph/file/4d76288a076888baf6b6f.jpg",
+        "https://telegra.ph/file/470f87f405277ce92f5ec.jpg",
+        "https://telegra.ph/file/22361b03dc871b83bebf1.jpg",
+        "https://telegra.ph/file/7f53cd21853ca04995651.jpg",
+        "https://telegra.ph/file/4b158ec7f07c90ee4ba3b.jpg",
+        "https://telegra.ph/file/a55efb9d9379e789c7e7e.jpg",
+        "https://telegra.ph/file/82c49df86886a710b1fc1.jpg",
+        "https://telegra.ph/file/29f3693039a235e80d902.jpg",
+        "https://telegra.ph/file/be75ac3b8cd33a1a823b9.jpg",
+        "https://telegra.ph/file/c4bb597b84e7da7697fce.jpg",
+        "https://telegra.ph/file/5bb85d0d55153c0dd926f.jpg",
+        "https://telegra.ph/file/805eec13d5146edfea1f1.jpg",
+        "https://telegra.ph/file/632ec6929565d63233f00.jpg",
+        "https://telegra.ph/file/0a96d45349774c340f4b7.jpg",
+        "https://telegra.ph/file/6d9b913b0b4f4af3f44af.jpg",
+        "https://telegra.ph/file/b575f7e5452d880d50300.jpg",
+        "https://telegra.ph/file/dcb86198452e6896a145d.jpg",
+        "https://telegra.ph/file/7d9eff5d28b0f1c627f4f.jpg",
+        "https://telegra.ph/file/e20f1c858f9232b4db3d7.jpg",
+        "https://telegra.ph/file/cf1d9a5d87c3000874e31.jpg",
+        "https://telegra.ph/file/28dd7e9cd72beef11edd7.jpg",
+        "https://telegra.ph/file/7bd152f088c5701714580.jpg",
+        "https://telegra.ph/file/d899de2a065532ed684a9.jpg",
+        "https://telegra.ph/file/74a8588078d040e4c7211.jpg",
+        "https://telegra.ph/file/38f8216c494d519cb0901.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9613,
+    "title": "[似せ] 恋する恋ちゃんと先生のイケない関係⁉ (COMIC アオハ 2020 秋)",
+    "sourceUrl": "https://telegra.ph/似せ-恋する恋ちゃんと先生のイケない関係-COMIC-アオハ-2020-秋-08-31",
+    "images": [
+        "https://telegra.ph/file/b9b8ba947343cd76d2f34.jpg",
+        "https://telegra.ph/file/a74587df7e119018df937.jpg",
+        "https://telegra.ph/file/7449c3cb851703ad2cefa.jpg",
+        "https://telegra.ph/file/8ccb09f170aecf4bfa3fd.jpg",
+        "https://telegra.ph/file/85bfe4caba8ff0f747a3b.jpg",
+        "https://telegra.ph/file/46fd9b1e0ea8cca441b7f.jpg",
+        "https://telegra.ph/file/63feb61070a32d4a25a1f.jpg",
+        "https://telegra.ph/file/bec8e43234d3d54398032.jpg",
+        "https://telegra.ph/file/8ed6bc33cc6579a876ab8.jpg",
+        "https://telegra.ph/file/07b80263553390387133c.jpg",
+        "https://telegra.ph/file/1b1763718c42301c51d89.jpg",
+        "https://telegra.ph/file/7cfe2def53f28a2740c5e.jpg",
+        "https://telegra.ph/file/963b0c6363489353b660f.jpg",
+        "https://telegra.ph/file/7c2e6a8a512cbfb85fef9.jpg",
+        "https://telegra.ph/file/e760ea65221d132ecda85.jpg",
+        "https://telegra.ph/file/d3926c71c660771e58cb0.jpg",
+        "https://telegra.ph/file/af86104a8f98811807888.jpg",
+        "https://telegra.ph/file/4641fd4848763a605f690.jpg",
+        "https://telegra.ph/file/a50c830efc33ad495ec2f.jpg",
+        "https://telegra.ph/file/a5f3b6e1ea8eb3660e8d1.jpg",
+        "https://telegra.ph/file/5d411e0cdf7af50e50711.jpg",
+        "https://telegra.ph/file/fc6a1d224af8955479533.jpg",
+        "https://telegra.ph/file/0f209b177e07c4efd0228.jpg",
+        "https://telegra.ph/file/e7436746bf5bce73fdda9.jpg",
+        "https://telegra.ph/file/18094eb99f4b48c2cf22a.jpg",
+        "https://telegra.ph/file/d43e5b1e5a1f9b22f085c.jpg",
+        "https://telegra.ph/file/7b101c47100e1654b6e62.jpg",
+        "https://telegra.ph/file/ecd61d68e1abf3878e8f0.jpg",
+        "https://telegra.ph/file/0359836b7b822b2797ba4.jpg",
+        "https://telegra.ph/file/ac4478feffa1359773e9b.jpg",
+        "https://telegra.ph/file/60cfd295d7935ada4f5a0.jpg",
+        "https://telegra.ph/file/2d6132ec30fbe440d7dab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

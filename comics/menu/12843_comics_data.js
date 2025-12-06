@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12843,
+    "title": "[アジサイデンデン (川上六角)] 清霜とおしりでバカンスしよ! (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/アジサイデンデン-川上六角-清霜とおしりでバカンスしよ-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/c175280f20efcb8f7aa73.jpg",
+        "https://telegra.ph/file/4634e5c37050c58a35083.jpg",
+        "https://telegra.ph/file/ef0493bbd8bbcffc0667b.jpg",
+        "https://telegra.ph/file/b4107882980958b36e72a.jpg",
+        "https://telegra.ph/file/b564583d0602a89c4ca16.jpg",
+        "https://telegra.ph/file/cbc84d4ee1d6d5fdc81d2.jpg",
+        "https://telegra.ph/file/28d155fff85863aaf7223.jpg",
+        "https://telegra.ph/file/92a9ac5dceaec48ad06c3.jpg",
+        "https://telegra.ph/file/881cd2682c756a124a7aa.jpg",
+        "https://telegra.ph/file/7b56cc5fe66fe23f28ce5.jpg",
+        "https://telegra.ph/file/8907bcc1656a4bd62b1f9.jpg",
+        "https://telegra.ph/file/0a072ffdb8e0fe4dc46c3.jpg",
+        "https://telegra.ph/file/e46dacf35ce85b41ce0fd.jpg",
+        "https://telegra.ph/file/06600bba201a1f7d80c7b.jpg",
+        "https://telegra.ph/file/2cd81b151cf08c0c1126d.jpg",
+        "https://telegra.ph/file/cf48f8ebcbf269a78a313.jpg",
+        "https://telegra.ph/file/f964c8239d8f4019e1ca9.jpg",
+        "https://telegra.ph/file/222de8e18a2573afd7720.jpg",
+        "https://telegra.ph/file/16f7bf0e74f2bc7013ce7.jpg",
+        "https://telegra.ph/file/a2fd5c2351045a6d79ae9.jpg",
+        "https://telegra.ph/file/42b7c5a15be8f056952cd.jpg",
+        "https://telegra.ph/file/c05d0155e68878d087223.jpg",
+        "https://telegra.ph/file/4b428aac245bd48c623ea.jpg",
+        "https://telegra.ph/file/5b775043c135ce17ca595.jpg",
+        "https://telegra.ph/file/36a6a459bfe5ca3c81378.jpg",
+        "https://telegra.ph/file/a94c455cd513d75969d2a.jpg",
+        "https://telegra.ph/file/9ad561f37b9a30a8b9ddd.jpg",
+        "https://telegra.ph/file/d793acbb8b1fe9906c918.jpg",
+        "https://telegra.ph/file/5a9948018b0c8f0be83ad.jpg",
+        "https://telegra.ph/file/dd88aaba5e8e041ad3ebb.jpg",
+        "https://telegra.ph/file/c9e0e8f2ac467b3944345.jpg",
+        "https://telegra.ph/file/9109b02447eac52c10941.jpg",
+        "https://telegra.ph/file/b8ef99963e35d790546e8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

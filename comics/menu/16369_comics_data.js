@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 16369,
+    "title": "(C102) [型K式 (カタケイ)] 極めて危険な恋のくすり (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/C102-型K式-カタケイ-極めて危険な恋のくすり-東方Project--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/001.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/002.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/003.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/004.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/005.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/006.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/007.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/008.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/009.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/010.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/011.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/012.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/013.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/014.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/015.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/016.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/017.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/018.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/019.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/020.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/021.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/022.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/023.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/024.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/025.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/026.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/027.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/028.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/029.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/030.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/031.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/032.webp",
+        "https://i2.linghua.xyz/ex/3114082/6ebc0ef400/STAFF.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

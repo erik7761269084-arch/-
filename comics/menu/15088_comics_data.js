@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15088,
+    "title": "[スイートピー、COCOA BREAK (大島智、大島永遠)] とろける女子湯",
+    "sourceUrl": "https://telegra.ph/スイートピーCOCOA-BREAK-大島智大島永遠-とろける女子湯-08-31",
+    "images": [
+        "https://telegra.ph/file/9958ba8a2a8baa6a3a7d7.jpg",
+        "https://telegra.ph/file/20b473fff638a09a0246e.jpg",
+        "https://telegra.ph/file/7ae09264a6337c87a7205.jpg",
+        "https://telegra.ph/file/9cb9c7c9d0857f38f169e.jpg",
+        "https://telegra.ph/file/4ae4ba19efb80ec034099.jpg",
+        "https://telegra.ph/file/38043d53b2e775a5e2f33.jpg",
+        "https://telegra.ph/file/33d96464b422f51a28b49.jpg",
+        "https://telegra.ph/file/b26a37a5792e36d2ae6ee.jpg",
+        "https://telegra.ph/file/9c868a1ecc6e08ba206bf.jpg",
+        "https://telegra.ph/file/d58028e9646f9f5bc726d.jpg",
+        "https://telegra.ph/file/b2bd8056f030268e073f3.jpg",
+        "https://telegra.ph/file/cc70c897b97233c53d059.jpg",
+        "https://telegra.ph/file/f47c85895072587b0779f.jpg",
+        "https://telegra.ph/file/f621bc7ecf93444555830.jpg",
+        "https://telegra.ph/file/1fcb673d3ab785047b2b9.jpg",
+        "https://telegra.ph/file/11da736aadc38959f4489.jpg",
+        "https://telegra.ph/file/487f1f590947d903ff2ff.jpg",
+        "https://telegra.ph/file/d600151960a1ac9b229f9.jpg",
+        "https://telegra.ph/file/f1046490dabb2ac2b0c31.jpg",
+        "https://telegra.ph/file/eb0674cc58b9126325577.jpg",
+        "https://telegra.ph/file/c4acae92d8f41930d9b86.jpg",
+        "https://telegra.ph/file/182196460330297e44ea1.jpg",
+        "https://telegra.ph/file/16300b614a5dd740ee8d9.jpg",
+        "https://telegra.ph/file/15fe7c6299dc038176eb3.jpg",
+        "https://telegra.ph/file/425ad0b851ec17d3b95a3.jpg",
+        "https://telegra.ph/file/6e866c4d6586cb0f2d102.jpg",
+        "https://telegra.ph/file/916276ca8399f93d4de77.jpg",
+        "https://telegra.ph/file/bd32a1821ef6803d79164.jpg",
+        "https://telegra.ph/file/3e1ff0f69e55200566df5.jpg",
+        "https://telegra.ph/file/54baab13faea2e38ecdad.jpg",
+        "https://telegra.ph/file/10179cf701275948ac1f0.jpg",
+        "https://telegra.ph/file/8f6081b6866e2374ba3d4.jpg",
+        "https://telegra.ph/file/a59d2f73bf72750e824a5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

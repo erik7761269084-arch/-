@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10800,
+    "title": "(C92) [BLUE GARNET (芹沢克己)] 捕まえた牝畜達と交尾して孕ませたい (キラキラ☆プリキュアアラモード)",
+    "sourceUrl": "https://telegra.ph/C92-BLUE-GARNET-芹沢克己-捕まえた牝畜達と交尾して孕ませたい-キラキラプリキュアアラモード-08-31",
+    "images": [
+        "https://telegra.ph/file/cdb7cb2990f6044c4eb9c.jpg",
+        "https://telegra.ph/file/9849965d81698e0b14965.jpg",
+        "https://telegra.ph/file/683a8d3109023759929f8.jpg",
+        "https://telegra.ph/file/92901dfe5a7ee819fdf7d.jpg",
+        "https://telegra.ph/file/9179d42b7770f4149aad4.jpg",
+        "https://telegra.ph/file/6549be0ebe04deadef041.jpg",
+        "https://telegra.ph/file/67a30579244d043d50f05.jpg",
+        "https://telegra.ph/file/6273a630532847531bc46.jpg",
+        "https://telegra.ph/file/4cb9c730799ad921c3865.jpg",
+        "https://telegra.ph/file/9acb2ab35996f2c596928.jpg",
+        "https://telegra.ph/file/fdd5f83e48bbf166ebb35.jpg",
+        "https://telegra.ph/file/4a649c6979f5a32958b14.jpg",
+        "https://telegra.ph/file/16c45fc47693954fc64ca.jpg",
+        "https://telegra.ph/file/b061fb407f7e06d612c2a.jpg",
+        "https://telegra.ph/file/0c46f1ceccd7eec25b349.jpg",
+        "https://telegra.ph/file/f2e5190404e36cbb1f967.jpg",
+        "https://telegra.ph/file/ff0253899d7f9e34f68c6.jpg",
+        "https://telegra.ph/file/89128fd95abf1244aeabc.jpg",
+        "https://telegra.ph/file/24ec9cc1091dd3dd083cf.jpg",
+        "https://telegra.ph/file/5b62b1daf2b0f6ef803e7.jpg",
+        "https://telegra.ph/file/d92c086f51667427532f4.jpg",
+        "https://telegra.ph/file/06c232476120afc8b0a8d.jpg",
+        "https://telegra.ph/file/a4a99671cbf01ddde192e.jpg",
+        "https://telegra.ph/file/20ba339e1d6c695f8365a.jpg",
+        "https://telegra.ph/file/2e11fd6601365ab64dcd4.jpg",
+        "https://telegra.ph/file/d641b5ef8f914a75930c3.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

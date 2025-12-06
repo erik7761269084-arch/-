@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9578,
+    "title": "[ジンギスカンの玉葱は俺の嫁 (谷口さん)] 君-ジャンヌ・ダルク-になる 2.0 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ジンギスカンの玉葱は俺の嫁-谷口さん-君-ジャンヌダルク-になる-20-FateGrand-Order-08-31-2",
+    "images": [
+        "https://telegra.ph/file/fd38a29c351e49ea92b1e.jpg",
+        "https://telegra.ph/file/b0fc94a18bc8bcb07fbad.jpg",
+        "https://telegra.ph/file/c7b21ec93c3dad8a60133.jpg",
+        "https://telegra.ph/file/0b2fabb52263f4d234962.jpg",
+        "https://telegra.ph/file/46008cd21345c03969f86.jpg",
+        "https://telegra.ph/file/556c7ad424d25662ea726.jpg",
+        "https://telegra.ph/file/ee68801f24d36fa614fd9.jpg",
+        "https://telegra.ph/file/07698cb6e7112969f2c27.jpg",
+        "https://telegra.ph/file/03094d00dea9568609428.jpg",
+        "https://telegra.ph/file/a1cb826c8f1ae4dec0ba5.jpg",
+        "https://telegra.ph/file/8974587daac8c7fc764e5.jpg",
+        "https://telegra.ph/file/f16aff389ea9b12c20911.jpg",
+        "https://telegra.ph/file/244e89eb84f25d46dc68b.jpg",
+        "https://telegra.ph/file/5e8796f83285ff8956ce1.jpg",
+        "https://telegra.ph/file/9aafa9ec3128d06da2ce2.jpg",
+        "https://telegra.ph/file/ae663a22bb68928e6cb38.jpg",
+        "https://telegra.ph/file/a95f20fc5d27528258cf2.jpg",
+        "https://telegra.ph/file/e34be385beab44227675c.jpg",
+        "https://telegra.ph/file/b30435b28fcb33130d119.jpg",
+        "https://telegra.ph/file/88e676c3dae52dd39e083.jpg",
+        "https://telegra.ph/file/0a78148bafd6387079a81.jpg",
+        "https://telegra.ph/file/5bfe765f224b026ea736c.jpg",
+        "https://telegra.ph/file/223ed69fb51ed8d6e26fd.jpg",
+        "https://telegra.ph/file/2f8b7664e736742fabf43.jpg",
+        "https://telegra.ph/file/8f3f199b806602b3e939e.jpg",
+        "https://telegra.ph/file/838d923f57c9c6685d17b.jpg",
+        "https://telegra.ph/file/7c9ad1712fe3fc108f2a7.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/bc8516605e1025fae339e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

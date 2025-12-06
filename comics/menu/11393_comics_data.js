@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11393,
+    "title": "[からあげ市場 (あぶり)] 気分転姦 (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/からあげ市場-あぶり-気分転姦-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/d0cc1b3bba8542722dbe0.jpg",
+        "https://telegra.ph/file/bdddf20e54bb87b275a24.jpg",
+        "https://telegra.ph/file/1fa854fde73b0834ab6c7.jpg",
+        "https://telegra.ph/file/28fe0d5feda7b33389d4f.jpg",
+        "https://telegra.ph/file/ce484cb9cc7ee8b95625f.jpg",
+        "https://telegra.ph/file/ff1ccbc09f15c7b524e67.jpg",
+        "https://telegra.ph/file/6e938b2f24c68998f6ccd.jpg",
+        "https://telegra.ph/file/aad20291b6f94f728a1b1.jpg",
+        "https://telegra.ph/file/59e0fb486c2879ec2fa02.jpg",
+        "https://telegra.ph/file/3b9928061e4b85157a7eb.jpg",
+        "https://telegra.ph/file/5c34ae218f17f4d849d97.jpg",
+        "https://telegra.ph/file/33361f332b8e374b41cec.jpg",
+        "https://telegra.ph/file/0e47654f81bc8498c4717.jpg",
+        "https://telegra.ph/file/e2da4ff29fb4e540d6e44.jpg",
+        "https://telegra.ph/file/bbe16ad9999f768cc1142.jpg",
+        "https://telegra.ph/file/abed4da36fd06db39f32f.jpg",
+        "https://telegra.ph/file/8a128a7ba8954ebf03f2b.jpg",
+        "https://telegra.ph/file/a45aff25c0e9584000f67.jpg",
+        "https://telegra.ph/file/47bc5feccecd43523e184.jpg",
+        "https://telegra.ph/file/64d4a0d2bf9cd5e987dd7.jpg",
+        "https://telegra.ph/file/47675778957fff7d5ad7c.jpg",
+        "https://telegra.ph/file/df6a2341d9aa08b2af58d.jpg",
+        "https://telegra.ph/file/46d51916da359f7c34f5e.jpg",
+        "https://telegra.ph/file/b0286995e20d619d3f415.jpg",
+        "https://telegra.ph/file/ae27f777cb623daba9941.jpg",
+        "https://telegra.ph/file/22123c27a06d03542b63b.jpg",
+        "https://telegra.ph/file/c563f630a3c8987bb2b98.jpg",
+        "https://telegra.ph/file/5a81661b7787d451a1413.jpg",
+        "https://telegra.ph/file/2579daa3b3fed8d4abf2a.jpg",
+        "https://telegra.ph/file/1296ea2a8f250033cd939.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

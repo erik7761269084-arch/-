@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10543,
+    "title": "[火愚夜] マモノノ調教 (二次元コミックマガジン 子宮ノックでポルチオ絶頂!Vol.2)",
+    "sourceUrl": "https://telegra.ph/火愚夜-マモノノ調教-二次元コミックマガジン-子宮ノックでポルチオ絶頂Vol2-08-31",
+    "images": [
+        "https://telegra.ph/file/99a5f2540cff7d29a3745.jpg",
+        "https://telegra.ph/file/ce7abcf8892f1c7bf75ca.jpg",
+        "https://telegra.ph/file/ae678aee386a8f1298b0b.jpg",
+        "https://telegra.ph/file/a9a101e3a5657a141207e.jpg",
+        "https://telegra.ph/file/fe2477619a64950505fdd.jpg",
+        "https://telegra.ph/file/00899940cc81e856f8c24.jpg",
+        "https://telegra.ph/file/a10313770ee318011a8d7.jpg",
+        "https://telegra.ph/file/65bf2b9d6e68d21bcbbbf.jpg",
+        "https://telegra.ph/file/daf1637ec9930c46c3471.jpg",
+        "https://telegra.ph/file/cb6e9eb2eceefc183b80d.jpg",
+        "https://telegra.ph/file/dc42767e39252f3071c75.jpg",
+        "https://telegra.ph/file/c6da9c76297840e06fabe.jpg",
+        "https://telegra.ph/file/2efc784c8c8ffd2eba7c5.jpg",
+        "https://telegra.ph/file/8958978ae8996840dfa3b.jpg",
+        "https://telegra.ph/file/4ceaae345d152e946185c.jpg",
+        "https://telegra.ph/file/b0eb14546de5f18f86e2a.jpg",
+        "https://telegra.ph/file/f1d3e29c078d66a21d8c7.jpg",
+        "https://telegra.ph/file/49b171c6cb7be10fd23a2.jpg",
+        "https://telegra.ph/file/c637bae1b23957a79493b.jpg",
+        "https://telegra.ph/file/5c2b9d69309723805fc23.jpg",
+        "https://telegra.ph/file/0579a1f5c54c099e89e1f.jpg",
+        "https://telegra.ph/file/32ea263c07cc7a2d19e41.jpg",
+        "https://telegra.ph/file/3f967ac9cf0baa3d5d6e2.jpg",
+        "https://telegra.ph/file/35da8bfe5fe4ab94a33b6.jpg",
+        "https://telegra.ph/file/15eb6def2a87ea601a343.jpg",
+        "https://telegra.ph/file/e65d0b871fba842275d3d.jpg",
+        "https://telegra.ph/file/991a6538f3457c0900336.jpg",
+        "https://telegra.ph/file/7d278758a7bdfed436265.jpg",
+        "https://telegra.ph/file/00fd3dc0aa29157418347.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

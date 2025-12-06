@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12771,
+    "title": "[Crazy9 (いちたか)] C9-39 Wスカサハと (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/Crazy9-いちたか-C9-39-Wスカサハと-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/31d847cf2e37cd7ab3514.jpg",
+        "https://telegra.ph/file/aa5005c269c41d6c20d98.jpg",
+        "https://telegra.ph/file/c4b1b200413090fc7ce07.jpg",
+        "https://telegra.ph/file/5fed5c14d4675796267b9.jpg",
+        "https://telegra.ph/file/d491903960eaf09dc240f.jpg",
+        "https://telegra.ph/file/d314b5b618ea77517d452.jpg",
+        "https://telegra.ph/file/23c3bf57b04649f3e04b0.jpg",
+        "https://telegra.ph/file/29f0d49c3cf2016c8608c.jpg",
+        "https://telegra.ph/file/088691cf687650fb9d362.jpg",
+        "https://telegra.ph/file/ab08c555cd246fd2543ba.jpg",
+        "https://telegra.ph/file/5f62a83972a16fdefe17d.jpg",
+        "https://telegra.ph/file/76408b1c1d28c7ff28806.jpg",
+        "https://telegra.ph/file/a6dca1113c4fadf2aa2bd.jpg",
+        "https://telegra.ph/file/b0c6b1299e38098f278e5.jpg",
+        "https://telegra.ph/file/0411fdfce631d49b9af2d.jpg",
+        "https://telegra.ph/file/9a64f99e4f8a0a39f021a.jpg",
+        "https://telegra.ph/file/cf49d2ee52a9d53f133d2.jpg",
+        "https://telegra.ph/file/f6583630b88838e73b413.jpg",
+        "https://telegra.ph/file/77654113de86c7bd45099.jpg",
+        "https://telegra.ph/file/d57372bf2724c2f493acf.jpg",
+        "https://telegra.ph/file/ed3e46e0a72a110fd90ce.jpg",
+        "https://telegra.ph/file/693758b704cae36897e10.jpg",
+        "https://telegra.ph/file/4b9d288d3b1910198dc12.jpg",
+        "https://telegra.ph/file/83bab7baecba8d3c60317.jpg",
+        "https://telegra.ph/file/711f38df3dd0ec0fb4587.jpg",
+        "https://telegra.ph/file/0f38539eda7360c2ed617.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

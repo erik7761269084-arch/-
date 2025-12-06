@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10517,
+    "title": "(COMIC1☆15) [ほっけばいん! (はるこん)] 懐かシコシコマテリアル (よろず)",
+    "sourceUrl": "https://telegra.ph/COMIC115-ほっけばいん-はるこん-懐かシコシコマテリアル-よろず-08-31",
+    "images": [
+        "https://telegra.ph/file/bd74fc3096a2022a2e8cd.jpg",
+        "https://telegra.ph/file/ce9fe4a6fda9394b83945.jpg",
+        "https://telegra.ph/file/b7fb86b0a7547afb7244b.jpg",
+        "https://telegra.ph/file/8d546e2bad07f35c911a6.jpg",
+        "https://telegra.ph/file/5b8ef13c1891a8489db02.jpg",
+        "https://telegra.ph/file/837ec4539c28d9adf08bf.jpg",
+        "https://telegra.ph/file/89ae41c36c2cc586b56df.jpg",
+        "https://telegra.ph/file/2db6cbb525a70c7046abd.jpg",
+        "https://telegra.ph/file/a0e1b003216275ceb293a.jpg",
+        "https://telegra.ph/file/f3c8dee48a916980ddcdf.jpg",
+        "https://telegra.ph/file/b15c8916f54e7eadb3f44.jpg",
+        "https://telegra.ph/file/29f38b8b6d1e938d60714.jpg",
+        "https://telegra.ph/file/540ab1253a361cd136ea2.jpg",
+        "https://telegra.ph/file/f4358751c4a5351cdbf24.jpg",
+        "https://telegra.ph/file/e3b49676fb507c07811f9.jpg",
+        "https://telegra.ph/file/d3d4adb24e0ffed325ff7.jpg",
+        "https://telegra.ph/file/2a25664f7e2a7b5816fc6.jpg",
+        "https://telegra.ph/file/575b1c73aa1cf9dda1a1b.jpg",
+        "https://telegra.ph/file/f06c4798b051532f84aac.jpg",
+        "https://telegra.ph/file/e62bdeaa8ecc9e8df3b25.jpg",
+        "https://telegra.ph/file/335b74ab68d5a1829d5fb.jpg",
+        "https://telegra.ph/file/ef3cc56386f859ce64fea.jpg",
+        "https://telegra.ph/file/031d7ed04a82de938c93d.jpg",
+        "https://telegra.ph/file/eee97c703f8d8a63891b6.jpg",
+        "https://telegra.ph/file/030087af21884fb9df729.jpg",
+        "https://telegra.ph/file/770acc0b9db957d2bfd57.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

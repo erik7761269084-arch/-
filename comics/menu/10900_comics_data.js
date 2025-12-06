@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10900,
+    "title": "[楽園屋] 刑場娼館",
+    "sourceUrl": "https://telegra.ph/楽園屋-刑場娼館-08-31",
+    "images": [
+        "https://telegra.ph/file/09e3bf83b012f5e94c193.jpg",
+        "https://telegra.ph/file/67d5d818a12af1a38b4b6.jpg",
+        "https://telegra.ph/file/3d252e36bccb508934957.jpg",
+        "https://telegra.ph/file/d82d183535cb718a6cc0f.jpg",
+        "https://telegra.ph/file/034ce49f90adc8c85d7e3.jpg",
+        "https://telegra.ph/file/5074f69e293b11e737b37.jpg",
+        "https://telegra.ph/file/07f5302996390169e580e.jpg",
+        "https://telegra.ph/file/97d6848389918e8c268f0.jpg",
+        "https://telegra.ph/file/805b76fd9c532f63c66cc.jpg",
+        "https://telegra.ph/file/6917e397037a745a2dad1.jpg",
+        "https://telegra.ph/file/8ee23430000043a118525.jpg",
+        "https://telegra.ph/file/57b517f171bf049102c93.jpg",
+        "https://telegra.ph/file/a11ca01f772fe98950412.jpg",
+        "https://telegra.ph/file/95cac3d424a8e024cb68f.jpg",
+        "https://telegra.ph/file/82f59280334ad0f475a20.jpg",
+        "https://telegra.ph/file/0a55a839b5ec1167ce8c0.jpg",
+        "https://telegra.ph/file/2e5d8ce230f4c065b1e65.jpg",
+        "https://telegra.ph/file/9e1eb686bea8dfcc83420.jpg",
+        "https://telegra.ph/file/dc418a0febc0735b52470.jpg",
+        "https://telegra.ph/file/8e0471ff9a7ca408e5304.jpg",
+        "https://telegra.ph/file/4a6abc7fe0be1fbac30aa.jpg",
+        "https://telegra.ph/file/1418416f691e9af61d38c.jpg",
+        "https://telegra.ph/file/43971e15ccf588795b9ff.jpg",
+        "https://telegra.ph/file/26bd1db794e42f3e18bb8.jpg",
+        "https://telegra.ph/file/484ec821e1b574d1d33fe.jpg",
+        "https://telegra.ph/file/4ac0cf88f01cb8b6d01a4.jpg",
+        "https://telegra.ph/file/695692584e1382ad14bbb.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1a6757ebf9d62bc7f1113.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

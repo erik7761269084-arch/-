@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9163,
+    "title": "[にくにくイタリアン (秋草ぺぺろん)] ママとズコハメドリル",
+    "sourceUrl": "https://telegra.ph/にくにくイタリアン-秋草ぺぺろん-ママとズコハメドリル-08-31",
+    "images": [
+        "https://telegra.ph/file/ba7cd13cdb0d1068b7d76.jpg",
+        "https://telegra.ph/file/3005296ea727cc9a32e99.jpg",
+        "https://telegra.ph/file/02d0c10061cacc1014c93.jpg",
+        "https://telegra.ph/file/cf0d6f9afafb0551cc846.jpg",
+        "https://telegra.ph/file/8bac39e4c168953e54d57.jpg",
+        "https://telegra.ph/file/afcd5417d61c3f46e20e7.jpg",
+        "https://telegra.ph/file/8d8dfc9bd8f71118f82bb.jpg",
+        "https://telegra.ph/file/c988ae37339296e4a37a7.jpg",
+        "https://telegra.ph/file/362fb3d1bbac6cc6316ef.jpg",
+        "https://telegra.ph/file/85f32c52a12433edd895d.jpg",
+        "https://telegra.ph/file/f2980c696764b1413e7fc.jpg",
+        "https://telegra.ph/file/ff2789ae71b8033b33768.jpg",
+        "https://telegra.ph/file/e44a5af0503f905b6012a.jpg",
+        "https://telegra.ph/file/1bae7bf0d520333ce0c6b.jpg",
+        "https://telegra.ph/file/51d9d837963b1c0544327.jpg",
+        "https://telegra.ph/file/2b25c1b3403fdd941b774.jpg",
+        "https://telegra.ph/file/3e3c3671e2a596c32dac0.jpg",
+        "https://telegra.ph/file/cae272c3e60f3fc30b3fd.jpg",
+        "https://telegra.ph/file/281872165ecb86ef2b906.jpg",
+        "https://telegra.ph/file/8936f61bf84e7c58fc7f8.jpg",
+        "https://telegra.ph/file/0e59325ec9c409c5965f2.jpg",
+        "https://telegra.ph/file/848082d5dc14b2b7fa082.jpg",
+        "https://telegra.ph/file/c034e072670f8f486d8a6.jpg",
+        "https://telegra.ph/file/d7fce790180b87faa0a14.jpg",
+        "https://telegra.ph/file/992d621d467a6d0730e26.jpg",
+        "https://telegra.ph/file/961191a07a088b4009fce.jpg",
+        "https://telegra.ph/file/2912beff461aba28a818b.jpg",
+        "https://telegra.ph/file/8d1f633e47a4add5c8657.jpg",
+        "https://telegra.ph/file/2c069bfde71a6192eb72a.jpg",
+        "https://telegra.ph/file/0a04b21179fbc674051f4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

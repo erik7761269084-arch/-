@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 16371,
+    "title": "(例大祭21) [きなこもち郷 (いけやん)] ぶきような初恋 (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/例大祭21-きなこもち郷-いけやん-ぶきような初恋-東方Project--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_01.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_02.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_03.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_04.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_05.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_06.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_07.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_08.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_09.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_10.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_11.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_12.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_13.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_14.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_15.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_16.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_17.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_18.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_19.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_20.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_21.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_22.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_23.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_24.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_25.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_26.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_27.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_28.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_29.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_30.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_31.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/_32.jpg",
+        "https://i2.linghua.xyz/ex/3111587/06e1585315/.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

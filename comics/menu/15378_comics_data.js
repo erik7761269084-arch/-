@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15378,
+    "title": "[Kohimemachi (Momizi Inori)] Mou Ichido Ano Basho de | 在那个地方再一次 (Love Live! Superstar!!)  [Digital]",
+    "sourceUrl": "https://telegra.ph/Kohimemachi-Momizi-Inori-Mou-Ichido-Ano-Basho-de--在那个地方再一次-Love-Live-Superstar-Digital-08-31",
+    "images": [
+        "https://telegra.ph/file/8c38fb6b394a0f4a87d07.jpg",
+        "https://telegra.ph/file/752837982e24b2c6c5805.jpg",
+        "https://telegra.ph/file/7351fcbee32447fe8b89b.jpg",
+        "https://telegra.ph/file/fbcfab904f667247acfb3.jpg",
+        "https://telegra.ph/file/36728fc9db40475bf8de8.jpg",
+        "https://telegra.ph/file/5013266a88b80ed16f4bc.jpg",
+        "https://telegra.ph/file/295edc173589a8e08c05b.jpg",
+        "https://telegra.ph/file/1f62a88ca7ce6d0bf75c0.jpg",
+        "https://telegra.ph/file/90980e317bae59f431c0a.jpg",
+        "https://telegra.ph/file/ce206f843d2c9f7be03fe.jpg",
+        "https://telegra.ph/file/48d669cdac164c7de4e2b.jpg",
+        "https://telegra.ph/file/aae31ed8dcd2e2a002b9f.jpg",
+        "https://telegra.ph/file/b269667baa1e06e1bd477.jpg",
+        "https://telegra.ph/file/9f52b62116cb17c6366db.jpg",
+        "https://telegra.ph/file/f0c0319f64836f2049df6.jpg",
+        "https://telegra.ph/file/a41b70a43f9f06fc8b5d3.jpg",
+        "https://telegra.ph/file/c224af5b9e844c064183b.jpg",
+        "https://telegra.ph/file/1129ed14ed3f7a3f99c0f.jpg",
+        "https://telegra.ph/file/6d3d55f89620974976b4c.jpg",
+        "https://telegra.ph/file/99601d0d80b37abab7202.jpg",
+        "https://telegra.ph/file/b719324f420c692d5d6d7.jpg",
+        "https://telegra.ph/file/a5ade7ed677e9bd6a5dae.jpg",
+        "https://telegra.ph/file/0c97d52687e2b849cd064.jpg",
+        "https://telegra.ph/file/d6c5b3c0750592b2ab15d.jpg",
+        "https://telegra.ph/file/d9d087b574cf88a766126.jpg",
+        "https://telegra.ph/file/0ff65b2c912aa108931d6.jpg",
+        "https://telegra.ph/file/c0004de701115742b6463.jpg",
+        "https://telegra.ph/file/ebbec39e30c6d4230f863.jpg",
+        "https://telegra.ph/file/b6fc7fa950b7886a3af59.jpg",
+        "https://telegra.ph/file/1963a27b7fc5c8933e1e2.jpg",
+        "https://telegra.ph/file/22013439590d002128890.jpg",
+        "https://telegra.ph/file/bf4d01554fc7aa18ff402.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

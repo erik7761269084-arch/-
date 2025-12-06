@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16194,
+    "title": "[春待氷柱 (名宵)] しあわせのあまやどり  -Preview",
+    "sourceUrl": "https://telegra.ph/春待氷柱-名宵-しあわせのあまやどり--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/ca9ea76fa23d3ff82e915.jpg",
+        "https://telegra.ph/file/61acef7760f30c45e354f.jpg",
+        "https://telegra.ph/file/753ede35a2bc2ef0f2a1d.jpg",
+        "https://telegra.ph/file/9b4bdc959173935c12241.jpg",
+        "https://telegra.ph/file/f20c1d8ca8b9845dd2c8e.jpg",
+        "https://telegra.ph/file/e95886cf9857cce82cef0.jpg",
+        "https://telegra.ph/file/a3cee4b283d477adb5445.jpg",
+        "https://telegra.ph/file/2b6ae03ee08234e241477.jpg",
+        "https://telegra.ph/file/fe0feba94b2028cf181d6.jpg",
+        "https://telegra.ph/file/4f389e6b6143d91ddac8a.jpg",
+        "https://telegra.ph/file/9ac92723f16141afdc67c.jpg",
+        "https://telegra.ph/file/f86eb30a512017e46f6b5.jpg",
+        "https://telegra.ph/file/03c466df3ea7e056be982.jpg",
+        "https://telegra.ph/file/f50d27876bc1667aec59c.jpg",
+        "https://telegra.ph/file/56aff364b221bdf18452d.jpg",
+        "https://telegra.ph/file/580a65045d6ee38a7337c.jpg",
+        "https://telegra.ph/file/4797439ea773d5cecd152.jpg",
+        "https://telegra.ph/file/8393423122482e26c64ff.jpg",
+        "https://telegra.ph/file/3982eb251a961a4c62511.jpg",
+        "https://telegra.ph/file/a4bdaa4d6006413316c00.jpg",
+        "https://telegra.ph/file/df8b09f2ba94ffaa08a29.jpg",
+        "https://telegra.ph/file/52e6cc2f753ce01aa3a06.jpg",
+        "https://telegra.ph/file/565c72049ebc214e6080e.jpg",
+        "https://telegra.ph/file/e024b3907bee536b54e54.jpg",
+        "https://telegra.ph/file/4dd9311964d22796fbbfa.jpg",
+        "https://telegra.ph/file/818641a6a9fa8a8a8528a.jpg",
+        "https://telegra.ph/file/6d3e5d877d052976e3894.jpg",
+        "https://telegra.ph/file/af0c1cc77b4df561aa806.jpg",
+        "https://telegra.ph/file/69fd62d5b32daec657cc2.jpg",
+        "https://telegra.ph/file/8f75aa01681caf8bddb8c.jpg",
+        "https://telegra.ph/file/1082d51095c13f545f944.jpg",
+        "https://telegra.ph/file/628818dc5900365ead0cd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

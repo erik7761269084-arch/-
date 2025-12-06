@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10267,
+    "title": "[イジマヤ (伊島ユウ)] テニサーの女王が備品のチンポクリーナーに墜とされる話",
+    "sourceUrl": "https://telegra.ph/イジマヤ-伊島ユウ-テニサーの女王が備品のチンポクリーナーに墜とされる話-08-31",
+    "images": [
+        "https://telegra.ph/file/0b22a1e501ea16dc810c4.jpg",
+        "https://telegra.ph/file/378e49b4be1bfaa123e04.jpg",
+        "https://telegra.ph/file/5704f4ace7ed232e199b6.jpg",
+        "https://telegra.ph/file/acaaeebfb73515eabd60d.jpg",
+        "https://telegra.ph/file/e8e87c665fdbbb07ebba3.jpg",
+        "https://telegra.ph/file/6666420332421fafff69d.jpg",
+        "https://telegra.ph/file/252f3d7f7d407632f4fc9.jpg",
+        "https://telegra.ph/file/c9008246f2769e3acd617.jpg",
+        "https://telegra.ph/file/4d76d70617b018163f362.jpg",
+        "https://telegra.ph/file/3319276f63a8697000da3.jpg",
+        "https://telegra.ph/file/0770f9d073190b0d1befb.jpg",
+        "https://telegra.ph/file/9c60aa8c0a3c90352d7f3.jpg",
+        "https://telegra.ph/file/bfff4ffba07cea6b49896.jpg",
+        "https://telegra.ph/file/9674f58125a99c2642121.jpg",
+        "https://telegra.ph/file/17a062367a4e87a831900.jpg",
+        "https://telegra.ph/file/245f5d21742e913715351.jpg",
+        "https://telegra.ph/file/4beae7d3d9f1e1401bf56.jpg",
+        "https://telegra.ph/file/6d5afc6c1e28e2f115bce.jpg",
+        "https://telegra.ph/file/bfcb9e48502560727cdf6.jpg",
+        "https://telegra.ph/file/008d354cdf7adc629154a.jpg",
+        "https://telegra.ph/file/6d5ca842a9566ab1339ea.jpg",
+        "https://telegra.ph/file/fc1c840c4aecb96c1a95b.jpg",
+        "https://telegra.ph/file/6fcbd65d717627a7e2fb6.jpg",
+        "https://telegra.ph/file/79becef4778ca5b85f9d7.jpg",
+        "https://telegra.ph/file/cf006e3571c42451558cd.jpg",
+        "https://telegra.ph/file/0a7b9f798e88ebc8f184f.jpg",
+        "https://telegra.ph/file/6c413deefedea4a9d2351.jpg",
+        "https://telegra.ph/file/299d4d11f682d08cdb7e0.jpg",
+        "https://telegra.ph/file/0dcf74e26d925f3a5d31e.jpg",
+        "https://telegra.ph/file/f7be5f475de585575a529.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/a2f9121d7333624a5efe2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

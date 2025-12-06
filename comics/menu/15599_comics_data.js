@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15599,
+    "title": "[パデラポッロのりお] 魔女は弟子に負けた。 [中國翻訳]-Preview",
+    "sourceUrl": "https://telegra.ph/パデラポッロのりお-魔女は弟子に負けた-中國翻訳-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/87764814bfb45ddbc1cc7.jpg",
+        "https://telegra.ph/file/ab7671e2993e2212ecdfa.jpg",
+        "https://telegra.ph/file/41d6861b348de4b338cab.jpg",
+        "https://telegra.ph/file/b63029eeefe3559b01613.jpg",
+        "https://telegra.ph/file/010ca3bc86c5cc476ab74.jpg",
+        "https://telegra.ph/file/e12bc7849e61999e2d94a.jpg",
+        "https://telegra.ph/file/f93f4372c3c6027d81489.jpg",
+        "https://telegra.ph/file/6df010d9158f1844004e4.jpg",
+        "https://telegra.ph/file/bc4a967d154c1ea3ec87d.jpg",
+        "https://telegra.ph/file/d4393301badc03631cd3a.jpg",
+        "https://telegra.ph/file/02a6042c067787ae2a82f.jpg",
+        "https://telegra.ph/file/08f04f0a9e69d0b380ec4.jpg",
+        "https://telegra.ph/file/2ee470ebc54d94b491ba1.jpg",
+        "https://telegra.ph/file/bdab65c0e8f2327a397a8.jpg",
+        "https://telegra.ph/file/03c67101e027a3d4d33c9.jpg",
+        "https://telegra.ph/file/d09d6d00bf1f8fc21b04a.jpg",
+        "https://telegra.ph/file/7f5a09299d4fbf34f6d5b.jpg",
+        "https://telegra.ph/file/e4cc7e057e7c46701c485.jpg",
+        "https://telegra.ph/file/8ff82461f9b03cdbd7b28.jpg",
+        "https://telegra.ph/file/ccc1d3b2add4986cf909f.jpg",
+        "https://telegra.ph/file/43a299a63ee404b9c563e.jpg",
+        "https://telegra.ph/file/bd44514b9f4dded91206d.jpg",
+        "https://telegra.ph/file/bc326206efbf57d55b300.jpg",
+        "https://telegra.ph/file/92e4cccf88b4ce5585da2.jpg",
+        "https://telegra.ph/file/0975ea5b93ee2508f87d7.jpg",
+        "https://telegra.ph/file/9d63addec56880ecc81d9.jpg",
+        "https://telegra.ph/file/3f1390f4063ffda989f57.jpg",
+        "https://telegra.ph/file/d41de74a1b2b45c26937c.jpg",
+        "https://telegra.ph/file/2b792bf651162c830764f.jpg",
+        "https://telegra.ph/file/29b60b1f4466de9a9e48b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

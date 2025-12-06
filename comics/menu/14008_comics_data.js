@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 14008,
+    "title": "[saluky] 最近的罗德岛不太对劲 (明日方舟)",
+    "sourceUrl": "https://telegra.ph/saluky-最近的罗德岛不太对劲-明日方舟-08-31",
+    "images": [
+        "https://telegra.ph/file/e190638c31710068b4819.jpg",
+        "https://telegra.ph/file/6d262e24665592b212435.jpg",
+        "https://telegra.ph/file/2ead6eb8a9623e1299899.jpg",
+        "https://telegra.ph/file/671213463521c0c621c3f.jpg",
+        "https://telegra.ph/file/d0f0db29fba461bac2012.jpg",
+        "https://telegra.ph/file/5e8c603d7ba404e3da45d.jpg",
+        "https://telegra.ph/file/00fc683887a54446b4cee.jpg",
+        "https://telegra.ph/file/e45078ea7229b8c513166.jpg",
+        "https://telegra.ph/file/2dc60b653e3b1378c790b.jpg",
+        "https://telegra.ph/file/52425bad6d4f200d05609.jpg",
+        "https://telegra.ph/file/50a331db009af705b56a1.jpg",
+        "https://telegra.ph/file/af429974e4b575b01cdea.jpg",
+        "https://telegra.ph/file/e5bcca8f433b8fd92843d.jpg",
+        "https://telegra.ph/file/59cbfdacf2c26eddc7cde.jpg",
+        "https://telegra.ph/file/0122d34006d4fb9b87645.jpg",
+        "https://telegra.ph/file/086668177907a278ae754.jpg",
+        "https://telegra.ph/file/bf319c16be4af7ed45b7d.jpg",
+        "https://telegra.ph/file/20c529c2636566f0d51cb.jpg",
+        "https://telegra.ph/file/279adafe089d609f4b413.jpg",
+        "https://telegra.ph/file/b515fbc7ba858c7cf03c6.jpg",
+        "https://telegra.ph/file/13a55572a54ac16baf80f.jpg",
+        "https://telegra.ph/file/132ea39ab35e1dce646f8.jpg",
+        "https://telegra.ph/file/4c4c53e2cc6374c202b2b.jpg",
+        "https://telegra.ph/file/4df9ef5dc9cdd4a3d6068.jpg",
+        "https://telegra.ph/file/c6e1935a8a7ebe1b48991.jpg",
+        "https://telegra.ph/file/082d0686e7d9fa99683c7.jpg",
+        "https://telegra.ph/file/6f9b6e5bfb28acad07545.jpg",
+        "https://telegra.ph/file/d0210b37aa7fc76c6e77f.jpg",
+        "https://telegra.ph/file/64c588d69351a2980b006.jpg",
+        "https://telegra.ph/file/12833967911f215d3f196.jpg",
+        "https://telegra.ph/file/967531cdf8e2b49c98e8f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

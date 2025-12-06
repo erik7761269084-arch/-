@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13628,
+    "title": "[毛玉牛乳 (玉之けだま)] 全部君のせいだ。 Ⅱ",
+    "sourceUrl": "https://telegra.ph/毛玉牛乳-玉之けだま-全部君のせいだ-08-31",
+    "images": [
+        "https://telegra.ph/file/dbaa633953a848f1691ac.jpg",
+        "https://telegra.ph/file/5ed393de55085a4b7631e.jpg",
+        "https://telegra.ph/file/260103fe6aac0932ce54c.jpg",
+        "https://telegra.ph/file/5752d05a2bef307f01f4d.jpg",
+        "https://telegra.ph/file/49038c4448293f2312155.jpg",
+        "https://telegra.ph/file/a57779982219441365bc2.jpg",
+        "https://telegra.ph/file/fd1035578ee3f92e125f8.jpg",
+        "https://telegra.ph/file/dd43f7cf9593476ee75fc.jpg",
+        "https://telegra.ph/file/efbbddf3e6f63fb4f023e.jpg",
+        "https://telegra.ph/file/d7281c38054d77a2ab137.jpg",
+        "https://telegra.ph/file/7414c2615f318ef6060a7.jpg",
+        "https://telegra.ph/file/48f6de917d4ac4ab281f0.jpg",
+        "https://telegra.ph/file/fc63f27b5895bce554a5c.jpg",
+        "https://telegra.ph/file/3ca6a255c33cb8eccb7cf.jpg",
+        "https://telegra.ph/file/16e30729d93cb395c9587.jpg",
+        "https://telegra.ph/file/f089be45e4e9f140e31f9.jpg",
+        "https://telegra.ph/file/5c3ffe700a185ee568389.jpg",
+        "https://telegra.ph/file/a27fd0dd4c2e60e8e149a.jpg",
+        "https://telegra.ph/file/d08ed4b6385596967c12a.jpg",
+        "https://telegra.ph/file/e5d7538aa5651d9a367ea.jpg",
+        "https://telegra.ph/file/a953b024bdbed00d80133.jpg",
+        "https://telegra.ph/file/7de53fae9127a640985ee.jpg",
+        "https://telegra.ph/file/496027ad61428b91f32c7.jpg",
+        "https://telegra.ph/file/2fd5a927818373d1687ee.jpg",
+        "https://telegra.ph/file/b6a195423f1ae857638d6.jpg",
+        "https://telegra.ph/file/7030cc1cdb9dd3020e8da.jpg",
+        "https://telegra.ph/file/7afc4be4953a38572da67.jpg",
+        "https://telegra.ph/file/3ca6cd3d253da2c15bf22.jpg",
+        "https://telegra.ph/file/025ff444e6e508787b24b.jpg",
+        "https://telegra.ph/file/a0185ce4afdebc533a2b4.jpg",
+        "https://telegra.ph/file/38dbc598a37cafd524571.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

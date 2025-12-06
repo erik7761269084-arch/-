@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12344,
+    "title": "[SHUKO] 超昂神騎エクシール ～双翼、魔悦調教～ THE COMIC 04 (二次元ドリームマガジン Vol.113)",
+    "sourceUrl": "https://telegra.ph/SHUKO-超昂神騎エクシール-双翼魔悦調教-THE-COMIC-04-二次元ドリームマガジン-Vol113-08-31",
+    "images": [
+        "https://telegra.ph/file/cefb7f1b224463d72b36c.jpg",
+        "https://telegra.ph/file/c3dd6a00a7af0a30c5e3b.jpg",
+        "https://telegra.ph/file/b2757272ac2eb68977036.jpg",
+        "https://telegra.ph/file/3ebbd041e7bef1599bd0f.jpg",
+        "https://telegra.ph/file/e7f8a371c99ef7c232f42.jpg",
+        "https://telegra.ph/file/706a915b8e4d17af0be43.jpg",
+        "https://telegra.ph/file/87d412ce218f85366c571.jpg",
+        "https://telegra.ph/file/9943bd0f708020d724429.jpg",
+        "https://telegra.ph/file/f0a63ce28a978f308ec51.jpg",
+        "https://telegra.ph/file/f17d24a1fd68efc4c85aa.jpg",
+        "https://telegra.ph/file/762dc21f76d3c14536b01.jpg",
+        "https://telegra.ph/file/1838d2ad5f67d3085ad28.jpg",
+        "https://telegra.ph/file/d715b5d1e9dab7486730e.jpg",
+        "https://telegra.ph/file/d6ab3bc5c5757a10c3998.jpg",
+        "https://telegra.ph/file/84a257636aa41a5213b55.jpg",
+        "https://telegra.ph/file/8c9c69ad2fe480969ebed.jpg",
+        "https://telegra.ph/file/356dd0ef34a314feca036.jpg",
+        "https://telegra.ph/file/90a05430c450a3184defb.jpg",
+        "https://telegra.ph/file/fd6cf8c2668ea2b984541.jpg",
+        "https://telegra.ph/file/864a7a8e393e74818ce38.jpg",
+        "https://telegra.ph/file/bbeabc69e48836e309b7e.jpg",
+        "https://telegra.ph/file/81bc1c0daff8185049a95.jpg",
+        "https://telegra.ph/file/fc456fc6afb081e275eae.jpg",
+        "https://telegra.ph/file/c01d8ef20654c839dbb63.jpg",
+        "https://telegra.ph/file/91d5847756520b8debb06.jpg",
+        "https://telegra.ph/file/d8b0fbe98ce68c4cb75f7.jpg",
+        "https://telegra.ph/file/74b0da4da49fcd85e2c63.jpg",
+        "https://telegra.ph/file/72847cbda2d5fc04f4ea0.jpg",
+        "https://telegra.ph/file/8f5e641b35229d676d895.jpg",
+        "https://telegra.ph/file/d3b6bab7002f984fa3558.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

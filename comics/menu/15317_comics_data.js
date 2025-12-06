@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15317,
+    "title": "[LIN]futago shimaichann no yuri seikatu(6)【Dokiki汉化组】",
+    "sourceUrl": "https://telegra.ph/LINfutago-shimaichann-no-yuri-seikatu6Dokiki汉化组-08-31",
+    "images": [
+        "https://telegra.ph/file/cfdf646923ec144be82ed.jpg",
+        "https://telegra.ph/file/43e5ddbfb2034e76facb6.jpg",
+        "https://telegra.ph/file/904ed1872b575da02ad94.jpg",
+        "https://telegra.ph/file/7ded0793248d0ffbcdc9b.jpg",
+        "https://telegra.ph/file/56d6c105022106c1faacd.jpg",
+        "https://telegra.ph/file/dde10adc4bbc9b22a508b.jpg",
+        "https://telegra.ph/file/4ac6548cd1fbaf4f87174.jpg",
+        "https://telegra.ph/file/daa0ddb939fb8e313d511.jpg",
+        "https://telegra.ph/file/99941415f5c0c14f9604a.jpg",
+        "https://telegra.ph/file/cb3e688a370ca5b1d7e58.jpg",
+        "https://telegra.ph/file/906a358de89663c24dbbc.jpg",
+        "https://telegra.ph/file/9e23d283ca1fd35aad2ea.jpg",
+        "https://telegra.ph/file/a73704cb97f02fa1a203d.jpg",
+        "https://telegra.ph/file/a1a846984abca1a393aa1.jpg",
+        "https://telegra.ph/file/217aacec8c1e59d5940a6.jpg",
+        "https://telegra.ph/file/1a1db850cd57c97391ed9.jpg",
+        "https://telegra.ph/file/9d83905ba41ba30038b32.jpg",
+        "https://telegra.ph/file/f04eaf029bcf1a0453319.jpg",
+        "https://telegra.ph/file/b274887932bcacc02e4f5.jpg",
+        "https://telegra.ph/file/ead4c3a8fa27acd98784d.jpg",
+        "https://telegra.ph/file/b7148b3005ad3f62827d2.jpg",
+        "https://telegra.ph/file/678ca8e34c9405adbc5a5.jpg",
+        "https://telegra.ph/file/6fcf59eb0f73cb14f516e.jpg",
+        "https://telegra.ph/file/1dabde78207220b56f11f.jpg",
+        "https://telegra.ph/file/23830293d8b7fdca3ee20.jpg",
+        "https://telegra.ph/file/6f1fd9701b4b959106c22.jpg",
+        "https://telegra.ph/file/b11ca3416ed9870f4be99.jpg",
+        "https://telegra.ph/file/a8afdb1ecd78b9e6871dc.jpg",
+        "https://telegra.ph/file/1278f89fa0dce8bed462d.jpg",
+        "https://telegra.ph/file/1c575865f3ae1e925a55e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

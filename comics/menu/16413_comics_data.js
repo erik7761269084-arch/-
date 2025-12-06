@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16413,
+    "title": "[ひやみらんめん (まちだ)] 愛執 (学園アイドルマスター)  -Preview",
+    "sourceUrl": "https://telegra.ph/ひやみらんめん-まちだ-愛執-学園アイドルマスター--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/001.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/002.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/003.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/004.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/005.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/006.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/007.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/008.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/009.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/010.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/011.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/012.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/013.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/014.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/015.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/016.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/017.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/018.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/019.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/020.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/021.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/022.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/023.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/024.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/025.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/026.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/027.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/028.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/029.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/.webp",
+        "https://i2.linghua.xyz/ex/3149863/e388c3872a/1.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

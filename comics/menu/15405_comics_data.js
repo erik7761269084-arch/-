@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15405,
+    "title": "[Astra Marine (海凪あすた] 踊る蝶は宵に消える (東方project)",
+    "sourceUrl": "https://telegra.ph/Astra-Marine-海凪あすた-踊る蝶は宵に消える-東方project-08-31",
+    "images": [
+        "https://telegra.ph/file/5c02089fdb920b2e5016a.jpg",
+        "https://telegra.ph/file/1e1a07ff8c549f6ee8a71.jpg",
+        "https://telegra.ph/file/c1370ff40422cdd9db98b.jpg",
+        "https://telegra.ph/file/9b5464b129383119fcad3.jpg",
+        "https://telegra.ph/file/8e2b5990a75b484900676.jpg",
+        "https://telegra.ph/file/adbe9462c617e0bd2def2.jpg",
+        "https://telegra.ph/file/7b8b50e82b8cb04f6dfd4.jpg",
+        "https://telegra.ph/file/8c7f6112b72eb8b9d2024.jpg",
+        "https://telegra.ph/file/9ab33af7801103a2af6af.jpg",
+        "https://telegra.ph/file/820b7747dc3cc6af1a4b1.jpg",
+        "https://telegra.ph/file/39d6619faf82774a4b19a.jpg",
+        "https://telegra.ph/file/5228820fa04697b8e3146.jpg",
+        "https://telegra.ph/file/f282b7e4d7b410de1beee.jpg",
+        "https://telegra.ph/file/048965dc6a40719311fca.jpg",
+        "https://telegra.ph/file/fa6da00d9c5517b2bcb4c.jpg",
+        "https://telegra.ph/file/b3e5703b5e4221ad31c6b.jpg",
+        "https://telegra.ph/file/c4228f8ee12573bc0fe9b.jpg",
+        "https://telegra.ph/file/3682ef83b9f1f0a50f544.jpg",
+        "https://telegra.ph/file/27b56bf096c5ea3bac72a.jpg",
+        "https://telegra.ph/file/2a2b90dba151608942ce7.jpg",
+        "https://telegra.ph/file/1f2520eb63d7e7eed7bc7.jpg",
+        "https://telegra.ph/file/af01992f43df893a17a81.jpg",
+        "https://telegra.ph/file/cf1df273c8abe41d30e4c.jpg",
+        "https://telegra.ph/file/fafa0dab3c3678fa615c8.jpg",
+        "https://telegra.ph/file/71b20624161502b0a7adb.jpg",
+        "https://telegra.ph/file/d455fdf173daa54603747.jpg",
+        "https://telegra.ph/file/8b3d83c123e36476af638.jpg",
+        "https://telegra.ph/file/d710913a3a4e4d2bc06e9.jpg",
+        "https://telegra.ph/file/f28b305890d9c508871f6.jpg",
+        "https://telegra.ph/file/f77211910190cc0fdd42c.jpg",
+        "https://telegra.ph/file/a9d9032ebbdd37c10b9d9.jpg",
+        "https://telegra.ph/file/44426b66c0850ef3914c4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

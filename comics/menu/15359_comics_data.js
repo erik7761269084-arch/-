@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15359,
+    "title": "[Yuribatake Bokujou (Kon)] Obsessed (THE <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"632a272c2f2e2330372631\">[email&#160;protected]",
+    "sourceUrl": "https://telegra.ph/Yuribatake-Bokujou-Kon-Obsessed-THE-a-hrefcdn-cgilemail-protection-class-cf-email--data-cfemail632a272c2f2e2330372631email160pro-08-31",
+    "images": [
+        "https://telegra.ph/file/a29cc1ae0c0f6b3180f77.jpg",
+        "https://telegra.ph/file/ea12d3c93ef663900bcb8.jpg",
+        "https://telegra.ph/file/4e03d6590c14b881a77da.jpg",
+        "https://telegra.ph/file/8c779346a3ee19159fb27.jpg",
+        "https://telegra.ph/file/e759ee84eb1a69c5f6905.jpg",
+        "https://telegra.ph/file/cdc8b7ca4bb32d1993a0b.jpg",
+        "https://telegra.ph/file/d87ea6ea569932b90c419.jpg",
+        "https://telegra.ph/file/aaaf48debba27c79c3b69.jpg",
+        "https://telegra.ph/file/b8c1cb66b9c61882167e2.jpg",
+        "https://telegra.ph/file/cd6cac6e094ac76961fa9.jpg",
+        "https://telegra.ph/file/462970afb736ddccd6d37.jpg",
+        "https://telegra.ph/file/c6164bd41e7bbb3916b0c.jpg",
+        "https://telegra.ph/file/ea2b4981e60b50ae67a0f.jpg",
+        "https://telegra.ph/file/bd1753b8061e25089100f.jpg",
+        "https://telegra.ph/file/1b95cac66d63483da6b63.jpg",
+        "https://telegra.ph/file/8669587b88d5901f36a35.jpg",
+        "https://telegra.ph/file/00f0c505d4a58d0cc7cf9.jpg",
+        "https://telegra.ph/file/65027111b864ce9c8c72c.jpg",
+        "https://telegra.ph/file/fb3b6ea8140fe5aaf6d5b.jpg",
+        "https://telegra.ph/file/f804c99f68dd80ad6dd88.jpg",
+        "https://telegra.ph/file/248d42290f8f8e832b22e.jpg",
+        "https://telegra.ph/file/81b19a071ff5851192308.jpg",
+        "https://telegra.ph/file/2ca1855ecd799d57c655b.jpg",
+        "https://telegra.ph/file/e8612e85bef87a7a310f0.jpg",
+        "https://telegra.ph/file/912249312728342466187.jpg",
+        "https://telegra.ph/file/5dbe30bf865f41b334fb4.jpg",
+        "https://telegra.ph/file/e175fc3eb306d521eb8c7.jpg",
+        "https://telegra.ph/file/2205841f05af331ab87a3.jpg",
+        "https://telegra.ph/file/a05d6908d723c4e1292c1.jpg",
+        "https://telegra.ph/file/9bfba66641da61ea8084c.jpg",
+        "https://telegra.ph/file/bb3acc5b27553cff8135c.png",
+        "https://telegra.ph/file/e9fb6670e112e482abf9b.jpg",
+        "https://telegra.ph/file/7e9aa101fe7eea83e02cf.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

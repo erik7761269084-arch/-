@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10776,
+    "title": "(C95) [シロツメクサ (野澤ゆき子)] からかいお姉さんが返り討ちにあう本",
+    "sourceUrl": "https://telegra.ph/C95-シロツメクサ-野澤ゆき子-からかいお姉さんが返り討ちにあう本-08-31",
+    "images": [
+        "https://telegra.ph/file/9e95245c0f86dde5286c9.jpg",
+        "https://telegra.ph/file/5b656c163a124afed1c38.jpg",
+        "https://telegra.ph/file/1ece3a18d75706a1f38c4.jpg",
+        "https://telegra.ph/file/a02ae456c663ba8734621.jpg",
+        "https://telegra.ph/file/aca5dd53b1fd9309f1bcb.jpg",
+        "https://telegra.ph/file/ed6bb014fb15d3ccb7955.jpg",
+        "https://telegra.ph/file/4d508e7b5369467ded49a.jpg",
+        "https://telegra.ph/file/08a1852a2d963c25f0d01.jpg",
+        "https://telegra.ph/file/d94d044a31225c232cc14.jpg",
+        "https://telegra.ph/file/9a7f43c27f51ebeb8fe2e.jpg",
+        "https://telegra.ph/file/de30ba80bb6cafa6dd784.jpg",
+        "https://telegra.ph/file/9df0b83a2a5d39af39c15.jpg",
+        "https://telegra.ph/file/f74cfe8a4635d94c7f40c.jpg",
+        "https://telegra.ph/file/d63eedfca4aeff501ec43.jpg",
+        "https://telegra.ph/file/da251a03014f01b7275e8.jpg",
+        "https://telegra.ph/file/1eb0de42dd147b9ce72b6.jpg",
+        "https://telegra.ph/file/a169b029b89f37505d6c3.jpg",
+        "https://telegra.ph/file/ac6c43a5f20b835cd6c53.jpg",
+        "https://telegra.ph/file/7d297d2e3b2caf9e8fcce.jpg",
+        "https://telegra.ph/file/97f36e598be2e563c635e.jpg",
+        "https://telegra.ph/file/3411a430aaac9f61cb5c5.jpg",
+        "https://telegra.ph/file/80f1e62d9457c4e4508f1.jpg",
+        "https://telegra.ph/file/e0e26af766863f7455217.jpg",
+        "https://telegra.ph/file/66b62dec7eb6d4efe262a.jpg",
+        "https://telegra.ph/file/73de05721ad619f3e8dd5.jpg",
+        "https://telegra.ph/file/9b09103a2cc5352b9723d.jpg",
+        "https://telegra.ph/file/2c7a189f3e286cf60aec9.jpg",
+        "https://telegra.ph/file/3c187377d214e454b7697.jpg",
+        "https://telegra.ph/file/3a3c6e2b9fe2b0ac6c053.jpg",
+        "https://telegra.ph/file/2819acf4dff35b9bcd17b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

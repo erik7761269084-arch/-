@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15388,
+    "title": "(C91) [House Saibai Mochi (Shiratama Moti)] Mayonaka no Kashikoma (PriPara)",
+    "sourceUrl": "https://telegra.ph/C91-House-Saibai-Mochi-Shiratama-Moti-Mayonaka-no-Kashikoma-PriPara-08-31",
+    "images": [
+        "https://telegra.ph/file/30fb6b385057b8636c87c.jpg",
+        "https://telegra.ph/file/a235c6cedcd394b9cf878.jpg",
+        "https://telegra.ph/file/01336f8c0eb7819b13257.jpg",
+        "https://telegra.ph/file/63debd118af8b3f83e85b.jpg",
+        "https://telegra.ph/file/01367b5d33ce03f231d1d.jpg",
+        "https://telegra.ph/file/8383caf614ceae4cf59c7.jpg",
+        "https://telegra.ph/file/85aa2213fa91bd0421a54.jpg",
+        "https://telegra.ph/file/8395818f4af2d792e268a.jpg",
+        "https://telegra.ph/file/205bd5af0fc09de10cc7d.jpg",
+        "https://telegra.ph/file/fe8d58e6e58cfa37714e8.jpg",
+        "https://telegra.ph/file/32e19c83208db91535613.jpg",
+        "https://telegra.ph/file/ace1cc96fde3c157c23b3.jpg",
+        "https://telegra.ph/file/e43b1edade327e76e10ce.jpg",
+        "https://telegra.ph/file/761147657e7d2e9ed60a6.jpg",
+        "https://telegra.ph/file/6e5a764c16f03a5f5db91.jpg",
+        "https://telegra.ph/file/d5164c3c4a6df84f42429.jpg",
+        "https://telegra.ph/file/949a7a20215af7a9219fa.jpg",
+        "https://telegra.ph/file/6b099006d5b4bdd65609c.jpg",
+        "https://telegra.ph/file/59c6bd6eac1092825ec58.jpg",
+        "https://telegra.ph/file/603cab2f11e750f990c3f.jpg",
+        "https://telegra.ph/file/3ed748ccead7bf3a42fe5.jpg",
+        "https://telegra.ph/file/d72bb06455b3c7dbc0ac2.jpg",
+        "https://telegra.ph/file/c716d3ef406c0a97e8624.jpg",
+        "https://telegra.ph/file/5c564312b644edf8c8b14.jpg",
+        "https://telegra.ph/file/fb2736a44d499761c0978.jpg",
+        "https://telegra.ph/file/6f8d8cef9284661f768fa.jpg",
+        "https://telegra.ph/file/8ebb08abf8bed9e2ac326.jpg",
+        "https://telegra.ph/file/03615fb38284f2939887f.jpg",
+        "https://telegra.ph/file/4fe2f6465afcfb56ed3a0.jpg",
+        "https://telegra.ph/file/8c40cf84168274505e2e5.jpg",
+        "https://telegra.ph/file/4317625c4c2a47251ddd0.jpg",
+        "https://telegra.ph/file/e37a666abebc697255d9a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11380,
+    "title": "[無色三太郎] 魔法少女ミルキーラッピング 永久アナルアクメの刑に処す (二次元コミックマガジン ケツマン調教で肛門ポルチオアクメ!Vol.2)",
+    "sourceUrl": "https://telegra.ph/無色三太郎-魔法少女ミルキーラッピング-永久アナルアクメの刑に処す-二次元コミックマガジン-ケツマン調教で肛門ポルチオアクメVol2-08-31",
+    "images": [
+        "https://telegra.ph/file/e50062b4ce6be5dbdf781.jpg",
+        "https://telegra.ph/file/ae0fbb70a051a127c3cb4.jpg",
+        "https://telegra.ph/file/b49c8e3952c3e326bff74.jpg",
+        "https://telegra.ph/file/c3de89e9d234c2daed5a7.jpg",
+        "https://telegra.ph/file/17e6ecad5f67222dabb3d.jpg",
+        "https://telegra.ph/file/35a3da3eb601a9a8e7ef8.jpg",
+        "https://telegra.ph/file/5f09f45a2dd6aad51c80a.jpg",
+        "https://telegra.ph/file/1a86f72803163c5a14e21.jpg",
+        "https://telegra.ph/file/ca507e6b0f02f4e5a05d7.jpg",
+        "https://telegra.ph/file/53c48df4ac1f83da44b2e.jpg",
+        "https://telegra.ph/file/6bfa90646368a5d2316b5.jpg",
+        "https://telegra.ph/file/a9bfcdb1161044ed550e1.jpg",
+        "https://telegra.ph/file/4fdaa5a9fbdd3978caea0.jpg",
+        "https://telegra.ph/file/b9a2d618717dd2ae579d2.jpg",
+        "https://telegra.ph/file/0fd840bf40a81ceca8783.jpg",
+        "https://telegra.ph/file/54ad1a5602eb0f6b6c5a2.jpg",
+        "https://telegra.ph/file/3dd44e8a2766e6b799981.jpg",
+        "https://telegra.ph/file/80491fc873d998cc578d1.jpg",
+        "https://telegra.ph/file/e615a6ee24c988b071d25.jpg",
+        "https://telegra.ph/file/e8f85d5d281dd4a777a03.jpg",
+        "https://telegra.ph/file/ed6fab1eaa457eedcf842.jpg",
+        "https://telegra.ph/file/5becac4308afdd3822f1e.jpg",
+        "https://telegra.ph/file/9e12eb03f56d20bfa0213.jpg",
+        "https://telegra.ph/file/eabb2ebb95812b9b73f77.jpg",
+        "https://telegra.ph/file/56f11f069a1c1dfd738c7.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/c68ac75a958bdc6a3a122.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

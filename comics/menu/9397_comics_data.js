@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9397,
+    "title": "[鹽水企鵝] 生育擱淺 (DEATH STRANDING)",
+    "sourceUrl": "https://telegra.ph/鹽水企鵝-生育擱淺-DEATH-STRANDING-08-31",
+    "images": [
+        "https://telegra.ph/file/44e125e7a30e09dbd391f.jpg",
+        "https://telegra.ph/file/c91a87b87a6484dd1ec0a.jpg",
+        "https://telegra.ph/file/fb969eca82eb19ca551b0.jpg",
+        "https://telegra.ph/file/8706588bc789d1d7193ff.jpg",
+        "https://telegra.ph/file/120799cd594c5aad9ea84.jpg",
+        "https://telegra.ph/file/6585d71b9ba0f508be036.jpg",
+        "https://telegra.ph/file/fa563e223c07577c31667.jpg",
+        "https://telegra.ph/file/81bd45ce1392f523ed89d.jpg",
+        "https://telegra.ph/file/467b6990fba8eb70366e9.jpg",
+        "https://telegra.ph/file/81d56151b9ce2c7379cfa.jpg",
+        "https://telegra.ph/file/aac7b61ddd56f44fd71d1.jpg",
+        "https://telegra.ph/file/187dca97854da40e00dbf.jpg",
+        "https://telegra.ph/file/62e18700cbf9305c4850a.jpg",
+        "https://telegra.ph/file/371a530b28c9f356751e2.jpg",
+        "https://telegra.ph/file/63d3954791da577e1e93b.jpg",
+        "https://telegra.ph/file/fbc82e243bf3a54c28562.jpg",
+        "https://telegra.ph/file/861fbc110abbfe6840fe0.jpg",
+        "https://telegra.ph/file/dd3d5cf31fa6576b06994.jpg",
+        "https://telegra.ph/file/f8ebe4c885252a7967b6b.jpg",
+        "https://telegra.ph/file/9ead25d93e294400f2fb2.jpg",
+        "https://telegra.ph/file/8c53c64ec72b7b9100857.jpg",
+        "https://telegra.ph/file/b57c15ec788e46281b470.jpg",
+        "https://telegra.ph/file/f34592247a489cb6a7725.jpg",
+        "https://telegra.ph/file/701ad61ae799b9074fb43.jpg",
+        "https://telegra.ph/file/dadb2ac979144ae1c1216.jpg",
+        "https://telegra.ph/file/4abcac666492bff31a4bb.jpg",
+        "https://telegra.ph/file/0defaaf798bfc7e5f5b51.jpg",
+        "https://telegra.ph/file/5e784156726098f644ead.jpg",
+        "https://telegra.ph/file/963640770295dd8c25be4.jpg",
+        "https://telegra.ph/file/e41a7f5bdc013b4c7e75d.jpg",
+        "https://telegra.ph/file/f31842dff518be23ae1d4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

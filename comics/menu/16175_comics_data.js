@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16175,
+    "title": "[LUNATIC PROPHET (有村悠)] 戦うことしか出来ないみたいに 中 (艦隊これくしょん -艦これ-)  -Preview",
+    "sourceUrl": "https://telegra.ph/LUNATIC-PROPHET-有村悠-戦うことしか出来ないみたいに-中-艦隊これくしょん--艦これ---Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/17728a2428b674ded34ed.jpg",
+        "https://telegra.ph/file/f27f12953c68d646b59c1.png",
+        "https://telegra.ph/file/5389bfd2ee30934cf0b4b.jpg",
+        "https://telegra.ph/file/24a7fe0c49542fbd8e17b.jpg",
+        "https://telegra.ph/file/ff2d47bb779308ba9f77f.jpg",
+        "https://telegra.ph/file/ffefffc43456d36888159.jpg",
+        "https://telegra.ph/file/7d2a8a9cc7b340473db28.jpg",
+        "https://telegra.ph/file/ee3018fbd5faab60e766e.jpg",
+        "https://telegra.ph/file/d5d0fad11b56f040084a6.jpg",
+        "https://telegra.ph/file/e4a2f9546c1bb53af0396.jpg",
+        "https://telegra.ph/file/d95b2adf1498772495828.jpg",
+        "https://telegra.ph/file/f3b89ffd22ed4bb1489e0.jpg",
+        "https://telegra.ph/file/8f44bbd64aaf83f066be6.jpg",
+        "https://telegra.ph/file/f2bd855d4749e221195a7.jpg",
+        "https://telegra.ph/file/06357564284100282389e.jpg",
+        "https://telegra.ph/file/1e3d9d374cdd550011131.jpg",
+        "https://telegra.ph/file/bb66d88b632eda0239b7d.jpg",
+        "https://telegra.ph/file/a0f2dfdc49e22ab4cbea7.jpg",
+        "https://telegra.ph/file/8199c27a5b66a4114e23e.jpg",
+        "https://telegra.ph/file/3bbb75a03b9af5c7f701e.jpg",
+        "https://telegra.ph/file/e58c800be346cd506e7fa.jpg",
+        "https://telegra.ph/file/0d1001a0e60d305e491f0.jpg",
+        "https://telegra.ph/file/11f80485d7356e42949f8.jpg",
+        "https://telegra.ph/file/159a5b763cdaf20c2add2.jpg",
+        "https://telegra.ph/file/dae881de8f0710816437a.jpg",
+        "https://telegra.ph/file/16eaa5704c2df8f3a87a5.jpg",
+        "https://telegra.ph/file/8882d085e7a32b2879930.jpg",
+        "https://telegra.ph/file/c47168f431cc9f533e6e8.jpg",
+        "https://telegra.ph/file/dd6f3fc14684b41c9bd19.jpg",
+        "https://telegra.ph/file/4ae01810025b60523b66c.png",
+        "https://telegra.ph/file/bb45bc0f917a3a49fcee9.png",
+        "https://telegra.ph/file/e738a3f557d9428197867.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

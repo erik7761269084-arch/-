@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16292,
+    "title": "(紅楼夢11) [矢ハイ (あおい)] きみのせいでホネおりぞん! (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/紅楼夢11-矢ハイ-あおい-きみのせいでホネおりぞん-東方Project--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/001.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/002.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/003.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/004.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/005.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/006.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/007.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/008.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/009.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/010.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/011.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/012.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/013.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/014.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/015.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/016.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/017.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/018.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/019.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/020.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/021.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/022.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/023.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/024.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/025.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/026.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/027.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/028.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/029.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/030.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/031.jpg",
+        "https://i2.linghua.xyz/ex/3079193/de40fe97c1/032.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

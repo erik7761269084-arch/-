@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10755,
+    "title": "[桐下悠司] M×S彼女 (COMIC 失楽天 2020年10月号)",
+    "sourceUrl": "https://telegra.ph/桐下悠司-MS彼女-COMIC-失楽天-2020年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/9519fef2c08f6c592c677.jpg",
+        "https://telegra.ph/file/064d11ad3d2702e1bf5d4.jpg",
+        "https://telegra.ph/file/ff10c881627e6c3ad697e.jpg",
+        "https://telegra.ph/file/d5f3334329a10783a3278.jpg",
+        "https://telegra.ph/file/fbc5b6592ca5469d7bb7f.jpg",
+        "https://telegra.ph/file/ec343819f8ec40e7bd19b.jpg",
+        "https://telegra.ph/file/814abce94d6a71294841c.jpg",
+        "https://telegra.ph/file/3f3fafa19ea5b2a0c8f55.jpg",
+        "https://telegra.ph/file/6c8e12476326703bed358.jpg",
+        "https://telegra.ph/file/ec59e6fa3ce9ef51fe436.jpg",
+        "https://telegra.ph/file/c2447bde9354a33805406.jpg",
+        "https://telegra.ph/file/ddd242258093d4b747258.jpg",
+        "https://telegra.ph/file/e7c84a74fc1f1e16bc99c.jpg",
+        "https://telegra.ph/file/942eac8cfde472610124e.jpg",
+        "https://telegra.ph/file/3c8b46d677794f8282ae7.jpg",
+        "https://telegra.ph/file/cba709db4176a505bc586.jpg",
+        "https://telegra.ph/file/1430ddd4580ee55d401d1.jpg",
+        "https://telegra.ph/file/8331766aa8586c6774d86.jpg",
+        "https://telegra.ph/file/5a92df3a66429898814b0.jpg",
+        "https://telegra.ph/file/08b332e68e1f8e0ac005a.jpg",
+        "https://telegra.ph/file/4f63e5fa821b5fa7998af.jpg",
+        "https://telegra.ph/file/2eae798837bfcb22a8ca6.jpg",
+        "https://telegra.ph/file/e785714e26ddce6f67ee7.jpg",
+        "https://telegra.ph/file/e11fd7791bb0c32adc961.jpg",
+        "https://telegra.ph/file/9984685e3fc5c4618ed88.jpg",
+        "https://telegra.ph/file/9a5421607e28f820ecfce.jpg",
+        "https://telegra.ph/file/81d8229e45ab49d169ed3.jpg",
+        "https://telegra.ph/file/8518dfe4dca0034d6a9cc.jpg",
+        "https://telegra.ph/file/07b733988a460a52ca531.jpg",
+        "https://telegra.ph/file/cd4edc91fca30885d6a0c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

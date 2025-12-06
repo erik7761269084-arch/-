@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 14260,
+    "title": "[大きな器 (新井大器)] 下半身第一主義3",
+    "sourceUrl": "https://telegra.ph/大きな器-新井大器-下半身第一主義3-08-31",
+    "images": [
+        "https://telegra.ph/file/da92133ab6db471d0ea7a.jpg",
+        "https://telegra.ph/file/2c77dcb6dcb1ca38ecbdd.jpg",
+        "https://telegra.ph/file/ba36dd0bf99ecd5d2b5d0.jpg",
+        "https://telegra.ph/file/426139176ce37c5daac1b.jpg",
+        "https://telegra.ph/file/67199a23aeb28a5216c7d.jpg",
+        "https://telegra.ph/file/1ded6dd6343ad8d309c38.jpg",
+        "https://telegra.ph/file/0a1c70844b5631591eae0.jpg",
+        "https://telegra.ph/file/80796159a38e1dac13a4e.jpg",
+        "https://telegra.ph/file/7a16dfb57a0388f93f1ec.jpg",
+        "https://telegra.ph/file/a698acd2bbbb67179e860.jpg",
+        "https://telegra.ph/file/19208b0092221f1f4ff78.jpg",
+        "https://telegra.ph/file/98ef5c6a429fcdf4a261b.jpg",
+        "https://telegra.ph/file/10623b7b2903fc04037de.jpg",
+        "https://telegra.ph/file/cec81d752aa79fc58185c.jpg",
+        "https://telegra.ph/file/197c99bc871bc0e35e794.jpg",
+        "https://telegra.ph/file/4b35502f5ab1a40631669.jpg",
+        "https://telegra.ph/file/c3679f85685a702befdd6.jpg",
+        "https://telegra.ph/file/783b820a30cb6abf31a29.jpg",
+        "https://telegra.ph/file/e61829930d28d39f80e6a.jpg",
+        "https://telegra.ph/file/e6da713a8aa78c5d9ec5e.jpg",
+        "https://telegra.ph/file/509e971bd12b28f8d7a87.jpg",
+        "https://telegra.ph/file/2a755333c6b573c5f1f78.jpg",
+        "https://telegra.ph/file/ca825c6fa3d75bb6b90b7.jpg",
+        "https://telegra.ph/file/4f4c74994d99a24b1f9a9.jpg",
+        "https://telegra.ph/file/266e178a44b5344f65648.jpg",
+        "https://telegra.ph/file/76003238a2f4ace647b7f.jpg",
+        "https://telegra.ph/file/05c52958e51a5e5e9a2f4.jpg",
+        "https://telegra.ph/file/49c669d43f4dc638232c5.jpg",
+        "https://telegra.ph/file/72c90e6f79ee595cb2321.jpg",
+        "https://telegra.ph/file/75a3e8164fdb4446d8670.jpg",
+        "https://telegra.ph/file/e9e1df4a28dbcb1465918.jpg",
+        "https://telegra.ph/file/adeb36f234fef6c584c16.jpg",
+        "https://telegra.ph/file/7d2442dca710ab10252af.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

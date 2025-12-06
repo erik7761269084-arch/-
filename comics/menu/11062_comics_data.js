@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11062,
+    "title": "[みぞね] 悪魔の花嫁修業 (COMIC BAVEL 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/みぞね-悪魔の花嫁修業-COMIC-BAVEL-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/befb94a2659510357b9a8.jpg",
+        "https://telegra.ph/file/c9fc688689b2bed16d9e3.jpg",
+        "https://telegra.ph/file/491694732a7261c0f8672.jpg",
+        "https://telegra.ph/file/3294e9c1e234747b0ea99.jpg",
+        "https://telegra.ph/file/70a189e078c46503f66a9.jpg",
+        "https://telegra.ph/file/c51727817face1051a721.jpg",
+        "https://telegra.ph/file/bbca3e3bb1d335cbc1649.jpg",
+        "https://telegra.ph/file/2f309308c42fa21d840bb.jpg",
+        "https://telegra.ph/file/e6177bebbe98afdb606eb.jpg",
+        "https://telegra.ph/file/133c70f7c4c89fbf17ea1.jpg",
+        "https://telegra.ph/file/0b697f369bb2e27955be5.jpg",
+        "https://telegra.ph/file/457ff7ee8f26113ca18fb.jpg",
+        "https://telegra.ph/file/8282e032fbe8e4294ff0d.jpg",
+        "https://telegra.ph/file/b7474a148546dee1a96f2.jpg",
+        "https://telegra.ph/file/1f06ee50c7f0c1fadd15c.jpg",
+        "https://telegra.ph/file/3224b8ae2c38e52b7c5f4.jpg",
+        "https://telegra.ph/file/01f86288c0ac91be15ada.jpg",
+        "https://telegra.ph/file/32660e5c8bedd1e24e46e.jpg",
+        "https://telegra.ph/file/2787658a27b26a27f936e.jpg",
+        "https://telegra.ph/file/5263ac12b20cba02ae70a.jpg",
+        "https://telegra.ph/file/ccf5c888c4bf7781635bb.jpg",
+        "https://telegra.ph/file/c2c3c3004779f7f975bcc.jpg",
+        "https://telegra.ph/file/98fffa0927fb214b6e45d.jpg",
+        "https://telegra.ph/file/cd517e7437e4a3d317fab.jpg",
+        "https://telegra.ph/file/2eee45c0cb24ebd1bb39c.jpg",
+        "https://telegra.ph/file/ea3d4ae45d4ad461eaf60.jpg",
+        "https://telegra.ph/file/9ff36ab34d9dceb5f40a5.jpg",
+        "https://telegra.ph/file/f9749481c57359df0b4d3.jpg",
+        "https://telegra.ph/file/f959a9b572ea71a437de8.jpg",
+        "https://telegra.ph/file/c2da9033f93cfaccbf257.jpg",
+        "https://telegra.ph/file/798f13b800adbd006b333.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

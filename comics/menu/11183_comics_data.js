@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11183,
+    "title": "[三乳亭しん太] ちんぽつき いじめられっ娘 第14話 (コミック Mate legend Vol.19 2018年2月号)",
+    "sourceUrl": "https://telegra.ph/三乳亭しん太-ちんぽつき-いじめられっ娘-第14話-コミック-Mate-legend-Vol19-2018年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/dee90eff5cf1c811be89b.jpg",
+        "https://telegra.ph/file/4400dc4c9a8921b02ad9b.jpg",
+        "https://telegra.ph/file/0e001b84524923b94de56.jpg",
+        "https://telegra.ph/file/c127acba89bc305ea4cfa.jpg",
+        "https://telegra.ph/file/d4b5e61842a612ec91a25.jpg",
+        "https://telegra.ph/file/4bdc32b02d89a92eae482.jpg",
+        "https://telegra.ph/file/a4d84d90c9c8f523b94df.jpg",
+        "https://telegra.ph/file/d531589ba79b63388b9eb.jpg",
+        "https://telegra.ph/file/b230426422b6fed07cdf1.jpg",
+        "https://telegra.ph/file/9d025416031cb49bcdcae.jpg",
+        "https://telegra.ph/file/18d10f732a0134e83bae8.jpg",
+        "https://telegra.ph/file/fdc44ab7d57dd052518e9.jpg",
+        "https://telegra.ph/file/db8a65fa7ebf769651c75.jpg",
+        "https://telegra.ph/file/c8cff76333b9cfb78b589.jpg",
+        "https://telegra.ph/file/0981c7534f9eb2f756f9f.jpg",
+        "https://telegra.ph/file/dea1bb52d4aff8e8d3f99.jpg",
+        "https://telegra.ph/file/5c9ba0ccbf2f3605dbb9c.jpg",
+        "https://telegra.ph/file/69e91419e9ea5a23a3584.jpg",
+        "https://telegra.ph/file/a973625c16a4d5ed40b87.jpg",
+        "https://telegra.ph/file/d175fb64b5a2ff02e0e0f.jpg",
+        "https://telegra.ph/file/257ea22cfdaa2aeb0a90f.jpg",
+        "https://telegra.ph/file/652ac7ba7ad5c7d2a6a1a.jpg",
+        "https://telegra.ph/file/97e9e93a0ba90ea1b5c2a.jpg",
+        "https://telegra.ph/file/49bd3cf7bf62108f3f55b.jpg",
+        "https://telegra.ph/file/932d29c591947c22a0d2f.jpg",
+        "https://telegra.ph/file/5098ac1d6a71ab377a68d.jpg",
+        "https://telegra.ph/file/84c070b69d2c8a4fb34c1.jpg",
+        "https://telegra.ph/file/4c4ddaf2720acfc1edb71.jpg",
+        "https://telegra.ph/file/f9c4cc9bdb4c3ed0fbae1.jpg",
+        "https://telegra.ph/file/f2294f812dd6c670b71fd.jpg",
+        "https://telegra.ph/file/1f961419dfa979590ab62.jpg",
+        "https://telegra.ph/file/4f4900140f8df701014af.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

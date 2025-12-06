@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11631,
+    "title": "[あんこまん] 大奥肉便器篇  (Fate/Grand Order)合集",
+    "sourceUrl": "https://telegra.ph/あんこまん-大奥肉便器篇-FateGrand-Order合集-08-31",
+    "images": [
+        "https://telegra.ph/file/918c4ad0002072ae4f0b3.jpg",
+        "https://telegra.ph/file/087a58e803ad5bcbd8d26.jpg",
+        "https://telegra.ph/file/6b16e87d45f080ebc1aca.jpg",
+        "https://telegra.ph/file/c42d23933d9f7d272c361.jpg",
+        "https://telegra.ph/file/08f504b7cd1f4d4a8f665.jpg",
+        "https://telegra.ph/file/a28585da60ce186bf49b3.jpg",
+        "https://telegra.ph/file/ba9ebdeed6add3736b772.jpg",
+        "https://telegra.ph/file/1e16e6914ced616a42b88.jpg",
+        "https://telegra.ph/file/64665fea9ae4211b62474.jpg",
+        "https://telegra.ph/file/bd206994bc2aae8a977ba.jpg",
+        "https://telegra.ph/file/0e6abb8fdc0789ca59ea1.jpg",
+        "https://telegra.ph/file/27c8a036efc9ed5c935cd.jpg",
+        "https://telegra.ph/file/879f5fa85a41cb7c4edc6.jpg",
+        "https://telegra.ph/file/151412a3ae0fdc0d77936.jpg",
+        "https://telegra.ph/file/7133e65bf5ffec8b3c070.jpg",
+        "https://telegra.ph/file/92a20e1d36107ef6fccc0.jpg",
+        "https://telegra.ph/file/72771fb7d2e248f6e0db6.jpg",
+        "https://telegra.ph/file/ef97df596c9f91c60cc1a.jpg",
+        "https://telegra.ph/file/c8c53630a8e0fcea320dd.jpg",
+        "https://telegra.ph/file/3ec3a5269fb3841446716.jpg",
+        "https://telegra.ph/file/f0ef242d3df2c29e03802.jpg",
+        "https://telegra.ph/file/7d45c4c4734eab1088c6a.jpg",
+        "https://telegra.ph/file/554ec4ae0454d0bb9b8e2.jpg",
+        "https://telegra.ph/file/cbc9cd039c0389c1889b1.jpg",
+        "https://telegra.ph/file/caa41da16acf3b69892d6.jpg",
+        "https://telegra.ph/file/74e7e1ab954afb00b64b3.jpg",
+        "https://telegra.ph/file/577541779f3557bbbbd20.jpg",
+        "https://telegra.ph/file/df46af5ac5fcf570f1783.jpg",
+        "https://telegra.ph/file/7c18f600369a78b9428d0.jpg",
+        "https://telegra.ph/file/27fcc152b5561e01b486e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

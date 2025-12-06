@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11179,
+    "title": "[ふみひろ] 妖狐淫紋奇譚 第4話",
+    "sourceUrl": "https://telegra.ph/ふみひろ-妖狐淫紋奇譚-第4話-08-31",
+    "images": [
+        "https://telegra.ph/file/6ac676ce96c2bb22a5044.jpg",
+        "https://telegra.ph/file/c979801286efb676a7bcd.jpg",
+        "https://telegra.ph/file/0e871c83dc60a4d5d43d3.jpg",
+        "https://telegra.ph/file/66f215a788d53fb696428.jpg",
+        "https://telegra.ph/file/db5c8a70640936ef9165f.jpg",
+        "https://telegra.ph/file/b0015bdf2b5cc4f063945.jpg",
+        "https://telegra.ph/file/1a98c36b4b08fbe99f97a.jpg",
+        "https://telegra.ph/file/d1e8c700c0929096c72ed.jpg",
+        "https://telegra.ph/file/05bf1c14bfb2cc5e6ba9b.jpg",
+        "https://telegra.ph/file/585adfb5144288db9ee46.jpg",
+        "https://telegra.ph/file/03e6ea89170fd0b6dd7e0.jpg",
+        "https://telegra.ph/file/2f783e18e9fbad8adfe14.jpg",
+        "https://telegra.ph/file/89658d0ed4ed402c7b47f.jpg",
+        "https://telegra.ph/file/46660246011a5a4e0d295.jpg",
+        "https://telegra.ph/file/c0e5c9efba2085b7ae041.jpg",
+        "https://telegra.ph/file/fd205b4a5528b3c4db403.jpg",
+        "https://telegra.ph/file/e537297aabcba06f7e464.jpg",
+        "https://telegra.ph/file/bd5bfe7a29033a5ef87ff.jpg",
+        "https://telegra.ph/file/e56cc9ccd2925e703ad16.jpg",
+        "https://telegra.ph/file/65090c4470233720eb56e.jpg",
+        "https://telegra.ph/file/4ca824d1887dd6cbddcab.jpg",
+        "https://telegra.ph/file/a646c6cb841ec6d9ef627.jpg",
+        "https://telegra.ph/file/60dfe30a11cd6b7a176d8.jpg",
+        "https://telegra.ph/file/b76b130ad52c789d19715.jpg",
+        "https://telegra.ph/file/037dcb1f2598184f6d271.jpg",
+        "https://telegra.ph/file/02e555e8694d71c863ff9.jpg",
+        "https://telegra.ph/file/f70ee70daf1324a7f182e.jpg",
+        "https://telegra.ph/file/7e4d93146b923e5638777.jpg",
+        "https://telegra.ph/file/54f482e10785850fd03ab.jpg",
+        "https://telegra.ph/file/07f601371db7047c91127.jpg",
+        "https://telegra.ph/file/5f9f9d5acff9167adbe75.jpg",
+        "https://telegra.ph/file/7a4c4d7976247ef292dfc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

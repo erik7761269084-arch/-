@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13407,
+    "title": "[あるぷ] ルーティーン (COMIC BAVEL 2022年10月号)",
+    "sourceUrl": "https://telegra.ph/あるぷ-ルーティーン-COMIC-BAVEL-2022年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/04f4f883719e5ad71fbd0.jpg",
+        "https://telegra.ph/file/693e0ccbe3959adb663bf.jpg",
+        "https://telegra.ph/file/619582ce2637ca218143c.jpg",
+        "https://telegra.ph/file/f588f8d6eeb93a80f8e78.jpg",
+        "https://telegra.ph/file/177af95e6467b7bbcbfea.jpg",
+        "https://telegra.ph/file/51671e399674a77adcc15.jpg",
+        "https://telegra.ph/file/261e0241e548329719b74.jpg",
+        "https://telegra.ph/file/77da903a09e3c1aaab48c.jpg",
+        "https://telegra.ph/file/ce6693aefab577f6e5dda.jpg",
+        "https://telegra.ph/file/96129aea71be3c6085d13.jpg",
+        "https://telegra.ph/file/7d474b69f6ad644b2528e.jpg",
+        "https://telegra.ph/file/66d967e00167108a00975.jpg",
+        "https://telegra.ph/file/a309b744a088abe2782e9.jpg",
+        "https://telegra.ph/file/2b209c6186904d34cee5d.jpg",
+        "https://telegra.ph/file/5f741300e5d78272c730c.jpg",
+        "https://telegra.ph/file/62be6ad0c9050c7eacf34.jpg",
+        "https://telegra.ph/file/3557ca9f19c24b5766b4a.jpg",
+        "https://telegra.ph/file/de64d9514deaa4e84fbf7.jpg",
+        "https://telegra.ph/file/a830d3cd825161fd8a2e6.jpg",
+        "https://telegra.ph/file/f54534cc836f9ba4a0d9f.jpg",
+        "https://telegra.ph/file/941561dc639938c0689b6.jpg",
+        "https://telegra.ph/file/40d57981dfb7b7a5c28de.jpg",
+        "https://telegra.ph/file/33981cabc9709c7bd240b.jpg",
+        "https://telegra.ph/file/1fbdd31f12826b1d87ce2.jpg",
+        "https://telegra.ph/file/efbf360dea2ab1b978659.jpg",
+        "https://telegra.ph/file/910e02bf0961f9ef968e3.jpg",
+        "https://telegra.ph/file/ddbc34da1b0a4d0faa2ab.jpg",
+        "https://telegra.ph/file/f671dfcf23b5632603efd.jpg",
+        "https://telegra.ph/file/8d2af01f9d540ac9fb131.jpg",
+        "https://telegra.ph/file/b3e8337366d60a7525704.jpg",
+        "https://telegra.ph/file/c5de9d84d19e0c5ba6525.jpg",
+        "https://telegra.ph/file/d2d78d2a75d2cfb4b66b4.jpg",
+        "https://telegra.ph/file/2ee4dac311bab970d1930.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

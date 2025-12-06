@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8850,
+    "title": "[ダブルデック製作所 (だぶるでっく)] モン犯!～食いしん坊ハンターの○○レポート～ (モンスターハンター)",
+    "sourceUrl": "https://telegra.ph/ダブルデック製作所-だぶるでっく-モン犯食いしん坊ハンターのレポート-モンスターハンター-08-31",
+    "images": [
+        "https://telegra.ph/file/509a6a912c1613d4d124c.jpg",
+        "https://telegra.ph/file/b588e243d4702dae226fa.jpg",
+        "https://telegra.ph/file/94849a09587d2a07b34f2.jpg",
+        "https://telegra.ph/file/f8035d063e48f78db77f4.jpg",
+        "https://telegra.ph/file/fc67db2c03ad5c17ac3f2.jpg",
+        "https://telegra.ph/file/19211a279626bd5909cf3.jpg",
+        "https://telegra.ph/file/7d4c81496bcd2f38bb5a0.jpg",
+        "https://telegra.ph/file/1919aa9d6706df4ac19f2.jpg",
+        "https://telegra.ph/file/43159fdd0acee6954fbed.jpg",
+        "https://telegra.ph/file/8cf57aa11aff260f5faa8.jpg",
+        "https://telegra.ph/file/0c4534c3bf8392b3c8850.jpg",
+        "https://telegra.ph/file/4d958cde5ca8bec4e2ba4.jpg",
+        "https://telegra.ph/file/0ce8f581a67915368199e.jpg",
+        "https://telegra.ph/file/e0dc39c870f617308eb41.jpg",
+        "https://telegra.ph/file/3d9a47912d4c612820353.jpg",
+        "https://telegra.ph/file/26ebf32bda03f9e57e1cb.jpg",
+        "https://telegra.ph/file/429d6d32d01def9d52791.jpg",
+        "https://telegra.ph/file/3260957523ec707f52f71.jpg",
+        "https://telegra.ph/file/8f98d9d90bcdca6af552b.jpg",
+        "https://telegra.ph/file/0f0c10c246bc5650d2549.jpg",
+        "https://telegra.ph/file/7a03b8cdc9d4a991f4e1e.jpg",
+        "https://telegra.ph/file/1bf56c200da08d3ae066e.jpg",
+        "https://telegra.ph/file/dd95725ed92445a4f3d67.jpg",
+        "https://telegra.ph/file/8dd3e4ab134b09078101e.jpg",
+        "https://telegra.ph/file/451594cfe54357170e134.jpg",
+        "https://telegra.ph/file/b72580fe4a38ef4dae852.jpg",
+        "https://telegra.ph/file/b7c8581116cdafb8b7961.jpg",
+        "https://telegra.ph/file/e61aec81ff5d92ff54ce2.jpg",
+        "https://telegra.ph/file/5e45db1675cce6dee8fc7.jpg",
+        "https://telegra.ph/file/f57d809f5ee19beb900c3.jpg",
+        "https://telegra.ph/file/6aa7edfac2841d2fe36fd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

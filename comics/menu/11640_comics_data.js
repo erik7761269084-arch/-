@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11640,
+    "title": "(C94) [ヒツジ企画 (むねしろ)] マジンサンはコミュしたい (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C94-ヒツジ企画-むねしろ-マジンサンはコミュしたい-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/2decd038aa2e3b837da18.jpg",
+        "https://telegra.ph/file/97a9213d84cb2ddbdd34c.jpg",
+        "https://telegra.ph/file/be306a03138cfd2bcd48f.jpg",
+        "https://telegra.ph/file/e88727f4b69aa036568cc.jpg",
+        "https://telegra.ph/file/d1b3c0db70f3175631091.jpg",
+        "https://telegra.ph/file/69753bbe583bcfd29cba0.jpg",
+        "https://telegra.ph/file/95587ddd5dca50e9f79b9.jpg",
+        "https://telegra.ph/file/39ab9a6313a81ffadddee.jpg",
+        "https://telegra.ph/file/984b61edc9a8ca2af1226.jpg",
+        "https://telegra.ph/file/bb69ce73d619d059f6a6f.jpg",
+        "https://telegra.ph/file/8ff3f45efbab680f0ec6e.jpg",
+        "https://telegra.ph/file/d065d2dc97071452d0d79.jpg",
+        "https://telegra.ph/file/4083884de97274121cdf6.jpg",
+        "https://telegra.ph/file/12b7267fb452be278920d.jpg",
+        "https://telegra.ph/file/a4a48acafae08e1c01d18.jpg",
+        "https://telegra.ph/file/134df3c94aabb3ccb47e9.jpg",
+        "https://telegra.ph/file/4c0304c9faa06e3de0031.jpg",
+        "https://telegra.ph/file/bb3f4e0b951f036c04fd5.jpg",
+        "https://telegra.ph/file/7e893dc0f48f4611f75ca.jpg",
+        "https://telegra.ph/file/b4fbb8d88b0e2e633179d.jpg",
+        "https://telegra.ph/file/1dab0385bf7c43c1e747a.jpg",
+        "https://telegra.ph/file/4c15861cb771263a04ec0.jpg",
+        "https://telegra.ph/file/4004472f6cd1828fa1e5e.jpg",
+        "https://telegra.ph/file/cecbcbbf6bea90e73c2ab.jpg",
+        "https://telegra.ph/file/caffbf119d7489d559e2b.jpg",
+        "https://telegra.ph/file/193f7419b3b36bfd0ba8b.jpg",
+        "https://telegra.ph/file/4585aa44b040bab6e7d9c.jpg",
+        "https://telegra.ph/file/6d12be7138d8b99de6e28.jpg",
+        "https://telegra.ph/file/2b36c3ecf5da5b933bd6f.jpg",
+        "https://telegra.ph/file/15bda7e5a7614e2625562.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

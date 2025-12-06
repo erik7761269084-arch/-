@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12789,
+    "title": "(C97) [OSTEREi (おー)] ネルソンのロイヤルみるくがとまらなくなる本 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C97-OSTEREi-おー-ネルソンのロイヤルみるくがとまらなくなる本-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/f65d3e46aa9e28d119b65.jpg",
+        "https://telegra.ph/file/2af064aaae26f8e63f982.jpg",
+        "https://telegra.ph/file/c7a021a27f6b0d4a8ca28.jpg",
+        "https://telegra.ph/file/f7d1858140da2ba1fdcf0.jpg",
+        "https://telegra.ph/file/377566c6e64973f20d9b6.jpg",
+        "https://telegra.ph/file/2d80c419e046f523d2def.jpg",
+        "https://telegra.ph/file/8ff60e41f2d7b45049ef8.jpg",
+        "https://telegra.ph/file/5c8ce510866f5a98cb5be.jpg",
+        "https://telegra.ph/file/42663579ca73005b4f30b.jpg",
+        "https://telegra.ph/file/b752b3a3d338f2d48cbdb.jpg",
+        "https://telegra.ph/file/2afb1e840ce1dbbe368c2.jpg",
+        "https://telegra.ph/file/6b0a45d523a323f54d4c7.jpg",
+        "https://telegra.ph/file/6d82ccae8be40b1d9d38b.jpg",
+        "https://telegra.ph/file/da077afa4800d397c240a.jpg",
+        "https://telegra.ph/file/526731eea5bc899174d4e.jpg",
+        "https://telegra.ph/file/bd91afe4f90d0b4002cb6.jpg",
+        "https://telegra.ph/file/e8ba1c5d4174ec2c77a60.jpg",
+        "https://telegra.ph/file/c63a0d26203d824ddcaa0.jpg",
+        "https://telegra.ph/file/3faee947e13758301302a.jpg",
+        "https://telegra.ph/file/59c0e2ea432550e43a876.jpg",
+        "https://telegra.ph/file/7890e247e21713dc3df1f.jpg",
+        "https://telegra.ph/file/3c16d07ff9a557d927c5d.jpg",
+        "https://telegra.ph/file/fac48a7d962b88b4f85b4.jpg",
+        "https://telegra.ph/file/4236b4438e6e439a4e6e5.jpg",
+        "https://telegra.ph/file/96fa891a49f1167d9c7e6.jpg",
+        "https://telegra.ph/file/b2b6cd1a0d46a0ef71011.jpg",
+        "https://telegra.ph/file/e160cb6f1fc57fc268a7c.jpg",
+        "https://telegra.ph/file/fbadeeb6220cde2f5f1a7.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/45ab4e5d5b98c70b11608.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

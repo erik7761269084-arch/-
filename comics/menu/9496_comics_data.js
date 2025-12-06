@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9496,
+    "title": "(C93) [カマボコ工房 (釜ボコ)] 頼光ママと御禁制する本 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C93-カマボコ工房-釜ボコ-頼光ママと御禁制する本-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/4547b48a56554a7f014e7.jpg",
+        "https://telegra.ph/file/dc001632a09e76fbd332f.jpg",
+        "https://telegra.ph/file/76a39af793094a5ad8774.jpg",
+        "https://telegra.ph/file/b82f0378b13eb86ab331f.jpg",
+        "https://telegra.ph/file/cd54223d2becb1a60c70c.jpg",
+        "https://telegra.ph/file/c014cb76ea9890f4f7a91.jpg",
+        "https://telegra.ph/file/c7a799cf0885c687e6dcb.jpg",
+        "https://telegra.ph/file/8df6cd9a19dda4371a710.jpg",
+        "https://telegra.ph/file/64dc87b9674a30e259d1d.jpg",
+        "https://telegra.ph/file/ee495486f8c5c34b15249.jpg",
+        "https://telegra.ph/file/3f6b72e265e41ae9b5019.jpg",
+        "https://telegra.ph/file/6e8e0b6e989a04d9a57d1.jpg",
+        "https://telegra.ph/file/8eaf6c8344c9d9389da16.jpg",
+        "https://telegra.ph/file/985cf9d40b77dee11c6dd.jpg",
+        "https://telegra.ph/file/340728dc577e13d641af4.jpg",
+        "https://telegra.ph/file/9bcd7e794719e70ad9626.jpg",
+        "https://telegra.ph/file/0d8e914a34d2e34e56efa.jpg",
+        "https://telegra.ph/file/df70a560b9d0c8e20b6be.jpg",
+        "https://telegra.ph/file/e5a3cc6e5537a2939af83.jpg",
+        "https://telegra.ph/file/215241b06273ec9483d82.jpg",
+        "https://telegra.ph/file/580572b335eba37e194d9.jpg",
+        "https://telegra.ph/file/2457c1def06f0c1259b1e.jpg",
+        "https://telegra.ph/file/ae7b3e24618de88dbed59.jpg",
+        "https://telegra.ph/file/9c616b27de94347e9ad20.jpg",
+        "https://telegra.ph/file/73c13e1a1abd928540bd9.jpg",
+        "https://telegra.ph/file/ebeff4e8e1bd833107cf7.jpg",
+        "https://telegra.ph/file/58197c6178ff7029353fe.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/bc8516605e1025fae339e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

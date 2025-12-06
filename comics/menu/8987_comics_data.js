@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8987,
+    "title": "(C97) [狼幼館 (あげたま)] フェティシズム+冬優子イズム (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C97-狼幼館-あげたま-フェティシズム冬優子イズム-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/9e6868544441f387df1e4.jpg",
+        "https://telegra.ph/file/bdb35b73d5be3f0ee0c47.jpg",
+        "https://telegra.ph/file/81910861ec8378c78e69f.png",
+        "https://telegra.ph/file/8edc36a440b43ad481afe.png",
+        "https://telegra.ph/file/8a410e9b08b17c3a11e0c.jpg",
+        "https://telegra.ph/file/f1c0602cbb66e02ade6d9.jpg",
+        "https://telegra.ph/file/07f5c74785bf8bcb8171f.jpg",
+        "https://telegra.ph/file/f491cceeef48dc2631cfe.jpg",
+        "https://telegra.ph/file/b5a5abb79b447f0f034b6.jpg",
+        "https://telegra.ph/file/53a172d436b127eee5c20.jpg",
+        "https://telegra.ph/file/abce100c618de1506fe37.jpg",
+        "https://telegra.ph/file/4624f09abd220de9278de.jpg",
+        "https://telegra.ph/file/6aa94b67b69d3e62388a1.png",
+        "https://telegra.ph/file/4c34a6458a4bed795910d.jpg",
+        "https://telegra.ph/file/b08b91baa23a011463f97.jpg",
+        "https://telegra.ph/file/63481cb67f19bab7f78cb.jpg",
+        "https://telegra.ph/file/0681d106419bd81787fa6.jpg",
+        "https://telegra.ph/file/ec926b04a06dbdaa838cf.jpg",
+        "https://telegra.ph/file/e8504ef8ebe03fec29d9f.jpg",
+        "https://telegra.ph/file/b67510a3edfe21aa7fd0d.jpg",
+        "https://telegra.ph/file/879e69add642cfe96e17d.jpg",
+        "https://telegra.ph/file/0749245f9a65e7aff903a.jpg",
+        "https://telegra.ph/file/2c083828b2dd0fba1d31f.jpg",
+        "https://telegra.ph/file/679bb2e50d3a378a85248.jpg",
+        "https://telegra.ph/file/eae647a8fe99ac31aa0be.jpg",
+        "https://telegra.ph/file/677cf031754e667279c8f.jpg",
+        "https://telegra.ph/file/cc58ec917e0978be53aa1.jpg",
+        "https://telegra.ph/file/3fbfb1751340eac642fd4.jpg",
+        "https://telegra.ph/file/8381de17d73bb6cd42275.jpg",
+        "https://telegra.ph/file/a4111d92c9648dd3e3577.jpg",
+        "https://telegra.ph/file/2cacbd640218dbea31061.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

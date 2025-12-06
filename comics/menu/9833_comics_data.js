@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9833,
+    "title": "[RipLip (水原優)] 迷娘、拾いました。 ~2匹目~ (迷娘、拾いました。総集編)",
+    "sourceUrl": "https://telegra.ph/RipLip-水原優-迷娘拾いました-2匹目-迷娘拾いました総集編-08-31",
+    "images": [
+        "https://telegra.ph/file/0ae32014282b0bd9e1936.jpg",
+        "https://telegra.ph/file/c34fa13afbf994428efe0.jpg",
+        "https://telegra.ph/file/568f75ed7a87167ec7c19.jpg",
+        "https://telegra.ph/file/419845c2d9b4d25d05aef.jpg",
+        "https://telegra.ph/file/d9d75cde5af1de39833ce.jpg",
+        "https://telegra.ph/file/0362d6a01c850b19160f2.jpg",
+        "https://telegra.ph/file/f6ee0a5f36097461bced1.jpg",
+        "https://telegra.ph/file/97e7d77122c7b1be98b8d.jpg",
+        "https://telegra.ph/file/be598ade0b907cc3fb951.jpg",
+        "https://telegra.ph/file/4b9f5cc83a75014ff756c.jpg",
+        "https://telegra.ph/file/aa283cffdb988da64c468.jpg",
+        "https://telegra.ph/file/2ff11876e3892e9287819.jpg",
+        "https://telegra.ph/file/3c1dc7d6f0c248d1baf5d.jpg",
+        "https://telegra.ph/file/60ca6bb5a5fa97e0ad017.jpg",
+        "https://telegra.ph/file/1c657790de8ff350cbbaa.jpg",
+        "https://telegra.ph/file/8a18f947877e72e55cd12.jpg",
+        "https://telegra.ph/file/98872ca9698a5aa38bf85.jpg",
+        "https://telegra.ph/file/0acb0507baf084a3c8525.jpg",
+        "https://telegra.ph/file/1e6d1c2d191c93d473bd0.jpg",
+        "https://telegra.ph/file/61e8ddd3a6443032ed72a.jpg",
+        "https://telegra.ph/file/c49e02b9b03eb66b72893.jpg",
+        "https://telegra.ph/file/5d52fda137b00908d7062.jpg",
+        "https://telegra.ph/file/2bc356de3f9c029471525.jpg",
+        "https://telegra.ph/file/69869d7817abab06c02da.jpg",
+        "https://telegra.ph/file/8b4f6398d1a19431cc781.jpg",
+        "https://telegra.ph/file/49e28f3707300ed140951.jpg",
+        "https://telegra.ph/file/b0470e6d05e58bf861932.jpg",
+        "https://telegra.ph/file/b754ce258926bc58b8cc5.jpg",
+        "https://telegra.ph/file/f41f8dda403c66d928d72.jpg",
+        "https://telegra.ph/file/8ee818cda26e5d13cc353.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

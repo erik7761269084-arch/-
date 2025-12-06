@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10634,
+    "title": "[奥森ボウイ] 俺得修学旅行～男は女装した俺だけ!! 第34話",
+    "sourceUrl": "https://telegra.ph/奥森ボウイ-俺得修学旅行男は女装した俺だけ-第34話-08-31",
+    "images": [
+        "https://telegra.ph/file/76772541390534ef0516c.jpg",
+        "https://telegra.ph/file/e3363fcee615b93313023.jpg",
+        "https://telegra.ph/file/4ca03547328e98a26e507.jpg",
+        "https://telegra.ph/file/318d753ee1bcac59d1661.jpg",
+        "https://telegra.ph/file/cb35c1d4b4915ebdec8c9.jpg",
+        "https://telegra.ph/file/a4c98a26b829f66936b77.jpg",
+        "https://telegra.ph/file/54c835623976c0ae9f0bb.jpg",
+        "https://telegra.ph/file/241510068aee9ef34cd1b.jpg",
+        "https://telegra.ph/file/7eca131340114d87f5e74.jpg",
+        "https://telegra.ph/file/81ff7af98ca6c0dec5cc9.jpg",
+        "https://telegra.ph/file/ef84b49c6e472803cc32a.jpg",
+        "https://telegra.ph/file/a464ff3e204032d85d360.jpg",
+        "https://telegra.ph/file/f5f2a29e04866139c4b86.jpg",
+        "https://telegra.ph/file/8af3848713f9b10c7df4e.jpg",
+        "https://telegra.ph/file/6ce3ee02813ec89566f4d.jpg",
+        "https://telegra.ph/file/cdeb252603023ccea278f.jpg",
+        "https://telegra.ph/file/d30e8bb79bceb6e3c0667.jpg",
+        "https://telegra.ph/file/d6673c172bd9f28800bc6.jpg",
+        "https://telegra.ph/file/b26c1c61f11b0eb5e8005.jpg",
+        "https://telegra.ph/file/f0ba86439ef6c64cff569.jpg",
+        "https://telegra.ph/file/a36ed7e1d73268a4bb20a.jpg",
+        "https://telegra.ph/file/897ac6da69bb1f57768a2.jpg",
+        "https://telegra.ph/file/251dbc1a9c5df7b35f0c5.jpg",
+        "https://telegra.ph/file/59ff5edfccf92b2ba0750.jpg",
+        "https://telegra.ph/file/15d3ba394bbca0f5d6548.jpg",
+        "https://telegra.ph/file/b512afcf89bd2799ffcea.jpg",
+        "https://telegra.ph/file/db177e58377864bf90ac2.jpg",
+        "https://telegra.ph/file/541c5f90a072c449cbd94.jpg",
+        "https://telegra.ph/file/baaea4361e5f5b1241d0d.jpg",
+        "https://telegra.ph/file/24148c4fbb7a845b1f4d5.jpg",
+        "https://telegra.ph/file/14a4ef0ce79cb00e5b6fd.jpg",
+        "https://telegra.ph/file/0d48ed023824befa6f8dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

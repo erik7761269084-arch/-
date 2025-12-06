@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 16572,
+    "title": "[KARAS押形] ロフトムーン (BanG Dream! Ave Mujica) -Preview",
+    "sourceUrl": "https://telegra.ph/KARAS押形-ロフトムーン-BanG-Dream-Ave-Mujica--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_000.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_00.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_01.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_02.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_03.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_04.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_05.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_06.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_07.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_08.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_09.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_10.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_11.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_12.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_13.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_14.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_15.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_16.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_17.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_18.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_19.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_20.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_21.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_22.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_23.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_24.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_25.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_26.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_27.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_28.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_29.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_30.webp",
+        "https://i2.linghua.xyz/ex/3367756/1ae766a139/_31.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

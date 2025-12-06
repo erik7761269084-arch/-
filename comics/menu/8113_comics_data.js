@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8113,
+    "title": "[めいめいこめい (めーすけ)] おねサキュ～お義姉ちゃんはどスケベサキュバス～",
+    "sourceUrl": "https://telegra.ph/めいめいこめい-めーすけ-おねサキュお義姉ちゃんはどスケベサキュバス-08-31",
+    "images": [
+        "https://telegra.ph/file/e8dab9874fa149068306e.jpg",
+        "https://telegra.ph/file/4cef7210b8e3a8c219766.jpg",
+        "https://telegra.ph/file/b8c5c581498880d57c531.jpg",
+        "https://telegra.ph/file/2e69e8ee90e6731e694c0.jpg",
+        "https://telegra.ph/file/9bd77212e6456704f5db5.jpg",
+        "https://telegra.ph/file/6101bae2437ec6858922c.jpg",
+        "https://telegra.ph/file/5e62f330a01fa44a57411.jpg",
+        "https://telegra.ph/file/bea45b967c04c5f974c8f.jpg",
+        "https://telegra.ph/file/08150be798a59f05778e9.jpg",
+        "https://telegra.ph/file/17a2b742343642dbfe14f.jpg",
+        "https://telegra.ph/file/f0af72dc013639e3ba5a7.jpg",
+        "https://telegra.ph/file/e68018e3ac0fe987be231.jpg",
+        "https://telegra.ph/file/b645729344e673e9d9bf4.jpg",
+        "https://telegra.ph/file/6047fc7623992605b701b.jpg",
+        "https://telegra.ph/file/b2fb4a0e8d76fbc6ade8d.jpg",
+        "https://telegra.ph/file/2dd9157dd6841849a2aa3.jpg",
+        "https://telegra.ph/file/6db3f18f0401ea6a786d6.jpg",
+        "https://telegra.ph/file/fb8b8312d4be77ebefa72.jpg",
+        "https://telegra.ph/file/63183cf921cb444be02bd.jpg",
+        "https://telegra.ph/file/6f0dc67583489ef4e2fdd.jpg",
+        "https://telegra.ph/file/3fd28e726bfc75e718cb0.jpg",
+        "https://telegra.ph/file/12e73bc2b21278e2706d4.jpg",
+        "https://telegra.ph/file/7890752e7252fc602dac2.jpg",
+        "https://telegra.ph/file/3eaf6f61622abda8d8d79.jpg",
+        "https://telegra.ph/file/284794888f0f03ad9a3dc.jpg",
+        "https://telegra.ph/file/412d1dcd9680d38ed8d01.jpg",
+        "https://telegra.ph/file/29095553182b27cb9669e.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/993f07f1c165f24f54716.png",
+        "https://telegra.ph/file/aa45150f9ca7717ba5a1b.jpg",
+        "https://telegra.ph/file/f4c81417157faf3d84e72.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

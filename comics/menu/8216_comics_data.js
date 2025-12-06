@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8216,
+    "title": "[紅茶屋 (大塚子虎)] HEAVEN’S DRIVE 9 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/紅茶屋-大塚子虎-HEAVENS-DRIVE-9-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/fd9ddce2c8d36210f1292.jpg",
+        "https://telegra.ph/file/f2cf67ccd61c181a570b7.jpg",
+        "https://telegra.ph/file/ddbf4e269c898e67afb5e.jpg",
+        "https://telegra.ph/file/24954d063923fa894a7a1.jpg",
+        "https://telegra.ph/file/a7335f77f132df70dbd75.jpg",
+        "https://telegra.ph/file/0a2e28b0800369875b6cd.jpg",
+        "https://telegra.ph/file/e19c519303a8ec4d89a26.jpg",
+        "https://telegra.ph/file/c117576e77d81a9d8977a.jpg",
+        "https://telegra.ph/file/056d39e4d367a05934b27.jpg",
+        "https://telegra.ph/file/a1bbef5f2c4689d2fd7c7.jpg",
+        "https://telegra.ph/file/aa14a4a6d822459a3509b.jpg",
+        "https://telegra.ph/file/53398b12cb8e23dcda5ce.jpg",
+        "https://telegra.ph/file/b5113834d8aa99c5828bf.jpg",
+        "https://telegra.ph/file/b409e2d9cdca7b2a9e3db.jpg",
+        "https://telegra.ph/file/7f58f3b2910566ede83db.jpg",
+        "https://telegra.ph/file/f9ceeb7716f478eacef43.jpg",
+        "https://telegra.ph/file/0cd7b069cc349f5493356.jpg",
+        "https://telegra.ph/file/7eb1d211d983181289e67.jpg",
+        "https://telegra.ph/file/d6e5fdaba1fdfd487809f.jpg",
+        "https://telegra.ph/file/8919c3becc3d791139794.jpg",
+        "https://telegra.ph/file/cd39240d815dc79deac2c.jpg",
+        "https://telegra.ph/file/fa7bc5955fb03f3282aaa.jpg",
+        "https://telegra.ph/file/2ed4445b5002d89bc54bd.jpg",
+        "https://telegra.ph/file/2195384e3e45ef28d4199.jpg",
+        "https://telegra.ph/file/114980416a0c6ac47e8d8.jpg",
+        "https://telegra.ph/file/5f7016e701cc0269be94a.jpg",
+        "https://telegra.ph/file/d016997135929e6b9110d.jpg",
+        "https://telegra.ph/file/8a4954a14359f9b7d298d.jpg",
+        "https://telegra.ph/file/28bfe1d79263505b5777d.jpg",
+        "https://telegra.ph/file/f4bb26e7d9869f65c4998.jpg",
+        "https://telegra.ph/file/f0e406b5bd517156d5895.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

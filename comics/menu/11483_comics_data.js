@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11483,
+    "title": "(はたケット) [行脚堂 (しけー)] アリスのないしょ (ソードアート・オンライン)",
+    "sourceUrl": "https://telegra.ph/はたケット-行脚堂-しけー-アリスのないしょ-ソードアートオンライン-08-31",
+    "images": [
+        "https://telegra.ph/file/fb298517aad68f090cffc.jpg",
+        "https://telegra.ph/file/68828facca2e2fa824c5b.jpg",
+        "https://telegra.ph/file/63e3f42f6e6cc60819d84.jpg",
+        "https://telegra.ph/file/a4c5e7fc5107fa2ae3081.jpg",
+        "https://telegra.ph/file/97bd903441d69729d6e7e.jpg",
+        "https://telegra.ph/file/38cc1e6c9a6d8591d664b.jpg",
+        "https://telegra.ph/file/a440798e790899d486c6d.jpg",
+        "https://telegra.ph/file/650ca1b2cdd3fe7b04821.jpg",
+        "https://telegra.ph/file/73ff722d55774910ba3f7.jpg",
+        "https://telegra.ph/file/d59ef8fb9ecb18d9cdcd6.jpg",
+        "https://telegra.ph/file/d9132d206cee6d74a0fb9.jpg",
+        "https://telegra.ph/file/3629af1f083d6c2fdd83f.jpg",
+        "https://telegra.ph/file/b6849570f46c8eead9652.jpg",
+        "https://telegra.ph/file/2df9a7ca100612e556b4b.jpg",
+        "https://telegra.ph/file/de95df46d006c03c3a94a.jpg",
+        "https://telegra.ph/file/5d04bb298d6e16b83b42d.jpg",
+        "https://telegra.ph/file/c91f2a14bfd64c27a9669.jpg",
+        "https://telegra.ph/file/eda6c77e5ac65ed661c4a.jpg",
+        "https://telegra.ph/file/4108f1318f2e86661c907.jpg",
+        "https://telegra.ph/file/2b7c2229c4389d3cd377a.jpg",
+        "https://telegra.ph/file/b14c4278b61fdaeaad32a.jpg",
+        "https://telegra.ph/file/169e3feb51887aa81dda3.jpg",
+        "https://telegra.ph/file/75221d335463e03723483.jpg",
+        "https://telegra.ph/file/489ffe7fa93bb1b06f9f8.jpg",
+        "https://telegra.ph/file/8369ab9103dac90ef27d3.jpg",
+        "https://telegra.ph/file/e22012bedd637fe2bc744.jpg",
+        "https://telegra.ph/file/4201d9b5849fe60f65836.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/c68ac75a958bdc6a3a122.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

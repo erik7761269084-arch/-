@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11107,
+    "title": "[わかまつ] 卒業の日まで毎日バス停で後輩女子とセックスする話",
+    "sourceUrl": "https://telegra.ph/わかまつ-卒業の日まで毎日バス停で後輩女子とセックスする話-08-31",
+    "images": [
+        "https://telegra.ph/file/bb65fb14fda95e1b09e67.jpg",
+        "https://telegra.ph/file/af400a255a6db0e43baa9.jpg",
+        "https://telegra.ph/file/ce14bb3bddf2174586b75.jpg",
+        "https://telegra.ph/file/fb726885988e3555196c9.jpg",
+        "https://telegra.ph/file/4468a30a09aceed66843c.jpg",
+        "https://telegra.ph/file/3c04e20f174e76b0f1f90.jpg",
+        "https://telegra.ph/file/3ef0aa367a86d2f3939f0.jpg",
+        "https://telegra.ph/file/75c267f9dd73643fce799.jpg",
+        "https://telegra.ph/file/3b9cba2d275a8d0b516a6.jpg",
+        "https://telegra.ph/file/2e34fbbd472a76c23f980.jpg",
+        "https://telegra.ph/file/33fe5a3d7e4157c77f87c.jpg",
+        "https://telegra.ph/file/a65cd4ba46db6218c90d1.jpg",
+        "https://telegra.ph/file/d3816428ea45b6b019c6d.jpg",
+        "https://telegra.ph/file/ba3e862482a445d220461.jpg",
+        "https://telegra.ph/file/a4467097d040213bb5f73.jpg",
+        "https://telegra.ph/file/045bec917d2eb76d22687.jpg",
+        "https://telegra.ph/file/20398761201cf28fe2fc0.jpg",
+        "https://telegra.ph/file/eb1e6dd6df58b24e2e53a.jpg",
+        "https://telegra.ph/file/37439ae2d13996551b862.jpg",
+        "https://telegra.ph/file/a72ed14a0b2c617afe2aa.jpg",
+        "https://telegra.ph/file/d763a7bcc82214cb3b848.jpg",
+        "https://telegra.ph/file/ecda52f1492ab130689b6.jpg",
+        "https://telegra.ph/file/d7ed1ed0fe707464baeb3.jpg",
+        "https://telegra.ph/file/8b1a34b2e98f2cc33beb4.jpg",
+        "https://telegra.ph/file/a2b54d5ea7199856e3083.jpg",
+        "https://telegra.ph/file/5f3e176c860664ffe100e.jpg",
+        "https://telegra.ph/file/2308caf9544ddfd30b6a2.jpg",
+        "https://telegra.ph/file/5897e73307043f79660ae.jpg",
+        "https://telegra.ph/file/25dc2c2245479e1178349.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

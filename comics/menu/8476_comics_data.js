@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8476,
+    "title": "[AKYS本舗] 半年間セックスレスの人妻は…",
+    "sourceUrl": "https://telegra.ph/AKYS本舗-半年間セックスレスの人妻は-08-31",
+    "images": [
+        "https://telegra.ph/file/bb5c53f199225644034d8.jpg",
+        "https://telegra.ph/file/4df6d54c27f57969631ad.jpg",
+        "https://telegra.ph/file/f99e2200049764179d23d.jpg",
+        "https://telegra.ph/file/2af53d7ac81972c886673.jpg",
+        "https://telegra.ph/file/c754f9ffd68020f6058ad.jpg",
+        "https://telegra.ph/file/9ed1f7699a84d4611bcaa.jpg",
+        "https://telegra.ph/file/3574abac4c337836c0d3a.jpg",
+        "https://telegra.ph/file/9f7842b67049a4f3c70d1.jpg",
+        "https://telegra.ph/file/1d867d67fefc6d81d845b.jpg",
+        "https://telegra.ph/file/54b763abff4115894ac2f.jpg",
+        "https://telegra.ph/file/5a67a63198d6305013c39.jpg",
+        "https://telegra.ph/file/481137662e3792f619f40.jpg",
+        "https://telegra.ph/file/6f2bfb6649f4049658131.jpg",
+        "https://telegra.ph/file/b59efc519570f903f59c1.jpg",
+        "https://telegra.ph/file/df30fb9a1833f25809e6d.jpg",
+        "https://telegra.ph/file/0a7bd40569e8e54b1f461.jpg",
+        "https://telegra.ph/file/fa1415593c5d018bcc978.jpg",
+        "https://telegra.ph/file/d55d26aeaf2e7a092c740.jpg",
+        "https://telegra.ph/file/dcbe431e8f479cffe0496.jpg",
+        "https://telegra.ph/file/573da51d2b3d1f58e6bd8.jpg",
+        "https://telegra.ph/file/aafeb3dd1b92faeb605e8.jpg",
+        "https://telegra.ph/file/85b51505bfdf95dbadff1.jpg",
+        "https://telegra.ph/file/10345c586c8dbb94dd99f.jpg",
+        "https://telegra.ph/file/16f78961d2359647b4b6a.jpg",
+        "https://telegra.ph/file/7e7333562b92063d6a752.jpg",
+        "https://telegra.ph/file/1a090aad3be48cdca622a.jpg",
+        "https://telegra.ph/file/28f46046e3ce44bb79033.jpg",
+        "https://telegra.ph/file/faf01c3e06baeb17a54ad.jpg",
+        "https://telegra.ph/file/2926a925413712d483078.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

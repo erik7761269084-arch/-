@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9166,
+    "title": "(C97) [にくにくイタリアン (秋草ぺぺろん)] この母娘サキュバスかもしれない。",
+    "sourceUrl": "https://telegra.ph/C97-にくにくイタリアン-秋草ぺぺろん-この母娘サキュバスかもしれない-08-31",
+    "images": [
+        "https://telegra.ph/file/b0d3ab366dc2c784ee3ba.jpg",
+        "https://telegra.ph/file/2350e419cab0fe2e1cd6f.jpg",
+        "https://telegra.ph/file/b4300f0b036b6db587b5f.jpg",
+        "https://telegra.ph/file/6591586b49ef1ff837933.jpg",
+        "https://telegra.ph/file/59e52fb8e965ee43b0952.jpg",
+        "https://telegra.ph/file/a6728daa413c2f2c0d3c5.jpg",
+        "https://telegra.ph/file/62a3821aa687ec98f1597.jpg",
+        "https://telegra.ph/file/84a8730bc82a92a8da14a.jpg",
+        "https://telegra.ph/file/582b205deb870cb1f888b.jpg",
+        "https://telegra.ph/file/1df86ace8b9a47bb65ad2.jpg",
+        "https://telegra.ph/file/b9fd3248a4ca45a72b13d.jpg",
+        "https://telegra.ph/file/0f71800a9b14f0c37bcc6.jpg",
+        "https://telegra.ph/file/beb32c5147df5d96786e5.jpg",
+        "https://telegra.ph/file/c5b7f9ee2414e5ac55665.jpg",
+        "https://telegra.ph/file/83a0856efe26974086458.jpg",
+        "https://telegra.ph/file/ee65d6b6fef5baa9dd81b.jpg",
+        "https://telegra.ph/file/b59153b4e9f351821dcb0.jpg",
+        "https://telegra.ph/file/705e457a5489080d61eaa.jpg",
+        "https://telegra.ph/file/2796bf1ea93504c4199e5.jpg",
+        "https://telegra.ph/file/83b25335d622cda197984.jpg",
+        "https://telegra.ph/file/1d8fa21996eb8f2b735b2.jpg",
+        "https://telegra.ph/file/f5cf28b46d53dd9c46aa1.jpg",
+        "https://telegra.ph/file/7d0b9fed49b86fbb6c0d1.jpg",
+        "https://telegra.ph/file/5eca8b9e30b8b8539b117.jpg",
+        "https://telegra.ph/file/e7c5f4c372ed53d20f18e.jpg",
+        "https://telegra.ph/file/2ac9f5de6b2cb9d2da6a8.jpg",
+        "https://telegra.ph/file/f778bf6c50de425429e39.jpg",
+        "https://telegra.ph/file/935a7cfda5a5d35854047.jpg",
+        "https://telegra.ph/file/841921ab1b18ec6f3e234.jpg",
+        "https://telegra.ph/file/2170523e8548d201ae3bc.jpg",
+        "https://telegra.ph/file/0a04b21179fbc674051f4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

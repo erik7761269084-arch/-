@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16411,
+    "title": "[どよんど。 (たいやき)] 友愛 (アイカツスターズ!)  -Preview",
+    "sourceUrl": "https://telegra.ph/どよんど-たいやき-友愛-アイカツスターズ--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/1.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/2_fin.jpg",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/3.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/4_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/5_fin.jpg",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/6_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/7_fin.jpg",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/8_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/9_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/10_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/11_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/12_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/13_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/14_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/15_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/16_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/17_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/18_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/19_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/20_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/21_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/22_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/23_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/24_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/25_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/26_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/27_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/28_fin.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/29_fin.jpg",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/30.webp",
+        "https://i2.linghua.xyz/ex/3148698/c01b555ee2/31_fin.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11633,
+    "title": "(COMIC1☆13) [蕎麦部 (らっそん)] のんたんビフォーアフターシーサイド (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/COMIC113-蕎麦部-らっそん-のんたんビフォーアフターシーサイド-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/9c53b2ef60bc7e3580506.jpg",
+        "https://telegra.ph/file/9a143aee0a8044f31c4d0.jpg",
+        "https://telegra.ph/file/730f615a0d139a58a31f5.jpg",
+        "https://telegra.ph/file/40ef6caf4c5efa029a5cf.jpg",
+        "https://telegra.ph/file/37cf7dc6c53ea0c2e6e19.jpg",
+        "https://telegra.ph/file/1217af3c75da1cfe8c067.jpg",
+        "https://telegra.ph/file/58ca9dc0a05db4b626485.jpg",
+        "https://telegra.ph/file/e4e7c4fa04aa7933e98d7.jpg",
+        "https://telegra.ph/file/1d2c0e40e67b5fef69248.jpg",
+        "https://telegra.ph/file/3196a5a081085959fcece.jpg",
+        "https://telegra.ph/file/08f5a15e9fb411303914a.jpg",
+        "https://telegra.ph/file/6a8807d0437a33ff65b3c.jpg",
+        "https://telegra.ph/file/3a430c816d0c1336901cd.jpg",
+        "https://telegra.ph/file/ae5c1996dfc3c9c517718.jpg",
+        "https://telegra.ph/file/1c69f038e8d6926c95b48.jpg",
+        "https://telegra.ph/file/924d7404d7d6de2e9cdea.jpg",
+        "https://telegra.ph/file/c9f91988ad600304a6d92.jpg",
+        "https://telegra.ph/file/f91e8fbf06c3ee4936a48.jpg",
+        "https://telegra.ph/file/f23c34e8db82c88446aaf.jpg",
+        "https://telegra.ph/file/2b30afcea066f7685cea3.jpg",
+        "https://telegra.ph/file/d5418f443f25cd2db0d92.jpg",
+        "https://telegra.ph/file/72fa3327a191c85898658.jpg",
+        "https://telegra.ph/file/035988366067a395a3241.jpg",
+        "https://telegra.ph/file/e30f849ee8b0e413ff4e0.jpg",
+        "https://telegra.ph/file/f36943c94c15490303b6b.jpg",
+        "https://telegra.ph/file/52befe8a8091504f5929d.jpg",
+        "https://telegra.ph/file/47250197edf1b9c9c8c0b.jpg",
+        "https://telegra.ph/file/dc48d5784100dd39fabc2.jpg",
+        "https://telegra.ph/file/6d15804b3d9c8403ad15d.jpg",
+        "https://telegra.ph/file/5f8330dc465b347fd44c4.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

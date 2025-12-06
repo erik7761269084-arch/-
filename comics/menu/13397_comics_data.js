@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13397,
+    "title": "(C100) [e.com (ae)] Spit it Out! (アイドルマスターシャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/C100-ecom-ae-Spit-it-Out-アイドルマスターシャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/ccc940da74bb47dd2649d.jpg",
+        "https://telegra.ph/file/1015bd9186b6d0a80c923.jpg",
+        "https://telegra.ph/file/d8b2c9104513b3e443705.jpg",
+        "https://telegra.ph/file/46d0beed3c6b644d3e16c.jpg",
+        "https://telegra.ph/file/203a887d56272181f14e4.jpg",
+        "https://telegra.ph/file/23eeda99b627c6dce13ee.jpg",
+        "https://telegra.ph/file/721f9c1eec7c8a8a33225.jpg",
+        "https://telegra.ph/file/d0da96c1cc6c8f1c4eefd.jpg",
+        "https://telegra.ph/file/08249efeb48a40e148854.jpg",
+        "https://telegra.ph/file/f83ba3dd69abe5127a1bf.jpg",
+        "https://telegra.ph/file/a5b85adaa78b6de07ab3d.jpg",
+        "https://telegra.ph/file/f2d110220fe5d438207cd.jpg",
+        "https://telegra.ph/file/b01384b85020b03a81122.jpg",
+        "https://telegra.ph/file/e5d89a92133dd0e5b94dc.jpg",
+        "https://telegra.ph/file/7ce1df2aa4b7e5be373e2.jpg",
+        "https://telegra.ph/file/da6ecc8908a2356b573e1.jpg",
+        "https://telegra.ph/file/1b813013117b131185337.jpg",
+        "https://telegra.ph/file/7e34c9db55a61ce93d200.jpg",
+        "https://telegra.ph/file/3fb3e6669fbebcd6e2c20.jpg",
+        "https://telegra.ph/file/43eaaa75f4a914f56a7bf.jpg",
+        "https://telegra.ph/file/1056340c0c6ad616ef310.jpg",
+        "https://telegra.ph/file/9165ad9221723a1372365.jpg",
+        "https://telegra.ph/file/94bddddfa2e39930b6c4c.jpg",
+        "https://telegra.ph/file/af861f44103c8cf08e6d3.jpg",
+        "https://telegra.ph/file/58e5a7aa245f2a2fbc035.jpg",
+        "https://telegra.ph/file/c6cc713c0cfb974d5f7c9.jpg",
+        "https://telegra.ph/file/69d5bca9709a0a3a14667.jpg",
+        "https://telegra.ph/file/aa6fdc2961c8e0cecaf2d.jpg",
+        "https://telegra.ph/file/b7d51581f9f8b5fa4ba1d.jpg",
+        "https://telegra.ph/file/385cd4f7c868d9dfe669d.jpg",
+        "https://telegra.ph/file/870fb5a59355215f0bcd6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

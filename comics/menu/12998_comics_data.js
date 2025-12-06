@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12998,
+    "title": "[MonsieuR(MUK)] 淫魔少女３人におちんちん遊ばれる本",
+    "sourceUrl": "https://telegra.ph/MonsieuRMUK-淫魔少女３人におちんちん遊ばれる本-08-31",
+    "images": [
+        "https://telegra.ph/file/400e01126a278ee704b28.jpg",
+        "https://telegra.ph/file/57acaf756399bef79a6d7.jpg",
+        "https://telegra.ph/file/13cfdb6fea1432490f9f8.jpg",
+        "https://telegra.ph/file/94153bbffc0873f5789c6.jpg",
+        "https://telegra.ph/file/606b3c0e2d83d416167fe.jpg",
+        "https://telegra.ph/file/a52f605b069d3cfe8c88c.jpg",
+        "https://telegra.ph/file/47f800f493a2eb1bcb63b.jpg",
+        "https://telegra.ph/file/dadfb749f514362edc15b.jpg",
+        "https://telegra.ph/file/d9817de30c0968138f09b.jpg",
+        "https://telegra.ph/file/8bfa38ef643378b09eac4.jpg",
+        "https://telegra.ph/file/a25ccdcf21f18342cf48b.jpg",
+        "https://telegra.ph/file/93e6aadc9c193ead1375e.jpg",
+        "https://telegra.ph/file/740382e89c7dc0bb3e231.jpg",
+        "https://telegra.ph/file/26d6a9b2fd7a1134442e3.jpg",
+        "https://telegra.ph/file/5596b52e58cb0771c74bc.jpg",
+        "https://telegra.ph/file/925a1ce6d285309d9eb12.jpg",
+        "https://telegra.ph/file/a65457a6e0375ac2f9964.jpg",
+        "https://telegra.ph/file/30a4fddc569c0f291e1b7.jpg",
+        "https://telegra.ph/file/5126a3b6294ce90f9c870.jpg",
+        "https://telegra.ph/file/d1e8c4fda4c82635863c5.jpg",
+        "https://telegra.ph/file/55a526b1d88135d754567.jpg",
+        "https://telegra.ph/file/0ed40a08b9b1b19d1f3e3.jpg",
+        "https://telegra.ph/file/d9f90044ff945aa07b84e.jpg",
+        "https://telegra.ph/file/f4ae1810953b8b20f334c.jpg",
+        "https://telegra.ph/file/ca8ae1c8c8893c07f5dd4.jpg",
+        "https://telegra.ph/file/433385f346da09108f664.jpg",
+        "https://telegra.ph/file/e7febee9dfc3ab40d9a2c.jpg",
+        "https://telegra.ph/file/f9e8a1295673a42cfe19d.jpg",
+        "https://telegra.ph/file/4b58b854065115210b853.jpg",
+        "https://telegra.ph/file/a1a208f65bb4f66369e49.jpg",
+        "https://telegra.ph/file/c4707c8d7a0aeda1e6249.jpg",
+        "https://telegra.ph/file/fe3f9a2e75512e94b6127.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12954,
+    "title": "[Akari (Himitsu)] 縄と丸 (ラブライブ! サンシャイン!!)",
+    "sourceUrl": "https://telegra.ph/Akari-Himitsu-縄と丸-ラブライブ-サンシャイン-08-31",
+    "images": [
+        "https://telegra.ph/file/bf29e4ad098d3790f3ae3.jpg",
+        "https://telegra.ph/file/5aed7c4c8c86841f79556.jpg",
+        "https://telegra.ph/file/370d40c912f1cf601baac.jpg",
+        "https://telegra.ph/file/4bf3c77314bf91912a7f7.jpg",
+        "https://telegra.ph/file/d1ec9496d4ee9b4972b3e.jpg",
+        "https://telegra.ph/file/4069fb0336a03057f717f.jpg",
+        "https://telegra.ph/file/c575264d9f00503c0a458.jpg",
+        "https://telegra.ph/file/652ea88e5f0261a65917e.jpg",
+        "https://telegra.ph/file/cd8ce63af80bd81ade013.jpg",
+        "https://telegra.ph/file/4ab8e1826acfaf17534ac.jpg",
+        "https://telegra.ph/file/527e35bedadcc46721081.jpg",
+        "https://telegra.ph/file/55fd4ecf4f574cd60429f.jpg",
+        "https://telegra.ph/file/6ee6baf2a1ea37533217c.jpg",
+        "https://telegra.ph/file/b85b65f0fe2522da93752.jpg",
+        "https://telegra.ph/file/a2d83d517b3bcfff9feca.jpg",
+        "https://telegra.ph/file/c2da291c020b1e9927d3e.jpg",
+        "https://telegra.ph/file/e54beb12453fbbd173d47.jpg",
+        "https://telegra.ph/file/bfacf1526b282bd7978ff.jpg",
+        "https://telegra.ph/file/0bf7a11555ec218d68445.jpg",
+        "https://telegra.ph/file/2932b62b554a5bef218ae.jpg",
+        "https://telegra.ph/file/68486cdcb8d9462d23414.jpg",
+        "https://telegra.ph/file/84dd0d7dc8c27bf805a1b.jpg",
+        "https://telegra.ph/file/9a7da2042f6c569b263af.jpg",
+        "https://telegra.ph/file/c7bcc479ac5ac59bd8213.jpg",
+        "https://telegra.ph/file/6b702e6a3f048ccc87e46.jpg",
+        "https://telegra.ph/file/9ec73cd884c11f4d5d913.jpg",
+        "https://telegra.ph/file/1c8736635e0c7a98f61d2.jpg",
+        "https://telegra.ph/file/f799cbd99e9012f676460.jpg",
+        "https://telegra.ph/file/e9e416fc0b828088e6c35.jpg",
+        "https://telegra.ph/file/7a84f82b2e0250db2eeab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

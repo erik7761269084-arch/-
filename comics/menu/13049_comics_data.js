@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13049,
+    "title": "[野際かえで] 白紙の恋 (コミックゼロス #97)",
+    "sourceUrl": "https://telegra.ph/野際かえで-白紙の恋-コミックゼロス-97-08-31",
+    "images": [
+        "https://telegra.ph/file/23fdf5f50e1b20afe9634.jpg",
+        "https://telegra.ph/file/96b51043e117129509c34.jpg",
+        "https://telegra.ph/file/1167b970ab937cc89d08f.jpg",
+        "https://telegra.ph/file/a6baf037e75aa1b1d700e.jpg",
+        "https://telegra.ph/file/75280835f830d8f958e85.jpg",
+        "https://telegra.ph/file/7342986b6ed3bfac68733.jpg",
+        "https://telegra.ph/file/cdfb463546f727bd17d6c.jpg",
+        "https://telegra.ph/file/616d9fbcc5f80235f4512.jpg",
+        "https://telegra.ph/file/00a50e0de9019585f067d.jpg",
+        "https://telegra.ph/file/9fca8f02d84a387d764cf.jpg",
+        "https://telegra.ph/file/58214b93d8050d7806565.jpg",
+        "https://telegra.ph/file/728ff6fbd0ce21ffd9c8d.jpg",
+        "https://telegra.ph/file/29cc2887fb62d8d9d99d5.jpg",
+        "https://telegra.ph/file/1039128757c9c93003f32.jpg",
+        "https://telegra.ph/file/a1a056d8952d233901e45.jpg",
+        "https://telegra.ph/file/175243dc714594de7d6d8.jpg",
+        "https://telegra.ph/file/20875dda108580656909a.jpg",
+        "https://telegra.ph/file/d420482284711f969f1d9.jpg",
+        "https://telegra.ph/file/3609577e17f0f7966e9bc.jpg",
+        "https://telegra.ph/file/28992549fc42ab025d9f6.jpg",
+        "https://telegra.ph/file/92a37d95462e177a8332d.jpg",
+        "https://telegra.ph/file/083e97bc1ac38e3269c57.jpg",
+        "https://telegra.ph/file/9d76ebd11e401ea088440.jpg",
+        "https://telegra.ph/file/09073cdbfebf4aadced59.jpg",
+        "https://telegra.ph/file/f79eee6e0654184ed9abe.jpg",
+        "https://telegra.ph/file/3f0df77454d57c2f82344.jpg",
+        "https://telegra.ph/file/d9f8b2650dd23f96645b4.jpg",
+        "https://telegra.ph/file/bb58c0b514cd246532870.jpg",
+        "https://telegra.ph/file/b14d375e530e5078efc58.jpg",
+        "https://telegra.ph/file/1e4b340b2c4c0ff5f414b.jpg",
+        "https://telegra.ph/file/797ac96f8ada00ba8bcb5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

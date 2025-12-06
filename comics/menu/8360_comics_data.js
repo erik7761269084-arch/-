@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8360,
+    "title": "[ねこはまんまがうつくしい (Hisasi)] かぐや様の縁結び (かぐや様は告らせたい)",
+    "sourceUrl": "https://telegra.ph/ねこはまんまがうつくしい-Hisasi-かぐや様の縁結び-かぐや様は告らせたい-08-31-3",
+    "images": [
+        "https://telegra.ph/file/09efa276eb3ef2d0f16a5.jpg",
+        "https://telegra.ph/file/7224fba4ef1cfe355c0bd.jpg",
+        "https://telegra.ph/file/ef6fccc5664967ec08575.jpg",
+        "https://telegra.ph/file/eafcb7c2619e491cf2a0b.jpg",
+        "https://telegra.ph/file/e8c4c81b4f5fde36bb2cc.jpg",
+        "https://telegra.ph/file/c08e1971a87313019cabe.jpg",
+        "https://telegra.ph/file/ee7daf7cb270951a6a4ab.jpg",
+        "https://telegra.ph/file/d56fe55f2c9fb561b9f7f.jpg",
+        "https://telegra.ph/file/928a2ea356a44a2f54331.jpg",
+        "https://telegra.ph/file/7e9dd0e3503ae86c24f37.jpg",
+        "https://telegra.ph/file/a30a5e9bc876892487c61.jpg",
+        "https://telegra.ph/file/2675d05c959c8f7cb6ce1.jpg",
+        "https://telegra.ph/file/f63b7e1529382787c1cac.jpg",
+        "https://telegra.ph/file/c0b99e034b1e99d5751be.jpg",
+        "https://telegra.ph/file/49814c12f835221d78a67.jpg",
+        "https://telegra.ph/file/edf4fadb1183c0a13695e.jpg",
+        "https://telegra.ph/file/eff50bd90fd7950ada6a2.jpg",
+        "https://telegra.ph/file/750e6e9943642f7ff1d53.jpg",
+        "https://telegra.ph/file/c0809cfa15a8c2ff2bcad.jpg",
+        "https://telegra.ph/file/cc764e13b1527462a6685.jpg",
+        "https://telegra.ph/file/f2cc52ae12031154cf856.jpg",
+        "https://telegra.ph/file/4ebc75a612ef888a1f12b.jpg",
+        "https://telegra.ph/file/428f7b450fab9d0981ffc.jpg",
+        "https://telegra.ph/file/bd83121e7c7d531141d13.jpg",
+        "https://telegra.ph/file/04b9a8016dc0fe710d737.jpg",
+        "https://telegra.ph/file/6548c84a78db7415b8dc6.jpg",
+        "https://telegra.ph/file/9cb865d6c1971b5154566.jpg",
+        "https://telegra.ph/file/fa6cf7c74b1e700fa8db0.jpg",
+        "https://telegra.ph/file/66390a774f39adaa46f66.jpg",
+        "https://telegra.ph/file/77ee689ca110ec75dff08.jpg",
+        "https://telegra.ph/file/0b5228157792df9f33d1e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

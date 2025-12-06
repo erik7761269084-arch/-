@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11662,
+    "title": "[夢茶会 (むちゃ)] 千鶴ちゃん開発日記 2",
+    "sourceUrl": "https://telegra.ph/夢茶会-むちゃ-千鶴ちゃん開発日記-2-08-31",
+    "images": [
+        "https://telegra.ph/file/1c34e33b6cd9e2f013df5.jpg",
+        "https://telegra.ph/file/647146568f699ee1e40a7.jpg",
+        "https://telegra.ph/file/f5ff695eb795de0bb6e89.png",
+        "https://telegra.ph/file/587fca1fe3d5f800c8b0f.jpg",
+        "https://telegra.ph/file/9f8beb64ef2a1b8e1be17.jpg",
+        "https://telegra.ph/file/25e26e452b1e36a499eb8.jpg",
+        "https://telegra.ph/file/60e70a8b9c4a7e57dafe0.jpg",
+        "https://telegra.ph/file/c3c2042883cf9baf36e58.jpg",
+        "https://telegra.ph/file/dcbf0478c4e6517a2723b.jpg",
+        "https://telegra.ph/file/8d150f4439db62342dafe.jpg",
+        "https://telegra.ph/file/cb657a5851bfe0ea0e53b.jpg",
+        "https://telegra.ph/file/fe7c9205eac7911137e58.jpg",
+        "https://telegra.ph/file/c42f836f4b5cd3c2570cf.jpg",
+        "https://telegra.ph/file/a0ea1e30a312a405dab0c.jpg",
+        "https://telegra.ph/file/ff240910158ee3d906b34.jpg",
+        "https://telegra.ph/file/fde56ec10e6c2856f0bf4.jpg",
+        "https://telegra.ph/file/9e093f46145862e33c8de.jpg",
+        "https://telegra.ph/file/922082a5ea2fc2770768a.jpg",
+        "https://telegra.ph/file/a384a86f25c7113ef1a39.jpg",
+        "https://telegra.ph/file/63259af79e850f158c6f6.jpg",
+        "https://telegra.ph/file/ead086bcdb8cdd00f1f83.jpg",
+        "https://telegra.ph/file/95f74153f3972d1f2d897.jpg",
+        "https://telegra.ph/file/e56be496613bf6004b86b.jpg",
+        "https://telegra.ph/file/92cb475f6d78aa6f2f1b3.jpg",
+        "https://telegra.ph/file/261927cb99b4e6cfd2642.jpg",
+        "https://telegra.ph/file/b4fce3a24fa4a88fa7be5.jpg",
+        "https://telegra.ph/file/c9e7199da754182573184.jpg",
+        "https://telegra.ph/file/1a379c6b11954d97e648f.jpg",
+        "https://telegra.ph/file/41c3dce1a0591d6c4b5d3.jpg",
+        "https://telegra.ph/file/28dc4c9543b92a0197072.png",
+        "https://telegra.ph/file/cc035b8c4ed5e9589649b.jpg",
+        "https://telegra.ph/file/6e7d1506d625d9ea6f3e1.jpg",
+        "https://telegra.ph/file/3be8224bcc09262790568.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

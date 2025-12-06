@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16650,
+    "title": "[白水重工 (白水リコ)] ロイヤル動物寓意譚 馬少女ユニコーン (アズールレーン)  -Preview",
+    "sourceUrl": "https://telegra.ph/白水重工-白水リコ-ロイヤル動物寓意譚-馬少女ユニコーン-アズールレーン--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/001.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/002.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/003.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/004.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/005.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/006.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/007.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/008.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/009.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/010.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/011.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/012.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/013.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/014.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/015.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/016.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/017.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/018.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/019.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/020.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/021.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/022.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/023.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/024.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/025.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/026.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/027.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/028.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/029.webp",
+        "https://i2.linghua.xyz/ex/3481171/7c6ad35bd0/030.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

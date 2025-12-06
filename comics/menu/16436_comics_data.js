@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16436,
+    "title": "[ろーぷあいらんど (みやのゆき) 猫の声 (わんだふるぷりきゅあ!)  -Preview",
+    "sourceUrl": "https://telegra.ph/ろーぷあいらんど-みやのゆき-猫の声-わんだふるぷりきゅあ--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek000.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek001.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek002.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek003.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek004.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek005.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek006.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek007.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek008.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek009.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek010.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek011.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek012.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek013.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek014.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek015.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek016.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek017.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek018.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek019.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek020.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek021.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek022.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek023.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek024.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek025.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek026.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek027.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek028.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek029.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek030.webp",
+        "https://i2.linghua.xyz/ex/3177214/bd25d51496/nek031.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

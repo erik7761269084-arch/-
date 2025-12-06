@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11549,
+    "title": "(COMIC1☆15) [UDS] 挙動不審女子",
+    "sourceUrl": "https://telegra.ph/COMIC115-UDS-挙動不審女子-08-31",
+    "images": [
+        "https://telegra.ph/file/155be5745279f82bb8481.jpg",
+        "https://telegra.ph/file/744abd32929a49c50e5d5.jpg",
+        "https://telegra.ph/file/03994366ecadb6235af5c.jpg",
+        "https://telegra.ph/file/7eb3eff28d23959062134.jpg",
+        "https://telegra.ph/file/8daa3173b9d696531b53a.jpg",
+        "https://telegra.ph/file/e5ae3f27b9724d739b8de.jpg",
+        "https://telegra.ph/file/c8c1fce7465ba4093ddad.jpg",
+        "https://telegra.ph/file/005d7efa4731cb63cbc81.jpg",
+        "https://telegra.ph/file/bf0b01a33e21db52342be.jpg",
+        "https://telegra.ph/file/f3a3b4e28e451e59213f1.jpg",
+        "https://telegra.ph/file/ec3a193069440c559903d.jpg",
+        "https://telegra.ph/file/740087fb4b45b2280a4ae.jpg",
+        "https://telegra.ph/file/f5e475fdfb1f32db8f235.jpg",
+        "https://telegra.ph/file/9cfdf1129b19c1f3273ba.jpg",
+        "https://telegra.ph/file/9ada05db6e90c0d819126.jpg",
+        "https://telegra.ph/file/9b96041a6d189b3715cae.jpg",
+        "https://telegra.ph/file/68a57effcf981888d6e85.jpg",
+        "https://telegra.ph/file/ca416642cbae8977ae925.jpg",
+        "https://telegra.ph/file/368453a3a12552d84e821.jpg",
+        "https://telegra.ph/file/08a3975f12481024261ae.jpg",
+        "https://telegra.ph/file/e9fd67197ced67d12ef85.jpg",
+        "https://telegra.ph/file/28b52e6c68ca6f4ae8083.jpg",
+        "https://telegra.ph/file/dd8e37ee1ca80237ae589.jpg",
+        "https://telegra.ph/file/4b564891c4ea46d369ee5.jpg",
+        "https://telegra.ph/file/416b4208a8b82fe15908c.jpg",
+        "https://telegra.ph/file/0446f22d5b241b4b3e3cf.jpg",
+        "https://telegra.ph/file/448691b30e6e5e79493e9.jpg",
+        "https://telegra.ph/file/58298807ec47729406876.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

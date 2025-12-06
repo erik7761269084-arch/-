@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16664,
+    "title": "[ドルチェの冠 (坂城)] シークレット ウィークエンド (ラブライブ!)  -Preview",
+    "sourceUrl": "https://telegra.ph/ドルチェの冠-坂城-シークレット-ウィークエンド-ラブライブ--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p0_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p0_master1200.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p1_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p2_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p3_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p4_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p5_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p6_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p7_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p8_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p9_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p10_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p11_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p12_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p13_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p14_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p15_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p16_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p17_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p18_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p19_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p20_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p21_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p22_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p23_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p24_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p25_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p26_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/68639408_p27_master1200_copy.jpg",
+        "https://i2.linghua.xyz/ex/1404927/c78eab0412/z_CREDITS_copy.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

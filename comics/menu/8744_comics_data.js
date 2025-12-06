@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8744,
+    "title": "[きたく]高咲侑、レズ風俗へ行く(ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "sourceUrl": "https://telegra.ph/きたく高咲侑レズ風俗へ行くラブライブ-虹ヶ咲学園スクールアイドル同好会-08-31",
+    "images": [
+        "https://telegra.ph/file/3a841b364299734abfba8.jpg",
+        "https://telegra.ph/file/b09943fd753ff49bf03b0.jpg",
+        "https://telegra.ph/file/7853e3fb363f76d7d748e.jpg",
+        "https://telegra.ph/file/0af93abd370cc250eae18.jpg",
+        "https://telegra.ph/file/ea0cea5e7426d0347ddf3.jpg",
+        "https://telegra.ph/file/c3e35f3db33edd4be92ab.jpg",
+        "https://telegra.ph/file/549403d898a84b5eb2dbc.jpg",
+        "https://telegra.ph/file/1f563332a8cce47c680fb.jpg",
+        "https://telegra.ph/file/59dd7b0f5798ce3e2d45a.jpg",
+        "https://telegra.ph/file/c67fd9bd0b498a13b461a.jpg",
+        "https://telegra.ph/file/f12786731fc1c438aabfa.jpg",
+        "https://telegra.ph/file/1b1b093468cbb92e25e66.jpg",
+        "https://telegra.ph/file/2bb06391de2cfafc19f94.jpg",
+        "https://telegra.ph/file/e0dad64d272090e059b19.jpg",
+        "https://telegra.ph/file/e61e47c8b62e31e844000.jpg",
+        "https://telegra.ph/file/19834a07867fa38773f78.jpg",
+        "https://telegra.ph/file/5d40ae11c9f11d0f6d653.jpg",
+        "https://telegra.ph/file/da590d2f122e292e96083.jpg",
+        "https://telegra.ph/file/91ac27b45ffca1e41c161.jpg",
+        "https://telegra.ph/file/1bb63fcf4fc4899c225bf.jpg",
+        "https://telegra.ph/file/0828454e56685c414bc85.jpg",
+        "https://telegra.ph/file/e0acca4ab0a6e8b992f59.jpg",
+        "https://telegra.ph/file/7b381209d63321c1c23d5.jpg",
+        "https://telegra.ph/file/d96d90ee3072d463fecc4.jpg",
+        "https://telegra.ph/file/30b2c0053734e5027a2c4.jpg",
+        "https://telegra.ph/file/feb0045c00625e37adade.jpg",
+        "https://telegra.ph/file/210f4e9bc3a83bbca570c.jpg",
+        "https://telegra.ph/file/37b7cb5fe4ec4d5a51786.jpg",
+        "https://telegra.ph/file/9b1512251f42c0da45a4c.jpg",
+        "https://telegra.ph/file/299b073b578bfa4b318f7.jpg",
+        "https://telegra.ph/file/9d09556978535fdd3ee63.jpg",
+        "https://telegra.ph/file/5466d6f29fb0030503e2f.jpg",
+        "https://telegra.ph/file/f3054c3845e525bbd800d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

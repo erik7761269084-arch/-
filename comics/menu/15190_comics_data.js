@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15190,
+    "title": "(僕らのラブライブ! 14) [桜やしき (水雪洞)] side: (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-14-桜やしき-水雪洞-side-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/4a84a5d0030f19df891b9.jpg",
+        "https://telegra.ph/file/cb845cfd9a54b35ca7ebf.jpg",
+        "https://telegra.ph/file/706731a441a3063442199.jpg",
+        "https://telegra.ph/file/394cc962afd6587ea705d.jpg",
+        "https://telegra.ph/file/fb0d3d61b6a97e6c9ab8a.jpg",
+        "https://telegra.ph/file/1aa32232eaab236503c79.jpg",
+        "https://telegra.ph/file/37e380bc232809eeeb438.jpg",
+        "https://telegra.ph/file/1f23525ac106e92551da3.jpg",
+        "https://telegra.ph/file/9f082bc1146626e77e957.jpg",
+        "https://telegra.ph/file/bc2fa33e9ff1b48872b74.jpg",
+        "https://telegra.ph/file/77d47b808781c327c5377.jpg",
+        "https://telegra.ph/file/2b698564dec9379424229.jpg",
+        "https://telegra.ph/file/6ff1a3e737fa8bf840b8e.jpg",
+        "https://telegra.ph/file/f1b06f94f4b73bff8e2a3.jpg",
+        "https://telegra.ph/file/f65cc7e4874c6355be5bd.jpg",
+        "https://telegra.ph/file/d9ce337748362549a4205.jpg",
+        "https://telegra.ph/file/776577104839c5a6917b0.jpg",
+        "https://telegra.ph/file/df72d07c08beb4e72e7d8.jpg",
+        "https://telegra.ph/file/ce68194fe6a8bdd3442bf.jpg",
+        "https://telegra.ph/file/77c9daa452efa213577f9.jpg",
+        "https://telegra.ph/file/6b96a1f1559be3cc50af1.jpg",
+        "https://telegra.ph/file/b17ffae1e55a0c0efb4b1.jpg",
+        "https://telegra.ph/file/e2c32973b36dd59bbe607.jpg",
+        "https://telegra.ph/file/eca497ef80454bfe69135.jpg",
+        "https://telegra.ph/file/5cce34e6d627ab2bc5dd6.jpg",
+        "https://telegra.ph/file/70a71e8b8121772197f8b.jpg",
+        "https://telegra.ph/file/7da7a18cb4708ba688c39.jpg",
+        "https://telegra.ph/file/d3239635b994a51cf2092.jpg",
+        "https://telegra.ph/file/7d681c17a48e0b29e1cb1.jpg",
+        "https://telegra.ph/file/9272cca55beccf96600d4.jpg",
+        "https://telegra.ph/file/41c1d7c5e82e21f882c13.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

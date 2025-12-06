@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12733,
+    "title": "[SSB (まりりん)] コスプレ×経験人数 ～他人に言える清楚ラインはどこまで？～ (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/SSB-まりりん-コスプレ経験人数-他人に言える清楚ラインはどこまで-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/6bc8820b34ae24cd78422.jpg",
+        "https://telegra.ph/file/8ae961cca1e5ee88b460d.jpg",
+        "https://telegra.ph/file/c830ea560b8fc138d16a2.jpg",
+        "https://telegra.ph/file/e0121310bfdf0fe1edc5d.jpg",
+        "https://telegra.ph/file/33c7f5bfe65e92b24470e.jpg",
+        "https://telegra.ph/file/0836059aa7fcfa3e1c3c5.jpg",
+        "https://telegra.ph/file/7bd99d4c7e195e6211f38.jpg",
+        "https://telegra.ph/file/35d89b13c37214ccb098f.jpg",
+        "https://telegra.ph/file/2918201afb1bdaf5c47d0.jpg",
+        "https://telegra.ph/file/3f29ccb491e168451d13b.jpg",
+        "https://telegra.ph/file/4ad3fe253539620bcd8a0.jpg",
+        "https://telegra.ph/file/7bc44694659adbfb85d3c.jpg",
+        "https://telegra.ph/file/4768dbb39967869b7e3a7.jpg",
+        "https://telegra.ph/file/524006a6366226a94579b.jpg",
+        "https://telegra.ph/file/f2eab9868b3cc861df401.jpg",
+        "https://telegra.ph/file/fede665e8314f91094195.jpg",
+        "https://telegra.ph/file/8ade39513a02aefa5c20e.jpg",
+        "https://telegra.ph/file/cf378506cfeeedb149306.jpg",
+        "https://telegra.ph/file/4830b7d239cb54c48157b.jpg",
+        "https://telegra.ph/file/3f62d52694c733795c20e.jpg",
+        "https://telegra.ph/file/8506b7fd74182fb6c3e71.jpg",
+        "https://telegra.ph/file/22f9e7a726647ecb2039e.jpg",
+        "https://telegra.ph/file/a81c4cdd47c6ffdc5e6c9.jpg",
+        "https://telegra.ph/file/620406ae7d7c420194e7d.jpg",
+        "https://telegra.ph/file/b35cd0a7aaf038d93ca90.jpg",
+        "https://telegra.ph/file/2f060a7ae2b84b88cf5cf.jpg",
+        "https://telegra.ph/file/843c6f424d2111c96353f.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15096,
+    "title": "(2021年3月秋葉原超同人祭) [ツキノウラガワ (ろみ)] 八宮さんと風野さんはセックスができない (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/2021年3月秋葉原超同人祭-ツキノウラガワ-ろみ-八宮さんと風野さんはセックスができない-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/49b039260e1611b6ee58d.jpg",
+        "https://telegra.ph/file/070cd7c8a3c59f675ab1b.jpg",
+        "https://telegra.ph/file/bc4b5d71448b50d7c6820.jpg",
+        "https://telegra.ph/file/5de1989d773816cc75401.jpg",
+        "https://telegra.ph/file/9a925c45c5bda24b48356.jpg",
+        "https://telegra.ph/file/225beb172eb0d2a2f0de8.jpg",
+        "https://telegra.ph/file/1e60460c8868fb165a2ee.jpg",
+        "https://telegra.ph/file/84549631bf617a94bfc99.jpg",
+        "https://telegra.ph/file/76b9a3f6165a161e854a5.jpg",
+        "https://telegra.ph/file/abc4a4a4ff13fe8fe4102.jpg",
+        "https://telegra.ph/file/46f3cba24548c8633d860.jpg",
+        "https://telegra.ph/file/3ea91704a50697c32284a.jpg",
+        "https://telegra.ph/file/820eff1d8dae547380972.jpg",
+        "https://telegra.ph/file/d4dc76e370c87f83e0e3f.jpg",
+        "https://telegra.ph/file/59bec72683a7f0ba9d5fc.jpg",
+        "https://telegra.ph/file/df24d198aa9700e20cf04.jpg",
+        "https://telegra.ph/file/44620cd9868a63b6be981.jpg",
+        "https://telegra.ph/file/143ad774dfe2c58217466.jpg",
+        "https://telegra.ph/file/bff640b074384f5d62f74.jpg",
+        "https://telegra.ph/file/a698ba11384a12eb1d452.jpg",
+        "https://telegra.ph/file/8bca3be138d9a624a2946.jpg",
+        "https://telegra.ph/file/93c45dfb3837c01b52e87.jpg",
+        "https://telegra.ph/file/54bfe5aaac0fee0cbe7d2.jpg",
+        "https://telegra.ph/file/6c866b5abe967d9622176.jpg",
+        "https://telegra.ph/file/916216bd19c6d69ac7bce.jpg",
+        "https://telegra.ph/file/12300a6f50d272a57a010.jpg",
+        "https://telegra.ph/file/f3a6211903db49e7dd565.jpg",
+        "https://telegra.ph/file/f424e8cb1dfc8263c0ff1.jpg",
+        "https://telegra.ph/file/f226a26e8308ba6177dcc.jpg",
+        "https://telegra.ph/file/cfff57dde0b9a13880f86.jpg",
+        "https://telegra.ph/file/435c0ce77f6b5ba3ff810.jpg",
+        "https://telegra.ph/file/e46a049cfeac3b5bcd198.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

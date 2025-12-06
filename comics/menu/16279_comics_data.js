@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16279,
+    "title": "[咖哩東] 伊地知家這天早上的意外現場。 (ぼっち・ざ・ろっく!)  -Preview",
+    "sourceUrl": "https://telegra.ph/咖哩東-伊地知家這天早上的意外現場-ぼっちざろっく--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/1_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/2_0.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/2_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/3_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/4_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/5_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/6_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/7_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/8_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/9_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/10_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/11_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/12_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/13_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/14_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/15_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/16_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/17_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/18_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/19_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/20_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/21_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/22_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/23_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/24_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/25_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/26_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/27_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/28_1.jpg",
+        "https://i2.linghua.xyz/ex/3071141/bbc4a93341/30_1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

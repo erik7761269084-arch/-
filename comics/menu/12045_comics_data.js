@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12045,
+    "title": "[柚十扇] Shecret (COMIC アンスリウム 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/柚十扇-Shecret-COMIC-アンスリウム-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a7c36c670d926371eb1f5.jpg",
+        "https://telegra.ph/file/a40a17e069db96a867e0b.jpg",
+        "https://telegra.ph/file/2db891e8f23f4753cbe87.jpg",
+        "https://telegra.ph/file/2f14ad1ea0e8150bd4f2f.jpg",
+        "https://telegra.ph/file/5c84ed316b69ffab9e518.jpg",
+        "https://telegra.ph/file/722d6e64f26fb24e08257.jpg",
+        "https://telegra.ph/file/a097b308d58bb864cd107.jpg",
+        "https://telegra.ph/file/c3adc63d5f1333f5a6aa1.jpg",
+        "https://telegra.ph/file/be8a7438efb04e8cb7916.jpg",
+        "https://telegra.ph/file/ccd753e67074090c5e66e.jpg",
+        "https://telegra.ph/file/a3243628df1d4beeff880.jpg",
+        "https://telegra.ph/file/1325639bfdfd162804c76.jpg",
+        "https://telegra.ph/file/4b4bbfb740317253f2f04.jpg",
+        "https://telegra.ph/file/13173d50ef16664ecbef3.jpg",
+        "https://telegra.ph/file/27a456eea8fe41c879d8a.jpg",
+        "https://telegra.ph/file/97571f445b9d865755aa4.jpg",
+        "https://telegra.ph/file/57cacb3c17c8a78c03971.jpg",
+        "https://telegra.ph/file/11936c40ad8d2933e3e0b.jpg",
+        "https://telegra.ph/file/18b193a81c29022d07e86.jpg",
+        "https://telegra.ph/file/0a4b66f5492f2852502cd.jpg",
+        "https://telegra.ph/file/cac122f5f011260a1fce0.jpg",
+        "https://telegra.ph/file/350b857d46ead8befd901.jpg",
+        "https://telegra.ph/file/d666a63bcf157f9cca521.jpg",
+        "https://telegra.ph/file/aac8c41d5665c703d0912.jpg",
+        "https://telegra.ph/file/c53a9a4260dacd50be9a8.jpg",
+        "https://telegra.ph/file/c881c6adab7de550efc4f.jpg",
+        "https://telegra.ph/file/862d71211e411e7955974.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/db3bf54a356b7373958d9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

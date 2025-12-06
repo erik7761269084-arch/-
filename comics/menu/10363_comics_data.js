@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10363,
+    "title": "[いせマグ] 最強搾精伝説アキネマキネ 第1話",
+    "sourceUrl": "https://telegra.ph/いせマグ-最強搾精伝説アキネマキネ-第1話-08-31",
+    "images": [
+        "https://telegra.ph/file/b6f0e65f5b64ebf7e11fb.jpg",
+        "https://telegra.ph/file/3c31cddf92d4b7c863ee5.jpg",
+        "https://telegra.ph/file/b34a552153f19b9fbd794.jpg",
+        "https://telegra.ph/file/10d103b68d742731f2405.jpg",
+        "https://telegra.ph/file/343a54261fbe241ca6161.jpg",
+        "https://telegra.ph/file/bfeb9db29896097878732.jpg",
+        "https://telegra.ph/file/448aeb67d520a6e26839b.jpg",
+        "https://telegra.ph/file/e44dadd1e510135c7d190.jpg",
+        "https://telegra.ph/file/acaeb57b91122fe04ebfc.jpg",
+        "https://telegra.ph/file/254a337d04ef192319127.jpg",
+        "https://telegra.ph/file/bdc93997c5e74a24db543.jpg",
+        "https://telegra.ph/file/13e35b9067b995b8fe9b7.png",
+        "https://telegra.ph/file/70ece86aa4876b9145755.jpg",
+        "https://telegra.ph/file/81de5700a2f064837b13a.jpg",
+        "https://telegra.ph/file/d7123d569fd01fcd314c8.jpg",
+        "https://telegra.ph/file/dcb1863f2fb7d9e6cd6b5.jpg",
+        "https://telegra.ph/file/48aaa4ee952ab19fab392.jpg",
+        "https://telegra.ph/file/cdb825b9d37132b98d382.jpg",
+        "https://telegra.ph/file/d3788fa00a0980358f1c4.jpg",
+        "https://telegra.ph/file/8f9ca217a070c423a9d21.jpg",
+        "https://telegra.ph/file/0ab4f4e909290be526d8a.jpg",
+        "https://telegra.ph/file/c46c78a3d1b28a0742337.jpg",
+        "https://telegra.ph/file/3ed9e92137419ef29df6a.jpg",
+        "https://telegra.ph/file/ce39ca0f5c21bf7602034.png",
+        "https://telegra.ph/file/5159dfcae41f3be7fd0dc.jpg",
+        "https://telegra.ph/file/0aff33ff572983e0213ca.jpg",
+        "https://telegra.ph/file/6f52375bcde612a5a466c.jpg",
+        "https://telegra.ph/file/cdab736f0f9efa025677b.jpg",
+        "https://telegra.ph/file/dc2822dac856b62d756da.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/8664818462199397a8fd1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

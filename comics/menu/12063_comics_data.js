@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12063,
+    "title": "(ふたけっと14.5) [アノプライマル (アノシャブ)] 風紀を守る本 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ふたけっと145-アノプライマル-アノシャブ-風紀を守る本-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/23df05558f2fc0d158530.jpg",
+        "https://telegra.ph/file/5f21ea77bd0309708e5e6.jpg",
+        "https://telegra.ph/file/27533ff2a79cb608c1786.jpg",
+        "https://telegra.ph/file/8ce3a7f56d38f9c2fd751.jpg",
+        "https://telegra.ph/file/696a8c063f66f6c77e5a0.jpg",
+        "https://telegra.ph/file/9c89334428b80302b330a.jpg",
+        "https://telegra.ph/file/f3d1f3c1b7b5ef6ab8d0c.jpg",
+        "https://telegra.ph/file/e4c2afb9cf3be0b94518b.jpg",
+        "https://telegra.ph/file/a161cedd5d2c868165c3b.jpg",
+        "https://telegra.ph/file/e94a0ef80cb913e40b054.jpg",
+        "https://telegra.ph/file/e0f0a09e431dc3a0ab00f.jpg",
+        "https://telegra.ph/file/9e5d2946939c01cf1069d.jpg",
+        "https://telegra.ph/file/9586c500be044ae08aa01.jpg",
+        "https://telegra.ph/file/a27d776efe3610bae3160.jpg",
+        "https://telegra.ph/file/22f74998e67e7666a9e7a.jpg",
+        "https://telegra.ph/file/79308e19a67be8a0f66cd.jpg",
+        "https://telegra.ph/file/cf0f755283db7625c6bc6.jpg",
+        "https://telegra.ph/file/7d3dc2ac9a244b98da820.jpg",
+        "https://telegra.ph/file/b94c36dc5fb5530132876.jpg",
+        "https://telegra.ph/file/cf5c9b465ba38102f1621.jpg",
+        "https://telegra.ph/file/b6f297cb0d6dfa6ee8ad1.jpg",
+        "https://telegra.ph/file/77040fd403ab0df977ff6.jpg",
+        "https://telegra.ph/file/b2021b15778ffc949d70f.jpg",
+        "https://telegra.ph/file/ba7412ac252a42449626d.jpg",
+        "https://telegra.ph/file/82e5c967c05d887573692.jpg",
+        "https://telegra.ph/file/eabae4dceaec47841001a.jpg",
+        "https://telegra.ph/file/b67b2b3ddbb9ffe0be9e2.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

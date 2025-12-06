@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11931,
+    "title": "[双葉八重] 続々シコってパコってじゃんけんぽん (COMIC 真激 2021年3月号)",
+    "sourceUrl": "https://telegra.ph/双葉八重-続々シコってパコってじゃんけんぽん-COMIC-真激-2021年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/379432b8d7be1e35539c3.jpg",
+        "https://telegra.ph/file/8204f24e4b62d8cfe9b63.jpg",
+        "https://telegra.ph/file/73d29cd6b0e082b54e3a8.jpg",
+        "https://telegra.ph/file/aa9b1348bcb9376d8e249.jpg",
+        "https://telegra.ph/file/e2edc54ccc45c785897b1.jpg",
+        "https://telegra.ph/file/36bea543e0e11ec1c6c36.jpg",
+        "https://telegra.ph/file/671456e65af3124c30f1d.jpg",
+        "https://telegra.ph/file/3c07cd6ce2b3cdbc1fb09.jpg",
+        "https://telegra.ph/file/0ffbce2a7b884b94fa99a.jpg",
+        "https://telegra.ph/file/19859d8f6392430957359.jpg",
+        "https://telegra.ph/file/6148f1deb427e420baaca.jpg",
+        "https://telegra.ph/file/32fcaf89fbe2b612c1861.jpg",
+        "https://telegra.ph/file/65c78b954bb023891ee07.jpg",
+        "https://telegra.ph/file/9cc8b67424f419f317063.jpg",
+        "https://telegra.ph/file/a4fd6a0b7c3bb5f6a4177.jpg",
+        "https://telegra.ph/file/c10a9ea8435856c986196.jpg",
+        "https://telegra.ph/file/9b6ab3c6abf11385f114e.jpg",
+        "https://telegra.ph/file/d1c64ffe92a2ece949469.jpg",
+        "https://telegra.ph/file/5d804e7e0817064729310.jpg",
+        "https://telegra.ph/file/22a1daaaf38769b16ad49.jpg",
+        "https://telegra.ph/file/a7f7f632297646c53ae97.jpg",
+        "https://telegra.ph/file/a576a83f4edc3a6f26ff6.jpg",
+        "https://telegra.ph/file/865244c89f09d4b78f0bb.jpg",
+        "https://telegra.ph/file/ce831fed2780f4357be28.jpg",
+        "https://telegra.ph/file/3b58d12d34a3b5a69b474.jpg",
+        "https://telegra.ph/file/2aea5c88fdccfb252e35c.jpg",
+        "https://telegra.ph/file/6c202d62c8c807c69e18c.jpg",
+        "https://telegra.ph/file/574f77f61937eb5f6df7c.jpg",
+        "https://telegra.ph/file/42691b2af2953353322ba.jpg",
+        "https://telegra.ph/file/dc82ba183c276e79a27c8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

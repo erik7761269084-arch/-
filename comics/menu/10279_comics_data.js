@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10279,
+    "title": "[大人の寓話 (山田太郎(仮名))] 家政婦物語2 ―下宿―",
+    "sourceUrl": "https://telegra.ph/大人の寓話-山田太郎仮名-家政婦物語2-下宿-08-31",
+    "images": [
+        "https://telegra.ph/file/96fdc56cee0f6ea6ffb6a.jpg",
+        "https://telegra.ph/file/4e0f442c995c9bc02b42e.jpg",
+        "https://telegra.ph/file/1f81602d6c2d0158a421e.jpg",
+        "https://telegra.ph/file/46331cafe4f2aa67a9577.jpg",
+        "https://telegra.ph/file/e73c6e154d7c76a0962ba.jpg",
+        "https://telegra.ph/file/8412663a044387e8f5696.jpg",
+        "https://telegra.ph/file/a7533e6e955acef645229.jpg",
+        "https://telegra.ph/file/e8ab5aea9e9ecf9d3250a.jpg",
+        "https://telegra.ph/file/45cf412aa64df1ac957fe.jpg",
+        "https://telegra.ph/file/4c4cf9526adacc0bc63f1.jpg",
+        "https://telegra.ph/file/433610fd1a3a2e6503c40.jpg",
+        "https://telegra.ph/file/42154c785fbf861e14ce4.jpg",
+        "https://telegra.ph/file/09692fa2a831d12b9038e.jpg",
+        "https://telegra.ph/file/563d60157ba1ee6bd2ef9.jpg",
+        "https://telegra.ph/file/a7ca808510ad0a9aca0fc.jpg",
+        "https://telegra.ph/file/f3e72f8ae648aa7f859a7.jpg",
+        "https://telegra.ph/file/4ab3809b1ea5230250efc.jpg",
+        "https://telegra.ph/file/b4c26fee8e56980bbfb63.jpg",
+        "https://telegra.ph/file/148ea2189aae649a3dd8f.jpg",
+        "https://telegra.ph/file/806aa04c1f48f07d19c16.jpg",
+        "https://telegra.ph/file/b48383988e74536369296.jpg",
+        "https://telegra.ph/file/26b953f7d138103a9d8a3.jpg",
+        "https://telegra.ph/file/dc6b4d12e9a45f582dfae.jpg",
+        "https://telegra.ph/file/03f374c466cfe6cca2588.jpg",
+        "https://telegra.ph/file/d97edaa073c24e9947dbc.jpg",
+        "https://telegra.ph/file/ab87d3eb745a9c9dfd64e.jpg",
+        "https://telegra.ph/file/f97fe7e7b77f53664bec5.jpg",
+        "https://telegra.ph/file/f13b0ce6e892735b02b40.jpg",
+        "https://telegra.ph/file/3f9a453811973257cd66f.jpg",
+        "https://telegra.ph/file/1cb17728d94d5579b9811.jpg",
+        "https://telegra.ph/file/3f4aff83be3bc5afc12f8.jpg",
+        "https://telegra.ph/file/6740e1722431edfa231fa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

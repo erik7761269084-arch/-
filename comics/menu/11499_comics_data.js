@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11499,
+    "title": "[境外天元 (桃吹リオ)] 真面目な家元の強制催眠淫堕記録 (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/境外天元-桃吹リオ-真面目な家元の強制催眠淫堕記録-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/728c8185015093acb079b.jpg",
+        "https://telegra.ph/file/3c29cdb9d0439cf2d6621.jpg",
+        "https://telegra.ph/file/30e675add344685dadcfa.jpg",
+        "https://telegra.ph/file/01bbc513c68e988b337ac.jpg",
+        "https://telegra.ph/file/d775db0b5d1af6112d2d5.jpg",
+        "https://telegra.ph/file/19319db1871b3ca2fb98f.jpg",
+        "https://telegra.ph/file/4eb963e6f95c7ecef9d5c.jpg",
+        "https://telegra.ph/file/87f14d72e86a66fce57ec.jpg",
+        "https://telegra.ph/file/553bb00477cde307dae1f.jpg",
+        "https://telegra.ph/file/49f4fc2ffeecd34b56449.jpg",
+        "https://telegra.ph/file/ae485720f4dfd6a21fdd1.jpg",
+        "https://telegra.ph/file/66970761541ca4737d538.jpg",
+        "https://telegra.ph/file/28264093ed919502f6497.jpg",
+        "https://telegra.ph/file/08161971bd1d424b7ec90.jpg",
+        "https://telegra.ph/file/eec3dfd5d3945fc82e993.jpg",
+        "https://telegra.ph/file/324de46e4ed8cbb722452.jpg",
+        "https://telegra.ph/file/c117d78c60144ecf2c31a.jpg",
+        "https://telegra.ph/file/d8e36c00cdda744068816.jpg",
+        "https://telegra.ph/file/cec88e480de8e4d07a572.jpg",
+        "https://telegra.ph/file/0da455532d4ccf9e7e462.jpg",
+        "https://telegra.ph/file/0d7c2ca6d004d33f471c4.jpg",
+        "https://telegra.ph/file/feb4f8bf35155af6426fd.jpg",
+        "https://telegra.ph/file/0a21b8a7a549de0b46d8c.jpg",
+        "https://telegra.ph/file/7dc0d156d7636670b4eec.jpg",
+        "https://telegra.ph/file/48a000c20702f8ed98b0e.jpg",
+        "https://telegra.ph/file/7825eb66429daf411d841.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/614c2cb6b6fc2602a4b42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

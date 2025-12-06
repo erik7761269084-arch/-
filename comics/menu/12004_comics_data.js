@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12004,
+    "title": "(C97) [かるわに (らま)] 武蔵ちゃんがエッチすぎるから汗だく水着セックスをしよう (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-かるわに-らま-武蔵ちゃんがエッチすぎるから汗だく水着セックスをしよう-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/4b0bd3f40f0d1733081d6.jpg",
+        "https://telegra.ph/file/148c1e2256b6fb33d9576.jpg",
+        "https://telegra.ph/file/37cb77dee9d5eca0aa5aa.jpg",
+        "https://telegra.ph/file/b1fef97e86c21d744f244.jpg",
+        "https://telegra.ph/file/7afa57f84c4f24df6fe0b.jpg",
+        "https://telegra.ph/file/0d02e65482a4e78bbc2f4.jpg",
+        "https://telegra.ph/file/b7e160b9d9f47c4c03257.jpg",
+        "https://telegra.ph/file/51405f1012da5b55fb80c.jpg",
+        "https://telegra.ph/file/d3a8df365f56d995e5b0c.jpg",
+        "https://telegra.ph/file/8753aef374d7026572c45.jpg",
+        "https://telegra.ph/file/204c35aba8b828c6af3fd.jpg",
+        "https://telegra.ph/file/f913589e54a660ead7430.jpg",
+        "https://telegra.ph/file/6738c1fa7974d75199dc0.jpg",
+        "https://telegra.ph/file/0aaf8361fbffcf764bec0.jpg",
+        "https://telegra.ph/file/3eb6b4abe0cf5791f183a.jpg",
+        "https://telegra.ph/file/a2f6de6a52050fc18a2f8.jpg",
+        "https://telegra.ph/file/04177ee12aa87ad481b7c.jpg",
+        "https://telegra.ph/file/b27094ec3f1b8cd158fd7.jpg",
+        "https://telegra.ph/file/6a78f999ae5519e5ef78f.jpg",
+        "https://telegra.ph/file/ac197d34b721c2f791726.jpg",
+        "https://telegra.ph/file/ff148c7d77d8d10e6cb21.jpg",
+        "https://telegra.ph/file/e657e2e2c246971c76d9e.jpg",
+        "https://telegra.ph/file/310ba0a498705b4e331dc.jpg",
+        "https://telegra.ph/file/36a9d4ce35a3ee2ac6a9c.jpg",
+        "https://telegra.ph/file/5697ef55648d9b7cd9829.jpg",
+        "https://telegra.ph/file/76477e9ba02080a7133c3.jpg",
+        "https://telegra.ph/file/b67b2b3ddbb9ffe0be9e2.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

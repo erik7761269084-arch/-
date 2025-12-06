@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 14030,
+    "title": "[U.R.C (桃屋しょう猫)] のど姦AFTER (ヒーリングっど♥プリキュア)",
+    "sourceUrl": "https://telegra.ph/URC-桃屋しょう猫-のど姦AFTER-ヒーリングっどプリキュア-08-31",
+    "images": [
+        "https://telegra.ph/file/672c174d0f73264487e96.jpg",
+        "https://telegra.ph/file/670fc523dfd5e2c7b7210.jpg",
+        "https://telegra.ph/file/426e86cef377cd6a65b51.jpg",
+        "https://telegra.ph/file/8a8d6fbdf35576c0df895.jpg",
+        "https://telegra.ph/file/398626742d88dc15d72e0.jpg",
+        "https://telegra.ph/file/a0232fbe88af67135a1c2.jpg",
+        "https://telegra.ph/file/6e8817884a05ce8bf6e87.jpg",
+        "https://telegra.ph/file/072154a0414d9c5572549.jpg",
+        "https://telegra.ph/file/f891cb31c3c78fa8d7d23.jpg",
+        "https://telegra.ph/file/7e45ed1fbc3cbe1744d4c.jpg",
+        "https://telegra.ph/file/a1041c1c83a07dc1cd0f8.jpg",
+        "https://telegra.ph/file/ad1fd43b175f3b76e7e15.jpg",
+        "https://telegra.ph/file/ca7423f7a12ffb1e1f121.jpg",
+        "https://telegra.ph/file/5fbcfac6bb8e46298e9fe.jpg",
+        "https://telegra.ph/file/525db1508768a52d20120.jpg",
+        "https://telegra.ph/file/7f63f956deebb4cc17d4e.jpg",
+        "https://telegra.ph/file/fd4393cf3b2364020a433.jpg",
+        "https://telegra.ph/file/5b1e01360e48d555fea08.jpg",
+        "https://telegra.ph/file/3c5b3f31f6c7f7cb29184.jpg",
+        "https://telegra.ph/file/f3c73b4fb5761a278a1c8.jpg",
+        "https://telegra.ph/file/349cbc77d054a64d3afd2.jpg",
+        "https://telegra.ph/file/41f9bef72d017ade69093.jpg",
+        "https://telegra.ph/file/69586b616936dfc5fcec2.jpg",
+        "https://telegra.ph/file/fff83ce305e05c1fb925f.jpg",
+        "https://telegra.ph/file/31e35eb2f3a4b3d805211.jpg",
+        "https://telegra.ph/file/bd17f0274239f16a69371.jpg",
+        "https://telegra.ph/file/297189b7d66abdec80d07.jpg",
+        "https://telegra.ph/file/ab559733d43e4fa7fd70b.jpg",
+        "https://telegra.ph/file/0c882daba8d7a058e9b10.jpg",
+        "https://telegra.ph/file/5e51bc33ed9e4c5913684.jpg",
+        "https://telegra.ph/file/14727571d87fc0b9903f7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

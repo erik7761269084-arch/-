@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10660,
+    "title": "[むげんWORKS (秋月秋名)] ロイヤルとティータイムにいたしましょう (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/むげんWORKS-秋月秋名-ロイヤルとティータイムにいたしましょう-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/bd6c15b9562a609630151.jpg",
+        "https://telegra.ph/file/87ca18118d151d5de6fcc.jpg",
+        "https://telegra.ph/file/8ed98fff89b3a3f12fe27.jpg",
+        "https://telegra.ph/file/8e4c05578a3a4d65bab95.jpg",
+        "https://telegra.ph/file/a6f0160f0ac367fd80dd0.jpg",
+        "https://telegra.ph/file/132133f5395c281d335ef.jpg",
+        "https://telegra.ph/file/b2a8d9bd6165fe7990120.jpg",
+        "https://telegra.ph/file/b54b7d36a31b5975a24a6.jpg",
+        "https://telegra.ph/file/231c51499da0c9058f388.jpg",
+        "https://telegra.ph/file/057603adeaae93c052437.jpg",
+        "https://telegra.ph/file/34e569cb07cfecf675b2b.jpg",
+        "https://telegra.ph/file/69b285a9824144ed58559.jpg",
+        "https://telegra.ph/file/3667b5dedd43472695ef6.jpg",
+        "https://telegra.ph/file/d57bc990d9f7d6b3b40a8.jpg",
+        "https://telegra.ph/file/1b1cb4308c9dea52f3a33.jpg",
+        "https://telegra.ph/file/a2afe36e5617a7dbaa842.jpg",
+        "https://telegra.ph/file/ebe684659579cb2a168e5.jpg",
+        "https://telegra.ph/file/ef4e899ca21f3ddbd310f.jpg",
+        "https://telegra.ph/file/c500e6235b55d4fc00575.jpg",
+        "https://telegra.ph/file/ff9c267da925091db8e4f.jpg",
+        "https://telegra.ph/file/b3a310e241075d25025f7.jpg",
+        "https://telegra.ph/file/e7e4195ca761f3803ada8.jpg",
+        "https://telegra.ph/file/6768f8f94b25b46e229e3.jpg",
+        "https://telegra.ph/file/47244717b0f9e787dd07a.jpg",
+        "https://telegra.ph/file/aa906468a4a58cb7d1787.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

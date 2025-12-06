@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15737,
+    "title": "(C93) [ごべらっつぉ (向井弥葵)] MoreOneSex (少女終末旅行) -Preview",
+    "sourceUrl": "https://telegra.ph/C93-ごべらっつぉ-向井弥葵-MoreOneSex-少女終末旅行--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/d973b2e298d4376599be3.jpg",
+        "https://telegra.ph/file/50ab6d24e27ac90be4990.jpg",
+        "https://telegra.ph/file/41b148d658e188c4ed764.jpg",
+        "https://telegra.ph/file/f4a88749a15c2db5bbee0.jpg",
+        "https://telegra.ph/file/40ff8c12f44d5a065a58a.jpg",
+        "https://telegra.ph/file/7e453110d08ccbfa0a101.jpg",
+        "https://telegra.ph/file/df47928ac756a3ce1200e.jpg",
+        "https://telegra.ph/file/54179b71d21808488096d.jpg",
+        "https://telegra.ph/file/41f6cb83bbe28a168b91b.jpg",
+        "https://telegra.ph/file/2ab600073b2cac7e5ea70.jpg",
+        "https://telegra.ph/file/082434360564592412830.jpg",
+        "https://telegra.ph/file/fb1a7c969b1829ac44c29.jpg",
+        "https://telegra.ph/file/1e2e6c44549e4f5b71e7d.jpg",
+        "https://telegra.ph/file/d4792734a7bb64742018f.jpg",
+        "https://telegra.ph/file/30260290ec30c45c668de.jpg",
+        "https://telegra.ph/file/4dd855b3713c6b4cca943.jpg",
+        "https://telegra.ph/file/7810cd260bec0af336361.jpg",
+        "https://telegra.ph/file/198728215ac04d1719575.jpg",
+        "https://telegra.ph/file/ad4f89ebb5600c3e496ef.jpg",
+        "https://telegra.ph/file/8c021b172eb4d6d9c91b7.jpg",
+        "https://telegra.ph/file/5f4c454c9cb369da684bf.jpg",
+        "https://telegra.ph/file/f4f359b8c16a2c35c7c1b.jpg",
+        "https://telegra.ph/file/7e821b43359a2502f7cfc.jpg",
+        "https://telegra.ph/file/c0f26bab4402432f726be.jpg",
+        "https://telegra.ph/file/036106503cdf27a889fbb.jpg",
+        "https://telegra.ph/file/3ea861987f04d1c283136.jpg",
+        "https://telegra.ph/file/a74439b0278d266c34a0e.jpg",
+        "https://telegra.ph/file/af8199cdb3264809bd468.jpg",
+        "https://telegra.ph/file/44c7378cce2bb911a7f77.jpg",
+        "https://telegra.ph/file/b636700c4011211883e67.jpg",
+        "https://telegra.ph/file/f5a8e23b930a7feeabb58.jpg",
+        "https://telegra.ph/file/1b38611f853ac8d047227.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15930,
+    "title": "(C83) [U.M.E.Project (ukyo_rst)] ALGOLAGNIA (東方Project) -Preview",
+    "sourceUrl": "https://telegra.ph/C83-UMEProject-ukyo-rst-ALGOLAGNIA-東方Project--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/9fb7c3d49a3e670f141a9.jpg",
+        "https://telegra.ph/file/e8c1f5d85fa44c5cf4a8d.jpg",
+        "https://telegra.ph/file/27647a9fa444d900dc94b.png",
+        "https://telegra.ph/file/5883862434730ddddc0eb.jpg",
+        "https://telegra.ph/file/aa7e9f871ecdbf0611ea8.jpg",
+        "https://telegra.ph/file/a5921cdf020c4b024440f.jpg",
+        "https://telegra.ph/file/7311ed26adfbb35e4330c.jpg",
+        "https://telegra.ph/file/4d136676686341f9fa74e.jpg",
+        "https://telegra.ph/file/8dd1cf33cd1978806a739.jpg",
+        "https://telegra.ph/file/87f6f168beef0b54ca4f1.jpg",
+        "https://telegra.ph/file/3d92347e3dc9e1059660e.jpg",
+        "https://telegra.ph/file/715e1bc1247851620283f.jpg",
+        "https://telegra.ph/file/ede9ed73d747cdc1627f6.jpg",
+        "https://telegra.ph/file/87013111caaa9b2a44bd7.jpg",
+        "https://telegra.ph/file/b79dca256db7f56ee8f49.jpg",
+        "https://telegra.ph/file/c940d2ba63c587224d48e.jpg",
+        "https://telegra.ph/file/ab83183db3c7c15401e1f.jpg",
+        "https://telegra.ph/file/764bd6953debb30631bdb.jpg",
+        "https://telegra.ph/file/2129308f7a0e16ec980ab.jpg",
+        "https://telegra.ph/file/4ba14e75cb36f6047c477.jpg",
+        "https://telegra.ph/file/d3b326bb42f456d3da9bf.jpg",
+        "https://telegra.ph/file/97ff87676113d188d4ccb.jpg",
+        "https://telegra.ph/file/cad65d1ecd02ee26440a7.jpg",
+        "https://telegra.ph/file/fae11008d1178d0d4080f.jpg",
+        "https://telegra.ph/file/7f53442e74567e894f0f5.jpg",
+        "https://telegra.ph/file/e2a7e048bf4d3096b87f2.jpg",
+        "https://telegra.ph/file/2a194927213f13d17df92.jpg",
+        "https://telegra.ph/file/b1eae64b6e1247b604a02.png",
+        "https://telegra.ph/file/830e08ef3a4428503eca9.jpg",
+        "https://telegra.ph/file/ef9fe817f9028859ae175.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

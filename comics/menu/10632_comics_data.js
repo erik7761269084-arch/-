@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10632,
+    "title": "[ろこまに (真夏ろこ)] 優秀な僕の妹",
+    "sourceUrl": "https://telegra.ph/ろこまに-真夏ろこ-優秀な僕の妹-08-31",
+    "images": [
+        "https://telegra.ph/file/0dfe5b67f063adcde69e8.jpg",
+        "https://telegra.ph/file/b121bb50aca82b721cb0c.jpg",
+        "https://telegra.ph/file/0250f01f6b306204c53bc.jpg",
+        "https://telegra.ph/file/a982aa7b801cd5f27bf8b.jpg",
+        "https://telegra.ph/file/86ada41229848735fea28.jpg",
+        "https://telegra.ph/file/ce789b2271ecfa8b5e8c7.jpg",
+        "https://telegra.ph/file/dda3a9d51144783a9f295.jpg",
+        "https://telegra.ph/file/756996cc83da0d84a8cb4.jpg",
+        "https://telegra.ph/file/fcad33eed439f1439e4a3.jpg",
+        "https://telegra.ph/file/6c5dd806182041f996fd4.jpg",
+        "https://telegra.ph/file/dd4d047cefd106a8f397f.jpg",
+        "https://telegra.ph/file/f3e93bbe23aec5080e5ce.jpg",
+        "https://telegra.ph/file/e03ab1e26d3834c1d6b8a.jpg",
+        "https://telegra.ph/file/3589a75c657f93de102cc.jpg",
+        "https://telegra.ph/file/77e71d34977c0a40b4697.jpg",
+        "https://telegra.ph/file/9a18a6cb4151929b6bd78.jpg",
+        "https://telegra.ph/file/b635ec0dc5a2e9972a8a4.jpg",
+        "https://telegra.ph/file/6244f6d17adb3d7dc2f90.jpg",
+        "https://telegra.ph/file/522be9d0ee83db5e4ecdc.jpg",
+        "https://telegra.ph/file/a798f1c835aa102a1a619.jpg",
+        "https://telegra.ph/file/560a924f55fe44fe06d37.jpg",
+        "https://telegra.ph/file/f65c7c5adfd8a52e7f367.jpg",
+        "https://telegra.ph/file/122014cb5ea7b0c665d4f.jpg",
+        "https://telegra.ph/file/12d43f646c294a77f7062.jpg",
+        "https://telegra.ph/file/d2b86694b0ec53e3803e3.jpg",
+        "https://telegra.ph/file/aa91aadbb001ee6122a4d.jpg",
+        "https://telegra.ph/file/acb15f301bb21f4045c3f.jpg",
+        "https://telegra.ph/file/3f7756913635c4e7fd6c7.jpg",
+        "https://telegra.ph/file/e0c863e5bec40fbe11248.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/e8196c9bc09ab6a6cbe86.jpg",
+        "https://telegra.ph/file/10d40d5ad93b514d78e2c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

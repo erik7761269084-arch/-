@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13596,
+    "title": "(C100) [ゆきしずく (ながねこ)] ごじょーくんのことがだいしゅきすぎて夜な夜なはかどっていたコトがバレた件 (その着せ替え人形は恋をする)",
+    "sourceUrl": "https://telegra.ph/C100-ゆきしずく-ながねこ-ごじょーくんのことがだいしゅきすぎて夜な夜なはかどっていたコトがバレた件-その着せ替え人形は恋をする-08-31",
+    "images": [
+        "https://telegra.ph/file/6b3987c09915b8af147ef.jpg",
+        "https://telegra.ph/file/9a16fd4ec9dd142918ba0.jpg",
+        "https://telegra.ph/file/95ea44073f5284d755813.jpg",
+        "https://telegra.ph/file/52b1aba9ee7a4554703b4.jpg",
+        "https://telegra.ph/file/2d35745d5b0c096387bc1.jpg",
+        "https://telegra.ph/file/dda57502b0e863a7042a3.jpg",
+        "https://telegra.ph/file/15ee39d0cc0e8f646a5c6.jpg",
+        "https://telegra.ph/file/74f3ece21b6838a091a54.jpg",
+        "https://telegra.ph/file/fb8138955b1e4182cf415.jpg",
+        "https://telegra.ph/file/1aff090c24d9a21067c5e.jpg",
+        "https://telegra.ph/file/02b145dbf6090a3018edd.jpg",
+        "https://telegra.ph/file/72fef71b721bdf5eed3fe.jpg",
+        "https://telegra.ph/file/3796647cc18c58982e0ea.jpg",
+        "https://telegra.ph/file/39d7446999b78185756c6.jpg",
+        "https://telegra.ph/file/efecc9d6d2d41479ade29.jpg",
+        "https://telegra.ph/file/519e7208fb60eeae8e50a.jpg",
+        "https://telegra.ph/file/4f5390b80208f6dc6b7f0.jpg",
+        "https://telegra.ph/file/d53d8eaeac1ced4cd8c7e.jpg",
+        "https://telegra.ph/file/b892e0fc13e05a5db03bf.jpg",
+        "https://telegra.ph/file/0d33866c51c35773e06ff.jpg",
+        "https://telegra.ph/file/87e64cb03247f59e8d37c.jpg",
+        "https://telegra.ph/file/f5aca804d5f8ab1357f72.jpg",
+        "https://telegra.ph/file/1077e43430ada06cc10c7.jpg",
+        "https://telegra.ph/file/d0ffacd67ded77a0edeec.jpg",
+        "https://telegra.ph/file/d7cccae2405e9801e3c1c.jpg",
+        "https://telegra.ph/file/fd5fe671a4a4ace41b740.jpg",
+        "https://telegra.ph/file/311bb6956fc13be83024a.jpg",
+        "https://telegra.ph/file/30ef106d986d7aa66ef40.jpg",
+        "https://telegra.ph/file/9010bb42dfbf5a086bd49.jpg",
+        "https://telegra.ph/file/a43b4b45bc23162504991.jpg",
+        "https://telegra.ph/file/69c0e79c7eeac591f342e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

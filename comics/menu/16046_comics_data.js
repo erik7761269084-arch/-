@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16046,
+    "title": "(僕らのラブライブ! 41) [virophilia)] 大賀美沙知卒業記念合同『未だ見ぬ春へ飛び立つ君の』 (ラブライブ! 蓮ノ空女学院スクールアイドルクラブ)-Preview",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-41-virophilia-大賀美沙知卒業記念合同未だ見ぬ春へ飛び立つ君の-ラブライブ-蓮ノ空女学院スクールアイドルクラブ-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/0ef95f64ff52036bf1d7e.jpg",
+        "https://telegra.ph/file/68bd3ab1164e1437e6e28.jpg",
+        "https://telegra.ph/file/b276e5b28ad6013d614a4.jpg",
+        "https://telegra.ph/file/42977c07224e0d17ad880.jpg",
+        "https://telegra.ph/file/7b63d2310165e597a9880.jpg",
+        "https://telegra.ph/file/8e4fdadb95dd76f78761d.jpg",
+        "https://telegra.ph/file/5345cdb38608c431740d3.jpg",
+        "https://telegra.ph/file/524f50623a697690eb720.jpg",
+        "https://telegra.ph/file/ed7798aefb3c237c09ccd.jpg",
+        "https://telegra.ph/file/e57808632d8e78140b8bc.jpg",
+        "https://telegra.ph/file/cc0123aa2a3946c5add64.jpg",
+        "https://telegra.ph/file/7356ff82471c2ae393f89.jpg",
+        "https://telegra.ph/file/ab13db7d94cca5439bbb7.jpg",
+        "https://telegra.ph/file/fb9539ca790ae4e9f817a.jpg",
+        "https://telegra.ph/file/e767780c9da2f06826bfa.jpg",
+        "https://telegra.ph/file/c2a8ec1d3a504085deb4f.jpg",
+        "https://telegra.ph/file/6d7c54c89329ac43a8cb1.jpg",
+        "https://telegra.ph/file/29014bbde6148fd2f43d3.jpg",
+        "https://telegra.ph/file/dd70b4d1f5856a72bf106.jpg",
+        "https://telegra.ph/file/960d62498844eb8f9aa03.jpg",
+        "https://telegra.ph/file/1370aff32ed6c6d6a3ea7.jpg",
+        "https://telegra.ph/file/cd8f135dce0414703e97e.jpg",
+        "https://telegra.ph/file/672cbf90a69c87b3f884e.jpg",
+        "https://telegra.ph/file/259d0b871fb88c20af190.jpg",
+        "https://telegra.ph/file/38d05ab467751f5881d13.jpg",
+        "https://telegra.ph/file/31d6e5ed521144c3c955d.jpg",
+        "https://telegra.ph/file/431e8b4f4e30b4a9f53d5.jpg",
+        "https://telegra.ph/file/1deb74461c2b1d5f6d14c.jpg",
+        "https://telegra.ph/file/a397b504f38451ac8c4b0.jpg",
+        "https://telegra.ph/file/8a2707a3f3299b6dcaf75.jpg",
+        "https://telegra.ph/file/1e15e03068a09adb524b3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

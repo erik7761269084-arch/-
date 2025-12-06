@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15345,
+    "title": "[Dear My Honey (Aoi Chiruko)] Suger Refrain (Love Live!)  [橘猫汉化组] [Digital]",
+    "sourceUrl": "https://telegra.ph/Dear-My-Honey-Aoi-Chiruko-Suger-Refrain-Love-Live-橘猫汉化组-Digital-08-31",
+    "images": [
+        "https://telegra.ph/file/bf48a848da81a699a58f4.jpg",
+        "https://telegra.ph/file/68a0c1a893735c2a05ce5.jpg",
+        "https://telegra.ph/file/424531ad5befbab9a40e3.jpg",
+        "https://telegra.ph/file/4369c4bd2b8e88527e51a.png",
+        "https://telegra.ph/file/cc8471d8cb3ee2bcb0a62.jpg",
+        "https://telegra.ph/file/451bda295f23b91318b3f.png",
+        "https://telegra.ph/file/085ee3893dd8ecdad80f3.png",
+        "https://telegra.ph/file/b9b7c499566fab7dcbea4.jpg",
+        "https://telegra.ph/file/6da0209d1d128d98f838f.png",
+        "https://telegra.ph/file/f4f4d7162eef06026c0ce.jpg",
+        "https://telegra.ph/file/be87872488efef0539650.png",
+        "https://telegra.ph/file/0a972eca095befce040fd.jpg",
+        "https://telegra.ph/file/24739832ec23bd6a39ba5.png",
+        "https://telegra.ph/file/5d626c3a556a0323f92b8.jpg",
+        "https://telegra.ph/file/8880cd8a928371f7e09f9.png",
+        "https://telegra.ph/file/7905b1ff1321d6b4f47f2.jpg",
+        "https://telegra.ph/file/fcfb0d203bad6dda73869.jpg",
+        "https://telegra.ph/file/49a45378ce63d1e829392.jpg",
+        "https://telegra.ph/file/130eb88960aabe1c694c9.jpg",
+        "https://telegra.ph/file/bb29140ce4a69d6d329f7.jpg",
+        "https://telegra.ph/file/3b1cea9b10d8e3b7355d0.jpg",
+        "https://telegra.ph/file/71ea69e16af65f61c5505.jpg",
+        "https://telegra.ph/file/39e20df16c1b7c1d3326e.png",
+        "https://telegra.ph/file/e6cf653785636cdcc8a42.jpg",
+        "https://telegra.ph/file/48ae1a4c81f26d9184167.png",
+        "https://telegra.ph/file/4f8cf115d63e08c3a1931.png",
+        "https://telegra.ph/file/5209d13e4018b59e0c186.png",
+        "https://telegra.ph/file/5a74388671c72df584336.png",
+        "https://telegra.ph/file/0a57543c30ec1051411f4.jpg",
+        "https://telegra.ph/file/928cf8e1ae7ee95bc46ab.png",
+        "https://telegra.ph/file/78aadbc26c4180f401cfa.jpg",
+        "https://telegra.ph/file/7837478960095c8abe1a2.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

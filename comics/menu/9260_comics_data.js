@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9260,
+    "title": "[一弘] ある日熊さんにどハマったビッチちゃん (コミックホットミルク 2021年6月号)",
+    "sourceUrl": "https://telegra.ph/一弘-ある日熊さんにどハマったビッチちゃん-コミックホットミルク-2021年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/761232e4c14774b8206b1.jpg",
+        "https://telegra.ph/file/3f63ff2e464ed532f6be7.jpg",
+        "https://telegra.ph/file/b9037e550e03585b9f490.jpg",
+        "https://telegra.ph/file/d24a617156f1478e11510.jpg",
+        "https://telegra.ph/file/080eac6cc17fa1e93a90f.jpg",
+        "https://telegra.ph/file/99821fb145f6e2028a1f9.jpg",
+        "https://telegra.ph/file/a89f3d7ed642d399e60b6.jpg",
+        "https://telegra.ph/file/c7123d91f638f10d7d782.jpg",
+        "https://telegra.ph/file/f16faa44daafb4119012a.jpg",
+        "https://telegra.ph/file/3527be848c5eeaba0b097.jpg",
+        "https://telegra.ph/file/bb57f7335a8ec82b38289.jpg",
+        "https://telegra.ph/file/96caceea288bf58b72b66.jpg",
+        "https://telegra.ph/file/314b5ec7185b21e333224.jpg",
+        "https://telegra.ph/file/ccbb254bff4b0e2ec49af.jpg",
+        "https://telegra.ph/file/7edc02e6fc2a372a9cdd5.jpg",
+        "https://telegra.ph/file/908ee1c82a29ef382260f.jpg",
+        "https://telegra.ph/file/f54671b4853b4ddee96b2.jpg",
+        "https://telegra.ph/file/96fb67aa2db3009422530.jpg",
+        "https://telegra.ph/file/44a9490dcb35d41e6e3db.jpg",
+        "https://telegra.ph/file/49f144f7b3c7c832d513b.jpg",
+        "https://telegra.ph/file/bcdbd5d9cffa37316e7fd.jpg",
+        "https://telegra.ph/file/cd244cf3f5b574080bfcf.jpg",
+        "https://telegra.ph/file/9b2f06bf62e0ed7078b89.jpg",
+        "https://telegra.ph/file/623c5cb0f32f8a359c35b.jpg",
+        "https://telegra.ph/file/1e965e1c66c6253083dba.jpg",
+        "https://telegra.ph/file/94d7dba43484bb9cb7a93.jpg",
+        "https://telegra.ph/file/698fafa81dacbede44ad6.jpg",
+        "https://telegra.ph/file/4c338f36444abca7a0efa.jpg",
+        "https://telegra.ph/file/c157db33502735589cdfd.jpg",
+        "https://telegra.ph/file/a55afdcfab71ca389b319.jpg",
+        "https://telegra.ph/file/5a61300577301c033f3f1.jpg",
+        "https://telegra.ph/file/40486aaae0e4ee8d42779.jpg",
+        "https://telegra.ph/file/43b0a3718077dc87e0774.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

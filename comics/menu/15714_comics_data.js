@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15714,
+    "title": "(BanG Dreamer&#039;s Party! 5th STAGE) [畑を耕すだけ (みかん氏)] 旅館で君と逃避行 (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/BanG-Dreamer039s-Party-5th-STAGE-畑を耕すだけ-みかん氏-旅館で君と逃避行-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/cf3f4434466e43e1714a6.jpg",
+        "https://telegra.ph/file/b2d1a0ed8a6ef0b4c3f85.jpg",
+        "https://telegra.ph/file/f0fa008d819967ef6d7c0.jpg",
+        "https://telegra.ph/file/4e179509cbb72a0e39c3b.jpg",
+        "https://telegra.ph/file/fe89add4643d12b8b98de.jpg",
+        "https://telegra.ph/file/47311d1e15eca446a662d.jpg",
+        "https://telegra.ph/file/323b04882ad399530c3a0.jpg",
+        "https://telegra.ph/file/603c6efb33fd1f420f0b1.jpg",
+        "https://telegra.ph/file/a12e4fc4b6093b62361fa.jpg",
+        "https://telegra.ph/file/dddf4b138847c04024a90.jpg",
+        "https://telegra.ph/file/74770fe986484b9529e22.jpg",
+        "https://telegra.ph/file/4246b2716a891a9d449a0.jpg",
+        "https://telegra.ph/file/9c642fd64eadbf26a72ee.jpg",
+        "https://telegra.ph/file/f262f50b5bac40f1c2228.jpg",
+        "https://telegra.ph/file/df8b161fe1d0dacb2299a.jpg",
+        "https://telegra.ph/file/006c8911570ef75ee9fb3.jpg",
+        "https://telegra.ph/file/2714158bcce1fa21d7d17.jpg",
+        "https://telegra.ph/file/5ff7a8654a26b902841b4.jpg",
+        "https://telegra.ph/file/6f3695e0f07a6451ff3bf.jpg",
+        "https://telegra.ph/file/94b4e4becde55b9c234fd.jpg",
+        "https://telegra.ph/file/9b5448d5d49537235f64e.jpg",
+        "https://telegra.ph/file/2664298955802b4357fd1.jpg",
+        "https://telegra.ph/file/a2f7087bc67f5b01e5f03.jpg",
+        "https://telegra.ph/file/20286fc3f0de4610a2b9d.jpg",
+        "https://telegra.ph/file/4abcf6d1b5a93ac638666.jpg",
+        "https://telegra.ph/file/0929970df9931656e5a22.jpg",
+        "https://telegra.ph/file/664523e4b12e1524307b8.jpg",
+        "https://telegra.ph/file/6cd10c47425b8e18ebc05.jpg",
+        "https://telegra.ph/file/02f43f4f22ec1f4edc7cf.jpg",
+        "https://telegra.ph/file/3c0a4cee5467a6bcd0dd0.jpg",
+        "https://telegra.ph/file/c0ade0858665d98d385b4.jpg",
+        "https://telegra.ph/file/ac33fa4c8cb55963011bb.png",
+        "https://telegra.ph/file/948f9da65e35c3018241a.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

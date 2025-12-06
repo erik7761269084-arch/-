@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11860,
+    "title": "(C97) [萌姫連合 (xin、obiwan)] カーニバル27-酒保カルデアマスターはバニー師匠の夢をみる (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-萌姫連合-xinobiwan-カーニバル27-酒保カルデアマスターはバニー師匠の夢をみる-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/3036624308d762f1e8d14.jpg",
+        "https://telegra.ph/file/54a80e02f9ed19e080ae3.jpg",
+        "https://telegra.ph/file/34995e4e9c5a64332fdb9.jpg",
+        "https://telegra.ph/file/04cf371149a08efd21f8b.jpg",
+        "https://telegra.ph/file/4378428678ed1bbc91c8f.jpg",
+        "https://telegra.ph/file/a008aae0e7c85e6ad1af5.jpg",
+        "https://telegra.ph/file/bdaca204329baa493fdf4.jpg",
+        "https://telegra.ph/file/e1139abf22e1e6a5c088f.jpg",
+        "https://telegra.ph/file/642a65d933d0907ef2c20.jpg",
+        "https://telegra.ph/file/be430397eebc66e462617.jpg",
+        "https://telegra.ph/file/b020fd079153e2d6e227c.jpg",
+        "https://telegra.ph/file/3120ed8fd84f72801e9c6.jpg",
+        "https://telegra.ph/file/0c2558ad333c9ea2d64c7.jpg",
+        "https://telegra.ph/file/75f744def92eae60c9281.jpg",
+        "https://telegra.ph/file/7864fa015a272e4db104e.jpg",
+        "https://telegra.ph/file/c72123ed7c1b2fa11a20a.jpg",
+        "https://telegra.ph/file/54ae55303f322c9c6da04.jpg",
+        "https://telegra.ph/file/e34544db54344d36f4367.jpg",
+        "https://telegra.ph/file/473b7210f4d2da3e736ac.jpg",
+        "https://telegra.ph/file/4ee9bc29c50feb579a02d.jpg",
+        "https://telegra.ph/file/24b04e1feeee88d581764.jpg",
+        "https://telegra.ph/file/ef5d840a7b68a1503550e.jpg",
+        "https://telegra.ph/file/b0e24c107223d4fc00dc7.jpg",
+        "https://telegra.ph/file/20b62fea23b91c32248e1.jpg",
+        "https://telegra.ph/file/ed29e4d64dc5268007451.jpg",
+        "https://telegra.ph/file/d1439965bee3489ea6f69.jpg",
+        "https://telegra.ph/file/b67b2b3ddbb9ffe0be9e2.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

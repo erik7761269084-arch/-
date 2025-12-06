@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13895,
+    "title": "[昭和最終戦線 (はなうな)] 対決瑞穂VS鹿島(性的な意味で) (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/昭和最終戦線-はなうな-対決瑞穂VS鹿島性的な意味で-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/769b1a6b999ffe1043057.jpg",
+        "https://telegra.ph/file/7f6bb43e5595e2d10a2a0.jpg",
+        "https://telegra.ph/file/c76fe6f28527dce41e5f7.jpg",
+        "https://telegra.ph/file/6c1ae27f8f8030132c1ff.jpg",
+        "https://telegra.ph/file/99c1f0b1134cfe23eac0e.jpg",
+        "https://telegra.ph/file/7f4642561f847091f405a.jpg",
+        "https://telegra.ph/file/dfe4ce7c163adb436cf5a.jpg",
+        "https://telegra.ph/file/f9bf4379f5feb4a2ae59c.jpg",
+        "https://telegra.ph/file/bb4c820ae2779fcdc1feb.jpg",
+        "https://telegra.ph/file/cc6e7b239542b528ce18b.jpg",
+        "https://telegra.ph/file/1cc6492be32d457b78d5f.jpg",
+        "https://telegra.ph/file/be0319eafff8e064000f4.jpg",
+        "https://telegra.ph/file/e1cc7e5b6450d187ff59a.jpg",
+        "https://telegra.ph/file/d2e8d2ccab9e37aa77634.jpg",
+        "https://telegra.ph/file/93ac8e95262d11d92c884.jpg",
+        "https://telegra.ph/file/93f738ab0811f012a15c4.jpg",
+        "https://telegra.ph/file/9fe1fbcbdbe6175be4d06.jpg",
+        "https://telegra.ph/file/a60317e728df2748a275f.jpg",
+        "https://telegra.ph/file/c045bb3d748d9b488da47.jpg",
+        "https://telegra.ph/file/a1f43b7ad46d0c8480c66.jpg",
+        "https://telegra.ph/file/b67535acc862c51e1e28a.jpg",
+        "https://telegra.ph/file/1fc1eeadba1c0492f113f.jpg",
+        "https://telegra.ph/file/fa5013bb34c3cb2171c6c.jpg",
+        "https://telegra.ph/file/a6b82ed44f5ee49c09cd9.jpg",
+        "https://telegra.ph/file/1b9d1c921c6c55d1e5050.jpg",
+        "https://telegra.ph/file/21690794b9ea835e9392e.jpg",
+        "https://telegra.ph/file/70efc564818c3cca5dcc3.jpg",
+        "https://telegra.ph/file/843c6f424d2111c96353f.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

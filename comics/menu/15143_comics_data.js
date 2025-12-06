@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15143,
+    "title": "(バンドリ!スターフェスティバル6) [発光どんぐり (きのただ)] おねーちゃん、えっちしよ❤ (BanG Dream!)",
+    "sourceUrl": "https://telegra.ph/バンドリスターフェスティバル6-発光どんぐり-きのただ-おねーちゃんえっちしよ-BanG-Dream-08-31",
+    "images": [
+        "https://telegra.ph/file/69cc6958de77932252a96.jpg",
+        "https://telegra.ph/file/048cb4a5bfc77d2b90c3b.jpg",
+        "https://telegra.ph/file/f179154bac9e031bfa8a0.jpg",
+        "https://telegra.ph/file/ddc0f052323c0551c0084.jpg",
+        "https://telegra.ph/file/cc3dcf8e723df7c1992b3.jpg",
+        "https://telegra.ph/file/69853602669f1f5c7779e.jpg",
+        "https://telegra.ph/file/08130f7ef0346bb89513e.jpg",
+        "https://telegra.ph/file/81dfa8568f4b5400c08a9.jpg",
+        "https://telegra.ph/file/b0e524857c73c46e82037.jpg",
+        "https://telegra.ph/file/da5ef6aff7393274453c0.jpg",
+        "https://telegra.ph/file/b79d464307db04c2af9cb.jpg",
+        "https://telegra.ph/file/cedf4203ace251c4fc846.jpg",
+        "https://telegra.ph/file/d1c38440f6b1f35633544.jpg",
+        "https://telegra.ph/file/d8566bc8a196ce8f47701.jpg",
+        "https://telegra.ph/file/aa8f603e038f8b681891f.jpg",
+        "https://telegra.ph/file/0a15874a4c31f2b84ccd2.jpg",
+        "https://telegra.ph/file/de123ea9d76c42282d4a2.jpg",
+        "https://telegra.ph/file/5d676e75c3da831188312.jpg",
+        "https://telegra.ph/file/96812868f4960ccfd128c.jpg",
+        "https://telegra.ph/file/cc71f6bb7342b2ba2c73f.jpg",
+        "https://telegra.ph/file/7d30dfe2c749760e53711.jpg",
+        "https://telegra.ph/file/5b3af15210c2889be9903.jpg",
+        "https://telegra.ph/file/caee3b72631a73caa9871.jpg",
+        "https://telegra.ph/file/2450c0b5f72c64412d1cb.jpg",
+        "https://telegra.ph/file/3be7eb738824247a1dffc.jpg",
+        "https://telegra.ph/file/9ebb7471701ef30455867.jpg",
+        "https://telegra.ph/file/5e88e568e30a46f043cfc.jpg",
+        "https://telegra.ph/file/6b5b21c6aa6d54a80491b.jpg",
+        "https://telegra.ph/file/eddff40af846039aa238e.jpg",
+        "https://telegra.ph/file/08e875ca6091622626dbe.jpg",
+        "https://telegra.ph/file/d5ba028ef653e6ac6c4cb.jpg",
+        "https://telegra.ph/file/7002a963c8a1dcb1f2e87.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

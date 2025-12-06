@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15276,
+    "title": "(名華祭13) [Rainbow Vanilla (祭唄)] 恋色マスターラブリーストライク (東方Project)",
+    "sourceUrl": "https://telegra.ph/名華祭13-Rainbow-Vanilla-祭唄-恋色マスターラブリーストライク-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/f15c1a4322b565eecf6cd.jpg",
+        "https://telegra.ph/file/8922c50a035158d0523bd.jpg",
+        "https://telegra.ph/file/07823e57dac11a438636b.jpg",
+        "https://telegra.ph/file/cece85811a31683d47609.jpg",
+        "https://telegra.ph/file/0a8602354d514dfac886d.jpg",
+        "https://telegra.ph/file/7096a20e46c35dc01ec61.jpg",
+        "https://telegra.ph/file/572891136754dd71298ba.jpg",
+        "https://telegra.ph/file/24ae158aff2406c592a2d.jpg",
+        "https://telegra.ph/file/17dcc77956b2cd3c52aa1.jpg",
+        "https://telegra.ph/file/d6d6960a003e0061d14e7.jpg",
+        "https://telegra.ph/file/711c63fd1096970af1ae5.jpg",
+        "https://telegra.ph/file/b3037305f24b34986a2e0.jpg",
+        "https://telegra.ph/file/0988dbdba2a928c960099.jpg",
+        "https://telegra.ph/file/03d77c7bd870b70345d31.jpg",
+        "https://telegra.ph/file/119498f121f45c0f9392b.jpg",
+        "https://telegra.ph/file/f554240a616b60289a6c1.jpg",
+        "https://telegra.ph/file/627b656a312791e7a138c.jpg",
+        "https://telegra.ph/file/1438a2e0a31f73824e0a4.jpg",
+        "https://telegra.ph/file/469fa29273acfe8155089.jpg",
+        "https://telegra.ph/file/249f203cc78d4bc04ebf2.jpg",
+        "https://telegra.ph/file/feb53923668d3740aabfc.jpg",
+        "https://telegra.ph/file/d1867aad30f9bea1fa470.jpg",
+        "https://telegra.ph/file/61cddd6b644527bedce61.jpg",
+        "https://telegra.ph/file/0ab2a9c70f10eef97679d.jpg",
+        "https://telegra.ph/file/8ccf1a74e701892a9b1c6.jpg",
+        "https://telegra.ph/file/479be4429ff10332001b1.jpg",
+        "https://telegra.ph/file/bf3afb287bfbf8303ad47.jpg",
+        "https://telegra.ph/file/afe22aed1225b85c40d6d.jpg",
+        "https://telegra.ph/file/0c1108cc8050017fba718.jpg",
+        "https://telegra.ph/file/7c04dec3ae829567cc599.jpg",
+        "https://telegra.ph/file/57ab7052fafc897922787.jpg",
+        "https://telegra.ph/file/0105dc8b9af7f5ccf164f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

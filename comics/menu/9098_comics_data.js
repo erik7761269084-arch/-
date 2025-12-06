@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9098,
+    "title": "[のりパチ] 搾乳実習",
+    "sourceUrl": "https://telegra.ph/のりパチ-搾乳実習-08-31",
+    "images": [
+        "https://telegra.ph/file/f5c0400522a970ec59e47.jpg",
+        "https://telegra.ph/file/6413f1ce93ad92988946b.jpg",
+        "https://telegra.ph/file/9bf745f2eeaf4bb3de14b.jpg",
+        "https://telegra.ph/file/c99585dd3558f4c18e3f9.jpg",
+        "https://telegra.ph/file/e22b5910d7386599ad854.jpg",
+        "https://telegra.ph/file/7a2d9a49603fa0fb058f9.jpg",
+        "https://telegra.ph/file/2d6e7696bb5eb8b39c1da.jpg",
+        "https://telegra.ph/file/e37e7e2f2bb1bd1552b80.jpg",
+        "https://telegra.ph/file/35c4b75e5dabb6b4513c2.jpg",
+        "https://telegra.ph/file/06c82256749eece4a59c5.jpg",
+        "https://telegra.ph/file/967a4206b4a29a0aae3c9.jpg",
+        "https://telegra.ph/file/d5590875b22c90f890428.jpg",
+        "https://telegra.ph/file/8ebb043f61920cb9b318c.jpg",
+        "https://telegra.ph/file/c4b651b9d1cb9134a498f.jpg",
+        "https://telegra.ph/file/6002dcf660f0dbca08d15.jpg",
+        "https://telegra.ph/file/1bf822473cca10eb1dbe7.jpg",
+        "https://telegra.ph/file/036d0a666f6a38099e324.jpg",
+        "https://telegra.ph/file/893e85ced2958b52a59ce.jpg",
+        "https://telegra.ph/file/5af37bc490aa778bbc337.jpg",
+        "https://telegra.ph/file/6452d5b61c9de0cb69125.jpg",
+        "https://telegra.ph/file/788401c5d2bfa9a1bc316.jpg",
+        "https://telegra.ph/file/daf0542ea607fc9f5a073.jpg",
+        "https://telegra.ph/file/c8eb11183858e3813c80e.jpg",
+        "https://telegra.ph/file/3179003c14277b99353a8.jpg",
+        "https://telegra.ph/file/3c0cba5cb0c4debc633b4.jpg",
+        "https://telegra.ph/file/e5b441b32482b9fd959b5.jpg",
+        "https://telegra.ph/file/acb2b4abcc41fce7b5cd8.jpg",
+        "https://telegra.ph/file/fbac411a1a3b3ad746224.jpg",
+        "https://telegra.ph/file/1642287734e357007d0e5.jpg",
+        "https://telegra.ph/file/29cfb69a7cea53bd01752.jpg",
+        "https://telegra.ph/file/333335cf838f92079c872.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

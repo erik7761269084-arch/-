@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8712,
+    "title": "[お猿の脳みそ (ロケットモンキー)] 部下とまぐわう人妻上司～由美子～",
+    "sourceUrl": "https://telegra.ph/お猿の脳みそ-ロケットモンキー-部下とまぐわう人妻上司由美子-08-31",
+    "images": [
+        "https://telegra.ph/file/1af6d7ab7cea4bf8bcdac.jpg",
+        "https://telegra.ph/file/a9304084790b79a2cda94.jpg",
+        "https://telegra.ph/file/2af909ec8bb877df91248.jpg",
+        "https://telegra.ph/file/1edf09b14ddeadd35a1e6.jpg",
+        "https://telegra.ph/file/877e9bf73a7bdffe6e7b2.jpg",
+        "https://telegra.ph/file/588f8aa2bb4c99ef8cef4.jpg",
+        "https://telegra.ph/file/ea23bd06837ae897c36e8.jpg",
+        "https://telegra.ph/file/dc89a417a7fbd1648d341.jpg",
+        "https://telegra.ph/file/c68c8d3d8b6393068e959.jpg",
+        "https://telegra.ph/file/ec834615da510b5b74715.jpg",
+        "https://telegra.ph/file/59efe1448ded374503981.jpg",
+        "https://telegra.ph/file/4e3633c190175c215c0ca.jpg",
+        "https://telegra.ph/file/7f51943ea9e691e406800.jpg",
+        "https://telegra.ph/file/c645f2d60e6360950c7c6.jpg",
+        "https://telegra.ph/file/46721dfd95ea26032d732.jpg",
+        "https://telegra.ph/file/b4076999c172e5e779e64.jpg",
+        "https://telegra.ph/file/21f58a03d209bdadf5564.jpg",
+        "https://telegra.ph/file/fe0fd33e2341b5fb0dc83.jpg",
+        "https://telegra.ph/file/7b36c02509e9ddb1c0c22.jpg",
+        "https://telegra.ph/file/35f0c5347d514ab3a3eb2.jpg",
+        "https://telegra.ph/file/2596abb6c9e6efc8fc179.jpg",
+        "https://telegra.ph/file/11af7751b9b2eb768fb48.jpg",
+        "https://telegra.ph/file/17fcf813443392e9aaabd.jpg",
+        "https://telegra.ph/file/708bd9b8961ee2cad0e83.jpg",
+        "https://telegra.ph/file/f1a65ee5c7643cbb7d189.jpg",
+        "https://telegra.ph/file/d0c69b98551cb25efdea1.jpg",
+        "https://telegra.ph/file/fd5040a4383d1ff071bfe.jpg",
+        "https://telegra.ph/file/08eea5b3f673dee2f688d.jpg",
+        "https://telegra.ph/file/257a0f6d6805ff81697e9.jpg",
+        "https://telegra.ph/file/356dfb8dfa3cca1838ac7.jpg",
+        "https://telegra.ph/file/7a06afa2a872d4d7fbba6.jpg",
+        "https://telegra.ph/file/143319fb30cc6c7b448ae.jpg",
+        "https://telegra.ph/file/067d64cd917b12dec7de7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

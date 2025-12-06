@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11220,
+    "title": "[HIDARIkiki (傷希レイ)] フェラ本",
+    "sourceUrl": "https://telegra.ph/HIDARIkiki-傷希レイ-フェラ本-08-31",
+    "images": [
+        "https://telegra.ph/file/d91744e2f63fa66871138.jpg",
+        "https://telegra.ph/file/d10f71ff84bd1177b4576.jpg",
+        "https://telegra.ph/file/1a140a35a3da76263da9f.jpg",
+        "https://telegra.ph/file/2ed9ebea5117d0d60f5a7.jpg",
+        "https://telegra.ph/file/57d4a96b614fc82557c8e.jpg",
+        "https://telegra.ph/file/7fdd56d4b891f3edd431d.jpg",
+        "https://telegra.ph/file/4bb25010e4c1e77d19730.jpg",
+        "https://telegra.ph/file/fc314cb28e56b8eb0c9e0.jpg",
+        "https://telegra.ph/file/8be2753709b548fcbfaa6.jpg",
+        "https://telegra.ph/file/2968c4b70076b19f311cc.jpg",
+        "https://telegra.ph/file/87795bde477f47d5d4de5.jpg",
+        "https://telegra.ph/file/438b5f615f9812158bf99.jpg",
+        "https://telegra.ph/file/32061e0e4ed5ec98f4a47.jpg",
+        "https://telegra.ph/file/2f2e6e569ebfa918437b6.jpg",
+        "https://telegra.ph/file/50a5af55c0dd00d087641.jpg",
+        "https://telegra.ph/file/ff84413b2f1d96e8f094e.jpg",
+        "https://telegra.ph/file/21a366a0d8380404be875.jpg",
+        "https://telegra.ph/file/89ca32a816aacdbee8804.jpg",
+        "https://telegra.ph/file/36714bb375bc6dfe5fabc.jpg",
+        "https://telegra.ph/file/26b38630de36a2a3fe43e.jpg",
+        "https://telegra.ph/file/1e758daaa471280356590.jpg",
+        "https://telegra.ph/file/f5957ce5c73ce69cdc4d3.jpg",
+        "https://telegra.ph/file/62b48b1214631d322586e.jpg",
+        "https://telegra.ph/file/41fc4594db455911773c0.jpg",
+        "https://telegra.ph/file/c1ea18b90c2b48ddc7c6a.jpg",
+        "https://telegra.ph/file/9892d1b42b81c53b2d6f4.jpg",
+        "https://telegra.ph/file/a349ad8ce5c4cac2dd910.jpg",
+        "https://telegra.ph/file/c7ef9bc029ad924a0d562.jpg",
+        "https://telegra.ph/file/7e288f07c1fff5c1c13f3.jpg",
+        "https://telegra.ph/file/0255287c6368a58cb2023.jpg",
+        "https://telegra.ph/file/c99f6437f052d6ee63b27.jpg",
+        "https://telegra.ph/file/3b4fded3827054fa8cddf.jpg",
+        "https://telegra.ph/file/13e8cbb1802aec01c24ed.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

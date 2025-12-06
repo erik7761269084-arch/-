@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13810,
+    "title": "(COMIC1☆15) [HMA、鶯屋 (日吉ハナ、鶯神楽)] PURGADOIR SCEAL (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/COMIC115-HMA鶯屋-日吉ハナ鶯神楽-PURGADOIR-SCEAL-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/4910f182a089fedcc8478.jpg",
+        "https://telegra.ph/file/7938c44923ca85b5660f0.jpg",
+        "https://telegra.ph/file/984c1377509167498cb45.jpg",
+        "https://telegra.ph/file/6eed19733fc89cf190b3e.jpg",
+        "https://telegra.ph/file/8dc6ccb1db4403913066e.jpg",
+        "https://telegra.ph/file/bb202e894a29fbf7bdc86.jpg",
+        "https://telegra.ph/file/19919e9eb60026bbca8b2.jpg",
+        "https://telegra.ph/file/d1cc30be27bcbbe8a1499.jpg",
+        "https://telegra.ph/file/e22e8a873223f28b86d26.jpg",
+        "https://telegra.ph/file/6eb53ec453f60f6e856bb.jpg",
+        "https://telegra.ph/file/c82f91fc8e5420fb70b09.jpg",
+        "https://telegra.ph/file/f3e54de6efc2c5aecf2f6.jpg",
+        "https://telegra.ph/file/5bf77e728f3584986b2a7.jpg",
+        "https://telegra.ph/file/fde0dc1ad0b826f6223d5.jpg",
+        "https://telegra.ph/file/03857ad626f0f53ba2d6c.jpg",
+        "https://telegra.ph/file/83d3ec4187b3c601b0978.jpg",
+        "https://telegra.ph/file/30a4bff5cd13c91fb8047.jpg",
+        "https://telegra.ph/file/32ac725aa2fe71a6fbdc8.jpg",
+        "https://telegra.ph/file/346b39f79281719c843f3.jpg",
+        "https://telegra.ph/file/0bec7c0a55ce4c04ef24f.jpg",
+        "https://telegra.ph/file/1ead8996441d8f846bfa8.jpg",
+        "https://telegra.ph/file/6629965b10345586b3011.jpg",
+        "https://telegra.ph/file/152c5aa67bdaff4e55c90.jpg",
+        "https://telegra.ph/file/5d637b64543aa71f358d7.jpg",
+        "https://telegra.ph/file/d99953ad244dfd68d91a5.jpg",
+        "https://telegra.ph/file/2c5f3fb6f698c22076e26.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

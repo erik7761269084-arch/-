@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12214,
+    "title": "(C96) [ろしまん (マサ兄)] 日本一のドスケベ女がチャラ男にナンパされてホテルに連れ込まれるお話♥ (ストリートファイター、餓狼伝説)",
+    "sourceUrl": "https://telegra.ph/C96-ろしまん-マサ兄-日本一のドスケベ女がチャラ男にナンパされてホテルに連れ込まれるお話-ストリートファイター餓狼伝説-08-31",
+    "images": [
+        "https://telegra.ph/file/77b3dafaeec3a86d80ded.jpg",
+        "https://telegra.ph/file/9e23eaab8593663250c17.jpg",
+        "https://telegra.ph/file/bc5842f4117216bbfc790.jpg",
+        "https://telegra.ph/file/a364b6a2b57efcf619c8d.jpg",
+        "https://telegra.ph/file/5b46a7aed2ed80386d4dd.jpg",
+        "https://telegra.ph/file/c31eb44b8b1fb3e93eb1b.jpg",
+        "https://telegra.ph/file/791481231f808795d7ed8.jpg",
+        "https://telegra.ph/file/cbf00c260d72dd4358d20.jpg",
+        "https://telegra.ph/file/72424f3e2eb0e47b31e98.jpg",
+        "https://telegra.ph/file/1f8c3d62ddbcec79968d3.jpg",
+        "https://telegra.ph/file/d5636cb708b1121b1445a.jpg",
+        "https://telegra.ph/file/55f5b2e47d05e41897d6c.jpg",
+        "https://telegra.ph/file/55182b2f8770bc1ecc2a6.jpg",
+        "https://telegra.ph/file/7198bb274885bc136fd05.jpg",
+        "https://telegra.ph/file/4a4edd24e6b55b0690e88.jpg",
+        "https://telegra.ph/file/0c53466600bd09714923b.jpg",
+        "https://telegra.ph/file/7b52dcce01385c4ea36e1.jpg",
+        "https://telegra.ph/file/799aeea5633fa4dd6aebb.jpg",
+        "https://telegra.ph/file/344d87db84d41e5e3eb98.jpg",
+        "https://telegra.ph/file/66c078a3bbb1c748eea9c.jpg",
+        "https://telegra.ph/file/c8f5618f5217aed7a8faa.jpg",
+        "https://telegra.ph/file/f1bc28b95672f124dfb89.jpg",
+        "https://telegra.ph/file/6ae74cc89d4df70185a78.jpg",
+        "https://telegra.ph/file/c71f7f247d776d54182e3.jpg",
+        "https://telegra.ph/file/5caad956efba42f91fb19.jpg",
+        "https://telegra.ph/file/7f6f6f2a969eb7a166181.jpg",
+        "https://telegra.ph/file/967f263182ccc7fbce767.jpg",
+        "https://telegra.ph/file/fbadeeb6220cde2f5f1a7.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/45ab4e5d5b98c70b11608.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10958,
+    "title": "(C93) [ヒツジ企画 (むねしろ)] オサカビッチ♥ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C93-ヒツジ企画-むねしろ-オサカビッチ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/2c386d287d6db0ac8e05c.jpg",
+        "https://telegra.ph/file/58518468a015952268db6.jpg",
+        "https://telegra.ph/file/faacb03cb4e296dbeb81b.jpg",
+        "https://telegra.ph/file/6b10fe7c40732d2a3e7e5.jpg",
+        "https://telegra.ph/file/5a49c95714848c33ed41d.jpg",
+        "https://telegra.ph/file/0404db2a3ff255807214f.jpg",
+        "https://telegra.ph/file/3cff6c01e300eb5e6051c.jpg",
+        "https://telegra.ph/file/30d6b100cf78c89260d91.jpg",
+        "https://telegra.ph/file/d7faac4703bd31b5e20b5.jpg",
+        "https://telegra.ph/file/cc6dc3f03515e71f38cec.jpg",
+        "https://telegra.ph/file/e93706f931253118bb463.jpg",
+        "https://telegra.ph/file/0c95c67b6c0dc986e2a70.jpg",
+        "https://telegra.ph/file/2b79046dfe2fefa949ae5.jpg",
+        "https://telegra.ph/file/90aaabaed9e8836fae784.jpg",
+        "https://telegra.ph/file/c85deba4114ce2ddbd093.jpg",
+        "https://telegra.ph/file/95fb8447fc3b44767f51c.jpg",
+        "https://telegra.ph/file/44b16d818b74a9976b96d.jpg",
+        "https://telegra.ph/file/f01d193c01e90187caa70.jpg",
+        "https://telegra.ph/file/53a2f28fc0758732049a6.jpg",
+        "https://telegra.ph/file/4f44c5c4700637bfaf869.jpg",
+        "https://telegra.ph/file/0c223cfc02f657bbfed6c.jpg",
+        "https://telegra.ph/file/a24c4d34a97e6e2cb449d.jpg",
+        "https://telegra.ph/file/5f9d9b00a02ed03fb3201.jpg",
+        "https://telegra.ph/file/167643377abe881b95824.jpg",
+        "https://telegra.ph/file/36d5b2eeea08aa4ecfc1e.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/299617a1da21ec4c49b83.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10426,
+    "title": "[真・聖堂☆本舗 (聖☆司)] 彼氏いない歴=年齢の私(3●歳処女)が、親友の子供の男の子と生まれて初めてラブホに入った話。 (ガールズ&パンツァー)",
+    "sourceUrl": "https://telegra.ph/真聖堂本舗-聖司-彼氏いない歴年齢の私3歳処女が親友の子供の男の子と生まれて初めてラブホに入った話-ガールズパンツァー-08-31",
+    "images": [
+        "https://telegra.ph/file/eaf4c39fcb0c1abbfcd28.jpg",
+        "https://telegra.ph/file/b8b4f5be992e31456ddd1.jpg",
+        "https://telegra.ph/file/98ea75fe53e188b16a88c.jpg",
+        "https://telegra.ph/file/68c4ac897a6f5afa7d368.jpg",
+        "https://telegra.ph/file/6f585d6763b195f402ab1.jpg",
+        "https://telegra.ph/file/9b95a37c157b415e440f7.jpg",
+        "https://telegra.ph/file/3c03cea8ebe3fc7400821.jpg",
+        "https://telegra.ph/file/0508198a486d8a1f3e12a.jpg",
+        "https://telegra.ph/file/163031d69f945755abd11.jpg",
+        "https://telegra.ph/file/181017366352d7d5bba6b.jpg",
+        "https://telegra.ph/file/f98881107e4fd13c8bf5f.jpg",
+        "https://telegra.ph/file/ca9638ec0c9b325a89089.jpg",
+        "https://telegra.ph/file/90b4645c940a23c6e4409.jpg",
+        "https://telegra.ph/file/ec68595c5df7b20abfa3b.jpg",
+        "https://telegra.ph/file/6c067154f999091839f78.jpg",
+        "https://telegra.ph/file/6a1b0a774099b0841a6e4.jpg",
+        "https://telegra.ph/file/80ce6232125d49171c142.jpg",
+        "https://telegra.ph/file/1b8046f4f50eaf5c72da9.jpg",
+        "https://telegra.ph/file/0a2c23cb005e609ade640.jpg",
+        "https://telegra.ph/file/396324ae0d23ba21ec7da.jpg",
+        "https://telegra.ph/file/1a75992def588d0441f84.jpg",
+        "https://telegra.ph/file/19c60188aa616d7e3f235.jpg",
+        "https://telegra.ph/file/3fab76eb90ca4cf212cba.jpg",
+        "https://telegra.ph/file/9b7ddf8e0d1a73497a616.jpg",
+        "https://telegra.ph/file/378b3f0d58b27d8ed8f8c.jpg",
+        "https://telegra.ph/file/9692f31bcf61f7bc22f8f.jpg",
+        "https://telegra.ph/file/3777cd45c76ed75aae0b7.jpg",
+        "https://telegra.ph/file/a858ffb4a0845f983ce05.jpg",
+        "https://telegra.ph/file/1da0eba01f0e6f51f917c.jpg",
+        "https://telegra.ph/file/f0ce05273847dae393fc1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

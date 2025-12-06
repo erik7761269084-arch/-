@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16368,
+    "title": "[coco (水野)] 女神様とカタオモイ (ラブライブ! サンシャイン!!)  -Preview",
+    "sourceUrl": "https://telegra.ph/coco-水野-女神様とカタオモイ-ラブライブ-サンシャイン--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/000000011.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000001.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000002.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000003.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000004.png",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000005.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000006.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000007.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000008.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000009.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000010.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000011.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000012.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000013.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000014.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000015.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000016.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000017.png",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000018.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000019.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000020.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000021.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000022.png",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000023.png",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000024.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000025.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000026.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000027.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000028.jpg",
+        "https://i2.linghua.xyz/ex/3109912/cc129eaa44/00000029.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

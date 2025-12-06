@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12655,
+    "title": "(COMIC1☆13) [沙悟荘 (瀬浦沙悟)] 殿下をママにしてやりたい!が可決されました! (魔界戦記ディスガイア)",
+    "sourceUrl": "https://telegra.ph/COMIC113-沙悟荘-瀬浦沙悟-殿下をママにしてやりたいが可決されました-魔界戦記ディスガイア-08-31",
+    "images": [
+        "https://telegra.ph/file/e089f3cd0218957ea1cf9.jpg",
+        "https://telegra.ph/file/0ec37f592ebd2f8b85d85.jpg",
+        "https://telegra.ph/file/dc6e4973b4c2f91114bdc.jpg",
+        "https://telegra.ph/file/e3385d592a8cbbb4bfc9d.jpg",
+        "https://telegra.ph/file/a51476913367c57eebcc2.jpg",
+        "https://telegra.ph/file/e5c3bf97bbd7461aac924.jpg",
+        "https://telegra.ph/file/f2e99b16d090f138d0412.jpg",
+        "https://telegra.ph/file/97419cfae6c9bbe4ed5a4.jpg",
+        "https://telegra.ph/file/14ac0695cc88fd08a0e21.jpg",
+        "https://telegra.ph/file/f0b50e10130176263f948.jpg",
+        "https://telegra.ph/file/e49b4cc39d06d3447701c.jpg",
+        "https://telegra.ph/file/6d1df7a242b737dba8721.jpg",
+        "https://telegra.ph/file/b8e322951e5d011de0a15.jpg",
+        "https://telegra.ph/file/481575f470eebd8338c39.jpg",
+        "https://telegra.ph/file/a4128299abf960ce5b2bf.jpg",
+        "https://telegra.ph/file/1cc3196d5b11545fe82dd.jpg",
+        "https://telegra.ph/file/f42964c3d239308bb245c.jpg",
+        "https://telegra.ph/file/d586017dec20a29d02006.jpg",
+        "https://telegra.ph/file/791308d822275d9b4f5b9.jpg",
+        "https://telegra.ph/file/145a098e2441df80d3f9e.jpg",
+        "https://telegra.ph/file/6a75769cdf309197e0364.jpg",
+        "https://telegra.ph/file/361b376871b14f72ef002.jpg",
+        "https://telegra.ph/file/3abd4c497d69f50a48697.jpg",
+        "https://telegra.ph/file/ea145bd20865c54a384c2.jpg",
+        "https://telegra.ph/file/5c3f325372202f01bc5fd.jpg",
+        "https://telegra.ph/file/0eba7feea5fb8282c5af8.jpg",
+        "https://telegra.ph/file/3048ab6a3d6aebc0fc634.jpg",
+        "https://telegra.ph/file/fbadeeb6220cde2f5f1a7.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/45ab4e5d5b98c70b11608.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

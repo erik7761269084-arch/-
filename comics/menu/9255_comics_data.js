@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9255,
+    "title": "(C94) [んがむらさん (お久しぶり)] おひっクス2＋フリーペーパー (よろず)",
+    "sourceUrl": "https://telegra.ph/C94-んがむらさん-お久しぶり-おひっクス2フリーペーパー-よろず-08-31",
+    "images": [
+        "https://telegra.ph/file/ccc1977fc9453209f7221.jpg",
+        "https://telegra.ph/file/4bc62b02c2489a6126b7b.jpg",
+        "https://telegra.ph/file/d2b4f0421a6b546054da0.jpg",
+        "https://telegra.ph/file/119dff6a4c5c00cd774f3.jpg",
+        "https://telegra.ph/file/a47480402cc0a3337913c.jpg",
+        "https://telegra.ph/file/0064a4231a728cdc020e9.jpg",
+        "https://telegra.ph/file/4cff7b929eca4b518201b.jpg",
+        "https://telegra.ph/file/8d1597227cd43a267c204.jpg",
+        "https://telegra.ph/file/d8d9156506f2bb377a09e.jpg",
+        "https://telegra.ph/file/aea3d010afe83aaae8096.jpg",
+        "https://telegra.ph/file/9913cced4cd26a5390dc5.jpg",
+        "https://telegra.ph/file/7aab25887fcdecd55cb84.jpg",
+        "https://telegra.ph/file/3b9fd57c9330bb5a73546.jpg",
+        "https://telegra.ph/file/61a58f8f522d16b3aad67.jpg",
+        "https://telegra.ph/file/a734efc960f6fc54ab70f.jpg",
+        "https://telegra.ph/file/3d09470bcbeabe8167177.jpg",
+        "https://telegra.ph/file/175299bdbb37a4af60c78.jpg",
+        "https://telegra.ph/file/37bf936a99e23a3be3e47.jpg",
+        "https://telegra.ph/file/29e990f272a9e9825730d.jpg",
+        "https://telegra.ph/file/66fecee112521610cfdce.jpg",
+        "https://telegra.ph/file/ee7732d92435a213434a1.jpg",
+        "https://telegra.ph/file/144aacfe0b80ffe714bf5.jpg",
+        "https://telegra.ph/file/fb8c4f6d72d342e222d85.jpg",
+        "https://telegra.ph/file/63cc5c958344f1e74d5f2.jpg",
+        "https://telegra.ph/file/549ffffd2bf22334bb0ba.jpg",
+        "https://telegra.ph/file/a19973f644f31956669ef.jpg",
+        "https://telegra.ph/file/095d43bb7b60864d83019.jpg",
+        "https://telegra.ph/file/f5314d83a6a06443a0f4e.jpg",
+        "https://telegra.ph/file/b6d8d81bd024d497ec449.jpg",
+        "https://telegra.ph/file/764002a89678ec656024d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

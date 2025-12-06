@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8593,
+    "title": "[菜さん] NTRclub生放送-アスナ孕篇①-③ (ソードアート・オンライン)",
+    "sourceUrl": "https://telegra.ph/菜さん-NTRclub生放送-アスナ孕篇--ソードアートオンライン-08-31-2",
+    "images": [
+        "https://telegra.ph/file/0c152d91e0f053603176b.jpg",
+        "https://telegra.ph/file/f26594950236c711f1c47.jpg",
+        "https://telegra.ph/file/f2a68eb741c20faf074df.jpg",
+        "https://telegra.ph/file/c2c6f31e84add1865464f.jpg",
+        "https://telegra.ph/file/0924ca47d5f78bbed5ca8.jpg",
+        "https://telegra.ph/file/3465a4a16ff4ed88350ca.jpg",
+        "https://telegra.ph/file/560d105460356cbcf686a.jpg",
+        "https://telegra.ph/file/b1b20bcb04713e1332876.jpg",
+        "https://telegra.ph/file/d90cd48e1ef1d14b6eefe.jpg",
+        "https://telegra.ph/file/3a7a7b1ad467dac5ec775.jpg",
+        "https://telegra.ph/file/f9a3f4c40fef8a7668c25.jpg",
+        "https://telegra.ph/file/0ad1e7fc97350e1b9274a.jpg",
+        "https://telegra.ph/file/39a35f95264614cab33f2.jpg",
+        "https://telegra.ph/file/5046fe210de51ce544553.jpg",
+        "https://telegra.ph/file/d316dab01b6683ff65389.jpg",
+        "https://telegra.ph/file/8015f140df42ecc9baadb.jpg",
+        "https://telegra.ph/file/5b33910db7b570b1b2e06.jpg",
+        "https://telegra.ph/file/3cd13324e23f97bf39f80.jpg",
+        "https://telegra.ph/file/b9a1588c4d258de17fa84.jpg",
+        "https://telegra.ph/file/1961107242419f3de20d3.jpg",
+        "https://telegra.ph/file/6a0db81f3f31502e67738.jpg",
+        "https://telegra.ph/file/3607ce366b253d71f87f5.jpg",
+        "https://telegra.ph/file/e4ab2817438245423ff0c.jpg",
+        "https://telegra.ph/file/6bddda56af0ade2baafab.jpg",
+        "https://telegra.ph/file/ffafb49a2429880118453.jpg",
+        "https://telegra.ph/file/985c7e0dfaf6efafb9d38.jpg",
+        "https://telegra.ph/file/0e5f1ecb7f09ad130bb8d.jpg",
+        "https://telegra.ph/file/17aa29b9a2f65abc2e064.jpg",
+        "https://telegra.ph/file/577d97cf595b27e435a57.jpg",
+        "https://telegra.ph/file/e927a22b930c2b46ca503.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

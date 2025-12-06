@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12858,
+    "title": "[まんねんドコドコドンドドコ (とっととねろ太郎。)] POCKET BITCH (ポケットモンスター ソード・シールド)",
+    "sourceUrl": "https://telegra.ph/まんねんドコドコドンドドコ-とっととねろ太郎-POCKET-BITCH-ポケットモンスター-ソードシールド-08-31",
+    "images": [
+        "https://telegra.ph/file/0a12e140c522d89256089.jpg",
+        "https://telegra.ph/file/7b0939cec0a07268c5b35.jpg",
+        "https://telegra.ph/file/1974d846395aace24d9c8.jpg",
+        "https://telegra.ph/file/b8e642101590ed941425c.jpg",
+        "https://telegra.ph/file/344f0d40885edb59a441f.jpg",
+        "https://telegra.ph/file/6d58473f9158499259928.jpg",
+        "https://telegra.ph/file/f814ee427f8ed0aacbff4.jpg",
+        "https://telegra.ph/file/a0479e527bc769f0fb201.jpg",
+        "https://telegra.ph/file/ab36771cd502a9801efac.jpg",
+        "https://telegra.ph/file/1ed1115b5bab584528be5.jpg",
+        "https://telegra.ph/file/9622321e281a7fd8af13f.jpg",
+        "https://telegra.ph/file/8602fcacebebf95d0f36d.jpg",
+        "https://telegra.ph/file/f6554ac2a560a074392b6.jpg",
+        "https://telegra.ph/file/bee4e724e10e2f906faa7.jpg",
+        "https://telegra.ph/file/81a6160de3c79033352d4.jpg",
+        "https://telegra.ph/file/7b3d691e733bb4640bcaa.jpg",
+        "https://telegra.ph/file/35620e7f5433d7d4ba4b4.jpg",
+        "https://telegra.ph/file/452797dcdbef766609239.jpg",
+        "https://telegra.ph/file/84a5c907d60eb42796b7c.jpg",
+        "https://telegra.ph/file/3938f976ed9c635432aec.jpg",
+        "https://telegra.ph/file/baa8c8bfbc1c115e44b34.jpg",
+        "https://telegra.ph/file/cb321ba337af66eefff59.jpg",
+        "https://telegra.ph/file/c7960733de69da7942c02.jpg",
+        "https://telegra.ph/file/cae24984bda05fb9abff6.jpg",
+        "https://telegra.ph/file/d107e168fd26b92336351.jpg",
+        "https://telegra.ph/file/fdba914a5e40c652b8a73.jpg",
+        "https://telegra.ph/file/1f01b483d58ef17d6b257.jpg",
+        "https://telegra.ph/file/a05972dce78779201bde2.jpg",
+        "https://telegra.ph/file/6abec53c5e86c8d12ac93.jpg",
+        "https://telegra.ph/file/d12a76eaa0636d552b76c.jpg",
+        "https://telegra.ph/file/703af27a0dba43fc0fd17.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

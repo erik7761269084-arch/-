@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11750,
+    "title": "[Fatalpulse (朝凪)] VictimGirls26 マスターvsメスチャイルド (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/Fatalpulse-朝凪-VictimGirls26-マスターvsメスチャイルド-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/003cce01f72faa6bcc1f0.jpg",
+        "https://telegra.ph/file/ff31aabb1fdd421110769.jpg",
+        "https://telegra.ph/file/049fc49c20f86c4794c3a.jpg",
+        "https://telegra.ph/file/ad3b15e0f65d0554e45b0.jpg",
+        "https://telegra.ph/file/26f53f6bf848a07f419b6.jpg",
+        "https://telegra.ph/file/15f0ac1bb29ab31f944f7.jpg",
+        "https://telegra.ph/file/98608d8b6bc6ef4f7b775.jpg",
+        "https://telegra.ph/file/e40d6ddf13c4e36b763c1.jpg",
+        "https://telegra.ph/file/b72d0d7ebe78d14575fe3.jpg",
+        "https://telegra.ph/file/61b1da5ec39f461d11299.jpg",
+        "https://telegra.ph/file/740236e36a4ab8f29d48a.jpg",
+        "https://telegra.ph/file/51e7efd4f7c7bdb50813a.jpg",
+        "https://telegra.ph/file/4f8c7c99f4832936d9913.jpg",
+        "https://telegra.ph/file/952efb6b3ea19f2535530.jpg",
+        "https://telegra.ph/file/108a6e9f39f03727bc26c.jpg",
+        "https://telegra.ph/file/96a10553d804ee45788e9.jpg",
+        "https://telegra.ph/file/a2252af8e4b7d49eee1e4.jpg",
+        "https://telegra.ph/file/ef2a473411bddcaaca9aa.jpg",
+        "https://telegra.ph/file/c164c9d1c28e383abca1d.jpg",
+        "https://telegra.ph/file/79206ac1b1cb1dd0a0e29.jpg",
+        "https://telegra.ph/file/71c634482609e504bc3df.jpg",
+        "https://telegra.ph/file/5fbead234a63f39d1081c.jpg",
+        "https://telegra.ph/file/5fe10bf87b58114fca3f8.jpg",
+        "https://telegra.ph/file/c257cedc406ecba94d2c6.jpg",
+        "https://telegra.ph/file/1000f797b2b741fe95587.jpg",
+        "https://telegra.ph/file/44b21a1b76d41bbac8d0c.jpg",
+        "https://telegra.ph/file/ffc62edaa275a679df437.jpg",
+        "https://telegra.ph/file/d559051c7fd461d7fef03.jpg",
+        "https://telegra.ph/file/e2e604357206986cd69ea.jpg",
+        "https://telegra.ph/file/b673c61e52114c9071515.jpg",
+        "https://telegra.ph/file/8d47fbb4c81eed0dc770e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

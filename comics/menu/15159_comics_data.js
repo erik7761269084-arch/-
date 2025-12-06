@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15159,
+    "title": "[蒼色彼方 (色谷あすか)] 奏情ピヱロ (東方Project)",
+    "sourceUrl": "https://telegra.ph/蒼色彼方-色谷あすか-奏情ピヱロ-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/94f848c4be935461832e0.jpg",
+        "https://telegra.ph/file/20d13f1a10f86a707b41b.jpg",
+        "https://telegra.ph/file/817b2e6f32accf360928f.jpg",
+        "https://telegra.ph/file/42349d9cb85e14ccf8dee.jpg",
+        "https://telegra.ph/file/8fb93886c7180198754ea.jpg",
+        "https://telegra.ph/file/3e0c1757a418c02498d98.jpg",
+        "https://telegra.ph/file/57df47f804729424a19e6.jpg",
+        "https://telegra.ph/file/e51ef226d10ed4d488b21.jpg",
+        "https://telegra.ph/file/3c42a081adab7ea69e281.jpg",
+        "https://telegra.ph/file/9aabfbd89dc4a5e28b542.jpg",
+        "https://telegra.ph/file/a6f47ef1af9b45c1cb6ea.jpg",
+        "https://telegra.ph/file/e0e4d675548ac6be9a121.jpg",
+        "https://telegra.ph/file/67d097ba30859ed2872a2.jpg",
+        "https://telegra.ph/file/d027059dc13af689d3f07.jpg",
+        "https://telegra.ph/file/5db26ba6af2c8d1563ff0.jpg",
+        "https://telegra.ph/file/981716c743f3ad10872a4.jpg",
+        "https://telegra.ph/file/f385b4f54c5699643c223.jpg",
+        "https://telegra.ph/file/c656125375cd0744d1c0d.jpg",
+        "https://telegra.ph/file/e4b991c62d10bde6e1654.jpg",
+        "https://telegra.ph/file/072d490289f5c6e25627f.jpg",
+        "https://telegra.ph/file/9a9d090f82355ad12362d.jpg",
+        "https://telegra.ph/file/10d9995eb110502517986.jpg",
+        "https://telegra.ph/file/db523a739b7fa098ce6fe.jpg",
+        "https://telegra.ph/file/f5b2d81e241c97a3a4d6c.jpg",
+        "https://telegra.ph/file/c6d06f5fd6f9d6832db54.jpg",
+        "https://telegra.ph/file/93c75b86e5bb2b033ef87.jpg",
+        "https://telegra.ph/file/a48fa96f4624c280678c0.jpg",
+        "https://telegra.ph/file/5a34dcc720d0e457591e3.jpg",
+        "https://telegra.ph/file/a320260cf56f895850a99.jpg",
+        "https://telegra.ph/file/c0311801c90ff3327c326.jpg",
+        "https://telegra.ph/file/34000372383ea7527a953.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

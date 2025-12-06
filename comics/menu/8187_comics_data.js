@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8187,
+    "title": "[がはははははは! (世界一位、摩訶不思議マン)] 兄貴に食べ尽くされた俺の彼女。",
+    "sourceUrl": "https://telegra.ph/がはははははは-世界一位摩訶不思議マン-兄貴に食べ尽くされた俺の彼女-08-31",
+    "images": [
+        "https://telegra.ph/file/621c932fa6303208818cc.jpg",
+        "https://telegra.ph/file/8a1c920ffbc57c61b90de.jpg",
+        "https://telegra.ph/file/4c95c6382d17f4ad2afeb.jpg",
+        "https://telegra.ph/file/f3b8d46aadbfc07a525b5.jpg",
+        "https://telegra.ph/file/82c0516d69131757d7d10.jpg",
+        "https://telegra.ph/file/5e53ad93285ea94c328ed.jpg",
+        "https://telegra.ph/file/e9c1a1ee79cb3f9c0203c.jpg",
+        "https://telegra.ph/file/002ca806f7db959a34b78.jpg",
+        "https://telegra.ph/file/a9e0ba58f8ac0a26bb03e.jpg",
+        "https://telegra.ph/file/0855617029ff0b06f950e.jpg",
+        "https://telegra.ph/file/f3f486d630ae381aa8fe3.jpg",
+        "https://telegra.ph/file/d106d0f50c3583fca1c61.jpg",
+        "https://telegra.ph/file/ee7bec4f8504c3e62e91d.jpg",
+        "https://telegra.ph/file/2d65da2293fb50b868a79.jpg",
+        "https://telegra.ph/file/318a301488561f01270ac.jpg",
+        "https://telegra.ph/file/fa7ea36163f3689b5610b.jpg",
+        "https://telegra.ph/file/d5b50661fad44c65a579a.jpg",
+        "https://telegra.ph/file/f11a0aab96d7ba3c0f3a0.jpg",
+        "https://telegra.ph/file/a8c7308eec5b08b78def1.jpg",
+        "https://telegra.ph/file/6b698def52c54321854cd.jpg",
+        "https://telegra.ph/file/f97fc125f67ceba89cda9.jpg",
+        "https://telegra.ph/file/a48b1c87157e2b92f9dab.jpg",
+        "https://telegra.ph/file/acf7bf1c150c2f18cd44a.jpg",
+        "https://telegra.ph/file/7c83d5b95d5d638a17656.jpg",
+        "https://telegra.ph/file/abd0c031aa49987023a33.jpg",
+        "https://telegra.ph/file/3969338175fc8c21397bd.jpg",
+        "https://telegra.ph/file/b64e2ab395d43dabe714a.jpg",
+        "https://telegra.ph/file/37274f48c06a3b163c0c7.jpg",
+        "https://telegra.ph/file/7c97c1167a1e5c6c23756.jpg",
+        "https://telegra.ph/file/0e270a794611d8b64a098.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

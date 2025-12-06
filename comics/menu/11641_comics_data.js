@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11641,
+    "title": "[ヒツジ企画 (むねしろ)] 常夏と吸血種と乱交おせっせ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ヒツジ企画-むねしろ-常夏と吸血種と乱交おせっせ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/957a30db7e8c626336997.jpg",
+        "https://telegra.ph/file/bb79c8bfa81a8eee7d31b.jpg",
+        "https://telegra.ph/file/1490b9fb7bd43e929bcfd.jpg",
+        "https://telegra.ph/file/0555caf1acef0487e0ec0.jpg",
+        "https://telegra.ph/file/e223dfbd3bb89ea82b73c.jpg",
+        "https://telegra.ph/file/1f9708f054b8208c469d9.jpg",
+        "https://telegra.ph/file/c9ae4c11237e4e1842a1f.jpg",
+        "https://telegra.ph/file/b77b92a4accc0412334a6.jpg",
+        "https://telegra.ph/file/b1a5544c531570cbadcd6.jpg",
+        "https://telegra.ph/file/4d045901d7aaf0a9d70ee.jpg",
+        "https://telegra.ph/file/69b6b80963e11c117702b.jpg",
+        "https://telegra.ph/file/d842b292aa8c520267db4.jpg",
+        "https://telegra.ph/file/b6c0a1db3358d4851f12b.jpg",
+        "https://telegra.ph/file/973881684f25d9ad9efd6.jpg",
+        "https://telegra.ph/file/6068af22baab007f2045e.jpg",
+        "https://telegra.ph/file/1ebd6ef569f47bf1e13df.jpg",
+        "https://telegra.ph/file/44b710debf62bc20f64e2.jpg",
+        "https://telegra.ph/file/a8f439328f83d01a54207.jpg",
+        "https://telegra.ph/file/2be7f7a4db0ba00dcb91a.jpg",
+        "https://telegra.ph/file/8139beeb5864892669b75.jpg",
+        "https://telegra.ph/file/6c467e66520aab3ec96e2.jpg",
+        "https://telegra.ph/file/dba0fcd6fa826b81f2076.jpg",
+        "https://telegra.ph/file/3da0f2e975d553cadc3b2.jpg",
+        "https://telegra.ph/file/9c62ed87ad585d30ecc54.jpg",
+        "https://telegra.ph/file/8e182d6d704a7c9bdb8f3.jpg",
+        "https://telegra.ph/file/2dd272ea987303a8a3bc3.jpg",
+        "https://telegra.ph/file/f4188e01558f8bf1538ad.jpg",
+        "https://telegra.ph/file/5fe290c3ffa8f464d0e9b.jpg",
+        "https://telegra.ph/file/2b36c3ecf5da5b933bd6f.jpg",
+        "https://telegra.ph/file/15bda7e5a7614e2625562.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

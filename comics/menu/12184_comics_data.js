@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12184,
+    "title": "[サルノコシカケ (がるがんちゅー)] 人妻こってり～恋心、知って一夜～",
+    "sourceUrl": "https://telegra.ph/サルノコシカケ-がるがんちゅー-人妻こってり恋心知って一夜-08-31-3",
+    "images": [
+        "https://telegra.ph/file/f5c6c09d72c0315e709a3.jpg",
+        "https://telegra.ph/file/cde6d910043b66e2e9304.jpg",
+        "https://telegra.ph/file/27cf55b52083fc5f641ae.jpg",
+        "https://telegra.ph/file/247ede01ba377c38a2a35.jpg",
+        "https://telegra.ph/file/8452bc16d8310b8ac3647.jpg",
+        "https://telegra.ph/file/4a0b0fb4c3e019e7c10c1.jpg",
+        "https://telegra.ph/file/a2b74a174778a7b044fcb.jpg",
+        "https://telegra.ph/file/066a82fba8f79e282cdbb.jpg",
+        "https://telegra.ph/file/ee7da6c0d3414f59c6dbd.jpg",
+        "https://telegra.ph/file/e7d5cd2cf5aae5778926e.jpg",
+        "https://telegra.ph/file/aa2d85fc19e92c3d72ae3.jpg",
+        "https://telegra.ph/file/00102db29ab72bbe8c4a4.jpg",
+        "https://telegra.ph/file/037efb23aa1cca3f57f2a.jpg",
+        "https://telegra.ph/file/5634e33b95709d0281f9c.jpg",
+        "https://telegra.ph/file/4db3094d6eb7f6b7a651a.jpg",
+        "https://telegra.ph/file/8a4a96b5122dec948a118.jpg",
+        "https://telegra.ph/file/f2915a9d56acc2f03f32f.jpg",
+        "https://telegra.ph/file/55f188e03da94847fb874.jpg",
+        "https://telegra.ph/file/346c68a886e06ac61c515.jpg",
+        "https://telegra.ph/file/527eac313b5889fa65d1a.jpg",
+        "https://telegra.ph/file/916faa96b7bfe4455b43a.jpg",
+        "https://telegra.ph/file/a7ba4b50183da5143a542.jpg",
+        "https://telegra.ph/file/6cb63853fe880d068fee2.jpg",
+        "https://telegra.ph/file/b72cd54a9e739b2360d81.jpg",
+        "https://telegra.ph/file/e13d7e361d960851af87e.jpg",
+        "https://telegra.ph/file/70aaf2cc1f0c753df6331.jpg",
+        "https://telegra.ph/file/8f14c06b405142ae8af65.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8611,
+    "title": "[臨終サーカス (はぐはぐ)] サーシャちゃんのYooTube配信。お気に入りセックスフレンド紹介 2 (第二位シャチョーさん編)",
+    "sourceUrl": "https://telegra.ph/臨終サーカス-はぐはぐ-サーシャちゃんのYooTube配信お気に入りセックスフレンド紹介-2-第二位シャチョーさん編-08-31",
+    "images": [
+        "https://telegra.ph/file/ee50a3cecc7f517a437f0.jpg",
+        "https://telegra.ph/file/f05a7b1ab8807e8da323a.jpg",
+        "https://telegra.ph/file/438a52d3d56723cbde016.jpg",
+        "https://telegra.ph/file/f1793fd1094fdfb0789ae.jpg",
+        "https://telegra.ph/file/bbc21d339609cdb480f9d.jpg",
+        "https://telegra.ph/file/953d50abf0028c3a0dc96.jpg",
+        "https://telegra.ph/file/d89bc4296957177e2640b.jpg",
+        "https://telegra.ph/file/61d0d37a590dd58d7ea87.jpg",
+        "https://telegra.ph/file/3fe3680b61477c36cadeb.jpg",
+        "https://telegra.ph/file/e90b64887010dfba9087c.jpg",
+        "https://telegra.ph/file/ccadcf5767b55cddfb7bf.jpg",
+        "https://telegra.ph/file/0c479786db356ade329a3.jpg",
+        "https://telegra.ph/file/bce63f1ce515bfd5e116e.jpg",
+        "https://telegra.ph/file/65f58776e6c21caa2b86a.jpg",
+        "https://telegra.ph/file/5263ebfbc5329e7b495de.jpg",
+        "https://telegra.ph/file/0f0e93554ba5aee9f5aca.jpg",
+        "https://telegra.ph/file/519979a6cc1126773592b.jpg",
+        "https://telegra.ph/file/68c92e207d318dcca0862.jpg",
+        "https://telegra.ph/file/4cc85eb99b16ce80458f7.jpg",
+        "https://telegra.ph/file/51575bea0f81d0051d8c7.jpg",
+        "https://telegra.ph/file/a0ed1e68045d2e6019cf7.jpg",
+        "https://telegra.ph/file/bf22b927e239acb25b177.jpg",
+        "https://telegra.ph/file/060b211aea07a3df2c20c.jpg",
+        "https://telegra.ph/file/501673a4d248642960c0c.jpg",
+        "https://telegra.ph/file/73dd780155232096d16cd.jpg",
+        "https://telegra.ph/file/30a37119e073a17753685.jpg",
+        "https://telegra.ph/file/c36b868ea2ad2f6512f55.jpg",
+        "https://telegra.ph/file/2221668e19c627b94f18c.jpg",
+        "https://telegra.ph/file/03c32ddd1f2a462f5f7f5.jpg",
+        "https://telegra.ph/file/56de93f7f7e8c9fe35c58.jpg",
+        "https://telegra.ph/file/aaf67369c821be249857a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

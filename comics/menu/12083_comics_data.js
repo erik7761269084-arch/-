@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12083,
+    "title": "[ひっさつわざ (ひっさつくん)] 無人駅III",
+    "sourceUrl": "https://telegra.ph/ひっさつわざ-ひっさつくん-無人駅III-08-31",
+    "images": [
+        "https://telegra.ph/file/6ca9ea4a5af446c65055a.jpg",
+        "https://telegra.ph/file/b4c7f30a8c8c5c2bc315e.jpg",
+        "https://telegra.ph/file/564905127a1dab6a201e8.jpg",
+        "https://telegra.ph/file/f8ae795932c03c7dc04c6.jpg",
+        "https://telegra.ph/file/d6d496125aee985eb0db9.jpg",
+        "https://telegra.ph/file/ba833e687cca91733124a.jpg",
+        "https://telegra.ph/file/14ac1dc715218a7f60f45.jpg",
+        "https://telegra.ph/file/cc27d923ead2da8ebfed3.jpg",
+        "https://telegra.ph/file/707e087a460efe0d72a98.jpg",
+        "https://telegra.ph/file/21457f67effb70d8d0f6a.jpg",
+        "https://telegra.ph/file/38b96cc2ab8d843867ba3.jpg",
+        "https://telegra.ph/file/7745ac6a1406aa6058eee.jpg",
+        "https://telegra.ph/file/e06af2d92c425a8a7eda3.jpg",
+        "https://telegra.ph/file/02a28d0b75fe4dbe3b498.jpg",
+        "https://telegra.ph/file/045874593ffefc495cd36.jpg",
+        "https://telegra.ph/file/afd64b25fd1b3be6e7100.jpg",
+        "https://telegra.ph/file/150508a8bb204def6a899.jpg",
+        "https://telegra.ph/file/a98699f3b0aa61ff28e4c.jpg",
+        "https://telegra.ph/file/387c8a70f0d944fcd0415.jpg",
+        "https://telegra.ph/file/1be8537a412432d0f3b15.jpg",
+        "https://telegra.ph/file/1bc2bdbafcf24e0a019aa.jpg",
+        "https://telegra.ph/file/8cedb5194c5682b81b8f1.jpg",
+        "https://telegra.ph/file/856fa36f0d32cb310a70a.jpg",
+        "https://telegra.ph/file/2bc8c4a2ee5e03f3f9fec.jpg",
+        "https://telegra.ph/file/0936e084966f4684150ed.jpg",
+        "https://telegra.ph/file/298f5a7df41941ea11d83.jpg",
+        "https://telegra.ph/file/fe4f856c52388b27f696c.jpg",
+        "https://telegra.ph/file/8988f542ca6b00b14c2a1.jpg",
+        "https://telegra.ph/file/ec03e1279a4d6f364ecaa.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/db3bf54a356b7373958d9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

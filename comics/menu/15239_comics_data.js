@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15239,
+    "title": "(コミティア128) [ほむら屋★プレアデス、SC (焔すばる、牛乳リンダ)] タチまっしぐら 3 ～ネコ♀カフェ百合合同 III～",
+    "sourceUrl": "https://telegra.ph/コミティア128-ほむら屋プレアデスSC-焔すばる牛乳リンダ-タチまっしぐら-3-ネコカフェ百合合同-III-08-31",
+    "images": [
+        "https://telegra.ph/file/53c9566bc6442b8530b79.jpg",
+        "https://telegra.ph/file/dee033d9892ac5d71ffba.jpg",
+        "https://telegra.ph/file/3e68c02d95f3437552f25.jpg",
+        "https://telegra.ph/file/8bffc8e1e0322845fbc91.jpg",
+        "https://telegra.ph/file/61b3d68af2e13a1b16aaf.jpg",
+        "https://telegra.ph/file/0335eb67e31f1ecf1e9d9.jpg",
+        "https://telegra.ph/file/3fde3d4abdaa77c805633.jpg",
+        "https://telegra.ph/file/492d1f2fc48fdad9f710d.jpg",
+        "https://telegra.ph/file/b5a38c866b83e5dbc7f4c.jpg",
+        "https://telegra.ph/file/b969eac116af502e2fa22.jpg",
+        "https://telegra.ph/file/1d74f0792e5603e394441.jpg",
+        "https://telegra.ph/file/4864d7fddad4dcb13642a.jpg",
+        "https://telegra.ph/file/df0a6e6fdfd72225f554d.jpg",
+        "https://telegra.ph/file/7ed7ee316dda0023a6cf6.jpg",
+        "https://telegra.ph/file/5e5bf30ca3312327c511b.jpg",
+        "https://telegra.ph/file/0fef9f3e27bb93e55483c.jpg",
+        "https://telegra.ph/file/9b53347fb2842827ff62e.jpg",
+        "https://telegra.ph/file/fc95849ecb884d1a71788.jpg",
+        "https://telegra.ph/file/6c49105a4f88cbc94c70f.jpg",
+        "https://telegra.ph/file/1884e3a3c5d06a13c8135.jpg",
+        "https://telegra.ph/file/6bcb24c7d9e3b127daf99.jpg",
+        "https://telegra.ph/file/eedb73b752eb34e6a064e.jpg",
+        "https://telegra.ph/file/b8654d4e9fd4eb2546290.jpg",
+        "https://telegra.ph/file/cbc3e7243af20bc5d6b2a.jpg",
+        "https://telegra.ph/file/8fc88d1c89d4ce2321fc5.jpg",
+        "https://telegra.ph/file/456848ce8cf5499de3176.jpg",
+        "https://telegra.ph/file/a97d6609a577647fc3a6d.jpg",
+        "https://telegra.ph/file/d31f84130167c48a50fb3.jpg",
+        "https://telegra.ph/file/e35f1a1f095f710ebe87d.jpg",
+        "https://telegra.ph/file/1e18db9e4ed4ddb6e1958.jpg",
+        "https://telegra.ph/file/c922dd7e36148f97f454b.jpg",
+        "https://telegra.ph/file/00aa4c252b815953c07c7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

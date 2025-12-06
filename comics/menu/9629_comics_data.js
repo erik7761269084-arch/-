@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9629,
+    "title": "(C92) [ParadiseGom (ごるごんぞーら)] Xchannel (Aチャンネル)",
+    "sourceUrl": "https://telegra.ph/C92-ParadiseGom-ごるごんぞーら-Xchannel-Aチャンネル-08-31",
+    "images": [
+        "https://telegra.ph/file/8c7889689a88c30d841e8.jpg",
+        "https://telegra.ph/file/0b58db602d3b04d630d10.jpg",
+        "https://telegra.ph/file/d27e85f9a72cf4d0eee87.jpg",
+        "https://telegra.ph/file/3e643d829c203063aad07.jpg",
+        "https://telegra.ph/file/ffad2d7b6cc686528cdaf.jpg",
+        "https://telegra.ph/file/a264a5d3399f5c04984a1.jpg",
+        "https://telegra.ph/file/0fb3904e3a12aff7fc5c5.jpg",
+        "https://telegra.ph/file/dc244d59d31cb790e37f2.jpg",
+        "https://telegra.ph/file/487593d5cccf3f988f3c4.jpg",
+        "https://telegra.ph/file/b5d7be72ae37af23b1df9.jpg",
+        "https://telegra.ph/file/d77619f1bce652efbc3e0.jpg",
+        "https://telegra.ph/file/f6557a71d83a5f128563f.jpg",
+        "https://telegra.ph/file/ad0b4f547ef744f090356.jpg",
+        "https://telegra.ph/file/e7d1f216e6a00772850a0.jpg",
+        "https://telegra.ph/file/fa78856e253b5fec4bdd9.jpg",
+        "https://telegra.ph/file/56048c4b35d90470a179b.jpg",
+        "https://telegra.ph/file/4e9bbfc7d183672c17ec6.jpg",
+        "https://telegra.ph/file/f2eb88aa46f8d0453b70b.jpg",
+        "https://telegra.ph/file/026bdcf0dd0fd53addb21.jpg",
+        "https://telegra.ph/file/9fdaa57a05a782af12cd7.jpg",
+        "https://telegra.ph/file/cd369f92d0c5fc3fb67b2.jpg",
+        "https://telegra.ph/file/b273d9a5b8861aaf453b5.jpg",
+        "https://telegra.ph/file/70738faba66ddc61146c0.jpg",
+        "https://telegra.ph/file/6b9d7768757af7fac3dd2.jpg",
+        "https://telegra.ph/file/9887b807ab08509061117.jpg",
+        "https://telegra.ph/file/2c1adb7ea24b9059375cf.jpg",
+        "https://telegra.ph/file/c899e789d8a675ece002a.jpg",
+        "https://telegra.ph/file/47bd192766255e281453a.jpg",
+        "https://telegra.ph/file/56dedb054ee66179cd86d.jpg",
+        "https://telegra.ph/file/60851e4eb8e0fd87cd74c.jpg",
+        "https://telegra.ph/file/7f1413adf3d1d9531feb8.jpg",
+        "https://telegra.ph/file/8620bdecaab8616775a15.jpg",
+        "https://telegra.ph/file/9fc5f25306be7a2cf8999.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

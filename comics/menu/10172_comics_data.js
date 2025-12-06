@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10172,
+    "title": "(僕らのラブライブ! 27) [Spica (かぜぱな)] 女神様の罰ゲーム (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-27-Spica-かぜぱな-女神様の罰ゲーム-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/664a948d2e6ab2b934903.jpg",
+        "https://telegra.ph/file/3048ba69ff1552ed10caf.jpg",
+        "https://telegra.ph/file/e5521cb0e24023a8a3782.jpg",
+        "https://telegra.ph/file/2b7de0d2903121f7c6ec3.jpg",
+        "https://telegra.ph/file/a7ba80871a6b49a544485.jpg",
+        "https://telegra.ph/file/b118a811ff3e8fa3bedd8.jpg",
+        "https://telegra.ph/file/de057a2584c647fb3f683.jpg",
+        "https://telegra.ph/file/4fd9534de2d5860eaf002.jpg",
+        "https://telegra.ph/file/c03d9c04677099df6c0d0.jpg",
+        "https://telegra.ph/file/1b7dc6a54ec8813bed550.jpg",
+        "https://telegra.ph/file/370d9d39e6e98a50f425b.jpg",
+        "https://telegra.ph/file/ff3ecbacb7ba5eea409b2.jpg",
+        "https://telegra.ph/file/85f062406be6efa672751.jpg",
+        "https://telegra.ph/file/3c3b307187013d43e3e58.jpg",
+        "https://telegra.ph/file/a8f5e40ced9b165eb6905.jpg",
+        "https://telegra.ph/file/b0e466c5c25789618cd69.jpg",
+        "https://telegra.ph/file/d6bcd6fb5ddbced15e7b9.jpg",
+        "https://telegra.ph/file/b30c914c5143d56aab1dd.jpg",
+        "https://telegra.ph/file/6c0d6e7285c5afb05aeba.jpg",
+        "https://telegra.ph/file/51df126e8832d7e4b2e7f.jpg",
+        "https://telegra.ph/file/8925fcd261faba10f0c0e.jpg",
+        "https://telegra.ph/file/2dc2a13ec7ee71c20da7e.jpg",
+        "https://telegra.ph/file/a3775da11192780812784.jpg",
+        "https://telegra.ph/file/e7b44124f6d09c92df72c.jpg",
+        "https://telegra.ph/file/dbe72dfe0bb52a1f05c55.jpg",
+        "https://telegra.ph/file/929aea6692329c183ddc3.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

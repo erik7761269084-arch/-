@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15161,
+    "title": "(コミティア134) [はちしろ (伊藤ハチ)] 近所のやさしいおねえさん5",
+    "sourceUrl": "https://telegra.ph/コミティア134-はちしろ-伊藤ハチ-近所のやさしいおねえさん5-08-31",
+    "images": [
+        "https://telegra.ph/file/90ed0b32d408cf0f43019.jpg",
+        "https://telegra.ph/file/48a00a3fd20e08f9fd3a3.jpg",
+        "https://telegra.ph/file/d63900d49e3cea002d721.jpg",
+        "https://telegra.ph/file/a7229da625fdc80b84cba.jpg",
+        "https://telegra.ph/file/2028b414e9a7233105e88.jpg",
+        "https://telegra.ph/file/eab550159a8615f3c5ca7.jpg",
+        "https://telegra.ph/file/916fd120594680620108e.jpg",
+        "https://telegra.ph/file/c98720322516864a633b5.jpg",
+        "https://telegra.ph/file/de98d55c49796691fe5bb.jpg",
+        "https://telegra.ph/file/def8281e900f2e5316cdf.jpg",
+        "https://telegra.ph/file/d5499f96d968810758311.jpg",
+        "https://telegra.ph/file/2c64439f37090c3f49e4a.jpg",
+        "https://telegra.ph/file/8c8daa8661d437bbc2a7c.jpg",
+        "https://telegra.ph/file/e7564d2edbd080121c38a.jpg",
+        "https://telegra.ph/file/6d90fcce5c0411a8c6afc.jpg",
+        "https://telegra.ph/file/9b468bf5d6cc5fb8eaf5d.jpg",
+        "https://telegra.ph/file/d7912299b8af67c4fb75a.jpg",
+        "https://telegra.ph/file/172e4b67d867c4c2566b0.jpg",
+        "https://telegra.ph/file/f3587be6b970a69e61393.jpg",
+        "https://telegra.ph/file/cc672907e8d7e1751db62.jpg",
+        "https://telegra.ph/file/c16cd4dfafae464df3ed2.jpg",
+        "https://telegra.ph/file/7dc7e5ccb5b5acc22d5a9.jpg",
+        "https://telegra.ph/file/c8d34c1f8f848620461b6.jpg",
+        "https://telegra.ph/file/e1763b3f70750a3de44e9.jpg",
+        "https://telegra.ph/file/715bc088016dc364705d9.jpg",
+        "https://telegra.ph/file/0ca9e78addd6263c1dd7b.jpg",
+        "https://telegra.ph/file/d04a3ea066334d37a5211.jpg",
+        "https://telegra.ph/file/57e275f52782d60e94259.jpg",
+        "https://telegra.ph/file/f82dae8502de7399df82a.jpg",
+        "https://telegra.ph/file/ec5857bb5eb59a13ed7ff.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

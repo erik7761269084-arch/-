@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11595,
+    "title": "[しまじや (しまじ)] 歩音ちゃん 調教日誌 Vol2.5-スク水アナル編-",
+    "sourceUrl": "https://telegra.ph/しまじや-しまじ-歩音ちゃん-調教日誌-Vol25-スク水アナル編-08-31",
+    "images": [
+        "https://telegra.ph/file/e1b689a4138ce8509015b.jpg",
+        "https://telegra.ph/file/f9bfa1ba5f9a9deec500c.jpg",
+        "https://telegra.ph/file/b524881b14642fdece0a8.jpg",
+        "https://telegra.ph/file/fde9a1ed321dda246c895.jpg",
+        "https://telegra.ph/file/6b1fe4783024c0c741715.jpg",
+        "https://telegra.ph/file/67ede90b7893d1977dca0.jpg",
+        "https://telegra.ph/file/242710bef527c45c67e67.jpg",
+        "https://telegra.ph/file/d2ad773f9c5b301b750bf.jpg",
+        "https://telegra.ph/file/b9e5cb2008694048131ea.jpg",
+        "https://telegra.ph/file/d8ab3f64d10dbfbac4fca.jpg",
+        "https://telegra.ph/file/b4136bbf38c42bfe2dfe7.jpg",
+        "https://telegra.ph/file/67c8dafae2b8a1e3bc952.jpg",
+        "https://telegra.ph/file/dd658163553ea2c020874.jpg",
+        "https://telegra.ph/file/153d79e1ccaa0eb93608c.jpg",
+        "https://telegra.ph/file/bf51e945c6c64c1a35892.jpg",
+        "https://telegra.ph/file/3819d48d03e9b272aabb3.jpg",
+        "https://telegra.ph/file/2a0ec215d7e96feeb8775.jpg",
+        "https://telegra.ph/file/373f53edd5078661965a6.jpg",
+        "https://telegra.ph/file/b7e0a9a7e433b2e70dd7b.jpg",
+        "https://telegra.ph/file/3bb1d226bbce0717a15ce.jpg",
+        "https://telegra.ph/file/0fcfbd6cc3f06f990e995.jpg",
+        "https://telegra.ph/file/9e3f01eb835bfcd97abc9.jpg",
+        "https://telegra.ph/file/45781dd85867698a50875.jpg",
+        "https://telegra.ph/file/ef8370bcddb79db7ff88d.jpg",
+        "https://telegra.ph/file/1385b7ade78d84635f9a1.jpg",
+        "https://telegra.ph/file/013ea318d8c30182a9950.jpg",
+        "https://telegra.ph/file/de1b00d1b9f6e543541c0.jpg",
+        "https://telegra.ph/file/1350288823311f28d1acd.jpg",
+        "https://telegra.ph/file/4c6b8709c57e691397e0b.jpg",
+        "https://telegra.ph/file/6f9ece149cdc529ad618e.jpg",
+        "https://telegra.ph/file/16df82831cf203f94da00.jpg",
+        "https://telegra.ph/file/21d29e79ae9e19c70692a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

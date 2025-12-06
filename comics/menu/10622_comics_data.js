@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10622,
+    "title": "(秋葉原同人祭 第二回) [AOKIHOSHI (全紅白子)] メイド長の二輪車コース (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/秋葉原同人祭-第二回-AOKIHOSHI-全紅白子-メイド長の二輪車コース-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/f3c14801de8ccbbca2a5b.jpg",
+        "https://telegra.ph/file/12d01b31b8d60b7c776c3.jpg",
+        "https://telegra.ph/file/d769aac10acbc431abe37.jpg",
+        "https://telegra.ph/file/dce03b02c7abeaec57755.jpg",
+        "https://telegra.ph/file/6bbb399e42f1d8f5ed0ae.jpg",
+        "https://telegra.ph/file/17a2d6a857e6707ad2279.jpg",
+        "https://telegra.ph/file/d7a0a9a00f0c078c9ed78.jpg",
+        "https://telegra.ph/file/4e947f8a1cf5a47d3992b.jpg",
+        "https://telegra.ph/file/5894df0375c621d99e78c.jpg",
+        "https://telegra.ph/file/34ca6b2ecb04f71f48f12.jpg",
+        "https://telegra.ph/file/e9d8f7b785b2fecb7bfe0.jpg",
+        "https://telegra.ph/file/b1ce33130e4712173549f.jpg",
+        "https://telegra.ph/file/8a5e4696bc18926f15c7d.jpg",
+        "https://telegra.ph/file/37c35c06a60951fc3de3a.jpg",
+        "https://telegra.ph/file/461372668cb7f28bb4039.jpg",
+        "https://telegra.ph/file/55d3f6a0ce26f10b7116c.jpg",
+        "https://telegra.ph/file/184902cc418c85de665b8.jpg",
+        "https://telegra.ph/file/03685fda11f43f8941d20.jpg",
+        "https://telegra.ph/file/800ddb9550720d34b5248.jpg",
+        "https://telegra.ph/file/0824cd8a5c62efb14e190.jpg",
+        "https://telegra.ph/file/0f58b1a243a0fabe52b22.jpg",
+        "https://telegra.ph/file/6705617787020ebefec57.jpg",
+        "https://telegra.ph/file/b454128e1e46594438b62.jpg",
+        "https://telegra.ph/file/ba589904213115234fc3a.jpg",
+        "https://telegra.ph/file/3b609a2dc5cf79b688fbe.jpg",
+        "https://telegra.ph/file/8dd11eb33ff4bc1859635.jpg",
+        "https://telegra.ph/file/c3667fb6960ea8d6b11f4.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

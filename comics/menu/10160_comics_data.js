@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10160,
+    "title": "[八足跳び (邑仲広)] 催眠術でデブ男にメチャクチャにされる本",
+    "sourceUrl": "https://telegra.ph/八足跳び-邑仲広-催眠術でデブ男にメチャクチャにされる本-08-31",
+    "images": [
+        "https://telegra.ph/file/71e215ab0b9be1c87e963.jpg",
+        "https://telegra.ph/file/010d72bf7453506a9b6df.jpg",
+        "https://telegra.ph/file/ab0d1bb733d7a9a18a364.jpg",
+        "https://telegra.ph/file/a2d1a22600e7291fe3e62.jpg",
+        "https://telegra.ph/file/5257527b5073836aa9c40.jpg",
+        "https://telegra.ph/file/6ef0751b3ec184c55def4.jpg",
+        "https://telegra.ph/file/ecc77f9e30471933a4846.jpg",
+        "https://telegra.ph/file/285d82349c0ecc994c2da.jpg",
+        "https://telegra.ph/file/ed15506a69ab96c439736.jpg",
+        "https://telegra.ph/file/8b31d91b9fb979e34041d.jpg",
+        "https://telegra.ph/file/7a7ce5832098e7875bb46.jpg",
+        "https://telegra.ph/file/7bc568debba78d1d055a8.jpg",
+        "https://telegra.ph/file/571c159e6b38ab169a975.jpg",
+        "https://telegra.ph/file/3d65d66bcc1b6a65a1908.jpg",
+        "https://telegra.ph/file/37c47eeb83382c4551597.jpg",
+        "https://telegra.ph/file/45fa0519e578b2fb0df1c.jpg",
+        "https://telegra.ph/file/c1d3fb3d50bca79e69372.jpg",
+        "https://telegra.ph/file/b816bc4f6edb0298dc1c6.jpg",
+        "https://telegra.ph/file/08e639a2a794548a1fefb.jpg",
+        "https://telegra.ph/file/71a1dda7b1cf49ff3f42c.jpg",
+        "https://telegra.ph/file/6e25ace9da5b5a9b8a5e2.jpg",
+        "https://telegra.ph/file/373bd46b7ce758eb73be9.jpg",
+        "https://telegra.ph/file/f8816806951888336ca6d.jpg",
+        "https://telegra.ph/file/6342982b0bfc08eec15fb.jpg",
+        "https://telegra.ph/file/4ef556a59a22fdaa16ea7.jpg",
+        "https://telegra.ph/file/2f143617c655af4ad48b5.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

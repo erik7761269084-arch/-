@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15529,
+    "title": "(もう何も恐くない19) [マクロノーム (のび)] オーバーライン (魔法少女まどか☆マギカ)[中国语]-Preview",
+    "sourceUrl": "https://telegra.ph/もう何も恐くない19-マクロノーム-のび-オーバーライン-魔法少女まどかマギカ中国语-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/aaedb22ce32aa677c5f17.jpg",
+        "https://telegra.ph/file/edf121da52a47c3fe9a4a.jpg",
+        "https://telegra.ph/file/404206a2ac90828594391.jpg",
+        "https://telegra.ph/file/929562a5e6a0c482a0d36.jpg",
+        "https://telegra.ph/file/286575ead94da05b4a450.jpg",
+        "https://telegra.ph/file/2fd7720950173a4439678.jpg",
+        "https://telegra.ph/file/0a523ed25d6509992d339.jpg",
+        "https://telegra.ph/file/f80152cbf4ac4ad4ec908.jpg",
+        "https://telegra.ph/file/662e24dbaaafcadb4a3bb.jpg",
+        "https://telegra.ph/file/a9d681fc56632d2387464.jpg",
+        "https://telegra.ph/file/1cc9bfeec55fac032bad6.jpg",
+        "https://telegra.ph/file/d6083f6c19657dd765059.jpg",
+        "https://telegra.ph/file/eda32cd1650c03759a6a6.jpg",
+        "https://telegra.ph/file/3d22395a1e26dab30d807.jpg",
+        "https://telegra.ph/file/f3fe0241757610036bec6.jpg",
+        "https://telegra.ph/file/91c52bca7a8ff8502995a.jpg",
+        "https://telegra.ph/file/b964727f41b0fb30fde7d.jpg",
+        "https://telegra.ph/file/aab577548a528749d3335.jpg",
+        "https://telegra.ph/file/876ee1ad5991494e83af8.jpg",
+        "https://telegra.ph/file/2904167935ef61d749a95.jpg",
+        "https://telegra.ph/file/56ad337ec946e6b85debd.jpg",
+        "https://telegra.ph/file/2f77a0dffb6081c767088.jpg",
+        "https://telegra.ph/file/19c90b916078e43fc7bf6.jpg",
+        "https://telegra.ph/file/7e41f1b3a471058803c64.jpg",
+        "https://telegra.ph/file/f57b8ea14f394682a9bf6.jpg",
+        "https://telegra.ph/file/4600065c732d2a8221fdc.jpg",
+        "https://telegra.ph/file/9d3f0b8b3fd500461f895.jpg",
+        "https://telegra.ph/file/ee25e0b6fcd7dfd0bfaf4.jpg",
+        "https://telegra.ph/file/d9a6265f0720a61e66ad7.jpg",
+        "https://telegra.ph/file/cf4f57cb8e717aa417887.jpg",
+        "https://telegra.ph/file/d240cdedb3c9780434597.jpg",
+        "https://telegra.ph/file/1a55cee11227e5412416f.jpg",
+        "https://telegra.ph/file/9f655f5adc530d5a4fd77.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

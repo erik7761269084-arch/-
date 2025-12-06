@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13944,
+    "title": "[こちょこちょ高校 (梵典)] NTR-EX3 彼には言えない雌堕ちライフ",
+    "sourceUrl": "https://telegra.ph/こちょこちょ高校-梵典-NTR-EX3-彼には言えない雌堕ちライフ-08-31",
+    "images": [
+        "https://telegra.ph/file/a75e0dcb911cb12881fd5.jpg",
+        "https://telegra.ph/file/0b0ca4e3d14c9b859fbfb.jpg",
+        "https://telegra.ph/file/797d517b956f1e02cb4a0.jpg",
+        "https://telegra.ph/file/67cf16bed3cd9d22ba3d4.jpg",
+        "https://telegra.ph/file/34d3fe2a27d4d676f15b1.jpg",
+        "https://telegra.ph/file/2a7e568fa84a8a6c1e3fc.jpg",
+        "https://telegra.ph/file/7b9615e27ba4464124c5e.jpg",
+        "https://telegra.ph/file/c44922a751b6d7821e7c2.jpg",
+        "https://telegra.ph/file/0d6e76fcaad2831aecc58.jpg",
+        "https://telegra.ph/file/8ca759a11b206e03d6c9d.jpg",
+        "https://telegra.ph/file/2d0fa6d0943457abdb7f2.jpg",
+        "https://telegra.ph/file/41b0cafe9c0fb06058390.jpg",
+        "https://telegra.ph/file/21ade08f50cb8dc66f39e.jpg",
+        "https://telegra.ph/file/c06b06eeeeda550d5c838.jpg",
+        "https://telegra.ph/file/efa9eaa9ecb40cf25eaf4.jpg",
+        "https://telegra.ph/file/7a38f254e735677c7e400.jpg",
+        "https://telegra.ph/file/9312ebbadf7a373e79b2d.jpg",
+        "https://telegra.ph/file/594b0fd6bb8cfd0a13ae9.jpg",
+        "https://telegra.ph/file/de88128f394b4370dc282.jpg",
+        "https://telegra.ph/file/a84680edeaf9f1e165f5b.jpg",
+        "https://telegra.ph/file/5c973fbd00b5737dce849.jpg",
+        "https://telegra.ph/file/593c788d7ecc455dd33ad.jpg",
+        "https://telegra.ph/file/d53afe4ce6fc4265a8fb8.jpg",
+        "https://telegra.ph/file/dd8ca6ee6ecd1bab23410.jpg",
+        "https://telegra.ph/file/81435808a18cc6f25f0b2.jpg",
+        "https://telegra.ph/file/1b5f01b1eb33785892b3f.jpg",
+        "https://telegra.ph/file/73e6fa8a7f88273ee4f19.jpg",
+        "https://telegra.ph/file/2e33baa170dca1daba2d3.jpg",
+        "https://telegra.ph/file/90873d29d69e1aaf5bddf.jpg",
+        "https://telegra.ph/file/ec2a26e93f792ac8d9da5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

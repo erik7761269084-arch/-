@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8907,
+    "title": "(C97) [Turning Point (うえひろ)] マシュと特別とれーにんぐ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-Turning-Point-うえひろ-マシュと特別とれーにんぐ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/aca8de9751a12b8bbfa96.jpg",
+        "https://telegra.ph/file/be6380d8b03b0740e5bcd.jpg",
+        "https://telegra.ph/file/591d040553c7f9d5e313a.jpg",
+        "https://telegra.ph/file/b733d0fc2c4d5241fa232.jpg",
+        "https://telegra.ph/file/9ea77ec2bd36b788de026.jpg",
+        "https://telegra.ph/file/cd5eba73a260268e4f464.jpg",
+        "https://telegra.ph/file/9f2a56e53a89ebd11b830.jpg",
+        "https://telegra.ph/file/c62fc49082a80058b50a8.jpg",
+        "https://telegra.ph/file/eea520c3a141eaa96933d.jpg",
+        "https://telegra.ph/file/78dfd6cee08f46e89a7d9.jpg",
+        "https://telegra.ph/file/8facbbc552c8055318137.jpg",
+        "https://telegra.ph/file/d07278c8492feb1cba31d.jpg",
+        "https://telegra.ph/file/436ac4f54b9258709f512.jpg",
+        "https://telegra.ph/file/1962bfcc8d4c73e7cfac7.jpg",
+        "https://telegra.ph/file/0b57eab744c00d613a431.jpg",
+        "https://telegra.ph/file/64f8c343b37dcd7313641.jpg",
+        "https://telegra.ph/file/5e69ece1b99c840b06e31.jpg",
+        "https://telegra.ph/file/747422628aa76e7814fdd.jpg",
+        "https://telegra.ph/file/c144cd7defcf561c595fb.jpg",
+        "https://telegra.ph/file/1ce473f6a59ee02f68291.jpg",
+        "https://telegra.ph/file/c448559f2e845060ec539.jpg",
+        "https://telegra.ph/file/b1ebf8edb7f92f84baf6f.jpg",
+        "https://telegra.ph/file/aacb005537985955dd97b.jpg",
+        "https://telegra.ph/file/e6b60131d4363f73410ee.jpg",
+        "https://telegra.ph/file/10e44e93620576cc9ec25.jpg",
+        "https://telegra.ph/file/d1bb0fbf440152c1337b9.jpg",
+        "https://telegra.ph/file/4f0c18fe769cfab477def.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

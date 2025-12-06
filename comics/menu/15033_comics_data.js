@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15033,
+    "title": "(僕らのラブライブ! 24) [玄米茶 (モグ)] In The Dark (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-24-玄米茶-モグ-In-The-Dark-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/fd04b050f43cd1c01c200.jpg",
+        "https://telegra.ph/file/67881b24ef41cbeef9aae.jpg",
+        "https://telegra.ph/file/7ee72d30feb9d7ad45b79.jpg",
+        "https://telegra.ph/file/0719b1e4720965764b351.jpg",
+        "https://telegra.ph/file/ca83a551d9295314d40a1.jpg",
+        "https://telegra.ph/file/385bde36620b8e2e7ebb8.jpg",
+        "https://telegra.ph/file/a684cb10622fc8913f14e.jpg",
+        "https://telegra.ph/file/273cae21a48153df1b343.jpg",
+        "https://telegra.ph/file/4fb0715f50f57d172006f.jpg",
+        "https://telegra.ph/file/0812529c8919337fe1125.jpg",
+        "https://telegra.ph/file/2330797fa796199b7baad.jpg",
+        "https://telegra.ph/file/9305d59af77f80be74729.jpg",
+        "https://telegra.ph/file/06d2ae290806643c42ec0.jpg",
+        "https://telegra.ph/file/41f557b549b96955e1ff5.jpg",
+        "https://telegra.ph/file/1c074c344e82799cf0da3.jpg",
+        "https://telegra.ph/file/ddc7e76efec4133d313a8.jpg",
+        "https://telegra.ph/file/ba7d76f3011625d1f4ceb.jpg",
+        "https://telegra.ph/file/1b39e4c2c261a15db0ac3.jpg",
+        "https://telegra.ph/file/4b48088fa4dc96a0e5a33.jpg",
+        "https://telegra.ph/file/bf2706efc900e79795f4d.jpg",
+        "https://telegra.ph/file/1f775620428b9563b5095.jpg",
+        "https://telegra.ph/file/b26cbbb582ad37159e67c.jpg",
+        "https://telegra.ph/file/8b13324fea1b22163acf5.jpg",
+        "https://telegra.ph/file/25b0cf2ddb28d7bbcbcb1.jpg",
+        "https://telegra.ph/file/257d78d6970aa876cc3ff.jpg",
+        "https://telegra.ph/file/2b617cf03e48feeb8e757.jpg",
+        "https://telegra.ph/file/ae1dba444e21e6c42f8bb.jpg",
+        "https://telegra.ph/file/e3fc1dd6119f6f14a847f.jpg",
+        "https://telegra.ph/file/4ccdd14621eb7a6a05e5f.jpg",
+        "https://telegra.ph/file/6a3bcae09e13978dd4e15.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

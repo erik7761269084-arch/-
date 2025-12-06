@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14161,
+    "title": "[ぎんハハ] クモ戯画 - Spider of Caricature (蜘蛛ですが、なにか?)",
+    "sourceUrl": "https://telegra.ph/ぎんハハ-クモ戯画---Spider-of-Caricature-蜘蛛ですがなにか-08-31",
+    "images": [
+        "https://telegra.ph/file/7741e1b105bd938c7bd2c.jpg",
+        "https://telegra.ph/file/bb4006431691ef3ce85bb.jpg",
+        "https://telegra.ph/file/b0ec8338e295d3e042ad5.jpg",
+        "https://telegra.ph/file/0223e4892dd936e4afdaf.jpg",
+        "https://telegra.ph/file/5385f926b79e63975df82.jpg",
+        "https://telegra.ph/file/e9730d30572bb29701fb0.jpg",
+        "https://telegra.ph/file/c3fe4c64602b0f644bfb8.jpg",
+        "https://telegra.ph/file/53073cb0db677545fa118.jpg",
+        "https://telegra.ph/file/b06ab260f26ae65b3bb32.jpg",
+        "https://telegra.ph/file/39933e01e504720a724fe.jpg",
+        "https://telegra.ph/file/2e4fb794a8c64de7f7da5.jpg",
+        "https://telegra.ph/file/21568334bf76638708e95.jpg",
+        "https://telegra.ph/file/26d069ce800050f656643.jpg",
+        "https://telegra.ph/file/844c7320a14b8c9944354.jpg",
+        "https://telegra.ph/file/bd76519b8fff91851f312.jpg",
+        "https://telegra.ph/file/71415753c9c668d7cd59c.jpg",
+        "https://telegra.ph/file/662b766a122ebd571d87d.jpg",
+        "https://telegra.ph/file/952fe45c03d4ec8b85c20.jpg",
+        "https://telegra.ph/file/89999912acbcd55ff2c6e.jpg",
+        "https://telegra.ph/file/84041bfa2c678d530a01d.jpg",
+        "https://telegra.ph/file/0ac9662a2dcee460cbc9c.jpg",
+        "https://telegra.ph/file/dcb132edf236efe7f7427.jpg",
+        "https://telegra.ph/file/9f2f84cf7e728eaecfc04.jpg",
+        "https://telegra.ph/file/a864b46dd2d9e5071a03e.jpg",
+        "https://telegra.ph/file/bc443342feba012d8eb71.jpg",
+        "https://telegra.ph/file/29149583529991807dcd2.jpg",
+        "https://telegra.ph/file/3bf2171a1c8a6e3371a0a.jpg",
+        "https://telegra.ph/file/a8ec1cb0e198cd96ab74a.jpg",
+        "https://telegra.ph/file/06bd386316012e2589d4b.jpg",
+        "https://telegra.ph/file/3175908aaf881158fb4ef.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

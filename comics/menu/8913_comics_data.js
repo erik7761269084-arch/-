@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8913,
+    "title": "[はいぱーどろっぷきっく]  せっかく異世界転生したのに死霊術師だったからエロエロキョンシー造ってお世話係にしたった  中文翻譯",
+    "sourceUrl": "https://telegra.ph/はいぱーどろっぷきっく-せっかく異世界転生したのに死霊術師だったからエロエロキョンシー造ってお世話係にしたった-中文翻譯-08-31",
+    "images": [
+        "https://telegra.ph/file/ef04ddc48bd501c053643.jpg",
+        "https://telegra.ph/file/34a49d989f6c5fda063a3.jpg",
+        "https://telegra.ph/file/64529d75fbfa8fae5cd6c.jpg",
+        "https://telegra.ph/file/5c9b3ca671fcc528aac97.jpg",
+        "https://telegra.ph/file/fe5440a52a20d71db2dad.jpg",
+        "https://telegra.ph/file/29e504620fceceddb4840.jpg",
+        "https://telegra.ph/file/4d68a99e3de0f4c7dd2ea.jpg",
+        "https://telegra.ph/file/64ce17cf77781aff44e65.jpg",
+        "https://telegra.ph/file/7e4c0364be837aa0995f4.jpg",
+        "https://telegra.ph/file/941041ca722594555ebec.jpg",
+        "https://telegra.ph/file/4765d6fc8dc92587dbe2d.jpg",
+        "https://telegra.ph/file/02387d14586990a3e24a4.jpg",
+        "https://telegra.ph/file/0160afc601ed0e4377cbb.jpg",
+        "https://telegra.ph/file/60133ef633796ceb5d00a.jpg",
+        "https://telegra.ph/file/9307d905238f7bf709e4b.jpg",
+        "https://telegra.ph/file/27cb74d86497594e29279.jpg",
+        "https://telegra.ph/file/5b67183c5865402a7bdd3.jpg",
+        "https://telegra.ph/file/3ac41b96043127e760932.jpg",
+        "https://telegra.ph/file/c7b8982d6e9fb327b559d.jpg",
+        "https://telegra.ph/file/6d3aa642602f4197c149f.jpg",
+        "https://telegra.ph/file/bc243dfce1cf7eb58a98a.jpg",
+        "https://telegra.ph/file/74b13714ece4f99dc3464.jpg",
+        "https://telegra.ph/file/f1770a225c4e79046d14b.jpg",
+        "https://telegra.ph/file/ca8736851c8004ba39043.jpg",
+        "https://telegra.ph/file/cd50002e79dfd9ef9b13b.jpg",
+        "https://telegra.ph/file/95217ec0a530284c46ae5.jpg",
+        "https://telegra.ph/file/e5815a705b08c5ceebb5d.jpg",
+        "https://telegra.ph/file/9b35b6721e3e7e78c30da.jpg",
+        "https://telegra.ph/file/6b9760b14ee924fa40a8f.jpg",
+        "https://telegra.ph/file/8f28c720b0e03495bcb17.jpg",
+        "https://telegra.ph/file/8f622f858530a66a658c5.jpg",
+        "https://telegra.ph/file/4188ca28591337f0d06f8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

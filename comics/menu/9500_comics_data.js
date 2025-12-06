@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9500,
+    "title": "(サンクリ2019 Autumn) [カドルーム (pacchu)] ニトクリスは癒されたい (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/サンクリ2019-Autumn-カドルーム-pacchu-ニトクリスは癒されたい-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/4e7ea134656f128a6fcfd.jpg",
+        "https://telegra.ph/file/e80c4bb949787557f9a1c.jpg",
+        "https://telegra.ph/file/ea2205e194cf968be60f1.jpg",
+        "https://telegra.ph/file/4e78d892f60ec70f23181.jpg",
+        "https://telegra.ph/file/50110ed8eea09ffae78cd.jpg",
+        "https://telegra.ph/file/9ce8222a0e61f1047c18d.jpg",
+        "https://telegra.ph/file/9d79252d8553dfd86e28f.jpg",
+        "https://telegra.ph/file/dcf2a5e907f1df8975195.jpg",
+        "https://telegra.ph/file/34244e933f6fd6a933c9a.jpg",
+        "https://telegra.ph/file/8fd55c7a21039caf1a38f.jpg",
+        "https://telegra.ph/file/879b0dac67c750633b2c4.jpg",
+        "https://telegra.ph/file/e290323664d0b81cf323b.jpg",
+        "https://telegra.ph/file/5341184f5564dde7e595d.jpg",
+        "https://telegra.ph/file/e9f2cd752a424bca993cf.jpg",
+        "https://telegra.ph/file/aae404d335015b1715477.jpg",
+        "https://telegra.ph/file/769d2b29698cbfdf689d9.jpg",
+        "https://telegra.ph/file/358624fa722fe2df035bf.jpg",
+        "https://telegra.ph/file/4faeeb62440c01493d7f3.jpg",
+        "https://telegra.ph/file/3ab9e6ab9f491618352d3.jpg",
+        "https://telegra.ph/file/e2a66365486e6bb83a2b9.jpg",
+        "https://telegra.ph/file/1f9817137d719c0c4ff20.jpg",
+        "https://telegra.ph/file/0ae760c946a4cbfa46a4d.jpg",
+        "https://telegra.ph/file/3e7224829b231a1589679.jpg",
+        "https://telegra.ph/file/307e30dffca8baa15f0d0.jpg",
+        "https://telegra.ph/file/1f36e347cf025b248ccfc.jpg",
+        "https://telegra.ph/file/86bf92afaaed4fbe05bee.jpg",
+        "https://telegra.ph/file/632b29299301f58bf813b.jpg",
+        "https://telegra.ph/file/6ecdb811ef3d323e68bfd.jpg",
+        "https://telegra.ph/file/e5912926f46ce6d4e73aa.jpg",
+        "https://telegra.ph/file/eaf50bc5a1188dcfc7c31.jpg",
+        "https://telegra.ph/file/5abd3a90f9d7d4ff8a0b5.jpg",
+        "https://telegra.ph/file/0e30f948fe424d196e614.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

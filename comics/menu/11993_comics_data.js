@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11993,
+    "title": "[一弘] 泥酔アナルは姉の味 (コミックホットミルク 2021年1月号)",
+    "sourceUrl": "https://telegra.ph/一弘-泥酔アナルは姉の味-コミックホットミルク-2021年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a9a2bdcfa475bdf3c9097.jpg",
+        "https://telegra.ph/file/23f14cfbe3ae867053f73.jpg",
+        "https://telegra.ph/file/2b5031392dfa1f8ebbb12.jpg",
+        "https://telegra.ph/file/6572e93efc153fdf33477.jpg",
+        "https://telegra.ph/file/ea718602eb12e410d282f.jpg",
+        "https://telegra.ph/file/e27628119bdd12a3ed866.jpg",
+        "https://telegra.ph/file/7c5a82b31756aaa8c6464.jpg",
+        "https://telegra.ph/file/8fc5b4bc2a65f431c5dc5.jpg",
+        "https://telegra.ph/file/f30c30b92eec4261cf0fd.jpg",
+        "https://telegra.ph/file/0153b9ab46243f1c59791.jpg",
+        "https://telegra.ph/file/4e2e2567e11ec792208da.jpg",
+        "https://telegra.ph/file/d5032a99e46936dbbea21.jpg",
+        "https://telegra.ph/file/8a95f4408354c97fb840d.jpg",
+        "https://telegra.ph/file/e11927323167dced7ec48.jpg",
+        "https://telegra.ph/file/750c640b7dfb293847ccd.jpg",
+        "https://telegra.ph/file/63c8fbcf53182c75d1d21.jpg",
+        "https://telegra.ph/file/7478a34407ecda712502a.jpg",
+        "https://telegra.ph/file/25d375c0a3c3acd8df381.jpg",
+        "https://telegra.ph/file/5279386b9c51fc241e445.jpg",
+        "https://telegra.ph/file/c29085a62fec95189ee4b.jpg",
+        "https://telegra.ph/file/295856d628f266e341a69.jpg",
+        "https://telegra.ph/file/a5c239afca94482a4b993.jpg",
+        "https://telegra.ph/file/d298bf6a53e50ca03916b.jpg",
+        "https://telegra.ph/file/5ef5a4c5b54de73b7e6ea.jpg",
+        "https://telegra.ph/file/0e6d9bd3985e3f8041296.jpg",
+        "https://telegra.ph/file/90dc2f4c87487d7316a74.jpg",
+        "https://telegra.ph/file/77f929d2711dfd44a7c7f.jpg",
+        "https://telegra.ph/file/8b3a81aebd38812c4f806.jpg",
+        "https://telegra.ph/file/81b5a8d365f0e49a303f9.jpg",
+        "https://telegra.ph/file/8f14c06b405142ae8af65.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

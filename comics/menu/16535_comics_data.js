@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16535,
+    "title": "(結束ロック!10) [帰宅時間 (きたく)] めぐりあい東京～レズ風俗へ行く。～ （ぼっち・ざ・ろっく!) -Preview",
+    "sourceUrl": "https://telegra.ph/結束ロック10-帰宅時間-きたく-めぐりあい東京レズ風俗へ行く-ぼっちざろっく--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/0.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/2.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/3.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/4.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/5.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/6.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/7.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/8.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/9.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/10.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/11.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/12.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/13.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/14.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/15.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/16.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/17.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/18.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/19.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/20.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/21.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/22.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/23.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/24.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/25.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/26.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/27.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/28.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/29.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/30.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/_.webp",
+        "https://i2.linghua.xyz/ex/3311852/00be7088b6/316.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

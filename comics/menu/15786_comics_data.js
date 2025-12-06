@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15786,
+    "title": "[西宿舍洗衣間 (Tonton)]還一陣一陣的 -Preview",
+    "sourceUrl": "https://telegra.ph/西宿舍洗衣間-Tonton還一陣一陣的--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/f19df37bd88db76fb24fd.jpg",
+        "https://telegra.ph/file/0f1e29fa3b27148815d2d.jpg",
+        "https://telegra.ph/file/296ebb0d5bf4947783c44.jpg",
+        "https://telegra.ph/file/79c135c930fc3e35496fb.jpg",
+        "https://telegra.ph/file/42b18e62b1a6b9ee38c04.jpg",
+        "https://telegra.ph/file/a9e9965e06f950fde1a5b.jpg",
+        "https://telegra.ph/file/be85759ae7e607901a1a8.jpg",
+        "https://telegra.ph/file/7884eba0910a7e18b25e0.jpg",
+        "https://telegra.ph/file/64e1e532dcf36c7b952fa.jpg",
+        "https://telegra.ph/file/34a4dbdea9e6ea0b7a51b.jpg",
+        "https://telegra.ph/file/2465b4142e6fe9fbb6e00.jpg",
+        "https://telegra.ph/file/34c3deb5ea1a4538a2f64.jpg",
+        "https://telegra.ph/file/45273bf60bb27aef53cd1.jpg",
+        "https://telegra.ph/file/cce03464622e7ee211a20.jpg",
+        "https://telegra.ph/file/2ba6a15a1470f477f459f.jpg",
+        "https://telegra.ph/file/a437cb68fa728ab32abd7.jpg",
+        "https://telegra.ph/file/82a8c430eef391517ab86.jpg",
+        "https://telegra.ph/file/e51c47927c6d55d5ba045.jpg",
+        "https://telegra.ph/file/eda5ff1026ca7c756bd00.jpg",
+        "https://telegra.ph/file/db3b66d5dab50704a5d8f.jpg",
+        "https://telegra.ph/file/3c816afcef6b752242705.jpg",
+        "https://telegra.ph/file/b967dc4c588af4c31eacf.jpg",
+        "https://telegra.ph/file/ae2a5684ef3daf7da4e05.jpg",
+        "https://telegra.ph/file/415d12d5755a7f681b32f.jpg",
+        "https://telegra.ph/file/61af543c7f79c9f1e524c.jpg",
+        "https://telegra.ph/file/2873a10e09f8216e00ad2.jpg",
+        "https://telegra.ph/file/a2a6f8dbd572aac7a26c9.jpg",
+        "https://telegra.ph/file/faa1ed5f0710e53910f51.jpg",
+        "https://telegra.ph/file/fd608b8720cb8f797e757.jpg",
+        "https://telegra.ph/file/a9b65a043cc110d3bb2b3.jpg",
+        "https://telegra.ph/file/a291a85b2988087cc5bc5.jpg",
+        "https://telegra.ph/file/17f8ebd08a105a75823bc.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

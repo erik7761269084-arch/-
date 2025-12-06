@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11592,
+    "title": "(C96) [量産型ポニテ (たかのつめ)] ホノルルと過ごすハネムーン三日間 (アズールレーン)",
+    "sourceUrl": "https://telegra.ph/C96-量産型ポニテ-たかのつめ-ホノルルと過ごすハネムーン三日間-アズールレーン-08-31",
+    "images": [
+        "https://telegra.ph/file/9242db715c1be4a6735cd.jpg",
+        "https://telegra.ph/file/2cc47559510fea34b9f79.jpg",
+        "https://telegra.ph/file/3d69dd25dc60cecca8845.jpg",
+        "https://telegra.ph/file/bfc5ebea487cc705e33f8.jpg",
+        "https://telegra.ph/file/8b1134578ab62991939ba.jpg",
+        "https://telegra.ph/file/1368609d4fc6d3b76ed2c.jpg",
+        "https://telegra.ph/file/8fa09e0bd1dbb3ae2c481.jpg",
+        "https://telegra.ph/file/58abd52f776dfc362ff05.jpg",
+        "https://telegra.ph/file/b6d147baadc24a9e178e1.jpg",
+        "https://telegra.ph/file/08d276048ddd42789d106.jpg",
+        "https://telegra.ph/file/08bc930d8c911d4cc4019.jpg",
+        "https://telegra.ph/file/14f48420c90dc54108b1e.jpg",
+        "https://telegra.ph/file/41e3d3db4fe0c1ed7acc6.jpg",
+        "https://telegra.ph/file/9ab19ffe88e1b1188f3ef.jpg",
+        "https://telegra.ph/file/cd677ae4aa39e004923d1.jpg",
+        "https://telegra.ph/file/ed8f66048be8053a10b67.jpg",
+        "https://telegra.ph/file/60a20f6d23301767dc0cf.jpg",
+        "https://telegra.ph/file/2584895c64445d3388499.jpg",
+        "https://telegra.ph/file/75c4c958bf50408916215.jpg",
+        "https://telegra.ph/file/f206e9ffaf19cca5725e4.jpg",
+        "https://telegra.ph/file/a0b2c186453b59ceb757a.jpg",
+        "https://telegra.ph/file/2789e5f19c4b4810baf53.jpg",
+        "https://telegra.ph/file/b608a761272107f97cab2.jpg",
+        "https://telegra.ph/file/e29f1005822fa5a083133.jpg",
+        "https://telegra.ph/file/43b7b270be66436202cb4.jpg",
+        "https://telegra.ph/file/f7a01b288af033326a863.jpg",
+        "https://telegra.ph/file/d238fee627984154b108b.jpg",
+        "https://telegra.ph/file/1d14fd78d2f61b7fb416b.jpg",
+        "https://telegra.ph/file/089ed74ea43d63b2cc477.jpg",
+        "https://telegra.ph/file/2b68566a45c8ef53ea7c5.jpg",
+        "https://telegra.ph/file/cdff37aff64a8b86bd002.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

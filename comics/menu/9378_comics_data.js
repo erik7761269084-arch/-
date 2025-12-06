@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9378,
+    "title": "[テラスMC] 本命がいるけどまだ俺ともHしてくれるマシュに催眠アプリで『本当のこと』を聞くNTRプレイ (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/テラスMC-本命がいるけどまだ俺ともHしてくれるマシュに催眠アプリで本当のことを聞くNTRプレイ-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/8979687683e0a8cca30e3.jpg",
+        "https://telegra.ph/file/f3e4231b9c57c4b703a0a.jpg",
+        "https://telegra.ph/file/27f472e41cdaf73a41ff9.jpg",
+        "https://telegra.ph/file/58c65f99e622096b9af8e.jpg",
+        "https://telegra.ph/file/dc290a6be25ef7b4026f8.jpg",
+        "https://telegra.ph/file/6f07fd9d43dc97c17fa08.jpg",
+        "https://telegra.ph/file/da97f5531d19a1f8944cc.jpg",
+        "https://telegra.ph/file/8f3fcc2778987b1ae37ea.jpg",
+        "https://telegra.ph/file/c9caf54e9acc9b1f996fd.jpg",
+        "https://telegra.ph/file/463cb0b6534958aaf2337.jpg",
+        "https://telegra.ph/file/5c0e055125fd3ae9bb234.jpg",
+        "https://telegra.ph/file/2416afa7d72d7b486d548.jpg",
+        "https://telegra.ph/file/63f7b37ee229d9803dda3.jpg",
+        "https://telegra.ph/file/4e613e62b83839022d302.jpg",
+        "https://telegra.ph/file/cf12f543f99516e602ea8.jpg",
+        "https://telegra.ph/file/9b137334c7f28a6f4e80d.jpg",
+        "https://telegra.ph/file/0c9ec093b61cdb16c41c1.jpg",
+        "https://telegra.ph/file/e7ef3e428561c465856fb.jpg",
+        "https://telegra.ph/file/29a8772a4c486018248d5.jpg",
+        "https://telegra.ph/file/6d1709ebcac7bed905fa4.jpg",
+        "https://telegra.ph/file/7b517aebc0ea4efbf23e8.jpg",
+        "https://telegra.ph/file/4e749110b6d1d74d106f3.jpg",
+        "https://telegra.ph/file/ed6b5fb18414c293ea7d3.jpg",
+        "https://telegra.ph/file/44de42827fbca4ba416a5.jpg",
+        "https://telegra.ph/file/815b2a6748cb99d2fab0f.jpg",
+        "https://telegra.ph/file/411f7cb1fdb9f0b074158.jpg",
+        "https://telegra.ph/file/58d0d803cb037182c0dd6.jpg",
+        "https://telegra.ph/file/fbadc6a98044dfb6f5a91.jpg",
+        "https://telegra.ph/file/b6ed7732fef545aeb7bbc.jpg",
+        "https://telegra.ph/file/3bb19dae8f88b6efa115e.jpg",
+        "https://telegra.ph/file/83640b0cabe20931163e3.jpg",
+        "https://telegra.ph/file/6267fc9d7174bd25104e3.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

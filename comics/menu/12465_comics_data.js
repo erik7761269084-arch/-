@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12465,
+    "title": "[宮部キウイ] シークレット (コミックホットミルク 2020年9月号)",
+    "sourceUrl": "https://telegra.ph/宮部キウイ-シークレット-コミックホットミルク-2020年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/7d1aacd582c1bfda97399.jpg",
+        "https://telegra.ph/file/55df80ea69d3d411061c7.jpg",
+        "https://telegra.ph/file/2c3d553b9e712516ade2c.jpg",
+        "https://telegra.ph/file/03bd626639e2a55a3a5f0.jpg",
+        "https://telegra.ph/file/1ce11a1724afee85a62d5.jpg",
+        "https://telegra.ph/file/6e569750f60d4b10fbde5.jpg",
+        "https://telegra.ph/file/759364ad6c720ab3bed54.jpg",
+        "https://telegra.ph/file/1ce014567e96f4c21e1d5.jpg",
+        "https://telegra.ph/file/2ce0f5ee0e773204bf03f.jpg",
+        "https://telegra.ph/file/fdab4a3274dd9e36b2ba1.jpg",
+        "https://telegra.ph/file/00d12263cd8d1af8c91f9.jpg",
+        "https://telegra.ph/file/4c387dfc13a99f3081d1d.jpg",
+        "https://telegra.ph/file/527d518230517611a8ee4.jpg",
+        "https://telegra.ph/file/b530a0a1ce6f395c30630.jpg",
+        "https://telegra.ph/file/3866fa449388191bf1d0d.jpg",
+        "https://telegra.ph/file/c8b4d467cb2405d8f3211.jpg",
+        "https://telegra.ph/file/8f034fc5e8e461a2bd2ee.jpg",
+        "https://telegra.ph/file/31afbbae5d75fbc7894c6.jpg",
+        "https://telegra.ph/file/6729077cc3144555de44b.jpg",
+        "https://telegra.ph/file/a1440d712acb2229172cf.jpg",
+        "https://telegra.ph/file/a016e4a8c0b7beb23fc53.jpg",
+        "https://telegra.ph/file/35a5f64ffe660edba209b.jpg",
+        "https://telegra.ph/file/6794db3b08a2e4edce218.jpg",
+        "https://telegra.ph/file/a28a384c71cc9fd82ce30.jpg",
+        "https://telegra.ph/file/90a522c0353756193cafa.jpg",
+        "https://telegra.ph/file/3294dfa2a935006fe0240.jpg",
+        "https://telegra.ph/file/f3007443255d5e8a06c7b.jpg",
+        "https://telegra.ph/file/8f14c06b405142ae8af65.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

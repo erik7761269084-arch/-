@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8696,
+    "title": "[黒青郎君] 永世の鑑 前篇 (永遠娘 11)",
+    "sourceUrl": "https://telegra.ph/黒青郎君-永世の鑑-前篇-永遠娘-11-08-31",
+    "images": [
+        "https://telegra.ph/file/46cd6b5d706c6af4847f6.jpg",
+        "https://telegra.ph/file/bff7564c472a65b752f40.jpg",
+        "https://telegra.ph/file/547d7536eb851719edb09.jpg",
+        "https://telegra.ph/file/b0ef10050bfa4c28cfe7b.jpg",
+        "https://telegra.ph/file/61bd913b7c779497a25a5.jpg",
+        "https://telegra.ph/file/40e192539580612c2d3ff.jpg",
+        "https://telegra.ph/file/030beb1ecb74f6e9dc50e.jpg",
+        "https://telegra.ph/file/a5d36e850cb4b242b5abc.jpg",
+        "https://telegra.ph/file/c9b0ddde4e8d40ae07928.jpg",
+        "https://telegra.ph/file/17ccc9a39201fd25995f7.jpg",
+        "https://telegra.ph/file/fbd061c0a33a6bf4e8bb3.jpg",
+        "https://telegra.ph/file/3c303032125974777e749.jpg",
+        "https://telegra.ph/file/95fd07795cd6dfcc5d749.jpg",
+        "https://telegra.ph/file/766d7b415b1df6d3d4cf5.jpg",
+        "https://telegra.ph/file/79a151835c313be7b5f60.jpg",
+        "https://telegra.ph/file/96d29e1bb90007933d5c7.jpg",
+        "https://telegra.ph/file/7cbbc27283bc8eeb54e30.jpg",
+        "https://telegra.ph/file/30d52cea695e1ad313af6.jpg",
+        "https://telegra.ph/file/800d55d1b914b89381f16.jpg",
+        "https://telegra.ph/file/a765b1136065c87e6df87.jpg",
+        "https://telegra.ph/file/1756b43b9ee822ddf49a5.jpg",
+        "https://telegra.ph/file/f59e0dc55eccdf88fc441.jpg",
+        "https://telegra.ph/file/e89b046a776aa9f44035b.jpg",
+        "https://telegra.ph/file/a03dce5ed009a330683a4.jpg",
+        "https://telegra.ph/file/613e18a59a4d23d6b8f63.jpg",
+        "https://telegra.ph/file/1360e99331a884310d83e.jpg",
+        "https://telegra.ph/file/9b2dd0d18e2bb9087de78.jpg",
+        "https://telegra.ph/file/76af13505df48bcadfdb3.jpg",
+        "https://telegra.ph/file/352212a0a58ffc9bba2ec.jpg",
+        "https://telegra.ph/file/977a22730000dae583b8f.jpg",
+        "https://telegra.ph/file/ed5ad2e059a8a0c850dfd.jpg",
+        "https://telegra.ph/file/dddff8ec3f9069aef8bfd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

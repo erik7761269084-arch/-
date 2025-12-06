@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11851,
+    "title": "[時間差攻撃 (遠矢大介)] Melancholic Summer (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/時間差攻撃-遠矢大介-Melancholic-Summer-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/ecc5aecfa7b86084550bb.jpg",
+        "https://telegra.ph/file/0e36e1b16008eeb5396df.jpg",
+        "https://telegra.ph/file/a866fed093bc4d7b1ad9d.jpg",
+        "https://telegra.ph/file/4474bc9c2bbe31078dd2f.jpg",
+        "https://telegra.ph/file/98f85aa65b9b3975aa09d.jpg",
+        "https://telegra.ph/file/6a33b49af7cdd5d3171c3.jpg",
+        "https://telegra.ph/file/23e242ad8506bdbc01a86.jpg",
+        "https://telegra.ph/file/86a6aa54940f3e871ac2d.jpg",
+        "https://telegra.ph/file/ecbe598aebad602c90ffd.jpg",
+        "https://telegra.ph/file/1421c0a58ea1a7dea7982.jpg",
+        "https://telegra.ph/file/2360ee1b3bac1182c9150.jpg",
+        "https://telegra.ph/file/8562bc3e9f818c31d001e.jpg",
+        "https://telegra.ph/file/dbc3f0d3400cbe67b537f.jpg",
+        "https://telegra.ph/file/4b8e25b34ac4ca7fb84a3.jpg",
+        "https://telegra.ph/file/100625b08c0169804e4ca.jpg",
+        "https://telegra.ph/file/2535eae3888083d42c1fa.jpg",
+        "https://telegra.ph/file/c555367cd08bcf181ef6d.jpg",
+        "https://telegra.ph/file/cb1fdfcb0ef8091c950ff.jpg",
+        "https://telegra.ph/file/eea484674ce1cd53405f7.jpg",
+        "https://telegra.ph/file/2c2a42b3ec5aad849c258.jpg",
+        "https://telegra.ph/file/1031a4586f3f2d17bf1d0.jpg",
+        "https://telegra.ph/file/84eefbe9c8eaf0d7940fb.jpg",
+        "https://telegra.ph/file/35be4597559022fcff885.jpg",
+        "https://telegra.ph/file/6ca5f4cdc7e1fb9daf348.jpg",
+        "https://telegra.ph/file/dd8319bed23011b9fa71b.jpg",
+        "https://telegra.ph/file/ac79d6319f35203975c89.jpg",
+        "https://telegra.ph/file/b67b2b3ddbb9ffe0be9e2.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/3d2059c172c779709d366.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8241,
+    "title": "[けもこも屋 (こもりけい)] 会社の女上司とセックスしてます。",
+    "sourceUrl": "https://telegra.ph/けもこも屋-こもりけい-会社の女上司とセックスしてます-08-31",
+    "images": [
+        "https://telegra.ph/file/c4f230ab68f657213168c.jpg",
+        "https://telegra.ph/file/588ef2e05be20b6b40d80.jpg",
+        "https://telegra.ph/file/3fcd3be8d1cbcc95a31ac.jpg",
+        "https://telegra.ph/file/a84cc4f5b3ef1a8f97523.jpg",
+        "https://telegra.ph/file/99226f48efe09ea853974.jpg",
+        "https://telegra.ph/file/fe6559b23e99c045bd6b9.jpg",
+        "https://telegra.ph/file/d1de5f5cce0525c43631d.jpg",
+        "https://telegra.ph/file/cea6e41bc881ac5825907.jpg",
+        "https://telegra.ph/file/25ec33d9570e8d494483b.jpg",
+        "https://telegra.ph/file/d47f6359a13bb312d313c.jpg",
+        "https://telegra.ph/file/58ac13061fada0843c7be.jpg",
+        "https://telegra.ph/file/9aad673bfae29ab2f94b2.jpg",
+        "https://telegra.ph/file/1ce7e60b646f1bdb05d99.jpg",
+        "https://telegra.ph/file/04ec880fa2b2e68e5b111.jpg",
+        "https://telegra.ph/file/778a7bef707fd1c62aadb.jpg",
+        "https://telegra.ph/file/be4a5f0d363a91e50a21a.jpg",
+        "https://telegra.ph/file/282463e800806e286deb9.jpg",
+        "https://telegra.ph/file/a8e7c2c5d26551d700766.jpg",
+        "https://telegra.ph/file/8a808a4dc83630150dfdb.jpg",
+        "https://telegra.ph/file/610f6a4f0a14f56bc6610.jpg",
+        "https://telegra.ph/file/f99da49de87ee9fb60e18.jpg",
+        "https://telegra.ph/file/18bce199aded92c2e0077.jpg",
+        "https://telegra.ph/file/7cc9c5508ba7d75ef3073.jpg",
+        "https://telegra.ph/file/bedc2430b0e20df0dbac5.jpg",
+        "https://telegra.ph/file/c54ebe0bd3c1eef27327f.jpg",
+        "https://telegra.ph/file/fa4be51728933527197e9.jpg",
+        "https://telegra.ph/file/26cde285c408ece00fe1a.jpg",
+        "https://telegra.ph/file/cd33f039aab2c1904403c.jpg",
+        "https://telegra.ph/file/572a71e75e909bb224d7b.jpg",
+        "https://telegra.ph/file/0a04b21179fbc674051f4.jpg",
+        "https://telegra.ph/file/3456d92f3b45f5c234078.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

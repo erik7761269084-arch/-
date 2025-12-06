@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8401,
+    "title": "[おちこち亭 (唯乃くしゃみ)] 人妻先生はパコパコしたい! 土曜昼間のピアノレッスン中イカ臭おちんぽうっとりしゃぶしゃぶ",
+    "sourceUrl": "https://telegra.ph/おちこち亭-唯乃くしゃみ-人妻先生はパコパコしたい-土曜昼間のピアノレッスン中イカ臭おちんぽうっとりしゃぶしゃぶ-08-31",
+    "images": [
+        "https://telegra.ph/file/2e982091e53f6d98729b1.jpg",
+        "https://telegra.ph/file/3bf59e3df0f8f92180f79.jpg",
+        "https://telegra.ph/file/7e7301062d5b3607cd3e7.jpg",
+        "https://telegra.ph/file/636dc7479319cc1376f8e.jpg",
+        "https://telegra.ph/file/cc78a5bf5b20507914ad2.jpg",
+        "https://telegra.ph/file/48487c7f6f71dec8e9fb6.jpg",
+        "https://telegra.ph/file/8c7a15e5024a551656198.jpg",
+        "https://telegra.ph/file/d96f9e834978a8a11cd2a.jpg",
+        "https://telegra.ph/file/97da469a355bb2cea4733.jpg",
+        "https://telegra.ph/file/51a09016f9210f65bae85.jpg",
+        "https://telegra.ph/file/1c413967a9734c36ac1b3.jpg",
+        "https://telegra.ph/file/86892c40b707777b476f8.jpg",
+        "https://telegra.ph/file/9a9f0c576dde7f302aadb.jpg",
+        "https://telegra.ph/file/d94544bb7098af619b650.jpg",
+        "https://telegra.ph/file/4ef54949cf18183f07859.jpg",
+        "https://telegra.ph/file/26760d2825bb5e8b887c7.jpg",
+        "https://telegra.ph/file/f2d9726944e185bc33e1c.jpg",
+        "https://telegra.ph/file/882fbf042aa8cbbae098f.jpg",
+        "https://telegra.ph/file/e1bfc55d207f393dc78fd.jpg",
+        "https://telegra.ph/file/bec8c3b030116e0854057.jpg",
+        "https://telegra.ph/file/c6ae9a128d880437b8aa8.jpg",
+        "https://telegra.ph/file/9a70a362f56c9416bba65.jpg",
+        "https://telegra.ph/file/6948b56f01f09b2d152c8.jpg",
+        "https://telegra.ph/file/a0d3f762b45831c65c389.jpg",
+        "https://telegra.ph/file/9904d8a949fd213edad41.jpg",
+        "https://telegra.ph/file/07a624954d3f69693ec41.jpg",
+        "https://telegra.ph/file/2bacc0b801e2d3919745e.jpg",
+        "https://telegra.ph/file/5f5afa8551151d73f866a.jpg",
+        "https://telegra.ph/file/ee24cfaeb03db5fd0f263.jpg",
+        "https://telegra.ph/file/cf65a45ea07074ed84818.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

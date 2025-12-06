@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10061,
+    "title": "(C88) [吟醸マゴッツ (くろたま)] DOA楽園Bitch (デッドオアアライブ)",
+    "sourceUrl": "https://telegra.ph/C88-吟醸マゴッツ-くろたま-DOA楽園Bitch-デッドオアアライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/f02648a16d6540ba3d1e5.jpg",
+        "https://telegra.ph/file/039ee9c46470c9a75d65b.jpg",
+        "https://telegra.ph/file/f6e49cc19ece7ba78eaab.jpg",
+        "https://telegra.ph/file/ded4d46194b5ac46fa748.jpg",
+        "https://telegra.ph/file/a82570583d1804d5d12a5.jpg",
+        "https://telegra.ph/file/75d8b29d7cb13ddbc1a01.jpg",
+        "https://telegra.ph/file/2a141174da03168012d3a.jpg",
+        "https://telegra.ph/file/0ba4b889ab10ccf41c058.jpg",
+        "https://telegra.ph/file/e950318961ee6617836f7.jpg",
+        "https://telegra.ph/file/9b2d39f2b89c83e15d2ae.jpg",
+        "https://telegra.ph/file/9d13f0ee2067a65a2e6ca.jpg",
+        "https://telegra.ph/file/f1f31ca1fbb3b59c2aa54.jpg",
+        "https://telegra.ph/file/3365fbecb44327fcb8be1.jpg",
+        "https://telegra.ph/file/e9989511b8cf9674841ea.jpg",
+        "https://telegra.ph/file/33b284faeeef789fd3947.jpg",
+        "https://telegra.ph/file/a19bb84399a860293da83.jpg",
+        "https://telegra.ph/file/1f0c7f8da3f3695a11c6f.jpg",
+        "https://telegra.ph/file/cefbfad00ac7d1d040f0f.jpg",
+        "https://telegra.ph/file/ce184d258fa6184a77d1c.jpg",
+        "https://telegra.ph/file/82232f5adc44818253c54.jpg",
+        "https://telegra.ph/file/9454b46c0f50c4dc512a1.jpg",
+        "https://telegra.ph/file/39000458d756f222265f4.jpg",
+        "https://telegra.ph/file/14c7ba6ddb821b919b481.jpg",
+        "https://telegra.ph/file/4d324fbd9c3d346110e41.jpg",
+        "https://telegra.ph/file/29abbc5d5c1b4cbd1978c.jpg",
+        "https://telegra.ph/file/969e236d6c15efa765988.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

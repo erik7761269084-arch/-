@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14229,
+    "title": "[Z.A.P. (ズッキーニ)] AVENGER? (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/ZAP-ズッキーニ-AVENGER-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/606366b38bd8445bc0c6c.jpg",
+        "https://telegra.ph/file/1d72c4adc616774e31151.jpg",
+        "https://telegra.ph/file/51ab3c2429e47ecd22603.jpg",
+        "https://telegra.ph/file/1f5864da0301047ee804a.jpg",
+        "https://telegra.ph/file/7fe32362585fb05ee61c6.jpg",
+        "https://telegra.ph/file/ebfbbeef3cca006f60570.jpg",
+        "https://telegra.ph/file/2dda420654dbeab284e1a.jpg",
+        "https://telegra.ph/file/33589faa8f4b86052d938.jpg",
+        "https://telegra.ph/file/58eff94d3761962b71398.jpg",
+        "https://telegra.ph/file/6ccab4e1832dc835d118e.jpg",
+        "https://telegra.ph/file/0c80297bb49da42949422.jpg",
+        "https://telegra.ph/file/418281782641dd58f35c6.jpg",
+        "https://telegra.ph/file/9fba695aa14dc7ff23d91.jpg",
+        "https://telegra.ph/file/ee7963255e0474dcdd714.jpg",
+        "https://telegra.ph/file/0aa329acfccc595b9b477.jpg",
+        "https://telegra.ph/file/8da68e9956015fa73e7c3.jpg",
+        "https://telegra.ph/file/183948bb081b37be9aa82.jpg",
+        "https://telegra.ph/file/89b9a3269cf95baceda6f.jpg",
+        "https://telegra.ph/file/136b55d858b30d0019232.jpg",
+        "https://telegra.ph/file/ba4d2866d925ba4db2056.jpg",
+        "https://telegra.ph/file/5cd8052fb19644cc8ee37.jpg",
+        "https://telegra.ph/file/f4f557b36ded7af158b51.jpg",
+        "https://telegra.ph/file/2b99577288c0ca179a812.jpg",
+        "https://telegra.ph/file/7e7934fc1795fb421f685.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/ca702dd796d845618e9f3.png",
+        "https://telegra.ph/file/739cfa05d0bdd035b18bd.png",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/f27e1bf1a5a4ba0aad9a8.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

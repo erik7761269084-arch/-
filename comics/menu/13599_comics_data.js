@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13599,
+    "title": "[一ノ瀬ランド] 淫らなエルフさんはオークくんがお好き",
+    "sourceUrl": "https://telegra.ph/一ノ瀬ランド-淫らなエルフさんはオークくんがお好き-08-31-2",
+    "images": [
+        "https://telegra.ph/file/1793e2f1c18b30e6b6614.jpg",
+        "https://telegra.ph/file/15ef1cbb4da5617ad8dd6.jpg",
+        "https://telegra.ph/file/2b75f3a2b8fed8d30c594.jpg",
+        "https://telegra.ph/file/20f2728dc1ab7d60f126d.jpg",
+        "https://telegra.ph/file/1d54f8284397937e4e525.jpg",
+        "https://telegra.ph/file/a1c4d69eb4ccf50797475.jpg",
+        "https://telegra.ph/file/073f0c7c2cd9ee606ab10.jpg",
+        "https://telegra.ph/file/c475cef18c1446fbcf4ea.jpg",
+        "https://telegra.ph/file/0b4c4f11f6068811ea10e.jpg",
+        "https://telegra.ph/file/c41e801a564935094a0a6.jpg",
+        "https://telegra.ph/file/86005e9267d5af73ed376.jpg",
+        "https://telegra.ph/file/cf758ea99feff65c6be11.jpg",
+        "https://telegra.ph/file/5e43e74521e7e6230fb51.jpg",
+        "https://telegra.ph/file/3d716b874d7c9363280de.jpg",
+        "https://telegra.ph/file/ed18aba1fa7c656d9f2f2.jpg",
+        "https://telegra.ph/file/20754626ad835840a6dff.jpg",
+        "https://telegra.ph/file/cff4c8b13ffee4853cff1.jpg",
+        "https://telegra.ph/file/fbc4a4ef817bbfbffb79a.jpg",
+        "https://telegra.ph/file/a0e643fac78a91ea4f1b5.jpg",
+        "https://telegra.ph/file/1a8feb15129819bc423e1.jpg",
+        "https://telegra.ph/file/bbe7fb752de09dc51cc7d.jpg",
+        "https://telegra.ph/file/1cfb992fd8bcc48a64394.jpg",
+        "https://telegra.ph/file/e93cfb2f3cb492fca804c.jpg",
+        "https://telegra.ph/file/69aab4dc8a65884470f60.jpg",
+        "https://telegra.ph/file/6386b937e4577ef8a3821.jpg",
+        "https://telegra.ph/file/664148d286645a6ba9585.jpg",
+        "https://telegra.ph/file/c38506b4ca549de2f1603.jpg",
+        "https://telegra.ph/file/e59b4f29ea70d4bae0465.jpg",
+        "https://telegra.ph/file/04a570f2be2e4afea8d2f.jpg",
+        "https://telegra.ph/file/f939e08e7202d6f99827a.jpg",
+        "https://telegra.ph/file/a9dedfed53ec7726879f4.jpg",
+        "https://telegra.ph/file/b66698ef92a3696db421f.jpg",
+        "https://telegra.ph/file/425353f020a35b0a1426d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

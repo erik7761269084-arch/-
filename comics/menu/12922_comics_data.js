@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12922,
+    "title": "[満開開花] 【催眠家族】最後まで愛たっぷり❤【シリーズ】[END]【中文】",
+    "sourceUrl": "https://telegra.ph/満開開花-催眠家族最後まで愛たっぷりシリーズEND中文-08-31",
+    "images": [
+        "https://telegra.ph/file/1c3796c9c309f6b89867b.jpg",
+        "https://telegra.ph/file/d623b5380748048c6715a.jpg",
+        "https://telegra.ph/file/18539dac41d20294563df.jpg",
+        "https://telegra.ph/file/eedb7c369060948641375.jpg",
+        "https://telegra.ph/file/cdf993cb9fcf5a1a2d873.jpg",
+        "https://telegra.ph/file/49445907b205c3c87900c.jpg",
+        "https://telegra.ph/file/14bf617237acb762e5ced.jpg",
+        "https://telegra.ph/file/a95298c07ec45e84327d5.jpg",
+        "https://telegra.ph/file/8634d4b04f9991eeeacfc.jpg",
+        "https://telegra.ph/file/8a2e64b5e98044b916602.jpg",
+        "https://telegra.ph/file/00a666caad4cfd325ed41.jpg",
+        "https://telegra.ph/file/7c7685f06d2cf775bcce1.jpg",
+        "https://telegra.ph/file/5d670b78f55a303c75ead.jpg",
+        "https://telegra.ph/file/248cbf58d263855692994.jpg",
+        "https://telegra.ph/file/a5dcb4c7ad2d6998429e3.jpg",
+        "https://telegra.ph/file/3364ca5c66f0eac58e7a7.jpg",
+        "https://telegra.ph/file/0910585cb2c6aebe05a72.jpg",
+        "https://telegra.ph/file/61ee3ae1b7dad60662ded.jpg",
+        "https://telegra.ph/file/53272ad5fbf28c2f6cc22.jpg",
+        "https://telegra.ph/file/859d3df87858091273d6e.jpg",
+        "https://telegra.ph/file/06506b44c0a0bdadea675.jpg",
+        "https://telegra.ph/file/5bbcc411c211866dffd7c.jpg",
+        "https://telegra.ph/file/d5acd44efb45b416ce763.jpg",
+        "https://telegra.ph/file/c65b32bd86f576f844d3f.jpg",
+        "https://telegra.ph/file/fff57885ef305af1d20eb.jpg",
+        "https://telegra.ph/file/86db88c3f1e2e8fd33470.jpg",
+        "https://telegra.ph/file/e7fc818527ddc8d22080e.jpg",
+        "https://telegra.ph/file/3643bc530b4a4861bdd3c.jpg",
+        "https://telegra.ph/file/5921db28435da36e73c05.jpg",
+        "https://telegra.ph/file/30fefb4b6153e67de7d47.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

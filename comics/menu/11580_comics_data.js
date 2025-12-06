@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11580,
+    "title": "[イケメン帝国 (れむ)] 美禰ちゃんと何でもないドスケベな日常 第三話",
+    "sourceUrl": "https://telegra.ph/イケメン帝国-れむ-美禰ちゃんと何でもないドスケベな日常-第三話-08-31",
+    "images": [
+        "https://telegra.ph/file/0b4cc5b27b08bf02a7f2b.jpg",
+        "https://telegra.ph/file/2fb2d5f34b0fd2d7a4574.jpg",
+        "https://telegra.ph/file/eca3c424b0b874ae50c10.jpg",
+        "https://telegra.ph/file/a9aaa3a1ebe64768de55c.jpg",
+        "https://telegra.ph/file/4dcd528665f9115a828d5.jpg",
+        "https://telegra.ph/file/95ee4ee841a1d2685d885.jpg",
+        "https://telegra.ph/file/23e0698f9f304f1e3f609.jpg",
+        "https://telegra.ph/file/b161d78136d0ce4d71051.jpg",
+        "https://telegra.ph/file/39446bfdb12368923ecf4.jpg",
+        "https://telegra.ph/file/276adde8a9262dc453ec1.jpg",
+        "https://telegra.ph/file/218abaf42a7b47d2f698e.jpg",
+        "https://telegra.ph/file/3edb25d112fea73dcc48f.jpg",
+        "https://telegra.ph/file/8d52fe349f5c378c63b57.jpg",
+        "https://telegra.ph/file/4f6bae518aa05872545f1.jpg",
+        "https://telegra.ph/file/65a306057ce7434b6ceac.jpg",
+        "https://telegra.ph/file/b215751d9e4f723884292.jpg",
+        "https://telegra.ph/file/90ab3ef9ffb7dd44281a0.jpg",
+        "https://telegra.ph/file/46e3957c0c392e7020fdc.jpg",
+        "https://telegra.ph/file/61232c94bd31ed6fab5a7.jpg",
+        "https://telegra.ph/file/6d535c055c986d96ba495.jpg",
+        "https://telegra.ph/file/31430c9de988d79715c75.jpg",
+        "https://telegra.ph/file/8735b7ad836f600fe79aa.jpg",
+        "https://telegra.ph/file/e53497b656fa2972a115a.jpg",
+        "https://telegra.ph/file/ecad2ef7be7c6dd2b5848.jpg",
+        "https://telegra.ph/file/4d6b9a6aeb0bc933cffb6.jpg",
+        "https://telegra.ph/file/4ca95bd2fb383c8f110d4.jpg",
+        "https://telegra.ph/file/1570c3896bc74085c150a.jpg",
+        "https://telegra.ph/file/f5bbf24fad30c998040c8.jpg",
+        "https://telegra.ph/file/55f3a2b39c5eb05dd7f08.jpg",
+        "https://telegra.ph/file/b1fac70b680a153f25b06.jpg",
+        "https://telegra.ph/file/55f20bf77cd00b615db11.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

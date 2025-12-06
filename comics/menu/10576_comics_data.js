@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10576,
+    "title": "[ネクサス工房 (在誠舞あゆか+)] いじめっ娘を催眠術で犯ってやる",
+    "sourceUrl": "https://telegra.ph/ネクサス工房-在誠舞あゆか-いじめっ娘を催眠術で犯ってやる-08-31",
+    "images": [
+        "https://telegra.ph/file/81be4bbbd55b256854096.jpg",
+        "https://telegra.ph/file/61bb2d42538979dc67084.jpg",
+        "https://telegra.ph/file/979b858e860be76236a83.jpg",
+        "https://telegra.ph/file/d1863694beaed5de9c58c.jpg",
+        "https://telegra.ph/file/61e9f73591b491832189f.jpg",
+        "https://telegra.ph/file/b26682dd036101e303890.jpg",
+        "https://telegra.ph/file/ab05508a82b68db8aa721.jpg",
+        "https://telegra.ph/file/c92c986c1b568cb97ea4f.jpg",
+        "https://telegra.ph/file/aef5b2a59dd755f71d5c5.jpg",
+        "https://telegra.ph/file/77e7cfc41abd03e953637.jpg",
+        "https://telegra.ph/file/442cb4ac2d3a28597fa68.jpg",
+        "https://telegra.ph/file/e4fb0768f019ae03caf0f.jpg",
+        "https://telegra.ph/file/e0d40ef72fa83b8f50eaa.jpg",
+        "https://telegra.ph/file/76aa0314202284b1439a8.jpg",
+        "https://telegra.ph/file/30edef5c357eb503b3124.jpg",
+        "https://telegra.ph/file/37732b5e832a0790a3824.jpg",
+        "https://telegra.ph/file/8fd7cc7a78da91dcab0b8.jpg",
+        "https://telegra.ph/file/64599a3e281e383c9a9e1.jpg",
+        "https://telegra.ph/file/6956a42a1ec9fa539693d.jpg",
+        "https://telegra.ph/file/9d9c588aa67211af5d1c1.jpg",
+        "https://telegra.ph/file/51083fd99e9d6d000f6e0.jpg",
+        "https://telegra.ph/file/21e273cabccd9f268c9f6.jpg",
+        "https://telegra.ph/file/6314571b7f247a4be6a1e.jpg",
+        "https://telegra.ph/file/1b1adc9abc3546fc2ec7c.jpg",
+        "https://telegra.ph/file/bf3499eff566ed16f988e.jpg",
+        "https://telegra.ph/file/7bb611b4d29e5c5675578.jpg",
+        "https://telegra.ph/file/00dbc232776ea784a6d39.jpg",
+        "https://telegra.ph/file/6196e71cf5c32b79ae932.jpg",
+        "https://telegra.ph/file/cd019dff896f7e49d525c.jpg",
+        "https://telegra.ph/file/78f06eedf0351509b2c55.jpg",
+        "https://telegra.ph/file/cf0aeabbb57b3d61c2b90.jpg",
+        "https://telegra.ph/file/14df50ff786fab40e4f8a.jpg",
+        "https://telegra.ph/file/34ba6519df4acf04292a5.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

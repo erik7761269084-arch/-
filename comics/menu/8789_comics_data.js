@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8789,
+    "title": "[千葉産地 (ミー助)] ダンジョントラベラーズ 愛佳の秘め事1.5 (トゥハート2 ダンジョントラベラーズ)",
+    "sourceUrl": "https://telegra.ph/千葉産地-ミー助-ダンジョントラベラーズ-愛佳の秘め事15-トゥハート2-ダンジョントラベラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/3f2a27f5d617c67f451e4.jpg",
+        "https://telegra.ph/file/c826311d7d085c6fdf340.jpg",
+        "https://telegra.ph/file/41d40922f3c6e3cc99713.jpg",
+        "https://telegra.ph/file/0e4d66a485f242a1a3867.jpg",
+        "https://telegra.ph/file/b36e207ccae0bf2cac6c9.jpg",
+        "https://telegra.ph/file/4b5e0e48291ff646818cd.jpg",
+        "https://telegra.ph/file/9fff5e2d13169963e0c87.jpg",
+        "https://telegra.ph/file/d5e15fc29256fe9bf1183.jpg",
+        "https://telegra.ph/file/134c3752ed44cb686bf13.jpg",
+        "https://telegra.ph/file/edfa61e1af4967f9392c2.jpg",
+        "https://telegra.ph/file/6f3f872e6698f63bb5bab.jpg",
+        "https://telegra.ph/file/4ea1cc66e3f713e2bc292.jpg",
+        "https://telegra.ph/file/28033d618586830ed6536.jpg",
+        "https://telegra.ph/file/3c8541504354c0539eab0.jpg",
+        "https://telegra.ph/file/866e436b1e9218f0eb940.jpg",
+        "https://telegra.ph/file/6e6c5f9f233e429314b88.jpg",
+        "https://telegra.ph/file/885b06e2d416544ce8fcb.jpg",
+        "https://telegra.ph/file/ae1c9d4e1e440876f9cf7.jpg",
+        "https://telegra.ph/file/ffa387e194a650db5f039.jpg",
+        "https://telegra.ph/file/30b32fdb1425b2935b231.jpg",
+        "https://telegra.ph/file/8d6c2b870f099b47e11d4.jpg",
+        "https://telegra.ph/file/c3f702c2e0dcc55d52410.jpg",
+        "https://telegra.ph/file/71c39ac6da6ccc3f4ef5e.jpg",
+        "https://telegra.ph/file/d30d399a4f8c666d3cbe6.jpg",
+        "https://telegra.ph/file/a6da96ecd6b1f3df68047.jpg",
+        "https://telegra.ph/file/7e26a36f48389341948f0.jpg",
+        "https://telegra.ph/file/4fbf3d43610cc25aeface.jpg",
+        "https://telegra.ph/file/aba84df1a32c5e8daab83.jpg",
+        "https://telegra.ph/file/c5e9e613f8fc8f6612c8d.jpg",
+        "https://telegra.ph/file/38774a63eee035776f60d.jpg",
+        "https://telegra.ph/file/d89b0cded33a86594abdc.jpg",
+        "https://telegra.ph/file/feb8ad88b76fee1c07ea0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16338,
+    "title": "(CIRCLE Space Meeting 9th) [きつねキャンディー。 (ろうせい)] psykhē (BanG Dream! It&#039;s MyGO!!!!!) -Preview",
+    "sourceUrl": "https://telegra.ph/CIRCLE-Space-Meeting-9th-きつねキャンディー-ろうせい-psykhē-BanG-Dream-It039s-MyGO--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/01.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0001.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0002.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0003.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0004.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0005.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0006.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0007_8.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0009.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0010.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0011.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0012.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0013.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0014.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0015.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0016.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0017.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0018.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0019.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0020.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0021.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0022.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0023.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0024.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0025.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0026.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0027.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0028.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0029.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/img0030.jpg",
+        "https://i2.linghua.xyz/ex/3097317/9048baf38d/3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

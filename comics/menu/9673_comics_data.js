@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9673,
+    "title": "[空想RIOT (佐倉はなつみ)] 幼馴染はちんちんアートをご所望",
+    "sourceUrl": "https://telegra.ph/空想RIOT-佐倉はなつみ-幼馴染はちんちんアートをご所望-08-31",
+    "images": [
+        "https://telegra.ph/file/65b3d48182dade5d4a63e.jpg",
+        "https://telegra.ph/file/4147fedc932104ee4e135.jpg",
+        "https://telegra.ph/file/02738c125069e320dfff7.jpg",
+        "https://telegra.ph/file/0960e179ededd6c66f700.jpg",
+        "https://telegra.ph/file/d18c821d16a33f6657a88.jpg",
+        "https://telegra.ph/file/c3321ce335b146282c56e.jpg",
+        "https://telegra.ph/file/fa47a3c8f52491f7cc3ae.jpg",
+        "https://telegra.ph/file/477a344038d34f23b4068.jpg",
+        "https://telegra.ph/file/24d6c479a24a631f6384d.jpg",
+        "https://telegra.ph/file/5688c8581390fcd2f3a0a.jpg",
+        "https://telegra.ph/file/41070c8e06737c71e3d3c.jpg",
+        "https://telegra.ph/file/c20199604c7ba27e9ec9c.jpg",
+        "https://telegra.ph/file/4752c5300517d23567a8d.jpg",
+        "https://telegra.ph/file/7bf84fd764986cdce96b1.jpg",
+        "https://telegra.ph/file/5c18e8b3a5046c3c9a5ea.jpg",
+        "https://telegra.ph/file/75439f466e9ef81ce1e86.jpg",
+        "https://telegra.ph/file/22337d927941fc42290f6.jpg",
+        "https://telegra.ph/file/23a1a6a786fd69d1e9701.jpg",
+        "https://telegra.ph/file/210cbb30da9cccb8b91e4.jpg",
+        "https://telegra.ph/file/fed5bc47ca0af9cb7459c.jpg",
+        "https://telegra.ph/file/09a5aa28ab605c35be9f6.jpg",
+        "https://telegra.ph/file/7347d75e2c884036bc8df.jpg",
+        "https://telegra.ph/file/9c71f1c93ff4f1e1459de.jpg",
+        "https://telegra.ph/file/4bdee34aa827c01277b23.jpg",
+        "https://telegra.ph/file/a61066f41f33cf6fec2be.jpg",
+        "https://telegra.ph/file/1d5b0fb1734b25c6fb053.jpg",
+        "https://telegra.ph/file/ceb39fd42364d0ac9c5d3.jpg",
+        "https://telegra.ph/file/3b2584bc34d41d8bf64de.jpg",
+        "https://telegra.ph/file/f78c70adf13ed108e0e8d.jpg",
+        "https://telegra.ph/file/a4ec198e69ea73bb5499d.jpg",
+        "https://telegra.ph/file/0844e50050a39f4c30124.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

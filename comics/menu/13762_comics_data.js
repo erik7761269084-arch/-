@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13762,
+    "title": "(C97) [HBO (変熊)] 夢見りあむはダメにする (アイドルマスター シンデレラガールズ)",
+    "sourceUrl": "https://telegra.ph/C97-HBO-変熊-夢見りあむはダメにする-アイドルマスター-シンデレラガールズ-08-31",
+    "images": [
+        "https://telegra.ph/file/5249da3ddc811f3843687.jpg",
+        "https://telegra.ph/file/88526992dd75dee67f722.jpg",
+        "https://telegra.ph/file/8257428ba50585996078e.jpg",
+        "https://telegra.ph/file/1c3157f7015e20ea7ae0b.jpg",
+        "https://telegra.ph/file/ec9638b00a2b2a9719a34.jpg",
+        "https://telegra.ph/file/2ae85102b7492e23387b6.jpg",
+        "https://telegra.ph/file/f0e394c5d7ef274eba385.jpg",
+        "https://telegra.ph/file/d363a7e05505a0bb6eef8.jpg",
+        "https://telegra.ph/file/202fca0cb754880c0ad22.jpg",
+        "https://telegra.ph/file/3409940665f662ae5754e.jpg",
+        "https://telegra.ph/file/d61696bc665168f2a08c5.jpg",
+        "https://telegra.ph/file/b7fcd0ab916f6eb427cff.jpg",
+        "https://telegra.ph/file/bb7d5a0c8b795c671eb5c.jpg",
+        "https://telegra.ph/file/ac1dfcf27b9f7d93c1154.jpg",
+        "https://telegra.ph/file/118ecc857994c43f18414.jpg",
+        "https://telegra.ph/file/7d8f94aed97926a5115f8.jpg",
+        "https://telegra.ph/file/b9ac9bb09343430e0e9ae.jpg",
+        "https://telegra.ph/file/8291beab411c9741fb8c6.jpg",
+        "https://telegra.ph/file/f18e309dbee8a6c0d729c.jpg",
+        "https://telegra.ph/file/a6f352eefc42b7b8cbac1.jpg",
+        "https://telegra.ph/file/5fbd41f5bfbd19ea8063c.jpg",
+        "https://telegra.ph/file/563001ef0ca84dce6eae7.jpg",
+        "https://telegra.ph/file/70e0c4f34ccfd668e3648.jpg",
+        "https://telegra.ph/file/5924a968849bc51bc748e.jpg",
+        "https://telegra.ph/file/3cafe86cf717e50f02369.jpg",
+        "https://telegra.ph/file/d2d1175c643f1c0b645b3.jpg",
+        "https://telegra.ph/file/7d288c199876b7ad2ecce.jpg",
+        "https://telegra.ph/file/9cf599377ea75931dcc98.jpg",
+        "https://telegra.ph/file/8a4a4928bb1bce8f09779.jpg",
+        "https://telegra.ph/file/332e99853e593908e279e.jpg",
+        "https://telegra.ph/file/fbadeeb6220cde2f5f1a7.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/45ab4e5d5b98c70b11608.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

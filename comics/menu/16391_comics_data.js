@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16391,
+    "title": "(C104) [virophilia (織日ちひろ)] パウダー・ブルー (ラブライブ! 蓮ノ空女学院スクールアイドルクラブ) -Preview",
+    "sourceUrl": "https://telegra.ph/C104-virophilia-織日ちひろ-パウダーブルー-ラブライブ-蓮ノ空女学院スクールアイドルクラブ--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3126707/7044599163/cover1.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/cover2.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0001.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0002.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0003.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0004.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0005.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0006.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0007.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0008.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0009.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0010.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0011.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0012.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0013.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0014.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0015.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0016.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0017.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0018.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0019.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0020.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0021.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0022.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0023.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0024.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0025.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0026.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/img0027.webp",
+        "https://i2.linghua.xyz/ex/3126707/7044599163/General.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

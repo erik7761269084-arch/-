@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10893,
+    "title": "(C88) [玉子房 (隈吉)] 大和奪艦 (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/C88-玉子房-隈吉-大和奪艦-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/bf2a42b6886b3bf6b7926.jpg",
+        "https://telegra.ph/file/3cee2218e5c0fb6d5551b.jpg",
+        "https://telegra.ph/file/fc79c0faad9c54adfde9f.jpg",
+        "https://telegra.ph/file/9642ce14aee42f8dbade7.jpg",
+        "https://telegra.ph/file/b6045df82dd44643d8799.jpg",
+        "https://telegra.ph/file/c4e59d3f92f42adcf3f4f.jpg",
+        "https://telegra.ph/file/70220fac7bc490994ee32.jpg",
+        "https://telegra.ph/file/a08dc057e124b0d7e0965.jpg",
+        "https://telegra.ph/file/c12ff77cd370e2dc0c1da.jpg",
+        "https://telegra.ph/file/1a3327133ebd3e85f5f3c.jpg",
+        "https://telegra.ph/file/456ccb1ed82b7fb3c7437.jpg",
+        "https://telegra.ph/file/ee38ed6bbb1039c2e5955.jpg",
+        "https://telegra.ph/file/93c467edbe80bd49ef898.jpg",
+        "https://telegra.ph/file/7f2795dd37b9bd30920ba.jpg",
+        "https://telegra.ph/file/9697b7fca37875a9bb8a0.jpg",
+        "https://telegra.ph/file/62109e9bb4252811ecd4c.jpg",
+        "https://telegra.ph/file/ba14783609f6a08bceb5f.jpg",
+        "https://telegra.ph/file/8556201509d3021b79273.jpg",
+        "https://telegra.ph/file/7276e47fd5e0ca50a5e12.jpg",
+        "https://telegra.ph/file/377f01c9c8a7eb11ffc2a.jpg",
+        "https://telegra.ph/file/cf200639a17ede27f6330.jpg",
+        "https://telegra.ph/file/c84775c25784fc85989c4.jpg",
+        "https://telegra.ph/file/59c966d2d2ffbd95782f1.jpg",
+        "https://telegra.ph/file/1ddaf32a99c82ed565a8c.jpg",
+        "https://telegra.ph/file/b408b157dd74defd8d00c.jpg",
+        "https://telegra.ph/file/15b7199155acc0482b41e.jpg",
+        "https://telegra.ph/file/7b10fccd37b0680c16c65.jpg",
+        "https://telegra.ph/file/7130dcbc8823879e262bd.jpg",
+        "https://telegra.ph/file/540c4f073281c1b3dc9e0.jpg",
+        "https://telegra.ph/file/d16f6fa845b612b6df3d0.jpg",
+        "https://telegra.ph/file/f8f3b06574983f38be50b.jpg",
+        "https://telegra.ph/file/22b55b687a9c259a579e7.jpg",
+        "https://telegra.ph/file/dcb99a8a5a33df5ac367a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12328,
+    "title": "[HGH (HG茶川)] キミはやさしく寝取られる",
+    "sourceUrl": "https://telegra.ph/HGH-HG茶川-キミはやさしく寝取られる-08-31",
+    "images": [
+        "https://telegra.ph/file/131a0428cea11f56d1d8e.jpg",
+        "https://telegra.ph/file/8159a2f2b19b6671a1829.jpg",
+        "https://telegra.ph/file/2c6cca80bdce6664a0119.jpg",
+        "https://telegra.ph/file/06879292f1034020573a3.jpg",
+        "https://telegra.ph/file/c4d7cfb206f9eaa23e61a.jpg",
+        "https://telegra.ph/file/d9028582d91248a3cdb93.jpg",
+        "https://telegra.ph/file/aec4bfa9f6f3d0c8ef128.jpg",
+        "https://telegra.ph/file/97a4a8d64860909e0997c.jpg",
+        "https://telegra.ph/file/24b51ff5b4f06761c7757.jpg",
+        "https://telegra.ph/file/33c754596b6e17f3c72ed.jpg",
+        "https://telegra.ph/file/e5c8c9f43b8eaa3f45d5c.jpg",
+        "https://telegra.ph/file/6181584c7afa53c9ff489.jpg",
+        "https://telegra.ph/file/e931df1f4bbd83c68956a.jpg",
+        "https://telegra.ph/file/491c2201c204efb68efcd.jpg",
+        "https://telegra.ph/file/00d076287e25e8f387b09.jpg",
+        "https://telegra.ph/file/022ecb0697fceb5a1c174.jpg",
+        "https://telegra.ph/file/0301b0bcf6389b3d61808.jpg",
+        "https://telegra.ph/file/ae7545b5f9f17a9ab2ce3.jpg",
+        "https://telegra.ph/file/ad4edc01bd7e81e2b0495.jpg",
+        "https://telegra.ph/file/c276aa790114e52df7bf3.jpg",
+        "https://telegra.ph/file/43478a2a5da06c7ef80fa.jpg",
+        "https://telegra.ph/file/3177260f241dfc4b71af8.jpg",
+        "https://telegra.ph/file/4c45de267280b529e037f.jpg",
+        "https://telegra.ph/file/29586c9739978d202914c.jpg",
+        "https://telegra.ph/file/dade25443d7a5f220b1f5.jpg",
+        "https://telegra.ph/file/4ba151b988e31a72ad981.jpg",
+        "https://telegra.ph/file/88b636bf84e8936ccc4b4.jpg",
+        "https://telegra.ph/file/515ae60f833ae17d3132a.jpg",
+        "https://telegra.ph/file/fbad09d63ae62a357388a.jpg",
+        "https://telegra.ph/file/e1a5b0455718b6537890e.jpg",
+        "https://telegra.ph/file/ad9c822ac49a3b8c457eb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

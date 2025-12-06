@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12347,
+    "title": "[ジロウ] 鈴木君のパンスト的日常 (肉感的黒ストッキング性活)",
+    "sourceUrl": "https://telegra.ph/ジロウ-鈴木君のパンスト的日常-肉感的黒ストッキング性活-08-31",
+    "images": [
+        "https://telegra.ph/file/93250df5248ba5516011a.jpg",
+        "https://telegra.ph/file/72c3eaea12787edab7cd8.jpg",
+        "https://telegra.ph/file/cef755ca8e61e3aa3f05a.jpg",
+        "https://telegra.ph/file/dda606b965afaaea91b4e.jpg",
+        "https://telegra.ph/file/22c23f43d643d35dd7a77.jpg",
+        "https://telegra.ph/file/a791afc9585bc17f86dad.jpg",
+        "https://telegra.ph/file/2c4f9aa3d50a71c41924f.jpg",
+        "https://telegra.ph/file/362fa16526ebf6dab6208.jpg",
+        "https://telegra.ph/file/97e7544d07b4901502da2.jpg",
+        "https://telegra.ph/file/71b58cf181fb153dd8ed1.jpg",
+        "https://telegra.ph/file/6c67a132abe3dbf7c2c70.jpg",
+        "https://telegra.ph/file/9d1bf6cc7f9374073a0cb.jpg",
+        "https://telegra.ph/file/c5c198fc6001532b6af5b.jpg",
+        "https://telegra.ph/file/d1ea8ff61f257786f78b7.jpg",
+        "https://telegra.ph/file/93c7362148b575e2689ef.jpg",
+        "https://telegra.ph/file/c77515f91a084c840a36a.jpg",
+        "https://telegra.ph/file/59e2ee97bc67c23a263a1.jpg",
+        "https://telegra.ph/file/42e8df2c5dae464561fd4.jpg",
+        "https://telegra.ph/file/bd23c647ba378c3a64530.jpg",
+        "https://telegra.ph/file/66804ecd636834b9f65cc.jpg",
+        "https://telegra.ph/file/19828114f653e3df9f17d.jpg",
+        "https://telegra.ph/file/69fa8ed46871a0e68d55d.jpg",
+        "https://telegra.ph/file/d6ebadab9402a42337767.jpg",
+        "https://telegra.ph/file/7a69828f068b96d172e33.jpg",
+        "https://telegra.ph/file/0855482f0ade2834dfa7e.jpg",
+        "https://telegra.ph/file/d78ec184bfe02860c5f88.jpg",
+        "https://telegra.ph/file/445d58206175c8595ce0a.jpg",
+        "https://telegra.ph/file/81b6d80ac34c156e37079.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/a49bcd8c85fbac70f9029.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg",
+        "https://telegra.ph/file/5e51bc33ed9e4c5913684.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

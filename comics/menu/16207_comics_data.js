@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16207,
+    "title": "(C104) [えねるぎあ (ぴかち)] 今日、千束と (リコリス・リコイル) -Preview",
+    "sourceUrl": "https://telegra.ph/C104-えねるぎあ-ぴかち-今日千束と-リコリスリコイル--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/a235589ad6d8baee7c4e4.jpg",
+        "https://telegra.ph/file/3a914815248132e5ab549.jpg",
+        "https://telegra.ph/file/1e7f1c8c57e5491f3b6af.jpg",
+        "https://telegra.ph/file/0a48859484e5e6bc8ff29.jpg",
+        "https://telegra.ph/file/ea6edd7594d04de85c415.jpg",
+        "https://telegra.ph/file/fa5395e4398724659e3e0.jpg",
+        "https://telegra.ph/file/3a9b6d1b9c92dfad0700b.jpg",
+        "https://telegra.ph/file/1e44f1adb967ff0a823c9.jpg",
+        "https://telegra.ph/file/6f8a854487334eacffa97.jpg",
+        "https://telegra.ph/file/754b7316de2762c72b2b1.jpg",
+        "https://telegra.ph/file/227806e99ed6f7945a234.jpg",
+        "https://telegra.ph/file/9bcee12722181a4237b72.jpg",
+        "https://telegra.ph/file/a4db2f24491a528325bce.jpg",
+        "https://telegra.ph/file/94e9cbe64c9ba6c8cfc6a.jpg",
+        "https://telegra.ph/file/21062dff8c3cb804d0964.jpg",
+        "https://telegra.ph/file/e829c1c4b01070057b904.jpg",
+        "https://telegra.ph/file/232b9368e3fbe014b1c67.jpg",
+        "https://telegra.ph/file/fce483d3874d8b093ccc7.jpg",
+        "https://telegra.ph/file/c8b7f6f7a9a27bd6341ad.jpg",
+        "https://telegra.ph/file/3c2041869aad3bdf15b6b.jpg",
+        "https://telegra.ph/file/7f72b1a659d684546d74b.jpg",
+        "https://telegra.ph/file/e7306e6f3423914d87018.jpg",
+        "https://telegra.ph/file/75c20b83e0fe5d6ef06d6.jpg",
+        "https://telegra.ph/file/b8452f3051db04bdbbbe9.jpg",
+        "https://telegra.ph/file/4434b65ffce21d1e6c970.jpg",
+        "https://telegra.ph/file/f21d435c5c39f8407394b.jpg",
+        "https://telegra.ph/file/d8641d79bb9fcc8424fd3.jpg",
+        "https://telegra.ph/file/a3525bef340cd25882fb0.jpg",
+        "https://telegra.ph/file/a9e6617b72a11ac6a073b.jpg",
+        "https://telegra.ph/file/6e602d978cb76227a0390.jpg",
+        "https://telegra.ph/file/7a0a1dadce09c7da64f3a.jpg",
+        "https://telegra.ph/file/3f68babd1e0502c73959d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

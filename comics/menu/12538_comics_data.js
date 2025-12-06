@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12538,
+    "title": "[角煮煮] 設定変更アプリ",
+    "sourceUrl": "https://telegra.ph/角煮煮-設定変更アプリ-08-31",
+    "images": [
+        "https://telegra.ph/file/642c509f5a3c4c2598737.jpg",
+        "https://telegra.ph/file/6bc6e79ec4fa44b64fea0.jpg",
+        "https://telegra.ph/file/fbee72c27872e56cd07fb.jpg",
+        "https://telegra.ph/file/0184f26fa9ff83fd3dbed.jpg",
+        "https://telegra.ph/file/6056431bc7fcb04dd8717.jpg",
+        "https://telegra.ph/file/ec345c6ae2876728045a4.jpg",
+        "https://telegra.ph/file/8902c9ff3a03f941ef4d7.jpg",
+        "https://telegra.ph/file/89e1716598990e60b7ecb.jpg",
+        "https://telegra.ph/file/51c65f2e37d20dcf43343.jpg",
+        "https://telegra.ph/file/e31c8b2faedcec21f6fcd.jpg",
+        "https://telegra.ph/file/e0b11191f9eeb5cfc398c.jpg",
+        "https://telegra.ph/file/d6b6e960ae56ed96db0f2.jpg",
+        "https://telegra.ph/file/57ae8241ad9116e1f036c.jpg",
+        "https://telegra.ph/file/209a47a4fee02d4753812.jpg",
+        "https://telegra.ph/file/59b40005d35a43c044b06.jpg",
+        "https://telegra.ph/file/ea5d322d06d92fcf6c310.jpg",
+        "https://telegra.ph/file/e699f0a81d6a83964ba27.jpg",
+        "https://telegra.ph/file/b93bf12f78b45a61235fd.jpg",
+        "https://telegra.ph/file/4691e337e8e2b289eedcc.jpg",
+        "https://telegra.ph/file/d3f981187c7fd6f832dca.jpg",
+        "https://telegra.ph/file/5fc39558dfde05cb57666.jpg",
+        "https://telegra.ph/file/791ecc0d8b99a56195015.jpg",
+        "https://telegra.ph/file/cf169ced5b8568a922b26.jpg",
+        "https://telegra.ph/file/d93ae95580b745a58fdb1.jpg",
+        "https://telegra.ph/file/beb9697f361a445be2a53.jpg",
+        "https://telegra.ph/file/5d3b38842918a7343720b.jpg",
+        "https://telegra.ph/file/44711c2b3bff3965c9cd0.jpg",
+        "https://telegra.ph/file/f092a13ee76e6d0a86534.jpg",
+        "https://telegra.ph/file/8ee28dec5b83979b5ae8f.jpg",
+        "https://telegra.ph/file/52b07c2a77ae7a7258c77.jpg",
+        "https://telegra.ph/file/0a8b74076180dfc9d55f7.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

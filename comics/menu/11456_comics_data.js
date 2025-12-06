@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11456,
+    "title": "[我to鈴愚cat (アイモ)] いたずら猿の顔面騎乗 (戦国乙女)",
+    "sourceUrl": "https://telegra.ph/我to鈴愚cat-アイモ-いたずら猿の顔面騎乗-戦国乙女-08-31",
+    "images": [
+        "https://telegra.ph/file/a17c017d7f14d27cc816d.jpg",
+        "https://telegra.ph/file/734c074004f053f28437a.jpg",
+        "https://telegra.ph/file/54acef02fa8905453074b.jpg",
+        "https://telegra.ph/file/6275d2fffa804e2ed4850.jpg",
+        "https://telegra.ph/file/984bb2e20c4cec8090f16.jpg",
+        "https://telegra.ph/file/c43107fe1505d59bf78c0.jpg",
+        "https://telegra.ph/file/785ef74b643787b1a7a92.jpg",
+        "https://telegra.ph/file/b1b885c26d6f98b1ea13a.jpg",
+        "https://telegra.ph/file/b5ee4acd9951cb18c8f2d.jpg",
+        "https://telegra.ph/file/43b5ba734ae4ebd51c8da.jpg",
+        "https://telegra.ph/file/7eded284c8368608dffcf.jpg",
+        "https://telegra.ph/file/2af9cc8f084f90d16fe4c.jpg",
+        "https://telegra.ph/file/96088a14adc36f793d27d.jpg",
+        "https://telegra.ph/file/060448e0dbc7af7e6312e.jpg",
+        "https://telegra.ph/file/22f3a95d58d0ccbd55df9.jpg",
+        "https://telegra.ph/file/37c250cc308067137b4ff.jpg",
+        "https://telegra.ph/file/7384eb74a7c71cdf858ec.jpg",
+        "https://telegra.ph/file/0a63abae63479792e6d3e.jpg",
+        "https://telegra.ph/file/3e8cd6e47eeb3cf9bb4b5.jpg",
+        "https://telegra.ph/file/17c70cf9f05aaeb264467.jpg",
+        "https://telegra.ph/file/fb658d7f8853035962e81.jpg",
+        "https://telegra.ph/file/19ef7ea2b6dd238d0b8cb.jpg",
+        "https://telegra.ph/file/dc47a5fec5111a4f3ca21.jpg",
+        "https://telegra.ph/file/f8dbbb6092bf38443901d.jpg",
+        "https://telegra.ph/file/f424238fcd836206383d0.jpg",
+        "https://telegra.ph/file/ad141c2ba1c2b4eae4099.jpg",
+        "https://telegra.ph/file/e40e8bd37877d7a87d3a7.jpg",
+        "https://telegra.ph/file/1f55160c8eb263ca839da.jpg",
+        "https://telegra.ph/file/2d05defe33f22bc1306c9.jpg",
+        "https://telegra.ph/file/41ffb0b81c1ccf88eae66.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

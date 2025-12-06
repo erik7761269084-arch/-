@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8767,
+    "title": "[HIGH RISK REVOLUTION (あいざわひろし)] さよなら、every (ラブプラス EVERY)",
+    "sourceUrl": "https://telegra.ph/HIGH-RISK-REVOLUTION-あいざわひろし-さよならevery-ラブプラス-EVERY-08-31",
+    "images": [
+        "https://telegra.ph/file/7c3cf3c2337009ff43358.jpg",
+        "https://telegra.ph/file/8d9350b3d559154498339.jpg",
+        "https://telegra.ph/file/65a102ef68747bb5b9775.jpg",
+        "https://telegra.ph/file/7dc6762ff2f7c4f93cafa.jpg",
+        "https://telegra.ph/file/0964d50fccbd00ded356e.jpg",
+        "https://telegra.ph/file/dec255912cab9a7b5e048.jpg",
+        "https://telegra.ph/file/9b3e80c856c9a3e25187e.jpg",
+        "https://telegra.ph/file/fd5108a1905f6ec430896.jpg",
+        "https://telegra.ph/file/715adcb592f7b9baa6ca6.jpg",
+        "https://telegra.ph/file/340f322be00d52005876f.jpg",
+        "https://telegra.ph/file/37b5657aefd59752e9442.jpg",
+        "https://telegra.ph/file/7e1d9177ec279accae85f.jpg",
+        "https://telegra.ph/file/0b2f87af9c1fd500d4374.jpg",
+        "https://telegra.ph/file/72ab7ad97b261d9bce7f5.jpg",
+        "https://telegra.ph/file/f71265b9b02769fe1e2bf.jpg",
+        "https://telegra.ph/file/4bc761f6324fd359791da.jpg",
+        "https://telegra.ph/file/ca2ef5be53d81d0b4681e.jpg",
+        "https://telegra.ph/file/58d3e2ffae689a2f0fcbb.jpg",
+        "https://telegra.ph/file/d30e16f854fce77334fe5.jpg",
+        "https://telegra.ph/file/0a292148d7280b11f2cd7.jpg",
+        "https://telegra.ph/file/9cee214cde08a1e13e31d.jpg",
+        "https://telegra.ph/file/c7a91528b7cbe09cdad5f.jpg",
+        "https://telegra.ph/file/92d855cd22104f98ad101.jpg",
+        "https://telegra.ph/file/8913cfec6d4f8f871786a.jpg",
+        "https://telegra.ph/file/f490249194c62a550e38c.jpg",
+        "https://telegra.ph/file/bd52139dc8a2c1d976fe1.jpg",
+        "https://telegra.ph/file/20e8e28af23ab8bbd8dda.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10402,
+    "title": "(秋葉原超同人祭) [こまめすがた (吾暮えくと)] つゆだくえっちの純狐さん (東方Project)",
+    "sourceUrl": "https://telegra.ph/秋葉原超同人祭-こまめすがた-吾暮えくと-つゆだくえっちの純狐さん-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/af0870ff910a8e85614d1.jpg",
+        "https://telegra.ph/file/4941cdf0bfe95788df678.jpg",
+        "https://telegra.ph/file/01180fb8e01d8f886ba67.jpg",
+        "https://telegra.ph/file/d37a55c5cfc322e0d4e02.jpg",
+        "https://telegra.ph/file/962a818b7d22447edb91e.jpg",
+        "https://telegra.ph/file/16e2258169f7a3282265b.jpg",
+        "https://telegra.ph/file/b637f8f5ac37fca3a8da2.jpg",
+        "https://telegra.ph/file/704fbc657753f6c7bd916.jpg",
+        "https://telegra.ph/file/9233f6dad959870d45e87.jpg",
+        "https://telegra.ph/file/8340006ba301cce2b51a9.jpg",
+        "https://telegra.ph/file/faadd0db296d4e4a0c877.jpg",
+        "https://telegra.ph/file/6cf242f07a1837da61cbc.jpg",
+        "https://telegra.ph/file/746956998a38de78c8866.jpg",
+        "https://telegra.ph/file/9ef1dcd026d6562f8d05f.jpg",
+        "https://telegra.ph/file/0d50ed86e51059da7a67e.jpg",
+        "https://telegra.ph/file/3041c6fd10b8bddec6e9a.jpg",
+        "https://telegra.ph/file/09c9f4535c3e3549ee50e.jpg",
+        "https://telegra.ph/file/cb267e5f77008413a4c55.jpg",
+        "https://telegra.ph/file/dde49e950a5dd0b0cfc11.jpg",
+        "https://telegra.ph/file/715ee8f8d766bb355b04c.jpg",
+        "https://telegra.ph/file/5937410e647c392b77992.jpg",
+        "https://telegra.ph/file/bde452031ae596a3520e4.jpg",
+        "https://telegra.ph/file/a09403986e5db0f78d191.jpg",
+        "https://telegra.ph/file/0273b66ce601cdc063616.jpg",
+        "https://telegra.ph/file/065dc9264636f2f1d34f6.jpg",
+        "https://telegra.ph/file/34215632bfbe53d9472c5.jpg",
+        "https://telegra.ph/file/5686e3419638c1f19daf1.jpg",
+        "https://telegra.ph/file/4e8fb0e1555da83f79a21.jpg",
+        "https://telegra.ph/file/0c514e033965ebbd72e08.jpg",
+        "https://telegra.ph/file/36108d72eb99999004bef.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

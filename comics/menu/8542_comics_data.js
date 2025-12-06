@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8542,
+    "title": "[たまたま山脈 (たまたぬき)] くノ一あざみが堕ちるまで",
+    "sourceUrl": "https://telegra.ph/たまたま山脈-たまたぬき-くノ一あざみが堕ちるまで-08-31",
+    "images": [
+        "https://telegra.ph/file/84e0c3c26f3ead683f632.jpg",
+        "https://telegra.ph/file/45991465ec82413e12e72.png",
+        "https://telegra.ph/file/6718eaf1e83df456a4215.jpg",
+        "https://telegra.ph/file/525b0f41004828417832b.jpg",
+        "https://telegra.ph/file/ffed491ee6f90119860c2.jpg",
+        "https://telegra.ph/file/dc56b8e84ea938bad3e41.jpg",
+        "https://telegra.ph/file/823733871439c67297f8b.jpg",
+        "https://telegra.ph/file/84d4fee6999710b5e4696.jpg",
+        "https://telegra.ph/file/54be7ecb4dfbe6becff9f.jpg",
+        "https://telegra.ph/file/ece8ca3a424892d24fec5.jpg",
+        "https://telegra.ph/file/ffa171fec6c13b1135f56.jpg",
+        "https://telegra.ph/file/d8de6779902d5fb544c26.jpg",
+        "https://telegra.ph/file/5f54eaa5fa64ffbd231b1.jpg",
+        "https://telegra.ph/file/7d647f12e611e909718fa.jpg",
+        "https://telegra.ph/file/d9779c7235cf8291300f1.jpg",
+        "https://telegra.ph/file/f4775ff0a42915b10a5a0.jpg",
+        "https://telegra.ph/file/f87529d9107599b267bb0.jpg",
+        "https://telegra.ph/file/d2c4765445b274bab39d9.jpg",
+        "https://telegra.ph/file/860d9781e53db1c63d779.jpg",
+        "https://telegra.ph/file/af7eb84cd48e7341bedce.jpg",
+        "https://telegra.ph/file/f0143c7fcfd0e32b9f0c7.jpg",
+        "https://telegra.ph/file/f471c55c583fa93fc6b90.jpg",
+        "https://telegra.ph/file/6561e49501218e7c88f59.jpg",
+        "https://telegra.ph/file/53b379862edd8bb19194e.jpg",
+        "https://telegra.ph/file/10c9cd21690fdb7c05493.jpg",
+        "https://telegra.ph/file/89b0b1aa36a7fd598dd03.jpg",
+        "https://telegra.ph/file/96f648f84b724b9ab6c75.jpg",
+        "https://telegra.ph/file/f4f154fc10f3267189a63.jpg",
+        "https://telegra.ph/file/07787145fa2ab4470654f.jpg",
+        "https://telegra.ph/file/3ea55446ced44c51935f5.png",
+        "https://telegra.ph/file/e2cec7983632e602be8f3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

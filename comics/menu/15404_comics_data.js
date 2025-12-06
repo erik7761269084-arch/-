@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15404,
+    "title": "(僕らのラブライブ! 36) [帰宅時間 (きたく)] 虹色劇場へようこそ♡ (ラブライブ! 虹ヶ咲学園スクールアイドル同好会)",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-36-帰宅時間-きたく-虹色劇場へようこそ-ラブライブ-虹ヶ咲学園スクールアイドル同好会-08-31",
+    "images": [
+        "https://telegra.ph/file/6ee096818d70d4f0464be.jpg",
+        "https://telegra.ph/file/1d0440a083a25099a30cd.jpg",
+        "https://telegra.ph/file/3e6513265a0186b787925.jpg",
+        "https://telegra.ph/file/a4d666236658e10db8264.jpg",
+        "https://telegra.ph/file/6114ef06f080d9cfe607a.jpg",
+        "https://telegra.ph/file/e45b08ba44d0312177491.jpg",
+        "https://telegra.ph/file/bba4407a48872f5b7e0cd.jpg",
+        "https://telegra.ph/file/6818a7f49119aa95cc671.jpg",
+        "https://telegra.ph/file/ce94bfbd11265fca1163f.jpg",
+        "https://telegra.ph/file/0072237e15e98f4b5e336.jpg",
+        "https://telegra.ph/file/5cc51fefaef293dd49425.jpg",
+        "https://telegra.ph/file/6d7a1155f78ca0e7e1f55.jpg",
+        "https://telegra.ph/file/80809c1fcea2389805839.jpg",
+        "https://telegra.ph/file/fc260b7950fbdb1a4e85d.jpg",
+        "https://telegra.ph/file/1169741e8e541080b4275.jpg",
+        "https://telegra.ph/file/1d1c23d076527c21dbcf3.jpg",
+        "https://telegra.ph/file/76334095b3dca6c0fa4b4.jpg",
+        "https://telegra.ph/file/c03e88993e038bb817a7a.jpg",
+        "https://telegra.ph/file/81628db4ecdc370eb54a6.jpg",
+        "https://telegra.ph/file/85671e1d2238695aa5948.jpg",
+        "https://telegra.ph/file/f00370bcfd3954d6a479e.jpg",
+        "https://telegra.ph/file/57cdb12133142767535bc.jpg",
+        "https://telegra.ph/file/32871394cde4a6fe7d66b.jpg",
+        "https://telegra.ph/file/b275e5eb584e1738b4901.jpg",
+        "https://telegra.ph/file/305e786886603e1f3810c.jpg",
+        "https://telegra.ph/file/8457186746d70722176ff.jpg",
+        "https://telegra.ph/file/0201c5c50151c9c50b7fd.jpg",
+        "https://telegra.ph/file/8c74643b0a62029e7f78c.jpg",
+        "https://telegra.ph/file/b43e4b94372e32b136d5e.jpg",
+        "https://telegra.ph/file/78caa04716787974ccc25.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

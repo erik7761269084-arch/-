@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10344,
+    "title": "[アガタ] JKイタズラ大逆転々々～姉ちゃんのスカートめくって童貞喪失～ (COMIC アナンガ・ランガ Vol. 29)",
+    "sourceUrl": "https://telegra.ph/アガタ-JKイタズラ大逆転々々姉ちゃんのスカートめくって童貞喪失-COMIC-アナンガランガ-Vol-29-08-31",
+    "images": [
+        "https://telegra.ph/file/23c0ea232ddaf0e4cf08a.jpg",
+        "https://telegra.ph/file/68e2bd14c0c0b723d5014.jpg",
+        "https://telegra.ph/file/c7745339428bda4af02ab.jpg",
+        "https://telegra.ph/file/00858f2bf1b22e082d546.jpg",
+        "https://telegra.ph/file/3418bfeb9dabb6df7ea97.jpg",
+        "https://telegra.ph/file/90392f9976ab27d29d11c.jpg",
+        "https://telegra.ph/file/fed578b42b1bd253bd069.jpg",
+        "https://telegra.ph/file/bc3840e9ff767bde3c188.jpg",
+        "https://telegra.ph/file/0278faf3fad8d915be234.jpg",
+        "https://telegra.ph/file/cd745c5886feeff2c0b24.jpg",
+        "https://telegra.ph/file/4570720052f9d9aeec2b5.jpg",
+        "https://telegra.ph/file/6505e370f3b29ae8a3734.jpg",
+        "https://telegra.ph/file/ce7413131dac447babccc.jpg",
+        "https://telegra.ph/file/561408723f21412f41a13.jpg",
+        "https://telegra.ph/file/f456c4a5d30c6cc9ed615.jpg",
+        "https://telegra.ph/file/012b0018c952b8341fc0b.jpg",
+        "https://telegra.ph/file/a0d9fb75ae62b428b49ed.jpg",
+        "https://telegra.ph/file/dae01397f58d77afd1dc5.jpg",
+        "https://telegra.ph/file/4e882508e0d1dbab2432f.jpg",
+        "https://telegra.ph/file/2c2fdcdc5b51f9e272a69.jpg",
+        "https://telegra.ph/file/0ad2e35f7bd524a33b174.jpg",
+        "https://telegra.ph/file/100a8c52c8d2c0ea1b509.jpg",
+        "https://telegra.ph/file/9850e6c4ec34675f6a9d9.jpg",
+        "https://telegra.ph/file/24d2fbb1382871bd27744.jpg",
+        "https://telegra.ph/file/3fa560c63927a063c86ed.jpg",
+        "https://telegra.ph/file/d352e130aba2aa08f5dfd.jpg",
+        "https://telegra.ph/file/da7db38ee690e70a357d9.jpg",
+        "https://telegra.ph/file/56919c740589022ed6f68.jpg",
+        "https://telegra.ph/file/2720811b8f0382d2c358b.jpg",
+        "https://telegra.ph/file/51ee3cf7a3a156389f97f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

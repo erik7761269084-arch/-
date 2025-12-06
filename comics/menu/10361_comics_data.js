@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10361,
+    "title": "[越山弱衰] ミステリーボックス -秘蜜の箱- (COMIC アンスリウム 2020年10月号)",
+    "sourceUrl": "https://telegra.ph/越山弱衰-ミステリーボックス--秘蜜の箱--COMIC-アンスリウム-2020年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/51e05f34b952cf24a8728.jpg",
+        "https://telegra.ph/file/432e185e1d0203b25b292.jpg",
+        "https://telegra.ph/file/4d0158ca5d83817041163.jpg",
+        "https://telegra.ph/file/ba214c5eb504388a6e3b2.jpg",
+        "https://telegra.ph/file/41ee90a20a3aac85da183.jpg",
+        "https://telegra.ph/file/891fa5b5fa85cffc2d6b7.jpg",
+        "https://telegra.ph/file/32b99bd02fe4916f7d9f4.jpg",
+        "https://telegra.ph/file/900caa0d7acd36d6cc4ad.jpg",
+        "https://telegra.ph/file/0f9376c5c36bd43892add.jpg",
+        "https://telegra.ph/file/28627de508709450d4561.jpg",
+        "https://telegra.ph/file/ad693b39da55de43c823b.jpg",
+        "https://telegra.ph/file/f55abc5d007eab01d6fc6.jpg",
+        "https://telegra.ph/file/37d5361e1f2d8c0a79c03.jpg",
+        "https://telegra.ph/file/ff164856722a8dd960b84.jpg",
+        "https://telegra.ph/file/2cfae419909e49a6d8d22.jpg",
+        "https://telegra.ph/file/f75632eea113d1b3afe65.jpg",
+        "https://telegra.ph/file/9217898f84b2aa51d51e6.jpg",
+        "https://telegra.ph/file/475ef00e0844a17dddc9f.jpg",
+        "https://telegra.ph/file/1188e82d56164412ecae0.jpg",
+        "https://telegra.ph/file/9fac2ca17ba4662a21823.jpg",
+        "https://telegra.ph/file/c5c7d31324d4a8ba83cdd.jpg",
+        "https://telegra.ph/file/3858c8d90beee744a3a98.jpg",
+        "https://telegra.ph/file/04e73b9d49e36a84c74d5.jpg",
+        "https://telegra.ph/file/fdad21e1ffa6a474e6793.jpg",
+        "https://telegra.ph/file/a91689ea3b49596a9efe0.jpg",
+        "https://telegra.ph/file/ee5e2d82bbdc0c9ba98a7.jpg",
+        "https://telegra.ph/file/4293259ac3273afe3483f.jpg",
+        "https://telegra.ph/file/f5212cc94ec2873bd2c98.jpg",
+        "https://telegra.ph/file/3446f35589afd6bb5176a.jpg",
+        "https://telegra.ph/file/8d1f911a3f917fd670b60.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

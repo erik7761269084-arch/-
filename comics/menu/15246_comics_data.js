@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15246,
+    "title": "[KUZUMOCHI (屑コウ)] ルビまるSTEP UP (ラブライブ! サンシャイン!!)",
+    "sourceUrl": "https://telegra.ph/KUZUMOCHI-屑コウ-ルビまるSTEP-UP-ラブライブ-サンシャイン-08-31",
+    "images": [
+        "https://telegra.ph/file/05cf63ffcc1507fba4a9d.jpg",
+        "https://telegra.ph/file/78c2f10e9cf33fd7ed20e.jpg",
+        "https://telegra.ph/file/8e9f3cb3481bc442ab1f9.jpg",
+        "https://telegra.ph/file/5764a90040bb4895aa3d1.jpg",
+        "https://telegra.ph/file/33865f6631aa1ed91731a.jpg",
+        "https://telegra.ph/file/ec188ee6ab7f74e3fe177.jpg",
+        "https://telegra.ph/file/2faf602735578441d956c.jpg",
+        "https://telegra.ph/file/1ca7d5fc104aefeef0317.jpg",
+        "https://telegra.ph/file/35c82d4c0e44e4a183346.jpg",
+        "https://telegra.ph/file/829f6ebf40862f289d5ef.jpg",
+        "https://telegra.ph/file/545b55772c55f257bbb4c.jpg",
+        "https://telegra.ph/file/e4baaabe27b196b1dc25d.jpg",
+        "https://telegra.ph/file/692d4cf47cd696f08b376.jpg",
+        "https://telegra.ph/file/4cba9b10917c8ff30edc8.jpg",
+        "https://telegra.ph/file/6e5341c4612977c73c2a6.jpg",
+        "https://telegra.ph/file/defbb00aa350084e81ee4.jpg",
+        "https://telegra.ph/file/e233c14ae4bc686547e51.jpg",
+        "https://telegra.ph/file/69836f8b73da7decc2f40.jpg",
+        "https://telegra.ph/file/ab0bddf58cc11f8f11c6e.jpg",
+        "https://telegra.ph/file/995734017fe32d3ec2fab.jpg",
+        "https://telegra.ph/file/63ca8516016ce9dcb1d09.jpg",
+        "https://telegra.ph/file/3475e04a15bdcf738f6b8.jpg",
+        "https://telegra.ph/file/80f0cb2ebf92a82fc1a9d.jpg",
+        "https://telegra.ph/file/9088f0a7a0750d86782d1.jpg",
+        "https://telegra.ph/file/a775d3edc58bc08545c2d.jpg",
+        "https://telegra.ph/file/094a8e787e77d4a8ad10d.jpg",
+        "https://telegra.ph/file/09cffdf24dcb5d82f31e3.jpg",
+        "https://telegra.ph/file/36ee944e3847bef668414.jpg",
+        "https://telegra.ph/file/3743158760a55cff42d46.jpg",
+        "https://telegra.ph/file/0972fe4ac914e14b609e4.jpg",
+        "https://telegra.ph/file/3e6f733929b68ec1d2357.jpg",
+        "https://telegra.ph/file/3630cd8fc27558927837f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

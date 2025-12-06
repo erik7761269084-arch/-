@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12675,
+    "title": "[あつがり義勇軍 (みりしゃ)] 艦隊悪堕ち計画～榛名編～ (艦隊これくしょん -艦これ-)",
+    "sourceUrl": "https://telegra.ph/あつがり義勇軍-みりしゃ-艦隊悪堕ち計画榛名編-艦隊これくしょん--艦これ-08-31",
+    "images": [
+        "https://telegra.ph/file/f74fc60376a806da18719.jpg",
+        "https://telegra.ph/file/93efddb4a6721265cd239.jpg",
+        "https://telegra.ph/file/9612ddf62655100dc852f.jpg",
+        "https://telegra.ph/file/0072bf0868f6abeec7dd8.jpg",
+        "https://telegra.ph/file/20493286687c3de086358.jpg",
+        "https://telegra.ph/file/7b63a056dd5205756149c.jpg",
+        "https://telegra.ph/file/a1f69e9cfceb2b7018f1b.jpg",
+        "https://telegra.ph/file/db5ec7fac1d3b337fafde.jpg",
+        "https://telegra.ph/file/30568189677bb05529fc3.jpg",
+        "https://telegra.ph/file/3c138c597c319e4967fa6.jpg",
+        "https://telegra.ph/file/07ef683a720e73b7ba461.jpg",
+        "https://telegra.ph/file/398b447cd43765c45be49.jpg",
+        "https://telegra.ph/file/c7a131365bdbde4f364d1.jpg",
+        "https://telegra.ph/file/0a7e357375a75946b0a4c.jpg",
+        "https://telegra.ph/file/d0b9d14304e46a149fd9d.jpg",
+        "https://telegra.ph/file/be320f5a9e71a7449eb5b.jpg",
+        "https://telegra.ph/file/929e93db1e1e17714bddb.jpg",
+        "https://telegra.ph/file/ba55385ad4dc08901304d.jpg",
+        "https://telegra.ph/file/eda1f17d6ba7686beb86b.jpg",
+        "https://telegra.ph/file/0cc865eda273601c00df2.jpg",
+        "https://telegra.ph/file/fa02b3975f72df209b870.jpg",
+        "https://telegra.ph/file/605a61798b49e6e5baeb9.jpg",
+        "https://telegra.ph/file/7d911c19165d8d9fa50d8.jpg",
+        "https://telegra.ph/file/a55dbf56d7b1599e8ced8.jpg",
+        "https://telegra.ph/file/bc6f612109a3f1f6bfeec.jpg",
+        "https://telegra.ph/file/d54f911d0a493734288f0.jpg",
+        "https://telegra.ph/file/6277afe882b7a6243acbd.jpg",
+        "https://telegra.ph/file/e81a3ca06612173e500e0.jpg",
+        "https://telegra.ph/file/dd0db88c5341b70ebc19f.jpg",
+        "https://telegra.ph/file/3ee0062ea5fc94be0289f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

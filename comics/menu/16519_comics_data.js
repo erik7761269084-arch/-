@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16519,
+    "title": "[弩助平百合帝国 (スズオ)] 女同士のセックスが見たかっただけなのに私もすることになったんだが!  -Preview",
+    "sourceUrl": "https://telegra.ph/弩助平百合帝国-スズオ-女同士のセックスが見たかっただけなのに私もすることになったんだが--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3286795/a380842619/001.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/002.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/003.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/004.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/005.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/006.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/007.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/008.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/009.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/010.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/011.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/012.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/013.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/014.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/015.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/016.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/017.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/018.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/019.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/020.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/021.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/022.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/023.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/024.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/025.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/026.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/027.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/028.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/029.webp",
+        "https://i2.linghua.xyz/ex/3286795/a380842619/030.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

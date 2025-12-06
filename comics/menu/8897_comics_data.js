@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8897,
+    "title": "[毒虫処刑隊 (金田麻生)] Prince ＆ Dancer-褐色の踊り姫は金髪王子に付き従う-",
+    "sourceUrl": "https://telegra.ph/毒虫処刑隊-金田麻生-Prince--Dancer-褐色の踊り姫は金髪王子に付き従う-08-31",
+    "images": [
+        "https://telegra.ph/file/ce6d3bbc9db834b24bbfc.jpg",
+        "https://telegra.ph/file/3fc1fb2c09ec9aed9a0ab.jpg",
+        "https://telegra.ph/file/16659b6dbe4475f3af581.jpg",
+        "https://telegra.ph/file/2deb98c7a910c6b579bda.jpg",
+        "https://telegra.ph/file/a02fc744cd95d11b4950e.jpg",
+        "https://telegra.ph/file/22c7f175900cdbb3859fd.jpg",
+        "https://telegra.ph/file/c53ffb821dabba620b4d0.jpg",
+        "https://telegra.ph/file/18e794cef81277eca3e89.jpg",
+        "https://telegra.ph/file/2d09766915eec99bd1bc9.jpg",
+        "https://telegra.ph/file/f110c9ff87546e14ce639.jpg",
+        "https://telegra.ph/file/6d865089e7eacddd3cb1b.jpg",
+        "https://telegra.ph/file/b673e72e9e9d06072ef15.jpg",
+        "https://telegra.ph/file/dad58f6fc4687355d0c07.jpg",
+        "https://telegra.ph/file/5a19966b2beec724bfc4a.jpg",
+        "https://telegra.ph/file/21b927eb04cc607081f5d.jpg",
+        "https://telegra.ph/file/cf00d09109d6fa94cc9ed.jpg",
+        "https://telegra.ph/file/91ba4a691fa697ac40d0c.jpg",
+        "https://telegra.ph/file/0636daabd572191f93b44.jpg",
+        "https://telegra.ph/file/fc6dd59f720eca9d9af97.jpg",
+        "https://telegra.ph/file/30a6e6cc1e12ffd95c910.jpg",
+        "https://telegra.ph/file/de1ffa52c451df74841a5.jpg",
+        "https://telegra.ph/file/3d4d994baa610d5cb7160.jpg",
+        "https://telegra.ph/file/6de70b7dd9b13bd6ff350.jpg",
+        "https://telegra.ph/file/d57e15bc42add6fc8f0a7.jpg",
+        "https://telegra.ph/file/4b381f9cad3e1a463c4bd.jpg",
+        "https://telegra.ph/file/f0b61bd5a10796114251c.jpg",
+        "https://telegra.ph/file/08d23ecf000d7b7afd22e.jpg",
+        "https://telegra.ph/file/6817c74e1c16a4c541272.jpg",
+        "https://telegra.ph/file/83a226a9cf47834c7b264.jpg",
+        "https://telegra.ph/file/1666c8077832fc640a1a6.jpg",
+        "https://telegra.ph/file/9707031b39f825b685df4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

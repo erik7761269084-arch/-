@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10675,
+    "title": "(C97) [星間ヒッチハイカー (劔城藍)] SHG:07 (Fate/kaleid liner プリズマ☆イリヤ)",
+    "sourceUrl": "https://telegra.ph/C97-星間ヒッチハイカー-劔城藍-SHG07-Fatekaleid-liner-プリズマイリヤ-08-31",
+    "images": [
+        "https://telegra.ph/file/3045dcd93eb24396a5b81.jpg",
+        "https://telegra.ph/file/b0a42001e32b8b23bf53b.jpg",
+        "https://telegra.ph/file/af9558627ae00d90de150.jpg",
+        "https://telegra.ph/file/b3030995815a8cdea156f.jpg",
+        "https://telegra.ph/file/33abb8a5165b43acc6878.jpg",
+        "https://telegra.ph/file/91dfbf26ca7406f7f8714.jpg",
+        "https://telegra.ph/file/c63e92da0c0b2d91e6d31.jpg",
+        "https://telegra.ph/file/04e7dc4a97b6414404979.jpg",
+        "https://telegra.ph/file/8d74b53de3d55acace017.jpg",
+        "https://telegra.ph/file/7cc7c1e45c4180451498b.jpg",
+        "https://telegra.ph/file/53d308fed76cd137c8274.jpg",
+        "https://telegra.ph/file/f09d6d0de4ac457955b3f.jpg",
+        "https://telegra.ph/file/5665d5733942f08d0b3e9.jpg",
+        "https://telegra.ph/file/fb382bb56bdc74db44525.jpg",
+        "https://telegra.ph/file/1c240dc239d7b99a2f3c8.jpg",
+        "https://telegra.ph/file/de25588a4a509e1a96273.jpg",
+        "https://telegra.ph/file/fdb903b862c07aa88cdd1.jpg",
+        "https://telegra.ph/file/d18b153323a06e88de002.jpg",
+        "https://telegra.ph/file/66eeb04bcb0a3568ec684.jpg",
+        "https://telegra.ph/file/8cf41240b991e550070d6.jpg",
+        "https://telegra.ph/file/bea6b4d650ffc7ec349ef.jpg",
+        "https://telegra.ph/file/6dbfdb2ef4a40ab53e49d.jpg",
+        "https://telegra.ph/file/369280c5d768c5944780b.jpg",
+        "https://telegra.ph/file/8fec2da9a49ef9d90ace0.jpg",
+        "https://telegra.ph/file/492265db669b14fe03ee7.jpg",
+        "https://telegra.ph/file/f107be5f2c55b92701972.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

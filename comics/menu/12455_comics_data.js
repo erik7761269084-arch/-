@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12455,
+    "title": "(例大祭15) [ちんちん亭 (chin)] 催眠早苗ママに好き放題 (東方Project)",
+    "sourceUrl": "https://telegra.ph/例大祭15-ちんちん亭-chin-催眠早苗ママに好き放題-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/9e7ed8450b7b6af546101.jpg",
+        "https://telegra.ph/file/ed6f5ff12d90e01ebb087.jpg",
+        "https://telegra.ph/file/3c3599d2f7536956643d5.jpg",
+        "https://telegra.ph/file/39873dd1dd542add77935.jpg",
+        "https://telegra.ph/file/2ea82443560f5bcc9543b.jpg",
+        "https://telegra.ph/file/a0f3a5a88f8ad14089822.jpg",
+        "https://telegra.ph/file/8b629dff86c3bb46bdf8a.jpg",
+        "https://telegra.ph/file/91a452d771196bab440db.jpg",
+        "https://telegra.ph/file/fa099addc39c859f50f2d.jpg",
+        "https://telegra.ph/file/66ecbb23e7184f9000fd0.jpg",
+        "https://telegra.ph/file/1dc36ccee4fb2ecd6ec21.jpg",
+        "https://telegra.ph/file/d469041ab4fcbb21fdc03.jpg",
+        "https://telegra.ph/file/68da6a12a12b825ac9f7e.jpg",
+        "https://telegra.ph/file/950965badc4c8775e2cce.jpg",
+        "https://telegra.ph/file/5d37105b8ee382f79decc.jpg",
+        "https://telegra.ph/file/b8bf8fdc451b78645b974.jpg",
+        "https://telegra.ph/file/98a2ced931385e255d447.jpg",
+        "https://telegra.ph/file/cf8f331b1e54d8ee8e8b6.jpg",
+        "https://telegra.ph/file/2690b2b7becd9296e117f.jpg",
+        "https://telegra.ph/file/9495b1d62fc6e06f06957.jpg",
+        "https://telegra.ph/file/519327a307db4de302753.jpg",
+        "https://telegra.ph/file/d45fb741fd588edbb8cc4.jpg",
+        "https://telegra.ph/file/ca58fd32be58ba98b4ef6.jpg",
+        "https://telegra.ph/file/f370f74aa2e0b57039371.jpg",
+        "https://telegra.ph/file/ffab2f5f6da40af331ec3.jpg",
+        "https://telegra.ph/file/9aa8578e5336b1a36d233.jpg",
+        "https://telegra.ph/file/f7a92c131b9da4993ad8b.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

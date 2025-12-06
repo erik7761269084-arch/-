@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11210,
+    "title": "[Fatalpulse (朝凪)] VictimGirls21 牧場：HAPPY END (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/Fatalpulse-朝凪-VictimGirls21-牧場HAPPY-END-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/c7d19634c1dd4bf9545b3.jpg",
+        "https://telegra.ph/file/581652cbcb28a8c0f029e.jpg",
+        "https://telegra.ph/file/7a1f4f42419795e34d855.jpg",
+        "https://telegra.ph/file/46e6138f9a5a9bb3f3f30.jpg",
+        "https://telegra.ph/file/02fc0d96d680a97eca0b4.jpg",
+        "https://telegra.ph/file/b904b174da26eda97564f.jpg",
+        "https://telegra.ph/file/e4c15dfc957ca31cce678.jpg",
+        "https://telegra.ph/file/077104ba250fefafe6133.jpg",
+        "https://telegra.ph/file/61cbc5a0f626c7374ffa0.jpg",
+        "https://telegra.ph/file/b099ec62a879f54d59cde.jpg",
+        "https://telegra.ph/file/dae81e476f8d897e8d65f.jpg",
+        "https://telegra.ph/file/7daab03b0ff865f56eaba.jpg",
+        "https://telegra.ph/file/8c0a926d937d1d5b0cd34.jpg",
+        "https://telegra.ph/file/aa17323440bec4878e0c7.jpg",
+        "https://telegra.ph/file/ea83a30c28a20b756806e.jpg",
+        "https://telegra.ph/file/3a21a88016aa51b1789b3.jpg",
+        "https://telegra.ph/file/b5696744a9d0f5b4497d9.jpg",
+        "https://telegra.ph/file/098828f6cf1d6c59cc3e3.jpg",
+        "https://telegra.ph/file/a44e7bb48637334a0e7e2.jpg",
+        "https://telegra.ph/file/b8272efec7e04a31a3874.jpg",
+        "https://telegra.ph/file/dcaf31e68ad78d4f98468.jpg",
+        "https://telegra.ph/file/0090353ed16173958a1f9.jpg",
+        "https://telegra.ph/file/fcfd75668455e9e3ccfe9.jpg",
+        "https://telegra.ph/file/a17a86d4a79ad8c7f2628.jpg",
+        "https://telegra.ph/file/142bbd33e2a413ae7cd66.jpg",
+        "https://telegra.ph/file/acd1241d87e67b3fe0d17.jpg",
+        "https://telegra.ph/file/f1146b16707a57bb516cb.jpg",
+        "https://telegra.ph/file/21520509f03166d086017.png",
+        "https://telegra.ph/file/dd43f784ade9cb85537b2.jpg",
+        "https://telegra.ph/file/69158af6dd0168aeef618.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

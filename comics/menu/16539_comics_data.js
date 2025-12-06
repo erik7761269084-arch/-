@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16539,
+    "title": "[VENOM (或十せねか、Rusty Soul)] ゆるゆる (ゆるゆり)  -Preview",
+    "sourceUrl": "https://telegra.ph/VENOM-或十せねかRusty-Soul-ゆるゆる-ゆるゆり--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/0.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/1.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/2.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/3.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/4.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/5.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/6.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/7.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/8.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/9.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/10.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/11.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/12.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/13.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/14.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/15.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/16.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/17.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/18.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/19.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/20.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/21.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/22.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/23.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/24.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/25.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/26.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/27.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/28.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/29.webp",
+        "https://i2.linghua.xyz/ex/3317014/cbcd8ce0e7/30.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

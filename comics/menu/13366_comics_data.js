@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13366,
+    "title": "[ERECT TOUCH (エレクトさわる)] ちょいブサだけど身体はエロいセフレレイヤーと乱交撮影会 (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/ERECT-TOUCH-エレクトさわる-ちょいブサだけど身体はエロいセフレレイヤーと乱交撮影会-ブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/720aee4c3d0f71d0d4850.jpg",
+        "https://telegra.ph/file/61131f719000032b00cc7.jpg",
+        "https://telegra.ph/file/416541bfa36796572eaea.jpg",
+        "https://telegra.ph/file/9208eb197a1483067be3f.jpg",
+        "https://telegra.ph/file/10d3636b2761450929567.jpg",
+        "https://telegra.ph/file/e97588b55c4c2f0cf4f7e.jpg",
+        "https://telegra.ph/file/bcbac07925c700b6c9538.jpg",
+        "https://telegra.ph/file/ae84017d0f6b15cfcec13.jpg",
+        "https://telegra.ph/file/91902c3bce09d742f4843.jpg",
+        "https://telegra.ph/file/1d800adaff4873bab94ac.jpg",
+        "https://telegra.ph/file/58f7f2a0d14af0b9f1aeb.jpg",
+        "https://telegra.ph/file/ef552ac55ca9f631dd830.jpg",
+        "https://telegra.ph/file/0c2fa0c136ec1c7f7a4b9.jpg",
+        "https://telegra.ph/file/460d45819f853e07fb98a.jpg",
+        "https://telegra.ph/file/2340e3ab1b7576568ff13.jpg",
+        "https://telegra.ph/file/ca6081ef90250506c26b1.jpg",
+        "https://telegra.ph/file/ff0cfb28771dd39252509.jpg",
+        "https://telegra.ph/file/01670da3b43f5f83a42f2.jpg",
+        "https://telegra.ph/file/8ffcda3e8abe731ec5728.jpg",
+        "https://telegra.ph/file/28dc7dc63836474ea5b93.jpg",
+        "https://telegra.ph/file/7faedc9c82d358b447115.jpg",
+        "https://telegra.ph/file/130bd340619c9cdc00dfb.jpg",
+        "https://telegra.ph/file/3e71016fb2dd48cf32ed7.jpg",
+        "https://telegra.ph/file/3185e1a6792eec2267449.jpg",
+        "https://telegra.ph/file/b4b9f867b0bfee26a6046.jpg",
+        "https://telegra.ph/file/c8111cc68613ac6f44936.jpg",
+        "https://telegra.ph/file/908a96d16ba28c938e3bd.jpg",
+        "https://telegra.ph/file/a2c0f0daf3945ca16a547.jpg",
+        "https://telegra.ph/file/5d8188e13aaf24c8e91e3.jpg",
+        "https://telegra.ph/file/41ae4345258587a16d035.jpg",
+        "https://telegra.ph/file/83effebeb432109d97c04.jpg",
+        "https://telegra.ph/file/3013eafda018c442d1614.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

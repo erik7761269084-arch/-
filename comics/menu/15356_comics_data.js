@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15356,
+    "title": "[Takanashi Ringo] Cynical Dog  [片羽汉化组]",
+    "sourceUrl": "https://telegra.ph/Takanashi-Ringo-Cynical-Dog-片羽汉化组-08-31",
+    "images": [
+        "https://telegra.ph/file/981007062bf90f34f22f3.jpg",
+        "https://telegra.ph/file/5356f8190778380d2d73b.jpg",
+        "https://telegra.ph/file/05dd35009e266601ef9a9.jpg",
+        "https://telegra.ph/file/7e06a41bd1c26d86f8a85.jpg",
+        "https://telegra.ph/file/e6e6774f725bb0e2dff4d.jpg",
+        "https://telegra.ph/file/f324cd5e8f97124315ccd.jpg",
+        "https://telegra.ph/file/3e70be79bc8712ca9d1f1.jpg",
+        "https://telegra.ph/file/6514a91006ff145a43114.jpg",
+        "https://telegra.ph/file/3eedc91a19c1f02894ef9.jpg",
+        "https://telegra.ph/file/7fa486aeed7496c239e75.jpg",
+        "https://telegra.ph/file/e61b691bc0621ae76c69c.jpg",
+        "https://telegra.ph/file/6e21ff032017a067915a8.jpg",
+        "https://telegra.ph/file/0fa859b026b0881f889d2.jpg",
+        "https://telegra.ph/file/4cad67eef7b5034b72b9c.jpg",
+        "https://telegra.ph/file/8bb1888e89d363d8ddfff.jpg",
+        "https://telegra.ph/file/d627cafd506a086983ad3.jpg",
+        "https://telegra.ph/file/5421dfcbe435de0a6c8fd.jpg",
+        "https://telegra.ph/file/ddfcd789d743ef7fb8acc.jpg",
+        "https://telegra.ph/file/ba7b32c5087360ab7b7ba.jpg",
+        "https://telegra.ph/file/d8898d0a03bc06f4f14ab.jpg",
+        "https://telegra.ph/file/fb1d17669212db1c87c2f.jpg",
+        "https://telegra.ph/file/9024897f905ec86f798e0.jpg",
+        "https://telegra.ph/file/c5e86c348820d830053d5.jpg",
+        "https://telegra.ph/file/1557d6cbc0f06014bd979.jpg",
+        "https://telegra.ph/file/be34f5ba7d9e3fb309780.jpg",
+        "https://telegra.ph/file/3adbac7bfa9ccda0e64b0.jpg",
+        "https://telegra.ph/file/e5e6c618577e7d89d0d4c.jpg",
+        "https://telegra.ph/file/63b73e6c43875f055a847.jpg",
+        "https://telegra.ph/file/4af8851de62020f007576.jpg",
+        "https://telegra.ph/file/c0b619f973baab7b31392.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

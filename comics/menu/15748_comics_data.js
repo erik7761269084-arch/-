@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15748,
+    "title": "(C88) [Sleeper (猫村)] 融点40℃の恋人 (艦隊これくしょん -艦これ-)-Preview",
+    "sourceUrl": "https://telegra.ph/C88-Sleeper-猫村-融点40の恋人-艦隊これくしょん--艦これ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/7db2884afa6f187ec7b8a.jpg",
+        "https://telegra.ph/file/7468babd4478960c00970.jpg",
+        "https://telegra.ph/file/1fcfccf11a6d045a33ac6.jpg",
+        "https://telegra.ph/file/1b6925d4f5e57c06ac197.jpg",
+        "https://telegra.ph/file/9098a336a3dddb5eccc45.jpg",
+        "https://telegra.ph/file/02ea83c7e087ef6e360e3.jpg",
+        "https://telegra.ph/file/5b2270eb8816328abe203.jpg",
+        "https://telegra.ph/file/b5eb5c264e6dcd4f832ac.jpg",
+        "https://telegra.ph/file/e876cef54a32410c6c674.jpg",
+        "https://telegra.ph/file/a944c238e8670dc008c40.jpg",
+        "https://telegra.ph/file/7280fc01127273f32bb86.jpg",
+        "https://telegra.ph/file/1ae1737b9e236323f7617.jpg",
+        "https://telegra.ph/file/97ea44a1191288bb5718d.jpg",
+        "https://telegra.ph/file/03ff0b6b399f6b1803e36.jpg",
+        "https://telegra.ph/file/a03ec6ece66d591df2b7f.jpg",
+        "https://telegra.ph/file/40a9f7fcf637596e04781.jpg",
+        "https://telegra.ph/file/41621fcb9b65402927d0d.jpg",
+        "https://telegra.ph/file/e88759c1580f7cda47f5e.jpg",
+        "https://telegra.ph/file/6db6647e246a5c9c1b10e.jpg",
+        "https://telegra.ph/file/cfd5ea54033feed071e2f.jpg",
+        "https://telegra.ph/file/6b02c3d029b8d27fd9ef0.jpg",
+        "https://telegra.ph/file/04cc87841cd1695d9bda8.jpg",
+        "https://telegra.ph/file/5da102d32e2bd4dec5284.jpg",
+        "https://telegra.ph/file/fd08021393761ca7f0d76.jpg",
+        "https://telegra.ph/file/cfda1a356997e35f4e3db.jpg",
+        "https://telegra.ph/file/280884d0f381e9ef508a3.jpg",
+        "https://telegra.ph/file/a78574b96f362ddab52ec.jpg",
+        "https://telegra.ph/file/669ad1ad376f4bcad6598.jpg",
+        "https://telegra.ph/file/0b780fb71c602bae96056.jpg",
+        "https://telegra.ph/file/e76d27931bf8863543be0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

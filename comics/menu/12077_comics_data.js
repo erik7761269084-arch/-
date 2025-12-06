@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12077,
+    "title": "[異郷 (山崎かな)] アビーと秘密の撮影会 (Fate/Grand Order) [2019年1月5日]",
+    "sourceUrl": "https://telegra.ph/異郷-山崎かな-アビーと秘密の撮影会-FateGrand-Order-2019年1月5日-08-31",
+    "images": [
+        "https://telegra.ph/file/b7c2151392db1817ddc3d.jpg",
+        "https://telegra.ph/file/953b5477973f968bd8242.jpg",
+        "https://telegra.ph/file/3d0ae02c0113204ea1aa2.jpg",
+        "https://telegra.ph/file/6da507570a99a7e69b5c6.jpg",
+        "https://telegra.ph/file/fb94fd03db76364f9c91a.jpg",
+        "https://telegra.ph/file/c86f46fa089dc8805bfa3.jpg",
+        "https://telegra.ph/file/7db18501769c98149846d.jpg",
+        "https://telegra.ph/file/2a0acd2ec3be9900da515.jpg",
+        "https://telegra.ph/file/c884145329a66deb28284.jpg",
+        "https://telegra.ph/file/2cf7f4f3b9170feb0e1be.jpg",
+        "https://telegra.ph/file/c3a75058dfd466afdfb5a.jpg",
+        "https://telegra.ph/file/3e5d6a7ca67561f183458.jpg",
+        "https://telegra.ph/file/345705c84148d754e1d0b.jpg",
+        "https://telegra.ph/file/5e1b783a70a2c3e851de4.jpg",
+        "https://telegra.ph/file/28471df574746f8fa27bf.jpg",
+        "https://telegra.ph/file/6102f987f2a2436c668ad.jpg",
+        "https://telegra.ph/file/9388acb3c0e77f8d5b832.jpg",
+        "https://telegra.ph/file/2a7427325d5226f46645f.jpg",
+        "https://telegra.ph/file/ec415a61f63857576f8a0.jpg",
+        "https://telegra.ph/file/67a0393788e40efa010d1.jpg",
+        "https://telegra.ph/file/9903c9f78d90f428110ce.jpg",
+        "https://telegra.ph/file/0f99822016fad933e24aa.jpg",
+        "https://telegra.ph/file/bd141f1124389c0765b13.jpg",
+        "https://telegra.ph/file/0a9aae39485945a3eb997.jpg",
+        "https://telegra.ph/file/34436bd9df4c51236b48c.jpg",
+        "https://telegra.ph/file/fc1efa98a5aa7cf03350c.jpg",
+        "https://telegra.ph/file/12c7c42ccea9b51bbfe5e.jpg",
+        "https://telegra.ph/file/7e921f80d87669c1cfaf3.jpg",
+        "https://telegra.ph/file/ca8161a5d8a7f4a2a4711.jpg",
+        "https://telegra.ph/file/e199b1a04b5fbbce88fed.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

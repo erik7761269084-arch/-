@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11313,
+    "title": "[であすちーむ (うな丼)] 姉ビームvs母レーザー (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/であすちーむ-うな丼-姉ビームvs母レーザー-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/815f713cd322faf975af8.jpg",
+        "https://telegra.ph/file/5c515c4d615a372ed68c6.jpg",
+        "https://telegra.ph/file/f43144857cde4968adb9d.jpg",
+        "https://telegra.ph/file/2884187ddc0753cb4fb98.jpg",
+        "https://telegra.ph/file/e235d3366217c84e22e89.jpg",
+        "https://telegra.ph/file/ef53ab03b8ada0c37c6fd.jpg",
+        "https://telegra.ph/file/c2d07803e04356182d0bb.jpg",
+        "https://telegra.ph/file/93a288bf5b8fa676ac0f6.jpg",
+        "https://telegra.ph/file/7b5c14af554ed60cc9633.jpg",
+        "https://telegra.ph/file/8d6547bc55864b7b630c0.jpg",
+        "https://telegra.ph/file/7d888d88fba0e31b002d3.jpg",
+        "https://telegra.ph/file/f2025d95dac6ec32f53cf.jpg",
+        "https://telegra.ph/file/2b609a9b7e17334738ca2.jpg",
+        "https://telegra.ph/file/34890aedef019b03d157f.jpg",
+        "https://telegra.ph/file/677f6fd10407feb5d4d52.jpg",
+        "https://telegra.ph/file/61ca6a3c352f72c0517d9.jpg",
+        "https://telegra.ph/file/fb6373469fc3602891267.jpg",
+        "https://telegra.ph/file/8171f5415b2db745c42c9.jpg",
+        "https://telegra.ph/file/6e5503b2486d0913a92a0.jpg",
+        "https://telegra.ph/file/69098c16ccbd2b4025803.jpg",
+        "https://telegra.ph/file/23b09cb9e5c925886b291.jpg",
+        "https://telegra.ph/file/4014e5b9755f8021f5e3c.jpg",
+        "https://telegra.ph/file/aa2145f108290e0de38c5.jpg",
+        "https://telegra.ph/file/19c71396294a66cc40c1c.jpg",
+        "https://telegra.ph/file/5e79b8b6ad13f0421ec22.jpg",
+        "https://telegra.ph/file/b02fb896b7c908a260d33.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/cf66da428bcb5b0933c6a.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/1a6757ebf9d62bc7f1113.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

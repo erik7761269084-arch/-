@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8889,
+    "title": "[きい] 不完全マーブル + 8P小冊子  [ページ欠落]",
+    "sourceUrl": "https://telegra.ph/きい-不完全マーブル--8P小冊子-ページ欠落-08-31",
+    "images": [
+        "https://telegra.ph/file/c4504ac0b468bfb721968.jpg",
+        "https://telegra.ph/file/c9e0820a4085882ee39d0.jpg",
+        "https://telegra.ph/file/d1a84e5dadd57ceab8faf.jpg",
+        "https://telegra.ph/file/1d44a3cfc23d7d6571abd.jpg",
+        "https://telegra.ph/file/473151cd08787fa3c2f68.jpg",
+        "https://telegra.ph/file/30be20bb3593ffa48f151.jpg",
+        "https://telegra.ph/file/ab609d25167ad8d6173af.jpg",
+        "https://telegra.ph/file/1a0ad22d365d668d39aa0.jpg",
+        "https://telegra.ph/file/03b413cd7bfa86486de54.jpg",
+        "https://telegra.ph/file/9e2583c29e71046d52658.jpg",
+        "https://telegra.ph/file/a4de02e1d4f10bdb3cec6.jpg",
+        "https://telegra.ph/file/73634324ce080e5b86623.jpg",
+        "https://telegra.ph/file/d97f0efc3061e2447d20a.jpg",
+        "https://telegra.ph/file/c8663e8db1e016c9414bc.jpg",
+        "https://telegra.ph/file/ad56e4fe5e50efb6c0086.jpg",
+        "https://telegra.ph/file/93137d7a37a28c5f1f674.jpg",
+        "https://telegra.ph/file/dbae77a7f6fdeb6345ef6.jpg",
+        "https://telegra.ph/file/353283cf29abbcf1c6290.jpg",
+        "https://telegra.ph/file/2ca315be4de2c0b4563e1.jpg",
+        "https://telegra.ph/file/d3de032008f097ff2317e.jpg",
+        "https://telegra.ph/file/11937124ee35d952f86f6.jpg",
+        "https://telegra.ph/file/ac61b89aed9e6af138d26.jpg",
+        "https://telegra.ph/file/f49a06eb71a07c363500e.jpg",
+        "https://telegra.ph/file/9447f4e90a889f19079b1.jpg",
+        "https://telegra.ph/file/8ae166495b2d8a0271c7f.jpg",
+        "https://telegra.ph/file/d8f6642e00c1bc177575d.jpg",
+        "https://telegra.ph/file/676832a72e7ca1697623c.jpg",
+        "https://telegra.ph/file/78a058ed2eb3c8981c841.jpg",
+        "https://telegra.ph/file/77f65bcda5f4efa0f32bc.jpg",
+        "https://telegra.ph/file/d1a3559f34cd66ffabee9.jpg",
+        "https://telegra.ph/file/be4faf9a2fed02d155b12.jpg",
+        "https://telegra.ph/file/e7e757379bc845d2b9c28.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16666,
+    "title": "(C95) [ルミノシティ (かにビーム)] ルミノシティ22 ご注文はココアさんです。 (ご注文はうさぎですか?) -Preview",
+    "sourceUrl": "https://telegra.ph/C95-ルミノシティ-かにビーム-ルミノシティ22-ご注文はココアさんです-ご注文はうさぎですか--Preview-08-31-2",
+    "images": [
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/01ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/02.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/03ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/04ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/05ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/06ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/07ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/08ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/09ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/10ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/11ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/12ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/13ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/14ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/15ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/16ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/17ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/18ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/19ch.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/20.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/21.webp",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/22.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/23.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/24.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/25.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/26.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/27.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/28.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/29.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/30.jpg",
+        "https://i2.linghua.xyz/ex/1406056/3a25f4b9ad/.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

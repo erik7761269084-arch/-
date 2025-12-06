@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12147,
+    "title": "[青豆腐 (ねろましん)] 元奴隷エルフの秘め事",
+    "sourceUrl": "https://telegra.ph/青豆腐-ねろましん-元奴隷エルフの秘め事-08-31",
+    "images": [
+        "https://telegra.ph/file/2fce0dd4aceb65d321622.jpg",
+        "https://telegra.ph/file/cb8f9431289eb24d64742.jpg",
+        "https://telegra.ph/file/2a2105c7e959a579d32cc.jpg",
+        "https://telegra.ph/file/b02ba5236c18c5dd8931b.jpg",
+        "https://telegra.ph/file/3549b3b9be57834b5c0f7.jpg",
+        "https://telegra.ph/file/de13d93322bacea9345b1.jpg",
+        "https://telegra.ph/file/018b2dc0a3e71e43c0887.jpg",
+        "https://telegra.ph/file/61e75cee6c5f56e6bc89c.jpg",
+        "https://telegra.ph/file/67341c0bcbbf99d254be5.jpg",
+        "https://telegra.ph/file/ed674ce05e8e978c378f6.jpg",
+        "https://telegra.ph/file/b9356f7d765928818b96d.jpg",
+        "https://telegra.ph/file/4160d99caa56140f5d7bc.jpg",
+        "https://telegra.ph/file/99aee95affb4e2d7790e1.jpg",
+        "https://telegra.ph/file/7f175c3c316d293abf284.jpg",
+        "https://telegra.ph/file/c863fbd62818fcf5f19df.jpg",
+        "https://telegra.ph/file/90fe3cc8d4026a51c14cf.jpg",
+        "https://telegra.ph/file/a6c44ec159925649ba064.jpg",
+        "https://telegra.ph/file/fed201a30ccdbb8755213.jpg",
+        "https://telegra.ph/file/26d89012cc811fea778d8.jpg",
+        "https://telegra.ph/file/e7b96ff9385d048960b65.jpg",
+        "https://telegra.ph/file/05b18df4d825c9538a508.jpg",
+        "https://telegra.ph/file/2b22179bb3f843ac40bc3.jpg",
+        "https://telegra.ph/file/c69a6c1b19d1621a35f5d.jpg",
+        "https://telegra.ph/file/c7e29982edd8db3015d52.jpg",
+        "https://telegra.ph/file/ee06ea88db6c8159e74a0.jpg",
+        "https://telegra.ph/file/cd17691878b890fd0d89a.jpg",
+        "https://telegra.ph/file/2600cedc8db524748ec0f.jpg",
+        "https://telegra.ph/file/55d95f7e51c3c06d6efa9.jpg",
+        "https://telegra.ph/file/8f14c06b405142ae8af65.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

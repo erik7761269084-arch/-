@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14099,
+    "title": "(AC3) [ミモネランド (ミモネル)] 仲間と一線越えちゃう本 ～グラブル編6～ (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/AC3-ミモネランド-ミモネル-仲間と一線越えちゃう本-グラブル編6-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/e3b30f5c43d36f26e9459.jpg",
+        "https://telegra.ph/file/2cf640216edad946d2c9c.jpg",
+        "https://telegra.ph/file/578c4cf3dfbb191ed548c.jpg",
+        "https://telegra.ph/file/22bb79d4209af17e7fea9.jpg",
+        "https://telegra.ph/file/533ed6c3c5f4c1bddb19a.jpg",
+        "https://telegra.ph/file/104d0312220f4dad04944.jpg",
+        "https://telegra.ph/file/d58018b1b62647e97f595.jpg",
+        "https://telegra.ph/file/a7a4ee1e97c7b57b67d48.jpg",
+        "https://telegra.ph/file/bfec25ef21b6bbf8c5e5c.jpg",
+        "https://telegra.ph/file/c8470c077bc3c05bee1ba.jpg",
+        "https://telegra.ph/file/eb425dc504d78ad2a4635.jpg",
+        "https://telegra.ph/file/fc9d99bebccd0281c876a.jpg",
+        "https://telegra.ph/file/80aadd73f84ecf0ec1ee9.jpg",
+        "https://telegra.ph/file/1ff61154f179a3ce03b4c.jpg",
+        "https://telegra.ph/file/719b5122189ea6bfa89a7.jpg",
+        "https://telegra.ph/file/20965cf74ccdeb99ae326.jpg",
+        "https://telegra.ph/file/6119381a091f5a3b4de93.jpg",
+        "https://telegra.ph/file/d0d3e63cbc4b3b766509e.jpg",
+        "https://telegra.ph/file/9d1777b15b9c5fe4c9cbe.jpg",
+        "https://telegra.ph/file/488f6ec46f0acf9005914.jpg",
+        "https://telegra.ph/file/9665e76569e853f8e765f.jpg",
+        "https://telegra.ph/file/196898fdccbfef74a504b.jpg",
+        "https://telegra.ph/file/38dd01ed2a0e0537c5ab4.jpg",
+        "https://telegra.ph/file/ff0d87b9945e1f3e506c4.jpg",
+        "https://telegra.ph/file/e8447b841ac33db63617d.jpg",
+        "https://telegra.ph/file/02e29a4108c771ec5d3f3.jpg",
+        "https://telegra.ph/file/d0553997f04090b8e3341.jpg",
+        "https://telegra.ph/file/4d9610f4efbd99225a717.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

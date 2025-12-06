@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11066,
+    "title": "[シンセカイセット (へたれん)] サキュバスとメリア様に狙われている。",
+    "sourceUrl": "https://telegra.ph/シンセカイセット-へたれん-サキュバスとメリア様に狙われている-08-31",
+    "images": [
+        "https://telegra.ph/file/b145bc52a29514410af85.jpg",
+        "https://telegra.ph/file/542e5bd804b1e2f961ca5.jpg",
+        "https://telegra.ph/file/7474caf94e3eab6e15c5c.jpg",
+        "https://telegra.ph/file/4cb6e1d80d04447107061.png",
+        "https://telegra.ph/file/69d3f30f0b6852a4ecde9.jpg",
+        "https://telegra.ph/file/2fd6beb282161eb051be4.jpg",
+        "https://telegra.ph/file/a108e03af3e3825f70ed5.jpg",
+        "https://telegra.ph/file/2a5e6652f0cbb3f4a0bfe.png",
+        "https://telegra.ph/file/57505573248e14e2613c5.jpg",
+        "https://telegra.ph/file/52f74bfe1636f00482fdc.jpg",
+        "https://telegra.ph/file/d212f81346fa94b39d3f8.jpg",
+        "https://telegra.ph/file/7f01ca3b2a25b825f4cb2.jpg",
+        "https://telegra.ph/file/927e03d563b91accda0b9.png",
+        "https://telegra.ph/file/23fe78f6b39541ad44f82.jpg",
+        "https://telegra.ph/file/732c4e6632a469a900c2d.jpg",
+        "https://telegra.ph/file/4798dce7701053927c58b.jpg",
+        "https://telegra.ph/file/223a8cec8c782b470b82e.jpg",
+        "https://telegra.ph/file/3cc19fa7c150ecc92f9d6.jpg",
+        "https://telegra.ph/file/fc6054e165722032fa235.jpg",
+        "https://telegra.ph/file/dbd10bcf9e4ebcb9315d5.jpg",
+        "https://telegra.ph/file/38247a827d7961f339b6a.jpg",
+        "https://telegra.ph/file/e28408e6ceb6b70d47816.jpg",
+        "https://telegra.ph/file/d7d3bf13f9da6375c29b5.jpg",
+        "https://telegra.ph/file/715593f09e0d8b1248525.jpg",
+        "https://telegra.ph/file/17b9cce0d12ac8876181e.png",
+        "https://telegra.ph/file/c9839d3760946c9257f57.jpg",
+        "https://telegra.ph/file/2a960439299053837f229.jpg",
+        "https://telegra.ph/file/435e6de01db1d828f8a58.png",
+        "https://telegra.ph/file/2f553b765d660b572692b.jpg",
+        "https://telegra.ph/file/0a7ba60699b0f03335eab.jpg",
+        "https://telegra.ph/file/d59813c8470bc3d95102a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

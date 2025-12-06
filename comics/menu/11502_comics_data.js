@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11502,
+    "title": "[23.4ド (イチリ)] ボクの理想の異世界生活 9",
+    "sourceUrl": "https://telegra.ph/234ド-イチリ-ボクの理想の異世界生活-9-08-31-2",
+    "images": [
+        "https://telegra.ph/file/0281c5c22bc03cab3db36.jpg",
+        "https://telegra.ph/file/a0ca0c77a0d21c6f4d679.jpg",
+        "https://telegra.ph/file/aa5167028ccc0402b590c.jpg",
+        "https://telegra.ph/file/e89786c4a67d252ff8af0.jpg",
+        "https://telegra.ph/file/6743c2075615d4bcd73da.jpg",
+        "https://telegra.ph/file/83505598c22c1cb266c28.jpg",
+        "https://telegra.ph/file/a52445a96c90f60f24417.jpg",
+        "https://telegra.ph/file/5c438b2a057a0c36a9f70.jpg",
+        "https://telegra.ph/file/66117e96a9106ddf34b60.jpg",
+        "https://telegra.ph/file/b9cfd0d34dfaa56f3d1bf.jpg",
+        "https://telegra.ph/file/6cc980dcb9b569f6f9e27.jpg",
+        "https://telegra.ph/file/6c1f29c2580d606d35243.jpg",
+        "https://telegra.ph/file/92bb21a444b3378b11c7b.jpg",
+        "https://telegra.ph/file/4313b44e315373536fade.jpg",
+        "https://telegra.ph/file/23a3ba637869d39cbac5a.jpg",
+        "https://telegra.ph/file/c7320b80d72af100fc293.jpg",
+        "https://telegra.ph/file/6d74cd5a7ae9c91b2a39d.jpg",
+        "https://telegra.ph/file/540453e55cbfcec3f9fa6.jpg",
+        "https://telegra.ph/file/6824855bcdf919f2d7f4c.jpg",
+        "https://telegra.ph/file/ead0c2f3864cd1a66d930.jpg",
+        "https://telegra.ph/file/e8e971cbdd067da031ed9.jpg",
+        "https://telegra.ph/file/b8ff2a38ea4caafff38b9.jpg",
+        "https://telegra.ph/file/722ca9d5c47aa644fc67e.jpg",
+        "https://telegra.ph/file/d25e03513bdd64e5bb3d1.jpg",
+        "https://telegra.ph/file/d0bd9868761709753a8b8.jpg",
+        "https://telegra.ph/file/f5a695ebeb61c76621686.jpg",
+        "https://telegra.ph/file/383affb7a97ba2a7a7285.jpg",
+        "https://telegra.ph/file/bb2f03b364b827d195e57.jpg",
+        "https://telegra.ph/file/b09666ecb1f5288751b9b.jpg",
+        "https://telegra.ph/file/b97f1c6295b718ed21844.jpg",
+        "https://telegra.ph/file/cc06e4f9ded19c731ad8e.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

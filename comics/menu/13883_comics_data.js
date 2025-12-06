@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13883,
+    "title": "[雪陽炎 (KANZUME)] 瀬戸美夜子はオタクくんに恋してる (瀬戸美夜子)",
+    "sourceUrl": "https://telegra.ph/雪陽炎-KANZUME-瀬戸美夜子はオタクくんに恋してる-瀬戸美夜子-08-31",
+    "images": [
+        "https://telegra.ph/file/e98c04ce5e54f72b3f0f5.jpg",
+        "https://telegra.ph/file/58db8519f56311a41e379.jpg",
+        "https://telegra.ph/file/1b4129ea13cca1edfb02d.jpg",
+        "https://telegra.ph/file/410d80dfc3bea937b068b.jpg",
+        "https://telegra.ph/file/acd2bf911e67e28876856.jpg",
+        "https://telegra.ph/file/6c537784fc1c975e90233.jpg",
+        "https://telegra.ph/file/1325261a64cfd05dff710.jpg",
+        "https://telegra.ph/file/f6d71d5f8636586b05a28.jpg",
+        "https://telegra.ph/file/84ec92a629714f2487dd7.jpg",
+        "https://telegra.ph/file/820234509de57e743532c.jpg",
+        "https://telegra.ph/file/d9d266b171ec2b1e5a5f0.jpg",
+        "https://telegra.ph/file/a1d2c7f49377c773ce7e3.jpg",
+        "https://telegra.ph/file/bbbb82f62d00cf4820b8f.jpg",
+        "https://telegra.ph/file/1c93e64175508ea6748ac.jpg",
+        "https://telegra.ph/file/fcec24accc33f6acb93d3.jpg",
+        "https://telegra.ph/file/b647f8edff4b180a48242.jpg",
+        "https://telegra.ph/file/cd91ffbcee187a2997dd3.jpg",
+        "https://telegra.ph/file/b457b93fbebc8eed8f998.jpg",
+        "https://telegra.ph/file/a2bb451b811125f90d901.jpg",
+        "https://telegra.ph/file/17034d74f77b80cfa2cda.jpg",
+        "https://telegra.ph/file/01ac81ec4adaf8efc8038.jpg",
+        "https://telegra.ph/file/aafd10213f27512db4e34.jpg",
+        "https://telegra.ph/file/2a43bed13300aac28bb90.jpg",
+        "https://telegra.ph/file/ec0760d2c9e484b7cebfb.jpg",
+        "https://telegra.ph/file/becb64566fb807411f53b.jpg",
+        "https://telegra.ph/file/f843a318f314beb0abbf1.jpg",
+        "https://telegra.ph/file/d11a8ba8350e6f26000f1.jpg",
+        "https://telegra.ph/file/fbadeeb6220cde2f5f1a7.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

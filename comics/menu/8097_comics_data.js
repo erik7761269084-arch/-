@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8097,
+    "title": "[かに村えびお] 徒花のガルデン (永遠娘 11)",
+    "sourceUrl": "https://telegra.ph/かに村えびお-徒花のガルデン-永遠娘-11-08-31",
+    "images": [
+        "https://telegra.ph/file/ea794fffb08346586da9b.jpg",
+        "https://telegra.ph/file/260e9a3fcd70c76095813.jpg",
+        "https://telegra.ph/file/b71d2af2b751a19c21a1e.jpg",
+        "https://telegra.ph/file/ee32f4ce7c64f1d364587.jpg",
+        "https://telegra.ph/file/f9d16a7bfe54bc1ce36f4.jpg",
+        "https://telegra.ph/file/eac15db802117b61eb29c.jpg",
+        "https://telegra.ph/file/3b82923ff7195c957fc6d.jpg",
+        "https://telegra.ph/file/ab6017818e44464fe33ca.jpg",
+        "https://telegra.ph/file/2c802f4d640b407a1d038.jpg",
+        "https://telegra.ph/file/fe47227e194d87fb6979e.jpg",
+        "https://telegra.ph/file/623fe75dc92decdb5c0f6.jpg",
+        "https://telegra.ph/file/f51f4f0a1a6082104389e.jpg",
+        "https://telegra.ph/file/91989bc6a9712582be5d3.jpg",
+        "https://telegra.ph/file/4293fe9f52329171c7f7d.jpg",
+        "https://telegra.ph/file/de96dbc1afb75bd8f0932.jpg",
+        "https://telegra.ph/file/fa237a24a037394c6a357.jpg",
+        "https://telegra.ph/file/bba5587abc9232be696cc.jpg",
+        "https://telegra.ph/file/bb292a3b80a8b331a9642.jpg",
+        "https://telegra.ph/file/17405b0727d62bad1f277.jpg",
+        "https://telegra.ph/file/49644d282f0531c1b31ae.jpg",
+        "https://telegra.ph/file/542caa5630618416e2948.jpg",
+        "https://telegra.ph/file/cecd72d7194934e599286.jpg",
+        "https://telegra.ph/file/70f3d1e7d0d5714b4a032.jpg",
+        "https://telegra.ph/file/8896fa830828f80e924ac.jpg",
+        "https://telegra.ph/file/3df9dbf52487ab36b4c90.jpg",
+        "https://telegra.ph/file/66358b9d6527b0a5a2161.jpg",
+        "https://telegra.ph/file/3f55e0eaa667b9fe4203f.jpg",
+        "https://telegra.ph/file/c3d8cd03c9b8a150477ba.jpg",
+        "https://telegra.ph/file/f80bce7b176d214fd64d4.jpg",
+        "https://telegra.ph/file/281f9d1f40cecf45d491d.jpg",
+        "https://telegra.ph/file/1501febf6ce1572145905.jpg",
+        "https://telegra.ph/file/f9d32440899820a8821b1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

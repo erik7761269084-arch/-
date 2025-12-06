@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9889,
+    "title": "[朝賀えり] 初体験!?入れ替わり修学旅行 (COMIC 真激 2020年9月号)",
+    "sourceUrl": "https://telegra.ph/朝賀えり-初体験入れ替わり修学旅行-COMIC-真激-2020年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/a5706b46e8eb83aa7b897.jpg",
+        "https://telegra.ph/file/4476c5a2c4a9d62204fc6.jpg",
+        "https://telegra.ph/file/fe63d89b121d5739a3816.jpg",
+        "https://telegra.ph/file/9dd168d8eeaeb525e3859.jpg",
+        "https://telegra.ph/file/c252ef12ac249f5c34cb3.jpg",
+        "https://telegra.ph/file/df6c310a0289fc7b70388.jpg",
+        "https://telegra.ph/file/2a1e74d8e5b3269740a91.jpg",
+        "https://telegra.ph/file/4d86a881b85f9d38e11c6.jpg",
+        "https://telegra.ph/file/66489ce9d3ffb3bfea883.jpg",
+        "https://telegra.ph/file/a2f73d7688f4b39e745d4.jpg",
+        "https://telegra.ph/file/adb6dea9d019a19cead73.jpg",
+        "https://telegra.ph/file/5308f3a7a27d60d03fd24.jpg",
+        "https://telegra.ph/file/3216184189db3222208f3.jpg",
+        "https://telegra.ph/file/94352f77bb2ce230b3cbc.jpg",
+        "https://telegra.ph/file/ffd4da54b96dd3bbbd5f8.jpg",
+        "https://telegra.ph/file/767673cb7d2b39c3a3b8f.jpg",
+        "https://telegra.ph/file/ee1c6800a94cf66e19b49.jpg",
+        "https://telegra.ph/file/92d7b24bff9099cb9304d.jpg",
+        "https://telegra.ph/file/1e3bfbe46fa89f986ae43.jpg",
+        "https://telegra.ph/file/cf638835840eea676e09f.jpg",
+        "https://telegra.ph/file/64bc2cecf4a8a69eba56e.jpg",
+        "https://telegra.ph/file/a41f7f3208b9fbcd06908.jpg",
+        "https://telegra.ph/file/c9739cce2d38534abde0c.jpg",
+        "https://telegra.ph/file/817fbcfe88e525ec515b6.jpg",
+        "https://telegra.ph/file/a6e8a73bc4de442276f05.jpg",
+        "https://telegra.ph/file/18376a3a268047bd03551.jpg",
+        "https://telegra.ph/file/c108c4bc97d4481cd267f.jpg",
+        "https://telegra.ph/file/6564cadf05a08d5052a54.jpg",
+        "https://telegra.ph/file/49371eda59a39ffd1a626.jpg",
+        "https://telegra.ph/file/7548c016c9ae4ae2ea650.jpg",
+        "https://telegra.ph/file/0f22e9a8a9c49a22c4286.jpg",
+        "https://telegra.ph/file/c64900a8d5df3005cd5f6.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

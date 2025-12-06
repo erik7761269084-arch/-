@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15108,
+    "title": "(素芸祭) [おいもと (鈴音ゆうじ)] 夢色ドルチェ (東方Project)",
+    "sourceUrl": "https://telegra.ph/素芸祭-おいもと-鈴音ゆうじ-夢色ドルチェ-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/a9644a262c13c33bf0eb4.jpg",
+        "https://telegra.ph/file/1f6d456e86df85e807330.jpg",
+        "https://telegra.ph/file/5d3a2f7457c8d98a47b17.jpg",
+        "https://telegra.ph/file/36ed9d9330a851264cdbc.jpg",
+        "https://telegra.ph/file/8794b990947ede23ad274.jpg",
+        "https://telegra.ph/file/e326933783cb8e58b3e72.jpg",
+        "https://telegra.ph/file/5882579697bab3278ebb5.jpg",
+        "https://telegra.ph/file/2e9de8c7e03d7d71c927f.jpg",
+        "https://telegra.ph/file/a4523b4aeafe57de63d40.jpg",
+        "https://telegra.ph/file/7da765dc8122dc10c5c5b.jpg",
+        "https://telegra.ph/file/5528d0ac2aa9f21655aa0.jpg",
+        "https://telegra.ph/file/d90203679f1fb1ae2aad5.jpg",
+        "https://telegra.ph/file/fb510bf0532170176d67f.jpg",
+        "https://telegra.ph/file/5eb21a362a92543df3f8d.jpg",
+        "https://telegra.ph/file/c411cfbe062115e458522.jpg",
+        "https://telegra.ph/file/0b06c7e943a6b9868a044.jpg",
+        "https://telegra.ph/file/9e77d838e7638e1f636d3.jpg",
+        "https://telegra.ph/file/cdecb8cba7e6c7a45e26d.jpg",
+        "https://telegra.ph/file/816478496414e255fa138.jpg",
+        "https://telegra.ph/file/5b6860e14758d856fc13d.jpg",
+        "https://telegra.ph/file/2e8336cbe541ab31586f5.jpg",
+        "https://telegra.ph/file/655d2be5c555cf79ec690.jpg",
+        "https://telegra.ph/file/e1361df42483d585bd10e.jpg",
+        "https://telegra.ph/file/b0c1a756c518208b31968.jpg",
+        "https://telegra.ph/file/90066bbf14e41c24fa1d7.jpg",
+        "https://telegra.ph/file/ef220418add7d348eb072.jpg",
+        "https://telegra.ph/file/d1dcaca47725a67012c26.jpg",
+        "https://telegra.ph/file/566c089243ee4a87ce8bd.jpg",
+        "https://telegra.ph/file/6b3d6574e43046e1b387f.jpg",
+        "https://telegra.ph/file/f64f6bf97183d91693676.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

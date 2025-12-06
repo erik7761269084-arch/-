@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11531,
+    "title": "[けもみん之助] 姦姦蛇螺様とあ・そ・ぼ",
+    "sourceUrl": "https://telegra.ph/けもみん之助-姦姦蛇螺様とあそぼ-08-31",
+    "images": [
+        "https://telegra.ph/file/0359a91be94d616b2e89a.jpg",
+        "https://telegra.ph/file/3fe2ea5adbf049cffb864.jpg",
+        "https://telegra.ph/file/706706f3ce88a991fd35a.jpg",
+        "https://telegra.ph/file/8c72296a7fcfc1bd01878.jpg",
+        "https://telegra.ph/file/b947c1814aca4be6090f1.jpg",
+        "https://telegra.ph/file/2d7e1c074417d7f82022a.jpg",
+        "https://telegra.ph/file/347ec1e9a5589a47efd6d.jpg",
+        "https://telegra.ph/file/76c5d9e6c7c7077e00cbd.jpg",
+        "https://telegra.ph/file/06d83732687cf608b64af.jpg",
+        "https://telegra.ph/file/8a69283628db0cb146d87.jpg",
+        "https://telegra.ph/file/cc4035b684fdf6ba2a451.jpg",
+        "https://telegra.ph/file/7058d0c400583dc291600.jpg",
+        "https://telegra.ph/file/bd1ed9cdfed9dbaa03665.jpg",
+        "https://telegra.ph/file/035bb40396c4be341ed63.jpg",
+        "https://telegra.ph/file/a84604351ce2deb844085.jpg",
+        "https://telegra.ph/file/eb272025286fabce73df6.jpg",
+        "https://telegra.ph/file/87b458829982ac11ce62d.jpg",
+        "https://telegra.ph/file/c2ce8b64d0d4bce9ebf46.jpg",
+        "https://telegra.ph/file/d247ee4bce06b2e5eb5a8.jpg",
+        "https://telegra.ph/file/996cd2e48bb3427915555.jpg",
+        "https://telegra.ph/file/3f357205bc4cd29d11c2d.jpg",
+        "https://telegra.ph/file/989783705b2062a06bbc4.jpg",
+        "https://telegra.ph/file/6eb0d8d9d234aa25e23b3.jpg",
+        "https://telegra.ph/file/d7fd471bcfa9b61352026.jpg",
+        "https://telegra.ph/file/9c4c09cc29842c307accb.jpg",
+        "https://telegra.ph/file/7baec6dc1fdb4a4836f15.jpg",
+        "https://telegra.ph/file/b27325cda0c61a8e7b0fb.jpg",
+        "https://telegra.ph/file/a41cc67a2511d99760ca3.jpg",
+        "https://telegra.ph/file/62e73591e74fb61d04035.jpg",
+        "https://telegra.ph/file/208d4fdfd114e6810f7be.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

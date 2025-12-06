@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8014,
+    "title": "[flanvia] 釣れたて♥ウオむすめ (コミックゼロス #91)",
+    "sourceUrl": "https://telegra.ph/flanvia-釣れたてウオむすめ-コミックゼロス-91-08-31",
+    "images": [
+        "https://telegra.ph/file/ca669b3bbc13d672fd462.jpg",
+        "https://telegra.ph/file/dc78b0a0d9cc0ef5b87af.jpg",
+        "https://telegra.ph/file/648113c840d1fb0a8a732.jpg",
+        "https://telegra.ph/file/a4c1bf0eb4ce7fc7fa554.jpg",
+        "https://telegra.ph/file/d4c178a8a364e5aa8a8cc.jpg",
+        "https://telegra.ph/file/07133a253188ed784acb2.jpg",
+        "https://telegra.ph/file/f45fd6dc5c8605586965e.jpg",
+        "https://telegra.ph/file/b8c1554bd942f704ee01f.jpg",
+        "https://telegra.ph/file/bc0c37758c91718887c47.jpg",
+        "https://telegra.ph/file/c570303620d1616d02eb8.jpg",
+        "https://telegra.ph/file/8081e196fd7b8f637d792.jpg",
+        "https://telegra.ph/file/40bec8d9294761dcd8100.jpg",
+        "https://telegra.ph/file/13011bbd7e61ffcbf2d4b.jpg",
+        "https://telegra.ph/file/8f15a2f6b4308fecdd741.jpg",
+        "https://telegra.ph/file/2fb8ee732e109d298d60e.jpg",
+        "https://telegra.ph/file/31d0f5331d26e025f1010.jpg",
+        "https://telegra.ph/file/97d6925ac0020c4b525e2.jpg",
+        "https://telegra.ph/file/8b9afaa542e91f129e121.jpg",
+        "https://telegra.ph/file/08ce99fb54f247ab458b2.jpg",
+        "https://telegra.ph/file/3624c47456dc6048986f9.jpg",
+        "https://telegra.ph/file/6f36c800d1241fb1d0a49.jpg",
+        "https://telegra.ph/file/f9992d21b220d9e3b3226.jpg",
+        "https://telegra.ph/file/6bd9aa8fd643e2028a94e.jpg",
+        "https://telegra.ph/file/9ad3dce70353d4d2d479d.jpg",
+        "https://telegra.ph/file/e304990f4cf99768cb54f.jpg",
+        "https://telegra.ph/file/0d0932035b677af344ea9.jpg",
+        "https://telegra.ph/file/24746c763b8dcadfa062f.jpg",
+        "https://telegra.ph/file/b79adfb8404c0cd7f1fac.jpg",
+        "https://telegra.ph/file/a066ba24e5e7836350564.jpg",
+        "https://telegra.ph/file/ed5539aecfc46e9972051.jpg",
+        "https://telegra.ph/file/67bbe1dc07837193158b2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13367,
+    "title": "(C100) [ちょこれーとらんど (kakao)] 小悪魔せつこの秘密 vol.6",
+    "sourceUrl": "https://telegra.ph/C100-ちょこれーとらんど-kakao-小悪魔せつこの秘密-vol6-08-31",
+    "images": [
+        "https://telegra.ph/file/7616d02e41fd46d527391.jpg",
+        "https://telegra.ph/file/31eec5484cf2db8760d9c.jpg",
+        "https://telegra.ph/file/447796bb612b7faaa6dd5.jpg",
+        "https://telegra.ph/file/f47ea4307acc5ff85abdf.jpg",
+        "https://telegra.ph/file/a9591c0781eb59721895b.jpg",
+        "https://telegra.ph/file/24c5f4a9d6a6f4be27c4f.jpg",
+        "https://telegra.ph/file/0d9f2d0566ae724340766.jpg",
+        "https://telegra.ph/file/9af414e62eb54da53bb7c.jpg",
+        "https://telegra.ph/file/08ce54b25d5eda497aa3a.jpg",
+        "https://telegra.ph/file/f3be0a15ef482e1d9c843.jpg",
+        "https://telegra.ph/file/13e792d0659e6fd1fc379.jpg",
+        "https://telegra.ph/file/def63c610f4fba8339508.jpg",
+        "https://telegra.ph/file/689ad72446babded53b09.jpg",
+        "https://telegra.ph/file/a862d8b5a23494f022fdf.jpg",
+        "https://telegra.ph/file/8604ac31adcce07eb5aad.jpg",
+        "https://telegra.ph/file/073bf6c1d68d55f298140.jpg",
+        "https://telegra.ph/file/3a840c20d55926e304766.jpg",
+        "https://telegra.ph/file/4e290966190d1021c386d.jpg",
+        "https://telegra.ph/file/9849c879afd4699621429.jpg",
+        "https://telegra.ph/file/821dc1cf1fee9ad44dd64.jpg",
+        "https://telegra.ph/file/168e462b9d64ea0d81271.jpg",
+        "https://telegra.ph/file/918e51d460704dca64286.jpg",
+        "https://telegra.ph/file/e4453364ff3f00f3b3f5f.jpg",
+        "https://telegra.ph/file/25088f85be92bca0c1bb1.jpg",
+        "https://telegra.ph/file/aa9cd201371ee9649a6a1.jpg",
+        "https://telegra.ph/file/bb2e319949bd9261d96d6.jpg",
+        "https://telegra.ph/file/deceb8b840e1fde339ebe.jpg",
+        "https://telegra.ph/file/0d7f77c8cfaf888856e6d.jpg",
+        "https://telegra.ph/file/cbc9ee8bb4552dea20265.jpg",
+        "https://telegra.ph/file/3cc2042f0870e1d0ef110.jpg",
+        "https://telegra.ph/file/c3e0841fcc26a8f6552dd.jpg",
+        "https://telegra.ph/file/c6a8fb4a9949863141a38.jpg",
+        "https://telegra.ph/file/fa237ac0e87a0c1f85f47.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10790,
+    "title": "[シャルロット・ココ (ゆきやなぎ)] ゆきやなぎの本 44 コヤンスカヤさんに足コキとかいろいろされる本 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/シャルロットココ-ゆきやなぎ-ゆきやなぎの本-44-コヤンスカヤさんに足コキとかいろいろされる本-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/3c0a3aac2dc13c6a01ec8.jpg",
+        "https://telegra.ph/file/6a2967a106d4f3de89dff.jpg",
+        "https://telegra.ph/file/0c423f8fb25a43adf8a19.jpg",
+        "https://telegra.ph/file/6dbe8677b2460ee4881fd.jpg",
+        "https://telegra.ph/file/cb1e2fc1acacad0148791.jpg",
+        "https://telegra.ph/file/f2053ebb0cb2802a188d7.jpg",
+        "https://telegra.ph/file/905b5f7ceb7c839c55920.jpg",
+        "https://telegra.ph/file/5b8c28b6e613f0794f646.jpg",
+        "https://telegra.ph/file/6cb11571f06998aac9d88.jpg",
+        "https://telegra.ph/file/89a222fe9b2e90491b4f8.jpg",
+        "https://telegra.ph/file/6850d5da0633fdf66d7b1.jpg",
+        "https://telegra.ph/file/a9c80c0a3ad01efd471e8.jpg",
+        "https://telegra.ph/file/a2ad39a2cb5f3eae3df6b.jpg",
+        "https://telegra.ph/file/622809c5c436b2be36f04.jpg",
+        "https://telegra.ph/file/1bb5abd7f930829dfea2c.jpg",
+        "https://telegra.ph/file/d36d12a0a07be5d3232b4.jpg",
+        "https://telegra.ph/file/9b580ceb2c5615c754374.jpg",
+        "https://telegra.ph/file/4f6f4a7d3c5041a413421.jpg",
+        "https://telegra.ph/file/9435efaa7d09f7c410b20.jpg",
+        "https://telegra.ph/file/0fd1a962dc700d9a7c3d4.jpg",
+        "https://telegra.ph/file/46ea34192f6f85bc0b1f8.jpg",
+        "https://telegra.ph/file/3052487a3001cef8f51ee.jpg",
+        "https://telegra.ph/file/3b8556e62a1beb2025e59.jpg",
+        "https://telegra.ph/file/288e89ec8dd9e80521952.jpg",
+        "https://telegra.ph/file/7baad90d64df21a6d370e.jpg",
+        "https://telegra.ph/file/73dfaed63e56de9a9389f.jpg",
+        "https://telegra.ph/file/58197c6178ff7029353fe.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/1a6757ebf9d62bc7f1113.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

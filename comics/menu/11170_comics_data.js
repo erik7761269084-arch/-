@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11170,
+    "title": "[百合畑牧場 (紺)] 乙女ゲームのヒロインを3回イかせないと破滅する部屋に入ってしまった… マリア受追加パッチ (乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…)",
+    "sourceUrl": "https://telegra.ph/百合畑牧場-紺-乙女ゲームのヒロインを3回イかせないと破滅する部屋に入ってしまった-マリア受追加パッチ-乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった-08-31",
+    "images": [
+        "https://telegra.ph/file/1fcdb8f808c9750423b0a.jpg",
+        "https://telegra.ph/file/139f5d1b4385dec53db28.jpg",
+        "https://telegra.ph/file/907456cdbc39595658e1e.jpg",
+        "https://telegra.ph/file/5c44d7459245741c91113.jpg",
+        "https://telegra.ph/file/c2dfd30794cb810229f6b.jpg",
+        "https://telegra.ph/file/2fc239c09b0cf86f5032e.jpg",
+        "https://telegra.ph/file/57f623044174820fc3779.jpg",
+        "https://telegra.ph/file/40a4e86246f814a3439ea.jpg",
+        "https://telegra.ph/file/570af03e21e9aea54f22f.jpg",
+        "https://telegra.ph/file/bc98dcb46b94d772899c5.jpg",
+        "https://telegra.ph/file/419c0d6dc006389cdf005.jpg",
+        "https://telegra.ph/file/3da2e9ccb121d0ca88a32.jpg",
+        "https://telegra.ph/file/09dfc72d12140fd32482c.jpg",
+        "https://telegra.ph/file/684e64e758b2f52c8aff4.jpg",
+        "https://telegra.ph/file/864f2f4e76e27753081e3.jpg",
+        "https://telegra.ph/file/e61255dbfe5fc7d4fd4d4.jpg",
+        "https://telegra.ph/file/0e2c5703abdec01a2d0b3.jpg",
+        "https://telegra.ph/file/b3b3fc68bcd6a8ac04907.jpg",
+        "https://telegra.ph/file/3b2c804ff606044fc7a27.jpg",
+        "https://telegra.ph/file/f8a951dd58c344dcbea5a.jpg",
+        "https://telegra.ph/file/e274d838cc10c646baefd.jpg",
+        "https://telegra.ph/file/fd98bdddf1e20934db711.jpg",
+        "https://telegra.ph/file/a90832adba515deb52e90.jpg",
+        "https://telegra.ph/file/cdcf548b7c3231165163b.jpg",
+        "https://telegra.ph/file/68c0c339f429479601053.jpg",
+        "https://telegra.ph/file/9b7a4a749fb1306441c20.jpg",
+        "https://telegra.ph/file/c7e64966f0e16ecc20f99.jpg",
+        "https://telegra.ph/file/25133666b9ad59774234f.jpg",
+        "https://telegra.ph/file/58794d7cc0ccff30da6e7.jpg",
+        "https://telegra.ph/file/2834752282088a0603faa.jpg",
+        "https://telegra.ph/file/e25e21e1ede47c95b5e52.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15523,
+    "title": "(僕らのラブライブ! 36) [東線重工、virophilia (Fataaa、織日ちひろ)] MIRROR (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) -Preview",
+    "sourceUrl": "https://telegra.ph/僕らのラブライブ-36-東線重工virophilia-Fataaa織日ちひろ-MIRROR-ラブライブ-虹ヶ咲学園スクールアイドル同好会--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/469a7b92ccc1ac6d0b126.jpg",
+        "https://telegra.ph/file/c841e8635471232dc4e27.jpg",
+        "https://telegra.ph/file/f250cfbe5188de26f9353.jpg",
+        "https://telegra.ph/file/90ac6035831e9cd811819.jpg",
+        "https://telegra.ph/file/26eeb18623a5167bca8aa.jpg",
+        "https://telegra.ph/file/7b0af1db2b48c0281bfe8.jpg",
+        "https://telegra.ph/file/6e43cf07b5a291aca9068.jpg",
+        "https://telegra.ph/file/bda0a3de07fa2374eaf76.jpg",
+        "https://telegra.ph/file/dc96287b2e70b85bfd6e3.jpg",
+        "https://telegra.ph/file/0acb29eb61af030c7b515.jpg",
+        "https://telegra.ph/file/63540799b16cfcea4050c.jpg",
+        "https://telegra.ph/file/c30a9fbca54da4aedfda6.jpg",
+        "https://telegra.ph/file/59c9f99e2f5904a07e347.jpg",
+        "https://telegra.ph/file/fc55ccd6406a717d4f5d9.jpg",
+        "https://telegra.ph/file/142eaecd703176d1705d4.jpg",
+        "https://telegra.ph/file/b0848f9ebd081d6d946dc.jpg",
+        "https://telegra.ph/file/fc3285b466453e6fd3e1d.jpg",
+        "https://telegra.ph/file/060f927f015915febdecb.jpg",
+        "https://telegra.ph/file/68233ad630ae16e8b746f.jpg",
+        "https://telegra.ph/file/37429c472a4e48b396ce9.jpg",
+        "https://telegra.ph/file/b78da10c28833c3cbca35.jpg",
+        "https://telegra.ph/file/e6fdc71b726b789dd696b.jpg",
+        "https://telegra.ph/file/7e0acadf407215605e605.jpg",
+        "https://telegra.ph/file/a97106d8348e6b9f25ad5.jpg",
+        "https://telegra.ph/file/e46a0ab822b986e8b3615.jpg",
+        "https://telegra.ph/file/5b68a7f268fea08a48bf8.jpg",
+        "https://telegra.ph/file/8fbdd875ac919170d0dee.jpg",
+        "https://telegra.ph/file/fd755e1e2696ac2d19370.jpg",
+        "https://telegra.ph/file/a70e34a2e56b3fbd128d7.jpg",
+        "https://telegra.ph/file/1cb3fa71ccddad6210d91.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10801,
+    "title": "[C.R’s NEST (しーあーる)] 天使くんレビュアーズ (異種族レビュアーズ)",
+    "sourceUrl": "https://telegra.ph/CRs-NEST-しーあーる-天使くんレビュアーズ-異種族レビュアーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/6b50d257de9b0269f9003.jpg",
+        "https://telegra.ph/file/2424e603579ff9f08e4eb.jpg",
+        "https://telegra.ph/file/5aea17f31f618cf2fd634.jpg",
+        "https://telegra.ph/file/6c4c0b1b36f007c57384e.jpg",
+        "https://telegra.ph/file/0e5e17206a9cfbde2494e.jpg",
+        "https://telegra.ph/file/54d1c7c20174124a2bf7e.jpg",
+        "https://telegra.ph/file/2ff22811cccba978d32c1.jpg",
+        "https://telegra.ph/file/a433c0c3d6fbf53763ccb.jpg",
+        "https://telegra.ph/file/225aea4a4b95413e743df.jpg",
+        "https://telegra.ph/file/1f5dcb41643b7c451108d.jpg",
+        "https://telegra.ph/file/1126c2e709f296b31de9f.jpg",
+        "https://telegra.ph/file/3bdcfbc56d679a5fbd5be.jpg",
+        "https://telegra.ph/file/fce610d9fb417227b34e2.jpg",
+        "https://telegra.ph/file/c0580dc3dbaf317898561.jpg",
+        "https://telegra.ph/file/aac69a6ac8fe84095290d.jpg",
+        "https://telegra.ph/file/fb825c5c4003e00d7cd9b.jpg",
+        "https://telegra.ph/file/d8cad97d6a3e67267ec31.jpg",
+        "https://telegra.ph/file/440b323f9555d66c8ea60.jpg",
+        "https://telegra.ph/file/7325f88ddcae459918197.jpg",
+        "https://telegra.ph/file/8e9aac517c1f852614ec5.jpg",
+        "https://telegra.ph/file/f6f6ff2bc4620fe1b2d9d.jpg",
+        "https://telegra.ph/file/74b07d4a46d182f64ee33.jpg",
+        "https://telegra.ph/file/d470d13f4e6752e4979aa.jpg",
+        "https://telegra.ph/file/a00d480d4482c7744e16d.jpg",
+        "https://telegra.ph/file/fed81a27a5cca960a78c9.jpg",
+        "https://telegra.ph/file/3922246e833085076ac38.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

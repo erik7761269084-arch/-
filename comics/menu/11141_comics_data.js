@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11141,
+    "title": "[長代ルージュ] 会長♀と副会長♀のフジュンなおつきあい 第2話",
+    "sourceUrl": "https://telegra.ph/長代ルージュ-会長と副会長のフジュンなおつきあい-第2話-08-31",
+    "images": [
+        "https://telegra.ph/file/abc6ff263a75ebb31c10e.jpg",
+        "https://telegra.ph/file/a9664f0a10de57d6ada7f.jpg",
+        "https://telegra.ph/file/1f332f225882f0c271c67.jpg",
+        "https://telegra.ph/file/893965152182cbfec0fd7.jpg",
+        "https://telegra.ph/file/4867736307fccc534ba8b.jpg",
+        "https://telegra.ph/file/8aa7ec7756819f8ca15d1.jpg",
+        "https://telegra.ph/file/a6edad6817572f9e81233.jpg",
+        "https://telegra.ph/file/60d90dbf6d642c89de171.jpg",
+        "https://telegra.ph/file/38f2443cea2ead3ccdf70.jpg",
+        "https://telegra.ph/file/8cc666da0217bcebaa734.jpg",
+        "https://telegra.ph/file/d9b98f48de1880a413a98.jpg",
+        "https://telegra.ph/file/7409ec76e8fb57bd07758.jpg",
+        "https://telegra.ph/file/9c2a6aaa314e36cae4011.jpg",
+        "https://telegra.ph/file/d0a1d3affb20e67e63192.jpg",
+        "https://telegra.ph/file/ad0b5a05c383d54576e53.jpg",
+        "https://telegra.ph/file/ef2c3d609fd8fb084c7bc.jpg",
+        "https://telegra.ph/file/5c909bb032bcf8ebc0723.jpg",
+        "https://telegra.ph/file/39ef09c449319bbf46df0.jpg",
+        "https://telegra.ph/file/38867895625d3c521e7e9.jpg",
+        "https://telegra.ph/file/75355fc3ecca3a5163c3b.jpg",
+        "https://telegra.ph/file/0385fcfa5410210e165bb.jpg",
+        "https://telegra.ph/file/d5261e31092b5970a51c8.jpg",
+        "https://telegra.ph/file/130f8b6186e8bc2686c49.jpg",
+        "https://telegra.ph/file/42e61a33b7744e30781bc.jpg",
+        "https://telegra.ph/file/a8892264d60e60e55f0bd.jpg",
+        "https://telegra.ph/file/7661e4ce814ff75eef77d.jpg",
+        "https://telegra.ph/file/d3ab61d6f5bf6ed03efc4.jpg",
+        "https://telegra.ph/file/a8e45ff59352508aa1be1.jpg",
+        "https://telegra.ph/file/cef4de7f24cc9e319f8c2.jpg",
+        "https://telegra.ph/file/b3732ddbda3ab9235dd0f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

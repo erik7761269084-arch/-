@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13008,
+    "title": "[にぎりうさぎ] 彼女のお仕事【全話】",
+    "sourceUrl": "https://telegra.ph/にぎりうさぎ-彼女のお仕事全話-08-31",
+    "images": [
+        "https://telegra.ph/file/8beb1737afc4426d204fc.jpg",
+        "https://telegra.ph/file/564aa656e4c0fdc862b22.jpg",
+        "https://telegra.ph/file/3a8b9dd75646a835b6cff.jpg",
+        "https://telegra.ph/file/d01d0aacce363f4eecdf0.jpg",
+        "https://telegra.ph/file/586478a503e1eeb9a9bae.jpg",
+        "https://telegra.ph/file/bb39e8bdf793a8957224f.jpg",
+        "https://telegra.ph/file/d1be8af4939f64b516af3.jpg",
+        "https://telegra.ph/file/3a31881918bffccc827a7.jpg",
+        "https://telegra.ph/file/a535291eb5c4d81672c10.jpg",
+        "https://telegra.ph/file/008c86dbbd3631df72cd4.jpg",
+        "https://telegra.ph/file/385faa094ba981e7ef245.jpg",
+        "https://telegra.ph/file/541ad65c4462da3d7c2b9.jpg",
+        "https://telegra.ph/file/4015f700182cd4a9ae63e.jpg",
+        "https://telegra.ph/file/519d53c3ad09568ce3942.jpg",
+        "https://telegra.ph/file/91d446bf9b6798178e940.jpg",
+        "https://telegra.ph/file/d0fb9b1e63ae67c31b802.jpg",
+        "https://telegra.ph/file/62fa9c43a6978e906d985.jpg",
+        "https://telegra.ph/file/699ede7405ca23f93f4c9.jpg",
+        "https://telegra.ph/file/6346ca0f822c931965f00.jpg",
+        "https://telegra.ph/file/3e9f2f2ee0574bbc4b806.jpg",
+        "https://telegra.ph/file/5e85799118e51ebbe7cfe.jpg",
+        "https://telegra.ph/file/b0581d3eaabac5c2d7d74.jpg",
+        "https://telegra.ph/file/7fdf5a544e241b0e25c78.jpg",
+        "https://telegra.ph/file/4ec6151156008103e0b65.jpg",
+        "https://telegra.ph/file/acf044a7400cca03790a4.jpg",
+        "https://telegra.ph/file/2650588fc004d15c198df.jpg",
+        "https://telegra.ph/file/a9fda6f5eb13389635640.jpg",
+        "https://telegra.ph/file/f78ea4ac5999781e9a088.jpg",
+        "https://telegra.ph/file/0e2093020f19ed926c574.jpg",
+        "https://telegra.ph/file/18184fcf558c1002f6b9e.jpg",
+        "https://telegra.ph/file/ac866cdd6813cb044a445.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

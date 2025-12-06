@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11774,
+    "title": "[なまえれんらく] みぎわに寄る人 (コミックゼロス #88)",
+    "sourceUrl": "https://telegra.ph/なまえれんらく-みきわに寄る人-コミックゼロス-88-08-31",
+    "images": [
+        "https://telegra.ph/file/63bb37521bac8ec8e18dc.jpg",
+        "https://telegra.ph/file/9a552d2185cac08e82283.jpg",
+        "https://telegra.ph/file/525234383ea21309c5bfa.jpg",
+        "https://telegra.ph/file/1345b62a4870d28b7cb15.jpg",
+        "https://telegra.ph/file/5de8906af0007e121c02f.jpg",
+        "https://telegra.ph/file/1bb6a73f5455ec9eaa4c0.jpg",
+        "https://telegra.ph/file/dcf259af7b20cf03f0610.jpg",
+        "https://telegra.ph/file/e68bc0d7b1d427f8ec72e.jpg",
+        "https://telegra.ph/file/bd34a662e23ed6b234601.jpg",
+        "https://telegra.ph/file/bade34a9cf94ab448f9a1.jpg",
+        "https://telegra.ph/file/3bcc24777fcef2f761d04.jpg",
+        "https://telegra.ph/file/2151d01269d1a8d5fa46a.jpg",
+        "https://telegra.ph/file/022cc8061de67a9f09d4c.jpg",
+        "https://telegra.ph/file/d17192264bc7124188792.jpg",
+        "https://telegra.ph/file/4a0981918aa68348a70d1.jpg",
+        "https://telegra.ph/file/4750856b2e7ddb9e3e31b.jpg",
+        "https://telegra.ph/file/70cd1bcb9ec33018c42b3.jpg",
+        "https://telegra.ph/file/b4a0fc28f34c2ccb5875b.jpg",
+        "https://telegra.ph/file/0e8acb6637b0be816a751.jpg",
+        "https://telegra.ph/file/5a15c2c5d19cda0e45e02.jpg",
+        "https://telegra.ph/file/d6b95162ace2b24ef6616.jpg",
+        "https://telegra.ph/file/3680a9dfa360d75d7b130.jpg",
+        "https://telegra.ph/file/5181244b21e56f0a04afe.jpg",
+        "https://telegra.ph/file/afac6fea25d8f3cda03d4.jpg",
+        "https://telegra.ph/file/6d3ab86aac683c42fdbee.jpg",
+        "https://telegra.ph/file/6eda4fa194820666b3623.jpg",
+        "https://telegra.ph/file/ecafc8f0be39a1f8b627c.jpg",
+        "https://telegra.ph/file/1f886e569a8f1d52fdf30.jpg",
+        "https://telegra.ph/file/b7a2d456aaba30f4cb388.jpg",
+        "https://telegra.ph/file/0dc97e6f260bc00221dea.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

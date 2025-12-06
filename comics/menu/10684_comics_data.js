@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10684,
+    "title": "[ロケットモンキー] 秘めアイ 前編 (コミックホットミルク濃いめ vol.20)",
+    "sourceUrl": "https://telegra.ph/ロケットモンキー-秘めアイ-前編-コミックホットミルク濃いめ-vol20-08-31",
+    "images": [
+        "https://telegra.ph/file/08fece15264528702ea05.jpg",
+        "https://telegra.ph/file/f9d79a3cef746055a6c38.jpg",
+        "https://telegra.ph/file/715a3b6a0c724a7d633bc.jpg",
+        "https://telegra.ph/file/80574a66b3ce0a21ef2f2.jpg",
+        "https://telegra.ph/file/e68363f2a339e57d91b40.jpg",
+        "https://telegra.ph/file/c7f8ce6764469db1e0ee6.jpg",
+        "https://telegra.ph/file/9c9f8fd6a34482fe2dc91.jpg",
+        "https://telegra.ph/file/abb8aeab62a81c8afd064.jpg",
+        "https://telegra.ph/file/ed280c33789050385239c.jpg",
+        "https://telegra.ph/file/e3a44d4e88430be261912.jpg",
+        "https://telegra.ph/file/708eb14df0ff95a5bb5e5.jpg",
+        "https://telegra.ph/file/f777a93ab8f5efc3f5c2d.jpg",
+        "https://telegra.ph/file/a954d585d1859494dc262.jpg",
+        "https://telegra.ph/file/87736377c60de5d0754ec.jpg",
+        "https://telegra.ph/file/e17e05263c42dca71fd6b.jpg",
+        "https://telegra.ph/file/f13e969ea42de36d19ecd.jpg",
+        "https://telegra.ph/file/2e92b06db4e3e6ba816f7.jpg",
+        "https://telegra.ph/file/782ba90ee7825569f724a.jpg",
+        "https://telegra.ph/file/5f53d5330407d1043984c.jpg",
+        "https://telegra.ph/file/6edfc77dc98c744046161.jpg",
+        "https://telegra.ph/file/281393e856fc4a35a9223.jpg",
+        "https://telegra.ph/file/01f4825da2bc842c7b2dc.jpg",
+        "https://telegra.ph/file/e120584d591839c0110de.jpg",
+        "https://telegra.ph/file/91bf5f4201328c59b6a2a.jpg",
+        "https://telegra.ph/file/333b423a81080a97d1e86.jpg",
+        "https://telegra.ph/file/ea2adec6b9d3761847f4c.jpg",
+        "https://telegra.ph/file/23d55804388a7430f51dd.jpg",
+        "https://telegra.ph/file/338ebd0b7aaba9b3fd504.jpg",
+        "https://telegra.ph/file/70db254ce7b4da7e836e8.jpg",
+        "https://telegra.ph/file/16cf1a752714e512a6d28.jpg",
+        "https://telegra.ph/file/b09400e379de049c90d99.jpg",
+        "https://telegra.ph/file/457b116756da3ad08f58e.jpg",
+        "https://telegra.ph/file/c73ecf212c2c8d5496ebe.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

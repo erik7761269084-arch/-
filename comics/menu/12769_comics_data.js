@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 12769,
+    "title": "(C95) [関西オレンジ (荒井啓)] 主将は練習がしたい! (MAJOR 2nd)",
+    "sourceUrl": "https://telegra.ph/C95-関西オレンジ-荒井啓-主将は練習がしたい-MAJOR-2nd-08-31",
+    "images": [
+        "https://telegra.ph/file/398a5953431e0221120e1.jpg",
+        "https://telegra.ph/file/83ad33c8a9c5776f97940.jpg",
+        "https://telegra.ph/file/f52e474aa42764a18358a.jpg",
+        "https://telegra.ph/file/47b813d0d4b6752980913.jpg",
+        "https://telegra.ph/file/d260cc53f6d93c7f46b5a.jpg",
+        "https://telegra.ph/file/223914d8f414f1d6b6b8e.jpg",
+        "https://telegra.ph/file/c049adb3d3ee50ccb92c0.jpg",
+        "https://telegra.ph/file/b7f3bb93cead0adb24276.jpg",
+        "https://telegra.ph/file/aa786818a7283070d3827.jpg",
+        "https://telegra.ph/file/9d2df9d586854d63b45c2.jpg",
+        "https://telegra.ph/file/d88b1ac6243e7a4a15532.jpg",
+        "https://telegra.ph/file/1b3885eea6036a816c9d4.jpg",
+        "https://telegra.ph/file/6c91be4b66e5a0fe32c7c.jpg",
+        "https://telegra.ph/file/f64795e009829aa60278e.jpg",
+        "https://telegra.ph/file/1c9172c9d0f64c4db21e7.jpg",
+        "https://telegra.ph/file/6523a8c49c036c8169012.jpg",
+        "https://telegra.ph/file/fccb398de3a60e97b6f58.jpg",
+        "https://telegra.ph/file/bd200af06f289cfbea120.jpg",
+        "https://telegra.ph/file/16c480e9516e05c0ae817.jpg",
+        "https://telegra.ph/file/c278996f6d43b3a7a1071.jpg",
+        "https://telegra.ph/file/f0e8cbcd1d16016fd78b5.jpg",
+        "https://telegra.ph/file/59f740500100bf1e3adc7.jpg",
+        "https://telegra.ph/file/a2b14455cf27243fedd9a.jpg",
+        "https://telegra.ph/file/f41d7159eaf4cb5a3b21d.jpg",
+        "https://telegra.ph/file/cc740d5cecf8996fbcd31.jpg",
+        "https://telegra.ph/file/c16272539824bcc798e57.jpg",
+        "https://telegra.ph/file/d2a4aec31c782d521d98e.jpg",
+        "https://telegra.ph/file/d7825ab7a3efa025d1577.jpg",
+        "https://telegra.ph/file/325310f862be57101005a.jpg",
+        "https://telegra.ph/file/25947b507b81e13ad2e9e.jpg",
+        "https://telegra.ph/file/7b625845b93d87a4bbb8c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

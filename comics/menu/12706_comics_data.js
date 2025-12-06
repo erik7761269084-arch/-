@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12706,
+    "title": "[自家発電処 (flanvia)] 穴とむっつりどすけべだいとしょかん 3 (東方Project)",
+    "sourceUrl": "https://telegra.ph/自家発電処-flanvia-穴とむっつりどすけべだいとしょかん-3-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/5d61b8bbc3eeb3009cc21.jpg",
+        "https://telegra.ph/file/e62a42ca0647834522ade.jpg",
+        "https://telegra.ph/file/f43fb1857d296c207c51c.jpg",
+        "https://telegra.ph/file/72ff6959ed37530293ebb.jpg",
+        "https://telegra.ph/file/49b468cae1505d971f7c2.jpg",
+        "https://telegra.ph/file/689e42b10570b21369d99.jpg",
+        "https://telegra.ph/file/c7907584e049274c2ea35.jpg",
+        "https://telegra.ph/file/6c7b338f69d8d6c093e5f.jpg",
+        "https://telegra.ph/file/2760c6f565871441e81e8.jpg",
+        "https://telegra.ph/file/6799532238dc3d18ba51b.jpg",
+        "https://telegra.ph/file/c59a03449423ec86a3422.jpg",
+        "https://telegra.ph/file/81197c76c77343e717b5c.jpg",
+        "https://telegra.ph/file/33a1ebf341451cc31c93f.jpg",
+        "https://telegra.ph/file/30ead8c04bfd405e9311a.jpg",
+        "https://telegra.ph/file/c0330a4ba301049300b6c.jpg",
+        "https://telegra.ph/file/f7e79ea85b7951d2806c1.jpg",
+        "https://telegra.ph/file/715dca0c7fd17c6ab9d4f.jpg",
+        "https://telegra.ph/file/45582345408faf6fb9e31.jpg",
+        "https://telegra.ph/file/2049165c6e5375658e6e7.jpg",
+        "https://telegra.ph/file/ae25ab34c2431eb2f6d3a.jpg",
+        "https://telegra.ph/file/4db44e7608863df2431b0.jpg",
+        "https://telegra.ph/file/6aa12d1bed080df01e383.jpg",
+        "https://telegra.ph/file/0df88c7d1356065b267fa.jpg",
+        "https://telegra.ph/file/35c2731f6bf055a4f429d.jpg",
+        "https://telegra.ph/file/7dd3c7e31ceae7b3b95a3.jpg",
+        "https://telegra.ph/file/f830343d34d0ecfdcbcb2.jpg",
+        "https://telegra.ph/file/4a7be98861acf4f2e5abe.jpg",
+        "https://telegra.ph/file/5a8c4f7bdece80c2d7899.jpg",
+        "https://telegra.ph/file/195edf2d751440d9e80fd.jpg",
+        "https://telegra.ph/file/b0a00ce7fa103563b0d7b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

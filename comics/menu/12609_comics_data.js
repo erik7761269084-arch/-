@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12609,
+    "title": "[暗ノ吽] 俺最強クエスト ～異世界ハーレムの書・下～ (COMIC アンスリウム 2021年3月号)",
+    "sourceUrl": "https://telegra.ph/暗ノ吽-俺最強クエスト-異世界ハーレムの書下-COMIC-アンスリウム-2021年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/221ac1440d5f5ae27fb2e.jpg",
+        "https://telegra.ph/file/da2f76d7af846c8af9905.jpg",
+        "https://telegra.ph/file/ef54f73f6d33d20cd90dd.jpg",
+        "https://telegra.ph/file/2590c70f756a291f00be7.jpg",
+        "https://telegra.ph/file/8c7d094dff3f692f96d87.jpg",
+        "https://telegra.ph/file/52e292d9b14d594005e2a.jpg",
+        "https://telegra.ph/file/40366abd10eac42e651a4.jpg",
+        "https://telegra.ph/file/11dc4c550f210fe464840.jpg",
+        "https://telegra.ph/file/a66557c40111f8b0538ce.jpg",
+        "https://telegra.ph/file/3025683ac9b78b7f0bc31.jpg",
+        "https://telegra.ph/file/6fc53720b8034224caea1.jpg",
+        "https://telegra.ph/file/5f2a46c1fb70b190d40d6.jpg",
+        "https://telegra.ph/file/0c12b5b4ffdb4749cb210.jpg",
+        "https://telegra.ph/file/bac4e53b60e8258bca300.jpg",
+        "https://telegra.ph/file/a78085d4fd68e044546fd.jpg",
+        "https://telegra.ph/file/3a4c491018f6f9fa04732.jpg",
+        "https://telegra.ph/file/d2c2c6bc014f2c1b84e49.jpg",
+        "https://telegra.ph/file/5769a6796a2d7651f1e5b.jpg",
+        "https://telegra.ph/file/bc16364b6506157fa35a2.jpg",
+        "https://telegra.ph/file/76ebb96725ca24123198c.jpg",
+        "https://telegra.ph/file/b7145d4f9a2cddab1fd40.jpg",
+        "https://telegra.ph/file/ce2c08b8e77bd5bb5a891.jpg",
+        "https://telegra.ph/file/395c1654a1f4097f62f5b.jpg",
+        "https://telegra.ph/file/cabe000be993aee576a64.jpg",
+        "https://telegra.ph/file/55966ac044ae147757d3f.jpg",
+        "https://telegra.ph/file/1711a1eb7f5828ea00d8a.jpg",
+        "https://telegra.ph/file/d2dcb43ba3ee360adcf87.jpg",
+        "https://telegra.ph/file/b446b8c1c6a837ce036d0.jpg",
+        "https://telegra.ph/file/faf680ed58fdc383eace2.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

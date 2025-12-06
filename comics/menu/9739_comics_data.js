@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9739,
+    "title": "(C85) [フニフニラボ (たまごろー)] チビッコビッチXY (ポケットモンスター)  [カラー化]",
+    "sourceUrl": "https://telegra.ph/C85-フニフニラボ-たまごろー-チビッコビッチXY-ポケットモンスター-カラー化-08-31",
+    "images": [
+        "https://telegra.ph/file/b0efceeb240ee98b4af8e.jpg",
+        "https://telegra.ph/file/d42029bcd5f228b8c1062.jpg",
+        "https://telegra.ph/file/d55aa042cb2a7e2fd449f.jpg",
+        "https://telegra.ph/file/387bda86b1923b3521846.jpg",
+        "https://telegra.ph/file/53abde2393688a8d201ce.jpg",
+        "https://telegra.ph/file/e83bd4112d36f7bde9e7f.jpg",
+        "https://telegra.ph/file/b87a968fedb3301c54a0d.jpg",
+        "https://telegra.ph/file/4d0c58378744758e7e60f.jpg",
+        "https://telegra.ph/file/8dad376e5214f9993e05f.jpg",
+        "https://telegra.ph/file/0c8a227b9e7eccc824a9d.jpg",
+        "https://telegra.ph/file/d5d1df914e91161ed29b1.jpg",
+        "https://telegra.ph/file/da7061191e7299afc31e9.jpg",
+        "https://telegra.ph/file/7cba7a6367664c68d137c.jpg",
+        "https://telegra.ph/file/3f7517e7a3697e4a44b53.jpg",
+        "https://telegra.ph/file/ac0e6f4884a1e11552734.jpg",
+        "https://telegra.ph/file/6a4d065e560d6fd3657ef.jpg",
+        "https://telegra.ph/file/088e65dbebcb34d0af1f9.jpg",
+        "https://telegra.ph/file/bd2719b7cc6d109a63477.jpg",
+        "https://telegra.ph/file/0644cee273d5a15e9efe5.jpg",
+        "https://telegra.ph/file/52c5ef88aadaeede7c4d9.jpg",
+        "https://telegra.ph/file/c3eba299f973939b79830.jpg",
+        "https://telegra.ph/file/c0787d7c55462cdfbb281.jpg",
+        "https://telegra.ph/file/a24f4cd21070737b950c1.jpg",
+        "https://telegra.ph/file/3863b44643b4183273837.jpg",
+        "https://telegra.ph/file/6640b2749425771cd9cf7.jpg",
+        "https://telegra.ph/file/1b5e069d64c6583f96b89.jpg",
+        "https://telegra.ph/file/4f74c1a551b9cfaeaf0d3.jpg",
+        "https://telegra.ph/file/cfb2adead6595cb2c56db.jpg",
+        "https://telegra.ph/file/a2c7cfe86a53cc1bfce7d.jpg",
+        "https://telegra.ph/file/735525c7ae03fd05b00b9.jpg",
+        "https://telegra.ph/file/e61c02363d884eb5d615c.jpg",
+        "https://telegra.ph/file/69a0352cda19eda11d265.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

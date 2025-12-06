@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13348,
+    "title": "[デジアンコ (あんこまん)] 竿役アストルフォが女英霊とエッチしまくる本2 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/デジアンコ-あんこまん-竿役アストルフォが女英霊とエッチしまくる本2-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/78f34ba8413e24da4479c.jpg",
+        "https://telegra.ph/file/8c26a9145edb91ebf2788.jpg",
+        "https://telegra.ph/file/b7e326c850af183ae4c35.jpg",
+        "https://telegra.ph/file/897c31bbab1363aea237c.jpg",
+        "https://telegra.ph/file/35f1040e40fc8496a5d64.jpg",
+        "https://telegra.ph/file/2bbe99887cdffae44159e.jpg",
+        "https://telegra.ph/file/7965e18d6c7ac59d9dcdb.jpg",
+        "https://telegra.ph/file/92f84fef600b00763a2fc.jpg",
+        "https://telegra.ph/file/2fd37a72e02d02bc04cdc.jpg",
+        "https://telegra.ph/file/9d1726401917da9a53f16.jpg",
+        "https://telegra.ph/file/4a5d2da991d13dd4c7382.jpg",
+        "https://telegra.ph/file/1a5eba87487fe58225021.jpg",
+        "https://telegra.ph/file/43f74c36b8dd654fe0f77.jpg",
+        "https://telegra.ph/file/aa37f62346c220d119212.jpg",
+        "https://telegra.ph/file/2e31e936da0faf86c7b02.jpg",
+        "https://telegra.ph/file/d4062069014b640a502ea.jpg",
+        "https://telegra.ph/file/a729c002ce2ff89dc0f55.jpg",
+        "https://telegra.ph/file/335028a1ab725b49343f0.jpg",
+        "https://telegra.ph/file/3587bf7a43812f7ee7c3d.jpg",
+        "https://telegra.ph/file/26a54afa54ba45cb3bc60.jpg",
+        "https://telegra.ph/file/0870a32f4b556e8a22101.jpg",
+        "https://telegra.ph/file/c6810197e22991bfc5aaa.jpg",
+        "https://telegra.ph/file/3c8a304669e1a0004e830.jpg",
+        "https://telegra.ph/file/385d67b05fefe70cd5153.jpg",
+        "https://telegra.ph/file/267c64cbe68915be3c2cb.jpg",
+        "https://telegra.ph/file/19cdd74fc4cd8ef48dbfc.jpg",
+        "https://telegra.ph/file/58a4eccde74803727843a.jpg",
+        "https://telegra.ph/file/c29234b5b1bdb995d3a92.jpg",
+        "https://telegra.ph/file/8d67c40bdad1c908d993d.jpg",
+        "https://telegra.ph/file/bd010b2d3f6037da6b245.jpg",
+        "https://telegra.ph/file/a8aa54ac70db522744d85.jpg",
+        "https://telegra.ph/file/613c1d688df294dfc5302.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

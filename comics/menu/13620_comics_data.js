@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13620,
+    "title": "[大正ロマネスク (遠野すいか)] 彼女がタトゥーを入れた訳 ～片思いの巨乳地味娘がヤリチン彼氏に染められるまで～",
+    "sourceUrl": "https://telegra.ph/大正ロマネスク-遠野すいか-彼女がタトゥーを入れた訳-片思いの巨乳地味娘がヤリチン彼氏に染められるまで-08-31",
+    "images": [
+        "https://telegra.ph/file/970a08a825b7e0373b183.jpg",
+        "https://telegra.ph/file/75ac8c66b48f9513403ba.jpg",
+        "https://telegra.ph/file/7fe28ec0f23931ca49fdd.jpg",
+        "https://telegra.ph/file/8b228247e9edb83d90bcc.jpg",
+        "https://telegra.ph/file/81f53210f4190c8366f1b.jpg",
+        "https://telegra.ph/file/15ff92e78872cdb085c44.jpg",
+        "https://telegra.ph/file/cbebd6e3ae5d81f2df00c.jpg",
+        "https://telegra.ph/file/588e5a5802e5791554463.jpg",
+        "https://telegra.ph/file/bf26e305ba3cd2f715a30.jpg",
+        "https://telegra.ph/file/acb58ad3cde6819e69ad6.jpg",
+        "https://telegra.ph/file/bcffac10597ac95dd09f6.jpg",
+        "https://telegra.ph/file/ef96676beb99b6c3085c1.jpg",
+        "https://telegra.ph/file/55bceaa70de161b346f61.jpg",
+        "https://telegra.ph/file/d47a9d31bd041e436c36b.jpg",
+        "https://telegra.ph/file/f39b017a264efa8837a76.jpg",
+        "https://telegra.ph/file/43b7cae5d651224dffc40.jpg",
+        "https://telegra.ph/file/3d6150740626b8fbde91e.jpg",
+        "https://telegra.ph/file/4e617cdcfddb316069e77.jpg",
+        "https://telegra.ph/file/339979c8ba1b621674119.jpg",
+        "https://telegra.ph/file/d3821ceb3d23bf4ef8230.jpg",
+        "https://telegra.ph/file/92844a6bc268043e205db.jpg",
+        "https://telegra.ph/file/9c15b314f1075e20be2b5.jpg",
+        "https://telegra.ph/file/7123d38e826dbf63d1a98.jpg",
+        "https://telegra.ph/file/7199e111648b70dfd1025.jpg",
+        "https://telegra.ph/file/6b15727ab124bd87776db.jpg",
+        "https://telegra.ph/file/051b1d649697b9e9ce10b.jpg",
+        "https://telegra.ph/file/e1f7bae1f3fb1f5ad2553.jpg",
+        "https://telegra.ph/file/663127a6459536c5309cb.jpg",
+        "https://telegra.ph/file/8a2097c5cc6b4eea0cf1a.jpg",
+        "https://telegra.ph/file/3e44a259c331345b8d64a.jpg",
+        "https://telegra.ph/file/503096fa11a4b2cac3885.jpg",
+        "https://telegra.ph/file/4078646c0f436dc34fa8f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

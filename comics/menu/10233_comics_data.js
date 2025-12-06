@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10233,
+    "title": "[虎助遥人] 千夏ちゃんと入れたいおじさん (COMIC アンスリウム 2020年11月号)",
+    "sourceUrl": "https://telegra.ph/虎助遥人-千夏ちゃんと入れたいおじさん-COMIC-アンスリウム-2020年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/94bde1d95fc9a1e9c744b.jpg",
+        "https://telegra.ph/file/088cf58b9f5534846fac4.jpg",
+        "https://telegra.ph/file/27de343f64f053e3623f8.jpg",
+        "https://telegra.ph/file/822906610593855a73030.jpg",
+        "https://telegra.ph/file/115179afa2d3526622fdd.jpg",
+        "https://telegra.ph/file/28cb1831e824ef9316ac5.jpg",
+        "https://telegra.ph/file/4131f4d5720fd9cd16035.jpg",
+        "https://telegra.ph/file/c054e6cc67c30f2d98c79.jpg",
+        "https://telegra.ph/file/2ece768869f1e0fbba47e.jpg",
+        "https://telegra.ph/file/affe478d2ae6c74634fc1.jpg",
+        "https://telegra.ph/file/d6db3066c9895b4f6d7b3.jpg",
+        "https://telegra.ph/file/6a77b6826ee7fdaea34c3.jpg",
+        "https://telegra.ph/file/0a07bfe8e87d7684d54b6.jpg",
+        "https://telegra.ph/file/d7acb72c9a1bb6b1fbff3.jpg",
+        "https://telegra.ph/file/092302f3b19c5786e42dd.jpg",
+        "https://telegra.ph/file/fdcaba3b822c73c6fb6c2.jpg",
+        "https://telegra.ph/file/d651931dab6cd33c25020.jpg",
+        "https://telegra.ph/file/680406fddf73891b6e1a0.jpg",
+        "https://telegra.ph/file/4c096eaaf6ab293e4d74d.jpg",
+        "https://telegra.ph/file/1469cd61c3eee201a3edd.jpg",
+        "https://telegra.ph/file/39428e0019dabcba4bba6.jpg",
+        "https://telegra.ph/file/27c0495503d74d721a84c.jpg",
+        "https://telegra.ph/file/8de8a13cbb58387de7efe.jpg",
+        "https://telegra.ph/file/840778284f7f48c2a4051.jpg",
+        "https://telegra.ph/file/00aefdd3f5557d755af67.jpg",
+        "https://telegra.ph/file/c96d5bd7d8a1c44cd21e8.jpg",
+        "https://telegra.ph/file/357ca0c04f80532b47d09.jpg",
+        "https://telegra.ph/file/50e46533ea77cd2601821.jpg",
+        "https://telegra.ph/file/086e3d36c67efaf24406e.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

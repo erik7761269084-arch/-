@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15644,
+    "title": "(COMIC1☆23) [帰宅時間 (きたく)] トマト畑でつかまえて (機動戦士ガンダム 水星の魔女) -Preview",
+    "sourceUrl": "https://telegra.ph/COMIC123-帰宅時間-きたく-トマト畑でつかまえて-機動戦士ガンダム-水星の魔女--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/e362273ccc8b1d687f2ac.jpg",
+        "https://telegra.ph/file/6840bbbefefd5e3f5a2a2.jpg",
+        "https://telegra.ph/file/1c13f423e3bdce6a1f1c0.jpg",
+        "https://telegra.ph/file/a39a6bf8fdc9c9c9572e2.jpg",
+        "https://telegra.ph/file/a11abdac975bde62e3e35.jpg",
+        "https://telegra.ph/file/57361355d724c8bebe521.jpg",
+        "https://telegra.ph/file/61fdfeec279bc29a6158c.jpg",
+        "https://telegra.ph/file/a299e3c0c91946b46f931.jpg",
+        "https://telegra.ph/file/b89d009371733786fd908.jpg",
+        "https://telegra.ph/file/eb9229666065b70246c05.jpg",
+        "https://telegra.ph/file/794bc2d5738c09993fa17.jpg",
+        "https://telegra.ph/file/dff422af8225dde41cd05.jpg",
+        "https://telegra.ph/file/ef625f075a4476f192223.jpg",
+        "https://telegra.ph/file/f270e79d8be0b1c5d0ec5.jpg",
+        "https://telegra.ph/file/695392561ed87316c2803.jpg",
+        "https://telegra.ph/file/8264726df75ab759d77f2.jpg",
+        "https://telegra.ph/file/2c4a1c8f6c5ff8ec0130f.jpg",
+        "https://telegra.ph/file/5e88434b3226eeeca7025.jpg",
+        "https://telegra.ph/file/842071c9108092b7aaa88.jpg",
+        "https://telegra.ph/file/7097236e745ebafcb0c5c.jpg",
+        "https://telegra.ph/file/36298f245d61ffe26b56c.jpg",
+        "https://telegra.ph/file/929ac58db94a0f3d7817e.jpg",
+        "https://telegra.ph/file/2b1486e517695e832fedf.jpg",
+        "https://telegra.ph/file/d7ef36d2e2e892b4c85ee.jpg",
+        "https://telegra.ph/file/d7efdcdfd29d0ab3ceb5e.jpg",
+        "https://telegra.ph/file/d7579a9092ddb90551f11.jpg",
+        "https://telegra.ph/file/3392975d4a1491f3e23a2.jpg",
+        "https://telegra.ph/file/2888b102db8baeb50ae44.jpg",
+        "https://telegra.ph/file/e203f3f5bef86a74fa86e.jpg",
+        "https://telegra.ph/file/de10d86a53c6ca5585f15.jpg",
+        "https://telegra.ph/file/abf81799e0209a49423aa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

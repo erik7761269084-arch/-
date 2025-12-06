@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10501,
+    "title": "[恥辱庵 (まれお)] 発情ふたなり娘とメス堕ちパパ",
+    "sourceUrl": "https://telegra.ph/恥辱庵-まれお-発情ふたなり娘とメス堕ちパパ-08-31-3",
+    "images": [
+        "https://telegra.ph/file/8feedd2eec75d1c559053.jpg",
+        "https://telegra.ph/file/bcdea4cd0e042d8bd1714.jpg",
+        "https://telegra.ph/file/97a8e97ae3788cffb46f1.jpg",
+        "https://telegra.ph/file/7eeab8b55749e7f3faf7c.jpg",
+        "https://telegra.ph/file/5f189182e3f0c574074da.jpg",
+        "https://telegra.ph/file/ec8b413f70bc56b3c2d7b.jpg",
+        "https://telegra.ph/file/b2dd88ed3aa56c486b871.jpg",
+        "https://telegra.ph/file/93b3d19832f1f790240c6.jpg",
+        "https://telegra.ph/file/07a8d3d69f5f0f456a086.jpg",
+        "https://telegra.ph/file/77771973dcf1a1204032c.jpg",
+        "https://telegra.ph/file/ffde429dda4793a5f5e9c.jpg",
+        "https://telegra.ph/file/0a5f9729de05e2a91394c.jpg",
+        "https://telegra.ph/file/b4936346f16a56573c1b2.jpg",
+        "https://telegra.ph/file/e2c9326c514ef7b0fbb3e.jpg",
+        "https://telegra.ph/file/10d6098c6e72f31f88c0c.jpg",
+        "https://telegra.ph/file/8ce501601f0fd8cdff6f4.jpg",
+        "https://telegra.ph/file/2440012d629e4dda4db15.jpg",
+        "https://telegra.ph/file/159b9d8f7890cf4052332.jpg",
+        "https://telegra.ph/file/13031052f135d2009877e.jpg",
+        "https://telegra.ph/file/9aad426146359f7f01816.jpg",
+        "https://telegra.ph/file/b7eb539c34a097eca9d93.jpg",
+        "https://telegra.ph/file/3954017fa7b01ad0776f3.jpg",
+        "https://telegra.ph/file/30886ed9418bf75f3db8c.jpg",
+        "https://telegra.ph/file/d778b55acd1c471021b6f.jpg",
+        "https://telegra.ph/file/e980e4426a5456fd09db2.jpg",
+        "https://telegra.ph/file/3c4b6e4c4096323a35c49.jpg",
+        "https://telegra.ph/file/2739bdab44cef1856b851.jpg",
+        "https://telegra.ph/file/5fa1f6373e651be204b9b.jpg",
+        "https://telegra.ph/file/8610f152afaa7f3784281.jpg",
+        "https://telegra.ph/file/643907d1871c78c81888f.jpg",
+        "https://telegra.ph/file/154baa77405a07a36134a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

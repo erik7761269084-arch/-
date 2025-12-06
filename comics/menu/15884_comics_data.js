@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15884,
+    "title": "[わんこね工房 (たんれ～)] 不器用な二人 (マギアレコード 魔法少女まどか☆マギカ外伝)   -Preview",
+    "sourceUrl": "https://telegra.ph/わんこね工房-たんれ-不器用な二人-マギアレコード-魔法少女まどかマギカ外伝--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/5d7b416e6ceb3bc28fa34.jpg",
+        "https://telegra.ph/file/b40a7b2c01cd35b89d58b.jpg",
+        "https://telegra.ph/file/56dd8e48d10f9e192ac88.jpg",
+        "https://telegra.ph/file/0eb21038684545cabac1f.jpg",
+        "https://telegra.ph/file/fc8208553dcd5d1a0789b.jpg",
+        "https://telegra.ph/file/4922043bc5dbbf5012ff8.jpg",
+        "https://telegra.ph/file/82d4efe2e3cc06419d688.jpg",
+        "https://telegra.ph/file/d687168bc5ef5b540115a.jpg",
+        "https://telegra.ph/file/157ff3baf16fa55738f6d.jpg",
+        "https://telegra.ph/file/0a5db03d6745ccc16b505.jpg",
+        "https://telegra.ph/file/ee3d61035f512bea5023a.jpg",
+        "https://telegra.ph/file/e4911f5a3f97273c2ec1a.jpg",
+        "https://telegra.ph/file/f4a239bf4249437eb01a3.jpg",
+        "https://telegra.ph/file/90c915782f5a7fee1905c.jpg",
+        "https://telegra.ph/file/344ce908c86875ca8ce63.jpg",
+        "https://telegra.ph/file/092d2286e3eb2d00dc916.jpg",
+        "https://telegra.ph/file/0c4ea7ae62a12099063f7.jpg",
+        "https://telegra.ph/file/c0573abb48e5855ae9e12.jpg",
+        "https://telegra.ph/file/813227d3591859ac63544.jpg",
+        "https://telegra.ph/file/207153df6d9b589dd15ab.jpg",
+        "https://telegra.ph/file/9ca15be423c5177eba2a7.jpg",
+        "https://telegra.ph/file/c6ceab6aa6ac71bc0db82.jpg",
+        "https://telegra.ph/file/0276ecadf4eda06a37866.jpg",
+        "https://telegra.ph/file/03ad8e65d48ea07d43a7b.jpg",
+        "https://telegra.ph/file/4dba9df4deaf33f89ad69.jpg",
+        "https://telegra.ph/file/d8df7c004c4f408183317.jpg",
+        "https://telegra.ph/file/0306defd9326c2b0becee.jpg",
+        "https://telegra.ph/file/3f3e8322bfc63453690ee.jpg",
+        "https://telegra.ph/file/580515dbf562962cbdea1.jpg",
+        "https://telegra.ph/file/4564726eacc3c2b73656c.jpg",
+        "https://telegra.ph/file/60f16f6caa44b31f7cd81.jpg",
+        "https://telegra.ph/file/c55aea048e5bffb06f98f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

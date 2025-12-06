@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10285,
+    "title": "[ぎんハハ] エキドナ (Re:ゼロから始める異世界生活)",
+    "sourceUrl": "https://telegra.ph/ぎんハハ-エキドナ-Reゼロから始める異世界生活-08-31",
+    "images": [
+        "https://telegra.ph/file/07b4e513c6cbcf897aa02.jpg",
+        "https://telegra.ph/file/08c9bc9c3304ea4f865bb.jpg",
+        "https://telegra.ph/file/92f8dc65dede79a56450f.jpg",
+        "https://telegra.ph/file/a3ebcec6eed29b5b4b22b.jpg",
+        "https://telegra.ph/file/7c4728f02ed68631e038b.jpg",
+        "https://telegra.ph/file/ead3da69c7dfca8af2efc.jpg",
+        "https://telegra.ph/file/fe49c329ef489e545a13e.jpg",
+        "https://telegra.ph/file/589da5c6a297791acb297.jpg",
+        "https://telegra.ph/file/ab785d84ca27a60bd8134.jpg",
+        "https://telegra.ph/file/2f170ddeee2d0cb0e9b37.jpg",
+        "https://telegra.ph/file/d3a7f45e7ec24ca0d9464.jpg",
+        "https://telegra.ph/file/9426af267b54392d50e8d.jpg",
+        "https://telegra.ph/file/c9a4655f2a0d26299a575.jpg",
+        "https://telegra.ph/file/4eb66527c44369b8bcfe3.jpg",
+        "https://telegra.ph/file/d0496e30330b26d3234b5.jpg",
+        "https://telegra.ph/file/2a43f36e614b81fd0630d.jpg",
+        "https://telegra.ph/file/22845f1b66013f9660ffb.jpg",
+        "https://telegra.ph/file/b4b5dc731188541e3c23e.jpg",
+        "https://telegra.ph/file/4ea8cc704542e09bc3b39.jpg",
+        "https://telegra.ph/file/5a1c8dec9cd7fd1e922aa.jpg",
+        "https://telegra.ph/file/958965873829d55a2c49f.jpg",
+        "https://telegra.ph/file/d8dea47f8693c118defc3.jpg",
+        "https://telegra.ph/file/f34aeb901fb58171f97af.jpg",
+        "https://telegra.ph/file/cb6186d679e72a7e367a1.jpg",
+        "https://telegra.ph/file/98ecead7882a414c22cb4.jpg",
+        "https://telegra.ph/file/9bbc7d40a3ed800ff7014.jpg",
+        "https://telegra.ph/file/0335f0228da067f0dfa9e.jpg",
+        "https://telegra.ph/file/695b9b54ce12fad13f65e.jpg",
+        "https://telegra.ph/file/d2f96610d30a3ab8787db.jpg",
+        "https://telegra.ph/file/aa910ab8b130071ab9066.jpg",
+        "https://telegra.ph/file/c1efab84e1e3d65ecceb4.jpg",
+        "https://telegra.ph/file/227d452d62838f7694363.jpg",
+        "https://telegra.ph/file/2994521a821eb8e9e55f4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14056,
+    "title": "[おとちち] 裏PTA＜ルーシー先生の肛門チラ見え水泳レッスン＞ (COMIC 夢幻転生 2021年5月号)",
+    "sourceUrl": "https://telegra.ph/おとちち-裏PTAルーシー先生の肛門チラ見え水泳レッスン-COMIC-夢幻転生-2021年5月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ba0c942eeb98af1ee8846.jpg",
+        "https://telegra.ph/file/73c837e76f810bed62480.jpg",
+        "https://telegra.ph/file/905e2e5e1e889a85731e9.jpg",
+        "https://telegra.ph/file/b1efe5dfab78f1d454b8d.jpg",
+        "https://telegra.ph/file/f49e57f1e94b26d2a22ea.jpg",
+        "https://telegra.ph/file/a7ccd376ef97ee4da0d3c.jpg",
+        "https://telegra.ph/file/f8bd35c1236440287a41f.jpg",
+        "https://telegra.ph/file/7bd5137ee5f4533847ea1.jpg",
+        "https://telegra.ph/file/e1a94461e74fd02b87c4f.jpg",
+        "https://telegra.ph/file/3aec7b5a88ee232f380c9.jpg",
+        "https://telegra.ph/file/f131fd8305ca51169051b.jpg",
+        "https://telegra.ph/file/b2daffbaca0f49914598a.jpg",
+        "https://telegra.ph/file/c8de9fe5a7eb16aa100ee.jpg",
+        "https://telegra.ph/file/85a007696de1bfb2878ff.jpg",
+        "https://telegra.ph/file/1deb26aba907a594e9548.jpg",
+        "https://telegra.ph/file/cc4e2e49b540ee598828f.jpg",
+        "https://telegra.ph/file/59e1db515c5022021132d.jpg",
+        "https://telegra.ph/file/51bdfa4227c0f94d673a5.jpg",
+        "https://telegra.ph/file/5aa4b1e1fef6751d33240.jpg",
+        "https://telegra.ph/file/789ef0e2ada39de3ebc8f.jpg",
+        "https://telegra.ph/file/2ba0ce0d74d019b29c5ca.jpg",
+        "https://telegra.ph/file/b8f2e1205969a0f1fb499.jpg",
+        "https://telegra.ph/file/0379a9b51b87d12b1ec7c.jpg",
+        "https://telegra.ph/file/9f85b91735dabb43bd587.jpg",
+        "https://telegra.ph/file/f36fc752f3344e59ab048.jpg",
+        "https://telegra.ph/file/1fb03b2380a3debc6c1f2.jpg",
+        "https://telegra.ph/file/7b2695919cb824f8a0357.jpg",
+        "https://telegra.ph/file/05421ddda939fb1f98288.jpg",
+        "https://telegra.ph/file/93dca9c06988f78e6d215.jpg",
+        "https://telegra.ph/file/7c7fa2250d7f4881f1317.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

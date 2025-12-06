@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11874,
+    "title": "[江森うき] 愛母淫語教育 (COMIC クリベロン DUMA 2019年9月号 Vol.16)",
+    "sourceUrl": "https://telegra.ph/江森うき-愛母淫語教育-COMIC-クリベロン-DUMA-2019年9月号-Vol16-08-31",
+    "images": [
+        "https://telegra.ph/file/29b3ce0d288adda418f88.jpg",
+        "https://telegra.ph/file/6fd5033bb9b0e57c8b2f9.jpg",
+        "https://telegra.ph/file/827d24d103e6abc7e54c4.jpg",
+        "https://telegra.ph/file/6ba5996177ce516e67219.jpg",
+        "https://telegra.ph/file/d197497eb1ddc66559c68.jpg",
+        "https://telegra.ph/file/95ce28a75dd60f2d51891.jpg",
+        "https://telegra.ph/file/97051f4ebc030c17d55c2.jpg",
+        "https://telegra.ph/file/4084130410c30cd7e9d64.jpg",
+        "https://telegra.ph/file/51bbc6a88bf6a035ebfc6.jpg",
+        "https://telegra.ph/file/b375bab719118bc133e14.jpg",
+        "https://telegra.ph/file/f0d5edd941b2c0a22eff2.jpg",
+        "https://telegra.ph/file/b5480b8e4ee20ce71ec0e.jpg",
+        "https://telegra.ph/file/cc3d1d683f2ab4887e6cb.jpg",
+        "https://telegra.ph/file/c60c7d190a74f505b334d.jpg",
+        "https://telegra.ph/file/a47aa9a0f7cbb088db3ae.jpg",
+        "https://telegra.ph/file/337fd595165becf382849.jpg",
+        "https://telegra.ph/file/103454a9209fa123fd0ed.jpg",
+        "https://telegra.ph/file/7085541af667e5fd08490.jpg",
+        "https://telegra.ph/file/455113ca813d1f9da4cfa.jpg",
+        "https://telegra.ph/file/a572301551bf9ece52fb2.jpg",
+        "https://telegra.ph/file/bec930c048bcb394556a5.jpg",
+        "https://telegra.ph/file/755dcc1890ce5694a7026.jpg",
+        "https://telegra.ph/file/06ff52e5b66d6533a2251.jpg",
+        "https://telegra.ph/file/a5a53d875e067add58083.jpg",
+        "https://telegra.ph/file/14c831cc8b8fc9265fdd8.jpg",
+        "https://telegra.ph/file/1d0d9fdd57b1127b3f81d.jpg",
+        "https://telegra.ph/file/f82e878833fb2fc85fc91.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/db3bf54a356b7373958d9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9391,
+    "title": "[ろんな] 妊活デート (COMIC 快楽天ビースト 2022年6月号)",
+    "sourceUrl": "https://telegra.ph/ろんな-妊活デート-COMIC-快楽天ビースト-2022年6月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f13f7806f0182023995ae.jpg",
+        "https://telegra.ph/file/d2115fc57854b1041d2b0.jpg",
+        "https://telegra.ph/file/9f0303582894bdc62a52c.jpg",
+        "https://telegra.ph/file/0b40ee9801d51c35efd89.jpg",
+        "https://telegra.ph/file/474d6f558d13728e408e2.jpg",
+        "https://telegra.ph/file/faeed3cae744df91a9a9a.jpg",
+        "https://telegra.ph/file/e4d8b341c3cc1fdfd6cde.jpg",
+        "https://telegra.ph/file/06d842c457518011a05f3.jpg",
+        "https://telegra.ph/file/01a622c25376c540d9683.jpg",
+        "https://telegra.ph/file/4b6424dbbe21eff7915f8.jpg",
+        "https://telegra.ph/file/a46557c44324ece214736.jpg",
+        "https://telegra.ph/file/4c4a48bb582b5ae86ff4b.jpg",
+        "https://telegra.ph/file/c0a4daf9af9379342a424.jpg",
+        "https://telegra.ph/file/2b7331232ba8f4cbb6279.jpg",
+        "https://telegra.ph/file/fcffff609298a023d2e10.jpg",
+        "https://telegra.ph/file/89c390b6163083af0867c.jpg",
+        "https://telegra.ph/file/0dcd6a5cbcfb3f21d1c9d.jpg",
+        "https://telegra.ph/file/a530c3123521d31684862.jpg",
+        "https://telegra.ph/file/e5fe91ea40797baabf135.jpg",
+        "https://telegra.ph/file/28b9ed9dfb5aef6602e0f.jpg",
+        "https://telegra.ph/file/77b376c0d44c369a51904.jpg",
+        "https://telegra.ph/file/977c59cb09b9cb045e952.jpg",
+        "https://telegra.ph/file/0bc593429b4a4ec9dfc7a.jpg",
+        "https://telegra.ph/file/ff7fa7326db1f78ebe265.jpg",
+        "https://telegra.ph/file/0c9843a477310babb5217.jpg",
+        "https://telegra.ph/file/cf006e1ed410f105e9009.jpg",
+        "https://telegra.ph/file/0f01c271bad851208480d.jpg",
+        "https://telegra.ph/file/e74788b8dc081324e143d.jpg",
+        "https://telegra.ph/file/3896eb7c80832672988a1.jpg",
+        "https://telegra.ph/file/98107b9753843a61cf82b.jpg",
+        "https://telegra.ph/file/6de3bf4dbda02fd37ecd1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

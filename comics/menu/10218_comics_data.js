@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10218,
+    "title": "[ねこはまんまがうつくしい (Hisasi)] かぐや様の縁結び (かぐや様は告らせたい)",
+    "sourceUrl": "https://telegra.ph/ねこはまんまがうつくしい-Hisasi-かぐや様の縁結び-かぐや様は告らせたい-08-31",
+    "images": [
+        "https://telegra.ph/file/bbb0db1ccf0f345cd202d.jpg",
+        "https://telegra.ph/file/214c48f649b6e0e21f690.jpg",
+        "https://telegra.ph/file/4587cf34829581974db41.jpg",
+        "https://telegra.ph/file/9951a69dad9ce06e5c6c1.jpg",
+        "https://telegra.ph/file/68b43b02a3ddb2db8baa5.jpg",
+        "https://telegra.ph/file/d2b346eff100978901057.jpg",
+        "https://telegra.ph/file/529c915f21e246212f371.jpg",
+        "https://telegra.ph/file/2c9cb904f74e9de68495d.jpg",
+        "https://telegra.ph/file/f1995a5a0fe86210e2bb4.jpg",
+        "https://telegra.ph/file/5f09c677112c64c2562d9.jpg",
+        "https://telegra.ph/file/99b5e065193c2969747dc.jpg",
+        "https://telegra.ph/file/07a5fd6e85dbf7df2981e.jpg",
+        "https://telegra.ph/file/a39eb42cef21fd32ac8a3.jpg",
+        "https://telegra.ph/file/75af84f580e66c9b70ab1.jpg",
+        "https://telegra.ph/file/89069ab4732b4f11fd2cd.jpg",
+        "https://telegra.ph/file/bb9964a9d758226271fb4.jpg",
+        "https://telegra.ph/file/9ace4388d76a2334be532.jpg",
+        "https://telegra.ph/file/43b3cfc0aa025adf9f24f.jpg",
+        "https://telegra.ph/file/84571ae182310b8b14a99.jpg",
+        "https://telegra.ph/file/f2642b03874ca77ee81ac.jpg",
+        "https://telegra.ph/file/318de89a80d49905cceb8.jpg",
+        "https://telegra.ph/file/16459e9d511254cf8898e.jpg",
+        "https://telegra.ph/file/9012923ee2969adbb2ad3.jpg",
+        "https://telegra.ph/file/7f8fb3374bc628c021c2b.jpg",
+        "https://telegra.ph/file/d371f9cb700209d76e9b3.jpg",
+        "https://telegra.ph/file/081bbde2a2ecc5b9e7e04.jpg",
+        "https://telegra.ph/file/0fb5ff6f43b9bfd5bfbc1.jpg",
+        "https://telegra.ph/file/28977dbb102769ce88042.jpg",
+        "https://telegra.ph/file/5fbeaa6c53bcd8d54446f.jpg",
+        "https://telegra.ph/file/e74d9a02fd1c46d9a745a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

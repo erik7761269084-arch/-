@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12362,
+    "title": "[八足跳び (邑仲広)] 美人鬼人秘書睡姦 (転生したらスライムだった件)",
+    "sourceUrl": "https://telegra.ph/八足跳び-邑仲広-美人鬼人秘書睡姦-転生したらスライムだった件-08-31",
+    "images": [
+        "https://telegra.ph/file/7d1bafa9e98e8eae32ace.jpg",
+        "https://telegra.ph/file/8572202ee8adc2fb0e296.jpg",
+        "https://telegra.ph/file/745535130ce494ebe20e6.jpg",
+        "https://telegra.ph/file/5fca7ceb82881188a6a98.jpg",
+        "https://telegra.ph/file/f375f1bf8a1e83549276d.jpg",
+        "https://telegra.ph/file/0168115573d3ecf25ac3e.jpg",
+        "https://telegra.ph/file/5bd8b6b945efa7b716a46.jpg",
+        "https://telegra.ph/file/5850c95e91771cac8b0c9.jpg",
+        "https://telegra.ph/file/6da640c2273869e41185e.jpg",
+        "https://telegra.ph/file/b10d737c024cf572de559.jpg",
+        "https://telegra.ph/file/f7734b7d19aec7b9f2c93.jpg",
+        "https://telegra.ph/file/51f006f24075abf6fddff.jpg",
+        "https://telegra.ph/file/86fa39ea750b753421aa5.jpg",
+        "https://telegra.ph/file/009bd171f419c92e93469.jpg",
+        "https://telegra.ph/file/c5b02651a3fb580866a0b.jpg",
+        "https://telegra.ph/file/e3af05f3a306994664338.jpg",
+        "https://telegra.ph/file/72af01b531fa97af51e87.jpg",
+        "https://telegra.ph/file/e80ce13a7deecf6ee4052.jpg",
+        "https://telegra.ph/file/e7209a13ce9638709daf5.jpg",
+        "https://telegra.ph/file/1762be3db524a3d160215.jpg",
+        "https://telegra.ph/file/2c7f9c595dcf92b055508.jpg",
+        "https://telegra.ph/file/bd1dc41e25eb55016c5f0.jpg",
+        "https://telegra.ph/file/fb3e0beff55b237007646.jpg",
+        "https://telegra.ph/file/27166b08e975407894889.jpg",
+        "https://telegra.ph/file/98f3ddbb5b7add6ba4190.jpg",
+        "https://telegra.ph/file/99d60b2eb5119231b76ad.png",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

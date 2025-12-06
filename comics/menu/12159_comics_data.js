@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12159,
+    "title": "[BLVEFO9] 乙女の特異性 - 第1章",
+    "sourceUrl": "https://telegra.ph/BLVEFO9-乙女の特異性---第1章-08-31",
+    "images": [
+        "https://telegra.ph/file/52a417c3f9e592cb3aff3.jpg",
+        "https://telegra.ph/file/7c84c99ba5cc2939da723.jpg",
+        "https://telegra.ph/file/19ec78074db027a9dc7d9.jpg",
+        "https://telegra.ph/file/bc813fcb3ed5c40fd2495.jpg",
+        "https://telegra.ph/file/08964e5ef61511af2b08d.jpg",
+        "https://telegra.ph/file/f2a82a584a922a39a84ab.jpg",
+        "https://telegra.ph/file/e99dcc691cdc05960eaa6.jpg",
+        "https://telegra.ph/file/031ad29b8ce5c8d1c6b0e.jpg",
+        "https://telegra.ph/file/d3d6f2562e614455f60d8.jpg",
+        "https://telegra.ph/file/f08f25c929ee54b931337.jpg",
+        "https://telegra.ph/file/3cb3eeb3ef95b10d8a00f.jpg",
+        "https://telegra.ph/file/0aaf1059bb6c85b4c1aa2.jpg",
+        "https://telegra.ph/file/bd332c8a9d2b4cfcfcdd6.jpg",
+        "https://telegra.ph/file/8ad0620c7f1514c2d4cd0.jpg",
+        "https://telegra.ph/file/a57184bc9f748f66b3136.jpg",
+        "https://telegra.ph/file/ac8203d976a3251e63f6b.jpg",
+        "https://telegra.ph/file/fdc5527fe0cac9b48183c.jpg",
+        "https://telegra.ph/file/b531f87410fbf6e3a1558.jpg",
+        "https://telegra.ph/file/619f663ef7d4415549c44.jpg",
+        "https://telegra.ph/file/c23151761acf5049588e8.jpg",
+        "https://telegra.ph/file/54e28fce2a90650202662.jpg",
+        "https://telegra.ph/file/fdd64ad95ed69c03634a7.jpg",
+        "https://telegra.ph/file/b5701da9b12b5a4533a0b.jpg",
+        "https://telegra.ph/file/8f97e1820411740f4d49c.jpg",
+        "https://telegra.ph/file/144b85336a891cf26a189.jpg",
+        "https://telegra.ph/file/038001f91067ffd20ba39.jpg",
+        "https://telegra.ph/file/5a8974c434e0c45c7c4d5.jpg",
+        "https://telegra.ph/file/2c5c086a1826a90d1e147.jpg",
+        "https://telegra.ph/file/b646270db9fb21148e584.jpg",
+        "https://telegra.ph/file/20d6691c90d2b8ef526e1.jpg",
+        "https://telegra.ph/file/1e2cae4aa1b0d11202b9e.jpg",
+        "https://telegra.ph/file/58f7fcdb3bb6e5b88d133.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

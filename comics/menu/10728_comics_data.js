@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10728,
+    "title": "[Monaim] 神龙天女",
+    "sourceUrl": "https://telegra.ph/Monaim-神龙天女-08-31",
+    "images": [
+        "https://telegra.ph/file/3dc0c55c1846481b2e83d.jpg",
+        "https://telegra.ph/file/664316e5c6c256c9c5969.jpg",
+        "https://telegra.ph/file/80a06cb31f9f47248cd0f.jpg",
+        "https://telegra.ph/file/77c391444fb2819119def.jpg",
+        "https://telegra.ph/file/4358d7c1321294004f3ae.jpg",
+        "https://telegra.ph/file/134190f7c02cc3d61c544.jpg",
+        "https://telegra.ph/file/6d9c948dd8ca05f4a3734.jpg",
+        "https://telegra.ph/file/e0906ae06af1fae7ff600.jpg",
+        "https://telegra.ph/file/1ac60753753cf092a1976.jpg",
+        "https://telegra.ph/file/0545b7d3a79bab816e104.jpg",
+        "https://telegra.ph/file/fb294b304f121bfa92709.jpg",
+        "https://telegra.ph/file/5672c8d4c0579a85a4e87.jpg",
+        "https://telegra.ph/file/1c29c43d8aa8fce0473c8.jpg",
+        "https://telegra.ph/file/32eb405673a99f03fb31f.jpg",
+        "https://telegra.ph/file/17006b951fd3a5e8ebc34.jpg",
+        "https://telegra.ph/file/9d04aeec82cc90b5b31c7.jpg",
+        "https://telegra.ph/file/6465f5f7d165ff72f89fe.jpg",
+        "https://telegra.ph/file/263a86bed53f708090257.jpg",
+        "https://telegra.ph/file/284a5d7a2962b79b21b36.jpg",
+        "https://telegra.ph/file/dfe5f4194bbb3a7186830.jpg",
+        "https://telegra.ph/file/f7fce2a065621a42671c9.jpg",
+        "https://telegra.ph/file/883f7440d27ed567f2ded.jpg",
+        "https://telegra.ph/file/a7cad4734817733afa448.jpg",
+        "https://telegra.ph/file/eacb89f84f74348dc2e96.jpg",
+        "https://telegra.ph/file/352389f91c9c99522ef99.jpg",
+        "https://telegra.ph/file/659508299fdf752448aca.jpg",
+        "https://telegra.ph/file/efd0df487d2d1e597795c.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15987,
+    "title": "[にぃさん工房 (松岡二)] 杏子がいるから (魔法少女まどか☆マギカ)  -Preview",
+    "sourceUrl": "https://telegra.ph/にぃさん工房-松岡二-杏子がいるから-魔法少女まどかマギカ--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/42bc773ec85bf26de0d04.jpg",
+        "https://telegra.ph/file/dad60dc3df979e3e46bac.jpg",
+        "https://telegra.ph/file/a859430b13294bdef8399.jpg",
+        "https://telegra.ph/file/8962e4dcca83ba31f1eb2.jpg",
+        "https://telegra.ph/file/45d3ff2e4e3f58ea6c06a.jpg",
+        "https://telegra.ph/file/ee440ae2f660e6322897b.jpg",
+        "https://telegra.ph/file/af7379c087b8a1e4a8211.jpg",
+        "https://telegra.ph/file/027122e0b9099af313cad.jpg",
+        "https://telegra.ph/file/902fad8bc21b5067ee5af.jpg",
+        "https://telegra.ph/file/7bfeaa62e174101c46af5.jpg",
+        "https://telegra.ph/file/56608b009656c550f940a.jpg",
+        "https://telegra.ph/file/bebcab05a5750705c73ae.jpg",
+        "https://telegra.ph/file/b74ec1f4967b0c378c96a.jpg",
+        "https://telegra.ph/file/18da0b009111c2194d11e.jpg",
+        "https://telegra.ph/file/10a36f317918086cc26b1.jpg",
+        "https://telegra.ph/file/43c2e173ef31dd0f70c64.jpg",
+        "https://telegra.ph/file/287cb71e7b3f47df3902c.jpg",
+        "https://telegra.ph/file/8cfd5efab87dcdd6b7446.jpg",
+        "https://telegra.ph/file/8c45f5e3fd535ccad8276.jpg",
+        "https://telegra.ph/file/d3960be58703952381284.jpg",
+        "https://telegra.ph/file/f6ff3b141f81f4415ac8a.jpg",
+        "https://telegra.ph/file/1fbc702866dfee99d330c.jpg",
+        "https://telegra.ph/file/7192c754b50b967ac9ca3.jpg",
+        "https://telegra.ph/file/de323066813d73cfe50e1.jpg",
+        "https://telegra.ph/file/edfb963fdce8ebc8fbdd6.jpg",
+        "https://telegra.ph/file/d6ffe0b01b5217e810b7a.jpg",
+        "https://telegra.ph/file/64543eba08b4cf9226437.jpg",
+        "https://telegra.ph/file/2f5eead25377896cfe36d.jpg",
+        "https://telegra.ph/file/c4326d9a7e52fb700d9b2.jpg",
+        "https://telegra.ph/file/4818868a02c5b5ec49097.jpg",
+        "https://telegra.ph/file/1f01f1badba1a81c7af93.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

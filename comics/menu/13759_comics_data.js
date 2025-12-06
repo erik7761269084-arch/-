@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13759,
+    "title": "[どうしょく (INAGITA)] 催眠術で真面目な生徒会長を手に入れた俺",
+    "sourceUrl": "https://telegra.ph/どうしょく-INAGITA-催眠術で真面目な生徒会長を手に入れた俺-08-31",
+    "images": [
+        "https://telegra.ph/file/db5cfc4cbea59efaf7167.jpg",
+        "https://telegra.ph/file/92fec41a2fe27259cfea5.jpg",
+        "https://telegra.ph/file/5dc047cf1f5115a4b8d99.jpg",
+        "https://telegra.ph/file/0eb889d915009f2935371.jpg",
+        "https://telegra.ph/file/66e308dd054dee26fe90b.jpg",
+        "https://telegra.ph/file/65380f9c3b548700b6d65.jpg",
+        "https://telegra.ph/file/239deaee35f8ecbc5d91c.jpg",
+        "https://telegra.ph/file/a92405f590ad86e083bbc.jpg",
+        "https://telegra.ph/file/ec4866b2a1c43ee5ec699.jpg",
+        "https://telegra.ph/file/2214dae76d8a5d0cb2630.jpg",
+        "https://telegra.ph/file/c97b22954516fda414f88.jpg",
+        "https://telegra.ph/file/ba13e888670fd84633ec5.jpg",
+        "https://telegra.ph/file/bbeb11c7f13c69d07e6a4.jpg",
+        "https://telegra.ph/file/55562f981e54e512e7e10.jpg",
+        "https://telegra.ph/file/9aa11f226b1cc4b83744d.jpg",
+        "https://telegra.ph/file/f97ce4963b60681f432f3.jpg",
+        "https://telegra.ph/file/c1e59673cca615426f097.jpg",
+        "https://telegra.ph/file/b6c15dcacd3011fc28980.jpg",
+        "https://telegra.ph/file/89068f687027b40286940.jpg",
+        "https://telegra.ph/file/cfaee54427d9d9126eb61.jpg",
+        "https://telegra.ph/file/0c336d6c9ce4b1c535b86.jpg",
+        "https://telegra.ph/file/34daa343825eb1189480e.jpg",
+        "https://telegra.ph/file/b62fdd579ad4548fbe1d1.jpg",
+        "https://telegra.ph/file/9fe81d59c3b57be2f2cef.jpg",
+        "https://telegra.ph/file/09aea102c4f2ade282da2.jpg",
+        "https://telegra.ph/file/e2f94f797158433e83c06.jpg",
+        "https://telegra.ph/file/d7d8f75d995af5e8ecb56.jpg",
+        "https://telegra.ph/file/843c6f424d2111c96353f.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/7abff077db918b8401758.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

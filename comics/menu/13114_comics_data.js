@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13114,
+    "title": "[栗原ケンシロウ] ウラハラ彼女 (コミック ジエス 01)",
+    "sourceUrl": "https://telegra.ph/栗原ケンシロウ-ウラハラ彼女-コミック-ジエス-01-08-31",
+    "images": [
+        "https://telegra.ph/file/7db356be0175e5215d2b0.jpg",
+        "https://telegra.ph/file/9c94336ddd2adee88fc73.jpg",
+        "https://telegra.ph/file/e1f6f3bc09658012e1e79.jpg",
+        "https://telegra.ph/file/4391d76feb87af2c7f5ac.jpg",
+        "https://telegra.ph/file/51cc9b244178671289111.jpg",
+        "https://telegra.ph/file/ce47c5280e585559d9d87.jpg",
+        "https://telegra.ph/file/d0e6de003256227146cbd.jpg",
+        "https://telegra.ph/file/d368e691e64b5b78d9b61.jpg",
+        "https://telegra.ph/file/f145929df8da976389214.jpg",
+        "https://telegra.ph/file/05c1267fd27977f8f9d4b.jpg",
+        "https://telegra.ph/file/5d9ff724a4e08ebad4223.jpg",
+        "https://telegra.ph/file/26eabb413832554840985.jpg",
+        "https://telegra.ph/file/19f9ba628fa866ba333c4.jpg",
+        "https://telegra.ph/file/5899d04fc63532192c425.jpg",
+        "https://telegra.ph/file/12b638c0546678dd849e8.jpg",
+        "https://telegra.ph/file/080b8ef5c00210ced58e0.jpg",
+        "https://telegra.ph/file/9e2d54c8c5de28b9db3fe.jpg",
+        "https://telegra.ph/file/27f5e2d61a04b96d1190b.jpg",
+        "https://telegra.ph/file/cbab5046abaf7c6fc0647.jpg",
+        "https://telegra.ph/file/c89fa803859fd1d7e9694.jpg",
+        "https://telegra.ph/file/f6919d3a6e43f99328f18.jpg",
+        "https://telegra.ph/file/e17849e3f22918fbe32b0.jpg",
+        "https://telegra.ph/file/4e930935fbf4d866d9fad.jpg",
+        "https://telegra.ph/file/1009d6f1d2910fb4979f2.jpg",
+        "https://telegra.ph/file/c2d319f6fdd48b91a5064.jpg",
+        "https://telegra.ph/file/9b301fde0d9daf6dccba1.jpg",
+        "https://telegra.ph/file/aefa53704bab671d84ad1.jpg",
+        "https://telegra.ph/file/ad7cd44d1f3bd2d15a76b.jpg",
+        "https://telegra.ph/file/60ed03dc0aaa60599de4a.jpg",
+        "https://telegra.ph/file/2bd3dfe71d7347c09c9cc.jpg",
+        "https://telegra.ph/file/25dc782d6be1cde9ec4a2.jpg",
+        "https://telegra.ph/file/a76cf8183b4aa7d219789.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

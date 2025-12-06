@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 16483,
+    "title": "おたえ×沙綾のえっち-Preview",
+    "sourceUrl": "https://telegra.ph/おたえ沙綾のえっち-Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P1.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P2.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P3.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P4.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P5.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P6.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P7.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P8.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P9.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P10.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P11.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P12.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P13.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P14.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P15.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P16.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P17.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P18.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P19.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P20.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P21.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P22.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P23.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P24.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P25.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P26.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P27.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P28.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P29.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P30.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P31.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P32.webp",
+        "https://i2.linghua.xyz/ex/3233750/8b9d41600f/P33.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

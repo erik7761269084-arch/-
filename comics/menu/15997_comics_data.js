@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15997,
+    "title": "[スズオ] シェアハウス～ドキドキ！？3P百合セックス 2 -Preview",
+    "sourceUrl": "https://telegra.ph/スズオ-シェアハウスドキドキ3P百合セックス-2--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/563f08c62a5e4bf408f6e.jpg",
+        "https://telegra.ph/file/648b378bd8b6429e8b6cd.jpg",
+        "https://telegra.ph/file/c396a9445ec9cd31218ba.jpg",
+        "https://telegra.ph/file/af1ffb72ff5b5db3ce0ee.jpg",
+        "https://telegra.ph/file/ef7f7c44fd87a126c4955.jpg",
+        "https://telegra.ph/file/4f5ef9ca72b4716840ae4.jpg",
+        "https://telegra.ph/file/b3d0350b7f1e3db82f1a5.jpg",
+        "https://telegra.ph/file/13234938cef3d9372e929.jpg",
+        "https://telegra.ph/file/2e35241c7c231f97b142a.jpg",
+        "https://telegra.ph/file/e978d7095ebb8c0f274db.jpg",
+        "https://telegra.ph/file/462cb6b930101adf0643b.jpg",
+        "https://telegra.ph/file/bdcc58c2f07304be9f0d2.jpg",
+        "https://telegra.ph/file/e1f572b6d6158be88b8a8.jpg",
+        "https://telegra.ph/file/bc236a0bacaa7f207b55b.jpg",
+        "https://telegra.ph/file/8de730d525422410723cf.jpg",
+        "https://telegra.ph/file/feb38424e49776d655e28.jpg",
+        "https://telegra.ph/file/32cb80077d4f615324c0f.jpg",
+        "https://telegra.ph/file/b278002d6d9c9d1dbab8a.jpg",
+        "https://telegra.ph/file/af639a86cdf8230ab75c3.jpg",
+        "https://telegra.ph/file/956bb025942683befcc8c.jpg",
+        "https://telegra.ph/file/72dd8a60a848811a71af7.jpg",
+        "https://telegra.ph/file/b64bec7752eafba33f745.jpg",
+        "https://telegra.ph/file/1268034639c2fe350edd6.jpg",
+        "https://telegra.ph/file/73a78ce5f7e1f27cf7483.jpg",
+        "https://telegra.ph/file/1441a8a3ae8100441f70e.jpg",
+        "https://telegra.ph/file/01a8751a5978eaee28cfe.jpg",
+        "https://telegra.ph/file/2253580070e03cdd310a6.jpg",
+        "https://telegra.ph/file/88a5766fe763ce82226d8.jpg",
+        "https://telegra.ph/file/90b6ade1a2ff9e7b84c68.jpg",
+        "https://telegra.ph/file/1e3358c80d3dbd8d271bb.jpg",
+        "https://telegra.ph/file/4c0ed6d31bd2009f41e58.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

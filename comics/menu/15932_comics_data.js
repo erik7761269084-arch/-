@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15932,
+    "title": "(C97) [スパンコールオペラ (mamaloni)] おくすりぬれたね (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/C97-スパンコールオペラ-mamaloni-おくすりぬれたね-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/69590983a9968c42e57a5.jpg",
+        "https://telegra.ph/file/ad4652dff665c07bda6fb.jpg",
+        "https://telegra.ph/file/4e5eaf5b644ce14344fdd.jpg",
+        "https://telegra.ph/file/6f780274fae66d0bb890f.jpg",
+        "https://telegra.ph/file/d863117b4277c2c36c2d9.jpg",
+        "https://telegra.ph/file/135f423143b760f661447.jpg",
+        "https://telegra.ph/file/68096732174f1369a7b42.jpg",
+        "https://telegra.ph/file/cb2742e67770166e412bf.jpg",
+        "https://telegra.ph/file/a71800898751cfb367289.jpg",
+        "https://telegra.ph/file/594cca56ad801b5d5b21e.jpg",
+        "https://telegra.ph/file/ebc4e9814854393b53a7a.jpg",
+        "https://telegra.ph/file/7098306df9b15bbd9dd95.jpg",
+        "https://telegra.ph/file/3c0f6b985b2f5209c4fc8.jpg",
+        "https://telegra.ph/file/33f9d26f944069d9f5656.jpg",
+        "https://telegra.ph/file/9086f10781f24dfa7a1a7.jpg",
+        "https://telegra.ph/file/de2dfe5a4ab59458dd5fa.jpg",
+        "https://telegra.ph/file/dce3d44cd99a455ce398e.jpg",
+        "https://telegra.ph/file/baa51ebef07eeb242cd72.jpg",
+        "https://telegra.ph/file/3b0d182ab5199d05fac9c.jpg",
+        "https://telegra.ph/file/f028cf1924501e7c8e7ce.jpg",
+        "https://telegra.ph/file/873790df7670ffd41caf9.jpg",
+        "https://telegra.ph/file/7194c1d8d55b78c00c666.jpg",
+        "https://telegra.ph/file/335a1db93e865b956912d.jpg",
+        "https://telegra.ph/file/ff62046c76f3caa892cc5.jpg",
+        "https://telegra.ph/file/4b1dfbf2d545affb873ba.jpg",
+        "https://telegra.ph/file/6776f12b9ad3b483d8813.jpg",
+        "https://telegra.ph/file/5c832ea1e4d90aed5e549.jpg",
+        "https://telegra.ph/file/b6946bc0a981b855ca776.jpg",
+        "https://telegra.ph/file/9e24fc59fd90176da7fcf.jpg",
+        "https://telegra.ph/file/6191ceb812ee35e0920ac.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

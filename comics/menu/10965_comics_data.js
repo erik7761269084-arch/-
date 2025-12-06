@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 10965,
+    "title": "[リンスン] KNight Mare Underground ～姉妹騎士、姦落ダンジョン～ 第1話",
+    "sourceUrl": "https://telegra.ph/リンスン-KNight-Mare-Underground-姉妹騎士姦落ダンジョン-第1話-08-31",
+    "images": [
+        "https://telegra.ph/file/e16bec34538fd31c7d679.jpg",
+        "https://telegra.ph/file/7e18bbb7565f35188ba7b.jpg",
+        "https://telegra.ph/file/4c578a6f17e2650ffdc8b.jpg",
+        "https://telegra.ph/file/4bdfd4f937b1fd1663f83.jpg",
+        "https://telegra.ph/file/50e178a5eaa60dd1d1187.jpg",
+        "https://telegra.ph/file/c8594b1a81840d6736c80.jpg",
+        "https://telegra.ph/file/72734def434a5d05f6752.jpg",
+        "https://telegra.ph/file/c71385ca8a1ac5638cb25.jpg",
+        "https://telegra.ph/file/c3073be9d0e45f7bd7c3e.jpg",
+        "https://telegra.ph/file/6ab0a5512be9081a6a3f9.jpg",
+        "https://telegra.ph/file/8cfede0ef4c7290b8fc8b.jpg",
+        "https://telegra.ph/file/6a9e072f62fca11713981.jpg",
+        "https://telegra.ph/file/89c85c5c7bc53ecfecfa0.jpg",
+        "https://telegra.ph/file/fe01f6d85d59d56c0f2ae.jpg",
+        "https://telegra.ph/file/d7cce00e5fbd72ccc97aa.jpg",
+        "https://telegra.ph/file/5db12df48bb59e2697c06.jpg",
+        "https://telegra.ph/file/aa8ecc35f036b3949eee7.jpg",
+        "https://telegra.ph/file/4fbf18471c791359f84db.jpg",
+        "https://telegra.ph/file/edc15fafa6578ccc7681f.jpg",
+        "https://telegra.ph/file/d23e03a471838211c9a98.jpg",
+        "https://telegra.ph/file/f9a8f2a8f1adbea4b39b7.jpg",
+        "https://telegra.ph/file/33346fe686401bccf47ca.jpg",
+        "https://telegra.ph/file/4659169a9e1d15379cdd1.jpg",
+        "https://telegra.ph/file/e194f9341d2d3c9c07fec.jpg",
+        "https://telegra.ph/file/a4f9525eb9d43c1223925.jpg",
+        "https://telegra.ph/file/aebdf64b273cfca7371a8.jpg",
+        "https://telegra.ph/file/f0696553ea6a0f43480e5.jpg",
+        "https://telegra.ph/file/eaed0da38bc5208578d4c.jpg",
+        "https://telegra.ph/file/5b3bb8d932afc5345a298.jpg",
+        "https://telegra.ph/file/86f4284c74daa9fd6a37d.jpg",
+        "https://telegra.ph/file/b34edac611927e00f87d9.jpg",
+        "https://telegra.ph/file/41ffb0b81c1ccf88eae66.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

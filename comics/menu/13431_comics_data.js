@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 13431,
+    "title": "(C100) [森の道 (森シンリスク)] 六竜灯儀・金 (グランブルーファンタジー)",
+    "sourceUrl": "https://telegra.ph/C100-森の道-森シンリスク-六竜灯儀金-グランブルーファンタジー-08-31",
+    "images": [
+        "https://telegra.ph/file/62d7d56b221a84d4bb53b.jpg",
+        "https://telegra.ph/file/7820160010510cead20aa.jpg",
+        "https://telegra.ph/file/e7f84e35e68e9544c15e2.jpg",
+        "https://telegra.ph/file/381a65e9989148044dd7e.jpg",
+        "https://telegra.ph/file/68abc386dbbe9bc33af51.jpg",
+        "https://telegra.ph/file/639ce296916a585f2d042.jpg",
+        "https://telegra.ph/file/f165f5ed35b6bad0ada58.jpg",
+        "https://telegra.ph/file/ac21e95ea20f77f280ff3.jpg",
+        "https://telegra.ph/file/7aa447662caf388eeef30.jpg",
+        "https://telegra.ph/file/7c1a58dc703059c169264.jpg",
+        "https://telegra.ph/file/bba62ed9f7222a508f070.jpg",
+        "https://telegra.ph/file/6ecd0c78707c149d3c2b1.jpg",
+        "https://telegra.ph/file/dd9154f1513da034b932b.jpg",
+        "https://telegra.ph/file/e5123bee6d6372593806c.jpg",
+        "https://telegra.ph/file/831302ad7d144bce71741.jpg",
+        "https://telegra.ph/file/557e2b3e71ed50c3679a2.jpg",
+        "https://telegra.ph/file/b89e8f95867170a7fe5dd.jpg",
+        "https://telegra.ph/file/ff8f7bfe003f9b0916c1c.jpg",
+        "https://telegra.ph/file/a3b85c674d9dd1c860000.jpg",
+        "https://telegra.ph/file/61634d2ca7be6186a1d44.jpg",
+        "https://telegra.ph/file/6cc6cf813a4aef8ccf577.jpg",
+        "https://telegra.ph/file/1a13ae5680c9b4cb2cb01.jpg",
+        "https://telegra.ph/file/996ef58fa2361bc278524.jpg",
+        "https://telegra.ph/file/83e818d15326a39a4173c.jpg",
+        "https://telegra.ph/file/f6b5f63c048806c80b3dd.jpg",
+        "https://telegra.ph/file/f7a2c16190d02278f7090.jpg",
+        "https://telegra.ph/file/47b73068e558f2eff666a.jpg",
+        "https://telegra.ph/file/049f1cf987063e1362f4b.jpg",
+        "https://telegra.ph/file/14fadc1f5b993729ec76e.jpg",
+        "https://telegra.ph/file/d4f54ef3b383f4de71d1f.jpg",
+        "https://telegra.ph/file/e063d0a1e6502bed3b778.jpg",
+        "https://telegra.ph/file/d61fc108f1bc3ec7f74ba.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

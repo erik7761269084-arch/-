@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8077,
+    "title": "(C96) [Cow Lipid (風籟)] びびびびRIII (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-Cow-Lipid-風籟-びびびびRIII-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/96f31952a750c3fff4ff3.jpg",
+        "https://telegra.ph/file/b37073812b17bc34e2a6f.jpg",
+        "https://telegra.ph/file/86293d970e22c03e1e7cc.jpg",
+        "https://telegra.ph/file/2b29cc1f93fbe16d183bb.jpg",
+        "https://telegra.ph/file/1d3d7628bad2e79a06674.jpg",
+        "https://telegra.ph/file/f0d7e3730a91bbe47a313.jpg",
+        "https://telegra.ph/file/0708465f5a82c66a2907f.jpg",
+        "https://telegra.ph/file/a22e9f490a32c5525d3f9.jpg",
+        "https://telegra.ph/file/b4ca42c5d54121bd7fc05.jpg",
+        "https://telegra.ph/file/c2fb80ea541123f5e2e45.jpg",
+        "https://telegra.ph/file/2def683580bba46a862c1.jpg",
+        "https://telegra.ph/file/187da18c6e157b927e747.jpg",
+        "https://telegra.ph/file/b3ccb48cfe78ad5ac9945.jpg",
+        "https://telegra.ph/file/e678738eb5a5d6509b185.jpg",
+        "https://telegra.ph/file/fbc7e355579699cb53794.jpg",
+        "https://telegra.ph/file/53f32c3024e5c90eee58d.jpg",
+        "https://telegra.ph/file/6ce8471610f462c106c31.jpg",
+        "https://telegra.ph/file/a83f021ab076fc9c747e3.jpg",
+        "https://telegra.ph/file/46370a0d95accb68a0330.jpg",
+        "https://telegra.ph/file/ca6950a4e1cfecdf900fc.jpg",
+        "https://telegra.ph/file/a582afeb0f6af139b3f6f.jpg",
+        "https://telegra.ph/file/fac070a9dd911dddb815f.jpg",
+        "https://telegra.ph/file/ccc78aaaf17ddf07a0e02.jpg",
+        "https://telegra.ph/file/9f9033e65a9d76690113b.jpg",
+        "https://telegra.ph/file/b6b3a7dcad8d86f1e6244.jpg",
+        "https://telegra.ph/file/73aac23f8db59475c6bbd.jpg",
+        "https://telegra.ph/file/99365946302d09277b1a0.jpg",
+        "https://telegra.ph/file/a0bd2d13c35aa109c7225.jpg",
+        "https://telegra.ph/file/962aa3b1c85fd8b52f5c3.jpg",
+        "https://telegra.ph/file/e16facead548c98822463.jpg",
+        "https://telegra.ph/file/67bb67b77ff68fbfac86d.jpg",
+        "https://telegra.ph/file/41422fab25c726523674a.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

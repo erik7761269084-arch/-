@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11898,
+    "title": "[ジロウ] 彼女の甘い地雷臭 (蒸れメス 濃厚スメル)",
+    "sourceUrl": "https://telegra.ph/ジロウ-彼女の甘い地雷臭-蒸れメス-濃厚スメル-08-31",
+    "images": [
+        "https://telegra.ph/file/04714a0a745157a947c08.jpg",
+        "https://telegra.ph/file/85167ddcf69c064cb7ccd.jpg",
+        "https://telegra.ph/file/46fb8eb89f10aa0c04670.jpg",
+        "https://telegra.ph/file/440677bbb1b6a15694730.jpg",
+        "https://telegra.ph/file/d1abaa9e68928a8954958.jpg",
+        "https://telegra.ph/file/115a69db491a1ed635604.jpg",
+        "https://telegra.ph/file/48afd0d4a72677e8e8602.jpg",
+        "https://telegra.ph/file/ee9f368246f31257cab1f.jpg",
+        "https://telegra.ph/file/5abd36b8163f95c39adc4.jpg",
+        "https://telegra.ph/file/f1fe296c8ab46013bd735.jpg",
+        "https://telegra.ph/file/5e2336b8560617c9eeda0.jpg",
+        "https://telegra.ph/file/806a0bafbe7d3301be755.jpg",
+        "https://telegra.ph/file/97fe1bfe69792f4a421b7.jpg",
+        "https://telegra.ph/file/a023ad867e1482166b143.jpg",
+        "https://telegra.ph/file/cf4c550f9fcc6cf79f3b2.jpg",
+        "https://telegra.ph/file/ca8ed0dee0a60040e0178.jpg",
+        "https://telegra.ph/file/04b780142ae5208dea790.jpg",
+        "https://telegra.ph/file/53b653cd59a937ed5d002.jpg",
+        "https://telegra.ph/file/788702aca560bcfc637d4.jpg",
+        "https://telegra.ph/file/d1246d7fcab216f87fbf8.jpg",
+        "https://telegra.ph/file/91d1c983efe3ed27435d9.jpg",
+        "https://telegra.ph/file/bc869f14a7e2036c49065.jpg",
+        "https://telegra.ph/file/bf70f28bfd3a105a12fe6.jpg",
+        "https://telegra.ph/file/83438e54b17337d62c178.jpg",
+        "https://telegra.ph/file/84fdcbe517fe0b3024ad2.jpg",
+        "https://telegra.ph/file/ad62fe50c0197ed233299.jpg",
+        "https://telegra.ph/file/8a7d2196b75e22f33cfd8.jpg",
+        "https://telegra.ph/file/367a153be33b52182f5ec.jpg",
+        "https://telegra.ph/file/59e4ed1ed1eb3a2b4e387.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/a49bcd8c85fbac70f9029.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg",
+        "https://telegra.ph/file/5e51bc33ed9e4c5913684.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

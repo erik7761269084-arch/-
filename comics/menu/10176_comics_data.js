@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 10176,
+    "title": "(C95) [イマソリドンダイ (あすぜむ)] 霊夢さん国際交流 (東方Project)",
+    "sourceUrl": "https://telegra.ph/C95-イマソリドンダイ-あすぜむ-霊夢さん国際交流-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/abe82ec75a51ddfe17403.jpg",
+        "https://telegra.ph/file/36d49e3a43ab1d005d10c.jpg",
+        "https://telegra.ph/file/234107f0565fef23c484f.jpg",
+        "https://telegra.ph/file/32fd9cc991aff829e26ba.jpg",
+        "https://telegra.ph/file/54979691ac7f6c3ba9ecf.jpg",
+        "https://telegra.ph/file/d8df36051d17339d98645.jpg",
+        "https://telegra.ph/file/1e32355b34c77257b753e.jpg",
+        "https://telegra.ph/file/9e99eec6ea05faa2e09cb.jpg",
+        "https://telegra.ph/file/b7217868e23d07c2a4b3f.jpg",
+        "https://telegra.ph/file/c1460b73dc7247a361b23.jpg",
+        "https://telegra.ph/file/cd6ed05c564189cbddeba.jpg",
+        "https://telegra.ph/file/f426ff2ddb4225fbed70b.jpg",
+        "https://telegra.ph/file/7bbc9f3aa7aaabbe74f42.jpg",
+        "https://telegra.ph/file/da01e763c307e4496a3e6.jpg",
+        "https://telegra.ph/file/6724c6af3ea44248e38ab.jpg",
+        "https://telegra.ph/file/c1d6fb8812ad5be89666e.jpg",
+        "https://telegra.ph/file/c492167b6ac34a8f825a6.jpg",
+        "https://telegra.ph/file/5fa167eafd52452e84aa9.jpg",
+        "https://telegra.ph/file/f147c29e0ba57b6b96e34.jpg",
+        "https://telegra.ph/file/1e75911bdad7daebdb3ec.jpg",
+        "https://telegra.ph/file/af910e9a3a207a39296a9.jpg",
+        "https://telegra.ph/file/c866c523bbefbda4466c7.jpg",
+        "https://telegra.ph/file/bfab6a522395a0524fc80.jpg",
+        "https://telegra.ph/file/222a3e844dcaea41fa162.jpg",
+        "https://telegra.ph/file/8730f3ced2f31bab70c3b.jpg",
+        "https://telegra.ph/file/2738d11fba883d08297d7.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

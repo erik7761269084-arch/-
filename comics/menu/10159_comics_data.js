@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10159,
+    "title": "[Monaim] DNF芙蕾雅",
+    "sourceUrl": "https://telegra.ph/Monaim-DNF芙蕾雅-08-31",
+    "images": [
+        "https://telegra.ph/file/006a72b9ed4acee7abfa9.jpg",
+        "https://telegra.ph/file/734aadee5e414ecdd8040.jpg",
+        "https://telegra.ph/file/36a5b22f745b9b046d0a0.jpg",
+        "https://telegra.ph/file/d35d9215ab65a89b93b76.jpg",
+        "https://telegra.ph/file/810efd137b55c9eb08030.jpg",
+        "https://telegra.ph/file/afa64a2bfafabdd6cb850.jpg",
+        "https://telegra.ph/file/dca9e867332fc97f073c7.jpg",
+        "https://telegra.ph/file/2a06e8c7e9488a6ec7aa0.jpg",
+        "https://telegra.ph/file/cf7ea988bd5b7f1c5c716.jpg",
+        "https://telegra.ph/file/44536b9275a0ac64d6673.jpg",
+        "https://telegra.ph/file/3bd697f6be275f8929d3a.jpg",
+        "https://telegra.ph/file/9f1fdc2d2e78a1ce61759.jpg",
+        "https://telegra.ph/file/b38548822df6460343fdf.jpg",
+        "https://telegra.ph/file/a14d584b0ff55811711a3.jpg",
+        "https://telegra.ph/file/92bfb68aee5df9d7c1c18.jpg",
+        "https://telegra.ph/file/489a12185c4b61ff508b7.jpg",
+        "https://telegra.ph/file/a466bac4ec7cc41f7b59a.jpg",
+        "https://telegra.ph/file/03af0be7bc40806e18096.jpg",
+        "https://telegra.ph/file/250ad29ca925809910cd2.jpg",
+        "https://telegra.ph/file/ee80b6e8a5a44744ead41.jpg",
+        "https://telegra.ph/file/71f048bddcfc4ec8fabf9.jpg",
+        "https://telegra.ph/file/6427f0795110b79938c33.jpg",
+        "https://telegra.ph/file/f9875a6eab97dffd0208b.jpg",
+        "https://telegra.ph/file/07bbdc2114505622bf2d9.jpg",
+        "https://telegra.ph/file/2e7aab8f723a9261a4d83.jpg",
+        "https://telegra.ph/file/348cc30133107735c6675.jpg",
+        "https://telegra.ph/file/4070c0ae9aaaf82057272.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

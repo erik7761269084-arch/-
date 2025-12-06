@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16628,
+    "title": "(学園スターフェスティバル) [ちうころね (ちうね)] 手毬とことねの湯けむり温泉旅行 (学園アイドルマスター) -Preview",
+    "sourceUrl": "https://telegra.ph/学園スターフェスティバル-ちうころね-ちうね-手毬とことねの湯けむり温泉旅行-学園アイドルマスター--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/001.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/002.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/003.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/004.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/005.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/006.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/007.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/008.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/009.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/010.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/011.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/012.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/013.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/014.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/015.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/016.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/017.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/018.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/019.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/020.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/021.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/022.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/023.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/024.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/025.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/026.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/027.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/028.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/029.webp",
+        "https://i2.linghua.xyz/ex/3441121/ed8d8fa4f2/030.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

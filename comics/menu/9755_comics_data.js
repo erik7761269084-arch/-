@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9755,
+    "title": "[亜美寿真] あと1mmで挿入っちゃうね?雑魚寝してたら隣の女子にイジられて… 11",
+    "sourceUrl": "https://telegra.ph/亜美寿真-あと1mmで挿入っちゃうね雑魚寝してたら隣の女子にイジられて-11-08-31",
+    "images": [
+        "https://telegra.ph/file/f09d1c7abad0d9216c216.jpg",
+        "https://telegra.ph/file/945954b549f76a6450ab9.jpg",
+        "https://telegra.ph/file/c892c012cda72850a2ecf.jpg",
+        "https://telegra.ph/file/3bdafb11659e9fbf4b472.jpg",
+        "https://telegra.ph/file/5fef8668fe1bd4e09c8d4.jpg",
+        "https://telegra.ph/file/99be4e722c47a271c7915.jpg",
+        "https://telegra.ph/file/54497878f236a94626221.jpg",
+        "https://telegra.ph/file/8721a65dca737c5805119.jpg",
+        "https://telegra.ph/file/b99038190f2009ab6241c.jpg",
+        "https://telegra.ph/file/9b04064077622e10a5d87.jpg",
+        "https://telegra.ph/file/52e5b165a724f252a3801.jpg",
+        "https://telegra.ph/file/a9db8ce9d95a58b6c6d1f.jpg",
+        "https://telegra.ph/file/aa9f7db5fbcc8fc81b11c.jpg",
+        "https://telegra.ph/file/05cd32af5901c69467469.jpg",
+        "https://telegra.ph/file/df27d39457d96287121cc.jpg",
+        "https://telegra.ph/file/eb516afaf3bfeabd967e8.jpg",
+        "https://telegra.ph/file/a460d3ea7408fc9365539.jpg",
+        "https://telegra.ph/file/b2e1bd29a741673f1b915.jpg",
+        "https://telegra.ph/file/3acdb80f5a92bdc29d30d.jpg",
+        "https://telegra.ph/file/63c34cfd1b68f1c2b5876.jpg",
+        "https://telegra.ph/file/6b076b8d37fcd6382de75.jpg",
+        "https://telegra.ph/file/8944f810ba2260356927b.jpg",
+        "https://telegra.ph/file/38fc742f36b61b13814c4.jpg",
+        "https://telegra.ph/file/c87c0af51b92c90166626.jpg",
+        "https://telegra.ph/file/3315629e8497ac4922c20.jpg",
+        "https://telegra.ph/file/e129615d9acafd43d7c90.jpg",
+        "https://telegra.ph/file/af777ec13f81560afb8ad.jpg",
+        "https://telegra.ph/file/a840cbfca2e0cea5a4932.jpg",
+        "https://telegra.ph/file/2e0b2a595e08521a6632c.jpg",
+        "https://telegra.ph/file/fc55d39b1e0491459c52e.jpg",
+        "https://telegra.ph/file/1ab5e711bef5583326007.jpg",
+        "https://telegra.ph/file/3486208cd606ce9c59cd0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

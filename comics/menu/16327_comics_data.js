@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16327,
+    "title": "[WMD (斜森)] 末永くイチャイチャしろ!!!! (遊☆戯☆王 OCG)  [2024年9月17日]-Preview",
+    "sourceUrl": "https://telegra.ph/WMD-斜森-末永くイチャイチャしろ-遊戯王-OCG-2024年9月17日-Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0146.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0146_cover.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0147.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0148.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0149.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0150.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0151.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0152.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0153.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0154.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0155.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0156.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0157.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0158.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0159.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0160.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0161.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0162.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0163.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0164.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0165.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0166.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0167.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0168.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0169.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0170.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0171.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0172.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0173.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0174.jpg",
+        "https://i2.linghua.xyz/ex/3094948/97bc536f23/scan0175.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

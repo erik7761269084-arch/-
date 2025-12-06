@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12320,
+    "title": "[荒井啓] スクラップガールアンドティーチャー (コミックホットミルク 2019年9月号)",
+    "sourceUrl": "https://telegra.ph/荒井啓-スクラップガールアンドティーチャー-コミックホットミルク-2019年9月号-08-31",
+    "images": [
+        "https://telegra.ph/file/37c4e8ef477803a9d08c0.jpg",
+        "https://telegra.ph/file/0557ca4e65833f0ab3385.jpg",
+        "https://telegra.ph/file/ffe9752582a680d9304ca.jpg",
+        "https://telegra.ph/file/714051aeef4a1f3ccc817.jpg",
+        "https://telegra.ph/file/f8a396262802f72432488.jpg",
+        "https://telegra.ph/file/cbaaa805df8ab84610967.jpg",
+        "https://telegra.ph/file/9c70e63022b418879bb26.jpg",
+        "https://telegra.ph/file/46a7933375dd040eff913.jpg",
+        "https://telegra.ph/file/d46bb25be875145cf9819.jpg",
+        "https://telegra.ph/file/e91cdf238b168f36dc136.jpg",
+        "https://telegra.ph/file/ab9435154381393ac9408.jpg",
+        "https://telegra.ph/file/ede592e91dce58aa4e292.jpg",
+        "https://telegra.ph/file/64542a21cf8d17e6e46aa.jpg",
+        "https://telegra.ph/file/baa07ff33354a3b0085df.jpg",
+        "https://telegra.ph/file/33d31e07aef7d545293a0.jpg",
+        "https://telegra.ph/file/ccfe15ac0b4c9995a51d3.jpg",
+        "https://telegra.ph/file/e0a16d6dd4d2a68034a75.jpg",
+        "https://telegra.ph/file/3a8245818e84b944fcef3.jpg",
+        "https://telegra.ph/file/7990826c9055eb3e37d29.jpg",
+        "https://telegra.ph/file/c50df809ca36c9e675e07.jpg",
+        "https://telegra.ph/file/c237dcc895864453efb8b.jpg",
+        "https://telegra.ph/file/f49da514be85258aa8221.jpg",
+        "https://telegra.ph/file/60730eeaa79ce88655281.jpg",
+        "https://telegra.ph/file/886744cc8193f06f3f28c.jpg",
+        "https://telegra.ph/file/aeac528d87928ace5f9e5.jpg",
+        "https://telegra.ph/file/9de38f951da95f7e8b2d3.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/a49bcd8c85fbac70f9029.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg",
+        "https://telegra.ph/file/5e51bc33ed9e4c5913684.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

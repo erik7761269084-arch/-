@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8936,
+    "title": "(C96) [サークルENERGY (いまきひととせ)] ドキッ☆イリヤちゃんぼっちのエロエロ大運動会!! (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-サークルENERGY-いまきひととせ-ドキッイリヤちゃんぼっちのエロエロ大運動会-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/07ef8f1995fdeacbc00ad.jpg",
+        "https://telegra.ph/file/86f7d4188a38e6f17badf.jpg",
+        "https://telegra.ph/file/b4a7e908052163a4b7f8b.jpg",
+        "https://telegra.ph/file/44c75b635bca0ff426214.jpg",
+        "https://telegra.ph/file/53587670ce3731f46b6ce.jpg",
+        "https://telegra.ph/file/8c40cb9bc529137330527.jpg",
+        "https://telegra.ph/file/6e8d8acbef3f2989a635b.jpg",
+        "https://telegra.ph/file/89450098caa7aed8f2deb.jpg",
+        "https://telegra.ph/file/d1e753fa8c52fa3facb40.jpg",
+        "https://telegra.ph/file/a0155296865a8d61b559f.jpg",
+        "https://telegra.ph/file/34a512f09d9fb524caada.jpg",
+        "https://telegra.ph/file/fef3040e59b317c1c3686.jpg",
+        "https://telegra.ph/file/8cc9b5487165d55639bd0.jpg",
+        "https://telegra.ph/file/df6402a25470cb8dcaa2f.jpg",
+        "https://telegra.ph/file/631b913cad9891484c9c7.jpg",
+        "https://telegra.ph/file/5e6a73707f1f86fd91976.jpg",
+        "https://telegra.ph/file/da890d35c8187c1f1f17d.jpg",
+        "https://telegra.ph/file/e7711dd40dc7d569c369b.jpg",
+        "https://telegra.ph/file/8e96862dcaa67b115d024.jpg",
+        "https://telegra.ph/file/32813b4624078936a8c3f.jpg",
+        "https://telegra.ph/file/3b17fb8f35d92b4427dd9.jpg",
+        "https://telegra.ph/file/8417a48c479b0f02125b4.jpg",
+        "https://telegra.ph/file/1d4694dcf880eb45e1f9f.jpg",
+        "https://telegra.ph/file/64826c17adf32375bd024.jpg",
+        "https://telegra.ph/file/b305845211b0a318f76aa.jpg",
+        "https://telegra.ph/file/e768a3028c4db7a3b04ba.jpg",
+        "https://telegra.ph/file/0d2ab0bdf86b71de5e753.jpg",
+        "https://telegra.ph/file/e2e37cbf5a91c05af57f6.jpg",
+        "https://telegra.ph/file/a33a25ea9e5f7ae699be6.jpg",
+        "https://telegra.ph/file/22ec7185e3d335e839f24.jpg",
+        "https://telegra.ph/file/89a2481b7b2f04743c6fa.jpg",
+        "https://telegra.ph/file/cb81f9512c871e577ab82.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

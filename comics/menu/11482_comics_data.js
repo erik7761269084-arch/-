@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11482,
+    "title": "[淫楽とんぼ (臼歯カゲロウ)] 魅了計画 -ロリサキュバスはち〇ぽなんかに負けません!(?)-",
+    "sourceUrl": "https://telegra.ph/淫楽とんぼ-臼歯カゲロウ-魅了計画--ロリサキュバスはちぽなんかに負けません-08-31",
+    "images": [
+        "https://telegra.ph/file/58c16495436076a8839c4.jpg",
+        "https://telegra.ph/file/f7be31dd6b038b03a7a8b.jpg",
+        "https://telegra.ph/file/7a2bf358be24e50cc9cce.jpg",
+        "https://telegra.ph/file/11792cc92b09aab483b1e.jpg",
+        "https://telegra.ph/file/545fce60733770dccd378.jpg",
+        "https://telegra.ph/file/192af8563977deefbc1ef.jpg",
+        "https://telegra.ph/file/f413aaf26fc9722b490c4.jpg",
+        "https://telegra.ph/file/e85d55cc0d74e401cf83d.jpg",
+        "https://telegra.ph/file/2ea5382702f0832fe01b8.jpg",
+        "https://telegra.ph/file/1a33159a2a39591f8a761.jpg",
+        "https://telegra.ph/file/9c25bf2c7b8d73d63bdd6.jpg",
+        "https://telegra.ph/file/d2577f18e7e9e7f16993a.jpg",
+        "https://telegra.ph/file/a306578620ce293736454.jpg",
+        "https://telegra.ph/file/5035c7fe752bd2c272d90.jpg",
+        "https://telegra.ph/file/6376fb17c62675df38324.jpg",
+        "https://telegra.ph/file/49dc72c0234e6fa134f1e.jpg",
+        "https://telegra.ph/file/c9e2b258e593be1a8f11c.jpg",
+        "https://telegra.ph/file/d2a020db67b309de42dd2.jpg",
+        "https://telegra.ph/file/b1f2323a9661061ffa5be.jpg",
+        "https://telegra.ph/file/c902e4972ce15ef304b89.jpg",
+        "https://telegra.ph/file/884b5a8526f46d2c681e1.jpg",
+        "https://telegra.ph/file/d4fac63a7192b3218c172.jpg",
+        "https://telegra.ph/file/975b78f38c266c9b57d94.jpg",
+        "https://telegra.ph/file/f99ee977bbebe407963c6.jpg",
+        "https://telegra.ph/file/6004a9baf47af9ab632f5.jpg",
+        "https://telegra.ph/file/0ecb4ac9167e3b089eddd.jpg",
+        "https://telegra.ph/file/3fcc9bfffc0e10b1a8d40.jpg",
+        "https://telegra.ph/file/0773448840df244d555a7.jpg",
+        "https://telegra.ph/file/b1a9e538f21882a616f73.jpg",
+        "https://telegra.ph/file/506604b786e14a6e63d74.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12487,
+    "title": "(FF37) [無口遮欄 (ちやみ)] Lets Sweat (がうる・ぐら、リングフィット アドベンチャー)",
+    "sourceUrl": "https://telegra.ph/FF37-無口遮欄-ちやみ-Lets-Sweat-がうるぐらリングフィット-アドベンチャー-08-31",
+    "images": [
+        "https://telegra.ph/file/707c0d696a0bad7e5f295.jpg",
+        "https://telegra.ph/file/698c65c8ad60b6efcf8e6.jpg",
+        "https://telegra.ph/file/c92089bb5586fd020eb52.jpg",
+        "https://telegra.ph/file/38a74ca0aced2682d4056.jpg",
+        "https://telegra.ph/file/fa111bc4a73b75ade560e.jpg",
+        "https://telegra.ph/file/dadfc9252e27b98997e49.jpg",
+        "https://telegra.ph/file/9e33229b313941a8c22dd.jpg",
+        "https://telegra.ph/file/253acb070dafce5c3e360.jpg",
+        "https://telegra.ph/file/e1a6e509e48bfe0201cab.jpg",
+        "https://telegra.ph/file/eb44c6a35345daec6facf.jpg",
+        "https://telegra.ph/file/bcc25b08f1b9a65fc9ba5.jpg",
+        "https://telegra.ph/file/490a29e51cdcd23f6f9eb.jpg",
+        "https://telegra.ph/file/715fccaa249bfdc5d96f1.jpg",
+        "https://telegra.ph/file/059368d07e6b17a532819.jpg",
+        "https://telegra.ph/file/d9fb5b5b479be6f06d07e.jpg",
+        "https://telegra.ph/file/55ea698bd1bc34eb19c68.jpg",
+        "https://telegra.ph/file/e2cb86074b07b6405c81d.jpg",
+        "https://telegra.ph/file/5ca7ea855250954a50e38.jpg",
+        "https://telegra.ph/file/3aca6e3cf022c87b723ab.jpg",
+        "https://telegra.ph/file/d24bd813d28fb36403fcf.jpg",
+        "https://telegra.ph/file/20308f53e0c598c617352.jpg",
+        "https://telegra.ph/file/f6475b2614faf588b0018.jpg",
+        "https://telegra.ph/file/41954c086a4e0e1f03fdf.jpg",
+        "https://telegra.ph/file/587fef497c3bb7a696df2.jpg",
+        "https://telegra.ph/file/f1e2ed643ab29fd01fe05.jpg",
+        "https://telegra.ph/file/956b3a415c681e9ed2c4b.jpg",
+        "https://telegra.ph/file/800dbf6a935eaa272b37d.jpg",
+        "https://telegra.ph/file/01ebbf85f6657a3291f5e.jpg",
+        "https://telegra.ph/file/4919c3012323f106ee6d8.jpg",
+        "https://telegra.ph/file/c13d259915d58049a39dd.jpg",
+        "https://telegra.ph/file/d8dccd33b14cf178aef8a.jpg",
+        "https://telegra.ph/file/8576eb88fc02b9a1b5be4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

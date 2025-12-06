@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8909,
+    "title": "[冷し中華おわりました (ズル)] 通り魔理沙にきをつけろ 其の肆 [wenwood 个人汉化]",
+    "sourceUrl": "https://telegra.ph/冷し中華おわりました-ズル-通り魔理沙にきをつけろ-其の肆-wenwood-个人汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/fa85e8b79703710eb54ec.jpg",
+        "https://telegra.ph/file/5711a643c31aded99b285.jpg",
+        "https://telegra.ph/file/912c774fcc80ba1edd0d4.jpg",
+        "https://telegra.ph/file/b425191b48e4d405c46b0.jpg",
+        "https://telegra.ph/file/6763a289d7f034e5fc2c0.jpg",
+        "https://telegra.ph/file/f4d31b1a81d814ba2aa0b.jpg",
+        "https://telegra.ph/file/d04d584fb9d895b51a57f.jpg",
+        "https://telegra.ph/file/0a3610e6606c3c5659516.jpg",
+        "https://telegra.ph/file/7f982fbd62938bcc9d5c8.jpg",
+        "https://telegra.ph/file/f5e7bd81363e11009ce04.jpg",
+        "https://telegra.ph/file/be699f72f7cf54f0bbb64.jpg",
+        "https://telegra.ph/file/2161835f6acd3d39d8e48.jpg",
+        "https://telegra.ph/file/bfb26e56ae75b74685420.jpg",
+        "https://telegra.ph/file/892cd5ade856e8c9c8341.jpg",
+        "https://telegra.ph/file/c70e559339494b56cafdf.jpg",
+        "https://telegra.ph/file/281e8a00c6a418d740499.jpg",
+        "https://telegra.ph/file/ddff064a9a0d50f28aa19.jpg",
+        "https://telegra.ph/file/7d482e8d397411c8e7657.jpg",
+        "https://telegra.ph/file/89ad9d41ca5ce994d6770.jpg",
+        "https://telegra.ph/file/26d87991b3bde6526e662.jpg",
+        "https://telegra.ph/file/7e2759bbe4c6b6da12177.jpg",
+        "https://telegra.ph/file/4d9eccdfc0438dcc3852c.jpg",
+        "https://telegra.ph/file/0265b2ae35bd8e4b66fd7.jpg",
+        "https://telegra.ph/file/d39faab032641347c0f6f.jpg",
+        "https://telegra.ph/file/ade0c4d2646a868dc6f4f.jpg",
+        "https://telegra.ph/file/cde339c1c41e936a6aa92.jpg",
+        "https://telegra.ph/file/94cb215e3191dc8d1fa72.jpg",
+        "https://telegra.ph/file/f15ffeb18b18e4e53fee9.jpg",
+        "https://telegra.ph/file/c29eec7ee4adf01c45a80.jpg",
+        "https://telegra.ph/file/37142b1748561b66db7e0.jpg",
+        "https://telegra.ph/file/f93987567523be4ae2a9e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

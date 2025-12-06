@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15309,
+    "title": "(C99) [Yahai (Aoi)] Anata ni Iubeki suki no 2-moji (Touhou Project)  [酒吧汉化]",
+    "sourceUrl": "https://telegra.ph/C99-Yahai-Aoi-Anata-ni-Iubeki-suki-no-2-moji-Touhou-Project-酒吧汉化-08-31",
+    "images": [
+        "https://telegra.ph/file/fdf2b779b60e03a2c208c.jpg",
+        "https://telegra.ph/file/cf1de28977102e77e5e54.jpg",
+        "https://telegra.ph/file/957d59e5512e5039d88ab.jpg",
+        "https://telegra.ph/file/12d5bc0d7c88931c0f05c.jpg",
+        "https://telegra.ph/file/94ad0e64cbcbe8d0d94b9.jpg",
+        "https://telegra.ph/file/ea2777bf607f49fa06b89.jpg",
+        "https://telegra.ph/file/be78c5b847ebd22ab2308.jpg",
+        "https://telegra.ph/file/83eb78e3676e9be2c931a.jpg",
+        "https://telegra.ph/file/5ae08ba2a94f052b6dcdf.jpg",
+        "https://telegra.ph/file/994376d99b71edd988944.jpg",
+        "https://telegra.ph/file/d8f32992b337339ab3841.jpg",
+        "https://telegra.ph/file/bc9e715f274086f67c187.jpg",
+        "https://telegra.ph/file/2c23d057d8323474cee78.jpg",
+        "https://telegra.ph/file/f636de89b2475a38bfdea.jpg",
+        "https://telegra.ph/file/73d86aac3994832d2c6bd.jpg",
+        "https://telegra.ph/file/b682102a4a721c406691e.jpg",
+        "https://telegra.ph/file/29555067b5aa4f8a3dc16.jpg",
+        "https://telegra.ph/file/1a4098499959c5eb8ca38.jpg",
+        "https://telegra.ph/file/7658bad9160f07bb50c99.jpg",
+        "https://telegra.ph/file/7fa6b81729550d957fcae.jpg",
+        "https://telegra.ph/file/3ec14a56e9469089844dd.jpg",
+        "https://telegra.ph/file/c51facb52483865fdd275.jpg",
+        "https://telegra.ph/file/ac5e296664f55e22da25b.jpg",
+        "https://telegra.ph/file/e296e87c341e5505db5d1.jpg",
+        "https://telegra.ph/file/b52ccfdad3f31f005a309.jpg",
+        "https://telegra.ph/file/348ca5ebf2c968442eaf9.jpg",
+        "https://telegra.ph/file/83a2d963f51c850451cb8.jpg",
+        "https://telegra.ph/file/b6f480fa90cbbeb8e2d83.jpg",
+        "https://telegra.ph/file/53f3896e35f16413536c4.jpg",
+        "https://telegra.ph/file/28782fb6231e685f0eb6a.jpg",
+        "https://telegra.ph/file/9266106e29397028cab01.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

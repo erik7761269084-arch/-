@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9161,
+    "title": "[山田ゴゴゴ] 聖女の烙印-Annunciation of despair- #06 (COMIC BAVEL 2022年1月号)",
+    "sourceUrl": "https://telegra.ph/山田ゴゴゴ-聖女の烙印-Annunciation-of-despair--06-COMIC-BAVEL-2022年1月号-08-31",
+    "images": [
+        "https://telegra.ph/file/33b4436608696a374ab6c.jpg",
+        "https://telegra.ph/file/29a996d60eea3b289e561.jpg",
+        "https://telegra.ph/file/8287c271116c87d3f8937.jpg",
+        "https://telegra.ph/file/bd31c079149f88e4f89b8.jpg",
+        "https://telegra.ph/file/198d80c3892681bea3df6.jpg",
+        "https://telegra.ph/file/c1ae5ec156316ae29d89f.jpg",
+        "https://telegra.ph/file/6e489664af8ef2264ebdf.jpg",
+        "https://telegra.ph/file/25259d8f9296bb8ad2212.jpg",
+        "https://telegra.ph/file/de54edef14946ed346b48.jpg",
+        "https://telegra.ph/file/faf51d449656424858a31.jpg",
+        "https://telegra.ph/file/bbb74a3a6f0aa6ed5652e.jpg",
+        "https://telegra.ph/file/b7c8cd494c30fb105965c.jpg",
+        "https://telegra.ph/file/60df49fc2ca2ed3366df4.jpg",
+        "https://telegra.ph/file/749d17f4856732123325a.jpg",
+        "https://telegra.ph/file/c426aca27850eaf6b8e89.jpg",
+        "https://telegra.ph/file/37ac60d01167976453355.jpg",
+        "https://telegra.ph/file/5c398be1a569e590b3f40.jpg",
+        "https://telegra.ph/file/c52932db8114b58e82a70.jpg",
+        "https://telegra.ph/file/608f437d3173c2978cfc1.jpg",
+        "https://telegra.ph/file/1b9f6186a07be03ceda5c.jpg",
+        "https://telegra.ph/file/9d91f3cf55f59ed20a4e8.jpg",
+        "https://telegra.ph/file/2f1370e8b96f5db28270f.jpg",
+        "https://telegra.ph/file/0f5c35aad62697510cbfa.jpg",
+        "https://telegra.ph/file/6c891b74da2875aee5483.jpg",
+        "https://telegra.ph/file/0e8ffc0ede70ab08dce17.jpg",
+        "https://telegra.ph/file/435bfa78d83aedd85c475.jpg",
+        "https://telegra.ph/file/9c99db56f661d1e0186c3.jpg",
+        "https://telegra.ph/file/dc50e747237805b8651be.jpg",
+        "https://telegra.ph/file/8927c537239f89476ef1c.jpg",
+        "https://telegra.ph/file/e073478b3868c666b59f7.jpg",
+        "https://telegra.ph/file/f344ad9a7b8c3ade1929f.jpg",
+        "https://telegra.ph/file/7f1d90c098bea70925d94.jpg",
+        "https://telegra.ph/file/95eede707fe7b21c3770f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

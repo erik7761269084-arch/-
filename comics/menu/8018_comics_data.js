@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8018,
+    "title": "[monaim]刃影 [糖分超标汉化组]",
+    "sourceUrl": "https://telegra.ph/monaim刃影-糖分超标汉化组-08-31",
+    "images": [
+        "https://telegra.ph/file/74d493bab48d999f78245.jpg",
+        "https://telegra.ph/file/4f8b6cbd2bd0992a43671.jpg",
+        "https://telegra.ph/file/961614e926a5c6a24cb92.jpg",
+        "https://telegra.ph/file/8235ff5f346bbdb329b58.jpg",
+        "https://telegra.ph/file/c9c13b2163f51c264ae27.jpg",
+        "https://telegra.ph/file/bc28ed02291bd207098c1.jpg",
+        "https://telegra.ph/file/82b076458e75e7b534d34.jpg",
+        "https://telegra.ph/file/8c5f1a2a24519cd51873d.jpg",
+        "https://telegra.ph/file/70141ab7189f3ee122630.jpg",
+        "https://telegra.ph/file/9ffb25ee8efe04d3db45a.jpg",
+        "https://telegra.ph/file/9dbefbf07a354a9863371.jpg",
+        "https://telegra.ph/file/49c82b876fa509e241918.jpg",
+        "https://telegra.ph/file/f12054140e2a99d97c22e.jpg",
+        "https://telegra.ph/file/7294fb9bf88593f8e038f.jpg",
+        "https://telegra.ph/file/50f4169eabc4c639ed8c8.jpg",
+        "https://telegra.ph/file/708cf6b19f2e97e541656.jpg",
+        "https://telegra.ph/file/ef75e6b9ce282930d1681.jpg",
+        "https://telegra.ph/file/ae19cf08a58d8a264d91f.jpg",
+        "https://telegra.ph/file/867c40971a3b059608a73.jpg",
+        "https://telegra.ph/file/d769edffaebf98fe14387.jpg",
+        "https://telegra.ph/file/c83a64e26d0a91cddf776.jpg",
+        "https://telegra.ph/file/682fd902a80d686ae85ed.jpg",
+        "https://telegra.ph/file/76efe972cd967f3522ce8.jpg",
+        "https://telegra.ph/file/5ef16861f922f9be67eff.jpg",
+        "https://telegra.ph/file/48865a158197a8a820d03.jpg",
+        "https://telegra.ph/file/71803f870c244fbc05d3b.jpg",
+        "https://telegra.ph/file/26a8ead3a3ccfa4d565a3.jpg",
+        "https://telegra.ph/file/a6938183cc703e094fc5b.jpg",
+        "https://telegra.ph/file/54497479455eb35843b39.jpg",
+        "https://telegra.ph/file/5d888b9f0f55dc1f59508.jpg",
+        "https://telegra.ph/file/58c9c4304d747d929686d.jpg",
+        "https://telegra.ph/file/1edc7be227baa75108da0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

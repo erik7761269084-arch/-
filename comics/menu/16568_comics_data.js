@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 16568,
+    "title": "(コミティア130) [ドヤ顔病 (ぼっくん)] 青空の下、彼女たちは性春を謳歌する -Preview",
+    "sourceUrl": "https://telegra.ph/コミティア130-ドヤ顔病-ぼっくん-青空の下彼女たちは性春を謳歌する--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_01.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_02.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_03.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_04.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_05.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_06.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_07.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_08.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_09.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_10.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_11.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_12.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_13.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_14.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_15.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_16.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_17.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_18.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_19.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_20.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_21.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_22.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_23.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_24.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_25.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_26.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_27.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_28.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_29.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_30.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_31.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/imge_Page_32.webp",
+        "https://i2.linghua.xyz/ex/3363877/79aea1d8b3/.gif"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

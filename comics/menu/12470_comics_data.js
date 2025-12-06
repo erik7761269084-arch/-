@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12470,
+    "title": "[野塚キジ] 肉食系チア部は、女装少年(巨根)が好き (COMIC 夢幻転生 2021年3月号)",
+    "sourceUrl": "https://telegra.ph/野塚キジ-肉食系チア部は女装少年巨根が好き-COMIC-夢幻転生-2021年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/985d67fcb3a41988361e5.jpg",
+        "https://telegra.ph/file/7a22bcd62325930647b3f.jpg",
+        "https://telegra.ph/file/f3acd25e3008df6e4e1db.jpg",
+        "https://telegra.ph/file/ebfbd3cfe68d52df71f67.jpg",
+        "https://telegra.ph/file/ad5384d94ae48d30f147b.jpg",
+        "https://telegra.ph/file/e6596e07258e64302ba16.jpg",
+        "https://telegra.ph/file/555d5f8dcefe002ca81f1.jpg",
+        "https://telegra.ph/file/246c6b3d338a3688b74e2.jpg",
+        "https://telegra.ph/file/e782a2f9e2e31238e20e3.jpg",
+        "https://telegra.ph/file/406b4619c95c0c763a162.jpg",
+        "https://telegra.ph/file/f776243e1c7270f05170a.jpg",
+        "https://telegra.ph/file/24d4935d4eb03bfc390a7.jpg",
+        "https://telegra.ph/file/7788fbb9e96ea98fb495e.jpg",
+        "https://telegra.ph/file/afc9adb0fb3cb30157b3b.jpg",
+        "https://telegra.ph/file/6dbb82454b90ea7cdc46d.jpg",
+        "https://telegra.ph/file/4f7cef501b5f8e4b8b32f.jpg",
+        "https://telegra.ph/file/ca053da022c09f3ce06b0.jpg",
+        "https://telegra.ph/file/c2ac30385173991f551fc.jpg",
+        "https://telegra.ph/file/7a7f44ccd33f15bc01b5d.jpg",
+        "https://telegra.ph/file/27b2d8984e1bb2ecb07b1.jpg",
+        "https://telegra.ph/file/f848a16a90e6a93f2ef54.jpg",
+        "https://telegra.ph/file/bbf41c2ab86666b7dcd0f.jpg",
+        "https://telegra.ph/file/6b8d591b937b8aeb3f62f.jpg",
+        "https://telegra.ph/file/57bb86cbf3e957e5227ba.jpg",
+        "https://telegra.ph/file/c56bacc81d422477da43b.jpg",
+        "https://telegra.ph/file/7a1a203bd88bb3579228b.jpg",
+        "https://telegra.ph/file/6e4436dcd934e028da851.jpg",
+        "https://telegra.ph/file/b7e5d163ee7b1ef12db09.jpg",
+        "https://telegra.ph/file/90ac7a27e2be586f76d95.jpg",
+        "https://telegra.ph/file/380f098d34a585a804dba.jpg",
+        "https://telegra.ph/file/d90f72a5a4c454901bc66.jpg",
+        "https://telegra.ph/file/02fa1a441a23006bcb5d4.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

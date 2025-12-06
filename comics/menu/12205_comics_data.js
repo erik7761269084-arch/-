@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12205,
+    "title": "[みよし] にゃんぷて～しょん (COMIC アンスリウム 2021年3月号)",
+    "sourceUrl": "https://telegra.ph/みよし-にゃんぷてしょん-COMIC-アンスリウム-2021年3月号-08-31",
+    "images": [
+        "https://telegra.ph/file/f89485e0bae4b5cb9e883.jpg",
+        "https://telegra.ph/file/f0357dfb22e547e96920c.jpg",
+        "https://telegra.ph/file/2640d364a57f0ff366dd9.jpg",
+        "https://telegra.ph/file/1a7fb1834c87d49e37ad3.jpg",
+        "https://telegra.ph/file/b064ef19f23a0b698f0f6.jpg",
+        "https://telegra.ph/file/6dfe67c70e9859d3e830d.jpg",
+        "https://telegra.ph/file/f9f1b20201d4b33635979.jpg",
+        "https://telegra.ph/file/f5802646aac3bc7d8d975.jpg",
+        "https://telegra.ph/file/8af75f023eff7cb5735a4.jpg",
+        "https://telegra.ph/file/7282e89b15d5752cf2ca0.jpg",
+        "https://telegra.ph/file/3789b1996928fb7de3085.jpg",
+        "https://telegra.ph/file/1caba4c59fa75c9e3334a.jpg",
+        "https://telegra.ph/file/24932e02c158dbda39b3c.jpg",
+        "https://telegra.ph/file/cf64e40609c22e42b60ac.jpg",
+        "https://telegra.ph/file/a6278d042053c5e0262bd.jpg",
+        "https://telegra.ph/file/0256dde4c012b80d4ed40.jpg",
+        "https://telegra.ph/file/da975bd1b0c28971fb09e.jpg",
+        "https://telegra.ph/file/ba89fda42e1a474396600.jpg",
+        "https://telegra.ph/file/a027d0feab824f2869242.jpg",
+        "https://telegra.ph/file/54ac13e3c67381b9d0abc.jpg",
+        "https://telegra.ph/file/a224c31178f7d42627e0f.jpg",
+        "https://telegra.ph/file/2be0c9058cb1c5c5a3e61.jpg",
+        "https://telegra.ph/file/52a0f07703d860a97155f.jpg",
+        "https://telegra.ph/file/ccba4eed296b3166d2292.jpg",
+        "https://telegra.ph/file/0093879b396ab8d7a7ca3.jpg",
+        "https://telegra.ph/file/1cc2ecb81f10edbd3abb5.jpg",
+        "https://telegra.ph/file/bfb0a22c1dab4dd4f2cee.jpg",
+        "https://telegra.ph/file/1308e48de94393e85d7cc.jpg",
+        "https://telegra.ph/file/c06e24117c933f9cf0d93.jpg",
+        "https://telegra.ph/file/ccd357cc5176837f6bfd2.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

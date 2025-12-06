@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16639,
+    "title": "(C102) [EDGE WORTH (ぞくさん)]  同居でひろがる二人の露華1 (ひろがるスカイ!プリキュア) -Preview",
+    "sourceUrl": "https://telegra.ph/C102-EDGE-WORTH-ぞくさん-同居でひろがる二人の露華1-ひろがるスカイプリキュア--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/001_.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/002.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/003.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/004.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/005.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/006.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/007.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/008.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/009.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/010.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/011.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/012.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/013.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/014.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/015.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/016.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/017.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/018.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/019.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/020.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/021.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/022.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/023.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/024.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/025.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/026.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/027.webp",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/028.jpg",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/photo_2025_07_14_23_00_14.jpg",
+        "https://i2.linghua.xyz/ex/3457045/df384dde56/.gif"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

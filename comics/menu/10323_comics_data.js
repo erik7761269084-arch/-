@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10323,
+    "title": "[いもむや本舗 - Singleton (あずまゆき)] 図書館は秘密の遊び場  [2020年3月14日]",
+    "sourceUrl": "https://telegra.ph/いもむや本舗---Singleton-あずまゆき-図書館は秘密の遊び場-2020年3月14日-08-31",
+    "images": [
+        "https://telegra.ph/file/6391eacd36e1bebeec593.jpg",
+        "https://telegra.ph/file/ee9ee2e6c8db8aba1735d.jpg",
+        "https://telegra.ph/file/61501f93098531fab9fcf.jpg",
+        "https://telegra.ph/file/f657e400babf7d4b9d307.jpg",
+        "https://telegra.ph/file/2c4d83a47ed6182f467ac.jpg",
+        "https://telegra.ph/file/7a13085f3ec502fbd0e18.jpg",
+        "https://telegra.ph/file/61dad56ded40dc66708f6.jpg",
+        "https://telegra.ph/file/bf290c2c483aa48660cc6.jpg",
+        "https://telegra.ph/file/d2ba5a204aa4cb3ef68e6.jpg",
+        "https://telegra.ph/file/5165cc25c0b8d17817917.jpg",
+        "https://telegra.ph/file/67d9572c8fa1b87d9ebad.jpg",
+        "https://telegra.ph/file/e93cac1e1598b86ccc664.jpg",
+        "https://telegra.ph/file/692b456524be3d167d661.jpg",
+        "https://telegra.ph/file/cfefcde5752651faf24c6.jpg",
+        "https://telegra.ph/file/861a4a8ad85fd392d463c.jpg",
+        "https://telegra.ph/file/c7ac0890886ae8f82a1a5.jpg",
+        "https://telegra.ph/file/60a5e1fb10149aaa64ce4.jpg",
+        "https://telegra.ph/file/ddeb716940d107c5fc1d1.jpg",
+        "https://telegra.ph/file/627fbdbd07ebd8f13855f.jpg",
+        "https://telegra.ph/file/2facf12b660043a0d19ec.jpg",
+        "https://telegra.ph/file/412612cdb3e7f9cc361e7.jpg",
+        "https://telegra.ph/file/437577f7e767965dba6c8.jpg",
+        "https://telegra.ph/file/e9815926958a2649a7d0e.jpg",
+        "https://telegra.ph/file/91b30551bedd3b4d8323f.jpg",
+        "https://telegra.ph/file/f4bfd1f5905cf94f88c1c.jpg",
+        "https://telegra.ph/file/4d3e09b822e6e8706363a.jpg",
+        "https://telegra.ph/file/8c7b622c711669301f5a8.jpg",
+        "https://telegra.ph/file/b7a1775a298653d6da376.jpg",
+        "https://telegra.ph/file/3046aa2c690a4ea76cb42.jpg",
+        "https://telegra.ph/file/d8acbff681d88553dfdbf.jpg",
+        "https://telegra.ph/file/25f51d69767258c7de099.jpg",
+        "https://telegra.ph/file/5056ac413b56300def45b.jpg",
+        "https://telegra.ph/file/d3147936eef5460186ee0.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11790,
+    "title": "[見影 (全紅白子、クルー)] ダンジョンの蜜穴園 (ダンジョンに出会いを求めるのは間違っているだろうか)",
+    "sourceUrl": "https://telegra.ph/見影-全紅白子クルー-ダンジョンの蜜穴園-ダンジョンに出会いを求めるのは間違っているだろうか-08-31",
+    "images": [
+        "https://telegra.ph/file/2953f0a28c757dc969936.jpg",
+        "https://telegra.ph/file/8b3267c71219a7632bb26.jpg",
+        "https://telegra.ph/file/b13818cbd853775189031.jpg",
+        "https://telegra.ph/file/b5cf1df696d7db1f105c1.jpg",
+        "https://telegra.ph/file/7b1c312a3eee4e6b76dbf.jpg",
+        "https://telegra.ph/file/10f28b2360d2cb562e943.jpg",
+        "https://telegra.ph/file/9f546591b5d31fad1e728.jpg",
+        "https://telegra.ph/file/8b5ce28f20eb9ef00bd10.jpg",
+        "https://telegra.ph/file/6a9d631ac2a91c9a7d169.jpg",
+        "https://telegra.ph/file/79f043ca344914cdb416e.jpg",
+        "https://telegra.ph/file/1dfdb78e6a3b0d76fa99a.jpg",
+        "https://telegra.ph/file/ad877511ced2dad48b2a3.jpg",
+        "https://telegra.ph/file/8ae4ed7d566e5671c1fba.jpg",
+        "https://telegra.ph/file/39d1f28680f2a0a5dcca9.jpg",
+        "https://telegra.ph/file/4b80d70ecb7dd30c266a9.jpg",
+        "https://telegra.ph/file/cdbaddc62070a8d6e55e0.jpg",
+        "https://telegra.ph/file/7717e0240a3f5d99a2903.jpg",
+        "https://telegra.ph/file/f5aa4375cd7a35da830e5.jpg",
+        "https://telegra.ph/file/9e90f6d5ea7487ca5742c.jpg",
+        "https://telegra.ph/file/28dbd7943f18964db48be.jpg",
+        "https://telegra.ph/file/864dffbbf4cbe57321fcc.jpg",
+        "https://telegra.ph/file/321bd56bc7e256dde18a8.jpg",
+        "https://telegra.ph/file/25f88655ad85c9a217810.jpg",
+        "https://telegra.ph/file/0997a8fa2c4b1405a61a1.jpg",
+        "https://telegra.ph/file/9c00dbd3beb77406f8aac.jpg",
+        "https://telegra.ph/file/f662d98327ef390a5e4bd.jpg",
+        "https://telegra.ph/file/4e3b08d823959f03e1e41.jpg",
+        "https://telegra.ph/file/23047e21fc616592a4d8d.jpg",
+        "https://telegra.ph/file/8f14c06b405142ae8af65.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

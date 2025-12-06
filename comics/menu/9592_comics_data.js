@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9592,
+    "title": "[Monaim] Patreon August 2020 Reward",
+    "sourceUrl": "https://telegra.ph/Monaim-Patreon-August-2020-Reward-08-31",
+    "images": [
+        "https://telegra.ph/file/413bb236808b857dd2844.jpg",
+        "https://telegra.ph/file/1a4996e6dd6ec2709aaf6.jpg",
+        "https://telegra.ph/file/c9541985c8b49cc31860a.jpg",
+        "https://telegra.ph/file/15b1fbeed6823763d2b31.jpg",
+        "https://telegra.ph/file/4a00531369cf274ae6153.jpg",
+        "https://telegra.ph/file/98d45291d7caffc38ec71.jpg",
+        "https://telegra.ph/file/3aac7351269a6bef3862a.jpg",
+        "https://telegra.ph/file/f16d39ef8187c09152b80.jpg",
+        "https://telegra.ph/file/7ba3c269ebff15ad3be31.jpg",
+        "https://telegra.ph/file/839210b02a8ce3708cbb0.jpg",
+        "https://telegra.ph/file/895845d766901b880dba2.jpg",
+        "https://telegra.ph/file/f3f4788308ecb0eda0712.jpg",
+        "https://telegra.ph/file/be13b66a7216d19559278.jpg",
+        "https://telegra.ph/file/ba7f9f9082c74aef47b22.jpg",
+        "https://telegra.ph/file/20a6a9b1daa306590dd1d.jpg",
+        "https://telegra.ph/file/b2ce51ee303f25ce7f20a.jpg",
+        "https://telegra.ph/file/d6f6e8ba343896cf31e35.jpg",
+        "https://telegra.ph/file/0c0736ee1ebb289b33c65.jpg",
+        "https://telegra.ph/file/a3fb2e729894276603dcb.jpg",
+        "https://telegra.ph/file/c41d62ee171c613e42289.jpg",
+        "https://telegra.ph/file/4abf61b0e02bdf4883b0b.jpg",
+        "https://telegra.ph/file/b4f31071d7962f74b8369.jpg",
+        "https://telegra.ph/file/d546558d7567fd5325ce0.jpg",
+        "https://telegra.ph/file/1304f0bde9a4edf621b4c.jpg",
+        "https://telegra.ph/file/bb10748ff283f70318134.jpg",
+        "https://telegra.ph/file/000a11f3e656e06ce2a67.jpg",
+        "https://telegra.ph/file/deab3bed0a8a8637fd421.jpg",
+        "https://telegra.ph/file/01f540278fd328f3f7f71.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

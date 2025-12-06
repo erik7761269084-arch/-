@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12842,
+    "title": "[saluky] 直面本心的堕落皇女 (原神)",
+    "sourceUrl": "https://telegra.ph/saluky-直面本心的堕落皇女-原神-08-31",
+    "images": [
+        "https://telegra.ph/file/2c7d9afb7e3cce30a9bf5.jpg",
+        "https://telegra.ph/file/59316a0ff3bbc4d40f6fe.jpg",
+        "https://telegra.ph/file/0ad391f514db517766867.jpg",
+        "https://telegra.ph/file/a068b8284ad166579e58d.jpg",
+        "https://telegra.ph/file/6bdda4a4adb7cb95387af.jpg",
+        "https://telegra.ph/file/f7bce00ea1eb3062d006c.jpg",
+        "https://telegra.ph/file/1beb29ad72390fab4e708.jpg",
+        "https://telegra.ph/file/8fedbf86c1fb0099d7582.jpg",
+        "https://telegra.ph/file/d3bef5d75385101a1d263.jpg",
+        "https://telegra.ph/file/000bcd74a39cc6df0de90.jpg",
+        "https://telegra.ph/file/77fd4f4b2233e84b2c092.jpg",
+        "https://telegra.ph/file/538cdef087b806b9e490b.jpg",
+        "https://telegra.ph/file/a06c4237f9361ab1d2c18.jpg",
+        "https://telegra.ph/file/565877a7302a125f14982.jpg",
+        "https://telegra.ph/file/1d49c7a1d927ec779888d.jpg",
+        "https://telegra.ph/file/74ca5869ba7252677bf15.jpg",
+        "https://telegra.ph/file/9aead5746fad6cec3f494.jpg",
+        "https://telegra.ph/file/36a24063f15a49302a598.jpg",
+        "https://telegra.ph/file/b270ebdb0f4bd0d2e8607.jpg",
+        "https://telegra.ph/file/72394b9568b2a95ffd20a.jpg",
+        "https://telegra.ph/file/9ba60f473da4e08a7fb50.jpg",
+        "https://telegra.ph/file/30027385ded821a393562.jpg",
+        "https://telegra.ph/file/32894f8ee0e6892118c65.jpg",
+        "https://telegra.ph/file/7e171cf4da5074dff2007.jpg",
+        "https://telegra.ph/file/f3ab31a98e8ebd907cb18.jpg",
+        "https://telegra.ph/file/e8715dff87cd42a6832cd.jpg",
+        "https://telegra.ph/file/864abbac99f3bde952484.jpg",
+        "https://telegra.ph/file/faea93c54061de42a68c8.jpg",
+        "https://telegra.ph/file/7c3f84312041d35b369b4.jpg",
+        "https://telegra.ph/file/32e0ae3940886cbcc1f42.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

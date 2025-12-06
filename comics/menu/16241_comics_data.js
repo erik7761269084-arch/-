@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16241,
+    "title": "(コミティア140) [えねるぎあ (ぴかち)] 同性交遊倶楽部 -Preview",
+    "sourceUrl": "https://telegra.ph/コミティア140-えねるぎあ-ぴかち-同性交遊倶楽部--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/0.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/2.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/3.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/4.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/5.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/6.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/7.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/8.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/9.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/10.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/11.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/12.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/13.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/14.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/15.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/16.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/17.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/18.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/19.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/20.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/21.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/22.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/23.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/24.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/25.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/26.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/27.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/28.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/283.jpg",
+        "https://i2.linghua.xyz/ex/3060526/a69c92543f/_.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

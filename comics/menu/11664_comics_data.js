@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11664,
+    "title": "[垣崎コウセイ] 亭主元気で一緒がイイ (COMIC 真激 2020年12月号)",
+    "sourceUrl": "https://telegra.ph/垣崎コウセイ-亭主元気で一緒がイイ-COMIC-真激-2020年12月号-08-31",
+    "images": [
+        "https://telegra.ph/file/3c1400ff79364a8c7a4f0.jpg",
+        "https://telegra.ph/file/c835cbd4ac5c19eb5980c.jpg",
+        "https://telegra.ph/file/a6449b91ef80cec4c14ff.jpg",
+        "https://telegra.ph/file/a2330e965c5539cc67707.jpg",
+        "https://telegra.ph/file/670d101058a0875f77abe.jpg",
+        "https://telegra.ph/file/9657ff11811edf3654520.jpg",
+        "https://telegra.ph/file/74a65b7365f842e5a263b.jpg",
+        "https://telegra.ph/file/ceb78b440edd896d596d6.jpg",
+        "https://telegra.ph/file/ea1bca7f42faa34a45288.jpg",
+        "https://telegra.ph/file/158b7e60bf9d3ca939e48.jpg",
+        "https://telegra.ph/file/03e112aeafdace47b33a2.jpg",
+        "https://telegra.ph/file/d00d193f9a95130e120eb.jpg",
+        "https://telegra.ph/file/424267135c7306940c188.jpg",
+        "https://telegra.ph/file/870abb800350dce3afc9b.jpg",
+        "https://telegra.ph/file/87e2f152c0b374a955a6f.jpg",
+        "https://telegra.ph/file/b09a907d6f8392c2202fe.jpg",
+        "https://telegra.ph/file/4219e5a475d6ff9a423fc.jpg",
+        "https://telegra.ph/file/46fe57bace02e4a325536.jpg",
+        "https://telegra.ph/file/726a1641f37c7a58c04d8.jpg",
+        "https://telegra.ph/file/1e93661b0f0b2c123fc32.jpg",
+        "https://telegra.ph/file/96fceec3165c34d45a706.jpg",
+        "https://telegra.ph/file/27a903de3a9b814180ec2.jpg",
+        "https://telegra.ph/file/44aefcf8cd37531209876.jpg",
+        "https://telegra.ph/file/89575aba6d5bb443e8099.jpg",
+        "https://telegra.ph/file/1797e905fae9d8e00ec58.jpg",
+        "https://telegra.ph/file/a1ec196452ded5a47f7f0.jpg",
+        "https://telegra.ph/file/a6a14388d16d905d3942d.jpg",
+        "https://telegra.ph/file/e9fb1258490a27a4742d4.jpg",
+        "https://telegra.ph/file/90d206337f202bc34c13a.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/c68ac75a958bdc6a3a122.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

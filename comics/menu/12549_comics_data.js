@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12549,
+    "title": "(C96) [Remnants (シリ蔵)] 書夏之花 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C96-Remnants-シリ蔵-書夏之花-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/e7a55f80fb71367d05f40.jpg",
+        "https://telegra.ph/file/03eac98aa6f9721ddc9bb.jpg",
+        "https://telegra.ph/file/29a43c11af82abc77877a.jpg",
+        "https://telegra.ph/file/7b94e0cc82283065d3531.jpg",
+        "https://telegra.ph/file/35461b71de0a418987095.jpg",
+        "https://telegra.ph/file/840bdc7fc6a27609e6d85.jpg",
+        "https://telegra.ph/file/5018b845c6723147e7284.jpg",
+        "https://telegra.ph/file/c27195004eeb57b90f6be.jpg",
+        "https://telegra.ph/file/9c71e29ea56879ee2fef0.jpg",
+        "https://telegra.ph/file/4bd70fda500c992f21a31.jpg",
+        "https://telegra.ph/file/cd1b206b42b4e46ab4837.jpg",
+        "https://telegra.ph/file/e2ce67f34384fd44e4451.jpg",
+        "https://telegra.ph/file/3d163b3451a303ed3d3a6.jpg",
+        "https://telegra.ph/file/dacae620b58f0ed32c1a0.jpg",
+        "https://telegra.ph/file/36f48e35617cf5e915672.jpg",
+        "https://telegra.ph/file/95ac233965f33236069ad.jpg",
+        "https://telegra.ph/file/f40afe05160ebfa0d8b93.jpg",
+        "https://telegra.ph/file/38fa069655b8b088c2acd.jpg",
+        "https://telegra.ph/file/77508fd7d4a5e0c075f10.jpg",
+        "https://telegra.ph/file/c807ee9acbf3dec97b9b9.jpg",
+        "https://telegra.ph/file/25136bdaccaffc9bd137c.jpg",
+        "https://telegra.ph/file/ad4318514ca6b87e4cb5a.jpg",
+        "https://telegra.ph/file/d2bb7c258bd3654442ac9.jpg",
+        "https://telegra.ph/file/e6cbce4daae3686ea2187.jpg",
+        "https://telegra.ph/file/16142735d24aa85699cbd.jpg",
+        "https://telegra.ph/file/671f6e2cbb7b0ccbdb41c.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

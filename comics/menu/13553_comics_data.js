@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13553,
+    "title": "[ZEN] 水着限定協議 - I (少女前線)",
+    "sourceUrl": "https://telegra.ph/ZEN-水着限定協議---I-少女前線-08-31",
+    "images": [
+        "https://telegra.ph/file/c73ef4c792f57a4f4794e.jpg",
+        "https://telegra.ph/file/5d07a9240866a8afc321a.jpg",
+        "https://telegra.ph/file/cf12d4c0a3005bf585bf2.jpg",
+        "https://telegra.ph/file/763a7a133449fd5ee597a.jpg",
+        "https://telegra.ph/file/cf5be7b9ee69162c746a7.jpg",
+        "https://telegra.ph/file/dd462c62391a7ac3e6897.jpg",
+        "https://telegra.ph/file/a0340f158093bb7f1b9de.jpg",
+        "https://telegra.ph/file/3b4ad63a53e7cab8d90b0.jpg",
+        "https://telegra.ph/file/eee88f114b8c5cb7b6d13.jpg",
+        "https://telegra.ph/file/2ae91bc40f02487538144.jpg",
+        "https://telegra.ph/file/610ab5562ea042015011a.jpg",
+        "https://telegra.ph/file/470352775b24fd6f5cb54.jpg",
+        "https://telegra.ph/file/3ab8911d2d64ec3e8ee33.jpg",
+        "https://telegra.ph/file/ec8a0e6af70f6c0ce1b87.jpg",
+        "https://telegra.ph/file/286c5e92324198b644627.jpg",
+        "https://telegra.ph/file/9eb273fb842e84aa5cfe7.jpg",
+        "https://telegra.ph/file/9a67a599743d959f34aa3.jpg",
+        "https://telegra.ph/file/fac199e8fdd2edc4c04fc.jpg",
+        "https://telegra.ph/file/1d140599d6eb2a909b61d.jpg",
+        "https://telegra.ph/file/78b9ae0e36508a3aaba6a.jpg",
+        "https://telegra.ph/file/1fadf44340c9b01bc96fa.jpg",
+        "https://telegra.ph/file/7ed1dd4c4bca1d41bdd20.jpg",
+        "https://telegra.ph/file/8348fffe18548f8c559ee.jpg",
+        "https://telegra.ph/file/1373c2ab1e9debcac61eb.jpg",
+        "https://telegra.ph/file/bcccc4da28433a4a3cfcd.jpg",
+        "https://telegra.ph/file/dc690adedbc434a01180b.jpg",
+        "https://telegra.ph/file/5c6f9ccece0ad7fb457ba.jpg",
+        "https://telegra.ph/file/04c9ca53541a139bc5c1c.jpg",
+        "https://telegra.ph/file/07d56acca1692f08f60f0.jpg",
+        "https://telegra.ph/file/e0abc4b931d8c18c4f88d.jpg",
+        "https://telegra.ph/file/7f8d0de569bb6da794ed8.jpg",
+        "https://telegra.ph/file/72281c8bbf3039e711dd7.jpg",
+        "https://telegra.ph/file/d71a1d80e894e63c1d620.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

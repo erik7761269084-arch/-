@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12531,
+    "title": "[ちんちん亭 (chin)] 禁欲発情仙人と交尾 (東方Project)",
+    "sourceUrl": "https://telegra.ph/ちんちん亭-chin-禁欲発情仙人と交尾-東方Project-08-31",
+    "images": [
+        "https://telegra.ph/file/7341dea4bfd6935285686.jpg",
+        "https://telegra.ph/file/188c7d085e4e7485b19dc.jpg",
+        "https://telegra.ph/file/84eb866f6df2c489cc378.jpg",
+        "https://telegra.ph/file/2999658f95de8d445aabb.jpg",
+        "https://telegra.ph/file/75cceb37de505182f622a.jpg",
+        "https://telegra.ph/file/1208f583cfbff103f1671.jpg",
+        "https://telegra.ph/file/39f603457fc760aa30a99.jpg",
+        "https://telegra.ph/file/c23f6c62d8b7f3b4514ea.jpg",
+        "https://telegra.ph/file/39c96c52e05ecd2e015a1.jpg",
+        "https://telegra.ph/file/e6ca452aff956346a5205.jpg",
+        "https://telegra.ph/file/1d4d5849347a6223a09c2.jpg",
+        "https://telegra.ph/file/ab3feee56f787d99406cc.jpg",
+        "https://telegra.ph/file/28e34b1ca3d8cf0b92fc2.jpg",
+        "https://telegra.ph/file/f0a2fc6bb904593223e90.jpg",
+        "https://telegra.ph/file/49458cdb61cbbc73ad9ed.jpg",
+        "https://telegra.ph/file/46837e40a8184af9b5136.jpg",
+        "https://telegra.ph/file/ebde0f570501bc59eb01e.jpg",
+        "https://telegra.ph/file/ae535745dc70da1a8dbb3.jpg",
+        "https://telegra.ph/file/96aea3c88c6ca18e980aa.jpg",
+        "https://telegra.ph/file/1b646e38ad9c33363bf84.jpg",
+        "https://telegra.ph/file/5461697397890d6e50723.jpg",
+        "https://telegra.ph/file/5ff1a19e9d5c9b795c356.jpg",
+        "https://telegra.ph/file/71794e5d0962d6a40d521.jpg",
+        "https://telegra.ph/file/7be99ff5b9920c00eae91.jpg",
+        "https://telegra.ph/file/2f21201559f86bc015c8c.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/399d7f27d7991ef78a412.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

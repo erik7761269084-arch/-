@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12854,
+    "title": "[満開開花] 催眠で家族でＨな♥ちゅーばー生活 part10[chinese]",
+    "sourceUrl": "https://telegra.ph/満開開花-催眠で家族でＨなちゅーばー生活-part10chinese-08-31",
+    "images": [
+        "https://telegra.ph/file/9614e91649a1e557d0fdf.jpg",
+        "https://telegra.ph/file/d1faf5d0d10ecb2d30d2f.jpg",
+        "https://telegra.ph/file/19ba079c2d2cfd955605c.jpg",
+        "https://telegra.ph/file/4d78a0b824124f66842d0.jpg",
+        "https://telegra.ph/file/65f85d86733f323ff1de6.jpg",
+        "https://telegra.ph/file/5276e183f9d54a739974f.jpg",
+        "https://telegra.ph/file/1f801091669bd55ce0dc4.jpg",
+        "https://telegra.ph/file/8289cb78f0dd947d2d91d.jpg",
+        "https://telegra.ph/file/9bdef53ccdf402484fd57.jpg",
+        "https://telegra.ph/file/8a48c5e9ae16da99090b6.jpg",
+        "https://telegra.ph/file/301f5bb32725dca906c34.jpg",
+        "https://telegra.ph/file/36ef55795c35c36f6a130.jpg",
+        "https://telegra.ph/file/9fa7b25ecb975586642ec.jpg",
+        "https://telegra.ph/file/00fa7b44bc05db215fb71.jpg",
+        "https://telegra.ph/file/4e991ae8fa3f52c0084a6.jpg",
+        "https://telegra.ph/file/2fc59f0b23467890bd239.jpg",
+        "https://telegra.ph/file/4b3e9aa34a463f0c7bc2f.jpg",
+        "https://telegra.ph/file/22c0c94099e19dd1ea37a.jpg",
+        "https://telegra.ph/file/64f6a63f76a9ae0496391.jpg",
+        "https://telegra.ph/file/3c61257b9d87e2e5a244c.jpg",
+        "https://telegra.ph/file/1c7fe63312c239a95ccad.jpg",
+        "https://telegra.ph/file/948d9138dfb6c87ce2ae8.jpg",
+        "https://telegra.ph/file/be1b1d396656527a76afa.jpg",
+        "https://telegra.ph/file/4d8ea7cf25293458b3ccd.jpg",
+        "https://telegra.ph/file/f24769b05ef0aec6c029e.jpg",
+        "https://telegra.ph/file/ef0f2c77f2c364ac6a369.jpg",
+        "https://telegra.ph/file/cdda1f19357b1447f4e37.jpg",
+        "https://telegra.ph/file/e5a55db035aa356c19154.jpg",
+        "https://telegra.ph/file/85336296ece83d0ddb1f1.jpg",
+        "https://telegra.ph/file/a5425471b27d538dc8470.jpg",
+        "https://telegra.ph/file/b0be7cbd2230d0b8cd4a9.gif",
+        "https://telegra.ph/file/8984f230825f153759515.jpg",
+        "https://telegra.ph/file/7c227c84a26a490390c4e.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

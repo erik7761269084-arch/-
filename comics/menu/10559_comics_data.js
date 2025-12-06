@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10559,
+    "title": "[日吉ハナ] miss rain (コミック エグゼ 27)",
+    "sourceUrl": "https://telegra.ph/日吉ハナ-miss-rain-コミック-エグゼ-27-08-31",
+    "images": [
+        "https://telegra.ph/file/722c86e4e7d4c4a840a68.jpg",
+        "https://telegra.ph/file/16c95d9aad3c0dbfb59c2.jpg",
+        "https://telegra.ph/file/325a72f519458ab1a5952.jpg",
+        "https://telegra.ph/file/ad23e19757740a1dc8fcd.png",
+        "https://telegra.ph/file/72aa18f9705ace24197d1.jpg",
+        "https://telegra.ph/file/c130cdb5507ba21acf8c8.jpg",
+        "https://telegra.ph/file/7310d3f98a30c4b4c1470.jpg",
+        "https://telegra.ph/file/a691c797d816ed1ff0f06.jpg",
+        "https://telegra.ph/file/dadde6ebcb606031fa6f4.jpg",
+        "https://telegra.ph/file/a0cba7d752cf91baafb9e.jpg",
+        "https://telegra.ph/file/613f69426e4e495bf4a12.jpg",
+        "https://telegra.ph/file/f97363faba26a75a25962.jpg",
+        "https://telegra.ph/file/618270420169d3693c9b2.jpg",
+        "https://telegra.ph/file/9fa127a63f6017d6fa994.png",
+        "https://telegra.ph/file/c950101aaa9822631cfb9.png",
+        "https://telegra.ph/file/37757a73d8faf3becc278.jpg",
+        "https://telegra.ph/file/5945527ecc6310ab8cffe.png",
+        "https://telegra.ph/file/77008395d84c6d27405d4.jpg",
+        "https://telegra.ph/file/e2ca2bb9ce602361ae989.jpg",
+        "https://telegra.ph/file/3599ade72523408749468.jpg",
+        "https://telegra.ph/file/84295f73a5e5d4904f781.jpg",
+        "https://telegra.ph/file/97eab0d7c8bc1ff6c9841.jpg",
+        "https://telegra.ph/file/875702fc4e090303b310f.jpg",
+        "https://telegra.ph/file/3e48426212965465a31e1.jpg",
+        "https://telegra.ph/file/1c8b2b1f392cef6f67df4.jpg",
+        "https://telegra.ph/file/c512a5f7a386f7878f74c.jpg",
+        "https://telegra.ph/file/854c9bb785f089d13a854.jpg",
+        "https://telegra.ph/file/1467945cb1fe45d0045a6.jpg",
+        "https://telegra.ph/file/0d4f0ccd18d97f8505f27.jpg",
+        "https://telegra.ph/file/6c04daa26655eca04dfbd.jpg",
+        "https://telegra.ph/file/c9c436089be86d6d36217.jpg",
+        "https://telegra.ph/file/868e12332884153d670db.jpg",
+        "https://telegra.ph/file/047bc598ed6f2a568e5d9.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

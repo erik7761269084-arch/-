@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8032,
+    "title": "[蘭田夢] ふーとらっぷ 第5話 (マガジンサイベリア Vol.149)",
+    "sourceUrl": "https://telegra.ph/蘭田夢-ふーとらっぷ-第5話-マガジンサイベリア-Vol149-08-31",
+    "images": [
+        "https://telegra.ph/file/f5a38d96bc4a685a8316b.jpg",
+        "https://telegra.ph/file/cd81ff87284472093b18e.jpg",
+        "https://telegra.ph/file/197132d64ccbfa893f50e.jpg",
+        "https://telegra.ph/file/79c58ece44e800b2bfa89.jpg",
+        "https://telegra.ph/file/7ad1d385d03c6e3d04600.jpg",
+        "https://telegra.ph/file/c02e01df67b16a6c186c6.jpg",
+        "https://telegra.ph/file/552629c757dd49a6f34fc.jpg",
+        "https://telegra.ph/file/54c4101ce15ea30d44fde.jpg",
+        "https://telegra.ph/file/976b46f20bcadd1de3af2.jpg",
+        "https://telegra.ph/file/1242ff71014baea918b79.jpg",
+        "https://telegra.ph/file/d3035e8bcd8d1d6fd3a51.jpg",
+        "https://telegra.ph/file/4b3eb19fe230c41856c8c.jpg",
+        "https://telegra.ph/file/aa587af69a1830cd37ab8.jpg",
+        "https://telegra.ph/file/996cdcda15caca12d0f20.jpg",
+        "https://telegra.ph/file/f3306ce7d86b2480b52bb.jpg",
+        "https://telegra.ph/file/687e8803d34558678f813.jpg",
+        "https://telegra.ph/file/75117c6498e0f94fd9703.jpg",
+        "https://telegra.ph/file/46084dc6a033819dce114.jpg",
+        "https://telegra.ph/file/12329d21cbc50e035052c.jpg",
+        "https://telegra.ph/file/b451756694b561f48ecda.jpg",
+        "https://telegra.ph/file/876cbdbbb230e6648deb6.jpg",
+        "https://telegra.ph/file/091ee34be23828c62ed84.jpg",
+        "https://telegra.ph/file/eddf929655997fec09e7c.jpg",
+        "https://telegra.ph/file/27753af68bbe958f07af8.jpg",
+        "https://telegra.ph/file/8977e7869f2e4b64f6659.jpg",
+        "https://telegra.ph/file/d7f0cd7e705fdec49d654.jpg",
+        "https://telegra.ph/file/618ecd6053b397c3e9c6e.jpg",
+        "https://telegra.ph/file/59c1628c52306ecfaf2a0.jpg",
+        "https://telegra.ph/file/2c6ab70f41badbd6fe321.jpg",
+        "https://telegra.ph/file/c693e9c98367bb0f6bb35.jpg",
+        "https://telegra.ph/file/c926f77c7a4cbca71491f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

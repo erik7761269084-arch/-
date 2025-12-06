@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 10688,
+    "title": "(C97) [イヤリング爆弾工場 (一概)] 野営 (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/C97-イヤリング爆弾工場-一概-野営-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/3f6d03a8bed4259115f97.jpg",
+        "https://telegra.ph/file/e210cf4c9f32319ee74d2.jpg",
+        "https://telegra.ph/file/e13c95130f5b3bc76d864.jpg",
+        "https://telegra.ph/file/05e711d011bb023975e82.jpg",
+        "https://telegra.ph/file/f10600834fb31bf71ef33.jpg",
+        "https://telegra.ph/file/4864724a4d7850d2240f4.jpg",
+        "https://telegra.ph/file/2b3f1b49f89b9ce238e3e.jpg",
+        "https://telegra.ph/file/e4760e0b72eb6601e1289.jpg",
+        "https://telegra.ph/file/d99e3e14a11ef00e70660.jpg",
+        "https://telegra.ph/file/2d063734eeaed421af460.jpg",
+        "https://telegra.ph/file/3bc210219685c0c9f91d7.jpg",
+        "https://telegra.ph/file/2d3c435d0b20d055e32e6.jpg",
+        "https://telegra.ph/file/3bd9033bc3adb2a933db0.jpg",
+        "https://telegra.ph/file/d90ac4de6b7b5682830bb.jpg",
+        "https://telegra.ph/file/2e989ae01329dffad8f62.jpg",
+        "https://telegra.ph/file/a8dab3208951e3d67e86e.jpg",
+        "https://telegra.ph/file/e0d943afd097034f1495a.jpg",
+        "https://telegra.ph/file/a096961f9276eeb0c76ee.jpg",
+        "https://telegra.ph/file/f6f16bb1218283a061940.jpg",
+        "https://telegra.ph/file/caab8daf35df37f98bd47.jpg",
+        "https://telegra.ph/file/25f2200b50d010fe735ce.jpg",
+        "https://telegra.ph/file/649878e5d4663119a5341.jpg",
+        "https://telegra.ph/file/b7e4e645532b019765030.jpg",
+        "https://telegra.ph/file/354e4c4ede6240d244403.jpg",
+        "https://telegra.ph/file/ea53a2fb83e0484c703f1.jpg",
+        "https://telegra.ph/file/7ce43297011dff4a40738.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/5b1cce9878c0d2560488a.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

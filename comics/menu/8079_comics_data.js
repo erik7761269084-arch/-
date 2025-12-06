@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 8079,
+    "title": "(こみトレ38) [Take Out (是露巣)] 蛇神様はエッチがしたい (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/こみトレ38-Take-Out-是露巣-蛇神様はエッチがしたい-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/1f8d5c79e01c8552ac8f2.jpg",
+        "https://telegra.ph/file/7684e6eaedcddee6e11ae.jpg",
+        "https://telegra.ph/file/4b6b90fea4f58c87fc574.jpg",
+        "https://telegra.ph/file/96b3e34b38422241eba08.jpg",
+        "https://telegra.ph/file/995c0857c4c6d2f3ac6c6.jpg",
+        "https://telegra.ph/file/ccce7703eea0e0762bd3f.jpg",
+        "https://telegra.ph/file/182c6eaaac962b236b3ba.jpg",
+        "https://telegra.ph/file/1ffbda3237475aaccb785.jpg",
+        "https://telegra.ph/file/1e947dd476f17fab6c861.jpg",
+        "https://telegra.ph/file/caa41c9347441a9b6904e.jpg",
+        "https://telegra.ph/file/39878101b30d7b4494ab7.jpg",
+        "https://telegra.ph/file/552b1c17b70a3eed8db17.jpg",
+        "https://telegra.ph/file/a902c5ad3b2db2cf0130e.jpg",
+        "https://telegra.ph/file/317b101c6b4f5bea5461c.jpg",
+        "https://telegra.ph/file/af478eb773d71ccc48586.jpg",
+        "https://telegra.ph/file/0897e02a42f5c443d7078.jpg",
+        "https://telegra.ph/file/fc37924738f35835dfb78.jpg",
+        "https://telegra.ph/file/fd01374553735b7fa1ae2.jpg",
+        "https://telegra.ph/file/fb6a7b72637a240ee55c4.jpg",
+        "https://telegra.ph/file/ccb9e72257406a023e581.jpg",
+        "https://telegra.ph/file/77bfc5722664dc8fc5f12.jpg",
+        "https://telegra.ph/file/250ebad24eaa3046e4b41.jpg",
+        "https://telegra.ph/file/ca26ab778b92dc98a0957.jpg",
+        "https://telegra.ph/file/90c4d129bd9be1355a6e5.jpg",
+        "https://telegra.ph/file/106c53676f7ef9ffa2ab5.jpg",
+        "https://telegra.ph/file/dd897643ba7a2f347ac48.jpg",
+        "https://telegra.ph/file/40c9cbebf87f5a74058c2.jpg",
+        "https://telegra.ph/file/53abc9faef236f768b7b0.jpg",
+        "https://telegra.ph/file/886af98e2f5229dec2618.jpg",
+        "https://telegra.ph/file/eebabea3bd8d7c5d4458c.jpg",
+        "https://telegra.ph/file/ae7f0a81ba37852d2b263.jpg",
+        "https://telegra.ph/file/b40187ff553a38fdba076.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

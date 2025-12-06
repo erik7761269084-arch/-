@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 14222,
+    "title": "[あきのそら] 異世界来たのでスケベスキルで全力謳歌しようと思う 3射目 (コミック エグゼ 31)",
+    "sourceUrl": "https://telegra.ph/あきのそら-異世界来たのでスケベスキルで全力謳歌しようと思う-3射目-コミック-エグゼ-31-08-31",
+    "images": [
+        "https://telegra.ph/file/ee8342f87e7f6096a2bae.jpg",
+        "https://telegra.ph/file/272bec80f0d3e05fcf58c.jpg",
+        "https://telegra.ph/file/87280e28264f9a6fe07df.jpg",
+        "https://telegra.ph/file/1113c5f307ff3e7f12d8b.jpg",
+        "https://telegra.ph/file/b7fbe9be87f61b254dc08.jpg",
+        "https://telegra.ph/file/8b038d435ad572e47ca00.jpg",
+        "https://telegra.ph/file/ddaa0e535fc07b32020d7.jpg",
+        "https://telegra.ph/file/3fa57123170661d69845f.jpg",
+        "https://telegra.ph/file/7886c69535de7be3a5db4.jpg",
+        "https://telegra.ph/file/24bba724040c7237c90ef.jpg",
+        "https://telegra.ph/file/3b34a1be34bd44741e415.jpg",
+        "https://telegra.ph/file/a15da6b24378bf0b31eec.jpg",
+        "https://telegra.ph/file/1813e052f950975092953.jpg",
+        "https://telegra.ph/file/a5ffec95dba4fc4fe2076.jpg",
+        "https://telegra.ph/file/cfe113363a817b9cef54b.jpg",
+        "https://telegra.ph/file/9e35af1020d20a877b0ad.jpg",
+        "https://telegra.ph/file/9dea99899993dea06e1ec.jpg",
+        "https://telegra.ph/file/a16b15c1ce5229a459b10.jpg",
+        "https://telegra.ph/file/3815c0becf75d6f946450.jpg",
+        "https://telegra.ph/file/553f43e44c4698745511c.jpg",
+        "https://telegra.ph/file/ea1bd92b5e67d42744014.jpg",
+        "https://telegra.ph/file/726a2270deffc6bb1b660.jpg",
+        "https://telegra.ph/file/e7d7d983c6e474360d342.jpg",
+        "https://telegra.ph/file/dfcfe2824b00366e6c6ba.jpg",
+        "https://telegra.ph/file/ca748bda76ea5a1fbd1b0.jpg",
+        "https://telegra.ph/file/4f946923a6a8cf6a93044.jpg",
+        "https://telegra.ph/file/5bd155934e594eab3dc29.jpg",
+        "https://telegra.ph/file/0ba62b01384c4f13d1983.jpg",
+        "https://telegra.ph/file/5929eaf93d9447b496f18.jpg",
+        "https://telegra.ph/file/fc9dde90efd3d2c27dca4.jpg",
+        "https://telegra.ph/file/9175a2b5e7205e0cc4a3f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

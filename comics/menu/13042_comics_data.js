@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13042,
+    "title": "[ぷよちゃ] ファンパコらレター♥ (COMIC BAVEL 2022年8月号)",
+    "sourceUrl": "https://telegra.ph/ぷよちゃ-ファンパコらレター-COMIC-BAVEL-2022年8月号-08-31",
+    "images": [
+        "https://telegra.ph/file/17e5d51b9e94d846c543c.jpg",
+        "https://telegra.ph/file/d483af327a77ca14019ee.jpg",
+        "https://telegra.ph/file/f91071e066353509df38a.jpg",
+        "https://telegra.ph/file/64f31174ed010b2f758fb.jpg",
+        "https://telegra.ph/file/4c4d4888a425acc642603.jpg",
+        "https://telegra.ph/file/034c243406b6e18fbc037.jpg",
+        "https://telegra.ph/file/3f6ae88e1d63135cdcd29.jpg",
+        "https://telegra.ph/file/5351abd41d06b0009b370.jpg",
+        "https://telegra.ph/file/dd8b0dee78214b0c0766d.jpg",
+        "https://telegra.ph/file/9b4bdfc566c89478f89ed.jpg",
+        "https://telegra.ph/file/bccbc8a533beb969c07e3.jpg",
+        "https://telegra.ph/file/c268ab3bc8f8c1887abb0.jpg",
+        "https://telegra.ph/file/ef225ac367a42e65c472d.jpg",
+        "https://telegra.ph/file/0be35cbde438b8a63b40f.jpg",
+        "https://telegra.ph/file/efb9990ad4235b4da7dbc.jpg",
+        "https://telegra.ph/file/81d0aea156483d98fee09.jpg",
+        "https://telegra.ph/file/30ac534681c3bb8e3d6e2.jpg",
+        "https://telegra.ph/file/0426ee0b22dc9c12e36bb.jpg",
+        "https://telegra.ph/file/566102c0107cf18f3c69e.jpg",
+        "https://telegra.ph/file/64376ab0fe1da5c5dc3ec.jpg",
+        "https://telegra.ph/file/ab06be62d4d8cbb9ab2bc.jpg",
+        "https://telegra.ph/file/c7e240b40a30338713790.jpg",
+        "https://telegra.ph/file/64990093f8d64c3d74bec.jpg",
+        "https://telegra.ph/file/d50c53ab9dde8ba3b2e83.jpg",
+        "https://telegra.ph/file/f286ee2182d9ace2ceeaa.jpg",
+        "https://telegra.ph/file/0f0fd895589326bf9f8c7.jpg",
+        "https://telegra.ph/file/b53feb0c05d9a2b1a2b80.jpg",
+        "https://telegra.ph/file/76e0df128a12c09aa2096.jpg",
+        "https://telegra.ph/file/d3bcb06d997bdc6045de9.jpg",
+        "https://telegra.ph/file/2ee4dac311bab970d1930.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

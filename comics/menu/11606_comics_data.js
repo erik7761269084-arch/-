@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11606,
+    "title": "(こみトレ34) [ぷにぷに館 (ぽりうれたん)] むらむらH♡オルタちゃん (Fate/Grand Order)",
+    "sourceUrl": "https://telegra.ph/こみトレ34-ぷにぷに館-ぽりうれたん-むらむらHオルタちゃん-FateGrand-Order-08-31",
+    "images": [
+        "https://telegra.ph/file/637bb4468ef9314ac1aa2.jpg",
+        "https://telegra.ph/file/140d9b5403f343cb02364.jpg",
+        "https://telegra.ph/file/6703f42b32b68eb83c77d.jpg",
+        "https://telegra.ph/file/fd94b77183ada3efad439.jpg",
+        "https://telegra.ph/file/777d8ab3bee6b2cecbe9a.jpg",
+        "https://telegra.ph/file/056a88795c0ce4ba1485a.jpg",
+        "https://telegra.ph/file/8fa29f5b0b2f412ed0f18.jpg",
+        "https://telegra.ph/file/12c22bb8499ac470df03c.jpg",
+        "https://telegra.ph/file/fb3755c7ae429e78b7598.jpg",
+        "https://telegra.ph/file/d230ee58bdc7409aeaf6f.jpg",
+        "https://telegra.ph/file/9b72eb4a67a6fc6bfe693.jpg",
+        "https://telegra.ph/file/54d285a78a152fc9a833c.jpg",
+        "https://telegra.ph/file/afb603889d3b0e43b8c93.jpg",
+        "https://telegra.ph/file/41e0d5917c11010b7e213.jpg",
+        "https://telegra.ph/file/f8942d0839b8f4ecb152a.jpg",
+        "https://telegra.ph/file/1ce751240d46416fea137.jpg",
+        "https://telegra.ph/file/0667df7cc0e8724232d19.jpg",
+        "https://telegra.ph/file/12109803a7e1266154e24.jpg",
+        "https://telegra.ph/file/4f5d5b14ea8ceaf898aad.jpg",
+        "https://telegra.ph/file/eda865f1d0ac8dbef4629.jpg",
+        "https://telegra.ph/file/f44dc4d69d4b9002a423a.jpg",
+        "https://telegra.ph/file/0e82f7e526681fc5dd182.jpg",
+        "https://telegra.ph/file/c7882ceb7b8448b875041.jpg",
+        "https://telegra.ph/file/db54d66447c3ee0a5f832.jpg",
+        "https://telegra.ph/file/bc7eb9dbe6ebfdbead8cb.jpg",
+        "https://telegra.ph/file/c4dded58de6a809db7d9c.jpg",
+        "https://telegra.ph/file/842a33169c53d7866f9fa.jpg",
+        "https://telegra.ph/file/c9378b3fcdf384a7d187f.jpg",
+        "https://telegra.ph/file/8a27e08b9109ae20a28c0.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg",
+        "https://telegra.ph/file/8664818462199397a8fd1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

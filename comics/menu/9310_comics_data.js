@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 9310,
+    "title": "(FF36) 鹽水企鵝 Hellfucker (Helltaker) 恐怖蟑螂公個人分享",
+    "sourceUrl": "https://telegra.ph/FF36-鹽水企鵝-Hellfucker-Helltaker-恐怖蟑螂公個人分享-08-31",
+    "images": [
+        "https://telegra.ph/file/e47167ffe55191aa7543c.jpg",
+        "https://telegra.ph/file/c950d6202ae7a0245efc4.jpg",
+        "https://telegra.ph/file/6f6e02ca2bbb91079d5d9.jpg",
+        "https://telegra.ph/file/4c1e5ccb5e2b91b5edde7.jpg",
+        "https://telegra.ph/file/fcdf6064b37bb0861fe59.jpg",
+        "https://telegra.ph/file/f289b9be89597ae6e1c98.jpg",
+        "https://telegra.ph/file/9acce3cd85cba1cf6d1d5.jpg",
+        "https://telegra.ph/file/f871056d673af3cb020d9.jpg",
+        "https://telegra.ph/file/58e8def982721bd9ff747.jpg",
+        "https://telegra.ph/file/695abd58c2a96e4f55ebd.jpg",
+        "https://telegra.ph/file/1abfa5af170f98d784b54.jpg",
+        "https://telegra.ph/file/012be9cb9894f4844ff5c.jpg",
+        "https://telegra.ph/file/ff324e375eab2b4f90794.jpg",
+        "https://telegra.ph/file/8eb36aca745943811cfc2.jpg",
+        "https://telegra.ph/file/c4a85349ab6a5f8472b9a.jpg",
+        "https://telegra.ph/file/7ea9b8d1789d9955e94b9.jpg",
+        "https://telegra.ph/file/7a943a26d019bc4ea8f43.jpg",
+        "https://telegra.ph/file/aad79abda7115fce79bf0.jpg",
+        "https://telegra.ph/file/d31dd7494165a440fe619.jpg",
+        "https://telegra.ph/file/f2e3479b7c64f89414a5f.jpg",
+        "https://telegra.ph/file/5f9bcf95693ac3f900e8a.jpg",
+        "https://telegra.ph/file/710d7eea2fbe6e790119d.jpg",
+        "https://telegra.ph/file/6d4f533d4355005b48e6b.jpg",
+        "https://telegra.ph/file/17882074104b40885814c.jpg",
+        "https://telegra.ph/file/da17f3708d6956cc27ec2.jpg",
+        "https://telegra.ph/file/c0f56ed576f909fea5a36.jpg",
+        "https://telegra.ph/file/bddcc9be9fac68ce84076.jpg",
+        "https://telegra.ph/file/3872b729a53e19ae966da.jpg",
+        "https://telegra.ph/file/39d4847f48730a654621c.jpg",
+        "https://telegra.ph/file/0081537429b7cc5b28967.jpg",
+        "https://telegra.ph/file/0cdbea296163cf1569046.jpg",
+        "https://telegra.ph/file/cdfb9ae284854245dc39f.jpg",
+        "https://telegra.ph/file/a90ed6ed652e48a2f3c1a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

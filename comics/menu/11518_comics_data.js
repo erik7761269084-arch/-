@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11518,
+    "title": "[2SAI (和池)] おまかせくださいご主人さま",
+    "sourceUrl": "https://telegra.ph/2SAI-和池-おまかせくださいご主人さま-08-31",
+    "images": [
+        "https://telegra.ph/file/7f4bfdd7d6fb985c59109.jpg",
+        "https://telegra.ph/file/ad97207723ebad44c3e5f.jpg",
+        "https://telegra.ph/file/a202dfdf097825eaf1383.jpg",
+        "https://telegra.ph/file/4198ee0340cbba8dfb312.jpg",
+        "https://telegra.ph/file/927c3b983e77734606d12.jpg",
+        "https://telegra.ph/file/6a6a71f3f43e6eeaba887.jpg",
+        "https://telegra.ph/file/72469fb6b4ae42888aee0.jpg",
+        "https://telegra.ph/file/5f276530d41abd773cdad.jpg",
+        "https://telegra.ph/file/b3bad6f8004643aaaf26f.jpg",
+        "https://telegra.ph/file/f5fb8c8e4b4d5205023ec.jpg",
+        "https://telegra.ph/file/3ece078aeed5b29bcfa7c.jpg",
+        "https://telegra.ph/file/038e3eb2f6573314a6aa8.jpg",
+        "https://telegra.ph/file/2ec124cbb6c79433337b1.jpg",
+        "https://telegra.ph/file/9fed8fee0b98e8729b067.jpg",
+        "https://telegra.ph/file/1091378a291af2856792c.jpg",
+        "https://telegra.ph/file/37c3be218bd75c1c64ad6.jpg",
+        "https://telegra.ph/file/37b63d255ced372a00e05.jpg",
+        "https://telegra.ph/file/d51514d63a198e91f9ae4.jpg",
+        "https://telegra.ph/file/edb97b9be28056539b1a7.jpg",
+        "https://telegra.ph/file/0933a1682b9fdd3083467.jpg",
+        "https://telegra.ph/file/7d4e6c9d96dde158d86cd.jpg",
+        "https://telegra.ph/file/6b1a2a3ce34123f842c0d.jpg",
+        "https://telegra.ph/file/c21da3655d5b34a6dfcbd.jpg",
+        "https://telegra.ph/file/a03cbbc56503e274da01e.jpg",
+        "https://telegra.ph/file/f03d0621b2a39bef2975d.jpg",
+        "https://telegra.ph/file/140949b122831b9f7cd28.jpg",
+        "https://telegra.ph/file/327f2ea78fea28ee4d908.jpg",
+        "https://telegra.ph/file/e4905f5746c1854d05f24.jpg",
+        "https://telegra.ph/file/fa44babbc182e570006b8.jpg",
+        "https://telegra.ph/file/eb0186f2281fa62bf809e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

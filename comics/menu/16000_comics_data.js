@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16000,
+    "title": "[スイートピー (大島智)] CURE UP↑↑ 秘密の宝島 (魔法つかいプリキュア！)  [2016年5月15日]-Preview",
+    "sourceUrl": "https://telegra.ph/スイートピー-大島智-CURE-UP-秘密の宝島-魔法つかいプリキュア-2016年5月15日-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/18b1b120c15ca70d90bcd.jpg",
+        "https://telegra.ph/file/af2c3baf627c5a36b1d97.jpg",
+        "https://telegra.ph/file/19d5c4373af81585878e0.jpg",
+        "https://telegra.ph/file/956b642099ffba4afce99.jpg",
+        "https://telegra.ph/file/d7d1fa78911de13bddaa6.jpg",
+        "https://telegra.ph/file/e03a26019bc9ae2a35381.jpg",
+        "https://telegra.ph/file/05ed2e34816e8e59c882f.jpg",
+        "https://telegra.ph/file/7811314ed3bb1f562d809.jpg",
+        "https://telegra.ph/file/f59ac1dd182a1368e9bbb.jpg",
+        "https://telegra.ph/file/6d8fd1ccc66b2851d8652.jpg",
+        "https://telegra.ph/file/eb9946ab8daf5a79f18d3.jpg",
+        "https://telegra.ph/file/7b41cf5ed88dbf6380fe9.jpg",
+        "https://telegra.ph/file/90aac667d8d7e14cffedd.jpg",
+        "https://telegra.ph/file/97a34f084ee1d33c55121.jpg",
+        "https://telegra.ph/file/67fc119c09d1929de2f13.jpg",
+        "https://telegra.ph/file/e3a06440af71083154cf7.jpg",
+        "https://telegra.ph/file/80c1e2a2c5ab3bf36a55c.jpg",
+        "https://telegra.ph/file/7448eef48d30c3d3a4e7f.jpg",
+        "https://telegra.ph/file/ef0bff61c9547385441d5.jpg",
+        "https://telegra.ph/file/22dbd28c2effd1defdead.jpg",
+        "https://telegra.ph/file/686220f26d222c47a94a5.jpg",
+        "https://telegra.ph/file/2c096bd2b6fd52878aae4.jpg",
+        "https://telegra.ph/file/ba34bf0b887f4b9402870.jpg",
+        "https://telegra.ph/file/da76ea051a6218cc5d35e.jpg",
+        "https://telegra.ph/file/404e47b49c4503e3d9c85.jpg",
+        "https://telegra.ph/file/9a5a0407bda0f08aa9315.jpg",
+        "https://telegra.ph/file/645d530957524af88dfcc.jpg",
+        "https://telegra.ph/file/d9be31b8b39164ac82b9a.jpg",
+        "https://telegra.ph/file/db1a19faee187130010d2.jpg",
+        "https://telegra.ph/file/157796d01bb31ade88519.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11123,
+    "title": "(C84) [羊小屋 (橘由宇)] 薬用精液μ's (ラブライブ!)",
+    "sourceUrl": "https://telegra.ph/C84-羊小屋-橘由宇-薬用精液μs-ラブライブ-08-31",
+    "images": [
+        "https://telegra.ph/file/a09927ecf37e9596414d0.jpg",
+        "https://telegra.ph/file/2b6886de5ff9d92550c94.jpg",
+        "https://telegra.ph/file/1d1ed20841b8c0b8c4f56.jpg",
+        "https://telegra.ph/file/23e48f2d3cfcf1ba9b544.jpg",
+        "https://telegra.ph/file/733e1dc7e9ef6efb5157f.jpg",
+        "https://telegra.ph/file/9d23a94f700bb273d6523.jpg",
+        "https://telegra.ph/file/a1a0b1ca5cbf97f716233.jpg",
+        "https://telegra.ph/file/5e08ff30745072b071f40.jpg",
+        "https://telegra.ph/file/b96dc3e1f7285d87a4351.jpg",
+        "https://telegra.ph/file/e30b34b3cb2c3601715d7.jpg",
+        "https://telegra.ph/file/3c0ec9f90554a31637b45.jpg",
+        "https://telegra.ph/file/0fc9b7677c9d120ed9d4e.jpg",
+        "https://telegra.ph/file/c68c1cb519e8b1e26f5fe.jpg",
+        "https://telegra.ph/file/e804ee2351b4b2ea0fa9b.jpg",
+        "https://telegra.ph/file/10858deb7385ea1de4aa4.jpg",
+        "https://telegra.ph/file/bb6b0d2a994960f2632fc.jpg",
+        "https://telegra.ph/file/0770775274a4b03952588.jpg",
+        "https://telegra.ph/file/17afb5ac66ee14f452994.jpg",
+        "https://telegra.ph/file/3d0f1936eca8270efa2d7.jpg",
+        "https://telegra.ph/file/fedd9fa96aecf3a547d96.jpg",
+        "https://telegra.ph/file/8f97f120a1fa3021c4a64.jpg",
+        "https://telegra.ph/file/613bebee8dce060338e85.jpg",
+        "https://telegra.ph/file/d976e2bce0149d62efd25.jpg",
+        "https://telegra.ph/file/c2b20212cbcae51a4f200.jpg",
+        "https://telegra.ph/file/6bddeed2ea982d05b612f.jpg",
+        "https://telegra.ph/file/b02976faedbfe4b3fda39.jpg",
+        "https://telegra.ph/file/af378b9d53a0ef4d02deb.jpg",
+        "https://telegra.ph/file/3cc1069d1e55bb1a4fd9e.jpg",
+        "https://telegra.ph/file/f2011fb05dd3a27fc62e2.jpg",
+        "https://telegra.ph/file/3b89736b5109be70a3052.jpg",
+        "https://telegra.ph/file/65cea4c79415971105705.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

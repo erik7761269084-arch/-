@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 8597,
+    "title": "[黒越陽] サマー♥エンカウンター (コミック エグゼ 33)",
+    "sourceUrl": "https://telegra.ph/黒越陽-サマーエンカウンター-コミック-エグゼ-33-08-31",
+    "images": [
+        "https://telegra.ph/file/f187018765aae9821d11a.jpg",
+        "https://telegra.ph/file/f63ecc2112f28842174f3.jpg",
+        "https://telegra.ph/file/c738f94febfc15719c453.jpg",
+        "https://telegra.ph/file/2eff0e0f009df541e5f28.jpg",
+        "https://telegra.ph/file/b8be4f42261df19de24db.jpg",
+        "https://telegra.ph/file/e7b89c0246999ed44ae76.jpg",
+        "https://telegra.ph/file/b39a8606c09170d423af1.jpg",
+        "https://telegra.ph/file/072fc32b9b87d2b1903ba.jpg",
+        "https://telegra.ph/file/a4f2a02d4950fd199dbfa.jpg",
+        "https://telegra.ph/file/14860578ab9b9d59e0f77.jpg",
+        "https://telegra.ph/file/f38bd1a37abacce8ed752.jpg",
+        "https://telegra.ph/file/d69edc5c6dfc96484c4a6.jpg",
+        "https://telegra.ph/file/b551cf285600d4185051e.jpg",
+        "https://telegra.ph/file/f9f390a6b04cc3572a69d.jpg",
+        "https://telegra.ph/file/ed5816da526338711c9dd.jpg",
+        "https://telegra.ph/file/a55e4085dce3b7e8c4af2.jpg",
+        "https://telegra.ph/file/027df381cf9ece1d5fddd.jpg",
+        "https://telegra.ph/file/8938210b3aeef3fc7f963.jpg",
+        "https://telegra.ph/file/1adab99cf9b2f2cfdbfba.jpg",
+        "https://telegra.ph/file/e3050923048231e9e9898.jpg",
+        "https://telegra.ph/file/e29c690e669ab20ee5447.jpg",
+        "https://telegra.ph/file/b3ebc22a7cf1b57b40a45.jpg",
+        "https://telegra.ph/file/9f1049f448b5f7a589f98.jpg",
+        "https://telegra.ph/file/ef2ecd632b791e9c9bf8a.jpg",
+        "https://telegra.ph/file/9d8b457366fc74b6fe340.jpg",
+        "https://telegra.ph/file/3497bc3a2b3f4bdd1d82b.jpg",
+        "https://telegra.ph/file/d7d9ab0bc7f835ef4d0c0.jpg",
+        "https://telegra.ph/file/f19a714e71357677b7d40.jpg",
+        "https://telegra.ph/file/aa145da0b147302f38d15.jpg",
+        "https://telegra.ph/file/e4827beba7cb8c519735e.png"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

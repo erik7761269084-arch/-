@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 13501,
+    "title": "[絶望しろむじ (しょうさん坊主)] 巨乳の母娘にお世話になってます。娘編",
+    "sourceUrl": "https://telegra.ph/絶望しろむじ-しょうさん坊主-巨乳の母娘にお世話になってます娘編-08-31",
+    "images": [
+        "https://telegra.ph/file/a5d04cb152985353cb0d1.jpg",
+        "https://telegra.ph/file/064345f5702603607c71f.jpg",
+        "https://telegra.ph/file/d4326a8f3aed26be5181b.jpg",
+        "https://telegra.ph/file/063e73700ea9a8a7d5f1f.jpg",
+        "https://telegra.ph/file/cd7281c10fd2d69f7d1c2.jpg",
+        "https://telegra.ph/file/771147b6be3f808ae98fc.jpg",
+        "https://telegra.ph/file/ed6b38db3a2196bd6bf6c.jpg",
+        "https://telegra.ph/file/c8416d0945d49fd3c824b.jpg",
+        "https://telegra.ph/file/d89229ba910ca1bca4d0f.jpg",
+        "https://telegra.ph/file/c9b5a2559b15b97b317e7.jpg",
+        "https://telegra.ph/file/fa87298d2067075370eee.jpg",
+        "https://telegra.ph/file/9154c518ad3a9e5963c56.jpg",
+        "https://telegra.ph/file/d7d274deeed34181bb6f5.jpg",
+        "https://telegra.ph/file/cc5903803a22456655912.jpg",
+        "https://telegra.ph/file/32f490ec475bdd335de8e.jpg",
+        "https://telegra.ph/file/03fd5727514fe03921e7a.jpg",
+        "https://telegra.ph/file/0a8d813d80357b9dd3a45.jpg",
+        "https://telegra.ph/file/87244ef5a30c83fc4aa13.jpg",
+        "https://telegra.ph/file/1bfb93dd1276a64d789dd.jpg",
+        "https://telegra.ph/file/afe1efb6cb8d1ff39ed60.jpg",
+        "https://telegra.ph/file/81d3617326bceeb1bc387.jpg",
+        "https://telegra.ph/file/139cf37728c85d792c8a4.jpg",
+        "https://telegra.ph/file/fe679bd45784c2e6fce45.jpg",
+        "https://telegra.ph/file/9123b7cc157d577d24a3e.jpg",
+        "https://telegra.ph/file/91811215ada36ceb3a7e9.jpg",
+        "https://telegra.ph/file/7114953975308f844948d.jpg",
+        "https://telegra.ph/file/f5dda40047931e02305a3.jpg",
+        "https://telegra.ph/file/89d72a020595fdd058b85.jpg",
+        "https://telegra.ph/file/8caad56ff6fdfcad3c6ba.jpg",
+        "https://telegra.ph/file/e5e475f40c9e185738e70.jpg",
+        "https://telegra.ph/file/72d0d2f82b6d7f6a01e27.jpg",
+        "https://telegra.ph/file/2778a3083f737cd645176.jpg",
+        "https://telegra.ph/file/855b9063fe85153760f25.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

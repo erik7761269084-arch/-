@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12452,
+    "title": "[しょうさん坊主] 義父のシュミ (牧田清香はHがしたい。)",
+    "sourceUrl": "https://telegra.ph/しょうさん坊主-義父のシュミ-牧田清香はHがしたい-08-31",
+    "images": [
+        "https://telegra.ph/file/eed67c34e4a6a39d75d6d.jpg",
+        "https://telegra.ph/file/2ca539e8e35dfe07b3acd.jpg",
+        "https://telegra.ph/file/6a7f9bb89e05507ef2e6e.jpg",
+        "https://telegra.ph/file/4dcbd5c1e13de4aad5438.jpg",
+        "https://telegra.ph/file/e3516ccf9e9df2467423c.jpg",
+        "https://telegra.ph/file/8320c9c41f42be728ee6d.jpg",
+        "https://telegra.ph/file/9aecd5127526e7aa1ea3b.jpg",
+        "https://telegra.ph/file/5d69c9bc6f206bc4e1374.jpg",
+        "https://telegra.ph/file/9ee2a5d22338a8a635960.jpg",
+        "https://telegra.ph/file/b2a4e72eda3384c2d201f.jpg",
+        "https://telegra.ph/file/d136b5fe38cd2c59d83cd.jpg",
+        "https://telegra.ph/file/afe53f85a1a5848f63369.jpg",
+        "https://telegra.ph/file/a7bbcfd8829aa7d826646.jpg",
+        "https://telegra.ph/file/90990a6297f2f6594fc6a.jpg",
+        "https://telegra.ph/file/4e3a024d909f8980f30c6.jpg",
+        "https://telegra.ph/file/95f1cd27cf00c9beb1d96.jpg",
+        "https://telegra.ph/file/9e4fee9f69cd0c88bf027.jpg",
+        "https://telegra.ph/file/639f78175b5e0d3f5d533.jpg",
+        "https://telegra.ph/file/8fb71f6ebc41a58bbbcc8.jpg",
+        "https://telegra.ph/file/13f2363e2e9c4cf93ac67.jpg",
+        "https://telegra.ph/file/92fcff6466d86a7f66962.jpg",
+        "https://telegra.ph/file/03e8be6aef669a4dc8047.jpg",
+        "https://telegra.ph/file/bfaa99c63a8ce9ef7540e.jpg",
+        "https://telegra.ph/file/ea72c4072aa2947e58d67.jpg",
+        "https://telegra.ph/file/063b11875e965b0d12ba3.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/1db4573ceea3c7fad68a9.jpg",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

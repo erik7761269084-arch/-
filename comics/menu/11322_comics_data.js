@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11322,
+    "title": "[すたーきー] 返り咲く淫魔王 2話 (くっ殺ヒロインズ Vol.7)",
+    "sourceUrl": "https://telegra.ph/すたーきー-返り咲く淫魔王-2話-くっ殺ヒロインズ-Vol7-08-31",
+    "images": [
+        "https://telegra.ph/file/8c0da3eeb35fd09fbbd4f.jpg",
+        "https://telegra.ph/file/bb10879380f51e65dd748.jpg",
+        "https://telegra.ph/file/9fed8ef3b08069ff11a01.jpg",
+        "https://telegra.ph/file/2c56c19edb855f5a8a57e.jpg",
+        "https://telegra.ph/file/73a4e429ef6724801f4cf.jpg",
+        "https://telegra.ph/file/7c9a04e14b7fe900c968c.jpg",
+        "https://telegra.ph/file/345f800e9f892ec68a8c7.jpg",
+        "https://telegra.ph/file/d3f989990a9eabe0c1558.jpg",
+        "https://telegra.ph/file/2db224d68311d1570eef7.jpg",
+        "https://telegra.ph/file/9355a9d1f11ac05c9382a.jpg",
+        "https://telegra.ph/file/87eccf0bb584fdf461f9f.jpg",
+        "https://telegra.ph/file/6a867049b4646f73eae3c.jpg",
+        "https://telegra.ph/file/a41adbcde1de3db1d00b3.jpg",
+        "https://telegra.ph/file/797fff7f4dc9ce024663e.jpg",
+        "https://telegra.ph/file/5703cc443c43b86de8ff0.jpg",
+        "https://telegra.ph/file/31c79a279b55731c92620.jpg",
+        "https://telegra.ph/file/9739785526cd42e7bbf49.jpg",
+        "https://telegra.ph/file/8c6b70d94731d01e9b563.jpg",
+        "https://telegra.ph/file/cad9c91b10dddab00acb3.jpg",
+        "https://telegra.ph/file/56d12082de70a4900f2ee.jpg",
+        "https://telegra.ph/file/d58133245459254c3ef23.jpg",
+        "https://telegra.ph/file/c064674141a91cbdf2bf3.jpg",
+        "https://telegra.ph/file/8ac330421c68edcda1f5f.jpg",
+        "https://telegra.ph/file/4df6684e4bedbf58f6881.jpg",
+        "https://telegra.ph/file/2891f0c2e41f56a9b6523.jpg",
+        "https://telegra.ph/file/c6adc863fb3c0d9499c77.jpg",
+        "https://telegra.ph/file/4daa682f0e765b06a3517.jpg",
+        "https://telegra.ph/file/25441cebc3f22e4d164d1.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/299617a1da21ec4c49b83.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

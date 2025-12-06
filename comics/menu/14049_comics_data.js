@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 14049,
+    "title": "[ドラムス] ヨミのくに (コミックゼロス #84)",
+    "sourceUrl": "https://telegra.ph/ドラムス-ヨミのくに-コミックゼロス-84-08-31",
+    "images": [
+        "https://telegra.ph/file/9973f62aade78bcd12613.jpg",
+        "https://telegra.ph/file/085e42c9863ead4cfce91.jpg",
+        "https://telegra.ph/file/856939fc8a2cbbcef0a9e.jpg",
+        "https://telegra.ph/file/3123defd961602437011a.jpg",
+        "https://telegra.ph/file/8a212fec8213fcf058e3d.jpg",
+        "https://telegra.ph/file/99cd5a079e3770fa99c7e.jpg",
+        "https://telegra.ph/file/a3250258e4c083dbb0bd2.jpg",
+        "https://telegra.ph/file/b19c7cbb76cd9c02c02df.jpg",
+        "https://telegra.ph/file/86107d1e5868d9bbf1858.jpg",
+        "https://telegra.ph/file/bc948d056295d151ee8d8.jpg",
+        "https://telegra.ph/file/5a2d676292403fb00ae52.jpg",
+        "https://telegra.ph/file/185ef265658c43e18d8c4.jpg",
+        "https://telegra.ph/file/340bf672a96cab7b74f27.jpg",
+        "https://telegra.ph/file/aebff8df9385a30b0194e.jpg",
+        "https://telegra.ph/file/6bfde263eddba857db762.jpg",
+        "https://telegra.ph/file/f4d19c6300ec87998aab0.jpg",
+        "https://telegra.ph/file/be6723cdddbb19fdb02c9.jpg",
+        "https://telegra.ph/file/c77b086b02f1cb2c48757.jpg",
+        "https://telegra.ph/file/fc460f2c2fbdc657cc835.jpg",
+        "https://telegra.ph/file/7855191f7bc980ef775dd.jpg",
+        "https://telegra.ph/file/6042739d3059c883e86a8.jpg",
+        "https://telegra.ph/file/d0650f6cf485068e78159.jpg",
+        "https://telegra.ph/file/5984ece571ae51bba3b46.jpg",
+        "https://telegra.ph/file/54c0d918f2721d525354b.jpg",
+        "https://telegra.ph/file/d989083f31619ca910a5d.jpg",
+        "https://telegra.ph/file/7b3ebd551f10cdfe87282.png",
+        "https://telegra.ph/file/99c9c8652c125fede918f.jpg",
+        "https://telegra.ph/file/8d415893eacd2ece1b080.jpg",
+        "https://telegra.ph/file/40c402160856d697de6f3.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

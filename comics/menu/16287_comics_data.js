@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 16287,
+    "title": "(C104) [めきめき亭 (めきめき)] 噛み癖のついた千束を躾けるたきなの話 (リコリス・リコイル) -Preview",
+    "sourceUrl": "https://telegra.ph/C104-めきめき亭-めきめき-噛み癖のついた千束を躾けるたきなの話-リコリスリコイル--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/001.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/002.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/003.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/004.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/005.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/006.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/007.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/008.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/009.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/010.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/011.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/012.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/013.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/014.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/015.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/016.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/017.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/018.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/019.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/020.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/021.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/022.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/023.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/024.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/025.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/026.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/027.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/028.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/029.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/030.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/x.jpg",
+        "https://i2.linghua.xyz/ex/3075453/f46858d611/y.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

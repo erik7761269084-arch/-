@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9879,
+    "title": "[グラナダの空 (十はやみ)] あくまのもくろみ",
+    "sourceUrl": "https://telegra.ph/グラナダの空-十はやみ-あくまのもくろみ-08-31",
+    "images": [
+        "https://telegra.ph/file/55bb2ffe4368304768d84.jpg",
+        "https://telegra.ph/file/759c43cca574e3538f493.jpg",
+        "https://telegra.ph/file/b8541364a62a1dfcf268d.jpg",
+        "https://telegra.ph/file/43a3d5c37bb6add2c49cf.jpg",
+        "https://telegra.ph/file/a484ccfef8d4014bc5ef9.jpg",
+        "https://telegra.ph/file/128fcc943e7095c7f00b1.jpg",
+        "https://telegra.ph/file/676579a0585a5cee3312f.jpg",
+        "https://telegra.ph/file/0999ddae47bf82568c531.jpg",
+        "https://telegra.ph/file/a1a3d2f5d0f13ba651cd3.jpg",
+        "https://telegra.ph/file/5cbc0f59cd78ea0836fe2.jpg",
+        "https://telegra.ph/file/9a6bf5ffec9dbdea469aa.jpg",
+        "https://telegra.ph/file/e77c088cd141d04670703.jpg",
+        "https://telegra.ph/file/e849b20e3f53fdafd04e5.jpg",
+        "https://telegra.ph/file/c87efbc92aa36477113cc.jpg",
+        "https://telegra.ph/file/654c512e4dc1cec1b05e7.jpg",
+        "https://telegra.ph/file/414fa2eb801f3c0468f9f.jpg",
+        "https://telegra.ph/file/0fa4ea5c14d0d958b5591.jpg",
+        "https://telegra.ph/file/323290ac8decab00419c4.jpg",
+        "https://telegra.ph/file/8c65700fa906e57abadc0.jpg",
+        "https://telegra.ph/file/fa0c6c37190c3a761500d.jpg",
+        "https://telegra.ph/file/d8ab6575a87416fcfe839.jpg",
+        "https://telegra.ph/file/0f8c356d4f4a2780375e9.jpg",
+        "https://telegra.ph/file/6a5e82b4755af93d31a47.jpg",
+        "https://telegra.ph/file/735907e11b9aee1e938ed.jpg",
+        "https://telegra.ph/file/58b8431bfe5e9c966c413.jpg",
+        "https://telegra.ph/file/ce9d95d2c5d0145c26dc8.jpg",
+        "https://telegra.ph/file/0ffd297e0863c8849a982.jpg",
+        "https://telegra.ph/file/987719c73aa0285e12b69.jpg",
+        "https://telegra.ph/file/95057dc564bcfac7a7406.jpg",
+        "https://telegra.ph/file/4ee18ffb7252d5c425a29.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

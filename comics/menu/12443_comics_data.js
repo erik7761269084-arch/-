@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12443,
+    "title": "[常磐緑] パン屋の足立さん (コミック エグゼ 29)",
+    "sourceUrl": "https://telegra.ph/常磐緑-パン屋の足立さん-コミック-エグゼ-29-08-31-2",
+    "images": [
+        "https://telegra.ph/file/e4857eed85848e25042b2.jpg",
+        "https://telegra.ph/file/2e92c071d9de11a51b0ee.jpg",
+        "https://telegra.ph/file/b35524f04d528465ac710.jpg",
+        "https://telegra.ph/file/6ea5c5c882089cb8c9143.jpg",
+        "https://telegra.ph/file/6c92ac155e13f54cddef5.jpg",
+        "https://telegra.ph/file/ec3d5d9749850117fbbe7.jpg",
+        "https://telegra.ph/file/83b773a6fa0bbac22e5ce.jpg",
+        "https://telegra.ph/file/5c5ce97e2ac7c4e9cbf22.jpg",
+        "https://telegra.ph/file/28f08940ba966e1af15f2.jpg",
+        "https://telegra.ph/file/212b0294af961fb002ffd.jpg",
+        "https://telegra.ph/file/bdfd8dfd0b105f6d6ccb1.jpg",
+        "https://telegra.ph/file/4d023a48bb59916a48718.jpg",
+        "https://telegra.ph/file/633daaf40f5c6e9cbe3a3.jpg",
+        "https://telegra.ph/file/7fd1a5ae2ee00c48aba47.jpg",
+        "https://telegra.ph/file/f1013f43ce494eabe0223.jpg",
+        "https://telegra.ph/file/35be5d1a01ca420c9df44.jpg",
+        "https://telegra.ph/file/3a784b5798e91898b61cf.jpg",
+        "https://telegra.ph/file/884aff9f1a53b0e903a74.jpg",
+        "https://telegra.ph/file/99b5c52ceb833090749cd.jpg",
+        "https://telegra.ph/file/31348f4e4790b127d66b9.jpg",
+        "https://telegra.ph/file/871e7f95629e22ad31b7f.jpg",
+        "https://telegra.ph/file/e8ccf890895a3ae57189b.jpg",
+        "https://telegra.ph/file/f0230e26206f2fac078e1.jpg",
+        "https://telegra.ph/file/7f5fd160df71c79f0d38d.jpg",
+        "https://telegra.ph/file/a8c5ffc4876a4f6b1694d.jpg",
+        "https://telegra.ph/file/170f5062c5790c6e4cb2f.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

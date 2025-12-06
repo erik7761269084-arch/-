@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15098,
+    "title": "(C79) [freelife (Hamao)] Day dream Believer. (けいおん!)",
+    "sourceUrl": "https://telegra.ph/C79-freelife-Hamao-Day-dream-Believer-けいおん-08-31",
+    "images": [
+        "https://telegra.ph/file/d1fa67d4694cba357c7ce.jpg",
+        "https://telegra.ph/file/00258f573ae265a1ab4e3.jpg",
+        "https://telegra.ph/file/0143a6ca5bb028effc0c5.jpg",
+        "https://telegra.ph/file/9225e390b4e4d0b4998b9.jpg",
+        "https://telegra.ph/file/f155cd0d790ecafa62ac8.jpg",
+        "https://telegra.ph/file/429d7e88921b6c663653f.jpg",
+        "https://telegra.ph/file/9717bc764966ec0d19926.jpg",
+        "https://telegra.ph/file/1fccb34f109b5c50d60b8.jpg",
+        "https://telegra.ph/file/3fda28463ae6cece3d80a.jpg",
+        "https://telegra.ph/file/6ad898d3ff80f66cc4053.jpg",
+        "https://telegra.ph/file/5cdfba1486723012d9cae.jpg",
+        "https://telegra.ph/file/5d9ff0203efecae2b5df9.jpg",
+        "https://telegra.ph/file/7e45942de9e5d4cdb9e75.jpg",
+        "https://telegra.ph/file/51eb423694aab4cb4079d.jpg",
+        "https://telegra.ph/file/46c612b639006c53d8de0.jpg",
+        "https://telegra.ph/file/2bb63cf3c9cac118301f4.jpg",
+        "https://telegra.ph/file/6a8643e3ee1b88f3434b4.jpg",
+        "https://telegra.ph/file/cff0570c6c20420fa0fea.jpg",
+        "https://telegra.ph/file/93c98cbf2f017c2c5f1f3.jpg",
+        "https://telegra.ph/file/3ea20fd1c1dc99feee454.jpg",
+        "https://telegra.ph/file/eedd6d8aa907c3aaf25a1.jpg",
+        "https://telegra.ph/file/53f3d5e4fb04ba48220ac.jpg",
+        "https://telegra.ph/file/f0b8f0f6670feab1fe718.jpg",
+        "https://telegra.ph/file/89142595c7dc6b8e1b1b5.jpg",
+        "https://telegra.ph/file/407ad0c31e93cdeec2268.jpg",
+        "https://telegra.ph/file/2f9ea9f89c024959f716b.jpg",
+        "https://telegra.ph/file/096f48e74fa69f74a4f4f.jpg",
+        "https://telegra.ph/file/267776d241aa3eba2b107.jpg",
+        "https://telegra.ph/file/f2b7564bb5b4888148017.jpg",
+        "https://telegra.ph/file/28ec9f5b253eaeca28d69.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

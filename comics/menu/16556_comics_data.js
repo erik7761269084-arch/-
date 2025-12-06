@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16556,
+    "title": "(C100) [南極ひまわり (青椿トト)] これまで と これから (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/C100-南極ひまわり-青椿トト-これまで-と-これから-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/01.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/02.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/03.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/04.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/05.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/06.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/07.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/08.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/09.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/10.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/11.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/12.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/13.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/14.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/15.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/16.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/17.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/18.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/19.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/20.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/21.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/22.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/23.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/24.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/25.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/26.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/27.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/28.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/29.webp",
+        "https://i2.linghua.xyz/ex/2357676/dfe01f9f1e/30.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

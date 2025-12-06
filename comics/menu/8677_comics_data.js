@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8677,
+    "title": "[交介] サキュバス女子校で搾精実習 ~教材は… 俺!?~ (COMIC アンスリウム 2020年11月号)",
+    "sourceUrl": "https://telegra.ph/交介-サキュバス女子校で搾精実習-教材は-俺-COMIC-アンスリウム-2020年11月号-08-31",
+    "images": [
+        "https://telegra.ph/file/54d2b39b329822c33b6c1.jpg",
+        "https://telegra.ph/file/1aeff91dc16f30245fc83.jpg",
+        "https://telegra.ph/file/8f4f541c77f04ebc70444.jpg",
+        "https://telegra.ph/file/8a9accc94ea34604c36c3.jpg",
+        "https://telegra.ph/file/e55497bca5caaa74c4ace.jpg",
+        "https://telegra.ph/file/b3cfb2333847022c82e19.jpg",
+        "https://telegra.ph/file/f3d6069aa88e2c65cd23f.jpg",
+        "https://telegra.ph/file/db845f9aa95c45e7e0b08.jpg",
+        "https://telegra.ph/file/88a2e0ed0f312915d9e8e.jpg",
+        "https://telegra.ph/file/fad62e9266864b8d69598.jpg",
+        "https://telegra.ph/file/efa5034af56a9c9eca62e.jpg",
+        "https://telegra.ph/file/bed471fab5ef189bef528.jpg",
+        "https://telegra.ph/file/5c99310e16d6d32048981.jpg",
+        "https://telegra.ph/file/7e2f58b84f508d944e9e3.jpg",
+        "https://telegra.ph/file/a043558c46111073e7f15.jpg",
+        "https://telegra.ph/file/0749b199ccd7accb76c22.jpg",
+        "https://telegra.ph/file/ce27b2ff602a41525dcea.jpg",
+        "https://telegra.ph/file/b0fae6e34a8a4b428cfba.jpg",
+        "https://telegra.ph/file/faa8bb41fcdbe6f22dfdf.jpg",
+        "https://telegra.ph/file/d5180ddbea47a71e41ca4.jpg",
+        "https://telegra.ph/file/786f2035e928110fbdc8e.jpg",
+        "https://telegra.ph/file/8232a53dac96e1ba84eb6.jpg",
+        "https://telegra.ph/file/52305b0da210ba15ab199.jpg",
+        "https://telegra.ph/file/4372bc3da6621b8f5bc5f.jpg",
+        "https://telegra.ph/file/233f6d733b7c25f1c4112.jpg",
+        "https://telegra.ph/file/4c35501604cd663977f53.jpg",
+        "https://telegra.ph/file/a096b52e007e12b67014e.jpg",
+        "https://telegra.ph/file/8e96a03a71d0b37f85681.jpg",
+        "https://telegra.ph/file/81ecfb63c79379a72df37.jpg",
+        "https://telegra.ph/file/c0716036a477e55f7a5a4.jpg",
+        "https://telegra.ph/file/2e209de61682787b05d9a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

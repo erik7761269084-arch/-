@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11071,
+    "title": "[スタジオひとりぼっち (綾城大福)] 11×11 (童田明治)",
+    "sourceUrl": "https://telegra.ph/スタジオひとりぼっち-綾城大福-1111-童田明治-08-31",
+    "images": [
+        "https://telegra.ph/file/21de264fe4420a61ae08c.jpg",
+        "https://telegra.ph/file/7f5bca8451f20ca530172.jpg",
+        "https://telegra.ph/file/fbe4174e5d256aa984c31.jpg",
+        "https://telegra.ph/file/c9fe92f0cda4421fbf6b8.jpg",
+        "https://telegra.ph/file/bd5d1314aaf84bd23512f.jpg",
+        "https://telegra.ph/file/a1f82ff366f399dee6bb2.jpg",
+        "https://telegra.ph/file/376d3da6c06d08cb532c5.jpg",
+        "https://telegra.ph/file/0eef9042534dd57484741.jpg",
+        "https://telegra.ph/file/565fc8eca6aed997af2d2.jpg",
+        "https://telegra.ph/file/147ee42bb7340dc6b72e7.jpg",
+        "https://telegra.ph/file/61c2f6ad4778ba477a64b.jpg",
+        "https://telegra.ph/file/97b26f2d699ed4c4d4557.jpg",
+        "https://telegra.ph/file/e83bd94eb794637f0be47.jpg",
+        "https://telegra.ph/file/c1b3f761fd597e9a2837e.jpg",
+        "https://telegra.ph/file/7afc8bf1039baa48fd379.jpg",
+        "https://telegra.ph/file/0cf74260fa65bba909769.jpg",
+        "https://telegra.ph/file/801d8760a3a4e3f3d1de7.jpg",
+        "https://telegra.ph/file/be4a3449b9ffa9dfecebb.jpg",
+        "https://telegra.ph/file/6b99830f9cf841ecdb07d.jpg",
+        "https://telegra.ph/file/b3c547319a493239cced3.jpg",
+        "https://telegra.ph/file/c1449f254d2a14afb21f2.jpg",
+        "https://telegra.ph/file/ccc2e785b25b60c983f60.jpg",
+        "https://telegra.ph/file/c404bceb207a9099b36b0.jpg",
+        "https://telegra.ph/file/31b75b2e795bf30dd252a.jpg",
+        "https://telegra.ph/file/a665b65fd8b66201e01c1.jpg",
+        "https://telegra.ph/file/24b5865dd0087312e8780.jpg",
+        "https://telegra.ph/file/4e9bee8c4f9fbc5ffe222.jpg",
+        "https://telegra.ph/file/f321b2b6f568227b3921a.jpg",
+        "https://telegra.ph/file/0dd4cdf05624b95b695a4.jpg",
+        "https://telegra.ph/file/c98354fe94b9a867bf858.jpg",
+        "https://telegra.ph/file/e43fdf3687d9c070b06d4.jpg",
+        "https://telegra.ph/file/5601749bc48a950af14d6.jpg",
+        "https://telegra.ph/file/c33ec3e9f33a4495d4979.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

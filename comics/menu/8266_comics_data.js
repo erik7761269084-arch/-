@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 8266,
+    "title": "[Seven Deadly Sins (homu)] 好きでこんな事してるわけないじゃん!? (アイドルマスター シャイニーカラーズ)",
+    "sourceUrl": "https://telegra.ph/Seven-Deadly-Sins-homu-好きでこんな事してるわけないじゃん-アイドルマスター-シャイニーカラーズ-08-31",
+    "images": [
+        "https://telegra.ph/file/3b77e04d343c7ac7e36e1.jpg",
+        "https://telegra.ph/file/1b266b028c69e8c1cac96.jpg",
+        "https://telegra.ph/file/cc573fdc64a589e4b6358.jpg",
+        "https://telegra.ph/file/d66962c418a8766de0e15.jpg",
+        "https://telegra.ph/file/5549e8389701945b78d3e.jpg",
+        "https://telegra.ph/file/e5771edbc8d0c7f43932a.jpg",
+        "https://telegra.ph/file/0dcd4a94e862015c86ec9.jpg",
+        "https://telegra.ph/file/ff5e7bb3a92f93e166d07.jpg",
+        "https://telegra.ph/file/2c4e46f0e3f007da72f44.jpg",
+        "https://telegra.ph/file/8ea136f9178258e150146.jpg",
+        "https://telegra.ph/file/d3f9a79ae2dd4c77c89e0.jpg",
+        "https://telegra.ph/file/21f6057f31285a4d55e80.jpg",
+        "https://telegra.ph/file/e2a3dfe7b0f34aa530c04.jpg",
+        "https://telegra.ph/file/56a79b2515d4aae3e1bb3.jpg",
+        "https://telegra.ph/file/b8f3c9111be1ebaa4ddd0.jpg",
+        "https://telegra.ph/file/7bc008a135076dea20182.jpg",
+        "https://telegra.ph/file/42ea4462035035fc5b9ea.jpg",
+        "https://telegra.ph/file/f1c508de1d0cf9c9334b9.jpg",
+        "https://telegra.ph/file/4e22b624d632e0ffc8351.jpg",
+        "https://telegra.ph/file/9d13d3358ed325719a2a0.jpg",
+        "https://telegra.ph/file/0e52f356d90aa36badbfb.jpg",
+        "https://telegra.ph/file/a033f8d9cae501d417835.jpg",
+        "https://telegra.ph/file/a8e7a348d835133495737.jpg",
+        "https://telegra.ph/file/7c90315d8ad7517e2bcc1.jpg",
+        "https://telegra.ph/file/690c6c4611fc9dd24a41e.jpg",
+        "https://telegra.ph/file/06da664c6fab268026b32.jpg",
+        "https://telegra.ph/file/e38be91845ea5d6c84e6c.jpg",
+        "https://telegra.ph/file/b8600ba0ee8de47ed0f17.jpg",
+        "https://telegra.ph/file/e57bc3b7607de30d03810.jpg",
+        "https://telegra.ph/file/36df1881cfd57a9048e19.jpg",
+        "https://telegra.ph/file/bc7836edb4563c6ec0757.jpg",
+        "https://telegra.ph/file/493a04494f33e89bfe674.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 9160,
+    "title": "[年上おねーさん天国 (トマト（仮)] VRゲーム悪用SEXミッション!",
+    "sourceUrl": "https://telegra.ph/年上おねーさん天国-トマト仮-VRゲーム悪用SEXミッション-08-31",
+    "images": [
+        "https://telegra.ph/file/4f04147067258dc93e46a.jpg",
+        "https://telegra.ph/file/fbe69e7f12f89431decf7.jpg",
+        "https://telegra.ph/file/187440361072f02df81ed.jpg",
+        "https://telegra.ph/file/9b336155259f71902728c.jpg",
+        "https://telegra.ph/file/6d6fb58bbfce0daf90181.jpg",
+        "https://telegra.ph/file/8f5e00ed06f21c4ba9aca.jpg",
+        "https://telegra.ph/file/5fa4359db6c8995c24f1a.jpg",
+        "https://telegra.ph/file/0d5d6a54420389c124fb3.jpg",
+        "https://telegra.ph/file/9715021e2881498b0237e.jpg",
+        "https://telegra.ph/file/3989a5fe3b01a9bc3438c.jpg",
+        "https://telegra.ph/file/7caa2c23b317380421768.jpg",
+        "https://telegra.ph/file/9b350b6718d12dba66625.jpg",
+        "https://telegra.ph/file/5459b79fd0626f03f11fa.jpg",
+        "https://telegra.ph/file/80909f54c89f9ade38414.jpg",
+        "https://telegra.ph/file/5ce61aec5726448dfc789.jpg",
+        "https://telegra.ph/file/2c7452f0cf982bdc94f50.jpg",
+        "https://telegra.ph/file/006019968b13c2dcfcc09.jpg",
+        "https://telegra.ph/file/6e31b705dc7624e39ab38.jpg",
+        "https://telegra.ph/file/57a0a0b56d12ef7da88a1.jpg",
+        "https://telegra.ph/file/52c1b8fe24460499fe847.jpg",
+        "https://telegra.ph/file/9fc8e1a2fff4a5cef92e0.jpg",
+        "https://telegra.ph/file/70f1b8564f70844a70fd9.jpg",
+        "https://telegra.ph/file/5c62f6fe21889325eaad3.jpg",
+        "https://telegra.ph/file/7195ab4a21ea107c5d0a1.jpg",
+        "https://telegra.ph/file/9679f0f9d9121a126c7f7.jpg",
+        "https://telegra.ph/file/923e02567ce1f1db5683b.jpg",
+        "https://telegra.ph/file/e3c1cc4a9bcb591af3060.jpg",
+        "https://telegra.ph/file/72a7f8a3a7464297d1b88.jpg",
+        "https://telegra.ph/file/093ad9b067904433ed752.jpg",
+        "https://telegra.ph/file/037fd5cecb987fa73d86d.jpg",
+        "https://telegra.ph/file/b194dc5e48759e9f3c945.jpg",
+        "https://telegra.ph/file/3a9189522bd1fbea0d648.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 13469,
+    "title": "[だめなひ堂 (だめなひと)] 古書館ノ香リ (ブルーアーカイブ)",
+    "sourceUrl": "https://telegra.ph/だめなひ堂-だめなひと-古書館ノ香リ-ブルーアーカイブ-08-31",
+    "images": [
+        "https://telegra.ph/file/0f81656d6e4b9ee00b145.jpg",
+        "https://telegra.ph/file/f10470586a991b3b1e249.jpg",
+        "https://telegra.ph/file/8dbcc22f728258b3c5341.jpg",
+        "https://telegra.ph/file/e032266ea146b04caba00.jpg",
+        "https://telegra.ph/file/31865e5652bec37f43ec1.jpg",
+        "https://telegra.ph/file/71f813a2d0cd1b61920ae.jpg",
+        "https://telegra.ph/file/7a05955dcf0dc3a2f2151.jpg",
+        "https://telegra.ph/file/2f0ca3560b37340bdc729.jpg",
+        "https://telegra.ph/file/8091bbdd1b35dd68f66f1.jpg",
+        "https://telegra.ph/file/66056189a4201e8a0ad36.jpg",
+        "https://telegra.ph/file/f169d861eb68fe686f18e.jpg",
+        "https://telegra.ph/file/1825c6d2479a24d75b441.jpg",
+        "https://telegra.ph/file/233a846646da083dfa357.jpg",
+        "https://telegra.ph/file/d2b4f22b06b2429762693.jpg",
+        "https://telegra.ph/file/436134b536e4456443677.jpg",
+        "https://telegra.ph/file/4558f431a6e16f6e13b92.jpg",
+        "https://telegra.ph/file/eb31fd70998e3d3d0ea49.jpg",
+        "https://telegra.ph/file/67440fcf58b6166cc742b.jpg",
+        "https://telegra.ph/file/61cada35ec6ea06466146.jpg",
+        "https://telegra.ph/file/0dc3eaf62f453e396ebdc.jpg",
+        "https://telegra.ph/file/c99685e6f23114eb55e5c.jpg",
+        "https://telegra.ph/file/dc1ba2e2fd46a49667bb2.jpg",
+        "https://telegra.ph/file/205dd69fdbb99e60d5e57.jpg",
+        "https://telegra.ph/file/973432ae989a7d7c0e416.jpg",
+        "https://telegra.ph/file/3bd92a8920c33f561cf19.jpg",
+        "https://telegra.ph/file/4a049c6e62ef49eedc7ee.jpg",
+        "https://telegra.ph/file/706593a119943153bbc6a.jpg",
+        "https://telegra.ph/file/d470dfa73eaf28661d9ef.jpg",
+        "https://telegra.ph/file/45a5db40c094efe1cc644.jpg",
+        "https://telegra.ph/file/49ee497d5e55d63a6fa51.jpg",
+        "https://telegra.ph/file/a4926d7173f2af347640a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 12245,
+    "title": "[hal] 襲学旅行 ～終わりの始まり～(COMIC 真激 2021年4月号)",
+    "sourceUrl": "https://telegra.ph/hal-襲学旅行-終わりの始まりCOMIC-真激-2021年4月号-08-31",
+    "images": [
+        "https://telegra.ph/file/957d11e54d5b609a4fb3a.jpg",
+        "https://telegra.ph/file/80f0ea55b0790c96ebbae.jpg",
+        "https://telegra.ph/file/08c27279eb2e003daabdd.jpg",
+        "https://telegra.ph/file/37378057cbb103fbb4e14.jpg",
+        "https://telegra.ph/file/06b135e91efbe6e347ef7.jpg",
+        "https://telegra.ph/file/defe25a7d2bc07663f012.jpg",
+        "https://telegra.ph/file/cbcaf8063fdcd631f453e.jpg",
+        "https://telegra.ph/file/0d83e608c8de39dadd40f.jpg",
+        "https://telegra.ph/file/77701f2318ba90d7d70aa.jpg",
+        "https://telegra.ph/file/884cd0cb831236f8f9873.jpg",
+        "https://telegra.ph/file/c674343980ed3056e1cc1.jpg",
+        "https://telegra.ph/file/c1fb361c2747f0d28ed6f.jpg",
+        "https://telegra.ph/file/9b6460900b3931a0dfdb9.jpg",
+        "https://telegra.ph/file/b49fc6f7bdca299ccfbfb.jpg",
+        "https://telegra.ph/file/08df336fccbeb574d38a2.jpg",
+        "https://telegra.ph/file/af5b2011c9bcafbad75e2.jpg",
+        "https://telegra.ph/file/1a05ad97cda805da0d68d.jpg",
+        "https://telegra.ph/file/41019892702243c82a30b.jpg",
+        "https://telegra.ph/file/bbbbb5913917e1630de02.jpg",
+        "https://telegra.ph/file/cdb06045907987eae44d1.jpg",
+        "https://telegra.ph/file/6d668733ce2fe3837f7a2.jpg",
+        "https://telegra.ph/file/2094bfcc547ac972ad5ae.jpg",
+        "https://telegra.ph/file/37358dee97c0f36bd7be6.jpg",
+        "https://telegra.ph/file/9ed7cefb10d8dfe62befd.jpg",
+        "https://telegra.ph/file/25cdaba721e4f137651a1.jpg",
+        "https://telegra.ph/file/31b572bbfe3f41444bc92.jpg",
+        "https://telegra.ph/file/f5414435e96bc421dafc4.jpg",
+        "https://telegra.ph/file/8eee6b87921932115c409.jpg",
+        "https://telegra.ph/file/8fa1d2297b8d814b89cd0.jpg",
+        "https://telegra.ph/file/48ed1e43c150b1b87ab93.jpg",
+        "https://telegra.ph/file/0a21839d0ae45a39674d7.jpg",
+        "https://telegra.ph/file/5144c9ce87474d81c0236.jpg",
+        "https://telegra.ph/file/be8ce73381a1b3af6ecf3.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

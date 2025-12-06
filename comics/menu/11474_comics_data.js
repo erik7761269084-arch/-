@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 11474,
+    "title": "[ひよりハムスター] アクマバライ",
+    "sourceUrl": "https://telegra.ph/ひよりハムスター-アクマバライ-08-31",
+    "images": [
+        "https://telegra.ph/file/6804199e0060f2e8547c0.jpg",
+        "https://telegra.ph/file/417ddc111df84fa49b12d.jpg",
+        "https://telegra.ph/file/5688b99ef8d1f3c3804db.jpg",
+        "https://telegra.ph/file/8fb9b3e09fa8bf7b05336.jpg",
+        "https://telegra.ph/file/2695f25d8f7ad50f39921.jpg",
+        "https://telegra.ph/file/b8e863423f93f40b60c25.jpg",
+        "https://telegra.ph/file/e25ca2cbf2de4f2f82dfb.jpg",
+        "https://telegra.ph/file/14c7bcc1a6daa79e17f0b.jpg",
+        "https://telegra.ph/file/2c1cab7f42287dc4fa365.jpg",
+        "https://telegra.ph/file/feb56de6b258b389844d0.jpg",
+        "https://telegra.ph/file/8086f99904a1a9cfdd9ba.jpg",
+        "https://telegra.ph/file/d365a486049a2c0009a78.jpg",
+        "https://telegra.ph/file/16005e00a75793bc051e2.jpg",
+        "https://telegra.ph/file/8940e54236e34b46707c9.jpg",
+        "https://telegra.ph/file/4a7a50522022fde57d44a.jpg",
+        "https://telegra.ph/file/aad2b7c61111de892c934.jpg",
+        "https://telegra.ph/file/b1f618cfd1dce735c3172.jpg",
+        "https://telegra.ph/file/d1ed35cccadf321f54fd7.jpg",
+        "https://telegra.ph/file/fb28dc84b0241c743138e.jpg",
+        "https://telegra.ph/file/915aeca07e174458e5f72.jpg",
+        "https://telegra.ph/file/cbae2d88165bc6b68d430.jpg",
+        "https://telegra.ph/file/949fa4979c0cf5c7c0460.jpg",
+        "https://telegra.ph/file/4106e316468b372bbd361.jpg",
+        "https://telegra.ph/file/098623e4dd53747d8bc41.jpg",
+        "https://telegra.ph/file/34550d570d8b97005dc95.jpg",
+        "https://telegra.ph/file/fc4ae79ae9891fd4bcbe1.jpg",
+        "https://telegra.ph/file/70764f7673d4a9dc88998.jpg",
+        "https://telegra.ph/file/29c45c5084485d052432f.jpg",
+        "https://telegra.ph/file/e8f4c308a330674d45a37.jpg",
+        "https://telegra.ph/file/86ef6221fc0bf5563fd0e.jpg",
+        "https://telegra.ph/file/72e3606b7c777af310d47.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

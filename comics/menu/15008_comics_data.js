@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15008,
+    "title": "その林檎の味は (アイドルマスターシンデレラガールズ)  (31P)",
+    "sourceUrl": "https://telegra.ph/その林檎の味は-アイドルマスターシンデレラガールズ-31P-08-31",
+    "images": [
+        "https://telegra.ph/file/0c34c87e8a1dbbf9833d2.jpg",
+        "https://telegra.ph/file/c84923e751d78add6a3e0.jpg",
+        "https://telegra.ph/file/6a928cfaf97f4078ebac4.jpg",
+        "https://telegra.ph/file/99e55c07bf03a89859d66.jpg",
+        "https://telegra.ph/file/83d77ef388dda413e915d.jpg",
+        "https://telegra.ph/file/d77243f3c4933d268596f.jpg",
+        "https://telegra.ph/file/5bab039cf78536ce832d3.jpg",
+        "https://telegra.ph/file/b0c45848f47fc0e5f7251.jpg",
+        "https://telegra.ph/file/e1217fee34577c91f7a77.jpg",
+        "https://telegra.ph/file/8c21f7355009cdc9c09d2.jpg",
+        "https://telegra.ph/file/74d9f03cac45b07809458.jpg",
+        "https://telegra.ph/file/eb3ce4ec018b265a60a9d.jpg",
+        "https://telegra.ph/file/5182eb9679b833f64051a.jpg",
+        "https://telegra.ph/file/2d6af857bdf25dd8144e8.jpg",
+        "https://telegra.ph/file/afea73f7ef7df8fa2edce.jpg",
+        "https://telegra.ph/file/51c5866cfcc0865ab9b38.jpg",
+        "https://telegra.ph/file/a099faf78191a1558eff5.jpg",
+        "https://telegra.ph/file/4b42ab8c778e185fd5261.jpg",
+        "https://telegra.ph/file/cb32c4dea85a330391951.jpg",
+        "https://telegra.ph/file/125c0053936af926fb9fc.jpg",
+        "https://telegra.ph/file/a3825e0e7ab2a44a787d6.jpg",
+        "https://telegra.ph/file/58390249daa25a6fed992.jpg",
+        "https://telegra.ph/file/1db331c1207e34a639d50.jpg",
+        "https://telegra.ph/file/3e571ec10e6ff9bf04218.jpg",
+        "https://telegra.ph/file/aeb2a552801b044e4b043.jpg",
+        "https://telegra.ph/file/416c4dbb6d56da0baf64c.jpg",
+        "https://telegra.ph/file/5d81508de7b23677421e8.jpg",
+        "https://telegra.ph/file/c1c035a40a3ae2d9be445.jpg",
+        "https://telegra.ph/file/6f3a0a67d2cc9649de63d.jpg",
+        "https://telegra.ph/file/c301673ac57e86ecd79d1.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

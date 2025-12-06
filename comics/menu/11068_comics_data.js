@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11068,
+    "title": "[復八磨直兎] 催眠天国 Challenge 03 (COMIC BAVEL 2021年2月号)",
+    "sourceUrl": "https://telegra.ph/復八磨直兎-催眠天国-Challenge-03-COMIC-BAVEL-2021年2月号-08-31",
+    "images": [
+        "https://telegra.ph/file/ed8cc469b323f340c1bfe.jpg",
+        "https://telegra.ph/file/aee73c767e97c315af4e0.jpg",
+        "https://telegra.ph/file/6adab2135721a2c37688f.jpg",
+        "https://telegra.ph/file/7b1cbfcd9d3a031fd747f.jpg",
+        "https://telegra.ph/file/e819a14894c75c28d58a6.jpg",
+        "https://telegra.ph/file/f1afa24d6ad1b885ffb75.jpg",
+        "https://telegra.ph/file/58c1aa0b55f231d7bdb5c.jpg",
+        "https://telegra.ph/file/b0aea8cc8b7f197c47ce0.jpg",
+        "https://telegra.ph/file/85a4dbe9918879975490c.jpg",
+        "https://telegra.ph/file/1690d0acfe8c609530878.jpg",
+        "https://telegra.ph/file/18b7573b073a53429798c.jpg",
+        "https://telegra.ph/file/294a4d26f04339be88bf7.jpg",
+        "https://telegra.ph/file/dd833020e7930c1aad4ae.jpg",
+        "https://telegra.ph/file/74c1780a5714fefb99c9a.jpg",
+        "https://telegra.ph/file/0cb316eaaa3edcea10882.jpg",
+        "https://telegra.ph/file/1f66df02112e518161f87.jpg",
+        "https://telegra.ph/file/167d69ecee3d51ea6070f.jpg",
+        "https://telegra.ph/file/cac551e86b192100e5f7e.jpg",
+        "https://telegra.ph/file/4207f067770ec906a9ee0.jpg",
+        "https://telegra.ph/file/7be77ee93712cea2129f9.jpg",
+        "https://telegra.ph/file/51633abb1341e7cc125fc.jpg",
+        "https://telegra.ph/file/6094c3a6efef015577653.jpg",
+        "https://telegra.ph/file/fe8bd16554e46b2929335.jpg",
+        "https://telegra.ph/file/ba3a6939ec73c7386bc49.jpg",
+        "https://telegra.ph/file/9b7034aa40410b9495025.jpg",
+        "https://telegra.ph/file/5c5a7bb12297b7c4b32d5.jpg",
+        "https://telegra.ph/file/8bfd52473d2fbeb522743.jpg",
+        "https://telegra.ph/file/145a0897cbe032689c1f5.jpg",
+        "https://telegra.ph/file/6652163b810ec24d8f515.jpg",
+        "https://telegra.ph/file/5897e73307043f79660ae.jpg",
+        "https://telegra.ph/file/25dc2c2245479e1178349.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

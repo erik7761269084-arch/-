@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 15504,
+    "title": "[長代ルージュ] ふたりあそび 友達♀♀同士の場合 第4話 -Preview",
+    "sourceUrl": "https://telegra.ph/長代ルージュ-ふたりあそび-友達同士の場合-第4話--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/8c0de58a32b995168942d.jpg",
+        "https://telegra.ph/file/26652c5e15211347c2535.jpg",
+        "https://telegra.ph/file/e1f5046c7376ff0355ee2.jpg",
+        "https://telegra.ph/file/bca2c95e980feeb4a0f9b.jpg",
+        "https://telegra.ph/file/e320278d43c93d7a53646.jpg",
+        "https://telegra.ph/file/b9a0d7604d9d6040c7527.jpg",
+        "https://telegra.ph/file/0851805cfa2eab79dfab4.jpg",
+        "https://telegra.ph/file/27a180237d671976dfd1e.jpg",
+        "https://telegra.ph/file/de8dd6881e79db5d4f300.jpg",
+        "https://telegra.ph/file/656cf9021d54f5e6b9737.jpg",
+        "https://telegra.ph/file/05ea6438bf1e2d9293ed0.jpg",
+        "https://telegra.ph/file/a526b9144d362cef82b00.jpg",
+        "https://telegra.ph/file/35dea1a6e1650782abd27.jpg",
+        "https://telegra.ph/file/615bcb287d4d5176316ec.jpg",
+        "https://telegra.ph/file/4d0c775f90cad6b7e6a32.jpg",
+        "https://telegra.ph/file/cfe1ee6c3e216c0a3d635.jpg",
+        "https://telegra.ph/file/33540fbc128c94c810a59.jpg",
+        "https://telegra.ph/file/de2a35bb6cc3feba44f22.jpg",
+        "https://telegra.ph/file/126ea3e873a14757ff737.jpg",
+        "https://telegra.ph/file/9b72b57dfc7723021a68b.jpg",
+        "https://telegra.ph/file/f6b3390360c1b244f915c.jpg",
+        "https://telegra.ph/file/5ee1b59b6930f1b7e1f63.jpg",
+        "https://telegra.ph/file/1508845d65ac48afb209f.jpg",
+        "https://telegra.ph/file/075cd509761ca0b0415ab.jpg",
+        "https://telegra.ph/file/41a9a2c749d98f3abb55e.jpg",
+        "https://telegra.ph/file/237e8bcffbaf63266f979.jpg",
+        "https://telegra.ph/file/4bd28c616d8579084f054.jpg",
+        "https://telegra.ph/file/929b55b1ad064a0432854.jpg",
+        "https://telegra.ph/file/650b19aa29062b026b418.jpg",
+        "https://telegra.ph/file/0a13899108ee4468ffee4.jpg",
+        "https://telegra.ph/file/06f2bd2c565295c64856b.jpg",
+        "https://telegra.ph/file/aeb2dd6959bc9bcdc5801.jpg",
+        "https://telegra.ph/file/f189d61d900ed75c80386.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

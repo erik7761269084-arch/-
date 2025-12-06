@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11203,
+    "title": "[岬ゆきひろ] 痴感エクスプレス 1",
+    "sourceUrl": "https://telegra.ph/岬ゆきひろ-痴感エクスプレス-1-08-31",
+    "images": [
+        "https://telegra.ph/file/60e5a4fc4d66f1ab4785b.jpg",
+        "https://telegra.ph/file/2264bfe6db2b529d61248.jpg",
+        "https://telegra.ph/file/2540fb8e1e9d3a7ce2eef.jpg",
+        "https://telegra.ph/file/f483f710765e5d1febbcd.jpg",
+        "https://telegra.ph/file/c95c138c17ab8865e0086.jpg",
+        "https://telegra.ph/file/79d9274a1d7e2947c309d.jpg",
+        "https://telegra.ph/file/c9f2368cf1ebf56315c6a.jpg",
+        "https://telegra.ph/file/7144749074bb50a1350e3.jpg",
+        "https://telegra.ph/file/7851f33b4a5e87a8a5177.jpg",
+        "https://telegra.ph/file/f69a29dcdd4764123b516.jpg",
+        "https://telegra.ph/file/c9d061305972e4916550a.jpg",
+        "https://telegra.ph/file/666474842ea566fcafa13.jpg",
+        "https://telegra.ph/file/c113bf1320c49a9b9f5f7.jpg",
+        "https://telegra.ph/file/de60da374173a02074210.jpg",
+        "https://telegra.ph/file/f82789cf3b1fe8c72b44c.jpg",
+        "https://telegra.ph/file/3e99b1f6b72149ca93d6a.jpg",
+        "https://telegra.ph/file/973807c4773eb4e78745f.jpg",
+        "https://telegra.ph/file/a98747cfa4bcf890787f9.jpg",
+        "https://telegra.ph/file/c8df024c15a3a3f3cd4f1.jpg",
+        "https://telegra.ph/file/16e4d9325dc565f97b14b.jpg",
+        "https://telegra.ph/file/664c0c88f263643b95ab5.jpg",
+        "https://telegra.ph/file/5ef67c8e4824a377c325f.jpg",
+        "https://telegra.ph/file/f96db91ef78fce6f0d772.jpg",
+        "https://telegra.ph/file/e12662e5341797854f0e5.jpg",
+        "https://telegra.ph/file/c9bbedea6a6fed9492b53.jpg",
+        "https://telegra.ph/file/a84ec5cb591dffedf8afb.jpg",
+        "https://telegra.ph/file/85c24134c70637c4f204d.jpg",
+        "https://telegra.ph/file/ec648c3e4de5a90aa745b.jpg",
+        "https://telegra.ph/file/c87c4b8b7097c5c030750.jpg",
+        "https://telegra.ph/file/7206f5e71e4758a18eeda.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

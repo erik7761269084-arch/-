@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 16076,
+    "title": "[ぐつとま (タチ)] メスガキ魔法少女と濃厚百合わから接触 -Preview",
+    "sourceUrl": "https://telegra.ph/ぐつとま-タチ-メスガキ魔法少女と濃厚百合わから接触--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/68de071a0a868ecad99ff.jpg",
+        "https://telegra.ph/file/d5a104ba6dad519c70943.jpg",
+        "https://telegra.ph/file/11751a2bfce71ae6c7342.jpg",
+        "https://telegra.ph/file/829a5757ff4ce34326360.jpg",
+        "https://telegra.ph/file/ed8951b0b93b39269a429.jpg",
+        "https://telegra.ph/file/6e2615a1ad45c17c33bd3.jpg",
+        "https://telegra.ph/file/d7abf3ffe4ec948960612.jpg",
+        "https://telegra.ph/file/b66116fe965bedc010306.jpg",
+        "https://telegra.ph/file/585a869b5db4439b1c66d.jpg",
+        "https://telegra.ph/file/96a494c382b53e291e24c.jpg",
+        "https://telegra.ph/file/a2ad5c8965a44d97eef24.jpg",
+        "https://telegra.ph/file/861484b46a959beba1ab5.jpg",
+        "https://telegra.ph/file/8686239b1d51e13c72adf.jpg",
+        "https://telegra.ph/file/5a57c600e741348ea56fe.jpg",
+        "https://telegra.ph/file/19417594fbf4c8aba14c5.jpg",
+        "https://telegra.ph/file/b9e069053ea6231860624.jpg",
+        "https://telegra.ph/file/ec2718fb1d4a0a0b117f3.jpg",
+        "https://telegra.ph/file/c00a1701c45e7ae6a5dfc.jpg",
+        "https://telegra.ph/file/6ac8a7476450262c75257.jpg",
+        "https://telegra.ph/file/e14d8b4794e3a80dfe171.jpg",
+        "https://telegra.ph/file/679041995ea8571b254d7.jpg",
+        "https://telegra.ph/file/016266f0ea11294d1de9a.jpg",
+        "https://telegra.ph/file/a0a515c7f6179ada24485.jpg",
+        "https://telegra.ph/file/4710cbb9fc617cbbb07f6.jpg",
+        "https://telegra.ph/file/02fa7dccbcbc44de8f242.jpg",
+        "https://telegra.ph/file/0d6c0fbdb190f44f1bff6.jpg",
+        "https://telegra.ph/file/811534691bf94c7e74592.jpg",
+        "https://telegra.ph/file/9f7999076742c966e547e.jpg",
+        "https://telegra.ph/file/0c6e6dd081964264fb9a5.jpg",
+        "https://telegra.ph/file/723af95eead39696d0cdd.jpg",
+        "https://telegra.ph/file/3edaa94289448ec4fecdd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

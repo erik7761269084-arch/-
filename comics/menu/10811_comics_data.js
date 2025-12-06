@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 10811,
+    "title": "(C96) [ジンガイマキョウ (犬江しんすけ)] 特待生試験・ばかだけどあいつと一緒の学校行きたいから得意分野でがんばった。",
+    "sourceUrl": "https://telegra.ph/C96-ジンガイマキョウ-犬江しんすけ-特待生試験ばかだけどあいつと一緒の学校行きたいから得意分野でがんばった-08-31",
+    "images": [
+        "https://telegra.ph/file/d80e46d282974f9085704.jpg",
+        "https://telegra.ph/file/976700255e458e8ec402f.jpg",
+        "https://telegra.ph/file/4c8a1f068bf78b35f3218.jpg",
+        "https://telegra.ph/file/d3df4f92f6f0209f5b3ad.jpg",
+        "https://telegra.ph/file/60fef2ca0f23d37098ba0.jpg",
+        "https://telegra.ph/file/5c4522cd29c637b78247a.jpg",
+        "https://telegra.ph/file/1dad3f09d0caf5e4b4a95.jpg",
+        "https://telegra.ph/file/f543caacba042bce6859b.jpg",
+        "https://telegra.ph/file/4175cf58cd9fa9e4e3c40.jpg",
+        "https://telegra.ph/file/eec6b01ab7060409c1c7b.jpg",
+        "https://telegra.ph/file/b994f758eca73aa1fa6ee.jpg",
+        "https://telegra.ph/file/7c730f1464969cca92bfc.jpg",
+        "https://telegra.ph/file/f5103605e9ee3f17a13f4.jpg",
+        "https://telegra.ph/file/2b69ca7de69f772e73cc2.jpg",
+        "https://telegra.ph/file/d0c93a538813fa94b1a85.jpg",
+        "https://telegra.ph/file/b6e25d0477271081de36e.jpg",
+        "https://telegra.ph/file/9a2cbcf4d490b9475ae50.jpg",
+        "https://telegra.ph/file/fdbffd35600e720a2ff5d.jpg",
+        "https://telegra.ph/file/3934689a6a23a10f9cd1c.jpg",
+        "https://telegra.ph/file/c433a67637a5e9c93e22e.jpg",
+        "https://telegra.ph/file/a2758cee10ccc074a3136.jpg",
+        "https://telegra.ph/file/6a7fb9dacee96e398ba09.jpg",
+        "https://telegra.ph/file/ea3ad5ab8035eefa5ca52.jpg",
+        "https://telegra.ph/file/434c9bc81830c3955e060.jpg",
+        "https://telegra.ph/file/6afa69936b95097740912.jpg",
+        "https://telegra.ph/file/4306c4958102142ee082a.jpg",
+        "https://telegra.ph/file/5a82f8c3674a26c288f6b.jpg",
+        "https://telegra.ph/file/66e5735deed5ff23922a1.jpg",
+        "https://telegra.ph/file/735979c121a3b272f38a1.jpg",
+        "https://telegra.ph/file/8315da99a1f348c5fe06b.jpg",
+        "https://telegra.ph/file/86c9597ca3dd36991b969.jpg",
+        "https://telegra.ph/file/8a288c4246023fd2c9292.jpg",
+        "https://telegra.ph/file/b65d0dd807d6773733416.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

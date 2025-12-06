@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12500,
+    "title": "[Frank Factory (Lorica)] Nympfo-mania? II (少女前線)",
+    "sourceUrl": "https://telegra.ph/Frank-Factory-Lorica-Nympfo-mania-II-少女前線-08-31",
+    "images": [
+        "https://telegra.ph/file/526573765fd3024379cf3.jpg",
+        "https://telegra.ph/file/2834699123fed3322ca94.jpg",
+        "https://telegra.ph/file/79c7017c2588198719580.jpg",
+        "https://telegra.ph/file/6b4be73941a6400b933ca.jpg",
+        "https://telegra.ph/file/76994dacdfb55184522a5.jpg",
+        "https://telegra.ph/file/05aa02e1bb6b37053a310.jpg",
+        "https://telegra.ph/file/63d8d018eb88b6eaf70da.jpg",
+        "https://telegra.ph/file/8dc93cb49d5f15719547d.jpg",
+        "https://telegra.ph/file/ad9710f5086b840230779.jpg",
+        "https://telegra.ph/file/7cc4ad638cd4f6cd80270.jpg",
+        "https://telegra.ph/file/41b1cd8afb29279c50bbe.jpg",
+        "https://telegra.ph/file/cf961662a9599c03d374d.jpg",
+        "https://telegra.ph/file/7201979722074dd156acc.jpg",
+        "https://telegra.ph/file/49a30c473df0179cde9a6.jpg",
+        "https://telegra.ph/file/25829ee8c955a5d6e580e.jpg",
+        "https://telegra.ph/file/f89b3b0cefaf5a1f1090f.jpg",
+        "https://telegra.ph/file/7d8a7664033dac613d5b0.jpg",
+        "https://telegra.ph/file/5d98c04f87a929bd1f725.jpg",
+        "https://telegra.ph/file/1038c58ecc800b7989323.jpg",
+        "https://telegra.ph/file/acc3d0bbfe97619a86ae0.jpg",
+        "https://telegra.ph/file/a0d2756a678fee441444f.jpg",
+        "https://telegra.ph/file/e6926048b96e69546ccbd.jpg",
+        "https://telegra.ph/file/678643a081b0e7bc63c20.jpg",
+        "https://telegra.ph/file/e8a07c340e3c168d13305.jpg",
+        "https://telegra.ph/file/18c62c9504e5ce33dd5c9.jpg",
+        "https://telegra.ph/file/620b070bbf11bf3574e5b.jpg",
+        "https://telegra.ph/file/f5c7f28d891ae8186b4c2.jpg",
+        "https://telegra.ph/file/5e926fd3b56234e856ad6.jpg",
+        "https://telegra.ph/file/40f8e89acd005c86372bb.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

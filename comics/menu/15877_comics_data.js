@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 15877,
+    "title": "[ろーぷあいらんど (みやのゆき)] 今日は騎士禁止!! (ひろがるスカイ!プリキュア)  -Preview",
+    "sourceUrl": "https://telegra.ph/ろーぷあいらんど-みやのゆき-今日は騎士禁止-ひろがるスカイプリキュア--Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/744c79760d99110980ab7.jpg",
+        "https://telegra.ph/file/23158cf04e84347a01305.jpg",
+        "https://telegra.ph/file/be5655abbb9f864ce4c6b.png",
+        "https://telegra.ph/file/454df621b9555b6bbdd26.jpg",
+        "https://telegra.ph/file/6085c95f187884355ac32.jpg",
+        "https://telegra.ph/file/f762e1d37cf52f1c8c90c.jpg",
+        "https://telegra.ph/file/e3a7b2ddc82cead28314d.jpg",
+        "https://telegra.ph/file/4d1a9bca03bc27fa4190e.jpg",
+        "https://telegra.ph/file/134e7b301f9531392d4ca.jpg",
+        "https://telegra.ph/file/f58288c0a17de9e796807.jpg",
+        "https://telegra.ph/file/a0f8711375d085a460dd7.jpg",
+        "https://telegra.ph/file/8f42161b339c273f402bd.jpg",
+        "https://telegra.ph/file/f24c9e615e214bd80eb67.jpg",
+        "https://telegra.ph/file/29b2551b4a5d39907af76.jpg",
+        "https://telegra.ph/file/8aa497088c05acac0570f.jpg",
+        "https://telegra.ph/file/c8ca48656a99c11ae7b01.jpg",
+        "https://telegra.ph/file/9ba89791af87eb038d87a.jpg",
+        "https://telegra.ph/file/dd0f913e2e19b1f93342c.jpg",
+        "https://telegra.ph/file/8f582ff1ee0e4d6bc1bfd.jpg",
+        "https://telegra.ph/file/1b2724ce10d6ae07e3e9c.jpg",
+        "https://telegra.ph/file/6eaf8ca817ff99fcf5e5b.jpg",
+        "https://telegra.ph/file/c8cc9b5373cf4b98b3860.jpg",
+        "https://telegra.ph/file/778f89878a4173883f8a6.jpg",
+        "https://telegra.ph/file/fd58b09ef03f144d52ae7.jpg",
+        "https://telegra.ph/file/a8d1e37dfb95b29cb0ded.jpg",
+        "https://telegra.ph/file/64517b3b2a132bbb4a3f3.jpg",
+        "https://telegra.ph/file/d1ba78ed9e79f7baff345.jpg",
+        "https://telegra.ph/file/9b68b45b58763ed3513a6.jpg",
+        "https://telegra.ph/file/801fea0af890194654fcf.jpg",
+        "https://telegra.ph/file/751a033a4e1d9bdb25a24.jpg",
+        "https://telegra.ph/file/1b7b58dbef7def93dd19c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

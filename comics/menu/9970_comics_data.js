@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 9970,
+    "title": "[French letter (藤崎ひかり)] 鈴原るると秘密の催眠アプリ (鈴原るる)",
+    "sourceUrl": "https://telegra.ph/French-letter-藤崎ひかり-鈴原るると秘密の催眠アプリ-鈴原るる-08-31",
+    "images": [
+        "https://telegra.ph/file/3c5bd610be550dbda5f0f.jpg",
+        "https://telegra.ph/file/4013e7f680085ef81564a.jpg",
+        "https://telegra.ph/file/b144fb5fa17d4d9cf1d84.jpg",
+        "https://telegra.ph/file/184fc7817566a9c2648a8.jpg",
+        "https://telegra.ph/file/b99abfbe76fd4b979355d.jpg",
+        "https://telegra.ph/file/4a7cc77975391a830d26b.jpg",
+        "https://telegra.ph/file/997287df954edbb0166de.jpg",
+        "https://telegra.ph/file/804afdc80e15b49590999.jpg",
+        "https://telegra.ph/file/ec5aabdf22e5700e5440d.jpg",
+        "https://telegra.ph/file/23ad9346f9150a108b69c.jpg",
+        "https://telegra.ph/file/0e26811068be606fe02a4.jpg",
+        "https://telegra.ph/file/5af23f3b56fca82988000.jpg",
+        "https://telegra.ph/file/d4bc71905d8534b442036.jpg",
+        "https://telegra.ph/file/7ae4ee5fd4ddcca4ccd40.jpg",
+        "https://telegra.ph/file/2f38488a7c5f13cb6d525.jpg",
+        "https://telegra.ph/file/a5d3f81e97376f9e67eb2.jpg",
+        "https://telegra.ph/file/1e2cf7112acf6f2831be9.jpg",
+        "https://telegra.ph/file/a75e13744ecd0d2f7c03b.jpg",
+        "https://telegra.ph/file/da695df2b631935dd6b4e.jpg",
+        "https://telegra.ph/file/789edff50d66e54808d89.jpg",
+        "https://telegra.ph/file/55455031bff0b39338326.jpg",
+        "https://telegra.ph/file/9757f30bff87ea5380bdd.jpg",
+        "https://telegra.ph/file/957e57acab33e3275a3c4.jpg",
+        "https://telegra.ph/file/01f5d76cf2fb632eccd97.jpg",
+        "https://telegra.ph/file/7cc87efd7091058801542.jpg",
+        "https://telegra.ph/file/d0aad352c9f9f05d85e81.jpg",
+        "https://telegra.ph/file/1ac56d39e287985470919.jpg",
+        "https://telegra.ph/file/a812d4886f6e9ac5d3e23.jpg",
+        "https://telegra.ph/file/8bd7125db8cd7583f4de4.jpg",
+        "https://telegra.ph/file/d62e9dd0c6e5ed5a31fe0.jpg",
+        "https://telegra.ph/file/b88846edbbfebc57a8245.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 15713,
+    "title": "(C87) [ALSeTRO (ぎゃりん、みかん氏)] 乱れ染めにし たれゆゑに (艦隊これくしょん -艦これ-) -Preview",
+    "sourceUrl": "https://telegra.ph/C87-ALSeTRO-ぎゃりんみかん氏-乱れ染めにし-たれゆゑに-艦隊これくしょん--艦これ---Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/32f72ee1402cc6ac2fb77.jpg",
+        "https://telegra.ph/file/146aeb82b4f7600c43453.jpg",
+        "https://telegra.ph/file/af85dd13cf99a37f68666.jpg",
+        "https://telegra.ph/file/b7a578110468db6feac04.jpg",
+        "https://telegra.ph/file/dc1352c1e1d82bd02e157.jpg",
+        "https://telegra.ph/file/5c117a2124f08e6f2fc25.jpg",
+        "https://telegra.ph/file/6de62cccd09c3a05eb33c.jpg",
+        "https://telegra.ph/file/38ac2a6b24c080c78caf4.jpg",
+        "https://telegra.ph/file/3c11e7b54a3cd9b39507d.jpg",
+        "https://telegra.ph/file/3c2e068d373a7c79e7364.jpg",
+        "https://telegra.ph/file/d73fe50ab755fb68b4d55.jpg",
+        "https://telegra.ph/file/9d97d4a5e60d50a773aef.jpg",
+        "https://telegra.ph/file/eef041ee8fe1af2e347ca.jpg",
+        "https://telegra.ph/file/60f6c133bc45f3190927e.jpg",
+        "https://telegra.ph/file/cd6da91e11c3d25bee297.jpg",
+        "https://telegra.ph/file/62813fb423ce7beec40ab.jpg",
+        "https://telegra.ph/file/0265919977dfc7d801093.jpg",
+        "https://telegra.ph/file/772939c641ee77990a9b3.jpg",
+        "https://telegra.ph/file/0c75c3c5abbf78a45306d.jpg",
+        "https://telegra.ph/file/6d94d5ca710df8a8dd8bb.jpg",
+        "https://telegra.ph/file/fb1389faa9468293af15d.jpg",
+        "https://telegra.ph/file/829c8cb4d4e9c3832ee1e.jpg",
+        "https://telegra.ph/file/f31468fd51e0c51d16a27.jpg",
+        "https://telegra.ph/file/1f9abfeedd0b6a5121898.jpg",
+        "https://telegra.ph/file/322b2d0daa73a41efba95.jpg",
+        "https://telegra.ph/file/3094a952788d2076c0980.jpg",
+        "https://telegra.ph/file/ce65d40f2e1e1aeb5390f.jpg",
+        "https://telegra.ph/file/0d23b07ff52408e5bda23.jpg",
+        "https://telegra.ph/file/86440e43d91d5fec92f96.jpg",
+        "https://telegra.ph/file/54b85546683071c6eb84e.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

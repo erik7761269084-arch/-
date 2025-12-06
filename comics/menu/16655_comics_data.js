@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16655,
+    "title": "(C96) [フレンチカンカン (千々石さわ)] そのとくべつを愛してる! (BanG Dream!) -Preview",
+    "sourceUrl": "https://telegra.ph/C96-フレンチカンカン-千々石さわ-そのとくべつを愛してる-BanG-Dream--Preview-08-31",
+    "images": [
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/01.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/02.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/03.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/04.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/05.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/06.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/07.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/08.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/09.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/10.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/11.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/12.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/13.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/14.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/15.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/16.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/17.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/18.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/19.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/20.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/21.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/22.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/23.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/24.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/25.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/26.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/27.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/28.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/29.webp",
+        "https://i2.linghua.xyz/ex/1700171/72fe216fbf/30.webp"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

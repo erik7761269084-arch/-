@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 16201,
+    "title": "(C104) [virophilia (織日ちひろ)] パウダーブルー (ラブライブ! 蓮ノ空女学院スクールアイドルクラブ)-Preview",
+    "sourceUrl": "https://telegra.ph/C104-virophilia-織日ちひろ-パウダーブルー-ラブライブ-蓮ノ空女学院スクールアイドルクラブ-Preview-08-31",
+    "images": [
+        "https://telegra.ph/file/7df5d00481edfce639566.jpg",
+        "https://telegra.ph/file/9cd1d37688ce43714fce2.jpg",
+        "https://telegra.ph/file/91a9c88340479c3eac993.jpg",
+        "https://telegra.ph/file/72270092be8e2cda93b81.jpg",
+        "https://telegra.ph/file/82b3cae8df798065f10e5.jpg",
+        "https://telegra.ph/file/582b3e8715d0e9bc970e0.jpg",
+        "https://telegra.ph/file/fe7ce4ef671255edd7403.jpg",
+        "https://telegra.ph/file/c4bf4bfa12327f9bbb07c.jpg",
+        "https://telegra.ph/file/8144041118016f90d7402.jpg",
+        "https://telegra.ph/file/4ea2df3073659eccf1207.jpg",
+        "https://telegra.ph/file/9d213eb0e65fdd4db4d30.jpg",
+        "https://telegra.ph/file/fca77e22cf300b7fa06dd.jpg",
+        "https://telegra.ph/file/38f7ff1a85847c08dc0da.jpg",
+        "https://telegra.ph/file/bcb0776a53045f12e203f.jpg",
+        "https://telegra.ph/file/8774f9d44f8702a2f80f1.jpg",
+        "https://telegra.ph/file/7727ce5ea04e9bf5e49ba.jpg",
+        "https://telegra.ph/file/e5e5e2972b22404e34381.jpg",
+        "https://telegra.ph/file/4106a80e2b99941af70eb.jpg",
+        "https://telegra.ph/file/b220eeeeb416f563fd2de.jpg",
+        "https://telegra.ph/file/85e273b1a9fa4ba1cfc49.jpg",
+        "https://telegra.ph/file/48ac246251f80ed4fc8bc.jpg",
+        "https://telegra.ph/file/78f572c08cda70280874f.jpg",
+        "https://telegra.ph/file/ad5d521ef62e36857bcea.jpg",
+        "https://telegra.ph/file/ce90a742a336bbb861e12.jpg",
+        "https://telegra.ph/file/8cddc7a4985a3483aa9c2.jpg",
+        "https://telegra.ph/file/8937273ceb907754927a6.jpg",
+        "https://telegra.ph/file/b10d1c60d5c94abc8eb2b.jpg",
+        "https://telegra.ph/file/e4bdfb83dc2bc0f01409f.jpg",
+        "https://telegra.ph/file/cc560fc2ed9abfa7181a6.jpg",
+        "https://telegra.ph/file/4449d12c83054afb00067.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

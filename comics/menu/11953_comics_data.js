@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11953,
+    "title": "[D2 Algorithm (六壱)] あまこちけっと・えくすとら ～お肉屋さん編～",
+    "sourceUrl": "https://telegra.ph/D2-Algorithm-六壱-あまこちけっとえくすとら-お肉屋さん編-08-31",
+    "images": [
+        "https://telegra.ph/file/cc5d579dff417396f0f78.jpg",
+        "https://telegra.ph/file/6ee95cf77d1780c4d96e3.jpg",
+        "https://telegra.ph/file/4b7a10c83d74543d94657.jpg",
+        "https://telegra.ph/file/81bdb29034cd3acc3ce1e.jpg",
+        "https://telegra.ph/file/3944e055a466a140db1b3.jpg",
+        "https://telegra.ph/file/5d9c0b13239f1f48d7878.jpg",
+        "https://telegra.ph/file/59f541531622dcf91b3df.jpg",
+        "https://telegra.ph/file/61c04042f76c9a9cdedcd.jpg",
+        "https://telegra.ph/file/59a7ad366f33248dec5bd.jpg",
+        "https://telegra.ph/file/d05c9423ccc3d4f8c8877.jpg",
+        "https://telegra.ph/file/1738962c3fcb5da84b7f0.jpg",
+        "https://telegra.ph/file/f76eee567b4525fd21005.jpg",
+        "https://telegra.ph/file/342b1b0fec1240c3147f7.jpg",
+        "https://telegra.ph/file/f0599e98aeb3883555ee0.jpg",
+        "https://telegra.ph/file/14015fce8037509657a71.jpg",
+        "https://telegra.ph/file/f94062b224cac6f8e9342.jpg",
+        "https://telegra.ph/file/cb4a6ba409709ad46c9a9.jpg",
+        "https://telegra.ph/file/c271606afe7336f9283ac.jpg",
+        "https://telegra.ph/file/0e5ee736d657151bac930.jpg",
+        "https://telegra.ph/file/8a7eda5d963aa25f120d6.jpg",
+        "https://telegra.ph/file/cb04f1aa7ac494668b032.jpg",
+        "https://telegra.ph/file/36f6619f6397ad0fcd241.jpg",
+        "https://telegra.ph/file/997ad9981c3b4596e4a63.jpg",
+        "https://telegra.ph/file/edadcf892847d55b24d94.jpg",
+        "https://telegra.ph/file/2ffa3c97f2f5aae862115.jpg",
+        "https://telegra.ph/file/a9ae47b4918bed2208c8f.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/63c1017d9cf7497e1e341.jpg",
+        "https://telegra.ph/file/f3746748b79a70bc79efa.jpg",
+        "https://telegra.ph/file/2f00db6fff441829bc66a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

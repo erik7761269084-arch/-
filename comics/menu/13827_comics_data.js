@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13827,
+    "title": "[皐月芋網] ツマフェス ～第一夜～",
+    "sourceUrl": "https://telegra.ph/皐月芋網-ツマフェス-第一夜-08-31",
+    "images": [
+        "https://telegra.ph/file/ba3df8cfb0e0218e06372.jpg",
+        "https://telegra.ph/file/e5abe4bde220f39bb7e72.jpg",
+        "https://telegra.ph/file/9d343abdd8222c462b2f6.jpg",
+        "https://telegra.ph/file/793ffc97b8191a4102224.jpg",
+        "https://telegra.ph/file/9fc11955d30239dffe2e9.jpg",
+        "https://telegra.ph/file/76239cdc738865630995f.jpg",
+        "https://telegra.ph/file/b2348d4c96da8a62e27a7.jpg",
+        "https://telegra.ph/file/87b57fc06f5d446e38cdc.jpg",
+        "https://telegra.ph/file/5f21414ff9252be130872.jpg",
+        "https://telegra.ph/file/e224fb421ad90fd702f46.jpg",
+        "https://telegra.ph/file/0177a3a1ff2deed5ffe6c.jpg",
+        "https://telegra.ph/file/9137f7e3e1cf483c185df.jpg",
+        "https://telegra.ph/file/73de1bd43b280cc618887.jpg",
+        "https://telegra.ph/file/409afc0b906a78d37b43e.jpg",
+        "https://telegra.ph/file/e4cf0dbfc953a99dfae4f.jpg",
+        "https://telegra.ph/file/5ec25b299b6a80b6458b3.jpg",
+        "https://telegra.ph/file/770050df4f425bdf50f63.jpg",
+        "https://telegra.ph/file/fd70cb792adcbcb67237a.jpg",
+        "https://telegra.ph/file/842315a0e2342624e0adc.jpg",
+        "https://telegra.ph/file/43ae5c7f6b5044a76588f.jpg",
+        "https://telegra.ph/file/4f4c8fdc2d0420b9fc0ae.jpg",
+        "https://telegra.ph/file/8e497c23d2cf1de729cc2.jpg",
+        "https://telegra.ph/file/7324fc0e9bbfdefe32ac4.jpg",
+        "https://telegra.ph/file/ff6aafa449ee348b677af.jpg",
+        "https://telegra.ph/file/6f44444ab1d636f1b679b.jpg",
+        "https://telegra.ph/file/6bb66dcfe78de3fb9573b.jpg",
+        "https://telegra.ph/file/3cc91b62f14ffa8741daf.jpg",
+        "https://telegra.ph/file/76c4a1ea66efb795fa0ba.jpg",
+        "https://telegra.ph/file/ecfc950fea6ab8e6b9788.jpg",
+        "https://telegra.ph/file/ec864baf22798d3f65a1a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

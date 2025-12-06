@@ -1,0 +1,43 @@
+const comicData = {
+    "IDcode": 11992,
+    "title": "(C97) [Art Jam (Art Jam)] 大人用のおもちゃ 四人目…果奈",
+    "sourceUrl": "https://telegra.ph/C97-Art-Jam-Art-Jam-大人用のおもちゃ-四人目果奈-08-31",
+    "images": [
+        "https://telegra.ph/file/814253de4ab1f07ffe340.jpg",
+        "https://telegra.ph/file/924227f369c0ae7ab70ce.jpg",
+        "https://telegra.ph/file/8ac9b1b98bddd06139ada.jpg",
+        "https://telegra.ph/file/d4eb0085ea6816cb77669.jpg",
+        "https://telegra.ph/file/6996cc801613cd1fe6d99.jpg",
+        "https://telegra.ph/file/844c4e1727853390002fb.jpg",
+        "https://telegra.ph/file/ae2bd85405896c9e5370d.jpg",
+        "https://telegra.ph/file/161cec85c106a28d7ed88.jpg",
+        "https://telegra.ph/file/646504858edbd9f140257.jpg",
+        "https://telegra.ph/file/7906a9c1ef011fc5577be.jpg",
+        "https://telegra.ph/file/7cea1525f7727e6c624e0.jpg",
+        "https://telegra.ph/file/022c14481ac863062c127.jpg",
+        "https://telegra.ph/file/81d79e182d7c4e7a9cc1e.jpg",
+        "https://telegra.ph/file/f97cdbfac70ba72b7a71f.jpg",
+        "https://telegra.ph/file/0e8cc93a631393e27160d.jpg",
+        "https://telegra.ph/file/cce9b2a473fa2d353774f.jpg",
+        "https://telegra.ph/file/1489ddd52f9d2ea016b38.jpg",
+        "https://telegra.ph/file/b10b6801a6bd65500e8e6.jpg",
+        "https://telegra.ph/file/8ebb0abba69b5adbd0c3f.jpg",
+        "https://telegra.ph/file/ef7385e82ebdfee062ab7.jpg",
+        "https://telegra.ph/file/39e7c229949b31a000dac.jpg",
+        "https://telegra.ph/file/244efe426063c39d4e894.jpg",
+        "https://telegra.ph/file/731a56f92d06bac8a3068.jpg",
+        "https://telegra.ph/file/1423e0d9be8d0d4505c51.jpg",
+        "https://telegra.ph/file/9ba3f77581fbecd51f797.jpg",
+        "https://telegra.ph/file/d484553e3a74596cc4b11.jpg",
+        "https://telegra.ph/file/32a8601cafb6158c6318a.jpg",
+        "https://telegra.ph/file/720a90042558b52046b3d.jpg",
+        "https://telegra.ph/file/a02e189f10ce766111ff0.jpg",
+        "https://telegra.ph/file/6f8177b9b05ae53b3ebef.jpg",
+        "https://telegra.ph/file/9332754f0a6a01e031bc3.jpg",
+        "https://telegra.ph/file/a07ea975c8b37e36d961c.jpg",
+        "https://telegra.ph/file/475696296f41c5e0abe5b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 14178,
+    "title": "[あらくれた者たち (あらくれ)] 寝取られた人妻と寝取られる人妻2",
+    "sourceUrl": "https://telegra.ph/あらくれた者たち-あらくれ-寝取られた人妻と寝取られる人妻2-08-31",
+    "images": [
+        "https://telegra.ph/file/423e55adaa0a10fef5e95.jpg",
+        "https://telegra.ph/file/2c8390cf2bec46c500617.jpg",
+        "https://telegra.ph/file/21ff81dc2cb5c7864d869.jpg",
+        "https://telegra.ph/file/b8d994d611aa45aa93ccb.jpg",
+        "https://telegra.ph/file/1e0a3b9b1b6c116229002.jpg",
+        "https://telegra.ph/file/f97ebc4eb29740b62a75b.jpg",
+        "https://telegra.ph/file/cc7716ebf92ad166c3de3.jpg",
+        "https://telegra.ph/file/5535c5f9e6e8726a82ed6.jpg",
+        "https://telegra.ph/file/d6b7a62a4dc87829a9944.jpg",
+        "https://telegra.ph/file/5cffe5d172a30760d34af.jpg",
+        "https://telegra.ph/file/2d46ef17952c792134cfc.jpg",
+        "https://telegra.ph/file/92dae25e80968efd535e6.jpg",
+        "https://telegra.ph/file/d524fbaa3daf09d2f3aab.jpg",
+        "https://telegra.ph/file/c77ae66303bf2e8e41279.jpg",
+        "https://telegra.ph/file/9ae0381abb70bedb8043d.jpg",
+        "https://telegra.ph/file/909ed73b74966ac00cfd6.jpg",
+        "https://telegra.ph/file/12473d16dc49a1f781786.jpg",
+        "https://telegra.ph/file/c91bc16279e52dd645712.jpg",
+        "https://telegra.ph/file/46b51613de2d257b2a550.jpg",
+        "https://telegra.ph/file/7eca74346b57d9b5872b4.jpg",
+        "https://telegra.ph/file/31368115850c875447b3e.jpg",
+        "https://telegra.ph/file/5813b8b93869cf070d523.jpg",
+        "https://telegra.ph/file/ab7ced096746a37ea079d.jpg",
+        "https://telegra.ph/file/792f3d51280e9446276a7.jpg",
+        "https://telegra.ph/file/d8bf9e9a6cfbb500768a5.jpg",
+        "https://telegra.ph/file/b617f1601e0661b684a8f.jpg",
+        "https://telegra.ph/file/997c9bdaf16c24cbd6742.jpg",
+        "https://telegra.ph/file/c2922a958697595a8ac62.jpg",
+        "https://telegra.ph/file/30c7e42c9be4ff8ab3e2d.jpg",
+        "https://telegra.ph/file/bbec3dde8695f279b4504.jpg",
+        "https://telegra.ph/file/8f44cafc76adaa7e1472c.jpg",
+        "https://telegra.ph/file/6b1d520c0e7c30f0eb883.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

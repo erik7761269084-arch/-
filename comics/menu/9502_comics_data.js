@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9502,
+    "title": "[東部連合大学 (拡張の翁)] Extreme Anal Hunter (モンスターハンターワールド)",
+    "sourceUrl": "https://telegra.ph/東部連合大学-拡張の翁-Extreme-Anal-Hunter-モンスターハンターワールド-08-31",
+    "images": [
+        "https://telegra.ph/file/2916704cb85791f7d381a.jpg",
+        "https://telegra.ph/file/7b48d3720f1114d585e57.jpg",
+        "https://telegra.ph/file/2f4894406b59c89cfca83.jpg",
+        "https://telegra.ph/file/ca9a8122d3a8e2e28a799.jpg",
+        "https://telegra.ph/file/cb892eee8e1dadb2838a7.jpg",
+        "https://telegra.ph/file/2718ea390f1c221fd3247.jpg",
+        "https://telegra.ph/file/304f2829915e7de829a0c.jpg",
+        "https://telegra.ph/file/58020cefe417546766a73.jpg",
+        "https://telegra.ph/file/1a0e099996498c30a4353.jpg",
+        "https://telegra.ph/file/0e3cb739046c65df98807.jpg",
+        "https://telegra.ph/file/b36afac0847343841af48.jpg",
+        "https://telegra.ph/file/b64f2ece65c505a3b0bdd.jpg",
+        "https://telegra.ph/file/c25d6fcec3e4f13d3acf3.jpg",
+        "https://telegra.ph/file/46b388c7ee9a055388f1e.jpg",
+        "https://telegra.ph/file/f8a58e254ed22916f6e21.jpg",
+        "https://telegra.ph/file/2b03b70aac4bfcb076cd1.jpg",
+        "https://telegra.ph/file/be9fa6bfb41c277bd04d3.jpg",
+        "https://telegra.ph/file/16a0e888702b8eaf50f5a.jpg",
+        "https://telegra.ph/file/d4222cce727e7926fbdac.jpg",
+        "https://telegra.ph/file/d51296cad3c54f5bda76e.jpg",
+        "https://telegra.ph/file/4de704ff20f41ee923a53.jpg",
+        "https://telegra.ph/file/ac58bcce638b01fbd734e.jpg",
+        "https://telegra.ph/file/92935e35a0147b0a5956e.jpg",
+        "https://telegra.ph/file/a486ef3265937987b5c4a.jpg",
+        "https://telegra.ph/file/f0fd29fc12fe9d31f7c6a.jpg",
+        "https://telegra.ph/file/89ccf495a54e3f9643586.jpg",
+        "https://telegra.ph/file/38762d95ba6163f865320.jpg",
+        "https://telegra.ph/file/eafe6cd05ea0a0c8ea3fb.jpg",
+        "https://telegra.ph/file/a06902f6731c65acc4e11.jpg",
+        "https://telegra.ph/file/75626323249f303debaaa.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

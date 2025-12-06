@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 11327,
+    "title": "[江鳥] 二階に住む怪獣 (私色のオトコノコ)",
+    "sourceUrl": "https://telegra.ph/江鳥-二階に住む怪獣-私色のオトコノコ-08-31",
+    "images": [
+        "https://telegra.ph/file/d89216e3cb020db1be71f.jpg",
+        "https://telegra.ph/file/55b25ebe4d3e71cac7fa8.jpg",
+        "https://telegra.ph/file/bef2cc4097f53ef3fd545.jpg",
+        "https://telegra.ph/file/19ef373c613bd8480a12f.jpg",
+        "https://telegra.ph/file/db18969cf9222122a4fcc.jpg",
+        "https://telegra.ph/file/2038ff201d416198842a5.jpg",
+        "https://telegra.ph/file/293b59476156af98bfd33.jpg",
+        "https://telegra.ph/file/791b181f29a52be411c86.jpg",
+        "https://telegra.ph/file/89d66c78ad9eb98ed24fd.jpg",
+        "https://telegra.ph/file/bf8583cf0e353aa26b7f2.jpg",
+        "https://telegra.ph/file/41797ad053dd585884de5.jpg",
+        "https://telegra.ph/file/7eb4daae371cb2ebbdc93.jpg",
+        "https://telegra.ph/file/968e15f4eb1229a0e5f04.jpg",
+        "https://telegra.ph/file/b638fffc6501cfb9fd6fa.jpg",
+        "https://telegra.ph/file/1fa5a0b0d7443fba740a9.jpg",
+        "https://telegra.ph/file/a843074c15a17ac55a87f.jpg",
+        "https://telegra.ph/file/3be8bed1e571fd29f93d2.jpg",
+        "https://telegra.ph/file/8062b75197300c3b41e27.jpg",
+        "https://telegra.ph/file/82bf48e989e548d4cd1ca.jpg",
+        "https://telegra.ph/file/e0b664b2ae5f1d1fbff10.jpg",
+        "https://telegra.ph/file/cd1558db19122d96b6768.jpg",
+        "https://telegra.ph/file/b13d1fe5b0180fd530ecb.jpg",
+        "https://telegra.ph/file/202c1cf75363622c1c5fc.jpg",
+        "https://telegra.ph/file/5aef9f7dabf262ed3363a.jpg",
+        "https://telegra.ph/file/d42055fb2c96ffc762f66.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/299617a1da21ec4c49b83.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

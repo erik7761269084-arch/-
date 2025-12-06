@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8805,
+    "title": "(C91) [70年式悠久機関 (おはぎさん)]  Wonder A",
+    "sourceUrl": "https://telegra.ph/C91-70年式悠久機関-おはぎさん-Wonder-A-08-31",
+    "images": [
+        "https://telegra.ph/file/8cb745512a550d0ba58b6.jpg",
+        "https://telegra.ph/file/f3b7a7b6b2f7e339d10f6.jpg",
+        "https://telegra.ph/file/77a5e64a7d00a1df7ff83.jpg",
+        "https://telegra.ph/file/2f030b95d65323be2feed.jpg",
+        "https://telegra.ph/file/c00a084630744845db3d2.jpg",
+        "https://telegra.ph/file/6003d62fb18a489005b99.jpg",
+        "https://telegra.ph/file/14fddd240ed3375146c1e.jpg",
+        "https://telegra.ph/file/92843cd3c8f19faee75d4.jpg",
+        "https://telegra.ph/file/e3b7a1deccee5c01864f3.jpg",
+        "https://telegra.ph/file/0a1363e9213ddc6e3eb50.jpg",
+        "https://telegra.ph/file/15cc91225305fa07da004.jpg",
+        "https://telegra.ph/file/22c24d7530deceb23abaa.jpg",
+        "https://telegra.ph/file/54e86d9a0b2273a38a2b9.jpg",
+        "https://telegra.ph/file/70c8ec59a03a0355dd1ff.jpg",
+        "https://telegra.ph/file/d1dcfddc163e771ebddeb.jpg",
+        "https://telegra.ph/file/e8ad50744cd71c39c5a6a.jpg",
+        "https://telegra.ph/file/f7d23480ea63b1f300e53.jpg",
+        "https://telegra.ph/file/c9d42eaf087c6ac3491e4.jpg",
+        "https://telegra.ph/file/e600e0c8e2eb4082ecd19.jpg",
+        "https://telegra.ph/file/d4e6acda195076059e186.jpg",
+        "https://telegra.ph/file/be723078b62a6e3b5b4d7.jpg",
+        "https://telegra.ph/file/8e208f8f191972b6ee1c4.jpg",
+        "https://telegra.ph/file/8e45effd357d6b6ddd8d3.jpg",
+        "https://telegra.ph/file/137f22901b0bbb64522a8.jpg",
+        "https://telegra.ph/file/e1e8698a011a0c754d51c.jpg",
+        "https://telegra.ph/file/2457fe7c22629c32923f8.jpg",
+        "https://telegra.ph/file/eb8b8b893a011a764bd37.jpg",
+        "https://telegra.ph/file/62c6563819e935aed0210.jpg",
+        "https://telegra.ph/file/260affcd2bf34bc77de70.jpg",
+        "https://telegra.ph/file/bd1aa2434e843857ec3ba.jpg",
+        "https://telegra.ph/file/137e317b6077727bf1963.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

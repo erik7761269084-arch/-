@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 15344,
+    "title": "[shimahara] Koko ni Sumitai | I wanna live here",
+    "sourceUrl": "https://telegra.ph/shimahara-Koko-ni-Sumitai--I-wanna-live-here-08-31",
+    "images": [
+        "https://telegra.ph/file/e0606888f7a9d68c790f3.jpg",
+        "https://telegra.ph/file/11eab429dc8ea67a29e79.jpg",
+        "https://telegra.ph/file/bd96bb4fbbf2f7197a29f.jpg",
+        "https://telegra.ph/file/1e734bccddc62729a3132.jpg",
+        "https://telegra.ph/file/a7b5078b194d5dba0e917.jpg",
+        "https://telegra.ph/file/473ae849d0e865af50175.jpg",
+        "https://telegra.ph/file/8bc7658344f864c122895.jpg",
+        "https://telegra.ph/file/380b7e7f94745d05c8a30.jpg",
+        "https://telegra.ph/file/3f351595b24370a2c3095.jpg",
+        "https://telegra.ph/file/c92826cde72b0e4d849c4.jpg",
+        "https://telegra.ph/file/90616b90e5b8c294531c6.jpg",
+        "https://telegra.ph/file/6aebc7fa57f3ad2c2c057.jpg",
+        "https://telegra.ph/file/320a66da90c5f358887e6.jpg",
+        "https://telegra.ph/file/ba7b1c6a4e2f69825b506.jpg",
+        "https://telegra.ph/file/6885231ac739fe19bcd0e.jpg",
+        "https://telegra.ph/file/7e7c2c4e3ff82a38f21ea.jpg",
+        "https://telegra.ph/file/88c7dd94d705f52d5ea3d.jpg",
+        "https://telegra.ph/file/c2a7ab3d185f0f9417974.jpg",
+        "https://telegra.ph/file/a662091ffca1473216635.jpg",
+        "https://telegra.ph/file/44686be1fccdbcff0c247.jpg",
+        "https://telegra.ph/file/24fdd1736d7d2bf1d27ff.jpg",
+        "https://telegra.ph/file/bedd99e0a0248889e7dbf.jpg",
+        "https://telegra.ph/file/6e0c8980985e50e54bf06.jpg",
+        "https://telegra.ph/file/ef2598034ced40b94809f.jpg",
+        "https://telegra.ph/file/790ad43e65f23ee68d895.jpg",
+        "https://telegra.ph/file/87b4a45bb03e06207ed5a.jpg",
+        "https://telegra.ph/file/f8018dc7389ac507ce1da.jpg",
+        "https://telegra.ph/file/93c5349dfc74c8c0d4ae9.jpg",
+        "https://telegra.ph/file/e101166b5849843ecb947.jpg",
+        "https://telegra.ph/file/dcf2f175f14ff432c1731.jpg",
+        "https://telegra.ph/file/252cbd272fb9575b31fff.jpg",
+        "https://telegra.ph/file/f7bc50dc7d22e0558e996.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

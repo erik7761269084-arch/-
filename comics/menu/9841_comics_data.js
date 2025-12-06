@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9841,
+    "title": "[みずゆき] いつかまた (コミックホットミルク 2020年10月号)",
+    "sourceUrl": "https://telegra.ph/みずゆき-いつかまた-コミックホットミルク-2020年10月号-08-31",
+    "images": [
+        "https://telegra.ph/file/4ae1ad1323d91b4733cf0.jpg",
+        "https://telegra.ph/file/d4d9c971cd96e9b078461.jpg",
+        "https://telegra.ph/file/97a2cb0c9b8acd325665c.jpg",
+        "https://telegra.ph/file/8109f03ccf3ca65952928.jpg",
+        "https://telegra.ph/file/b28ae035cc19c23b51477.jpg",
+        "https://telegra.ph/file/ea4481ad6b4840a27a3d7.jpg",
+        "https://telegra.ph/file/69371ab97d701c45ef9ba.jpg",
+        "https://telegra.ph/file/e9411b321c9d6e9638033.jpg",
+        "https://telegra.ph/file/f725c0abe6847eebb1bd5.jpg",
+        "https://telegra.ph/file/a6c6e698f02d6cfc67c48.jpg",
+        "https://telegra.ph/file/96e2bd8774fdafa010571.jpg",
+        "https://telegra.ph/file/895e2c2e5644dcba24974.jpg",
+        "https://telegra.ph/file/c7429e6ceaa785ea2e289.jpg",
+        "https://telegra.ph/file/1a232a38f1526e7c1c854.jpg",
+        "https://telegra.ph/file/1bfc710afe68ff79c62f8.jpg",
+        "https://telegra.ph/file/e032afaf305d474a855ed.jpg",
+        "https://telegra.ph/file/c1e1c3d78a2dd18a209aa.jpg",
+        "https://telegra.ph/file/adfcd806d1d9de024ebf9.jpg",
+        "https://telegra.ph/file/978416b077aa9cbb76ef3.jpg",
+        "https://telegra.ph/file/9a027c7843779ad74d109.jpg",
+        "https://telegra.ph/file/61e8713f3dea71952fb1b.jpg",
+        "https://telegra.ph/file/95cc422ee00d69dbceaf6.jpg",
+        "https://telegra.ph/file/30ddcc3d0486be23d9a6e.jpg",
+        "https://telegra.ph/file/e18cc3e75cf40cc011e4e.jpg",
+        "https://telegra.ph/file/40a0803cb23ea78053e1a.jpg",
+        "https://telegra.ph/file/29d3b87871363664579b4.jpg",
+        "https://telegra.ph/file/eb0e6f2737a7b67f35e32.jpg",
+        "https://telegra.ph/file/c0193f3df0762a7dfa881.jpg",
+        "https://telegra.ph/file/b6ef0475f53f69ec0b542.jpg",
+        "https://telegra.ph/file/2819acf4dff35b9bcd17b.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

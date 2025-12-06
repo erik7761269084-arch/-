@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11019,
+    "title": "[有間乃ユウキ] 夏逢瀬 (幼婆三伽話)",
+    "sourceUrl": "https://telegra.ph/有間乃ユウキ-夏逢瀬-幼婆三伽話-08-31",
+    "images": [
+        "https://telegra.ph/file/e4bc1b8eedc101cd6a485.jpg",
+        "https://telegra.ph/file/3d4e8f80dda6b72d9021d.jpg",
+        "https://telegra.ph/file/f6e8226889b1d08e0282a.jpg",
+        "https://telegra.ph/file/8e045ec097a538e2d2837.jpg",
+        "https://telegra.ph/file/d5f2792695778bc9d766e.jpg",
+        "https://telegra.ph/file/cba2e6da101d28e223bf2.jpg",
+        "https://telegra.ph/file/b0a1edbde3d52dbba369a.jpg",
+        "https://telegra.ph/file/c88070b4f5d6027c089e0.jpg",
+        "https://telegra.ph/file/45637b1ab898ab43bb3b8.jpg",
+        "https://telegra.ph/file/3b849715d2c252de62afb.jpg",
+        "https://telegra.ph/file/b8b384c887c4af859021b.jpg",
+        "https://telegra.ph/file/86ff68c75847993885e17.jpg",
+        "https://telegra.ph/file/e407e441ee1614d99e7ca.jpg",
+        "https://telegra.ph/file/3c633856d808c4fb9a29d.jpg",
+        "https://telegra.ph/file/142ff527716c6c98c507c.jpg",
+        "https://telegra.ph/file/a5337a131f8122b74a436.jpg",
+        "https://telegra.ph/file/d7ba17ab1c6f7d4519eda.jpg",
+        "https://telegra.ph/file/aa07a51d904763aa6a9d8.jpg",
+        "https://telegra.ph/file/9f7e21a39e303a4830539.jpg",
+        "https://telegra.ph/file/e2e143b3f7f317b057ccf.jpg",
+        "https://telegra.ph/file/1960c5d416917d94bc099.jpg",
+        "https://telegra.ph/file/b7945917d42def8f273de.jpg",
+        "https://telegra.ph/file/76df035bca2806fd09bc4.jpg",
+        "https://telegra.ph/file/cd66d1a1f44833435b958.jpg",
+        "https://telegra.ph/file/cda47a7198892913cb90c.jpg",
+        "https://telegra.ph/file/c489b1d258b2d41bc4bbb.jpg",
+        "https://telegra.ph/file/0ac76fc13e2a0bea6d8df.jpg",
+        "https://telegra.ph/file/9caf7630a294c6f6888e3.jpg",
+        "https://telegra.ph/file/92bd8655108f1087f0bdf.jpg",
+        "https://telegra.ph/file/bc138626cbfa4fabcdbf6.jpg",
+        "https://telegra.ph/file/5cdee494e596857a0d1c1.jpg",
+        "https://telegra.ph/file/1863c2df58c5e4248043c.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

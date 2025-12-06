@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 12491,
+    "title": "[Salt Peanuts (にえあ)] SKB (とある科学の超電磁砲)",
+    "sourceUrl": "https://telegra.ph/Salt-Peanuts-にえあ-SKB-とある科学の超電磁砲-08-31",
+    "images": [
+        "https://telegra.ph/file/f0138102ef646da6545e8.jpg",
+        "https://telegra.ph/file/156cebdcb925599d06059.jpg",
+        "https://telegra.ph/file/a2b81d862974ce2c47551.jpg",
+        "https://telegra.ph/file/e28eae11898b0d8ff7759.jpg",
+        "https://telegra.ph/file/5d26cc7bc28990e8b7dfb.jpg",
+        "https://telegra.ph/file/aa5b261e576bd1e8fc470.jpg",
+        "https://telegra.ph/file/e5d8a376b93999379a873.jpg",
+        "https://telegra.ph/file/cf8353a5b065edc445f69.jpg",
+        "https://telegra.ph/file/8f5163ffe9379a22a6540.jpg",
+        "https://telegra.ph/file/da7cf75d473d912318f94.jpg",
+        "https://telegra.ph/file/e2ebecec479288a4c9a10.jpg",
+        "https://telegra.ph/file/5131f63d56caa20ac545a.jpg",
+        "https://telegra.ph/file/7a4a358e572f30ab6aeb8.jpg",
+        "https://telegra.ph/file/439892470db8438f162ff.jpg",
+        "https://telegra.ph/file/540fe622c1757cbd7921b.jpg",
+        "https://telegra.ph/file/70e4b3ba1382bb107b56a.jpg",
+        "https://telegra.ph/file/ab4fe8f535a78714622c6.jpg",
+        "https://telegra.ph/file/ccd301f40cd0164aa12b6.jpg",
+        "https://telegra.ph/file/103d2fd938b0e4bddacf9.jpg",
+        "https://telegra.ph/file/bff23e966ac4c062c8313.jpg",
+        "https://telegra.ph/file/8e6d6912ddc86f20d4bf7.jpg",
+        "https://telegra.ph/file/482e004382d80495816ba.jpg",
+        "https://telegra.ph/file/1048d6e83800f009f0bac.jpg",
+        "https://telegra.ph/file/1b89554fea559e2706355.jpg",
+        "https://telegra.ph/file/3af50fe4a44a1e7f054d8.jpg",
+        "https://telegra.ph/file/f1131c65c15fd1b7a9794.jpg",
+        "https://telegra.ph/file/dacdc0dc0b5879990cafc.jpg",
+        "https://telegra.ph/file/bd18d83f8b471cd973623.jpg",
+        "https://telegra.ph/file/6e4af6733dd5426680f50.jpg",
+        "https://telegra.ph/file/8457eabd1667063c6314f.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

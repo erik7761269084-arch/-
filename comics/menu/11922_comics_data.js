@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 11922,
+    "title": "(いっぱい割るのです…王子) [ZIGZAG (Hirno)] スピカ堕チ (千年戦争アイギス)",
+    "sourceUrl": "https://telegra.ph/いっぱい割るのです王子-ZIGZAG-Hirno-スピカ堕チ-千年戦争アイギス-08-31",
+    "images": [
+        "https://telegra.ph/file/f10aab624bd90e2af8701.jpg",
+        "https://telegra.ph/file/a247d1ce12213e4e97a98.jpg",
+        "https://telegra.ph/file/17531fd37746f59097c36.jpg",
+        "https://telegra.ph/file/6207e68ed9929d66cef65.jpg",
+        "https://telegra.ph/file/61a28b829eeb02ca90bbd.jpg",
+        "https://telegra.ph/file/145ad19d1d5529f5fb5d8.jpg",
+        "https://telegra.ph/file/748d7a63783eebf2df881.jpg",
+        "https://telegra.ph/file/ac03e8cfaa44504fc7c76.jpg",
+        "https://telegra.ph/file/e8f49ad70ea51facd0a75.jpg",
+        "https://telegra.ph/file/19b12219c9a5e7eb513a7.jpg",
+        "https://telegra.ph/file/6f92dfe63d273fd0a7bfb.jpg",
+        "https://telegra.ph/file/fd57af54eb08b9117efb4.jpg",
+        "https://telegra.ph/file/c9f567eef38afa69c3e7c.jpg",
+        "https://telegra.ph/file/35126428bc23d5191bdb1.jpg",
+        "https://telegra.ph/file/cc3442328f1f19ed7bc6d.jpg",
+        "https://telegra.ph/file/44cc764f019551bb6b4a1.jpg",
+        "https://telegra.ph/file/4d707b95714b8f579c6f8.jpg",
+        "https://telegra.ph/file/7903013037924a0b27be7.jpg",
+        "https://telegra.ph/file/34601944fcdd04ce349bc.jpg",
+        "https://telegra.ph/file/9d636a6d8ef83a01952c6.jpg",
+        "https://telegra.ph/file/943ffbeb771b0db86d379.jpg",
+        "https://telegra.ph/file/8112ef05c28f08fa77aa0.jpg",
+        "https://telegra.ph/file/307e315039a4ff5cc47da.jpg",
+        "https://telegra.ph/file/cbee6200aeb2eff64fa56.jpg",
+        "https://telegra.ph/file/42c3779679aaac85a0dbd.jpg",
+        "https://telegra.ph/file/88f77ff9387e20152a63d.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 13051,
+    "title": "[ぴょん吉] 私のきらいな人",
+    "sourceUrl": "https://telegra.ph/ぴょん吉-私のきらいな人-08-31",
+    "images": [
+        "https://telegra.ph/file/1154a608d23a3b434dc8e.jpg",
+        "https://telegra.ph/file/9a94f192be20d51c40cd2.jpg",
+        "https://telegra.ph/file/e233b07750fd6b3e9e519.jpg",
+        "https://telegra.ph/file/6f2732fb62ea1eb6756d0.jpg",
+        "https://telegra.ph/file/6b8b00da58f58b533179c.jpg",
+        "https://telegra.ph/file/30084651165d6ce0b45ce.jpg",
+        "https://telegra.ph/file/763b1d85d85dbdff59b98.jpg",
+        "https://telegra.ph/file/d449722959b7dbdc8b8c2.jpg",
+        "https://telegra.ph/file/90c53690f3a8ec8d95684.jpg",
+        "https://telegra.ph/file/bd4c2a3374fa70f41639e.jpg",
+        "https://telegra.ph/file/38b5c3c77cae68b9d26dd.jpg",
+        "https://telegra.ph/file/21181aae933b1859b48d3.jpg",
+        "https://telegra.ph/file/025c0efdac2858d936837.jpg",
+        "https://telegra.ph/file/25e48f8aa9ea934c55263.jpg",
+        "https://telegra.ph/file/1f2a3bc46001e15109113.jpg",
+        "https://telegra.ph/file/51e6625c92e1076a3f42d.jpg",
+        "https://telegra.ph/file/1e43cc05a88a5c7ef88c2.jpg",
+        "https://telegra.ph/file/a12d465b5859b1843f3ba.jpg",
+        "https://telegra.ph/file/02677ce8e8f836eb65074.jpg",
+        "https://telegra.ph/file/3207577c1466d2889733e.jpg",
+        "https://telegra.ph/file/6135bc8189944422e6aa9.jpg",
+        "https://telegra.ph/file/d2ee9ca97c01f9c2384af.jpg",
+        "https://telegra.ph/file/035ce903d911439490d79.jpg",
+        "https://telegra.ph/file/ef26510950632c19c3f08.jpg",
+        "https://telegra.ph/file/a1f867714be457b40c7f5.jpg",
+        "https://telegra.ph/file/6a6888dc108c2d9188ca3.jpg",
+        "https://telegra.ph/file/8dab4275e8d171e1d3994.jpg",
+        "https://telegra.ph/file/5cd636129b6a56299268b.jpg",
+        "https://telegra.ph/file/88d338072d9209dc8cfc3.jpg",
+        "https://telegra.ph/file/04104f575bcb934b358cb.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

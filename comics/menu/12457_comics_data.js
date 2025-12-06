@@ -1,0 +1,42 @@
+const comicData = {
+    "IDcode": 12457,
+    "title": "[カムリズム (鬼頭サケル)] ペコリーヌとショタきしくん (プリンセスコネクト!Re:Dive)",
+    "sourceUrl": "https://telegra.ph/カムリズム-鬼頭サケル-ペコリーヌとショタきしくん-プリンセスコネクトReDive-08-31",
+    "images": [
+        "https://telegra.ph/file/c02e750292f0b17fa7df8.jpg",
+        "https://telegra.ph/file/3cb411265affcc2b51249.jpg",
+        "https://telegra.ph/file/df5069492dc5a46d6f349.jpg",
+        "https://telegra.ph/file/a7a352203505da3242d89.jpg",
+        "https://telegra.ph/file/712bd41779aa2e8748b7b.jpg",
+        "https://telegra.ph/file/4002c58c9e3eebbf6b7bc.jpg",
+        "https://telegra.ph/file/5389c4fffc075d5b4c533.jpg",
+        "https://telegra.ph/file/c8664279943495c67bab8.jpg",
+        "https://telegra.ph/file/59b87eec7aa252120cd5d.jpg",
+        "https://telegra.ph/file/c67d9c4aca943119d7a65.jpg",
+        "https://telegra.ph/file/d643cdcdd1a72c7150c4f.jpg",
+        "https://telegra.ph/file/3008b78034906ba0477ef.jpg",
+        "https://telegra.ph/file/bf73da3a27b8b22aa9803.jpg",
+        "https://telegra.ph/file/47107430959b879c337d6.jpg",
+        "https://telegra.ph/file/a60c2890094a3f52a6ecd.jpg",
+        "https://telegra.ph/file/72d0da1f0ba864c008f1c.jpg",
+        "https://telegra.ph/file/a7d6ed292842f010b3c65.jpg",
+        "https://telegra.ph/file/296c8a77b60f285199e98.jpg",
+        "https://telegra.ph/file/703ec5cc1cf458b2405df.jpg",
+        "https://telegra.ph/file/5a627ba916acd2e4375a0.jpg",
+        "https://telegra.ph/file/b86e52fb2d098dfad21ff.jpg",
+        "https://telegra.ph/file/5dbfd2f533f5de4e313f6.jpg",
+        "https://telegra.ph/file/325493b5a57a931b84715.jpg",
+        "https://telegra.ph/file/e39e1846a346ce2a9e1a8.jpg",
+        "https://telegra.ph/file/842e5cc668dc4b7d0cf76.jpg",
+        "https://telegra.ph/file/8a9738825f92f1e281f5e.jpg",
+        "https://telegra.ph/file/761a37fdd4e90cb41906e.jpg",
+        "https://telegra.ph/file/26256e1322d0af3d634ca.jpg",
+        "https://telegra.ph/file/2901eee1d6efd5958e2f4.jpg",
+        "https://telegra.ph/file/b3429455c6db037faa7ab.jpg",
+        "https://telegra.ph/file/34b53ae294cf0a6a19214.jpg",
+        "https://telegra.ph/file/151d8ba5d2252dac212dd.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

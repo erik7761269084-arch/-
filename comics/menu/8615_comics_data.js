@@ -1,0 +1,41 @@
+const comicData = {
+    "IDcode": 8615,
+    "title": "[鳥海]「NTR」FGO巴御前",
+    "sourceUrl": "https://telegra.ph/鳥海NTRFGO巴御前-08-31",
+    "images": [
+        "https://telegra.ph/file/9d73c102d5b2ee2eb6f44.jpg",
+        "https://telegra.ph/file/ec5a51ec5acc3ab0cec85.jpg",
+        "https://telegra.ph/file/705c2984daa7d43f46902.jpg",
+        "https://telegra.ph/file/98a20c7947cdb22843b0f.jpg",
+        "https://telegra.ph/file/4da2b0c2d76454e0d9b32.jpg",
+        "https://telegra.ph/file/6472c6903a7c68aaf1271.jpg",
+        "https://telegra.ph/file/ffe8e9cd1fe003a91abfe.jpg",
+        "https://telegra.ph/file/94e6c1db94fbd9b6e618c.jpg",
+        "https://telegra.ph/file/63287f2792b39c3564088.jpg",
+        "https://telegra.ph/file/e0f1bad72d7bcb19e7851.jpg",
+        "https://telegra.ph/file/f623dca1c1d1d2d2cd388.jpg",
+        "https://telegra.ph/file/ade6af32b3e7944cbaf22.jpg",
+        "https://telegra.ph/file/630ba5db9db052c066345.jpg",
+        "https://telegra.ph/file/4e6b057b8103ae93b0397.jpg",
+        "https://telegra.ph/file/b61571b06a174505d4716.jpg",
+        "https://telegra.ph/file/aa027532db9b64cc10d7b.jpg",
+        "https://telegra.ph/file/799d61f8e712bf05acaa7.jpg",
+        "https://telegra.ph/file/92f28d328aeb530152587.jpg",
+        "https://telegra.ph/file/028ec453160466f242b99.jpg",
+        "https://telegra.ph/file/673506a414af4a80d43a4.jpg",
+        "https://telegra.ph/file/2381cb23d3eda4c476ef0.jpg",
+        "https://telegra.ph/file/4470a99bead85fff34e78.jpg",
+        "https://telegra.ph/file/742a0f95c8bd531d2220e.jpg",
+        "https://telegra.ph/file/8b2e8d71a915f51f474e9.jpg",
+        "https://telegra.ph/file/34956c7197e8d7da72064.jpg",
+        "https://telegra.ph/file/968639857e6a3f6cfe9f2.jpg",
+        "https://telegra.ph/file/55c5f84cd6b54adf0ac80.jpg",
+        "https://telegra.ph/file/578a16f9bcd8c05b1d98d.jpg",
+        "https://telegra.ph/file/4c19463c159815297c9de.jpg",
+        "https://telegra.ph/file/95ba07c7e19a72ca48ce7.jpg",
+        "https://telegra.ph/file/d5e042b32611ade959e48.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};

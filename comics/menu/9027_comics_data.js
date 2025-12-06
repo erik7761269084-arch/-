@@ -1,0 +1,40 @@
+const comicData = {
+    "IDcode": 9027,
+    "title": "(White Bank) 樱色轮回  (Honkai Impact 3rd)",
+    "sourceUrl": "https://telegra.ph/White-Bank-樱色轮回-Honkai-Impact-3rd-08-31",
+    "images": [
+        "https://telegra.ph/file/7e9f6edbdc90d6ad458d4.jpg",
+        "https://telegra.ph/file/90c84a2153f482354d1ae.jpg",
+        "https://telegra.ph/file/5553c8322939d7d19bfa5.jpg",
+        "https://telegra.ph/file/b274c07f1b909e4400125.jpg",
+        "https://telegra.ph/file/3f17603b55af849f9f1a4.jpg",
+        "https://telegra.ph/file/88c64d16f766a3f188def.jpg",
+        "https://telegra.ph/file/97003d88682edcd9d3365.jpg",
+        "https://telegra.ph/file/e3be5545d8418c9464ac5.jpg",
+        "https://telegra.ph/file/ef3b73710924b49d640dd.jpg",
+        "https://telegra.ph/file/f44c1fad9c87fcee70a36.jpg",
+        "https://telegra.ph/file/9e2f2c4398dc5fd3307ac.jpg",
+        "https://telegra.ph/file/b78cb098343c65ae956d1.jpg",
+        "https://telegra.ph/file/929c75453ca6f1a1fadb9.jpg",
+        "https://telegra.ph/file/9c5780e80a356db368fdf.jpg",
+        "https://telegra.ph/file/f0aaeeb02c8cc4ff4c0a8.jpg",
+        "https://telegra.ph/file/e2ba5ac32742846ddf2fc.jpg",
+        "https://telegra.ph/file/69b6e5d1337b7684c2586.jpg",
+        "https://telegra.ph/file/6328e3e05fe2357851e58.jpg",
+        "https://telegra.ph/file/e90497713f1886f66b3d1.jpg",
+        "https://telegra.ph/file/6eab67b2318ace85b5ef9.jpg",
+        "https://telegra.ph/file/b691c6a3bfbd6aec193c6.jpg",
+        "https://telegra.ph/file/fae7b94aa093d7fc79261.jpg",
+        "https://telegra.ph/file/041d49433d8f21c9e4c7e.jpg",
+        "https://telegra.ph/file/b3a7d456963d2e54e3624.jpg",
+        "https://telegra.ph/file/669c0e9d55c3bccf7885a.jpg",
+        "https://telegra.ph/file/45dac8855d29109138bee.jpg",
+        "https://telegra.ph/file/cdfcdf5d7c55feef3880f.jpg",
+        "https://telegra.ph/file/7cdc48bb34e6e45419ea3.jpg",
+        "https://telegra.ph/file/a99646b6811f9038ed735.jpg",
+        "https://telegra.ph/file/99e77851a72233e46c27a.jpg"
+    ],
+    "genres": [
+        "彩色"
+    ]
+};
