@@ -152,7 +152,7 @@ let MAX_PAGE = 1;
 
 async function loadMaxPage(){
   try{
-    const res = await fetch("https://yunvgong.com/GirlPhoto/category/stats.json");
+    const res = await fetch("https://yunvgong.com/GirlPhoto/category/cover_all_page/stats.json");
     const json = await res.json();
     MAX_PAGE = parseInt(json["all_page"]) || 1;
   }catch(e){
@@ -170,7 +170,7 @@ function initPage(){
   renderPagination(pageNumber);
 
   const script = document.createElement('script');
-  script.src = `https://yunvgong.com/GirlPhoto/category/all_page/page_${pageNumber}.js`;
+  script.src = `https://yunvgong.com/GirlPhoto/category/cover_all_page/cover_actresses_${pageNumber}.js`;
   script.onload = ()=>{
     if(typeof window.PAGE_DATA !== 'undefined'){
       renderAll(window.PAGE_DATA);
