@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>福利姬</title>
+<title>tag_AzurLane</title>
 <style>
 body {
     margin:0;
@@ -100,7 +100,7 @@ body {
     align-items:center;
     gap:4px;
 }
-.date::before { content:"📅"; }
+.date::before { content:"������"; }
 
 .pagination {
     display:flex;
@@ -152,9 +152,9 @@ let MAX_PAGE = 1;
 
 async function loadMaxPage(){
   try{
-    const res = await fetch("https://yunvgong.com/GirlPhoto/category/stats.json");
+    const res = await fetch("https://yunvgong.com/GirlPhoto/tag_all/stats.json");
     const json = await res.json();
-    MAX_PAGE = parseInt(json["all_page"]) || 1;
+    MAX_PAGE = parseInt(json["tag_AzurLane"]) || 1;
   }catch(e){
     console.error("stats.json 加载失败，使用默认 MAX_PAGE = 1");
   }
@@ -170,7 +170,7 @@ function initPage(){
   renderPagination(pageNumber);
 
   const script = document.createElement('script');
-  script.src = `https://yunvgong.com/GirlPhoto/category/all_page/page_${pageNumber}.js`;
+  script.src = `https://yunvgong.com/GirlPhoto/tag_all/tag_AzurLane/page_${pageNumber}.js`;
   script.onload = ()=>{
     if(typeof window.PAGE_DATA !== 'undefined'){
       renderAll(window.PAGE_DATA);
@@ -184,13 +184,19 @@ function initPage(){
 /* -------------------------------
             Header 载入
 -------------------------------- */
-fetch('header.html')
+fetch('../header.html') 
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
+    // ⭐ 手动加载 header.css
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '../header.css';
+    document.head.appendChild(link);
+
     const script = document.createElement('script');
-    script.src = 'header.js';
+    script.src = '../header.js';
     script.onload = () => {
       if (typeof initHeaderMenu === 'function') initHeaderMenu();
       if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
@@ -220,23 +226,23 @@ function renderAll(data){
   data.forEach(d=>{
     const a = Array.isArray(d.actress)?d.actress.join("、"):(d.actress||'未知');
     box.innerHTML += `
-    <div class="card" onclick="goPlay('${d.title_play_url || d.url}')">
-      <div style="position:relative;">
-        <img src="${d.cover_url || d.cover || 'https://via.placeholder.com/160x240?text=No+Cover'}">
-        <div class="actor">${a}</div>
-        <div class="card-type">${d.type||'未知'}</div>
-      </div>
-      <div class="card-info">
-        <div class="card-info-top">
-          <span class="idcode">${d.IDcode}</span>
-          <span class="title">${d.title}</span>
+      <div class="card" onclick="goPlay('${d.title_play_url}')">
+        <div style="position:relative;">
+          <img src="${d.cover_url || 'https://via.placeholder.com/320x180?text=No+Cover'}">
+          <div class="actor">${a}</div>
+          <div class="card-type">${d.type||'未知'}</div>
         </div>
-        <div class="card-info-bottom">
-          <div class="star">⭐⭐⭐⭐⭐</div>
-          <div class="date">${d.publish_date||''}</div>
+        <div class="card-info">
+          <div class="card-info-top">
+            <span class="idcode">${d.IDcode}</span>
+            <span class="title">${d.title}</span>
+          </div>
+          <div class="card-info-bottom">
+            <div class="star">⭐⭐⭐⭐⭐</div>
+            <div class="date">${d.publish_date}</div>
+          </div>
         </div>
       </div>
-    </div>
     `;
   });
 
