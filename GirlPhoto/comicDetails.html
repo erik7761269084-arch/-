@@ -4,145 +4,260 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>福利姬播放</title>
+
 <style>
-html, body { margin:0; padding:0; height:100%; overflow:hidden; background:#111; font-family:"Microsoft YaHei",sans-serif; }
-.container { width:100%; height:100%; display:flex; flex-direction:column; text-align:center; box-sizing:border-box; }
-h2 { font-size:22px; margin:10px; padding:5px; color:#fff; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
-.source a { color:#1e90ff; text-decoration:none; }
-#comicContainer { flex:1; display:flex; justify-content:center; align-items:center; overflow:hidden; position:relative; background:#111; cursor:grab; }
-img { display:block; max-width:100%; max-height:100%; transform-origin:top left; transition: transform 0.1s; user-select:none; pointer-events:all; }
-.nav-btn { position:fixed; top:50%; transform:translateY(-50%); background:rgba(0,0,0,0.5); border:none; color:#fff; font-size:24px; padding:10px 15px; cursor:pointer; border-radius:5px; z-index:999; }
-#prevBtn { left:10px; }
-#nextBtn { right:10px; }
-#pageNumber { position:fixed; bottom:10px; left:50%; transform:translateX(-50%); font-size:16px; color:#fff; background:rgba(0,0,0,0.5); padding:5px 10px; border-radius:10px; z-index:999; }
+html, body {
+    margin:0; padding:0; height:100%;
+    overflow:hidden; background:#111;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+.container{ width:100%; height:100%; display:flex; flex-direction:column; text-align:center; }
+
+/* 标题 */
+h2{
+    font-size:22px; margin:10px; color:#fff;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+
+/* 注释文字 */
+.source a{ color:#1e90ff; text-decoration:none; }
+
+/* 主图区 */
+#comicContainer{
+    flex:1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+    background:#111;
+    position:relative;
+}
+.comic-page{
+    max-width:100%;
+    max-height:100%;
+    display:none;
+    user-select:none;
+}
+
+/* 上下翻页按钮 */
+.nav-btn{
+    position:fixed; top:50%; transform:translateY(-50%);
+    padding:10px 15px; border:none; border-radius:6px;
+    color:#fff; font-size:24px; background:rgba(0,0,0,0.55);
+    cursor:pointer; z-index:999;
+}
+#prevBtn{ left:10px; }
+#nextBtn{ right:10px; }
+
+/* 底部中间控制条 */
+#bottomBar{
+    position:fixed;
+    bottom:0;
+    left:50%;
+    transform:translateX(-50%);
+    background:rgba(0,0,0,0.65);
+    padding:6px 20px;
+    border-radius:14px 14px 0 0;
+    color:#fff;
+    cursor:pointer;
+    z-index:1002;
+    display:flex;
+    gap:20px;
+    font-size:14px;
+    transition:bottom .35s;
+}
+
+/* 展开时整体上移 */
+#bottomBar.up{
+    bottom:110px;
+}
+
+/* 预览栏 */
+#previewBar{
+    position:fixed;
+    bottom:-120px;
+    left:0;
+    height:110px;
+    width:100%;
+    background:rgba(0,0,0,0.75);
+    display:flex;
+    align-items:center;
+    overflow-x:auto;
+    white-space:nowrap;
+    padding:5px;
+    transition:bottom .35s;
+    z-index:1000;
+}
+#previewBar.show{
+    bottom:0;
+}
+
+/* 缩略图 */
+.preview-thumb{
+    height:90px;
+    margin-right:6px;
+    border-radius:5px;
+    border:2px solid transparent;
+    cursor:pointer;
+    flex-shrink:0;
+}
+.preview-thumb.active{
+    border-color:#00ff90;
+}
 </style>
 </head>
 <body>
 
 <div class="container">
-  <h2 id="comicTitle"></h2>
-  <div class="source">
-    原文：<a id="comicSource" href="" target="_blank">Telegraph 原文</a>
-  </div>
-  <div id="comicContainer"></div>
+    <h2 id="comicTitle"></h2>
+    <div class="source">原文：<a id="comicSource" href="" target="_blank">Telegraph 原文</a></div>
+
+    <div id="comicContainer"></div>
 </div>
 
 <button id="prevBtn" class="nav-btn">&#8593;</button>
 <button id="nextBtn" class="nav-btn">&#8595;</button>
-<div id="pageNumber">1 / 1</div>
+
+<!-- 底部控制条：预览 | 页码 -->
+<div id="bottomBar">
+    <span id="previewToggle">预览 | <span id="pageNumber">1 / 1</span></span>
+</div>
+
+<div id="previewBar"></div>
 
 <script>
-// ------------------------
-// 获取 URL ?series 参数
-// ------------------------
-function getSeriesFromURL(){
-    const params = new URLSearchParams(window.location.search);
-    let series = parseInt(params.get('series'));
-    if(!series || series < 1) series = 1;
-    return series;
+/* 获取 series 参数 */
+function getSeries(){
+    const p=new URLSearchParams(location.search);
+    return Number(p.get("series")||1);
 }
+const seriesID=getSeries();
 
-const seriesID = getSeriesFromURL();
-
-// ------------------------
-// 动态加载 JS 文件
-// ------------------------
-function loadComicData(series){
-    return new Promise((resolve, reject)=>{
-        const script = document.createElement('script');
-        script.src = `https://yunvgong.com/GirlPhoto/menu/${series}_comics_data.js`; // 对应你生成的 JS 文件
-        script.onload = () => {
-            if(typeof comicData !== 'undefined'){
-                resolve(comicData);
-            } else {
-                reject(`漫画数据 ${series}_comics_data.js 未定义 comicData`);
-            }
-        };
-        script.onerror = ()=>reject(`加载漫画数据 ${series}_comics_data.js 失败`);
-        document.body.appendChild(script);
+/* 加载数据文件 */
+function loadComicData(){
+    return new Promise((resolve)=>{
+        const s=document.createElement("script");
+        s.src=`https://yunvgong.com/GirlPhoto/menu/${seriesID}_comics_data.js`;
+        s.onload=()=>resolve(comicData);
+        document.body.appendChild(s);
     });
 }
 
-// ------------------------
-// 渲染漫画
-// ------------------------
-function renderComic(data){
-    const container = document.getElementById("comicContainer");
-    document.getElementById("comicTitle").innerText = data.title;
-    document.getElementById("comicSource").href = data.sourceUrl;
+loadComicData().then(data=>{
+    initViewer(data);
+});
 
-    data.images.forEach(src=>{
-        const img = document.createElement("img");
-        img.src = src;
-        img.className = "comic-page";
+function initViewer(data){
+    const container=document.getElementById("comicContainer");
+    const preview=document.getElementById("previewBar");
+    const bottomBar=document.getElementById("bottomBar");
+    const toggle=document.getElementById("previewToggle");
+    const pageNumber=document.getElementById("pageNumber");
+
+    document.getElementById("comicTitle").innerText=data.title;
+    document.getElementById("comicSource").href=data.sourceUrl;
+
+    const pages=[];
+    const thumbs=[];
+    let current=0;
+
+    /* 主图 */
+    data.images.forEach((src,i)=>{
+        const img=document.createElement("img");
+        img.src=src;
+        img.className="comic-page";
         container.appendChild(img);
-
-        // 初始化缩放参数
-        img.scale = 1;
-        img.offsetX = 0;
-        img.offsetY = 0;
-
-        function updateTransform(){
-            img.style.transform = `translate(${img.offsetX}px, ${img.offsetY}px) scale(${img.scale})`;
-        }
-
-        // 鼠标滚轮缩放
-        img.addEventListener("wheel", e=>{
-            e.preventDefault();
-            const scaleAmount = e.deltaY < 0 ? 1.1 : 0.9;
-            img.scale *= scaleAmount;
-            const rect = img.getBoundingClientRect();
-            const dx = e.clientX - rect.left;
-            const dy = e.clientY - rect.top;
-            img.offsetX -= dx*(scaleAmount-1);
-            img.offsetY -= dy*(scaleAmount-1);
-            updateTransform();
-        });
-
-        // 拖动
-        let dragging=false, startX=0, startY=0;
-        img.addEventListener("mousedown", e=>{
-            dragging=true; startX=e.clientX-img.offsetX; startY=e.clientY-img.offsetY;
-            container.style.cursor="grabbing";
-        });
-        document.addEventListener("mousemove", e=>{
-            if(dragging){ img.offsetX=e.clientX-startX; img.offsetY=e.clientY-startY; updateTransform(); }
-        });
-        document.addEventListener("mouseup", ()=>{ dragging=false; container.style.cursor="grab"; });
-
-        // 双击重置
-        img.addEventListener("dblclick", ()=>{
-            img.scale=1; img.offsetX=0; img.offsetY=0; updateTransform();
-        });
+        pages.push(img);
     });
 
-    const pages = document.querySelectorAll(".comic-page");
-    let currentIndex = 0;
-    function showPage(index){
-        pages.forEach((img,i)=>{ img.style.display=(i===index)?"block":"none"; img.scale=1; img.offsetX=0; img.offsetY=0; img.style.transform=""; });
-        document.getElementById("pageNumber").innerText=`${index+1} / ${pages.length}`;
+    /* 缩略图 */
+    data.images.forEach((src,i)=>{
+        const t=document.createElement("img");
+        t.src=src;
+        t.className="preview-thumb";
+        t.onclick=()=>{
+            showPage(i);
+            showPreview();
+        };
+        preview.appendChild(t);
+        thumbs.push(t);
+    });
+
+    /* 显示页面 */
+    function showPage(i){
+        pages.forEach((img,k)=> img.style.display=(k===i?"block":"none"));
+        current=i;
+        pageNumber.innerText=`${i+1} / ${pages.length}`;
+        updateThumb(i);
     }
 
-    showPage(currentIndex);
+    function updateThumb(i){
+        thumbs.forEach((t,k)=> t.classList.toggle("active",k===i));
+        thumbs[i].scrollIntoView({behavior:"smooth", inline:"center"});
+    }
 
-    // 翻页逻辑
-    function prevPage(){ if(currentIndex>0) currentIndex--; showPage(currentIndex); }
-    function nextPage(){ if(currentIndex<pages.length-1) currentIndex++; showPage(currentIndex); }
+    showPage(0);
 
-    document.getElementById("prevBtn").addEventListener("click", prevPage);
-    document.getElementById("nextBtn").addEventListener("click", nextPage);
-    document.addEventListener("keydown", e=>{
-        if(["ArrowDown","PageDown","ArrowRight"].includes(e.key)) nextPage();
-        if(["ArrowUp","PageUp","ArrowLeft"].includes(e.key)) prevPage();
+    /* 翻页 */
+    document.getElementById("prevBtn").onclick=()=>{ if(current>0) showPage(current-1); };
+    document.getElementById("nextBtn").onclick=()=>{ if(current<pages.length-1) showPage(current+1); };
+
+    document.addEventListener("keydown",e=>{
+        if(["ArrowDown","PageDown","ArrowRight"].includes(e.key)){
+            if(current<pages.length-1) showPage(current+1);
+        }
+        if(["ArrowUp","PageUp","ArrowLeft"].includes(e.key)){
+            if(current>0) showPage(current-1);
+        }
     });
-}
 
-// ------------------------
-// 页面启动
-// ------------------------
-loadComicData(seriesID)
-.then(data=>renderComic(data))
-.catch(err=>console.error(err));
+    /* --- 自动隐藏预览栏 --- */
+    let hideTimer = null;
+
+    function resetHideTimer() {
+        if (hideTimer) clearTimeout(hideTimer);
+        hideTimer = setTimeout(() => {
+            hidePreview();
+        }, 2000);
+    }
+
+    function showPreview(){
+        preview.classList.add("show");
+        bottomBar.classList.add("up");
+        resetHideTimer();
+    }
+
+    function hidePreview(){
+        preview.classList.remove("show");
+        bottomBar.classList.remove("up");
+    }
+
+    toggle.onclick = () => {
+        if (preview.classList.contains("show")) hidePreview();
+        else showPreview();
+    };
+
+    /* 操作预览栏即重置计时 */
+    preview.addEventListener("mousemove", resetHideTimer);
+    preview.addEventListener("wheel", resetHideTimer);
+    preview.addEventListener("click", resetHideTimer);
+
+    /* 缩略图拖动 */
+    let dragging=false, sx=0, startLeft=0;
+    preview.addEventListener("mousedown",e=>{
+        dragging=true;
+        sx=e.pageX;
+        startLeft=preview.scrollLeft;
+        resetHideTimer();
+    });
+    document.addEventListener("mousemove",e=>{
+        if(dragging){
+            preview.scrollLeft = startLeft - (e.pageX - sx);
+            resetHideTimer();
+        }
+    });
+    document.addEventListener("mouseup",()=> dragging=false );
+}
 </script>
 
 </body>
