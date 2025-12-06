@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/25b5311741ad5b1a47702.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1567"
   },
   {
     "id": 4877,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1892e99814957ad57de20.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1566"
   },
   {
     "id": 4876,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5479439b00184aa5cf700.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1565"
   },
   {
     "id": 4875,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/37cfbe4d5f2c7e41530b6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1564"
   },
   {
     "id": 4874,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4ab47bbcc70798c30c87a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1563"
   },
   {
     "id": 4873,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1687fcd93c99f059457fa.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1562"
   },
   {
     "id": 4872,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3d3b8fb1ff54026848a6a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1561"
   },
   {
     "id": 4871,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/777b68de2f876de267506.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1560"
   },
   {
     "id": 4869,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e424e0f09dc92891c1acd.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1559"
   },
   {
     "id": 4868,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c5a6555d9982b5b38f677.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1558"
   },
   {
     "id": 4867,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/90db2ed087c18637bde19.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1557"
   },
   {
     "id": 4866,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3d4db6b9d3de58e9575f8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1556"
   },
   {
     "id": 4865,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/301d91be2f29a34433415.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1555"
   },
   {
     "id": 4864,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1b3694dcbe98365333bf0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1554"
   },
   {
     "id": 4863,
@@ -221,8 +305,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9e81f70140e598fbb578e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1553"
   },
   {
     "id": 4862,
@@ -236,8 +326,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/17f804b55e923a1cb028d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1552"
   },
   {
     "id": 4861,
@@ -251,7 +347,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Nara",
+        "img_url": "https://telegra.ph/file/247930e4e7eb6367aed9a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nara.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1551"
   }
 ];

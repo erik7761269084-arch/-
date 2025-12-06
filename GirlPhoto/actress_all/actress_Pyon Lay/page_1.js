@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://i.postimg.cc/TYTjJ83c/1-23.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pyon Lay",
+        "img_url": "https://i.postimg.cc/TYTjJ83c/1-23.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pyon Lay.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1849"
   }
 ];

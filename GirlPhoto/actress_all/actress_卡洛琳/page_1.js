@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1c112c8c4eaec7ba8059e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "卡洛琳",
+        "img_url": "https://telegra.ph/file/1c112c8c4eaec7ba8059e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_卡洛琳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6114"
   }
 ];

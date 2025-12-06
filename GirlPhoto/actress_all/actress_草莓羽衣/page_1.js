@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/03af537a8747524a3af94.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "草莓羽衣",
+        "img_url": "https://telegra.ph/file/03af537a8747524a3af94.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_草莓羽衣.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3631"
   }
 ];

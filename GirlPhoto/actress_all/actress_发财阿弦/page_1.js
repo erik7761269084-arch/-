@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/02/15_17.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "发财阿弦",
+        "img_url": "https://image.acg.lol/file/2025/06/02/15_17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_发财阿弦.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4861"
   }
 ];

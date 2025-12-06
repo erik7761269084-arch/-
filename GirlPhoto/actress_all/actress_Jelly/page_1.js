@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2b45ea2ce2a28da44eaa9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Jelly ",
+        "img_url": "https://telegra.ph/file/2b45ea2ce2a28da44eaa9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Jelly.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1144"
   }
 ];

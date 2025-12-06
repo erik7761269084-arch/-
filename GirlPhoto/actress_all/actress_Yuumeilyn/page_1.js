@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b0e2644164f36a680c628.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuumeilyn",
+        "img_url": "https://telegra.ph/file/b0e2644164f36a680c628.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuumeilyn.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2845"
   }
 ];

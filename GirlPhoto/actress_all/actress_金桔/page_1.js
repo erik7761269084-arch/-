@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/12/03/1-242e9cb9a2db72988d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "金桔",
+        "img_url": "https://image.acg.lol/file/2025/03/14/1-44.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金桔.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5807"
   },
   {
     "id": 11873,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/03/14/1-44.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "金桔",
+        "img_url": "https://image.acg.lol/file/2025/03/14/1-44.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金桔.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5806"
   }
 ];

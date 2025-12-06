@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/17446394d8c0685ce26b6.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Summertime",
+        "img_url": "https://telegra.ph/file/17446394d8c0685ce26b6.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Summertime.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2288"
   }
 ];

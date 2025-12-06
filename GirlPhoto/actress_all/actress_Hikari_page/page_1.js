@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/705bdc40025e1a4e48ac3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hikari_page",
+        "img_url": "https://telegra.ph/file/1171d0f80e32a793666de.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hikari_page.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4"
   },
   {
     "id": 9867,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/02108b123ab41e584a912.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hikari_page",
+        "img_url": "https://telegra.ph/file/1171d0f80e32a793666de.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hikari_page.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3"
   },
   {
     "id": 8756,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3d94be795d586c4766f0d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hikari_page",
+        "img_url": "https://telegra.ph/file/1171d0f80e32a793666de.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hikari_page.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2"
   },
   {
     "id": 5360,
@@ -56,7 +74,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1171d0f80e32a793666de.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hikari_page",
+        "img_url": "https://telegra.ph/file/1171d0f80e32a793666de.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hikari_page.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6fd253911dd5ce34dcbe0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Peachmilky",
+        "img_url": "https://telegra.ph/file/df0d82f9836d94df645de.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Peachmilky.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1766"
   },
   {
     "id": 5098,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/df0d82f9836d94df645de.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Peachmilky",
+        "img_url": "https://telegra.ph/file/df0d82f9836d94df645de.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Peachmilky.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1765"
   }
 ];

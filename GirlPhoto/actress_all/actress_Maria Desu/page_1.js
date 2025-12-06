@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5b57c7109e7b1e0c0e106.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Maria Desu",
+        "img_url": "https://telegra.ph/file/cd5598045c5113cb06e30.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Maria Desu.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1339"
   },
   {
     "id": 3762,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/732fad3db2d661ed7826b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Maria Desu",
+        "img_url": "https://telegra.ph/file/cd5598045c5113cb06e30.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Maria Desu.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1338"
   },
   {
     "id": 3751,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/cd5598045c5113cb06e30.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Maria Desu",
+        "img_url": "https://telegra.ph/file/cd5598045c5113cb06e30.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Maria Desu.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1337"
   }
 ];

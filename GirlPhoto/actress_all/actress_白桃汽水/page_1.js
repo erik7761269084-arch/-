@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f4682f85fb176bc02a09d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白桃汽水",
+        "img_url": "https://telegra.ph/file/f4682f85fb176bc02a09d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白桃汽水.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3123"
   }
 ];

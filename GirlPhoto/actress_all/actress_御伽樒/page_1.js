@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b40bd86f44bd5dc4c90a2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "御伽樒",
+        "img_url": "https://telegra.ph/file/89686d9b56cac648641a8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_御伽樒.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13508"
   },
   {
     "id": 3893,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f7bc6b424fc394d3600b1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "御伽樒",
+        "img_url": "https://telegra.ph/file/89686d9b56cac648641a8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_御伽樒.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13507"
   },
   {
     "id": 3892,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/24c074798fcbe70becf98.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "御伽樒",
+        "img_url": "https://telegra.ph/file/89686d9b56cac648641a8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_御伽樒.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13506"
   },
   {
     "id": 3891,
@@ -56,7 +74,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/89686d9b56cac648641a8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "御伽樒",
+        "img_url": "https://telegra.ph/file/89686d9b56cac648641a8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_御伽樒.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13505"
   }
 ];

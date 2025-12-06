@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/edc2de7169370b53144ce.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "古阿扎",
+        "img_url": "https://i.postimg.cc/LsRhLbhF/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_古阿扎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5152"
   },
   {
     "id": 11146,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/07/06/1-99.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "古阿扎",
+        "img_url": "https://i.postimg.cc/LsRhLbhF/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_古阿扎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5151"
   },
   {
     "id": 11145,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://i.postimg.cc/LsRhLbhF/1-1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "古阿扎",
+        "img_url": "https://i.postimg.cc/LsRhLbhF/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_古阿扎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5150"
   }
 ];

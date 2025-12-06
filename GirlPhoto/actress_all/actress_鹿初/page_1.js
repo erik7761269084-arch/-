@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "鹿初",
+        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6497"
   },
   {
     "id": 12638,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b83fc2e15f01d83375799.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "鹿初",
+        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6496"
   },
   {
     "id": 12637,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/87753857bbbcf97879ae8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "鹿初",
+        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6495"
   },
   {
     "id": 12636,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c5f0ea51f0168f943b7b0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "鹿初",
+        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6494"
   },
   {
     "id": 12635,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/03268fdeb238afd7e9e78.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "鹿初",
+        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6493"
   },
   {
     "id": 12634,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7e72944f87e903f5fdca1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "鹿初",
+        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6492"
   },
   {
     "id": 12633,
@@ -101,7 +137,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "鹿初",
+        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6491"
   }
 ];

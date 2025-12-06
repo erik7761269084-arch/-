@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/cf278f20a8b5948b7322d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1896"
   },
   {
     "id": 5242,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/959c6d2eb69c4dcda1e00.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1895"
   },
   {
     "id": 5241,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fb421ed3c54994a10aa38.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1894"
   },
   {
     "id": 5240,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7aa55f9f49bd54aa5459e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1893"
   },
   {
     "id": 5239,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ea8d168a37e831b3772a1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1892"
   },
   {
     "id": 5238,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/03787e4f825714f7b5df1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1891"
   },
   {
     "id": 5237,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2858ddd779cf2f09ec73b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1890"
   },
   {
     "id": 5235,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bc0ff2d55e38d53f42b3f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1889"
   },
   {
     "id": 5234,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3a584f725a2a7566aca97.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1888"
   },
   {
     "id": 5233,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/765f8a194a916476817da.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1887"
   },
   {
     "id": 5232,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ff9f61a441ba4c84f4d75.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1886"
   },
   {
     "id": 5231,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1ef4d95318dc23a0b2c6a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1885"
   },
   {
     "id": 5230,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d7cf34474147f770c2043.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1884"
   },
   {
     "id": 5229,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/44fa07ef1566506ef0c9c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1883"
   },
   {
     "id": 5228,
@@ -221,7 +305,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RINA",
+        "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1882"
   }
 ];

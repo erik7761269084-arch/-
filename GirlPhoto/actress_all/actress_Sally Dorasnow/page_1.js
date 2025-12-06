@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d013be1d75bc110835425.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2141"
   },
   {
     "id": 6926,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c11bae37bb2e725a6f553.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2140"
   },
   {
     "id": 6914,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7df8c6567af7e0ea93a5c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2139"
   },
   {
     "id": 6903,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0d8bc1b34eaeae8de6c54.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2138"
   },
   {
     "id": 6892,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/16e34419266f187b353fb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2137"
   },
   {
     "id": 6881,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/44e785139b712fccf58f1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2136"
   },
   {
     "id": 6870,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b240db66264cef0b8b7bc.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2135"
   },
   {
     "id": 6859,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/232fd3d3a9bac26e4073a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2134"
   },
   {
     "id": 6848,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4f7a73d9515d623639870.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2133"
   },
   {
     "id": 6837,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6cd1a7faaa7c0052279c8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2132"
   },
   {
     "id": 6826,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2131"
   },
   {
     "id": 6815,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/efff3acdc3bfb73cdab4c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2130"
   },
   {
     "id": 6803,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/805851ad2de65a6c8cca6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2129"
   },
   {
     "id": 6792,
@@ -206,7 +284,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Sally Dorasnow",
+        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2128"
   }
 ];

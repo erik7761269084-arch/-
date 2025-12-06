@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2302ec0b7afd27eea5f8b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MiMi Chan",
+        "img_url": "https://telegra.ph/file/e823d6eaf4db090319662.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MiMi Chan.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1381"
   },
   {
     "id": 4229,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3f4186378f3df6e27ca0d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MiMi Chan",
+        "img_url": "https://telegra.ph/file/e823d6eaf4db090319662.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MiMi Chan.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1380"
   },
   {
     "id": 4217,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e823d6eaf4db090319662.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MiMi Chan",
+        "img_url": "https://telegra.ph/file/e823d6eaf4db090319662.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MiMi Chan.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1379"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f09a7fa0d147468c1d504.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "恋恋艾妮",
+        "img_url": "https://telegra.ph/file/306e8f7b72545833bc4b3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_恋恋艾妮.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6159"
   },
   {
     "id": 12263,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/306e8f7b72545833bc4b3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "恋恋艾妮",
+        "img_url": "https://telegra.ph/file/306e8f7b72545833bc4b3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_恋恋艾妮.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6158"
   }
 ];

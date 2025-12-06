@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b96b418a6b196727581c5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1164"
   },
   {
     "id": 1819,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f36a0d8b9d52cb6eb03fc.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1163"
   },
   {
     "id": 1808,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4b370fe38284291e07fa8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1162"
   },
   {
     "id": 1797,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0c5553b54a873df111ea4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1161"
   },
   {
     "id": 1786,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ba68e04dc9b0eda4ae1a8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1160"
   },
   {
     "id": 1774,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8ceb6178ef52089dadfe9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1159"
   },
   {
     "id": 1763,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8662fc3f4f5e9493d56dc.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1158"
   },
   {
     "id": 1752,
@@ -116,7 +158,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Joyce",
+        "img_url": "https://telegra.ph/file/33554c632f00f60f58961.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Joyce.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1157"
   }
 ];

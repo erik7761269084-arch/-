@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/39c73eef15f5ac670a6a4.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "慵懒逐浪",
+        "img_url": "https://telegra.ph/file/39c73eef15f5ac670a6a4.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_慵懒逐浪.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13044"
   }
 ];

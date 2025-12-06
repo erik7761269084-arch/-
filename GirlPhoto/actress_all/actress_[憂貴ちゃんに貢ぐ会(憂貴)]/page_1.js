@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1799c08a58b1c493986fe.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9"
   },
   {
     "id": 15419,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bd8fb83fa0ad7f1c7f592.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8"
   },
   {
     "id": 14308,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7"
   },
   {
     "id": 5137,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4c8824eacc62d975d281c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=17"
   },
   {
     "id": 5026,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/595cae31bb421175eb51b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=16"
   },
   {
     "id": 4915,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b0dc53f8b73e3a01f1dd3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=15"
   },
   {
     "id": 4804,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f927f2003a687aa1c4001.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=14"
   },
   {
     "id": 4441,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0b42a6c538cb5f6739519.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13"
   },
   {
     "id": 3330,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/22937e3934c160dd034cb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12"
   },
   {
     "id": 2220,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/49abfa0bc0de6fe96f0cc.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11"
   },
   {
     "id": 1110,
@@ -161,7 +221,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/cb2d5d19bcdad0217c179.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/357787b8c477852cc67b3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "雪見きゆ",
+        "img_url": "https://telegra.ph/file/d88d284fac63e3a1af983.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_雪見きゆ.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11810"
   },
   {
     "id": 2007,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d88d284fac63e3a1af983.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "雪見きゆ",
+        "img_url": "https://telegra.ph/file/d88d284fac63e3a1af983.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_雪見きゆ.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11809"
   }
 ];

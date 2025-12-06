@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/93c590cc5e82df6d878a1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46"
   },
   {
     "id": 10533,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/81e4aed01a07cbc0523e3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45"
   },
   {
     "id": 10422,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9ba362ae70c26edeb182b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44"
   },
   {
     "id": 10311,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6acca3c267678029c5d8e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43"
   },
   {
     "id": 10200,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c73a287467112b30f95f0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42"
   },
   {
     "id": 10089,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0f0ce7b3d186257e1c603.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41"
   },
   {
     "id": 9978,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2f622c35eb704c572936b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40"
   },
   {
     "id": 9866,
@@ -116,7 +158,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Asagiriai（愛ちゃん）",
+        "img_url": "https://telegra.ph/file/1e8f017d0a7c4de608746.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Asagiriai（愛ちゃん）.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=39"
   }
 ];

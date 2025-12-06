@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8bd3f1a907ff74bb57bc7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2326"
   },
   {
     "id": 8006,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0fefee4957d34049b9563.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2325"
   },
   {
     "id": 8005,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b5255cdca96f1d1891cdf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2324"
   },
   {
     "id": 8004,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/527006f92f28a12b48024.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2323"
   },
   {
     "id": 8003,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a62830a469a29dc563792.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2322"
   },
   {
     "id": 8002,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/76d2cb8b7fb911166f4e0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2321"
   },
   {
     "id": 8001,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a2e6567bdedfac17e78e2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2320"
   },
   {
     "id": 7999,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c2020eef424027f9ed333.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2319"
   },
   {
     "id": 7998,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a0e9e1119890d9bdc36ef.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2318"
   },
   {
     "id": 7997,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/900a2b2c171003f9e3535.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2317"
   },
   {
     "id": 7996,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a6c8d6a61236f9a1093d3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2316"
   },
   {
     "id": 7995,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1d20a10596fa42161f9d1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2315"
   },
   {
     "id": 7994,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2314"
   },
   {
     "id": 7993,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2313"
   },
   {
     "id": 7992,
@@ -221,8 +305,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4a887976e1a2f866b64f3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2312"
   },
   {
     "id": 7991,
@@ -236,8 +326,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6728ff92df0a88deb5e6a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2311"
   },
   {
     "id": 7990,
@@ -251,8 +347,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e424e0f09dc92891c1acd.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2310"
   },
   {
     "id": 7988,
@@ -266,8 +368,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0cfdb6ad68470dc6e4738.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2309"
   },
   {
     "id": 7987,
@@ -281,8 +389,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7029b91f36a1c4fcd28ee.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2308"
   },
   {
     "id": 7986,
@@ -296,8 +410,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2307"
   },
   {
     "id": 7985,
@@ -311,8 +431,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0c5904a2df3a6bf2204ee.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2306"
   },
   {
     "id": 7984,
@@ -326,8 +452,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/aec13766c05232598f3c5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2305"
   },
   {
     "id": 7983,
@@ -341,8 +473,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/75cad26e8cef968d7c8a5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2304"
   },
   {
     "id": 7982,
@@ -356,7 +494,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Taeri",
+        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2303"
   }
 ];

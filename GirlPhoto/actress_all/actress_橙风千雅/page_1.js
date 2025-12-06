@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/add368c004abf8703aed4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "橙风千雅",
+        "img_url": "https://image.acg.lol/file/2024/09/24/1-56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_橙风千雅.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3683"
   },
   {
     "id": 9513,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9c71451e5c69d224a996c.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "橙风千雅",
+        "img_url": "https://image.acg.lol/file/2024/09/24/1-56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_橙风千雅.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3682"
   },
   {
     "id": 9512,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/09/24/1-56.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "橙风千雅",
+        "img_url": "https://image.acg.lol/file/2024/09/24/1-56.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_橙风千雅.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3681"
   }
 ];

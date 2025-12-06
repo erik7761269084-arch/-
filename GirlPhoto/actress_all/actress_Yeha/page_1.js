@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b712feab191ec089f0aea.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yeha",
+        "img_url": "https://telegra.ph/file/20a12079f8de0de03de1b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeha.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2694"
   },
   {
     "id": 8414,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/20a12079f8de0de03de1b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yeha",
+        "img_url": "https://telegra.ph/file/20a12079f8de0de03de1b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeha.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2693"
   }
 ];

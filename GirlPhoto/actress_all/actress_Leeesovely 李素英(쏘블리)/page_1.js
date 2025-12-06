@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/01b37e21723132325e10d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1318"
   },
   {
     "id": 3529,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b68bcdf54eb90c519d26b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1317"
   },
   {
     "id": 3518,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/06f0239bdac69e90458d2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1316"
   },
   {
     "id": 3507,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1315"
   },
   {
     "id": 3496,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5746f6dc63a4da0cd4d67.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1314"
   },
   {
     "id": 3485,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5b507becb8f219ffe2ee5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1313"
   },
   {
     "id": 3474,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/463573c5625fe48c4f202.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1312"
   },
   {
     "id": 3463,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fb708a04524bca8c2e56b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1311"
   },
   {
     "id": 3452,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a455ce1d49d841929d5ec.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1310"
   },
   {
     "id": 3440,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c1667f65ebd13ce44d00d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1309"
   },
   {
     "id": 3429,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/379eb7f88c28606ba39e7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1308"
   },
   {
     "id": 3418,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/59bcd8bf4d5745722f29c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1307"
   },
   {
     "id": 3407,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/90953618600d62e6254cf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1306"
   },
   {
     "id": 3396,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/987bc4c95792f9bd8a4e0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1305"
   },
   {
     "id": 3385,
@@ -221,7 +305,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Leeesovely 李素英(쏘블리)",
+        "img_url": "https://telegra.ph/file/95a27fe8d2b31de61e60e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Leeesovely 李素英(쏘블리).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1304"
   }
 ];

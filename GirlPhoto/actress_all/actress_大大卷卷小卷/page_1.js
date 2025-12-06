@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/17b8071cc2b5271190b06.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "大大卷卷小卷",
+        "img_url": "https://telegra.ph/file/bf6fab4051a79107c8a4d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_大大卷卷小卷.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4207"
   },
   {
     "id": 10096,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bf6fab4051a79107c8a4d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "大大卷卷小卷",
+        "img_url": "https://telegra.ph/file/bf6fab4051a79107c8a4d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_大大卷卷小卷.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4206"
   }
 ];

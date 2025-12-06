@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/19b4e07b0a3c9a55b8161.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "McDonald_麥當勞",
+        "img_url": "https://telegra.ph/file/19b4e07b0a3c9a55b8161.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_McDonald_麥當勞.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1340"
   }
 ];

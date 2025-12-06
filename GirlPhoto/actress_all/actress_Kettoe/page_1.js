@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0dd591b3ddd19b26b4193.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kettoe",
+        "img_url": "https://telegra.ph/file/4edb88ecaa0de5e64b5d6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kettoe.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1214"
   },
   {
     "id": 2375,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/392a6a59b8f1c2d3d405a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kettoe",
+        "img_url": "https://telegra.ph/file/4edb88ecaa0de5e64b5d6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kettoe.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1213"
   },
   {
     "id": 2364,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4edb88ecaa0de5e64b5d6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kettoe",
+        "img_url": "https://telegra.ph/file/4edb88ecaa0de5e64b5d6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kettoe.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1212"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9ff09e1abad22a2743855.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuki亭",
+        "img_url": "https://telegra.ph/file/a7a08e6368924cb510cee.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuki亭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2716"
   },
   {
     "id": 8439,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fdc1325087c07cde8cfee.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuki亭",
+        "img_url": "https://telegra.ph/file/a7a08e6368924cb510cee.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuki亭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2715"
   },
   {
     "id": 8438,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/991ea4d3a724cbb4c30f4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuki亭",
+        "img_url": "https://telegra.ph/file/a7a08e6368924cb510cee.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuki亭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2714"
   },
   {
     "id": 8437,
@@ -56,7 +74,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a7a08e6368924cb510cee.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuki亭",
+        "img_url": "https://telegra.ph/file/a7a08e6368924cb510cee.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuki亭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2713"
   }
 ];

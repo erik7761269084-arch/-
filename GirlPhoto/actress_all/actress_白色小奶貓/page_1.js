@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9ce81a799fcb738956208.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白色小奶貓",
+        "img_url": "https://telegra.ph/file/9ce81a799fcb738956208.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白色小奶貓.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3122"
   }
 ];

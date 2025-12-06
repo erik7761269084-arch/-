@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3c96876165c40ce010c08.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1848"
   },
   {
     "id": 5189,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9a4505a6b9d83624843fb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1847"
   },
   {
     "id": 5188,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a8c3dd7a00bb12c800bce.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1846"
   },
   {
     "id": 5187,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9a4505a6b9d83624843fb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1845"
   },
   {
     "id": 5186,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4d073ac8bd254cdaa1ad3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1844"
   },
   {
     "id": 5185,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/77e406d54930d869d996e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1843"
   },
   {
     "id": 5184,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ba9e090be21148d451bff.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1842"
   },
   {
     "id": 5183,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4a9034a7fb98baa578d19.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1841"
   },
   {
     "id": 5182,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c284927b9cc239c351db7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1840"
   },
   {
     "id": 5180,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9a4505a6b9d83624843fb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1839"
   },
   {
     "id": 5179,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/90df23e7c11ea9a7fd585.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1838"
   },
   {
     "id": 5178,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0172171ea33eb65b5a1e1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1837"
   },
   {
     "id": 5177,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/85346b8122a839710f899.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1836"
   },
   {
     "id": 5176,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/14e8cdf56771acfec707d.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1835"
   },
   {
     "id": 5175,
@@ -221,8 +305,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/08b22ce38a02f785f08e5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1834"
   },
   {
     "id": 5174,
@@ -236,8 +326,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c2e07d77df0eee4259319.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1833"
   },
   {
     "id": 5173,
@@ -251,8 +347,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/34e7f022d8090cd27d182.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1832"
   },
   {
     "id": 5172,
@@ -266,8 +368,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3a7729922b093fb90ca82.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1831"
   },
   {
     "id": 5171,
@@ -281,8 +389,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b703deabb68b216250133.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1830"
   },
   {
     "id": 5169,
@@ -296,8 +410,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6afd2120de520c9341d3d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1829"
   },
   {
     "id": 5168,
@@ -311,7 +431,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1828"
   }
 ];

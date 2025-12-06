@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/943f0ae52ef15fd978387.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "w百合欧皇子w",
+        "img_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_w百合欧皇子w.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2678"
   },
   {
     "id": 8396,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2803933d62567605faa49.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "w百合欧皇子w",
+        "img_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_w百合欧皇子w.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2677"
   },
   {
     "id": 8395,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e4c122af98a74d44d38da.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "w百合欧皇子w",
+        "img_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_w百合欧皇子w.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2676"
   },
   {
     "id": 8394,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1bd485c1bb17d574f4321.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "w百合欧皇子w",
+        "img_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_w百合欧皇子w.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2675"
   },
   {
     "id": 8393,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/345a5aa1f23c7e02a27e8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "w百合欧皇子w",
+        "img_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_w百合欧皇子w.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2674"
   },
   {
     "id": 8392,
@@ -86,7 +116,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "w百合欧皇子w",
+        "img_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_w百合欧皇子w.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2673"
   }
 ];

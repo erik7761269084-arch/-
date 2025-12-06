@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c9715d11030879d17d756.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2692"
   },
   {
     "id": 8412,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ab9738ca6856d6d40c3ba.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2691"
   },
   {
     "id": 8411,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/373d417d36f4dea7372c3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2690"
   },
   {
     "id": 8409,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/373d417d36f4dea7372c3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2689"
   },
   {
     "id": 8408,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a198fb522ac5db788502b.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2688"
   },
   {
     "id": 8407,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/960c7355dff5af76cc81d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2687"
   },
   {
     "id": 8406,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2579a57514506bb454516.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2686"
   },
   {
     "id": 8405,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/84b839137686c64bdf8ee.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2685"
   },
   {
     "id": 8404,
@@ -131,7 +179,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Ye-Eun (손예은)",
+        "img_url": "https://telegra.ph/file/5e69d93133204a1b6132d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Ye-Eun (손예은).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2684"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/432cef1dc26830850b189.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=800"
   },
   {
     "id": 14306,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/464f1d2f2f56b688ba87f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=799"
   },
   {
     "id": 14295,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6dfb59d0b652eb38400b6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=798"
   },
   {
     "id": 14284,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7eefbead0e7fbe15e758d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=797"
   },
   {
     "id": 14273,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bffe19b3f84855d25aa5a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=796"
   },
   {
     "id": 14262,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/39d70b549ba2ac93dc922.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=795"
   },
   {
     "id": 14251,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5fd0bd56c8fefc972f0a2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=794"
   },
   {
     "id": 14240,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6fa8ec10775d2f0bde30c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=793"
   },
   {
     "id": 14229,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2525f18deab935782c49d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=792"
   },
   {
     "id": 14218,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/be1d36004d972ae2e282e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=791"
   },
   {
     "id": 14207,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f04c84aae4f752fe979fa.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=790"
   },
   {
     "id": 14195,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e705b109857b5c43fc596.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=789"
   },
   {
     "id": 14184,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b55c2905e2c4fd013315f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=788"
   },
   {
     "id": 14173,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5023d16ff53dd07b17125.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=787"
   },
   {
     "id": 14162,
@@ -221,8 +305,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bcd09f02ee887050f8b02.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=786"
   },
   {
     "id": 14151,
@@ -236,8 +326,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/24036a53fb0486edbe90b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=785"
   },
   {
     "id": 14140,
@@ -251,8 +347,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6093b9a23ae58efc7f1e5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=784"
   },
   {
     "id": 14129,
@@ -266,8 +368,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/913999745fcc270b04aa2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=783"
   },
   {
     "id": 14118,
@@ -281,8 +389,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/354be9f8faff17a58ec67.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=782"
   },
   {
     "id": 14107,
@@ -296,8 +410,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/dbebb5d0ec7a74f64c9bf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=781"
   },
   {
     "id": 14096,
@@ -311,8 +431,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/df9718b4ee6059f474372.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=780"
   },
   {
     "id": 14084,
@@ -326,8 +452,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/be3371dd883d002c37e94.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=779"
   },
   {
     "id": 14073,
@@ -341,8 +473,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c54bd733da52608917301.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=778"
   },
   {
     "id": 14062,
@@ -356,7 +494,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Fushii_海堂",
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=777"
   }
 ];

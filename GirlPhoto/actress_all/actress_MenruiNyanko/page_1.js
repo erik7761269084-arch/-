@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e87191f197f1130b2042d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MenruiNyanko",
+        "img_url": "https://telegra.ph/file/7fbe4bdb9ea2d0597942a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MenruiNyanko.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1343"
   },
   {
     "id": 3807,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2c16a81088436b1446e06.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MenruiNyanko",
+        "img_url": "https://telegra.ph/file/7fbe4bdb9ea2d0597942a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MenruiNyanko.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1342"
   },
   {
     "id": 3796,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7fbe4bdb9ea2d0597942a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MenruiNyanko",
+        "img_url": "https://telegra.ph/file/7fbe4bdb9ea2d0597942a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MenruiNyanko.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1341"
   }
 ];

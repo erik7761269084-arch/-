@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3dc82f8682fd831087b5a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Umeko J March",
+        "img_url": "https://telegra.ph/file/3dc82f8682fd831087b5a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Umeko J March.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2428"
   }
 ];

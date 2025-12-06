@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "赤西夜夜",
+        "img_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_赤西夜夜.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3691"
   }
 ];

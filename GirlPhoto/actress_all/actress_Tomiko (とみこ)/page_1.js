@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a23e4628d4d35e1df977a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Tomiko (とみこ)",
+        "img_url": "https://telegra.ph/file/b230d8964c63344033233.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Tomiko (とみこ).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2422"
   },
   {
     "id": 8113,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5ffdbc4ab88cc2fe0cd53.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Tomiko (とみこ)",
+        "img_url": "https://telegra.ph/file/b230d8964c63344033233.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Tomiko (とみこ).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2421"
   },
   {
     "id": 8112,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b230d8964c63344033233.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Tomiko (とみこ)",
+        "img_url": "https://telegra.ph/file/b230d8964c63344033233.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Tomiko (とみこ).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2420"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/439384a20ed11058bdf64.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Seoyool",
+        "img_url": "https://telegra.ph/file/9a7ecb6891d4e2ae49b5d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Seoyool.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2182"
   },
   {
     "id": 7381,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ce6a2967102cfde73ef83.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Seoyool",
+        "img_url": "https://telegra.ph/file/9a7ecb6891d4e2ae49b5d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Seoyool.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2181"
   },
   {
     "id": 7370,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b31cef5d459b5735ca8c8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Seoyool",
+        "img_url": "https://telegra.ph/file/9a7ecb6891d4e2ae49b5d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Seoyool.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2180"
   },
   {
     "id": 7358,
@@ -56,7 +74,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9a7ecb6891d4e2ae49b5d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Seoyool",
+        "img_url": "https://telegra.ph/file/9a7ecb6891d4e2ae49b5d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Seoyool.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2179"
   }
 ];

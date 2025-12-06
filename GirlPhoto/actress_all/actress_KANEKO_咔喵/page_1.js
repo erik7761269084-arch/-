@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c6ba405dd20fd8be21283.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1192"
   },
   {
     "id": 2130,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ad44c618af92f4bac8b9c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1191"
   },
   {
     "id": 2119,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/eb7438061d70f31a0046d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1190"
   },
   {
     "id": 2107,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/86ee413756abe8c628521.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1189"
   },
   {
     "id": 2096,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7762a24e5876b92cd5310.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1188"
   },
   {
     "id": 2085,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/211dd6463dc0ccf57290c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1187"
   },
   {
     "id": 2074,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/39b9c17c0005aaa86971e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1186"
   },
   {
     "id": 2063,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/11/12/-----41.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1185"
   },
   {
     "id": 2052,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/04/03/1-19329c8d88dd34947.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1184"
   },
   {
     "id": 2041,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/04/09/1-34.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1183"
   },
   {
     "id": 2030,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/04/18/1-2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1182"
   },
   {
     "id": 2019,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/05/01/1-3812d7028e54575a5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1181"
   },
   {
     "id": 2008,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/05/21/1-1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1180"
   },
   {
     "id": 1996,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/05/28/1-1bb2e5b29db60d869.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1179"
   },
   {
     "id": 1985,
@@ -221,8 +305,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/20/1-1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1178"
   },
   {
     "id": 1974,
@@ -236,7 +326,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "KANEKO_咔喵",
+        "img_url": "https://image.acg.lol/file/2025/06/29/1-14f1233265b43fc14.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_KANEKO_咔喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1177"
   }
 ];

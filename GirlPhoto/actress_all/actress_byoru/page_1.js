@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/899615cc7ee64ff8a87c5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=434"
   },
   {
     "id": 10244,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a5758249d14b2fad486ce.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=433"
   },
   {
     "id": 10233,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/84334125f01e3865a6311.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=432"
   },
   {
     "id": 10222,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/127f246d07f92ea9201fa.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=431"
   },
   {
     "id": 10211,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/57a2f325709188201b0db.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=430"
   },
   {
     "id": 10199,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bf72db407be42eec85e95.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=429"
   },
   {
     "id": 10188,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/101543f328d82176301c7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=428"
   },
   {
     "id": 10177,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a0ccb090057dbc0dd5acf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=427"
   },
   {
     "id": 10166,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/89b80f3eb3a441dcf2d45.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=426"
   },
   {
     "id": 10155,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/96ec26f29824bc18c3373.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=425"
   },
   {
     "id": 10144,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/dbc1f7777f22045dd4075.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=424"
   },
   {
     "id": 10133,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8e0b99e4b8563cabdf06b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=423"
   },
   {
     "id": 10122,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9bc43926a9515e4593b4d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=422"
   },
   {
     "id": 10111,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/251444dc17a027a165ebf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=421"
   },
   {
     "id": 10100,
@@ -221,8 +305,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c6995323f08912204b1df.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=420"
   },
   {
     "id": 10088,
@@ -236,8 +326,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ff85493ca45c66388dc18.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=419"
   },
   {
     "id": 10077,
@@ -251,8 +347,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/60ab2eccd693c779723ed.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=418"
   },
   {
     "id": 10066,
@@ -266,8 +368,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fcfc9ab1964171da57212.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=417"
   },
   {
     "id": 10055,
@@ -281,8 +389,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7f8731ede7dc763713c16.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=416"
   },
   {
     "id": 10044,
@@ -296,8 +410,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/79219b03db1c9d35fea5e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=415"
   },
   {
     "id": 10033,
@@ -311,8 +431,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8dda418c2c560b4b6bb40.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=414"
   },
   {
     "id": 10022,
@@ -326,8 +452,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e98009e6a8e3c045cb2aa.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=413"
   },
   {
     "id": 10011,
@@ -341,8 +473,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f6a9cf9a11940d19b2de8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=412"
   },
   {
     "id": 10000,
@@ -356,8 +494,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7c78736db4097d2e00f69.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=411"
   },
   {
     "id": 9989,
@@ -371,8 +515,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/436bdcfb576be7242f4e0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=410"
   },
   {
     "id": 9977,
@@ -386,8 +536,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/89d4ef24d06449a177c0d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=409"
   },
   {
     "id": 9966,
@@ -401,8 +557,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/76dfb937067b181000b80.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=408"
   },
   {
     "id": 9955,
@@ -416,8 +578,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e6283ec1483a10fd8f4a7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=407"
   },
   {
     "id": 9944,
@@ -431,8 +599,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/cfc7410334a41dcabe1e3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=406"
   },
   {
     "id": 9933,
@@ -446,8 +620,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4da10c0b2ec5dfadb657e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=405"
   },
   {
     "id": 9922,
@@ -461,8 +641,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4ab3f3f224c3a25fcb41b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=404"
   },
   {
     "id": 9911,
@@ -476,8 +662,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/92a2a5b5b9be80e3a5313.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=403"
   },
   {
     "id": 9900,
@@ -491,8 +683,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1aaf017de8e88a720d60c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=402"
   },
   {
     "id": 9889,
@@ -506,8 +704,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f29a4202c04a6fb9836f5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=401"
   },
   {
     "id": 9878,
@@ -521,8 +725,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9d004111ba75808c2ccc9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=400"
   },
   {
     "id": 9865,
@@ -536,8 +746,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a72104003161243e5dd0c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=399"
   },
   {
     "id": 9854,
@@ -551,8 +767,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/66edee6eed2fdc08a4a82.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=398"
   },
   {
     "id": 9843,
@@ -566,8 +788,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c80fdd1850ec9a84fcfaf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=397"
   },
   {
     "id": 9832,
@@ -581,8 +809,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/029e5001705d39f42f241.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=396"
   },
   {
     "id": 9821,
@@ -596,8 +830,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2a56976f84ee9bd3f1d92.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=395"
   },
   {
     "id": 9810,
@@ -611,8 +851,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0185fb0ac9c160a4b99cf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=394"
   },
   {
     "id": 9799,
@@ -626,8 +872,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d36992f927e3ab6aab992.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=393"
   },
   {
     "id": 9788,
@@ -641,8 +893,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0d2ed0b7730adfb82beda.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=392"
   },
   {
     "id": 9777,
@@ -656,8 +914,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7af089e76b457c8cacdaf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=391"
   },
   {
     "id": 9766,
@@ -671,8 +935,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5af58ccfefdf7413c22c5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=390"
   },
   {
     "id": 9754,
@@ -686,8 +956,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0aabfa4fe6e74cdb6799f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=389"
   },
   {
     "id": 9743,
@@ -701,8 +977,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d0125090a91bf1d00a912.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=388"
   },
   {
     "id": 9732,
@@ -716,8 +998,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/67bf691f459ba93a4ed9a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=387"
   },
   {
     "id": 9721,
@@ -731,8 +1019,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d8286ab5fc37b81149b9e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=386"
   },
   {
     "id": 9710,
@@ -746,8 +1040,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/daf50356c02df5d620223.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=385"
   },
   {
     "id": 9699,
@@ -761,8 +1061,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f14740ce4488c0f826334.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=384"
   },
   {
     "id": 9688,
@@ -776,8 +1082,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/44a7fc36033298798eceb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=383"
   },
   {
     "id": 9677,
@@ -791,8 +1103,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/22392d6335ba3d1040f71.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=382"
   },
   {
     "id": 9666,
@@ -806,8 +1124,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/816c6ce028b1bc15ff253.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=381"
   },
   {
     "id": 9655,
@@ -821,8 +1145,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4aed229fe3f0de4965591.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=380"
   },
   {
     "id": 9643,
@@ -836,8 +1166,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/72819e380556dcc3ea6a6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=379"
   },
   {
     "id": 9632,
@@ -851,8 +1187,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/da086ef2e473bc6b1df9a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=378"
   },
   {
     "id": 9621,
@@ -866,8 +1208,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/59e63df13806966a843b1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=377"
   },
   {
     "id": 9610,
@@ -881,8 +1229,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4cb9c0adc2411dba5aea5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=376"
   },
   {
     "id": 9599,
@@ -896,8 +1250,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3fac348d8d6ab16dcfc3d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=375"
   },
   {
     "id": 9588,
@@ -911,8 +1271,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ccb19114d612aff1c3895.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=374"
   },
   {
     "id": 9577,
@@ -926,8 +1292,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/91b3f0e54984ada39e2fe.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=373"
   },
   {
     "id": 9566,
@@ -941,8 +1313,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1bf8ae9ee8aeeba9a6678.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=372"
   },
   {
     "id": 9555,
@@ -956,8 +1334,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8186919cbdc7c24ab9224.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=371"
   },
   {
     "id": 9544,
@@ -971,8 +1355,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4d8700ad177838127b1e7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=370"
   },
   {
     "id": 9532,
@@ -986,8 +1376,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c6f088cd721bf449a9fa8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=369"
   },
   {
     "id": 9521,
@@ -1001,8 +1397,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2806d0a276aec1b1786c6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=368"
   },
   {
     "id": 9510,
@@ -1016,8 +1418,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6cb2a64c693b8f80960d4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=367"
   },
   {
     "id": 9499,
@@ -1031,8 +1439,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3b5970774d6b4c604f83e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=366"
   },
   {
     "id": 9488,
@@ -1046,8 +1460,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a145460ee9b4f1b89d738.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=365"
   },
   {
     "id": 9477,
@@ -1061,8 +1481,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/62adf5bafb5ceb92a62e2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=364"
   },
   {
     "id": 9466,
@@ -1076,8 +1502,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/464d1440e45b2c989c5ed.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=363"
   },
   {
     "id": 9455,
@@ -1091,8 +1523,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5dff2a01e19f10b735875.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=362"
   },
   {
     "id": 9444,
@@ -1106,8 +1544,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fe89381ba2a1d71691454.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=361"
   },
   {
     "id": 9433,
@@ -1121,8 +1565,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/51db7c16e8ec30eb37ad2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=360"
   },
   {
     "id": 9421,
@@ -1136,8 +1586,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/71ba03193ab86b0feb35d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=359"
   },
   {
     "id": 9410,
@@ -1151,8 +1607,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/dd1523b6fc5ce3bb49292.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=358"
   },
   {
     "id": 9399,
@@ -1166,8 +1628,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b10c6144992b0da88689e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=357"
   },
   {
     "id": 9388,
@@ -1181,8 +1649,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7b9629d15d9e4c2ebbd64.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=356"
   },
   {
     "id": 9377,
@@ -1196,8 +1670,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/68a99b842c0dac6219d34.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=355"
   },
   {
     "id": 9366,
@@ -1211,8 +1691,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/69776fe99ccd94501b74b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=354"
   },
   {
     "id": 9355,
@@ -1226,8 +1712,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4a2f9754e41eb303f77fc.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=353"
   },
   {
     "id": 9344,
@@ -1241,8 +1733,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/70916bfc276eecd7ec1f6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=352"
   },
   {
     "id": 9333,
@@ -1256,8 +1754,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f1b826b93dcb65a30ca12.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=351"
   },
   {
     "id": 9322,
@@ -1271,8 +1775,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2defb929ed4c8ea7e6e3c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=350"
   },
   {
     "id": 9310,
@@ -1286,8 +1796,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1e8901642964b47f37d4d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=349"
   },
   {
     "id": 9299,
@@ -1301,8 +1817,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/deb5ad47f13e4a995555b.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=348"
   },
   {
     "id": 9288,
@@ -1316,8 +1838,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5fd4edcf263f0a6b214b8.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=347"
   },
   {
     "id": 9277,
@@ -1331,8 +1859,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4b041ad5f50d130ebac8a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=346"
   },
   {
     "id": 9266,
@@ -1346,8 +1880,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ee97ee2d897a1011f9e98.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=345"
   },
   {
     "id": 9255,
@@ -1361,8 +1901,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ae27ef8e1ff7e605f8be4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=344"
   },
   {
     "id": 9244,
@@ -1376,8 +1922,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/55516444fa4488d8ebe7b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=343"
   },
   {
     "id": 9233,
@@ -1391,8 +1943,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/173d1e48bef5fa5e08845.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=342"
   },
   {
     "id": 9222,
@@ -1406,8 +1964,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/63482ebfbaa1730fdb82c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=341"
   },
   {
     "id": 9211,
@@ -1421,8 +1985,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d5fc6666f138fcdb16014.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=340"
   },
   {
     "id": 9199,
@@ -1436,8 +2006,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f1185a0715707b0c7ad8f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=339"
   },
   {
     "id": 9188,
@@ -1451,8 +2027,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/63b9c97301a1df8604f46.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=338"
   },
   {
     "id": 9177,
@@ -1466,8 +2048,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/90c318b29bc1eb1dca149.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=337"
   },
   {
     "id": 9166,
@@ -1481,8 +2069,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c592a3682de87cf7d2a3c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=336"
   },
   {
     "id": 9155,
@@ -1496,7 +2090,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d82f5617719dec718de42.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "byoru",
+        "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=335"
   }
 ];

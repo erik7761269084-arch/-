@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/02/13/1-481beff70e3b15132c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Inkyung (강인경)",
+        "img_url": "https://image.acg.lol/file/2025/02/13/1-481beff70e3b15132c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Inkyung (강인경).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1143"
   }
 ];

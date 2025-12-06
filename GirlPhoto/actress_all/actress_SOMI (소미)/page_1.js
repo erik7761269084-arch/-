@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/03234ee0afd7959a0fe50.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "SOMI (소미)",
+        "img_url": "https://telegra.ph/file/03234ee0afd7959a0fe50.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_SOMI (소미).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2265"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/df99847ed939e0e94727a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1394"
   },
   {
     "id": 4373,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/df99847ed939e0e94727a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1393"
   },
   {
     "id": 4362,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ef3081426aad5b3492d4a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1392"
   },
   {
     "id": 4351,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8a180de1a4cc15a424f60.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1391"
   },
   {
     "id": 4340,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/74f12c34c2a2eb9618c39.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1390"
   },
   {
     "id": 4328,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5d3945466888fccdb763f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1389"
   },
   {
     "id": 4317,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1388"
   },
   {
     "id": 4306,
@@ -116,7 +158,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minharin",
+        "img_url": "https://telegra.ph/file/80661e74670e17803bf9c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minharin.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1387"
   }
 ];

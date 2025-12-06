@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ce68bd0f87b74cdd4dcc7.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "GlamARchive",
+        "img_url": "https://telegra.ph/file/ce68bd0f87b74cdd4dcc7.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_GlamARchive.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=914"
   }
 ];

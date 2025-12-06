@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/cd1c6d38723a235204b71.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "贝贝琪Becky",
+        "img_url": "https://image.acg.lol/file/2024/10/24/1-2083995ba9be242310.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_贝贝琪Becky.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3444"
   },
   {
     "id": 9248,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a344e84d5dbfb8c20ac28.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "贝贝琪Becky",
+        "img_url": "https://image.acg.lol/file/2024/10/24/1-2083995ba9be242310.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_贝贝琪Becky.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3443"
   },
   {
     "id": 9247,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/28cadca5879eef2b51c3c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "贝贝琪Becky",
+        "img_url": "https://image.acg.lol/file/2024/10/24/1-2083995ba9be242310.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_贝贝琪Becky.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3442"
   },
   {
     "id": 9246,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/386ed58151ed349677c23.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "贝贝琪Becky",
+        "img_url": "https://image.acg.lol/file/2024/10/24/1-2083995ba9be242310.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_贝贝琪Becky.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3441"
   },
   {
     "id": 9245,
@@ -71,7 +95,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/10/24/1-2083995ba9be242310.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "贝贝琪Becky",
+        "img_url": "https://image.acg.lol/file/2024/10/24/1-2083995ba9be242310.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_贝贝琪Becky.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3440"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9cd37695a5d8cd84df47e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MisswarmJ",
+        "img_url": "https://telegra.ph/file/91214e270fb43e1f987f2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MisswarmJ.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1404"
   },
   {
     "id": 4485,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/91214e270fb43e1f987f2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "MisswarmJ",
+        "img_url": "https://telegra.ph/file/91214e270fb43e1f987f2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MisswarmJ.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1403"
   }
 ];

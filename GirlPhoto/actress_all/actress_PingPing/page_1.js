@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c5c960125ac33a4bdbaf2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1815"
   },
   {
     "id": 5153,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4b369f868a4f33ad32ae4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1814"
   },
   {
     "id": 5152,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f6a95ef5dd0ff5c365064.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1813"
   },
   {
     "id": 5151,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d458b4c6d1f91a95facf4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1812"
   },
   {
     "id": 5150,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/427864c121d21e3850717.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1811"
   },
   {
     "id": 5149,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ec15de1ed3dd3acc382a2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1810"
   },
   {
     "id": 5147,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fcd184266f80ac1e5751d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1809"
   },
   {
     "id": 5146,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ff296adcd4236973a8c45.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1808"
   },
   {
     "id": 5145,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c42ff74bf38c067ca1c3c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1807"
   },
   {
     "id": 5144,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7174c603e876ff9da956c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1806"
   },
   {
     "id": 5143,
@@ -161,7 +221,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PingPing",
+        "img_url": "https://telegra.ph/file/dd02c8926da2bc6daa2e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PingPing.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1805"
   }
 ];

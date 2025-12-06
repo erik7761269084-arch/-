@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/30ff722c13343a8f81c2b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Eunji Pyo",
+        "img_url": "https://telegra.ph/file/ab7050ba874e1e6063004.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Eunji Pyo.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=772"
   },
   {
     "id": 13996,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4fd87927c0a27da31e9d7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Eunji Pyo",
+        "img_url": "https://telegra.ph/file/ab7050ba874e1e6063004.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Eunji Pyo.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=771"
   },
   {
     "id": 13985,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ab7050ba874e1e6063004.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Eunji Pyo",
+        "img_url": "https://telegra.ph/file/ab7050ba874e1e6063004.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Eunji Pyo.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=770"
   }
 ];

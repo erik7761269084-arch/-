@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/24973d4eac6f7026967fd.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Mina (민아) ",
+        "img_url": "https://telegra.ph/file/aa058cdb2689b4f1f012a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mina (민아).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1386"
   },
   {
     "id": 4284,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d9cdf9d8a8a81f1eceb1a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Mina (민아) ",
+        "img_url": "https://telegra.ph/file/aa058cdb2689b4f1f012a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mina (민아).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1385"
   },
   {
     "id": 4273,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4c2676362b92cadb84629.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Mina (민아) ",
+        "img_url": "https://telegra.ph/file/aa058cdb2689b4f1f012a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mina (민아).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1384"
   },
   {
     "id": 4262,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4973d41fe291f2c97b7a0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Mina (민아) ",
+        "img_url": "https://telegra.ph/file/aa058cdb2689b4f1f012a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mina (민아).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1383"
   },
   {
     "id": 4251,
@@ -71,7 +95,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/aa058cdb2689b4f1f012a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Mina (민아) ",
+        "img_url": "https://telegra.ph/file/aa058cdb2689b4f1f012a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mina (민아).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1382"
   }
 ];

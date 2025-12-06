@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ae65a0ea67063b6c9f3d6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1402"
   },
   {
     "id": 4463,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/353b23fd41f728303385f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1401"
   },
   {
     "id": 4452,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bacd064a89b00c56bdc5f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1400"
   },
   {
     "id": 4439,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ad6b88a5cf4993585b72a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1399"
   },
   {
     "id": 4428,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e812d0e386697befa89cd.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1398"
   },
   {
     "id": 4417,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9e12dcc1a370875755814.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1397"
   },
   {
     "id": 4406,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8b5e7005cf5a4f67ac803.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1396"
   },
   {
     "id": 4395,
@@ -116,7 +158,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Minjung",
+        "img_url": "https://telegra.ph/file/9da68ae463eabe20d2613.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Minjung.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1395"
   }
 ];

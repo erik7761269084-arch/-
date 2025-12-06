@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3a80c8e9ec937b508f2a3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "金克丝",
+        "img_url": "https://telegra.ph/file/a6acbbc408a4e890bc967.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金克丝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5809"
   },
   {
     "id": 11875,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a6acbbc408a4e890bc967.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "金克丝",
+        "img_url": "https://telegra.ph/file/a6acbbc408a4e890bc967.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金克丝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5808"
   }
 ];

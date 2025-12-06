@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/66ed6eb6d83406817edd5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5805"
   },
   {
     "id": 11871,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5ff13c1be686a549cf5d9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5804"
   },
   {
     "id": 11870,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e8913b255ec4139c92a0e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5803"
   },
   {
     "id": 11869,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c0537a8b27a4a8f6bf495.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5802"
   },
   {
     "id": 11868,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4a8e0c5a8ffab3bbee492.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5801"
   },
   {
     "id": 11867,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b415383ffc0d7b5fe18f2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5800"
   },
   {
     "id": 11864,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/10/19/Makise-Kurisu-46.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5799"
   },
   {
     "id": 11863,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/10/26/1-41.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5798"
   },
   {
     "id": 11862,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/11/04/1-10db649e12c3b1e80a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5797"
   },
   {
     "id": 11861,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/11/04/01-291087e247da2dbdf7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5796"
   },
   {
     "id": 11860,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/05/07/01_miyabi_1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5795"
   },
   {
     "id": 11859,
@@ -176,7 +242,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "絞肉姬Walküre(绞肉姬)",
+        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5794"
   }
 ];

@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ab47ecc9d56a73b70312d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=698"
   },
   {
     "id": 13175,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4f52f6ab5e41adb1f3e7e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=697"
   },
   {
     "id": 13164,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ac83fd05deeaef8504d56.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=696"
   },
   {
     "id": 13153,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4e3e45487c282d0e22c23.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=695"
   },
   {
     "id": 13142,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/497abef7b350c44c322c3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=694"
   },
   {
     "id": 13131,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c10e5b57b7f4574c75202.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=693"
   },
   {
     "id": 13120,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/059c9dfc6fd550aaf162e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=692"
   },
   {
     "id": 13109,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e6d8b79eb60775b7ff79e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=691"
   },
   {
     "id": 13098,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3724224860227e7650f2b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=690"
   },
   {
     "id": 13086,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f1f94db5a5dd19b1fdb00.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=689"
   },
   {
     "id": 13075,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ee8e65cdc7db08f1a659c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=688"
   },
   {
     "id": 13064,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/911f40bbd7dd308cd2cd7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=687"
   },
   {
     "id": 13053,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/05678481c559e2d93dc29.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=686"
   },
   {
     "id": 13042,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/45c4dc188ada3e60c3612.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=685"
   },
   {
     "id": 13031,
@@ -221,8 +305,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/30f1167d47f58d1113feb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=684"
   },
   {
     "id": 13020,
@@ -236,8 +326,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ae23c75b307937c9db17a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=683"
   },
   {
     "id": 13009,
@@ -251,7 +347,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=682"
   }
 ];

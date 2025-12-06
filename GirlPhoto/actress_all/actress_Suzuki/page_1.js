@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a27bf4a15dfef3ba02a1d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2302"
   },
   {
     "id": 7980,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/10f5abec6651d2a80cbb3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2301"
   },
   {
     "id": 7979,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f90af2d844768924bd91c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2300"
   },
   {
     "id": 7976,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4cabaed514be8a29e1946.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2299"
   },
   {
     "id": 7975,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fdb3adb98a06b6edb8a37.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2298"
   },
   {
     "id": 7974,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2297"
   },
   {
     "id": 7973,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/19a11e7d3142e8a28759c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2296"
   },
   {
     "id": 7972,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b7279de840e8a2e103e15.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2295"
   },
   {
     "id": 7971,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/426ca7d2c81770da7fb53.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2294"
   },
   {
     "id": 7970,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/194cb4b3c2e5c1dbfaff8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2293"
   },
   {
     "id": 7969,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c8ac2d570c9902e0be8ed.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2292"
   },
   {
     "id": 7968,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f0b28e0107b811de61105.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2291"
   },
   {
     "id": 7967,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1ddebfb4361bc63a50981.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2290"
   },
   {
     "id": 7965,
@@ -206,7 +284,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Suzuki",
+        "img_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2289"
   }
 ];

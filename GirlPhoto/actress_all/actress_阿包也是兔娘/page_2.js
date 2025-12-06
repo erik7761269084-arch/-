@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/09/16/1-18.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "阿包也是兔娘",
+        "img_url": "https://image.acg.lol/file/2025/01/10/LOK_3615.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿包也是兔娘.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2935"
   },
   {
     "id": 8682,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/11/07/NIG_8283.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "阿包也是兔娘",
+        "img_url": "https://image.acg.lol/file/2025/01/10/LOK_3615.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿包也是兔娘.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2934"
   },
   {
     "id": 8681,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/01/10/LOK_3615.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "阿包也是兔娘",
+        "img_url": "https://image.acg.lol/file/2025/01/10/LOK_3615.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿包也是兔娘.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2933"
   }
 ];

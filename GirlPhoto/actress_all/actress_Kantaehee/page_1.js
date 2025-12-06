@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e3838c393ae0aaa545a79.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1205"
   },
   {
     "id": 2275,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4dbae69642a879454072e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1204"
   },
   {
     "id": 2264,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/480e41c9aa7ef55c04801.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1203"
   },
   {
     "id": 2253,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e30018ef4c1a9abad0d40.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1202"
   },
   {
     "id": 2242,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a2348eaf02fcb54381156.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1201"
   },
   {
     "id": 2231,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d193fe800d869bc5afb8f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1200"
   },
   {
     "id": 2218,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ddfa346a25a2b9790e710.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1199"
   },
   {
     "id": 2207,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0a90bafeb10fa5275e11e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1198"
   },
   {
     "id": 2196,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c35619e7cc246ab9a719f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1197"
   },
   {
     "id": 2185,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8e0e451c732a30d697e8f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1196"
   },
   {
     "id": 2174,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/83305314787d8e3a23bd6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1195"
   },
   {
     "id": 2163,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3d4609a8aa993e7886a3a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1194"
   },
   {
     "id": 2152,
@@ -191,7 +263,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kantaehee",
+        "img_url": "https://telegra.ph/file/baa9e26bf912e08b18033.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kantaehee.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1193"
   }
 ];

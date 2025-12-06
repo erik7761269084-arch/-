@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2645a9ff8de89b0ffff27.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6587"
   },
   {
     "id": 12738,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/09/24/1-1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6586"
   },
   {
     "id": 12737,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/09/25/1-16.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6585"
   },
   {
     "id": 12736,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/09/27/IMG_7765.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6584"
   },
   {
     "id": 12735,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/12/31/38.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6583"
   },
   {
     "id": 12734,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/12/31/13a52edfbe2cd203ae.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6582"
   },
   {
     "id": 12733,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/12/31/22cb250591f0ba65f2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6581"
   },
   {
     "id": 12732,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/12/31/IMG_3769.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6580"
   },
   {
     "id": 12730,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/12/31/4caef1b9a28da578e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6579"
   },
   {
     "id": 12729,
@@ -146,7 +200,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛洛子",
+        "img_url": "https://image.acg.lol/file/2025/01/02/1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛洛子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6578"
   }
 ];

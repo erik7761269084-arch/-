@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/29/1-1b734f314ae7b8f51.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛城雪Yuki",
+        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛城雪Yuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6577"
   },
   {
     "id": 12727,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "洛城雪Yuki",
+        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛城雪Yuki.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6576"
   }
 ];

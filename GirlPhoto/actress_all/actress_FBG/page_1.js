@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b4f10ef6dcd20f49041e7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "FBG",
+        "img_url": "https://telegra.ph/file/b4f10ef6dcd20f49041e7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_FBG.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=776"
   }
 ];

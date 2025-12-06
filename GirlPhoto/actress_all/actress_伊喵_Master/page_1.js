@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/05/23/1-31e2fd3d1701fb43e9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "伊喵_Master",
+        "img_url": "https://image.acg.lol/file/2025/05/23/1-31e2fd3d1701fb43e9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_伊喵_Master.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12461"
   }
 ];

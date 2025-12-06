@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c0b279fec94be041066cd.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "可可小白兔",
+        "img_url": "https://telegra.ph/file/22dcc81849f3ab92436b9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_可可小白兔.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6120"
   },
   {
     "id": 12220,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/22dcc81849f3ab92436b9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "可可小白兔",
+        "img_url": "https://telegra.ph/file/22dcc81849f3ab92436b9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_可可小白兔.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6119"
   }
 ];

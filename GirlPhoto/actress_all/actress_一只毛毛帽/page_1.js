@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/04/27/1-14026ab10757004545.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "一只毛毛帽",
+        "img_url": "https://image.acg.lol/file/2025/06/24/1-12aa73886973a95a0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_一只毛毛帽.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12439"
   },
   {
     "id": 2706,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/04/26/01-15.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "一只毛毛帽",
+        "img_url": "https://image.acg.lol/file/2025/06/24/1-12aa73886973a95a0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_一只毛毛帽.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12438"
   },
   {
     "id": 2705,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/05/28/1-15d0b8ef9e0e62f00.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "一只毛毛帽",
+        "img_url": "https://image.acg.lol/file/2025/06/24/1-12aa73886973a95a0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_一只毛毛帽.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12437"
   },
   {
     "id": 2704,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/14/1-1980c98774c4e860c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "一只毛毛帽",
+        "img_url": "https://image.acg.lol/file/2025/06/24/1-12aa73886973a95a0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_一只毛毛帽.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12436"
   },
   {
     "id": 2703,
@@ -71,7 +95,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/06/24/1-12aa73886973a95a0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "一只毛毛帽",
+        "img_url": "https://image.acg.lol/file/2025/06/24/1-12aa73886973a95a0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_一只毛毛帽.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12435"
   }
 ];

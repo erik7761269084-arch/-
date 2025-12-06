@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2c56aee9ead43e36bf079.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2116"
   },
   {
     "id": 6648,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/43409e36fc726ebb5e417.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2115"
   },
   {
     "id": 6637,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c0321a743f80096e3e483.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2114"
   },
   {
     "id": 6626,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/609dc6ffc3b5b783dfa72.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2113"
   },
   {
     "id": 6615,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d6233c25b2d83e22401a9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2112"
   },
   {
     "id": 6604,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/96b9a99886a40304336a2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2111"
   },
   {
     "id": 6593,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7b9172137078816812cb5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2110"
   },
   {
     "id": 6581,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/731cdfe8cc750cbfbe868.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2109"
   },
   {
     "id": 6570,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ccf7affafb79e326cc3c2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2108"
   },
   {
     "id": 6559,
@@ -146,7 +200,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "RURUCHA",
+        "img_url": "https://telegra.ph/file/47b493d3322b0f137d6dc.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RURUCHA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2107"
   }
 ];

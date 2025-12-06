@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/aa79629ebf25feb4ee31a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eve",
+        "img_url": "https://telegra.ph/file/0405ab45ba3244d338b11.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eve.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=775"
   },
   {
     "id": 14029,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9b6f014fce4b57dc0fdd2.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eve",
+        "img_url": "https://telegra.ph/file/0405ab45ba3244d338b11.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eve.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=774"
   },
   {
     "id": 14018,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0405ab45ba3244d338b11.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "eve",
+        "img_url": "https://telegra.ph/file/0405ab45ba3244d338b11.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eve.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=773"
   }
 ];

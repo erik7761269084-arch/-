@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2025/04/18/IMG_1972.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "猪突猛蛋",
+        "img_url": "https://telegra.ph/file/7bf7931a24d5370657490.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_猪突猛蛋.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=14248"
   },
   {
     "id": 4715,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7bf7931a24d5370657490.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "猪突猛蛋",
+        "img_url": "https://telegra.ph/file/7bf7931a24d5370657490.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_猪突猛蛋.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=14247"
   }
 ];

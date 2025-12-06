@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b769fcb607b17b03ff062.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "笨蛋学姐",
+        "img_url": "https://telegra.ph/file/1f4e9ff03f60d057a95cf.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_笨蛋学姐.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3446"
   },
   {
     "id": 9250,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/1f4e9ff03f60d057a95cf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "笨蛋学姐",
+        "img_url": "https://telegra.ph/file/1f4e9ff03f60d057a95cf.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_笨蛋学姐.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3445"
   }
 ];

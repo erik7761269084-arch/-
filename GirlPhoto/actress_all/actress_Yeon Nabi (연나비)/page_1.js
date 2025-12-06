@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0430da4afc138a567601d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yeon Nabi (연나비)",
+        "img_url": "https://telegra.ph/file/c5cb8479f2c4e08e5c1e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeon Nabi (연나비).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2697"
   },
   {
     "id": 8417,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b8b2996128ba701195262.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yeon Nabi (연나비)",
+        "img_url": "https://telegra.ph/file/c5cb8479f2c4e08e5c1e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeon Nabi (연나비).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2696"
   },
   {
     "id": 8416,
@@ -41,7 +53,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c5cb8479f2c4e08e5c1e8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yeon Nabi (연나비)",
+        "img_url": "https://telegra.ph/file/c5cb8479f2c4e08e5c1e8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeon Nabi (연나비).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2695"
   }
 ];

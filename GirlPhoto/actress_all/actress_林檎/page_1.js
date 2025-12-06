@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e9ec2d27c14307ca58856.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "林檎",
+        "img_url": "https://telegra.ph/file/e9ec2d27c14307ca58856.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_林檎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6161"
   },
   {
     "id": 12266,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e9ec2d27c14307ca58856.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "林檎",
+        "img_url": "https://telegra.ph/file/e9ec2d27c14307ca58856.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_林檎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6160"
   }
 ];

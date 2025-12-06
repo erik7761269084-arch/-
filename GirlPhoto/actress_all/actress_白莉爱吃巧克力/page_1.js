@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fb85c89472d61a60a4d22.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3115"
   },
   {
     "id": 8883,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6f79368144d99d31b5374.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3114"
   },
   {
     "id": 8882,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f22cfeb855682ca71b64b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3113"
   },
   {
     "id": 8881,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/663293e1043af93b9ce55.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3112"
   },
   {
     "id": 8880,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/887c767a6f3b720249754.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3111"
   },
   {
     "id": 8879,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ce3efba0f946339917886.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3110"
   },
   {
     "id": 8877,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2ec027bcee14eac379c6f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3109"
   },
   {
     "id": 8876,
@@ -116,7 +158,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "白莉爱吃巧克力",
+        "img_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3108"
   }
 ];

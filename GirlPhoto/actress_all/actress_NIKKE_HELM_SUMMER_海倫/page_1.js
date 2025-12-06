@@ -11,7 +11,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/b124b179552017cb945eb.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "NIKKE_HELM_SUMMER_海倫",
+        "img_url": "https://telegra.ph/file/b124b179552017cb945eb.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NIKKE_HELM_SUMMER_海倫.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1652"
   }
 ];

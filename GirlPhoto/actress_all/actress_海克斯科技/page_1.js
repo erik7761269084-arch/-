@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e2b81133ae69477845f58.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "海克斯科技",
+        "img_url": "https://image.acg.lol/file/2024/09/16/1-15.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_海克斯科技.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5468"
   },
   {
     "id": 11496,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/8d8b8fe8dc002099b5eaf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "海克斯科技",
+        "img_url": "https://image.acg.lol/file/2024/09/16/1-15.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_海克斯科技.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5467"
   },
   {
     "id": 11495,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5e2911044d70ea7c2ba1d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "海克斯科技",
+        "img_url": "https://image.acg.lol/file/2024/09/16/1-15.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_海克斯科技.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5466"
   },
   {
     "id": 11494,
@@ -56,7 +74,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://image.acg.lol/file/2024/09/16/1-15.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "海克斯科技",
+        "img_url": "https://image.acg.lol/file/2024/09/16/1-15.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_海克斯科技.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5465"
   }
 ];

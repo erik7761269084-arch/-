@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a4480fc8902f9231185d9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "ぎるてぃどーるず (死体ちゃん)",
+        "img_url": "https://telegra.ph/file/5cd9157c7919f866c4c46.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ぎるてぃどーるず (死体ちゃん).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2891"
   },
   {
     "id": 8633,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5cd9157c7919f866c4c46.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "ぎるてぃどーるず (死体ちゃん)",
+        "img_url": "https://telegra.ph/file/5cd9157c7919f866c4c46.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ぎるてぃどーるず (死体ちゃん).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2890"
   }
 ];

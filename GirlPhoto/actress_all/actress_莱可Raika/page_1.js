@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e2259bd610f97bc1ba5c6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "莱可Raika",
+        "img_url": "https://telegra.ph/file/da86c398b6c44c2f304c6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_莱可Raika.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6122"
   },
   {
     "id": 12223,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/da86c398b6c44c2f304c6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "莱可Raika",
+        "img_url": "https://telegra.ph/file/da86c398b6c44c2f304c6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_莱可Raika.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6121"
   }
 ];

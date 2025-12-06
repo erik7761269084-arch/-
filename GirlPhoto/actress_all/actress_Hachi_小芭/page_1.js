@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/26878d2fe1f40d3d16eb8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=931"
   },
   {
     "id": 15763,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/e325ea2f978df2ef7b77c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=930"
   },
   {
     "id": 15751,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d385fd46cdf75ddc762d7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=929"
   },
   {
     "id": 15740,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c9dd765a742d7a5f514a6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=928"
   },
   {
     "id": 15729,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/24440f32af70386cfa10c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=927"
   },
   {
     "id": 15718,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/13b794db1dfb0430d5d8a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=926"
   },
   {
     "id": 15707,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/763abdb17619ad94570bf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=925"
   },
   {
     "id": 15696,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/37b45f3a46810d4f4cf0f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=924"
   },
   {
     "id": 15685,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/668bb3869ca851b4af190.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=923"
   },
   {
     "id": 15674,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/395eb2860b21b93c9b5d3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=922"
   },
   {
     "id": 15663,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/26b7d9f7e71a6875e16b6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=921"
   },
   {
     "id": 15652,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/63d6cc620c6d8fb4db95d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=920"
   },
   {
     "id": 15640,
@@ -191,8 +263,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/32aadd2988d50835aa8bc.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=919"
   },
   {
     "id": 15629,
@@ -206,8 +284,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/44e81cd7be7c294a07775.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=918"
   },
   {
     "id": 15618,
@@ -221,7 +305,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hachi_小芭",
+        "img_url": "https://telegra.ph/file/cff0beb13da54df5a861b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hachi_小芭.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=917"
   }
 ];

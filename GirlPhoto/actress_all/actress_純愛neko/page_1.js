@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bca5c7466236ca85a95c6.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "純愛neko",
+        "img_url": "https://telegra.ph/file/0ef35bcb3c8487468d660.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_純愛neko.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3786"
   },
   {
     "id": 9627,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0ef35bcb3c8487468d660.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "純愛neko",
+        "img_url": "https://telegra.ph/file/0ef35bcb3c8487468d660.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_純愛neko.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3785"
   }
 ];

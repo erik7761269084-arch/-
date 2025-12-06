@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/58fd6c225583611eda05f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PAKI酱",
+        "img_url": "https://telegra.ph/file/a07d6bc23b7ae787bb191.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PAKI酱.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1764"
   },
   {
     "id": 5096,
@@ -26,7 +32,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a07d6bc23b7ae787bb191.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "PAKI酱",
+        "img_url": "https://telegra.ph/file/a07d6bc23b7ae787bb191.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_PAKI酱.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1763"
   }
 ];

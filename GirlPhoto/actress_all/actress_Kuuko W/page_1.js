@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7c05362a6f5d13cd6fd6b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1298"
   },
   {
     "id": 3306,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/020fb5c3ff7d2d875b035.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1297"
   },
   {
     "id": 3295,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ae5f4c84b7c0079a5ca74.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1296"
   },
   {
     "id": 3284,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5e8672be8a1d15d04136d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1295"
   },
   {
     "id": 3273,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2c4b3859f7f62b0167c28.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1294"
   },
   {
     "id": 3262,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/085ae0d3e8c171025f769.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1293"
   },
   {
     "id": 3251,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/25674995376d42d8d9508.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1292"
   },
   {
     "id": 3240,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9f8c1dcbf32b033d0976e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1291"
   },
   {
     "id": 3229,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/9e2f66222415c61e27889.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1290"
   },
   {
     "id": 3217,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f3496e64a8d5009d3a8e9.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1289"
   },
   {
     "id": 3206,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/5d682c3eb4f72ab63a698.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1288"
   },
   {
     "id": 3195,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/16cc64e98fed3c7daec10.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1287"
   },
   {
     "id": 3184,
@@ -191,7 +263,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Kuuko W",
+        "img_url": "https://telegra.ph/file/ed39672b53297f45020f3.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kuuko W.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1286"
   }
 ];

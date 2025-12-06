@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/87989faf68e0fed83fece.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38"
   },
   {
     "id": 9644,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ebdea11c217d16e939bf7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37"
   },
   {
     "id": 9533,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/cbaf03a650a964510a8e7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36"
   },
   {
     "id": 9422,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/602259c2a0b54aa36ba7b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35"
   },
   {
     "id": 9311,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f635e4862862de471f01a.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34"
   },
   {
     "id": 9200,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c7b95a60ae8a6fb511231.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33"
   },
   {
     "id": 9089,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c23a059629893625582ea.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32"
   },
   {
     "id": 8978,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/50457c7cfc5932ae35fc1.png",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31"
   },
   {
     "id": 8867,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f43984e101a2aaad86030.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=30"
   },
   {
     "id": 8755,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0324ebe468a78ad7834e7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29"
   },
   {
     "id": 8644,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/359d58825c6a809eae4e4.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28"
   },
   {
     "id": 8533,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c13e9815682123ed3dd43.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27"
   },
   {
     "id": 8422,
@@ -191,8 +263,19 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bd2f77418d93a3910baf7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      },
+      {
+        "name": "Aram (아람)",
+        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26"
   },
   {
     "id": 8311,
@@ -206,8 +289,19 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fd8ce66c61e685a6db2b1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      },
+      {
+        "name": "Aram (아람)",
+        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25"
   },
   {
     "id": 8200,
@@ -221,8 +315,19 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a0eaa4e5c1fd3e988d31d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      },
+      {
+        "name": "Aram (아람)",
+        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24"
   },
   {
     "id": 8089,
@@ -236,7 +341,18 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      },
+      {
+        "name": "Aram (아람)",
+        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=23"
   }
 ];

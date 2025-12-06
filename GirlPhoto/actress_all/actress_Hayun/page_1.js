@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3b2747359db2d244cfebd.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hayun",
+        "img_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hayun.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1126"
   },
   {
     "id": 1397,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/d3a012f59c7d712fb440e.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hayun",
+        "img_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hayun.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1125"
   },
   {
     "id": 1386,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/a8fc99bc0fd92ae814666.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hayun",
+        "img_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hayun.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1124"
   },
   {
     "id": 1375,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/079cdb1a46cbb6be438e5.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hayun",
+        "img_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hayun.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1123"
   },
   {
     "id": 1364,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/0535c37ca5e57a3549959.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hayun",
+        "img_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hayun.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1122"
   },
   {
     "id": 1353,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/05f507574678c2302729d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hayun",
+        "img_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hayun.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1121"
   },
   {
     "id": 1342,
@@ -101,7 +137,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Hayun",
+        "img_url": "https://telegra.ph/file/bc5fab4895eddad049388.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hayun.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1120"
   }
 ];

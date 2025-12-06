@@ -11,8 +11,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/c6e32160ed1ebde0bd722.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2712"
   },
   {
     "id": 8435,
@@ -26,8 +32,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f451beed0789a55bf4596.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2711"
   },
   {
     "id": 8434,
@@ -41,8 +53,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/ed3120024ad20084df9a8.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2710"
   },
   {
     "id": 8432,
@@ -56,8 +74,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/2e6e26356b0511a8a1bec.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2709"
   },
   {
     "id": 8431,
@@ -71,8 +95,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/79efdc81f5474eb2cb9c0.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2708"
   },
   {
     "id": 8430,
@@ -86,8 +116,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/7fa2e5683911739f72e3c.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2707"
   },
   {
     "id": 8429,
@@ -101,8 +137,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/3ceb1f2c25a331688694d.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2706"
   },
   {
     "id": 8428,
@@ -116,8 +158,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/6b12daa366b7c005513b1.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2705"
   },
   {
     "id": 8427,
@@ -131,8 +179,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/620a092903d2fc4ca1166.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2704"
   },
   {
     "id": 8426,
@@ -146,8 +200,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/4a497873c3880fa11fdaf.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2703"
   },
   {
     "id": 8425,
@@ -161,8 +221,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/36433251edccdf589669f.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2702"
   },
   {
     "id": 8424,
@@ -176,8 +242,14 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f66bd55ab49020347b8ef.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2701"
   },
   {
     "id": 8423,
@@ -191,7 +263,13 @@ window.PAGE_DATA = [
     "company": null,
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
-    "actress": [],
-    "title_play_url": null
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2700"
   }
 ];
