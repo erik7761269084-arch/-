@@ -100,7 +100,7 @@ body {
     align-items:center;
     gap:4px;
 }
-.date::before { content:"í ½í³…"; }
+.date::before { content:" "; }
 
 .pagination {
     display:flex;
@@ -230,11 +230,11 @@ function renderAll(data){
         <div style="position:relative;">
           <img src="${d.cover_url || 'https://via.placeholder.com/320x180?text=No+Cover'}">
           <div class="actor">${a}</div>
-          <div class="card-type">${d.type||'æœªçŸ¥'}</div>
+ 
         </div>
         <div class="card-info">
           <div class="card-info-top">
-            <span class="idcode">${d.IDcode}</span>
+ 
             <span class="title">${d.title}</span>
           </div>
           <div class="card-info-bottom">

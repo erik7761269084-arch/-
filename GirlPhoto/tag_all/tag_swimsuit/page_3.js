@@ -136,7 +136,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "HaneAme雨波_",
-        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg"
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=954"

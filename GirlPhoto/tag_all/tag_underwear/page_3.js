@@ -16,7 +16,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8684"
@@ -39,7 +40,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8686"
@@ -61,7 +63,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8690"
@@ -83,7 +86,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8693"
@@ -105,7 +109,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8698"
@@ -127,7 +132,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8700"
@@ -150,7 +156,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8702"
@@ -172,7 +179,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8706"
@@ -194,7 +202,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8711"
@@ -216,7 +225,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8717"
@@ -238,7 +248,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8719"
@@ -261,7 +272,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8720"
@@ -283,7 +295,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8724"
@@ -305,7 +318,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8727"
@@ -327,7 +341,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8728"
@@ -350,7 +365,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8739"
@@ -373,7 +389,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8751"

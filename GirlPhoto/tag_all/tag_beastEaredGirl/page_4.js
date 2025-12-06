@@ -50,7 +50,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Fushii_海堂",
-        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg"
+        "img_url": "https://telegra.ph/file/b8dd8644d989d55d09d7c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Fushii_海堂.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=781"
@@ -159,7 +160,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=804"
@@ -505,7 +507,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8588"
@@ -527,7 +530,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=860"
@@ -549,7 +553,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8601"
@@ -571,7 +576,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=864"
@@ -594,7 +600,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8749"
@@ -667,7 +674,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=887"
@@ -758,7 +766,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=899"
@@ -1087,7 +1096,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "HaneAme雨波_",
-        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg"
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=965"

@@ -16,7 +16,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg"
+        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4331"
@@ -38,7 +39,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg"
+        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4681"
@@ -60,7 +62,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg"
+        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4709"
@@ -82,7 +85,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg"
+        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4715"
@@ -104,7 +108,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg"
+        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4844"
@@ -126,7 +131,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "封疆疆",
-        "img_url": "https://image.acg.lol/file/2025/07/13/1-1129b7c97e280aff0.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/13/1-1129b7c97e280aff0.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_封疆疆.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4871"
@@ -149,7 +155,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "瓜希酱",
-        "img_url": "https://image.acg.lol/file/2025/05/16/1-1.jpg"
+        "img_url": "https://image.acg.lol/file/2025/05/16/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_瓜希酱.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5198"
@@ -171,7 +178,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鬼畜瑶在不在w",
-        "img_url": "https://image.acg.lol/file/2025/08/17/1-16d206bb9dcab6db1.jpg"
+        "img_url": "https://image.acg.lol/file/2025/08/17/1-16d206bb9dcab6db1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鬼畜瑶在不在w.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5227"
@@ -193,7 +201,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "黑川",
-        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg"
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5514"
@@ -215,7 +224,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "花铃(花玲)",
-        "img_url": "https://image.acg.lol/file/2024/12/07/1-2.jpg"
+        "img_url": "https://image.acg.lol/file/2024/12/07/1-2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_花铃(花玲).html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5647"
@@ -237,7 +247,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "花铃(花玲)",
-        "img_url": "https://image.acg.lol/file/2024/12/07/1-2.jpg"
+        "img_url": "https://image.acg.lol/file/2024/12/07/1-2.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_花铃(花玲).html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5698"
@@ -259,7 +270,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "花柒Hana",
-        "img_url": "https://telegra.ph/file/20afe223bb7922f960b87.jpg"
+        "img_url": "https://telegra.ph/file/20afe223bb7922f960b87.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_花柒Hana.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5733"
@@ -281,7 +293,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "佳佳好难啊",
-        "img_url": "https://telegra.ph/file/95a9786dbf6cc02d88414.jpg"
+        "img_url": "https://telegra.ph/file/95a9786dbf6cc02d88414.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_佳佳好难啊.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5755"
@@ -303,7 +316,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "金鱼",
-        "img_url": "https://telegra.ph/file/b3c74076539fe77c7289a.jpg"
+        "img_url": "https://telegra.ph/file/b3c74076539fe77c7289a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金鱼.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5855"
@@ -325,7 +339,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九曲jean",
-        "img_url": "https://image.acg.lol/file/2025/07/28/1-40ec11ff67885d400d.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/28/1-40ec11ff67885d400d.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九曲jean.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5950"
@@ -347,7 +362,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九言",
-        "img_url": "https://image.acg.lol/file/2025/07/17/1-11d353349b7e6265c4.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/17/1-11d353349b7e6265c4.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九言.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5996"
@@ -369,7 +385,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九言",
-        "img_url": "https://image.acg.lol/file/2025/07/17/1-11d353349b7e6265c4.jpg"
+        "img_url": "https://image.acg.lol/file/2025/07/17/1-11d353349b7e6265c4.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九言.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6023"
@@ -391,7 +408,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "芦苇苇苇",
-        "img_url": "https://telegra.ph/file/c6dd3797b2679e50c6e7f.jpg"
+        "img_url": "https://telegra.ph/file/c6dd3797b2679e50c6e7f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_芦苇苇苇.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6230"
@@ -413,7 +431,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿八岁baby",
-        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg"
+        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6452"
@@ -435,7 +454,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "洛璃LoLiSAMA",
-        "img_url": "https://image.acg.lol/file/2025/01/13/1-76.jpg"
+        "img_url": "https://image.acg.lol/file/2025/01/13/1-76.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛璃LoLiSAMA.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6614"
@@ -457,7 +477,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "麻花酱",
-        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg"
+        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_麻花酱.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6695"
@@ -479,7 +500,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "麻花酱",
-        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg"
+        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_麻花酱.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6696"
@@ -501,7 +523,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "麻花酱",
-        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg"
+        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_麻花酱.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6723"
@@ -523,7 +546,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鳗鱼霏儿",
-        "img_url": "https://telegra.ph/file/57de4f216daefc062ef2a.jpg"
+        "img_url": "https://telegra.ph/file/57de4f216daefc062ef2a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鳗鱼霏儿.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6796"
@@ -545,7 +569,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鳗鱼霏儿",
-        "img_url": "https://telegra.ph/file/57de4f216daefc062ef2a.jpg"
+        "img_url": "https://telegra.ph/file/57de4f216daefc062ef2a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鳗鱼霏儿.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6826"
@@ -738,7 +763,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "面饼仙儿",
-        "img_url": "https://image.acg.lol/file/2025/06/12/1-1fcf02c93afab7c8f.jpg"
+        "img_url": "https://image.acg.lol/file/2025/06/12/1-1fcf02c93afab7c8f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_面饼仙儿.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7412"
@@ -879,7 +905,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8735"
@@ -901,7 +928,8 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "秋和柯基",
-        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg"
+        "img_url": "https://telegra.ph/file/bf98d07594a31a3921df9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_秋和柯基.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8747"
