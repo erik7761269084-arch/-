@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/XiaoYu-Vol933-Dou-Ban-Jiang-豆瓣酱-08-29">XiaoYu Vol.933 Dou Ban Jiang (豆瓣酱)</a></p>
   <p><a href="https://telegra.ph/Vol943-豆瓣酱-08-30">Vol.943 豆瓣酱</a></p>
   <p><a href="https://telegra.ph/XIAOYU语画界-20230411-Vol1004-豆瓣酱-08-30-3">[XIAOYU]语画界 2023.04.11 Vol.1004 豆瓣酱</a></p>
@@ -67,3 +95,6 @@
   <p><a href="https://telegra.ph/No3651-豆瓣酱-08-30">No.3651 豆瓣酱</a></p>
   <p><a href="https://telegra.ph/No3596-豆瓣酱-08-30">No.3596 豆瓣酱</a></p>
   <p><a href="https://telegra.ph/No3534-豆瓣酱-08-30">No.3534 豆瓣酱</a></p>
+
+</body>
+</html>

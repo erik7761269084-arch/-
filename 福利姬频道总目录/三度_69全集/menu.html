@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/%E4%B8%89%E5%BA%A6-69---%E8%8F%B2%E4%BC%A6-80P2V-676MB-08-20">三度_69 - 菲伦 [80P2V-676MB]</a></p>
   <p><a href="https://telegra.ph/%E4%B8%89%E5%BA%A6-69-%E8%89%BE%E7%BB%B4%E9%9C%B2%E7%90%AA%E4%BA%9A-08-23">三度_69 艾维露琪亚</a></p>
   <p><a href="https://telegra.ph/三度-69-温泉美人鱼X贝壳-08-24">三度_69 温泉美人鱼X贝壳</a></p>
@@ -10,3 +39,6 @@
   <p><a href="https://telegra.ph/三度-69-黑旗袍-50P2V-951MB-08-25-2">三度_69 黑旗袍 [50P2V-951MB]</a></p>
   <p><a href="https://telegra.ph/三度-69-牛牛泳装-08-25">三度_69 牛牛泳装</a></p>
   <p><a href="https://telegra.ph/三度-69---NO67-琴女兔女郎-41P-309MB-08-26">三度_69 - NO.67 琴女兔女郎 [41P-309MB]</a></p>
+
+</body>
+</html>

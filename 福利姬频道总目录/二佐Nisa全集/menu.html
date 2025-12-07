@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+  <p><a href="../index.html">返回总目录</a></p>
   <p><a href="https://telegra.ph/%E4%BA%8C%E4%BD%90Nisa---%E5%B0%8F%E9%AD%85%E9%AD%94%E7%AB%9E%E6%B3%B3%E8%87%AA%E6%8B%8D-36P-177M-08-19">二佐Nisa - 小魅魔竞泳自拍 [36P-177M]</a></p> 
   <p><a href="https://telegra.ph/%E4%BA%8C%E4%BD%90Nisa---%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E5%A4%A7%E5%87%A4%E5%85%94%E5%A5%B3%E9%83%8E-108P1V-1G-08-20">二佐Nisa - 碧蓝航线 大凤兔女郎 [108P1V-1G]</a></p> 
   <p><a href="https://telegra.ph/%E4%B9%9D%E6%9B%B2Jean-%E4%BA%8C%E4%BD%90Nisa---%E9%BB%91%E7%B4%AB%E8%95%BE%E4%B8%9D%E5%A5%97-30p-2v-08-20">九曲Jean 二佐Nisa - 黑紫蕾丝套 30p 2v</a></p>
@@ -195,3 +224,7 @@
   <p><a href="https://telegra.ph/二佐Nisa---碧蓝水星纪念围裙-08-29">二佐Nisa - 碧蓝水星纪念围裙</a></p>
   <p><a href="https://telegra.ph/二佐Nisa-恰巴耶夫礼服-08-29">二佐Nisa 恰巴耶夫礼服</a></p>
   <p><a href="https://telegra.ph/二佐Nisa-原神甘雨婚纱内衣-08-29">二佐Nisa 原神甘雨婚纱内衣</a></p>
+
+
+</body>
+</html>

@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/%E4%BA%8C%E9%98%B6%E5%A0%82-%E5%AE%85%E7%BB%98%E5%AD%90-%E5%B0%8F%E7%86%8A-74P1V-08-22">二阶堂 (宅绘子) 小熊 74P1V</a></p>
   <p><a href="https://telegra.ph/%E4%BA%8C%E9%98%B6%E5%A0%82-%E5%8F%8C%E9%A9%AC%E5%B0%BE%E6%B3%B3%E8%A3%85-48P3V-08-23">二阶堂 双马尾泳装 48P3V</a></p>
   <p><a href="https://telegra.ph/%E4%BA%8C%E9%98%B6%E5%A0%82-%E5%83%B5%E5%B0%B8-97P-08-23">二阶堂 僵尸 97P</a></p>
@@ -22,3 +51,6 @@
   <p><a href="https://telegra.ph/二阶堂-红色外套-83p-08-24">二阶堂 红色外套 83p</a></p>
   <p><a href="https://telegra.ph/二阶堂-粉丝护士-111p1v-08-24">二阶堂 粉丝护士 111p1v</a></p>
   <p><a href="https://telegra.ph/二阶堂-JK学妹-118p-08-24">二阶堂 JK学妹 118p</a></p>
+
+</body>
+</html>

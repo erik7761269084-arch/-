@@ -1,2 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+  
   <p><a href="https://telegra.ph/%E7%B3%96%E6%9E%9C%E6%9E%9Ccandy-%E9%BB%91%E8%83%B6%E5%85%94%E5%85%941-110P-124GB-08-22">糖果果candy 黑胶兔兔1 [110P-1.24GB]</a></p>
   <p><a href="https://telegra.ph/%E7%B3%96%E6%9E%9C%E6%9E%9CCandy-22%E5%B9%B412%E6%9C%88%E8%88%B0%E9%95%BF-%E6%AD%BB%E5%BA%93%E6%B0%B488P755MB-08-23">糖果果Candy 22年12月舰长 死库水(88P755MB)</a></p>
+ 
+</body>
+</html>

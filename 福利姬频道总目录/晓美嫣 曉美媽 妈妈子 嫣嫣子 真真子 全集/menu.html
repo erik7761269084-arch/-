@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/%E5%A6%88%E5%A6%88%E5%AD%90-Blue-Archive---%E4%BC%8A%E8%90%BD%E3%83%9E%E3%83%AA%E3%83%BC%E4%BD%93%E6%93%8D%E6%9C%8Dcosplay-vol02-08-23">妈妈子 《Blue Archive - 伊落マリー（体操服）》cosplay vol.02</a></p>
   <p><a href="https://telegra.ph/%E6%99%93%E7%BE%8E%E5%AB%A3-%E5%A6%88%E5%A6%88%E5%AD%90-%E7%A2%A7%E8%93%9D%E6%A1%A3%E6%A1%88-%E5%A6%83%E5%92%B2-70P-215MB-08-23">晓美嫣 妈妈子 碧蓝档案 妃咲 [70P-215MB]</a></p>
   <p><a href="https://telegra.ph/晓美嫣-Game-Over-战术护目镜图-51P-149MB-08-24">晓美嫣 Game Over 战术护目镜图 [51P-149MB]</a></p>
@@ -36,3 +65,7 @@
   <p><a href="https://telegra.ph/Cosplay写真-动漫博主曉美媽---夜玫瑰爱丽丝写真-08-26">曉美媽 - 夜玫瑰爱丽丝</a></p>
   <p><a href="https://telegra.ph/COS福利-动漫博主曉美媽---微醺爱丽丝写真-08-26">曉美媽 - 微醺爱丽丝</a></p>
   <p><a href="https://telegra.ph/冬季恋人-08-25">晓美嫣 妈妈子 《冬季恋人》</a></p>
+ 
+
+</body>
+</html>

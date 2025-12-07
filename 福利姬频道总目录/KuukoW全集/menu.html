@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/KuukoW-NO001-Silent-Summer-2020-08-29">KuukoW NO.001 Silent Summer 2020</a></p>
   <p><a href="https://telegra.ph/KuukoW-NO006-克隆体-08-29">KuukoW NO.006 克隆体</a></p>
   <p><a href="https://telegra.ph/KuukoW---Tifa-08-29">KuukoW - Tifa</a></p>
@@ -7,3 +35,6 @@
   <p><a href="https://telegra.ph/KuukoW---八重樱-崩坏3-08-29">KuukoW - 八重樱 崩坏3</a></p>
   <p><a href="https://telegra.ph/KuukoW---白色天使-08-29">KuukoW - 白色天使</a></p>
   <p><a href="https://telegra.ph/KuukoW---酒吞童子-08-29">KuukoW - 酒吞童子</a></p>
+
+</body>
+</html>

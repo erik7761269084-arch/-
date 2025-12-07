@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/Bangni%E9%82%A6%E5%B0%BC---%E9%99%90%E5%AE%9A%E5%A5%B3%E5%8F%8B-40P11V-383M-08-19">Bangni邦尼 - 限定女友 [40P11V-383M]</a></p> 
   <p><a href="https://telegra.ph/Bangni%E9%82%A6%E5%B0%BC---NIKKE%E6%AF%92%E8%9B%87-08-19">Bangni邦尼 - NIKKE毒蛇</a></p> 
   <p><a href="https://telegra.ph/Bangni%E9%82%A6%E5%B0%BC---%E9%AD%94%E6%B3%95%E5%B9%BB%E5%A2%83-88P-1G-08-19">Bangni邦尼 - 魔法幻境 [88P-1G]</a></p> 
@@ -22,3 +51,5 @@
   <p><a href="https://telegra.ph/Bangni%E9%82%A6%E5%B0%BC---%E7%BA%A6%E5%B0%94-84P5V-816MB-08-20">Bangni邦尼 - 约尔 [84P5V-816MB]</a></p>
   <p><a href="https://telegra.ph/Bangni%E9%82%A6%E5%B0%BC---%E7%B2%89%E8%89%B2%E5%85%94%E5%85%94-102P-582MB-08-20">Bangni邦尼 - 粉色兔兔 [102P-582MB]</a></p>
   <p><a href="https://telegra.ph/Bangni%E9%82%A6%E5%B0%BC---%E6%9D%80%E6%88%AE%E9%83%BD%E5%B8%82-%E4%B8%8B%E5%B9%B3%E7%8E%B2%E8%8A%B1-98P6V-173GB-08-20">Bangni邦尼 - 杀戮都市 下平玲花 [98P6V-1.73GB]</a></p>
+</body>
+</html>

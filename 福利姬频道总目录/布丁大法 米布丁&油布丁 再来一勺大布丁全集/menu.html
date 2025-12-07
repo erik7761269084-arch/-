@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+
   <p><a href="https://telegra.ph/%E5%B8%83%E4%B8%81---Perohub-3%E6%9C%88%E8%AE%A2%E9%98%85-08-19">布丁 - Perohub 3月订阅</a></p>
   <p><a href="https://telegra.ph/%E5%B8%83%E4%B8%81---Perohub-3%E6%9C%88%E8%AE%A2%E9%98%85-2-08-19">布丁 - Perohub 3月订阅 2</a></p>
   <p><a href="https://telegra.ph/%E5%B8%83%E4%B8%81---Perohub-4%E6%9C%88%E8%AE%A2%E9%98%85-08-19">布丁 - Perohub 4月订阅</a></p>
@@ -97,3 +126,6 @@
   <p><a href="https://telegra.ph/布丁大法---芋泥麻薯-08-27">布丁大法 - 芋泥麻薯</a></p>
   <p><a href="https://telegra.ph/布丁大法---黑丝-08-27">布丁大法 - 黑丝</a></p>
   <p><a href="https://telegra.ph/洛洛-奶味布丁-08-27">洛洛 奶味布丁</a></p>
+ 
+</body>
+</html>

@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+
   <p><a href="https://telegra.ph/Loozy-Bambi-밤비---S-Bambi-08-25">[Loozy] Bambi (밤비) - S-Bambi</a></p>
   <p><a href="https://telegra.ph/Bambi밤비---BlueCake-Dive-Into-You-Princess-Connect-Re-Dive-89P-817MB-08-25-2">Bambi밤비 - [BlueCake] Dive Into You (Princess Connect! Re_Dive) [89P-817MB]</a></p>
   <p><a href="https://telegra.ph/Bambi-밤비---Sticky-Boosette-08-25">Bambi (밤비) - Sticky Boosette</a></p>
@@ -27,6 +56,7 @@
   <p><a href="https://telegra.ph/Bambi-밤비--CreamSoda-Cosplay-Serket-126P-188GB-08-26">Bambi (밤비) – [CreamSoda] Cosplay Serket [126P-1.88GB]</a></p>
   <p><a href="https://telegra.ph/Bambi-jesuis-吉他妹妹-08-26">Bambi jesuis 吉他妹妹</a></p>
   <p><a href="https://telegra.ph/PURE-Vol115---Bambi-08-26">PURE_Vol.115 - Bambi</a></p>
+
   <p><a href="https://telegra.ph/Sonson-BamBi밤비-Maid-Mansion-W-153P113G-08-26">Sonson &BamBi밤비 Maid Mansion W [153P1.13G]</a></p>
   <p><a href="https://telegra.ph/BLUECAKE-Bambi---Hancock-08-26">Bambi - Hancock</a></p>
   <p><a href="https://telegra.ph/LOOZY-Bambi---S-Bambi-08-26">[LOOZY]  Bambi - S-Bambi</a></p>
@@ -66,3 +96,5 @@
   <p><a href="https://telegra.ph/Bambi-밤비BLUECAKE-Camille-Code-Name-BUNNY-08-29">Bambi (밤비)[BLUECAKE] Camille Code Name BUNNY</a></p>
   <p><a href="https://telegra.ph/Bambi---Love-Dive-AB-08-29">Bambi - Love Dive A+B</a></p>
   <p><a href="https://telegra.ph/Bambi--PCroom-alba-08-29">Bambi – PCroom alba</a></p>
+</body>
+</html>

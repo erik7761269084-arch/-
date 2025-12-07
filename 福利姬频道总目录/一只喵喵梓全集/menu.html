@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E7%B4%A7%E6%80%A5%E4%BC%81%E5%88%92-%E4%B8%80%E5%8F%AA%E5%96%B5%E5%96%B5%E6%A2%93---%E9%BB%91%E4%B8%9D%E5%88%B6%E6%9C%8D-67P1V-198G-08-23">[紧急企划] 一只喵喵梓 - 黑丝制服 [67P1V-1.98G]</a></p> 
   <p><a href="https://telegra.ph/紧急企划-一只喵喵梓-车内白丝-88P1V-404GB-08-25">紧急企划 一只喵喵梓 车内白丝 [88P1V-4.04GB]</a></p>
   <p><a href="https://telegra.ph/紧急企划---一只喵喵梓-旗袍黑丝-59P-211GB-08-26">紧急企划 - 一只喵喵梓 旗袍黑丝 [59P-2.11GB]</a></p>
@@ -19,3 +47,5 @@
 <p><a href="https://telegra.ph/紧急企划-一只喵喵梓--内部作品15-08-29-2">紧急企划 一只喵喵梓 – 内部作品15</a></p>
 <p><a href="https://telegra.ph/紧急企划-一只喵喵梓--内部作品20-08-29-2">紧急企划 一只喵喵梓 – 内部作品20</a></p>
 <p><a href="https://telegra.ph/紧急企划-一只喵喵梓--黑丝制服-08-29">紧急企划 一只喵喵梓 – 黑丝制服</a></p>
+</body>
+</html>

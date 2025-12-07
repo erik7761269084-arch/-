@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E6%9F%92%E6%9F%92%E4%B8%8D%E5%8F%AF%E7%88%B1-%E5%B0%8F%E7%81%B0%E5%85%94-71P1V-08-22">柒柒不可爱 小灰兔 71P1V</a></p>
   <p><a href="https://telegra.ph/%E6%9F%92%E6%9F%92%E4%B8%8D%E5%8F%AF%E7%88%B1-Mewo-08-22">柒柒不可爱 Mewo</a></p>
   <p><a href="https://telegra.ph/%E6%9F%92%E6%9F%92%E4%B8%8D%E5%8F%AF%E7%88%B1-%E7%B2%89%E8%89%B2%E6%B3%B3%E8%A1%A3-08-22">柒柒不可爱 粉色泳衣</a></p>
@@ -65,3 +93,6 @@
   <p><a href="https://telegra.ph/柒柒要乖哦--白丝死库水-08-29">柒柒要乖哦 – 白丝死库水</a></p>
   <p><a href="https://telegra.ph/柒柒要乖哦--清寂-08-29">柒柒要乖哦 – 清寂</a></p>
   <p><a href="https://telegra.ph/柒柒要乖哦--半糖下午茶-08-29">柒柒要乖哦 – 半糖下午茶</a></p>
+ 
+</body>
+</html>

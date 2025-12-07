@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E7%84%96%E7%84%96%E7%A2%B3---%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF-%E7%B4%A2%E7%B1%B3-%E6%B3%B3%E8%A3%8546P-150M-08-20">焖焖碳 - 少女前线 索米 泳装[46P-150M]</a></p> 
   <p><a href="https://telegra.ph/焖焖碳-EVA-明日香2月28打赏群资源-08-24">焖焖碳 EVA 明日香（2月28打赏群资源）</a></p>
   <p><a href="https://telegra.ph/焖焖碳-独角兽和服-30P-124MB-08-24">焖焖碳 独角兽和服 [30P-124MB]</a></p>
@@ -31,3 +59,7 @@
   <p><a href="https://telegra.ph/焖焖碳Tomoyo酱---碧蓝航线-埃姆登-双黑白夜之主-08-27">焖焖碳&Tomoyo酱 - 碧蓝航线 埃姆登 双黑白夜之主</a></p>
   <p><a href="https://telegra.ph/焖焖碳-能代--麻辣兔头X异色兔--恶毒兔头-08-29">焖焖碳 能代 / 麻辣兔头X异色兔 / 恶毒兔头</a></p>
   <p><a href="https://telegra.ph/焖焖碳-碧蓝航线镇海--白黑礼服-08-29">焖焖碳 碧蓝航线镇海 – 白黑礼服</a></p>
+
+
+</body>
+</html>

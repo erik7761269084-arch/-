@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---隣のやばいお姉さん-背心-08-27">萌妹子Nyako喵子 - 隣のやばいお姉さん 背心[78p1v-732M]</a></p>
   <p><a href="https://telegra.ph/Nyako喵子---隣のやばいお姉さん-OL-08-29">Nyako喵子 - 隣のやばいお姉さん OL[78p1v-715M]</a></p>
   <p><a href="https://telegra.ph/Nyako%E5%96%B5%E5%AD%90-%E7%94%B5%E5%AD%90%E7%89%8854%E8%AF%B1%E6%8B%90%E6%9C%AC-08-22">Nyako喵子 电子版54诱拐本</a></p>  
@@ -49,6 +77,8 @@
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---薄纱-08-27">萌妹子Nyako喵子 -   薄纱</a></p>
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---蕾丝-08-27">萌妹子Nyako喵子 -   蕾丝</a></p>
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---夏の彼女-08-27">萌妹子Nyako喵子 -   夏の彼女</a></p>
+
+
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---情趣珍珠1-08-27">萌妹子Nyako喵子 - 情趣珍珠1</a></p>
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---情趣珍珠2-08-27">萌妹子Nyako喵子 - 情趣珍珠2</a></p>
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---碧蓝航线镇海-08-27">萌妹子Nyako喵子 - 碧蓝航线镇海</a></p>
@@ -94,3 +124,5 @@
   <p><a href="https://telegra.ph/Nyako喵子--痴女メイト-08-29">Nyako喵子 –  痴女メイド  </a></p>
   <p><a href="https://telegra.ph/Nyako喵子-诱拐本-08-29">Nyako喵子 诱拐本</a></p>
   <p><a href="https://telegra.ph/喵子Nyako-竞泳本-08-29">喵子Nyako 竞泳本</a></p>
+</body>
+</html>

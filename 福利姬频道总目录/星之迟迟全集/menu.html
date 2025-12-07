@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E6%98%9F%E4%B9%8B%E8%BF%9F%E8%BF%9F-2025-2-F-NIKKE%E6%AF%92%E8%9B%87%E6%B3%B3%E8%A3%85-08-19">星之迟迟 2025-2-F NIKKE—毒蛇泳装</a></p>
   <p><a href="https://telegra.ph/%E6%98%9F%E4%B9%8B%E8%BF%9F%E8%BF%9F-2025-2-G-%E4%B8%8D%E8%83%9C%E9%85%92%E5%8A%9B%E7%9A%84%E6%96%B0%E4%BA%BA%E5%90%8E%E8%BE%88-08-19">星之迟迟 2025-2-G 不胜酒力的新人后辈</a></p>
   <p><a href="http://telegra.ph/%E6%98%9F%E4%B9%8B%E8%BF%9F%E8%BF%9F-2025-2-E-%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF%E6%80%A8%E4%BB%87-52p-08-19">星之迟迟 2025-2-E 碧蓝航线—怨仇 52p</a></p>
@@ -347,3 +375,7 @@
   <p><a href="https://telegra.ph/星之迟迟---24年04月计划D-治愈之旅part2小憩篇-08-29">星之迟迟 - 24年04月计划D 治愈之旅part.2小憩篇</a></p>
   <p><a href="https://telegra.ph/星之迟迟---2024年05月计划C-对策部-宇都宫沙希-08-29">星之迟迟 - 2024年05月计划C 对策部 宇都宫沙希</a></p>
   <p><a href="https://telegra.ph/星之迟迟---2024年05月计划D-原创-辣妹补习班-08-29">星之迟迟 - 2024年05月计划D 原创 辣妹补习班</a></p>
+
+
+</body>
+</html>

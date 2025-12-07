@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/王胖胖u-蕾姆绵羊-08-26">王胖胖u 蕾姆绵羊</a></p>
   <p><a href="https://telegra.ph/王胖胖u---VOL07-fate酒吞僵尸童子-15P-443MB-08-26">王胖胖u - VOL.07 fate酒吞僵尸童子 [15P-443MB]</a></p>
   <p><a href="https://telegra.ph/王胖胖u---VOL06-Alice-the-maid-08-26">王胖胖u - VOL.06 Alice the maid</a></p>
@@ -6,3 +34,5 @@
   <p><a href="https://telegra.ph/王胖胖u---VOL03-浴缸-08-26">王胖胖u - VOL.03 浴缸</a></p>
   <p><a href="https://telegra.ph/王胖胖u---VOL02-Dva比基尼-26P-428MB-08-26">王胖胖u - VOL.02 Dva比基尼 [26P-428MB]</a></p>
   <p><a href="https://telegra.ph/王胖胖u---VOL01-粉兔儿-27P-422MB-08-26">王胖胖u - VOL.01 粉兔儿 [27P-422MB]</a></p>
+</body>
+</html>

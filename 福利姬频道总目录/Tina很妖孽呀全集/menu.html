@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/Tina%E5%BE%88%E5%A6%96%E5%AD%BD%E5%91%80-%E5%A5%88%E5%A5%88%E5%90%8C%E5%AD%A6---%E5%9C%A3%E8%AF%9E%E8%8A%82%E9%99%90%E5%AE%9A-82P1V-428M-08-20">Tina很妖孽呀 &奈奈同学 - 圣诞节限定 [82P1V-428M]</a></p>
   <p><a href="https://telegra.ph/Tina%E5%BE%88%E5%A6%96%E5%AD%BD%E5%91%80-%E5%A6%B9%E5%A6%B9%E5%9C%A8%E5%AE%B6%E7%9A%84%E7%A7%98%E5%AF%86-56P1V-08-21">Tina很妖孽呀 妹妹在家的秘密 56P1V</a></p>
   <p><a href="https://telegra.ph/Tina%E5%BE%88%E5%A6%96%E5%AD%BD%E5%91%80-%E7%9F%AD%E5%8F%91%E5%A5%B3%E7%89%B9%E5%B7%A5-42P-08-21">Tina很妖孽呀 短发女特工 42P</a></p>
@@ -36,3 +64,6 @@
   <p><a href="https://telegra.ph/Tina很妖孽呀--人柒沐浴-08-29">Tina很妖孽呀 – 人柒沐浴</a></p>
   <p><a href="https://telegra.ph/Tina很妖孽呀---少女的心愿-08-29">Tina很妖孽呀 - 少女的心愿</a></p>
   <p><a href="https://telegra.ph/Tina很妖孽呀---妹妹在家的秘密-08-29">Tina很妖孽呀 - 妹妹在家的秘密</a></p>
+
+</body>
+</html>

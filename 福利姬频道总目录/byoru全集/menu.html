@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/byoru---25%E5%B9%B406%E6%9C%88-%E9%AC%BC%E9%BE%99%E9%99%A2%E7%9A%8B%E6%9C%88-08-19">byoru - 25年06月 鬼龙院皋月</a></p> 
   <p><a href="https://telegra.ph/byoru---25%E5%B9%B406%E6%9C%88-%E5%B4%A9%E9%93%81-%E9%A3%9E%E9%9C%84-08-19">byoru - 25年06月 崩铁 飞霄</a></p> 
   <p><a href="https://telegra.ph/byoru---25%E5%B9%B406%E6%9C%88-%E5%AE%9D%E9%90%98%E3%83%9E%E3%83%AA%E3%83%B3-OL-08-19">byoru - 25年06月 宝鐘マリン OL</a></p> 
@@ -173,3 +201,5 @@
   <p><a href="https://telegra.ph/Byoru-Helm-Chanderlier-NIKKE-08-29">Byoru Helm Chanderlier NIKKE</a></p>
   <p><a href="https://telegra.ph/Byoru---Genshin-Impact-Arlecchino-Dress-08-29">Byoru - Genshin Impact Arlecchino Dress</a></p>
   <p><a href="https://telegra.ph/Byoru---Queen-Marika玛丽卡女王-艾尔登法环-08-29">Byoru - Queen Marika玛丽卡女王 艾尔登法环</a></p>
+</body>
+</html>

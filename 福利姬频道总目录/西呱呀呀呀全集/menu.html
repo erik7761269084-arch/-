@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/西呱呀呀呀黑丝双人89p805mb-08-26">西呱呀呀呀 黑丝双人 [89p+805mb]</a></p>
   <p><a href="https://telegra.ph/VOL007-西呱呀呀呀-花样的年华-08-28">VOL.007 西呱呀呀呀 花样的年华</a></p>
   <p><a href="https://telegra.ph/VOL086-西呱呀呀呀-私房白袜-08-28">VOL.086 西呱呀呀呀 私房白袜</a></p>
@@ -5,3 +33,6 @@
   <p><a href="https://telegra.ph/JKL018-西呱呀呀呀-户外JK制服-08-28">JKL.018 西呱呀呀呀 户外JK制服</a></p>
   <p><a href="https://telegra.ph/VOL257-西呱呀呀呀-夏日制服-08-28">VOL.257 西呱呀呀呀 夏日制服</a></p>
   <p><a href="https://telegra.ph/VOL273-西呱呀呀呀-白云森林-08-28">VOL.273 西呱呀呀呀 白云森林</a></p>
+
+</body>
+</html>

@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/Joyce---Raiden-Shogun-08-25">Joyce - Raiden Shogun</a></p>
   <p><a href="https://telegra.ph/Joyce-Pack-Nero-08-26">Joyce Pack Nero</a></p>
   <p><a href="https://telegra.ph/Joyce-Lin2x---Marin-Kitagawa-08-26">Joyce Lin2x - Marin Kitagawa</a></p>
@@ -6,3 +34,5 @@
   <p><a href="https://telegra.ph/Joyce---NO003-原神-八重神子-35P-195M-08-26">Joyce - NO.003 原神 八重神子 [35P-195M]</a></p>
   <p><a href="https://telegra.ph/Joyce---NO002-原神-烟绯-33P-234MB-08-26">Joyce - NO.002 原神 烟绯 [33P-234MB]</a></p>
   <p><a href="https://telegra.ph/Joyce---NO001-原神-芭芭拉-32P-191MB-08-26">Joyce - NO.001 原神 芭芭拉 [32P-191MB]</a></p>
+</body>
+</html>

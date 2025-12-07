@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB---%E9%BB%91%E7%A5%9E%E8%AF%9D-%E8%90%8D%E8%90%8D-138P-966M-08-19">蠢沫沫 - 黑神话 萍萍 [138P-966M]</a></p> 
   <p><a href="https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB---%E7%A7%8B%E5%AF%BB-%E4%B8%8A-276P-18G-08-19">蠢沫沫 - 秋寻 上 [276P-1.8G]</a></p> 
   <p><a href="https://telegra.ph/%E8%A0%A2%E6%B2%AB%E6%B2%AB---%E7%A7%8B%E5%AF%BB-%E4%B8%8B-279P-2G-08-19">蠢沫沫 - 秋寻 下 [279P-2G]</a></p> 
@@ -381,3 +410,7 @@
 <p><a href="https://telegra.ph/蠢沫沫橱窗娃娃-08-29">蠢沫沫《橱窗娃娃》</a></p>
 <p><a href="https://telegra.ph/蠢沫沫-绳-08-29">蠢沫沫 《绳》</a></p>
 <p><a href="https://telegra.ph/蠢沫沫-祥瑞-08-29">蠢沫沫 《祥瑞》</a></p>  
+
+
+</body>
+</html>

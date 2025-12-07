@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/%E7%BE%BD%E7%94%9F%E4%B8%89%E6%9C%AA---%E7%91%9C%E4%BC%BD%E5%A7%90%E5%A7%90-42P2V-379M-08-19">羽生三未 - 瑜伽姐姐 [42P2V-379M]</a></p> 
   <p><a href="https://telegra.ph/%E7%BE%BD%E7%94%9F%E4%B8%89%E6%9C%AA-%E5%B0%8F%E6%81%B6%E9%AD%94-%E7%BA%A2%E8%89%B2%E8%83%B6%E8%A1%A3-65P3V-08-22">羽生三未 小恶魔 红色胶衣 65P3V</a></p>
   <p><a href="https://telegra.ph/%E7%BE%BD%E7%94%9F%E4%B8%89%E6%9C%AA-%E9%80%B8%E4%BB%99-31P-08-23">羽生三未 逸仙 31P</a></p>
@@ -11,3 +40,5 @@
   <p><a href="https://telegra.ph/羽生三未---小猫私房-08-27">羽生三未 - 小猫私房</a></p>
   <p><a href="https://telegra.ph/羽生三未-尼禄-08-27">羽生三未 尼禄</a></p>
   <p><a href="https://telegra.ph/羽生三未---花甲僵尸-华甲欢庆三未全-08-29">羽生三未 - 花甲僵尸 华甲欢庆三未全</a></p>
+</body>
+</html>

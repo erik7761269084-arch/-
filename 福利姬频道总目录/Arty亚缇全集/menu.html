@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/Arty亚缇-2203Tier1-08-26">Arty亚缇 22.03Tier.1</a></p>
   <p><a href="https://telegra.ph/Arty亚缇-2203Tier2-08-26">Arty亚缇 22.03Tier.2</a></p>
   <p><a href="https://telegra.ph/Arty亚缇---NO16-RE从零开始的异世界生活-艾尔莎葛兰西尔特猎肠者-52P-127MB-08-26">Arty亚缇 - NO.16 RE：从零开始的异世界生活 艾尔莎·葛兰西尔特(猎肠者) [52P-127MB]</a></p>
@@ -14,3 +42,6 @@
   <p><a href="https://telegra.ph/Arty亚缇---REM-bunny-suit-ver-Re-Zero-08-26">Arty亚缇 - REM bunny suit ver. (Re_Zero)</a></p>
   <p><a href="https://telegra.ph/Coser萱-KaYa---亚缇-黑呆睡衣爱丽丝写真-08-26">Coser萱-KaYa - 亚缇 黑呆睡衣爱丽丝写真</a></p>
   <p><a href="https://telegra.ph/Arty亚缇---Sparkle-08-29">Arty亚缇 - Sparkle</a></p>
+
+</body>
+</html>

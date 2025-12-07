@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/白银81Patreon-08-25">白银81[Patreon]</a></p>
   <p><a href="https://telegra.ph/白银81---Fejira-白銀silver-SVR-FAN-051-162P-254MB-08-25">白银81 - [Fejira] 白銀silver SVR-FAN-051 [162P-254MB]</a></p>
   <p><a href="https://telegra.ph/白银81---NO74-12月会员合集-11期-259P8V-884MB-08-26">白银81 - NO.74 12月会员合集 (11期) [259P8V-884MB]</a></p>
@@ -145,3 +173,6 @@
   <p><a href="https://telegra.ph/白银81--自撮Vol76-08-29">白银81 – 自撮Vol.76</a></p>
   <p><a href="https://telegra.ph/白银---吉他妹妹-08-27">白银 - 吉他妹妹</a></p>
   <p><a href="https://telegra.ph/白银81---自撮り-吉他妹妹-08-29">白银81 - 自撮り 吉他妹妹</a></p>
+
+</body>
+</html>

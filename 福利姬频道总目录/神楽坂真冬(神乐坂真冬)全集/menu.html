@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/%E7%A5%9E%E6%A5%BD%E5%9D%82%E7%9C%9F%E5%86%AC---%E9%AD%85%E9%AD%94%E5%AD%A6%E5%A6%B9-75P2V-532M-08-19">神楽坂真冬 - 魅魔学妹 [75P2V-532M]</a></p> 
   <p><a href="https://telegra.ph/%E7%A5%9E%E6%A5%BD%E5%9D%82%E7%9C%9F%E5%86%AC---%E7%99%BD%E7%8C%AB%E5%85%AC%E4%B8%BB-75P2V-401M-08-19">神楽坂真冬 - 白猫公主 [75P2V-401M]</a></p> 
   <p><a href="https://telegra.ph/%E7%A5%9E%E6%A5%BD%E5%9D%82%E7%9C%9F%E5%86%AC---%E9%9B%AA%E7%B3%95%E5%85%94%E5%A5%B3%E9%83%8E-75P2V-270M-08-19">神楽坂真冬 - 雪糕兔女郎 [75P2V-270M]</a></p> 
@@ -178,3 +207,8 @@
   <p><a href="https://telegra.ph/神楽坂真冬-战斗修女-08-29">神楽坂真冬 战斗修女</a></p>
   <p><a href="https://telegra.ph/神楽坂真冬-足尖女仆-08-29">神楽坂真冬 足尖女仆</a></p>
   <p><a href="https://telegra.ph/神乐坂真冬---魔女的课后辅导-08-29">神乐坂真冬 - 魔女的课后辅导</a></p>
+
+ 
+
+</body>
+</html>

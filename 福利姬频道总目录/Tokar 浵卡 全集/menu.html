@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/Tokar-%E6%B5%B5%E5%8D%A1---Hoshimachi-Suisei-08-23">Tokar 浵卡 - Hoshimachi Suisei</a></p>
   <p><a href="https://telegra.ph/Tokar浵卡--Laurus-08-29">Tokar浵卡 – Laurus</a></p>
   <p><a href="https://telegra.ph/Tokar浵卡---白上吹雪-Shirakami-Fubuki-08-29">Tokar浵卡 - 白上吹雪 Shirakami Fubuki</a></p>
@@ -12,3 +40,7 @@
   <p><a href="https://telegra.ph/Tokar浵卡-年-08-29">Tokar浵卡 年</a></p>
   <p><a href="https://telegra.ph/Tokar浵卡-四月-Black-Swan--Hiiragi-Utena--Viper-08-29">Tokar浵卡 四月 Black Swan / Hiiragi Utena / Viper</a></p>
   <p><a href="https://telegra.ph/Tokar浵卡-五月-花火12-秋月愛莉--森-08-29">Tokar浵卡 五月 花火1/2 /秋月愛莉 / 森</a></p>
+
+
+</body>
+</html>

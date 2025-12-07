@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
 <p><a href="https://telegra.ph/是小逗逗--红色蕾丝情趣旗袍-08-29">是小逗逗 – 红色蕾丝情趣旗袍</a></p>
 <p><a href="https://telegra.ph/是小逗逗--花裙-08-29">是小逗逗 – 花裙</a></p>
 <p><a href="https://telegra.ph/小逗逗---花裙-08-30">小逗逗 - 花裙</a></p>
@@ -54,3 +82,6 @@
 <p><a href="https://telegra.ph/20240511-No8523-小逗逗-08-30">2024.05.11 No.8523 小逗逗</a></p>
 <p><a href="https://telegra.ph/20240516-No8552-小逗逗-08-30">2024.05.16 No.8552 小逗逗</a></p>
 <p><a href="https://telegra.ph/20240530-No8626-小逗逗-08-30">2024.05.30 No.8626 小逗逗</a></p>
+
+</body>
+</html>

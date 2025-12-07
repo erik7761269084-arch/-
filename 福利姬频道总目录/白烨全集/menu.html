@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+
   <p><a href="https://telegra.ph/%E7%99%BD%E7%83%A8-%E9%BB%91%E7%B3%BB%E7%8C%AB%E5%92%AA%E5%B0%91%E5%A5%B3-62P21V-121GB-08-23">白烨 黑系猫咪少女 [62P21V-1.21GB]</a></p>
   <p><a href="https://telegra.ph/%E7%99%BD%E7%83%A8-%E8%83%B6%E8%A1%A3%E9%AD%85%E9%AD%94%E5%A7%90%E5%A7%90-58P4V-08-23">白烨 胶衣魅魔姐姐 58P4V</a></p>
   <p><a href="https://telegra.ph/白烨X耶米西奶露-风纪委员-60P-305MB-08-25">白烨X耶米西奶露 风纪委员 [60P-305MB]</a></p>
@@ -56,3 +85,6 @@
   <p><a href="https://telegra.ph/白烨-可畏-78P11V爱丽丝写真-08-27">白烨 可畏 [78P11V]爱丽丝写真</a></p>
   <p><a href="https://telegra.ph/白烨-湿身天诚泳装-08-29">白烨 湿身天诚泳装</a></p>
   <p><a href="https://telegra.ph/白烨--秘书的私人时间20-08-29">白烨 – 秘书的私人时间2.0</a></p>
+
+</body>
+</html>

@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E9%9B%A8%E6%B3%A2Haneame-2024%E5%B9%B404%E6%9C%88%E8%AE%A2%E9%98%85-144P9V-108G-%E6%B1%89%E6%9C%8D-08-22">雨波Haneame 2024年04月订阅 [144P9V-1.08G] (汉服)</a></p>
   <p><a href="https://telegra.ph/%E9%9B%A8%E6%B3%A2Haneame-2024%E5%B9%B404%E6%9C%88%E8%AE%A2%E9%98%85-144P9V-108G-08-22">雨波Haneame 2024年04月订阅 [144P9V-1.08G]</a></p>
   <p><a href="https://telegra.ph/%E9%9B%A8%E6%B3%A2Haneame-2024%E5%B9%B403%E6%9C%88%E8%AE%A2%E9%98%85-144P8V-950MB-08-22">雨波Haneame 2024年03月订阅 [144P8V-950MB]</a></p>
@@ -178,3 +206,6 @@
   <p><a href="https://telegra.ph/Hane-Ame-雨波---艾姬多娜爱丽丝写真-08-27">Hane Ame 雨波 - 艾姬多娜爱丽丝写真</a></p>
   <p><a href="https://telegra.ph/Hane-Ame-雨波---25次元的诱惑爱丽丝写真-08-27">Hane Ame 雨波 - 2.5次元的诱惑爱丽丝写真</a></p>
   <p><a href="https://telegra.ph/Hane-Ame-雨波---紫式部爱丽丝写真-08-27">Hane Ame 雨波 - 紫式部爱丽丝写真</a></p>
+
+</body>
+</html>

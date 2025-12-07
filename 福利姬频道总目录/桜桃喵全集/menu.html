@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E6%A1%9C%E6%A1%83%E5%96%B5---%E9%9B%AA%E7%B3%95-07-19">桜桃喵 - 雪糕</a></p> 
   <p><a href="https://telegra.ph/%E6%A1%9C%E6%A1%83%E5%96%B5---%E9%A3%8E%E9%93%83%E5%85%AC%E4%B8%BB%E6%AE%BF%E4%B8%8B-39P-166M-08-19">桜桃喵 - 风铃公主殿下 [39P-166M]</a></p> 
   <p><a href="https://telegra.ph/%E6%A1%9C%E6%A1%83%E5%96%B5---%E6%95%99%E5%AE%A4%E6%AD%BB%E5%BA%93%E6%B0%B4-08-19">桜桃喵 - 教室死库水</a></p>
@@ -244,3 +272,6 @@
   <p><a href="https://telegra.ph/桜桃喵--精灵OL-08-29">桜桃喵 – 精灵OL</a></p>
   <p><a href="https://telegra.ph/桜桃喵-小憩-08-29">桜桃喵  小憩</a></p>
   <p><a href="https://telegra.ph/桜桃喵---Sweet-cherry-08-29">桜桃喵 - Sweet cherry</a></p>
+
+</body>
+</html>

@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E7%96%AF%E7%8C%ABss---%E7%94%9F%E6%97%A5%E6%9C%AC-%E8%8A%B1%E5%AB%81-51P-373M-08-19">疯猫ss - 生日本 花嫁 [51P-373M]</a></p> 
   <p><a href="https://telegra.ph/%E7%96%AF%E7%8C%ABss---%E4%BA%B2%E7%88%B1%E7%9A%84520-%E8%B0%83%E6%83%85%E6%81%B6%E9%AD%94-72P-466M-08-19">疯猫ss - 亲爱的520 调情恶魔 [72P-466M]</a></p> 
   <p><a href="https://telegra.ph/%E7%96%AF%E7%8C%ABSS---2b-53P-715M-08-20">疯猫SS - 2b [53P-715M]</a></p>
@@ -185,3 +213,6 @@
   <p><a href="https://telegra.ph/疯猫ss--黑丝束缚兔-08-29">疯猫ss – 黑丝束缚兔</a></p>
   <p><a href="https://telegra.ph/疯猫ss--黑丝女仆-08-29">疯猫ss – 黑丝女仆</a></p>
   <p><a href="https://telegra.ph/疯猫ss---布洛妮娅-大鸭鸭-08-29">疯猫ss - 布洛妮娅 大鸭鸭</a></p>
+
+</body>
+</html>

@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E7%9A%AE%E7%9A%AE%E5%A5%B6%E5%8F%AF%E5%8F%AF%E7%88%B1%E4%BA%86%E5%95%A6---%E9%AD%85%E9%AD%9440P-08-23">皮皮奶可可爱了啦 - 魅魔40P</a></p>
   <p><a href="https://telegra.ph/%E7%9A%AE%E7%9A%AE%E5%A5%B6---%E7%9D%AB%E6%AF%9B%E8%87%AA%E6%8B%8D-37P-210MB-08-19">皮皮奶 - 睫毛自拍 [37P-210MB]</a></p> 
   <p><a href="https://telegra.ph/%E7%9A%AE%E7%9A%AE%E5%A5%B6--JK%E7%BA%A2%E4%B9%A6%E5%8C%85-08-19">皮皮奶 – JK红书包</a></p>
@@ -56,3 +84,5 @@
   <p><a href="https://telegra.ph/皮皮奶可可爱了啦-僵尸少女-08-29">皮皮奶可可爱了啦 僵尸少女</a></p>
   <p><a href="https://telegra.ph/皮皮奶可可爱了--魅魔-08-29">皮皮奶可可爱了 – 魅魔</a></p>
   <p><a href="https://telegra.ph/皮皮奶可可爱了--魅魔2-08-29">皮皮奶可可爱了 – 魅魔2</a></p>
+</body>
+</html>

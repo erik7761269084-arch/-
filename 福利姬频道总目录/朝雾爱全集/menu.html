@@ -1,5 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/朝雾爱--修女-08-29">朝雾爱 – 修女</a></p>
   <p><a href="https://telegra.ph/朝雾爱-Yae-Miko--八重神子-08-29">朝雾爱 Yae Miko – 八重神子</a></p>
   <p><a href="https://telegra.ph/朝雾爱-碧蓝档案Iochi-Marī-08-29">朝雾爱 碧蓝档案Iochi Marī </a></p>
   <p><a href="https://telegra.ph/朝雾爱-原神--Qiqi七七-08-29">朝雾爱 原神 – Qiqi七七</a></p>
   <p><a href="https://telegra.ph/朝雾爱-回复术士的重启人生--芙蕾雅-08-29-2">朝雾爱 回复术士的重启人生 – 芙蕾雅</a></p>
+</body>
+</html>

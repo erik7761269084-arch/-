@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/蜜蜜子Kimmie---天狼星优质版会员资源518May-18-08-26">蜜蜜子Kimmie - 天狼星优质版（会员资源5.18）May 18,</a></p>
   <p><a href="https://telegra.ph/蜜蜜子Kimmie-2B同人-50P-08-26">蜜蜜子Kimmie 2B同人 50P</a></p>
   <p><a href="https://telegra.ph/蜜蜜子Kimmie---Luna胶衣-08-27">蜜蜜子Kimmie - Luna胶衣</a></p>
@@ -16,3 +44,5 @@
   <p><a href="https://telegra.ph/蜜蜜子Kimmie---迦南-08-29">蜜蜜子Kimmie - 迦南</a></p>
   <p><a href="https://telegra.ph/蜜蜜子Kimmie-家居服-08-29">蜜蜜子Kimmie 家居服</a></p>
   <p><a href="https://telegra.ph/蜜蜜子Kimmie-蓝色幻梦-08-29">蜜蜜子Kimmie 蓝色幻梦</a></p>
+</body>
+</html>

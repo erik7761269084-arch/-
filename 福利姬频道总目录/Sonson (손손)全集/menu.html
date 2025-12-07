@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/Loozy-Sonson-손손--Smer--SVer-158P-129BG-08-25">Sonson (손손) – Smer + S.Ver [158P-1.29BG]</a></p>
   <p><a href="https://telegra.ph/Loozy-Sonson---Reading-room-08-25">Sonson (손손) Reading room</a></p>
   <p><a href="https://telegra.ph/Sonson-Nude-Apron-08-25">Sonson (손손)  Nude Apron</a></p>
@@ -8,3 +36,6 @@
   <p><a href="https://telegra.ph/Bimilstory-SonSon-손손---Vol01-X-Stopwatch-Women-Sauna-08-29">SonSon (손손) Vol.01 X Stopwatch Women Sauna</a></p>
   <p><a href="https://telegra.ph/Bimilstory--SonSon-Vol02-Stop-watch-Subway-pervert-08-29">Sonson (손손) Vol.02 Stop watch Subway pervert</a></p>
   <p><a href="https://telegra.ph/Bimilstory---Sonson-Vol03-Pizza-Girl-08-29">Sonson (손손) Vol.03 Pizza Girl</a></p>
+
+</body>
+</html>

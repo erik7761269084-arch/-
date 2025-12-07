@@ -1,6 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B0%8F%E5%9C%86%E9%9D%A2%E5%8C%85-%E5%85%A5%E8%81%8C%E8%AE%AD%E7%BB%83-08-23">巧克力小圆面包 入职训练</a></p>
   <p><a href="https://telegra.ph/巧克力小圆面包-轻纱幔帐-62P4V-170GB-08-25">巧克力小圆面包 轻纱幔帐 [62P4V-1.70GB]</a></p>
   <p><a href="https://telegra.ph/巧克力小圆面包-五更琉璃-新春旗袍-08-25">巧克力小圆面包 五更琉璃 新春旗袍</a></p>
   <p><a href="https://telegra.ph/巧克力小圆面包-暗香疏影-115P4V-197GB-08-25">巧克力小圆面包 暗香疏影 [115P4V-1.97GB]</a></p>
   <p><a href="https://telegra.ph/巧克力小圆面包---入职培训-08-28">巧克力小圆面包 - 入职培训</a></p>
   <p><a href="https://telegra.ph/胡桃猫Kurumineko巧克力小圆面包---粉黑X兔兔恋兔之踪-08-28">胡桃猫Kurumineko&巧克力小圆面包 - 粉黑X兔兔『恋兔之踪』</a></p>
+
+</body>
+</html>

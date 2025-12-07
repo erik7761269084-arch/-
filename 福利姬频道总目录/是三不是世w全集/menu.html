@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
   <p><a href="https://telegra.ph/%E6%98%AF%E4%B8%89%E4%B8%8D%E6%98%AF%E4%B8%96w---%E5%81%B7%E7%8E%A9%E6%B8%B8%E6%88%8F%E6%9C%BA%E7%9A%84%E5%B0%91%E5%A5%B3-48P-703MB-08-20">是三不是世w - 偷玩游戏机的少女 48P 703MB</a></p>
   <p><a href="https://telegra.ph/%E6%98%AF%E4%B8%89%E4%B8%8D%E6%98%AF%E4%B8%96w---%E5%B0%8F%E8%80%81%E8%99%8E-101P-139GB-08-20">是三不是世w - 小老虎 [101P-1.39GB]</a></p>
   <p><a href="https://telegra.ph/%E6%98%AF%E4%B8%89%E4%B8%8D%E6%98%AF%E4%B8%96w---FGO-%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90-35P-150GB-08-20">是三不是世w - FGO 酒吞童子 [35P-1.50GB]</a></p>
@@ -16,6 +45,7 @@
   <p><a href="https://telegra.ph/是三不是世w-霜雪星辰-08-25">是三不是世w 霜雪星辰</a></p>
   <p><a href="https://telegra.ph/是三不是世w-和服-08-25">是三不是世w 和服</a></p>
   <p><a href="https://telegra.ph/是三不是世w-黑玫瑰-40P-313MB-08-25">是三不是世w 黑玫瑰 [40P-313MB]</a></p>
+ 
   <p><a href="https://telegra.ph/是三不是世w---原神莫娜女仆-08-25">是三不是世w - 原神莫娜女仆</a></p>
   <p><a href="https://telegra.ph/是三不是世w--日常妹妹会员资源-08-25">是三不是世w – 日常妹妹（会员资源）</a></p>
   <p><a href="https://telegra.ph/是三不是世---羊羊-39P-08-25">是三不是世 - 羊羊 [39P]</a></p>
@@ -32,3 +62,5 @@
   <p><a href="https://telegra.ph/是三不是世---功夫旗袍-08-29">是三不是世 - 功夫旗袍</a></p>
   <p><a href="https://telegra.ph/是三不是世-万圣节小女仆-08-29">是三不是世 万圣节小女仆</a></p>
   <p><a href="https://telegra.ph/是三不是世-华盛顿兔女郎-08-29">是三不是世 华盛顿兔女郎</a></p>
+</body>
+</html>

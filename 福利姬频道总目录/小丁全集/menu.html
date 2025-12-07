@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E6%B2%96%E7%94%B0%E5%87%9B%E8%8A%B1-%E5%B0%8F%E4%B8%81-%E9%9B%99%E4%BA%BACK-08-23">沖田凛花 小丁 雙人CK</a></p>
   <p><a href="https://telegra.ph/小丁-12月订阅3月5打赏群资源-08-25">小丁 12月订阅（3月5打赏群资源）</a></p>
   <p><a href="https://telegra.ph/小丁-12月订阅3月5打赏群资源-08-25-2">小丁 12月订阅（3月5打赏群资源）</a></p>
@@ -55,3 +83,7 @@
   <p><a href="https://telegra.ph/小丁-Fantasy-Factory---201909-碧蓝航线-和服-08-27-2">小丁 - 2019.09 碧蓝航线 和服</a></p>
   <p><a href="https://telegra.ph/小丁-Fantasy-Factory---202007-女仆-JK-死库水-08-27-2">小丁 - 2020.07 女仆 JK 死库水</a></p>
   <p><a href="https://telegra.ph/小丁-Fantasy-Factory---202005-蕾丝-女仆-风衣-08-27-2">小丁 - 2020.05 蕾丝 女仆 风衣</a></p>
+
+
+</body>
+</html>
