@@ -223,17 +223,10 @@ function renderAll(data){
     <div class="card" onclick="goPlay('${d.title_play_url || d.url}')">
       <div style="position:relative;">
         <img src="${d.cover_url || d.cover || 'https://via.placeholder.com/160x240?text=No+Cover'}">
-        <div class="actor">${a}</div>
-        <div class="card-type">${d.type||'未知'}</div>
       </div>
       <div class="card-info">
         <div class="card-info-top">
-          <span class="idcode">${d.IDcode}</span>
           <span class="title">${d.title}</span>
-        </div>
-        <div class="card-info-bottom">
-          <div class="star">⭐⭐⭐⭐⭐</div>
-          <div class="date">${d.publish_date||''}</div>
         </div>
       </div>
     </div>
