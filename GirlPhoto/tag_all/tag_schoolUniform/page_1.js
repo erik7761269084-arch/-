@@ -189,7 +189,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "樱可",
-        "img_url": "https://telegra.ph/file/b44fe1d20c4d51382e066.jpg",
+        "img_url": "https://telegra.ph/file/e4f96f671c5975729a3ce.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱可.html"
       }
     ],
@@ -595,7 +595,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
@@ -618,7 +618,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
@@ -658,7 +658,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],

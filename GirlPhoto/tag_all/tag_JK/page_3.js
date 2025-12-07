@@ -1,28 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 12337,
-    "IDcode": "6224",
-    "title": "六味帝皇酱 - 樱花JK",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "JK"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ec6f555fbb501c6a3757f.jpg",
-    "actress": [
-      {
-        "name": "六味帝皇酱",
-        "img_url": "https://telegra.ph/file/888c7b1a18f2774e30ba4.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_六味帝皇酱.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6224"
-  },
-  {
     "id": 12339,
     "IDcode": "6226",
     "title": "六味帝皇酱 - 厕所JK",
@@ -62,7 +39,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿八岁baby",
-        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+        "img_url": "https://telegra.ph/file/88760bb83b77ed6cf09f2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
       }
     ],
@@ -85,7 +62,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿八岁baby",
-        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+        "img_url": "https://telegra.ph/file/88760bb83b77ed6cf09f2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
       }
     ],
@@ -108,7 +85,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],

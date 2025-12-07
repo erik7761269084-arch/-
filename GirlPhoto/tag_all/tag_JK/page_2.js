@@ -1037,7 +1037,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1060,7 +1060,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1967,30 +1967,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5686"
   },
   {
-    "id": 11829,
-    "IDcode": "5767",
-    "title": "[紧急企划] Y-005 棕丝JK裙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "JK",
-      "紧急企划"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3dc39bb1aceca6abaee71.jpg",
-    "actress": [
-      {
-        "name": "见希w",
-        "img_url": "https://telegra.ph/file/709aa5b6241bb2543466b.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_见希w.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5767"
-  },
-  {
     "id": 11857,
     "IDcode": "5792",
     "title": "紧急企划 内部 见希w – JK",
@@ -2008,7 +1984,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "见希w",
-        "img_url": "https://telegra.ph/file/709aa5b6241bb2543466b.jpg",
+        "img_url": "https://telegra.ph/file/f0ee74d891cd64a66a228.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_见希w.html"
       }
     ],
@@ -2031,7 +2007,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -2243,5 +2219,28 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6221"
+  },
+  {
+    "id": 12337,
+    "IDcode": "6224",
+    "title": "六味帝皇酱 - 樱花JK",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "JK"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ec6f555fbb501c6a3757f.jpg",
+    "actress": [
+      {
+        "name": "六味帝皇酱",
+        "img_url": "https://telegra.ph/file/888c7b1a18f2774e30ba4.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_六味帝皇酱.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6224"
   }
 ];

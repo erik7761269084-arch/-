@@ -1,28 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 5052,
-    "IDcode": "1723",
-    "title": "萌妹子Nyako喵子 - 路易九世旗袍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2e7d40e0170df4106865d.jpg",
-    "actress": [
-      {
-        "name": "Nyako喵子",
-        "img_url": "https://telegra.ph/file/833e125db011ed5e5a299.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nyako喵子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1723"
-  },
-  {
     "id": 5057,
     "IDcode": "1728",
     "title": "萌妹子Nyako喵子 - 樱花汉服 花神祈愿",
@@ -1575,29 +1552,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3682"
   },
   {
-    "id": 9514,
-    "IDcode": "3683",
-    "title": "小和甜酒&橙风千雅 明日方舟年夕旗袍双人御守 199P 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/add368c004abf8703aed4.jpg",
-    "actress": [
-      {
-        "name": "橙风千雅",
-        "img_url": "https://image.acg.lol/file/2024/09/24/1-56.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_橙风千雅.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3683"
-  },
-  {
     "id": 9786,
     "IDcode": "3928",
     "title": "蠢沫沫 沫沫真爱版 歪萌旗袍-白",
@@ -1752,7 +1706,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1775,7 +1729,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1798,7 +1752,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1822,7 +1776,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1845,7 +1799,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1868,7 +1822,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1891,7 +1845,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1915,7 +1869,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -2198,5 +2152,51 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4725"
+  },
+  {
+    "id": 10692,
+    "IDcode": "4743",
+    "title": "HML.002 二佐Nisa 旗袍狐耳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/0a458f119d905f6e54ffb.jpg",
+    "actress": [
+      {
+        "name": "二佐Nisa",
+        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4743"
+  },
+  {
+    "id": 10693,
+    "IDcode": "4744",
+    "title": "HML.018  二佐Nisa 碧蓝大凤旗袍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/0afd2eab610a73ea41fa3.jpg",
+    "actress": [
+      {
+        "name": "二佐Nisa",
+        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4744"
   }
 ];

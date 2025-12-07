@@ -732,7 +732,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "影子喵ghost",
-        "img_url": "https://image.acg.lol/file/2025/07/28/1-76f587ca55e3008409.jpg",
+        "img_url": "https://image.acg.lol/file/2025/07/28/1-20f63d452cfbb66b3.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_影子喵ghost.html"
       }
     ],
@@ -755,7 +755,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "柚木",
-        "img_url": "https://telegra.ph/file/c58bf5e7f3fe2ce82efed.jpg",
+        "img_url": "https://telegra.ph/file/97bcc8325116b94fef8bf.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_柚木.html"
       }
     ],
@@ -778,7 +778,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鱼子酱Fish",
-        "img_url": "https://telegra.ph/file/e1e25c08a2778fd2e82f8.jpg",
+        "img_url": "https://telegra.ph/file/10f2754c3e8989a947223.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鱼子酱Fish.html"
       }
     ],
@@ -801,7 +801,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "羽生三未",
-        "img_url": "https://image.acg.lol/file/2025/04/14/1-211b1a0b9cdc0124fc.jpg",
+        "img_url": "https://telegra.ph/file/7c5ede5ac77c9b09a9c93.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_羽生三未.html"
       }
     ],
@@ -824,7 +824,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "云溪溪奶桃桃",
-        "img_url": "https://image.acg.lol/file/2025/08/09/1-86.jpg",
+        "img_url": "https://telegra.ph/file/1ae5bec3364caa0a336b8.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_云溪溪奶桃桃.html"
       }
     ],
@@ -870,7 +870,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "云溪溪奶桃桃",
-        "img_url": "https://image.acg.lol/file/2025/08/09/1-86.jpg",
+        "img_url": "https://telegra.ph/file/1ae5bec3364caa0a336b8.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_云溪溪奶桃桃.html"
       }
     ],
@@ -893,7 +893,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "云溪溪奶桃桃",
-        "img_url": "https://image.acg.lol/file/2025/08/09/1-86.jpg",
+        "img_url": "https://telegra.ph/file/1ae5bec3364caa0a336b8.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_云溪溪奶桃桃.html"
       }
     ],
@@ -916,7 +916,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "云溪溪奶桃桃",
-        "img_url": "https://image.acg.lol/file/2025/08/09/1-86.jpg",
+        "img_url": "https://telegra.ph/file/1ae5bec3364caa0a336b8.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_云溪溪奶桃桃.html"
       }
     ],
@@ -1882,7 +1882,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1905,7 +1905,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1928,7 +1928,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -1951,7 +1951,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],

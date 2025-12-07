@@ -1,51 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 10692,
-    "IDcode": "4743",
-    "title": "HML.002 二佐Nisa 旗袍狐耳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0a458f119d905f6e54ffb.jpg",
-    "actress": [
-      {
-        "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4743"
-  },
-  {
-    "id": 10693,
-    "IDcode": "4744",
-    "title": "HML.018  二佐Nisa 碧蓝大凤旗袍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/0afd2eab610a73ea41fa3.jpg",
-    "actress": [
-      {
-        "name": "二佐Nisa",
-        "img_url": "https://image.acg.lol/file/2025/08/14/1-34d23f8de62842f64c.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_二佐Nisa.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4744"
-  },
-  {
     "id": 10694,
     "IDcode": "4745",
     "title": "HML.019 二佐Nisa 狂三黑丝旗袍",
@@ -1944,7 +1898,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿八岁baby",
-        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+        "img_url": "https://telegra.ph/file/88760bb83b77ed6cf09f2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
       }
     ],
@@ -1967,7 +1921,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿八岁baby",
-        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+        "img_url": "https://telegra.ph/file/88760bb83b77ed6cf09f2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
       }
     ],
@@ -2290,5 +2244,45 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/66f2b4d6bc8765f830814.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6911"
+  },
+  {
+    "id": 13164,
+    "IDcode": "696",
+    "title": "eloise软软 - 透视白旗袍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/ac83fd05deeaef8504d56.jpg",
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=696"
+  },
+  {
+    "id": 13371,
+    "IDcode": "7157",
+    "title": "蜜汁猫裘 粉黛(汉服)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/3f525184cd8f6a22ee3e0.png",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7157"
   }
 ];

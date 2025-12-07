@@ -1,39 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 16093,
-    "IDcode": "9608",
-    "title": "水淼Aqua - 2月补偿赠品 甘雨水手服【50P75MB】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "原神"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://image.acg.lol/file/2025/04/05/Ganyu_jk_01.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9608"
-  },
-  {
-    "id": 16096,
-    "IDcode": "9610",
-    "title": "水淼 - 玛薇卡（原神）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "原神"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://image.acg.lol/file/2025/04/03/Mavuika_01.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9610"
-  },
-  {
     "id": 16120,
     "IDcode": "9632",
     "title": "水淼Aqua C104璃月(原神)",
@@ -601,22 +567,5 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=979"
-  },
-  {
-    "id": 16497,
-    "IDcode": "9972",
-    "title": "伊喵君_Nya - &桃景三酪《原神-鸣神双人》 八重&雷神 双倍快乐 [57P1V-1.29GB]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "原神"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://image.acg.lol/file/2024/11/08/1-196ba27c4e2511680.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9972"
   }
 ];

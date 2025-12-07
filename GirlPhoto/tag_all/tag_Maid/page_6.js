@@ -1,39 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 13220,
-    "IDcode": "7020",
-    "title": "迷之呆梨 发条少女 中华小女仆[22P+1V]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女仆"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/fb60557ea07e5987fe765.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7020"
-  },
-  {
-    "id": 13300,
-    "IDcode": "7093",
-    "title": "迷之呆梨(发条少女) - 黑丝女仆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女仆"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/810c787c909864c5c414c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7093"
-  },
-  {
     "id": 13365,
     "IDcode": "7151",
     "title": "桜井宁宁 - 黑丝女仆",
@@ -712,23 +678,6 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/be91925b4432a90de15ec.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7456"
-  },
-  {
-    "id": 13720,
-    "IDcode": "7471",
-    "title": "爆机少女喵小吉&&金鱼 双子：拉姆蕾姆（9月1会员资源）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女仆"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/131e3276cdb674f30219d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7471"
   },
   {
     "id": 13732,
@@ -1816,5 +1765,56 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/67e80db961a7165c95476.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8410"
+  },
+  {
+    "id": 14765,
+    "IDcode": "8411",
+    "title": "千阳(ちよ) - 雷姆小恶魔cos",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女仆"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/61c9eef8fffc474845a4b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8411"
+  },
+  {
+    "id": 14766,
+    "IDcode": "8412",
+    "title": "千阳(ちよ) - 雷姆睡衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女仆"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/5ca0dac57e224cb67a9b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8412"
+  },
+  {
+    "id": 14768,
+    "IDcode": "8414",
+    "title": "千阳(ちよ) - 修女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女仆"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/796c0879eb7d06d67be62.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8414"
   }
 ];

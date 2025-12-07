@@ -1,51 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 15874,
-    "IDcode": "940",
-    "title": "雨波Haneame 2024年04月订阅 [144P9V-1.08G] (汉服)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
-    "actress": [
-      {
-        "name": "HaneAme雨波_",
-        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=940"
-  },
-  {
-    "id": 15940,
-    "IDcode": "946",
-    "title": "Hane 雨波写真 - AzurLane Agir Chipao 埃吉爾旗袍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/2ec96d82e3695c7e550ef.jpg",
-    "actress": [
-      {
-        "name": "HaneAme雨波_",
-        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=946"
-  },
-  {
     "id": 16009,
     "IDcode": "9532",
     "title": "蜜桃少女是依酱呀 红色旗袍",

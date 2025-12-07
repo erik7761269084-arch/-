@@ -1,56 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 14765,
-    "IDcode": "8411",
-    "title": "千阳(ちよ) - 雷姆小恶魔cos",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女仆"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/61c9eef8fffc474845a4b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8411"
-  },
-  {
-    "id": 14766,
-    "IDcode": "8412",
-    "title": "千阳(ちよ) - 雷姆睡衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女仆"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/5ca0dac57e224cb67a9b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8412"
-  },
-  {
-    "id": 14768,
-    "IDcode": "8414",
-    "title": "千阳(ちよ) - 修女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女仆"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/796c0879eb7d06d67be62.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8414"
-  },
-  {
     "id": 14818,
     "IDcode": "845",
     "title": "G44不会受伤 -   碧蓝航线 能代女仆",
@@ -68,7 +17,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
@@ -280,7 +229,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
@@ -601,7 +550,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],

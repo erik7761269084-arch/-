@@ -294,7 +294,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "见希w",
-        "img_url": "https://telegra.ph/file/709aa5b6241bb2543466b.jpg",
+        "img_url": "https://telegra.ph/file/f0ee74d891cd64a66a228.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_见希w.html"
       }
     ],
@@ -318,7 +318,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "见希w",
-        "img_url": "https://telegra.ph/file/709aa5b6241bb2543466b.jpg",
+        "img_url": "https://telegra.ph/file/f0ee74d891cd64a66a228.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_见希w.html"
       }
     ],
@@ -435,7 +435,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿八岁baby",
-        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+        "img_url": "https://telegra.ph/file/88760bb83b77ed6cf09f2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
       }
     ],
@@ -458,7 +458,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿八岁baby",
-        "img_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+        "img_url": "https://telegra.ph/file/88760bb83b77ed6cf09f2.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
       }
     ],
@@ -504,7 +504,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],

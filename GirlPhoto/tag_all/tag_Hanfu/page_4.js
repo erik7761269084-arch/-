@@ -1,45 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 13164,
-    "IDcode": "696",
-    "title": "eloise软软 - 透视白旗袍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/ac83fd05deeaef8504d56.jpg",
-    "actress": [
-      {
-        "name": "eloise软软",
-        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=696"
-  },
-  {
-    "id": 13371,
-    "IDcode": "7157",
-    "title": "蜜汁猫裘 粉黛(汉服)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/3f525184cd8f6a22ee3e0.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7157"
-  },
-  {
     "id": 13424,
     "IDcode": "7204",
     "title": "蜜汁猫裘 - 黑太子旗袍",
@@ -893,7 +853,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
@@ -1601,7 +1561,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "G44不会受伤",
-        "img_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
       }
     ],
@@ -1885,5 +1845,51 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/8fdbd206dcd8d4dd28449.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=9399"
+  },
+  {
+    "id": 15874,
+    "IDcode": "940",
+    "title": "雨波Haneame 2024年04月订阅 [144P9V-1.08G] (汉服)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=940"
+  },
+  {
+    "id": 15940,
+    "IDcode": "946",
+    "title": "Hane 雨波写真 - AzurLane Agir Chipao 埃吉爾旗袍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2ec96d82e3695c7e550ef.jpg",
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=946"
   }
 ];

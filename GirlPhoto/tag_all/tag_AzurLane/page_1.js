@@ -1236,7 +1236,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "衣衣",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/e4c509b0e49a8a22fef8f.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_衣衣.html"
       }
     ],
@@ -1492,7 +1492,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "云溪溪奶桃桃",
-        "img_url": "https://image.acg.lol/file/2025/08/09/1-86.jpg",
+        "img_url": "https://telegra.ph/file/1ae5bec3364caa0a336b8.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_云溪溪奶桃桃.html"
       }
     ],

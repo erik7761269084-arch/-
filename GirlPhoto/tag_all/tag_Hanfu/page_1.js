@@ -358,23 +358,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10862"
   },
   {
-    "id": 984,
-    "IDcode": "10888",
-    "title": "小和甜酒&橙风千雅 明日方舟年夕旗袍双人御守 199P 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "汉服"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://telegra.ph/file/9c71451e5c69d224a996c.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=10888"
-  },
-  {
     "id": 985,
     "IDcode": "10889",
     "title": "小和甜酒&橙风千雅 明日方舟年夕旗袍双人御守 199P 2",
@@ -1246,7 +1229,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "衣衣",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/e4c509b0e49a8a22fef8f.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_衣衣.html"
       }
     ],
@@ -1570,7 +1553,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "云溪溪奶桃桃",
-        "img_url": "https://image.acg.lol/file/2025/08/09/1-86.jpg",
+        "img_url": "https://telegra.ph/file/1ae5bec3364caa0a336b8.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_云溪溪奶桃桃.html"
       }
     ],
@@ -2062,5 +2045,28 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1722"
+  },
+  {
+    "id": 5052,
+    "IDcode": "1723",
+    "title": "萌妹子Nyako喵子 - 路易九世旗袍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "汉服"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://telegra.ph/file/2e7d40e0170df4106865d.jpg",
+    "actress": [
+      {
+        "name": "Nyako喵子",
+        "img_url": "https://telegra.ph/file/833e125db011ed5e5a299.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nyako喵子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1723"
   }
 ];
