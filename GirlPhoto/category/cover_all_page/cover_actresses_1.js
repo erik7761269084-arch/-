@@ -51,7 +51,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "张思允Nice",
-    "cover_url": "https://telegra.ph/file/6e8a12223371b6d851a66.jpg",
+    "cover_url": "https://telegra.ph/file/4114f473b06edc1df76ba.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_张思允Nice.html"
   },
   {
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "云溪溪奶桃桃",
-    "cover_url": "https://image.acg.lol/file/2025/08/09/1-86.jpg",
+    "cover_url": "https://telegra.ph/file/1ae5bec3364caa0a336b8.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_云溪溪奶桃桃.html"
   },
   {
@@ -86,12 +86,12 @@ window.PAGE_DATA = [
   },
   {
     "title": "雨儿酱eve",
-    "cover_url": "https://telegra.ph/file/4a860fddfa683d1718bfd.jpg",
+    "cover_url": "https://telegra.ph/file/cbf01ce834d79586f8ac4.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_雨儿酱eve.html"
   },
   {
     "title": "羽生三未",
-    "cover_url": "https://image.acg.lol/file/2025/04/14/1-211b1a0b9cdc0124fc.jpg",
+    "cover_url": "https://telegra.ph/file/7c5ede5ac77c9b09a9c93.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_羽生三未.html"
   },
   {
@@ -106,12 +106,12 @@ window.PAGE_DATA = [
   },
   {
     "title": "鱼子酱Fish",
-    "cover_url": "https://telegra.ph/file/e1e25c08a2778fd2e82f8.jpg",
+    "cover_url": "https://telegra.ph/file/10f2754c3e8989a947223.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鱼子酱Fish.html"
   },
   {
     "title": "柚木",
-    "cover_url": "https://telegra.ph/file/c58bf5e7f3fe2ce82efed.jpg",
+    "cover_url": "https://telegra.ph/file/97bcc8325116b94fef8bf.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_柚木.html"
   },
   {
@@ -146,7 +146,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "影子喵ghost",
-    "cover_url": "https://image.acg.lol/file/2025/07/28/1-76f587ca55e3008409.jpg",
+    "cover_url": "https://image.acg.lol/file/2025/07/28/1-20f63d452cfbb66b3.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_影子喵ghost.html"
   },
   {
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "樱可",
-    "cover_url": "https://telegra.ph/file/b44fe1d20c4d51382e066.jpg",
+    "cover_url": "https://telegra.ph/file/e4f96f671c5975729a3ce.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱可.html"
   },
   {
@@ -196,7 +196,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "衣衣",
-    "cover_url": "https://upload.xchina.io/default/model.jpg",
+    "cover_url": "https://telegra.ph/file/e4c509b0e49a8a22fef8f.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_衣衣.html"
   },
   {
@@ -346,17 +346,17 @@ window.PAGE_DATA = [
   },
   {
     "title": "鹿初",
-    "cover_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+    "cover_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
   },
   {
     "title": "鹿八岁baby",
-    "cover_url": "https://image.acg.lol/file/2025/05/01/1-71101dbc7fca0b1aef.jpg",
+    "cover_url": "https://telegra.ph/file/88760bb83b77ed6cf09f2.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁baby.html"
   },
   {
     "title": "陆萱萱",
-    "cover_url": "https://telegra.ph/file/88da51c1436164275febd.jpg",
+    "cover_url": "https://telegra.ph/file/e1b571c8e29fe2c957ad5.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_陆萱萱.html"
   },
   {
@@ -436,7 +436,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "蓝小沂KiKi",
-    "cover_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+    "cover_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
   },
   {
@@ -486,7 +486,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "九柒喵",
-    "cover_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+    "cover_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
   },
   {
