@@ -177,6 +177,41 @@ function initPage(){
   document.body.appendChild(script);
 }
 
+/* -------------------------------
+            Header 载入
+-------------------------------- */
+fetch('../header.html') 
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+
+    // ⭐ 手动加载 header.css
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '../header.css';
+    document.head.appendChild(link);
+
+    const script = document.createElement('script');
+    script.src = '../header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
+    };
+    document.body.appendChild(script);
+  });
+
+// footer 保持不变
+fetch('https://yunvgong.com/footer.html')
+  .then(r=>r.text())
+  .then(html=>{
+    const footer=document.createElement('div');
+    footer.innerHTML = html;
+    document.body.appendChild(footer);
+  });
+
+/* -------------------------------
+           功能方法
+-------------------------------- */
 // 点击跳转作品播放页
 function goPlay(url){
   localStorage.setItem('dramaScroll', window.scrollY);
