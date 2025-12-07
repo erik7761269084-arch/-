@@ -10,11 +10,11 @@ window.PAGE_DATA = [
     "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": "https://image.acg.lol/file/2025/06/02/15_17.jpg",
+    "cover_url": "https://image.acg.lol/file/2025/06/02/01_10.jpg",
     "actress": [
       {
         "name": "发财阿弦",
-        "img_url": "https://image.acg.lol/file/2025/06/02/15_17.jpg",
+        "img_url": "https://image.acg.lol/file/2025/06/02/01_10.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_发财阿弦.html"
       }
     ],

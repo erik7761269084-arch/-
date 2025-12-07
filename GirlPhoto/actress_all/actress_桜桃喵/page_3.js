@@ -42,27 +42,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12706"
   },
   {
-    "id": 3002,
-    "IDcode": "12705",
-    "title": "桜桃喵 沉溺（8月6会员资源）",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c7c702f62dd9784c7ce92.jpg",
-    "actress": [
-      {
-        "name": "桜桃喵",
-        "img_url": "https://image.acg.lol/file/2025/07/19/1-403d4a4192d675984c.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_桜桃喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12705"
-  },
-  {
     "id": 3001,
     "IDcode": "12704",
     "title": "桜桃喵 - 狼来了01 （6.12会员资源）",
@@ -124,27 +103,6 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12702"
-  },
-  {
-    "id": 2998,
-    "IDcode": "12701",
-    "title": "桜桃喵 沉溺（8月6会员资源）",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c7c702f62dd9784c7ce92.jpg",
-    "actress": [
-      {
-        "name": "桜桃喵",
-        "img_url": "https://image.acg.lol/file/2025/07/19/1-403d4a4192d675984c.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_桜桃喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12701"
   },
   {
     "id": 2997,

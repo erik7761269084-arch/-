@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Hyojin (효진)",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/39d7ff3f5f165e449cf72.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hyojin (효진).html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Hyojin (효진)",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/39d7ff3f5f165e449cf72.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hyojin (효진).html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Hyojin (효진)",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/39d7ff3f5f165e449cf72.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hyojin (효진).html"
       }
     ],
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Hyojin (효진)",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/39d7ff3f5f165e449cf72.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hyojin (효진).html"
       }
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Hyojin (효진)",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/39d7ff3f5f165e449cf72.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hyojin (효진).html"
       }
     ],

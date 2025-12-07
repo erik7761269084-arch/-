@@ -1533,27 +1533,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3709"
   },
   {
-    "id": 9542,
-    "IDcode": "3708",
-    "title": "沖田凛花 小丁 雙人CK",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0aa964686b6b4bf9e1f1e.jpg",
-    "actress": [
-      {
-        "name": "沖田凛花(沖田凜花)",
-        "img_url": "https://image.acg.lol/file/2025/04/14/1-1e4ed0034fbb2e6bc.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_沖田凛花(沖田凜花).html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3708"
-  },
-  {
     "id": 9541,
     "IDcode": "3707",
     "title": "沖田凜花Rinka Blonde Big Tits 38P",

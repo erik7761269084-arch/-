@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -182,7 +182,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],
@@ -245,7 +245,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "阿薰kaOri",
-        "img_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+        "img_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
       }
     ],

@@ -336,27 +336,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2311"
   },
   {
-    "id": 7990,
-    "IDcode": "2310",
-    "title": "Taeri Vol.12 Taeri’s Red Harness",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e424e0f09dc92891c1acd.jpg",
-    "actress": [
-      {
-        "name": "Taeri",
-        "img_url": "https://telegra.ph/file/bbedea44f66364ce01093.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Taeri.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2310"
-  },
-  {
     "id": 7988,
     "IDcode": "2309",
     "title": "Taeri Vol.11 Fantasy Bondage Play",

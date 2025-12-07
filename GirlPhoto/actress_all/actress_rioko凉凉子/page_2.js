@@ -525,48 +525,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1956"
   },
   {
-    "id": 5309,
-    "IDcode": "1955",
-    "title": "rioko凉凉子 牛头人3",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f9180b99f0ff0fe88f734.png",
-    "actress": [
-      {
-        "name": "rioko凉凉子",
-        "img_url": "https://image.acg.lol/file/2025/08/12/TGdouzi233233_bot-1.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_rioko凉凉子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1955"
-  },
-  {
-    "id": 5308,
-    "IDcode": "1954",
-    "title": "rioko凉凉子 牛头人3 文字版（8月3会员资源）",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/57272f47e06a5975bc135.png",
-    "actress": [
-      {
-        "name": "rioko凉凉子",
-        "img_url": "https://image.acg.lol/file/2025/08/12/TGdouzi233233_bot-1.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_rioko凉凉子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1954"
-  },
-  {
     "id": 5307,
     "IDcode": "1953",
     "title": "rioko凉凉子 - 电光机王 貉 [51P8V-1.58GB]",
@@ -628,48 +586,6 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1951"
-  },
-  {
-    "id": 5304,
-    "IDcode": "1950",
-    "title": "rioko凉凉子 牛头人3",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f9180b99f0ff0fe88f734.png",
-    "actress": [
-      {
-        "name": "rioko凉凉子",
-        "img_url": "https://image.acg.lol/file/2025/08/12/TGdouzi233233_bot-1.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_rioko凉凉子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1950"
-  },
-  {
-    "id": 5302,
-    "IDcode": "1949",
-    "title": "rioko凉凉子 牛头人3 文字版（8月3会员资源）",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/57272f47e06a5975bc135.png",
-    "actress": [
-      {
-        "name": "rioko凉凉子",
-        "img_url": "https://image.acg.lol/file/2025/08/12/TGdouzi233233_bot-1.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_rioko凉凉子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1949"
   },
   {
     "id": 5301,

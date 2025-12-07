@@ -945,27 +945,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1586"
   },
   {
-    "id": 4898,
-    "IDcode": "1585",
-    "title": "Natsuko夏夏子&星澜 - 瑶池洗凝脂 [111P2V-1.18G]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://image.acg.lol/file/2024/12/20/074.jpg",
-    "actress": [
-      {
-        "name": "Natsuko夏夏子",
-        "img_url": "https://i.postimg.cc/sD0QhmCT/1-1.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Natsuko夏夏子.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1585"
-  },
-  {
     "id": 4897,
     "IDcode": "1584",
     "title": "Natsuko夏夏子 - 万圣小魔女[52P1V-567M]",

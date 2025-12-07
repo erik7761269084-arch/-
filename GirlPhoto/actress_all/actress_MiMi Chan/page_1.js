@@ -40,26 +40,5 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1380"
-  },
-  {
-    "id": 4217,
-    "IDcode": "1379",
-    "title": "一千只猫薄禾 圣诞狼女 39P1V-709MB",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e823d6eaf4db090319662.jpg",
-    "actress": [
-      {
-        "name": "MiMi Chan",
-        "img_url": "https://telegra.ph/file/e823d6eaf4db090319662.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_MiMi Chan.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1379"
   }
 ];

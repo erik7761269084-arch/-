@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Yeha",
-        "img_url": "https://telegra.ph/file/20a12079f8de0de03de1b.jpg",
+        "img_url": "https://telegra.ph/file/a928c8031e75ad3812753.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeha.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Yeha",
-        "img_url": "https://telegra.ph/file/20a12079f8de0de03de1b.jpg",
+        "img_url": "https://telegra.ph/file/a928c8031e75ad3812753.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeha.html"
       }
     ],

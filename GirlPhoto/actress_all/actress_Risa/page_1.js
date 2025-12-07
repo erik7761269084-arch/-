@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Risa",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/747a11cecb77c6e3141b6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Risa.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Risa",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/747a11cecb77c6e3141b6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Risa.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Risa",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/747a11cecb77c6e3141b6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Risa.html"
       }
     ],
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Risa",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/747a11cecb77c6e3141b6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Risa.html"
       }
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Risa",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/747a11cecb77c6e3141b6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Risa.html"
       }
     ],
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Risa",
-        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "img_url": "https://telegra.ph/file/747a11cecb77c6e3141b6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Risa.html"
       }
     ],

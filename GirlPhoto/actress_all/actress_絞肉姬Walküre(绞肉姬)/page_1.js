@@ -84,27 +84,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5802"
   },
   {
-    "id": 11868,
-    "IDcode": "5801",
-    "title": "比奇堡黄塞方块 甘雨玉桂狗",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4a8e0c5a8ffab3bbee492.jpg",
-    "actress": [
-      {
-        "name": "絞肉姬Walküre(绞肉姬)",
-        "img_url": "https://image.acg.lol/file/2025/06/05/1-1027d1218dbffca63.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_絞肉姬Walküre(绞肉姬).html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5801"
-  },
-  {
     "id": 11867,
     "IDcode": "5800",
     "title": "絞肉姬Walküre 明日方舟W愚夜密函",

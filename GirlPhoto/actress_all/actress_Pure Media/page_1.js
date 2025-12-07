@@ -21,27 +21,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1848"
   },
   {
-    "id": 5189,
-    "IDcode": "1847",
-    "title": "Pure Media Vol.165 Uhye (이유혜)",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9a4505a6b9d83624843fb.jpg",
-    "actress": [
-      {
-        "name": "Pure Media",
-        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1847"
-  },
-  {
     "id": 5188,
     "IDcode": "1846",
     "title": "韩国Pure Media Vol.153 Mihou (미호)",
@@ -61,27 +40,6 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1846"
-  },
-  {
-    "id": 5187,
-    "IDcode": "1845",
-    "title": "Pure Media Vol.165 Uhye (이유혜)",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9a4505a6b9d83624843fb.jpg",
-    "actress": [
-      {
-        "name": "Pure Media",
-        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1845"
   },
   {
     "id": 5186,

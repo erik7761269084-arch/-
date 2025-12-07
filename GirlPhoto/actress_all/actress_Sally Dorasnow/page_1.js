@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -182,7 +182,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -245,7 +245,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -266,7 +266,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],
@@ -287,7 +287,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "Sally Dorasnow",
-        "img_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+        "img_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
       }
     ],

@@ -2077,26 +2077,5 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6672"
-  },
-  {
-    "id": 12833,
-    "IDcode": "6671",
-    "title": "麻花酱 - 碧蓝航线 樫野 牛牛",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
-    "actress": [
-      {
-        "name": "麻花酱",
-        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_麻花酱.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6671"
   }
 ];

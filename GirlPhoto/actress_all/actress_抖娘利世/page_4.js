@@ -1,26 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 10116,
-    "IDcode": "4224",
-    "title": "抖娘-利世 - 繁星",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dcffbfef579d3295c7366.jpg",
-    "actress": [
-      {
-        "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4224"
-  },
-  {
     "id": 10115,
     "IDcode": "4223",
     "title": "抖娘-利世 -  激凸第二弹",
@@ -35,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -56,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -77,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -98,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -119,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -140,7 +119,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -161,7 +140,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
@@ -182,7 +161,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "抖娘利世",
-        "img_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+        "img_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
       }
     ],
