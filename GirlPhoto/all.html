@@ -154,7 +154,7 @@ async function loadMaxPage(){
   try{
     const res = await fetch("https://yunvgong.com/GirlPhoto/category/cover_all_page/stats.json");
     const json = await res.json();
-    MAX_PAGE = parseInt(json["all_page"]) || 1;
+    MAX_PAGE = parseInt(json["cover_all"]) || 1;
   }catch(e){
     console.error("stats.json 加载失败，使用默认 MAX_PAGE = 1");
   }
