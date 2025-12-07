@@ -32,11 +32,19 @@ h2{
     background:#111;
     position:relative;
 }
+
+/* ---- 修改：为了支持放大与拖拽，comic-page 使用 absolute，并初始化 transform ---- */
 .comic-page{
     max-width:100%;
     max-height:100%;
     display:none;
     user-select:none;
+    position:absolute;                 /* 使图片可自由移动 */
+    left:50%;
+    top:50%;
+    transform:translate(-50%, -50%) scale(1);
+    transform-origin:center center;
+    will-change:transform, left, top;
 }
 
 /* 上下翻页按钮 */
@@ -48,6 +56,13 @@ h2{
 }
 #prevBtn{ left:10px; }
 #nextBtn{ right:10px; }
+
+/* ---- 修改：手机端隐藏上下按钮 ---- */
+@media (max-width: 768px){
+    #prevBtn, #nextBtn {
+        display: none !important;
+    }
+}
 
 /* 底部中间控制条 */
 #bottomBar{
@@ -161,13 +176,21 @@ function initViewer(data){
     const thumbs=[];
     let current=0;
 
+    /* 每张图的状态：scale、offsetX、offsetY */
+    const state = [];
+
     /* 主图 */
     data.images.forEach((src,i)=>{
         const img=document.createElement("img");
         img.src=src;
         img.className="comic-page";
+        // 初始化图片可拖动属性
+        img.style.left = "50%";
+        img.style.top = "50%";
+        img.style.transform = "translate(-50%, -50%) scale(1)";
         container.appendChild(img);
         pages.push(img);
+        state.push({ scale:1, x:0, y:0 });
     });
 
     /* 缩略图 */
@@ -185,8 +208,12 @@ function initViewer(data){
 
     /* 显示页面 */
     function showPage(i){
-        pages.forEach((img,k)=> img.style.display=(k===i?"block":"none"));
+        pages.forEach((img,k)=> {
+            img.style.display=(k===i?"block":"none");
+        });
         current=i;
+        // 恢复当前图片 transform（使用保存的 state）
+        applyTransform(current);
         pageNumber.innerText=`${i+1} / ${pages.length}`;
         updateThumb(i);
     }
@@ -198,7 +225,7 @@ function initViewer(data){
 
     showPage(0);
 
-    /* 翻页 */
+    /* 翻页（保留原有按钮行为，手机端通过 CSS 隐藏） */
     document.getElementById("prevBtn").onclick=()=>{ if(current>0) showPage(current-1); };
     document.getElementById("nextBtn").onclick=()=>{ if(current<pages.length-1) showPage(current+1); };
 
@@ -257,6 +284,141 @@ function initViewer(data){
         }
     });
     document.addEventListener("mouseup",()=> dragging=false );
+
+    /* ============================
+       手机端左右滑动切页（添加）
+       ============================ */
+    let touchStartX = 0;
+    let touchEndX = 0;
+    container.addEventListener("touchstart", e => {
+        if (!e.changedTouches || !e.changedTouches[0]) return;
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    container.addEventListener("touchend", e => {
+        if (!e.changedTouches || !e.changedTouches[0]) return;
+        touchEndX = e.changedTouches[0].screenX;
+        const diff = touchEndX - touchStartX;
+        if (Math.abs(diff) < 50) return;  // 滑动太短不触发
+        if (diff < 0 && current < pages.length - 1) {
+            showPage(current + 1); // 左滑 → 下一页
+        } else if (diff > 0 && current > 0) {
+            showPage(current - 1); // 右滑 → 上一页
+        }
+    }, { passive: true });
+
+    /* ============================
+       PC：滚轮缩放 & 鼠标拖动平移（添加）
+       说明：
+         - 每张图维护一个 state：scale, x, y（x,y 为相对偏移 px）
+         - transform 使用 translate(-50%,-50%) 再加 translate(x,y) 与 scale
+       ============================ */
+    function applyTransform(index){
+        const s = state[index];
+        const img = pages[index];
+        // 使用 translate(-50%,-50%) 做居中基线，再加 translate(x,y) 进行平移；scale 用于缩放
+        img.style.transform = `translate(calc(-50% + ${s.x}px), calc(-50% + ${s.y}px)) scale(${s.scale})`;
+    }
+
+    // 鼠标滚轮缩放
+    container.addEventListener("wheel", e => {
+        // 如果是触摸设备或预览滚动，还是阻止默认缩放行为
+        e.preventDefault();
+
+        const delta = e.deltaY;
+        const img = pages[current];
+        if (!img) return;
+
+        // 获取鼠标相对于图片中心点的偏移（用于更自然的缩放中心）
+        const rect = img.getBoundingClientRect();
+        const cx = rect.left + rect.width / 2;
+        const cy = rect.top + rect.height / 2;
+        const offsetX = e.clientX - cx;
+        const offsetY = e.clientY - cy;
+
+        // 缩放因子
+        const factor = 1 - delta * 0.001; // 可调
+        let newScale = state[current].scale * factor;
+        // 限制最小最大（你要求“无限制放大”，但一般保留合理上限以防撑爆浏览器）
+        if (newScale < 0.1) newScale = 0.1;
+        if (newScale > 32) newScale = 32;
+
+        // 为了让缩放更自然，我们需要调整偏移 x,y，使得鼠标位置看起来保持在相对位置
+        // 计算缩放前后相对大小变化导致的位移补偿
+        const prevScale = state[current].scale;
+        const scaleRatio = newScale / prevScale;
+
+        // 以图片中心为基点，offsetX/offsetY 表示鼠标相对中心的位置
+        // 放大时希望该点相对位置不变 -> 需要更新 state.x, state.y
+        state[current].x = state[current].x - offsetX * (scaleRatio - 1);
+        state[current].y = state[current].y - offsetY * (scaleRatio - 1);
+
+        state[current].scale = newScale;
+        applyTransform(current);
+    }, { passive: false });
+
+    // 鼠标拖动图片
+    let isPanning = false;
+    let panStartX = 0, panStartY = 0;
+    container.addEventListener("mousedown", e => {
+        // 仅当鼠标在图片区域时启动拖动（避免与缩略图横向滚动冲突）
+        const img = pages[current];
+        if (!img) return;
+        const rect = img.getBoundingClientRect();
+        // 如果点击点不在当前图片范围，忽略
+        if (e.clientX < rect.left || e.clientX > rect.right || e.clientY < rect.top || e.clientY > rect.bottom) return;
+
+        isPanning = true;
+        panStartX = e.clientX;
+        panStartY = e.clientY;
+        container.style.cursor = "grabbing";
+        e.preventDefault();
+    });
+
+    document.addEventListener("mousemove", e => {
+        if (!isPanning) return;
+        const dx = e.clientX - panStartX;
+        const dy = e.clientY - panStartY;
+        panStartX = e.clientX;
+        panStartY = e.clientY;
+        state[current].x += dx;
+        state[current].y += dy;
+        applyTransform(current);
+    });
+
+    document.addEventListener("mouseup", () => {
+        if (isPanning) {
+            isPanning = false;
+            container.style.cursor = "default";
+        }
+    });
+
+    // 当切页时，确保下张图的 transform 应用（如果第一次显示，state 已初始）
+    //（已在 showPage 中调用 applyTransform）
+
+    // 双击复位当前图片（双击可还原到居中与 scale=1）
+    container.addEventListener("dblclick", (e) => {
+        state[current].scale = 1;
+        state[current].x = 0;
+        state[current].y = 0;
+        applyTransform(current);
+    });
+
+    // 触摸手势双击（部分手机浏览器），使用双击也复位：兼容性简略处理
+    let lastTap = 0;
+    container.addEventListener("touchend", (e) => {
+        const currentTime = new Date().getTime();
+        const tapLength = currentTime - lastTap;
+        if (tapLength < 300 && tapLength > 0) {
+            // 双击
+            state[current].scale = 1;
+            state[current].x = 0;
+            state[current].y = 0;
+            applyTransform(current);
+        }
+        lastTap = currentTime;
+    });
+
 }
 </script>
 
