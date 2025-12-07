@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/98514c7de268c2da4a386.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10869"
   },
   {
@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/ddbe01d4f057e7f73999c.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8376"
   },
   {
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/70385dea752e789a95e82.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9764"
   },
   {
@@ -60,7 +60,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/bb25dc06c6fba8d201e36.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11612"
   },
   {
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/d97af09f51637ed5020b6.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16204"
   },
   {
@@ -92,7 +92,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/b0170d2e3d193cb698d94.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8644"
   },
   {
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/edb8084a9e42f317f646b.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12707"
   },
   {
@@ -124,7 +124,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/a7ee8b32713f7bd8bc380.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=14064"
   },
   {
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/619572c03b277dc967fcd.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8726"
   },
   {
@@ -156,7 +156,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6e1dfec0cc220bf1b9267.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15862"
   },
   {
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/57945e794ca3c4ecd4ba5.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15398"
   },
   {
@@ -188,7 +188,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/88f1cc315a425652f5698.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16124"
   },
   {
@@ -204,7 +204,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/22fc2e530fcf20def41b4.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8237"
   },
   {
@@ -220,7 +220,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/460fd9d77fa24e0e03788.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15697"
   },
   {
@@ -236,7 +236,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3203951/701f52ffa0/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16459"
   },
   {
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/0702d566343a4f13b1763.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15824"
   },
   {
@@ -268,7 +268,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/bcd7cf03cf90de87375b6.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16217"
   },
   {
@@ -284,7 +284,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3120162/0df152a420/_01.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16382"
   },
   {
@@ -300,7 +300,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/c988033ac208290ec9662.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15717"
   },
   {
@@ -316,7 +316,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/47400f247ff66d0afa1cb.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15700"
   },
   {
@@ -332,7 +332,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3372811/81b1865d48/001.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16574"
   },
   {
@@ -348,7 +348,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3098843/b93c435fcf/001.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16343"
   },
   {
@@ -364,7 +364,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3114940/bff4ed8d6a/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16373"
   },
   {
@@ -380,7 +380,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3132239/b39448e5d0/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16399"
   },
   {
@@ -396,7 +396,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3230489/f6e6575fe0/00.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16479"
   },
   {
@@ -412,7 +412,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/a39e11a6febbaa4f881d5.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15742"
   },
   {
@@ -428,7 +428,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/ddf142a6afb31598d31f9.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15496"
   },
   {
@@ -444,7 +444,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3167658/10b042bbb4/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16431"
   },
   {
@@ -460,7 +460,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/e304bb6145780c57ae875.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15902"
   },
   {
@@ -476,7 +476,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/7ca57d90e2d361f149430.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12243"
   },
   {
@@ -492,7 +492,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/b894c6e4f720c670654c3.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16066"
   },
   {
@@ -508,7 +508,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/c8489395d74613e7c6bbc.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15696"
   },
   {
@@ -524,7 +524,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/a020606a83c20c6efa03f.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15397"
   },
   {
@@ -540,7 +540,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/ffda8951bbaffde819bd7.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15688"
   },
   {
@@ -556,7 +556,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3442067/be320233c8/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16629"
   },
   {
@@ -572,7 +572,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/4a28b8ef2a04dec38f59e.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15731"
   },
   {
@@ -588,7 +588,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/66979e69569181eef1515.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11766"
   },
   {
@@ -604,7 +604,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/674763e5ce147099b1ee1.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9532"
   },
   {
@@ -620,7 +620,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6617b1e4c3a582bb5d64f.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15511"
   },
   {
@@ -636,7 +636,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/c5f9445a727938fbc8b4c.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15723"
   },
   {
@@ -652,7 +652,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/8fe6f040147bef5b1cdf5.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12162"
   },
   {
@@ -668,7 +668,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/5619deb96cb40cbeb2574.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12683"
   },
   {
@@ -684,7 +684,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/033ba7895cb52dc5b0c48.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15264"
   },
   {
@@ -700,7 +700,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/42fb8fb6f89459310c39b.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15483"
   },
   {
@@ -716,7 +716,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/42fb8fb6f89459310c39b.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16001"
   },
   {
@@ -732,7 +732,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3431110/02cd8d1630/001.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16621"
   },
   {
@@ -748,7 +748,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/7c8b333be9091addce5b2.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11276"
   },
   {
@@ -764,7 +764,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/1d532e5ad37e2e782d3fd.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16071"
   },
   {
@@ -780,7 +780,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/965228a54d8d2b70a57f5.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15534"
   },
   {
@@ -796,7 +796,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3438290/8a9c5aec51/001.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16627"
   },
   {
@@ -812,7 +812,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/1945b2d89a2ced5df7a64.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15384"
   },
   {
@@ -828,7 +828,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/514d668382d7b1591ec5f.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16129"
   },
   {
@@ -844,7 +844,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3457475/d65855230b/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16642"
   },
   {
@@ -860,7 +860,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/35d5b560ae4aa09d4b1cd.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12154"
   },
   {
@@ -876,7 +876,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/fbfdd7324d709e96bfefb.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13338"
   },
   {
@@ -892,7 +892,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/75c8e45da564c99f4b0aa.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10102"
   },
   {
@@ -908,7 +908,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/f3c14801de8ccbbca2a5b.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10622"
   },
   {
@@ -924,7 +924,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/530192a747e00b831342e.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10249"
   },
   {
@@ -940,7 +940,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/d4ec0b8537a5c51caaa64.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15865"
   },
   {
@@ -956,7 +956,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/98f66e5dd57029ec1c113.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12037"
   },
   {
@@ -972,7 +972,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/4f0934acea9467899bfc1.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15030"
   },
   {
@@ -988,7 +988,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3185367/87aceb052f/001.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16442"
   },
   {
@@ -1004,7 +1004,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/e91da2dece6181c736ddb.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13908"
   },
   {
@@ -1020,7 +1020,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/103e0115edde33418edc7.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9508"
   },
   {
@@ -1036,7 +1036,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/739a792573d73f6455f32.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9568"
   },
   {
@@ -1052,7 +1052,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/65b7446fa5fda390ced38.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12795"
   },
   {
@@ -1068,7 +1068,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/0be3a40d91ebd0fe09485.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9606"
   },
   {
@@ -1084,7 +1084,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/8eed221cb363f8a8c1859.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10505"
   },
   {
@@ -1100,7 +1100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/af0870ff910a8e85614d1.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10402"
   },
   {
@@ -1116,7 +1116,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/f0fe0058122ba48420d2d.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9689"
   },
   {
@@ -1132,7 +1132,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/cbea2d95ac128a03e26de.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9875"
   },
   {
@@ -1148,7 +1148,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/e083110857b85544e18b8.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9507"
   },
   {
@@ -1164,7 +1164,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/048541ace27cf74e50309.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12501"
   },
   {
@@ -1180,7 +1180,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/827c34b4511fd8012fa86.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9905"
   },
   {
@@ -1196,7 +1196,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/90f2ea8da6cc26c8af224.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9484"
   },
   {
@@ -1212,7 +1212,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/a7653342a994b915e6211.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9595"
   },
   {
@@ -1228,7 +1228,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/9a9a1f2319e2daca1bf3f.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11431"
   },
   {
@@ -1244,7 +1244,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/9a30f7ba5e769f8d65dc8.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9528"
   },
   {
@@ -1260,7 +1260,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/b97944e8ffb7141285b4f.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9715"
   },
   {
@@ -1276,7 +1276,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/fe2702187eac81ef86ae8.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10841"
   },
   {
@@ -1292,7 +1292,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/480c5eb996958ca4e1533.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=10854"
   },
   {
@@ -1308,7 +1308,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/0b91887d2eb8dc74d9766.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9974"
   },
   {
@@ -1324,7 +1324,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/352bd2ee4558c9ffbb009.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=9667"
   },
   {
@@ -1340,7 +1340,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/dd6fdd14b4b372a836a21.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15579"
   },
   {
@@ -1356,7 +1356,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/943a498d7ce6b81317b69.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=11298"
   },
   {
@@ -1372,7 +1372,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/5df02f11df61fdaa36ac8.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12349"
   },
   {
@@ -1388,7 +1388,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3195910/8279f7996c/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16456"
   },
   {
@@ -1404,7 +1404,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/3d4b95dee4ddb03538f39.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=13111"
   },
   {
@@ -1420,7 +1420,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/bf183bdfd42bf9b97367c.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8349"
   },
   {
@@ -1436,7 +1436,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/095390180b62647e3687b.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8788"
   },
   {
@@ -1452,7 +1452,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/a8bc2cb7ef8944b1768a5.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8099"
   },
   {
@@ -1468,7 +1468,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/2cf680cc71f40f98d0591.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15874"
   },
   {
@@ -1484,7 +1484,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3079193/de40fe97c1/001.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16292"
   },
   {
@@ -1500,7 +1500,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3465379/4981c42aa2/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16646"
   },
   {
@@ -1516,7 +1516,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/2116465/910b1d9fa5/01.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16255"
   },
   {
@@ -1532,7 +1532,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/f0a1f81e422ba957802d1.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=12766"
   },
   {
@@ -1548,7 +1548,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/bb3ccaff11f934363983f.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=8534"
   },
   {
@@ -1564,7 +1564,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://i2.linghua.xyz/ex/3190941/0db816ac69/01.webp",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=16452"
   },
   {
@@ -1580,7 +1580,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/3b92b1b76c73abef767cb.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15040"
   },
   {
@@ -1596,7 +1596,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/909aa424961257f1cb4c9.jpg",
     "title_play_url": "https://yunvgong.com/comics/comicDetails.html?series=15710"
   }
 ];
