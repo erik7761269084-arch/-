@@ -7,12 +7,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "巨乳",
       "羞耻",
       "中出",
-      "素人作品",
-      "巨乳",
       "大小姐",
-      "精选，综合"
+      "素人作品"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -31,11 +31,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
-      "女教师",
-      "素人作品",
       "精选，综合",
-      "轮奸"
+      "素人作品",
+      "轮奸",
+      "女教师",
+      "深喉"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -56,13 +56,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "女大学生",
-      "白天出轨",
+      "精选，综合",
+      "巨乳",
       "中出",
       "素人作品",
-      "巨乳",
-      "精选，综合"
+      "淫乱，真实",
+      "女大学生",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -81,11 +81,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "精选，综合",
       "纪录片",
+      "潮吹",
       "美少女电影",
       "素人作品",
-      "精选，综合",
       "放尿"
     ],
     "type": "有码",
@@ -106,12 +106,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "潮吹",
-      "多P",
-      "拘束",
       "美少女电影",
       "素人作品",
-      "精选，综合",
+      "拘束",
+      "多P",
       "子宫颈"
     ],
     "type": "有码",
@@ -132,12 +132,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "苗条",
+      "精选，综合",
       "首次亮相",
+      "潮吹",
       "美少女电影",
       "素人作品",
-      "精选，综合",
+      "苗条",
       "接吻"
     ],
     "type": "有码",
@@ -159,12 +159,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "接吻",
+      "精选，综合",
       "嫩妹",
       "美少女电影",
-      "素人作品",
       "手淫",
-      "精选，综合",
+      "素人作品",
+      "接吻",
       "颜射"
     ],
     "type": "有码",
@@ -184,12 +184,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
+      "精选，综合",
       "荡妇",
-      "多P",
       "中出",
       "素人作品",
-      "精选，综合",
+      "校服",
+      "多P",
       "主观视角"
     ],
     "type": "有码",
@@ -210,13 +210,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
+      "精选，综合",
       "吞精",
-      "多P",
       "中出",
       "素人作品",
-      "精选，综合",
-      "接吻"
+      "女大学生",
+      "接吻",
+      "多P"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -314,11 +314,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "烂醉如泥的",
-      "白天出轨",
+      "中出",
       "乳房",
-      "中出"
+      "烂醉如泥的",
+      "苗条",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -337,12 +337,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "校服",
       "流汗",
       "乱伦",
-      "接吻",
-      "高中女生"
+      "淫乱，真实",
+      "校服",
+      "高中女生",
+      "接吻"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -361,11 +361,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "人妻",
-      "白天出轨",
+      "巨乳",
       "中出",
-      "巨乳"
+      "淫乱，真实",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -384,10 +384,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "轮奸",
       "中出",
-      "凌辱"
+      "凌辱",
+      "苗条",
+      "轮奸"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -407,10 +407,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "中出",
       "美少女电影",
-      "淫乱，真实"
+      "淫乱，真实",
+      "潮吹"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -448,11 +448,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "巨大屁股",
-      "嫩妹",
       "首次亮相",
-      "美少女电影"
+      "嫩妹",
+      "巨大屁股",
+      "美少女电影",
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -466,7 +466,7 @@ window.PAGE_DATA = [
   {
     "id": 585658,
     "IDcode": "CAWD-025",
-    "title": "学妹高潮失禁停不下来[] 素人",
+    "title": "学妹高潮失禁停不下来 素人",
     "year": "",
     "country": "",
     "genre": "",
@@ -489,10 +489,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "美少女电影",
       "苗条",
       "晒黑",
-      "首次亮相",
-      "美少女电影"
+      "首次亮相"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -512,12 +512,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "校服",
       "中文字幕",
       "中出",
-      "接吻",
-      "连裤袜"
+      "连裤袜",
+      "淫乱，真实",
+      "校服",
+      "接吻"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -536,11 +536,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "中文字幕",
       "首次亮相",
+      "中文字幕",
       "美少女电影",
-      "高中女生"
+      "高中女生",
+      "苗条"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -559,12 +559,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
-      "女同接吻",
-      "偶像",
       "乱交",
-      "接吻"
+      "偶像",
+      "淫乱，真实",
+      "接吻",
+      "多P",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -632,11 +632,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "潮吹",
-      "女大学生",
       "中出",
-      "女上位"
+      "淫乱，真实",
+      "女上位",
+      "女大学生"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -672,11 +672,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "巨大阴茎",
-      "女大学生",
+      "首次亮相",
       "乳房",
-      "首次亮相"
+      "苗条",
+      "女大学生",
+      "巨大阴茎"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -697,12 +697,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "白天出轨",
-      "乳房",
-      "中出",
       "制服",
-      "巨乳"
+      "巨乳",
+      "中出",
+      "乳房",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -721,9 +721,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "中出",
       "美少女电影",
+      "淫乱，真实",
       "吞精"
     ],
     "type": "有码",
@@ -744,11 +744,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫语",
       "荡妇",
       "巨乳",
       "女上位",
-      "接吻"
+      "接吻",
+      "淫语"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -767,11 +767,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "OL",
-      "白天出轨",
       "中出",
-      "连裤袜"
+      "连裤袜",
+      "OL",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -790,11 +790,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "巨乳",
       "潮吹",
+      "淫乱，真实",
       "多P",
-      "立即口交",
-      "巨乳"
+      "立即口交"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -814,11 +814,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
       "乱伦",
       "中出",
-      "制服"
+      "苗条",
+      "制服",
+      "平胸"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -837,12 +837,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "出道作",
-      "乳房",
-      "美少女电影",
+      "巨乳",
       "首次亮相",
-      "巨乳"
+      "出道作",
+      "潮吹",
+      "乳房",
+      "美少女电影"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -883,11 +883,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "戏剧",
-      "中出",
       "巨乳",
-      "接吻"
+      "流汗",
+      "中出",
+      "接吻",
+      "戏剧"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -907,11 +907,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "首次亮相",
       "潮吹",
       "女大学生",
-      "多P",
-      "首次亮相",
-      "颜射"
+      "颜射",
+      "多P"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -933,9 +933,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "乳交",
+      "白天出轨",
       "巨乳",
-      "白天出轨"
+      "乳交"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -954,11 +954,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "中出",
-      "制服",
       "巨乳",
-      "接吻"
+      "中出",
+      "接吻",
+      "多P",
+      "制服"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -979,9 +979,9 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "戏剧",
-      "制服",
+      "高中女生",
       "接吻",
-      "高中女生"
+      "制服"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1001,8 +1001,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "美少女电影",
-      "第一人称摄影"
+      "第一人称摄影",
+      "美少女电影"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1021,11 +1021,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
       "中出",
       "美少女电影",
       "女生",
-      "接吻"
+      "接吻",
+      "瘦小身型"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1046,9 +1046,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "首次亮相",
       "美少女电影",
-      "女主播"
+      "女主播",
+      "首次亮相"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1068,11 +1068,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "白天出轨",
-      "乳房",
+      "制服",
       "中出",
-      "制服"
+      "乳房",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1091,11 +1091,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "偷窥",
+      "巨乳",
       "纪录片",
       "中出",
-      "巨乳",
-      "第一人称摄影"
+      "第一人称摄影",
+      "偷窥"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1114,9 +1114,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "戏剧",
       "美少女电影",
-      "接吻",
-      "戏剧"
+      "接吻"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1133,11 +1133,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
-      "潮吹",
       "中文字幕",
       "中出",
+      "潮吹",
+      "淫乱，真实",
+      "苗条",
       "接吻"
     ],
     "type": "有码",
@@ -1158,11 +1158,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "羞耻",
-      "多P",
       "首次亮相",
-      "女上位"
+      "羞耻",
+      "女上位",
+      "苗条",
+      "多P"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1182,11 +1182,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "礼仪小姐",
       "首次亮相",
+      "中文字幕",
       "中出",
-      "美少女电影"
+      "美少女电影",
+      "礼仪小姐"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1207,12 +1207,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "多P",
+      "首次亮相",
       "中文字幕",
       "乳房",
-      "首次亮相",
-      "颜射"
+      "苗条",
+      "颜射",
+      "多P"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1233,10 +1233,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "嫩妹",
       "业余",
-      "巨乳"
+      "巨乳",
+      "嫩妹",
+      "潮吹"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1270,11 +1270,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "拘束",
       "首次亮相",
       "中出",
-      "美少女电影"
+      "美少女电影",
+      "淫乱，真实",
+      "拘束"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1295,11 +1295,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "多P",
+      "巨乳",
       "中文字幕",
       "中出",
-      "巨乳",
+      "苗条",
+      "多P",
       "猥亵穿着"
     ],
     "type": "有码",
@@ -1383,10 +1383,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "乳房",
       "第一人称摄影",
-      "接吻"
+      "接吻",
+      "多P"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1420,12 +1420,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "潮吹",
-      "中文字幕",
       "首次亮相",
+      "中文字幕",
       "中出",
-      "美少女电影"
+      "潮吹",
+      "美少女电影",
+      "瘦小身型"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1459,11 +1459,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "首次亮相",
+      "羞耻",
       "潮吹",
       "学校泳装",
-      "羞耻",
-      "多P",
-      "首次亮相"
+      "多P"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1482,11 +1482,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "偶像",
       "纪录片",
       "中出",
+      "第一人称摄影",
       "美少女电影",
-      "第一人称摄影"
+      "偶像"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1506,11 +1506,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "巨乳",
       "乳交",
       "乳房",
       "感谢祭",
-      "巨乳",
-      "口交",
       "滥交"
     ],
     "type": "有码",
@@ -1530,11 +1530,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "乳房",
       "淫乱，真实",
       "苗条",
       "戏剧",
-      "白天出轨",
-      "乳房"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1602,11 +1602,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "内衣",
       "乱伦",
-      "白天出轨",
-      "美少女电影"
+      "美少女电影",
+      "内衣",
+      "瘦小身型",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1625,10 +1625,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "纪录片",
+      "处男",
       "美少女电影",
       "巨乳",
-      "处男"
+      "纪录片"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1647,11 +1647,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "拘束",
+      "浴衣",
       "中出",
       "美少女电影",
-      "浴衣"
+      "拘束",
+      "出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1745,9 +1745,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "拘束",
       "中出",
-      "高中女生"
+      "高中女生",
+      "拘束"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1766,11 +1766,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "白天出轨",
-      "中出",
       "巨乳",
-      "接吻"
+      "中出",
+      "接吻",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1820,9 +1820,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "潮吹",
-      "多P",
-      "美少女电影",
       "第一人称摄影",
+      "美少女电影",
+      "多P",
       "子宫颈"
     ],
     "type": "有码",
@@ -1843,11 +1843,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "白天出轨",
-      "乳房",
       "中出",
-      "美少女电影"
+      "乳房",
+      "美少女电影",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1866,12 +1866,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
-      "巨大阴茎",
       "出道作",
       "美少女电影",
-      "滥交"
+      "淫乱，真实",
+      "苗条",
+      "滥交",
+      "巨大阴茎"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1891,11 +1891,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "首次亮相",
       "淫乱，真实",
       "苗条",
       "女大学生",
-      "平胸",
-      "首次亮相"
+      "平胸"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1915,11 +1915,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "白天出轨",
       "美少女电影",
-      "主观视角"
+      "淫乱，真实",
+      "主观视角",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -1956,11 +1956,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "深喉",
       "首次亮相",
       "中出",
-      "美少女电影"
+      "美少女电影",
+      "淫乱，真实",
+      "深喉"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -2044,11 +2044,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "胖女人",
-      "制服",
       "口交",
+      "胖女人",
+      "接吻",
       "淫语",
-      "接吻"
+      "制服"
     ],
     "type": "有码",
     "company": "KAWAII",
@@ -2101,10 +2101,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "首次亮相",
       "美少女电影",
+      "无毛",
       "偶像",
-      "无毛"
+      "首次亮相"
     ],
     "type": "有码",
     "company": "KAWAII",

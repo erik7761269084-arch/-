@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
   <p><a href="https://telegra.ph/Bimilstory-Taeri-Vol01---Debut-Work-08-29">Taeri Vol.01 - Debut Work</a></p>
   <p><a href="https://telegra.ph/Bimilstory--Taeri-Vol02---Debut-work-Black-bunny-in-body-stocking-08-29">Taeri Vol.02 - Debut work Black bunny in body-stocking</a></p>
   <p><a href="https://telegra.ph/Bimilstory--Taeri-Vol05---Bad-cop-08-29">Taeri Vol.05 - Bad cop</a></p>
@@ -50,5 +22,3 @@
   <p><a href="https://telegra.ph/Bimilstory-Taeri--After-the-flight-08-29">Taeri – After the flight</a></p>
   <p><a href="https://telegra.ph/Bimilstory-Taeri---Oh-My-Goddess-08-29"> Taeri Oh, My Goddess</a></p>
   <p><a href="https://telegra.ph/Bimilstory-Taeri---Wet-body-08-29">Taeri Wet body</a></p>
-</body>
-</html>

@@ -8,8 +8,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -26,8 +26,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -44,8 +44,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
@@ -63,8 +63,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -81,8 +81,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -99,8 +99,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
@@ -118,8 +118,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -136,8 +136,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -154,8 +154,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -172,8 +172,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -190,8 +190,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -209,8 +209,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -227,8 +227,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -245,8 +245,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -263,8 +263,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -281,8 +281,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -299,8 +299,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -317,8 +317,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -335,8 +335,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -353,8 +353,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -371,8 +371,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -390,8 +390,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -408,8 +408,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -426,10 +426,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "嫩妹",
       "街头采访",
-      "巨乳",
-      "嫩妹"
+      "素人",
+      "巨乳"
     ],
     "type": "有码",
     "company": "DOC",
@@ -446,8 +446,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -465,8 +465,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -484,8 +484,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -502,8 +502,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -520,8 +520,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -538,8 +538,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -556,8 +556,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -574,8 +574,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -594,8 +594,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -612,8 +612,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
@@ -631,8 +631,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -650,8 +650,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -668,8 +668,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -686,8 +686,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -704,8 +704,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -722,8 +722,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -740,8 +740,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -758,8 +758,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -776,8 +776,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -795,8 +795,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -813,8 +813,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -831,8 +831,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -850,8 +850,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -868,8 +868,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -886,8 +886,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -904,8 +904,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -923,8 +923,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -941,8 +941,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -959,8 +959,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -977,8 +977,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -995,8 +995,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1013,8 +1013,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "嫩妹"
     ],
     "type": "有码",
@@ -1032,8 +1032,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1050,8 +1050,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1068,8 +1068,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1086,8 +1086,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1104,8 +1104,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1123,8 +1123,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1141,8 +1141,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1159,8 +1159,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1177,9 +1177,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "街头采访",
       "素人",
-      "乱交",
-      "街头采访"
+      "乱交"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1196,8 +1196,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1214,8 +1214,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1232,8 +1232,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -1251,8 +1251,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1269,8 +1269,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1287,8 +1287,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1305,8 +1305,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -1324,8 +1324,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1342,8 +1342,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1360,8 +1360,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1378,8 +1378,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1396,8 +1396,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1414,8 +1414,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -1433,8 +1433,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1452,8 +1452,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1470,8 +1470,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1488,8 +1488,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1507,9 +1507,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
+      "街头采访",
       "痴汉",
-      "街头采访"
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1526,8 +1526,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1544,8 +1544,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -1564,8 +1564,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1582,8 +1582,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -1601,8 +1601,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "街头采访",
+      "素人",
       "巨乳"
     ],
     "type": "有码",
@@ -1620,8 +1620,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1638,8 +1638,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1656,8 +1656,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1675,8 +1675,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1694,8 +1694,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1712,8 +1712,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1731,8 +1731,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1749,8 +1749,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1767,8 +1767,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1786,8 +1786,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1805,8 +1805,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",
@@ -1823,8 +1823,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访"
+      "街头采访",
+      "素人"
     ],
     "type": "有码",
     "company": "DOC",

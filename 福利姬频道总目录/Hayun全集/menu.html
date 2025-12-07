@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
   <p><a href="https://telegra.ph/Bimilstory--Hayun-Vol01-Debut-flower-in-blossom-08-29">Hayun Vol.01 Debut flower in blossom</a></p>
   <p><a href="https://telegra.ph/Bimilstory--Hayun-Vol01-Debut-the-coming-of-age-ceremony-08-29">Hayun Vol.01 Debut the coming of age ceremony</a></p>
   <p><a href="https://telegra.ph/Bimilstory--Hayun-Vol02-freshman-at-college-of-music-08-29">Hayun Vol.02 freshman at college of music</a></p>
@@ -33,5 +5,3 @@
   <p><a href="https://telegra.ph/Bimilstory---Hayun-Vol04-1---Part-time-girls-08-29">Hayun Vol.04_1 - Part time girls</a></p>
   <p><a href="https://telegra.ph/Bimilstory-Hayun-Vol04-2---Seducing-a-part-timer-08-29">Bimilstory Hayun Vol.04_2 - Seducing a part-timer</a></p>
   <p><a href="https://telegra.ph/Bimilstory---Hayun---Vol05-White-Holiday-08-29">Hayun - Vol.05 White Holiday</a></p>
-</body>
-</html>

@@ -1,20 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 555134,
-    "IDcode": "HEYZO-1482",
-    "title": "如今OL的外遇我老板的一本我要了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250104-1/c647ac414152472fbc4d1b9adbeb2f49.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1482"
-  },
-  {
     "id": 58054,
     "IDcode": "HEYZO-1483",
     "title": "セックスで内定もらいました～最終面接は卑猥な特技で突破！～ - 朝比奈みなみ",
@@ -22,15 +7,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "漂亮屁股",
-      "恶搞",
-      "OL",
-      "69",
       "雪白皮肤",
       "中出",
-      "背后插入",
-      "知名女优",
+      "69",
       "骑乘位",
+      "OL",
+      "恶搞",
+      "知名女优",
+      "背后插入",
+      "漂亮屁股",
       "美脚"
     ],
     "type": "有码",
@@ -48,8 +33,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "69",
       "中出",
+      "69",
       "乳交"
     ],
     "type": "有码",
@@ -116,15 +101,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乳交",
-      "美乳",
-      "中出",
-      "按摩棒",
-      "後入",
       "口交",
+      "乳交",
+      "中出",
+      "美乳",
+      "情趣內衣",
       "女上位",
-      "情趣內衣"
+      "後入",
+      "素人",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -158,11 +143,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "乳交",
+      "中出",
+      "潮吹",
       "COSPLAY服飾",
-      "美乳",
-      "中出"
+      "美乳"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -181,11 +166,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "乳交",
+      "中出",
+      "潮吹",
       "69",
-      "美乳",
-      "中出"
+      "美乳"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -223,9 +208,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "中出",
       "69",
-      "3P・4P",
-      "中出"
+      "3P・4P"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -259,11 +244,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
+      "乳交",
+      "中出",
       "辦公室",
       "OL",
-      "乳交",
-      "中出"
+      "3P・4P"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -282,11 +267,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "乳交",
-      "美乳",
       "中出",
-      "抹油"
+      "潮吹",
+      "抹油",
+      "美乳"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -305,11 +290,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "OL",
       "乳交",
+      "中出",
       "69",
-      "中出"
+      "OL",
+      "熟女"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -343,12 +328,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "立即口交",
       "中出",
-      "背后插入",
+      "打手枪",
       "骑乘位",
-      "打手枪"
+      "背后插入",
+      "素人",
+      "立即口交"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -365,8 +350,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
       "中出",
+      "美乳",
       "女教師"
     ],
     "type": "有码",
@@ -386,8 +371,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "69",
-      "中出"
+      "中出",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -453,10 +438,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "69",
       "中出",
-      "COSPLAY服飾",
-      "旅行"
+      "69",
+      "旅行",
+      "COSPLAY服飾"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -475,12 +460,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "苗條",
-      "中出",
       "口交",
-      "性感",
-      "女同事"
+      "女同事",
+      "中出",
+      "苗條",
+      "OL",
+      "性感"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -529,13 +514,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "雪白皮肤",
       "玩具",
       "贫乳",
-      "立即口交",
-      "雪白皮肤",
-      "口爆/吞精",
       "知名女优",
-      "萝莉"
+      "口爆/吞精",
+      "萝莉",
+      "立即口交"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -552,16 +537,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "玩具",
-      "素人",
-      "立即口交",
       "中出",
+      "打手枪",
+      "苗条",
+      "骑乘位",
       "背后插入",
       "口爆/吞精",
-      "骑乘位",
-      "打手枪",
-      "美脚"
+      "美脚",
+      "素人",
+      "立即口交"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -593,12 +578,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "3P・4P",
       "人妻",
-      "女教師",
+      "熟女",
       "中出",
-      "苗條"
+      "苗條",
+      "女教師",
+      "3P・4P"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -617,10 +602,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "素人",
       "中出",
-      "69"
+      "69",
+      "素人",
+      "潮吹"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -637,13 +622,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "女同事",
+      "中出",
+      "性感",
+      "苗條",
       "辦公室",
       "OL",
-      "苗條",
-      "中出",
-      "制服",
-      "性感",
-      "女同事"
+      "制服"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -662,8 +647,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "69",
-      "中出"
+      "中出",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -695,11 +680,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫語",
       "乳交",
-      "69",
       "中出",
-      "苗條"
+      "苗條",
+      "69",
+      "淫語"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -733,13 +718,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "中出",
       "女友・妻子",
       "辦公室",
       "OL",
-      "COSPLAY服飾",
-      "中出",
       "制服",
-      "口交"
+      "COSPLAY服飾"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -759,12 +744,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "口交",
+      "絕頂高潮",
       "舔陰",
       "慾求不滿",
-      "69",
       "中出",
-      "口交",
-      "絕頂高潮"
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -784,16 +769,16 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "潮吹",
-      "熟女",
-      "淫語",
+      "中出",
+      "女上司",
+      "老闆娘，女主人",
+      "偷窺",
+      "69",
+      "足交",
       "辦公室",
       "OL",
-      "69",
-      "中出",
-      "足交",
-      "女上司",
-      "偷窺",
-      "老闆娘，女主人"
+      "熟女",
+      "淫語"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -825,18 +810,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "淫語",
-      "OL",
-      "苗條",
+      "女同事",
       "出軌",
-      "69",
-      "女上司",
       "中出",
-      "出差",
+      "女上司",
+      "苗條",
       "飯店",
+      "69",
+      "OL",
       "劇情",
-      "女同事"
+      "出差",
+      "NTR",
+      "淫語"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -886,11 +871,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "3P・4P",
-      "女學生",
       "乳交",
-      "COSPLAY服飾",
       "中出",
-      "學校"
+      "學校",
+      "女學生",
+      "COSPLAY服飾"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -973,11 +958,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫語",
-      "素人",
       "按摩・物理治療・美容",
       "69",
-      "抹油"
+      "抹油",
+      "素人",
+      "淫語"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1014,10 +999,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "乳交",
-      "美乳",
       "中出",
-      "巨乳"
+      "美乳"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1066,15 +1051,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "潮吹",
-      "熟女",
       "玩具",
-      "乳液",
+      "潮吹",
       "乳交",
       "中出",
-      "背后插入",
-      "骑乘位"
+      "苗条",
+      "乳液",
+      "骑乘位",
+      "熟女",
+      "背后插入"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1091,12 +1076,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "乳交",
-      "COSPLAY服飾",
+      "潮吹",
+      "中出",
       "69",
-      "美乳",
-      "中出"
+      "COSPLAY服飾",
+      "美乳"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1175,11 +1160,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美腳",
-      "家政婦",
-      "69",
       "中出",
-      "苗條"
+      "美腳",
+      "苗條",
+      "69",
+      "家政婦"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1228,9 +1213,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "中出",
       "69",
       "3P・4P",
-      "中出",
       "亂交 • 群P"
     ],
     "type": "有码",
@@ -1265,14 +1250,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "兩男一女",
-      "3P・4P",
-      "凌辱",
-      "手指插入",
-      "中出",
-      "亂交 • 群P",
       "口交",
-      "劇情"
+      "凌辱",
+      "兩男一女",
+      "中出",
+      "手指插入",
+      "亂交 • 群P",
+      "劇情",
+      "3P・4P"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1353,15 +1338,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "私房攝影",
-      "緊身衣",
-      "苗條",
-      "中出",
       "口交",
-      "性感",
+      "緊身衣",
+      "中出",
       "模特兒",
-      "劇情"
+      "私房攝影",
+      "苗條",
+      "劇情",
+      "熟女",
+      "性感"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1380,10 +1365,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩棒",
       "中出",
       "口交",
-      "自慰"
+      "自慰",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1402,13 +1387,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
-      "女友・妻子",
-      "美少女",
-      "中出",
-      "飯店",
       "口交",
-      "性感"
+      "舔陰",
+      "中出",
+      "女友・妻子",
+      "飯店",
+      "性感",
+      "美少女"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1427,18 +1412,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "兩男一女",
-      "3P・4P",
-      "舔陰",
-      "打手槍",
-      "女教師",
-      "內衣",
       "勾引・誘惑",
-      "中出",
-      "亂交 • 群P",
       "口交",
-      "劇情"
+      "打手槍",
+      "舔陰",
+      "兩男一女",
+      "中出",
+      "內衣",
+      "女教師",
+      "亂交 • 群P",
+      "劇情",
+      "熟女",
+      "3P・4P"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1457,13 +1442,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "中出",
+      "企畫",
       "女優訪談",
       "手指插入",
       "素人",
-      "按摩棒",
-      "中出",
-      "口交",
-      "企畫"
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1480,19 +1465,19 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "凌辱",
-      "身體意識",
-      "美少女",
-      "手指插入",
-      "緊縛",
-      "羞恥",
-      "中出",
-      "按摩棒",
       "口交",
+      "凌辱",
+      "潮吹",
+      "中出",
       "性感",
+      "緊縛",
+      "手指插入",
+      "身體意識",
       "劇情",
-      "抹油"
+      "羞恥",
+      "美少女",
+      "抹油",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1526,15 +1511,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "兩男一女",
-      "3P・4P",
-      "打手槍",
-      "手指插入",
-      "按摩棒",
-      "亂交 • 群P",
       "口交",
-      "性感"
+      "打手槍",
+      "兩男一女",
+      "亂交 • 群P",
+      "手指插入",
+      "熟女",
+      "性感",
+      "3P・4P",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1553,11 +1538,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔陰",
-      "女學生",
-      "69",
-      "中出",
       "口交",
+      "舔陰",
+      "中出",
+      "69",
+      "女學生",
       "劇情",
       "騎乗位"
     ],
@@ -1578,10 +1563,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美乳",
       "中出",
-      "69"
+      "69",
+      "美乳",
+      "潮吹"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1600,14 +1585,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "脚控・戀足癖",
+      "口交",
       "乳交",
+      "中出",
+      "黑絲",
       "胸控・戀乳癖",
       "69",
-      "黑絲",
-      "中出",
-      "口交",
-      "性感"
+      "性感",
+      "脚控・戀足癖"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1626,15 +1611,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "脚控・戀足癖",
-      "胸控・戀乳癖",
-      "美乳",
-      "中出",
-      "巨乳",
       "口交",
+      "巨乳",
+      "潮吹",
+      "中出",
+      "胸控・戀乳癖",
+      "脚控・戀足癖",
+      "抹油",
       "性感",
-      "抹油"
+      "美乳"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1683,14 +1668,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "兩男一女",
-      "3P・4P",
       "人妻",
-      "美乳",
+      "口交",
+      "兩男一女",
       "中出",
       "亂交 • 群P",
-      "口交"
+      "熟女",
+      "3P・4P",
+      "美乳"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1709,14 +1694,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩・美容店",
+      "口交",
       "風俗娘",
+      "中出",
+      "按摩女郎",
       "按摩・物理治療・美容",
       "69",
-      "按摩女郎",
-      "中出",
-      "口交",
-      "抹油"
+      "抹油",
+      "按摩・美容店"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1765,9 +1750,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩棒",
+      "中出",
       "美乳",
-      "中出"
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1786,9 +1771,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
       "中出",
       "足交",
+      "OL",
       "淫語"
     ],
     "type": "有码",
@@ -1823,9 +1808,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "69",
       "中出",
       "家庭教師",
+      "69",
       "乳交"
     ],
     "type": "有码",
@@ -1860,12 +1845,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
       "人妻",
-      "乳交",
       "出軌",
+      "乳交",
+      "中出",
       "69",
-      "中出"
+      "熟女"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1884,17 +1869,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "舔陰",
-      "NTR",
-      "艷遇",
-      "手指插入",
       "勾引・誘惑",
-      "出軌",
-      "69",
-      "中出",
+      "人妻",
       "口交",
-      "劇情"
+      "舔陰",
+      "出軌",
+      "中出",
+      "69",
+      "手指插入",
+      "艷遇",
+      "劇情",
+      "NTR"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1913,10 +1898,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女賊",
-      "美乳",
       "中出",
-      "脅迫做愛"
+      "脅迫做愛",
+      "美乳",
+      "女賊"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -1935,18 +1920,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "玩具",
-      "素人",
-      "出轨",
-      "立即口交",
-      "69",
       "雪白皮肤",
       "中出",
-      "背后插入",
       "第一人称视角(POV)",
+      "69",
+      "打手枪",
+      "苗条",
       "骑乘位",
-      "打手枪"
+      "出轨",
+      "背后插入",
+      "素人",
+      "立即口交"
     ],
     "type": "有码",
     "company": "HEYZO",
@@ -2002,5 +1987,31 @@ window.PAGE_DATA = [
     "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113233001928928.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1605"
+  },
+  {
+    "id": 1118,
+    "IDcode": "HEYZO-1606",
+    "title": "提升銷售業績的秘訣就是SEX！？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "中出",
+      "美腳",
+      "69",
+      "身體換業務",
+      "OL",
+      "熟女",
+      "美乳"
+    ],
+    "type": "有码",
+    "company": "HEYZO",
+    "publish_date": "2017-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113232513698698.jpg",
+    "actress": [
+      "江波亮"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1606"
   }
 ];

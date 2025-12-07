@@ -7,8 +7,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -28,8 +28,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -47,8 +47,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -68,8 +68,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -89,8 +89,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -110,8 +110,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -131,8 +131,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -152,8 +152,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -173,8 +173,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -194,10 +194,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -216,8 +216,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -237,8 +237,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -258,8 +258,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -280,8 +280,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -301,16 +301,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "素人企画",
-      "HDTV",
-      "素人",
       "业余",
+      "素人企画",
+      "高端素人",
       "乳房",
       "无毛",
+      "苗条",
       "姐姐",
-      "高端素人",
-      "颜射"
+      "颜射",
+      "HDTV",
+      "素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -330,10 +330,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人企画",
-      "素人",
       "巨乳",
-      "高端素人"
+      "高端素人",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -352,8 +352,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -371,10 +371,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -393,8 +393,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -412,8 +412,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -431,10 +431,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -451,8 +451,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -472,8 +472,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -493,8 +493,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -515,8 +515,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -536,8 +536,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -555,8 +555,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -574,8 +574,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -593,8 +593,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -612,8 +612,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -631,10 +631,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱伦",
       "高端素人",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "乱伦"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -651,8 +651,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -670,10 +670,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -690,8 +690,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -709,10 +709,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱伦",
       "高端素人",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "乱伦"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -729,8 +729,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -748,8 +748,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -767,8 +767,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -786,10 +786,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -806,8 +806,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -828,8 +828,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -849,8 +849,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -870,8 +870,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -891,8 +891,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -913,8 +913,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -934,8 +934,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -953,10 +953,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -976,8 +976,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -995,8 +995,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1014,10 +1014,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1034,10 +1034,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1057,10 +1057,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1077,8 +1077,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1098,17 +1098,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "业余",
       "人妻",
-      "屁股",
-      "素人企画",
       "已婚妇女",
       "HDTV",
-      "素人",
-      "业余",
-      "乳房",
+      "屁股",
       "高端素人",
-      "颜射"
+      "乳房",
+      "苗条",
+      "颜射",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1125,15 +1125,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人企画",
-      "素人",
-      "高端素人",
-      "姐姐・妹妹",
       "巨乳",
+      "高端素人",
       "苗條",
-      "抹油",
       "顏射",
-      "業餘"
+      "姐姐・妹妹",
+      "抹油",
+      "業餘",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1152,16 +1152,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "素人企画",
-      "HDTV",
-      "素人",
       "业余",
+      "巨乳",
+      "HDTV",
+      "屁股",
+      "高端素人",
       "乳房",
       "姐姐",
-      "高端素人",
-      "巨乳",
-      "颜射"
+      "颜射",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1180,8 +1180,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1202,17 +1202,17 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人企画",
-      "已婚妇女",
-      "内衣",
-      "HDTV",
-      "乳液",
-      "自慰",
-      "素人",
       "业余",
-      "高端素人",
       "巨乳",
-      "颜射"
+      "已婚妇女",
+      "HDTV",
+      "高端素人",
+      "自慰",
+      "乳液",
+      "内衣",
+      "颜射",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1231,8 +1231,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1252,8 +1252,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1271,8 +1271,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1290,8 +1290,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1311,8 +1311,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1332,8 +1332,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1351,8 +1351,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1373,10 +1373,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1396,8 +1396,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1415,8 +1415,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1436,8 +1436,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1455,10 +1455,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1475,8 +1475,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1497,8 +1497,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1516,8 +1516,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1535,8 +1535,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1554,8 +1554,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1573,8 +1573,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1592,10 +1592,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1614,8 +1614,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1633,8 +1633,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1652,8 +1652,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1671,8 +1671,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1690,8 +1690,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1710,8 +1710,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1729,8 +1729,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1748,8 +1748,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1767,8 +1767,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1786,8 +1786,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1805,10 +1805,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1825,8 +1825,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1844,10 +1844,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "痴汉",
-      "高端素人",
-      "素人企画"
+      "素人",
+      "素人企画",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1866,8 +1866,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1885,8 +1885,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1906,8 +1906,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1925,8 +1925,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1944,8 +1944,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1964,8 +1964,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1985,8 +1985,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -2004,8 +2004,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -2025,8 +2025,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -2044,8 +2044,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",

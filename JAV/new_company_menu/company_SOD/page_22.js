@@ -1,5 +1,75 @@
 window.PAGE_DATA = [
   {
+    "id": 76062,
+    "IDcode": "STARS-186",
+    "title": "可爱的女学生-戸田真琴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "护士",
+      "中出",
+      "素人作品",
+      "高中女生",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/553b56cf3f4970a9a9f711a4e60eb767.jpg",
+    "actress": [
+      "戸田真琴",
+      "向理来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-186"
+  },
+  {
+    "id": 76612,
+    "IDcode": "STARS-187",
+    "title": "高冷的同班女同学-本庄鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "白天出轨",
+      "素人作品",
+      "高中女生",
+      "戏剧",
+      "立即口交"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f4bc65be564b2e5eecaab03c1ed94a05.jpg",
+    "actress": [
+      "本庄鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-187"
+  },
+  {
+    "id": 76694,
+    "IDcode": "STARS-188",
+    "title": "衣服潜り込み痴● 完全着衣潜入アングル 和久井まりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "苗条",
+      "素人作品",
+      "校服"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bd2f818f98407acc915d5437f0ab2411.jpg",
+    "actress": [
+      "和久井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-188"
+  },
+  {
     "id": 76685,
     "IDcode": "STARS-189",
     "title": "傲慢美女部长-西野翔",
@@ -8,11 +78,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "凌辱",
+      "巨乳",
+      "单体作品",
       "无码破解",
       "中出",
-      "素人作品",
-      "巨乳",
-      "单体作品"
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -31,12 +101,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "平胸",
       "乱伦",
       "美少女电影",
       "素人作品",
-      "妹妹"
+      "妹妹",
+      "平胸",
+      "瘦小身型"
     ],
     "type": "有码",
     "company": "SOD",
@@ -85,11 +155,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "人妻",
+      "素人作品",
+      "苗条",
       "新娘，年轻妻子",
-      "白天出轨",
-      "素人作品"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -108,13 +178,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "接吻",
-      "NTR",
-      "白天出轨",
       "淫妻",
       "美少女电影",
       "素人作品",
-      "主观视角"
+      "接吻",
+      "主观视角",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -133,11 +203,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "凌辱",
-      "戏剧",
       "美少女电影",
       "素人作品",
-      "口交"
+      "戏剧"
     ],
     "type": "有码",
     "company": "SOD",
@@ -157,14 +227,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "OL",
-      "偶像",
-      "白天出轨",
-      "无码破解",
       "女同",
+      "无码破解",
+      "偶像",
       "素人作品",
+      "OL",
       "颜射",
-      "美容院"
+      "美容院",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -184,10 +254,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "素人作品",
+      "戏剧",
       "主观视角",
-      "戏剧"
+      "素人作品",
+      "乱伦"
     ],
     "type": "有码",
     "company": "SOD",
@@ -206,12 +276,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "自拍性愛",
-      "出道作品",
-      "按摩・物理治療・美容",
-      "無碼流出",
       "巨乳",
-      "无码"
+      "自拍性愛",
+      "按摩・物理治療・美容",
+      "无码",
+      "無碼流出",
+      "出道作品"
     ],
     "type": "无码",
     "company": "SOD",
@@ -245,11 +315,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "角色扮演者",
       "羞耻",
-      "美少女电影",
       "纪录片",
-      "素人作品",
-      "角色扮演者"
+      "美少女电影",
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -268,10 +338,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "战斗行动",
-      "素人作品",
+      "女检察官",
       "监禁",
-      "女检察官"
+      "素人作品",
+      "战斗行动"
     ],
     "type": "有码",
     "company": "SOD",
@@ -291,10 +361,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "素人作品",
+      "口交",
       "女佣",
-      "口交"
+      "苗条",
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -313,10 +383,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
       "中出",
+      "女检察官",
       "监禁",
-      "女检察官"
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -336,13 +406,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "深喉",
-      "平胸",
-      "偶像",
       "美少女电影",
+      "偶像",
       "素人作品",
-      "女生"
+      "女生",
+      "巨大阴茎",
+      "平胸",
+      "深喉"
     ],
     "type": "有码",
     "company": "SOD",
@@ -363,11 +433,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "潮吹",
       "乳房",
       "美少女电影",
-      "素人作品",
-      "口交"
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -388,11 +458,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "羞恥",
-      "無碼流出",
-      "SM",
       "苗條",
-      "顏射"
+      "顏射",
+      "SM",
+      "無碼流出",
+      "羞恥"
     ],
     "type": "有码",
     "company": "SOD",
@@ -412,10 +482,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "凌辱",
-      "深喉",
-      "戏剧",
+      "美少女电影",
       "女教师",
-      "美少女电影"
+      "戏剧",
+      "深喉"
     ],
     "type": "有码",
     "company": "SOD",
@@ -435,12 +505,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "流汗",
       "潮吹",
       "美少女電影",
-      "流汗",
-      "無碼流出",
       "接吻",
-      "无码"
+      "无码",
+      "無碼流出"
     ],
     "type": "无码",
     "company": "SOD",
@@ -459,10 +529,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "無碼流出",
       "偶像",
-      "深喉"
+      "深喉",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -503,10 +573,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "OL",
       "中出",
-      "戏剧"
+      "戏剧",
+      "人妻",
+      "OL"
     ],
     "type": "有码",
     "company": "SOD",
@@ -525,9 +595,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "美少女电影",
       "首次亮相",
-      "美少女电影"
+      "潮吹"
     ],
     "type": "有码",
     "company": "SOD",
@@ -659,10 +729,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "戏剧",
-      "平胸",
       "美少女电影",
-      "放尿"
+      "放尿",
+      "戏剧",
+      "平胸"
     ],
     "type": "有码",
     "company": "SOD",
@@ -696,11 +766,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
       "荡妇",
       "女上位",
-      "淫语",
-      "美容院"
+      "按摩",
+      "美容院",
+      "淫语"
     ],
     "type": "有码",
     "company": "SOD",
@@ -719,10 +789,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "泳裝",
-      "無碼流出",
       "美少女電影",
-      "口交"
+      "口交",
+      "泳裝",
+      "無碼流出"
     ],
     "type": "有码",
     "company": "SOD",
@@ -741,15 +811,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "輪姦",
-      "美少女電影",
-      "多P",
-      "淫亂",
-      "強姦",
-      "出軌",
       "制服",
+      "強姦",
+      "淫亂",
+      "出軌",
       "無碼流出",
-      "无码"
+      "美少女電影",
+      "无码",
+      "多P",
+      "輪姦"
     ],
     "type": "无码",
     "company": "SOD",
@@ -837,8 +907,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無碼流出",
-      "无码"
+      "无码",
+      "無碼流出"
     ],
     "type": "无码",
     "company": "SOD",
@@ -872,10 +942,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
       "中出",
       "白天出轨",
-      "已婚妇女"
+      "已婚妇女",
+      "出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -942,12 +1012,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "潮吹",
       "美少女電影",
-      "無碼流出",
-      "口交",
       "接吻",
-      "无码"
+      "无码",
+      "無碼流出"
     ],
     "type": "无码",
     "company": "SOD",
@@ -966,12 +1036,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美乳",
-      "4小時以上作品",
-      "中出",
-      "無碼流出",
       "巨乳",
-      "姐姐・妹妹"
+      "中出",
+      "4小時以上作品",
+      "姐姐・妹妹",
+      "無碼流出",
+      "美乳"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1029,11 +1099,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "口交",
       "流汗",
-      "戏剧",
-      "OL",
       "中出",
-      "口交"
+      "OL",
+      "戏剧"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1113,9 +1183,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "強姦",
       "中出",
-      "女學生"
+      "女學生",
+      "強姦"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1134,12 +1204,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "無碼流出",
+      "中出",
       "潮吹",
       "美少女電影",
-      "多P",
-      "中出",
-      "無碼流出",
-      "无码"
+      "无码",
+      "多P"
     ],
     "type": "无码",
     "company": "SOD",
@@ -1158,12 +1228,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "淫亂",
       "潮吹",
       "美少女電影",
-      "深喉",
-      "淫亂",
+      "无码",
       "無碼流出",
-      "无码"
+      "深喉"
     ],
     "type": "无码",
     "company": "SOD",
@@ -1197,14 +1267,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "多P",
       "自拍性愛",
-      "無碼流出",
-      "亂交 • 群P",
-      "紀錄片",
+      "多P",
       "乱交",
-      "无码"
+      "美少女電影",
+      "紀錄片",
+      "亂交 • 群P",
+      "无码",
+      "無碼流出"
     ],
     "type": "无码",
     "company": "SOD",
@@ -1223,9 +1293,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "女主播",
       "素人作品",
+      "女主播",
+      "羞耻",
       "美容院"
     ],
     "type": "有码",
@@ -1260,11 +1330,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女佣",
+      "口交",
       "美少女电影",
       "素人作品",
-      "口交",
-      "颜射"
+      "颜射",
+      "女佣"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1299,11 +1369,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "流汗",
-      "無碼流出",
+      "潮吹",
       "素人作品",
-      "无码"
+      "无码",
+      "無碼流出"
     ],
     "type": "无码",
     "company": "SOD",
@@ -1402,8 +1472,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "首次亮相",
       "美少女电影",
+      "首次亮相",
       "女大学生"
     ],
     "type": "有码",
@@ -1424,12 +1494,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "OL",
-      "白天出轨",
+      "单体作品",
       "无码破解",
       "中出",
-      "单体作品"
+      "OL",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1478,12 +1548,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "巨大阴茎",
-      "无码破解",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "潮吹",
+      "无码破解",
+      "淫乱，真实",
+      "巨大阴茎"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1586,10 +1656,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "接吻",
       "中出",
-      "女上位",
-      "口交"
+      "口交",
+      "接吻",
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1626,8 +1696,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
       "药物",
+      "美少女电影",
       "平胸"
     ],
     "type": "有码",
@@ -1693,11 +1763,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "口交",
       "单体作品",
       "无码破解",
       "女教师",
-      "口交",
+      "苗条",
       "颜射"
     ],
     "type": "有码",
@@ -1790,8 +1860,8 @@ window.PAGE_DATA = [
     "genres": [
       "中出",
       "美少女电影",
-      "白天出轨",
-      "接吻"
+      "接吻",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1812,10 +1882,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "美少女电影",
       "巨乳",
-      "淫语",
-      "接吻"
+      "美少女电影",
+      "接吻",
+      "淫语"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1836,9 +1906,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
+      "浴衣",
       "美少女电影",
-      "主观视角",
-      "浴衣"
+      "主观视角"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1857,10 +1927,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "女上位",
+      "高中女生",
       "多P",
-      "高中女生"
+      "淫乱，真实",
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1881,10 +1951,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "中出",
-      "白天出轨",
-      "戏剧"
+      "戏剧",
+      "苗条",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1903,10 +1973,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "巨大阴茎",
       "美少女电影",
-      "深喉"
+      "深喉",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1918,53 +1988,5 @@ window.PAGE_DATA = [
       "鲛岛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-310"
-  },
-  {
-    "id": 594890,
-    "IDcode": "STARS-311",
-    "title": "和对面房间的精力旺盛巨乳姐姐持续练习骑乘位 夏目响",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250216-1/7fa54e65e33686a7f0081d3d18d0bdcf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-311"
-  },
-  {
-    "id": 173371,
-    "IDcode": "STARS-312",
-    "title": "结婚典礼进行时被新郎要求强制中出的婚礼策划人-户田真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-312"
-  },
-  {
-    "id": 211911,
-    "IDcode": "STARS-314",
-    "title": "完全着衣潜入-小倉由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/03/12/d15c6bbe4f8a5881071d402bc0455fcd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-314"
   }
 ];

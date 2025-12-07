@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
   <p><a href="https://telegra.ph/%E8%90%BD%E8%90%BDRaku---LoveStart-08-19">落落Raku - Love!☆Start!!</a></p>
   <p><a href="https://telegra.ph/%E8%90%BD%E8%90%BDRaku-Lily-White-08-22">落落Raku Lily White</a></p>
   <p><a href="https://telegra.ph/%E8%90%BD%E8%90%BDRaku-SUCCUBUS-BAR-08-22">落落Raku SUCCUBUS BAR♡</a></p>
@@ -46,5 +18,3 @@
   <p><a href="https://telegra.ph/Breath8月29会员资源-08-25">落落Raku Breath（8月29会员资源）</a></p>
   <p><a href="https://telegra.ph/Weekend8月29会员资源-08-25">落落Raku Weekend（8月29会员资源）</a></p>
   <p><a href="https://telegra.ph/Weekday8月29会员资源-08-25">落落Raku Weekday（8月29会员资源）</a></p>
-</body>
-</html>

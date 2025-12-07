@@ -1223,8 +1223,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",
@@ -1241,8 +1241,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",
@@ -1259,8 +1259,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",
@@ -1277,8 +1277,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",
@@ -1295,8 +1295,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",
@@ -1313,8 +1313,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",
@@ -1331,8 +1331,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",
@@ -1349,8 +1349,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画"
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "TMA",

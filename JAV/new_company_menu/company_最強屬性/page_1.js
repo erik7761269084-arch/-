@@ -6,7 +6,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -21,7 +23,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -36,7 +40,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -51,7 +57,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -66,7 +74,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -81,7 +91,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -97,11 +109,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
-      "中出",
-      "素人作品",
       "角色扮演者",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "美少女电影",
+      "COSPLAY",
+      "素人作品"
     ],
     "type": "有码",
     "company": "最強屬性",
@@ -120,10 +133,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "角色扮演者",
       "中出",
-      "美少女电影",
       "第一人称摄影",
-      "角色扮演者"
+      "美少女电影",
+      "COSPLAY"
     ],
     "type": "有码",
     "company": "最強屬性",
@@ -140,10 +154,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "角色扮演者",
       "中出",
-      "美少女电影",
       "第一人称摄影",
-      "角色扮演者"
+      "美少女电影",
+      "COSPLAY"
     ],
     "type": "有码",
     "company": "最強屬性",
@@ -162,10 +177,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "角色扮演者",
       "中出",
-      "美少女电影",
       "第一人称摄影",
-      "角色扮演者"
+      "美少女电影",
+      "COSPLAY"
     ],
     "type": "有码",
     "company": "最強屬性",
@@ -183,7 +199,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -198,7 +216,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -213,7 +233,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -228,7 +250,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -243,7 +267,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -259,11 +285,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "二次元",
       "自拍性愛",
-      "COSPLAY服飾",
-      "中出"
+      "中出",
+      "COSPLAY",
+      "二次元",
+      "美少女",
+      "COSPLAY服飾"
     ],
     "type": "有码",
     "company": "最強屬性",
@@ -282,17 +309,18 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "游戲COSPLAY",
-      "二次元",
-      "自慰",
+      "口交",
       "蠻橫嬌羞",
       "自拍性愛",
-      "COSPLAY服飾",
       "中出",
-      "按摩棒",
-      "口交",
-      "劇情"
+      "COSPLAY",
+      "自慰",
+      "二次元",
+      "游戲COSPLAY",
+      "劇情",
+      "美少女",
+      "COSPLAY服飾",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "最強屬性",
@@ -310,7 +338,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -325,7 +355,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -340,7 +372,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -355,7 +389,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
@@ -371,12 +407,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "美少女电影",
-      "中出",
-      "素人作品",
       "角色扮演者",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "美少女电影",
+      "COSPLAY",
+      "素人作品",
+      "多P"
     ],
     "type": "有码",
     "company": "最強屬性",
@@ -395,7 +432,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "COSPLAY"
+    ],
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",

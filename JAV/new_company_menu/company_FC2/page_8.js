@@ -1,35 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 525026,
-    "IDcode": "FC2-PPV-1222071",
-    "title": "（モザイク有り）【関西の某音楽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20220925/BEi05uwH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1222071"
-  },
-  {
-    "id": 525025,
-    "IDcode": "FC2-PPV-1222073",
-    "title": "（モザイク有り）【関西の某音楽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20220925/X0oAwuNV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1222073"
-  },
-  {
     "id": 524964,
     "IDcode": "FC2-PPV-1222169",
     "title": "【ミニセーラー＆紫エロスト】彼",
@@ -559,23 +529,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1225148-A"
   },
   {
-    "id": 437162,
-    "IDcode": "FC2-PPV-1225148-A-",
-    "title": "☆初撮り☆完全顔出し☆マニア必見!スプリットタンを持つドM美少女にスパンキングでヒィヒィ言わせながら中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fefbe0b582b323292baaf5568082bd1e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1225148-A-"
-  },
-  {
     "id": 525042,
     "IDcode": "FC2-PPV-1225203",
     "title": "（モザイク有り）ゆきほ20歳",
@@ -910,8 +863,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "FC2",
+      "人妻",
       "无码"
     ],
     "type": "无码",
@@ -969,6 +922,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1227932"
   },
   {
+    "id": 58561,
+    "IDcode": "FC2-PPV-1227980",
+    "title": "不倫主婦の性告白ドキュメンタリー【ヨーロッパ特別編】美尻中心のビデオレター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1227980"
+  },
+  {
     "id": 524957,
     "IDcode": "FC2-PPV-1228051",
     "title": "（モザイク有り）【个人撮影】1",
@@ -1001,7 +969,7 @@ window.PAGE_DATA = [
   {
     "id": 572157,
     "IDcode": "FC2-PPV-1228282",
-    "title": "【颜出し】県立普通科①无垢な色白少女。最后の连続中出しセックス ",
+    "title": "【颜出し】県立普通科①无垢な色白少女。最后の连続中出しセックス",
     "year": "",
     "country": "",
     "genre": "",
@@ -1560,5 +1528,35 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b602c1068a40ef87ee38811c6a769012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1232685"
+  },
+  {
+    "id": 437411,
+    "IDcode": "FC2-PPV-1233100",
+    "title": "（モザイク有り）【数量限定】経験人数３桁の猛者！いろんな人とＨがしたい天然Ｇカップビッチ女子大生本人からＵＰしないで欲しいと言われてるので売り逃げします。【お早目のご購入とダウンロードをお薦めします】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ece4f187eabeabe14e4317c76410dc12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1233100"
+  },
+  {
+    "id": 437298,
+    "IDcode": "FC2-PPV-1233127",
+    "title": "【数量限定顔バレ販売】詳しい方ならわかると思いますが地下アイドルなので、ある程度で配信終了にんると思うのでお早めに",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f5439a125b8f70ec3ca5fbc9a7fbc3e6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1233127"
   }
 ];

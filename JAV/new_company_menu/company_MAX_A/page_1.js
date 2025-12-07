@@ -17,7 +17,7 @@ window.PAGE_DATA = [
   {
     "id": 590302,
     "IDcode": "XVSR-006",
-    "title": "[]絶对☆美少女 司美琴",
+    "title": "絶对☆美少女 司美琴",
     "year": "",
     "country": "",
     "genre": "",
@@ -144,10 +144,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
-      "性骚扰",
       "荡妇",
-      "女教师"
+      "眼镜",
+      "女教师",
+      "性骚扰"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -222,7 +222,7 @@ window.PAGE_DATA = [
   {
     "id": 591480,
     "IDcode": "XVSR-059",
-    "title": "[]制服偶像青梅足马～藏不住的媚力～白石南",
+    "title": "制服偶像青梅足马～藏不住的媚力～白石南",
     "year": "",
     "country": "",
     "genre": "",
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
   {
     "id": 590184,
     "IDcode": "XVSR-061",
-    "title": "[]官能系列 专用人偶送给您 桥本麻耶",
+    "title": "官能系列 专用人偶送给您 桥本麻耶",
     "year": "",
     "country": "",
     "genre": "",
@@ -505,11 +505,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "乳房",
+      "多P",
       "戏剧",
       "美少女",
-      "多P",
-      "新娘，年轻妻子",
-      "乳房"
+      "新娘，年轻妻子"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -751,13 +751,13 @@ window.PAGE_DATA = [
   {
     "id": 521803,
     "IDcode": "XVSR-198",
-    "title": "情色小说 大嫂的淫肌 仓多真央[]",
+    "title": "情色小说 大嫂的淫肌 仓多真央",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "中文字幕"
+      "中文字幕",
+      "乱伦"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -836,11 +836,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "乳交",
-      "女教师",
       "中出",
       "足交",
-      "巨乳"
+      "女教师"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -974,11 +974,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "凌辱",
-      "戏剧",
-      "美少女",
       "中文字幕",
+      "乳房",
+      "戏剧",
       "女佣",
-      "乳房"
+      "美少女"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -1125,12 +1125,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "恐怖",
       "人妻",
       "已婚妇女",
-      "戏剧",
       "OL",
-      "企画",
-      "恐怖"
+      "戏剧",
+      "企画"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -1354,9 +1354,9 @@ window.PAGE_DATA = [
     "genres": [
       "人妻",
       "已婚妇女",
+      "乳房",
       "戏剧",
-      "白天出轨",
-      "乳房"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -1434,11 +1434,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "数位马赛克",
-      "乱伦",
-      "中出",
       "水手服",
-      "主观视角",
-      "高中女生"
+      "中出",
+      "乱伦",
+      "高中女生",
+      "主观视角"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -1458,11 +1458,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "数位马赛克",
-      "美少女",
+      "潮吹",
       "中出",
-      "主观视角"
+      "主观视角",
+      "美少女"
     ],
     "type": "有码",
     "company": "MAX-A",
@@ -1528,8 +1528,8 @@ window.PAGE_DATA = [
     "genres": [
       "人妻",
       "已婚妇女",
-      "乳房",
       "中出",
+      "乳房",
       "投稿"
     ],
     "type": "有码",

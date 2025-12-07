@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
   <p><a href="https://telegra.ph/Pure-Media-Vol187---Uhye-08-25">[Pure Media] Vol.187 - Uhye</a></p>
   <p><a href="https://telegra.ph/Pure-Media-Vol124-Riha-08-25">[Pure Media] Vol.124 Riha</a></p>
   <p><a href="https://telegra.ph/PURE-MEDIA-Vol196-연화-08-25">[PURE MEDIA] Vol.196 연화</a></p>
@@ -47,5 +19,3 @@
   <p><a href="https://telegra.ph/韩国Pure-Media-Vol153-Mihou-미호-08-25">韩国Pure Media Vol.153 Mihou (미호)</a></p>
   <p><a href="https://telegra.ph/Pure-Media-Vol165-Uhye-이유혜-08-25">Pure Media Vol.165 Uhye (이유혜)</a></p>
   <p><a href="https://telegra.ph/Hansom-한솜---Pure-Media-Vol152-74P-962MB-08-25">Hansom (한솜) - [Pure Media] Vol.152 [74P-962MB]</a></p>
-</body>
-</html>

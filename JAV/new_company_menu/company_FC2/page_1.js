@@ -22,8 +22,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "FC2",
@@ -40,8 +40,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "FC2",
@@ -733,8 +733,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
     "company": "FC2",
@@ -890,7 +890,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "无码",
+    "type": "有码",
     "company": "FC2",
     "publish_date": "2025-06-06",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fc49ed07b732a005e9329687d1119fdd.jpg",
@@ -1520,14 +1520,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "人妻",
       "无套性交",
-      "私人摄影",
-      "素人",
       "原作",
+      "人妻",
       "内射",
-      "无码"
+      "无码",
+      "熟女",
+      "私人摄影",
+      "素人"
     ],
     "type": "无码",
     "company": "FC2",

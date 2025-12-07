@@ -1,39 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 119336,
-    "IDcode": "FC2-PPV-1211337",
-    "title": "【完全素人61】うさぎ18才",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fbf985e5875465f02191dc9850a6e177.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1211337"
-  },
-  {
-    "id": 558236,
-    "IDcode": "FC2-PPV-1211731",
-    "title": "（モザイク有り）寝取られマゾ巨乳ＪＤ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1211731"
-  },
-  {
     "id": 558478,
     "IDcode": "FC2-PPV-1211775",
     "title": "【疑似母乳】美巨乳",
@@ -714,7 +680,7 @@ window.PAGE_DATA = [
   {
     "id": 558384,
     "IDcode": "FC2-PPV-1216023",
-    "title": "B【あや】130分おまとめセット【】",
+    "title": "B【あや】130分おまとめセット",
     "year": "",
     "country": "",
     "genre": "",
@@ -1549,5 +1515,35 @@ window.PAGE_DATA = [
     "cover_url": "https://tuaskbgnekr.com/20220925/DLsrCjPb/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1222051-A"
+  },
+  {
+    "id": 525026,
+    "IDcode": "FC2-PPV-1222071",
+    "title": "（モザイク有り）【関西の某音楽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220925/BEi05uwH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1222071"
+  },
+  {
+    "id": 525025,
+    "IDcode": "FC2-PPV-1222073",
+    "title": "（モザイク有り）【関西の某音楽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220925/X0oAwuNV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1222073"
   }
 ];

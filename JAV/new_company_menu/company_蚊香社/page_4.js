@@ -7,8 +7,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -26,8 +26,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -45,8 +45,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -64,8 +64,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -83,8 +83,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -102,8 +102,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -121,8 +121,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -140,8 +140,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -159,8 +159,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -178,8 +178,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -197,8 +197,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -216,8 +216,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -235,8 +235,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -254,8 +254,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -268,15 +268,15 @@ window.PAGE_DATA = [
   {
     "id": 529156,
     "IDcode": "259LUXU-0381",
-    "title": "[] ラグジュTV 1364 日顷白衣に包み隠していたグラマラスボディを、铃木真夕",
+    "title": "ラグジュTV 1364 日顷白衣に包み隠していたグラマラスボディを、铃木真夕",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
-      "高端素人",
-      "无码"
+      "素人",
+      "无码",
+      "高端素人"
     ],
     "type": "无码",
     "company": "蚊香社",
@@ -293,8 +293,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -312,8 +312,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -331,8 +331,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -350,8 +350,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -369,8 +369,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -388,8 +388,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -407,8 +407,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -426,8 +426,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -445,8 +445,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -464,8 +464,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -483,8 +483,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -502,8 +502,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -521,8 +521,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -540,8 +540,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -559,8 +559,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -578,8 +578,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -597,8 +597,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -616,8 +616,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -635,8 +635,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -654,8 +654,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -673,8 +673,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -692,8 +692,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -706,15 +706,15 @@ window.PAGE_DATA = [
   {
     "id": 537354,
     "IDcode": "259LUXU-0404",
-    "title": "[] ラグジュTV 436 (坂本すみれ)",
+    "title": "ラグジュTV 436 (坂本すみれ)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
-      "高端素人",
-      "无码"
+      "素人",
+      "无码",
+      "高端素人"
     ],
     "type": "无码",
     "company": "蚊香社",
@@ -731,8 +731,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -750,8 +750,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -769,8 +769,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -788,8 +788,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -807,8 +807,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -826,8 +826,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -845,8 +845,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -864,8 +864,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -883,8 +883,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -902,8 +902,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -921,8 +921,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -940,8 +940,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -959,8 +959,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -978,8 +978,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -997,8 +997,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1016,8 +1016,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1035,8 +1035,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1054,8 +1054,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1073,8 +1073,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1092,8 +1092,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1111,8 +1111,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1130,8 +1130,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1149,8 +1149,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1168,8 +1168,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1187,8 +1187,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1206,8 +1206,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1225,8 +1225,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1244,8 +1244,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1263,8 +1263,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1282,8 +1282,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1301,8 +1301,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1320,8 +1320,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1339,8 +1339,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1358,8 +1358,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1377,8 +1377,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1396,8 +1396,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1415,8 +1415,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1434,8 +1434,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1453,8 +1453,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1472,8 +1472,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1491,8 +1491,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1510,8 +1510,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1529,8 +1529,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1548,8 +1548,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1567,8 +1567,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1586,8 +1586,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1605,8 +1605,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1624,8 +1624,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1643,8 +1643,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1662,8 +1662,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1681,8 +1681,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1700,8 +1700,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1719,8 +1719,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1738,8 +1738,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1757,8 +1757,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1777,14 +1777,14 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人企画",
-      "素人",
-      "高跟鞋",
-      "美乳",
-      "無碼流出",
       "高端素人",
       "苗條",
-      "業餘"
+      "高跟鞋",
+      "無碼流出",
+      "業餘",
+      "素人企画",
+      "素人",
+      "美乳"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1803,8 +1803,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1822,8 +1822,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1841,8 +1841,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1860,8 +1860,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1879,8 +1879,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1898,8 +1898,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",

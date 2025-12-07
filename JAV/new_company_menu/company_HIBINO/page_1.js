@@ -240,11 +240,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
       "数位马赛克",
-      "女检察官",
+      "凌辱",
       "拘束",
-      "各种职业"
+      "各种职业",
+      "女检察官"
     ],
     "type": "有码",
     "company": "HIBINO",
@@ -932,10 +932,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "数位马赛克",
-      "其他恋物癖",
       "乱伦",
-      "新娘，年轻妻子",
-      "企画"
+      "其他恋物癖",
+      "企画",
+      "新娘，年轻妻子"
     ],
     "type": "有码",
     "company": "HIBINO",
@@ -1031,8 +1031,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "学校泳装",
       "药物",
+      "学校泳装",
       "女教师"
     ],
     "type": "有码",
@@ -1536,10 +1536,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "调教",
       "强奸",
-      "企画"
+      "调教",
+      "企画",
+      "羞耻"
     ],
     "type": "有码",
     "company": "HIBINO",

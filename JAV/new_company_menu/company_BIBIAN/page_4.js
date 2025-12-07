@@ -99,11 +99,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "戏剧",
       "女同接吻",
       "乳房",
-      "女同性恋"
+      "淫乱，真实",
+      "女同性恋",
+      "戏剧"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -154,8 +154,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -488,13 +488,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服・浴衣・喪服",
-      "無做愛場面",
-      "淫語",
-      "女同性戀",
       "女性向",
+      "和服・浴衣・喪服",
+      "女同",
       "美乳",
-      "女同"
+      "無做愛場面",
+      "女同性戀",
+      "淫語"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -514,15 +514,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "感官作品",
-      "深喉",
-      "無做愛場面",
-      "緊縛",
-      "拘束・拷問",
-      "女同性戀",
+      "人妻",
+      "女同",
       "按摩棒",
-      "女同"
+      "拘束・拷問",
+      "緊縛",
+      "深喉",
+      "女同性戀",
+      "無做愛場面"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -543,8 +543,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "69",
-      "屁股",
-      "女同性恋"
+      "女同性恋",
+      "屁股"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1351,11 +1351,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "女同接吻",
       "巨乳",
+      "淫乱，真实",
+      "接吻",
       "女同性恋",
-      "接吻"
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1374,11 +1374,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "舔阴",
       "乳房",
       "美少女电影",
-      "女同性恋"
+      "舔阴",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1397,11 +1397,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "女同接吻",
       "乳房",
       "美少女电影",
-      "女同性恋"
+      "苗条",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1418,12 +1418,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "女同接吻",
-      "美少女电影",
-      "女同性恋",
       "乱交",
-      "滥交"
+      "美少女电影",
+      "女大学生",
+      "女同性恋",
+      "滥交",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1440,11 +1440,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
       "乳房",
       "美少女电影",
+      "接吻",
       "女同性恋",
-      "接吻"
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1479,8 +1479,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
       "药物",
+      "女同接吻",
       "巨乳",
       "女同性恋"
     ],
@@ -1501,11 +1501,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
       "乳房",
       "美少女电影",
+      "接吻",
       "女同性恋",
-      "接吻"
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1526,8 +1526,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "按摩",
-      "女同接吻",
       "美容院",
+      "女同接吻",
       "女同性恋"
     ],
     "type": "有码",
@@ -1548,8 +1548,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
       "美少女电影",
+      "女同接吻",
       "巨乳",
       "女同性恋"
     ],
@@ -1601,9 +1601,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1620,11 +1620,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "浴衣",
       "淫乱，真实",
-      "多P",
-      "女同接吻",
       "女同性恋",
-      "浴衣"
+      "多P",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1661,11 +1661,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "玩具",
-      "女同接吻",
-      "女同性恋",
+      "角色扮演者",
       "巨乳",
-      "角色扮演者"
+      "玩具",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",

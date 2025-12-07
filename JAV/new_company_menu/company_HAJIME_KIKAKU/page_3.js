@@ -22,11 +22,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "屁股",
+      "紧身衣",
       "羞耻",
-      "放尿",
-      "紧身衣"
+      "屁股",
+      "淫乱，真实",
+      "放尿"
     ],
     "type": "有码",
     "company": "HAJIME-KIKAKU",
@@ -44,8 +44,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "巨大阴茎",
-      "深喉",
       "口交",
+      "深喉",
       "立即口交"
     ],
     "type": "有码",
@@ -84,9 +84,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "潮吹",
-      "乳液",
-      "放尿",
       "药物",
+      "放尿",
+      "乳液",
       "美容院"
     ],
     "type": "有码",
@@ -105,9 +105,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
     "company": "HAJIME-KIKAKU",
@@ -125,9 +125,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "NTR",
-      "淫妻",
-      "巨乳"
+      "淫妻"
     ],
     "type": "有码",
     "company": "HAJIME-KIKAKU",

@@ -1,35 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 437411,
-    "IDcode": "FC2-PPV-1233100",
-    "title": "（モザイク有り）【数量限定】経験人数３桁の猛者！いろんな人とＨがしたい天然Ｇカップビッチ女子大生本人からＵＰしないで欲しいと言われてるので売り逃げします。【お早目のご購入とダウンロードをお薦めします】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ece4f187eabeabe14e4317c76410dc12.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1233100"
-  },
-  {
-    "id": 437298,
-    "IDcode": "FC2-PPV-1233127",
-    "title": "【数量限定顔バレ販売】詳しい方ならわかると思いますが地下アイドルなので、ある程度で配信終了にんると思うのでお早めに",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f5439a125b8f70ec3ca5fbc9a7fbc3e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1233127"
-  },
-  {
     "id": 437384,
     "IDcode": "FC2-PPV-1233280",
     "title": "【現役ナースx着衣】合コンで東●医大病院勤務スレンダーナースをゲット！口説いてハメ撮り成功！ ナースはやっぱりエロかったw　おま○こから溢れる白い本気汁　購入特典は高画質ZIPとGoPro別アングル",
@@ -69,8 +39,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
     "company": "FC2",
@@ -87,8 +57,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱交",
-      "嫩妹"
+      "嫩妹",
+      "乱交"
     ],
     "type": "有码",
     "company": "FC2",
@@ -152,8 +122,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "FC2",
@@ -283,8 +253,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "FC2",
+      "素人",
       "无码"
     ],
     "type": "无码",
@@ -347,15 +317,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "私人摄影",
-      "美少女",
-      "年轻",
-      "素人",
       "原作",
-      "美乳",
       "口交",
       "高清",
-      "可爱"
+      "年轻",
+      "可爱",
+      "私人摄影",
+      "美少女",
+      "素人",
+      "美乳"
     ],
     "type": "有码",
     "company": "FC2",
@@ -694,9 +664,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "FC2",
       "人妻",
       "素人",
-      "FC2",
       "无码"
     ],
     "type": "无码",
@@ -714,12 +684,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱交",
-      "巨乳"
+      "巨乳",
+      "乱交"
     ],
     "type": "有码",
     "company": "FC2",
-    "publish_date": "",
+    "publish_date": "2024-07-17",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b66a153119e4af4aadd62df559e73e1f.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1245198"
@@ -980,8 +950,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "FC2",
+      "素人",
       "无码"
     ],
     "type": "无码",
@@ -999,9 +969,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "FC2",
       "人妻",
       "素人",
-      "FC2",
       "无码"
     ],
     "type": "无码",
@@ -1143,16 +1113,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白虎",
-      "私人摄影",
-      "美少女",
-      "年轻",
-      "素人",
       "原作",
-      "美乳",
+      "白虎",
       "口交",
       "高清",
-      "可爱"
+      "年轻",
+      "可爱",
+      "私人摄影",
+      "美少女",
+      "素人",
+      "美乳"
     ],
     "type": "有码",
     "company": "FC2",
@@ -1360,13 +1330,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "无套性交",
-      "私人摄影",
-      "美少女",
-      "素人",
-      "嫩妹",
       "巨乳",
       "内射",
-      "无码"
+      "嫩妹",
+      "无码",
+      "私人摄影",
+      "美少女",
+      "素人"
     ],
     "type": "无码",
     "company": "FC2",
@@ -1415,10 +1385,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "FC2",
-      "乱伦",
-      "无码"
+      "素人",
+      "无码",
+      "乱伦"
     ],
     "type": "无码",
     "company": "FC2",
@@ -1480,9 +1450,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "FC2",
       "人妻",
       "素人",
-      "FC2",
       "无码"
     ],
     "type": "无码",
@@ -1609,7 +1579,7 @@ window.PAGE_DATA = [
   {
     "id": 558005,
     "IDcode": "FC2-PPV-1258185",
-    "title": "B【】☆初撮り☆完全颜出し☆アンニュイ系ツ",
+    "title": "B☆初撮り☆完全颜出し☆アンニュイ系ツ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1639,5 +1609,35 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1258377"
+  },
+  {
+    "id": 558462,
+    "IDcode": "FC2-PPV-1258487",
+    "title": "5（モザイク有り）【数量限定】ぽっちゃり肉感妻のハメ撮りSEX个人撮影【コンプリートベスト4时间】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1258487"
+  },
+  {
+    "id": 558144,
+    "IDcode": "FC2-PPV-1258491",
+    "title": "川-春奈似のJ-セフレと生中出しエッチ-制服编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/05-22/06/01euiiddvzx060201euiiddvzx565723.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1258491"
   }
 ];

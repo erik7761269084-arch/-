@@ -1,64 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 593489,
-    "IDcode": "JUFE-258",
-    "title": "无防备的巨臀人妻姐姐被超绝赞弟弟干不停的NTR性交 根尾明里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "乱伦",
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-258"
-  },
-  {
-    "id": 107328,
-    "IDcode": "JUFE-260",
-    "title": "居高临下的美腿痴女-木下日葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "荡妇",
-      "主观视角",
-      "淫语",
-      "高"
-    ],
-    "type": "有码",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/f8c2334d6e6c0d4fbcbdb8ef1873be5b.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-260"
-  },
-  {
-    "id": 464789,
-    "IDcode": "JUFE-261",
-    "title": "新婚の僕が出張先で女上司とまさかの相部屋 朝から晩まで性奴●にされた逆NTR 夏希栗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/29/67e7d0694e7d663df448f604/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-261"
-  },
-  {
     "id": 579542,
     "IDcode": "JUFE-262",
     "title": "先生と过ごした特别な夏休み… 中年精液で污される敏感美乳ボディ制服美少女 久留木玲",
@@ -81,11 +22,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
+      "巨乳",
       "巨大屁股",
       "中出",
-      "巨乳"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -121,13 +62,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "女大学生",
-      "淫妻",
-      "白天出轨",
-      "中出",
       "巨乳",
-      "恋乳癖"
+      "恋乳癖",
+      "淫妻",
+      "中出",
+      "女大学生",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -274,10 +215,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "高中女生",
       "学校泳装",
       "兔女郎",
-      "巨乳",
-      "高中女生"
+      "巨乳"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -296,10 +237,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "流汗",
       "巨大屁股",
       "中出",
-      "巨乳",
       "第一人称摄影"
     ],
     "type": "有码",
@@ -383,10 +324,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
+      "淫乱，真实",
       "淫语"
     ],
     "type": "有码",
@@ -408,9 +349,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "高中女生",
-      "中出",
+      "紧身衣",
       "巨乳",
-      "紧身衣"
+      "中出"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -429,9 +370,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "巨大屁股",
       "中出",
-      "巨乳",
       "女生",
       "美容院"
     ],
@@ -501,10 +442,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "首次亮相",
       "中出",
+      "高",
       "巨乳",
-      "高"
+      "首次亮相"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -674,9 +615,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "吞精",
-      "乳交",
-      "纪录片",
       "巨乳",
+      "纪录片",
+      "乳交",
       "滥交"
     ],
     "type": "有码",
@@ -711,11 +652,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "中出",
       "口交",
-      "淫语",
-      "接吻"
+      "中出",
+      "OL",
+      "接吻",
+      "淫语"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -734,15 +675,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "荡妇",
       "人妻",
       "单体作品",
-      "荡妇",
       "已婚妇女",
-      "内衣",
+      "巨乳",
       "无码破解",
       "中出",
-      "巨乳",
-      "接吻"
+      "接吻",
+      "内衣"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -761,10 +702,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "手淫",
-      "首次亮相",
       "荡妇",
-      "口交"
+      "口交",
+      "手淫",
+      "首次亮相"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -783,9 +724,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "中出",
-      "巨乳"
+      "巨乳",
+      "多P"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -803,8 +744,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
       "女上位",
       "滥交"
     ],
@@ -826,11 +767,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
+      "巨乳",
       "巨大屁股",
       "中出",
-      "巨乳"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -847,11 +788,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "OL",
-      "中出",
       "巨乳",
-      "第一人称摄影"
+      "流汗",
+      "中出",
+      "第一人称摄影",
+      "OL"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -883,11 +824,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "老板娘，女主人",
-      "中出",
       "巨乳",
-      "手淫"
+      "中出",
+      "手淫",
+      "老板娘，女主人",
+      "按摩"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -957,11 +898,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "羞耻",
       "中出",
-      "巨乳",
-      "滥交",
-      "连裤袜"
+      "连裤袜",
+      "滥交"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -980,10 +921,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "中出",
+      "妹妹",
       "恋物癖",
-      "妹妹"
+      "多P"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1002,10 +943,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "M男",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
+      "M男",
       "美容院"
     ],
     "type": "有码",
@@ -1023,10 +964,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
       "流汗",
-      "美少女电影",
       "中出",
+      "第一人称摄影",
+      "美少女电影",
       "接吻"
     ],
     "type": "有码",
@@ -1044,11 +985,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "多P",
-      "巨乳",
       "女主播",
-      "接吻"
+      "巨乳",
+      "潮吹",
+      "接吻",
+      "多P"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1068,11 +1009,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1091,11 +1032,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "流汗",
+      "巨乳",
       "已婚妇女",
+      "流汗",
       "中出",
-      "巨乳"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1114,11 +1055,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "角色扮演者",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "角色扮演者"
+      "多P"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1137,10 +1078,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "屁股",
       "荡妇",
+      "人妻",
       "已婚妇女",
+      "屁股",
       "中出",
       "接吻"
     ],
@@ -1159,12 +1100,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "荡妇",
+      "巨乳",
       "淫妻",
-      "白天出轨",
       "中出",
-      "巨乳"
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1216,10 +1157,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
+      "女主播",
       "巨乳",
-      "淫语",
-      "女主播"
+      "中出",
+      "淫语"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1236,12 +1177,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "无毛",
-      "中出",
-      "妹妹",
       "水手服",
-      "高中女生"
+      "中出",
+      "乱伦",
+      "高中女生",
+      "无毛",
+      "妹妹"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1260,11 +1201,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "第一人称摄影"
+      "第一人称摄影",
+      "OL"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1283,9 +1224,9 @@ window.PAGE_DATA = [
     "genres": [
       "凌辱",
       "已婚妇女",
+      "巨乳",
       "乳交",
-      "中出",
-      "巨乳"
+      "中出"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1305,9 +1246,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "巨乳",
       "已婚妇女",
       "中出",
-      "巨乳",
       "接吻"
     ],
     "type": "有码",
@@ -1343,11 +1284,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "第一人称摄影"
+      "第一人称摄影",
+      "多P"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1385,8 +1326,8 @@ window.PAGE_DATA = [
     "genres": [
       "中出",
       "巨大阴茎",
-      "白天出轨",
-      "巨乳"
+      "巨乳",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1404,8 +1345,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
       "女上位",
       "滥交"
     ],
@@ -1426,11 +1367,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "流汗",
+      "巨乳",
       "已婚妇女",
+      "流汗",
       "中出",
-      "巨乳"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1450,11 +1391,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
+      "巨乳",
       "乳交",
-      "老板娘，女主人",
       "中出",
-      "巨乳"
+      "巨大屁股",
+      "老板娘，女主人"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1473,12 +1414,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
-      "胖女人",
+      "巨乳",
+      "单体作品",
       "乳交",
       "中出",
-      "巨乳",
-      "单体作品"
+      "胖女人",
+      "OL"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1497,10 +1438,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "中出",
+      "妹妹",
       "恋物癖",
-      "妹妹"
+      "多P"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1520,12 +1461,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "多P",
-      "乳液",
-      "美少女电影",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "美少女电影",
+      "乳液",
+      "多P",
+      "巨大阴茎"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1544,10 +1485,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "巨乳",
+      "中出",
+      "淫乱，真实",
       "妹妹"
     ],
     "type": "有码",
@@ -1568,11 +1509,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "单体作品",
       "羞耻",
       "中出",
-      "巨乳",
-      "淫语",
-      "单体作品"
+      "淫语"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1591,13 +1532,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "人妻",
       "荡妇",
-      "已婚妇女",
-      "中出",
+      "人妻",
       "巨乳",
-      "单体作品"
+      "已婚妇女",
+      "单体作品",
+      "潮吹",
+      "中出"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1631,12 +1572,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "女大学生",
-      "乳交",
-      "首次亮相",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "首次亮相",
+      "乳交",
+      "潮吹",
+      "女大学生"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1653,13 +1594,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "巨乳",
+      "单体作品",
       "乱伦",
       "无码破解",
-      "姐姐",
       "中出",
-      "巨乳",
-      "单体作品"
+      "潮吹",
+      "姐姐"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1678,10 +1619,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "屁股",
       "荡妇",
+      "单体作品",
       "已婚妇女",
+      "屁股",
       "中出",
       "接吻"
     ],
@@ -1702,12 +1643,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "老板娘，女主人",
-      "中出",
       "巨乳",
-      "女上位",
-      "单体作品"
+      "单体作品",
+      "乳交",
+      "中出",
+      "老板娘，女主人",
+      "女上位"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1726,11 +1667,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "第一人称摄影",
-      "乳交",
-      "美少女电影",
       "巨乳",
       "单体作品",
+      "乳交",
+      "第一人称摄影",
+      "美少女电影",
       "高中女生"
     ],
     "type": "有码",
@@ -1750,13 +1691,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "流汗",
+      "巨乳",
       "已婚妇女",
+      "流汗",
+      "单体作品",
       "无码破解",
       "中出",
-      "巨乳",
-      "单体作品"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1790,12 +1731,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
       "荡妇",
-      "多P",
-      "乳液",
-      "两女一男",
       "巨乳",
+      "屁股",
+      "两女一男",
+      "乳液",
+      "多P",
       "美容院"
     ],
     "type": "有码",
@@ -1817,10 +1758,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "单体作品",
-      "多P",
-      "中出",
       "巨乳",
-      "高"
+      "中出",
+      "高",
+      "多P"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1854,10 +1795,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
+      "巨乳",
       "药物",
       "两女一男",
-      "巨乳",
+      "女大学生",
       "母亲"
     ],
     "type": "有码",
@@ -1878,11 +1819,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
-      "巨大屁股",
       "巨乳",
+      "单体作品",
+      "巨大屁股",
       "女上位",
-      "单体作品"
+      "M男"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1899,12 +1840,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "胖女人",
+      "巨乳",
+      "单体作品",
+      "首次亮相",
       "巨大屁股",
       "偶像",
-      "首次亮相",
-      "巨乳",
-      "单体作品"
+      "胖女人"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1923,12 +1864,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳液",
-      "礼仪小姐",
-      "中出",
       "巨乳",
-      "兔女郎",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "礼仪小姐",
+      "乳液",
+      "兔女郎"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1945,12 +1886,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "新娘，年轻妻子",
-      "白天出轨",
+      "巨乳",
+      "单体作品",
       "无码破解",
       "中出",
-      "巨乳",
-      "单体作品"
+      "新娘，年轻妻子",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1969,12 +1910,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "乳液",
-      "中出",
       "肌肉",
-      "单体作品"
+      "单体作品",
+      "潮吹",
+      "中出",
+      "淫乱，真实",
+      "乳液"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -1993,12 +1934,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
-      "第一人称摄影",
-      "流汗",
-      "中出",
       "巨乳",
-      "单体作品"
+      "流汗",
+      "单体作品",
+      "中出",
+      "第一人称摄影",
+      "女大学生"
     ],
     "type": "有码",
     "company": "FITCH",
@@ -2006,5 +1947,64 @@ window.PAGE_DATA = [
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8f9ab777f1d5e646945db14d19ec62b2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-392"
+  },
+  {
+    "id": 85003,
+    "IDcode": "JUFE-393",
+    "title": "人生初の中出し解禁！ 常に若女将が密着つきっきりで丁寧に貴方の肉棒をもてなす最高の射精旅館 伊織羽音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "老板娘，女主人",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2022-06-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/aac4189e116233c39cde78406be723a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-393"
+  },
+  {
+    "id": 85021,
+    "IDcode": "JUFE-394",
+    "title": "爆乳の女上司-北野未奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "单体作品",
+      "中出",
+      "M男",
+      "肛交"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-9/71bfb70b6e53c6f9ebaf7acd98275c28.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-394"
+  },
+  {
+    "id": 556457,
+    "IDcode": "JUFE-395",
+    "title": "终极口交！ ！！治疗男性生殖器的真空吸引诊所 - 蜜美杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7224a8e530f57218f61554fa3ac641e8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-395"
   }
 ];

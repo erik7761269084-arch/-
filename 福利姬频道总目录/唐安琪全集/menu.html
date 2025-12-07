@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
   <p><a href="https://telegra.ph/XIUREN-No5404-Tang-An-Qi-唐安琪-08-29">XIUREN No.5404 Tang An Qi (唐安琪)</a></p>
   <p><a href="https://telegra.ph/XIUREN-No5608-Tang-An-Qi-唐安琪-08-29">XIUREN No.5608 Tang An Qi (唐安琪)</a></p>
   <p><a href="https://telegra.ph/XIUREN秀人网-20220815-NO5439-唐安琪-08-29"> 2022.08.15 NO.5439 唐安琪</a></p>
@@ -189,5 +161,3 @@
   <p><a href="https://telegra.ph/20240520-No8571-唐安琪-08-30">2024.05.20 No.8571 唐安琪</a></p>
   <p><a href="https://telegra.ph/20240527-No8607-唐安琪-08-30">2024.05.27 No.8607 唐安琪</a></p>
   <p><a href="https://telegra.ph/20240603-No8644-唐安琪-08-30">2024.06.03 No.8644 唐安琪</a></p>
-</body>
-</html>

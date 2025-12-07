@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
   <p><a href="https://telegra.ph/NO018-万圣节-08-26">Fushii_海堂 NO.018 万圣节</a></p>
   <p><a href="https://telegra.ph/NO017-樱花兔兔-08-26">Fushii_海堂 NO.017 樱花兔兔</a></p>
   <p><a href="https://telegra.ph/NO016-极探侦道-08-26">Fushii_海堂 NO.016 极探侦道</a></p>
@@ -50,6 +22,3 @@
   <p><a href="https://telegra.ph/喵糖映画-VOL317-Fushii-海堂-海棠女仆-08-26"> VOL.317 Fushii_海堂  海棠女仆</a></p>
   <p><a href="https://telegra.ph/可爱妹子Fushii-海堂-女仆-08-26">可爱妹子Fushii_海堂 女仆</a></p>
   <p><a href="https://telegra.ph/可爱妹子Fushii-海堂---洛丽塔爱丽丝写真-08-26">可爱妹子Fushii_海堂 - 洛丽塔爱丽丝写真</a></p>
-
-</body>
-</html>

@@ -1,131 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 531389,
-    "IDcode": "071MXGS-0007",
-    "title": "【AIリマスター版】あんと海とオッパイと。高桥あん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "GOGOS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/bs4LaTeH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=071MXGS-0007"
-  },
-  {
-    "id": 347806,
-    "IDcode": "071MXGS-0009",
-    "title": "【AIリマスター版】Colorful Acky！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "GOGOS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/3lYwgtXR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=071MXGS-0009"
-  },
-  {
-    "id": 531390,
-    "IDcode": "071MXGS-0010",
-    "title": "【AIリマスター版】グラビアアイドル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "GOGOS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/PyFpVGgL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=071MXGS-0010"
-  },
-  {
-    "id": 347804,
-    "IDcode": "071MXGS-0054",
-    "title": "【AIリマスター版】风俗ちゃんねる 06",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "GOGOS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/esy33m3C/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=071MXGS-0054"
-  },
-  {
-    "id": 347805,
-    "IDcode": "071MXGS-0091",
-    "title": "【AIリマスター版】Vertigo めまいするような极エロBODY",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "GOGOS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/Z3zcenBs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=071MXGS-0091"
-  },
-  {
-    "id": 347807,
-    "IDcode": "071MXGS-0118",
-    "title": "【AIリマスター版】SUMMER GIRL ビキニが似合うぜお嬢さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "GOGOS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/tsgYpVH0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=071MXGS-0118"
-  },
-  {
-    "id": 347809,
-    "IDcode": "071MXGS-0130",
-    "title": "【AIリマスター版】萩原舞 解禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "GOGOS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/mWKSwVDv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=071MXGS-0130"
-  },
-  {
     "id": 62241,
     "IDcode": "EDGS-0014",
     "title": "女子アナ快楽リポート～放送禁止のエロエロハプニング松島智子",
@@ -163,8 +37,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "偶像",
       "介绍影片",
+      "偶像",
       "单体作品"
     ],
     "type": "有码",
@@ -289,12 +163,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "自慰",
       "恋物癖",
-      "新娘，年轻妻子",
-      "按摩棒",
       "素人作品",
-      "企画"
+      "自慰",
+      "新娘，年轻妻子",
+      "企画",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -492,8 +366,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "巨乳"
+      "巨乳",
+      "中文字幕"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -510,9 +384,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "企画",
+      "已婚妇女",
       "手淫",
-      "已婚妇女"
+      "企画"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -549,9 +423,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "运动短裤",
       "自慰",
       "女教师",
+      "运动短裤",
       "制服",
       "企画"
     ],
@@ -605,11 +479,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
       "乳房",
+      "连裤袜",
+      "OL",
       "制服",
-      "企画",
-      "连裤袜"
+      "企画"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -628,10 +502,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩棒",
-      "运动短裤",
+      "女教师",
       "企画",
-      "女教师"
+      "按摩棒",
+      "运动短裤"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -990,10 +864,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "乱伦",
       "妹妹",
-      "企画"
+      "企画",
+      "流汗",
+      "乱伦"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -1123,8 +997,8 @@ window.PAGE_DATA = [
     "genres": [
       "精选，综合",
       "4小时以上作品",
-      "乱伦",
-      "素人作品"
+      "素人作品",
+      "乱伦"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -1597,22 +1471,22 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "NTR",
       "和服・浴衣・喪服",
-      "不倫",
-      "色白",
+      "人妻",
       "溫泉",
-      "偷竊",
-      "出軌",
       "旅行",
-      "中出",
-      "蕩婦",
-      "素人作品",
+      "出軌",
       "口交",
-      "性感",
+      "偷竊",
+      "中出",
+      "色白",
+      "絕頂高潮",
+      "素人作品",
+      "蕩婦",
       "劇情",
-      "絕頂高潮"
+      "性感",
+      "NTR",
+      "不倫"
     ],
     "type": "有码",
     "company": "GOGOS",
@@ -1667,5 +1541,201 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/0bcdd4bbf6fcadbb370b5715ee52ae46.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2107"
+  },
+  {
+    "id": 454209,
+    "IDcode": "GS-2108",
+    "title": "禁忌 人妻性癖开眼 05 续・人妻自拍NTR 被睡走报告影片26",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/192357097b0077c4152dc708b1712ff4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2108"
+  },
+  {
+    "id": 10827,
+    "IDcode": "GS-2109",
+    "title": "人妻溫泉愛情之旅166 完整版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精選綜合",
+      "出軌",
+      "美腳",
+      "蕩婦",
+      "溫泉",
+      "旅行",
+      "人妻",
+      "淫亂",
+      "中出",
+      "劇情",
+      "和服・浴衣・喪服",
+      "素人作品",
+      "美人妻",
+      "騎乗位",
+      "形象俱樂部",
+      "美乳",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "4小時以上作品",
+      "後入",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2024-08-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20241106/ccdef57d-a234-45ec-8103-3c788bdb7942.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2109"
+  },
+  {
+    "id": 448587,
+    "IDcode": "GS-2110",
+    "title": "让我们和他人妻一起出外头旅行吧―。VOL.03 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251002-1/2c11d4b6fef043a3f74cff64f327c4fa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2110"
+  },
+  {
+    "id": 401794,
+    "IDcode": "GS-2111",
+    "title": "已婚女人温泉爱情之旅168 金子涙沙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/5c33a153aeae44b950dcbce0914222ab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2111"
+  },
+  {
+    "id": 525786,
+    "IDcode": "GS-2112",
+    "title": "人妻汤恋旅行 TheBest 2023.May-2024.Mar",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250201/hM4iRf99/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2112"
+  },
+  {
+    "id": 8935,
+    "IDcode": "GS-2113",
+    "title": "人妻湯戀之旅 Vol.169",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "溫泉",
+      "旅行",
+      "人妻",
+      "中出",
+      "貧乳",
+      "劇情",
+      "家庭主妇",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "色白",
+      "企畫",
+      "苗條",
+      "美人妻",
+      "手指插入",
+      "羞恥",
+      "美人",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "潮吹",
+      "女上位",
+      "熟女",
+      "後入"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2024-10-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20250121/20250121120711609609.jpg",
+    "actress": [
+      "三条みほの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2113"
+  },
+  {
+    "id": 8934,
+    "IDcode": "GS-2114",
+    "title": "禁忌 人妻性癖開眼 05 續 人妻自撮NTR寢取報告26 完全版 ~ 胡桃多惠 雨依燕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "自拍性愛",
+      "蕩婦",
+      "亂交 • 群P",
+      "兩女一男",
+      "奇異的",
+      "人妻",
+      "淫妻",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "KTV夜總會",
+      "家庭主妇",
+      "女同性戀",
+      "絕頂高潮",
+      "地味",
+      "企畫",
+      "飯店",
+      "素人作品",
+      "美人妻",
+      "騎乗位",
+      "羞恥",
+      "雙飛",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "後入",
+      "NTR",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc07c31eb0592de65c230/cover.jpg",
+    "actress": [
+      "胡桃多惠",
+      "雨依燕"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2114"
   }
 ];

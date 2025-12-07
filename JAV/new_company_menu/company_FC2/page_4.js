@@ -1,22 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 569017,
-    "IDcode": "FC2-PPV-118049-01",
-    "title": "【个人的撮影】车内プチで募集して本番までやらせくれた女神②第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-118049-01"
-  },
-  {
     "id": 557977,
     "IDcode": "FC2-PPV-1180558",
     "title": "（モザイク有り）【个人】【四十路の曲线美】",
@@ -464,7 +447,7 @@ window.PAGE_DATA = [
   {
     "id": 558432,
     "IDcode": "FC2-PPV-1182750",
-    "title": "B （モザイク有り）【かえで】128分おまとめセット【】",
+    "title": "B （モザイク有り）【かえで】128分おまとめセット",
     "year": "",
     "country": "",
     "genre": "",
@@ -1062,21 +1045,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1187046"
   },
   {
-    "id": 567356,
-    "IDcode": "FC2-PPV-1187046-",
-    "title": "36歳マッサージ师Hしたくてたまらない美熟熟とハメ撮り【あり】第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1187046-"
-  },
-  {
     "id": 558549,
     "IDcode": "FC2-PPV-1187059",
     "title": "【个人】家计を助けるための経営に失败",
@@ -1169,7 +1137,7 @@ window.PAGE_DATA = [
   {
     "id": 558239,
     "IDcode": "FC2-PPV-1187743",
-    "title": "【】肉オナホが超ミニスカ姿で杭打ち骑乘位【おまけ】",
+    "title": "肉オナホが超ミニスカ姿で杭打ち骑乘位【おまけ】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1308,7 +1276,7 @@ window.PAGE_DATA = [
   {
     "id": 576488,
     "IDcode": "FC2-PPV-1188396",
-    "title": "【】人妻オナホに制服着せて中出し【おまけ付き】",
+    "title": "人妻オナホに制服着せて中出し【おまけ付き】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1514,16 +1482,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
       "无套性交",
-      "私人摄影",
-      "素人",
       "原作",
       "巨乳",
-      "高清",
       "内射",
       "高清画质",
-      "无码"
+      "高清",
+      "角色扮演",
+      "无码",
+      "私人摄影",
+      "素人"
     ],
     "type": "无码",
     "company": "FC2",
@@ -1546,5 +1514,35 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1190625-1"
+  },
+  {
+    "id": 482621,
+    "IDcode": "FC2-PPV-1190628",
+    "title": "Massage",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/68ef70814e2a9ceff97986c579746daf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1190628"
+  },
+  {
+    "id": 558512,
+    "IDcode": "FC2-PPV-1190632",
+    "title": "B 【颜出し】めちゃくちゃ可爱いの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200821/fc2ppv_1190632-B.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1190632"
   }
 ];

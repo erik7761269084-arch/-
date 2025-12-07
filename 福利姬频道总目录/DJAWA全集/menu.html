@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
   <p><a href="https://telegra.ph/DJAWA-Aram---Azur-Lane-IJN-Noshiro-写真套图-08-26">[DJAWA]  Aram - Azur Lane IJN Noshiro 写真套图</a></p>
   <p><a href="https://telegra.ph/DJAWA-Aram---Hot-Pink-Jersey-08-26">[DJAWA]  Aram - Hot Pink Jersey!</a></p>
   <p><a href="https://telegra.ph/DJAWA-Aya---Tamed-Wolfgirl-写真套图-08-26">[DJAWA]  Aya - Tamed Wolfgirl 写真套图</a></p>
@@ -225,6 +197,3 @@
   <p><a href="https://telegra.ph/Zia-지아---NO022-DJAWA-The-Kunoichi-78P-125GB-08-26">Zia (지아) - NO.022 [DJAWA] The Kunoichi [78P-1.25GB]</a></p>
   <p><a href="https://telegra.ph/DJAWAPia-피아--GothOriental111P114GB-08-25">「DJAWA」Pia (피아) – Goth&Oriental(111P1.14GB)</a></p>
   <p><a href="https://telegra.ph/韩国DJAWA-Photo---Sonson-손손---Knotting-Class-4-08-26">韩国DJAWA Photo - Sonson (손손) - Knotting Class #4</a></p>
-
-</body>
-</html>

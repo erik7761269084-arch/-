@@ -7,8 +7,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "巨乳"
+      "巨乳",
+      "高清画质"
     ],
     "type": "有码",
     "company": "FalenoTube",

@@ -1,35 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 509387,
-    "IDcode": "FC2-PPV-1675418",
-    "title": "两男一女兴奋激情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3e18d1c5e6e3c1b379c1ba9b5108846a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1675418"
-  },
-  {
-    "id": 574081,
-    "IDcode": "FC2-PPV-1691787",
-    "title": "【有码】 高级ラウンジ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250308/W5twTQML/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1691787"
-  },
-  {
     "id": 544365,
     "IDcode": "FC2-PPV-1698470",
     "title": "",
@@ -99,8 +69,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "FC2",
@@ -420,7 +390,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "无码",
+    "type": "有码",
     "company": "FC2",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/64ea642ad2885db376e7744aac7453af.jpg",
@@ -452,10 +422,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
+      "私人摄影",
       "原作",
       "内射",
-      "私人摄影"
+      "素人"
     ],
     "type": "有码",
     "company": "FC2",
@@ -778,8 +748,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
     "company": "FC2",
@@ -889,7 +859,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳"
+    ],
     "type": "有码",
     "company": "FC2",
     "publish_date": "",
@@ -1019,8 +991,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
     "company": "FC2",
@@ -1254,8 +1226,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳"
+      "巨乳",
+      "嫩妹"
     ],
     "type": "有码",
     "company": "FC2",
@@ -1569,5 +1541,35 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2299373"
+  },
+  {
+    "id": 308140,
+    "IDcode": "FC2-PPV-2300002",
+    "title": "身材火辣的美女夺走了我的童贞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/11/4d279c48413de102d6bfd3e2b05cbba5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2300002"
+  },
+  {
+    "id": 308135,
+    "IDcode": "FC2-PPV-2300249",
+    "title": "少女喜欢给处男手淫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2300249"
   }
 ];

@@ -1,5 +1,50 @@
 window.PAGE_DATA = [
   {
+    "id": 578633,
+    "IDcode": "SDAB-052",
+    "title": "头がおかしくなるくらいイッてみたい…”河原かえで 欲しがり少女のイキまくりSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-052"
+  },
+  {
+    "id": 526777,
+    "IDcode": "SDAB-057",
+    "title": "“これ以上イッたらわたし…”美园和花 1日中ずーっとイキっぱなし连続SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230325/1sdab00057pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-057"
+  },
+  {
+    "id": 219066,
+    "IDcode": "SDAB-063",
+    "title": "日法混血美少女-成宮りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-063"
+  },
+  {
     "id": 578632,
     "IDcode": "SDAB-066",
     "title": "自信なさげなぽつん。女子 保护欲をかき立てる童颜巨乳 高",
@@ -114,8 +159,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
     "company": "SOD",
@@ -212,9 +257,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
+      "巨乳",
       "素人作品",
-      "巨乳"
+      "校服"
     ],
     "type": "有码",
     "company": "SOD",
@@ -233,11 +278,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "素人作品",
-      "晒黑",
+      "浴衣",
       "第一人称摄影",
-      "浴衣"
+      "素人作品",
+      "校服",
+      "晒黑"
     ],
     "type": "有码",
     "company": "SOD",
@@ -271,11 +316,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "白天出轨",
-      "制服",
       "素人作品",
-      "颜射"
+      "颜射",
+      "多P",
+      "制服",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -309,13 +354,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "运动短裤",
+      "首次亮相",
       "玩具",
       "嫩妹",
-      "首次亮相",
       "美少女电影",
-      "高中女生"
+      "校服",
+      "高中女生",
+      "运动短裤"
     ],
     "type": "有码",
     "company": "SOD",
@@ -336,11 +381,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "运动短裤",
       "中文字幕",
       "美少女电影",
-      "素人作品"
+      "素人作品",
+      "校服",
+      "运动短裤"
     ],
     "type": "有码",
     "company": "SOD",
@@ -359,11 +404,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "校服",
-      "平胸",
       "美少女电影",
-      "素人作品"
+      "素人作品",
+      "校服",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
     "company": "SOD",
@@ -397,11 +442,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
       "首次亮相",
       "纪录片",
       "美少女电影",
-      "素人作品"
+      "素人作品",
+      "校服"
     ],
     "type": "有码",
     "company": "SOD",
@@ -530,11 +575,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "校服",
-      "平胸",
       "美少女电影",
-      "素人作品"
+      "素人作品",
+      "校服",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
     "company": "SOD",
@@ -553,12 +598,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "JK校服",
-      "無碼流出",
-      "素人作品",
       "苗條",
-      "无码"
+      "素人作品",
+      "美少女電影",
+      "无码",
+      "無碼流出",
+      "JK校服"
     ],
     "type": "无码",
     "company": "SOD",
@@ -577,12 +622,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "校服",
-      "平胸",
-      "无毛",
       "美少女电影",
-      "素人作品"
+      "素人作品",
+      "校服",
+      "无毛",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
     "company": "SOD",
@@ -603,13 +648,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
       "風俗娘",
-      "JK校服",
-      "無碼流出",
-      "素人作品",
       "苗條",
-      "无码"
+      "素人作品",
+      "美少女電影",
+      "无码",
+      "無碼流出",
+      "JK校服"
     ],
     "type": "无码",
     "company": "SOD",
@@ -628,12 +673,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "校服",
-      "平胸",
       "美少女电影",
       "素人作品",
-      "接吻"
+      "校服",
+      "苗条",
+      "接吻",
+      "平胸"
     ],
     "type": "有码",
     "company": "SOD",
@@ -652,10 +697,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "首次亮相",
       "校服",
-      "素人作品"
+      "首次亮相",
+      "素人作品",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -677,11 +722,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "中出",
       "美少女电影",
       "素人作品",
-      "高中女生"
+      "高中女生",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -700,13 +745,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
+      "巨乳",
+      "浴衣",
       "巨大屁股",
       "中出",
       "素人作品",
-      "巨乳",
-      "女生",
-      "浴衣"
+      "校服",
+      "女生"
     ],
     "type": "有码",
     "company": "SOD",
@@ -726,10 +771,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
       "中出",
       "美少女电影",
       "素人作品",
+      "校服",
       "高中女生"
     ],
     "type": "有码",
@@ -751,11 +796,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "平胸",
       "美少女电影",
       "素人作品",
-      "高中女生"
+      "校服",
+      "高中女生",
+      "平胸"
     ],
     "type": "有码",
     "company": "SOD",
@@ -775,11 +820,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "校服",
       "美少女电影",
       "素人作品",
-      "高中女生"
+      "校服",
+      "高中女生",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -799,11 +844,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "首次亮相",
       "美少女电影",
       "素人作品",
-      "高中女生"
+      "高中女生",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -822,10 +867,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "首次亮相",
       "美少女电影",
-      "纪录片"
+      "纪录片",
+      "首次亮相",
+      "校服"
     ],
     "type": "有码",
     "company": "SOD",
@@ -845,8 +890,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
       "制服",
+      "美少女电影",
       "接吻",
       "水手服"
     ],
@@ -868,8 +913,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "美少女电影",
       "制服",
+      "美少女电影",
       "高中女生"
     ],
     "type": "有码",
@@ -890,10 +935,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "高中女生",
-      "药物",
-      "平胸"
+      "平胸",
+      "苗条",
+      "药物"
     ],
     "type": "有码",
     "company": "SOD",
@@ -913,9 +958,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
+      "高中女生",
       "首次亮相",
-      "高中女生"
+      "瘦小身型"
     ],
     "type": "有码",
     "company": "SOD",
@@ -936,9 +981,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "無碼流出",
+      "老頭子",
       "无码",
-      "老頭子"
+      "無碼流出"
     ],
     "type": "无码",
     "company": "SOD",
@@ -1004,11 +1049,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "潮吹",
-      "瘦小身型",
+      "美少女电影",
+      "淫乱，真实",
       "校服",
-      "美少女电影"
+      "瘦小身型"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1043,11 +1088,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "纪录片",
       "中出",
       "美少女电影",
-      "高中女生"
+      "高中女生",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1066,11 +1111,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "戏剧",
       "中出",
-      "制服",
-      "高中女生"
+      "戏剧",
+      "高中女生",
+      "苗条",
+      "制服"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1090,9 +1135,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "户外",
+      "高中女生",
       "美少女电影",
-      "高中女生"
+      "户外"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1128,8 +1173,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "户外",
       "凌辱",
+      "户外",
       "中出",
       "美少女电影",
       "高中女生"
@@ -1151,9 +1196,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "中出",
       "乳房",
       "美少女电影",
-      "中出",
       "制服"
     ],
     "type": "有码",
@@ -1234,11 +1279,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
       "业余",
-      "中出",
       "巨乳",
-      "高中女生"
+      "中出",
+      "高中女生",
+      "瘦小身型"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1255,10 +1300,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "嫩妹",
-      "首次亮相",
       "巨乳",
+      "首次亮相",
+      "嫩妹",
+      "校服",
       "高中女生"
     ],
     "type": "有码",
@@ -1340,9 +1385,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "美少女电影",
       "学校作品",
+      "美少女电影",
+      "苗条",
       "高中女生"
     ],
     "type": "有码",
@@ -1375,10 +1420,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "首次亮相",
-      "纪录片",
+      "高中女生",
       "制服",
-      "高中女生"
+      "首次亮相",
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1399,10 +1444,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "女生",
       "美少女电影",
-      "恶作剧"
+      "恶作剧",
+      "潮吹"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1419,11 +1464,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "中出",
       "美少女电影",
       "女上位",
-      "高中女生"
+      "高中女生",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1458,11 +1503,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "白天出轨",
+      "单体作品",
       "中出",
+      "多P",
       "制服",
-      "单体作品"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1511,11 +1556,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
+      "巨乳",
       "首次亮相",
-      "制服",
       "纪录片",
-      "巨乳"
+      "制服",
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1532,8 +1577,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "口交"
+      "口交",
+      "巨乳"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1550,8 +1595,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "中出",
+      "美少女",
       "高中女生"
     ],
     "type": "有码",
@@ -1569,9 +1614,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
+      "高中女生",
       "乳房",
-      "高中女生"
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1603,9 +1648,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "首次亮相",
+      "高中女生",
       "制服",
-      "高中女生"
+      "首次亮相"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1622,9 +1667,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "高中女生",
       "制服",
-      "巨乳",
-      "高中女生"
+      "巨乳"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1641,9 +1686,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "中出",
       "巨乳",
+      "美少女",
       "高中女生"
     ],
     "type": "有码",
@@ -1696,8 +1741,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "中出",
+      "美少女",
       "高中女生"
     ],
     "type": "有码",
@@ -1747,9 +1792,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "美少女",
-      "纪录片",
-      "口交"
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1766,8 +1811,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "高中女生"
+      "高中女生",
+      "口交"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1816,8 +1861,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "主观视角"
+      "主观视角",
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1834,8 +1879,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "中出",
+      "美少女",
       "高中女生"
     ],
     "type": "有码",
@@ -1844,59 +1889,5 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/5dc4612cc30384dc43e4f037a3fed006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-229"
-  },
-  {
-    "id": 89688,
-    "IDcode": "SDAB-230",
-    "title": "1泊2日の中出し卒業お泊り 少女はまだまだ性・長・過・程 「中に精子出されたらどうなっちゃうんだろう…?」答えを探すために何度も何度も精子を受け止める。 三葉せり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "多P",
-      "中出",
-      "制服"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-08-25",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/ALQ3vKU6.jpg",
-    "actress": [
-      "三葉せり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-230"
-  },
-  {
-    "id": 163549,
-    "IDcode": "SDAB-231",
-    "title": "她的家庭教师-さくられん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250412-1/d8d861262615da65bf5c77b4152321b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-231"
-  },
-  {
-    "id": 89707,
-    "IDcode": "SDAB-232",
-    "title": "「私のこといっぱいイジメて…」予備校に通う秀才美少女がオールナイトでドマゾご奉仕SEX 円井萌華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-08-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/1034dcc3882c983850710d696eb4ba12.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-232"
   }
 ];

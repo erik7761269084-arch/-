@@ -7,8 +7,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "淫妻"
+      "淫妻",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -283,8 +283,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -318,8 +318,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -544,8 +544,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "淫妻"
+      "淫妻",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -562,8 +562,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -580,8 +580,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -701,8 +701,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -753,8 +753,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -822,8 +822,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -874,8 +874,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -927,8 +927,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -945,9 +945,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1185,9 +1185,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1204,8 +1204,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1239,8 +1239,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1291,8 +1291,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1360,8 +1360,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1412,8 +1412,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1430,8 +1430,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1516,8 +1516,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1534,8 +1534,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1552,8 +1552,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1638,8 +1638,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1707,8 +1707,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",
@@ -1725,8 +1725,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "素人CLOVER",

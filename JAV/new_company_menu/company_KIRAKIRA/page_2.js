@@ -7,10 +7,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "晒黑",
       "中出",
       "女生",
-      "巨乳"
+      "巨乳",
+      "晒黑"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -27,12 +27,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "调教",
+      "精选，综合",
       "中出",
       "素人作品",
-      "精选，综合",
-      "高中女生"
+      "校服",
+      "高中女生",
+      "调教"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -49,14 +49,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
+      "精选，综合",
       "中文字幕",
       "中出",
       "素人作品",
-      "妹妹",
-      "精选，综合",
+      "高中女生",
       "女生",
-      "高中女生"
+      "妹妹",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -75,10 +75,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "骑乗位",
-      "素人作品",
       "精选，综合",
+      "骑乗位",
+      "屁股",
+      "素人作品",
       "女生"
     ],
     "type": "有码",
@@ -98,12 +98,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "中出",
       "素人作品",
-      "精选，综合",
-      "晒黑",
+      "高中女生",
       "女生",
-      "高中女生"
+      "晒黑"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -120,12 +120,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "巨乳",
+      "第一人称摄影",
       "礼仪小姐",
       "素人作品",
-      "巨乳",
-      "女上位",
-      "精选，综合",
-      "第一人称摄影"
+      "女上位"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -144,12 +144,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
-      "校服",
-      "无毛",
       "中出",
+      "校服",
       "女生",
-      "接吻"
+      "无毛",
+      "接吻",
+      "瘦小身型"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -166,12 +166,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "中出",
       "素人作品",
-      "精选，综合",
-      "滥交",
+      "高中女生",
       "女生",
-      "高中女生"
+      "滥交"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -190,14 +190,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
+      "精选，综合",
+      "巨乳",
       "中文字幕",
       "中出",
+      "第一人称摄影",
       "素人作品",
-      "巨乳",
-      "精选，综合",
       "女生",
-      "第一人称摄影"
+      "出轨"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -216,13 +216,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "口交",
+      "巨乳",
       "中出",
       "素人作品",
-      "巨乳",
-      "口交",
-      "精选，综合",
-      "女生",
-      "高中女生"
+      "高中女生",
+      "女生"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -241,11 +241,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
+      "巨乳",
       "中出",
       "素人作品",
-      "巨乳",
-      "精选，综合",
       "女生"
     ],
     "type": "有码",
@@ -266,12 +266,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "苗条",
-      "中文字幕",
       "口交",
+      "中文字幕",
+      "潮吹",
+      "高中女生",
       "女生",
-      "高中女生"
+      "苗条"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -290,11 +290,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
-      "中文字幕",
-      "首次亮相",
-      "中出",
       "巨乳",
+      "首次亮相",
+      "中文字幕",
+      "中出",
+      "乳交",
       "女生"
     ],
     "type": "有码",
@@ -316,11 +316,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "处男",
-      "中文字幕",
       "口交",
-      "女生",
-      "高中女生"
+      "中文字幕",
+      "处男",
+      "高中女生",
+      "女生"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -339,13 +339,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "中文字幕",
-      "猎艳",
       "中出",
-      "滥交",
       "泳装",
-      "女生"
+      "女生",
+      "猎艳",
+      "滥交",
+      "素人"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -381,14 +381,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "荡妇",
-      "礼仪小姐",
-      "女同",
-      "素人作品",
       "口交",
-      "淫语",
+      "女同",
+      "礼仪小姐",
+      "素人作品",
       "女生",
-      "精选，综合"
+      "淫语"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -422,10 +422,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
       "口交",
       "巨乳",
+      "淫乱，真实",
       "女上位"
     ],
     "type": "有码",
@@ -445,11 +445,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
       "口交",
       "巨乳",
-      "女生",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "女生"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -468,11 +468,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "美少女电影",
       "口交",
+      "美少女电影",
+      "高中女生",
       "女生",
-      "高中女生"
+      "苗条"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -491,9 +491,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "业余",
       "口交",
+      "潮吹",
       "女上位",
       "高中女生"
     ],
@@ -513,8 +513,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "潮吹",
-      "偷窥",
       "手淫",
+      "偷窥",
       "晒黑",
       "美容院"
     ],
@@ -550,10 +550,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
-      "中出",
       "口交",
       "巨乳",
+      "巨大屁股",
+      "中出",
       "女生"
     ],
     "type": "有码",
@@ -574,8 +574,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "深喉",
-      "制服"
+      "制服",
+      "深喉"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -594,11 +594,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "瘦小身型",
       "荡妇",
-      "白天出轨",
       "中出",
-      "女生"
+      "女生",
+      "瘦小身型",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -617,11 +617,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
-      "巨乳",
       "口交",
-      "晒黑",
-      "女生"
+      "巨乳",
+      "巨大屁股",
+      "女生",
+      "晒黑"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -640,10 +640,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女生",
       "中出",
-      "深喉",
-      "巨乳"
+      "女生",
+      "巨乳",
+      "深喉"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -660,12 +660,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "巨乳",
       "中出",
       "素人作品",
-      "巨乳",
-      "精选，综合",
-      "晒黑",
-      "女生"
+      "女生",
+      "晒黑"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -684,15 +684,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "业余",
       "人妻",
-      "深喉",
+      "巨乳",
       "已婚妇女",
       "乱伦",
-      "业余",
       "素人作品",
-      "巨乳",
-      "精选，综合",
-      "女生"
+      "女生",
+      "深喉"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -711,13 +711,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "精选，综合",
       "潮吹",
       "中出",
-      "制服",
       "素人作品",
-      "精选，综合",
-      "女生"
+      "女生",
+      "苗条",
+      "制服"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -736,11 +736,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "口交",
+      "巨乳",
       "巨大屁股",
       "中出",
-      "口交",
-      "巨乳"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -759,11 +759,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
-      "中出",
       "口交",
-      "女生"
+      "中出",
+      "女生",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -783,10 +783,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "潮吹",
-      "苗条",
-      "平胸",
       "中出",
-      "女生"
+      "女生",
+      "苗条",
+      "平胸"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -805,11 +805,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "巨乳",
       "口交",
-      "晒黑",
-      "女生"
+      "巨乳",
+      "中出",
+      "女生",
+      "晒黑"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -843,10 +843,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女生",
       "中出",
-      "屁股",
-      "深喉"
+      "女生",
+      "深喉",
+      "屁股"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -865,10 +865,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女生",
       "中出",
-      "淫乱，真实",
-      "深喉"
+      "女生",
+      "深喉",
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -887,10 +887,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "口交",
+      "中出",
+      "淫乱，真实",
       "女生"
     ],
     "type": "有码",
@@ -912,10 +912,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "出轨",
       "中出",
       "女生",
-      "高"
+      "高",
+      "出轨"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -964,11 +964,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "出轨",
       "中出",
+      "第一人称摄影",
       "女生",
-      "第一人称摄影"
+      "苗条",
+      "出轨"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1064,11 +1064,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "白天出轨",
-      "中出",
       "口交",
-      "连裤袜"
+      "屁股",
+      "中出",
+      "连裤袜",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1087,11 +1087,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "苗条",
-      "中出",
       "口交",
-      "巨乳"
+      "巨乳",
+      "潮吹",
+      "中出",
+      "苗条"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1230,10 +1230,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "OL",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳"
+      "OL"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1282,11 +1282,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "口交",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "口交"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1305,11 +1305,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "猎艳",
-      "中出",
       "口交",
       "巨乳",
-      "女上位"
+      "中出",
+      "女上位",
+      "猎艳"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1328,10 +1328,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "中出",
       "荡妇",
-      "巨乳"
+      "巨乳",
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1381,10 +1381,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "口交",
       "第一人称摄影"
     ],
     "type": "有码",
@@ -1450,10 +1450,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "乳交",
-      "中出",
+      "口交",
       "巨乳",
-      "口交"
+      "乳交",
+      "中出"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1472,11 +1472,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
+      "巨乳",
       "乳交",
       "无码破解",
       "中出",
-      "巨乳",
+      "巨大屁股",
       "女生"
     ],
     "type": "有码",
@@ -1535,11 +1535,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "中出",
       "巨乳",
-      "女生",
-      "第一人称摄影"
+      "中出",
+      "第一人称摄影",
+      "淫乱，真实",
+      "女生"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1575,10 +1575,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "礼仪小姐",
       "荡妇",
-      "巨乳",
-      "美容院"
+      "美容院",
+      "礼仪小姐",
+      "巨乳"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1598,10 +1598,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
-      "中出",
       "口交",
+      "潮吹",
+      "中出",
       "女生"
     ],
     "type": "有码",
@@ -1651,11 +1651,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
       "业余",
+      "巨大屁股",
       "中出",
-      "高",
-      "第一人称摄影"
+      "第一人称摄影",
+      "高"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1672,11 +1672,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
-      "巨大屁股",
       "口交",
-      "巨乳"
+      "巨乳",
+      "巨大屁股",
+      "潮吹"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1695,11 +1695,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "猎艳",
       "中出",
-      "女生"
+      "淫乱，真实",
+      "女生",
+      "猎艳"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1719,11 +1719,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "M男",
-      "中出",
       "巨乳",
+      "中出",
       "手淫",
-      "女生"
+      "女生",
+      "M男"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1742,11 +1742,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
       "巨乳",
-      "淫语",
-      "第一人称摄影"
+      "第一人称摄影",
+      "淫乱，真实",
+      "淫语"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1795,10 +1795,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
-      "中出",
       "口交",
+      "潮吹",
+      "中出",
       "女生"
     ],
     "type": "有码",
@@ -1835,8 +1835,8 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "业余",
-      "中出",
       "巨乳",
+      "中出",
       "女生"
     ],
     "type": "有码",
@@ -1855,10 +1855,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "巨大屁股",
+      "巨乳",
       "纪录片",
       "中出",
-      "巨乳"
+      "巨大屁股"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1877,11 +1877,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "巨乳",
       "巨大屁股",
-      "肛交",
       "中出",
-      "巨乳"
+      "多P",
+      "肛交"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1948,11 +1948,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "猎艳",
       "中出",
-      "女生"
+      "淫乱，真实",
+      "女生",
+      "猎艳"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -1972,9 +1972,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
       "首次亮相",
+      "潮吹",
       "手淫",
       "SM"
     ],
@@ -1995,10 +1995,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "礼仪小姐",
-      "中出",
       "巨乳",
+      "潮吹",
+      "中出",
+      "礼仪小姐",
       "颜射"
     ],
     "type": "有码",
@@ -2019,11 +2019,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "猎艳",
       "乳房",
+      "女生",
       "姐姐",
-      "滥交",
-      "女生"
+      "猎艳",
+      "滥交"
     ],
     "type": "有码",
     "company": "KIRAKIRA",
@@ -2043,11 +2043,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
+      "口交",
+      "巨乳",
       "中出",
       "药物",
-      "巨乳",
-      "口交",
-      "精选，综合",
       "女生"
     ],
     "type": "有码",

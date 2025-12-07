@@ -7,8 +7,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -28,8 +28,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -47,10 +47,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -69,8 +69,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -90,8 +90,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -109,8 +109,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -128,8 +128,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -147,8 +147,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -168,8 +168,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -187,8 +187,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -208,8 +208,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -229,8 +229,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -250,8 +250,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -271,8 +271,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -292,10 +292,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -314,8 +314,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -335,8 +335,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -356,8 +356,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -377,8 +377,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -396,8 +396,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -417,8 +417,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -438,8 +438,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -459,8 +459,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -480,8 +480,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -501,8 +501,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -522,12 +522,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人企画",
-      "素人",
-      "巨大屁股",
       "业余",
       "巨乳",
-      "高端素人"
+      "巨大屁股",
+      "高端素人",
+      "素人企画",
+      "素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -546,8 +546,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -567,8 +567,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -583,15 +583,15 @@ window.PAGE_DATA = [
   {
     "id": 527983,
     "IDcode": "259LUXU-1746",
-    "title": "[] ラグジュTV 1731 まるでモデルのようなスタイルを持つ艶やかな美女が登场！ナナ 28歳 OL",
+    "title": "ラグジュTV 1731 まるでモデルのようなスタイルを持つ艶やかな美女が登场！ナナ 28歳 OL",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
-      "高端素人",
-      "无码"
+      "素人",
+      "无码",
+      "高端素人"
     ],
     "type": "无码",
     "company": "蚊香社",
@@ -610,8 +610,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -631,8 +631,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -653,8 +653,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -674,10 +674,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -694,8 +694,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -713,8 +713,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -732,8 +732,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -751,8 +751,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -770,8 +770,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -789,8 +789,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -808,8 +808,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -829,8 +829,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -848,8 +848,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -869,8 +869,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -890,8 +890,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -911,8 +911,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -932,10 +932,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -952,8 +952,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -971,8 +971,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -992,8 +992,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1013,8 +1013,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1034,8 +1034,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1055,8 +1055,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1077,8 +1077,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1098,10 +1098,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1120,8 +1120,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1141,8 +1141,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1162,8 +1162,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1184,8 +1184,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1205,8 +1205,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1227,8 +1227,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1248,8 +1248,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1267,8 +1267,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1288,8 +1288,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1309,8 +1309,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1328,8 +1328,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1349,8 +1349,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1371,8 +1371,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1390,8 +1390,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1409,8 +1409,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1428,8 +1428,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1447,10 +1447,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1467,10 +1467,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1487,10 +1487,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "高端素人",
       "巨乳",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "高端素人"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1507,8 +1507,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1526,10 +1526,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱伦",
       "高端素人",
-      "素人企画"
+      "素人企画",
+      "素人",
+      "乱伦"
     ],
     "type": "有码",
     "company": "蚊香社",
@@ -1546,8 +1546,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1565,8 +1565,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1584,8 +1584,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1603,8 +1603,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1622,8 +1622,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
       "素人企画",
+      "素人",
       "高端素人"
     ],
     "type": "有码",
@@ -1669,429 +1669,288 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888KBR-A005"
   },
   {
-    "id": 17937,
-    "IDcode": "DLV-001",
-    "title": "我借給你一個新的、絕對漂亮的女孩。行動117",
+    "id": 107721,
+    "IDcode": "ABF-001",
+    "title": "最高级辣妹中出性爱-八挂海",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "上門福利",
-      "無毛",
-      "粉絲福利",
-      "感謝祭",
-      "巨乳",
-      "企畫",
-      "顏射",
-      "女優"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2023-11-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20231110/41847c32-258f-48c7-8b7c-9f2615c93cad.jpg",
-    "actress": [
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-001"
-  },
-  {
-    "id": 546054,
-    "IDcode": "DLV-002",
-    "title": "新·絶対的美少女、お贷しします。 ACT.118",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240316/VOAMtWLy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-002"
-  },
-  {
-    "id": 14908,
-    "IDcode": "DLV-003",
-    "title": "給你一個新的、絕對漂亮的女孩。瀧本雫葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "內衣",
+      "单体作品",
+      "无码破解",
       "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2024-05-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20240509/20240509032624397397.jpg",
-    "actress": [
-      "瀧本雫葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-003"
-  },
-  {
-    "id": 6518,
-    "IDcode": "DLV-004",
-    "title": "新・絕對美少女，上門給你玩 ACT.120 ~ 釋愛麗絲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "真實拍攝",
-      "臀控",
-      "美少女",
-      "美腳",
-      "真人秀",
-      "自宅",
-      "大奶头",
-      "美乳",
-      "口交",
-      "性感",
-      "粉丝",
-      "形象俱樂部",
-      "高顏值",
-      "極品美人",
-      "中出",
-      "美人",
-      "企畫",
-      "後入",
-      "少女",
-      "美臀",
-      "女優",
-      "上門福利",
-      "美少女電影",
-      "素人",
-      "無毛",
-      "69",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2025-04-14",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/2f2ada67-794c-4011-b6ba-69018095d431_thumbnail.webp",
-    "actress": [
-      "釋愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-004"
-  },
-  {
-    "id": 3623,
-    "IDcode": "DLV-005",
-    "title": "新・絶対的美少女、お貸しします。 ACT.121 中森ななみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "小隻馬",
-      "巨尻",
-      "口爆",
-      "真實拍攝",
-      "粉絲福利",
-      "苗條",
-      "臀控",
-      "美少女",
-      "美腳",
-      "真人秀",
-      "自宅",
-      "美乳",
-      "清楚系",
-      "口交",
-      "性感",
-      "接吻",
-      "粉丝",
-      "形象俱樂部",
-      "潮吹",
-      "單體作品",
-      "高顏值",
-      "明星臉",
-      "貧乳",
-      "極品美人",
-      "蠻橫嬌羞",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "女優",
-      "上門福利",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "素人",
-      "無毛",
-      "舔腳",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022630810810_71690_thumbnail.webp",
-    "actress": [
-      "中森七海"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-005"
-  },
-  {
-    "id": 18445,
-    "IDcode": "GNI-001",
-    "title": "新人姫野かりす!首次亮相出道作! 年紀很小奶子卻很大的G罩杯公主!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "出道作品",
-      "出道作",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2023-10-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231006/d8684191-2fc2-43d3-b69b-dbb4e58798bb.jpg",
-    "actress": [
-      "姫野かりす"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-001"
-  },
-  {
-    "id": 17799,
-    "IDcode": "GNI-002",
-    "title": "新人Prestige獨家登場! 前写真偶像「瀧本雫葉」首次亮相AV第一作!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作品",
-      "4小時以上作品",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2023-11-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116084249111111.jpg",
-    "actress": [
-      "瀧本雫葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-002"
-  },
-  {
-    "id": 17377,
-    "IDcode": "GNI-003",
-    "title": "治愈系新人出道！蒼乃美月~蚊香社专属高身長165cm G罩杯 首次亮相 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女優訪談",
-      "美少女電影",
-      "紀錄片",
-      "美少女",
-      "手指插入",
-      "無毛",
-      "出道作",
-      "出道作品",
-      "胸控・戀乳癖",
-      "中出",
-      "巨乳",
-      "企畫",
-      "性感",
-      "口交",
-      "情趣內衣",
-      "顏射",
-      "女優"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2023-12-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231208/a16e7548-49cf-4c64-9c50-794e807e8612.jpg",
-    "actress": [
-      "蒼乃美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-003"
-  },
-  {
-    "id": 96724,
-    "IDcode": "GNI-004",
-    "title": "向女播音员独家首次亮相-瀬绪凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "第一人称摄影",
-      "业余",
       "无毛",
-      "首次亮相",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-1/adb5b4a17c4938ca9888b2132e34e25a.jpg",
+    "actress": [
+      "八挂うみ",
+      "八挂海"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-001"
+  },
+  {
+    "id": 107722,
+    "IDcode": "ABF-002",
+    "title": "衣装超透的下流学园-七嶋舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学校作品",
+      "单体作品",
+      "无码破解",
+      "角色扮演",
+      "无毛",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-1/ffe173a3a79c3977e772c6a1ea56f0a9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-002"
+  },
+  {
+    "id": 204003,
+    "IDcode": "ABF-003",
+    "title": "潮汁满天飞-流川夕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/09/18/3a5f47c277cb867aed54ec854c89872b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-003"
+  },
+  {
+    "id": 107158,
+    "IDcode": "ABF-004",
+    "title": "被青梅竹马痴女般责弄-美之岛惠理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "单体作品",
+      "处男",
+      "颜射",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/82cf07b93d793e67673e232150497c79.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-004"
+  },
+  {
+    "id": 107466,
+    "IDcode": "ABF-005",
+    "title": "尽可能的让她崩坏-铃村爱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "无码破解",
+      "乳房",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-1/8c2df3419be79cd283f3a7f2918a7d36.jpg",
+    "actress": [
+      "鈴村愛里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-005"
+  },
+  {
+    "id": 564088,
+    "IDcode": "ABF-006",
+    "title": "天然成分由来 一宫希帆汁 120% 82【MGSだけのおまけ映像付き+10分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230708/zErBiGTp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-006"
+  },
+  {
+    "id": 107465,
+    "IDcode": "ABF-007",
+    "title": "美丽又下流的超圆润屁股-凉森玲梦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "屁股",
+      "无码破解",
+      "角色扮演",
+      "乳液"
     ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-1/f376a7b57d4e4b13bc7ba409bc8275cd.jpg",
+    "actress": [
+      "凉森玲梦"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-007"
+  },
+  {
+    "id": 564025,
+    "IDcode": "ABF-008",
+    "title": "美少女と、贷し切り温泉と、浓密性交と。 23 铃の家りん【MGSだけのおまけ映像付き+10分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "瀬緒凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-004"
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-008"
   },
   {
-    "id": 12229,
-    "IDcode": "GNI-005",
-    "title": "黄金的9头身-释爱丽丝",
+    "id": 106865,
+    "IDcode": "ABF-009",
+    "title": "新人教师-河合明日菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "3P・4P",
-      "網襪",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "兩男一女",
-      "短髮",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "美腿",
-      "美臀",
-      "抹油",
-      "絕頂高潮",
-      "女優",
-      "脚控・戀足癖",
-      "美少女電影",
-      "無毛",
-      "乳交",
-      "69",
-      "金髮",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240905/4cdeeef7-10a1-4446-be1a-a25d03251c89.jpg",
-    "actress": [
-      "釋愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-005"
-  },
-  {
-    "id": 9102,
-    "IDcode": "GNI-006",
-    "title": "新人出道！2025年蚊香社首個大型新人專屬登場。絕對美少女原點回歸 首次亮相 AV DEBUT ~ 中森七海",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "車震",
-      "泳裝",
-      "女優訪談",
-      "女學生",
-      "真實拍攝",
-      "飯店",
-      "苗條",
-      "美少女",
-      "美腳",
-      "羞恥",
-      "真人秀",
-      "出道作品",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "清楚系",
       "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "內衣",
-      "中出",
-      "美人",
-      "美腿",
-      "企畫",
-      "少女",
-      "後入",
-      "美臀",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "出道作",
-      "乳交",
-      "運動女孩",
-      "女上位",
-      "騎乗位"
+      "单体作品",
+      "无码破解",
+      "女教师",
+      "乳液",
+      "多P",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "蚊香社",
-    "publish_date": "2025-01-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20250116/383704f3-3b12-45c6-aad0-89932f069f38.jpg",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/09/23/e430ebdd60777ccacdfa86b0fb4daaef.jpg",
     "actress": [
-      "中森七海"
+      "河合明日菜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-009"
   },
   {
-    "id": 563978,
-    "IDcode": "KBR-001",
-    "title": "朝まで种付け絶伦性交 加藤妃乃【MGSだけのおまけ映像付き+5分】",
+    "id": 548714,
+    "IDcode": "ABF-010",
+    "title": "野々浦暖流 HOW TO SEX！！ 保健室の先生が身体を使って性指导！絶対セイキョウイク【MG",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230721/ZOoRLJXX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-010"
+  },
+  {
+    "id": 162429,
+    "IDcode": "ABF-011",
+    "title": "绝对性教育-八掛海",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/59e0da63a6f8964bdcb27baebf387ee1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-011"
+  },
+  {
+    "id": 538911,
+    "IDcode": "ABF-012",
+    "title": "七岛舞- 帰省した童贞の仆を痴女ってくる 小悪魔いとこ 七嶋舞【MGSだけのおまけ映像付き+15分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241124/yiqs55GV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-012"
+  },
+  {
+    "id": 107157,
+    "IDcode": "ABF-013",
+    "title": "和超色情的最高级辣妹-流川夕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "无毛",
+      "单体作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/9b1b5ebe30145e2e726a4c8d3ff66057.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-013"
+  },
+  {
+    "id": 226230,
+    "IDcode": "ABF-014",
+    "title": "天然成分由来120%汁-美之岛惠理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-1/845bdb3c59d6d052b886f7b3e2f429e2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-014"
+  },
+  {
+    "id": 157454,
+    "IDcode": "ABF-015",
+    "title": "完全主观视角-铃村爱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250511-1/d541f294267d6c48e8a69815e660f1fb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-015"
+  },
+  {
+    "id": 548556,
+    "IDcode": "ABF-016",
+    "title": "唇が溶けるほどのベロキス性交 一宫希帆【MGSだけのおまけ映像付き+10分】",
     "year": "",
     "country": "",
     "genre": "",
@@ -2101,12 +1960,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-016"
   },
   {
-    "id": 563964,
-    "IDcode": "KBR-002",
-    "title": "极上きもの美人のおもてなし性交 冨永ののか",
+    "id": 158050,
+    "IDcode": "ABF-017",
+    "title": "完全堕落前被玩到崩坏-凉森玲梦",
     "year": "",
     "country": "",
     "genre": "",
@@ -2114,104 +1973,25 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230721/uXbosPHb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-002"
-  },
-  {
-    "id": 226539,
-    "IDcode": "KBR-003",
-    "title": "沉浸在四种究极的性爱体验中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-003"
-  },
-  {
-    "id": 548555,
-    "IDcode": "KBR-004",
-    "title": "禁欲アクメ 爆欲解放 一ヶ月间焦らされ极限状态の先にある従顺ドM●教。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230804/0Exp1QNf/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-004"
-  },
-  {
-    "id": 548557,
-    "IDcode": "KBR-005",
-    "title": "夫、年下彼氏、●●、セフレ… 男を転がすハイキャリアCAと浓密中出し性交。 冨永ののか【MGSだ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230804/TZkY8mrj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-005"
-  },
-  {
-    "id": 563594,
-    "IDcode": "KBR-006",
-    "title": "NGR ーナガサレー 真面目で推しに弱い眼镜美人妻が、狡猾な男达にナガサレ…快楽に狂う 中出し5连発",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230825/DObcRav5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-006"
-  },
-  {
-    "id": 18610,
-    "IDcode": "KBR-007",
-    "title": "变态专用-松冈铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "兩男一女",
-      "3P・4P",
-      "緊縛",
-      "淫亂",
-      "癡女",
-      "SM",
-      "羞恥",
-      "拘束・拷問",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "跳蛋",
-      "暗黑系"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230922/c6ae214b-6db3-425e-bd99-0e8f32d4b059.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/860cfe5835aca166efbe6eab7b22d230.jpg",
     "actress": [
-      "松岡鈴"
+      "凉森玲梦"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-017"
+  },
+  {
+    "id": 548516,
+    "IDcode": "ABF-018",
+    "title": "女子マネージャーは、仆达の性処理ペット。 046",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230811/LJfaM1qK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-018"
   }
 ];

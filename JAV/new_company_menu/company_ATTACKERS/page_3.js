@@ -9,9 +9,9 @@ window.PAGE_DATA = [
     "genres": [
       "凌辱",
       "已婚妇女",
-      "戏剧",
+      "巨乳",
       "出轨",
-      "巨乳"
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -30,12 +30,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "素人作品",
+      "精选，综合",
       "巨乳",
-      "精选，综合"
+      "已婚妇女",
+      "素人作品",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -55,14 +55,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "素人作品",
-      "巨乳",
       "精选，综合",
-      "接吻"
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "素人作品",
+      "接吻",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -96,13 +96,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
       "已婚妇女",
-      "戏剧",
-      "出轨",
-      "素人作品",
       "巨乳",
-      "精选，综合"
+      "素人作品",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -230,12 +230,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "護士",
-      "醫院・診所",
       "精選綜合",
       "強姦",
+      "無碼破解",
+      "護士",
       "素人作品",
-      "無碼破解"
+      "醫院・診所"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -256,13 +256,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "精选，综合",
       "已婚妇女",
-      "戏剧",
-      "出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "苗条",
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -282,12 +282,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "已婚妇女",
-      "戏剧",
-      "出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -322,14 +322,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
-      "戏剧",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -348,12 +348,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "女教師",
       "精選綜合",
-      "素人作品",
+      "凌辱",
       "巨乳",
-      "無碼破解"
+      "無碼破解",
+      "素人作品",
+      "女教師"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -373,13 +373,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
-      "戏剧",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -398,13 +398,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
+      "精选，综合",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -424,10 +424,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
+      "巨乳",
       "精選綜合",
       "出軌",
-      "素人作品",
-      "巨乳"
+      "素人作品"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -447,14 +447,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
       "凌辱",
       "已婚妇女",
-      "白天出轨",
       "淫妻",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -473,12 +473,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
-      "戏剧",
+      "精选，综合",
       "已婚妇女",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "按摩",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -497,12 +497,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
-      "戏剧",
       "已婚妇女",
-      "白天出轨",
       "素人作品",
-      "精选，综合"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -521,14 +521,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
-      "戏剧",
       "已婚妇女",
-      "出轨",
-      "白天出轨",
       "无码破解",
       "素人作品",
-      "精选，综合"
+      "出轨",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -548,9 +548,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "白天出轨",
+      "已婚妇女",
       "淫妻",
-      "已婚妇女"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -569,14 +569,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
+      "巨乳",
       "已婚妇女",
-      "戏剧",
+      "素人作品",
       "OL",
       "出轨",
-      "素人作品",
-      "巨乳",
-      "精选，综合"
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -617,13 +617,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
-      "戏剧",
       "乱伦",
-      "白天出轨",
-      "婆婆",
       "素人作品",
-      "精选，综合"
+      "婆婆",
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -642,14 +642,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "人妻",
-      "戏剧",
+      "巨乳",
       "已婚妇女",
-      "调教",
       "中出",
       "素人作品",
-      "巨乳",
-      "精选，综合"
+      "调教",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -683,9 +683,9 @@ window.PAGE_DATA = [
     "genres": [
       "人妻",
       "凌辱",
+      "无码破解",
       "OL",
-      "白天出轨",
-      "无码破解"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -729,8 +729,8 @@ window.PAGE_DATA = [
     "genres": [
       "凌辱",
       "已婚妇女",
-      "戏剧",
       "淫妻",
+      "戏剧",
       "白天出轨"
     ],
     "type": "有码",
@@ -751,8 +751,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "白天出轨",
-      "已婚妇女"
+      "已婚妇女",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -789,10 +789,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "人妻",
-      "白天出轨",
-      "已婚妇女"
+      "戏剧",
+      "已婚妇女",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -811,12 +811,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精选，综合",
       "凌辱",
-      "戏剧",
       "已婚妇女",
-      "白天出轨",
       "素人作品",
-      "精选，综合"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -836,11 +836,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女大学生",
+      "精选，综合",
       "凌辱",
-      "制服",
       "素人作品",
-      "精选，综合"
+      "女大学生",
+      "制服"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -908,8 +908,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
-      "已婚妇女"
+      "已婚妇女",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -943,10 +943,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "出轨",
       "美少女电影",
-      "高中女生"
+      "戏剧",
+      "高中女生",
+      "出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1015,9 +1015,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "戏剧",
-      "白天出轨",
       "巨乳",
-      "已婚妇女"
+      "已婚妇女",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1036,10 +1036,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "人妻",
-      "白天出轨",
-      "已婚妇女"
+      "戏剧",
+      "已婚妇女",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1090,8 +1090,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "美少女电影",
+      "戏剧",
       "已婚妇女"
     ],
     "type": "有码",
@@ -1113,8 +1113,8 @@ window.PAGE_DATA = [
     "genres": [
       "凌辱",
       "已婚妇女",
-      "戏剧",
       "OL",
+      "戏剧",
       "白天出轨"
     ],
     "type": "有码",
@@ -1167,12 +1167,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "已婚妇女",
-      "戏剧",
-      "出轨",
       "无码破解",
       "中出",
-      "单体作品"
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1192,10 +1192,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "舔阴",
       "凌辱",
-      "白天出轨",
-      "已婚妇女"
+      "舔阴",
+      "已婚妇女",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1278,11 +1278,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "已婚妇女",
-      "戏剧",
-      "白天出轨",
       "无码破解",
-      "单体作品"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1365,12 +1365,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "寡妇",
-      "戏剧",
-      "白天出轨",
       "无码破解",
       "美少女电影",
-      "单体作品"
+      "戏剧",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1454,9 +1454,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "戏剧",
       "美少女电影",
-      "白天出轨",
-      "戏剧"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ATTACKERS",
@@ -1775,8 +1775,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
     "company": "ATTACKERS",

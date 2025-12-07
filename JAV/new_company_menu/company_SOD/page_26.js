@@ -1,5 +1,64 @@
 window.PAGE_DATA = [
   {
+    "id": 86449,
+    "IDcode": "STARS-681",
+    "title": "我这个爱老婆的人-瀬乃みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "荡妇",
+      "女主播",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/8553f8b133cb8a588152714d6cdd66ba.jpg",
+    "actress": [
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-681"
+  },
+  {
+    "id": 219096,
+    "IDcode": "STARS-682",
+    "title": "制作部的副主任-小倉由菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250412-1/f0f2bb0a87d7e03d2b663ab14f274d52.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-682"
+  },
+  {
+    "id": 86451,
+    "IDcode": "STARS-683",
+    "title": "喉奥射精-天宮花南",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "苗条",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蓝井优太",
+      "まーち"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-683"
+  },
+  {
     "id": 86462,
     "IDcode": "STARS-684",
     "title": "首絞め・イラマ・拘束… ノーマルな上司をみるみる変態ドS化させてしまうほど中毒性がヤバいドM部下 新海咲",
@@ -7,10 +66,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "拘束",
       "按摩棒",
       "口交",
-      "戏剧"
+      "戏剧",
+      "拘束"
     ],
     "type": "有码",
     "company": "SOD",
@@ -29,10 +88,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "4K",
       "美少女",
       "首次亮相",
-      "纪录片",
-      "4K"
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
@@ -69,9 +128,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
       "中出",
-      "戏剧"
+      "戏剧",
+      "出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -107,9 +166,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "中出",
-      "制服"
+      "制服",
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -126,9 +185,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
+      "口交",
       "巨乳",
-      "口交"
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -147,8 +206,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "口交"
+      "口交",
+      "巨乳"
     ],
     "type": "有码",
     "company": "SOD",
@@ -165,9 +224,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演",
+      "高中女生",
       "巨乳",
-      "高中女生"
+      "角色扮演"
     ],
     "type": "有码",
     "company": "SOD",
@@ -186,9 +245,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
       "中出",
-      "4K"
+      "4K",
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -248,10 +307,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "角色扮演",
       "中出",
-      "手淫"
+      "手淫",
+      "角色扮演",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -272,8 +331,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "巨乳"
+      "巨乳",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -310,8 +369,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出轨",
-      "戏剧"
+      "戏剧",
+      "出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -330,11 +389,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "淫妻",
       "4K",
-      "戏剧",
       "出轨",
-      "淫妻"
+      "戏剧",
+      "NTR"
     ],
     "type": "有码",
     "company": "SOD",
@@ -368,8 +427,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "中出",
+      "NTR",
       "淫妻"
     ],
     "type": "有码",
@@ -389,9 +448,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "荡妇",
-      "戏剧"
+      "戏剧",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -410,10 +469,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "乳房",
-      "乱伦",
-      "戏剧"
+      "戏剧",
+      "美少女",
+      "乱伦"
     ],
     "type": "有码",
     "company": "SOD",
@@ -430,9 +489,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "口交",
       "巨乳",
-      "口交"
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -453,8 +512,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "无码破解"
+      "无码破解",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -488,9 +547,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
       "中出",
-      "巨乳"
+      "巨乳",
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -509,9 +568,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "苗条",
-      "美少女",
-      "巨乳"
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -531,9 +590,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "4K",
-      "女上位",
+      "美容院",
       "巨乳",
-      "美容院"
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -601,9 +660,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
+      "巨乳",
       "首次亮相",
-      "巨乳"
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -640,8 +699,8 @@ window.PAGE_DATA = [
       "荡妇",
       "纪录片",
       "中出",
-      "手淫",
-      "第一人称摄影"
+      "第一人称摄影",
+      "手淫"
     ],
     "type": "有码",
     "company": "SOD",
@@ -661,8 +720,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "多P"
+      "多P",
+      "潮吹"
     ],
     "type": "有码",
     "company": "SOD",
@@ -681,10 +740,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "出轨",
       "中出",
-      "巨乳"
+      "巨乳",
+      "美少女",
+      "出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -732,10 +791,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
       "无码破解",
-      "肛交",
-      "足交"
+      "足交",
+      "M男",
+      "肛交"
     ],
     "type": "有码",
     "company": "SOD",
@@ -771,11 +830,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "4K",
-      "戏剧",
+      "巨乳",
       "乳交",
       "无码破解",
-      "巨乳"
+      "4K",
+      "戏剧"
     ],
     "type": "有码",
     "company": "SOD",
@@ -811,9 +870,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
+      "高中女生",
       "乳房",
-      "高中女生"
+      "戏剧"
     ],
     "type": "有码",
     "company": "SOD",
@@ -845,10 +904,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
       "出轨",
+      "连裤袜",
       "中出",
-      "连裤袜"
+      "女上位"
     ],
     "type": "有码",
     "company": "SOD",
@@ -867,11 +926,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "中出",
       "4K",
-      "戏剧",
-      "出轨",
       "姐姐",
-      "中出"
+      "出轨",
+      "戏剧"
     ],
     "type": "有码",
     "company": "SOD",
@@ -912,8 +971,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "4K"
+      "4K",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -947,15 +1006,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "調戲",
-      "OL",
-      "羞恥",
-      "內衣",
-      "脅迫做愛",
       "調教",
-      "黑絲",
+      "調戲",
       "巨乳",
-      "無碼破解"
+      "無碼破解",
+      "黑絲",
+      "脅迫做愛",
+      "內衣",
+      "OL",
+      "羞恥"
     ],
     "type": "有码",
     "company": "SOD",
@@ -993,8 +1052,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "中出",
+      "苗条",
       "女上位"
     ],
     "type": "有码",
@@ -1015,9 +1074,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "戏剧",
       "口交",
-      "戏剧"
+      "潮吹"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1035,8 +1094,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "女主播",
       "荡妇",
+      "女主播",
       "戏剧"
     ],
     "type": "有码",
@@ -1056,8 +1115,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "纪录片",
-      "荡妇"
+      "荡妇",
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1076,8 +1135,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "戏剧"
+      "戏剧",
+      "巨乳"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1096,9 +1155,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "第一人称摄影",
       "美少女",
-      "纪录片",
-      "第一人称摄影"
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1198,9 +1257,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
+      "中出",
       "人妻",
-      "中出"
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1218,8 +1277,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "按摩",
-      "巨乳",
-      "戏剧"
+      "戏剧",
+      "巨乳"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1287,8 +1346,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "中出"
+      "中出",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1367,9 +1426,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "4K",
-      "戏剧"
+      "戏剧",
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1389,10 +1448,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "拘束",
       "中出",
-      "无码破解"
+      "无码破解",
+      "戏剧",
+      "拘束"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1411,9 +1470,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "中出",
       "苗条",
-      "出轨",
-      "中出"
+      "出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1432,9 +1491,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "多P",
-      "4K"
+      "4K",
+      "潮吹"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1455,8 +1514,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "4K",
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1509,9 +1568,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
       "4K",
-      "戏剧"
+      "戏剧",
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1530,11 +1589,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "无码破解",
+      "巨乳",
       "纪录片",
+      "无码破解",
       "中出",
-      "巨乳"
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1554,9 +1613,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "纪录片",
       "第一人称摄影",
-      "4K"
+      "4K",
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1610,8 +1669,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "滥交"
+      "滥交",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1628,8 +1687,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1646,8 +1705,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "戏剧"
+      "戏剧",
+      "人妻"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1667,8 +1726,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "业余",
-      "纪录片",
-      "第一人称摄影"
+      "第一人称摄影",
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1747,10 +1806,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "中出",
-      "巨乳",
-      "无码破解"
+      "无码破解",
+      "戏剧",
+      "巨乳"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1789,10 +1848,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "美少女",
       "口交",
-      "情侣"
+      "苗条",
+      "情侣",
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1855,57 +1914,5 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-784"
-  },
-  {
-    "id": 68066,
-    "IDcode": "STARS-785",
-    "title": "在你不应该去的地方做爱-本庄鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "中出"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "本庄鈴",
-      "日森一",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-785"
-  },
-  {
-    "id": 155785,
-    "IDcode": "STARS-786",
-    "title": "濃厚精子8顔射-星乃莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-786"
-  },
-  {
-    "id": 223284,
-    "IDcode": "STARS-787",
-    "title": "便利店打工的主妇-本庄铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-787"
   }
 ];

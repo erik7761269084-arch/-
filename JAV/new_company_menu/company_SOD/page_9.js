@@ -1,5 +1,50 @@
 window.PAGE_DATA = [
   {
+    "id": 217134,
+    "IDcode": "SDDE-474",
+    "title": "女朋友是一个放荡的公主",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-474"
+  },
+  {
+    "id": 526862,
+    "IDcode": "SDDE-476",
+    "title": "大きな乳と小さな体 涩谷果歩 byにしくん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230325/1sdde00476pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-476"
+  },
+  {
+    "id": 579066,
+    "IDcode": "SDDE-479",
+    "title": "（里）手コキクリニック ～完全版～ 性交クリニック9 4时间×8性交SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230522/1sdde479pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-479"
+  },
+  {
     "id": 88213,
     "IDcode": "SDDE-480",
     "title": "【にしくん、初SEX収録】ロリっこ痴女とえっち遊び 椎名そら＆宮崎あや",
@@ -8,11 +53,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "多P",
-      "女同性恋",
+      "处男",
       "萝莉塔",
-      "企画",
-      "处男"
+      "女同性恋",
+      "多P",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -64,9 +109,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
-      "催眠",
       "凌辱",
+      "催眠",
+      "灌肠",
       "戏剧",
       "企画"
     ],
@@ -145,8 +190,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "企画",
       "巨乳",
+      "企画",
       "妓女"
     ],
     "type": "有码",
@@ -161,7 +206,7 @@ window.PAGE_DATA = [
   {
     "id": 591474,
     "IDcode": "SDDE-505",
-    "title": "[] 性欲処理専门 轮奸セックス外来医院 3 真正中出し科",
+    "title": "性欲処理専门 轮奸セックス外来医院 3 真正中出し科",
     "year": "",
     "country": "",
     "genre": "",
@@ -261,10 +306,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "高中女生",
       "学校作品",
       "企画",
-      "颜射",
-      "高中女生"
+      "颜射"
     ],
     "type": "有码",
     "company": "SOD",
@@ -304,11 +349,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "和服，丧服",
       "吞精",
       "口交",
+      "手淫",
       "企画",
-      "手淫"
+      "和服，丧服"
     ],
     "type": "有码",
     "company": "SOD",
@@ -330,11 +375,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "吞精",
-      "4小时以上作品",
-      "护士",
       "口交",
-      "企画",
-      "主观视角"
+      "护士",
+      "4小时以上作品",
+      "主观视角",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -359,10 +404,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "校服",
-      "企画",
+      "高中女生",
       "淫语",
       "主观视角",
-      "高中女生"
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -386,11 +431,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "催眠",
-      "校服",
-      "白天出轨",
       "巨乳",
+      "校服",
+      "高中女生",
       "企画",
-      "高中女生"
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -413,11 +458,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "数位马赛克",
-      "姐姐",
+      "口交",
       "手淫",
-      "企画",
+      "姐姐",
       "各种职业",
-      "口交"
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -457,12 +502,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "人妻",
       "已婚妇女",
-      "立即口交",
+      "潮吹",
       "中出",
-      "企画"
+      "企画",
+      "立即口交"
     ],
     "type": "有码",
     "company": "SOD",
@@ -501,9 +546,9 @@ window.PAGE_DATA = [
     "genres": [
       "吞精",
       "口交",
-      "企画",
       "各种职业",
-      "主观视角"
+      "主观视角",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -567,12 +612,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
       "羞耻",
       "素人作品",
-      "企画",
+      "校服",
+      "高中女生",
       "滥交",
-      "高中女生"
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -625,11 +670,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
       "护士",
       "纪录片",
       "中出",
-      "企画"
+      "企画",
+      "深喉"
     ],
     "type": "有码",
     "company": "SOD",
@@ -663,11 +708,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "主观视角",
-      "女佣",
       "口交",
-      "企画",
-      "接吻"
+      "女佣",
+      "接吻",
+      "主观视角",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -687,11 +732,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女",
-      "女同接吻",
+      "企画",
       "乱伦",
       "女同性恋",
-      "企画"
+      "女同接吻",
+      "美少女"
     ],
     "type": "有码",
     "company": "SOD",
@@ -771,9 +816,9 @@ window.PAGE_DATA = [
       "数位马赛克",
       "荡妇",
       "护士",
-      "企画",
       "淫语",
-      "主观视角"
+      "主观视角",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -810,11 +855,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
       "数位马赛克",
-      "企画",
+      "美容院",
+      "按摩",
       "淫语",
-      "美容院"
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -923,13 +968,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "妄想",
       "乱伦",
-      "立即口交",
-      "艺人",
+      "潮吹",
       "中出",
-      "企画"
+      "艺人",
+      "企画",
+      "立即口交"
     ],
     "type": "有码",
     "company": "SOD",
@@ -967,10 +1012,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "猎艳",
       "业余",
       "中出",
       "素人作品",
+      "猎艳",
       "企画"
     ],
     "type": "有码",
@@ -1039,11 +1084,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "调教",
-      "制服",
       "素人作品",
-      "企画",
-      "滥交"
+      "调教",
+      "滥交",
+      "制服",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1062,9 +1107,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "双性人",
       "催眠",
       "企画",
-      "双性人",
       "女同性恋"
     ],
     "type": "有码",
@@ -1085,12 +1130,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "女主持・主播",
-      "無碼流出",
-      "素人作品",
+      "潮吹",
       "企畫",
-      "放尿"
+      "素人作品",
+      "放尿",
+      "無碼流出"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1141,11 +1186,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女医生",
-      "立即口交",
       "护士",
       "纪录片",
-      "企画"
+      "女医生",
+      "企画",
+      "立即口交"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1167,15 +1212,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "自慰",
+      "角色扮演者",
+      "单体作品",
       "恋物癖",
       "中出",
       "无码流出",
+      "处男",
+      "自慰",
       "素人作品",
-      "角色扮演者",
-      "单体作品",
-      "处男"
+      "戏剧"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1189,7 +1234,7 @@ window.PAGE_DATA = [
   {
     "id": 542079,
     "IDcode": "SDDE-584",
-    "title": "[] パパママ顽张れ！ぬるぬるローションで仲良し家族対抗ハメハメ合戦！！2",
+    "title": "パパママ顽张れ！ぬるぬるローションで仲良し家族対抗ハメハメ合戦！！2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1241,11 +1286,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "催眠",
       "凌辱",
+      "催眠",
       "戏剧",
-      "白天出轨",
-      "企画"
+      "企画",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1281,12 +1326,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "乱伦",
       "中出",
       "素人作品",
-      "口交",
-      "企画",
-      "母亲"
+      "母亲",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1305,11 +1350,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "羞耻",
       "素人作品",
-      "口交",
-      "企画",
-      "滥交"
+      "滥交",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1332,11 +1377,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "吞精",
-      "制服",
-      "素人作品",
       "口交",
-      "企画",
-      "性感的"
+      "性感的",
+      "素人作品",
+      "制服",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1358,10 +1403,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "催眠",
-      "吞精",
       "角色扮演者",
+      "吞精",
+      "催眠",
+      "淫乱，真实",
       "企画"
     ],
     "type": "有码",
@@ -1413,12 +1458,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "战斗行动",
-      "中文字幕",
-      "素人作品",
       "肌肉",
+      "中文字幕",
+      "运动",
+      "素人作品",
       "女上位",
-      "运动"
+      "战斗行动"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1472,13 +1517,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "女主持・主播",
-      "無碼流出",
-      "素人作品",
-      "无码",
+      "潮吹",
       "企畫",
-      "放尿"
+      "素人作品",
+      "放尿",
+      "无码",
+      "無碼流出"
     ],
     "type": "无码",
     "company": "SOD",
@@ -1531,11 +1576,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "户外",
       "荡妇",
-      "魔鬼系",
+      "户外",
       "中文字幕",
+      "魔鬼系",
+      "淫乱，真实",
       "素人作品"
     ],
     "type": "有码",
@@ -1559,9 +1604,9 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦",
       "中出",
+      "第一人称摄影",
       "美少女电影",
-      "素人作品",
-      "第一人称摄影"
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1580,14 +1625,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "白天出轨",
       "护士",
       "中出",
+      "处男",
       "素人作品",
       "感谢祭",
       "淫语",
-      "处男"
+      "女同接吻",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1614,9 +1659,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "潮吹",
-      "乳液",
       "中出",
       "素人作品",
+      "乳液",
       "企画"
     ],
     "type": "有码",
@@ -1644,10 +1689,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "中文字幕",
       "中出",
       "素人作品",
+      "戏剧",
       "企画"
     ],
     "type": "有码",
@@ -1670,10 +1715,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "吞精",
-      "素人作品",
       "口交",
-      "企画",
-      "性感的"
+      "性感的",
+      "素人作品",
+      "企画"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1696,13 +1741,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
       "吞精",
+      "凌辱",
+      "单体作品",
       "魔鬼系",
-      "美少女电影",
-      "素人作品",
       "原作改编",
-      "单体作品"
+      "美少女电影",
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1721,10 +1766,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女战士",
-      "素人作品",
       "科幻",
-      "主观视角"
+      "主观视角",
+      "女战士",
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1761,10 +1806,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "角色扮演者",
       "中出",
       "素人作品",
-      "角色扮演者",
+      "淫乱，真实",
       "企画"
     ],
     "type": "有码",
@@ -1831,10 +1876,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
       "性感的",
-      "企画"
+      "企画",
+      "淫乱，真实",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1875,12 +1920,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "企畫",
-      "多P",
-      "無碼流出",
-      "亂交 • 群P",
       "巨乳",
-      "无码"
+      "無碼流出",
+      "多P",
+      "企畫",
+      "无码",
+      "亂交 • 群P"
     ],
     "type": "无码",
     "company": "SOD",
@@ -1902,10 +1947,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "女主持・主播",
       "企畫",
       "無碼流出",
-      "女主持・主播"
+      "潮吹"
     ],
     "type": "有码",
     "company": "SOD",
@@ -1964,76 +2009,5 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-622"
-  },
-  {
-    "id": 1656,
-    "IDcode": "SDDE-623",
-    "title": "可愛彼女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "自慰",
-      "無碼流出",
-      "蕩婦",
-      "姐姐・妹妹",
-      "企畫"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6c4703bdfbb34a6f876847e463ab5e73.jpg",
-    "actress": [
-      "美園和花",
-      "天馬唯",
-      "加藤桃香",
-      "葵玲奈",
-      "安部未華子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-623"
-  },
-  {
-    "id": 209256,
-    "IDcode": "SDDE-624",
-    "title": "事故物件留学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-624"
-  },
-  {
-    "id": 1621,
-    "IDcode": "SDDE-625",
-    "title": "淫乱学園",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "兩女一男",
-      "淫亂",
-      "中出",
-      "無碼流出",
-      "企畫",
-      "學校",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230331/20230331012934459459.jpg",
-    "actress": [
-      "大槻响",
-      "篠田優",
-      "古川伊織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-625"
   }
 ];

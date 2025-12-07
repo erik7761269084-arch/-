@@ -7,9 +7,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "猥褻穿著",
       "中出",
       "美少女電影",
+      "猥褻穿著",
       "亂交 • 群P"
     ],
     "type": "有码",
@@ -30,12 +30,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫語",
+      "中出",
+      "女上司",
+      "短裙・迷你裙",
       "辦公室",
       "OL",
-      "中出",
-      "短裙・迷你裙",
-      "女上司"
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -55,12 +55,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
       "出道作",
-      "出道作品",
-      "處女",
       "大小姐",
-      "苗條"
+      "處女",
+      "苗條",
+      "美少女電影",
+      "出道作品"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -79,12 +79,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "人妻",
-      "多P",
       "乱伦",
-      "出道作品",
-      "苗條"
+      "潮吹",
+      "苗條",
+      "多P",
+      "出道作品"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -107,8 +107,8 @@ window.PAGE_DATA = [
     "genres": [
       "出道作品",
       "姐姐・妹妹",
-      "巨乳",
-      "出道作"
+      "出道作",
+      "巨乳"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -129,12 +129,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
       "淫亂",
+      "潮吹",
+      "女上位",
+      "美少女電影",
       "4小時以上作品",
-      "姐姐・妹妹",
-      "女上位"
+      "姐姐・妹妹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -154,9 +154,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "美少女電影",
-      "放尿"
+      "放尿",
+      "潮吹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -177,11 +177,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "淫亂",
-      "4小時以上作品",
       "巨乳",
-      "無碼破解"
+      "淫亂",
+      "無碼破解",
+      "4小時以上作品",
+      "多P"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -203,9 +203,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "美少女電影",
       "打手槍",
       "偶像",
-      "美少女電影",
       "接吻"
     ],
     "type": "有码",
@@ -226,13 +226,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "眼鏡",
       "勾引・誘惑",
+      "眼鏡",
       "中文字幕",
-      "文藝女",
+      "美少女電影",
+      "放尿",
       "蕩婦",
-      "放尿"
+      "文藝女"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -251,9 +251,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
+      "美少女電影",
       "女友閨蜜",
-      "美少女電影"
+      "出軌"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -272,13 +272,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "運動服裝",
-      "美少女電影",
-      "流汗",
-      "JK校服",
-      "制服",
       "巨乳",
-      "接吻"
+      "流汗",
+      "美少女電影",
+      "運動服裝",
+      "接吻",
+      "JK校服",
+      "制服"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -297,10 +297,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
       "中出",
       "制服",
-      "巨乳"
+      "巨乳",
+      "多P"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -322,10 +322,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
       "偷窺",
       "中出",
-      "純愛・戀愛"
+      "純愛・戀愛",
+      "出軌"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -345,10 +345,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "輪姦",
       "凌辱",
-      "女學生",
       "中文字幕",
+      "女學生",
+      "輪姦",
       "按摩棒"
     ],
     "type": "有码",
@@ -369,12 +369,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
+      "女同事",
+      "出軌",
       "美少女電影",
       "OL",
-      "出軌",
       "出差",
-      "女同事"
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -394,8 +394,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "公公",
       "老頭子",
+      "公公",
       "中出",
       "苗條",
       "接吻"
@@ -417,12 +417,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "輪姦",
       "性騷擾",
-      "高跟鞋",
-      "電車",
       "中出",
-      "放尿"
+      "電車",
+      "高跟鞋",
+      "放尿",
+      "輪姦"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -442,10 +442,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
+      "出道作品",
       "淫亂",
       "女上位",
-      "出道作品"
+      "潮吹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -468,12 +468,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "凌辱",
-      "緊縛",
-      "自拍性愛",
-      "姐姐・妹妹",
       "巨乳",
-      "靴子",
-      "接吻"
+      "自拍性愛",
+      "緊縛",
+      "姐姐・妹妹",
+      "接吻",
+      "靴子"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -493,13 +493,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
-      "多P",
       "淫亂",
-      "亂交 • 群P",
+      "潮吹",
+      "乱交",
       "女上位",
-      "乱交"
+      "美少女電影",
+      "亂交 • 群P",
+      "多P"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -518,13 +518,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "按摩・美容店",
+      "口交",
       "風俗娘",
-      "主觀視角",
-      "按摩・物理治療・美容",
       "風俗夜場",
-      "口交"
+      "主觀視角",
+      "美少女電影",
+      "按摩・物理治療・美容",
+      "按摩・美容店"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -543,10 +543,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗條",
-      "亂交 • 群P",
       "美少女電影",
-      "接吻"
+      "苗條",
+      "接吻",
+      "亂交 • 群P"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -567,10 +567,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "痴汉",
+      "戏剧",
       "性骚扰",
-      "偷窥",
-      "戏剧"
+      "痴汉",
+      "偷窥"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -590,12 +590,12 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "自拍性愛",
-      "出軌",
       "巨乳",
       "口交",
-      "女同事"
+      "女同事",
+      "自拍性愛",
+      "出軌",
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -614,13 +614,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "學校",
       "美少女電影",
       "女學生",
+      "蕩婦",
       "JK校服",
       "制服",
-      "過膝襪・小腿襪",
-      "蕩婦",
-      "學校"
+      "過膝襪・小腿襪"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -639,11 +639,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫語",
-      "女教師",
       "中出",
       "蕩婦",
-      "騎乗位"
+      "騎乗位",
+      "女教師",
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -662,11 +662,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "淫妻",
-      "姐姐・妹妹",
       "口交",
+      "淫妻",
+      "乱伦",
       "蕩婦",
+      "姐姐・妹妹",
       "接吻"
     ],
     "type": "有码",
@@ -686,10 +686,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "飯店小姐・援交妹",
       "姐姐・妹妹",
-      "自拍性愛",
       "應召・援交",
-      "飯店小姐・援交妹"
+      "自拍性愛"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -708,9 +708,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "流汗",
       "主觀視角",
+      "潮吹",
       "高跟鞋",
       "接吻"
     ],
@@ -731,11 +731,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "和服・浴衣・喪服",
+      "人妻",
       "流汗",
-      "出差",
-      "中出"
+      "中出",
+      "出差"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -754,10 +754,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "學校",
-      "輪姦",
       "中出",
-      "女教師"
+      "輪姦",
+      "女教師",
+      "學校"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -779,10 +779,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "吞精",
-      "乱伦",
+      "巨乳",
       "出軌",
-      "中出",
-      "巨乳"
+      "乱伦",
+      "中出"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -802,11 +802,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
       "巨尻",
       "淫亂",
-      "出道作品",
-      "苗條"
+      "苗條",
+      "女學生",
+      "出道作品"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -826,10 +826,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "精選綜合",
-      "姐姐・妹妹",
-      "素人作品",
       "巨乳",
-      "苗條"
+      "苗條",
+      "素人作品",
+      "姐姐・妹妹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -849,10 +849,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "精選綜合",
+      "巨乳",
       "出軌",
       "中出",
-      "素人作品",
-      "巨乳"
+      "素人作品"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -871,11 +871,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "風俗娘",
       "精選綜合",
-      "姐姐・妹妹",
+      "風俗娘",
+      "口交",
       "素人作品",
-      "口交"
+      "姐姐・妹妹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -894,12 +894,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "風俗娘",
       "精選綜合",
+      "風俗娘",
+      "口交",
+      "風俗夜場",
       "偶像",
       "素人作品",
-      "風俗夜場",
-      "口交",
       "放尿"
     ],
     "type": "有码",
@@ -919,13 +919,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精選綜合",
+      "口交",
+      "顏射",
+      "素人作品",
       "角色扮演",
       "美少女電影",
-      "多P",
-      "精選綜合",
-      "素人作品",
-      "口交",
-      "顏射"
+      "多P"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -944,14 +944,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
-      "淫亂",
       "精選綜合",
-      "素人作品",
       "巨乳",
+      "淫亂",
+      "潮吹",
       "無碼破解",
-      "苗條"
+      "苗條",
+      "素人作品",
+      "美少女電影"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -973,15 +973,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
       "精選綜合",
-      "JK校服",
+      "巨乳",
       "乱伦",
+      "無碼破解",
       "黑絲",
       "素人作品",
-      "巨乳",
+      "美少女電影",
       "偷窺",
-      "無碼破解"
+      "JK校服"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1000,12 +1000,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫語",
       "精選綜合",
+      "口交",
       "出軌",
       "素人作品",
-      "口交",
-      "紀錄片"
+      "紀錄片",
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1039,12 +1039,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "淫語",
       "精選綜合",
       "M男・M女",
+      "素人作品",
+      "美少女電影",
       "蕩婦",
-      "素人作品"
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1064,16 +1064,16 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "多P",
-      "夫妻交換",
       "精選綜合",
+      "人妻",
       "淫妻",
+      "夫妻交換",
       "出軌",
       "中出",
       "素人作品",
       "亂交 • 群P",
-      "接吻"
+      "接吻",
+      "多P"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1095,18 +1095,18 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "美少女電影",
-      "OL",
       "精選綜合",
+      "女同事",
       "自拍性愛",
       "出軌",
-      "黑絲",
       "中出",
-      "出差",
-      "素人作品",
       "無碼破解",
-      "女同事"
+      "黑絲",
+      "素人作品",
+      "美少女電影",
+      "OL",
+      "出差",
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1126,12 +1126,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女",
-      "出道作品",
-      "中文字幕",
       "口交",
-      "巨乳"
+      "巨乳",
+      "中文字幕",
+      "潮吹",
+      "出道作品",
+      "美少女"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1150,14 +1150,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "精選綜合",
+      "口交",
+      "中文字幕",
+      "素人作品",
       "美少女電影",
       "女學生",
       "多P",
-      "精選綜合",
       "出道作品",
-      "中文字幕",
-      "素人作品",
-      "口交",
       "業餘"
     ],
     "type": "有码",
@@ -1177,12 +1177,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
-      "按摩・美容店",
       "嫩妹",
+      "潮吹",
+      "苗條",
+      "美少女電影",
       "亂交 • 群P",
-      "苗條"
+      "按摩・美容店"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1204,10 +1204,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "凌辱",
-      "賽車女郎",
       "出軌",
       "姐姐・妹妹",
-      "靴子"
+      "靴子",
+      "賽車女郎"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1226,9 +1226,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "淫亂",
       "中出",
+      "潮吹",
       "姐姐・妹妹",
       "蕩婦"
     ],
@@ -1249,12 +1249,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "局部特寫",
-      "淫語",
-      "拘束・拷問",
       "中出",
+      "局部特寫",
+      "拘束・拷問",
+      "女上司",
       "蕩婦",
-      "女上司"
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1274,8 +1274,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "乱伦",
-      "黑絲",
       "中出",
+      "黑絲",
       "姐姐・妹妹",
       "蕩婦",
       "接吻"
@@ -1297,12 +1297,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "亂倫",
-      "女學生",
-      "淫亂",
       "姐弟・兄妹",
       "乱伦",
-      "姐姐・妹妹"
+      "淫亂",
+      "女學生",
+      "姐姐・妹妹",
+      "亂倫"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1322,11 +1322,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "美少女電影",
+      "口交",
       "自拍性愛",
       "出軌",
-      "口交"
+      "美少女電影",
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1346,13 +1346,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "學校",
+      "偶像",
+      "蕩婦",
       "女學生",
       "JK校服",
-      "偶像",
-      "制服",
-      "蕩婦",
-      "巨乳",
-      "學校"
+      "制服"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1371,13 +1371,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女學生",
-      "辦公室",
-      "多P",
-      "OL",
+      "巨乳",
       "自拍性愛",
       "高跟鞋",
-      "巨乳"
+      "女學生",
+      "辦公室",
+      "OL",
+      "多P"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1397,12 +1397,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "蒙面・面罩",
+      "中出",
       "美少女電影",
       "女學生",
       "多P",
-      "JK校服",
-      "蒙面・面罩",
-      "中出"
+      "JK校服"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1422,9 +1422,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "性感",
+      "絕頂高潮",
       "苗條",
-      "接吻",
-      "絕頂高潮"
+      "接吻"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1445,9 +1445,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
+      "口交",
       "自拍性愛",
-      "口交"
+      "出軌"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1466,12 +1466,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "淫語",
       "乱伦",
       "中出",
+      "苗條",
+      "美少女電影",
       "姐姐・妹妹",
-      "苗條"
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1516,9 +1516,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "出道作品",
+      "口交",
       "女學生",
-      "自拍性愛",
-      "口交"
+      "自拍性愛"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1537,12 +1537,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "出道作",
-      "出道作品",
-      "姐姐・妹妹",
       "巨乳",
-      "苗條"
+      "出道作",
+      "苗條",
+      "美少女電影",
+      "姐姐・妹妹",
+      "出道作品"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1561,11 +1561,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "出道作",
       "潮吹",
       "美少女電影",
-      "出道作",
-      "出道作品",
-      "口交"
+      "出道作品"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1584,11 +1584,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "退休作品",
       "流汗",
       "主觀視角",
-      "4小時以上作品",
       "中出",
+      "退休作品",
+      "4小時以上作品",
       "姐姐・妹妹"
     ],
     "type": "有码",
@@ -1608,8 +1608,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "制服",
       "美少女電影",
+      "制服",
       "口交",
       "自拍性愛"
     ],
@@ -1631,10 +1631,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "主觀視角",
-      "姐姐・妹妹",
-      "蕩婦",
       "口交",
+      "主觀視角",
+      "蕩婦",
+      "姐姐・妹妹",
       "接吻"
     ],
     "type": "有码",
@@ -1654,10 +1654,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "主觀視角",
-      "乱伦",
       "出軌",
+      "主觀視角",
       "中出",
+      "乱伦",
       "姐姐・妹妹"
     ],
     "type": "有码",
@@ -1677,13 +1677,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
+      "少女",
+      "出軌",
+      "模特兒",
+      "偶像",
       "美少女電影",
       "多P",
-      "偶像",
-      "出軌",
-      "少女",
-      "模特兒"
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1704,9 +1704,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "打手槍",
+      "出軌",
       "自拍性愛",
       "乱伦",
-      "出軌",
       "劇情",
       "小姨子"
     ],
@@ -1730,14 +1730,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潛入",
-      "輪姦",
       "凌辱",
-      "女搜查官",
+      "巨乳",
       "拘束・拷問",
       "戰鬥行動",
-      "巨乳",
-      "劇情"
+      "輪姦",
+      "劇情",
+      "女搜查官",
+      "潛入"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1757,13 +1757,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "美少女電影",
-      "OL",
+      "巨乳",
       "自拍性愛",
       "黑絲",
+      "美少女電影",
+      "OL",
       "出差",
-      "巨乳"
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1785,10 +1785,10 @@ window.PAGE_DATA = [
       "女僕制服",
       "乱伦",
       "黑絲",
-      "過膝襪・小腿襪",
       "足交",
       "蕩婦",
-      "姐姐・妹妹"
+      "姐姐・妹妹",
+      "過膝襪・小腿襪"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1807,10 +1807,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "女同",
       "自拍性愛",
       "出軌",
       "中出",
-      "女同",
       "姐姐・妹妹",
       "性感"
     ],
@@ -1831,11 +1831,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "淫妻",
       "出軌",
       "中出",
-      "劇情"
+      "劇情",
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1856,10 +1856,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "風俗娘",
-      "中出",
-      "姐姐・妹妹",
+      "巨乳",
       "風俗夜場",
-      "巨乳"
+      "中出",
+      "姐姐・妹妹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1878,11 +1878,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
       "巨尻",
+      "顏射",
+      "美少女電影",
       "蕩婦",
-      "姐姐・妹妹",
-      "顏射"
+      "姐姐・妹妹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1902,11 +1902,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
       "自拍性愛",
-      "出道作品",
-      "黑絲"
+      "潮吹",
+      "黑絲",
+      "美少女電影",
+      "出道作品"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1927,9 +1927,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "女僕制服",
+      "口交",
       "自拍性愛",
       "蕩婦",
-      "口交",
       "抹油"
     ],
     "type": "有码",
@@ -1953,13 +1953,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "輪姦",
-      "女教師",
-      "黑絲",
-      "按摩棒",
-      "劇情",
       "學校",
-      "顏射"
+      "黑絲",
+      "顏射",
+      "劇情",
+      "女教師",
+      "輪姦",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -1979,10 +1979,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
-      "女友閨蜜",
       "中出",
-      "接吻"
+      "女友閨蜜",
+      "接吻",
+      "出軌"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2001,9 +2001,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "戀物癖",
-      "女學生"
+      "女學生",
+      "潮吹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2025,11 +2025,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "淫語",
       "M男・M女",
+      "美少女電影",
+      "蕩婦",
       "過膝襪・小腿襪",
-      "蕩婦"
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2051,9 +2051,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "胸控・戀乳癖",
-      "乱伦",
+      "巨乳",
       "乳交",
-      "巨乳"
+      "乱伦"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2072,11 +2072,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "美少女電影",
-      "流汗",
-      "制服",
       "巨乳",
-      "接吻"
+      "流汗",
+      "美少女電影",
+      "接吻",
+      "制服"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2095,14 +2095,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "中出",
+      "無碼破解",
+      "黑絲",
       "女上位",
       "高跟鞋",
-      "黑絲",
-      "中出",
       "蕩婦",
-      "口交",
-      "性感",
-      "無碼破解"
+      "性感"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2122,14 +2122,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫語",
-      "OL",
       "勾引・誘惑",
-      "黑絲",
-      "中出",
-      "短裙・迷你裙",
       "口交",
-      "女上司"
+      "中出",
+      "女上司",
+      "黑絲",
+      "短裙・迷你裙",
+      "OL",
+      "淫語"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2148,9 +2148,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
       "中出",
-      "口交"
+      "口交",
+      "出軌"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2169,11 +2169,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "黑絲",
+      "巨乳",
       "中出",
+      "黑絲",
       "姐姐・妹妹",
-      "蕩婦",
-      "巨乳"
+      "蕩婦"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2195,11 +2195,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
-      "淫亂",
       "巨乳",
-      "苗條"
+      "淫亂",
+      "潮吹",
+      "苗條",
+      "美少女電影"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2218,10 +2218,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "美少女電影",
       "淫亂",
+      "潮吹",
       "拘束・拷問",
+      "美少女電影",
       "抹油"
     ],
     "type": "有码",
@@ -2241,13 +2241,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "自拍性愛",
       "勾引・誘惑",
-      "出軌",
-      "姐姐・妹妹",
-      "巨乳",
       "口交",
-      "女上司"
+      "巨乳",
+      "自拍性愛",
+      "出軌",
+      "女上司",
+      "姐姐・妹妹"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2267,11 +2267,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "和服・浴衣・喪服",
+      "巨乳",
       "流汗",
       "強姦",
       "出軌",
-      "出差",
-      "巨乳"
+      "出差"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2291,11 +2291,11 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
       "淫妻",
       "出軌",
       "中出",
-      "劇情"
+      "劇情",
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2314,15 +2314,15 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
       "和服・浴衣・喪服",
-      "女友・妻子",
-      "夫妻交換",
+      "絕頂高潮",
       "淫妻",
+      "夫妻交換",
       "出軌",
       "中出",
+      "女友・妻子",
       "亂交 • 群P",
-      "絕頂高潮"
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2342,11 +2342,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "NTR",
-      "拘束・拷問",
+      "口交",
       "出軌",
       "中出",
-      "口交"
+      "拘束・拷問",
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2365,10 +2365,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
-      "女友閨蜜",
       "中出",
-      "拘束・拷問"
+      "女友閨蜜",
+      "拘束・拷問",
+      "出軌"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2388,13 +2388,13 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "NTR",
-      "OL",
-      "出軌",
-      "出差",
-      "中出",
       "巨乳",
-      "口交"
+      "口交",
+      "出軌",
+      "中出",
+      "OL",
+      "出差",
+      "NTR"
     ],
     "type": "有码",
     "company": "IDEA POCKET",
@@ -2413,13 +2413,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "猥褻穿著",
-      "黑絲",
-      "過膝襪・小腿襪",
       "中出",
+      "黑絲",
+      "猥褻穿著",
+      "女上位",
       "蕩婦",
       "姐姐・妹妹",
-      "女上位"
+      "過膝襪・小腿襪"
     ],
     "type": "有码",
     "company": "IDEA POCKET",

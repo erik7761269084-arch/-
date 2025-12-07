@@ -22,8 +22,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻",
-      "巨乳"
+      "巨乳",
+      "淫妻"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -136,10 +136,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "内衣",
+      "巨乳",
       "姐姐",
       "OL",
-      "巨乳"
+      "内衣"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -332,8 +332,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "新娘，年轻妻子",
       "巨乳",
+      "新娘，年轻妻子",
       "白天出轨"
     ],
     "type": "有码",
@@ -354,9 +354,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "中出",
-      "乳交",
+      "白天出轨",
       "巨乳",
-      "白天出轨"
+      "乳交"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -373,10 +373,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "中出",
+      "女教师",
       "巨乳",
-      "女教师"
+      "苗条"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -475,9 +475,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
       "中出",
-      "妹妹"
+      "妹妹",
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -496,9 +496,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
+      "高中女生",
       "校服",
-      "高中女生"
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -517,10 +517,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "多P",
-      "女上位",
       "妹妹",
-      "童年朋友"
+      "童年朋友",
+      "女上位",
+      "多P"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -541,10 +541,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "各种职业",
       "中出",
-      "口交",
-      "企画"
+      "各种职业",
+      "企画",
+      "口交"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -563,11 +563,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "童年朋友",
       "中出",
       "女上位",
-      "高中女生"
+      "高中女生",
+      "苗条"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -586,10 +586,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "高中女生",
-      "中出",
-      "平胸"
+      "平胸",
+      "苗条",
+      "中出"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -608,9 +608,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "中出",
       "OL",
-      "中出"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -629,12 +629,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "新娘，年轻妻子",
-      "姐姐",
+      "淫乱，真实",
       "两女一男",
-      "母亲"
+      "姐姐",
+      "母亲",
+      "新娘，年轻妻子"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -654,10 +654,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "内衣",
       "乳房",
-      "美少女电影"
+      "美少女电影",
+      "淫乱，真实",
+      "内衣"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -676,10 +676,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "巨乳",
       "乱伦",
       "中出",
-      "巨乳",
+      "淫乱，真实",
       "妹妹"
     ],
     "type": "有码",
@@ -701,9 +701,9 @@ window.PAGE_DATA = [
     "genres": [
       "荡妇",
       "中出",
-      "妹妹",
       "女上位",
-      "女生"
+      "女生",
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -722,12 +722,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "4小时以上作品",
+      "巨乳",
       "中出",
-      "妹妹",
-      "巨乳"
+      "淫乱，真实",
+      "4小时以上作品",
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -747,10 +747,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "手淫",
+      "高中女生",
       "足交",
-      "巨乳",
-      "高中女生"
+      "手淫",
+      "巨乳"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -769,12 +769,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "人妻",
       "中出",
-      "妹妹",
+      "淫乱，真实",
       "女上位",
-      "女生"
+      "女生",
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -793,8 +793,8 @@ window.PAGE_DATA = [
     "genres": [
       "中出",
       "美少女电影",
-      "口交",
-      "高中女生"
+      "高中女生",
+      "口交"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -813,11 +813,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "女大学生",
-      "巨乳",
       "口交",
-      "女上位"
+      "巨乳",
+      "淫乱，真实",
+      "女上位",
+      "女大学生"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -836,11 +836,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "乱伦",
       "中出",
-      "妹妹",
       "女上位",
-      "单体作品"
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -857,12 +857,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "姐姐",
+      "单体作品",
       "中出",
-      "妹妹",
+      "淫乱，真实",
       "女生",
-      "单体作品"
+      "姐姐",
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -881,11 +881,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "单体作品",
       "乱伦",
       "中出",
-      "巨乳",
-      "妹妹",
-      "单体作品"
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -904,11 +904,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "屁股",
-      "肛交",
-      "女上位",
       "单体作品",
-      "高中女生"
+      "屁股",
+      "女上位",
+      "高中女生",
+      "肛交"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -927,11 +927,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
       "恋乳癖",
+      "单体作品",
       "巨乳",
       "服务生",
-      "单体作品",
+      "中出",
       "高中女生"
     ],
     "type": "有码",
@@ -949,12 +949,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
+      "单体作品",
       "已婚妇女",
       "中出",
+      "淫乱，真实",
       "女上位",
-      "单体作品"
+      "苗条"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -973,8 +973,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
-      "巨乳"
+      "巨乳",
+      "乱伦"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1042,13 +1042,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
       "荡妇",
+      "单体作品",
       "乱伦",
       "中出",
-      "妹妹",
-      "单体作品"
+      "淫乱，真实",
+      "苗条",
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1067,13 +1067,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "乱伦",
-      "姐姐",
       "口交",
-      "女生",
       "单体作品",
-      "处男"
+      "乱伦",
+      "处男",
+      "女生",
+      "姐姐",
+      "苗条"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1092,12 +1092,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "乳房",
-      "中出",
       "口交",
       "巨乳",
-      "女上位",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "乳房",
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1114,12 +1114,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
+      "单体作品",
       "巨大屁股",
-      "白天出轨",
       "中出",
       "女上位",
-      "单体作品"
+      "苗条",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1138,13 +1138,13 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "新娘，年轻妻子",
-      "白天出轨",
-      "中出",
       "巨乳",
+      "单体作品",
+      "中出",
+      "淫乱，真实",
       "女上位",
-      "单体作品"
+      "新娘，年轻妻子",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1163,11 +1163,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "童年朋友",
-      "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1184,11 +1184,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "单体作品",
       "乱伦",
       "中出",
-      "妹妹",
-      "单体作品"
+      "淫乱，真实",
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1207,11 +1207,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "戏剧",
+      "单体作品",
       "巨大屁股",
-      "单体作品"
+      "淫乱，真实",
+      "戏剧"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1230,10 +1230,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女上位",
+      "口交",
       "单体作品",
       "巨乳",
-      "口交"
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1252,12 +1252,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "姐姐",
-      "中出",
       "口交",
+      "单体作品",
+      "中出",
+      "淫乱，真实",
       "女上位",
-      "单体作品"
+      "姐姐"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1289,10 +1289,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
       "中出",
       "美少女电影",
       "女上位",
-      "单体作品",
       "高中女生"
     ],
     "type": "有码",
@@ -1313,12 +1313,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "乱伦",
+      "巨乳",
+      "单体作品",
       "乳交",
       "中出",
-      "巨乳",
-      "单体作品"
+      "乱伦",
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1336,10 +1336,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "童年朋友",
-      "美少女电影",
+      "单体作品",
       "中出",
-      "颜射",
-      "单体作品"
+      "美少女电影",
+      "颜射"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1358,11 +1358,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "眼镜",
+      "单体作品",
+      "巨乳",
       "乳交",
       "中出",
-      "巨乳",
-      "单体作品"
+      "眼镜"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1381,10 +1381,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "巨乳",
-      "女上位",
-      "单体作品"
+      "单体作品",
+      "淫乱，真实",
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1403,12 +1403,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "女大学生",
+      "单体作品",
       "中出",
+      "淫乱，真实",
       "女上位",
       "女生",
-      "单体作品"
+      "女大学生"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1427,12 +1427,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "校服",
-      "内衣",
-      "乱伦",
-      "女生",
       "单体作品",
-      "高中女生"
+      "乱伦",
+      "校服",
+      "高中女生",
+      "女生",
+      "内衣"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1452,10 +1452,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
-      "M男",
       "巨乳",
       "单体作品",
-      "处男"
+      "处男",
+      "M男"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1489,11 +1489,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
+      "单体作品",
       "中出",
       "美少女电影",
-      "口交",
-      "女上位",
-      "单体作品"
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1527,12 +1527,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "人妻",
+      "单体作品",
       "已婚妇女",
       "中出",
       "女上位",
-      "单体作品"
+      "苗条"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1567,12 +1567,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "乱伦",
       "口交",
       "巨乳",
-      "女上位",
-      "单体作品"
+      "单体作品",
+      "乱伦",
+      "淫乱，真实",
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1592,10 +1592,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "童年朋友",
+      "单体作品",
       "中出",
       "美少女电影",
-      "女上位",
-      "单体作品"
+      "女上位"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1663,12 +1663,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "口交",
+      "单体作品",
       "寡妇",
       "中出",
-      "口交",
       "手淫",
-      "单体作品"
+      "淫乱，真实"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1685,12 +1685,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "单体作品",
       "屁股",
-      "美少女电影",
       "中出",
-      "妹妹",
-      "单体作品"
+      "美少女电影",
+      "淫乱，真实",
+      "妹妹"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1709,11 +1709,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
-      "女教师",
+      "单体作品",
       "中出",
-      "单体作品"
+      "淫乱，真实",
+      "女教师",
+      "苗条"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1732,12 +1732,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "人妻",
+      "单体作品",
       "已婚妇女",
-      "新娘，年轻妻子",
       "中出",
-      "单体作品"
+      "淫乱，真实",
+      "新娘，年轻妻子"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1756,14 +1756,14 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "NTR",
-      "白天出轨",
+      "单体作品",
       "淫妻",
       "中出",
       "美少女电影",
-      "单体作品",
-      "高中女生"
+      "淫乱，真实",
+      "高中女生",
+      "NTR",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1782,12 +1782,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
       "荡妇",
-      "中出",
       "巨乳",
-      "各种职业",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "各种职业"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1807,12 +1807,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "苗条",
-      "姐姐",
-      "中出",
       "口交",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "姐姐",
+      "苗条"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1848,12 +1848,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "多P",
-      "OL",
-      "肛交",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "淫乱，真实",
+      "OL",
+      "多P",
+      "肛交"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1906,9 +1906,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "荡妇",
+      "单体作品",
       "中出",
       "女上位",
-      "单体作品",
       "高中女生"
     ],
     "type": "有码",
@@ -1943,10 +1943,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
+      "单体作品",
       "中出",
       "美少女电影",
-      "单体作品",
+      "淫乱，真实",
       "高中女生"
     ],
     "type": "有码",
@@ -1966,12 +1966,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "中出",
       "口交",
       "巨乳",
-      "女生",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "女生"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -1990,12 +1990,12 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "巨大阴茎",
-      "中出",
       "口交",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "巨大阴茎"
     ],
     "type": "有码",
     "company": "ROYAL",
@@ -2014,10 +2014,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "OL",
       "中出",
       "巨乳",
-      "单体作品"
+      "单体作品",
+      "OL"
     ],
     "type": "有码",
     "company": "ROYAL",

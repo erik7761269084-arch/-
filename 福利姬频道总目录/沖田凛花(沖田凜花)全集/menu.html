@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../advertiseStyle.css">
-  <title></title>
-</head>
-<body>
-  <h1 id="page-title"></h1>
-
-  <!-- 广告模块 -->
-  <div id="advertise">
-    <object data="../../advertise.html" type="text/html"></object>
-    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
-  </div>
-
-  <hr>
-  <script>
-    // 获取当前路径
-    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
-    // 取倒数第二个部分作为目录名
-    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
-
-    // 设置标题
-    document.getElementById("page-title").innerText = folderName + " 资源目录";
-    document.title = folderName; // 同时修改网页标签标题
-  </script>
- 
   <p><a href="https://telegra.ph/%E6%B2%96%E7%94%B0%E5%87%9B%E8%8A%B1---Hamburger-girl-08-19">沖田凛花 - Hamburger girl</a></p> 
   <p><a href="https://telegra.ph/%E6%B2%96%E7%94%B0%E5%87%9B%E8%8A%B1---Lynette-sweater-08-20">沖田凛花 - Lynette sweater</a></p>
   <p><a href="https://telegra.ph/%E6%B2%96%E7%94%B0%E5%87%9B%E8%8A%B1-Toki-08-22">沖田凛花 Toki</a></p>
@@ -117,6 +88,3 @@
   <p><a href="https://telegra.ph/沖田凜花Rinka---生死格斗-泳装-萝丝玛莉-08-27">沖田凜花Rinka - 生死格斗-泳装 萝丝玛莉</a></p>
   <p><a href="https://telegra.ph/沖田凜花Rinka---蕾姆-08-27">沖田凜花Rinka - 蕾姆</a></p>
   <p><a href="https://telegra.ph/Miyana咪呀---沖田総司-水着爱丽丝写真-08-27">Miyana咪呀 - 沖田総司 水着爱丽丝写真</a></p>
-
-</body>
-</html>

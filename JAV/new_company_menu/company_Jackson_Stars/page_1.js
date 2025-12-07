@@ -22,8 +22,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -125,8 +125,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -160,8 +160,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -247,8 +247,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -282,8 +282,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -470,8 +470,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -556,8 +556,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -659,8 +659,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -695,9 +695,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
+      "淫妻",
       "NTR",
-      "淫妻"
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -743,7 +743,7 @@ window.PAGE_DATA = [
   {
     "id": 532575,
     "IDcode": "390JAC-149",
-    "title": "[] 【セックスレス人妻】【キスハメ大好き】1年もSEXしてないという訳あり人妻とご対面！",
+    "title": "【セックスレス人妻】【キスハメ大好き】1年もSEXしてないという訳あり人妻とご対面！",
     "year": "",
     "country": "",
     "genre": "",
@@ -767,8 +767,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "淫妻"
+      "淫妻",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -785,8 +785,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -832,7 +832,7 @@ window.PAGE_DATA = [
   {
     "id": 533094,
     "IDcode": "390JAC-159",
-    "title": "[] 【Gカップ细身ボディ】【性欲が止まらない不贞妻】旦那とセフレが居ても刺激が足りない人妻アラサーちゃん！",
+    "title": "【Gカップ细身ボディ】【性欲が止まらない不贞妻】旦那とセフレが居ても刺激が足りない人妻アラサーちゃん！",
     "year": "",
     "country": "",
     "genre": "",
@@ -856,8 +856,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -874,8 +874,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -943,8 +943,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -961,8 +961,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -979,8 +979,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -997,8 +997,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1015,8 +1015,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1101,8 +1101,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1153,9 +1153,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "素人",
-      "乱交",
-      "巨乳"
+      "乱交"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1189,8 +1189,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1207,8 +1207,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1226,8 +1226,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "人妻",
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1278,8 +1278,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "巨乳"
+      "巨乳",
+      "素人"
     ],
     "type": "有码",
     "company": "Jackson Stars",
@@ -1289,9 +1289,276 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-221"
   },
   {
-    "id": 519870,
-    "IDcode": "90JAC-115",
-    "title": "整洁美丽人妻的密集性爱",
+    "id": 531631,
+    "IDcode": "390JNT-008",
+    "title": "【世界级！どエロBODY】イ●スタにエロい自撮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240224-1/0ab3259edf3c97f1e7e56366529ca175.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-008"
+  },
+  {
+    "id": 531629,
+    "IDcode": "390JNT-009",
+    "title": "【上々万全ハイクラス美女】イ●スタにエ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240224-1/d01388ebf2630b6658bb235524b3e39b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-009"
+  },
+  {
+    "id": 176865,
+    "IDcode": "390JNT-010",
+    "title": "在INS上传色情照和拥有肉臀的轻浮色女辣妹发生肉体关系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/18/7d9cf30fc6a59a2da9098cb8abd22a81.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-010"
+  },
+  {
+    "id": 176251,
+    "IDcode": "390JNT-012",
+    "title": "在SNS上登载色情自拍体液狂的变态护士美巨乳&桃臀痉挛绝顶潮吹连发身是汗和体液混合的汁液SEX太色情了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/20/c0465fbd2f8b7e54f22c0ba26435b674.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-012"
+  },
+  {
+    "id": 175601,
+    "IDcode": "390JNT-014",
+    "title": "让男1000\\%高潮的性豪华随意操小穴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/24/703e04749c75619a73f3e81a0e27f9c2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-014"
+  },
+  {
+    "id": 196676,
+    "IDcode": "390JNT-015",
+    "title": "工作室的女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/03/5e6ccb2ab25d79d2c20f823f6500c036.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-015"
+  },
+  {
+    "id": 519774,
+    "IDcode": "390JNT-031",
+    "title": "搭配美丽超有风度的司法书生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ad48fd31d871ce8867e645644607d99a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-031"
+  },
+  {
+    "id": 518731,
+    "IDcode": "390JNT-046",
+    "title": "SNS搭讪爆乳G罩杯美女! !本以为是好女人过度的飞车女孩，没想到抖M全开恳求打耳光和勒脖子的变态辣妹! !尽情享受摇晃的美爆乳和美丽的脖子的色情cos SEX活蹦乱跳!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/20241228/V0SKrJC7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-046"
+  },
+  {
+    "id": 502770,
+    "IDcode": "390JNT-047",
+    "title": "【推定Iカップ！？男の全てを包みこむ癒し系マシュマロ超爆乳！】以前マッチした相性抜群",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/3c55135b2a8f8aba458e00039c90c6db.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-047"
+  },
+  {
+    "id": 537197,
+    "IDcode": "390JNT-049",
+    "title": "【美BODYクーデレセフレに浓厚精子を膣奥まで注入！“赤ちゃん出来ちゃったらどうする？”】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230721/pb_e_390jnt-049.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-049"
+  },
+  {
+    "id": 576711,
+    "IDcode": "390JNT-051",
+    "title": "【このエロ可爱さナンバーワン！圧倒的スーパーライク！！！】ティ●ダーでゲットした友达以上恋人未満などスケベ美女と三度目のデート！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221205/JDTW6IpX/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-051"
+  },
+  {
+    "id": 532687,
+    "IDcode": "390JNT-052",
+    "title": "【VIP爆乳】イ●スタにエロい自撮りを载せる、VIP対応専门の空港スタッフをSNSナンパ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230707/pb_e_390jnt-052.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-052"
+  },
+  {
+    "id": 532972,
+    "IDcode": "390JNT-053",
+    "title": "【中出しCA！紧急离陆SP】イ●スタにエロい自撮りを载せる、爆乳&超スレンダー美脚の国际线CA二人组",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231218/pb_e_390jnt-053.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-053"
+  },
+  {
+    "id": 533187,
+    "IDcode": "390JNT-055",
+    "title": "【最强Hカップ】イ●スタにエロい自撮りを载せる、Hカップ下乳职人をSNSナンパ！！锻え上げたチョイ割れ腹筋と美爆乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240525/pb_e_390jnt-055.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-055"
+  },
+  {
+    "id": 570060,
+    "IDcode": "390JNT-056",
+    "title": "【ハメ潮连発！】【もっちりぶり尻】【えちえち介护士】以前ティンダーでゲットした美少女ななみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230603/GqNCbRVS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-056"
+  },
+  {
+    "id": 542338,
+    "IDcode": "390JNT-057",
+    "title": "【世界のヤリマン】エロい投稿を缲り返し过ぎてイ●スタ运営に确実に目をつけられてる垢BANの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241115/PSy8TOLI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-057"
+  },
+  {
+    "id": 520463,
+    "IDcode": "390JNT-058",
+    "title": "【凄过ぎるイキかた】座っただけで10万円取られる完全会员制の超高级",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-058"
+  },
+  {
+    "id": 520502,
+    "IDcode": "390JNT-059",
+    "title": "【ドSな人妻イ●スタグラマー】谜多きセレブ人妻イ●スタグラマーをSNSナンパ！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1303,12 +1570,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=90JAC-115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-059"
   },
   {
-    "id": 519751,
-    "IDcode": "90JAC-122",
-    "title": "成人性感超好女人",
+    "id": 542478,
+    "IDcode": "390JNT-060",
+    "title": "【女教师のどエロい里垢】春休み限定でギャル化する音楽教师をSNSナンパ！！絶対に全·男子生",
     "year": "",
     "country": "",
     "genre": "",
@@ -1316,312 +1583,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/caa13762a01ca11e99a9e6c14705f6f7.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241116/DTg5UqXo/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=90JAC-122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-060"
   },
   {
-    "id": 533533,
-    "IDcode": "JAC-001",
-    "title": "_A ギャルしべ长者【中出しギャル×数珠つなぎ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-001"
-  },
-  {
-    "id": 578426,
-    "IDcode": "JAC-003",
-    "title": "A初撮り中出しお嬢様【美少女×制服×初めての调教】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-003"
-  },
-  {
-    "id": 516693,
-    "IDcode": "JAC-008",
-    "title": "吊辣妹富翁【中出辣妹×連鎖】 04",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe7700dd88d14f065653ba/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-008"
-  },
-  {
-    "id": 72701,
-    "IDcode": "JAC-012",
-    "title": "【神BODY×暴走中出し】ボンッキュインッボン！！神BODYが超暴走ォォ～～衝撃インパクトHcup爆乳！！「パターン白！暴走ギャルです！潮を撒き散らして近づいてきますッ」次回、超淫獣ギャル VS ロンギヌスの肉棒！サービス、サービス♪【ギャルしべ長者 第8使徒さーやん】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "潮吹",
-      "女大学生",
-      "玩具",
-      "4小时以上作品",
-      "肛交",
-      "业余",
-      "中出",
-      "素人作品",
-      "巨乳",
-      "企画"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/c5087dfe9a1397382ed4ee5606ba00dc.jpg",
-    "actress": [
-      "黑川纱里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-012"
-  },
-  {
-    "id": 88040,
-    "IDcode": "JAC-013",
-    "title": "【ル●ネギャル店員×中出し】ついに登場ォォ～安室奈●恵似SIROギャルゥゥゥ！！金髪・舌ピ・タトゥーで頂RUSHのカカカカカモォォォン♪アナル舐めジュパジュパご奉仕→敏感パイパンマ●コで天国ループ2連発ゥ最and高フォォォォ～♪ギャルの歴史にまた1ページ…【ギャルしべ長者6人目みゆちゃん】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "业余",
-      "中出",
-      "无毛",
-      "乳房",
-      "企画",
-      "女优按摩棒"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/6e192228c42eb4e73bb6c15439ba6a44.jpg",
-    "actress": [
-      "中条ミユ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-013"
-  },
-  {
-    "id": 72681,
-    "IDcode": "JAC-016",
-    "title": "【肉食淫乱モンスター×中出し×3連発】スポーツじゃなくてすみません…が、しかし！！安心してください！！どエロですよ！びっくりする位どエロですよ！ビンビンですよ！！精飲→中出し→顔射でぇぇ～ドォォォーン∑(゜Д゜)【スポえろジャーニー3人目かなちゃん】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "女大学生",
-      "吞精",
-      "业余",
-      "中出",
-      "企画",
-      "颜射",
-      "浴衣"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/87eb92679bc469b1f5f32fcdba4a3c6f.jpg",
-    "actress": [
-      "深田詠美",
-      "沢井亮"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-016"
-  },
-  {
-    "id": 70726,
-    "IDcode": "JAC-018",
-    "title": "【変态ドM看护师×中出し】1000年に1人のドすけべぇ～现る！まさに逸材！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "潮吹",
-      "角色扮演",
-      "中文字幕",
-      "业余",
-      "中出",
-      "企画",
-      "运动",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/52e47023082853200027ab1207beeb3f.jpg",
-    "actress": [
-      "水谷あおい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-018"
-  },
-  {
-    "id": 72266,
-    "IDcode": "JAC-021",
-    "title": "【宇宙一のド変態×中出し】すげ～戦闘力のギャルが来たみたいだ…おらワクワクすんぞぉ～！エロ闘力530000？か…か可愛い！アナル・拘束・ハメ潮・ごっくん飲尿…な～んでもすっぞ！こいつがもしかして伝説のスーパーサ●ヤ人…？？「銀河ギリギリぶっちぎりのエロい奴」ぜってぇ～見てくれよな！！【ギャルしべ長者10人目あゆ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "饮尿",
-      "肛交",
-      "业余",
-      "中出",
-      "拘束",
-      "企画",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/23bd6a93439400a75d23b709f462e6c2.jpg",
-    "actress": [
-      "七海ゆあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-021"
-  },
-  {
-    "id": 72700,
-    "IDcode": "JAC-022",
-    "title": "【中出し連発×H爆乳オナニー中毒】皆様いかがお過ごしでしょうか？私共は皆様の声援のお陰で元気にさせて頂いております。そして…お待たせしました…お待たせし過ぎたのかもしれません…私達事ではありますがJacksonが新企画を始める運びとなりました。妄想変態企画をしたいしたいと思って早6ヶ月…やっと妄想をこじらせてる応募女子がやって参りました。皆様のオナライフが充実する逸材であると共に、この新企画が大ヒットすると私共一同確信しております。何卒「妄想ちゃん。」をよろしくお願い申し上げます【妄想ちゃん。1人目さおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "自慰",
-      "业余",
-      "中出",
-      "巨乳",
-      "企画",
-      "颜射",
-      "女优按摩棒"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/8663c2437c5979e82a522195aa8df9a5.jpg",
-    "actress": [
-      "稻场流花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-022"
-  },
-  {
-    "id": 219282,
-    "IDcode": "JAC-025",
-    "title": "社会名流夫人无法对人诉说的性癖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/dc75b2e69214771b1f6ebd22b6c28a60.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-025"
-  },
-  {
-    "id": 564835,
-    "IDcode": "JAC-039",
-    "title": "ギャルしべ长者 中出しギャル×数珠つなぎ 22",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230101/s0qpSvvi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-039"
-  },
-  {
-    "id": 564836,
-    "IDcode": "JAC-042",
-    "title": "アラサーちゃん。 01 素人3名全员中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230101/2057edbh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-042"
-  },
-  {
-    "id": 572321,
-    "IDcode": "JAC-108",
-    "title": "【伦理観ブッ飞びやばエロGAL×中出し色々5连発】あ～さ～く～ら～！！！エロナースコスのHなお仕事！イクとこまでイクぞッ！ブッ飞びGALの爆裂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://pic47.anzise.com/pic/20230211/e0f556880d28e1b17da18efafc9a156a/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-108"
-  },
-  {
-    "id": 214361,
-    "IDcode": "JAC-111",
-    "title": "超级漂亮的屁股",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/11/ce1c02b08560438bfce17204980e8fa9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-111"
-  },
-  {
-    "id": 214660,
-    "IDcode": "JAC-112",
-    "title": "痴漢願望",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉"
-    ],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/27/707e148dc7fd85c596061bc77216546e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-112"
-  },
-  {
-    "id": 224898,
-    "IDcode": "JAC-168",
-    "title": "拥有G罩杯长相美貌的辣妹",
+    "id": 542479,
+    "IDcode": "390JNT-061",
+    "title": "【壊れちゃうハメ潮絶顶】下乳の写真でバズり散らかすGcupイ●スタグラマーをSNSナンパ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1631,14 +1600,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/5f332255906e2d5fc5578b6c9ffca5fe.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241116/YQdt846u/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-168"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-061"
   },
   {
-    "id": 544438,
-    "IDcode": "JAC-169",
-    "title": "【大量中出し】【天然美乳】【ハメ狂い性獣】结婚愿望も无くお一人様を讴歌する美身アラサー。美容贩売系の自営业で大成功中！デキる女はSEXも凄いんで new",
+    "id": 542480,
+    "IDcode": "390JNT-062",
+    "title": "【现役CA】【美乳美尻】【ハメ潮骑乘位】大人の雰囲気漂う现役美人CAとなんと神マッチング！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1646,14 +1615,61 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
-    "cover_url": "https://pic59.anzise.com/pic/20230728/00b0d4762e6f432e5769fdfb8609e102/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241116/2VpVabm0/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-169"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-062"
   },
   {
-    "id": 531382,
-    "IDcode": "JAC-175",
-    "title": "【反差婊子】正经公务员阿拉办公室秘密拍摄 巨乳肥臀敏感乳首疯狂震颤实录",
+    "id": 414423,
+    "IDcode": "390JNT-063",
+    "title": "【新シリーズ】×(エッ●ス)でえっちな自撮り見せてくれる『マン凸』ガールにSNSナンパ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/6429962bab47d6df660b5e40cdb8c3de.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-063"
+  },
+  {
+    "id": 450352,
+    "IDcode": "390JNT-064",
+    "title": "【新シリーズ始動！】【人妻×大人の背徳ランジェリー性交】【MGS動画限定！特典映像付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250509-1/05683141b769930840bc89bc4bf48b00.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-064"
+  },
+  {
+    "id": 542481,
+    "IDcode": "390JNT-065",
+    "title": "【カワイイ童颜とムチムチ爆尻】えっちな自撮り见せてくれる‘マン凸’ガールにSNSナンパ！社",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241116/z0eHBtR9/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-065"
+  },
+  {
+    "id": 542483,
+    "IDcode": "390JNT-066",
+    "title": "【见惚れるG乳】×(エッ●ス)でえっちな自撮り见せてくれる‘マン凸’ガールにSNSナンパ！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1663,85 +1679,25 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241117/NQvFXuer/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-175"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-066"
   },
   {
-    "id": 593041,
-    "IDcode": "JAC-186",
-    "title": "高挑辣妹Mana酱 小麦色援交辣妹与四猛男的狂欢5P！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250509-1/2a71fa3f722b491fbc897bb618f76cb7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-186"
-  },
-  {
-    "id": 562594,
-    "IDcode": "JFM-001",
-    "title": "妄想ちゃん。【素人娘×性癖解放】 10",
+    "id": 542482,
+    "IDcode": "390JNT-067",
+    "title": "【美人妻×中出し恳愿×大人の背徳ランジェリー性交】【MGS动画限定！特典映像付き】“実は私",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "人妻"
     ],
     "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/ikOt5i9f/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241117/tl6C6ada/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFM-001"
-  },
-  {
-    "id": 561069,
-    "IDcode": "JFM-002",
-    "title": "アラサーちゃん。 03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240423/QXfpCh2P/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFM-002"
-  },
-  {
-    "id": 545544,
-    "IDcode": "JFM-004",
-    "title": "アラサーちゃん。 04",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240510/JjzkF1V6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFM-004"
-  },
-  {
-    "id": 525583,
-    "IDcode": "JFM-005",
-    "title": "アラサーちゃん。 05",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "Jackson Stars",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240718/zXJqqGJG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFM-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JNT-067"
   }
 ];

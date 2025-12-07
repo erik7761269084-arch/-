@@ -273,9 +273,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
       "女同接吻",
       "兔女郎",
+      "苗条",
       "女同性恋"
     ],
     "type": "有码",
@@ -312,8 +312,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "高中女生",
-      "捆绑",
       "巨乳",
+      "捆绑",
       "女同性恋"
     ],
     "type": "有码",
@@ -399,11 +399,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "女同接吻",
-      "女检察官",
       "药物",
-      "女同性恋"
+      "女同性恋",
+      "戏剧",
+      "女检察官"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -425,10 +425,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "流汗",
-      "女同接吻",
-      "白天出轨",
+      "滥交",
       "女同性恋",
-      "滥交"
+      "女同接吻",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -663,10 +663,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "流汗",
-      "素人",
-      "女同接吻",
       "猎艳",
-      "女同性恋"
+      "女同性恋",
+      "女同接吻",
+      "素人"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -718,11 +718,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "潮吹",
       "空中小姐",
-      "巨乳",
-      "女同性恋",
-      "SM"
+      "SM",
+      "女同性恋"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -918,8 +918,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
       "荡妇",
+      "潮吹",
       "女教师",
       "女同性恋",
       "淫语"
@@ -959,9 +959,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "捆绑",
-      "寡妇",
       "SM",
-      "女同性恋"
+      "女同性恋",
+      "寡妇"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -982,9 +982,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "女同接吻",
-      "女同性恋",
+      "已婚妇女",
       "接吻",
-      "已婚妇女"
+      "女同性恋"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1126,11 +1126,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "女同接吻",
-      "偶像",
-      "美少女电影",
       "角色扮演者",
-      "女同性恋"
+      "美少女电影",
+      "偶像",
+      "女同性恋",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
@@ -1149,9 +1149,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "SM",
-      "女同接吻",
       "放尿",
+      "女同接吻",
+      "SM",
       "女同性恋"
     ],
     "type": "有码",
@@ -1314,10 +1314,10 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "玩具",
-      "女同接吻",
       "美少女电影",
+      "接吻",
       "女同性恋",
-      "接吻"
+      "女同接吻"
     ],
     "type": "有码",
     "company": "BIBIAN",
