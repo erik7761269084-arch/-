@@ -119,13 +119,18 @@ h2{
 .preview-thumb.active{
     border-color:#00ff90;
 }
+
+#comicTitle {
+    display: none;
+}
 </style>
 </head>
 <body>
 
 <div class="container">
     <h2 id="comicTitle"></h2>
-    <div class="source">原文：<a id="comicSource" href="" target="_blank">Telegraph 原文</a></div>
+ 
+	<div class="source" style="display:none;">原文：<a id="comicSource" href="" target="_blank">Telegraph 原文</a></div>
 
     <div id="comicContainer"></div>
 </div>
@@ -159,6 +164,8 @@ function loadComicData(){
 }
 
 loadComicData().then(data=>{
+    document.title = data.title;             // 设置浏览器标签页标题
+    document.getElementById("comicTitle").innerText = data.title;  // 页面内标题
     initViewer(data);
 });
 
