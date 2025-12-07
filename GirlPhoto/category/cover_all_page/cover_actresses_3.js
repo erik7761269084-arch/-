@@ -51,7 +51,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "Suzuki",
-    "cover_url": "https://telegra.ph/file/dfde598b584e9af45f888.jpg",
+    "cover_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
   },
   {
@@ -131,7 +131,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "Sally Dorasnow",
-    "cover_url": "https://telegra.ph/file/e33f10e90a84d20d9ab56.jpg",
+    "cover_url": "https://telegra.ph/file/9fa800acccba2d40bc1f5.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sally Dorasnow.html"
   },
   {
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "Risa",
-    "cover_url": "https://upload.xchina.io/default/model.jpg",
+    "cover_url": "https://telegra.ph/file/747a11cecb77c6e3141b6.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Risa.html"
   },
   {
@@ -421,12 +421,12 @@ window.PAGE_DATA = [
   },
   {
     "title": "Hyojin (효진)",
-    "cover_url": "https://upload.xchina.io/default/model.jpg",
+    "cover_url": "https://telegra.ph/file/39d7ff3f5f165e449cf72.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hyojin (효진).html"
   },
   {
     "title": "Hokunaimeko",
-    "cover_url": "https://telegra.ph/file/568561192219d774faf30.jpg",
+    "cover_url": "https://telegra.ph/file/e4d14378859b279231239.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hokunaimeko.html"
   },
   {
@@ -471,7 +471,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "G44不会受伤",
-    "cover_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+    "cover_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
   },
   {

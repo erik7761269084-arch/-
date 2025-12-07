@@ -26,7 +26,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "见希w",
-    "cover_url": "https://telegra.ph/file/709aa5b6241bb2543466b.jpg",
+    "cover_url": "https://telegra.ph/file/f0ee74d891cd64a66a228.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_见希w.html"
   },
   {
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "发财阿弦",
-    "cover_url": "https://image.acg.lol/file/2025/06/02/15_17.jpg",
+    "cover_url": "https://image.acg.lol/file/2025/06/02/01_10.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_发财阿弦.html"
   },
   {
@@ -201,7 +201,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "抖娘利世",
-    "cover_url": "https://telegra.ph/file/c5d3fa9d0abbab406ff09.jpg",
+    "cover_url": "https://telegra.ph/file/7a08d51ff6ad0cff5c296.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_抖娘利世.html"
   },
   {
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "阿薰kaOri",
-    "cover_url": "https://image.acg.lol/file/2025/07/24/1-163.jpg",
+    "cover_url": "https://image.acg.lol/file/2024/12/22/063.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阿薰kaOri.html"
   },
   {
@@ -481,7 +481,7 @@ window.PAGE_DATA = [
   },
   {
     "title": "Yeha",
-    "cover_url": "https://telegra.ph/file/20a12079f8de0de03de1b.jpg",
+    "cover_url": "https://telegra.ph/file/a928c8031e75ad3812753.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yeha.html"
   },
   {
