@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "影子喵ghost",
-        "img_url": "https://image.acg.lol/file/2025/07/28/1-76f587ca55e3008409.jpg",
+        "img_url": "https://image.acg.lol/file/2025/07/28/1-20f63d452cfbb66b3.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_影子喵ghost.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "影子喵ghost",
-        "img_url": "https://image.acg.lol/file/2025/07/28/1-76f587ca55e3008409.jpg",
+        "img_url": "https://image.acg.lol/file/2025/07/28/1-20f63d452cfbb66b3.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_影子喵ghost.html"
       }
     ],

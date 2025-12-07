@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "雨儿酱eve",
-        "img_url": "https://telegra.ph/file/4a860fddfa683d1718bfd.jpg",
+        "img_url": "https://telegra.ph/file/cbf01ce834d79586f8ac4.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_雨儿酱eve.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "雨儿酱eve",
-        "img_url": "https://telegra.ph/file/4a860fddfa683d1718bfd.jpg",
+        "img_url": "https://telegra.ph/file/cbf01ce834d79586f8ac4.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_雨儿酱eve.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "雨儿酱eve",
-        "img_url": "https://telegra.ph/file/4a860fddfa683d1718bfd.jpg",
+        "img_url": "https://telegra.ph/file/cbf01ce834d79586f8ac4.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_雨儿酱eve.html"
       }
     ],

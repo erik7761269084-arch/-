@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "鹿初",
-        "img_url": "https://telegra.ph/file/563dd5b1c3afa88ff4429.jpg",
+        "img_url": "https://telegra.ph/file/b2dea2ff2645e644e538a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿初.html"
       }
     ],

@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -182,7 +182,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "蓝小沂KiKi",
-        "img_url": "https://telegra.ph/file/f0c7c63a606bef54a811f.jpg",
+        "img_url": "https://telegra.ph/file/aac72e651f45c3e0d86b1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_蓝小沂KiKi.html"
       }
     ],

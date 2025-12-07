@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -140,7 +140,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -182,7 +182,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -245,7 +245,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -266,7 +266,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -287,7 +287,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -308,7 +308,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],
@@ -329,7 +329,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "九柒喵",
-        "img_url": "https://image.acg.lol/file/2025/08/08/1-66.jpg",
+        "img_url": "https://image.acg.lol/file/2025/04/27/1-109b276534d52d452b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_九柒喵.html"
       }
     ],

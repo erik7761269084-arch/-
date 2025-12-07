@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "樱可",
-        "img_url": "https://telegra.ph/file/b44fe1d20c4d51382e066.jpg",
+        "img_url": "https://telegra.ph/file/e4f96f671c5975729a3ce.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱可.html"
       }
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "樱可",
-        "img_url": "https://telegra.ph/file/b44fe1d20c4d51382e066.jpg",
+        "img_url": "https://telegra.ph/file/e4f96f671c5975729a3ce.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱可.html"
       }
     ],
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "actress": [
       {
         "name": "樱可",
-        "img_url": "https://telegra.ph/file/b44fe1d20c4d51382e066.jpg",
+        "img_url": "https://telegra.ph/file/e4f96f671c5975729a3ce.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱可.html"
       }
     ],
